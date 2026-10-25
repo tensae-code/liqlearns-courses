@@ -78,3 +78,15 @@ The vowel-sounds depth this book adds (Units 2–5 phonics):
   pool, food · short oo /ʊ/: book, foot, look, cook, wood, hook.
 - **Long and short ow** (p.90): long ow /oʊ/: snow, grow, window,
   throw, know · short ow /aʊ/: cow, now, owl, how, brown.
+
+## Egypt — Primary 4 Term 1 (read 2026-10-25)
+- **Short vs long vowels, defined in plain words** (U1
+  Pronunciation, p.17): short vowel sounds are quick and do NOT
+  say the letter's name; long vowel sounds say the letter's name.
+  Worked pairs: hat/plate, pot/home, pen/feed.
+- **Silent e, restated** (U5 Pronunciation, p.89): a silent e at
+  the end of a word, after one consonant, makes the vowel before
+  it a long vowel — rope, slide, cube, face, stone, flute, gate,
+  nine. (Third statement of the magic-e rule in the Egypt run:
+  P3 T2 p.48, here p.89.)
+Same country, deeper layer — the country count does not change.

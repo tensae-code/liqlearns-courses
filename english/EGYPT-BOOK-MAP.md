@@ -3469,3 +3469,177 @@ CURRICULUM.md. Primary 3 is now COMPLETE (both terms).
 **PRIMARY 3 TERM 2 FULLY READ — 2026-10-25.** Egypt progress: 8 of
 26 English books read (KG1, KG2, P1 T1+T2, P2 T1+T2, P3 T1+T2).
 Next: Primary 4 Term 1.
+
+---
+
+## Egypt — English Primary 4 Term 1 (read 2026-10-25)
+
+Source: the newest copy on the ministry e-learning host
+(2026_2027 path, last-modified 2026-08-17); an older 2026-path copy
+exists and was NOT taken — latest edition wins. Working file
+`English_language_prim4_t1.pdf`, 29,131,912 bytes, ends %%EOF, PDF
+title "ENG G4 T1", 121 pages, IMAGE-ONLY (zero text on every page —
+read visually). Printed folio = PDF page throughout.
+
+Identity: cover "English / Primary 4 / Term 1" with a NEW design —
+cartoon cover art, but the inside plates are mostly REAL
+PHOTOGRAPHS. © 2025 Ministry of Education and Technical Education
+(p.2, with the ministry dedication). Back page (p.120): ISBN
+978-633-8475-11-6, deposit no. 2026/9307, Arabic print spec says
+124 pages (the PDF holds 121 — same print-vs-PDF gap as P3 T1),
+book code 10/4/1/1/40/58, printing 2026–2027; developed/revised/
+supervised by Prof. Zeinab El-Naggar, Prof. Attia El-Sayed, Prof.
+Nagwa Younis, Dr. Mai Kamal, Ms. Amira Awaad and others; Selah El
+Telmeez; British Council + CACD marks. Ministry message (p.6)
+names the "Primary 4 Framework for Egyptian Learners" and promises
+each unit a fable inspired by Middle Eastern folklore.
+
+Shape: Scope and Sequence now spans pp.3–5 with a Life Skill(s) /
+Core Value(s) / Integrated learning Activities column set. Six
+units, each with a Learning Outcomes opener, five lessons in a
+fixed rhythm — L1 words + dialog, L2 text + Language in Use box,
+L3 Story Time + Pronunciation, L4 Writing, L5 Think and Create —
+then Quick Review + a "Now I can…" thumbs Self-Assessment. Review
+1 after U3 (pp.57–60), Review 2 after U6 (pp.109–113). Glossary
+pp.114–116 (~110 words BY CATEGORY with one-line definitions),
+blank Notes pp.117–119, back-cover values page (p.121).
+
+Unit spans: U1 The Five Senses pp.7–22 · U2 My Community
+pp.23–38 · U3 Animals In Our World pp.39–56 · U4 Egypt — My
+Homeland pp.61–78 · U5 A Day At Work pp.79–94 · U6 The Hundred
+Dresses pp.95–108 (a STORY unit — a real published story, adapted;
+no Language in Use).
+
+GRAMMAR SPINE (Language in Use boxes, book order):
+1. **Present Simple Affirmative** (U1, p.13) — used for daily
+   habits and routines; I/you/we/they and plural nouns take the
+   plain verb; he/she/it and singular nouns add -s/-es/-ies (the
+   book shows plays / brushes / carries). A compressed restatement
+   of P3 T1's full spelling rules.
+2. **Present Simple Negative and Question** (U2, p.29) — the
+   book's full form rules: don't with I/you/we/they and plurals,
+   doesn't with he/she/it and singulars; questions open with do /
+   does and the plain verb.
+3. **Comparative adjectives** (U3, p.45) — used to compare two
+   people, things or animals, with all four spelling rules stated:
+   add -er; double the last letter after a short vowel (big →
+   bigger); words ending -e add -r; consonant + -y changes to -ier.
+   Every example runs with "than".
+4. **Prepositions of Place** (U4, p.67) — "show where things are,"
+   taught on a cat-and-box plate: in, on, in front of, behind,
+   next to, between. (Union with P3 T1's set — which had under —
+   is now the fullest place set in the Egypt run.)
+5. **Superlative adjectives** (U5, p.85) — "the greatest degree
+   of something": the same four spelling rules with -est and
+   "the" in front (tallest, biggest, nicest, happiest).
+
+Also named in print: **prefixes** (U2 Tip, p.33) — a prefix is a
+small group of letters added to the beginning of a word to change
+its meaning; dis-, il- and ir- all shown making opposites
+(dislike, illegal, irregular, dishonest, irresponsible…), the
+first prefix teaching in the Egypt run. **Big numbers** (U4 L3,
+p.68): reading numbers up to a billion, built up place by place —
+a billion is stated as a thousand million.
+
+PHONICS SPINE: short vs long vowels defined in plain words (U1,
+p.17 — short sounds are quick and not the letter's name; long
+sounds say the letter's name) with an a/o/e table in the U1
+self-assessment. Voiced/voiceless pairs, the series' running
+thread: /f/ voiceless vs /v/ voiced (U2, p.32) and /p/ voiceless
+vs /b/ voiced, with how to make them — lips together, blow out
+air for p, use your voice for b (U4, p.69). Blends fr / dr / pl
+(U3, p.49) with the blend definition restated in the book's own
+short form (joining two or more sounds to read a word — frown,
+fruit, drum, draw, plane, plant). Silent e restated (U5, p.89):
+a silent e after one consonant makes the vowel before it long
+(rope, slide, cube, face, stone, flute, gate, nine).
+
+UNIT NOTES:
+- U1 The Five Senses — the five senses taught through REAL
+  PHOTOS (a child tasting ice cream, an eye, an ear, a finger on
+  a cactus, smelling a flower); "My Healthy Day" routine text;
+  Story Time is the Goha folk tale of the soup's smell paid for
+  with the sound of coins (Middle Eastern folklore, as the
+  ministry message promised); the story-elements Tip (p.15) is
+  the fullest printed form yet — Characters, Setting, and Plot
+  broken into Beginning / Problem / Middle / Ending; Writing =
+  sequence words extended to First, Next, Then, After that,
+  Finally; L5 is a healthy-eating presentation with peer star
+  feedback.
+- U2 My Community — helping words by real photos (collect,
+  plant, clean, help, feed, volunteer); a problems-and-solutions
+  dialog (traffic, trash); L3 is Egypt's own culture text: the
+  Delta in the north vs Upper Egypt in the south — Spring
+  Festival, the sugar cane harvest, Nubia's painted houses,
+  galabeyas and turbans; Writing = a diary entry, with the book's
+  four printed parts (date, greeting, details, closing) and a
+  four-paragraph frame; L5 = a solutions poster.
+- U3 Animals In Our World — six animals by real photos with
+  one-line descriptions; a taking-care-of-animals text saturated
+  with comparatives in use before the rule box; Story Time is
+  the Aesop fable of the old lion and the fox, with the moral
+  defined again in the book's simplest words (the lesson a story
+  teaches us, showing right from wrong); Writing = a research
+  report on endangered animals (the Arabian Leopard and the Red
+  Sea Dugong, real photos) with the book's six printed report
+  parts — title, introduction, facts, examples, solutions,
+  conclusion — and a writing frame to match.
+- U4 Egypt — My Homeland — famous places by real photos
+  (Pyramids, Nile, Cairo Tower, Siwa Oasis, Egyptian Museum,
+  Khan Al-Khalili) with a tour-guide dialog; city places text
+  carrying prepositions in use before the rule box; the big-
+  numbers lesson; Writing = a blog post, with the book's six
+  printed blog parts (clear title, writer's name, date,
+  pictures, interesting details, descriptive words) and a
+  sense-words Tip tying descriptive writing back to U1; L5
+  dissects a travel leaflet and names its parts (main heading,
+  sub-heading, image, detailed description, call to action —
+  each defined in a line).
+- U5 A Day At Work — jobs by real photos keyed to uniforms
+  (doctor, nurse, teacher, engineer, firefighter, police
+  officer) with a what-do-you-do / what-do-you-wear dialog;
+  "Four Amazing Jobs" (a mentor, a wildlife photographer, a
+  puppeteer, a voice-over actor) seeding superlatives in the
+  text; Story Time is the folk tale of the carpenter's last
+  house (work ethics — the S&S value is integrity); Writing =
+  non-fiction, with the book's truth test ("Is the information
+  true? Did I make anything up?") and a paragraph's parts named
+  — introductory sentence, true details, adjectives, closing
+  sentence; L5 = origami, defined in print as the Japanese art
+  of paper folding.
+- U6 The Hundred Dresses — a whole unit on ONE real published
+  story, credited on the outcomes page to its author, Eleanor
+  Estes, in a simplified retelling (recorded here as summary
+  only): a quiet girl who wears the same faded dress daily yet
+  speaks of a hundred dresses at home is teased by two
+  classmates; her hundred dress DRAWINGS win the school
+  competition after her family has moved away; the two girls
+  write to apologize, she answers kindly and gifts them the
+  drawings, and they resolve to speak up against bullying.
+  Front matter: picture vocabulary + a definitions page in the
+  book's plain style (bullying, apologize, behavior…) + the four
+  characters named. Follow-up work: who-said-it, event ordering,
+  a story-elements diagram (Setting / Characters / Moral, the
+  moral stated in one line), agree-or-disagree judgment work
+  with reasons, writing back in the main character's voice, and
+  a word-search self-assessment. The Story title's biggest
+  single-book unit yet — a real literature text, not a made-up
+  passage.
+
+Back cover (p.121): five values messages with real photos of
+children — helping others, respecting differences, kind words,
+eating fruit and vegetables, daily exercise.
+
+Filed from this read: blends sources (fr/dr/pl + the restated
+blend definition, p.49); word-families sources (short/long vowel
+definition, p.17; silent e restated, p.89); two-letter-sounds
+sources (the f/v and p/b voicing pairs, pp.32, 69). The rest —
+present simple in all three forms, comparatives, superlatives,
+the fullest preposition set, prefixes, big numbers, the writing
+frames (diary, report, blog, leaflet, non-fiction paragraph),
+the story-elements plot arc, and one whole adapted literature
+unit — is recorded here and slotted in CURRICULUM.md.
+
+**PRIMARY 4 TERM 1 FULLY READ — 2026-10-25.** Egypt progress: 9
+of 26 English books read (KG1, KG2, P1 T1+T2, P2 T1+T2, P3 T1+T2,
+P4 T1). Next: Primary 4 Term 2.

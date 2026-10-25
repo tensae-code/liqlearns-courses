@@ -53,3 +53,14 @@ the book's own stated rule (full map: EGYPT-BOOK-MAP.md):
   a word's end (game, dog, gum, green); g says /dʒ/ before e, i, y
   (giraffe, Egypt, page, huge, magic).
 Same country, deeper layer — the country count does not change.
+
+## Egypt — Primary 4 Term 1 (read 2026-10-25)
+- **The f / v pair** (U2 Pronunciation, p.32): /f/ is voiceless —
+  the throat doesn't vibrate (fish, forest, factory, flag); /v/
+  is voiced — the throat vibrates (van, violin, view, vest).
+- **The p / b pair** (U4 Pronunciation, p.69): p is voiceless —
+  lips together, blow out air (peak, pan, pond); b is voiced —
+  lips together, use your voice (bear, bin, bat).
+- The voicing thread now runs th (P3 T1) → f/v → p/b across the
+  Egypt books: same letter-shape pairs, told apart by the voice.
+Same country, deeper layer — the country count does not change.

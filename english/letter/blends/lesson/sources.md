@@ -44,3 +44,10 @@ as recorded there.) Same country, deeper layer.
   truck, trap.
 - Book's own naming: "Consonant Blends 'sl', 'st', 'gr', 'tr'"
   (Scope and Sequence, p.4).
+
+## Egypt — Primary 4 Term 1 (read 2026-10-25)
+- **The fr / dr / pl families** (U3 Pronunciation, p.49), with the
+  blend definition restated in the book's shortest form yet —
+  joining two or more sounds together to read a word:
+  fr — frown, fruit · dr — drum, draw · pl — plane, plant.
+Same country, deeper layer — the country count does not change.

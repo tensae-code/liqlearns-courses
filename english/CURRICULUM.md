@@ -110,6 +110,29 @@ abilities** (U5). It also stocks Term 4: a whole STORY unit — The
 Honest Choice — with a printed story map (characters, setting) and
 the moral named as a story part (U6), and sixteen moral-carrying
 texts across the book.)*
+*(Egypt Primary 4 Term 1, read 2026-10-25, stocks this term
+further: **present simple in all three forms** — affirmative
+restated with its spelling rules (U1), then the **negative and
+question forms with their own full rules** (don't / doesn't /
+do / does, U2) · **comparative adjectives** with all four
+spelling rules and "than" (U3) · **superlative adjectives** —
+the same four rules with -est and "the" (U5) · the **fullest
+preposition-of-place set** — in, on, in front of, behind, next
+to, between, on a cat-and-box plate (U4) · **prefixes** named
+and defined, dis- / il- / ir- making opposites (U2) · **reading
+big numbers up to a billion**, built place by place (U4). It
+also stocks Term 4 heavily: the **story elements in their
+fullest printed form** — characters, setting, and plot as
+beginning / problem / middle / ending (U1) — five writing
+frames with their parts named in print (a **diary entry**'s
+date / greeting / details / closing, U2 · a **report**'s title /
+introduction / facts / examples / solutions / conclusion, U3 ·
+a **blog**'s title / name / date / pictures / details /
+descriptive words + sense words, U4 · a **leaflet**'s heading /
+sub-heading / image / description / call to action, U4 · the
+**non-fiction paragraph**'s introductory sentence / true
+details / closing sentence with a truth test, U5) — and a whole
+unit on one real published story, adapted (U6).)*
 
 ## Term 4 — Paragraphs, essays, and stories
 *End of term: the learner reads whole texts, writes paragraphs and a
