@@ -424,6 +424,17 @@ Book page = PDF page − 4, same as KG1.
   "Tomorrow is Tuesday." "Let's count the days!" — the whole week
   counted aloud — "There are 7 days in the week. We did it!"
 - p.80 Think back: ✓/✗ true-false on the dialog
+- p.81 Sing and Chant: **Days of the Week Song** ("Sunday, Monday —
+  here we go! … Saturday is the day for fun! Seven days are in the
+  week…")
+- p.82 **Unit 3 Review** — trace Oo/Bb/Ff/Ll; color the days-of-the-
+  week rocket; count and circle 6-7-8
+
+### KG2 Unit 4 — started (book pp.83–84)
+- p.83 Opener in 3 panels: "I get up in the morning." / "I go to
+  school." / "I go to bed at night."
+- p.84 "I have breakfast in the morning." / "I have lunch at noon."
+  / "I have dinner at night." (meals tied to times of day)
 
 ## Still owed in this pass
 - Finish KG2, then Primary 1 Term 2 — one book at a time.
