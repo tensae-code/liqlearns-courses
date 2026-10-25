@@ -37,6 +37,179 @@ Unit 1 lessons, as the book orders them: Lesson 1 Greetings ·
 Lesson 2 Phonics (Tt/Ii) · Lesson 3 · Lesson 4 — full lesson-by-lesson
 breakdown gets recorded here as each unit is worked through.
 
+## Primary 1 Term 1 — full read in progress (started 2026-10-25)
+
+Book: English_language_prim1_t1.pdf — 81,833,262 B, 128 pp.
+**Page rule for THIS book (verified from the renders): one book page
+per PDF page; the printed page number at the foot equals the PDF page
+number** (printed 4 on PDF p.4, 5 on p.5, 6 on p.6, 9 on p.9, and so
+on). This CORRECTS the older note in the Greetings sources file that
+said two book pages sit side by side on one PDF page — they do not.
+
+### Front matter (PDF pp.1–6; read 2026-10-25)
+- p.1 Cover: "English — Primary 1 — Term 1," two children reading.
+- p.2 Ministry page: all rights reserved; the Ministry "dedicates
+  this book, with love, to the children and families of the Arab
+  Republic of Egypt"; Name / Class / School box.
+- pp.3–4 **Scope and Sequence** — the whole term on two pages:
+  - U1 Welcome to My School — vocab: Hello!, Goodbye!, play, friends,
+    bag, shake hands, teacher, board, desk, chair, book, pencil ·
+    Language: "What's your name? / My name is … / I'm … / We are
+    friends. / Stand up. / Sit down. / Open your book." · Phonics:
+    **Tt /t/: tomato, table, tree · Ii /ɪ/: ink, insect, ill** ·
+    Values: using simple greetings; following classroom instructions;
+    describing objects and actions; expressing oneself and making
+    friends.
+  - U2 The Garden of Colors and Shapes — vocab: grass, flower, tree,
+    sky, bird, butterfly, circle, square, triangle, rectangle, green,
+    blue, red, yellow · Language: "I can see … / What's this? / This
+    is a … / The grass is green. / The sky is blue. / The sun is
+    yellow. / The flower is red. / The butterfly is flying." ·
+    Phonics: **Ss /s/: sun, star, snake · Aa /æ/: ant, axe, apple** ·
+    Values: paying attention to surroundings; asking and answering
+    questions; identifying colors and shapes.
+  - U3 I Love My Family — vocab: parents, father, mother, sister,
+    brother, grandmother, grandfather; Numbers 1 to 5 · Language:
+    "Who's this? / This is my … / How many …? / There are 4 … / I have
+    1 brother. / I have 2 sisters. / There is 1 butterfly. / There are
+    3 birds. / I see 5 trees." · Phonics: **Nn /n/: nose, neck, net ·
+    Pp /p/: pencil, pizza, panda · Hh /h/: hat, hair, horse · Dd /d/:
+    door, dog, drum** · Values: introducing family members; asking and
+    answering questions; identifying numbers and their values;
+    counting objects and using numbers in sentences.
+  - U4 My Body and My Senses — vocab: head, eyes, ears, nose, mouth,
+    tongue, arm(s), hand(s), leg(s), foot/feet, toe(s), see, hear,
+    smell, taste, touch · Language: "I have 1 nose. / I have 1 mouth.
+    / I have 2 eyes. / I have 2 ears. / I can see with my eyes. / I can
+    hear with my ears. / I can taste with my tongue. / I can smell
+    with my nose. / I can touch with my hands." · Phonics: **Rr /r/:
+    red, rabbit, rocket · Ee /e/: egg, elephant, elbow · Cc /k/: cat,
+    cake, cup · Kk /k/: kite, king, kitchen** · Values: identifying
+    and counting body parts; self-awareness; identifying and
+    describing senses; understanding body functions.
+  - U5 On the Farm — vocab: farm, cow, horse, duck, chicken, milk,
+    cheese, meat, eggs, big, small; Numbers 6 to 10 · Language: "The
+    cow gives us milk, cheese and meat. / The chicken gives us eggs.
+    / The cow is big. / The horse is big. / The duck is small. / The
+    chicken is small. / How many horses can you see? / I can see …
+    horses. / Count the ducks. / There are … ducks." · Phonics:
+    **Mm /m/: moon, milk, monkey · Gg /g/: goat, girl, grapes · Oo
+    /ɒ/: octopus, on, ostrich · Ff /f/: fish, fan, frog** · Values:
+    identifying and describing farm animals; understanding food
+    origins; comparing and differentiating sizes; identifying numbers
+    and their values; counting objects and using numbers in sentences.
+  - U6 Animals Around Me — vocab: pets, cat, dog, turtle, bird,
+    jungle, lion, tiger, elephant, monkey, giraffe, snake · Language:
+    "Where is the …? / in, on, under / The cat is under the chair. /
+    The dog is on the sofa. / The bird is in the cage. / The lion has
+    4 legs. / The tiger has 4 legs. / The monkey has 2 legs." ·
+    Phonics: **Bb /b/: boy, ball, banana · Ll /l/: lamp, leaf, lion ·
+    Uu /ʌ/: under, up, umbrella · Jj /dʒ/: jar, jam, jacket** ·
+    Values: identifying and describing jungle animals; identifying
+    domestic animals (pets); grouping animals based on features;
+    introducing prepositions; understanding position and space.
+  - **The term's phonics line is therefore all 26 letters again** —
+    Tt Ii (U1) · Ss Aa (U2) · Nn Pp Hh Dd (U3) · Rr Ee Cc Kk (U4) ·
+    Mm Gg Oo Ff (U5) · Bb Ll Uu Jj (U6) — Primary 1 re-teaches the
+    whole alphabet in a new sounds order, with new words.
+- p.5 "A Message from the Ministry of Education and Technical
+  Education — Welcome to Your English Learning Journey!": the book is
+  the *Primary 1 Framework for Egyptian Learners*; weekly sessions;
+  Listening and Speaking (storytelling, discussions, role-play) ·
+  Reading and Phonics · Writing and Vocabulary · Cultural Integration
+  (Egyptian traditions) · visual/interactive elements · assessment
+  and feedback.
+- p.6 "My First Day of School" — "Draw and/or glue a picture of
+  yourself on your first day of school." (the learner's own picture
+  page, before Unit 1)
+
+### P1T1 Unit 1 "Welcome to My School" — page by page (PDF pp.7–24; read 2026-10-25)
+- p.7 Unit opener + Learning Outcomes: recognize and respond to
+  greetings in simple conversations; follow basic classroom
+  instructions; identify the formation, sound, and words that begin
+  with the letters Tt and Ii; introduce oneself using complete
+  sentences in structured speaking activities; use simple expressions
+  to interact with peers in guided classroom conversations.
+- **Lesson 1: Greetings** (pp.8–11)
+  - p.8 Dialog (Listen): Maya: "Hello!" · Hana: "Hello! What's your
+    name?" · Maya: "My name is Maya." · Hana: "I'm Hana! Nice to meet
+    you, Maya!" · Maya: "Nice to meet you, too, Hana! Do you want to
+    shake hands?" · Hana: "Yes! *(They shake hands)*" · Maya:
+    "Goodbye, Hana!"
+  - p.9 Listen, repeat, then act out — Vocabulary pictures: **hello,
+    goodbye, shake hands, play**; speech bubble: "What's your name?
+    My name is Hana. We are friends now!"
+  - p.10 Trace the following lines — three dotted paths (zigzag,
+    stepped, wavy) from animals (bird, dog, cat) to their objects —
+    the Pencil and Lines hand work continues inside Primary 1.
+  - p.11 Ex.4 Listen, point, and mark the matching picture (Hello! /
+    Goodbye! / shake hands / play — two pictures each, one matches) ·
+    Ex.5 Look at the picture and the word, put ✓ if they match and ✗
+    if they don't (friends, goodbye, play, shake hands, hello) — the
+    true/false judgment shape.
+- **Lesson 2: Phonics — Tt** (pp.12–16)
+  - p.12 Listen and repeat (real photos): **table, tomato, tiger,
+    teacher, tree** — the t is printed red in each word · Trace Tt in
+    uppercase and lowercase forms (dotted lines with start dots).
+  - p.13 Formation box for T and t (numbered strokes with arrows:
+    T = down, then across the top; t = down, then cross) over the word
+    **teacher** · more Tt tracing · Ex.4 Match the objects that start
+    with Tt (tree, tomato, tiger — against table and a parrot/chair
+    distractors).
+  - p.14 Trace the following lines (loop, wave, and arch dotted
+    paths) · big Tt with **tiger** · more Tt tracing.
+  - p.15 Ex.7 Circle the beginning letter (t or i: teacher, table,
+    tree pictures) · Ex.8 Trace the beginning letter in each word
+    (**t**omato, **t**iger, **t**able, **t**ree) · Ex.9 Circle the
+    beginning letter with two-letter choices (Tt/Mm, Tt/Ss, Tt/Ii,
+    Tt/Pp).
+  - p.16 Trace the following lines — three vertical dotted paths
+    (straight, curved, wavy) from fish/ship/parrot down to
+    shell/lighthouse/map.
+- **Lesson 3: Around My Classroom** (pp.17–20)
+  - p.17 Listen and repeat — the classroom set around the teacher:
+    **teacher, book, bag, pencil, chair, desk, board**.
+  - p.18 Listen, point, and repeat — the classroom instructions:
+    **"Sit down." / "Stand up." / "Open your books."**
+  - p.19 Ex.3 Circle the pictures that you can find in your classroom
+    (book, pencil, bag, desk, teacher, chair — against tree, cat,
+    house) · Ex.4 Look at the picture and the word, ✓/✗ (teacher,
+    sit down, pencil, book, stand up, desk, chair, bag — several
+    deliberately mismatched, e.g. "stand up" over a desk picture,
+    "desk" over a book).
+  - p.20 Ex.5 Listen, point, and write ✓ for the matching picture —
+    word rows (teacher, sit down, stand up, desk, chair, pencil, bag),
+    each with two pictures, one right and one wrong.
+- **Lesson 4: Phonics — Ii** (pp.21–24)
+  - p.21 Listen and repeat (real photos): **in** (a dog in a box, with
+    a down arrow), **ill** (a boy in bed with a thermometer),
+    **insect** (a ladybird), **ink** (an ink bottle) — the i is red ·
+    Trace Ii in uppercase and lowercase forms.
+  - p.22 Formation box for I and i (I = down, across top, across
+    bottom; i = down, then the dot) over **in** (toys in a box) ·
+    more Ii tracing · Ex.4 Match the objects that start with Ii
+    (insect, ink — against tree, ill/bed, tiger, tomato).
+  - p.23 Ex.5 Circle all the pictures that start with Ii (ink, in —
+    the box of balls — and the insect/ladybird; against tree, table,
+    dog, house, cat, tomato) · Ex.6 Trace the following lines — five
+    dotted paths (straight, zigzag, wavy, big wave, small wave), each
+    led by a bug (ladybird, fly, caterpillar, ant, snail).
+  - p.24 Big Ii with **ink** · more Ii tracing · Ex.8 Choose the
+    picture of the word that starts with the letter (Ii: ink vs
+    teacher; Tt: tiger vs insect; Tt: in-box vs tree; Ii: ill vs
+    tomato) — Tt and Ii tested together, the unit's two letters.
+
+Unit 1 basics filed from this read: Greetings sources gain the full
+P1 layer (dialog p.8, vocab p.9, matching p.11 — the earlier rows were
+already there; the page note is now corrected); the-alphabet sources
+gain P1's Tt words (table, tomato, tiger, teacher, tree) and Ii words
+(in, ill, insect, ink) with formation/tracing pages; Drawing lines
+sources gain P1's continued line-tracing (pp.10, 14, 16, 23). The
+classroom word set (teacher, book, bag, pencil, chair, desk, board)
+and the instruction sentences (Sit down. / Stand up. / Open your
+books.) are recorded here for the Word and Sentence titles in ladder
+order.
+
 ## Built so far
 - greetings/hello-and-your-name/ — built from Unit 1, Lesson 1 (see its
   sources.md). Title = the common-sense name (Greetings), not the book's

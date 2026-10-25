@@ -10,15 +10,18 @@ Education, Egypt · **Grade:** 1 (Primary 1) · **Term:** 1
 (source: Egypt MoE e-learning content, elearnningcontent.blob.core.windows.net)
 **Verified on disk 2026-10-25:** %PDF, 81,833,262 bytes, 128 PDF pages.
 
-Note on pages: the PDF is printed as two book pages side by side, so one
-PDF page holds two book pages. Both numbers are given.
+Note on pages (CORRECTED 2026-10-25, from the full page-by-page read):
+one book page per PDF page, and the printed page number at the foot
+equals the PDF page number. An older note here said two book pages sit
+side by side on one PDF page — that was wrong.
 
 | Lesson part | Where it comes from |
 |---|---|
-| Unit 1 "Welcome to My School" and its Learning Outcomes — "Recognize and respond to greetings in simple conversations… Introduce oneself using complete sentences" | PDF p.7 (book pp.6–7) |
-| Lesson 1 "Greetings" — the Maya and Hana dialog: Hello! / What's your name? / My name is Maya. / I'm Hana! / Nice to meet you / shake hands / Goodbye | PDF p.8 (book pp.8–9) |
-| Greetings tracing practice (following the lines) | PDF p.10 (book p.10) |
-| "Listen, point, and mark the matching picture": Hello! / Goodbye! / shake hands / play — and the match-the-word-to-the-picture exercise (play, goodbye, friends, shake hands, hello) | PDF p.11 (book p.11) |
+| Unit 1 "Welcome to My School" and its Learning Outcomes — "Recognize and respond to greetings in simple conversations… Introduce oneself using complete sentences" | PDF p.7 |
+| Lesson 1 "Greetings" — the Maya and Hana dialog: Hello! / What's your name? / My name is Maya. / I'm Hana! / Nice to meet you, too / Do you want to shake hands? / Yes! (They shake hands) / Goodbye, Hana! | PDF p.8 |
+| Vocabulary pictures — hello, goodbye, shake hands, play — "Listen, repeat, then act out"; speech bubble: "What's your name? My name is Hana. We are friends now!" | PDF p.9 |
+| Greetings tracing practice (following the lines) | PDF p.10 |
+| "Listen, point, and mark the matching picture": Hello! / Goodbye! / shake hands / play — and the match-the-word-to-the-picture exercise (play, goodbye, friends, shake hands, hello) | PDF p.11 |
 
 **Second country merged 2026-10-25 — Libya:**
 English for Libya, Pupils Book Grade 1 (CERC, Ministry of Education,

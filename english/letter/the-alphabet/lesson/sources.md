@@ -42,6 +42,23 @@ camel/cat/color (Unit 4, pp.88–91) · Rr rice/rabbit/ruler + Uu
 under/umbrella (pp.96–100, incl. the Rr maze). With KG1's 13, Egypt
 KG teaches all 26 letters in sounds order across the two books.
 
+**Egypt Primary 1 Term 1 rows added 2026-10-25** (full read in
+progress; Unit 1 read complete) — Primary 1 re-teaches the whole
+alphabet across its 6 units (Scope and Sequence, PDF pp.3–4): Tt Ii
+(U1) · Ss Aa (U2) · Nn Pp Hh Dd (U3) · Rr Ee Cc Kk (U4) · Mm Gg Oo Ff
+(U5) · Bb Ll Uu Jj (U6), each letter with new words.
+- Tt /t/ — **table, tomato, tiger, teacher, tree** (real photos, the t
+  printed red), PDF p.12; formation box (T = down then across; t =
+  down then cross) + tracing, p.13; tracing again p.14; circle/trace
+  the beginning letter, pp.15.
+- Ii /ɪ/ — **in, ill, insect, ink** (real photos, the i printed red),
+  PDF p.21; formation box (I = down, across top, across bottom; i =
+  down, then the dot) + tracing + matching, p.22; circle-the-Ii
+  pictures, p.23; tracing + Tt/Ii tested together, p.24.
+Same country (Egypt), third book — the count below does not change,
+but the lesson gains Primary 1's deeper layer: formation numbers,
+real-photo words, and the two letters mixed in one test.
+
 **Acceptance count: taught in 2 countries (Egypt, Libya).**
 The full alphabet and the letter-word list are Libya's in this layer;
 Egypt joins for the sounds-way grouping. Other finished countries join
