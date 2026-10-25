@@ -45,8 +45,18 @@ Primary 2, Activity Book (CERC / Garnet, 2019; verified on disk:
 — "What is it? Draw and colour." — the same join-the-dots move,
 now run to 20: the line work grows with the counting.
 
+Third Libya book (added 2026-10-25): Libya — English for Libya
+Primary 3, Activity Book (CERC / Garnet, 2019; verified on disk:
+%PDF, 146 pp). Unit 5 Lesson 7 (book p.84) is **"Look and draw
+the shape"**: dots numbered 1–20 are joined in ranges — 1 to 5,
+6 to 10, 11 to 15, 16 to 20 — and each run of the line draws one
+side-set of a shape the child then names. Joining dots has become
+drawing shapes: the line work now builds the shape words
+(triangle, square, circle, rectangle) of the Pupils Book's
+maths lesson.
+
 **Acceptance count: taught in 2 countries (Egypt, 3 books; Libya,
-2 books).**
+3 books).**
 The "understand the lines" framing is his: the lines are understood,
 not just traced — a wavy line is the curved move, a zigzag is the
 straight-and-corner move, and letters are those two moves mixed.

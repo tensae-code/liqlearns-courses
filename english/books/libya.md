@@ -1914,3 +1914,221 @@ country, a new grade's spiral.
 **Libya Grade 3 Pupils Book — READ COMPLETE
 2026-10-25.** Next per the queue: the Grade 3 Activity
 Book.
+
+### Grade 3 Activity Book — what it adds
+
+Downloaded from the same record: 146 pp, 11,300,622 B.
+Contents: U1 At School p.4 · U2 At the Park p.28 · U3
+At Home p.52 · U4 Revision p.68 · U5 Healthy Habits
+p.72 · U6 Around Town p.88 · U7 At the Shop p.104 · U8
+Revision p.120 · **Spelling Tests p.124** · Picture/
+Word Cards p.125 · Game Circles p.141. Units run about
+24 pages — half the book is handwriting.
+
+**Unit 1 (book pp.4–27)** — the writing twin opens
+with a job the Pupils Book never shows: **letter
+formation a–z, four letters a lesson, each with its
+word**: L1 a (ant), b (bag), c (cat), d (dog), rows of
+the letter then the word traced, then "Look and
+circle" the right spelling of the friends' names
+(Sally not Sallu/Salli; Omar not Omor/Amar); L2 e
+(**elbow**), f (fish), g (goat), h (hat) + a match and
+a numbered path through the classroom words; L3
+spell-and-write those eight words from jumbled letters;
+L4 i (ink), j (jam), k (kite), l (leg) + count-and-
+write the figures 1–5 in rows; L5 m (mat), n (net), o
+(orange), p (pen); L6 spell-and-write again (the book's
+own scramble for orange prints "ograne") + describing
+faces in writing (big eyes, long hair, small ears);
+L7 letter-pattern writing (acaca, ijjijj, deede …), the
+**Funny Face Game** (throw and draw: 1 hair, 2 eye, 3
+nose, 4 ear, 5 mouth, 6 miss a turn), and the spelling
+method named on the page — **Look, say, cover, write,
+check** — over Unit 1's spelling words **is, have, has,
+what** (Read · Write 1 · Write 2 · Write 3 columns);
+L8 write the missing first letter (c_rayon, m_arker,
+n_otebook, h_ead, f_oot, n_ose), complete the Magic
+Pencil's sentences ("Here's my picture. · My picture
+is on the wall."), and What's wrong? tick or cross.
+
+**Unit 2 (book pp.28–51)** finishes the alphabet by
+hand: q (queen), r (**rat**), s (snake), t (tiger), then
+u (umbrella), v (van), w (window), x (x-ray), y (yo-yo),
+z (zebra), each spell-and-written from jumbles; colour
+words completed from a letter box; count-and-colour
+"How many?"; **find the odd one out** over the vowel
+rows a e i o u; animal words with a letter missing
+(m_use, h_n, co_, f_og, donke_). Then the **capital
+letters A–Z** get the same treatment in lessons 5–8,
+with two new writing skills beside them: **Write the
+sentences with spaces** — "Itisasnake." rewritten as
+"It is a snake.", "Itisbigandbrown.", "Itissmalland-
+green.", "Itissmallanditcanfly." (word gaps taught as
+a thing in themselves) — and building sentences from a
+word bank (He / can / can't / like / don't / They / I /
+We … swim, fly, apples, chicken). Spelling check for
+**he, she, the, does**.
+
+**Unit 3 (book pp.52–67)**: a class survey in writing —
+"How many brothers have you got?" with a name /
+brothers / sisters grid to fill from asking; number
+words one–five matched to figures; clothes words with
+their middles missing (sc__f, trous__s, sh__t, sh__s);
+**Write are or is** — "There ___ 3 balls. There ___ a
+net. There ___ a teddy bear. There ___ 2 cars." — and
+read-and-draw ("There is a lamp. There are 5 books.
+There is a pillow."); **sums asked in English** —
+"What's 10 + 4? — It's 14." then 1+9, 6+8, 11+5, 10+7,
+7+6, 9+9 (held for the Maths title); **Reem's Morning**
+read and ordered; write about yourself on time
+starters ("I brush my teeth ___. I wash my face ___. I
+play with my friends ___. I go to sleep ___.") sorted
+by in the morning / in the afternoon / at night; read
+and **draw the times on clocks** ("I wake up at 8
+o'clock. I go to school at 2 o'clock. I watch TV at 7
+o'clock. I go to bed at 9 o'clock."); sentences with
+spaces again ("Iwakeupat6o'clock."); spelling check
+for **you, they, can, can't**; and Ben's Messy Room as
+read-and-match.
+
+**Unit 4 Revision (book pp.68–71)**: letter writing
+again, and words built on **ch** (ch_air, ch_icken,
+wat_ch, ch_eese).
+
+**Unit 5 (book pp.72–87)**: word-building on **th**
+(th_ree, tee_th, th_umb, ba_th_room); **find and write
+the sh words** in a letter grid (wash, fish, shoes,
+brush); the Do-you dialogs completed from a verb box
+(brush, exercise, eat, go, drink, wash); "Do you have
+any …?" asked and answered in writing (the Pupils Book
+asks "Do **we** have any …?" — both stand as printed);
+**tick or cross — write the correct word** over planted
+misspellings (slepe→sleep, mornin→morning, sistr→
+sister, lihgts→lights, dres→dress); verb choice in
+sentences ("I ___ TV." watch · "I ___ lunch." eat · "I
+___ games." play · "I ___ pictures." draw); the
+subjects matched, then **Write your timetable** — the
+child's own week in the grid; house words read and
+written (televi_sion among them); **write the missing
+words in an email** of your own ("Dear ___. I like my
+school. My favourite lesson is ___. I don't like ___.
+What's your ___ lesson? :-)"); a timetable read for
+true or false; **count your own lessons** ("How many
+maths lessons do you have? I have ___ maths lessons.");
+**Look and draw the shape** — dots 1–20 joined in
+ranges (1 to 5, 6 to 10, 11 to 15, 16 to 20) to draw
+the shape words, → filed in the drawing-lines sources
+(Libya now 3 books there); shape riddles read and
+answered ("It's a circle. It's hot." — the sun · "It
+has 16 triangles. It's a toy." — a kite · "It's a
+rectangle. You watch it." — TV); the days' names
+completed from their endings; spelling check for **do,
+don't, your, how**; and Roland's week counted into a
+table (hops, jumps, bends, twists, skips by day) ending
+"How many hops can you do?"
+
+**Unit 6 (book pp.88–103)**: town words listened and
+written; sentences written with **opposite** and **next
+to** ("The school is opposite the park."); **Help Omar
+sort the photos** — Town or Country (supermarket,
+cinema, bakery, school … frog, goat, tree); read-
+choose-and-write (This is a car / cat / train / truck /
+supermarket / school / house / mouse / plane / park /
+triangle / circle); **a class travel count** — "Number
+of children: 5 children go to school by bus … I go to
+school on foot." (a tally turned into sentences);
+**What does a plant need to grow?** ticked from soil,
+paper, water, light, eggs; a word search (water, plant,
+light, flower, leaf, seed, soil); the numbers to 100
+heard, pointed at and said, then two-digit numbers
+written and said (61, 22, 73, 84, 59, 36, 99, 77 …);
+read the plant parts, **draw and label your own
+plant**, "Write about your plant. My plant has ___";
+and the growth story put in order under First / Then /
+Next / After that / Finally.
+
+**Unit 7 (book pp.104–119)**: quantities written (a
+bunch of carrots, a box of eggs); Can-I-have dialogs
+read, written and drawn; **Write your song** — the
+child writes their own Cheese-please song into its
+frame ("___, please, / Can I have some ___, please? /
+Yes, I do have lots of ___. / How many do you want?")
+and sings it; bought sentences chosen by ear (a or b);
+**read and draw pets from their descriptions** —
+"Omar has a quiet pet. His pet is orange. It lives in
+water." (a fish) · "Reem plays with her pet after
+school. It is white and it has long ears." (a rabbit) ·
+"**Mandy's** pet is green and red. Mandy talks to her
+pet in English. Her pet can talk too." (a parrot — a
+new name, Mandy) — each drawn and **given a name** by
+the child; sh or th written (sh_irt, th_ree, th_umb,
+sh_oe); **label the parrot** (wing, body, tail, beak,
+leg, foot); where does it live — frog, crocodile,
+monkey, lion, shark, fish sorted **on land / in
+water**; **write your animal rhyme** on the elephant
+rhyme's frame with a word bank ("My ___ goes / Like
+this and that. / It's very ___ / And laughs like that.
+/ It has a ___ / But it has no toes! / It's ___ / And I
+love it so!"); an animal table listened and written
+(What does it eat? Where does it live? What can it
+do?); the written riddles answered (grey, big teeth,
+eats meat, lives in water, can't walk — shark; brown,
+long tail, eats fruit, climbs — monkey; white, red,
+blue and green — parrot; big and grey, eats leaves —
+elephant); and the I'm-sentences read and matched
+("I'm watching TV. · I'm reading a book. · I'm
+brushing my teeth. · I'm singing my favourite song. ·
+I'm drawing a picture. · I'm washing my face.").
+
+**Unit 8 Revision (book pp.120–123)**: a **crossword
+whose clues are full sentences** — Across: "At 9
+o'clock, I go to bed and go to ___." (sleep) · "I
+bought a ___ of eggs." (box) · "It has 3 sides. What is
+it?" (triangle) · "A mouse is small, an elephant is
+___." (big) · "It's ___ today. I need my umbrella."
+(rainy) · "Look ___, then look right. Cross the road."
+(left) · "A bird has 2 ___ and a beak." (wings); Down:
+scarf, cooking, carrots, yellow — the Grade 2 crossword
+grown up; numbers written in order (the tens to 100
+with teens mixed in); **read and circle the odd word**
+in sets (drinks against bread; clothes against bike;
+family against body words; house, weather and places
+mixed the same way); a party planned by listening (Day /
+Where / What to wear / Favourite food / Time:
+afternoon), then **write about your party**; and
+**Read about Omar** — a full self-introduction to
+complete and copy the shape of: "Hello. My name is
+Omar. I am 10. I live with my mum and dad and sister. I
+like school and my favourite subjects are English and
+science. I don't like music. On Saturday I play with my
+friends. We like playing football and computer games.
+My favourite food is ice-cream." — then "What about
+you?" (Name / Age / Family / I live in / On Saturday /
+My favourite food) and **Draw your face**. One
+difference between the two books stands as printed:
+the Pupils Book's Omar says "I'm 8"; this book's Omar
+text says "I am 10."
+
+**Spelling Tests (book p.124)**: a blank dictation
+grid — four numbered lines each for Units 1, 2, 3, 5, 6
+and 7 (the revision units carry none), the teacher
+says the week's spelling words and the child writes
+them. **Picture/Word Cards (pp.125–140)**: the year's
+dictionary words as cut-out cards. **Game Circles 1–2
+(pp.141–142)**: numbered circle games. Back cover: the
+five components; International Press, Lebanon; code
+**10010304**.
+
+→ Recorded from this book: the whole alphabet written
+by hand (smalls, then capitals, each letter with its
+word), sentences-with-spaces, is/are choice, sums in
+English, clocks drawn from sentences, the email frame,
+the timetable work, the travel tally, the animal-rhyme
+frame and the Omar self-introduction shape — held here
+for the Letter, Word, Sentence and Paragraph titles
+and the Maths title. Acceptance counts unchanged —
+same country, the writing twin of the Pupils Book.
+
+**Libya Grade 3 Activity Book — READ COMPLETE
+2026-10-25.** Next per the queue: the Grade 3 Teacher
+Book.
