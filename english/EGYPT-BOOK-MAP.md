@@ -145,7 +145,31 @@ The unit pattern is now confirmed for the whole book: words first
 a color+shape, the next letters, practice, a 4-panel story, a project,
 show and tell.
 
-### KG1 Unit 3 — page by page (book pp.37–48 so far; read 2026-10-25)
+### KG1 Unit 3 — rest of the unit (book pp.49–62; read 2026-10-25)
+- p.49 The sound of Hh — helicopter, honey, heart · p.50 Trace Hh
+- p.51 Count and Say: **3** — "I can see 3 pans / 3 helicopters"
+  (P and H words counted) · p.52 Trace number 3; color 3 balloons
+- p.53 Colors and shapes: yellow star
+- p.54 The sound of Dd — dog, desk, dress · p.55 Trace Dd
+- p.56 The sound of Rr — robot, rice, rabbit · p.57 Trace Rr
+- p.58 Practice: match picture to beginning letter (Pp/Rr/Dd/Hh)
+- p.59 Practice: circle the body parts
+- p.60 **Story: "All About Me and My Day!"** — "Good morning, Hana!
+  I comb my hair." / "I nod my head." / "This is my face." / "I see
+  2 eyes, 2 ears, 1 nose, and a mouth." / "I lift my arms." / "I jump
+  with my legs." / "I see 1 rabbit and 2 dogs." / **"That makes
+  3 animals."** — the whole unit (body, hygiene, counting) inside one
+  story; even the adding (1 + 2 = 3) is said in words.
+- p.61 Project: My Face (face-part puppets on sticks) · p.62 Show
+  and Tell: "This is my face."
+
+### KG1 Unit 4 — started (book pp.63–64)
+- p.63 Unit opener: Picnic — "We are having so much fun." / "What a
+  beautiful day for a picnic!"
+- p.64 My Family (Look, listen, and point): father, mother, brother,
+  sister
+
+### KG1 Unit 3 — page by page (book pp.37–48; read 2026-10-25)
 - p.37 Unit opener: washing at the sink, mirror (My Body, My Care!)
 - p.38 My body parts: face, arm, hand, foot (labeled picture)
 - p.39 My face parts: hair, ear, eye, nose, mouth
