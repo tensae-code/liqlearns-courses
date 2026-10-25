@@ -46,6 +46,17 @@ Libya; verified on disk: %PDF, 130 pp).
   That's scary! — Sorry, Zeinah! It's just a toy. — Goodbye,
   girls. — Goodbye, Zeinah." Filed here as the greeting frame
   growing: hello → name → age → introducing someone new.
+- **Grade 2 layer** (Primary 2 Pupil's Book, Garnet/CERC, © 2019;
+  verified on disk: %PDF, 122 pp, image-only — read as pages):
+  Unit 1 Lesson 1 (book p.8) grows the dialog by the well-being
+  question — "Hello! How are you? — I'm very well, thanks." set
+  between Hello and the name question; Unit 2 Lesson 1 (book
+  pp.18–19) asks names about *other* people — "What's her name?
+  — Muna. · What's his name? — Kareem." — and Unit 2 Lesson 5
+  (book p.23) gives "How are you?" its three answers side by
+  side: "I'm very well, thanks. · I'm fine. · I'm not very well!"
+  plus the return question "And how are you?" The greeting frame
+  grows again: hello → how are you → name → age → his/her name.
 
 **Third country merged 2026-10-25 — Nicaragua:**
 Inglés, Activity Book 1, Grade 1 (MINED, Nicaragua; verified on disk:

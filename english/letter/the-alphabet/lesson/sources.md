@@ -194,6 +194,20 @@ not change,
 but the lesson gains Primary 1's deeper layer: formation numbers,
 real-photo words, and the two letters mixed in one test.
 
+**Libya, Grade 2 layer (added 2026-10-25):** the Primary 2 Pupil's
+Book (Garnet/CERC, © 2019; %PDF, 122 pp, image-only — read as
+pages) opens by re-teaching the whole alphabet in the same sounds
+groups (Unit 1, book pp.8–15): s a t p · i n c k · e h r m d ·
+g o u l · f b j w v · y x q z, each letter big with traffic-light
+dots and one word. The word list mostly repeats Grade 1's, with
+three new choices — **girl** (g), **house** (h), **dog** (d) —
+and Unit 2 (book pp.19, 25–26) re-teaches the two-letter sounds
+oa · ee · ue · oo (both) · th (both) · ch · sh with the same
+words. Same country, second book: the count below does not
+change, but Libya's layer is now a *spiral* — taught in Grade 1,
+re-taught in Grade 2 — which is how the course itself says a
+sound is learned.
+
 **Acceptance count: taught in 2 countries (Egypt, Libya).**
 The full alphabet and the letter-word list are Libya's in this layer;
 Egypt joins for the sounds-way grouping. Other finished countries join

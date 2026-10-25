@@ -501,3 +501,94 @@ State: Pupils Book READ COMPLETE 2026-10-25; Activity Book READ
 COMPLETE 2026-10-25; Teacher's Book READ COMPLETE 2026-10-25.
 **Libya Grade 1 English is fully read — all three books.** Next
 book: Libya Grade 2 (per the reading queue), one book at a time.
+
+---
+
+# Libya — English Grade 2: Pupils Book, Activity Book, Teacher Book
+
+Downloaded from the grade-02 library record's own URLs
+(liasinstitute.com) into the courses work folder.
+- Pupils Book: 122 pp, 32,980,575 B — **reading in progress**
+  (image-only scan, "Print To PDF" 2020; read as rendered pages,
+  the Egypt way). **Page rule: book p. = PDF p. − 1** (printed
+  page number at the foot).
+- Activity Book / Teacher Book: queued behind it, one at a time.
+
+Course: **"21st Century English for Libya — Primary 2 Pupil's
+Book"**, State of Libya, Ministry of Education, CERC; published
+by Garnet Publishing Ltd (Reading, UK), first edition © 2019;
+school year 2019–2020 (1440–1441 AH) on the cover. Adam the
+Astronaut is on the cover planting the Libyan flag on the moon.
+Eight units, eight lessons each + a "Now I can …" page per unit,
+then Project (book p.100), Story (p.102), Songs And Rhymes
+(p.104), Picture Dictionary (p.109). The Book Map (book pp.4–5)
+prints every unit's phonics, theme words and high-frequency
+phrases up front — the map below follows the pages themselves.
+
+The cast grows in Grade 2: alongside Adam, the children are now
+**Muna** (Unit 1's dialog: "I'm Muna. I'm 7."), **Al-Hadi** and
+**Kareem** (Unit 2 Lesson 1).
+
+## Pupils Book Grade 2 — unit by unit (book pages)
+
+### Unit 1 "The Alphabet" (book pp.7–16)
+Grade 1 done again, faster and in the sounds order — this year's
+work is review that becomes reading. L1 (p.8): the whole alphabet
+in pairs; the greeting dialog grown by one question — "Hello! How
+are you? — I'm very well, thanks. · What's your name? — I'm
+Muna. · How old are you? — I'm 7. Goodbye!"; the six colours (red,
+blue, yellow, green, orange, pink); numbers 1–10. L2–L7 re-teach
+the letters in Grade 1's sounds groups, each letter drawn big
+with the traffic-light dots (green start, orange, red stop) and
+one word: **s a t p** (sun, apple, taxi, pizza) · **i n c k** (ink,
+nose, car, kite) · **e h r m d** (elephant, house, rabbit, monkey,
+dog) · **g o u l** (girl, orange, umbrella, lemon) · **f b j w v**
+(flower, ball, jam, watch, van) · **y x q z** (yo-yo, x-ray,
+queen, zebra). Three word choices are new against Grade 1:
+**girl** for g, **house** for h, **dog** for d. L8 (p.15): the
+whole alphabet as a picture grid, one word per letter (the L2–L7
+words). "Now I can …" (p.16): say and write the alphabet; say
+"Hello" and "Goodbye"; ask and answer questions; say colour
+words; count to 10.
+→ Filed: Greetings sources (the "How are you?" answer set grows
+in Unit 2); the-alphabet sources (Grade 2's re-teach row).
+
+### Unit 2 "About Me" (book pp.17–28)
+L1 (pp.18–19): "Hello. What's your name? I'm ___" — the four
+children introduce themselves (Adam, Al-Hadi, Muna, Kareem), and
+the learner writes their own name on the line; then names asked
+about *other people* — **"What's her name? — Muna. · What's his
+name? — Kareem."**; "Hello! How old are you? — I'm 6."; ask-and-
+answer pairs (name → Muna; age → 7); **oa** again (boat, coat).
+L2 (p.20) Toy Shop: a listen-and-find shop scene; "What's this?
+It's a book." · "How many watches? Five." L3 (p.21): the song
+**"Five Little Ducks"** told in six pictures (words in the Songs
+And Rhymes section, p.104). L4 (p.22) My Body: the labelled body
+set again (hand, hair, ear, mouth, foot, head, eye, elbow, arm,
+nose, body, leg) and describing a picture of a friend — **"This
+is my friend. He has blue eyes. He has brown hair."** L5 (p.23)
+How are you?: the three answers side by side — "I'm very well,
+thanks. · I'm fine. · I'm not very well!" — plus "And how are
+you?"; the words open / draw / close as big print; an action song
+in pictures (stand up, hands up, sit down, hands on your head,
+turn around, clap your hands, stamp your feet, touch your toes —
+the Unit 1 Grade 1 actions, grown). L6 (pp.24–25) The Park:
+look and count — **"How many trees are there? 2 · How many bags
+are there? 5 · There are 5 bags. Yes! No!"**; My Picture: **ee**
+(tree, bee) and **ue** (glue, blue) again, and listen-and-number
+the body labels on a drawing — the body set gains **knee**. L7
+(p.26) Letters And Sounds: **oo** long (moon, zoo), **oo** short
+(foot, book), **th** (bathroom, three), **th** (this, that),
+**ch** (chicken, cheese), **sh** (fish, sheep) — Grade 1's two-
+letter sounds all in one review page. L8 (p.27) My Classroom:
+the labelled classroom scene (pencil case, pencils, pens, bag,
+book, clock, board, bin, rubber, desk, glue, chair, ruler) with a
+word↔picture match under it. "Now I can …" (p.28): say "Hello"
+and ask questions; ask and answer about things; ask and answer
+"How many?"; say body words; ask and answer "How are you?"; say
+new letter sounds and words.
+→ Filed: Greetings sources — Grade 2 layer: "How are you?" with
+its three answers, "And how are you?", and asking a third
+person's name ("What's his/her name?"). Body set + knee, the
+"There are …" counting pattern and classroom set recorded here
+for the Word/Sentence/Maths titles.
