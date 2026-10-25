@@ -2134,6 +2134,698 @@ and games — is recorded here with pages for its titles in ladder
 order.
 
 ## Still owed in this pass
-- Finish KG2, then Primary 1 Term 2 — one book at a time.
-- Download and map Primary 2–6, Preparatory 7–9, Secondary 10–12 the
-  same way, one grade at a time.
+- DONE since: KG2 ✅, Primary 1 Term 2 ✅, Primary 2 Term 1 ✅
+  (2026-10-25). Next: Primary 2 Term 2 — one book at a time.
+- Then map Primary 3–6, Preparatory 7–9, Secondary 10–12 the same
+  way, one grade at a time.
+
+## Primary 2 Term 1 — reading started 2026-10-25
+
+Book facts (verified on disk 2026-10-25): `English_language_prim2_t1.pdf`
+— 39,918,874 B, **104 pages**, image-only (no text layer), page rule:
+printed folio = PDF page (folio 6 sits on PDF p.6, folio 12 on p.12).
+Source: the library's secured copy on the LiqLearns textbooks Telegram
+channel (channel file name `English_language_prim2_t1.pdf`; its caption
+reads "Egypt — Grade 2 — English Language — English Language Primary 2
+Term 1. Source: Egypt MoE"). Working copy in the course work folder
+(`egypt-english/`), rendered pages in `egypt-english/p2t1-pages/`.
+
+- p.1 Cover: "English — Primary 2 — Term 1," two children reading,
+  Ministry of Education and Technical Education seal.
+- p.2 Dedication page ("…with love, to the children and families of
+  the Arab Republic of Egypt"), © 2025 Ministry of Education and
+  Technical Education, New Administrative Capital, Cairo; Name/Class/
+  School box.
+- p.3 **A Message from the Ministry** — presents the *Primary 2
+  Framework for Egyptian Learners*: the book is organized into weekly
+  sessions across Listening and Speaking / Reading and Phonics /
+  Writing and Vocabulary / Cultural Integration, with regular
+  assessment and feedback.
+- p.4 **Scope and Sequence** — the whole term on one page:
+  - **Unit 1, Let's Get Started!** — Vocab: hello, goodbye, teacher,
+    chair, desk, eraser, book, ruler, bag, window, door, pencil case.
+    Language: "Hello, I'm Ali." "What's your name?" "This is a chair."
+    "That is a desk." Phonics: short /æ/ cat, hat, cap · short /e/ pen,
+    ten, red · short /ɪ/ zip, big, pin. Values: self-introduction,
+    respect for teachers, classroom routines.
+  - **Unit 2, Colors, Shapes, and Numbers** — Vocab: red, blue, green,
+    yellow, circle, square, triangle, 1–20 and numbers in 10s.
+    Language: "This is a red circle." "What color is this?" "How many
+    pencils do you have?" Phonics: short /ɑː/ dog, box, fox · short
+    /ʌ/ sun, cup, bun · long /eɪ/ cake, lake, snake. Values: numerical
+    literacy, taking turns and sharing.
+  - **Unit 3, Classroom Actions & Routines** — Vocab: write, draw,
+    read, color, clean, play, sit, stand, raise, open, close, sing.
+    Language: "I read a book." "What do you do?" "Stand up." "Open
+    your book." Phonics: initial consonant sounds (sit, clap, draw).
+    Values: following instructions, responsibility.
+  - **Unit 4, Everyday Life** — Vocab: mother, father, sister, brother,
+    grandmother, grandfather. Language: "Who's this?" "This is my
+    sister." "This is your brother." Phonics: long /oʊ/ nose, rose ·
+    short /ʌ/ sun, cup, bun · digraph /θ/ thin, thumb, teeth, thick,
+    thunder, math. Values: family appreciation, kindness.
+  - **Unit 5, My Home** — Vocab: table, chair, bed, door, window, lamp,
+    cup, plate, cook, clean, help, watch, eat, play, sleep, brush,
+    read, sit. Language: "The lamp is on the table." "I help my mother
+    clean." Phonics: digraph /ʃ/ ship, shop, fish · digraph /ð/
+    mother, father, that. Values: responsibility at home, helping
+    others.
+  - **Unit 6, Rooms at Home** — Vocab: kitchen, living room, bedroom,
+    bathroom, dining room, garden, hall, balcony. Language: "There is
+    a kitchen in my house." "There is a bed in my room." Phonics:
+    digraph /tʃ/ chair, chin, lunch · long /uː/ glue, cube. Values:
+    respecting space, hygiene.
+- p.5 **Unit 1 opener — "Let's Get Started"** + Learning Outcomes
+  (Speaking: basic greetings, name 5–7 classroom objects, ask/answer
+  about classroom objects, short vowels a/e/i · Listening: respond to
+  greetings, identify classroom vocabulary, follow instructions ·
+  Reading: greeting words, match words to pictures, simple sentences
+  about classroom objects · Writing: object names, complete simple
+  sentences, reorder words into correct sentences).
+- p.6 **Unit 1, Lesson 1 — Classroom Greetings.** Vocabulary listen/
+  repeat: "Hello, I'm Ali." "What's your name?" "Good morning,
+  Ms. Amira." "May I sit down?" "Goodbye." Pair practice: A "Hello,
+  what is your name?" B "My name is ______." Ex.2 choose the correct
+  answer from a/b/c against photos (desk→Hello/goodbye/desk set;
+  teacher at board; boy waving).
+- p.7 Ex.3 Look, read, and write (first letter given: c__ chair,
+  s__ student, t__ teacher, d__ desk, H__ Hello) · Ex.4 Read and
+  complete ("Hello. My name is Ahmed." / "I sit on a chair at
+  school." / "My teacher is kind…" / "…I say goodbye") · Ex.5 Complete
+  the text with words in the box (chair; teacher).
+- p.8 **Unit 1, Lesson 2 — Around the Classroom.** Word strip: desk,
+  board, chair, window, door, pen, book, notebook, bag. Game "Write,
+  Pick, and Stick!": write object words on papers, pick one, read it,
+  stick it on the object — model sentence "This is a chair."
+  **Phonics Focus: short "a" sound** — listen and repeat: cat, hat,
+  fan, man, map, cap; Ex.2 trace the words (hat, cat, cap, map, man,
+  fan).
+- p.9 Ex.3 Read and match (the six short-a words to photos) · Ex.4
+  Read and circle the correct word: cat/cut, hot/hat, fin/fan,
+  cap/cop, man/men, mop/map.
+- p.10 Ex.5 Reorder the words to form a sentence ("This is a desk." /
+  "He is a teacher." / "He is a student." / "This is a chair.") · Ex.6
+  Reorder the letters to make a word (riach→chair, esdk→desk,
+  chetaer→teacher, oHle→Hello, ygobeod→goodbye).
+- p.11 **Unit 1, Lesson 3 — Our Classroom Objects.** Vocabulary
+  listen/repeat with real photos: board, pencil case, window, eraser,
+  door, bag, ruler. Ex.2 Work in pairs: "What is this?" — "This is an
+  eraser." / "This is a ______." (bag, door, board pictured).
+- p.12 Ex.3 Choose and write the correct answer — this/that sentences
+  against photos ("That is a door." / "That is a board." / "This is an
+  eraser." / "This is a bag.") · Ex.4 Reorder the words ("This is a
+  board." model; bag / pencil / book) · Listening and Speaking:
+  "Where is the…?" A "Where is the door?" B "It's over there." Switch
+  roles and repeat.
+
+**Unit 1 basics found so far (for lesson filing):** the greetings set
+re-taught at a higher rung (adds "May I sit down?" and teacher address
+"Good morning, Ms. Amira") → Greetings lessons' sources gain Egypt P2
+T1 pp.6–7 · classroom-object naming with "This is a/That is a…" and
+"What is this?" → Word/Sentence material, sources Egypt P2 T1
+pp.8–12 · short-a word set (cat, hat, fan, man, map, cap) with
+circle-the-word contrasts → word-families/blending sources, p.8–9.
+(Full lesson filing happens as the unit completes.)
+- p.13 Lesson 3 Ex.5 Reorder the letters (window as the worked model;
+  ruler, desk, chair) · **Phonics Focus: short "e" and "i" sounds** —
+  Ex.6 Listen and repeat: pen, ten, hen (short e); zip, fig, bin
+  (short i) · Ex.7 Listen and fill: p_n, t_n, h_n, z_p, f_g, b_n.
+- p.14 **Unit 1, Lesson 4 — Let's Write Together!** Ex.1 Trace the
+  words (pen, ten, hen, zip, bin, fig) · Ex.2 Reorder the letters
+  (nep→pen, etn→ten, nhe→hen, pzi→zip, nbi→bin, gif→fig) · Reading
+  and Writing: "Write two simple sentences about classroom items" —
+  models "This is my pencil case." "This is my bag."
+- p.15 Lesson 4 Ex.3 Draw and label 4 objects you see in your
+  classroom (four blank drawing boxes).
+- p.16 Lesson 4 **Self-Assessment** (star columns): "I can use new
+  classroom words. / I can say "Hello" and "Goodbye". / I can write a
+  sentence about my classroom. / I can talk about myself. / I can draw
+  classroom objects." — **Unit 1 ends at p.16.**
+
+**Unit 1 complete (pp.5–16).** Its basics, for the lessons: greetings
+set + "May I sit down?" (Greetings, sources Egypt P2 T1 pp.6–7) ·
+classroom objects set — chair, desk, teacher, student, board, pencil
+case, window, eraser, door, bag, ruler, book, pen, notebook — with
+"This is a/That is a…", "What is this?", "Where is the…? It's over
+there." (Word/Sentence material, pp.8–13) · short vowels a (cat, hat,
+fan, man, map, cap), e (pen, ten, hen, red), i (zip, fig, bin, pin,
+big) taught as word sets with trace/match/circle/reorder work
+(word-families + blending sources, pp.8–14) · first sentence-writing
+"This is my ___." (p.14).
+- p.17 **Unit 2 opener — "Colors, Shapes, and Numbers"** + Learning
+  Outcomes (Speaking: name/describe colors, numbers, shapes; phonics
+  short "o", short "u", long "a" · Listening: identify numbers 1–10,
+  count by tens · Reading: singular vs plural nouns, match words to
+  colored shapes · Writing: color/number/shape words, reorder words
+  and letters, label drawings).
+- p.18 **Unit 2, Lesson 1 — Colors and Shapes.** Vocabulary: circle,
+  square, triangle; blue, orange, green (red carried in the models) —
+  "What is this?" "This is a red circle." Ex.2 Choose the correct
+  answer ("This is a blue square." / "I see a green triangle." / "The
+  red circle is on the desk.").
+- p.19 Ex.3 Read and complete (an orange triangle / a green square /
+  a blue circle) · Say and Write: "What color is this?" "It is blue."
+  "It is red." "It is ______." then complete "This is a red triangle."
+  (model) → a green circle, a blue square · Ex.4 Choose ("What color
+  is this?" → blue; "What shape is this?" → a triangle).
+- p.20 Ex.5 Reorder the words ("This is a red circle." / "This is a
+  blue square." / "What is this?") · Ex.6 Color and say ("Color the
+  ball red." "Color the book blue." "Color the triangle yellow.") ·
+  Ex.7 Color the shapes and complete the sentences — "This is a/an
+  ______ circle / square / triangle" (first a/an choice in the book).
+- p.21 **Unit 2, Lesson 2 — Shapes and Colors Around Us.** Ex.1
+  Reorder the letters (eulb→blue, ganltrei→triangle, erneg→green,
+  noaegr→orange, icrelc→circle, sreuaq→square) · **Phonics Focus:
+  short "o" and "u" sounds** — Ex.2 Listen and repeat: dog, box, fox
+  (short o); sun, cup, bun (short u) · Ex.3 Listen and fill (d__,
+  b__, f__, s__, c__, b__).
+- p.22 Ex.4 Trace the words (dog, box, fox, sun, cup, bun) · Ex.5 Fill
+  using (o) or (u): d_g, b_x, f_x, s_n, c_p, b_n · Ex.6 Rearrange the
+  letters to make a word, picture-cued (dog, box, fox, sun, cup, bun).
+- p.23 Ex.7 Label the pictures from the word box (dog, sun, cup) ·
+  Ex.8 Draw, color, and write — model "This is a blue ball."; four
+  blank frames with caption lines.
+- p.24 **Unit 2, Lesson 3 — Numbers and Counting.** Vocabulary:
+  "How many pencils do you have?" "I have ______ pencils." Numbers
+  1–10 with words: one, two, three, four, five, six, seven, eight,
+  nine, ten. Ex.2 Listen, match, and write: "I have ______ ruler." /
+  "There is ______ bag." / "I have ______ pencils." / "I have ______
+  notebooks." (counting the pictured objects; one vs many in use).
+- p.25 Lesson 3 Ex.3 Practice Classroom Phrases: "How many desks are
+  there?" "I see four desks." "There are ten students." "Let's count
+  the books." Pair work: A "How many pens do you have?" B "I have five
+  pens." · Ex.4 Count the red balloons then circle the right number
+  (five) · Ex.5 Match the word to the correct number (1–10 cards).
+- p.26 **Language in Use — Singular and Plural** (the book's first
+  explicit rule box): "I have one book." / "I have two chairs."
+  Singular → one (1 pencil); Plural → more than one, **add -s**
+  (2 pencils, 3 books, 5 pens). Ex.6 Look and write ("How many bags
+  are there? There are three bags." as model; pencils; books) · Ex.7
+  Choose the correct answer (eight rulers; six chairs).
+- p.27 **Unit 2, Lesson 4 — Let's Count Together.** Ex.1 Read and
+  complete ("There is one board." model; two chairs; three pens) ·
+  Ex.2 Choose (seven bags; four windows) · Ex.3 Reorder the words
+  ("How many pens are there?" / "There are eight books.") · Ex.4
+  Reorder to make a word (o/t/w → two; n/e/n/i → nine).
+- p.28 Lesson 4 **Phonics Focus: long "a" sound** — Ex.5 Listen and
+  repeat: cake, lake, gate, cave, snake, grapes · Ex.6 Match the word
+  to the picture · Ex.7 Circle the long a: cake/cat, gate/get,
+  cab/cave, snake/snack, grapes/grip, name/nap.
+- p.29 Ex.8 Trace the words (cake, lake, gate, snake, cave, grapes) ·
+  Ex.9 Listen, read, and say — counting by 10s: 10, 20, 30, 40, 50,
+  60, 70, 80, 90, 100 · Ex.10 Fill the missing numbers on the number
+  line (10 __ 30 __ 50 __ 70 __ 90 __) · Ex.11 Circle the numbers
+  counting by 10s in a 10–105 grid.
+- p.30 Lesson 4 **Self-Assessment**: "I can say color and shape words.
+  / I can talk about things using colors and shapes. / I can draw a
+  picture using shapes. / I can write sentences about my picture. / I
+  can count and write numbers from 1–10. / I can count by 10s to 100."
+  — **Unit 2 ends at p.30.**
+
+**Unit 2 complete (pp.17–30).** Its basics: colors (red, blue, green,
+yellow, orange) + shapes (circle, square, triangle) with "What color
+is this? It is ___." and "This is a (color) (shape)." — Word/Sentence
+material, pp.18–23 · numbers 1–10 as words + counting by 10s to 100,
+"How many …? I have … / There are …" and the book's first stated
+grammar rule, **singular/plural add -s** (pp.24–29) · short o (dog,
+box, fox), short u (sun, cup, bun), long a (cake, lake, gate, cave,
+snake, grapes) word sets (word-families/blending sources, pp.21–22,
+28–29) · first a/an choice (p.20).
+
+- p.31 **Unit 3 opener — "Classroom Actions & Routines"** + Learning
+  Outcomes (Speaking: simple present tense for classroom activities,
+  ask/answer about routines, initial consonant sounds in action words
+  · Listening: follow classroom instructions · Reading: action words,
+  sentences describing routines · Writing: label action pictures,
+  simple sentences about own routines, reorder into instructions).
+- p.32 **Unit 3, Lesson 1 — Classroom Actions.** Vocabulary listen/
+  repeat with real photos: read, write, clean, draw, sit, stand,
+  play, color.
+- p.33 Lesson 1 Ex.2 Complete using the correct word from the box
+  (sit, stand, read, write, draw, clean, play): "I ______ on the
+  chair." / "I ______ a book." / "I ______ a picture." / "I ______
+  my desk." / "I ______ in my notebook." / "I ______ up." / "I
+  ______ with my friends." · Ex.3 Match each word to the correct
+  picture: sing, open door, raise hand, close window (sing, open,
+  close, raise first appear here).
+- p.34 Ex.4 Put the words in the right order ("I sit on the chair." /
+  "I play with my friends." / "I draw a picture." / "I read my
+  book.") · Ex.5 Choose the correct answer: "The boy is ______."
+  (reading) / "The girl is ______." (standing) / "The children are
+  ______." (playing) — -ing forms in the options.
+- p.35 **Unit 3, Lesson 2 — Let's Talk about Class Routines.**
+  Vocabulary phrases with pictures: stand up, sit down, open your
+  book, close your book, raise your hand, write your name, draw a
+  circle, clap.
+- p.36 Ex.2 In pairs, ask and answer: A "What do you do in the
+  classroom?" B "I read. / I write. / I play. / I draw." · Ex.3
+  Reorder the words to form a sentence ("Stand up, please." / "Open
+  your book." / "Sit down, please." / "Raise your hand.") · Ex.4
+  Trace the words (clap, down, stand, write, close, draw).
+- p.37 Ex.5 Circle the correct word (instructions in context): "Stand
+  up when the teacher enters the classroom." / "Write your name on
+  the board." / "Close your book after reading." / "Raise your hand
+  to speak." / "Play with your friends." · Ex.6 Listen and match (sit
+  down, draw a circle, raise your hand, open your book) ·
+  **Phonics Focus: Initial Consonant Sounds** with a Tip box (listen
+  to the first sound of each word; say it aloud and feel your mouth).
+- p.38 Ex.7 Find and Circle — the word that starts with the same first
+  sound as the action word (model: sit → sun; read → ruler; clap →
+  classmate; clean → classroom; draw → door) · Ex.8 Let's match the
+  first sound (pair speaking game: say an action word, partner says
+  words starting with the same sound).
+- p.39 **Unit 3, Lesson 3 — All About Our Classroom.** Reading and
+  Writing, Ex.1 Listen, repeat, and practice — the book's first
+  connected reading text: "Hello! In class, I sit on my chair. I read
+  my book. I write in my notebook. I draw a picture. I play with my
+  friends. I clean my desk." · Ex.2 Use the words to label the
+  pictures (write, read, draw, color, clean, play, sit, stand, raise,
+  open, close, sing — 12 action pictures).
+- p.40 Ex.3 Match the sentences with the correct pictures (I read my
+  book / I draw a picture / I play with my friends / I clean my desk
+  / I write in my notebook / I sit on my chair / I stand up) · Ex.4
+  Circle the correct word ("I ___ my book" read · "my desk" clean ·
+  "on my chair" sit · "in my notebook" write · "with my friends"
+  play) · Ex.5 Read and choose ("I ___ a story" read / "a picture"
+  draw / "my name" write) · Ex.6 Put the words in the correct order
+  ("I read my book." / "I write my name." / "I play with my friends.").
+- p.41 **Unit 3, Lesson 4 — Writing About Our Class.** Ex.1 Trace the
+  words (stand, sit, read, write, play, draw, clean, sing) · Ex.2
+  Complete the sentences using the words below (play, read, draw,
+  write, clean): "I ______ my book." / "a picture." / "with my
+  friends." / "in my notebook." / "my desk." · Ex.3 Reorder the words
+  ("I write in my notebook." / "I play with my friends." / …).
+- p.42 Ex.3 cont. ("I draw a picture." / "I clean my desk.") · Ex.4
+  Draw a picture of yourself doing something in class; write 2
+  sentences below it (examples: "I write in my notebook." "I sit on
+  my chair." "I read my book." "I draw a picture.").
+- p.43 Lesson 4 **Self-Assessment**: "I can write about what I do in
+  my classroom. / I can say and write action words. / I can read
+  classroom instructions and routines. / I can understand and follow
+  instructions. / I can hear and find the first sound in words." —
+  **Unit 3 ends at p.43.**
+
+**Unit 3 complete (pp.31–43).** Its basics: the action-word set —
+read, write, draw, color, clean, play, sit, stand, sing, open, close,
+raise, clap — in first-person present sentences "I read my book."
+(the Word → verbs material + Sentence basics, pp.32–42) · classroom
+instructions as imperatives ("Stand up, please." "Open your book."
+"Raise your hand.") · "What do you do in the classroom?" Q&A ·
+**initial consonant sounds** as a named phonics focus (blending
+sources, pp.37–38) · the book's first connected reading text, a
+six-sentence paragraph about the classroom (p.39 — Paragraph title's
+first seed in this book).
+
+- p.44 **Review — "Let's Review Units 1, 2, and 3."** Listen, repeat,
+  and practice: Greetings (Hello, Goodbye, What's your name?) ·
+  Classroom objects (chair, desk, book, eraser, bag, ruler, door,
+  window, board) · Colors (red, blue, green, yellow) · Shapes
+  (circle, square, triangle) · Numbers 1–10 · **Language in use: a
+  full sentence** ("This is a red book." "I have three pencils.") ·
+  Question and answer practice ("How many chairs are there?" "There
+  are four chairs.") · Classroom phrases ("What is this?" "I have a
+  ruler." "I see a blue square.").
+- p.45 Review exercises: Ex.1 Find the big yellow pencil (picture
+  hunt in a classroom scene) · Ex.2 Complete the sentences (one, big,
+  three): "This is a ______ desk." / "I have ______ eraser." / "There
+  are ______ triangles on the board." · Ex.3 Reorder the letters
+  (tca→cat, nep→pen, dbe→bed, xob→box, nus→sun, odg→dog).
+- p.46 Ex.4 Trace the words (red, blue, green, yellow, ruler, bag,
+  door, window, board — each twice).
+- p.47 Ex.5 Fill in the blanks [read, draw, play, clean, write] ("I
+  ______ in my notebook." / "a picture." / "my desk." / "a book." /
+  "with my friends.") · Ex.6 Reorder ("I read my book." / "Stand
+  up!" / "I clean my desk.") · Ex.7 Draw and color objects and
+  shapes; write two sentences to describe your drawings.
+- p.48 Ex.8 Match the words to the pictures (ruler, book, chair, desk,
+  bag, eraser) · Ex.9 Color the shapes (red circle, blue square, green
+  triangle) — "Practice the name of each shape. Say: This is a blue
+  square." · Ex.10 Write 3 sentences from what you learned (models:
+  "I see four red books." "The chair is blue." "This is a big
+  triangle."). — **Review of Units 1–3 closes at p.48.**
+- p.49 **Unit 4 opener — "Everyday Life"** + Learning Outcomes
+  (Speaking: simple present sentences describing family members and
+  routines; possessive adjectives used correctly; the "th" letter
+  sound; long "o" and "u" phonics · Listening: introductions of
+  family members · Reading: family vocabulary, sentences about family
+  routines · Writing: label family members, short descriptive
+  sentences about family).
+- p.50 **Unit 4, Lesson 1 — My Family.** Vocabulary with a labeled
+  family picture: father, grandfather, sister, mother, brother,
+  grandmother — "This is my father / dad." "This is my mother /
+  mom." "This is my sister." "This is my brother." "This is my
+  grandmother." "This is my grandfather." · Ex.2 Look, listen, and
+  repeat: "Who is she?" "This is my mother."
+- p.51 Family Tree Game: "Who is he/she?" ("This is my father. He is
+  tall.") · Practice: describe your own family with "This is my…"
+  and simple descriptions · **Language in Use — my / your / 's**:
+  "my" = belongs to the person speaking ("This is my brother.");
+  "your" = belongs to the person you are talking to ("This is your
+  bag." "This is your toy. These are your toys."); a name takes ('s)
+  — "Ahmed has a car. It's Ahmed's car." · Q: "Who's this?" A: "This
+  is my father. / This is your mother."
+- p.52 Lesson 1 practice pages: Ex.1 Listen, repeat then write
+  ("This is my mom." model; "This is my ______." / "This is your
+  ______." ×2 against photos) · Ex.2 Ask and Answer — "Who is this?"
+  against three photos · Ex.3 Label pictures of family members with
+  the correct words (family scene, four labels).
+- p.53 **Unit 4, Lesson 2 — All About Me.** Ex.1 Read and match (the
+  my-set: sister, brother, grandmother / the your-set: mother,
+  sister, pencil case) · Ex.2 Read and complete (sister, bed,
+  grandfather in the box; model "This is my mother." → "This is my
+  grandfather." / "This is your sister.") · Ex.3 Choose ("This is your
+  brother." / "This is your grandmother.") · Ex.4 Reorder ("This is
+  my father." / "This is your father.").
+- p.54 Ex.5 Reorder to make a word (h/m/r/e/o/t → mother; s/r/e/t/s/i
+  → sister) · Ex.6 Write two sentences about your family (model:
+  "This is my grandmother. She is kind.") · Ex.7 Trace the words
+  (mother, father, sister, brother, grandmother, grandfather).
+- p.55 **Phonics Focus: long "o" and "u" sounds** — Ex.1 Listen and
+  repeat: nose, rose (long o); glue, cube (long u) · Ex.2 Match the
+  word to the picture · Ex.3 Listen and circle the correct word
+  (red/rose, nose/net, cub/cube, glue/game) · Ex.4 Write the missing
+  letter (r_se, n_se, c_be, gl_e).
+- p.56 Ex.5 Rearrange the letters (sero→rose, sone→nose, becu→cube,
+  gelu→glue) · Ex.6 Trace (rose, nose, cube, glue) · Ex.7 Draw and
+  label a family tree (grandfather – grandmother – father – mother –
+  brother – sister).
+- p.57 **Unit 4, Lesson 3 — My life at Home.** Vocabulary with real
+  photos: wake up, eat, play, sleep, brush, read, wash, walk ·
+  "What do you do in the morning?" "I brush my teeth." "I play."
+- p.58 **Language in Use — The Present Simple**: "I wake up at 7:00
+  am." "He eats at breakfast." Time Expressions: In the morning /
+  At night / After school · Ex.2 Write each sentence under the
+  correct picture ("I brush my teeth at night." / "I wake up at
+  seven." / "I play after school." / "He eats breakfast.").
+- p.59 Ex.3 Choose the correct answer ("I brush my teeth." / "She
+  eats lunch." / "He plays after school.") · Ex.4 Read and complete
+  (read, eat, brush in the box) — "My name is Sara. I wake up at
+  seven. Then, I ______ breakfast in the morning. I ______ my teeth
+  and ______ a book." · Ex.5 Choose ("I brush my teeth." / "She eats
+  breakfast." / "He washes his face.").
+- p.60 **Unit 4, Lesson 4 — Me and My Family.** Complete the Sentence
+  Game (chain game: teacher begins "I wake up." → add "I wake up,
+  and I eat breakfast." Keep the chain going!) · Ex.1 Reorder the
+  words ("I wake up at seven." / "They play after school.") · Ex.2
+  Reorder the letters (brush, sleep, walk — some letters given) ·
+  Ex.3 Draw and write: draw 1 daily activity, write one sentence
+  under it (example "I play after school.").
+- p.61 **Phonics Focus: digraph "th" sound** — Ex.1 Listen and
+  repeat: thin, thick, thumb, thunder, math, teeth · Ex.2 Match the
+  word to the picture.
+- p.62 Ex.3 Listen and circle the correct word (Tin/Thin, Math/Mat,
+  Thumb/lamp, Thunder/under, feet/Teeth, tick/Thick) · Ex.4 Rearrange
+  the letters (math, teeth, thumb) · Ex.5 Fill in the missing letters
+  (ma_h, _ee_h, _h_mb) · Ex.6 Trace the words (teeth, math, thumb).
+- p.63 **Self-Assessment**: "I can say what I do in the morning. / I
+  can say what I do at night. / I can ask and answer questions using
+  full sentences. / I can say family words in English." — **Unit 4
+  ends at p.63.**
+
+**Unit 4 complete (pp.49–63).** Its basics: the family set (father/
+dad, mother/mom, sister, brother, grandmother, grandfather) with
+"This is my/your ___." and "Who's this? / Who is he/she?" (Greetings
+→ introducing-a-friend sources + Word material, pp.50–56) · the
+book's possessive rule box — **my / your / name+'s** (p.51, pronouns
+lesson depth) · daily-routine verbs (wake up, eat, sleep, brush,
+wash, walk, play, read) with the named **Present Simple** and time
+expressions in the morning / at night / after school, incl. he/she
++s forms in use ("He eats breakfast." "She eats lunch.") (Sentence
+material, pp.57–60) · long o (nose, rose) and long u (glue, cube)
+sets (p.55) · **digraph th set** — thin, thick, thumb, thunder, math,
+teeth (two-letter-sounds sources, pp.61–62).
+
+- p.64 **Unit 5 opener — "My Home"** + Learning Outcomes (Speaking:
+  describe rooms and furniture; "there is"/"there are" for items at
+  home; questions about location; "sh" and "th" words in context ·
+  Listening: household items and their locations, prepositions of
+  place · Reading: home vocabulary, sentences matched to items and
+  rooms · Writing: label rooms/objects, reorder, short descriptive
+  sentences about a favorite room).
+- p.65 **Unit 5, Lesson 1 — Inside My Home.** Vocabulary with real
+  photos: table, chair, bed, door, window, lamp, cup, plate · Talk
+  with your friend: "Where is the window?" "The ball is under the
+  table." "I see a pencil on the table."
+- p.66 **Language in Use — Prepositions of Place**: "Where is it?"
+  "The lamp is **on** the table." "The cup is **next to** the plate."
+  "The ball is **under** the table." "The bed is **in** the bedroom."
+  · Ex.2 Look and write a sentence — describe the room pictures
+  (model: "The table is in the dining room."; bedroom, bathroom,
+  living room scenes).
+- p.67 Ex.3 Choose the correct answer ("The chair is next to the
+  table." / "The bed is in the bedroom.") · Ex.4 Read and complete
+  (next to / on / under): "There is a ball ______ the table." "I see
+  a bird ______ the tree." "The cat is ______ the house."
+- p.68 Ex.5 Read and choose ("There is a table and two chairs." / "I
+  eat in the dining room.") · Listening and Speaking: take turns
+  describing objects in a room — A "Where is the lamp?" B "It is on
+  the table." · Ex.6 Look and answer ("Where is the bed?" "It is in
+  the bedroom." as model; the table in the kitchen; the chair in the
+  living room; the flowers in the garden).
+- p.69 **Unit 5, Lesson 2 — What's in My Home?** Ex.1 What's in the
+  room? Label it! (bedroom scene: table, chair, bed, window, lamp,
+  desk) · Ex.2 Reorder the words ("The bed is in the bedroom." /
+  "There are flowers in the garden.").
+- p.70 Ex.3 Reorder the letters (bathroom; kitchen — photo-cued) ·
+  Ex.4 Trace the words (table, chair, bed, living room, window, lamp,
+  cup, plate, kitchen, bathroom, bedroom, door — the room names ride
+  in here ahead of Unit 6).
+- p.71 **Unit 5, Lesson 3 — My Favorite Room.** Ex.1 Write two
+  sentences about your home (word tiles: lamp, desk, chair, bed,
+  table, window, in, on, next to, bedroom — model: "There is a table
+  in my room. The lamp is on the table.") · Ex.2 Trace the words
+  (furniture set, each twice).
+- p.72 Ex.3 Write 1 sentence about your favorite room, then draw it ·
+  **Phonics Focus: "th" sound** — Ex.4 Repeat after your teacher:
+  mother, father, brother, this, that (the voiced th set, against
+  Unit 4's voiceless set).
+- p.73 Ex.5 Connect the word to the picture (mother, father, brother,
+  this, that — this/that taught with near/far pointing photos) · Ex.6
+  Listen then circle the correct word (cat/mother, father/fig,
+  brother/board, chair/this, that/hat, the/man) · Ex.7 Draw and label
+  3 things you use every day at home (e.g., window, cup, table).
+- p.74 **Unit 5, Lesson 4 — Actions At Home.** Vocabulary with real
+  photos: cook, clean, eat, sleep, watch, read, wash, sit, help ·
+  Ex.2 Pair up and ask: "What do you do at home?" "I clean my room."
+  "I help my mother cook."
+- p.75 **Language in Use — Action Words in the Present Time**: "My
+  family **cooks** dinner." "I **read** a book at night." "I help my
+  family **wash** the dishes." Who + action verbs: "Who **washes**
+  the dishes?" "Who **helps** you at home?" "Who **reads** in the
+  living room?" · Ex.3 Write the correct sentence under each picture
+  ("My mother cooks dinner." / "I read a book at night." / "I help
+  my family wash dishes.") · Ex.4 Listen and describe ("My mother
+  cooks." "I help my father clean the car.").
+- p.76 Ex.5 Use the words to complete (family, clean, help, watches,
+  cook): "My ______ cooks dinner." / "I ______ my father clean." /
+  "My sister ______ TV." / "I ______ my room." · Ex.6 Listen and
+  complete — Laila's text: "My name is Laila. I sit with my family in
+  the living room. My mom and dad ______ TV and I ______ a book. At 9
+  o'clock, we ______." · Practice: A "Who helps at home?" B "My
+  brother washes the dishes." · Ex.7 Fill in the blanks with the
+  correct action word ("I ______ my clothes." / "my mom in the
+  kitchen." / "a book." / "my room." / "TV with my family.").
+- p.77 Ex.8 Choose the correct answer ("Who helps your family cook?"
+  → "I help my mom cook." / "Who washes the dishes?" → "My brother
+  washes the dishes." / "Who eats snacks in the kitchen?" → "My
+  family eats snacks in the kitchen.") · Ex.9 Reorder the letters
+  (cook, help, watch) · Ex.10 Write 1 sentence about what you and
+  your family do at home (models: "I eat lunch at the table." "My
+  sister reads books." "I help my mother clean the house.").
+- p.78 Ex.11 Trace the words (cook, clean, eat, sleep, watch, read,
+  wash, sit, help) · Ex.12 Write 1 sentence about your favorite room,
+  then draw it.
+- p.79 **Phonics Focus: digraph "sh" sound** — Ex.1 Listen and
+  repeat: sheep, ship, shop, fish, dish, brush · Ex.2 Match the word
+  to the picture (real photos).
+- p.80 (sh work continues) Ex.3 Fill in the missing letter (_hip,
+  _hop, fi_h, s_eep, bru_h) · Ex.4 Rearrange the letters (ship, shop,
+  fish, dish) · Ex.5 Trace the words (ship, shop, fish).
+- p.81 Ex.6 Draw and write about one activity you and your family do
+  at home · **Self-Assessment**: "I can say the names of things in my
+  house in English. / I can draw a room and label things in it. / I
+  can say sentences like "There is a lamp." and "There are two
+  chairs."" — **Unit 5 ends at p.81.**
+
+**Unit 5 complete (pp.64–81).** Its basics: the home set — table,
+chair, bed, door, window, lamp, cup, plate, desk — with the named
+**Prepositions of Place** on / under / next to / in and "Where is
+it?" (Sentence material, pp.65–68) · "There is a… / There are…"
+describing rooms (pp.68–78) · home action verbs (cook, help, watch,
+wash…) in present-time sentences with Who-questions ("Who washes the
+dishes?") (pp.74–77) · **digraph sh set** — sheep, ship, shop, fish,
+dish, brush (two-letter-sounds sources, pp.79–80) · the voiced **th
+set** — mother, father, brother, this, that (pp.72–73).
+
+- p.82 **Unit 6 opener — "Rooms at Home"** + Learning Outcomes
+  (Speaking: describe rooms and their functions, ask/answer about
+  rooms, "ch" phonics · Listening: room vocabulary in talk, location
+  questions · Reading: room words, sentences about objects and
+  activities in each room · Writing: room and furniture words,
+  reorder room sentences, short descriptive sentences about favorite
+  rooms).
+- p.83 **Unit 6, Lesson 1 — My Home.** Vocabulary with real photos:
+  kitchen, living room, bedroom, bathroom, dining room, garden, hall,
+  balcony.
+- p.84 Ex.2 Look and number — a cutaway house (A bedroom, B living
+  room, C kitchen, D bathroom) matched to bathroom / kitchen /
+  living room / bedroom · Ex.3 Look and number — eight room photos
+  against eight labels (dining room, bathroom, living room, garden,
+  kitchen, hall, balcony, bedroom) in scrambled order.
+- p.85 Ex.4 Draw your own home and label the rooms (full blank page).
+- p.86 **Unit 6, Lesson 2 — Let's Talk About Our Home!** Ex.1 Listen,
+  repeat, and number: a. "I sleep in my bedroom at night." b. "We
+  cook dinner in the kitchen." c. "I brush my teeth in the
+  bathroom." d. "We watch TV in the living room." · Ex.2 Listen and
+  match (action pictures to room photos).
+- p.87 Ex.3 Ask and answer questions in pairs: "Where do you eat?" "I
+  eat in the kitchen." / "Where do you watch TV?" "I watch TV in the
+  living room." / "Where is the table?" "It is in the dining room." /
+  "Where is the bed?" "It is next to the window." / "What is in your
+  house?" "There is a bathroom." · Ex.4 Guessing Game — listen to
+  clues and name the room ("There are a table and chairs. We eat
+  here." → "The dining room!"; a bed → bedroom; a shower → bathroom;
+  a chair + watch TV → living room; flowers and trees → garden; a
+  fridge + cook → kitchen).
+- p.88 **Unit 6, Lesson 3 — Where Things Are in My House!**
+  **Language in Use — There is / There are**: "There **is** a kitchen
+  in my house." "There **are** three bedrooms." + "Where is it?"
+  (in, on, next to): "The table is **in** the dining room." "The bed
+  is **next to** the window." · Ex.1 Read and Complete (kitchen,
+  bedrooms, on, in, next to) · Ex.2 Choose the correct answer —
+  There (is – are) a bed / chairs / a TV / dishes.
+- p.89 **Phonics Focus: digraph "ch" sound** — Ex.3 Listen and
+  repeat: cheese, chicken, chin, lunch, beach · Ex.4 Match the word
+  to the picture.
+- p.90 **Unit 6, Lesson 4 — I Can Read and Write About My Home!**
+  Ex.1 Trace the words (kitchen, living room, bedroom, bathroom,
+  dining room, garden, hall, balcony) · Ex.2 Look and write (name
+  the five room pictures).
+- p.91 Ex.3 Look, read, and write — complete each sentence from the
+  word strip (wash my face – cups – kitchen – living room – table –
+  dinning room – eat – bathroom; the book itself spells "dinning"):
+  a. "I wash my face in the bathroom." b. "There is a table in the
+  living room." c. "There are cups in the kitchen." d. "We eat in the
+  dinning room."
+- p.92 Ex.4 Write one sentence about a room in your house (examples:
+  "The kitchen is big." "The living room has a TV.") ·
+  **Self-Assessment**: "I can name rooms in my house. / I can draw
+  and label a house. / I can say what I do in each room." — **Unit 6
+  ends at p.92.**
+
+**Unit 6 complete (pp.82–92).** Its basics: the room set (kitchen,
+living room, bedroom, bathroom, dining room, garden, hall, balcony)
+with "Where do you…? I … in the ___." and the guessing-game clue
+pattern (Word/Sentence material, pp.83–87) · the named **There is /
+There are** rule box with in/on/next to (p.88 — Sentence material) ·
+**digraph ch set** — cheese, chicken, chin, lunch, beach
+(two-letter-sounds sources, p.89).
+- p.93 **Review — "Let's Review Units 4, 5, and 6."** Family members
+  (labeled picture) · Daily routine (cook, clean, eat, sleep, watch,
+  read, wash, sit, help) · Rooms in the house (bathroom, kitchen,
+  living room, bedroom, dining room, garden, hall, balcony) ·
+  **Grammar focus: there is / there are** ("There is a bed in the
+  bedroom." "There are four chairs at the table.") · Daily routine
+  ("I wake up at 7 o'clock." "My father cooks in the kitchen.") ·
+  Classroom phrases ("Where do you eat?" "Who washes the dishes?"
+  "There is a lamp on the table.").
+- p.94 Ex.1 "Describe and Guess" Game (teacher describes a room,
+  object, or family member — "This is where you sleep." → "The
+  bedroom!") · Practice: describe your home or family in full
+  sentences ("My sister is kind. We play in the garden.") · Ex.2
+  Match the Room or Family Member (This is where we cook / sleep /
+  eat; This is my mother / brother / grandmother).
+- p.95 Ex.3 Choose the correct answer (four options a–d from here):
+  "Who's this?" → "This is my grandmother." / "Where is the bed?" →
+  "It's in the bedroom." / "What do you do at night?" → "I brush my
+  teeth." / "What does your dad do in the evening?" → "He watches
+  TV."
+- p.96 Ex.3 cont.: "What is in the dining room?" → "A table and
+  chairs." / "What do you do after school?" → "I play after school."
+  · Ex.4 Choose the correct answer by picture ("My mom cooks
+  dinner." / "I brush my teeth." / "He plays football." / "I eat in
+  the kitchen." / "I read a book.").
+- p.97 Ex.5 Reorder the letters to make a word ×9 (bathroom, help,
+  sister, cook, kitchen, room, brush, play, sleep) · Ex.6 Use the
+  words to complete sentences (model: mother → "This is my mother.")
+  — bed ("This is my ______."), kitchen ("I eat in the ______."),
+  book ("I read a ______."), TV ("My father watches ______."),
+  room ("I clean my ______.").
+- p.98 Ex.7 Reorder the letters, picture cards 1–12: rose, nose,
+  cube, glue, sun, this, that, teeth, math, thumb, chair, father.
+- p.99 Cards 13–21: blue, ship, shop, fish, cheese, chicken, lunch,
+  beach, chin.
+- p.100 Ex.8 Fill in the missing letter (18-word bank = the term's
+  phonics words: thumb, that, fish, beach, math, rose, shop, nose,
+  chicken, ship, cube, chin, lunch, this, glue, teeth, the, cheese)
+  · Ex.9 Write 2 sentences describing your home and family.
+- p.101 Review tail: trace the room words, each twice (kitchen,
+  living room, bedroom, bathroom, dining room, garden, hall,
+  balcony).
+- pp.102–103 **Glossary of Words and Phrases** — the book's own
+  dictionary: Category / Word / Definition in one simple sentence
+  each. Categories: Action Verbs (write, draw, read, color, clean,
+  play, sit, stand, raise, open, close, sing + student, sharpener) ·
+  Classroom Language (classmate, marker, chalk, teacher, chair, desk,
+  eraser, book, ruler, bag, window, door, board, pencil case,
+  classroom, school, pencil, stand up, sit down, please, thank you,
+  good morning, goodbye) · Daily Routines (doctor, toothbrush, soap,
+  tissue, healthy, clean, nurse, hospital, germs, water, vegetables,
+  fruit, wake up, sleep, brush, walk, wash) · My Home (kitchen,
+  bedroom, bathroom, living room, couch, lamp, mirror, sink, house,
+  table, cup, spoon, refrigerator) · People and Relationships
+  (mother, father, sister, brother, grandmother, grandfather, uncle,
+  aunt, cousin, family, parents, baby, child, children) · Phonics
+  and Descriptive Vocabulary (red, blue, green, yellow, circle,
+  square, triangle, color, shape, number, rectangle, oval, rose,
+  glue, cube, nose, thick, thin, thumb, thunder, math, teeth).
+  Note: the glossary defines a wider set than the units drill —
+  sharpener, chalk, doctor, uncle, aunt, cousin, rectangle, oval and
+  more appear here only. It is also the book's own model of a
+  dictionary: one word, one plain meaning — the Term 2 "Using the
+  Dictionary" material has its first source here.
+- p.104 Back cover / colophon: Developed, Revised, and Supervised by
+  Prof. Zeinab El-Naggar, Prof. Attia El-Sayed, Prof. Nagwa Younis,
+  Dr. Mai Kamal, Ms. Amira Awaad, Ms. Eman Mahmoud Youssef, Ms. Amira
+  Fawzy Ahmed, Ms. Rabab Abd El Aziz Zidan, Dr. Shaimaa Salah El Din
+  Afify, Ms. Mervat Isreal Mahmoud, Dr. Akram Hassan Mohammed,
+  Dr. Gebriel Anwer Hemeida · "In participation with Selah El Telmeez
+  Publishing and Printing Company" · Al-Reyada Printing Books ·
+  British Council · CACD (Center for Curriculum and Instructional
+  Development) seal · **ISBN 978-633-8475-44-4** · print spec table
+  (Arabic): 108 pages, 2026–2027 printing, deposit no. 10128/2026 ·
+  "All Rights Reserved © Ministry of Education and Technical
+  Education."
+
+## PRIMARY 2 TERM 1 FULLY READ — 2026-10-25 (all 104 pages)
+
+Structure, same as the ministry pattern: 6 units × 4 lessons each,
+a Review after Unit 3 (pp.44–48) and after Unit 6 (pp.93–101), and a
+Glossary (pp.102–103). Unit spans: U1 Let's Get Started pp.5–16 ·
+U2 Colors, Shapes, and Numbers pp.17–30 · U3 Classroom Actions &
+Routines pp.31–43 · U4 Everyday Life pp.49–63 · U5 My Home pp.64–81 ·
+U6 Rooms at Home pp.82–92.
+
+**Every named rule the book states, in its own boxes:** Singular and
+Plural — add -s (p.26) · my / your / name+'s (p.51) · The Present
+Simple + time expressions (p.58) · Prepositions of Place — on, under,
+next to, in (p.66) · There is / There are (p.88) · "a full sentence"
+as the Unit 1–3 review's language focus (p.44).
+
+**Phonics spine of the term:** short a (p.8) · short e + short i
+(p.13) · short o + short u (p.21) · long a (p.28) · initial consonant
+sounds (pp.37–38) · long o + long u (p.55) · digraph th voiceless —
+thin, thick, thumb, thunder, math, teeth (pp.61–62) · digraph th
+voiced — mother, father, brother, this, that (pp.72–73) · digraph sh
+(pp.79–80) · digraph ch — cheese, chicken, chin, lunch, beach (p.89).
+
+**Where its basics file (lessons):** greetings set re-taught higher
+(+ "May I sit down?", teacher address) → Greetings lessons' sources,
+pp.6–7 · family introductions "This is my father" + "Who's this?" →
+introducing-a-friend sources, pp.50–54 · short/long vowel sets →
+word-families sources · th/sh/ch sets → two-letter-sounds sources ·
+initial sounds → blending-sounds sources · colors/shapes, numbers
+1–10 + tens, classroom objects, action verbs, family, home/rooms,
+prepositions, present simple, there is/are → Word and Sentence title
+material, recorded here and slotted in CURRICULUM.md; their lessons
+are built as the Word/Sentence titles' turn comes.

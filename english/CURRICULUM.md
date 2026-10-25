@@ -35,6 +35,11 @@ every letter, sounds out new words, and can say hello and their name.*
 ## Term 2 — Words and what they do
 *Building things. End of term: the learner knows the word kinds, has
 words for the world around them, and can use a dictionary.*
+*(Egypt Primary 2 Term 1 slots in here, read 2026-10-25: its colors/
+shapes and numbers work deepens Term 1's Unit 3–4 layer, and its word
+sets for the classroom, the home, and the family stock this term's
+Unit 2; its own glossary — one word, one plain meaning — is the first
+source for Unit 3 below.)*
 
 - **Unit 1 — Word Kinds**: nouns · verbs · adjectives · adverbs ·
   pronouns (each one lesson, one thing — pronouns carries its own

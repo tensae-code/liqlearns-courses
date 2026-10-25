@@ -92,3 +92,15 @@ Good morning → play → I am sad / I will help you → Goodbye). KG1
 teaches the greetings spoken and picture-matched, before any reading
 of them — that is the level under this lesson's level 1, and the
 lesson grows a pre-level layer from it when the KG1 book is finished.
+
+**Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
+next-year layer): *English — Primary 2 — Term 1* (MoE Egypt with the
+British Council, © 2025; ISBN 978-633-8475-44-4; verified on disk:
+%PDF, 39,918,874 B, 104 pp, image-only; full read in
+english/EGYPT-BOOK-MAP.md). Unit 1, Lesson 1 "Classroom Greetings,"
+p.6: the same shape re-taught a year up — "Hello, I'm Ali." "What's
+your name?" — plus two school-polite lines this lesson's first layer
+doesn't have: "Good morning, Ms. Amira." (greeting a teacher by
+name) and "May I sit down?" Exercises pp.6–7 practice the same
+exchange (pair practice "Hello, what is your name?" — "My name is
+______").

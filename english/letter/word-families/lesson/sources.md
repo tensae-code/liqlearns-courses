@@ -21,3 +21,17 @@ pictures).
 
 **Acceptance count: taught in 1 country (Egypt).**
 Counts grow as other finished countries' books are read.
+
+**Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
+next-year layers): *English — Primary 2 — Term 1* (MoE Egypt with the
+British Council, © 2025; ISBN 978-633-8475-44-4; %PDF, 39,918,874 B,
+104 pp, image-only; full read in english/EGYPT-BOOK-MAP.md). This
+book teaches the vowel sounds as word sets, one focus at a time:
+short a — cat, hat, fan, man, map, cap (p.8, with trace/match/circle
+work pp.8–9) · short e — pen, ten, hen and short i — zip, fig, bin
+(p.13, traced p.14) · short o — dog, box, fox and short u — sun, cup,
+bun (pp.21–22) · long a — cake, lake, gate, cave, snake, grapes
+(pp.28–29) · long o — nose, rose and long u — glue, cube (pp.55–56).
+Each set is taught the same way: hear the words, trace them, match
+them to pictures, circle the right one against a near-miss (cat/cut,
+cake/cat, cub/cube), fill the missing letter, reorder the letters.

@@ -19,3 +19,17 @@ how-old-are-you), not here.
 
 **Acceptance count: taught in 1 country (Libya).**
 Counts grow as other finished countries' books are read.
+
+**Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
+next-year layer): *English — Primary 2 — Term 1* (MoE Egypt with the
+British Council, © 2025; ISBN 978-633-8475-44-4; %PDF, 39,918,874 B,
+104 pp, image-only; full read in english/EGYPT-BOOK-MAP.md). Unit 4
+"Everyday Life," Lesson 1 "My Family," pp.50–54: introducing the
+family is this lesson's shape a year up — a labeled family picture
+(father, grandfather, sister, mother, brother, grandmother) with
+"This is my father / dad." "This is my mother / mom." "This is my
+sister." "This is my brother." "This is my grandmother." "This is my
+grandfather."; then "Who is she?" — "This is my mother." (p.50); the
+Family Tree Game "Who is he/she?" with a first description added —
+"This is my father. He is tall." (p.51); and the pair exchange "Who's
+this?" — "This is my father. / This is your mother." (p.51).

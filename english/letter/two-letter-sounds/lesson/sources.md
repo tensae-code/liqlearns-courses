@@ -18,3 +18,15 @@ single letters.
 
 **Acceptance count: taught in 2 countries (Egypt, Libya).**
 Counts grow as other finished countries' books are read.
+
+**Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
+digraph layer): *English — Primary 2 — Term 1* (MoE Egypt with the
+British Council, © 2025; ISBN 978-633-8475-44-4; %PDF, 39,918,874 B,
+104 pp, image-only; full read in english/EGYPT-BOOK-MAP.md). Three
+digraphs get their own Phonics Focus: **th** with no voice — thin,
+thick, thumb, thunder, math, teeth (pp.61–62, circled against
+Tin/Mat/lamp/under/feet/tick) · **th** with voice — mother, father,
+brother, this, that (pp.72–73) — the book teaches the two th sounds
+as two separate sets, eleven pages apart, and never mixes them ·
+**sh** — sheep, ship, shop, fish, dish, brush (pp.79–80) · **ch** —
+cheese, chicken, chin, lunch, beach (p.89).

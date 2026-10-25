@@ -37,6 +37,26 @@ liqlearns-courses/
                                    own folder, even if a book teaches them
                                    together. Related lessons point at each
                                    other; they do not merge.
+        lesson-plan.md           ← the plan for THIS one lesson (2026-10-25):
+                                   its one thing, its place in the curriculum,
+                                   what the learner can do at the end, the run
+                                   of the lesson in order, and the ADD-ON
+                                   slots — at the exact places they belong,
+                                   lines like "ADD IMAGE: a picture of …",
+                                   "ADD GIF: …", "ADD VIDEO: …", "ADD
+                                   AUDIO: …", each slot describing the
+                                   add-on in words PLUS one little line
+                                   saying what the student does with it.
+                                   The words carry the picture while the
+                                   course is built and while the AI learns
+                                   from the books (a picture book is learned
+                                   from by describing its pictures); on the
+                                   website the real add-on is dropped into
+                                   the slot and the little explanation stays
+                                   as the student's guide. The plan is the
+                                   build sheet for the lesson page.
+                                   (A curriculum is for the WHOLE course;
+                                   a lesson plan is for ONE lesson.)
         lesson/                  ← the lesson itself: the teaching text
           lesson.md
           sources.md             ← which books, from which countries, this

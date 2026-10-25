@@ -14,3 +14,16 @@ letters.
 
 **Acceptance count: taught in 2 countries (Egypt, Libya).**
 Counts grow as other finished countries' books are read.
+
+**Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
+first-sound layer): *English — Primary 2 — Term 1* (MoE Egypt with
+the British Council, © 2025; ISBN 978-633-8475-44-4; %PDF,
+39,918,874 B, 104 pp, image-only; full read in
+english/EGYPT-BOOK-MAP.md). Unit 3's Phonics Focus is **Initial
+Consonant Sounds** (pp.37–38), with the book's own tip: "Listen
+carefully to the first sound of each word. Say it out loud and feel
+how your mouth moves." The work: circle the word that starts with
+the same first sound as the action word (sit → sun as the worked
+example; read → ruler; clap → classmate; clean → classroom; draw →
+door), then a pair game — say an action word, your partner answers
+with new words starting with the same sound.
