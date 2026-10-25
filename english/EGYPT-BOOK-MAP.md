@@ -430,11 +430,23 @@ Book page = PDF page − 4, same as KG1.
 - p.82 **Unit 3 Review** — trace Oo/Bb/Ff/Ll; color the days-of-the-
   week rocket; count and circle 6-7-8
 
-### KG2 Unit 4 — started (book pp.83–84)
+### KG2 Unit 4 — page by page (book pp.83–92 so far)
 - p.83 Opener in 3 panels: "I get up in the morning." / "I go to
   school." / "I go to bed at night."
 - p.84 "I have breakfast in the morning." / "I have lunch at noon."
   / "I have dinner at night." (meals tied to times of day)
+- p.85 **Lesson 1: My Daily Routine** — morning, noon, night +
+  breakfast, lunch, dinner
+- p.86 Practice: circle night/morning; match the routine sentences
+  to their skies · p.87 **My Day in Pictures** — draw what YOU do in
+  the morning, at noon, at night
+- p.88 Letters and Sounds: **Ww** (wolf, water, watch) and **Cc**
+  (camel, cat, color) · p.89 Ww/Cc formation · p.90 trace Ww +
+  match · p.91 trace Cc + color the beginning letter (poster at
+  book p.116)
+- p.92 Two-panel reading: "I have 9 grapes. I will eat them in the
+  morning." / "I have 7 apples. I will share them with my family at
+  dinner." — bigger numbers inside two-sentence speech
 
 ## Still owed in this pass
 - Finish KG2, then Primary 1 Term 2 — one book at a time.
