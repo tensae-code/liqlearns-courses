@@ -6279,3 +6279,717 @@ to present perfect simple and continuous, future continuous,
 first conditional, reflexive pronouns and a modals scale). Next
 per the queue inside this grade: the **Teacher Book** (154 pp),
 then the Work Book (98 pp), one book at a time.
+
+## Libya Grade 8 — Teacher's Book (READ COMPLETE 2026-10-25; filed here in this book's own run — it stands after the Course Book section above, out of page order in this file only because the Course Book was read first)
+
+**Identity.** *08_English_for_Libya_Teacher_Book.pdf*, **14,833,356 B, 154 pp**,
+from `https://liasinstitute.com/PDFs/08_English_for_Libya_Teacher_Book.pdf`.
+Text layer is only the repeated Arabic rights footer, so the book was read
+from full renders (154 pages at 100 dpi). **Page rule: book p. = PDF p. − 1**
+(folios verified: Introduction opens book p.6 = PDF p.7). Cover matches the
+Course Book (oasis photograph, greyscale); imprint: Garnet Publishing Ltd,
+8 Southern Court, South Street, Reading RG1 4QS, UK — **"First edition,
+copyright © 2018 Garnet Publishing Ltd"**, one year *earlier* than the Course
+Book's © 2019 imprint; back cover code **11000801**, printed by International
+Press, Lebanon; components listed as Course Book · Workbook · Teacher's Book ·
+Audio, with www.englishforlibya.com. Shape: Contents (Introduction book p.6 ·
+U1 p.16 · U2 p.34 · U3 p.54 · U4 p.72 · U5 p.82 · U6 p.102 · U7 p.122 · U8 p.140)
+· a two-page **Book Map** mirroring the Course Book's skills tables · per-unit
+notes, each opening with the unit scope + a **Key words** list (word +
+phonetic transcription, no definitions — the Course Book's Key Words at the
+back carry the definitions) · per-lesson notes in a fixed shape: an
+**Objectives box** (Objectives / Language / Vocabulary / 21st Century Skills /
+Reference: Course Book page, Workbook pages, track numbers), staged
+procedures with **minute timings** (each lesson totals **45 minutes**), the
+audio scripts reprinted, and **Answers** for Course Book exercises and for
+every Workbook exercise (headed WB A, WB B …).
+
+**Introduction (book pp.6–14) — the course's method, in its own words.**
+*21st Century English for Libya* is "a modern, engaging course, which
+integrates a general English syllabus with an element of 21st century skills,
+such as study skills, teamwork, critical thinking and problem-solving."
+Preparatory 2 students "are starting to become young adults." The approach is
+**communicative** — "the development of communicative competence as its
+principal aim" — but at the Preparatory stage it adds "a more overt analysis
+of the structure of the language," for three stated reasons: students this age
+can understand the concepts behind the rules; language needs constant
+recycling and studying how it is put together is a less academic way to
+revisit it; and the state examination system means students "need to
+demonstrate both knowledge of language and an ability to use the language."
+Mistakes "should be seen as part of the developmental process"; students
+"need to be encouraged to think for themselves, experiment with the language,
+and take some responsibility for their own learning." A **self-study strand**
+runs through the course: learner diaries, vocabulary notebooks, regular
+homework. **Components (§3):** the Course Book "is used to present new
+language"; the Workbook consolidates and "gradually introduce[s] the phonemic
+alphabet"; the Teacher's Book gives detailed plans per lesson; a **Test
+booklet** — "contains progress tests that can be used to test the students
+after each unit," assessing listening, reading and writing plus the unit's
+language points and vocabulary, with task types: listening to a conversation
+and completing multiple-choice questions or writing notes · speaking in
+role-plays and using functional language to complain, agree, negotiate ·
+reading and identifying topic sentences · reordering a conversation ·
+matching sentence halves · completing and correcting sentences · matching
+words to pictures and definitions · completing an application form · writing
+an email. (The Test booklet is **not** in the grade-08 library record, which
+holds exactly the Course Book, Teacher Book and Work Book — recorded here as
+a fourth component the course names but the library does not hold.) Marking:
+"consistency of marking" matters more than the allocation; review the test's
+problem parts in the unit's last lesson *before* returning marked tests, and
+"praise the students whose test results improve over time, not just those
+who consistently achieve well." The **website** hosts downloadable audio
+MP3s, learning resources and training videos. **Organization (§4):** Units 1–3
+and 5–7 are topic-based and present new language; Units 4 and 8 "recycle
+language from the previous three units, presenting the language in
+context." **Features (§5):** *Grammar tips* — the shaded boxes (the notes
+call the Course Book's boxes "Language tip"/"Functional Grammar"
+interchangeably) with detailed explanations and realistic examples; *Round up
+pages* at the end of Units 1, 2, 3, 5, 6 and 7 for students and teacher to
+review the unit and "go over any problem areas together before the tests."
+**Homework:** Workbook projects and extended writing may be set as homework.
+**Vocabulary notebooks:** each student keeps one from "the very beginning of
+the course," categorising words their own way — word maps and pictures
+rather than Arabic translations ("the aim is to let the students find their
+own method of remembering and associating words"). **Dictionaries:** students
+"should begin to make more use of monolingual dictionaries"; they were shown
+how in Preparatory 1's first unit and "referring to dictionary entries in
+Preparatory 2"; phonemic script is completed by the end of Preparatory 2
+"(with consonant sounds, stress marks, etc.)". **Advice to teachers of
+teenagers (§6.1):** seven characteristics with responses — clearer personal
+goals; firmer opinions; greater interest in the outside world; importance of
+peer pressure (identify student leaders and use their leadership "for the
+good of the class"); understanding of abstract concepts; critical thinking;
+a more reflective attitude to information. **Lesson planning (§6.2):** read
+the unit's notes first, plan blocks of lessons (e.g. a week), plan each
+lesson at least a day ahead; approximate timings are given per stage.
+**Recycling language (§6.3):** revise earlier language constantly — social
+language and keeping a conversation going (including question tags: "Really?
+That's nice. Was it?"), asking for and expressing opinions ("What do you
+think? I think … I agree … I disagree. Maybe you're right."), describing
+location and giving directions, adjectives to describe experiences and
+places, a range of tenses, talking about timetables, imperatives and polite
+requests (lend and borrow). **Pairwork and group work (§6.4):** explain or
+demonstrate *before* splitting the class; imaginary line or A/B halves for
+two groups; similar ability together generally, but mixed ability is useful;
+extra work ready for early finishers; pairwork easiest with neighbours but
+vary pairings sometimes — "the interaction will be more genuine if students
+are talking to someone they don't know very well." **Continuous assessment
+(§6.5):** keep a written record of individual achievement, broken down by
+skill; assess speaking by choosing four or five students to concentrate on
+before a lesson, "preferably while they are unaware that they are under
+assessment"; **"assess a student's effort, not just the results that he/she
+achieves."** **Homework (§6.6):** keep a record of who hands homework in on
+time; correction "should promote positive reinforcement at the same time as
+giving constructive criticism"; for written work "instead of correcting
+errors of grammar, spelling or punctuation straight away, it is a good idea
+to highlight mistakes and get the students themselves to work out how to
+correct them. Self-correction is a valuable skill." **Teaching the skills
+(§7):** listening text types (sounds/words/phrases, conversations,
+descriptions, narratives, discussions) and twelve listening sub-skills
+(recognising context, predicting, revising predictions, dealing with unknown
+words, identifying speakers' remarks, gist, detail, note-taking, following
+main points, identifying important information, summarising, noticing
+features of spoken language such as turn-taking and hesitancy, identifying
+grammar features, identifying feelings and attitudes); the basic listening
+procedure — discuss pictures and establish context · explain the task ·
+play the audio while students do the task (some texts played twice or more)
+· compare answers in pairs · elicit answers · confirm · use the information
+for consolidation, transfer or discussion — with the note: "the main aim of
+the tasks is to develop student's listening ability, not to test it… Do not
+expect students to get all the answers right, particularly after the first
+listening." Speaking competencies for Preparatory 2 are listed in full
+(greeting formally and informally, asking for and responding to personal
+information, suggestions and preferences with reasons, arrangements, advice,
+views and opinions, gratitude, polite interruption, showing interest,
+feedback and confirmation, describing people/places/things, checking and
+clarifying, confirming and correcting misunderstandings, giving simple
+explanations). Reading sub-skills: skimming, scanning, recognising purpose
+and audience, using headlines/subtitles/topic sentences, extracting and
+collating information, prediction from prior knowledge, summarising main
+ideas, guessing meaning where the topic is familiar, using grammar and
+vocabulary knowledge to follow a text, following texts with some unknown
+vocabulary, developing strategies for unknown vocabulary, understanding text
+organisation, active reading techniques. **Writing:** each presentation unit
+contains six writing tasks — short tasks of **50–70 words** and one longer
+end-of-unit task of **80–120 words**; text types: informal messages and
+postcards, letters/emails, factual texts, descriptions, stories, instructions,
+reports, questionnaires; writing is scaffolded step by step (brainstorming,
+planning, a model to follow) and students "should also be encouraged to refer
+to the Checklist for written work at the back of the Course Book"; stages
+and sub-skills include selecting and rejecting ideas, arranging information
+logically, sequencing events, layout, paragraphing, formal/informal register,
+punctuation, discourse markers and contrastive linkers, proofreading, editing,
+writing legibly.
+
+**What the notes settle (official answers and keys), by unit.**
+- *U1:* Track 1's completed conversations (see Differences for the river/sea
+  split); model paragraph for the Workbook holiday writing — "In the holidays
+  we visited my uncle near Sabratha. One day we went to his farm and looked
+  at lots of animals. I liked that a lot. In the evenings I read lots of
+  books because my uncle does not have a television. Many were exciting, but
+  some were not." Workbook past-simple completions: played football
+  yesterday · bought a new smartphone · took an exam last week · visited her
+  grandparents last weekend. The year's project plan is stated: "this year
+  they will do a project in each unit of the book — six in all," the first
+  on the theme *My Spare Time* (a scrapbook). Photo order for Joe's album:
+  **1 Park Güell, Barcelona · 2 Leaning Tower of Pisa · 3 Leptis Magna ·
+  4 Big Ben · 5 The Pyramids · 6 Victoria Falls**; the Workbook adjective
+  key (Pisa — famous, great; Leptis Magna — historical, beautiful, famous,
+  huge; Victoria Falls — exciting; Big Ben — favourite, interesting;
+  pyramids — fantastic; Park Güell — amazing); word meanings: sculptures —
+  objects or designs made from wood, clay or metal · mosaics — tiny pieces
+  of glass or pottery · ground — the earth · forum — public square. The
+  past-tense sorting table: column 1 adds -ed (listen→listened, learn→
+  learned, stay→stayed) · column 2 all different (see→saw, make→made, go→
+  went, take→took, get up→got up, am/is/are→was/were, do→did, have→had) ·
+  column 3 same as the infinitive (put→put, read→read); the hidden-verbs
+  puzzle (looked, drove, heard, sat, shouted, knocked, helped, threw; cut
+  and ran, ate and threw, fell — sorted by column). **Past simple vs past
+  continuous taught with three timeline diagrams**: a completed action is an
+  X on a PAST→NOW line ("I had chicken for dinner last night."); an
+  interrupted action or the setting for another action is a wavy line with
+  an arrow striking it ("I was having dinner last night when the telephone
+  rang."); an uncompleted action at a point in the past is a wavy line with
+  the time marked ("At 7.30 last night I was having dinner."). Richard
+  paragraph answers: wanted, asked, gave, were walking, forgot, saw, was
+  selling, didn't like, bought, didn't buy. Adjective stress answers:
+  fanˈtastic, ˈhorrible, deˈlicious, ˈboring, ˈbeautiful, ˈterrible, ˈlovely.
+  Possessive pronouns elicited with pupils' own books held up — the board
+  table mine/ours, yours/yours, his/hers/theirs; Workbook answers: hers,
+  yours, ours/theirs, mine. **Frequency:** the rule's missing words are
+  confirmed — "Put them *after* the verb be. With other verbs, put them
+  *between* the subject and the verb"; sometimes may also open a sentence;
+  the teacher draws the adverb scale with **always marked as 100% and never
+  as 0%** and students guess each adverb's percentage. Adel's questions
+  key: **1d 2f 3b 4e 5g 6a 7c**. Workbook answers on the conversation:
+  Adel wants to go to the mall · Adam wants to put photographs in his
+  scrapbook · he takes them in different cities · photos of ruins/historical
+  sites in Libya. Karen's email: answers Sydney, Australia · Karen's friend
+  (Jane) · fish · she collects photographs of countries around the world;
+  reference words — We = Karen and Jane · one = a museum · Everyone = Karen,
+  Jane and her family · some = photographs of Libya; **Karen asks six
+  questions**: Are you back at school now? · Is there a museum in Tripoli? ·
+  What is your favourite food? · Can you send me some photographs of Libya? ·
+  What did you do in the holidays? · What do you do in your spare time? The
+  Birdwatcher note: **"Tell the students that this story is based on fact"**;
+  answers: 1 Muna · 2 Libya; the Workbook Story-time information sheet model
+  (Title / Characters: Mother, father, Ahmad, Muna, the white stork / What
+  is it about? / Why I liked/didn't like the story / New words: binoculars,
+  lens, birdwatchers, bill) and the research task *Find out about birds in
+  Libya* with its question set (What does the bird look like? What colour is
+  it? How big is it? Where does it live? What does it eat? What time of year
+  does it live in Libya?). Word-tree hidden word: **sweater** (mosque, went,
+  museum, paper, cheetah, lovely, horse). Round up joining answers as
+  possible answers (cheetah/and, chess/but, elephants/but, fish/or).
+- *U2:* weather words ordered by temperature hot, warm, cool, cold; seasons
+  matched (winter: cold, snows · spring: warm, rains · summer: hot, sunny ·
+  autumn: cool, windy); word building snow→snow/snowy, rain→rain/rainy,
+  wind→—/windy; forecast answers (morning cloudy with rain, afternoon dry
+  and sunny, evening cooler). **The months poem's country is settled by the
+  notes: "(The rhyme is about Libya.)"** England's seasons by month: Spring
+  March–May, Summer June–August, Autumn September–November, Winter
+  December–February; chart answers: snows in January and February · cloudy:
+  October · windy: March and September · coldest month: January · hottest:
+  July; a note that "unlike the Muslim calendar, the months are always in
+  the same season in this calendar." Unit 2's scrapbook project: *The
+  weather and seasons of the year*. Libya weather sentences (model): It is
+  usually hot. It is often sunny. It is sometimes windy. Time phrases may
+  begin or end a sentence — beginning "highlights the time and makes it
+  seem more important"; forecast questions answered No ×3 with 18 degrees in
+  the afternoon. Days-in-months: 365 / 366 answers; leap years named, "The
+  year 2016 was a leap year," next 2020, 2024, 2028; ordinal formation —
+  first to fifth then -th to twentieth with no pronunciation change; sixth
+  to twentieth elicited; compounds twenty-first, twenty-second, twenty-third,
+  thirty-first with hyphens; abbreviations 1ˢᵗ 2ⁿᵈ 3ʳᵈ 4ᵗʰ 5ᵗʰ and "all
+  abbreviations are -th" apart from those and 21ˢᵗ/22ⁿᵈ; Workbook month
+  answers (May shortest name, September longest; rains April, May, July,
+  November, December; sunny May, June, July, August; in Libya it rains in
+  November and December) and the days table Jan 31, Feb 28/29, Mar 31,
+  Apr 30, May 31, Jun 30, Jul 31, Aug 31, Sep 30, Oct 31, Nov 30, Dec 31.
+  Nature listen-and-number key: **1 sky · 2 clouds · 3 Sun · 4 trees ·
+  5 snow · 6 sand · 7 grass · 8 mountain · 9 rainbow** (the ninth item,
+  rainbow, is named only here); the listen-and-draw text (Track 17) and the
+  Aboulia text (Track 18) match the Course Book transcripts. Future
+  continuous completions: I will be visiting my friends next weekend · going
+  on a boat ride · travelling by plane · staying for ten days · buying gifts
+  for everybody · taking pictures all the time. Different Schools answers:
+  Simon has **3** half-term holidays; Libya's fixed-date holidays named in
+  the notes — Independence Day (December 24th), and students may also
+  mention the February 17th Revolution, Labour Day (May 1st), Liberation
+  Day (October 23rd), Martyr's Day (September 16th); reasons for capital
+  letters listed (names of towns, names of countries, to start a sentence,
+  the pronoun 'I', months, important holidays); Workbook short answers:
+  winter · nobody · Yassir · Simon · terms · three · thirteen; the corrected
+  paragraph ("My parents, my sister Amal and I sometimes go to London in
+  winter. We leave Libya in December and stay in England for five weeks. We
+  always come back for Independence Day. That's in December. This year it
+  was on Wednesday, so we had a long weekend – Wednesday, Thursday and
+  Friday."); the Libya school-year cloze (September · semesters · semesters
+  · two · January · Independence Day · Eid Alfitr (or others) · summer ·
+  twelve); the sorting table (Holidays: Christmas, Eid Alfitr, half-term,
+  Independence Day, weekend · Months: February, January, July, March,
+  October · Weather words: cloudy, rain, snow, sunny, windy · Seasons:
+  autumn, spring, summer, winter · How often?: always, never, often,
+  sometimes, usually). Eid Alfitr: the three uncaptioned pictures are
+  answered — Picture 4 "Even the restaurants are closed. No cafés.
+  Nothing." · Picture 5 Simon's "Isn't that difficult?" / "Don't you eat at
+  all?" · Picture 9 "Then we usually go out and give money or presents to
+  poor people."; teaching points: *How do you do?* is a polite greeting
+  whose reply is, "strangely," *How do you do?*; dawn is when the sun comes
+  up and dusk when it goes down; **"breakfast literally means breaking the
+  fast of the night"**; Allah's spelling in English is pointed out.
+  Workbook Eid answers (a month when Muslims fast from dawn to dusk · a
+  festival · end of Ramadan · give money to poor, visit relatives and
+  friends, give presents) and a model explanation paragraph; the letter
+  answers begin: "Eid Alfitr is a big celebration that happens every year at
+  the end of Ramadan. It lasts for three days. Family and friends eat
+  together after fasting for a month… Last year my two aunts, my uncle and
+  all my cousins came from Benghazi to stay with us for Eid Alfitr." London
+  Eye story answers: 1 snow/white cloud · 2 open interpretations (sad he
+  could not see the view; frightened at the time but happy afterwards;
+  frightened and didn't like it); word pairs (moon–sun, snow–cold,
+  season–autumn, half-term–holiday, 25 degrees–warm); word-tree hidden word
+  **skateboard**; a Workbook-only reading, *Majid's holiday in England*,
+  whose short answers are: Summer · It was cold · August · Four · (Arabic
+  for 'sea') · Three · 32 degrees · September.
+- *U3:* **the participle hunt is settled: 13 past participles on Course Book
+  page 32** — cooked, washed, mixed, watered, tidied, washed, helped,
+  watched, cleaned, swept, painted, finished, talked — the ending is -ed,
+  and the two formed differently are **swept, tidied**. The usage note is
+  given in words: "the present perfect does not say exactly when things
+  happened. We can say the period, for example: I have cooked chicken this
+  week. However we don't give an exact time: I have cooked chicken on
+  Thursday is wrong." Unit 3's project: illustrations of moods and feelings
+  for the scrapbook. Workbook verb tables: regular — cook/clean/paint/talk/
+  mix with past = participle; irregular — see/saw/seen, hear/heard/heard,
+  give/gave/given, do/did/done, forget/forgot/forgotten, go/went/gone,
+  eat/ate/eaten, drink/drank/drunk, buy/bought/bought. Gwen/Len: can is used
+  "for permission – to talk about what Gwen/Len have permission to do" as
+  well as ability, and students must decide which each time; answers: Gwen
+  can go to the shops because she's a good girl · Len can't watch television
+  because he's a lazy boy; elicited facts (Gwen cooked rice and chicken,
+  washed vegetables; mother gives pocket money — "money given to a child to
+  spend as he or she pleases… often a reward for helping"). Feelings:
+  irregular participles sorted by pattern — same written form (read) · add
+  -en (eaten, taken, given, forgotten) · change a vowel in the middle
+  (drunk) · a complete change (gone); **just sits between have/has and the
+  participle**; the wordsearch feelings (across: sad, sick, frightened,
+  happy, excited, great · down: thirsty, upset, angry, tired, hungry);
+  situation answers (Muna feels sick — too much lemonade · Mrs Salman happy
+  — Hamed brought flowers · the teacher angry — Jalal hasn't brought his
+  books · Noora upset — Ahmed has gone out without her). Mad Mack answers:
+  picture 5 Zed is holding a paintbrush and can of paint · picture 7 Zed
+  has painted everything white · **what Zed painted: the window, the shed,
+  the table, the chair, the armchair, the grass and some trees** · Mack
+  "has invented a bicycle with wings and a robot"; *mad* explained (literal
+  insane; common meaning eccentric; "In American English it means angry");
+  stress inVENT/inVENtion. The invention project questions (What is the
+  name of the invention? Who invented it? Are they famous? Did they invent
+  anything else? When did they invent it? What is it for? How has it
+  changed our lives?). **The Hungry Fox is identified as Aesop**: "It is
+  one of a collection of stories written two thousand years ago, by a Greek
+  called Aesop; the collection is known as Aesop's Fables. The stories
+  usually involve animals, but they illustrate human behaviour, often
+  critically." Answers: 1 the fox was hungry · 2 "You sing beautifully" was
+  probably not true — it was a trick; he wanted the bird to fly away and
+  leave the meat ("Discuss flattery with the class") · 3 his trick worked;
+  the notes' stated moral: "you should always tell the truth. If you do,
+  then people will know they can always believe you." Story adverbs found:
+  angrily, politely, well, beautifully, quickly, loudly; completions
+  carefully, easily, quietly, angrily; made adverbs happily, sadly, noisily,
+  badly, nicely. Transport: the notes' Track 26 matches the Course Book
+  transcript pairings exactly; "Students will notice that the car and the
+  motorbike were invented in the same year"; Workbook invention matching
+  (1 train e · 2 car c/d · 3 plane b · 4 motorbike c/d · 5 bicycle a) and
+  present-perfect-continuous sentences (riding trains since 1804 · driving
+  cars for more than 130 years · flying in planes since 1903 · riding
+  motorbikes since 1885 · riding bicycles for more than 200 years), with
+  **for a period of time / since a particular time** as the teaching point;
+  the word web (By land — car/train/bicycle/bus/motorbike · By air —
+  plane/helicopter/hot air balloon/space rocket · By sea — boat/ship/
+  ferry/hovercraft/jet ski/speed boat). The shepherd: picture order **7 2 3
+  / 1 6 4 / 5**; the notes teach the idiom — "the English phrase *to cry
+  wolf* comes from this story… when the warning is real, nobody believes
+  you" — and state "The real message of the story is 'Do not tell a lie.'";
+  note-taking answers (Bored · No · Eating happily · Four · No · A wolf ·
+  Didn't believe shepherd · All sheep dead); the Workbook cloze key (21
+  items: shepherd, bored, I've done, idea, has eaten my sheep, ran to the
+  field, wolf, happily, loudly, funny, angrily, four, fifth, quickly, seen
+  a wolf, don't believe you, didn't go to the field, to the field, sheep,
+  were dead, sadly); **a full model story printed only here** for the
+  write-your-own-story task — a princess who drops her gold necklace in the
+  river, lies that the maid was looking after it, the maid is sent away,
+  the necklace is found hooked over a sheep's ear, the king gives the maid
+  her job back, the queen says "But you must fix your friendship by
+  yourself," and the princess apologises and gives the maid the necklace
+  ("Here, take my necklace"). Khalid and the Key answers: 1 because Khalid
+  lost their car key · 2 the car key; participle completions (eaten, given,
+  gone, seen, taken, drunk); adverb formations (fast, easily, well,
+  carefully, politely, happily, angrily); word-order answers incl. "Noora
+  has gone to America on an aeroplane."
+- *U4:* Lazy Len possible sentences (Len sang badly · laughed noisily ·
+  played music loudly · walked upstairs quietly · washed his face carefully
+  · ate breakfast quickly · walked to school slowly · spoke to the teacher
+  politely) and picture order 5 6 7 1 2 8 4 3; the word-chains example runs
+  breakfast → morning → alarm → fire → hot → summer → holiday → sea → fish
+  → chips; adverb-position answers (Gwen always does her homework well ·
+  She usually walks to school quickly · She is never noisy · She often
+  sings beautifully · She sometimes speaks to Len angrily / Sometimes she
+  speaks to Len angrily · She always does the washing-up carefully);
+  category table (Weather: cloudy, forecast, rain, snow, windy · School:
+  half-term, holiday, homework, semester, term · The calendar: autumn,
+  January, month, Ramadan, September · Animals: crocodile, fox, ox, sheep,
+  wolf). Khalid's Birthday Present key **1b 2d 3a 4f 5e 6c**; punctuation
+  teaching ("There is no exclamation mark at the end of the last sentence
+  because it is a request (Please …), not an order"); Ahmed's expressions
+  placed (Hang on! · How do you do? · That's a good idea · That's very kind
+  of you · Never mind). The Monkey in the Café word answers with clues:
+  popular — liked a lot ("A lot of people go there every day") · freezing —
+  very cold ("I had to buy more clothes to keep warm") · artist — painter
+  of pictures ("He painted many pictures …") · luckily — with luck,
+  fortunately ("… before I started to cross …"); *freezes* vs the adjective
+  *freezing* and *pop(ular) music* are pointed out. Len's story completions
+  are given in full, and with them **the notes' five-way tense summary**:
+  "The past simple is for a completed action at a stated time in the past.
+  The past continuous is for an action that continued in the past. The
+  future tense is to make an offer and for forecasting. The present perfect
+  is for an action in the recent past at an unstated time. The present
+  continuous is for future plans and intentions." Fawzi's story questions
+  key **1c 2c 3b 4a 5c 6a 7b 8c**; the improved story's added detail is
+  underlined in the notes — it opens "One day last summer I was in the
+  desert with my friend, **Youssef**. We were looking for animals. The sun
+  was very strong and it was very hot. It was over 40 degrees. We were both
+  tired, so we were walking slowly. We were also very thirsty and we had to
+  find something to drink. At last we found some water, but it was brown
+  and horrible. We could not drink it. Suddenly we saw a snake near the
+  water. It was black and brown and about half a metre long." — and the
+  class finishes the story from board questions (What did the snake do?
+  What did Youssef do? Did it hurt? How did Fawzi call the police? How long
+  did they have to wait? How did the doctor arrive? … How is Youssef now?).
+- *U5:* picture countries key **1 Japan · 2 Oman · 3 France · 4 India**;
+  pronunciation note "France rhymes with dance" and the stress pattern of
+  the other names; **the article rule**: "most countries do not have a
+  definite article before their name. Country names that are, in fact, a
+  description of the country, do have the definite article, for example, the
+  United States of America"; country names "are marked as non-testable."
+  Big Bill: question 1's answer is France (the apples); questions 2–3 —
+  Bill is probably dreaming about going to England and Oman; the perfect/
+  past contrast stated: "The present perfect is used to ask about Big
+  Bill's experiences at any time in the past; the past simple is used to
+  describe an action at a stated time, i.e., last year"; completed
+  conversations (Fawzi: "Bill, have you ever been to England?" — "Yes, I
+  have. I went there last year." — "What did you do there?" — "I went to a
+  museum." · Sarah: "…been to Oman?" — "Yes, I have. I went there last
+  month." — "I went to a fort."); comes-from answers (oranges from Lebanon,
+  apples from France, tea from India) with the third-person -s highlighted
+  ("The tea comes from India"); preposition-final questions written out
+  (Who are the messages from? · Who was Khalid with? · Where do zebras come
+  from? · What did Mrs Jaber look at? · What is France famous for? · **Who
+  did Uncle Rashid wait for?** · What do Fawzi and Sarah want to learn
+  about?) — see Differences: the notes say Rashid where the Course Book
+  says Waleed. Song word groups (Countries — England/France/Australia/
+  America/India/Oman/Spain/Wales · Continents — Africa · Transport —
+  rocket/boat/plane · Places to go — mountains/lake/sea/beach/farm).
+  Four Countries: photo answers (India: farmers, a tiger · Oman: fish,
+  fishermen, a fort · Japan: a farm/rice field, a car/car factory · France:
+  a cathedral/church/old building, the Eiffel Tower); each text has **two
+  paragraphs** — the first about the country, the second about what visitors
+  can do; question answers: 1 India · 2 rice, tea, cotton and many other
+  things · 3 jewellery · 5 Japan · 6 old temples and beautiful gardens · 7
+  its shops and restaurants; the scanning tables (India — big, huge, grows
+  rice/tea/cotton, makes cars/buses/clothes · Oman — not very big, quite
+  small, grows fruit/vegetables, makes oil/jewellery · Japan — not very
+  big, large, grows rice/vegetables, makes cars/computers/things for the
+  home · France — big, quite small, grows fruit/vegetables, makes cars/
+  planes); model sentences ("India is a big country and it has a huge
+  population. Oman is a small country with quite a small population. Japan
+  is not very big, but it has a big population. France is a big country,
+  but the population is quite small."); Adel would like to visit **India**,
+  Noora **France**; superlative examples (The most interesting building in
+  Libya is the Gurgi Mosque · The most important industry in Libya is the
+  oil industry); the famous-people game uses falling intonation on the
+  Wh- question ("Where does (name) come from?"). Indonesia: **picture order
+  1F 2C 3H 4D 5B 6E 7A 8G**; warm-up answers (rubber → shoes, boats and
+  balls · temples also in Japan · Picture C a beach · Picture E a mosque ·
+  a thousand islands · volcanoes also in Africa, Italy, America · the bird
+  is yellow, black, red and white); the completed description (huge, large,
+  warm, wet, agriculture, coffee, tea, sugar, rice, pepper, oil, gas).
+  Countries of the World: odd-words-out answers (north/south/east/west ·
+  top/centre/right/left · mountains/rivers/islands/lakes · towns/cities/
+  villages); the eight compass points are added (northeast, southeast,
+  southwest, northwest — "a combination of two of the compass points") and
+  practised with a floor compass; **the map key: left to right, top to
+  bottom — Mexico, Italy, Libya, South Africa, China, Australia**;
+  paragraph key **A Australia · B Italy · C South Africa · D Libya ·
+  E China · F Mexico** (settling the filing above); the Workbook
+  true/false corrections (China is a very large country · in the northeast
+  of the country · near the coast · There are many high mountains in the
+  centre and the southwest · They are called the Himalayas · They flow
+  from the Himalayas to the coast in the east · The Yangtze is south of the
+  Yellow River) and matching key 1f 2b 3d 4a 5c 6e. **Comparative spelling
+  rules stated in the notes**: adjectives ending with two consonants add
+  -er/-est · ending with a vowel and a consonant double the last letter and
+  add -er/-est · ending with e add -r/-st · ending with y change y to i and
+  add -er/-est; the full table (cold/warm/small, big/hot/wet, large/nice,
+  dry/sunny/rainy). Different Countries map answers: 1 Italy · 2 Mexico ·
+  3 bottom right · 4 bottom left; capital-letter counting (text 1: 5
+  sentences, 10 capitals · text 2: 7 sentences, 12 capitals · text 3: 9
+  sentences, 14 capitals — two uses: sentence starts and names); map-match
+  answers 1 Mexico · 2 South Africa · 3 Italy. Moon Rocket answers: 1 over
+  two hours · 2 she described it as 'fun' · 3 her favourite programme;
+  odd-one-out with reasons (India — it is in Asia, the others are in
+  Europe · oil — it does not grow · rubber — it is not a form of transport
+  · volcano — the others are buildings); the participle word tree's hidden
+  country is **Pakistan** (swept, eaten, taken, ridden, lost, written,
+  heard, seen); alphabetical order (Canada, China, France, Libya, Russia,
+  Saudi Arabia, Scotland, Spain, UAE, USA, Yemen); reordered questions
+  (What are you thinking about? · Where do lions and elephants come from? ·
+  How many restaurants have you eaten in?); adjective forms (more
+  important, most beautiful; sad/sadder/saddest, happy/happier/happiest,
+  excited/more excited/most excited); matching key 1d 2g 3f 4c 5a 6h 7e
+  8b. Round up models: "Where do bananas come from? (From South America.) ·
+  Where does my Course Book come from? (From England.)"
+- *U6:* Yuki's email answers: Fawzi got the pen-friend from the magazine
+  advert; details — **Yuki Ono, 13, Japanese, Soma; hobbies fishing and
+  collecting stamps**; Japan not very big, many mountains, rivers and
+  lakes, very green, rainy, very cold in winter with snow; paragraph
+  topics: 1 Yuki and his house · 2 what Japan is like · 3 things to do in
+  Japan (visit Disneyland, go to a baseball match or learn to do judo,
+  visit lovely gardens, go to see a traditional Japanese play); the email's
+  link-word sentences are listed (and · but · because · For example · as
+  well as); **nationality endings table**: -i (Omani, Yemeni, Pakistani,
+  Qatari) · -ian/-an/-n (Libyan, Italian, Tunisian, American) · -ish
+  (English, Spanish, Irish, Turkish) · -ese (Japanese, Chinese, Sudanese,
+  Portuguese) · irregular (Dutch, French, Greek, Welsh) — "there are
+  different ways of forming the nationalities in English, but there are no
+  fixed rules." **A model reply email printed only here** — from Fawzi
+  Tahir, 13th April: "I am a Libyan boy and I am thirteen years old. I live
+  in a big city called Tripoli. My house is near a park and a university.
+  My favourite hobbies are playing football and listening to music. Libya
+  is very large and is next to the Mediterranean Sea. It doesn't rain much
+  here, so lots of people live by the sea. Libya is very hot and the
+  hottest month is July. The temperature can get to 40 degrees celsius!
+  Libya is mostly a desert, but there are some oases, which are areas of
+  the desert where you can find water… visit historical places like Leptis
+  Magna or the archaeological museum. You can go to the beach and swim in
+  the sea, explore the desert or listen to some traditional music." Staying
+  Safe Online: the teacher is told to set up the class group (Facebook or
+  "other, preferred online platform, such as Edmodo") **in advance**, with
+  a new profile specifically for the project; Workbook answers (You should
+  not speak to strangers · Never share personal information with people you
+  don't know) and model rules (never add people you don't know · never
+  share your address or private email online · only post photos you are
+  happy for everyone to see). Tracks 35–36 answers and scripts match the
+  Course Book transcripts; the final Track 36 question is **not answered in
+  the conversation** — students must remember from Course Book page 64 that
+  Japan is rainy in summer and very cold in winter, and it depends when
+  Fawzi is going. Find-Yuki definitions: recognize, parents, kimono;
+  **future continuous formed as "Use will + be + verb with ing"** and
+  explained as "the future version of the Present continuous tense" with a
+  three-line board example (Yesterday I was wearing a blue shirt. Today I
+  am wearing a white shirt. Tomorrow I will be wearing a green shirt.);
+  Yuki wears blue trousers and red trainers in the picture; model
+  self-description ("I will be wearing a red T-shirt and long, black
+  jeans… My mother will be at the airport with me. She will be wearing a
+  long, blue summer dress with yellow flowers on it."). Introductions:
+  order — Fawzi meets Yuki first, then Yuki introduces him to his father,
+  then his mother; Track 37 matches the Course Book transcript; family
+  answers (Yuki's uncle · brother · sister · Mr Mitsubishi /mɪtsuˈbɪʃi/ ·
+  Reiko /ˈreɪkəʊ/); **Fawzi noticed three strange things** (Mr Ono drove on
+  the left · some people wearing traditional Japanese clothes, for example
+  kimonos · the shop signs were in Japanese); picture labels (Mr
+  Mitsubishi, Reiko, Giro, Mr Ono, Mrs Ono, Yuki); family comparisons
+  (Yuki is younger than Giro, but older than Reiko · Mrs Ono is shorter and
+  plumper than Mr Ono · Mr Mitsubishi is bigger than Mr Ono · Reiko is the
+  smallest person in the family and Mr Mitsubishi is the tallest). Meal
+  conversation answers (1 People kneel on the floor when they eat ✓ Japan ·
+  2 People sometimes sit on the floor when they eat ✓ Libya · 3 People
+  always cook fish ✓ Libya · 4 People always cook meat ✓ Japan and ✓ Libya
+  · 5 People sometimes eat with knives, forks and spoons ✓ Libya);
+  Japan completions (always, never, always, never, sometimes, always);
+  model comparisons ("In Japan people always kneel on the floor, but in
+  Libya we sometimes sit on the floor/never kneel on the floor. In Japan
+  people always eat with chopsticks, but in Libya we usually eat with
+  knives, forks and spoons. In Japan people sometimes eat raw fish, but in
+  Libya we always cook fish."). Fawzi's email: he feels very positive;
+  feeling words (wonderful, fantastic, interesting, delicious, good);
+  note-form likes — Disneyland best, Japanese food next best, the
+  traditional Japanese play next best; the attached photo is **the Eiffel
+  Tower, Paris, France**; Track 39 answers (Course Book questions): 1
+  France · 2 Libya; the Workbook's three note questions: 1 The Eiffel
+  Tower and the Louvre · 2 Different, but nice (French food) · 3 Clothes
+  and a CD; **a
+  model postcard printed only here** (Mona to Kate, from Sabratha: "Libya
+  is a really interesting place! We arrived on Saturday and have been
+  staying near the ruins of Sabratha in the north-west of Libya. I've been
+  travelling with my parents. Our hotel is beautiful. You can see the ocean
+  through our windows. I've visited the Sabratha ruins twice now. On the
+  first day we saw the buildings near the coast and the Byzantine wall. On
+  the second day we walked around the villas and other buildings. I've
+  visited Tripoli and bought you a present. I've tried the local food and
+  coffee. I really like shakshouka now. It's very tasty!"). Laws: **"In
+  Libya, you can leave school, vote and drive a car at 18"** (the notes'
+  answer for the Libya column); poster answers (16: leave school, ride a
+  moped and buy a pet · 18: vote · 21: fly a helicopter); at 13 in the UK
+  "you can get a part-time job or do light work. For example, many children
+  deliver newspapers or work on a farm"; comparison model ("In Libya at
+  age 13 we can't drive a car but in the UK they can get a part-time
+  job"); preposition completions (at 13 · work before seven in the morning
+  or after seven in the evening · from Monday to Friday); the UK/USA table
+  (work on a farm 13/? · work in a shop 14/14 · drive a car 17/16 · be a
+  babysitter ?/13 · be an actor ?/13 · vote 18/18 · marry 18/18 · leave
+  school 17/? — "Answer not given in the texts") and the comparison note
+  (voting and working in a shop the same; driving different). Wolf story:
+  possible answers (they crashed their plane in the forest; nobody badly
+  hurt but they were lost · an 'emergency landing' defined); word pairs
+  (photographs–camera, plane–airport, advertise–magazine, boat–lake,
+  holiday–postcard, sit–kneel); word tree answers (cold, three, town,
+  April, ask, stop, fish, school, OK, sun) with hidden word **chopsticks**
+  ("tell you in which country these are used (answer: Japan)").
+- *U7:* instruction matching key **A3 B5 C6 D1 E2 F4**; the Workbook's
+  imperative box teaches that an imperative tells someone to do or not do
+  something and can be an instruction, an order or a warning, with possible
+  answers classified (Give me your Workbook! — order · Keep milk in the
+  fridge — instruction · Never drink sea water! — warning · Don't do your
+  homework in class — order); condition matching (1b 2e 3a 4c 5d).
+  Warnings to children key **a1 b3 c6 d2 e5 f4**; **reflexives are taught
+  with a mirror** passed round the class ("Who can you see? — I can see
+  myself"), building two board lists (myself/yourself/himself/herself ·
+  ourselves/yourselves/themselves); the them/themselves contrast is taught
+  from "Glass can cut them" vs "They can cut themselves" (in the first the
+  children are subject and object; in the second only the object);
+  danger answers (Glass can cut them · Matches can burn them · Medicine
+  can make them sick · Plastic bags can kill them · Knives and scissors
+  can cut them · Pools can drown them). Posters: glosses (street — a main
+  road through city, town or village · out of the reach of — not able to be
+  touched (e.g., by children) · let — allow · plastic — non-natural
+  material); the Why?/Why not? pattern (with Never → Why not?, with Always
+  → Why?); completed conversations (Never let children play with matches —
+  They'll burn themselves · Always keep medicine out of the reach of
+  children — They'll make themselves sick · Always keep knives away from
+  children — They'll cut themselves · Never let children play in the
+  kitchen — They'll hurt themselves · Never let children play in pools
+  alone — They'll drown themselves · Always keep plastic bags out of the
+  reach of children — They'll kill themselves). Going Fishing: Mazin's
+  shop is near the sea in Tobruk, sells everything needed to go fishing and
+  also hires things; conditional sentences are used in discussion "without
+  explaining it" first (You can use a compass to show the direction · You
+  can use it if you are lost · You can row a boat or you can use the motor
+  · If you are tired, you will use a motor!); answers — hire a boat, a
+  compass, nothing (to pay); **the rule's missing words are *present* and
+  *will***; the comma rule: "when we write the result clause first, there
+  is no comma"; Workbook sentences (If the boat sinks, we'll swim · If we
+  get lost, we'll use a compass · If the motor stops, we'll row · If you
+  take me, I'll give you everything free) and question answers (No, they
+  don't want to buy one — they want to hire one · the boat can sink / they
+  can get lost / the motor can stop · life jackets, a compass and oars ·
+  nothing). Danger! key **1e 2c 3g 4a 5f 6b 7d**; Track 42 matches the
+  Course Book transcript; conditional completions (If I get hungry, I will
+  cook a meal · If you go to bed late, you will be tired · My mother will
+  take a message if I am out · If we don't hurry, we will be late · I will
+  ask Raed to come to the party if he phones me tonight); the football
+  conversation completions (will · wet · lost · ask · lend · too · want ·
+  do). Road Safety: **zebra crossing "is called that because it has black
+  and white stripes, like a zebra"**; glosses (cyclist — person riding a
+  bicycle · handlebars — bar the cyclist holds while riding a bicycle ·
+  zebra crossing — black and white striped road crossing · pavement — safe
+  area for walking next to road · seatbelt — safety belt for passengers in
+  a car, bus or aeroplane); **Picture 1 is the cyclists' paragraph** (ride
+  on the left, hold the handlebars, one boy on the bike); **Picture 2 has
+  three things wrong** (the man is driving too fast · he is not wearing
+  his seat belt · a child is standing in the car) and **Picture 3 has four
+  things wrong** (the woman is not holding the child's hand · two boys are
+  playing football on the pavement · the man is not using the zebra
+  crossing · the girl is running across the road); one main difference
+  between Libya and England: "in England they drive on the left."
+  Stay Safe: rules key **1c 2e 3a 4f 5b 6d**; correct-advice key **2 and 3**;
+  model conversations about "Rashid" (hurt himself with a knife cutting
+  meat in the kitchen; burned himself taking a bath with water too hot —
+  "They kept him in hospital overnight"); warnings keyed to the Course
+  Book's ten warnings (number list 1–2, 2–1, 3–3, 4–1, 5–3, 6–1, 7–2, 8–3,
+  9–2, 10–3); model paragraphs for the street pictures; synonym answers
+  (matches, alone, oars, medicine, seat belt, compass); self-forms
+  (ourselves, myself, herself, yourself); Never/Always completions (Never ·
+  Always · Always · Never); Track 43 completions (very fast · carefully ·
+  an accident · seat belt · wrong · zebra crossing · on the pavement ·
+  lunch) — the script matches the Course Book transcript. Danger at Sea
+  answers: 1 the wind got stronger and the waves got bigger · 2 it is never
+  safe to not wear a life jacket on a boat · 3 a coastguard helicopter ·
+  4 Tom had phoned the coastguards on his mobile phone and had told them
+  where they were going; tick-the-word answers (flour, saw, write, oars,
+  seen); conditional pairs (is–will stay · won't be–don't leave · will
+  buy–gets · is–will not be · play–will have · will take–want); the
+  Workbook accident reading's short answers (Yesterday evening · On the
+  pavement · Four · Into the road · No · A car · Careful · He was driving
+  slowly · Worried · No).
+- *U8:* the intonation audio is headed "🎧 46" in the notes' instructions
+  but printed as **"Track 45"** (the Course Book numbers these Tracks 46
+  and 47 — see Differences); opposites (modern, plump/fat, cooked, warm)
+  and definition answers (magazine, handlebars, life jacket, oars, suit,
+  medicine); reordered questions (Have you ever ridden a camel? · Where do
+  the apes live? · What do they make in Japan? · Why hasn't Jamil answered
+  my letter? · Which country is hotter in summer, India or Italy?);
+  Khalid's questions reconstructed (Are you going to New York this year? ·
+  How long will you be there? · Have you ever been to India?). **The
+  scanning race answers settle the webpage children: Rona — girl, 11,
+  Canada · Josh — boy, 13, United States · Hans — boy, 13, Germany ·
+  Nasreen — girl, 14, India**; follow-up answers (1 Rona · 2 Nasreen · 3
+  she wants a girl penfriend · 4 he wants to drive a car · 5 five · 6 a
+  computer · 7 b); a model pen-friend advert printed here (Rob, fourteen,
+  of York: "I have two brothers, both older than me… I like golf and
+  football best, but I'm not very good at them!… Send me an email and say
+  hello!"). Our World Today: prediction answers (Food: it is bad to eat too
+  many burgers · Cars: are big, fast cars a good thing? · TV: we watch too
+  much TV · Mobile phones: young people (do not) need mobile phones); the
+  good/bad points table (Food — good: food from all over the world; bad:
+  some food not safe · Transport — good: travel all over by car and plane;
+  bad: accidents, cars make us lazy · Information on TV/internet — good:
+  children learn a lot; bad: many programmes not good for children ·
+  Mobile phones — good: phone anyone from anywhere; bad: dangerous for
+  children); agreement language modelled ("I agree with that (point). I
+  don't agree with that (point). I agree with him/her. I don't agree with
+  him/her."); Track 48 matches the Course Book transcript. **John's story
+  picture order: 3 7 / 1 10 5 / 2 9 4 / 8 6** (as printed, two columns);
+  Track 49 matches the Course Book transcript, its verbs italicised for the
+  Workbook cloze. A Different Kind of Holiday: opening answers (scared, in
+  pain, confused · myself · huge, lovely · faster · every bit of me hurts)
+  and the clue for "Is he dead?" — "(He can't be dead because he wrote the
+  story.)"; **the rest-of-the-story answers: 1 In hospital · 2 The nurse
+  smiled kindly (so he felt relaxed) · 3 Go home · 4 A week · 5 A friend
+  drove him**; **a full model story printed only here** (Bob, who rides a
+  motorbike to work wearing a safety helmet, brakes for a white dog,
+  falls, is unhurt, and arrives to his boss asking "Have you seen my
+  dog?").
+
+**Differences between the Teacher's Book and the Course Book, as printed.**
+The Teacher's Book was evidently set from an earlier draft of the audio
+scripts: its scripts repeatedly use the name **Rashid** where the Course
+Book prints **Waleed**. (1) Track 1: the teacher notes print "Yes, I went
+to a village **by the river**" and add "And I went fishing. It was great!";
+the Course Book transcript prints "a village **by the sea**" with no
+fishing line. (2) Track 3: the teacher notes' pilot is **Rashid** ("I'm
+Rashid. I want to be a pilot… Scrapbook 4 is mine"), Adel says "Some day, I
+want to go to **Africa**," and the printed check answers read "Number 4 is
+**Adam's**"; the Course Book transcript names the pilot **Waleed**, has
+Adel wanting to go to **Kenya**, and checks "Number 4 is **Waleed's**."
+(3) Track 28 (Khalid and the Key): the uncle is **Uncle Rashid** throughout
+the teacher notes — story script, answers and the Story-time model answer —
+where the Course Book story and transcript say **Uncle Waleed**. (4) The
+Workbook question list in the U5 L2 notes asks "Who did **Uncle Rashid**
+wait for?" where the Course Book's Big Bill frame names **Uncle Waleed**.
+(5) Track numbering: the U8 L1 notes head the exercise "🎧 46" but print
+the script as "Track 45"; the Course Book prints these as Tracks 46 and
+47. (6) Inside the U1 L5 notes the check step is headed "🎧 6" and the
+practise step then says "Play 🎧 7" for the same conversation (the Course
+Book's Tracks 6 and 7 respectively — the notes' first heading is the slip).
+(7) The notes call the Course Book's grammar boxes "Language tip boxes"
+throughout, where the Course Book itself brands them **Functional
+Grammar**. Otherwise the two books agree: every other reprinted script
+(Tracks 2, 10–27, 29–44, 46/47, 48, 49 as numbered in the Course Book)
+matches the Course Book's Transcripts in substance, and the imprint years
+differ by design (Teacher's Book © 2018, Course Book © 2019).
+
+**Libya Grade 8 Teacher Book — READ COMPLETE 2026-10-25.** Basics filed
+above; acceptance counts unchanged — same country, the teacher's layer of
+the same spiral. Next per the queue inside this grade: the **Work Book**
+(98 pp), the last of the grade-08 record's three books.
