@@ -26,6 +26,17 @@ liqlearns-courses/
                                    book unit happened to teach. Several things
                                    in one book unit split into several
                                    subtitle folders, each with its own lesson.
+                                   One thing can still be BIG inside itself:
+                                   pronouns alone carry he (a man) / she (a
+                                   woman) / I / you / it / we / they and their
+                                   other forms, with many explanations and
+                                   questions — all of that depth stays inside
+                                   the pronouns lesson. The split test: a part
+                                   INSIDE the thing stays; a different thing
+                                   BESIDE it (noun next to pronoun) gets its
+                                   own folder, even if a book teaches them
+                                   together. Related lessons point at each
+                                   other; they do not merge.
         lesson/                  ← the lesson itself: the teaching text
           lesson.md
           sources.md             ← which books, from which countries, this
