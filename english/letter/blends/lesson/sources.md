@@ -51,3 +51,15 @@ as recorded there.) Same country, deeper layer.
   joining two or more sounds together to read a word:
   fr — frown, fruit · dr — drum, draw · pl — plane, plant.
 Same country, deeper layer — the country count does not change.
+
+## Egypt — English Primary 5 Term 1 (2026/2027) — added 2026-10-25
+
+- **Consonant clusters — the general statement** (U1 L3
+  Pronunciation, p.16): a consonant cluster is a sequence of
+  two or more consonant sounds without vowels between them
+  (str- in strong, bl- in black), and clusters can appear at
+  the BEGINNING, MIDDLE, or END of words (examples: tree,
+  branches, crocodiles, spring). This is the definition the
+  Primary 4 blend lessons were building toward — P4 taught
+  blends set by set (start blends, then end blends kept
+  apart); P5 names the whole family in one rule.

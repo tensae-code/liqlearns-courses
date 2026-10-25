@@ -185,3 +185,31 @@ the blog frame restated with six labeled parts; the postcard
 modeled whole; and the fullest story-elements set yet — six
 parts (Title, Setting, Characters, Plot/Problem, Solution,
 Moral) taught on an original whole story, "The Lost Kite."
+
+**Stocked by Egypt Primary 5 Term 1 (read 2026-10-25) —
+Term 2 and Term 3 material:** a/an/some/any completes the
+article-and-quantifier set (a/an by SOUND, some in yes-
+sentences, any in no-sentences and questions); prepositions
+of time get their own three-way split (at / in / on by what
+kind of time you name); prefixes grow to dis-/bi-/mis-.
+The past simple is now COMPLETE as a system: regular and
+irregular forms, didn't-negatives, the was/were split for
+negatives AND questions, and Wh- question forms — Term 3's
+past-tense lessons can be built whole from P4 T2 + P5 T1.
+Adverbs of frequency arrive with a percentage ladder and a
+position rule — new Term 3 stock. Comparatives are finished
+too: the long-adjective more/less rule and the irregular
+table (better/worse/less/more) print here first.
+
+**Stocked by Egypt Primary 5 Term 1 — Term 4 material:**
+the plot arc is now FIVE parts — Climax (the most exciting
+part) joins Beginning / Problem / Middle / Ending; fiction
+is defined in print as a made-up story; two more named
+writing kinds with frames: the first-person narrative (I /
+me / my, setting, goal, five-senses description, ending) and
+the object-perspective narrative (a thing speaks as "I");
+the recipe joins the writing kinds (ingredients + sequence
+words). A second adapted-literature unit (The Talking
+Earth, after P4's Hundred Dresses) confirms the pattern:
+one whole real story per year from Primary 4 up, with a
+rewrite-it-from-the-hero's-side task.

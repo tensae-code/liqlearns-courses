@@ -77,3 +77,16 @@ Same country, deeper layer — the country count does not change.
   a word (lamb, thumb, comb, climb); the letter w is not
   pronounced when it comes before r at the beginning of a word
   (write, wrong, wrist, wrap).
+
+## Egypt — English Primary 5 Term 1 (2026/2027) — added 2026-10-25
+
+- **Vowel digraphs** (U3 L3 Pronunciation, p.51): two vowels
+  together make just ONE sound — ea in "leap" says the long
+  e; oo in "flood" says a short u; oa in "boat" says the long
+  o. (The book spells it "diagraph" once in an exercise
+  heading, as printed.)
+- **Trigraphs** (U4 L3 Pronunciation, p.69): a group of THREE
+  letters that represents a single sound — dge says "j"
+  (bridge is pronounced "brij"), tch says "ch" (match →
+  "mach"), igh says "i" (right → "rite"). The letter-group
+  line grows: digraph (two letters) → trigraph (three).

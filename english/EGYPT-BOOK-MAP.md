@@ -3810,3 +3810,174 @@ PRIMARY 4 TERM 2 FULLY READ — 2026-10-25
 
 Still owed: Primary 5–6, Preparatory 7–9, Secondary 10–12
 (the remaining 16 of the 26-book Egypt English set).
+
+---
+
+## Egypt — English Primary 5 Term 1 (read 2026-10-25)
+
+Source: the ministry e-learning host's 2026_2027 path — the
+NEWEST of two live copies (the 2026-path copy is dated a year
+older; the edition rule took the newer). Working file
+`English_language_prim5_t1.pdf`, 18,757,051 bytes, ends %%EOF,
+113 pages, and — a first since Primary 2 Term 2 — a REAL text
+layer, so the book was read from its text with the rendered
+pages as check. Printed folio = PDF page throughout.
+
+Identity: ministry dedication (p.2); ministry message (p.6)
+names the "Primary 5 Framework for Egyptian Learners." Back
+page (p.112): developed/revised/supervised by the same team
+(Profs. El-Naggar, El-Sayed, Younis; Dr. Mai Kamal; Ms. Amira
+Awaad; CACD names; Dr. Akram Hassan Mohammed); Selah El
+Telmeez; ISBN 978-633-8475-01-7; deposit no. 2026/8933; book
+code 10/5/11/1/26/79; Arabic print spec says 116 pages (the
+PDF holds 113); printing 2026–2027.
+
+Shape: Scope and Sequence pp.3–5. Six units in the same
+five-lesson rhythm, **but the self-assessments change shape
+again**: back to the per-unit "Now I can…" list with the
+three-face scale (I got it / I'm not sure / I need help), and
+U1's even names the sounds and example sentences to be
+checked. Review 1 after U3 (pp.57–60), Review 2 after U6
+(pp.106–108); Glossary pp.109–111 BY CATEGORY — and its
+categories now include Literature and Writing Types, defining
+the book's own frames (plot, climax, fiction, non-fiction,
+first-person and object-perspective narrative, story summary).
+Unit spans: U1 Food, Nature, and Culture pp.7–24 · U2 My
+Healthy Body pp.25–40 · U3 When Nature Changes pp.41–56 ·
+U4 My Community pp.61–76 · U5 Our World, Our Resources
+pp.77–91 · U6 The Talking Earth pp.92–105 (a literature unit).
+
+GRAMMAR SPINE (boxes, book order):
+1. **Adverbs of frequency** (U1, p.12) — how often something
+   happens, taught as a PERCENTAGE LADDER: always 100%,
+   usually 90%, often 70%, sometimes 50%, rarely 20%, never
+   0%; position rule: before the main verb, after the verb
+   "to be." First frequency teaching in the Egypt run.
+2. **a / an / some / any** (U2, p.30) — a before a consonant
+   SOUND, an before a vowel sound (singular countable nouns);
+   some with plural countable or uncountable nouns in
+   affirmative sentences; any with the same in negative
+   sentences and questions. Completes the line that ran
+   P3 countable/uncountable → P4 the container expressions.
+3. **Past simple, the complete system** (U3, p.47) — finished
+   actions or events; negatives didn't + infinitive, BUT with
+   "to be" the not goes after was/were; questions Did …? and
+   Wh-word + did …?, and with "to be" Was/Were …? and Wh-word
+   + was/were …? — the P4 past box plus the to-be split and
+   the Wh- forms, all stated in print.
+4. **Prepositions of time** (U4, p.67) — at with clock times,
+   mealtimes, and set phrases (at night); in with parts of the
+   day, months, seasons, years; on with days and dates. (The
+   place-preposition line stays where P4 left it; time gets
+   its own box here.)
+5. **Comparative adjectives completed** (U5, p.83) — P4's
+   rules restated (short + -er + than; -y → -i + -er) and two
+   things printed for the first time: long adjectives take
+   "more / less" before the adjective + than, and an
+   IRREGULAR table: good → better, bad → worse, little →
+   less, many/much → more.
+6. **Prefixes grow** (U5): dis- returns, joined by bi- and
+   mis-, worked as pronunciation (the stressed syllable in
+   prefixed words) per the Scope and the unit self-assessment.
+
+PHONICS SPINE: **consonant clusters** (U1, p.16) — two or
+more consonant sounds with no vowel between them, at the
+beginning, middle, or end of a word (str-, bl-; tree,
+branches, crocodiles, spring) — the general statement of
+what P4 taught as blends. **The syllable** (U2, p.33) — a
+word part with ONE vowel sound (letters don't decide it:
+bread and pot are both one syllable), with a clap-it-out tip.
+**Vowel digraphs** (U3, p.51) — two vowels together making
+just one sound (ea in leap = long e; oo in flood = short u;
+oa in boat = long o). **Trigraphs** (U4, p.69) — three
+letters, one sound: dge says "j" (bridge), tch says "ch"
+(match), igh says "i" (right).
+
+UNITS, briefly: U1 — Nile life (what each river animal eats;
+protect the river), desert animals, a Koshari recipe as the
+writing model (ingredients list + sequence words: first,
+then, next, after that, finally), and the restaurant flyer
+project (the P4 leaflet parts restated: main heading,
+sub-heading, image, menu, call to action). U2 — a sports-and-
+health dialog (fit, mental health, stressed, lungs, muscles),
+a then-and-now habits text (an early, unnamed taste of used
+to), an informational heart-and-blood text (the heart is
+about the size of your fist; vessels carry oxygen and take
+away waste), healthcare workers as everyday heroes, a
+healthy-habits poster (its elements stated: clear title,
+organized steps, photos or drawings). U3 — extreme weather
+words with printed definitions (thunderstorm, sandstorm,
+flood, drought, wildfire, heat wave), a flood/drought/wildfire
+news dialog, an ancient-Egypt weather text (canals and
+basins, irrigation, mud-brick houses, the Khamsin), a fiction
+writing lesson (model: a girl whispers upside-down clouds
+right side up), collage project. U4 — community places,
+village life vs the New Administrative Capital (Iconic Tower
+facts: 385 m, 80 floors), a surprise full MATH lesson inside
+English (two-digit × one-digit multiplication set out in
+words: ones first, then tens), narrative writing. U5 —
+Egypt's natural resources, a metals-and-minerals text
+(non-renewable stated plainly: millions of years to form),
+conservation talk, a "My Gold" poster (what is valuable in
+your life). U6 — the literature unit (below).
+
+WRITING SPINE: the **recipe** joins the writing kinds (U1) —
+ingredients list first, then steps carried by sequence words,
+with a writer's checklist. The **non-fiction tip returns**
+(U2, p.36), restating P4's checks (is it true? did I make
+anything up? is my source reliable?) with the frame Title /
+Introduction / Body / Conclusion. **Fiction is defined**
+(U3, p.52): a made-up story from the imagination, not based
+on real things — and the **plot arc gains its fifth part**:
+Beginning (meet the characters and setting) → Problem →
+Middle (the character tries to fix it) → **Climax — the most
+exciting part** → Ending (the problem is solved). The
+**first-person narrative** gets its frame (U4, p.71): use I /
+me / my; setting; a goal; description through the five senses
+and adjectives; an ending — and the book's own statement of
+why: a good story is one readers can see in their minds.
+The **object-perspective narrative** is named as a kind
+(U5, p.88): a non-living thing speaks in the first person —
+what are you, description through the senses, ending with
+why you are important (models: "I Am Water," "I Am Gold" —
+filed by title only). U6's writing task: rewrite the story
+from the heroine's perspective.
+
+STORIES, by summary only: "The Giving Tree" (U1) — an
+adaptation of Shel Silverstein's published story, softened:
+a boy takes everything from an apple tree and never gives
+back; years later he returns, finds it weak, and learns to
+care for it; the printed moral is to appreciate those who
+care for us, and the lesson diagrams it as Problem /
+Solution / Result. The two frogs (U3) — the Aesop-type
+fable: two frogs leave their drying pond, find a deep well,
+and refuse it because a well that dries would trap them;
+think before you decide. "Just Watch!" (U5) — an original
+object-perspective story told by a little digger who frees
+a stuck proud ship when the big machines cannot; size
+doesn't matter, using your strength to help does. "The
+Talking Earth" (U6) — credited on the unit opener to Jean
+Craighead George; an adapted literary text filed by summary
+only: Billie Wind, a Native American girl who wants to be
+a scientist and does not believe the Earth can talk, is sent
+alone into the Everglades and learns from the animals that
+the Earth speaks through wind, water, and living things.
+
+BOOK SLIPS, as printed: the Scope table spells "muscels"
+for muscles (U2) and "Naitonal Park" for National Park (U6).
+U3's questions ask why farmers can't grow food "in the US,"
+but the dialog put the drought in China and the wildfire in
+the US — the question mixes the two. Print spec says 116
+pages against the PDF's 113.
+
+Filed: blends sources (consonant clusters — the general
+statement), two-letter-sounds sources (vowel digraphs +
+trigraphs).
+
+EGYPT SET: 11 of 26 English books read (KG1, KG2, P1 T1+T2,
+P2 T1+T2, P3 T1+T2, P4 T1+T2, P5 T1). Next: Primary 5 Term 2.
+
+PRIMARY 5 TERM 1 FULLY READ — 2026-10-25
+
+Still owed: Primary 5 Term 2, Primary 6, Preparatory 7–9,
+Secondary 10–12 (the remaining 15 of the 26-book Egypt set).
