@@ -518,7 +518,12 @@ Downloaded from the grade-02 library record's own URLs
   picture-led pages checked as images). **Page rule: book
   p. = PDF p. − 1**, same as the Pupils Book. Black-and-white
   inside; the A–Z strip runs down most pages.
-- Teacher Book: next in the queue, one book at a time.
+- Teacher Book: 154 pp, 2,215,858 B — **READ COMPLETE
+  2026-10-25** (real text layer, read like the Grade 1
+  Teacher's Book: Introduction and appendices in full,
+  every unit's word list and aims/language checked, and
+  every audio script that carries language the other two
+  books do not print). Code 11000201.
 
 Course: **"21st Century English for Libya — Primary 2 Pupil's
 Book"**, State of Libya, Ministry of Education, CERC; published
@@ -856,10 +861,12 @@ Sally, **Nezar** named in it); "How do you feel? — I'm sad.
 · I'm thirsty. · I'm hungry. · I'm happy." — who is
 speaking? L7 (p.96) Sami's Friends: a football scene —
 Sami points out **Samir**, **Kamal** (the goalkeeper) and
-**Mazin** — and the reader finds who fits four read clues:
-"He has brown eyes. He is tall. He is sad. He can play
-football." (Mazin), then talks the same way: "Sami has …
-· Mazin is …" L8 (p.97) **Adam's Goodbye**, a song printed
+**Mazin** — and the reader matches four read clues, one
+to each boy: "He has brown eyes. · He is tall. · He is
+sad. · He can play football.", then talks the same way:
+"Sami has … · Mazin is …" (The Teacher's Book gives the
+clue answers and the boys' own spoken lines — see the
+Teacher's Book section below.) L8 (p.97) **Adam's Goodbye**, a song printed
 in full: the friends sing "You like the park / And you
 like the zoo. / You like the big wheel / And the market,
 too. / We're your friends / So please don't go. / Adam,
@@ -1203,5 +1210,254 @@ same country, second Grade 2 book: a spiral of the Pupils
 Book, not a new country.
 
 **Libya Grade 2 Activity Book — READ COMPLETE 2026-10-25.**
-Next book: Libya Grade 2 Teacher Book (per the reading
-queue), one book at a time.
+
+## Teacher's Book Grade 2 — what it adds
+
+Contents: Introduction p.4 · U1 p.18 · U2 p.36 · U3 p.54 ·
+U4 p.70 · U5 p.86 · U6 p.102 · U7 p.116 · U8 p.130 ·
+Project, Story and Songs p.144 · Phonetic Symbols p.148.
+Audio runs to **Track 88** (the Goldilocks story). Lessons
+are built from short blocks of 5–15 minutes. Assessment:
+still no formal assessment in early primary — the first is
+in Primary 4 (as Grade 1).
+
+**The people, officially** (Introduction p.6): "There are
+four characters: **Al-Hadi and his sister Muna and brother
+Kareem**, and the children's friend **Adam the
+Astronaut**" — Adam is there "to initiate discussions
+relating to aspirations and dreams… and what they want to
+be in the future." The course name is again **21st Century
+English for Libya**, and this level wears the strand
+openly: study skills, teamwork, critical thinking and
+problem-solving, built into pairwork, puzzles, stories,
+find-the-difference and games (the four Cs: communication,
+collaboration, critical thinking, creativity). Posters:
+1 alphabet lower case · 2 colours and numbers · 3 alphabet
+lower + upper case · 4 house, furniture and family scene.
+The classroom-language list (Introduction p.12) is Grade
+1's list with one wording change — "Look at **your
+book**" beside "Look at the board / at me / at the
+picture / at page 8."
+
+**The pencil steps, now in print** (Unit 1, Activity Book
+note to Lesson 2, and the Introduction's Unit 1 aims):
+before tracing, the child follows three steps — **1 Sit
+correctly** (both feet on the floor, arms and hands on the
+writing surface); **2 Hold the pencil correctly** ("between
+the thumb and first finger and with the second finger
+acting as support. The grip should be comfortable and
+relaxed. The free hand should control and stabilize the
+paper."); **3 Position their book correctly** (turned
+about 30–40 degrees by writing hand; left-handers hold
+farther from the point, may sit higher, and need space on
+their left). → Filed in the holding-a-pencil sources:
+Libya's entry now reads printed word steps in Grade 2
+after the shown grip of Grade 1 (acceptance still 2
+countries — Egypt, Libya).
+
+**Language that lives only in the audio/teacher layer:**
+- The **feel** verb: Unit 8 Lesson 5's listening (Track
+  84) — Kareem: "Hello, I am happy today. It is Saturday
+  and I am at the park with my friends." · Muna: "I am
+  sad. I can't do my homework!" · Al-Hadi: "I am sad
+  because I can't play football today." · Nadia: "I am
+  happy. I am at the market with my mum. We are shopping.
+  I have some new shoes." — and the teacher pushes the
+  answers past "I'm happy" to "**He/She feels happy/sad**"
+  and "**I feel** happy/hungry."
+- Unit 8 Lesson 6 (Track 85), the fun-park voices: Kareem:
+  "I like the fun park. I am happy. I am with my friends."
+  · Bill: "I want a sandwich. I am hungry." · Nezar: "I
+  want some water. I am thirsty." · Layla: "Mum, I am sad.
+  I want to go home. I don't like the fun park." · Sally:
+  "I'm on the roundabout. It's fun. I am happy."
+- Unit 8 Lesson 7 (Track 86), the four boys speak: Mazin:
+  "Hello. I am sad today. I like football, but I can't
+  play it!" · Samir: "Hello. I'm wearing a yellow shirt.
+  I can play football. I have just scored a goal!" · Sami:
+  "Hello. I am watching my friends play football. I have
+  brown eyes and brown hair. I'm wearing a blue shirt." ·
+  Kamal: "Hello. I am tall. I am playing football now and
+  I'm wearing a red shirt and trainers." The printed
+  clues' answers: brown eyes → **Sami** · tall → **Kamal**
+  · sad → **Mazin** · can play football → **Samir**.
+- "**Yes, I do. / No, I don't.**" — short answers to "Do
+  you like …?", taught in Unit 8 Lesson 1's pairwork; the
+  same lesson sorts the food words on the board into
+  **Without s** (fish, milkshake, ice-cream, water, tea,
+  juice, cake, watermelon, pizza, burger, sandwich,
+  cheese) and **With ~s** (dates, grapes, apples, pears,
+  bananas, mangoes, strawberries) — the countable split,
+  taught by the two columns.
+- Unit 1 Lesson 1's song (Track 2) leaves the name and
+  age lines open — "I'm … [music only for pupils to sing
+  own names]" — the class sings itself into the song.
+- Unit 2 Lesson 5's action set names **wave your arms**
+  and **touch your head** beside clap your hands / stamp
+  your feet.
+- Unit 5 Lesson 1's clothing notes: "What colour is the
+  shirt? (It's white.) What colour are the trousers?
+  (They're blue.)" and the trousers rule told plainly —
+  trousers are talked about as two (two legs); "We can't
+  say **a trousers**."
+- Unit 6 Lesson 1 introduces the word **present** at the
+  party (it is **Huda's mum's** birthday — "Is it Huda's
+  birthday? No"), and explains the family words against
+  Libyan usage: uncle = the brother of either parent,
+  aunt for a woman, and "cousin" in English covers any
+  child of any aunt or uncle — the parents are not
+  specified, unlike the Libyan word.
+
+**The four stories — full telling scripts.** The Pupils
+Book prints only the speech bubbles; the tellings live
+here (and in the Greetings/Story records below):
+- **Little Red Riding Hood** (Unit 5, Track 57) — the
+  girl is named **Layla** in the telling, and the new
+  words introduced for it are **wolf, forest, teeth**:
+  "[1] Layla is walking in the forest. She is going to
+  see her grandma. She meets a man. He is cutting trees.
+  'Hello,' he says. 'Where are you going?' Layla says,
+  'I'm going to see my grandma.' [2] In the forest, she
+  meets a wolf. 'Hello,' says the wolf. 'Where are you
+  going?' Layla says, 'I'm going to see my grandma.'
+  [3] The wolf wants to eat Layla. He goes to her
+  grandma's house. He puts her grandma into a bag and
+  hides her under the bed. [4] The wolf is wearing
+  grandma's dress and hat. Layla knocks on the door.
+  KNOCK. KNOCK! 'Come in.' says the wolf. Layla thinks
+  the wolf is her grandma. 'Hello, Grandma,' she says.
+  [5] She sits down and looks at her grandma. 'Your eyes
+  are big, Grandma!' 'I want to see you,' says the wolf.
+  [6] Layla says, 'Your ears are big, Grandma!' 'I want
+  to hear you,' says the wolf. [7] 'Your teeth are big,
+  Grandma,' says Layla. [8] 'I want to eat you,' says the
+  wolf. He opens his mouth. 'It's a wolf,' Layla cries.
+  'It's a wolf! Help. Help.' [9] The man from the forest
+  hears Layla. He runs to the house. He ties up the wolf.
+  [10] Grandma is under the bed. 'Help. Help.' grandma
+  cries. The man finds her grandma. He takes the wolf
+  into the forest. Layla and her grandma are very, very
+  happy." The class then acts it in groups of four
+  (Layla, the man, the wolf, grandma).
+- **The Rabbit And The Tortoise** (Unit 7, Track 76):
+  "[1] One day, the rabbit said to the tortoise, 'I can
+  run fast and I can jump. What can you do?' The tortoise
+  said, 'I can walk – slowly.' The rabbit laughed. 'Ha!
+  Ha!' [2] Then the rabbit had an idea. 'Let's have a
+  race!' he thought. [3] The other animals came to watch
+  the race. The mouse blew a whistle and all the animals
+  shouted, 'Go!' [4] The rabbit was soon far away from
+  the tortoise. 'Ha! Ha! Ha!' 'The tortoise can't run. He
+  won't win.' [5] 'Oh, I am slow,' said the tortoise.
+  [6] The rabbit ran past the camel. 'Look at me,' he
+  shouted. 'I can run fast.' [7] The rabbit jumped past
+  the goats. 'Look at me,' he shouted. 'I can jump.'
+  [8] The rabbit came to a big tree and sat down under
+  it. 'I'm tired,' he said, and he fell asleep,
+  'Zzzzzzzzz.' The tortoise kept on walking. On and on
+  and on he went. He walked past the camel. He walked
+  past the goats. He walked past the big tree and he
+  walked past the rabbit. [9] On and on and on he went.
+  'Hurrah! Hurrah! Hurrah!' the animals shouted. The
+  rabbit woke up. 'Oh, no! The tortoise has won the
+  race!'" The moral is carried in the teacher's talk,
+  not printed for the children: "It is not always the
+  best, fastest, cleverest who do well. It is always good
+  to try your best and keep trying."
+- **The Hungry Mouse** (Unit 8, Track 78) — the mouse is
+  **Milly**, the boy is **Bob**: "Can you see a small
+  mouse? Her name is Milly. Milly Mouse lives in a small
+  house under the floor. Today, she is very hungry and
+  she wants something to eat. Milly looks left and she
+  looks right – to see if there's a cat in the room. No,
+  there isn't a cat. So she runs into the room. She says,
+  'I'm hungry.' [Sniff, sniff, sniff.] Milly smells
+  something nice. 'Mmm. That smells good,' she says. And
+  she runs up the chair and jumps on the table. What's on
+  the table? There's a sandwich and a cake. Lovely! Milly
+  likes sandwiches. She says, 'A sandwich!' But she loves
+  cakes! It's her favourite food. She says, 'A cake!' So
+  she eats the cake. Then she eats the sandwich. Now
+  Milly is thirsty. She says, 'I'm thirsty. Is there any
+  milk? No, there's some water.' She pushes it with her
+  nose and the bottle falls down onto the floor. CRASH!
+  Who's this? This is Bob. He wants his lunch. Milly runs
+  back to her house. 'I'm hungry,' says Bob. 'Sandwich
+  and cake! Oh, where's my sandwich?' he shouts. 'And
+  where's my cake? – Mum!'" The class is then asked to
+  imagine pictures 9 and 10 — their own ending.
+- **Goldilocks And The Three Bears** (Project/Story
+  section, Track 88), told in full over the twelve
+  pictures: "[1] A little girl is picking flowers in the
+  woods. Her name is Goldilocks. [2] She is lost.
+  'Where's my house?', she says. She is cold and hungry.
+  She starts to cry. [3] Goldilocks stops crying and
+  looks around. She sees a house. 'There's a house!' She
+  knocks on the door. There is no one in the house. She
+  opens the door. Creak! [4] Goldilocks goes into the
+  sitting room. She sees three chairs. A big chair, a
+  middle-sized chair and a small chair. She sits on the
+  big chair. 'Owww!' she says. 'It is too hard.' She sits
+  on the middle-sized chair. It is too soft. She sits on
+  the small chair. It is just right. She is happy, but
+  then the chair breaks CRASH! and she falls on the
+  floor. 'Oh dear!' [5] She is hungry. She goes to the
+  dining room. There are three bowls on the table. A big
+  bowl, a middle-sized bowl and a small bowl. She eats
+  some soup from the big bowl. It is too hot. She eats
+  some soup from the middle-sized bowl. It is too cold.
+  She eats some soup from the small bowl. It is just
+  right. 'This soup is just right.' She eats all the
+  soup. [6] Goldilocks is now very tired. She goes to the
+  bedroom. There are three beds. A big bed, a
+  middle-sized bed and a small bed. She sits on the big
+  bed. It is too hard. She sits on the middle-sized bed.
+  It is too soft. She sits on the small bed. It is just
+  right. 'This bed is just right.' She goes to sleep.
+  [7] Three bears live in the house. Daddy Bear, Mummy
+  Bear and Baby Bear. They come home. [8] Goldilocks is
+  asleep in the small bed. [9] Daddy Bear sees his chair.
+  'My chair,' he says. 'Who's been sitting in my chair?'
+  Mummy Bear sees her chair. 'My chair,' she says.
+  'Who's been sitting in my chair?' Baby Bear says, 'My
+  chair!' [10] Daddy Bear goes to the dining room. 'My
+  soup!' he says. 'Who's been eating my soup?' 'Who's
+  been eating my soup?' Mummy Bear says. Baby Bear says,
+  'My soup!' The bowl is empty. [11] The three bears go
+  to the bedroom. STAMP, STAMP, STAMP. 'My bed,' Daddy
+  Bear says. 'Who's been sleeping in my bed?' Mummy Bear
+  says, 'My bed. Who's been sleeping in my bed?' Baby
+  Bear says, 'My bed. There's somebody in my bed!'
+  [12] Goldilocks wakes up. She runs away. She runs and
+  she runs away from the house of the three bears. She
+  sees her house and she sees her mummy. She is very
+  happy." New frames in the telling: **too hard / too
+  soft / too hot / too cold** beside just right, and the
+  bears' **Who's been …ing in my …?** questions.
+- The Songs pages (pp.144–147) print the year's songs as
+  the Pupils Book does, with two slips of its own,
+  recorded as printed: "Adam's Goodbye" verse 1 ends
+  "We're your friends / **Back to space**." (the Pupils
+  Book sings "So please don't go."); and "This Is The
+  Way We …" prints the dining-room verse ahead of the
+  sitting-room verse. No Happy Birthday song text is
+  printed anywhere — "Happy Birthday!" stands as its
+  words, as the Pupils section already noted.
+- **Phonetic Symbols appendix** (pp.148–149): the year's
+  word set with sound spellings — the Pupils Picture
+  Dictionary list plus the verbs; spelled correctly this
+  year (Grade 1's goat/glue slip does not repeat: goat
+  carries its own spelling).
+
+→ Filed/recorded from this book: the three pencil steps
+are filed in the holding-a-pencil sources (Libya now has
+printed steps); the four telling scripts, the feel-verb
+lines, the Yes-I-do short answers, the countable split and
+the story morals are held here for the Story, Sentence
+and Paragraph titles. Acceptance counts unchanged — same
+country, third Grade 2 book.
+
+**Libya Grade 2 Teacher's Book — READ COMPLETE
+2026-10-25. Libya Grade 2 is fully read — all three
+books.** Next per the reading queue: Libya Grade 3,
+one book at a time.

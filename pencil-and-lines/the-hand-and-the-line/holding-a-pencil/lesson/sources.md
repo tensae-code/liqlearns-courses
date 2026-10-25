@@ -20,13 +20,36 @@ have their books in a suitable position… Remind pupils how to hold
 the pencil correctly" (Unit 2 Lesson 7 notes, on Activity Book
 p.18's trace-the-lines page), "make sure they are sharpened and
 pupils know how to hold them correctly" (Unit 6 Lesson 4 notes).
-Libya teaches the grip by the teacher showing it, not by printed
-steps — the printed five-step pictures remain Egypt's — but the
-part itself, *learn to hold a pencil correctly before the letters*,
-is taught in Libya too.
+In Primary 1, Libya teaches the grip by the teacher showing it,
+not by printed steps — the printed five-step pictures remain
+Egypt's — but the part itself, *learn to hold a pencil correctly
+before the letters*, is taught in Libya too.
 
-**Acceptance count: taught in 2 countries (Egypt — printed steps;
-Libya — named aim, taught by showing).**
+Libya's printed steps arrive in Primary 2 (added 2026-10-25):
+Libya — "21st Century English for Libya" Primary 2, Teacher's
+Book (CERC / Garnet, 2019; verified on disk: %PDF, 154 pp),
+Unit 1, in the Activity Book note to Lesson 2 — the three steps
+in words, given as the preparation for tracing and writing:
+**1 Sit correctly** — both feet on the floor, arms and hands on
+the writing surface. **2 Hold the pencil correctly** — "between
+the thumb and first finger and with the second finger acting as
+support. The grip should be comfortable and relaxed. The free
+hand should control and stabilize the paper." **3 Position
+their book correctly** — turned about 30–40 degrees, to the
+right or left by the child's writing hand; left-handers hold
+the pencil farther from the point so they can see what they
+have written, may use a higher chair, and need space on their
+left side. The Introduction's Unit 1 aims name it too ("learn
+how to hold a pencil correctly"), and the Unit 1 lesson notes
+keep checking it ("check there are no problems holding the
+pencil"). So Libya's way grows across the two years: shown by
+the teacher in Grade 1, written as steps in Grade 2 — and its
+steps cover more than the grip: sitting and the book's angle
+come with it.
+
+**Acceptance count: taught in 2 countries (Egypt — printed
+picture steps; Libya — named aim in Grade 1, printed word
+steps in Grade 2).**
 This material began inside the English course (as Letter →
 before-the-letters) and was moved here when he ruled it a normal
 course of its own, prerequisite before every language — it is not
