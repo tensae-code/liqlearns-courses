@@ -516,6 +516,113 @@ eyes." pattern — I can + sense + with my + body part) are recorded
 here for the Word and Sentence titles in ladder order; the senses set
 also belongs to the health/science side when those courses start.
 
+### P1T1 Unit 5 "On the Farm" — page by page (PDF pp.84–102; read 2026-10-25)
+- p.84 Unit opener + Learning Outcomes: name farm animals and the
+  food they give using complete sentences; answer simple questions
+  related to counting and describing animals; identify the formation,
+  sound, and words that begin with Mm, Gg, Oo, and Ff; describe animal
+  sizes using opposite words; recognize the formation of numbers 6 to
+  10 and match them with their correct values; trace and write Mm,
+  Gg, Oo, Ff.
+- **Lesson 1: Welcome to the Farm** (pp.85–88)
+  - p.85 Dialog (Listen): Noor: "Look at the cow!" · Ziad: "Wow! The
+    cow is big!" · Noor: "And look at the duck!" · Ziad: "The duck is
+    small." · Noor: "Do you see the horse?" · Ziad: "Yes! The horse
+    is big, too." · Noor: "What about the chicken?" · Ziad: "The
+    chicken is small." · Noor: "I love farm animals!"
+  - p.86 Listen and repeat — the four animals with their size
+    sentences: **cow — "The cow is big." · duck — "The duck is
+    small." · horse — "The horse is big." · chicken — "The chicken is
+    small."** — then the same four sentences in speech bubbles over
+    photos of a boy pointing at each animal. **big / small** is the
+    book's first opposite pair, taught only through these sentences.
+  - p.87 Ex.3 Circle the animals that belong on the farm (duck,
+    horse, chicken, cow — against bird, cat, dog, turtle) · Ex.4 Mark
+    the picture that matches each sentence (The cow is big. / The
+    duck is small. / The horse is big. / The chicken is small. — each
+    with the right animal and a wrong one).
+  - p.88 Ex.5 Write ✓ if the word matches the picture, ✗ if it
+    doesn't (cow ✓; horse over a duck ✗; duck over a horse ✗; chicken
+    ✓) · Ex.6 Circle the pictures that show something **big** (bus,
+    house, elephant, whale — against cup, keys, ant, mouse) · Ex.7
+    Listen, point, and circle — each size sentence printed next to a
+    pair of pictures where the named animal is one of two sizes
+    ("The chicken is small." beside a big cow and a small chicken…).
+  - Note: the Scope and Sequence (p.3) also lists "The cow gives us
+    milk, cheese and meat. / The chicken gives us eggs." for this
+    unit, but those sentences do **not** appear in Lesson 1 as
+    printed — the lesson as read teaches the animals through big/small
+    only. Recorded as a scope-vs-pages difference, not filled in.
+- **Lesson 2: Phonics — Mm and Gg** (pp.89–93; one lesson, two letters)
+  - p.89 Mm — Listen and repeat: **moon, monkey, milk, mango, mouse**
+    · Trace and write Mm.
+  - p.90 Formation box for M/m (M = down, diagonal down-in, diagonal
+    up, down; m = down, curve, curve) with **milk** · more tracing ·
+    Ex.4 Circle the objects that start with Mm (monkey, mango, milk,
+    mouse — against a shop, a bus).
+  - p.91 Gg — Listen and repeat (Ex.5): **grapes, guitar, goat, girl,
+    gloves** · Trace and write Gg.
+  - p.92 Formation box for G/g (G = big curve, then across; g = curve,
+    then down with a tail) with **goat** · more tracing · Ex.8 Circle
+    the pictures that start with Gg (girl, grapes, guitar, goat —
+    against carrot, mouse, enter/door).
+  - p.93 Ex.9 Circle the beginning letter from three small letters
+    (girl: a–g–c; milk: h–b–m; gloves: e–l–g) · Ex.10 Write the
+    missing letter (**m**ango, **g**rapes, **m**ouse, **g**uitar) ·
+    Ex.11 Circle the beginning letter (girl: a/g; grapes: g/c;
+    monkey: a/m; moon: m/g) — Mm and Gg mixed.
+- **Lesson 3: Numbers from 6 to 10** (pp.94–97)
+  - p.94 Dialog (Listen): Sara: "Hi, Tamer!" · Tamer: "Hi, Sara!" ·
+    Sara: "How many horses can you see?" · Tamer: "I can see 7
+    horses!" · Sara: "Let's count the ducks." · Tamer: "Okay! 1, 2,
+    3, 4, 5, 6, 7, 8, and 9" · Sara: "There are 9 ducks!" · Tamer:
+    "That's a lot of animals!" · Sara: "Counting farm animals is fun."
+  - p.95 Numbers and values: **6** (6 strawberries) · **7** (7) ·
+    **8** (8) · **9** (9) · **10** (10) — each big number with its
+    many strawberries under it; two children count on their fingers
+    beside them · Ex.3 Color the correct number of objects, then
+    trace the number (rows of 10 eggplants/oranges/onions/peppers/
+    pineapples — color only 6, 7, 8, 9, or all 10).
+  - p.96 Ex.4 Listen, count, and ✓ the correct picture: "I can see 6
+    ducks." / "I can see 7 birds." / "I can see 10 stars." / "I can
+    see 8 pens." — each against a wrong picture · Ex.5 Write ✓ if the
+    number matches the picture count, ✗ if not (7 fish under "6" ✗;
+    8 flowers under "8" ✓; 6 apples under "8" ✗; 9 frogs under "9" ✓).
+  - p.97 Ex.6 Count the objects and match them to the correct number
+    (6 apples, 7 pencils, 8 flowers, 9 frogs, 10 ducks — matched to
+    6 7 8 9 10) · Ex.7 Count the fruits and write the number in the
+    box (10 pineapples, 8 apples, 6 watermelon slices, 7 mangoes, 9
+    oranges).
+- **Lesson 4: Phonics — Oo and Ff** (pp.98–102; one lesson, two letters)
+  - p.98 Oo — Listen and repeat: **octopus, on** (a cat on a chair,
+    an arrow pointing at the chair seat), **ostrich, olive** · Trace
+    and write Oo.
+  - p.99 Formation box for O/o (one round stroke from the top) with
+    **octopus** · more tracing · Ex.4 Circle the objects that start
+    with Oo (ostrich, olive, octopus — against horse, carrot, panda,
+    cat).
+  - p.100 Ff — Listen and repeat (Ex.5): **fan, fox, fish, fork,
+    frog** · Trace and write Ff.
+  - p.101 Formation box for F/f (F = down, across top, across middle;
+    f = curve over, down, cross) with **fish** · more tracing · Ex.8
+    Match the pictures that start with Ff (fish, fox, fork, frog —
+    against tree, orange).
+  - p.102 Ex.9 Color the pictures, then trace the beginning letter (a
+    fish with Ff, an octopus with Oo) · Ex.10 Trace the beginning
+    letter of the word (**o**n, **o**strich, **f**ork, **f**an,
+    **f**rog — Oo and Ff mixed).
+
+Unit 5 basics filed: the-alphabet sources gain P1's Mm words (moon,
+monkey, milk, mango, mouse), Gg words (grapes, guitar, goat, girl,
+gloves), Oo words (octopus, on, ostrich, olive), and Ff words (fan,
+fox, fish, fork, frog). The farm animal set (cow, duck, horse,
+chicken — plus goat from the Gg page), the size sentences ("The cow
+is big." / "The duck is small." — the thing + is + big/small
+pattern), the opposites pair big/small, and numbers 6–10 with their
+values and counting sentences ("How many horses can you see? I can
+see 7 horses!") are recorded here for the Word, Sentence, and Maths
+titles in ladder order.
+
 ## Built so far
 - greetings/hello-and-your-name/ — built from Unit 1, Lesson 1 (see its
   sources.md). Title = the common-sense name (Greetings), not the book's

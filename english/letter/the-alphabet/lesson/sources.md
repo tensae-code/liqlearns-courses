@@ -93,6 +93,20 @@ alphabet across its 6 units (Scope and Sequence, PDF pp.3–4): Tt Ii
   tracing + matching, p.82; Cc/Kk mixed beginning-letter tracing,
   p.83 — the same /k/ sound with two letters, so the letter itself
   must be known, not only heard. (Unit 4, read 2026-10-25)
+- Mm /m/ — **moon, monkey, milk, mango, mouse**, PDF p.89; formation
+  box (M = down, diagonal in, diagonal up, down; m = down, curve,
+  curve) with milk + tracing + circling, p.90. (Unit 5, read 2026-10-25)
+- Gg /g/ — **grapes, guitar, goat, girl, gloves**, PDF p.91; formation
+  box (G = big curve, then across; g = curve, then down with a tail)
+  with goat + tracing + circling, p.92; Mm/Gg mixed circling and
+  missing-letter writing, p.93. (Unit 5, read 2026-10-25)
+- Oo /ɒ/ — **octopus, on, ostrich, olive**, PDF p.98; formation box
+  (one round stroke from the top) with octopus + tracing + circling,
+  p.99. (Unit 5, read 2026-10-25)
+- Ff /f/ — **fan, fox, fish, fork, frog**, PDF p.100; formation box
+  (F = down, across, across; f = curve over, down, cross) with fish +
+  tracing + matching, p.101; Oo/Ff mixed beginning-letter tracing,
+  p.102. (Unit 5, read 2026-10-25)
 Same country (Egypt), third book — the count below does not change,
 but the lesson gains Primary 1's deeper layer: formation numbers,
 real-photo words, and the two letters mixed in one test.
