@@ -771,3 +771,53 @@ week pattern recorded here for the Word and Sentence
 titles; Tom's tree is the course's first diagram text and
 My Week its first seven-sentence read — both noted for
 the Paragraph step.
+
+### Unit 7 "Hobbies And Talents" (book pp.77–88)
+What you can do — the can/can't unit. L1 (p.78) "Can you
+sing?": the action set — draw, ride a bike, play football,
+swim, sing, play basketball — asked and answered: "Can you
+draw? — Yes, I can. · Can you ride a bike? — No, I can't."
+L2 (p.79) "I can … / I can't …": children saying their own
+— "I can play football. · I can't jump. · I can play the
+drum. · I can run fast." — plus read-and-match (I can draw ·
+I can't play football · I can't ride a bike). L3 (p.80) "Can
+it …?": animals sorted by a **yes/no flowchart** — Can it
+fly? → Can it run? / Can it climb? → Can it jump? — ending
+at bird, insect, monkey, snake, dog; the guessing dialog
+"Can it fly? — Yes. · Can it run? — No. · Is it an insect?
+— Yes." L4 (p.81) "On Saturday": six routine sentences with
+their places — "I watch TV in the sitting room. · I do my
+homework in my bedroom. · I play football at school. · I
+eat in the kitchen. · I ride my bike in the park. · I sleep
+in my bedroom." L5 (p.82): sentence-making from parts — I +
+watch TV / ride / eat / play / sleep / do + on + Saturday /
+Monday / Friday. L6 (pp.83–84) **Sam's Afternoon**, read in
+six pictures: "I eat lunch. · I watch TV. · I help dad. · I
+clean my room. · I play games. · I draw pictures." — then
+**Make a book**: the learner makes their own "My Day By …"
+book — Write the title. Draw. Write. Write page numbers.
+Punch holes. Tie. — and reads it aloud. (Libya's own
+hands-on making task: the child produces a real book.)
+L7 (p.85) "Which animal?": clue sentences to read and
+match — "It can't jump. It has 8 legs." (spider) · "It can
+fly and it can sing." (bird) · "It has no legs." (snake) ·
+"It can swim but it can't run." (fish) · "It can climb up
+a tree." (cat) · "It likes bananas!" (monkey) — then the
+game in reverse: "It can climb. It can't fly. It has 2 arms
+and legs. It's brown. — The monkey!" L8 (pp.86–87) Story:
+**The Rabbit And The Tortoise**, nine pictures, speech
+only — "I can run fast and I can jump." · "I can walk." ·
+"I'm slow." · "Look at me. I can run fast." · "Look at me.
+I can jump." · "I'm tired." · "Zzzzzz!" · "Hurrah!" at the
+Finish, the tortoise first. No moral printed (same as
+Unit 5's story — the telling carries it). "Now I can …"
+(p.88): say what I can do; say what people can and can't
+do; say what animals can and can't do; say what I do on
+Saturdays; say when I do activities; talk about my
+afternoon; make a book; listen to and read a story.
+→ Can/can't patterns (you / I / it), the action set, routine
+sentences with places and days, and the animal-clue
+sentences recorded here for the Word and Sentence titles;
+Make-a-book is filed as the book's own hands-on task, and
+Sam's Afternoon + the tortoise story for the Paragraph and
+Story steps.
