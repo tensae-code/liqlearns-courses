@@ -724,3 +724,50 @@ here for the Word, Sentence and Maths titles; Sami's
 introduction is Grade 2's first paragraph-shaped text after
 the lunchbox list, and Little Red Riding Hood is its first
 full story — both noted for the Paragraph and Story steps.
+
+### Unit 6 "Family Trees" (book pp.65–76)
+The whole family, where everyone is, and the days of the
+week. L1 (pp.66–67) Mum's Birthday: a party scene labelling
+the grown family — mum, dad, grandma, grandpa, sister,
+**uncle** — with a new girl, **Huda** ("I'm Huda."), and
+"Happy Birthday!" sung at the door card (HAPPY BIRTHDAY MUM);
+the game "Who's this? — It's her grandpa."; the second party
+picture adds **aunt, brother, cousin, cousin** and puts
+Unit 4's positions to work on people: "Where's her grandma?
+— She's next to mum. · Where are her cousins? — They're on
+the floor." L2 (p.68) Tom's Family: describing words **tall,
+short, old, young** on a family photo — "Tom's sister is
+young. His dad is tall." — then the learner's own: "My mum
+is short. My dad is tall." L3 (p.69) "Where are mum and
+dad?": places — **at the café, at the market, at the fun
+park, at home, at school** — "Where's Kareem? — He's at
+home. · Where are dad and grandpa? — They're at the café."
+L4 (p.70) Days Of The Week, **Sunday-first** like Egypt's
+KG2 (Sunday, Monday, Tuesday, Wednesday, Thursday, Friday,
+Saturday), with the **7 Days Song printed in full**: "Sunday,
+Monday, Tuesday, Wednesday, Thursday, Friday and Saturday,
+too. 1, 2, 3, 4, 5, 6, 7 days. I like Fridays. How about
+you?" L5 (p.71) Tom's Family Tree: a real tree diagram —
+Amy and Matt at the top; Emma, Tom and Bill under them —
+"This is my family tree. — Who is Matt? — It's his dad."
+L6 (p.72) Numbers: Adam stranded across a river ("Help
+me!"), the way over is the stepping stones 1–20 said in
+order; a ruler strip runs 10–20. L7 (p.73) Muna's Party:
+listen, say and find in a party picture — "He's under the
+chair. — Kareem." L8 (pp.74–75) My Week — a seven-panel
+**reading text**, one sentence a day: "On Saturday, we
+clean the house. · On Sunday, we go shopping. · On Monday,
+we cook. · On Tuesday, we go to the park. · On Wednesday,
+we have a big lunch. · On Thursday, we have a picnic. · On
+Friday, we visit Grandma." (The week's story starts on
+Saturday even though the days are taught Sunday-first —
+recorded as printed.) "Now I can …" (p.76): talk about
+families; say where people are; use young, old, tall,
+short; ask and answer questions; say the days of the week;
+say activity words.
+→ Family set grown (uncle, aunt, cousin), tall/short/old/
+young, the at-places, Sunday-first days and the On-day
+week pattern recorded here for the Word and Sentence
+titles; Tom's tree is the course's first diagram text and
+My Week its first seven-sentence read — both noted for
+the Paragraph step.
