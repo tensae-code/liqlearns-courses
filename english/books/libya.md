@@ -508,10 +508,11 @@ book: Libya Grade 2 (per the reading queue), one book at a time.
 
 Downloaded from the grade-02 library record's own URLs
 (liasinstitute.com) into the courses work folder.
-- Pupils Book: 122 pp, 32,980,575 B — **reading in progress**
-  (image-only scan, "Print To PDF" 2020; read as rendered pages,
-  the Egypt way). **Page rule: book p. = PDF p. − 1** (printed
-  page number at the foot).
+- Pupils Book: 122 pp, 32,980,575 B — **READ COMPLETE
+  2026-10-25** (image-only scan, "Print To PDF" 2020; read
+  as rendered pages, the Egypt way — all 122 pages).
+  **Page rule: book p. = PDF p. − 1** (printed page number
+  at the foot).
 - Activity Book / Teacher Book: queued behind it, one at a time.
 
 Course: **"21st Century English for Libya — Primary 2 Pupil's
@@ -870,8 +871,73 @@ describe a picture.
 How-do-you-feel / How-does-he-feel questions, fun-park
 set, and name-spelling recorded here for the Word and
 Sentence titles; The Hungry Mouse for the Story step.
-(The contents page lists the back sections one page
-later than they are printed — Project p.100, Story
-p.102, Songs p.104, Dictionary p.109 against printed
-pp.100/102/104/109 as checked below; printed numbers
-rule.)
+
+### Back sections (book pp.99–117 + back cover)
+**Project** (pp.100–101): "Read and make. **Make a rocket
+for Adam the Astronaut to go home.**" — cardboard boxes,
+sticky tape, scissors and colouring pens in three pictures,
+then children showing theirs: "My rocket is red and blue. ·
+My rocket is …" (one rocket carries the Libyan flag; Adam
+rides in another). The year's second make-it task, after
+Unit 7's book. **Story** (pp.102–103): **Goldilocks And The
+Three Bears**, twelve pictures, speech only — "Where's my
+house?" · "There's a house!" · "Oh dear!" (the broken
+chair) · "This soup is just right." · "This bed is just
+right." · the bears come home: "My chair!" · "My soup!" ·
+"There's somebody in my bed!" — and she runs home to her
+mother. New frames kept: **There's a …** and **This … is
+just right.** No moral printed. **Songs And Rhymes**
+(pp.104–108) prints the year's songs in full: **Five
+Little Ducks** (six verses, counting 5 down to none and
+all five back — Unit 2); **If You're Happy …** (clap your
+hands / stamp your feet verses — the Unit 2 action song,
+track 20); **The Fruit Song** (Unit 3): "Pears and
+mangoes. / Pears and mangoes. / Strawberries and dates. /
+Strawberries and dates. / Apples are my favourite. /
+Apples are my favourite. / I like grapes. / I like
+grapes."; **This Is The Way We …** (Unit 4): "Here we go
+round the sitting room … And we all sit down. / This is
+the way we read a book … Now let's stand up again. / Here
+we go round the dining room … / This is the way we eat
+ice-cream …"; **Kareem, put your trainers on** (Unit 5):
+"…, It's time to go to school. / Kareem, take them off
+again …, It's time to go to bed."; the **7 Days Song**
+(Unit 6, same words as in its lesson); **I'm Happy …**
+(Unit 8): "I'm happy on Friday. / It's time for me to
+play. / I cook or draw or go shopping / And see my friends
+today. // I listen to some music / And then I watch TV. /
+Then all my friends come over / And play basketball with
+me."; and **Adam's Goodbye** again (same words as Unit 8
+Lesson 8). (The Happy Birthday song of Unit 6 is not
+reprinted here — "Happy Birthday!" stands as its words.)
+**Picture Dictionary** (pp.109–117): the year's words
+A–Z, each with its picture and its first letter in red —
+arm, bag, banana, bathroom, bear, bed, bedroom, bee, big
+wheel, bike, bin, birthday, board, body, bread, burger ·
+café, camel, carrot, chair, cheese, chicken, clock,
+clown, cucumber, dates, desk, dining room, dolphin,
+dress, drum · ear, eye, foot, football, fork, fruit, fun
+park, garden, glue, goat, grapes, hand, hat, head,
+ice-cream · jacket, juice, king, kitchen, lamp, laptop,
+leg, lion, lunchbox, mango, market, mat, milk, milkshake,
+monkey · mouse, mouth, nose, oil, park, party, pear,
+pencil case, pencils, pens, picnic, picture, pie, pizza,
+popcorn · rabbit, rice, ring, rocket, roundabout, rubber,
+ruler, sandwich, school, seesaw, shelf, shirt, shoes,
+shopping, sitting room · skates, skirt, slide, socks,
+spider, star, steak, strawberry, swing, tea, that, this,
+tie, toys, trainers · tree, trousers, T-shirt, TV,
+wardrobe, watch, water, watermelon, wolf, zoo — and a
+last page of **Verbs**: close, draw, open, play
+basketball, play football, point, ride a bike, sing,
+swim. (A few dictionary words live only in the stories
+and songs — bear, camel, dolphin, lion, goat, rocket,
+tea, milk.) Book pp.118–120 are blank in the PDF. **Back
+cover**: the five components (Pupil's Book, Activity
+Book, Teacher's Book, Audio, Teacher Resources —
+posters, picture cards, word cards), www.englishforlibya.com,
+printed by International Press, Lebanon; code 10010203.
+
+**Libya Grade 2 Pupils Book — READ COMPLETE 2026-10-25.**
+Next book: Libya Grade 2 Activity Book (per the reading
+queue), one book at a time.
