@@ -634,3 +634,40 @@ food.
 a/an choice recorded here for the Word and Sentence titles;
 the lunchbox text is the Grade 2 first reading text, noted for
 the Sentence→Paragraph step.
+
+### Unit 4 "My Home" (book pp.41–52)
+Where things are — the position unit. L1 (p.42) My Bedroom: a
+read-and-tick word check over a bedroom picture (bin, fish,
+car, kite, bus, net, duck, chair, laptop); "Where's the car? —
+On the mat." L2 (p.43) "Where's the monkey?": **in the box ·
+on the box · under the box**, then read-and-match full
+sentences — "The balls are under the hat. · The ball is on the
+hat. · The balls are in the hat." (is/are with in/on/under,
+read, not just said). L3 (pp.44–45) "Here's my house": people
+placed in rooms — "Where's Muna? — In the dining room. ·
+Where's Al-Hadi? — In the bedroom. · Where's Kareem? — In the
+bathroom." — over a labelled house (bathroom, kitchen, garden;
+bedroom, dining room, sitting room); then things: "Where's the
+ball? It's under the table. · Where are the mangoes? They're
+on the table." L4 (p.46) "What's in your bedroom?": two more
+positions — **next to** the box, **between** the boxes — the
+full strip in · on · under · next to · between over a labelled
+bedroom: wardrobe, book, shelf, picture, lamp, bed, skates,
+laptop, bin, trainers. L5 (p.47): the song "This is the way
+we …" in four pictures (words p.104) and a Right!/Wrong! game
+— say where things are, your partner judges: "The keys are
+under the chair. — Right! · The lemons are on the table. —
+Wrong!" L6 (p.48): "What can you see? — I can see a bag." +
+"Where's the ball? It's under the table." L7 (p.49): Find The
+Difference — two bedroom pictures, say what changed. L8
+(pp.50–51) Letters And Sounds: **oi** (point, oil), **ar**
+(car, star), **er** (tiger, water); then "I have a … / I have
+…" — "I have a car. · I have books." "Now I can …" (p.52):
+say bedroom words; say where things are; say house words;
+talk about pictures; find the difference; say new letter
+sounds; say what I have.
+→ Position words (in/on/under/next to/between), the Where's…
+and What-can-you-see patterns, rooms + bedroom furniture sets
+recorded here for the Word and Sentence titles. Libya's
+positions now run past Grade 1's in/on: under, next to,
+between join in Grade 2.
