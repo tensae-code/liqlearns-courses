@@ -3517,3 +3517,347 @@ course inside these Primary 5 covers is the fourth
 year's course. Next per the queue: Grade 6, checking
 each file against the grade before it first, after
 the Grade 4 lesson.
+
+---
+
+# Libya — English Grade 6: Pupils Book, Activity Book
+
+Downloaded from the grade-06 library record's own
+URLs (liasinstitute.com) into the courses work
+folder. The record holds **two** books only — no
+Teacher Book is listed for Grade 6.
+
+- Pupils Book: 60 pp, 12,051,829 B — **READ COMPLETE
+  2026-10-25** (partial text layer; read in full from
+  rendered pages, book p. = PDF p.). A **different
+  course** from the Garnet "21st Century" line of
+  Grades 1–5: "Primary 6 Pupil's Book", State of
+  Libya, Ministry of Education, CERC, by **Terry
+  Phillips, from original work by Jenny Quintana and
+  Bob Marsden**, school year 2019–2020 (1440–1441
+  AH). It is not a re-cover of any earlier book —
+  checked against Grade 5 first, per the Grade 4
+  lesson: different author, different cast, different
+  art, 60 pages against 141.
+- Honest level note, as printed: this book works far
+  below the Garnet Grade 5 book. It re-teaches the
+  alphabet and sounds group by group, clothes, town
+  places, there is/are, have got, likes, clock times
+  and numbers to 20 — a consolidation year in a
+  simpler series, with its own cast: **Ali** (the
+  central boy), **Nisrin** and her brother **Tarek**
+  (11) and sister **Amna** (8), **Ellen** (10, from
+  England) and her sister **Tamara** (12), Nabil,
+  Fatima, Hasan, Ahmed, Hala, Zainab, Khalid (from
+  Jordan), Basim (from Pakistan), Omar, Jack, Hana —
+  and an eagle mascot who presents the writing pages.
+  Six lessons per unit; every unit's Lesson 6 is a
+  writing lesson built on the series' signature
+  exercise, **"Read and find the differences"** —
+  the same text printed twice, once in full forms
+  with capitals and punctuation, once shortened or
+  stripped, and the child finds what changed.
+
+### Grade 6 Pupils Book — unit by unit
+
+**Front pages.** Alphabet and Numbers (p.3): all 26
+letter pairs in colour + digits 1 2 3 4 5 6 7 8 9 0.
+Book map (pp.4–5): the eight units with their
+lexical set, statements, questions, language focus,
+writing letters and sounds, as filed per unit below.
+
+**Unit 1 Clothes (pp.6–11).** L1: ten clothes words
+over pictures (a skirt, a dress, a jumper, socks, a
+shirt, shoes, a blouse, sandals, a jacket,
+trousers). L2: Nabil and Fatima described, with
+**colour mixing written as sums** — "black + white
+= grey" (his shirt), "red + white = pink" (her
+jacket). L3: His/Her turned into names — "His shirt
+is grey. → Nabil's shirt · Her jacket is pink. →
+Fatima's jacket" — and Whose asked and answered
+("Whose shirt is grey? — Nabil's. · Whose trousers
+are blue? — Fatima's."). L4: the sounds b p j k
+coloured inside words (blouse, bed, rubber, pink,
+apple, grape, jacket, jumper, juice, kitchen, skirt,
+black) + introducing other children ("This is
+Khalid. He's from Jordan. And this is Basim. He's
+from Pakistan."). L5: two reading texts ("Nabil's
+shirt is grey. His trousers are red. His socks are
+white. His shoes are black." · "Zainab's blouse is
+white. Her skirt is blue. Her socks are grey. Her
+shoes are black.") + Listen: Who's this? over six
+children. L6: trace b p k j and B P K J with numbered
+strokes. Writing focus: b B, p P, k K, j J · sounds
+/b/ /p/ /k/ /dʒ/.
+
+**Unit 2 Places in Town (pp.12–17).** L1: ten
+places (a school, a mosque, a flat, a house, a
+beach, a post office, a mall, a supermarket, a cafe,
+a playground). L2: a hand-drawn street map (Hama
+Street, Flag Street, Beach Road, the sea) —
+"Ahmed's house is in Flag Street. Nabil's flat is
+in Beach Road. Where's Jack's house? Where's
+Ellen's flat?" L3: a coloured map (the street here
+named Hani Street) — "The mosque is **in** Hani
+Street. The mosque is **opposite** the school. The
+mosque is **next to** the cafe. The mosque is
+**near** Hama Street." L4: f and s in words + "My
+house is in Flag Street." L5: a dialog in full —
+"Ahmed: Where's your house, Ali? Ali: It's in Flag
+Street. Ahmed: Really? My house is in Flag Street,
+too. Ali: Where? Is it near the school? Ahmed: No,
+it isn't. It's next to the mosque. Ali: Oh. Is it
+opposite the playground? Ahmed: That's right." — a
+numbered-map listening ("Where is Fatima's house?
+What about Hasan's?") and the Look! box "isn't = is
+not". L6: trace f s and F S (street signs: Flag
+Street, Farhat Street, Faluja Street).
+
+**Unit 3 Geographic Locations (pp.18–23).** L1: a
+landscape picture labelled 1–9 (mountain, valley,
+desert, village, river, lake, town, city, sea).
+L2: a **symbol map** with a compass rose (North,
+East, South, West) — the child writes what each
+symbol means (triangle mountain, wavy line river,
+diamond town, square city, blob lake, circle
+village, band beach, dashed line road). L3: Libya's
+own map — "There is a big desert in the south.
+There are big cities in the north." · "Is there a
+big desert in the south? — Yes, there is. **It is
+the Sahara.** · Are there big cities in the south?
+— No, there aren't." + Look! "aren't = are not".
+L4: v w y in words + real places named: "This is
+the **Beka Valley** in Lebanon. This is the **White
+Sea** in Russia. This is the **Yellow River** in
+China." L5: a **picture-rebus listening text** —
+sentences built from words, pictures and arrows to
+complete by ear ("My name's ___. I'm [Libya]. I'm
+from [Sirt]. It's a ● in the ↑ of the country. My
+[house] is in the ↓ of the ●…") — ● = city, ↑ =
+north, ↓ = south. L6: trace v w y and V W Y.
+
+**Unit 4 Vocabulary Reinforcement Through
+Categorization (pp.24–29)** — the book's own title
+for a sorting unit. L1–2: "Study these categories"
+— picture-only boards, no words printed: Rooms,
+Colours, Family, Animals, Fruits and drinks,
+Adjectives (shown as opposite pairs), Clothes,
+Town, Places — the earlier vocabulary re-sorted by
+kind. L3: a dialog over a bedroom picture ("ALI'S
+ROOM" on the door): "Where's my jacket? — It's on
+the chair in your room. — Thanks. And where are my
+shoes? — They're in your room, too. They're near
+the bed. — Thanks." L4: **the whole sound system
+on one page** — the five vowel letters with two
+words each (a flag, black · e bed, desk · i fish,
+kitchen · o hot, orange · u mum, uncle) and the 21
+consonant letters with two words each (b bed, book
+· p pen, pencil · m mum, monkey · f fish, office ·
+v village, valley · t toilet, tiger · d desk, dad ·
+n nice, nasty · c cat, socks · k kitchen, monkey ·
+j jumper, jacket · s sea, dress · h horse, hot · l
+lemon, lake · r red, grape · w west, water · y
+yellow, you). L5: favourites — "What's your
+favourite colour, Nisrin? — Blue is my favourite
+colour. — It's red. Blue is nice, too. — Really?" ·
+"This is my favourite drink. — Really? What is it?
+— Banana milk shake. — My favourite drink is
+lemonade. — Lemonade is nice, too." L6: "Study
+the alphabet" — 23 letter pairs on coloured
+splashes (q, x and z are not on this page; all 26
+stand on p.3).
+
+**Revision 1 (pp.30–31).** Listen: Who is it? over
+the six children in new clothes + Describe and
+guess; a new street map to talk over (Flag Street,
+New Street, Faluja Street); "Ellen: What's your
+favourite animal? Nisrin: The tiger. What about
+you?"; ask and answer over animal pictures.
+
+**Unit 5 Personal Possessions (pp.32–37).** L1: ten
+possessions (a camera, a television (TV), a
+computer, a radio, a bicycle, a watch, a CD player,
+a motorbike, a fax machine, a video). L2: Ali on
+his bicycle, his things pictured beside him (video
+tape, CD, floppy disk, film) — "He's got a watch.
+He hasn't got a motorbike. Has he got a camera?
+What about a computer?" + Look! "he's = he has ·
+hasn't = has not". L3: the pattern grid in pictures
+— He's got / He hasn't got / Has he got? turned
+into I've got / I haven't got / Have you got? —
+Look! "I've = I have · I haven't = I have not".
+L4: **letter names grouped by their sound** — the
+letters B C D E G P T V drawn as characters (their
+names all end in the same /iː/ sound) in a joke
+frame ("What's your name? — E.") and BED spelled
+out of its own letters ("What's that? — It's my
+bed."). L5: the Ellen–Nisrin interview in full —
+"Ellen: How old are you, Nisrin? Nisrin: I'm 9.
+Ellen: Have you got brothers and sisters? Nisrin:
+Yes, I have. Ellen: How many? Nisrin: I've got 1
+brother and 1 sister. Ellen: What are their names?
+Nisrin: My brother's name is Tarek and my sister's
+name is Amna. Ellen: How old are they? Nisrin: My
+brother is 11 and my sister is 8. Nisrin: What
+about you, Ellen? Ellen: I'm 10. I've got 1 sister.
+Her name is Tamara. Nisrin: How old is she? Ellen:
+She's 12. I haven't got a brother." — the book's
+numbers work is 11 and 12, met here inside the
+family answers. L6: find the differences — one
+note in full forms ("I am 11. I have got 1 brother.
+He is tall. I have got 2 sisters. They are short.")
+against the same note contracted ("I'm 11. I've
+got 1 brother. He's tall. I've got 2 sisters.
+They're short.") + Look! table (I'm = I am · He's =
+He is · She's = She is · They're = They are · I've
+= I have) + trace x (fax).
+
+**Unit 6 Time / Daily Life (pp.38–43).** L1:
+"I get up at quarter past 7. I start school at
+quarter to 9. I finish school at half past 3. I go
+to bed at 9 o'clock." + seven clocks read in words
+(three o'clock · quarter past five · quarter to one
+· half past six · quarter to three · half past nine
+· quarter past two). L2: **the clock face drawn as
+a diagram** — the right half is "past" (with "just
+after" marked just past the hour and "nearly" just
+before the half), the left half is "to"; o'clock at
+the top, quarter past at the right, half past at
+the bottom, quarter to at the left + "What's the
+time? — It's three o'clock." L3: the routine grid —
+I start / I don't start / Do you start …? over
+start, finish and go to bed. L4: the letter names
+A H J K as a class register ("A? — Here, sir.") +
+spelling a name to a teacher: "What's your name?
+— It's Jack, sir. J-A-C-K." L5: Nisrin and Ellen
+compare school times in full — "Nisrin: What time
+do you start school in England, Ellen? Ellen: I
+start at half past 8. Nisrin: That's late. Ellen:
+When do you start school, then? Nisrin: At quarter
+past 7. Ellen: That's early! When do you finish?
+Nisrin: At 1 o'clock. Ellen: That's great. We don't
+finish at 1 o'clock. Nisrin: Do you finish at 2
+o'clock? Ellen: No! Nisrin: What time do you
+finish? Ellen: At quarter to 4." — early and late
+learned from the comparison itself. L6: find the
+differences (do not/don't · is not/isn't · have
+got/I've got · have not/haven't) + Look! table +
+trace q and qu (quarter).
+
+**Unit 7 Sports and Activities (pp.44–49).** L1:
+ten activities (table tennis, basketball, football,
+swimming, shopping, fishing, reading, cycling,
+listening to the radio, watching TV). L2: like-maps
+— "Nisrin likes table tennis but she doesn't like
+football. Ali likes football but he doesn't like
+table tennis." + "Does Nisrin like basketball? What
+about Ali?" L3: the likes grid (She likes … / She
+doesn't like … / Does she like …? · He likes …).
+L4: **the letter-name dialog** — the letters I and
+U talk, with Y, Q and W as their brothers: "I:
+Hello. U: Hello. I: Who are you? U: I'm U. I: Are
+you? U: Yes. Who are you? I: I'm I. U: Really?
+Who's that? I: He's my brother. His name is Y. U:
+They're my brothers, Q and W." — the joke is that
+the letter names sound like words (I, you, are,
+why). L5: a clothes-shop dialog in full — "Omar:
+Do you like this red shirt? Ahmed: No, not really.
+I don't like red. Omar: What about this one?
+Ahmed: No, I don't like blue, either. Omar: I like
+this one. Yellow is my favourite colour. Ahmed:
+Yes, I like it, too. Omar: Well? What do you think?
+Ahmed: It's too big, isn't it?" — too, either and
+too big, with a tag question at the end. L6: find
+the differences for **capital letters and full
+stops** — Ali's self-introduction printed correctly
+("My name is Ali. I'm African. I'm from Libya. My
+town is Sirt. I've got a brother and I've got a
+sister. My brother's name is Mousa. My sister's
+name is Huda.") against the same text in all small
+letters with no full stops; Look! "my name = My
+name … · it's = It's … · i'm = I'm … · ali = Ali ·
+libya = Libya · sirt = Sirt".
+
+**Unit 8 Games (pp.50–55).** L1: **Snakes and
+Ladders** — a 20-square board, every square carrying
+its number in figures and in words (one … twenty),
+and the rules as imperatives: "1. Spin the spinner.
+2. Move your counter. 3. Go up a ladder. 4. Go down
+a snake. 5. If you get a six, spin again." L2: the
+game played in speech, in full — "Jack: Where are
+you? Ali: I'm on three. Jack: OK. Spin the spinner.
+Ali: I've got a six! Jack: Four, five, six, seven,
+eight, nine. You're on a ladder. Go up to eleven.
+Ali: That's good. Your turn. Jack: No, it isn't.
+It's your turn again. Ali: Oh, yes. Now I've got a
+four. Jack: Twelve, thirteen, fourteen, fifteen …
+You're on a snake! Ali: Oh, no! Jack: Go down to
+seven!" L3: **How do you make a spinner?** — seven
+imperative steps, a picture for each: "1. Draw a
+line. 2. Draw an X on the line. 3. Join the points.
+4. Write the numbers one to six. 5. Colour the
+spinner. 6. Cut out the spinner. 7. Push a pencil
+through the middle." L4: the letter characters at
+school again — the F L M N S X family (their names
+all begin with the same /e/ sound) out front:
+"Are you E? — No, I'm F." L5: the game taught by
+playing it — "Nisrin: How do you play snakes and
+ladders? Ellen: First, spin the spinner. Nisrin:
+OK. Ellen: What have you got? Nisrin: Four. Ellen:
+Right. Move your counter four squares. Nisrin: One,
+two, three, four. Nisrin: There's a ladder on this
+square. Ellen: OK. Go up the ladder. Nisrin: Where
+to? Ellen: To six. Now it's my turn." L6: find the
+differences for **punctuation** — the game's rules
+printed correctly against the same rules in small
+letters with no marks; Look! "a = small letter · A
+= capital letter · . = full stop · , = comma · ? =
+question mark".
+
+**Revision 2 (pp.56–57).** L1: "Look and remember"
+— one big cutaway picture of a sports centre
+(football, basketball, table tennis, an office, a
+changing room, fishing and cycling outside) to study
+and then talk about from memory. L2: Nisrin's
+self-introduction as a **picture rebus** to read,
+then "Write. I'm …" — your own; a Nisrin–Hana
+dialog ("Do you like this dress? — No, not really.
+I don't like green. · Do you like these shoes? —
+Yes, I do. They're nice."); ask and answer over six
+clothes pictures marked ✓ or ✗.
+
+**Picture Dictionary (pp.58–60).** Clothes (10) ·
+Town (10) · Places (city, desert, mountain, river,
+town, valley, village) · "Have you got a …?" (the
+ten possessions) · Daily routine (get up, start
+school, finish school, go to bed) · "Do you like
+…?" (the ten activities — printed here as
+"listening to **music**" where Unit 7 says
+"listening to the **radio**") · Games (counter, go
+down, go up, ladder, move, spin, spinner).
+
+→ Filed/recorded from this book: colour mixing as
+sums (black + white = grey · red + white = pink);
+map symbols with a compass; the Sahara named in a
+there-is answer; the Beka Valley, the White Sea and
+the Yellow River; picture-rebus reading; short forms
+taught by find-the-differences (he's = he has ·
+I've = I have · isn't/aren't/don't/haven't) and
+capitals and punctuation taught the same way, with
+the marks named (small letter, capital letter, full
+stop, comma, question mark); letter names grouped
+by sound and played as characters (B C D E G P T V ·
+A H J K · I Y U W Q · F L M N S X); the clock-face
+past/to diagram with "just after" and "nearly";
+England-vs-Libya school times (half past 8 start,
+quarter to 4 finish · quarter past 7 start, 1
+o'clock finish); Snakes and Ladders with its rules
+and its playing talk; and how to make a spinner in
+seven steps. Acceptance counts unchanged — same
+country, an older simpler series spiralling the same
+basics.
+
+**Libya Grade 6 Pupils Book — READ COMPLETE
+2026-10-25.** Next per the queue: the Grade 6
+Activity Book (the grade's record holds no Teacher
+Book).
