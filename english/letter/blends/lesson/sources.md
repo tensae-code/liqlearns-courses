@@ -27,3 +27,20 @@ blend grows from two letters to three, still at the START of the
 word — this lesson's own thing, one step deeper. (Egypt Primary 2
 Term 2's END blends, -mp/-ft/-lt/-nd/-sk, stay a separate lesson,
 as recorded there.) Same country, deeper layer.
+
+---
+
+## Egypt, Primary 3 Term 2 (filed 2026-10-25 — book fully read, EGYPT-BOOK-MAP.md)
+
+- **The definition itself, stated by a book at last**: "A
+  consonant blend is when two or more consonants are joined
+  together, and you can still hear each sound." (Unit 1 phonics,
+  p.11) — the same rule this lesson teaches by ear from Egypt
+  Primary 1, now named in print at Primary 3.
+- **sl / st / gr / tr** sets (p.11), each with the book's own
+  how-it-sounds line ("Say /s/ + /l/ quickly: 'sl'"):
+  sl — slide, slow, slip, sleep · st — star, stop, step, stone,
+  stand · gr — green, grow, grass, grab · tr — tree, train, trip,
+  truck, trap.
+- Book's own naming: "Consonant Blends 'sl', 'st', 'gr', 'tr'"
+  (Scope and Sequence, p.4).

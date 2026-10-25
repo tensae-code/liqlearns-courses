@@ -53,3 +53,28 @@ vowel (kite–five–pen, rope–stone–fig). The same book also introduces
 final blends (-mp/-ft/-lt, -nd/-sk) — end blends, a different thing
 from this lesson's vowel families and from the Blends lesson's start
 blends; they are recorded in the Egypt map for their own lesson.
+
+---
+
+## Egypt, Primary 3 Term 2 (filed 2026-10-25 — book fully read, EGYPT-BOOK-MAP.md)
+
+The vowel-sounds depth this book adds (Units 2–5 phonics):
+- **ea and ee — the long-e team** (p.29): "Both 'ea' and 'ee' make
+  the long /iː/ sound, like in see" — ea usually in the middle:
+  eat, meat, beans · ee in the middle or at the end: cheese,
+  green, sweet, tree.
+- **Magic e** (p.48): "Some words have a magic 'e' at the end. It
+  doesn't make a sound, but it makes the vowel before it to say
+  its name" — mad → made, kit → kite, hop → hope. The CVCe pairs
+  complete the long-vowel families this lesson started from short
+  vowels: the silent e turns the short-vowel family word into its
+  long-vowel partner.
+- **R-controlled vowels er / ar / or** (p.67): "er like in
+  teacher" (computer, teacher, player, letter) · "ar like in car"
+  (car, star, park, guitar, farmer) · "or like in corn" (corn,
+  horn, fork, short, storm).
+- **Long and short oo** (p.83): "The letters 'oo' can be tricky
+  because they can sound different" — long oo /uː/: moon, zoo,
+  pool, food · short oo /ʊ/: book, foot, look, cook, wood, hook.
+- **Long and short ow** (p.90): long ow /oʊ/: snow, grow, window,
+  throw, know · short ow /aʊ/: cow, now, owl, how, brown.

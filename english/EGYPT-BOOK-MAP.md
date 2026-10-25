@@ -2135,8 +2135,8 @@ order.
 
 ## Still owed in this pass
 - DONE since: KG2 ✅, Primary 1 Term 2 ✅, Primary 2 Term 1 ✅,
-  Primary 2 Term 2 ✅, Primary 3 Term 1 ✅ (2026-10-25). Next:
-  Primary 3 Term 2 — one book at a time.
+  Primary 2 Term 2 ✅, Primary 3 Term 1 ✅, Primary 3 Term 2 ✅
+  (2026-10-25). Next: Primary 4 Term 1 — one book at a time.
 - Then map Primary 4–6, Preparatory 7–9, Secondary 10–12 the same
   way, one grade at a time.
 
@@ -3222,3 +3222,250 @@ heavily: the Sentence book of rules, and Term 4's story shelf).
 **PRIMARY 3 TERM 1 FULLY READ — 2026-10-25.** Egypt progress: 7 of
 26 English books read (KG1, KG2, P1 T1+T2, P2 T1+T2, P3 T1). Next:
 Primary 3 Term 2.
+
+---
+
+## Primary 3 Term 2 — read in full 2026-10-25 (all 112 pages, visually)
+
+Book facts (verified on disk 2026-10-25): `English_Prim3_Tr2.pdf`
+— 4,670,382 bytes, ends %%EOF, 112 pages, IMAGE-ONLY (no usable
+text layer) — read visually from rendered pages. Source: the MoE
+e-learning host (the same host the Telegram channel's P3 T1 message
+linked to):
+https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026/Primary/Primary3/Term2/StudentBook/English_Prim3_Tr2.pdf
+(The textbooks GitHub repo also secures this book; the host copy
+was fetched directly.) **Page rule: printed folio = PDF page.**
+Identity: cover "English / Primary 3 / Term 2 / 2025/2026" (p.1);
+© 2025 MoE (p.2); ministry message (p.3) — the Term 2 variant
+("Each unit features engaging fables inspired by Middle Eastern
+folklore"). Back page (p.112): print spec 112 pages (matches the
+PDF); book code 30/3/22/1/24/38; reviewed by Prof. Zeinab
+El-Naggar, Prof. Attia El-Sayed, Prof. Nagwa Younis, Dr. Mai Kamal,
+Ms. Amira Awaad; CACD curriculum team; general supervision Dr.
+Akram Hassan Mohammed; produced with Selah El Telmeez's Content
+Department; British Council + CACD marks. No ISBN printed.
+
+THE BOOK'S SHAPE: Scope and Sequence (p.4 — now with a "Life Skill
+(s) and Value (s)" column: Safety Awareness, Healthy Choices,
+Communication, Digital Literacy/Online Safety, Respect for Nature,
+Honesty/Integrity); six units, each opening with Learning Outcomes
+and closing with a star Self-Assessment (Always / Sometimes / Not
+yet); Review 1 after Unit 3 (pp.59–60); Review 2 after Unit 6
+(pp.106–108); Glossary (pp.109–111, ~95 words A–Y with one-line
+definitions; the book's reference line: "Webster Dictionary for
+kids"). Unit spans: U1 Safety pp.5–20 · U2 Food and Health
+pp.21–39 · U3 Heroes Around Us pp.40–58 · U4 Living with Technology
+pp.61–79 · U5 Animals & Habitats pp.80–95 · U6 The Honest Choice
+pp.96–105 (a STORY unit — no lessons, one whole story). EVERY
+reading text in this book carries a printed **Moral**, and the
+story word itself is taught: Tip (U1) — "Moral is the lesson
+learned from a story."
+
+THE GRAMMAR SPINE (Language in Use boxes, book order):
+1. **Imperatives** (p.8): "Imperatives are short instructions used
+   to tell someone what to do or not to do… Use the base form of
+   the verb for positive instructions. Add don't before the base
+   form of the verb for negative commands" + the note that they
+   end with an exclamation point "because they are strong
+   instructions."
+2. **Modals for Rules — must / mustn't** (p.14): "We use 'must'
+   and 'mustn't' to talk about rules. They tell us what we must do
+   and what we cannot do. Form: 'must'/'mustn't' + base form" —
+   must = very important or necessary; mustn't = not allowed.
+3. **Punctuation: Exclamation point (!)** (p.19): used "after
+   instructions that are very important" and "to show strong
+   feelings like surprise, excitement, or warning."
+4. **Reflexive Pronouns** (p.23): "We use 'reflexive pronouns'
+   when the subject and the object are the same person — For
+   example, when you do something yourself" — full table: I
+   myself · You yourself/yourselves · He himself · She herself ·
+   It itself · We ourselves · They themselves. (The pronouns
+   lesson's deepest layer yet; P3 T1 gave my/his/her.)
+5. **Countable and Uncountable Nouns** (p.36): countable — "We can
+   count them (one, two, three…). Use a / an for one item: an
+   apple, a carrot. Use numbers for more: two eggs, three
+   sandwiches"; uncountable — "We cannot count them individually.
+   Use some for a part of it: some rice, some water" (milk, rice,
+   pasta, soup, honey, water). Deepens P2 T2's "Nouns = person,
+   place, thing" into the counting split, with a/an/some.
+6. **Adverbs of Sequence** (p.43): "Use 'first' and 'then' to show
+   order — First: what happens at the beginning · Then: what
+   happens next." (T1's linking-words set, named as a kind.)
+7. **Coordinating conjunctions and / but / or** (p.64), each with
+   the book's own gloss: and "expresses addition" · but "shows
+   contrast" · or "gives a choice" (the T1 Note's then/but/and,
+   completed and named).
+8. **Will & Will not** (p.72): "Form — Will/will not + the base
+   verb. Will — use it to say something you will do in the future.
+   Won't — use it to say something you will not do in the future"
+   + Tip: "When writing will not, we often use the short form
+   won't." (The future arrives — Term 3's "going to" slot gains
+   its first full book rule.)
+9. **Adjectives** (p.83): "Adjectives are words that describe
+   nouns (people, places, or things). We use them to describe
+   animals and their homes" + Tip (p.86): "Adjectives tell us more
+   about nouns" (furry bear, sharp claws, strong legs, fluffy
+   feathers).
+10. **Can & Cannot (can't)** (p.91): "We use 'can' to talk about
+    abilities… We use cannot (can't) to talk about things you are
+    not able to do" + Note: cannot's short form is can't.
+
+THE PHONICS SPINE:
+- **Consonant Blends /sl/ /st/ /gr/ /tr/** (p.11) — with the
+  DEFINITION stated: "A consonant blend is when two or more
+  consonants are joined together, and you can still hear each
+  sound": sl slide slow slip sleep · st star stop step stone stand
+  · gr green grow grass grab · tr tree train trip truck trap.
+  → Blends sources.
+- **"ea" and "ee"** (p.29): "Both 'ea' and 'ee' make the long /iː/
+  sound, like in see" — ea usually in the middle (eat, meat,
+  beans); ee in the middle or at the end (cheese, green, sweet,
+  tree). → word-families sources (long-e team set).
+- **Magic e** (p.48): "Some words have a magic 'e' at the end. It
+  doesn't make a sound, but it makes the vowel before it to say
+  its name" — mad→made, kit→kite, hop→hope. → word-families
+  sources: the CVCe pairs complete the long-vowel families.
+- **R-controlled vowels er / ar / or** (p.67): er like in teacher
+  (computer, teacher, player, letter) · ar like in car (car, star,
+  park, guitar, farmer) · or like in corn (corn, horn, fork, short,
+  storm). → word-families sources.
+- **Long and short "oo"** (p.83): "The letters 'oo' can be tricky
+  because they can sound different. Sometimes they are long, like
+  in 'moon', and sometimes short, like in 'book'" — long oo /uː/:
+  moon, zoo, pool, food · short oo /ʊ/: book, foot, look, cook,
+  wood, hook. → word-families sources.
+- **Long and short "ow"** (p.90): long ow /oʊ/: snow, grow,
+  window, throw, know · short ow /aʊ/: cow, now, owl, how, brown.
+  → word-families sources.
+
+UNIT 1 — SAFETY (pp.5–20)
+- L1 Safety at Home (pp.6–9): dangerous, rules, emergency,
+  careful, hurt, safe (the emergency phone picture shows **122** —
+  Egypt's number); Mother–Ali dialog; the Imperatives box; reading
+  text with Moral + the "Moral is the lesson learned from a story"
+  Tip.
+- L2 Safety in the Street (pp.10–12): street, cross, stop, wait,
+  walk, helmet, signs, stranger; Mona–Dad dialog; the blends
+  phonics; "Crossing the Street Safely" (Moral).
+- L3 Staying Safe Everywhere (pp.13–16): policeman, seat belt,
+  ambulance, first aid; the must/mustn't box; story "Help is Here!"
+  (Lina and the kitchen smoke; Moral); pair work names 122 again.
+- L4 My Safety Guide (pp.17–20): story "Let's Stay Safe" (Tia and
+  Sally; **nodded** bolded as a new word); the exclamation-point
+  box; Safety Guide Poster project.
+
+UNIT 2 — FOOD AND HEALTH (pp.21–39)
+- L1 Food for Energy (pp.22–25): food facts text (energy, protein,
+  vitamins, sugar, water); the Reflexive Pronouns box; Seleem
+  text (reflexives at work; Moral).
+- L2 Healthy and Unhealthy Food (pp.26–30): healthy set with
+  nutrient lines (milk–bones, cheese–calcium, rice–energy, nuts–
+  fats, eggs–protein, bread–carbohydrates, chicken, fish–brains)
+  and unhealthy set (sweets, soda, chips, fries, cookies, cake,
+  pizza, lollipops); Maya–Salma dialog ("What do you usually eat
+  for breakfast?"); the ea/ee phonics.
+- L3 Staying Healthy (pp.31–33): exercise, wash, clean, stay,
+  rest, medicine; "Maya Learns to Take Care of Herself" (Moral).
+- L4 Our Healthy Plan (pp.34–39): yogurt, honey, soup, breakfast,
+  lunch, meal, dinner, snack, menu; the Countable/Uncountable box;
+  "Omar's Healthy Menu" (Moral); Healthy Day Menu project.
+
+UNIT 3 — HEROES AROUND US (pp.40–58)
+- L1 My Hero (pp.41–45): hero words WITH printed definitions —
+  hero (someone who does something special, good, or brave) ·
+  brave (shows courage in hard times) · strong (can do difficult
+  things easily) · kind (being nice and caring about others) ·
+  smart (solves problems well); swimmer dialog; the Adverbs of
+  Sequence box; "The Brave Firefighter" (Khaled; Moral).
+- L2 Heroes in Our Daily Life (pp.46–49): helpful, rescue,
+  uniform, teaches; Doctor Ali dialog; the Magic e phonics;
+  "Officer Asmaa — The Helpful Policewoman" (Cairo; Moral).
+- L3 Hero Stories (pp.50–54): support, inspire (the book names Mo
+  Salah: "Mo Salah inspires me to play football"), leader,
+  courage, honest (+ printed meanings p.51); flood-girl dialog
+  told in First/Then; "A Helping Hero" (Heba; Moral).
+- L4 Celebrating Our Heroes (pp.55–58): athlete, respect, event,
+  medal; "The Gold Medal" — **Feryal Ashraf**, a real Egyptian
+  athlete, named with her gold medal (Moral: hard work brings
+  success).
+
+UNIT 4 — LIVING WITH TECHNOLOGY (pp.61–79)
+- L1 What is Technology? (pp.62–65): computer, tablet, phone,
+  robot, TV; Ali–Omar dialog ("Robots can help people, but they
+  can't think like humans"); the and/but/or box; "Samy's Smart
+  Start" (Moral).
+- L2 Technology in Our Daily Life (pp.66–69): search, camera,
+  apps, games, emails (apps defined in a T/F item: "small
+  programs for phones or tablets"); the er/ar/or phonics; "The
+  Busy Player" (Moral: use technology in a balanced way).
+- L3 Using Technology Safely (pp.70–74): screen, button,
+  keyboard, password, virus, harm; Amina–Marwa dialog (strong
+  password = numbers and letters; never share with strangers);
+  printed definitions (virus — "harmful program that can damage
+  your computer"; password — "letters and numbers you type to
+  unlock something"); the Will/Won't box; "The Secret Password"
+  (Moral: keep your information private).
+- L4 Technology in the Future (pp.75–79): drone, smart home,
+  robot, internet; Hassan–Ahmed dialog; "The Drone Delivery" (set
+  in 2050; Moral: technology is fast, but family is the best).
+
+UNIT 5 — ANIMALS & HABITATS (pp.80–95)
+- L1 Discovering Habitats (pp.81–84): habitat, ocean, wild,
+  desert, forest — defined inside the teacher dialog ("A habitat
+  is where animals live"; "Wild means animals that live in nature
+  and not owned by people"; "The ocean is big and salty"); the
+  oo phonics; the Adjectives box; fable "The Curious Fox" (Moral).
+- L2 Describing Animals (pp.85–88): fur, feathers, hoof, nest,
+  paw, claws, tail; body-parts text; the adjectives Tip; the
+  guess-the-animal game; "The Squirrel's Home" (Squeaky; bushy,
+  branches, cozy, gathered bolded).
+- L3 What Can Animals Do? (pp.89–92): shelter, survive, crawl,
+  fly, swim — defined in the Noha–Maya dialog ("A shelter is a
+  safe place where animals stay"; survive "means to stay alive");
+  the ow phonics; the Can/Can't box; fable "The Helpful Owl"
+  (Moral).
+- L4 Protecting Nature (pp.93–95): nature, protect ("It means to
+  keep something safe"); "The Helping Hands" (Moral).
+
+UNIT 6 — THE HONEST CHOICE (pp.96–105) — a whole STORY unit
+Outcomes are story skills: retell the sequence · name characters,
+setting, events · discuss the moral. Vocabulary taught first as a
+table WITH printed meanings and pictures (pp.97–98): backpack (a
+bag for carrying books) · nervous (worried, not relaxed) · whisper
+(to speak very quietly) · copy (to write the same thing) ·
+cheating (doing something dishonest) · truth (saying what is real
+and true) · break (a stop for a short rest) · choice (a decision
+you make). A printed **Story map** (p.98): Characters — Lina (a
+student, 8 years old), Miss Salma (the teacher), Nour (Lina's
+classmate, 8 years old); Setting — the school. The story
+(pp.99–101): Lina forgot her math homework; Nour whispers that she
+can copy hers; Lina shakes her head — "That is not right. I should
+tell the truth. Cheating is wrong." — tells Miss Salma, is thanked
+and given until tomorrow; at break she admits she was scared, and
+Nour resolves to be honest too. Printed Moral (p.101): "Honesty is
+always the best choice, even when it is difficult." Follow-up work
+(pp.102–105): who-said-this, event ordering, word search,
+sentences about honesty. — The Story title's fullest single-book
+unit yet: story parts (Characters / Setting / Moral) named again
+after P2 T2, now with a printed story map.
+
+THE BOOK'S OWN SLIPS, recorded as printed: the punctuation
+exercise on p.78 numbers its items 1, 3, 4 (no item 2); U3's Heba
+questions ask "What did Heba help build?" where the text says she
+helped build hospitals only in the exercise's own answer options,
+not in the story text itself.
+
+Filed from this read: Blends sources (the stated blend definition
++ sl/st/gr/tr, p.11); word-families sources (ea/ee p.29 · magic e
+p.48 · R-controlled er/ar/or p.67 · long/short oo p.83 · long/short
+ow p.90). The rest — imperatives, must/mustn't, exclamation point,
+reflexive pronouns, countable/uncountable + a/an/some, sequence
+adverbs, and/but/or as named conjunctions, will/won't, adjectives
+as a named kind, can/can't, and the safety / food / heroes /
+technology / animals word sets plus sixteen moral-carrying texts
+and one whole story unit — is recorded here and slotted in
+CURRICULUM.md. Primary 3 is now COMPLETE (both terms).
+
+**PRIMARY 3 TERM 2 FULLY READ — 2026-10-25.** Egypt progress: 8 of
+26 English books read (KG1, KG2, P1 T1+T2, P2 T1+T2, P3 T1+T2).
+Next: Primary 4 Term 1.

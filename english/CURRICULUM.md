@@ -97,6 +97,19 @@ verb-ing, for actions happening now (U6)**. It also feeds Term 2
 (describing people — looks and personality, U1; daily routines with
 clock times, U1) and Term 4 (thirteen finished short stories, U1–U6,
 + story parts in play: problem and solution, U5).*
+*(Egypt Primary 3 Term 2, read 2026-10-25, stocks this term further
+and completes Primary 3: **imperatives** — the book's own form rule
+(U1) · **must / mustn't for rules** (U1) · the **exclamation point**
+(U1) · **reflexive pronouns** with the full -self/-selves table (U2)
+· **countable / uncountable nouns + a, an, some** (U2) · **adverbs
+of sequence — first, then** (U3) · **and / but / or named as
+joining words with their jobs** — addition, contrast, choice (U4) ·
+**will / won't for the future** — the "Later" leg's first full book
+rule (U4) · **adjectives named as a kind** (U5) · **can / can't for
+abilities** (U5). It also stocks Term 4: a whole STORY unit — The
+Honest Choice — with a printed story map (characters, setting) and
+the moral named as a story part (U6), and sixteen moral-carrying
+texts across the book.)*
 
 ## Term 4 — Paragraphs, essays, and stories
 *End of term: the learner reads whole texts, writes paragraphs and a
