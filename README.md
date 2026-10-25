@@ -106,6 +106,15 @@ liqlearns-courses/
   page, inside the lesson. Never a link away to another website. A shown
   page is proof, not a download — the book file is never handed out (see
   the no-downloads rule at the top).
+- BUILD FROM FINISHED COUNTRIES ONLY — THEN UPDATE (2026-10-25, his
+  order, settling the source question): a course is built only from the
+  books of countries that are FINISHED in the library (every book found
+  AND secured in GitHub — his definition of finished). Every country is
+  still the end goal of every course. As the library is updated — a new
+  country finishes — the courses are updated with it: that country's
+  books merge into the lessons, and the acceptance counts grow. A
+  country that is only closed (found, not yet secured) does not enter a
+  course until it finishes.
 - TITLES USE THE COMMON-SENSE NAME OF THE THING ITSELF (2026-10-25, his
   order): a title is what the part IS — Greetings, Alphabet, Words
   (nouns, verbs, and the other word kinds), Sentence, Paragraph, Letter —

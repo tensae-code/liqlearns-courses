@@ -1,10 +1,11 @@
 # English course — Egypt first pass: the book map
 
 Decided 2026-10-25: the reading started with ONE finished country's
-English books — Tensae picked Egypt. Corrected by him the same morning:
-the English course, like every course, is built from EVERY country's
-English books — a country not being finished does not block its books.
-Egypt is the first layer read, not the only source.
+English books — Tensae picked Egypt. Settled by him the same morning:
+courses are built from the FINISHED countries' books only, and updated
+as the library updates — when another country finishes, its English
+books merge into this course and the counts grow. Egypt is the first
+finished country in, not the only one there will be.
 
 **The secured Egypt English set (26 books, all finished in the library):**
 KG1 Term 1 · KG2 Term 1 · Primary 1–6, Term 1 + Term 2 · Preparatory 7–9,

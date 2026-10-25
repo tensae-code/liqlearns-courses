@@ -21,13 +21,14 @@ PDF page holds two book pages. Both numbers are given.
 | "Listen, point, and mark the matching picture": Hello! / Goodbye! / shake hands / play — and the match-the-word-to-the-picture exercise (play, goodbye, friends, shake hands, hello) | PDF p.11 (book p.11) |
 
 **Acceptance count for this first pass: taught in 1 country (Egypt).**
-This lesson is the first layer. The course is built from EVERY country's
-English books (his ruling, 2026-10-25) — finished or not, a country's
-books count. As the same part is merged from each country's book, its
-name joins this list and the count grows — that count is the acceptance
-points. Next merge targets for this lesson: Ethiopia (Grade 1 English
-student book secured, teacher guides staged), Bangladesh, Libya, India,
-Ghana and every other country whose early English book teaches greetings.
+This lesson is the first layer. Courses are built from FINISHED
+countries' books only (his ruling, 2026-10-25), and updated as the
+library updates: when a country finishes, its books merge in, its name
+joins this list, and the count grows — that count is the acceptance
+points. The finished countries whose early English books teach greetings
+merge next: Libya, India, Bangladesh, Ghana, Palestine, Nicaragua,
+China and the rest of the finished 15. Closed-but-not-finished
+countries (Ethiopia among them) join this lesson when they finish.
 
 **What is NOT in this lesson yet:** Egypt teaches greetings only in this
 one book at this level, so nothing was merged or folded in this pass.
