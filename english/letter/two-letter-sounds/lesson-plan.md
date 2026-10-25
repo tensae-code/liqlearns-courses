@@ -1,0 +1,89 @@
+# Lesson plan — Two-letter sounds
+
+**Course:** English · **Title:** Letter · **Lesson:** Two-letter sounds
+**Place in the curriculum:** Year 1, Term 1, Unit 2 "Sounds Together"
+— after Blending sounds (CURRICULUM.md).
+**The one thing this lesson teaches:** two letters that together make
+ONE sound — ch, sh, th — a sound neither letter owns alone.
+
+A lesson plan also says **what goes on top of the lesson**: at the
+exact places marked below, the lesson page carries an add-on — an
+image, a GIF, a video, an audio. Every slot is written as **"a picture
+of …" in words, plus one little line saying what the student does
+with it**. The words carry the picture while the course is built and
+while the AI learns from the books; on the website the real add-on is
+dropped into that slot and the little explanation stays as the
+student's guide. Images follow the picture rule (a real photograph,
+or real art, with its source).
+
+## Before this lesson
+- The alphabet and Blending sounds: single letters and their sounds
+  first. Recommended, never forced.
+
+## What the learner can do when it ends
+1. Say the sound of each pair in the book's sets: ai · oa · ie · ee ·
+   or · ng · oo · ch · sh · th · qu · ou · oi · ue · er · ar.
+2. Name the two two-job pairs (oo and th) and say both jobs of each,
+   with the book's words (spoon/foot; mouth/father).
+3. Use the cover test to tell a two-letter sound from a blend.
+
+## What you need
+Paper and a pencil. A finger to cover letters with.
+
+## The run of the lesson (in order)
+1. **Do it first** — say the sound of c, then of h, then the book's
+   way: ch, as in "chair"; then sh (lesson/lesson.md).
+   - ADD AUDIO at the top of the lesson: c alone, h alone, then ch
+     in "chair," then sh — the student says each one after it and
+     hears that the pair is a new sound, not the two alone.
+2. **The explanation** — the pairs set by set the way Libya's Grade 1
+   book teaches them (Units 5–8), the Grade 2 spiral, Egypt's qu, and
+   the cover test (lesson/lesson.md).
+   - ADD IMAGE under the sets: a picture of pair cards — each card
+     holds two letters holding hands and one word under them (ch —
+     chair, sh — ship, th — three) — the student points at a card
+     and says its one sound.
+   - ADD IMAGE at the cover test: a picture of a hand covering the h
+     in CHAIR, showing the c that is left is not the word's sound —
+     the student does the same cover test with their own finger on
+     the book's words.
+3. **Say it to your companion** — name the two two-job pairs and both
+   jobs of each; explain the cover test in your own words.
+   - ADD VIDEO: the script in questions/video-script.md, filmed —
+     the pairs said one by one with their words, in the super-simple
+     voice (made later, when videos are made).
+4. **Questions** — from questions/: multiple-choice, short-answer,
+   fill-in-the-blank, true-or-false, matching — served at the
+   learner's level and teaching-mix (questions/levels.md).
+5. **Hands-on** — questions/hands-on.md.
+6. **Do It Yourself** — write the pairs in their book sets and say
+   each sound three times; find the pair inside spoon · foot · mouth
+   · father · queen; mark the hardest pair.
+
+## Add-ons for this lesson (the full list)
+- AUDIO — c, h, then ch and sh → the student repeats and hears the
+  pair is one new sound.
+- IMAGE — a picture of pair cards with their words → the student
+  points and says each pair's sound.
+- IMAGE — a picture of the cover test on CHAIR → the student covers
+  letters with their own finger and tests the book's words.
+- VIDEO — the video-script filmed (made later) → the student says
+  each pair along with it.
+
+A slot the builder cannot fill yet stays in the plan as a slot — the
+plan is the build sheet, so nothing the lesson needs gets forgotten.
+
+## If the learner is stuck
+- Reads ch as "k-h" → back to Do it first: the pair is one sound;
+  neither letter is saying its own name inside it.
+- Mixes this lesson with Blends → the cover test settles it: in a
+  blend both sounds survive covering; here they don't.
+- Egypt Primary 2 Term 1 teaches th (both voices), sh and ch as
+  their own phonics sets a year up — filed in this lesson's sources.
+
+## Teacher note
+The full text is lesson/lesson.md; every part traces to a book and
+page in lesson/sources.md (Libya Primary 1 Units 5–8 and the Primary
+2 spiral; Egypt Primary 1 Term 2's qu; Egypt Primary 2 Term 1's th /
+sh / ch sets). A teacher sending this lesson sends the lesson and its
+question list as they are — choosing, not remaking.
