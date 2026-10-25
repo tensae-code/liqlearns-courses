@@ -1,7 +1,10 @@
-# Greetings — the lesson
+# Hello and your name — the lesson
 
-Course: English (skill course) · Title: Welcome to My School · Lesson: Greetings
-Built from: Egypt, English Language Primary 1 Term 1 — Unit 1, Lesson 1.
+Course: English (skill course) · Title: Greetings · Lesson: Hello and your name
+Built from: Egypt, English Language Primary 1 Term 1 — Unit 1 "Welcome to
+My School", Lesson 1 "Greetings". (The book's own unit name stays a source
+tag, per the title-naming rule — course titles use the common-sense name
+of the thing itself: Greetings.)
 This is the level-1 layer: the first thing Egypt's Grade 1 book teaches.
 
 ## Do it first

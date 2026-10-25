@@ -37,7 +37,9 @@ Lesson 2 Phonics (Tt/Ii) · Lesson 3 · Lesson 4 — full lesson-by-lesson
 breakdown gets recorded here as each unit is worked through.
 
 ## Built so far
-- welcome-to-my-school/greetings/ — Unit 1, Lesson 1 (see its sources.md)
+- greetings/hello-and-your-name/ — built from Unit 1, Lesson 1 (see its
+  sources.md). Title = the common-sense name (Greetings), not the book's
+  unit name — per his title rule, 2026-10-25.
 
 ## Still owed in this pass
 - Read KG1/KG2 and Primary 1 Term 2 as pictures (image-only PDFs — OCR

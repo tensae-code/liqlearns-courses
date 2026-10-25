@@ -106,6 +106,15 @@ liqlearns-courses/
   page, inside the lesson. Never a link away to another website. A shown
   page is proof, not a download — the book file is never handed out (see
   the no-downloads rule at the top).
+- TITLES USE THE COMMON-SENSE NAME OF THE THING ITSELF (2026-10-25, his
+  order): a title is what the part IS — Greetings, Alphabet, Words
+  (nouns, verbs, and the other word kinds), Sentence, Paragraph, Letter —
+  never a book's unit name ("Welcome to My School" is Egypt's unit name,
+  not a course title) and never a story or character name from a book
+  (no "Hana" titles). The book's own name for the part stays where it
+  belongs: in sources.md and as a searchable tag in its own language.
+  This is the "named by what most countries call that part" rule, said
+  plainer: if most books teach it, they call it by what it is.
 - QUESTIONS LIVE IN SEPARATE FILES BY TYPE (2026-10-25, his order): for
   questions, create different files — one for choice, another for short
   answer, another for fill-in-the-blank, and so on. One question type per
