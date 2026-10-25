@@ -331,9 +331,23 @@ Book page = PDF page − 4, same as KG1.
 - p.30 **Unit 1 Review** — trace Kk/Jj and match to their actions;
   circle what you can do; color number 1 red, number 2 blue
 
-### KG2 Unit 2 — started (book pp.31–32)
+### KG2 Unit 2 — page by page (book pp.31–40 so far)
 - p.31 Opener: "What will I wear today?" (wardrobe scene)
 - p.32 "I'm wearing shoes and socks." / "My dress is red."
+- p.33 "I'm wearing a cap." / "I have a yellow T-shirt."
+- p.34 **Lesson 1: Clothing Items** — T-shirt, cap, shoes, skirt,
+  socks, dress, shorts, pants
+- p.35 Practice: say, trace the outline, then color (T-shirt, shorts,
+  shoes) · p.36 Practice: ✓/✗ — does the sentence match the picture?
+  ("This is a yellow cap" over a red cap…) — reading whole sentences
+  now, and judging them
+- p.37 "Your Color, Your Creation!" — color the T-shirt or the dress
+  in your favorite color
+- p.38 **Lesson 2: Letters and Sounds** — Dd (Dina, dress, donkey)
+  and Mm (Mazen, mug, mommy) side by side
+- p.39 Letter Formation Directions for Dd/Mm · p.40 Practice: trace
+  Dd; circle the beginning letter (footer: "Refer to page 113 to
+  make your own poster")
 
 ## Still owed in this pass
 - Finish KG2, then Primary 1 Term 2 — one book at a time.
