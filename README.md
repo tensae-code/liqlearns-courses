@@ -106,6 +106,12 @@ liqlearns-courses/
   page, inside the lesson. Never a link away to another website. A shown
   page is proof, not a download — the book file is never handed out (see
   the no-downloads rule at the top).
+- ONE BOOK AT A TIME, ONE FILE PER BOOK (2026-10-25, his workflow
+  rule): download a book, read it, create its file (english/books/
+  <country>.md), and fill the file as the reading finds things; a
+  book is finished — whole map read, every basic filed into its
+  lesson — before the next book starts. No parallel half-reads
+  spread across countries.
 - PENCIL AND LINES — A NORMAL COURSE, PREREQUISITE BEFORE EVERY
   LANGUAGE (2026-10-25, his ruling): holding a pencil and drawing /
   understanding lines is not a side lesson inside English. It is its

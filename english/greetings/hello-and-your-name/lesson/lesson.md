@@ -51,6 +51,14 @@ Goodbye." — and the name question, "What's your name?" answered with
 "I'm ___." Two countries, the same shape. That is what "taught in many
 countries" looks like when it starts.
 
+Nicaragua opens its whole Grade 1 book with greetings — Week 1, before
+any unit. It teaches the same shape with two hands: your **right hand
+says Hello** (color it green), your **left hand says Goodbye** (color
+it red). And it starts the name sentence right there: "What's your
+name? — My name is ___," and has you trace the words with your pencil.
+Three countries now, one shape: hello opens, names in the middle,
+goodbye closes.
+
 ## Say it to your companion
 Read the Maya and Hana talk out loud, both parts. Then do it again with
 your own name in it. Explain to your companion: what are the three parts

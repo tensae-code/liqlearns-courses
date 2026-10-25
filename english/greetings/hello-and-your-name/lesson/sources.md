@@ -30,15 +30,28 @@ Libya; verified on disk: %PDF, 130 pp).
   (My Family), Lesson 1 opening — Book Map, PDF pp.5–6; Unit 2
   "Now I can… say greetings, ask and answer about names" — PDF p.29.
 
-**Acceptance count: taught in 2 countries (Egypt, Libya).**
+**Third country merged 2026-10-25 — Nicaragua:**
+Inglés, Activity Book 1, Grade 1 (MINED, Nicaragua; verified on disk:
+%PDF, 9,689,824 B, 53 pp; book read complete — see
+english/books/nicaragua.md; Muse spot-checked p. 4 against the
+rendered page the same day).
+- Week 1 (Adjustment Period), p. 4: "Listen, say and color" — Hi /
+  Goodbye; What's your name? / My name's; plus Activity 2: color the
+  hands — left hand Goodbye = red, right hand Hello = green — and
+  trace the cursive words Goodbye / Hello.
+- "My name is ___," complete the sentence, p. 5.
+- Unit 1 "Greeting and Numbers," p. 14 (Hello/Hi, Goodbye/bye tracing;
+  "What's your name? / My name's" tracing strips, p. 16).
+
+**Acceptance count: taught in 3 countries (Egypt, Libya, Nicaragua).**
 This lesson is the first layer. Courses are built from FINISHED
 countries' books only (his ruling, 2026-10-25), and updated as the
 library updates: when a country finishes, its books merge in, its name
 joins this list, and the count grows — that count is the acceptance
-points. The finished countries whose early English books teach greetings
-merge next: Libya, India, Bangladesh, Ghana, Palestine, Nicaragua,
-China and the rest of the finished 15. Closed-but-not-finished
-countries (Ethiopia among them) join this lesson when they finish.
+points. Still to merge as their books are read, one at a time: India,
+Bangladesh, Ghana, Palestine, China and the rest of the finished 15.
+Closed-but-not-finished countries (Ethiopia among them) join this
+lesson when they finish.
 
 **What is NOT in this lesson yet:** Egypt teaches greetings only in this
 one book at this level, so nothing was merged or folded in this pass.
