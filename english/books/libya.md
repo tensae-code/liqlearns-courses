@@ -513,7 +513,12 @@ Downloaded from the grade-02 library record's own URLs
   as rendered pages, the Egypt way — all 122 pages).
   **Page rule: book p. = PDF p. − 1** (printed page number
   at the foot).
-- Activity Book / Teacher Book: queued behind it, one at a time.
+- Activity Book: 94 pp, 17,904,800 B — **READ COMPLETE
+  2026-10-25** (real text layer + all pages rendered and the
+  picture-led pages checked as images). **Page rule: book
+  p. = PDF p. − 1**, same as the Pupils Book. Black-and-white
+  inside; the A–Z strip runs down most pages.
+- Teacher Book: next in the queue, one book at a time.
 
 Course: **"21st Century English for Libya — Primary 2 Pupil's
 Book"**, State of Libya, Ministry of Education, CERC; published
@@ -939,5 +944,264 @@ posters, picture cards, word cards), www.englishforlibya.com,
 printed by International Press, Lebanon; code 10010203.
 
 **Libya Grade 2 Pupils Book — READ COMPLETE 2026-10-25.**
-Next book: Libya Grade 2 Activity Book (per the reading
+
+## Activity Book Grade 2 — unit by unit (book pages)
+
+The Pupils Book's practice twin, in black and white: the same
+eight units, eight lessons each (Contents: U1 p.4 · U2 p.12 ·
+U3 p.22 · U4 p.30 · U5 p.40 · U6 p.48 · U7 p.56 · U8 p.66 ·
+Picture/Word Cards p.75). Where the Pupils Book *says* the
+language, this book makes the child *write* it — and it
+quietly adds language of its own, marked below.
+
+### Unit 1 "The Alphabet" (book pp.4–11)
+L1: trace and complete the dialog — "How old are you? I'm
+___." — colour pairs (orange and yellow · pink and blue),
+count and trace numbers to 10. L2–L7: trace each sounds
+group in smalls and capitals (s a t p · i n c k · e h r m d ·
+g o u l · f b j w v · y x q z), L5 also tracing whole words
+(umbrella, orange, girl, lemon). L8: a **word search** —
+find girl, zebra, lemon, apple, taxi, monkey, rabbit, van,
+dog, yo-yo in the letter grid (the year's word-hunt device,
+first here).
+
+### Unit 2 "About Me" (book pp.12–21)
+L1 (two pages): trace "Hello. I'm ___." and "What's your
+name?"; draw by joining letters a→z in order; trace and
+copy **oa** (boat, coat) and fill the missing letters
+(b__t, c__t); count — "How many?" L2: count and circle the
+right number (keys, eggs, monkeys, vans, fish, zeros);
+trace and match letters. L3–L4: read and circle the right
+word for each picture (bin / ball / bus · elephant / egg /
+ear · hand / cat / head · mouth / eyes / egg · eyes / net /
+nose · lemon / moon / legs · hands / hair / legs · eyes /
+ears / elbow). L5: match the action phrases (stand up, sit
+down, hands up, hands down, turn around); trace "Clap
+your hands. Stamp your feet." L6: match and write first
+letters (_ate, _ose, _ion, _axi — gate, nose, lion, taxi);
+count and write; say and circle the odd letter sound. L7:
+trace, match and write **oo · th · ch · sh**, completing
+words (three, fish, sheep, cheese, book, moon). L8: look
+and circle — pick the word that matches each picture from
+pairs (bag/book, glue/goat, rocket/ruler, bird/bag,
+pencils/pens, cheese/chair, dog/desk, rabbit/rubber,
+pencil case/pizza, bin/book, cat/clock, board/bus).
+
+### Unit 3 "Healthy Food" (book pp.22–29)
+L1: match the fruit words to pictures; colour, count and
+write the numbers. L2: tick and say "I like …"; write with
+missing letters — "**I like b_n_n_s. · I don't like
+gr_p_s.**" (sentence writing starts here). L3: write the
+missing letters in café words (p_zza, b_rger, wat_r, _ake,
+mang_, p_ar); then choose **like / likes** — "I ___ like
+burgers. He ___ sandwiches. She ___ juice. We ___
+milkshakes. Dad ___ water. Mum ___ cake." (the he/she -s,
+practised in writing). L4: write **a / an** before eleven
+foods (an orange given; banana, watermelon, mango, apple,
+ant, pear, strawberry, ice-cream, lemon); "What is it?
+It's ___."; read and circle. L5: word search (pizza,
+water, burger, milk, sandwich); ask and answer "Do you
+want an apple? — Yes, please." L6: match "I'm hungry. /
+I'm thirsty." to what Muna and Al-Hadi want; complete the
+offering dialog from a word box (juice, Thank you, you,
+please): "I'm thirsty. — Do you want **some** juice? —
+Yes, ___. — Here ___ are. — ___." L7: trace the dotted
+**or · ie · ng · ou** with stroke dots; copy and complete
+— f**or**k, t**ie**, ri**ng**, m**ou**se. L8: look and
+write the healthy-plate words, dotted letters fading
+inside each word (apple, chicken, bread, banana, fish,
+cheese, orange, steak, eggs).
+
+### Unit 4 "My Home" (book pp.30–39)
+L1: tick or cross on read sentences — "**There is a desk
+in the room. There is a ball on the desk. There is a cat
+under the bed. There is a kite under the desk.**" (There
+is …, worked in writing). L2: read and write in / on /
+under; complete "The rabbit is ___ the hat." three ways.
+L3: complete sentences with the room words — "Mum is in
+the ___." (sitting room, bedroom, bathroom, kitchen) —
+and complete the words inside questions: "**Is dad in the
+bathroom? — Yes, he is. · Is mum in the dining room? —
+Yes, she is. · Is Kareem in the bedroom? — No, he isn't. ·
+Is Muna in the kitchen? — No, she isn't.**" (short answers
+live here first). L4: complete with the positions,
+**between** included — "The table is ___ the bed and the
+wardrobe."; word search (lamp, bed, door, wardrobe,
+shelf, window). L5: look, read and write with all five
+positions; then Yes or No on four read sentences over a
+picture ("The bag is under the table. · The ruler is in
+the bag. · The yo-yo is on the table. · The flower is
+**between** the yo-yo and the watch."). L6: "**I can see
+…**" — tick what the big picture holds (a house, a cat, 4
+birds, a van, 2 girls, a door, 6 goats, a man, a dog, 2
+cars, 3 windows, a rabbit); complete the colour words
+with a, e, i, o or u (p_nk, r_d, bl_e, or_nge, yell_w).
+L7: read, draw and colour a five-sentence text — "This
+is my house. The door is blue. **My house has 4 windows.**
+The wall is pink. I have 6 flowers in my garden. I have
+a swing." L8: look and draw, then Right or Wrong on
+"I have 1 football. · I have 7 books. · I have 5 rockets.
+· I have 8 kites."
+
+### Unit 5 "My Clothes" (book pp.40–47)
+L1: read, match and colour — clothes named with their
+colours (a blue shirt, black trousers, a yellow hat, an
+orange skirt, a pink and white dress, a red T-shirt, red
+socks, grey shoes, green and white trainers). L2: read
+and match the clothes words; tick or cross on "Al-Hadi
+is wearing a shirt. Muna is wearing a skirt. Kareem is
+wearing a hat."; draw and write — "What are you wearing?
+I'm wearing ___ and ___." L3: read and tick big / small /
+long / short; write them — "The ball is big. Adam is ___.
+The trainers are ___. The dress is ___." L4: complete —
+"His trousers are short. His hat is ___. His T-shirt is
+___. His shoes are ___."; count and write — "There are 12
+books. There are ___ socks. There are ___ hats." L5: read
+and match describing sentences ("It is big. · It is small.
+· It has 4 legs. · It has long ears. · It is short. · It
+has two feet."); read, draw and colour ("2 short green
+socks · a long blue and yellow T-shirt"). L6: tick or
+cross on the has-sentences ("Muna has a flower. Adam has
+a watch. Kareem has a ball. Al-Hadi has a cat."); match
+capital letters to smalls A–L and colour. L7: complete —
+"**A spider has 8 legs. An ant has ___ legs. A horse has
+___ legs. A bird has ___ legs. A fish has ___ legs.**"
+(counting legs, written); read, draw and colour a **note
+from Muna**: "Hello Nadia — I have a new watch. It's red
+and blue. Al-Hadi has a new ball. It's big and orange. —
+Muna" with boxes to draw "**Muna's watch**" and
+"**Al-Hadi's ball**" (the possessive 's in writing). L8:
+read Kareem's self-introduction as a whole text — "My
+name is Kareem. I am 6. I have 1 sister. Her name is
+Muna. She is 7. I have 1 brother. His name is Al-Hadi." —
+then **Write about you**, with "My name is / I am / I
+have" started on the lines.
+
+### Unit 6 "Family Trees" (book pp.48–55)
+L1: Mum's Birthday party — read each family sentence and
+write the numbered person it fits: "He is my grandpa.
+She is my mum. She is my sister. He is my dad. She is my
+grandma. He is my uncle."; then "I can see …" tick or
+cross (3 flowers, a banana, some balloons, a door, 3
+girls). L2: read and match the describing sentences (He
+has black hair · He is tall · She is small · He is old ·
+They are short); **count and write — sums with dot
+pictures**: 9 + 7 = 16 · 7 + 7 = __ · 10 + 3 = __ · 9 +
+11 = __ (adding, inside the English book). L3: read and
+tick the place (at school / at home · at the café / at
+the fun park · at the market); circle the odd letter out.
+L4: write the number of each day (the week ordered
+Sunday-first); fill the missing numbers 1–20; more sums
+— 10 + 3, 11 + 5, 9 + 9, 10 + 10. L5: **draw and write
+your own family tree** — Mum, Dad, brother, sister, Me,
+each with a Name line — and read "Hello. I'm ___. This
+is my family tree." L6: a **dot-to-dot 1–20** ("What is
+it? Draw and colour."); write the missing letters in the
+unit's words (brother/sister, short/tall/long,
+brown/black/white, next to). L7: My Party — write your
+own lists under My party / My food / My drinks / My
+clothes; say and write number sequences (in ones, in
+twos, backwards from 12, down from 20). L8: match the
+half-sentences — "We go / We / We have / We visit" to
+"to the park · clean the house · a picnic · family" —
+choose and draw; then "**What's your name? Spell your
+name.** My name is ___. **Remember your name starts with
+a capital letter.**" (name-spelling and the capital rule,
+in writing).
+
+### Unit 7 "Hobbies And Talents" (book pp.56–65)
+L1 (two pages): read and match "I can fly. · I can play
+basketball. · I can swim. · I can ride a bike. · I can
+draw."; then a **class survey** — ask three friends "Can
+you …?" (swim, ride a bike, run fast, play football,
+**read English**) and tick or cross the grid for You /
+Friend 1 / Friend 2 / Friend 3; write a sentence: "I can
+___. My friend ___. ___." L2: read and tick can or can't
+against six pictures; complete the words with **a** or
+**u** (j_mp, dr_w, d_nce, pl_y, r_n — **dance** joins the
+action words). L3: "Can it climb? Can it jump? Can it
+run? Can it fly?" — Yes or No for fish, monkey, snake,
+bird; circle the right verb in the routine sentences
+("I **do** / draw my homework. · I play / **ride** my
+bike. · I **cook** / draw in the kitchen. · I do /
+**sleep** in my bedroom. · I **watch** / do TV in the
+sitting room."). L4: read and write **K** for Kareem or
+**M** for Muna — "She is Kareem's sister. He is Al-Hadi's
+brother. She is 7. He is small. She has brown hair. He
+can jump."; **write the names correctly** — scrambled
+names with one letter underlined (aumn → **Muna**, eemkar
+→ **Kareem**, dmaa → **Adam**, diha → **Hadi**, danai →
+**Nadia**) — "Now write your name!" L5: read and tick the
+describing and feeling sentences (She has short hair ·
+He is tall · She has long hair · He is old · They are
+happy · They are sad · He is small); "**How do you feel?
+Draw a face**" for doing homework, singing, playing
+football, riding a bike. L6: draw your afternoon. L7:
+read the action words; complete — "Adam can ___. Sally
+can't ___. Kareem ___."; say "I can … / I can't …" L8:
+trace each capital, then write its small letter — the
+whole alphabet as capital→small pairs; circle the odd
+one out in letter rows.
+
+### Unit 8 "Feelings" (book pp.66–73)
+L1: read and play — a guessing game in print: "**I want
+something. It begins with m. — Mango? — Yes. I want a
+mango.**" · "It begins with p. — Pear? — No. — Pizza? —
+Yes. I want a pizza." (the first letter as a clue). L2:
+the year's **crossword**, clues as little definitions —
+Across: "I like cheese and tomato in my …" (sandwich) ·
+"I like orange …" (juice) · "It's white. We drink it."
+(milk) · "It's long and yellow." (banana) · "It's a fruit.
+It is yellow and green." (pear); Down: "It's big, green
+and red." (watermelon) · "There are 8 candles on my
+birthday …" (cake) · "It can swim. I like to eat it."
+(fish) · "They are small and green or red." (grapes).
+L3: read and circle the feeling (She is sad / happy · She
+is thirsty / happy · He is hungry / sad); "How do you
+feel? Draw and write." L4: "**I can't find my …**" —
+trace and write where each lost thing is: "I can't find
+my football. **It's next to the tree.** · I can't find my
+keys. **They're on the table.** · I can't find my bag.
+It's ___ the chair. · I can't find my shoes. They're
+under ___. · I can't find my pencil. It's ___." (It's /
+They're, one thing / many things). L5: match and colour
+the fun-park words. L6: **read and draw** five sentences
+— "The shoes are under the table. · The ruler is in the
+bag. · The book is on the shelf. · The kite is between
+the bag and the table. · The bin is next to the chair."
+L7: write the clothes words (a dress, a T-shirt,
+trousers, a hat, shoes); read and colour a whole
+paragraph: "**Muna is wearing a green hat. She's wearing
+a blue dress. Al-Hadi is wearing a yellow T-shirt and
+red trousers. They are wearing black shoes.**" L8: "It's
+the end! How do you feel? — happy · fine · sad" — and
+the year's writing capstone, **Write an email to Adam**:
+"Hello Adam, / My name is ___. / I am ___. / I like ___. /
+I don't like ___. / I like to ___. / Goodbye!" — "Goodbye!
+Well done!" Book p.74 is blank.
+
+### Picture/Word Cards (book pp.75–91) + back cover
+Cut-out cards, as in Grade 1: number cards — the figures
+1–20 and the number words (one … twenty) — and word cards
+for the year's words, the Picture Dictionary list with
+**astronaut** added; the last card pages are blank.
+**Back cover**: the same five-components text as the
+Pupils Book; printed by International Press, Lebanon;
+code **10010204**.
+
+→ Filed/recorded from this book: the writing-first basics
+are held here for the Word and Sentence titles — like/
+likes in writing, a/an in writing, There is …, the Yes, he
+is / No, he isn't short answers, the capital-letter rule
+for names, scrambled-name writing, the definition-clue
+crossword, and the email-to-Adam frame (the year's first
+letter-shaped writing). The sums (9 + 7, 10 + 10 …) and
+number sequences are recorded here for the Maths title;
+the dot-to-dot 1–20 is filed in the drawing-lines sources
+(Libya now 2 books there). Acceptance counts unchanged —
+same country, second Grade 2 book: a spiral of the Pupils
+Book, not a new country.
+
+**Libya Grade 2 Activity Book — READ COMPLETE 2026-10-25.**
+Next book: Libya Grade 2 Teacher Book (per the reading
 queue), one book at a time.

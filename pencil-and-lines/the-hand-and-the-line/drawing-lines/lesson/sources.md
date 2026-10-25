@@ -39,8 +39,14 @@ movements, traced with finger or pencil for pencil control and
 left-to-right movement, the teacher reminding pupils how to hold
 the pencil correctly (Teacher's Book, Unit 2 Lesson 7 notes).
 
+Second Libya book (added 2026-10-25): Libya — English for Libya
+Primary 2, Activity Book (CERC / Garnet, 2019; verified on disk:
+%PDF, 94 pp). Unit 6 Lesson 6 (book p.53) is a **dot-to-dot 1–20**
+— "What is it? Draw and colour." — the same join-the-dots move,
+now run to 20: the line work grows with the counting.
+
 **Acceptance count: taught in 2 countries (Egypt, 3 books; Libya,
-1 book).**
+2 books).**
 The "understand the lines" framing is his: the lines are understood,
 not just traced — a wavy line is the curved move, a zigzag is the
 straight-and-corner move, and letters are those two moves mixed.
