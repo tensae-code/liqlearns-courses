@@ -406,6 +406,24 @@ Book page = PDF page − 4, same as KG1.
   p.70 count and trace 6, 7, 8 · p.71 count and match
 - p.72 Letters and Sounds: **Ff** (flag — Egypt's flag pictured,
   flower, Farida) and **Ll** (lamp, leaf, leg)
+- p.73 Ff/Ll formation · p.74 trace Ff + circle beginning letter ·
+  p.75 trace Ll + find and color the Ll pictures
+- p.76 **"What words can you think of?"** — a dice game: roll the
+  letter dice (cut it out at book p.118), say two words that begin
+  with the letter — the book teaches through a game
+- p.77 **Lesson 3: Listen, Learn, and Sing!** — "Be responsible.
+  Each day has a job." / "Use time wisely." / "Follow your weekly
+  routine." Song: "Sunday's school, I learn and write, Friday's
+  fun, I play just right! Every day, I know what to do, I use my
+  time and follow through."
+- p.78 Practice: smiley judgments + self-check (on time? homework
+  before playing?) — **Daily Task Hero Medal**
+- p.79 **Let's Learn With a Story!** — the first dialog printed as a
+  written script with names (Farida & Bassem at the calendar):
+  "What day is it?" "Today is Monday!" "Yesterday was Sunday?"
+  "Tomorrow is Tuesday." "Let's count the days!" — the whole week
+  counted aloud — "There are 7 days in the week. We did it!"
+- p.80 Think back: ✓/✗ true-false on the dialog
 
 ## Still owed in this pass
 - Finish KG2, then Primary 1 Term 2 — one book at a time.
