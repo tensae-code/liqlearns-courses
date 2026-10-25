@@ -325,6 +325,15 @@ Book page = PDF page − 4, same as KG1.
 - p.28 Think back to the story: **listen and put ✓ or ✗** — the
   book's first true/false questions ("Jad can jump." / "Karma and
   Jad are not friends." …)
+- p.29 Sing and Chant with Me! — **Action Verbs Song**: "I can walk,
+  I can run, I can jump and skip for fun! I can kick, I can play,
+  I can throw and catch all day!" (act the verbs out as you sing)
+- p.30 **Unit 1 Review** — trace Kk/Jj and match to their actions;
+  circle what you can do; color number 1 red, number 2 blue
+
+### KG2 Unit 2 — started (book pp.31–32)
+- p.31 Opener: "What will I wear today?" (wardrobe scene)
+- p.32 "I'm wearing shoes and socks." / "My dress is red."
 
 ## Still owed in this pass
 - Finish KG2, then Primary 1 Term 2 — one book at a time.
