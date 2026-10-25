@@ -398,6 +398,14 @@ Book page = PDF page − 4, same as KG1.
   the week taught as an ORDER
 - p.64 **Lesson 2: Letters and Sounds** — Oo (Omneya, orange, on) and
   Bb (Bassem, bag, bus) side by side
+- p.65 Oo/Bb formation · p.66 trace Oo + circle beginning letter ·
+  p.67 trace Bb + trace/color/match bag and bus
+- p.68 "How many days are there in a week?" — **"There are 7 days in
+  a week."** + trace the 7 (the numbers enter through the week)
+- p.69 Numbers Are Fun! — 6 oranges, 7 (the calendar), 8 buses ·
+  p.70 count and trace 6, 7, 8 · p.71 count and match
+- p.72 Letters and Sounds: **Ff** (flag — Egypt's flag pictured,
+  flower, Farida) and **Ll** (lamp, leaf, leg)
 
 ## Still owed in this pass
 - Finish KG2, then Primary 1 Term 2 — one book at a time.
