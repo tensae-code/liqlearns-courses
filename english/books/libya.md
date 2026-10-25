@@ -821,3 +821,57 @@ sentences recorded here for the Word and Sentence titles;
 Make-a-book is filed as the book's own hands-on task, and
 Sam's Afternoon + the tortoise story for the Paragraph and
 Story steps.
+
+### Unit 8 "Feelings" (book pp.89–98)
+Feelings, spelled names, and Adam's goodbye. L1 (p.90) Food
+And Drink: Unit 3 said once more — "I like ice-cream. · I
+don't like fish." — and the full offering dialog: "I'm
+thirsty. — Do you want some juice? — Yes, please. — Here
+you are. — Thank you." L2 (p.91) Story: **The Hungry
+Mouse**, eight pictures — a hungry mouse ("I'm hungry.")
+climbs to the table, finds "A sandwich!" and "A cake!",
+eats, gets thirsty ("I'm thirsty."), drinks — and a boy
+bursts in shouting "Mum!!" as the mouse flees. L3 (p.92)
+"I'm happy!": a song over activity pictures, then names
+asked *and spelled* — "What's her name? — Her name is
+Nadia. **N-a-d-i-a**." · "What's his name? — His name is
+Bill. **B-i-l-l**." (letter names used for real: spelling
+someone's name). L4 (p.93) "I am happy!": the three faces
+written — happy, fine, sad — then a story in five pictures,
+"Where is my football?": "I can't find my football." and
+the reader is asked "How does Kareem feel?" as the ball
+bounces through rooms and out of the window. L5 (p.94)
+"Having fun!": the fun park set — helter-skelter, big
+wheel, swing, slide, roundabout, seesaw (under a Libyan
+flag) — and "How do you feel?" matched to happy/sad faces
+for Kareem, Muna, Al-Hadi, Nadia. L6 (p.95) At The Fun
+Park: one big fairground scene (Layla, Kareem, Bill,
+Sally, **Nezar** named in it); "How do you feel? — I'm sad.
+· I'm thirsty. · I'm hungry. · I'm happy." — who is
+speaking? L7 (p.96) Sami's Friends: a football scene —
+Sami points out **Samir**, **Kamal** (the goalkeeper) and
+**Mazin** — and the reader finds who fits four read clues:
+"He has brown eyes. He is tall. He is sad. He can play
+football." (Mazin), then talks the same way: "Sami has …
+· Mazin is …" L8 (p.97) **Adam's Goodbye**, a song printed
+in full: the friends sing "You like the park / And you
+like the zoo. / You like the big wheel / And the market,
+too. / We're your friends / So please don't go. / Adam,
+Adam, Adam / Adam says 'No.'" — and Adam answers: "I like
+your family / And I like to play. / You're my friends /
+But I can't stay. / I'm going home / Back to space. /
+Adam, Adam, Adam / Adam says 'Goodbye!'" Adam the
+Astronaut leaves Earth at the end of the Grade 2 book.
+"Now I can …" (p.98): say what food I like or don't like;
+offer food or drink; listen to and read a story; **spell
+names**; say words for feelings; say words for fun parks;
+describe a picture.
+→ Feelings set (happy, fine, sad + hungry/thirsty), the
+How-do-you-feel / How-does-he-feel questions, fun-park
+set, and name-spelling recorded here for the Word and
+Sentence titles; The Hungry Mouse for the Story step.
+(The contents page lists the back sections one page
+later than they are printed — Project p.100, Story
+p.102, Songs p.104, Dictionary p.109 against printed
+pp.100/102/104/109 as checked below; printed numbers
+rule.)
