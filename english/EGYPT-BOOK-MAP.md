@@ -282,12 +282,32 @@ Book page = PDF page − 4, same as KG1.
 - p.6 My Body Parts — "I have 1 head. I have 2 eyes. I have 1 mouth.
   I have 2 arms. I have 2 hands. These are my feet."
 
-### KG2 Unit 1 — started (book pp.7–8)
-- p.7 "I can kick the ball. I can jump. I can throw the ball. I can
-  catch the ball." (Word bank: kick – jump – throw – catch – run –
-  walk – skip – play)
+### KG2 Unit 1 — page by page (book pp.7–20 so far)
+- p.7 Opener: "I can kick the ball. I can jump. I can throw the
+  ball. I can catch the ball." (Word bank: kick – jump – throw –
+  catch – run – walk – skip – play)
 - p.8 "I'm walking in the park." / "I can run." / "Can you skip like
   me?"
+- p.9 "I can fly a kite!" / "I play with my friends." / "Let's jump
+  together." (word bank adds fly)
+- p.10 **Lesson 1: On the Move!** — the action words with pictures:
+  skip, run, walk, kick, jump, throw, catch
+- p.11 "I can run. I can kick. I can skip. We can jump."
+- p.12 Practice: circle the picture that matches the action
+  (jump/run/skip) · p.13 Practice: match the same actions
+- p.14 **"What Can You Do?"** — draw something you can do, complete
+  "I can ……", then say it (the learner produces, the book guides)
+- p.15 **Lesson 2: Letters and Sounds** — Jj (jump, juice, Jad) and
+  Kk (kick, kite, Karma) taught side by side
+- p.16 Letter Formation Directions for Jj/Kk: "start at the dot, use
+  your finger to follow the arrows"
+- p.17 Practice: trace Jj; circle pictures starting with Jj ·
+  p.18 Practice: trace Kk; match pictures to beginning letter
+  (footer: "Refer to page 114 to make your own kite" — a project
+  page at the back of the book)
+- p.19 Scavenger Kite-Hunt: color only the kites with Kk on them
+- p.20 Count with me: "I have 1 basketball." / "I have 1 ball, too."
+  / "I have 2!" (numbers 1–2 inside speech)
 
 ## Still owed in this pass
 - Finish KG2, then Primary 1 Term 2 — one book at a time.
