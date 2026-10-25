@@ -3858,6 +3858,256 @@ country, an older simpler series spiralling the same
 basics.
 
 **Libya Grade 6 Pupils Book — READ COMPLETE
-2026-10-25.** Next per the queue: the Grade 6
-Activity Book (the grade's record holds no Teacher
-Book).
+2026-10-25.**
+
+### Grade 6 Activity Book
+
+96 pp, 5,364,848 B, image-only — **READ COMPLETE
+2026-10-25** (read in full from rendered pages;
+book p. = PDF p.). The black-and-white writing twin:
+every Pupils unit gets Lessons 1–6 in the Pupils
+order **plus a Lesson 7 the Pupils Book does not
+have** (letter-recognition drills in U1–U3, a numbers
+lesson in U5, ordering lessons in U6–U8), and it
+cross-references the Pupils Book by page ("Look at
+Pupil's Book page 26 and complete", "Look at Pupil's
+Book page 56. What's missing?"). Imprint page:
+"English for Libya, Primary 6 Activity Book —
+Materials development by **Garnet Publishing Ltd**,
+8 Southern Court, South Street, Reading RG1 4QS, UK
+— This edition **first published 2007, Reprinted
+2018**", code **EFL AB5 18** — so the series is an
+older Garnet course reprinted for 2019–2020, which
+is why its level sits below the 2019 "21st Century"
+Grades 1–5 line.
+
+Filed by unit: **U1** — match words to pictures;
+cover and say; colour and ask ("What colour is the
+jacket? — It's blue." / "Is the jacket blue? — Yes,
+it is. / No, it isn't. It's red."); "What's missing?"
+chunk completion; a Venn sort (Nabil / both /
+Zainab — the heading says "Nabil or Fatima — or
+either?" but the diagram names Zainab, as printed);
+colour-mix sentences to complete with a bank (Red
+and yellow is ___. … Red and yellow and blue is
+___. — answers run orange, grey, green, pink,
+brown); sentence-building clouds (owner + clothes +
+is/are + colour); circle the odd one out (8 rows);
+sound ticks /b/ vs /p/ and /j/ vs /k/ (the book
+prints the j sound as /j/); "Write c, k or ck"
+(_itchen, _amel, bla__, pin_, coo_er, milk sha_e,
+sna_e, ja__et); Read and colour — the Pupils
+description texts extended to all six children;
+letter copy rows and fill-ins (a__le, ru__er, Na_il,
+_akistan, Zaina_, gra_e, _umper, s_irt, mon_ey,
+_halid, _uice, _itchen, sin_ = sink, _ordan, _ac_et);
+L7 recognition drills ("Yes or no — b?" circle the
+true letter among near-miss shapes; letter strings
+to sort; "How many?").
+**U2** — join the word halves (play+ground …
+ca+fe, ma+ll); "Where is Ali?" — nine "He isn't in
+the ___" sentences whose numbered letters spell
+where he IS; guess-your-partner's-place frames;
+read and number three house descriptions (Omar's,
+Sami's, Jamal's — new names); /s/ vs /f/ ticks and
+an is/this listening tick; write s, ss or c; the
+Pupils dialog as a put-in-order task (one line
+changed here: "It's next to the **school**" where
+the Pupils Book says mosque — as printed) +
+complete-the-conversation + match Q&A; f F s S rows
+(the "Write s." row prints capital-S shapes, as
+printed); an alphabet-gap "Revision" page; L7 f/s
+drills + word copying.
+**U3** — a wordsearch (mountain found diagonally as
+the example); sentence clouds (The [village/town/
+city] is [in/on/near] the [sea/mountains/river/
+lake]); anagrams of the place words; **a treasure-
+map listening** — follow spoken directions ("north
+3, east 4, north 3, west 1…") across a grid; a
+word-snake (chairbathbrownauntbirdgrapelemonade-
+shortshoescafe); vowel completion against a vowel
+bank that runs out; describe the symbol map ("There
+are mountains in the east."), draw a map, pair
+describe-and-draw; sound ticks /v/ /w/ /y/ and
+**one letter, two sounds** sorts ("y = your or
+city?", "w = west or yellow?"); match Q&A; label
+the compass rose's in-between points; listen and
+number four Libyan cities on the map (**Tubruq,
+Tripoli, Ghat, Sirt**); and a cloze text with a
+**real photograph of Ghat**: "Ghat is ___ small
+town. It is ___ the southwest of Libya. It is ___
+the Tassili mountains. It is ___ the Abu Ata
+mountains. It is near ___ Sahara Desert, too."
+(bank: in, near, a, the); v V w W y Y rows; capital
+alphabet revision; L7 v/w/y drills + copying.
+**U4** — sort a word bank into nine labelled
+category rows, crossing words out as used; a
+clothes crossword whose shaded column spells a
+hidden word; build-a-question frame from category
+words; unscramble and write questions; the two-pass
+room completion from Pupil's Book p.26 (nouns first,
+then is/a/the/near/on/There/too); **odd one out by
+sound** — grids whose rows share a letter (a e i o
+u, then c s g wh ch) with one word that doesn't
+carry it; spelling-choice circles (post offi[s/ss/
+c]e, oran[g/dg/j]e, bla[k/ck/c], cit[ey/ss/y]…);
+match sentence halves about identity (**family
+name** and **dad's name** enter here: "My family
+name is ___ · My dad's name is ___"), then complete
+with your own information, then interview a partner
+and write His/Her answers; match capitals to smalls
+in a jumble; write the capitals (the list runs a–y
+— q, x, z absent, as printed); L7 a letter dictation
+page ("Write the letters your teacher tells you.")
++ an alphabetically ordered copy list.
+**Revision 1** — first-letter completion against an
+alphabet strip; "Think and complete" — find the
+shared beginning or ending across word sets (-er:
+broth__, jump__, riv__, rubb__, rul__, sist__,
+wat__…); and a full new dialog to complete — Ali
+introduces his brother: "Ali: Hello, Jack. Jack:
+Hello, Ali. Ali: Jack. This is ___ brother, Mousa.
+Jack: Hello, Mousa. Mousa: Hello. ___ you English,
+Jack? Jack: Yes, I am. Mousa: ___ are you from in
+England? Jack: London. Mousa: London! ___'s my
+favourite city. Jack: Really? My favourite city is
+Sirt! Mousa: Where's ___ house in Sirt? Jack: It
+___ near your house. Mousa: Is it? Jack: Yes. It's
+___ Beach Road. **Drink, Mousa? Mousa: Yes, please.
+Lemonade, please. Jack: What about ___, Ali? Ali:
+Lemonade too, please.**"
+**U5** — build the possession words from syllable
+pieces across three columns (ca+me+ra = camera the
+worked example); name each category row and add 2
+more words of your own; **picture equations** —
+[boy] + [watch] + ✓ = "Ali has got a watch.", with
+✗ and ? building the negative and the question;
+read and mark a ✓/✗ grid; ownership sentences
+("The TV is Ahmed's."); a Q&A match that fixes
+Ali's family in this book (1 brother **Mousa**, 1
+sister **Huda**, matching the Pupils U7 text); a
+possessions crossword (shaded column: has got…);
+**spelling-by-ear dialogs** — "What's this in
+English? — It's a pen. — With a B? — No, with a P."
+· bee "B-E? — No, B-E-E." · "No, not pensil. It's
+P-E-N-C-I-L. — With a C? — That's right." · egg
+"E-G? — No, E-G-G." · "His name's Ted. — D-E-D? —
+No, T-E-D."; odd one out with **"Find the reason"**
+(each row matched to "It isn't a colour." / "It
+isn't a drink." / family word / fruit / room /
+adjective / animal / clothing); the Pupils ages
+recalled and ordered; write the full form / write
+the short form over Nisrin's whole self-introduction
+("I am 10. I am Libyan. I am from Tripoli. I have
+got a brother and a sister. My brother's name is
+Tarek. He is 11. He is tall. My sister's name is
+Amna. She is 8. She is short."); trace x; L7 a
+**numbers lesson** — sums to solve and say (3 + 3,
+2 + 7, 4 + 4, 6 + 5, 11 + 1, 9 + 1), read and copy
+one–twelve in words, "What's missing?" (four,
+eight, eleven), "What's next?" sequences (counting,
+evens, odds, backwards, doubling).
+**U6** — opposites match (get up/go to bed,
+start/finish); rebus clock sentences (picture verbs
++ clock faces); the Pupils clock diagram as a
+label-it-yourself page; draw the hands; make
+questions from statements; complete the negatives;
+more spelling dialogs (Jack J-A-C-K not G-A-K,
+jacket J-A-C-K-E-T not J-A-K-E-T, orange with a G
+not a J, eight E-I-G-H-T not A-I-G-H-T, have
+H-A-V-E not H-A-V); the category-question frame
+sorting a/an; the school-times dialog completed
+from a bank; order the day's actions; full/short
+forms over the bicycle text ("I do not get up
+early. My school is not near my house, but I have
+got a bicycle. It is a big bicycle. It is green.");
+write qu; L7 order the times, write 1–12 in words,
+copy A–E, **alphabetical order** (apple, big, cat,
+desk, egg).
+**U7** — activities wordsearch (table tennis found
+diagonally); **play/go matching** (play football,
+basketball, table tennis · go cycling, fishing,
+shopping, swimming); answer about yourself with
+short answers (Yes, I do. / No, I don't. / Yes, I
+have. / No, I haven't.); "Can you remember …" —
+category recall with rising counts (one adjective,
+two animals, three clothes, four drinks, five
+colours, six rooms, seven fruits, eight places);
+draw and guess; sentence clouds with place phrases;
+**written riddles** ("What is it? 1. It's big and
+tall. It's yellow and black. It's an animal. 2.
+It's yellow, gold or white. It's near the sea. It's
+hot. It's a place. 3. It's got a kitchen, a
+bathroom, a toilet and four bedrooms. 4. It's brown
+or grey. It's small. It's in the classroom. 5. It's
+got milk and bananas and bubbles. It's a drink.");
+a likes listening grid (☺ = likes, ☹ = doesn't
+like) checked against a full paragraph about Ahmed
+("…He hasn't got a bicycle **because** he doesn't
+like cycling."); join the halves (tele+vision,
+o'+clock, just+after…); a **pair spelling game** —
+Pupil A spells from a capital list (BAG, BED, CAT,
+IN, DATE, WHAT, THAT, BIKE, JACKET, CITY), Pupil B
+writes, then swapped (BATH, BIG, GET, AT, JUICE,
+WHITE, WATCH, HE, BEACH, UP); the shop dialog as
+choose-the-correct-response (one line here says
+"green, either" where both Pupils printings say
+blue — as printed) + comprehension questions + a
+**Study box that names the pattern**: "like + like,
+too · not like + not like, either"; complete
+too/either/but sentences from a Nisrin–Ali grid;
+capitals matching (all 26); "Write the correct
+form" (i = I, ali = Ali, libya = Libya, sirt =
+Sirt); **correct the following** — a new boy's text
+to fix ("my name is yasir i am libyan i am from
+tripoli i have got two brothers their names are
+shareef and nabil"); "Write about yourself."; L7 a
+number-words crossword whose shaded column spells a
+hidden number + letter-name groups + alphabetical
+order.
+**U8** — match 13–20; **-teen as sums in words**
+("three + ten = thirteen", then four + ten …
+nine + ten) and **-teen as spelling sums** ("4 + 10
++ e = fourteen (four te en)" · "5 ~~ve~~ + f + 10 +
+e = fifteen (fi~~ve~~ f te en)" · "8 ~~t~~ + 10 + e
+= eighteen" · "3 ~~ree~~ + ir + 10 + e = thirteen"
+— the changed letters crossed out on the page);
+unscramble the game rules; match sentence halves; a
+**read-and-solve game story** ("I'm on one and I
+get a three. I go up the ladder. I spin again and
+I get a three. I go up the ladder. I spin again and
+I get a six. I go down the snake. Where am I?");
+draw the time; the spinner steps completed from a
+verb bank; the pair spelling game again; **read and
+draw** — nine instruction steps that build a picture
+("1. Draw two small squares. 2. Draw a big square on
+the two small squares. … 4. Draw the letter V in the
+top square. 5. Draw the letter I on top of the
+letter V. 6. Draw the letter C on the left side of
+the small square. 7. Draw the letter D on the right
+side of the small square. 8. Draw the letter O on
+the left of the letter I. 9. Draw the letter O on
+the right of the letter I. What have you got?") +
+reorder the shop dialog (this printing says blue,
+matching the Pupils Book); small-or-capital
+sorting; **rewrite the game rules with correct
+punctuation** (the active form of the Pupils
+find-the-differences); order the times; L7 column
+sums in figures, then **the same sums in words**
+(nine + six = fifteen…), copy A–N, alphabetical
+order over 16 words.
+**Revision 2** — "Look at Pupil's Book page 56.
+What's missing?" (the sports-centre picture in
+outline, ten things to name, television given);
+rebuild the five game rules from a word bank,
+crossing out as used; capitals matching; draw the
+seven Pupils clock times; write 11–20 in words. The
+book ends there — no Picture Dictionary of its own.
+
+**Libya Grade 6 — FULLY READ 2026-10-25** (both
+books in the grade's record; there is no Grade 6
+Teacher Book in the record). Next per the queue:
+Grade 7, checking its files first — the grade-07
+Pupils URL returned only 146 bytes on the 2026-10-25
+control check, so its record needs a fresh look
+before any reading.
