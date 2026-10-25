@@ -4643,4 +4643,682 @@ café order, the doctor) — to match to the
 pictures: the year's functions in one round-up.
 
 **Libya Grade 7 Course Book — READ COMPLETE
-2026-10-25.** Next: the Grade 7 WorkBook (104 pp).
+2026-10-25.**
+
+### Grade 7 WorkBook
+
+104 pp, image-only (text extraction 290 chars) —
+**READ COMPLETE 2026-10-25** (read in full from
+rendered pages, all 104; **book p. = PDF p.** —
+the folios match the PDF pages directly, unlike
+the Course Book). Identity: "ENGLISH FOR LIBYA —
+**Preparatory 1 — Workbook** — Jenny Quintana,
+Helen O'Neill and Fiona McGarry", State of Libya,
+Ministry of Education, CERC; imprint "English for
+Libya, Preparatory 1, Workbook — Materials
+development by Garnet Publishing Ltd, 8 Southern
+Court, South Street, Reading RG1 4QS, UK — First
+published 2007, Reprinted 2018", code **LP1 WB
+18**; school year 2019–2020 (1440–1441 AH). The
+writing twin of the Course Book: every exercise
+is keyed to a Course Book lesson (1.1–10.8) and
+most lessons get exactly one workbook page.
+Contents: U1 Hobbies and routines (p.5) · U2
+Family and jobs (p.12) · U3 Likes and dislikes
+(p.20) · U4 At home and around town (p.27) · U5
+Clothes and shopping (p.35) · U6 Animals and
+nature (p.42) · U7 Past and present (p.50) · U8
+Food and health (p.57) · U9 Dates and birthdays
+(p.66) · U10 A long time ago (p.74) · Sound and
+spelling practice + Student A/B material (pp.81–
+82) · Tapescript (pp.83–89) · Wordlists —
+Alphabetical (pp.90–96) and Thematic (to ~p.103);
+last page blank. The workbook's recurring moves:
+missing-vowel spelling, anagrams, word-order
+building, "correct the false sentences", true/
+false against the Course Book by page reference,
+and every unit ending in writing about yourself.
+
+**Unit 1 (pp.5–11).** 1.1: pronoun cloze built
+from the Course Book's own opening sentences
+(his/My/Her/our/I/She/we/Their) + reorder the
+three greetings questions. 1.2: match figures to
+number words 1–12; write the times from four
+clock pictures (a digital watch among them).
+1.3: missing vowels (g_ sh_pp_ng, cycl_, pl_y
+t_bl_ t_nn_s, d_ h_m_w_rk, w_tch TV, r__d) +
+write your morning/afternoon/evening. 1.4: the
+pair information-gap (Student A p.81 / Student B
+p.82 — answers in the back matter below) +
+sentences about your own routine. 1.5: write the
+days from circled letters in Saturday-first rows;
+sort six activities under **go** or **play**; ask
+a partner from a pictured week timetable (Sat
+play basketball · Mon play table tennis · Tue
+play volleyball · Wed play football · Fri go to
+the mosque) and write the sentences ("He goes to
+the mosque every Friday."). 1.6: **Present tense
+verb tables** — be/go/play/like across I, You,
+He/She/It, We, They — then rewrite Lucy's spoken
+"I play basketball on Mondays. I like basketball.
+I go swimming on Thursdays. I don't like
+swimming." in the third person. 1.7: number the
+ability pictures (the phrase set here includes
+**speak Arabic**); the listening answers are in
+Tapescript §4 below. 1.8: build questions from a
+grid (Can you / When do you × make/play/speak/
+ride × English/cakes/a bike/tennis), then
+**Write about yourself** as a gapped frame
+modelled on Ali's Course Book autobiography
+("__ am __ years old and live in __. I get up at
+__ every day. I play / go __ on __ and play / go
+__ on Wednesdays. I __ but I can't __.").
+
+**Unit 2 (pp.12–19).** 2.1: ask a partner the
+eight family questions, write short answers;
+**Write full words** — expand I've got, I
+haven't got, he's got, he's ten, I'm not
+English, she hasn't got, they've got, it's hot,
+we're Libyan (the Course Book's arrows run the
+other way). 2.2: label **Omar's family tree**
+from the key (grandmother = Maha, grandfather =
+Mohammed, father = Ibrahim, mother = Nawal,
+sister = Hind, brother = Salem); draw and talk
+about your own tree. 2.3: job anagrams matched
+to their tools (chertae, ordtoc, endsutt,
+keeshporep, refamr, ernafim, urnes, olipcenam);
+answer "What does Ali's father do? — He's a
+doctor." and three more from the tool pictures.
+2.4: listening ticks; write "It's Aisha's
+pencil."-type possessive sentences from face +
+object pairs. 2.5: match Whose/Is this/Are these
+questions to their answers; **rewrite with one
+word** — replace my juice / Ali's bike / his
+flat / your pencils / the doctor's car / her
+car with mine / his / his / yours / his / hers.
+2.6: a reading text that exists only here —
+**Mustafa's day**: "In the morning: Mustafa gets
+up at quarter past six every day. He always
+drinks juice for breakfast. He never drinks
+coffee. His father sometimes drives him to
+school in the car, but he sometimes walks. In
+the evening: Mustafa plays football after school
+on Tuesdays and Thursdays and he sometimes
+watches television. He never goes swimming
+because he can't swim." — then How-often
+questions and writing your own day under the
+same two headings. 2.7: vowel gaps (t_mp_r_t_r_,
+h__d_ch_, st_m_ch_che) + build the illness
+conversation from word fragments. 2.8: three
+word-order questions; the listening names the
+speaker (Tapescript §11: a teacher — "I live in
+Benghazi and I work in a girl's school… I teach
+English every morning").
+
+**Unit 3 (pp.20–26).** 3.1: count dot piles to
+match 13–20 and write the words (the -teen
+numbers made countable); match the tens to 100.
+3.2: a new price set in LD (books 80, watch 45,
+camera 33, trousers 22, bike 80, bag 20) under
+How much is/are questions. 3.3: **odd vowel out**
+— "Which vowel sound is different in each
+group?" with the vowel underlined (apple among
+bun/hundred/number…); listen and write four
+prices. 3.4: borrow conversations cloze (can/
+can't/need/have/borrow/here), then write your
+own for a glass of water, a pen, a rubber, a
+ruler. 3.5: name eleven action pictures from a
+verb bank; **-ing spelling by worked examples
+in three groups** — plain (walk→walking…),
+make→making (drop the e; write waits), swim→
+swimming (double the letter; run waits) — then
+Aisha listening ticks. 3.6: collocation gaps
+from the 3.5 bank; a Look!: "I like swimming,
+painting pictures **and** speaking English. I
+don't like singing songs, making cakes **or**
+playing tennis." — and/or named by use in
+lists. 3.7: true/false listening on Salwa and
+Aisha's wants; write a Fatima/Hala conversation
+from cue words. 3.8: -ing vowel gaps + four
+"I like / I don't like / I want to go / I
+don't" sentences about yourself.
+
+**Unit 4 (pp.27–34).** 4.1: furniture vowel
+gaps (sh_lf, b_d, s_f_, w_nd_w, d__r, fl__r,
+t_bl_, ch__r); write eight position sentences
+from detail pictures with a word bank (behind,
+in, in front of, next to, opposite, under, on —
+"on" already crossed out by the worked example
+"The radio is on the shelf."). 4.2: add one
+more word to each room group (bathroom: toilet,
+wash basin, +… — wash basin, cooker, lamp,
+bookcase enter here); Where-is questions over
+four room pictures. 4.3: listen-and-tick grids
+for Aisha's new home, complete her gapped
+description from your ticks, then write about
+your home from three starters ("I live in a …
+There's a … Our house has …") — the spoken
+answers are Tapescript §19 below. 4.4:
+transport vowel gaps with photographs (taxi,
+bus, car, bike, **boat** — boat is new here);
+word-order by-travel sentences; "How do you
+travel to school?" 4.5: choose between/behind,
+left/right, in front of/next to over a village
+street scene; write six road signs' meanings.
+4.6: **follow directions on the Course Book's
+own town map**, reprinted here — listen and
+draw your route, then read-and-draw ("Walk
+along this street. Turn left at the supermarket
+and walk past the café. Turn left and cross
+over. Turn left again and walk straight on.
+It's on your right."). 4.7: match three written
+routes to three dotted routes on a second town
+map. 4.8: write directions for a partner to
+follow + category odd-one-out.
+
+**Unit 5 (pp.35–41).** 5.1: clothes vowel gaps
+(t__, tr_n_rs, b_lt, b__ts, sc_rf — **boots**
+enter here) + colour the clothes and talk
+("The tie is black and white."); write colour +
+clothes phrases ("red trousers", a + word for
+T-shirt/skirt/shirt). 5.2: listen and colour;
+"What is Ali wearing? He is wearing…" +
+Ahmed + your own clothes today. 5.3: the beach
+picture again (Hasan, Ali, Nisrin, Mum, Dad
+labelled) with -ing sentences to complete
+("Dad is __ in the sea. Mum __ a magazine.
+Nisrin __ orangeade. Hasan and Ali __
+football."); a second pp.81/82 information gap
+(Is Amna watching TV? — No, she isn't.). 5.4:
+**-ing spelling tables grouped by pattern**
+(eat→eating set · drive→driving set · swim→
+swimming set), then circle four differences
+between two café pictures and write them as
+paired sentences ("In picture 1, the man is
+reading a book. In picture 2, he is reading a
+newspaper."). 5.5: a Look! on **two
+adjectives** — "a long, blue dress / a short,
+red dress" with discovery questions ("Where is
+the colour adjective? What comes between the
+adjectives?"); reorder three shopping questions
+whose word tokens include the comma itself.
+5.6: complete the **was/were table** by person
+("Where __ I/you/he/she/we/you/they
+yesterday?") and write Yesterday sentences
+from building pictures. 5.7: grow four word
+groups from a bank (T-shirt / small / shoe shop
+/ wear); answer where you were at nine o'clock
+yesterday morning, half past three yesterday
+afternoon, ten o'clock yesterday evening,
+Friday morning. 5.8: nine true/false statements
+about the yellow-shirt story, cross-referenced
+"the story on page 43–44 of your Course Book"
+(the traps: seven dinars for six; too small
+for too big).
+
+**Unit 6 (pp.42–49).** 6.1: body-part anagrams
+(rmas, gsle, eeft, ndsha, ckne, deah) matched to
+pictures; listen to three animal descriptions
+and tick among six **photographs** (fish,
+giraffe, chimpanzee, tiger, cobra, kingfisher —
+the kingfisher is new; answers in Tapescript
+§28); describe two more animals with "It has
+got … / It hasn't got … / It can … / It can't
+…". 6.2: animal vowel gaps over photographs
+(elephant, cheetah, butterfly, rabbit, camel,
+goat, horse, snake, tiger, giraffe); complete
+three animal descriptions from word boxes —
+**Its** arrives in writing ("Its neck is long
+and its head is small. Its legs are long and
+it can run fast."). 6.3: which animals? from
+habitat clues ("They can climb trees. —
+monkeys · They always live in water. · We
+sometimes get milk from these animals. · They
+usually live in hot, dry countries. · You can
+ride them. · They sometimes eat paper. · They
+eat fruit and nuts. · They usually live in hot,
+wet jungles."); opposites from a box (east–
+west given; dry, hot, old, big, up, early,
+finish, nasty wait); **find pairs of words
+with the same sound** (walk – talk given; the
+bank hides dry/fly, tree/we, goat/boat,
+near/ear, wet/get, nut/but, bed/head). 6.4:
+**correct the false sentences** about the
+Course Book's desert picture ("There are four
+camels. → There are three camels." … six
+sentences; the workbook cites "Course Book
+page 52" — see differences below); then answer
+for yourself: "Where are you? What are you
+doing? Who is sitting behind you?" 6.5:
+listen and order three weather conversations,
+tick the boxes (Mohammed is in Libya /
+Manchester; It is snowing / raining…). 6.6:
+odd one out by kind (season among spring/
+autumn/winter; snow among sunny/windy/rainy…);
+true/false about **the seasons in England**
+("The winter is cold. T · Plants grow in the
+winter. · The weather gets hot in the spring.
+· Plants start to grow in the spring. · The
+summer is hot and windy. · Fruit and
+vegetables are ready to eat in the summer. ·
+The weather is cold in the autumn. · The
+leaves fall off the trees in the winter.") and
+correct the false ones. 6.7: match the month
+abbreviations to the full names; write the
+months in order from January; six questions
+incl. "When is the winter in Australia?" 6.8:
+complete a **seasons in Libya** chart (Which
+months? / What's the weather like? / What do
+you see? × spring–winter; given: summer =
+June–August, spring weather = windy), then
+write about Libya's seasons from frames that
+fade from gapped (spring, summer) to bare
+headings (Autumn, Winter).
+
+**Unit 7 (pp.50–56).** 7.1: listen to Fatima,
+tick a telephone/radio/table-tennis × morning/
+afternoon/evening grid, write the past
+sentences (answers in Tapescript §34: morning
+played table tennis with Aisha, afternoon
+phoned Amna, evening listened to the radio).
+7.2: correct six wrong sentences about Omar's
+diary; reorder Were/Did questions; write a Did
+question for a partner. 7.3: write the past of
+go (went given), am/is, drink, buy, have,
+drive, do; use them in seven picture-prompted
+sentences (the yellow-shirt day retold); write
+four sentences of your own. 7.4: build the
+Aisha/Amna café conversation from a skeleton
+with ticks and food pictures, then write it
+out in full. 7.5: choose **very / too** in
+five sentences ("I liked the chicken. It was
+very / too good."); replace underlined
+repeated nouns with He / It / She / We / They
+(the writing twin of the Course Book's blue
+**it** — one text has the grandparents in
+**Benghazi**). 7.6: true/false on the park
+story + correct the false + practise the
+Ahmed/Mustafa phone conversation, printed
+here only in its opening lines — its full
+text is Tapescript §38 below. 7.7: grammar
+gets its names — two Look! boxes: "**nouns**
+are the names of things or people: Ahmed,
+car · **pronouns** are words we use in place
+of nouns: he, she · **verbs** tell you what
+things or people do: go, didn't go" and
+"**adjectives** describe people and things:
+big, expensive, cold" — then sort twelve
+words from the castle text (pot, we, drove,
+they, castle, cooked, it, jewellery, Tripoli,
+went, bought, she) into the three columns,
+and choose the best adjective for five
+sentences. 7.8: "Look at Course Book page 60.
+Use the verbs in the box to write about Ali's
+father. Use your exercise book." (got up, had,
+drove, talked, read, went) — writing that
+spills off the workbook onto loose paper; the
+reference text is Tapescript §39.
+
+**Unit 8 (pp.57–65).** 8.1: food spelling
+with the quantity built into the caption
+(some ch__se, a sw__t, some _gg_, some r_ce,
+some br__d, two t_m_toe_); a/some café
+dialogs to complete; **complete the words
+with ch or sh** (__eetah, __oes, __op,
+__icken, __ocolate, __ort, __eese, __irt,
+__air, __elf). 8.2: match tea/water/sandwich/
+coffee/biscuits to pictures; container phrases
+(a cup of tea given; a packet of…, a glass
+of…, a bottle of…); write **a**, **some** or a
+number before nine food words. 8.3: listen
+and tick a printed MENU for Hasan and Aisha,
+then complete the some/any report (waiter's
+"No, sorry. There aren't any grapes today."
+is built into the frame; full order in
+Tapescript §43). 8.4: split a word snake
+(eggsoilflourbuttersugarbiscuits) and label
+six pictures; complete five sentences about
+the Course Book p.64 cake conversation; sort
+23 food words into **Things you can count**
+(one/two — "potato – potatoes" given) and
+**Things you cannot count** (some — "cheese"
+given); then fit the snake words after a
+bottle of / a glass of / a bag of / a bunch
+of / a kilo of / a litre of / a packet of…
+and compare with a partner. 8.5: true/false
+on the Italy phone call (CB p.65) + correct
+the false + choose delicious/horrible/lucky/
+good for four sentences. 8.6: **read three
+people and decide who is healthy** — "1.
+Naser doesn't like meat or fish. He hardly
+ever eats fruit or vegetables. He eats sweets
+and ice cream every day. He watches TV a lot.
+2. Aisha likes fish, salad and fruit. She
+sometimes drinks tea, but her favourite drink
+is milk. She doesn't play any games, but she
+often goes running three times a week. 3.
+Khalid is always hungry. He eats lots of
+bread, butter and cheese. His favourite meal
+is chicken and rice. He doesn't eat many
+vegetables. He never drinks water or milk. He
+likes lemonade." — then **give advice** to the
+unhealthy ones as imperatives ("Don't eat too
+many sweets. · Eat more vegetables. · Go
+swimming two or three times a week."). 8.7:
+match chore verbs (make, tidy, sweep, clean,
+water, wash, answer, look after) to their
+objects, extend them (wash clothes, answer
+questions, look after your sister, tidy your
+desk…); a Look!: "tidy and clean can be
+adjectives as well as verbs: Is your desk
+tidy? Are your hands clean?"; a partner
+chart — How often do you…? × always / often /
+sometimes / hardly ever / never over five
+chore pictures. 8.8: past forms of the chore
+verbs (sweep → **swept** shown; make's past
+is the irregular one to find), then answer
+three questions about the Course Book
+housework conversation — the workbook cites
+"Course Book page 72" (see differences); the
+conversation's full text is Tapescript §46.
+
+**Unit 9 (pp.66–73).** 9.1: match 1st–12th to
+first–twelfth; say 15th/20th/30th; write six
+dates in words ("20th May → the twentieth of
+May"). 9.2: **Mohammed's invitation** — a
+letter that exists only here: "Dear Ahmed,
+Would you like to come __ my party? The party
+is __ my house. My birthday is __ Thursday,
+but the party is __ Friday. It starts __ five
+o'clock. It finishes __ seven o'clock. Best
+wishes, Mohammed" — fill to/on/at; reorder
+four party questions; write your own
+invitation from a frame (__ is having a party
+/ on __ / starts at __ / finishes at __ /
+place __). 9.3: answer five questions on CB
+p.71; make, then write, a suggesting
+conversation on a printed skeleton ("What
+shall we do today? — Let's go … — No, I did
+that yesterday. — OK. Would you like to …? —
+I don't think so. — OK. Shall we …? — That's
+a good idea!"). 9.4: label present pictures
+(a pair of sandals, a box of paints, a pair
+of socks among them); assemble a choosing-a-
+present conversation from four boxed
+sentences ("How about a pair of socks? · How
+old is he? · How about a box of paints? · How
+about this belt?"). 9.5: listen and draw
+lines — which present Aisha bought for older
+sister / baby sister / mother / grandmother /
+father / grandfather (answers in Tapescript
+§50); then a **capital letters** Look!: "Use
+Capital letters at the beginning of …
+sentences, e.g., My new house is big. · names
+of people, e.g., Mustafa, Amna · names of
+places, e.g., Libya, England · names of days,
+e.g., Friday — Don't forget! You need a full
+stop at the end of a sentence." and rewrite
+"ahmed is twelve" and "khalid goes fishing
+every saturday" correctly. 9.6: **sounds and
+letters: c, k, ck** — say could / kitchen /
+truck, then complete _at, _ake, _amera,
+_olour, _ar, _old, _ousin (c), _ilo (k),
+ja__et, so__, bla__ (ck); answer "What do you
+usually do at weekends? What did you do last
+weekend?" 9.7: join the lake story's sentence
+halves (CB p.75), checked by listening; a
+Look! **Joining sentences – so and but**:
+"Sam didn't come back. → Tom went to look for
+him. / Sam didn't come back, so Tom went to
+look for him. / Tom found Sam. → He couldn't
+walk. / Tom found Sam, but he couldn't walk."
+9.8: complete four sentences about Mohammed's
+letter (is staying / will go / to meet / go).
+
+**Unit 10 (pp.74–80).** 10.1: short answers
+from the posters (CB p.77) incl. matching the
+three opening times; choose a venue for three
+people and say why; which would you like?
+10.2: true/false on the CB p.78 conversation
++ correct the false + your sunny afternoons
+and windy Fridays. 10.3: answer about the
+long-neck dinosaur (CB p.79), then **write
+the questions** for given answers ("It had
+two arms. · It ate meat. · It was about
+thirteen metres long."). 10.4: reorder five
+museum questions; complete a museum
+conversation by inventing the questions that
+fit the printed answers (its last answer:
+"Yes, I want to go to the Egyptian room next
+time."); odd one out **with a spoken reason**
+from a question bank (Can you read it? Can
+you wear it? Do you drink it? Can you write
+with it? Is it a colour? Do you eat it? Do
+you cook it?) — "Ice-cream isn't fruit."
+10.5: complete Ali's life in When-sentences
+from its numbered pictures (CB p.81); listen
+to Fatima and write the ages of her six life
+events (answers in Tapescript §55). 10.6:
+ask and answer about Fatima ("What happened
+when Fatima was three? Her sister was
+born."); **Now write about your life.** 10.7:
+describe Ali's beach photograph in writing,
+continuing his printed start, covering
+Mustafa, Khalid, Omar, Hasan and the man;
+definition riddles — "What are they? 1. You
+use these to write with. … 4. An animal with
+a very long neck. … 9. Animals from long ago.
+10. Where you go when you are ill." 10.8:
+ask and answer about Ali's favourite things
+from pictures (sport → football; day →
+**Friday**, circled on a calendar printed
+Monday-first — as printed; meat, fruit,
+drink, activity, animal likewise), then ask
+your partner.
+
+**Back matter (pp.81–103).** *Sound and
+spelling practice* (p.81, exercises C–E as
+printed — no A/B in this book): C, "Letter a
+has different sounds" — sort bag, car, cat,
+date, flat, plant, glass, grape, make, start,
+table, map under the sounds of **are** /
+**cake** / **at**; D, make words with the
+sound "ea in teach" (t___, __t, r___, m___,
+sp___, b__c_, pl___s); E, words with "er in
+teacher" (fath__, m________, b________,
+s________, dr________). *Student A material*
+(p.81) and *Student B material* (p.82) — the
+two information gaps answered: for p.7,
+Mustafa (A): goes home 2.30 p.m., has dinner
+7.45 p.m., does his homework 9.00 p.m.; Omar
+(B): 1.30 p.m., 7.15 p.m., 7.45 p.m. (times
+printed with the dot style, "2.30 p.m."); for
+p.37, the girls' three pictures in each
+version (Fatima at the TV / writing, Amna
+writing / reading a magazine, Hala and Aisha
+reading / at the TV). *Tapescript* (pp.83–89):
+**56 cassette sections** — the whole course's
+audio in print, the only place several texts
+exist in full. Section map: §1 Hasan's intro
+(= CB 1.1) · §2 Jack and Lucy routines · §3
+Ahmed/Omar games conversation · §4 **what
+Jack can do** — "I can sing. And I can swim
+and play tennis. I can't speak Arabic though
+– only English. I can't drive a car yet, but
+I can ride a bike. I cycle to school every
+day." (settles WB 1.7's listening) · §5
+Aisha's family interview (= CB 2.1) · §6
+family words pronunciation · §7 Whose pen —
+the girls' conversation behind WB 2.4 ("No,
+it's my uncle's. He's a policeman.") · §8 the
+bag/ruler conversation (= CB 2.4) · §9 Ali's
+father story (= CB 2.8) · §10 the illness
+dialog (= CB 2.7) · §11 the Benghazi teacher
+(settles WB 2.8) · §12 **dictated numbers:
+7½, 369, 428, 9½, 173, 258** (the audio side
+of CB 3.1 — halves are spoken numbers) · §13
+Lucy's shopping (the total is left as "That's
+…" even here) · §14 trouser prices · §15 three
+borrow conversations · §16 Aisha's likes
+(settles WB 3.5C: shopping ✓, making cakes ✗)
+· §17 beach-or-park (= CB 3.7) · §18 Salwa/
+Aisha true-false conversation (= CB 3.7's
+listening) · §19 **Aisha's new home** — "We've
+got a new house. It's near a park. There's a
+mall opposite our house… Our house has four
+bedrooms. My bedroom is green and it's got a
+big window. There's a sofa under the window.
+I've got lots of books on a shelf. I sit on
+the sofa to read. I do my homework at my
+desk." (settles WB 4.3's ticks) · §20 the
+draw-lines directions · §21 post-office
+directions (= CB 4.7's frame) · §22 the
+teacher's letter story told as dialog (it
+still stops at "It's …" — the ending stays
+the class's) · §23 tie/trainers conversation
+· §24 **listen-and-colour answers**: "Ali is
+wearing a red shirt, blue trousers and black
+shoes. Ahmed is wearing a green T-shirt,
+brown trousers and white trainers." · §25
+eight present-continuous point-to-picture
+lines · §26 the three shopping conversations
+of CB 5.5 · §27 **the yellow shirt told in
+full** — confirming six dinars, spoken-only
+lines ("That's too expensive." for the
+twenty-dinar shirt) and the swap ending ·
+§28 the three animal descriptions (One: a
+fish · Two: a giraffe · Three: a bird — WB
+6.1's answers) · §29 the guessing game (= CB
+6.3; the animal is an elephant) · §30 five
+weather lines · §31 three weather phone calls
+to order (WB 6.5) · §32 the months said in
+order · §33 six past-tense follow lines ·
+§34 Fatima's day (WB 7.1) · §35 Ahmed's
+beach day told back to Omar · §36 three What
+did you think of it? conversations · §37
+**the park story's facts** (see differences:
+the boy is named **Hasan** here) · §38 **the
+phone conversation in full** — "Ahmed:
+Hello. This is Ahmed. Mustafa: Where were
+you, Ahmed? Ahmed: I was in the park. Where
+were you? Mustafa: I was in the park. I
+waited for an hour. Ahmed: Which park?
+Mustafa: The park near my house. Ahmed:
+Where's your house? Mustafa: It's next to
+the café. Ahmed: Oh, no! We weren't in that
+park. We were in the park behind the
+hospital!" · §39 Ali's father today (=
+§9 retold for WB 7.8) · §40 the ch/sh word
+list said aloud · §41 the café story (a
+father refuses Khalid coffee — "No, you
+can't, Khalid. You don't like coffee.") · §42
+the picnic (= CB 8.3) · §43 **the restaurant
+order in full** — Hasan: tomato soup, then
+fish with rice and vegetables, no grapes
+("There aren't any grapes today"); Aisha: no
+soup, chicken and salad, chocolate ice cream
+· §44 the cake conversation (= CB 8.4) · §45
+Jack's Italy call (= CB 8.5) · §46 **the
+housework conversation in full** — "Father:
+I'm taking your mum to the hospital today.
+Can you help with the housework please?
+Salwa: Yes, of course. I'll make lunch and
+clean the kitchen. Father: Thank you, Salwa.
+Aisha: I'll sweep the floor. Father: Fine.
+What about you, Naser? Naser: I want to go
+with you Dad. Father: No, Naser. You can't
+come with me. Salwa: I'll look after you,
+Naser. We'll water the plants. Naser: Okay.
+Father: And tidy your bedroom! [phone rings]
+Father: Can someone answer the phone? Aisha:
+I'll do it. Father: Thanks, Aisha. Bye!" ·
+§47 four May dates dictated · §48 the
+shall-we conversation (= CB 9.3) · §49
+choosing Hala's present (= CB 9.4's fuller
+version: the box of paints wins) · §50
+**Aisha's present shopping told as a story**
+— "First, she went to a toy shop. She bought
+a doll for her baby cousin and a box of
+paints for her older sister. Next, she went
+to a clothes shop… She found a nice scarf for
+her grandmother, but she couldn't find
+anything for her grandfather. 'What shall I
+buy for Mum and Grandpa?' she asked herself.
+Aisha walked around the mall and went into a
+bookshop. She found an interesting book for
+her grandfather. 'Just Mum now,' she thought.
+Next to the bookshop, there was a sweet shop.
+Aisha chose a big box of chocolates for her
+mother. Aisha looked at her shopping list.
+'Chocolates for Mum, a belt for Dad, a scarf
+for Grandma, a book for Grandpa, paints for
+Nisrin and a doll for baby. Good. That's
+everything,' she said." (settles WB 9.5's
+matching; note it says Nisrin where the
+workbook's grid says "older sister") · §51
+the lake forecast + Sam and Joe's plan · §52
+**the lake story narrated** — "Sam, Joe and
+Tom walked to the lake. They wanted to make
+a fire, so Sam looked for some wood. Sam fell
+and hurt his foot. Sam didn't come back, so
+Tom went to look for him. Tom found Sam, but
+he couldn't walk. Tom called Joe. They
+couldn't carry Sam, so Joe went for help. He
+stopped a truck and the driver went back to
+the lake. They helped Sam into the truck,
+and the man drove the boys home." · §53
+Jack and Lucy choosing (the dinosaur
+exhibition wins over birds and kites) · §54
+**Ali tells Hasan his life** — "When I was
+two, my brother Khaled was born. I started
+school when I was six… When I was seven, we
+moved house… I got a bike when I was eight.
+When I was nine, I fell off it and hurt my
+arm." · §55 **Fatima's life, ages given** —
+sister born when she was 3, moved to another
+flat at 4, youngest brother born at 6,
+started school at 6, moved to this house at
+7, got her first camera at 9 (settles WB
+10.5B) · §56 six short conversations to
+match to the CB 10.8 pictures. *Wordlists*
+(pp.90–~103): first an **Alphabetical**
+wordlist giving every course word with its
+pronunciation in phonetic letters and the
+lesson where it first appears ("a hundred and
+(forty) 3.2 · about (= approx.) 9.6 · best
+(best wishes apart)…" — with usage notes
+inside entries: "think of (= opinion) 7.5",
+"take (How long will it ~?) 9.6", "(two)
+times a week 8.6"), then the same vocabulary
+again as a **Thematic** wordlist grouped by
+unit and lesson without pronunciations.
+
+**Differences from the Course Book, as
+printed.** (1) The tapescript's park story
+(§37) names its boy **Hasan** — "On Thursday,
+Hasan left his house at quarter to five. He
+walked to the park… At seven o'clock, Hasan
+phoned Ahmed." — where the Course Book's
+printed story, its §38 phone conversation,
+and this workbook's own 7.6 questions all say
+**Mustafa**. (2) Two of the workbook's Course
+Book page references do not match the Course
+Book's own numbering, whose other references
+here are exact (pp.43–44, 60, 64, 65, 71, 75,
+77, 78, 79, 81, 82): 6.4 cites "Course Book
+page 52" for the desert picture, which is
+lesson 6.4 at book p.48; 8.8 cites "Course
+Book page 72" for the housework conversation,
+which is lesson 8.8 at book p.68. (3) The
+"Sound and spelling practice" section opens
+at exercise C — no exercises A or B appear
+in this book. (4) The Grade 7 pair otherwise
+agree: Ali is eleven in both books' opening
+material, twelve in his own story in both.
+
+**Libya Grade 7 — FULLY READ 2026-10-25**
+(Course Book + WorkBook; the grade-07 record
+holds exactly these two books). Basics filed
+above; acceptance counts unchanged — same
+country, the next spiral up. Next per the
+queue: Libya Grade 8, record check first.
