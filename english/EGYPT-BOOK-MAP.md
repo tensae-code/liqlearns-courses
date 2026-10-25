@@ -2135,9 +2135,9 @@ order.
 
 ## Still owed in this pass
 - DONE since: KG2 ✅, Primary 1 Term 2 ✅, Primary 2 Term 1 ✅,
-  Primary 2 Term 2 ✅ (2026-10-25). Next: Primary 3 — one book at
-  a time.
-- Then map Primary 3–6, Preparatory 7–9, Secondary 10–12 the same
+  Primary 2 Term 2 ✅, Primary 3 Term 1 ✅ (2026-10-25). Next:
+  Primary 3 Term 2 — one book at a time.
+- Then map Primary 4–6, Preparatory 7–9, Secondary 10–12 the same
   way, one grade at a time.
 
 ## Primary 2 Term 1 — reading started 2026-10-25
@@ -2964,3 +2964,261 @@ counting 20–50 and 50–100, and the Nour story with its named story
 parts → Word and Sentence title material (nouns are Term 2 Unit 1's
 first real source; the Nour story is Term 4 Unit 4's first), recorded
 here and slotted in CURRICULUM.md.
+
+---
+
+## Primary 3 Term 1 — read in full 2026-10-25 (all 120 pages, visually)
+
+Book facts (verified on disk 2026-10-25): `English_language_prim3_t1.pdf`
+— 25,838,419 bytes, ends %%EOF, 120 pages, IMAGE-ONLY (no text layer
+at all) — read visually from rendered pages. Downloaded from the
+Telegram library channel (message captioned "Egypt — Grade 3 —
+English Language — English Language Primary 3 Term 1. Source: Egypt
+MoE"; the channel attachment's own name is
+`English_language_prim3_t1.pdf`) via the source link in that message:
+https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary3/Term1/StudentBook/English_language_prim3_t1.pdf
+**Page rule: printed folio = PDF page** (checked on every unit).
+Identity: cover "English / Primary 3 / Term 1" (p.1); © 2025 MoE
+(p.2); ministry message (p.3) names the "Primary 3 Framework for
+Egyptian Learners", organized into weekly sessions. Back page
+(p.120): ISBN 978-633-8475-02-4; deposit no. 2026/8934; Arabic print
+spec says 124 pages / 2026–2027 printing (the secured PDF has 120);
+developed, revised and supervised by Prof. Zeinab El-Naggar, Prof.
+Attia El-Sayed, Prof. Nagwa Younis, Dr. Mai Kamal, Ms. Amira Awaad,
+Dr. Eman Mahmoud Youssef, Dr. Amira Fawzy Ahmed, Ms. Mai Ibrahim
+Zaber, Dr. Ghada Elsayed Mohammed, Dr. Akram Hassan Mohammed, Dr.
+Gebriel Anwer Hemeida; in participation with Selah El Telmeez;
+British Council + CACD marks.
+
+THE BOOK'S SHAPE: Scope and Sequence (p.4); six units, each opening
+with Learning Outcomes and closing with a star-rated Self-Assessment
+(Not yet / Sometimes / Always); Review 1 after Unit 3 (pp.63–66);
+Review 2 after Unit 6 (pp.114–117); Glossary (pp.118–119, ~85 words
+by category with one plain definition each). Lessons per unit vary:
+U1 4 · U2 4 · U3 4 · U4 3 · U5 4 · U6 4. Unit spans: U1 Let's Learn
+Together! pp.5–26 · U2 My Family and I pp.27–42 · U3 New Adventures
+pp.43–62 · U4 Let's Tell Stories! pp.67–81 · U5 Together Is Better
+pp.82–98 · U6 Dare to Dream pp.99–113.
+
+THE GRAMMAR SPINE (every Language in Use / Language Focus box, in
+the book's own order — the richest rule book so far):
+1. **Present Simple Tense for Descriptions** + Verb "To Be" table —
+   "We use the present tense to talk about who we are and what
+   people are like": I am / You are / He is / She is / It is / We
+   are / They are (p.16); Asking Questions note ("We use questions
+   to learn about our friends").
+2. **Present Simple Tense for Routines** with the FULL spelling
+   rules (p.23): add -s with he/she/it · verbs ending ch, sh, x, ss
+   or o add -es · consonant + y → change y to i and add -es ·
+   vowel + y → add -s. (P2 T2 named only "he/she/it add -s"; this
+   book completes the rule.)
+3. **Possessive Pronouns my / her / his** (p.30, photo examples).
+4. **Past Simple Tense (regular)** (p.60): "We use the past tense
+   to talk about something that happened. For most verbs, we just
+   add -ed… For verbs ending in -e, we add -d" — jump/jumped,
+   climb, walk, play, smile, close, dance, like.
+5. **Past Simple Tense (irregular)** (p.71): "Irregular verbs are
+   special words! we DO NOT add -ed to make the past tense. Their
+   past tense form is different" — go/went, eat/ate, is/was,
+   are/were, do/did, see/saw, come/came, have/had; more pairs in
+   stories: draw/drew, fall/fell, feel/felt, win/won, leave/left,
+   take/took, hurt/hurt.
+6. **Punctuation Tips** (p.54, restated p.90): capital letters at the
+   beginning of the sentence; periods at the end of sentences;
+   question marks at the end of questions; a comma after (Then –
+   First – Finally).
+7. **Prepositions of Place** (p.55): "They are words that tell you
+   where something is found" — on, under, behind, between, in
+   front of, in (real photos of cats and dogs with a box). Extends
+   P2 T1's on/under/next to/in set with behind, between, in front
+   of.
+8. **Action Verbs** (p.89): "Action verbs are words that show what
+   someone does. They tell us about an action" — helps, solve,
+   finds, work, plan, fixes, agree.
+9. **Linking words** (Tip, p.70): "Linking words make the story
+   clear and easy to follow. First, Then, After that, Finally";
+   Note box (p.75): Then = what happens next · But = something
+   different · And = add more or join; when/after drilled in U4.
+10. **Present Continuous Tense** (p.103): "We use the present
+    continuous tense to talk about actions happening now or around
+    now" — Verb to Be + verb +ing table (am practicing / is trying
+    / are celebrating). It also speaks earlier, untaught, in U5's
+    dialog ("What are you doing? I am helping clean the park",
+    p.95).
+
+THE PHONICS SPINE (Phonics Focus pages):
+- **Digraph "wh"** /w/ (p.12): what, when, where, whale, wheel,
+  white (+ why in the fill-ins).
+- **Letter "x" = /gz/** (p.35): exam, exit, example, examine, exist
+  (+ riddles).
+- **Digraph "ph" = /f/** (p.38): phone, photo, elephant, graph,
+  alphabet (+ riddles).
+- **Double Consonant Endings** (p.49) — the book STATES the rule:
+  "If a short word has a short vowel sound, and it ends with (F, L,
+  S, or Z), we often write two of those letters": ff cuff off
+  staff · ll bell pull tell · ss grass less miss · zz buzz fuzz
+  jazz.
+- **Digraph "ck" = /k/** (p.53): "The letters 'ck' together make
+  one /k/ sound (like in 'cat' or 'kite')" — duck, sock, back,
+  neck, truck. ( filed under two-letter-sounds.)
+- **Hard "c" = /k/** (p.73): "'c' makes a hard /k/ sound when it is
+  followed by (a, o or u) or at the end of a word as 'ck'" — cat,
+  came, cold, carry.
+- **Soft "c" = /s/** (p.76): "'c' makes the soft /s/ sound when
+  followed by (e, i, or y)" — face, nice, city, ice, pencil, cent;
+  hard/soft sorting box.
+- **Hard "g" = /g/** (p.87): "'g' has a hard sound when followed
+  by: (a, o, or u) or at the end of a word" — game, dog, gum,
+  green, big, good.
+- **Soft "g" = /dʒ/** (p.93): "'g' usually makes a soft sound /dʒ/
+  when it is followed by (e, i, or y)" — giraffe, Egypt, page,
+  huge, magic.
+- **Three-Consonant Clusters** (p.105): "Words that begin with
+  three consonants" — spr-, spl-, str-, scr-: spring, spray,
+  splash, split, screen, scratch, string, street. (Three-letter
+  START blends — filed with the Blends lesson's sources; P2 T2's
+  END blends stay separate, as ruled there.)
+
+UNIT 1 — LET'S LEARN TOGETHER! (pp.5–26)
+- L1 Greetings and Introductions (pp.6–9): the full greeting set as
+  one list (Hello! · Good morning! · How are you? · I am fine,
+  thank you. · Nice to meet you. · See you later! · Goodbye!) +
+  Introducing Yourself (My name is… · I am… · I am from Egypt. · I
+  am …. years old. · I am in Primary 3); pair practice; phrase→
+  when-you-say-it matching; the "Meeting a New Friend" dialog
+  (Sara & Lina, p.7) running the WHOLE conversation in one flow —
+  hello, good morning, how are you both ways, names both ways,
+  "How old are you? / I am 8 years old!" (the FULL "years old"
+  form — P2's short forms and Libya's short answer beside it),
+  nice to meet you both ways, see you later, goodbye; fill-in
+  dialog and choose-the-right-response listening (pp.8–9).
+  → Conversation lessons' sources (hello-and-your-name,
+  how-are-you, good-morning-and-good-afternoon, how-old-are-you).
+- L2 Classroom Rules (pp.10–12): classroom phrases — Raise your
+  hand · Listen carefully · Sit down · Be kind · Keep your
+  classroom clean · Don't shout · May I go to the bathroom? (the
+  P2 set, grown: "May I…?" joins "May I sit down?"); act-it-out
+  game; behavior self-check → classroom/conversation material.
+- L3 Describing People (pp.13–18): looks (tall, short, curly hair,
+  straight hair, long hair, short hair, brown eyes) + personality
+  (funny, shy, friendly, helpful, polite); describing sentences;
+  the To Be box (above); reading text "This is my friend Mona…"
+  → adjectives/describing material for the Word title.
+- L4 Daily Routines (pp.19–26): routine set (wake up, brush my
+  teeth, get dressed, make my bed, brush my hair, have breakfast,
+  go to school, do my homework + sleep, play, read, write, eat,
+  watch TV); photo sentences with clock times ("I wake up at 7
+  a.m. / I go to school at 8 a.m."); Amir routine reading (p.22);
+  the full Present Simple routines box (p.23); "What time do you
+  wake up?" Q&A (p.25) → routines + telling-time material.
+
+UNIT 2 — MY FAMILY AND I (pp.27–42)
+- L1 Meet My Family (pp.28–31): family lineup photo-drawn set —
+  father, mother, sister, brother, grandmother, grandfather,
+  uncle, aunt, cousin ("This is my family"); the possessives box
+  (p.30); "My uncle is a police officer" appears in reordering
+  (police officer joins the job words in exercises) → family words
+  (P2 set restated whole) + the pronouns lesson's his/her depth.
+- L2 Family Traditions and Celebrations (pp.32–34): Egypt's days
+  by name and picture — Eid Al-Fitr · Sham El-Nessim (garden all
+  day, play, eat salted fish) · Mother's Day · 6th of October (the
+  brave Egyptian soldiers) — own-country culture material.
+- L3 My Family Helps Me Grow (pp.36–38): family-action sentences
+  (My father takes me to school · My mother cooks us food every
+  day · My brother helps me do my homework · My grandmother reads
+  me a story); Nour reading text.
+- L4 Jobs in My Family (pp.39–42): jobs by real photo — farmer,
+  doctor, teacher, baker, pilot; job sentences (works as a doctor
+  · works at a school · bakes delicious bread · travels around the
+  world) → jobs word set.
+
+UNIT 3 — NEW ADVENTURES (pp.43–62)
+- L1 Places Around Me (pp.44–48): places by real photo — house,
+  library, supermarket, park, train station, museum (the museum
+  photos are the Grand Egyptian Museum); "Where do you buy food /
+  read books / play / live?"; reading text "Youssef's Busy Day"
+  (p.47, past-tense day story).
+- L2 Egypt's Landmarks (pp.50–52): Cairo Tower · Alexandria
+  Library · The Pyramids of Giza by real photo; reading text
+  "Laila's Holiday Adventure" (p.51) → Egypt's own-land material.
+- L3 Map It Out (pp.55–57): the Prepositions of Place box (above)
+  + story "Samy and the Toy Car" (circle the prepositions;
+  checked / stuck / stick bolded as new words).
+- L4 A School Trip to the Zoo (pp.58–62): past-tense zoo text ("The
+  ticket was 20 pounds"); the regular Past Simple box (p.60).
+
+UNIT 4 — LET'S TELL STORIES! (pp.67–81; only 3 lessons)
+- L1 How We Feel (pp.68–72): feelings by real photo — happy, sad,
+  excited, angry, shy, tired, bored, scared; "How do you feel? —
+  I feel so happy!"; story "Adam and Omar in the Garden" (p.70,
+  the linking-words Tip; NOTE the same story is reprinted on p.73
+  set in "the park" instead of "the garden" — the book varies its
+  own text); the irregular Past Simple box (p.71).
+- L2 A Helping Hand (pp.74–77): Sara story (bored → drew → fell →
+  felt sad and scared → helped → felt better); Remember box
+  (go/went, draw/drew, fall/fell, help/helped); the then/but/and
+  Note; soft-c phonics (p.76).
+- L3 A Big Win (pp.78–80): Omar football story — nervous, worried,
+  proud; scored / won; linking words when/but/after; "My Feelings"
+  draw-and-write.
+
+UNIT 5 — TOGETHER IS BETTER (pp.82–98)
+- L1 Teamwork & Chores (pp.83–86): chores/team words by photo —
+  clean, tidy up the bed, share, care, win, cheer, plant, donate;
+  "Having Fun" chores text (Mona and Karim; "Good job, team!").
+- L2 Teamwork at School (pp.87–90): bridge-building story; the
+  Action Verbs box (p.89); story "We Share, We Care" (problem and
+  solution named as story parts to find).
+- L3 Teamwork in Sports (pp.91–92): "We win together!" story.
+- L4 I Help My Community! (pp.94–98): donate/plant sentences with
+  one-line definitions printed in the book (plant: to put a flower
+  or tree in the ground · donate: to give things to help people);
+  helping dialog (p.95); story "We Help Our Neighborhood!".
+
+UNIT 6 — DARE TO DREAM (pp.99–113)
+- L1 My Goal, My Dream (pp.100–103): goal words by photo — goal,
+  try, step, plan, practice, celebrate, success, reach (the Scope
+  and Sequence lists "achieve"; the lessons teach "reach"); story
+  "Samer's Goal" (p.102, present continuous inside a story); the
+  Present Continuous box (p.103).
+- L2 A Day To Remember (pp.104–107): Laila spring story carrying
+  the cluster words (spraying, splash, spins, split, screen); the
+  clusters phonics (p.105); Mona bike story (p.106 — present
+  continuous + First/Then/Now ordering, "practice brings
+  success").
+- L3 I Did It! (pp.108–109): Tamer exam story (past tense) +
+  story frame (First, I wanted to… · Then, I… · After that, I… ·
+  Finally, I felt…).
+- L4 Helping Others Succeed (pp.110–112): Yara runner story.
+
+THE BOOK'S OWN SLIPS, recorded as printed: exercise lettering goes
+a-b-c-b-e twice (pp.24, 25); "Choose the corret verb" (p.79,
+missing an r); the Scope and Sequence's U6 vocabulary says
+"achieve" where the lessons teach "reach"; the Adam-and-Omar story
+changes garden→park between its two printings (pp.70, 73).
+
+ALSO RECORDED: U1's outcomes promise "describe oneself and
+others"; every unit's reading texts are short finished stories in
+the past or present tense — the Story title's Egypt shelf keeps
+growing (Youssef's Busy Day, Laila's Holiday Adventure, Samy and
+the Toy Car, Adam and Omar, A Helping Hand, A Big Win, We Share We
+Care, We Win Together, We Help Our Neighborhood, Samer's Goal,
+Mona's bike, Tamer, Yara).
+
+Filed from this read: Conversation sources (U1 L1, pp.6–9, incl.
+how-old-are-you's full "years old" form); two-letter-sounds sources
+(wh p.12 · x = /gz/ p.35 · ph p.38 · double-consonant-ending rule
+p.49 · ck p.53 · hard c p.73 · soft c p.76 · hard g p.87 · soft g
+p.93); Blends sources (three-consonant clusters, p.105);
+introducing-a-friend sources (the family/jobs layer, pp.28–42).
+The rest — verb to be, present simple full rules, possessives,
+past simple regular + irregular, punctuation, the full preposition
+set, action verbs, linking words, present continuous, describing
+people, routines + times, places, landmarks, celebrations,
+feelings, chores, goal words, and the thirteen stories — is
+recorded here and slotted in CURRICULUM.md (this book stocks Term 3
+heavily: the Sentence book of rules, and Term 4's story shelf).
+
+**PRIMARY 3 TERM 1 FULLY READ — 2026-10-25.** Egypt progress: 7 of
+26 English books read (KG1, KG2, P1 T1+T2, P2 T1+T2, P3 T1). Next:
+Primary 3 Term 2.

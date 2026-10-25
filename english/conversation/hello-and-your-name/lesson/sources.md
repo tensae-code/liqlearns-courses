@@ -104,3 +104,16 @@ doesn't have: "Good morning, Ms. Amira." (greeting a teacher by
 name) and "May I sit down?" Exercises pp.6–7 practice the same
 exchange (pair practice "Hello, what is your name?" — "My name is
 ______").
+
+### Egypt — Primary 3 Term 1 (read 2026-10-25)
+Unit 1, Lesson 1 "Greetings and Introductions" (pp.6–9): the whole
+greeting set as one list — Hello! · Good morning! · How are you? ·
+I am fine, thank you. · Nice to meet you. · See you later! ·
+Goodbye! — plus Introducing Yourself (My name is… / I am… / I am
+from Egypt. / I am in Primary 3). The "Meeting a New Friend" dialog
+(p.7, Sara and Lina) runs the entire conversation in one flow:
+hello → good morning → how are you (both ways) → names (both ways)
+→ how old are you → nice to meet you (both ways) → see you later →
+goodbye. Fill-in dialog and choose-the-right-response listening
+follow (pp.8–9). Same country, deeper layer — the count does not
+change. (Full map: EGYPT-BOOK-MAP.md.)

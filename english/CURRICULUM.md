@@ -83,6 +83,20 @@ talks about now, before, and later.*
   going to — from Libya's middle-grade spine
 - **Unit 4 — Joining and Describing**: and/but · describing words in a
   sentence · mine and yours
+*(Egypt Primary 3 Term 1, read 2026-10-25, stocks this whole term
+heavily: verb "to be" with its full table (U1) · the present simple
+for routines with ALL its spelling rules (U1) · possessives my/his/
+her (U2) · **past simple, regular (-ed / -d) and irregular (went,
+saw, had…), both with the book's own stated rules (U3/U4)** ·
+punctuation — capitals, periods, question marks, comma after
+First/Then/Finally (U3/U5) · the full preposition set — on, in,
+under, next to, between, behind, in front of (U3) · **action verbs
+named as a kind (U5)** · linking words First/Then/After that/
+Finally and then/but/and (U4) · **present continuous — am/is/are +
+verb-ing, for actions happening now (U6)**. It also feeds Term 2
+(describing people — looks and personality, U1; daily routines with
+clock times, U1) and Term 4 (thirteen finished short stories, U1–U6,
++ story parts in play: problem and solution, U5).*
 
 ## Term 4 — Paragraphs, essays, and stories
 *End of term: the learner reads whole texts, writes paragraphs and a

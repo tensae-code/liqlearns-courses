@@ -15,7 +15,16 @@ Libya (Garnet) · Books verified on disk 2026-10-25.
 | "I'm Muna. I'm 7." — age in a self-introduction | Libya Primary 2 Pupils Book (the year's lead child, Muna) |
 | "How old are you? — I'm 8." (Omar) | Libya Primary 3 Pupils Book, Unit 1 Lesson 1, book pp.8–9 |
 
-**Acceptance count: taught in 1 country (Libya).**
+**Acceptance count: taught in 2 countries (Egypt, Libya) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 Egypt and Nicaragua's filed books ask names in their greeting
 material, not age — so they are not counted here. The count grows
 as other finished countries' books are read.
+
+### Egypt — Primary 3 Term 1 (read 2026-10-25)
+Egypt now JOINS this lesson. Unit 1's "Meeting a New Friend" dialog
+(p.7) asks it inside the talk — "How old are you?" — "I am 8 years
+old! I am in Primary 3." — and the Introducing Yourself list carries
+the frame "I am …. years old." (p.6); the fill-in dialog asks it
+again (p.8). Egypt's form is the FULL form, "years old" said whole —
+beside Libya's short classroom exchange. This changes the count:
+**taught in 2 countries (Egypt, Libya).**

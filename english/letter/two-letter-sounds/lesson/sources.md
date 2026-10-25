@@ -30,3 +30,26 @@ brother, this, that (pp.72–73) — the book teaches the two th sounds
 as two separate sets, eleven pages apart, and never mixes them ·
 **sh** — sheep, ship, shop, fish, dish, brush (pp.79–80) · **ch** —
 cheese, chicken, chin, lunch, beach (p.89).
+
+### Egypt — Primary 3 Term 1 (read 2026-10-25) — the pair-sounds book
+The fullest two-letter-sound set in any book read so far, each with
+the book's own stated rule (full map: EGYPT-BOOK-MAP.md):
+- **wh** (Digraph "wh", p.12): what, when, where, whale, wheel,
+  white (+ why in the fill-ins).
+- **x says /gz/** (Phonics Focus, p.35): exam, exit, example,
+  examine, exist.
+- **ph says /f/** (Phonics Focus, p.38): phone, photo, elephant,
+  graph, alphabet.
+- **Double consonant endings** (p.49) — the book states the rule:
+  after a short vowel sound, words ending in F, L, S or Z often
+  double the letter: ff (cuff, off, staff), ll (bell, pull, tell),
+  ss (grass, less, miss), zz (buzz, fuzz, jazz).
+- **ck says /k/** (p.53): "The letters 'ck' together make one /k/
+  sound" — duck, sock, back, neck, truck.
+- **Hard c / Soft c** (pp.73, 76): c says /k/ before a, o, u or as
+  final ck (cat, came, cold, carry); c says /s/ before e, i, y
+  (face, nice, city, ice, pencil, cent) — sorted side by side.
+- **Hard g / Soft g** (pp.87, 93): g says /g/ before a, o, u or at
+  a word's end (game, dog, gum, green); g says /dʒ/ before e, i, y
+  (giraffe, Egypt, page, huge, magic).
+Same country, deeper layer — the country count does not change.

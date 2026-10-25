@@ -18,3 +18,12 @@ pictures).
 
 **Acceptance count: taught in 1 country (Egypt).**
 Counts grow as other finished countries' books are read.
+
+### Egypt — Primary 3 Term 1 (read 2026-10-25) — three-letter blends
+Phonics Focus "Three-Consonant Clusters" (p.105): "Words that begin
+with three consonants" — **spr-** (spring, spray), **spl-** (splash,
+split), **str-** (string, street), **scr-** (screen, scratch). The
+blend grows from two letters to three, still at the START of the
+word — this lesson's own thing, one step deeper. (Egypt Primary 2
+Term 2's END blends, -mp/-ft/-lt/-nd/-sk, stay a separate lesson,
+as recorded there.) Same country, deeper layer.
