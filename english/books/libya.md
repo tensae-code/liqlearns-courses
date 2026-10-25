@@ -592,3 +592,45 @@ its three answers, "And how are you?", and asking a third
 person's name ("What's his/her name?"). Body set + knee, the
 "There are …" counting pattern and classroom set recorded here
 for the Word/Sentence/Maths titles.
+
+### Unit 3 "Healthy Food" (book pp.29–40)
+The first *new* theme of Grade 2 — food, and saying what you
+like and want. L1 (p.30) "I like fruit": banana, mango,
+strawberry, grapes, pear, watermelon, dates, taught at a family
+table (mum, dad and the four children labelled); the likes are
+said with plurals — "I like pears. · I like watermelon. · I
+don't like bananas." L2 (p.31): "What's your favourite fruit?"
+and **The Fruit Song** in pictures (words in Songs And Rhymes,
+p.104); the learner says their own likes over apples, pizza,
+jam, cake, pear, grapes, dates. L3 (p.32) In The Café: a Kids'
+Menu — sandwich, pizza, burger, juice, water, milkshake — and
+likes said about other people: **"He likes burgers. · She likes
+sandwiches. · What do you like?"** L4 (p.33): the **a / an**
+lesson — "It's a lemon. · It's an orange." — then a tick
+exercise, a or an, over cake, ice-cream, watermelon, pizza,
+orange, egg. L5 (pp.34–35): "Do you want an orange? — No, thank
+you. · Do you want a mango? — Yes, please."; **My School Lunch**
+— the book's first read-aloud text (Listen, look and **read**):
+"In my lunchbox there is a sandwich, an apple and a banana, a
+cake and some water. Yummy!"; "Do you want some grapes?" L6
+(pp.36–37) The Menu: listen-and-match over ten foods (burger,
+water, sandwich, milkshake, ice-cream, pizza, juice, cake,
+coffee, dates) into a who-wants-what grid; "I want a ___ · I
+want an ___"; four mini-dialogs — "I'm hungry. — Do you want a
+sandwich? — Yes, please. — Here you are. — Thank you." and
+"I'm thirsty. — Do you want some juice? …" and "I'm not
+hungry." L7 (p.38) Letters And Sounds: **or** (fork, popcorn),
+**ie** (pie, tie), **ng** (king, ring), **ou** (mouth, mouse).
+L8 (p.39) My Healthy Plate: "What do you have on your healthy
+plate? — I have chicken, cheese, an orange and water." + a
+listen-and-tick food list: apple, bread, fish, chicken, steak,
+cucumber, carrot, rice, orange, banana, eggs, cheese, tomato,
+water. "Now I can …" (p.40): say what I like and don't like;
+say my favourite fruit; ask and answer "Do you want …?"; talk
+about my lunchbox; say what I want; say when I am hungry or
+thirsty; say new letter sounds and words; talk about healthy
+food.
+→ Food set, the likes/wants/hungry-thirsty patterns and the
+a/an choice recorded here for the Word and Sentence titles;
+the lunchbox text is the Grade 2 first reading text, noted for
+the Sentence→Paragraph step.
