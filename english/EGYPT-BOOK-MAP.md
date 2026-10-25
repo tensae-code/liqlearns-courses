@@ -348,6 +348,14 @@ Book page = PDF page − 4, same as KG1.
 - p.39 Letter Formation Directions for Dd/Mm · p.40 Practice: trace
   Dd; circle the beginning letter (footer: "Refer to page 113 to
   make your own poster")
+- p.41 Practice: trace Mm; match the pictures that begin with Mm
+- p.42 Read and say: "I have 4 caps." / "I have 3 dresses." (numbers
+  inside the clothes speech)
+- p.43 Numbers Are Fun! — 3 T-shirts, 4 shorts, 5 caps · p.44 point,
+  count, then trace 3, 4, 5 (formation arrows) · p.45 count then
+  circle the number · p.46 color only 3 mugs / only 4 mugs
+- p.47 Letters and Sounds: **Gg** — guitar, grass, Gamila (the unit's
+  third letter, taught on its own page) · p.48 Gg formation
 
 ## Still owed in this pass
 - Finish KG2, then Primary 1 Term 2 — one book at a time.
