@@ -145,6 +145,21 @@ The unit pattern is now confirmed for the whole book: words first
 a color+shape, the next letters, practice, a 4-panel story, a project,
 show and tell.
 
+### KG1 Unit 3 — page by page (book pp.37–48 so far; read 2026-10-25)
+- p.37 Unit opener: washing at the sink, mirror (My Body, My Care!)
+- p.38 My body parts: face, arm, hand, foot (labeled picture)
+- p.39 My face parts: hair, ear, eye, nose, mouth
+- p.40 Point to it: eye / ears · p.41: nose, teeth, mouth
+- p.42 "How Many? Match the Body Parts" — eyes, feet, ears go with
+  **2**; nose, mouth go with **1** (the counting hides inside the body)
+- pp.43–45 **Hygiene Actions — the book's first full action
+  sentences:** "I comb my hair." · "I wash my face." · "I wash my
+  hands." · "I sneeze and cover my nose." · "I brush my teeth."
+  (Sentence title: the "I + action + my + body part" pattern starts
+  here, in KG.)
+- p.46 Color the correct action (right/wrong hygiene judgment page)
+- p.47 The sound of Pp — pen, pan, pants · p.48 Trace Pp
+
 Reading continues page by page until the book is finished (one book
 at a time — his rule). Filed so far from KG1: Pencil and Lines
 (grip + lines, p.1); Greetings (spoken greetings pp.2/4/5 + story
