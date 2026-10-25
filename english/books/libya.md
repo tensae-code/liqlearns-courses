@@ -9886,3 +9886,337 @@ are made in the Course Book section above. The course's
 named fourth component, a Test booklet, is again not in
 the library record. Next per the queue inside this grade:
 the **Work Book** (94 pp), one book at a time.
+
+---
+
+# Libya — English Grade 9 (Preparatory 3): Work Book
+
+**READ COMPLETE 2026-10-25** — read in full from page
+renders (`work9-pages/`, all 94 pages at 100 dpi).
+**Page rule: book p. = PDF p. − 1** (Unit 1 opens on book
+p.4 = PDF p.5).
+
+## Identity
+
+"21st Century English for Libya — Preparatory 3 Workbook",
+State of Libya, Ministry of Education, CERC. Garnet
+Publishing Ltd, Reading RG1 4QS, UK — **"First edition,
+copyright © 2019 Garnet Publishing Ltd."** The imprint
+thanks **Donna Bailey** for her contribution; illustrators
+**Red Giraffe, Janette Hill, Doug Nash**. Cover: the same
+domed Libyan building as the Teacher Book's cover, here
+tinted red; school year 2019–2020 (1440–1441 AH). Back
+cover code **10030904**; the back cover prints the four
+components (Course Book, Workbook, Teacher's Book, Audio)
+with the same descriptions as the Teacher Book's back
+cover, plus an Arabic line addressed to the pupil:
+«عزيزي التلميذ محافظتك على الكتاب المدرسي قيمة حضارية»
+("Dear pupil, keeping your school book is a civilized
+value"). Contents: U1 A School Magazine (p.4) · U2 Health
+Matters (p.17) · U3 Olympic Sports and Games (p.32) · U4
+Fun with English 1 (p.44) · U5 Communication and Sharing
+Information (p.51) · U6 Jobs and Professions (p.63) · U7
+Saving Our World (p.77) · U8 Fun with English 2 (p.88).
+**No back matter of its own** — no wordlists, no tapescript
+(both live in the Teacher Book's notes instead).
+
+## Shape
+
+The black-and-white writing twin: every Course Book lesson
+gets its Workbook exercises in the Course Book's order,
+cross-referenced by page ("on page 24 of your Course Book"),
+many carrying a **C21 SKILLS** badge. The work is the
+written half of every key already filed from the Teacher
+Book — sentence building, cloze, ordering, matching,
+punctuation repair, and the year's writing tasks done in
+stages (notes → draft → correct → final copy), with the
+five-part story information sheet (Title · Characters ·
+What is it about? · Why I liked/didn't like the story ·
+New words) repeated for all five Bob and Bashir episodes.
+Pupil-facing tip boxes, kept word for word:
+
+- **Writing tip: Punctuation – speech marks** (U1 L5):
+  "When we report what people asked or said, we have to use
+  speech marks. Examples: *Mike said, 'I'm a good
+  photographer.' · 'I'm a good photographer,' Mike said.*
+  Look at the commas in both sentences. Look at this
+  example. Why is there no comma? *'Is Rajab good at
+  writing stories?' I asked.*"
+- **Writing tip: Paragraphs** (U1 L5): "This is a very short
+  story, so it needs one paragraph. In paragraphs, sentences
+  follow each other. They do **not** begin on new lines.
+  When you finish, check your punctuation."
+- **Vocabulary tip: Expressing frequency** (U2 L1): every
+  day · every Thursday · often · not very often · once a
+  week · twice a week · sometimes.
+- **Vocabulary tip: Expressing quantity – a lot of** (U2
+  L2): "We can say: *a lot of biscuits, a lot of fruit.*"
+  The exercise above it makes the pupil write the rule:
+  too many / a few go before count nouns; too much / a
+  little before non-count nouns.
+- **Writing tip: Linking ideas in a sentence** (U2 L7):
+  "We use *but*, *and* and *when* to link ideas in a
+  sentence. *Mr Blue has the flu, but he is feeling better
+  today.* (contrasting information) · *Mr Blue has the flu,
+  and is seeing the doctor tomorrow.* (additional
+  information) · *Mr Blue was at the doctors when I saw
+  him.* (when something happened)"
+- **Writing tip: Topic sentences** (U3 L6): "When you write
+  a paragraph describing or explaining something, the first
+  sentence often tells you what the paragraph is about.
+  This is called the **topic sentence**."
+- **Speaking tip: Saying numbers** (U3 L4): "There are 60
+  seconds in one minute. There are 100 centimetres in a
+  metre. We use a decimal point and say: **12.5 seconds:**
+  *twelve point five seconds* · **1.45 metres:** *one point
+  four five metres*."
+- **Speaking tip: Saying dates – years** (U3 L7): "1981
+  means the year one thousand, nine hundred and
+  eighty-one. However, we say and write the year in these
+  words: 1981 – *nineteen eighty-one* · 1896 – *eighteen
+  ninety-six* · 2014 – *two thousand and fourteen*."
+- **Reading tip: Understanding the meaning of new words**
+  (U5 L3): "Sometimes you don't need a dictionary. You can
+  work out the meanings of a word by looking for clues in
+  the same sentence or in other sentences." The chesterfield
+  exercise then walks the possible → impossible → correct
+  method in three printed steps.
+- **Remember!** boxes: U4 L4 — "You will need to use 'used
+  to'." · U8 L4 — "Paint a picture. How did you feel?"
+
+## Work-Book-only texts, kept
+
+- **Aunt Sally's advice in note form** (U1 L4, printed as
+  handwriting — the pupil turns the notes into her
+  paragraphs): for the exam-stress letter — "work hard all
+  semester – don't work too hard before exams – at exam
+  time, try not to worry – before bed, read a story or
+  listen to music, etc. – bed early"; for the
+  homework-copying letter — "agree, not right – don't give
+  h.w. – v. unhelpful – not helping your friend – doesn't
+  do own work, won't learn anything – e.g., can't copy in
+  exams – explain". Two more problems with her notes (U1
+  L4 D): "I stammer when the teacher asks me a question. I
+  feel very embarrassed." — notes: "count to 5 before u
+  spk. – think abt. what to say – ask yr. teacher to help –
+  she'll understand"; "I cannot remember new words in my
+  French class." — notes: "write words in groups in yr.
+  vocabulary bk. e.g. names of food, buildings, clothes –
+  ask for help – learn 5 new words a day."
+- **Sarah's letter to Muna** (U2 L6, in full): "Dear Muna,
+  I was very sorry to hear about your accident. I hope your
+  leg does not hurt too much and that you will be able to
+  leave hospital soon. We have had an unusual week at
+  school. First, we had a visit from a nurse called
+  Fawzia. She gave us a talk about food. It was very
+  interesting and I really enjoyed it. Now I can tell you
+  which food is good for you and which is not so good. Then
+  we had a visit from a netball coach. She was fantastic.
+  We learned a lot from her. She showed us little things to
+  make our game better. I will show them to you when you
+  are back at school. All your friends in class miss you
+  and send you their best wishes. We will come and see you
+  on Friday if you are still in hospital. Love Sarah" —
+  with the card-making instructions beside it (card about
+  20 cm by 28 cm, fold in the middle, picture on the front,
+  message inside).
+- **Jalal's marked draft** (U2 L5 D, in full): paragraph 1
+  of his story printed as handwriting with the teacher's
+  marks on it — "I sometimes have to look after my little
+  brother for an hour or so. [join] My parents go out.
+  Ibrahim is ten. He always wants me to play with him. I
+  [join] want him to play by himself. One day when I
+  [gr. — 'played' corrected] a computer game, he said again
+  and again, 'Jalal, I feel sick. I've got a [sp.] pane in
+  my stomach.' [p.] [n.p.] 'You always say that, Ibrahim.
+  There's nothing wrong with you,' I said. 'You haven't got
+  a [sp.] pane. You are a [sp.] pane. Sit down and watch
+  that video.'" — and a marginal question, "How did you
+  feel?"
+- **The Khalid paragraph** (U2 L8 C, to correct and join):
+  "Khalid was watching TV. The phone rang. It was for his
+  mother. I'll take it in the kitchen she said. Take care
+  of your little brother. I will, he answered. Five minutes
+  later Khalid looked for his brother. He wasn't there.
+  Khalid ran into the garden. He saw his brother up a tree.
+  Stay there, he shouted. Don't move. Just then, his
+  brother fell. Khalid ran over. His brother was lying on
+  the ground. He was crying. He wasn't hurt. He was just
+  frightened." (The Teacher Book's model answer is filed
+  in its section.)
+- **The Waddan–Mizda final** (U3 L8 C, cloze): "Waddan
+  played Mizda in the ___ of the Libyan Schools'
+  competition. After 85 minutes, the ___ was Waddan 0,
+  Mizda 0. Then the ball came to Hasan. He ___ it past the
+  Mizda goalkeeper. 'Waddan 1, Mizda 0!' shouted Hasan.
+  'We've ___ the ___! We've ___ Mizda.' Unfortunately,
+  Mizda ___ two ___ very quickly after that and Waddan ___
+  the game 1–2." (Box: lost, kicked, goals, final, beaten,
+  cup, score, scored, won.)
+- **The three notices reprinted in full** (U4 L2, book
+  p.47 — the Work Book carries the texts itself, so its
+  ten questions can be answered without the Course Book):
+  *Watch your weight!* — "Find out if you weigh too much.
+  Are you often out of breath? Do you eat more food than
+  you need? If you answer 'Yes', you are overweight. **How
+  to lose weight.** The best way is to eat the right food.
+  **Eat less fat.** Eat no cakes, chocolate or biscuits.
+  (Warning! These also contain sugar.) Drink less milk and
+  eat less cheese. Cut down on chips and crisps. **Eat less
+  sugar.** Don't have sugar in your tea or coffee. Cut down
+  on jam and honey. Eat more fruit." · *Al-Mustafa Sports
+  Centre* — "Take part in our Schools' Tennis Competition.
+  Everybody who takes part will receive a medal. The
+  competition starts on Monday 2nd March. Boys: 11 o'clock
+  · Girls: 2 o'clock. Wonderful prizes for the winners!
+  Each winner will receive a new computer for his or her
+  school. Call or email now and ask for an application
+  form. 04321 952841 / tennis@msc.com" (the number echoes
+  the Ashby centre's 952841 from Track 15) · *Healthy
+  teeth* — "Stop teeth decaying! Your teeth are important!
+  Do not lose them! Brush your teeth at least once a day.
+  Brush your teeth after every meal if you can. Spend
+  three minutes cleaning your teeth carefully. Go to a
+  dentist every six months. If you have toothache, go to a
+  dentist. Stop eating sugar and food that contains sugar."
+- **Nabeel and the computer** (U5 L8 D, in full): "Nabeel
+  decided to buy a computer. He wanted to send emails and
+  use social networking sites. He went to a shop and talked
+  to the shopkeeper. He was very helpful. They spent an
+  hour looking at different computers and, in the end,
+  Nabeel bought one. He took it home and switched it on.
+  Nothing happened. He tried five or six times, but the
+  computer didn't work. Nabeel was not pleased. The next
+  morning, Nabeel went back to the shop. The shopkeeper was
+  not there, but his helper was. 'I bought this computer
+  here yesterday,' said Nabeel, 'but it doesn't work.' The
+  assistant tried it. Nothing happened. 'We'll have to send
+  it away to be checked,' said the man. 'How long will that
+  take?' asked Nabeel. 'About two weeks,' he answered.
+  'That's no good,' said Nabeel. 'I paid a lot of money for
+  a new computer and I want it now.' 'I'm sorry. There's
+  nothing I can do,' said the assistant. 'Oh, yes there
+  is,' said Nabeel. 'Either give me another new computer,
+  or give me my money back.' He tried the new computer and
+  everything worked. He took his new computer home."
+- **The litter report in full** (U7 L1 C — headline choice
+  A *Litter* · B *The big clean-up* · C *Lots of people go
+  out picking up litter*; the Teacher Book's key picks B):
+  "For the past three months, hundreds of people have
+  worked in their spare time cleaning up litter. Everything
+  was carefully planned, so people knew what they had to
+  do. 'The planning was great,' said university student
+  **Ahmed Ayoob**. 'It meant there weren't too many people
+  in one place and too few people in another. We went to
+  different streets in the town in groups and we also
+  cleaned up a park. I found it hard to believe how much
+  litter we found there.' Schools also took part in the
+  clean-up. Schoolgirl **Jameela** said, 'We were sent to
+  picnic places outside the city. They're lovely places, of
+  course. Children can play and run about safely while the
+  adults sit and talk. But they're not lovely when they're
+  covered with old cans, bottles, plastic bags and food.
+  And they're not safe. Why don't people think of others
+  and take their rubbish home? It makes me very angry.'
+  **Saeed Abdullah** has four children. 'The whole family
+  took part,' he said, 'even little **Muna**. She's only
+  four, but she was picking up litter just like the rest of
+  us. I think education is important. We should teach our
+  children from an early age to keep our country clean.'"
+- **The marked career-plan draft** (U6 L7 C, handwriting
+  with marks): "I am very kind and [sp.] frendly. My
+  favourite subject at school is English. [join] I also
+  like geography. At the weekend, I go walking [where?]. I
+  like being outside. I like [join] [gr.] look at animals.
+  When I [gr.] will finish school, I am going to be [gr.
+  sp.] a busnessman. Before that, I am going to go to
+  [sp.] colledge [to do what?]." The Teacher Book's
+  corrected model is filed in its section.
+- **My hobby** (U8 L3, in full, with two real photographs —
+  a goldfish and a great white shark): "My hobby began
+  when I was a boy and I have enjoyed collecting fish and
+  learning about them since then. When I was ten, I made
+  my own aquarium. My mother gave me a big glass bowl. I
+  put some stones and plants in it, filled it with water
+  and put my fish in. They were goldfish. When the first
+  baby goldfish arrived, I was surprised to see that they
+  were black. Then a friend told me that baby goldfish are
+  always black. They change colour as they get older. My
+  favourite fish is the great white shark. Most people
+  think it is a killer. It has attacked 153 people swimming
+  in the sea. But for me, it is a beautiful animal. A few
+  years ago, I went all the way to Australia just to see it
+  in the wild. After about an hour, one appeared next to
+  our boat. It was about five metres long, almost as long
+  as the boat. That was one of the best days of my life."
+  (Questions keyed in the Teacher Book: he is not a
+  fisherman; first aquarium a glass bowl; stones, plants,
+  water and goldfish; the babies were black; favourite fish
+  the great white shark; seen in the wild in Australia;
+  aquarium = a glass home for fish, expensive = not cheap.)
+- The firefighter's day is printed here as the ordering
+  exercise itself (U6 L3): the two given sentences ("When I
+  arrived at the fire station yesterday morning, I checked
+  my equipment as usual. We had our first call at ten
+  o'clock.") and the closing paragraph are set in type, and
+  sentences a–n are the jumbled middle. The Track 39
+  exercise (U6 L4 D) prints its three job choices per
+  speaker — 1 a businessman · b reporter · **c cook** ·
+  2 a flight attendant · b teacher · c waiter · 3 a
+  astronaut · b flight attendant · **c pilot** · 4 a doctor
+  · b coach · **c teacher** · 5 a nurse · **b vet** · c
+  farmer · 6 **a secretary** · b businesswoman · c
+  zoologist (the letters the Teacher Book keyed).
+
+## Differences from the other two books, as printed
+
+1. **Labib for Layth.** U1 L2 asks "Who does **Labib**
+   suggest as the editor? Why?" and "What do **Labib** and
+   Usama want to be?" — the boy the Course Book's
+   conversation and Track 2 call **Layth** is **Labib**
+   here. The Teacher Book's key answers the questions
+   without naming him, so the split is this book's alone.
+2. **Suad for Suhad.** U7 L2 C asks what the three girls
+   will bring and prints the first name "**Suad**"; Track
+   44's script in both companion books names her **Suhad**.
+3. **Sawsan for Susan.** U5 L7 B tells pupils to "follow
+   **Sawsan's** advice on page 64 of your Course Book";
+   the Teacher Book's notes call the *Speak up!* blogger
+   Susan.
+4. This book's own rubric for the Carter cat (U7 L6 A)
+   points at "the journey on page 88 of your Course Book"
+   and Tracks 45–46 — matching the Course Book; and its
+   sentence list quietly supplies the story's missing
+   middle in single sentences (the cat "raced away", "Like
+   all cats, it was able to find its way home"), the same
+   completion the Teacher Book's Track 46 tells in full.
+5. Otherwise the three books agree — checked exercise by
+   exercise against the Teacher Book's keys (including the
+   deliberately wrong spellings it sets out to teach:
+   *sentre, biginers', afleetics, practice* for the verb,
+   *teem*).
+
+**Libya Grade 9 Work Book — READ COMPLETE 2026-10-25.**
+
+---
+
+# Libya — English Grade 9 (Preparatory 3): FULLY READ 2026-10-25
+
+**Libya Grade 9 — FULLY READ 2026-10-25** (Course Book +
+Teacher Book + Work Book; the grade-09 record's three
+books). The course names a fourth component, a **Test
+booklet**, which is not in the library record. The grade's
+grammar spine: tense revision with present perfect
+*for/since* · gerunds after *like/enjoy/hate* · possessive
+'s against plural ' · defining relative clauses with
+*who* · *should* advice · quantifiers · *want* + object +
+*to*-infinitive · *used to* · decimals, years, weights and
+times said aloud · the passive in present, past and
+*can* forms · parts of speech named and abbreviated ·
+*going to* for certain futures · *When* + present tense ·
+*may/might* · the first conditional revised — all of it
+carried by the five Bob and Bashir episodes at the World
+Youth Camp and a full year of skills tips gathered in the
+two Fun with English units. Next per the queue: **Libya
+Grade 10** — record check first, then the re-cover check,
+one book at a time.
