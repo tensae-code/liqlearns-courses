@@ -42,6 +42,31 @@ breakdown gets recorded here as each unit is worked through.
   sources.md). Title = the common-sense name (Greetings), not the book's
   unit name — per his title rule, 2026-10-25.
 
+## KG1 Term 1 — read from the rendered pages 2026-10-25
+
+The book starts BEFORE letters, at the true bottom:
+
+- **Book p.1:** "Let's learn how to hold a pencil correctly" — 5 pictures
+  of the pencil grip, then trace-the-lines practice (wavy and zigzag
+  lines). No letters yet.
+- **Contents (PDF p.3, two units on the page):**
+  - Unit 1 "Meet and Greet!" — Vocabulary: hello, good morning, goodbye,
+    boy, girl, friends, happy, sad · Phonics: **t** (train, toys),
+    **T** (turtle), **i** (in, insect), **I** (ink) · Language focus:
+    using simple greetings; recognizing the sound of letters Tt and Ii.
+  - Unit 2 "I Can Find it at School!" — Vocabulary: classroom, teacher,
+    chair, table, board, book, pencil, eraser, playground, swing, slide ·
+    Phonics: **s** (star, sun), **S** (school), **a** (apple, ant),
+    **n** (nest, night), **N** (numbers).
+- Unit 1 pages: "Friends" picture page (book p.3), "Look and Match:
+  Good morning / Goodbye" (book p.5) — in KG the greetings are spoken
+  and picture-matched, NOT read as sentences; the reading line is the
+  letter sounds (Tt, Ii first), exactly the bottom-up order.
+
+So the English path's first builds, in order: (1) Letter — before the
+letters: hold a pencil and trace (KG1 p.1); (2) Letter — the sounds of
+Tt and Ii (KG1 Unit 1 phonics, repeated in Primary 1 Unit 1).
+
 ## Still owed in this pass
 - Read KG1/KG2 and Primary 1 Term 2 as pictures (image-only PDFs — OCR
   or page-by-page reading) before their material can enter lessons.
