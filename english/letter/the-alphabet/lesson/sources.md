@@ -147,6 +147,23 @@ blends and short-vowel word families:
   zigzag, zipper, zoo), p.22; Vv/Zz mixed ✓/✗ letter checks and
   write-the-beginning-letter, p.23. (Term 2 Unit 1, read 2026-10-25)
 
+- Yy /y/ — **yellow, yo-yo, yawn, yes, yogurt** (the y red; a blue Y
+  letter character), PDF p.29; trace-then-write Yy + matching +
+  write-the-beginning-letter, p.30. (Term 2 Unit 2, read 2026-10-25)
+- Xx /x/ (ks) — **x-ray, box, six, mix** (the x red; six shown as a
+  big pink 6), PDF p.31 — Xx is taught by the sound inside/at the end
+  of words, not the beginning · trace-then-write Xx, p.31; circle the
+  one that has the sound of (x), ✓ the ones that have the sound Xx,
+  match, and Yy/Xx ✓ checks, pp.32–33. (Term 2 Unit 2, read 2026-10-25)
+  **With Yy and Xx, Egypt Primary 1 Term 2 completes all 26 letters
+  for the year** (Term 1's 20 + Term 2's Ww Qq Vv Zz Yy Xx).
+- Past single letters (Term 2 Unit 2, Lesson 4): consonant blends
+  with s- — **sk** (skip, sky), **sn** (snail, snake), **st** (strong,
+  star), **sw** (swing, swim), PDF pp.38–41 — the blend printed pink
+  inside each whole word, blended and read aloud, then used inside
+  sentences. This is the first Word-step material; it is filed fully
+  in the Egypt book map and belongs to the Word title when built.
+
 Same country (Egypt) in every Egypt book above — the count below does
 not change,
 but the lesson gains Primary 1's deeper layer: formation numbers,

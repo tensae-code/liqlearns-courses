@@ -988,6 +988,121 @@ eat/have for …? I eat … and …" pattern, and the first sight-word
 strips (is, it, before, after · do, you, for, I, eat, and, a) are
 recorded here for the Word and Sentence titles in ladder order.
 
+### P1T2 Unit 2 "Feelings" — page by page (PDF pp.24–42; read 2026-10-25)
+- p.24 Unit opener + Learning Outcomes: recognize feelings vocabulary
+  when heard in short sentences; use personal pronouns in short
+  accurate sentences to describe feelings; sound out words that begin
+  with Yy and Xx; recognize numbers 11 to 20 and their values; trace
+  and write Yy and Xx; identify and pronounce consonant blends in
+  familiar words (the outcomes print the blend letter as "(l)" — the
+  lesson itself, p.38, teaches blends with **(s-)**; the Scope agrees
+  with the lesson); recognize sight words.
+- **Lesson 1: How Do You Feel?** (pp.25–28)
+  - p.25 Ex.1 Listen, repeat, and act out — six faces: **happy, sad,
+    angry, scared, surprised, tired** (the face label prints
+    "surpised" — the book's own spelling slip; Ex.2 on the same page
+    spells surprised right) · Ex.2 Match the word with the picture
+    (sad, happy, angry, scared, tired, surprised).
+  - p.26 Dialog (Listen): Teacher: "Hello, everyone! How do you feel
+    today?" · Ali: "I am happy. I have a new ball!" · Sara: "I am
+    sad. My kite flew away." · Omar: "She is angry. *(points at
+    Mona)*" · Mona: "He is tired. He ran a lot." · Ali: "We are
+    surprised! We saw a giraffe!" · Teacher: "And what's wrong with
+    them?" · Sara: "They are scared of the gecko. It is very big!"
+    · **Sight words: I – a – do – you – am – my – have – she – is –
+    he – we – are – they – of – and – it – the** (the feeling
+    sentences themselves are printed pink) · Ex.4 Put (✓) to the
+    matching word (happy/scared; angry/surprised; sad/tired) + "Draw
+    how you feel. Now, say I am …"
+  - p.27 **Personal Pronouns — "Words We Use Instead of Names"** —
+    the book defines each one in its own plain words, kept here word
+    for word: **I** — "When you talk about yourself." · **he** —
+    "When you talk about a boy or a man." · **she** — "When you talk
+    about a girl or a woman." · **it** — "When you talk about an
+    animal or a thing." · **we** — "When you talk about yourself and
+    others together." · **they** — "When you talk about more than
+    one person, animal, or thing." · **you** — "When you talk to one
+    person or to a group." · Ex.6 Speaking — discuss feelings with a
+    friend using personal pronouns (word strip: I, he, she, it, we,
+    they, you + the six feelings): "How do you feel today?" — "I feel
+    happy. Today is my birthday."
+  - p.28 Ex.7 Match the sentence to the face ("He is angry." / "She
+    is tired." / "He is happy." / "She is scared.") · Ex.8 Choose the
+    correct word: "1. How does he feel? He feels (sad – happy).
+    2. How does she feel? She feels (angry – surprised). 3. How do
+    they feel? They feel (happy – tired). 4. How do you feel? I feel
+    (sad – scared)." — feel grows its s (feels) for he/she here.
+- **Lesson 2: Phonics — Yy and Xx** (pp.29–33; one lesson, two letters)
+  - p.29 Yy — Listen and repeat: **yellow, yo-yo, yawn, yes,
+    yogurt** — the y is red; a blue Y character (finger to its lips,
+    like the quiet picture) · Ex.2 Trace then write Yy.
+  - p.30 Ex.3 Match the pictures that start with Yy (yellow, yo-yo,
+    yogurt, yes — the Y character in the middle; against window,
+    van, queen, zebra) · Ex.4 Write the correct beginning letter
+    (yawn, yogurt, yellow, yo-yo — no choices given).
+  - p.31 Xx — Listen and repeat (Ex.5): **x-ray, box, six, mix** —
+    the x is red; a blue X character; six shown as a big pink 6 ·
+    Ex.6 Trace then write Xx. **Xx is the one letter this book
+    teaches by the sound inside the word** (box, six, mix end in it;
+    only x-ray starts with it).
+  - p.32 Ex.7 Circle the one that has the sound of letter (x) (box;
+    mix; six — against question mark, zoo, yellow, wind, violin,
+    tree) · Ex.8 Put (✓) for the ones that have the sound Xx (mix ✓,
+    six ✓ — water and vegetables ✗).
+  - p.33 Ex.9 Match the pictures that have the sound of letter (Xx)
+    (x-ray, box, six, mix — among house, dog, parrot, ball) · Ex.10
+    Put (✓) to the correct letter, Yy or Xx, for all nine Unit 1–2
+    letter words mixed (x-ray, yo-yo, yawn, mix, six, yes).
+- **Lesson 3: Numbers from 11 to 20** (pp.34–37)
+  - p.34 Ex.1 Look, count, and trace — a full table: each number
+    **11–20** shown as that many orange dots (in rows of five), then
+    the number printed once solid and four times dotted to trace.
+    No number words are printed anywhere in the lesson — the numbers
+    are taught as figures with their values only.
+  - p.35 Pair work — Listen and practice with a friend: "How many
+    boxes are there?" — "There are 15 boxes." · "How many vans are
+    there?" — "There are 13 vans." · "I see 20 zebras." · "I have 10
+    vests."
+  - p.36 Ex.3 Listen, point and count — ten cards, 11–20, each
+    number over its many oranges.
+  - p.37 Ex.4 Count, then choose the correct number (12 sandwiches:
+    12/19; 17 yo-yos: 11/17; 15 vests: 15/14; 16 juice glasses:
+    16/13) · Ex.5 Count, then write the number (11 pencils, 20
+    apples, 16 rabbits, 13 fish — empty boxes, no choices).
+- **Lesson 4: Phonics — Consonant Blends with (s-)** (pp.38–42) —
+  the book's first step past single letters.
+  - p.38 "Consonant Blends — Blend with letter (s-)" · Ex.1 Listen
+    to each sound, blend, and repeat: **sk → skip · sn → snail ·
+    st → strong · sw → swing** — each blend in an arrow box, each
+    word with its blend printed pink.
+  - p.39 Ex.2 Blend, read and repeat — the blends inside sentences,
+    choose the right word: "This is a ______ (swing – train)." /
+    "This is a ______ (snail – clock)." / "The boy is ______ (grass
+    – strong)." / "Look! I can ______ (skip – drive)."
+  - p.40 Ex.3 Check (✓) the correct consonant blend (snail: sn/gl;
+    skip: dr/sk; swing: sw/cr; strong: fl/st).
+  - p.41 "More Blend Words!" (also numbered Ex.4) — Think of more
+    words with the same blends: **sk → sky · sn → snake · st → star
+    · sw → swim**, each on a big picture, with the ask "Can you think
+    of more words that start with the same blends?"
+  - p.42 Writing Practice (also numbered Ex.4 — the book prints the
+    number 4 twice in this lesson) — twelve empty lined columns
+    headed W, w, Q, q, V, v, Z, z, Y, y, X, x: the learner fills each
+    column writing that letter — the six new letters of Units 1–2,
+    big and small.
+
+Unit 2 (Term 2) basics filed: the-alphabet sources gain Egypt P1
+Term 2's Yy words (yellow, yo-yo, yawn, yes, yogurt) and Xx words
+(x-ray, box, six, mix — taught by the sound inside the word), which
+completes all 26 letters for Egypt Primary 1, and the first blends
+(sk, sn, st, sw with their words). The feelings set (happy, sad,
+angry, scared, surprised, tired), the pronouns with the book's own
+definitions ("Words We Use Instead of Names"), the "How do you feel?
+I am / I feel …" patterns with he is / she is / we are / they are,
+numbers 11–20 as figures with values, and the counting sentences
+("How many … are there? There are 15 …") are recorded here for the
+Word, Sentence, and Maths titles in ladder order.
+
 ## Built so far
 - greetings/hello-and-your-name/ — built from Unit 1, Lesson 1 (see its
   sources.md). Title = the common-sense name (Greetings), not the book's
