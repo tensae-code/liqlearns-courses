@@ -2292,6 +2292,15 @@ Downloaded from the grade-05 library record's own URLs
   to See (p.67) · U6 In the Past (p.85) · U7 The
   Challenge (p.103) · U8 Revision (2) (p.121) · Word
   list (p.127).
+- Activity Book: 122 pp, 18,428,343 B, code 10020504 —
+  **READ COMPLETE 2026-10-25** (image-only; read from
+  rendered pages, book p. = PDF p. − 1). Contents: U1
+  Our School (book p.4) · U2 Around the World (p.20) ·
+  U3 Open Day (p.36) · U4 Revision (1) (p.52) · U5
+  Places to See (p.56) · U6 In the Past (p.72) · U7 The
+  Challenge (p.88) · U8 Revision (2) (p.104) ·
+  Spelling Tests (p.108) · Picture/Word Cards (p.109)
+  · Game Circles (p.117).
 
 Course: "21st Century English for Libya — Primary 5
 Pupil's Book" on its cover — but one honest note, as
@@ -2898,5 +2907,506 @@ Maths titles. Acceptance counts unchanged — same
 country, a new grade's spiral.
 
 **Libya Grade 5 Pupils Book — READ COMPLETE
-2026-10-25.** Next per the queue: the Grade 5 Activity
+2026-10-25.**
+
+### Grade 5 Activity Book — unit by unit
+
+The writing twin, in black and white, and the most
+teaching-dense of the year's three books: nearly every
+Pupils lesson is re-taught here in writing, and several
+things exist **only** in this book. Exercises carry a
+**C21 SKILLS** badge where they practise a named
+21st-century skill. Audio runs to at least Track 146.
+
+**Unit 1 (book pp.4–19).** Write about yourself from
+Nadia's model ("My name is Nadia. I'm 9. I live with
+my mum, dad and three brothers.") on Name/Age/Live
+lines; sentence-half matching; a **blends wheel** (bl,
+fl, pl, sl) completing black, plane, flower, sleep,
+plant and **flag** — the picture is a Libyan flag;
+Lina's text copied as a frame ("Hello, I'm ___");
+playground words defined in writing ("You crawl
+through this. What is it? It's a ___." ×6) with a
+self-score line ("How many points did you get? I got
+___ points."); a class like/dislike survey grid ("Do
+you like the slide? — Yes, I do. / No, I don't.");
+movement words matched to arrow pictures (down,
+along, up, through, around); **Our classroom rules**
+judged tick or cross by sense ("Do stand on tables.
+✗ · Do put rubbish in the bin. ✓ · Do not open your
+books. ✗") and two rules of your own built from word
+tiles into a **My rules** box; blends heard and
+pointed (cl, cr, pl, st, sl, gr, sw) in two-blend
+phrases ("**pl**aying in the **pl**ayground · **sw**eeping
+under the **sw**ing · I'm **gr**eat in **gr**ade 4!");
+**contractions taught as "short words"** — "Look and
+think about the rule. Let's check! do not = don't" —
+I am = I'm · He is · She is · It is · It is not = It
+isn't · He can not = He can't · There is · There is
+not = There isn't · What is = What's; the bag game in
+print ("Is there a ruler in your bag? — Yes, there
+is. / No, there isn't. · Are there any …? — Yes, there
+are. / No, there aren't."); opposite pairs under
+pictures; "Think of a word to match" (A big ___ — "You
+can look in your Pupil's Book for ideas!"); comparative
+sentences unscrambled from tiles; **the tens traced
+as dotted words** (ten…ninety, 100 "a hundred") and
+two-part numbers matched (thirty-two = 32 …);
+the full week timetable as a table (Sunday-first;
+art, science, maths, RE, Arabic, music, English, PE,
+with a Break row) asked and answered ("What's on
+Tuesday? — First, it's maths. Then …") and your own
+written for two days; whose matching + eight written
+"It's ___'s" answers; choose your shop's stock from
+four lists and draw it on top/middle/bottom shelves —
+then listen to your partner and draw **their** shelves
+("My cookies are on the top shelf. — OK."); the
+**Look, say, cover, write, check** grid printed as a
+worksheet (Unit 1 words: here, there, than, whose —
+the grid returns every unit: U2 from/about/that/say ·
+U3 our/your/very/want · U5 now/many/much/their · U6
+why/when/was/were · U7 must/mustn't/any/need); a
+numbers listening grid (11–100 with the words printed
+under the figures); and The Lion and the Mouse closed-
+book work ("Close your books. Who said it?" — "You
+are smaller than me." Lion · "I must help my friend."
+Mouse).
+
+**Unit 2 (book pp.20–35).** Where's he/she from? /
+Where are they from? with He's/She's/They're from…,
+found and written over the map children (Brazil,
+England, Libya, Russia, China); a flag-colour guessing
+game with books closed ("It's yellow. — I know! It's
+Russia."); **capital letters sorted by kind** — "Look!
+These names have capital letters." — names of
+countries / people / languages sorted, then monday,
+arabic, friday, china, kareem rewritten with capitals;
+the Adel–Sam dialog as a cloze, checked against the
+Pupil's Book; write about yourself by four questions
+(name / from / live / languages); an **Information
+file LIBYA** with a real photograph of Tripoli
+("Capital city – Tripoli · Language – Arabic ·
+Weather – hot and dry") answered in writing; a second
+file, **Libya vs Russia** (summer 30°C/25°C, winter
+19°C/**−10°C**) with homework judgments ("Russia is
+smaller than Libya. No · Winter in Russia is colder.
+Yes"); numbers written in order across tens and
+hundreds; a listen-and-cross number game (Pupil A/B
+grids); **Yousif's school day** read ("Today is
+Monday. I go to school at 7 o'clock. I go to school
+by bus. There are 1,000 children in my school… I have
+my lunch at home with my mum and my sister.") and
+your own written in its frame with picture boxes to
+draw (clock, bus, sum, music, family, A B C); a **th**
+wheel (bathroom, thousand, thumb, teeth, think,
+three) with cover-and-write; **nine clocks** with the
+times written in words ("What's the time? — It's …");
+the **Can you help me? game** — partners answer in
+different modes: spell it (letters on dashes), draw
+it, write the digits, say it; the landscape picture
+numbered (mountains, village, desert, lake, stream,
+field, oil field, city, river) + a compass rose
+completed (North/East/South/West); adjective cloze
+over the same scene; the four Pupil's-Book riddles
+written out in full (mountain, desert, river, city)
+and **write a puzzle of your own** from a word bank;
+landscape words unscrambled; City Mouse sorted into
+a City/Village table (quiet, rich food, scary cat,
+simple food, big house, delicious food) with "Which
+mouse do you like?"; **circle the odd word** (Libya/
+Tripoli/China/America — Tripoli is a city · Arabic/
+lunch/English/maths …) and name-the-groups.
+
+**Unit 3 (book pp.36–51).** Lina's Open Day text as a
+cloze; word groups sorted (Numbers / People /
+Countries); the months grid completed from the rhyme
+with self-check against the Pupil's Book, and the
+birthday dialog in full ("When is your birthday? —
+My birthday is in September. — It's in July.");
+**The Yummy Stall menu** — a full priced menu read
+for listening marks: sandwiches (cheese, chicken,
+tomato, jam) 12 LYD · pizza (cheese and olives) 20
+LYD · cakes (lemon, chocolate, pear) 3 LYD · cookies
+(chocolate, orange, apple, date) 2 LYD · sweets 3 LYD
+· watermelon 5 LYD · juice (orange, mango, apple) 8
+LYD · milk 6 LYD · cola 7 LYD · lemonade 7 LYD · tea
+3 LYD · coffee 5 LYD — then write your own order with
+prices and a **Total LYD** (real adding in English);
+the alphabet in capitals, cover-and-complete,
+make-your-own alphabet puzzle for a partner;
+**alphabetical order** — food words sorted by their
+underlined first letters, two lists judged Yes/No,
+then written in correct order, and **The alphabet
+order challenge** (partners write 5 stall words and
+swap to order them); "What's wrong? Spell the words
+correctly." (cokies, mlik, tee, piza, wata, swets);
+**Read. Then cover and remember.** — a races
+announcement ("It's now 4 o'clock… Team A is the Red
+Team and Team B is the Green Team. The first race is
+skipping. The second race is the bike race. Good
+luck!" — *recorded difference: the Pupil's Book word
+list says "Team A is the Yellow Team"*) answered from
+memory and partner-checked; Whose is this? / Whose
+are these? over clothes photos with "It is Yousif's
+shirt." unscrambles; missing-letters sentences ("The
+m**oo**n is in the sk**y** · **Th**e teacher's
+tr**ous**ers are too short"); **sh / ch / ph** — "What
+sound do these letters make together?" — words you
+know written in three columns (shop / chair /
+elephant) and a check bank sorted (shirt, cheese,
+sharpener, shark, watch, shoes, shoulders, chicken,
+alphabet, phone, photo, fish, shelf, wash, brush);
+ordinal balloons out of order (3rd 1st 4th 2nd) and
+**the test-marks table in full** (Arabic/RE/Art —
+Yousif 95/79/70 · Kareem 90/68/82 · Nadia 87/80/89 ·
+Rana 77/88/91 · Tariq 65/90/76) with Yes/No listening
+and sentences completed from it; **Looking at
+syllables** — "A syllable is a small part of a word."
+— clap and sort 1/2/3 syllables (mum, dad · sister,
+classroom · Nadia, holiday), a bank to sort
+(triangle, pencil, hand, eye, horse, lemonade,
+exercise, garden, school, frog, crocodile, library),
+your own 3 words counted, and test your partner by
+clapping; a **Snowy Mountain School poster** completed
+and **given a prize** — choose a 1st/2nd/3rd/4th
+rosette for it; **Help Adel to write the email**
+("To: Sam · Subject: Our Race Day" — "Today was our
+school **Race** Day. I was in the **green** team. I
+ran in the **jumping** race. I was **third**… It was
+**great**!"); the story's adverbs hunted with their
+verbs ("What verbs come before each one?" — shouted
+loudly …), photos labelled (baby = carefully,
+runners = quickly, tortoise = slowly), and
+**-teen vs -ty** set side by side with stress marks
+(thirteen 13 / thirty 30 … nineteen 19 / ninety 90)
+and heard numbers written into teen/ty columns.
+
+**Unit 4 Revision (1) (book pp.52–55)** — only four
+lessons (the Pupil's Book's six pages likewise).
+**Make your own Bigger and smaller rhyme**: choose
+words from six boxes to fill the Pupil's rhyme's frame
+and name it ("My rhyme is called: ___"); **Check your
+progress!** — Adel's playground email cloze (climbed
+**up** · went **down** · crawled **through**), the
+Playground Rules unscrambled with full stops ("the
+swing not do stand on" → "Do not stand on the
+swing."), three about-you answers, adjective–noun
+matching; **Kareem's homework "About Libya"** — a
+whole text printed with capital-letter mistakes to
+circle and correct ("I live in **b**enghazi. The
+capital of **l**ibya is **t**ripoli… In **m**arch it
+is rainy."), whose facts as printed are: "I'm from
+Libya. I live in Benghazi. I live with my mum, dad,
+brothers and sisters. The capital of Libya is
+Tripoli. The population is about 1.2 million. We
+speak Arabic and I am learning English at school. I
+like English, but my favourite subjects are PE and
+maths. The weather in Libya is usually hot and dry.
+In March it is rainy. In summer the temperature is
+about 40°C or hotter."; and **The Wrong Shoes** — a
+six-panel comic story told in full: "It is Wednesday
+morning. It's 8.30 and Sam is late for school. School
+starts at 8 o'clock. He gets dressed quickly. He puts
+on trousers, a shirt and some shoes. He runs to
+school. At school the teacher points to the school
+rules on the wall. Sam's friends laugh. His trousers
+are shorter than his legs. His sleeves are longer
+than his arms. Sam's friends point to his shoes. His
+shoes are bigger than his feet! The teacher tells Sam
+to go home again and change his clothes. Sam is happy
+now." — with nine speech bubbles to number into the
+panels ("I'm late for school! · You're wearing your
+dad's shoes! · Don't be late!").
+
+**Unit 5 (book pp.56–71).** The describing words in
+sentences, then reused from first letters ("The
+**ancient** pyramids are in Egypt." · "The waterfall
+is 500 metres **high**."); spelling aloud ("How do
+you spell 'ancient'? — I know, it's _ n c i _ n _.");
+paired definition cards swapped with a partner
+(Pupil A: museum, lake, cave, forest — Pupil B: boat,
+pencil, waterfall, ruin); **good / better / best**
+taught as its own set with ticks: "I think vanilla
+ice-cream is **good**. ✓ Strawberry ice-cream is
+**better**. ✓✓ But chocolate ice-cream is the
+**best**! ✓✓✓"; a **bar chart read** for answers
+(slide 25, swing 20, roundabout 15, bars 10, tunnel
+5 — "What do they like best?"); a ticks table (5
+children × 4 fruits) counted, **drawn and coloured as
+your own bar chart**, and answered from ("What fruit
+does Lina like best?"); a seaside holiday text ("In
+July, we're going to go on holiday to the seaside…
+we're going to stay with my aunt and uncle and my
+cousins.") with a picture tick-list; the going-to
+conversation as a cloze chain (plane · boat · fish ·
+play · cousins · sandals · swim); zoo animals matched
+and **The zoo timetable** in full ("Arrive at: 2.45 ·
+Tea at: 4 o'clock · Bus leaves at: 5.30 · Activities
+1st See the elephants · 2nd See the crocodiles · 3rd
+See the monkeys · 4th Your own choice"); **The Zoo
+Shop!** photo cards (apple juice, candyfloss,
+popcorn, hot dogs, kebab, pizza) with prices heard
+and written in LYD and totalled; **Let's learn! —
+the Nile**: "The Nile is the longest river in the
+world. It is about **6,853 kilometres** long. It
+flows through many countries in Africa. The picture
+is the Nile in Egypt." — a real photo and map,
+unscrambles (Nile, Africa, Egypt) and a water cloze
+("Water is **wet**. · **Fish** live in rivers. ·
+Boats **float** on water… · Small **streams** flow
+into rivers. · Rivers flow into the **sea**. ·
+Rivers in high mountain places have **waterfalls**.");
+Ubari Oasis questions written from the Pupil's
+information; superlatives with stress marks
+(biggest, smallest, longest, oldest, coldest,
+hottest) and **"Around the world by Class 4"** — a
+class magazine page with real photos: "Look at the
+longest crocodile in the world. He is 110 years old!
+He lives in Australia. · **The hottest place on
+record in Libya is El Azizia. On 13th September, 1922
+it was 58°C.** · The oldest elephant was 86. He lived
+in Asia." — then the child's own page, **"Animals
+around the world by ___"**, its facts read off photo
+labels: "The biggest shark in the world is the
+**whale shark**. It is about **13** metres long. ·
+The smallest bird in the world is the **bee
+hummingbird**. It is only **57** millimetres long.
+**Measure that with your ruler.** · The hottest
+desert in the world is the **Sahara**. It is in
+**Africa**. It is **58**°C."; superlatives unscrambled;
+odd-word rows; name-the-groups; **A Trip to the
+Museum ordered from ten sentences** — which gives the
+story's whole plot: get up · breakfast · bus ·
+timetable · rules · "Rami is missing and Suzan
+cries." · "Rami comes back and he is carrying a
+lion's head." · lunch in the museum café · "The
+balloon goes pop. Everyone laughs." · presents in the
+museum shop; and **ee / ea / y — one sound**: the
+letters underlined in 20 words, the box "The sound
+is the same for **ee**, **ea** and **y** in these
+words", five chant lines ("A hungry bee · A tall
+tree with green leaves · I see the green sea · My
+teacher eats sweets · Baby please sleep quickly"),
+and the warning "Some **ea** words make different
+sounds: breakfast, wear, ear."
+
+**Unit 6 (book pp.72–87)** — the past tense's writing
+twin, and the strongest grammar teaching in the year.
+The Wh- words' **sounds** sorted first: what/when/
+where/why say /w/, who/how/whose say /h/; question
+words written for picture-cued questions ("**How** old
+is she? · **Whose** boots are these?"); answers
+matched; **Punctuation taught by name** — match (. =
+full stop · ? = question mark · A B C D = capital
+letters) and colour them in three teaching sentences:
+"A capital letter starts a sentence. · A full stop
+ends a sentence. · What is a question mark? It's a
+full stop for a question sentence."; the days table
+(Sunday-first) with three-tense questions ("What day
+is it today? It's ___. · What day was it yesterday?
+It was ___. · What day will it be tomorrow? It will
+be ___."); a days rhyme completed with your own days
+("The days of the week / go quickly by! / Time goes
+by, time does fly!"); "Yesterday, I …" sentences
+matched to pictures — two of them planted swaps
+(washing face vs "cleaned my teeth") — and the -ed
+set said aloud; **-ed sorted by sound: /d/ · /t/ ·
+/id/** — underline the -ed in 17 verbs, hear each
+one and write it under its sound (played /d/ ·
+washed /t/ · visited /id/), colouring the shapes;
+the **LOOK box states the rule in words**: "These
+are **verbs** in the **past**. They are **regular**
+verbs – they end in **-ed**. play + ed = played ·
+live + d = lived"; circle the correct verb in eight
+Yesterday sentences; write two of your own;
+**irregular named as irregular** — "Can we say
+'goed'? Yesterday, I goed to school. — Why? — **No,
+we can't! Because this verb is irregular. We say
+'went'.**" — and R or I written for 18 pairs (go/
+went · am, are/was, were · get/got · see/saw · have/
+had · make/made · do/did · eat/ate · swim/swam ·
+buy/bought irregular; watch, clean, play, look,
+start, talk, listen to, stay regular); 30 mixed verbs
+numbered into present/past pairs (give/gave shown;
+**learn/learnt** among them); the partner game
+("Have. — Had. — Yes, that's correct."); **Liz's
+night story** built entirely from past verbs: "My
+name is Liz. Yesterday, at night, I **heard** a
+noise. I **got** out of bed and **went** to the
+kitchen. There was nothing! Then, I **went** to the
+bathroom. There was nothing! Then, I **went** to the
+living room. What did I see? I **saw** my baby sister
+sitting on the floor. She **had** a big cake in her
+hand. She **looked** at me and smiled! She **said**
+that she was hungry. She **ate** all the cake. We
+went to the bathroom. She **cleaned** her teeth. We
+went back to bed!" — retold to a partner; question-
+word anatomy (underline the words that answer the
+question word, then write the missing question words
+into past questions — "**What time** did your baby
+sister go to bed?"); a **past-tense board game** — 26
+verb circles (say…give) with Miss a turn! squares and
+a spinner: "Congratulations! You know your past
+tense!"; **Nadia's email "My weekend"** with its past
+verbs fitted (went, stayed, was, swam, bought, had,
+ate, played, arrived) and four false sentences to
+correct against it ("Nadia travelled by car." →
+"Nadia travelled by bus."); a wordsearch of 12 past
+verbs (took, stayed, swam, ate, played, bought, went,
+did, said, saw, washed, had); **Lina's day** — 14
+past sentences read, counted and numbered in order
+("I took a bus. I stayed with my grandma. I swam in
+the sea. I ate fish. I played football. I bought an
+ice-cream. I went to the park. I did my homework. I
+said hello to my friends. I saw a fun park. I washed
+my hands. I had my lunch. I was tired. I went to
+bed!") and your own day told in the same frames;
+Libya's weather by month (January mild · March cold
+and rainy · August hot and sunny); and **nouns and
+adjectives defined** in a Let's check! box — "•
+**Nouns** are the names of things. • **Adjectives**
+tell us about the things – are they big, small,
+happy, sad? • Adjectives and nouns go together." —
+hunted in The Little Brown Bird and matched
+(beautiful song · tasty meal · cold ground · small
+fire · brave bird · hungry wolf · red breast · tall
+tree), closing with six category boxes to fill with
+four words each (Countries · Irregular past verbs ·
+Sports/games · Places · Regular past verbs ·
+Adjectives).
+
+**Unit 7 (book pp.88–103).** The invitation as a
+choose-the-correct-word letter — *recorded
+difference: this letter gives the challenges as
+"science, maths, Arabic and English", the day as
+"Wednesday, 10th October" and the start "at 2
+o'clock", where the Pupil's Book's telling has
+sports/English/maths/art on 4th April at 11* — then
+the questions written for given answers; alphabet
+order by pairs; **What do you need?** — four
+situations matched to their needs (a friend's
+birthday, 15th March, turning 10 → a card and a
+present · the school's 100 metre race in July, very
+hot → trainers, T-shirt, running trousers, a hat and
+some water · a seaside holiday in August → sandals
+and swimming things · a school trip to the mountains
+→ some money for presents); the months completed
+from their endings; **-igh and -y make the sound of
+'I'** ("The sound is like **I**. -igh and sometimes y
+make the sound the same as 'I'.") with two sentences
+written from a word bank for two photos; **big
+numbers in full words** — nine written-out numbers
+found in a digit grid ("Five hundred and fifty-
+eight" … "One thousand") and figures written as
+words up to **2,000** (525 = "five hundred and
+twenty-five" shown); two borrowing conversations
+completed and ordered ("Have you got a **football**?
+— No, I haven't, but I need one for **school** today.
+Can I borrow yours? — Yes, here you are. — Thank
+you."); **the school library rules** on a noticeboard
+— "1 Do not shout. 2 Do not run around. 3 Talk
+quietly. 4 Do not eat. 5 Do not drink. 6 Do not write
+in the books. 7 Take care of the books. 8 Do not take
+books home." — re-said by Nadia and Kareem with must/
+mustn't ("The first one says we **mustn't shout**…
+Number 3 says we **must talk quietly**."), matched
+to six no-signs, and rewritten from memory under
+"Let's check! must not = mustn't"; **P for Project!
+— make flags**, as a play-script ("Kareem: Our Libya
+flag. Nadia: Yes, and our school flag. Tariq: And
+let's make the Red River School flag too.") and a
+**Let's make!** page ("You need: a big piece of
+paper, a pencil, a ruler, crayons, some glue, a
+stick" — draw the flag, colour it and write the
+words, put it on a long stick, "Take your flag to
+the School Challenge!"); eight sentences unscrambled
+with the capitals deliberately wrong in the jumble
+("Remember the capital letters!" — "need do I for
+maths challenge the What?" → "What do I need for the
+maths challenge?" · "haven't I got a dictionary
+picture." → "I haven't got a picture dictionary.");
+twelve must/mustn't rule statements judged ✓/✗
+against the Pupil's challenge pages; **a strength-of-
+opinion scale** — ticks read as VERY VERY VERY VERY /
+VERY VERY VERY / VERY VERY / NOT VERY / NO — marked
+by Me and My partner against ten life rules ("I must
+help my family. · I must pray. · I must eat healthy
+food. · I must take exercise every day. · I must do
+my homework. · I must keep my bedroom tidy. · I must
+shout in class. ✗"); the eight library rules written
+as must/mustn't sentences ("You mustn't shout in the
+library."); The Big Bike Race checked by ten tick
+answers with traps ("Lina hasn't got a bike. No ·
+Is Kareem going to borrow his dad's bike? No, he
+isn't. · Kareem is the winner and Yousif is second.
+No"); and the story's own lines as choose-the-word
+bubbles ("I **don't** like riding… · You must ride
+**carefully**. · You **mustn't** go too fast. · It
+was a **stone**.")
+
+**Unit 8 Revision (2) (book pp.104–107)** + back
+matter. Months built from syllable tiles; **write
+the punctuation** — seven bare sentences rewritten
+with capitals, full stops and question marks ("when
+is your birthday" → "When is your birthday?" · "in
+libya march is a rainy month" · "it's in april");
+comparison statements judged true or false ("An
+elephant is taller than a giraffe. ✗ · The Nile is
+the longest river in the world. ✓"); **Check my
+progress!** — Adel's School Challenge email cloze
+("It is **on** 4th April… There **is** a School
+Challenge Cup for the winners. It is **big** and is
+made of gold!"); **"Read about you"** — a past-tense
+text written as if about the reader ("Yesterday, I
+went shopping. I went with my older brother and my
+friend… We saw a film about the fastest car in the
+world. We ate ice-cream and drank lemonade… It was a
+great day!") answered with six past Wh- questions in
+full sentences; **the "I can say it in English!"
+game** — a 26-space wheel, every space a speaking
+task from the year ("Say the numbers 8, 18 and 80 ·
+Say the capital of Libya · Say the past of **brush**
+· Say the past of **have** · Say something you
+**mustn't** do · Say what you need for a **bike
+race** · Say the name of the highest mountain …");
+and **The Goodbye Song**, the year's farewell, its
+ten verses a cloze that reviews the whole year —
+and its first line settles this book's inside grade
+in the book's own words: "**It's time to go, we did
+Grade 4, / In Grade 5, we're going to learn more!**"
+("We know a bus is bigger than a van, / And we can
+spell beautiful, yes we can! · … A desert is dry and
+a mountain is high, / Both of the words sound the
+same as why! · … The past of do is did, and eat is
+ate, / I went to bed early, I mustn't be late. · …
+Tomorrow is the day for which we pray, / We're going
+to work and we're going to play! / Hurray! Hurray!").
+The book closes with **Spelling Tests** (book p.108 —
+blank four-word grids per unit; as printed, Unit 3's
+grid appears twice and Unit 1 has none), the
+**Picture/Word Cards** (pp.109–116 — the year's words
+in alphabetical order, along…down on the first page,
+with their picture halves) and the **Game Circles**
+(pp.117–121 — the 1–6 number spinners for the board
+games).
+
+→ Filed/recorded from this book: contractions as
+short words; alphabetical order as a taught skill;
+syllables defined and clapped; punctuation named
+(full stop, question mark, capital letter); regular
+-ed with its three sounds /d/ /t/ /id/ and the +d
+spelling case; irregular verbs named, with the
+goed→went correction dialog; nouns and adjectives
+defined; good/better/best; numbers written in full
+words to 2,000; bar charts read and drawn; the Nile
+at 6,853 km; El Azizia 58°C (13 Sep 1922); whale
+shark 13 m; bee hummingbird 57 mm; the Yummy Stall
+and Zoo Shop price lists; The Wrong Shoes and Liz's
+night story in full; and the Goodbye Song's own
+statement that this course year is the children's
+Grade 4 going into Grade 5. Acceptance counts
+unchanged — same country, the same grade's twin book.
+
+**Libya Grade 5 Activity Book — READ COMPLETE
+2026-10-25.** Next per the queue: the Grade 5 Teacher
 Book.
