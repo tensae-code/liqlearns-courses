@@ -2277,3 +2277,626 @@ Our School · Around the World · Open Day · Revision
 Revision (2)). Until the real G4 books land, the queue
 moves on to Grade 5; G4 stays marked here as
 source-blocked, not read.
+
+---
+
+# Libya — English Grade 5: Pupils Book, Activity Book, Teacher Book
+
+Downloaded from the grade-05 library record's own URLs
+(liasinstitute.com) into the courses work folder.
+- Pupils Book: 141 pp, 17,689,302 B — **READ COMPLETE
+  2026-10-25** (real text layer; picture-carried print
+  checked against rendered pages). Contents: U1 Our
+  School (book p.7) · U2 Around the World (p.25) · U3
+  Open Day (p.43) · U4 Revision (1) (p.61) · U5 Places
+  to See (p.67) · U6 In the Past (p.85) · U7 The
+  Challenge (p.103) · U8 Revision (2) (p.121) · Word
+  list (p.127).
+
+Course: "21st Century English for Libya — Primary 5
+Pupil's Book" on its cover — but one honest note, as
+printed: inside the book the children say **"We're in
+Grade 4 now!"** and the youngest says "I'm in Grade 3."
+After the grade-04 re-cover found above, this book's
+cover grade and its inside grade differ by one; its
+content is new (not Grade 3's), and it is filed here
+under its library grade, Grade 5, with the inside words
+recorded as printed. The year's new names: **Yousif**
+(9) and his sister **Lina** (8); Kareem and Nadia —
+Grade 2's children — are back at 9, and the language
+takes its biggest step yet: comparatives (taller than,
+older than), possessive questions (Whose rubber is
+this? — It's Yousif's.), countries and capitals,
+months, money (Libyan Dinars, 2.5), going-to future,
+There was / There were, Have you got…?, and must /
+mustn't — all in the Book Map's own language list.
+
+### Grade 5 Pupils Book — unit by unit
+
+**Unit 1 "Our School" (book pp.7–24)**. L1 **New
+Friends** (pp.8–9): four children introduce themselves
+as reading texts, and the comparisons are inside them:
+Yousif — "Hello, I'm Yousif and I'm 9. I'm tall for my
+age. I live with my mum, dad and my sister, Lina. She's
+8." · Kareem — "Hi, I'm Kareem. I'm 9. Yousif is my best
+friend. I have very short black hair. My favourite
+sport is running. Yousif is taller than me, but I am
+bigger." · Nadia — "My name is Nadia. I am 9, so I am
+older than Lina. She's my best friend. I have long
+black hair." · Lina — "Hello, I'm Lina. I'm in Grade 3
+at school and I'm 8. I have long hair. My favourite
+lesson is English and my favourite colour is red." The
+classroom texts add "Here's our new classroom. We're
+in Grade 4 now!" and "I'm younger – I'm only 8, so I'm
+in Grade 3. My classroom is next door.", then questions
+asked and checked by listening ("How old is Nadia? —
+Nadia is 9."). L2 **Our Playground** (pp.10–11): the
+-ing spellings shown as pairs (walk – walking, play –
+playing, **spin – spinning**), the playground set
+(tunnel, bars, swing, roundabout, slide, ladder), and
+sentences to finish: "Look at me! I'm flying up on the
+swings. · I'm walking along the bars. · I'm climbing
+up the ladder. · I'm on my knees. I'm crawling through
+the tunnel. · I'm going down the slide. · I'm spinning
+around on the roundabout." — with the movement words
+up, through, around, down, along in a box. L3
+**Playground Rules** (pp.12–13): the rules in print —
+"Do not stand on the swing. · Do not go too fast. ·
+Hold on with both hands. · Do not push. · Do not
+balance on 1 leg." — a Let's check! box that teaches
+**do not = don't**, and **The playground song** in
+full: "Playing in the playground, / lots of games to
+play. / Playing in the playground. / We do it every
+day. / Climbing up the ladder. / Going down the slide.
+/ Crawling through the tunnel, / a clever place to
+hide!" (twice over). L4 **What's in my school bag?**
+(pp.14–15): there is / there are with **some**, as a
+guessing game over the two bags ("there is a rubber
+and a pencil · there are some books · there is some
+paper · there are some crayons…"), an Are-they-the-
+same? check ("I'm 8. / I'm 40." · "I'm 138 cm. / I'm
+146 cm."), and choose-two-words describing (long, big,
+tall, young, short, old, small). L5 **What's the
+difference?** (pp.16–17): comparisons taught head-on —
+"This ruler is longer." · "I am younger than Yousif."
+— the Opposites table spoken aloud (long–longer, tall–
+taller, short–shorter, old–older, big–bigger, young–
+younger, small–smaller), the rhyme **Bigger and
+smaller** in full ("A ruler is longer than a pen, / And
+number 12 is bigger than 10. / A giraffe is taller than
+a bee, / And my mum and dad are older than me. / So I
+am younger than them, you see! / A car is smaller than
+a van, / And I am shorter than that man. / Let's say
+these words together again: / Longer, shorter, / Older,
+younger, / Bigger, smaller, / Taller, shorter."), and
+make-your-own sentences ("I am taller than ___. · My
+mum is ___ than me."). L6 **Packing My School Bag**
+(pp.18–19): two emails read — Kareem to Yousif: "Hello
+Yousif / Can you help me, please? I can't find my
+timetable. What lessons do we have tomorrow? It's
+Tuesday tomorrow and I think we have PE. / Kareem" —
+and the reply: "Hi Kareem / First it's science. Then,
+it's Arabic. After that, it's RE. See you at school. /
+Yousif" (First / Then / After that now order a school
+day), and **Whose …?** — "Whose rubber is this? — It's
+Lina's." · "Whose rulers are these? — They're Lina's."
+L7 **At the School Shop** (pp.20–21): shop words
+(sharpeners, sweets, lemonade, apples, pencils, milk,
+cookies, notebooks) and the shelves — top, middle,
+bottom: "Let's put the apple on the middle shelf. ·
+No, it's better on the bottom shelf." / "Let's put the
+pencils on the bottom shelf. — Yes, that's good. / No,
+they're better on the table." L8 Story: **The Lion
+and the Mouse** (pp.22–23), printed in full with the
+unit's language inside it: "Once, there was a big
+lion. One day, a small mouse ran over the lion's head.
+The lion caught the mouse. 'You are smaller than me
+and **I'm going to eat you**,' he said. 'Let me go,'
+said the mouse. 'I am smaller than you, but I may help
+you one day.' The lion laughed. 'You are **too small
+to help me** and you are too small to eat!' he said.
+Because the lion was feeling happy, he let the mouse
+go. Later that day, the lion went for a walk. He saw
+the net, but it was too late and he was caught. The
+lion roared and roared. The mouse heard the lion. '**I
+must help my friend**,' said the mouse. 'How can you
+help me?' said the lion. He was very sad. '**I will
+show you**,' said the mouse. The mouse started chewing
+the net. At last the lion was free! 'Thank you,' said
+the lion. 'You are smaller than me, but you are a good
+friend.'" "Now I can" (p.24): introduce and talk about
+myself · name playground things · say what people are
+doing in the playground · talk about playground rules
+· talk about my school bag · talk about differences ·
+ask and answer with whose · say where things are on
+shelves.
+
+**Unit 2 "Around the World" (book pp.25–42)**. L1
+**Where are you from?** (pp.26–27): children of the
+world on a labelled map (North America, South
+America, Europe, Asia, Africa, Middle East, Australia)
+— Sam from England, Liz from America, Pedro and Alex
+from Brazil, Anna from Russia, Amy from China, Adel
+from Libya: "Hello. My name's Sam. I'm from England.
+Where are you from?" A Let's check! box teaches
+**Names have capital letters** (Yousif, Lina, Libya,
+China, England). L2 **I'm from Libya** (pp.28–29) is a
+great map of Libya and its neighbours; Adel says "I'm
+from Libya. I live in Sabha. What about you?", and
+another voice "I'm from England. I live in London."
+L3 **Are they the same?** (pp.30–31): an **Information
+file** comparing England and Libya — the size of the
+country; the weather in numbers (summer: Libya 30°C,
+England 19°C; winter: Libya 19°C, England 7°C) — with
+statements to judge true or false ("England is
+smaller than Libya. · Summer in Libya is hotter. ·
+Winter in England is hotter.") and the **hundreds
+rhyme**: "One hundred, two hundred / Three hundred,
+four … / Five hundred, six hundred / Seven hundred,
+more … / Eight hundred, nine hundred / Ten hundred?
+NO! / We say one thousand, one thousand 1,000 / Now
+let's all have a go!" + "What's the number? — It's
+300." L4 **Different Days** (pp.32–33): two cloze texts
+with word banks — **My school day by Adel** ("Today is
+Tuesday. I go to school at 8 o'clock. I go to school
+on foot. There are 900 children in my school. On
+Tuesday, I have Arabic, PE, maths and **history**. I
+have my lunch at home. I play with my baby sister and
+brother.") and **My weekend by Liz** (Saturday shopping
+with mum at 10 o'clock, by bus, lots of cars and
+shops; Sunday in the park — swing, slide, bars,
+roundabout; lunch in a café; home at 3 o'clock; "I
+like rice and chicken.") — each ending "What about
+you?" with the child's own lines to write. L5 **About
+Time** (pp.34–35): a homework dialog that teaches the
+half hour — "It's 3 o'clock. It's 3.30. — Can you help
+me? — Yes, I'll try." … "Look. Count the minutes. 5,
+10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60. I see. 3
+and 30 minutes. It's 3.30!" — minutes counted in fives.
+L6 **Geography: Country Profile** (pp.36–37): the land
+set (mountains, stream, **oil field**, desert, village,
+river, lake, field, city), the compass points North,
+South, East, West, and a profile of Libya read and
+numbered: "Libya is a big country. It has high
+mountains and dry desert. Libya has the 3rd largest
+desert in the world. The Sahara desert is as big as
+the United States. Libya has big cities and small
+villages. It has green fields for farming. There is
+lots of oil in Libya." — adjective matching under it
+(long, big, high, green, dry, small). L7 **Guess what
+it is!** (pp.38–39): the clue game grown to land
+words — a tree ("It is green and brown. It is tall. It
+has leaves."), a village ("It is small and it is in
+the country. People live here in houses and on
+farms."), a mountain ("It is very big. People climb
+it. It can have snow at the top."), oil ("It comes
+from under the ground. It is black. We need it for
+cars and trucks."). L8 Story: **City Mouse and Village
+Mouse** (pp.40–41), told in print: the friends visit
+each way; the picnic of bread and cheese — "This food
+is boring. City food is better." — the city feast
+("Village Mouse ate and ate. There was lots of food
+and it was very rich."), then "The door opened. Meow!
+A big, scary, orange cat jumped up to the table.
+'Help! Run!' City Mouse and Village Mouse ran as fast
+as they could. When they were safe, Village Mouse
+said, 'I don't like the city. I am going home to the
+country. It's quieter in the village.'" and home to "a
+lovely lunch of bread and cheese. I love my simple
+food." "Now I can" (p.42): talk about countries · say
+where I am from and talk about my country · compare
+cities · say numbers to 1,000 · talk about my school
+day · tell the time · name features in a country.
+
+**Unit 3 "Open Day" (book pp.43–60)**. L1 **Welcome to
+our Open Day!** (pp.44–45): a reading text by Lina —
+"Welcome to our Open Day! In May we have our school
+Open Day. Lots of people come to our school. My mum
+and dad are coming and my little sister, **Salwa**. My
+class has a stall and we are selling cakes. Yousif's
+class has a stall and they are selling drinks for the
+children and the parents. There are lots of races and
+games for everyone. It is very exciting!" — with tick-
+or-cross reading checks, the **months** chanted as a
+rhyme (January … December), and "What month is it? ·
+When is your birthday? — It's in ___. · When is the
+next holiday?" L2 **What do you want to drink?**
+(pp.46–47): the drinks stall (coffee, orange juice,
+lemonade, cola, water, mango juice, tea, milk — choose
+five) and the stall dialogs: "What do you want? · Can
+I help you? · A cup of tea and some milk, please. ·
+Can I have an orange juice, please? · Can I have milk?
+· I want a cola. · I want a lemonade." L3 **What do
+you want to eat?** (pp.48–49): the food stall —
+delicious, watermelon, cakes, sandwiches, pizza —
+with prices asked and answered: "How much are the
+cakes? — They're 2.5 Libyan Dinars each." and the
+Book Map's "Who buys watermelon? What does Khaled
+buy?" (**Khaled** shops here). L4 (pp.50–51) is whose
+in print, over clothes: "This is Yousif's T-shirt. It's
+Yousif's. These are Yousif's trainers. They're
+Yousif's." — "Whose is this? — It's Yousif's." L5
+**What's wrong?** (pp.52–53): a spot-the-mistake
+picture joined up as sentences (Yousif in a hat, scarf
+and coat; "Lina's egg is bigger than the spoon.";
+**Rana**; **Tariq** with an orange on his spoon; "The
+teacher's trousers are **too short**."; "Nadia's
+trainers are **too big**.") — and **two emails**: Lina
+to **Suzan**: "Hi Suzan / Today was our school Open
+Day. I ran in the egg and spoon race. I was first! My
+brother, Yousif, was the winner in the running race.
+My class had a stall with cakes, cookies and lots of
+nice things to eat. Yousif's class had a stall with
+drinks. It was fun! / Lina" — and Suzan back: "Hi Lina
+/ What cakes did you make? I am good at making
+cookies. Can you come to my school Open Day in June?
+There is a skipping race and a hopping race! I am in
+the blue team. What colour is your team? Here is a
+picture of me skipping. / Suzan" — the past tense
+living in letters again. L6 **What's first?**
+(pp.54–55): the Open Day **programme** with times
+(11.00–11.30 The Lion and the Mouse, a play · 11.30–
+12.00 Healthy Habits, a song · 12.10–12.25 Spelling
+Competition · 12.30–12.45 Music Show), the ordinals
+taught as pairs — "1 = one, **1st = first** · 2 = two,
+**2nd = second** · 3 = three, **3rd = third** · 4 =
+four, **4th = fourth**" — "Who was first? Lina was
+first in the race. Tariq was second. Rana was third.
+They all got a rosette.", and a marks table (English,
+Maths, Science: Yousif 78/60/75 · Kareem 55/65/70 ·
+Nadia 80/70/69 · Tariq 63/75/68) talked over: "Nadia
+was first in English. — Yes, and Yousif was second."
+L7 **Making a Poster** (pp.56–57): a poster frame —
+School name (Green Tree School), Day and date
+(Saturday, 4th June), Stalls (Cakes and cookies,
+drinks), Races (Running race at 2:30 · Skipping race
+at 3 o'clock) — "Now make your poster.", read the
+others', give prizes (the lesson is marked **P for
+Project!**). L8 Story: **Races on the Sports Field**
+(pp.58–59), a past-tense race story whose verbs carry
+adverbs: "It was a sunny day in May. At school, it was
+Open Day and there were races on the sports field. The
+first race was a running race. The teacher shouted
+**loudly**. 'Ready, steady, go!' Some children ran
+**quickly** and some children ran **slowly**. Next, it
+was the egg and spoon race. The teacher shouted
+loudly. 'Walk **carefully**!' Nadia was in front. She
+was winning the race, but she walked too quickly and
+dropped her egg. 'Oh, no! My egg!' Lina walked quickly
+but carefully. She was first! Tariq was second! 'Well
+done! Well done, Lina!' The teacher gave a gold star
+to all the children. Everyone was happy and cheered
+loudly. Kareem and Lina were first in their races.
+Tariq and Rana were second and third in the egg and
+spoon race. 'Did you enjoy the races?' 'Yes, we did!
+It was great! Yippee!'" "Now I can" (p.60): talk about
+school Open Days · name the months · ask for and
+offer food and drink · talk about the price of things
+· talk about who things belong to · make a poster and
+talk about it.
+
+**Unit 4 "Revision (1)" (book pp.61–66)** — four
+lessons: review talk and a shop role-play ("Can I help
+you? — How much are the cakes? — 2.5 LYD each. — Can I
+have 2, please? — Yes, here you are."); months
+questions ("How many months in a year? · What month
+comes after May? · What month comes before
+September?"); **The Magic Bird** — a story the class
+completes by choosing words and then retells: "There
+was an old man. He lived in a small village next to a
+long river. One day, he walked to the river and saw a
+very big [bird]. The bird had a [yellow] face and
+[three] legs. The old man looked at the bird. The old
+man was [sad]. The bird looked at the old man. 'I want
+to be [young] again.' 'Can I help you? I give you your
+wish!' There was a [green] light. The old man wasn't
+there. 'Oh no! The old man is [older] than he wanted
+to be!'" — "Tell your story to a partner."; and a
+**Snakes and Ladders** board whose squares carry the
+three units' words. "Now I can": answer questions
+about Units 1–3 · answer questions for a school
+challenge · complete and tell a story · play a game
+about English.
+
+**Unit 5 "Places to See" (book pp.67–84)**. L1
+**Different Places** (pp.68–69): museum, lake, cave,
+forest, waterfall, ruin, matched to their describing
+words (beautiful, ancient, large, interesting,
+famous, high); **The Libyan Museum** information file
+("The Libyan Museum is very famous. There are lots of
+beautiful and ancient things in the museum. Can you
+see the head of an old statue? Find people in a cave
+painting. Can you find the ancient stone tablet? Find
+the pattern on the mosaic."); and definitions to
+match: "A very large hole in the earth. — cave · An
+ancient flat square of stone. — tablet · A model of a
+person made from stone. — statue · A picture made
+with lots of small coloured pieces of glass or stone.
+— mosaic". L2 **A School Trip** (pp.70–71): a class
+vote ("How many pupils want to see the seaside?") and
+the going-to conversation: "We're going to see high
+mountains with snow. Then we're going to do a project
+about waterfalls. I'm going to take my backpack and
+wear boots. — So am I. I'm going to wear boots, a hat
+and a scarf." L3 **On the Train** (pp.72–73): what the
+children are doing, sentences built from word tiles
+("Tariq is sleeping."), the **Rules on the school
+trip** — "Sit quietly. · Do not eat your lunch on the
+train. · Do not talk loudly. · Do not walk around. ·
+Do not forget your hats and bags." — and the train
+rhyme: "We're on a school trip / And we're having fun!
+/ I'm drawing, she's sleeping, / They're writing, he's
+reading, / We're on a big train / And we're having
+fun! / I'm singing, she's talking, / They're eating,
+he's drinking…" L4 **At the Waterfall** (pp.74–75): a
+trip timetable to fill by listening (Arrive at ·
+Activities 1st–4th · Lunch at · Train leaves at), the
+Waterfall Shop's prices (2–20 LYD), and spending a
+budget in going-to sentences: "You have 30 LYD. What
+are you going to buy? — I'm going to buy 1 mug, 2
+notebooks and a cookie. · I'm going to buy crayons
+and a hat." L5 **Mountains in Libya** (pp.76–77): snow,
+mountain range, mountain, clouds, and a real
+information text: "Nafusa Mountains are in the west
+of Libya. They are **968 metres high**. Lots of
+interesting animals live in the mountains. There are
+also lots of beautiful plants and trees. The weather
+is different to other places in Libya, **because** the
+mountains are very high. In the winter, it is very
+cold and sometimes snowy. In the summer, it is mild
+and dry." — then **Class 4's mini project about the
+Ubari Oasis**, printed with mistakes in its black
+words for the class to find ("The Ubari Oasis lies
+between the Sahara **dessert** and the very **young**
+sand dunes of the Idehan Ubari desert. The dunes are
+more than 100,000 years old! … a beautiful oasis with
+**sand** in it. There are 20 small salt lakes
+**between** the oasis."), and "Write Class 4's mini
+project again and draw pictures. Try to get a red
+rosette!" L6 **Higher and Highest** (pp.78–79): the
+three steps taught on pictures — high / higher /
+**highest**, cold / colder / **coldest**: "A is high.
+B is higher. C is the highest." — then judgment
+sentences said and written Yes or No ("A cow is
+bigger than a cat. · A tree is taller than a man. · An
+elephant, a monkey and a crocodile – a crocodile is
+the biggest. (No)"). L7 **Let's play a game!**
+(pp.80–81): partners score points for true comparison
+sentences ("The red apple is bigger than the yellow
+apple. — Yes, it is. 1 point." · "The green apple is
+the biggest. — Good! 1 point for you."), over the
+three-form table (big/bigger/biggest · small/smaller/
+smallest · long/longer/longest · short/shorter/
+shortest). L8 **A Trip to the Museum** (pp.82–83):
+the trip told in going-to lines ("And we're going to
+go on a train. We're going to have a picnic. We're
+going to see high mountains with snow.").
+
+**Unit 6 "In the Past" (book pp.85–102)** — the past
+tense's own unit. L1 **Wh- Questions** (pp.86–87): the
+six question words matched to what they ask — who =
+a person · what = a thing or an animal · when = a
+time · where = a place · how = a number, or the way
+we do something · **why = means because** — questions
+matched to their answers ("How do you go to school? —
+By bus. · Why are you wearing a hat? — Because it is
+cold. · Where is the library? — It's next to the
+school. · When do you wake up? — At 7 o'clock. · Who
+is the tall man? — He is my brother. · What are these?
+— They're sweets."), and a build-a-question practice.
+L2 **Yesterday** (pp.88–89): first a **make** — a
+days-of-the-week chart built by instructions in the
+sequence words ("First, draw a rectangle and draw 7
+lines. You need: Paper, Crayons, Scissors, Ruler.
+Then, write 'Days of the week' in the top rectangle.
+Next, write 'Sunday' in the second rectangle. After
+that, write all the other days. Then make 2 arrows
+and a star. Next, write yesterday, today and
+tomorrow. Finally, put the arrows and the star next
+to the days of your week."); then **Muna's yesterday**
+in four parts to put in order ("Yesterday, Muna went
+to school on the bus. Her first lesson was maths.
+After PE, it was break time. Muna played with her
+friends. They climbed up the ladder and went down the
+slide. Her next lessons were English and science. For
+lunch she had a sandwich and juice. At 2 o'clock it
+was time to go home. At home, Muna played with her
+friends and did her homework. She went to bed at 8
+o'clock.") — Muna, Grade 2's lead girl, is the example
+— and the tense taught as **pairs**: "I go to school.
+Yesterday, I **went** to school. · My first lesson is
+maths. Yesterday, my first lesson **was** maths. · I
+play with my friends. Yesterday, I **played** with my
+friends. · I do my homework. Yesterday, I **did** my
+homework." L3 **Question Game** (pp.90–91): a
+story-building game on six spinners — When? (Yesterday
+/ On Monday / On Friday / On Sunday) · Who? (a boy / a
+girl / a monkey / a mouse / a cat) · How? (quickly /
+slowly / loudly / carefully) · What? (ate an ice-cream
+/ ate some cheese / made a cake / drank some milk /
+ate a banana) · Where? (in the classroom / in the
+kitchen / in the garden / in the zoo / in the living
+room) · Why? (because he/she/it was hungry / thirsty)
+— one built example: "On Monday, a cat slowly ate an
+ice-cream in the kitchen because it was hungry!"
+L4 **Nadia's Grandma** (pp.92–93): "Grandma, tell me
+about when you were 9. — When I was 9 … I was tall. I
+had long, black hair. — You were pretty. — I played
+skipping at school. — You were good at skipping. — I
+always did my homework. — You were a good pupil." —
+and grandpa read about: "When he was 10, Nadia's
+grandpa had short, brown hair. He was a good pupil
+and he always did his homework. He played football at
+school with his friends. He was good at football." —
+then the pair role-play, one as grandpa with prompt
+cards (tall · short, brown hair · strong · football ·
+good at football · at school). L5 **At the Cinema**
+(pp.94–95): cinema words — film, funny, popcorn,
+robot, ice-cream — and talk about a film visit in the
+past. L6 **Where did you go?** (pp.96–97): the
+question rhyme in full — "Where did you go? / Where
+did you go? / I went to the zoo. / What did you see? /
+I saw elephants, and monkeys, too. / Who did you go
+with? / I went with Ali. / When did you go there? / We
+went at three. / How did you get there? / We went in
+Ali's car. / Why did you go there? / Because it was
+my birthday!" — and a cloze text of Yousif's yesterday
+at the playground, its verbs chosen from went, was,
+had, played, climbed, walked, crawled. L7 **There was
+… / There were …** (pp.98–99): a memory game — look
+for 30 seconds, cover the pictures, and make sentences
+for points — with the Let's check! box: "There **was
+a** book. / There **were** books. / There **was an**
+apple. / There **were** apples." L8 Story: **The
+Little Brown Bird** (pp.100–101) — why the robin has
+a red breast, in full past tense: "Many years ago,
+there was a little brown bird that lived at the top
+of a tall, tall tree. It was a happy little bird and
+it sang loudly and its song was beautiful. Winter
+came, the snow came and a cold wind blew. It got
+colder and colder. A father and son were travelling a
+long way to their home. They had nowhere to stay. The
+father made a small fire with sticks and both went to
+sleep on the cold ground. The fire started to go out.
+A hungry wolf saw the man and boy. 'A tasty meal for
+me today! Yum, yum!' The little bird saw the wolf and
+saw the fire. 'I must help. I must make the fire burn
+again.' The little bird flapped its wings and the
+fire got bigger and bigger, but the fire burnt the
+little bird's breast. The man and boy woke up and saw
+the brave little bird. They thanked the little bird
+loudly. 'You have saved us from the wolf!' From that
+day, these little brown birds have a red breast.
+Brave little birds!" "Now I can" (p.102): ask and
+answer Wh- questions · say what I did yesterday ·
+talk about how people looked and what they did in
+the past · talk about the cinema · say where I went
+· use There was … and There were ….
+
+**Unit 7 "The Challenge" (book pp.103–120)**. L1
+**The School Challenge** (pp.104–105): an invitation
+email read — Red River School to Green Tree School:
+four challenges (sports, English, maths, art), "11
+o'clock on Tuesday, 4th April", by bus, "1st 2nd 3rd
+rosettes", the School Challenge Cup — answered with
+the Wh- questions (What is it? When is it? Where is
+it? How are we going to get there? What are the
+challenges?), a Remember box of the Open Day results,
+a challenge ticked for each child, and going-to
+sentences to finish ("Kareem is going to do the ___
+challenge."). L2 **You need a ruler** (pp.106–107):
+the four challenges spelled out — Maths: "Draw a
+square, a triangle, a rectangle. The teacher will
+tell you how big or small." · Sports: "Running 100
+metres. Ball and bucket race." · English · Art — and
+what each child has and needs. L3 (pp.108–109):
+**Have you got …?** practised over two children's
+things (ruler, T-shirt, rubber, ball, trainers,
+pencil, picture dictionary, crayons) — "Have you got
+a ruler? — Yes, I have. / No, I haven't." — and "Can I
+borrow yours? — Yes, here you are." L4 **must /
+mustn't** (pp.110–111): the children's own poster
+rules, judged Yes or No: "I mustn't talk in a test. ·
+I must drink lemonade. (No) · I must clean my teeth. ·
+I mustn't listen to my teacher. (No) · I must help
+Lina and my family. · I mustn't shout in class. · I
+must eat cookies every day. (No) · I must pray." —
+then **make your poster** (green ticks for must, red
+crosses for mustn't, happy and sad faces; "You need:
+Paper, Crayons, Pencils, Pens") and present it: "This
+is my poster. First, I must help my mum and dad. —
+Yes, we must help them." L5 **Challenge Rules**
+(pp.112–113): the teacher's rule chain in order —
+"First, you must put on your badges. Next, you must
+write out your forms. Now, you must find your chair.
+Remember! You mustn't talk. Remember! You mustn't
+look at your friend's answers! Now, sports pupils
+follow me to the playground." — Kareem's **Challenge
+form** filled in (Name: Kareem · Age: 9 · School:
+Green Tree School · Challenge: Sports · I need: a
+T-shirt, a small ball, some trainers), and the child
+writes their own. L6 **Maths and Art** (pp.114–115):
+Tariq's maths challenge judged with a ruler — "1 Draw
+a rectangle – **4 cm x 2 cm**. 2 Draw a square – **3
+cm x 3 cm**. 3 Draw a triangle – your own size." (3
+points for each shape) — and Lina's art challenge: a
+picture drawn from words alone — "There is a high
+mountain and a long river between green fields. In
+the fields there are trees and some cows." (2 points
+for each correct drawing). L7 **English and Sport**
+(pp.116–117): Nadia's English challenge judged —
+matching and spelling (river printed "r i v r" among
+mountain, waterfall, lake — "What is wrong? Give
+Nadia a score from 1 to 9.") — and Kareem's ball-and-
+bucket race counted and scored. L8 Story: **The Big
+Bike Race** (pp.118–119): "It is summer and it's time
+for the big bike race. Everyone is going to ride in
+the race. It's a long race. Everyone is doing
+exercises. 'Has everyone got a bike?' 'I haven't.'
+Kareem hasn't got a bike, but his brother has and he
+is going to borrow it. 'My brother is taller than me,
+but I can ride his bike.' 'I don't like riding. You
+can borrow my bike.' 'What do the children need for
+the long race? It is going to be hot.' 'We need
+water.' 'We need hats.'" — the parents' rules: "You
+must help your friends. · You must ride carefully. ·
+You mustn't go too fast." — "Kareem is in front.
+Yousif is behind him. The other children are slower.
+… 'Oh no! Kareem has fallen off.' 'It was a stone.'
+Yousif helps him. 'Are you ok?' 'Quickly! Let's go.'
+'It's the finish. Who is first? It's Kareem and
+Yousif together! They are both first!'" "Now I can"
+(p.120): talk about a school challenge · ask and
+answer about it · decide what I have and what I need
+· use must/mustn't for rules · fill in a challenge
+form · ask and answer about the maths, art, English
+and sport challenges.
+
+**Unit 8 "Revision (2)" (book pp.121–126)** — four
+lessons: L1 **Test your partner** (p.122): partners
+quiz each other with the year's question words. L2
+**My Progress** (p.123): the child checks their own
+progress — the year's only self-marking page. L3
+**Ice-creams for everyone!** (p.124): a cloze story to
+complete and retell — "Yesterday, we saw an old lady
+crossing a busy road. 'Can you help me?' The children
+helped the old lady to cross the road. 'You must speak
+loudly, but you mustn't shout. First look left, then
+look right.' They crossed the road quickly but safely.
+They were next to an ice-cream shop. 'Thank you! Do
+you like ice-cream?' … 'I'm going to buy ice-creams
+for us!' Lina wanted a mango ice-cream. Yousif wanted
+a chocolate one. … 'We're going to come every week
+and have ice-cream!'" L4 **A Pronunciation Game**
+(p.125): a board game whose squares ask the year's
+sound questions — "What sound does 'ph' make? · Say
+a word that has 'ph'. · What sound does 'igh' make? ·
+Say 'high'. · How do you say '-ly' (quickly)? · Spell
+a word with 'ee'. · What sound does 'sh' make? · What
+sound does 'ch' make?" "Now I can": answer questions
+about Units 5–7 · ask questions to test my partner ·
+complete and tell a story · play a game about
+English. The book ends with a **Word list** (pp.127–
+137): every unit's words with an example sentence for
+each — its Unit 1 entry for *grade* reads "I'm in
+Grade 4 at school.", which is the inside-grade note
+at the head of this section.
+
+→ Filed/recorded from this book: comparatives and
+superlatives (longer than / the biggest) with their
+opposites table; whose + 's answers; countries,
+capitals and the Libya profile; hundreds to 1,000;
+minutes in fives and 3.30 time; months and ordinals;
+prices in Libyan Dinars; going-to; the past tense as
+present/past pairs with went/was/did; There was/were;
+the Wh- set with why = because; Have you got…?;
+must/mustn't; draw-to-size shapes in centimetres; and
+the year's stories (Lion and Mouse, City Mouse,
+Sports Field races, Little Brown Bird, Big Bike Race)
+— held here for the Word, Sentence, Paragraph and
+Maths titles. Acceptance counts unchanged — same
+country, a new grade's spiral.
+
+**Libya Grade 5 Pupils Book — READ COMPLETE
+2026-10-25.** Next per the queue: the Grade 5 Activity
+Book.
