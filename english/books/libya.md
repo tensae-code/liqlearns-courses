@@ -1472,6 +1472,10 @@ Downloaded from the grade-03 library record's own URLs
   2026-10-25** (partial text layer; read from the text
   with rendered pages checked wherever the print sits in
   pictures). Code 10010303 (inside front cover).
+- Activity Book: 146 pp, 11,300,622 B — READ COMPLETE
+  2026-10-25. Code 10010304.
+- Teacher Book: 170 pp, 2,470,793 B — READ COMPLETE
+  2026-10-25. Code 11000301.
 
 Course: **"21st Century English for Libya — Primary 3
 Pupil's Book"**, State of Libya, Ministry of Education,
@@ -2132,3 +2136,103 @@ same country, the writing twin of the Pupils Book.
 **Libya Grade 3 Activity Book — READ COMPLETE
 2026-10-25.** Next per the queue: the Grade 3 Teacher
 Book.
+
+### Teacher's Book, Grade 3 — what it adds
+
+Read with the same coverage method as Grades 1–2: the
+Introduction (book pp.4–17) and the Phonetic Symbols
+appendix (pp.166–169) in full; every unit's lesson
+aims checked; audio scripts read wherever they carry
+language the other two books do not print in full.
+Contents: Introduction p.4 · U1 p.18 · U2 p.38 · U3
+p.58 · U4 p.78 · U5 p.90 · U6 p.112 · U7 p.134 · U8
+p.156 · Phonetic Symbols p.166. Audio runs to **Track
+102**. Back cover code **11000301**.
+
+- **The five characters, officially** (Introduction
+  p.6): "There are five characters: Omar, Ben, Sally
+  and Reem, and the children's friend Adam the
+  Astronaut" — Adam is there to start talk about
+  aspirations and dreams, what the children want to
+  be. The Introduction also names the year's **seven
+  stories**: The Magic Pencil, The Clever Crow, Ben's
+  Messy Room, Roland's Race, The Ant and the
+  Grasshopper, The Shopping List, The Greedy King.
+- **How the course is built** (Introduction): eight
+  units of eight lessons; three strands in most units
+  — topic vocabulary, high-frequency words and
+  phrases, and letter sounds with word formation; "By
+  the end of this book, pupils will have learned all
+  the basic English letter sounds and will know how to
+  blend those sounds to form words." Letter **names**
+  are written a, b; letter **sounds** are written /a/,
+  /b/.
+- **Handwriting grows a step** (Unit 1 Lesson 1
+  teaching note): Units 1–2 of the Activity Book review
+  every letter's formation, smalls then capitals, each
+  linked to its key word, traced then freehand; Grade
+  3 moves children forward by adding **'tail flicks'**
+  at the end of letters (in, e.g., f, h, i, l), "which
+  will help children to learn cursive script later
+  on," and by systematically teaching the spelling of
+  high-frequency and irregular words. The correct
+  'ready-to-write' position is named again. (The same
+  note warns that capital I and small l and the number
+  1 have more than one written shape, and pupils will
+  see both.)
+- **High-frequency words and how they're learned**
+  (Introduction): words like the, have, who, what,
+  said do not fit the phonic scheme, so in Units 1–3
+  and 5–7 pupils learn to spell them by the **'Look,
+  say, cover, write, check'** strategy — the grids I
+  read in the Activity Book's Lesson 7s — with the
+  spelling test page at the Activity Book's end.
+- **Sentence building with word cards** (Introduction)
+  — the method in steps: practise the word cards; stick
+  them on the board to form a sentence ("I go to
+  school by car."); substitute single cards (by train
+  / by bike); invite pupils to the front to substitute
+  and form sentences themselves.
+- **Audio-assisted reading**: pupils listen to words,
+  phrases, sentences and texts while following in
+  their books, to connect sounds with spelling;
+  classroom language list = the earlier grades' list,
+  unchanged; assessment stays informal — no formal
+  assessment until Primary 4.
+- **The Greedy King — the full telling** (Unit 8
+  Lesson 4, Track 101; the Pupils Book carries only its
+  pictures): "Once there was a king. He had a big house
+  and a beautiful garden … and he loved gold. One day,
+  a bird got trapped in the garden. The king saw the
+  bird and set it free. The bird gave the king a wish.
+  The king wished that everything he touched would
+  turn to gold. The king touched a chair, and it turned
+  to gold. He touched a table, and it turned to gold.
+  He touched his bed, and it turned to gold. The king
+  touched his food, and it turned to gold. The king
+  touched his daughter, and she turned to gold. Now
+  the king was sad, tired, hungry and lonely. He didn't
+  want his wish any more. The bird heard the king and
+  took away his wish. The king got rid of all his gold.
+  And he lived happily and wisely for ever after." —
+  the Midas story with a bird in the god's place; the
+  teacher's talk explains the title word plainly: "A
+  greedy person wants too much of something," and
+  Track 102 plays the story jumbled for the class to
+  match to the pictures. This is the last lesson of
+  Primary 3.
+- **Roland's Race — the fuller telling** (Track 61):
+  the audio script adds what the Pupils print trims —
+  Roland "played computer games all day **and ate lots
+  of sweets and cake**"; the poster reads "'Rabbit
+  Race! Thursday. All runners welcome.'"; Roland
+  "wanted to run in the race too, but he was sad
+  because he was unhealthy"; at the race "He ran and
+  ran. **He ran as fast as he could**." and it ends
+  "Roland was a happy, healthy rabbit! **His friends
+  all cheered and said 'Well done!'**"
+
+**Libya Grade 3 Teacher's Book — READ COMPLETE
+2026-10-25. Libya Grade 3 is fully read — all three
+books.** Next per the reading queue: Libya Grade 4,
+one book at a time.
