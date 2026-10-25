@@ -78,6 +78,21 @@ alphabet across its 6 units (Scope and Sequence, PDF pp.3–4): Tt Ii
   formation box (D = down, big curve; d = curve, then down) with dog
   + tracing + circling, p.59; Hh/Dd mixed trace-the-beginning-letter,
   p.60. (Unit 3, read 2026-10-25)
+- Rr /r/ — **red, ring, rabbit, robot, rocket** (the r red), PDF
+  p.70; formation box (R = down, curve, diagonal leg; r = down, small
+  curve) with rabbit + tracing + circling, p.71. (Unit 4, read 2026-10-25)
+- Ee /e/ — **eggplant, egg, elephant, enter, elbow** (the e red), PDF
+  p.72; formation box (E = down, three across strokes; e = across,
+  curve around) with elephant + tracing + matching, p.73; Rr/Ee mixed
+  circling and beginning-letter tracing, p.74. (Unit 4, read 2026-10-25)
+- Cc /k/ — **carrot, cake, cat, cup, car** (the c red), PDF p.79;
+  formation box (one big curve) with cat + tracing + circling, p.80.
+  (Unit 4, read 2026-10-25)
+- Kk /k/ — **key, kangaroo, king, kitchen, kite** (the k red), PDF
+  p.81; formation box (down, diagonal in, diagonal out) with kite +
+  tracing + matching, p.82; Cc/Kk mixed beginning-letter tracing,
+  p.83 — the same /k/ sound with two letters, so the letter itself
+  must be known, not only heard. (Unit 4, read 2026-10-25)
 Same country (Egypt), third book — the count below does not change,
 but the lesson gains Primary 1's deeper layer: formation numbers,
 real-photo words, and the two letters mixed in one test.

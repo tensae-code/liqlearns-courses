@@ -416,6 +416,106 @@ have 1 brother. / I have 2 sisters."), and numbers 1–5 with their
 values are recorded here for the Word, Sentence, and Maths titles in
 ladder order.
 
+### P1T1 Unit 4 "My Body and My Senses" — page by page (PDF pp.65–83; read 2026-10-25)
+- p.65 Unit opener + Learning Outcomes: identify basic body parts;
+  identify the five senses; describe each sense and its related body
+  part; identify the formation, sound, and words that begin with Rr,
+  Ee, Cc, and Kk; name and count body parts using complete sentences;
+  trace and write Rr, Ee, Cc, Kk.
+- **Lesson 1: Head to Toe** (pp.66–69) — no opening dialog this unit;
+  the lesson opens on the word set itself.
+  - p.66 Vocabulary: **head, eye, ear, nose, mouth, tongue, arms,
+    hand, legs, foot/feet, toes** — the plural s is pink on arms,
+    legs, toes; foot is shown with its other form, feet · speech
+    bubbles: "I have 2 eyes." / "I have 2 ears." / "I have 1 mouth."
+  - p.67 Ex.1 Listen, point, then circle — the picture that matches
+    the counting sentence ("I have 2 eyes." / "I have 1 nose." / "I
+    have 2 legs." / "I have 1 mouth." / "I have 2 feet." / "I have 5
+    toes.") · Ex.2 Listen, count, and choose the number: "I have
+    (1 – 2) arms / eyes / head / hands."
+  - p.68 Ex.3 Listen, look, then match (eyes, ears, tongue, hand to
+    their pictures) · Ex.4 Listen, point, then circle — "I have 2 of
+    them." / "I have 1." / "I have 2 of them." over rows of body-part
+    pictures (the number is said, the part is not — the learner works
+    it out from the count).
+  - p.69 Ex.5 Draw the missing parts of the face — two faces with
+    dotted outlines where the eyes, brows, nose, and mouth go, and
+    the parts drawn beside them to copy (the learner draws the face
+    back together).
+- **Lesson 2: Phonics — Rr and Ee** (pp.70–74; one lesson, two letters)
+  - p.70 Rr — Listen and repeat: **red, ring, rabbit, robot, rocket**
+    — the r is red · Trace and write Rr.
+  - p.71 Formation box for R/r (R = down, curve, diagonal leg; r =
+    down, small curve) with **rabbit** · more tracing · Ex.4 Circle
+    the objects that start with Rr (rocket, robot, ring, red —
+    against fish, tiger).
+  - p.72 Ee — Listen and repeat (Ex.5): **eggplant, egg, elephant,
+    enter, elbow** — the e is red · Trace and write Ee.
+  - p.73 Formation box for E/e (E = down, across top, across middle,
+    across bottom; e = across, curve up and around) with **elephant**
+    · more tracing · Ex.8 Match the pictures that start with Ee
+    (egg, enter, elbow, eggplant — against tree, fox).
+  - p.74 Ex.9 Circle the pictures that start with Rr (ring, robot,
+    rocket, rabbit) · Ex.10 Circle the pictures that start with Ee
+    (egg, elephant, enter, eggplant, elbow) · Ex.11 Trace the
+    beginning letter of the word (**e**nter, **r**abbit, **e**gg,
+    **r**ing, **e**lbow — Rr and Ee mixed).
+- **Lesson 3: My 5 Senses** (pp.75–78)
+  - p.75 Dialog (Listen): Aly: "Hi, Omar!" · Omar: "Hi, Aly. Let's
+    talk about our senses." · Aly: "Great idea. Tell me — what can
+    you see?" · Omar: "I can see the teacher and the desk." · Aly:
+    "Look! A flower!" · Omar: "Wow! I can see it with my eyes." ·
+    Aly: "I can smell it with my nose. It smells nice!" · Omar: "I
+    can hear the teacher with my ears." · Aly: "I can touch the desk
+    with my hands." · Omar: "I have an apple. I can taste it with my
+    tongue!" · Aly: "Yummy! We use our five senses every day!" ·
+    Both: "Yes! See, hear, smell, taste, and touch!"
+  - p.76 Listen, point, then repeat — the five sense sentences on
+    pictures: **"I can taste with my tongue." / "I can hear with my
+    ears." / "I can smell with my nose." / "I can touch with my
+    hands." / "I can see with my eyes."** · the sense words alone
+    with their body parts: hear (ear), touch (hand), see (eye), taste
+    (mouth/tongue), smell (nose).
+  - p.77 Ex.3 Circle the missing sense word: "I can … with my eyes.
+    (see – taste)" / ears (touch – hear) / nose (smell – see) /
+    tongue (hear – taste) · Ex.4 Match each sense sentence to its
+    body-part picture.
+  - p.78 Ex.5 Look at the picture and circle the sense you use
+    (music → ear; flowers → eye/nose/hand choices; sun → eye; ice
+    cream → tongue) · Ex.6 Match the picture to the sense (a boy on
+    the phone → ear; the moon → eye; a strawberry → tongue; a flower
+    → nose).
+- **Lesson 4: Phonics — Cc and Kk** (pp.79–83; one lesson, two letters,
+  one sound: both are /k/)
+  - p.79 Cc — Listen and repeat: **carrot, cake, cat, cup, car** —
+    the c is red · Trace and write Cc.
+  - p.80 Formation box for C/c (one big curve) with **cat** · more
+    tracing · Ex.4 Circle the objects that start with Cc (cake, cat,
+    cup, carrot — against snail, apple, banana, duck).
+  - p.81 Kk — Listen and repeat (Ex.5): **key, kangaroo, king,
+    kitchen, kite** — the k is red · Trace and write Kk.
+  - p.82 Formation box for K/k (down; diagonal in to the middle;
+    diagonal out) with **kite** · more tracing · Ex.8 Match the
+    objects that start with Kk (key, king, kangaroo, kite — against
+    fish, cup, tiger).
+  - p.83 Ex.9 Color the pictures, then trace the letters (a carrot
+    with Cc, a kangaroo with Kk) · Ex.10 Trace the beginning letter
+    of the word (**c**ake, **k**angaroo, **k**ite, **k**ing, **k**ey,
+    **c**arrot, **c**at, **k**itchen, **c**ar — Cc and Kk mixed, same
+    sound, different letters: the learner must know which letter, not
+    just hear the sound).
+
+Unit 4 basics filed: the-alphabet sources gain P1's Rr words (red,
+ring, rabbit, robot, rocket), Ee words (eggplant, egg, elephant,
+enter, elbow), Cc words (carrot, cake, cat, cup, car), and Kk words
+(key, kangaroo, king, kitchen, kite) — with the Cc/Kk same-sound pair
+recorded. The body word set (head, eye, ear, nose, mouth, tongue,
+arms, hand, legs, foot/feet, toes), the counting-body sentences ("I
+have 2 eyes."), and the five sense sentences ("I can see with my
+eyes." pattern — I can + sense + with my + body part) are recorded
+here for the Word and Sentence titles in ladder order; the senses set
+also belongs to the health/science side when those courses start.
+
 ## Built so far
 - greetings/hello-and-your-name/ — built from Unit 1, Lesson 1 (see its
   sources.md). Title = the common-sense name (Greetings), not the book's
