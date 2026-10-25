@@ -35,3 +35,21 @@ bun (pp.21–22) · long a — cake, lake, gate, cave, snake, grapes
 Each set is taught the same way: hear the words, trace them, match
 them to pictures, circle the right one against a near-miss (cat/cut,
 cake/cat, cub/cube), fill the missing letter, reorder the letters.
+
+**Egypt Primary 2 Term 2 added 2026-10-25** (same country, the
+long-vowel completion layer): *English — Primary 2 — Term 2* (MoE
+Egypt, © 2025; print spec 112 pp, matching the PDF; %PDF, 26,910,676
+B, 112 pp, with text layer; full read in english/EGYPT-BOOK-MAP.md).
+Where Term 1's book met the long vowels one or two at a time, this
+book teaches them as two full sets and then sorts all four together:
+long a + long i — game, gate, cake, line, kite, five (Unit 1, pp.10–12,
+with a song) · long u + long o — nose, cube, tube, rope, stone (Unit 2,
+pp.26–28, with a song) · and Unit 4's phonics review (pp.65–67) sorts
+the whole set — game, kite, cake, nose, rope, cube, tube, gate, five,
+stone, nine, bone — into Long a / Long i / Long u / Long o columns.
+Same teaching shape as the short vowels: missing letters, rearranged
+letters, match to picture, circle against a near-miss with no long
+vowel (kite–five–pen, rope–stone–fig). The same book also introduces
+final blends (-mp/-ft/-lt, -nd/-sk) — end blends, a different thing
+from this lesson's vowel families and from the Blends lesson's start
+blends; they are recorded in the Egypt map for their own lesson.

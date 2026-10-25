@@ -2134,8 +2134,9 @@ and games — is recorded here with pages for its titles in ladder
 order.
 
 ## Still owed in this pass
-- DONE since: KG2 ✅, Primary 1 Term 2 ✅, Primary 2 Term 1 ✅
-  (2026-10-25). Next: Primary 2 Term 2 — one book at a time.
+- DONE since: KG2 ✅, Primary 1 Term 2 ✅, Primary 2 Term 1 ✅,
+  Primary 2 Term 2 ✅ (2026-10-25). Next: Primary 3 — one book at
+  a time.
 - Then map Primary 3–6, Preparatory 7–9, Secondary 10–12 the same
   way, one grade at a time.
 
@@ -2829,3 +2830,137 @@ initial sounds → blending-sounds sources · colors/shapes, numbers
 prepositions, present simple, there is/are → Word and Sentence title
 material, recorded here and slotted in CURRICULUM.md; their lessons
 are built as the Word/Sentence titles' turn comes.
+
+## Primary 2 Term 2 — FULLY READ 2026-10-25 (all 112 pages)
+
+Book facts (verified on disk 2026-10-25): `English_Prim2_Tr2.pdf` —
+26,910,676 B, **112 pages**, WITH a usable text layer (read from the
+text; cover is the only text-thin page), page rule: printed folio =
+PDF page (folio 6 on PDF p.6, folio 78 on p.78). Source: the
+library's secured copy on the LiqLearns textbooks Telegram channel
+(channel file `English_Prim2_Tr2.pdf`, 25.7 MB, caption "Egypt —
+Grade 2 — English Language — English Language Primary 2 Term 2.
+Source: Egypt MoE"); working copy in `egypt-english/`, extracted text
+in `egypt-english/p2t2-text.txt`.
+
+Identity: cover "2 Primary — Term 2 — 2025/2026" (PDF p.1); © 2025
+Ministry of Education and Technical Education, Egypt. The ministry
+message (p.3) presents the same Primary 2 Framework: weekly sessions
+across Listening/Speaking, Reading/Phonics, Writing/Vocabulary,
+Cultural Integration — this term's message adds that each unit
+features fables inspired by Middle Eastern folklore. Back page
+(p.112): print spec 112 pages (matches the PDF, unlike Term 1's
+108-vs-104), 27×19 cm, 70 gsm text / 180 gsm cover, 4 colors;
+developed with Selah El Telmeez Publishing and Printing Company;
+reviewed by Prof. Zeinab El-Naggar, Prof. Attia El-Sayed, Prof.
+Nagwa Younis, Dr. Mai Kamal, Ms. Amira Awaad; Central Administration
+for Curriculum Development; General Supervision Dr. Akram Hassan
+Mohammed. No ISBN appears in this copy's text layer.
+
+Structure: Scope and Sequence table (p.4); each unit opens with a
+Learning Outcomes page and closes with a "What I Learned"
+self-assessment. 6 units × 4 lessons, a Review after Unit 3
+(pp.55–58), a final Review (pp.106–108), and a Glossary
+(pp.109–111). Unit spans: U1 Our Environment pp.5–20 · U2 At the
+Store pp.21–36 · U3 Sports pp.37–54 · U4 Transportation pp.59–76 ·
+U5 The Pyramids pp.77–94 · U6 A Day with My Family pp.95–105 (a
+STORY unit — one story with story-element work, not 4 lessons).
+
+- **U1 Our Environment** — park words: flower, park, grass, tree,
+  river, plant, bench, pick, throw, beautiful, bee, buzzing, nice,
+  clean, rubbish, bin, grow. Language in Use box (p.13): **There is /
+  There isn't** for one thing + "Is there…? Yes, there is / No, there
+  isn't." Phonics: long a + long i — game, gate, cake, line, kite,
+  five (with a song, p.11). Lesson 4 "Keep it Clean": rubbish in the
+  bin, do not pick flowers.
+- **U2 At the Store** — stationery shop words: pencil case, pens,
+  bag, scissors, ruler, books, coloring pencils; a shop dialog
+  ("Are there any pencil cases, please?" — "That will be seventy
+  pounds"); Lesson 4 clothes: T-shirt, skirt, shoes, jacket, pants,
+  shelf, try on, "great choice." Language in Use box (p.29):
+  **There are / There aren't** with plural nouns + "Remember: Add -s
+  for plurals." Phonics: long u + long o — nose, cube, tube, rope,
+  stone (song p.28).
+- **U3 Sports** — football, basketball, tennis, volleyball,
+  swimming, running, racket, net, kick, hit, goal, court; actions:
+  hit into (the goal / the net), hit over (the net), run around (the
+  courts). Phonics: **final blends -mp, -ft, -lt** — belt, salt,
+  lamp, jump, gift, left. Counting 20–50 (pp.45–46). Plural -s with
+  the book's own pronunciation tip (p.47): plural ends /s/ after
+  p, t, k, f sounds; /z/ after b, d, g, l, m, n, r sounds.
+- **U4 Transportation** — car, taxi, bicycle, plane, motorcycle,
+  walk, drive, ride + city places: library, club, post office, city,
+  supermarket, street, letters. Lesson 2 is a phonics REVIEW (all
+  four long vowels + final blends -lt/-mp/-ft sorted together,
+  pp.65–67). Lesson 3 Language in Use (p.68): **Nouns — person,
+  place, thing**, with the "Life in the City" text (Karim) and
+  sorting work. Lesson 4 "Fun City Trip" dialog: Nile River,
+  amusement park, rides, shopping mall, circus, clowns.
+- **U5 The Pyramids** — The Pyramids, Sphinx, desert, school bus,
+  camel, guide, tourists, juice, take pictures, camera, trip, huge,
+  ride, statue, head, lion, body. Language in Use box (p.86):
+  **Present Simple** for habits — "I take pictures. My friend rides
+  the camel." — with the rule in words: for he, she, or it, we add
+  -s to the verb. Counting 50–100 and counting by 10s (pp.89–90).
+  Phonics: **final blends -nd, -sk** — hand, sand, wind, desk, mask,
+  flask. Lesson 4 is a reading text, "The Sphinx" (p.91): a very old
+  statue near the Pyramids in Giza, body of a lion, head of a man;
+  "The Sphinx tells us about old Egypt."
+- **U6 A Day with My Family** — the term's STORY: Nour's family
+  spends Friday at the park (mother packs sandwiches, fruit, juice;
+  bus ride; blue sky, warm weather; football with father; mother
+  reads a story under a tree; counting flowers). Words: park, bus,
+  sky, weather, grass, flowers, tree, football, pack. The story work
+  names its parts: **Characters** (who), **Setting** (where),
+  sequence of events, and a printed **Moral**: "The importance of
+  spending time with family" / "Family time makes us happy and
+  strong" (pp.97–98).
+
+Reviews: after U3 (pp.55–58) — park/store/sports vocabulary, the
+long-vowel and final-blend sets re-sorted, There is/are choice work,
+plural -s, missing numbers. Final Review (pp.106–108) — phonics
+skills (missing letters + rearranged words for the term's sets),
+counting by 10s, circle the verb, circle the noun, sort nouns into
+person/place/thing, sort nouns vs verbs.
+
+Glossary (pp.109–111): Word / Definition table, alphabetical, one
+plain definition per word, ~90 words (Amusement Park "a place with
+games and rides" … Weather "how the air is outside"). Like Term 1's
+glossary it defines some words the units only touch in passing
+(goal, healthy food, letters, photo, student).
+
+The book's own slips, recorded as printed: U3 Lesson 1's pair-work
+script (p.39) opens "Hana: Hi, Ali!" but Habiba answers — a speaker
+mislabel carried from the main dialog. U4's phonics lesson (pp.65–66)
+prints its exercise block twice with small variations (the missing-
+letter, match, and circle sets appear two times). The Scope and
+Sequence table (p.4) is ragged for U4 (its Language in Use cell reads
+only "nouns: dad - car - bicycle - plane") and for U6 (vocabulary
+cell ends "pack - -") — the lessons themselves deliver the full
+material; the table is the thin part. U3's self-assessment (p.54)
+lists the blends as "(mf, ft, lt)" where the unit teaches -mp.
+
+**PRIMARY 2 TERM 2 FULLY READ — 2026-10-25 (all 112 pages).**
+
+**Every named rule the book states, in its own boxes:** There is /
+There isn't, singular (p.13) · There are / There aren't + "Add -s for
+plurals" (p.29) · plural pronunciation /s/ vs /z/ (p.47) · Nouns =
+person, place, thing (p.68) · Present Simple for habits + he/she/it
+add -s (p.86) · story parts named: Characters, Setting, Moral
+(pp.97–98).
+
+**Phonics spine of the term:** long a + long i (U1) · long u + long o
+(U2) · final blends -mp/-ft/-lt (U3) · all long vowels + final blends
+reviewed and sorted together (U4) · final blends -nd/-sk (U5).
+
+**Where its basics file (lessons):** the four long vowels completed
+and sorted as sets → word-families sources · the final blends
+(-mp/-ft/-lt, -nd/-sk) are END blends — a different thing from the
+built Blends lesson's start blends, so they are recorded here for
+their own future lesson, not merged into it · stationery/clothes/
+city/sports/Pyramids word sets, There is/are both forms, plural -s
+with its /s/–/z/ tip, nouns person/place/thing, present simple,
+counting 20–50 and 50–100, and the Nour story with its named story
+parts → Word and Sentence title material (nouns are Term 2 Unit 1's
+first real source; the Nour story is Term 4 Unit 4's first), recorded
+here and slotted in CURRICULUM.md.

@@ -40,6 +40,16 @@ shapes and numbers work deepens Term 1's Unit 3–4 layer, and its word
 sets for the classroom, the home, and the family stock this term's
 Unit 2; its own glossary — one word, one plain meaning — is the first
 source for Unit 3 below.)*
+*(Egypt Primary 2 Term 2, read 2026-10-25, adds: **nouns — person,
+place, thing** (Unit 4 of that book) — the first real source for this
+term's Unit 1; stationery, clothes, city places, sports, and
+Pyramids word sets for Unit 2; counting 20–50 and 50–100 for Unit 4.
+Deeper down the plan, the same two Primary 2 books stock Term 3:
+There is / There isn't and There are / There aren't (both books, in
+named boxes), plural -s with its /s/–/z/ pronunciation tip, and
+Present Simple in both. And Term 4 Unit 4 gets its first story
+source: that book's Unit 6, Nour's family day, which names its own
+story parts — Characters, Setting, and a printed Moral.)*
 
 - **Unit 1 — Word Kinds**: nouns · verbs · adjectives · adverbs ·
   pronouns (each one lesson, one thing — pronouns carries its own
