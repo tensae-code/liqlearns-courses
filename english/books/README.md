@@ -13,7 +13,7 @@ the page it lives on and the course lesson it was filed into.
 
 | Book file | Book | State |
 |---|---|---|
-| [egypt.md](../EGYPT-BOOK-MAP.md) | Egypt — English KG1, KG2, Primary 1 T1/T2 (maps started) | **KG1 READ COMPLETE 2026-10-25**; KG2 is the current book |
+| [egypt.md](../EGYPT-BOOK-MAP.md) | Egypt — English KG1, KG2, Primary 1 T1/T2 (maps started) | **KG1 + KG2 READ COMPLETE 2026-10-25**; Primary 1 Term 1 is the current book |
 | [libya.md](libya.md) | Libya — English Grade 1 Pupils / Activity / Teacher | G1 Pupils read (Unit 1–2 basics filed); rest of book open |
 | [nicaragua.md](nicaragua.md) | Nicaragua — Inglés Activity Book 1 (Grade 1) + Multigrado | READ COMPLETE 2026-10-25; basics filed |
 

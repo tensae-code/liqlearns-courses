@@ -29,6 +29,19 @@ letters sources file for the full record).
 | Egypt KG1's full letter order for the term (Review page): Tt Ii Ss Aa Nn Pp Hh Dd Rr Ee Cc Kk Mm — 13 letters, sounds order | Egypt KG1, contents/review, PDF p.4 (read as a picture, 2026-10-25) |
 | Every one of the 13 letters gets the same pair of pages in Egypt KG1 — a sound page ("Listen and repeat," 3 words) and a trace page (the letter, then the letter inside its words): Ss star/sun/school pp.23–24 · Aa apple/ant pp.28–29 · Nn nest/night/numbers pp.30–31 · Pp pen/pan/pants pp.47–48 · Hh helicopter/honey/heart pp.49–50 · Dd dog/desk/dress pp.54–55 · Rr robot/rice/rabbit pp.56–57 · Ee egg/eagle/elephant pp.70–71 · Cc cap/cow/cloud pp.72–73 · Kk kiwi/kite/kick pp.77–78 · Mm mud/man/mom pp.79–80; review matching/tracing pp.89–92 | Egypt KG1, book pages as listed (whole book read complete, 2026-10-25) |
 
+**Egypt KG2 rows added 2026-10-25** (whole book read complete) —
+KG2 teaches the other 13 letters, each with sound words, a formation
+page (finger follows the arrows from the dot), trace pages, and
+practice: Jj jump/juice/Jad + Kk kick/kite/Karma (Unit 1, book
+pp.15–19, incl. the Kk kite-hunt game) · Dd Dina/dress/donkey + Mm
+Mazen/mug/mommy (Unit 2, pp.38–41) · Gg guitar/grass/Gamila (p.47) ·
+Oo Omneya/orange/on + Bb Bassem/bag/bus (Unit 3, pp.64–67) · Ff
+flag/flower/Farida + Ll lamp/leaf/leg (pp.72–76, incl. the letter
+dice game, dice template p.118) · Ww wolf/water/watch + Cc
+camel/cat/color (Unit 4, pp.88–91) · Rr rice/rabbit/ruler + Uu
+under/umbrella (pp.96–100, incl. the Rr maze). With KG1's 13, Egypt
+KG teaches all 26 letters in sounds order across the two books.
+
 **Acceptance count: taught in 2 countries (Egypt, Libya).**
 The full alphabet and the letter-word list are Libya's in this layer;
 Egypt joins for the sounds-way grouping. Other finished countries join

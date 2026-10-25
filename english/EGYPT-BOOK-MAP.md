@@ -456,6 +456,57 @@ Book page = PDF page − 4, same as KG1.
   that start with the same letter
 - p.100 Sorting game: cut out the pictures (book p.117), say each
   name, sort it into the Cc / Uu / Ww / Rr box
+- p.101 **Lesson 3: Listen, Learn, and Sing!** — "Take care of your
+  personal hygiene." / "Be neat." / "Eat healthy food." Song: "I
+  wake up early, I'm on the go, brush my teeth, then clean my room
+  so! Healthy food is what I choose, Routine Champion, I never
+  lose."
+- p.102 Practice: smileys + self-check — **Routine Champion Medal**
+- p.103 **Let's Learn With a Story!** — Gamila and Omneya's routine
+  dialog (the longest yet, written as a script): "Tell me about
+  your daily routine." … "Then, I go to school." … "What do you do
+  after dinner?" "I go to bed."
+- p.104 Think back: circle the correct answer (morning – night…)
+- p.105 **Unit 4 Review** — trace Ww/Rr/Cc/Uu; **arrange the daily
+  routine actions in order**; count, match, trace 9/10
+- p.106 Sing and Chant: **My Day Song** ("In the morning, I get up,
+  Have my breakfast, drink from my cup… Then go to bed — I'm a
+  winner!")
+
+### KG2 final Review (book pp.107–112)
+- p.107 Use the right color (red/yellow/green); match the meal to
+  the time · p.108 circle the correct beginning letter (all units)
+- p.109 match picture to beginning letter (f/w/l, c/r/u) · p.110
+  count and circle; draw 2 circles, draw 4 circles
+- p.111 count and match clouds (6/8/10); color 7 clouds, color 10
+  clouds · p.112 read the sentence, judge the picture 👍/👎 ("The
+  boy can kick the ball" over a running boy); match clothing to
+  body part
+
+### KG2 craft annex — "Cut, Paste, and Create!" (book pp.113–118)
+- p.113 Make Your Donkey Poster (for Unit 2) · p.114 Make your own
+  kite (Unit 1) · p.115 Flower poster (Unit 3) · p.116 Cat poster
+  (Unit 4) — each a 5-step build: cut, place, glue, press, finish
+- p.117 Cut the Pictures (the sorting game's cards) · p.118 the
+  letter dice template (Oo Bb Ff Kk Ll Dd) with building steps
+- Credits page: English KG-2 Term 1, Academic Year **2025/2026**,
+  Ministry of Education and Technical Education with the British
+  Council. Back cover: real photos of children with the book's
+  values in speech bubbles (helping hand, respect differences, kind
+  words — Thank you / Please / Sorry, eat fruits and vegetables,
+  exercise every day).
+
+## ✅ EGYPT KG2 TERM 1 — READ COMPLETE, 2026-10-25
+Every page read (contents, book pp.1–118, credits, back cover).
+KG2's 13 letters (Jj Kk Dd Mm Gg Oo Bb Ff Ll Ww Cc Rr Uu) join KG1's
+13 — Egypt's KG pair teaches all 26 letters, each letter with its
+sound words, formation arrows, trace and practice pages, all
+recorded above. Filed into lessons: Greetings sources (p.2 recall
+page), Pencil and Lines sources (p.1 lines/shapes refresh),
+the-alphabet sources (KG2 letter rows). The rest — action verbs and
+"I can…", clothes, days, routine, the four medals, songs, stories
+and games — is recorded here with pages for its titles in ladder
+order.
 
 ## Still owed in this pass
 - Finish KG2, then Primary 1 Term 2 — one book at a time.
