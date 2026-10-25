@@ -14,7 +14,7 @@ the page it lives on and the course lesson it was filed into.
 | Book file | Book | State |
 |---|---|---|
 | [egypt.md](../EGYPT-BOOK-MAP.md) | Egypt — English KG1, KG2, Primary 1 T1/T2 (maps started) | **KG1 + KG2 + Primary 1 Term 1 + Primary 1 Term 2 READ COMPLETE 2026-10-25** |
-| [libya.md](libya.md) | Libya — English Grade 1 Pupils / Activity / Teacher; Grade 2 Pupils / Activity / Teacher; Grade 3 Pupils / Activity / Teacher | **G1 READ COMPLETE 2026-10-25 — all three books** · **G2 READ COMPLETE 2026-10-25 — all three books** · **G3 READ COMPLETE 2026-10-25 — all three books**; G4 is next |
+| [libya.md](libya.md) | Libya — English Grade 1 Pupils / Activity / Teacher; Grade 2 Pupils / Activity / Teacher; Grade 3 Pupils / Activity / Teacher | **G1 READ COMPLETE 2026-10-25 — all three books** · **G2 READ COMPLETE 2026-10-25 — all three books** · **G3 READ COMPLETE 2026-10-25 — all three books** · **G4 SOURCE PROBLEM: the record's files are the G3 books re-covered (verified)** — real G4 books not in hand; G5 is the current book |
 | [nicaragua.md](nicaragua.md) | Nicaragua — Inglés Activity Book 1 (Grade 1) + Multigrado | READ COMPLETE 2026-10-25; basics filed |
 
 North Macedonia Grade 2: **book not opened yet** — the portal link in

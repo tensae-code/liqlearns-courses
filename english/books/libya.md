@@ -2236,3 +2236,44 @@ p.156 · Phonetic Symbols p.166. Audio runs to **Track
 2026-10-25. Libya Grade 3 is fully read — all three
 books.** Next per the reading queue: Libya Grade 4,
 one book at a time.
+
+---
+
+# Libya — English Grade 4: SOURCE PROBLEM (found 2026-10-25, verified)
+
+The grade-04 library record's three English books all
+point to LIAS (liasinstitute.com/PDFs/04_English_for_
+Libya_*.pdf), and the copies secured in the textbooks
+library are those same files. All three were downloaded
+and checked against the Grade 3 books page by page —
+**they are the Grade 3 books re-issued under Primary 4
+covers, not Grade 4 books**:
+
+- Pupils Book: 138 pp, same units at the same pages.
+  A full text diff against the Grade 3 Pupils Book
+  differs in only 21 of 6,516 lines — the cover words
+  (Primary 3 → Primary 4), a reworded components
+  paragraph, one Picture Dictionary page order, and a
+  new code, 10020403.
+- Activity Book: 146 pp; diff = 32 lines, cover text
+  only. New code on its back cover pattern.
+- Teachers Book: 168 pp; its body pages carry the
+  printer's own file marks **"LBY Primary G3
+  BOOK.indb"** — the file was assembled from the Grade
+  3 book's body files with Grade 4 introduction pages
+  ("LBY0034_G4 Primary Introduction TB.indd").
+
+So Libya's real Primary 4 English books are **not in
+hand from this source**, and nothing is filed from
+Grade 4 — there is nothing new to file; the content is
+Grade 3's, already read. Whether LIAS mislabeled the
+files or hosts a re-issue, the fix belongs to the
+textbook hunt: find the real "English for Libya
+Primary 4" Pupils / Activity / Teachers books (Garnet's
+series continues — the grade-05 files at the same
+source are a genuinely different book: 141 pp, units
+Our School · Around the World · Open Day · Revision
+(1) · Places to See · In the Past · The Challenge ·
+Revision (2)). Until the real G4 books land, the queue
+moves on to Grade 5; G4 stays marked here as
+source-blocked, not read.
