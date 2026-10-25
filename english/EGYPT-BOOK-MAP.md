@@ -380,6 +380,25 @@ Book page = PDF page − 4, same as KG1.
 - p.56 **Unit 2 Review** — trace Dd/Mm/Gg and match; circle the
   clothing items; count, match, and trace 3/4/5
 
+### KG2 Unit 3 — page by page (book pp.57–64 so far)
+- p.57 Opener: teacher asks "What day is it today?" — "Today is
+  Sunday." (Egypt's school week starts on Sunday)
+- p.58 **Lesson 1: What day is it?** — the week on a calendar:
+  Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday
+- p.59 Yesterday / Today / Tomorrow — arrows on the day list
+  (today = Wednesday in the picture: yesterday Tuesday, tomorrow
+  Thursday)
+- p.60 "I go to the park on Friday." / "What day is it today?"
+  "Today is Monday."
+- p.61 Practice: circle what day comes tomorrow; circle the right
+  picture for the sentence · p.62 Practice: circle what day was
+  yesterday
+- p.63 **My Colorful Week!** — the days as a train (Sunday first):
+  color each day differently, circle your favorite, talk about it —
+  the week taught as an ORDER
+- p.64 **Lesson 2: Letters and Sounds** — Oo (Omneya, orange, on) and
+  Bb (Bassem, bag, bus) side by side
+
 ## Still owed in this pass
 - Finish KG2, then Primary 1 Term 2 — one book at a time.
 - Download and map Primary 2–6, Preparatory 7–9, Secondary 10–12 the
