@@ -90,3 +90,21 @@ The vowel-sounds depth this book adds (Units 2–5 phonics):
   nine. (Third statement of the magic-e rule in the Egypt run:
   P3 T2 p.48, here p.89.)
 Same country, deeper layer — the country count does not change.
+
+## Egypt — English Primary 4 Term 2 (2025/2026) — added 2026-10-25
+
+- **R-controlled vowels COMPLETED to all five** (U2 L3
+  Pronunciation, p.36): the book's rule — the letter r changes
+  the sound of the vowel before it. P3 T2 taught er/ar/or; this
+  book's table runs all five families: ar (star, far), or
+  (world, work), er (teacher, runner), ir (birthday, shirt), ur
+  (fur, nurse) — with a sort-the-words table across er/ir/ur/
+  ar/or.
+- **oi / oy — one sound, two spellings, position decides** (U5
+  L3 Pronunciation, p.87): both spellings say the same sound;
+  oi usually sits in the MIDDLE of a word (coin, boil, point,
+  noise) and oy usually at the END (boy, toy, enjoy, joy) —
+  where the sound sits in the word tells you which spelling to
+  write. Same family as P3 T2's ea/ee (two spellings, one
+  sound). A Tip on the next page defines rhyming words (words
+  that sound the same at the end).

@@ -3643,3 +3643,170 @@ unit — is recorded here and slotted in CURRICULUM.md.
 **PRIMARY 4 TERM 1 FULLY READ — 2026-10-25.** Egypt progress: 9
 of 26 English books read (KG1, KG2, P1 T1+T2, P2 T1+T2, P3 T1+T2,
 P4 T1). Next: Primary 4 Term 2.
+
+---
+
+## Egypt — English Primary 4 Term 2 (read 2026-10-25)
+
+Source: the ministry e-learning host's 2026 path — the ONLY copy
+the host carries for this term (no 2026_2027 copy exists; probed
+and 404). Working file `English_Prim4_Tr2.pdf`, 220,739,768 bytes
+(the series' biggest file by far — uncompressed pages), ends
+%%EOF, PDF title "Primary SB4 final Darwish COL.", 112 pages,
+essentially image-only (234 stray text chars — read visually).
+Printed folio = PDF page throughout.
+
+Identity: cover "English / Primary 4 / Term 2 / 2025/2026" (p.1),
+same new design as Term 1. © 2025 MoE dedication (p.2). Back page
+(p.112): "English Primary 4 – Term 2, Academic Year 2025/2026";
+developed and produced with the Content Department Team at Selah
+El Telmeez; reviewed by Prof. Zeinab El-Naggar, Prof. Attia
+El-Sayed, Prof. Nagwa Younis, Dr. Mai Kamal, Ms. Amira Awaad;
+CACD team; general supervision Dr. Akram Hassan Mohammed;
+British Council mark; printing house Darwish (matching the PDF
+title); Arabic print spec says 116 pages (the PDF holds 112).
+NO ISBN and NO deposit number are printed on this back page —
+Term 1 had both.
+
+Shape: Scope and Sequence pp.3–8 (one page per unit this time).
+Six units in the same five-lesson rhythm as Term 1, Quick Review
++ star-based Self-Assessment table ("I got it / I'm not sure /
+I need help") per unit; Review 1 after U3 (pp.59–60), Review 2
+after U6 (pp.105–107); Glossary pp.108–111, ALPHABETICAL this
+time (~110 words, one-line definitions). Unit spans: U1 This is
+Where I Live pp.10–26 · U2 Our World, Our Responsibility
+pp.27–41 · U3 What's in the Package? pp.42–58 · U4 Let's
+Celebrate pp.61–76 · U5 Exploring Wonders in Egypt pp.77–92 ·
+U6 The Lost Kite pp.93–104 (a STORY unit — one whole original
+story).
+
+GRAMMAR SPINE (Language in Use boxes, book order):
+1. **Past tense, regular and irregular** (U1, p.16) — the fullest
+   past-simple treatment in the Egypt run: the past tells about
+   actions that already happened; signal words listed (yesterday,
+   last…, ago, in (2000), when I was young…); regular verbs add
+   -ed; irregular verbs change their spelling (go/went,
+   buy/bought); negative = didn't + base verb, with the book's
+   own notice that the main verb stays in the base form after
+   didn't; questions = Did + subject + base verb. A Tip box adds
+   the three sounds of -ed: /ɪd/ (wanted, needed), /t/ (helped,
+   looked), /d/ (called, cleaned).
+2. **Conjunctions** (U2, p.32) — words that join parts of a
+   sentence so ideas flow; and / but / or recalled from P3, and
+   three new jobs stated: nor adds a second negative idea; so
+   shows a result; because shows a reason or cause.
+3. **Countable and uncountable nouns** (U3, p.48) — the fullest
+   statement yet: countable nouns can be counted and take a, an,
+   or numbers; uncountable nouns cannot be counted because they
+   have no separate pieces, and take NO a/an/numbers — instead
+   they are measured in container/piece expressions (a carton
+   of, a piece of, slices of), the unit's packaging set.
+4. **Adjectives** (U4, p.67) — words that describe nouns: they
+   tell what something looks, feels, sounds, or smells like;
+   sorted in print into describing people / objects / places /
+   feelings and events. (Builds on P3 T2's naming and P4 T1's
+   comparative/superlative rules.)
+5. **Should / shouldn't for advice** (U5, p.83) — printed as
+   sentence structures: subject + should + base verb;
+   shouldn't = should not + base verb; questions open with
+   Should + subject + base verb, with short answers (Yes, we
+   should / No, you shouldn't).
+
+PHONICS SPINE: silent letters (k, l) (U1, p.21) — k is not
+pronounced before n at the start of a word (knock, knife, knee,
+know); l is not pronounced in some words, especially after a or
+o (walk, talk, half, folk, calm). **R-controlled words completed**
+(U2, p.36): the letter r changes the sound of the vowel before
+it — all five families now: ar, or, er, ir, ur (P3 T2 had taught
+er/ar/or only). Silent letters (b, w) (U3, p.52) — b is hardly
+heard after m at the end of a word (lamb, thumb, comb, climb);
+w is not pronounced before r at the start (write, wrong, wrist,
+wrap). Plural final -s sounds (U4, p.71): the same three-way
+split as the -ed tip — /s/ (guests, books), /z/ (ribbons,
+candles), /ɪz/ (houses, boxes) — with a Tip restating that a
+singular subject adds -s to the verb and a plural subject does
+not. oi / oy (U5, p.87): both spell the SAME sound; oi usually
+sits in the middle of a word (coin, boil, point, noise) and oy
+usually at the end (boy, toy, enjoy, joy) — the word's position
+chooses the spelling; a Tip defines rhyming words on the same
+spread.
+
+UNITS, briefly: U1 — environment words by real photo (city,
+village, desert, oasis, river); a dialog comparing city, village
+and desert life in the past tense; two past-tense reading texts
+(a village visit; a Nile riverbank day with a grandfather);
+presentation project. U2 — the 3Rs taught in a teacher dialog
+(reduce = use less, reuse = use again, recycle = turn old into
+new); a go-green text (emails over paper letters, tote bags,
+litter in the bin); a saving-resources text (water, electricity,
+gas used wisely so they don't run out); brochure project. U3 —
+a helping-others narrative (two children pack and deliver food
+packages, help an elderly neighbor); a picnic dialog built
+entirely out of packaging expressions (a carton of milk, a bar
+of chocolate, a pack of, a bottle of, a slice of, a piece of, a
+kilo of); an Al Azhar Park picnic text; poster project. U4 —
+celebration phrase set (exchange gifts, perform music, play a
+game, eat special food, socialize); a family-gathering dialog
+(uncle plays the oud); an end-of-year party text loaded with
+adjectives; a birthday text; thank-you-card project. U5 — real
+places of Egypt by text and photo: Oyoun Mousa (Moses Springs,
+South Sinai), a Dahab vacation dialog (diving, corals are living
+animals — don't touch), Port Said and Port Fouad by ferry at
+the Suez Canal; postcard project and a sites mind map. U6 —
+the story unit (below).
+
+WRITING SPINE: the **friendly letter** gets a printed five-part
+checklist (U1, p.22): greeting (Dear + name), introduction (say
+why you are writing), body (details or stories), closing (end
+politely), signature — with a full model letter and a word bank
+(time words, feeling words, action words, closings). The
+**email** is modeled with its parts labeled on the message
+itself (U2, p.37): title (subject), greeting, introduction
+(what the email is about), body details, conclusion (a friendly
+closing line), closing + name. The **narrative paragraph** gets
+a labeled frame (U3, pp.54–55): Title; Beginning (when? who?
+where?); Middle (what happened?); Ending (how did it finish?
+how do you feel?) — worked on a model text, then set as the
+learner's own frame. The **blog** frame returns from Term 1,
+restated as six labeled parts on a model Labor Day post (U4,
+p.72): title, your name, introduction, body with details,
+conclusion, add a picture; the practice text is about Sinai
+Liberation Day. The **postcard** is modeled whole (U5, p.89):
+greeting, past-tense holiday news with advice, "Wish you were
+here!", closing + name, address side with name and country,
+and a real photo of the place (Dahab's Blue Hole).
+
+STORY: "The Lost Kite" (U6, pp.94–103) is an ORIGINAL story
+written for this book, filed by summary only: two friends fly a
+new red kite in a field by their river village; the wind carries
+it across the river onto a stranger's roof; rather than give
+up, they cross the bridge, knock, and ask — and the kind old
+man fetches it down for them. Before the story, a printed
+Story Elements table (p.95) defines SIX parts — Title (the
+name of the story), Setting (where and when), Characters
+(people in the story), Plot/Problem (what happens, beginning
+to end), Solution (what happens to fix the problem), Moral
+(the lesson or message) — the fullest story-parts set in the
+Egypt run, and the unit's work runs on it (fill the table,
+order the events, write the problem and the solution, retell).
+Core value: teamwork; life skill: kindness.
+
+BOOK SLIPS, as printed: the U4 family-gathering dialog (p.63)
+prints "evetn" for "even" and "his otud" for "his oud". The
+Glossary (p.110) carries an entry labeled "lowercase: reuse"
+defined as making new things from old materials (the recycle
+definition), immediately followed by a correct "reuse" entry.
+The back page's print spec claims 116 pages against the PDF's
+112, and prints no ISBN or deposit number (Term 1 printed both).
+
+Filed: word-families sources (R-controlled completed to all
+five families + the oi/oy position rule), two-letter-sounds
+sources (silent letters k/l and b/w).
+
+EGYPT SET: 10 of 26 English books read (KG1, KG2, P1 T1+T2,
+P2 T1+T2, P3 T1+T2, P4 T1+T2). **Primary 4 is complete.**
+
+PRIMARY 4 TERM 2 FULLY READ — 2026-10-25
+
+Still owed: Primary 5–6, Preparatory 7–9, Secondary 10–12
+(the remaining 16 of the 26-book Egypt English set).

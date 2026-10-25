@@ -158,3 +158,30 @@ this file, as the reading reaches those books.
 *Kept current as books are read: when a book is finished, its units are
 placed in this plan and its basics are filed into the lessons named
 here. This file is the order; TITLES.md is the map of folders.*
+
+**Stocked by Egypt Primary 4 Term 2 (read 2026-10-25) — Term 3
+material:** the fullest past simple in the run (regular -ed /
+irregular spellings, didn't + base, Did-questions, signal words,
+and the three sounds of -ed); conjunctions completed (and /
+but / or plus nor for a second negative, so for a result,
+because for a reason); countable/uncountable in its fullest
+form (no a/an or numbers with uncountables — container and
+piece expressions instead); adjectives in their fullest
+definition (what a thing looks/feels/sounds/smells like,
+sorted people / objects / places / feelings); should /
+shouldn't as printed sentence structures for advice. Phonics
+stock: silent letters (k before n, l after a/o, b after m, w
+before r), R-controlled vowels completed to all five families,
+plural -s in its three sounds, and oi/oy (one sound, position
+picks the spelling).
+
+**Stocked by Egypt Primary 4 Term 2 — Term 4 material:** the
+friendly letter's five-part checklist (greeting, introduction,
+body, closing, signature) with model + word banks; the email's
+labeled parts (subject, greeting, introduction, body,
+conclusion, name); the narrative paragraph frame (Title /
+Beginning / Middle / Ending, each with its guiding questions);
+the blog frame restated with six labeled parts; the postcard
+modeled whole; and the fullest story-elements set yet — six
+parts (Title, Setting, Characters, Plot/Problem, Solution,
+Moral) taught on an original whole story, "The Lost Kite."

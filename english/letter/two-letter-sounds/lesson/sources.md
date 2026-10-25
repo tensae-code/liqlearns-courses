@@ -64,3 +64,16 @@ Same country, deeper layer — the country count does not change.
 - The voicing thread now runs th (P3 T1) → f/v → p/b across the
   Egypt books: same letter-shape pairs, told apart by the voice.
 Same country, deeper layer — the country count does not change.
+
+## Egypt — English Primary 4 Term 2 (2025/2026) — added 2026-10-25
+
+- **Silent letters (k, l)** (U1 L3 Pronunciation, p.21): the
+  letter k is not pronounced when it comes before n at the
+  start of a word (knock, knife, knee, know); the letter l is
+  not pronounced in some words, especially after a or o (walk,
+  talk, half, folk — and calm in the exercises).
+- **Silent letters (b, w)** (U3 L3 Pronunciation, p.52): the
+  letter b is hardly heard when it comes after m at the end of
+  a word (lamb, thumb, comb, climb); the letter w is not
+  pronounced when it comes before r at the beginning of a word
+  (write, wrong, wrist, wrap).
