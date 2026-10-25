@@ -367,6 +367,18 @@ Book page = PDF page − 4, same as KG1.
 - p.52 Practice: smiley-face judgment for good actions; draw
   yourself in your favorite clothes — **Best Outfit medal**;
   discuss: "Do we all wear the same clothes?"
+- p.53 **Let's Learn With a Story!** — Dina and Mazen go shopping:
+  "Hi Mazen. I like your red T-shirt." / "Thank you, Dina! I like
+  your dress." / "I want 4 pairs of shorts" / "I want 3 skirts." /
+  "Let's get 5 caps too!" / "Let's count! 1, 2, 3, 4, 5!" — clothes
+  and numbers inside one dialog
+- p.54 Think back to the story: **circle the correct answer** —
+  fill-in sentences with two choices ("Mazen's T-shirt is ………
+  (red – blue)") — the multiple-choice shape
+- p.55 Sing and Chant: **Getting Dressed Song** ("I wear my cap when
+  I play in the sun… socks and shoes — now I'm ready for school!")
+- p.56 **Unit 2 Review** — trace Dd/Mm/Gg and match; circle the
+  clothing items; count, match, and trace 3/4/5
 
 ## Still owed in this pass
 - Finish KG2, then Primary 1 Term 2 — one book at a time.
