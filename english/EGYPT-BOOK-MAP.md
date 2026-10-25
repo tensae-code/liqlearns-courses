@@ -163,11 +163,60 @@ show and tell.
 - p.61 Project: My Face (face-part puppets on sticks) · p.62 Show
   and Tell: "This is my face."
 
-### KG1 Unit 4 — started (book pp.63–64)
+### KG1 Unit 4 — page by page (book pp.63–88; read 2026-10-25)
 - p.63 Unit opener: Picnic — "We are having so much fun." / "What a
   beautiful day for a picnic!"
 - p.64 My Family (Look, listen, and point): father, mother, brother,
-  sister
+  sister · p.65: grandfather, grandmother
+- p.66 Garden: tree, flower, grass · p.67 Draw what you can see in
+  the garden (blank drawing page)
+- p.68 "What's in My Picnic Basket? Healthy or not?" — chips, fruits,
+  chocolate, sandwich, juice · p.69 Match healthy / unhealthy food
+- p.70 The sound of Ee — egg, eagle, elephant · p.71 Trace Ee
+- p.72 The sound of Cc — cap, cow, cloud · p.73 Trace Cc
+- p.74 Count and Say: **4** — "I can see 4 sandwiches / 4 clouds" ·
+  p.75 Trace number 4; color 4 balloons
+- p.76 Colors and shapes: green heart
+- p.77 The sound of Kk — kiwi, kite, kick · p.78 Trace Kk
+- p.79 The sound of Mm — mud, man, mom · p.80 Trace Mm
+- p.81 Count and Say: **5** — "I can see 5 caps / 5 flowers" ·
+  p.82 Trace number 5; color 5 balloons
+- p.83 Colors and shapes: orange triangle
+- p.84 Practice: match picture to beginning letter (Ee/Cc/Kk/Mm)
+- p.85 Practice: match the picture with its shadow
+- p.86 **Story: "Family Fun on the Grass"** — "I am going on a picnic
+  with my family." / "We are going to the garden. It is sunny." /
+  "We have food and juice." / "I love my family."
+- p.87 Project: Family Tree · p.88 Show and Tell: "This is my family
+  tree."
+
+### KG1 Review — (book pp.89–94; read 2026-10-25)
+- p.89 Practice: trace the letters (Tt, Hh, Ss, Kk with their words)
+- p.90 Review: match picture with the correct letter, then trace
+  (Ee/Ii/Rr/Mm/Aa)
+- p.91 Review: circle the good hygiene action; circle the healthy
+  food; draw a happy face and a sad face
+- p.92 Review: circle the correct letter, then trace (Cc/Ee, Aa/Nn,
+  Rr/Dd, Pp/Mm)
+- p.93 Review: count and circle the number
+- p.94 Final Project: "My Classroom Craft!" — color, cut and glue
+  the classroom scene (teacher, book, chair, desk, crayon)
+- Then one blank page and the back cover: English KG-1 Term 1,
+  Academic Year **2025/2026**, Ministry of Education and Technical
+  Education (developed with Selah El Telmeez Publishing; British
+  Council).
+
+## ✅ EGYPT KG1 TERM 1 — READ COMPLETE, 2026-10-25
+Every page read (cover, both contents pages, book pp.1–94, back
+cover). Basics filed into lessons: Pencil and Lines (p.1 grip +
+lines); Greetings sources (U1 spoken layer + stories); the-alphabet
+sources (all 13 letters' sound/trace pages). Word sets (classroom,
+body, family, food, garden), the Sentence patterns ("I comb my
+hair", "I can see…", "This is my…", "I love my family") and the four
+unit stories are recorded above with their pages — their titles
+(Word, Sentence, Story) build from these records in ladder order.
+The Math column (numbers 1–5, shapes, colors) is recorded here for
+the Maths course.
 
 ### KG1 Unit 3 — page by page (book pp.37–48; read 2026-10-25)
 - p.37 Unit opener: washing at the sink, mirror (My Body, My Care!)

@@ -27,6 +27,7 @@ letters sources file for the full record).
 | The sound of Tt, taught as its own page: "Listen and repeat" — toys, turtle, train; then "Let's trace letter Tt" (+ t inside train, toys) | Egypt KG1, book pp.8–9 (read as pictures, 2026-10-25) |
 | The sound of Ii: insects, ink, in; trace Ii (+ i inside ink, in); then "It's Practice Time! Circle the beginning letter" (Tt or Ii) | Egypt KG1, book pp.13–15 (read as pictures, 2026-10-25) |
 | Egypt KG1's full letter order for the term (Review page): Tt Ii Ss Aa Nn Pp Hh Dd Rr Ee Cc Kk Mm — 13 letters, sounds order | Egypt KG1, contents/review, PDF p.4 (read as a picture, 2026-10-25) |
+| Every one of the 13 letters gets the same pair of pages in Egypt KG1 — a sound page ("Listen and repeat," 3 words) and a trace page (the letter, then the letter inside its words): Ss star/sun/school pp.23–24 · Aa apple/ant pp.28–29 · Nn nest/night/numbers pp.30–31 · Pp pen/pan/pants pp.47–48 · Hh helicopter/honey/heart pp.49–50 · Dd dog/desk/dress pp.54–55 · Rr robot/rice/rabbit pp.56–57 · Ee egg/eagle/elephant pp.70–71 · Cc cap/cow/cloud pp.72–73 · Kk kiwi/kite/kick pp.77–78 · Mm mud/man/mom pp.79–80; review matching/tracing pp.89–92 | Egypt KG1, book pages as listed (whole book read complete, 2026-10-25) |
 
 **Acceptance count: taught in 2 countries (Egypt, Libya).**
 The full alphabet and the letter-word list are Libya's in this layer;
