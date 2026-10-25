@@ -112,19 +112,47 @@ Primary 1 Unit 1).
   "I dropped my toy. I am sad." "It's okay. I will help you." →
   Goodbye / Goodbye. (Names are the book's own — source tags only.)
 
-### KG1 Unit 2 — started (book pp.18–20)
+### KG1 Unit 2 — page by page (book pp.18–36; read 2026-10-25)
 - p.18 Unit opener: "School" (Look, listen, and point)
 - p.19 "Classroom" — labeled picture: board, desk, book, pencil,
   eraser
 - p.20 "playground" (picture page)
+- p.21 "What can you see at the playground?" — swing, slide (Look and
+  say; listen and circle)
+- p.22 "What can you see in your classroom?" — Look and say: teacher,
+  board, desk, chair, eraser, pencil, book, crayon
+- p.23 The sound of Ss — star, sun, school · p.24 Trace Ss (s in sun,
+  star)
+- p.25 Count and Say: **2** — "I can see 2 chairs / 2 pencils"
+  p.26 Trace number 2; color 2 balloons
+- p.27 Colors and shapes: blue square ("I can see a blue square")
+- p.28 The sound of Aa — apple, ant · p.29 Trace Aa (a in ant, apple)
+- p.30 The sound of Nn — nest, night, numbers · p.31 Trace Nn (n in
+  nest, night)
+- p.32 Practice Time! Circle the picture that matches the letter
+  (Ss/Aa/Nn)
+- p.33 Practice Time! Color the classroom objects (pencil, chair —
+  the plane is not one)
+- p.34 **Story: "Look Around the Classroom!"** — "Good morning,
+  class. Today we will learn about classroom objects." / "I will
+  color the flower with my crayon." / "Hello, Selim. I have a new
+  pencil." / "Don't forget to use your eraser if you make a mistake."
+- p.35 Project: School Bag (materials page) · p.36 Show and Tell:
+  "This is my school bag."
+
+The unit pattern is now confirmed for the whole book: words first
+(say them), one letter's sound + trace, a number (count + trace),
+a color+shape, the next letters, practice, a 4-panel story, a project,
+show and tell.
 
 Reading continues page by page until the book is finished (one book
 at a time — his rule). Filed so far from KG1: Pencil and Lines
 (grip + lines, p.1); Greetings (spoken greetings pp.2/4/5 + story
 p.17 now in its sources); the-alphabet sources (Tt pp.8–9, Ii
-pp.13–14, practice p.15). Number/shape/color pages are Egypt's own
-Math column inside this book — recorded here; they file into the
-Maths course when it starts, not into English.
+pp.13–14, practice p.15; Ss/Aa/Nn pages recorded here for the same
+lesson). Number/shape/color pages are Egypt's own Math column inside
+this book — recorded here; they file into the Maths course when it
+starts, not into English.
 
 ## Still owed in this pass
 - Finish KG1 (book pp.21–end), then KG2, then Primary 1 Term 2 —
