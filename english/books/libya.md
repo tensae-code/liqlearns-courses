@@ -2301,6 +2301,11 @@ Downloaded from the grade-05 library record's own URLs
   Challenge (p.88) · U8 Revision (2) (p.104) ·
   Spelling Tests (p.108) · Picture/Word Cards (p.109)
   · Game Circles (p.117).
+- Teacher Book: 174 pp, 1,955,430 B — **READ COMPLETE
+  2026-10-25** (real text layer). Contents:
+  Introduction p.4 · U1 p.18 · U2 p.42 · U3 p.62 ·
+  U4 p.86 · U5 p.96 · U6 p.120 · U7 p.140 · U8 p.160
+  · Phonetic Chart p.169.
 
 Course: "21st Century English for Libya — Primary 5
 Pupil's Book" on its cover — but one honest note, as
@@ -3408,5 +3413,107 @@ Grade 4 going into Grade 5. Acceptance counts
 unchanged — same country, the same grade's twin book.
 
 **Libya Grade 5 Activity Book — READ COMPLETE
-2026-10-25.** Next per the queue: the Grade 5 Teacher
-Book.
+2026-10-25.**
+
+### Grade 5 Teacher Book — what it adds
+
+Audio runs to **Track 149**. The Introduction settles
+this level's grade in the publisher's own words:
+**"This level of 21st Century English for Libya has
+been developed for teaching English to children in
+the fourth year of primary."** — while calling the
+level "Primary 5" throughout. So the cover-vs-inside
+gap found in the Pupils and Activity books is the
+course's own design: the books labelled Primary 5
+teach the fourth year. (Filed under the library's
+Grade 5, as shelved, with this note standing.)
+
+- The year's **seven stories** are named: The Lion
+  and the Mouse, Races on the Sports Field, The
+  Magic Bird, A Trip to the Museum, The Little Brown
+  Bird, The Big Bike Race and Ice-cream for everyone!
+  (the last title printed here with "Ice-cream"
+  singular; the Pupils Book prints "Ice-creams for
+  everyone!").
+- **Four main characters**: Yousif, Lina, Nadia and
+  Kareem (Salwa, Rana, Tariq and the rest are the
+  wider cast).
+- **Assessment changes at this level**, in the book's
+  words: "There was no formal assessment in the early
+  primary grades. This occurs for the first time in
+  Primary 5." — with progress charts kept by the
+  teacher across confidence, interest, interaction and
+  behaviour, and the spelling tests now real (the AB
+  Spelling Tests page, p.108, is worked from).
+- The classroom-language list stands as in the
+  earlier years (Sit down, please. … "Can I have a
+  pencil, please?"), now with wall signs of learner
+  phrases added: "Pardon? I don't understand. What
+  does … mean? Can you say that again, please? How
+  do you spell …? Can I borrow a pen?"
+- Two printed slips kept as printed: the aims list
+  says "consolildate the English alphabet" and
+  "consolildate the sound of English" (for
+  consolidate).
+- **A Trip to the Museum — the full telling (Track
+  94)**, titled here "Rami and the School Trip", kept
+  word for word: "1. Suzan and Rami are excited this
+  morning. They're going on a school trip. They are
+  going to a museum. They're going on a big bus.
+  2. They get up at 6.30. They have breakfast. They
+  have eggs, bread, cheese and apple juice. Their
+  backpacks are by the door. 3. The bus comes.
+  Everyone jumps on the bus. The teacher talks about
+  the rules on the school trip. Teacher: Sit quietly.
+  Talk quietly. 4. The teacher gives everyone a
+  timetable. Teacher: Here are today's timetables.
+  5. At 1 o'clock, everyone has lunch in the museum
+  café. But where is Rami? The teacher calls loudly,
+  'Rami, Rami'. The children shout loudly, 'Rami,
+  Rami!' Suzan is crying. Teacher: Rami, Rami! Where
+  are you? Children: Rami! Rami! 6. At 2 o'clock,
+  Rami comes back. He has a big smile on his face and
+  is carrying the head of a big gold lion. Rami:
+  Look! I made a lion! Teacher: Amazing! Girl: Rami,
+  how did you make it? 7. Then everyone has a big
+  surprise! [POP! balloon bursting] Boy: Ha, ha!
+  Teacher: It was a balloon! Suzan: Rami bought a
+  balloon! 8. After lunch, the children go to the
+  museum shop to buy presents. They look at all the
+  things on the shelves and think about how much
+  money they have. Girl: I'm going to buy sweets.
+  Suzan: I'm going to buy cookies and crayons. Rami:
+  I'm not going to buy any more balloons!"
+- **Ice-creams for everyone! (Track 148)** — the
+  check-your-cloze telling; its closing lines as
+  scripted: "Narrator: Lina had a mango ice-cream.
+  Yousif wanted a chocolate one. Lina: This is great!
+  … Narrator: Then it was time to go home. Old lady:
+  You must come and see me. Yousif: We're going to
+  come every week and have ice-cream!" (The Pupils
+  Book text of the story stands as filed.)
+- Official answers kept where they add facts:
+  Adel's Check-my-progress email — 1 on, 2 do, 3
+  good, 4 need, 5 and, 6 is, 7 big; "Read about you"
+  — 1 I went shopping. 3 I bought a notebook and some
+  pens. 4 I saw a film (about the fastest car in the
+  world). 5 I ate ice-cream and drank lemonade.
+- Method notes: the Book Map at the front of the PB
+  "is not intended for pupils to use but it will be
+  helpful for parents"; the AB "can be used as
+  extended learning for pupils to do in their own
+  time… to encourage independent learning"; stories
+  get a weekly half-lesson "story time" and a
+  classroom book corner; Pelmanism (present/past card
+  pairs) is the year's verb game.
+- The Phonetic Chart (p.169) is the family's standard
+  chart (vowels, diphthongs, consonants with example
+  words), unchanged in kind from the earlier years.
+
+**Libya Grade 5 Teacher Book — READ COMPLETE
+2026-10-25. Libya Grade 5 is fully read** (Pupils,
+Activity, Teacher) — with the standing note that the
+course inside these Primary 5 covers is the fourth
+year's course. Next per the queue: Grade 6, checking
+each file against the grade before it first, after
+the Grade 4 lesson.
