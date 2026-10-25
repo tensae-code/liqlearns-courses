@@ -64,6 +64,20 @@ alphabet across its 6 units (Scope and Sequence, PDF pp.3–4): Tt Ii
   then down) with apple + tracing + matching, p.39; tracing with ant,
   p.40; match/trace/circle the beginning letter — with Tt, Ss, Ii as
   the other choices, p.41. (Unit 2, read 2026-10-25)
+- Nn /n/ — **nurse, nail, nose, neck, net** (real photos, the n red),
+  PDF p.47; formation box (N = down, diagonal, up; n = down, curve
+  over) with nose + tracing + circling, p.48. (Unit 3, read 2026-10-25)
+- Pp /p/ — **panda, pencil, parrot, pizza, potato** (the p red), PDF
+  p.49; formation box (down, curve to the middle) with pizza +
+  tracing + circling, p.50; Nn/Pp mixed naming and circling, p.51.
+  (Unit 3, read 2026-10-25)
+- Hh /h/ — **hat, hair, hands, horse, house** (the h red), PDF p.56;
+  formation box (H = down, down, across; h = down, curve over) with
+  hat + tracing + circling, p.57. (Unit 3, read 2026-10-25)
+- Dd /d/ — **door, doll, dog, duck, drum** (the d red), PDF p.58;
+  formation box (D = down, big curve; d = curve, then down) with dog
+  + tracing + circling, p.59; Hh/Dd mixed trace-the-beginning-letter,
+  p.60. (Unit 3, read 2026-10-25)
 Same country (Egypt), third book — the count below does not change,
 but the lesson gains Primary 1's deeper layer: formation numbers,
 real-photo words, and the two letters mixed in one test.

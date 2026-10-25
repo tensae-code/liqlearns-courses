@@ -298,6 +298,124 @@ green." pattern — a thing + is + a color), the "I can see a …" /
 triangle, rectangle, with sides counted) are recorded here for the
 Word, Sentence, and Maths titles in ladder order.
 
+### P1T1 Unit 3 "I Love My Family" — page by page (PDF pp.42–60; read 2026-10-25)
+- p.42 Unit opener + Learning Outcomes: introduce family members
+  using complete sentences; identify the formation, sound, and words
+  that begin with Nn, Pp, Hh, and Dd; recognize numbers 1 to 5 and
+  match them with their correct values; ask and answer number-related
+  questions about people and objects; trace Nn, Pp, Hh, Dd.
+- **Lesson 1: Who's in My Family?** (pp.43–46)
+  - p.43 Dialog (Listen): Maya: "Hi, Sara!" · Sara: "Hi, Maya!" ·
+    Maya: "Who is this? *(points to a picture)*" · Sara: "This is my
+    father. And this is my mother. They are my parents." · Maya:
+    "Oh, nice! Do you have any brothers?" · Sara: "Yes! I have 1
+    brother." · Maya: "Cool! I have 2 sisters." · Sara: "Can you show
+    me their pictures?" · Maya: "Sure, I will show you pictures of my
+    whole family."
+  - p.44 Vocabulary: **father, mother, parents, brothers, sisters,
+    grandmother, grandfather** — the plural s is printed pink on
+    parents/brothers/sisters · speech bubbles: "Who's this?" — "This
+    is my father."
+  - p.45 Ex.3 Listen, point, write ✓ next to the matching picture
+    (grandfather / parents / mother / brother — each against a wrong
+    family picture) · Ex.4 Circle the correct word: "Who's this? This
+    is my … (sister – brother) / (mother – father) / (brother –
+    grandmother)" with the picture as the judge.
+  - p.46 Ex.5 Match the picture with the correct word (father,
+    mother, brother, sister, grandmother, grandfather) · Ex.6 Choose
+    the correct answer: "This is my (brother – grandmother)" / "This
+    is my (father – mother)" / "I have 2 (brothers – sisters)" ×2 —
+    the number sentences enter through the family.
+- **Lesson 2: Phonics — Nn and Pp** (pp.47–51; one lesson, two letters)
+  - p.47 Nn — Listen and repeat (real photos): **nurse, nail, nose,
+    neck, net** — the n is red · Trace Nn.
+  - p.48 Formation box for N/n (N = down, diagonal down, up; n = down,
+    curve over and down) with **nose** · more tracing · Ex.4 Circle
+    the objects that start with Nn (nail/screw, nurse, neck, net —
+    against ant, tree).
+  - p.49 Pp — Listen and repeat: **panda, pencil, parrot, pizza,
+    potato** — the p is red · Trace Pp.
+  - p.50 Formation box for P/p (down, then curve back to the middle)
+    with **pizza** · more tracing · Ex.4 Circle the objects that
+    start with Pp (pencil, panda, potato — against sun, nose, spider).
+  - p.51 Ex.5 Name each picture, then trace its beginning letter
+    (n/p mixed: net, pizza, pencil, nose, nail, potato) · Ex.6 Circle
+    the beginning letter (Tt/Nn, Ss/Nn, Aa/Nn, Tt/Nn, Ss/Pp, Aa/Nn).
+- **Lesson 3: Numbers from 1 to 5** (pp.52–55)
+  - p.52 Dialog (Listen): Omar: "How many books do you have?" · Aly:
+    "Let's see … 1, 2, 3. There are 3 books." · Omar: "Can you count
+    the flowers?" · Aly: "Okay! 1, 2, 3, 4. There are 4 flowers!" ·
+    Omar: "What else can you see?" · Aly: "There is 1 sun." · Omar:
+    "Aly, look! I have 5 apples. Do you want one?" · Aly: "Yes,
+    please! I have 1 apple now. Thank you!"
+  - p.53 Numbers and Values: **1** butterfly · **2** trees · **3**
+    birds · **4** flowers · **5** cherries — each number shown with
+    its many things · sentence bank: "How many books are there? There
+    are 4 books." / "How many butterflies are there? There is 1
+    butterfly." / "I have 1 brother." / "I have 2 sisters." / "I see
+    5 birds." / "There is 1 butterfly." / "There are 4 books." — the
+    **There is (one) / There are (many)** split is taught here, in
+    speech, with the family and counting words.
+  - p.54 Ex.3 Count, circle the correct number, then match to the
+    hand showing that many fingers (1–5 flowers) · Ex.4 Count the
+    objects and match them with the correct number (4 leaves, 1 sun,
+    5 apples, 2 tulips, 3 pineapples).
+  - p.55 Ex.5 Count, then circle: "How many pencils are there? There
+    are (2 – 3) pencils." / "Count the bags: There are (1 – 4) bags."
+    / "How many stars are there? There are (3 – 5) stars." · Ex.6
+    Trace the numbers 1–5 (rows of dotted numbers, each row headed
+    by that many strawberries).
+- **Lesson 4: Phonics — Hh and Dd** (pp.56–60; one lesson, two letters)
+  - p.56 Hh — Listen and repeat: **hat, hair, hands, horse, house**
+    — the h is red · Trace Hh.
+  - p.57 Formation box for H/h (H = down, down, across the middle;
+    h = down, curve over and down) with **hat** · more tracing ·
+    Ex.4 Circle the beginning letter (Aa/Hh/Nn, Hh/Aa/Ss, Pp/Tt/Hh).
+  - p.58 Dd — Listen and repeat (Ex.5): **door, doll, dog, duck,
+    drum** — the d is red · Trace Dd.
+  - p.59 Formation box for D/d (D = down, big curve; d = curve, then
+    down) with **dog** · more tracing · Ex.8 Circle the pictures that
+    start with Dd (doll, dog, door, duck, drum — against ball, grass,
+    butterfly).
+  - p.60 Ex.9 Trace the beginning letter (**d**rum, **d**og, **h**air,
+    **h**orse, **d**oll, **h**ands — Hh and Dd mixed) · Ex.10 Trace
+    the object and the letter, then color (a duck with Dd, a house
+    with Hh).
+
+### P1T1 Review 1 — page by page (PDF pp.61–64; read 2026-10-25)
+Review 1 covers Units 1–3 and sits between Unit 3 and Unit 4.
+- p.61 Ex.1 Match the picture with the correct word (pencil, play,
+  hello, book, shake hands, desk).
+- p.62 Ex.2 Put ✓ or ✗: "The grass is green." (grass picture) / "The
+  sky is yellow." (sun picture) / "The sun is blue." (cloud picture) /
+  "The flower is red." (flower picture) — sentence-and-picture
+  judgment across the color set · Ex.3 Count and match (1 watermelon
+  slice, 3 pineapples, 2 cherries — matched to the numbers 3, 2, 1
+  printed in scrambled order) · Ex.4 Match the picture with the shape
+  (door → rectangle, pizza slice → triangle, clock → circle, cracker
+  → square) — real things sorted by their shape.
+- p.63 Ex.5 Name the picture, circle the beginning letter from three
+  (star: a–s–t · duck: d–a–h · nurse: s–d–n · insect: t–i–p) · Ex.6
+  Circle the pictures that start with the given letter: Tt (tiger,
+  tomato) · Pp (pizza, panda) · Hh (house, hat) · Aa (arrow, axe) —
+  the review tests the letters in mixed company.
+- p.64 Ex.7 Find the odd one out (a bird among family faces; a
+  grandmother among garden things) · Ex.8 Draw a picture of your
+  family · Ex.9 Color the items that you can see in a garden (tree,
+  bird, butterfly, flower, grass — against children, grandfather,
+  parents).
+
+Unit 3 basics filed: the-alphabet sources gain P1's Nn words (nurse,
+nail, nose, neck, net), Pp words (panda, pencil, parrot, pizza,
+potato), Hh words (hat, hair, hands, horse, house), and Dd words
+(door, doll, dog, duck, drum), all with formation/tracing pages. The
+family word set (father, mother, parents, brother/s, sister/s,
+grandmother, grandfather), the "Who's this? — This is my …" pair, the
+counting sentences ("How many …? / There is 1 … / There are 4 … / I
+have 1 brother. / I have 2 sisters."), and numbers 1–5 with their
+values are recorded here for the Word, Sentence, and Maths titles in
+ladder order.
+
 ## Built so far
 - greetings/hello-and-your-name/ — built from Unit 1, Lesson 1 (see its
   sources.md). Title = the common-sense name (Greetings), not the book's
