@@ -12,7 +12,7 @@ joins this queue the day it finishes.
 | Country | Early English books held | Reading state |
 |---|---|---|
 | Egypt | KG1, KG2, Primary 1–6, Prep 7–9, Sec 10–12 (26) | KG1 read (contents + pp.1–5) · P1 T1 read (Unit map + U1) · rest queued |
-| Libya | Grades 1–12 Pupils/Activity/Course/Work/Teacher (28) | G1 Pupils read (Book Map + Unit 1 Alphabet + Unit 2 greetings lines) · Activity/Teacher G1 downloaded, queued · G2–12 queued |
+| Libya | Grades 1–12 Pupils/Activity/Course/Work/Teacher (28) | G1 Pupils READ COMPLETE 2026-10-25 (all 9 units + stories + picture dictionary) · Activity Book is the current book · Teacher Book queued · G2–12 queued |
 | India | Grades 1–12, one book each (12) | queued — front running |
 | Bangladesh | English G1,2,3,4,5,6,8,9,10 (9, gaps) | queued — front running |
 | Ghana | English Language G1–7 (28 incl. guides/workbooks) | queued — front running |

@@ -32,6 +32,12 @@ Libya; verified on disk: %PDF, 130 pp).
 - "Hello. Goodbye." and "What's your name? / I'm …" listed for Unit 2
   (My Family), Lesson 1 opening — Book Map, PDF pp.5–6; Unit 2
   "Now I can… say greetings, ask and answer about names" — PDF p.29.
+- The year's closing dialog (Unit 9, Lesson 10, book p.111; whole
+  Pupils Book read complete 2026-10-25) adds the age exchange to the
+  same greeting frame: "Hello. — What's your name? I'm ___. — **How
+  old are you? I'm ___** — Goodbye." (the story lesson of the same
+  unit has the answer "I'm 6."). Libya is the first book in the
+  courses to teach asking age inside the greeting.
 
 **Third country merged 2026-10-25 — Nicaragua:**
 Inglés, Activity Book 1, Grade 1 (MINED, Nicaragua; verified on disk:
