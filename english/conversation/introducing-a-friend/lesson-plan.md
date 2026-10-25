@@ -1,8 +1,8 @@
 # Lesson plan — Introducing a friend
 
-**Course:** English · **Title:** Greetings · **Lesson:** Introducing
+**Course:** English · **Title:** Conversation · **Lesson:** Introducing
 a friend
-**Place in the curriculum:** Year 1, Term 1, Unit 4 "First Speaking"
+**Place in the curriculum:** Year 1, Term 1, Unit 4 "Conversation"
 (CURRICULUM.md).
 **The one thing this lesson teaches:** bringing a new person into the
 talk — "Who's this?" → "This is my friend, ___." → the two new people

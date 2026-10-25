@@ -1,11 +1,12 @@
 # How old are you? — the lesson
 
-Course: English · Title: Age · Lesson: How old are you?
+Course: English · Title: Conversation · Lesson: How old are you?
 Built from: Libya, English for Libya Primary 1, 2 and 3.
 This lesson is ONE thing only: asking someone's age, and answering
-with your own. It is not a greeting — Libya's books run it inside
-the greeting talk, but the question itself is about age, so it
-lives in its own lesson, under its own title.
+with your own. Libya's books run it inside the talk — and that is
+where it belongs: asking someone's age is part of a conversation,
+so this lesson lives under the Conversation title, as its own
+lesson (his ruling, 2026-10-25: Age is not a title of its own).
 
 ## Do it first
 Ask someone near you — or your explain companion: "How old are

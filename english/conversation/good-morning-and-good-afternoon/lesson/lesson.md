@@ -1,6 +1,6 @@
 # Good morning and good afternoon — the lesson
 
-Course: English · Title: Greetings · Lesson: Good morning and
+Course: English · Title: Conversation · Lesson: Good morning and
 good afternoon
 Built from: Libya, English for Libya Primary 1 — and Egypt, English
 KG1 and KG2 Term 1.

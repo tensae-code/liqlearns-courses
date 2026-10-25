@@ -3,10 +3,19 @@
 His order (2026-10-25): the course folders alone don't show what comes
 first and what comes next — so this file is the plan a learner follows:
 **one school year, four terms**, starting from someone who knows no
-English at all and ending able to read and write real English. Each term
-is a level; inside a term, **units**, and inside a unit, the lessons in
-the order they are taken. The lessons themselves live in their title
-folders (see TITLES.md); this plan is the path through them.
+English at all and ending able to read and write real English. Inside
+a term, **units**, and inside a unit, the lessons in the order they
+are taken. The lessons themselves live in their title folders (see
+TITLES.md); this plan is the path through them.
+
+**How the terms work (his correction, 2026-10-25):** the term
+descriptions below were his EXAMPLE, not sealed boxes. A term is a
+BASE for the next term — Term 1 is the base Term 2 stands on, Term 2
+is the base for Term 3, and so on up. A term is not "only" its named
+topics: some lessons are huge and grow past a neat slot, and new
+material slots in wherever its base is ready. What the terms fix is
+the ORDER — what must be standing before the next thing can stand on
+it — not a wall around each term's topics.
 
 The plan is built from the books actually read so far (Egypt, Libya,
 Nicaragua) and GROWS as each next finished country's books are read —
@@ -28,7 +37,7 @@ every letter, sounds out new words, and can say hello and their name.*
   (blending-sounds ✅ · two-letter-sounds ✅)
 - **Unit 3 — First Words**: reading whole little words (blends ✅ ·
   word-families ✅ — the -at, -an, -ig families and their kin)
-- **Unit 4 — First Speaking**: hello-and-your-name ✅ · how-are-you ✅ ·
+- **Unit 4 — Conversation**: hello-and-your-name ✅ · how-are-you ✅ ·
   good-morning-and-good-afternoon ✅ · introducing-a-friend ✅ ·
   whats-his-and-her-name ✅ · how-old-are-you ✅
 

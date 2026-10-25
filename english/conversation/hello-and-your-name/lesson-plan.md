@@ -1,8 +1,8 @@
 # Lesson plan — Hello and your name
 
-**Course:** English · **Title:** Greetings · **Lesson:** Hello and
+**Course:** English · **Title:** Conversation · **Lesson:** Hello and
 your name
-**Place in the curriculum:** Year 1, Term 1, Unit 4 "First Speaking" —
+**Place in the curriculum:** Year 1, Term 1, Unit 4 "Conversation" —
 the first lesson of that unit (CURRICULUM.md).
 **The one thing this lesson teaches:** how a greeting goes — hello
 opens it, names go in the middle, goodbye closes it.

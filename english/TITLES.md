@@ -23,16 +23,20 @@ The titles, in ladder order:
 6. **Story** — a story: people, a place, things happening.
 7. **Novel** — the long story: many chapters, one big world.
 
-Titles named by him earlier sit in this ladder or beside it as speaking
-parts, AFTER the reading foundation:
-- **Greetings** — saying hello, giving your name, saying goodbye.
-  A speaking title, not the start of the course. Its subtitles (each
-  ONE lesson, one thing): hello-and-your-name · how-are-you ·
-  good-morning-and-good-afternoon · introducing-a-friend ·
-  whats-his-and-her-name.
-- **Age** — asking and saying how old someone is. Its subtitle:
-  how-old-are-you. Age is NOT a greeting, even when a book runs it
-  inside a greeting talk — it sits under its own title.
+Speaking sits in the ladder at the Sentence stage — a conversation is
+sentences spoken between people:
+- **Conversation** — talking with another person: opening a talk,
+  giving your name, asking how someone is, introducing a friend,
+  asking someone's name, asking someone's age, closing the talk. Its
+  subtitles (each ONE lesson, one thing): hello-and-your-name ·
+  how-are-you · good-morning-and-good-afternoon ·
+  introducing-a-friend · whats-his-and-her-name · how-old-are-you.
+  (His ruling, 2026-10-25: "Greetings" was too small a name for this —
+  hi and how-are-you are only its opening; introducing yourself and
+  the rest are conversation, so the title is Conversation. And asking
+  someone's age is part of a conversation too — Age is NOT a title of
+  its own; how-old-are-you sits inside Conversation. This supersedes
+  the earlier same-day arrangement that kept Age as its own title.)
 
 Titles use the common-sense name of the thing itself (his rule) — never
 a book's unit name, never a story or character name. A book's own name
@@ -45,11 +49,12 @@ lesson audited; anything teaching a second thing was split out into
 its own subtitle folder with its own lesson + questions):
 - Letter → the-alphabet · blending-sounds · two-letter-sounds ·
   blends · word-families
-- Greetings → hello-and-your-name · how-are-you ·
+- Letter → the-alphabet · blending-sounds · two-letter-sounds ·
+  blends · word-families
+- Conversation → hello-and-your-name · how-are-you ·
   good-morning-and-good-afternoon · introducing-a-friend ·
-  whats-his-and-her-name
-- Age → how-old-are-you
-Greetings → hello-and-your-name (from Egypt, Primary 1) is kept, and
+  whats-his-and-her-name · how-old-are-you
+Conversation → hello-and-your-name (from Egypt, Primary 1) is kept, and
 filed under its title; it is NOT Lesson 1 of the path.
 
 Before Letter, one step lower and outside this course: **Pencil and

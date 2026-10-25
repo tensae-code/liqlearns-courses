@@ -1,6 +1,6 @@
 # What's his and her name? — the lesson
 
-Course: English · Title: Greetings · Lesson: What's his and her name?
+Course: English · Title: Conversation · Lesson: What's his and her name?
 Built from: Libya, English for Libya Primary 2.
 This lesson is ONE thing only: asking the name of ANOTHER person —
 not your name, not the name of the person you are talking to.

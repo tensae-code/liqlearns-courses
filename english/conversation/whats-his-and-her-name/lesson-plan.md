@@ -1,8 +1,8 @@
 # Lesson plan — What's his and her name?
 
-**Course:** English · **Title:** Greetings · **Lesson:** What's his
+**Course:** English · **Title:** Conversation · **Lesson:** What's his
 and her name?
-**Place in the curriculum:** Year 1, Term 1, Unit 4 "First Speaking"
+**Place in the curriculum:** Year 1, Term 1, Unit 4 "Conversation"
 (CURRICULUM.md).
 **The one thing this lesson teaches:** asking the name of ANOTHER
 person — "What's her name?" for a girl or woman, "What's his name?"

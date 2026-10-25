@@ -1,8 +1,8 @@
 # Lesson plan — Good morning and good afternoon
 
-**Course:** English · **Title:** Greetings · **Lesson:** Good morning
+**Course:** English · **Title:** Conversation · **Lesson:** Good morning
 and good afternoon
-**Place in the curriculum:** Year 1, Term 1, Unit 4 "First Speaking"
+**Place in the curriculum:** Year 1, Term 1, Unit 4 "Conversation"
 (CURRICULUM.md).
 **The one thing this lesson teaches:** the greeting changes with the
 time of day — "Good morning" before midday, "Good afternoon" after.

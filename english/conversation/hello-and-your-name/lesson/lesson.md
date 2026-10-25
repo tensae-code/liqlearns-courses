@@ -1,6 +1,6 @@
 # Hello and your name — the lesson
 
-Course: English (skill course) · Title: Greetings · Lesson: Hello and your name
+Course: English (skill course) · Title: Conversation · Lesson: Hello and your name
 Built from: Egypt, English Language Primary 1 Term 1 — Unit 1 "Welcome to
 My School", Lesson 1 "Greetings". (The book's own unit name stays a source
 tag, per the title-naming rule — course titles use the common-sense name

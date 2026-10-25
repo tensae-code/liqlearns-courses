@@ -1,6 +1,6 @@
 # Introducing a friend — the lesson
 
-Course: English · Title: Greetings · Lesson: Introducing a friend
+Course: English · Title: Conversation · Lesson: Introducing a friend
 Built from: Libya, English for Libya Primary 1, Teacher's Book —
 the "Sarah's Little Fish" dialog (Track 108).
 This lesson is ONE thing only: bringing a new person into the talk —

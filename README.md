@@ -21,9 +21,9 @@ liqlearns-courses/
                                    Word — nouns, verbs, adjectives, adverbs,
                                    pronouns). This folder holds ONE lesson,
                                    and that lesson explains ONE thing only —
-                                   a greetings lesson is greetings only, never
-                                   telling the time or anything else the same
-                                   book unit happened to teach. Several things
+                                   a conversation lesson is conversation
+                                   only, never telling the time or anything
+                                   else the same book unit happened to teach. Several things
                                    in one book unit split into several
                                    subtitle folders, each with its own lesson.
                                    One thing can still be BIG inside itself:
@@ -170,8 +170,13 @@ liqlearns-courses/
   country that is only closed (found, not yet secured) does not enter a
   course until it finishes.
 - TITLES USE THE COMMON-SENSE NAME OF THE THING ITSELF (2026-10-25, his
-  order): a title is what the part IS — Greetings, Alphabet, Words
+  order): a title is what the part IS — Conversation, Alphabet, Words
   (nouns, verbs, and the other word kinds), Sentence, Paragraph, Letter —
+  and the title must be the BIG true name of the thing, not a small
+  corner of it (his correction, 2026-10-25: "Greetings" was too small —
+  hi, how-are-you, introducing yourself, and asking someone's age are
+  all CONVERSATION, so the title is Conversation and Age is not a title
+  of its own);
   never a book's unit name ("Welcome to My School" is Egypt's unit name,
   not a course title) and never a story or character name from a book
   (no "Hana" titles). The book's own name for the part stays where it

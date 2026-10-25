@@ -1,6 +1,6 @@
 # How are you? — the lesson
 
-Course: English · Title: Greetings · Lesson: How are you?
+Course: English · Title: Conversation · Lesson: How are you?
 Built from: Libya, English for Libya Primary 2 and Primary 3.
 This lesson is ONE thing only: asking how someone is, and answering.
 Names, age, and good morning live in their own lessons next door.

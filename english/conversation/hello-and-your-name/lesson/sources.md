@@ -40,14 +40,14 @@ several other things inside the same greeting talk. They used to be
 filed here as "the frame growing." They are not this lesson, and
 each now lives in its own lesson:
 - "Good morning / Good afternoon" (Libya G1, Unit 1 Lesson 2) →
-  greetings/good-morning-and-good-afternoon
+  conversation/good-morning-and-good-afternoon
 - "How are you?" and its answers (Libya G2 and G3) →
-  greetings/how-are-you
+  conversation/how-are-you
 - Introducing a friend — "Who's this? This is my friend, Sarah"
   (Libya G1 Teacher's Book, Track 108) →
-  greetings/introducing-a-friend
+  conversation/introducing-a-friend
 - "What's her name? / What's his name?" (Libya G2, Unit 2) →
-  greetings/whats-his-and-her-name
+  conversation/whats-his-and-her-name
 - "How old are you? I'm ___" (Libya G1–G3) → age/how-old-are-you —
   age is not a greeting at all; it has its own title.
 

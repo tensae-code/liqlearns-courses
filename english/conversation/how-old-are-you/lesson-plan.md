@@ -1,9 +1,9 @@
 # Lesson plan — How old are you?
 
-**Course:** English · **Title:** Age · **Lesson:** How old are you?
-**Place in the curriculum:** Year 1, Term 1, Unit 4 "First Speaking"
-— the Age title's first lesson, taught inside the greeting talk in
-the books (CURRICULUM.md).
+**Course:** English · **Title:** Conversation · **Lesson:** How old are you?
+**Place in the curriculum:** Year 1, Term 1, Unit 4 "Conversation"
+— a Conversation lesson, taught inside the talk in the books
+(CURRICULUM.md).
 **The one thing this lesson teaches:** asking someone's age and
 answering with your own — "How old are you?" → "I'm ___." where only
 the number ever changes.
@@ -86,8 +86,9 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and
-page in lesson/sources.md (Libya Primary 1, 2 and 3). This is not a
-greeting lesson — Libya's books run the question inside the greeting
-talk, but the question is about age, so it lives under its own title.
+page in lesson/sources.md (Libya Primary 1, 2 and 3). Libya's books
+run the question inside the talk, and asking someone's age is part
+of a conversation — so this lesson lives under the Conversation
+title (his ruling, 2026-10-25), as its own one-thing lesson.
 A teacher sending this lesson sends the lesson and its question list
 as they are — choosing, not remaking.
