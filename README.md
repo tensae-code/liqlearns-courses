@@ -17,7 +17,15 @@ liqlearns-courses/
                                    Biology, Mathematics, and every other subject.
     <title>/                     ← a big part of the subject. The name is the one
                                    most countries use for that part.
-      <lesson>/                  ← one lesson (example: photosynthesis)
+      <subtitle>/                ← one kind under that title (example: under
+                                   Word — nouns, verbs, adjectives, adverbs,
+                                   pronouns). This folder holds ONE lesson,
+                                   and that lesson explains ONE thing only —
+                                   a greetings lesson is greetings only, never
+                                   telling the time or anything else the same
+                                   book unit happened to teach. Several things
+                                   in one book unit split into several
+                                   subtitle folders, each with its own lesson.
         lesson/                  ← the lesson itself: the teaching text
           lesson.md
           sources.md             ← which books, from which countries, this
