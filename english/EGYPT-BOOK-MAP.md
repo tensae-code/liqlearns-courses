@@ -798,6 +798,196 @@ with the "Where is the …? The … is … the …" pattern, the legs
 counting ("A tiger has 4 legs."), and the glossary's own definitions
 are recorded here for the Word and Sentence titles in ladder order.
 
+## Primary 1 Term 2 — full read in progress (started 2026-10-25)
+
+Book: English_Prim1_Tr2.pdf — 3,657,055 B, 112 pp, image-only.
+**Page rule for THIS book (verified from the renders): one book page
+per PDF page; the printed page number at the foot equals the PDF page
+number** (printed 6 on PDF p.6 through printed 23 on PDF p.23).
+Term 2's look is plainer than Term 1's: the letters are presented by
+blue letter characters, letter writing is "trace then write" on plain
+lines (no formation boxes, no dotted rows so far), and lessons carry a
+**Sight words** strip — whole words the learner learns to know on
+sight. Phonics moves past the single letters: after the six letters
+Term 1 left out (Ww Qq Vv Zz Yy Xx), the book teaches consonant blends
+and short-vowel word families — the first real word-reading.
+
+### Front matter (PDF pp.1–4; read 2026-10-25)
+- p.1 Cover: "English — Primary 1 — Term 2 — 2025/2026."
+- p.2 Ministry page: the dedication in Arabic and English ("The
+  Ministry of Education and Technical Education dedicates this book,
+  with love, to the children and families of the Arab Republic of
+  Egypt"), © 2025 Ministry of Education and Technical Education, New
+  Administrative Capital, Cairo; Name/Class/School box.
+- p.3 "A Message from the Ministry of Education and Technical
+  Education" — "Welcome to Your English Learning Journey!" — the same
+  Primary 1 Framework message as Term 1, in full letter form (vision,
+  structured learning activities: Listening and Speaking / Reading and
+  Phonics / Writing and Vocabulary / Cultural Integration; visual and
+  interactive elements; assessment and feedback).
+- p.4 **Scope and Sequence** — the whole term on one page:
+  - U1 My Week — vocab Saturday, Sunday, Monday, Tuesday, Wednesday,
+    Thursday, Friday, before, after, breakfast, lunch, dinner, eat,
+    drink, bread, rice, sandwich, chicken, soup, juice · Language
+    "What day is it today? / What day comes after Friday? / How many
+    days are there in a week? / What do you eat for breakfast? / I eat
+    bread and eggs. / I drink milk every day." · Phonics Ww /w/:
+    watch, water, window, wall, wind · Qq /q/: question, quack,
+    quiet, queen · Vv /v/: van, vase, violin, vegetable, vest · Zz
+    /z/: zebra, zoo, zero, zigzag, zipper · Values: time awareness,
+    self confidence, communication.
+  - U2 Feelings — vocab happy, sad, angry, scared, tired, surprised;
+    personal pronouns I, he, she, it, we, you, they · Language "I am
+    happy. / He is sad. / She is angry. / We are scared. / How do you
+    feel? / I feel tired. / How many ___ are there? / There are 12
+    …… / I see 15 …… / I have 13 ……" · Phonics Yy /y/: yellow,
+    yogurt, yo-yo, yes, yawn · Xx /x/: x-ray, box, six, mix ·
+    consonant blends (s-): sk, sn, st, sw (skip, snail, strong,
+    swing) · Values: emotional awareness, empathy, numeracy,
+    communication.
+  - U3 Seasons — vocab January…December, spring, summer, fall,
+    winter, warm, hot, sunny, cold, windy, rainy, cloudy · Language
+    "When is your birthday? / My birthday is in … / What month comes
+    after April? / What's the weather like in summer? / It's sunny. /
+    Is it cold in winter? / Yes, it is." · Phonics short vowels: /æ/
+    mat, hat, cap, map, pan, man · /e/ jet, wet, pen, hen, ten ·
+    Values: time awareness, planning, comparing & contrasting,
+    communication, sound discrimination.
+  - U4 My House — vocab bedroom, bathroom, kitchen, living room,
+    dining room, sleep, cook, brush teeth, eat, watch TV, bed,
+    closet, sink, toilet, fridge, oven, couch, TV, table, chairs ·
+    Language "This is the living room. / What do you do in the
+    bedroom? / I sleep in the bedroom. / I brush my teeth in the
+    bathroom. / There's an oven in the kitchen." · Phonics short /ɪ/
+    big, fig, dig, hip, dip, lip, bin, fin, win · short /ɒ/ dog, fog,
+    log, hop, mop, pop, pot, hot, dot · Values: personal hygiene,
+    self-care and responsibility, communication.
+  - U5 Neighborhood — vocab hospital, school, shop, street, car,
+    bus, truck, building, park, jump, throw, catch, run, zoo,
+    animals, beach, swim, dig · Language "This is a school. / Where
+    do you go when you're sick? / I go to the hospital. / What do you
+    see? / I see a truck. / I can jump. / I see animals in the zoo."
+    · Phonics short /ʌ/ hut, cut, bun, run, sun, hug, mug, jug ·
+    consonant blends (l): cl, bl, fl (clock, black, flag, slide) ·
+    Values: environmental awareness, collaboration, communication,
+    affiliation.
+  - U6 Story: Two Friends and One Apple — vocab sunny, park, play,
+    fun, big, red, apple, happy, sad, face, hand, smile · no new
+    Language or Phonics in the scope (a story unit that re-uses the
+    year) · Values: sharing and giving, expressing feelings, empathy,
+    collaboration.
+
+### P1T2 Unit 1 "My Week" — page by page (PDF pp.5–23; read 2026-10-25)
+- p.5 Unit opener + Learning Outcomes: name the days of the week in
+  the correct order; ask and answer simple questions about days and
+  meals; sound out words that begin with Ww, Qq, Vv, and Zz; trace and
+  write Ww, Qq, Vv, Zz; talk about meals using target vocabulary;
+  recognize sight words.
+- **Lesson 1: Days of the Week** (pp.6–9)
+  - p.6 Speech bubbles: "How many days are there in a week?" —
+    "There are 7 days in a week." · Ex.1 Listen and repeat — the
+    days in a list, **Saturday-first** like Egypt's school week:
+    **Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday,
+    Friday** · the list itself teaches **after / before**: an arrow
+    marked After runs Sunday → Monday; an arrow marked Before runs
+    Friday → Thursday.
+  - p.7 Pair work — Listen and practice: "What day is it today?" —
+    "Today is Sunday." · "What day comes after Monday?" — "Tuesday."
+    · "What day comes before Saturday?" — "Friday." · **Sight words:
+    is – it – before – after** (the small words in the questions are
+    printed blue in the bubbles).
+  - p.8 Ex.3 Circle the day: "What day comes after Tuesday?"
+    (Wednesday / Thursday / Friday) · "after Friday?" (Thursday /
+    Friday / Saturday) · "after Sunday?" (Monday / Thursday /
+    Wednesday) · Ex.4 Circle the day: "What day comes before
+    Thursday?" (Monday / Tuesday / Wednesday) · "before Saturday?"
+    (Sunday / Friday / Thursday).
+  - p.9 Ex.5 Speaking — discuss with a friend what you do on each
+    day (word strip: the seven days + after, before, today):
+    "What do you do on Friday?" — "I go to the park on Friday."
+    · Ex.6 Trace the beginning letter of each day (S, S, M, T, W, T,
+    F — the day words printed whole with only the first letter
+    outlined to trace).
+- **Lesson 2: Phonics — Ww and Qq** (pp.10–14; one lesson, two letters)
+  - p.10 Ww — Listen and repeat: **watch, water, window, wall,
+    wind** — the w is red; a blue W character stands with the words ·
+    Ex.2 Trace then write Ww (one model letter, then empty lines —
+    no dotted rows in this book).
+  - p.11 Ex.3 Circle the beginning letter (watch: a–w–k; water:
+    i–c–w; wind: w–d–s; window: h–w–e) · Ex.4 Circle the picture that
+    begins with Ww, then write the letter (banana/wind/goat;
+    water/jar/fish; umbrella/lion/watch).
+  - p.12 Qq — Listen and repeat (Ex.5): **quiet, quack, queen,
+    question** — a blue Q character; quack shown by a duckling,
+    question by a big question mark · Ex.6 Trace then write Qq.
+  - p.13 Ex.7 Check (✓) the matching letter (quiet: Ww/Qq/Tt; Quack:
+    Qq/Uu/Pp; queen: Oo/Qq/Cc; question: Qq/Mm/Rr) · Ex.8 Write the
+    beginning letter in the word (___uiet, ___uack, ___ueen,
+    ___uestion — the learner writes q, and every word keeps its u:
+    qu is taught as one beginning).
+  - p.14 Ex.9 Match the picture with the correct beginning letter
+    (queen, question → Qq; wind, window, watch → Ww) · Ex.10 Circle
+    the pictures that start with the given letter — Ww box (wind,
+    water) and Qq box (quiet, question), against drum, pizza, apple,
+    monkey.
+- **Lesson 3: Meals of the Day** (pp.15–18)
+  - p.15 Listen and repeat: **breakfast, lunch, dinner, eat, drink,
+    bread, chicken, rice, sandwich, soup, juice** — each word on its
+    picture (breakfast = egg, cheese, beans, and a glass of milk;
+    bread drawn as a pile of flatbreads).
+  - p.16 Dialog (Listen): Teacher: "Good morning, class! What do you
+    have for breakfast on Friday?" · Ali: "I eat bread and eggs on
+    Friday. I drink milk every day." · Sara: "I eat a sandwich and
+    drink juice." · Teacher: "Great! What do you eat for lunch?" ·
+    Omar: "I eat rice and chicken." · Mona: "I eat soup and bread."
+    · Teacher: "Nice! What about dinner?" · Sara: "I eat a sandwich."
+    · **Sight words: do – you – for – I – eat – and – a** (printed
+    blue inside the dialog).
+  - p.17 Ex.3 Match the meal picture to its word (the breakfast plate
+    and the lunch plate matched to lunch / breakfast) · Ex.4 Draw
+    what you eat for each meal (three empty plates: breakfast,
+    lunch, dinner — the learner draws their own food).
+  - p.18 Ex.5 Speaking — discuss with a friend what you eat for each
+    meal (word strip: breakfast, lunch, dinner, eat, drink, sandwich,
+    chicken, rice, eggs, apple, juice, milk, tomato, pizza, banana,
+    soup, bread): "What do you have for dinner?" — "I eat eggs,
+    bread, and apples for dinner." · Ex.6 Check (✓) or (✗) — the word
+    under the picture, some deliberately wrong (drink ✓; breakfast
+    under a roast chicken ✗; bread ✓; juice under a bowl of rice ✗;
+    chicken under a sandwich ✗; soup ✓).
+- **Lesson 4: Phonics — Vv and Zz** (pp.19–23; one lesson, two letters)
+  - p.19 Vv — Listen and repeat: **van, vase, vegetables, vest,
+    violin** — the v is red; a blue V character · Ex.2 Trace then
+    write Vv.
+  - p.20 Ex.3 Check (✓) the box of the correct beginning letter (van:
+    Ww/Vv/Tt; vase: Vv/Ee/Bb; vegetables: Uu/Ll/Vv; vest: Cc/Vv/Rr) ·
+    Ex.4 Check (✗) under the picture that does NOT begin with Vv
+    (tree, snake — among van, vest, vegetables, violin).
+  - p.21 Zz — Listen and repeat (Ex.5): **zebra, zoo, zipper,
+    zigzag, zero** — a blue Z character; **zero is shown as a big red
+    0**, the number word taught inside the letter lesson · Ex.6 Trace
+    then write Zz.
+  - p.22 Ex.7 Choose the correct beginning letter (zebra: Ff/Zz/Mm;
+    zero: Qq/Jj/Zz; zipper: Zz/Kk/Oo; zoo: Pp/Zz/Gg) · Ex.8 Match the
+    picture with the correct word, then trace the letter (zebra,
+    zigzag, zipper, zoo — each word printed with its z pale, to
+    trace).
+  - p.23 Ex.9 Check (✓) if the letter matches the picture or (✗) if
+    it doesn't (zebra–Zz ✓; vest–Jj ✗; vase–Vv ✓; zoo–Zz ✓; zigzag–Hh
+    ✗; van–Vv ✓) · Ex.10 Write the beginning letter (zipper,
+    vegetables, violin, zero — no choices given).
+
+Unit 1 (Term 2) basics filed: the-alphabet sources gain Egypt P1
+Term 2's Ww words (watch, water, window, wall, wind), Qq words
+(quiet, quack, queen, question — qu taught as one beginning), Vv
+words (van, vase, vegetables, vest, violin), and Zz words (zebra,
+zoo, zipper, zigzag, zero). The days set in Saturday-first order with
+before/after, the meals and food set (breakfast, lunch, dinner, eat,
+drink, bread, rice, sandwich, chicken, soup, juice), the "What do you
+eat/have for …? I eat … and …" pattern, and the first sight-word
+strips (is, it, before, after · do, you, for, I, eat, and, a) are
+recorded here for the Word and Sentence titles in ladder order.
+
 ## Built so far
 - greetings/hello-and-your-name/ — built from Unit 1, Lesson 1 (see its
   sources.md). Title = the common-sense name (Greetings), not the book's

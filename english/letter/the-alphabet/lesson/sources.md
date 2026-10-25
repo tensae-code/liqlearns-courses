@@ -125,7 +125,30 @@ alphabet across its 6 units (Scope and Sequence, PDF pp.3–4): Tt Ii
 **Primary 1 Term 1 is now read complete — this file holds Egypt P1's
 word set for all 26 letters**, in the book's sounds order: Tt Ii · Ss
 Aa · Nn Pp Hh Dd · Rr Ee Cc Kk · Mm Gg Oo Ff · Bb Ll Uu Jj.
-Same country (Egypt), third book — the count below does not change,
+**Egypt Primary 1 Term 2 rows added 2026-10-25** (read in progress) —
+Term 2 teaches the six letters Term 1 did not (Ww, Qq, Vv, Zz in Unit
+1; Yy, Xx in Unit 2), then moves past single letters to consonant
+blends and short-vowel word families:
+- Ww /w/ — **watch, water, window, wall, wind** (the w red; a blue W
+  letter character presents them), PDF p.10; trace-then-write Ww on
+  plain lines + circling and beginning-letter writing, p.11.
+  (Term 2 Unit 1, read 2026-10-25)
+- Qq /q/ (qu) — **quiet, quack, queen, question**, PDF p.12;
+  trace-then-write Qq, p.12; Ww/Qq mixed matching-letter checks,
+  ___uiet / ___uack / ___ueen / ___uestion beginning-letter writing,
+  matching, and circling, pp.13–14. (Term 2 Unit 1, read 2026-10-25)
+- Vv /v/ — **van, vase, vegetables, vest, violin** (the v red), PDF
+  p.19; trace-then-write Vv + correct-letter checks + odd-one-out
+  (✗ under the picture that does NOT begin with Vv), p.20.
+  (Term 2 Unit 1, read 2026-10-25)
+- Zz /z/ — **zebra, zoo, zipper, zigzag, zero** (zero shown as a big
+  red 0 — the number word taught as a letter word), PDF p.21;
+  trace-then-write Zz + choose-the-letter + match-and-trace (zebra,
+  zigzag, zipper, zoo), p.22; Vv/Zz mixed ✓/✗ letter checks and
+  write-the-beginning-letter, p.23. (Term 2 Unit 1, read 2026-10-25)
+
+Same country (Egypt) in every Egypt book above — the count below does
+not change,
 but the lesson gains Primary 1's deeper layer: formation numbers,
 real-photo words, and the two letters mixed in one test.
 
