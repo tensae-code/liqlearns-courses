@@ -242,8 +242,54 @@ lesson). Number/shape/color pages are Egypt's own Math column inside
 this book — recorded here; they file into the Maths course when it
 starts, not into English.
 
+## KG2 Term 1 — reading in progress (started 2026-10-25)
+
+Book: English_KG2_Tr1.pdf — 12,389,586 B, 124 pp, image-only.
+Book page = PDF page − 4, same as KG1.
+
+### KG2 full contents (PDF pp.3–4, read)
+- Unit 1 "Little Bodies, Big Moves!" — action words (walk, run,
+  jump, skip, kick, play, throw, catch) · Structure: "I can jump /
+  I can run / I play with my friends / I can kick the ball / I can
+  throw the ball / I can catch the ball" · Phonics: **Jj, Kk** ·
+  Numbers 1, 2
+- Unit 2 "Let's Get Dressed!" — clothes words · Structure: "I have a
+  yellow T-shirt" / "My dress is red" · Phonics: **Dd, Mm, Gg** ·
+  Numbers 3, 4, 5
+- Unit 3 "My Week!" — days of the week, today/tomorrow/yesterday ·
+  Structure: "What day is it?" / "Tomorrow is Sunday" / "I go to the
+  park on Friday" / "Today is Monday" · Phonics: **Oo, Bb, Ff, Ll** ·
+  Numbers 6, 7, 8
+- Unit 4 "My Busy Day!" — morning/noon/night, meals, daily routine ·
+  Structure: get up, go to bed, go to school, have breakfast/lunch/
+  dinner · Phonics: **Ww, Cc, Rr, Uu** · Numbers 9, 10
+- Review letters: **Jj Kk Dd Mm Gg Oo Bb Ff Ll Ww Cc Rr Uu** (13) —
+  with KG1's 13, Egypt's KG pair covers all 26 letters; numbers 1–10.
+
+### KG2 opens with "Remember With Me!" — a recall section (book pp.1–6)
+- p.1 Trace the lines (wavy, zigzag — from a dot) + trace the shapes
+  (square, circle, triangle, heart) — the Pencil and Lines material,
+  second book
+- p.2 **Greetings** — "Listen, repeat, and act out": Hello / Good
+  morning · "What is your name?" "My name is Nour." · I'm a boy /
+  I'm a girl · We are friends · Goodbye
+- p.3 My School, My Classroom — point, say, color: school; classroom
+  (board, desk, teacher, chair)
+- p.4 My School Bag! — match what belongs in the bag (crayons,
+  eraser, pencil, books — not the dog, not the tree)
+- p.5 My Family — "Who's this? This is my sister / father / mother /
+  grandfather" (listen, point, circle)
+- p.6 My Body Parts — "I have 1 head. I have 2 eyes. I have 1 mouth.
+  I have 2 arms. I have 2 hands. These are my feet."
+
+### KG2 Unit 1 — started (book pp.7–8)
+- p.7 "I can kick the ball. I can jump. I can throw the ball. I can
+  catch the ball." (Word bank: kick – jump – throw – catch – run –
+  walk – skip – play)
+- p.8 "I'm walking in the park." / "I can run." / "Can you skip like
+  me?"
+
 ## Still owed in this pass
-- Finish KG1 (book pp.21–end), then KG2, then Primary 1 Term 2 —
-  one book at a time.
+- Finish KG2, then Primary 1 Term 2 — one book at a time.
 - Download and map Primary 2–6, Preparatory 7–9, Secondary 10–12 the
   same way, one grade at a time.

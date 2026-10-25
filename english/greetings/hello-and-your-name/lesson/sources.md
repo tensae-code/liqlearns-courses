@@ -53,6 +53,13 @@ Bangladesh, Ghana, Palestine, China and the rest of the finished 15.
 Closed-but-not-finished countries (Ethiopia among them) join this
 lesson when they finish.
 
+**Egypt KG2 added 2026-10-25** (same country, the recall layer):
+English KG2 Term 1, book p.2 — a page headed "Greetings — Listen,
+repeat, and act out": Hello / Good morning · "What is your name?"
+"My name is Nour." · I'm a boy / I'm a girl · We are friends ·
+Goodbye. KG2 opens by acting the KG1 greetings again before anything
+new — the same shape, now performed.
+
 **Egypt KG1 added 2026-10-25** (same country, deeper layer — the
 spoken-first layer under Primary 1's sentences): English KG1 Term 1
 (student book; %PDF, 8,212,061 B, 100 pp, image-only — read as
