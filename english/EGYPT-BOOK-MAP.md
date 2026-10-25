@@ -1204,6 +1204,162 @@ Word, Sentence, and Maths titles in ladder order.
     · Ex.6 Color the rhyming words (outline pictures: 10, hen, jet,
     pet, wet shirt, pen(cil)).
 
+- p.61 Writing Practice (Ex.7 of the unit): twelve empty lined
+    columns headed by the unit's family words — pan, man, map, cap,
+    mat, hat / pet, jet, wet, hen, pen, ten — the learner fills each
+    column writing that word, the same writing-practice shape as the
+    letters page in Unit 2.
+
+### P1T2 Review 1 — page by page (PDF pp.62–65; read 2026-10-25)
+Review 1 covers Units 1–3 and sits between Unit 3 and Unit 4.
+- p.62 Ex.1 Check (✓) the correct word for each food picture from
+  three printed words (soup: soup/juice/sandwich; the lunch plate:
+  dinner/lunch/breakfast; the roast chicken: rice/chicken/bread;
+  the drinking boy: eat/soup/drink) · Ex.2 Listen, then circle the
+  correct picture (cloudy, rainy, windy, sunny — each heard word
+  over three weather pictures; the cloudy row's first picture is a
+  rain cloud, one of the deliberate near-misses).
+- p.63 Ex.3 Match the sentence with the correct picture ("We are
+  happy." / "He is sad." / "I am surprised." / "She is angry." /
+  "They are scared." — whole printed sentences matched to faces and
+  groups) · Ex.4 Count and circle the number (20 apples: 20/19/17;
+  18 igloos: 16/18/14; 13 chickens: 11/12/13; 20 parrots: 16/18/20;
+  12 balls: 14/16/12; 17 oranges: 17/15/19).
+- p.64 Ex.5 Circle the pictures that start with each given letter —
+  one row per new letter (Yy: yo-yo, yogurt · Zz: zebra, zipper ·
+  Qq: queen, quiet · Ww: window, watch · Vv: van, vest), each row
+  with two right and two wrong pictures · Ex.6 Match each picture
+  with the correct consonant blend (snail → sn, strong → st, swing →
+  sw; the choices include sp and sm, blends never taught).
+- p.65 Ex.7 Match the picture with the correct word (mat/hat;
+  pet/pen; pan/map; jet/ten; man/cap; hen/wet) · Ex.8 Write the
+  missing letter in each word (t_n, h_t, m_p, w_t — the missing
+  letter is the vowel: the family words are now tested by their
+  middle sound).
+
+### P1T2 Unit 4 "My House" — page by page (PDF pp.66–84; read 2026-10-25)
+- p.66 Unit opener + Learning Outcomes: recognize rooms in the
+  house; identify furniture/objects in the house; name activities
+  they can do in each room using simple sentences; differentiate
+  short vowel sounds /ɪ/ and /ɑː/ (printed so; the lessons teach /ɪ/
+  and /ɒ/) in familiar words; identify word families; identify
+  rhyming words; blend and read CVC words with short vowel sounds
+  /ɪ/ and /ɑː/; recognize sight words.
+- **Lesson 1: Rooms in My House** (pp.67–71)
+  - p.67 Ex.1 Listen and repeat — the five rooms on pictures:
+    **bedroom, living room, kitchen, dining room, bathroom** · under
+    them, the room sentences: "I sleep in the bedroom." / "I brush
+    my teeth in the bathroom." / "I watch TV in the living room." /
+    "I eat in the dining room." / "My mother cooks in the kitchen."
+  - p.68 Ex.2 Match the word with the picture (the five room words
+    against five new room pictures).
+  - p.69 Ex.3 **Read and repeat** — six sentences with small pictures
+    sitting inside the text where the room words and key endings go:
+    "In my home [house], there are many rooms [house]. / In the
+    bedroom [bedroom], I sleep [bed] on the bed. / In the living room
+    [room], we watch TV [family watching] together. / In the kitchen
+    [kitchen], my family cooks food [family cooking]. / In the
+    dining room [dining room], we eat [family eating] our meals. /
+    In the bathroom [bathroom], I brush my teeth [boy brushing]
+    every morning." — the pictures carry the newest words so the
+    learner can read the whole text · **Sight words: in – my – there
+    – are – many – on – the – we – together – our – every**.
+  - p.70 Pair work (Ex.4): "What do you do in the living room?" — "I
+    watch TV in the living room." (word strip: the five rooms +
+    watch TV, eat, sleep, cook, brush my teeth) · Ex.5 Circle the
+    pictures of rooms in the house (against a classroom, a party,
+    a park) · Ex.6 Listen and check (✓) the correct room (bedroom,
+    bathroom, kitchen, living room — each name over two room
+    pictures).
+  - p.71 Ex.7 Listen, and circle what you can do in each room
+    (bedroom: sleep — against cook, brush teeth; bathroom: brush
+    teeth — against watch TV, eat; kitchen: cook — against brush
+    teeth, sleep: the same three girls' pictures re-used, so the
+    room name alone decides) · Ex.8 Listen and circle — each of the
+    four room sentences over its two pictures ("I sleep in the
+    bedroom." / "I watch TV in the living room." / "My mother cooks
+    in the kitchen." / "I brush my teeth in the bathroom.").
+- **Lesson 2: Phonics — Short Vowel /ɪ/, Word Families** (pp.72–75)
+  - p.72 Ex.1 Listen, read, and repeat: **"-ig" family — big, fig,
+    dig · "-in" family — bin, fin, win · "-ip" family — hip, dip,
+    lip**, same devices as Unit 3 (letter dots, blending arrow, pink
+    i; big shown by a tiny boy beside a huge elephant).
+  - p.73 Ex.2 Rearrange the letters to form the word — the first
+    spelling work: the picture, the word's letters scrambled (i n f,
+    b n i, p i l, n w i, g i f, i d p), and three empty boxes; fin is
+    worked as the example.
+  - p.74 Ex.3 Choose, and write the word (word strip: hip – fin –
+    fig – win – lip – dig – bin – dip – big; eight pictures, each
+    with three boxes to write the word in; fig is worked and crossed
+    off the strip).
+  - p.75 Ex.4 **Chant with rhyming words**: "I see something very
+    big, on the tree, a purple fig. / Take a shovel, let's all dig.
+    / The fish can swim with a shiny fin. / We play a game and try to
+    win. / Shake your hip and smile with your lip. / Then take a
+    chip and make a dip." (chip is in the chant but not a family
+    word) · Ex.5 Circle the word that doesn't rhyme (big/fin/dig;
+    win/hip/lip) · Ex.6 Listen to the song, sort, and write the words
+    — three boxes marked **in**, **ip**, **ig** with lines under
+    each: the families sorted by their endings.
+- **Lesson 3: Room by Room** (pp.76–79)
+  - p.76 Ex.1 Listen, point, and repeat — each room with its two
+    things: **bedroom: bed – closet · dining room: chairs – table ·
+    living room: couch – TV · kitchen: fridge – oven · bathroom:
+    sink – toilet**.
+  - p.77 Dialog (Listen): Hana: "Welcome to my house, Sara!" · Sara:
+    "Thank you, Hana! Is this your bedroom?" · Hana: "Yes, it is.
+    Here's my bed and my closet." · Sara: "Nice! Where's the
+    bathroom?" · Hana: "Come, I'll show you. It has a sink and a
+    toilet." · Sara: "Oh, and the kitchen—look! It has a fridge and
+    an oven." · Sara: "Wow! Is this the living room?" · Hana: "Yes!
+    We can sit on the couch and watch TV together." · **Sight words:
+    is – this – your – my – and – the – it – has – a – an – we – can
+    – on** · Ex.3 Practice with a friend (word strip: the rooms and
+    all ten things): "What can we find in a kitchen?" — "We can find
+    a fridge and an oven."
+  - p.78 Ex.4 Circle what you can find in each room (bedroom row:
+    bed ✓ among oven, closet ✓, sink; bathroom row: sink ✓ among
+    tub, couch, oven; kitchen row: oven ✓, fridge ✓ among closet,
+    bed) · Ex.5 Check (✓) the correct object (bed, oven, sink, couch
+    — each word under an object picture and a room picture).
+  - p.79 Ex.6 Check (✓) if the word matches the picture, (✗) if it
+    doesn't (sink under a dining set ✗; bed ✓; closet ✓; couch ✓;
+    fridge under a toilet ✗; oven ✓) · Ex.7 Match the pictures with
+    the words (TV, closet, couch, bed, oven, table, sink, fridge,
+    chair — nine words, nine object pictures).
+- **Lesson 4: Phonics — Short Vowel /ɒ/, Word Families** (pp.80–84)
+  - p.80 Ex.1 Listen, read, and repeat: **"-og" family — dog, fog,
+    log · "-op" family — mop, hop, pop · "-ot" family — pot, hot,
+    dot**, same devices (the o printed pink).
+  - p.81 Ex.2 Complete the sentence with the correct word from the
+    box (pot – dog – mop – hop – log): "I can see a ___." (pot) /
+    "I see a ___." (mop) / "There is a ___." (log) / "I can see a
+    ___." (dog) / "The boy can ___." (hop) — the family words now
+    finish real sentences, the picture beside each as the guide.
+  - p.82 Ex.3 Choose the correct word (pot: dog/pot; fog: fog/hot;
+    log: mop/log; pop: hop/pop; dot: fog/dot; hot: hot/pot).
+  - p.83 Ex.4 **Chant with rhyming words** — one dog's whole story:
+    "I saw a silly dog! / It got lost in the fog! / It tripped over
+    a log! / It started to hop, hop, hop! / Then heard a balloon go
+    pop! / It found a cooking pot! / The pot was very hot!" · Ex.5
+    Listen to the chant and answer using the words below (word box:
+    hop – fog – pot – dog – hot – pop – log; the chant's seven lines
+    re-printed with blanks, in a shuffled order — the learner
+    rebuilds the story from memory of its sounds).
+  - p.84 Writing Practice (Ex.6): nine lined boxes headed dog, fog,
+    log / pot, hot, dot / mop, hop, pop — the learner fills each box
+    writing that word.
+
+Unit 4 (Term 2) basics filed: the rooms set (bedroom, living room,
+kitchen, dining room, bathroom) with the "I … in the …" room
+sentences, the furniture set (bed, closet, chairs, table, couch, TV,
+fridge, oven, sink, toilet) tied room by room with the "It has a …
+and a …" and "What can we find in a …? We can find …" patterns, and
+the unit's sight words are recorded here for the Word and Sentence
+titles in ladder order. The /ɪ/ families (-ig, -in, -ip) and /ɒ/
+families (-og, -op, -ot) are filed in the book map above and noted in
+the-alphabet sources — Word-step material.
+
 Unit 3 (Term 2) basics filed: the months set with their numbers
 (January 1 – December 12), the "When is your birthday? My birthday is
 in …" and month before/after patterns, the seasons set (spring,

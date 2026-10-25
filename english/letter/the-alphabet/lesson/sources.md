@@ -165,6 +165,14 @@ blends and short-vowel word families:
   wet), **-en** (pen, hen, ten), PDF pp.57–60, same devices. These
   are the book's first whole-word reading — Word-step material, filed
   fully in the Egypt book map.
+- Word families, short /ɪ/ (Term 2 Unit 4, Lesson 2): **-ig** (big,
+  fig, dig), **-in** (bin, fin, win), **-ip** (hip, dip, lip), PDF
+  pp.72–75 — same blending-arrow device, plus rearrange-the-letters
+  spelling and family sorting boxes. Short /ɒ/ (Unit 4, Lesson 4):
+  **-og** (dog, fog, log), **-op** (mop, hop, pop), **-ot** (pot,
+  hot, dot), PDF pp.80–84, with the family words completed inside
+  sentences and a rhyming story-chant. Filed fully in the Egypt book
+  map; Word-step material.
 - Past single letters (Term 2 Unit 2, Lesson 4): consonant blends
   with s- — **sk** (skip, sky), **sn** (snail, snake), **st** (strong,
   star), **sw** (swing, swim), PDF pp.38–41 — the blend printed pink
