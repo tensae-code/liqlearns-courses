@@ -24,6 +24,9 @@ letters sources file for the full record).
 | "Now I can… say the alphabet, say some English words" review page | Libya Pupils G1, PDF p.17 (book p.16) |
 | The SOUNDS way — first letter-sound group s, a, t, p, i, n taught as a set | Libya Pupils G1, PDF p.5 (Book Map, Unit 2 phonics line) |
 | Egypt's order — first sounds Tt (train, toys, turtle) and Ii (in, insect, ink); Unit 2 adds Ss, Aa, Nn | Egypt KG1, contents page, PDF p.3 (read as a picture, 2026-10-25) |
+| The sound of Tt, taught as its own page: "Listen and repeat" — toys, turtle, train; then "Let's trace letter Tt" (+ t inside train, toys) | Egypt KG1, book pp.8–9 (read as pictures, 2026-10-25) |
+| The sound of Ii: insects, ink, in; trace Ii (+ i inside ink, in); then "It's Practice Time! Circle the beginning letter" (Tt or Ii) | Egypt KG1, book pp.13–15 (read as pictures, 2026-10-25) |
+| Egypt KG1's full letter order for the term (Review page): Tt Ii Ss Aa Nn Pp Hh Dd Rr Ee Cc Kk Mm — 13 letters, sounds order | Egypt KG1, contents/review, PDF p.4 (read as a picture, 2026-10-25) |
 
 **Acceptance count: taught in 2 countries (Egypt, Libya).**
 The full alphabet and the letter-word list are Libya's in this layer;

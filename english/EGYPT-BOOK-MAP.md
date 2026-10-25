@@ -63,12 +63,71 @@ The book starts BEFORE letters, at the true bottom:
   and picture-matched, NOT read as sentences; the reading line is the
   letter sounds (Tt, Ii first), exactly the bottom-up order.
 
-So the English path's first builds, in order: (1) Letter — before the
-letters: hold a pencil and trace (KG1 p.1); (2) Letter — the sounds of
-Tt and Ii (KG1 Unit 1 phonics, repeated in Primary 1 Unit 1).
+So the English path's first builds, in order: (1) Pencil and Lines
+(promoted out of English into its own prerequisite course, 2026-10-25);
+(2) Letter — the sounds of Tt and Ii (KG1 Unit 1 phonics, repeated in
+Primary 1 Unit 1).
+
+### KG1 full contents (PDF pp.3–4, read complete)
+- Unit 3 "My Body, My Care!" — body words (hair, head, face, eyes,
+  nose, mouth, teeth, arms, hands, legs, feet) · Phonics: **p/P**
+  (pen, pants / pan), **h/H** (heart, honey / helicopter), **d/D**
+  (dog, desk / dress), **r/R** (rabbit, robot / rice) · Number 3,
+  star shape, yellow.
+- Unit 4 "My Family Picnic!" — family + food words (grandfather,
+  grandmother, father, mother, sister, brother, tree, flower, grass,
+  fruits, chocolate, chips, juice, sandwich) · Phonics: **e/E**
+  (egg, eagle / elephant), **o** (cow, cloud), **C/c** (cap), **k/K**
+  (kiwi, kick / kite), **m/M** (mom, man / mud) · Numbers 4 and 5,
+  heart + triangle shapes, green and orange.
+- Review (units 1–4): letters **Tt Ii Ss Aa Nn Pp Hh Dd Rr Ee Cc Kk
+  Mm** — 13 letters in this order; numbers 1–5; shapes circle,
+  square, star, heart, triangle; colors red, blue, yellow, green,
+  orange. Project: My Classroom.
+
+### KG1 Unit 1 — page by page (book pp.2–17; read 2026-10-25)
+- p.2 Unit opener: two children at school — "Hi." / "Hello."
+- p.3 "Friends" (picture page)
+- p.4 "Good morning." (arriving at school, morning) / "Goodbye."
+  (leaving, sunset) — the day in two greetings
+- p.5 Look and Match: Good morning / Goodbye to their pictures
+- p.6 "A boy or a girl?" — "I'm a boy." / "I'm a girl." (Word bank:
+  Boy-Girl)
+- p.7 "How are you feeling today?" — "I'm happy." / "I'm sad."
+  (Word bank: Happy-Sad)
+- p.8 The sound of letter Tt — Listen and repeat: toys, turtle, train
+- p.9 Let's trace letter Tt (+ trace t inside train, toys)
+- p.10 Count and Say: number **1** — "I can see 1 train / 1 turtle"
+  (the T words come back as things to count)
+- p.11 Trace number 1; color 1 balloon
+- p.12 Colors and shapes: "I can see a red circle" — color the circle
+  red (first color = red, first shape = circle)
+- p.13 The sound of letter Ii — insects, ink, in
+- p.14 Let's trace letter Ii (+ i inside ink, in)
+- p.15 It's Practice Time! Circle the beginning letter (Tt or Ii:
+  turtle, insects)
+- p.16 Color page: boy and girl, both saying "Hello."
+- p.17 **Story: "Ibrahim and Talia's Day!"** — 4 panels: Hello /
+  Good morning → "Do you want to play?" "Yes, we are friends." →
+  "I dropped my toy. I am sad." "It's okay. I will help you." →
+  Goodbye / Goodbye. (Names are the book's own — source tags only.)
+
+### KG1 Unit 2 — started (book pp.18–20)
+- p.18 Unit opener: "School" (Look, listen, and point)
+- p.19 "Classroom" — labeled picture: board, desk, book, pencil,
+  eraser
+- p.20 "playground" (picture page)
+
+Reading continues page by page until the book is finished (one book
+at a time — his rule). Filed so far from KG1: Pencil and Lines
+(grip + lines, p.1); Greetings (spoken greetings pp.2/4/5 + story
+p.17 now in its sources); the-alphabet sources (Tt pp.8–9, Ii
+pp.13–14, practice p.15). Number/shape/color pages are Egypt's own
+Math column inside this book — recorded here; they file into the
+Maths course when it starts, not into English.
 
 ## Still owed in this pass
-- Read KG1/KG2 and Primary 1 Term 2 as pictures (image-only PDFs — OCR
-  or page-by-page reading) before their material can enter lessons.
+- Finish KG1 (book pp.21–end), then KG2, then Primary 1 Term 2 —
+  one book at a time.
 - Download and map Primary 2–6, Preparatory 7–9, Secondary 10–12 the
   same way, one grade at a time.

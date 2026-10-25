@@ -53,8 +53,14 @@ Bangladesh, Ghana, Palestine, China and the rest of the finished 15.
 Closed-but-not-finished countries (Ethiopia among them) join this
 lesson when they finish.
 
-**What is NOT in this lesson yet:** Egypt teaches greetings only in this
-one book at this level, so nothing was merged or folded in this pass.
-The KG1/KG2 Egypt English books (downloaded, image-only PDFs — no text
-layer) still have to be read page by page as pictures before their
-greetings material can join this lesson.
+**Egypt KG1 added 2026-10-25** (same country, deeper layer — the
+spoken-first layer under Primary 1's sentences): English KG1 Term 1
+(student book; %PDF, 8,212,061 B, 100 pp, image-only — read as
+pictures). Book p.2: "Hi." / "Hello." at the school door · p.4:
+"Good morning." arriving / "Goodbye." leaving at sunset · p.5: Look
+and Match — Good morning / Goodbye to pictures · p.17: the unit story
+"Ibrahim and Talia's Day!" runs the whole shape in 4 panels (Hello /
+Good morning → play → I am sad / I will help you → Goodbye). KG1
+teaches the greetings spoken and picture-matched, before any reading
+of them — that is the level under this lesson's level 1, and the
+lesson grows a pre-level layer from it when the KG1 book is finished.
