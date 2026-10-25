@@ -356,6 +356,17 @@ Book page = PDF page − 4, same as KG1.
   circle the number · p.46 color only 3 mugs / only 4 mugs
 - p.47 Letters and Sounds: **Gg** — guitar, grass, Gamila (the unit's
   third letter, taught on its own page) · p.48 Gg formation
+- p.49 Practice: trace Gg; ✓ the correct beginning letter ·
+  p.50 Letters and Pictures: color the pictures that start with
+  Dd / Mm / Gg
+- p.51 **Lesson 3: Listen, Learn, and Sing!** — "Take care of your
+  belongings." "Be clean and tidy." "Celebrate differences — it's
+  okay to wear different things." Chant: "I wear socks and shoes
+  today, You wear pants when we play. We are different, that's okay,
+  Kind and happy every day."
+- p.52 Practice: smiley-face judgment for good actions; draw
+  yourself in your favorite clothes — **Best Outfit medal**;
+  discuss: "Do we all wear the same clothes?"
 
 ## Still owed in this pass
 - Finish KG2, then Primary 1 Term 2 — one book at a time.
