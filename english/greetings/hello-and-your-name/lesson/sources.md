@@ -57,6 +57,12 @@ Libya; verified on disk: %PDF, 130 pp).
   side: "I'm very well, thanks. · I'm fine. · I'm not very well!"
   plus the return question "And how are you?" The greeting frame
   grows again: hello → how are you → name → age → his/her name.
+- **Grade 3 layer** (Primary 3 Pupil's Book, Garnet/CERC, © 2019;
+  verified on disk: %PDF, 138 pp): Unit 1 Lesson 1 (book pp.8–9)
+  runs the whole chain in one lesson with the year's new lead
+  child — "Hello, what's your name? — My name's Omar." · "Hello,
+  how are you? — I'm fine, thank you." · "How old are you? — I'm 8."
+  The contracted *name's* and the age moving to 8 mark the spiral.
 
 **Third country merged 2026-10-25 — Nicaragua:**
 Inglés, Activity Book 1, Grade 1 (MINED, Nicaragua; verified on disk:

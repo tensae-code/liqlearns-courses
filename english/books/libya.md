@@ -1461,3 +1461,456 @@ country, third Grade 2 book.
 2026-10-25. Libya Grade 2 is fully read — all three
 books.** Next per the reading queue: Libya Grade 3,
 one book at a time.
+
+---
+
+# Libya — English Grade 3: Pupils Book, Activity Book, Teacher Book
+
+Downloaded from the grade-03 library record's own URLs
+(liasinstitute.com) into the courses work folder.
+- Pupils Book: 138 pp, 22,420,391 B — **READ COMPLETE
+  2026-10-25** (partial text layer; read from the text
+  with rendered pages checked wherever the print sits in
+  pictures). Code 10010303 (inside front cover).
+
+Course: **"21st Century English for Libya — Primary 3
+Pupil's Book"**, State of Libya, Ministry of Education,
+CERC; Garnet Publishing Ltd, first edition © 2019;
+school year 2019–2020 (1440–1441 AH). The shape changes
+in Grade 3: **eight units, but two of them are Revision
+units** — U1 At School (book p.7) · U2 At the Park (p.25)
+· U3 At Home (p.43) · U4 Revision (p.61) · U5 Healthy
+Habits (p.67) · U6 Around Town (p.85) · U7 At the Shop
+(p.103) · U8 Revision (p.121). Units run about 18 pages —
+longer than Grade 2's ten-to-twelve. **Page rule: book
+p. = PDF p. − 1**, verified on the Unit 1 divider (PDF
+p.8 = printed p.7); every unit opens with an overview
+page listing each lesson's content, and the Book Map
+(book pp.4–6) prints the whole year's vocabulary,
+spelling words and key sentences up front. **Spelling
+words are now a taught thing, one small set per unit**
+(U1: is, have, has, what · U2: he, she, the, does · U3:
+you, they, can, can't · U5: do, don't, your, how · U6:
+by, then, next, who · U7: here, some, are, where).
+
+**The cast grows**: Omar (8), Reem, Sally and Ben join
+Adam — the Book Map and Unit 1 name them **My Friends**.
+
+### Grade 3 Pupils Book — unit by unit
+
+**Unit 1 "At School" (book pp.7–24)** — Grade 2's world
+re-taught bigger. L1 (pp.8–9): the full greeting chain
+in one lesson — "Hello, what's your name? — My name's
+Omar." · "Hello, how are you? — I'm fine, thank you." ·
+"How old are you? — I'm 8." L2 (pp.10–11): **My
+Classroom** labelled set — board, marker, chair, pencil
+case, desk, pencil, paper, notebook, crayon, **pencil
+sharpener**, ruler, rubber, pen — and a spoken **rhyme**
+(Track 4): "Stand up! / Jump up, / Turn around, / Clap
+your hands, / Sit down. // Stand up, / Read a book, /
+Write your name, / Listen and look." L3 (pp.12–13):
+positions in / on / under / between / next to with
+"Where's the red pencil?" L4 (pp.14–15): **My Body** —
+the set grows to hand, head, foot, shoulder, arm, toe,
+body, leg, knee, elbow, finger, thumb (listen-and-match),
+say-and-do, and counting classroom things ("1 bag, 4
+crayons, 5 pens, 2 rulers, 3 rubbers"). L5 **Play Time**
+(pp.16–17): listen-and-count "How many skips?" over
+pictures numbered 1–10, and the action song (Track 8):
+"1 finger, 1 thumb" — 1 finger, 1 thumb, 1 arm, 1 leg,
+**1 nod of the head**, with sit down / stand up / turn
+around. L6 **My Head** (pp.18–19): face set hair, eye,
+nose, mouth, **tongue, teeth**, ear; big / small / long
+/ short pointed and numbered. L7 **Let's count!**
+(pp.20–21): "How many notebooks?" and the song **Heads,
+Shoulders, Knees and Toes** (Track 11) with its labelled
+set head, shoulders, knees, toes, eyes, ears, mouth,
+nose. L8 Story: **The Magic Pencil** (pp.22–23), told
+in speech bubbles: "There's a pencil on my chair." ·
+"A picture?" · "It's a magic pencil." · "Here's my
+picture." · "It's under the book." · "Here's my new
+picture." · "Where's the picture?" · "This is my
+picture." · "It's on the shelf." · "Here's my own
+picture!" · "My picture's on the wall!" — the year's
+first **There's a …** and **Here's …** frames. "Now I
+can" (p.24): greet people · name things in the
+classroom · name parts of my body and face · count to
+10 · use big, small, long and short · say where things
+are.
+
+**Unit 2 "At the Park" (book pp.25–42)** — can/can't
+leads. L1 (pp.26–27): action set jump, run, hop, swim,
+skip, cycle, sing — "I can …" and third-person "She can
+swim and run." (asked about Reem). L2 (pp.28–29): "I
+can't skip. I can't cycle. I can't sing. I can't hop."
+beside the eleven colours read-and-matched to things (a
+tomato — red, a carrot — orange, milk — white, a penguin
+— black and white, an elephant — grey, a lemon —
+yellow) and "What colour is a zebra? — It's black and
+white." L3 **Animals** (pp.30–31): frog, mouse, cow,
+camel, hen, donkey, snake, bee, dog, with the can-it
+game: "Can it fly? — Yes, it can. · Can it run? — No,
+it can't. · Is it a bee? — Yes, it is." L4 **Food**
+(pp.32–33): ice-cream, cake, apples, rice, fish, bread,
+corn, chicken, and the echo rhyme "I like ice-cream. /
+I like cake. / I like rice and chicken. / I like
+bread." L5 (pp.34–35): "I don't like …" and the offering
+dialog "Do you want some fish? — No, thanks. I don't
+like fish."; the song **Happy Days** printed in full:
+"Chicken and rice, / Cola and ice, / Apples and cakes, /
+Cups and plates. / Balloons and lights, / Robots and
+kites, / Presents and cards, / Stories and fun."
+L6 **Clothes** (pp.36–37): cap, trousers, **pegs**,
+skirt, dress, scarf, shirt, shoes, trainers, and the
+**Get dressed!** rhyme pairing colours with clothes —
+red shirt, blue trousers, orange cap, black shoes.
+L7 (pp.38–39): "What are they wearing? — He is wearing
+… / She is wearing …" and a start-to-finish board game,
+**A Blue Cap**. L8 Story: **The Clever Crow** (pp.40–41)
+— the first story given as real printed reading text,
+not bubbles: "Crow is very thirsty. He sees a jug next
+to a school. There is some water in the jug, but Crow
+can't drink the water. 'I can't do it!' He thinks … and
+thinks. Then Crow has an idea. 'I can do it!' Crow puts
+a stone in the jug." — the pictures then count the
+stones 1 to 18 — "Now Crow can drink the water. Clever
+Crow!" New words for it: clever, crow, thirsty, jug,
+drink, think, idea, stone. "Now I can" (p.42): say what
+I can and can't do · say the colour of things · name
+animals · say what animals can and can't do · name
+food and say what I like and don't like · name
+different clothes.
+
+**Unit 3 "At Home" (book pp.43–60)** — the day and the
+house. L1 **My Family** (pp.44–45): dad, mum, sister,
+**baby sister**, brother, grandma, grandpa, uncle, aunt,
+and the rhyme "I love my family, / and they love me!"
+L2 **My Bedroom** (pp.46–47): wardrobe, shelf, lamp,
+bed, pillow, bin, robot, floor, chair, blanket,
+computer, table, trainers, mat — **There is / There
+are** in print: "There are 4 balls. There is a robot.",
+plus the song "There are 10 bears in the bed." L3
+(pp.48–49): counting party things to 15 — "How many
+lights are there?" — and **My Presents** listen-and-
+match. L4 (pp.50–51): activities placed — "I draw in
+my room. I play in my room. I read in my room. I listen
+to music in my room. I sleep in my room." with **in my
+room / at school / in the park**, and the rhyme **On
+the School Bus** in full: "I go to school on the school
+bus. / I sit with my friends on the school bus. / I
+talk to my friends on the school bus. / I read my books
+on the school bus. / I play games on the school bus. /
+It's very good fun on the school bus! / Let's all go on
+the school bus!" L5 **My Day** (pp.52–53): the routine
+in order — wake up, get dressed, eat breakfast, go to
+school, eat lunch, watch TV, read a book, go to sleep —
+and the rhyme **Reem's Day**: "It's morning, morning, /
+Wake up, get dressed, / Eat breakfast, school bus. //
+It's afternoon, afternoon, / Read books, say rhymes, /
+Eat lunch, play games. // It's night-time, night-time, /
+Brush teeth, wash face, / Close eyes, go to sleep."
+L6 (pp.54–55): two reading pages — **Ben's Afternoon**
+("I eat lunch. I do my homework. I help Dad. I tidy my
+room. I play games. I draw pictures.") and **Reem is
+sleepy** ("I brush my teeth. I wash my face. I brush my
+hair. I go to sleep.") — then **Make a book** again, the
+same making steps as Grade 2 (Write the title. Draw.
+Write. Write page numbers. Punch holes. Tie.) — the
+child now makes a book of their own day. L7 **What's
+the time?** (pp.56–57): clocks — "It's 6 o'clock."
+(also 8, 12, 3, 7, 9) — and times tied to the day: "I
+wake up at 6 o'clock. I eat breakfast at 7 o'clock."
+L8 Story: **Ben's Messy Room** (pp.58–59), the Is-it
+hunt in speech: "I can't find my toy snake. — Is it
+under the bed? — No, it isn't! — Is it in the
+wardrobe? … Is it on the table? — Is it under the mat?
+— Yes, it is!" "Now I can" (p.60): talk about my
+family · name things in my bedroom · **count to 20** ·
+talk about what I do in my room · talk about
+activities · say what time it is.
+
+**Unit 4 "Revision" (book pp.61–66)** — only four
+lessons, all play. L1 **Is it?** (p.62): the position
+phrases as a game — under the bed, next to the table,
+under the chair, in the wardrobe, on the mat, in the
+bed, on the chair, between the table and the wardrobe.
+L2 **My Big Family** (p.63): "He's wearing … / She's
+wearing …" and pointing people out — "It's her. It's
+his grandma." L3 (p.64): a Start-to-Finish board game,
+"What is it? — It's a doll. It's a bicycle." L4 **Can
+I play?** (p.65): a football story in pictures, matched
+to the year's first **past-tense** sentences — "He
+kicked it. He spun it. He headed it. He bounced it."
+"Now I can" (p.66): say where things are · talk about
+families · remember the names of things and animals ·
+**read a story and say what happened**.
+
+**Unit 5 "Healthy Habits" (book pp.67–84)** — health,
+food-in-the-house, school lessons, the whole house, and
+shapes. L1 **My Health** (pp.68–69): eat healthy food,
+sleep, exercise, wash, drink, brush (+ meat), and the
+rhyme "This is the way I brush my teeth. / This is the
+way I wash my face. / This is the way I comb my hair. /
+This is the way I go to sleep." L2 **Are you healthy?**
+(pp.70–71): the Do-you question family in print — "Do
+you wash? — Yes, I do. · Do you go to bed early? — Yes,
+I do. · Do you eat healthy food? — No, I don't. · Do
+you exercise? — No, I don't. · Do you brush your teeth?
+· Do you drink water?" — then **Exercise**: twist,
+bend, hop, jump, and Exercise Plans counted out ("2
+hops, 4 twists, 6 bends" up to "9 twists, 10 jumps") —
+the map's "Do six hops and four jumps." L3 **Do we
+have any?** (pp.72–73): cakes, bread, eggs, tomatoes,
+cheese, apples, chicken, rice — "Do we have any rice? —
+Yes, we do. · Do we have any chicken? — No, we don't."
+L4 **At My School** (pp.74–75): a real timetable —
+Sunday to Thursday: Arabic, English, maths, art,
+music, science, PE, RE, with BREAK — and "Do you like
+English? — Yes, I do. · What's your favourite lesson?
+— It's maths. · Do you like music? — No, I don't. What
+about you?"; the song "I like my lessons. / I like
+school. / I like my lessons, too. / I like school. /
+What about you? / English, science, maths, PE. / These
+are the lessons that we do. / Arabic, music, art, RE. /
+I like maths. What about you?"; and **Read Reem's
+email** — a model email in full: "To:
+Sally243@myemailadd.com · Subject: My lessons · Dear
+Sally, / I like my new school. My favourite lesson is
+maths. I don't like art. What's your favourite lesson?
+/ Reem". L5 **My House** (pp.76–77): the whole house
+labelled room by room — bedroom (lamp, blanket, beds,
+wardrobe), bathroom (shower, bath, basin, toilet),
+kitchen (cooker, fridge, table), living room (sofa,
+armchair, TV), mat, garden — and the song **In My
+Garden …**: "There's a bear in my garden! / There's a
+bear in my garden! / It's looking at me. / There's a
+boat in my garden! / It's behind the tree. / There are
+frogs in my garden! / They're hopping you see. // It's
+a tree in my garden! / It isn't a bear. / It's a slide
+in my garden! / It isn't a boat. / They are balls in my
+garden! / There aren't any frogs." — **There isn't /
+aren't** arrive inside the song. L6 **How many rooms?**
+(pp.78–79): find the house from its rooms among floor
+plans, then say your own: "My house has a living room
+and a kitchen. It has a bathroom and 3 bedrooms."
+L7 **I Like Maths** (pp.80–81): shapes — triangle,
+square, circle, rectangle; "How many triangles are
+there? — There are 11."; "What is it? — It's a …" over
+pictures built from shapes (house, car, bike,
+computer), counting and writing how many of each shape.
+L8 Story: **Roland's Race** (pp.82–83) — the first full
+past-tense story the child reads: "Roland was an
+unhealthy rabbit. He played computer games all day.
+Roland's friends were looking at something. It was a
+poster. His friends said they would help him. His
+friends were going to run in the race. Roland wanted
+to run in the race too. They wrote an exercise plan for
+Roland. Roland decided to follow the plan. On Saturday,
+he did 5 jumps. On Sunday, he did 7 hops and 5 jumps.
+On Monday, he did 9 skips, 7 hops and 5 jumps. On
+Tuesday, he did 11 twists, 9 skips, 7 hops and 5 jumps.
+On Wednesday, he did 13 bends, 11 twists, 9 skips, 7
+hops and 5 jumps. On Thursday, Roland lined up for the
+race. He ran and ran. Roland won the race! Roland was
+a happy, healthy rabbit!" — past tense carried by the
+story itself (was, played, said, wrote, did, won, ran),
+with the odd numbers 5, 7, 9, 11, 13 counted inside it.
+New words: unhealthy, friends, race, runners, help,
+exercise plan, won. "Now I can" (p.84): talk about
+health and healthy habits · answer questions about
+being healthy · say words for exercise · ask and answer
+about what food we have · talk about school lessons ·
+talk about my house · talk about shapes.
+
+**Unit 6 "Around Town" (book pp.85–102)** — town,
+travel, measuring, and how a plant grows. L1 **My
+Town** (pp.86–87): park, hospital, school, bakery,
+supermarket, library, and the **Cross the Road** rhyme:
+"Look left, look right, / Look left again. / If the
+road is safe, / Cross with a friend." L2 (pp.88–89):
+the town text read aloud — "This is my town. There is
+a supermarket and a bakery, but there isn't a library."
+— with **turn left / turn right** played on a town map
+and "Where is the park? / Where is the school?" read
+and answered Yes or No. L3 **Let's go!** (pp.90–91):
+truck, motorbike, boat, train, plane, bike, car, bus —
+"How do you go to school? — I go to school by car. · I
+go to school on foot. · I go to school by bus / by
+bike / by train / by plane." (two more names speak
+here: Rania and Ahmed). L4 **How tall?** (pp.92–93): a
+height wall marked to 100 — "How tall is the rabbit? —
+It's 38 cm." — and the reading **Mr Brown's Pond**: "Mr
+Brown has 100 fish in his garden pond. On Sunday, Suki,
+a large black and white cat, saw the pond and saw the
+fish too. Suki was hungry. First, she ate 8 fish! How
+many fish are in the pond now? On Monday, Suki ate 11
+fish. On Tuesday, Suki ate 9 fish. On Wednesday, Suki
+ate 4 fish. On Thursday, Suki ate 15 fish. On Friday,
+Suki ate 13 fish. On Saturday, Suki ate 6 fish. It's
+Sunday again. Now Mr Brown has a big dog! There are
+still 34 fish in the pond!" — a take-away story whose
+numbers truly work (100 − 8 − 11 − 9 − 4 − 15 − 13 − 6
+= 34), held here for the Maths title too. L5 **Growing
+a Plant** (pp.94–95): light, flower, plant, seed,
+seeds, watering can, water, soil, ground, and the
+rhyme "Here is a seed, / Put it in the ground. / Here
+comes the sun, / Big and round. / Down comes the rain,
+/ In a shower. / Up comes the plant, / And here's the
+flower!" L6 **A Little Seed** (pp.96–97): the growth
+order read as a sequence — "First, the seed grows a
+root. Then it grows a shoot. Next, it grows some
+leaves. After that, it grows a stem. Then it grows a
+bud. Finally, it grows a flower." (root, shoot, leaf,
+stem, bud, flower labelled) — **First / Then / Next /
+After that / Finally** enter here — and **Who is it?**:
+the two new positions **in front of** and **behind** —
+"Who is behind the farmer? — The boy! · Who is in front
+of the cat? — The dog." L7 **Clean up the park!**
+(pp.98–99): a reading text with a park keeper: "On
+Saturday, Ali and his friends clean up the park. They
+pick up the litter. They empty the bins. They cut the
+grass. They sweep up the glass bottles. They water the
+flowers." L8 Story: **The Ant and the Grasshopper**
+(pp.100–101), the fable read in full: "It was summer.
+Grasshopper was relaxing. Ant walked past. He was
+carrying some seeds. 'Why are you working so hard?'
+asked Grasshopper. 'I am collecting food for the
+winter,' said Ant. Grasshopper laughed. 'I'm not
+working. The day is too beautiful!' Ant continued
+collecting food. Then, winter arrived. Ant had plenty
+of food. But Grasshopper had nothing. He was very
+hungry. Grasshopper went to see Ant. 'Please can I
+have some food?' he asked. 'Why didn't you collect
+food in the summer?' asked Ant. 'I was too busy
+relaxing. I'm sorry,' said Grasshopper. That winter,
+Ant shared his food with Grasshopper. When summer
+came, they both worked hard collecting food for the
+winter." — the ending is kinder than the old fable:
+the ant shares, and the grasshopper learns. New words:
+grasshopper, relaxing, carrying, working hard,
+collecting food, winter, beautiful, plenty of food,
+nothing, too busy, shared. "Now I can" (p.102): talk
+about my town · say how I got to school · say how tall
+something is · talk about seeds and plants · talk
+about how plants grow · talk about how to keep the
+park clean.
+
+**Unit 7 "At the Shop" (book pp.103–120)** — buying,
+animals described, what people are doing now, weather.
+L1 **Shopping** (pp.104–105): the quantity set — **loaf
+of bread, bunch of carrots, can of lemonade, bottle of
+water, bag of rice, tin of beans, box of eggs** — and
+the song **Cheese, please!**: "Cheese, please, cheese,
+please, / Can I have some cheese, please? / Sorry, I
+don't have any. / What else do you want?" (beans get
+the same answer; jeans: "Yes, I do have lots of jeans.
+/ What size do you want?"). L2 **At the Supermarket**
+(pp.106–107): shelves of water, milk and beans; "What
+do you want? — Can I have 2 tins of beans, please?" and
+a shopping list to write; "Can I have some rice,
+please? — Yes, here you are."; then the bought
+sentences in print: "I bought a box of eggs. · I bought
+some carrots. · I bought a bottle of water. · I bought
+a can of lemonade." L3 **A Pet for Ben** (pp.108–109):
+a short reading about Ben (lives with his mum and dad;
+a small bedroom; goes to school; does his homework in
+his bedroom), then four pet clues to match to pictures:
+"It's small and quiet. It can swim." · "It eats fish
+and mice. It likes to sleep!" · "It can talk. It is
+blue and yellow." · "It's small and quiet. It eats
+carrots." — "What's a good pet for Ben?" — and **The
+Shopping List Game** board. L4 **Wild World**
+(pp.110–111): parrot, monkey, crocodile, lion,
+elephant, shark, listen-and-find, and the rhyme **The
+elephant**: "An elephant goes / Like this and that. /
+It's very big / And very fat. / It has no fingers. / It
+has no toes. / But goodness me, / What a nose!"
+L5 **Who am I?** (pp.112–113): animals guessed from
+their parts — wing, body, tail, beak, leg, foot, and
+where they live, **on land / in water** (the clues are
+carried by the pictures and listening; "I'm singing!"
+opens the -ing listening). L6 **I'm playing …**
+(pp.114–115): the doing-now set matched to pictures —
+"He's skipping. · They're playing football. · She's
+writing. · He's running. · They're watching TV. ·
+She's walking. · They're swimming." — and **two emails
+to read**: Sally to Reem — "Hello Reem / What are you
+doing? I'm writing to you! Ben is reading a book in his
+bedroom. Dad is washing his car in the garden. Mum is
+watching TV in the living room. / Sally" — and Reem
+back: "Hello Sally / I'm watching TV. My brother is
+sleeping. My Dad is reading and my Mum and aunt are
+shopping. See you at school on Sunday! / Reem" — the
+present continuous living inside real letters. L7 **On
+Holiday** (pp.116–117): "It's hot. · I'm thirsty. ·
+Look at me! · I'm taking a photo." matched to who is
+saying it (Ben, Sally, mum, dad), then the weather set
+read-and-matched: "It's cold and snowy. · It's windy. ·
+It's hot and sunny. · It's cloudy and rainy." (cold,
+hot, snowy, sunny, rainy, windy, cloudy). L8 Story:
+**The Shopping List** (pp.118–119), a memory-chain
+story in the past tense: Ben's mum sends him to the
+store with a list — a bag of rice, a big cake, a red
+pen, a brown hat and 12 eggs; "Ben lost the shopping
+list! He remembered the list." — and each thing he
+passes rewrites one item: boys playing with mice →
+"A box of mice…"; the zoo → "a big snake"; a hen → "a
+red hen"; a cat → "a brown cat"; clothes → "12 pegs".
+"At the store, Ben asked for, 'A box of mice, a big
+snake, a red hen, a brown cat and 12 pegs.' Ben took
+the shopping home. Mum wasn't pleased!" New words:
+store, shopping list, lost, remembered, mice, zoo,
+pleased. "Now I can" (p.120): talk about shopping ·
+ask for things at the shop · say what I bought · talk
+about pets and wild animals · say what people are
+doing · say what I am doing · talk about pictures.
+
+**Unit 8 "Revision" (book pp.121–125)** — four lessons
+again. L1 **At Home** (p.122): "What's she doing? —
+She's doing a puzzle." L2 (p.123): **Picture A or B?**
+— listen, find and tick; find the difference. L3 **At
+the Zoo** (p.124): a reading with a word choice in
+every gap — "The [four/five] children are at the
+[zoo/park]. It's [cold/hot] today. We can see Ali and
+his friends Kamal and Dan. They are [talking/looking]
+at the lions. Huda is at the elephant [bedroom/garden].
+She [is/are] giving the elephant a [carrot/banana]. The
+monkeys are [sitting/sleeping] in the tree and smiling
+at the children. Everyone is happy at the zoo!" — Ali,
+Kamal, Dan and Huda, names from Grade 2's teacher
+layer, stand in print here. L4 Story: **The Greedy
+King** (p.125): listen and look over seventeen
+pictures, then read and match — the telling itself is
+carried by the audio and pictures (it will be in the
+Teacher's Book). The back of the book: **Picture
+Dictionary** (pp.126–132), the year's words A–Z with a
+few story-only extras (bear, butterfly, crown, driver,
+gold, king, olives, smartphone, sweets, towel,
+toothbrush); **Action Verbs** (pp.133–134): bend, get
+dressed, brush, go to bed, comb, hop, cycle, jump,
+draw, kick, exercise, run, wake up, skip, wash, sleep,
+watch, swim, twist; **School Subjects** (p.135):
+Arabic, maths, art, music, English, PE, homework, RE,
+lesson, science; and an **Irregular Plurals** page
+(p.136) that names the six odd ones outright:
+**child/children, scarf/scarves, foot/feet,
+tooth/teeth, leaf/leaves, mouse/mice**. Back cover:
+the five components, www.englishforlibya.com, Garnet
+Education, code 10010303.
+
+→ Filed/recorded from this book: the greeting chain's
+Grade 3 layer (name's / fine, thank you / age 8) joins
+the Greetings sources; the plant-growth sequence with
+First/Then/Next/After that/Finally, the past-tense
+stories (Clever Crow read in print, Roland's Race, the
+Ant and the Grasshopper, the Shopping List), the two
+read emails, the Do-you / Do-we-have-any question
+families, the quantities set and bought, the -ing
+doing-now set, the weather set, and the irregular
+plurals are all held here for the Word, Sentence and
+Paragraph titles. Acceptance counts unchanged — same
+country, a new grade's spiral.
+
+**Libya Grade 3 Pupils Book — READ COMPLETE
+2026-10-25.** Next per the queue: the Grade 3 Activity
+Book.
