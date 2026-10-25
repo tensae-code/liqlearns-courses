@@ -447,6 +447,15 @@ Book page = PDF page − 4, same as KG1.
 - p.92 Two-panel reading: "I have 9 grapes. I will eat them in the
   morning." / "I have 7 apples. I will share them with my family at
   dinner." — bigger numbers inside two-sentence speech
+- p.93 Numbers Are Fun! — 9 cats, 10 leaves · p.94 point, count,
+  trace 9 and 10 · p.95 point, count, and match (10 camels, 9 waters)
+- p.96 Letters and Sounds: **Rr** (rice, rabbit, ruler) and **Uu**
+  (under — shown as a ball under a chair, umbrella)
+- p.97 Rr/Uu formation · p.98 trace Rr + a **maze**: "Help the
+  pictures find their letter" · p.99 trace Uu + circle the pictures
+  that start with the same letter
+- p.100 Sorting game: cut out the pictures (book p.117), say each
+  name, sort it into the Cc / Uu / Ww / Rr box
 
 ## Still owed in this pass
 - Finish KG2, then Primary 1 Term 2 — one book at a time.
