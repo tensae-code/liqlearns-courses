@@ -23,7 +23,18 @@ stepped, zigzag, wavy — butterflies to flowers) and p.40 (wavy, arch,
 zigzag-wave, zigzag, drawn by pencils). The hand work does not stop
 at KG: Primary 1 still opens its letter lessons with lines.
 
-**Acceptance count: taught in 1 country (Egypt, 3 books).**
+Second country (added 2026-10-25): Libya — English for Libya
+Primary 1, Activity Book (CERC, Ministry of Education, Libya;
+verified on disk: %PDF, 110 pp). Libya practises the hand a
+different way: **dot-to-dot** — numbered dots scattered on the page,
+joined in number order with straight lines until a picture stands.
+Unit 4 Lesson 7 (book p.38) and Unit 6 Lesson 7 (book p.58) join
+dots 1–10; Unit 9 Lesson 4 (book p.85) joins 1–18. The move is the
+straight line from one point to the next — the zigzag lesson's
+straight-and-corner move, aimed at a target.
+
+**Acceptance count: taught in 2 countries (Egypt, 3 books; Libya,
+1 book).**
 The "understand the lines" framing is his: the lines are understood,
 not just traced — a wavy line is the curved move, a zigzag is the
 straight-and-corner move, and letters are those two moves mixed.

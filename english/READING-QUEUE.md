@@ -11,14 +11,14 @@ joins this queue the day it finishes.
 
 | Country | Early English books held | Reading state |
 |---|---|---|
-| Egypt | KG1, KG2, Primary 1–6, Prep 7–9, Sec 10–12 (26) | KG1 read (contents + pp.1–5) · P1 T1 read (Unit map + U1) · rest queued |
-| Libya | Grades 1–12 Pupils/Activity/Course/Work/Teacher (28) | G1 Pupils READ COMPLETE 2026-10-25 (all 9 units + stories + picture dictionary) · Activity Book is the current book · Teacher Book queued · G2–12 queued |
-| India | Grades 1–12, one book each (12) | queued — front running |
-| Bangladesh | English G1,2,3,4,5,6,8,9,10 (9, gaps) | queued — front running |
-| Ghana | English Language G1–7 (28 incl. guides/workbooks) | queued — front running |
-| Palestine | English G1 (parts), G2, G5, G10, G12 (8) | queued — front running |
-| Nicaragua | English G1–10 modules + activity books (17) | queued — front running |
-| North Macedonia | English G2 (1) | queued — front running |
+| Egypt | KG1, KG2, Primary 1–6, Prep 7–9, Sec 10–12 (26) | KG1 + KG2 + Primary 1 Term 1 + Term 2 READ COMPLETE 2026-10-25 · Primary 2+ queued |
+| Libya | Grades 1–12 Pupils/Activity/Course/Work/Teacher (28) | G1 Pupils READ COMPLETE 2026-10-25 (all 9 units + stories + picture dictionary) · G1 Activity READ COMPLETE 2026-10-25 · Teacher Book is the current book · G2–12 queued |
+| India | Grades 1–12, one book each (12) | queued (an early parallel front's notes sit in the work folder, unchecked, for this book's turn) |
+| Bangladesh | English G1,2,3,4,5,6,8,9,10 (9, gaps) | queued (same early-front notes note as India) |
+| Ghana | English Language G1–7 (28 incl. guides/workbooks) | queued (same early-front notes note as India) |
+| Palestine | English G1 (parts), G2, G5, G10, G12 (8) | queued (same early-front notes note as India) |
+| Nicaragua | English G1–10 modules + activity books (17) | G1 Activity Book 1 + Multigrado READ COMPLETE 2026-10-25; basics filed · rest queued |
+| North Macedonia | English G2 (1) | queued — book not opened yet; portal link dead, held copy in the textbooks library (see books/README.md) |
 | China | English G3–12 (9 in tsv; teacher+student) | queued — starts at G3, no KG/G1/G2 English |
 | Mongolia | English G5–10 (6) | queued |
 | Bolivia | English G7, G12 (3) | queued — no early English |
