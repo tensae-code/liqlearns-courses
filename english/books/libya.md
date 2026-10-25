@@ -4111,3 +4111,536 @@ Grade 7, checking its files first — the grade-07
 Pupils URL returned only 146 bytes on the 2026-10-25
 control check, so its record needs a fresh look
 before any reading.
+
+# Libya — English Grade 7 (Preparatory 1): Course Book, WorkBook
+
+Record check first, per the G4 lesson: the grade-07
+record names a **Course Book + WorkBook** pair, not
+Pupils/Activity — `07_English_for_Libya_Course_
+Book.pdf` and `07_English_for_Libya_WorkBook.pdf`
+at liasinstitute.com. Both downloaded as real PDFs
+(Course Book 11,406,428 B, 88 pp; WorkBook
+4,499,265 B, 104 pp). The 146-byte scare belonged
+to a guessed Pupils_Book URL, not to the record.
+
+### Grade 7 Course Book
+
+88 pp, image-only — **READ COMPLETE 2026-10-25**
+(read in full from rendered pages; **book p. = PDF
+p. − 2**). Identity: "ENGLISH FOR LIBYA —
+**Preparatory 1** — Course Book — Jenny Quintana,
+Helen O'Neill and Fiona McGarry", State of Libya,
+Ministry of Education, CERC; imprint "Materials
+development by **Garnet Publishing Ltd**… **First
+published 2007, Reprinted 2018**", code **LP1 CB
+18**; school year 2019–2020 (1440–1441 AH). So the
+Preparatory line is the same 2007 Garnet course as
+Primary 6 (Quintana again), reprinted — while
+Primary 1–5 carry the new 2019 "21st Century"
+course. Shape: **ten units of eight lessons each**
+(lessons numbered 1.1–10.8, exercises lettered A, B,
+C…, Look! boxes as before), a two-page scope table
+up front (topic / vocabulary areas / language /
+functions / example skills activities per unit —
+kept in this map's unit lines), real photographs
+mixed with drawings, and two ruled writing pages at
+the end. Cast: **Hasan (12, Tripoli)** and his
+sister **Nisrin (5)**; **Ali** — 11 in 1.1, **twelve
+in his own 1.8 story** (both as printed) — with
+brothers **Khalid/Khaled (9)** and **Mustafa (14)**;
+their father **Mohammed**, a doctor, and mother
+**Laila** (named in 9.8); **Aisha, Fatima, Hala,
+Alia, Sameera, Salwa, Huda, Amna**; **Omar, Ahmed,
+Naser, Fahmi, Abdullah, Sam**; and the English
+children **Jack** (cousins **Lucy 13, James 15,
+Adam 19**; grandparents in Manchester, uncle and
+aunt in London) and **Joe, Tom**.
+
+Contents: U1 Hobbies and routines (p.5) · U2 Family
+and jobs (p.13) · U3 Likes and dislikes (p.21) · U4
+At home and around town (p.29) · U5 Clothes and
+shopping (p.37) · U6 Animals and nature (p.45) · U7
+Past and present (p.53) · U8 Food and health (p.61)
+· U9 Dates and birthdays (p.69) · U10 A long time
+ago (p.77, the revision unit).
+
+**U1** — 1.1 I'm Hasan (self, sister, friends; the
+third question is new: **Where do you live?**). 1.2
+Times of day: morning/afternoon/evening/night by
+sun pictures; Hasan's family in six third-person
+sentences ("Hasan walks to school at seven o'clock
+in the morning." · "Nisrin does not go to school.
+She plays at home in the morning." · "Her brother
+does his homework."); Look!: **in** the morning /
+afternoon / evening but **at** night. 1.3 activity
+phrases (go swimming, cycle, listen to music,
+watch TV, play table tennis, go shopping, read, do
+homework) + Jack's and Lucy's routines ("I cycle
+to school every morning. I play table tennis or go
+swimming in the afternoon. I do my homework late
+in the evening." · "I read books in the afternoon
+and sometimes I go shopping…"). 1.4 Aisha's day in
+picture-clock sentences with **figure times**
+(starts school 7.30, home 1.15, music 3.15,
+shopping 4.45, homework 8.30 — three captioned, the
+rest to make). 1.5 days of the week **Saturday-
+first** (Saturday…Friday); "What day is it today?
+— It's Wednesday."; a Saturday-first Timetable
+(five sports + Friday "go to the mosque"); first
+**they** ("They play football every Wednesday.").
+1.6 an interview printed in two split columns
+(questions one side, answers the other): "What
+games do you play? — I play basketball. — When do
+you play? — On Tuesdays and Thursdays. — Where do
+you play? — At school." + a second about reading
+and cycling; Look!: "every day · every Tuesday =
+on Tuesdays". 1.7 **can/can't** for ability: ten
+phrases (swim, ride a bike, make cakes, drive a
+car, fly, paint pictures, play tennis, sing a
+song, speak English, read and write English);
+Look!: "He can drive. He can't ride a bike. She
+can paint. It can swim."; "Can you …? — Yes, I can.
+/ No, I can't." 1.8 **Ali's autobiography** in
+full: "My name is Ali. I am twelve years old and I
+live in Tripoli. I have two brothers. Their names
+are Khalid and Mustafa. Khalid is nine and Mustafa
+is fourteen. We live in a big house near a park. I
+like going to the park on Fridays with my family.
+I get up at quarter past six every day. After
+breakfast, I go to school with my friend, Hasan. I
+play table tennis on Mondays and football on
+Wednesdays. Football is my favourite game. I like
+riding my bike, too. I can ride a bike, but I
+can't ride a horse." + build-your-own questions
+from stubs (How old …? How many …? When does …?).
+
+**U2** — 2.1 have got over Aisha's family ("Have
+you got any sisters? — Yes, I've got an older
+sister. She's fourteen… I've got one younger
+brother. He's ten." · "Who else is in your family?
+— Just my mother and father. I haven't got any
+grandparents." · two cars — "My father's got a big
+car and my mother's got a small one." · "We've got
+a big flat."); Look! full→short as an **arrow**:
+"I have got → I've got · She has got → She's got ·
+My father has got → My father's got · I have not
+got → I haven't got". 2.2 Jack's family (grand-
+parents, grandfather, grandmother, uncle, aunt,
+cousins — Lucy 13, James 15, Adam 19) + questions.
+2.3 jobs (doctor, teacher, policeman, farmer,
+student, fireman, shopkeeper, nurse) matched to
+faces; "What does your father do? — He's a
+farmer." 2.4 jobs again + their tools pictured
+(cap, stethoscope, thermometer, scales, book bag,
+plans and pen, tractor, tape measure): "Whose is
+this? — It's the teacher's." 2.5 **It's mine!** —
+a bag-and-ruler dialog; Look! arrow: "It's my pen
+→ It's mine · your → yours · his → his · her →
+hers". 2.6 A doctor's day: order six pictures of
+Mohammed's day, retell with given words; Look!
+frequency placement: "He **always** gets up early.
+He **sometimes** reads the newspaper. He **never**
+drinks coffee." 2.7 Ali is ill: headache,
+stomachache, temperature + the mother dialog in
+full ("What's the matter, Ali? — I feel ill. —
+Have you got a headache? — No, I haven't. — Have
+you got a stomachache? — No, I haven't. — Are you
+hot? Have you got a temperature? — Yes, I think
+so."). 2.8 Who am I?: four first-person job
+riddles + a guess-who game about the class.
+
+**U3** — 3.1 numbers: tens to **a hundred** on a
+speedometer; sums spoken in words ("Fifteen plus
+seven **equals** twenty-two."), eight printed sums
+to judge right or wrong (two are wrong on purpose:
+20 + 13 = 35, 30 + 26 = 29). 3.2 How much is it?:
+numbers to hundreds and **halves** (173, 258, 369,
+428, 7½, 9½); Look!: "101 = a hundred and one ·
+200 = two hundred · 5½ = five and a half" and "LD
+= Libyan Dinars"; priced goods (bicycle 80 LD,
+television 120 LD, radio 21 LD, computer 400 LD,
+CD player 30 LD, trousers 12 LD, camera 48 LD,
+watch 15 LD, CDs 1 LD **each**, motorbike 400 LD);
+"How much is the television? — It's 120 LD. · How
+much are the CDs? — They're 1 LD each." 3.3
+**British money**: real coin pictures (1 penny ·
+2, 5, 10, 20, 50 pence · 1 pound = 100 pence) +
+Lucy's shop dialog, which ends in a sum ("Can I
+have a chocolate bar and two apples, please? —
+Here you are. That's …" — 40p + 2 × 30p; "How much
+does Lucy pay?"). 3.4 **Can I borrow …?** — three
+dialogs to complete with three refusal lines ("No,
+sorry. It's my brother's." · "I need it." · "No,
+sorry. I only have one."). 3.5 like + -ing about
+seven pictured people, matched by clues ("She
+likes going to the beach, but she doesn't like
+swimming."). 3.6 **collocations**: play / ride /
+go / make matched to shopping, cakes, a bike,
+computer games, a horse, volleyball, salads, to
+the beach; "Do you like playing table tennis? —
+Yes, I do. / No, I don't."; report your partner to
+the class. 3.7 **want to / Let's**: Hasan–Ali
+dialog + a conversation frame (Ask: Do you want
+to …? · Answer: No, it's too cold / too hot / I
+don't like … / I can't … · Suggest: Let's …). 3.8
+three trip adverts as reading (Beach trip · City
+trip · Lake trip) matched to picture strips.
+
+**U4** — 4.1 Ali's room: find the furniture; new
+positions **behind, in front of, between, under**;
+ten read-and-point sentences; Look!: "What **is**
+it? / What **are** they?" 4.2 Fatima's house
+cutaway + her text in full: "I live in a house in
+a village. Our house is big and it is near the
+sea. **Downstairs**, there is a kitchen, a dining
+room and a sitting room. **Upstairs**, there are
+three bedrooms, a bathroom and a toilet. You can
+see my father, my mother and my three brothers in
+this picture." (the matching answers also use
+"living room" for the same room — both words in
+the book). 4.3 a block town plan (bookshop,
+toyshop, cinema, car park, bank, café,
+supermarket, block of flats): six sentences, **correct the three wrong ones**; then a memory game
+with the partner's book closed. 4.4 travel: by car
+/ by bus / walks / cycles / by taxi / runs matched
+to people (Alia, Khaled, Sameera, Hasan, Laila,
+Omar); "How do you travel to school? / the
+mosque? / the mall?" 4.5 Signs: Turn left · Turn
+right · Go straight on; Look! imperatives: "Turn
+right. / **Don't** turn right. · Run. / **Don't**
+run or **No** running."; prohibition signs talked
+about ("Don't park here."). 4.6 eight town
+buildings matched (mosque, book shop, cinema,
+bank, park, supermarket, post office, café); talk
+frames ("There's a supermarket, but there isn't a
+cinema." · "The supermarket is in the town
+centre."). 4.7 a town map + the directions
+exchange in full: "Excuse me. Can you tell me the
+way to the post office? — Oh, yes. It's not far.
+Walk along this street. Turn left at the
+supermarket. Go past the café and then cross the
+road. Turn right and go straight on. The post
+office is on the left." (the intro names Fatima
+visiting Salwa; the bubbles give the asking to
+Amna — as printed). 4.8 **The teacher's letter**:
+a dialog story — the teacher asks Ali to take a
+letter to the bank ("Can you take this letter to
+the bank, please? — Yes, of course, sir. — Thank
+you. Don't forget. It's important."), Abdullah's
+new bike distracts him, the letter is lost —
+"Where's my teacher's letter? I know! It's …" —
+and the class **chooses the best ending** (At
+school. / At Abdullah's. / At the bank.).
+
+**U5** — 5.1 clothes grow (trousers, jacket, belt,
+shirt, scarf, tie, skirt, jumper, T-shirt +
+trainers, pairs); "What's it like? — It's a red
+tie. · What are they like? — I've got an old pair
+and a new pair."; Look! arrow: "The tie is red. →
+It's a **red tie**." 5.2 **wearing**: "Ali's shirt
+is white. → He's wearing a white shirt. His
+trousers are blue. → He's wearing blue trousers.";
+identify Ali/Hasan/Ahmed and Fatima/Hala/Alia from
+descriptions; a second Look! shows **lists joined
+with commas and and** — the repeated "He is
+wearing" crossed out line by line: "He is wearing
+a blue shirt, white socks and black shoes." 5.3
+What's happening …?: eight "now" pictures + the
+book's first full grammar table, **Present
+continuous tense** (I am/am not · You/We/They
+are/are not · He/She/It is/is not + -ing; questions
+Am/Are/Is … drinking water?). 5.4 a café scene
+read-and-find text ("It's 7 o'clock in the
+evening. The boys are in a café. Ali is wearing
+blue trousers and a white shirt. He is drinking
+orange juice. Ahmed is wearing a purple shirt and
+grey trousers. He is eating an apple.") + close-
+your-book memory questions. 5.5 Choosing clothes:
+three want/get dialogs (too big / too expensive /
+too small — "What does Fatima **want**? What does
+she **get**?"); Look! **this / these / that /
+those** drawn as pointing hands, near and far. 5.6
+**was**: five clock-and-place sentences ("I was in
+the café at quarter to six." · "I was at school at
+two o'clock." · "I was at home at four o'clock." ·
+"I was in the shoe shop at quarter past five." ·
+"I was in the supermarket at half past five.");
+Look!: **at** home, **at** school, **in** the shoe
+shop. 5.7–5.8 **The yellow shirt**: a two-page
+comic story — Omar and Ahmed shop for a shirt
+(twenty dinars too expensive; a yellow one at six
+dinars bought), and at home the shirt is too big:
+the shop mixed them up ("Oh no! Look, Ahmed! It's
+too big. I've got that man's shirt." · "And that
+man's got your shirt!") — then "Act out the
+story."
+
+**U6** — 6.1 body parts (head, neck, arm, hand,
+leg, feet) on a person + **real photographs** (fish,
+tiger, monkey, elephant, snake, giraffe) +
+description riddles ("It's tall. It's got a long
+neck and a small head. It's got four long legs.
+It can run fast, but it can't fly. What is it?" ·
+"It's big and dangerous. It's got black stripes. ·
+It's small and orange. It's got two eyes, but it
+hasn't got any ears or feet. It can swim but it
+can't fly."). 6.2 more photo animals (butterfly,
+rabbit, goat, horse, cheetah, elephant) + the
+guessing dialog (Has it got four legs? — Yes, it
+has. · Can it run? — Yes, it can. · Is it a rabbit?
+— No, it isn't! · Is it an …? — Yes, it is!);
+Look! the three It frames (It is / It can / It has
+got, statement and question). 6.3 Where do they
+live?: habitat sentences matched to photos
+(baboons, mountain goats, camels — "They can live
+in very hot, dry places." · "They eat plants,
+grass, paper and even clothes!" · "They usually
+live in trees and eat fruit and nuts."); Look! the
+full frequency ladder (always / usually / often /
+sometimes / never). 6.4 In the desert: a
+description text with questions about its picture
++ the unit's key Look!: "What **do** camels **do**?
+Camels **drink** water. (always) · What **are** the
+camels **doing**? Two camels **are drinking**
+water. (in the picture)" — always-true against
+in-the-picture-now. 6.5 weather: sun, cloud, rain,
+snow, wind, wet, dry; "What's the weather like?" —
+"The sun is shining. · A wind is blowing. · It is
+snowing. · There are clouds in the sky. · It is
+raining."; Look! **noun → adjective** table (wind
+→ windy, sun → sunny, rain → rainy, cloud →
+cloudy). 6.6 seasons: four England pictures;
+"There are four seasons in England." then Talk
+about Libya, season by season, + favourite season.
+6.7 months on **two season wheels — England and
+Australia**, the Australian seasons reversed;
+"There are twelve months in a year. January is
+the first month and December is the last." 6.8 a
+six-question **Nature quiz** (multiple choice with
+photos: a butterfly has six legs; cheetahs run
+very fast; goats sometimes eat paper; snakes like
+hot, dry places; plants start growing in spring;
+leaves change colour in autumn).
+
+**U7** — 7.1 **past simple opens**: time phrases
+(This morning · Yesterday afternoon · Last
+Saturday · Last Monday · On Tuesday evening ·
+Last Friday) matched to -ed sentences (played,
+watched, listened, visited, phoned, prayed) over a
+Friday-to-Thursday calendar; "What did Hasan do
+yesterday afternoon? — He played football." 7.2
+**Omar's diary** in full (Wednesday: school,
+football with Ahmed and Ali, home, TV; Thursday:
+the doctor's, home, telephoned friends, computer
+games with his brother) + Was/Did questions with
+short answers (Yes, he was. / No, he wasn't. / Yes,
+he did.); question-building from fragments; Look!
+present → past arrow (am/is → was, are → were, do
+→ did). 7.3 Present and past: six paired panels,
+the verb in red in both tenses — **drink/drank,
+do/did, have/had, buy/bought, go/went,
+drives/drove**; make both questions ("What does
+Ali drink in the morning?" / "What did he drink
+this morning?"). 7.4 the beach conversation in
+full (Omar interviews Ahmed: boat, Hasan's father
+**caught** some fish — catch/caught captioned by
+the picture — cooked the fish, bread and salad,
+drank lots of water, a long walk, home at five,
+homework; sequencers First… Then… after that) +
+a guessing game (Did you watch TV? — No, I
+didn't.); Look!: didn't = did not. 7.5 opinions:
+"What did you think of **it**? — I liked **it**.
+**It** was very interesting." / "I didn't like it.
+It was too sweet." / "…too long." — **it** printed
+in blue with "Look at the blue words. What do
+they mean?"; Look!: very sweet against too sweet.
+7.6 The park: Mustafa's story in five clock
+panels (left home at quarter to five, walked to
+the park, waited — "He waited for an hour. His
+friends didn't come." — home at six, phoned Ahmed
+at seven: "Where were you?") + guess Ahmed's
+excuse from four lines, listen and check +
+questions (How long did he wait?). 7.7 The
+castle: a **real photograph of Tripoli's castle**
+(the Red Castle on the harbour) + Fatima's day
+out as a **picture-rebus text** — the verbs are
+pictures to be spoken in the past (car = drove,
+museum, walking figures = walked, smiley = liked,
+banknote = bought, eyes = watched, book = read,
+cooking pot = cooked): "Last Thursday, Fatima's
+father [drove] to Tripoli with Fatima and her
+brothers. First, they went to the [museum] and
+looked at the old pots and jewellery. Then they
+[walked] around the castle. Fatima [liked] the
+jewellery best. After that, they went to the park
+and [bought] some ice-creams. In the evening, they
+went home and Fatima [watched] a film on TV while
+her father [read] the newspaper and her mother
+[cooked] dinner." + close the book and retell.
+7.8 A new job: reorder the six doctor's-day
+pictures (the 2.6 art again) and retell; Look!
+sequencers (First, he… Next, he… Then, he…
+Finally, he…) + the spelling trap (present read →
+past **read**, same spelling).
+
+**U8** — 8.1 **countable / uncountable** as a
+two-column picture table headed "Things you can
+count / Things you can't count" (sweets, an egg,
+four tomatoes, two bananas, a melon — chicken,
+rice, salad, cheese); Look!: an egg · three eggs ·
+some eggs · some salad · some cheese; "Can I have
+an apple, please? — Yes, you can. / No, sorry.
+They're finished." 8.2 In the café: menu words +
+a four-panel ordering story; Look! containers (a
+cup of tea, a glass of juice, a bottle of water, a
+packet of biscuits); the waiter's repeat-back
+("That's one apple juice, …") to complete. 8.3
+**some / any**: Jack and Sam's cycling picnic
+dialog in full ("There's some cheese and a bottle
+of water. — Are there any sandwiches? — No, there
+aren't any sandwiches, but there is a packet of
+biscuits. — Oh, good. Is there any juice? — No,
+there isn't, but there's some fruit. There's a
+**bunch of** grapes and two apples."); Look! the
+three-line rule (There are **some** sweets. ·
+There aren't **any** sweets. · Are there **any**
+sweets?). 8.4 Making a cake: ingredients; **much /
+lots of** inside the mother dialog ("There are
+lots of eggs and I've got a bag of flour. Oh, dear!
+There isn't any milk… Yes, there's not much oil.
+Can you get a litre, please? And I need a kilo of
+apples."); Look! measures (a bag of flour, a kilo
+of apples, a litre of oil, a carton of milk); pick
+Ali's true shopping list from three. 8.5 On
+holiday in Italy: Jack's phone call home in full
+(present continuous for now — "Are you having a
+good time?" — Italy hot and sunny against England
+"horrible — raining and cold", "Don't eat too
+much ice-cream. Eat lots of healthy fruit and
+salad."); five adjectives to guess from the talk
+(lucky, delicious, healthy, fantastic, horrible);
+Look! in pictures: lots of fruit · **too many**
+cakes · **too much** homework. 8.6 a **Health
+questionnaire**: six multiple-choice questions
+(How often do you eat salad and vegetables? —
+every day / two or three times a week / never …),
+then ask your partner, then the teacher says how
+healthy you are. 8.7 chores: eight phrases (make
+lunch, tidy the bedroom, sweep the floor, clean
+the kitchen, water the plants, wash the dishes,
+answer the telephone, look after the baby) +
+frequency with **hardly ever** added (always /
+often / sometimes / hardly ever / never). 8.8
+**I'll sweep the floor**: **will** for offers made
+on the spot, in a family dialog in full (Father is
+taking Mum to the hospital; Salwa: "I'll make
+lunch and clean the kitchen." · Aisha: "I'll sweep
+the floor." · "I'll look after you, Naser. We'll
+water the plants." · "Can someone answer the
+phone? — I'll do it.").
+
+**U9** — 9.1 dates on a May calendar (Saturday-
+first columns): ordinals **first to twentieth**
+listed, compounds spoken (the twenty-fourth of
+May, the thirty-first of May); "It's my birthday
+on 6th May." · "We're going to the lake for the
+weekend on the twenty fifth of May."; "What day is
+the fifth of May? — It's a Friday." · "What is the
+date today?" 9.2 **Hala's invitation letter** in
+full, with the reading move taught first — look at
+the questions, then read: "Dear Fatima, Would you
+like to come to my party? My birthday is on
+Saturday the sixth of May, but the party is on
+Sunday the seventh. It starts at four o'clock and
+it finishes at six o'clock. My house is next to
+the post office. You can bring a friend. Best
+wishes, Hala". 9.3 suggestions: a full Fatima–
+Aisha dialog + a **named function table**,
+"Suggesting things to do" (Would you like to /
+Shall we / Let's × go / play × shopping? / to the
+park? / a game.). 9.4–9.5 Choosing a present: a
+shop window to search (a doll, toys, a box of
+paints, a scarf, a belt, a book, a chess game, a
+notebook, sandals) + the choosing dialog ("What
+shall I buy for Hala? — How about a toy? — Hala
+doesn't play with toys. She's thirteen. — OK. How
+about a belt? — No. It's too expensive. — That
+scarf looks nice. — No. I don't like it. — All
+right. How about a box of paints? — That's a good
+idea! She likes painting. I'll buy the paints.")
++ refusal frames (It's too … · He doesn't like … ·
+She doesn't play with …). 9.6 At the weekend: Sam
+and Joe hear the forecast ("Good news! It **will
+be** sunny and hot all over England this
+weekend.") and plan with will (we'll ask Tom…
+we'll walk… "How long will it take? — About two
+hours." "I'll take my fishing rod." "I'll go and
+phone Tom."); a lake picture carrying real signs
+(PLEASE HAVE YOUR PICNIC HERE · FISHING ·
+SWIMMING · TOILETS). 9.7 At the lake: the planned
+trip as an **eight-picture wordless story** (Sam
+falls, hurts his foot, can't walk or be carried;
+Tom goes for help; a truck is stopped; they drive
+home) told from a phrase bank — **couldn't**
+arrives inside it. 9.8 **Mohammed's letter** from
+England in full (dated "Wednesday 31st May": "Dear
+Laila — My plane arrived yesterday at eleven
+o'clock. I went into London by underground train.
+That was interesting. It took about an hour. I am
+staying at a very nice hotel in West London. I met
+Dr Williams for lunch today and he showed me the
+hospital. Tomorrow I am going to the conference.
+I'll phone on Friday to tell you about it. I want
+to visit my cousin on Sunday. He lives near here
+and I can go there on a London bus! Say 'hello' to
+the children. I'll see you all next Tuesday. —
+Mohammed") with a real photograph of a London
+underground platform + six When questions — past,
+present and future inside one real letter.
+
+**U10 A long time ago (revision)** — 10.1 three
+real-style posters to read for facts (DINOSAUR
+EXHIBITION, 15th March – 30th June at the Science
+Museum, open 9.30–5.30 Monday–Saturday · Kite
+festival at Windy Hill Park, FREE ENTRY, 4th May,
+11.45 onwards · Bird SAFARI at the zoo, OPEN
+10.00–7.00, under fives go free) — the questions
+live in the WorkBook. 10.2 Jack and Lucy negotiate
+a day out against the weather, re-using the year's
+suggestion language ("I'd like to go to the kite
+festival."). 10.3 dinosaurs: anagrams first (ital
+→ tail, cenk → neck, veeals → leaves, lntaps →
+plants), then two fact texts with measurements
+("Dinosaurs lived a long time ago. This dinosaur
+was very big. It was about **twenty metres** long.
+It had four legs. It had a long tail, a long neck
+and a small head. It ate leaves and plants." ·
+"This dinosaur was about **thirteen metres** long.
+It had two legs and two small arms. It had a big
+head. It ate meat."). 10.4 a museum floor plan
+(plant room, dinosaur room, animal room, Roman
+room, Egyptian room, cafe, shop, entrance) with
+photos (an old pot, a fossil, a cup of coffee) +
+directions talk ("Excuse me, can you tell me the
+way to the dinosaur exhibition? — Yes, it's next
+to the plant room. Go straight on past the
+Egyptian room and the Roman room."). 10.5 life
+events as present/past pairs (is born / was born ·
+move / moved house · fall / fell off) + Ali's life
+in dialog ("When I was two, my brother Khaled was
+born. I started school when I was six… When I was
+seven, we moved house… I got a bike when I was
+eight. When I was nine, I fell off it and hurt my
+arm."); Look!: "You can join two ideas with
+**When**." 10.6 Photo album: a beach photograph
+talked about in the present continuous. 10.7–10.8
+six **real photographs** of places (at home · at
+school · at the doctor's · at the café · at the
+clothes shop · at the cinema) + six mini-
+conversations — one per earlier unit (borrowing,
+a film opinion, a price, a shall-offer of help, a
+café order, the doctor) — to match to the
+pictures: the year's functions in one round-up.
+
+**Libya Grade 7 Course Book — READ COMPLETE
+2026-10-25.** Next: the Grade 7 WorkBook (104 pp).
