@@ -798,7 +798,7 @@ with the "Where is the …? The … is … the …" pattern, the legs
 counting ("A tiger has 4 legs."), and the glossary's own definitions
 are recorded here for the Word and Sentence titles in ladder order.
 
-## Primary 1 Term 2 — full read in progress (started 2026-10-25)
+## Primary 1 Term 2 — full read COMPLETE 2026-10-25 (all 112 pages)
 
 Book: English_Prim1_Tr2.pdf — 3,657,055 B, 112 pp, image-only.
 **Page rule for THIS book (verified from the renders): one book page
@@ -1460,6 +1460,182 @@ and Sentence titles in ladder order. The /ʌ/ families (-ug, -un, -ut)
 — completing all five short vowels — and the (l) blends (cl, bl, fl,
 sl) are filed in the book map above and noted in the-alphabet
 sources — Word-step material.
+
+### P1T2 Unit 6 "Story: Two Friends and One Apple" + Review 2 + Glossary + back cover — page by page (PDF pp.102–112; read 2026-10-25)
+- p.102 Unit opener + Learning Outcomes: identify story elements;
+  answer comprehension questions about story elements; discuss the
+  feelings of characters at different points of the story; discuss
+  the moral of the story; recognize sight words. (Per the Scope and
+  Sequence this unit has no new Language or Phonics — it re-uses the
+  whole year.)
+- **The story itself** (pp.103–104) — the year's first full story,
+  told in the past tense, five pictures with text under each:
+  - p.103 "Two Friends and One Apple" · "One sunny morning, Omar and
+    Sara went to the park. They were running, playing, and having
+    fun!" · "Sara found a big, shiny red apple. She held it happily
+    in her hands." · "Omar saw Sara holding the apple. He felt a
+    little sad because he didn't have one." · **Sight words: a – it
+    – in – he – have – and – to – the**.
+  - p.104 "Sara noticed Omar's sad face. She wanted to make him
+    happy. So, she took the apple and carefully split it into two
+    pieces." · "Sara gave one half of the apple to Omar and kept one
+    half for herself. Omar said 'Thank you, Sara'. His smile came
+    back, and they both enjoyed the apple together. They learned
+    that sharing makes everyone happy!" · **Moral (printed in its
+    own box): "It's always kind to share with others."** · **Sight
+    words: he – to – so – the – and – it – of – for – you – they**.
+- p.105 **Story Elements** — the book teaches the parts of a story
+  by name, kept here as printed: "1. Characters (Who?) • Omar •
+  Sara. 2. Setting (Where & When?) • In the park • One sunny
+  morning. 3. Problem (What's wrong?) • Omar felt sad because he
+  didn't have an apple. 4. Events (What happens?) • Omar and Sara
+  played in the park. • Sara found a big red apple. • Omar felt sad
+  when he saw the apple as he didn't have one. • Sara noticed his
+  sadness. • Sara split the apple into two pieces. • She gave one
+  half to Omar. 5. Solution (How is the problem solved?) • Sara
+  shared the apple with Omar. 6. Ending / Lesson (What do we learn?)
+  • Omar was happy again. • They enjoyed the apple together. •
+  Sharing makes everyone happy!" · Ex.1 Put in Order — number the
+  sentences 1–4 ("Sara gave half the apple to Omar. / Sara found a
+  red apple. / Omar and Sara went to the park. [given: 1] / Omar
+  felt sad.").
+- p.106 Ex.2 Listen and circle the correct answer — six questions
+  about the story with two printed answers each ("Who are the
+  characters in the story? Sara and Ali / Sara and Omar · Where
+  does the story happen? in the park / at home · What does Sara
+  find? A banana / An apple · How does Omar feel when he sees the
+  apple? happy / sad · What does Sara decide to do? eat the apple /
+  share the apple · How do the friends feel at the end? happy /
+  sad") · Ex.3 Speaking — discuss with your teacher ("Characters:
+  What are the names of the characters in the story? Place: Where
+  did the story take place? Problem: What was the problem in the
+  story? Solution: How did Sara solve the problem? Moral: What
+  lesson did you learn?") · Ex.4 Match each picture with the correct
+  word (apple, happy face, sad face, Sara, Omar → sad, Sara, apple,
+  Omar, happy) · Ex.5 **Role Play: Act out the story with a
+  friend.**
+- **Review 2** (pp.107–110) — covers Units 4–6:
+  - p.107 Ex.1 Read the word, then circle the correct picture (dog,
+    bin, lip, hot, fin, jug, mop, log — the learner reads each
+    printed family word first, then finds its picture among three;
+    several wrong pictures are other family words' pictures).
+  - p.108 Ex.2 Check (✓) the correct word from three printed words
+    (sun: sun/fun/bun — **fun** appears here, a word never taught,
+    used only as a wrong choice; big elephant: dig/big/fig; dig:
+    big/fig/dig; hot: pot/dot/hot; fig: fig/big/dig; hut: cut/hut/
+    nut; pot: pot/dot/hop; run: fun/bun/run).
+  - p.109 Ex.3 Check (✓) the correct blending letters (skip:
+    bl/sk; slide: sl/fr; swing: sw/fl; flag: fl/cl; snail: sl/sn;
+    black: bl/st) · Ex.4 Choose the correct consonant blend from
+    three (snail: fl/sn/st; flag: sw/bl/fl; slide: fl/sw/sl; strong:
+    st/sl/sk; clock: cl/sn/bl; black: sn/cl/bl) — all eight blends
+    of the year mixed together.
+  - p.110 Ex.5 Circle the odd one out (three rows of four pictures:
+    rooms with a cap among them; town buildings with a mug among
+    them; visit places with a banana among them) · Ex.6 Match the
+    word with the picture (jump, throw, run, swim).
+- p.111 **Glossary** — one page, the year's words A–Z with the
+  book's own definitions, kept word for word: angry "feeling or
+  showing anger" · animals "any of a kingdom of living things
+  composed of many cells typically differing from plants in capacity
+  for active movement" · bathroom "a room containing a bathtub or
+  shower and usually a sink and toilet" · beach "a sandy or gravelly
+  part of the shore of a body of water" · bed "a piece of furniture
+  on which to lie or sleep" · bedroom "a room used for sleeping" ·
+  bread "a baked food made of flour" · breakfast "the first meal of
+  the day" · brush "to clean, smooth, or scrub with a brush" ·
+  building "a permanent structure built as a dwelling, shelter, or
+  place for human activity or for storage" · bus "a large motor
+  vehicle for carrying passengers" · car "a vehicle moving on
+  wheels" · catch "to capture or seize in flight or motion" · chair
+  "a seat with legs and a back for use by one person" · chicken "the
+  common domestic fowl, its flesh used as food" · closet "a cabinet
+  or small room for clothing" · cloudy "covered over by clouds" ·
+  cold "having a low temperature or one much below normal" · cook
+  "to prepare food for eating especially by the use of heat" · couch
+  "a piece of furniture (as a sofa) that one can sit or lie on" ·
+  dig "to hollow out or form by removing earth" · dining room "a
+  room used for eating meals" · dinner "a light meal eaten at night"
+  · drink "to swallow liquid" · eat "to take into the mouth and
+  swallow food" · fall "the season between summer and winter that
+  usually includes the months of September, October, and November" ·
+  fridge "a device or room for keeping articles (as food) cool" ·
+  happy "enjoying well-being and contentment" · hospital "an
+  institution where the sick or injured are given medical or
+  surgical care" · hot "having a high temperature" · juice "the
+  liquid part that can be squeezed out of vegetables and fruits" ·
+  jump "to spring into the air" · kitchen "a room in which cooking
+  is done" · living room "a room in a house for general family use"
+  · lunch "the main meal eaten in the middle of the day" · mask
+  "something you wear to cover your face" (mask is in the glossary
+  only — it appears in no lesson, the same glossary-only pattern as
+  Term 1) · oven "a chamber (as in a stove) used for baking,
+  heating, or drying" · park "an area maintained in its natural
+  state as a public property" · rainy "having much rain" · rice "a
+  grass widely grown in warm wet areas especially for its seeds
+  which are used for food" · run "to go at a pace faster than a
+  walk" · sad "filled with or expressing grief or unhappiness" ·
+  sandwich "one or more slices of bread or a roll with a filling or
+  spread" · scared "thrown into or being in a state of fear, fright,
+  or panic" · school "a place or establishment for teaching and
+  learning" · shop "a building or room where goods are sold retail"
+  · sink "a stationary basin for washing (as in a kitchen) connected
+  with a drain and usually a water supply" · soup "a liquid food
+  with stock as a base and often containing pieces of solid food" ·
+  spring "the season between winter and summer that usually includes
+  the months of March, April, and May" · street "a public way
+  especially in a city, town, or village usually including
+  sidewalks" · summer "the season between spring and autumn that
+  usually includes the months of June, July, and August" · sunny
+  "bright with sunshine" · surpised [sic — spelled so in the
+  glossary, as on p.25] "feeling or showing surprise because of
+  something unexpected" · swim "to move through water by moving arms,
+  legs, fins, or tail" · table "a piece of furniture with a smooth
+  flat top fixed on legs" · throw "to send through the air
+  especially with a quick forward motion of the arm" · tired
+  "drained of strength and energy" · toilet "a fixture that consists
+  usually of a bowl that is flushed with water and a seat" · truck
+  "a wheeled vehicle for moving heavy articles" · TV "a television
+  receiving set" · warm "having or giving off heat to a moderate or
+  adequate degree" · watch TV "to keep one's eyes on TV" · windy
+  "having strong winds" · winter "the season between fall and spring
+  that usually includes the months of December, January, and
+  February" · zoo "a garden or park where living usually wild
+  animals are kept for showing to the public".
+- p.112 Back cover: "English — Primary 1 – Term 2 — Academic Year:
+  2025/2026" · "No part of this publication may be reproduced…" ·
+  Editorial Note (same diverse-team text as Term 1) · Developed and
+  produced with the participation of the Content Department Team at
+  Selah El Telmeez Publishing and Printing Company · Reviewed by:
+  Prof. Zeinab El-Naggar, Prof. Nagwa Younis, Prof. Attia El-Sayed,
+  Dr. Mai Kamal, Ms. Amira Awaad · The Central Administration for
+  Curriculum Development: Ms. Eman Mahmoud Youssef, Ms. Nashwa Abdel
+  Aziz El feky, Dr. Amira Fawzy Ahmed, Dr. Ghada Elsayed Mohammed ·
+  General Supervision: Dr. Akram Hassan Mohammed, Assistant to the
+  Minister for Curriculum Development · production table (Arabic):
+  book size 19 × 27 cm; body paper 70 grams; cover paper 180 grams;
+  book colors 4; pages with cover 116 (the PDF itself holds 112
+  pages); book code 20/1/22/1/20/10 · logos: Selah El Telmeez, the
+  Tanta press (040/3282000), British Council, CACD · "All Rights
+  Reserved ©Ministry of Education and Technical Education–2025/2026".
+
+Unit 6 (Term 2) basics filed: the story "Two Friends and One Apple"
+is recorded in full above with its two sight-word strips and its
+printed moral ("It's always kind to share with others."), and the
+book's own Story Elements frame — Characters (Who?), Setting (Where
+& When?), Problem (What's wrong?), Events (What happens?), Solution
+(How is the problem solved?), Ending / Lesson (What do we learn?) —
+is kept word for word; both belong to the Story title when built.
+The Term 2 Glossary's definitions are kept word for word above for
+the Word title. Review 2 adds no new basics.
+
+**Egypt Primary 1 Term 2 — READ COMPLETE 2026-10-25 (all 112
+pages).** Together with Term 1, Egypt Primary 1 English is fully
+read: all 26 letters (Term 1's 20 in sounds order + Term 2's Ww Qq
+Vv Zz Yy Xx), two blend sets (s-blends, l-blends), word families for
+all five short vowels, sight words in every lesson, days, months,
+numbers 1–20, and the year's first full story with its story-elements
+frame.
 
 Unit 4 (Term 2) basics filed: the rooms set (bedroom, living room,
 kitchen, dining room, bathroom) with the "I … in the …" room
