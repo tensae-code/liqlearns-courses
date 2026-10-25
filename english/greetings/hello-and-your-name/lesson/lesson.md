@@ -42,6 +42,15 @@ is Maya" is a complete sentence. The book teaches you to introduce
 yourself using complete sentences — not just "Maya," but the whole
 sentence, with its ending. One idea, one whole sentence.
 
+## The same lesson, from another country
+Libya's Grade 1 book teaches its greetings in its Alphabet unit, and it
+adds the time of day: in the morning you say **"Good morning."** In the
+afternoon you say **"Good afternoon."** The greeting knows what time
+it is. And Libya's next unit opens the same door as Egypt: "Hello.
+Goodbye." — and the name question, "What's your name?" answered with
+"I'm ___." Two countries, the same shape. That is what "taught in many
+countries" looks like when it starts.
+
 ## Say it to your companion
 Read the Maya and Hana talk out loud, both parts. Then do it again with
 your own name in it. Explain to your companion: what are the three parts

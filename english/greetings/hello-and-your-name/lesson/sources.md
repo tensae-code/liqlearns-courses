@@ -20,7 +20,17 @@ PDF page holds two book pages. Both numbers are given.
 | Greetings tracing practice (following the lines) | PDF p.10 (book p.10) |
 | "Listen, point, and mark the matching picture": Hello! / Goodbye! / shake hands / play — and the match-the-word-to-the-picture exercise (play, goodbye, friends, shake hands, hello) | PDF p.11 (book p.11) |
 
-**Acceptance count for this first pass: taught in 1 country (Egypt).**
+**Second country merged 2026-10-25 — Libya:**
+English for Libya, Pupils Book Grade 1 (CERC, Ministry of Education,
+Libya; verified on disk: %PDF, 130 pp).
+- "Good morning / Good afternoon" taught inside Unit 1 Lesson 2 —
+  PDF p.10 (book p.9); also listed as Unit 1 high-frequency phrases,
+  Book Map, PDF p.5.
+- "Hello. Goodbye." and "What's your name? / I'm …" listed for Unit 2
+  (My Family), Lesson 1 opening — Book Map, PDF pp.5–6; Unit 2
+  "Now I can… say greetings, ask and answer about names" — PDF p.29.
+
+**Acceptance count: taught in 2 countries (Egypt, Libya).**
 This lesson is the first layer. Courses are built from FINISHED
 countries' books only (his ruling, 2026-10-25), and updated as the
 library updates: when a country finishes, its books merge in, its name
