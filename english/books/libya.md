@@ -7618,3 +7618,1600 @@ scale. Differences between the three books are recorded in
 each book's own section (the Rashid/Waleed name split chief
 among them). Next per the queue: Libya Grade 9 — record
 check first, then its books one at a time.
+
+---
+
+# Libya — English Grade 9 (Preparatory 3): Course Book,
+# Teacher Book, Work Book
+
+The grade-09 library record was inspected first (2026-10-25,
+per the G4 lesson): it names **three** English books — a
+**Course Book** (`english/student-book.pdf`), a **Teacher
+Book** (`english/teacher-guide.pdf`) and a **Work Book**
+(`english/workbook.pdf`), all at liasinstitute.com, collected
+2026-10-22, approval source Libya CERC. All three were
+downloaded 2026-10-25 into the work folder: Course Book
+11,985,896 B / 130 pp · Teacher Book 16,136,756 B / 162 pp ·
+Work Book 5,548,063 B / 94 pp — all real %PDFs, all different
+sizes and page counts from Grade 8's three (122 / 154 / 98),
+and the books read so far confirm a genuinely new grade, not
+a re-cover.
+
+**Series note**: Preparatory 3 continues the new "21st
+Century English for Libya" line of Preparatory 2 — full-
+colour cover photograph (a Libyan landmark at night), "Garnet
+EDUCATION", and its Course Book imprint reads "First edition,
+copyright © 2019 Garnet Publishing Ltd", the same year as the
+Grade 8 Course Book. The Bob and Bashir story strand that
+began in Grade 8's world runs through this whole book: five
+of its eight units end with a Bob and Bashir episode at the
+World Youth Camp in Australia.
+
+## Libya Grade 9 — Course Book (read completely 2026-10-25)
+
+- **File**: `09_English_for_Libya_Course_Book.pdf`,
+  11,985,896 bytes, 130 pp, from `https://liasinstitute.com/
+  PDFs/09_English_for_Libya_Course_Book.pdf`. Its text layer
+  is only the repeated Arabic rights footer, so it was read
+  in full from renders (all 130 pages at 100 dpi). **Page
+  rule: book p. = PDF p. − 1** (printed folios verified from
+  Lesson 1 = book p.8 at PDF p.9; as in Grade 8, the Contents
+  page numbers each unit from its C21 photo page).
+- **Identity**: "21st Century English for Libya —
+  Preparatory 3 Course Book", State of Libya, Ministry of
+  Education, Curricula and Educational Research Centre;
+  school year 2019–2020 (1440–1441 AH). Imprint: Garnet
+  Publishing Ltd, 8 Southern Court, South Street, Reading
+  RG1 4QS, UK — "First edition, copyright © 2019 Garnet
+  Publishing Ltd"; the imprint page names no individual
+  authors; photography credited to Alamy, iStockphoto,
+  arabianEye, Shutterstock, Superstock, Getty images,
+  Science Photo Library, Lebrecht Photo Library. Back cover:
+  components = Course Book, Workbook, Teacher's Book, Audio;
+  "For more resources, visit: www.englishforlibya.com";
+  printed by International Press, Lebanon; code **10030903**.
+- **Shape**: **eight units** — six teaching units of **eight
+  lessons each plus a Round up**, and two four-lesson
+  revision units (**Unit 4 Fun with English 1**, **Unit 8
+  Fun with English 2**), the same shape as Grade 8. Every
+  lesson ends by sending pupils to named Workbook pages.
+  Lessons carry the same icons: pairwork, groupwork, project
+  work, **Functional grammar** (gear icon), **C21 SKILLS**.
+  Each unit opens with a C21 SKILLS photo page naming the
+  unit's skills. Audio: **53 tracks** (Transcripts, book
+  pp.101–114). Back matter: **Checklist for Written Work**
+  (p.100 — a fuller version than Grade 8's, see below) ·
+  **Transcripts** (pp.101–114) · **Key Words** (pp.116–126 —
+  per-unit glossary in the Grade 8 format: word, word class,
+  phonetic transcription, plain definition) · **Phonetic
+  Symbols** (p.127 — full chart: 12 vowels, 8 diphthongs, 24
+  consonants, each with a keyword; **not listed in the
+  Contents**).
+- **The Book Map** (front, two pages) states the year's
+  structure work: U1 revision of tenses · present perfect
+  with *for* and *since* · gerunds after *like, enjoy, hate* ·
+  apostrophe before and after *s* · defining relative clause
+  with *who* · syllable stress — U2 giving advice with
+  *should* · adverbial time phrases · quantifiers *a little,
+  a lot* · *want* + noun/pronoun + *to* + infinitive ·
+  revision of *should* + infinitive — U3 *What would you
+  like to (do)? I'd like to …* · *How good are you at
+  (volleyball)? I'm quite good / I'd like to learn how to
+  play it* · past habitual *used to* + infinitive · decimal
+  numbers · comparatives and superlatives — U5 present and
+  past simple passive · names of parts of speech · present
+  passive with *can* · imperatives with *do* · stress and
+  intonation — U6 revision of tenses · future *going to* +
+  infinitive · *When* + present tense, *I am going to …* ·
+  article before names of jobs · syllable stress — U7
+  revision of future *going to* + infinitive · modals
+  *must, may, might* · revision of first conditional ·
+  revision of past simple · syllable stress · intonation.
+- **Cast**: the magazine schools — **Al-Mustafa Intermediate
+  School for Girls** (its magazine team: **Nadia, Maysam**;
+  Sarah interviews, Rasha reviews TV, Muna does school news,
+  Sally sports news — Tracks 1) and **The Intermediate School
+  for Boys** (**Mazin** the editor, **Layth** and **Usama**
+  reporters, **Tariq** photographer — Track 2) · interviewees
+  **Jack "Mr" James** of Pizza Cabin, Ashby, and headteacher
+  **Yahya Fawzi** · problem-page **Aunt Sally** and **Jill
+  (15)** · story writers **Liz Ellen (Year 8)** and **Wendy
+  Hill (Year 7)** · **Bashir Hamza (16)** of Azzawyah and
+  **Bob Walker (15)** of Ashby, whose World Youth Camp
+  stories run through the book, with organiser **Rod
+  Border**, guide **Jim Cooper**, tent-mates **Paul**
+  (France), **Chuck** (America), **Hans** (Germany), **Aziz**
+  (Algeria), and pilot **Dick Bird** · Nurse **Fawzia** and
+  reporter **Layla Ahmed** · restaurant family **Waleed,
+  Reema** and their father · **Jalal Abdullah** and his
+  brother **Ibrahim (10)** · **Hasan** and **Samir** · judo
+  writer **Samir Salih (Year 8)** · tennis players **Heyton
+  Blewitt** and **Khaleel Ibrahim** · **Anas Abdullah** ·
+  blog writer **Sawsan Ayad (Grade 8)** · **Dr Salwa** ·
+  office manager **Hanan** · job-game classes of **Miss
+  Hadeel** and **Mr Kareem** (Tracks 38) · **Firas (17)** and
+  **Mona (18)** · career writers **Sarah (14), Adel, Khalid,
+  Dania** · the **Carter** family and their cat · **Yassir**
+  and **Jamal** · **Mrs Sarah Brown**, **Ann (5)** and
+  **Kate (3)**, neighbour **Sam White** (Track 51) · pilot
+  **Muhammad**.
+
+### Unit 1 — A School Magazine (book p.6)
+
+- **L1 Our School Magazine (p.8)**: Al-Mustafa Intermediate
+  School for Girls has a monthly magazine; a team of four
+  students and an English teacher produces it; students put
+  contributions in a box and the team chooses the best. The
+  notice lists **twelve sections**: Puzzles · Stories ·
+  School news · Town events · Sports reports · Poetry ·
+  Cartoons · Jokes · Letters · Problem page · Interviews
+  ("Talk to somebody well known in the town") — "Post them
+  here – NOW – and get your name in print!" Definitions to
+  match: cartoons = funny stories with small pictures · jokes
+  = short, funny stories · poetry = writing with words that
+  rhyme · interviews = asking people questions about
+  themselves · town events = things happening in the town ·
+  sports reports = descriptions of events, for example,
+  football matches · school news = reports about school
+  events. Functional grammar: **Expressing ownership and
+  possession: Possessive 's'** — "Go and get the **boy's**
+  bags. = one boy BUT Go and get the **boys'** bags. = more
+  than one boy · The **school's** magazine is very
+  interesting. = one school, one magazine BUT The
+  **schools'** magazines are very interesting. = more than
+  one school, more than one magazine."
+- **L2 A New Project (p.9)**: magazine words defined on the
+  page — **article** (n.) a piece of writing in a newspaper
+  or magazine · **cover** (n.) the outside of a book or
+  magazine · **edit** (v.) to check and correct a piece of
+  writing · **editor** (n.) somebody who edits (checks/
+  corrects the writing of others) · **print** (v.) to put
+  words or pictures on paper with a machine · **printer**
+  (n.) 1) somebody who prints as a job 2) a machine that
+  prints · **report** (v.) to describe an event → report (n.),
+  reporter (n.). Track 2: the boys see the girls' magazine
+  and decide to start their own (Mazin editor, Layth and
+  Usama reporters, Tariq photographer — "I'm a good
+  photographer"). The year's project: write your own English
+  magazine (choose sections, team, name). Functional
+  grammar: **Asking for and making suggestions: Asking and
+  suggesting politely** — "Why don't **we** start a magazine?
+  · What sections **shall** we have? · **Let's** have
+  articles about the school."
+- **L3 An Interview (pp.10–11)**: "Meet Mr James" — the
+  students' first interview, with **Jack James**, who runs
+  **Pizza Cabin**, "the well-known Italian takeaway and café
+  in the High Street", Ashby. Kept answers: in the café ten
+  years, lived in Ashby since he was born · enjoys parts of
+  the work, doesn't enjoy cleaning up · loves painting ·
+  dislikes washing-up, hates gardening ("But we have a
+  beautiful garden because my wife loves gardening") · likes
+  polite people, dislikes impolite people who shout ·
+  favourite food pizzas and pasta, also fish and chips ·
+  favourite TV programme *A Taste of the Sea* · his town
+  suggestion: "There are too many cars in the town centre.
+  Why don't they build a ring road?" Three Functional
+  grammar boxes are worked off the interview: **Describing
+  periods of time: Using *for* and *since*** ("I've lived in
+  Ashby **since** I was born. I've worked in the café **for**
+  ten years.") · **Naming activities: Gerunds — *like* +
+  verb with *-ing*** ("I like **cooking**. I don't like
+  **cleaning** up." — with enjoy, love, hate, playing
+  football, watching films) · **Describing people:
+  Adjectives vs relative clauses** ("I like **helpful**
+  people. I don't like **noisy** people. / I like **people
+  who help others**. I dislike **people who are noisy**." —
+  then the same choice with relative clauses: can tell jokes
+  · can play chess · can do puzzles · tell lies · don't say
+  anything). Word-hunt answers: famous = well-known · the
+  opposite of 'to like' = hate · the opposite of 'polite' =
+  impolite · a road round a town = a ring road.
+- **L4 Problems (pp.12–13)**: the online problem page
+  **www.sallyanswersyourproblems.com — "Aunt Sally answers
+  your problems"**. Jill's letter in full: "Dear Aunt Sally,
+  I am very, very shy. I have just arrived in a new school
+  and I am afraid to speak to the other students. I cannot
+  make new friends. When the teacher asks me a question in
+  class, I go red. I stammer and can't say the answer even
+  when I know it. The other students laugh at me. Can you
+  help me? Jill (aged 15)" Aunt Sally's reply in full: "Dear
+  Jill, A lot of people are shy, but you can learn to be
+  confident. Don't hurry. It takes time. Here are some tips
+  to help you. 1 Before you go to school, say to yourself,
+  'I will speak to somebody today.' 2 Be friendly. Say
+  'hello' to the other girls and smile. 3 To stop
+  stammering, try this. Before you try to speak, count to
+  five and think again about what you want to say. 4 Talk to
+  your teacher. Ask her to give you a little time to answer.
+  Good luck! Aunt Sally" Two more problems to advise on: (1)
+  exam nerves — "When we have exams, I can't sleep at night.
+  Then I am very tired when I get to school and I do badly
+  in exams." (2) the copying friend — "A friend of mine is
+  very lazy and never does her homework. On the school bus,
+  she copies mine. I don't think this is right, but I have
+  to give her my homework because she is a friend." Sally's
+  handwritten notes on both are printed and studied as
+  notes: "1 work hard all semester – don't work too hard
+  before exams – at exam time, try not to worry – before bed,
+  read a story or listen to music, etc. – bed early / 2
+  agree, not right – don't give h.w. – v. unhelpful – not
+  helping your friend – doesn't do own work, won't learn
+  anything – e.g., can't copy in exams – explain" — pupils
+  work out what etc., h.w., e.g. and v. mean, and how notes
+  differ from sentences and paragraphs.
+- **L5 Embarrassing Moments (pp.14–15)**: two jumbled
+  stories from **www.storiesoftheweekblog.com**, first and
+  last sentences in place, the rest to order, then Tracks
+  4–5 check and tell them whole. Functional grammar:
+  **Making references: Using pronouns** — "The main pronouns
+  are: **she he it we they them**. Pronouns like *she, he,
+  it, we, they, them* and the word *there* are very useful
+  words. We can use them instead of repeating nouns.
+  Sentences with pronouns and *there* come **after**
+  sentences with nouns. Examples: My **father** went to the
+  **shop** on the corner. **He** bought a magazine **there**.
+  The **cat** ran up the **tree**. **It** got stuck
+  **there**. The **boys** played in the **park**. **They**
+  loved **it there**." **Vocabulary tip: Understanding
+  meaning from context** — "*To die* means to stop living.
+  Example: *Zaid was very sad when his grandfather died.*
+  One of the girls wrote in her story: *I nearly died!* What
+  do you think it means? You know what *black* means and you
+  know what *eye* means. But what is a *black eye* and how
+  do you get one?" Story 1, **Liz Ellen – Year 8** (order
+  settled by Track 4: a f e b d c g): shopping with Mum for
+  a present for her uncle → a gift shop → Mum sees a nice
+  mug → "'That's nice,' she said. 'Your uncle will like
+  that. He drinks lots of tea.'" → she picks it up to look
+  at the price and spills hot coffee all over her dress →
+  "It was the shop assistant's own mug!" → "I was so
+  embarrassed that I nearly died!" Story 2, **Wendy Hill –
+  Year 7** (order: a g f b d c h e): Dad takes her and her
+  sister to the museum → looking at an old car, she wants to
+  ask Dad something → turns round, he isn't there → worried
+  → suddenly sees him and runs towards him → "Bang! I ran
+  into a big mirror." → "I still have a black eye." → "I
+  feel embarrassed every time I go out."
+- **L6 The World Youth Camp (pp.16–17)**: the advert —
+  "Come to the World Youth Camp. Get to know other young
+  people from different countries. Can you answer 'Yes' to
+  these questions? Do you like camping and walking? Can you
+  cook over a campfire? Do you enjoy sport and adventure? Do
+  you want to see the world? **The WYC is for you.** Boys
+  from 26th July to 16th August · Girls from 17th August to
+  7th September. Fill in an application form and send it to:
+  **Rod Border, WYC, PO Box 5782, Southport, Australia** or
+  email it to: wycsouthport@wyc.co" The two application
+  forms are printed in full. **Bashir Hamza, 16, 31 Omar
+  Mokhtor Street, Azzawyah, Libya**: camps every weekend ·
+  "I like cooking outside on a fire. I really like camping
+  on the beach. I love lying in my sleeping bag, listening
+  to the sea before I go to sleep." · "I have never been to
+  another country." · speaks Arabic and English · spare
+  time: watching television, listening to music, favourite
+  hobby swimming, also chess and sailing · "I would like to
+  come to the WYC because I want to meet young people from
+  other countries." · would like to go **horse-riding and
+  windsurfing** (of scuba-diving, climbing, ballooning,
+  windsurfing, horse-riding). **Bob Walker, 15, 23 Middle
+  Street, Ashby, England**: camps in his summer holidays ·
+  "I really enjoy sitting round a campfire in the evening
+  talking and singing. I also like cooking and eating
+  outside." · has been to France, Germany and the USA ·
+  speaks English and French · spare time: listens to a lot
+  of music, enjoys cooking, favourite hobby skating ("I want
+  to win a competition one day") · "I would like to come to
+  the WYC because I want to see Australia. I want to see all
+  the strange animals that live there. I have seen a lot of
+  TV programmes about them." · would like to go
+  **ballooning**.
+- **L7 Meet a Local Personality (p.18)**: the same interview
+  frame asked of **Yahya Fawzi, headteacher of a high school
+  in the city** (www.meetalocalpersonality.com): headteacher
+  for ten years, before that a maths teacher · loves
+  teaching young people and working with other teachers,
+  doesn't enjoy paperwork · doesn't like sitting at home in
+  the evenings — "I go to a French class on Mondays. On
+  Fridays I go to the mosque." · likes people who can tell a
+  good story; dislikes students who drop paper and empty
+  cans in the classrooms and don't put them in the litter
+  bins · favourite food Libyan food · doesn't watch much
+  television; favourite programme *Health for all* ·
+  favourite place the old centre of Tripoli, every weekend ·
+  town improvements: "The town needs some more parks. The
+  roads and bridges should be improved, too."
+- **L8 Bob and Bashir (pp.19–20)** — Story time (Track 6 is
+  the printed text): Bob narrates. "I was flying to
+  Australia to the World Youth Camp. I met Bashir when he
+  got on at Tripoli. Now we were flying to Brisbane." Bob
+  spills orange juice — "There was orange juice everywhere –
+  on the floor, on the seat and all over the flight
+  attendant." Bashir: "'Never mind,' said Bashir. 'Accidents
+  can happen to anyone.' 'But why do they always happen to
+  me?' I asked." Asleep at landing; the passport man "spoke
+  a different kind of English" — "'I hope they don't all
+  speak like that,' said Bashir." At the cases: Bob takes
+  the first blue case for Bashir's, hands it over — and a
+  grey-haired old lady thanks him: it was hers. His own case
+  seems lost ("'It's not here. It's lost. What shall I do?'
+  I shouted. 'Why do these things always happen to me? Why
+  me?' I was worried."), Bashir finds it — then at customs:
+  "'Do you have anything to declare?' asked the customs
+  officer… I opened my case and the customs officer looked
+  inside. Then he looked at me. Bashir looked at me. I
+  looked at the case. 'Oh, no! It's the old lady's. Now what
+  shall I do? Oh, why me? Why do these things always happen
+  to me?'" (Picture labels teach *A flight attendant* and
+  *passport* — a Libyan passport is pictured.)
+- **Round up (p.21)**: suggestions · likes/dislikes with
+  gerunds · describe people with adjectives and relative
+  clauses ("I like **helpful** people. or I like people **who
+  help others**. I hate **noisy** people. or I hate people
+  **who shout**.") · how long with *for/since* ("I have
+  known my friend **for three years**. We have lived in our
+  new house **since September**.") · opinions ("What do you
+  think of Tareq's story? · Which story is the best? · I
+  think that Khalid's story is the funniest. Let's choose
+  his.").
+
+### Unit 2 — Health Matters (book p.22)
+
+- **L1 Keep fit! (p.24)**: the advice blog "Take my advice
+  …" in full: "Fitness is very important. Unfit people
+  cannot enjoy life. They get tired very quickly, so they
+  cannot play games. They cannot run. In fact, they cannot
+  even walk without getting tired and out of breath. So, if
+  you want to enjoy life, you should get fit and keep fit.
+  How can you get fit? You should take exercise regularly.
+  Games like football, basketball and netball give you
+  plenty of exercise because you have to run all the time.
+  Swimming and cycling are also very good forms of exercise.
+  If you don't like any of these, you can just go walking.
+  You should walk quickly for about twenty minutes every
+  day. Walking slowly will not make you fit and walking to
+  your bedroom will not either! Some people think that
+  taking exercise is boring, but it doesn't have to be. If
+  you take exercise with your friends, you will have fun."
+  (A photograph of Usain Bolt is captioned "I'm fit. Are
+  you?") Four boys judged fit or unfit: **Zaid** ("They
+  won't let me play. I get tired quickly.") · **Ahmed** ("I
+  watch TV all the time.") · **Omar** ("I love running.") ·
+  **Fawzi** ("I love my car. I drive everywhere.").
+  Functional grammar: **Giving advice: Using *should* +
+  verb** — "You need to get fit. You **should** take some
+  exercise. / You're always tired. You **shouldn't** go to
+  bed late. / You **shouldn't** play with matches. / You
+  **should** go to bed earlier."
+- **L2 Eat the Right Food (p.25)**: foods pictured to sort
+  very good / not so good (steak, strawberries, coffee
+  beans, oil, butter, sugar cubes, oranges, water, burger,
+  cola, chips/fries, biscuits, cake, apples, lettuce, hot
+  dog, cucumber…). **"A report of Nurse Fawzia's talk" by
+  Layla Ahmed**, in full: "What did Nurse Fawzia mean?
+  Before her talk, I did not understand, but I do now. This
+  is what she said. We all need food and drink, but **what
+  kind** and **how much** do we need? Some kinds of food are
+  very good for us, for example, fish, fruit and vegetables.
+  They keep us healthy and they do not make us fat. We
+  should eat five pieces of fruit and vegetables every day,
+  but we can eat more. We should also drink a lot of water.
+  Meat and cheese are also good, but only if we don't eat
+  too much. They have a lot of fat. We should be very
+  careful about anything that has a lot of fat, salt or
+  sugar in it. This does not mean that we should never eat
+  biscuits, sweets, chips or crisps. It is all right to eat
+  a few. If we eat too many, we will be unhealthy and we
+  will get fat. When Nurse Fawzia came to our school, I had
+  a bag of crisps, two chocolate bars and a bottle of cola
+  in my school bag. Today I have water and fruit in my bag."
+  Functional grammar: **Expressing quantity: *too much, too
+  many, a little, a few*** — "A **little** sugar is all
+  right, but **too much** is bad for you. A **few** biscuits
+  are all right, but **too many** are bad for you."
+- **L3 In a Restaurant (p.26)**: a menu with definitions to
+  work from — Meat: Lamb curry, Beef curry, Fried chicken,
+  Burgers, Hot dogs · Fish: Fried fish, Grilled fish ·
+  Vegetables: Baked potato, Chips, Salad · Pizza · Desserts:
+  Apple cake, Chocolate cake, Ice-cream, Fruit salad ·
+  Drinks: Fruit juices, Milkshakes, Cola, Lemonade, Tea,
+  Coffee, Mineral water. **beef** (n.) is the meat of a cow
+  · **lamb** (n.) is the meat of a sheep · **fried** (adj.)
+  means cooked in hot fat or oil · **grilled** (adj.) means
+  cooked under strong heat · **baked** (adj.) means cooked
+  in an oven. Waleed and Reema order with their father;
+  pupils predict the polite exchange, then Track 7 settles
+  it (kept with the Transcripts below).
+- **L4 Aches and Pains (p.27)**: Track 8 names the four —
+  **Mona** toothache · **Adam** stomach ache · **Jamal**
+  (in the book spelled Jameel in Track 8's list) earache ·
+  **Nadia** headache — matched to "I have a stomach ache. ·
+  I've got toothache. · I have a headache. · I have an
+  earache." **Speaking tip: Expressing feeling or status**
+  — "We say: *I've got a headache.* OR *My head aches.* They
+  mean the same." Four conversations to read aloud and
+  judge: Mona → "You should go to the dentist." · Adam ("I
+  have a stomach ache and I feel sick") → "You shouldn't eat
+  so many crisps in the break." · Jamal ("my ear hurts") →
+  "I've been to the doctor. He gave me some drops. I have
+  to put them in twice a day." · Nadia → "Here, take these
+  two pills with some water."
+- **L5 Jalal's Story (p.28)**: **"A true story" by Jalal
+  Abdullah**, printed with line numbers, in full: "I
+  sometimes have to look after my little brother for an
+  hour or so when my parents go out. Ibrahim is ten. He
+  always wants me to play with him, but I want him to play
+  by himself. One day when I was playing a computer game, he
+  said again and again, 'Jalal, I feel sick. I think I've
+  got a pain in my stomach.' 'You always say that, Ibrahim,'
+  I said angrily. 'You haven't got a pain. You **are** a
+  pain. Sit down and watch that video.' Ibrahim started
+  crying and an hour later he was still crying loudly. I
+  gave him a bag of crisps, but he didn't stop and he didn't
+  eat the crisps. That was very unusual. I was shouting at
+  him when my parents came home. They were very angry with
+  me. I was very surprised when my father called an
+  ambulance. 'Something is wrong,' my mother said. 'Can't
+  you see? Ibrahim is in pain.' A few hours later, the
+  doctors took out Ibrahim's appendix. They saved his life.
+  I was very frightened. Ibrahim nearly died and it was my
+  fault. I learned a lesson that day." The class chooses
+  which lesson Jalal learned (always believe / always listen
+  to / always play with your brother), and works out what
+  "You **are** a pain" means against "a pain in my stomach."
+- **L6 'Get well' Cards (p.29)**: six cards, all saying "Get
+  well soon", matched to the messages inside: A "You can
+  play anywhere on our team." (the footballer card) · B "You
+  leave a big hole in our lives. We miss you very much." · C
+  "Cheer up! You'll be better soon." · D "Hurry up and get
+  better." (the car card) · E "Fly back to us as soon as you
+  can." (the bird card) · F "There's no colour in the house
+  when you're away." (the flowers card).
+- **L7 Limericks (p.30)**: a magazine competition — "Write
+  a limerick for the school magazine. YOU CAN DO IT. TRY!"
+  Two printed limericks (Track 11): "One day a young girl
+  called Astrad / Went out on a trip with her dad. / She
+  cooked him some fish. / She burned the whole dish! /
+  That's probably why he went mad." and "There was an old
+  man from Brazil, / Who suddenly felt very ill. / 'I've
+  eaten that pie, / I think I will die. / Or maybe I'll just
+  take a pill.'" Pupils complete the form notes by
+  listening: "A limerick is a short … / It has … lines. /
+  The last words on lines 1, … and … rhyme. / The last words
+  on lines 3 and … also rhyme. / A limerick is always …" —
+  and write one for the magazine. (Two more limericks live
+  only on Track 12 — kept with the Transcripts.)
+- **L8 Bob and Bashir – The Eggs (pp.31–32)** — Story time
+  (Track 13 is the printed text): the tent — "There were
+  four other boys in our tent – **Paul from France, Chuck
+  from America, Hans from Germany and Aziz from Algeria**. I
+  told them about my suitcase. They were all very kind and
+  gave me everything that I needed." Bob's borrowed clothes:
+  "a Libyan shirt and an Algerian sweater. The trousers were
+  too big and the sweater was too small." Breakfast duty:
+  "We had to cook breakfast for the whole camp. Hans and
+  Aziz had to make the fire and Paul had to make the tea.
+  Chuck had to do the washing-up. 'Bashir and Bob, you're
+  the cooks,' said Rod Border. 'Scrambled eggs for fifty,
+  please.'" Bashir cooks from **Camp Cooking**, page
+  twenty-three, Rod's parting words "'Don't burn them,' said
+  Rod and went away": "'Leave it to me,' said Bashir. I put
+  butter into a pan. Bashir broke **seventy-five eggs** into
+  the pan and then I added milk, salt and pepper. Bashir
+  began to cook the scrambled eggs – slowly. He didn't burn
+  them. They were delicious. Perfect." Then: "'Bob! Look
+  out!' shouted Bashir. 'A wallaby!' 'A what-a-be?' I asked.
+  I did not hear the answer. A small wallaby raced through
+  our kitchen. It hopped over the fire and knocked over the
+  tea. Then it knocked me over. Bashir's perfect eggs flew
+  into the air. The pan landed on a table. The eggs landed
+  on the boys. I landed in a bush." — "'I didn't know eggs
+  could fly,' said one boy. 'Delicious,' said another,
+  wiping some scrambled egg from his face. 'You missed the
+  plates,' said a third boy. Everybody laughed. They weren't
+  angry. 'Are you all right?' asked Bashir. 'Yes, thanks,' I
+  said from my bush. 'But why me? Why do these things always
+  happen to me?'"
+- **Round up (p.33)**: give advice with *should* · say how
+  often (twice a week, three times a week, regularly) ·
+  amounts (*a little, too much, a few, too many*) · say what
+  is wrong ("I don't **feel well**. · I've got a **headache**.
+  · I have a **pain in my stomach**. · My arm **hurts**.") ·
+  feelings (frightened, excited) · the pattern ***want* +
+  pronoun + *to* + infinitive** ("Your father **wants you
+  to** help him in his shop. My mother **wants me to** eat
+  more vegetables and fruit.").
+
+### Unit 3 — Olympic Sports and Games (book p.34)
+
+- **L1 The Sports Centre (p.36)**: the Ashby Sports Centre
+  poster (Track 15): last year's old favourites (pictures:
+  swimming, horse-riding, judo, volleyball, football,
+  basketball, sailing) and, new this year, **karate, tennis,
+  athletics, gymnastics** — "Call us on 952841 for more
+  information." Functional grammar: **Verbs and sports:
+  *play/do* + sport; *go* + gerund** — "We **play** football,
+  tennis, etc. We **go** swimming, horse-riding, etc. We
+  **do** judo, karate, etc. Can you work out the rules?" —
+  then "I'd like to play volleyball. I'd like to do
+  gymnastics. And I'd like to go horse-riding."
+- **L2 The Timetable (p.37)**: Track 16 (the phone message:
+  leave your name and address and we'll send you a leaflet)
+  and the leaflet itself: Men's and boys' lessons Tuesday,
+  Thursday and Saturday; Women's and girls' Monday,
+  Wednesday and Friday. Tennis Beginners Mon. 5–7, Team
+  practice Mon. 7–9 · Volleyball Beginners Mon. and Tue.
+  7–9, Advanced Fri. 5–7 and Sat. 3–5 · Basketball Beginners
+  Tue. 5–7, Team practice Sat. 3–5 · Athletics "Start now!"
+  Wed. and Thur. 5–7 · Gymnastics Beginners Tue. and Wed.
+  7–9, Advanced Thur. and Fri. 7–9 · Swimming Team practice
+  Thur. 7–9, Fri. 7–9 · Karate "Learn a new sport!" Mon.
+  5–7, Thur. 5–7. **Vocabulary tip: Plural nouns with
+  possessive 's'** — "The **man's** favourite sport is
+  tennis. = one man BUT The **men's** favourite sport is
+  tennis. = more than one man. Make sentences with **women**
+  and **children**."
+- **L3 Booking Lessons (p.38)**: two printed phone
+  conversations (Track 18): **Liz** — quite good at tennis,
+  in the school team → team practice Monday at seven; wants
+  to learn horse-riding → beginners' lessons Wednesdays at
+  five. **Dave** — wants to do judo, a beginner → beginners'
+  lessons Tuesdays at five. Track 19 adds three more
+  bookings (kept with the Transcripts).
+- **L4 The Basketball Game (p.39)**: "Opposites — This is
+  the result of a basketball game. **Al-Afriqi 60 Al-Ahly
+  54**. 1 Al-Afriqi **won** the game. 2 Al-Ahly **lost** the
+  game. 3 Al-Afriqi **beat** Al-Ahly. 4 Al-Ahly **lost to**
+  Al-Afriqi." The Hasan–Samir conversation is printed with
+  Samir's six replies removed to a box; Track 20 gives the
+  key (1f 2c 3a 4d 5b 6e) and Track 21 the whole conversation
+  (kept with the Transcripts): it ends in a three-event
+  competition next weekend — a 100-metre race, a swimming
+  race and the high jump.
+- **L5 London 2012 (pp.40–41)**: five short texts with the
+  book's own pronunciation footnotes. (1) "The Olympic
+  Games of 2012 took place in London, UK. Every country sent
+  a female competitor. Women's boxing was included for the
+  first time, so the 2012 Games became the first at which
+  every sport had female competitors." (2) "One of the
+  greatest successes of London 2012 was the Jamaican team.
+  It was their most successful performance with four gold,
+  five silver and three bronze medals. The sprinter **Usain
+  Bolt** won three of the four gold medals and broke two
+  world records. He ran 100 metres in **9.63 seconds**
+  making him the fastest man in the world." (3) "In tennis,
+  the American player **Serena Williams** defeated **Maria
+  Sharapova** and won gold in the women's singles. In the
+  men's singles, the British player **Andy Murray** won
+  after defeating **Roger Federer** in the final." (4) "The
+  men's football team from Mexico won its first ever Olympic
+  gold medal after defeating Brazil in the final. The score
+  was 2–1. All the players were under 23 years old." (5)
+  "The gold medal for the men's long jump was won by **Greg
+  Rutherford** from Britain. His **8.31 metre** jump fell
+  short of American **Mike Powell's 8.95 metre** record, set
+  in 1991." Pronunciations as printed: Usain Bolt
+  /juːseɪn bəʊlt/ · Serena Williams /səˈriːnə wɪljəmz/ ·
+  Andy Murray /ˈændi ˈmʌri/ · Maria Sharapova /məˈriːə
+  ʃərəˈpəʊvə/ · Roger Federer /ˈrɒdʒə(r) fedərə/ · Greg
+  Rutherford /ɡreɡ ˈrʌðəfəd/. **Speaking tip: Reading
+  numbers** — "We write: **9.63** seconds · We say: **nine
+  point six three** seconds."
+- **L6 Changes (p.42)**: Samir's magazine article built in
+  front of the class — notes first ("one day, do judo for my
+  country · no friend, now have lots · didn't like
+  competition, now love them · was shy, now confident · was
+  weak, unfit, now strong · schoolwork was bad, now good at
+  it"), then the notes put in order under a topic sentence
+  ("Doing judo has changed my personality and my life."),
+  then the article itself, **"I used to be shy" by Samir
+  Salih, Year 8**, in full: "I started doing judo two years
+  ago and it has changed my personality and my life. I used
+  to be very shy, but judo has given me confidence. Judo has
+  also been good for my health. I used to be very unhealthy
+  and unfit. I could not run very fast and I was often ill.
+  Now I am much stronger and fitter. I also used to be lazy,
+  but now I train every day and I enjoy it. My teachers say
+  that my schoolwork is better now. I used to be bad at it,
+  but now I get good marks all the time. Before I started
+  doing judo, I used to have no friends. I don't know why.
+  Now I have lots. I also used to be afraid of competitions
+  and exams. Now I really enjoy competing against other
+  people and I hate losing. One day, I hope to do judo for
+  Libya." Functional grammar: **Talking about changes from
+  the past: *used to* be/have** — "I **used to be** shy, but
+  now I'm confident. I **used to have** no friends, but now
+  I have lots."
+- **L7 Olympic Facts and Figures (p.43)**: the fact text in
+  full: "The old Olympic Games took place in Greece two
+  thousand years ago. In 1896, a Frenchman started the
+  modern Olympic Games. They take place every four years. ·
+  **Pierre de Coubertin** started the modern Olympic Games.
+  He thought that everybody should enjoy taking part in the
+  Games. He said, 'The most important thing in the Olympic
+  Games is not to win, but to take part.' · More than 200
+  countries took part in the London Olympic Games in 2012.
+  Over 80 countries won medals. The athletes competed in 26
+  different events. · The athletes who come first, second
+  and third win medals. The winner gets a gold medal, the
+  athlete who comes second gets a silver medal and the
+  third gets a bronze medal. · The five rings on the Olympic
+  flag stand for the five continents. Each continent has a
+  different colour. Blue is for Europe, yellow for Asia,
+  black for Africa, green for Australia and red for
+  America." (de Coubertin pronounced /piːjeə də kjuːbətɪn/
+  as printed.) Word-matching: take place = happen · took
+  part in = competed in the Games · medals = what the
+  winners get.
+- **L8 Bob and Bashir – The Ice-creams (pp.44–45)** — Story
+  time (Track 22 is the printed text): a surprise trip —
+  "'Tomorrow, we're all going to Southport,' said Rod
+  Border. 'There's a tennis competition. It's a big event.
+  You'll see some of the best players in the world.'" —
+  **Heyton Blewitt** (/heɪtən bluːɪt/ as printed) and
+  **Khaleel Ibrahim** are playing. "'Game, fourth set,
+  Plaster!' cried the referee. The two players had been on
+  the court for almost three hours. It was very hot, and
+  they both looked exhausted. I felt exhausted, too." Bob
+  goes for ice-creams and collects orders — Bashir, Paul,
+  Hans, and Rod ("'Looks like you have a few ice-creams to
+  buy, Bob!' said Rod. 'Since you're going, I'll have one,
+  too.' He handed me some money."). The queue, the melting,
+  then: "Then I saw Rod. He was standing up. 'Bob! Over
+  here!' he shouted. I climbed the steps towards him. Then,
+  on the last step, I tripped. The ice-creams flew into the
+  air. They landed on Rod. Rod wiped the ice-cream off his
+  face. He was smiling. 'Next time, I'd like to eat it, not
+  wear it.' Bashir was laughing. So was everyone else. 'Why
+  me?' I said. 'Why do these things always happen to me?'"
+  (How many ice-creams did Bob buy? — four: his own, and one
+  each for Bashir, Paul, Hans and Rod makes five mouths; the
+  story's own question is answered by the orders: Bashir,
+  Paul, Hans and Rod each asked, and Bob went for himself —
+  the text says he paid the seller for "the ice-creams"
+  without a number; filed as printed, number not stated.)
+- **Round up (pp.46–47)**: sports you'd like to do · ask and
+  answer about a timetable · how good are you at sport ·
+  **say numbers and years** ("28.28 seconds: twenty-eight
+  point two eight seconds · 1996: nineteen ninety-six ·
+  2015: two thousand and fifteen") · describe changes with
+  *used to*.
+
+### Unit 4 — Fun with English 1 (book p.48; revision of
+### Units 1–3, lessons named by skill)
+
+- **L1 Listening (p.50)**: **TIPS TO IMPROVE YOUR LISTENING**
+  (www.improvingyourlistening.com) in full: "Remember!
+  Listening can be hard work. You have to do it yourself.
+  Nobody else can do it for you. **Tip 1: Look and listen
+  for clues** — Think about what you have to listen for.
+  Are there any clues … in the title? … in pictures? … in
+  the questions? If not, listen for clues in the text
+  itself. **Tip 2: Keep listening!** — If you don't
+  understand a word, or miss something, **keep listening**.
+  Perhaps you can guess the word. Perhaps you don't need to
+  know the meaning. **Tip 3: Write notes** — When you have
+  to listen and write answers, you don't have time to write
+  sentences. You need to write notes first and write the
+  complete answer later. Make your own abbreviations. Make
+  sure you can understand them later!" Then: Track 23 (two
+  conversations — where are they, what are they doing?),
+  Track 24 (the radio: "And now, sport. At the end of an
+  exciting game at the new National Stadium, the score was
+  …" — the transcript settles it: **Libya 3, Algeria 3**),
+  and a student's abbreviated notes to decode — "fr. chick –
+  r. & sal. – choc. c. – app. ju." / "gr. fish – ch-ps. &
+  sal. – fru. sal. – min. wat." — checked against Track 25
+  (the Andrews' restaurant orders, kept with the
+  Transcripts).
+- **L2 Reading (p.51)**: **TIPS TO IMPROVE YOUR READING**
+  (www.improvingyourreading.com) in full: "**Tip 1: Before
+  you read** — Before you start reading, look at the title
+  of the text. Ask yourself: What do I know about this
+  topic? Example: This is the title of an article. What do
+  you know about it? *Cleaner streets* **Tip 2: Finding
+  different types of information** — Read the question or
+  questions very carefully and ask yourself: What kind of
+  information do I need from this text? • If you are looking
+  for general meaning: – Read the whole text quickly. –
+  Don't stop at words you don't know. – Look for topic
+  sentences. • If you have to find facts and figures
+  quickly, ask yourself: Am I looking for an adjective, a
+  name, a number, a time? **Tip 3: New words** — Don't be
+  afraid of new words. Perhaps you won't need to understand
+  them. Perhaps you can work out the meaning. Look for clues
+  in the same sentence or in other sentences. Example from
+  Unit 1: *I am very, very **shy**. I am afraid to speak to
+  the other students. When the teacher asks me a question,
+  I go red.* Additional example: *I have to **share** a
+  computer with my brother. He always wants it when I need
+  it.* **Tip 4: Words, words, words** — You will read more
+  easily if you: • practise all the words you have learned
+  in class regularly, *and* • if you learn more words by
+  yourself". Word collecting: "Collect words in groups in
+  your notebook… nouns: the names of food, buildings,
+  sports. · adjectives: to describe feelings, places,
+  people. · adverbs that tell you how, or how often people
+  do things. Try to learn five new words a day."
+- **L3 Speaking (p.52)**: **TIPS TO IMPROVE YOUR SPEAKING**
+  (www.improvingyourspeaking.com) in full: "Remember!
+  Practice makes perfect. You will only improve your
+  speaking if you practise. When you practise, try to
+  remember these tips. **Tip 1: Practise speaking by
+  reading** — When you read aloud, remember these things: •
+  You want someone to hear you, so always speak clearly. •
+  Try to pronounce words as you have heard them on the
+  audio. • Don't stop after each word. We say words in
+  groups, so when you are saying a word, your eyes need to
+  be on the words that come after it. **Tip 2: Asking
+  questions** — • When you ask questions beginning with
+  question words, your voice goes **down** at the end.
+  Question words are: *What? Why? Who? When? How? Which?* •
+  When you ask other questions, your voice goes **up** at
+  the end." Tracks 28–29 practise stress and the arrows.
+- **L4 Writing (p.53)**: **TIPS TO IMPROVE YOUR WRITING**
+  (www.improvingyourwriting.com) — the year's writing tips
+  gathered on one page: "**Tip 1: Check your writing** —
+  After you have written a draft, check these things: •
+  spelling • punctuation • wrong words • missing words. Then
+  write a final, correct copy in your best handwriting.
+  **Tip 2: Paint a picture** — When you write a story, try
+  to paint a picture. Use adjectives and adverbs so that
+  the reader can see what happened. Choose your words
+  carefully. **Tip 3: Make your writing interesting** —
+  When you write a story, a postcard or a letter, try to
+  make it interesting for the reader. How can you do this? •
+  Try to think of things that will be interesting to the
+  reader. • Try to make your reader laugh or smile. • Write
+  about your own feelings. **Tip 4: Organize and plan each
+  paragraph** — **Topic sentences**: It is a good idea to
+  begin a paragraph with a topic sentence – a sentence that
+  says what the paragraph is about. Example: *My weekend* —
+  Topic sentence: *I did lots of nice things at the
+  weekend.*" The lesson then builds a weekend paragraph
+  from a spider diagram around that topic sentence.
+
+### Unit 5 — Communication and Sharing Information
+### (book p.54)
+
+- **L1 Old Ways of Sending Information (pp.56–57)**: six
+  captioned photographs, every caption a *used to*
+  sentence: (1) "In the Arab world, men used to ride for
+  hours carrying messages. When one horse was tired, they
+  got another one. This messenger service started in
+  **670**. It was called **Albarid**." (2) "People used to
+  build lighthouses near the sea. The lighthouses warned
+  ships of danger." (3) "People used to send messages using
+  flags." (4) "In Africa, people used to use drums to send
+  messages." (5) "Americans used to light fires on the tops
+  of mountains and send messages using smoke signals." (6)
+  "People used to use pigeons to carry messages from Egypt
+  to Syria. A good pigeon could fly from Cairo to Damascus
+  without stopping." Discussion: fastest / slowest / safest
+  method; how pigeons knew where to go.
+- **L2 Accessing Information (p.58)**: library reference
+  section, surfing the web, information desk — and the text:
+  "In the past, libraries used to be the place to go to
+  access information. Most libraries have a reference
+  section. You can't borrow the books in a reference
+  section: you have to use them in the library. If you want
+  to know where Berlin is, you can look it up in an atlas.
+  If you want to learn about Saladdin, you can use an
+  encyclopedia. Nowadays, you can access information
+  immediately by surfing the web. You can talk to your
+  friends on social media, read the news or look at blogs.
+  Travellers can get information from the information desk
+  at an airport or from a tourist office in a town. They
+  can find out about hotels, buses and taxis. They can also
+  get local maps and find out about interesting places to
+  go and things to see."
+- **L3 Working Out Meanings (p.59)**: **DICTIONARY TIPS**
+  (www.dictionarytips.com): "We need dictionaries to find
+  the meanings of words and to check their spelling.
+  Remember: **Tip 1:** All the words in a dictionary are in
+  alphabetical order. To find a word quickly, you need to
+  know the alphabet very well. **Tip 2:** It is also
+  important to know the meanings of the abbreviations below.
+  (n.) (v.) (adj.) (adv.) (pron.) (prep.) (conj.) **Tip 3:**
+  A word can have more than one meaning, and you will find
+  all of them in a dictionary. It is important to choose the
+  correct meaning." The entry for **bank** is printed and
+  worked: bank (n.) 1. a place where you keep money. 2. a
+  piece of ground higher than the ground around it. 3. a
+  piece of ground next to a river. 4. a piece of ground,
+  usually sand or rock, in the sea near or above the top of
+  the water. bank (v.) 5. to keep money in or put money
+  into a bank. 6. to turn a plane left or right. — matched
+  to four sentences (sat on the grassy bank · the plane
+  banked · top of the bank · she banks her money).
+- **L4 From Cairo to Tripoli (pp.60–61)**: an eight-picture
+  process chain in the present passive (the map marks
+  Tripoli–Cairo **1739 km** over a **1300 km** land label):
+  "1 On Monday morning, an article **is written** in Cairo.
+  2 Next, it **is sent** by email to a newspaper office in
+  Tripoli. This takes less than a minute. 3 When the article
+  arrives, it **is read** by an editor. 4 If the editor
+  likes the article, it **is edited** and inserted into the
+  newspaper. 5 Then it **is sent** to the printing press and
+  at night, the newspapers **are printed**. 6 Early on
+  Tuesday morning, the newspapers **are sent** to the shops.
+  7 When the shops open, the newspapers **are sold**. 8
+  Finally, the article **is read**!" Functional grammar:
+  **Active and passive voice: Emphasizing the object of a
+  sentence** — "When we say what people and things **do**,
+  we use active verb forms like *write* and *send*. When we
+  say what **happens to** people and things, we use passive
+  verb forms like *is written* and *is sent*. In active
+  sentences, the subject performs the action. In passive
+  sentences, the subject has an action done to it. To form
+  the present passive, use the verb *be* + past participle
+  of a verb. Books **are sold** in our local library. A
+  reporter **writes** an article in Cairo. — active / An
+  article **is written** in Cairo. — passive / Next, she
+  **sends** it to Tripoli. — active / Next, it **is sent**
+  to Tripoli. — passive. Notice we don't need to add 'by a
+  reporter'."
+- **L5 Great Inventions (p.62)**: two reference extracts.
+  "**John Logie Baird, 1888–1946** — In London in **1926**,
+  Baird, a Scottish inventor, was the first person to show
+  pictures on a television screen. The pictures were not
+  very good and they did not move. In 1927, however, he was
+  able to send moving pictures from London to Scotland
+  using telephone wires. The following year, he sent
+  pictures to America using radio waves. Baird continued
+  working and, finally, he helped to develop colour
+  television." "**Guglielmo Marconi, 1874–1937** — After the
+  invention of the telephone by Alexander Bell (1847–1922),
+  inventors worked on radio waves instead of electric
+  signals to carry sound. Marconi, an Italian, was the
+  first to do this. In **1896**, he sent a radio message
+  over a distance of more than 1.5 kilometres. The following
+  year, he sent a message from land to a ship at sea, a
+  distance of 29 kilometres. In **1902**, he sent a radio
+  message from America to England." Functional grammar:
+  **Tenses: Active vs passive** — "Marconi **invented** the
+  radio. / Baird **showed** pictures on a television screen.
+  — The radio **was invented** by Marconi. / Pictures **were
+  shown** on a television screen by Baird."
+- **L6 Telephones (p.63)**: two short texts. Landline: "A
+  landline phone sends and receives signals through a wire.
+  The wire is called the landline. All landlines are
+  connected, so you can phone people all over the world.
+  Landline phones are less useful than mobile phones,
+  because they can only be used in one place. However, they
+  are often more reliable." Mobile: "A mobile phone does not
+  need a landline, because it sends signals to a special
+  mast using radio waves. The mast sends the radio waves to
+  another phone. There are mobile phone masts in most
+  places, so mobile phones can be used almost anywhere. Many
+  mobile phones can also be used to take photographs, play
+  music and access the internet. These are called
+  smartphones." Functional grammar: **Expressing ability:
+  Present passive with *can*** — "Landline phones **can be
+  used** in one place. Mobile phones **cannot be used**
+  without batteries."
+- **L7 On the Phone (p.64)**: **"Speak up!" by Sawsan Ayad,
+  Grade 8** (www.personalblog.com/Ayad) — phone advice in
+  Do/Don't pairs: "**Do** introduce yourself. Always say who
+  you are. **Don't** wait for the other person to ask who
+  you are. It is not polite. **Do** say why you are calling.
+  **Don't** start before the other person knows what your
+  call is about. ('Excuse me. What are you talking about?')
+  **Do** think about what you want to say before you make
+  the call. **Don't** waste time trying to think of things
+  as you speak. ('Can you start again, please?') **Do**
+  speak slowly and clearly. Remember that the other person
+  can't see you. **Don't** speak too fast even if you are
+  nervous." Phrases to say ("Anas Abdullah here. · Anas
+  Abdullah speaking. · I'd like to make an appointment,
+  please.") and to hear ("I'm sorry. Could you repeat that,
+  please? · Can you spell that, please?"). Track 31 is Anas
+  breaking the rules; Track 32 is the same call done
+  properly (both kept with the Transcripts).
+- **L8 Bob and Bashir – The Ants (pp.65–66)** — Story time
+  (Track 33 is the printed text): a mountain walk with guide
+  **Jim Cooper** — "'Right, boys. Wake up. It's nearly five
+  o'clock,' Jim Cooper shouted. We had to get up early
+  because today we were going for a walk in the mountains.
+  Jim was our guide." Two hours' bus drive (Bob yawns, Paul
+  asleep; Hans wants to sing, Bashir wants to sleep), then
+  the walk: "We walked for quite a long time along a path
+  through a forest. We crossed streams and climbed over
+  rocks. We saw flowers and birds of every colour. 'They're
+  beautiful. Really beautiful,' said Bashir. 'I've never
+  seen colours like that,' said Paul. 'I have,' said Aziz.
+  'Gee!' said Chuck." Lunch: "'Right, boys. Time for lunch,'
+  said Rod. Everybody sat down and took out their
+  sandwiches. Cheese and tomato. I sat down on a rock. I
+  picked up a sandwich. It was covered with little animals.
+  'Ouch!' I screamed. 'Something has bitten me! Ouch! Ouch!
+  Ouch!' More bites. 'You're on an anthill,' said Bashir.
+  'Move!' I moved quickly. 'Why me? Why do these things …,'
+  I said. '… always happen to me?' said the others. 'I
+  didn't know that ants liked cheese and tomato,' said
+  Bashir. The ants finished lunch. So did we. We started
+  climbing."
+- **Round up (p.67)**: dictionary abbreviations — the entry
+  "**and (conj.)** is used (1) to link words and (2) to link
+  parts of a sentence. *My mother **and** father are at
+  home. I came here in 1990 **and** I have lived here ever
+  since.*" — and the seven abbreviations to recall: (v.)
+  (n.) (adj.) (adv.) (prep.) (pron.) (conj.) · form and use
+  the passive: a **Present passive**: *is/are* + past
+  participle ("The article **is written** in Tripoli. Then
+  it **is edited** in Tripoli. Then it **is printed** in
+  newspapers the same night. They **are sold** in the shops
+  the next day.") · b **Past passive**: *was/were* + past
+  participle ("Radio **was invented** by Marconi. Pictures
+  **were shown** on a television screen by Baird.") · c
+  **Present passive with *can***: *can + be* + past
+  participle ("Mobile phones **can be used** almost
+  anywhere. In remote places, landline and mobile phones
+  **cannot be used**.") · make telephone calls properly
+  ("Layla Ahmed here. · I'm calling about tomorrow's flight
+  to Bahrain. · Can you spell that, please? · I'm sorry.
+  Could you repeat that, please?").
+
+### Unit 6 — Jobs and Professions (book p.68)
+
+- **L1 What do they do? (p.70)**: seven job descriptions
+  (Track 35) to match to photographs: A "A **businesswoman**
+  works in an office and runs a business. She is very good
+  at working with money." B "A **pilot** flies a plane and
+  takes people to different countries. He or she has to
+  wear a uniform." C "An **architect** plans and designs
+  buildings. He or she works in an office." D "A
+  **mechanic** works in a workshop or a garage and repairs
+  people's cars." E "An **engineer** works outside or in an
+  office. He or she designs, builds or repairs machines,
+  roads and bridges." F "A **shop assistant** works for a
+  shopkeeper or shop owner. He or she helps customers, the
+  people who want to buy things in the shop." G "A
+  **firefighter's** job is very dangerous. He or she puts
+  out fires and saves people. A firefighter has to wear
+  special clothes."
+- **L2 Two Jobs (p.71)**: two paragraphs with a word-match
+  (hard-working = the opposite of lazy · university,
+  college = places to study · to study = to spend time
+  learning about something · subjects = things you learn at
+  school · clever = quick to learn and understand). "**Dr
+  Salwa** works in a hospital. She takes care of sick people
+  and makes them better. She is very hard-working. She
+  usually works eight hours a day, but she sometimes has to
+  work twelve hours. At school, she was very clever and
+  good in all subjects. After school, she went to
+  university. She had to study for six years. She likes
+  being a doctor because in this job she can help people."
+  "**Hanan** is an office manager. She answers phone calls
+  and she sends and receives emails on a computer. She
+  usually works every day from 8 a.m. to 2 p.m., but she
+  sometimes has to work in the afternoon. Sometimes she has
+  to go to different countries. Her best subjects at school
+  were mathematics and English. After school, she went to
+  college to study business administration. She had to study
+  for four years. She enjoys her job because she meets a
+  lot of different people. She also enjoys travelling."
+  (Track 36 interviews a nurse — kept with the Transcripts.)
+- **L3 A Day in the Life of a Firefighter (p.72)**: an
+  eight-picture story to tell from its opening — "When I
+  arrived at the fire station yesterday morning … I checked
+  my equipment." — 10.00 the call ("The supermarket is on
+  fire! Come quickly!") · 10.05 "People are trapped
+  inside." · hoses pointed at the building · 10.25 "We went
+  into the building." · "We saved all the people." · 14.00 a
+  second call ("Accident on the ring road!") · a car on
+  fire, another upside down. Track 37 tells the whole day
+  in words (kept with the Transcripts).
+- **L4 What's my job? (p.73)**: three guessing games with
+  their rules and sample talk printed: **Game A** — think
+  of a job; your partner asks up to five questions ("Do you
+  help people? — Yes. — You're a doctor. — No. Wrong.").
+  **Game B** — write a job on paper and put it on your
+  partner's back; they ask questions to find out ("Do I
+  work at night? — Sometimes. — Is my job dangerous? — Yes.
+  — I'm a firefighter. — Yes. Correct."). **Game C** — think
+  of a job and five things you can say about it; after each
+  sentence your partner guesses ("I work outside. — You're
+  a policewoman. — No. I don't wear a uniform."). The jobs
+  box: architect, artist, bus driver, cook, doctor, editor,
+  engineer, farmer, firefighter, mechanic, nurse,
+  park-keeper, photographer, pilot, policewoman, reporter,
+  secretary, shepherd, shop assistant, singer, teacher.
+  Track 38 plays both classroom versions (kept with the
+  Transcripts).
+- **L5 A School Timetable (p.74)**: "Timetable – 2nd
+  Intermediate" for a student in England, printed in full:
+  lessons from 8.30, Break 10.00, Lunch 12.30, End of day
+  3.15; Monday English, Maths, Geography, PE, RE · Tuesday
+  History, Science, Music, English, Maths, French,
+  Geography · Wednesday Maths, English, Science, IT, Sport
+  · Thursday RE, French, English, Maths, History, Home
+  Economics · Friday History, Maths, Geography, English,
+  French, RE, Science. (IT = Information Technology; Maths
+  = Mathematics; PE = Physical Education; RE = Religious
+  Education.) Track 40's pupils talk about this timetable
+  (kept with the Transcripts).
+- **L6 What are they going to be? (p.75)**: **Reading tip:
+  Predicting information** — "Before reading a text try to
+  look at the pictures or headings to guess what the text
+  is about." **Firas** is seventeen; favourite subjects
+  history, geography and art; every Friday to the zoo taking
+  photographs of birds and animals, very patient; favourite
+  animal the peacock; next year his last school exam — "If
+  he passes, he is going to go to university to study
+  animals. He wants to be a zoologist." **Mona** is
+  eighteen; favourite subjects biology and chemistry, also
+  very good at English and physics; visits hospital patients
+  who have no visitors, takes flowers, sits and talks with
+  them; "When she finishes school, she is going to be a
+  doctor." The dictionary entry for **patient** is worked:
+  patient (n.) somebody who is taken care of by a doctor ·
+  patient (adj.) able to wait for a long time and stay calm
+  without getting angry ("patiently (adv.) He waited
+  patiently for the bus."). Functional grammar: **Describing
+  action in the future: *be* + *going to* + infinitive** —
+  "We use *be + going to + infinitive* to talk about the
+  future when we know for **certain** what is going to
+  happen. Mona **is going to work** in a hospital."
+- **L7 Career Plans (pp.76–77)**: four first-person texts
+  raced for answers (Track 39's seven spoken plans are kept
+  with the Transcripts). **Sarah**: "I am fourteen years
+  old. I think I am quite friendly and hard-working. I
+  passed all my exams last year. At school, I am good at
+  languages. I am very good at English. I am not very good
+  at science. When I finish school, I am going to study
+  English at university because I want to be a translator."
+  **Adel**: "I am very hard-working and patient. I have two
+  little brothers and they never make me angry. At the
+  weekend, I always go and help on a friend's farm because
+  I love working with animals. I enjoy working with horses
+  most. At school, I am good at biology. I am going to take
+  my last school exam next year. If I get good marks, I am
+  going to go to college to learn how to make sick animals
+  better. I am going to be a vet." **Khalid**: "I think I
+  am quite friendly. At school, I am good at mathematics,
+  but I am not very good at the other subjects. I am very
+  good at making things. We have a lesson in woodwork twice
+  a week and I love it. I make things at home as well –
+  tables, shelves and cupboards. I'm going to go to a
+  vocational school to train to be a carpenter." **Dania**:
+  "I am very hard-working. I am also very fit and healthy
+  because I do a lot of sport. My favourite school subjects
+  are science and IT. I am also very good at geography and
+  English. After school, I am going to study science at
+  university. When I finish studying, I am going to fly to
+  the Moon in a spacecraft. I am going to be an astronaut."
+  Functional grammar: **Talking about a fixed time in the
+  future: *going to* + *when*** — "This sentence is about
+  the future, but we always use the present tense in the
+  *when* part of the sentence. What **are you going to do**
+  when you **finish** school?" (arrows: future / present).
+- **L8 Bob and Bashir – The Basketball (p.78)** — Story
+  time (Track 41 is the printed text): Bob is in the clinic
+  for the ant bites — "'It's going to hurt for a few days,'
+  said the nurse. 'Try to think about something else.'" At
+  Southport park's public courts, Bashir: "'I wish I had my
+  trainers,' Bashir said. 'I want to practise!' 'You're
+  sport-crazy, Bashir,' said Paul, laughing. 'Do you ever
+  think about anything else?' Bashir laughed, too. He was a
+  bit embarrassed. 'Sorry,' he said. 'I love basketball. I
+  want to be a basketball player.'" Paul: "'When I'm older,
+  I'm going to be a doctor.' 'A doctor?' I said. 'Really?
+  You'll have to study for such a long time!' 'I don't
+  mind. I enjoy studying,' said Paul. 'What about you, Bob?
+  What are you going to be?' '**Bob wants to be an
+  entomologist!**' laughed Bashir." (Footnote: "*An
+  entomologist is a person who studies insects.") "Suddenly
+  a basketball flew through the air. Bashir ducked. I
+  didn't. It hit me on the nose. 'Ouch!' I said. 'Why me?
+  Why do these things always happen to me?' Bashir and Paul
+  didn't say anything. They just laughed."
+- **Round up (p.79)**: say what jobs people do ("He's **a**
+  mechanic. · He's **an** architect." — the article before
+  job names) · talk about school subjects · describe future
+  events and plans that are certain ("When I finish school,
+  I'm going to be a nurse. · You've done no work. You're
+  going to fail the exam. · It's going to rain soon.").
+
+### Unit 7 — Saving Our World (book p.80)
+
+- **L1 World Problems (p.82)**: six newspaper headlines
+  matched to photographs, then the missing headline words
+  studied: 1 Germany — "**World getting warmer, scientists
+  say**" · 2 Kenya — "**Sixteen elephants found dead**" ·
+  3 Japan — "**Air pollution a danger to young and old,
+  doctor warns**" · 4 UK — "**Litter drowns town!**" · 5
+  USA — "**Oil kills thousands of sea birds and pollutes
+  beaches**" · 6 France — "**Waste from factory pollutes
+  town's water supply**". Photographs: an overflowing litter
+  bin · a dead elephant · waste pouring into water · polar
+  bears on ice · factory smoke · an oil-covered bird.
+- **L2 How can we help? (p.83)**: the article "**Send a
+  child to school for 100 dollars!** — In many African
+  countries, people have to pay to go to school.
+  Unfortunately, many parents are too poor to do this, so
+  their children must go without education. This is very bad
+  for their future and for the future of Africa. Did you
+  know that just 100 dollars will pay for one African child
+  to go to school for a year?" Track 42's conversation (also
+  printed): Noora "We **should** do something." — Sarah "No.
+  We **must** do something. But what?" — Dalia "We must
+  collect money to send some children to school." — Layla's
+  bring-and-buy sale, explained: "Everyone brings something
+  to be sold. And everyone buys something." — Noora will
+  bake cakes, Sarah brings CDs, Dalia plants from her
+  garden, Layla clothes; the sale in the school playground,
+  "Let's go and ask the headmistress." Functional grammar:
+  **Giving strong advice: Using *should* and *must*** — "We
+  use *should* to give advice. Example: You **should** work
+  harder. You'll get better marks in your exam. *Must* is
+  stronger than *should*. It means *have to* or *have got
+  to*. Example: You **must** work harder. If you don't,
+  you'll fail your exam." Track 43 checks the five key words
+  in the conversation (something, advertise, everyone,
+  playground, headmistress); Track 44 follows the sale up
+  (kept with the Transcripts).
+- **L3 Animals in Danger (pp.84–85)**: five animal texts
+  with real photographs, two danger-reasons to find in each.
+  **Snow leopard**: "The fur of this beautiful animal is
+  grey with biggish black spots and much smaller spots.
+  Nobody knows exactly how many there are, but there are
+  very few. It is hunted for its fur." **Ibex**: "This
+  mountain goat is hunted for its horns. They are 70 to 140
+  centimetres long. Its coat is reddish brown to greyish
+  brown. If it is not protected, it will soon disappear."
+  **Blue whale**: "This is the largest animal alive today.
+  It is 29 metres long. Whales were hunted for their oil
+  and almost disappeared. Now they are protected." **Golden
+  toad**: "The male is bright gold in colour. The female is
+  much darker. People are draining water from the places
+  where they live. When the water goes completely, the
+  golden toad will disappear." **Tiger**: "The tiger has
+  beautiful yellow and black fur. It looks like the sun
+  shining through trees and helps the tiger hide in the
+  forest. There are now fewer than 4,000 tigers in the wild,
+  because tigers were hunted for their skins." Then a room
+  picture: which animals were killed to make three things
+  in it (a leopard-skin coat, a tiger-skin rug, an ibex head
+  on the wall)? **Speaking tip: Expressing agreement or
+  disagreement** — "I agree. / You're right. | I disagree.
+  / I think you're wrong." Habitats to place the animals:
+  Sea · Mountain forest · Wetlands · Desert · Forest ·
+  High, cold places.
+- **L4 Please keep the rivers clean! (p.86)**: a four-
+  paragraph text matched to topics (a What needs to be done
+  · b Water in Africa · c The solution · d Water pollution
+  in rivers): "1 Many countries in Africa, despite the large
+  rivers, are unable to provide drinking water for most of
+  their people. In addition, there are a lot fewer fish than
+  there were before. 2 Many rivers are polluted with sewage,
+  rubbish and industrial waste. Millions of tons of waste go
+  into the rivers and streams every year. This destroys the
+  natural habitats of the wildlife and also damages our
+  beautiful rivers. It also causes huge damage to health. 3
+  The river water must be safe for drinking, fishing,
+  swimming and boating. We can make our rivers safer and
+  healthier for wildlife and people. In fact, everyone
+  should do something to keep the rivers clean. First, we
+  must stop littering. We can have teams of volunteers to
+  pick up the rubbish along the banks. The river will clean
+  itself if we stop littering. Then, we can also lead river
+  clean-up efforts. People can force their government to do
+  something to stop sewage and waste from factories,
+  hospitals and power stations flowing into the rivers. 4
+  Remember – you are the solution to water pollution. If we
+  want to have clean rivers and oceans, we must have clean
+  minds." Definitions matched in the text: a person who
+  does a job without pay = volunteer · to add harmful
+  things to water = pollute · to drop rubbish = litter ·
+  places where animals live = habitats.
+- **L5 A Warmer World (p.87)**: the greenhouse diagram (Sun
+  → heat → Earth, some heat escaping through the Earth's
+  atmosphere) and an interview with a scientist, in full:
+  "*Is the world getting warmer?* Yes, it is. *Why is this
+  happening?* There may be other causes, but it is mainly
+  our fault. *Why is it our fault?* We're burning fuels
+  like coal, gas, oil and wood. And we're driving cars. *I
+  don't understand.* All these produce gases that trap heat
+  in the Earth's atmosphere. *If the world gets warmer,
+  what will happen?* The ice caps will melt, so the sea
+  level will rise. This means some land will disappear.
+  Also, it's possible that the weather will change. *In
+  what way?* We might have hotter summers and wetter
+  winters. In some hot countries, there may be less rain,
+  and some farmland might become desert. *Will all this
+  happen soon?* Some things are already happening, but
+  others may take 30 or 40 years. *Can we stop it
+  happening?* We can if we want to." Functional grammar:
+  **Expressing possibility: *may* and *might*** — "We use
+  *may* and *might* to say there is a chance that something
+  is true or that it is possible something will happen.
+  Both are used to talk about the present or future.
+  *Might* is less certain than *may*. Examples: I **may**
+  not be at school tomorrow. It **might** be too windy to
+  go sailing this afternoon."
+- **L6 Throwing Things Away (pp.88–89)**: the Carter
+  family's cat told in eight pictures (labels: workman,
+  truck, rubbish tip): the family buys a new TV; the cat
+  Puss, shut out in the rain, climbs into the empty TV box
+  outside; the workman loads the box; at the tip he hears
+  "Miaow! Miaow!", calls "Puss! Where are you, puss?",
+  opens the box — and the cat streaks out. "What do you
+  think happened next?" (Track 46 tells it in words, with
+  the ending — kept with the Transcripts.) Then wasteful
+  people to judge, Track 47 to check (three conversations —
+  kept with the Transcripts), and the saying: "**Waste not,
+  want not!** — Is there an Arabic saying like this?" with
+  an honesty questionnaire ("Are you wasteful? … Do you …
+  leave the water running when you brush your teeth? ·
+  switch off the light when you leave a room? · leave food
+  on your plate? · throw away things when there is nothing
+  wrong with them?" — always / sometimes / never) and strong
+  advice for litterers: "Don't drop litter in the street!"
+  (throw / out of your car · drop / in the park · leave /
+  on the beach).
+- **L7 The Moving Desert (p.90)**: the article from
+  www.environmentalawareness.com/movingdesert, in full:
+  "THE MOVING DESERT — The moving desert is a danger from
+  which many countries around the world suffer. The problem
+  is caused by social, political, economic or natural
+  factors. Deserts which 'move' or increase in size like
+  this harm both the environment and the people who live
+  there. Sand storms, low rainfall, keeping too many
+  animals, over-farming and tree cutting creates dry zones.
+  Many fertile areas have disappeared. This problem damages
+  all aspects of life and is a challenge to many people
+  across the world, especially in Africa. Ninety per cent
+  of Libya is covered by desert, so the fertile areas in the
+  north of the country – the Jebel Akhdar region near
+  Benghazi, and the Jifara Plain on which Tripoli stands –
+  are extremely important for agriculture and must be
+  protected. However, recent satellite pictures show that
+  the desert is still expanding. People in Libya are
+  beginning to realize how serious the problem is, and the
+  government is looking for solutions. Vegetation is very
+  good for protecting the soil. Therefore, one solution is
+  to use water piped from deep underground to create
+  man-made oases. Another solution is to build highly
+  efficient irrigation systems. These systems keep the soil
+  wet, but not too wet, so that not all the nutrients onto
+  the soil slowly, rather than sprinkling it. Finally, a big
+  factor is education. The National Plan for Agricultural
+  Development is teaching people that, every now and then,
+  farmland needs to be given a rest from animals and crops.
+  That way, the soil doesn't get too dry and turn into
+  desert." (The sentence about irrigation is broken in the
+  printing — "so that not all the nutrients onto the soil
+  slowly" — filed as printed; see the differences note.)
+- **L8 Bob and Bashir – The Medals (pp.91–92)** — Story
+  time (Track 48 is the printed text): the mountain walk
+  again — "One day we went on a mountain walk. Jim Cooper
+  was running up the mountain like a goat. 'Come on, guys.
+  Faster! Faster!' he called. Suddenly he slipped and fell.
+  'Aaah!' he screamed. 'My leg! It's broken!' Chuck and
+  Aziz found two sticks and tied them to Jim's leg. 'That's
+  better,' said Jim. 'But I can't move. Two of you will have
+  to go to the nearest farm and send a message. Can any of
+  you drive?' 'I can,' said Bashir. 'I drove a tractor on my
+  uncle's farm.'" Bashir drives the bus ("I found the
+  nearest town on the map and gave directions. After an
+  hour, we saw some houses."); a young man gives directions
+  and they send the urgent message to Southport. "In a very
+  short time, a rescue helicopter arrived. The pilot was
+  **Dick Bird**. 'Climb in,' he shouted. 'And look out for
+  your friends. If you see them, shout.'" From the air Bob
+  spots them — "Chuck, Paul, Hans and Aziz were waving arms
+  and jackets like flags in the wind." Dick's first-aid
+  order: "'No, no,' said Dick. 'You mustn't move him. Not
+  like that. You never know. It might be serious. We'll make
+  a stretcher.' Very carefully, Bashir and I lifted Jim on
+  to our stretcher. It was made from two pieces of wood and
+  three sweaters." Jim goes to Southport Hospital by
+  helicopter. The next day at camp: "'Well done!' said Rod.
+  'You were fantastic. You're going to get a medal. Both of
+  you. The WYC medal.' The next day, everybody cheered as
+  Rod Border pinned on Bashir's medal. 'Thank you, Rod,'
+  said Bashir, smiling. Then Rod pinned on my medal. 'Ouch!'
+  I screamed. I thought it was the ants again. I ran. 'Ants!
+  Ants!' I shouted, as I jumped into the pool. 'Bob,' said
+  Bashir, laughing. 'It was only this.' He was holding up
+  the pin of the medal. 'Oh, no!' I said. 'Why me? Why do
+  these things always happen to me?'"
+- **Round up (p.93)**: headlines in full form ("'The world
+  **is** getting warmer,' scientists say. · Sixteen
+  elephants **were** found dead.") · *should* and *must* ·
+  make offers ("I have some books. **I'll bring** those. ·
+  **I'll bring** some plants. · **I'll bring** some
+  clothes.") · agreement and disagreement · possible future
+  events ("There **may** be less rain. Farmland **might**
+  become desert. It's **possible that** the weather will
+  change.").
+
+### Unit 8 — Fun with English 2 (book p.94; revision of
+### Units 5–7)
+
+- **L1 Listening (p.96)**: **Listening tip: Listening
+  carefully** — "Sometimes we need to listen very carefully
+  for particular information. If we don't hear the
+  information, or if we don't note it down correctly, we may
+  have lots of problems – like the people in the pictures
+  below." Three pictured muddles to guess, then Track 50
+  settles them (kept with the Transcripts): **Susan** rang
+  the number she was given — 432147 — but it belongs to a
+  stranger, not Liz · **Jalal**, come to stay with Dave for
+  a holiday in England, stands at a completely dark house:
+  "24 West Street? … perhaps it's the wrong number. Or
+  perhaps it's West Road – or Drive, or …" · **Jane Smith**
+  arrives for her interview with Miss Brown at four — the
+  interview was **yesterday**; she wrote down the wrong
+  day, and the secretary job is filled. Track 51 adds a
+  radio news item (the Castle Street fire — kept with the
+  Transcripts).
+- **L2 Speaking (p.97)**: **Speaking tip: Fluency** — "•
+  When you are reading aloud, don't stop after each word.
+  We say words in groups, so when you are saying a word,
+  your eyes need to be on the words that come after it. •
+  Try to show how the speaker feels." Two restaurant reports
+  read aloud (Tracks 52 — awful vs fantastic), the memory
+  game **Going on holiday** (Track 53: each speaker adds an
+  item — two pairs of shoes · three shirts · a camera · a
+  book · a bar of chocolate — and "You forgot book, so we
+  have to start again."), and two job adverts to phone
+  about: "Garden help wanted. Schoolgirl or schoolboy once
+  a week for 2 or 3 hours. Tel: 327 444" · "Play with my
+  children! Mother wants afternoon help with children aged
+  5, 7 and 9. Lovely garden and lots of toys. Tel: 596 369".
+- **L3 Reading (p.98)**: **"A high-flying job"**
+  (www.pilotcareersblog.com), the year's topic-sentence
+  lesson, in full: "Muhammad has always wanted to be a
+  pilot. When he was a little boy, he played with toy planes
+  when other boys played with their cars and trains. He
+  used to sit in the garden and look up at the sky, waiting
+  for a plane to pass over his head. His father sometimes
+  took him to the airport to see the planes. Muhammad did
+  very well at school. He worked hard at everything, but
+  especially at mathematics and English because he needed
+  these subjects to be a pilot. He knew that English is the
+  'language of the air', so he did a lot of extra work on
+  English in his spare time. Muhammad got top marks in his
+  final school exams and he was able to go to an aviation
+  college in Germany to train to be a pilot. Muhammad will
+  never forget his time at the college or the people he met
+  there. On the day when he took off on his first solo
+  flight, he was a little nervous, but he was also excited
+  to be flying a plane by himself. 'It was really
+  exciting,' he told his friends afterwards. Muhammad also
+  had to take written exams which were very difficult.
+  However, he passed them all. 'The day I got my pilot's
+  certificate was the best day of my life,' he said." Words
+  worked out from context: especially · language of the air
+  · aviation college · extra · solo · pilot's certificate.
+- **L4 Writing (p.99)**: **IMPROVING YOUR WRITING SKILLS**
+  (www.improvingyourwriting.com) — five more tips: "**Tip 1:
+  Spelling** — To improve your spelling try this: • Look at
+  five words in a list every night. • Spell them aloud. •
+  Ask somebody to test you. Try writing difficult words
+  (e.g., *friend*). **Tip 2: Punctuation** — Can you answer
+  these questions? 1 When do you need to use these? •
+  capital letters • apostrophes • full stops • speech marks
+  • question marks 2 You also need to use commas sometimes.
+  When? **Tip 3: Grammar** — When you are checking your
+  draft, look at the verbs and ask yourself these questions:
+  1 Am I writing about the present, the past or the future?
+  Use these words and phrases to check: *yesterday · last
+  week · tomorrow · now* 2 Is this the right part of the
+  verb? **Tip 4: Joining words** — Use joining words to show
+  how your thoughts fit together. **Tip 5: Adjectives and
+  adverbs** — Use adjectives and adverbs to paint a picture.
+  This will make your writing more interesting." Practice:
+  write the sentence correctly ("youve done well in maths
+  english and arabic my mother said"), join three sentence
+  pairs (Ameen was very sad because his grandfather died ·
+  Hanan meets lots of different people · Marwa and maths),
+  think of nouns for twelve adjectives and adverbs for six
+  verbs.
+
+### Back matter
+
+- **Checklist for Written Work (p.100)** — a **fuller
+  version than Grade 8's**, in the same three tick-box
+  sections. Planning your work (7 boxes): "Read the question
+  carefully. Underline the important parts. Do you understand
+  it? If it is not clear, then ask your teacher. ·
+  Brainstorm as many ideas as you can of what you are going
+  to write about. Write them down as a list or mind map. ·
+  Look up any vocabulary that you are unsure of. · Select
+  the ideas you want to use and delete any that are not
+  relevant. You don't have to use everything. · Put your
+  ideas into a logical order and group ideas that go
+  together in sections. · If you can, find a model text and
+  look at the style and layout. Are there any phrases or
+  vocabulary that you can adapt for your own work? (Be
+  careful not to copy chunks of the model text without
+  changing it though.) · Think about who you are writing for
+  and decide on the style and layout. For example, if you
+  are writing a letter to a friend, the style will be
+  different to a formal letter and the layout will be
+  different to a story." Writing and revising your work (6
+  boxes): first draft without worrying about accuracy · new
+  paragraph for each new idea · read through and check you
+  answered the question · delete, change or add ideas ·
+  consider changing paragraphing or order · "Check that you
+  have linked your ideas using connecting words and phrases
+  (e.g., *first, next, then*, etc.)" · second draft carefully
+  and slowly. Editing your work (3 boxes): read through and
+  check question answered, sentences clear, grammar correct,
+  suitable vocabulary and linking words, spelling correct
+  (check with a dictionary) · "Show your work to your family
+  or a friend and see if they can help you edit it." · the
+  reverse-order editing tip, as in Grade 8.
+- **Transcripts (pp.101–114)** print all **53 tracks**.
+  Besides the texts already kept with their lessons, they
+  settle or add: **Track 1** the girls' magazine meeting
+  (Nadia chairs; Maysam problem page; Sarah interview;
+  Nadia herself writes the story — "It'll be quicker if I
+  do it"; Rasha refuses school news again and takes the TV
+  review; Muna school news; Sally sports news) · **Track 7**
+  the restaurant in full — Reema: baked potato with "a
+  little butter", mixed salad with tomatoes, lettuce and
+  onions, fruit salad and a little ice-cream, orange juice ·
+  Waleed: a large burger and chips, "a large piece of
+  chocolate cake and a lot of ice-cream" (Father: "Not too
+  much ice-cream"), a large cola · Father: grilled fish and
+  rice · **Track 10** two doctor conversations that exist
+  only here — Noora's earache: two drops now, two more
+  before bed, "Use the drops twice a day until your ear
+  doesn't hurt any more", no swimming until better · Rasha's
+  headaches: red eyes, glasses she won't wear — "you should
+  wear them all the time… Except when you're sleeping, of
+  course" — twelve painkillers, "Take two with water, three
+  times a day – today and tomorrow" · **Track 12** two more
+  limericks, only here: "There was a young boy from Kuwait,
+  / Who got to school every day late. / When his teacher
+  asked 'Why?' / He replied with a cry, / 'My clock always
+  wakes me at eight.'" and "There was an old man from
+  Jaipur, / Whose house had a green and blue door. / I said,
+  'I like white.' / He said, 'That's all right. / But I
+  think that white is a bore.'" · **Track 14** Huda at the
+  doctor: stomach ache since yesterday morning, lamb and
+  rice with a salad the night before, "It hurts all over" —
+  "Well, it's not appendicitis then. I'll give you some
+  medicine. Take it three times a day. If the pain doesn't
+  go away, come and see me again tomorrow and we'll do some
+  tests." · **Track 19** three more sports-centre bookings:
+  gymnastics beginners for girls Wednesday at seven ·
+  swimming team practice Thursday at seven · advanced
+  horse-riding Saturdays at ten in the morning · **Track
+  23** the waiting-room conversation (earache, then a
+  headache as well; "Pain in my back. Sitting on chairs like
+  these doesn't help.") and the restaurant conversation
+  (chicken with orange sauce — "It's all right. Nothing
+  fantastic.") · **Track 25** the Andrews' orders, settling
+  the U4 notes: Mr Andrews — fried chicken with rice,
+  salad, chocolate cake, apple juice · Mrs Andrews —
+  grilled fish with chips, salad, fruit salad, mineral
+  water · **Track 26** the Sports Weekend timetable built by
+  talk: Saturday beginners only, Sunday advanced only —
+  karate beginners Sat 10–12, advanced Sun 2–4 · tennis
+  advanced only, Sun 5–7 · athletics beginners only, Sat
+  2–4 · gymnastics beginners Sat 5–7, advanced Sun 10–12 ·
+  **Track 27** Wendy's talk with her teacher — the
+  problem-page conversation the Aunt Sally lesson points to:
+  headaches every morning, lemonade and a packet of crisps
+  just before bed at about ten o'clock ("You shouldn't have
+  lemonade or anything like that just before you go to bed.
+  Have a glass of milk or some water. But no tea or coffee
+  or lemonade. And no crisps. You'll sleep better."), driven
+  the one kilometre to school ("You should walk to school.
+  And walk home. You have to take some exercise.") ·
+  **Track 30** three short information conversations (the
+  weather forecast on the radio for a fishing trip · Maysam
+  hunting a famous Libyan inventor for the magazine —
+  "Go to the reference section in the library then. You'll
+  probably find some information there." · Bilal and Khalid
+  and the cinema listings in the newspaper's 'What's on'
+  section) · **Tracks 31–32** Anas's two calls to Tripoli
+  Medical Centre — the bad one first (he groans before
+  saying who he is, can't remember when the pain started,
+  can't come until his mum gets home at four), then the
+  same call done properly ("Hi. My name's Anas Abdullah. I
+  need to book an appointment to see a doctor. I have a
+  stomach ache… around three days now… Any time after four,
+  please?… I have an appointment at 4.30. Would that be
+  OK?") · **Track 34** Nadia and Sarah — emailing Helga, her
+  penfriend in Germany for a year, from the internet café
+  because Nadia's computer is broken: "That would be quite
+  expensive! It's much cheaper to send an email." ·
+  **Track 36** the nurse interview: "I work at the Albaraa
+  Hospital… I had to study for four years… I usually have
+  to work ten hours a day… I usually see about forty or
+  fifty people every day." — and she does not want to be a
+  doctor: "I love my job." · **Track 38** the games played
+  in two classrooms: Miss Hadeel's class plays Game A
+  (five questions — the job is a policewoman) and Mr
+  Kareem's class plays Game C (five sentences — farmer,
+  ambulance driver, bus driver, taxi driver guessed wrong;
+  "I work at the airport" — "You're a pilot! Of course!") ·
+  **Track 39** seven spoken career plans (restaurant then
+  his own restaurant · flight attendant showing people to
+  their seats · pilot — "One day I'm going to fly one of
+  those!" · teacher after training college — "I'm very
+  patient" · vet after university · office worker after
+  college · one undecided: "When's French today?") ·
+  **Track 40** five pupils reading the England timetable
+  (after the break: Science, a double IT lesson; Home
+  Economics — "I've forgotten to bring my flour!"; PE after
+  geography and before RE; the last lesson Geography —
+  "I haven't done my homework") · **Track 44** the
+  bring-and-buy follow-ups: Suhad brings her old camera
+  ("I've just got a new one, but the old one still works"),
+  Wisal her read books, Widad a doll she doesn't play with
+  any more — all for Monday at four o'clock in the
+  playground · **Track 46** the cat story told in words,
+  ending: "'Puss! Where are you, puss?' he called. He found
+  the box, opened it, and the cat jumped out. It raced
+  away. Like all cats, it was able to find its way home. It
+  reached the house and sat outside. 'Miaow! Miaow!'
+  Somebody opened the door and the cat ran inside." ·
+  **Track 47** the three waste conversations: Tamara
+  leaving food ("I can't eat it. I took too much." —
+  "People around the world are hungry. Think of them next
+  time.") · James brushing his teeth with the tap running
+  ("But we have plenty of water." — "Yes, we have now, but
+  we may not always have plenty. Turn the tap off.") ·
+  Nasser's blazing lights ("I don't think it is lovely. I
+  think it's terrible to waste electricity like this. You
+  should switch most of them off. Waste not, want not,
+  remember?") · **Track 49** Yassir and Jamal on the beach —
+  Jamal is talked into collecting bottles and cans while
+  Yassir takes the paper ("Well, I'm having some water now
+  and when I've finished. You'll feel fantastic when you've
+  finished!" — "Hm, maybe. But I came to the beach to enjoy
+  myself, not to work.") · **Track 51** the radio news in
+  full: "A house in Castle Street was ruined by fire last
+  night… Mrs Sarah Brown and her two children, Ann, five,
+  and Kate, three, were asleep upstairs. Mr Brown works at
+  night, so he was not in the house when the fire broke
+  out." Sam White, the neighbour, called the firefighters
+  on his mobile phone; Mrs Brown at the upstairs window
+  refused to jump: "'I told her to jump, but she shouted:
+  "No, not without the girls!"'"; the firefighter told the
+  reporter the girls were found "not in their bedroom, but
+  in the bathroom. That probably saved their lives."
+- **Key Words (pp.116–126)**: per-unit glossary as described
+  in the header. **Phonetic Symbols (p.127)**: the full
+  chart, not listed in the Contents; its keyword column
+  carries slips as printed — the /e/ keyword reads "**mgn**"
+  (for *men*), and several keywords' underlined letters sit
+  oddly (cat, but, not).
+
+### Slips and differences inside this book, as printed
+
+1. **Track 8's name.** The Lesson 4 pictures name the boy
+   **Jamal**; the Track 8 transcript list reads "Mona: I've
+   got toothache. Adam: I have a stomach ache. **Jameel**: I
+   have an earache. Nadia: I've got a headache." — Jamal /
+   Jameel, each as printed.
+2. **The ice-cream count is never stated.** Lesson U3 L8's
+   own question asks "How many ice-creams did Bob buy?" —
+   the story shows orders from Bashir, Paul, Hans and Rod,
+   and Bob carrying melting ice-creams, but gives no number.
+   Filed as printed.
+3. **The Moving Desert's broken sentence.** "These systems
+   keep the soil wet, but not too wet, so that not all the
+   nutrients onto the soil slowly, rather than sprinkling
+   it." — words are missing in the printing (the sense is
+   that nutrients are not washed away because water is
+   dripped onto the soil slowly); filed as printed, not
+   silently repaired.
+4. **Contents gap.** The Contents lists Checklist,
+   Transcripts and Key Words but not the Phonetic Symbols
+   page (p.127) that the book does contain.
+
+**Libya Grade 9 Course Book — READ COMPLETE 2026-10-25.**
+Basics filed above; acceptance counts unchanged — same
+country, the next spiral up (the Preparatory course's spine
+now adds the passive in three forms, *used to*, *going to*
+for certain futures, *may/might*, and a full year of skills
+tips gathered in the two Fun with English units). Next per
+the queue inside this grade: the **Teacher Book** (162 pp),
+then the Work Book (94 pp), one book at a time.
