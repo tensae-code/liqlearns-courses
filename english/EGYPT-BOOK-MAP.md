@@ -1350,6 +1350,117 @@ Review 1 covers Units 1–3 and sits between Unit 3 and Unit 4.
     log / pot, hot, dot / mop, hop, pop — the learner fills each box
     writing that word.
 
+### P1T2 Unit 5 "Neighborhood" — page by page (PDF pp.85–101; read 2026-10-25)
+- p.85 Unit opener + Learning Outcomes: name familiar places; ask
+  and answer simple questions about places; recognize common action
+  words; recognize the short vowel sound /ʌ/ in familiar words;
+  recognize word families; identify rhyming words; read CVC words
+  with short vowel sound /ʌ/; identify and pronounce consonant
+  blends with letter (l) in familiar words; recognize sight words.
+- **Lesson 1: Around My Town** (pp.86–89)
+  - p.86 Ex.1 Listen and repeat — eight town words on pictures:
+    **hospital, school, shop, building, street, car, truck, bus**
+    (the hospital is shown with its ambulance; the school is a
+    grand columned building).
+  - p.87 Dialog (Listen): Sara: "Let's walk around town, Ali!" ·
+    Ali: "Okay! Look, this is a school." · Sara: "And where do you
+    go when you feel sick?" · Ali: "I go to the hospital." · Sara:
+    "What do you see on the street?" · Ali: "I see a truck, a bus,
+    and a car." · Sara: "Wow! And what's that big building over
+    there?" · Ali: "That's a shop. We can buy things there." ·
+    **Sight words: is – a – do – you – go – I – to – see – on – the
+    – and** · Ex.3 Listen and circle (hospital, shop, street, bus —
+    each word over two pictures).
+  - p.88 Ex.4 Check (✓) if the word matches the picture, (✗) if it
+    doesn't — the first one is worked: "hospital" under a bus is
+    marked ✗ in red (street ✓, school ✓, shop under "truck" ✗, the
+    hospital under "bus" ✗, building ✓) · Ex.5 Match the word to the
+    correct picture (hospital, shop, street, bus, truck, school).
+  - p.89 Ex.6 Check (✓) the correct picture (shop, building, street,
+    car — each name over two pictures).
+- **Lesson 2: Phonics — Short Vowel /ʌ/, Word Families** (pp.90–93)
+  - p.90 Ex.1 Listen, read and repeat: **"-ug" family — hug, jug,
+    mug · "-un" family — bun, run, sun · "-ut" family — hut, nut,
+    cut**, same devices as before (dots, blending arrow, pink u).
+    With this lesson the book has given word families for **all
+    five short vowels**: /æ/ and /ɛ/ (Unit 3), /ɪ/ and /ɒ/ (Unit 4),
+    /ʌ/ (Unit 5).
+  - p.91 Ex.2 Choose the correct word — now from **three** printed
+    words per picture (jug: jug/mug/hug; sun: bun/sun/run; bun:
+    bun/sun/run; hut: cut/nut/hut; mug: jug/mug/hug; nut: cut/nut/
+    hut).
+  - p.92 Ex.3 **Word search** — the book's first: "Look for the
+    hidden words using the list of words given" — a 9×9 letter grid
+    holding the nine short-u words (jug is found and circled, and
+    crossed off the "Short u" list: jug, hug, mug, sun, bun, run,
+    hut, cut, nut) · Ex.4 Write using words from the box (hug – run
+    – cut; three action pictures with empty labels).
+  - p.93 Ex.5 **Chant with rhyming words**: "I found a nut near my
+    hut, / I used a knife to cut. // I held my mug, I filled it up /
+    with milk from the jug. // I ate a bun and went for a run, I /
+    looked at the bright sun." · Ex.6 Find the words in the chant
+    and write ("A word rhyming with sun (___) / with hut (___) /
+    with hug (___)") · Ex.7 Match the rhyming words (bun, nut, jug
+    against hut, mug, sun — word + its own picture on each side).
+- **Lesson 3: Places I Visit** (pp.94–97)
+  - p.94 Ex.1 Listen and repeat — three places, each with what you
+    do there: **Park** — jump ("I can jump."), throw ("I can throw
+    the ball."), catch ("I can catch the ball.") · **Zoo** —
+    animals ("I see animals in the zoo.") · **Beach** — dig, swim,
+    run (words only, no sentences).
+  - p.95 Dialog (Listen): Ali: "Good morning, Sara. What are your
+    plans for today?" · Sara: "Good morning, Ali. Let's go to the
+    park." · Ali: "Great idea. I can run and throw the ball." ·
+    Sara: "And I will catch it!" · Ali: "Tomorrow, let's visit the
+    zoo." · Sara: "Yes. We can see so many animals there." · Ali:
+    "And next week, let's go to the beach." · Sara: "Awesome! We can
+    swim, play in the sand, and dig together." · Ali: "That will be
+    so much fun." · **Sight words: go – to – the – I – can – will –
+    it – we – see – there – and – so – be – in – for – are** · Ex.3
+    "Guess where we are…" — the book's first little definitions to
+    solve: "The place where we can see animals. It is the (beach –
+    zoo)." / "The place where we can swim and dig. It is the (park –
+    beach)." / "The place where we can throw and catch the ball. It
+    is the (park – zoo)."
+  - p.96 Ex.4 Circle the word that matches the picture, inside "I
+    can …" sentences ("I can (swim – jump)." / "I can (throw –
+    dig)." / "I can (swim – catch)." / "I can (run – throw).") ·
+    Ex.5 Check (✓)/(✗) word–picture matches (catch ✓, beach ✓, run
+    ✓, zoo under a street ✗).
+  - p.97 Ex.6 Write the number next to the correct picture (1 park,
+    2 zoo, 3 animals, 4 beach, 5 run, 6 dig — six words, six
+    pictures).
+- **Lesson 4: Phonics — Consonant Blends with (l)** (pp.98–100)
+  - p.98 "Consonant Blends — Blend with letter (l)!" · Ex.1 Listen
+    to each sound, blend, and repeat: **cl → clock · bl → black ·
+    fl → flag · sl → slide** — same arrow-box device as the s-blends;
+    the flag pictured is **the flag of Egypt**.
+  - p.99 Ex.2 Match the picture with the correct consonant blend
+    (black, slide, clock, flag → cl, bl, fl, sl) · Ex.3 Choose the
+    correct consonant blend (clock: fl/cl; slide: gl/Sl; flag:
+    fl/bl; black: bl/cl — gl appears as a wrong choice, never
+    taught).
+  - p.100 "More Blend Words!" (Ex.5 — the lesson's numbering skips
+    4): "Can you think of more words that start with the same
+    blends: cl, bl, fl, and sl?" — four boxes give only the blend
+    and a hint picture (a cloud for cl, the black splat for bl, a
+    flower for fl, a sleeping boy for sl); no word is printed — the
+    learner must think of the word the picture points to.
+- p.101 Writing Practice (Ex.6): nine lined boxes headed hug, jug,
+  mug / bun, run, sun / hut, nut, cut — the learner fills each box
+  writing that word (the /ʌ/ words of Lesson 2).
+
+Unit 5 (Term 2) basics filed: the town set (hospital, school, shop,
+building, street, car, truck, bus) with the "Where do you go when you
+feel sick? I go to the hospital." and "What do you see on the street?
+I see a …" patterns, the visit places (park, zoo, beach) with their
+action words (jump, throw, catch, run, swim, dig) and "I can …"
+sentences, and the unit's sight words are recorded here for the Word
+and Sentence titles in ladder order. The /ʌ/ families (-ug, -un, -ut)
+— completing all five short vowels — and the (l) blends (cl, bl, fl,
+sl) are filed in the book map above and noted in the-alphabet
+sources — Word-step material.
+
 Unit 4 (Term 2) basics filed: the rooms set (bedroom, living room,
 kitchen, dining room, bathroom) with the "I … in the …" room
 sentences, the furniture set (bed, closet, chairs, table, couch, TV,

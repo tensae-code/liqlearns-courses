@@ -173,6 +173,14 @@ blends and short-vowel word families:
   hot, dot), PDF pp.80–84, with the family words completed inside
   sentences and a rhyming story-chant. Filed fully in the Egypt book
   map; Word-step material.
+- Word families, short /ʌ/ (Term 2 Unit 5, Lesson 2): **-ug** (hug,
+  jug, mug), **-un** (bun, run, sun), **-ut** (hut, nut, cut), PDF
+  pp.90–93 — same blending-arrow device, plus the book's first word
+  search. With this, all five short vowels have families in Egypt
+  Primary 1 Term 2: /æ/ /ɛ/ /ɪ/ /ɒ/ /ʌ/. Second blend set (Unit 5,
+  Lesson 4): blends with (l) — **cl** (clock), **bl** (black), **fl**
+  (flag — the flag of Egypt), **sl** (slide), PDF pp.98–100. Filed
+  fully in the Egypt book map; Word-step material.
 - Past single letters (Term 2 Unit 2, Lesson 4): consonant blends
   with s- — **sk** (skip, sky), **sn** (snail, snake), **st** (strong,
   star), **sw** (swing, swim), PDF pp.38–41 — the blend printed pink
