@@ -35,5 +35,12 @@ added the same way as the books are gone through, only when a country's
 book actually teaches that part.
 
 Built so far: Greetings → hello-and-your-name (from Egypt, Primary 1) —
-kept, and filed under its title; it is NOT Lesson 1 of the path. The
-path starts at Letter, from the KG books.
+kept, and filed under its title; it is NOT Lesson 1 of the path.
+
+Before Letter, one step lower and outside this course: **Pencil and
+Lines** — its own normal course, and the prerequisite before this and
+every language course (holding a pencil; drawing and understanding
+lines). It began as a lesson in this folder (Letter →
+before-the-letters) and was promoted by his ruling, 2026-10-25. The
+English path therefore reads: Pencil and Lines → Letter → Word →
+Sentence → Paragraph → Essay → Story → Novel.

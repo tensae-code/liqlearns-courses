@@ -106,6 +106,15 @@ liqlearns-courses/
   page, inside the lesson. Never a link away to another website. A shown
   page is proof, not a download — the book file is never handed out (see
   the no-downloads rule at the top).
+- PENCIL AND LINES — A NORMAL COURSE, PREREQUISITE BEFORE EVERY
+  LANGUAGE (2026-10-25, his ruling): holding a pencil and drawing /
+  understanding lines is not a side lesson inside English. It is its
+  own course (pencil-and-lines/), standing as the prerequisite before
+  EVERY language course — because learners have to learn the words,
+  and words are written: the hand learns first. Recommended, never
+  forced, like every prerequisite. Content merges from every finished
+  country's first books (KG/Grade 1), as basics are found and filed
+  where they belong.
 - BUILD FROM FINISHED COUNTRIES ONLY — THEN UPDATE (2026-10-25, his
   order, settling the source question): a course is built only from the
   books of countries that are FINISHED in the library (every book found
