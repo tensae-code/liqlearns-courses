@@ -9,5 +9,6 @@ and match every capital to its small letter.
 
 ## Level 2 — the sounds
 Level 2 questions from the type files. Pass mark: given any letter,
-say its sound and its book word ("T — t — tomato"); given the sounds
-group s, a, t, p, i, n, read: sat, pat, tin, pin.
+say its sound and its book word ("T — t — tomato").
+(Reading whole words by joining the sounds — sat, pat, tin, pin —
+is the Blending sounds lesson, next door; it is not tested here.)

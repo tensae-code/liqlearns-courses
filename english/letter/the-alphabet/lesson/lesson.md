@@ -34,14 +34,17 @@ car. When you sing them in order, the train moves; when one car is
 missing, you feel the gap. That feeling is the alphabet working.
 
 Now, a second way books teach them — Egypt does not start at A. Egypt's
-first letters are T and I, then S, A, and N. Why? Because with just a
-few letters, in the right order, you can already READ whole words:
-with s, a, t you can read "sat"; add p and you have "pat"; add i and n
-and the words grow. Libya's second unit uses that same group — s, a,
-t, p, i, n — right after the alphabet. Both ways stay in this lesson:
+first letters are T and I, then S, A, and N: a few letters at a time,
+grouped by their sounds. Libya's second unit uses that same group —
+s, a, t, p, i, n — right after the alphabet. Both ways are ways of
+teaching the same 26 letters, so both stay in this lesson:
 - The ORDER way (Libya Unit 1): the whole train, A to Z.
 - The SOUNDS way (Egypt KG1, Libya Unit 2): a few letters at a time,
-  chosen so words open early.
+  grouped by sound.
+
+(Joining those sounds together to read whole words is a different
+thing from knowing the letters — it is the next lesson:
+Blending sounds.)
 
 ## Say it to your companion
 Read the 26 letters out loud to your companion, big name by big name.

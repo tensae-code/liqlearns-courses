@@ -26,7 +26,13 @@ The titles, in ladder order:
 Titles named by him earlier sit in this ladder or beside it as speaking
 parts, AFTER the reading foundation:
 - **Greetings** — saying hello, giving your name, saying goodbye.
-  A speaking title, not the start of the course.
+  A speaking title, not the start of the course. Its subtitles (each
+  ONE lesson, one thing): hello-and-your-name · how-are-you ·
+  good-morning-and-good-afternoon · introducing-a-friend ·
+  whats-his-and-her-name.
+- **Age** — asking and saying how old someone is. Its subtitle:
+  how-old-are-you. Age is NOT a greeting, even when a book runs it
+  inside a greeting talk — it sits under its own title.
 
 Titles use the common-sense name of the thing itself (his rule) — never
 a book's unit name, never a story or character name. A book's own name
@@ -34,8 +40,17 @@ for a part lives in that lesson's sources.md, as a tag. More titles are
 added the same way as the books are gone through, only when a country's
 book actually teaches that part.
 
-Built so far: Greetings → hello-and-your-name (from Egypt, Primary 1) —
-kept, and filed under its title; it is NOT Lesson 1 of the path.
+Built so far (after the one-thing FIX of 2026-10-25 — every built
+lesson audited; anything teaching a second thing was split out into
+its own subtitle folder with its own lesson + questions):
+- Letter → the-alphabet · blending-sounds · two-letter-sounds ·
+  blends · word-families
+- Greetings → hello-and-your-name · how-are-you ·
+  good-morning-and-good-afternoon · introducing-a-friend ·
+  whats-his-and-her-name
+- Age → how-old-are-you
+Greetings → hello-and-your-name (from Egypt, Primary 1) is kept, and
+filed under its title; it is NOT Lesson 1 of the path.
 
 Before Letter, one step lower and outside this course: **Pencil and
 Lines** — its own normal course, and the prerequisite before this and

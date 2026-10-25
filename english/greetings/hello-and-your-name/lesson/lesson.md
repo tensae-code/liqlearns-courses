@@ -37,19 +37,21 @@ See the shape of it? Hello opens it. The names go in the middle.
 Goodbye closes it. Open, middle, close — every greeting you will ever
 make has that same shape.
 
-One thing to notice, because it matters for all your English: "My name
-is Maya" is a complete sentence. The book teaches you to introduce
-yourself using complete sentences — not just "Maya," but the whole
-sentence, with its ending. One idea, one whole sentence.
+One thing to notice: Egypt's book teaches you to introduce yourself
+using complete sentences — not just "Maya," but the whole sentence:
+"My name is Maya." (What a sentence is, by itself, is the Sentence
+title's own lesson — here it is enough to use the whole shape.)
 
 ## The same lesson, from another country
-Libya's Grade 1 book teaches its greetings in its Alphabet unit, and it
-adds the time of day: in the morning you say **"Good morning."** In the
-afternoon you say **"Good afternoon."** The greeting knows what time
-it is. And Libya's next unit opens the same door as Egypt: "Hello.
+Libya's next unit opens the same door as Egypt: "Hello.
 Goodbye." — and the name question, "What's your name?" answered with
 "I'm ___." Two countries, the same shape. That is what "taught in many
 countries" looks like when it starts.
+
+(Libya's Grade 1 book also teaches greeting by the time of day —
+"Good morning / Good afternoon." That is a different thing from
+hello-and-your-name, so it lives in its own lesson next door:
+Good morning and good afternoon.)
 
 Nicaragua opens its whole Grade 1 book with greetings — Week 1, before
 any unit. It teaches the same shape with two hands: your **right hand

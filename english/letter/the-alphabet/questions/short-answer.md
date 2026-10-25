@@ -10,6 +10,6 @@ Short-answer questions only.
 
 ## Level 2
 1. Egypt's book starts with T and I — not with A. In your own words,
-   why would a book start with a few letters instead of the whole
-   alphabet? (Hint: think of the word "sat.")
+   why would a book teach a few letters at a time, grouped by their
+   sounds, instead of the whole alphabet at once?
 2. Write the sounds-way group — the six letters that open words early.

@@ -19,50 +19,37 @@ side by side on one PDF page — that was wrong.
 |---|---|
 | Unit 1 "Welcome to My School" and its Learning Outcomes — "Recognize and respond to greetings in simple conversations… Introduce oneself using complete sentences" | PDF p.7 |
 | Lesson 1 "Greetings" — the Maya and Hana dialog: Hello! / What's your name? / My name is Maya. / I'm Hana! / Nice to meet you, too / Do you want to shake hands? / Yes! (They shake hands) / Goodbye, Hana! | PDF p.8 |
-| Vocabulary pictures — hello, goodbye, shake hands, play — "Listen, repeat, then act out"; speech bubble: "What's your name? My name is Hana. We are friends now!" | PDF p.9 |
+| Vocabulary pictures — hello, goodbye, shake hands — "Listen, repeat, then act out"; speech bubble: "What's your name? My name is Hana. We are friends now!" (The same page also pictures "play" — that is a different thing, not part of this lesson.) | PDF p.9 |
 | Greetings tracing practice (following the lines) | PDF p.10 |
-| "Listen, point, and mark the matching picture": Hello! / Goodbye! / shake hands / play — and the match-the-word-to-the-picture exercise (play, goodbye, friends, shake hands, hello) | PDF p.11 |
+| "Listen, point, and mark the matching picture": Hello! / Goodbye! / shake hands — and the match-the-word-to-the-picture exercise (goodbye, friends, shake hands, hello; the exercise's "play" item is not part of this lesson) | PDF p.11 |
 
 **Second country merged 2026-10-25 — Libya:**
 English for Libya, Pupils Book Grade 1 (CERC, Ministry of Education,
 Libya; verified on disk: %PDF, 130 pp).
-- "Good morning / Good afternoon" taught inside Unit 1 Lesson 2 —
-  PDF p.10 (book p.9); also listed as Unit 1 high-frequency phrases,
-  Book Map, PDF p.5.
 - "Hello. Goodbye." and "What's your name? / I'm …" listed for Unit 2
   (My Family), Lesson 1 opening — Book Map, PDF pp.5–6; Unit 2
   "Now I can… say greetings, ask and answer about names" — PDF p.29.
-- The year's closing dialog (Unit 9, Lesson 10, book p.111; whole
-  Pupils Book read complete 2026-10-25) adds the age exchange to the
-  same greeting frame: "Hello. — What's your name? I'm ___. — **How
-  old are you? I'm ___** — Goodbye." (the story lesson of the same
-  unit has the answer "I'm 6."). Libya is the first book in the
-  courses to teach asking age inside the greeting.
-- The Teacher's Book (read 2026-10-25) gives the full audio dialog
-  of that story (Track 108), and inside it a new greeting move —
-  **introducing a friend**: "Hello, Nadia. Who's this? — This is my
-  friend, Sarah. — Hello, Sarah. — Hello, Zeinah. — How old are
-  you, Sarah? — I'm 6. — What's this? — It's my little fish. — Oh!
-  That's scary! — Sorry, Zeinah! It's just a toy. — Goodbye,
-  girls. — Goodbye, Zeinah." Filed here as the greeting frame
-  growing: hello → name → age → introducing someone new.
-- **Grade 2 layer** (Primary 2 Pupil's Book, Garnet/CERC, © 2019;
-  verified on disk: %PDF, 122 pp, image-only — read as pages):
-  Unit 1 Lesson 1 (book p.8) grows the dialog by the well-being
-  question — "Hello! How are you? — I'm very well, thanks." set
-  between Hello and the name question; Unit 2 Lesson 1 (book
-  pp.18–19) asks names about *other* people — "What's her name?
-  — Muna. · What's his name? — Kareem." — and Unit 2 Lesson 5
-  (book p.23) gives "How are you?" its three answers side by
-  side: "I'm very well, thanks. · I'm fine. · I'm not very well!"
-  plus the return question "And how are you?" The greeting frame
-  grows again: hello → how are you → name → age → his/her name.
-- **Grade 3 layer** (Primary 3 Pupil's Book, Garnet/CERC, © 2019;
+- **Grade 3 spiral** (Primary 3 Pupils Book, Garnet/CERC, © 2019;
   verified on disk: %PDF, 138 pp): Unit 1 Lesson 1 (book pp.8–9)
-  runs the whole chain in one lesson with the year's new lead
-  child — "Hello, what's your name? — My name's Omar." · "Hello,
-  how are you? — I'm fine, thank you." · "How old are you? — I'm 8."
-  The contracted *name's* and the age moving to 8 mark the spiral.
+  runs this lesson's own exchange with the year's new lead child —
+  "Hello, what's your name? — My name's Omar." The contracted
+  *name's* marks the spiral: same shape, smoother words.
+
+**SPLIT NOTE (2026-10-25, his one-thing rule):** Libya's books run
+several other things inside the same greeting talk. They used to be
+filed here as "the frame growing." They are not this lesson, and
+each now lives in its own lesson:
+- "Good morning / Good afternoon" (Libya G1, Unit 1 Lesson 2) →
+  greetings/good-morning-and-good-afternoon
+- "How are you?" and its answers (Libya G2 and G3) →
+  greetings/how-are-you
+- Introducing a friend — "Who's this? This is my friend, Sarah"
+  (Libya G1 Teacher's Book, Track 108) →
+  greetings/introducing-a-friend
+- "What's her name? / What's his name?" (Libya G2, Unit 2) →
+  greetings/whats-his-and-her-name
+- "How old are you? I'm ___" (Libya G1–G3) → age/how-old-are-you —
+  age is not a greeting at all; it has its own title.
 
 **Third country merged 2026-10-25 — Nicaragua:**
 Inglés, Activity Book 1, Grade 1 (MINED, Nicaragua; verified on disk:

@@ -14,8 +14,8 @@ Words are the books' own letter words (Libya, Grade 1, Unit 1).
    a) E  b) I  c) A  d) O
 
 ## Level 2
-1. Which set of letters can already make the word "sat"?
-   a) q, v, z  b) s, a, t  c) x, y, j  d) o, u, w
+1. Egypt's KG book teaches its first letters in which order?
+   a) A, then B  b) T, then I  c) X, then Z  d) M, then N
 2. Which of these words starts with the letter K?
    a) lemon  b) jam  c) kite  d) nose
 

@@ -20,10 +20,10 @@ letters sources file for the full record).
 | Unit 1 is "The Alphabet" — Book Map: Unit 1 vocabulary (a–z) and the one-word-per-letter list (apple, ball, car, duck, elephant, flower, gate, hand, insect, jam, kite, lemon, monkey, nose, orange, plane, queen, rocket, sun, tomato, umbrella, violin, watch, x-ray, yo-yo, zebra) | Libya Pupils G1, PDF p.5 (Book Map, Units 1–4) |
 | Unit 1's 8 lessons and their letter groups: L1 the whole alphabet (book p.8) · L2 a–g (p.9) · L3 h–k (p.10) · L4 l–p (p.11) · L5 q–v (p.12) · L6 w–z (p.13) · L7–L8 review (pp.14–15) | Libya Pupils G1, PDF p.8 (book p.7, Unit 1 overview) |
 | Lesson 1 page — all 26 letters shown in capital+small pairs | Libya Pupils G1, PDF p.9 (book p.8) |
-| Lesson 2 page — "Listen and say Aa–Gg", the alphabet strip A–Z, and "Good morning / Good afternoon" | Libya Pupils G1, PDF p.10 (book p.9) |
+| Lesson 2 page — "Listen and say Aa–Gg", and the alphabet strip A–Z (the same page also teaches "Good morning / Good afternoon" — a different lesson: greetings/good-morning-and-good-afternoon) | Libya Pupils G1, PDF p.10 (book p.9) |
 | "Now I can… say the alphabet, say some English words" review page | Libya Pupils G1, PDF p.17 (book p.16) |
 | The SOUNDS way — first letter-sound group s, a, t, p, i, n taught as a set | Libya Pupils G1, PDF p.5 (Book Map, Unit 2 phonics line) |
-| Libya's full sounds line (whole book read 2026-10-25): after Unit 1's A–Z, the letters are re-taught by sound in groups across the year — Unit 2: **s a t p i n** (then blended at once into sit, pat, tin, pin) · Unit 3: **c k e h r m d** (+ hit, ten, hen; make, cake) · Unit 4: **g o u l f b** · Unit 6: **z w**, then two-letter sounds **ng**, **oo** (long: spoon, zoo / moon; short: foot, book) · Unit 7: **y x**, then **ch sh th** (mouth, three) and **th** (father, this) · Unit 5 (before 6–7 in book order of teaching): **ai oa ie ee or** · Unit 8: **qu ou oi ue er ar** — 42 sounds in all, the Jolly Phonics order | Libya Pupils G1, unit contents pages (book pp.17, 29, 41, 53, 65, 77, 89) |
+| Libya's sounds line for the SINGLE letters (whole book read 2026-10-25): after Unit 1's A–Z, the single letters are re-taught by sound in groups across the year — Unit 2: **s a t p i n** · Unit 3: **c k e h r m d** · Unit 4: **g o u l f b** · Unit 6 adds **z w** · Unit 7 adds **y x** — the single-letter part of the book's 42-sound line (Jolly Phonics order). The two-letter sets in that same line (**ng oo ch sh th ai oa ie ee or qu ou oi ue er ar**) are a different thing and live in letter/two-letter-sounds; the blending of the s a t p i n group into words lives in letter/blending-sounds | Libya Pupils G1, unit contents pages (book pp.17, 29, 41, 53, 65, 77, 89) |
 | Egypt's order — first sounds Tt (train, toys, turtle) and Ii (in, insect, ink); Unit 2 adds Ss, Aa, Nn | Egypt KG1, contents page, PDF p.3 (read as a picture, 2026-10-25) |
 | The sound of Tt, taught as its own page: "Listen and repeat" — toys, turtle, train; then "Let's trace letter Tt" (+ t inside train, toys) | Egypt KG1, book pp.8–9 (read as pictures, 2026-10-25) |
 | The sound of Ii: insects, ink, in; trace Ii (+ i inside ink, in); then "It's Practice Time! Circle the beginning letter" (Tt or Ii) | Egypt KG1, book pp.13–15 (read as pictures, 2026-10-25) |
@@ -158,36 +158,14 @@ blends and short-vowel word families:
   match, and Yy/Xx ✓ checks, pp.32–33. (Term 2 Unit 2, read 2026-10-25)
   **With Yy and Xx, Egypt Primary 1 Term 2 completes all 26 letters
   for the year** (Term 1's 20 + Term 2's Ww Qq Vv Zz Yy Xx).
-- Word families, short /æ/ (Term 2 Unit 3, Lesson 2): **-an** (pan,
-  man), **-ap** (map, cap), **-at** (mat, hat) — each word printed
-  letter by letter with a dot under each letter and a blending arrow,
-  the a pink; read-and-match, choose-the-word, and a rhyming chant,
-  PDF pp.48–51. Short /ɛ/ (Unit 3, Lesson 4): **-et** (pet, jet,
-  wet), **-en** (pen, hen, ten), PDF pp.57–60, same devices. These
-  are the book's first whole-word reading — Word-step material, filed
-  fully in the Egypt book map.
-- Word families, short /ɪ/ (Term 2 Unit 4, Lesson 2): **-ig** (big,
-  fig, dig), **-in** (bin, fin, win), **-ip** (hip, dip, lip), PDF
-  pp.72–75 — same blending-arrow device, plus rearrange-the-letters
-  spelling and family sorting boxes. Short /ɒ/ (Unit 4, Lesson 4):
-  **-og** (dog, fog, log), **-op** (mop, hop, pop), **-ot** (pot,
-  hot, dot), PDF pp.80–84, with the family words completed inside
-  sentences and a rhyming story-chant. Filed fully in the Egypt book
-  map; Word-step material.
-- Word families, short /ʌ/ (Term 2 Unit 5, Lesson 2): **-ug** (hug,
-  jug, mug), **-un** (bun, run, sun), **-ut** (hut, nut, cut), PDF
-  pp.90–93 — same blending-arrow device, plus the book's first word
-  search. With this, all five short vowels have families in Egypt
-  Primary 1 Term 2: /æ/ /ɛ/ /ɪ/ /ɒ/ /ʌ/. Second blend set (Unit 5,
-  Lesson 4): blends with (l) — **cl** (clock), **bl** (black), **fl**
-  (flag — the flag of Egypt), **sl** (slide), PDF pp.98–100. Filed
-  fully in the Egypt book map; Word-step material.
-- Past single letters (Term 2 Unit 2, Lesson 4): consonant blends
-  with s- — **sk** (skip, sky), **sn** (snail, snake), **st** (strong,
-  star), **sw** (swing, swim), PDF pp.38–41 — the blend printed pink
-  inside each whole word, blended and read aloud, then used inside
-  sentences. This is the first Word-step material; it is filed fully
-  in the Egypt book map and belongs to the Word title when built.
+- **SPLIT NOTE (2026-10-25, his one-thing rule):** Egypt Primary 1
+  Term 2 goes past single letters in the same book — consonant
+  blends (Unit 2 Lesson 4; Unit 5 Lesson 4) and short-vowel word
+  families (Units 3–5). Those rows used to sit here marked
+  "Word-step material." They are different things from the alphabet,
+  and they now live, in full, in their own lessons:
+  letter/blends and letter/word-families. They remain filed in full
+  in the Egypt book map as well.
 
 Same country (Egypt) in every Egypt book above — the count below does
 not change,
@@ -203,7 +181,8 @@ dots and one word. The word list mostly repeats Grade 1's, with
 three new choices — **girl** (g), **house** (h), **dog** (d) —
 and Unit 2 (book pp.19, 25–26) re-teaches the two-letter sounds
 oa · ee · ue · oo (both) · th (both) · ch · sh with the same
-words. Same country, second book: the count below does not
+words — those pairs are filed in letter/two-letter-sounds, whose
+spiral this is. Same country, second book: the count below does not
 change, but Libya's layer is now a *spiral* — taught in Grade 1,
 re-taught in Grade 2 — which is how the course itself says a
 sound is learned.

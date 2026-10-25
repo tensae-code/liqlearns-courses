@@ -2,8 +2,8 @@
 
 ## Level 1
 Pass mark: the learner holds the pencil the five-step way without
-being shown again, and can trace a wavy line and a zigzag line
-smoothly (see hands-on.md).
+being shown again. (Tracing wavy and zigzag lines is the next
+lesson, Drawing lines — it is not tested here.)
 
 ## Level 2
 Pass mark: the learner can explain the grip to their companion —

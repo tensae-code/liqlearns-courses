@@ -9,7 +9,7 @@ Join each word to when you use it.
 1. Hello          a) You say it when you leave
 2. Goodbye        b) You do it with your hand when you meet
 3. Shake hands    c) The first word when you meet someone
-4. Play           d) What friends do together after school
+4. Nice to meet you   d) The warm words when you first meet someone
 
 ## Answers
 1-c, 2-a, 3-b, 4-d
