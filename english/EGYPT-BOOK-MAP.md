@@ -308,6 +308,23 @@ Book page = PDF page − 4, same as KG1.
 - p.19 Scavenger Kite-Hunt: color only the kites with Kk on them
 - p.20 Count with me: "I have 1 basketball." / "I have 1 ball, too."
   / "I have 2!" (numbers 1–2 inside speech)
+- p.21 Numbers Are Fun! — look, count, say (1–2 balls, 1–2 kites) ·
+  p.22 point, count, then trace 1 and 2 (formation arrows) ·
+  p.23 count and circle the number · p.24 count and match
+- p.25 **Lesson 3: Listen, Learn, and Sing!** — playing manners:
+  take turns, say nice words ("Good job." / "Thank you."), play
+  safely; and a chant: "I can jump, I can run, I can play and have
+  some fun. When I play, I'm kind and fair, I take turns and show
+  I care."
+- p.26 Practice: circle the smiley for good actions; self-check
+  (Did you wait for your turn? Did you play safely? Did you say kind
+  words?) — color all three and you earn the **Manners Medal**
+- p.27 **Let's Learn With a Story!** — a 5-scene dialog to act out
+  (Jad and Karma: "Look Jad! I can jump!" … "Catch it!" "I can
+  catch!" … "I play with my friends!" "Me too! I love to play!")
+- p.28 Think back to the story: **listen and put ✓ or ✗** — the
+  book's first true/false questions ("Jad can jump." / "Karma and
+  Jad are not friends." …)
 
 ## Still owed in this pass
 - Finish KG2, then Primary 1 Term 2 — one book at a time.
