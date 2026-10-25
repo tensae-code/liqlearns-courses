@@ -7742,7 +7742,7 @@ World Youth Camp in Australia.
   School for Girls has a monthly magazine; a team of four
   students and an English teacher produces it; students put
   contributions in a box and the team chooses the best. The
-  notice lists **twelve sections**: Puzzles · Stories ·
+  notice lists **eleven sections**: Puzzles · Stories ·
   School news · Town events · Sports reports · Poetry ·
   Cartoons · Jokes · Letters · Problem page · Interviews
   ("Talk to somebody well known in the town") — "Post them
@@ -9191,11 +9191,13 @@ World Youth Camp in Australia.
    got toothache. Adam: I have a stomach ache. **Jameel**: I
    have an earache. Nadia: I've got a headache." — Jamal /
    Jameel, each as printed.
-2. **The ice-cream count is never stated.** Lesson U3 L8's
-   own question asks "How many ice-creams did Bob buy?" —
-   the story shows orders from Bashir, Paul, Hans and Rod,
-   and Bob carrying melting ice-creams, but gives no number.
-   Filed as printed.
+2. **The ice-cream count is not stated in this book.**
+   Lesson U3 L8's own question asks "How many ice-creams
+   did Bob buy?" — the story shows orders from Bashir, Paul,
+   Hans and Rod, and Bob carrying melting ice-creams, but
+   gives no number. **Settled by the Teacher Book's key
+   (read 2026-10-25): five** — one for himself and one each
+   for Bashir, Paul, Hans and Rod.
 3. **The Moving Desert's broken sentence.** "These systems
    keep the soil wet, but not too wet, so that not all the
    nutrients onto the soil slowly, rather than sprinkling
@@ -9215,3 +9217,672 @@ for certain futures, *may/might*, and a full year of skills
 tips gathered in the two Fun with English units). Next per
 the queue inside this grade: the **Teacher Book** (162 pp),
 then the Work Book (94 pp), one book at a time.
+
+---
+
+# Libya — English Grade 9 (Preparatory 3): Teacher Book
+
+**READ COMPLETE 2026-10-25** — read in full from page
+renders (`teacher9-pages/`, all 162 pages at 100 dpi); the
+PDF's text layer is the repeated Arabic rights footer only.
+**Page rule: book p. = PDF p. − 1** (the Introduction opens
+on book p.6 = PDF p.7; the back cover is book p.161).
+
+## Identity
+
+"21st Century English for Libya — Preparatory 3 Teacher's
+Book", State of Libya, Ministry of Education, Curricula and
+Educational Research Centre. **Published by Garnet
+Publishing Ltd, 8 Southern Court, South Street, Reading
+RG1 4QS, UK — "First edition, copyright © 2019 Garnet
+Publishing Ltd"** (this companion carries the same 2019
+year as its Course Book; the Grade 8 Teacher Book was a
+year earlier, © 2018). No individual authors named. Back
+cover: components = **Course Book, Workbook, Teacher's
+Book, Audio**; "For more resources, visit:
+www.englishforlibya.com"; code **11000901**. Cover: a
+black-and-white photograph of a domed Libyan building at
+night. The Contents (book p.4) lists only Introduction
+(p.6) and the eight units (U1 p.16 · U2 p.38 · U3 p.58 ·
+U4 p.76 · U5 p.88 · U6 p.108 · U7 p.130 · U8 p.150) — the
+**Book Map** spreads (book pp.4–5) and the closing
+**Phonetic Chart** (book p.160) are not listed, the same
+unlisted-back-matter habit as the Course Book's Phonetic
+Symbols page.
+
+## Shape of the notes
+
+Each unit opens with its four strands (Listening and
+speaking · Reading and writing · Structure and language ·
+Vocabulary), its 21st Century Skills, and a **Key words**
+page with phonetic transcriptions. Then one note-block per
+lesson: an Objectives / Language / Vocabulary / 21st
+Century Skills / Reference box (Course Book and Workbook
+pages, track numbers), a timed Warm up, and a timed walk
+through every Course Book exercise and every Workbook
+exercise, with **the full audio scripts printed inline**
+and **every answer key**. Lessons are 45 minutes. The
+audio runs to **Track 53**, matching the Course Book's
+Transcripts exactly — no extra or missing tracks.
+
+## The Introduction (book pp.6–14)
+
+The same architecture as Grade 8's, reworded for
+Preparatory 3 and worth filing where it speaks for this
+year:
+
+- **Overview**: the course "integrates a general English
+  syllabus with an element of 21st century skills, such as
+  study skills, collaboration, critical thinking and
+  problem-solving"; designed for students "starting to
+  become young adults"; topics draw on their knowledge of
+  the world and personal interests; emphasis on English as
+  an international language and students' long-term as well
+  as short-term goals.
+- **Approach**: communicative, with the overt analysis of
+  structure carried over from Preparatory 2 for the same
+  three stated reasons (cognitive ability at this age;
+  language needs constant recycling; examination
+  constraints mean students must demonstrate both knowledge
+  of the language and ability to use it). "Within this
+  approach to learning, mistakes should be seen as part of
+  the developmental process." The Round up lesson is the
+  teacher's reminder for class-based summaries of progress.
+- **Self-study strand** kept: students work through
+  activities to arrive at their own answers and conclusions,
+  then discuss and correct them with a partner, group or
+  whole class "as part of the learning process."
+- **Components**: Course Book · Workbook · **Test booklet**
+  — named again here, with its full task list (listening to
+  a conversation and completing notes · reading and
+  identifying topic sentences · reordering a conversation ·
+  matching sentence halves · completing and correcting
+  sentences · matching words to pictures and definitions ·
+  completing an application form · writing an email) — and
+  **again NOT in the grade-09 library record**; the four
+  components on the back cover do not include it either.
+  Plus the **Website** (www.englishforlibya.com, downloadable
+  audio MP3 files and learning resources).
+- **Tests**: students are assessed on listening, reading and
+  writing skills, "not their ability to understand written
+  instructions"; the teacher keeps a written record of each
+  student's performance, usefully broken down into sections
+  (reading, listening, speaking, vocabulary, writing); "The
+  actual allocation of marks is less important than the
+  consistency of marking"; praise students whose results
+  improve over time, "not just those who consistently
+  achieve well."
+- **Organization**: eight units; Units 1–3 and 5–7 present
+  new language on a topic basis; Units 4 and 8 (Fun with
+  English) recycle the previous three units.
+- **Features**: Functional grammar and language tips in
+  shaded boxes · Round up pages at the end of Units 1, 2,
+  3, 5, 6 and 7 · Homework activities — the Workbook
+  "contains a number of projects and extended writing
+  activities" the teacher may set as independent study ·
+  Vocabulary notebooks (word maps and pictures instead of
+  Arabic translations; students find their own method) ·
+  Using a dictionary (monolingual dictionaries; phonemic
+  script taught as a pronunciation aid; "All the symbols
+  that represent vowel sounds in English are presented by
+  the end of Preparatory 3") · an Icon key (Pairwork ·
+  Group work · Project work · Grammar tips · 21st Century
+  Skills · Suggested timing).
+- **§6 Advice to teachers of teenagers**: characteristics
+  (i) clearer personal goals — tap into the positive
+  aspects and shape them "for their long-term benefit and
+  the benefit of society"; (ii) firmer opinions — teachers
+  need to understand and acknowledge them while introducing
+  alternative ways of thinking; (iii) greater interest in
+  the outside world; (iv) importance of peer pressure —
+  identify influential students "so that their leadership
+  qualities can be used for the good of the class";
+  educational characteristics (v) understanding of abstract
+  concepts, (vi) critical thinking, (vii) a more reflective
+  attitude to information; then lesson planning (plan blocks
+  of lessons, e.g. a week's classes; timings are guidelines;
+  plan ahead for classroom language, board use, layout and
+  realia), recycling language (the six revisable strands:
+  social language and question tags — *Really? That's nice.
+  Was it?* · asking for and giving opinions · describing
+  location and giving directions · adjectives to describe
+  experiences and places — *What was it like?* · a range of
+  tenses · talking about timetables), organizing pairwork
+  and group work (draw an imaginary 'line' down the room or
+  give each student a letter A or B; mixed-ability groups;
+  extra work or a game ready for early finishers), and
+  **§6.5 Continuous assessment** — written tests per unit
+  plus assessment inside normal lessons; "It is important
+  to assess a student's effort, not just the results that
+  he/she achieves"; written work collected in Workbooks can
+  be graded, "but this should be carried out sensitively" —
+  and **§6.6 Homework**: correction of independent work
+  "should promote positive reinforcement at the same time
+  as giving constructive criticism"; highlight mistakes and
+  let students work out how to correct them; "Self-correction
+  is a valuable skill that needs to be developed if the
+  students are to improve the quality of their written work."
+- **§7 Teaching in the Preparatory levels**: the four
+  skills with their sub-skills. Listening types: words and
+  phrases · conversations · descriptions · narratives or
+  interviews · discussions; "The main aim of the tasks is
+  to develop students' listening ability, not to test it."
+  Speaking competencies for Preparatory 3 include
+  understanding formal/informal differences, making and
+  responding to suggestions, interrupting politely, showing
+  interest, and "giving simple explanations". Writing:
+  **each presentation unit contains six writing tasks —
+  short tasks (50–70 words) and one longer end-of-unit task
+  (80–120 words)**; text types produced at this level:
+  informal messages and postcards · letters/emails · factual
+  texts · descriptions · stories and extracts from stories ·
+  instructions · reports · questionnaires; students "should
+  also be encouraged to refer to the Checklist for Written
+  Work on page 100 of the Course Book"; stages and sub-skills
+  of writing listed in full (brainstorming · selecting and
+  rejecting ideas · arranging for impact · sequencing ·
+  layout · proofreading · editing · writing legibly).
+
+## What the keys settle
+
+- **The magazine has eleven sections** (U1 L1 key) —
+  Cartoons, Interviews, Jokes, Letters, Poetry, Problem
+  page, Puzzles, School news, Sports reports, Stories,
+  Town events. The Course Book filing's "twelve" is
+  corrected there. The girls' team (Track 1, printed in
+  full): Maysam does the problem page, Sarah the interview,
+  Nadia the story, Rasha the TV review, **Muna the School
+  news and Sally — "fantastic at English" — the Sports
+  news** (match key: Maysam c · Sarah d · Nadia f · Rasha b ·
+  Muna e · Sally a).
+- **The boys' magazine** (Track 2, in full): Mazin becomes
+  editor ("he's really good at telling people what to do"),
+  Layth and Usama reporters, Tariq photographer ("You have
+  a camera, don't you?"); they decide NOT to have all the
+  girls' sections — "There are too many" — and Mazin wants
+  some articles about things outside the school.
+- **The ice-creams were five** (U3 L8 key): "Five (one for
+  himself and one each for Bashir, Paul, Hans and Rod)" —
+  corrected in the Course Book filing.
+- **Track 8's boy is Jameel here too** — the Teacher Book's
+  script agrees with the Course Book's transcript; only the
+  Course Book's lesson pictures say Jamal.
+- **The Eggs: whose clothes Bob borrowed** (U2 L8 notes):
+  "He borrowed Paul's trousers, Bashir's shirt and Aziz's
+  sweater" — the story itself names only countries. And the
+  recall key: "They are two boys going to the World Youth
+  Camp. They met on the plane in Tripoli. They are in
+  Australia (at the World Youth Camp). He lost his suitcase."
+- **London 2012** (U3 L5 keys): the five texts are *Women
+  at the 2012 Olympic Games · The Jamaican team · The gold
+  medals for tennis · The Mexican men's football team ·
+  The gold medal for men's long jump*; fastest answers:
+  Mexico · American · Serena Williams · The 100 metres ·
+  Great Britain; model questions: "Which country won four
+  gold, five silver and three bronze medals? (Jamaica.) ·
+  When did Mike Powell set his long jump record? (1991.) ·
+  Who did Mexico beat in the final of the men's football?
+  (Brazil.) · What is Usain Bolt's world record? (100
+  metres in 9.63 seconds.) · Who won the men's tennis
+  singles? (Andy Murray.)" The years/times/weights reading
+  lists are keyed in full (years: eighteen ninety-six ·
+  nineteen thirty-six · nineteen forty-eight · nineteen
+  eighty-eight · two thousand · two thousand and two · two
+  thousand and four · twenty ten/two thousand and ten).
+- **Samir's article** (U3 L6 key): what he wrote that was
+  NOT in his notes — "He started doing judo two years ago.
+  He couldn't run fast and was often ill. He was lazy, but
+  now he trains every day. Now he gets good marks all the
+  time. He used to be afraid of competitions and exams."
+  Topic sentence: "I started doing judo two years ago and
+  it has changed my personality and my life." Find-the-word
+  key: 1 personality · 2 confidence · 3 train. **Huda's
+  changes** (Workbook key): "Huda used to live in Zawiya,
+  but now she lives in Misurata. She used to be shy, but
+  now she is confident. Huda used to eat lots of ice-cream,
+  but now she eats fruit. She used to watch TV a lot, but
+  now she does sport." The Mary-and-Jane story built orally
+  from the Speaking tip is keyed in full (Jane ran the
+  100 metres in 12.5 seconds against Mary's 13.2; Mary
+  jumped 1.45 metres against Jane's 1.4; the girls save a
+  drowning boy; "Well done, Jane! You were fantastic.").
+- **Jalal's Story** (U2 L5 keys): full name **Jalal
+  Abdullah**; the story "is about when Jalal's brother
+  Ibrahim was unwell"; he did NOT want Ibrahim to play by
+  himself, said it again and again, did not eat the crisps,
+  Ibrahim had to go to hospital. "You are a pain" is glossed:
+  "You give me a pain because you are a nuisance." The
+  correction marks are keyed twice (Course Book box: sp. =
+  spelling · gr. = grammar · p. = punctuation · n.p. = new
+  paragraph; Workbook: join · gr. · p. · sp. · n.p.).
+- **The two doctor visits in full** (Track 10, Workbook
+  only): *Part 1 — Noora's earache*: drops in the ear, "Two
+  drops at night… Use the drops twice a day until your ear
+  doesn't hurt any more"; "don't go swimming until it's
+  better". *Part 2 — Rasha's headache*: her eyes look red;
+  she doesn't like wearing glasses; "you should wear them
+  all the time, Rasha. If you don't, you'll have headaches
+  all day, every day – and night"; twelve pills in the box,
+  "Take two with water, three times a day – today and
+  tomorrow"; "Have you got your glasses with you?… Put them
+  on now, please, and don't take them off until you go to
+  bed." The paragraph completions are keyed (Noora: (an)
+  earache · put some drops · twice a few days · not go
+  swimming; Rasha: headache · hurt · wear glasses · doesn't
+  like wearing them · should wear her glasses all the time ·
+  headaches · painkillers/pills · three times a day).
+- **The restaurant order in full** (Track 7): Reema — baked
+  potato with a little butter, mixed salad, fruit salad and
+  a little ice-cream, orange juice ("That sounds lovely");
+  Waleed — a large burger and chips, a large piece of
+  chocolate cake and a lot of ice-cream, a large cola;
+  Father — grilled fish and rice. Meal key: Reema's =
+  baked potato with butter, mixed salad, fruit salad,
+  ice-cream, orange juice; Waleed's = large burger, chips,
+  chocolate cake, ice-cream, cola.
+- **Mr Fawzi** (U1 L7 key): "Mr Fawzi thinks the town would
+  be improved by having some more parks. He thinks the roads
+  and bridges should also be improved." Workbook key for
+  the interview: he works at a high school; dislikes doing
+  paperwork and sitting at home in the evenings; is learning
+  French; question 4's answer is c; item 5 is a programme
+  about health.
+- **The timetable completed** (U3 L3, Workbook key gives
+  the whole grid): Mon 5–7 Tennis (B), Karate (B) · Mon
+  W&G 7–9 Tennis (T), Volleyball (B) · Tue 5–7 Basketball
+  (B), Judo (B) · Tue M&B 7–9 Gymnastics (B), Volleyball (B)
+  · Wed 5–7 Horse-riding (B), Athletics (B) · Wed W&G 7–9
+  Gymnastics (B) · Thu 5–7 Athletics (B), Karate (B) · Thu
+  M&B 7–9 Swimming (T), Gymnastics (A) · Fri 5–7 Volleyball
+  (A) · Fri W&G 7–9 Swimming (T), Gymnastics (A) · Sat
+  10–12 Horse-riding (A) · Sat M&B 3–5 Volleyball (A),
+  Basketball (T). Track 19's three calls keyed: Wednesday
+  7–9 Gymnastics (B) · Thursday 7–9 Swimming (T) · Saturday
+  10–12 Horse-riding (A). Track 16's message: separate
+  classes for women and girls and for men and boys;
+  beginners, advanced and team practice; "leave your name
+  and address and we'll send you a leaflet". Track 15's
+  advertisement names the centre's number: **952841**.
+- **The sports weekend** (Track 26, Workbook only): only
+  six classes are scheduled — karate beginners Saturday
+  10–12 · karate advanced Sunday 2–4 · tennis advanced
+  only, Sunday 5–7 · athletics beginners only, Saturday
+  2–4 · gymnastics beginners Saturday 5–7 · gymnastics
+  advanced Sunday 10–12 (match key 1 a · 2 e · 6 f · 7 b ·
+  11 c · 12 d, the rest blank).
+- **Wendy's problem** (Track 27, Workbook only, in full):
+  Wendy can't sleep and has a headache every morning; pills
+  give her a stomach ache; the teacher finds the cause —
+  "a glass of lemonade and a packet of crisps just before
+  I go to bed. At about ten o'clock" — and advises milk or
+  water instead, no tea, coffee or lemonade, no crisps;
+  and since she lives about one kilometre away and her
+  father drives her, "You should walk to school. And walk
+  home. You have to take some exercise. If you do, I think
+  you'll find that your headaches will go away."
+- **The football score** (Track 24): "At the end of an
+  exciting game at the new National Stadium, the score was
+  **Libya 3, Algeria 3**" — a draw, the word taught from it.
+  Mr and Mrs Andrews' orders (Track 25) keyed: his — fried
+  chicken, rice and salad, chocolate cake, apple juice;
+  hers — grilled fish, chips and salad, fruit salad,
+  mineral water.
+- **Firefighter Mazin's day told in full** (Track 37):
+  "When I arrived at the fire station yesterday morning, I
+  checked my equipment as usual. We had our first call at
+  ten o'clock. We were told there was a fire in a
+  supermarket in the middle of town. We drove through the
+  streets as fast as possible. When we got there, the fire
+  was burning strongly. The heat was terrible and some
+  people were trapped inside. We had to get them out
+  quickly. We got out our hoses and pointed them at the
+  building. Twenty minutes later, the fire was out and we
+  were able to go into the building. We saved all the
+  people, but some had to go to hospital. At two o'clock,
+  we were called to an accident on the ring road. The
+  police helped us get there very fast. One car was on fire
+  and another was upside down on the road. Fortunately, the
+  driver of the burning car was standing by the side of the
+  road. However, the driver of the other car was trapped.
+  We put the fire out quickly and got the second driver
+  out. He was badly injured. At the end of the day, I was
+  tired and upset about the accident. But it's all in a
+  day's work for a firefighter. We do our best." The notes
+  add: "Explain that this paragraph has been added to make
+  it a better story" — the feelings ending is the course's
+  own addition. Sentence-order key: 1 g · 2 d · 3 a · 4 f ·
+  5 e · 6 b · 7 c · 8 j · 9 k · 10 m · 11 i · 12 h · 13 n ·
+  14 l.
+- **The two jobs compared** (U6 L2 key): the doctor works
+  in a hospital, takes care of sick people and makes them
+  better, usually works 8 hours (but sometimes 12), studied
+  at university for 6 years; the office manager works in
+  an office, answers phone calls, sends and receives
+  emails, works 6 hours (but sometimes more), studied at
+  college for 4 years. The interview that checks them
+  (Track 36) is with a **nurse at the Albaraa Hospital** —
+  a third job, existing only in the audio: uniform, ten
+  hours a day, studied four years, "about forty or fifty
+  people every day", does not want to be a doctor.
+- **The games' rules in full** (U6 L4): Game A — Student 2
+  asks five questions only; a correct guess within five
+  wins a point. Game B — Student 1 says five things; after
+  each, Student 2 guesses; a guess after five sentences or
+  fewer wins a point. Game C — Student 1 says five
+  sentences about the job, all together, then Student 2
+  guesses once. Track 38 plays two: Miss Hadeel's class
+  plays Game A (the job is a policewoman — "Wrong. I'm a
+  policewoman"), Mr Kareem's class plays Game C (a pilot,
+  guessed only on the last clue, "I work at the airport");
+  jobs named across both games: doctor, policewoman,
+  farmer, bus driver, pilot, ambulance driver, taxi driver.
+- **Six ambitions** (Track 39, Workbook only, in full):
+  1. work in my father's restaurant for a year, then
+  college, "Perhaps one day I'll have my own restaurant";
+  2. work on an aeroplane — "I will show people to their
+  seats and give them food and drink" (best subjects
+  English and Arabic, learning French); 3. fly planes —
+  watches them at the airport in the evenings; 4. teach
+  history — training college, "I'm very patient"; 5. help
+  sick animals — university first; 6. an office job —
+  "writing letters, answering the phone, talking to
+  visitors – all those things" (good at Arabic and IT).
+- **Firas and Mona** (U6 L6 keys): Firas goes to the zoo,
+  Mona visits a hospital; "Firas is going to be a zoologist.
+  Mona is going to be a doctor." Firas's text: favourite
+  subjects history, geography and art; hobby taking
+  photographs of birds and animals; "He is very patient."
+  Mona's: biology, chemistry, English and physics; helping
+  people; "She is very kind and friendly"; and "The patients
+  who have no visitors."
+- **The bring-and-buy sale** (Tracks 42–44): Sarah's
+  friends decide to hold the sale in the playground on
+  Monday at four o'clock, after asking the headmistress;
+  offers keyed — Suhad a camera · Wisal some books · Widad
+  a doll; the model email (Workbook, from **Nesreen** to
+  Fatima) is a teacher-only text: "Yesterday we had a
+  bring-and-buy sale at school. It was to raise money for
+  local homeless people. It was great – there were over 100
+  people there! I brought some cakes and my friend Aya
+  brought some plants. I bought some new books to read and
+  a really lovely jacket. I think the sale made about 200
+  dinar! Are you going to have one at your school?"
+- **Animals in Danger** (U7 L3 keys): only two reasons are
+  given on the whole page — "They are losing their homes
+  (golden toad)" and "People are hunting and killing them
+  (all the other animals)"; the snow leopard is hunted for
+  its fur; the three room objects came from a snow leopard
+  (the coat), an ibex (the head on the wall) and a tiger
+  (the rug); habitat answers: snow leopard — high, cold
+  places with snow · tiger — the forest · ibex — the
+  mountain forest ("called a 'mountain goat'") · blue
+  whale — the sea · golden toad — wetlands that can be
+  drained; the one habitat none of them lives in is the
+  desert. True/false key: blue whales are now protected
+  (the "hunted now" sentence is false); they hunted tigers
+  "for their skins", not their fur as the false sentence
+  claims.
+- **Please keep the rivers clean!** (U7 L4 keys): paragraphs
+  match b · d · a · c; definitions key: 1 volunteer ·
+  2 pollute · 3 litter · 4 habitats; discussion answers
+  include "It destroys wildlife habitats, damages the
+  rivers and damages health" and "Stop littering, and
+  force the government to stop sewage and waste from
+  factories, etc."
+- **A Warmer World** (U7 L5 keys): the diagram "shows how
+  the world becomes warmer. Heat from the Sun stays in the
+  Earth's atmosphere."; results list: ice caps melt · sea
+  level rises · some land disappears/is underwater · weather
+  may change · hotter summers and wetter winters possible ·
+  less rain in hot countries · some farmland might become
+  desert; interview answers keyed ("They produce gases
+  which trap heat in the atmosphere" · fuels: "Coal, gas
+  and oil"); the model conclusion: "To stop the world
+  getting warmer, we can stop burning fuels like coal, gas
+  and oil. We can use wind power instead. This should be
+  done because we have to stop our farmland becoming
+  desert. I think it will be done because we have no
+  choice. Governments have to do something. Otherwise our
+  world will be destroyed."
+- **The Carter cat told in full** (Track 46): "The Carter
+  family bought a new TV. They put the empty box outside to
+  be collected. Later, the Carters' cat wanted to come
+  inside because it was raining. Nobody opened the window
+  for the cat, so it went into the box. When some men came
+  to collect the rubbish next morning, they put the box
+  into their truck. They drove the truck to the rubbish
+  tip and emptied it. A man who was working at the rubbish
+  tip heard a sound: 'Miaow! Miaow!' 'Puss! Where are you,
+  puss?' he called. He found the box, opened it, and the
+  cat jumped out. It raced away. Like all cats, it was able
+  to find its way home. It reached the house and sat
+  outside. 'Miaow! Miaow!' Somebody opened the door and the
+  cat ran inside." Sentence order (Track 45): 1f · 2c ·
+  3i · 4a · 5k · 6e · 7g · 8b · 9d · 10j · 11h. The notes
+  underline that the pictures end at Picture 8 but "the
+  story itself doesn't end there".
+- **Waste conversations** (Track 47): Picture 1 — Father
+  and **Tamara** ("That's so wasteful, Tamara. People
+  around the world are hungry. Think of them next time.");
+  Picture 2 — James brushing his teeth with the tap
+  running ("But we have plenty of water." — "Yes, we have
+  now, but we may not always have plenty. Turn the tap
+  off."); Picture 3 — Nasser and Kamal ("There are lights
+  blazing everywhere!" — "No, I don't think so. I think
+  it's terrible to waste electricity like this. You should
+  switch most of them off. Waste not, want not,
+  remember?"). Notes key: took too much food · think of
+  hungry people · brushing teeth/plenty of water · turn
+  tap off · lights look lovely · switch lights off.
+- **The Moving Desert** (U7 L7 keys): causes — "Sand
+  storms, low rainfall, keeping too many animals,
+  over-farming, tree cutting"; word key: desert · vegetation
+  · agriculture · irrigation · challenge · fertile ·
+  government · region; discussion answers fix the geography:
+  "if people don't do anything, the fertile areas **in the
+  north – near Benghazi and Tripoli** might become desert";
+  the National Plan's problem — "some people need to use
+  their farmland all the time to have enough food. Or they
+  need it for their animals. They don't have enough land to
+  stop using it"; the other solutions: "We can stop cutting
+  down trees. We can also try to use the same land for
+  different things each season."
+- **The Medals** (U7 L8 keys): who rescued whom — 1 Jim
+  Cooper · 2 Bashir · 3 Rod Border; information sheet:
+  characters "Bob, Bashir, Jim Cooper, Chuck, Aziz, **Dick
+  Bird**, Paul, Hans, Rod Border" (the pilot joins the named
+  cast); summary: "Jim Cooper breaks his leg on a mountain
+  walk. Bob and Bashir help to rescue him in a helicopter.
+  They both get medals, but Bob thinks he is being attacked
+  by ants and jumps in the pool!"; new words: helicopter,
+  stretcher. Track 49's beach-litter conversation (Yassir
+  and Jamal) is printed in full in the Workbook notes —
+  "We are all been asked to try to keep our country clean.
+  Here's your chance" (as printed, "We are all been asked").
+- **The improved phone call** (Track 32, Workbook only):
+  Anas done right — "Hi. My name's Anas Abdullah. I need to
+  book an appointment to see a doctor. I have a stomach
+  ache"; spelling A-B-D-U-L-L-A-H; "around three days now";
+  appointment at 4.30. The model job calls (U8 L2) are
+  teacher-only possible conversations: Muhammad Maziq
+  calls **Khaled Mahmudi** about the garden job — "It's 105
+  West Street", Thursday at 4 p.m.; **Reem Hadid** calls
+  **Hoda Abdallah** about helping with her children — "Our
+  address is 12 North Street", Saturday morning.
+- **Listening mistakes** (Track 50): Susan wrote down the
+  wrong telephone number (432147 is the stranger's own
+  number, not Liz's); Jalal came to the wrong address (24
+  West Street — "Perhaps it's the wrong number. Or perhaps
+  it's West Road – or Drive, or …"); Jane Smith missed her
+  interview with Miss Brown because — the script — she
+  wrote the day down wrong: "It was yesterday. You didn't
+  come for it."
+- **The fire report** (Track 51, Workbook only, in full):
+  a house in Castle Street ruined by fire; **Mrs Sarah
+  Brown** and her two children **Ann, five, and Kate,
+  three**, asleep upstairs; Mr Brown works at night;
+  neighbour **Mr Sam White** smelled smoke, ran towards
+  the house and phoned the firefighters on his mobile;
+  Mrs Brown wouldn't jump — "Not without the girls!" — the
+  girls were found **in the bathroom**, "not in their
+  bedroom… That probably saved their lives." Headline key:
+  1 a.
+- **Going on holiday** (Track 53): the memory game played
+  to Person F, who forgets *book* — "so we have to start
+  again"; the chain runs shoes · shoes and three shirts ·
+  + a camera · + a book · + a bar of chocolate.
+- **A high-flying job** (U8 L3 keys): paragraph topics —
+  1 "Muhammad has always wanted to be a pilot" · 2
+  "Muhammad at school" · 3 "Muhammad at college"; topic
+  sentences keyed ("Muhammad did very well at school" ·
+  "Muhammad will never forget his time at the college or
+  the people he met there"); word meanings: *especially* —
+  more than any other · *language of the air* — the language
+  used by pilots (and air traffic controllers) throughout
+  the world; the English language · *extra* — more work
+  than Muhammad had to do for his course · *aviation
+  college* — a college where you can learn to be a pilot ·
+  *solo* — alone · *pilot's certificate* — a piece of paper
+  saying you can fly a plane. The Workbook's fish article
+  keyed: paragraph 1 when his hobby started, paragraph 2
+  his favourite fish; a glass bowl with stones, plants,
+  water and goldfish; the great white shark lives in
+  Australia (answers 7: 1 b · 2 a).
+- **Model paragraphs kept**: U4 L4's town — "My town has
+  changed a lot in the last five years. It used to be very
+  quiet, but now more people have moved here, and more
+  shops have opened. This has been good for me because
+  there are more people my age. I used to have only one
+  friend in my neighbourhood, but now I have more friends.
+  There is a new basketball court and a cinema. I used to
+  be bored, but now I enjoy life more." · U8 L4's best day —
+  "The best day of my life was my birthday last year. My
+  parents gave me a beautiful new bike. It was a complete
+  surprise! I took it to the seafront with my best friend
+  Tareq. We had races and we rode very fast. It was so
+  exciting! Then I went to my favourite restaurant with my
+  parents, my sister, my grandparents and all my friends.
+  They gave me more presents and we had a delicious meal. I
+  felt so happy. It was a very special day." The U8 L4
+  sentence key keeps the model correction: "'You've done
+  well in maths, English and Arabic,' my mother said."
+  Joining key: "Ameen was very sad when/because his
+  grandfather died · Hanan enjoys her job because she meets
+  a lot of different people · Marwa is very good at
+  English, but she isn't good at maths."
+- **Unit 5 Lesson 1 discussion** names the modern channels
+  in the teacher's own answer list: "text messages,
+  **WhatsApp/other app-based messaging services**, email,
+  the telephone, letters by post, radio, television" — a
+  2019 Libyan school book naming WhatsApp, as printed.
+  Workbook model answer for the same lesson kept: "In the
+  past, it was difficult to get and to send messages and
+  information. Now it is easy… You can just send a message
+  on WhatsApp."
+- **Parts of speech keyed** (U5 L3): the abbreviations are
+  expanded in the notes — n. noun · v. verb · adj. adjective
+  · adv. adverb · prep. preposition · conj. conjunction ·
+  pron. pronoun — with the worked sentence "The black horse
+  ran fast, so it won the race easily" labelled word by
+  word, and the honest note: "There is no example of a
+  preposition in the sentence in question 2… its usual
+  grammatical name is article" (of *the*). *Bank* key:
+  a 3 (noun) · b 6 (verb) · c 2 (noun) · d 5 (verb). A
+  chesterfield is "a piece of furniture". *Comb* sentences:
+  "Your hair is untidy. You should comb it." · "Can you
+  lend me a comb, please? I've lost mine."
+- **From Cairo to Tripoli** (U5 L4 keys): the article takes
+  **one day** from reporter to reader; passive forms by
+  picture — is written (1) · is sent (2) · is read (3) ·
+  is edited (4) · (is) inserted (4) · is sent (5) · are
+  printed (5) · are sent (6) · are sold (7) · is read (8);
+  active forms — takes (2) · arrives (3) · likes (4) ·
+  open (7). The fish-canning model text: "First, the fish
+  are caught and put into boxes. Next, the boxes are
+  brought to land. Then the fish are taken to a fish
+  factory. At the factory, the fish are washed. Then they
+  are cooked. After that, they are put into cans. Finally,
+  the cans are sent to the supermarket." Verb table keyed:
+  catch/caught/caught · bring/brought/brought · sell/sold/
+  sold · take/took/taken · send/sent/sent · make/made/made ·
+  write/wrote/written · wash/washed/washed · cook/cooked/
+  cooked · put/put/put.
+- **Great Inventions** (U5 L5 keys): the extracts come from
+  "a reference site"; Baird — "John Baird invented
+  television. He was Scottish. He invented it in 1926. He
+  is dead."; Marconi — "Guglielmo Marconi invented the
+  radio. He was Italian."; true/false key settles two more:
+  Alexander Bell invented the telephone (the extract's
+  claim otherwise is false), and Marconi "sent a radio
+  message from America to England" (the reverse claim is
+  false). Passive transformations keyed: "The wheel was
+  invented by Mesopotamians around 3500 BCE · The Chinese
+  made the earliest compasses · The World Wide Web was
+  invented by Sir Tim Berners-Lee in 1989."
+- **Telephones compared** (U5 L6 key): landline advantages —
+  "You can phone people all over the world · Often more
+  reliable than a mobile phone"; disadvantage — "Can only
+  be used in one place". Mobile advantages — "Does not
+  need a landline · Can be used almost anywhere ·
+  Smartphones can be used to take photographs, play music,
+  access the internet"; disadvantage — "Often less reliable
+  than a landline phone". Layla's phone message keyed:
+  message, did, buy, was wearing, likes, very, wants, buy,
+  one. Texts true/false key: 1 F · 2 T · 3 DS · 4 T · 5 T ·
+  6 F.
+- **Two Jobs' neighbours**: U6 L1's match key (1 D · 2 B ·
+  3 G · 4 A · 5 C · 6 F · 7 E) and the drill facts — a pilot
+  flies a plane and wears a uniform; a shop assistant works
+  for a shopkeeper; an engineer works outside or in an
+  office. U6 L5's timetable answers key the England school
+  week (Wednesday · Thursday · Monday · Tuesday · Friday ·
+  Monday) and the Workbook comparison: "We have English,
+  maths, history, science, geography, sport, RE, IT, art
+  and music in common · We do not study French or home
+  economics · We study Arabic and Libyan literature · We
+  have six lessons a day, not seven · The main difference
+  is that we start school earlier and finish earlier."
+  Subject-link key (Workbook): Islam — RE · weather and
+  population — geography · past events — history · numbers
+  and shapes — maths · cooking — home economics · coding
+  and programming — IT.
+
+## Differences and slips in this book, as printed
+
+1. **Jane's mistake is told two ways.** The U8 L1 notes'
+   "Possible answers" say "Jane forgot the time of the
+   interview"; Track 50's script and the printed Answers
+   both say she **wrote down the wrong date** — the
+   interview was yesterday. Each as printed.
+2. **"homelgo"** — the U2 L4 notes print the model advice
+   as "You should go **homelgo** to bed" (book p.47), the
+   two alternatives *home* / *go to bed* run together.
+3. **Track 49's grammar slip kept as printed**: "We are
+   all **been** asked to try to keep our country clean"
+   (Yassir's line, book p.148).
+4. **The Phonetic Chart (book p.160) prints the /e/
+   keyword correctly as "men"** — where the Course Book's
+   Phonetic Symbols keyword column reads "mgn" as printed
+   there. The chart otherwise matches the Course Book's
+   set: vowels tree · sit · book · too / men · america ·
+   word · sort / cat · but · part · not; diphthongs here ·
+   day / tour · boy · go / wear · my · how; consonants
+   plane · bed · tomato · do · chicken · jam · kite · gate /
+   five · violin · think · father · six · zoo · fish ·
+   casual / milk · no · sing · hello · lion · rocket ·
+   window · yes.
+5. Unlike Grade 8, there is **no Rashid/Waleed-style name
+   split**: this Teacher Book's scripts agree with the
+   Course Book's transcripts throughout (checked track by
+   track against the Course Book filing — Tracks 1–53 all
+   present, same speakers, same words, including the
+   Course Book's own slips).
+
+**Libya Grade 9 Teacher Book — READ COMPLETE 2026-10-25.**
+Acceptance counts unchanged — same country. Two Course
+Book filing points are corrected by this book's keys (the
+eleven sections; the five ice-creams) and both corrections
+are made in the Course Book section above. The course's
+named fourth component, a Test booklet, is again not in
+the library record. Next per the queue inside this grade:
+the **Work Book** (94 pp), one book at a time.
