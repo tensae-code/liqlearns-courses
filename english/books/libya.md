@@ -671,3 +671,56 @@ and What-can-you-see patterns, rooms + bedroom furniture sets
 recorded here for the Word and Sentence titles. Libya's
 positions now run past Grade 1's in/on: under, next to,
 between join in Grade 2.
+
+### Unit 5 "My Clothes" (book pp.53–64)
+Clothes, counting to 20, describing people — and the year's
+first full story. L1 (p.54) "I'm wearing …": the clothes set
+on a washing line — T-shirt, trousers, skirt, shirt, dress,
+hat, skates, socks, trainers, jacket, shoes — then children
+saying their own: "I'm wearing a dress. · I'm wearing a skirt
+and a shirt. · I'm wearing blue trousers. · I'm wearing a
+red T-shirt." (Grade 1's Nadia and Sarah appear, with a new
+boy, **Rami**.) L2 (p.55) "How many shoes?": numbers **11–15**,
+then a clothes shop counted shelf by shelf (11 hats, 15
+skates, 12 shoes, 14 socks, 13 trainers) — "How many trainers
+are there? 13 · How many shoes are there? 12." L3 (p.56) "My
+shoes are big": the describing pairs **big / small** (shoes)
+and **long / short** (hair); the song "Kareem, put your
+trainers on." (words p.104). L4 (p.57): "It's long. — The
+skirt. · They're short. — The trousers." and numbers **16–20**
+— counting now runs 1–20. L5 (p.58): describing a third person
+from words alone (listen, look and find) — "**Layla's** wearing
+a black skirt. She's wearing a black skirt and a blue shirt.
+She's wearing shoes. She has a bag." — picked out from Layla,
+John, Bill, Tariq, and a game row of eight more named people
+(Sara, Iman, Mohammed, Noor, Rida, Sally, Peter, Taher). L6
+(p.59) "Muna Has A Kite" — read-and-say sentences: "Al-Hadi
+has a basketball. · Adam has a watch. · Kareem has a car. ·
+Muna has a kite."; the game "I have a … — What colour?" L7
+(pp.60–61) "My name's Sami": the self-introduction grown into
+a little **paragraph** the learner listens to, orders and
+writes — "Hello, my name's Sami. · I have a sister. Her name
+is Safa. · I'm 7 years old. · I have a brother. His name is
+Hamid. He's 6." (and a sister of 14 blowing out candles:
+"She's 14.") — with Al-Hadi's version as the spoken model:
+"My name is Al-Hadi. I am 8. I have a brother. His name is
+Kareem. He's 6. I have a sister. Her name is Muna. She's 7."
+The page ends with an empty face labelled "you" — the
+learner's own turn to say it. L8 (pp.62–63) Story: **Little
+Red Riding Hood**, told in ten pictures with speech bubbles
+only — "Hello." (the woodcutter) · "Hello." (the wolf) ·
+"Help!" (Grandma) · "Hello, Grandma." · "Your eyes are big!" ·
+"Your ears are big!" · "Your teeth are big!" · "It's a
+wolf!" — the woodcutter ties the wolf up and Grandma is
+found safe ("Grandma!"). No moral printed; the story is pure
+reading practice with the year's own words (big from L3, the
+body set from Unit 2). "Now I can …" (p.64): say clothes
+words; count to 20; use big, small, long, short; talk about
+pictures; say what people have; talk about brothers and
+sisters; listen to and read a story.
+→ Clothes set, numbers 11–20, big/small/long/short, the
+has-pattern and the brother/sister self-description recorded
+here for the Word, Sentence and Maths titles; Sami's
+introduction is Grade 2's first paragraph-shaped text after
+the lunchbox list, and Little Red Riding Hood is its first
+full story — both noted for the Paragraph and Story steps.
