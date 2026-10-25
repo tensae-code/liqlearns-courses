@@ -210,6 +210,94 @@ and the instruction sentences (Sit down. / Stand up. / Open your
 books.) are recorded here for the Word and Sentence titles in ladder
 order.
 
+### P1T1 Unit 2 "The Garden of Colors and Shapes" — page by page (PDF pp.25–41; read 2026-10-25)
+- p.25 Unit opener + Learning Outcomes: respond to simple questions
+  using appropriate vocabulary; identify the formation, sound, and
+  words that begin with Ss and Aa; use short phrases to describe
+  nearby objects; recognize and name colors through familiar objects;
+  identify and name basic 2D shapes; trace Ss and Aa in uppercase and
+  lowercase forms.
+- **Lesson 1: In the Garden** (pp.26–29)
+  - p.26 Dialog (Listen): Maya: "Look! The grass is green." · Hana:
+    "I can see a flower." · Maya: "Yes, the flower is red." · Hana:
+    "And look at the sky! It's blue." · Maya: "I can see a tree." ·
+    Hana: "Me too! Oh, look! A butterfly!" · Maya: "The butterfly is
+    flying near the tree!" · Hana: "And I see a little bird in the
+    tree!"
+  - p.27 Vocabulary (real photos): **sky, butterfly, bird, tree,
+    grass, flower** · speech bubbles: "The grass is green. / The sky
+    is blue. / The sun is yellow. / The flower is red. / The
+    butterfly is flying." · "I can see a bird. What's this?" — "This
+    is a butterfly."
+  - p.28 Find and Circle — circle the pictures you can find in the
+    garden (cloud, sun, bird, tree, butterfly, flower, grass —
+    against bag, desk, ball, house, chair) · Ex.3 Listen, point, and
+    circle (grass / flower / sky / tree / butterfly / bird, each with
+    a wrong picture beside it).
+  - p.29 Ex.4 Read the sentence, ✓ if it matches the picture, ✗ if
+    not ("The grass is green." ✓ · "This is a bird." over a flower ✗
+    · "I can see the sky." over a butterfly ✗ · "I can see a tree."
+    ✓ · "This is a butterfly." over clouds ✗ · "This is a flower."
+    ✓) — full sentences judged now, not single words · Ex.5 Match
+    the picture with the correct word (grass, flower, sky, tree,
+    butterfly, bird).
+- **Lesson 2: Phonics — Ss** (pp.30–33)
+  - p.30 Listen and repeat (real photos): **spider, sun, spoon,
+    snake, star** — the s is red · Trace Ss.
+  - p.31 Trace the following lines (straight, stepped, zigzag, wavy
+    — butterflies to flowers) · formation box for S/s (one curved
+    stroke from the top dot) with **sun** · more Ss tracing.
+  - p.32 Ex.5 Circle the pictures that start with Ss (spoon, sun,
+    spider, star, snake — against dog, rocket) · more tracing ·
+    Ex.7 Trace and color the pictures that start with Ss (sun, star
+    outlines).
+  - p.33 Ex.8 Trace and color (spider, star outlines) · more tracing
+    · Ex.10 Trace the beginning letter (**s**tar, **s**nake,
+    **s**poon, **s**pider).
+- **Lesson 3: Shapes and Colors** (pp.34–37)
+  - p.34 Listen and repeat — the four color sentences on cards:
+    **green — "The grass is green." · blue — "The sky is blue." ·
+    yellow — "The sun is yellow." · red — "The flower is red."**
+  - p.35 Ex.1 Circle all the yellow objects (sun, duck — against
+    horse) / green objects (leaves, lime — against apple) / blue
+    objects (bag, ball — against bird) / red objects (star, jacket —
+    against frog) · Ex.2 Listen, point, and circle: each color
+    sentence with its right and wrong picture.
+  - p.36 SHAPES — Listen, point, and repeat: **square, circle,
+    triangle, rectangle** · "What shape is this? This is a circle. /
+    This is a square." · "What color is the square? The square is
+    blue." / "What color is the triangle? The triangle is yellow." ·
+    **"The triangle has 3 sides." / "The rectangle has 4 sides."** —
+    the first counting inside a shape sentence (Maths column).
+  - p.37 Ex.3 Listen, point, write ✓ to the matching picture (circle,
+    square, triangle, rectangle — each against a wrong shape) ·
+    Ex.4 Write ✓ if the word matches the picture (square ✓,
+    rectangle over a circle ✗, triangle ✓, circle over a rectangle
+    ✗).
+- **Lesson 4: Phonics — Aa** (pp.38–41)
+  - p.38 Listen and repeat (real photos): **ant, axe, arrow, apple**
+    — the a is red · Trace Aa (a's formation: curve then down; A:
+    down-left, down-right, across).
+  - p.39 Formation box for A/a with **apple** · more Aa tracing ·
+    Ex.4 Match the objects that start with Aa (apple, ant, axe —
+    against tiger, tree, dolphin).
+  - p.40 Trace the following lines (wavy, arch, zigzag-wave, zigzag —
+    pencils drawing) · big Aa with **ant** · more Aa tracing.
+  - p.41 Ex.7 Match the picture with the correct word, then trace the
+    letter (**a**pple, **a**nt, **a**rrow, **a**xe) · Ex.8 Trace the
+    beginning letter in the word (axe, ant, apple, arrow) · Ex.9
+    Circle the beginning letter (Aa/Pp, Tt/Aa, Ss/Aa, Ii/Aa) — all
+    four of the term's letters so far tested together.
+
+Unit 2 basics filed: the-alphabet sources gain P1's Ss words (spider,
+sun, spoon, snake, star) and Aa words (ant, axe, arrow, apple);
+Drawing lines gains pp.31 and 40. The garden word set (sky, butterfly,
+bird, tree, grass, flower), the color sentences ("The grass is
+green." pattern — a thing + is + a color), the "I can see a …" /
+"What's this? — This is a …" pair, and the shapes set (square, circle,
+triangle, rectangle, with sides counted) are recorded here for the
+Word, Sentence, and Maths titles in ladder order.
+
 ## Built so far
 - greetings/hello-and-your-name/ — built from Unit 1, Lesson 1 (see its
   sources.md). Title = the common-sense name (Greetings), not the book's

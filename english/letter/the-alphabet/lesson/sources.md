@@ -55,6 +55,15 @@ alphabet across its 6 units (Scope and Sequence, PDF pp.3–4): Tt Ii
   PDF p.21; formation box (I = down, across top, across bottom; i =
   down, then the dot) + tracing + matching, p.22; circle-the-Ii
   pictures, p.23; tracing + Tt/Ii tested together, p.24.
+- Ss /s/ — **spider, sun, spoon, snake, star** (real photos, the s
+  red), PDF p.30; formation box (one curved stroke) + tracing, p.31;
+  circle/trace-and-color Ss pictures, p.32; trace the beginning
+  letter (star, snake, spoon, spider), p.33. (Unit 2, read 2026-10-25)
+- Aa /æ/ — **ant, axe, arrow, apple** (real photos, the a red), PDF
+  p.38; formation box (A = down-left, down-right, across; a = curve
+  then down) with apple + tracing + matching, p.39; tracing with ant,
+  p.40; match/trace/circle the beginning letter — with Tt, Ss, Ii as
+  the other choices, p.41. (Unit 2, read 2026-10-25)
 Same country (Egypt), third book — the count below does not change,
 but the lesson gains Primary 1's deeper layer: formation numbers,
 real-photo words, and the two letters mixed in one test.

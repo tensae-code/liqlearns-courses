@@ -18,8 +18,10 @@ keeps the line-tracing going inside its phonics lessons — dotted
 paths to trace on PDF p.10 (zigzag, stepped, wavy — animals to their
 objects), p.14 (loop, wave, arch paths), p.16 (straight, curved, wavy
 vertical paths), and p.23 (five paths — straight, zigzag, wavy, big
-wave, small wave — each led by a bug). The hand work does not stop at
-KG: Primary 1 still opens its letter lessons with lines.
+wave, small wave — each led by a bug). Unit 2 adds p.31 (straight,
+stepped, zigzag, wavy — butterflies to flowers) and p.40 (wavy, arch,
+zigzag-wave, zigzag, drawn by pencils). The hand work does not stop
+at KG: Primary 1 still opens its letter lessons with lines.
 
 **Acceptance count: taught in 1 country (Egypt, 3 books).**
 The "understand the lines" framing is his: the lines are understood,
