@@ -37,7 +37,7 @@ Unit 1 lessons, as the book orders them: Lesson 1 Greetings ·
 Lesson 2 Phonics (Tt/Ii) · Lesson 3 · Lesson 4 — full lesson-by-lesson
 breakdown gets recorded here as each unit is worked through.
 
-## Primary 1 Term 1 — full read in progress (started 2026-10-25)
+## Primary 1 Term 1 — full read COMPLETE 2026-10-25 (all 128 pages)
 
 Book: English_language_prim1_t1.pdf — 81,833,262 B, 128 pp.
 **Page rule for THIS book (verified from the renders): one book page
@@ -552,7 +552,11 @@ also belongs to the health/science side when those courses start.
     milk, cheese and meat. / The chicken gives us eggs." for this
     unit, but those sentences do **not** appear in Lesson 1 as
     printed — the lesson as read teaches the animals through big/small
-    only. Recorded as a scope-vs-pages difference, not filled in.
+    only. The *idea* does appear later, in Review 2 (p.123, Ex.5) as a
+    picture exercise — "Circle what we get from these farm animals"
+    (chicken → the egg; cow → cheese and meat, with milk shown on the
+    chicken's side as a wrong choice). Recorded as a scope-vs-pages
+    difference, not filled in.
 - **Lesson 2: Phonics — Mm and Gg** (pp.89–93; one lesson, two letters)
   - p.89 Mm — Listen and repeat: **moon, monkey, milk, mango, mouse**
     · Trace and write Mm.
@@ -622,6 +626,177 @@ pattern), the opposites pair big/small, and numbers 6–10 with their
 values and counting sentences ("How many horses can you see? I can
 see 7 horses!") are recorded here for the Word, Sentence, and Maths
 titles in ladder order.
+
+### P1T1 Unit 6 "Animals Around Me" — page by page (PDF pp.103–121; read 2026-10-25)
+- p.103 Unit opener + Learning Outcomes: identify animal names and
+  habitats of pets and jungle animals; describe jungle animals using
+  counting-related sentences; identify the formation, sound, and
+  words that begin with Bb, Ll, Uu, and Jj; follow simple instructions
+  using prepositions; understand simple positional sentences; trace
+  and write Bb, Ll, Uu, Jj.
+- **Lesson 1: Welcome to the Jungle** (pp.104–107)
+  - p.104 Dialog (Listen): Omar: "Look! What's this?" · Leila: "It's
+    a lion!" · Omar: "How many lions can you see?" · Leila: "I can
+    see 2 lions!" · Omar: "How many legs does a tiger have?" · Leila:
+    "A tiger has 4 legs." · Omar: "Where is the monkey?" · Leila:
+    "The monkey is in the tree!" · Omar: "I see an elephant and a
+    giraffe too!" · Leila: "And look! There is a snake on the
+    ground!" · Both: "We love the jungle!"
+  - p.105 Vocabulary: **lion, tiger, monkey, elephant, giraffe,
+    snake** — the six jungle animals in circles over the jungle
+    picture.
+  - p.106 Ex.2 Circle the animals that belong in the jungle
+    (elephant, giraffe, lion, monkey, tiger, snake — against cow,
+    duck, chicken) · Ex.3 Listen, point, and circle (lion / elephant /
+    monkey / giraffe — each against a wrong animal) · Ex.4 Write ✓ if
+    the word matches the picture, ✗ if not (snake over a goat ✗;
+    tiger ✓; giraffe ✓; elephant over a cow ✗).
+  - p.107 Ex.5 Circle the pictures of the animals that have 4 legs
+    (cow, lion, tiger, elephant, horse, monkey — against snake with
+    0, duck and chicken with 2) · Ex.6 Match the pictures with the
+    correct word (tiger, giraffe, elephant, monkey, lion).
+- **Lesson 2: Phonics — Bb and Ll** (pp.108–112; one lesson, two letters)
+  - p.108 Bb — Listen and repeat: **bird, boy, ball, banana, bike**
+    — real photos for bird and bike · Trace and write Bb.
+  - p.109 Formation box for B/b (B = down, curve, curve; b = down,
+    curve) with **banana** · more tracing · Ex.4 Circle the pictures
+    that start with Bb (bird, bike, ball, banana, boy — against doll,
+    apple, duck, snail).
+  - p.110 Ll — Listen and repeat (Ex.5): **lamp, lemon, lion, leaf,
+    lunch** · Trace and write Ll.
+  - p.111 Formation box for L/l (L = down, across the bottom; l =
+    down) with **lion** · more tracing · Ex.8 Circle the objects that
+    start with Ll (leaf, lamp, lion, lemon — against fish, tiger).
+  - p.112 Ex.9 Circle the pictures that start with Bb (ball, boy,
+    banana, bike — among pizza, duck, olive, fan, pencil, carrot,
+    fork) · Ex.10 Trace the beginning letter (**b**ike, **b**oy,
+    **b**anana, **b**all) · Ex.11 Write the missing letter (**l**ion,
+    **l**eaf, **l**amp, **l**emon, **l**unch).
+- **Lesson 3: My Pets** (pp.113–116) — **in / on / under**, the book's
+  position words (the same basics Nicaragua's Multigrado teaches; see
+  the Nicaragua book file).
+  - p.113 Dialog (Listen): Ali: "Look! The cat is on my leg!" · Hana:
+    "Where is the dog?" · Ali: "The dog is on the couch." · Hana:
+    "What about the bird?" · Ali: "The bird is in the cage." · Hana:
+    "And the turtle?" · Ali: "Hmm … The turtle is under the table!"
+    · Hana: "I love pets!" · Ali: "Me too!"
+  - p.114 Listen, point, and repeat — the pets: **cat, dog, turtle,
+    bird** · the position words shown with one ball and one box:
+    **in** (the ball half-out of the open box), **on** (the ball on
+    the closed box), **under** (the box over the ball) · three
+    question-and-answer pairs: "Where is the dog? The dog is on the
+    couch." / "Where is the cat? The cat is under the chair." /
+    "Where is the bird? The bird is in the cage."
+  - p.115 Ex.3 Listen, point, and put ✓ (cat, dog, bird — each
+    against a wrong picture; **in** against the on-picture) · Ex.4
+    Write ✓ if the word or sentence matches the picture, ✗ if not
+    (turtle ✓; "on" over the in-picture ✗; "under" over a cat sitting
+    on a chair ✗; "The cat is under the chair." ✓; "The dog is on
+    the couch." ✓; "The bird is in the cage." ✓).
+  - p.116 Ex.5 Match the pictures to the correct words (cat, dog,
+    bird, in, turtle, under) · Ex.6 Circle the pictures that belong
+    to the pet category (cat, turtle, dog, bird — against elephant,
+    giraffe).
+- **Lesson 4: Phonics — Uu and Jj** (pp.117–121; one lesson, two letters)
+  - p.117 Uu — Listen and repeat: **up** (a green arrow curving up),
+    **unlock** (an open padlock), **umbrella, under** (the box over
+    the ball again — the position word comes back as a letter word)
+    · Trace and write Uu.
+  - p.118 Formation box for U/u (down, curve, up; u = down, curve, up,
+    down) with **umbrella** · more tracing · Ex.4 Match the objects
+    that start with Uu (unlock, umbrella, up — against duck, ball,
+    star).
+  - p.119 Jj — Listen and repeat (Ex.5): **jam, jacket, jar,
+    jellyfish, jeans** · Trace and write Jj.
+  - p.120 Formation box for J/j (J = down with a hook, across the top;
+    j = down with a hook, then the dot) with **jam** · more tracing ·
+    Ex.8 Circle the objects that start with Jj (jacket, jeans, jar,
+    jam — against lock, olive, frog).
+  - p.121 Ex.9 Color the pictures, then trace the beginning letter
+    (an umbrella with Uu, a jam jar with Jj) · Ex.10 Write the
+    missing letter (**j**ar, **u**p, **j**am, **u**nlock, **j**acket,
+    **u**nder, **j**eans, **u**mbrella, **j**ellyfish — Uu and Jj
+    mixed).
+
+### P1T1 Review 2 — page by page (PDF pp.122–125; read 2026-10-25)
+Review 2 covers Units 4–6 and closes the book's teaching pages.
+- p.122 Ex.1 Check ✓ the correct beginning letter (jacket: Ff/Jj;
+  umbrella: Uu/Bb; lemon: Ll/Oo; bike: Ll/Bb; frog: Ff/Uu; ostrich:
+  Jj/Oo) · Ex.2 Name the picture, then write its beginning letter
+  (olive, boy, fish, desk, lamp, jellyfish — no choices given; the
+  learner writes the letter alone).
+- p.123 Ex.3 Match each sense to its body part (a flower → nose; ice
+  cream → tongue; a bell → ear; the sun → eyes; a teddy bear → hand)
+  · Ex.4 Color the square red if it's a jungle animal and green if
+  it's a pet (turtle, lion, dog, elephant, cat, giraffe — the two
+  animal kinds sorted by the two colors) · Ex.5 Circle what we get
+  from these farm animals (chicken → egg, from milk/egg/cheese; cow →
+  cheese and meat, from egg/cheese/meat).
+- p.124 Ex.6 Count the fruits and match to the correct number (6
+  apples, 8 bananas, 10 oranges — matched to 8, 6, 10 printed in
+  scrambled order) · Ex.7 Count and circle the correct number (9
+  leaves: 4–9; 5 rabbits: 5–7; 3 girls: 1–3; 7 umbrellas: 7–6; 2
+  frogs: 8–2).
+- p.125 Ex.8 Match the picture to its beginning letter (ant: Aa/Gg;
+  robot: Cc/Rr; mango: Kk/Mm; carrot: Cc/Rr; gloves: Gg/Mm; kangaroo:
+  Ee/Kk) · Ex.9 Write the beginning letter (**g**oat, **m**oon,
+  **c**ake, **k**ing, **e**gg, **r**ocket).
+
+### P1T1 Glossary + back cover — page by page (PDF pp.126–128; read 2026-10-25)
+- pp.126–127 **Glossary of Words and Phrases** — the book defines its
+  own words, in a table (Category / Word / Definition). The
+  definitions are the book's own easiest-wording explanations, kept
+  here word for word because the merge rule keeps the best version:
+  - People: **farmer** — "A person who grows food or raises animals"
+    · **nurse** — "A person who helps care for sick people"
+  - Things: **bus** — "A big vehicle that carries many people" ·
+    **pencil** — "A tool used for writing or drawing" · **ruler** —
+    "A tool to measure or draw straight lines" · **table** — "A
+    piece of furniture with legs and a flat top" · **umbrella** — "A
+    tool you hold to stay dry in the rain"
+  - Food: **apple** — "A round red, yellow or green fruit" ·
+    **banana** — "A long yellow fruit" · **tomato** — "A round red
+    vegetable used in salads"
+  - Nature & Animals: **farm animals** — "Animals that live on a
+    farm like cows" · **flower** — "A colorful part of a plant that
+    smells nice" · **jungle animals** — "Animals that live in the
+    jungle like monkeys" · **tiger** — "A big wild cat with stripes"
+    · **tree** — "A tall plant with a trunk, branches, and leaves"
+  - Shapes: **circle** — "A round shape with no corners" ·
+    **rectangle** — "A shape with 4 sides and 4 right angles" ·
+    **square** — "A shape with 4 equal sides and 4 corners" ·
+    **triangle** — "A shape with 3 sides and 3 corners"
+  - Note: several glossary words (farmer, bus, ruler) never appear in
+    the term's lessons as read — the glossary reaches a little past
+    the units.
+- p.128 Back cover: developed, revised, and supervised by a named
+  team (Prof. Zeinab El-Naggar, Prof. Attia El-Sayed, Prof. Nagwa
+  Younis, Dr. Mai Kamal, and others); Editorial Note; "IN
+  PARTICIPATION WITH Salah EL Telmeez Publishing and Printing
+  Company"; British Council; All Rights Reserved © Ministry of
+  Education and Technical Education; ISBN **978-633-8475-30-7**;
+  deposit no. 2026/9664; the print table (Arabic) gives the edition
+  date 2026–2027, 128 pages, book size 19 × 27 cm, book code
+  101/1/11/1/27/9.
+
+**PRIMARY 1 TERM 1 — READ COMPLETE 2026-10-25** (all 128 pages: cover,
+ministry page, Scope and Sequence, ministry message, first-day page,
+Units 1–6, Reviews 1–2, glossary, back cover). The term re-teaches all
+26 letters in the sounds order Tt Ii · Ss Aa · Nn Pp Hh Dd · Rr Ee Cc
+Kk · Mm Gg Oo Ff · Bb Ll Uu Jj, each letter with 4–5 new words, a
+formation box, tracing, and circling/naming practice, with the
+letters mixed together in every later exercise.
+
+Unit 6 basics filed: the-alphabet sources gain P1's Bb words (bird,
+boy, ball, banana, bike), Ll words (lamp, lemon, lion, leaf, lunch),
+Uu words (up, unlock, umbrella, under), and Jj words (jam, jacket,
+jar, jellyfish, jeans) — **with P1T1 done, the-alphabet sources now
+hold Egypt Primary 1's word set for all 26 letters**. The jungle
+animal set (lion, tiger, monkey, elephant, giraffe, snake), the pet
+set (cat, dog, turtle, bird), the position words **in / on / under**
+with the "Where is the …? The … is … the …" pattern, the legs
+counting ("A tiger has 4 legs."), and the glossary's own definitions
+are recorded here for the Word and Sentence titles in ladder order.
 
 ## Built so far
 - greetings/hello-and-your-name/ — built from Unit 1, Lesson 1 (see its

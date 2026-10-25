@@ -107,6 +107,24 @@ alphabet across its 6 units (Scope and Sequence, PDF pp.3–4): Tt Ii
   (F = down, across, across; f = curve over, down, cross) with fish +
   tracing + matching, p.101; Oo/Ff mixed beginning-letter tracing,
   p.102. (Unit 5, read 2026-10-25)
+- Bb /b/ — **bird, boy, ball, banana, bike** (real photos for bird and
+  bike), PDF p.108; formation box (B = down, curve, curve; b = down,
+  curve) with banana + tracing + circling, p.109. (Unit 6, read 2026-10-25)
+- Ll /l/ — **lamp, lemon, lion, leaf, lunch**, PDF p.110; formation
+  box (L = down, across the bottom; l = down) with lion + tracing +
+  circling, p.111; Bb/Ll mixed circling, beginning-letter tracing,
+  and missing-letter writing, p.112. (Unit 6, read 2026-10-25)
+- Uu /ʌ/ — **up, unlock, umbrella, under** (under shown with the box
+  over the ball — the position word returns as a letter word), PDF
+  p.117; formation box (down, curve, up) with umbrella + tracing +
+  matching, p.118. (Unit 6, read 2026-10-25)
+- Jj /dʒ/ — **jam, jacket, jar, jellyfish, jeans**, PDF p.119;
+  formation box (J = down with a hook, across the top; j = down with
+  a hook, then the dot) with jam + tracing + circling, p.120; Uu/Jj
+  mixed missing-letter writing, p.121. (Unit 6, read 2026-10-25)
+**Primary 1 Term 1 is now read complete — this file holds Egypt P1's
+word set for all 26 letters**, in the book's sounds order: Tt Ii · Ss
+Aa · Nn Pp Hh Dd · Rr Ee Cc Kk · Mm Gg Oo Ff · Bb Ll Uu Jj.
 Same country (Egypt), third book — the count below does not change,
 but the lesson gains Primary 1's deeper layer: formation numbers,
 real-photo words, and the two letters mixed in one test.
