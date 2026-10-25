@@ -11,13 +11,17 @@ folder; all three verified %PDF.
   shifted by two letters — e.g. "6JCPM [QW" = THANK YOU — and every
   traced word/sentence below was decoded that way and cross-checked
   against the Pupils Book's own words; plain print extracts clean)
-- Teacher Book: 190 pp (2.4 MB) — not yet read; next in turn
+- Teacher Book: 190 pp (2.4 MB) — **READ COMPLETE 2026-10-25**
+  (method note in its section below)
 
 Course: "English for Libya Primary 1" — Pupil's Book, Activity Book,
 Teacher's Book, Audio, Teacher Resources (posters, picture cards,
 word cards) — back cover, PDF p.130; resources at
 www.englishforlibya.com. Publisher: Ministry of Education, Curricula
-and Educational Research Centre (CERC), State of Libya.
+and Educational Research Centre (CERC), State of Libya. The
+Teacher's Book gives the course its full name — **"21st Century
+English for Libya"** — and its maker: **Garnet Education**,
+2018–2019 (Teacher's Book back cover).
 
 ## How every unit is built (the book's own pattern)
 Nine units, ten lessons each, and every unit follows the same
@@ -77,8 +81,10 @@ Sounds **g, o, u, l, f, b**: g (gate, garden) + Colours 2nd set —
 orange, pink, black, white, brown, grey · o (orange, olive) +
 carpet, blanket, garden · u (umbrella, under) + "We have a …" · l
 (lemon, lion) + "I have a green …" · f (flower, fish) + roof,
-window, door, wall · b (ball, bed) + table, bin, chair, desk · L7
-theme: my house · L8 review words add legs, milk, bags, nest, fan ·
+window, door, wall · b (ball, bus, bed) + table, bin, chair, desk ·
+L7 theme: my house — the Teacher's Book word list names the rooms
+taught here: **sitting room, bedroom, kitchen** (+ garden) · L8
+review words add legs, milk, bags, nest, fan ·
 L10 the year's first reading sentences: **"The cat is in the hat.
 The cat is on the mat."** — in/on taught inside sentences.
 → House/rooms set and in/on sentences recorded here (Nicaragua's
@@ -134,9 +140,11 @@ tree."
 ### Unit 9 "Things I Know …" (book pp.101–112) — the review unit
 L1–2 word-building reviews (tiger, queen, watch, monkey, bus, duck;
 ink, cat, ant, son, net, red, zoo, foot) · L3 rhyming words · L4
-story — **"Sarah's Little Fish"** (a listening story; the text
-layer carries its two spoken lines: "I'm 6." / "It's my little
-fish.") · L5 talk about differences (listen and tick) · L6 "I have a
+story — **"Sarah's Little Fish"** (a listening story; the Pupils
+text layer carries only its two spoken lines, "I'm 6." / "It's my
+little fish" — the Teacher's Book holds the full dialog, filed in
+its section below) · L5 talk about differences (listen and tick) ·
+L6 "I have a
 pen." → "I have a pen and a pencil." (a memory game) · L7 "How
 many …?" find and count · L8 "What is it? / What can you see?" ·
 L9 Draw: My bedroom · L10 the closing dialog, traced and answered:
@@ -312,6 +320,147 @@ rubber, door, chair, toys, clown, pencil case, zoo, bed, wood,
 pencil, desk, bag), with several blank card pages. Back cover:
 the same course-components text as the Pupils Book.
 
+## Teacher's Book — what it adds (read 2026-10-25)
+
+Method note (honest coverage): the Introduction (book pp.4–17),
+all nine unit word lists, the Stories appendix (pp.184–185) and
+the Phonetic Symbols appendix (pp.186–187) were read in full;
+every unit's aims, language and materials were checked; the audio
+scripts were read wherever they carry language the other two
+books do not print in full (songs, chants, dialogs, stories). The
+step-by-step classroom procedure — the same pattern repeated for
+all 90 lessons — was read in full in Unit 1 and followed by its
+language content in the rest.
+
+- **The people of the course**: Ahmed and his sister Nadia (two
+  Libyan children), their friends Hani and Sarah, Adam the
+  Astronaut and Rosie the Robot (Introduction, p.6). Two more
+  names live only in lessons: **Tim** (Unit 3 wash/brush pictures)
+  and **Zeinah**, Sarah's friend in the fish story. (Character
+  names are book facts, never course titles.)
+- **How letters are formed**: a traffic-light system — start on
+  the green dot, pause at the orange dot, stop at the red dot —
+  with numbered arrows (Introduction, p.5). No writing at all in
+  Unit 1; forming starts in Unit 2, by synthetic phonics:
+  blend sounds → words → whole-word recognition.
+- **Pencil holding is a named aim** in Units 2, 3 and 4 ("Learn
+  how to hold a pencil correctly") and the lesson notes check
+  grip, seating and book position again and again — taught by the
+  teacher showing it; no printed grip steps. → Filed: Pencil and
+  Lines → holding-a-pencil sources (count 2 with Egypt).
+- **Activity Book p.18** (Unit 2 Lesson 7) is a "Trace the lines"
+  page — lines of different movements for pencil control,
+  left-to-right — invisible in the Activity text layer because it
+  is all picture. → Filed: Pencil and Lines → drawing-lines
+  sources (Libya paragraph).
+- **Word-list catches** (words the Pupils map above did not
+  name): snake works as a blending/review word already in Unit 2
+  (L8–9); cake joins the c/k lesson (Unit 3 L1); **rooms** in
+  Unit 4 L7 — sitting room, bedroom, kitchen; bus in Unit 4 L6;
+  "The ball is orange." as the model answer to "What colour is
+  the ball?" (Unit 5 L6); **bathroom** presented with the th
+  lesson (Unit 7 L5, with teeth and "Here you are"); **bird** in
+  Unit 8 L5's word list; **man, lady, park** presented for the
+  Unit 9 L5 listening, whose language is "This girl has … / This
+  boy is …"; **friend** and **scary** presented in the Unit 9 L4
+  story lesson.
+- **The classroom language set** (Introduction, p.12): Sit down,
+  please · Stand up, please · Ssh! Quietly, please · Hands up! ·
+  Come here, please · Listen · Listen again · Listen and say ·
+  Look at the board / at me / at the picture / at page 8 · Open
+  your book at page 8, please · Close your book · Altogether ·
+  Point to the picture · You need your colouring pencils · Let's
+  sing a song · Let's play a game · Good! · Well done! ·
+  Excellent! · Yes, that's right · Can I have a pencil, please? ·
+  Thank you.
+- **Songs and chants, full words**:
+  - The alphabet songs (Unit 1, one per letter group) run "a for
+    apple, a for apple. b for ball…" with a play line per group
+    ("brrrm, brrrm, brrrm!" for the car group; "Clap your hands!"
+    for h–k) and close by singing the letter *names* so far +
+    "Letters and words, letters and words. Great, great, great!"
+  - **My Family** (Unit 2, Track 33): "Mum and Dad, Mum and Dad.
+    Mum and Dad and me. Mum and Dad and me, we're a happy
+    family. / Brother and sister… / Grandma, Grandpa… / Mum and
+    Dad and brother and sister and Grandma and Grandpa and me.
+    We're a happy, happy, happy, happy, happy family! Hooray!"
+  - The action chant (Unit 6, Track 70): "Hands up! Hands down!
+    Stand up! Sit down! Hands up! Hands down! Stand up! Turn
+    round!"
+  - **The school song** (Unit 6, Track 74): "Adam goes to
+    school. Adam goes to school. He puts his pencil in his bag,
+    And off he goes to school. / Rosie goes to school. Rosie
+    goes to school. She puts her ruler in her bag, And off she
+    goes to school."
+  - The TPR game is localised: **Salman Says** (Unit 3 Lesson 7
+    notes: "Salman says, touch your nose.").
+- **"Sarah's Little Fish" — the full dialog** (Unit 9 Lesson 4,
+  Track 108): Zeinah: "Hello, Nadia. Who's this?" — Nadia: "This
+  is my friend, Sarah." — Zeinah: "Hello, Sarah." — Sarah:
+  "Hello, Zeinah." — Zeinah: "How old are you, Sarah?" — Sarah:
+  "I'm 6." — Zeinah: "What's this?" — Sarah: "It's my little
+  fish." — Zeinah: "Oh! That's scary!" — Sarah: "Sorry, Zeinah!
+  It's just a toy." — Zeinah: "Goodbye, girls." — Girls:
+  "Goodbye, Zeinah." (The fish is a toy fish in a jack-in-the-box;
+  it jumps out when Sarah presses a button.) → The introducing-
+  a-friend exchange is filed in the Greetings sources.
+- **The four picture stories — full telling scripts** (Stories
+  appendix, book pp.184–185; the Pupils Book prints only a few
+  spoken lines of each):
+  - **Sami's Rocket** (PB pp.114–115): "1 It is time for bed.
+    Sami is in his bedroom. Sami is wearing his pyjamas. His
+    pyjamas are blue and white. Adam is in the bedroom with
+    Sami. Sami and Adam look at the sky. Sami says, 'It's the
+    moon.' Adam says, 'I want to fly to the moon.' 2 Sami and
+    Adam decide to make a rocket. The rocket is for Adam to fly
+    to the moon! The rocket is finished. Adam is in the rocket.
+    3 Adam is flying to the moon. Sami can see the rocket flying
+    to the moon. 4 Now Adam is on the moon. Adam can see the
+    Earth. Sami is on Earth. He is waving at Adam. Sami says,
+    'Goodbye Adam. See you again soon!'" — told as a Project:
+    make a rocket for Adam (cardboard boxes, scissors, sticky
+    tape, colouring pens).
+  - **In The Toy Shop** (PB pp.116–117), told as questions and
+    answers: "Nadia and Ahmed are in a toy shop. What is Nadia
+    doing? Yes, she is reading and listening to a story. What is
+    Ahmed doing? He's playing with cars. He is driving too
+    fast. What is Nadia doing now? She is playing with dolls.
+    There are lots of dolls. Nadia is asking her dad for a doll.
+    What is Ahmed doing? He is playing on a trampoline. Ahmed
+    says, 'Come and play!' It looks lots of fun! Dad says to
+    Nadia, 'You can have one toy.' Which toy does Nadia choose?
+    Yes, the story books. Dad says to Ahmed, 'What do you
+    want?' Which toy does Ahmed choose? Yes. The trampoline."
+  - **At The Zoo** (PB pp.118–119): "Nadia and Ahmed are going
+    to the zoo in a red bus. Who is driving the bus? Yes, Adam
+    the Astronaut. Adam gives the man some money. Adam and the
+    children see three funny monkeys. They say, 'Hello
+    monkeys.' They see two grey rabbits. They say, 'Hello
+    rabbits.' They see three big elephants. They say, 'Hello
+    elephants.' They see two brown goats. They say, 'Hello
+    goats.' They see three little penguins. They say, 'Hello
+    penguins.' They see one big lion. They DON'T say, 'Hello
+    lion.' What a fun day! It is time to go home. Adam, Nadia
+    and Ahmed wave goodbye to the zoo man. Adam drives the red
+    bus home."
+  - **At The Circus** (PB pp.120–121): "Hani and Sarah go to
+    the circus with their mum and dad and their friends Ahmed
+    and Nadia. They see two little black and white dogs. 'Look
+    at the dogs!' They see some funny monkeys eating cake.
+    'Look at the monkeys!' There are three boys all riding a
+    bike together. Hani claps his hands. Then there are two
+    funny clowns drawing a silly picture. 'Look at the boys!'
+    They are very funny. Soon there are more clowns and then
+    Adam starts to play. Adam throws a tomato. Naughty Adam!
+    One of the clowns throws a cake! They are very naughty!
+    Then a tomato hits Dad! Adam comes to help Dad. Adam says,
+    'I'm sorry.'"
+- **Phonetic Symbols appendix** (pp.186–187): the year's word
+  set with sound spellings (same job as the Pupils Picture
+  Dictionary's colour spellings, for every word). One book slip
+  recorded as printed: **goat is given glue's spelling** —
+  "goat – /glu:/".
+
 ## Basics filed from this book
 1. **Letter → the-alphabet**: Unit 1's A–Z way (one word per
    letter) and Libya's full sounds line — 42 sounds in Jolly
@@ -337,6 +486,18 @@ the same course-components text as the Pupils Book.
    and the read-and-colour "I have a …" sentences (Unit 9 L6),
    recorded above for the Word/Sentence titles.
 
+5. From the **Teacher's Book**: Pencil and Lines →
+   holding-a-pencil gains Libya (named aim, taught by showing —
+   count 2); drawing-lines gains Activity Book p.18's
+   trace-the-lines page; Greetings gains the introducing-a-friend
+   exchange ("Who's this? This is my friend, Sarah.") from the
+   full fish-story dialog. Recorded above for the Story title:
+   all five stories now have their full texts (the fish dialog +
+   the four telling scripts), the songs (My Family, the school
+   song, the alphabet songs, the action chant), and the
+   classroom-language set for the Sentence title.
+
 State: Pupils Book READ COMPLETE 2026-10-25; Activity Book READ
-COMPLETE 2026-10-25. Teacher Book is the current book (one book at
-a time).
+COMPLETE 2026-10-25; Teacher's Book READ COMPLETE 2026-10-25.
+**Libya Grade 1 English is fully read — all three books.** Next
+book: Libya Grade 2 (per the reading queue), one book at a time.

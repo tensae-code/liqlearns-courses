@@ -38,6 +38,14 @@ Libya; verified on disk: %PDF, 130 pp).
   old are you? I'm ___** — Goodbye." (the story lesson of the same
   unit has the answer "I'm 6."). Libya is the first book in the
   courses to teach asking age inside the greeting.
+- The Teacher's Book (read 2026-10-25) gives the full audio dialog
+  of that story (Track 108), and inside it a new greeting move —
+  **introducing a friend**: "Hello, Nadia. Who's this? — This is my
+  friend, Sarah. — Hello, Sarah. — Hello, Zeinah. — How old are
+  you, Sarah? — I'm 6. — What's this? — It's my little fish. — Oh!
+  That's scary! — Sorry, Zeinah! It's just a toy. — Goodbye,
+  girls. — Goodbye, Zeinah." Filed here as the greeting frame
+  growing: hello → name → age → introducing someone new.
 
 **Third country merged 2026-10-25 — Nicaragua:**
 Inglés, Activity Book 1, Grade 1 (MINED, Nicaragua; verified on disk:

@@ -31,7 +31,13 @@ joined in number order with straight lines until a picture stands.
 Unit 4 Lesson 7 (book p.38) and Unit 6 Lesson 7 (book p.58) join
 dots 1–10; Unit 9 Lesson 4 (book p.85) joins 1–18. The move is the
 straight line from one point to the next — the zigzag lesson's
-straight-and-corner move, aimed at a target.
+straight-and-corner move, aimed at a target. The Teacher's Book
+adds a second Libya line page the Activity extraction could not
+show (it is all picture, no print): Activity Book p.18 (Unit 2
+Lesson 7) is a **"Trace the lines"** page — lines with different
+movements, traced with finger or pencil for pencil control and
+left-to-right movement, the teacher reminding pupils how to hold
+the pencil correctly (Teacher's Book, Unit 2 Lesson 7 notes).
 
 **Acceptance count: taught in 2 countries (Egypt, 3 books; Libya,
 1 book).**
