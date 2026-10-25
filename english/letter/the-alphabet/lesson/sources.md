@@ -157,6 +157,14 @@ blends and short-vowel word families:
   match, and Yy/Xx ✓ checks, pp.32–33. (Term 2 Unit 2, read 2026-10-25)
   **With Yy and Xx, Egypt Primary 1 Term 2 completes all 26 letters
   for the year** (Term 1's 20 + Term 2's Ww Qq Vv Zz Yy Xx).
+- Word families, short /æ/ (Term 2 Unit 3, Lesson 2): **-an** (pan,
+  man), **-ap** (map, cap), **-at** (mat, hat) — each word printed
+  letter by letter with a dot under each letter and a blending arrow,
+  the a pink; read-and-match, choose-the-word, and a rhyming chant,
+  PDF pp.48–51. Short /ɛ/ (Unit 3, Lesson 4): **-et** (pet, jet,
+  wet), **-en** (pen, hen, ten), PDF pp.57–60, same devices. These
+  are the book's first whole-word reading — Word-step material, filed
+  fully in the Egypt book map.
 - Past single letters (Term 2 Unit 2, Lesson 4): consonant blends
   with s- — **sk** (skip, sky), **sn** (snail, snake), **st** (strong,
   star), **sw** (swing, swim), PDF pp.38–41 — the blend printed pink

@@ -1103,6 +1103,122 @@ numbers 11–20 as figures with values, and the counting sentences
 ("How many … are there? There are 15 …") are recorded here for the
 Word, Sentence, and Maths titles in ladder order.
 
+### P1T2 Unit 3 "Seasons" — page by page (PDF pp.43–60; read 2026-10-25)
+- p.43 Unit opener + Learning Outcomes: recognize months, seasons,
+  and weather in listening texts; name the months in order;
+  differentiate short vowel sounds /æ/ and /ɛ/ in familiar words;
+  identify rhyming words; identify word families; read CVC words with
+  short vowel sounds /æ/ and /ɛ/; recognize sight words.
+- **Lesson 1: Months of the Year** (pp.44–47)
+  - p.44 Ex.1 Listen and repeat — the twelve months on calendar
+    cards, each with its number: **1 January, 2 February, 3 March, 4
+    April, 5 May, 6 June, 7 July, 8 August, 9 September, 10 October,
+    11 November, 12 December** · Ex.2 Dialog (speech bubbles): "How
+    many months are there in a year?" — "There are 12 months in a
+    year."
+  - p.45 Pair work — Listen, and practice with a friend: "When is
+    your birthday?" — "My birthday is in July." · "What month comes
+    after April?" — "May comes after April." · "What month comes
+    before September?" — "August." · **Sight words: my – is – in –
+    your**.
+  - p.46 Ex.4 Circle the month: "What month comes after October?"
+    (May / November / June / December) · "after February?" (March /
+    September / April / October) · "after July?" (February / August /
+    March / September) · Ex.5 Circle the month: "What month comes
+    before December?" (April / October / March / November) · "before
+    August?" (January / July / March / September).
+  - p.47 Ex.6 Speaking — discuss with a friend what is your favorite
+    month / why? (the twelve months in a strip): "What is your
+    favorite month?" — "My favorite month is April." · Ex.7 Trace
+    the names of the months of the year (all twelve printed dotted,
+    whole words — word tracing, not letter tracing).
+- **Lesson 2: Phonics — Short Vowel /æ/, Word Families** (pp.48–51) —
+  "Fun with Words that Rhyme!" The book's first whole-word reading:
+  every word is printed letter by letter with a dot under each letter
+  and an arrow running under them — sound the letters, slide along
+  the arrow, say the word; the vowel is printed pink.
+  - p.48 Ex.1 Listen and repeat: **"-an" family — pan, man · "-ap"
+    family — map, cap · "-at" family — mat, hat**, each word beside
+    its picture.
+  - p.49 Ex.2 Read the word, then match with the picture (map, cap,
+    hat, man, pan, mat — the learner reads the printed word first,
+    then finds its picture).
+  - p.50 Ex.3 Choose the correct word under each picture (cap/pan;
+    mat/hat; mat/map; cap/man; map/pan; map/hat).
+  - p.51 Ex.4 **Chant with rhyming words**: "Cook an egg inside the
+    pan – pan! / Shake a hand and meet man – man!" · "Draw a road
+    upon the map – map! / Put it on, a little cap – cap!" · "Lay your
+    toys upon the mat – mat! / On my head I wear a hat – hat!" ·
+    Ex.5 Find the words in the chant, and write (boxes for the two
+    words rhyming with "an", with "ap", with "at") · Ex.6 Circle the
+    two rhyming words in each group (hat/cap/man/mat · mat/map/cap/
+    man · man/cat/pan/map — **cat** appears here, a family word the
+    lesson never introduced, tested from its sound alone) · **Sight
+    words: a – and – on – my – the – put – an**.
+- **Lesson 3: Four Seasons** (pp.52–56)
+  - p.52 Ex.1 Listen and repeat: **spring, summer, fall, winter**
+    and the weather words **warm, hot, sunny, cold, windy, rainy,
+    cloudy** — each on its picture (warm = a smiling sun in a
+    sweater; hot = a sun with flames).
+  - p.53 Ex.2 Listen, then write the number next to the correct
+    picture (1 winter, 2 summer, 3 spring, 4 fall — against a beach
+    boy, a girl in flowers, a boy in falling leaves, a snowman).
+  - p.54 Speech bubbles: "Is it cold in winter?" — "Yes, it is." ·
+    Ex.3 **Read** the following dialog (the first dialog in the book
+    given as reading, not listening): Teacher: "What season is it
+    now?" · Ali: "It's spring." · Sara: "Spring is warm and sunny.
+    There are lots of flowers." · Teacher: "Nice! And what comes
+    after spring?" · Omar: "Summer comes after spring." · Teacher:
+    "What's the weather like in summer?" · Omar: "It's hot and
+    sunny. We can go swimming!" · Mona: "And after summer comes
+    fall." · Omar: "Fall is windy, rainy, and sometimes cloudy." ·
+    Teacher: "What about weather in winter?" · Ali: "In winter it's
+    cold, cloudy, and sometimes rainy." · Teacher: "Which season do
+    you like best?" · Sara: "I like summer best because I can go to
+    the beach." · **Sight words: is – it – and – the – in – I – we –
+    can – go – do – you – to**.
+  - p.55 Ex.4 Match (winter, spring, summer, fall to four season
+    pictures) · Ex.5 Color your favorite season of the year (a
+    four-panel seasons picture to color).
+  - p.56 Ex.6 Choose the word (sunny/windy; rainy/cloudy; rainy/
+    cloudy; windy/sunny — the same four weather pictures) · Ex.7
+    Listen, then circle the correct picture (hot; cloudy; rainy;
+    cold — each word over two pictures).
+- **Lesson 4: Phonics — Short Vowel /ɛ/, Word Families** (pp.57–60)
+  - p.57 Ex.1 Listen, read and repeat: **"-et" family — pet, jet,
+    wet · "-en" family — pen, hen, ten**, same devices as Lesson 2
+    (dots, blending arrow, pink vowel; ten is shown as a big "10").
+  - p.58 Ex.2 Read the words, then check (✓) the correct one (pen:
+    ten/pen; wet shirt: hen/wet; jet: pet/jet; hen: jet/hen; 10:
+    pet/ten; pet dog: pet/wet).
+  - p.59 Ex.3 Write the missing letters (p_n, we_, _et, h_n, _e_,
+    _et — one or two letters missing per word, the picture as the
+    only guide).
+  - p.60 Ex.4 **Chant with rhyming words**: "I have a silly little
+    pet! / He tried to ride a flying jet! / He slipped and fell, got
+    very wet!" · "Then wrote a note with his blue pen! / He gave the
+    note to a hen! / And counted eggs, he found just ten!" — a little
+    story in rhyme, the family words printed pink · Ex.5 Match the
+    rhyming words (jet → the wet shirt picture; hen → the "10"
+    picture: the rhyme is matched across the two families by sound)
+    · Ex.6 Color the rhyming words (outline pictures: 10, hen, jet,
+    pet, wet shirt, pen(cil)).
+
+Unit 3 (Term 2) basics filed: the months set with their numbers
+(January 1 – December 12), the "When is your birthday? My birthday is
+in …" and month before/after patterns, the seasons set (spring,
+summer, fall, winter) and weather set (warm, hot, sunny, cold, windy,
+rainy, cloudy) with the season sentences ("Spring is warm and
+sunny." / "What's the weather like in summer?" / "Is it cold in
+winter? Yes, it is."), and the first sight-word strips of the unit
+(my, is, in, your · a, and, on, the, put, an · is, it, the, I, we,
+can, go, do, you, to) are recorded here for the Word and Sentence
+titles in ladder order. The /æ/ families (-an, -ap, -at) and /ɛ/
+families (-et, -en) with their blending-arrow device and rhyming
+chants are filed in the book map above and noted in the-alphabet
+sources as the book's first whole-word reading — they belong to the
+Word title when built.
+
 ## Built so far
 - greetings/hello-and-your-name/ — built from Unit 1, Lesson 1 (see its
   sources.md). Title = the common-sense name (Greetings), not the book's
