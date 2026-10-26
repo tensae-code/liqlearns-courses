@@ -221,32 +221,290 @@ passed as recorded above)
 
 ## Class 2 — Marigold Book Two (Textbook in English for Class II)
 
-NCERT, first edition February 2007; this copy the 2020-21
-printing; ISBN 81-7450-670-5. Copy note: NCERT's own site
-will not serve its PDFs to this network (every route —
-direct, browser — returns an error), so this and the
-following India books are read from the Internet
-Archive's copies of the same NCERT printings (prelims +
-chapter files), cross-checked against NCERT's chapter
-listings.
+NCERT, first edition February 2007; this copy the
+2020-21 printing; ISBN 81-7450-670-5; price ₹65 as
+printed; printed at Good Luck Publishers Ltd.,
+Saharanpur; cover, layout and illustrations Henu
+Mehtani; same committee leads as Class 1 (Anita
+Rampal; chief advisor R. Lalitha Eapen). Read in
+full, page by page, 2026-10-26, from the Internet
+Archive's copy of NCERT's own chapter files (the
+chapter PDFs are image scans; read from the files'
+own text layer). 176 printed pages in all.
 
-Same shape as Class 1: TEN units, one poem + one story
-each, picture-led, closing apparatus of new words,
-reading questions, and talk/do/write activities.
+SHAPE: TEN units (pp.1–174) plus a closing PICTURE
+DICTIONARY (pp.175–176) — this year the dictionary
+is an alphabet RHYME. Same unit machine as Class 1
+(poem + story + New words + Reading is fun + talk/
+share/act/write strands + Teacher's Pages at each
+unit's end), with three growth steps: (1) most units
+now carry EXTRA poems or pieces beyond the pair —
+short rhymes dropped between the activities; (2)
+CORRECTION WORK begins — the child fixes printed
+mistakes (missing capitals, missing full stops) in
+sentences the book shows wrong; (3) real language
+points are now taught inside the activities, still
+unnamed: plurals, opposites, pronouns, a/an/the,
+question words, before/after, prepositions. The
+Teacher's Pages add: running hand (joined writing,
+pencil not lifted till the word ends), the tripod
+grip, and "if the child is inclined to left-handed
+writing, do not push the child to be a right-handed
+writer."
 
-- U1 First Day at School (poem) · Haldi's Adventure
-- U2 I Am Lucky! · I Want
-- U3 A Smile · The Wind and the Sun
-- U4 Rain · Storm in the Garden
-- U5 Zoo Manners · Funny Bunny
-- U6 Mr. Nobody · Curlylocks and the Three Bears
-- U7 On My Blackboard I Can Draw · Make It Shorter
-- U8 I Am the Music Man · The Mumbai Musicians
-- U9 Granny, Granny Please Comb My Hair · The Magic
-  Porridge Pot
-- U10 Strange Talk · The Grasshopper and the Ant
+- U1 (pp.1–19) First Day at School (poem, Aileen
+  Fisher — four "I wonder" verses: drawing, being
+  liked, the teacher, the puppy wondering where I am)
+  · Haldi's Adventure (story: Smiley the giraffe in
+  big glasses carries Haldi to school on his back).
+  Two extra poems inside the unit: The Paddling-Pool
+  (Ann Berry) and Bells (Margaret Russell). New words
+  (wonder, drawing, stares, Gran, puppy; giraffe,
+  surprised, adventure, wonderful, playground). The
+  work: feelings on the first day (shy/sad…); the
+  brush/comb/wash action song (father, mother,
+  brother, sister); words made from POT; school-bag
+  circling; days of the week written out (Haldi goes
+  Mondays–Fridays, games on Saturdays); the FIRST
+  correction work — "haldi" (one mistake: the capital)
+  and "i met a giraffe" (two mistakes); before/after
+  fill-ins (___ eating food, I wash my hands);
+  Say aloud sets (paddle/saddle/cradle; down/clown/
+  sound/round; school/pool/rule/cool/tool).
+- U2 (pp.20–38) I Am Lucky! (poem: butterfly, myna,
+  fish, elephant, kangaroo, octopus — each thankful;
+  "I just think I am lucky to be 'me'") · I Want
+  (story, Judy Ling: Little Monkey's wand gives him a
+  giraffe's neck, an elephant's trunk, zebra stripes;
+  he sees a "monster" in the river — himself — and
+  wishes himself back). New words (strong, wand,
+  wishes, blows, trunk, monster). The work: can/cannot
+  lists ("I can… I cannot but I can"); -ful endings
+  (helpful, colourful, playful, careful) and joined
+  words (place+ful, play+ful, colour+ful); syllable
+  clapping (oc-to-pus, el-e-phant, butt-er-fly,
+  kang-ga-roo); true/false on the story; collective
+  nouns matched (a flock of birds, a swarm of bees, a
+  herd of cows); plurals by adding s (one giraffe,
+  two giraffes); the correction pattern again ("i
+  look awful" — two mistakes). Teacher's Pages: word
+  families built systematically (the 'at' family —
+  bat, cat, fat, rat — and the rime list ab, ad, ag,
+  am, an, as, et, ed…), more collective nouns (an army
+  of ants, a bunch of flowers), more punctuation.
+- U3 (pp.39–53) A Smile (poem: "A smile is quite a
+  funny thing / It wrinkles up your face") · The Wind
+  and the Sun (a PLAY, adapted from Aesop — the wind
+  blows, the man holds his coat tighter; the sun
+  shines, the coat comes off; "SUN: Wind, I have
+  won"). New words (road, coat, quickly, stronger,
+  cheeks, won). The work: SILENT LETTERS (the w in
+  wrinkle has no sound; the l in talk is silent) and
+  the long-i fills (sm_le, k_te, m_ce, l_ne); "If
+  You're Happy and You Know It" with four actions;
+  a joke-telling slot; the riddle "smiles is the
+  longest word — there is a mile between the two
+  s's" (printed upside down); -ing "doing words"
+  found in the play (walking, smiling, blowing,
+  pulling + three more); the story retold by filling
+  pulled/took/blew/felt/wanted/started; opposites
+  (hot/cold, big/small, strong/weak; then good, tall,
+  hard, black); A Big Wind reading passage with
+  true/false judging (a wind can blow down a house —
+  true; a field, a child, a river — false).
+  Teacher's Pages: the unit's moral named — gentleness
+  beats force; the bully question discussed.
+- U4 (pp.54–71) Rain (poem, Robert Louis Stevenson:
+  "The rain is raining all around, / It falls on field
+  and tree") · Counting Clouds (cumulative story,
+  Santhini Govindan — clouds one to four arrive in
+  verse and the CHILD WRITES what the fifth and sixth
+  clouds did) · Storm in the Garden (story, Sandhya
+  Rao: Sunu-sunu the snail reports the storm to his
+  mother in sound words — wind Ooo, trees Shay, 
+  lightning Zzzak, thunder Gadaam Gudoom, rain
+  Sittasitta Pittapitta, drips Plip). New words
+  (snail, dark, feelers, storm, lightning, thunder).
+  The work: PREPOSITIONS in/on/under/behind/over with
+  the cat pictures (jumping over the wall, in the
+  box, on the stool, behind the door, under the
+  suitcase — as the pictures order them); water words
+  (river, pond, sea, lake) filled into sentences; the
+  "Who am I?" riddle (answer: water, printed upside
+  down); rhyming sets (away/day/play). Teacher's
+  Pages: sound boxes and listening games, clean-water
+  talk, telephone manners.
+- U5 (pp.72–89) Zoo Manners (poem, Eileen Mathias:
+  don't mock the camel's hump or the chimpanzee; the
+  penguins "can understand remarks you make") ·
+  Funny Bunny (cumulative tale: a nut falls on Funny
+  Bunny — "The sky is going to fall!" — Henny Penny,
+  Cocky Locky, Lucky Ducky and Poosey Goosey join the
+  run to the King; Woxy Foxy leads them off: "And
+  that was the end of" all five). New words (proud,
+  noble, wise, penguins, strutting, remarks; nut,
+  ouch, met, I'm, I'll, off, we're). The work: animal
+  noises (roar, bark, neigh, moo, quack, chirp,
+  bleat, chatter, grunt, hiss); the bee composition
+  corner; VERB-FORM CHOICE (a nut fell/fall; the sky
+  is/was falling; go/went; join/joined; meet/met;
+  eat/ate); word-order sentences rebuilt (on/Funny
+  Bunny/fell/a/nut/one day); change-one-letter
+  rhymes (fell→tell; down, king, met, soon, way,
+  bat); opposites with sentences (fat, fall, start,
+  come). Teacher's Pages: greetings in other tongues
+  (namaskar, adab), the Hello and Goodbye group poem.
+- U6 (pp.90–104) Mr. Nobody (poem: the funny little
+  man "as quiet as a mouse" who cracks every plate)
+  · The Zigzag Boy (short poem) · Curlylocks and the
+  Three Bears (story, adapted from Goldilocks: big /
+  middle-size / tiny bowls, beds and voices; "just
+  right" twice; she runs out at the end). New words
+  (quiet, mischief, everybody, agree, nobody; curly,
+  cottage, bowl, porridge, hungry). The work:
+  no/some/every + body compounds (nobody, somebody,
+  everybody); TITLES — Mr. and Mrs. written with a
+  capital and a full stop, practised on the child's
+  own parents' names, then used on the family chart;
+  vowel fills (h_d, shoulders…); homophone play
+  (sea/see, tail/tale sentences; teacher's list adds
+  deer/dear, their/there); describing words found for
+  the Bears. Teacher's Pages: big/middle/tiny as the
+  story's ladder.
+- U7 (pp.105–121) On My Blackboard I Can Draw (poem:
+  counting a drawn house — one house, one green door,
+  two brown gates, three red steps, four white
+  chimneys, five bright windows, six yellow
+  marigolds) · Make It Shorter (Akbar–Birbal story:
+  Birbal draws a LONGER line under Akbar's, so the
+  first "is shorter now" without touching it) · The
+  Mouse and the Pencil (picture story, V. Suteyev:
+  the pencil draws circle upon circle until the
+  "cheese/apple/cucumbers" become a cat, and the
+  mouse flees). New words (gates, wide, lead,
+  chimney, marigolds; order, rub, puzzle, erase,
+  court). The work: SIMILES (as busy as a bee, as
+  slow as a…, as light as a…, as black as…); opposite
+  fills (fast→slow, happy→sad, loose→tight);
+  COMPARATIVES in pictures (bigger, shorter, heavier,
+  taller) and in the teacher's ladder (big, bigger,
+  biggest); PLURALS with es/ies/ves (buffaloes,
+  heroes, potatoes; babies, flies, ladies; knives,
+  wolves, loaves); silent letters in comparatives
+  (dark/darker, big/bigger — "which letters cannot
+  be heard"); a pencil-cap craft. Teacher's Pages:
+  adjectives work, rooms of the house.
+- U8 (pp.122–140) I Am the Music Man (song-poem:
+  piano — "Pia, pia, piano"; the big drum — "Boomdi,
+  boomdi") · The Mumbai Musicians (story, adapted
+  from The Bremen Town Musicians: Goopu the donkey,
+  Doopu the dog, Furry the cat and Cuckoo the cock
+  sing outside the lit house; the people inside flee
+  from "ghosts"; the four eat the feast). New words
+  (tired, musician, peeped, delicious, ghosts,
+  scare). The work: IRREGULAR PLURALS (bench, brush,
+  glass, box, bus, tomato — and deer, sheep, tooth,
+  goose, woman, mouse, which change or stay);
+  OPPOSITE GENDER words filled into sentences
+  (mother/father, uncle/aunt, lion/lioness, king/
+  queen, man/woman, grandfather/grandmother); short
+  e / long e sorting (deep, meal, street, well, pig,
+  tree, fish, smile, seed); COMPOUND words built
+  (news+paper, school+bag, tooth+paste, neck+lace,
+  some+one, class+room, time+table, foot+ball, 
+  car+pet); a Jaltarang made from water bowls.
+  Teacher's Pages: the farmer's generosity to the old
+  donkey; 'a' before objects; b/v and v/w sounds.
+- U9 (pp.141–159) Granny, Granny Please Comb My Hair
+  (poem, Grace Nichols: the cushion between Granny's
+  knees, a little coconut oil, "You have all the time
+  in the world") · The Magic Porridge Pot (folk tale:
+  Tara's pot cooks on "Cook-Pot-Cook" and stops only
+  on "Stop-Pot-Stop"; her mother, not knowing the
+  stop words, floods the road with porridge) · a
+  third piece, Loving Grandfather (a COMIC-STRIP
+  story in speech bubbles: grandpa sprains his arm,
+  goes quiet and sad; the children take him walking
+  to his friends). New words (care, cushion, knees,
+  gentle, breeze, world, nice; magic, cook, porridge,
+  spilling). The work: PRONOUNS — "sometimes we
+  replace the names of people with another word"
+  (Meena → She, Ram → He, the mango → It); A/AN/THE
+  fills through the giant-and-garden passage; words
+  built from GRANDPARENTS' letters; a list for a
+  grandparents' visit "with a, an or the before each
+  thing"; a thank-you card made to a set size; a
+  porridge recipe in steps; friendship-balloon words
+  (caring, sharing, kind, friendly, helpful,
+  forgiving, truthful). Teacher's Pages: the unit's
+  arc named — from Unit 1's "myself" to family and
+  friends; invite grandparents to school.
+- U10 (pp.160–174) Strange Talk (poem, L.E. Yates:
+  the frog says only "Croak-croak," the duck
+  "Quack-quack," the pig "Wee-wee") · a second poem,
+  The Wise Old Owl ("The more he saw the less he
+  spoke") · The Grasshopper and the Ant (Aesop: the
+  singer begs in winter; "You were only singing and
+  dancing… Go away!"). New words (instead, row;
+  hardworking, arrived, starve, slammed). The work:
+  QUESTION WORDS (Will, Can, What, How, Where, When
+  completed into questions: ___ is your name? ___ old
+  are you?); sentence-making with Is, Are, Have, Has,
+  Had; "Write five lines on My Pet"; look-alike word
+  ticks (shoot/shout, water/voter, tired/tried,
+  pleace/please, see/sea); SYNONYM circles (speak/
+  talk, complete/finish, small/little, sick/ill, big/
+  large); PRONOUNS IN ACTION — picture sentences
+  rewritten with he, she, it, they (a lady cycling,
+  a man running, two girls playing, a dog sleeping);
+  a number-for-letter code puzzle; The Talkative
+  Tortoise picture story. Teacher's Pages: question
+  words listed for the teacher (how, can, will, did,
+  would, should); he/she/it/they to be familiarised;
+  letter-sound synthesis as the reading method, rote
+  named as not effective.
+- PICTURE DICTIONARY (pp.175–176): the alphabet as a
+  rhyming verse, one or more words per letter — "…
+  that swings from a tree; B is a Ball for Beena and
+  me. E is for an Egg; F is for Frog. G is the Garden
+  where the marigold blooms; H is for House with big
+  and small rooms. K is for Kite; L is for Lamb; M is
+  for Man who lives in a hut; N is for Nose, Nine,
+  Nest and Nut. O is for an Owl; P is for Play; Q is
+  for Questions we ask every day. R is for River, S
+  is for Street; T for Tomatoes that we like to eat.
+  U is for an Umbrella… V is for Villages on hills and
+  plains. W is for Walnut, Water and Wall; X is for
+  X-mas tree that stands so tall. Y is for Yellow
+  like the sun in May; Z is the Zebra that gallops
+  away." (The verse's A line and a few letters are
+  partly cut in this scan's text layer; the span and
+  the run of the rhyme are as printed.)
 
-INDIA CLASS 2 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26)
+Slips recorded as printed: (1) the contents spread
+in this copy is partly garbled in the scan; unit
+page spans above follow the units' own first pages.
+(2) U3's riddle answer prints "smiles" — the longest
+word joke depends on "a mile between the two s's,"
+as the book itself explains upside down. No error;
+recorded so the joke is not "corrected" later.
+
+CITATION CHECK (2026-10-26): anchors verified
+against the book's own pages — ISBN and printing
+(prelims); Haldi's school days and the first
+correction exercise (U1); "i look awful" (U2); the
+play's "SUN: Wind, I have won" (U3); Storm in the
+Garden's sound words (U4); Funny Bunny's five names
+(U5); Mr./Mrs. with the full stop (U6); Birbal's
+longer line (U7); the irregular-plural list (U8);
+"Cook-Pot-Cook / Stop-Pot-Stop" (U9); question words
+and The Grasshopper and the Ant (U10); the Picture
+Dictionary's span (pp.175–176). All on their pages
+as filed.
+
+INDIA CLASS 2 FULLY READ — 2026-10-26 (full
+page-by-page re-read, this filing; citation check
+passed as recorded above)
 
 ## Class 3 — Marigold Book Three (Textbook in English for Class III)
 
