@@ -123,6 +123,34 @@ liqlearns-courses/
   from the books found (and still being found) are the BASE. Level
   fixes and touch-ups, and extra-bonus material, come later as
   UPDATES after launch — they are not work for now.
+- THE LEARNER CODE (his design, ruled 2026-10-26): at signup the
+  learner answers about ten lists — how long they like to stay
+  (5 / 10 / 30 / 60 minutes), what they like doing most (games or
+  courses), more questions or more lessons, and more more-of /
+  less-of lists like those. The answers (first list A, second D,
+  third B…) are joined into a CODE kept inside the learner's ID,
+  and every course they open follows that code — it is how the
+  platform knows how this person likes learning. **The code works
+  BOTH WAYS (his ruling):** the picks write its first version, and
+  the platform then adjusts it from how the person actually
+  learns — real session lengths, the real mix of questions to
+  lessons. The seed of the code already exists in the site's
+  Settings (the learning-style picks and the accessibility picks —
+  "Teach me visually," Dyslexia Support, ADHD Focus Mode, high
+  contrast, and the rest). One line inside it: NEEDS never
+  auto-change — a dyslexia font, contrast, a calm mode is changed
+  only by the person, in Settings; HABITS can tune themselves.
+- THE FOCUS CLOCK (his ruling, 2026-10-26; his model is the MGM
+  training platform): the platform can tell when the learner
+  leaves the study screen — tab hidden, window minimised, app
+  switched. When they leave, the CLOCK stops: the time away is
+  not counted as studying, and audio/video pause; the class does
+  not visibly stop and nobody is punished. Quick trips away — a
+  minute or two, back and forth, the way a person checks notes
+  kept on the side — still count as studying; split-screen
+  counts as present. It exists so the code's session-length list
+  stays honest: time "watched" while the learner was elsewhere
+  would poison it.
 - TIPS ARE OURS (his ruling, 2026-10-26): a lesson's teaching comes from
   the government textbooks only. Anything extra — a clearer way to say a
   thing, a check or a trick that helps the learner DO the thing, or help
