@@ -213,3 +213,43 @@ words). A second adapted-literature unit (The Talking
 Earth, after P4's Hundred Dresses) confirms the pattern:
 one whole real story per year from Primary 4 up, with a
 rewrite-it-from-the-hero's-side task.
+
+
+**Stocked by Egypt Primary 5 Term 2 — Term 3 material:**
+the tense and modal systems complete at this level.
+Ability is finished: can for now beside could for the
+past. Obligation is finished: have to (necessary) and
+don't have to (NOT necessary) set beside must (strong
+rule) and mustn't (not allowed) — the not-necessary /
+not-allowed split stated in print. The future has its
+second form: the planned future, going to, in all three
+forms with its signal words (tomorrow, next…, soon,
+later, one day), beside will/won't. Present Simple and
+Present Continuous are set against each other in one box
+with their signal words — habits/facts/jobs vs actions
+happening now. Comparatives and superlatives are unified
+in one box (short -er / the -est with doubling; long more
+/ the most; irregulars good–better–best, bad–worse–worst,
+far–farther–farthest). The word-building system mirrors
+the prefix line: suffix defined, then -ment / -ship
+(noun-makers), -able / -ible (adjective-makers), -er /
+-or / -ist (person endings), adverbs made with -ly
+(y → i), and compound words (two small words, one new
+word, written as one word or two).
+
+**Stocked by Egypt Primary 5 Term 2 — Term 4 material:**
+descriptive writing gains its craft rule — show, don't
+tell, named in print — plus organize: what you see, the
+job, your opinion. The email pair is complete: a formal
+email with every part named (From / To / Subject /
+Greeting / reason / length and return / polite closing /
+formal closing with full name) and an informal invitation
+email with guided steps and a checklist. The fact file
+joins the writing kinds (headed sections ending in
+Amazing Facts; must include adjectives and a compound
+word). A survey is defined in print and made. A listening
+strategy is named: key words, main ideas, details — you
+don't need every word. A third whole-story unit in a row
+(the original "Offline but Happy") works the six-part
+story-elements frame again, closing with an advice letter
+to the hero.

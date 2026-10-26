@@ -3981,3 +3981,284 @@ PRIMARY 5 TERM 1 FULLY READ — 2026-10-25
 
 Still owed: Primary 5 Term 2, Primary 6, Preparatory 7–9,
 Secondary 10–12 (the remaining 15 of the 26-book Egypt set).
+
+
+## Primary 5 Term 2 (read 2026-10-26)
+
+Source: the MoE e-learning host, the one live copy —
+2026/Primary/Primary5/Term2/StudentBook/English_Prim5_Tr2.pdf
+(7,084,870 bytes, last-modified 2026-01-26; both 2026_2027
+variants 404). 120 pages, IMAGE-ONLY (zero extractable
+characters) — read visually, all 120 pages. Printed folio =
+PDF page. This Term 2 book uses the OLDER design family
+(red Scope table, star self-assessments), not Primary 5
+Term 1's newer design.
+
+Identity: cover "English / Primary 5 / Term 2 / 2025/2026"
+(p.1); ministry dedication + © 2025 MoE (p.2); ministry
+message (p.3) is the Term 2 variant naming the "Primary 5
+Framework for Egyptian Learners" and Middle-Eastern-
+folklore fables. Back page (p.120): developed and produced
+with the Content Department Team at Selah El Telmeez;
+reviewed by Prof. Zeinab El-Naggar, Prof. Attia El-Sayed,
+Prof. Nagwa Younis, Dr. Mai Kamal, Ms. Amira Awaad; CACD
+team (Ms. Eman Mahmoud Youssef, Dr. Amira Fawzy Ahmed,
+Ms. Nora Abdel Samad Ali, Dr. Shaimaa Salah El Din Afify);
+general supervision Dr. Akram Hassan Mohammed; British
+Council + CACD marks; book code 30/5/22/1/12/80; print spec
+says 120 pages — MATCHES the PDF, the first spec in this
+run to match. NO ISBN and NO deposit number printed.
+
+Shape: Scope and Sequence pp.4–5 (columns: Unit /
+Vocabulary / Language in Use / Phonetics Skills / Life
+Skill(s) and Value(s) / Core values / Integrated Learning
+Activities). Six units in the same five-lesson rhythm
+(L1 vocabulary + dialog, L2 reading + Language in Use,
+L3 story / word building, L4 writing, L5 Think and Create
+project), each unit closing with a Quick Review and a star
+Self-Assessment (I got it ★★★ / I'm not sure ★★ / I need
+help ★). Review 1 after U3 (pp.56–58); Review 2 after U6
+(pp.111–113); Glossary pp.114–119, ALPHABETICAL, ~130
+words, one-line definition each. Unit spans: U1 "Hobbies
+Make Us Shine!" pp.6–24 · U2 At the Doctor's pp.25–38 ·
+U3 Suitcase Stories pp.39–55 · U4 Jobs in the Animal
+Kingdom pp.59–76 · U5 Our Solar System pp.77–96 · U6
+Offline but Happy pp.97–110 (a story unit).
+
+### Grammar spine (Language in Use boxes, book order)
+
+1. EXPRESSING ABILITY (U1, p.14) — can shows what someone
+is able to do NOW (subject + can + verb; negative cannot /
+can't); could shows what someone was able to do in the
+PAST (subject + could + verb; negative could not /
+couldn't). Completes Primary 3 Term 2's can/can't with
+the past pair.
+2. HAVE TO / DON'T HAVE TO vs MUST / MUSTN'T (U2, p.30) —
+"we use these to talk about rules or things we should do":
+have to = something necessary; don't have to = something
+NOT necessary; must = a very important (strong) rule;
+mustn't = not allowed. The don't-have-to / mustn't split
+is stated in print — the obligation set is complete
+(Primary 3 Term 2 had must/mustn't alone).
+3. PLANNED FUTURE — GOING TO (U3, p.46) — "we use 'going
+to' when we talk about something we plan to do in the
+future": am with I, is with he/she/it, are with you/we/
+they; affirmative subject + am/is/are + going to + verb;
+negative am/is/are not + going to + verb; question Am/Is/
+Are + subject + going to + verb? Key words: tomorrow,
+next (week / month / year), soon, in the future, later,
+in a few minutes (hours / days), one day. Stands beside
+Primary 3 Term 2's will/won't future.
+4. PRESENT SIMPLE vs PRESENT CONTINUOUS (U4, pp.66–67) —
+the two set against each other in one box, the fullest
+tense contrast in the Egypt run. Present Simple is "for
+habits, facts, and jobs" — things always true or that
+happen regularly; key words: every day, always, usually,
+often, on Mondays; forms: I/you/we/they + base verb,
+he/she/it + verb-s; negative don't / doesn't; questions
+Do / Does. Present Continuous is "for actions happening
+now" — happening at this moment; key words: now, right
+now, at the moment, today, Look!, Listen!; forms am/is/
+are + verb-ing in affirmative, negative (isn't / aren't /
+'m not), and questions. Builds on Primary 3 Term 1's
+continuous-alone box.
+5. COMPARATIVES AND SUPERLATIVES TOGETHER (U5, p.84) —
+comparatives show how two things are different;
+superlatives show one thing is the most in a group of
+three or more. Short adjectives: add -er + than / the +
+-est, with doubling (big → bigger / biggest, hot →
+hotter / hottest, small → smaller / smallest). Long
+adjectives (two or more syllables): more ___ than / the
+most ___. Special Tip irregulars: good–better–best,
+bad–worse–worst, far–farther–farthest. Completes Primary
+5 Term 1's comparative box — NOTE the small disagreement,
+recorded as printed in both: Term 1 called long adjectives
+"3+ syllables" and printed "less" comparatives; Term 2
+says two or more syllables and works more / the most.
+
+### Word-building spine (this book's "Phonetics Skills")
+
+- SUFFIX defined (U1, p.18, Word Building Skills): a
+suffix is a group of letters added to the END of a word to
+change its meaning or make a new word; -ment changes a
+verb into a noun (enjoy → enjoyment); -ship changes a
+noun into another noun (friend → friendship).
+Pronunciation rule: the stress stays on the main word,
+not on -ment or -ship. The suffix counterpart to the
+prefix line (Primary 4 Term 1 dis-/il-/ir-; Primary 5
+Term 1 dis-/bi-/mis-).
+- SUFFIXES -able / -ible (U2, p.33): added to the end of
+a word to form an adjective meaning "able to"
+(comfortable = able to feel relaxed, curable = able to be
+cured, accessible = easy to reach); -able is pronounced
+/əb(ə)l/, -ible /ɪb(ə)l/; stress is usually on the first
+syllable of the base word.
+- ADVERBS ENDING IN -ly (U3, p.50): "an adverb tells us
+how we do something"; make them by adding -ly to
+adjectives (quick → quickly, loud → loudly, careful →
+carefully); y changes to i before -ly (happy → happily);
+the ending is pronounced /li/. First adverb-FORMATION
+teaching in the run (Primary 3 Term 2 named adverbs of
+sequence only).
+- SUFFIXES -er / -or / -ist (U4, p.71): person and job
+endings — -er sounds /ər/ at the end, soft, with the
+strong part before it (farmer); -or also sounds /ər/
+(visitor); -ist sounds /ɪst/ (specialist); clap-the-
+stressed-syllable practice.
+- COMPOUND WORDS (U5, p.89): a compound word is made when
+two small words are joined together to make one new word
+(class + room = classroom, sun + light = sunlight, foot
++ ball = football); sometimes written as one word
+(classroom), sometimes as two words (ice cream).
+
+### Writing spine
+
+- STEPS TEXT + SEQUENCING WORDS COMPLETED (U1 L4, p.20):
+the sequence set with each word's job stated — First =
+the beginning step, Next = the second step, Then = the
+mid steps, After that = more mid steps, Finally = the
+last step; the writing checklist itself is written in
+can/could ("I can see my title… I could add more
+details… I could read it aloud to check it flows").
+- SURVEY defined in print (U1 L5): "a survey is a group
+of questions that people answer to share their ideas,
+opinions, or experiences"; the project is a seven-question
+hobbies survey with checkboxes and one open question.
+- FORMAL EMAIL (U2 L4, p.34): the email frame grown
+formal, every part named — From (the person sending),
+To (the person receiving), Subject (the subject line
+tells what the email is about), Greeting ("Dear" + the
+person's name), reason for writing and short explanation,
+explain how long the leave will be and when you'll come
+back, a polite closing sentence, a formal closing (your
+full name at the end). Model: a sick-leave email; Review
+1's writing task repeats the same task.
+- INFORMAL EMAIL INVITATION (U3 L4, p.51): Guided Writing
+Steps — Greeting (start with "Dear [Name]," and a
+friendly opening), Invitation, Describe Places (pick 2–3
+landmarks, 1–2 sentences each), Closing (ask for a reply
+and sign your name); with its own writing checklist. The
+formal / informal email pair is now complete.
+- DESCRIPTIVE WRITING TIP (U4 L4, p.73): 1 choose a
+topic; 2 use strong adjectives; 3 SHOW, DON'T TELL —
+named in print, with the book's own contrast (instead of
+saying the egret is helpful, write it catching harmful
+insects in the rice field); 4 use the correct tense
+(Present Simple for habits/jobs, Present Continuous for
+what is happening now); 5 organize your ideas: start with
+what you see, describe the job, finish with your opinion.
+- FACT FILE (U5 L5): a new writing kind — a model Milky
+Way fact file with headed sections (What is it? / What's
+Inside? / Where Are We? / Amazing Facts), then make your
+own: introduce your planet, what you can see, what you
+can do, how you will feel; use adjectives; include at
+least one compound word.
+- LISTENING TIP (U5 L1, p.81): good listeners pay
+attention to key words (names, numbers, places), main
+ideas (what the speaker is mostly talking about), and
+details (facts that give extra information) — "you don't
+need to understand every single word to get the meaning."
+
+### Units, briefly
+
+U1 — hobby words by picture (board games, cycling,
+skating, painting, singing, solving puzzles, playing the
+piano, crafting with paper); talent-show dialog; "Hobbies
+Really Count!" text (hobbies help us relax, have fun, stay
+healthy; skills grow — can now vs couldn't before); the
+School Hobby Club story (each hobby gets its own day —
+the -ment/-ship words live inside it: arrangement,
+excitement, agreement, friendship); survey project.
+U2 — clinic dialog (Fady's check-up; Tip p.26: we use
+have/has to talk about how we feel when we are sick —
+have with I/you/we/they, has with he/she/it); "The First
+Aid Kit at School" text (bandages, plasters, scissors;
+must tell a teacher; mustn't open the kit without
+permission); "Hospital 57-3-57: A Place of Hope" — the
+REAL Cairo children's cancer hospital: all treatment free,
+funded by people's donations, with playrooms, libraries,
+and teachers so children keep studying (real institution,
+real photo); formal sick-leave email; Healthy Hero
+Bookmark project (health tips written as imperatives).
+U3 — travel words by real photo (suitcase, pack, travel,
+crowded, beach, ticket, each with a printed meaning);
+Alexandria dialog (Qaitbay Citadel, Bibliotheca
+Alexandrina); "A Special Trip Home" text (an Egyptian
+family living abroad tours home: Pyramids and Sphinx,
+train to Luxor's temples, Nile cruise and felucca to
+Aswan, Alexandria beach); camping story (Wadi El Gemal
+Park — tents, campfire, nature trail, clean the campsite
+before leaving); email invitation; Travel Adventure Book
+project.
+U4 — animal jobs dialog (police dogs find lost people and
+catch criminals with their noses; guide dogs help blind
+people walk safely; horses calm people; rescue dolphins);
+Egyptian animal helpers by REAL PHOTO with printed
+meanings (water buffalo pulls ploughs, donkey carries
+loads, pigeon carries messages home, falcon hunts crop
+pests, gecko eats insects in houses, scarab beetle works
+the soil); farm text (cows, sheep and wool, guard dog,
+chickens, the cat catching mice); "The Farmer's
+Feathered Friend" — egrets eat the insects that harm
+crops and ride on buffaloes' backs, so farmers need fewer
+chemicals; poster project (be kind to animal helpers).
+U5 — planetarium dialog (the planets in order, Mars the
+Red Planet for its iron-rich soil, Jupiter the largest,
+Saturn's rings, the Milky Way our galaxy); "Egypt's
+First Astronaut" — a real-person article about Sara
+Sabry (first Egyptian female astronaut, first Arab
+engineer to travel into space, 2022; real photos) whose
+planet comparisons carry the unit's grammar; "The Planet
+Project" story (Adam will not share the poster work until
+it fails; teamwork moral); "My Trip in a Spaceship" dream
+text for descriptive writing; Milky Way fact file (over
+200 billion stars; light takes about 100,000 years to
+cross it; the Sun takes about 230 million years to go
+once around it); Space Travel Brochure project.
+U6 — the story unit (below).
+
+### The story — by summary only
+
+"Offline but Happy" (U6, pp.98–110) is an ORIGINAL story
+written for this book. Vocabulary first, with printed
+definitions (pp.98–99), and the four characters named
+(Tarek, Amir, Laila, Dina). Plot summary: on a Friday
+morning Tarek's Wi-Fi is down, so his tablet game will
+not load; bored and lonely, he first refuses his friends'
+call, then joins Laila, Amir, and Dina outside — chalk
+drawings on the sidewalk, a bike race to the park,
+hide-and-seek, a pretend shop built from leaves and
+sticks. When his mother calls that the Wi-Fi is back, he
+chooses to stay and play. From then on he uses the tablet
+only a little, after time with friends. The printed moral
+(the unit's self-assessment states it): no tablet, phone,
+or screen can replace the joy of friendship. The unit's
+story work runs on the SIX-part story-elements frame —
+Main Characters / Setting / Problem / Solution / Ending /
+Moral (p.107) — the same set as Primary 4 Term 2's printed
+table; closing task: write a letter to Tarek giving him
+advice about friends and screens.
+
+BOOK SLIPS, as printed: the ministry message (p.3) drops
+letters inside a few words ("tailor nstruction" among
+them); the U3 camping story prints "look fo: special
+birds" (for "for"); the U4 egret text prints "the 'ields"
+(for "the fields"); the U6 story prints "something fun tc
+do outside" (for "to") and "at the minimal use"; Review
+2's reading text prints "better fcr plants" (for "for").
+The print spec (120 pages) matches the PDF exactly.
+
+Filed: curriculum stocking notes only — this book's
+basics are grammar and word building, which live in the
+Term 3 / Term 4 stocking notes; no built lesson's one
+thing is taught here (word building is not word
+families).
+
+EGYPT SET: 12 of 26 English books read (KG1, KG2, P1
+T1+T2, P2 T1+T2, P3 T1+T2, P4 T1+T2, P5 T1+T2). Primary 5
+is complete. Next: Primary 6 Term 1.
+
+PRIMARY 5 TERM 2 FULLY READ — 2026-10-26
+
+Still owed: Primary 6, Preparatory 7–9, Secondary 10–12
+(the remaining 14 of the 26-book Egypt set).
