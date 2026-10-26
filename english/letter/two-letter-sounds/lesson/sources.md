@@ -90,3 +90,31 @@ Same country, deeper layer — the country count does not change.
   (bridge is pronounced "brij"), tch says "ch" (match →
   "mach"), igh says "i" (right → "rite"). The letter-group
   line grows: digraph (two letters) → trigraph (three).
+
+## Egypt — English Primary 6 Term 1 (2025/2026) — added 2026-10-26
+
+- **The /ǝr/ sound** (U1 Pronunciation, p.15): the learner
+  builds the sound by filling the missing letters of
+  words that end in it (b_ _ _d, st_ _ _ _, squ_ _ _ _),
+  then the book tells how to SAY it: open your mouth
+  slightly, say "eh," then add the /r/ sound — it is ONE
+  sound, like in "wear" or "stare." The sound at the end
+  of teacher / farmer / ladder gets its own named lesson
+  moment for the first time in the run.
+- **/e/ vs /ɪ/ — both with articulation instructions**
+  (U2 Pronunciation, p.30): /e/ — open your mouth
+  slightly, tongue low-mid and front (ten /ten/, hen,
+  bed). /ɪ/ — tongue high but relaxed, lips and jaw
+  relaxed, tongue tip just behind the bottom front
+  teeth (sit, bit, in). The short-i sound of the early
+  books is finally given its own how-to-say panel, set
+  against its nearest neighbour.
+- **The -ed three sounds — the voicing RULE stated**
+  (U5 Pronunciation, p.78): Primary 4 Term 2 gave this
+  as a tip with examples; this book prints the rule
+  itself. Past-tense -ed is heard three ways: /t/ after
+  voiceless sounds (p, k, f, s, ch, sh — liked,
+  watched, kissed); /d/ after vowels or voiced sounds
+  (b, g, v, l, m, n, r, z — played, cleaned, called);
+  /ɪd/ after t or d (wanted, needed). The sound the
+  ending makes is decided by the sound before it.

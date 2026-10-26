@@ -4262,3 +4262,341 @@ PRIMARY 5 TERM 2 FULLY READ — 2026-10-26
 
 Still owed: Primary 6, Preparatory 7–9, Secondary 10–12
 (the remaining 14 of the 26-book Egypt set).
+
+---
+
+## Egypt — English Primary 6 Term 1 (2025/2026)
+
+Source: the Egypt MoE e-learning host — the only live copy
+of the four probed path/filename variants:
+2026/Primary/Primary6/Term1/StudentBook/English_Prim6_Tr1.pdf
+(15,956,703 bytes, last-modified 2025-08-11; the two
+2026_2027 variants and the 2026_2027 filename variant all
+404). Taken per the edition rule (only/latest copy). NOTE
+on the file itself: its PDF metadata shows it was
+re-processed (Creator "PDF Candy Desktop", Producer
+Ghostscript 9.50) — but it sits on the ministry's own
+host, ends %%EOF, and its content is the genuine official
+book (cover, ministry pages, print spec and credits all
+verified visually). Working copy:
+~/workspace/liqlearns-courses-work/egypt-english/English_Prim6_Tr1.pdf
+— 112 pages, and it HAS a real text layer (108,767
+non-whitespace chars). Read from the extracted text
+(p6t1.txt) with all 112 pages rendered (p6t1-pages/) and
+key pages checked visually. Printed folio = PDF page
+throughout.
+
+Identity: cover "English / Primary 6 / Term 1 / 2025/2026"
+— a new cartoon cover design (p.1); ministry dedication +
+© 2025 MoE (p.2); ministry message (p.5) names the
+"Primary 6 Framework for Egyptian Learners" and the
+Middle-Eastern-folklore fables. Back page (p.112):
+"Primary 6 - Term 1, Academic Year: 2025/2026"; Selah El
+Telmeez Content Department; reviewed by Prof. Zeinab
+El-Naggar, Prof. Attia El-Sayed, Prof. Nagwa Younis, Dr.
+Mai Kamal, Ms. Amira Awaad; CACD team (Ms. Eman Mahmoud
+Youssef, Dr. Amira Fawzy Ahmed, Ms. Rabab Abdelaziz
+Zidan, Dr. Ghada Elsayed Mohammed); general supervision
+Dr. Akram Hassan Mohammed; British Council + CACD marks;
+Arabic print spec: 112 pages (MATCHES the PDF — the
+second spec in the run to match, after P5 T2), size
+27 × 19 cm, interior paper 70 g, cover 180 g, 4 colors.
+NO ISBN and NO deposit number printed.
+
+Shape: this book returns to the NEWER design family (the
+P5 T1 family). Scope and Sequence pp.3–4 (columns: Unit /
+Vocabulary / Language / Life Skills / Category on the
+first spread; Skills / Values / Integrated Learning
+Activities on the second). Six units; the five-lesson
+rhythm loosens — pronunciation now sits inside lessons
+rather than always in L3, and U6 is a whole-story unit
+with no numbered lessons. Review 1 after U3 (pp.50–53),
+Review 2 after U6 (pp.94–97). NEW BACK MATTER: per-unit
+Self-Assessments gathered at the back (pp.98–100, "I can…"
+lists on the I got it / I'm not sure / I need help scale),
+then full AUDIO SCRIPTS for every listening (pp.101–106
+— the Egypt pupil books gain a tapescript for the first
+time), then a Glossary BY CATEGORY (pp.107–111, ~120
+words). Unit spans: U1 Amazing Places in Egypt pp.6–19 ·
+U2 Our Nature pp.20–35 · U3 Community Builders pp.36–49 ·
+Review 1 pp.50–53 · U4 Resources Around Us pp.54–68 · U5
+Made in Egypt pp.69–82 · two photo plates pp.83–84 · U6
+The Water Savers pp.85–93 · Review 2 pp.94–97 ·
+Self-Assessments pp.98–100 · Audio Scripts pp.101–106 ·
+Glossary pp.107–111 · back page p.112.
+
+GRAMMAR SPINE (Language in Use boxes, book order). This
+book mostly RESTATES the system's grammar at review level
+— and states several of them in their fullest form yet:
+1. Present Simple (U1, p.13) — used to talk about habits
+   and routines; worked through examples and form
+   exercises only (no new rule table).
+2. Present Continuous (U2, p.26) — actions happening now;
+   negative = subject + am/is/are + not + verb-ing;
+   questions = am/is/are + subject + verb-ing, and
+   Wh-word + am/is/are + subject + verb-ing. (P5 T2's
+   contrast box had set it against the simple; here it
+   stands alone with its full form table.)
+3. Can / Can't / Able to (U3, p.41) — can/can't + the
+   infinitive form of the verb talks about ability in
+   the present; be (am/is/are) + able to + infinitive
+   shows the same ability. The able-to twin is new.
+4. Modal Verbs Must / Mustn't / Should / Shouldn't (U4,
+   p.60) — the fullest single modal box in the run, all
+   four in one place, each with the infinitive rule:
+   must + infinitive = very important or a rule;
+   mustn't = must + not + infinitive = not allowed;
+   should + infinitive = advice or a good idea;
+   shouldn't = should + not + infinitive = not a good
+   idea. With P5 T2's have to / don't have to, the
+   obligation-and-advice system is now complete AND
+   gathered.
+5. Past Simple (U5, p.75) — the COMPLETE statement of
+   the tense in the Egypt run: three uses printed —
+   (a) actions that started and finished in the past,
+   (b) actions that happened one after another, (c)
+   habits in the past. Affirmative: subject + past form;
+   regular verbs add -ed / -d / -ied (play→played,
+   smile→smiled, cry→cried); irregular verbs change in
+   different ways (go→went, eat→ate, buy→bought).
+   Negative: didn't + infinitive. Question: Did +
+   subject + main verb, and Wh- + did. Verb "to be" is
+   split out in print: past forms was/were (negative
+   wasn't/weren't), questions use was/were — "We don't
+   use 'did' with verb to be."
+
+PRONUNCIATION SPINE:
+- The /ǝr/ sound (U1, p.15): built by filling the missing
+  letters (b_ _ _d, st_ _ _ _, squ_ _ _ _); how to say it
+  printed: open your mouth slightly, say "eh," then add
+  the /r/ sound — one sound, as in "wear" or "stare."
+- /e/ vs /ɪ/ (U2, p.30): both given articulation
+  instructions in print — /e/: mouth slightly open,
+  tongue low-mid and front (ten, hen, bed); /ɪ/: tongue
+  high but relaxed, lips and jaw relaxed, tongue tip
+  just behind the bottom front teeth (sit, bit, in).
+- Syllables and word stress (U3, p.45): clap each
+  syllable; the STRESS TIP defines stress in print —
+  the part of the word we say louder and stronger; in
+  one-syllable words the whole word is stressed (NURSE);
+  in two-syllable words stress is usually on the FIRST
+  syllable (TAI-lor); in some three-syllable words on
+  the SECOND (me-CHAN-ic).
+- Long /u:/ vs short /ʊ/ (U4, p.64): the oo pair of P3
+  T2 restated, each with a "How to pronounce" panel
+  (spoon, moon, school vs wood, book, look, good).
+- The -ed three sounds — THE RULE STATED (U5, p.78):
+  P4 T2 gave the tip with examples; this book prints
+  the voicing rule itself: /t/ after voiceless sounds
+  (p, k, f, s, ch, sh — liked, watched, kissed); /d/
+  after vowels or voiced sounds (b, g, v, l, m, n, r, z
+  — played, cleaned, called); /ɪd/ after t or d
+  (wanted, needed).
+
+UNITS, briefly. U1 — activity phrases by picture (buy
+souvenirs, make furniture, play music, walk to a small
+museum, visit ancient sites, take photos); a listening
+day in Old Cairo (Khan El Khalili, the audio script is
+in the back); the Ras Mohamed National Park text (coral
+reefs, snorkel, landscape, marine life — real place,
+protected area); village life across four villages
+(Bashandi in the New Valley, Ezbet el Borg in Damietta,
+Qutur in Gharbia, Shakhlouba in Kafr El Sheikh) with the
+words accompany / looms / fishing net / dye DEFINED IN
+PRINT as a matching exercise; Fady's informal email
+about his school day + a Tip: an informal email goes to
+a friend or someone you know very well, and you use the
+present simple to talk about your routine; poster
+project (daily life in a governorate — parts named:
+main header, detailed description, pictures/drawings).
+U2 — caring for plants (Grandpa's garden dialog: natural
+fertilizer, weeds, hibiscus, basil; a Listening Tip:
+listen carefully for main ideas and important details);
+the weather email (Alexandria windy/rainy, Cairo warm/
+sunny, Aswan hot — the present continuous at work in a
+real text); The Wonderful Nile River (about 6,650 km,
+longest river in the world, flows south to north;
+tilapia, Nile perch, crocodiles, kingfishers); a
+SKIMMING TIP (reading quickly to get the main idea —
+focus on the most important parts); the Wadi El Rayan /
+Wadi El-Hitan school-trip story; story-writing steps +
+checklist (below). U3 — jobs that help the community by
+picture (paramedic, architect, water resources engineer,
+mechanic, tailor, delivery person, street cleaner,
+traffic officer) with six words defined in print
+(community, research, vehicles, emergency, brave,
+control); a solve-it listening (traffic near the school;
+posters; "Drive Slowly!" signs); The Proud Rose story +
+a Moral Tip (below); the biography of Dr. Mostafa
+El-Sayed (born 1933, Ain Shams then the USA, chemistry
+and nanoscience, El-Sayed's Rule, gold nanoparticles
+against cancer, US National Medal of Science) + seven
+biography-writing tips; the community-problem project
+(a Food Waste in Egypt chart worked as Causes / Effects
+/ Solutions). (Review 1 adds: "We call 123 in case of
+emergency" — Egypt's ambulance number; P5 T2's safety
+unit gave police 122.) U4 — ancient materials by picture
+(granite, colored stones, gold, clay, papyrus, bricks,
+temple, amulet) with six words defined in print
+(material, survive, ancient, decorate, wrapped, modern);
+the Let's Use Energy Wisely text (solar/wind clean; oil
+and gas harm; small saving actions); Gifts from Under
+the Ground (minerals defined as the valuable things
+under the ground; oil in the Western Desert and Sinai,
+natural gas, gold and iron in the Eastern Desert, steel);
+Man-Made Resources (Omar's research text: plastic from
+oil, glass from sand, bricks from clay and water, paper
+from trees) + RESEARCH TIPS (below); the High Dam fact
+file (fact file returns — headed question sections:
+What is it? / Why did they build it? / When? / How does
+it help? — built 1960–1970, Lake Nasser) with six
+fact-file steps (ask and answer questions, find key
+facts, write short sentences, add title and
+sub-headings, include pictures, check spelling and
+grammar). U5 — travel words by picture (passport,
+luggage, souvenir, brochure, travel plan, exhibition,
+guided tour, information desk) + the travel verbs fly /
+pack / book / board; the Grand Egyptian Museum listening
+(near the Pyramids at Giza, almost 20 years to build,
+the Solar Boat of King Khufu, smart screens); Al Galala
+City text (a modern smart city above the clouds near
+Ain Sokhna, planned 2015, cable car, Galala University);
+The Bundle of Sticks fable + story-elements work
+(below); Mariam's Benban Solar Park article + OPINION
+WRITING (below). U6 — the story unit (below).
+
+STORY / WRITING SPINE:
+- Moral Tip restated with its fullest wording (U3,
+  p.42): "Every story has a moral. A moral is the
+  lesson or message we learn from a story. It usually
+  teaches us the difference between right and wrong,
+  and helps us think about how we should act in real
+  life."
+- Story-writing steps (U2, p.33): tell when and where
+  the story takes place; say who is in the story; write
+  what happens using first, next, and finally; include
+  a problem and a solution; use past simple tense; add
+  interesting details; finish with an ending. Checklist:
+  say who / tell when and where / find information
+  about the place / friendly style / interesting
+  details / an ending that wraps up the story.
+- Research Tips (U4, p.66): choose your topic; ask
+  simple questions (What is it? Where does it come
+  from?); use different sources (school book, safe
+  websites, ask an adult); write short notes IN YOUR
+  OWN WORDS; organize your ideas; add pictures or
+  drawings; check spelling, grammar, and punctuation.
+  The follow-up checklist makes the learner REJECT the
+  wrong steps: copy notes from the internet, use only
+  one resource, write long notes, unfriendly style.
+- Story elements, six names again (U5, p.76):
+  beginning / middle / end / moral / characters /
+  setting — each with a one-line printed definition
+  (setting = the place and time of a story; middle =
+  where the problem or main event happens; moral = the
+  lesson we learn). A reading Tip beside it: when you
+  read a story, try to feel what the character feels.
+- OPINION WRITING defined and taken apart (U5, pp.79–
+  80): the Tip defines it — writing about what you
+  think or how you feel about something is called
+  opinion writing, a way to share your ideas and say
+  what you believe. A fact/opinion sorting exercise
+  (F = true and can be proven; O = what someone
+  believes). The features of opinion writing are named
+  as a matching set: opinion starter (I think…), 
+  supporting reasons, use of examples, sequence words
+  (First…, Second…, Third…, As a result…, In
+  conclusion…), strong adjectives, and the writer's
+  voice using 1st person pronouns.
+- The Glossary's Writing Types table (pp.110–111)
+  defines the narrative kinds as a system: personal
+  narrative (a real event from the writer's own life;
+  first person; reflection), descriptive writing
+  (sensory details; imagery), fictional narrative
+  (made-up; character, plot, climax — the most
+  exciting or important moment — and RESOLUTION: how
+  the main problem is solved — the plot arc gains its
+  sixth part), biography (a true story about someone's
+  life written by another person; timeline; factual
+  details), informational text, object perspective
+  (personification; point of view; imaginative voice),
+  and problem-solution (cause, effect, solution,
+  sequence). The same Glossary defines paragraph,
+  main idea and details (under "Display Board"), and
+  carries a Suffixes category of -er person words
+  (farmer, helper, cleaner, baker, builder) — the
+  suffix line of P5 T2 surfacing in the word list;
+  U4's self-assessment likewise claims "add prefixes
+  and suffixes to words."
+
+STORIES, by summary only:
+- "The Proud Rose" (U3, pp.42–44) — the classic fable,
+  retold: a beautiful, proud rose mocks the rough,
+  thorn-covered cactus beside her; in a drought summer
+  she dries and thirsts, watches a bird drink water
+  stored inside the cactus, apologizes, and is saved
+  by his shared water; she never judges by looks
+  again. (The book's words for the plants are defined
+  first: thorns, petals, peck, unpleasant.)
+- "The Bundle of Sticks" (U5, pp.76–77) — the Aesop
+  fable: a farmer's three sons argue constantly; the
+  old man has each try to break a tied bundle (they
+  can't), then single sticks (easily broken); "Unity
+  gives strength." The unit sorts its parts into
+  Beginning / Middle / End / Characters / Setting and
+  the Quick Review writes another ending for it.
+- "The Water Savers" (U6, pp.86–93) — an ORIGINAL
+  story written for this book, told whole as the
+  unit. Vocabulary first, with printed definitions
+  (drip, overflow, puddle, leak, hallway, hose, tap,
+  pipe, drop; dripping, precious, resources, snap her
+  fingers, curious, leaky, cheerful, fix, spread,
+  mini-challenges), and the characters named up front:
+  Noor, Ahmed, Farida, and Mr. Youssef the school
+  cleaner. Plot summary: three friends at a school
+  near Luxor notice a bathroom tap dripping and a
+  broken pipe overflowing into puddles; they audit
+  the school (notebook, camera, curious eyes), make
+  posters ("Turn off the tap while brushing!" "Every
+  drop counts. Fix leaks fast!"), learn from the
+  cleaner how a small drip wastes liters a day, stand
+  up to a classmate who mocks them ("Because water is
+  life"), and see their message spread — posters in
+  bathrooms, classrooms and near garden taps, daily
+  teacher talks, class mini-challenges — until the
+  head teacher gives them certificates of achievement
+  and the whole school becomes Water Savers. The
+  fourth whole-story unit in a row works the
+  story-elements frame (Review 2: write beginning /
+  middle / end / moral / characters / setting for it
+  in your notebook).
+
+BOOK SLIPS, as printed: U3's Self-Assessment (p.99)
+prints "Describe jobs that help my community" twice in
+a row. Review 2's modal exercise (p.95) prints "mustn���t"
+with corrupted characters in the text layer (the page
+image itself is clean). The extraction of several
+listening pages interleaves a stray "Healthy Habits /
+Egyptian Daily Life" running head from the design
+template — a file artifact of this re-processed copy,
+recorded, not a print error. Print spec (112 pages)
+matches the PDF exactly; no ISBN or deposit number is
+printed (as in P5 T2).
+
+Filed basics: two-letter-sounds (the /ǝr/ sound with its
+how-to-say rule, p.15; /e/ vs /ɪ/ with both articulation
+instructions, p.30; the -ed three sounds with the full
+voicing rule stated, p.78) and word-families (long /u:/
+vs short /ʊ/ restated with how-to-pronounce panels,
+p.64 — the oo pair first filed from P3 T2). The rest of
+this book's basics are grammar restatements and writing
+frames, which live in the map + curriculum notes.
+
+EGYPT SET: 13 of 26 English books read (KG1, KG2, P1
+T1+T2, P2 T1+T2, P3 T1+T2, P4 T1+T2, P5 T1+T2, P6 T1).
+Next: Primary 6 Term 2.
+
+PRIMARY 6 TERM 1 FULLY READ — 2026-10-26
+
+Still owed: Primary 6 Term 2, Preparatory 7–9, Secondary
+10–12 (the remaining 13 of the 26-book Egypt set).

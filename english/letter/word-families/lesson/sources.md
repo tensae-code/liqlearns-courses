@@ -108,3 +108,14 @@ Same country, deeper layer — the country count does not change.
   write. Same family as P3 T2's ea/ee (two spellings, one
   sound). A Tip on the next page defines rhyming words (words
   that sound the same at the end).
+
+## Egypt — English Primary 6 Term 1 (2025/2026) — added 2026-10-26
+
+- **Long /u:/ vs short /ʊ/ — the oo pair restated with
+  how-to-pronounce panels** (U4 Pronunciation, p.64):
+  the two sounds of "oo" first filed from Primary 3
+  Term 2 (p.83) return, each now with its own "How to
+  pronounce" panel: long /u:/ in spoon, moon, school;
+  short /ʊ/ in wood, book, look, good — sorted and
+  circled in listening work. Same pair, deeper layer:
+  the learner is now told how the mouth makes each one.

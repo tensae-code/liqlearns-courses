@@ -253,3 +253,52 @@ don't need every word. A third whole-story unit in a row
 (the original "Offline but Happy") works the six-part
 story-elements frame again, closing with an advice letter
 to the hero.
+
+**Stocked by Egypt Primary 6 Term 1 — Term 3 material:**
+the Primary run closes by gathering its own grammar at
+review level. Present simple returns as habits/routines
+with form work only; present continuous stands alone
+with its full form table (negative am/is/are + not +
+-ing; questions incl. the Wh- form). The modal system is
+completed AND gathered: can/can't gains its able-to
+twin (be + able to + infinitive, present ability said
+two ways), and must / mustn't / should / shouldn't stand
+in one box, each with the infinitive rule — with P5 T2's
+have to / don't have to, obligation and advice are done.
+Past simple gets the COMPLETE statement of the run:
+three uses printed (finished actions; actions one after
+another; past habits), regular spelling -ed / -d /
+-ied, irregulars, didn't + infinitive, Did questions,
+and the to-be split stated as a rule (was/were, never
+"did" with to be). Sounds: the /ǝr/ ending and the
+/e/–/ɪ/ pair get how-to-say panels; the -ed ending's
+three sounds gain their voicing rule; word stress is
+defined in print (louder and stronger; usually first
+syllable in two-syllable words, sometimes second in
+three).
+
+**Stocked by Egypt Primary 6 Term 1 — Term 4 material:**
+the plot arc gains its SIXTH part — the glossary's
+Writing Types table defines RESOLUTION (how the main
+problem is solved) beside climax, and defines the
+narrative kinds as a system: personal narrative,
+descriptive writing (imagery), fictional narrative,
+biography (timeline, factual details), informational
+text, object perspective (personification, point of
+view), problem-solution (cause / effect / solution /
+sequence). OPINION WRITING joins the kinds, defined and
+taken apart: opinion starter, supporting reasons,
+examples, sequence words, strong adjectives, the
+writer's 1st-person voice — with fact vs opinion sorted
+(fact = true and can be proven). Biography gets a
+seven-tip frame (key facts, early life, what they did,
+time order, fun facts, clear simple language, end with
+their impact). Research becomes a taught method: choose
+the topic, ask simple questions, use different sources,
+notes in your own words, organize, add pictures, check
+spelling/grammar/punctuation — with the wrong steps
+named to reject (copying, one source only). The fact
+file returns with six steps. The story-elements set is
+worked a fourth book running, now on an original
+whole-book story ("The Water Savers"), and the moral
+tip is restated in its fullest wording.
