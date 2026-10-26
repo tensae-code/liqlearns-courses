@@ -180,6 +180,22 @@ liqlearns-courses/
   be taken to the page and the book of that country. The filings'
   page tags are the index the AI answers from, and a lesson's
   `sources.md` inherits them.
+- THE PROVENANCE TEST (his design, stated 2026-10-26): a
+  lesson file must stand on its own in front of a stranger.
+  He will one day send a whole lesson file to an AI that has
+  never seen the books (his example: DeepSeek) and ask it,
+  part by part, "where does this come from?" — and it must
+  be able to answer from the file alone: **this country,
+  this book, this grade, this page**, for every part, one
+  after another. So every part of a lesson carries its
+  country + book + grade + page with it (in the lesson's
+  sources, part by part — not one lump sum for the whole
+  lesson). A part that cannot be traced that way is not
+  finished. The citation works as a REFERENCE, the way he
+  will use it himself: "on this page of this country's
+  textbook, it says this" — no page pictures and no copied
+  text are sent out for checking; the reference itself is
+  the proof.
 - RANKED AND UNRANKED COURSES (his design, ruled 2026-10-26): a
   course can be taken two ways. RANKED is the platform's side —
   "amongst each other, among different people": the shared
@@ -223,6 +239,28 @@ liqlearns-courses/
   time); no textbook teaches this stage in words, so its
   lesson plans carry it as add-on slots described in words,
   under the slot rule below.
+- MEDIA FOR EXPLAINING — GIFs FIRST (his design, ruled
+  2026-10-26): wherever a lesson has to EXPLAIN something,
+  the explanation can ride on a picture, a video, or a GIF
+  dropped into the lesson's media slots. **GIFs are the
+  default moving media** — one or two seconds, easy to
+  make, easy to edit, easy to swap out later. Where a GIF
+  is not enough, a short video: found (a video that already
+  explains the thing well), made by him as an animation, or
+  AI-generated. Story-like subjects are taught as stories —
+  history above all is better explained by a video that
+  tells it like a story (his model: the animated map films
+  of armies on the move). Process subjects get motion too:
+  geography explaining how kinds of rocks are formed needs
+  an animation, not a paragraph alone. **Everything is
+  written first:** every lesson plan writes each picture,
+  GIF and video it needs as a described slot in words (the
+  slot rule), so the course is complete on paper and the
+  media can be made, found, or swapped at any time without
+  touching the lesson. This updates the 2026-10-25 posture
+  (video scripts filed, no videos made): full lesson videos
+  are still not the plan — short, swappable GIFs and clips
+  are.
 - TIPS ARE OURS (his ruling, 2026-10-26): a lesson's teaching comes from
   the government textbooks only. Anything extra — a clearer way to say a
   thing, a check or a trick that helps the learner DO the thing, or help
