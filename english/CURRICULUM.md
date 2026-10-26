@@ -470,3 +470,28 @@ opinion/experience paragraph, the email, the blog post, the
 design-process review. Design thinking itself is stocked as
 content: understand the users, brainstorm, prototype, test,
 improve.
+
+**Stocked by Egypt Preparatory 9 Term 2 — the Preparatory
+years are complete:** reported speech is finished —
+statements (Term 1) joined by reported questions (ask /
+wonder / want to know + if/whether or the question word, no
+question mark, tense shifted back) and reported orders
+(told / ordered / asked / advised + person + to + verb, "not"
+before "to" for negatives). Relative clauses stand in full:
+a relative clause gives more information about a noun —
+who, which, that, where, when, whose — named "defining
+relative clauses" by the book. Verbs split by what follows
+them: verb + to-infinitive (want, promise, need, refuse,
+decide, hope) against verb + -ing (enjoy, finish, keep,
+avoid). The past tenses are stated as the storytelling pair:
+past simple for the main events in order, past perfect for
+the step further back that keeps the timeline clear. Used to
+is restated with its negative and question forms. Writing
+kinds completed for the Prep years: the sports report
+(journalistic — headline, introduction, main events,
+conclusion), the short article, the short story defined
+(one character, one problem, read in one sitting), the fact
+file, the travel narrative, and the short text. Real people
+carried in full: Mohamed Rashwan's fair play, Mohamed
+Salah's road, Ibn Battuta's thirty years of travel. The
+term's classic is Jules Verne under the sea.

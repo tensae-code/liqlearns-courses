@@ -6230,3 +6230,447 @@ PREPARATORY 9 TERM 1 FULLY READ — 2026-10-26
 
 Egypt set: 19 of 26. Still owed: Preparatory 9 Term 2,
 Secondary 10–12 (the remaining 7 of the 26-book Egypt set).
+
+---
+
+## Egypt — Preparatory 9 Term 2 (English, Student's Book)
+
+Source: downloaded direct from the Egypt MoE e-learning host,
+2026/Prepratory/Prepratory3/Term2/StudentBook/
+English_Prp3_Tr2.pdf (106,979,685 bytes, the ministry's raw
+file — Creator Adobe InDesign 17.3, Producer Adobe PDF
+Library 16.0.7). The Prp stem hit on the first probe; the
+lowercase and Prep stems and the 2026_2027 twin 404. 112
+pages. This book has NO text layer; all 112 pages were
+rendered and read visually. Printed folio = PDF page
+throughout.
+
+Identity: cover "ENGLISH — Preparatory Schools - Year Three -
+Term 2 — 2025 - 2026 — Student's Book." Contents p.3: U7
+Sports p.11 · U8 Cultures and Traditions p.24 · U9 Courage
+and Survival p.38 · Review 3 p.52 · U10 Animal Adaptations
+p.56 · U11 Stories on the Move p.72 · U12 Leadership and
+Teamwork p.88 · Review 4 p.103 · Audioscripts pp.107–110 ·
+Notes p.111. Unit numbering continues the year (7–12;
+Reviews 3–4), as in both earlier Term 2 books. A PRINT SLIP:
+the ministry message on p.4 is the SECONDARY-framework
+variant — it "presents the Secondary Framework for Egyptian
+Learners" and speaks of equipping "Secondary Stage students"
+— printed inside a Preparatory book; the message template was
+not switched back.
+
+UNIT SHAPE: the Term 2 shape — L1 reading, L2 listening +
+Language in Use, L3 reading, L4 Story Time, L5 "Let's Talk,"
+L6 writing — units end at the Assessment Corner, NO
+Self-Reflection page. Writing tasks stay in the 100–110-word
+band. Start Smart (pp.9–10) reviews Term 1: a screen-time
+dialog, a language-learning reading ("consistent practice —
+even just 15 minutes a day"), and a 100–110-word email about
+a visit to the New Museum.
+
+GRAMMAR SPINE — reported speech is completed, and the year's
+remaining points are gathered:
+- U7: USED TO restated with its forms (Tip p.15): "used to +
+  inf." talks about habits that were true in the past but are
+  no longer true now; negative form "didn't use to"; question
+  form "Did you use to…? — Yes, I did. / No, I didn't."
+- U8: RELATIVE CLAUSES in full (Tip p.29): "A relative clause
+  gives more information about a noun" — who → for people;
+  which → for things/animals; that → for people or things;
+  where → for places; when → for time; whose → for
+  possession. The unit opener names them "defining relative
+  clauses." (The Scope page also listed "whom"; the Tip
+  itself teaches the six above.) This completes the
+  relative-pronoun point first touched in Primary 6.
+- U9: VERBS + TO-INFINITIVE or -ING (Tip p.42): verbs
+  followed by "to + inf." — want, promise, need, refuse,
+  decide (and hope, in the examples); verbs followed by
+  "v + -ing" — enjoy, finish, keep, avoid.
+- U10: REPORTED QUESTIONS (Tip p.61): a reported question is
+  when you tell someone what another person asked, but you
+  are not quoting their exact words; don't use question
+  marks; use ask / wonder / inquire / want to know + if /
+  whether (for yes–no questions) or the question word; change
+  the tense (present → past) if needed.
+- U11: PAST TENSES for narrative (Tip p.77): "Past tenses are
+  the set of tenses used to tell stories" — Past Simple: used
+  for the main events of a story in chronological order;
+  Past Perfect: used to go back even further in time,
+  describing an event that happened before the main events of
+  the story; it provides the order of actions in the past.
+  Key note: the past perfect shows the order of events when
+  you are not telling the story in strict chronological
+  order; it creates a clear timeline for the reader or
+  listener.
+- U12: REPORTED ORDERS (Tip p.92): for commands, use a
+  reporting verb like "told," "ordered," "asked," "advised,"
+  or "commanded"; form: [Subject] + [reporting verb] +
+  [person receiving the order] + to + [verb]; for negative
+  commands, simply add "not" before "to." — Reported speech
+  now stands complete across the year: statements (Term 1),
+  questions (U10), orders (U12).
+
+UNIT BY UNIT:
+- U7 Sports (pp.11–23): L1 "The History of Sport" reading
+  (the Olympic Games began in Greece more than 2,700 years
+  ago; Roman gladiator fights and chariot racing; in the
+  Middle Ages, archery, horse riding, fencing, and knights
+  prepared for battles; modern sports grew in the 19th
+  century; the modern Olympic Games restarted in 1896 in
+  Athens). L2 listening: an interview with MOHAMED RASHWAN
+  (real person; full text in the audioscripts, p.107 — see
+  the people note) + the used to Tip. L3 "Sports Events"
+  reading (the Olympic flag's five rings represent the five
+  continents; Egypt has joined the modern Olympics since 1912
+  and won medals in weightlifting, wrestling, and judo). L4:
+  Twenty Thousand Leagues Ch.1. L5 Let's Talk: Salma and Mona
+  on favorite sports. L6 writing: A SPORTS REPORT (100–110
+  words) — a Writing Tip defines the kind journalistically:
+  a sports report is a journalistic piece that covers
+  sporting events and provides clear and accurate
+  information; it includes a Headline (a title that reflects
+  the event), Introduction (a brief summary of the event,
+  including teams, players, and key details), Main Events
+  (highlight key moments — goals, saves, etc.), Conclusion
+  (summarize the significance or future impact).
+- U8 Cultures and Traditions (pp.24–37): L1 "Families and
+  Communities" reading (traditions defined by their reach:
+  they help people feel connected to their families,
+  communities, and history; Egypt's festival customs and
+  respect for the elderly; Japan's tea ceremony and Sapporo
+  snow festival). L2 listening: "A Cultural Interview"
+  (Culture Talk; a spring festival; elders as a source of
+  wisdom; interviews recorded and shared online so traditions
+  are passed to new generations; script pp.107–108) + the
+  relative clauses Tip. L3 "Shared Values" reading (customs
+  defined: everyday practices that show the culture of a
+  community; Mexico's Day of the Dead; China's Lunar New
+  Year; Egyptian hospitality). L4: Verne Ch.2. L5 Let's Talk:
+  a TV presenter interviews Dr. Salma, a cultural expert
+  (England's afternoon tea; Eid in Saudi Arabia; Hari Raya
+  Aidilfitri in Malaysia). L6 writing: A SHORT ARTICLE
+  (100–110 words) — Helpful Hints define the kind: a short
+  article is a piece of writing that gives information or
+  ideas about a topic in a clear and simple way; structure:
+  Title (choose a catchy title), Introduction (one or two
+  sentences to introduce the main idea), Body (the main topic
+  and giving more examples), Conclusion (a simple sentence to
+  summarize your article).
+- U9 Courage and Survival (pp.38–51): L1 "Treasure Hunt"
+  reading (a treasure hunt defined: a game in which players
+  follow a series of clues to find hidden objects or a final
+  "treasure"; real hunts, explorers, and pirates). L2
+  listening: the "Lost in the Jungle Podcast" — Nader's
+  survival story (script p.108: lost in the jungle; collected
+  rainwater in an empty bottle and used a filter straw; ate
+  sour fruits; built a shelter from leaves and branches;
+  followed the sun to avoid walking in circles; after three
+  days reached a river and then a village; "Survival isn't
+  about being physically strong — it's about thinking
+  clearly, making smart choices, and never giving up") + the
+  verbs Tip. The lesson's own writing (p.43): write your own
+  folk tale (100–110 words) with four required parts — a
+  hero (ordinary or magical); a challenge or monster; how
+  the hero solved the problem; the lesson people learned.
+  L3 "Legends and Heroes": The Legend of Abu Zayd al-Hilali
+  (story note). L4: Verne Ch.3. L5 Let's Talk: a presentation,
+  "If I were an Explorer," with a structure Tip (begin with
+  "If I were an explorer, I would…"; say where you would go;
+  explain what you would discover; describe dangers or
+  problems; end with a lesson or message) plus a three-minute
+  "Explorer's Podcast" role-play. L6 writing: "Writing a
+  Short Story" — Writing Tips define A SHORT STORY: a small
+  piece of fiction that tells about one main character and
+  one main problem; it is meant to be read in one sitting; a
+  short story includes Beginning (introduce the character and
+  setting), Middle (show the problem or conflict), End (solve
+  the problem or give a lesson). The model text is about IBN
+  BATTUTA (people note).
+- Review 3 (pp.52–55): U7–U9 — a cultures listening, a
+  MOHAMED SALAH reading (people note), rewrites across used
+  to / relative clauses / verb forms, "The Story" questions
+  on the Verne, and a 100–110-word piece, "How you celebrate
+  your birthday!"
+- U10 Animal Adaptations (pp.56–71): L1 "Desert Animals"
+  reading — "Masters of Adaptation" (adaptations matched in
+  the vocabulary as "changes that help living things survive
+  in their environment," the same definition as Prep 8 T2;
+  the fennec fox's large ears lose heat and hear prey; desert
+  tortoises store water in their bodies for months; camels —
+  "Their humps contain fat which provides energy during long
+  journeys," the book's own plain statement). L2 listening: a
+  podcast interview with Dr. Maha Ezzat, a researcher who
+  studies animal behavior in extreme environments (script
+  pp.108–109: tracking devices and hidden cameras; Arctic
+  animals adapting to climate change; animals can change
+  their behavior in just one generation) + the reported
+  questions Tip. L3 "Arctic Animals" reading (polar bears —
+  thick white fur for warmth and camouflage, black skin under
+  it absorbing heat, large paws like snowshoes; Arctic foxes
+  change fur color with the seasons; male emperor penguins
+  protecting eggs and taking turns moving to the warm
+  center). L4: Verne Ch.4. L5 Let's Talk: Hadeer and Mona at a
+  polar bear exhibit, with a Useful Expressions box (showing
+  surprise; explaining adaptations; asking for explanations).
+  L6 writing: AN ANIMAL FACT FILE — a Writing Tip defines the
+  kind: a fact file is a short report that gives important
+  information about a topic — like an animal, a place, a
+  person, or a machine — in a clear and organized way; the
+  model's sections are Physical Description / Habitat /
+  Adaptations / Diet / Conservation Status; writing a fact
+  file: start with a title; use sections; write short notes;
+  include interesting facts; keep the language simple; add a
+  picture.
+- U11 Stories on the Move (pp.72–87): L1 "Travel Tales"
+  reading (a family's camping trip to Wadi El-Rayan in
+  Fayoum; a sudden storm drives them to shelter under large
+  rocks; another family shares food and blankets; the
+  unexpected makes the trip unforgettable). L2 listening: two
+  travel stories (Sophie, a tourist from France, in Dahab —
+  snorkeling at the Blue Hole, a desert safari, Bedouin tea;
+  John, an American traveler, in Luxor and Aswan; scripts
+  p.109) + the past tenses Tip. L3 "A Solo Ride Across
+  Egypt" (a first-person motorcycle journey from Cairo to
+  Luxor; the kindness of people in small Nile Valley towns;
+  a sunset near Luxor). L4: Verne Ch.5. L5 Let's Talk: Emma
+  interviews Jake about his trip to Egypt (the Pyramids, the
+  Great Sphinx, a Nile boat trip, the Egyptian Museum), with
+  a Useful Expressions Tip (showing interest; expressing
+  emotions; asking follow-up questions). L6 writing: A TRAVEL
+  NARRATIVE (100–110 words) — a Writing Tip defines the kind:
+  a travel narrative is a short story about a trip or
+  journey; it includes Introduction (say when and where you
+  traveled), Setting the scene (describe the place — what you
+  saw, heard, felt), Main Events (write the activities and
+  use past tense verbs), Conclusion (summarize your
+  experience; say why the trip was special).
+- U12 Leadership and Teamwork (pp.88–102): L1 "Egyptian
+  Leaders in History" reading — "Great Leaders of Ancient
+  Egypt" (Queen Hatshepsut ruled Egypt for twenty-two years
+  and brought peace and prosperity, emphasizing cooperation
+  rather than fight; Thutmose III, a brilliant military
+  leader; Ramesses II ruled sixty-seven years and built the
+  Abu Simbel temples). L2 listening: two teamwork stories
+  (Dina's school science team from Cairo, whose solar-powered
+  water pump for villages in Upper Egypt won the national
+  competition; Hassan's marketing team in Alexandria, whose
+  campaign finished two weeks early and raised sales by 35%;
+  scripts pp.109–110) + the reported orders Tip. L3
+  "Leadership Lessons" reading — "What Makes an Effective
+  Leader?" (great leaders communicate clearly and listen
+  carefully; emotional intelligence; adaptability; a clear
+  vision; modesty — they admit mistakes, ask for feedback,
+  and work to improve). L4: Verne Ch.6 — the story ends. L5
+  Let's Talk: four students divide team roles (researcher,
+  coordinator, creative, supporter), with a Useful
+  Expressions box (talking about roles; describing team
+  dynamics; making suggestions; expressing agreement). L6
+  writing: A SHORT TEXT (100–110 words) — "My Leadership
+  Goal" — with a Writing Tip for the kind (focus on one idea;
+  keep sentences simple; use clear vocabulary; start with an
+  introduction; follow with the main point; end with a
+  conclusion).
+- Review 4 (pp.103–106): U10–U12 — a bridge-building
+  listening (a class project; the paper-and-tape bridge held
+  ten books; script p.110), an Egypt-landmarks listening,
+  an animal-adaptations dialog, a heroism reading (young
+  Omar crawls through a window to rescue a child from a
+  burning house, then says he didn't feel like a hero — he
+  just wanted to help; "true bravery comes from caring about
+  others more than yourself"), "The Story" questions on the
+  Verne, and a 100–110-word travel piece, "Your school trip
+  to Cairo."
+
+STORY (summary only): ONE story across the whole term —
+"Twenty Thousand Leagues under the Sea" by Jules Verne,
+adapted, SIX chapters, one in every unit's Story Time lesson,
+with an author introduction in Ch.1 (Jules Verne, 1828–1905,
+a French novelist often called the "Father of Science
+Fiction"; Journey to the Center of the Earth, 1864; Around
+the World in Eighty Days, 1873; Twenty Thousand Leagues
+Under the Sea, 1870; his writings inspired both readers and
+scientists). Professor Pierre Aronnax, a French marine
+scientist; his loyal servant Conseil; and Ned Land, a
+Canadian harpooner. Ch.1 "The Mystery of the Sea Monster"
+(U7, p.18): in the mid-nineteenth century, sailors report a
+huge "sea monster" moving faster than whales and smashing
+ships; public debate grows so intense that a voyage is
+launched to capture or kill the beast; after months of
+searching, the creature appears — a long glowing shape; the
+ship hits its steel-like body and Aronnax and his companions
+are thrown into the sea; swimming to survive, they discover
+the "monster" is not an animal at all but a man-made
+submarine of special design. Ch.2 "Captives of Captain Nemo"
+(U8, p.32): brought inside through an iron door, they meet
+the commander — Captain Nemo, a mysterious man of strong
+will and deep knowledge; his ship, the Nautilus, was built
+entirely for life beneath the sea, powered by electricity,
+able to travel very long distances without surfacing; Nemo
+welcomes them politely but makes it clear: once aboard, they
+could never return to land — they were to remain with him as
+long as they lived; Aronnax, filled with scientific
+curiosity, accepts; Conseil stays loyal to his master; Ned
+Land, who valued freedom above all, is angry and begins
+making a plan to escape; life on the Nautilus is astonishing
+— the ship looks like a floating palace, with a library, a
+museum, and big windows onto the deep ocean, and treasures
+gathered from the sea: pearls, gold, and ancient artifacts;
+Nemo tells them he kept himself away from land — the sea, he
+insisted, was his only homeland; they begin to feel half
+prisoners and half guests, kept on a journey of wonders and
+dangers. Ch.3 "Wonders of the Deep" (U9, p.46): through the
+big windows they see coral reefs glowing with color, fish of
+every shape, and shipwrecks resting silently on the ocean
+floor; Nemo invites his guests on diving voyages in special
+suits that let them walk on the sea bed; one journey takes
+them through an underwater forest of strange plants, where
+they hunt and collect samples; another leads them to the
+remains of a sunken city, where Nemo hints at forgotten
+civilizations swallowed by the waves; Aronnax records
+everything carefully; Conseil supports him, naming each
+creature accurately; but Ned Land grows impatient — although
+excited at first, he misses freedom, and to him the beauty
+of the sea could not replace the freedom of land; the
+companions agree on one thing: Captain Nemo is both
+brilliant and mysterious — his mastery of science is clear,
+yet his silence about his past and motives fills them with
+curiosity and worry. Ch.4 "Battles and Dangers" (U10, p.65):
+once, the submarine is attacked by a giant squid; Nemo and
+his crew fight bravely with axes and harpoons, and Ned Land,
+fearless as always, kills the monster; another time the
+submarine becomes trapped beneath thick ice at the South
+Pole, oxygen running low, until the Nautilus forces its way
+free and the men breathe fresh air again; when warships
+appear on the surface, Nemo attacks them without mercy,
+sending them to the depths; through such dangers the
+passengers learn more about Nemo's character — calm courage
+and remarkable leadership, yet also a cold indifference to
+human life; Aronnax begins to admire Nemo and at the same
+time fear him; for Aronnax the ocean is a school of wonder,
+for Nemo a battlefield, for Ned Land a prison. Ch.5 "Secrets
+of Captain Nemo" (U11, p.81): as the Nautilus travels across
+the world's oceans, Aronnax grows more determined to learn
+the truth about Nemo; the captain is clearly a man of
+wealth, education, and sorrow, but he keeps his past hidden;
+Nemo's actions sometimes confirm it — he attacks warships
+without hesitation, claiming to fight against cruelty — yet
+he never tells the details of his personal story; to
+Aronnax, Nemo is both brave and mysterious; meanwhile Ned
+Land plans escape, arguing that no man had the right to keep
+them prisoners, no matter how wonderful the submarine;
+Aronnax hesitates, torn between scientific discovery and
+freedom; Conseil remains calm and loyal to his master; one
+evening, as Nemo guides the Nautilus through a graveyard of
+sunken ships, Aronnax realizes the captain sees himself as
+part of the dead world beneath the waves; the mystery of
+Nemo deepens, and so does the companions' determination to
+find a way home. Ch.6 "Escape to Freedom" (U12, p.96): at
+last, after many months, the Nautilus nears the coasts of
+Europe; Ned Land sees a chance to escape; during a strong
+storm, the three companions secretly lower a small boat into
+the sea; the night is long and dangerous — waves crash over
+them and the wind threatens to damage their weak craft; but
+at dawn, exhausted and half-conscious, they reach the safety
+of a shore; for the first time in many months they feel
+solid ground under their feet; Aronnax later writes down
+their incredible adventures — the wonders of the sea, the
+dangers they faced, and the strange brilliance of Captain
+Nemo; he never discovers the full truth about Nemo's past,
+nor what became of the Nautilus — did it still explore the
+depths, hidden from mankind, or had it crashed in the storm?
+The book's own closing: the story ends not with final answers
+but with a lesson — human curiosity and knowledge are
+powerful and can achieve wonders, yet ambition mixed with
+sorrow may lead to isolation; the ocean remains vast and
+mysterious, holding secrets beyond our reach. Also: "The
+Legend of Abu Zayd al-Hilali" (U9 L3) — Abu Zayd is one of
+the most famous Arab folk heroes, his story told in poems,
+songs, and performances for centuries; born into the Hilali
+tribe, he was known for his strength, wisdom, and courage;
+when his tribe faced enemies, he led them with bravery,
+fought to defend his people, and used clever strategies to
+defeat stronger armies; his adventures included long
+journeys across deserts, battles against rival tribes, and
+wise leadership during times of hardship; what makes his
+legend special is not only his strength, but also his
+ability to unite people — he encouraged loyalty, protected
+the weak, and inspired others to act bravely; even today,
+storytellers known as "al-Hakawati" continue telling his
+adventures in cafés and cultural festivals; his folk tale
+teaches that a hero is not only a fighter but also a leader
+who gives hope.
+
+PEOPLE NOTES (real people given full treatment this term):
+MOHAMED RASHWAN (U7 listening, script p.107): one of Egypt's
+most admired sports champions; he became famous during the
+1984 Olympic Games in Los Angeles, where he reached the judo
+final against a strong Japanese opponent; his rival used to
+train hard, but he was injured at that time; many people said
+Rashwan had the chance to attack his rival's weak point to
+win the gold medal; Rashwan used to believe that fair play
+was more important than victory; he chose to compete with
+honor and refused to take advantage of his rival's injury;
+although he lost the final and won only the silver medal, he
+earned something far greater — respect and admiration; later,
+the Japanese people gave him a special award for his great
+sportsmanship; his story teaches that sport isn't just about
+medals — honesty and respect can make someone a true champion,
+even without gold (the lesson page's questions confirm: he
+avoided attacking the opponent's injury; the award was for
+sportsmanship; his photograph is printed with the lesson).
+MOHAMED SALAH (Review 3 reading, p.53): born in 1992 in a
+small village in Egypt; from a young age he showed great
+interest in football and spent hours practicing with a ball
+in the streets of his village; by the time he joined El
+Mokawloon he had already trained for many years with great
+dedication and patience; his hard work paid off when he
+signed with FC Basel in Switzerland — the start of his
+international journey; he later played for Chelsea, Roma,
+and Liverpool, where he achieved incredible goals, won the
+Champions League, and was named one of the best footballers
+in the world; beyond football, Salah became a role model for
+millions — Egyptians call him "the humble star," because he
+never forgot where he came from; his story teaches that
+success comes from hard work, faith, and kindness. IBN
+BATTUTA (U9 L6 model text): one of the greatest real
+explorers in history; born in Morocco; at the age of 21, in
+the 14th century, he decided to leave his home and travel;
+his first goal was to visit Mecca, but his journey continued
+for almost 30 years; he traveled across Africa, Asia, and
+even parts of Europe, meeting kings, learning about
+cultures, and recording what he saw; sometimes the trips
+were dangerous — crossing deserts, sailing through storms,
+and avoiding attacks — but he loved discovering new places;
+in his book, Rihla (The Journey), he described cities,
+traditions, and people from more than 40 countries;
+historians today still use his writing to understand the
+past; he became famous because he showed that knowledge and
+curiosity can be as powerful as bravery.
+
+BACK PAGE (p.112): GPS Publishing and Printing Company, as
+through the Prep run. Reviewed by the same seven: Prof.
+Zeinab El-Naggar, Prof. Attia El-Sayed, Dr. Mai Kamal, Mr.
+Reda Shalby (spelled "Shalby" here), Mr. Mohamed Gomaa, Mr.
+Mostafa Zaghlol, Mr. Ayman Elsayed. CACD team CHANGES again:
+Ms. Eman Mahmoud Youssef, Dr. Amira Fawzy Ahmed, Mr. Maher
+Abd El Raouf (back in, replacing Ms. Rabab Abdelaziz Zidan),
+Dr. Shaimaa Salah El Din Afify. General supervision Dr. Akram
+Hassan Mohammed. A Misr Printing Company mark is present
+again, beside GPS + British Council + CACD. Print spec
+(Arabic table): 112 pages — MATCHES the PDF — 27 × 19 cm,
+interior 70 g white paper, cover 180 g couché, 4 colours;
+a book number IS printed (Arabic-Indic numerals, not
+transcribed). NO ISBN, NO deposit number in Latin form.
+Audioscripts pp.107–110; Notes p.111 is a single blank ruled
+page.
+
+Filing note: map + curriculum note only — reported speech is
+now complete (statements, questions, orders) and the relative
+clauses stand in full; those join their lessons when built.
+No built lesson's sources change.
+
+PREPARATORY 9 TERM 2 FULLY READ — 2026-10-26 —
+PREPARATORY 7–9 COMPLETE
+
+Egypt set: 20 of 26. Still owed: Secondary 10–12 (the
+remaining 6 of the 26-book Egypt set).
