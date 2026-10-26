@@ -154,3 +154,13 @@ past), themed outcome-led units at secondary (Class 8:
 culture, food, environment, news, fables; Classes 9–10
 one shared volume of 16 units). **Bangladesh: 9 of 9
 read.**
+
+**Stocked by Ghana:** the NaCCA standards themselves —
+stroke patterns and grip noted (not pictured) at the
+bedrock; oral sound play before letters; alphabet in
+order but sound order left to the teacher (no fixed
+sequence); greetings by time of day incl. Good evening;
+a named Grammar Usage strand from Basic 4 (word
+classes one by one) and Literature as its own strand
+at JHS. **Ghana: curricula 3 of 3 read; Distance
+Learning set record-only.**
