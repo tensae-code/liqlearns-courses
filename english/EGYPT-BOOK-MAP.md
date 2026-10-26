@@ -5866,3 +5866,367 @@ COMPLETE
 
 Egypt set: 18 of 26. Still owed: Preparatory 9, Secondary
 10–12 (the remaining 8 of the 26-book Egypt set).
+
+---
+
+## Egypt — Preparatory 9 Term 1 (English, Student's Book)
+
+Source: downloaded direct from the Egypt MoE e-learning host,
+2026/Prepratory/Prepratory3/Term1/StudentBook/
+English_Prp3_Tr1.pdf (15,129,406 bytes; the ministry host
+carries this one under the Prp stem; the Prep stem and the
+2026_2027 twins 404). The copy is iLovePDF-processed (Creator
+Adobe InDesign 17.3, Producer iLovePDF), taken per the
+edition rule as the only copy. 112 pages. The book HAS a
+real text layer (147,807 non-whitespace chars extracted);
+all 112 pages were also rendered and read visually. Printed
+folio = PDF page throughout.
+
+Identity: cover "ENGLISH — Preparatory Schools - Year Three -
+Term 1 — 2025 - 2026 — Student's Book." Ministry message p.4 =
+the same Preparatory-framework variant. Contents p.3: U1
+Personal Identity p.13 · U2 Communication with Family and
+Friends p.27 · U3 Artificial Intelligence p.41 · Review 1 p.55
+· U4 Screen Time p.59 · U5 Design Thinking p.72 · U6 Why do We
+Like Stories? p.85 · Review 2 p.100 · Audioscripts pp.103–107
+· Notes pp.108–111.
+
+UNIT SHAPE: the TERM 1 shape returns in full — L1 reading, L2
+listening + Language in Use, L3 reading, L4 Story Time, L5
+"Let's Talk" (dialog + Conversation Tip + role-play), L6
+writing ("Before You Write" page) — then Assessment Corner
+AND "My Self-Reflection" (the Term 2 books had dropped the
+Self-Reflection page). WRITING LENGTH STEPS UP: tasks are
+about 110 words, and Review 2 states the band outright —
+"Write from ONE HUNDRED (100) to ONE HUNDRED and TEN (110)
+words." Think–Pair–Share remains the speaking frame, and the
+Let's Talk lessons add a named "Real Talk Tip" (friendly
+phrases, fluency vs accuracy, repeating key words to show
+you are listening). Start Smart (pp.11–12) reviews the Prep 8
+year: a weekend dialog, a Sahara Desert reading, and a
+90-word paragraph, "Your school."
+
+GRAMMAR SPINE — the passive and the conditionals are
+completed, and reported speech opens:
+- U1: the PRESENT PERFECT, ACTIVE AND PASSIVE together (Tips
+  p.17). Active: have / has + the past participle — the three
+  uses restated (actions or experiences that happened at an
+  unspecified time in the past; actions that started in the
+  past and continue till now; recently completed actions).
+  Passive (NEW): have / has + been + the past participle —
+  "The homework has been done"; "The Pyramids have been
+  visited." With it, a SINCE / FOR Tip: since + point of time
+  ("I've spoken English since 1992"); for + period of time
+  ("I've spoken English for 20 years").
+- U2: the THIRD CONDITIONAL (Tip p.31): used to talk about
+  unreal situations in the past. Form: If + past perfect
+  (had + past participle), would have + past participle. It
+  shows an imaginary situation and a different result that
+  could have happened — but didn't; used to express regret,
+  missed chances, and excuses. The conditionals now stand as
+  a stated set of three — first (Prep 7), second (Prep 8),
+  third (here); a "zero conditional" is never named anywhere
+  in the run.
+- U3: the FUTURE SIMPLE PASSIVE (Tip p.45): used to describe
+  actions that will be done in the future — will be + past
+  participle, shown against its active pair ("We will finish
+  this project next Friday" → "This project will be finished
+  next Friday"). The passive line now runs: present simple
+  passive + modal passive (Prep 8 T1) → present perfect
+  passive (U1 here) → future simple passive (here).
+- U4: modals gathered by USE (Tip (1) p.63): must for
+  obligation; can / can't for permission; mustn't for
+  prohibition; should / shouldn't for advice. And a
+  Connectors Tip (2): While / Although / Even though for
+  contrast, and "On one hand / On the other hand" for BALANCE
+  (a new connector job).
+- U5: SEQUENCE ADVERBS as a set (Tip (1) p.75): First /
+  Firstly → to begin with; Next, Then, After that → following
+  this; Finally / Lastly, In conclusion → to end. And
+  Imperatives restated as "What are imperatives?" (Tip (2)
+  p.76): positive imperatives tell someone to do something;
+  negative imperatives tell someone not to do something;
+  "Never" instead of "Don't" is a powerful form of
+  prohibition.
+- U6: REPORTED SPEECH — reported statements (Tip p.89): when
+  we report what someone said without quoting their exact
+  words, we use reported speech; pronouns change depending on
+  who is speaking and to whom; we change present sentences
+  into past ("I play tennis" → He said that he played
+  tennis); time expressions change — today → that day,
+  yesterday → the day before / the previous day, tomorrow →
+  the following day / the day after, now → then, here →
+  there. Only statements are treated; reported questions and
+  orders do not appear in this book.
+
+UNIT BY UNIT:
+- U1 Personal Identity (pp.13–26): L1 "Beyond My Looks,"
+  reading "Who I Am Beyond My Looks" (Ahmed, 15, from Giza:
+  identity is not about what others see; values, beliefs,
+  self-discovery, strength, self-respect). L2 "Self-Discovery"
+  listening: an interview with Leila, a 15-year-old student
+  from Alexandria (script p.103), plus a second listening
+  text about DR. MAGDI YACOUB (script pp.103–104 — real
+  person; see the people note). + the present perfect Tips.
+  L3 "The Mirror Moment" (Nour, who hides in the background
+  and draws real faces, presents her Identity Map board to
+  the class; her classmate Leila gives her a thumbs-up; Ms.
+  Hanan tells her being different is her strength). L4: The
+  School Garden Project Ch.1. L5 Let's Talk: Hala and Omar on
+  respecting personal identity (Conversation Tip: positive
+  body language — eye contact and nodding; Real Talk Tip:
+  friendly phrases). L6 writing: a DESCRIPTIVE PARAGRAPH
+  (110 words), the model annotated by its parts — Topic
+  Sentence / Explanation / Evidence–Example / Ending
+  Sentence — with a Tip defining the kind by those parts.
+- U2 Communication with Family and Friends (pp.27–40): L1
+  "Stay Connected" reading (communication defined by its
+  reach: words, tone of voice, facial expressions, body
+  language; misunderstanding; resolving conflict through
+  calm, honest discussion). L2 listening: Mariam on
+  communication challenges and solutions (script p.104) + the
+  third conditional Tip. L3 "The Silent Dinner" (Omar's
+  family has stopped talking at dinner; one honest sentence
+  from Omar breaks the silence — summary in the story note).
+  L4: The School Garden Project Ch.2. L5 Let's Talk: Mona and
+  Naglaa repair a misunderstanding (the third conditional
+  used live in the dialog) + a Real Talk Tip matching chatty
+  phrases to their meanings ("That's cool!" = that's nice;
+  "For sure" = no doubt). L6 writing: an OPINION paragraph
+  (110 words) built as a "Learning-from-Experience
+  Paragraph," with Helpful Hints (introduction — the opening
+  sentence giving your opinion; briefly explain what
+  happened; personal feelings and thoughts; the lesson
+  learned; a closing sentence showing why the experience is
+  important).
+- U3 Artificial Intelligence (pp.41–54): L1 reading defines
+  the AI / robot difference in the text: a robot is a machine
+  that can move and do tasks; AI is the "brain" that can go
+  inside a robot, letting it make decisions, learn from
+  actions, and change its behavior — and not all AI is in
+  robots, and not all robots are smart. L2 "AI Technology"
+  listening (Adham and Lina on AI making art and music;
+  script pp.104–105) + the future simple passive Tip. L3 "A
+  Robot Teacher," fiction (summary in the story note). L4:
+  The School Garden Project Ch.3. L5 Let's Talk: Eman and Ali
+  on AI's future (Conversation Tip: ask open-ended questions
+  to keep a conversation going). L6 writing: an EMAIL (about
+  110 words) about the benefits of AI in the future, the
+  model set out as an email (To / From / Subject) with
+  Helpful Hints (start with "Hi [friend's name]"; say why you
+  are writing; short and simple sentences; finish with a
+  closing sentence or phrase like "Write back soon!" or
+  "Talk to you later!").
+- Review 1 (pp.55–58): U1–U3 — a dialog, a listening text
+  "Egypt – Where the Past Meets the Future" (the New
+  Administrative Capital's smart technology; solar power;
+  script p.105), an education-and-AI reading, and "The Story"
+  questions on The School Garden Project.
+- U4 Screen Time (pp.59–71): L1 reading defines SCREEN TIME
+  in the text (the total time a person spends looking at
+  screens) and gives the experts' guidance (young people
+  should not spend more than two hours a day on entertainment
+  screen time). L2 listening: "Smart Habits for Egypt's Smart
+  Future" (the New Administrative Capital, the Monorail, the
+  Green River; script pp.105–106) + the two Tips (modals by
+  use; connectors for contrast and balance). L3 "Balancing
+  Screen Time," a first-person diary-style reading (a writer
+  shocked by a six-hour daily phone report makes a plan). L4:
+  The School Garden Project Ch.4. L5 Let's Talk: a mother and
+  son negotiate screen-time balance. L6 writing: a BLOG POST
+  (about 110 words), "How can you improve your screen time
+  habits?", with Hints (start with a title that gets people
+  interested; give details about the topic; use images
+  related to the topic; end with a call to action).
+- U5 Design Thinking (pp.72–84): L1 "Think Like a Designer"
+  reading: DESIGN THINKING defined in the text (caring about
+  people and imagining better solutions; the designer's three
+  questions — "Who will use it?" "What do they need?" "How
+  can I make it better?"), and a PROTOTYPE defined (simple
+  models designers test). L2 listening: Sara's blog about a
+  DESIGN SPRINT (script p.106 — a design sprint is when a
+  team solves a big problem in just five days; her team:
+  define the problem, interview 20 students, brainstorm over
+  50 ideas, build prototypes, test with real students) + the
+  sequence adverbs and imperatives Tips. L3 "See through
+  Their Eyes" (Omar's class designs for new students; he
+  spends a day with Karim, a new student, before
+  brainstorming — the lesson: good design starts with real
+  people and real feelings). L4: The School Garden Project
+  Ch.5. L5 Let's Talk: Amir and Magdy walk the design-thinking
+  steps in dialog — understand the users and what they need;
+  think of many ideas; make a prototype; test it and ask
+  people what they think; fix it and make it better. L6
+  writing: a REVIEW (about 110 words) of a group's design
+  project, with a "Writing about a problem-solving process"
+  Tip (start with the problem; state your idea or solution;
+  explain how you will test the idea; tell the feedback;
+  describe how you will improve it).
+- U6 Why do We Like Stories? (pp.85–99): L1 "The Power of
+  Stories" reading (stories shape our thinking; we enter the
+  minds of different characters; stories introduce different
+  points of view, cultures, and lifestyles, and develop
+  empathy). L2 listening: Ali tells Omar how a story he read
+  — about a man who stayed respectful even when people were
+  unfair — taught him to stay calm and respectful in a class
+  debate (script pp.106–107) + the reported speech Tip. L3
+  "Elements of a Story": "The Clever Fox" fable retold
+  (summary in the story note), with Tip (1) TYPES OF STORIES
+  — a seven-kind list, each defined: Fiction (stories made up
+  with imaginary characters); Non-fiction (true stories based
+  on real events and characters); Folk stories (traditional
+  stories with lessons); Adventure stories (exciting journeys
+  by brave characters); Comic stories (funny stories full of
+  humor); Historical stories (based on real events from the
+  past); Fables (short tales that teach a moral, often with
+  talking animals) — and Tip (2) STORY ELEMENTS: Setting
+  (where and when the story happens); Characters (people or
+  animals in a story); Conflict (the problem in the story);
+  Solution (how the problem ends); plus a story-map graphic
+  organiser (Beginning / Middle / End — Who? Where? What
+  happened? How did it end?). L4: The School Garden Project
+  Ch.6 — the story ends. L5 Let's Talk: Sarah and Amal discuss
+  why stories are powerful, entirely in reported speech. L6
+  writing: "My Own Story" (about 110 words), the cloze model
+  being the fable "The Dog and his Shadow," with a
+  Writing-a-Story Tip (choose an interesting title; plan your
+  story — Beginning: introduce the setting and characters;
+  Middle: show the problem or exciting events; Ending: solve
+  the problem and give a clear ending; use clear and simple
+  language; use sequence words — first, then, after that,
+  finally to show order; add a lesson or message; check your
+  writing).
+- Review 2 (pp.100–102): U4–U6 — a screen-time listening
+  (Sarah spends six hours daily on her phone; script p.107),
+  a technology-and-teenagers reading, "The Story" questions,
+  and the 100–110-word story task "The Day I Learned to
+  Balance Technology and Life."
+
+STORY (summary only): ONE story across the whole term — "The
+School Garden Project," an original story written for this
+book, six chapters, one in every unit's Story Time lesson.
+Zeina, a new student at a preparatory school, and her friend
+Nancy. Ch.1 "A New Challenge" (U1, p.20): Zeina finds the
+school playground large but empty and gray — concrete,
+benches, trash on the ground; she asks Nancy, "What if we
+planted a garden?"; she admits honestly that she doesn't know
+how to grow plants but wants to learn together; the garden
+could be more than a place — a way to bring the school
+together. Ch.2 "Taking Initiative and Building a Team" (U2,
+pp.34–35): Zeina researches school gardens and writes a
+simple proposal, explaining both the good and the difficult
+sides; at the student council meeting her hands shake, and
+some students laugh — "You're just a new student; why should
+we listen to you?" — but she answers, "This is my school too";
+Ms. Hoda, the biology teacher, backs her determination, and
+a team forms around the students' talents: Nancy good with
+tools, Noha loved painting, Amal strong, Sarah organized.
+Ch.3 "Facing Problems with Determination" (U3, p.48): the
+team needs money for seeds, tools, and soil; Zeina shows
+initiative, asking the local community for donations and
+always being honest about how the money would be used; then
+it rains for two weeks and some first plants die; Amal wants
+to quit; Zeina holds the team together kindly; they research
+which plants grow best in their climate and build a better
+watering system, and the garden starts to look better again.
+Ch.4 "Growing Success" (U4, p.65): after three months the
+garden looks amazing; students eat lunch among the flowers
+and the cafeteria uses some of the garden vegetables; Zeina
+learns that being a leader doesn't mean always having the
+answers — it means being responsible for both the successes
+and the mistakes, and when some plants didn't grow well she
+didn't blame anyone; the team uses eco-friendly methods only
+(natural fertilizers, reduced trash); students from other
+classes visit and ask how they can help. Ch.5 "The Impact of
+Growth" (U5, p.78): at the end of the school year the garden
+is full of green plants, colors, and life — but the biggest
+change was in the students; they throw less trash and respect
+the environment; Nancy discovers a love for growing food and
+wants to study agriculture; Noha's signs and drawings make
+the garden beautiful; Amal, who had almost quit, becomes one
+of the most dedicated gardeners; Zeina realizes that being
+honest with others — and with yourself — helps people trust
+you, and that talking about her limits made her a better
+leader. Ch.6 "Looking Forward" (U6, p.92): the next year,
+Zeina is chosen president of the student council; she has
+learned that being a real leader doesn't mean doing
+everything alone — it means helping others and being honest
+when things are hard; her ambition is now bigger than just a
+garden: she wants to help students believe they could change
+their school, and maybe the world; the garden keeps growing,
+with more plants, painted benches, and quiet spaces for
+reading, and becomes a symbol of what students could do
+together; growth doesn't happen only in plants — it also
+happens in people, especially when they show courage to try
+something new and strength when things go wrong; small ideas
+can lead to big changes — when people believe in them.
+Also: "The Mirror Moment" (U1 L3) — Nour, a quiet Grade 9
+student with curls and glasses who feels she doesn't fit in,
+loves drawing faces — not perfect ones, but real ones; Ms.
+Hanan sets a project, "Create your Identity Map: show us who
+you are — your dreams, values, and challenges"; Nour panics,
+then draws herself truly and presents a board of hand-drawn
+portraits with her own face at the center — "Strong.
+Creative. Curious."; the class claps, Leila gives a
+thumbs-up, and Ms. Hanan tells her she showed the class that
+being different is her strength. "The Silent Dinner" (U2 L3)
+— Omar's family has grown distant: school stress, phone
+distractions, arguments over small things, silence at
+dinner; one night Omar speaks — he feels they've all been
+strangers lately; his mother agrees they've been too busy or
+too tired to talk; his father says, "Let's fix that"; the
+conversation is short, but from that night their dinners
+slowly fill with laughter again — reconnecting took a small,
+meaningful gesture, not shouting or long messages. "A Robot
+Teacher" (U3 L3) — one rainy morning Sara finds a shiny robot
+teacher in her classroom; for a week it customizes lessons,
+gives Nader fun math games, and checks all homework
+instantly; but Sara misses her real teacher — the robot is
+helpful, yet it doesn't smile or notice when students feel
+tired or sad; when the human teacher returns, everyone has
+learned that technology can help, but it cannot replace the
+care and connection of a real teacher. "The Clever Fox" (U6
+L3) — the fox flatters the crow's looks and voice until she
+opens her beak to sing, and the cheese falls; the fox
+catches it and runs away. "The Dog and his Shadow" (U6 L6, a
+cloze model) — a hungry dog carrying a bone sees his
+reflection in a stream, takes it for another dog with a
+bigger bone, barks greedily to frighten it, and loses his
+own bone in the water.
+
+PEOPLE NOTE: the U1 L2 listening text about Dr. Magdi Yacoub
+(scripts pp.103–104) is biographical: born in Egypt in 1935;
+as a young man he enjoyed reading about science and
+medicine; when his father's sister died from heart disease,
+he felt very sad and began to wonder how doctors could save
+people with heart problems; the question stayed in his mind
+for years; he studied medicine and learned everything about
+the heart; by following his curiosity he became a heart
+surgeon, and discovered his true purpose: to save lives.
+Ahmed Zewail (Prep 7–8) and Magdi Yacoub are the run's two
+real Egyptian scientists given full life-story treatment.
+
+BACK PAGE (p.112): GPS Publishing and Printing Company, as
+through the Prep run. Reviewed by the same seven: Prof.
+Zeinab El-Naggar, Prof. Attia El-Sayed (spelled "El-Sayed"
+here), Dr. Mai Kamal, Mr. Reda Shalby, Mr. Mohamed Gomaa, Mr.
+Mostafa Zaghlol (spelled "Zaghlol" here), Mr. Ayman Elsayed.
+CACD team CHANGES again: Ms. Eman Mahmoud Youssef, Dr. Amira
+Fawzy Ahmed, Ms. Rabab Abdelaziz Zidan (back in), Dr. Shaimaa
+Salah El Din Afify — Mr. Maher Abd El Raouf (Prep 8 T2) is
+out. General supervision Dr. Akram Hassan Mohammed. Marks:
+GPS + British Council + CACD only (no Misr Printing mark
+this time). Print spec (Arabic table): 112 pages — MATCHES
+the PDF — 27 × 19 cm, interior 70 g white paper, cover 180 g
+couché, 4 colours. NO ISBN, NO deposit number. Audioscripts
+pp.103–107; Notes pp.108–111 are blank ruled pages.
+
+Filing note: map + curriculum note only — the book completes
+the conditionals (third) and the passive (present perfect
+and future forms) and opens reported speech; those join
+their lessons when built. No built lesson's sources change.
+
+PREPARATORY 9 TERM 1 FULLY READ — 2026-10-26
+
+Egypt set: 19 of 26. Still owed: Preparatory 9 Term 2,
+Secondary 10–12 (the remaining 7 of the 26-book Egypt set).

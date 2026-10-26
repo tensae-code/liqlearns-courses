@@ -442,3 +442,31 @@ closing), and the save-the-earth poster; a peer-check step
 joins the writing lessons. The chaptered story reaches its
 longest form: one real classic, The Jungle Book, across a
 whole term — six chapters, one per unit.
+
+**Stocked by Egypt Preparatory 9 Term 1 — Year Three
+opens:** writing length steps up to 100–110 words. The
+conditionals are completed — the third conditional (If +
+past perfect, would have + past participle; unreal past,
+regret, missed chances, excuses) joins the first and second;
+no book in the run ever names a zero conditional. The
+passive is completed too: present perfect passive (have/has
++ been + past participle) and future simple passive (will be
++ past participle) join the present simple and modal
+passives. Since + a point of time against for + a period of
+time. Reported speech opens with reported statements —
+pronouns change with the speaker, present tenses shift to
+past, and the time words change (today → that day, yesterday
+→ the day before, tomorrow → the following day, now → then,
+here → there). Modals are gathered by use (must =
+obligation, can/can't = permission, mustn't = prohibition,
+should = advice), and "on one hand / on the other hand"
+joins the connectors as the balance frame. The story work
+peaks: seven story kinds defined (fiction, non-fiction, folk
+stories, adventure, comic, historical, fables), story
+elements defined (setting, characters, conflict, solution),
+a story map, and a plan for writing your own story. Writing
+kinds: the descriptive paragraph by its parts, the
+opinion/experience paragraph, the email, the blog post, the
+design-process review. Design thinking itself is stocked as
+content: understand the users, brainstorm, prototype, test,
+improve.
