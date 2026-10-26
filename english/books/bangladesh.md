@@ -2982,31 +2982,762 @@ p.114).
 
 ## Class 6 — English for Today, Class Six
 
-NCTB; 118 pp. Same archive route. Secondary shape
-begins: the book is 33 numbered LESSONS (no units),
-each opening with its learning outcomes ("After
-completing the lesson students will be able to…"), and
-a Sample Question (exam paper) closes the book.
-Listening gets its own recurring lessons ("Are you
-listening?" 1–3).
+NCTB. The copy in hand is the DAKHIL (madrasa-stream)
+printing: cover and title page read "ENGLISH FOR TODAY /
+Dakhil Class Six," prescribed as a textbook for Dakhil
+class six from the academic year 2013; the contents and
+lessons are addressed to madrasah students ("Going to a
+new madrasah"). First edition written and edited by AMM
+Hamidur Rahman, Shaheen M. Kabir, Md. Zulfeqar Haider,
+Goutam Roy and Surajit Roy Majumder; first publication
+September 2012; revised editions September 2014,
+November 2020 and October 2024; "Revised for the year
+2025." The Preface is the SECONDARY preface (a different
+text from the primary books'): it rests the book on the
+National Curriculum 2012 and the National Education
+Policy 2010 and says "the last version of the textbook
+developed according to the curriculum 2012 has been
+taken as the basis." 118 PDF pp.; the body is PRINTED
+pp.1–112, preceded by the unnumbered prelims (contents
+at PDF p.5) — so printed page = PDF page − 6 for the
+body. Black-and-white throughout. Back cover (PDF
+p.118): "2025 Academic Year / Dakhil Six–English For
+Today," the motto "United we stand, divided we fall,"
+and the same 1971→2024 artwork as Class 4's back cover.
 
-Lessons: Going to a new madrasah · Congratulations!
-Well done! · At a railway station · Where are you from?
-· Thanks for your work · It smells good! · Holding
-Hands · Grocery shopping · Health is wealth · Remedies:
-modern and traditional · Are you listening?-1 · An
-unseen beauty of Bangladesh · Our pride · The lion's
-mane · An old people's home · Boats sail on the rivers
-· Are you listening?-2 · Make your snacks · Stop, look
-and listen · Hason Raja: the mystic bard of Bangladesh ·
-Wonders of the world-1 and -2 · We live in a global
-village · Our wage earners · The concert for Bangladesh
-· Buying clothes · Andre · Are you listening?-3 · Taking
-a test · What should we do? · Too much or too little
-water · An invitation for Ibrahim · The Garden · Sample
-Question.
+THIRTY-THREE numbered LESSONS (the secondary books drop
+the "Unit" label), each opening with an outcomes box
+("After completing the lesson students will be able
+to…"), then a SAMPLE QUESTION for Grade 6 (pp.101–112)
+— a complete 2017 English Paper One with answers: Full
+Marks 80, Time 3 hours, Section A Reading 40 + Section
+B Writing 40. There is NO end-of-book vocabulary list in
+this book. Grammar teaching is mostly done through
+"Notice…" LANGUAGE FOCUS boxes worked off the lesson's
+own text rather than rule tables. "THE END" closes
+p.112.
 
-BANGLADESH CLASS 6 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26)
+### Lessons 1–5 (pp.1–16)
+
+- L1 Going to a new madrasah (pp.1–3): Tamim Chowdhury's
+  filled SELF-INTRODUCTION FORM (11 years old; brown
+  eyes, brown hair, 4 feet 3 inches tall; good at
+  football and drawing; hobbies collecting stamps and
+  reading; likes comic books and peanuts; really doesn't
+  like soft drinks) — write the same seven lines about
+  yourself. A first-day passage (summary): Tamim rides
+  to Jagatpur Madrasah with his father, reaches in
+  fifteen minutes, finds everyone gone to class, is
+  warmly greeted by a teacher, and finds the students
+  very friendly; choose-the-right-answer MCQ; synonym
+  matching (interesting/amusing, frightened/afraid…);
+  group talk on first-day feelings; write a paragraph
+  on your first day. A closing poem, LET'S PLAY by Kate
+  Greenaway (theme: school over, lessons finished, play
+  begun — who'll run fastest, who'll laugh loudest), and
+  a punctuation question on its exclamation marks,
+  question marks and full stops.
+- L2 Congratulations! Well done! (pp.4–6): RESPONDING TO
+  NEWS. Three good-news conversations (summaries): Lily
+  phones her father in Tangail — she has an A in her
+  English test ("Well done, son! I'm so proud of you!");
+  singer Rahul tells Nina his new album of Kazi Nazrul
+  Islam's Hamd and Nath songs has been a hit; Manzoor of
+  Rajbari has won first prize in an inter-school essay
+  competition for Independence Day. LANGUAGE FOCUS: the
+  congratulation expressions (Congratulations! Well
+  done! That's marvelous! That's wonderful! Great!) and
+  the usual reply (Thanks / Thank you); word-study on
+  generation, album, hit — album and hit each have more
+  than one meaning. Three BAD-NEWS dialogues (flu
+  absence; a lost pen from father; a failed math test).
+  LANGUAGE FOCUS: "I'm sorry to hear that" / "That's
+  bad luck," and the other person usually says nothing
+  in response. Practise; answer what you would say in
+  five situations; make your own conversations.
+- L3 At a railway station (pp.7–8): a first-person
+  descriptive passage (summary): the narrator sees his
+  friend Sajjad off to Dhaka — a long ticket queue, a
+  woman holding her child's hand tightly, young men
+  talking loudly at a tea stall, an old couple looking
+  for a quiet seat, a man carrying three heavy suitcases,
+  a young lady reading a magazine on a bench; the train
+  whistles and they say goodbye. Talk about what the
+  speaker saw and did; OPPOSITE-meaning matching (see
+  off/receive, long/short, quiet/busy, heavy/light, pick
+  up/drop); describe a station picture; write about a
+  visit to a shopping place, a bus station or a fair.
+- L4 Where are you from? (pp.9–12): FIVE conversations
+  on origin and occupation (summaries): at a book fair
+  Mamun introduces Akash to James Collins of England,
+  whose name Akash couldn't catch for the noise; an
+  immigration officer at Shahjalal International Airport
+  asks Robert Smith both "Where do you come from?"
+  (Australia) and "And where are you coming from now?"
+  (London) — with a question on why the two forms
+  differ; class captain Rahim welcomes new student
+  Sajed from Sylhet, now in Khulna because his father
+  was transferred; Mamun's cousin Ruma is an ARCHITECT
+  who mostly designs offices and shopping complexes and
+  is at the moment designing a school building; Tahmina
+  and her mother Rabeya Begum talk about the neighbour's
+  crying baby and the mother who works part-time at the
+  Town Hall Library. LANGUAGE FOCUS: "Where do you come
+  from?" can ask country or home district depending on
+  who is speaking; "What do you do?" (= What is your
+  profession?) against "What are you doing?" (= at the
+  moment). A picture task: name each person's profession
+  and what he or she is doing at the moment (Captain
+  Harun, pilot, buying clothes; Nadia Sultana, student,
+  playing badminton; Rashid Ahmed, doctor, eating;
+  Shumana Chowdhury, lawyer, selling vegetables — each
+  pictured NOT doing their usual job).
+- L5 Thanks for your work (pp.13–16): six WORKERS
+  pictured and named from a box (newspaper hawker,
+  nurse, cleaner, rickshaw-puller, waiter, postman); a
+  word-box dialogue completing what each worker does
+  (a cleaner cleans houses, offices and streets; a
+  hawker gives us newspapers every morning; a postman
+  delivers letters; a rickshaw puller takes us from
+  place to place; a waiter serves food at a restaurant).
+  A text on BULBUL the rubbish collector (summary): he
+  wakes at 5 and walks the streets of Sankar, Dhaka,
+  collecting the plastic bins left in front of houses;
+  the bins are dirty and smell bad, but he doesn't mind;
+  he believes all jobs are important; when he was sick
+  for two days last month the whole area became dirty
+  and unhygienic, and he resolved not to fall sick again
+  — if he stops even a few days, the area will turn
+  into a big dustbin. Questions a–f; write a composition
+  about a person who helps you live well, from seven
+  questions. LANGUAGE FOCUS worked off the text:
+  routines are SIMPLE PRESENT and "the verb takes an
+  's' or 'es' if the subject is any one person/he/she";
+  past events are SIMPLE PAST and "the verb is always
+  in its past form"; underline all the verbs in the
+  Bulbul text and list each in both tenses.
+
+### Lessons 6–10 (pp.17–36)
+
+- L6 It smells good! (pp.17–18): a frame passage and
+  dialogue (summary): it is Saturday — Mila's madrasah
+  is open, but Friday and Saturday are her father's
+  weekly holidays; father is cooking 'moragpolau', her
+  favourite; Mila asks to try some, is sent to wash her
+  hands first, and tastes: "It tastes so delicious!"
+  Favourite-food questions; practise with proper stress
+  and intonation; a word-box cloze (smell, see, look,
+  know, like, want); CHOOSE THE RIGHT VERB FORM in a
+  waitress passage — present simple against present
+  continuous item by item (works/is working, takes,
+  helps/is helping, makes/is making, thinks, loves, wants,
+  hears, says), the book teaching the state/action verb
+  contrast by choice rather than rule.
+- L7 Holding Hands (pp.19–20): a poem by Leonore M Link
+  (theme: elephants walking along trails and in circus
+  rings hold "hands" by holding tails — trunks and
+  tails are handy things); recite in groups, pairs,
+  alone. WORDS WITH MORE THAN ONE MEANING: trunk (an
+  elephant's long nose; also a box) and ring (a circus
+  ring; also a finger ring) are worked with pictures,
+  and sentences are made with each.
+- L8 Grocery shopping (pp.21–27): a list-making
+  conversation (summary): guests are coming; Imran
+  helps his mother check what they have — some potatoes
+  but not enough, no tomatoes; the list grows: half a
+  kg of potatoes, one kg of tomatoes, half a kg of
+  beans, two cauliflowers, a dozen eggs, sugar, milk
+  and one litre of oil. A SHOP DIALOGUE (summary): Imran
+  buys at the shop; the shop uses paper or jute bags —
+  "We don't use plastic bags here"; the total is Taka
+  five hundred and thirty-five; he pays five hundred
+  and fifty and gets fifteen taka change. A tick/cross
+  + quantity table over 13 items; pair discussion
+  (including why a paper bag, and what 'change' means
+  here); order eight speech bubbles into a conversation.
+  QUANTITY PHRASES matched to items (a can of, a loaf
+  of, a packet of, a tube of, half a kilo of, a dozen,
+  a box of, a roll of, a jar of, a sheet of); sort the
+  items under Grocer's / Baker's / Stationer's; a
+  CLASSROOM MINI-MARKET roleplay with priced items
+  (pencil box Tk. 180, biscuits 35/pack, eggs Tk.
+  110/dozen, toothpaste Tk. 40/tube, pencil set Tk. 90,
+  calculator Tk. 250, loaf Tk. 35, onions Tk. 40/kg,
+  cake Tk. 400/kg). LANGUAGE FOCUS: SOME AND ANY —
+  some with positive statements, any with negative
+  statements and with questions; five fill-ins.
+- L9 Health is wealth (pp.28–32): label eight health-
+  problem pictures from a box (a fever, a backache, a
+  cough, a headache, a toothache, a skin injury, a
+  stomachache, a cold, a burn); pair questions on your
+  own illnesses; match seven PROBLEMS to ten pieces of
+  ADVICE (take vitamin C, ointment, drink lots of
+  liquid, rest, a heating pad, hold under cold water,
+  paracetamol, gargle with warm salt water — printed
+  "gurgle" — see a dentist, see a doctor) and discuss
+  in a group following a model dialogue built on
+  should. Problem–remedy conversations (insect bite →
+  antiseptic; stomachache → antacid; burn → Burnol
+  ointment). A HEALTH TEXT (summary): the proverb
+  "Health is Wealth"; good health is the proper
+  functioning of all body organs and feeling well in
+  body and mind; hygiene is the rules and practices of
+  keeping good health; the essentials are proper food
+  and nutrition, exercise, rest and sleep, cleanliness
+  and proper medicare; the rules of personal health are
+  then listed under six heads — balanced diet (correct
+  proportions of carbohydrates, fat, protein, vitamins,
+  minerals and water), personal hygiene (wash hands
+  before eating, bathe regularly, brush teeth twice,
+  cut nails, wash feet and hands before bed), cleaning
+  the household, clean food and water, regular exercise,
+  regular sleep and rest. Questions ×4; a LISTENING
+  CLOZE dialogue about exercise; Simon's exercise
+  paragraph (summary: jogging half an hour every
+  morning, table tennis in the afternoon, football
+  sometimes, yoga once a week); write about your own
+  fitness; write a short paragraph on the rules of good
+  health.
+- L10 Remedies: modern and traditional (pp.33–36):
+  match eight remedy pictures to names (paracetamol,
+  holy basil/tulsi, antacid, honey, neem, savlon,
+  turmeric, aloe vera). A text (summary): people
+  worldwide are turning back to NATURAL CURES made from
+  herbs and plants; herbal medicine is ancient — used
+  in India, China, Greece, Egypt and Rome — and some
+  systems survive today; for a burn a doctor may
+  prescribe a tube of ointment while a grandma puts
+  aloe vera or cold water; children with a cold are
+  given honey and tulsi leaves; cuts get turmeric,
+  marigold or aloe vera; garlic, neem and turmeric cure
+  skin problems; such remedies are easy to get, cheap
+  and usually without side effects. Sort the items into
+  NATURAL CURES and CHEMICALS columns; questions ×5.
+  Container phrases (a bottle/box/can/package/tube of
+  ointment, aspirin, bandage, foot spray, tissue); a
+  PHARMACIST dialogue (summary: Mr Arman asks for
+  something for dry skin; a new body lotion or a brand
+  of olive oil; he takes the lotion); four pair
+  roleplays using can, could, may, should. HOME
+  REMEDIES listed by ailment (summary): cough — two
+  teaspoons of basil-leaf/tulsi juice with a spoon of
+  honey, grape juice and honey, hot milk with honey,
+  ginger tea; cold — lemon juice for its vitamin C,
+  lemon juice with hot water and honey; toothache — a
+  clove held between the teeth, clove oil, a clove of
+  garlic munched mildly, pepper powder with common
+  salt; headache — eating apples with a little salt,
+  cinnamon paste on the forehead for a cold-wind
+  headache. Learn the remedy words; ask your parents
+  and list more remedies of your own country.
+
+### Lessons 11–15 (pp.37–51)
+
+- L11 Are you listening?-1 (pp.37–38): PRONUNCIATION —
+  six picture word-PAIRS contrasting the short and
+  long sounds (shed/shade, pepper/paper, test/taste,
+  wet/wait, pen/pain, man/mane); notice the vowel
+  difference; sentences with the words underlined to
+  repeat (met/mate, papers/pens, face/name…); more
+  pairs to practise (west/waste, debt/date, let/late,
+  get/gate, tell/tail); ADD 'E' to a word to make the
+  new word (can → cane) and complete five sentences.
+- L12 An unseen beauty of Bangladesh (pp.39–41): pair
+  discussion of tourist spots; a descriptive text on
+  BIRISHIRI / Shusong Durgapur (summary): a quiet,
+  little-known spot on the north-eastern border, in
+  Netrokona district about 170 km north of Dhaka, on
+  the crystal-clear Someshwari river below the Garo
+  hills, with the hills of India's Meghalaya visible,
+  a ceramic mountain, abandoned coal mines, and the
+  second river Kangsa (the old Someshwari); home to
+  Hajong, Garo, Achik and Mandi indigenous groups,
+  whose culture the Durgapur cultural academy preserves;
+  sights include the palace of the Susang king, the
+  Dasha Busha Temple, Orange Gardens, Shal forests and
+  the Ramkrisna and Loknath Baba temples; direct bus
+  from Mohakhali, Dhaka, 5–6 hours, then rickshaws.
+  Complete and act a dialogue from the text; questions
+  ×5; match seven phrases to meanings; write a passage
+  on a tourist place you know.
+- L13 Our pride (pp.42–45): a VICTORY DAY text
+  (summary): 16 December 1971, independence after a
+  nine-month war against the Pakistani army, in which
+  — the book states — three million people were killed;
+  the day opens with a 31-gun salute at dawn and flag
+  hoisting; the National Parade ground hosts a grand
+  military parade attended by the president and prime
+  minister; the National Martyrs' Memorial at Savar is
+  the focal point where citizens offer flowers and
+  recall the sacrifices. Word meanings (homage, martyrs,
+  dedicate, patriotic, sacrifice, commemorate);
+  questions ×4; LIST THE PATRIOTIC SONGS of the
+  Liberation War. A listening-cloze dialogue (summary):
+  teacher and Shanta on national days — the Jatiyo
+  Smritisoudho at Savar on 16 December is the National
+  Mausoleum; Shanta went with her parents and brother,
+  laid wreaths before the mass graveyards, heard about
+  the sacrifices, prayed for the martyrs, and shook
+  hands with freedom fighters. Match text words to
+  meanings; interview a partner with cues and write a
+  paragraph from the interview; write your own national
+  day experience.
+- L14 The lion's mane (pp.46–48): a fable credited
+  "(Written by Janet Allison Brown)" (plot summary):
+  the lion king, seeing his reflection in a river,
+  decides his mane is too old and unruly for a king and
+  tries to smooth it; the animals offer hairstyles —
+  the zebra says flap it up, the giraffe adds colour to
+  match his moustache, the vulture suggests ribbons,
+  the hyena a paper crown; a passing snake tells him
+  that if a king is a wise king, nobody cares about his
+  hairstyle; the lion smiles, kisses the snake, shakes
+  his mane back into place and promises to be a wise
+  king and not bother about his looks. Word-meaning
+  matching (mane, roar, unruly, flap, moustache, raise,
+  hissing sound — each defined in the book's words);
+  questions ×3; match animals to their distinguishing
+  marks (lion–mane, elephant–trunk, zebra–stripes,
+  sheep–wool, buffalo–horns, horse–pony tail, dog–
+  curved tail, fish–scale); a puzzle: which baby is
+  born with a moustache?
+- L15 An old people's home (pp.49–51): a text
+  (summary): Mariam, class six in Rajshahi, often
+  spends Fridays with her aunt Suraiya Begum, a retired
+  school teacher and widow whose two daughters live
+  abroad; the aunt has time but is often bored and
+  wants to do something meaningful — she plans an OLD
+  PEOPLE'S HOME for elderly people who live alone with
+  no one to care for them; she visits families to learn
+  the problems of the elderly and often takes Mariam,
+  who has become friendly with the old men and women
+  and hears their stories. Synonym matching; T/F with
+  corrections ×5. A MODEL LETTER (summary): Suraiya
+  writes to her friend Sharmila — some old people are
+  well-off and some are not, but all live alone with no
+  one to take care of them in sickness; she wants a
+  home where they would live like a family; she asks
+  Sharmila's help, "together we can do a lot"; closing
+  "Your friend, Suraiya." Questions ×4; groupwork:
+  think of good work you can do for someone and write
+  two or three sentences.
+
+### Lessons 16–20 (pp.52–62)
+
+- L16 Boats sail on the rivers (p.52): Christina
+  Georgina Rossetti's poem (theme: boats sail on
+  rivers and ships on seas, but the clouds that sail
+  across the sky and the rainbow — "the bow that
+  bridges heaven" — are prettier far); one question:
+  what bow is the poet talking about?
+- L17 Are you listening?-2 (pp.53–55): THE CHAOS by
+  Gerard Nolst Trenité, printed as a read-aloud warning
+  that English spelling and sound are tricky (theme:
+  tough/bough/cough/dough, heard/beard, dead/deed,
+  moth/mother, dose/rose/lose — "a dreadful language";
+  the speaker learned to speak it at five but hadn't
+  learned to write it at fifty-five); underline the
+  same-spelling different-sound words; the /aɪ/ family
+  (alive, five, write — try, cry, ice-cream, nice,
+  ride, drive, sky, fly, child, light); a cloze passage
+  built on that sound family (nine, time, fine, five,
+  ride, side, bicycle, night, tide, rise).
+- L18 Make your snacks (pp.56–59): INSTRUCTIONS. A
+  chicken-sandwich recipe read from Mrs Nilufar Ahmed's
+  recipe book: match seven ingredient pictures to the
+  list (two pieces of bread; cucumber 2/3 slices;
+  tomato 1/2 slices; butter or mayonnaise; egg, boiled
+  or fried; lettuce; one slice of cheese) and follow
+  six numbered steps; HANDY HINTS (wash and dry
+  vegetables, care with a sharp knife, vary the
+  fillings); rewrite the steps as an ordered cloze. An
+  OMELETTE recipe told in PICTURES with a word box
+  (break the eggs in a bowl, a spoon of water, salt,
+  onion and chilli slices, beat with a fork, heat oil
+  in a frying pan, pour, spread, fold, serve); match
+  cooking VERBS to pictures (break, beat, boil, chop,
+  fry, pour, stir, slice); write an instant-noodles
+  recipe using the verbs (nine steps given as frames).
+- L19 Stop, look and listen (p.60): a four-line verse
+  (theme: "Stop, Look, and Listen" is a good rule not
+  only for crossing a street but for looking for
+  clues); then a SKIM-THEN-LISTEN CLOZE — read a
+  gapped first-person text once (a whiteboard and
+  coloured chalk; writing fast with chalk that kept
+  breaking; a numb wrist), then listen and fill the
+  gaps.
+- L20 Hason Raja: The mystic bard of Bangladesh
+  (pp.61–62): bard and mystic DEFINED in the book's
+  words (a bard writes poems and songs; a mystic seeks
+  truth and union with God through prayer and
+  meditation); portraits of Lalon Shah, Hason Raja and
+  Shah Abdul Karim. The biography (summary): born 1854
+  into a wealthy landlord family in Sylhet, little
+  formal education, a youth of luxury; he came to feel
+  material possessions were meaningless, gave away all
+  his properties and turned to the creator, life, death
+  and humankind; he wrote about a thousand songs; in
+  1906 he published Hason Udash (206 songs), calling
+  himself 'Crazy Hason Raja' or 'Pagla Hason Raja';
+  Hason Raja Samagra (Complete Works) holds 500 poems
+  and songs; the songs spread from Sylhet across
+  Bangladesh and beyond. Questions a–e; read aloud with
+  proper pronunciation, pause and intonation; word
+  meanings (comfort, luxury, pleasure, volume, crazy,
+  contain, beyond, eminent).
+
+### Lessons 21–25 (pp.63–77)
+
+- L21 Wonders of the world-1 (pp.63–64): name the
+  pictured wonders (the Pyramids, the Taj Mahal, the
+  Eiffel Tower); a LISTENING CLOZE on the pyramids
+  (tombs of Egypt's kings and queens, the pharaohs; the
+  Giza pyramids the most famous; the largest is the
+  only one of the Seven Wonders still in existence). A
+  Taj Mahal text (summary): "the Taj," a white marble
+  tomb in Agra, India; Shah Jahan built it as a token
+  of love for his wife Mumtaz Mahal, who died at an
+  early age; area about 1003 acres or 405 hectares; it
+  combines the art of Persia, Turky [as printed] and
+  India; it took 21 years and thousands of artisans
+  and craftsmen. Make questions from six cues; complete
+  an information table. An EIFFEL TOWER CLOZE — put the
+  bracketed verbs into the CORRECT TENSE (built 1889;
+  320 metres / 1,050 ft, like an 81-storey building;
+  three levels; over 300 steps to the first level; the
+  third level by lift only; named after Gustave Eiffel).
+  A dialogue (summary): Mong Pru and Nira agree the
+  wonders of the present are also incredible — the next
+  lesson's promise.
+- L22 Wonders of the world-2 (pp.65–67): MODERN
+  wonders, three short texts (summaries): COMPUTERS —
+  used in every sphere (studies, communication, films,
+  music, games), instant information from anywhere,
+  email and face-to-face talk on social media keep
+  people from feeling lonely; SPACE TRAVEL — a hundred
+  years ago people only dreamed of flying; the Wright
+  brothers built the first aeroplane; now spacecraft
+  travel between planets, humans have set foot on the
+  moon and are exploring Mars; one day, perhaps,
+  vacations on a planet in another galaxy; MOBILE
+  PHONES — communication at very low cost, with calls,
+  music, photographs, stored information, even distance
+  learning. Word-meaning and OPPOSITE matching
+  (unbelievable/believable, awesome/ordinary, fabulous/
+  simple, tremendous/tiny, updated/backdated...);
+  a gap dialogue (summary): Asif and Habib agree
+  computers and phones are not a luxury but a way to
+  avoid loneliness, and Habib wonders how a tiny cable-
+  free device does so many things; write a paragraph on
+  the innovation that surprises you most.
+- L23 We live in a global village (pp.68–70): UN
+  peacekeeper pictures; a LETTER from Uncle Reza, a
+  Bangladesh Army captain in Congo on a UN Peacekeeping
+  Mission (summary, addressed to Sohan): Congo, in
+  central Africa, is rich in natural resources and its
+  people are incredible, but some regions face political
+  and ethnic conflict; the peacekeepers distribute food,
+  water and medicine, build houses and teach children
+  in small schools; the letter tells of Ashar Santoso,
+  born in Indonesia, schooled in Singapore and Denmark,
+  bachelor's and master's in the US, now volunteering
+  with children's education in Congo in a ten-member
+  team from different countries — called 'Mr Global
+  Citizen'; his view: working with different people he
+  sometimes thinks he belongs to all; "We're all part
+  of the same human race, aren't we?" Match words to
+  meanings; questions ×3; five questions you would ask
+  Ashar. A LISTENING CLOZE on the term 'global village'
+  (summary): first used by Marshal [as printed] McLuhan,
+  who wrote two books on media and communication in
+  1962 and after [the gaps hide the second year]; TV
+  news of floods in a distant country makes us feel we
+  are also there; now personal computers and the
+  Internet have made the idea more real than ever.
+- L24 Our wage earners (pp.71–74): picture and word-box
+  opening (wage earner, skilled worker, economy,
+  tourists, abroad, foreign…); pair questions on
+  workers abroad; a text (summary): large numbers of
+  Bangladeshis work in the UAE, Oman, Saudi Arabia,
+  Qatar and Bahrain, which prefer them because they are
+  hard-working; but many are forced into "odd" jobs and
+  poorly paid because their English, Arabic or other
+  language skills are weak; workers should develop
+  language skills BEFORE going abroad, to secure better
+  jobs and the pay and benefits they deserve and to
+  support their families and the economy. Complete a
+  two-column table from the text. A dialogue (summary):
+  Sohan asks Dr Arman, a Bangladeshi doctor in a Cairo
+  hospital, about visiting Egypt — any time; the Cairo
+  Museum and the mummies; you mustn't leave without the
+  Pyramids; Port Suez and a night view of the Red Sea;
+  you couldn't cross the Red Sea without a valid visa;
+  traditional Egyptian or Continental food. LANGUAGE
+  FOCUS: MODAL VERBS in a table (can/can't, could/
+  couldn't, may, should, must/mustn't) drawn from that
+  dialogue; complete ten sentences about a tourist in
+  DHAKA with modal phrases from a box (Sonargaon,
+  Lalbagh Fort, Baldha Garden, Ahsan Manzil, a Buriganga
+  boat ride, Mughlai Khana, a Tom Tom ride, Chatpati or
+  Fuchka — but not tap water in a restaurant); complete
+  a foreign-traveller dialogue on the same model.
+- L25 The Concert for Bangladesh (pp.75–77): a frame
+  dialogue (summary): Fahmida sees a bearded long-haired
+  man singing "Bangladesh, Bangladesh…" on TV; her
+  father, Mr. Farhad, tells her it is George Harrison,
+  a famous singer from England and a great humanist who
+  helped during the Liberation War of 1971 — not by
+  coming to Bangladesh, but by organising the historic
+  Concert for Bangladesh, held 1 August 1971 at Madison
+  Square Garden, New York, before about forty thousand
+  people, with other famous musicians; it made the
+  world aware of the sufferings of Bangladesh, won huge
+  support for the war victims and raised millions of
+  dollars for the UNICEF relief fund. T/F with
+  corrections ×5. The song 'Bangladesh' is printed to
+  be read aloud (described, not reproduced here: its
+  verses tell of a friend who came asking help for his
+  dying country and appeal to the listener to lend a
+  hand, stand beside the people of Bangladesh and
+  relieve their suffering); complete a summary of its
+  first three stanzas with words from a box (support,
+  stand, come, problems); discuss a Bangla song that
+  inspired people in 1971 and write its first line in
+  Bangla.
+
+### Lessons 26–30 (pp.78–91)
+
+- L26 Buying clothes (pp.78–82): match twelve clothing
+  words to pictures (trousers, jacket, saree, panjabi,
+  shorts, blouse/top, polo shirt, frock/dress, jeans,
+  T-shirt, salwar-kameez, shoes); five questions about
+  your own clothes shopping. A SHOP DIALOGUE (summary):
+  Imran, shopping with his mother, wants a polo shirt
+  WITHOUT a chain; a medium is too big, a small fits;
+  sky blue; he tries it on — "just perfect"; Taka three
+  hundred, on sale this week; a speaker label is printed
+  "Assiatant" once. Complete five sentences from the
+  dialogue; rebuild Imran's useful shop expressions.
+  FOUR choosing dialogues with pictures (summary):
+  jeans — not the narrow ones, baggy, loose-fitting ones
+  with side pockets; shoes for mother — not too high,
+  not flat, a bit of heel; a T-shirt — not the cartoon
+  one, not the one with writings, completely plain; a
+  shirt — not prints, not too boring stripes, the
+  CHECKED one. Practise; a word-box cloze on clothes
+  verbs and nouns (try on, fit, suit, match, size,
+  cheaper, flat shoes, shorts).
+- L27 Andre (p.83): Gwendolyn Brooks's poem ANDRÉ
+  (theme: the child dreams he must pick a mother and
+  choose a father from people short, tall, thin and
+  stout — and wakes glad: the parents he would take are
+  the ones he always had); underline all the verbs and
+  sort them into PRESENT and PAST tense columns, then
+  convert each way; read aloud with proper
+  pronunciation, stress and intonation.
+- L28 Are you listening?-3 (pp.84–85): the letter 'o'
+  in two lists (hop/hope, rob/robe, not/note, rod/rode);
+  the second vowel sound is NAMED here — "the two vowel
+  sounds together (dipthong)"; more words pictured
+  (bowl, boat, coke, coat, bone, phone, throw, snow,
+  old, gold, window, closed); a cloze around a NOTE
+  left for Shila (gone out; two cans of coke and a bowl
+  of fruits on the table; close the lid tightly; the
+  kettle is on the stove); read the note aloud.
+- L29 Taking a test (pp.86–87): Hena and her twin
+  sister Rehana, class six, are taking their half-yearly
+  English test at madrasah under teacher Ms. Shima
+  Chowdhury; WRITE THE INSTRUCTIONS the teacher may
+  give in eight situations, using 'Do not' or 'cannot'
+  (be quiet and do not make noise; put away books and
+  papers; write down name, class, section, roll number,
+  subject and date; read the questions carefully; do
+  not copy; do not talk; you cannot go out before one
+  hour is over; start writing). Five SIGNS pictured
+  (hospital + no horn; use the waste bin; Keep Off The
+  Grass; cashier — pay at the cash counter; SLOW —
+  children's playground) with instruction completions.
+- L30 What should we do? (pp.88–89): a planning
+  dialogue (summary): Bahar, Azim, Salam and Shujan
+  have a week's vacation — a two-day trip to Kuakata
+  for the sea-beach and sunrise, or the Chimbuk
+  Mountains in Bandarban, or the Sunderbans for wild
+  animals and forest-and-sea pictures; Bahar calms
+  them: they can't go everywhere at once, so think
+  about all the options and then decide. List the
+  places and why; write about a place YOU would like.
+  LANGUAGE FOCUS: SUGGESTION EXPRESSIONS (What should
+  we do? Why don't we…? How about…? Let's…, etc.);
+  write short dialogues for two situations (a class
+  project; a birthday gift for your teacher).
+- L31 Too much or too little water (pp.90–91): flood
+  pictures discussed in groups; two short passages
+  (summaries): heavy rainfall makes river water
+  overflow its banks and flood vast areas of land,
+  towns and villages; and the opposite — no rainfall
+  for a long period, rivers drying up, the underground
+  water level sinking — causes a lot of suffering;
+  write sentences on suffering from TOO MUCH water;
+  discuss pictures of suffering from TOO LITTLE
+  (cracked dry land, an empty tap, a long queue of
+  water pots).
+
+### Lessons 32–33 (pp.92–100)
+
+- L32 An invitation for Ibrahim (pp.92–93): a frame
+  passage (summary): Ibrahim reads and re-reads a
+  letter, then reads it aloud to his mother — the
+  INVITATION LETTER itself is printed (summary of its
+  contents): Aunt Amina and Uncle Karim, forty miles
+  from Dhaka, invite him for a few days of his summer
+  holiday; they have four ducks, six chickens and a cow
+  that gives fresh milk every day; his cousin Maher,
+  about his age, is making lots of plans; they have
+  talked to his parents and will receive him at the bus
+  station. LANGUAGE FOCUS: requests and invitations —
+  'Would like you to' to mean 'Would you please';
+  'Let us know' to mean 'inform us' / 'tell us'.
+  Questions ×2; write sentences with the expressions;
+  WRITE A SIMILAR INVITATION letter to a friend. A
+  THANK-YOU LETTER (summary): back home, Ibrahim writes
+  that for a city boy the country was a whole new world
+  to see; he was proud when he first milked the cow
+  'Dulari'; uncle and aunt taught him things he didn't
+  know; tell Maher he already misses him; he hopes for
+  another invitation next summer. Choose the letter's
+  main idea (three options); discuss the expressions
+  (a city boy, a whole new world, miss someone).
+- L33 The Garden (pp.94–100): Arnold Lobel's story THE
+  GARDEN (plot summary): Toad admires Frog's garden;
+  Frog gives him flower seeds — "soon you will have a
+  garden"; Toad plants them and orders them to start
+  growing, louder and louder, until Frog explains the
+  poor seeds are AFRAID to grow and must be left alone
+  for sun and rain; that night Toad fears they are
+  afraid of the dark; he reads the seeds a long story,
+  sings songs all the next day, reads poems the next,
+  plays music the next — still nothing; exhausted, he
+  falls asleep; Frog wakes him: little green plants
+  are growing; Toad agrees with Frog — "It was very
+  hard work." Activities: choose the right answer;
+  collocation matching (play music, water plants, plant
+  seeds, read stories, work hard); a PUNCTUATION MARKS
+  box defining all five with their jobs (full stop —
+  the sentence has ended; comma — a short pause;
+  question mark; exclamation mark — excitement or
+  surprise; quotation marks — someone is speaking);
+  find them in the story; punctuate an unpunctuated
+  passage (Bobby and Farid walking to madrasah; Neel's
+  birthday); learn five word meanings.
+
+### Sample Question for Grade 6 (pp.101–112)
+
+A complete model paper, marked "(From 2017)": English
+Paper One, Full Marks 80, Time 3 hours, WITH suggested
+answers printed throughout. Section A: READING (40) —
+Q1: the Lesson 10 natural-cures text reused as the seen
+passage, with ten vocabulary MCQs (0.5×10=5) and the
+answer key printed (i b, ii a, iii b, iv d, v c, vi c,
+vii a, viii d, ix d, x a). Q2: the Lesson 20 Hason Raja
+text reused — five questions (2×5=10) with full
+suggested answers. Q3: an unseen Pahela Boishakh
+passage (Bushra, Asha and Abir at Grandma's) with an
+information TABLE to complete (1×5=5); answers printed
+on p.106. Q4 (on pp.106–107): an unseen winter-morning
+passage (Nuhash gives his sweater to a shivering boy
+carrying a milk can — "Life is beautiful") as a
+word-box CLOZE (0.5×10=5) with answers, preceded on
+p.106 by the T/F set (1×5=5) for a further unseen
+passage about Turjo's visit to the Ekushey Book Fair
+(that is Q3's second part / Q5 position in the paper —
+the items run: passage + T/F ×5 with corrected false
+answers printed). Q5 (p.108): MATCH sentence halves on
+"the quality of giving" (1×5=5) with answers. Q6
+(p.108): REARRANGE ten jumbled sentences (the Abira
+and Ayaan Saint Martin's story) (0.5×10=5) with the
+answer chain printed (i+g+b+a+e+j+d+c+h+f). Section B:
+WRITING (40) — Q7 (p.109): COMPLETE THE STORY of the
+ant and the dove in 10 sentences (10 marks) with a
+suggested completion (plot summary: the ant climbs the
+dropped leaf to safety; later it stings the
+bird-catcher's foot as he aims at the dove; he shouts,
+drops the bow, and the dove flies away). Q8 (p.110):
+WRITE AN EMAIL to a friend about a Dhaka trip plan
+(10) — a model email (To sarah@yahoo.com; Subject:
+Plan for winter vacation; Monira will visit Lalbag
+Fort, Ahsan Manzil, Mirpur National Zoo, Shishu Park
+and the National Museum). Q9 (p.111): WRITE A DIALOGUE
+about a performance (10) — a model (Rivo and Dhrubo:
+the gloomy role that made the audience laugh). Q10
+(p.112): write a PARAGRAPH on "The Place I like Most"
+from five guiding questions (10) — a model (the village
+home: family, cool moist winter weather, fishing).
+"THE END" closes the book at the foot of p.112.
+
+### Slips and points recorded as printed
+
+- L21 (p.63): "It combines the art of Persia, Turky,
+  and India" — Turky for Turkey.
+- L26 (p.79): a speaker label reads "Assiatant" once;
+  the mother is "Mrs Urmila Karim" in section C's
+  frame but "Mrs Masuda Karim" in section D, and the
+  dialogues mix the two.
+- L23 (p.70): the global-village cloze prints "Marshal
+  McLuhan" (for Marshall).
+- L2 (p.4): Lily's father answers her "Well done,
+  son!" — Lily is the daughter; recorded as printed.
+- L33's outcomes box (p.94) prints "qusetion mark" in
+  "use punctuation marks e.g. comma, full stop,
+  qusetion mark, exclamation mark, quotation marks".
+- L9 (p.29): the advice list prints "gurgle with warm
+  and salt water" (for gargle).
+- Sample Q3 (p.105): "Bushra, and and her cousin, Asha
+  are class mates" — doubled "and" as printed; its
+  answer table prints Bushra's food answer against a
+  row labelled with an "X" in the age column for Asha.
+- Recorded as facts of the book, not errors: every body
+  page carries the footer "2025" and forma marks
+  (Forma-1…Forma-14); the Dakhil printing keeps
+  "madrasah" in lesson frames where the general
+  secondary printing says "school"; the Concert for
+  Bangladesh lesson prints Harrison's song to be read
+  aloud — described above, not reproduced in this
+  filing.
+
+BANGLADESH CLASS 6 FULLY READ — 2026-10-26 (full
+re-read, page by page from the book's page images;
+replaces the basics-only MAPPED filing)
+CITATION CHECK PASSED — 2026-10-26: anchors re-opened
+in the book itself and confirmed — the Dakhil title
+page and 2013 prescription (PDF p.2), imprint with the
+five writers and September 2012 first publication (PDF
+p.3), the secondary Preface's curriculum-2012 basis
+sentence (PDF p.4), Contents with 33 lessons and the
+Sample Question at p.101 (PDF p.5), Tamim's form
+(p.1), the congratulations box (p.5), the railway
+passage (p.7), the What-do-you-do Language Focus
+(p.12), Bulbul's 5 o'clock (pp.14–15), the simple
+present/past boxes (p.16), "It tastes so delicious!"
+(p.17), trunk/ring two meanings (p.20), "We don't use
+plastic bags here" and Taka 535 (p.23), some/any (p.27),
+the health rules' six heads (p.31), tulsi and honey
+(p.36), shed/shade pairs (p.37), Birishiri's 170 km
+(p.40), "three million people" (p.42), the snake's
+advice (p.47), Suraiya Begum's plan (p.49), Rossetti
+(p.52), The Chaos (pp.53–54), the sandwich steps
+(p.56), Gabriel — no: the omelette word box (p.58),
+Hason Raja 1854 and Hason Udash 1906 (pp.61–62), the
+Taj's 21 years (p.63), the Eiffel cloze (p.64),
+Wright brothers (p.65), 'Mr Global Citizen' (p.69),
+McLuhan cloze (p.70), the modal table (p.73), Madison
+Square Garden 1st August 1971 (p.76), "Assiatant"
+(p.79), André (p.83), dipthong named (p.84), Ms. Shima
+Chowdhury's instructions (p.86), suggestion
+expressions (p.89), the cow 'Dulari' (p.93), Toad's
+seeds (pp.94–99), the punctuation definitions (p.100),
+the Sample Question's "Full Marks: 80" head (p.101),
+the answer key (p.103), "THE END" (p.112) and the back
+cover (PDF p.118).
 
 ## Class 8 — English for Today, Class Eight
 
