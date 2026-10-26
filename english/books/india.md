@@ -1392,30 +1392,398 @@ MARIGOLD BAND (CLASSES 1–5) NOW FULLY READ.
 
 ## Class 6 — Honeysuckle (Textbook in English for Class VI)
 
-NCERT, first edition February 2006; 2020-21 printing;
-ISBN 81-7450-485-0. Same copy route.
+NCERT, first edition February 2006; ISBN 81-7450-485-0.
+Copy read: the Internet Archive item `ncert-fehl1`,
+NCERT's own chapter files, 2020-21 printing (reprints
+listed in the prelims run to August 2019).
 
 The shape changes at Class 6: TEN units, each a PROSE
 piece + (in most units) a POEM, and every unit now runs
 set sections — Working with the Text, Working with
 Language, Speaking and Writing — so language work is
-explicit in every unit. "Notes for the Teacher" blocks
-sit between unit groups.
+explicit in every unit. Comprehension questions are keyed
+to numbered paragraphs, a convention the book states in
+Unit 1 ("Refer to that part of the text whose number is
+given against the question. This applies to the
+comprehension questions throughout the book"). Hard
+words are glossed IN THE MARGIN as you read. "Notes for
+the Teacher" blocks are printed inside the book at the
+front of each unit group (Units 1–3 at pp.1–6, Units 4–7
+at pp.41–44, Units 8–10 at pp.96–98) and themselves carry
+teaching content, noted per unit below. A "Know Your
+Country" quiz box appears in several units, with its
+answers printed pages later.
 
-- U1 Who Did Patrick's Homework? · A House, A Home
-- U2 How the Dog Found Himself a New Master! · The Kite
-- U3 Taro's Reward · The Quarrel
-- U4 An Indian-American Woman in Space: Kalpana Chawla ·
-  Beauty
-- U5 A Different Kind of School · Where Do All the
-  Teachers Go?
-- U6 Who I Am · The Wonderful Words
-- U7 Fair Play (prose; no separate poem in this unit)
-- U8 A Game of Chance · Vocation
-- U9 Desert Animals · Whatif
-- U10 The Banyan Tree
+- **U1 Who Did Patrick's Homework?** (Carol Moore —
+  Patrick, who plays hockey, basketball and Nintendo
+  instead of homework, rescues a tiny elf-man from his
+  cat and wishes for all his homework done "till the end
+  of the semester, that's 35 days"; the elf needs help
+  with every subject — dictionary work, times tables,
+  library books — until Patrick is working harder than
+  ever; he gets his A's, and the closing secret: "It
+  wasn't the elf; Patrick had done it himself!") ·
+  **A House, A Home** (poem, Lorraine M. Halli — brick,
+  stone, eaves, chimneys, stucco vs "loving and family
+  and doing for others"). The Teacher's Notes name the
+  story's kind: "Magical Realism — there is no magic
+  here, only make-believe. It's Patrick's own inspiration
+  personified." TAUGHT: a phrases box filled from the
+  story (out of luck, mystery, true to his word, chores,
+  semester, between you and me, look up); a CROSSWORD
+  built from the margin glosses (weary, scowled,
+  britches, glitch, elf / chores, hamper, shrieked);
+  Speaking with like/dislike phrase banks ((not) be fond
+  of, take to, develop a liking for, appeal to, be keen
+  on, have a taste for; support, assist, with the aid
+  of, help, be a boon, give a boost to); Writing: copy
+  story lines out as rhymed verse, and ELLIPSIS taught —
+  "When we speak, we often leave out words that can
+  easily be guessed. We do not do this when we write,
+  unless we are trying to write as we speak" — with
+  incomplete sentences rewritten carefully ("more and
+  more books," "too difficult," "got up late, missed
+  the bus"); an R.K. Laxman cartoon discussed (the
+  child-labour-laws homework joke).
+- **U2 How the Dog Found Himself a New Master!** (folk
+  tale — the Dog takes service with Wolf, then Bear,
+  then Lion, leaving each for a stronger master, until
+  the Lion backs away from a man: "to this day the dog
+  is man's most loyal servant") · **The Kite** (poem,
+  Harry Behn). The Teacher's Notes define the kind:
+  "Folk tale — folk tales are popular stories passed on
+  generally in spoken form from one generation to the
+  next," and give the pronunciation of coyote. TAUGHT:
+  a summary completed from a phrase box; COLLECTIVE
+  NOUNS completed (fleet of ships, bunch of flowers,
+  brood of chicks, herd of cattle, bundle of sticks,
+  flock of sheep, school of fish, pack of wolves);
+  -ness/-ity NOUN FORMATION (honesty, kindness, cruelty,
+  calmness, sadness, activity, creativity, sincerity,
+  cheerfulness, bitterness, sensitivity, greatness); a
+  WORDSEARCH of twelve describing words; a non-fiction
+  PASSAGE, The Dog Family (the Carnivores; the canine
+  family; the dingo; dogs tamed "perhaps 20,000 years
+  ago"), with opposites found IN the text (ancestor →
+  descendant, wild → tame, ancient → modern, near →
+  distant, suddenly → gradually) and a family-tree
+  diagram to complete; Speaking: retelling A Mouse
+  Maiden from printed points (she ends by marrying a
+  mouse and becoming a mouse again) plus a limerick,
+  The Last Ride Together (the young man of Niger and
+  the tiger). The poem's work NAMES THE SIMILE: "The
+  movement of the tailless kite is compared to a ship
+  with a sail. This is called a simile" — then He runs
+  like…, She sings like…, It shines like…
+- **U3 Taro's Reward** (a Japanese story retold — Taro,
+  the thoughtful woodcutter; the waterfall that gives
+  saké to him and cold water to everyone else; the
+  Emperor's twenty pieces of gold and the fountain
+  named after him "to encourage all children to honour
+  and obey their parents"; saké's pronunciation is
+  glossed in the margin) · **The Quarrel** (poem,
+  Eleanor Farjeon — "I quarrelled with my brother / I
+  don't know what about"). TAUGHT: suitable describing
+  words selected by striking off the rest (thoughtful,
+  hardworking, loving, honest, considerate, trustworthy,
+  efficient, kind); REFERENCE questions ("'This' refers
+  to…" — two of them, as three-choice items); rhyming
+  pairs arranged (young–lung, money–sunny, sad–bad,
+  chop–stop, wax–axe, could–wood, way–day, last–fast,
+  sound–round); COMPARATIVES harvested out of the
+  story itself (sadder than ever, harder than before,
+  earlier than usual, even faster, even earlier than the
+  morning before); tongue twisters spoken (the
+  woodchuck; Betty's butter; the Teacher's Notes add
+  "She sells sea-shells"); a COMPARISON essay — a
+  paragraph or two comparing the two magic-helped boys,
+  Patrick and Taro; group agreement on SUPERLATIVES
+  across eighteen activities (most interesting, dullest,
+  most dangerous, safest, most rewarding, most
+  exciting); DICTATION of rhyme words; Know Your
+  Country: the two states flanking Delhi (Haryana,
+  Uttar Pradesh) and the states the Narmada flows
+  through (Madhya Pradesh, Maharashtra, Gujarat) —
+  answers printed at p.40.
+- **U4 An Indian–American Woman in Space: Kalpana
+  Chawla** (adapted from Span, January/February 1998 —
+  born in Karnal, Tagore School, aeronautical
+  engineering against her father's opposition, Ph.D.
+  in aerospace engineering, naturalised U.S. citizen,
+  married to flight instructor Jean-Pierre Harrison;
+  first mission 15 days, 16 hours, 34 minutes, 252
+  orbits, 10.45 million kilometres, about 56 million
+  dollars; her message from Columbia: "The path from
+  dreams to success does exist. May you have the vision
+  to find it, the courage to get onto it…") with a NEWS
+  REPORT box, "Tragedy in Space" (Columbia lifted off
+  16 January 2003 from Kennedy Space Center, 16 days,
+  80 experiments, broke apart over Texas on Saturday,
+  1 February 2003 at over 200,000 feet and 20,000 km
+  per hour; its 28th flight) · **Beauty** (poem,
+  E-Yeh-Shure — seen in sunlight, heard in the night,
+  "Beauty is in yourself"). TAUGHT: dictionary tasks
+  BEFORE the text (naturalised U.S. citizen, frontiers
+  of space, aboard, lift off vs take off, crew) and
+  American spellings noticed (airplane, program);
+  facts extracted from the news report into a list;
+  phrase-to-meaning matching (unprecedented space
+  tragedy, certified flight instructor, space mission,
+  super specialisation, encyclopaedic knowledge,
+  awe-inspiring, in this age); nine phrases used in
+  sentences (broke apart, streaked over, spread across,
+  lifted off, blast off, went on, cheered along, on
+  board, carry on); un- opposites ×10 with dictionary
+  meanings (unidentified, uncontrolled, unattended,
+  unsuccessful, unimportant, uneducated, uninteresting,
+  unqualified, untrained, unanswerable); Speaking:
+  good-luck wishes with "May you…" / "I wish you /
+  Wishing you," and greeting-telegram phrases compared
+  in English and Hindi; Writing: two paragraphs — my
+  dream, and how I will make it come true; a BRITISH
+  vs AMERICAN spelling table completed both ways
+  (colour/color, labour/labor, traveller/traveler,
+  counsellor/counselor, centre/center, theatre/theater,
+  organise/organize, realise/realize, defence/defense,
+  offence/offense). The poem's work quotes Keats —
+  "Heard melodies are sweet, / But those unheard are
+  sweeter" — and expands the poem's PARTICIPLE phrases
+  (corn growing → corn that is growing; people who are
+  working or dancing), asking why the poet uses the
+  shorter phrases.
+- **U5 A Different Kind of School** (E.V. Lucas,
+  abridged and simplified — Miss Beam's school: "The
+  real aim of this school is not so much to teach
+  thought as to teach thoughtfulness"; every child
+  each term has one blind day, one lame day, one deaf
+  day, one injured day and one dumb day, "on their
+  honour not to peep"; Millie the Head Girl, Peter the
+  gardener, Anita on crutches) · **Where Do All the
+  Teachers Go?** (poem, Peter Dixon — "Do they wear
+  pyjamas / And do they watch TV? / And do they pick
+  their noses / The same as you and me?"). TAUGHT:
+  SENTENCE REORDERING — seven sentences from the story
+  put in the right order and written out as a paragraph
+  WITHOUT referring to the text; meaning matching keyed
+  to paragraph numbers; lines RE-WORDED in the
+  learner's own words; a real DICTIONARY PAGE
+  reproduced in the book (term, test, terrace,
+  terrible, terribly, terrify, terror, territory, than,
+  that, thank) with dictionary skills worked on it:
+  find the word meaning the same as ghastly and write
+  its two meanings; find a word for a part of the
+  school year (term) and one for an examination (test);
+  list all the terr- words; write five words that may
+  follow "that"; write your own meaning of thank, then
+  the dictionary's. A poem is slipped in as a reading
+  extra: All but Blind (Walter de la Mare). Speaking
+  and Writing: a list of things you find difficult to
+  do, compared with the class; one action per finger
+  written down. Know Your Country: states bordering
+  Andhra Pradesh and India's largest island — answers
+  printed at p.123 (Maharashtra, Karnataka, Tamil Nadu,
+  Orissa and Chhattisgarh; Middle Andaman).
+- **U6 Who I Am** — the lesson the Teacher's Notes say
+  NOT to teach ("do not 'teach' it… let children read
+  it on their own"). Part I MANY VOICES: six children
+  in different typefaces — RADHA, who climbs the mango
+  tree and one afternoon her mother climbs up too;
+  NASIR, who will be a seed collector because farmers
+  must now buy new seed every year; ROHIT, who would
+  travel — New Zealand's mountains, rafting the
+  Amazon, diving for coral in Lakshadweep, Konark,
+  Beijing, the Pyramids, "nature more than old
+  buildings"; SERBJIT, angered when people don't
+  believe him, who looks at his shoes and counts to
+  ten; DOLMA, who will be Prime Minister and trusts
+  herself to make things better; PETER, whose favourite
+  day is the second Sunday — the whole family at the
+  cinema, peanuts in the interval, ice cream after.
+  Part II MULTIPLE INTELLIGENCES, credited in print
+  "[Based on Howard Gardner's theory of Multiple
+  Intelligences]" — Visual, Verbal, Mathematical,
+  Bodily, Musical, Interpersonal, each laid out as You
+  like to / You are good at / You can become a (poet,
+  journalist, teacher, lawyer, politician, translator;
+  scientist, engineer, computer programmer,
+  researcher, accountant, mathematician; dancer,
+  athlete, actor, firefighter; musician, disc jockey,
+  singer, composer; counsellor, salesperson, business
+  person…). TAUGHT: job-to-description matching
+  (Navigator, Architect, Politician, Engineer, Computer
+  programmer, Athlete, Disc jockey, Composer,
+  Counsellor, Journalist); a paragraph about YOURSELF
+  (what I enjoy most / what makes me angry / what I
+  hate to do / what I want to become), photo attached,
+  displayed on the wall; ENVIRONMENT CAREERS — five
+  personality profiles (Adventurous, Creative,
+  Inquirer, Communicator, Idealist: You Are / You Like
+  / You Are Good at / You Can Become — wildlife
+  biologist to environmental lawyer to social worker)
+  with Word-finders, People-finders and Picture-finders
+  group work; Speaking: a structured DEBATE — notes
+  made for both sides of "girls climbing trees," the
+  class split in two, Radha's side against her mother's;
+  circle talk completing "What makes me very angry
+  is…". Know Your Country: the Hirakud Dam's river,
+  Kanyakumari's state, the channel between the Andaman
+  and Nicobar Islands — answers at p.137 (the Mahanadi;
+  Tamil Nadu; the Ten Degree Channel). · **The
+  Wonderful Words** (poem, Mary O'Neill — "Never let a
+  thought shrivel and die / For want of a way to say
+  it"; "Words are the food and dress of thought").
+- **U7 Fair Play** (Premchand, retold — Jumman Shaikh
+  and Algu Chowdhry; the aunt's property and the
+  monthly allowance; Algu as head Panch: "The voice of
+  the Panch is the voice of God"; the broken
+  friendship; the bullock sold to Samjhu Sahu; Jumman
+  as head Panch, who "must not allow his personal
+  feelings to come in the way of speaking the truth and
+  doing justice"; "Let no one deviate from the path of
+  justice and truth for friendship or enmity"). NO
+  separate poem in this unit. TAUGHT: I–II sentence
+  matching; "Who says this to whom and why?" ×5;
+  a best-summary choice among three of the story's own
+  sentences; IDIOM REPLACEMENT — the italicised part of
+  ten sentences replaced by a phrase from the box (look
+  after, swallow [insults], make it up, keep mum, go
+  into, ease one's conscience, as ill luck would have
+  it, a tight spot, take chances, my heart sank); the
+  SET family defined and filled (set up = put in place
+  or start; set aside = save or keep for a particular
+  purpose; set down = write or record; set out = start
+  on a journey; set in = begin and seem likely to
+  continue); Speaking and Writing: a survey INTERVIEW
+  recorded on a form (Yes/No + Additional Response —
+  "Do you like to meet people?" "Yes I do, but not
+  always. I do have some close friends, though"), a
+  nine-question partner questionnaire, then a brief
+  REPORT of the project — what you did, how you did
+  it, and the conclusion; Dictation: opposites (old,
+  wet, open, blunt, forget).
+- **U8 A Game of Chance** (Rasheed at the Eid fair; the
+  Lucky Shop — 50 paise, pick six discs numbered one
+  to ten, the total names your prize; the old man's
+  clock bought back for 15 rupees; the boy's comb,
+  fountain-pen, wrist watch and table lamp; Rasheed
+  loses everything down to his last 25 paise; Uncle:
+  "they were all friends of the shopkeeper. They were
+  playing tricks to tempt you") · **Vocation** (poem,
+  Rabindranath Tagore — the hawker crying "Bangles,
+  crystal bangles!", the gardener, the watchman with
+  his lantern; "I wish I were…"). TAUGHT: sentences
+  completed FROM MEMORY with a choice of phrases;
+  the SAME WORD as noun and verb in eight pairs (play,
+  face, mark, comb, smile, hope, show, pat); 'THERE' as
+  empty subject — sentences rewritten beginning with
+  There (models: "I can do nothing to help you" → "There
+  is nothing I can do to help you"); a paragraph filled
+  with size and quality words (huge, big, foolish,
+  interesting, tiny, unlucky, last); Speaking:
+  PREFERENCE language — "Would you like tea or
+  coffee?" "I'd prefer tea" — and a hotel agent/client
+  role-play built on I'd prefer / I'd like / I must
+  have; Dictation: HOMOPHONES (fair/fare given; buy,
+  one, which, two, no, here, see, there, hare, nun);
+  the poem's work builds a must/must-not list of the
+  child's do's and don'ts and turns "I wish I were…"
+  into talk and neighbourhood work-cards.
+- **U9 Desert Animals** (non-fiction — gerbils in cool
+  burrows and darkling beetles catching moisture on
+  their legs; more than 2,300 kinds of snakes, fifteen
+  centimetres to more than eleven metres; the
+  rattlesnake, whose rattle carries thirty metres but
+  which "hears" only through ground vibrations and
+  would not hear a shout; banded mongooses, about
+  twenty together, alarm calls, kittens raised by the
+  whole group; the camel — thirty gallons, "about five
+  hundred full glasses," in ten minutes, and up to ten
+  months without drinking; Dromedary one hump,
+  Bactrian two; "they don't store water — as many
+  people wrongly believe — they are full of fat") ·
+  **Whatif** (poem, Shel Silverstein — "Some Whatifs
+  crawled inside my ear"; Whatif I flunk that test?
+  Whatif green hair grows on my chest?). TAUGHT:
+  true/false ×5, including the trap "Camels store water
+  in their humps" (false); a dictionary box of words
+  (harsh conditions, harmless, survive, intruder,
+  threatened, predators, prey, continually) filled
+  into a passage; Speaking: SUPERLATIVE questions
+  (tallest animal, fastest, hottest/coldest place,
+  largest animal, tallest mountain, rainiest place,
+  oldest living animal) with learners adding their own;
+  Thinking about Language: the MOST…BUT pattern —
+  five sentences built from percentage clues ("Most
+  snakes are quite harmless, but a few are poisonous"
+  as the model) — and CANNOT with HAVE TO/HAS TO in
+  seven paired sentences ("You cannot reach the island
+  by land or air; you have to go by boat"); Writing:
+  a journey through a desert in a couple of paragraphs.
+  The poem's work NAMES THE IMAGE: "Can words crawl
+  into your ear? This is an image" — learners list more
+  images, list their own whatifs, and write a five- or
+  six-line Whatif poem.
+- **U10 The Banyan Tree** (Ruskin Bond, slightly
+  abridged — the tree "as old as Dehra Dun itself"; the
+  grey squirrel who delved into his pockets; the fig
+  season crowd of bulbul, parrots, myna and crows; the
+  platform library — Treasure Island, Huckleberry Finn,
+  The Story of Dr Dolittle; the cobra–mongoose fight
+  watched from the tree, with the myna and the jungle
+  crow as fellow spectators and the crow killed for
+  interfering). The unit OPENS with a photo-caption
+  text box telling the whole fight in advance.
+  TAUGHT: sentence completions; the two champions'
+  qualities harvested into a Mongoose/Cobra table;
+  the fight's actions put in proper ORDER; 'round' in
+  its fight sense; tree words used differently (leaves,
+  branch, fruit, root, bark — in a paragraph about
+  Hari's job); movement-word fills (dived, gliding,
+  sprang, darting, whipped…back, delving); violent-
+  collision words completed (thudding, collide,
+  bumped); WOULD vs COULD taught in a printed box —
+  "'Would' tells us what the author used to do, or
+  what used to happen. 'Could' tells us what the
+  author was usually able to do" — with the italicised
+  phrases of Grandfather's old-days sentences replaced
+  by would/could; Speaking: AS…AS vs -ER THAN spoken
+  from data sets (heights — Zeba 155 cm, Ruby 150 cm,
+  Rani 155 cm; weight lifters; city temperatures;
+  pencil lengths), with the spelling note that in
+  'hot' the t doubles before -er; Writing: "My
+  Favourite Place," a short paragraph — where it is,
+  what you do there, why you like it.
 
-INDIA CLASS 6 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26)
+Slips and printing notes, recorded as printed: (1) the
+margin gloss for "deviate" is printed twice in U7
+(against ¶14 and again against ¶16). (2) U10's first
+exercise prints "The small gray squirrel" with the
+American spelling, while the story itself (¶3) prints
+"grey" — in the same book whose U4 teaches the
+British/American spelling split. (3) The Know Your
+Country answers are printed far from their questions
+by design (U3's at p.40, U5's at p.123, U6's at p.137),
+each box naming its answers page.
+
+INDIA CLASS 6 FULLY READ — 2026-10-26 (full re-read
+under the FULL READS ONLY law; the basics-only MAPPED
+filing it replaces is superseded). CITATION CHECK
+PASSED — one anchor per unit verified in the chapter
+text itself: U1 the ellipsis rule, "When we speak, we
+often leave out words that can easily be guessed"
+(fehl101); U2 "This is called a simile" (fehl102); U3
+"This made Taro sadder than ever" and the comparative
+set harvested from the story (fehl103); U4 the
+British/American spelling table, colour/color
+(fehl104); U5 the reproduced dictionary page, term/
+test entries (fehl105); U6 "[Based on Howard Gardner's
+theory of Multiple Intelligences]" (fehl106); U7 the
+set-phrasal-verb definitions, "set aside — save or
+keep for a particular purpose" (fehl107); U8 the
+'there' rewriting models and the fair/fare dictation
+(fehl108); U9 the most…but models and the cannot/have
+to pairs (fehl109); U10 the would/could box, "'Would'
+tells us what the author used to do" (fehl110).
 
 ## Class 7 — Honeycomb (Textbook in English for Class VII)
 
