@@ -196,6 +196,33 @@ liqlearns-courses/
   textbook, it says this" — no page pictures and no copied
   text are sent out for checking; the reference itself is
   the proof.
+- THE TWO-WAY RULE (his design, ruled 2026-10-26): the
+  books and the course must match BOTH ways. Everything
+  in the books must be in the course — nothing a book
+  teaches gets dropped. And everything in the course
+  must be in the books — nothing in a lesson is invented
+  (the provenance test is this direction). It must work
+  for a person, too: he can open any book, find a thing,
+  ask the AI "explain this / make a course on this," and
+  be pointed to the lesson that teaches it; open the
+  lesson, learn it there. So every book part knows its
+  lesson, and every lesson part knows its book page.
+- THE DONE STANDARD (his design, ruled 2026-10-26): we
+  are a tutorial platform. We must know everything in
+  the books, explain it better than anyone, and make
+  sure the learner really understands it. When a learner
+  opens the app for a certain thing and learns it, they
+  close the app DONE with that thing — not half-taught,
+  not "come back later and maybe." A lesson that leaves
+  the thing shaky is not finished.
+- THE DASHBOARD FEELING (his design, ruled 2026-10-26):
+  when learners open the app and see their dashboard,
+  they should feel: I am trying, I am getting somewhere,
+  I am doing great — AND there is a skill open in front
+  of me that I can still learn to be better. Great now,
+  and able to be the best. The dashboard shows real
+  progress they have honestly made, plus the next skill
+  opening ahead of them — pride and a road, both.
 - RANKED AND UNRANKED COURSES (his design, ruled 2026-10-26): a
   course can be taken two ways. RANKED is the platform's side —
   "amongst each other, among different people": the shared

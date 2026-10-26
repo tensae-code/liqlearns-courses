@@ -8122,168 +8122,608 @@ Term 2. Still owed as a full re-read: Secondary 12.
 
 ## Secondary 12 Term 1 — English (Student's Book, with the Novel's first half bound in)
 
-*Basics-only filing. SOURCE NOTE: Secondary 12's two
-terms arrive as ONE PDF — English_language_Sec3.pdf
-(11,564,655 bytes, 286 pp., processed copy, real text
-layer) — Term 1 at PDF pp.1–155, Term 2 at pp.156–286.
-This section files Term 1; the next files Term 2 from the
-same read.*
+FULLY RE-READ 2026-10-26, page by page (the basics-only
+filing of the same day replaced in full). One PDF holds
+both terms of Secondary 12: Term 1 at PDF pp.1–155,
+Term 2 at pp.156–286. GPS Publishing; reviewed by Prof.
+Zeinab El-Naggar, Prof. Attia El-Sayed, Dr. Mai Kamal,
+Mr. Reda Shalby, Mr. Mohamed Gomaa, Mr. Mostafa Zaghlol,
+Mr. Ayman Elsayed; CACD team Eman Mahmoud Youssef /
+Amira Fawzy Ahmed / Hassan Ramadan Ibrahim / Ghada
+El Sayed Mohamed; general supervision Dr. Akram Hassan
+Mohammed; © MoETE 2025/2026; the print spec claims 112
+pages for this share; no ISBN/deposit in the book. The
+year's writing length is 180–200 words almost everywhere
+— the top of the Egypt run. Secondary unit shape holds:
+five lessons (L1 reading, L2 listening, L3 listening +
+Language in Context box, L4 reading, L5 writing craft).
 
-Cover: "Secondary Schools - Year Three - Term 1 —
-2025 - 2026." Contents (p.3): U1 Inside the World of Care
-p.12 · U2 The Power of Machines p.24 · U3 Protect Nature,
-Protect Future p.36 · Review 1 p.47 · U4 Marine Life p.55
-· U5 From Muscles to Mindset p.68 · U6 Let's Hang Out!
-p.82 · Review 2 p.96. Five-lesson Secondary shape and
-exam-shaped Reviews as before. Start Smart (pp.10–11)
-reviews Secondary 11.
+Start Smart (pp.10–11): a time-management reading
+(managing time wisely, habit-tracker apps, mistakes as
+learning); a train-station listening (a return ticket to
+Cairo); morning-routine speaking; a short essay of
+180–200 words on 3 activities you do every morning; a
+mixed-tense language exercise (present simple vs
+continuous, past continuous interruptions, future
+continuous "This time next week, I … (lie) on the beach!",
+a comparison item).
 
-**Grammar boxes (Language in Context, L3):**
-- U1 TWO boxes (pp.18–19): Present Perfect Simple (form
-  and focuses; the passive form — Object + have/has + been
-  + p.p.) and **Present Perfect Continuous — BOXED at
-  last**: Have/Has + been + Present Participle; actions
-  started in the past and still continuing; recently
-  finished actions with a visible result now; emphasis on
-  duration; temporary habits. (The Egypt run's last
-  unboxed tense is now boxed.)
-- U2 Reported Statements restated (p.29): pronouns change;
-  "that" after reporting verbs is optional; the verb
-  steps back (present → past; past → past / past perfect).
-  The Scope adds reported commands to this unit.
-- U3 Modal Verbs of deduction, blame and regret (p.42) —
-  the run's most exact modal statement, with certainty
-  numbers: present deduction (must = 95–100% sure true;
-  may/could = 50%; might = 30%; can't = 95–100% sure NOT
-  true) and past deduction (must have / may have / might
-  have / can't have + past participle), then blame and
-  regret: should have / shouldn't have + past participle.
-- U4 Compound Adjectives (p.60): two or more words, often
-  hyphenated, acting as one describing word before a noun
-  (hyphens before the noun, usually none after a linking
-  verb) — with the seven common forms: Number + Noun
-  (a three-hour meeting); Adjective + Past Participle
-  (well-dressed); Adjective + Present Participle
-  (good-looking); Adverb + Past Participle
-  (highly-respected); Noun + Present Participle
-  (time-saving); Noun + Past Participle (home-made);
-  Noun + Adjective (world-famous). New in the run.
-- U5 The Causative (p.74): have/get used when we arrange
-  for someone else to do something — active: have +
-  person + infinitive, get + person + to + infinitive;
-  passive form: have/get + object + past participle;
-  beside it make (forced), let and allow (permission).
-  New in the Egypt run.
-- U6 Reported Questions (p.88): the four basic rules —
-  word order straightens (no inversion), the tense steps
-  back, connecting words (if/whether for yes–no, the
-  question word for Wh-), and no question mark: a reported
-  question is a statement.
+### Unit 1 — Inside the World of Care (SB p.12)
+- L1 "My Day in the Hospital" (reading, p.13): "A Day in
+  the Life of a Hospital Nurse" — Nurse Sarah's 12-hour
+  shift; idiom work is now a named strand (Idiom Tip:
+  an idiom is a fixed multi-word expression whose meaning
+  can't be deduced from its words; "spring into action",
+  "Teamwork makes the dream work"); learners hunt 5 more
+  hard-work idioms online; nurse/patient role-play.
+- L2 "Emergency Call" (listening, p.16): a 123 emergency
+  call; CPR, pulse, consciousness, paramedics; the pair
+  re-enacts the call.
+- L3 "Tired Hands, Caring Hearts" (listening + Language
+  in Context, pp.17–19): **the PRESENT PERFECT SIMPLE box
+  (active AND passive: object + have/has + been + p.p.)
+  and the PRESENT PERFECT CONTINUOUS box** (have/has +
+  been + present participle — actions started in the past
+  still continuing, recently finished with a visible
+  present result, duration, temporary habits; "I'm tired
+  because I have been studying all night"). THE PPC IS
+  BOXED AT LAST — it closes the standing hole of the
+  Egypt run: required and examined since Secondary 10,
+  never stated until here. Writing: a nurse's shift note
+  (condition, events/changes, what the night nurse must
+  do, treatment given, how it made you feel).
+- L4 "Beyond the White Coat" (reading, pp.20–21): a
+  night in the ER (Dr. Maha, Dr. Basem, Nurse Noura; a
+  swallowed coin removed by scope); four idioms glossed
+  in the lesson (rained cats and dogs, soaked to the
+  skin, jump into action, pale as a ghost); a
+  Comprehension Tip: main idea + supporting details +
+  structure.
+- L5 "My Blog Post" (writing, pp.22–23): the BLOG POST
+  Tip Box (catchy title, introduction 1–2 paragraphs,
+  body 2–4, conclusion 1–2; informal/semi-formal,
+  engaging, not too long); the scrambled model "My
+  Unwelcome Visitor: A Recent Cold Experience" to label;
+  task: a blog post of 180–200 words, "My Favorite Way
+  to Relax After a Busy Day".
 
-**Writing (per Scope and the lessons):** reviewing
-writing models + peer review (U1; its L3 task is a nurse's
-shift note) · a persuasive essay (U3) · descriptive
-writing (U4) · an online review (U6).
+### Unit 2 — The Power of Machines (SB p.24)
+- L1 "Machines in Egypt: Past and Present" (reading,
+  p.25): levers and ramps to AI and 3D-scanned artifacts;
+  idioms (lay the groundwork, full steam ahead);
+  speaking: present an invented machine for Egypt.
+- L2 "Technical Support Call" (listening, p.27): Rania's
+  offline printer, drivers, troubleshooting; the pair
+  role-plays a new support call.
+- L3 "The Role of Machines" (listening + Language in
+  Context, pp.29–31): **REPORTED SPEECH — the
+  Statements box** (backshift present → past, past →
+  past/past perfect; pronoun changes; "that" optional)
+  **and the Commands & Requests box** (subject +
+  told/ordered/asked/warned + object + to/not to +
+  infinitive). Writing: a process description of a
+  familiar machine (180–200 words: what it is, step by
+  step, safety, conclusion); speaking: give instructions,
+  your partner reports them back in reported speech.
+- L4 "Our Machine-Driven World" (reading, p.32):
+  household appliances to smartwatches; a Context Clues
+  Tip.
+- L5 "For or Against?" (writing, pp.34–35): **the
+  ARGUMENTATIVE ESSAY Tip Box** (introduction with claim,
+  two reason paragraphs, opposing view + refutation,
+  conclusion; full phrase lists for stating/supporting/
+  opposing/refuting/concluding); the scrambled model
+  "Should Students Wear School Uniforms?"; task: an
+  argumentative essay of 180–200 words, "Should Mobile
+  Phones be Allowed in Class?"
 
-**The Novel — The Count of Monte Cristo** by Alexandre
-Dumas, adapted. Term 1 = Chapters 1–6 (PDF pp.106–146;
-questions pp.147–152, per-chapter word matching and
-more). Summary only: Edmond Dantès, a young sailor, is
-betrayed by jealous rivals and arrested on his wedding
-day; thrown into the Château d'If, he meets the Abbé
-Faria, who educates him and tells him of a great treasure
-hidden on the island of Monte Cristo; when Faria dies,
-Dantès escapes in the dead man's burial sack.
+### Unit 3 — Protect Nature, Protect Future (SB p.36)
+- L1 "Climate Justice and Global Activism" (reading,
+  p.37): the Global South bears the brunt; the Youth
+  Climate Lab; four burden idioms (bear the brunt, take
+  the heat, shoulder the burden, face the music); a
+  Compound Nouns Tip (climate change, carbon footprint…);
+  a Reading Tip: one-sentence-per-paragraph main ideas +
+  cause-and-effect connectors.
+- L2 "An Interview with a Meteorologist" (listening,
+  p.39): Tamer on Egypt's changing weather; a Weather
+  Expressions Tip (scorching hot, boiling, baking,
+  freezing cold, chilly, pouring with rain, humid,
+  stormy, foggy, overcast).
+- L3 "Climate Change and Coastal Cities" (listening +
+  Language in Context, pp.40–43): **the MODAL VERBS box
+  — DEDUCTION with printed certainty numbers**: present
+  (must + base = 95–100% sure it's true; may/could =
+  50% possibility; might = 30% possibility; can't =
+  95–100% sure it's NOT true) and past (must have /
+  may have / might have / can't have + past participle),
+  **plus BLAME AND REGRET: should have / shouldn't have
+  + past participle**. Writing: a descriptive essay of
+  180–200 words on what could happen if countries didn't
+  take urgent precautions.
+- L4 "Global Climate" (reading, p.44): sea-level rise
+  (82 mm above the 1983 average by 2016; 0.2–2 m by
+  2100; melting ice + thermal expansion; 275 million
+  people in low-lying coastal zones; amphibious
+  architecture).
+- L5 "How to Help Our Environment" (writing, p.46):
+  **the PERSUASIVE WRITING Tip** (clear opinion, strong
+  reasons and evidence, emotional appeal, persuasive
+  language, call to action); task: a persuasive essay of
+  180–200 words, "Small Actions, Big Impact".
 
-Back page (credits, PDF p.105): GPS Publishing; the same
-seven reviewers; CACD team: Eman Mahmoud Youssef, Amira
-Fawzy Ahmed, Hassan Ramadan Ibrahim, Ghada El Sayed
-Mohamed; supervision Dr. Akram Hassan Mohammed. Spec
-prints 112 pages (this Term's book is ~105 of the PDF's
-pages), 27 × 19 cm, 70 g, 180 g couché, 4 colours.
-No ISBN/deposit.
+### Review 1 (pp.47–54) — exam shape, items numbered
+continuously 1–53 in A–C
+A. Vocabulary: choose TWO correct answers of FIVE
+(synonyms) + MCQs. B. Language: reported speech,
+deduction modals, present perfect simple/continuous
+MCQs (incl. "structurally correct" items) + rewrites
+(reported speech; can't/might/must/could deduction).
+C. Translation both ways (items 50–53). D. Reading
+Comprehension: a friendship passage ("A friend in need
+is a friend indeed" — true friends now rare, "climbing
+on the shoulders of others", social-media friends of
+emojis). E. Writing: writing-knowledge MCQs (blog style,
+argumentative vs persuasive, punctuation sets) + write
+one of (a persuasive essay on school uniforms / a blog
+post, "What We Can Learn from Animals About Adapting
+to Change") + a six-line paragraph (an argumentative
+introduction / a blog introduction). F. The Novel:
+3 questions (Edmond's return to Marseilles; the wedding
+plans; why Villefort destroyed the letter).
 
-SECONDARY 12 TERM 1 MAPPED (basics-only — not a full read; full re-read owed) — 2026-10-26
+### Unit 4 — Marine Life (SB p.55)
+- L1 "A Colorful Underwater City" (reading, p.56):
+  coral reefs; idioms (a stitch in time saves nine, a
+  thing of the past); speaking: eco-tourism in the Red
+  Sea, advantages/disadvantages + solutions.
+- L2 "The Ocean's Gentle Giants" (listening, p.58): the
+  "Saving the Whales" podcast (drones, entanglement,
+  noise); speaking: human-made dangers to whales.
+- L3 "The Underwater World" (listening + Language in
+  Context, pp.60–62): **the COMPOUND ADJECTIVES box** —
+  two or more words, hyphenated before the noun, not
+  after a linking verb ("Mohamed Salah is a well-known
+  footballer / Salah is well known"); SEVEN forms:
+  number + noun (a three-hour meeting), adjective +
+  past participle (well-dressed), adjective + present
+  participle (good-looking), adverb + past participle
+  (highly-respected), noun + present participle
+  (time-saving), noun + past participle (home-made),
+  noun + adjective (world-famous). Speaking role-play: a
+  fussy customer and a persuasive waiter trading
+  adjectives.
+- L4 "Into the Depth of the Ocean" (reading, p.63):
+  deep-sea creatures, sharks, coral polyps, sea turtles;
+  literal vs figurative language named ("in deep water —
+  literally and figuratively"); participles as
+  adjectives throughout.
+- L5 (writing, p.67): the SHORT STORY lesson — a
+  three-part structure; the sea-woman legend as the
+  worked text (beginning/middle/ending taken apart,
+  participles-as-adjectives and an idiom to find in it);
+  task: write a short story about your adventure in
+  the sea.
+
+### Unit 5 — From Muscles to Mindset (SB p.68)
+- L1 "Discover Your Future!" (reading, p.69): physical
+  jobs to soft skills; the causative forms run through
+  the text before they are boxed (companies "get
+  advanced systems to complete repetitive jobs",
+  employers "have staff develop soft skills"); idioms
+  (stay ahead of the curve, think outside the box,
+  climb the career ladder); debate: "Will AI create
+  more jobs than it displaces?"
+- L2 "Skills for the Future" (listening, p.72): future
+  workforce skills; a 2030 role-play (pick the 3 skills
+  people will need most).
+- L3 "The Rapid Change in Technology" (listening +
+  Language in Context, pp.74–76): **the CAUSATIVE box**
+  — have + person + infinitive, get + person + to +
+  infinitive; passive have/get + object + past
+  participle ("She is getting her eyes checked"); and
+  MAKE (forced), LET and ALLOW (permission) beside
+  them — the causative family stated as one system.
+- L4 "The Power of Human Connection" (reading,
+  pp.77–79): a 2045 story — Dr. Sami's prize-winning
+  storytelling system against Amina, the café
+  storyteller whose stories no machine can match ("We
+  can copy the words, but we can't restore the
+  passion"); Think–Pair–Share: Machines vs Humans over
+  ten tasks.
+- L5 "Life in the Year 2050" (writing, pp.80–81): the
+  model narrative "My AI Assistant" (Noor, smart
+  glasses, 3D lessons); **the NARRATIVE WRITING Tip
+  Box** (7 characteristics: characters, setting, plot
+  in order, point of view, dialog and description,
+  theme, emotion and voice); task: a narrative story of
+  180–200 words — your day in 2050.
+
+### Unit 6 — Let's Hang Out! (SB p.82)
+- L1 "An Embarrassing Moment" (reading + invitations,
+  pp.83–85): the mortifying restaurant story (Rawan's
+  promotion; "hit the town"); a Speaking Tip for making
+  and responding to invitations (inviting / accepting /
+  declining politely formulas).
+- L2 "The Power of Socializing" (listening, pp.86–87):
+  a podcast on socializing's health benefits (hormones,
+  immune system, depression, anxiety); role-play:
+  convince the unconvinced friend.
+- L3 "A Beautiful Day with Friends" (listening +
+  Language in Context, pp.88–89): **the REPORTED
+  QUESTIONS box** (asked/wondered/inquired; 4 rules: no
+  inversion, tense one step back, if/whether for yes/no
+  questions and question words for wh-questions, no
+  question mark); writing: complete dialogs with
+  reported questions.
+- L4 "Why Hanging Out Matters" (reading, pp.90–92):
+  the science of socializing (packed schedules,
+  compromise, face-to-face vs online); writing task: an
+  essay of 180–200 words, "How important an individual
+  should be sociable".
+- L5 "Tell the World What You Saw!" (writing,
+  pp.93–95): **the REVIEW Tip Box** (a review informs
+  and persuades; 4-part structure: introduction and
+  overall impression, specific details, pros and cons,
+  conclusion and recommendation); the model review
+  "The Olive Tree – Great Food, Poor Service"; phrases
+  matched to functions.
+
+### Review 2 (pp.96–104) — items 1–66 + novel
+A. Vocabulary. B. Language: compound adjectives,
+participle adjectives ("The movie was very boring / The
+student was very tired"), causative, reported questions
+MCQs + rewrites (compound adjectives from brackets;
+causatives "I got… / They had…"; reported questions).
+C. Translation both ways (coral reefs; entertainment;
+staying ahead of the curve). D. Reading Comprehension:
+a summer-camps passage. E. Writing: review/story
+writing-knowledge MCQs + write 180–200 words (a
+narrative essay "An adventure with friends" / review
+your favorite book or novel) + a six-line paragraph
+(a body paragraph evaluating acting / a hopeful story
+ending). F. The Novel: 2 questions (knowledge is power;
+Abbé Faria's choice to teach).
+
+### The novel, Term 1 — The Count of Monte Cristo,
+Ch.1–6 (printed after Review 2; its own foliation)
+A ministry retelling, summary only: Ch.1 The Arrival at
+Marseilles (Dantès brings the Pharaon home, is promised
+her captaincy, the betrothal to Mercédès; the letter
+from Elba); Ch.2 A Treacherous Plot (the denunciation
+by Danglars and Fernand; Villefort reads the letter,
+finds it addressed to his own father, burns it, and
+sends the innocent Dantès to the Château d'If); Ch.3
+Betrayal and Arrest (the same events retold — see
+Slips); Ch.4 The Prison of Château d'If (years of
+despair; his father's death); Ch.5 A Ray of Hope
+(Abbé Faria, the tunnel, the teaching); Ch.6 The Secret
+of the Treasure (the escape, the Spada treasure on
+Monte Cristo, "a kingdom in a box" — Edmond Dantès
+dies and the Count is born). Each chapter is followed
+by a Chapter Questions block: a word-matching set
+(4–6 words) + about 6 answer questions mixing
+understanding, comparison, personal response and
+symbolism.
+
+Slips recorded as printed (Term 1):
+1. The print spec on the credits page claims 112 pages
+   for this book's share — the same series-template
+   number seen in Secondary 10 Term 1; Term 1 as bound
+   here (Student's Book + novel) runs far past it.
+2. The novel's Ch.2 and Ch.3 retell the same arrest and
+   interrogation in near-parallel — the retelling
+   repeats its own ground.
+3. U3's deduction table prints the certainty scale in
+   a scrambled visual order; the values as printed are
+   must 95–100% true, may/could 50%, might 30%, can't
+   95–100% NOT true.
+4. U5 L3's fill-in prints "Smarphone" for smartphone.
+5. Review 1 numbers its items continuously across
+   sections A–C (1–53) while D–F restart — as printed.
+
+SECONDARY 12 TERM 1 FULLY READ — 2026-10-26
 
 ## Secondary 12 Term 2 — English (Student's Book, with the Novel's second half bound in)
 
-*Basics-only filing, from the same PDF as Term 1 above
-(its Term 2 book, PDF pp.156–286).*
+FULLY RE-READ 2026-10-26, page by page (the basics-only
+filing of the same day replaced in full). Term 2 at PDF
+pp.156–286 of the same PDF as Term 1. GPS Publishing;
+same seven reviewers; the CACD team differs from Term
+1's (Eman Mahmoud Youssef / Amira Fawzy Ahmed / Maher
+Abd Raouf / Shaimaa Salah El Din Afifi); general
+supervision Dr. Akram Hassan Mohammed; © MoETE
+2025/2026; the print spec claims 132 pages; no
+ISBN/deposit in the book. Writing stays at 180–200
+words. Five lessons per unit, as in Term 1.
 
-Contents (PDF p.157): U7 At the Airport p.13 · U8
-A Journey Through Time p.26 · U9 The Universe's
-Mysteries p.37 · Review 3 p.49 · U10 Peoples' Hospitality
-and Kindness p.57 · U11 Literature p.68 · U12 University
-Life p.80 · Review 4 p.91. Same shape; Start Smart
-(PDF pp.165–166) reviews Term 1.
+Start Smart: a protecting-the-planet reading (echo-
+systems under threat, small actions multiplied); a
+machines-in-daily-life listening ("machines are tools…
+use them wisely"); a mini-dialog to complete (a lost
+foreign student helped).
 
-**Grammar boxes (Language in Context, L3):**
-- U7 TWO boxes (PDF pp.173–174): Past Perfect restated
-  (a completed action before another past action; events
-  put in the correct order) and **Past Perfect
-  Continuous**: Subject + had been + verb-ing — the
-  duration of an activity in progress up to a past point,
-  the activity itself rather than a single completed
-  action; duration vs later result; time expressions
-  (for two hours, all morning, since 9 a.m.).
-- U8 Active and Passive Voice as one system (PDF
-  pp.185–186): the two structures, then When to Use
-  Passive Voice — unknown agent, unimportant agent,
-  obvious agent, formal/scientific writing — and a
-  Grammar Summary (the by-agent may be dropped when
-  unknown, unimportant, or obvious). The L3 writing task
-  is an article of **180–200 words** — the writing length
-  steps up at Secondary 12.
-- U9 Verb Patterns (PDF p.196): verbs + infinitive
-  (want, need, hope, plan, decide, agree, refuse, offer,
-  promise, seem, appear, tend) and verbs + gerund (enjoy,
-  finish, avoid, suggest, practice, consider, imagine,
-  mind, risk) — the Prep 9 lists completed as a system.
-- U10 Relative Pronouns completed (PDF pp.216–217):
-  the full set with whom marked formal; the pronoun may
-  be dropped when it is the object; **reduced clauses** —
-  a past participle replaces the pronoun in a passive
-  clause, a present participle in an active one; defining
-  vs non-defining restated (no "that" in non-defining).
-- U11 Comparative and Superlative Adjectives restated
-  (PDF pp.228–229) with two refinements new to the run:
-  **absolute adjectives** (perfect, unique, dead, married,
-  empty) don't usually take more/most, and the **the +
-  comparative … the + comparative** structure (The sooner,
-  the better), with degree words (much, a lot, far; a
-  little, a bit, slightly) before a comparative.
-- U12 Question Tags in full (PDF p.239): eight rules —
-  positive → negative, negative → positive, same
-  auxiliary, do/does/did when there is none, "I am" →
-  "aren't I", everyone → plural pronoun, Let's → "shall
-  we", imperatives → "will you".
+### Unit 7 — At The Airport
+- L1 "Airport Adventures" (reading): Hazem Samir's
+  journey through Orly Airport (the perfume in the
+  carry-on, the two-hour delay, coffee with Jack);
+  four travel idioms glossed (in hot water, someone's
+  heart sinks, go with the flow, update someone on
+  something).
+- L2 "Airport Announcements" (listening): a traveler
+  with a flight problem; Mr. Ahmed's airport advice
+  (arrive early — 2 hours before an international
+  flight; prepare documents and extra clothes);
+  past perfect / PPC forms practised from the audio.
+- L3 "Paris or Berlin?" (listening + Language in
+  Context): **the PAST PERFECT box** (completed action
+  before another past action; form subject + had +
+  past participle; before/after/by the time/already/
+  just) **and the PAST PERFECT CONTINUOUS box**
+  (subject + had been + verb-ing; the duration of an
+  action in progress up to a past point, NOT a single
+  completed action; for two hours / all morning /
+  since 9 a.m.; result in the past — "She was exhausted
+  because she had been running for an hour"). Writing:
+  a story of something going wrong at the airport, told
+  in the past perfect / PPC. Speaking: travel problems
+  and solutions role-play (lost luggage, lost passport,
+  no hotel booking) with polite-phrase tips.
+- L4 "A New Experience" (reading): a first trip to
+  Tokyo — the passage is written in the unit's two
+  tenses throughout; speaking: a "My Dream Travel
+  Destination" presentation.
+- L5 "An Expository Essay" (writing): **the EXPOSITORY
+  ESSAY Tip Box** (explain like a teacher or tour guide;
+  introduction / body / conclusion; no new information
+  in the conclusion); a six-part worked structure for a
+  travel-preparation essay with per-paragraph linking
+  words, and an outline exercise ("How to Stay
+  Healthy"); task: an expository essay of 180–200
+  words, "ways to stay safe while traveling".
 
-**Writing (per Scope):** an expository essay (U7) · a
-travel report and a mystery story (U9) · a diary entry —
-an experience of unexpected kindness (U10) · a simple
-poem with a set structure (U11) · an opinion essay and a
-concise biography (U12).
+### Unit 8 — A Journey Through Time
+- L1 "The Crossroads of Civilizations" (reading):
+  Egypt at the crossroads of Africa and Asia (Nile,
+  Suez, confluence of cultures).
+- L2 (listening): civilizations through interviews and
+  narrated reports (per the unit outcomes; the
+  listening feeds the voice work of L3).
+- L3 (Language in Context + writing): **the ACTIVE AND
+  PASSIVE VOICE box** — use the passive when the
+  receiver matters more, and when the agent is
+  unknown, unimportant, or obvious, and in formal /
+  scientific writing; the agent (by + noun) can be
+  dropped. Writing: **an article of 180–200 words
+  describing one full day as a tourist guide in
+  Egypt, using at least 5 active and 5 passive
+  sentences**, with linking words.
+- L4 "Ancient China: The Middle Kingdom" (reading):
+  the Great Wall, the four inventions, the Silk Road,
+  the Terracotta Army.
+- L5 "A Descriptive Essay" (writing): the model "A
+  Beach at Sunset"; **the DESCRIPTIVE ESSAY Tip Box**
+  (paint a picture with words; the five senses;
+  similes vs metaphors; strong adjectives and adverbs;
+  logical order); task: an essay of 180–200 words, "A
+  Day You Spent at the Egyptian Museum".
 
-**The Novel, second half:** Monte Cristo Chapters 7–12
-(questions at PDF pp.275–283). Summary only: Dantès
-escapes to freedom, finds the treasure on Monte Cristo,
-and returns as the mysterious Count — rewarding the
-friends who stayed loyal and methodically ruining the
-men who betrayed him, until, his revenge complete, he
-chooses mercy and a new dawn.
+### Unit 9 — The Universe's Mysteries
+- L1 "A Journey to a Black Hole" (reading): the event
+  horizon, black holes as symbols of the unknown —
+  "they remind us of two things: the universe is full
+  of mysteries, and curiosity is the key".
+- L2 "Misconception" (listening): a black-hole
+  broadcast (myth vs fact: they only pull in what gets
+  very close; they help hold galaxies together; we
+  cannot see them directly); speaking: "Myth or Fact?"
+  pairs.
+- L3 (listening + Language in Context): **VERB
+  PATTERNS as a system — to-infinitive vs gerund**,
+  including the meaning-change verbs (stop / remember
+  / try / forget) already met in Secondary 10, now
+  drilled as the unit's grammar (refuse to guess,
+  enjoy imagining, avoid being late, suggest going);
+  active vs passive in science reporting reviewed
+  beside it.
+- L4 (reading/writing): the 2019 black-hole photograph
+  — learners write a NEWS REPORT on the first image
+  ("Imagine you are a science journalist reporting on
+  the 2019 black hole image"), with a focused
+  paragraph on a unit concept.
+- L5 (writing): **the MYSTERY STORY Tip Box** (4 steps:
+  think of a mystery, create a detective, add clues
+  AND red herrings — 2–3 real clues and 1 red herring,
+  solve it so the answer fits the clues); a clue hunt
+  (the stolen lunchbox) and a finish-the-story (the
+  missing paintbrush); task: your own 1-page mystery
+  story with title, detective, clues, surprise ending.
 
-Back page (credits, PDF p.284): GPS Publishing; the same
-seven reviewers; CACD team: Eman Mahmoud Youssef, Amira
-Fawzy Ahmed, Maher Abd Raouf, Shaimaa Salah El Din Afifi;
-supervision Dr. Akram Hassan Mohammed.
+### Review 3 — exam shape
+A. Vocabulary (two-of-five + MCQs). B. Language: past
+perfect / PPC / passive / verb patterns MCQs +
+"structurally correct" items + 15 rewrites (after /
+before / No sooner; being / by / be / been / spoken
+passives; denied / promised / admitted / suggested /
+decided / can't stand verb patterns). C. Translation
+both ways. D. Reading Comprehension: a locked-room
+mystery passage (Alistair Finch and "The Key of
+Shadows"). E. Writing: writing-knowledge MCQs
+(expository / descriptive / mystery craft, punctuation
+sets) + write one of (a descriptive essay, "The way
+your favorite teacher captivates a classroom" / an
+expository essay, "The pros and cons of online
+learning versus traditional schooling") + a six-line
+paragraph (an expository conclusion / a crime-story
+introduction). No F section — Term 2's novel is
+examined in the Chapter Questions blocks instead.
 
-SECONDARY 12 TERM 2 MAPPED (basics-only — not a full read; full re-read owed) — 2026-10-26 —
-SECONDARY 12 COMPLETE
+### Unit 10 — Peoples' Hospitality and Kindness
+(the unit title prints the plural possessive "Peoples'"
+— as printed)
+- L1 (reading): kindness and hospitality stories (per
+  the unit outcomes; conversations and short stories
+  across cultures).
+- L2 (listening): three travelers helped by strangers
+  — Maria (car trouble, an elderly couple in Greece),
+  James (taken in by a Colombian family), Kanokwan (a
+  shop owner in Egypt who gave her a tour and tea);
+  learners tabulate speaker / place / problem / acts
+  of kindness / feelings and retell.
+- L3 "A Kind Stranger" (listening + Language in
+  Context): Magda's car breakdown and the shelter she
+  later opened to return the kindness; **the RELATIVE
+  CLAUSES box in full** (who / whom / whose / which /
+  that / when / where; defining vs non-defining with
+  the commas rule and no "that" in non-defining;
+  omission when the pronoun is the object) **and the
+  REDUCED forms**: past participle for a passive
+  clause ("the car stolen last night"), present
+  participle for an active clause ("the man talking
+  to my father") — the reduced relative clause,
+  closing the line opened in Secondary 11.
+- L4 "Welcoming Strangers" (reading): hospitality in
+  individualistic vs collectivist societies (a planned
+  dinner party vs a way of life; mint tea in Morocco;
+  refusing food as impolite).
+- L5 "A Diary" (writing): **the DIARY Tip Box** (date
+  and day, "Dear Diary", opening line, body of events
+  and feelings, closing thought/wish; feelings wheel
+  and sticker-chart activities); task: a diary entry
+  of 5–6 sentences — a traveler who received
+  unexpected kindness.
 
-**EGYPT SET: 26 of 26 FILED, 2026-10-26 — fully read
-through Secondary 11 Term 2; Secondary 12 is MAPPED
-(basics-only) and owes a full re-read under his ruling
-of 2026-10-26.**
+### Unit 11 — Literature
+- L1 "The Many Kinds of Literature" (reading): the
+  five kinds taken one by one — novels, poetry, drama,
+  folktales, essays ("to connect people through
+  words"); literature collocations (express ideas,
+  capture…, argue a point, think deeply).
+- L2 "Voices in Literature" (listening): an interview
+  with the writer Daniel (inspiration from library
+  reading; writes every morning; failure is a chance
+  to learn; advice to young writers).
+- L3 (Language in Context): **COMPARISON RESTATED IN
+  FULL, with the two additions**: **ABSOLUTE
+  ADJECTIVES** (perfect, unique, dead, married, empty
+  take no more/most — with the book's own rhetorical
+  exception quoted: "a more perfect union") and **the
+  + comparative …, the + comparative … structure**
+  ("The sooner, the better. The more you study, the
+  easier the test becomes"); intensifiers much / a lot
+  / far and a little / a bit / slightly before a
+  comparative. Speaking: Novels vs Short Stories in
+  comparatives.
+- L4 "The Joy of Poetry" (reading): Wordsworth's "I
+  Wandered Lonely as a Cloud" — the daffodils read as
+  an excerpt with commentary (summary-level only
+  here; the poem itself is the book's).
+- L5 "My First Poem" (writing): **the POEM steps**
+  (choose a topic; feelings and images; adjectives and
+  comparisons; short lines; rhyme optional) worked on
+  the Wordsworth excerpt; task: a 4-line poem about
+  your favorite place with one adjective, one
+  comparison, one feeling word.
+
+### Unit 12 — University Life
+- L1 "How Should Secondary Students Choose Their
+  Universities?" (reading): subject first, then the
+  university's strengths, location, advice; writing
+  task: an OPINION ESSAY of 180–200 words — the most
+  important factor in choosing a university.
+- L2 "Apprenticeships" (listening): Mona's path (a
+  tailoring course alongside a shop job; a theatre
+  costume apprenticeship; the waistcoat at rehearsal);
+  role-play: career counselor and student.
+- L3 "School Life" (listening + Language in Context):
+  school vs university study; **the QUESTION TAGS box
+  in EIGHT RULES**: positive → negative tag; negative
+  → positive; same auxiliary; no auxiliary → do/does/
+  did; "I am" → "aren't I"; everyone → singular verb
+  but plural pronoun ("Everyone knows the answer,
+  don't they?"); Let's → "shall we?"; imperatives →
+  "will you? / won't you?" — the fullest tag statement
+  of the run, closing the line Sec 11 T2's review
+  opened.
+- L4 "Real Paths, Real Passions" (reading): three
+  students on unusual degrees — Rana (Digital and
+  Social Media; 12 weeks in an agency; 91% employed
+  straight after graduation), Adel (Ancient Egyptian
+  history), Hind (Red Sea Diving Science and
+  Technology).
+- L5 "Writing a Biography" (writing): **the BIOGRAPHY
+  structure** (who / when and where / what / why
+  important; introduction, early life, major
+  achievements, later life, conclusion; past tense,
+  third person, dates and linking words); the model
+  biography of Naguib Mahfouz (1911–2006, Cairo
+  Trilogy, Nobel 1988); task: a biography of 180–200
+  words about a person of your choice.
+
+### Review 4 — exam shape
+A. Vocabulary (two-of-five + MCQs). B. Language:
+relative pronouns, comparison, question tags MCQs +
+"structurally correct" items + rewrites (relative
+clause joins; comparative ↔ superlative conversions;
+suggested; the nobody/everybody tag rewrite; "He must
+be joking" → can't). C. Translation both ways
+(hospitality; literature as a mirror of the soul — its
+printed option (a) carries "services" for serves and
+"humane soul", as printed). D. Reading Comprehension:
+a folk-stories passage (oral treasures; Anansi;
+UNESCO intangible heritage). E. Writing:
+writing-knowledge MCQs (reviews, idioms, story
+beginnings, punctuation sets) + write one of (a diary
+entry, "A secret I've never told anyone" / a short
+poem, "The change of seasons") + write one of (a diary
+entry, "The first time I traveled alone" / a conclusion
+paragraph for a biography, "A Famous Scientist Who
+Changed the World"). No F section.
+
+### The novel, Term 2 — The Count of Monte Cristo,
+Ch.7–12 (its own foliation)
+Summary only: Ch.7 Escape to Freedom (the escape, the
+smugglers, the treasure found again, the return to
+Marseilles — his father dead of hunger and sadness,
+Mercédès married to Fernand; Morrel's company secretly
+saved). Ch.8 The Island of Monte Cristo (the island
+made a fortress and secret base; the oath — "reward
+the faithful and punish the wicked"; Faria's warning
+against hatred). Ch.9 A New Identity (Paris; the masks
+— the Count, Abbé Busoni, Lord Wilmore; the enemies
+grown rich: Danglars the banker, Fernand Count de
+Morcerf, Villefort high in the law, Caderousse fallen;
+the visit to Caderousse). Ch.10 Justice and Revenge
+(the strikes begin — Caderousse first). Ch.11 The
+Fall of the Guilty (the enemies fall by their own
+weaknesses; mercy enters). Ch.12 A New Dawn (peace
+over revenge; forgiveness as the ending). Each chapter
+closes with the same Chapter Questions block (word
+matching + 5–6 questions), and the year's last novel
+questions press the justice-vs-revenge choice directly.
+
+Slips recorded as printed (Term 2):
+1. The unit title "Peoples' Hospitality and Kindness"
+   uses the plural possessive — as printed.
+2. U12's Learning Outcomes print "opinion eassay" for
+   essay — as printed.
+3. The two CACD team members change between Term 1's
+   and Term 2's credits pages (Hassan Ramadan Ibrahim
+   and Ghada El Sayed Mohamed out; Maher Abd Raouf
+   and Shaimaa Salah El Din Afifi in).
+4. Review 4's translation option (a) for the
+   literature sentence prints "Literature services as
+   a mirror to the humane soul" — a distractor with
+   two errors, as printed.
+
+SECONDARY 12 TERM 2 FULLY READ — 2026-10-26
+EGYPT FULLY READ — all 26 books, KG1 to Secondary 12,
+every book read page by page. CITATION CHECK (the
+separate pass, 2026-10-26): Sec 10 T2 18/18, Sec 11 T1
+20/20, Sec 11 T2 18/18, Sec 12 Term 1 12/12 and Term 2
+11/11 — every anchor found on its exact page. The
+pre-law reads (KG–Sec 10 T1) still owe their citation
+checks, whenever he calls for them.
 
 ## Curriculum stocking notes (moved out of CURRICULUM.md, 2026-10-26)
 
