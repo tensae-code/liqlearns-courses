@@ -68,3 +68,24 @@ The eight secondary books: Inglés and its Módulo
 Autoformativo for Grades 7, 8, 9, 10 (the Grade 7 and
 10 rows' source is the Telegram library; Grades 8–9
 were secured as GitHub releases). Reading continues.
+
+UPDATE 2026-10-26 (Telegram pull): the group holds
+only the two GRADE 10 books. Both were downloaded and
+verified on disk (working copies in the courses work
+folder): Inglés Décimo grado — 41,501,186 bytes,
+148 pp, source
+https://www.mined.gob.ni/biblioteca/wp-content/uploads/2024/09/LIngles10mo.pdf
+; Módulo Autoformativo Décimo grado — 96,665,527
+bytes, 180 pp, source
+https://www.mined.gob.ni/biblioteca/wp-content/uploads/2024/09/Modulo-Ingles-10mo.pdf
+. The Grade 7, 8 and 9 books and modules are NOT in
+the group (topic fully scrolled and searched). The
+same MINED filename pattern under the 2024/09 folder
+was probed for 7mo/8vo/9no (book and module) — all
+404; a Wayback CDX sweep for MINED Inglés uploads
+returned nothing. The six stay owed: Grades 8–9
+exist as secured copies in the private textbooks
+repo (unreachable from here); Grade 7's route is
+still open. When their turn comes, the two Grade 10
+books are read FULLY (his full-reads ruling) and then
+citation-checked, like everything else.
