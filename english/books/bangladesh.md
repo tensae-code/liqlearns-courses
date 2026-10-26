@@ -2259,27 +2259,726 @@ pages (pp.87, 90), the back cover (PDF p.97).
 
 ## Class 5 — English for Today, Class Five
 
-NCTB; 114 pp. (this copy the 2024 printing). Same route
-and the same single-theme shape: 25 units plus a
-Vocabulary. Sound Practice runs through it, joined by
-Stressed Syllables.
+NCTB. Like Class 4, an OLDER-series book: prescribed as
+the Class Five textbook from the academic year 2013,
+written under the curriculum 2012; first edition October
+2012, reprint September 2021, REVISED EDITION October
+2024, title page "Revised for the year 2025." First
+Edition Writers and Compilers: the Class 4 team —
+Shaheen M. Kabir, A. M. M. Hamidur Rahman, Md. Zulfeqar
+Haider, Goutam Roy; Illustration Editor Hashem Khan.
+Preface: the same October 2024 chairman's text as Class
+4's, including the curriculum-2012 sentence. 114 PDF
+pp.; printed pages run 2–108 (printed = PDF − 5);
+image-only PDF, read from page images. PDF p.5 is the
+Bangla teacher page. Back cover (PDF p.114): "Academic
+Year 2025, Class Five–English," the motto "Slow but
+steady wins the race." (the moral of Unit 14's story),
+the POWER / "Education is the most powerful weapon…"
+artwork, and the NCTB QR code.
 
-Units: Hello! · See you! (Sound Practice 1) · Saikat's
-Family (Sound Practice 2) · Leisure Time (Sound
-Practice 3) · Days in a Calendar (Stressed Syllables 1)
-· Eat Healthy · Be Healthy (Stressed Syllables 2) ·
-Write to Me Soon! · Occupations · My Home District
-(Sound Practice 4) · Where's the Library? · How Far Is
-Saint Martin's? · Telling the Time · Story: The Hare
-and the Tortoise · Happy Birthday · May I Come in? /
-Birds on Strings · Sport · City and Country / I Meant
-to Do My Work · The Liberation War Museum · Life Is
-Beautiful! · It Was a Great Day! · Completing Forms ·
-Stay Safe! · Cyclone Aila · Story: Why Does the Frog
-Croak? · Vocabulary.
+TWENTY-FIVE units — most now spanning FOUR printed
+pages — plus a six-page alphabetical VOCABULARY list
+(pp.103–108, roughly 600 words, no meanings), closed by
+"The End." The cast continues from Class 4's world and
+adds Andy Smith, a young NGO worker from the UK; Jessica
+Jones of London; Saikat's family in Bogura; and Sima of
+Sylhet. Grammar boxes are again LANGUAGE FOCUS; four
+units carry numbered SOUND PRACTICE lessons and two
+carry STRESSED SYLLABLES lessons.
 
-BANGLADESH CLASS 5 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26) —
-PRIMARY BAND (CLASSES 1–5) COMPLETE
+### Units 1–4 (pp.2–17)
+
+- U1 Hello! (pp.2–5): a station dialogue (summary):
+  Sima introduces herself to Jessica — Jessica is from
+  the United Kingdom and is going to Chattogram on
+  holiday with her father; Sima is from Sylhet, and her
+  train leaves in ten minutes; they part with "Have a
+  good journey" and "Nice meeting you." Pairwork
+  questions ×7. LANGUAGE FOCUS: Useful expressions —
+  at the beginning of a conversation ("May I introduce
+  myself? I'm…") and at the end (Nice meeting you. /
+  See you. / See you later.); pairwork self-
+  introductions. A second scene: Sima and Tamal at the
+  Town Hall Language Club, where they practise English
+  with CDs and DVDs; a new person, Andy Smith, an NGO
+  worker reading a book about Bangladesh, whom Tamal
+  met at the bookshop; questions ×6; the introduction
+  dialogue (Tamal introduces Sima Zaman; "Please call
+  me Andy. And can I call you Sima?"); LANGUAGE FOCUS:
+  introducing expressions ("Meet my friend / cousin /
+  classmate"; "Please call me Andy / Sima"); pairwork.
+- U2 See you!, Sound Practice 1 (pp.6–9): a street
+  dialogue (summary): Andy invites Tamal to the Book
+  Fair; Tamal can't come now — he has to take medicine
+  to his grandmother — but can meet in an hour; they
+  part with "See you later. Bye!" / "See you!" At the
+  fair, Andy introduces his colleagues (Mr. Saha, Mrs.
+  Haider, and Ms. Smith, a new English teacher) and
+  asks after Tamal's grandmother. LANGUAGE FOCUS: To
+  say goodbye (Bye! / See you later. / See you!);
+  roleplay: introduce a friend, then say goodbye.
+  LANGUAGE FOCUS: TITLES WITH NAMES — Mr. with the full
+  name or just the last name for men; Mrs. plus the
+  husband's last name for married women; Ms.
+  "(pronounced Miz)" for all women, which "does not
+  tell you if a woman is married or not." Read and
+  match name questions (full name → Andrew Smith; spell
+  the first name A-N-D-R-E-W; last name Smith; nickname
+  Andy); groupwork name-and-nickname table. Sound
+  Practice 1: the sounds F and V ("f is for fan. v is
+  for van. The fan is on the van.") with two short
+  rhymes (vine, fine); circle the f pictures, underline
+  the v pictures (vase, fish, vegetables, elephant).
+- U3 Saikat's Family, Sound Practice 2 (pp.10–13): a
+  family text (summary): Saikat Islam lives with his
+  parents in a flat in Bogura; his father, Mr. Rashidul
+  Islam, is a banker who writes stories and listens to
+  music in his free time; his mother, Mrs. Monwara
+  Islam, is a housewife who enjoys sewing and takes
+  dress orders from friends and neighbours; Saikat, in
+  Class 5, watches cartoons on TV every day and reads
+  English books to improve his English, especially
+  books about tigers and lions. Questions ×5. An
+  evening-routine TABLE (6–11 p.m. for Saikat, Mother,
+  Father); ask and answer from it; then answer in the
+  PRESENT CONTINUOUS for set times ("It's 6 o'clock.
+  What is Saikat's mother doing?" — "…is cooking.").
+  LANGUAGE FOCUS: PAST CONTINUOUS — "We use the past
+  continuous to talk about actions happening at a
+  specific time in the past" ("Yesterday at 7 o'clock,
+  I was walking to school."); past-continuous questions
+  on the table; talk about what YOU were doing
+  yesterday. LANGUAGE FOCUS: WHILE with the past
+  continuous ("…while my friends were riding in a
+  rickshaw"); complete while-sentences from the table.
+  Sound Practice 2: S, Z and SH (s is for Sue, z is for
+  zoo, sh is for shoe — a "Silly Sue has lost her
+  shoe!" rhyme) and the SZ sound of treasure / measure
+  / leisure with a four-line chant; circle s pictures,
+  underline sh, leave z alone.
+- U4 Leisure Time, Sound Practice 3 (pp.14–17): an
+  INTERVIEW dialogue (summary): Tamal and Nasreen,
+  reporters for the English Club Magazine, interview
+  Sima (Class 5 — walks in the park, sings, and talks
+  on the internet with her cousin in the UK: "talking
+  on the internet keeps you connected") and Biju (Class
+  5 — swimming keeps him fit, painting makes him happy,
+  reads sports magazines, especially football and
+  cricket); Sima loves funny stories, "especially
+  stories of Nasiruddin Hojja." Questions ×7 (including
+  "What is another way to say leisure time?").
+  Complete leisure sentences with It + verb + pronoun
+  patterns ("It keeps me fit." / "___ gives ___ pleasure.").
+  Pairwork: say what you do in your free time and why.
+  Six MAGAZINE kinds pictured (fashion, travel, health,
+  business, sports, wildlife); complete "A magazine
+  about X is a ___ magazine" ×6; talk about magazines
+  you like. LANGUAGE FOCUS: Making requests — "We make
+  requests with Would you / Could you…? We respond with
+  Sure / Of course … or Sorry, I can't. If we say no
+  to a request, it is polite to give a reason.";
+  pairwork requests from five situations. Sound
+  Practice 3: TH as in three ("Number three is above
+  the trees. / Think, think, think, / Three and
+  thirty-three.").
+
+### Units 5–8 (pp.18–33)
+
+- U5 Days in a Calendar, Stressed Syllables 1
+  (pp.18–21): the full CALENDAR 2025 with a time-facts
+  ladder printed under it (60 seconds in a minute, 60
+  minutes in an hour, 24 hours in a day, 7 days in a
+  week, 12 months in a year, 365 days in a year, 366 in
+  a Leap Year); say the days of the week; a jigsaw of
+  the twelve months in order; a MONTHS SONG ("January,
+  February, March… These are the twelve months of the
+  year…"); pairwork month questions, then make your
+  own. A January 2025 page: complete sentences FROM the
+  calendar; calendar questions ×5; today / yesterday /
+  tomorrow questions. LANGUAGE FOCUS: STRESSED
+  SYLLABLES — "English has its rhythm. Clap your hands
+  when you say the stressed syllables" (pen / hen /
+  cat / hat built into a phrase); a Jump! Clap! ACTION
+  RHYME in three verses of commands; say it again,
+  clapping on the stressed words.
+- U6 Eat Healthy (pp.22–25): twelve food pictures
+  (oranges, ice-cream, egg, chips, carrots, papaya,
+  milk, fries, fish, lettuce, chocolate, rice);
+  underline the foods you like, circle the ones you
+  think are healthy; pairwork. THE FOOD PYRAMID
+  picture: grains at the base, then fruits and
+  vegetables, then fish/meat/dairy/beans/lentils, fat
+  and oil at the top; sort the Activity A foods under
+  the five headings and add two of your own to each. A
+  reading text (summary): the pyramid shows the food
+  groups and how much of each to eat — grains (rice,
+  ruti, bread; potatoes are similar) give energy;
+  fruit and vegetables have vitamins and help eyes and
+  health; meat, fish, eggs and chicken have protein,
+  beans and lentils too; dairy (milk, curd, sweets)
+  helps teeth and bones; fat and oil are needed only
+  in small amounts; when we have choices, we need to
+  make good choices. T/F ×6; correct the false ones; a
+  groupwork SPOT-THE-MISTAKES pyramid (banana and fish
+  placed in the wrong levels); say how the pyramid's
+  SHAPE tells how much to eat.
+- U7 Be Healthy, Stressed Syllables 2 (pp.26–29): a
+  dialogue (summary): Nasreen is putting chocolate on
+  her ice-cream; Sima warns her; Nasreen says she
+  doesn't eat them regularly — her regular foods are
+  fruits and vegetables (pineapples, bananas,
+  cucumbers, lettuce); Sima's favourites are carrots
+  and tomatoes; Nasreen offers a taste: "We should eat
+  it quickly. It will melt soon in this hot weather."
+  Underline the foods; questions ×5; WRITE A SHORT
+  COMPOSITION about a healthy meal you ate, using given
+  words. LANGUAGE FOCUS: ADVERBS — "Adverbs say how an
+  action is done. The adverb usually comes after the
+  verb."; underline the adverbs in the dialogue
+  (regularly, carefully…); a mime game pairing actions
+  with adverbs (run/write/sing/draw × quickly/slowly/
+  loudly/quietly). LANGUAGE FOCUS: SHOULD AND
+  SHOULDN'T — "We use should and shouldn't to give
+  advice."; build sentences from a four-column table.
+  Stressed Syllables 2: the fish/dish/frog/dog build-up
+  again; a counting CLAP RHYME ("3, 6, 9 / Are you
+  fine?…"); clap the stressed syllables.
+- U8 Write to Me Soon! (pp.30–33): a text (summary):
+  Sima is at home ill with the flu — cough, sore
+  throat, fever; the doctor visited last night, gave
+  medicine, and left THE DOCTOR'S ADVICE in six boxes
+  (eat energy food even if not hungry; rest and stay
+  home; drink a lot of water or juice, better than soft
+  drinks; cover mouth and nose when coughing or
+  sneezing, use a tissue not your hand; wash hands
+  regularly; use your own plate, glass and cup or
+  others can catch your illness). T/F ×6; correct the
+  false ones; two multiple-choice completions; restate
+  the advice with should / shouldn't. Four symptom
+  words pictured (runny nose, headache, stomach ache,
+  chills). SIMA'S LETTER to Jessica, printed in full as
+  a model with headed address (102, Khadimnagar,
+  Katwail, Sylhet, Bangladesh; 12th March, 2025) —
+  content summary: she is home with the flu, coughing,
+  using a lot of tissues, a bad headache and stomach
+  ache stop her eating much though the doctor says she
+  should eat; she has chills; her friends can't visit
+  because they can catch it easily; "Write to me soon."
+  Find the letter's parts (heading, greeting, body,
+  closing, signature); questions ×4; WRITE JESSICA'S
+  REPLY from five written cues; address the ENVELOPE
+  (the model shows: To Jessica Jones, 23 Lake Road,
+  London NW3 7DP, United Kingdom; From Sima Ahmed).
+
+### Units 9–12 (pp.34–49)
+
+- U9 Occupations (pp.34–37): a two-part story text
+  (summary): when Raju was in Class 5 there was a fire
+  in his school; no one panicked; the teachers helped
+  the students leave quietly and safely; Raju watched
+  the firefighters put out the fire and thought about
+  them for a long time; after college he joined a
+  volunteer fire department, unpaid, and didn't mind;
+  now he is a full-time firefighter who also teaches
+  new firefighters and visits schools to talk about
+  fire safety ("They shouldn't panic. They should
+  listen to their teachers…"). T/F ×6; correct the
+  false ones; groupwork: why did Raju become a
+  firefighter? LANGUAGE FOCUS: Occupation nouns from
+  verbs — "Sometimes we can add –er or –or to a verb
+  to make a noun. This noun is the occupation related
+  to the verb." (She sings. / She is a singer.);
+  pairwork question-and-answer writing about jobs
+  (dressmaker, fruit seller, film actor, bus driver…);
+  groupwork: other occupations you know; WRITE A
+  COMPOSITION about someone you know from six
+  questions. LANGUAGE FOCUS: Capital letter, full stop
+  (.) and question mark (?) — the full rule set restated
+  (capitals at sentence starts and for names of people,
+  places, days and months; full stop ends a sentence
+  that tells something, gives a command, or makes a
+  statement; question mark ends a sentence that asks
+  for information); correct six sentences and REWRITE
+  THEM IN CURSIVE HANDWRITING; a partner checks your
+  composition for capitals and full stops.
+- U10 My Home District, Sound Practice 4 (pp.38–41): a
+  model district text (summary): Mamun's home district
+  is Kishoreganj, about 145 kilometres from Dhaka — 8
+  municipalities, 13 upazilas, 108 unions and 1745
+  villages; its name comes from an old landlord,
+  Brojakishore (or Nandakishore) Pramanik; the
+  Narasunda River flows through the town; sights
+  include the Solakia Eid fairgrounds, Government
+  Gurudayal College, the Pagla Mosque, Isah Khan's fort
+  at Jangal Bari, the Shah Muhammad Mosque at
+  Egaroshindhur and the Shiva Temple of Chandrabati;
+  famous people: Chandrabati, the first woman poet of
+  Bangla literature; children's writers Upendrakishore
+  Roy Chowdhury and Sukumar Roy; the painter Zainul
+  Abedin; and Syed Nazrul Islam, the first acting
+  President of Bangladesh (three portraits printed).
+  Questions ×6; a groupwork list of important places.
+  Prepare with six questions and WRITE A SHORT
+  COMPOSITION about YOUR home district. Sound Practice
+  4: THIS / THAT / THESE / THOSE with body-touch
+  commands ("Look at this. Look at that. … Touch your
+  ears and touch your nose."); underline the th-sound
+  words in a paragraph of an earlier unit. LANGUAGE
+  FOCUS: COMMA (,) — three uses gathered (in a list of
+  three or more, with NO comma before the last item as
+  Class 4's rule stated; after words that introduce a
+  sentence — Well, / Oh, / Yes, / No,; around the name
+  of a person addressed); correct seven comma-less
+  sentences and rewrite in cursive; find the commas in
+  an earlier dialogue and say why each is used.
+- U11 Where's the Library? (pp.42–45): a town MAP
+  (College Road, Park Street, Roads 13/14; bank,
+  hospital, college, library, supermarket, post office,
+  school, bus stop) with three direction dialogues
+  (summary): Salman is directed to the library on
+  College Road, next to the College — go straight, turn
+  left, it will be on your left; Kori is directed to
+  the supermarket — turn right on College Road, then
+  left on Park Street, on the corner; Tanim is directed
+  to the hospital — five minutes' walk, continue toward
+  Road 14, on the corner. Act them; ask and give
+  directions to four more places using them as models.
+  Complete sentences with PREPOSITIONS from pictures
+  (behind, in front of, next to, opposite, outside).
+  LANGUAGE FOCUS: Giving directions (use Excuse me! to
+  get attention; use commands; use prepositions for
+  locations); pairwork about your own town; WRITE the
+  directions from your school. LANGUAGE FOCUS: Using
+  our voices — the intonation rules restated (voice UP
+  for greetings and yes/no questions; DOWN for
+  statements and Wh- questions); pairwork personal
+  questions with the right voice movement.
+- U12 How Far Is Saint Martin's? (pp.46–49): a long
+  dialogue (summary): Andy asks Tamal about tourist
+  spots — Cox's Bazar, the most popular, which Andy
+  visited last month; Sreemangal for the tea gardens;
+  Madhabkundu for its waterfalls; and Saint Martin's
+  Island, the only CORAL island in Bangladesh, in the
+  Bay of Bengal, with coral in different shapes and
+  colours, clean blue water, turtles that nest on the
+  beach, many fish, and day cruises on wooden boats or
+  a sea truck. Questions ×5; act it; match bold words
+  to meanings (coral, nest, cruise — defined in the
+  book's own words). A map of Bangladesh: the route
+  dialogue (summary): Chattogram to Teknaf is about
+  228 kilometres; Teknaf to Saint Martin's is about 26
+  NAUTICAL MILES — "a unit for measuring distance at
+  sea" — about two and a half hours by sea truck.
+  Groupwork: point at districts and say how far each is
+  from Dhaka; DICTATION of a paragraph about the
+  districts of Bangladesh. LANGUAGE FOCUS: Exclamation
+  mark (!) — for strong feelings, surprise, and after
+  strong commands; correct seven sentences, adding
+  capitals and exclamation marks, rewritten in cursive.
+
+### Units 13–16 (pp.50–65)
+
+- U13 Telling the Time (pp.50–53): a TICK-TOCK day
+  rhyme in three verses (5 o'clock — wash yourself and
+  pray; 9 o'clock — take your bag and go to school; 4
+  o'clock — time to go back home); four pictured times
+  with captions (midnight — sleeping; 8 o'clock —
+  breakfast; 1 o'clock — at school; 6 o'clock — helping
+  father); pairwork: what are YOU doing at those times.
+  The conversions restated (60 seconds = 1 minute, 60
+  minutes = 1 hour, 24 hours = 1 day); "How long…?"
+  questions. P.52: A.M. and P.M. taught with sun/moon
+  clock diagrams ("12 o'clock midnight to 12 o'clock
+  midday are a.m. times… We are at school at 9 a.m. but
+  we are at home at 9 p.m. It's day at 2 p.m. but it's
+  night at 2 a.m."); say-what-you-do groupwork; the
+  clock's hands named (hour hand, minute hand) and
+  QUARTER / HALF times (10:15 quarter past ten; 10:30
+  half past ten; 10:45 quarter to 11). P.53: say the
+  times on four clocks; DIGITAL clocks (phone screens
+  showing 10:54 and 12:05); draw the hands for six
+  written times; a group clock game.
+- U14 Story: The Hare and the Tortoise (pp.54–57):
+  the fable in past-tense prose (plot summary): the
+  hare, the fastest animal in the forest, mocks the
+  tortoise, the slowest; the angry tortoise challenges
+  him to a race from a big tree to the river; the hare
+  runs out of sight, decides he has time for a nap, and
+  sleeps an hour under a tree; the tortoise walks
+  steadily on, passes him, and is almost at the finish
+  line when the hare wakes; the tortoise wins; the
+  hare is furious; the tortoise's closing line: "Slow
+  but steady wins the race!" Then: COMPLETE THE
+  QUESTIONS — given the answers, write the questions
+  ×8; mark sentences T (Tortoise) or H (Hare) ×5;
+  groupwork: what does the closing line mean; a
+  word-box cloze retelling ×7; match words with SIMILAR
+  MEANINGS (angry/furious, fast/quick, nap/sleep, next
+  to/beside, start/begin). LANGUAGE FOCUS: QUOTATION
+  MARKS — "We use quotation marks to show what someone
+  said… Use a comma before or after quotation marks.
+  Start the first word inside the quotation marks with
+  a capital letter."; underline the quoted sentences
+  in the story.
+- U15 Happy Birthday (pp.58–61): a birthday text
+  (summary): a birthday is the date a person was born;
+  people celebrate in different ways around the world;
+  often a cake with one candle for each year of the
+  person's life; people sing a song and the person
+  blows out the candles; some children have a party
+  with special food, games and wrapped gifts (a toy, a
+  book or clothes), but in some countries friends bring
+  no gifts — the most important thing is to enjoy the
+  day with friends and family. T/F ×6. The HAPPY
+  BIRTHDAY SONG printed (with "dear Nafis"); sing it
+  with four names and count cake candles to say each
+  age. DATES: how to write and say them ("01.01.25 =
+  1st January, 2025 — We say: The first of January,
+  2025."); complete today's date. The SHAHEED MINAR
+  photograph with a note: 21st February 1952 is the
+  Language Martyrs' Day — students in Dhaka gave their
+  lives for their mother language; the day is now
+  International Mother Language Day. Say five dates and
+  match them to the days they mark (26 March
+  Independence Day; 14 April Bangla New Year; 16
+  December Victory Day; 1 May International Workers'
+  Day; 20 November International Children's Day); write
+  six dates in words; write your own birthday in
+  numbers and words.
+- U16 May I Come in?, Birds on Strings (pp.62–65):
+  PERMISSION AND REQUESTS. Two dialogues (summary):
+  Sufia asks her mother "Can I go out and play,
+  please?" — yes, if homework is done, but not for too
+  long; Rashid, late for class, asks "Good morning,
+  teacher. May I come in, please?" — his father is
+  ill; they were at the doctor's chamber; Mrs. Alam
+  hopes he gets well soon. Groupwork: write the
+  expressions Sufia and Rashid use, and name the word
+  that makes their requests polite (please); act the
+  dialogues. A help dialogue (summary): Azim's mother
+  asks "Could you please help me?" and "Would you put
+  these dishes in the kitchen?" — "Of course, Mum." /
+  "Yes, Mum."; groupwork: which expressions does Mum
+  use; pairwork roleplays ×4 (borrow a pencil, ask
+  permission to watch TV, ask for help with homework,
+  ask for help carrying a heavy bag). BIRDS ON STRINGS:
+  a craft INSTRUCTIONS text (summary): you need a
+  hanger, 3 pieces of string, 3 pieces of coloured
+  paper, scissors and glue; trace the bird twice on
+  each paper, cut out, draw an eye; glue a string
+  inside each doubled bird; tie the strings to the
+  hanger. Find the ACTION WORDS in the instructions and
+  underline them; complete sherbet-making sentences
+  with verbs from a box (pour, stir, crush, drop,
+  drink); groupwork: say and write the steps to make
+  something (a sandwich, a cup of tea, a salad).
+
+### Units 17–20 (pp.66–81)
+
+- U17 Sport (pp.66–69): eight sports pictured (kabadi,
+  cycling, weightlifting, badminton, volleyball,
+  cricket, swimming, football). A dialogue (summary):
+  Anousha loves badminton (plays with her family on
+  weekends) and goes swimming and cycling a lot;
+  Baichong plays cricket and does weightlifting — "Not
+  very [strong], but I want to get stronger"; her
+  brother plays kabadi and volleyball; Baichong would
+  like to try kabadi and learn volleyball; Anousha
+  likes football more than volleyball; cricket is
+  Baichong's favourite. Read and circle the right words
+  ×6; pairwork sport questions ×4; write GO, PLAY or DO
+  before each sport, then a sentence about each;
+  DICTATION of a paragraph about cricket in Bangladesh.
+  THE OLYMPICS: a reading text (summary): the Olympic
+  Games is the biggest sports competition in the
+  world, held every four years in a different host
+  city; more than 200 nations send about 13,000
+  athletes to compete in more than 30 sports; the first
+  Games were held in Greece almost 3,000 years ago; the
+  modern Games started in 1896 and "there have been 31
+  Olympic competitions since then." Questions ×6. A
+  TABLE of eight Games (number, year, host city/country
+  with flags: 1/1896 Athens; 5/1912 Stockholm; 8/1924
+  Paris; 10/1932 Los Angeles; 14/1948 London; 17/1960
+  Rome; 19/1968 Mexico City; 20/1972 Munich); complete
+  eight sentences FROM the table using ordinal words.
+- U18 City and Country, I Meant to Do My Work
+  (pp.70–73): a poem, CITY STREETS AND COUNTRY ROADS by
+  Eleanor Farjeon (theme summary): the city has streets,
+  rattling trams, chimney breath that blots out the
+  sky, stiff lamp-posts; the country has roads, blue
+  carts with loads of sweet-smelling hay, mangolds and
+  grain, hedgerows, trees and rain "as sweet as the
+  sun"; the refrain asks to be taken back to the
+  country. Read aloud with correct stress and
+  intonation; groupwork: does the author prefer city or
+  country — underline the lines that tell you; which do
+  YOU prefer and why; make two lists (things in the
+  country / things in the city). A second poem, I MEANT
+  TO DO MY WORK by Richard Le Gallienne (theme
+  summary): the speaker meant to work today, but a
+  brown bird sang in the apple-tree, a butterfly
+  flitted across the field, the leaves called, the wind
+  sighed and a rainbow held out its shining hand — "So
+  what could I do but laugh and go?" Questions ×4 on
+  the poem's actions; groupwork discussion, ending by
+  COMPARING the two poems: do the poets have similar or
+  different opinions about the country?
+- U19 The Liberation War Museum (pp.74–77): the
+  reading text is set as a NEWS STORY in "Sunshine
+  Magazine — The Magazine by and for the Students of
+  Class 5": "A visit to the Liberation War Museum" by
+  Farhan Ahmed (summary): on 14 December the class went
+  on a field trip to the Liberation War Museum at
+  Agargaon, Dhaka, as part of their Bangladesh and
+  Global Studies course; the bus reached at 10 a.m.;
+  a guide welcomed them and gave a quick tour; first
+  they watched a video clip on the liberation war and
+  Independence; there are four permanent galleries with
+  rare photographs, documents, newspaper clippings and
+  objects used by freedom fighters and martyrs; in
+  "Gallery 4–Our Victory, Our Values" they fell silent
+  at the personal belongings of martyred intellectuals —
+  and IN THIS COPY the story's text ends there,
+  mid-sentence, at the foot of p.74; p.75 opens with
+  the activities. Questions ×5; number three events in
+  order; WRITE YOUR OWN Wh- QUESTIONS about the story
+  (Who, What, When, Where, Why, How) and exchange them
+  in groupwork; questions about the magazine itself
+  ×5; a general-knowledge matching (Rabindranath
+  Tagore wrote our National Anthem; Independence Day is
+  on 26 March; Victory Day is on 16 December); plan a
+  field trip of your own with WOULD (seven questions);
+  WRITE YOUR NEWS STORY in the exercise book.
+- U20 Life Is Beautiful! (pp.78–81): a two-part story
+  (summary): on a beautiful spring day Maria gets up
+  early and knows it is a nice day because the window
+  glass feels very warm; she hears the birds and smells
+  the flowers; she goes to school like any other
+  student — but Maria cannot see: she is visually
+  impaired and has been unable to see since she was
+  born. At school she learns by reading BRAILLE — "a
+  script that uses raised dots. Each letter is made
+  from dots. People move their fingers across the
+  raised dots to read." — which she learned as a young
+  child; her school books are in Braille; she enjoys
+  poems and history; her teacher says she is a good
+  learner. CHOOSE THE BEST ANSWER ×4 (three options,
+  a/b/c). The second part: Maria hopes to go to
+  university; she wants to set up a school of her own
+  to teach visually impaired children; before that she
+  wants to be a writer and write a book about her
+  feelings and experiences, to show other impaired
+  people "that they can do amazing things in their
+  lives." Questions ×3; pairwork on her goals. Then:
+  complete job-description sentences with jobs from a
+  box (business person, computer engineer, doctor,
+  farmer, pilot, teacher); pairwork WOULD LIKE — "Which
+  job would you like to do? Why?"; write three
+  sentences about your own future with would like.
+
+### Units 21–25 (pp.82–102)
+
+- U21 It Was a Great Day! (pp.82–85): a past-tense
+  RECOUNT (summary): last January the writer went to a
+  cub camporee at Sreemangal under Moulvibazar district
+  — a gathering of cubs from all over Bangladesh; ten
+  cubs and two leaders travelled by train from Dhaka;
+  they cleaned the camp area, set up tents, cooked rice
+  and chicken, played games with cubs from other parts,
+  sang songs and recited poems, and slept in tents.
+  The next day they visited Lowachara National Park,
+  walked quietly beside a stream so as not to frighten
+  the animals, and saw a GIBBON moving through the
+  trees; afterwards, at the Nilkantha Tea Cabin, they
+  drank its famous tea — a glass of tea of different
+  colours and flavours. CHOOSE THE BEST ANSWER ×5 (four
+  options). Answer seven questions about a great day
+  YOU had; pairwork; WRITE A SHORT COMPOSITION about
+  it (a model Sonargaon composition is printed in
+  handwriting-style type).
+- U22 Completing Forms (pp.86–89): a contrast text
+  (summary): Laila and Bithi are friends but very
+  different — Laila likes to run and swim, is very
+  active and talkative; Bithi is quiet, doesn't like
+  running or swimming, enjoys reading, especially
+  stories about other countries; Bithi's family can't
+  buy many books, so she borrows from the library.
+  Adjectives groupwork (active, clever, funny, kind,
+  quiet, talkative). BITHI'S LIBRARY CARD shown filled
+  (Naogaon Library; Bithi Alam; 160, Hospital Road,
+  Sadar, Naogaon; Naogaon Primary School; Class Five;
+  Age 10; signed), with the library promise printed on
+  it; a blank Noakhali Library card to complete. An
+  ENGLISH LANGUAGE CLUB application form shown filled
+  (Laila Karim; Date of Birth 9 August 2013; parents
+  Jahanara Karim and Ahmed Karim; 211, Hospital Road,
+  Sadar, Naogaon; Class Five; hobbies running, swimming
+  and talking to my friends; dated 21 January 2025);
+  complete a paragraph about Laila FROM the form; then
+  read a paragraph about Rokeya Khan (Class 4; born 18
+  September 2012; parents Anowar Khan and Aisha Haider;
+  Hospital Road, Naogaon; drawing and reading; signed
+  12 November 2022) and COMPLETE HER FORM from it.
+- U23 Stay Safe! (pp.90–93): four disaster PHOTOGRAPHS
+  to talk about and number against the words (cyclone,
+  earthquake, river erosion, tsunami). A dialogue at
+  the Fire Service and Civil Defence office (summary):
+  Anita and Asad tell the officer about the earthquake
+  in Nepal, their family's land lost to river erosion
+  last month, and a cyclone that destroyed buildings
+  and trees last year; the officer explains that TV
+  news can warn about cyclones and river erosion often
+  shows signs, but no one knows when an earthquake will
+  happen — "You shouldn't worry too much. We can
+  prepare for natural disasters." — and gives them a
+  leaflet. Questions ×5; groupwork: a disaster you
+  experienced or imagine. Four preparedness words
+  pictured (batteries, torch, first-aid kit, dried
+  foods); pairwork (Do you have any batteries…? — I
+  should get some.); complete sentences with them ×4.
+  A LISTENING CLOZE: complete the STAY SAFE! LEAFLET
+  with the words you hear (before / during / after an
+  earthquake: keep food and water, a torch and
+  batteries; get under a strong table, don't run down
+  the stairs, stay away from buildings and trees; don't
+  go inside unless safe, cover cuts with a clean
+  bandage, expect aftershocks); read the completed
+  leaflet; questions ×5.
+- U24 Cyclone Aila (pp.94–97): four photographs with
+  present-continuous captions (The river is rising. /
+  The river flooded the field. / The wind is blowing
+  the roof away. / The workers are repairing the
+  bridge.); number four sentences in story order, then
+  REWRITE them in the past tense in the correct order.
+  A long recount text (summary): Babul's family live on
+  the island of Dublar Char; Babul doesn't remember
+  Cyclone Aila, but his parents talk about that terrible
+  night in 2009 — his father had a grocery shop, his
+  mother worked in a fish farm, they shared a small
+  house with his grandparents; Babul was a baby, his
+  sister Nipa was six. On 25 May there was light rain in
+  the morning; in the afternoon the wind started and
+  people ran home; his father closed the shop; the
+  grandparents checked the emergency kit (torch working,
+  extra batteries; the kit went into a plastic box); by
+  evening the river was rising, the winds shook the
+  house walls "as if there was an earthquake," the roof
+  blew away, and the family saw trees — and, grandmother
+  still says, fish — flying through the dark sky. The
+  next day Nipa and grandfather were missing; his
+  father found Nipa in a field, holding onto a tree,
+  covered in mud, remembering nothing; the grandfather
+  was never found. Afterwards people worked together;
+  Nipa's school became the shelter; the government and
+  NGOs helped, but safe water and food ran short and
+  many people became ill; in time homes, bridges,
+  trees and crops were rebuilt; grandmother's closing
+  words: "Don't be sad, Babul. Grandfather wanted us
+  to live for the future." CHOOSE THE CORRECT ANSWER —
+  complete-the-sentence MCQs ×8 (four options each).
+- U25 Story: Why Does the Frog Croak? (pp.98–102): a
+  pourquoi tale in prose (plot summary): long ago frogs
+  had beautiful voices and could sing more beautifully
+  than the birds; Bluster the frog had the most
+  beautiful voice of all, but he would never share it
+  or teach the others — "My voice is mine. I can not
+  share it." Moxie the rabbit and Pluck the lizard plan
+  with the fox and the rat to TAKE his voice, meaning
+  to share it in pieces; the birds overhear the plan
+  from the tree. At midnight the two steal the sleeping
+  Bluster's voice into a glass jar; outside, the jar
+  falls and breaks — voice and jar in a hundred little
+  pieces; the animals search in the dark, find nothing,
+  and go home to sleep. In the morning the BIRDS, with
+  their good eyes, find every piece of the voice on the
+  ground and pick them all up; that afternoon the
+  animals wake to a beautiful song from the trees —
+  the birds singing with Bluster's voice. "And to this
+  day, the birds sing with Bluster's beautiful voice,
+  and Bluster, and all the other frogs, can only say
+  croak… croak." CHOOSE THE BEST ANSWER ×4; groupwork
+  feelings questions; underline the story's quotation-
+  mark sentences and its comma sentences; and the
+  book's closing activity E — answer in your exercise
+  book: "What was your favourite story in the book?
+  What did you enjoy learning about in English class
+  this year? What do you want to learn about in English
+  class next year?"
+
+### The Vocabulary list (pp.103–108)
+
+Alphabetical, A–Z, no definitions, about 600 entries
+including phrases (blow out, bus driver, dried food,
+film actor, first aid kit, free time, fruit seller,
+home district, in front of, let's chat, mother language,
+National Anthem, natural disaster, next to, post
+office, river erosion, sea truck, see you, sore throat,
+tea garden, Victory Day, visually impaired). "The End"
+at the foot of p.108.
+
+### Slips and points recorded as printed
+
+- U20 (p.78): "She cannot see the new green leaves on
+  the tress." — tress for trees.
+- U22 (p.89): Rokeya Khan's form is signed "12 November,
+  2022" inside a 2025 book whose other form is dated
+  21 January, 2025 — the older date stands as printed.
+- U19 (p.74): the museum news story's text ends
+  mid-sentence at the foot of the page in this copy
+  ("…of some of our martyred intellectuals"), with no
+  completion printed; the activities begin on p.75.
+- U25 (p.98): Bluster's refusal is printed "I can not
+  share it" (two words).
+- U12 (p.49) and elsewhere: several correction exercises
+  are set to be rewritten "using cursive handwriting" —
+  cursive is an assessed writing style in this book.
+- Recorded as facts, not errors: the Olympics text's
+  "there have been 31 Olympic competitions since then"
+  stands against its own table, which stops at the 20th
+  Games (1972); the calendar work is Sunday-first with
+  Friday–Saturday as the weekend days; Class 5's Sima
+  is "Sima Ahmed" on the envelope and "Sima Zaman" in
+  U1 — both as printed.
+
+BANGLADESH CLASS 5 FULLY READ — 2026-10-26 (full re-read,
+page by page from the book's page images; replaces the
+basics-only MAPPED filing)
+CITATION CHECK PASSED — 2026-10-26: anchors re-opened in
+the book itself and confirmed — the 2013 prescription
+and "Revised for the year 2025" (PDF p.2), imprint with
+the four writers and October 2012 first edition (PDF
+p.3), the curriculum-2012 Preface sentence (PDF p.4),
+Contents with all 25 units and Vocabulary at p.103 (PDF
+p.6), "Nice meeting you" expressions box (p.3), the Ms.
+"(pronounced Miz)" rule (p.8), the past-continuous box
+(p.11), while with the past continuous (p.12), the
+Would you / Could you request rule (p.17), the
+time-facts ladder (p.18), the Food Pyramid levels
+(p.23), the adverbs box (p.27), should/shouldn't (p.28),
+the doctor's six advice boxes (p.30), the letter's
+heading address and "Write to me soon." (p.32), the
+–er/–or occupation rule (p.35), Kishoreganj's 145
+kilometres and 1745 villages (p.38), the comma box
+(p.41), the direction dialogues on the map (p.43), the
+228 kilometres and 26 nautical miles (p.48), quarter
+past / half past (p.52), "Slow but steady wins the
+race!" (p.55), quotation-marks rule (p.57), the date
+format 01.01.25 (p.60), the Shaheed Minar note (p.60),
+"May I come in, please?" (p.62), the birds-on-strings
+materials list (p.64), go/play/do sports (p.67), the
+Olympics table ending at 1972 Munich (p.69), Farjeon's
+name on the poem (p.70), the museum story's mid-sentence
+end (p.74, re-opened singly), the Tagore matching
+(p.77), Braille "raised dots" (p.79), the gibbon at
+Lowachara (p.83), Bithi's library card (p.87), the Stay
+Safe leaflet's three parts (p.93), Aila's 25 May date
+(p.95), "Grandfather wanted us to live for the future"
+(p.96), Bluster's "I can not share it" (p.98), the
+closing reflection questions (p.102), the Vocabulary
+list's span (pp.103–108), the back-cover motto (PDF
+p.114).
 
 ## Class 6 — English for Today, Class Six
 
