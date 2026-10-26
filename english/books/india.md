@@ -127,3 +127,71 @@ TEN units, poem + story (Unit 9 is a single long poem):
 
 INDIA CLASS 5 FULLY READ — 2026-10-26 (basics-only) —
 MARIGOLD BAND (CLASSES 1–5) COMPLETE
+
+## Class 6 — Honeysuckle (Textbook in English for Class VI)
+
+NCERT, first edition February 2006; 2020-21 printing;
+ISBN 81-7450-485-0. Same copy route.
+
+The shape changes at Class 6: TEN units, each a PROSE
+piece + (in most units) a POEM, and every unit now runs
+set sections — Working with the Text, Working with
+Language, Speaking and Writing — so language work is
+explicit in every unit. "Notes for the Teacher" blocks
+sit between unit groups.
+
+- U1 Who Did Patrick's Homework? · A House, A Home
+- U2 How the Dog Found Himself a New Master! · The Kite
+- U3 Taro's Reward · The Quarrel
+- U4 An Indian-American Woman in Space: Kalpana Chawla ·
+  Beauty
+- U5 A Different Kind of School · Where Do All the
+  Teachers Go?
+- U6 Who I Am · The Wonderful Words
+- U7 Fair Play (prose; no separate poem in this unit)
+- U8 A Game of Chance · Vocation
+- U9 Desert Animals · Whatif
+- U10 The Banyan Tree
+
+INDIA CLASS 6 FULLY READ — 2026-10-26 (basics-only)
+
+## Class 7 — Honeycomb (Textbook in English for Class VII)
+
+NCERT, first edition February 2007; 2020-21 printing;
+ISBN 81-7450-676-4. Same copy route and same unit shape
+as Honeysuckle, teacher notes between unit groups.
+
+- U1 Three Questions · The Squirrel
+- U2 A Gift of Chappals · The Rebel
+- U3 Gopal and the Hilsa Fish · The Shed
+- U4 The Ashes That Made Trees Bloom · Chivvy
+- U5 Quality · Trees
+- U6 Expert Detectives · Mystery of the Talking Fan
+- U7 The Invention of Vita-Wonk · Dad and the Cat and
+  the Tree
+- U8 Fire: Friend and Foe · Meadow Surprises
+- U9 A Bicycle in Good Repair · Garden Snake
+- U10 The Story of Cricket (prose; no poem listed)
+
+INDIA CLASS 7 FULLY READ — 2026-10-26 (basics-only)
+
+## Class 8 — Honeydew (Textbook in English for Class VIII)
+
+NCERT; 2020-21 printing; ISBN 978-81-7450-821-8. Same
+route and shape (the last of the Honey- books).
+
+- U1 The Best Christmas Present in the World · The Ant
+  and the Cricket
+- U2 The Tsunami · Geography Lesson
+- U3 Glimpses of the Past · Macavity: The Mystery Cat
+- U4 Bepin Choudhury's Lapse of Memory · The Last Bargain
+- U5 The Summit Within · The School Boy
+- U6 This is Jody's Fawn (prose; no poem listed)
+- U7 A Visit to Cambridge · When I set out for
+  Lyonnesse
+- U8 A Short Monsoon Diary · On the Grasshopper and
+  Cricket
+- U9 The Great Stone Face–I
+- U10 The Great Stone Face–II
+
+INDIA CLASS 8 FULLY READ — 2026-10-26 (basics-only)
