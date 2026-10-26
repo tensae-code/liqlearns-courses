@@ -195,3 +195,124 @@ route and shape (the last of the Honey- books).
 - U10 The Great Stone Face–II
 
 INDIA CLASS 8 FULLY READ — 2026-10-26 (basics-only)
+
+## Class 9 — Beehive (Textbook in English for Class IX)
+
+NCERT, first edition February 2006; 2020-21 printing;
+ISBN 81-7450-502-4. Same route. ELEVEN units now, prose
++ poem, and the contents name the authors — from here
+the pieces are real literature with named writers.
+
+- U1 The Fun They Had (Isaac Asimov) · The Road Not
+  Taken (Robert Frost)
+- U2 The Sound of Music (Evelyn Glennie; Bismillah
+  Khan) · Wind (Subramania Bharati)
+- U3 The Little Girl (Katherine Mansfield) · Rain on
+  the Roof (Coates Kinney)
+- U4 A Truly Beautiful Mind · The Lake Isle of Innisfree
+  (W. B. Yeats)
+- U5 The Snake and the Mirror (Vaikom Muhammad Basheer)
+  · A Legend of the Northland (Phoebe Cary)
+- U6 My Childhood (A. P. J. Abdul Kalam) · No Men Are
+  Foreign (James Kirkup)
+- U7 Packing (Jerome K. Jerome) · The Duck and the
+  Kangaroo (Edward Lear)
+- U8 Reach for the Top (Santosh Yadav; Maria Sharapova)
+  · On Killing a Tree (Gieve Patel)
+- U9 The Bond of Love (Kenneth Anderson) · The Snake
+  Trying (W. W. E. Ross)
+- U10 Kathmandu (Vikram Seth) · A Slumber Did My Spirit
+  Seal (William Wordsworth)
+- U11 If I Were You (Douglas James) — a play; no poem
+
+INDIA CLASS 9 FULLY READ — 2026-10-26 (basics-only)
+
+## Class 10 — First Flight (Textbook in English for Class X)
+
+NCERT, first edition February 2007; 2020-21 printing;
+ISBN 81-7450-658-6. Same route and shape as Beehive —
+eleven units, authors named, some units carrying
+two poems.
+
+- U1 A Letter to God (G. L. Fuentes) · Dust of Snow and
+  Fire and Ice (Robert Frost)
+- U2 Nelson Mandela: Long Walk to Freedom · A Tiger in
+  the Zoo (Leslie Norris)
+- U3 Two Stories about Flying (Liam O'Flaherty;
+  Frederick Forsyth) · How to Tell Wild Animals (Carolyn
+  Wells) and The Ball Poem (John Berryman)
+- U4 From the Diary of Anne Frank · Amanda! (Robin
+  Klein)
+- U5 The Hundred Dresses–I (Eleanor Estes)
+- U6 The Hundred Dresses–II · Animals (Walt Whitman)
+- U7 Glimpses of India (Lucio Rodrigues; Lokesh Abrol;
+  Arup Kumar Datta) · The Trees (Adrienne Rich)
+- U8 Mijbil the Otter (Gavin Maxwell) · Fog (Carl
+  Sandburg)
+- U9 Madam Rides the Bus (Vallikannan) · The Tale of
+  Custard the Dragon (Ogden Nash)
+- U10 The Sermon at Benares · For Anne Gregory (W. B.
+  Yeats)
+- U11 The Proposal (Anton Chekhov) — a play
+
+INDIA CLASS 10 FULLY READ — 2026-10-26 (basics-only)
+
+## Class 11 — Hornbill (Textbook in English for Class XI)
+
+NCERT, first edition February 2006; 2020-21 printing;
+ISBN 81-7450-524-5. Same route. The shape changes
+again: the book is in TWO parts — Reading Skills and,
+for the first time, a taught Writing Skills part.
+
+READING SKILLS (prose with poems between):
+- U1 The Portrait of a Lady (Khushwant Singh) ·
+  A Photograph (Shirley Toulson)
+- U2 We're Not Afraid to Die… if We Can All Be
+  Together (Gordon Cook and Alan East)
+- U3 Discovering Tut: the Saga Continues (A. R.
+  Williams) · The Laburnum Top (Ted Hughes)
+- U4 Landscape of the Soul (Nathalie Trouveroy) · The
+  Voice of the Rain (Walt Whitman)
+- U5 The Ailing Planet: the Green Movement's Role
+  (Nani Palkhivala)
+- U6 The Browning Version (Terence Rattigan) — a play ·
+  Childhood (Markus Natten)
+- U7 The Adventure (Jayant Narlikar)
+- U8 Silk Road (Nick Middleton) · Father to Son
+  (Elizabeth Jennings)
+
+WRITING SKILLS (taught as six kinds): Note-making ·
+Summarising · Sub-titling · Essay-writing ·
+Letter-writing · Creative Writing.
+
+INDIA CLASS 11 FULLY READ — 2026-10-26 (basics-only)
+
+## Class 12 — Flamingo (Textbook in English for Class XII)
+
+NCERT; 2020-21 printing; ISBN 81-7450-650-0. Same route.
+The last book of the set, in two parts — prose, then
+poetry — with no writing-skills part this year.
+
+PROSE:
+- 1 The Last Lesson (Alphonse Daudet)
+- 2 Lost Spring (Anees Jung)
+- 3 Deep Water (William Douglas)
+- 4 The Rattrap (Selma Lagerlöf)
+- 5 Indigo (Louis Fischer)
+- 6 Poets and Pancakes (Asokamitran)
+- 7 The Interview (Christopher Silvester; Part II, an
+  interview with Umberto Eco)
+- 8 Going Places (A. R. Barton)
+
+POETRY:
+- 1 My Mother at Sixty-Six (Kamala Das)
+- 2 An Elementary School Classroom in a Slum (Stephen
+  Spender)
+- 3 Keeping Quiet (Pablo Neruda)
+- 4 A Thing of Beauty (John Keats)
+- 5 A Roadside Stand (Robert Frost)
+- 6 Aunt Jennifer's Tigers (Adrienne Rich)
+
+INDIA CLASS 12 FULLY READ — 2026-10-26 (basics-only) —
+**INDIA COMPLETE: all 12 NCERT English books, Classes
+1–12, read 2026-10-26.**

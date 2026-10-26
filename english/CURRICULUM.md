@@ -134,3 +134,13 @@ KG letters to Secondary 12, and the year's novels run Old
 Man and the Sea (Sec 10), Eighty Days (Sec 11), King Lear
 (Sec 11, previous series) and Monte Cristo (Sec 12).
 **Egypt: 26 of 26 read.**
+
+**Stocked by India (set complete):** the NCERT arc —
+picture-led poem+story units in Classes 1–5 (Marigold);
+prose + poem units with set language sections from
+Class 6 (Honeysuckle/Honeycomb/Honeydew); named-author
+literature in 9–10 (Beehive, First Flight); a taught
+Writing Skills part in Class 11 (Hornbill: note-making,
+summarising, sub-titling, essay, letter, creative
+writing); prose + poetry in Class 12 (Flamingo).
+**India: 12 of 12 read.**
