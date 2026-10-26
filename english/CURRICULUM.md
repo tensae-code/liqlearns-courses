@@ -528,3 +528,10 @@ Secondary depth; new writing kinds — personal journal,
 argumentative essay, poster, recipe blog, travel journal.
 Secondary 10 complete; the year's novel runs to twelve
 chapters across the two terms.
+
+**Stocked by Egypt Secondary 11 Term 1:** continuous and
+past-perfect passives; tag questions; defining vs
+non-defining relative clauses; the formal report and
+business email kinds; the opinion essay gains a
+counter-argument step. The year's novel is Verne's Around
+the World in Eighty Days.

@@ -7081,3 +7081,101 @@ SECONDARY 10 COMPLETE
 
 Egypt set: 22 of 26. Still owed: Secondary 11, Secondary 12
 (the remaining 4 of the 26-book Egypt set).
+
+## Secondary 11 Term 1 — English (Student's Book, with the year's Novel bound in)
+
+*Basics-only filing, as Secondary 10 Term 2.*
+
+Source: MoE host, 2026/Secondry/Secondry2/Term1/
+StudentBook/English_language_2sec_t1.pdf (8,411,498 bytes,
+166 pp., real text layer; the filename learned from the
+Telegram record). The PDF binds the Student's Book
+(pp.1–91; its credits at p.91) and the year's novel
+(pp.93–165); back cover p.166. Cover: "Secondary Schools -
+Year Two - Term 1 — 2025 - 2026." Scope-first layout this
+year (Scope pp.2–3, no contents page). Units restart at 1:
+U1 Egypt-Africa Cooperation · U2 Startups & Young
+Entrepreneurs · U3 Sustainable Development Goals (SDG) ·
+Review 1 (p.41) · U4 Natural Disasters · U5 Media
+Manipulation · U6 Soft Skills Vs. Hard Skills · Review 2
+(p.84). Five-lesson shape and exam-shaped Reviews as in
+Secondary 10; writing 120–150 words. Start Smart (pp.4–5)
+reviews Secondary 10 in rewrites — including two forms the
+run uses but has never boxed: present perfect continuous
+("has been practicing") and future perfect ("will finish
+building the new library — by next year").
+
+**Grammar (L3 of each unit):**
+- U1 Present Continuous, active AND passive (drilled,
+  p.13): is/are being + past participle ("New houses are
+  being built") — the continuous passive, new in the run.
+- U2 Past Perfect, active AND passive (drilled, p.25):
+  had been + past participle ("plastics had been banned").
+- U3 Adjectives vs Adverbs box (p.36): adjectives describe
+  nouns and answer What kind / Which one / How many;
+  adverbs describe verbs, adjectives or other adverbs and
+  answer How / When / Where / How often / To what extent.
+- U4 Comparative vs Superlative box (p.54): short
+  adjectives add -er / -est; long adjectives use more /
+  the most; irregular: good → better → the best, bad →
+  worse → the worst.
+- U5 Tag Questions (taught by matching, completion and
+  mistake-correction, p.67, then spoken with intonation):
+  the short question added at the end of a statement,
+  flipped positive/negative — new in the run.
+- U6 Defining and Non-defining Relative Clauses box
+  (p.77): defining = necessary information, "that" may
+  replace who/whom/which, the pronoun may be dropped when
+  it is the object; non-defining = extra information, set
+  off by commas, "that" never used, whose included.
+  Completes Prep 9's defining-only teaching.
+
+**Writing kinds taught (Tip Boxes, all L5):** the ESSAY
+restated (U1, p.16 — introduction as roadmap; the thesis
+statement named "the most important sentence in your
+introduction"; one idea per body paragraph) · the BUSINESS
+EMAIL (U2, p.28 — defined as a formal professional
+message; key phrases in six groups: subject line, formal
+greetings, opening lines, polite requests, closing
+phrases, sign-offs — Yours sincerely with a name, Yours
+faithfully without) · the BLOG POST by model (U3, p.39) ·
+the FORMAL REPORT (U4, p.57 — defined: a serious document
+giving information, usually with advice; parts: Title,
+To/From, Introduction, Findings, Recommendations,
+Conclusion; formal language — full forms, no contractions,
+polite neutral tone; headings and bullets) · the OPINION
+ESSAY (U5, p.70 — viewpoint + evidence + logical reasoning
+to persuade; structure now includes a **Counter-argument**
+step between the arguments and the conclusion — new) ·
+the DESCRIPTIVE ESSAY deepened (U6, p.82 — characteristics
+table: focused topic, sensory language, imagery, organized
+structure, figurative language, emotional impact;
+introduction hook kinds; conclusion reflects and leaves a
+lasting image).
+
+**The Novel — Around the World in Eighty Days** by Jules
+Verne, adapted (pp.93–165). Term 1 carries Chapters 1–6
+(summary only): Phileas Fogg wagers he can circle the
+world in eighty days and leaves London with his servant
+Passepartout; Detective Fix, suspecting Fogg of a bank
+robbery, follows them through Suez and across India; the
+railway ends mid-country, they buy an elephant, and they
+rescue the widow Aouda, who joins the journey. Each
+chapter closes with a Values page; the Chapter Questions
+(pp.130–165) run to about thirty numbered items per
+chapter, including Critical Thinking sections — the
+heaviest novel apparatus yet.
+
+Back page (credits p.91): GPS Publishing; the same seven
+reviewers; CACD team: Eman Mahmoud Youssef, Amira Fawzy
+Ahmed, Hassan Ramadan Ibrahim, Ghada El Sayed Mohamed
+(the pair Ghada/Shaimaa alternate between books);
+supervision Dr. Akram Hassan Mohammed. Spec prints 112
+pages (the student book's share of this PDF is 91; the
+combined PDF is 166), 27 × 19 cm, 70 g, 180 g couché,
+4 colours. No ISBN/deposit.
+
+SECONDARY 11 TERM 1 FULLY READ — 2026-10-26
+
+Egypt set: 23 of 26. Still owed: Secondary 11 Term 2,
+Secondary 12 (the remaining 3 of the 26-book Egypt set).
