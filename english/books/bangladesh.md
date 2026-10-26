@@ -4,7 +4,17 @@ Bangladesh's set: **English for Today**, the NCTB
 (National Curriculum and Textbook Board) series — the
 Bangla-medium version in the library record. In the
 record for Grades 1, 2, 3, 4, 5, 6, 8, 9, 10 (nine
-books, gaps at 7 and above 10). Read basics-only.
+books, gaps at 7 and above 10 — NCTB publishes ONE
+volume for Classes Nine and Ten together, so the nine
+rows are eight physical books). These were first
+filed basics-only — Muse's own change, never his
+order, now REVOKED (his ruling, 2026-10-26).
+**ALL NINE ROWS FULLY RE-READ page by page and
+citation-checked, 2026-10-26** — each book's section
+below carries its own FULLY READ closing and
+citation-check line. NCTB's own site does not answer
+this network; the books were read from the Internet
+Archive's copies of the same NCTB printings.
 
 ## Class 1 — English for Today, Class One
 
@@ -4844,20 +4854,1804 @@ population 7.5 billion (p.154), Visa contactless
 (p.157), "Ok, I'll." (p.159), "The End" (p.160) and
 the back cover (PDF p.166).
 
-## Class 9 — English for Today, Class Nine
+## Class 9 — English For Today, Classes Nine and Ten
 
-NCTB; 206 pp. Same route. SIXTEEN themed units, each
-with learning outcomes:
+NCTB. ONE volume serves Classes Nine and Ten together
+— the copy in hand is again the DAKHIL printing: cover
+and title page read "ENGLISH FOR TODAY / Dakhil
+Classes Nine and Ten," prescribed as a textbook for
+Dakhil Classes Nine and Ten from the academic year
+2013, "Revised for the year 2025." First edition
+written and edited by M S Hoque, AMM Hamidur Rahman,
+Goutam Roy, Raihana Shams, Md. Zulfeqar Haider,
+Surajit Roy Majumder, Md Abdur Razzaque and Naina
+Shahzadi; first publication October 2012; revised
+editions September 2014, September 2017, November
+2020 and October 2024. The Preface is the SECONDARY
+preface, as in Classes 6 and 8. 206 PDF pp.; body
+PRINTED pp.1–200 (Contents at PDF p.5) — printed page
+= PDF page − 5. SIXTEEN units, each opening with
+Learning outcomes; there is NO sample question paper
+in this volume. Two units are new to the 2025
+revision: Unit 13 Loneliness (its source text is a
+2023 Forbes Health article) and Unit 16 Graffiti (on
+the July 2024 uprising). Listening texts are cited by
+code through the book (Unit 4 L1 = text 2; Unit 5 L2
+= text 3; Unit 7 L2 = text 5; L4 = text 6; Unit 8 L3 =
+text 7; Unit 10 L2 = texts 8 and 9; Unit 15 L1 = text
+10). Back cover (PDF p.206): "2025 Academic Year /
+Dakhil Nine and Ten: English For Today," Keats's line
+"A thing of beauty is a joy for ever," and the Gen-Z
+graffiti artwork. "The End" closes p.200.
 
-- U1 Sense of Self · U2 Climate Change · U3 Pastimes ·
-  U4 Events and Festivals · U5 Problems Around Us · U6
-  Our Neighbours · U7 People Who Stand Out · U8 World
-  Heritage · U9 Unconventional Jobs · U10 Dreams · U11
-  Reading from English Literature · U12 Roots · U13
-  Loneliness · U14 Renewable Energy · U15 Media and
-  Modes of E-communication · U16 Graffiti
+### Unit One — Sense of Self (pp.1–7)
 
-BANGLADESH CLASS 9 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26)
+- L1 Mr. Moti (pp.1–4): story excerpts (the note at
+  the end of the excerpts credits the complete story
+  in When the Mango Tree Blossomed: Fifty Short
+  Stories from Bangladesh, ed. Niaz Zaman). Plot
+  summary: Sonabhan, a widow, keeps a ROOSTER named
+  Mr. Moti — jewel, because he is beautiful; her son
+  had brought the chick home; the rooster crows loud
+  and early like the son's voice, fights the
+  neighbour's rooster like the son, and Sonabhan,
+  whose son has been taken to secrecy in the war and
+  has not returned, pours her love into the bird;
+  after the son's death she talks to the rooster as
+  to him — then one morning, with Moti's basket in
+  her lap, she sits motionless beside her husband's
+  grave, and for the first time Sonabhan's doors do
+  not open. Questions ×5 including the war referred
+  to and cockfighting; a list of culturally-loaded
+  words; a discussion of the belief that sons follow
+  fathers and daughters mothers; a DEBATE on the
+  motion "Man is known by his work, not by his
+  looks."
+- L2 "Girl" by Jamaica Kincaid (pp.5–6): the story is
+  printed as ONE continuous instruction-stream from
+  mother to daughter (its content is described here,
+  not reproduced): wash white clothes on Monday and
+  put them on the stone heap, colour clothes on
+  Tuesday; don't walk bare-headed in the hot sun;
+  cook pumpkin fritters in very hot sweet oil; soak
+  little cloths after taking them off; buy cotton
+  without gum for a blouse; soak salt fish overnight;
+  sing benna — but not in Sunday school; always eat
+  so as not to turn someone else's stomach; walk like
+  a lady, "not like the slut you are so bent on
+  becoming"; sew a button and a buttonhole; hem a
+  dress so the hem doesn't come down; iron father's
+  khaki shirt and pants without a crease; grow okra
+  far from the house (red ants), water dasheen well
+  or it itches the throat; sweep a corner, a whole
+  house, a yard; three ways to smile (at one you
+  don't like too much, at one you don't like at all,
+  at one you like completely); set a table for tea,
+  dinner, dinner with an important guest, lunch,
+  breakfast; behave before men who don't know you
+  well so they won't recognise "the slut I have
+  warned you against becoming"; wash every day, even
+  with your own spit; don't squat to play marbles —
+  you are not a boy; don't pick people's flowers;
+  don't throw stones at blackbirds — it might not be
+  a blackbird at all; bread pudding, doukona, pepper
+  pot, a good cold medicine; how to catch a fish and
+  throw back one you don't like so nothing bad falls
+  on you; how to bully a man and how a man bullies
+  you; how to love a man, and other ways if that
+  doesn't work, and not to feel too bad about giving
+  up; how to spit in the air and move so it doesn't
+  fall on you; how to make ends meet; always squeeze
+  bread to check it's fresh — the girl's one italic
+  interruption asks what if the baker won't let her
+  feel the bread, and the mother replies that she is
+  really going to be the kind of woman the baker
+  won't let near the bread. Questions ×5; group work
+  on unfamiliar objects; a task built on Simone de
+  Beauvoir's line (quoted in the book as a famous
+  gender theorist's comment: "One is not born a
+  woman, one becomes a woman") — write ten sentences
+  on your thoughts; a table of activities marked in
+  society as man's job and woman's job (driving a
+  car, athletics, scuba diving / cooking, nursing).
+- L3 O Me! O Life! (p.7): Walt Whitman's poem
+  (theme: against the recurring questions — the
+  faithless, the cities filled with the foolish, the
+  poet reproaching himself as more foolish and
+  faithless than all — the ANSWER is that you are
+  here, that life exists and identity, that the
+  powerful play goes on and you may contribute a
+  verse). A YouTube link is printed for listening;
+  eight questions; contractions (fill'd, renew'd) are
+  named and listed; summarise the poem.
+
+### Unit Two — Climate Change (pp.8–22)
+
+- L1 The Greed of the Mighty Rivers (pp.9–11): a
+  text (summary): Meherjan, on the Sirajgonj Town
+  Protection Embankment, once had everything — family,
+  arable land, cattle; the Jamuna's erosion took her
+  land, then in one monsoon day devoured her house,
+  trees, vegetable garden and bamboo bush; disease,
+  hunger and poverty took her husband and family;
+  river erosion makes at least 100,000 people
+  homeless in Bangladesh every year and is one of the
+  main dangers caused by climate change. Meaning-
+  choice MCQs ×4; pair questions; a ten-gap summary
+  cloze from a word box; a DEBATE on the motion
+  "Humans can't do anything to control the course of
+  nature."
+- L2 Environmental Pollution (pp.11–14): four
+  pictures; then a passage in three sections
+  (summaries): AIR — poisonous exhausts from
+  industrial plants and brick kilns, old or poorly
+  serviced vehicles, road and construction dust;
+  remedies include fewer motor vehicles, no vehicles
+  older than 20 years, proper lubricants, CNG or LPG
+  fuel, and relocating hazardous industries away from
+  habitation. WATER — pollution in oceans, rivers,
+  lakes, ponds and underground reservoirs from
+  sediment, erosion, waste disposal and littering,
+  soil leakage and decaying organic matter; polluting
+  the land means polluting the water; industrial
+  waste must not go into rivers; pesticides wash into
+  water bodies. SOIL — industrial waste, polythene
+  shopping bags, pesticides and fertilisers, fuel
+  leakages; natural fertilisers and compost instead
+  of chemicals; recycling; deforestation worsens
+  erosion and fertility loss. A causes/suggestions
+  TABLE to complete; a 100-word group summary; three
+  anti-litter posters discussed.
+- L3 Man and Climate (pp.15–17): a text (summary):
+  humans cannot change the sun's radiation or the
+  earth's orbit, but they control the increase of
+  greenhouse gases; in the last hundred years the
+  carbon dioxide concentration has risen alarmingly;
+  the main cause is burning fossil fuels — about 85
+  MILLION BARRELS OF CRUDE OIL are burned daily; and
+  deforestation strengthens the greenhouse effect
+  twice over — burning trees releases CO2 and felling
+  destroys a storehouse of it. T/F ×5; a seven-item
+  meaning matching set (sun's radiation, fossil fuels,
+  combustion of coals [as printed], crude oil, raw
+  materials, deforestation, photosynthesis); LETTER
+  TO THE EDITOR on deforestation from five clues;
+  make a deforestation poster with a slogan.
+- L4 The Wheel of Cyclone (pp.17–19): an abridged
+  excerpt from Amitabh Ghosh's The Great Derangement
+  (plot summary): on the afternoon of 17 March 1978
+  in north Delhi, dark clouds and squalls of rain
+  give way to a hailstorm; the narrator, an MA student
+  at Delhi University working part-time as a
+  journalist, leaves the library, drops in on a
+  friend, then heads back by a route he rarely takes;
+  at Maurice Nagar he hears a rumbling above and sees
+  a grey tube-like extrusion under a dark cloud grow
+  and whiplash down toward him; he sprints to an
+  administrative building, finds the glass-fronted
+  doors shut and a crowd under the overhang, and
+  crouches on a small balcony's floor; the cloud
+  churns past with bicycles, scooters, lampposts,
+  corrugated-iron sheets and entire teastalls flying —
+  "gravity itself seemed to have been transformed
+  into a wheel spinning upon the fingertip of some
+  unknown power"; afterwards: buses overturned,
+  scooters on treetops, ceiling fans twisted into
+  tulip-like spirals, the doorway he had aimed for a
+  jumble of jagged debris, many wounded by shattered
+  panes — and the Times of India's New Delhi edition
+  of March 18 gives the toll in its banner headline:
+  "30 dead", "700 Hurt As Cyclone Hits North Delhi."
+  A twelve-item phrase-matching set with Bengali
+  translation; bring a newspaper cutting on a natural
+  calamity; write a 100-word news report; write a
+  100-word DIARY ENTRY — a model dated 30th September
+  2024 is printed (its content summarised: the
+  writer's father had to go early to his office, so
+  she took a rickshaw; all rickshaws were taken; after
+  ten minutes she rode; heavy rain soaked her head to
+  toe; she entered class "drenched as a crow"; it
+  closes "Goodnight :-)").
+- L5 A Friend of the Earth (pp.20–22): "LET'S SAVE
+  OUR PLANET!" in three heads (summaries): REDUCE —
+  ask before buying: Do I really need this? Is there
+  a more sustainable product that does the same
+  thing? Will it last? How was it made, how will it
+  be used and disposed of? REUSE — your own ceramic
+  cup or mug leaves no plastic cup to throw away; buy
+  durable things, repair them, pass them on, get
+  creative with the truly unusable, donate, or sell
+  used items through newspaper advertisements or
+  social media. RECYCLE — have items recycled rather
+  than thrown out; if not possible, landfill or burn;
+  clean and sort materials before binning; recycling
+  cans means less trash and raw material for new
+  ones. A Reduce/Reuse/Recycle table to complete; a
+  model dialogue about old magazines and a box of
+  recyclable household items.
+
+### Unit Three — Pastimes (pp.23–37)
+
+- L1 Have You any Favourite Pastime? (pp.24–28): a
+  conversation (summary): Anusha comes from the GYM
+  — yoga twice a week is her favourite pastime; she
+  also likes chess, painting and reading, and wants
+  to learn photography; Tiya likes TV, music, books
+  and magazines, computer games, and pot planting
+  since there is no space for gardening, and asks for
+  the yoga article. The article, "Yoga: Tap Into the
+  Many Health Benefits" (summarised): yoga joins
+  physical and mental disciplines for peace of body
+  and mind; traditional yoga stresses behaviour, diet
+  and meditation, but yoga can help even without a
+  lifestyle change; trainers grade the practice from
+  easier to complex. Benefits: stress reduction;
+  increased fitness (balance, flexibility, range of
+  motion, strength); help with chronic conditions
+  (cancer, depression, pain, anxiety, insomnia,
+  fatigue, mood shifts; lower heart rate and blood
+  pressure); weight loss through healthier eating
+  habits — with the caution that yoga is not a cure
+  and works alongside standard medical treatment.
+  Tick-the-statement checks ×8; then SHYAM of Magura,
+  class 9 at Chander Haat Bidyaloa [as printed]: his
+  athlete father walks with him an hour each morning;
+  at school break he plays kabadi, gollachhut,
+  badminton, table tennis and carom, practises high
+  jump and long jump, and football is his passion;
+  he watches National Geographic, Discovery and
+  Animal Planet; his father gave him a CAMERA for his
+  JSC result and he dreams of amateur photography of
+  beautiful Bangladesh. A three-column question-
+  making grid; write about your own pastime on the
+  model.
+- L2 Reading Really Helps! (pp.29–32): a 2012
+  newspaper article adapted from USA Today on the
+  London Olympics (summary): Phelps and Bolt — who
+  is better? Phelps passed Larissa Latynina [as
+  Latynin in the text] for the most Olympic medals
+  ever: 22 overall (18 gold, 2 silver, 2 bronze);
+  Bolt was the third man to repeat as 100-metre gold
+  medallist, the first as 200-metre gold medallist,
+  and broke his own Olympic record running the 100
+  metres in 9.63 seconds; in London Phelps won four
+  golds and two silvers in seven events in his grand
+  finale; Bolt won six gold medals in six Olympic
+  finals and became a legend in his own words at 25.
+  Two flow charts; a word-box cloze; pair debate.
+- L3 Change in Pastime (pp.32–33): an RSPB survey
+  article adapted from BBC News, 6 September 2010
+  (summary): traditional childhood pastimes — climbing
+  trees, playing conkers, making dens and daisy
+  chains, feeding birds — are in decline; people
+  under 34 recall far fewer of the twelve outdoor
+  experiences than people over 55 (about 15% more of
+  the over-55s had them); 92% agreed nature
+  experiences are still important for children and
+  82% that schools should provide them; the decline
+  has negative consequences — "nature deficit
+  disorder"; the RSPB's chief executive Mike Clarke
+  will meet parliament members to urge the government
+  to join other organisations in providing first-hand
+  nature experiences. Eight words glossed from
+  context (conkers, dens, decline, highlight, impact,
+  consequence, disorder, urge); interview senior
+  citizens about their pastimes and write the
+  difference up as a paragraph.
+- L4 Change in Pastimes in Bangladesh (pp.34–35):
+  Tiya and Anusha's class survey presented as a CHART
+  with commentary (the figures are the lesson's
+  facts): 120 students, 60 in class 9 and 60 in class
+  10, gender equity 30 male and 30 female in each
+  class. Classes 9–10 against classes 5–6: playing
+  games and sports 22.3% / 9.2%; watching television
+  17.2% / 31.2%; chatting with friends 13.7% / 6.7%;
+  reading books or magazines 12.9% / 11.7%; gardening
+  10.7% / 6.1%; attending social programmes 9.1% /
+  7.8%; playing games on computers 8.2% / 20.9%;
+  others 5.9% / 6.4%. The commentary draws the
+  conclusions: television is the younger group's
+  first choice, the older group's second; as children
+  grow they lose their passion for computer games.
+- L5 Pastimes Vary (pp.35–37): a dialogue (summary):
+  time changes tastes and abilities; technology has
+  its role; open fields have shrunk under urbanisation;
+  satellite television and dependence on technology
+  have changed lifestyles in urban and semi-urban
+  areas. Then an ARTICLE with a bar graph, "Young
+  people's changing attitude to pastimes" (the figures
+  are the lesson's facts): watching TV 41% (1990),
+  48% (2000), 52% (2010); games and sports 50%, 38%,
+  25%; online or computer-assisted programmes 9%,
+  14%, 23%; the article names television reaching
+  even the underprivileged, urbanisation reducing
+  open fields, and cheaper computer technology as the
+  causes — "our young generations are stepping into
+  the e-world." Underline the change-expressions; a
+  second graph, elderly people's attitudes (watching
+  TV 32/41/49%, playing cards 34/36/39%, drawing-room
+  chats 17/12/6%, others 17/11/7% for 1990/2000/2010),
+  for group analysis.
+
+### Unit Four — Events and Festivals (pp.38–49)
+
+- L1 Mother's Day (pp.39–40): a LISTENING lesson
+  (Listening text 2) checked by six MCQs whose
+  options carry the history: in ancient Greek myths
+  RHEA is the mother of gods; Jesus Christ's mother
+  was Mary; Julia Ward Howe was American; Mother's
+  Day was first announced as a formal holiday in the
+  USA in 1872 (the options run 1872/1905/1910/1914);
+  in 1914 the American president was Wilson; the UK
+  does not celebrate Mother's Day on the 2nd Sunday
+  of May. Four listening questions and a paragraph on
+  helping your mother follow.
+- L2 May Day (pp.40–42): a text (summary): May Day,
+  International Workers' Day, commemorates the
+  struggle for an EIGHT-HOUR WORKDAY; after the
+  Industrial Revolution workers in mills and factories
+  worked fourteen or more hours a day; on May 1st
+  1886, inspired by the trade unions, half of the
+  workers at the McCormick Harvesting Machine Company
+  in Chicago struck; two days later about 6,000
+  workers rallied near the McCormick Harvester
+  Machine Company; when strikebreakers left the
+  meeting place, about 200 policemen attacked with
+  clubs and revolvers — one striker killed instantly,
+  five or six seriously wounded, many injured; the
+  events remind us workers will be exploited until
+  they stand up for better conditions, pay and lives.
+  Notes define Industrial Revolution and Trade Union.
+  Then a verb-form cloze (summary): Tania, a poor
+  garment worker in a big Gazipur factory, earns
+  Tk. 3000 a month, does overtime to add to her
+  income and sends savings to her father to support
+  the family; one day a "Fire! Fire!" shout empties
+  the factory — there are not enough staircases, some
+  workers are trodden underfoot, others injured, but
+  the fire brigade arrives in minutes and nothing
+  serious happens. Questions on Tania's pay and
+  factory safety.
+- L3 International Mother Language Day – 1
+  (pp.42–43): a text (summary): 21 February —
+  International Mother Language Day and a national
+  holiday; we pay tribute to the martyrs who laid
+  down their lives to establish Bangla as a state
+  language in undivided Pakistan in 1952; the
+  Language Movement's seed was sown on 21 March 1948
+  when Mohammad Ali Jinnah declared in Dhaka that
+  Urdu would be the only state language of Pakistan;
+  protest gathered momentum until its climax in
+  1952; the government outlawed public meetings and
+  rallies; Dhaka University students defied the law
+  with a peaceful procession on 21 February 1952, and
+  near Dhaka Medical College the police opened fire,
+  killing Salam, Rafiq, Barkat, Safiur and Jabbar;
+  mass protests forced the government to declare
+  Bangla a state language, and the movement kindled
+  the sparks of the independence movement. A
+  1947/1948/1952 chart; seven word meanings matched.
+- L4 International Mother Language Day – 2
+  (pp.44–45): a text (summary): 21 February is
+  observed as Shaheed Dibosh; commemoration begins in
+  the early hours with mourning songs; people wear
+  black badges and go BAREFOOT to the Shaheed Minar
+  singing mourning songs, place wreaths, visit the
+  martyrs' graves at Azimpur graveyard and pray;
+  UNESCO (spelled out in the text) proclaimed 21
+  February International Mother Language Day on 17
+  November 1999, after two Bangladeshi expatriates in
+  Vancouver, Rafiqul Islam and Abdus Salam, proposed
+  it to Kofi Annan [as printed "Kofi Anan"], the then
+  UN Secretary General, arguing it would honour the
+  martyrs and save the extinct languages of the
+  world; the day is now observed worldwide to promote
+  awareness of linguistic and cultural diversity and
+  multilingualism. Matching, questions, a cloze, and
+  write how you observed this year's 21 February.
+- L5 Independence Day (pp.45–46): a text (summary):
+  26 March begins with a 31-GUN SALUTE; the President
+  and the Prime Minister place floral wreaths at the
+  National Mausoleum [the lesson's word] at Savar on
+  behalf of the nation, followed by leaders, parties,
+  diplomats, organisations, institutions and freedom
+  fighters; people from all walks of life go in
+  rallies and processions; at Bangabandhu National
+  Stadium school children, scouts and girl guides put
+  on displays; sports meets and tournaments include
+  the boat race in the river Buriganga; in the
+  evening all major public buildings are illuminated
+  and the Bangla Academy, Bangladesh Shilpakala
+  Academy and other organisations hold cultural
+  functions. Word matching ×5; four MCQs; write your
+  school's celebration.
+- L6 Pahela Boishakh (pp.47–49): a text (summary):
+  Pahela Boishakh is the first day of the Bangla new
+  year, a public holiday celebrated by people of all
+  walks of life irrespective of ethnic identity or
+  religious beliefs; women wear white sarees with red
+  borders with colourful churis and flowers, men
+  pajamas and punjabis; at Ramna Batamul in Dhaka the
+  cultural function organised by Chhayanaut begins
+  just at sunrise with the famous Tagore song
+  "Esho-he-Boishakh"; the biggest carnival is the
+  procession organised by the Fine Arts students of
+  Dhaka University, whose masks and wreaths often
+  symbolise contemporary worries or happiness;
+  newspapers bring out special supplements and radio
+  and television run special programmes — "a day of
+  cultural unity for the whole nation." A cloze adds
+  the diaspora: the day is also celebrated in West
+  Bengal, Assam and Tripura, in Australia (the Sydney
+  Boishakhi Mela at Sydney Olympic Park is the
+  largest) and in the UK, where the Bangalees
+  celebrate with a street procession in London — the
+  largest Asian festival in Europe outside Bangladesh
+  and West Bengal.
+
+### Unit Five — Problems Around Us (pp.50–63)
+
+- L1 The Ferry Boat (pp.51–53): a classroom dialogue-
+  story (summary): Jamil tells the class of crossing
+  a river by country boat when he was in class 6 —
+  a weekly bazar day, people returning with shopping
+  bags and baskets, a ferry crossing of 8–10 minutes,
+  just after sunset, weather turning bad, wind from
+  the north-west, black clouds moving fast; everyone
+  tried to get into the boat; "No more, no more,
+  please wait," shouted the boatman, but nobody
+  listened; with too many people on board the boat
+  SANK in the middle of the river; there were no
+  casualties — all swam to the other side, though some
+  lost the oil, salt and milk they carried; Jamil,
+  seeing the boat overcrowded, had waited for the
+  next boat — "You did the right thing, Jamil."
+  Vocabulary MCQs (plying, casualty, overcrowded,
+  'on board') and discussion questions.
+- L2 Are We Too Many? (pp.54–56): Shanti Barua asks
+  whether there are really too many people; a PROJECT
+  surveys one small area (its size found by walking —
+  at normal speed you cover about one kilometre in
+  ten minutes), its people and their occupations,
+  unemployment and poverty. A LISTENING text (text 3)
+  on Bangladesh's population is checked by MCQs (the
+  options carry the figures: Bangladesh is the 8th
+  most populous country; density means the number of
+  people living in one square kilometre; the yearly
+  growth-rate options run 1.9/1.40/2.1/1.1%; the
+  birth-rate options 6.1/1.40/20.1/14 per thousand;
+  the 2050 population options 150/197/217/250
+  million). Then a population TABLE (the figures are
+  the lesson's facts) — Bangladesh / Sri Lanka /
+  India / China: land area 148,460 / 62,710 /
+  3,287,263 / 9,600,000 sq km; population 165m /
+  21.4m / 1380m / 1420m; density 1116 / 341 / 464 /
+  153 per sq km; birth rate 18.18 / 15.5 / 18.2 /
+  10.48; death rate 5.5 / 4.2 / 7.3 / 7.4; growth
+  rate 1.04% / 0.42% / 1.1% / 0.6% — worked with
+  comparatives and superlatives, and a paragraph on
+  one of the countries.
+- L3 Our Food and Shelter (pp.57–59): Ms Choudhury's
+  class debates the problems (summaries): food —
+  scarcity will be serious; new rice varieties raised
+  per-acre production, but the rate of increase in
+  food production cannot keep pace with population
+  growth because the land is fixed. Housing — families
+  grow larger and break into smaller families, each
+  needing a separate house; arable fields are divided
+  among the smaller families; mills and factories
+  occupy considerable land; trees are cut, hills
+  cleared and water bodies filled. The teacher
+  remembers her childhood village — unending green
+  paddy fields and yellow mustard fields, a wood on
+  the northern side with a tall tamarind tree and a
+  big banyan "like a huge green umbrella," picnics
+  under it, swinging from the hanging roots — now the
+  wood is gone and unplanned houses spoil the fields'
+  beauty. MCQs; list what she saw; a composition on
+  your village or locality.
+- L4 The Story of Lipi (pp.59–61): discussion points
+  first (raise awareness of the bad consequences of
+  many children, stop child marriage, keep the family
+  small with two children), then the story (summary):
+  Lipi, 14, class 9 in a rural Rangpur school, eldest
+  of five children of a day-labourer father and a
+  mother who is a homemaker and part-time worker in
+  others' homes, wants to pursue her education; her
+  father arranges her marriage to Tara Mia, the only
+  son of an influential farmer — a widower, illiterate
+  but well off; her mother stands by her secretly;
+  Lipi talks to her classmates and then to the
+  Headteacher, who calls a meeting of teachers,
+  students, the school managing committee and
+  respectable persons and explains the consequences —
+  children from age 15 or 16, constant health hazards,
+  education stopped, a marriage against her will
+  shattering her future dream; Tara Mia's father
+  argues she would have everything — money, clothes,
+  home and status; the big majority supports the
+  Headteacher; the marriage is CALLED OFF; Lipi now
+  studies at Carmichael College, Rangpur. Then a
+  will/would diary cloze (summary): Ms Anjali Barua, a
+  retired college teacher and widow in her own Dhaka
+  flat, plans an adult education centre for her
+  Sherpur village — with 5 million taka she would
+  start one; people attending would learn to read,
+  write and count. And a story opening to complete in
+  ten sentences: Nahar, an 18-year-old garments
+  worker in a slum, finds a piece of gold in front of
+  the factory gate.
+- L5 Let's become skilled workforce (pp.61–63): why
+  learn English? Rumi's brother Raihan did well in
+  the HSC but failed a 5-star hotel front-desk
+  interview because the questions were in English;
+  Ratan's cousin Sheela, weaker in the HSC from a
+  Mymensingh college, got a Biman Bangladesh cabin-
+  crew job because she answered everything in English,
+  written test and interview. Ms Choudhury's speech
+  (summary): today many jobs need English because the
+  world has become smaller — speedy transports, phone
+  and Internet let us talk to a person thousands of
+  kilometres away; you cannot use all the languages,
+  so you need a common language, and English is that
+  language — you can talk to a Chinese toy maker, a
+  French artist, an Arab ambassador or a Korean
+  builder in one language; for Bangladesh, with too
+  many people in a small country, English gives the
+  best opportunity for a good job within and outside
+  the country — "good news for millions of our
+  unemployed youths"; but we are learning English
+  mainly for our exams, not for use; learn it in and
+  outside the classroom — textbooks, radio,
+  television, newspapers, magazines, computers.
+  Rearrange five sentences into the argument; a
+  project counts how many people in your locality can
+  speak or write English.
+
+### Unit Six — Our Neighbours (pp.64–83)
+
+- L1 Nepal, the Land of the Everest (pp.65–68): a
+  six-paragraph passage worked with a HEADINGS list
+  and meaning MCQs (summaries): (a) Nepal, "one of
+  the most charming countries in Asia," rich in scenic
+  beauty and cultural heritage, with some of the
+  world's best and very important temples; (b)
+  between India and the Tibetan part of China, area
+  147,181 square kilometres — the southern Terai
+  Plains tropical (up to 40°C in April and May,
+  monsoon June to September), the central hill-lands
+  including the Kathmandu and Pokhara valleys
+  temperate, the north the slope of the Himalayan
+  range with some of the world's highest peaks
+  including Everest; (c) nearly 29,000,000 people,
+  primarily rural, Kathmandu under one million; 103
+  castes and ethnic groups (Chetri and Bahun the two
+  largest [as printed]; Magar, Tharu, Tamang, Newar,
+  Muslim, Gurung, Damai); about 48 percent speak
+  Nepali, with Maithili, Bhojpuri, Tharu and Tamang;
+  (d) the holy land of Lord Pashupatinath and Gautam
+  Buddha — Hindus and Buddhists have lived together
+  in harmony for centuries; the Pashupatinath Temple
+  is one of the four most important Shiva sites;
+  Buddha, "the light of Asia," was born in Lumbini;
+  many temples and shrines are shared and some
+  deities worshipped by both faiths; (e) the
+  Kathmandu Valley — Patan, Kathmandu and Bhaktapur —
+  with seven monument zones named World Heritage
+  Sites by UNESCO; (f) festivals — Dasain or dusherra
+  [as printed] in October, the biggest animal
+  sacrifice of the year; Tihar in November; Holi,
+  Chaitra Daisan [as printed], Haribodhini Ekadashi,
+  Maha Sivaratri, Krishna Jayanti; Buddhist Mani
+  Rimd [as printed], Buddha Jayanti and Losar, the
+  Tibetan New Year. Then a PACKAGE-TOUR ADVERTISEMENT
+  (Dhaka–Kathmandu–Pokhara, price BDT 39,999, 4 nights
+  and 5 days; return air ticket with taxes, 2 nights
+  Kathmandu + 2 Pokhara, buffet breakfast and dinner,
+  both-way airport transfers in Kathmandu, AC bus
+  Kathmandu–Pokhara–Kathmandu, half-day sightseeing
+  in Kathmandu Valley; half-day sightseeing in
+  Pokhara extra) with T/F statements and a letter to
+  a friend covering the package.
+- L2 Sri Lanka: The Pearl of the Indian Ocean
+  (pp.70–74): a passage (summaries): visitors hear
+  "Ayubowan" — 'May you have the gift of long life';
+  the island is also Serendip, Ceylon, Teardrop of
+  India; in the Indian Ocean off India's south-eastern
+  coast, teardrop-shaped, about 415 km north to
+  south, 220 east to west, about 65,600 square
+  kilometres, more than 1340 km of coastline; about
+  20 million people, multi-religious, multi-racial
+  and multi-lingual — Sinhalese, Sri Lankan Tamils,
+  Indian Tamils and Sri Lankan Moors, with the
+  Veddhas the original inhabitants; its ancient
+  history is depicted in the Ramayana and the
+  Mahavamsa, 'The Great Chronicle'; the economy is
+  traditionally agricultural — tea, rubber, coconuts —
+  and Sri Lanka is the largest tea exporter of the
+  world; cinnamon first originated in Sri Lanka and
+  was introduced to the world by Arab merchants; its
+  archaeological treasures compare with Greece, Rome
+  and the Mayans; beaches, hills, waterfalls, wildlife,
+  palm-shaded lagoons, snorkelling, swimming, fishing
+  and sailing. A facts table and a ten-heading match;
+  then four tourist places (summaries): Anuradhapura,
+  an ancient capital surrounded by monasteries over
+  sixteen square miles, in Hindu legend the capital
+  of King Ravana; Bundala National Park for
+  birdwatchers, with elephants, crocodiles, turtles
+  and leopards; Hikkaduwa, a little south-coast town
+  for beach and corals; Dambulla, with the biggest
+  potted [as printed] cave temple complex, the
+  Rangiri Dambulla Global Stadium built in just 167
+  days, South Asia's biggest rose quartz mountain
+  range and the iron wood forest.
+- L3 The Maldives (pp.74–77): a text (summary): an
+  island country of 1199 islands clustered into 26
+  major atolls — an atoll is a ring-shaped coral reef
+  or a string of closely spaced coral islands; the
+  eighth smallest country in the world, area only 300
+  square kilometres, the smallest Asian country in
+  population and size; inhabited for nearly 3000
+  years; the earliest settlers probably came from
+  southern India and Sri Lanka in the fourth and
+  fifth centuries BC; in the 12th century AD sailors
+  from East Africa and Arab countries came, and the
+  Maldivians, originally Buddhists, were converted to
+  Sunni Islam in the mid-12th century; in 1344 Ibn
+  Batuta [as printed] travelled around the Maldives;
+  the Portuguese ruled 15 years in the 16th century;
+  an independent Islamic sultanate from 1153 to 1968
+  except as a British colony from 1887 to 1965; on
+  November 11, 1968 the sultanate was abolished and
+  replaced by a republic; ranked the best country for
+  beautiful beaches and recreation facilities in 2008;
+  and it is the LOWEST country in the world — most of
+  it just 1.5 metres above sea level, highest point
+  2.3 metres; after the 2004 tsunami the government
+  began buying land from nearby countries for
+  resettlement; in 2009 the government held the
+  first-ever UNDERWATER CABINET MEETING, about 5
+  metres under in a blue-green lagoon, signing a
+  document calling on all nations to cut carbon
+  emissions. A time/facts table and T/F set.
+- L4 India: Unity in Diversity (pp.78–80): a text
+  (summary): our closest neighbour and the largest
+  among South Asian countries; the seventh largest
+  country in the world, area 3,287,590 square
+  kilometres; bounded by the Indian Ocean, the
+  Arabian Sea and the Bay of Bengal; bordered by
+  Pakistan, China, Nepal, Bhutan, Bangladesh and
+  Myanmar; the world's second most populous country
+  after China, population around 1.5 billion; New
+  Delhi the capital with about 13 million people;
+  history runs from the Indus Valley Civilization and
+  the Aryans through unification under Ashoka in the
+  fifth century [as the text places it] and the
+  spread of Buddhism, Islam's arrival in the eighth
+  century, Qutbuddin Aybeck's Delhi Sultanate in
+  1206, the Mughal Empire from 1526, the Europeans'
+  contest in the 17th century, Warren Hastings as
+  first Governor General in 1774, Queen Victoria's
+  'Empress of India' title in 1876, nearly two hundred
+  years of British rule, and independence in 1947;
+  the culture is among the oldest and most unique —
+  17 major languages and 844 dialects; the Taj Mahal,
+  Fatehpur Sikri, the Qutb Minar and the Red Fort;
+  Kashmir "a paradise on earth"; the Nilgiri mountains,
+  Ooty and Darjeeling, the temples of South India,
+  Ajanta and Ellora. A one-word flow chart of the
+  history — whose printed boxes place the unification
+  box at "15th Century" (see Slips).
+- L5 Bhutan: The Land of Happiness (pp.80–83): a
+  text (summary): the "Jewel of the Eastern
+  Himalayas," landlocked along the Himalayas' southern
+  slopes, bounded by Tibet in the north and India on
+  the other sides; its official name is Druk-yul,
+  'land of the thunder dragon,' from the fierce
+  storms that roll in from the Himalayas; area 38,394
+  sq km, population 716,896; cut off by the Great
+  Himalayas, a unique culture grew on gentle Buddhist
+  beliefs; men wear the Gho, a knee-length robe, women
+  the Kira, a sheet-like cloth piece; houses of mud
+  and stone with wooden shingle roofs, NEVER iron
+  nails, built by exchanging labour in the community;
+  mask festivals ward off evil spirits; the main
+  religious festival is Tshechus [as printed], Buddha's
+  teachings enacted through mask dances over three to
+  five days in monastery courtyards; Losar, the Lunar
+  New Year, means special dishes, new clothes, family
+  get-togethers, archery or darts for men and singing
+  and dancing for women; killing even a black-necked
+  crane could be punished with life imprisonment; the
+  constitution obliges at least 60 percent of the
+  country to remain under forest cover at all times;
+  the first foreign tourists were allowed in 1974 and
+  tourism is limited to about 6,000 visitors a year;
+  one of the last countries to introduce television and
+  the Internet — the ban lifted only in 1999;
+  national dress is mandatory in public; and Bhutan
+  measures success in Gross National Happiness rather
+  than Gross National Product — in 2006 Business Week
+  rated it the happiest country in Asia and the eighth
+  happiest in the world. MCQs ×5; a group chart.
+
+### Unit Seven — People Who Stand Out (pp.84–97)
+
+- L1 Zainul Abedin, The Great Artist (pp.85–88): an
+  infobox (born 29 December 1914, Kishoregonj; died
+  28 May 1976 aged 61, Dhaka; education Government
+  Art School, Kolkata and Art School [Slade], London;
+  notable works The Struggle, Rebel cow, Famine
+  paintings, Nobanno, Study of a Crow, Two faces) and
+  a biography (summary): born on the banks of the
+  Brahmaputra, which inspired him lifelong — his
+  water-colour series on the river won the Governor's
+  Gold Medal at the all-India Exhibition in 1938; he
+  studied five years at the Government School of Art
+  in Calcutta, the first Muslim student to obtain
+  'First Class' with distinction, then joined its
+  faculty; in 1951 he studied two years at the Slade
+  School of Art in London, grew dissatisfied with
+  oriental style and the limitations of European
+  academic style, tried a 'Bengali Style,' then went
+  back to nature and rural life — realistic but modern;
+  in 1943 he painted the Famine Sketches in Chinese
+  ink and brush on cheap packing paper, drawing the
+  starving dying by the roadside, which spread his
+  name worldwide as a humanitarian artist; a 65-feet
+  scroll depicted the mass movement of 1969 and the
+  30-feet 'Monpura' the 1970 cyclone; founding
+  principal of the Government Institute of Arts (now
+  Faculty of Fine Arts), University of Dhaka; the
+  title 'Shilpacharya,' the great teacher of arts; in
+  1975 he set up a folk museum at Sonargaon and the
+  Shilpacharya Zainul Abedin Museum gallery in
+  Mymensingh; sources are printed as "Banglapedia and
+  wikipedia." Six questions; write an email about a
+  visit to the Folk Museum.
+- L2 The Art of Silence (pp.88–91): Partha Pratim
+  Majumder [spelled Mojumder and Majumder in the
+  lesson], the MIME artist (summary): mime is
+  depicting a character, mood, idea or narration
+  through gestures and bodily movements without any
+  utterance; Partha, born 18 January 1954 in a
+  culturally minded family at Kalachandpara, Pabna,
+  met mime artist Mr. Jogesh Dutta in 1966 at
+  Chandernagar, 30 kilometres from Kolkata, and joined
+  his mime academy in Kolkata; his solo performance
+  at Bangladesh Shilpakala Academy in 1979 led the
+  French Ambassador, Mr. Loic Moreau, to offer him a
+  scholarship to France; he trained under Etienne
+  Decroux and Marcel Marceau at the 'Ecole
+  Internationale de Mimodrame de Paris Marcel
+  Marceau'; he received 'the Moliere Award' in 2009,
+  the highest honourable accolade in the French
+  Theatre, the 'Ekushey Padak' the next year, and the
+  Chevalier de l'ordre des Arts et des Lettres
+  (glossed in the text as "Knight in the order of
+  Arts and Humanities") in 2012; his topics are
+  everyday things — a thief stealing, one-sided love,
+  picking up a flower and hurting it; he hopes to open
+  an international miming institute in Bangladesh.
+  MCQs, T/F, question-forming, and a Listening text 5
+  chart of his awards.
+- L3 The Beginning (pp.92–93): Mother Teresa's early
+  life (summary): born 26 August 1910 in Skopje,
+  Macedonia, to a rich Catholic merchant family of
+  Albanian descent, the youngest of three siblings,
+  named Agnes Gonxha Bojaxhiu; at 12 she heard a
+  voice from within urging her to spread the love of
+  Christ and decided to be a missionary; at 18 she
+  left home and joined the Irish Sisters of Loreto,
+  which had missions in India; after training at the
+  Institute of the Blessed Virgin Mary in Dublin she
+  came to India; on May 24, 1931 she took her initial
+  vows as a nun; from 1931 to 1948 she taught
+  geography and theology at St. Mary's High School in
+  Kolkata; the widespread poverty moved her, and in
+  1948 she received permission to leave the convent
+  and devote herself to the poorest of the poor in
+  the slums of Kolkata.
+- L4 Love for Humanity – 1 (pp.94–95): a LISTENING
+  cloze (Listening text 6) whose filled substance is:
+  she took intensive medical training with the
+  American Medical Missionary Sisters; her first work
+  was collecting slum children and teaching them;
+  financial support and volunteers came forward; in
+  1950 her group, the Missionaries of Charity,
+  received official status as a religious community,
+  its members taking vows of poverty, chastity and
+  obedience, plus a FOURTH vow — to give free service
+  to the most poor; in 1957 they began work with
+  lepers; from one school they grew to nine
+  elementary schools in Kolkata, opened a home for
+  orphans and abandoned children, and spread to more
+  Indian cities and to Sri Lanka, Australia, Tanzania,
+  Venezuela and Italy; by 1979 the group had more
+  than 200 [the gap's expected figure] different
+  operations in over twenty-five countries.
+- L5 Love for Humanity – 2 (pp.95–97): a text
+  (summary): moved by the sick and dying on Kolkata's
+  streets, she founded a home for the dying destitute
+  named 'Nirmal Hriday,' 'Pure Heart' — printed in
+  the lesson both as Nirmal and Nirmol; the dying are
+  brought off the streets and lovingly cared for, so
+  the unloved die in an environment of kindness and
+  love and can feel they are children of God;
+  survivors are found jobs or sent to caring homes;
+  her quoted teaching: love begins at home, and the
+  future of humanity passes through the family; her
+  awards — the Pope John XXIII Peace Prize (1971),
+  the Nehru Prize for Promotion of International
+  Peace & Understanding (1972), the Balzan Prize
+  (1978), the Nobel Peace Prize (1979) and the Bharat
+  Ratna (1980); she died at 87 on 5 September 1997.
+
+### Unit Eight — World Heritage (pp.102–112)
+
+- L1 The Shat Gambuj Mosque (pp.103–105): heritage
+  defined (what we inherit from the past, live with
+  in the present and pass on); the mosque city of
+  Bagerhat, originally 'Khalifatabad,' a Muslim colony
+  founded in the 15th century by the Turkish general
+  and saint-warrior Ulugh Khan Jahan near the
+  Sundarbans' mangrove forest, a UNESCO World Heritage
+  Site since 1985; about 360 mosques; the Shat Gombuj
+  Mosque [spelled Gambuj in the title, Gombuj in the
+  text] has 60 pillars supporting 77 low domes, 4
+  corner towers with smaller domes, a prayer hall with
+  11 arched doorways on the east and 7 each on the
+  north and south, 7 aisles and 11 deep curves between
+  slender stone columns, arches 6 feet thick, 11
+  mihrabs in the west wall decorated with stonework
+  and terracotta, a brick floor — and Khan Jahan used
+  it as his court too. An information table; then the
+  TARA MOSQUE in Dhaka described from clues (Abul
+  Khairat Road; Mughal style; 5 domes; star decoration
+  in chinaware and white cement; mosaic floor, floral
+  tiles; built by Mirza Ghulam Pir in the early 18th
+  century).
+- L2 The Somapura Mahavihara (pp.105–108): Paharpur,
+  Naogaon — 'Pahar' means hill; the jungle-covered
+  hill, excavated, revealed a temple ruin about 24
+  metres high; Sir Alexander Cunningham visited in
+  1879 but the land owner prevented extensive
+  excavation; the site was protected in 1919 under
+  the Ancient Monuments Preservation Act of 1904;
+  systematic excavation began in 1923 (Archaeological
+  Survey of India with the Varendra Research Society
+  and Calcutta University), RD Banerjee in 1925–26,
+  KN Dikshit from 1926–27; after independence the
+  Department of Archaeology of Bangladesh excavated
+  in two phases (1981–82 to 1984–85, and 1988–89 to
+  1990–91); the complex is the Somapura Mahavihara,
+  one of the most famous Buddhist institutions for
+  monks of ancient Bengal and Southern Asia, built by
+  the second Pala king Dharmapala (781–821 AD) —
+  clay seals bear the inscription naming it; the Pala
+  rulers were devout Buddhists and their monasteries
+  became great centres of learning across Asia.
+  Word matching ×7; MCQs ×5; write about a relic.
+- L3 The Statue of Liberty (pp.108–110): a listening
+  text (text 7) plus a reading text (summary): the
+  French sculptor Frederic Auguste Bartholdi was
+  assigned to design and complete "Liberty
+  Enlightening the World" within 1876 as a gift for
+  the hundredth anniversary of the American
+  Declaration of Independence; a joint venture — the
+  French built the statue and assembled it in the
+  States, the Americans built the pedestal; France
+  completed the statue in July 1884 and shipped it by
+  the French war ship 'Isere' in 1885, split into 350
+  pieces packed in 214 crates; the pedestal's funds
+  were completed in August 1885 and the pedestal
+  finished in April 1886; assembly took four months;
+  the unveiling was on 28 October 1886 before
+  thousands; the broken chain at her feet symbolises
+  free forward movement, enlightening the world with
+  her torch, free from oppression and slavery; the
+  original torch (the first part constructed, in
+  1876) was replaced in 1984 by a new copper torch
+  covered in 24K gold leaf, floodlit at night, the
+  original now in the monument's lobby; torch access
+  has been closed since 1916; on her 125th anniversary,
+  28 October 2011, she was also named "Liberty
+  Enlightening the World Wide Web" for the webcams
+  around her torch. An information chart; five
+  questions.
+- L4 Lake Baikal (pp.111–112): a text (summary): the
+  deepest and one of the biggest and most ancient
+  lakes of the world, almost in the centre of Asia, a
+  gigantic bowl at 445 metres above sea level, in the
+  south of Eastern Siberia, in the Buryat Autonomous
+  Republic and the region of Irkutsk, Russia; it
+  covers 31,500 sq km, is 636 km long and on average
+  48 km wide, the widest point 79.4 km; the basin
+  occupies 557,000 sq km and holds 23,000 cubic km of
+  water — about one fifth of the world's fresh surface
+  water; the average level is never higher than 456 m;
+  average depth 730 m, maximum 1,620 m; it would take
+  about one year for all the rivers of the world to
+  fill Baikal's basin and four hundred years for all
+  the rivers, streams and brooks now flowing into
+  Siberian lakes [printed "lakesea"]; hot springs
+  surround it; it acts as a powerful generator and
+  bio filter; a stormy lake — autumn is the most
+  stormy time — whose water looks green and dark blue
+  in a north wind and turns black with white-crested
+  waves when the winds strengthen. Word matching ×5;
+  an information chart.
+
+### Unit Nine — Unconventional Jobs (pp.113–121)
+
+- L1 Jobs that People Do (pp.114–116): Sayeed Kamal's
+  first-person text (summary): the best thing that
+  ever happened to him was leaving his last job; a
+  desk clerk stuck in an office all day with computers
+  and telephone, he quit after two years despite a
+  good salary and now owns a NURSERY — planting seeds,
+  budding, grafting, caring for saplings, cleaning
+  flower beds; he starts very early (about 5:30 in
+  summer, not until about 7 in winter), has a small
+  hut in the nursery, sees the moon from there, walks
+  through the trees in the soft moonlit night; he is
+  producing more timber and medicinal plants for July
+  buyers; he is not married, does his own work and
+  cooks his own food, and annoys his professional
+  friends, who earn much more but think he enjoys his
+  work more; at weekends he goes to the countryside
+  collecting unknown saplings; he collects stamps (a
+  Russian stamp from the period of Lenin); he doesn't
+  watch TV; winter and the monsoon are his busy
+  seasons, and though he does not earn enough in all
+  seasons, he earns enough for his family, employees
+  and himself "to run a decent life" — "I'm a very
+  happy man!" A character table (good aspects: simple,
+  diligent, loves nature, caring — against
+  unconventional: old fashioned, loner); questions;
+  write a paragraph on him.
+- L2 Weird Jobs Around (pp.117–119): a text
+  (summary): beyond the highly paid, high-profile
+  conventional job there are odd, unexpected, wild,
+  unconventional, strange or just plain weird jobs —
+  who picks up the chewing gum left on a park bench,
+  who assesses whether a piece of furniture is
+  comfortable enough, who constructs glass eyeballs,
+  who farms oysters in the middle of the ocean?
+  Before choosing, decide: What companies will
+  recruit/hire me? Do I actually get a paycheck? What
+  type of education/diploma will I need? Can I make a
+  living doing this? Many strange jobs can be done
+  part-time or freelance — a taste of freedom, a
+  secondary income, experience; hobbies are a good
+  place to start (stuffing animals, acting like
+  Charlie Chaplin, making model cars, testing
+  mountaineering equipment, developing fragrances,
+  saving sea turtles). A model dialogue on the
+  chewing-gum job; make dialogues on furniture-comfort
+  assessing and oyster farming; a debate for and
+  against strange jobs; collect at least ten
+  adjectives used for strange jobs.
+- L3 Floral career (pp.120–121): a yes/no guessing
+  game over a jobs box (architect to florist), then a
+  text (summary): daisies, violets, tulips, marigolds,
+  dahlias, lilies, jasmines and roses can earn you a
+  living handled professionally — a FLORIST prepares
+  displays of real and artificial flowers with
+  greeneries for weddings, birthdays, anniversaries,
+  Valentine's day, official receptions and funerals;
+  every flower has its distinct colour, design, value
+  and meaning — conventionally roses for romance and
+  marriage anniversaries, tulips for birthdays; formal
+  education is not always essential, but good taste, a
+  good eye for colours, shapes and proportion, and a
+  sense for selecting flowers, ribbons and accessories
+  are; most learn through apprenticeship in a flower-
+  farming job and floral schools and courses; florists
+  earn fairly handsome money and work all day in a
+  fresh, fragrant, colourful environment. Questions;
+  write an imaginary interview with a florist.
+
+### Unit Ten — Dreams (pp.122–131)
+
+- L1 I Have a Dream (pp.123–124): four dream texts
+  (summaries): Moitry Mutsuddi, whose freedom-fighter
+  father and teacher mother dream of a golden
+  Bangladesh, has decided to be a politician; Mofakkhar
+  Hasan, living in a slum with his parents and sisters,
+  will be a social worker and fight social injustice
+  and poverty — "'Change' is the word I believe in";
+  Amitabho Kar wants to be a space traveller and
+  visualises stepping on Mars from a space shuttle;
+  Ruth Antara Chowdhury will be a teacher, because a
+  society cannot be enlightened without proper
+  education and "Education lights the candle in
+  people's heart." Then a JUMBLED INTERVIEW to
+  reorganise, with Swati, a successful JSC student,
+  interviewed by reporter Animesh Roy (summary of its
+  substance): there is no magic — she worked hard,
+  followed the teachers' advice "The more you read,
+  the more you learn," and had a study group that
+  discussed problems first and helped each other —
+  "two heads are better than one"; her dream is to be
+  a scientist and research how to get rid of the
+  ARSENIC poisoning of Bangladesh's drinking water and
+  crops, a kind of slow poisoning, using "our own
+  recourses [as printed] and expertise." A listening
+  text (text 8) checks the ordering.
+- L2 What I Dream to Be (pp.125–126): dream words
+  grouped (imagination, emotion, passion, obsessions,
+  strong desire, colour, rosy, future, mind, brain,
+  plan); five discussion questions; a LISTENING grid
+  (text 9) for three dreamers — Catherine Aich, Masum
+  Billah, Nirmal Drong — with check statements and an
+  IF-CLAUSE substitution table (summary of the table's
+  content: if Masum becomes a nurse / if Catherine
+  deserves any merit / if Nirmal has opportunities /
+  if Najmun Sultana called a trained medical person /
+  if Najmun came to Nirmal's class a few days ago…)
+  and a composition on an inspiring event and a dream.
+- L3 They Had Dreams (Part-1) (pp.127–129): Shanta
+  chats with her foreign friend Jenny — her dream is
+  to be a good human being first, then work for her
+  country — and offers her favourite dreamers.
+  PRITILATA WADDEDAR's biography (summary): born in
+  Chattogram on 5 May 1911; a meritorious student at
+  Dr Khastagir Government Girls' School and Eden
+  College, Dhaka; graduated in philosophy with
+  distinction from Bethune College in Kolkata; an
+  activist in the anti-British movement, dreaming of a
+  society without gender discrimination and a
+  motherland free of British colonial rule; head
+  teacher of Nandankanon Aparna Charan School in
+  Chattogram; she joined Surja Sen's armed resistance
+  movement; in 1932 Surja Sen planned an attack on the
+  Pahartali European Club, notorious for its entrance
+  sign "Dogs and Indians not allowed"; Pritilata led a
+  team of 10–12 men, dressed as a man; the raid
+  succeeded but she could not get out and committed
+  suicide by taking potassium cyanide to avoid arrest;
+  British rule ended in 1947, though she could not see
+  it in her lifetime. Word matching ×10; a Wh-question
+  substitution table.
+- L4 They Had Dreams (Part 2) (pp.130–131): ZAHIR
+  RAIHAN's biography (summary): one of the most
+  talented film makers in Bangladesh, born 19 August
+  1935 in Majupur village, Feni; an active worker of
+  the Language Movement — one of the ten students who
+  went out in procession on 21 February 1952 despite
+  the ban, arrested and jailed; present at the Amtala
+  meeting that day; in the mass movement of 1969; in
+  1971 he joined the Liberation War; all his life he
+  dreamt of a democratic society ensuring freedom of
+  speech; his legendary film Jibon Theke Neya, based
+  on the Language Movement, was a protest against the
+  autocratic government then ruling East Pakistan —
+  the family in the film symbolically represented
+  East Pakistan, ruled by an autocrat who had to go
+  to prison for her conspiracy; during the Liberation
+  War the film was shown outside Bangladesh and
+  appreciated by Satyajit Ray, Mrinal Sen and Ritwik
+  Ghatak; Raihan gave all the film's money to the
+  Freedom Fighters' trust; his documentary Stop
+  Genocide helped create world sentiment for the
+  liberation war; on 30 December 1971 he went to
+  Mirpur to find his brother, the writer Shahidullah
+  Kaiser, missing since 14 December, captured and
+  killed by the Pakistani army and local collaborators
+  — and never returned. A six-column grid; complete
+  the sentences; pair discussion.
+
+### Unit Eleven — Reading from English Literature (pp.132–150)
+
+Poems and stories are described by theme or plot
+only in this filing.
+
+- L1 Books (p.133): Eleanor Farjeon's poem (theme:
+  books are worlds of wonder and magic boxes — as one
+  opens them, new ideas and people rise; the room
+  melts away; we sail along the page to some other
+  land or age, our body in the chair but our mind
+  over there).
+- L2 Two Mothers Remembered (pp.134–135): Joann Snow
+  Duncanson's poem (theme: the speaker had two
+  mothers — the mother who carried her, gave birth,
+  nurtured her and launched her career, whose features
+  she bears; and the same mother changed by age, her
+  mind clouded, a stranger dressed in her mother's
+  clothes, the child become her mother's strength —
+  "We'd come full circle, we women three: my mother
+  the first, the second and me"; her charge to her own
+  children: love both of your mothers as both have
+  loved you). Eight questions.
+- L3 The Sands of Dee (pp.135–136): Charles
+  Kingsley's poem (theme: Mary is sent to call the
+  cattle home across the sands of Dee; the western
+  wind is wild and dank with foam and the western tide
+  creeps up round and round the sand; she never comes
+  home; what washes up is a tress of golden hair above
+  the nets at sea — "Was never salmon yet that shone
+  so fair"; they row her in across the cruel crawling
+  foam to her grave beside the sea, and still the
+  boatman hears her call the cattle home). Five
+  questions, including why the poet repeats words and
+  phrases.
+- L4 Time, You Old Gipsy Man (pp.137–138): Ralph
+  Hodgson's poem (theme: the speaker begs Time, the
+  old gipsy man, to stay and put up his caravan just
+  for a day, offering bells of silver for his jennet,
+  a great golden ring beaten by goldsmiths, peacocks
+  bowing and girls festooning him with may — but Time
+  was last week in Babylon, last night in Rome, and
+  hastens away, blind in the womb and off to the
+  tomb). Three questions.
+- L5 Stopping by Woods on a Snowy Evening (p.139):
+  Robert Frost's poem (theme: the speaker stops
+  between the woods and the frozen lake on the darkest
+  evening of the year; his little horse thinks it queer
+  and shakes his harness bells; the only other sound
+  is the sweep of easy wind and downy flake; the woods
+  are lovely, dark and deep, but he has promises to
+  keep, and miles to go before he sleeps — the last
+  line repeated). The lesson works the RHYME scheme
+  stanza by stanza; four questions, including an
+  imaginary dialogue between the poet and his horse.
+- L6–L8 The Purple Jar (Parts 1–3) (pp.140–144):
+  adapted from Maria Edgeworth (plot summary):
+  Rosamond, about seven, walks with her mother through
+  London streets, wanting everything in the windows
+  without knowing the things' uses or even names — at
+  the milliner's, artificial roses (refused: not real
+  flowers); at the jeweller's, earrings, a necklace,
+  pendants (refused: of what use?); buckles (her
+  mother already has a pair); at the chemist's, jars —
+  blue, green, red, yellow and purple — and she
+  fixates on a purple jar she would use as a flower
+  pot, though she already has one. A stone gets into
+  her shoe through a hole — her shoes are quite worn
+  out — and her mother says she cannot buy shoes,
+  jars, jewellery, buckles and all she wishes; she may
+  buy ONE thing now and the other next month, and must
+  decide herself. Rosamond argues with herself, judges
+  the shoes "not so bad" except the hole, and chooses
+  the jar. Limping home, she is told to examine the
+  jar carefully before buying, but in excitement she
+  buys it without looking inside. At home she lifts
+  the top: something dark inside gives off an
+  unpleasant smell she didn't want; told to pour it
+  out and fill the jar with fresh water, she finds it
+  is no longer purple — with its coloured water gone
+  it is a PLAIN WHITE GLASS JAR. She cries for her
+  folly; every day her shoes grow worse; she can
+  neither run, dance, jump nor go shopping with her
+  mother; she suffers a whole month and learns a
+  lesson the hard way. MCQs and questions across the
+  three parts, and two character paragraphs from a
+  word box.
+- L9–L11 A Pound of Flesh / The Three Caskets / The
+  Trial (pp.145–150): one story in three lessons,
+  adapted from Shakespeare's The Merchant of Venice
+  (plot summary): Antonio, a rich and kind Venetian
+  merchant loved for his honesty, lends money without
+  interest; his friend Bassanio, of a noble family,
+  spends more than he earns and loves the wealthy,
+  wise Portia of Belmont; needing to visit her
+  grandly, he asks for three thousand ducats; all
+  Antonio's ships are at sea, so Antonio borrows from
+  the moneylender Shylock — a "very crooked man" who
+  lends at high interest, sends defaulters to prison,
+  and hates Antonio as Antonio hates him — on one
+  condition: if the money is not repaid in three
+  months, Shylock may cut a POUND OF FLESH from any
+  part of Antonio's body; Antonio signs the bond
+  willingly, sure his ships will return. At Belmont,
+  Portia's dead father has left three caskets — gold,
+  silver and lead — one holding her portrait; whoever
+  first chooses it marries her. The prince of Morocco
+  chooses gold and finds a skull with the message
+  "All that glitters is not gold"; the prince of Spain
+  [Arragon] chooses silver — "He who chooses me will
+  get what he deserves" — and finds the picture of a
+  blinking fool; Bassanio, thinking appearances are
+  often misleading, chooses the plain lead casket and
+  finds the portrait; they marry. Then a messenger
+  brings Antonio's letter: all his ships are lost, he
+  cannot pay, he must pay the penalty, and he wants
+  to see Bassanio once before he dies. At the trial
+  the Duke asks Shylock for mercy; Bassanio offers
+  twice the sum, then ten times; Shylock demands the
+  lawful penalty. The Duke admits a young lawyer,
+  Doctor Balthazar, come in place of the ill wisest
+  lawyer — Portia in disguise, her friend the clerk.
+  Portia begs mercy ("Mercy brings a blessing to him
+  who shows it and to him who receives it"); refused,
+  she reads the bond and rules: the law is on
+  Shylock's side, he may claim the flesh — then, as
+  Shylock advances with the knife and Antonio bares
+  his chest, she stops him: there is NO MENTION OF
+  BLOOD in the bond; he cannot shed a single drop of
+  blood while cutting his pound of flesh, or the
+  state will take all his property as the penalty.
+  Shylock, defeated by the wise lawyer, hangs his
+  head and leaves the courtroom without another
+  word; Antonio's life is saved. T/F, questions, and
+  character sketches of Portia, Antonio and Shylock.
+
+### Unit Twelve — Roots (pp.151–163)
+
+- L1 My Roots (pp.152–153): four photographs of crowds
+  rushing home; a text (summary): Eid is the main
+  religious festival of the Muslims in Bangladesh —
+  Eid means happiness — and everyone living outside
+  home wants to share it with near and dear ones, so
+  there is a mad rush to board buses, trains and
+  launches, and transport accidents take many lives,
+  yet nothing stops the rush; human roots are
+  invisible — they lie in our minds — and make the
+  bond between us and family members, in-laws,
+  friends, neighbours, and even the land where we were
+  born and grew up; our families, land of birth,
+  relatives, culture, traditions and surroundings are
+  our roots; roots develop our identity; losing the
+  bond makes us rootless — "a non-entity" — empty and
+  lost. Speech-bubble questions; a roots/rootless
+  grid.
+- L2 My Roots – 2 (pp.154–156): eight signed remarks
+  to sort by attitude (Haridas Soren cannot bear
+  people with no respect for their roots; Bidisha
+  Yasmin feels at home in her village; Ifti Mahmud
+  seldom visits his village relatives — he doesn't
+  like village life; Antara Gomes dismisses people
+  eager to leave everything for city life; Jhilik
+  Ahsan isn't used to visiting village relatives;
+  Anupom Chakma is proud his parents come from a tiny
+  beautiful village; Debashish Biswash can't stand
+  village-born people who forget it). Then Mainul
+  Islam of Naogaon (summary): a qualified farmer,
+  a Bangladesh Agricultural University graduate who
+  came back home to advanced farming; his two
+  brothers — a Rajshahi University graduate teaching
+  science locally and a social-science graduate
+  planning a local NGO — all live in their village,
+  renowned in their own fields; asked why they stay,
+  he answers that they could have been bankers or
+  bureaucrats but the city didn't attract them — "We
+  are sons of this soil"; not every educated person
+  should be a job seeker; they work their own farm,
+  stay with family, pass time with old friends and
+  sleep at their own home.
+- L3 The Return of the Native (pp.157–159): Michael
+  Madhusudan Dutt's biography (summary): the
+  celebrated 19th-century Bangalee poet and dramatist
+  was born in Sagordari on the bank of the Kopotaksho
+  River, Keshabpur Upazila, Jashore; from an early age
+  he aspired to be an Englishman in form and manner;
+  born into a sophisticated Hindu family, he converted
+  to Christianity as a young man, much to his family's
+  ire, and adopted the first name Michael; recognised
+  early as a precious child with a gift of literary
+  talent, he imitated the English in taste, manners
+  and intellect, believed he was born on the wrong
+  side of the planet, followed Lord Byron ardently,
+  went to Europe and composed poems and plays in
+  English — but was not esteemed as a native writer of
+  English literature; out of frustration he composed
+  a sonnet in Bangla, "Kopotaksha Nad," which earned
+  him huge reputation in Bangla; he realised his true
+  identity lay in Bengal, regretted his fascination
+  for England and the West, returned, and devoted
+  himself to Bangla literature, writing the first
+  Bangla epic, Meghnad Badh Kabya [as printed "Badh
+  Kabya"]. A statement-completion set adds (summaries):
+  he introduced amitrakshar chhanda, blank verse, in
+  Bangla literature; he passed most of his European
+  days in Versailles, France, in hardship and extreme
+  poverty; Iswar Chandra Vidyasagar helped him pay
+  off his debts and return to India; he married twice
+  — Rebecca Mactavys [as printed] of English descent
+  in Madras, then Henrietta Sophia White; the second
+  marriage lasted until his death; he and Sophia had
+  a son, Napoleon, and a daughter, Sharmistha; he died
+  in Calcutta General Hospital on 27 June 1873, three
+  days after Henrietta's death.
+- L4 In Search of Identity (pp.159–163): a problem
+  page, "Avajon's Problem page — You aren't alone…"
+  (summaries): Mithun writes of the city's footpaths
+  occupied by FLOATING PEOPLE living in makeshift
+  shacks — father, mother, grandparents and kids in a
+  few square yards, sleeping, socialising, cooking and
+  even beautifying themselves there, in what he calls
+  an inhuman condition, least bothered about health
+  and hygiene; yet they have their own homes and
+  identity in their own village and came thinking city
+  life will be better — "What an irony!" Avajon's
+  reply (summary): rural-to-urban movement is a big
+  social problem in many countries; the floating
+  people have lost their roots and cannot assimilate
+  in the new culture; people become rootless through
+  climate change, river erosion, social discrepancies
+  or poverty; the problem cannot be solved overnight,
+  but Mithun can form a committee of young people to
+  teach them basic health and hygiene. A reference-
+  pronoun exercise (they/their/this/that/it); write
+  two problem letters; and a TV TALK SHOW roleplay,
+  "Looking back to roots," with verb gaps throughout
+  (summary of its content): Mojnu Mia of Sherpur, whose
+  river-erosion-prone home lost land and house,
+  considers himself a refugee, hawks vegetables, works
+  very hard, cannot give time to his wife or kids,
+  lives in a dirty slum, and finds that in the village
+  everybody knew him while in the city no one does;
+  Fazlur Rahman, who went young to the UK, did odd
+  jobs, took professional training, became a citizen
+  with his own detached home, car and business and
+  pays a good amount of income tax — yet after more
+  than 15 years there is still a distinction between
+  natives and expatriates, and when he comes home he
+  wishes he had not gone; the social scientist Nilima
+  Chowdhury names the problem DIASPORA — migration or
+  scattering from an established or ancestral
+  homeland, for government action, political decisions,
+  or avoiding conflict and war — whose consequences are
+  culture shock, homesickness, mental conflict and
+  identity crisis, and sometimes crime; people will
+  still move in the 21st-century global village, but
+  those with better ties to their roots suffer less.
+
+### Unit Thirteen — Loneliness (pp.164–174)
+
+- L1 Loneliness: Causes, Effects and Prevention
+  (pp.165–168): an abridged excerpt from Lindsay
+  Modglin's Forbes Health article (its substance is
+  summarised here): loneliness is a universal emotion
+  most of us experience at least once; a 2020 Cigna
+  study found 61% of Americans reported being lonely
+  in 2019, up from 54% in 2018. The APA defines
+  loneliness (in the article's quoted words) as the
+  affective and cognitive discomfort or uneasiness
+  from being, or perceiving oneself to be, alone or
+  otherwise solitary. Loneliness (a feeling) is not
+  being alone (a situation, not inherently negative):
+  Dr Nina Vasan (Stanford psychiatrist; chief medical
+  officer at Real) notes you can feel lonely among a
+  partner, family, co-workers or friends, and be alone
+  without feeling lonely when connecting through good
+  communication or volunteering. Causes: a major life
+  change; a 2020 University of Edinburgh study found
+  causes differ by age — older adults' loneliness
+  follows living alone more often, while middle-aged
+  people report it less; older people have retired,
+  lost the community of work, lost friends and family,
+  and face medical or physical limitations (Dr Nikki
+  Press, a New York City clinical psychologist); the
+  listed common causes are the death of a close friend
+  or family member, physical isolation (living alone
+  or moving away), illness or disability, retirement,
+  and working alone; the higher-risk groups named are
+  young adults, mothers with young children, the
+  elderly, and immigrants. Coping and prevention aim
+  at strong, healthy connections: find hobbies you
+  enjoy; volunteer for an organisation you support;
+  join support groups; routinely contact family and
+  friends (even by phone or video chat); maintain a
+  healthy diet and a regular exercise regime. Questions
+  ×6; fill-ins ×5; draw a mind map like the printed
+  Flood model; and the unit's REFERENCES line cites
+  "Modgin, L. (2023)" [as printed] and the Forbes
+  Health page.
+- L2 A Poem (pp.169–170): Ella Wheeler Wilcox's
+  "Solitude" (theme: laugh, and the world laughs with
+  you; weep, and you weep alone — the sad old earth
+  must borrow its mirth but has trouble enough of its
+  own; rejoice and men seek you, grieve and they turn
+  and go; feast and your halls are crowded, fast and
+  the world goes by; succeed and give, and it helps
+  you live, but no man can help you die; there is room
+  in the halls of pleasure for a large and lordly
+  train, but one by one we must all file through the
+  narrow aisles of pain). Dictionary work on eight
+  words; a 100-word summary; write a letter to your
+  best friend about your activities when you feel
+  lonely.
+- L3 The Story of an Hour (pp.171–174): Kate Chopin's
+  story (plot summary): knowing Mrs. Mallard has a
+  heart trouble, her sister Josephine and her
+  husband's friend Richards break the news of Brently
+  Mallard's death in a railroad disaster as gently as
+  possible — Richards had been at the newspaper office
+  when the list of "killed" arrived and had confirmed
+  it by a second telegram. Mrs. Mallard weeps at once
+  with sudden, wild abandonment in her sister's arms,
+  then shuts herself in her room alone. Before the
+  open window she sinks into an armchair, physically
+  exhausted; outside, the tops of trees are aquiver
+  with new spring life, the breath of rain is in the
+  air, a peddler cries his wares, sparrows twitter.
+  Something is coming to her that she waits for
+  fearfully; she struggles to beat it back with her
+  will, then abandons herself and whispers "free,
+  free, free!" — she sees beyond the bitter moment a
+  long procession of years that would belong to her
+  absolutely: no one to live for, no powerful will
+  bending hers; she had loved him — sometimes; often
+  she had not; self-assertion is the strongest impulse
+  of her being; she prays that life might be long —
+  only yesterday she had thought with a shudder that
+  life might be long. She descends the stairs with a
+  feverish triumph, like a goddess of Victory — as
+  someone opens the front door with a latchkey:
+  Brently Mallard himself, a little travel-stained,
+  far from the scene of the accident, not even knowing
+  there had been one. Richards moves quickly to
+  screen him, too late. The doctors say she died of
+  heart disease — "of joy that kills." Eight
+  questions; write a dialogue breaking sad news.
+
+### Unit Fourteen — Renewable Energy (pp.175–184)
+
+- L1 Renewable Energy Sources (Part 1)
+  (pp.176–180): an odd-word-out grid, then a text
+  built on APJ Abdul Kalam's speech at the 90th
+  Science Congress (summary): the era of wood and
+  biomass has almost ended; the age of oil and natural
+  gas will be over within the next few decades; massive
+  burning of the world's coal may lead to a worldwide
+  ecological disaster, coal emitting the highest
+  carbon; the only solution is the massive use of
+  SOLAR energy. The figures: world petroleum
+  consumption has grown from 3 billion barrels annually
+  in 1930 to 37 billion today; population will reach
+  about 8 billion (30 percent higher) in the next
+  quarter century; developing countries will grow
+  about two times faster; energy demand will grow
+  about 1.7 percent per year — a 50-percent rise by
+  2030, daily petroleum use from 100 million barrels
+  now to 150 million by then; hydrocarbon reserves are
+  limited. A substitution table and a word-box cloze
+  on Kalam's SPACE-BASED solar proposal (summary):
+  solar power harvested by space stations round the
+  clock — the sun radiates about 10 trillion times
+  the energy humans consume today; space-based plants
+  are not affected by weather and would be far more
+  effective; the energy would be transmitted back to
+  earth through microwave or laser technology, with
+  careful research on impact and safety. Then a
+  DIALOGUE (summary): at Sohan's village Union
+  Parishad office, Mr Asadul Islam's organisation
+  introduces solar-power units for rural households —
+  an "alternative power supply system," a substitute
+  for conventional electricity, installable on open
+  rooftops; the small panels run two or three tube
+  lights, two fans and a TV, NOT the Chairman's
+  irrigation pump (larger units can run more); the
+  Chairman leaves for the bus stand, hoping the
+  villages still without electricity will welcome it.
+  T/F ×3; questions; roleplay.
+- L2 Renewable Energy Sources (Part 2)
+  (pp.181–184): a text (summary): the world relies on
+  petroleum, coal and natural gas; energy sources are
+  of two types — renewable and non-renewable; fossil
+  fuels are finite, will become too expensive, and
+  pollute directly, causing global warming; renewable
+  sources are constantly and naturally replenished and
+  never run out; most renewable energy comes directly
+  or indirectly from the sun — solar energy for
+  heating, lighting and electricity; wind energy
+  captured by turbines; hydroelectric energy from the
+  water cycle; bioenergy from biomass (fire wood,
+  alcohol); hydrogen, the most abundant element, which
+  exists only combined (as in water) and, separated,
+  can be burned as a fuel to produce electricity;
+  geothermal energy from the earth's molten interior;
+  ocean energy from tide and wave and from the
+  surface-depth temperature difference. A DIALOGUE
+  (summary): Raju, a class-ten student, learns from
+  his uncle Mr Barua of the Sangu Gas Field that
+  renewable energy is also called GREEN ENERGY because
+  it does not harm the environment in production or
+  consumption — "no burning, no smoke, no emission of
+  gases" — a clean technology and clean energy source,
+  while burning fossil fuels emits greenhouse gases.
+  Model dialogues on each source follow; a letter to
+  the editor appreciating Dhaka's two city
+  corporations installing solar panels for road
+  lighting.
+
+### Unit Fifteen — Media and Modes of E-communication (pp.185–195)
+
+- L1 Media and Modes of E-communication
+  (pp.186–189): e-communication words first
+  (facebook, e-mail, web site, blog, e-commerce,
+  twitter, e-learning, iPod, tablet pc, information
+  super high way [as printed], social network, smart
+  phone); then a text (summary): a citizen's workday
+  now begins, after coffee or tea and greeting
+  colleagues, with logging into the computer —
+  receiving and sending dozens of emails has become
+  automatic behaviour dominating the workday; an
+  e-mail is an electronic mail, a computer-aided way
+  of exchanging digital text messages from a sender to
+  one or multiple recipients, operating through a
+  network of computers linked by the Internet;
+  commercial server agencies (Yahoo, Gmail, Ymail,
+  Hotmail, etc.) accept the text message, forward it
+  and deliver it instantly to the recipient's digital
+  mailbox — or store it and deliver it later when the
+  recipient is online; "It works instantly just with
+  the click of your mouse." Questions ×5; then a
+  MODEL EMAIL to spot and correct mistakes in
+  (summary of its content): Alexa Dowson writes to
+  Moutushi Laboni from Ottawa — flying 13 July with
+  Qatar Airlines via London–Doha, landing Dhaka 15
+  July, wishing to stay 2 days in Cox's Bazar and 1
+  day in Khulna, return flight 21 July; learners then
+  imagine Moutushi's original email. A verb-form
+  cloze traces email's ORIGIN (summary): electronic
+  text messages date back to the Morse code telegraph
+  of the mid-1800s and the 1939 New York World's Fair,
+  where IBM sent a letter of congratulations from San
+  Francisco to New York on an IBM radio-type(r);
+  teleprinters were used in Germany during World War
+  II; Telex spread worldwide until the late 1960s,
+  with the American TWX system important until the
+  late 1980s; MIT's Compatible Time-Sharing System
+  (CTSS) of 1961 first let multiple users log into a
+  central system from remote dial-up terminals, store
+  and share files, and pass messages — the method
+  developed to create the first true e-mail system.
+  A listening grid (text 10) compares emails, phone
+  conversations and face-to-face meetings for time,
+  reliability and efficiency; a debate on email's
+  advantages and disadvantages.
+- L2 Social Network Services (pp.189–192): the
+  Facebook and X logos open the lesson; a text
+  (summary): the Internet has helped design [printed
+  "desgin"] a large number of websites facilitating
+  social relations — social networking services, social
+  networks or social media; at present Facebook is the
+  most popular social media site; LinkedIn, X
+  (formerly Twitter) and Google+ are other frequently
+  used services; the services are web-based, connect
+  people across borders and "have made the users feel
+  that they really live in a global village"; they
+  expand fast because most are cost-free (you pay a
+  little to your Internet service provider), profiles
+  can be made public before the entire online
+  community, other people's profiles can be looked
+  into, pictures and multimedia can be uploaded and
+  profiles modified and updated, blog entries can be
+  posted, profile pages carry a comments section, and
+  privacy protection measures let each user decide
+  what to share. The LINKING WORDS of the second
+  paragraph (Secondly, Thirdly, Fourthly, Finally)
+  are picked out as the logical sequence. MCQs ×4;
+  fill in a Facebook sign-up form from a screenshot;
+  and a Wikipedia-adapted TABLE (its figures are the
+  lesson's record): Facebook 792,999,000 users, 55.1%,
+  worldwide; Google+ 250,000,000, 17.7%; Twitter
+  167,903,000, 11.7%; LinkedIn 94,823,000, 6.6%, Asia
+  and Europe; MySpace 61,037,000, 4.2%, USA and
+  Canada; Others 255,539,000, 17.8%; total
+  1,438,877,000 — with dialogues to complete from it.
+- L3 E-learning (pp.192–195): a text (summary): can
+  there be a classroom with no blackboard or desks, a
+  student with no printed book, pad or pen — a tutor
+  answering your question while flying in a Boeing
+  from Dubai to Dhaka? All are possible in a 'virtual
+  campus' in the system of e-learning; social
+  networking services give educationists access to
+  millions, many of them students; but online
+  education programmes must not be confused with
+  e-learning — in an online programme you may get
+  materials online, submit assignments by email or
+  take a test online, yet there is a conventional
+  campus from which your certificate comes; in
+  e-learning, as the global e-learning guru Dr Badrul
+  H Khan puts it, EVERY step — registration, admission,
+  classroom entry and exit, class work, attendance,
+  discussion with course mates, feedback, exams and
+  finally certification — must take place
+  electronically through computer and Internet
+  technology in a virtual campus; everything is
+  digitised and conducted by a Learning Management
+  System (LMS), so online programmes blend various
+  components of e-learning. Khan — born in Bangladesh,
+  graduated in the United States, a professor at
+  George Washington University and the University of
+  Texas — is enthusiastic about e-learning's prospect
+  in Bangladesh; the text ends hoping Bangladesh might
+  establish South Asia's first virtual university.
+  Sentence completion ×5; write an email to your
+  teacher about e-learning; write a text message
+  inviting a friend to Dr Badrul Huda Khan's [as the
+  task spells the name] school presentation.
+
+### Unit Sixteen — Graffiti (pp.196–200)
+
+A passage unit with no lettered sub-lessons in the
+pages read; it opens under the heading "Disturbing
+the Comfortable, Comforting the Disturbed" with
+Banksy's line (quoted in the book): art should
+comfort the disturbed and disturb the comfortable.
+Its substance (summarised): on 16 July 2024 Abu
+Sayeed, an unarmed organiser of the students'
+movement for quota reform at Begum Rokeya University
+in Rangpur, was shot and killed by police as he
+stood with his arms stretched out, leaving his
+mother Monowara Begum asking why they killed her son
+when he only wanted a job. Since the 1960s graffiti
+in Bangladesh has served as a powerful voice for
+resistance: in 1966 student activists spray-painted
+"Down with Ayub Khan" and shouted "chika! chika!" —
+a word meaning mole or muskrat — pretending to kill
+rodents to disguise their actions when military
+forces approached; this guerrilla tactic began
+graffiti as a tool of dissent, and it played a
+crucial role in the Liberation War of 1971. Noor
+Hossain, with "Down with Autocracy" painted in bright
+white on his bare chest (the book notes the Bangla
+spelling in the photograph is a misspelling — raw
+spontaneity), was photographed by Dinu Alam on 10
+November 1987 during a pro-democracy protest in
+Dhaka and was shot and killed by Bangladesh Police
+shortly after. In recent times graffiti resurfaced
+during the July uprising — spray-painted messages
+like "The country is nobody's father's" invoked the
+legacy of past movements, echoing Noor Hossain's
+"Gonotontro Mukti Paak" (Let Democracy Be Free) from
+the Ershad regime. Graffiti's potency lies in its
+subversive, guerrilla nature: unlike wall art —
+typically organised and sanctioned, taking time and
+care — graffiti thrives on immediacy, spontaneity
+and the risk of persecution, requiring speed and
+anonymity because of the threat of detection; its
+purpose is to challenge power, counter surveillance
+and inscribe messages that are otherwise censored or
+suppressed. July's wall art and graffiti also voiced
+the marginalised and minoritised — "Not a land of
+one nation, Bangladesh is a land of many communities"
+— collective liberation intertwined across regions
+and backgrounds, echoing Derrida's line that what
+cannot be said must not be silenced but written. The
+unit closes with questions ×5, an essay on graffiti's
+role in resisting censorship and challenging power,
+and a group project designing a graffiti or wall-art
+piece. Photographs and captions throughout: the
+Mirpur 10 metro-pillar graffiti "Why did you kill my
+son?"; Noor Hossain's photograph and its wall-art
+afterlife; July uprising wall art; the "many
+communities" wall.
+
+### Slips and points recorded as printed
+
+- U1 L2 (p.6): the Beauvoir task prints "One is not
+  born a woman, one becomes a woman" as "a comment by
+  a famous gender theorist," unnamed in the book.
+- U2 L1's Forma line reads "Forma-2, English For
+  Today-9-10" on p.9 — the volume's forma marks run
+  to Forma-25.
+- U3 L1 (p.27): "Chander Haat Bidyaloa" for the
+  school name; (p.30) "Larissa Latynin" in the
+  Phelps text.
+- U4 L1 (p.39): the MCQ keying is the listening
+  text's, not printed; Mother's Day's first formal
+  US announcement is offered as 1872 among the
+  options.
+- U4 L4 (p.44): "Kofi Anan" for Kofi Annan.
+- U5 L2 (p.56): the population table prints Sri
+  Lanka's land area as 62,710 sq km.
+- U6 L1 (p.66): "Chetri and Bahun" for Chhetri and
+  Bahun; (p.67) "Dasain or dusherra," "Chaitra
+  Daisan," "Mani Rimd" as printed.
+- U6 L4 (p.80): the India history flow chart's third
+  box is headed "15th Century" over the unification
+  under Ashoka, which the text places in the fifth
+  century.
+- U7 L2 (pp.88–91): the mime artist's name is
+  spelled Majumder in the heading and questions,
+  Mojumder in the text; the award body prints
+  "Malayasia" in the listening chart.
+- U7 L4–L5 (pp.94–96): the home is "Nirmal Hriday"
+  in the listening text and "Nirmol Hriday" in the
+  reading text.
+- U7 L6 (p.99): the questions head prints "qustions";
+  (p.98) the text prints "howover" for however.
+- U8 L1 (pp.103–104): the mosque is "Shat Gambuj" in
+  the title and Contents, "Shat Gombuj" in the text.
+- U9 L2 (p.118): "work part-time or towards a
+  freelaner [as printed]" for freelancer; (p.119)
+  "lefft on a park bench" in the model dialogue.
+- U10 L1 (p.124): Swati's "our own recourses" for
+  resources.
+- U12 L3 (p.159): "Rebecca Mactavys" and "Badh
+  Kabya" as printed.
+- U13 L1 (pp.165–174): the byline is "Lindsay
+  Modglin" and the references list prints "Modgin,
+  L. (2023)."
+- U15 L1 (p.186): "information super high way" in
+  the word box; (p.187) the model email's addresses
+  print "alexa.dowson@yahoo.com" and
+  "moutushi1997@ymail.com"; L2 (p.190) prints
+  "desgin" for design; L3 (p.194) spells the guru
+  "Dr Badrul Huda Khan" in the writing task against
+  "Dr Badrul H Khan" in the text.
+- U16: the unit's photographs carry Bangla graffiti
+  and captions; the passage prints Derrida's line in
+  quotation marks as an assertion, unverified here.
+- Recorded as facts of the book, not errors: the
+  listening texts are cited but never printed (the
+  teacher/audio side holds them); Units 13 and 16 are
+  2024–2025 additions to the 2012 series; the Dakhil
+  printing's lesson frames say "madrasah" where the
+  general printing says "school" (e.g. the Class 6
+  volume).
+
+BANGLADESH CLASS 9–10 FULLY READ — 2026-10-26 (full
+re-read, page by page from the book's page images;
+this one volume fills BOTH the Class 9 and the Class
+10 rows of the record; replaces the basics-only
+MAPPED filings for both)
+CITATION CHECK PASSED — 2026-10-26: anchors re-opened
+in the book itself and confirmed — the Dakhil title
+page and 2013 prescription (PDF p.2), imprint with
+the eight writers and October 2012 first publication
+(PDF p.3), the secondary Preface (PDF p.4), Contents
+with sixteen units ending at Graffiti p.196 (PDF
+p.5), Mr. Moti's basket (p.4), Kincaid's bread-
+squeezing exchange (p.6), Beauvoir task (p.6),
+Whitman's Answer (p.7), Meherjan's 100,000 homeless
+a year (p.9), air/water/soil heads (pp.12–13), 85
+million barrels (p.15), Ghosh's "30 dead / 700 Hurt"
+(p.18), the 30th September 2024 diary (p.20), Reduce/
+Reuse/Recycle (p.21), the yoga article's heads
+(pp.25–26), Shyam's camera (p.27), Phelps 22 medals
+(p.30), RSPB nature deficit disorder (p.32), the
+9–10 survey chart (p.34), TV 41/48/52 (p.36), Rhea
+MCQ (p.39), McCormick 1886 (p.40), Tania Tk. 3000
+(p.41), Jinnah 21 March 1948 (p.42), UNESCO 17
+November 1999 (p.44), the 31-gun salute (p.45),
+Ramna Batamul (p.48), Jamil's sunken ferry (pp.51–
+52), the population table's density 1116 (p.56),
+Ms Choudhury's banyan (p.58), Lipi's called-off
+marriage (p.60), will/would diary (p.61), Sheela's
+Biman job (p.62), Nepal's 147,181 sq km (p.65), the
+BDT 39,999 package (p.68), "Ayubowan" (p.70), Sri
+Lanka 65,600 sq km (p.71), Dambulla's 167 days
+(p.74), the Maldives' 2.3 metres (p.76), the 2009
+underwater cabinet (p.76), India's 844 dialects
+(p.79), Bhutan's 60 percent forest (p.82), Gross
+National Happiness (p.82), Zainul's 1943 Famine
+Sketches (p.87), Partha's Moliere Award 2009 (p.90),
+"Malayasia" (p.91), Agnes Gonxha Bojaxhiu (p.92),
+the fourth vow (p.94), Nirmal Hriday and the Nobel
+1979 (pp.95–96), Steve Jobs 24 February 1955 (p.98),
+Imogene Hill's lollipop (p.100), Shat Gambuj's 77
+domes (p.103), Cunningham 1879 (p.105), Bartholdi
+1876 (p.109), Baikal 1,620 m (p.111), Sayeed Kamal's
+nursery (p.114), florist roses and tulips (p.121),
+Moitry's politician dream (p.123), Swati's arsenic
+research (p.124), Pritilata's cyanide (p.128), Zahir
+Raihan missing 30 December 1971 (p.130), Farjeon
+(p.133), Duncanson's two mothers (p.134), Kingsley's
+Mary (p.136), Hodgson's Babylon and Rome (p.138),
+Frost's miles to go (p.139), Rosamond's plain white
+jar (p.144), three thousand ducats (p.146), "All
+that glitters is not gold" (p.148), no blood in the
+bond (p.150), Eid roots (p.152), Mainul Islam's
+brothers (p.156), "Kopotaksha Nad" (p.158),
+Mithun's floating people (p.160), diaspora defined
+(p.163), APA's definition (p.165), Cigna 61% (p.165),
+Wilcox's narrow aisles of pain (p.169), Chopin's
+"joy that kills" (p.174), Kalam's 90th Science
+Congress (p.176), 10 trillion times (p.178), solar
+units' two fans and a TV (p.180), green energy
+(p.183), the email definition (pp.186–187), CTSS
+1961 (p.188), Facebook 792,999,000 (p.191), Dr
+Badrul H Khan (p.193), Abu Sayeed 16 July 2024
+(p.197), Noor Hossain 10 November 1987 (p.197),
+"Not a land of one nation" (p.199), "The End"
+(p.200) and the back cover (PDF p.206).
 
 ## Class 10 — English for Today, Classes Nine–Ten
 
@@ -4872,6 +6666,11 @@ An older combined edition (2018, revised 2017) exists
 with a partly reshuffled unit order; the current
 printing read here governs.
 
-BANGLADESH CLASS 10 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26)
-— **BANGLADESH COMPLETE: all 9 record rows read (the
-Classes 9–10 volume serving both of its rows).**
+BANGLADESH CLASS 10 FULLY READ — 2026-10-26: the
+Classes Nine–Ten volume filed in full directly above
+under Class 9 IS this row's book; its full re-read
+and citation check (both recorded in that filing's
+closing block) cover this row.
+— **BANGLADESH COMPLETE: all 9 record rows fully
+read (the Classes 9–10 volume serving both of its
+rows).**
