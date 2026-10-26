@@ -1623,32 +1623,639 @@ the back cover (PDF p.129).
 
 ## Class 4 — English for Today, Class Four
 
-NCTB; 97 pp. (this copy the 2025 printing). Same route.
-The shape changes: 42 short single-theme units plus a
-closing Vocabulary — and grammar is now NAMED in the
-unit titles themselves.
+NCTB. This is an OLDER book than Classes 1–3: prescribed
+as the Class Four textbook from the academic year 2013,
+written under the curriculum 2012; first edition October
+2012, reprint September 2022, REVISED EDITION October
+2024, and the title page says "Revised for the year
+2025." First Edition Writers and Compilers: Shaheen M.
+Kabir, A. M. M. Hamidur Rahman, Md. Zulfeqar Haider,
+Goutam Roy — a different team from Classes 1–3 (only
+Haider overlaps). Illustration Editor: Hashem Khan. The
+Preface is the same chairman's October 2024 text with
+two differences: it opens "A well-defined targets and
+properly planned primary education provide strengths…"
+and it states the book "written under the curriculum
+2012, has been revised to address the need in the
+changed context of 2024." 97 PDF pp.; printed pages run
+2–90 (printed page = PDF page − 5); image-only PDF, read
+from page images. PDF p.5 is the Bangla teacher page,
+in substance the same guidance as the other primary
+books. Back cover: "Academic Year 2025, Class
+Four–English," the motto "Honesty is the best policy,"
+artwork lettered "From 1971 TO 2024 WE ALWAYS FOUGHT FOR
+OUR RIGHT," and the NCTB QR code.
 
-Units: About Me · Greetings · Family · Family Tree,
-Verb to be · Classroom Language, Sound Practice 1 · At
-the Shop, Counting · Making Requests, Numbers and Sound
-Practice 2 · Traffic Lights, Numbers · Traffic Rules,
-Alphabet · Who's First?, Alphabet · Say it Right!,
-Alphabet · Days of the Week · Telling the Time · Mita's
-Day, My Day · Sagar and His Family, Wh-words and Do/Does
-· Sagar's Week, at/in · In the Park, Present Continuous
-· Clap your Hands · Food and Meals 1–2 · Food around the
-World · Tune up! · Write Well 1–4 · Story: The Hen and
-Her Chicks · Letter to a Friend · Animals · Months of
-the Year 1–2 · Days of the Week · My Day, Simple Past
-Tense · SM Sultan · My Trip · On Holiday 1–2 · A Holiday
-Letter · Occupations · A Garment Worker's Day · An
-Interview · Story: The Lion and the Mouse · Vocabulary.
+FORTY-TWO units, each a two-page spread headed by the
+periods it covers ("Lessons 1-2", "Lessons 3-4"…), plus
+a four-page alphabetical VOCABULARY list at the end
+(pp.87–90, roughly 450 words, no meanings given) — the
+first end-of-book word list in the Bangladesh set. The
+design is the old series': grammar boxes are called
+LANGUAGE FOCUS; there are no Let's practise blocks;
+texts are longer and the cast is new (Farzana and Jamil,
+Sagar, Mita, Moloy and Tania, Reshma). CURSIVE
+handwriting is taught and used (Units 9–12).
 
-Named grammar in this book: the verb "to be," Wh-words
-with Do/Does, at/in, the Present Continuous, and the
-Simple Past Tense.
+### Units 1–6 (pp.2–13)
 
-BANGLADESH CLASS 4 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26)
+- U1 About Me (pp.2–3): comic-strip introductions
+  (teacher Salma Akhtar; Ali in Class 4; Shirin from
+  Palashpur; Bijoy, nine years old); pairwork questions
+  (name, class, age, where from, where live, school
+  name — "Ask more questions"); write the answers in
+  your exercise book. P.3: a Hello song ("How are
+  you? / I'm very well, thank you"), and a dialogue
+  introducing a friend (Mita and Salam; "Who's your
+  friend?" / "This is Ayesha. She's in Class 3."),
+  acted in groups.
+- U2 Greetings (pp.4–5): four picture panels by time of
+  day (Good morning / "Morning, mum!"; Good afternoon,
+  teacher; Good evening; "Good night! See you
+  tomorrow." / "Goodbye! See you at school."); circle
+  the right reply word for each greeting (Hello /
+  Morning / Good afternoon / Goodbye). P.5: classroom
+  greetings and "We're going to play a word game
+  today." / "Hurrah! Let's start!"; a street dialogue
+  (Hasan and Sabina: "Where are you going?" — to buy
+  some books), acted in pairs with other picture
+  prompts (bat, ball, pencils, shoes).
+- U3 Family (pp.6–7): a three-part reading text
+  (summary): Farzana (nine, Class 4) and Jamil (seven,
+  Class 2) of Kushtia go to Chachua Government Primary
+  School; their mother Rehana Parvin (33) is a doctor
+  at a hospital in Kushtia; their father Aziz Ahmed
+  (39) is a pilot of Biman Bangladesh Airlines who
+  flies to India, Thailand and China; the grandparents
+  live with them — Altaf Uddin (68), a retired
+  government officer, and Jahanara Begum (64), a
+  homemaker who reads stories to the children and plays
+  carrom and ludu with them. Complete a Name / Age /
+  Job / Workplace chart for the family, then the same
+  chart for YOUR family, then write a paragraph about
+  your family in the exercise book.
+- U4 Family Tree, Verb to be (pp.8–9): the same family
+  as a TREE diagram; three questions on it. LANGUAGE
+  FOCUS: "Subject pronouns and the verb be in the
+  present simple" — a full table (I am / I'm / I'm not;
+  You are / You're / You're not; He/She/It is; We are;
+  They are). P.9: write the adjective for each picture
+  from a box of OPPOSITES (big, old, short, small,
+  tall, young), match the opposite pairs, and read a
+  two-verse poem aloud ("We're girls and boys. / We're
+  big and small. … And still we are a family."), then
+  underline the pronouns and the verb be.
+- U5 Classroom Language, Sound Practice 1 (pp.10–11):
+  match TWELVE instructions to pictures (Sit down.
+  Write your name. Close your book. Raise your hand.
+  Clean the board. Stand up. Get your book out. Take
+  the chalk. Be quiet. Stand in line. Open your book.
+  Draw a circle.); say and follow them in pairs. Sound
+  Practice 1: the sounds S and SH ("s is for sun. sh
+  is for shoe." — this older book uses the "is for"
+  wording the new series avoids); circle the sound you
+  hear (sun, sheep, glass, brush, shirt, ship); read a
+  sentence aloud and underline the s words, circle the
+  sh words (a snake and a sheep sleeping on a ship in
+  the sun).
+- U6 At the Shop, Counting (pp.12–13): eight school
+  things with TAKA price tags (pen 10, pencil 8, eraser
+  6, bag 450, crayons 100, pencil case 150, paper 2,
+  sharpener 5); a shop dialogue (summary): Tania asks
+  for two pens, a pencil and a piece of paper, adds a
+  pencil case; the total is 180 taka; she gives 200 and
+  gets 20 taka change; "Come again." Counting: number
+  WORDS up to 500 in the British pattern (one hundred,
+  one hundred and one, two hundred and twenty-five,
+  three hundred and eleven, five hundred), a read list
+  of nine; listen and circle the number heard
+  (confusable pairs: 50/150, 114/140, 365/369…).
+
+### Units 7–12 (pp.14–25)
+
+- U7 Making Requests, Numbers and Sound Practice 2
+  (pp.14–15): a borrowing dialogue (Can I borrow your
+  eraser? / Sure. Here you are. / Can I use your
+  sharpener, too? / I'm sorry. I don't have a
+  sharpener. / That's OK. Thanks anyway. / Could I
+  have some paper, please? / Sure. Take it.); act it.
+  LANGUAGE FOCUS: Making requests — Can I / Could you
+  table. Numbers: write 1–30 in words (gaps filled).
+  Sound Practice 2: Z and J ("z… is for zoo", "j… is
+  for jeep"); underline j words, circle z words in a
+  short zoo verse.
+- U8 Traffic Lights, Numbers (pp.16–17): the
+  traffic-light poem in full — a fuller variant of the
+  Class 2 rhyme (red: "I say stop and stop right
+  away"; yellow: "I mean slow down and wait for the
+  green"; green: "I say go, but look both ways";
+  closing: "Thank you, thank you, red, yellow, green.
+  / Now we know what the traffic lights mean."); T/F
+  ×7 on the poem; correct the false ones in the
+  exercise book (an example correction is given).
+  Numbers: write 31–50 in words; write the numbers
+  1–500 in figures in columns of 10 in the exercise
+  book; count 100 of something at home, street or
+  school and write a sentence about it (models given:
+  100 rickshaws in my street; 100 children in Class 4).
+- U9 Traffic Rules, Alphabet (pp.18–19): label eight
+  traffic pictures from a word list (intersection,
+  heavy traffic, traffic lights, hospital, school,
+  zebra crossing, no horn, no overtaking). LANGUAGE
+  FOCUS: Giving instructions — Verb against "Do not
+  (Don't) + verb" (Drive carefully. / Don't drive
+  carelessly.); complete five sentences with the
+  correct form of the verb in brackets. Alphabet:
+  write the CURSIVE CAPITAL letters A–Z on ruled lines
+  (a cursive model is shown for A).
+- U10 Who's First?, Alphabet (pp.20–21): a race
+  dialogue built on ORDINALS (eight runners; "Who's
+  first?" — Fazle; Tamanna is second; Samir is third);
+  underline the ordinal numbers. LANGUAGE FOCUS: an
+  Ordinal numbers table (cardinal → ordinal word →
+  short form, 1–10). Alphabet: write the cursive SMALL
+  letters a–p; write picture words in cursive.
+- U11 Say it Right!, Alphabet (pp.22–23): pronunciation
+  chants for vowel sounds — /ʌ/ (cup, hut, cut —
+  "Can you cut the bun?"), /ɑː/ ("Father, father, look
+  at the car. The car is near the park."), /ɒ/ ("What
+  have you got? I've got a spinning top! … Don't stop
+  my top!"). Alphabet: cursive small letters q–z;
+  picture words in cursive.
+- U12 Days of the Week (pp.24–25): the days listed
+  SATURDAY FIRST (Saturday, Sunday, Monday, Tuesday,
+  Wednesday, Thursday, Friday — Friday alone in red);
+  complete sentences with the day or the ordinal word
+  ("Saturday is the ______ day of the week… We don't
+  go to school on ______. It is the weekend." —
+  weekdays are "working days"). LANGUAGE FOCUS: Using
+  ON before days ("On Fridays, I help at home."). The
+  rhyme SOLOMON GRUNDY printed in full (born on Monday
+  … buried on Saturday … "That was the end of Solomon
+  Grundy."); questions on it (the question line spells
+  him "Soloman Grundy"); write the days in cursive in
+  the correct order under Weekdays and Weekend.
+
+### Units 13–18 (pp.26–37)
+
+- U13 Telling the Time (pp.26–27): the clock's two
+  hands named (the short, red hand is the hour hand;
+  the long, blue hand is the minute hand); say and
+  complete o'clock times. LANGUAGE FOCUS: Telling the
+  time — 12 o'clock midday and midnight, and the rule
+  "From midnight until midday, we use a.m. / From
+  midday until midnight, we use p.m." T/F on clock +
+  sun/moon pictures (It's 2 a.m. …), write the two
+  false sentences correctly, and ask and answer
+  "What's the time?"
+- U14 Mita's Day, My Day (pp.28–29): a routine text
+  (summary): Mita, Class 4, gets up at six o'clock,
+  has breakfast at seven, walks to school at nine,
+  visits her grandmother at three, returns home at
+  five; complete the sentences with the times in
+  numbers, using a.m. or p.m. LANGUAGE FOCUS: use AT
+  with times ("School begins at 7 a.m."). My Day:
+  answer five questions about yourself in complete
+  sentences; WRITE A SHORT COMPOSITION about your
+  daily routine from the answers; read it to a partner
+  and compare.
+- U15 Sagar and His Family, Wh- words and Do/Does
+  (pp.30–31): a first-person text (summary): Sagar,
+  nine, Class 4; his little sister Keya is three; his
+  father is a doctor, his mother a housewife; his
+  grandfather was a school teacher and helps him with
+  homework; his grandmother makes the best "pithas" and
+  grows tomatoes and cucumbers in her garden. Complete
+  six sentences with the question words What, Who,
+  Where, Why, How; ask and answer in pairs. LANGUAGE
+  FOCUS: "Questions with Wh-words and do / does" — a
+  substitution table (Where/Who/How + do + I/you/we/
+  they; What/When/Why + does + he/she/it); complete
+  ten questions with do or does; pairwork.
+- U16 Sagar's Week, at/in (pp.32–33): a two-part text
+  (summary): on weekdays Sagar gets up at 6, says his
+  prayers, studies Bangla and English with his
+  grandfather, has breakfast at 8 with Keya, leaves
+  for school at 9 (school starts at 10), does homework
+  in the evening, has dinner at 9 p.m. and goes to bed
+  at 10 p.m.; on weekends he visits his aunt and uncle,
+  plays in the park with cousins, watches TV or reads
+  stories to Keya, and goes to bed at 11. T/F ×6;
+  correct the false ones in the exercise book. LANGUAGE
+  FOCUS: Using in / at for time (in the morning / the
+  afternoon / the evening; at midday / night /
+  midnight). List your own weekday and weekend routines
+  in a table; write a short composition about your
+  weekdays routine. A two-line rhyme with the -or
+  sounds picked out in blue (four frogs on the floor /
+  four more behind the door).
+- U17 In the Park, Present Continuous (pp.34–35): a
+  park picture with a two-line dialogue ("The boy is
+  running very fast!" / "The girls are playing! Let's
+  play with them!"). LANGUAGE FOCUS: "Statements in
+  the present continuous — We use the present
+  continuous to talk about things happening now" with
+  the am/are/is table; talk about the picture using
+  given verbs. P.35: six captioned pictures (He's
+  sleeping. She's waking up. They're laughing. She's
+  drawing. They're reading. They're singing.);
+  complete six sentences in the present continuous;
+  look around your classroom and write two sentences
+  about what's happening (examples include a negative:
+  "It's raining. / It's not raining.").
+- U18 Clap your Hands (pp.36–37): LANGUAGE FOCUS:
+  STRESS — "We stress parts of words or sentences. The
+  parts of words or sentences in blue are louder."
+  (elephant, tomato, umbrella, notebook with the
+  stressed syllable in blue). An action rhyme with its
+  stressed words in blue (clap your hands with me; move
+  your head from side to side); say it again and CLAP
+  on the stressed parts. P.37: match four short HEALTH
+  rhymes to pictures — brush your teeth, drink some
+  milk, eat some fruit, take a bath, each with the
+  refrain "Father, mother, sister, brother" — and clap
+  on their stressed parts.
+
+### Units 19–24 (pp.38–49)
+
+- U19 Food and Meals 1 (pp.38–39): eight food words
+  (fried egg, rice, mixed vegetables, sandwich,
+  coconut, juice, strawberry, papaya); a restaurant
+  dialogue (summary): Rumi orders two fried eggs and a
+  glass of juice; there is no papaya juice, so mango
+  juice instead; act it in groups with other foods.
+  LANGUAGE FOCUS: Singular and plural — the rule as in
+  Class 3 but with S added to the -es list ("We usually
+  add s… For words ending in ch, sh, x, s, or z, add
+  es. For words ending in y, change the y to i and add
+  es."); write the plurals ×8; a LISTENING cloze —
+  complete a paragraph with the words that you hear.
+- U20 Food and Meals 2 (pp.40–41): a Mita-and-Mum
+  dialogue carried entirely by SOME and ANY (any
+  juice? — none; some milk; some ice-cream after
+  dinner; chicken and rice for dinner); circle the
+  thing Mita (finally) wants. LANGUAGE FOCUS: some and
+  any — a table (any in question and negative
+  statements; some in positive statements). Pairwork:
+  ask what's in your partner's bag using some and any.
+  P.41: complete a Joya-and-Ratul fridge dialogue with
+  some and any; circle from pictures what they are
+  going to buy; act it and write your own shopping
+  list.
+- U21 Food around the World (pp.42–43): two first-person
+  texts (summaries): Alex of London, British — his day
+  starts at 7 a.m., breakfast at 8 is usually milk,
+  cereal and an apple, sometimes fried eggs with
+  cheese and juice; apple juice is his favourite, and
+  mangoes don't grow in his country though mango juice
+  is at the supermarket. Heba of Saudi Arabia — it is
+  very hot, schools start at 7 a.m., she gets up at 5
+  and has breakfast at 6: hot beans and bread,
+  sometimes eggs, juice almost every morning; her
+  family doesn't drink a lot of milk. Complete six
+  sentences (Alex or Heba). Pairwork: six questions
+  about YOUR breakfast; write the answers; WRITE A
+  SHORT COMPOSITION about your breakfast. A v/f
+  listening line to draw: "Seven vases full of
+  vegetables."
+- U22 Tune up! (pp.44–45): INTONATION. Eight
+  adjective + noun pairs pictured (a fresh mango, a bad
+  mango, a clean shirt, a dirty shirt, a new bike, an
+  old bike, a happy cat, an angry cat). LANGUAGE FOCUS:
+  Using our voices — the voice goes up (↗) or down
+  (↘); for questions beginning with What, When, Where,
+  Why, Who and How the voice goes DOWN, and in
+  statements too; pairwork saying Wh- questions with a
+  falling voice. P.45: for YES/NO questions the voice
+  usually goes UP and the answer's voice goes down;
+  pairwork ×6; complete four questions with your own
+  ideas; groupwork.
+- U23 Write Well 1 (pp.46–47): the old series'
+  punctuation strand. A short narrative paragraph
+  (summary): Shihab is at home in Dhaka with his
+  mother; it suddenly starts raining; he runs to the
+  window and closes it; his mother is very happy.
+  LANGUAGE FOCUS: Use of capital letter and full stop —
+  the rules stated (sentences start with a capital;
+  names of people and places too; the full stop ends
+  statements); underline the capitals and circle the
+  full stops in the paragraph; add capitals and full
+  stops to an unpunctuated paragraph (Manik and Mina of
+  Sylhet). P.47: a two-panel speech-bubble dialogue;
+  LANGUAGE FOCUS: Use of question mark; copy the
+  letter's questions; write six sentences in the
+  exercise book adding capitals and question marks.
+- U24 Write Well 2 (pp.48–49): a pond dialogue
+  (summary): Fazle and Saiful see two frogs; Saiful
+  wants to throw a stone; Fazle stops him; Saiful says
+  sorry. LANGUAGE FOCUS: Use of exclamation mark (!) —
+  "for strong feelings or surprise"; underline them in
+  the dialogue; add capitals and exclamation marks to
+  six short utterances. P.49: a picture line (Sayeed on
+  a stool reaching up; his mother: "Don't stand up!").
+  LANGUAGE FOCUS: Use of capital letter after quotation
+  marks; add the capitals in five "X says, "…""
+  sentences (a worked example pair is printed).
+
+### Units 25–30 (pp.50–61)
+
+- U25 Story: The Hen and Her Chicks (pp.50–51): a
+  RHYMED DIALOGUE play (plot summary): the chicks work
+  in the hot sun while Mouse, Duck and Dog play; the
+  Hen tells them "You will know when the work is
+  done"; at the table the three idlers ask for the
+  bread ("It smells so fine!"); the Hen answers that
+  they didn't plant or work or cook, and the chicks add
+  "So you can't eat! You can stand and look!" Act it in
+  groups. P.51: questions ×4; groupwork — WHAT IS THE
+  MORAL, chosen from three ("Good things come to
+  people who work."); underline the story's punctuation
+  and COUNT it (how many full stops, question marks,
+  exclamation marks, capital letters); DICTATION.
+- U26 Write Well 3 (pp.52–53): COMMAS. A sport dialogue
+  (Bijoy and Farah; cricket is both their favourite).
+  LANGUAGE FOCUS: Use of comma (,) — after yes and no
+  in answers, after words like oh and well, before too
+  at the end of a sentence, before or after a name;
+  underline the commas in the dialogue; add commas to a
+  second dialogue and say it in pairs. P.53: a dinner
+  dialogue (Tisha and Dev); LANGUAGE FOCUS: the comma
+  in a LIST of three or more things, with the rule
+  "Don't put a comma before the last thing in the
+  list"; add commas to a third dialogue.
+- U27 Write Well 4 (pp.54–55): all four marks together.
+  A: punctuate a whole unpunctuated interview dialogue
+  (Munir and Nipa about the teacher Hasna Hena). B:
+  pairwork counting questions on the dialogue itself
+  ("How many questions are there in the dialogue? How
+  many commas… exclamation marks… full stops… capital
+  letters?"). C: act it. P.55: CHOOSE THE CORRECT ANSWER
+  — three two-option items on what each mark does
+  (a full stop tells; a question mark asks; an
+  exclamation mark shows strong feelings or surprise);
+  punctuate a second long dialogue (Wenmay and Shahid);
+  pairwork on it.
+- U28 Letter to a Friend (pp.56–57): a model letter
+  with its parts LABELLED with arrows — Date (24th
+  April, 2024), Greeting ("Dear Ismail,"), Body,
+  Closing ("Your friend,"), Name (Kajol). The body
+  (summary): Kajol's new friend Sumon is from Bogura;
+  they play in the park after school and cricket on
+  weekends; Sumon can run very fast; his sister is
+  Mira. Questions ×5; underline capitals, circle
+  punctuation. P.57 LANGUAGE FOCUS: commas in letters
+  (between the month and the year; at the end of the
+  greeting; at the end of the closing) with counting
+  questions on the model; prepare with five questions
+  and WRITE A LETTER to a friend about another friend.
+- U29 Animals (pp.58–59): a poem, THE KANGAROO'S POCKET
+  (summary): at the zoo the speaker sees a baby
+  kangaroo in its mother's pocket, remembers being
+  small in bed, and is called away by mother; recite
+  it; groupwork — where else can you see a pocket, make
+  a list. P.59: a model paragraph (summary): the
+  elephant is the writer's favourite animal — big, grey,
+  big ears, helps people, strong; prepare with four
+  questions and WRITE A PARAGRAPH about your favourite
+  animal in the exercise book.
+- U30 Months of the Year 1 (pp.60–61): a CALENDAR 2025,
+  all twelve months, Sunday-first, Fri/Sat in red;
+  pairwork questions ×6 (including letter-play: which
+  month's name has three letters, how many begin with
+  J, how many end with y); say the month names stressing
+  the blue syllables. P.61: complete "February is the
+  ______ month" for all twelve; pairwork before/after
+  questions; unscramble three month names (brepestem,
+  yarnjua, bedemcre).
+
+### Units 31–36 (pp.62–73)
+
+- U31 Months of the Year 2 (pp.62–63): the
+  THIRTY-DAYS rhyme printed as a poster ("There are
+  thirty days / In September, / April, June and
+  November. / All the rest have thirty-one, / Except
+  February, / Which has twenty-eight days clear, / And
+  twenty-nine in each / Leap Year.") beside a February
+  2024 calendar showing the 29th; write the answers
+  (months with 30 days, with 31, with 28 or 29; days
+  in a year; days in a leap year); copy the poem in
+  your exercise book. P.63: a birthday comic (a girl
+  says she is four, is corrected — she is in Class 4 —
+  and lands on nine years old); groupwork birthdays;
+  write the missing months.
+- U32 Days of the Week (pp.64–65): big JANUARY 2025 and
+  FEBRUARY 2025 calendars, now SUNDAY-first with Friday
+  and Saturday in red; pairwork questions on the
+  calendar (What day is the 1st of January? How many
+  Mondays? How many weekends? Is it a leap year?);
+  write today's, tomorrow's and yesterday's dates in
+  the exercise book; groupwork counting the days in
+  each month.
+- U33 My Day, Simple Past Tense (pp.66–67): speech
+  bubbles over a family meal ("This chicken is good!" /
+  "We cooked it!" / "We helped mum!"). LANGUAGE FOCUS:
+  Simple past tense — "We use the simple past tense to
+  talk about things that happened before now": verb +
+  -ed; verb + -d; -y → i + -ed; and "Some verbs are
+  irregular. Remember them!" with a table (make/made,
+  go/went, have/had, read/read, be/was-were, see/saw,
+  eat/ate, sit/sat). Write the past forms ×12 (is →
+  was is done). P.67: complete a first-person paragraph
+  (Samin's day at the park) with the past tense of
+  bracketed verbs ×15; pairwork questions ×6; write one
+  sentence about what YOU did yesterday and read it to
+  your group (two model sentences given).
+- U34 SM Sultan (pp.68–69): a BIOGRAPHY text with a
+  photograph and a painting (summary): SM Sultan, a
+  famous painter, born in Narail in 1923 into a family
+  without much money; five years of school, then work
+  with his father; he loved drawing as a child; in 1938
+  he got the money for Kolkata Art College and stayed
+  three years; he travelled Asia and Europe painting
+  rivers, trees, villages and people, came back and
+  painted the farmers and fishermen of Bangladesh;
+  he exhibited with Pablo Picasso and Salvador Dali;
+  he loved children and established 'Nandankanon' and
+  'Shishuswargo' for them; the yearly Sultan Mela is
+  held in Narail; he died in 1994 at a hospital in
+  Jashore. P.69: T/F ×6; write the false sentences
+  correctly; CHOOSE THE CORRECT ANSWER — four-option
+  MCQs ×4 (a/b/c/d); check answers with a partner;
+  DICTATION.
+- U35 My Trip (pp.70–71): a past-tense recount text
+  (summary): Alvi lives in Dhaka; his family is from
+  Chilmari in Kurigram, where his grandmother still
+  lives near the Jamuna River; last June he and his
+  sister visited; his uncle the fisherman caught a lot
+  of fish — his favourite is "Chapila", a thin white
+  fish; they helped cook fish, rice and vegetables
+  every night, heard family stories and the history of
+  Bangladesh, and sang songs together. Pairwork
+  questions ×6; write the answers. P.71: answer six
+  questions about a trip YOU took; WRITE A SHORT
+  COMPOSITION about your trip from the answers.
+- U36 On Holiday 1 (pp.72–73): a four-panel comic
+  dialogue (summary): Tania asks Moloy what he is doing
+  after exams — a holiday with his family to Cox's
+  Bazar; Tania is not sure; her family may go to their
+  village home in Lalmonirhat. Pairwork questions; act
+  it. LANGUAGE FOCUS: "The future with the present
+  continuous — We can use the present continuous to
+  talk about our plans in the future." (I'm going to
+  Cox's Bazar next week.); ask and answer from two
+  holiday-plan cards (Biju — Shimultoli village, next
+  week; Zeinab — Phulbari village, next month); write
+  two sentences about your own plans for next week.
+
+### Units 37–42 (pp.74–86)
+
+- U37 On Holiday 2 (pp.74–75): a speech-bubble dialogue
+  ("Moloy, what will you do on your holiday?" —
+  "We'll sit on the beach." "We'll ride in a boat."
+  "We'll drink coconut juice."); TICK the things Moloy
+  will do from a list of eight; act it. LANGUAGE FOCUS:
+  "The future with will — We use will and won't + verb
+  to talk about the future" (will not = won't);
+  complete a paragraph with will or won't + a verb from
+  a box; groupwork — say one thing you will do next
+  week (two examples given). (The second spread's
+  corner icon still reads "Unit 36.")
+- U38 A Holiday Letter (pp.76–77): a model letter dated
+  1st November, 2025, from Moloy to Jenny (summary):
+  thanks for her letter about her Oxford holiday; his
+  exams end on the 6th; on the 7th the family goes to
+  Dhaka to stay with his uncle's family, on the 8th to
+  Cox's Bazar, also visiting Inani Beach, Himchari and
+  Maheshkhali; Cox's Bazar "has the longest beach in
+  the world… more than 120 kilometres long"; closing
+  "Love, Moloy." Questions ×5; find the greeting, date,
+  body and closing. P.77: answer seven questions about
+  an imagined holiday of yours; WRITE A LETTER to a
+  friend about it (date, greeting, body, closing) in
+  the exercise book; a partner checks it for capital
+  letters, full stops and commas.
+- U39 Occupations (pp.78–79): match six job words to
+  pictures (farmer, photographer, singer, postman,
+  doctor, driver); six "Who…?" questions (Who grows
+  food? Who helps sick people?…); pairwork pointing.
+  P.79: six more (cleaner, boatman, teacher, nurse,
+  dentist, tailor); READ AND MATCH the worker to the
+  job description and write the complete sentences in
+  the exercise book (one reads "helps a doctor and
+  take care of sick people" as printed); groupwork —
+  write other occupations you know.
+- U40 A Garment Worker's Day (pp.80–81): a three-part
+  reading text (summary): Reshma, 18, is a garment
+  worker in Dhaka; her family came from a village eight
+  years ago after river erosion took their home; her
+  father, a rickshaw driver, died in an accident; her
+  uncle Ratan found them a small house at Kalyanpur and
+  took Reshma to a garment factory in Mirpur; her
+  younger brother Babul is in Class 5; her mother
+  stitches "Nakshi Kanthas" at home and sells them; the
+  factory is two kilometres away and Reshma walks to
+  work (some friends go by bus, rickshaw or scooter);
+  she works 8 a.m. to 4 p.m. and often extra hours
+  until 6 p.m. because the family needs the money; she
+  likes the cinema but has little free time or money
+  for it. P.81: CHOOSE THE CORRECT ANSWER — four-option
+  MCQs ×5.
+- U41 An Interview (pp.82–83): A: write the question
+  word (Who, What, When, Where, Why, How) into six
+  questions about Reshma; B: match six printed ANSWERS
+  to the questions by number; C: pairwork ask and
+  answer. P.83: complete a reporter-and-worker
+  INTERVIEW dialogue with blanks (the worker Toma, 19,
+  from Pabna, now in Dhaka, makes 8,000 taka per month);
+  write a paragraph about one of the pictured
+  occupations (rickshaw driver, cleaner, guard) or
+  another you know, in the exercise book.
+- U42 Story: The Lion and the Mouse (pp.84–86): the
+  fable told in PAST-tense prose with dialogue (plot
+  summary): a lion sleeps in the forest; a mouse runs
+  onto his nose; he catches her and threatens to eat
+  her; she begs — "I am your friend. One day, I will
+  help you." — and he laughs but lets her go; a month
+  later the lion is caught in a net and roars all night
+  in fear and pain; the mouse comes, gnaws through the
+  net with her sharp teeth and frees him; the lion
+  thanks "Ms. Mouse" and they are friends; the mouse's
+  closing line: "Friends come in all sizes." B:
+  questions ×5. C: groupwork THINKING questions ("Why
+  do you think the lion let the mouse go?…"). D:
+  groupwork — what is the moral, from three options
+  ("Little friends are as good as big friends."). E:
+  tell the story to others.
+
+### The Vocabulary list (pp.87–90)
+
+An alphabetical list of the book's words, A–Z, in
+columns, with NO definitions — from "accident" to "zoo"
+(about 450 entries, including phrases: be careful, both
+ways, daily routine, get dressed, here you are, let's
+start, no horn, no overtaking, river erosion, side to
+side, stand in line, take care, work place, working
+days, zebra crossing). "The End" is printed at the foot
+of p.90.
+
+### Slips and points recorded as printed
+
+- The Contents (PDF p.6) heads its second column "Unit"
+  again where the first column pairs Unit/Page.
+- U12 B (p.25) asks "On what day of the week was Soloman
+  Grundy born?" — Soloman for Solomon (the rhyme itself
+  prints Solomon).
+- U27's second spread (p.55) and U37's second spread
+  (p.75) carry corner icons of the previous unit
+  ("Unit 21" on p.55 for Write Well 4; "Unit 36" on
+  p.75 for On Holiday 2).
+- U39 B (p.79): the nurse's line reads "helps a doctor
+  and take care of sick people."
+- Preface (PDF p.4): "A well-defined targets and
+  properly planned primary education provide strengths
+  to the entire education system."
+- Imprint (PDF p.3): "[All rights reserved by the
+  publisher]" returns to the plural; the "Printed by:"
+  line is again left blank.
+- Recorded as facts of the book, not errors: the week
+  is taught Saturday-first with Friday as the weekend
+  in U12, while the U32 calendars are Sunday-first with
+  Friday–Saturday red; spellings vary between units
+  (Chachua in U3 against Chechua in Class 3's new book);
+  Class 4's Mita is in Class 4 and Sagar's school starts
+  at 10 o'clock while U14's Language Focus example says
+  "School begins at 7 a.m."
+
+BANGLADESH CLASS 4 FULLY READ — 2026-10-26 (full re-read,
+page by page from the book's page images; replaces the
+basics-only MAPPED filing)
+CITATION CHECK PASSED — 2026-10-26: anchors re-opened in
+the book itself and confirmed — the 2013 prescription
+and "Revised for the year 2025" title page (PDF p.2),
+imprint with the four writers and 2012 first edition
+(PDF p.3), the Preface's curriculum-2012 sentence
+(PDF p.4), Contents with all 42 units and the Vocabulary
+at p.87 (PDF p.6), the verb-be table (p.8), "s is for
+sun" (p.11), the taka price tags (p.12), number words to
+five hundred (p.13), the traffic-light poem (p.16),
+cursive capitals (p.19), the ordinal table (p.20),
+Solomon Grundy and "Soloman" (p.25), the a.m./p.m. rule
+(p.26), the Wh-words and do/does table (p.31), the in/at
+box (p.33), the present-continuous table (p.34), the
+stress box (p.36), the plural rule with s in the -es
+list (p.39), the some/any table (p.40), the intonation
+arrows (pp.44–45), the quotation-mark capital rule
+(p.49), the Hen moral choice (p.51), the list-comma rule
+(p.53), the labelled letter parts (p.56), the 2025
+calendar (p.60), the Leap Year rhyme (p.62), the
+simple-past rules and irregular table (p.66), SM Sultan's
+1938 and 1994 dates (p.68), the four-option MCQs (p.69),
+the present-continuous-for-future box (p.73), the will
+box (p.75), the 120-kilometre beach claim (p.76), "helps
+a doctor and take care" (p.79), Reshma's 8-to-4 day
+(p.80), Toma's 8,000 taka (p.83), "Friends come in all
+sizes" (p.85), the Vocabulary list's first and last
+pages (pp.87, 90), the back cover (PDF p.97).
 
 ## Class 5 — English for Today, Class Five
 
