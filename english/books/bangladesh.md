@@ -3741,27 +3741,1108 @@ cover (PDF p.118).
 
 ## Class 8 — English for Today, Class Eight
 
-NCTB; 166 pp.; this copy the version revised for the
-academic year 2025 (Preface, October 2024). Same route
-(the 2010 archive item was access-locked; the
-secondary-8 item carried this printing). Units return
-at secondary level — ELEVEN themed units, each opening
-with its outcomes, plus a Sample Question:
+NCTB. Like Class 6, the copy in hand is the DAKHIL
+(madrasa-stream) printing: cover and title page read
+"ENGLISH FOR TODAY / Dakhil Class Eight," prescribed as
+a textbook for Dakhil class eight from the academic
+year 2013, "Revised for the year 2025." First edition
+written and edited by Abdus Subhan, M S Hoque, Yasmin
+Banu, Surajit Roy Majumder, Md Abdur Razzaque, Naina
+Shahzadi and Nargis Akhter Banu; first publication
+September 2012; revised editions September 2014,
+November 2020 and October 2024 (the imprint prints
+"Revised Editon" three times). The Preface is the
+SECONDARY preface, as in Class 6. 166 PDF pp.; body
+PRINTED pp.1–160 (Contents at PDF p.5) — printed page
+= PDF page − 5 for the body. Unit structure RETURNS in
+the secondary run: ELEVEN units, each opening with an
+outcomes list, plus a Sample question for the JSC
+examination (pp.142–160) — Full marks 100, Time 3
+hours, with answers printed throughout. Units carry
+"Key words" per lesson and the book cites Listening
+texts by code (U2 L2 = Listening text 1; U3 L7 =
+text 2; U6 L4 = text 3; U6 L6 = text 4; U6 L7 = text
+5; U7 L3 = text 6; U7 L4 = text 7; U8 L4 = text 9;
+U9 L2 = text 10; U9 L5 = text 11; U9 L6 = text 12 —
+text 8 is not cited in the pages read). Several of the
+newer lessons (U1 L1–L3, U5 L2–L5, U8 L1, U10, U11)
+carry content that post-dates the 2012 series — a 2024
+uprising unit, fake-news teaching, and revised texts.
+Back cover (PDF p.166): "2025 Academic Year / Dakhil
+Eight–English For Today," the motto "Necessity is the
+mother of invention," and a Gen-Z graffiti artwork
+("There's nothing we can't do").
 
-- U1 A Glimpse of Our Culture
-- U2 Food and Nutrition
-- U3 Health and Hygiene
-- U4 Check Your Reference
-- U5 Humans and Environment
-- U6 Going on a Trip
-- U7 People and Occupations
-- U8 News! News! News!
-- U9 Things that Have Changed Our Life
-- U10 Fables
-- U11 Women's Role in Uprisings
-- Sample Question
+### Unit One — A Glimpse of Our Culture (pp.1–11)
 
-BANGLADESH CLASS 8 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26)
+- L1 People's Music (pp.2–4): four 2011 postage stamps
+  of traditional instruments open the lesson. A text
+  on FOLK MUSIC (summary): people's music is tunes,
+  lyrics and knowledge passed down orally for
+  generations, reflecting agriculture, food, ecology,
+  seasons and rituals — Palligiti, Bhatiwali, Jari,
+  Sari, Gambhira, Lalon Giti, Paalagan and the songs
+  of Hason Raja; in the hill tracts it sounds in the
+  languages of the ethnic communities, on instruments
+  crafted from what is at hand (animal skin, bamboo,
+  calabash); as people migrate to cities the tunes
+  fade, though folk music survives in mainstream films
+  and albums. Two translated songs are NAMED with
+  their themes (not reproduced here): a translation of
+  Hason Raja's "Loke Bole Bole Re" (the singer has
+  nothing to build a house with and wonders where
+  Allah will take him) and a Bhawaiya song from Fateh
+  Lohani's film Asiya, sung by Mustafa Zaman Abbasi
+  and Ferdousi Rahman, which learners are sent to
+  hear online. Pair and group writing follows.
+- L2 Nakshi kantha (pp.4–6): the embroidered quilt —
+  naksha means artistic pattern; indigenous to
+  Bangladesh and West Bengal for centuries, popularised
+  by Jasimuddin's poem 'Nakshi Kanthar Math' (1929);
+  an excerpt from the poem in E. M. Milford's
+  translation is printed (described here: a woman
+  works the quilt all night, her joys and sorrows
+  written on her breast, the story of Rupai's life
+  expressed line by line, and the quilt is to lie on
+  her grave). The text continues: old or new cloth and
+  thread; famous districts Mymensingh, Jamalpur,
+  Rajshahi, Faridpur, Bogura, Jashore; now produced
+  commercially and sold in expensive city handicraft
+  shops. Cloze, question-writing, and a paragraph on
+  how the kantha is made.
+- L3 Our Ethnic Friends (pp.6–8): an artwork by Joydeb
+  Roaja of an Indigenous woman opens the lesson. A
+  text (summary): Bangladesh is home to more than 54
+  Indigenous groups (Chakma, Marma, Tripura and
+  others), most in the northern and southeastern
+  flatlands and the Chittagong Hill Tracts, speaking
+  at least 35 distinct languages; many languages are
+  endangered — "language death" — with the UN warning
+  that one Indigenous language dies every two weeks;
+  under British rule, leaders like Sidhu and Kanu led
+  uprisings (the Santhal Rebellion); the government's
+  preschool efforts face a lack of trained teachers
+  and resources; and the 1957 Kaptai Dam (funded by
+  USAID, built by the Pakistani government) displaced
+  thousands, submerging homes and farmlands under the
+  Karnaphuli River. T/F with corrections (the heading
+  prints "Ture or False"), five questions.
+- L4 Bangladeshi Cuisine (pp.8–9): the text (summary):
+  the cuisine is rich and varied with many spices;
+  boiled rice is the staple, served with vegetables,
+  curry, lentil soup, fish and meat; fish is the main
+  source of protein, now mostly pond-cultivated, with
+  more than 40 common types (carp, rui, katla, magur,
+  chingri named); shutki or dried fish is popular and
+  Hilsha [as printed] very popular. Panta ilish is a
+  traditional platter of Panta bhat — steamed rice
+  soaked in water with a fried hilsha slice, dried
+  fish, pickles, lentil soup, green chilies and
+  onion — a popular Pohela Boishakh dish. Sweets:
+  pitha in winter (Pitha Utsab), sweets shared at
+  births and weddings; the common sweets are mostly
+  milk-based (roshgolla, sandesh, rasamalai, gulap
+  [as printed] jamun, kalo jamun, cham-cham [as
+  printed]). T/F, questions, urban/rural food lists,
+  and a tongue-twister: "Casual clothes are
+  provisional for leisurely trips across Asia."
+- L5 The Children's Songs (pp.10–11): Rudyard
+  Kipling's poem (theme: children pledge love and
+  toil to the land of their birth, ask God to teach
+  them to bear the yoke with steadfastness and truth,
+  to rule themselves, to delight in simple things,
+  and to love all men; "Head, heart and hand through
+  the years to be!"). A WORD NOTES box glosses the
+  hard words (pledge, toil — printed "toll" — lovest,
+  thy, undefiled, heritage, yoke, bear the yoke).
+  Three questions.
+
+### Unit Two — Food and Nutrition (pp.12–18)
+
+- L1 Good Food (p.13): a classroom text in reported
+  speech (summary): Ms Rehana teaches that good food
+  is the right kind of food for good health — it must
+  be nutritious, containing the natural substances
+  the body needs; but even good food must not be
+  eaten too much — the amount depends on a person's
+  growth and physical structure. Questions and
+  sentence completion.
+- L2 Kinds of Food (pp.14–15): a LISTENING lesson
+  (Listening text: 1) whose substance is checked by
+  five MCQs: foods are divided into classes by the
+  SUBSTANCES they contain; potatoes hold much
+  carbohydrate; butter and ghee are a good source of
+  fat; minerals are present in water; rice has the
+  most carbohydrate.
+- L3 Our Daily Diet (pp.15–16): a dialogue
+  (summary): beyond rice, ruti, fish and meat we must
+  eat vegetables and fruits (vitamins and minerals,
+  keeping the body free from diseases, good for skin
+  and overall health), drink milk daily (rich in
+  calcium, for bones and teeth), and drink pure water
+  at regular intervals. Make five questions from a
+  substitution table, answer them, tick-the-best-answer
+  ×3.
+- L4 A Delicious Dish (pp.16–17): a FRUIT CUSTARD
+  recipe — ingredients listed (ripe banana 1, apple 1,
+  small ripe papaya 1, custard powder 2 tablespoons,
+  milk half a litre, sugar 4 tablespoons) and the
+  method told with sequence words (wash and peel,
+  cut small, boil the milk, stir in sugar, mix the
+  powder with cold milk, pour in and boil five
+  minutes stirring, cool, pour over the fruit);
+  describe making a cup of tea with the connectors
+  First / Then / Next / After that / Finally.
+- L5 A Little Plant (p.18): the poem (theme: in the
+  heart of a seed, buried deep, a little plant lies
+  fast asleep until the voice of the raindrops calls
+  "Wake!" and it rises to see the wonderful outside
+  world); listen for the word-groups' pronunciation
+  (seed/deep/asleep/see; heard/world; lay/wake/rain);
+  five questions, one asking which word in the poem
+  means "grow" (sprout is the key word).
+
+### Unit Three — Health and Hygiene (pp.19–32)
+
+- L1 Health (pp.20–21): a text (summary): health is
+  the condition of our body and mind; good health
+  means a healthy body free from diseases and is
+  essential for a happy life; the proverb "Health is
+  Wealth" makes health as valuable as gold; to keep
+  healthy — a balanced diet, regular exercise, early
+  to bed and early to rise, peace of mind. Four MCQs;
+  write a paragraph on maintaining good health in
+  180–200 words.
+- L2 Ode on Solitude (pp.21–22): Alexander Pope's
+  poem (theme: happy is the man whose wish and care a
+  few paternal acres bound, content with his own
+  ground — herds, fields, flocks and trees supplying
+  milk, bread, attire, shade and fire — who finds
+  health of body and peace of mind, sound sleep,
+  study and ease, and wishes to live unseen, unknown
+  and die unlamented). Four questions.
+- L3 Hygiene (pp.22–23): a text (summary): hygiene
+  is the practice of keeping ourselves, our home and
+  work places clean, "next to godliness," since
+  nothing can be achieved physically, mentally or
+  spiritually by an unclean person; the rules in
+  order — keep the body clean (a bath every day, wash
+  hair regularly), wash clothes regularly (dirty
+  clothes smell and invite germs), wear socks and
+  shoes outside, wash hands before meals and after
+  the toilet, brush teeth twice a day, cut nails
+  regularly, and drink safe water (boiled or
+  filtered); finally keep the surroundings clean.
+  T/F ×6, sentence completion ×5, a group poster of
+  five daily hygiene habits.
+- L4 A Dialogue (pp.24–25): a DOCTOR dialogue
+  (summary): Rabi brings his father Mr Zahir Ali to
+  the clinic; the father, who has difficulty
+  speaking, has difficulty breathing and severe chest
+  pain again; the doctor examines him on the table
+  ("Do you feel any pain here?" — "Ooh!" "Ouch!") and
+  prescribes one tablet morning and night before
+  meals plus an immediate chest X-ray, the report to
+  be shown that evening. Questions ×5; write and act
+  your own doctor dialogue.
+- L5 A Letter (pp.26–27): Rabi's letter to Sohel,
+  dated 9 June 2013 from Purana Paltan, Dhaka
+  (summary): his father has DIED OF LUNG CANCER; he
+  had smoked heavily since his college days; the X-ray
+  plates showed dark marks — the signs of lung
+  cancer; the poison is NICOTINE in tobacco leaves,
+  which enters the lungs with every puff and, over
+  years, causes lung cancer; mother and son had tried
+  to stop him and he never listened; the family of
+  seven has lost its only earning member and is now
+  broke. Vocabulary MCQs (tragedy; the family broke
+  because there is no source of income); write a reply
+  as Sohel.
+- L6 Physical Exercise (pp.27–28): Mr Asif Ahmed,
+  physical teacher of Rooppur Madrasah [as printed],
+  teaches (summary): good health needs healthy food,
+  proper rest and sleep, cleanliness — and regular
+  physical exercise; indoors, freehand exercises and
+  stretching; outside, play, swimming, walking; the
+  greatest benefit is fitness for work, plus energy,
+  strength, cheerfulness, regularity and discipline.
+  Sort six exercises indoor/outdoor/both; four
+  personal questions.
+- L7 A Healthy and Happy Family (pp.29–30): a
+  village-house picture, then a LISTENING text
+  (Listening text: 2) about Shakib's family — checked
+  by two questions, five T/F statements, and a
+  word-meaning matching set (remote = isolated;
+  literate = able to read and write; contagious = a
+  disease that spreads from one person to another;
+  aware, delicious, harmful defined likewise).
+- L8 Making a Class Committee (pp.31–32): classroom-
+  cleaning pictures; a passage in dialogue form
+  (summary): Ms Rehana Sultana finds the classroom
+  dirty because the cleaner is absent and asks why
+  the students cannot keep it clean themselves;
+  captain Shafiq apologises; the teacher proposes a
+  FORUM with a leader and groups dividing the
+  cleaning; the class forms a committee under the
+  captain and sets ground rules (do not spit, do not
+  drop litter, use the bin, keep desks and chairs in
+  place). Three MCQs.
+
+### Unit Four — Check Your Reference (pp.33–42)
+
+- L1 Introducing a Table of Contents (pp.34–36): a
+  real contents page is reproduced (a book whose
+  Unit 1 is Animals — The Kiwi, The Camel, The Polar
+  Bear, The Hippopotamus, The Dolphin — Unit 2 "How?
+  Why?" and Unit 3 Plants) and worked with questions;
+  learners then open their own English textbook's
+  contents and report its title, column heads, unit
+  count, page count and first/last unit pages.
+- L2 Using a Dictionary (pp.36–38): a dictionary
+  page for "fit" is reproduced in full facsimile
+  (not transcribed here: the entry runs fit verb/adj/
+  noun through fitful, fitment, fitness, fitness
+  centre, fitted, fitter, fitting, fixture, with
+  pronunciation, senses, example sentences and SYN/
+  OPP markers); the text teaches what a dictionary
+  gives — spelling, pronunciation, meaning, word
+  class — that examples are printed in italics, that
+  synonyms and antonyms are given, that words are
+  made by prefixes and suffixes, that a verb is
+  always shown in its simple present tense with past
+  form and past participle. Sentence matching ×5.
+- L3 Looking Up Words in a Dictionary (pp.39–40):
+  ALPHABETICAL ORDER explained (words by first
+  letter, then the next — dark, deep, doctor); guide
+  words stand at the top of the page; arrange word
+  sets in order; find the words between 'tea' and
+  'technique'; state the dictionary order of the
+  fit-family list.
+- L4 Meanings of Words (pp.40–41): a word may have
+  more than one meaning — 'dry' is given three (not
+  wet; with very little rain; not interesting);
+  synonyms and antonyms DEFINED (a synonym means the
+  same or almost the same; an antonym means the
+  opposite); find two meanings each for the fit
+  family in the dictionary.
+- L5 Synonyms and Antonyms (pp.40–42): the
+  definitions repeated through pairwork; find
+  synonyms for eight words and antonyms for fit/
+  fitted and for profit, complete, strong, hard,
+  different, sweet, fair, minor; two matching tables
+  (noise–row? the printed pairs mix synonyms and
+  opposites: handy–useful, mend–fix, damage–harm,
+  jealous–envious, annoy–irritate, view–sight,
+  boring–dull; and the opposites high–low,
+  lose–gain, refuse–accept, temporary–permanent,
+  heavy–light, add–subtract, minor–major,
+  indoor–outdoor); word-webs of synonyms and
+  antonyms of 'happy'.
+
+### Unit Five — Humans and Environment (pp.43–58)
+
+- L1 The Little Bird (pp.44–47): Leo Tolstoy's story
+  (plot summary): for his birthday Seryozha receives
+  many presents, the best a bird-catching NET from
+  his uncle; against his mother's word ("Why do you
+  want to torment them?") he sets the net, catches a
+  SISKIN, cages it and cares for it two days — then
+  forgets its water on the third; cleaning the cage,
+  he leaves the door open; the frightened bird
+  escapes, flies into the window glass it cannot see,
+  and falls injured; Seryozha watches it gasp through
+  the night, and in the morning it is dead; never
+  again did Seryozha catch another bird. Difficult-
+  word matching (nightingale, siskin, thrashing,
+  torment, perched, jerkily, pane, windowsill,
+  gasping — the key phrases line prints "basping for
+  breath"), T/F ×6, questions ×5, list local birds
+  wild and domestic.
+- L2 Poems about Nature (pp.47–50): TWO poems with
+  gloss NOTES. Rachel Field's "Something Told the
+  Wild Geese" (theme: though the fields lie golden
+  and the berries shine, something whispers "snow"
+  and cautions "frost," and the geese fly — summer
+  sun on their wings, winter in their cry). Joseph
+  Auslander's "Green Escape" (theme: the speaker
+  turns his face from streets, crowds and skyscrapers
+  to a windy place of grass, bees, a nesting bird and
+  a wild swan, and will be found rooted in the deep
+  ground with the sky tugging at his hair). Questions
+  on each.
+- L3 Dancing Bears (pp.50–53): Spencer Holst's story
+  "Brilliant Silence" (plot summary): two Alaskan
+  Kodiak bears, taught to somersault, spin, stand on
+  their heads and dance paw in paw under a spotlight,
+  are a small circus's favourite act; touring south
+  through Canada, California, Mexico and Panama to
+  Tierra del Fuego, the troupe breaks up when a jaguar
+  mortally mauls the animal trainer; the bears wander
+  onto uninhabited subantarctic islands, thrive, and
+  multiply; seventy years later scientists find every
+  descendant still performing circus tricks — and on
+  full-moon nights the bears gather in a chalk-white
+  meteorite crater, whose reflected moonlight doubles
+  the brightness, and dance paw in paw in unison,
+  perhaps remembering the circus spotlight, to music
+  no one can hear — in brilliant silence. A long
+  gloss NOTE (Kodiak, somersault, unison, jaguar,
+  mauled, subantarctic, adjacent, speculate, Aurora
+  Australis, meteorite, crater, vicinity); a
+  ten-gap cloze and TEN MCQs.
+- L4 The Farming Teacher (pp.53–56): an extract from
+  Tetsuko Kuroyanagi (plot summary): at Tomoe school
+  the headmaster, Mr Kobayashi, introduces a real
+  FARMER as the day's teacher — a man in a striped
+  cotton work jacket, towel around his neck, patched
+  indigo trousers and two-toed rubber-soled socks,
+  whom Totto-chan recognises as the farmer by the
+  stream at Kuhonbutsu; beside the pond, in a
+  railroad-car classroom school, he teaches the
+  children by DOING — weeding, how weeds hide insects
+  and steal the soil's nourishment, hoeing, furrows,
+  spreading fertilizer — while talking of insects,
+  birds, butterflies and weather, everything learned
+  from his own experience; a little snake nearly bites
+  Ta-chan and the teacher reassures him; the children
+  finish planting, dripping with perspiration, and
+  hold the farmer in high esteem ever after; though
+  terrible things were beginning in the world, the
+  children in their tiny field were "enfolded in the
+  very heart of peace." A gloss NOTE (dilapidated,
+  furrows, implements, nuisance, perspiration,
+  esteem, attest, gnarled, impeccable); T/F ×8;
+  questions ×5.
+- L5 We Lost Our Home (pp.57–58): a Kaptai Lake
+  picture, then an excerpt credited "(This excerpt is
+  taken from The Bangladesh Environmental Humanities
+  Reader)" (summary): Hakkonchandra village east of
+  the Kaptai dam, Rangamati, was home to a Boro Hambe
+  clan family whose son became a renowned ivory
+  craftsman among the Jumma people; his niece Sushama
+  Chakma, now over eighty, tells how, when the
+  northern CHT were submerged by the dam, not only
+  Chakma but Hajong, Marma and adi-Bangali residents
+  lost everything; about 50,000 Chakma, Hajong and
+  Tripuri people had to leave the country and migrate
+  permanently; her husband left public service to live
+  like a refugee; moving from one resettlement place
+  to another in the reserve forest, they spent
+  sleepless nights over an uncertain future, yet
+  found happiness in pain — for her, the sun never
+  shone again. Word matching ×10 (affluent, paucity,
+  displaced, refugee, permanent, resettlement,
+  possessions, migration, struggle, uncertain), a
+  ten-gap cloze, questions ×3.
+
+### Unit Six — Going on a Trip (pp.59–76)
+
+The Mita–Zara story, told lesson by lesson: Zara,
+who lives with her parents in London, visits
+Bangladesh; the families tour together, then decide
+to visit Thailand; Mita's parents are too busy to go,
+so Mita travels with Zara and her parents.
+
+- L1 At the Airport (pp.60–61): Hazrat Shahjalal
+  International Airport; the families wait in the
+  LOUNGE; Mita is excited — her first plane journey,
+  Bangladesh Biman to Bangkok; her uncle brings the
+  immigration (departure) forms: the officer will
+  check the passport, stamp it, "and then you are
+  ready to travel." Composition: your own travel
+  experience.
+- L2 Filling in a Form (pp.61–62): the real
+  bilingual Departure Card is reproduced; learners
+  fill it for Mita from her data (Mita Sultana Ahmed,
+  born 6 May 1998; passport issued 9 June 2010,
+  five-year, expiring 8 June 2015, number AB 9842251;
+  Bangladesh Biman flight BG 88 on 14 July 2012; Thai
+  visa T 9115138 issued in Dhaka 29 June 2012, valid
+  three months to 27 September 2012, a TOURIST visa —
+  no study or work allowed), then copy the form and
+  fill it with their own (or an imagined) passport.
+- L3 Going Through Immigration (pp.62–64): the
+  exchange at the booth (summary): the officer checks
+  passport, visa and card, asks whether she travels
+  alone (no — with aunt, uncle and cousin), whether
+  it is her first visit to Thailand (yes), how long
+  (seven to ten days) and where she will stay (a
+  hotel); he smiles, stamps the passport, keeps the
+  card. A two-column grid of the officer's questions
+  and Mita's answers; roleplay; "the three things
+  needed at immigration."
+- L4 Boarding the Plane (pp.64–65): the 100 ml rule
+  (summary): liquids, lotion, gel or cream over 100
+  ml cannot go in hand luggage — security will seize
+  and throw them away; through security into the
+  enclosed area; boarding by row; Mita's window seat
+  is F23 C, Zara on the aisle seat beside her, parents
+  behind. Then a LISTENING announcement chart
+  (Listening text: 3) and the printed BOARDING
+  ANNOUNCEMENT (gist: third in line for take-off,
+  airborne in about seven minutes; fasten seat belts;
+  baggage under the seat or in the overhead
+  compartments; seats and trays upright; all personal
+  electronic devices off; a non-smoking flight —
+  smoking in the lavatory is prohibited).
+- L5 Announcements on Board (1) (pp.65–67): Captain
+  Rashid Akbar's announcement in full (gist: Flight
+  BG 88 is cruising at an altitude of 10058.40 feet
+  at airspeed of 643.7376 km per hour; the time is
+  1:25 pm; with the tailwind they expect to land in
+  Bangkok about fifteen minutes ahead of schedule;
+  Bangkok is clear and sunny, 32 degrees Celsius;
+  cabin crew will serve a light snack and drinks in
+  about twenty minutes, then the inflight movie).
+  Questions ×6 (including "Who will serve snacks
+  and drinks?").
+- L6 Announcements on Board (2) (pp.67–70): a
+  listening text (text: 4) on the seat belt, then the
+  SAFETY ANNOUNCEMENT in print (gist, adapted from
+  English Club.com [as printed] / airodyssey.net):
+  oxygen and air pressure are monitored; if oxygen
+  fails, a mask drops — pull it firmly over nose and
+  mouth, secure the band, breathe normally, fit your
+  own mask before helping a child; in an emergency
+  assume the BRACING position (lean forward, hands on
+  your head, elbows against thighs, feet flat); the
+  LIFE VEST is in a pouch under the seat or between
+  the armrests — slip it on, strap it, pull the red
+  cord to inflate only as you leave the aircraft; the
+  safety card is in the seat pocket. Sentence
+  matching and three vocabulary MCQs (exits, find,
+  assume).
+- L7 Reaching Bangkok (pp.70–72): the plane lands at
+  Suvarnabhumi Airport at 4:55 p.m. A fact text
+  (summary): the name is pronounced "su-wan-na-poom,"
+  from Sanskrit, meaning golden land, chosen by King
+  Bhumibol Adulyade [as printed]; the airport is at
+  Racha Thewa, Bang Phli district, Samut Prakan, 30
+  km east of Bangkok; two parallel runways 60 metres
+  wide, 4,000 and 3,700 metres long; 76 flight
+  operations per hour; 45 million passengers and 3
+  million tonnes of cargo per year; the terminal is
+  563,000 square metres (6,060,000 square feet), the
+  fourth biggest in the world; phase 2 will raise
+  capacity to 65 million; two 5-storey car parks hold
+  5,000 cars. A 12-row information chart; a LISTENING
+  text (text: 5) of airport numbers to circle
+  (checkpoints, conveyor belts, check-in counters,
+  walkways, elevators, escalators).
+- L8 The Destination (pp.72–74): a VERB-FORM cloze
+  narrative (verbs from a box: be, wait, give,
+  excited, nod, go, hold, take, ride, stand) —
+  summary: Mr Mazharul Islam gives the taxi driver
+  the address, Happy Condo 18 Rachada Pisek Road;
+  the ride takes about one and a half hours; Mita
+  holds Zara's hand, thrilled and a little scared at
+  the speed; at the condo her luggage goes up by
+  elevator to the 7th-floor two-bedroom apartment;
+  over dinner they plan the Tha Kha floating market —
+  very early, since the market is over before noon.
+  Phrase meanings (their turn, a little scared,
+  bringing in, said 6, got settled).
+- L9 The Tha Kha Floating Market (pp.74–76):
+  narrative (summary): on Sunday they reach the
+  market at 7; canals ringed by coconut palms; the
+  sellers are mainly elderly Thai women in small
+  boats laden with lotus flowers, farm-fresh
+  coconuts, fruits, vegetables, local food and
+  sweets, rowing slowly while buyers choose and
+  chit-chat; Tha Kha is more traditional and less
+  touristed than other floating markets — it used to
+  sit only six or seven days a month by the phase of
+  the moon, now also Fridays to Sundays; the buyers
+  are Tha Kha natives who all know each other; after
+  an hour and a half they eat Pad Thai (noodles with
+  shrimps [as printed], tomato, vegetables and
+  roasted crushed peanut, served in a banana-leaf
+  bowl) and Kanom Krok, a very sweet coconut
+  pancake; the people are simple, easy-going,
+  friendly and polite, and communicate without a
+  shared language; Mita takes many pictures.
+  T/F ×4, questions, and describe a local bazar.
+
+### Unit Seven — People and Occupations (pp.77–90)
+
+- L1 Pearls! Pearls! Pearls! (pp.78–79): a text
+  (summary): the first pearl was probably found
+  thousands of years ago by people searching for food
+  at the seashore; pearls appear in religious texts
+  and mythologies; the ancient Egyptians valued them
+  so much they were buried with them — Cleopatra, it
+  is said, would dissolve a pearl in a glass and
+  drink it as a sign of love and respect for the
+  nation; the Greeks linked pearls with wealth,
+  social position, love and marriage; in ancient
+  Rome pearls were the greatest sign of wealth and
+  status, noble young women wore pearl necklaces,
+  and brave knights wore them into battle for good
+  luck. An information table (who wore pearls,
+  when/where).
+- L2 The Ama Divers (pp.79–80): TWO texts
+  (summaries): before the 20th century pearl oysters
+  were gathered from ocean, lake and river bottoms;
+  free-divers descended more than 100 feet on one
+  breath, so pearls were rare and of uneven quality;
+  in Asia oysters lay on shoals 5–7 feet down, but
+  divers still went 40 to 125 feet. In Japan's
+  fishing villages the AMA — "women of the sea" —
+  dive to 25 metres WITHOUT oxygen tanks or breathing
+  equipment, relying on skill and breathing
+  technique, holding their breath up to two minutes;
+  careful watching, lung capacity and hunter
+  instincts are their special qualities; the
+  remaining Ama are now 50–60, some still diving in
+  their 70s, and as young villagers leave for the
+  cities the profession may die out. Questions ×4.
+- L3 River Gypsies in Bangladesh (1) (pp.81–83): a
+  text (summary): the river gypsies, the BEDEY, are
+  an ethnic group with their own lifestyle and
+  culture; landless and nomadic, they roam the rivers
+  from May to December in small country boats that
+  are their houses, and in winter, when water bodies
+  dry up, live in makeshift tarpaulin tents on river
+  banks; through the monsoon they fish and dive for
+  natural pearls; the men catch snakes, charm them
+  for entertainment and sell herbal cures; the women
+  go door to door selling bangles and cosmetics and
+  heal the pains of old people (even, the text says,
+  by sucking out blood); many villagers believe in
+  the gypsies' magical power to drive out evil
+  spirits. MCQs ×4; a LISTENING text (text: 6) on
+  gypsy poverty and schooling; and an INTERVIEW
+  (summary): Sohan and his cousin Jihan, a Dhaka
+  University sociology student, visit a bedey camp
+  at Lauhajang, Munshiganj; the woman cooking at her
+  tent has been camped four months since January;
+  they catch fish, the men are snake charmers, the
+  women heal toothache and joint pains with
+  traditional herbs; she earns about 3000 taka a
+  month — "many people don't believe in our remedies"
+  now; her five-year-old son is not yet in school,
+  but she has heard of mobile boat-schools and will
+  try to find one.
+- L4 River Gypsies in Bangladesh (2) (pp.84–86): a
+  problems text (summary): urbanisation is taking
+  their customers and threatening their income;
+  24,000 kilometres of waterways shrink to only
+  6,000 in the dry season; climate change brings
+  unpredictable rain and drying rivers; many gypsies
+  think of settling permanently on land; the state
+  offers voting rights, permanent housing and
+  bank-loan facilities, but they lack the education
+  and training for mainstream society and their
+  children, born and brought up on boats, cannot go
+  to conventional schools — so mobile BOAT-SCHOOLS
+  are being established, some run by voluntary
+  organisations. A listening text (text: 7) with
+  tick-the-answer items; write a composition on
+  helping gypsy children learn.
+- L5 Refugees (pp.87–90): Dan Williams's illustration
+  of a man holding a child opens the lesson; the text
+  is Khaled Hosseini's "Sea Prayer," printed in the
+  book (its content is summarised here, not
+  reproduced): a father writes to his son Marwan on a
+  moonlit beach the night of their sea crossing; he
+  remembers the farmhouse outside Homs — mattress on
+  the roof, his mother's goat, cooking pots, the sun
+  like a pale rim of persimmon; the toddler Marwan
+  shown a herd of cows in a flower-blown field; the
+  Old City of Homs with its mosque, church and souk;
+  then protests, siege, bombs, starvation, burials —
+  a child who knows a bomb crater can be a swimming
+  hole; tonight Afghans, Somalis, Iraqis, Eritreans
+  and Syrians wait together, "the uninvited, the
+  unwelcome"; the father holds his son's hand and
+  says "Nothing bad will happen" — only words, a
+  father's tricks; all he can do is pray the sea
+  knows how precious his cargo is. A NOTE glosses
+  twelve words (etched, persimmon, soot, bustling,
+  haggle, siege, crater, guileless, heaving, flyspeck,
+  pitching). T/F ×7; questions ×4; and a closing note
+  in the book: "Sea Prayer" was inspired by Alan
+  Kurdi, the three-year-old Syrian refugee who
+  drowned in the Mediterranean in September 2015, and
+  4,176 more people died or went missing on similar
+  journeys in the year after — write how you would
+  feel as a refugee child.
+
+### Unit Eight — News! News! News! (pp.91–109)
+
+- L1 What is News? (pp.92–95): a text (summary):
+  everyday events ("I eat rice every day… blah…
+  blah…") are NOT news — Charles Anderson Dana's line
+  is quoted: when a dog bites a man that is not news,
+  but when a man bites a dog that is news; news must
+  (1) be a piece of information, (2) be recent or
+  new, (3) interest people, (4) be self-explained —
+  answering who, which, what, where, when, why and
+  how — and (5) be OBJECTIVE; news is printed,
+  broadcast or online; the word may come from 'new',
+  or from the four directions North, East, West and
+  South. A FAKE NEWS box: fake news is news that
+  isn't true or is misleading — MISINFORMATION (wrong
+  information shared by mistake) against
+  DISINFORMATION (shared on purpose to trick people);
+  always check facts. Two pictured fakes are
+  discussed: a tabloid front page claiming a space
+  creature survived a UFO crash and a public figure
+  adopted an alien baby (the caption names the paper's
+  claim in the book's words), and a Facebook page
+  falsely claiming Sonali Bank is giving away money
+  for the month of victory. Thomas Jefferson's line —
+  the advertisement is the most truthful part of a
+  newspaper — launches a superlative substitution
+  table.
+- L2 The First Newspaper (pp.96–99): a history text
+  (summary): the first newspaper, ACTA DIURNA, was
+  published in ancient Rome in 59 BC — 'daily acts',
+  a message board of announcements and social events
+  in public places, not paper; printed 'news books'
+  appeared in England at the start of the 16th
+  century; The London Gazette (1665) claims to be
+  England's oldest newspaper; Johann Carolus
+  published the first weekly newspaper (Account of
+  All Distinguished and Commemorable News) in Germany
+  in 1605; daily home delivery began in the 18th
+  century; The Pennsylvania Packet and The Daily
+  Advertiser (1784) were the first US dailies; in
+  India, Hickey's Bengal Gazette (1780) was first,
+  under James Augustus Hickey; the first Bangla
+  weekly, Samachar Darpon [as printed] (1818), was
+  run by missionaries; The Azad became Dhaka's first
+  daily and Ittefaq played a role in the independence
+  struggle; in the 21st century nearly all major
+  papers publish online. A LANGUAGE POINT box teaches
+  INTRODUCTORY THERE (the "there" in "Is there a show
+  of…?" is not an actual subject); a flow chart of
+  dates; T/F ×7.
+- L3 TV News Report (pp.100–103): a text (summary):
+  reporters reach the news spot in scorching sun,
+  monsoonal showers or bitter winter; news covers
+  politics, protests, accidents, social events,
+  expert opinion, price hikes, celebrations; "old
+  news is no news" and BREAKING NEWS is the first,
+  fast appearance of a startling story; a team is a
+  journalist, a camera operator and sometimes a sound
+  or light technician; the journalist investigates,
+  plans interviews and puts forward the idea; the
+  VOICE OVER is recorded in a studio; a report opens
+  with a short announcement, shows the reporter
+  describing the event into a microphone in front of
+  the camera with the scene behind, uses comments
+  from one to four related persons and graphics
+  (charts, tables, graphs, archive photos or videos),
+  and closes with the reporter summarising possible
+  outcomes; LIVE coverage is different — everything
+  finished on the spot, no editing, no retakes; shots
+  must be short and steady (a tripod helps) and the
+  language simple and clear. A jumbled-paragraph
+  ordering task (Rumki's morning and her newspaper)
+  precedes it. T/F ×5; synonym matching ×9. A poem on
+  news — Michael Rosen's "The News" — is printed
+  (described: its whole news is "two incredible
+  shoes," which walk down drains in rain, glow in
+  snow, sneeze in a breeze, and are finally lost in a
+  frost); find its rhyming pairs; roleplay reporting
+  the incredible shoes.
+- L4 Walk-in Interview! (pp.104–106): a LISTENING
+  cloze (text: 9 — mass media, print media, public
+  opinion); a for/against discussion of TV ads; a JOB
+  ADVERTISEMENT (ABC company Ltd., Tejgaon, Dhaka:
+  security staff wanted — education Class 8, age 25
+  maximum, no experience required, salary negotiable;
+  apply with HANDWRITTEN CV, one photograph and
+  certificates by 15 June 2015) with six questions;
+  and a CV MODEL of ten fields (name, father's name,
+  mother's name, mailing address, date of birth,
+  nationality, educational qualifications,
+  experience, + two of your own) to fill and display.
+- L5 A Torch Bearer (pp.106–109): a news article
+  adapted from The Dhaka Tribune, 1st March 2019
+  (summary): Ekushey Padak winner Polan Sarkar,
+  called Alor Ferrywala — a torch bearer — died on
+  Friday 1st March 2019 at 98, at Bausha village,
+  Bagha upazila, Rajshahi; born 1 August 1921 (real
+  name Harez Uddin) at Bagatipara, Natore; a boy who
+  borrowed and voraciously read books despite family
+  poverty; he founded a school in his village in 1965
+  and from 1990 gave a yearly book prize to the
+  school's top student — others asked too, so he lent
+  on condition the books came back to be lent again,
+  and adults began borrowing; diagnosed with diabetes
+  in 1992, he distributed books on his daily walks,
+  on foot, village to village, about 20 villages;
+  national fame came from BTV's Ittadi (29 December
+  2006); the Ekushey Padak followed in 2011. Word
+  matching ×6; questions ×5; a second adapted passage
+  (from Impact Journalism Day) as a ten-verb cloze
+  (wake, see, stands, travels, buys, lends, returns,
+  borrow, covers, comes); a dialogue on the importance
+  of reading books; write a report on a local social
+  worker.
+
+### Unit Nine — Things that Have Changed Our Life (pp.110–128)
+
+- L1 The Wheel (pp.111–112): a text (summary): the
+  wheel is the greatest invention — a circular object
+  that rotates around its axis and helps easy
+  movement across a surface; wheels are on cars,
+  trains, planes and wagons, and fans, propellers and
+  turbines are also types of wheels; nobody knows
+  exactly who made the first wheel. A cloze (the
+  first wheel likely grew from rolling round stones
+  and tree-trunk rollers) and a substitution table.
+- L2 The History of the Wheel (pp.113–115): five
+  pictured wheels to put in historical order; a
+  DIALOGUE (summary): Mr Ramis tells Rubina the
+  Mesopotamians were first — the oldest wheel was
+  discovered in Mesopotamia, in 3,500 B.C.; Mesopotamia
+  was in ancient Iraq, along the Tigris and Euphrates;
+  the Egyptians improved it with SPOKES and used
+  spoked wheels on chariots around 2000 BC; wheels
+  reached the Indus valley by 3000 B.C. and spoked
+  chariot wheels were made in India around 1500 B.C.
+  for war, hunting and racing; the Greeks learned
+  wheel-making from the Egyptians in 1500 BC and the
+  Romans followed with many wheeled vehicles. T/F ×5;
+  a map of the four old-world river valley cultures;
+  a listening cloze (text: 10) of position sentences;
+  make Wh-questions from given answers; write the
+  history as a paragraph.
+- L3 The Fastest Wheel on Earth (pp.116–118): a text
+  (summary): France's TGV (Train à Grande Vitesse)
+  began in the 1970s, gas-turbine first, electric from
+  1973, Paris–Lyon from 1981; a TGV test train set the
+  conventional wheeled record on 3 April 2007 at
+  574.8 km/h (357.2 m/h [as printed]), while regular
+  TGVs run at up to 320 km/h — the present commercial
+  record. Japan's Bullet Train network began in 1964;
+  trains run at 300 km/h, planned 320; in 2003 Japan
+  set the unconventional magnetic record at 581 km/h
+  (361 mph), not yet in commercial operation. China's
+  High-speed Rail began 18 April 2007; conventional
+  quick trains run at 300 km/h; in 2011 the "Harmony
+  Express" magnetic trainset set 487.3 km/h (303 mph),
+  the highest for an unconventional trainset in
+  regular commercial operation. An information grid
+  (country, train, year, both top speeds, record) and
+  a BANGLADESH RAILWAY fact box attached to a station
+  picture (headquarters Dhaka; Eastern and Western
+  zones; 459 stations, 284 engines, 1,245 passenger
+  carriages, 12,948 wagons; 2,855 km of railroad;
+  42 million passengers a year; 34,168 employees) —
+  frame the questions a reporter would ask.
+- L4 Taking Off (pp.119–122): a text (summary): on
+  December 17, 1903 the Wright brothers made the first
+  powered flight — "the machine was called 'aka
+  airplane'" [as printed]; SUPERSONIC means faster
+  than sound; Boeing 787 flies 950 km/h, the Airbus
+  350 is expected at 945 km/h; neither beats the
+  CONCORDE, the world's fastest supersonic passenger
+  aircraft at 2,170 km/h, a joint France–Britain
+  project, in passenger service from 1976 and grounded
+  forever in 2003 after a major accident. A NOTE
+  defines 1 Mach (≈760 mph) against subsonic. A
+  dialogue (summary): Mr Ramis and Sohan weigh which
+  plane Biman Bangladesh should buy — speed is not
+  everything; capacity and cost count, and the Airbus
+  380 is now the largest. COMPARATIVE/SUPERLATIVE
+  forms are completed from the dialogue (slower than,
+  fastest, as fast as, higher, more beautiful, the
+  largest, more passengers). A project: compare mobile
+  handsets in a shop and choose the best.
+- L5 Future Aircraft (pp.122–124): a news report
+  adapted from The Guardian (summary): the Falcon
+  HTV-2 is the fastest plane ever built — London to
+  Sydney in less than an hour at a hypersonic 13,000
+  mp/h [as printed], about 20 times the speed of
+  sound, withstanding almost 2,000 degree C, hotter
+  than steel's melting point; the US Defense Agency
+  will launch it on a rocket from an Air Force Base,
+  detach it in space, and guide its flight to Earth;
+  born in 2003 as a US military project meant to reach
+  any part of the world in under an hour, for military
+  and civil purposes, tested so far in computer
+  models — "mankind's dream aircraft." will/would/
+  can/could completion built on the report; a
+  listening text (text: 11); the puzzle: flying
+  westward in a supersonic plane you can land several
+  hours before you took off — explain how.
+- L6 Paper and Wheel (pp.125–126): a text (summary):
+  communication of ideas is at the centre of
+  civilisation and needs written records; before
+  paper, people wrote on stone, metal, wood, bark and
+  leaves — hard to carry — until paper was invented
+  in China in 105 CE; in the pre-paper age knowledge
+  was restricted (a hundred-page book could be a
+  hundred stone blocks); today a laptop carries the
+  world of knowledge in digital form; paper made
+  publication and the spread of knowledge easy. A
+  LISTENING sequence (text: 12): Ts'ai Lun' [as the
+  sequence names him] took mulberry bark and bamboo
+  fibre, mixed, pounded, poured the mixture, let the
+  water drain and let it dry — and 'paper' derives
+  from an Egyptian plant (papyrus). A project:
+  observe ruti or paratha being made, note the steps,
+  present the process.
+- L7 Contemplation (pp.127–128): John Carpenter's
+  poem (theme: for days the speaker has climbed a
+  dappled yellow tree and gazed at green fields,
+  shining rivers, playing sheep and the roofs of town
+  in the sun — "How very large the world can be! How
+  many things there are!"); a gloss NOTE (dappled,
+  gazed abroad, bounded, hedge, swimming through,
+  rushes); three questions.
+
+### Unit Ten — Fables (pp.129–137)
+
+- L1–L3 The Truthful Dove (pp.130–134): ONE story in
+  three lessons, adapted from The Curious Book of
+  Birds by Abbie Farwell Brown (plot summary): a dove
+  and a bat, good friends, are caught by a storm in a
+  jungle and beg shelter from a grumpy owl in a
+  century-old rain tree; the selfish owl lets them in
+  unwillingly and shares his dinner; the tired dove
+  can hardly eat, but the sly bat eats greedily and
+  FLATTERS the owl (wise, brave, generous, powerful,
+  mighty) for more food; pressed to speak, the dove
+  only thanks the owl sincerely for shelter and food
+  and says she will remain ever grateful; the bat
+  shames her ("You do not deserve this shelter") and
+  the vain owl drives her out into the dark, stormy
+  night; the punishment: the bat can never fly in
+  daylight and the owl is blind while the sun is up —
+  the two vicious creatures live in the dark — while
+  the dove's name is used by poets, as long as the
+  world lasts, to rhyme with "LOVE." Eleven questions
+  on part 1, substitution sentences, T/F sets on each
+  part, describing words for the three birds, and
+  write the moral of the story.
+- L4 A Summer Story (pp.135–137): K. G. Subramanyan's
+  first-person retelling of the thirsty crow,
+  illustrated by the author (plot summary): in a July
+  drought the crow narrator finds the only water in a
+  narrow-necked bottle on a pushcart — its beak too
+  fat for the neck; Grandpa (a doddering old crow)
+  gives the ancestral advice, learned from "an old
+  Greek crow called Ar-crow-medes": drop pebbles in
+  until the water rises; carrying pebbles one by one,
+  sweating, the crow drops one on a greenhouse roof —
+  and realises a pebble could break the bottle too;
+  then it notices a poster of men drinking through
+  STRAWS, pulls straws from the haystacks, clips and
+  cleans them, and drinks as men do — "each age has
+  its own bag of tricks." Element-matching (the
+  descriptions include Ar-crow-medes as "a reference
+  to the famous Greek scientist Archimedes" and the
+  straws as "the modern solution"), questions ×5,
+  compare with the original fable, and retell a fable
+  of your choice in a current context.
+
+### Unit Eleven — Women's Role in Uprisings (pp.138–141)
+
+A single-passage unit (the contents list no numbered
+lessons inside it), opening with a 1971 photograph —
+women receiving training to join the fight for
+Bangladesh's independence — and outcomes that name
+the July Uprising of 2024. The passage (summary):
+from Pritilata Waddedar, who swallowed cyanide pills
+to avoid capture by British forces in 1932, to the
+spying and frontline battles of Khasi freedom fighter
+Kakon Bibi in 1971, women were at the forefront of
+the freedom struggles; in 2024, as the country rose
+against years of repression and autocratic rule,
+women again paved the way — chanting slogans,
+stopping police vans, breaking blockades, taking to
+the streets at night; mothers brought food and
+supplies, tending injured students and defying
+bullets and tear gas; Mayer Daak, a group of women
+whose family members had faced enforced
+disappearances, became an enduring symbol of defiance
+with demonstrations and calls for justice; female
+students broke out of their dorms in the
+anti-discrimination movement, shouting at the
+security forces and calling them murderers ("khuni!
+Khuni!" as the book transliterates), and Abu
+Sayeed's mother asked the question that triggered
+the public imagination — "amar betak marlu kene?"
+[as transliterated in the book]; from domestic
+workers to grandmothers in mofussil [as printed]
+villages, women's ordinary speech planted the seeds
+of freedom and brought down the dictator, though
+their labour is often invisibilised [as printed].
+Five questions; a writing practice — analyse the
+overlooked contributions of women, weighing "her
+story" against "history"; and a group project, a
+visual collage titled "Her Story of Freedom"
+(illustration in the passage by Debashish Roy).
+
+### Sample Question for JSC Examination (pp.142–160)
+
+A complete model JSC paper, Full marks 100, Time 3
+hours, in FOUR parts with answers printed throughout.
+A: SEEN (the Unit 1 cuisine text reprinted): Q1 seven
+vocabulary MCQs 1×7 with the answer key (i a, ii b,
+iii d, iv c, v d, vi c, vii b); Q2 four short
+questions 2×4=8; Q3 gap-fill on the Unit 6 oxygen-mask
+announcement 1×5 with answers. B: UNSEEN: a passage
+about folk singers Meera, Manosh and Rudro (Manosh
+passed the S.S.C in 2018, the year Rudro was in class
+eight; Manosh won the Star Voice Singing competition
+in 2012 and released his first album 'Mon Janala' in
+2018) — Q4 an information table 1×5 (answers on
+p.146), Q5 T/F with corrected answers 1×5 (one
+printed answer runs "a) False. Meera enjoys dancing
+with folk songs."); Q6 a word-box cloze on the Padma
+Multipurpose Bridge ½×10=5 (6.15 km long, 18.1 m
+wide, 3.6 billion USD, connecting Munshiganj,
+Shariatpur and Madaripur and 21 south-western
+districts) with answers printed on p.147; Q7 an
+open cloze on sunlight 1×5 with answers; Q8 match
+sentence halves (the fisherman and the bag of gold
+coins) 1×5 with answers. C: GRAMMAR: Q9 word-
+formation cloze on Altaf Mahmud ½×10=5 with answers
+(cultural, freedom, movement, composer, inspiration,
+brutality, supportive, accommodation, patriotic,
+contribution); Q10 articles cloze on friendship
+½×10=5 with answers; Q11 change the sentences as
+directed 1×5 with answers (comparative, passive,
+active, interrogative, exclamatory); Q12 change of
+speech 5 with a printed narration (the Prince and
+the Queen); Q13 capitals and punctuation ½×10=5 with
+the corrected passage (Neela and Bela). D: WRITING:
+Q14 make a restaurant dialogue (Rabid and the
+waiter) 10, sample printed; Q15 write an email
+applying to volunteer (to abcd123@charity.org.bd)
+10, with the sample printed on p.151 (from "Mohamad
+Zaif," ABC Boys High School, Pabna); Q16 write a
+250-word paragraph on the advantages and
+disadvantages of nuclear families 10. The paper is
+then PRINTED A SECOND TIME from p.152 in a shortened
+run: the same seen announcement text and Q1–Q3 on
+the river gypsies cloze, the unseen WORLD POPULATION
+passage (7.5 billion as of September 2017; Asia 4.54
+billion, 60%; China and India together about 37%;
+Africa 1.28 billion, 16%; Europe 742 million, 10%;
+Latin America and Caribbean 651 million, 9%; USA and
+Canada 363 million, 5%; Oceania 41 million, 0.5%)
+with Q4 grid and Q5 T/F and printed answers, then
+Q6–Q8 (mobile phone cloze; wheels cloze; the king
+Prudence matching), Q9 word-formation (Visa
+contactless cards) with answers, Q10 articles (a
+storm in Netrokona), Q11 sentence changes (Dhaka
+founded by the Mughals…), Q12 change of speech
+(Sakina and Himel), Q13 punctuation (Daniel Defoe)
+— every answer printed — and D: Q14 a Samiya–Subarno
+dialogue on folk songs as the printed "Key," Q15 an
+email postponing a get-together (sample printed,
+signed only "Y"), Q16 a paragraph on your favourite
+movie/TV programme. "The End" closes p.160.
+
+### Slips and points recorded as printed
+
+- Imprint: "Revised Editon" for edition, three times
+  (PDF p.3).
+- U1 L3 (p.7): the T/F heading reads "C. Ture or
+  False?"
+- U1 L5 (p.11): the word note prints "toll : hard
+  work" for toil.
+- U1 L4 (p.9): "Hilsha" for Hilsha/Hilsa, "gulap
+  jamun," "cham-cham"; the same text, reprinted in
+  the Sample Question, prints "cham-cham" again.
+- U3 L5 (p.26): the frame says the letter will show
+  "what happened to Zahir Ali," but the letter is
+  written BY Rabi (Zahir Ali's son) after his death —
+  the filing records the letter as Rabi's.
+- U5 L1 (p.44): "basping for breath" in the key
+  phrases, and the matching header "(DifficultWords)".
+- U6 L2 (p.62): passport expiry "8 June 2015" for a
+  passport "got on June 09, 2010… five-year" (the
+  arithmetic is off by a day as printed).
+- U6 L5 (p.67): "32 degree Celsius"; L6 (p.68):
+  "(Adapted from: English club.com, airodyssey.net)".
+- U8: the listening-text codes jump from 7 (U7 L4) to
+  9 (U8 L4) — no text 8 is cited in the book.
+- U9 L2's T/F and answers as printed judge statement
+  2 "The earliest wheel was discovered in 2000 B.C."
+  against the dialogue's 3,500 B.C. discovery date;
+  the dialogue itself first says the oldest wheel
+  "was in 3,500 B.C."
+- U9 L3 (p.116): speeds printed "574.8 km/h (357.2
+  m/h)" and the China record "of a speed of 487.3
+  km/h"; L5 (p.123): "13,000 mp/h".
+- U9 L4 (p.119): the Wright brothers' machine "was
+  called 'aka airplane'" as printed.
+- U11 (pp.139–141): "inmofussils" / "mofussil,"
+  "invisibilized" as printed; Abu Sayeed's mother's
+  question is transliterated "amar betak marlu kene?"
+- Sample Question: the JSC paper is printed TWICE
+  (pp.142–151 and pp.152–160) with overlapping but
+  different contents; p.146's T/F answer (a) reads
+  "Meera enjoys dancing with folk songs" where the
+  passage says she enjoys dancing WITH folk songs;
+  p.159 prints ".5X10=5" before Q13's marks; the
+  second run's Q14 key gives the line "Ok, I'll." to
+  Samiya as printed.
+- Recorded as facts of the book, not errors: Unit 11
+  has no numbered lessons, only one passage with
+  questions, writing practice and a project; the
+  older-series lessons keep "Madrasah" spellings
+  (Rooppur Madrasah, "I don't bunk off Madrasah")
+  where the Dakhil printing addresses madrasah
+  students.
+
+BANGLADESH CLASS 8 FULLY READ — 2026-10-26 (full
+re-read, page by page from the book's page images;
+replaces the basics-only MAPPED filing)
+CITATION CHECK PASSED — 2026-10-26: anchors re-opened
+in the book itself and confirmed — the Dakhil title
+page and 2013 prescription (PDF p.2), imprint with
+the seven writers and "Revised Editon" (PDF p.3), the
+secondary Preface (PDF p.4), Contents with eleven
+units and the Sample Question at pp.142–160 (PDF
+p.5), folk-music genres (p.3), Milford's translation
+credit (p.5), 54 Indigenous groups (p.7), "Ture or
+False" (p.7), panta ilish (p.9), Kipling (p.10),
+"toll" (p.11), Ms Rehana on good food (p.13),
+Listening text: 1 (p.14), the custard recipe (p.17),
+Health is Wealth (p.20), Pope (pp.21–22), hygiene
+next to godliness (p.22), "Ooh!"/"Ouch!" (p.24),
+nicotine (p.26), Rooppur Madrasah (p.27), Shakib
+listening text 2 (p.30), the class committee (p.32),
+the Animals contents page (p.34), the fit entry
+(p.37), alphabetical order dark/deep/doctor (p.39),
+dry's three meanings (p.40), Tolstoy's siskin
+(pp.44–46), Field's geese (p.48), Auslander's escape
+(p.49), Holst's dancing bears (pp.50–51), Kuhonbutsu
+(pp.54–55), Sushama Chakma (p.57), departure card
+(p.61), passport AB 9842251 (p.62), seat F23 C
+(p.64), Captain Rashid Akbar (p.67), the bracing
+position (p.68), Suvarnabhumi 4:55 p.m. (p.71),
+Happy Condo 18 Rachada Pisek Road (p.73), Pad Thai
+(p.76), Cleopatra's pearl (p.78), Ama 25 metres
+(p.80), 3000 taka a month (p.83), 24,000 to 6,000
+kilometres (p.85), Alan Kurdi 2015 (p.90), Dana's
+dog-bites-man (p.92), misinformation/disinformation
+(p.94), Acta Diurna 59 BC (p.97), introductory there
+(p.99), voice over (p.101), Michael Rosen (p.104),
+the handwritten CV (p.105), Polan Sarkar 1st March
+2019 (p.107), 3,500 B.C. (p.113), TGV 574.8 km/h
+(p.116), Bangladesh Railway 459 stations (p.118),
+Concorde 2,170 km/h (p.120), 1 Mach note (p.121),
+Falcon HTV-2 13,000 mp/h (p.123), paper 105 CE
+(p.125), Ts'ai Lun' sequence (p.126), Carpenter
+(p.128), the dove's rhyme with "LOVE" (p.134),
+Ar-crow-medes (p.136), Pritilata 1932 (p.138),
+Mayer Daak (p.139), "khuni! Khuni!" (p.140), JSC
+Full marks 100 (p.142), "Mon Janala" (p.145),
+Padma Bridge 6.15 kms (p.146), Altaf Mahmud word
+forms (p.148), Mohamad Zaif's email (p.151), world
+population 7.5 billion (p.154), Visa contactless
+(p.157), "Ok, I'll." (p.159), "The End" (p.160) and
+the back cover (PDF p.166).
 
 ## Class 9 — English for Today, Class Nine
 
