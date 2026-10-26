@@ -6674,3 +6674,299 @@ PREPARATORY 7–9 COMPLETE
 
 Egypt set: 20 of 26. Still owed: Secondary 10–12 (the
 remaining 6 of the 26-book Egypt set).
+
+## Secondary 10 Term 1 — English (Student's Book, with the year's Novel bound in)
+
+Source: Egypt MoE e-learning host — the Secondary folder is
+spelled "Secondry" by the ministry:
+2026/Secondry/Secondry1/Term1/StudentBook/English_1sec_t1.pdf
+(5,424,425 bytes; a processed copy — Acrobat Pro DC /
+Ghostscript — with a real text layer). **This one PDF is two
+books bound together:** the Student's Book (PDF pp.1–100)
+and the year's prescribed NOVEL, The Old Man and the Sea, in
+an adapted retelling with a full study apparatus (PDF
+pp.101–172). Printed folio = PDF page inside the Student's
+Book.
+
+Identity: cover "ENGLISH — Secondary Schools - Year One -
+Term 1 — 2025 - 2026 — Student's Book." The ministry message
+(p.4) is the Secondary-framework variant — the very text
+Prep 9 Term 2 printed by mistake. Contents (p.3): U1 Egypt's
+Heritage p.11 · U2 Hands Help, Hearts Care p.24 · U3 Truth
+Vs. Lies p.36 · Review 1 p.48 · U4 Save and Shine p.57 · U5
+Using Technology at Schools p.69 · U6 Job Hunting p.80 ·
+Review 2 p.92.
+
+**THE SECONDARY UNIT SHAPE — new, five lessons, skill-based:**
+L1 reading + speaking · L2 listening + speaking · L3
+listening + "Language in Context" (the grammar box lives
+here) + a writing task · L4 reading + speaking · L5 a
+writing-craft lesson (one kind's structure, then the task).
+GONE from the Prep shape: Assessment Corner, My
+Self-Reflection, the Roundtable, and Story Time — the
+chaptered story is replaced by the year's NOVEL (below),
+examined inside the Reviews as section "F. The Novel."
+**Writing length steps up to 120–150 words** (Start Smart's
+email is 120). **The Reviews are exam-shaped** (the
+thanaweya amma pattern): A. Vocabulary — including a new
+harder item, "Choose the (Two) correct answers out of the
+FIVE (5) options given" (synonyms/antonyms) · B. Language —
+MCQs including "Which of the following sentences is
+structurally correct?" + rewrites · C. **Translation** —
+choose the correct Arabic translation, and choose the
+correct English translation (translation becomes an
+examined skill at Secondary) · D. Reading Comprehension ·
+E. Writing — MCQs about writing knowledge + a task · F. The
+Novel.
+
+Scope (printed pp.5–6): U1 Past Simple and Past Continuous;
+an opinion paragraph · U2 Modal Verbs (Must – have to); a
+descriptive essay · U3 Conditional sentences; an essay
+outline · U4 Verbs + (inf or -ing) Forms; a formal email ·
+U5 Countable and Uncountable Nouns; an informal email · U6
+Definite and Indefinite Articles; a CV.
+
+**Grammar spine — the Language in Context boxes:**
+- U1 (p.17) PAST SIMPLE AND PAST CONTINUOUS in full form:
+  past simple for completed past actions; past continuous
+  (was/were + v-ing) for an action in progress at a certain
+  time in the past; the pair together for the interruption
+  pattern; while/as/just as/when/during — "While is
+  followed by verb + (ing) in case there is no subject
+  after it"; during "can give the meaning of while, but it
+  is followed by a noun"; two past-continuous actions in
+  parallel; and **STATIVE VERBS named for the first time in
+  the run**: "Some verbs are not used in the continuous
+  form. These are called stative verbs such as: be, love,
+  like, want, (look = seem), (have = possess)."
+- U2 (p.30) MODAL VERBS — the fullest modal statement in
+  the run: should/shouldn't for suggestions and advice;
+  must/mustn't for rules and laws; must/mustn't also for
+  strong advice and warm invitations ("You must come and
+  try mom's cake. It is great."); mustn't to express
+  prohibition; have to "when you mean you have no choice."
+- U3 (p.42) CONDITIONALS — **the ZERO CONDITIONAL is boxed
+  here for the first time in the whole run**: If + present
+  simple, present simple — "General truths and scientific
+  facts" ("If you mix red and blue, you get purple"; "If
+  water boils, it turns to steam"). First restated (If +
+  present simple, will + inf. — real future possibility)
+  and second restated (If + past simple, would ('d) + inf.
+  — "Talking about impossible dreams"). With Prep 9 Term
+  1's third conditional, the set zero–first–second–third
+  now stands complete across the run — no single book
+  states all four.
+- U4 (p.63) VERBS + INFINITIVE OR -ING in FOUR classes —
+  deepening Prep 9 Term 2's two lists: to + infinitive
+  only (decide); verb + -ing only (enjoy); **both with NO
+  change in meaning** (love, like, hate, prefer, start,
+  begin, continue); **both WITH a difference in meaning**
+  (remember, forget, regret, stop, try).
+- U5 (p.75) COUNTABLE AND UNCOUNTABLE NOUNS: quantifiers
+  with countable nouns — a/an, the, some (plural, usually
+  affirmative), any (plural, usually negative or
+  questions); uncountable nouns "have only one form (they
+  can't be preceded by a/an or changed into plural)" —
+  advice, homework, information, money; quantifiers with
+  uncountable nouns — the, some, any, much, little, a
+  little; with countable nouns — many, a few, few. Plus
+  the some/any note (p.74): some in affirmative sentences,
+  offers and requests; any in negative sentences and
+  questions.
+- U6 (p.86) ARTICLES in full: "a" before a consonant SOUND
+  (a man, a university, a European team), "an" before a
+  vowel sound (an egg, an orange, an honest woman); a/an =
+  one of many; a/an for first mention; the for singular and
+  plural, for the only one of something, for one specific
+  example (the earth, the world, the news, the
+  environment), for second mention; "The is used before
+  the names of countries preceded by Republic/ Kingdom/
+  States, etc." with the printed note "We say: He lives in
+  Egypt / The Arab Republic of Egypt. Not: He lives in the
+  Egypt."; the before musical instruments and superlatives.
+  Zero-article cases are drilled in the exercises
+  (languages, uncountable tea, London, Monday).
+
+**Writing kinds taught this term:** THE ESSAY by structure
+(U1 L5): Introduction — hook (interesting fact/question/
+quote), background information, thesis statement (the main
+idea of the essay); Body Paragraphs (usually 2–3) — topic
+sentence (main idea of the paragraph), supporting details,
+examples, evidence, a closing sentence linking back;
+Conclusion — summary of ideas, rephrased thesis, final
+insight. The box's own picture: "An essay is like a
+journey: the introduction is where we start, the body
+paragraphs are the steps we follow, the conclusion is
+where we arrive." · THE DESCRIPTIVE ESSAY (U2 L5, "Show,
+Don't Just Tell"): defined in the box — "A descriptive
+essay is a piece of writing where you use words to create
+a picture for the reader. It's like painting a picture,
+but with words instead of paint"; three parts (Introduction
+/ Body Paragraphs, each on a different aspect or sense /
+Conclusion); write with the FIVE SENSES (sight, hearing,
+smell, taste, touch); good adjectives and adverbs carry it.
+· THE ESSAY OUTLINE as a planning kind (U3 L5) + the peer
+method **"Two Stars and a Wish"** (Star 1: find one thing
+you really like; Star 2: find one vocabulary word or
+linking phrase used well; Wish: suggest one thing that
+could be improved) — then revise, write a final clean
+copy, submit next class. · THE FORMAL EMAIL (U4 L5): a
+full template (Subject line; "Dear [Title + Last Name],";
+"I am writing to [state your purpose clearly]"; details in
+full sentences, polite and professional; "Thank you for
+your time and consideration"; "Yours sincerely, [Your Full
+Name]") + box (Greeting: Dear Sir / Madam, / Dear Mr. Ali;
+Language: polite, complete sentences, no slang; Purpose:
+job application, complaint, official request; Closing:
+Yours sincerely, / Kind regards). · THE INFORMAL EMAIL
+(U5 L5), taught as formal's pair: box (Greeting: Hi Sara, /
+Hello John — friendly, casual; Language: contractions
+(I'll, can't); Purpose: chatting, inviting a friend,
+sharing news; Closing: Best wishes, / See you soon, /
+Love,) + template. · THE CV (U6 L5): the Tip Box defines
+it — "A CV (Curriculum Vitae) is a document that
+summarizes your education, work experience, skills, and
+achievements. It's usually the first thing an employer
+sees about you, so it needs to make a good impression!" —
+and gives the structure of a good CV in six sections:
+1. Personal information (full name, phone, email, city and
+country, LinkedIn optional) · 2. Personal
+Statement/Objective (2–3 sentences) · 3. Education (reverse
+chronological order, most recent first) · 4. Work
+Experience (dates, company, job title, key responsibilities
+and achievements) · 5. Skills (technical, soft, language
+skills with proficiency levels) · 6. Additional sections
+(certifications, projects, interests/hobbies, references).
+Key points: keep it short (1–2 pages maximum), clear simple
+language, only relevant information, easy to read, update
+it regularly. CV action verbs are taught (managed,
+developed, assisted, organized, analyzed, collaborated)
+with a writing checklist; U6 L4 is the kind's model — the
+resume of Sami Adel, Digital Marketing Specialist.
+In-lesson writing tasks also include: a narrative paragraph
+(120–150) "A Strange Day in My Life" (U1 L3), a citizenship
+paragraph using modal verbs (U2 L3), an advice blog post
+that must use at least two examples of EACH conditional —
+zero, first, second (U3 L3), essays of 120–150 in the L4s.
+
+**Speaking frames:** a two-team debate with Useful Phrases
+(Past vs. Present Egypt, U1 L1); role-plays throughout; and
+the **STAR Method for behavioral interview questions**
+(U6 L2): "Tell me about a time when…" — Situation: set the
+context; Task: explain what needed to be done; Action:
+describe what you did; Result: share the outcome.
+
+**Reading/listening texts (short notes):** U1 heritage
+passage ("Egypt is a land with a heart that has been
+beating for thousands of years") + "Where Pride Begins"
+(pride grows like a tree from roots of history); listening:
+Dr. Mona Hassan on preserving heritage. U2 "The Warm Bread"
+— Sama, overwhelmed by schoolwork, is cheered by her
+upstairs neighbor Mrs. Aya's fresh bread and tea; she passes
+the kindness on to her younger cousin and learns kindness
+changes the giver too (summary only) · Ahmed's
+tree-planting listening (volunteering transformed him) ·
+Radwan, an Alexandria firefighter, on serving the
+community in danger. U3 "When Appearances Lie" (wolves in
+sheep's clothing; fake platforms and scams; "Trust, but
+verify") · Dr. Sarah's listening on exploitation traps ·
+"The Truth Trap" (lies as the "war of the new generation";
+the best defense is a careful and questioning mind). U4
+"Go Green" (green manufacturing defined two ways: making
+eco-friendly products, and making the process itself
+greener) · Ahmed's "Bag Swap Day" campaign listening · the
+school Water Team's survey story. U5 why learning a foreign
+language matters (its argument is written in second
+conditionals) · Salma, a multilingual student, interviewed ·
+"Ramy's Journey with English" — Ramy lands in Liverpool
+unable to speak English, practices daily with an app and a
+notebook, and the struggle becomes an enriching adventure
+(summary only). U6 "Navigating Today's Employment
+Landscape" (digital job market, professional online
+presence, personalized applications over generic resumes) ·
+three interview extracts · the model resume (above).
+
+**THE NOVEL — The Old Man and the Sea (PDF pp.101–172).**
+The year's prescribed novel is bound into this same file
+as an ADAPTED, simplified retelling — the ministry's own
+chaptered version, not Hemingway's original text — with a
+study apparatus. Front matter: "Introduction to The Old Man
+and the Sea" — About the Author (Ernest Hemingway,
+1899–1961, American novelist and journalist; fought in
+wars, hunted in Africa, lived in Cuba; Nobel Prize for
+Literature in 1954; the novel written in Cuba, 1952) · Main
+Characters (Santiago; Manolin; the Marlin; the Sharks; the
+Sea) · Themes (Struggle and Perseverance; Pride and
+Dignity; Man and Nature; Youth and Age; Dreams and
+Symbols) · a Summary Statement. SIX chapters, each closing
+with a "Values in this Chapter" + "Idioms/Expressions"
+page: Ch.1 "The Old Man and His Luck" — Santiago has fished
+eighty-four days without a catch and is called salao, the
+worst kind of unlucky; only the boy Manolin stays loyal;
+tomorrow, the eighty-fifth day, he will sail far out; he
+dreams of lions on African beaches · Ch.2 "Preparing for
+the Great Day" — the boy brings food and bait; Santiago
+rows far out alone before dawn · Ch.3 "The Big Fish Bites"
+— a great marlin takes the bait and tows the skiff; the
+line cuts into his hands; man and fish are joined · Ch.4
+"A Battle of Strength and Will" — days of endurance; he
+eats raw fish to keep his strength, talks to the fish,
+respects it as a brother and an opponent · Ch.5 "The Great
+Marlin Revealed" — the fish surfaces, bigger than the boat;
+he kills it with the harpoon, lashes it alongside, and
+turns for home · Ch.6 "The Sharks Arrive" — a mako comes
+first, then pack sharks; he fights with harpoon, knife, and
+oar until only the skeleton remains; he reaches shore
+exhausted — beaten by the sharks, not by the fish — and
+the boy cares for him. After the chapters, a STUDY
+QUESTIONS block (PDF pp.141–171): for EACH chapter, Part A
+Reading Comprehension (10 Qs), Part B Vocabulary MCQs
+(10 Qs), Part C Fill in the Gaps (10 Qs), Part D Open-Ended
+(10 Qs), Part E Critical Thinking (10 Qs). The Reviews' "F.
+The Novel" questions are drawn from this study (Review 1:
+how Santiago shows dignity in the face of failure; why the
+number eighty-five is important to him; why he calls the
+fish his "brother" · Review 2: how he balances his need for
+food and strength during the battle; why he cries after
+his victory; what he means by being beaten by sharks, not
+the fish). Filed by plot summary only, per the standing
+rule for adapted stories. Slip: the Ch.6 values page
+(novel folio 38) carries a "Chapter 2" running head.
+
+Start Smart (pp.9–10): Marwa's reading (an online English
+course cured her speaking anxiety), a renewable-energy
+listening, vocabulary, rewrites, and a 120-word email about
+a new skill.
+
+Back page (PDF p.100 — the Student's Book's own last
+page): Editorial Note — "Developed and produced with the
+participation of the Content Department Team at GPS
+Publishing and Printing Company." The SAME seven reviewers
+as the Preparatory run (Prof. Zeinab El-Naggar, Prof. Attia
+El-Sayed, Dr. Mai Kamal, Mr. Reda Shalby, Mr. Mohamed Gomaa,
+Mr. Mostafa Zaghlol, Mr. Ayman Elsayed). CACD team changes
+again: Ms. Eman Mahmoud Youssef, Dr. Amira Fawzy Ahmed, Mr.
+Hassan Ramadan Ibrahim, Dr. Ghada El Sayed Mohamed.
+General Supervision: Dr. Akram Hassan Mohammed, "Assistant
+to the Minister for Curriculum Development, Supervisor of
+the Central Administration for Curriculum Development."
+GPS + British Council + CACD marks. Print spec (Arabic
+table): 27 × 19 cm, interior 70 g white paper, cover 180 g
+couché, 4 colours — **page count printed as 112** against
+the Student's Book's 100 pages in this PDF (the combined
+file runs 172 with blanks; the 112 looks carried over from
+the series template). NO ISBN, NO deposit number.
+
+Slips recorded as printed: the Scope page calls U1's
+writing target "an opinion paragraph" while U1 L3 assigns a
+narrative paragraph and U1 L5 an essay; the Lesson
+Components explainer labels the Writing component "How to
+expand your vocabulary"; the novel Ch.6 values page's
+"Chapter 2" running head (above); the back-page 112-page
+spec (above).
+
+SECONDARY 10 TERM 1 FULLY READ — 2026-10-26
+
+Egypt set: 21 of 26. Still owed: Secondary 10 Term 2,
+Secondary 11, Secondary 12 (the remaining 5 of the 26-book
+Egypt set).

@@ -495,3 +495,28 @@ file, the travel narrative, and the short text. Real people
 carried in full: Mohamed Rashwan's fair play, Mohamed
 Salah's road, Ibn Battuta's thirty years of travel. The
 term's classic is Jules Verne under the sea.
+
+**Stocked by Egypt Secondary 10 Term 1 — the Secondary
+layer opens.** Units shrink to five skill lessons and the
+writing length steps up to 120–150 words. New kinds taught
+by structure: the ESSAY itself (hook, background, thesis
+statement; body paragraphs with topic sentences; conclusion
+restating the thesis) and its planning form the ESSAY
+OUTLINE, the DESCRIPTIVE ESSAY as its own kind (painting a
+picture with words; the five senses; show, don't tell), the
+FORMAL EMAIL and the INFORMAL EMAIL taught as a pair, and
+the CV (six sections, action verbs, a model resume) — plus
+a peer-feedback method with a name, Two Stars and a Wish,
+and the STAR method for answering interview questions.
+Grammar completes old lines: the ZERO conditional is boxed
+at last, so the conditional set zero–first–second–third
+stands complete across the run; verb patterns grow from two
+lists to four classes (to-infinitive only, -ing only, both
+with no change, both with a meaning change); articles are
+stated in full with the sound rule for a/an; stative verbs
+are named. Reviews turn exam-shaped — two-correct-of-five
+vocabulary items, structurally-correct items, and
+translation both ways as an examined skill — and the year
+carries a NOVEL: an adapted Old Man and the Sea with a
+per-chapter study apparatus (values, idioms, fifty
+questions a chapter), examined inside every Review.
