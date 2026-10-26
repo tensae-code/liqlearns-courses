@@ -567,29 +567,618 @@ prayed" (B3, p.101) and panel lead Gborsong (p.103).
 
 ## English Language Curriculum for Basic 4–6 (NaCCA, September 2019)
 
-246 pp., same portal. BASIC 4 (p.2), BASIC 5 (p.71),
-BASIC 6 (p.152) — each year the same SIX strands:
-1 Oral Language · 2 Reading · 3 GRAMMAR USAGE AT WORD
-AND PHRASE LEVELS · 4 Writing · 5 Using Writing
-Conventions/Grammar Usage · 6 Extensive Reading.
+"English Language Curriculum for Primary Schools
+(Basic 4–6)," NaCCA, September 2019, © NaCCA 2019;
+246 PDF pp. (prelims + body printed pp.1–222).
+Same frame as B1–3: standards-based, the 4Rs, the
+SIX core competencies in every table, three learning
+domains, formative + summative criterion-referenced
+assessment, ten 30-minute periods a week, strands →
+sub-strands → content standards → indicators →
+exemplars, reference numbers of the form B4.2.3.1.1.
+The Note to the Teacher repeats the B1–3 note:
+skills INTEGRATED, primary grammar "basically
+internalised" without burdening learners with
+terminology, every learner reads FIVE books a term.
+The big structural change at upper primary: each
+year now has SIX strands — 1 Oral Language ·
+2 Reading · 3 GRAMMAR USAGE AT WORD AND PHRASE
+LEVELS (its own strand from B4 on; the B4–6 TOC
+also calls it "Grammar and Usage") · 4 Writing ·
+5 Using Writing Conventions/Grammar Usage (much of
+Strand 3 repeated in use-form) · 6 Extensive
+Reading. Sub-strand numbers remain strand-wide
+master numbers, so gaps are structural.
+Basic 4 body printed pp.1–69; Basic 5 pp.71–150;
+Basic 6 pp.151–220; panel list p.221.
 
-Basic 4 detail (the frame the other two years follow):
-- Oral Language sub-strands: Songs, Poems, Story
-  Telling, Dramatisation and Role Play, Conversation,
-  Listening Comprehension, Asking and Answering
-  Questions, Giving/Following Commands and Directions,
-  Presentation.
-- Reading keeps phonics alive at upper primary: Word
-  Families, Rhyming Endings and Common Digraphs ·
-  Diphthongs · Blends and Consonant Clusters · then
-  Vocabulary, Comprehension, Silent Reading, Fluency,
-  Summarising.
-- GRAMMAR USAGE is its own strand, word classes one by
-  one: Nouns · Determiners · Pronouns · Adjectives ·
-  Verbs · Adverbs (Basic 4's list, in order).
+### Basic 4 (body pp.1–69)
 
-GHANA CURRICULUM B4–6 MAPPED — 2026-10-26
-(basics-only filing — NOT a full read; full re-read owed)
+STRAND 1 ORAL LANGUAGE.
+- Songs: relate messages to personal experience.
+  Poems become their own sub-strand: recite, discuss
+  central messages and values, COMPOSE FOUR-LINE
+  poems; a new poem is not memorised the same day.
+- Story Telling: connections to personal experience,
+  tell stories around themes. Dramatisation: whole
+  or parts of stories, moral lessons discussed,
+  write plays out of stories.
+- Conversation: describe objects, people, events;
+  dates of birth in two formats; TELLING THE TIME —
+  "half past 8, quarter past 8, quarter to 8"
+  (p.6); names of regions; collaborative conversation
+  with unfamiliar audiences; turn-taking rules.
+- Listening Comprehension: stress, rhythm and
+  intonation; main idea/gist; sequence of events;
+  background knowledge (KWL's K and W); opinions;
+  problems and solutions; compare and contrast.
+- Asking and Answering Questions: Yes/No and Wh-
+  forms consolidated; QUESTION TAGS OPEN — positive
+  and negative tags with auxiliaries, e.g. "You
+  have a pen, don't you?" (p.12).
+- Commands/Instructions/Directions: instructions
+  and manuals for games; polite requests to
+  unfamiliar people; directions with landmarks.
+- Presentation: spoken-language features named —
+  contractions, ellipsis; formal vs informal;
+  meaning through pace, stress and tone (news
+  reporting); speak and read aloud at a good pace
+  with expression; plan speeches (purpose, audience,
+  structure, register, supporting examples).
+
+STRAND 2 READING.
+- Phonics kept alive: ending sounds, multisyllabic
+  words; digraphs sh (ship), ch (rich), ck (lock);
+  structural analysis widens — prefixes mis- (misuse),
+  en- (enjoy), anti- (anticlockwise), de- (decompose),
+  poly- (polyclinic), and the notes ante-, bi-, ex-.
+- Word Families: -at, -all, -it, -ot families in
+  context. Diphthongs: CLOSING DIPHTHONGS /ei/ /ai/
+  /oi/ with the printed examples "ei — take, oi —
+  boy, ai — why/try." Blends taught through the
+  "Tapping Out" finger game (p.21) — tap each sound
+  on the fingers to decode.
+- Vocabulary: content words vs function words;
+  the terms list is now explicit — compound word,
+  idiom, simile, synonym, antonym, prefix, suffix,
+  phrasal verb; homonym pair flour/flower (p.24);
+  meaning from context and word relationships;
+  word formation by compounding; jokes, riddles and
+  puns (the coal-pot riddle is the printed example).
+- Comprehension: construct meaning, note main ideas
+  in sequence, SQ3R named in full (Survey, Question,
+  Read, Recite, Review), skim/scan in 3–4 minutes,
+  silent close reading by Directed Reading Activity,
+  critical reading — factual, implied, judgment,
+  evaluation, personal response; compare/contrast
+  events, characters, settings; text structure
+  (introduction, body, conclusion).
+- Silent Reading gets its own sub-strand; Fluency:
+  three-stage approach (Before, While, After
+  Reading), read aloud reflecting the author's
+  purpose. Summarising: oral first, then written,
+  main ideas in sequence order.
+
+STRAND 3 GRAMMAR USAGE — the word classes in order.
+- Nouns: common, proper, collective, abstract;
+  collective nouns take a singular verb.
+- Determiners: a/an/the; ZERO ARTICLE for words
+  like music, soup, soap; quantifiers; possessives
+  filed here; demonstratives; interrogative
+  determiners which/whose.
+- Pronouns: personal and interrogative.
+- Adjectives: comparison of regular adjectives;
+  SLIP recorded as printed (p.39): "Regular
+  adjectives form their imperative by adding er"
+  (for comparative).
+- Verbs: main vs auxiliary; subject-verb agreement
+  including collective nouns singular; SIMPLE
+  PRESENT's five uses; regular past -d/-ed plus the
+  irregular note; imperative.
+- Adverbs: time and place (its time indicator's
+  exemplar wrongly repeats "adverbs of place,"
+  recorded as printed).
+- Idiomatic Expressions; Conjunctions: and, but,
+  or, nor — the combination drill joins sentences
+  about fufu or kenkey.
+- Modals: the full meaning list — can (ability),
+  may (permission, politeness, possibility), must
+  (obligation), shall/will (prediction, intention,
+  determination), could, would, might, should,
+  used to, have to, ought to, need to.
+- Prepositions: direction, time, purpose,
+  possession, comparison, support/opposition.
+
+STRAND 4 WRITING.
+- Penmanship: JOINED HANDWRITING in four stages —
+  flick letters → join pairs → join all the letters
+  in words → copy sentences and passages.
+- Paragraph Development: the four modes named —
+  expository, narrative, description, argument;
+  main idea vs supporting details; cohesive devices.
+- Writing as a Process at one-paragraph scale:
+  pre-writing (brainstorm, mind map, outline),
+  drafting, revising against printed questions,
+  editing/proofreading (capitalisation, punctuation,
+  spelling), publishing (class magazine, notice
+  board, The Junior Graphic).
+- Narrative Writing: first person, then rewritten
+  in third person; settings, characters, plot,
+  direct speech. Creative/Free Writing: four- or
+  five-line poems, imaginative stories. Descriptive
+  Writing: sensory details, simile and metaphor.
+- Argumentative Writing: the motion "A doctor is
+  more important than a farmer" (p.55); claim,
+  reasons, evidence, formal style, conclusion;
+  debate features. Expository/Informative: write
+  the school's history; TV news written from
+  pictures. Letter Writing OPENS: informal/friendly
+  letters only.
+
+STRAND 5 largely repeats Strand 3 in use-form
+(nouns, verbs, adjectives, adverbs, prepositions,
+conjunctions) and adds: capitalisation in direct
+speech; comma rules (before and after Yes/No;
+after addressing a person — "Kofi, can you help
+me?"); subject and predicate; invented spelling
+tolerated for fluency; the "Spelling Champion"
+game built from word clues.
+
+STRAND 6 EXTENSIVE READING: read widely and present
+a TWO-PARAGRAPH SUMMARY of each book read.
+
+### Basic 5 (body pp.71–150)
+
+STRAND 1 ORAL LANGUAGE.
+- Songs: explain central messages, compose songs
+  around values. Poems: compose SIX-LINE poems
+  (the line count grows by year: 4 at B4, 6 at B5,
+  8 at B6). Story Telling: the story-element grid —
+  main character, setting, events; connections and
+  themes. Dramatisation: COSTUME added; learners
+  develop sketches from stories and justify the
+  central messages.
+- Conversation: conversation WITH ADULTS on social
+  issues, modelled on a talk show; the printed
+  example topic is "Children should not WhatsApp"
+  (p.78); sustained listening with eye contact;
+  turn-taking; questions for clarification.
+- Listening Comprehension: THINK-ALOUD strategy
+  named; visualisation; cause and effect; draw
+  conclusions; generalisations from main ideas.
+- Asking and Answering: do/be/have question forms
+  drilled — "Do you like lots of pepper?"; question
+  tags consolidated — "The bad boys aren't in
+  school today, are they?"
+- Directions: direct a stranger using landmarks —
+  to the chief's palace, to the Central Mosque.
+- Presentation: DISCOURSE MARKERS (well, also,
+  finally; "To sum up"); formal vs informal register
+  ("I have not gone there" written vs "I haven't"
+  spoken); speech structure named — Heading,
+  Vocative Address, Introduction, Body; speeches
+  of about five minutes; research speeches from
+  print and non-print sources.
+
+STRAND 2 READING.
+- Phonics: HARD AND SOFT c and g (country/cell,
+  gain/age); R-CONTROLLED vowels (or — lord,
+  er — her, ar — arm, car, ur — burn); MINIMAL
+  PAIRS (sash/wash, watch/catch); two-syllable
+  blends (dr — hundred, bl — problem, nd —
+  handcuff).
+- Vocabulary: ACRONYMS (WHO) and CLIPPING
+  (telephone → phone); the "Build My Vocab App"
+  named as a tool; function words as "glue pieces
+  of sentences together"; the table riddle — "I
+  have four legs and a top… a table."
+- Comprehension, silent reading, fluency and
+  summarising continue in the B4 pattern (SQ3R,
+  DRA, three-stage reading).
+
+STRAND 3 GRAMMAR USAGE.
+- Nouns: quantities and units — "a piece of paper,
+  a pair of trousers"; proper nouns for FESTIVALS
+  (Christmas, Homowo); count/non-count; regular
+  plurals -s/-es against irregular child–children,
+  ox–oxen, man–men, goose–geese; plurals without
+  markers (sheep, people); collective adds audience,
+  congregation; abstract adds ghost, holiness.
+- Determiners: zero article named as such;
+  quantifiers add ordinals, both/each/every,
+  another/other, fewer/less; possessives as
+  pronouns — mine, yours, his, hers, theirs.
+- Pronouns: INDEFINITE (someone, anyone, everything)
+  and possessive added.
+- Adjectives: irregular comparison — good–better,
+  bad–worse.
+- Verbs: simple present adds needs/preferences and
+  thoughts/ideas; simple past for past needs and
+  feelings; irregular past build–built; PAST
+  CONTINUOUS for an action going on when a second
+  action took place; imperative for instructions
+  and directions.
+- Adverbs: manner opens — "Mercy ate slowly"
+  (p.116); then Idiomatic Expressions (take after =
+  to resemble; to pull down = to destroy someone's
+  reputation; "Kofi takes after his father").
+- Conjunctions widen: because, since, so, although —
+  "I'm late because I missed the bus. Although Afi
+  is has eye problems, she doesn't wear glasses.
+  He eats well, so he is healthy" (p.117; "is has"
+  recorded as printed).
+- Modals: the same full meaning list as B4, taught
+  one or two at a time (p.118). Prepositions: the
+  seven meanings with a worked sentence for each —
+  position (by), direction (towards), time (at),
+  purpose (for), possession (for), comparison
+  (taller than), support/opposition (for you,
+  against you) (p.119).
+
+STRAND 4 WRITING.
+- Penmanship: copy sentences in joint script; write
+  COMPOUND sentences clearly (at least two subjects
+  and predicates joined by a coordinating
+  conjunction).
+- Paragraph Development: the modes list grows to
+  seven — process, narration, description,
+  comparison, problem solution, classification,
+  argument; the printed model paragraph is the
+  children of Boti who build their own school from
+  mud bricks and grass (p.123), its first sentence
+  underlined as the Topic Sentence; elaborate a
+  topic sentence ("Kofi is a boy") with details;
+  cohesive devices — pronouns, repetition,
+  connectors.
+- Writing as a Process: topic from community
+  issues; the printed organiser is a line diagram
+  for "Poor sanitation" (causes/effects, solution);
+  the drafting indicator says a TWO-paragraph
+  draft in its heading and a THREE-paragraph draft
+  in its body (recorded as printed, p.126); revise,
+  edit with the CUPS-style checklist, publish in
+  the class magazine or The Junior Graphic.
+- Narrative Writing: PERSONAL NARRATIVE defined —
+  "a true story told from the writer's point of
+  view"; planning by Time Line organiser and the
+  5 Ws Chart (who, what, when, where, why — "How
+  could be added"); write about what was seen,
+  heard, smelled, tasted and touched; the printed
+  revising checklist (beginning/middle/ending,
+  descriptive words, order, natural sound,
+  feelings).
+- Creative/Free: stories built from title,
+  characters, setting, plot, conflict, dialogue;
+  poems and plays. Descriptive: sensory details,
+  simile–metaphor.
+- Persuasive/Argumentative: the motion "A teacher
+  is more important than a doctor" (p.134);
+  claims with reasons and evidence from credible
+  sources; formal style; debate.
+- Informative/Expository: describe a process from
+  picture sequences; expository pieces of BETWEEN
+  90 AND 120 WORDS; write the event of the day and
+  broadcast it as radio/TV news; publish on the
+  internet.
+- Letter Writing: informal letters to friends about
+  events, in the correct format.
+
+STRAND 5 (use-form repeat of Strand 3, with new
+items): capitalisation to open direct speech;
+comma to write an ADDRESS ("I live at Adu Street,
+Adukrom") and apostrophe in CONTRACTION ("They
+can't do the work") (p.139); nouns, plurals and
+collectives as in Strand 3 (pp.140–142); verbs —
+the Strand 5 line goes further than Strand 3:
+SIMPLE PAST vs PRESENT PERFECT contrasted, and
+PAST PERFECT taught (p.144); adjectives in three
+forms; adverbs of manner ("Mercy ate slowly");
+prepositions in the seven meanings; conjunctions
+because/since/so/although; subjects and predicates
+in compound sentences; spelling by phonics clues
+(the Christmas cake game: "It is eaten at
+Christmas. It is made of flour, eggs, sugar… It
+is baked").
+
+STRAND 6 EXTENSIVE READING: read widely and present
+AT LEAST A THREE-PARAGRAPH SUMMARY of each book
+(the summary length grows: two paragraphs at B4,
+three at B5, a one-page commentary at B6).
+
+### Basic 6 (body pp.151–220)
+
+STRAND 1 ORAL LANGUAGE.
+- Songs: relate central messages to personal
+  experiences; compose songs around values (love,
+  honesty). Poems: relate messages and values to
+  daily life; COMPOSE EIGHT-LINE poems (p.153).
+- Story Telling: connections, themes (love, honesty,
+  patriotism, hard work), retelling by story map /
+  herringbone. Dramatisation: whole stories and
+  scenes; express personal opinions on moral
+  lessons; WRITE PLAYS out of stories and perform
+  them; justify central messages in sketches.
+- Conversation: talk about objects, personalities
+  and events in the country and the world (role
+  models, MPs, festivals); sustained listening with
+  eye contact; collaborative conversation with an
+  UNFAMILIAR audience — the talk-show model again,
+  example topic "Children should not do WhatsApp"
+  (p.158); turn-taking; questions on key details
+  ("How I spend my holidays; My future career").
+- Listening Comprehension: Think-Aloud and
+  visualisation; sequence of events; questions on
+  moral lessons; KWL's K and W used with
+  informational texts (p.161); opinions; problems
+  and solutions; generalisations.
+- Asking and Answering: Yes/No questions answered
+  with FUTURE forms — "Will you come to school
+  tomorrow? Yes, I will / No, I won't"; question
+  tags with positive tags, negative tags and
+  auxiliaries — "It is cold, isn't it? / It isn't
+  cold, is it?" (p.162).
+- Commands/Instructions: create and present a
+  manual on how to play a game; polite requests
+  for help from unfamiliar people.
+- Presentation: modal expressions for tentativeness
+  (probably, not too sure); spoken vs written forms
+  ("I can't" vs "I cannot"); news presentation with
+  pace, stress, tone; research and deliver speeches;
+  draw on prior knowledge of speech structure and
+  roles (participants, facilitators, advisors,
+  time-keepers); gather facts from print and
+  non-print sources; register for formal and
+  informal contexts; speak with confidence using
+  verbal and non-verbal cues.
+
+STRAND 2 READING.
+- Phonics: ending sounds -sure (measure), -ture
+  (creature), -tch (stretch); CCVCC and CCCVC words
+  (trust, striped; scrap, sprite) and multisyllabic
+  words (communication, immediate) (p.168).
+- Word Families/Minimal Pairs/Digraphs: minimal
+  pairs by one-sound and two-sound difference (road/
+  loan; goat/coat/boat, wall/ball, train/chain,
+  bridge/fridge); digraphs ch, ck, ph, ng, sh, qu,
+  wh in sentences.
+- Diphthongs: CENTERING DIPHTHONGS /iə/ (fear, ear,
+  near, clear), /eə/ (prepare, there, stairs),
+  /ʊə/ (pure, secure) (p.170).
+- Blends and Clusters: three-syllable words; digraph
+  spelling rules (ch — church, sh — shirt, gh —
+  tough).
+- Vocabulary: content vs function words in use; the
+  terms list again; build vocabulary by substituting
+  synonyms in texts and by vocabulary games (Word
+  Hunt, Lucky Dip, I Know It) with a portfolio;
+  meaning from word relationships — HYPONYMS
+  (fruit – apple) and MERONYMS (hand – finger)
+  named (p.173); compounding refreshed (breakfast =
+  break + fast); playful words (jokes, riddles,
+  puns); words fitted to purpose, audience, context
+  and culture.
+- Comprehension: the B4–B5 pattern consolidated —
+  SQ3R in full (p.175), skim/scan, DRA silent
+  reading, critical response, compare/contrast,
+  text structure, contextual meanings. Silent
+  Reading and Fluency continue; Summarising: oral
+  summaries, then written — the printed example
+  reduces "This is the boy who killed the snake"
+  to "The boy killed the snake."
+
+STRAND 3 GRAMMAR USAGE.
+- Nouns: nouns and noun phrases for CONDITIONS;
+  proper nouns for organisations/events; the full
+  B1–B5 revision with drills — the pair drill
+  (mango → mangoes, "I love mangoes") and the Lucky
+  Dip of collective nouns ("a team of horses, a
+  bevy of ladies, a flock of sheep," pp.180–181);
+  "-ING" NOUNS for activities ("I enjoy singing.
+  I like swimming"); abstract nouns (intelligence,
+  knowledge, idea, patience — "I admire Ama because
+  of her patience").
+- Determiners: articles; quantifiers (ordinals,
+  some, few/little, no/both/all, each/every, another/
+  other, fewer/less); possessives; demonstratives
+  for concepts and ideas.
+- Pronouns: three NEW kinds — REFLEXIVE (myself,
+  yourself), RELATIVE (which, where, whose) and
+  RECIPROCAL (each other, one another) (p.184).
+- Adjectives: comparative and superlative, regular
+  and irregular (good–better–best), and the more/
+  most forms (much–more–most; more intelligent).
+- Verbs: main vs helping verbs (primary auxiliary
+  and modal auxiliary); subject-verb agreement with
+  indefinite pronouns, singular/plural and
+  collective nouns (a collective subject takes a
+  singular OR plural verb — the rule widens from
+  B4's singular-only); irregular verbs; the
+  INFINITIVE for personal activities ("I asked my
+  friend to read the story"); SIMPLE PRESENT for
+  SCHEDULED FUTURE actions ("The bus leaves early
+  tomorrow") and future possibilities ("If he
+  doesn't come early, we shall go without him")
+  (p.187; the indicator is printed twice, as
+  B6.3.5.1.4 twice, recorded as printed); past
+  continuous ("We were playing football when the
+  fire broke out"); imperative for warnings and
+  prohibitions ("Break the glass, and you will pay
+  for it").
+- Adverbs: degree and reason added — "The shirt is
+  too small for me. You are making so much noise.
+  I sing because I like singing" (p.189).
+- Idiomatic Expressions: the same two anchors as
+  B5 (take after; to pull down), now also drawn
+  from learners' own culture and first language,
+  written on manila cards for the classroom wall.
+- Conjunctions: so that, when, while, if — purpose,
+  time, condition ("Take a hot bath so that you can
+  sleep well. I drank the soup while my mother was
+  in the kitchen").
+- Modals: the full B4/B5 meaning list revised.
+- Prepositions: the meaning set (time, purpose,
+  possession, comparison, support/opposition).
+- NEW at B6: ADJECTIVE PHRASES ("a very beautiful
+  flower"; "a strong African oven") and ADVERB
+  PHRASES ("He comes to the house every day").
+- NEW at B6: DIRECT AND REPORTED SPEECH — the
+  three printed direct examples ("We saw an eagle,"
+  said Aba; "Esi is tired," said Mum; "Joe has
+  become rich," said Atongo) converted by the
+  printed steps: add the reporting clause, introduce
+  "that," remove the quotation marks — "Aba said
+  that they had seen an eagle. Mum said that Esi
+  was tired" (p.195).
+
+STRAND 4 WRITING.
+- Penmanship: a legible, fluent and PERSONAL
+  handwriting style; write COMPLEX sentences —
+  built by combining simple pairs: "You will come.
+  We will go. → When you come, we will go."
+- Paragraph Development: modes (process, narrative,
+  descriptive, persuasive, argumentative, letter);
+  introduce the main idea with key words, phrases
+  or clauses (topic sentence "Kofi is a good
+  child"); cohesive devices for contrast, result
+  and purpose (first, second, third, finally, again,
+  also, besides, further, likewise, next, then,
+  too).
+- Writing as a Process: the topic is now a NATIONAL
+  issue; the printed organiser is "Bush fires"
+  (causes, effects, solutions); a THREE-paragraph
+  draft with a wider range of cohesive devices (as
+  a result, on the other hand, however); revise,
+  edit, publish — The Junior Graphic or The Daily
+  Graphic now named (p.200–201).
+- Narrative Writing becomes REFLECTIVE WRITING:
+  who you are now against who you were before, by
+  the Then/Now chart with reasons for the change.
+- Creative/Free: national issues and other learning
+  areas; stories and poems/plays as before.
+  Descriptive: personification and sound devices
+  added to simile/metaphor. Argumentative: the
+  motion "A lawyer is more important than a
+  doctor"; claims in order of importance; the
+  conclusion poses a RHETORICAL QUESTION; debate
+  features add vocatives and taking a stand.
+- Expository: short paragraphs on incidents
+  (accidents, fire outbreak); write ARTICLES on
+  varied topics. Letter Writing: informal letters
+  expressing views, contrasted with formal letters.
+
+STRAND 5 (use-form repeat, with new items):
+punctuation grows — comma around a modifying
+phrase ("Kofi, my friend, will help me do my
+homework"), quotation marks for direct speech,
+apostrophe for PLURAL POSSESSION ("This is girls'
+work") (p.210); nouns add GENDER; verbs — simple
+past vs present perfect, the participle forms, and
+PAST PERFECT with its anchor sentence "When you
+came I had already finished the work" (p.213);
+essays mixing simple present, present perfect and
+past perfect; adjectives in superlative;
+adverbs of degree and reason; conjunctions so
+that/when/while/if/unless; subjects and verbs in
+COMPLEX sentences, and changing compound sentences
+into complex ones; spelling checked inside
+learners' own story continuations (the printed
+seed: "Cinderella wore the shoes and she was taken
+away to marry the prince," p.220).
+
+STRAND 6 EXTENSIVE READING: read widely, visit the
+local library, and present a ONE-PAGE CRITICAL
+COMMENTARY on each book, judged against a set of
+criteria (p.220).
+
+Panel (p.221): writing panel led by Dr. Rev. Philip
+Gborsong (Lead, Department of English, UCC), with
+Genevieve Mensah, Collins Amoako, Ama Narko Marfo,
+Freda Quao, Joana Vanderpuije, Faustina Cobson,
+Comfort Dorvlo, Thomas Ntumy, Alfred Quaittoo;
+expert reviewers numbered 12–13 (Simon Tsadidey,
+Daniel Hammond — no 11, as in B1–3); curriculum
+advisor Dr. Sam Awuku (OPM); supervisors Felicia
+Boakye-Yiadom and Dr. Prince H. Armah; graphic
+designers numbered 18–19 (Eugene Offei Tettey,
+Frank Appoh — no 17).
+
+### Slips and points recorded as printed
+
+- B4 adjectives (p.39): "Regular adjectives form
+  their imperative by adding er" — comparative is
+  meant; filed as printed.
+- B4 adverbs: the time indicator's exemplar repeats
+  "adverbs of place."
+- B5 Strand 3 conjunctions (p.117): "Although Afi
+  is has eye problems" — "is has" as printed; the
+  same example is repeated in Strand 5.
+- B5 Writing as a Process (p.126): the standard
+  B5.4.9.2.1 says a two-paragraph draft; its own
+  body text says a three-paragraph draft.
+- B5 Strand 4's editing indicator is numbered
+  B4.4.9.3.2 inside the B5 span; B6 Strand 4 repeats
+  the whole B6.4.9.3 revise/edit block twice, the
+  second copy carrying the Reflective Writing
+  material; B6.4.9.3.1's questions are renumbered
+  iv–vi in the repeat.
+- B6 verbs: indicator B6.3.5.1.4 (simple present)
+  is printed twice in full; the sequence skips
+  B6.3.5.1.5. B6 Strand 3's Adverbs standard is
+  headed "CONTENT STANDARDS5."
+- B6 Strand 5's sentence-types sub-strand is
+  titled "Using Simple, Compound and Compound
+  Sentences" (the second "Compound" for Complex).
+- The panel lists skip numbers (no 11 among
+  reviewers, no 17 among designers) in both the
+  B1–3 and B4–6 documents.
+- Recorded as facts of the document, not errors:
+  Strand 5 repeats Strand 3 almost item for item in
+  all three years (a deliberate use-form second
+  pass); the line counts and summary lengths grow
+  by design year to year (poems 4 → 6 → 8 lines;
+  extensive-reading summaries two paragraphs →
+  three paragraphs → one-page commentary); no pupil
+  texts are printed beyond short exemplar sentences
+  — this is a standards document, not a pupil book.
+
+GHANA CURRICULUM B4–6 FULLY READ — 2026-10-26 (full
+re-read, page by page from the document's own text;
+replaces the basics-only MAPPED filing)
+CITATION CHECK PASSED — 2026-10-26: anchors
+re-opened in the document itself and confirmed —
+telling the time "half past 8, quarter to 8" (B4,
+p.6), the question tag "You have a pen, don't you?"
+(B4, p.12), the Tapping Out game (B4, p.21), the
+homonym flour/flower (B4, p.24), "form their
+imperative by adding er" (B4, p.39), the motion "A
+doctor is more important than a farmer" (B4, p.55),
+"Children should not WhatsApp" (B5, p.78), "Mercy
+ate slowly" (B5, p.116), "I'm late because I missed
+the bus" with "Although Afi is has eye problems"
+(B5, p.117), the Boti school paragraph (B5, p.123),
+the motion "A teacher is more important than a
+doctor" (B5, p.134), the 90–120-word expository
+pieces (B5, p.136), the address comma and
+contraction apostrophe (B5, p.139), past perfect in
+Strand 5 (B5, p.144), eight-line poems (B6, p.153),
+the WhatsApp topic with an unfamiliar audience
+(B6, p.158), question tags "It is cold, isn't it?"
+(B6, p.162), -sure/-ture/-tch endings (B6, p.168),
+centering diphthongs (B6, p.170), hyponyms and
+meronyms (B6, p.173), SQ3R in full (B6, p.175),
+"a team of horses, a bevy of ladies" (B6, pp.180–
+181), reflexive, relative and reciprocal pronouns
+(B6, p.184), the scheduled-future simple present
+"The bus leaves early tomorrow" (B6, p.187),
+adverbs of degree and reason (B6, p.189), "We saw
+an eagle," said Aba — direct to reported speech
+(B6, p.195), the Bush fires organiser (B6, p.200),
+plural-possession "girls' work" (B6, p.210), "When
+you came I had already finished the work" (B6,
+p.213), the Cinderella spelling seed and the
+one-page critical commentary (B6, p.220), and
+panel lead Gborsong (p.221).
+
 
 ## English Language Curriculum for JHS 1–3 — Common Core Programme (NaCCA, 2021)
 
