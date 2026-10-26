@@ -508,24 +508,254 @@ passed as recorded above)
 
 ## Class 3 — Marigold Book Three (Textbook in English for Class III)
 
-NCERT, first edition February 2006; 2020-21 printing;
-ISBN 81-7450-479-6. Same copy route as Class 2.
+NCERT, first edition February 2006; this copy the
+2020-21 printing; ISBN 81-7450-479-6 as listed;
+price ₹65 as printed; same Marigold committee leads.
+Read in full, page by page, 2026-10-26, from the
+Internet Archive's copy of NCERT's own chapter
+files. TEN units, paginated to p.108 in the chapter
+files; no Picture Dictionary this year.
 
-Same shape: TEN units, poem + story, with new words,
-reading questions, and talk/do/write activities.
+SHAPE — the machine changes at Class 3. The unit is
+still poem + story with New words and Reading is
+fun, but the strands are renamed and hardened: Talk
+time, Word building, Team time, Let's write, Say
+aloud; questions are NUMBERED, and multiple-choice
+questions appear as a printed form in the last two
+units. The Teacher's Pages shrink to ONE Teacher's
+Page per unit, organised as THEMES plus SUGGESTIONS
+FOR CLASSROOM TEACHING — and the themes are now
+named for every unit (child and nature, birds,
+plants and growth, water and sea, sky and colours,
+travel, pets and animal homes, communication and
+letter writing, growing up, animal habitats). Real
+language points arrive inside Word building, still
+mostly unnamed: contractions, suffixes, homophones,
+silent letters, describing words.
 
-- U1 Good Morning · The Magic Garden
-- U2 Bird Talk · Nina and the Baby Sparrows
-- U3 Little by Little · The Enormous Turnip
-- U4 Sea Song · A Little Fish Story
-- U5 The Balloon Man · The Yellow Butterfly
-- U6 Trains · The Story of the Road
-- U7 Puppy and I · Little Tiger, Big Tiger
-- U8 What's in the Mailbox? · My Silly Sister
-- U9 Don't Tell · He is My Brother
-- U10 How Creatures Move · The Ship of the Desert
+- U1 Good Morning (poem, Fannie R. Buchanan —
+  greetings to sky, sun, winds, birds, trees, grass
+  and "brownie bees"; "Who told you night had gone
+  away?") · The Magic Garden (story, adapted from
+  'The Fairy Garden' by Margaret H. Bolton: the
+  school garden's flowers — sunflowers, roses,
+  marigolds, poppies, pansies — call the children
+  their "hundreds of little gardeners"; fairies in
+  flower dresses dance at night). New words (creeping,
+  awake, gone away; magic, garden, gardeners,
+  playground, sunshine, golden, dreaming). The work:
+  greetings across the day (Good morning / Good
+  night; a dog says "Bow-wow," a cow "Moo-moo");
+  rhymes found in the poem (bees, day, too); a flower
+  scrap book made by pressing real flowers.
+- U2 Bird Talk (poem, Aileen Fisher — the robin and
+  the jay agree people are funny: no feathers, no
+  wings, no beetles) · Nina and the Baby Sparrows
+  (story, Pratibha Nath: Nina refuses the wedding
+  shopping because two baby sparrows in the bookshelf
+  nest would be locked in unfed; Mother leaves the
+  window open and locks the room from outside; Nina
+  returns to "two plump little sparrows flying all
+  over the room"). New words (beetles, sitting, wires,
+  funny; market, bother, problem, dress, upset,
+  remove, wedding, lovely, plump). The work: DESCRIBING
+  WORDS matched to pictures (beautiful, black, red,
+  happy, tall, fat — a ___ woman, a ___ rose, a ___
+  peacock); the jumbled picture story numbered and
+  then WRITTEN in proper order; bird-sound words
+  listed; th sounds (think/this, thin/that, three/
+  though); finger puppets and a hanging paper bird
+  made. Teacher's Page: differences between people,
+  children with special needs, sparrows vanishing
+  from cities.
+- U3 Little by Little (poem — the acorn: "I am
+  improving every day, / Hidden deep in the earth
+  away," growing to "the mighty oak… the forest's
+  pride") · The Enormous Turnip (cumulative folk
+  tale: old man, old woman, boy, girl pull together;
+  then all four eat it). New words (hidden, slowly,
+  downward, slender, mighty, branches, pride,
+  improving, sipped, shoot; enormous, turnip, pulled).
+  The work: DESCRIBING WORDS HUNTED in the poem as an
+  exercise; opposites matched (downward/upward,
+  slowly/fast, little/big, slender/fat, mighty/weak,
+  day/night); tree-part labels (branch, twigs, root,
+  shoot); One/Many columns (carrot/carrots, potato/
+  potatoes, tomato/tomatoes); odd-one-out sets with
+  clues; a bean grown in a glass; a friendship salad
+  made to a recipe.
+- U4 Sea Song (poem — the curly shell that "sings"
+  at the ear) · A Little Fish Story (story, Enos B.
+  Comstock: the little fish who wished to be larger
+  slips through the net's mesh while the big ones are
+  hauled in, and never wishes again). New words
+  (million, floundering, meshes, haul, contented,
+  splashing, emptied, wriggled, warning). The work:
+  rhyming pairs boxed (found/sound, cold/bold, took/
+  look, sand/hand, mummy/tummy); opposites filled
+  (hard/soft, big/small, inside/outside, came/went,
+  pick/drop, true/false, sweet/bitter, curly/
+  straight, tall/short); the TONGUE TWISTER "She
+  sells sea-shells on the sea-shore"; sound phrases
+  matched (birds sing, phones ring, dogs bark, cows
+  moo, cocks crow, bees buzz); PAST TENSE as a pattern
+  table (look–looked, pick, bark, want, talk, wish,
+  pull, help — the -ed row to complete); collective
+  nouns (a glass of water, a bunch of flowers, a box
+  of matches, a herd of cows, a sheet of paper, a
+  pack of wolves); "If I were only larger, how much
+  happier I could be" — the pattern re-run with
+  taller, thinner, smaller, cleverer, younger, older.
+- U5 The Balloon Man (poem, Rose Fyleman — the bunch
+  that tugs "like anything" in a wind) · The Yellow
+  Butterfly (story, Nilima Sinha: Sonu chases the
+  butterfly from rose bed to lotus pond to peach
+  tree, frees it from the spider's web — and then
+  lets it go: "'Go,' said Sonu, 'Fly away!'"). New
+  words (escape, pond, peach, climb, catch, middle,
+  hungry, float, shout, chase, flutter, twist). The
+  work: jumbled letters unscrambled (llaboons,
+  cunlh, ulbe, ploeep, wolbe, crat); words sorted into
+  nature/food/colours; opposites found INSIDE the
+  poem; SEQUENCE WORDS — first, then, after this,
+  finally — used to order a morning routine; a word
+  split in two (butterfly = butter + fly; everywhere,
+  inside, outside, sunlight); "Butterflies can fly…
+  Can we fly? No, we can't"; str- and same-sound sets
+  (haul/hall, mite/might, tail/tale, sale/sail).
+- U6 Trains (poem, James S. Tippett — "Over the
+  mountains, / Over the plains, / Over the rivers, /
+  Here come the trains," carrying passengers and
+  mail, "their precious loads," through dusk and
+  dawn) · The Story of the Road (story, Poile
+  Sengupta: the waking road hears sparrows, the crow,
+  the newspaper boy's bicycle, the vegetable man's
+  call, children tramp to school — and tells the crow
+  "I am wide awake"). New words (mountains,
+  passengers, rivers, precious, mail, plains, dusk,
+  dawn; newspaper, cucumbers, cabbage, potatoes,
+  radish, cauliflower, foolish). The work: transport
+  sorted Land/Air/Water; right-word choices (Give me
+  some ___ to eat — food/clothes; Let's get on the
+  ___ — train/dawn); CAN AND CANNOT alternated down a
+  list of sounds heard; four sentences on a journey
+  with given words (station, ticket, window, whistle);
+  "The Wheels on the Bus" sung; The Race acted (the
+  bus must stop at the railway gate).
+- U7 Puppy and I (poem, A.A. Milne — Man to the
+  village for bread, Horse for hay, both refused;
+  Puppy "up in the hills to roll and play" —
+  "'I'll come with you, Puppy,' said I") · Little
+  Tiger, Big Tiger (story, Lois Hamilton Fuller: the
+  cub chases a frog, meets the big male tiger, is
+  saved by his mother's roar — and grows into the
+  tiger whose own roar empties the jungle). New
+  words (village, hills, bread, hay, roll, play;
+  shady, bellowed, twitched, pounced, grunt, game,
+  glistened, roared, pheasant, fowl). The work: tick-
+  the-right-answer questions in four-option form;
+  animals matched to SOUNDS (horse neighs, elephant
+  trumpets, sheep bleats, cow moos, cat mews, dog
+  barks, tiger roars) and sorted domestic/wild;
+  animals matched to their YOUNG (cat–kitten,
+  tiger–cub, sheep–lamb, goat–kid, duck–duckling and
+  the rest) and to their HOMES (bee–hive, ant–ant
+  hill, duck–pond, tiger–den, rabbit–burrow,
+  spider–web, sparrow–nest); comparatives in Say
+  aloud (big, bigger, biggest; small, smaller,
+  smallest; rich, richer, richest); a Who-am-I animal
+  crossword (I give wool / I lay eggs / I am the Ship
+  of the Desert…).
+- U8 What's in the Mailbox? (poem — letters come
+  "for my Mother or my Dad / But never one for me";
+  the child will write first, "And I'll get letters
+  too!") · a REAL LETTER taught as a model (Devu to
+  his grandfather: address, date, "Dear Grandfather,"
+  the Panchatantra thank-you, "With love, Devu") and
+  the child writes one back, then MAKES AN ENVELOPE
+  and posts it · My Silly Sister (prose poem,
+  Rabindranath Tagore: the baby who eats pebbles for
+  food, tears the book for lessons, wants to catch
+  the moon; the brother keeps his "class" with the
+  washerman's donkeys and makes her call him "dada").
+  New words (letters, always, never, though; childish,
+  pebble, donkey, dirty, anger, excitement, playful,
+  naughty, washerman). The work: helpers matched to
+  their work (postman, cobbler, librarian, driver,
+  dramatist, teacher, nurse, musician, astronaut,
+  clown); SUFFIX SETS drilled — -ful (playful,
+  beautiful, useful, plentiful), -ly (lovely, really,
+  slowly, softly), -ish (childish, foolish, 
+  bookish…); plurals (one child/many children, fox,
+  duck, goose/geese); five sentences on helping at
+  home.
+- U9 Don't Tell (poem, Irene Yates — "There are
+  lots of things / They won't let me do… I'm Really a
+  giant, / Inside") · He Is My Brother (story, based
+  on Sanat Kumar Bhatt: Meena, twelve, carries her
+  four-year-old brother — who cannot walk — up the
+  holy hill; to the pitying man: "Load? Of course
+  not! He is my brother!") · a full SIGN LANGUAGE
+  spread: what sign language is (signs, gestures,
+  finger spelling, facial expressions; total
+  communication with lipreading and writing), with
+  six signs drawn and described — Sing, Dance, Read,
+  Win, Sunset, Sunrise. New words (enough, chance,
+  giant, patient; understand, climbed, holy, slowly,
+  sorry, load). The work: CONTRACTIONS OPENED OUT as
+  a taught point — Don't = Do not, I'm = I am, I'll =
+  I will, then Can't, It's, Isn't, What's, That's,
+  and He's, She's, You're, We're used in sentences;
+  words made from inside big words (blackboard →
+  black, board, back); MULTIPLE-CHOICE questions in
+  full form (four options, one right); CVC fill-ins
+  (pit, sip, box, rug, cot, den); opposites filled
+  inside sentences (in/out, big/small, long/short,
+  day/night, hot/cold, tall/short, sad/happy); the
+  soft-g/j sound sorted (giant, goose, jam, grey,
+  gym, gold, June, gum; January, gem, giraffe, July).
+- U10 How Creatures Move (poem — the lion's padded
+  paws, the squirrel's leaps, the worm's wiggle; "But
+  boys and girls / Have much more fun") · The Ship of
+  the Desert (a PLAY in dialogue, S.K. Ram: the Lion,
+  King of the Forest, cross-questions the Camel — 
+  padded feet that hot sand cannot burn, 25 kilometres
+  an hour on sand against the lion's 80 in the forest,
+  a week without water, "200 bottles of water at a
+  time," food stored in the hump for a fortnight,
+  thorns eaten with a thick tongue; the lion declines
+  the desert). New words (padded, limb, crawl, dive,
+  wiggles; Ship of the Desert, miles, King of the
+  Forest, sand, thorns). The work: ACTION WORDS
+  underlined in the poem and matched right (lions
+  walk, squirrels leap, flies crawl, seals dive,
+  worms wiggle, monkeys swing, birds hop) then ordered
+  slow to fast (crawl, walk, hop, run); SILENT LETTERS
+  underlined (walk, straight, more, caught, calm,
+  talk); six four-option MCQs on the play; words made
+  from inside words (ROARING → roar, ran, in; 
+  FROWNING, BLINKING, WONDERINGLY); animal-part words
+  matched to pictures (tusk, beak, mane, whiskers,
+  hoof, feet, fin, paw); HOMOPHONES as a full taught
+  list, each pair to be used in sentences — i/eye,
+  our/hour, week/weak, need/knead, in/inn, see/sea,
+  no/know, here/hear, not/knot, eight/ate, of/off,
+  two/too, bye/by.
 
-INDIA CLASS 3 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26)
+CITATION CHECK (2026-10-26): anchors verified
+against the book's own pages — the magic garden's
+five flowers (U1); Nina's two plump sparrows (U2);
+the turnip's four pullers (U3); "If I were only
+larger" and the -ed table (U4); Sonu's "Fly away!"
+(U5); the road's "I am wide awake" (U6); the animals–
+young–homes matches (U7); Devu's letter and the
+-ful/-ly/-ish sets (U8); contractions opened out and
+the six signs (U9); the camel's figures and the
+homophone list (U10). All on their pages as filed.
+
+INDIA CLASS 3 FULLY READ — 2026-10-26 (full
+page-by-page re-read, this filing; citation check
+passed as recorded above)
 
 ## Class 4 — Marigold Book Four (Textbook in English for Class IV)
 
