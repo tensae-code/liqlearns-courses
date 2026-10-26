@@ -1042,26 +1042,353 @@ passed as recorded above)
 
 ## Class 5 — Marigold Book Five (Textbook in English for Class V)
 
-NCERT, first edition February 2008; 2020-21 printing;
-ISBN 978-81-7450-813-3. Same copy route. The last
-Marigold — from here the books change character (longer
-prose, less picture-leading).
+NCERT, first edition February 2008; ISBN 978-81-7450-813-3
+(as listed). Copy read: the Internet Archive item
+`ncert-eeen1`, NCERT's own chapter files; every chapter
+page is footer-stamped 2019-2020, so this is the 2019-2020
+printing. The last Marigold — from here the books change
+character (longer prose, less picture-leading).
 
-TEN units, poem + story (Unit 9 is a single long poem):
+Format changes at Class 5: difficult words are now GLOSSED
+IN THE BOOK ("New Words/Phrases" with meanings printed —
+e.g. blaze, trundling, mounds, frosty-fizz, and phrases like
+"in a fix," "flash across the mind," "lo and behold"), and
+the Teacher's Page strands are renamed Reading Time /
+Conversation Time / Writing Time / Project Work. TEN units,
+poem + story (Unit 9 is a single long poem):
 
-- U1 Ice-cream Man · Wonderful Waste!
-- U2 Teamwork · Flying Together
-- U3 My Shadow · Robinson Crusoe Discovers a Footprint
-- U4 Crying · My Elder Brother (adapted from Premchand)
-- U5 The Lazy Frog · Rip Van Winkle
-- U6 Class Discussion · The Talkative Barber
-- U7 Topsy-turvy Land · Gulliver's Travels
-- U8 Nobody's Friend · The Little Bully (Enid Blyton)
-- U9 Sing a Song of People
-- U10 Malu Bhalu · Who Will be Ningthou?
+- **U1 Ice-cream Man** (poem, Rachel Field — vanilla,
+  chocolate, strawberry; the cart "like a flower bed,"
+  children clustering "as thick as honeybees") ·
+  **Wonderful Waste!** (the Maharaja of Travancore's cook
+  invents AVIAL out of vegetable scraps — coconut, green
+  chillies, garlic, curd, coconut oil, curry leaves; a
+  Kerala tale) · **Bamboo Curry** (Santhal folk tale told
+  as a numbered picture story: the bridegroom carries home
+  the bamboo DOOR; real curry is made from bamboo SHOOT).
+  TAUGHT: REPORT WRITING as an explicit lesson — a model
+  report (Uncle Lal's dairy farm) and printed rules: give a
+  good title, keep to the subject, keep the right order,
+  write neatly; then a guided group report on local
+  ice-cream brands with prices. Also: z-sound circling
+  (price/prize, rice/rise, lazy/lacy, rays/race);
+  describing words hunted in the poem; sequence ordering
+  (kulfi serving; the avial recipe); dictionary
+  multi-meanings (point as noun and verb; ground, scrap,
+  sternly, tempting); a root-word ending table (-ed/-ing/
+  -er/-est across pound, try, large, new, tasty, wise,
+  stare, clean).
+- **U2 Teamwork** (poem, Jan Nigro — basketball passes and
+  the relay baton; "a you or a me becomes an us") · **For
+  Want of a Nail** (the traditional rhyme, as a second
+  poem) · **Flying Together** (Panchatantra, adapted by
+  Shiv Kumar: the wise old goose warns of the growing
+  creeper; the geese delay; the hunter climbs it and nets
+  them; they play dead and escape) · **The Ant and the
+  Dove** (Aesop, as a LISTENING passage). TAUGHT:
+  CONTRACTIONS FORMALLY — the apostrophe is named and
+  defined in print ("The mark ( ' ) is an apostrophe which
+  shows where the letters are [left out]"): we'll, can't,
+  we've, you've, there's, what've, we're, they're, plus
+  writing contractions for has not / have not / do not /
+  are not and full forms for weren't, she'll, wasn't,
+  who's. Questions FORMED for given answers; question
+  words (where/what/how/who/when/why) drilled in pair
+  interviews answered about oneself; PREPOSITIONS in two
+  sets (to, at, off, on, in, into, with — from the story;
+  then around, across, with, along, to, after, next to,
+  into, from — in a paragraph); REFERENCE TO CONTEXT
+  questions (who said it / to whom / when); PROVERBS
+  taught as a list (Old is gold; As you sow so shall you
+  reap; Unity is strength; United we stand divided we
+  fall; A friend in need is a friend indeed; All's well
+  that ends well) plus writing an event one fits;
+  SYLLABLE CLAPPING (creep = 1, cree-per = 2,
+  to-mo-rrow = 3); compound words hunted in a puzzle
+  (sometime, everyone, basketball, nobody, teamwork).
+- **U3 My Shadow** (poem, Robert Louis Stevenson —
+  "arrant sleepyhead," glossed in the book) · **Robinson
+  Crusoe Discovers a Footprint** (adapted from Defoe,
+  first person: "exactly the print of a foot — toes, heel,
+  every part of a foot"; he measures it against his own
+  foot; "The island was inhabited!"). TAUGHT: RELATIVE
+  PRONOUNS as fill-in choices — who/whose/which/that/
+  whom across seven sentences ("Where is the child ___
+  parents have come to school?", "Mathematics, ___ is my
+  favourite subject…", "The old lady ___ I met in your
+  house…"); sh-word sets (shoe, shadow, fish, bush, ship,
+  sheep, dish, wash, shell, shade, wish, brush); sentence
+  joining with and/but/because/so and a Column A/B join
+  with or/and/so/but/because; jumbled-word sentences
+  from the story put back in order; a word pyramid
+  (2-letter up to 6-letter); a second shadow poem
+  (Louise Binder Scott).
+- **U4 Crying** (poem, Galway Kinnell — "You must cry
+  until your pillow is soaked!"; "Happiness was hiding in
+  the last tear!") · **My Elder Brother** (a PLAY in
+  three scenes, adapted from Munshi Premchand's Hindi
+  story Bade Bhai Sahab: Bhaiya, five years older and
+  three classes ahead, keeps repeating classes yet
+  scolds; Munna tops his class; the study timetable
+  Bhaiya writes him is printed in full — 6–8 English,
+  8–9 Maths, 9–9.30 History, 5–6 Grammar, 6.30–7
+  composition, 8–9 Translation, 9–10 Hindi, 10–11 other
+  subjects; the kite-catching scene; "Understanding
+  doesn't come only from reading books. Look at Ma and
+  Baba. Ma has never gone to school and Baba has only
+  passed fifth class") · a model LETTER with its parts
+  LABELLED in the margin (Pratap, from Krishna Boys'
+  Hostel, Model Public School, Kolkata, 10th July 2000,
+  to his mother — writer's address / date / greeting /
+  introduction / body / ending / closing all named) · an
+  unseen COMPREHENSION passage: Oliver, nine years old,
+  in the orphanage — Mr Bumble, watery soup, "Please sir,
+  I want some more" — with vocabulary-from-the-passage
+  questions (starving, disappeared, assembled → assembly)
+  and "Give a suitable title." TAUGHT: feeling words
+  chosen exactly (amazed/shocked/worried/frightened/
+  angry in context); -ness words traced to roots
+  (happiness ← happy + three more); rhyme families
+  (dash/bash/splash; wept/kept/crept; poked/croaked/
+  soaked); teach/learn in all forms (teach, teaches,
+  taught, has taught; learn, learns, learned, has
+  learned); was/were plus a past-tense paragraph
+  completed by choice (the Class V race: were gathering,
+  arrived, left, took, blew, ran, came, did, won, felt);
+  FOR vs SINCE taught through examples from the play
+  ("Bhaiya has been studying in the same class for two
+  years" / "Munna was flying kites since morning" — the
+  book's own pairing, filed as printed) plus four
+  fill-ins.
+- **U5 The Lazy Frog** (poem, Anonymous — Fred, who
+  "always manages to shirk / Doing a single stroke of
+  work"; rhyme pairs log/frog, shirk/work, vain/deign,
+  preferring/hearing, heap/keep, past/last, way/say) ·
+  **Rip Van Winkle** (adapted from Washington Irving:
+  the Kaatskill mountains, the dog Wolf, the short old
+  man with the barrel, the silent ninepins players, the
+  drink, twenty years asleep, the foot-long white beard,
+  the old woman who names him). TAUGHT: COMPOUND
+  DESCRIBING WORDS (good-natured, long-sleeved,
+  high-heeled, well-dressed, open-mouthed, sweet-looking,
+  odd-looking, part-time) completed into a paragraph;
+  SILENT-LETTER groups (kn-: knee, knife, knot, know;
+  -gh-: neighbour, daughter, fight, straight; h-: honest,
+  honour, hour, heir; plus gnat, tongue, chalk, whistle);
+  meaning-choice and word-meaning matching with the
+  dictionary; seven true/false on the story; FREQUENCY
+  ordering — five speech bubbles (always/usually/often/
+  sometimes/never walk to school) put in order — then
+  writing about oneself with always/frequently/often/
+  sometimes/rarely; PRESENT PERFECT writing frames:
+  "Write three new things you have done in the last
+  three years" ("I have started…") and three things NOT
+  done, from a verb bank (play, stop, buy, learn, see,
+  meet, be, eat, go, travel, start, read, visit).
+- **U6 Class Discussion** (poem, Gervase Phinn — Jane,
+  quiet by nature; the class must say which of four
+  reasons fits) · what a DISCUSSION is, defined and
+  practised (each person gives ideas one by one; some
+  say why, others how; questions asked and answered; the
+  group decides the best ideas) · a NOTICE taught by its
+  four questions (who is to meet / when / where / what
+  are they to do — Sheela's notice for the Annual Day
+  play), then write a notice (library committee or
+  football match) · National Bravery Awards reading
+  (started 1957 by the Indian Council of Child Welfare;
+  cash, free schooling, a certificate from the Prime
+  Minister, a ride on an elephant in the Republic Day
+  parade; Harsh Srivastava, 12, and his sister, 15 —
+  a child saved from a raging bull; Yumnan Jayadeo
+  Singh, 11 — a three-year-old saved from a flooded
+  river) and the child must find, write and narrate a
+  bravery story NAMING ITS SOURCE · **The Talkative
+  Barber** (from the Arabian Nights; the frame is given
+  in the unit opener — Sultan Shahriar and his queen,
+  the storyteller: the barber called to shave the
+  Sultan's head talks instead; his six brothers are
+  named — Bacbone, Bakbarea, Bakbac, Alcouz, Alnaschee
+  and Schacabac; three pieces of gold refused; the
+  half-shaved Sultan ends by giving him the whole feast
+  prepared for his own friends, fruit for dessert
+  included). TAUGHT: un-/im-/dis- opposites in depth
+  (important/unimportant, patient/impatient, pleasure/
+  displeasure modelled; then believe, shaved, perfect,
+  satisfy, polite, respect, pure, expected, obedient, and
+  seven fill-ins from tidy, patient, kind, like, able,
+  appear, possible); JOINING WORDS if/or/till/where/
+  unless/so/while in seven fill-ins anchored on two
+  quoted story sentences ("You ordered me to come, so I
+  will not quit your house till I have shaved you");
+  PROCESS WRITING — describe how to send a letter or
+  e-mail, make a salad, prepare a garden bed, or paint
+  a mural, in sequence (a shaving description is
+  modelled first).
+- **U7 Topsy-turvy Land** (poem, H.E. Wilkinson — people
+  walk on their heads, the sea is made of sand, children
+  go to school by night) with a two-column comparison
+  table against "Our land" · **Gulliver's Travels**
+  (adapted from Jonathan Swift; AUTOBIOGRAPHY is
+  defined in the opener — "When a person tells the story
+  of his life in his own words it is called an
+  autobiography": Brobdingnag — land found 16 June 1730
+  as printed; steps six feet high; the reaper picks him
+  up between thumb and forefinger, sixty feet up; the
+  dining table thirty feet high; the cat "ten times
+  larger than an ox"; the farmer's baby puts his head
+  in its mouth and drops him onto the mother's apron).
+  TAUGHT: SIMILES opened out as a system ("as cold as
+  ice" explained, then a completion grid — as white as
+  snow, as slow as a tortoise, as sweet as honey, as
+  black as night, as strong as an ox, as red as a rose,
+  as light as a feather, as warm as toast, as gentle as
+  a breeze — then used in sentences, then learners coin
+  their own: as tall/fast/high/angry/tiny/brave as…);
+  BECAUSE with MULTIPLE reasons for one event (three
+  printed reasons Gulliver could not climb the fence);
+  PAST CONTINUOUS interrupted by PAST SIMPLE ("I was
+  trying to climb over the fence when the giant saw
+  me"), seven matched pairs and open completions;
+  DEGREES OF COMPARISON stated formally (two things:
+  -er/more; three or more: -est/most — fast/faster/
+  fastest, difficult/more difficult/most difficult),
+  completions with easy/strong/juicy/exciting, and
+  CORRECTING wrong comparisons ("This is the simpler
+  problem of them all," "Which is the lightest of the
+  two parcels?," "the best of the two," "badder");
+  PUNCTUATION of a whole letter (capital letters, full
+  stops, commas, question marks, apostrophe, exclamation
+  mark, inverted commas — Sanju's letter about his pet
+  bulldog Frisky) plus six single sentences.
+- **U8 Nobody's Friend** (poem, Enid Blyton — the girl
+  who wouldn't share, the boy who ate every bit, then
+  "I'll share all of my sweets with you… I'm your
+  friend!") · the Lion and the Mouse as a short Aesop
+  reading (Ranthambore forest) ending "A friend in need
+  is a friend indeed," with the proverb's meaning as a
+  two-choice question · **The Little Bully** (adapted
+  from Enid Blyton: Hari, the champion pincher and
+  pin-pricker; the seaside picnic; the monster crab, the
+  lobster, the shrimps and prawns pinch and prick him
+  black and blue; "They only did to me what I keep doing
+  to the other children… I jolly well shan't pinch or
+  prick anyone anymore"). TAUGHT: -less words
+  (friendless, homeless); the NO-WORDS set (nobody, no,
+  nowhere, no one, none, nothing, never) underlined in
+  eight sentences; shan't = shall not; full forms of
+  won't/weren't/wouldn't/couldn't; -ly ADVERBS as
+  HOW-words (quietly, loudly given; add -ly to clear,
+  merry, weary, double, dreary, bright, bad, fond and
+  use them in sentences); ARTICLES TAUGHT BY NAME —
+  "A and an do not point out any definite or particular
+  person or thing whereas the is used when we speak of
+  some particular person or thing. A, an and the are
+  called articles," an before vowel sounds a,e,i,o,u —
+  with five fill-ins from the story; present-continuous
+  picture description (is/are + -ing: swinging, climbing,
+  licking, sliding, kicking, boxing); will-future
+  predictions for the playground tomorrow.
+- **U9 Sing a Song of People** (a single long poem for
+  the whole unit — city people walking fast or slow, on
+  sidewalks, buses, subways, taxis, elevators; umbrellas
+  "when it rains and pours"; grumpy people too; "Sing of
+  city people / You see but never know!") · two partner
+  poems, The Village Child and The City Child, each
+  wishing for the other's place · opposites written
+  (slow, up, back, tall, below, crowd, loud) · a
+  NEIGHBOURHOOD SURVEY: ten families counted in a table
+  (children below 5; 5–14; grown children 15–20; elders
+  21–50; old people above 50; totals; how many educated)
+  and a REPORT written from it · INTERVIEW YOUR TEACHER
+  (five printed questions — why a teacher, how she comes
+  to school, pets, books, hobbies) and a paragraph,
+  "My Teacher," written from the answers · MAP READING:
+  Ajay's route map (India Gate, the boat club, the
+  picnic area, grandmother's house) answered in five
+  questions, then directions home from school written
+  with go/turn/cross and across/between/in front of/
+  beside/near/behind · Tagore's "Day by Day I Float My
+  Paper Boats" as a listening poem (shiuli flowers;
+  messages then and now discussed) · COLLECTIVE NOUNS
+  as "group names" (troop of soldiers, swarm of bees,
+  team of players, litter of puppies, fleet of ships,
+  library of books; fills: clump of trees, choir, bunch
+  of flowers, cluster of stars, band of robbers, flock
+  of birds) · -ly blanks formed from sound/loud/quiet/
+  neat/easy · the MAGIC-E table (cap/cape, mat/mate,
+  pin/pine, not/note, kit/kite, sit/site, fin/fine,
+  hat/hate, cut, bit, quit, din — adding e changes sound
+  and meaning) · a Lear-style limerick, "A Little Bit of
+  Nonsense" (the old man with a beard, two owls and a
+  hen, four larks and a wren).
+- **U10 Malu Bhalu** (long poem, Kamla Bhasin, translated
+  from Hindi by Sandhya Rao — the polar-bear cub in her
+  icy lair; "Do as I do, that's all"; she swims the same
+  day, fearless) with a describing-words bank sorted
+  onto Malu (brave, strong, hardworking, eager to learn
+  more, smart, caring, impatient, female, affectionate,
+  bold, playful, white, clever, young, fearless) and
+  true/false on the poem · a fairness PASSAGE read and
+  answered: Meena plucks a mango; her grandmother gives
+  the larger piece to Raju "because he is a boy"; Meena
+  protests — she brought it and she is the elder; her
+  father divides it equally; the child is asked who
+  SHOULD have got the larger piece · **Who Will be
+  Ningthou?** (Indira Mukherjee; a Manipur folk tale:
+  Kangleipak; the Ningthou and Leima who think always
+  of their meeyam; three sons — Sanajaoba, Sanayaima,
+  Sanatomba — tie the horse race to the khongnang, the
+  banyan tree; feats follow: pierced through, jumped
+  over, uprooted; five-year-old Sanatombi mourns the
+  dead tree and its birds — "A Leima is one who doesn't
+  hurt anybody in the kingdom" — and is declared the
+  future Leima). Manipuri words are glossed for the
+  learner (Ningthou = king, Leima = queen, Meeyam =
+  people, Khongnang = banyan tree, Tunggi Ningthou =
+  future king, Thouro! = bravo, Phajei! = wonderful,
+  Shagol thauba nupa = fine horsemen). TAUGHT: the
+  PRONOUN TABLE printed in full (person speaking: I, me
+  / we, us; person spoken to: you / you; other persons:
+  he, him, she, her / they, them; places and things: it)
+  and a Malu paragraph rewritten replacing the repeated
+  names with pronouns; SOUND WORDS and exclamations
+  (Zoom! Bang! Pip! pop! Click! Chirp! Whisper! Bravo!
+  Oh! Ah! Hurrah! Alas! Wonderful! Hi! Ho!) matched to
+  what makes them; -ed action words circled in the
+  lesson and listed against their present forms; a whole
+  STORY completed by choosing the past form (the goblin
+  Cruel — lived, met, leapt, ordered, obeyed, walked,
+  moved, noticed, asked, replied, came, instructed,
+  entered, thought, ran) and the story's action words
+  sorted into -ed and irregular columns (live/lived,
+  meet/met…).
 
-INDIA CLASS 5 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26) —
-MARIGOLD BAND (CLASSES 1–5) COMPLETE
+Slips and printing notes, recorded as printed: (1) U4's
+Oliver passage is Dickens's Oliver Twist in all but name
+and is printed with NO source credit, unlike the book's
+other adaptations, which carry credits. (2) U9's title
+poem carries no byline in the copy read. (3) U4's for/since
+model sentences pair "since morning" with the past
+continuous ("Munna was flying kites since morning") —
+filed exactly as printed.
+
+INDIA CLASS 5 FULLY READ — 2026-10-26 (full re-read under
+the FULL READS ONLY law; the basics-only MAPPED filing
+above this section is superseded). CITATION CHECK PASSED —
+one anchor per unit verified in the chapter text itself:
+U1 report-writing rules and the model report on Uncle
+Lal's dairy farm (eeen101); U2 the apostrophe definition
+(eeen102); U3 relative-pronoun fill-ins, "(who / whose /
+which)" (eeen103); U4 the labelled letter parts and the
+for/since examples (eeen104); U5 "I have started…" present
+perfect frame and the always–never bubbles (eeen105); U6
+the notice's who/when/where/what and the un-/im-/dis-
+table (eeen106); U7 "as cold as ice" simile frame, the
+when-matching, the degrees correction set (eeen107); U8
+"A, an and the are called articles" (eeen108); U9 the
+cap/cape magic-e table and the group-names list
+(eeen109); U10 the printed pronoun table (eeen110).
+MARIGOLD BAND (CLASSES 1–5) NOW FULLY READ.
 
 ## Class 6 — Honeysuckle (Textbook in English for Class VI)
 
