@@ -144,3 +144,13 @@ Writing Skills part in Class 11 (Hornbill: note-making,
 summarising, sub-titling, essay, letter, creative
 writing); prose + poetry in Class 12 (Flamingo).
 **India: 12 of 12 read.**
+
+**Stocked by Bangladesh (set complete):** English for
+Today — conversation first at Class 1 (greetings before
+the alphabet, the reverse of Egypt/Libya), numbers woven
+through the primary units, named grammar from Class 4
+(verb to be, Wh-words, present continuous, simple
+past), themed outcome-led units at secondary (Class 8:
+culture, food, environment, news, fables; Classes 9–10
+one shared volume of 16 units). **Bangladesh: 9 of 9
+read.**

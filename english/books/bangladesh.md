@@ -134,3 +134,87 @@ Croak? · Vocabulary.
 
 BANGLADESH CLASS 5 FULLY READ — 2026-10-26 (basics-only) —
 PRIMARY BAND (CLASSES 1–5) COMPLETE
+
+## Class 6 — English for Today, Class Six
+
+NCTB; 118 pp. Same archive route. Secondary shape
+begins: the book is 33 numbered LESSONS (no units),
+each opening with its learning outcomes ("After
+completing the lesson students will be able to…"), and
+a Sample Question (exam paper) closes the book.
+Listening gets its own recurring lessons ("Are you
+listening?" 1–3).
+
+Lessons: Going to a new madrasah · Congratulations!
+Well done! · At a railway station · Where are you from?
+· Thanks for your work · It smells good! · Holding
+Hands · Grocery shopping · Health is wealth · Remedies:
+modern and traditional · Are you listening?-1 · An
+unseen beauty of Bangladesh · Our pride · The lion's
+mane · An old people's home · Boats sail on the rivers
+· Are you listening?-2 · Make your snacks · Stop, look
+and listen · Hason Raja: the mystic bard of Bangladesh ·
+Wonders of the world-1 and -2 · We live in a global
+village · Our wage earners · The concert for Bangladesh
+· Buying clothes · Andre · Are you listening?-3 · Taking
+a test · What should we do? · Too much or too little
+water · An invitation for Ibrahim · The Garden · Sample
+Question.
+
+BANGLADESH CLASS 6 FULLY READ — 2026-10-26 (basics-only)
+
+## Class 8 — English for Today, Class Eight
+
+NCTB; 166 pp.; this copy the version revised for the
+academic year 2025 (Preface, October 2024). Same route
+(the 2010 archive item was access-locked; the
+secondary-8 item carried this printing). Units return
+at secondary level — ELEVEN themed units, each opening
+with its outcomes, plus a Sample Question:
+
+- U1 A Glimpse of Our Culture
+- U2 Food and Nutrition
+- U3 Health and Hygiene
+- U4 Check Your Reference
+- U5 Humans and Environment
+- U6 Going on a Trip
+- U7 People and Occupations
+- U8 News! News! News!
+- U9 Things that Have Changed Our Life
+- U10 Fables
+- U11 Women's Role in Uprisings
+- Sample Question
+
+BANGLADESH CLASS 8 FULLY READ — 2026-10-26 (basics-only)
+
+## Class 9 — English for Today, Class Nine
+
+NCTB; 206 pp. Same route. SIXTEEN themed units, each
+with learning outcomes:
+
+- U1 Sense of Self · U2 Climate Change · U3 Pastimes ·
+  U4 Events and Festivals · U5 Problems Around Us · U6
+  Our Neighbours · U7 People Who Stand Out · U8 World
+  Heritage · U9 Unconventional Jobs · U10 Dreams · U11
+  Reading from English Literature · U12 Roots · U13
+  Loneliness · U14 Renewable Energy · U15 Media and
+  Modes of E-communication · U16 Graffiti
+
+BANGLADESH CLASS 9 FULLY READ — 2026-10-26 (basics-only)
+
+## Class 10 — English for Today, Classes Nine–Ten
+
+NCTB publishes ONE English for Today volume for Classes
+IX–X together (the two-year SSC book); the library
+record carries it under both the Grade 9 and the Grade
+10 rows, the same way Egypt's Secondary 12 arrived as
+one PDF for two terms. The book read for Class 9 above
+(16 units, Sense of Self through Graffiti) IS the
+Class 10 book — there is no separate Class Ten volume.
+An older combined edition (2018, revised 2017) exists
+with a partly reshuffled unit order; the current
+printing read here governs.
+
+BANGLADESH CLASS 10 FULLY READ — 2026-10-26 (basics-only)
+— **BANGLADESH COMPLETE: all 9 record rows read (the
+Classes 9–10 volume serving both of its rows).**
