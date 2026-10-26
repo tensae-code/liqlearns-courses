@@ -1787,23 +1787,466 @@ tells us what the author used to do" (fehl110).
 
 ## Class 7 — Honeycomb (Textbook in English for Class VII)
 
-NCERT, first edition February 2007; 2020-21 printing;
-ISBN 81-7450-676-4. Same copy route and same unit shape
-as Honeysuckle, teacher notes between unit groups.
+NCERT, first edition February 2007; ISBN 81-7450-676-4
+(as listed). Copy read: the Internet Archive item
+`ncert-gehc1`, NCERT's own chapter files, 2020-21
+printing. Same unit shape as Honeysuckle — prose + poem,
+Working with the Text / Working with Language / Speaking
+and Writing — with two changes: Comprehension Checks now
+sit INSIDE the prose, at the end of each part, and the
+Teacher's Notes (Units 1–3 pp.1–6, Units 4–7 pp.50–54,
+Units 8–10 pp.111–113) carry real grammar teaching of
+their own, noted per unit.
 
-- U1 Three Questions · The Squirrel
-- U2 A Gift of Chappals · The Rebel
-- U3 Gopal and the Hilsa Fish · The Shed
-- U4 The Ashes That Made Trees Bloom · Chivvy
-- U5 Quality · Trees
-- U6 Expert Detectives · Mystery of the Talking Fan
-- U7 The Invention of Vita-Wonk · Dad and the Cat and
-  the Tree
-- U8 Fire: Friend and Foe · Meadow Surprises
-- U9 A Bicycle in Good Repair · Garden Snake
-- U10 The Story of Cricket (prose; no poem listed)
+- **U1 Three Questions** (Leo Tolstoy, retold — the king
+  who would never fail if he knew the right time to
+  begin, the people to listen to, and the most important
+  thing to do; the wise men's clashing answers —
+  timetable, council, magicians; the hermit who says
+  nothing; the king digs the beds, dresses the bearded
+  enemy's wound, and is answered by the events: "there
+  is only one time that is important and that time is
+  'Now'… The most necessary person is the person you
+  are with at a particular moment… The most important
+  business is to do that person good") · **The Squirrel**
+  (poem, Mildred Bowers Armstrong — "He wore a question
+  mark for tail, / An overcoat of gray"). TAUGHT:
+  meaning matching (wounded, awoke, forgive, faithful,
+  pity, beds, return); WORD FAMILIES in two-blank
+  sentences — both forms of one word in a single frame
+  (promise/promised, judge/judgement, differ/difference,
+  answer, necessary/necessity, wise/wisdom, decide/
+  decision, forgive/forgiveness, the first pair worked
+  as the model); Speaking and Writing: the SAME incident
+  narrated twice — as the king, then as the hermit —
+  from given openings; the poem's work sends learners to
+  the dictionary for the ways 'wear' is used. The
+  Teacher's Notes add a rhyme dictation (gray, mark,
+  went, nut) and a "Do you know" box on ostriches whose
+  answer is printed at p.32 (an ostrich lies flat; the
+  head-in-sand story is a metaphor for people who ignore
+  a problem).
+- **U2 A Gift of Chappals** (Vasantha Surya, from Mridu
+  in Madras: Goruchaka Turns Up — Madras, now Chennai;
+  Mridu, Ravi, Meena, Lalli and their Paati and Rukku
+  Manni; the secret kitten with the full name
+  Mahendravarma Pallava Poonai, M.P. Poonai for short,
+  "descended from the Mahabalipuram Rishi-Cat" and
+  further back from Bastet, the Egyptian cat-goddess;
+  Lalli's violin lesson, all derailments, while the
+  music-master's notes float "like the wheels of a train
+  fitting smoothly into the rails"; the beggar with
+  blistered feet; the children give him the
+  music-master's brand-new chappals — bought on Mount
+  Road, costing "a whole month's fees"; Ravi's defence
+  is Karna, and his mother's answer: "Karna didn't give
+  away other people's things, he only gave away his
+  own"; Gopu Mama's hardly worn chappals go to the
+  master, and Rukku Manni ends laughing) · **The Rebel**
+  (poem, D.J. Enright — fifteen couplets of opposites;
+  "It is very good that we have rebels. / You may not
+  find it very good to be one"). Tamil words are glossed
+  in the margin (Paati — grandmother; thatha —
+  grandfather; veshti — dhoti). TAUGHT: IF-CLAUSES —
+  the sentence is shown as two parts, the first
+  beginning with 'if'; pairs of sentences are rewritten
+  as one (models worked: "If you walk fast, you'll catch
+  the bus"), a paragraph is completed with the will
+  forms, and sentences are finished with "if you want
+  to / if you don't want to / if you want him to"; the
+  Teacher's Notes state the rule itself — an if-clause
+  (conditional clause) expresses a condition whose result
+  is felt in the second part; if the verb in the
+  if-clause is present, the other clause normally has
+  will + verb; the if-clause can stand first or last.
+  Speaking and Writing: discussion (giving away your
+  own things vs others'; has Rukku Manni done exactly
+  the same as the children?) and a roommate-choosing
+  role-play run on printed sentence openings (I enjoy…,
+  I wouldn't…, It's fine with me…, I can't share…).
+  The poem's work: antonyms found IN the poem, lines
+  matched to paraphrases; a tongue-twister box (Tutor
+  Tooted).
+- **U3 Gopal and the Hilsa Fish** — a COMIC: the story
+  is told in picture panels with speech bubbles, so the
+  printed text of the unit is the apparatus rather than
+  the tale. (Filed from the book's own questions and
+  exercises, which carry the whole plot: in hilsa
+  season, when the whole town can talk of nothing else,
+  the king challenges Gopal to bring a hilsa-fish to the
+  palace without anyone talking about it; Gopal goes
+  with his face half-shaven, ash smeared on, in madman's
+  rags, so that everyone talks about HIM and nobody
+  mentions the fish; true/false set: the king lost his
+  temper easily / Gopal was a madman / Gopal was a
+  clever man / Gopal was too poor for decent clothes /
+  the king got angry when shown to be wrong.) ·
+  **The Shed** (poem, Frank Flynn — "I'll go into that
+  shed one day soon, / But not just yet..."). TAUGHT:
+  REPORTED SPEECH introduced through the comic itself —
+  "in a comic book, there are no speech marks… what they
+  say is put in a speech 'bubble'. However, if we wish
+  to repeat or 'report' what they say, we must put it
+  into reported speech" — five of the story's lines
+  converted, the first worked ("How much did you pay
+  for that hilsa?" → The woman asked the man how much
+  he had paid for that hilsa); dictionary words used in
+  sentences (challenge, mystic, courtier, comical,
+  smearing); PICTURE READING — a second picture story
+  (the stag who was proud of his horns and ashamed of
+  his legs: "I was proud of my horns. They could have
+  caused my death. I was ashamed of my legs. They saved
+  me") questioned picture by picture, then written as a
+  story in the learner's own words with a title; a WORD
+  LADDER completed from seven clues.
+- **U4 The Ashes That Made Trees Bloom** (William
+  Elliot Griffis, a Japanese tale — Muko the dog,
+  loved "as though it were a baby," who scratches up a
+  pile of gold; the covetous neighbours who beat him to
+  death; the pine-tree mortar and mill that pour gold
+  for the kind couple and a foul mass of worms for the
+  greedy pair; the ashes that bloom the withered cherry
+  tree before the daimio, who rewards the old man with
+  silk robes, sponge-cake and fans; the greedy neighbour
+  throws his ashes into the daimio's eyes and is beaten
+  to death in the ditch; the kind couple "lived to a
+  green old age") · **Chivvy** (poem, Michael Rosen —
+  a list of grown-ups' instructions: "Speak up / Don't
+  talk with your mouth full / Don't stare…"; the intro
+  tells of the child who said his mother called him
+  "Michael Don't," and a note gives the dictionary
+  definition of chivvy). TAUGHT: QUESTION WORDS as a
+  system — a printed table of what each asks about
+  (What — actions, things; Who — people; Which — people
+  or things; Where — place; When — time; Why — reason
+  or purpose; How — means, manner or degree; Whose —
+  possessions), questions framed on the italicised
+  phrases of a paragraph, question words supplied in a
+  dialogue, and how/what/when/where/which inside
+  indirect questions ("He doesn't know what to do and
+  where to look for it"); im-/in- opposites replacing
+  italicised phrases (impatient, improper, impossible,
+  insensitive, incompetent); ARTICLES formally — 'a' and
+  'an' indefinite, 'the' definite, with a university and
+  an hour among the models, a whole play passage to
+  fill, and article choices circled in a dialogue; the
+  Teacher's Notes add the first-mention rule (a for the
+  first mention, the after) and 'the' before an
+  adjective for a whole class (the poor, the rich, the
+  down-trodden). Speaking and Writing: a greed anecdote
+  narrated (the fig-tree story is printed as the model,
+  its punchline "You should be thankful that our
+  neighbour did not grow coconuts"); JUMBLED SENTENCE
+  PARTS put in order and punctuated into a paragraph
+  (Ravi Kant, the writer happier in English than Hindi);
+  a paragraph about a story you have read, from printed
+  hints (title, author, characters, the one you liked,
+  details, main points, why friends should read it);
+  a tongue-twister box (Thought What?).
+- **U5 Quality** (John Galsworthy, simplified and
+  abridged — Mr Gessler of Gessler Brothers, who made
+  only what was ordered and whose boots "lasted
+  terribly"; "Id is an ardt!"; his English is printed in
+  his German accent WITH the translations in the
+  margin — "What a beaudiful biece!" (What a beautiful
+  piece!), "Tomorrow fordnighd" (fortnight), "Dose are
+  nod my boods" (Those are not my boots), "Zome boods
+  are bad from birdt" (Some boots are bad from birth),
+  "Dey get id all, dey get id by advertisement, nod by
+  work"; the elder brother's death; the last order,
+  the best he ever made, delivered a week before the
+  narrator finds the shop taken over: "poor old man
+  starved himself. Slow starvation, the doctor called
+  it!… not a man in London made a better boot") ·
+  **Trees** (poem, Shirley Bauer — "Trees are to chop
+  down and call, 'TIMBER-R-R!'"; "Trees are to make no
+  shade in winter"; mothers see a picture to paint,
+  fathers "a lot of leaves to rake this fall") with a
+  Mangrove Forests fact box. TAUGHT: the LOOK phrasal
+  verbs defined and filled (look after — take care of;
+  look down on; look in on; look into — investigate;
+  look out — be careful; look up — improve; look up
+  to — admire); MINIMAL PAIRS read aloud (cot/coat,
+  cost/coast, tossed/toast, got/goat, rot/rote,
+  blot/bloat, knot/note); 'SH'-sound words sorted by
+  where the sound falls — initial (sheep, shore, shoe,
+  shriek), medial (fashion, anxious, portion, ashes,
+  pushing, moustache), final (trash, marsh, fish,
+  polish, sure, nation); 'CH'-sound words likewise,
+  with the letters underlined in feature, archery,
+  picture, reaching, nature, matches, riches, batch,
+  church; Speaking: Mr Gessler's accent imitated (his
+  p, t, k sound like b, d, g), a five-household SURVEY
+  on big stores vs small shops, branded vs local
+  footwear, ready-made vs tailored clothes, and a
+  leaving-the-country debate on printed openings ("If
+  I leave this country, I'll miss…"); Writing: a story
+  built from printed points — the absent-minded uncle
+  who puts machine oil on the burning vegetables.
+- **U6 Expert Detectives** (Sharada Dwivedi, from The
+  Broken Flute — Maya, ten, and her brother Nishad,
+  seven, called Seven because his name is the seventh
+  note of the musical scale; Mr Nath of Room 10,
+  Shankar House — gaunt, scarred (burn scars, says their
+  doctor mother), polite, friendless; Ramesh's evidence:
+  two meals a day of two chapattis, dal and a vegetable,
+  two cups of tea, pays cash, "tips well," and every
+  Sunday a tall, fair, stout, spectacled visitor takes
+  lunch with him; Maya writes up CATCHING A CROOK —
+  Facts 1 to 9 "like expert detectives"; Nishad gives
+  the "starving" man a bar of chocolate and ends
+  refusing to cooperate: "I'll cooperate only if you
+  give up this idea about him being an escaped crook") ·
+  **Mystery of the Talking Fan** (poem, Maude Rubin —
+  the fan's chatter is silenced by oil: "He ran as still
+  as water"). TAUGHT: 'TIP' in TEN meanings matched
+  (finger tips, the tip of your nose, tip the water out,
+  on the tip of your tongue, tip the boat over, tip him
+  a rupee, the tip of the bat, the police were tipped
+  off, take my tip, the bat tipped the ball) — the
+  Teacher's Notes sort the idiomatic from the literal
+  and add "the tip of the iceberg" and "tipped the
+  scale"; helper/companion/partner/accomplice sorted
+  into their collocations (business partner, my
+  companion on the journey, mother's little helper, a
+  faithful companion such as a dog, the thief's
+  accomplice, a tennis/golf/bridge partner); 'BREAK' in
+  seven uses matched (the storm broke, daybreak, his
+  voice is beginning to break, her voice broke, the
+  heat wave broke, broke the bad news, break a strike)
+  with three more to find; Speaking: play detectives on
+  a real person — with the caution printed, ask politely,
+  do not force answers; Writing: who Mr Nath is, a
+  continuation of the story, and CONDUCTING A SURVEY
+  as a four-step method — a ten-item questionnaire
+  ("A home is a place where you feel secure and happy…"
+  Yes / No / Don't know), collect, analyse, and present
+  an oral report in printed frames (Most people think
+  that… / Few people think that… / Hardly anyone thinks
+  that… / No one thinks that…); a SPOONERISM box ("Sell
+  Waid, My Friend!"; "You have tasted two worms
+  already" = wasted two terms).
+- **U7 The Invention of Vita-Wonk** (Roald Dahl, from
+  Charlie and the Great Glass Elevator — Wonka-Vite
+  made people younger, one of them to minus 87; for
+  Vita-Wonk, Mr Wonka collects from the oldest living
+  things: a pint of sap from a 4,000-year-old
+  Bristlecone pine on Wheeler Peak, Nevada — "This is
+  fact, Charlie. Ask any dendrochronologist you like
+  (and look that word up in the dictionary when you get
+  home)"; toe-nail clippings from a 168-year-old Russian
+  farmer, Petrovitch Gregorovitch; an egg laid by a
+  200-year-old tortoise belonging to the King of Tonga;
+  the tail of a 51-year-old horse in Arabia; the
+  whiskers of a 36-year-old cat called Crumpets and the
+  old flea that had lived on her for 36 years; the tail
+  of a 207-year-old giant rat from Tibet; the black
+  teeth of a 97-year-old grimalkin on Mount
+  Popocatepetl; the knucklebones of a 700-year-old
+  Cattaloo from Peru; the Whistle-Pig, the Bobolink,
+  the Skrock, the Pollyfrog, the Giant Curlicue, the
+  Stinging Slug and the Venomous Squerkle; four drops
+  turn a brave twenty-year-old Oompa-Loompa volunteer
+  into an old fellow of seventy-five) · **Dad and the
+  Cat and the Tree** (poem, Kit Wright — Plan A the
+  ladder, Plan B the branch, Plan C the leap from the
+  garden wall, landing "Right on the cat!"; the cat
+  springs down "Pleased as Punch," and the poem's last
+  five words are printed stacked — Still / Stuck / Up /
+  The / Tree! — a glossary follows the poem). TAUGHT:
+  insect names in the learner's own language and a
+  health discussion; a RECIPE completed from a word
+  box (Easy Palak–Dal: shred, cooker, times, tomatoes,
+  half, onion, oil — imperatives throughout; the
+  Teacher's Notes add that a recipe can demonstrate the
+  passive voice); a FAMILY TREE filled with names, ages
+  and photographs and displayed; Speaking: DO FOR
+  EMPHASIS — "What did happen?" — emphatic utterances
+  (I did study, I did go there, He does read his books)
+  repeated back without the emphasis, with disagreement
+  added; Writing: paragraphs about two or three of the
+  trees, and about age or growing old (a country's age
+  profile, telling the age of a tree, a horse or a rock,
+  life expectancy); a riddle box, Delivery Delayed,
+  whose answer is printed at p.125 (the postman circles
+  the tree until the dog's leash wraps round it).
+- **U8 Fire: Friend and Foe** (non-fiction — fire is
+  "the result of a chemical reaction": oxygen combines
+  with the carbon and hydrogen in a fuel, releasing
+  energy as heat and light; the three needs — fuel,
+  oxygen, heat; each fuel's flash point or kindling
+  temperature; "a good servant but a bad master"; the
+  three ways out — take away the fuel, smother the
+  oxygen (a damp blanket, carbon dioxide), take away
+  the heat (blowing, water) — and the two fires water
+  must never touch, oil and electrical; human chains
+  of buckets, fire brigades, building laws, first aid) ·
+  **Meadow Surprises** (poem, Lois Brandt Phillips —
+  the butterfly unfolding its drinking straws, the
+  dandelion's "airy parachutes," the ant's amazing
+  mound) with a second poem printed after it, Busy
+  World (Frances Gorman Risser). TAUGHT: the SIMPLE
+  PRESENT taught by name — the italic verbs "are in
+  the simple present tense… we use it to say that
+  something happens all the time or repeatedly, or
+  that something is true in general" — ten examples to
+  be found in the text, passives excluded; the
+  Teacher's Notes contrast it with the present
+  continuous ("I walk to school every morning. Today I
+  am taking a bus"); a word box (carbon, cause, fire,
+  smother) filled into sentences, including Somerset
+  Maugham's joke — asked whether he should put some
+  fire into his stories: "No, the other way round" — and
+  "a carbon copy of her mother"; opposites found for
+  italicised words in context (open/shut, add/subtract,
+  preserve/destroy, reduce/increase, getting/spending —
+  the last in a Wordsworth line); movement prepositions
+  across/along/past/through; Speaking and Writing:
+  three JUMBLED news units reordered into sentences,
+  then into a paragraph, correctly punctuated (the fire
+  began on Monday; eighteen fire tenders; over 25 shops
+  gutted; property worth several lakhs; no casualties),
+  beside a printed news box, "Fire Station Goes Up in
+  Flames"; the poem's project: watch one tree or field
+  at the same time daily for a week, keep a diary, and
+  put the paragraph or poem on the bulletin board.
+- **U9 A Bicycle in Good Repair** (Jerome K. Jerome,
+  abridged — the friend who shakes the front wheel
+  ("It doesn't if you don't wobble it"), unscrews the
+  bearings — "Catch 'em! We mustn't lose any of them" —
+  sixteen balls grovelled for and kept in a hat; the
+  gear-case in two pieces in under five minutes
+  ("Nothing is easier than taking off a gear-case");
+  the expert friend's solemn advice quoted: "If
+  anything goes wrong with your gear-case, sell the
+  machine and buy a new one; it comes cheaper"; the
+  chain tightened till it would not move, then loosened
+  to twice as loose; "We've forgotten the balls!";
+  eleven found, six fixed on one side and five on the
+  other, and now the wheel really does wobble; the
+  rough-and-tumble fight, man and machine taking turns
+  on the gravel path; "At a quarter to one, dirty and
+  dishevelled, cut and bleeding, he said, 'I think that
+  will do'") · **Garden Snake** (poem, Muriel L.
+  Sonne — "It's just a harmless garden snake!"; its
+  fifth question asks where the learner first met the
+  word for a cobra's long sharp teeth — fangs, back in
+  Class 6's Banyan Tree: the course cross-references
+  itself). TAUGHT: MODAL AUXILIARIES by name — should,
+  must and ought to "generally express moral obligation,
+  necessity and desirability," with should and ought to
+  "often used interchangeably" — sentences rewritten
+  into them from plain paraphrases (You are obliged to
+  do your duty → You must do your duty) and eight
+  contexts filled (people in glass houses, the park
+  sign, "How should I know?"); SENTENCE COMBINING AND
+  SPLITTING — a sentence "is in fact a combination of
+  two sentences," and five of the story's sentences are
+  divided into their two or three meaningful parts;
+  'EN' as prefix, suffix, or part of the word
+  (encourage, endanger, enclose, enable / weaken,
+  dampen, soften, fasten / barren, listen, even,
+  enclave, ending), then more collected from the book;
+  a "Do you know" box on plants and music, answer at
+  p.151.
+- **U10 The Story of Cricket** (Ramachandra Guha,
+  adapted — the credit line says so — from Chapter 7
+  of NCERT's Class IX History textbook, India and the
+  Contemporary World – I; prose only, no poem). Part I:
+  cricket from England's stick-and-ball games of 500
+  years ago ('bat' is an old English word for a stick
+  or club); hockey-stick curved bats while bowling was
+  underarm along the ground; a Test can last five days
+  and still end in a draw; the pitch is fixed at 22
+  yards but the ground's size and shape are not (the
+  Adelaide Oval, Chepauk, a six at the Melbourne Cricket
+  Ground vs Feroz Shah Kotla); the first Laws of
+  Cricket, 1744 — stumps 22 inches high, the bail six
+  inches, the ball between five and six ounces, the
+  stumps 22 yards apart; Hambledon's club in the 1760s;
+  the MCC founded 1787; pitched bowling brings length,
+  deception through the air, spin and swing, and the
+  straight bat; the ball limited to 5½–5¾ ounces and
+  the bat's width to four inches; the first
+  leg-before law, 1774; a third stump; three-day
+  matches and the six-seam ball by 1780; the tools stay
+  natural — willow blade, cane handle, leather, twine,
+  cork — while vulcanised rubber brings pads in 1848,
+  gloves, and helmets. Part II: the Parsis first —
+  the Oriental Cricket Club, Bombay, 1848, sponsored by
+  the Tatas and the Wadias; the Bombay Gymkhana
+  quarrel (polo ponies digging up the public park); the
+  Parsi gymkhana built, and the Parsi team beating the
+  Bombay Gymkhana in 1889; Dadabhai Naoroji; Palwankar
+  Baloo (born 1875), the greatest Indian slow bowler of
+  his time, forgotten beside C.K. Nayudu because Nayudu
+  played Tests and was India's first Test captain;
+  India enters Test cricket in 1932, a decade and a
+  half before independence, because Tests from 1877
+  were contests between parts of the British empire —
+  Australia still a white-settler colony, the West
+  Indies a team of colonies. Part III: television
+  beams cricket into small towns; satellite TV makes a
+  global market — matches in Sydney watched live in
+  Surat; India, the largest viewership, becomes the
+  game's centre of gravity, symbolised by the ICC
+  headquarters moving from London to tax-free Dubai;
+  the gentlemanly amateur replaced by the paid
+  professional; the one-day game's triumph. Photo
+  captions carry text of their own (the oldest cricket
+  bat; the MCC pavilion in 1874; a Himalayan village
+  game in 1894 with home-made wickets; the 1886 Parsi
+  touring team in flannels and Parsi caps). TAUGHT:
+  a cricket WORDSEARCH — twelve words from clues (six
+  deliveries — over; four runs — boundary; attacked
+  while out of the arena; no result — draw; stumps;
+  slip…); -LY rewriting ("in a proper way" → properly;
+  "in such a violent manner" → so violently, with
+  stiffly as the worked model); phrase substitution
+  (as a matter of fact, we had better, see to it, by
+  accident, as well) for italicised paraphrases; gh/ff/f
+  spelling completions (effort, fact, confess,
+  laughing, enough, half, scruff, rough, stiffly,
+  difference, safety, flush); Writing: two paragraphs
+  describing a bus ride to watch a village cricket
+  match, from printed points (two-hour journey, old
+  crowded bus, friendly passengers, a village fair,
+  makeshift stumps, rough pitch, rubber ball).
 
-INDIA CLASS 7 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26)
+Slips and printing notes, recorded as printed: (1) U5's
+LOOK exercise numbers its items (i)–(vi) and then prints
+a second (vi) — seven fills under six numbers ("I promise
+to look in on your brother…" and "Look out when you are
+crossing the main road" are both numbered vi). (2) The
+Teacher's Notes for U7 spell the inventor "Mr Willy Wonk"
+once; the story itself prints Wonka throughout. (3) U3's
+comic carries its story in pictures: the unit's printed
+text is its apparatus (questions, the reported-speech
+lesson, the stag picture story, the word ladder), and the
+tale above is filed from that apparatus, as the book's
+own teaching intends — the class constructs the text
+from the pictures.
+
+INDIA CLASS 7 FULLY READ — 2026-10-26 (full re-read
+under the FULL READS ONLY law; the basics-only MAPPED
+filing it replaces is superseded). CITATION CHECK PASSED
+— one anchor per unit verified in the chapter text
+itself: U1 the word-family pair "He has promised to
+help me. Do you think he will remember his promise?"
+(gehc101); U2 the if-clause block, "The first part
+begins with 'if'. It is known as if-clause" (gehc102);
+U3 the reported-speech model, "The woman asked the man
+how much he had paid for that hilsa" (gehc103); U4 the
+question-words table, "What asks about actions, things"
+(gehc104); U5 the LOOK definitions, "look into:
+investigate" (gehc105); U6 the tip meanings match,
+"the police were tipped off" (gehc106); U7 "What did
+happen?" — Using Do for Emphasis (gehc107); U8 "The
+verbs in italics are in the simple present tense"
+(gehc108); U9 "The words in italics are modal
+auxiliaries" (gehc109); U10 the byline credit "adapted
+from Chapter 7 of India and the Contemporary World – I"
+and the 1744 Laws quotation (gehc110).
 
 ## Class 8 — Honeydew (Textbook in English for Class VIII)
 
