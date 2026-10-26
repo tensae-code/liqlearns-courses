@@ -111,3 +111,14 @@ file, as the reading reaches those books.
 *Kept current as books are read: when a book is finished, its units are
 placed in this plan and its basics are filed into the lessons named
 here. This file is the order; TITLES.md is the map of folders.*
+
+**Stocked by Egypt Secondary 11 (after this plan):** the
+term's two books (current-series Term 1; the previous
+series' 2023–2024 Term 2, the latest obtainable) together
+stock the future perfect in a box, stative verbs in full,
+past-habits would, tag questions, and defining vs
+non-defining relative clauses; new writing kinds — business
+email, formal report, speech for/against, news report,
+film review. Secondary 11's novel/drama: Around the World
+in Eighty Days (Term 1) and King Lear Acts III–V (Term 2's
+book).

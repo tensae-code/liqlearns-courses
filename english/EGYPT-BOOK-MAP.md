@@ -7180,6 +7180,96 @@ SECONDARY 11 TERM 1 FULLY READ — 2026-10-26
 Egypt set: 23 of 26. Still owed: Secondary 11 Term 2,
 Secondary 12 (the remaining 3 of the 26-book Egypt set).
 
+## Secondary 11 Term 2 — English (Student's Book and Workbook in one PDF)
+
+*Basics-only filing. EDITION NOTE (read first): this row's
+book is NOT the current GPS series. The current series'
+Term 2 file is deleted from the ministry host (404 under
+every name tried, incl. the Term 1 pattern), and the book
+is absent from the Telegram library (the Grade 11 batch
+holds twelve Term 2 books, English not among them). The
+latest copy obtainable — and the copy the library itself
+secured for this row — is the previous series' printing:
+**New Hello! English for Secondary Schools, Year 2,
+Term 2, 2023–2024** (York Press / Egyptian International
+Publishing Company – Longman; ISBN 978-977-16-1677-4;
+first published 2021, this impression 2023; CACD and MOE
+revision team, supervised by Dr Akram Hassan). Taken per
+the edition rule — latest available, edition recorded.
+Mirror copy via the exam-eg forum, 61,452,424 bytes
+(exactly the library's banked size), 142 pp., real text
+layer. Contents differ from the GPS series — this map
+records THIS book.*
+
+Structure: Student's Book (Modules 3–4) + Workbook in one
+PDF. Module 3 Travel: U7 Living abroad · U8 High-tech
+transport · U9 Conservation · Revision 3. Module 4 The
+media: U10 The news · U11 What a performance! · U12
+Achievements and goals · Revision 4 · Language Review
+(printed p.78). Shakespeare's **King Lear** is the term's
+drama, studied scene by scene between the units — Acts
+III, IV and V in this term (Acts I–II were its Term 1) —
+in a school retelling with comprehension work; the
+Workbook's Drama sections mirror it. (Summary level only.)
+
+**Grammar (each unit's point, as summed in the book's own
+Language Review):**
+- U7 Present Continuous in its four uses (temporary
+  situation now; current situation different from the past;
+  future arrangement at a specific time; repeated actions
+  with "always") + **Stative Verbs defined in full**: verbs
+  that describe a state rather than an action, in four
+  groups (thoughts/opinions; feelings/emotions; the senses;
+  possessions/measurements); they cannot be used in the
+  continuous form; some verbs (have, see, think) can be
+  state or action by context.
+- U8 **Future Perfect — boxed at last** (the new series'
+  Start Smart only exercised it): will have + past
+  participle, for actions completed before a specific
+  future time or before another future action; by / by the
+  time / before; in (three days') time.
+- U9 Comparative Phrases + Past Habits: used to / didn't
+  use to (past situations and regular habits; comparing
+  past and present) and would + infinitive (past habits
+  and typical behaviour — NOT past situations; wouldn't
+  for refusal).
+- U10 Past Perfect restated + Past Perfect Passive, with
+  the passive's use stated: the action matters rather than
+  the agent; the by-agent is added when it is needed or
+  interesting.
+- U11 Tag Questions in full (the tag flips the statement;
+  falling intonation = expecting agreement, rising = a
+  real question; Let's … shall we; I'm … aren't I) +
+  Adjectives and Adverbs: adverb formation (+ly, +ally,
+  -e → +ly, -y → ily), same-form adverbs (hard, fast,
+  early, late…), good → well, hard vs hardly, the four
+  adverb types (manner, place, time, frequency) and their
+  positions.
+- U12 Relative Clauses: defining (who/whom/which may be
+  replaced by that; where, when, whose) and non-defining,
+  with "whom" noted as the formal choice for an object.
+
+**Writing kinds (one per unit):** a diary entry (U7,
+a student living abroad) · a speech for or against an
+argument (U8) · an email about the best solution to a
+local problem (U9) · a news report (U10) · a film review
+(U11) · a report about achievements and goals (U12).
+
+Cross-series note: this book and the GPS Secondary 11
+Term 1 overlap on tag questions, relative clauses, and
+adjectives/adverbs; this one adds the boxed future
+perfect, the full stative-verbs statement, past-habits
+"would," and comparative phrases. The course takes the
+union; each book's map keeps its own contents.
+
+SECONDARY 11 TERM 2 FULLY READ — 2026-10-26 —
+SECONDARY 11 COMPLETE (Term 1 in the current series,
+Term 2 in the latest obtainable printing of the previous
+series, as recorded above)
+
+Egypt set: 24 of 26. Still owed: Secondary 12 (the
+remaining 2 of the 26-book Egypt set).
+
 ## Curriculum stocking notes (moved out of CURRICULUM.md, 2026-10-26)
 
 *Kept verbatim from the curriculum file. "Term N" in these notes
