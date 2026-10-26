@@ -6973,119 +6973,441 @@ Egypt set).
 
 ## Secondary 10 Term 2 — English (Student's Book, with the Novel's second half bound in)
 
-*CORRECTION (his ruling, 2026-10-26): this section and the three
-that follow it (Secondary 11 T1, Secondary 11 T2, Secondary 12)
-were filed basics-only — Muse's own change, never his order,
-now REVOKED ('Forget the basic things only'). These four books
-are MAPPED, not fully read. A full page-by-page re-read of each
-is owed before the citation check and before any lesson is
-built from them.*
+*FULL RE-READ 2026-10-26 under his full-reads ruling — this
+section replaces the basics-only filing of the same morning.
+Every page read: the Student's Book (pp.1–98), the novel's
+second half (pp.99–127) and the credits page (p.128). The
+novel is filed by summary only, as everywhere in this map.*
 
 Source: MoE host, 2026/Secondry/Secondry1/Term2/StudentBook/
 English_Sec1_Tr2.pdf (6,204,790 bytes, 128 pp., real text
-layer). Like Term 1, one PDF binds the Student's Book
-(pp.1–98) and the year's novel (pp.99–127); credits p.128.
-Cover: "Secondary Schools - Year One - Term 2 — 2025-2026."
-Units continue the year: U7 The Daily Beat of Different
-Lands p.11 · U8 Building Bridges with Words p.24 · U9
-Building a Better Future p.36 · Review 3 p.48 · U10 Shopping
-and Money p.53 · U11 Food & Culture p.65 · U12 People and
-Places p.79 · Review 4 p.94. Same five-lesson Secondary
-shape, same exam-shaped Reviews (A–F, translation both
-ways, F. The Novel), writing stays 120–150 words. Start
-Smart (pp.9–10) reviews Term 1 around its reading on
-teenagers, other cultures, and future careers.
+layer). Cover: "Secondary Schools - Year One - Term 2 —
+2025-2026." © 2025 Ministry of Education and Technical
+Education. Like Term 1, one PDF binds the Student's Book
+and the year's novel. Units continue the year: U7 The
+Daily Beat of Different Lands p.11 · U8 Building Bridges
+with Words p.24 · U9 Building a Better Future p.36 ·
+Review 3 p.48 · U10 Shopping and Money p.53 · U11 Food &
+Culture p.65 · U12 People and Places p.79 · Review 4 p.94.
+Front matter: the ministry dedication/copyright page,
+contents (p.3), the ministry's welcome message (p.4),
+Scope and Sequence (pp.5–6), and a two-page "Lesson
+Components" explainer (pp.7–8) that walks through one
+sample spread part by part (Before you start / Reading /
+Speaking / Listening / Language in Context / Writing side
+notes) — the book teaches its own layout before it starts.
+Start Smart (pp.9–10) reviews Term 1: a reading on
+teenagers, other cultures and future careers; a vocabulary
+box (cultures – independent – future – respectful –
+communicate); three rewrite exercises; and a ~120-word
+email task (a culture or place you want to learn about).
 
-**Grammar boxes (Language in Context, all in L3):**
-- U7 Past Simple + Past Perfect (p.16): past perfect = had
-  + past participle, used with after/before/until/when/as
-  soon as to show the order of past events — past perfect
-  for the action that happened first, past simple for the
-  one that happened later.
-- U8 Present Simple + Past Simple by uses (p.29): present
-  simple for usually-true situations, habits with frequency
-  adverbs, timetables, and after-time clauses; past simple
-  for completed and successive actions and for past habits.
-- U9 Present Perfect in full (p.41): started in the past
-  and continued till now (since/for); very recent (just);
-  not yet happened (never/yet); experience questions
-  (ever/never) — plus the **been to / gone to** distinction
-  (been = went and returned; gone = went and is still
-  there), new in the run. Past simple contrasted.
-- U10 Future Forms compared (p.58): will + infinitive
-  (guessed predictions, future facts, quick decisions,
-  offers) vs going to (own plans; predictions with
-  evidence) vs present continuous (arrangements fixed with
-  others, with time/place). The run's fullest future
-  statement.
-- U11 Reported Speech — statements and questions together
-  (p.71): tenses move one step back; "told" + addressee
-  instead of "said to" ("that" optional); asked/inquired/
-  wanted to know for questions; if/whether for yes–no
-  questions; pronouns and time words shift. Completes the
-  Prep 9 line at Secondary depth.
-- U12 Modal Verbs of Possibility (p.85): must (sure it is
-  so), can't (sure it is not possible), might (not sure) —
-  each with its past form (must have / can't have / might
-  have + past participle) for deductions about the past.
-  New in the run.
-- Used but never boxed: the U7 journal task requires at
-  least two Present Perfect Continuous sentences (the model
-  journal uses the tense); no box states its form anywhere
-  in the Egypt run.
+Scope and Sequence, as printed (pp.5–6): each unit lists
+Topic / Target Skills / Grammar Focus / Life Skills /
+Core Values. Grammar Focus column: U7 Past Simple and
+Past Perfect · U8 Present Simple and Past Simple · U9
+Present Perfect · U10 Future Simple (the box itself
+teaches three future forms — see L3 below) · U11
+Reported Speech (Statements & Questions) · U12 Modal
+Verbs of possibility. Writing targets in the Scope:
+U7 paragraphs about routines and habits · U8 blog posts
+about various experiences · U9 an argumentative essay on
+Future Career · U10 a persuasive poster · U11 a recipe
+blog · U12 a descriptive paragraph and travel journal.
+Same five-lesson Secondary shape as Term 1 (L3 carries
+the grammar box as "Language in Context"; an Assessment
+Corner closes each unit), writing length 120–150 words
+throughout.
 
-**Writing kinds taught (all L5):** the PERSONAL JOURNAL
-(U7, pp.21–22 — defined as a private, informal, honest
-record of experiences/feelings/goals/lessons, with a
-features box: first person, flexible structure, feelings
-over arguments) · the BLOG POST restated (U8, p.34 —
-friendly tone, greeting, personal experience, closing
-reflection) · the ARGUMENTATIVE ESSAY (U9, pp.45–46 —
-opinion + reasons + examples to convince; structure:
-introduction stating the opinion, body paragraphs of
-reasons, conclusion restating it; with Useful Expressions
-for opinion/reasons/examples/concluding) · the POSTER as a
-taught kind (U10, pp.62–63 — plan/organize/language/design
-boxes, a plan→draft→improve→check process, and an
-assessment checklist) · the RECIPE BLOG (U11, pp.76–77 —
-defined; a 9-point structure from catchy title to closing
-invitation; cooking verbs and sequencing words) · the
-TRAVEL JOURNAL (U12, p.91 — dated first-person model;
-tips: sensory details, reflection over facts).
+**UNIT 7 — The Daily Beat of Different Lands (pp.11–23)**
+- L1 Routines Around the World (reading, pp.12–13): daily
+  routines in Japan (early trains, the chōrei meeting,
+  bento boxes, the evening bath), France (8:30 start, the
+  long lunch, dinner as a family event) and Spain (the
+  siesta, dinner at 9–10 p.m., evening walks); the text's
+  point is that no single routine is "right." Word box:
+  last up to – punctuality – bow – schedule – single.
+- L2 Changing Habits for a Healthier Life (listening,
+  pp.14–15): a conversation about new healthy habits
+  (gym three times a week, walking before work, a fitness
+  app that tracks steps); matching set: make a difference
+  / energetic / fitness / junk food / stay motivated;
+  a two-role speaking task, physical health vs mental
+  and digital health, ending in an agreed class plan.
+- L3 The Cultural Identity (listening + the grammar box,
+  pp.16–17): an audio text on cultural identity (Italy's
+  food, India's Holi bringing people together, traditions
+  and roots). GRAMMAR BOX (p.16): Past Simple (completed
+  actions; past habits, with used to) + Past Perfect
+  (had + past participle, with after/before/until/when/
+  as soon as, the past perfect for the action that
+  happened first). Exercises: choose the correct form,
+  find the mistake, rewrites with after/had/by the
+  time — then Think-Pair-Share speaking on traditions.
+- L4 My Identity and the Grand Egyptian Museum (reading,
+  pp.18–20): a first-person post by Omar, 17 — weekend
+  visits to the newly opened Grand Egyptian Museum,
+  Tutankhamun's collection, sharing museum experiences
+  online (the text slips into third person mid-way, as
+  printed). Vocabulary set: heritage / treasure /
+  appreciate / identity / proud / artifacts / shape.
+  Writing: a paragraph on a cultural activity in your
+  daily routine, using past simple and past perfect.
+- L5 My Personal Journal (writing, pp.21–22): the
+  personal journal DEFINED (a private, informal, honest
+  record of experiences, feelings, goals, lessons) with
+  a features box (first person, flexible structure,
+  feelings over arguments, less rigid grammar) and a
+  model entry about a week of new habits and a team
+  Capstone project. Writing task: your own journal entry,
+  120–150 words, REQUIRED to contain at least two past
+  perfect sentences and at least two PRESENT PERFECT
+  CONTINUOUS sentences — a tense no box in the Egypt run
+  states (see Slips).
+- Assessment Corner (p.23): Vocabulary & Structure MCQs;
+  Translation both ways (exam-style general sentences —
+  eco-tourism; pollution's effects); sentence rewrites.
+
+**UNIT 8 — Building Bridges with Words (pp.24–35)**
+- L1 The Warm Bread (reading, pp.25–26): "Building
+  Bridges Through Greetings" — Japan's bow (depth =
+  respect), India's Namaste, France's cheek kiss, Egypt's
+  handshake and smile, Kenya's long greetings (a short
+  one is rude there). Matching set: gesture / rude /
+  harmony / spiritual / disinterest.
+- L2 Voices from an International School (listening,
+  pp.27–28): Sami and Maya on studying among twenty-plus
+  nationalities, International Day (food, traditional
+  clothes), English as the bridge; the secret named is
+  respect and curiosity. Word hunt in the audio text:
+  link / obtain / hidden / commemorate / honor.
+- L3 Words that Connect or Confuse (listening + the
+  grammar box, pp.29–30): Bassem and Rahma on
+  misunderstandings (an informal expression misread;
+  interrupting without noticing; polite speech and
+  listening as the fix). GRAMMAR BOX (p.29): Present
+  Simple by uses (usually-true situations; habits with
+  frequency adverbs; timetables; after-time clauses) +
+  Past Simple by uses (completed and successive actions;
+  past habits). Exercises incl. rewrites with used to.
+- L4 Uniting People Through Communication (reading,
+  pp.31–33): language as a bridge between minds and
+  hearts; trade and travel spreading languages; English
+  global, Arabic keeping its cultural heartbeat; online
+  messages "lost in translation" without tone or facial
+  expression; empathy and curiosity as the key. Word
+  box: curiosity – empathy – translation – harmony –
+  bridges – identity.
+- L5 My Cross-Cultural Experience (writing, p.34): a
+  BLOG POST model (a youth-exchange friendship with an
+  Indonesian student, weekly emails, greetings exchanged)
+  with the blog-post features box (friendly conversational
+  tone, greeting, personal experience, closing reflection).
+  Writing task: your own blog post, 120–150 words.
+- Assessment Corner (p.35): MCQs (gesture / peace /
+  misunderstanding); translation (free time as a treasure);
+  writing: a blog post 120–150 words on learning foreign
+  languages.
+
+**UNIT 9 — Building a Better Future (pp.36–47)**
+- L1 The Courage to Change (reading, pp.37–38): Rania —
+  clothing factory after school, a community training
+  program (communication, teamwork, computer skills),
+  then an office-assistant job with fair pay; she now
+  volunteers helping young women prepare for first jobs.
+  "Decent work" is the theme word; a role-play closes it.
+- L2 The Jobs of Tomorrow (listening, pp.39–40): future
+  jobs (drone delivery pilot, green jobs and clean
+  energy, VR designers, care workers); robots cannot
+  replace creativity and emotions; flexibility named as
+  the survival skill. Matching set: adapt / virtual /
+  artificial / drone / empathy / replace.
+- L3 New Paths, Old Habits (listening + the grammar box,
+  pp.41–42): Samir's lifestyle change (gym, mindfulness,
+  family time, balance). GRAMMAR BOX (p.41): the Present
+  Perfect in full — started in the past and continued
+  till now (since/for); very recent (just); not yet
+  happened (never/yet); experience questions (ever/
+  never) — with the been to / gone to note (been = went
+  and returned; gone = went and is still there) and the
+  past simple contrasted.
+- L4 Careers That Will Shape Tomorrow (reading,
+  pp.43–44): four careers profiled — AI Specialists,
+  Sustainability Consultants, Digital-Wellness Coaches,
+  Space Industry Professionals; flexibility is the key
+  named at the end. Word sets: specialists /
+  problem-solving / sustainability / addiction /
+  fast-changing / flexibility.
+- L5 Argumentative Essay (writing, pp.45–46): the kind
+  DEFINED (opinion + reasons + examples, to convince)
+  with Useful Expressions (opinion / reasons / examples /
+  concluding), an Essay Structure box (introduction
+  stating the opinion, body paragraphs of reasons,
+  conclusion restating it), writing tips, and a model
+  essay arguing that continuing education is the best
+  career choice. Task: an argumentative essay 120–150
+  words — continuing education vs starting work early.
+- Assessment Corner (p.47): MCQs (drone / robot / has
+  gone / consultant); translation ("a goal without a
+  plan remains just a wish"); writing: an argumentative
+  essay ~150 words, "Being your own boss is better than
+  being just a clerk."
+
+**REVIEW 3 (pp.48–52)** — the exam-shaped review of
+Units 7–9: A. Vocabulary (six two-correct-answer
+synonym/antonym items + nine MCQs drawing on all three
+units: chōrei, shift, artifact, punctuality…) · B.
+Language (MCQs 10–17 + twelve rewrites 18–29 — past
+perfect, used to, and PRESENT PERFECT CONTINUOUS items:
+"has been learning," "had been studying," "has been
+writing" are examined here though no box teaches the
+tense) · C. Translation both ways (sentences built from
+the U7/U8 reading texts) · D. Reading Comprehension (a
+passage on cultural identity, heritage and the Grand
+Egyptian Museum, 8 MCQs) · E. Writing (craft MCQs —
+journal reflections, first person, the thesis statement,
+concluding phrases — then a 120–150-word choice of four:
+a personal journal, an opinion essay, a reflective
+paragraph, a descriptive paragraph) · F. The Novel (four
+questions on the sequel chapters: the villagers' nod,
+Manolin's knots, the three things a fisherman must know
+about a fish).
+
+**UNIT 10 — Shopping and Money (pp.53–64)**
+- L1 Smart Shopping Tips (reading, pp.54–55): make a
+  list, compare prices, quality over quantity, care
+  online (descriptions, seller ratings, secure payment).
+  Word box: purchases – quality over quantity –
+  durability – coupons – impulse.
+- L2 At the Store (listening, pp.56–57): a customer
+  buying wireless earbuds (list price $64, a discount,
+  a one-year limited warranty, promo-code rules, return
+  conditions). Synonym set: wireless / tax / warranty /
+  cancellation / receipt. Speaking: a "protection plan"
+  sales role-play.
+- L3 Smart Shopping Choices (listening + the grammar
+  box, pp.58–59): malls vs online shopping, window-
+  shopping. GRAMMAR BOX (p.58): Future Forms compared —
+  will + infinitive (guessed predictions, future facts,
+  quick decisions, offers) vs going to (own plans;
+  predictions with evidence) vs present continuous
+  (arrangements fixed with others, with time/place).
+  Writing task inside the lesson: a 120–150-word
+  paragraph for and against window-shopping vs online.
+- L4 From Cash to Apps (reading, pp.60–61): payment
+  methods weighed — cash, debit cards, credit cards,
+  mobile apps, prepaid cards (benefits and drawbacks of
+  each; no one-size-fits-all answer). Dictionary set:
+  convenient / balance / overdraft / contactless /
+  notifications.
+- L5 Prices and Products (writing, pp.62–63): the
+  POSTER as a taught kind — a model "Back-to-School
+  Bargains!" poster with prices and deals; the poster's
+  own boxes (plan / organize / language / design), a
+  plan → draft → improve → check process, useful
+  phrases, and an assessment checklist. Task: a poster
+  for a "Smart Reusable Notebook."
+- Assessment Corner (p.64): MCQs (impulse / go with /
+  will be / convenient); translation (lies and rumours
+  spread faster than truth); rewrites.
+
+**UNIT 11 — Food & Culture (pp.65–78)**
+- L1 Global Recipes (reading, pp.66–68): four dishes —
+  paella (Spain), tabbouleh (Lebanon), ratatouille
+  (France), tzatziki (Greece) — with ingredients and
+  method woven in, and advice to swap ingredients when
+  needed. Matching set: adjust / features / recipes /
+  seasoning; word box: dips – swap – adjusts – dill –
+  aisle. Speaking includes a model answer naming
+  Masgouf, the Iraqi grilled-fish dish.
+- L2 Food Stories (listening, pp.69–70): three speakers'
+  food memories (a grandmother's Sunday chicken soup;
+  street tacos in Austin; a shared rice-and-lamb meal) —
+  sharing meals as the common thread. Matching set:
+  set the table / bowl / end up / fiery / fast / lamb;
+  word box: comfort – celery – tacos – tortillas – fiery.
+- L3 Cooking Dumplings (listening + the grammar box,
+  pp.71–73): a mother teaching dumplings (luck and
+  happiness; fresh ingredients; rolled, filled, steamed).
+  GRAMMAR BOX (p.71): Reported Speech, statements and
+  questions together — tenses move one step back; told
+  + addressee instead of said to (that optional); asked
+  / inquired / wanted to know for questions; if/whether
+  for yes–no questions; pronouns and time words shift.
+  A writing task inside the lesson: a 120–150-word
+  paragraph on your favourite dish.
+- L4 Food Traditions and Table Manners (reading,
+  pp.74–75): manners around the world (in the U.S. wait
+  until everyone is served; in India eating together by
+  hand; in Japan slurping shows the food is tasty but
+  chopsticks never stand upright in rice; in Middle
+  Eastern homes guests try a little of everything).
+  Matching set: slurp / resemble / funeral / allergy /
+  dietary / one-size-fits-all / gratitude.
+- L5 Recipe Blog (writing, pp.76–77): the RECIPE BLOG
+  defined (a page sharing how to cook a dish: a short
+  story, ingredients, step-by-step instructions, often
+  pictures or tips) with a model (a grandmother's
+  spaghetti) and a nine-point "Great Recipe Blog" list
+  (catchy title → short introduction → clear measured
+  ingredients → sequenced instructions → cooking verbs
+  → write like talking to a friend → culture or emotion
+  → a photo or a tip → a closing invitation). Cooking
+  verbs set: boil – chop – mix – heat – fry – bake –
+  stir – add – serve. Task: your own recipe blog post,
+  120–150 words.
+- Assessment Corner (p.78): MCQs (swap / dip / where /
+  allergy); translation (learning from your mistakes);
+  writing: a recipe blog ~150 words on your favourite
+  meal.
+
+**UNIT 12 — People and Places (pp.79–93)**
+- L1 Famous Landmarks in Egypt (reading, pp.80–82):
+  the Pyramids and Sphinx at Giza, Karnak Temple at
+  Luxor, Philae Temple at Aswan, the Library of
+  Alexandria, the Dakhla Oasis, and the Qaitbay and
+  Salah El-Din citadels; the best landmark is the one
+  that makes you feel the spirit of Egypt. Matching
+  set: landmarks / entire / half-worn / stretch / float
+  / glowing / whisper. Speaking: a one-day tour-guide
+  talk for your governorate.
+- L2 Travelers' Stories (listening, pp.83–84): three
+  travellers — Adam on San Sebastián (food culture,
+  coastline), Ahmed on Angkor Wat (its builders "must
+  have been visionary"), Joury on Cape Town (cable car,
+  mixed cultures) — the unit's modals and comparatives
+  carried inside the listening. Word set: align –
+  carvings – rituals – stunning – urban – visionary.
+  Speaking: "My Most Memorable Trip," told with
+  comparative adjectives.
+- L3 A Tour in a Quiet Town (listening + the grammar
+  box, pp.85–87): a guide reasoning about an old town
+  (its bakery, its wooden bridge, its square). GRAMMAR
+  BOX (p.85): Modal Verbs of Possibility — must (sure
+  it is so), can't (sure it is not possible), might
+  (not sure), each with its past form (must have /
+  can't have / might have + past participle) for
+  deductions about the past. Writing task: a 120–150-
+  word paragraph about a situation, using must/can't/
+  might for what definitely did, definitely didn't, or
+  possibly happened.
+- L4 City Neighborhoods (reading, pp.88–90): one city
+  in five areas — Riverside, Old Market, Tech Square,
+  Parkside, Little Spice — comparatives and superlatives
+  woven through the whole text (slower than, busier
+  than, more expensive, the most flavorful). Matching
+  set: joggers / vendors / pace / bargain / tunes /
+  murals / simmer.
+- L5 Travel Journal (writing, pp.91–92): the TRAVEL
+  JOURNAL — a dated first-person model (July 15, 2025,
+  Luxor: Karnak with family), a five-step writing guide
+  (basics → what happened → feelings → sensory details
+  → reflection), tips (descriptive language, first
+  person, personal not just factual), a 120–150-word
+  task, and an extension: a mini journal of three
+  entries (a real trip, a dreamed-of place, an imaginary
+  journey).
+- Assessment Corner (p.93): MCQs (glowing / landmarks /
+  can't be / simmered); translation (school activities);
+  rewrites with must / might have.
+
+**REVIEW 4 (pp.94–98)** — the exam-shaped review of
+Units 10–12: A. Vocabulary (six two-correct-answer
+items + fourteen MCQs: quality, aisle, urban, durability,
+recipe, mural, receipt, allergy, stretch, warranty,
+whisper, financial, gratitude…) · B. Language (MCQs
+15–22 + rewrites 23–27 — reported speech, future forms,
+modals, past perfect with by the time / only after) ·
+C. Translation both ways (renewable energy; young
+people, critical thinking and the environment — general
+exam sentences, not from the units) · D. Reading
+Comprehension (a passage on sustainable energy and
+innovation, 8 MCQs) · E. Writing (seven craft MCQs on
+the recipe blog and the travel journal, then a 120–150-
+word choice of four: a narrative essay, an opinion essay
+on AI in dangerous jobs, a reflective paragraph on
+sustainable living, a descriptive paragraph on a modern
+innovation) · F. The Novel (four questions on the sequel
+chapters: the lesson of letting a fish tire itself,
+Santiago's calm in rough seas, teaching as new purpose,
+the boy sharing the dream).
 
 **The Novel, second half (pp.99–127).** The adaptation
-CONTINUES past Hemingway's ending with six chapters written
-for this book (summary only): Ch.7 "The Return Home" —
-Santiago brings the mast up the shore; tourists marvel at
-the skeleton; he sleeps and dreams of lions · Ch.8 "The
-Boy's Promise" — Manolin tends his hands and promises that
-from tomorrow they fish together · Ch.9 "Lessons by the
-Shore" — Santiago teaches the boy knots and the fisherman's
-lessons (values page: teamwork, respect for nature's
-power) · Ch.10 "Back to the Sea" — they fish as partners;
-the boy learns to let a fish tire itself · Ch.11 "The
-Dream of Lions" — the boy hooks and fights his own great
-fish under Santiago's coaching · Ch.12 "A New Beginning" —
-the boy lands his fish; Santiago understands the lions now
-belong to the boy as well — skill and dream pass to the
-next generation. Chapter Questions (pp.118–127): per
-chapter — word matching, fill-in-the-gap, MCQs (lighter
-than Term 1's five-part apparatus). Reviews 3–4 examine
-these chapters in "F. The Novel."
+CONTINUES past Hemingway's ending with six chapters
+written for this book (summary only). Ch.7 "The Return
+Home" (pp.100–102): Santiago reaches the village with
+the skeleton; the fishermen measure it at eighteen feet;
+Manolin finds him asleep with torn hands, brings food
+and water, and promises they will fish together from
+tomorrow. Ch.8 "The Boy's Promise" (pp.103–105): the
+village's mockery turns to respect; the boy insists on
+learning Santiago's strength and patience, not just
+fishing; both dream of the lions. Ch.9 "Lessons by the
+Shore" (pp.106–108): a day of preparation, not fishing —
+knots, lines, hooks, thinking like the fish; a fisherman
+is judged by how he faces the sea. Ch.10 "Back to the
+Sea" (pp.109–111): their first trip together; the boy
+lands a larger fish by letting it tire itself; a younger
+lion joins the dream. Ch.11 "The Dream of Lions"
+(pp.112–114): Santiago tells of seeing lions in Africa
+as a young sailor; the boy hooks and fights his own
+fish with patience; the true battle is with your own
+fear and weakness. Ch.12 "A New Beginning" (pp.115–117):
+the boy fishes with growing skill; Santiago regrets
+nothing — a man is defeated only when he gives up; the
+lions now belong to the boy as well. Every chapter
+closes with the same apparatus: "1. Values & Themes"
+and "2. Idioms & Expressions" lists. Chapter Questions
+(pp.118–127) examine Chapters 7–12 one by one, each
+with the same four parts: word matching, five MCQs,
+fill-in-the-gap, and open questions. Reviews 3–4
+examine these chapters in "F. The Novel."
 
 Back page (p.128): GPS Publishing; the same seven
-reviewers; CACD team: Eman Mahmoud Youssef, Amira Fawzy
-Ahmed, Hassan Ramadan Ibrahim, Shaimaa Salah El Din Afify
-(Ghada El Sayed Mohamed out, from Term 1); supervision
-Dr. Akram Hassan Mohammed. Spec: 27 × 19 cm, 70 g, 180 g
-couché, 4 colours, **128 pages — matches this PDF** (Term
-1's printed 112 was the slip). No ISBN/deposit.
+reviewers (Prof. Zeinab El-Naggar, Prof. Attia El-Sayed,
+Dr. Mai Kamal, Mr. Reda Shalby, Mr. Mohamed Gomaa, Mr.
+Mostafa Zaghlol, Mr. Ayman Elsayed); CACD team: Eman
+Mahmoud Youssef, Amira Fawzy Ahmed, Hassan Ramadan
+Ibrahim, Shaimaa Salah El Din Afify; supervision
+Dr. Akram Hassan Mohammed. Spec: 27 × 19 cm, 70 g body,
+180 g couché cover, 4 colours, **128 pages — matches
+this PDF**. No ISBN/deposit, as throughout the
+Preparatory/Secondary run.
 
-SECONDARY 10 TERM 2 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26) —
-SECONDARY 10 COMPLETE
+Slips and strains recorded as printed: (1) the PRESENT
+PERFECT CONTINUOUS is required by U7 L5's writing task
+(two sentences minimum) and examined in Review 3 B
+(items 12, 14, 15), yet no box anywhere in the Egypt
+run states its form — the run's standing gap, carried
+over from Term 1. (2) The U12 modal box prints two
+contradictory example lines in a row for the same
+missed penalty — one with the past form (must have
+had), one with the present form (must have) — as
+printed. (3) U7 L4's reading slips from first person
+into third person mid-text ("has helped Omar understand
+his identity"), as printed. (4) The Scope's U10 grammar
+label "Future Simple" undersells its box, which teaches
+three future forms. (5) Review translation items reach
+outside the term's units (renewable energy, eco-tourism)
+— exam habit, seen in Term 1 too.
 
-Egypt set: 22 of 26. Still owed: Secondary 11, Secondary 12
-(the remaining 4 of the 26-book Egypt set).
+CITATION CHECK — 2026-10-26 (separate pass, per his
+ruling): 18 page citations from this section were opened
+in the PDF itself — the six grammar boxes (pp.16, 29, 41,
+58, 71, 85), unit and review openers, the journal model
+(p.21), the blog-post model (p.34), the poster (p.62),
+the recipe blog (p.76), the travel journal (p.91), the
+novel's first sequel chapter (p.100), the Chapter
+Questions (p.118) and the credits page (p.128) — all 18
+found on the exact pages cited.
+
+SECONDARY 10 TERM 2 FULLY READ — 2026-10-26 (full
+re-read under his ruling; replaces the basics-only
+filing) — SECONDARY 10 COMPLETE
+
+Egypt set: 22 of 26 filed, of which this book is now
+fully read. Still owed as FULL RE-READS: Secondary 11
+Term 1, Secondary 11 Term 2, Secondary 12 (3 books).
 
 ## Secondary 11 Term 1 — English (Student's Book, with the year's Novel bound in)
 
