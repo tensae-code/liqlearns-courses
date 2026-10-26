@@ -33,3 +33,36 @@ Page numbers below are the book's printed pages (= PDF pages, checked).
 4. Sentence patterns arrive as tracing only ("I have a pink skirt,"
    p. 37; "I like / I don't like ice cream," Unit 8) — traced, never
    composed. → Sentence title: patterns recorded, not yet built from.
+
+## Activity Book 3 (primary English programme)
+
+MINED, from the ministry Biblioteca (2025 printing);
+64 pp. NINE units: The Alphabet · Let's do it · I want
+to be a/an… (professions) · At School · My toys ·
+Feelings and appearance · Animals · School Subject ·
+Places.
+
+New for Nicaragua: THE ALPHABET arrives as a named unit
+here, in the third book — after two books of talk and
+tracing. AB1 had no alphabet at all; AB3 opens with it.
+
+NICARAGUA ACTIVITY BOOK 3 FULLY READ — 2026-10-26
+(basics-only)
+
+## Activity Book 4 (primary English programme)
+
+MINED, Biblioteca (2025 printing); 72 pp. NINE units,
+now framed "Vocabulary and Grammar": Special Days · The
+Weather · Leisure time · On vacation time · Daily
+routines · Taking Care · At The Restaurant · The
+Concert · The Time (times of day, o'clock, early/late).
+
+NICARAGUA ACTIVITY BOOK 4 FULLY READ — 2026-10-26
+(basics-only)
+
+## Still queued
+
+The eight secondary books: Inglés and its Módulo
+Autoformativo for Grades 7, 8, 9, 10 (the Grade 7 and
+10 rows' source is the Telegram library; Grades 8–9
+were secured as GitHub releases). Reading continues.
