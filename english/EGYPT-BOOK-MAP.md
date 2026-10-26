@@ -7785,94 +7785,340 @@ Term 2, Secondary 12.
 
 ## Secondary 11 Term 2 — English (Student's Book and Workbook in one PDF)
 
-*Basics-only filing. EDITION NOTE (read first): this row's
-book is NOT the current GPS series. The current series'
-Term 2 file is deleted from the ministry host (404 under
-every name tried, incl. the Term 1 pattern), and the book
-is absent from the Telegram library (the Grade 11 batch
-holds twelve Term 2 books, English not among them). The
-latest copy obtainable — and the copy the library itself
-secured for this row — is the previous series' printing:
-**New Hello! English for Secondary Schools, Year 2,
-Term 2, 2023–2024** (York Press / Egyptian International
-Publishing Company – Longman; ISBN 978-977-16-1677-4;
-first published 2021, this impression 2023; CACD and MOE
-revision team, supervised by Dr Akram Hassan). Taken per
-the edition rule — latest available, edition recorded.
-Mirror copy via the exam-eg forum, 61,452,424 bytes
-(exactly the library's banked size), 142 pp., real text
-layer. Contents differ from the GPS series — this map
-records THIS book.*
+*EDITION NOTE (read first): this row's book is NOT the current
+GPS series. The current series' Term 2 file is deleted from the
+ministry host (real 404 under every name variant tried, incl.
+the Term 1 pattern), and the book is absent from the Telegram
+library. The latest copy obtainable — and the copy the library
+itself secured for this row — is the previous series' printing:
+**New Hello! English for Secondary Schools, Year 2, Term 2,
+2023–2024** (Egyptian International Publishing Company –
+Longman, 9 Rashdan Street, Messaha Square, Dokki, Giza, with
+York Press Ltd., London; © 2021 Egyptian Ministry of Education
+and Technical Education and EIPC–Longman; first published
+2021, this impression 2023; **ISBN 978-977-16-1577-4** as
+printed on the credits page; deposit 22390/2020). Student's
+Book authors Sarah Curtis and Claire Hart; Workbook authors
+Paul Ashe and Matthew Hancock. Revision team (CACD and MOE):
+Dr Amira Fawzy Ahmed Youssef, Dr Shaimaa Salah El Din Afify,
+Dr Ghada Alsayed Mohammed, Mrs Dahlia Ahmed El-Hefnawy,
+Mrs Eman Mahmoud Youssef; supervised by Dr Akram Hassan.
+Taken per the edition rule — latest available, edition
+recorded. Mirror copy via the exam-eg forum, 61,452,424 bytes
+(exactly the library's banked size), 142 pp. in the PDF (the
+back cover's spec prints extent 140 pp), real text layer.
+Back-cover spec: 19.5 × 27 cm, colour 4/4, grammage 180/70 gm.
+Components: Student's Book and Workbook (two termly booklets),
+Teacher's Guide, audio and video via the Egyptian Knowledge
+Bank (www.ekb.eg), website www.newhelloforegypt.com.
+EDITION CORRECTION: the earlier basics-only filing printed
+the ISBN as 978-977-16-1677-4; the credits page prints
+978-977-16-1577-4 — the printed one stands.*
 
-Structure: Student's Book (Modules 3–4) + Workbook in one
-PDF. Module 3 Travel: U7 Living abroad · U8 High-tech
-transport · U9 Conservation · Revision 3. Module 4 The
-media: U10 The news · U11 What a performance! · U12
-Achievements and goals · Revision 4 · Language Review
-(printed p.78). Shakespeare's **King Lear** is the term's
-drama, studied scene by scene between the units — Acts
-III, IV and V in this term (Acts I–II were its Term 1) —
-in a school retelling with comprehension work; the
-Workbook's Drama sections mirror it. (Summary level only.)
+Structure: the Student's Book holds Modules 3–4, six units,
+each unit six lessons — L1–L4 the skills/language lessons,
+L5–L6 the term's drama, Shakespeare's **King Lear**, studied
+scene by scene between the units (Acts III, IV and V in this
+term; Acts I–II were its Term 1) in a school retelling with
+comprehension work. After the units: Revision 3 (p.36),
+Revision 4 (p.72) and the book's own Language Review
+(pp.78–84). The Workbook is bound after the Student's Book
+in the same PDF and mirrors every unit, with its own
+Revision 3 (WB p.20), Revision 4 (WB p.42) and three
+exam-shaped Practice Exercises (WB pp.46–54). The writing
+length across this book is about 180 words, stated in task
+after task. (Drama and novel passages: summary only.)
 
-**Grammar (each unit's point, as summed in the book's own
-Language Review):**
-- U7 Present Continuous in its four uses (temporary
-  situation now; current situation different from the past;
-  future arrangement at a specific time; repeated actions
-  with "always") + **Stative Verbs defined in full**: verbs
-  that describe a state rather than an action, in four
-  groups (thoughts/opinions; feelings/emotions; the senses;
-  possessions/measurements); they cannot be used in the
-  continuous form; some verbs (have, see, think) can be
-  state or action by context.
-- U8 **Future Perfect — boxed at last** (the new series'
-  Start Smart only exercised it): will have + past
-  participle, for actions completed before a specific
-  future time or before another future action; by / by the
-  time / before; in (three days') time.
-- U9 Comparative Phrases + Past Habits: used to / didn't
-  use to (past situations and regular habits; comparing
-  past and present) and would + infinitive (past habits
-  and typical behaviour — NOT past situations; wouldn't
-  for refusal).
-- U10 Past Perfect restated + Past Perfect Passive, with
-  the passive's use stated: the action matters rather than
-  the agent; the by-agent is added when it is needed or
-  interesting.
-- U11 Tag Questions in full (the tag flips the statement;
-  falling intonation = expecting agreement, rising = a
-  real question; Let's … shall we; I'm … aren't I) +
-  Adjectives and Adverbs: adverb formation (+ly, +ally,
-  -e → +ly, -y → ily), same-form adverbs (hard, fast,
-  early, late…), good → well, hard vs hardly, the four
-  adverb types (manner, place, time, frequency) and their
-  positions.
-- U12 Relative Clauses: defining (who/whom/which may be
-  replaced by that; where, when, whose) and non-defining,
-  with "whom" noted as the formal choice for an object.
+**U7 Living abroad (p.6)** — L1: an opening conversation
+about studying abroad (Ahmed and Adam); Focus on Vocabulary:
+struggle, get used to, host family, pick up, independent,
+encouragement, determination; the reading is an adapted
+extract from The Secret Garden by Frances Hodgson Burnett
+(1911) — Mary Lennox, orphaned in India, sent to her uncle's
+house in England, met by the maid Martha and the gardener
+with the friendly robin (summary only). **Present Continuous
+box (p.7)** — four uses: a temporary situation happening now;
+a current situation different from the past; a future
+arrangement at a specific time; repeated actions with
+"always." L2: listening — three voice messages from students
+studying abroad. **Stative Verbs box (p.9)** — verbs that
+describe a state, not an action, in four groups
+(thoughts/opinions; feelings/emotions; the senses;
+possessions/measurements); they are not used in the
+continuous form; have, see and think can be state or action
+by context. L3: listening — a presentation on the pros and
+cons of working abroad; speaking: group presentations with
+a feedback checklist. L4: reading — Heba's diary entry
+(London, 28th November 2020), its diary phrases taken apart;
+writing kind: **a diary entry** about a day living abroad.
+L5–L6: Lear Act III, scenes v–vii (summary: Edmund shows
+Cornwall the letter and betrays his father; Gloucester sends
+Lear toward Dover with Kent; Cornwall and Regan seize
+Gloucester, make him kneel, and put out his eyes; a servant
+wounds Cornwall and Regan kills the servant; Gloucester
+learns Edmund betrayed him and Edgar was innocent) + 12
+vocabulary MCQs, character matching, True/False, and
+feelings writing.
 
-**Writing kinds (one per unit):** a diary entry (U7,
-a student living abroad) · a speech for or against an
-argument (U8) · an email about the best solution to a
-local problem (U9) · a news report (U10) · a film review
-(U11) · a report about achievements and goals (U12).
+**U8 High-tech transport (p.16)** — L1: vocabulary
+(expansion, facilities, high-tech, network, public
+transport); reading — a Cairo Metro Authority notice (Line 3
+adds 7 km and six stations, Heliopolis to Adly Mansour,
+1.5 million passengers expected; by 2030 six lines; Line 4
+to be completed by 2024; Line 5 building to start by the end
+of next year); speaking debate on public transport. L2:
+listening — a talk-show debate (Karima for public transport;
+Nadiya for environmentally-friendly cars). **Future Perfect
+box (p.19)** — will have + past participle, for actions
+completed before a specific time in the future or before
+another future action; by / by the time / before; in (three
+days') time. L3: listening — a speaker on the future of
+fuel; speaking: stressing the important information in
+arguments (electric cars by 2050, for and against). L4:
+reading — Sara Abdelaziz's formal email to her local
+governorate about school buses, with formal↔informal phrases
+matched; writing kind: **a speech for or against an
+argument** (the email is the L4 model; a speech is also a
+Workbook task).
 
-Cross-series note: this book and the GPS Secondary 11
-Term 1 overlap on tag questions, relative clauses, and
-adjectives/adverbs; this one adds the boxed future
-perfect, the full stative-verbs statement, past-habits
-"would," and comparative phrases. The course takes the
-union; each book's map keeps its own contents.
+**U9 Conservation (p.26)** — L1: reading — an online advert
+for volunteer conservation trips: New Zealand (21 days,
+$3,799 — plant trees for endangered birds, monitor plant
+species, clean beaches), Thailand (14 days, $2,599 — care
+for elephants once used for tourist rides), Brazil (16 days,
+$2,599 — record Amazon native languages digitally; a
+scholarship available). **Comparative Phrases box (p.26)** —
+exactly the same as (no difference); almost as … as /
+slightly … than (small difference); far … than (big
+difference). L2: listening — a news report on conservation
+at Naama Bay on the Red Sea coast (photos from 1983 against
+today, credited in the acknowledgements). **Past Habits box
+(p.29)** — used to / didn't use to for past situations AND
+regular habits, often comparing past and present; would +
+infinitive for past habits and typical behaviour — NOT past
+situations; wouldn't for refusal. L3: speaking —
+problem-solving discussion (a skatepark against a youth
+club; a beach-rubbish problem with proposed solutions
+weighed by pros and cons). L4: reading — the model opinion
+essay "Can volunteering benefit young people today?" taken
+apart paragraph by paragraph; writing kind: **an email
+about the best solution to a local issue** (an opinion essay
+is also planned and written in L4 and the Workbook). L5–L6:
+Lear Act IV, scenes iv–vi (summary: Cordelia, back with the
+French army, seeks her mad father — the doctor's cure is
+rest; Regan, widowed, schemes for Edmund and sets a reward
+on blind Gloucester's life; Edgar, still disguised, tricks
+Gloucester into believing he has fallen from Dover's cliff
+and survived; the mad Lear enters crowned with wild flowers
+and knows Gloucester's voice).
 
-SECONDARY 11 TERM 2 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26) —
-SECONDARY 11 COMPLETE (Term 1 in the current series,
-Term 2 in the latest obtainable printing of the previous
-series, as recorded above)
+**Revision 3 (pp.36–41)** — L1: Amira's blog from a Costa
+Rica expedition (future perfect and comparative phrases in
+use). L2: listening — Ali, who has left home (used to /
+would / comparative phrases). L3: two problem-page letters
+(a student falling behind in maths; a boy new in town who
+cannot make friends) — propose solutions and weigh pros and
+cons. L4: a model opinion essay ("Schools should spend more
+time teaching students about conservation") marked into
+paragraphs; write an opinion essay (title as printed:
+"Young people should assign more time to help others in
+their own community"). Lear Acts III–IV revision: 12
+vocabulary MCQs, character–event matching, quotation
+questions, and a ~200-word newspaper summary of three
+excerpts.
 
-Egypt set: 26 of 26 filed (Secondary 12 was filed the
-same day, basics-only). Still owed as full re-reads: this
-book and Secondary 12.
+**U10 The news (p.42)** — L1: vocabulary (reporter, fact
+checker, interview, newsreader, broadcast, source, search
+engine, editor, question as a verb); reading — three online
+news stories: A "Where do you get your news from?" (fewer
+than 50% now use traditional sources), B the UK School
+Report project (students become reporters for a day), C
+Saeed Yousuf the fact checker (facts can be checked;
+opinions are points of view). L2: listening — three news
+stories (a supermarket fire; Marwan the photographer;
+Antigua's digital-nomad offer during Covid-19). **Past
+Perfect + Past Perfect Passive box (p.45)** — had + past
+participle for the earlier of two past events, often with
+think/say; had been + past participle when the agent is
+unknown or unimportant. L3: reading — the news report "A
+teenage world!" (Our World, a news website by teenagers
+Jake and Amy Hope, for teenagers; direct speech carries the
+opinions); writing kind: **a news report** (from notes: 15
+teenagers, 10 hours, volunteers collecting rubbish from
+beaches), with the five W's reminder box. L4: listening —
+two news stories told in different tones; speaking:
+presenting a news report (tone, speed, pronunciation).
+L5–L6: Lear Act IV, scenes vi (continued) and vii (summary:
+Lear tells Gloucester the world's justice favours the rich
+and advises glass eyes; Oswald attacks Gloucester for
+Regan's reward and Edgar kills him, finding Goneril's
+letter plotting Albany's death; in Cordelia's tent Lear
+wakes, slowly knows Cordelia, and begs forgiveness).
+
+**U11 What a performance! (p.52)** — L1: film-genre
+vocabulary (action, animation, comedy, historical, horror,
+musical, romantic, science fiction); listening — an
+interview with film critic Seleem. L2 (p.54): reading — two
+film reviews from filmreviews.com, The Martian (warmly
+positive) and The Lion King 2019 (brilliant visuals but
+lacking the original's warmth). **Tag Questions** — taught
+across L1–L2 and boxed in full in the Language Review
+(pp.81–82): the tag flips the statement; falling intonation
+expects agreement, rising intonation asks a real question;
+Let's … shall we; I'm … aren't I; tags stay affirmative
+after none of / nobody / hardly (the box adds "and ever,"
+as printed). **Adjectives and Adverbs box (p.54)** — an
+adjective comes before the noun; adverb formation (+ly,
++ally, −e → +ly, −y → ily); same-form adverbs (hard, fast,
+early, late…); good → well; hard against hardly; the four
+adverb types (manner, place, time, frequency) and their
+positions. L3: listening — three people's film opinions
+(Ramy, Dareen, Tamer); speaking about how films make you
+feel, with an agree/disagree politely box. L4: reading — a
+student's paragraph on The Boy Who Harnessed the Wind and
+Toy Story 4; positive and negative opinion adjectives
+sorted; writing kind: **a film review**. L5–L6: Lear Act IV
+scene vii (continued) and Act V, scenes i–ii (summary:
+Lear asks Cordelia's forgiveness; Edmund plays the two
+sisters against each other and plans Albany's death after
+the battle; the French lose, and Lear and Cordelia are
+taken prisoner — Lear is content to be caged with her,
+"sing like birds in a cage").
+
+**U12 Achievements and goals (p.62)** — L1: reading —
+"Setting goals for success": SMART goals (specific,
+measurable, achievable, relevant, time-bound); listening —
+a talk on SMART goals; speaking: setting goals and testing
+them against the SMART questions. L2: reading — "A passion
+for apples": Andy Robson of Maine, who started selling
+apple juice at eight from his grandmother's 1920s recipe
+with honey added; his company Green and Red donates 15% of
+profits to bee conservation; he also runs a schools charity
+with Jessica Webb. **Relative Clauses box (p.65)** (full
+statement in the Language Review, pp.83–84) — defining
+(who/whom/which replaceable by that; where, when, whose;
+the pronoun dropped when it is the object; whom the formal
+object choice, incl. preposition + whom) and non-defining
+(commas; that never; the pronoun never dropped); plus what
+= "the thing(s) which." L3: reading — two more young
+entrepreneurs and inventors (incl. a pedal-powered washing
+machine built by a 14-year-old). L4: reading — the Young
+Inventor's Competition advert and a model competition
+report (Introduction / The organisation / The competition /
+Suggested improvements / Conclusion); writing kind: **a
+report about an experience** (~180 words; a report on a
+three-day course). L5–L6: Lear Act V, scene iii — the ending
+(summary: Albany arrests Edmund and Goneril for treason;
+Edgar, revealed, defeats Edmund; Goneril has poisoned Regan
+and kills herself; Gloucester has died smiling on hearing
+the truth; the dying Edmund tries to revoke his secret
+order to kill Lear and Cordelia, too late — Cordelia is
+dead, and Lear dies over her body; Albany resigns his power
+back, and Edgar closes the play wearing the crown).
+
+**Revision 4 (pp.72–77)** — L1: interviews with three news
+professionals (Anya, a national TV reporter; Haruki, a
+local newspaper editor; Nashwa, a crime photographer). L2:
+listening — an interview with businesswoman Amal (Sustain
+Life); a tick-the-correct-sentence grammar sweep. L3: the
+article "Square eyes" on children and TV (a UK survey: about
+13 hours of TV a week against 15+ hours online). L4: a TV
+review of Green World (a Kalahari programme); write a review
+of an educational programme in about 150 words. Lear Acts
+IV–V revision: vocabulary MCQs, character questions,
+quotation questions, and a paragraph on King Lear's
+relevance today.
+
+**Language Review (pp.78–84)** — the book's own grammar
+sums, one spread per unit: U7 present continuous + stative
+verbs (p.78) · U8 future perfect (p.79) · U9 comparative
+phrases + past habits (p.79) · U10 past perfect + past
+perfect passive, with the passive's use stated (the action
+matters rather than the agent; the by-agent added when
+needed or interesting) (pp.80–81) · U11 tag questions +
+adjectives and adverbs (pp.81–83) · U12 relative clauses
+(pp.83–84). Cross-series note: this book and the GPS
+Secondary 11 Term 1 overlap on tag questions, relative
+clauses and adjectives/adverbs; this one adds the boxed
+future perfect (the GPS run exercises it but never boxes
+it), the full stative-verbs statement, past-habits "would,"
+and comparative phrases. The course takes the union; each
+book's map keeps its own contents.
+
+**The Workbook** (bound after the Student's Book) mirrors
+every unit with its own texts: U7 — Tarek's blog from
+Australia, Amir's email from a farm in India, Judy's
+voicemail from Greece, Dalida's Athens diary; U8 — a
+world public-transport projects text (the Cairo Monorail's
+52 km and 42 km lines, Paris Line 18 to Orly, Sydney Metro
+West's 50 km tunnel, Sweden's 270 km coastal line carrying
+1.6 million a year), debate expressions, a speech for or
+against electric cars; U9 — an African against Asian
+elephants comparison text, a Great Barrier Reef listening,
+an ~180-word email choosing the best solution to a sunny
+bus-stop problem, an ~180-word opinion essay on rewarding
+volunteers; U10 — a fake-news story (a Second World War
+plane found on the moon) judged for believability, past
+perfect practice, and a news report on a Luxor necropolis
+discovery (José Galán's team; a burial 3,600 years old)
+worked through the five W's; U11–U12 — film and goals
+practice mirroring the Student's Book, incl. a listening on
+Deena Mousa's blood-loss invention. Each Lear block gets a
+Workbook Drama section (vocabulary, event ordering,
+quotation work, some 180-word writing). Workbook Revision 3
+(WB pp.20–23): a cloze on modern planes, word forms,
+translation into Arabic and into English, Karim's blog from
+London as the reading, error correction, and an ~180-word
+essay choice. Workbook Revision 4 (WB pp.42–45): 16 MCQs, a
+cloze (a school visit to an online newspaper), word forms,
+translation both ways, a reading (Carvey Ehren Maigue's
+solar panels made from fruit and vegetable waste, Mapua
+University, Philippines, a 2020 award) with 8 questions,
+error correction (10 sentences), and an ~180-word essay
+(a news report, or your goals in life). **Practice
+Exercises 1–3 (WB pp.46–54)** — each: 16
+choose-the-correct-answer items, a one-word gap-fill text,
+a translation into Arabic, a translation into English, a
+reading text (1: "Taxis to the moon" — Yusaku Maezawa and
+the Big Falcon Rocket; 2: "Teenagers to the rescue" — Greta
+Thunberg and Severn Cullis-Suzuki; 3: "The changing face of
+films" — camera-shot length from 12 seconds in the 1930s to
+2.5 seconds in 2010), and an ~180-word writing choice — an
+exam-shaped tail, like the GPS books' Reviews.
+
+**Slips recorded as printed:** (1) the earlier filing's
+ISBN (…1677-4) was wrong — the credits page prints
+978-977-16-1577-4. (2) The back-cover spec prints extent
+140 pp; the PDF holds 142 pages. (3) The U8 metro notice
+says Line 4 "will have completed it by 2024" — a
+future-perfect showpiece already dated in a 2023–2024
+printing. (4) The Workbook U7 Drama ordering exercise calls
+the Act III scenes "Chapter 1." (5) Revision 3's essay
+title uses "assign more time" (for spend/allocate) as
+printed. (6) The tag-questions box lists affirmative tags
+after "none of, nobody, hardly, and ever" — "ever" as
+printed.
+
+SECONDARY 11 TERM 2 FULLY READ — 2026-10-26 (full re-read
+under his ruling; the 2023–2024 New Hello printing, the
+latest obtainable, per the edition rule). CITATION CHECK
+PASSED — 18/18 anchors verified on their exact printed
+pages (this book's PDF page segments align 1:1 with the
+printed folios: the ISBN on the credits page, the Workbook
+authors' page, the Present Continuous box p.7, the Stative
+Verbs box p.9, Heba's diary p.11, the Cairo Metro notice
+p.17, the Future Perfect box p.19, the Comparative Phrases
+box p.26, the Past Habits box p.29, Naama Bay p.28, the Past
+Perfect Passive box p.45, the five W's box p.46, Tag
+Questions p.53, the Adjectives and Adverbs box p.54, SMART
+goals p.62, the Relative Clauses box p.65, the report task
+p.67, the Language Review p.78, the Workbook's Tarek blog
+p.3, "Taxis to the moon" in Practice Exercise 1).
+SECONDARY 11 COMPLETE — both terms fully read (Term 1 in
+the current GPS series; Term 2 in the latest obtainable
+printing of the previous series, as recorded above).
+Egypt: 26 of 26 filed; fully read through Secondary 11
+Term 2. Still owed as a full re-read: Secondary 12.
 
 ## Secondary 12 Term 1 — English (Student's Book, with the Novel's first half bound in)
 
@@ -8035,9 +8281,9 @@ SECONDARY 12 TERM 2 MAPPED (basics-only — not a full read; full re-read owed) 
 SECONDARY 12 COMPLETE
 
 **EGYPT SET: 26 of 26 FILED, 2026-10-26 — fully read
-through Secondary 11 Term 1; Secondary 11 Term 2 and
-Secondary 12 are MAPPED (basics-only) and owe full
-re-reads under his ruling of 2026-10-26.**
+through Secondary 11 Term 2; Secondary 12 is MAPPED
+(basics-only) and owes a full re-read under his ruling
+of 2026-10-26.**
 
 ## Curriculum stocking notes (moved out of CURRICULUM.md, 2026-10-26)
 

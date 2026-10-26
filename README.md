@@ -195,6 +195,34 @@ liqlearns-courses/
   your classes — learning your own curriculum, your country's
   curriculum. (Ranked and unranked GAMES are a separate
   question, parked by him — "we'll return to it.")
+- THE FIRST STAGE IS PICTURES, SOUND AND VIDEO (his design,
+  ruled 2026-10-26): in English, everything before the learner
+  can make sentences and hold the basic conversation every
+  toddler knows — hi, how are you, good morning, good
+  afternoon, telling the time, and so on — is taught mostly
+  with PICTURES, AUDIO and VIDEO, with very few written
+  words: the learner may not read yet, in any language. One
+  course serves everyone — a small child and an adult
+  starting from zero take the same first stage. Two parts
+  of it are his design:
+  - **TRACING BY SOUND:** letters are traced stroke by
+    stroke, and each stroke direction carries its own
+    cartoon sound — the falling sound when the pen goes
+    down, another sound when it goes across, another when
+    it goes up. Learners already know these sounds from
+    cartoons and films, so the sound itself tells the hand
+    which way to move, in any language.
+  - **LETTER + WORD + PICTURE, NO "FOR":** a letter is
+    taught with its word and the picture of the thing shown
+    together — "A — apple", "B — ball". We never say "A for
+    apple": the "for" is an extra word a beginner does not
+    need. Letter, word, picture — side by side, nothing
+    between them.
+  The pictures, audio and video for this stage are made for
+  the course (AI-made or otherwise — his call at build
+  time); no textbook teaches this stage in words, so its
+  lesson plans carry it as add-on slots described in words,
+  under the slot rule below.
 - TIPS ARE OURS (his ruling, 2026-10-26): a lesson's teaching comes from
   the government textbooks only. Anything extra — a clearer way to say a
   thing, a check or a trick that helps the learner DO the thing, or help
