@@ -151,6 +151,21 @@ liqlearns-courses/
   counts as present. It exists so the code's session-length list
   stays honest: time "watched" while the learner was elsewhere
   would poison it.
+- RANKED AND UNRANKED COURSES (his design, ruled 2026-10-26): a
+  course can be taken two ways. RANKED is the platform's side —
+  "amongst each other, among different people": the shared
+  ladder where a learner's level, points and standing live.
+  Finishing a ranked course gives you a level, and behind it
+  sits the point system — where you are standing, how you are
+  learning — and from that the platform fixes your future
+  things. UNRANKED is for yourself: you have an exam tomorrow,
+  you mix a bunch of things from different classes and learn
+  them; you can go back and work through a thing again; and
+  there are NO pass-gates — you don't pass something before
+  knowing the other one. Unranked is also what you use for
+  your classes — learning your own curriculum, your country's
+  curriculum. (Ranked and unranked GAMES are a separate
+  question, parked by him — "we'll return to it.")
 - TIPS ARE OURS (his ruling, 2026-10-26): a lesson's teaching comes from
   the government textbooks only. Anything extra — a clearer way to say a
   thing, a check or a trick that helps the learner DO the thing, or help
