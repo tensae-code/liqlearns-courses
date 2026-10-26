@@ -1,7 +1,7 @@
 # Lesson plan — Word families
 
-**Course:** English · **Title:** Letter · **Lesson:** Word families
-**Place in the curriculum:** Year 1, Term 1, Unit 3 "First Words" —
+**Course:** English · **Title:** Phonics · **Lesson:** Word families
+**Place in the curriculum:** Level 1, Unit 3 "First Words" —
 after Blends (CURRICULUM.md).
 **The one thing this lesson teaches:** words that share the same
 ending — same letters, same sound — so knowing one opens its whole
@@ -51,13 +51,13 @@ Paper and a pencil.
 3. **Say it to your companion** — grow the -at family from cat,
    changing only the first letter, twice; explain why the new words
    were almost free.
-   - ADD VIDEO: the script in questions/video-script.md, filmed —
+   - ADD VIDEO: the script in video-script.md, filmed —
      families grown letter by letter in the super-simple voice
      (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, short-answer,
    fill-in-the-blank, true-or-false, matching — served at the
-   learner's level and teaching-mix (questions/levels.md).
-5. **Hands-on** — questions/hands-on.md.
+   learner's level and teaching-mix (levels.md).
+5. **Hands-on** — hands-on.md.
 6. **Do It Yourself** — write the -an, -ap and -at families from
    memory and check them; say a rhyming line with one family's words
    three times; sort pan, jet, dig, cap, wet, fig into families.

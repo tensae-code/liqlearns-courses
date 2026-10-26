@@ -1,7 +1,7 @@
 # Lesson plan — How old are you?
 
 **Course:** English · **Title:** Conversation · **Lesson:** How old are you?
-**Place in the curriculum:** Year 1, Term 1, Unit 4 "Conversation"
+**Place in the curriculum:** Level 1, Unit 4 "Conversation"
 — a Conversation lesson, taught inside the talk in the books
 (CURRICULUM.md).
 **The one thing this lesson teaches:** asking someone's age and
@@ -54,13 +54,13 @@ companion. Paper and a pencil.
      student says what changed and what stayed.
 3. **Say it to your companion** — ask the question, answer it for
    yourself, explain the one thing that changes every year.
-   - ADD VIDEO: the script in questions/video-script.md, filmed —
+   - ADD VIDEO: the script in video-script.md, filmed —
      the question asked across three birthdays, in the super-simple
      voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, short-answer,
    fill-in-the-blank, true-or-false, matching — served at the
-   learner's level and teaching-mix (questions/levels.md).
-5. **Hands-on** — questions/hands-on.md.
+   learner's level and teaching-mix (levels.md).
+5. **Hands-on** — hands-on.md.
 6. **Do It Yourself** — ask one real person today; write your own
    answer as a whole sentence; write next year's sentence beside it.
 

@@ -27,8 +27,13 @@ The book shows it in five pictures, like this:
 5. And you write. The pencil stands at an angle, like a small tree
    leaning. Your hand moves; the pencil follows.
 
-Not squeezed. If your fingers turn white, you are squeezing. Resting,
-like the pencil is sitting in a small chair made of your fingers.
+Not squeezed. Resting, like the pencil is sitting in a small chair
+made of your fingers.
+
+> **Tip — from us, not from the books:** check your own grip. If your
+> fingers turn white, you are squeezing too hard. Loosen until the
+> color stays normal — the pencil should rest in your hand, not be
+> held tight.
 
 ## Say it to your companion
 Explain to your companion: why does every language start here, and not

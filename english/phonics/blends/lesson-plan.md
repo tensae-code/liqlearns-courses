@@ -1,7 +1,7 @@
 # Lesson plan — Blends
 
-**Course:** English · **Title:** Letter · **Lesson:** Blends
-**Place in the curriculum:** Year 1, Term 1, Unit 3 "First Words" —
+**Course:** English · **Title:** Phonics · **Lesson:** Blends
+**Place in the curriculum:** Level 1, Unit 3 "First Words" —
 the first lesson of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** two letters at the start of a
 word where you hear BOTH sounds, sliding together — sk in skip,
@@ -52,13 +52,13 @@ Paper and a pencil. A finger to cover letters with.
      the way both stay heard in a blend.
 3. **Say it to your companion** — say the eight blends, each with one
    book word; explain the cover test.
-   - ADD VIDEO: the script in questions/video-script.md, filmed —
+   - ADD VIDEO: the script in video-script.md, filmed —
      the blends sounded out word by word in the super-simple voice
      (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, short-answer,
    fill-in-the-blank, true-or-false, matching — served at the
-   learner's level and teaching-mix (questions/levels.md).
-5. **Hands-on** — questions/hands-on.md.
+   learner's level and teaching-mix (levels.md).
+5. **Hands-on** — hands-on.md.
 6. **Do It Yourself** — say each blend word slowly then smooth;
    write the s-set in one line and the l-set in another; find the
    blends in "snake" and "slide."

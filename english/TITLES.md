@@ -4,7 +4,7 @@ His order (2026-10-25): build from the bottom. A learner does not start
 at greetings — nobody learns to say hi before the letter. They have to
 know how to read first. The course path climbs by the size of the thing:
 
-**Letter → Word → Sentence → Paragraph → Essay → Story → Novel**
+**Alphabet → Phonics → Word → Sentence → Paragraph → Essay → Story → Novel**
 
 That ladder IS the path order (recommended, never forced — a learner
 can jump in higher, per the prerequisite rule; the "start here instead"
@@ -12,16 +12,22 @@ path points down this ladder to the bottom).
 
 The titles, in ladder order:
 
-1. **Letter** (the alphabet) — the letters, their shapes, their sounds,
-   reading them. This is where the course starts, and where the KG books
-   start.
-2. **Word** — the word kinds: nouns, verbs, adjectives, and the rest,
+1. **Alphabet** — the letters themselves: their shapes, their names.
+   This is where the course starts, and where the KG books start.
+2. **Phonics** — the sounds the letters make, and putting sounds
+   together to read words: blending, two-letter sounds, blends, word
+   families. (Split from the old "Letter" title by his ruling,
+   2026-10-26: only the alphabet lesson was really about letters —
+   the rest is sounds and reading words. "Letter" also names the
+   letter you write and send, which will be its own thing later;
+   the two meanings no longer share one title.)
+3. **Word** — the word kinds: nouns, verbs, adjectives, and the rest,
    each as its own lesson under this title.
-3. **Sentence** — one idea, whole and ended properly.
-4. **Paragraph** — sentences together making one bigger idea.
-5. **Essay** — paragraphs together making a whole piece about one thing.
-6. **Story** — a story: people, a place, things happening.
-7. **Novel** — the long story: many chapters, one big world.
+4. **Sentence** — one idea, whole and ended properly.
+5. **Paragraph** — sentences together making one bigger idea.
+6. **Essay** — paragraphs together making a whole piece about one thing.
+7. **Story** — a story: people, a place, things happening.
+8. **Novel** — the long story: many chapters, one big world.
 
 Speaking sits in the ladder at the Sentence stage — a conversation is
 sentences spoken between people:
@@ -47,18 +53,19 @@ book actually teaches that part.
 Built so far (after the one-thing FIX of 2026-10-25 — every built
 lesson audited; anything teaching a second thing was split out into
 its own subtitle folder with its own lesson + questions):
-- Letter → the-alphabet · blending-sounds · two-letter-sounds ·
-  blends · word-families
+- Alphabet → the-alphabet
+- Phonics → blending-sounds · two-letter-sounds · blends ·
+  word-families
 - Conversation → hello-and-your-name · how-are-you ·
   good-morning-and-good-afternoon · introducing-a-friend ·
   whats-his-and-her-name · how-old-are-you
 Conversation → hello-and-your-name (from Egypt, Primary 1) is kept, and
 filed under its title; it is NOT Lesson 1 of the path.
 
-Before Letter, one step lower and outside this course: **Pencil and
+Before Alphabet, one step lower and outside this course: **Pencil and
 Lines** — its own normal course, and the prerequisite before this and
 every language course (holding a pencil; drawing and understanding
 lines). It began as a lesson in this folder (Letter →
 before-the-letters) and was promoted by his ruling, 2026-10-25. The
-English path therefore reads: Pencil and Lines → Letter → Word →
-Sentence → Paragraph → Essay → Story → Novel.
+English path therefore reads: Pencil and Lines → Alphabet → Phonics →
+Word → Sentence → Paragraph → Essay → Story → Novel.

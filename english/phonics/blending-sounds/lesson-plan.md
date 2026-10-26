@@ -1,7 +1,7 @@
 # Lesson plan — Blending sounds
 
-**Course:** English · **Title:** Letter · **Lesson:** Blending sounds
-**Place in the curriculum:** Year 1, Term 1, Unit 2 "Sounds Together"
+**Course:** English · **Title:** Phonics · **Lesson:** Blending sounds
+**Place in the curriculum:** Level 1, Unit 2 "Sounds Together"
 — the first lesson of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** pushing letter sounds together
 until they become a word — s… a… t… → sat.
@@ -50,13 +50,13 @@ Nothing but a voice. Paper and a pencil for the writing step.
      they close.
 3. **Say it to your companion** — blend "pat" slowly, then smooth;
    explain what changed.
-   - ADD VIDEO: the script in questions/video-script.md, filmed —
+   - ADD VIDEO: the script in video-script.md, filmed —
      sounds slid together one word at a time in the super-simple
      voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, short-answer,
    fill-in-the-blank, true-or-false, matching — served at the
-   learner's level and teaching-mix (questions/levels.md).
-5. **Hands-on** — questions/hands-on.md.
+   learner's level and teaching-mix (levels.md).
+5. **Hands-on** — hands-on.md.
 6. **Do It Yourself** — blend sit · pat · tin · pin out loud, slow
    then smooth; write each word with its three sounds under it; mark
    the word that took the longest slide.

@@ -2,7 +2,7 @@
 
 **Course:** English · **Title:** Conversation · **Lesson:** What's his
 and her name?
-**Place in the curriculum:** Year 1, Term 1, Unit 4 "Conversation"
+**Place in the curriculum:** Level 1, Unit 4 "Conversation"
 (CURRICULUM.md).
 **The one thing this lesson teaches:** asking the name of ANOTHER
 person — "What's her name?" for a girl or woman, "What's his name?"
@@ -53,13 +53,13 @@ People nearby to point at, or pictures of people. The companion.
 3. **Say it to your companion** — two people, a girl and a boy, real
    or in a picture: ask about each and answer, until her and his
    come without thinking.
-   - ADD VIDEO: the script in questions/video-script.md, filmed —
+   - ADD VIDEO: the script in video-script.md, filmed —
      the two questions asked about two people, in the super-simple
      voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, short-answer,
    fill-in-the-blank, true-or-false, matching — served at the
-   learner's level and teaching-mix (questions/levels.md).
-5. **Hands-on** — questions/hands-on.md.
+   learner's level and teaching-mix (levels.md).
+5. **Hands-on** — hands-on.md.
 6. **Do It Yourself** — today, ask someone about a third person for
    real; write both question-and-answer pairs down, one for her, one
    for his.

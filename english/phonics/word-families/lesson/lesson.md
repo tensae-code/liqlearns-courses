@@ -1,6 +1,6 @@
 # Word families — the lesson
 
-Course: English · Title: Letter · Lesson: Word families
+Course: English · Title: Phonics · Lesson: Word families
 Built from: Egypt, English Primary 1 Term 2.
 This lesson is ONE thing only: words that share the same ending —
 same letters, same sound — so when you know one, its whole family

@@ -2,7 +2,7 @@
 
 **Course:** English · **Title:** Conversation · **Lesson:** Introducing
 a friend
-**Place in the curriculum:** Year 1, Term 1, Unit 4 "Conversation"
+**Place in the curriculum:** Level 1, Unit 4 "Conversation"
 (CURRICULUM.md).
 **The one thing this lesson teaches:** bringing a new person into the
 talk — "Who's this?" → "This is my friend, ___." → the two new people
@@ -50,13 +50,13 @@ Two other people, or one companion and one imagined friend.
      — the student listens, then takes one part and reads it.
 3. **Say it to your companion** — introduce an imaginary friend with
    the whole shape: their question, your bridge, their hellos.
-   - ADD VIDEO: the script in questions/video-script.md, filmed —
+   - ADD VIDEO: the script in video-script.md, filmed —
      three children acting the introduction in the super-simple
      voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, short-answer,
    fill-in-the-blank, true-or-false, matching — served at the
-   learner's level and teaching-mix (questions/levels.md).
-5. **Hands-on** — questions/hands-on.md.
+   learner's level and teaching-mix (levels.md).
+5. **Hands-on** — hands-on.md.
 6. **Do It Yourself** — the next time you are with two people who do
    not know each other, introduce one for real, with the whole shape;
    write the three lines down.

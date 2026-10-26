@@ -1,7 +1,7 @@
 # Lesson plan — The alphabet
 
-**Course:** English · **Title:** Letter · **Lesson:** The alphabet
-**Place in the curriculum:** Year 1, Term 1, Unit 1 "The Alphabet" —
+**Course:** English · **Title:** Alphabet · **Lesson:** The alphabet
+**Place in the curriculum:** Level 1, Unit 1 "The Alphabet" —
 the first lesson of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** the 26 letters — each with a
 name, two shapes (capital and small), and a sound.
@@ -53,13 +53,13 @@ Paper and a pencil for the writing steps. Nothing else.
      says each letter after it.
 3. **Say it to your companion** — read the 26 aloud; then cover the
    list and explain the three things every letter has.
-   - ADD VIDEO: the script in questions/video-script.md, filmed —
+   - ADD VIDEO: the script in video-script.md, filmed —
      the alphabet sung and pointed to, letter by letter, in the
      super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, short-answer,
    fill-in-the-blank, true-or-false, matching — served at the
-   learner's level and teaching-mix (questions/levels.md).
-5. **Hands-on** — questions/hands-on.md.
+   learner's level and teaching-mix (levels.md).
+5. **Hands-on** — hands-on.md.
 6. **Do It Yourself** — sing the alphabet three times today and mark
    the stumbling letter; write the capitals with their small letters
    under them; pick five letters and say each one's word.

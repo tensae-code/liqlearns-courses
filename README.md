@@ -79,23 +79,46 @@ liqlearns-courses/
           lesson actually has questions of that type. Question types are
           never mixed inside one file. Inside each type file, questions
           are grouped by level, tied to the learner's skill number.)
-          levels.md              ← practice sessions by level, tied to the
+        levels.md                ← practice sessions by level, tied to the
                                    learner's skill number (starts at 100 and
                                    moves as they learn). Example for maths:
                                    single-digit level, then double-digit level.
-          video-script.md        ← a script written as simple as possible,
+                                   (Moved out of questions/ 2026-10-26 —
+                                   levels are not questions.)
+        video-script.md          ← a script written as simple as possible,
                                    like explaining to a grade-one child, ready
                                    to hand to a video AI later. We write and
                                    save these now; videos get made when there
-                                   is budget for it.
-          hands-on.md            ← projects and real things to do with your
+                                   is budget for it. (Also moved out of
+                                   questions/ 2026-10-26.)
+        hands-on.md              ← projects and real things to do with your
                                    hands, so the learner understands by doing.
+                                   (Also moved out of questions/ 2026-10-26.)
 ```
 
 ## Rules (Tensae's design — do not change without his word)
 
 - The AI that builds these starts EMPTY. Everything it knows comes from the
   collected books only.
+- LEVELS, NOT TERMS (his ruling, 2026-10-26): a course's big parts are
+  LEVELS, climbed at the learner's own pace — not school terms tied to
+  a calendar. The English path's titles were also split the same day:
+  the old "Letter" title is now **Alphabet** (the letters themselves)
+  and **Phonics** (the sounds, blending, blends, word families) —
+  "Letter" also means the letter you write and send, and the two
+  meanings no longer share one title. CURRICULUM.md holds the plan
+  only (units and lessons in order); each book's stocking notes live
+  with the book's own map.
+- TIPS ARE OURS (his ruling, 2026-10-26): a lesson's teaching comes from
+  the government textbooks only. Anything extra — a clearer way to say a
+  thing, a check or a trick that helps the learner DO the thing, or help
+  taken from other material later — never goes into the lesson as if a
+  book said it. It goes in a **Tip box** inside the lesson, marked as
+  ours ("Tip — from us, not from the books"). The course's first page
+  tells the learner exactly this: everything here is from government
+  textbooks around the world; the tips in boxes are from us, to help
+  you understand. (The textbooks themselves teach this way — their own
+  Tip boxes explain things beside the lesson.)
 - A lesson is built from ALL the books that cover that thing, merged into one
   smallest lesson. NOTHING is cut: when books explain it differently, every
   explanation stays, as examples. A thing only one book has (like a traditional
@@ -345,6 +368,11 @@ liqlearns-courses/
     where they exist, or real art: paintings and pieces that sit in museums,
     art made in that time about that thing. Never a drawing made just to
     explain the lesson. A real piece that truly belongs next to it.
+    (Amendment, his ruling 2026-10-26: for TEACHING pictures inside a
+    lesson — a step-by-step hand diagram, a child growing taller, a chart —
+    a simple drawing IS allowed when no real photo can teach the thing.
+    Real things — animals, places, real people, history — still take real
+    photos or real art.)
 - RELIGION — direction SET, work DEFERRED (2026-10-24): religions come in
   versions — Christianity is almost the same everywhere but different for
   Coptic, Orthodox, Protestant, Catholic and others. Rule: each version gets

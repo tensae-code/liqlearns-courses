@@ -1,6 +1,6 @@
 # The alphabet — the lesson
 
-Course: English · Title: Letter · Lesson: The alphabet
+Course: English · Title: Alphabet · Lesson: The alphabet
 Built from: Libya, English for Libya Pupils Book Grade 1, Unit 1
 "The Alphabet" — and Egypt, English KG1, KG2 and Primary 1
 (the letters and their sounds).

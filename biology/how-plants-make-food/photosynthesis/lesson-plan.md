@@ -66,13 +66,13 @@ A green leaf and sunlight — the lesson starts outside.
      recipe line at its place.
 3. **Remember it like this** — the recipe line itself is the
    lesson's memory hook (lesson/lesson.md, end).
-   - ADD VIDEO: the script in questions/video-script.md, filmed —
+   - ADD VIDEO: the script in video-script.md, filmed —
      the recipe acted with a real leaf in real sun, in the
      super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, short-answer,
    fill-in-the-blank, true-or-false, matching — served at the
-   learner's level and teaching-mix (questions/levels.md).
-5. **Hands-on** — questions/hands-on.md.
+   learner's level and teaching-mix (levels.md).
+5. **Hands-on** — hands-on.md.
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of a real green leaf held to real sunlight (a

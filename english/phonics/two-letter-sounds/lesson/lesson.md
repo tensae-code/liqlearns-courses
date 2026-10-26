@@ -1,6 +1,6 @@
 # Two-letter sounds — the lesson
 
-Course: English · Title: Letter · Lesson: Two-letter sounds
+Course: English · Title: Phonics · Lesson: Two-letter sounds
 Built from: Libya, English for Libya Primary 1 and 2 — and Egypt,
 English Primary 1 Term 2.
 This lesson is ONE thing only: two letters that together make ONE

@@ -1,7 +1,7 @@
 # Lesson plan — Two-letter sounds
 
-**Course:** English · **Title:** Letter · **Lesson:** Two-letter sounds
-**Place in the curriculum:** Year 1, Term 1, Unit 2 "Sounds Together"
+**Course:** English · **Title:** Phonics · **Lesson:** Two-letter sounds
+**Place in the curriculum:** Level 1, Unit 2 "Sounds Together"
 — after Blending sounds (CURRICULUM.md).
 **The one thing this lesson teaches:** two letters that together make
 ONE sound — ch, sh, th — a sound neither letter owns alone.
@@ -49,13 +49,13 @@ Paper and a pencil. A finger to cover letters with.
      the book's words.
 3. **Say it to your companion** — name the two two-job pairs and both
    jobs of each; explain the cover test in your own words.
-   - ADD VIDEO: the script in questions/video-script.md, filmed —
+   - ADD VIDEO: the script in video-script.md, filmed —
      the pairs said one by one with their words, in the super-simple
      voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, short-answer,
    fill-in-the-blank, true-or-false, matching — served at the
-   learner's level and teaching-mix (questions/levels.md).
-5. **Hands-on** — questions/hands-on.md.
+   learner's level and teaching-mix (levels.md).
+5. **Hands-on** — hands-on.md.
 6. **Do It Yourself** — write the pairs in their book sets and say
    each sound three times; find the pair inside spoon · foot · mouth
    · father · queen; mark the hardest pair.

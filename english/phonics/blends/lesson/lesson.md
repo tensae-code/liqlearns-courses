@@ -1,6 +1,6 @@
 # Blends — the lesson
 
-Course: English · Title: Letter · Lesson: Blends
+Course: English · Title: Phonics · Lesson: Blends
 Built from: Egypt, English Primary 1 Term 2.
 This lesson is ONE thing only: two letters at the start of a word,
 where you can hear BOTH sounds, sliding together. It is not the

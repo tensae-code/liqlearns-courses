@@ -2,9 +2,9 @@
 
 **Course:** Pencil and Lines · **Title:** The hand and the line ·
 **Lesson:** Holding a pencil
-**Place in the curriculum:** Before Term 1 of every language course —
+**Place in the curriculum:** Before Level 1 of every language course —
 this course is the recommended prerequisite that comes first
-(English CURRICULUM.md, "Before Term 1").
+(English CURRICULUM.md, "Before Level 1").
 **The one thing this lesson teaches:** the book's five-step grip —
 the pencil resting, not squeezed, in a small chair made of fingers.
 
@@ -60,8 +60,8 @@ A pencil and a table. Nothing else.
      lessons carry hands-on and levels files, no script file — the
      five steps are the script) — the student follows along, step by
      step, pausing the video at each step.
-4. **Hands-on** — questions/hands-on.md.
-5. **Levels practice** — questions/levels.md, tied to the learner's
+4. **Hands-on** — hands-on.md.
+5. **Levels practice** — levels.md, tied to the learner's
    skill number.
 6. **Do It Yourself** — hold the pencil the five-step way and check
    the fingers; put it down and pick it up five times until the hand

@@ -1,6 +1,6 @@
 # Blending sounds — the lesson
 
-Course: English · Title: Letter · Lesson: Blending sounds
+Course: English · Title: Phonics · Lesson: Blending sounds
 Built from: Libya, English for Libya Primary 1 — and Egypt, English
 KG1 / Primary 1.
 This lesson is ONE thing only: pushing letter sounds together until

@@ -25,7 +25,7 @@ letters sources file for the full record).
 | Lesson 2 page — "Listen and say Aa–Gg", and the alphabet strip A–Z (the same page also teaches "Good morning / Good afternoon" — a different lesson: greetings/good-morning-and-good-afternoon) | Libya Pupils G1, PDF p.10 (book p.9) |
 | "Now I can… say the alphabet, say some English words" review page | Libya Pupils G1, PDF p.17 (book p.16) |
 | The SOUNDS way — first letter-sound group s, a, t, p, i, n taught as a set | Libya Pupils G1, PDF p.5 (Book Map, Unit 2 phonics line) |
-| Libya's sounds line for the SINGLE letters (whole book read 2026-10-25): after Unit 1's A–Z, the single letters are re-taught by sound in groups across the year — Unit 2: **s a t p i n** · Unit 3: **c k e h r m d** · Unit 4: **g o u l f b** · Unit 6 adds **z w** · Unit 7 adds **y x** — the single-letter part of the book's 42-sound line (Jolly Phonics order). The two-letter sets in that same line (**ng oo ch sh th ai oa ie ee or qu ou oi ue er ar**) are a different thing and live in letter/two-letter-sounds; the blending of the s a t p i n group into words lives in letter/blending-sounds | Libya Pupils G1, unit contents pages (book pp.17, 29, 41, 53, 65, 77, 89) |
+| Libya's sounds line for the SINGLE letters (whole book read 2026-10-25): after Unit 1's A–Z, the single letters are re-taught by sound in groups across the year — Unit 2: **s a t p i n** · Unit 3: **c k e h r m d** · Unit 4: **g o u l f b** · Unit 6 adds **z w** · Unit 7 adds **y x** — the single-letter part of the book's 42-sound line (Jolly Phonics order). The two-letter sets in that same line (**ng oo ch sh th ai oa ie ee or qu ou oi ue er ar**) are a different thing and live in phonics/two-letter-sounds; the blending of the s a t p i n group into words lives in phonics/blending-sounds | Libya Pupils G1, unit contents pages (book pp.17, 29, 41, 53, 65, 77, 89) |
 | Egypt's order — first sounds Tt (train, toys, turtle) and Ii (in, insect, ink); Unit 2 adds Ss, Aa, Nn | Egypt KG1, contents page, PDF p.3 (read as a picture, 2026-10-25) |
 | The sound of Tt, taught as its own page: "Listen and repeat" — toys, turtle, train; then "Let's trace letter Tt" (+ t inside train, toys) | Egypt KG1, book pp.8–9 (read as pictures, 2026-10-25) |
 | The sound of Ii: insects, ink, in; trace Ii (+ i inside ink, in); then "It's Practice Time! Circle the beginning letter" (Tt or Ii) | Egypt KG1, book pp.13–15 (read as pictures, 2026-10-25) |
@@ -166,7 +166,7 @@ blends and short-vowel word families:
   families (Units 3–5). Those rows used to sit here marked
   "Word-step material." They are different things from the alphabet,
   and they now live, in full, in their own lessons:
-  letter/blends and letter/word-families. They remain filed in full
+  phonics/blends and phonics/word-families. They remain filed in full
   in the Egypt book map as well.
 
 Same country (Egypt) in every Egypt book above — the count below does
@@ -183,7 +183,7 @@ dots and one word. The word list mostly repeats Grade 1's, with
 three new choices — **girl** (g), **house** (h), **dog** (d) —
 and Unit 2 (book pp.19, 25–26) re-teaches the two-letter sounds
 oa · ee · ue · oo (both) · th (both) · ch · sh with the same
-words — those pairs are filed in letter/two-letter-sounds, whose
+words — those pairs are filed in phonics/two-letter-sounds, whose
 spiral this is. Same country, second book: the count below does not
 change, but Libya's layer is now a *spiral* — taught in Grade 1,
 re-taught in Grade 2 — which is how the course itself says a

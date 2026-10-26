@@ -2,7 +2,7 @@
 
 **Course:** English · **Title:** Conversation · **Lesson:** Hello and
 your name
-**Place in the curriculum:** Year 1, Term 1, Unit 4 "Conversation" —
+**Place in the curriculum:** Level 1, Unit 4 "Conversation" —
 the first lesson of that unit (CURRICULUM.md).
 **The one thing this lesson teaches:** how a greeting goes — hello
 opens it, names go in the middle, goodbye closes it.
@@ -67,13 +67,13 @@ no book, no tools.
 4. **Say it to your companion** — read the talk aloud in both parts,
    then again with the learner's own name; explain the three parts
    back to the companion.
-   - ADD VIDEO: the script in questions/video-script.md, filmed —
+   - ADD VIDEO: the script in video-script.md, filmed —
      two children acting the whole greeting in the super-simple
      voice — the student watches once, then acts it along with them.
 5. **Questions** — from questions/: multiple-choice, short-answer,
    fill-in-the-blank, true-or-false, matching — served at the
-   learner's level and teaching-mix (questions/levels.md).
-6. **Hands-on** — questions/hands-on.md.
+   learner's level and teaching-mix (levels.md).
+6. **Hands-on** — hands-on.md.
 7. **Do It Yourself** — greet a real person today, twice; then write
    the five sentences, one on each line (lesson/lesson.md, end).
 

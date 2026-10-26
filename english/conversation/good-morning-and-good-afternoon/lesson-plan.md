@@ -2,7 +2,7 @@
 
 **Course:** English · **Title:** Conversation · **Lesson:** Good morning
 and good afternoon
-**Place in the curriculum:** Year 1, Term 1, Unit 4 "Conversation"
+**Place in the curriculum:** Level 1, Unit 4 "Conversation"
 (CURRICULUM.md).
 **The one thing this lesson teaches:** the greeting changes with the
 time of day — "Good morning" before midday, "Good afternoon" after.
@@ -54,13 +54,13 @@ A clock or the sky. One person to greet, or the explain companion.
 3. **Say it to your companion** — it is 9 in the morning: what do you
    say? It is 3 in the afternoon: what do you say? Explain why the
    greeting changed and the door did not.
-   - ADD VIDEO: the script in questions/video-script.md, filmed —
+   - ADD VIDEO: the script in video-script.md, filmed —
      the same door greeted at two times of day, in the super-simple
      voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, short-answer,
    fill-in-the-blank, true-or-false, matching — served at the
-   learner's level and teaching-mix (questions/levels.md).
-5. **Hands-on** — questions/hands-on.md.
+   learner's level and teaching-mix (levels.md).
+5. **Hands-on** — hands-on.md.
 6. **Do It Yourself** — tomorrow, greet the first person you meet
    with the right greeting for that moment; after midday, greet
    someone with "Good afternoon"; write both down with their times.
