@@ -520,3 +520,11 @@ translation both ways as an examined skill — and the year
 carries a NOVEL: an adapted Old Man and the Sea with a
 per-chapter study apparatus (values, idioms, fifty
 questions a chapter), examined inside every Review.
+
+**Stocked by Egypt Secondary 10 Term 2:** deduction modals
+(must/can't/might + have-forms); been to vs gone to; three
+future forms compared; reported speech completed at
+Secondary depth; new writing kinds — personal journal,
+argumentative essay, poster, recipe blog, travel journal.
+Secondary 10 complete; the year's novel runs to twelve
+chapters across the two terms.

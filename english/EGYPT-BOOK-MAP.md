@@ -6970,3 +6970,114 @@ SECONDARY 10 TERM 1 FULLY READ — 2026-10-26
 Egypt set: 21 of 26. Still owed: Secondary 10 Term 2,
 Secondary 11, Secondary 12 (the remaining 5 of the 26-book
 Egypt set).
+
+## Secondary 10 Term 2 — English (Student's Book, with the Novel's second half bound in)
+
+*Filed basics-only (the new pass, from 2026-10-26): what the
+book teaches and where — no transcribed texts.*
+
+Source: MoE host, 2026/Secondry/Secondry1/Term2/StudentBook/
+English_Sec1_Tr2.pdf (6,204,790 bytes, 128 pp., real text
+layer). Like Term 1, one PDF binds the Student's Book
+(pp.1–98) and the year's novel (pp.99–127); credits p.128.
+Cover: "Secondary Schools - Year One - Term 2 — 2025-2026."
+Units continue the year: U7 The Daily Beat of Different
+Lands p.11 · U8 Building Bridges with Words p.24 · U9
+Building a Better Future p.36 · Review 3 p.48 · U10 Shopping
+and Money p.53 · U11 Food & Culture p.65 · U12 People and
+Places p.79 · Review 4 p.94. Same five-lesson Secondary
+shape, same exam-shaped Reviews (A–F, translation both
+ways, F. The Novel), writing stays 120–150 words. Start
+Smart (pp.9–10) reviews Term 1 around its reading on
+teenagers, other cultures, and future careers.
+
+**Grammar boxes (Language in Context, all in L3):**
+- U7 Past Simple + Past Perfect (p.16): past perfect = had
+  + past participle, used with after/before/until/when/as
+  soon as to show the order of past events — past perfect
+  for the action that happened first, past simple for the
+  one that happened later.
+- U8 Present Simple + Past Simple by uses (p.29): present
+  simple for usually-true situations, habits with frequency
+  adverbs, timetables, and after-time clauses; past simple
+  for completed and successive actions and for past habits.
+- U9 Present Perfect in full (p.41): started in the past
+  and continued till now (since/for); very recent (just);
+  not yet happened (never/yet); experience questions
+  (ever/never) — plus the **been to / gone to** distinction
+  (been = went and returned; gone = went and is still
+  there), new in the run. Past simple contrasted.
+- U10 Future Forms compared (p.58): will + infinitive
+  (guessed predictions, future facts, quick decisions,
+  offers) vs going to (own plans; predictions with
+  evidence) vs present continuous (arrangements fixed with
+  others, with time/place). The run's fullest future
+  statement.
+- U11 Reported Speech — statements and questions together
+  (p.71): tenses move one step back; "told" + addressee
+  instead of "said to" ("that" optional); asked/inquired/
+  wanted to know for questions; if/whether for yes–no
+  questions; pronouns and time words shift. Completes the
+  Prep 9 line at Secondary depth.
+- U12 Modal Verbs of Possibility (p.85): must (sure it is
+  so), can't (sure it is not possible), might (not sure) —
+  each with its past form (must have / can't have / might
+  have + past participle) for deductions about the past.
+  New in the run.
+- Used but never boxed: the U7 journal task requires at
+  least two Present Perfect Continuous sentences (the model
+  journal uses the tense); no box states its form anywhere
+  in the Egypt run.
+
+**Writing kinds taught (all L5):** the PERSONAL JOURNAL
+(U7, pp.21–22 — defined as a private, informal, honest
+record of experiences/feelings/goals/lessons, with a
+features box: first person, flexible structure, feelings
+over arguments) · the BLOG POST restated (U8, p.34 —
+friendly tone, greeting, personal experience, closing
+reflection) · the ARGUMENTATIVE ESSAY (U9, pp.45–46 —
+opinion + reasons + examples to convince; structure:
+introduction stating the opinion, body paragraphs of
+reasons, conclusion restating it; with Useful Expressions
+for opinion/reasons/examples/concluding) · the POSTER as a
+taught kind (U10, pp.62–63 — plan/organize/language/design
+boxes, a plan→draft→improve→check process, and an
+assessment checklist) · the RECIPE BLOG (U11, pp.76–77 —
+defined; a 9-point structure from catchy title to closing
+invitation; cooking verbs and sequencing words) · the
+TRAVEL JOURNAL (U12, p.91 — dated first-person model;
+tips: sensory details, reflection over facts).
+
+**The Novel, second half (pp.99–127).** The adaptation
+CONTINUES past Hemingway's ending with six chapters written
+for this book (summary only): Ch.7 "The Return Home" —
+Santiago brings the mast up the shore; tourists marvel at
+the skeleton; he sleeps and dreams of lions · Ch.8 "The
+Boy's Promise" — Manolin tends his hands and promises that
+from tomorrow they fish together · Ch.9 "Lessons by the
+Shore" — Santiago teaches the boy knots and the fisherman's
+lessons (values page: teamwork, respect for nature's
+power) · Ch.10 "Back to the Sea" — they fish as partners;
+the boy learns to let a fish tire itself · Ch.11 "The
+Dream of Lions" — the boy hooks and fights his own great
+fish under Santiago's coaching · Ch.12 "A New Beginning" —
+the boy lands his fish; Santiago understands the lions now
+belong to the boy as well — skill and dream pass to the
+next generation. Chapter Questions (pp.118–127): per
+chapter — word matching, fill-in-the-gap, MCQs (lighter
+than Term 1's five-part apparatus). Reviews 3–4 examine
+these chapters in "F. The Novel."
+
+Back page (p.128): GPS Publishing; the same seven
+reviewers; CACD team: Eman Mahmoud Youssef, Amira Fawzy
+Ahmed, Hassan Ramadan Ibrahim, Shaimaa Salah El Din Afify
+(Ghada El Sayed Mohamed out, from Term 1); supervision
+Dr. Akram Hassan Mohammed. Spec: 27 × 19 cm, 70 g, 180 g
+couché, 4 colours, **128 pages — matches this PDF** (Term
+1's printed 112 was the slip). No ISBN/deposit.
+
+SECONDARY 10 TERM 2 FULLY READ — 2026-10-26 —
+SECONDARY 10 COMPLETE
+
+Egypt set: 22 of 26. Still owed: Secondary 11, Secondary 12
+(the remaining 4 of the 26-book Egypt set).
