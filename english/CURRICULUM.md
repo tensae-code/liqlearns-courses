@@ -420,3 +420,25 @@ simple for details and history). Writing length steps up to
 what they did, why they are important). The chaptered-story
 form settles: one story per half-term, three chapters, one
 chapter per unit.
+
+**Stocked by Egypt Preparatory 8 Term 2 — Year Two
+completed:** unit numbering runs on across the year (7–12,
+Reviews 3–4). The past perfect joins the tenses (had + past
+participle, for the earlier of two past actions, with
+before / after / because / by the time), taught inside
+storytelling; imperatives are boxed (base form, no subject;
+Don't + infinitive for the negative); the connectors finish
+their build-out — contrast in form-and-usage form (but
+inside one sentence, however opening a new sentence with a
+comma, while for two simultaneous ideas) and cause & effect
+as its own set (because / since for the reason; so /
+therefore / as a result for the result). The story kinds are
+defined by the books themselves — folktale and fairy tale —
+with story elements named (beginning, problem, climax,
+ending). Writing kinds grow again: the report, the
+study-tips poster (advice + reason per tip), the story
+ending, the diary entry (greeting, day sections, feelings,
+closing), and the save-the-earth poster; a peer-check step
+joins the writing lessons. The chaptered story reaches its
+longest form: one real classic, The Jungle Book, across a
+whole term — six chapters, one per unit.

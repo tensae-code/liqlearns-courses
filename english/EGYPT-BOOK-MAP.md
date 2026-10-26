@@ -5585,3 +5585,284 @@ PREPARATORY 8 TERM 1 FULLY READ — 2026-10-26
 Egypt set: 17 of 26. Still owed: Preparatory 8 Term 2,
 Preparatory 9, Secondary 10–12 (the remaining 9 of the
 26-book Egypt set).
+
+---
+
+## Egypt — Preparatory 8 Term 2 (English, Student's Book)
+
+Source: downloaded direct from the Egypt MoE e-learning host,
+2026/Prepratory/Prepratory2/Term2/StudentBook/English_prep2_Tr2.pdf
+— the lowercase "prep2" stem is the live one (ten other stem and
+year variants 404; the textbooks record's own release filename,
+egypt-grade-08-English_prep2_Tr2.pdf, is what gave the stem
+away). 204,271,884 bytes; Last-Modified 17 Jan 2026 — the
+ministry's raw file (Creator Adobe InDesign 17.3, Producer
+Adobe PDF Library 16.0.7), taken per the edition rule.
+112 pages. This book has NO text layer (pdftotext yields
+nothing); it was read visually, all 112 pages. Printed folio =
+PDF page throughout.
+
+Identity: cover "ENGLISH — Preparatory Schools - Year Two -
+Term 2 — 2025 - 2026 — Student's Book." Ministry message p.3 =
+the same Preparatory-framework variant. Front-matter order
+differs from Term 1: Scope and Sequence pp.4–6, Lesson
+Components pp.7–9, Contents p.10, Start Smart pp.11–12. UNIT
+NUMBERING CONTINUES THE YEAR: U7 My School Life p.13 · U8
+Learn Smart, Learn Easy p.26 · U9 Jobs & Skills p.39 · Review
+3 p.53 · U10 Storytelling p.56 · U11 Life in the Desert p.69 ·
+U12 Our Incredible Earth p.84 · Review 4 p.100 · Audioscripts
+pp.103–105 · Notes pp.106–111.
+
+UNIT SHAPE: the Term 2 shape — L1 reading, L2 listening +
+Language in Use, L3 reading, L4 Story Time, L5 "Let's Talk"
+(dialog + Conversation Tip + role-play), L6 writing; units end
+at the Assessment Corner (no Self-Reflection page in Term 2).
+Writing tasks stay 90–100 words. A PEER CHECK step appears in
+the writing lessons (partners exchange work and check against
+a printed list). Start Smart (pp.11–12) reviews Term 1: a
+generations dialog, a technology-safety reading, and a
+90–100-word social media post about a tourist place visited.
+
+GRAMMAR SPINE — one new tense, the rest gathering and
+deepening:
+- U7: IMPERATIVES boxed (Tip p.17): imperatives give orders,
+  instructions, or advice; the base form of the verb without a
+  subject; the negative is "Don't + infinitive." With it,
+  Should & Shouldn't for giving advice (should = a good idea,
+  shouldn't = a bad idea) restated as a pair.
+- U8: CONTRAST CONNECTORS in full form-and-usage form (Tip
+  p.30): BUT joins two clauses in one sentence (direct
+  contrast); HOWEVER starts a new sentence, is more formal
+  than "but," and is always followed by a comma; WHILE shows
+  contrast between two simultaneous ideas and can start a
+  sentence or come in the middle. The connectors line deepens:
+  cause/result/contrast (Prep 7 T1) → but added to the
+  contrast side (Prep 8 T1) → this form-and-usage treatment.
+- U9: CAUSE & EFFECT (Tip p.43): because / since show the
+  reason; so / therefore / as a result show the result.
+- U10: the PAST PERFECT, NEW in the run (Tip p.60): form had +
+  past participle; used for an action that happened before
+  another past action or time; its common connectors are
+  before, after, because, and by the time. Taught inside the
+  storytelling unit, for sequencing story events.
+- U11: Past Simple and Past Continuous restated WITH FORMS
+  (Tip p.73): past simple = subject + verb(-ed) / irregular
+  past form, for finished actions and sequences of events;
+  past continuous = subject + was/were + verb(-ing), for
+  actions in progress and background situations; Combined Use:
+  the past continuous is the background, the past simple is
+  the interrupting action. The fullest statement of the pair
+  in the run.
+- U12: the PRESENT PERFECT restated with form and three uses
+  (Tip p.89): have/has + past participle — experiences in life
+  (without saying exactly when); actions that started in the
+  past and continue until now; recently completed actions
+  (often with "just," "already," or "yet" — the "yet" sits in
+  this third line as printed).
+
+STORY-KIND DEFINITIONS — this term names the kinds themselves:
+a FOLKTALE is a traditional story passed from one generation
+to another, usually teaching a moral or lesson through simple
+characters like farmers, animals, or children (Tip, U10 L2,
+p.59); a FAIRY TALE is a short story that includes magic,
+imaginary characters such as fairies, giants, or talking
+animals, often begins with "Once upon a time" and ends with
+"Happily ever after," and usually teaches a moral or lesson
+(Tip, U10 L3, p.61). Story elements are named on the U10
+opener: Beginning, Problem, Climax, Ending.
+
+UNIT BY UNIT:
+- U7 My School Life (pp.13–25): L1 "School Rules" reading
+  (dress code, behavior rules, library rules — must/should in
+  the text itself). L2 "My School Day" listening (a spoken set
+  of school-day advice; script p.103) + the imperatives Tip.
+  L3 "Staying Organized with a School Timetable" article. L4:
+  The Jungle Book Ch.1. L5 Let's Talk: Ahmed and Mahmoud plan
+  changes to the school rules and timetable (Conversation Tip:
+  phrases for giving advice, agreeing politely, making a
+  plan). L6 writing: a SCHOOL REPORT (90–100 words) — the
+  report kind, with a Writing Tip (title; introduction;
+  paragraphs, each about one idea; time words; a conclusion
+  with your opinion or feeling).
+- U8 Learn Smart, Learn Easy (pp.26–38): L1 "Can Games Make
+  You Smarter?" reading. L2 listening: an interview with the
+  teacher Mrs. Manal on making learning fun (script
+  pp.103–104) + the contrast-connectors Tip. L3 "Singing,
+  Stories, and Smart Learning" reading. L4: The Jungle Book
+  Ch.2. L5 Let's Talk: Samir and Maher trade study methods,
+  plus a group debate (Books vs Games vs Videos vs Comics)
+  with sample arguments printed for each team. L6 writing: a
+  STUDY TIPS POSTER with a Poster Structure Tip (Title; three
+  tips, each [Advice] + [Reason]; "Remember:" — a final
+  encouraging message).
+- U9 Jobs & Skills (pp.39–52): L1 "Job Profiles" — a JOB
+  PROFILE defined in the text (a short but clear description
+  of a person's work, skills, and responsibilities; a guide
+  that helps employers and employees understand what is
+  expected in a role) with a Job Profile Tip (use the present
+  tense to describe what the person does). L2 "Workers'
+  Stories" listening: four workers speak (Ali the bus driver,
+  Samir the mechanic, Hassan the chef, Rana the journalist;
+  script p.104) + the cause & effect Tip; a synonym/antonym
+  table is worked from a dictionary in this lesson. L3
+  "Career Advice" reading. L4: The Jungle Book Ch.3. L5 Let's
+  Talk: Sara and Lina on interests, values, and job choice.
+  L6 writing: a paragraph (90–100 words) about a future job,
+  with a Useful Language Phrases Tip (describing interests;
+  explaining reasons; future expressions; giving examples)
+  and a Peer Check list.
+- Review 3 (pp.53–55): U7–U9 — a games listening (script
+  p.104), a healthy-habits paragraph, a Study Tips poster
+  task, and "The Story" questions on The Jungle Book.
+- U10 Storytelling (pp.56–68): L1 "Salma's Treasure," a short
+  story (summary in the story note). L2 "Folktales from
+  Around the World" listening (the farmer-and-the-bird
+  folktale; script p.104) with the Folktale Tip + the past
+  perfect Tip; speaking = retelling a story in five sentences
+  with the time connectors first, then, after that, finally.
+  L3 "Story Structures": Cinderella retold (summary in the
+  story note) with the Fairy Tale Tip. L4: The Jungle Book
+  Ch.4. L5 Let's Talk: Salma and Yomna choose stories to tell
+  the class ("The Lion and the Mouse"; "The Seven Voyages of
+  Sinbad the Sailor" — named, not retold). L6 writing:
+  WRITING A STORY ENDING, with a model story read by its
+  sections (beginning / middle / ending) and a Useful
+  Language Tip (describing feelings; showing cause & effect;
+  adding twists; wrapping up). Assessment writing: a story of
+  90–100 words.
+- U11 Life in the Desert (pp.69–83): L1 "Desert Communities"
+  (the Bedouin nomadic lifestyle; the Hopi people's
+  irrigation; modern desert towns conserving water and using
+  solar energy). L2 "Desert Survival Stories" listening —
+  three first-person accounts (Sarah, lost in the Sahara for
+  two days; Ahmed the desert guide, whose jeep broke down 50
+  miles from town; Mariam the researcher, caught by a
+  sandstorm; scripts pp.104–105) + the past-tense pair Tip.
+  L3 "Desert Wildlife" (adaptations defined in the matching:
+  changes that help living things survive; the fennec fox,
+  camels storing fat in their humps, cactus and aloe storing
+  water — note the reading says camels store FAT in their
+  humps; the lesson's own true/false still tests "Camels
+  store water in their humps" as a statement to judge). L4:
+  The Jungle Book Ch.5. L5 Let's Talk: Nora and Soha compare
+  desert life and city life beside a printed compare chart,
+  then a class debate ("Desert life is better than city
+  life"). L6 writing: A DESERT DIARY entry (90–100 words) —
+  the diary kind, with a Diary Entry Structure Tip (Greeting:
+  Dear Diary; Opening; Morning / Daytime / Evening sections;
+  Feelings; Closing with future plans) and sensory detail
+  (what you saw, heard, felt, smelled) required.
+- U12 Our Incredible Earth (pp.84–99): L1 "Earth Facts"
+  (Earth is about 4.5 billion years old; the Sahara is so huge
+  astronauts can see it from space; the Amazon rainforest is
+  "the lungs of the Earth"; Mount Everest; gravity holds the
+  atmosphere in place; humans have explored only about 5% of
+  the oceans). L2 "Natural Wonders" listening interview (the
+  Grand Canyon, the Amazon, deep oceans, Son Doong Cave,
+  bioluminescent beaches in the Maldives, Iceland's
+  volcanoes, Antarctica's icebergs; script p.105) + the
+  present perfect Tip. L3 "Environment Reports" reading
+  (deforestation, endangered species, recycling, solar
+  panels). L4: The Jungle Book Ch.6 — the story ends. L5
+  Let's Talk: a reporter interviews an environmental expert,
+  with a Conversation Tip for organising environmental talk
+  (state the problem; suggest solutions; explain the reason;
+  end with a positive message). L6 writing: a "SAVE THE
+  EARTH" POSTER, with a Writing-a-Poster Tip (a short, clear,
+  catchy title; short sentences and action words; colours,
+  pictures, and clear spacing; a slogan or call to action).
+- Review 4 (pp.100–102): U10–U12 — an environment listening
+  (script p.105), a desert reading, "The Story" questions on
+  The Jungle Book's ending, and a "Saving Energy" paragraph
+  (90–100 words).
+
+STORY (summary only): ONE story across the whole term — "The
+Jungle Book" by Rudyard Kipling, adapted, six chapters, one in
+every unit's Story Time lesson, with an author introduction in
+Ch.1 (Kipling 1865–1936, born in India; The Jungle Book 1894;
+the first English writer to win the Nobel Prize in Literature,
+1907). Ch.1 "Founding in the Jungle" (U7, p.20): a baby boy
+wanders from his village and is found by Father Wolf and
+Mother Wolf; Shere Khan the tiger demands the child; Mother
+Wolf defies him; Baloo the bear and Bagheera the panther
+support her, Bagheera offering a freshly killed ox; the
+child, named Mowgli ("little frog"), joins the Seeonee wolf
+pack, and Shere Khan swears he will destroy the man-cub one
+day. Ch.2 "The Law of the Jungle" (U8, p.33): Baloo trains
+Mowgli in the Law of the Jungle and Bagheera teaches hiding,
+climbing, and self-defense; the Bandar-log monkeys kidnap
+Mowgli with false promises; Baloo and Bagheera enlist Kaa the
+python, and together they rescue him — Mowgli learns that not
+all who call themselves friends can be trusted, and that true
+friendship is loyalty and respect. Ch.3 "The Secret of Fire"
+(U9, p.46): Shere Khan whispers lies to the pack; Bagheera
+warns Mowgli that men have one power the jungle fears —
+fire; Mowgli steals a pot of burning coals from the village
+and, at the wolf council, reveals the fire and drives Shere
+Khan back — but he is sad, because many wolves no longer see
+him as one of their own. Ch.4 "Mowgli's Final Confrontation"
+(U10, p.63): Shere Khan sets a trap, driving cattle toward
+Mowgli; brave and resourceful, Mowgli turns the plan against
+the tiger with fire and cunning, trapping him in a narrow
+pass, where the tiger is crushed and finally defeated;
+Mowgli feels both victory and sadness, decides to leave the
+pack, and the chapter marks the end of his childhood. Ch.5
+"Mowgli in the Human Village" (U11, p.77): Mowgli enters the
+human village; the people feed and house him, but many doubt
+him and whisper that he is dangerous or cursed; he protects
+the village's cattle from predators and learns more about
+fire and tools, yet longs for the open forest and the honesty
+of the Law — caught between doubt from men and rejection from
+wolves, he feels isolated, and his greatest challenge is no
+longer Shere Khan. Ch.6 "Mowgli's Life Balance" (U12, p.93):
+over time Mowgli accepts that he belongs to both worlds; he
+returns often to the jungle, where Baloo, Bagheera, and his
+wolf brothers welcome him as family, and he defends the
+jungle against hunters and the villagers against wild animals
+— a bridge between man and nature; the book's own closing
+says the story ends not with Mowgli choosing one world over
+the other, but with him welcoming both.
+Also in U10: "Salma's Treasure" (L1) — Salma opens an old
+wooden box and finds a faded letter her grandfather wrote to
+her mother decades earlier, wishing her a life of courage,
+kindness, and strong hope; the letter itself is the treasure,
+kept for generations. The L2 folktale (script p.104): a kind,
+poor farmer frees a small bird trapped in a net; the bird
+becomes a young man who stays and works the farm in
+gratitude, asking only that the farmer never ask about his
+past; the farmer promises — but one day curiosity wins, he
+asks, and the young man sadly leaves forever; the lesson the
+farmer learns is to keep his promise. Cinderella (L3) is
+retold in short form: the kind girl, the cruel stepmother and
+two unkind stepsisters, the kind fairy's gifts (a dazzling
+dress, glass slippers, a pumpkin turned golden carriage,
+mice turned horses), the royal party, the midnight flight and
+the lost slipper, the prince's search, the marriage — her
+kindness finally rewarded with love and happiness.
+
+BACK PAGE (p.112): GPS Publishing and Printing Company, as
+through the Prep run. Reviewed by the same seven: Prof.
+Zeinab El-Naggar, Prof. Attia El-Sayed, Dr. Mai Kamal, Mr.
+Reda Shalby (spelled "Shalby" here; Term 1 printed
+"Shalaby"), Mr. Mohamed Gomaa, Mr. Mostafa Zaghlol, Mr. Ayman
+Elsayed. CACD team CHANGES from Term 1: Ms. Eman Mahmoud
+Youssef, Dr. Amira Fawzy Ahmed, Mr. Maher Abd El Raouf (in),
+Dr. Shaimaa Salah El Din Afify — Mr. Mohammed Ibrahim Osman
+is out. General supervision Dr. Akram Hassan Mohammed. A Misr
+Printing Company mark joins the GPS / British Council / CACD
+marks. Print spec (Arabic table): 27 × 19 cm, interior 70 g,
+cover 180 g, 4 colours + 4 colours, stapled — and the page
+count reads 116 AGAINST the PDF's 112 (the same slip as Prep
+7 Term 2's back page); a book number is printed in Arabic-
+Indic numerals. Audioscripts pp.103–105; Notes pp.106–111 are
+blank ruled pages.
+
+Filing note: map + curriculum note only — the book's one new
+tense (the past perfect) and its story-kind definitions join
+their lessons when built; no built lesson's sources change.
+
+PREPARATORY 8 TERM 2 FULLY READ — 2026-10-26 — PREPARATORY 8
+COMPLETE
+
+Egypt set: 18 of 26. Still owed: Preparatory 9, Secondary
+10–12 (the remaining 8 of the 26-book Egypt set).
