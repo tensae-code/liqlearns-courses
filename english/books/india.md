@@ -759,24 +759,286 @@ passed as recorded above)
 
 ## Class 4 — Marigold Book Four (Textbook in English for Class IV)
 
-NCERT, first edition February 2007; 2020-21 printing;
-ISBN 81-7450-677-2. Same copy route.
+NCERT, first edition February 2007; this copy the
+2020-21 printing; ISBN 81-7450-677-2 as listed.
+Read in full, page by page, 2026-10-26, from the
+Internet Archive's copy of NCERT's own chapter
+files. NINE units — Unit 7 carries three pieces.
 
-NINE units this year (Unit 7 carries three pieces);
-poem + story shape as before, the stories growing
-longer (two are classics in adapted form).
+SHAPE: same Marigold machine, one notch harder.
+Poem + story per unit (Unit 4's story is Alice in
+Wonderland; Unit 7's is a PLAY of The Giving Tree),
+numbered Reading is fun questions now including
+tick-the-answer sets, and Word building that teaches
+real systems: and/but joining, degrees of comparison
+in tables, was/were, un-/im-/dis-/in- opposites,
+-ful/-ly/-ish/-ness/-ity suffixes, -er agent words,
+punctuation and capital-letter rewriting of whole
+passages. The Teacher's page per unit now runs Warm
+up / Reading time / Sharing time / Writing time /
+Creative time / Language corner / Environment, and
+Unit 9's carries an ASSESSMENT grid (observation
+areas: warm up, listening, reading, sharing,
+creative, language corner, environment).
 
-- U1 Wake up! · Neha's Alarm Clock
-- U2 Noses · The Little Fir Tree
-- U3 Run! · Nasruddin's Aim
-- U4 Why? · Alice in Wonderland
-- U5 Don't be Afraid of the Dark · Helen Keller
-- U6 Hiawatha · The Scholar's Mother Tongue
-- U7 A Watering Rhyme · The Giving Tree · The Donkey
-- U8 Books · Going to buy a Book
-- U9 The Naughty Boy · Pinocchio
+- U1 Wake up! (poem, C. Fletcher — "It's much too
+  late to lie in bed, / So hurry up, you sleepy
+  head") · Neha's Alarm Clock (a NARRATED PLAY,
+  adapted from Girija Rani Asthana: the alarm falls,
+  then the birds wake her, then the Sun, then mother
+  — and at last her own BODY CLOCK: "There is a clock
+  inside you which tells you when to eat, when to
+  sleep and when to wake up"; the twist: "RELAX!
+  Today is Sunday!"). New words (lovely, buzzing,
+  sleepy head, tiniest; snuggles, mutters, window
+  sill, relax). The work: AND/BUT joining of sentence
+  pairs; DEGREES in a table (tiny, tinier, tiniest;
+  big, bigger, biggest; late, later, latest; sleepy,
+  sleepier, sleepiest; small, smaller, smallest;
+  lovely, lovelier, loveliest; good, better, best);
+  WAS/WERE fills (Ram ___ a good football player; The
+  cows ___ grazing; My toys ___ broken); a paragraph
+  completed with pulled out, inside, called out,
+  behind, under; "Betty bought a bit of butter"
+  tongue twister; word webs for clock and morning.
+- U2 Noses (poem, Aileen Fisher — the nose "like a
+  handle, sticking there," with "two little holes
+  where the breathing goes") · The Little Fir Tree
+  (story: Shetty the magician grants four wishes;
+  green leaves eaten by a goat, gold leaves stolen by
+  a man, glass leaves shattered by the wind — the
+  tree wishes its own needles back: "I never was so
+  happy"). New words (mirror, funniest, breathing,
+  sticking, giggle; pretty, needles, leaves, gold,
+  stole). The work: PUNCTUATION of a whole unpunctuated
+  passage ("mother father neelam said i have got a
+  fire engine…"); CAPITAL-LETTER rewriting of two
+  passages; opposites by adding UN or IM (unhappy,
+  unseen, unhealthy, unsafe, unlucky; impolite,
+  imperfect, improper, impatient, impossible, impure,
+  unimportant…); sentences rewritten by swapping a
+  word for its opposite (light→heavy, won→lost,
+  love→hate, full→empty, wise→foolish); the DICTIONARY
+  introduced as a tool ("What does 'features' mean?
+  Look up the dictionary"); face words (long, round,
+  oval, slanted, sharp, flat); a five-senses fruit
+  description; is/are in the Language corner.
+- U3 Run! (poem — "AWAY from the city / And into the
+  sun, / Out to the country, / Run! Run! Run!") ·
+  Nasruddin's Aim (story: three arrows — the misses
+  are "Azad's aim" and "the chief guard's aim"; the
+  bull's-eye: "Did you see that? It was my aim!").
+  New words (chatting, archery, string, target,
+  defending, amazement, triumphantly). The work:
+  picture questions written and answered in present
+  continuous (What is Mohan practising? He is…; What
+  are Anil and his friends pulling?); the child MAKES
+  one more question per picture (how many, what are,
+  where are/is, how, why); ee/ea spelling fills;
+  meaning-matching from a "quiver" of definitions;
+  a paragraph from clues (Rahul Gupta: Indian,
+  cricket, eight hours, practises, eats healthy food,
+  runs two kilometres, batsman); a SPORTS GRID (game,
+  played with, played where, number of players) and
+  sports words sorted (googly, LBW — cricket; goal,
+  penalty, free kick — football; penalty corner —
+  hockey/football); -ing words as the Language corner.
+- U4 Why? (poem — the curious boy: "Why this, why
+  that, why then, why now?"; some whys "no one ever
+  yet / Has found the reason why") · Alice in
+  Wonderland (adapted from Lewis Carroll: the white
+  rabbit with pink eyes and a watch, the fall, the
+  fifteen-inch door, the golden key, the lovely
+  garden beyond). New words (curious, lead, marble,
+  sink, reason; scamper, hurried, popped, disappeared,
+  whiskers). The work: jumbled spellings set right
+  (wokn/know, wism/swim, dael/lead, blarme/marble,
+  llihs/hills); "why" questions written by the child;
+  ONE-WORD-FOR phrases found in the story (to walk
+  fast = scamper, to think = wonder, to be inquisitive
+  = curious…); synonyms AND opposites with sentences
+  (lovely, talking/listening, see, centre);
+  Alice's questions REBUILT from jumbled words with
+  the question mark added ("talk rabbit a how can"
+  → Can a rabbit talk?). Teacher's page: "Use of
+  dictionary in the classroom is very important."
+- U5 Don't be Afraid of the Dark (poem, Ruskin Bond
+  — "Be friends with the Night, there is nothing to
+  fear"; "at night, late at night, the world is at
+  peace") · Don't Give Up (extra poem: "Life is full
+  of mountains… if you don't give up / You can
+  overcome them all") · Helen Keller (BIOGRAPHY: born
+  Alabama, summer of 1880; the fever leaves her blind
+  and deaf; Miss Sullivan spells D O L L into her
+  hand, then W A T E R at the running water — "words
+  were the most important things in the world. Words
+  would tell her everything she wanted to know").
+  New words (dearly, illness, agreed, important).
+  The work: COMPOUND WORDS built (moon+light,
+  break+fast, good+night, day+break, water+fall,
+  rain+bow); full forms (won't = will not; didn't,
+  shouldn't, wouldn't, couldn't, mustn't); sentence
+  halves joined with BUT; the FREQUENCY CHART —
+  always, often, sometimes, never — ticked for eight
+  habits (obey parents, visit grandparents, help
+  others, throw waste in the dustbin, switch off
+  lights, leave the tap on, tear pages); sign-language
+  hand letters again, and Braille asked by name
+  ("What is the script for children who cannot see
+  called?"); homophone pairs in sentences (two/too,
+  one/won, dear/deer, sun/son); t/k sound-feeling
+  exercises.
+- U6 Hiawatha (poem extract, H.W. Longfellow — the
+  child of Nokomis who "Learned of every bird its
+  language," called the birds "Hiawatha's Chickens"
+  and the beasts "Hiawatha's Brothers") · The
+  Scholar's Mother Tongue (Akbar–Birbal story: the
+  Pundit no one could place; Birbal tickles the
+  sleeping man's ear with a feather, and the shout
+  comes out in Telugu — "In times of difficulty, a
+  person speaks only in his mother tongue"). New
+  words (wigwam, beavers, acorns, reindeer, timid;
+  mother tongue, challenged, tickled, irritated).
+  The work: ALLITERATIVE pairs (a describing word +
+  a naming word: Happy Hiawatha, hungry hippopotamus,
+  high horse, heavy hand); whenever/whoever/wherever
+  matching; two stories COMPLETED with my, his, he,
+  your (Ram and the three thieves; the crow and the
+  fox); homophone CHOICE in sentences (bow/bough,
+  tail/tale, too/two, right/write, hear/here,
+  no/know, thrown/throne, principal/principle);
+  -ED PRONUNCIATION — "We say: I learnt my lesson
+  (action word). But: A learn-ed pundit came (describing
+  word)" — pronounced learn-id, rhyming with created,
+  waited; words ending in the id sound ticked
+  (accepted, irritated, completed, challenged…);
+  ADVERB column pairs (quiet/quietly, fluent/
+  fluently, angry/angrily, sad/sadly, fierce/fiercely,
+  gentle/gently); who-has-whom matching (king–
+  courtiers, teacher–students, doctor–patients, bus
+  driver–passengers, lawyer–clients, mother–
+  children); a LANGUAGES-OF-INDIA crossword (Oriya,
+  Kannada, Assamese, Telugu, Marathi down/across with
+  Malayalam, Hindi, Konkani, Tamil…); a CLASS
+  DICTIONARY built from the story with mother-tongue
+  equivalents.
+- U7 A Watering Rhyme (poem, P.A. Ropes — water at
+  the roots, morning or evening, never at noonday:
+  "Flowers keep their mouths where / We should wear
+  our boots") · The Giving Tree (a PLAY, adapted from
+  Shel Silverstein: apples to sell, branches for a
+  house, the trunk for a boat, and at the end the
+  stump — "an old stump is good for sitting and
+  resting on… And the tree was still happy") · The
+  Donkey (poem, Margaret S. Russell: "Would I wallop
+  him? No, no, no") · a reading piece, Chintha Chettu
+  (the tamarind tree over Tansen's tomb in Gwalior —
+  "Eat the leaves of this tamarind tree / And you'll
+  also sing like Tansen!"). New words (hour, watering,
+  noonday, boots, soak, heat; swing, delicious, pluck,
+  trip, sail, stump, recognised). The work: flower
+  names unscrambled (sweet pea, marigold, jasmine,
+  lotus, mogra, dahlia, phlox, pansy, hibiscus);
+  SILENT LETTERS picked out (hour, knit, wrong,
+  doubt, often, know, night, could, write, knife,
+  high, walk); homophones found in the poem (our/
+  hour, their/there, flour/flower, where/wear,
+  son/sun, threw/through); PUNCTUATION RESTORED to
+  five bare sentences (capitals, commas, full stops,
+  question marks); -ing words coined; ADVERBS made
+  and used (loud→loudly, silent→silently, slow→
+  slowly, happy→happily, neat→neatly); singular/
+  plural choice inside sentences (a kilogram of
+  apples, a dozen bananas; a tree has one trunk but
+  many branches); the play's events ORDERED with
+  First, Then, After that, Finally — each with its
+  comma; a story with beginning, middle and end
+  assigned; a PATTERN POEM frame in the Language
+  corner (noun / noun+verb+adverb / +adverb…).
+- U8 Books (poem — "Tall skinny books / Up high on
+  the shelves; / Little fat books / That stood by
+  themselves") · Going to Buy a Book (story, Rukmini
+  Banerji: grandfather's money, the small shop, an
+  hour, two hours of reading on the floor — "I got a
+  fat book with many stories. My brother got a big
+  book with many pictures") · a DO YOU KNOW spread:
+  the earliest books in India — birch bark
+  (bhojapatra) and palm leaves (talapatra) two
+  thousand years ago, written with pen and ink or a
+  sharp iron spike, held together by a string.
+  New words (library, wide, galore, skinny, shelves,
+  wonderful; alone, bookshop, machines, finally,
+  climbed). The work: DEFINITIONS by pattern ("A
+  library is a place where books are kept" →
+  airport, kitchen, hospital, shop, school filled
+  the same way); DESCRIBING WORDS named and hunted
+  in the story (Should we go to the BIG market?),
+  then supplied into a bare passage (a ___ night, a
+  ___ story, ___ eyes, a ___ smile, "Sweet dreams");
+  FUTURE sentences — five beginning "I shall…"
+  (Teacher's page: "Practise the usage of future
+  tense"); AND/OR in a librarian dialogue, ending
+  "You can have EITHER Black Beauty OR Panchatantra
+  Stories"; a dove bookmark made; a book covered in
+  brown paper step by step.
+- U9 The Naughty Boy (poem, John Keats — he ran to
+  Scotland and found a yard as long, a song as merry,
+  fourscore as eighty, a door as wooden "As in
+  England — / So he stood in his shoes / And he
+  wondered") · Pinocchio (adapted: the laughing wood,
+  the nose that grows "each time he was rude to
+  someone or told a lie"; "I'm glad to be a real boy.
+  I'll never lie again") · a COMPREHENSION PASSAGE
+  set apart with its own questions — the Blue Jackal
+  (a Panchatantra tale: the jackal dyed in a tub of
+  blue dye rules as king until the full-moon howling
+  betrays him). New words (naughty, found, ground,
+  merry, cherry, weighty, wooden; carpenter, queer,
+  plane, puzzled, puppet, took shape, amazed,
+  finished, stiff, decided). The work: describing
+  words found in a maze and used in sentences (a
+  beautiful bird, a wooden puppet, an angry quarrel,
+  healthy, strong, annoyed, weak); materials sorting
+  (metal, wood, rubber, cloth); NATION/NATIONALITY
+  table (India/Indian, Scotland/Scottish, Australia/
+  Australian, France/French, Japan/Japanese);
+  opposites with DIS- and IN- (disrespect, disown,
+  inability, incapable, inefficient, insecure);
+  NAMING WORDS made with -ness, -ity, -ty (public/
+  publicity, stupid/stupidity, forgive/forgiveness,
+  blind/blindness, kind/kindness, cruel/cruelty,
+  polite/politeness, swift/swiftness, moral/morality,
+  solid/solidity); -ER/-R people words (fighter,
+  dancer, juggler, rider, speaker, user, writer,
+  joker); a carpenter's tools picked from a mixed
+  list; synonyms from the story (completed =
+  finished, surprised = amazed, strange = queer,
+  make up your mind = decided); f/v sound sets.
 
-INDIA CLASS 4 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26)
+Slips recorded as printed: (1) U4's Alice — the
+rabbit "was wearing a blue coat" in one paragraph
+and "it wore a red waistcoat" a few lines later, as
+this copy prints it; both are recorded, not smoothed
+over. (2) U3's Run! attribution is partly worn in
+this copy's text layer ("Mary Dau…") and is filed
+without the surname's last letters rather than
+guessed.
+
+CITATION CHECK (2026-10-26): anchors verified
+against the book's own pages — the body clock and
+"Today is Sunday!" (U1); the unpunctuated passage
+and the un/im list (U2); "It was my aim!" (U3); the
+golden key and fifteen-inch door (U4); W A T E R and
+the frequency chart (U5); Telugu and the learn-id
+note (U6); the stump's last gift and the punctuation
+restoration (U7); "A library is a place where books
+are kept" and the bhojapatra spread (U8); the Blue
+Jackal passage and the -ness/-ity table (U9). All on
+their pages as filed.
+
+INDIA CLASS 4 FULLY READ — 2026-10-26 (full
+page-by-page re-read, this filing; citation check
+passed as recorded above)
 
 ## Class 5 — Marigold Book Five (Textbook in English for Class V)
 
