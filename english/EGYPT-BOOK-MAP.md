@@ -7270,6 +7270,169 @@ series, as recorded above)
 Egypt set: 24 of 26. Still owed: Secondary 12 (the
 remaining 2 of the 26-book Egypt set).
 
+## Secondary 12 Term 1 — English (Student's Book, with the Novel's first half bound in)
+
+*Basics-only filing. SOURCE NOTE: Secondary 12's two
+terms arrive as ONE PDF — English_language_Sec3.pdf
+(11,564,655 bytes, 286 pp., processed copy, real text
+layer) — Term 1 at PDF pp.1–155, Term 2 at pp.156–286.
+This section files Term 1; the next files Term 2 from the
+same read.*
+
+Cover: "Secondary Schools - Year Three - Term 1 —
+2025 - 2026." Contents (p.3): U1 Inside the World of Care
+p.12 · U2 The Power of Machines p.24 · U3 Protect Nature,
+Protect Future p.36 · Review 1 p.47 · U4 Marine Life p.55
+· U5 From Muscles to Mindset p.68 · U6 Let's Hang Out!
+p.82 · Review 2 p.96. Five-lesson Secondary shape and
+exam-shaped Reviews as before. Start Smart (pp.10–11)
+reviews Secondary 11.
+
+**Grammar boxes (Language in Context, L3):**
+- U1 TWO boxes (pp.18–19): Present Perfect Simple (form
+  and focuses; the passive form — Object + have/has + been
+  + p.p.) and **Present Perfect Continuous — BOXED at
+  last**: Have/Has + been + Present Participle; actions
+  started in the past and still continuing; recently
+  finished actions with a visible result now; emphasis on
+  duration; temporary habits. (The Egypt run's last
+  unboxed tense is now boxed.)
+- U2 Reported Statements restated (p.29): pronouns change;
+  "that" after reporting verbs is optional; the verb
+  steps back (present → past; past → past / past perfect).
+  The Scope adds reported commands to this unit.
+- U3 Modal Verbs of deduction, blame and regret (p.42) —
+  the run's most exact modal statement, with certainty
+  numbers: present deduction (must = 95–100% sure true;
+  may/could = 50%; might = 30%; can't = 95–100% sure NOT
+  true) and past deduction (must have / may have / might
+  have / can't have + past participle), then blame and
+  regret: should have / shouldn't have + past participle.
+- U4 Compound Adjectives (p.60): two or more words, often
+  hyphenated, acting as one describing word before a noun
+  (hyphens before the noun, usually none after a linking
+  verb) — with the seven common forms: Number + Noun
+  (a three-hour meeting); Adjective + Past Participle
+  (well-dressed); Adjective + Present Participle
+  (good-looking); Adverb + Past Participle
+  (highly-respected); Noun + Present Participle
+  (time-saving); Noun + Past Participle (home-made);
+  Noun + Adjective (world-famous). New in the run.
+- U5 The Causative (p.74): have/get used when we arrange
+  for someone else to do something — active: have +
+  person + infinitive, get + person + to + infinitive;
+  passive form: have/get + object + past participle;
+  beside it make (forced), let and allow (permission).
+  New in the Egypt run.
+- U6 Reported Questions (p.88): the four basic rules —
+  word order straightens (no inversion), the tense steps
+  back, connecting words (if/whether for yes–no, the
+  question word for Wh-), and no question mark: a reported
+  question is a statement.
+
+**Writing (per Scope and the lessons):** reviewing
+writing models + peer review (U1; its L3 task is a nurse's
+shift note) · a persuasive essay (U3) · descriptive
+writing (U4) · an online review (U6).
+
+**The Novel — The Count of Monte Cristo** by Alexandre
+Dumas, adapted. Term 1 = Chapters 1–6 (PDF pp.106–146;
+questions pp.147–152, per-chapter word matching and
+more). Summary only: Edmond Dantès, a young sailor, is
+betrayed by jealous rivals and arrested on his wedding
+day; thrown into the Château d'If, he meets the Abbé
+Faria, who educates him and tells him of a great treasure
+hidden on the island of Monte Cristo; when Faria dies,
+Dantès escapes in the dead man's burial sack.
+
+Back page (credits, PDF p.105): GPS Publishing; the same
+seven reviewers; CACD team: Eman Mahmoud Youssef, Amira
+Fawzy Ahmed, Hassan Ramadan Ibrahim, Ghada El Sayed
+Mohamed; supervision Dr. Akram Hassan Mohammed. Spec
+prints 112 pages (this Term's book is ~105 of the PDF's
+pages), 27 × 19 cm, 70 g, 180 g couché, 4 colours.
+No ISBN/deposit.
+
+SECONDARY 12 TERM 1 FULLY READ — 2026-10-26
+
+## Secondary 12 Term 2 — English (Student's Book, with the Novel's second half bound in)
+
+*Basics-only filing, from the same PDF as Term 1 above
+(its Term 2 book, PDF pp.156–286).*
+
+Contents (PDF p.157): U7 At the Airport p.13 · U8
+A Journey Through Time p.26 · U9 The Universe's
+Mysteries p.37 · Review 3 p.49 · U10 Peoples' Hospitality
+and Kindness p.57 · U11 Literature p.68 · U12 University
+Life p.80 · Review 4 p.91. Same shape; Start Smart
+(PDF pp.165–166) reviews Term 1.
+
+**Grammar boxes (Language in Context, L3):**
+- U7 TWO boxes (PDF pp.173–174): Past Perfect restated
+  (a completed action before another past action; events
+  put in the correct order) and **Past Perfect
+  Continuous**: Subject + had been + verb-ing — the
+  duration of an activity in progress up to a past point,
+  the activity itself rather than a single completed
+  action; duration vs later result; time expressions
+  (for two hours, all morning, since 9 a.m.).
+- U8 Active and Passive Voice as one system (PDF
+  pp.185–186): the two structures, then When to Use
+  Passive Voice — unknown agent, unimportant agent,
+  obvious agent, formal/scientific writing — and a
+  Grammar Summary (the by-agent may be dropped when
+  unknown, unimportant, or obvious). The L3 writing task
+  is an article of **180–200 words** — the writing length
+  steps up at Secondary 12.
+- U9 Verb Patterns (PDF p.196): verbs + infinitive
+  (want, need, hope, plan, decide, agree, refuse, offer,
+  promise, seem, appear, tend) and verbs + gerund (enjoy,
+  finish, avoid, suggest, practice, consider, imagine,
+  mind, risk) — the Prep 9 lists completed as a system.
+- U10 Relative Pronouns completed (PDF pp.216–217):
+  the full set with whom marked formal; the pronoun may
+  be dropped when it is the object; **reduced clauses** —
+  a past participle replaces the pronoun in a passive
+  clause, a present participle in an active one; defining
+  vs non-defining restated (no "that" in non-defining).
+- U11 Comparative and Superlative Adjectives restated
+  (PDF pp.228–229) with two refinements new to the run:
+  **absolute adjectives** (perfect, unique, dead, married,
+  empty) don't usually take more/most, and the **the +
+  comparative … the + comparative** structure (The sooner,
+  the better), with degree words (much, a lot, far; a
+  little, a bit, slightly) before a comparative.
+- U12 Question Tags in full (PDF p.239): eight rules —
+  positive → negative, negative → positive, same
+  auxiliary, do/does/did when there is none, "I am" →
+  "aren't I", everyone → plural pronoun, Let's → "shall
+  we", imperatives → "will you".
+
+**Writing (per Scope):** an expository essay (U7) · a
+travel report and a mystery story (U9) · a diary entry —
+an experience of unexpected kindness (U10) · a simple
+poem with a set structure (U11) · an opinion essay and a
+concise biography (U12).
+
+**The Novel, second half:** Monte Cristo Chapters 7–12
+(questions at PDF pp.275–283). Summary only: Dantès
+escapes to freedom, finds the treasure on Monte Cristo,
+and returns as the mysterious Count — rewarding the
+friends who stayed loyal and methodically ruining the
+men who betrayed him, until, his revenge complete, he
+chooses mercy and a new dawn.
+
+Back page (credits, PDF p.284): GPS Publishing; the same
+seven reviewers; CACD team: Eman Mahmoud Youssef, Amira
+Fawzy Ahmed, Maher Abd Raouf, Shaimaa Salah El Din Afifi;
+supervision Dr. Akram Hassan Mohammed.
+
+SECONDARY 12 TERM 2 FULLY READ — 2026-10-26 —
+SECONDARY 12 COMPLETE
+
+**EGYPT SET COMPLETE: 26 of 26 — KG, Primary,
+Preparatory and Secondary all read, 2026-10-26.**
+
 ## Curriculum stocking notes (moved out of CURRICULUM.md, 2026-10-26)
 
 *Kept verbatim from the curriculum file. "Term N" in these notes

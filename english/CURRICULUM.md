@@ -122,3 +122,15 @@ email, formal report, speech for/against, news report,
 film review. Secondary 11's novel/drama: Around the World
 in Eighty Days (Term 1) and King Lear Acts III–V (Term 2's
 book).
+
+**Stocked by Egypt Secondary 12 (the set is complete):**
+the last two unboxed tenses are boxed — present perfect
+continuous and past perfect continuous; the causative
+(have/get something done); compound adjectives in seven
+forms; deduction modals with certainty numbers; reduced
+relative clauses; absolute adjectives and the + comparative
+structures. Egypt's English spine now stands complete from
+KG letters to Secondary 12, and the year's novels run Old
+Man and the Sea (Sec 10), Eighty Days (Sec 11), King Lear
+(Sec 11, previous series) and Monte Cristo (Sec 12).
+**Egypt: 26 of 26 read.**
