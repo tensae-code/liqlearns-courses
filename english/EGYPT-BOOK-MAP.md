@@ -7411,7 +7411,10 @@ Term 1, Secondary 11 Term 2, Secondary 12 (3 books).
 
 ## Secondary 11 Term 1 — English (Student's Book, with the year's Novel bound in)
 
-*Basics-only filing, as Secondary 10 Term 2.*
+*FULLY READ page by page, 2026-10-26 (full re-read under
+his ruling of 2026-10-26; replaces the basics-only filing
+of the same day). All story and novel text filed as
+summary only.*
 
 Source: MoE host, 2026/Secondry/Secondry2/Term1/
 StudentBook/English_language_2sec_t1.pdf (8,411,498 bytes,
@@ -7426,86 +7429,359 @@ Entrepreneurs · U3 Sustainable Development Goals (SDG) ·
 Review 1 (p.41) · U4 Natural Disasters · U5 Media
 Manipulation · U6 Soft Skills Vs. Hard Skills · Review 2
 (p.84). Five-lesson shape and exam-shaped Reviews as in
-Secondary 10; writing 120–150 words. Start Smart (pp.4–5)
-reviews Secondary 10 in rewrites — including two forms the
-run uses but has never boxed: present perfect continuous
-("has been practicing") and future perfect ("will finish
-building the new library — by next year").
+Secondary 10. Scope writing column: U1 essay · U2 business
+email · U3 blog post/vlog · U4 formal report · U5 opinion
+essay · U6 descriptive essay. Scope grammar column: U1
+Present Continuous in Active and Passive · U2 Past Perfect
+Active and Passive · U3 Adjectives and Adverbs · U4
+Comparative and Superlative adjectives · U5 Tag questions
+· U6 Defining and Non-defining Relative Clauses.
 
-**Grammar (L3 of each unit):**
-- U1 Present Continuous, active AND passive (drilled,
-  p.13): is/are being + past participle ("New houses are
-  being built") — the continuous passive, new in the run.
-- U2 Past Perfect, active AND passive (drilled, p.25):
-  had been + past participle ("plastics had been banned").
-- U3 Adjectives vs Adverbs box (p.36): adjectives describe
-  nouns and answer What kind / Which one / How many;
-  adverbs describe verbs, adjectives or other adverbs and
-  answer How / When / Where / How often / To what extent.
-- U4 Comparative vs Superlative box (p.54): short
-  adjectives add -er / -est; long adjectives use more /
-  the most; irregular: good → better → the best, bad →
-  worse → the worst.
-- U5 Tag Questions (taught by matching, completion and
-  mistake-correction, p.67, then spoken with intonation):
-  the short question added at the end of a statement,
-  flipped positive/negative — new in the run.
-- U6 Defining and Non-defining Relative Clauses box
-  (p.77): defining = necessary information, "that" may
+**Start Smart (pp.4–5).** A bridge from Secondary 10: a
+reading on time management; a vocabulary box (resilient –
+perspectives – motivated – independence – enriching);
+speaking tasks; and rewrite exercises that USE two forms
+the whole run uses but has never boxed: the present
+perfect continuous ("has been …") and the future perfect
+("By next year, … will finish building"). Writing task: an
+essay of 120–150 words on staying motivated — the only
+120–150-word task in this book; every unit writing task
+below is 150–180 words as printed.
+
+**Unit 1 — Egypt-Africa Cooperation.**
+- L1 Reading (pp.8–9), "Egypt: Gateway to Africa": Egypt's
+  trade, medical convoys, African Union summits and
+  scholarships across the continent. Vocabulary: gateway –
+  infrastructure – partnership – manufactured – mutual;
+  an idiom hunt in the text ("stand shoulder to shoulder").
+- L2 Listening (pp.10–11), "Voices from the Partnership":
+  three speakers — a trade expert, Dr. James Nyambura, a
+  Kenyan agricultural scientist, and journalist Magda
+  Ramzi. Vocabulary: integration – hybrid – expanding –
+  rural – stable – funding. Speaking: a two-minute
+  role-play as delegates at an African Forum.
+- L3 (pp.12–13) Listening "Egypt and Africa" + GRAMMAR
+  BOX: the Present Continuous, active AND passive — form
+  am/is/are + being + past participle ("New houses are
+  being built"). The continuous passive is new in the run.
+- L4 Reading (pp.14–15), "Success Stories in African
+  Partnership": the Egypt–Sudan Agricultural Project (+35%
+  food production), a Tanzanian dam, Kenyan solar factories
+  (5,000+ jobs), and the African Movies Festival in Cairo
+  (since 2018, 25 nations). Word set: enhance – highlighted
+  – capacity – yields – engagement – collaboration –
+  targeted – milestone – annual.
+- L5 Writing (Tip Box p.16): the ESSAY restated —
+  introduction = hook + thesis statement ("the most
+  important sentence in your introduction"); one idea per
+  body paragraph, each opened by a topic sentence; the
+  conclusion restates. Practice on p.17: ordering the
+  paragraphs of a dogs essay and underlining the thesis in
+  a summer essay.
+
+**Unit 2 — Startups & Young Entrepreneurs.** Objectives
+add speaking with modals of necessity and prohibition.
+- L1 Reading (pp.20–21), "Inspiring Entrepreneurs": Talaat
+  Harb and Bank Misr lead the text — the book prints that
+  he launched the bank "at just 20 years old" (recorded as
+  printed, in Slips). A collocations exercise. Vocabulary:
+  institutions – founder – independence – evolve –
+  mobilization – commitment – inspire.
+- L2 Listening (pp.22–23), "Startup Pitch Competition":
+  three pitches — Monir Magdi (a food-waste AI inventory
+  system), Mona Eid (a tutoring/learning platform), Hesham
+  Mostafa (a clothing rental service against fast
+  fashion). Idiom: "think outside the box." Speaking: a
+  role-play investor meeting.
+- L3 (pp.24–25) Listening on Omar Khalil's eco-friendly
+  packaging (Alexandria University, environmental
+  engineering, recycled fibres, 50+ cafés in a year) +
+  GRAMMAR BOX (p.25): the Past Perfect (had + past
+  participle) AND the Past Perfect Passive (had been +
+  past participle — "plastics had been banned").
+- L4 Reading (pp.26–27), "Small Places, Big Impact!":
+  Egypt's 4,740 villages (~57% of the population); Shubra
+  Beloula jasmine (~4 tons), Sidi Heneish organic figs,
+  Baharif date palms (~300,000 trees), Shubra Mellas flax;
+  the "Productive Village and Exporting Governorate"
+  programme. Word set: investment – organic – heritage –
+  boost – portion – pesticides – notable – processing –
+  flax.
+- L5 Writing (Tip Box p.28): the BUSINESS EMAIL — defined
+  as a formal professional message; a model email (Sarah
+  Lee, GreenTech Solutions); Key Phrases in six groups:
+  subject line / formal greetings / opening lines / polite
+  requests / closing phrases / sign-offs (Yours sincerely
+  with a name, Yours faithfully without). Task (p.29): a
+  business email of 150–180 words, with a peer-swap
+  checklist.
+
+**Unit 3 — Sustainable Development Goals.**
+- L1 Reading (pp.32–33), "Egypt Vision 2030": the SDS
+  (Sustainable Development Strategy) and its three pillars
+  — economy, society, environment. Vocabulary: sustainable
+  – vision – comprehensive – economic – pillars.
+- L2 Listening (pp.34–35), "Egypt's Path to Better
+  Healthcare": the Universal Health Insurance System and
+  the "100 Million Healthy Lives" screening initiative
+  (60M+ screened, per the True/False items). Vocabulary:
+  affordable – universal – chronic disease – equitable –
+  access – screening – initiative – vaccination coverage –
+  infrastructure. Speaking: design a fairer healthcare
+  plan.
+- L3 (p.36) Listening on mega-projects (the New
+  Administrative Capital, Benban Solar Park, the Suez
+  Canal expansion) + GRAMMAR BOX: Adjectives vs Adverbs —
+  adjectives answer What kind / Which one / How many;
+  adverbs answer How / When / Where / How often / To what
+  extent.
+- L4 Reading (pp.37–38), "Egypt Education Vision 2030":
+  curricula redesigned for creativity and critical
+  thinking over rote memorization. Word set: cornerstone –
+  competitive – sector – enhance – memorization.
+- L5 Writing (pp.39–40): the BLOG POST by model — a model
+  blog post on the Grand Egyptian Museum (100,000+
+  artefacts, the full Tutankhamun collection); a structure
+  box: catchy title/hook → introduction → body topics →
+  conclusion; write it like telling a story to a friend;
+  keywords, as in the Review. Task: a blog post of
+  150–180 words, "My Vision for My Future Life."
+
+**Review 1 (pp.41–47).** Sections A–E only — no F. The
+Novel; the novel is examined in its own Chapter Questions
+(pp.130–165). Items are numbered continuously across the
+sections. A. Vocabulary: 5 two-correct-answer
+synonym/antonym items + MCQs 6–25. B. Language: MCQs
+26–50 — including item 30, which examines the present
+perfect continuous ("have been exporting") although no
+box in the run teaches it, and five "which sentence is
+structurally correct" items; rewrites 51–65.
+C. Translation: items 66–68, built from the units'
+themes. D. Reading Comprehension: an entrepreneurship
+passage, 8 MCQs. E. Writing: blog/email craft MCQs; task:
+a blog post of 150–180 words, "Enhancing brand
+reputation."
+
+**Unit 4 — Natural Disasters.**
+- L1 Reading (pp.50–51), "A Call for Adaptation": weather
+  prediction's progress (satellites, radar, models) while
+  earthquakes stay largely unpredictable. Vocabulary:
+  accuracy – meteorologists – humidity – track – intensity
+  – pose – tectonic plates – drills. Speaking: a city
+  planning team role-play after a flood.
+- L2 Listening (pp.52–53), "Emergency Awareness": the
+  radio show "Stay Safe" with expert Sami Naguib — 2
+  litres of water per person per day, a waterproof
+  container for documents, an out-of-state contact person,
+  don't rely on phones for numbers. Speaking: create a
+  5-point emergency plan; the speaking example quietly
+  drills should have / could have / might have.
+- L3 (p.54) Listening (earthquakes vs hurricanes; the
+  2011 Japan earthquake) + GRAMMAR BOX: Comparative vs
+  Superlative — short adjectives add -er/-est; long
+  adjectives use more / the most; irregular good → better
+  → best, bad → worse → worst.
+- L4 Reading (pp.55–56), "Learning from the Past": a 2023
+  coastal storm; the text and its questions are woven
+  through with should have / could have / might have —
+  past modals of regret, used here but given no box in
+  this unit. Vocabulary: strike – blocked – evacuated –
+  trapped – in advance.
+- L5 Writing (Tip Box p.57): the FORMAL REPORT — defined:
+  a serious document giving information, usually with
+  advice; structure Title / To–From / Introduction /
+  Findings / Recommendations / Conclusion; formal language
+  (full forms, no contractions, polite neutral tone),
+  headings and bullets. A model outline report (Yara
+  Hassan, Safety Volunteer Team) on p.58 — its findings
+  say "four liters of water per person for at least three
+  days," contradicting L2's two litres per day (recorded
+  as printed, in Slips). Task: a formal report of 150–180
+  words on "The impact of remote work on employee's
+  productivity and well-being" — an off-unit topic, as
+  printed.
+
+**Unit 5 — Media Manipulation.**
+- L1 Reading (pp.62–63), "The Anatomy of Fake News": false
+  stories spread six times faster; a Cairo University
+  media-literacy expert; red flags — sensational headlines,
+  hidden authors, misprints, unsupported claims; algorithms
+  and echo chambers. Vocabulary: distinguish – sensational
+  – trigger – misleading – misprints – algorithms.
+  Activity: rating three news articles for trustworthiness.
+- L2 Listening (pp.64–65), "Radio Debate": Dr. Lisa Park
+  vs Professor Mike Chen on social-media regulation — AI
+  removal, censorship vs media literacy, warning labels.
+  Vocabulary: regulation – removal – restriction – verify –
+  deception – transparency. The fill-in answer text
+  scrambles which speaker argues what (recorded as
+  printed, in Slips).
+- L3 (pp.66–67) Listening "Media Contexts" — its items are
+  already tag questions — + TAG QUESTIONS taught (p.67):
+  the short question at the end of a statement, flipped
+  positive/negative, built with auxiliaries (do / be /
+  have / modal); tags are affirmative after none of /
+  nobody / nothing / hardly; falling intonation = sure,
+  rising = a real question. Taught by matching, completion
+  and mistake-correction, then spoken mini-dialogues with
+  intonation marked.
+- L4 Reading (pp.68–69), "The Puppet Masters": emotional
+  manipulation, either-or framing, social proof,
+  algorithmic feedback loops; attention called "the most
+  valuable resource." Vocabulary: subtle – manipulation –
+  spark – reflection – tactic – trending – loop.
+- L5 Writing (Tip Box p.70): the OPINION ESSAY — viewpoint
+  + evidence + logical reasoning to persuade; structure:
+  Introduction (hook + background + thesis) → Body 1 →
+  Body 2 → **Counter-argument** (a new step vs Secondary
+  10) → Conclusion (summary + final opinion + future
+  prediction). Model essay on media's importance. Task:
+  "Should Students Use Mobile Phones at School?"
+
+**Unit 6 — Soft Skills Vs. Hard Skills.**
+- L1 Reading (pp.74–75): hard skills = technical,
+  measurable, certified; soft skills = communication,
+  teamwork, leadership, harder to develop; "hard skills
+  help you get hired, soft skills help you grow."
+- L2 Listening (p.76), "Radio Debate": personal qualities
+  — creative – cooperative – ambitious – essential –
+  resilient – reliable – vital.
+- L3 (pp.77–78) Listening "Skills for Work and Life" +
+  GRAMMAR BOX (p.77): Defining and Non-defining Relative
+  Clauses — defining = necessary information, "that" may
   replace who/whom/which, the pronoun may be dropped when
   it is the object; non-defining = extra information, set
   off by commas, "that" never used, whose included.
-  Completes Prep 9's defining-only teaching.
+  Completes Prep 9's defining-only teaching. A writing
+  task inside L3: a paragraph of 150–180 words, "Your
+  dream holiday."
+- L4 Reading (pp.79–81), "Finding the Balance": built on
+  idioms — get your foot in the door / comfort zone / meet
+  others halfway / stay on top of things / think on your
+  feet / long term / debate; emotional intelligence.
+- L5 Writing (Tip Box p.82): the DESCRIPTIVE ESSAY
+  deepened — a characteristics table (focused topic,
+  sensory language, imagery, organized structure,
+  figurative language, emotional impact); introduction
+  hook kinds; the conclusion reflects and leaves a lasting
+  image. Model: a descriptive essay on Ahmed Elgendy, the
+  modern pentathlon champion. Task: a descriptive essay
+  of 150–180 words, "A place you've visited and you will
+  never forget."
 
-**Writing kinds taught (Tip Boxes, all L5):** the ESSAY
-restated (U1, p.16 — introduction as roadmap; the thesis
-statement named "the most important sentence in your
-introduction"; one idea per body paragraph) · the BUSINESS
-EMAIL (U2, p.28 — defined as a formal professional
-message; key phrases in six groups: subject line, formal
-greetings, opening lines, polite requests, closing
-phrases, sign-offs — Yours sincerely with a name, Yours
-faithfully without) · the BLOG POST by model (U3, p.39) ·
-the FORMAL REPORT (U4, p.57 — defined: a serious document
-giving information, usually with advice; parts: Title,
-To/From, Introduction, Findings, Recommendations,
-Conclusion; formal language — full forms, no contractions,
-polite neutral tone; headings and bullets) · the OPINION
-ESSAY (U5, p.70 — viewpoint + evidence + logical reasoning
-to persuade; structure now includes a **Counter-argument**
-step between the arguments and the conclusion — new) ·
-the DESCRIPTIVE ESSAY deepened (U6, p.82 — characteristics
-table: focused topic, sensory language, imagery, organized
-structure, figurative language, emotional impact;
-introduction hook kinds; conclusion reflects and leaves a
-lasting image).
+**Review 2 (pp.84–90).** Sections A–E, items numbered
+continuously 1–74. A. Vocabulary: 5 two-correct-answer
+items + MCQs 6–30. B. Language: MCQs 31–60 —
+comparatives/superlatives, tag questions, relative
+clauses, structurally-correct items; rewrites 61–70.
+C. Translation: items 71–74, from the unit themes (soft
+skills, sensational headlines, earthquakes, hurricanes).
+D. Reading Comprehension: a passage on mass media's
+negative effects — distortion of reality, FOMO,
+information overload; 8 MCQs. E. Writing: 12 craft MCQs on
+the formal report / opinion essay / descriptive essay —
+items 3 and 9 ask the same question twice with the options
+in a different order (recorded as printed, in Slips);
+task: write on one of two — an opinion essay, "Social
+media does more harm than good," or a descriptive essay,
+"A time you felt proud of yourself."
+
+**Back page (credits p.91):** GPS Publishing; the same
+seven reviewers (Prof. Zeinab El-Naggar, Prof. Attia
+El-Sayed, Dr. Mai Kamal, Mr. Reda Shalby, Mr. Mohamed
+Gomaa, Mr. Mostafa Zaghlol, Mr. Ayman Elsayed); CACD team:
+Eman Mahmoud Youssef, Amira Fawzy Ahmed, Hassan Ramadan
+Ibrahim, Ghada El Sayed Mohamed (the Ghada/Shaimaa pair
+alternate between books); supervision Dr. Akram Hassan
+Mohammed. Spec prints 112 pages (the student book's share
+of this PDF is 91; the combined PDF is 166), 27 × 19 cm,
+70 g, 180 g couché, 4 colours. No ISBN/deposit.
 
 **The Novel — Around the World in Eighty Days** by Jules
-Verne, adapted (pp.93–165). Term 1 carries Chapters 1–6
-(summary only): Phileas Fogg wagers he can circle the
-world in eighty days and leaves London with his servant
-Passepartout; Detective Fix, suspecting Fogg of a bank
-robbery, follows them through Suez and across India; the
-railway ends mid-country, they buy an elephant, and they
-rescue the widow Aouda, who joins the journey. Each
-chapter closes with a Values page; the Chapter Questions
-(pp.130–165) run to about thirty numbered items per
-chapter, including Critical Thinking sections — the
-heaviest novel apparatus yet.
+Verne, adapted (pp.93–165; the novel block carries its own
+page numbers). Term 1 carries Chapters 1–6 (summary only):
+- Ch.1 "The Mysterious Gentleman of Savile Row": Phileas
+  Fogg of Savile Row, a man of perfect punctuality, hires
+  the French valet Jean Passepartout on 2 October 1872;
+  Passepartout wants a quiet life.
+- Ch.2 "The Challenge at the Reform Club": after news of
+  the Bank of England robbery (£55,000), Fogg wagers
+  £20,000 that he can circle the world in 80 days or less,
+  reciting the timetable leg by leg (London–Suez 7, Suez–
+  Bombay 13, Bombay–Calcutta 3, Calcutta–Hong Kong 13,
+  Hong Kong–Yokohama 6, Yokohama–San Francisco 22, San
+  Francisco–New York 7, New York–London 9); he leaves that
+  evening, 2 October at 8:45 p.m., due back Saturday 21
+  December.
+- Ch.3 "Across the Mediterranean to Suez": the departure;
+  Detective Fix of Scotland Yard, suspecting Fogg is the
+  bank robber, follows; the steamship Mongolia from
+  Marseilles; Fix telegraphs from Brindisi for an arrest
+  warrant to be sent to Suez.
+- Ch.4 "The Desert Crossing and Cairo": Suez and the train
+  to Cairo; Fix pumps the trusting Passepartout and
+  telegraphs again; Fogg keeps strictly to schedule.
+- Ch.5 "The Indian Ocean and Bombay": the Mongolia down
+  the Red Sea, a coal stop at Aden, thirteen days across
+  the Indian Ocean to Bombay; Passepartout is driven out
+  of a temple for entering with his shoes on; Fix still
+  waits in vain for the warrant.
+- Ch.6 "Across India by Rail": the train from Bombay; on
+  the third day the line simply ends — fifty miles of
+  jungle unbuilt; Fogg buys the elephant Kiouni for
+  £2,000 ("Time is more valuable than gold"); crossing the
+  jungle they rescue the widow Aouda from a forced death
+  after her husband's death; she joins the journey; at
+  Allahabad they rejoin the railway for Calcutta, Fogg
+  giving Kiouni to the mahout.
+Every chapter closes with a "Values in this Chapter" page
+and an "Idioms/Expressions" page (e.g. Ch.1: Discipline;
+Loyalty and Service; Curiosity and Openness — Ch.6: "Time
+is more valuable than gold"; "shadow someone"). The
+Chapter Questions (pp.130–165) give each chapter its own
+block of 30 multiple-choice questions (Ch.5's Part A runs
+to 29 as printed) plus about 30 Critical Thinking
+questions in two groups — chapter questions, then personal
+"Critical Thinking" questions — the heaviest novel
+apparatus in the run so far.
 
-Back page (credits p.91): GPS Publishing; the same seven
-reviewers; CACD team: Eman Mahmoud Youssef, Amira Fawzy
-Ahmed, Hassan Ramadan Ibrahim, Ghada El Sayed Mohamed
-(the pair Ghada/Shaimaa alternate between books);
-supervision Dr. Akram Hassan Mohammed. Spec prints 112
-pages (the student book's share of this PDF is 91; the
-combined PDF is 166), 27 × 19 cm, 70 g, 180 g couché,
-4 colours. No ISBN/deposit.
+**Slips recorded as printed:** (1) U2 L1 prints that
+Talaat Harb launched Bank Misr "at just 20 years old."
+(2) U4's water figures contradict each other: L2's expert
+says 2 litres per person per day; the L5 model report's
+findings say four liters per person for at least three
+days. (3) U4 L5's writing task (remote work) does not
+belong to the Natural Disasters unit. (4) Review 2 E items
+3 and 9 are the same question twice. (5) Ch.2's personal
+Critical Thinking numbering slips as printed (…23, 27, 24,
+25, 36). (6) The present perfect continuous and the future
+perfect are used from Start Smart on and examined (Review
+1 B item 30) but never boxed anywhere in the run; past
+modals of regret (should have / could have / might have)
+are drilled inside U4's speaking and reading with no box.
+(7) U5 L2's fill-in answers scramble which debater argues
+which side.
 
-SECONDARY 11 TERM 1 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26)
+SECONDARY 11 TERM 1 FULLY READ — 2026-10-26 (full re-read
+under his ruling of 2026-10-26; replaces the basics-only
+filing). CITATION CHECK PASSED — 2026-10-26: a separate
+pass split the book's text extraction on page breaks and
+confirmed 20 cited items on their exact pages — Scope
+grammar column p.2, Start Smart pp.4–5, U1 L1 p.8, the
+Present Continuous passive pp.12–13, the thesis statement
+p.16, Talaat Harb's age as printed p.20, the Past Perfect
+Passive p.25, the GreenTech model email p.28, the
+Adjectives/Adverbs box p.36, the Grand Egyptian Museum
+blog model p.39, Review 1 p.41, the Comparative/Superlative
+box p.54, the model report's water figure p.58, tag
+questions pp.66–67, the opinion essay's Counter-argument
+p.70, the Relative Clauses box p.77, Review 2 p.84, the
+credits p.91, the novel's opening p.95, and the Chapter 1
+Questions p.130.
 
-Egypt set: 23 of 26. Still owed: Secondary 11 Term 2,
-Secondary 12 (the remaining 3 of the 26-book Egypt set).
+Egypt set: 24 of 26 filed; fully read through Secondary
+11 Term 1. Still owed as full re-reads: Secondary 11
+Term 2, Secondary 12.
 
 ## Secondary 11 Term 2 — English (Student's Book and Workbook in one PDF)
 
@@ -7594,8 +7870,9 @@ SECONDARY 11 COMPLETE (Term 1 in the current series,
 Term 2 in the latest obtainable printing of the previous
 series, as recorded above)
 
-Egypt set: 24 of 26. Still owed: Secondary 12 (the
-remaining 2 of the 26-book Egypt set).
+Egypt set: 26 of 26 filed (Secondary 12 was filed the
+same day, basics-only). Still owed as full re-reads: this
+book and Secondary 12.
 
 ## Secondary 12 Term 1 — English (Student's Book, with the Novel's first half bound in)
 
@@ -7757,8 +8034,10 @@ supervision Dr. Akram Hassan Mohammed.
 SECONDARY 12 TERM 2 MAPPED (basics-only — not a full read; full re-read owed) — 2026-10-26 —
 SECONDARY 12 COMPLETE
 
-**EGYPT SET COMPLETE: 26 of 26 — KG, Primary,
-Preparatory and Secondary all read, 2026-10-26.**
+**EGYPT SET: 26 of 26 FILED, 2026-10-26 — fully read
+through Secondary 11 Term 1; Secondary 11 Term 2 and
+Secondary 12 are MAPPED (basics-only) and owe full
+re-reads under his ruling of 2026-10-26.**
 
 ## Curriculum stocking notes (moved out of CURRICULUM.md, 2026-10-26)
 
