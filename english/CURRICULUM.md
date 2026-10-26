@@ -378,3 +378,27 @@ action), and the social media post (catchy intro, short
 sentences, emojis in measure, be kind, check your
 work). The chaptered story — one story across three
 units — joins the story kinds.
+
+**Stocked by Egypt Preparatory 7 Term 2 — the Prep
+layer completed for Year One:** the gathering term.
+Five Primary systems are completed and stated in one
+place each: the modals (must = felt necessity, have to
+= rules necessity, mustn't, should, don't have to); the
+possessives (adjectives before a noun vs pronouns
+standing alone; and the 's / s' / of choice — people,
+animals, time, places take 's, plurals take s', things,
+abstract ideas and long phrases take of); the future
+simple with its uses named (quick decisions, promises
+and offers, predictions); comparatives and superlatives
+in one compact rule set; and the quantifier table
+(a / an / many / much / some / any / a lot of, sorted by
+countable and uncountable). Make vs do joins the
+collocations. Writing frames grow: the advice blog
+(title, introduction, modal advice), describing a
+person (information, appearance, personality,
+interests, summing-up), describing a process (sequence
+words, action verbs, imperatives, short sentences,
+the useful phrases), sensory details for descriptive
+writing, and the rules poster (clear title, short
+sentences, bullets, imperatives). The chaptered story
+grows with the term: one story across all six units.

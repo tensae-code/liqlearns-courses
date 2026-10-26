@@ -5140,3 +5140,226 @@ PREPARATORY 7 TERM 1 FULLY READ — 2026-10-26
 Still owed: Preparatory 7 Term 2, Preparatory 8–9,
 Secondary 10–12 (the remaining 11 of the 26-book Egypt
 set).
+
+---
+
+## Egypt — English Preparatory 7 (Prep 1) Term 2 (2025/2026)
+
+Source: the textbooks.tsv location for this book is a
+GitHub-release URL the working credential cannot
+reach, so it was fetched from the ministry's own
+e-learning host, on the "Prepratory" path pattern the
+Term 1 Telegram caption revealed — with the filename
+spelled "Prep" this time:
+2026/Prepratory/Prepratory1/Term2/StudentBook/English_Prep1_Tr2.pdf
+(192,934,416 bytes, last-modified 2026-01-17 — the only
+live variant of six probed.) Working copy:
+~/workspace/liqlearns-courses-work/egypt-english/English_Prep1_Tr2.pdf
+— exactly that size, ends %%EOF, 112 pages. This is the
+raw print file (InDesign 17.3 original) and it is
+IMAGE-ONLY (zero extractable text), so all 112 pages
+were rendered (prep7t2-pages/) and read visually.
+Printed folio = PDF page throughout.
+
+Identity: cover "ENGLISH — Preparatory Schools - Year
+One - Term 2 — 2025 - 2026 — Student's Book" (p.1, same
+design as Term 1). Ministry dedication (p.2, © 2025
+MoE). Ministry message (p.4) is the same Preparatory
+variant as Term 1. Back page (p.112): "Preparatory One
+- Term 2, Academic Year: 2025/2026"; GPS Publishing and
+Printing Company again; the same seven reviewers as
+Term 1; the CACD team changes two names (Mr. Hassan
+Ramadan and Dr. Ghada Elsayed Mohammed in; Ms. Rabab
+Abdelaziz Zidan and Dr. Shaimaa Salah El Din Afify
+out); general supervision Dr. Akram Hassan Mohammed;
+British Council + CACD + GPS marks plus a second
+printer's mark (Misr Printing Company); print spec
+claims 116 pages against the PDF's 112, 27 × 19 cm,
+interior 70 g, cover 180 g, 4 + 4 colors, stapled; the
+book-number cell is printed EMPTY, as in Term 1. NO
+ISBN and NO deposit number printed.
+
+Shape: the unit numbering CONTINUES the year — Units
+7–12 (Contents p.3): U7 Reviving the Spirit of
+Civilization p.13 · U8 Family Values and Roles p.27 ·
+U9 Make It Yourself p.40 · Review 3 p.54 · U10 Helping
+Others p.57 · U11 The Natural World p.71 · U12 I Will
+Be Responsible p.85 · Review 4 p.98 · Audioscripts
+pp.101–103 · Notes pp.104–111. The teacher's front
+section returns (Scope and Sequence pp.5–7; Lesson
+Components pp.8–10 previewing Unit 7; START SMART
+pp.11–12 — this term it is a REVIEW TEST OF TERM 1:
+a role-model dialog, an athlete text, Term 1 vocabulary
+and make/do choices, verb forms across the Term 1
+tenses, rewrites with can't / usually / should /
+going to / mustn't, and the 80–100-word biography
+task). TERM 2 CHANGES THE UNIT SHAPE: L5 is now
+"Let's Talk" (a dialog lesson, "how to expand your
+vocabulary") and L6 is the writing lesson — Term 1's
+Roundtable lesson is GONE, and so are the My
+Self-Reflection pages: each unit now ends at its
+Assessment Corner. The Scope's cross-curricular
+projects (a mini-museum display, a family roles chart,
+a "How to Make…" procedure booklet, a volunteer action
+plan, a natural wonders map, a responsibility-and-goals
+project) appear ONLY in the Scope table — no lesson in
+the units carries them. Writing stays 80–100 words.
+There is no glossary, as in Term 1. The audioscripts
+(pp.101–103) cover the six units and both reviews but
+are shorter than Term 1's set.
+
+GRAMMAR SPINE — Term 2 finishes gathering the Primary
+systems, one per unit:
+- U7 MODALS, the fullest single statement in the run
+  (Tip, p.17, "Using Modal Verbs for Necessity, Advice,
+  Unnecessity & Prohibition"): must = a strong rule,
+  important obligation, or something you feel necessary;
+  have to = something necessary because of rules, or
+  when there is no other choice; mustn't = something is
+  not allowed; should = a good idea / helpful advice;
+  don't/doesn't have to = something is not necessary.
+  (Primary 5 Term 2's set + Primary 6 Term 1's box,
+  completed and gathered, with the feel-necessary vs
+  rules split between must and have to stated.)
+- U8 POSSESSIVES, the pair stated (p.30–31): Possessive
+  adjectives show who something belongs to and come
+  BEFORE a noun (my book, your cat, his car, her shoes,
+  our house, their teacher); possessive pronouns show
+  the same belonging but STAND ALONE, no noun after
+  them (mine, yours, his, hers, ours, theirs).
+- U9 THE POSSESSIVE FORMS completed in three boxes
+  (pp.43–44): 's — with people, animals, time, and
+  sometimes places; s' — plural nouns ending in s;
+  of — with things, abstract ideas, and long phrases.
+  Plus MAKE vs DO as a collocation Tip (p.42: make a
+  sandwich, make coffee, make a mistake, make friends;
+  do a job, do work, do well, do exercises, do the
+  ironing, do cleaning) and a SEQUENCE WORDS Tip
+  (p.42: when you describe a process or steps, use
+  sequence words to show the order of actions — First,
+  Next, Then, After that, Finally).
+- U10 THE FUTURE SIMPLE, fullest statement (Tips,
+  p.61): form — subject + will + base verb; negative
+  will not (won't); question Will + subject + base
+  verb? Uses named for the first time: QUICK DECISIONS,
+  PROMISES / OFFERS, PREDICTIONS; time expressions
+  tomorrow, next week, soon, later, in an hour, in the
+  future. (Primary 3 Term 2's will/won't box, completed.)
+- U11 COMPARATIVES & SUPERLATIVES restated compactly
+  (Tip, p.74): comparatives compare two things,
+  superlatives show the highest degree; short adjectives
+  add -er/-est; long adjectives use more/most;
+  irregulars good → better → best, bad → worse → worst
+  (far, present in both Primary 5 books, is dropped
+  here — as printed).
+- U12 QUANTIFIERS, the table completed (p.89):
+  countable nouns are things we can count one by one
+  and take a, an, many, some, any, a lot of; uncountable
+  nouns can't be counted separately and take much,
+  some, any, a lot of; a/an with singular countable;
+  many with plural countable; much with uncountable;
+  a lot of with both; some in positive sentences; any
+  in questions and negatives. (Primary 5 Term 1's
+  a/an/some/any box + the counting line, completed
+  with many / much / a lot of.)
+
+THE STORY: ONE story now runs the WHOLE TERM — "The
+Golden Goose," the Grimm tale adapted, one chapter per
+unit (U7 Ch.1 The Three Brothers · U8 Ch.2 Dummling's
+Kindness · U9 Ch.3 The Goose's Magic · U10 Ch.4 The
+Long Procession · U11 Ch.5 The Princess's Laughter ·
+U12 Ch.6 Dummling's Reward). Filed by summary only: a
+poor man's three sons go to cut wood; the proud eldest
+and the clever, unkind middle son each refuse an old
+man's plea for food and are punished (a slipped axe, a
+broken axe); the youngest, Dummling, mocked but kind,
+shares his bread and drink, and the old man rewards
+him with a goose of pure gold hidden in a tree. At a
+hotel, the owner's three children try to steal a
+feather and stick fast to the goose one after another;
+Dummling walks on unaware, and the procession grows —
+a schoolmaster, a farmer, a soldier all stick when
+they try to pull the others free. The parade makes the
+king's never-laughing princess laugh for the first
+time; the king keeps his promise of her hand but sets
+further challenges, which Dummling completes wisely
+(told in a line, not shown); he marries the princess,
+becomes a wise and gentle prince, and the tale's
+closing lesson is that true wealth lies not in gold
+but in kindness, modesty, and love. Reviews 3 and 4
+each close with "The Story" questions on the chapters
+so far.
+
+TEXTS AND WRITING, briefly: U7 the Pharaohs' Golden
+Parade text (April 3, 2021 — 22 royal mummies moved
+from the Tahrir museum to the National Museum of
+Egyptian Civilization) and a Grand Egyptian Museum
+text (480,000 m², more than 100,000 artifacts, the
+world's largest archaeological museum for a single
+civilization, real photo); writing = the ADVICE BLOG,
+defined by a Tip (a short online text where a writer
+gives helpful tips, rules, or suggestions; writers use
+modals like must, mustn't, should, have to, and don't
+have to to give clear advice) with its must-include
+list (a clear title, a short introduction, advice using
+modals, correct punctuation and spelling, 80–100
+words). U8 a Hassan-family roles text, a Garcia-family
+traditions email (San Antonio, Texas), and the
+DESCRIPTIVE PARAGRAPH with a "Tip for Describing
+someone" (basic information — name, age, how you know
+them; physical appearance — height, build, hair, eyes;
+personality; interests; a conclusion that sums up) and
+a five-part task frame. U9 a falafel-sandwich recipe
+text, a cousin's-birthday preparation text, and
+INSTRUCTIONS writing with the "How to Describe a
+Process" Tip (1 sequence words to show order; 2 action
+verbs; 3 the imperative form or the present simple;
+4 short, clear sentences; 5 useful phrases — You need…,
+Make sure you…, Don't forget to…, Be careful when…).
+U10 a kindness story (Amal's visiting day for elderly
+neighbors), three volunteer-interview listenings, and a
+plans text with a six-point Writing Tip (plan your
+ideas first; start sentences with I will… / We will…;
+use the target vocabulary; give reasons; use linking
+words; check spelling and grammar — will + infinitive).
+U11 African natural wonders (Victoria Falls, Table
+Mountain, Lake Malawi) and a nature-facts text
+(giraffe, bamboo, the Amazon, the Venus flytrap); a
+weather-report speaking frame (conditions, temperature
+highs and lows, warnings, advice for listeners); and a
+descriptive paragraph with the "Use Sensory Details"
+Writing Tip (good writing helps the reader see, hear,
+and feel the scene — what does it look like, sound
+like, feel like). U12 a good-student text, Rania's
+house-rules listening, a healthy-choices text (hygiene
+defined inside it), a principal-and-students dialog
+with a "How to Give Instructions / How to Respond" Tip
+(start with a verb; polite forms; be clear and short),
+and the RULES POSTER with a six-point poster Tip (a
+clear title — short, big, eye-catching; short
+sentences; bullet points or lists; imperatives; make
+it attractive; check spelling and grammar).
+
+BOOK SLIPS, as printed: the Contents and Scope call
+U9 "Make It Yourself" while the unit opener and every
+running head print "Making it yourself." The U12
+Assessment (p.97) prints "After wining the first prize"
+for "winning." The back page's print spec claims 116
+pages against the PDF's 112 (Term 1's spec matched);
+no ISBN or deposit number in either Prep 7 book.
+
+Filed: map + curriculum note only, as with Term 1 —
+Term 2's work is gathering and completing systems the
+earlier books built; its named frames (advice blog,
+describing someone, describing a process, sensory
+details, the poster rules, conversational expressions
+and how to give instructions) are recorded here and in
+the curriculum note until their lessons are built.
+
+EGYPT SET: 16 of 26 English books read (…Prep 7 T1+T2).
+PREPARATORY 7 IS COMPLETE. Next: Preparatory 8 Term 1.
+
+PREPARATORY 7 TERM 2 FULLY READ — 2026-10-26
+
+Still owed: Preparatory 8–9, Secondary 10–12 (the
+remaining 10 of the 26-book Egypt set).
