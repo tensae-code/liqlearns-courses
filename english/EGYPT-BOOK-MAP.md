@@ -4887,3 +4887,256 @@ PRIMARY 6 TERM 2 FULLY READ — 2026-10-26
 
 Still owed: Preparatory 7–9, Secondary 10–12 (the
 remaining 12 of the 26-book Egypt set).
+
+---
+
+## Egypt — English Preparatory 7 (Prep 1) Term 1 (2025/2026)
+
+Source: the secured location for this book is the
+Telegram channel (textbooks.tsv), and the channel
+message's own source link gives the ministry-host path —
+which uses the ministry's OWN misspelling "Prepratory":
+2026/Prepratory/Prepratory1/Term1/StudentBook/English_Prp1_Tr1.pdf
+(Six guessed "Preparatory" paths had all 404'd; the
+spelling in the path is the lesson.) The file was
+fetched BOTH ways — Telegram attachment and direct from
+that link — and the two copies are byte-identical (MD5
+7b870327f63de5b70ae77788453fec58), 5,709,994 bytes, ends
+%%EOF. Working copy:
+~/workspace/liqlearns-courses-work/egypt-english/English_Prp1_Tr1.pdf
+— 112 pages, real text layer (144,221 non-whitespace
+chars). Read from the extracted text (prep7t1.txt) with
+all 112 pages rendered (prep7t1-pages/) and cover/back
+checked visually. Printed folio = PDF page.
+
+Identity: cover "ENGLISH — Preparatory Schools - Year
+One - Term 1 — 2025 - 2026 — Student's Book" (p.1, new
+design). Ministry dedication (p.2, now "to the students
+and families"). Ministry message (p.4) is the
+PREPARATORY variant — "the preparatory framework for
+Egyptian learners," "Preparatory Stage students" — and
+its Key Features list is new: age-appropriate vocabulary,
+grammar and functions taught in context; focused
+four-skills development; scaffolded writing tasks that
+progress from guided to independent writing; vocabulary
+reinforcement using visuals and themes; activities for
+higher-order thinking, not just memorization. Back page
+(p.112): "Preparatory One - Term 1, Academic Year:
+2025/2026"; developed with the Content Department Team
+at GPS Publishing and Printing Company (the Prep books
+change publisher — the Primary run was Selah El
+Telmeez); reviewed by Prof. Zeinab El-Naggar, Prof.
+Attia El-Sayed, Dr. Mai Kamal, Mr. Reda Shalby, Mr.
+Mohamed Gomaa, Mr. Mostafa Zaghlol, Mr. Ayman Elsayed;
+CACD team as before; general supervision Dr. Akram
+Hassan Mohammed; British Council + CACD + GPS marks;
+print spec 112 pages (MATCHES), 27 × 19 cm, interior
+70 g white paper, cover 180 g coated, 4 colors. NO ISBN
+and NO deposit number printed.
+
+A NEW FILE SHAPE: this PDF interleaves a TEACHER'S
+section with the pupil book. Before the pupil Unit 1
+(pp.5–12) sit: the Scope and Sequence (pp.5–7),
+"Lesson components" explainer pages that tell the
+teacher what each lesson part is for (Before you start /
+Reading / Think about this / Vocabulary / Speaking /
+Listening / Language in use / Word-building skills /
+Story Time / Before you write / Class performance),
+a preview of Unit 1's Roundtable and Assessment Corner,
+and START SMART (printed pp.11–12) — a diagnostic
+pre-test of the Primary system (a short conversation
+dialog, present simple forms, a/an/some, opposites,
+prepositions, word ordering across present simple and
+continuous, and a paragraph task using present simple
+AND present continuous). The pupil book proper runs
+printed pp.13–103, then full AUDIOSCRIPTS (printed
+pp.104–109, including Start Smart's) and two blank
+Notes pages. There is NO glossary in this book —
+vocabulary is defined inside the lessons.
+
+PUPIL UNIT SHAPE (six lessons, every unit): L1 Reading
+· L2 Listening + Language in Use · L3 Reading +
+Word-building · L4 Story Time · L5 Writing · L6
+Team-Project (Roundtable: Circle Sharing, Group
+Discussion, a make-something Activity) — then an
+Assessment Corner (Vocabulary / Language / Writing)
+and a My Self-Reflection page ("I can…" by skill, plus
+Life Skills & Values). Writing tasks are 80–100 words
+throughout (the Primary books asked 24–70). Unit spans
+(printed): U1 Life in a Digital World pp.13–26 · U2
+Learning to Learn pp.27–40 · U3 Role Models pp.41–54 ·
+Review 1 pp.55–58 · U4 Smart Choices pp.59–72 · U5
+Future Dreams pp.73–86 · U6 Global Citizens pp.87–100 ·
+Review 2 pp.101–103 · Audioscripts pp.104–109.
+
+GRAMMAR: the term is a deliberate RE-TEACHING of the
+whole Primary grammar system at Prep depth — every unit
+restates one or two Primary things in Tip-sized boxes
+with harder exercises (correct-the-mistake is the house
+style now):
+- U1: Present Simple (facts, habits, routine; the form
+  table) + Adverbs of Frequency — the percentage ladder
+  restated with ONE CHANGE from Primary 5 Term 1:
+  rarely is 10% here (P5 T1 printed 20%); always 100,
+  usually 90, often 70, sometimes 50, never 0. Position
+  rule restated (before the main verb, after "be").
+  PARTS OF SPEECH defined as a set: a noun names a
+  person, thing, animal or place; a verb shows an
+  action; an adjective describes nouns — the verb joins
+  the noun/adjective definitions of the Primary books.
+- U2: Can / Can't for ability (two short Tips) +
+  Present Continuous (actions happening now; be +
+  -ing) — both restated briefly.
+- U3: Past Simple (Tip: actions that started and ended
+  in the past; regular -ed; irregular not formed with
+  -ed) + the verb-to-be table (I/he/she/it was;
+  we/you/they were).
+- U4: First Conditional (Tip: the probable result of
+  an action; "if" or "when" + present simple, followed
+  by will + infinitive; the clauses can swap) +
+  Should / Shouldn't for advice.
+- U5: Going to (Tip: be + going to + infinitive for
+  future plans and future intentions — and a third use
+  the Primary box didn't name: PREDICTION WITH
+  EVIDENCE, "Look at the clouds! It's going to rain.").
+- U6: Must / Mustn't (necessary to do / not allowed to
+  do) + a "Review of tenses" Tip gathering present
+  simple, present continuous, past simple and the
+  going-to plan in four example sentences.
+
+PUNCTUATION SPINE — the Prep book teaches punctuation
+as its own line, one mark per unit, each with a printed
+"Learn" box:
+- U1 Capital Letters: the full rule set in one place —
+  beginning of a sentence; proper nouns; days, months
+  and holidays BUT NOT seasons; languages and
+  nationalities; the pronoun "I."
+- U2 Period & Question Mark: a period ends a statement;
+  a question mark ends a question.
+- U3 Comma: listing items; joining clauses with linking
+  words; addressing people.
+- U4 Exclamation Point: strong emotion or emphasis —
+  surprise, excitement, anger, joy.
+- U5 Apostrophe: possession (incl. the plural rule —
+  noun plural ending in s takes the apostrophe after
+  the s) and contractions.
+- U6: a mixed practice page only.
+
+WORD-BUILDING SPINE:
+- Word families REDEFINED (U1): "All words belong to
+  families… One type of word family involves words that
+  come from the same ROOT word" — work → worker,
+  homework, workbook, schoolwork; board → keyboard,
+  smartboard, noticeboard, board game. (A different
+  sense from the Primary rhyme families; both are the
+  books' own uses of the same name — recorded, not
+  merged.)
+- The SPIDERGRAM defined (U2 Tip): a diagram that helps
+  organize ideas — the main idea in the middle, the
+  "legs" show supporting details or examples.
+- Suffixes and prefixes gathered (U3): the suffix
+  definition restated ("a letter or a group of letters
+  that you add to the end of a word to make a new
+  word") with a working table (-ful → adjective:
+  power→powerful; -ist: tour→tourist; -ment:
+  agree→agreement; -er: think→thinker); the prefix
+  definition restated ("a group of letters we add to
+  the beginning of a word to change its meaning");
+  opposite-making prefixes un- / ir- / dis- / in-; and
+  ROOT defined: "the base word before adding a prefix
+  or suffix."
+- Synonym and Antonym defined (U4 Tips): a synonym is
+  a word with the same meaning (big → large); an
+  antonym is a word with an opposite meaning
+  (hot → cold).
+- Collocations defined (U5 Word Tip): words that often
+  go together naturally — verb + noun (score goals,
+  have a job, match talent, build a machine) and
+  adjective + noun (digital life, critical thinking).
+- Connectors (U6 Word Tip): because shows cause, so
+  shows result, although shows contrast.
+
+THE STORY: the Prep year tells CHAPTERED STORIES — one
+story per three units, a chapter in each unit's Story
+Time, the same children throughout (Sara, Omar, Zain):
+- "The Magic Classroom" (U1–U3): Ch.1 The First
+  Challenge — the children enter a glowing classroom
+  of floating puzzles; a locked box opens only by
+  teamwork. Ch.2 The Power of Unity — an invisible
+  bridge that appears under kind words and brave steps
+  (respect, ambition, courage defined inside the story
+  by the children themselves); a golden door opens
+  when they sing together: "Determination opens every
+  door." Ch.3 The Greatest Lessons — a glowing book
+  names the values (Responsibility, Curiosity,
+  Teamwork, Respect, Determination, Courage, and
+  honesty — "doing the right thing even when no one
+  was watching"); the real magic is the values, not
+  the puzzles.
+- "The Dream Team" (U4–U6; Lily and Karim join): Ch.1
+  Never Give Up — the village invention fair; the team
+  builds a water-saving machine, learning fairness when
+  Omar's lead-taking leaves Lily out. Ch.2 — setbacks,
+  no blame when Karim errs; Lily finds her voice. Ch.3
+  A Team of Tomorrow — another team wins first prize;
+  their teacher calls them "the real winners" — values
+  over trophies; they become the village's Dream Team.
+Filed by summary only.
+
+TEXTS AND WRITING, briefly: U1 Tarek's blog "A Day in
+My Digital Life" (frequency adverbs at work) + Joury's
+devices email; writing = an email about your digital
+routine (Helpful Hints: start Hi + name, say why you
+are writing, short simple sentences, close with "Write
+back soon!" / "Talk to you later!"). U2 learning styles
+— a self-quiz sorts the learner as visual / auditory /
+kinesthetic; writing = a learning-plan paragraph
+(topic sentence, describing details, stick to one place
+or event). U3 three real role models in past simple:
+Dr. Samira Moussa (physicist; "My wish for cancer
+treatment is to be as cheap as aspirin" — the book's
+one quoted line, kept short), Dr. Gamal Hemdan
+(geographer, "The Personality of Egypt"), and the
+writing model Dr. Mohamed Ghoniem (kidney-transplant
+pioneer) with three biography tips (say who and why
+you chose them; what they did, in past simple; the
+qualities that make them known) — plus a listening
+dialog on Ahmed El-Mansy and an interview script with
+Dr. Farouq El-Baz in U5's audioscripts. U4 a
+decision-making story (Youssef's party) and an athlete
+interview; writing = a blog post about a problem you
+faced, with a BLOG TIP (a title that gets people
+interested; details; images; end with a call to
+action). U5 a careers advertisement and Omar's career
+plan; writing = a REVIEW of a dream job, with its Tip
+(describe what you are writing about; the good and bad
+sides; what you think of it). U6 a school-handbook text
+on global citizenship and an oceans text written to
+persuade (its own questions name the kind: "a message
+that tries to convince you"); writing = a SOCIAL MEDIA
+POST, with a five-point Tip (a catchy intro; clear
+short sentences; emojis and symbols — not too many; be
+positive and kind; check spelling and grammar).
+
+BOOK SLIPS, as printed: the U1 audioscript (p.104)
+prints "transpartation" for "transportation." The
+frequency ladder's rarely = 10% against Primary 5 Term
+1's 20% is recorded above as a cross-book disagreement,
+each as printed. Print spec (112 pages) matches the
+PDF; no ISBN or deposit number.
+
+Filed: map + curriculum note only — this book restates
+the Primary system at Prep depth; its new named things
+(punctuation line, parts of speech set, root families,
+spidergram, synonym/antonym, collocations, connectors)
+are recorded here and in the curriculum note until
+their lessons are built.
+
+EGYPT SET: 15 of 26 English books read (…P6 T1+T2,
+Prep 7 T1). Next: Preparatory 7 Term 2.
+
+PREPARATORY 7 TERM 1 FULLY READ — 2026-10-26
+
+Still owed: Preparatory 7 Term 2, Preparatory 8–9,
+Secondary 10–12 (the remaining 11 of the 26-book Egypt
+set).

@@ -353,3 +353,28 @@ tense, feelings, end with what you learned). With this
 book the Egypt PRIMARY run is complete: twelve books,
 KG through Primary 6, and every grammar thing the
 course's first two terms are built from is now in hand.
+
+**Stocked by Egypt Preparatory 7 Term 1 — the Prep
+layer:** the course's later-depth layer begins. Prep 7
+Term 1 re-teaches the whole Primary grammar system in
+Tip-sized boxes with correct-the-mistake work, and adds
+the first PUNCTUATION line the course has: capital
+letters (the full five-rule set), period and question
+mark, comma (lists, joining clauses, addressing
+people), exclamation point, apostrophe (possession
+incl. the plural rule, and contractions). Word classes
+complete their set (noun, verb, adjective defined
+together). Word building gains: root-word families
+(work / board trees) and the ROOT named; the spidergram
+as an idea organizer; synonym and antonym defined;
+collocations defined (verb + noun, adjective + noun);
+connectors because / so / although (cause, result,
+contrast). Going to gains its third use — prediction
+with evidence. Writing lengths step up to 80–100 words,
+and three new kinds arrive with printed tips: the
+review (describe it, good and bad sides, your opinion),
+the blog post (catching title, details, images, call to
+action), and the social media post (catchy intro, short
+sentences, emojis in measure, be kind, check your
+work). The chaptered story — one story across three
+units — joins the story kinds.
