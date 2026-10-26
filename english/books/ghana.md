@@ -1,10 +1,12 @@
 # Ghana — English books read for LiqLearns
 
-CORRECTION (his ruling, 2026-10-26): this file was filed
-basics-only — Muse's own change, never his order, now
-REVOKED. What is filed here is a MAP, not a full read.
-A full re-read is owed before the citation check and
-before any lesson is built from it.
+STATUS (2026-10-26): all three NaCCA English
+curricula in this file (B1–3, B4–6, JHS 1–3) have
+been FULLY READ page by page with citation checks
+passed — see the closing block under each document.
+The Distance Learning guides/workbooks at the end
+of the file remain record-only, unread (no public
+copy opens from this network).
 
 
 Ghana's set is different in kind: there is NO government
@@ -1180,26 +1182,785 @@ one-page critical commentary (B6, p.220), and
 panel lead Gborsong (p.221).
 
 
-## English Language Curriculum for JHS 1–3 — Common Core Programme (NaCCA, 2021)
+## English Language Curriculum for JHS 1–3 — Common Core Programme (NaCCA, September 2020)
 
-139 pp., from the ministry portal's JHS library. Covers
-Basic 7 (p.1), Basic 8 (p.37), Basic 9 (p.69); each year
-in FIVE strands:
+"English Language — Common Core Programme (CCP),"
+National Council for Curriculum and Assessment
+(NaCCA), Ministry of Education, Republic of Ghana;
+cover dated September 2020, © NaCCA 2021 in the
+imprint; 139 PDF pp. (prelims i–xxxv + body
+pp.1–103); "This publication is not for sale."
+Enquiries to the Director-General, NaCCA, P.O. Box
+CT PMB 77, Cantonments, Accra. Foreword by Dr.
+Matthew Opoku Prempeh (MP), Minister of Education
+(p.ii): the CCP is the sequel to the 2019
+Kindergarten–Primary standards-based curriculum,
+runs Basic 7 to Basic 9 (JHS 1–3), builds character
+and values alongside the 4Rs, creates pathways to
+Basic 10–12 (SHS), and integrates PERSONAL
+PROJECTS, COMMUNITY PROJECTS and COMMUNITY SERVICE
+into assessment. Stakeholder consultation was held
+in Accra in February 2020 (p.iii).
 
-- Strand 1 Oral Language (Listening and Speaking):
-  Conversation/Everyday Discourse · Listening
-  Comprehension · English Sounds
-- Strand 2 Reading (incl. Summarising)
-- Strand 3 Grammar Usage: Grammar · Punctuation and
-  Capitalisation · Vocabulary
-- Strand 4 Writing: Production and Distribution of
-  Writing · Text Types and Purposes · Building and
-  Presenting Knowledge
-- Strand 5 Literature: Narrative, Drama and Poetry —
-  literature becomes its own strand at JHS.
+Frame (pp.vii–xxxv). The CCP centres on the Common
+Core Learner Attributes across the cognitive,
+psychomotor and affective domains; nine learning
+areas (Languages — English, Ghanaian Languages,
+French, Arabic — Mathematics, Science, Creative
+Arts and Design, Career Technology, Social Studies,
+Computing, RME, PHE). Rationale (p.x): language as
+a medium of communication and a library in which
+culture is stored; English is Ghana's official
+language, the language across the curriculum, of
+government, commerce and the media, and the most
+widely used global language — success in education
+depends largely on English proficiency. Philosophy
+(p.xi): developmental theory + social constructivism,
+as in B1–6, with a participatory, task-based
+approach. Aims (p.xii) add the JHS line: learners
+must learn to "read the lines, in-between the lines
+and beyond the lines" and find hidden meanings.
+Expected Learning Behaviours (pp.xiii–xvi): the
+same Knowledge/Understanding/Application ladder as
+B1–6, spelled out verb by verb (Knowing through
+Creating), the four skills split receptive
+(listening, reading) and productive (speaking,
+writing), and the attitudes and values sets.
+Assessment (pp.xvii–xxii): Assessment as Learning,
+for Learning and of Learning; School-Based
+Assessment recorded in the Learner's Progress
+Record, Report Card and Termly Recording Register,
+guided by the NPLAF (2020a) and SBA Guidelines
+(2020b); the CCP reports by a FIVE-LEVEL
+criterion-referenced proficiency scale — 1 Highly
+Proficient 80%+, 2 Proficient 68–79%, 3 Approaching
+Proficiency 54–67%, 4 Developing 40–53%, 5 Emerging
+39% and below — and a NATIONAL STANDARDS ASSESSMENT
+TEST is conducted in Basic 8. (The SBA text says
+"throughout the four-year duration of CCP" for a
+three-year programme — recorded as printed.)
+Creative Pedagogical Approaches (pp.xxiii–xxvi):
+learning-centred classrooms, inclusion, DIFFERENTIATION
+by task, by support and by outcome, SCAFFOLDING
+strategies listed, ICT as a pedagogical tool.
+Core Competencies (pp.xxvii–xxviii): the same six
+as B1–6. Instructional Expectations (p.xxix) end
+with TIME: FOUR periods a week of 50 minutes each
+at B7–B9 (against ten 30-minute periods at primary).
+Organisation (p.xxx): strands → sub-strands →
+content standards → indicators → exemplars, with
+curriculum reference numbers (the printed diagram
+under that heading renders as a row of question
+marks in the text layer — recorded as printed).
+Note to the Teacher (pp.xxxi–xxxiv): skills
+INTEGRATED (grammar raises its issues inside
+writing and oral lessons); grammar at primary is
+"basically internalised" and JHS keeps the same
+caution — do not bother learners with grammatical
+terminologies and lengthy abstract explanations;
+the writing PROCESS APPROACH in five stages —
+planning, drafting, revising, editing, publishing;
+every learner reads AT LEAST FIVE BOOKS A TERM
+(fifteen a year); printed reading-theme lists for
+B7, B8 and B9 (B7: Ghana's natural resources,
+mining, environment, industrialisation, energy,
+diseases, festivals, adolescent reproductive health,
+entrepreneurship, child labour and trafficking,
+tourism, technology; B8: tourism, values, engineering,
+banking and finance, professions, inventions,
+communication, agriculture, transport, nature;
+B9: governance — communism, socialism, democracy —
+media, values, entertainment, disasters, water,
+international organisations ECOWAS/AU/UN/WHO, drug
+abuse, climate change, civic education; B8 and B9
+both list Entrepreneurship twice — recorded as
+printed). Scope and Sequence (p.xxxv): FIVE strands
+every year — 1 Oral Language (Conversation/Everyday
+Discourse, Listening Comprehension, English Sounds)
+· 2 Reading (Comprehension, Summarising) · 3 Grammar
+Usage (Grammar, Punctuation and Capitalisation,
+Vocabulary) · 4 Writing (Production and Distribution
+of Writing, Text Types and Purposes, Building and
+Presenting Knowledge) · 5 Literature (one sub-strand:
+Narrative, Drama and Poetry — literature is its own
+strand at JHS).
 
-GHANA CURRICULUM JHS 1–3 MAPPED — 2026-10-26
-(basics-only filing — NOT a full read; full re-read owed)
+### Basic 7 (body pp.1–36)
+
+STRAND 1 ORAL LANGUAGE.
+- Conversation/Everyday Discourse: REGISTER —
+  formal situations (strangers, announcements,
+  offices; no slang/jargon) against informal
+  (friends, family, teammates; slang, jargon,
+  contracted forms, non-verbal cues named as
+  features of informal language); questions that
+  ELICIT ELABORATION (why, how, for what reason —
+  the printed dialogue: Ama "Do you think girls
+  should study courses in the male dominated
+  areas?" Aziz "Yes" Ama "Why do you think so?",
+  with gender, equity, equality and inclusion noted);
+  describe experiences of self and others (hospital,
+  market/supermarket, bus terminal) using tense
+  structures, varied sentences, figurative
+  expressions; DIRECTIONS to familiar places with
+  opposite, adjacent, "a few metres away," "ten
+  minute-walk/drive," turn left/right and landmarks;
+  TECHNIQUES — voice modulation (pace, volume, tone,
+  stress; the printed pair "increase (noun) and
+  increase (verb)," p.4) and eye contact, posture,
+  facial expression, non-interruptive cues.
+- Listening Comprehension: extended texts — intent
+  or purpose (inform, persuade, instruct), the
+  speaker's enthusiasm and passion, main ideas and
+  supporting points; discuss and share opinions.
+- English Sounds OPENS as its own sub-strand: pure
+  vowels short (/a/, /i/, /e/) and long ("part, peel,
+  bloom," p.6); DIPHTHONGS in speech — centring
+  /eə/, /iə/ and closing /au/, /ai/; vowels and
+  diphthongs distinguished and used in connected
+  speech.
+
+STRAND 2 READING.
+- Comprehension: monitoring and mental visualisation
+  on narrative texts; prediction from prior
+  knowledge, typographical and visual features, text
+  features, organisational patterns and structure;
+  generate and answer questions on fiction, reading
+  closely for IMPLICIT meaning and citing evidence;
+  TEXT STRUCTURE named — description, sequence,
+  problem and solution, cause and effect, compare
+  and contrast — charted in a graphic organiser, then
+  learners write paragraphs following a structure;
+  NON-LITERARY TEXT FEATURES in three families —
+  Print (title, headings, bold, italics, captions),
+  Graphic (photograph, drawing, diagram, map, graph,
+  chart), Organisational (table of contents, index,
+  glossary) (p.9); interpret non-fiction for
+  attitudes, opinions, biases and facts, distinguishing
+  facts from opinions; personal responses supported
+  by textual evidence, viewpoints differentiated.
+- Summarising: main ideas in own words ("Do not
+  write the same words as the author"); central and
+  supporting ideas, defended choices, peer editing.
+
+STRAND 3 GRAMMAR USAGE.
+- Grammar — word classes in use: nouns (common,
+  proper, countable/uncountable, concrete; plurals
+  with emphasis on irregulars — mouse–mice,
+  child–children, sheep–sheep, half–halves);
+  pronouns in SIX kinds (personal, possessive,
+  relative, reflexive, interrogative, demonstrative);
+  adjectives in three positions (before the noun —
+  "Asiedu is an excellent singer"; after "to be" —
+  "Adzo was very tired"; with sense verbs — "The
+  fish tasted awful. He seemed very upset");
+  VERBS AS TENSE AND ASPECT in a full eight-form
+  grid on one verb (p.13): present — "I wash a car /
+  I am washing a car / I have washed the car / I have
+  been washing the car"; past — "I washed the car /
+  I was washing the car / I had washed the car / I
+  had been washing the car"; adverbs modifying
+  verbs, adjectives ("extremely difficult") and
+  other adverbs ("incredibly quickly");
+  conjunctions in three families — coordinating
+  (for, and, nor, but, or, yet, so), CORRELATIVE
+  (either…or, neither…nor, not only…but also),
+  subordinating (because, since, as, although,
+  though, while, whereas), plus adverbs functioning
+  as conjunctions (until, after, before);
+  COMPLEX PREPOSITIONS (more than one word) —
+  consist of, in front of, on behalf of, in view of,
+  in spite of, due to, near to, because of, by means
+  of, "by dint of (hard work)" (p.15) — for place,
+  time, reason and concession ("The prefect spoke
+  on behalf of the class"); determiners (articles,
+  possessives, demonstratives — "That cat is very
+  fat. An apple fell from the tree. Is your coffee
+  on the counter?").
+- Sentences: subject and predicate (composition of
+  each); COMPOUND sentences built from independent
+  clauses ("Kofi arrived late. He missed the exam.");
+  dependent and independent CLAUSES combined;
+  CONDITIONAL TYPE 1 taught with its rule printed
+  in full (p.18): if-clause simple present, main
+  clause simple future, the clauses' order not
+  fixed, used for real situations — "I will be happy
+  if you come to my party"; ACTIVE AND PASSIVE VOICE
+  — passive for processes, past actions with unknown
+  or known doers, reports and formal texts ("The
+  class won the game" → "The game was won by the
+  class," p.19); REPORTED SPEECH — direct changed
+  to reported, reporting verbs in the printed
+  examples (agreed, regretted, admitted, reported),
+  news reports composed; QUESTION TAGS accurately
+  ("You're not going to play football today, are
+  you? You like tea, don't you? She's older than me,
+  isn't she?" p.20).
+- Punctuation and Capitalisation: question mark,
+  exclamation mark, full stop, comma — identify,
+  use, and correct errors in paragraphs.
+- Vocabulary: vocabulary FOR SITUATIONS, with the
+  printed phrase banks — asking for advice ("I need
+  some advice. I've no idea what to do. What would
+  you do if you were me?" p.22), giving advice ("You
+  could always… My advice would be to… What you
+  need to do is… One thing you could do is…"),
+  agreeing ("I tend to agree with you. That's a good
+  idea. I'm with you on that point. I'll go along
+  with that"), disagreeing ("I see things differently.
+  I agree up to a point. However,… You have a point
+  there, but…"), ordering food in a restaurant,
+  speaking at a friend's birthday party; PROVERBS to
+  enrich communication — identify English proverbs,
+  find GHANAIAN proverbs to match them, use them in
+  sentences (filed in the document under a repeated
+  B7.3.4 numbering, recorded as printed).
+
+STRAND 4 WRITING.
+- Production and Distribution: cohesive devices in
+  full — compound sentences, then COMPLEX sentences
+  by clause family (time, conditional, purpose,
+  reason, result, concessive, place, manner);
+  pronouns in three kinds linking paragraphs; the
+  connector taxonomy for paragraphs (ordering,
+  addition, similarity, contrast, cause/effect,
+  sequence in time) with the standing NB that
+  logical connectors, pronouns and repetition of
+  words, synonyms and antonyms make a text cohesive
+  — "linked together to show meaning and beauty."
+- Text Types and Purposes: PERSONAL NARRATIVES in
+  first person with the full grammar checklist
+  (adjective phrases, adverbials, sequence connectors,
+  direct and indirect speech, noun phrases,
+  prepositional phrases, first-person pronouns),
+  edited for audience reaction and published in
+  different media including ICT; precise vocabulary —
+  "He staggers, to say precisely how someone walks"
+  (p.27) — and sensory language for people and
+  experiences; ADVERTISEMENTS (title, body, target
+  market, selling points; simple present for timeless
+  facts, modals/imperatives and mental verbs for
+  persuasion, rhetorical questions and repetition);
+  PROCESS paragraphs (aim, materials list, sequenced
+  steps — rules of a game, recipes, using a device,
+  "volcanic eruption, flooding," p.29; quantifiers
+  for amounts); informal letters with their features
+  (writer's address, date, salutation, body,
+  subscription, name); FORMAL WRITING (applications,
+  invitations, email, media texts — both addresses,
+  heading, signature; letters to the Headmaster/
+  mistress, Director of Education, Assembly Man/woman,
+  SMC and PTA chairmen; notices; media texts created
+  and reflected on); NOTE-TAKING for academic purposes
+  (source information, headings, key points, triggers
+  — mnemonics, colour, drawings — further reading);
+  notices and posters; ARTICLES for class and club
+  magazines (a rap poem or jingle, a community-
+  newspaper report, an autobiography for a youth
+  magazine, web page, blog or zine); DIALOGUES
+  between two interlocutors with eight printed
+  strategies (say it aloud, keep it brief and impactful,
+  give each character a unique voice, add world-
+  appropriate slang, cut out greetings) and speech
+  punctuation.
+- Building and Presenting Knowledge: research from
+  NON-TEXT sources (figures and tables) — record,
+  organise, describe simple graphical data accurately
+  in sentences and in presentation.
+
+STRAND 5 LITERATURE (its own strand at JHS).
+- ORAL literature: narratives by kind — FOLKTALES,
+  MYTHS, LEGENDS (write simple ones); poetry by
+  function — African poems: DIRGES, LULLABIES, WAR
+  AND PRAISE SONGS (p.35), their rhythmic variations,
+  cultural and social significance, written and
+  recited; traditional DRAMA by social function —
+  outdooring, puberty rites, marriages, festivals,
+  enstoolment/enskinment — read, distinguished,
+  performed.
+- WRITTEN literature: narrative, drama and poetry
+  analysed by PLOT, SETTING, CHARACTERS, compared
+  across two texts, composed and performed; poems
+  connected to values (love for neighbour, respect
+  for one another and public property).
+- Literary devices in use: metaphor, simile,
+  personification, alliteration, assonance,
+  consonance.
+
+### Basic 8 (body pp.37–68)
+
+STRAND 1 ORAL LANGUAGE.
+- Conversation: register in both directions
+  (informal — a football match, a fast-food joint;
+  formal — making reservations at a travel and tour
+  office, inviting the DISTRICT CHIEF EXECUTIVE to a
+  school function); OPEN-ENDED questions for
+  elaboration (the printed exchange: Tetteh "It is
+  December. Why is it raining so heavily?" Naa "I
+  think…" Tetteh "How can this…?", p.38; topics:
+  cultural practices, peace, patriotism); describe
+  familiar PLACES AND EVENTS with the printed
+  descriptive word bank (foggy, creepy, tingling,
+  piercing, tantalising, stale, bumpy, staggering)
+  and figurative language (a tourist site, a durbar);
+  directions for COMPLEX ROUTES (street names,
+  complex prepositions — in between; "quite a
+  distance, a day's journey"; permanent landmarks —
+  "from the airport to the Jubilee House");
+  TURN-TAKING as its own indicator — watched in
+  conversations, meetings (class/club/SRC) and round
+  table conferences, practised with a toy microphone,
+  flag or word cards, with body language and eye
+  contact.
+- Listening Comprehension: dialogues and discussions
+  by MORE THAN ONE SPEAKER — message, mood, tone;
+  second listening compared against first notes;
+  IMPLICIT meaning from vocabulary; talk shows and
+  news, opinions added.
+- English Sounds moves to CONSONANTS: PLOSIVES /p/,
+  /t/, /g/ with voiced/voiceless pairs (/b/ vs /p/);
+  FRICATIVES /f/, /v/, /θ/, /ð/ (voiced/voiceless);
+  NASALS /m/, /n/ and AFFRICATES /tʃ/, /dʒ/ — all in
+  context and in connected speech.
+
+STRAND 2 READING — non-fiction year.
+- Comprehension: monitoring and visualisation on
+  NON-FICTIONAL texts; prediction with re-reading
+  and skimming; questions in FOUR named kinds —
+  "Right there, Think and search, Author and you,
+  On your own" (p.45); text features of non-fiction;
+  CONTEXTUAL CLUES analysed (topic sentence,
+  vocabulary knowledge, cohesive devices, text
+  features — and the date of writing, author and
+  culture as influences on meaning); silent reading
+  with MORE COMPLEX questions; evidence cited for
+  implicit meaning; THEMES generated from a text and
+  applied to different situations; connections
+  between a text and other viewpoints; DERIVATION
+  to expand vocabulary into historical, cultural and
+  political contexts; grade-level vocabulary
+  integrated across contexts.
+- Summarising (filed inside Strand 2 without its own
+  sub-strand heading in the body): determine the
+  CENTRAL IDEA of paragraphs, eliminate unnecessary
+  information, state details in own words, summarise
+  in specific detail — with textual evidence cited
+  (standard B8.2.2.1).
+
+STRAND 3 GRAMMAR AND GRAMMAR USAGE (the strand
+title varies — recorded as printed).
+- Grammar: compound nouns in singular and plural
+  (its indicator carries the printed placeholder
+  "E.g. ??????????? (No example??)" — recorded as
+  printed, p.50); RELATIVE PRONOUNS in full —
+  who/whom, which/that, whose — for humans ("The
+  boy (who/that) won the competition is Kwame. The
+  girl whose picture you sent me is now our prefect")
+  and non-humans ("The car (which/that) is sprayed
+  dark brown is for Bashiru"), joining clause pairs
+  ("I like friends. They are helpful. → I like friends
+  that are helpful"); adjectives for vivid description
+  (opposing football sides — "The team captain arrived
+  wearing bushy hair"; settings — "The hotel is
+  situated in a serene environment"; materials,
+  objects); VERBS FOR THE FUTURE in a four-form grid
+  (p.51): "I will wash my clothes / We shall be doing
+  the dishes / They will have washed their clothes /
+  He will have been washing his clothes"; adverbs
+  widened — modifying adjectives ("a very funny
+  comedian"), pre-modifying other adverbs, prepositions
+  and prepositional phrases ("The bullet went right
+  through the shooter"), indefinite pronouns ("Nearly
+  everybody bought the same vehicle"), pre-determiners
+  ("more than three thousand Ghana Cedis") and cardinal
+  numerals ("about three weeks"); prepositions by
+  meaning — time, place, movement, AGENT ("This book
+  is written by Ama Ata Aidoo"), direction, instrument
+  ("Kwame comes by train daily"); REPORTED SPEECH for
+  questions and past events and news reports — filed
+  under a broken number (the page carries the printed
+  editorial note "Please check the numbering in red
+  highlight" and numbers the standard B8.3.1.5.2
+  inside a B8.3.1.6 standard block; its printed
+  example pair also mismatches — the direct question
+  names Genevieve, the reported version names Kofi —
+  all recorded as printed, p.53); question tags
+  consolidated (the same three printed examples as B7).
+- Punctuation and Capitalisation: COLON (introduce a
+  list, introduce speech in plays, separate chapters
+  from verses, separate hours from minutes),
+  SEMI-COLON (join independent clauses without a
+  conjunction; separate list items that contain commas),
+  APOSTROPHE in five uses (possession singular and
+  plural, possessive pronouns, the last word of
+  compound nouns, business firms' names, contraction)
+  (p.54).
+- Vocabulary: word relationships (synonyms, antonyms,
+  ANALOGY); CONNOTATIONS of words with similar
+  denotations.
+
+STRAND 4 WRITING.
+- Production and Distribution: cohesion as at B7,
+  plus DEFINING AND NON-DEFINING RELATIVE CLAUSES and
+  noun, adjectival and adverbial phrases to expand
+  sentences; INTRODUCTORY paragraphs that capture the
+  reader (anecdotes, facts), with the connector set
+  adding conditions (if, provided that, unless).
+- Text Types and Purposes: personal narratives as at
+  B7; vivid description of PLACES AND EVENTS with the
+  printed adjective banks (ancient, beautiful, boring,
+  bustling, charming, contemporary; ultimate, rare,
+  far-off, divine, violent, stellar…); SHORTER
+  TRANSACTIONAL TEXTS to convince — advertisements,
+  diary entries, postcards, invitation cards — adding
+  PHRASAL VERBS (pick up, run into, turn down, come
+  across) to the persuasive kit; PROBLEM/SOLUTION
+  paragraphs in full — the solution must be shown to
+  solve the problem, be cost-effective, feasible,
+  reasonable, able to stand up to objections and
+  better than other solutions, with who is in charge,
+  how it is funded, and evidence (expert opinion,
+  past examples, statistics, studies, logical
+  argument) (p.61); FORMAL WRITING — business letters
+  by kind (request, complaint, application, thanks,
+  congratulations, sympathy), notices, and MEDIA
+  TEXTS interpreted for overt and implied messages
+  (emails to news editors); notes, BROCHURES AND
+  FLYERS (A5 size, eye-catching headline, slogan or
+  logo, brief description, list of benefits or offers,
+  contact information, p.63); articles for SCHOOL
+  magazines, with a T-CHART named as the check for
+  errors and omissions; dialogues among MULTIPLE
+  interlocutors (names at the left, a colon after the
+  speaker's name, a new line for each speaker, stage
+  directions in brackets, sketch the scenario first);
+  SPEECHES — the printed three-part rule: "Tell what
+  you are going to tell them (introduction). Tell them
+  (body). Tell them what you told them (conclusion)"
+  (p.65).
+- Building and Presenting Knowledge: information from
+  figures, tables, graphs and maps used to support
+  ideas in writing.
+
+STRAND 5 LITERATURE.
+- CHARACTERS by type — ROUND/DYNAMIC against
+  FLAT/STATIC — examined in narrative and drama,
+  compared across two texts, created and performed
+  (p.67); poems by TYPE — SONNET, ACROSTIC, HAIKU —
+  composed and performed; MONOLOGUES AND DIALOGUES
+  conveying character in narratives and play scripts,
+  created with correct punctuation; literary devices
+  grow: EUPHEMISM, HYPERBOLE, ONOMATOPOEIA added;
+  SEQUENCE OF EVENTS analysed across film/media,
+  narratives and play scripts, and learners create
+  in all three.
+
+### Basic 9 (body pp.69–100)
+
+STRAND 1 ORAL LANGUAGE.
+- Conversation: register used ACCURATELY IN
+  SPONTANEOUS conversation, with local and
+  international slang and jargon identified and used
+  in informal talk (music, sports, hobbies, social
+  media, the cause of poor academic performance),
+  and scenes/skits acted in both registers to
+  distinguish characters; questions that LINK THE
+  IDEAS OF SEVERAL SPEAKERS ("In your opinion, what
+  are the views of people on…? How do you think we
+  should…? Why don't you…? Which of these do you
+  prefer…?"); NATIONAL AND GLOBAL ISSUES discussed
+  with open-ended questions — national (the youth in
+  agriculture, sanitation, lifestyle diseases), global
+  (violence, gender and inclusion, kidnapping,
+  terrorism, child trafficking) with phrasal verbs
+  and idioms; TURN-TAKING FOR ARGUMENT — DEBATING
+  (the printed topic: "children should be allowed
+  to take decisions on matters concerning them").
+- Listening Comprehension: AUDIO-VISUAL texts —
+  films, television programmes, documentaries,
+  recordings, radio programmes, music videos, dramas
+  — at the printed rate of about TWO HUNDRED WORDS
+  PER TWO MINUTES, key information written (message,
+  theme, tone, mood, character), inferences drawn;
+  learners INITIATE and lead collaborative discussions,
+  building on others' ideas and expressing their own
+  clearly and persuasively, including conferences.
+- English Sounds: /r/ and /l/ in beginning, middle
+  and end positions, distinguished and reproduced
+  (p.73); CONSONANT CLUSTERS in context (pl, pr, cr,
+  cl, tr, sm, sp, spl, spr, gh); WORD STRESS in mono-
+  and di-syllabic words (travel, visit).
+
+STRAND 2 READING.
+- Comprehension: read for enjoyment and knowledge
+  with set purposes; REFLECT on how reading changes
+  how self and others see the world (contrasting
+  viewpoints, evaluating reasoning, credibility);
+  evaluate how the MEDIA disseminates information
+  across text types, critiquing media messages and
+  creating and posting own articles by ICT; expand
+  ideas and perspectives by synthesis; timed reading
+  for specific information; predictions, patterns
+  and relationships; GENERALISATIONS linked to real
+  life; compare language, style, structure, purpose
+  and ideas across narrative, expository and
+  procedural texts; silent reading with more complex
+  questions (skim for details, scan for main ideas);
+  the EFFECT of a text on the reader, through the
+  writer's literary devices; figurative, symbolic
+  and sensory words interpreted (imagery, symbolism);
+  academic, domain-specific and technical vocabulary;
+  connections between known and unknown words and the
+  NUANCES of words and phrases.
+- Summarising: analyse a whole text critically and
+  provide an OBJECTIVE summary (standard B9.2.2.1,
+  p.81).
+
+STRAND 3 GRAMMAR USAGE.
+- Grammar moves to PHRASES AND CLAUSES: NOUN PHRASES
+  used accurately, with their FUNCTIONS listed —
+  subject ("The tall lady teaches English in Bakano
+  JHS"), subject complement ("The man is an awesome
+  welder"), direct object ("I like the sleek Apple
+  laptop"), object of a preposition ("for the winner
+  of the race"), apposition ("My hometown, Tamale,
+  is a wonderful place. Kwame Aidoo, the class
+  prefect of Grade 8, is my friend") — the printed
+  example set also files "Having been a chef, he knew
+  how to bake" among noun-phrase examples (recorded
+  as printed, pp.82–83); MULTIPLE ADJECTIVES IN THE
+  CORRECT ORDER with quantifiers ("The dazzlingly
+  beautiful winner walked down the aisle. The man
+  covered with mud crawled his way out of the
+  mudslide. Amma is wearing a bright coloured African
+  print. The old rickety bus stopped in the middle of
+  the road"); more complex PHRASAL VERBS (come after,
+  come along, blow up, make up); ADVERBIAL PHRASES by
+  function — how ("Aysha passed the exam quite
+  easily"), where ("I met Kwame near the bridge"), why
+  ("The law was abolished to end discrimination of
+  girls in school"), when ("The disgraced thief left
+  the scene as quickly as possible"); CONDITIONAL
+  TYPE 3 — an impossible condition in the past and
+  its probable result: "If I had worked harder, I
+  would have passed the exam. You could have been on
+  time if you had caught the bus" (p.84), with types
+  1–3 analysed into main and if-clauses; DEFINING AND
+  NON-DEFINING RELATIVE CLAUSES; subject and
+  predicate revisited; active and passive for OPINIONS;
+  reported speech in oral and written texts.
+- Punctuation and Capitalisation: DASH (mark an
+  interruption — "My son - where has he gone - will
+  be happy to see you"; introduce an explanation —
+  "It was not a lion - it was a tiger"; introduce a
+  list), HYPHEN in seven uses (compound words —
+  father-in-law; attributive compounds — a well-known
+  artist; prefix to root — co-ordinate; look-alike
+  expressions — a poor-rate collection against a poor
+  rate-collection; separating similar sounds —
+  pre-empt, Ross-shire; fractions and multipliers —
+  two-thirds, hundred-folds; and end-of-line word
+  breaks at a syllable), BRACKETS (additions of lesser
+  importance, explanations, cross references)
+  (pp.86–87).
+- Vocabulary: interpret vocabulary in more complex
+  texts (the sub-strand's whole filing is this single
+  indicator).
+
+STRAND 4 WRITING.
+- Production and Distribution: logically connected
+  paragraphs showing unity, completeness and
+  coherence; sentences EXPANDED by defining and
+  non-defining relative clauses — its printed pair
+  ("the men who stole the car were jailed" defining;
+  "The women, who stole the car, were jailed"
+  non-defining, the difference shown in the commas);
+  paragraph unity built from topic sentence, major
+  and minor supporting sentences and transitional
+  devices; MIXED paragraphs (topic sentence in the
+  middle) and PERIODIC paragraphs (topic sentence at
+  the end); the full connector taxonomy with
+  conditions added (if, provided that, unless).
+- Text Types and Purposes: DESCRIPTIVE essays —
+  multiple powerful adjectives, sentence structure
+  for effect (frontloading, listing, climactic
+  structure), selective detail for characters,
+  settings and mood; NARRATIVE TECHNIQUES TO
+  MANIPULATE TIME — BACKSTORY, FLASHBACK AND FLASH
+  FORWARD, FORESHADOWING — plus free writing with
+  emotive and sensory detail; PERSUASIVE/ARGUMENTATIVE
+  pieces defending a position, and a REJOINDER for
+  publication with its format (own address, date,
+  reference, recipient's address); INFORMATIVE/
+  EXPLANATORY texts — how and why something
+  happened, in objective language, and reports "devoid
+  of decisions based on personal bias, cultural
+  differences and any other criterion that cannot be
+  measured or proven"; FORMAL WRITING at full range —
+  business letters, email, MINUTES, programme agendas,
+  reports — formal language, no short forms or
+  abbreviations; SHORT TEXTS — flyers and posters
+  (A5, headline/slogan/logo, brief description,
+  benefits, contact information, a visual), INVITATION
+  CARDS (nature of the event, place, date and time,
+  dress code, invitee's name, RSVP) and EMAIL with
+  its anatomy printed (recipient address as name +
+  server — the example "aziz65(name)@gmail.(server)",
+  CC, subject, message, sender's name and contact)
+  (p.96); articles as SHORT REPORTS, CASE STUDIES and
+  LETTERS TO THE EDITOR for self-publication,
+  newspapers, literary magazines, scholarly journals
+  and webzines; SPEECHES with effect devices —
+  emotive adjectives ("Wonderful, magnificent,
+  fantastic, disgraceful, shocking, outrageous"),
+  TRIPLING ("It's your country, it's my country, it's
+  our future!"), repetition, parallel structure,
+  powerful imagery ("I have a dream"), inclusive
+  "we" (p.97).
+- Building and Presenting Knowledge: SHORT RESEARCH
+  PROJECTS on focused questions — issues in the
+  environment, school or community investigated and
+  presented in writing; the printed example
+  investigates the different brands of a product and
+  their prices — sachet/bottled water or cocoa
+  products (types, production, companies, prices,
+  advertising and marketing) — findings recorded and
+  organised, a list of references made "to avoiding
+  plagiarism" (as printed), individual or group
+  presentation; digital sources allowed (p.98).
+
+STRAND 5 LITERATURE (filed in the body inside the
+Strand 4 span, pp.99–100; the TOC lists it as its
+own strand).
+- Analyse how LANGUAGE conveys characters in
+  film/media, narratives and play scripts —
+  characters described by appearance, what they do,
+  what they say, and what others say about them;
+  create MONOLOGUES AND DIALOGUES in play scripts;
+  analyse the SEQUENCE OF EVENTS across descriptive
+  texts, autobiography, biography, narrative and
+  drama, comparing and creating across them; use
+  IMAGERY as the year's device set (personification,
+  simile, metaphors, idiomatic expressions); analyse
+  COMMON THEMES across film/media, narratives and
+  play scripts, adapt a narrative form or style to
+  compose own stories on a theme, and present with
+  ICT; the standing note: learners should reflect
+  independently and critically on their writing.
+
+Panel and back matter (pp.101–103): writers led by
+Ama Nyarko Marfo (Lead, EYE Africa) with Genevieve
+Mensah, Alfred Quaittoo, Abdul-Aziz Abdul-Moomin,
+Freda Quao, Comfort Dorvlo, James Tetteh, Joana
+Vanderpuije, Moses Gemeh, Collins Amoako, Richard
+Ayitey, Hazel Konadu Sarpong and Edwin Offei Atuah
+(Cambridge International, filed in the contributors
+column); reviewers Rev. Prof. Philip Arthur
+Gborsong (UCC — the B1–6 panel lead, here as
+reviewer), Prof. Kwame Asante (University of
+Education, Winneba), Mr. Ishmael Twum Odoom
+(Al-Rayan International School); supervisors Dr.
+Prince H. Armah (Director-General (Ag.), NaCCA) and
+Prof. Kwame Osei Kwarteng (Council Chairman);
+graphic designer Eugene Offei Tettey.
+Bibliography (p.103): 15 entries — Berk (1999)
+English Syntax, British Council, Colorado,
+Education.com, the CEFR, IXL, Quirk (1973) A
+University Grammar of English, Te Kete Ipurangi,
+UNESCO (2019) Global Proficiency Framework for
+Reading and Mathematics Grades 2 to 6, and six web
+links.
+
+### Slips and points recorded as printed
+
+- Dates: the cover says September 2020, the imprint
+  and every footer say © NaCCA 2021.
+- The SBA chapter says the CCP's school-based
+  assessment runs "throughout the four-year duration
+  of CCP" — the programme is three years (B7–B9).
+- The Organisation chapter's reference-number diagram
+  renders as a row of question marks in the text
+  layer; the Note to the Teacher carries the printed
+  parenthesis "(underlined sentence is not clear in
+  meaning)" against its own Reading paragraph.
+- B7's theme list runs "B7 to B10" in one line of the
+  Note while the programme is B7–B9; B8 and B9 theme
+  lists each name Entrepreneurship twice.
+- B7 numbering: the proverbs indicator is filed as
+  B7.3.4.1.1 under a B7.3.4.1 standard inside the
+  Vocabulary sub-strand; the TOC repeats "STRAND 3:
+  GRAMMAR" as a heading at p.21.
+- B8 numbering: the reported-speech standard is filed
+  as B8.3.1.5.2 inside a standard headed B8.3.1.6,
+  and the page carries the editorial note "Please
+  check the numbering in red highlight"; its example
+  pair mismatches names (Genevieve in the direct
+  question, Kofi in the reported version). The
+  compound-noun indicator's exemplar is the printed
+  placeholder "E.g. ??????????? (No example??)".
+  Strand 3 is titled "Grammar and Grammar Usage" in
+  B8 against "Grammar Usage" in B7 and B9; B8's
+  Summarising sits inside Strand 2 with no sub-strand
+  heading of its own.
+- B9 numbering: the standard B9.4.1.2 carries the
+  printed parenthesis "(Please check for an omission
+  here)"; the Literature section is filed inside the
+  Strand 4 span (its first standard headed simply
+  B9.5.1.1 under Strand 4's Building and Presenting
+  Knowledge), and one indicator is numbered
+  B9.5.1.14. The footer on p.78 is doubled
+  ("© NaCCA, Ministry of Education | 81" above the
+  2021 footer). The Vocabulary sub-strand header
+  prints "NDICATORS" for INDICATORS.
+- Recorded as facts of the document, not errors:
+  B8 is the non-fiction and future-forms year; the
+  conditional line is split across years (Type 1 at
+  B7, Type 3 at B9; Type 2 is never named); question
+  tags and reported speech repeat from primary with
+  the same printed examples; no pupil texts are
+  printed beyond short exemplar sentences and phrase
+  banks — a standards document, not a pupil book.
+
+GHANA CURRICULUM JHS 1–3 FULLY READ — 2026-10-26
+(full re-read, page by page from the document's own
+text; replaces the basics-only MAPPED filing)
+CITATION CHECK PASSED — 2026-10-26: anchors
+re-opened in the document itself and confirmed —
+the CCP projects line in the Foreword (p.ii), the
+five-level proficiency scale with Highly Proficient
+at 80%+ and the Basic 8 national test (p.xxi), four
+50-minute periods a week (p.xxix), "increase (noun)
+and increase (verb)" (B7, p.4), long vowels "part,
+peel, bloom" (B7, p.6), the eight-form wash grid —
+"I have washed the car / I had been washing the car"
+(B7, p.13), complex prepositions with "by dint of"
+(B7, p.15), Conditional Type 1's printed rule (B7,
+p.18), "The game was won by the class" (B7, p.19),
+the question-tag set (B7, p.20), the advice phrase
+bank "I need some advice" (B7, p.22), advertisements
+and "He staggers" (B7, p.27), process writing with
+volcanic eruption (B7, p.29), oral poetry by function
+— dirges, lullabies, war and praise songs (B7, p.35),
+"It is December. Why is it raining so heavily?" (B8,
+p.38), the four question kinds — Right there, Think
+and search, Author and you, On your own (B8, p.45),
+the future grid "They will have washed their clothes"
+(B8, p.51), "Please check the numbering in red
+highlight" with the Genevieve/Kofi reported-speech
+pair (B8, p.53), colon and semi-colon uses (B8, p.54),
+flyers on A5 paper (B8, p.63), the speech rule "Tell
+what you are going to tell them" (B8, p.65),
+round/dynamic and flat/static characters with sonnet,
+acrostic, haiku (B8, p.67), /r/ and /l/ in three
+positions (B9, p.73), Conditional Type 3 "If I had
+worked harder, I would have passed the exam" (B9,
+p.84), dash and hyphen — father-in-law, two-thirds
+(B9, p.86), the email anatomy "aziz65(name)@gmail.
+(server)" (B9, p.96), speech tripling "It's your
+country, it's my country, it's our future!" (B9,
+p.97), and the cocoa/water-brands research project
+(B9, p.98).
+
 
 ## The Distance Learning guides and workbooks — record note
 
