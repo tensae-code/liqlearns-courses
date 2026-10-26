@@ -1,3 +1,16 @@
+STATUS OF THIS FILE (audit, 2026-10-26): Libya's Grades 1–12
+books were read on 2026-10-25 — Grade 1 by Muse personally,
+the later grades with parallel checking help. Three open
+facts, stated plainly so nothing here is taken as cleaner
+than it is: (1) this file contains textbook passages
+transcribed word-for-word; before any new lesson is built
+from it, those passages must be scrubbed into summaries
+(the scrub is the user's call, not yet given). (2) Grade 4
+is a SOURCE PROBLEM — the record's Grade 4 files are the
+Grade 3 books re-covered (see its section below); the real
+Grade 4 books are not in hand. (3) No citation check has
+been run on this file yet.
+
 # Libya — English Grade 1: Pupils Book, Activity Book, Teacher Book
 
 Reading started 2026-10-25 (Muse, personally). Downloaded from the

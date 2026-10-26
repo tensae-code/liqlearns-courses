@@ -60,8 +60,9 @@ map is kept in the front notes. Basics:)
   sentence) and first sentences ("This is a mango";
   written descriptive sentences "My classroom is big").
 
-GHANA CURRICULUM B1–3 FULLY READ — 2026-10-25 (front) /
-filed here 2026-10-26 (basics-only)
+GHANA CURRICULUM B1–3 — read in full by the earlier
+Ghana front (2026-10-25); FILED HERE AS A MAP,
+2026-10-26 (basics-only filing). Citation check owed.
 
 ## English Language Curriculum for Basic 4–6 (NaCCA, September 2019)
 
@@ -86,8 +87,8 @@ Basic 4 detail (the frame the other two years follow):
   one: Nouns · Determiners · Pronouns · Adjectives ·
   Verbs · Adverbs (Basic 4's list, in order).
 
-GHANA CURRICULUM B4–6 FULLY READ — 2026-10-26
-(basics-only)
+GHANA CURRICULUM B4–6 MAPPED — 2026-10-26
+(basics-only filing — NOT a full read; full re-read owed)
 
 ## English Language Curriculum for JHS 1–3 — Common Core Programme (NaCCA, 2021)
 
@@ -107,8 +108,8 @@ in FIVE strands:
 - Strand 5 Literature: Narrative, Drama and Poetry —
   literature becomes its own strand at JHS.
 
-GHANA CURRICULUM JHS 1–3 FULLY READ — 2026-10-26
-(basics-only)
+GHANA CURRICULUM JHS 1–3 MAPPED — 2026-10-26
+(basics-only filing — NOT a full read; full re-read owed)
 
 ## The Distance Learning guides and workbooks — record note
 

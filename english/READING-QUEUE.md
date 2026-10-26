@@ -9,6 +9,25 @@ proper place — not held until every country is read.
 Source rule: finished countries only (library-secured books). A country
 joins this queue the day it finishes.
 
+AUDIT — 2026-10-26 (his order: every country called done is
+checked before anything else moves). Verified: (1) Egypt's
+map holds a section for each of its 26 books; the one doubted
+filing, Preparatory 7 Term 2, was checked against the book's
+own Scope and Sequence pages (PDF pp.5–7) — the filed Units
+7–12 and their grammar match the book exactly; the filing
+stands. (2) Palestine's Grade 1 closings and Ghana's B4–6 and
+JHS closings still said "FULLY READ" inside files whose own
+banner says MAPPED — corrected to MAPPED the same day; no
+country file now claims a full read it does not have.
+(3) Libya's file now carries a status banner at its head:
+agent-assisted read, transcribed passages awaiting his scrub
+ruling, the Grade 4 source hole, no citation check yet.
+(4) All 14 built lessons hold their full file shape and a
+`countries:` line in sources.md. Still open, named: the
+re-read queue below (Sec 12 next), the Libya scrub ruling,
+and citation checks for the pre-law reads (Libya, Egypt
+KG–Secondary 10 T1) whenever he calls for them.
+
 | Country | Early English books held | Reading state |
 |---|---|---|
 | Egypt | KG1, KG2, Primary 1–6, Prep 7–9, Sec 10–12 (26) | KG1 + KG2 + Primary 1 Term 1 + Term 2 + Primary 2 Term 1 + Term 2 + **Primary 3 Term 1 READ COMPLETE 2026-10-25** + **Primary 3 Term 2 READ COMPLETE 2026-10-25** + **Primary 4 Term 1 READ COMPLETE 2026-10-25** + **Primary 4 Term 2 READ COMPLETE 2026-10-25** + **Primary 5 Term 1 READ COMPLETE 2026-10-25** + **Primary 5 Term 2 READ COMPLETE 2026-10-26** + **Primary 6 Term 1 READ COMPLETE 2026-10-26** + **Primary 6 Term 2 READ COMPLETE 2026-10-26 — PRIMARY COMPLETE** + **Preparatory 7 Term 1 READ COMPLETE 2026-10-26** + **Preparatory 7 Term 2 READ COMPLETE 2026-10-26 — PREPARATORY 7 COMPLETE** + **Preparatory 8 Term 1 READ COMPLETE 2026-10-26** + **Preparatory 8 Term 2 READ COMPLETE 2026-10-26 — PREPARATORY 8 COMPLETE** + **Preparatory 9 Term 1 READ COMPLETE 2026-10-26** + **Preparatory 9 Term 2 READ COMPLETE 2026-10-26 — PREPARATORY 7–9 COMPLETE** + **Secondary 10 Term 1 READ COMPLETE 2026-10-26** + **Secondary 10 Term 2 READ COMPLETE 2026-10-26 — SECONDARY 10 COMPLETE** + **Secondary 11 Term 1 FULLY READ + CITATION CHECK PASSED 2026-10-26** + **Secondary 11 Term 2 FULLY READ + CITATION CHECK PASSED 2026-10-26** (Term 2 = the 2023–2024 New Hello printing, latest obtainable: the current series' T2 file is deleted from the ministry host and absent from Telegram) + **Secondary 12 Term 1 + Term 2 MAPPED (basics-only) — FULL RE-READ OWED** (Sec 12's two terms arrived bound in one PDF, English_language_Sec3.pdf). Egypt: 26 of 26 filed, fully read through Secondary 11 Term 2; the re-read queue continues: Sec 12, then India |

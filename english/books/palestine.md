@@ -41,8 +41,8 @@ Picture Dictionary and — last of all — The Alphabet:
 Palestine starts like Bangladesh: conversation first,
 letters last — the alphabet is not this book's opening.
 
-PALESTINE GRADE 1 PART 1 FULLY READ — 2026-10-26
-(basics-only)
+PALESTINE GRADE 1 PART 1 MAPPED — 2026-10-26
+(basics-only filing — NOT a full read; full re-read owed)
 
 ## Grade 1, Part 2 (Semester 2) — Student's Book & Workbook 1B
 
@@ -62,8 +62,9 @@ Dictionary and The Alphabet:
   "I'm short. He's / She's tall."; simple instructions
 - U18 Revision (Units 15–17)
 
-PALESTINE GRADE 1 PART 2 FULLY READ — 2026-10-26
-(basics-only) — GRADE 1 COMPLETE (both parts)
+PALESTINE GRADE 1 PART 2 MAPPED — 2026-10-26
+(basics-only filing — NOT a full read; full re-read owed)
+— GRADE 1 MAPPED (both parts)
 
 ## The other six items — record note
 
@@ -81,5 +82,6 @@ of our rows); archive.org holds none of them. The
 library's secured copies sit in the private textbooks
 repo. Filed record-only, plainly unread.
 
-**PALESTINE STATUS: Grade 1 read in full (both
-parts); the other six items record-only, unread.**
+**PALESTINE STATUS: Grade 1 MAPPED (both parts,
+basics-only filing; full re-read owed); the other six
+items record-only, unread.**
