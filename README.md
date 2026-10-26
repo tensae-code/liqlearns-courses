@@ -151,6 +151,19 @@ liqlearns-courses/
   counts as present. It exists so the code's session-length list
   stays honest: time "watched" while the learner was elsewhere
   would poison it.
+- THE CITATION CHECK (his ruling, 2026-10-26): no book is pushed
+  or called FINISHED on the reader's word alone. Between the
+  reading and the push, a separate checking pass goes through
+  the book's filing item by item: everything the filing mentions
+  must be attached to its place in the real textbook — country,
+  book, and PAGE — and the checker opens those pages in the book
+  itself and confirms the thing is really there. An item with no
+  page, or a page that does not hold it, sends the book back; it
+  is not finished. This is what the whole build is for: a learner
+  inside a lesson can ask the AI "where does it say this?" and
+  be taken to the page and the book of that country. The filings'
+  page tags are the index the AI answers from, and a lesson's
+  `sources.md` inherits them.
 - RANKED AND UNRANKED COURSES (his design, ruled 2026-10-26): a
   course can be taken two ways. RANKED is the platform's side —
   "amongst each other, among different people": the shared
