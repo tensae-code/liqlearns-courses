@@ -109,6 +109,20 @@ liqlearns-courses/
   meanings no longer share one title. CURRICULUM.md holds the plan
   only (units and lessons in order); each book's stocking notes live
   with the book's own map.
+- A LESSON IS A LEVEL (his ruling, 2026-10-26): every lesson is itself a
+  level on the ladder — not just the course's big Levels. A lesson's
+  level is counted from its chain: a lesson that needs nothing before
+  it is level 1; a lesson that needs a level 1 lesson first is level 2;
+  and so on. So a lesson CAN MOVE — a lesson that is level 1 today
+  becomes level 2 later if something new comes before it. The numbers
+  grow by themselves from the chain; nobody renumbers by hand. The
+  small steps INSIDE one lesson (its sub-lessons) are RANKS.
+- LAUNCH FIRST, TOUCH-UPS AS UPDATES (his ruling, 2026-10-26): the
+  product launches when the textbook library is complete — every
+  country's books found — and the courses are made. The courses built
+  from the books found (and still being found) are the BASE. Level
+  fixes and touch-ups, and extra-bonus material, come later as
+  UPDATES after launch — they are not work for now.
 - TIPS ARE OURS (his ruling, 2026-10-26): a lesson's teaching comes from
   the government textbooks only. Anything extra — a clearer way to say a
   thing, a check or a trick that helps the learner DO the thing, or help
