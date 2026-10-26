@@ -19,6 +19,7 @@ the page it lives on and the course lesson it was filed into.
 | [bangladesh.md](bangladesh.md) | Bangladesh — English for Today Classes 1, 2, 3, 4, 5, 6, 8, 9, 10 (9 rows, 8 physical books) | **ALL FULLY READ + CITATION CHECKS PASSED 2026-10-26 — BANGLADESH COMPLETE** |
 | [ghana.md](ghana.md) | Ghana — NaCCA English curricula B1–3, B4–6, JHS 1–3 + Distance Learning guides/workbooks (28 rows) | **ALL THREE CURRICULA FULLY READ + CITATION CHECKS PASSED 2026-10-26 — GHANA COMPLETE on its curricula** · Distance Learning items record-only, unread |
 | [palestine.md](palestine.md) | Palestine — English for Palestine G1 P1–2, G1/G2/G5 blended modules, G2 P1, G10 P1, G12 Riada (8 items) | **GRADE 1 FULLY READ + CITATION CHECKS PASSED 2026-10-26** · other 6 items record-only, unread |
+| [mauritania.md](mauritania.md) | Mauritania — Study English 6th Year Secondary (Grade 12) | **FULLY READ + CITATION CHECK PASSED 2026-10-26** (IPN 2025; 18 lessons in 7 units; functions spine: modals → cause/effect → argument → present perfect → reported speech → question tags → congratulations) |
 | [nicaragua.md](nicaragua.md) | Nicaragua — Inglés Activity Books 1, 3, 4 + Multigrado (G10 secondary in hand) | AB1 + Multigrado READ COMPLETE 2026-10-25 · **AB3 + AB4 + G10 book + G10 module FULLY READ + CITATION CHECKS PASSED 2026-10-26** |
 
 North Macedonia Grade 2: **book not opened yet** — the portal link in
