@@ -1,5 +1,12 @@
 # Palestine — English books read for LiqLearns
 
+CORRECTION (his ruling, 2026-10-26): this file was filed
+basics-only — Muse's own change, never his order, now
+REVOKED. What is filed here is a MAP, not a full read.
+A full re-read is owed before the citation check and
+before any lesson is built from it.
+
+
 Palestine's set: **English for Palestine** (Ministry of
 Education & Higher Education with Macmillan), pupil's
 book + workbook in one volume per part. In the record:

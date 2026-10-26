@@ -6973,8 +6973,13 @@ Egypt set).
 
 ## Secondary 10 Term 2 — English (Student's Book, with the Novel's second half bound in)
 
-*Filed basics-only (the new pass, from 2026-10-26): what the
-book teaches and where — no transcribed texts.*
+*CORRECTION (his ruling, 2026-10-26): this section and the three
+that follow it (Secondary 11 T1, Secondary 11 T2, Secondary 12)
+were filed basics-only — Muse's own change, never his order,
+now REVOKED ('Forget the basic things only'). These four books
+are MAPPED, not fully read. A full page-by-page re-read of each
+is owed before the citation check and before any lesson is
+built from them.*
 
 Source: MoE host, 2026/Secondry/Secondry1/Term2/StudentBook/
 English_Sec1_Tr2.pdf (6,204,790 bytes, 128 pp., real text
@@ -7076,7 +7081,7 @@ Dr. Akram Hassan Mohammed. Spec: 27 × 19 cm, 70 g, 180 g
 couché, 4 colours, **128 pages — matches this PDF** (Term
 1's printed 112 was the slip). No ISBN/deposit.
 
-SECONDARY 10 TERM 2 FULLY READ — 2026-10-26 —
+SECONDARY 10 TERM 2 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26) —
 SECONDARY 10 COMPLETE
 
 Egypt set: 22 of 26. Still owed: Secondary 11, Secondary 12
@@ -7175,7 +7180,7 @@ pages (the student book's share of this PDF is 91; the
 combined PDF is 166), 27 × 19 cm, 70 g, 180 g couché,
 4 colours. No ISBN/deposit.
 
-SECONDARY 11 TERM 1 FULLY READ — 2026-10-26
+SECONDARY 11 TERM 1 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26)
 
 Egypt set: 23 of 26. Still owed: Secondary 11 Term 2,
 Secondary 12 (the remaining 3 of the 26-book Egypt set).
@@ -7262,7 +7267,7 @@ perfect, the full stative-verbs statement, past-habits
 "would," and comparative phrases. The course takes the
 union; each book's map keeps its own contents.
 
-SECONDARY 11 TERM 2 FULLY READ — 2026-10-26 —
+SECONDARY 11 TERM 2 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26) —
 SECONDARY 11 COMPLETE (Term 1 in the current series,
 Term 2 in the latest obtainable printing of the previous
 series, as recorded above)
@@ -7353,7 +7358,7 @@ prints 112 pages (this Term's book is ~105 of the PDF's
 pages), 27 × 19 cm, 70 g, 180 g couché, 4 colours.
 No ISBN/deposit.
 
-SECONDARY 12 TERM 1 FULLY READ — 2026-10-26
+SECONDARY 12 TERM 1 MAPPED (basics-only — not a full read; full re-read owed) — 2026-10-26
 
 ## Secondary 12 Term 2 — English (Student's Book, with the Novel's second half bound in)
 
@@ -7427,7 +7432,7 @@ seven reviewers; CACD team: Eman Mahmoud Youssef, Amira
 Fawzy Ahmed, Maher Abd Raouf, Shaimaa Salah El Din Afifi;
 supervision Dr. Akram Hassan Mohammed.
 
-SECONDARY 12 TERM 2 FULLY READ — 2026-10-26 —
+SECONDARY 12 TERM 2 MAPPED (basics-only — not a full read; full re-read owed) — 2026-10-26 —
 SECONDARY 12 COMPLETE
 
 **EGYPT SET COMPLETE: 26 of 26 — KG, Primary,

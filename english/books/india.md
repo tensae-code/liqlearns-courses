@@ -5,8 +5,11 @@ Educational Research and Training, the central
 government's own publisher) — Marigold for Classes 1–5,
 Honeysuckle 6, Honeycomb 7, Honeydew 8, Beehive 9, First
 Flight 10, Hornbill 11, Flamingo 12. Twelve books.
-Read basics-only: what each book teaches and where —
-no transcription.
+CORRECTION (his ruling, 2026-10-26): these twelve books were
+filed basics-only — Muse's own change, never his order, now
+REVOKED. They are MAPPED, not fully read. A full page-by-page
+re-read of each is owed before the citation check and before
+any lesson is built from them.
 
 ## Class 1 — Marigold (Textbook in English for Class I)
 
@@ -32,7 +35,7 @@ words, short sentences, and the world close to the child.
 - U9 Clouds · Anandi's Rainbow
 - U10 Flying-Man · The Tailor and his Friend
 
-INDIA CLASS 1 FULLY READ — 2026-10-26 (basics-only)
+INDIA CLASS 1 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26)
 
 ## Class 2 — Marigold Book Two (Textbook in English for Class II)
 
@@ -61,7 +64,7 @@ reading questions, and talk/do/write activities.
   Porridge Pot
 - U10 Strange Talk · The Grasshopper and the Ant
 
-INDIA CLASS 2 FULLY READ — 2026-10-26 (basics-only)
+INDIA CLASS 2 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26)
 
 ## Class 3 — Marigold Book Three (Textbook in English for Class III)
 
@@ -82,7 +85,7 @@ reading questions, and talk/do/write activities.
 - U9 Don't Tell · He is My Brother
 - U10 How Creatures Move · The Ship of the Desert
 
-INDIA CLASS 3 FULLY READ — 2026-10-26 (basics-only)
+INDIA CLASS 3 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26)
 
 ## Class 4 — Marigold Book Four (Textbook in English for Class IV)
 
@@ -103,7 +106,7 @@ longer (two are classics in adapted form).
 - U8 Books · Going to buy a Book
 - U9 The Naughty Boy · Pinocchio
 
-INDIA CLASS 4 FULLY READ — 2026-10-26 (basics-only)
+INDIA CLASS 4 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26)
 
 ## Class 5 — Marigold Book Five (Textbook in English for Class V)
 
@@ -125,7 +128,7 @@ TEN units, poem + story (Unit 9 is a single long poem):
 - U9 Sing a Song of People
 - U10 Malu Bhalu · Who Will be Ningthou?
 
-INDIA CLASS 5 FULLY READ — 2026-10-26 (basics-only) —
+INDIA CLASS 5 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26) —
 MARIGOLD BAND (CLASSES 1–5) COMPLETE
 
 ## Class 6 — Honeysuckle (Textbook in English for Class VI)
@@ -153,7 +156,7 @@ sit between unit groups.
 - U9 Desert Animals · Whatif
 - U10 The Banyan Tree
 
-INDIA CLASS 6 FULLY READ — 2026-10-26 (basics-only)
+INDIA CLASS 6 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26)
 
 ## Class 7 — Honeycomb (Textbook in English for Class VII)
 
@@ -173,7 +176,7 @@ as Honeysuckle, teacher notes between unit groups.
 - U9 A Bicycle in Good Repair · Garden Snake
 - U10 The Story of Cricket (prose; no poem listed)
 
-INDIA CLASS 7 FULLY READ — 2026-10-26 (basics-only)
+INDIA CLASS 7 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26)
 
 ## Class 8 — Honeydew (Textbook in English for Class VIII)
 
@@ -194,7 +197,7 @@ route and shape (the last of the Honey- books).
 - U9 The Great Stone Face–I
 - U10 The Great Stone Face–II
 
-INDIA CLASS 8 FULLY READ — 2026-10-26 (basics-only)
+INDIA CLASS 8 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26)
 
 ## Class 9 — Beehive (Textbook in English for Class IX)
 
@@ -225,7 +228,7 @@ the pieces are real literature with named writers.
   Seal (William Wordsworth)
 - U11 If I Were You (Douglas James) — a play; no poem
 
-INDIA CLASS 9 FULLY READ — 2026-10-26 (basics-only)
+INDIA CLASS 9 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26)
 
 ## Class 10 — First Flight (Textbook in English for Class X)
 
@@ -255,7 +258,7 @@ two poems.
   Yeats)
 - U11 The Proposal (Anton Chekhov) — a play
 
-INDIA CLASS 10 FULLY READ — 2026-10-26 (basics-only)
+INDIA CLASS 10 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26)
 
 ## Class 11 — Hornbill (Textbook in English for Class XI)
 
@@ -285,7 +288,7 @@ WRITING SKILLS (taught as six kinds): Note-making ·
 Summarising · Sub-titling · Essay-writing ·
 Letter-writing · Creative Writing.
 
-INDIA CLASS 11 FULLY READ — 2026-10-26 (basics-only)
+INDIA CLASS 11 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26)
 
 ## Class 12 — Flamingo (Textbook in English for Class XII)
 
@@ -313,6 +316,6 @@ POETRY:
 - 5 A Roadside Stand (Robert Frost)
 - 6 Aunt Jennifer's Tigers (Adrienne Rich)
 
-INDIA CLASS 12 FULLY READ — 2026-10-26 (basics-only) —
+INDIA CLASS 12 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26) —
 **INDIA COMPLETE: all 12 NCERT English books, Classes
 1–12, read 2026-10-26.**

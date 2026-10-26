@@ -46,8 +46,9 @@ New for Nicaragua: THE ALPHABET arrives as a named unit
 here, in the third book — after two books of talk and
 tracing. AB1 had no alphabet at all; AB3 opens with it.
 
-NICARAGUA ACTIVITY BOOK 3 FULLY READ — 2026-10-26
-(basics-only)
+NICARAGUA ACTIVITY BOOK 3 MAPPED — 2026-10-26
+(basics-only — NOT a full read; full re-read owed, his
+ruling 2026-10-26)
 
 ## Activity Book 4 (primary English programme)
 
@@ -57,8 +58,9 @@ Weather · Leisure time · On vacation time · Daily
 routines · Taking Care · At The Restaurant · The
 Concert · The Time (times of day, o'clock, early/late).
 
-NICARAGUA ACTIVITY BOOK 4 FULLY READ — 2026-10-26
-(basics-only)
+NICARAGUA ACTIVITY BOOK 4 MAPPED — 2026-10-26
+(basics-only — NOT a full read; full re-read owed, his
+ruling 2026-10-26)
 
 ## Still queued
 

@@ -151,6 +151,22 @@ liqlearns-courses/
   counts as present. It exists so the code's session-length list
   stays honest: time "watched" while the learner was elsewhere
   would poison it.
+- FULL READS ONLY (his ruling, 2026-10-26, correcting Muse):
+  every book is read WHOLE — every page, everything in it. The
+  "basics-only" pass (a tight map instead of a full read) was
+  Muse's own change, made while handling another AI's review;
+  it was never his order, and he revoked it in his words:
+  "Forget what Claude said. Forget the basic things only."
+  The reason for full reads is the build itself: every
+  country's version of a thing is put together into ONE
+  explanation, and ALL of the book's questions are taken out
+  and saved for play and for teachers — that needs the whole
+  book, page by page, not its outline. Books filed basics-only
+  before this ruling (Egypt Secondary 10 T2–12, India,
+  Bangladesh, the Ghana and Palestine filings, Nicaragua
+  Activity Books 3–4) stand in their files as MAPPED, not
+  read, and each owes a full re-read before the citation
+  check and before any lesson is built from it.
 - THE CITATION CHECK (his ruling, 2026-10-26): no book is pushed
   or called FINISHED on the reader's word alone. Between the
   reading and the push, a separate checking pass goes through

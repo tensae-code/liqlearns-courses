@@ -31,7 +31,7 @@ in Unit 2 — the reverse of Egypt's and Libya's books.
 - Unit 5 Rhymes and Sounds (3 lessons): Animal Sounds,
   Where Do You Live?, A Family Tree
 
-BANGLADESH CLASS 1 FULLY READ — 2026-10-26 (basics-only)
+BANGLADESH CLASS 1 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26)
 
 ## Class 2 — English for Today, Class Two
 
@@ -56,7 +56,7 @@ TEN units — the book widens from Class 1's five:
 - Unit 10 Story Time (2: The Crow and the Jar; The Boys
   and the Frog)
 
-BANGLADESH CLASS 2 FULLY READ — 2026-10-26 (basics-only)
+BANGLADESH CLASS 2 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26)
 
 ## Class 3 — English for Today, Class Three
 
@@ -80,7 +80,7 @@ numbers), and the middle-sounds phonics continues:
 - Unit 8 Facts and Fables (2: The Ant and the
   Grasshopper; a hill festival)
 
-BANGLADESH CLASS 3 FULLY READ — 2026-10-26 (basics-only)
+BANGLADESH CLASS 3 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26)
 
 ## Class 4 — English for Today, Class Four
 
@@ -109,7 +109,7 @@ Named grammar in this book: the verb "to be," Wh-words
 with Do/Does, at/in, the Present Continuous, and the
 Simple Past Tense.
 
-BANGLADESH CLASS 4 FULLY READ — 2026-10-26 (basics-only)
+BANGLADESH CLASS 4 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26)
 
 ## Class 5 — English for Today, Class Five
 
@@ -132,7 +132,7 @@ Beautiful! · It Was a Great Day! · Completing Forms ·
 Stay Safe! · Cyclone Aila · Story: Why Does the Frog
 Croak? · Vocabulary.
 
-BANGLADESH CLASS 5 FULLY READ — 2026-10-26 (basics-only) —
+BANGLADESH CLASS 5 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26) —
 PRIMARY BAND (CLASSES 1–5) COMPLETE
 
 ## Class 6 — English for Today, Class Six
@@ -161,7 +161,7 @@ a test · What should we do? · Too much or too little
 water · An invitation for Ibrahim · The Garden · Sample
 Question.
 
-BANGLADESH CLASS 6 FULLY READ — 2026-10-26 (basics-only)
+BANGLADESH CLASS 6 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26)
 
 ## Class 8 — English for Today, Class Eight
 
@@ -185,7 +185,7 @@ with its outcomes, plus a Sample Question:
 - U11 Women's Role in Uprisings
 - Sample Question
 
-BANGLADESH CLASS 8 FULLY READ — 2026-10-26 (basics-only)
+BANGLADESH CLASS 8 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26)
 
 ## Class 9 — English for Today, Class Nine
 
@@ -200,7 +200,7 @@ with learning outcomes:
   Loneliness · U14 Renewable Energy · U15 Media and
   Modes of E-communication · U16 Graffiti
 
-BANGLADESH CLASS 9 FULLY READ — 2026-10-26 (basics-only)
+BANGLADESH CLASS 9 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26)
 
 ## Class 10 — English for Today, Classes Nine–Ten
 
@@ -215,6 +215,6 @@ An older combined edition (2018, revised 2017) exists
 with a partly reshuffled unit order; the current
 printing read here governs.
 
-BANGLADESH CLASS 10 FULLY READ — 2026-10-26 (basics-only)
+BANGLADESH CLASS 10 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26)
 — **BANGLADESH COMPLETE: all 9 record rows read (the
 Classes 9–10 volume serving both of its rows).**

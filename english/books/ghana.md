@@ -1,5 +1,12 @@
 # Ghana — English books read for LiqLearns
 
+CORRECTION (his ruling, 2026-10-26): this file was filed
+basics-only — Muse's own change, never his order, now
+REVOKED. What is filed here is a MAP, not a full read.
+A full re-read is owed before the citation check and
+before any lesson is built from it.
+
+
 Ghana's set is different in kind: there is NO government
 pupil textbook for English. The library holds the
 official standards every approved book must teach —
