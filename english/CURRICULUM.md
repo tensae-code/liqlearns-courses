@@ -402,3 +402,21 @@ the useful phrases), sensory details for descriptive
 writing, and the rules poster (clear title, short
 sentences, bullets, imperatives). The chaptered story
 grows with the term: one story across all six units.
+
+**Stocked by Egypt Preparatory 8 Term 1 — Year Two opens:**
+the gathering-and-extending term. The passive is boxed for
+the first time (present simple passive: object + am/is/are +
+past participle; modal passive: object + modal + be + past
+participle). The conditionals become a stated pair — first
+(real or possible) and second (unreal or imaginary: If +
+past simple, would + infinitive) — the second conditional is
+new stock. Past simple and past continuous are set side by
+side in one place; the connectors restated with but on the
+contrast side. New named reading moves: inference, fact vs
+opinion, context clues, the speaker's tone, and the Real Talk
+rule for mixing tenses (present perfect for experiences, past
+simple for details and history). Writing length steps up to
+90–100 words; the biography kind is defined (who they are,
+what they did, why they are important). The chaptered-story
+form settles: one story per half-term, three chapters, one
+chapter per unit.

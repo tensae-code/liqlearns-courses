@@ -5363,3 +5363,225 @@ PREPARATORY 7 TERM 2 FULLY READ — 2026-10-26
 
 Still owed: Preparatory 8–9, Secondary 10–12 (the
 remaining 10 of the 26-book Egypt set).
+
+---
+
+## Egypt — Preparatory 8 Term 1 (English, Student's Book)
+
+Source: downloaded direct from the Egypt MoE e-learning host,
+2026/Prepratory/Prepratory2/Term1/StudentBook/English_Prp2_Tr1.pdf
+(the ministry's "Prepratory" spelling and the Prp filename stem;
+38,336,305 bytes; Last-Modified 07 Sep 2025 — the only live copy,
+taken per the edition rule). 112 pages; the ministry's raw file
+(Creator Adobe InDesign 17.3, Producer Adobe PDF Library 16.0.7).
+This book HAS a real text layer (169,934 non-whitespace chars),
+though the extraction renders much body text letter-spaced; the
+book was read visually, all 112 pages. Printed folio = PDF page
+throughout.
+
+Identity: cover "ENGLISH — Preparatory Schools - Year Two -
+Term 1 — 2025 - 2026 — Student's Book." Ministry message p.4 is
+the same Preparatory-framework variant as Prep 7 (same Key
+Features list). Teacher front section: Scope and Sequence
+pp.5–7, Lesson Components explainer pages pp.8–10. Contents
+p.3: U1 Gen Alpha p.13 · U2 My Digital Footprint p.27 · U3
+Facing Challenges p.41 · Review 1 p.55 · U4 Art and Expression
+p.58 · U5 Around the World p.72 · U6 Young Innovators p.87 ·
+Review 2 p.100 · Audioscripts pp.103–107 · Notes pp.108–111.
+
+UNIT SHAPE (Prep 8 Term 1): six lessons per unit — L1 reading,
+L2 listening + Language in Use, L3 reading, L4 Story Time,
+L5 "Let's Talk" (a dialog lesson with a Conversation Tip and a
+role-play), L6 writing (a "Before You Write" page: target
+language, target vocabulary of at least 6 words, a model, the
+task) — then Assessment Corner and a "My Self-Reflection" page
+("I can…" by Reading / Vocabulary / Listening / Speaking /
+Language / Writing / Life Skills & Values). Writing length steps
+up: tasks are 90–100 words (Prep 7 asked 80–100). Think–Pair–
+Share remains the standard speaking frame. Start Smart
+(pp.11–12) is the diagnostic pre-test on the Prep 7 system.
+
+GRAMMAR SPINE — the term is a gathering-and-extending pass over
+the system at Prep 8 depth:
+- U1: the present tenses together — present simple restated and
+  present continuous with its uses box (actions happening right
+  now; the arranged-future use is practised in the exercises).
+- U2: modal verbs in use + the PASSIVE, boxed properly for the
+  first time in the run: Present Simple Passive = object +
+  am/is/are + past participle; Modal Passive = object + modal +
+  be + past participle (p.31), taught through digital-footprint
+  sentences (active ↔ passive transformations).
+- U3: Past Simple and Past Continuous boxed side by side (p.45)
+  — the interrupted-action pattern (while/when) practised as a
+  pair; the past continuous Prep 7 T2 boxed alone is here set
+  against the past simple in one place.
+- U4: Connectors restated as one box (p.62): cause → because;
+  result → so; contrast → but / although (Prep 7 T1's U6 set
+  with but added to the contrast side).
+- U5: Comparatives and Superlatives restated in use-based form
+  (p.76 Tip).
+- U6: the CONDITIONALS box (p.91) — First conditional (If +
+  present simple, will + infinitive; real or possible future
+  situations) AND the SECOND conditional, NEW in the run (If +
+  past simple, would + infinitive; unreal or imaginary
+  situations in present or future). The first conditional from
+  Primary 6 T2 / Prep 7 T1 is now one half of a stated pair.
+
+READING SKILLS named this term: identifying the main idea
+(Reading Tips box, U1 L1: read fast, look for big clues, watch
+the title, headings, and the first and last sentences of
+paragraphs); INFERENCE defined + Fact vs Opinion (Reading Tips,
+U5 L1, p.74 — telling a fact from an opinion is taught as a
+reading move); Context Clues Tip (U6 L3, p.92: guess an unknown
+word from the sentences before and after it); identifying the
+speaker's tone, attitude or emotion (Listening Tip, U6 L2,
+p.90).
+
+REAL-TALK TIP (U5 L5, p.82) — a new named kind: in real
+conversations we mix tenses; use the present perfect to talk
+about experiences and the past simple for specific details or
+history. (The book uses the present perfect in its dialogs and
+self-reflection lines this term without boxing it here — it was
+boxed in Prep 7 T2 U2.)
+
+UNIT BY UNIT:
+- U1 Gen Alpha (pp.13–26): L1 reading "Gen Alpha: The Young
+  Digital Natives" (the generation born around 2010 to the
+  mid-2020s, digital natives, screen time and balance) with the
+  main-idea Reading Tips box and a vocabulary match defined
+  in-lesson. L2 listening: the "Gen Alpha's Digital Life"
+  podcast — an interview with Dr. Wessam (script p.103) — +
+  present tenses. L3 reading "The Gen Z–Alpha Bridge" (Gen Z
+  born 1997–2012, Gen Alpha from 2010; the digital language the
+  two generations share). L4 Story Time: The Little Inventor
+  Ch.1. L6 writing: a blog post about a daily routine using
+  technology, written with the present tenses.
+- U2 My Digital Footprint (pp.27–40): L1 reading on the digital
+  footprint (online identity, data, traces, privacy settings).
+  L2 listening: the "Web Guardians" podcast on staying safe
+  online (script p.104: a digital footprint is "like a trail of
+  breadcrumbs"; strong passwords, privacy settings, talk to a
+  trusted adult) + the passive boxes. L3 "Managing Your Online
+  Data." L4: The Little Inventor Ch.2. L6 writing: tips to
+  protect your online privacy.
+- U3 Facing Challenges (pp.41–54): L1 a motivational article on
+  overcoming challenges (determination, obstacles, courage).
+  L2 listening: Laila's race story (script pp.104–105 — she
+  falls, her knee bleeds, she refuses to quit: summary only) +
+  the past-tense pair. L3 "Facing Traffic Challenges": Cairo's
+  traffic problems and Egypt's solutions (metro Lines 3 and 4,
+  Tahya Misr Bridge, the electric train and the monorail).
+  L4: The Little Inventor Ch.3 (the story ends). L6 writing: a
+  paragraph (90–100 words) about a challenge you faced and
+  overcame.
+- Review 1 (pp.55–57): U1–U3 vocabulary and language; a Gen
+  Alpha listening text (script p.105).
+- U4 Art and Expression (pp.58–71): L1 an article about art and
+  artists. L2 listening: an interview with the artist Youssef
+  (script pp.105–106 — imagination, clay and metal sculpture,
+  colourful paints) + the Connectors box. L3 an article about
+  Mahmoud Mokhtar (born 1891, died 1934; the Nahdat Misr statue,
+  placed in a Cairo square in 1928; art schools in Egypt and
+  Paris) — a real artist, told as biography. L4: The Hidden
+  Island Ch.1. L6 writing: an email about a kind of art you
+  like.
+- U5 Around the World (pp.72–86): L1 Rokaya's travel blog
+  (Japan and Morocco) with the Inference box and the Fact vs
+  Opinion Reading Tips (p.74). L2 listening: "A Tour Around
+  Cairo" (script p.106 — the Pyramids of Giza, the Great
+  Sphinx, the Grand Egyptian Museum, the New Administrative
+  Capital, Khan El-Khalili Bazaar). L3 "Four Amazing Places"
+  with REAL PHOTOGRAPHS: Petra, Machu Picchu, Reykjavik,
+  Chefchaouen. L4: The Hidden Island Ch.2. L5 Let's Talk: the
+  Nada-and-Noura dialog (the Colosseum, Big Ben, souvenirs)
+  with a Conversation Tip (use comparatives and superlatives to
+  compare places) and the Real Talk Tip on mixing tenses
+  (p.82). L6 writing: a social media post (90–100 words) about
+  a country you would like to visit; the Social Media Post Tip
+  (p.84) restates Prep 7 T1's five points in full (catchy
+  intro; clear short sentences; emojis and symbols in measure;
+  be positive and kind; check spelling and grammar).
+- U6 Young Innovators (pp.87–99): L1 reading "Making Your
+  Ideas Happen" (find a problem, plan, build a model, test it,
+  show or sell the real version; impact defined in-text as how
+  an invention helps people). L2 listening: the biography of
+  Ahmed Zewail (script pp.106–107: born in Damanhur in 1946,
+  grew up in Alexandria, studied at Alexandria University,
+  professor of chemistry at the California Institute of
+  Technology, the femtosecond discovery, Nobel Prize in
+  Chemistry 1999 — the first Egyptian and Arab scientist to
+  receive the Nobel Prize in this field) with the tone
+  Listening Tip and a REAL PHOTOGRAPH of Zewail (p.90). L3 "A
+  Man of Impact": Hany Azer, the Egyptian engineer who was
+  chief engineer for Berlin Main Station, with a REAL
+  PHOTOGRAPH (p.92) and the Context Clues Tip. L4: The Hidden
+  Island Ch.3 (the story ends). L5 Let's Talk: the Zeina-and-
+  Lina dialog (brainstorming, feedback, a water-saving device)
+  with a Conversation Tip on "if" sentences. L6 writing: a
+  biography (90–100 words) about your role model; the model is
+  a cloze biography of Ahmed Idris, the Nubian soldier whose
+  unwritten-language idea gave the Egyptian army a secret code
+  in the 1973 October War and who was honoured in 2017 with
+  the Order of the Sinai Star — with a REAL PHOTOGRAPH of the
+  honouring ceremony (p.97); the Biography Tip defines the
+  kind: the story of a person's life — who they are, what they
+  did, and why they are important.
+- Review 2 (pp.100–102): Dina the sculptor listening (script
+  p.107 — her statue of a bird became a symbol of hope); a
+  family trip to see Mount Fuji reading; a paragraph (90–100
+  words) on "The Importance of Innovation in Modern Life";
+  sentence rewrites with the term's connectors and
+  conditionals; an email (90–100 words) about a visit to a
+  museum or art exhibition; a closing "The Story" section on
+  The Hidden Island.
+
+STORIES (summary only, as always): TWO chaptered stories, one
+per half-term, three chapters each, one chapter in every unit's
+Story Time lesson. (1) "The Little Inventor" (U1 Ch.1 "The
+Creative Fair" p.20 · U2 Ch.2 "Never Stop Trying" p.34 · U3
+Ch.3 "Inspiring Success" p.48): Amal, a curious village girl
+the other children call strange, builds a talking robot for
+her school's Creative Fair. She researches safely — she asks
+permission before downloading anything, never shares her
+personal information, checks that her sources are trustworthy,
+and never copies others' work. The robot fails again and
+again; her friend Yara encourages her with empathy and she
+perseveres. At the fair the robot speaks its message about
+being yourself and never giving up; Amal's pride is not in a
+prize but in her honesty, determination, creativity, and
+responsible use of digital tools. (2) "The Adventure of the
+Hidden Island" (U4 Ch.1 "Different, but connected" p.65 · U5
+Ch.2 "Freedom and Friendship" p.79 · U6 Ch.3 "Teamwork" p.93):
+four friends — Hany, Faris, Malik, and Sami — find an old map
+to a Hidden Island and sail to it under one rule, that no one
+is the boss. On the island they explore in pairs, stay close
+and safe, draw maps, and share stories; at sunset they sail
+home, become known in their village as "The Island Explorers,"
+and teach the other children to explore, create, and lead with
+kindness, respect, and teamwork — leadership defined in-story
+as caring for others and helping them shine.
+
+BACK PAGE (p.112): developed and produced with the Content
+Department Team at GPS Publishing and Printing Company (the
+Prep run's publisher, as in Prep 7). Reviewed by the same
+seven as Prep 7: Prof. Zeinab El-Naggar, Prof. Attia El-Sayed,
+Dr. Mai Kamal, Mr. Reda Shalaby (spelled "Shalaby" here), Mr.
+Mohamed Gomaa, Mr. Mostafa Zaghlol, Mr. Ayman Elsayed. CACD
+team: Ms. Eman Mahmoud Youssef, Dr. Amira Fawzy Ahmed, Mr.
+Mohammed Ibrahim Osman, Dr. Shaimaa Salah El Din Afify.
+General supervision Dr. Akram Hassan Mohammed. British Council
++ CACD + GPS marks. Print spec: 112 pages (MATCHES the PDF),
+27 × 19 cm, interior 70 g white paper, cover 180 g coated,
+4 colours. NO ISBN, NO deposit number. Audioscripts
+pp.103–107; Notes pp.108–111 are blank ruled pages.
+
+Filing note: map + curriculum note only — the book gathers and
+extends the Prep system (its one new grammar thing, the second
+conditional, joins the conditionals when that lesson is built);
+no built lesson's sources change.
+
+PREPARATORY 8 TERM 1 FULLY READ — 2026-10-26
+
+Egypt set: 17 of 26. Still owed: Preparatory 8 Term 2,
+Preparatory 9, Secondary 10–12 (the remaining 9 of the
+26-book Egypt set).
