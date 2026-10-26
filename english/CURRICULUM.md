@@ -302,3 +302,54 @@ file returns with six steps. The story-elements set is
 worked a fourth book running, now on an original
 whole-book story ("The Water Savers"), and the moral
 tip is restated in its fullest wording.
+
+**Stocked by Egypt Primary 6 Term 2 — Term 3 material:**
+the Primary run's last term adds FIVE new grammar
+things — the biggest single-term jump of the run.
+Conjunction pairs (either…or / neither…nor /
+both…and) complete the joining-words line. Relative
+pronouns (who / which / that / whose) are defined in
+print as words that join two sentences together. The
+PRESENT PERFECT arrives — the first new tense since
+the present continuous: has/have + past participle,
+for actions started in the past and continuing now and
+recent things with results we can see today, with the
+has/have split and regular/irregular participles.
+USED TO gets its named grammar at last (used to /
+didn't use to / Did … use to, base verb after, past
+habits and states no longer true). The FIRST
+CONDITIONAL opens the conditional line: If + present
+simple, will + base — a possible future, condition and
+result named. Past continuous is named in the Scope
+and used in the story's telling but never boxed —
+recorded as promised-but-untaught. Word building grows
+its second half: prefixes re- (again/back) and un-
+(not/opposite) with stress and pronunciation tips,
+suffix -ify (to make), and the matched pair en– / –en
+(to make or become, at either end of the word). Word
+stress gains the noun/verb shift (PREsent/preSENT,
+REcord/reCORD) and its two- and three-syllable rules;
+triphthongs complete the sound-group climb.
+
+**Stocked by Egypt Primary 6 Term 2 — Term 4 material:**
+the blog gains its six printed tips (catching title,
+date and name, paragraphs, clear description, feelings
+or opinion, take-home message). The descriptive
+paragraph gains a four-step frame (where it is, what it
+looks like, what people can do, end with opinion or
+feeling) and its show-don't-tell Tip in child wording
+("show your ideas, not just tell them") with word banks
+by job — colors, shapes, textures, sizes. Invention
+writing gets a three-move frame (start with a problem,
+describe the idea, explain how it helps). The email
+model now LABELS its nine parts on the page, and its
+checklist adds punctuation and capitals. The flyer
+joins the poster family with its own three required
+parts. The story unit works a five-part elements panel
+(Setting / Characters / Plot / Problem / Solution) on
+an original story, and the diary returns as a
+story-response kind with its own guidelines (past
+tense, feelings, end with what you learned). With this
+book the Egypt PRIMARY run is complete: twelve books,
+KG through Primary 6, and every grammar thing the
+course's first two terms are built from is now in hand.

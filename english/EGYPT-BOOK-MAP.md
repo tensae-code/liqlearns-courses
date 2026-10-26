@@ -4600,3 +4600,290 @@ PRIMARY 6 TERM 1 FULLY READ — 2026-10-26
 
 Still owed: Primary 6 Term 2, Preparatory 7–9, Secondary
 10–12 (the remaining 13 of the 26-book Egypt set).
+
+---
+
+## Egypt — English Primary 6 Term 2 (2025/2026)
+
+Source: the Egypt MoE e-learning host — the only live copy
+of the four probed variants:
+2026/Primary/Primary6/Term2/StudentBook/English_Prim6_Tr2.pdf
+(11,383,781 bytes, last-modified 2026-01-26; both 2026_2027
+variants 404). Taken per the edition rule (only/latest
+copy). Same file family as Term 1: re-processed on the
+ministry's own host (Creator "PDF Candy Desktop",
+Producer "Creo Normalizer JTP"), ends %%EOF, content
+verified as the genuine official book (cover, ministry
+pages, print spec, credits checked visually). Working
+copy:
+~/workspace/liqlearns-courses-work/egypt-english/English_Prim6_Tr2.pdf
+— 112 pages, real text layer (132,997 non-whitespace
+chars). Read from the extracted text (p6t2.txt) with all
+112 pages rendered (p6t2-pages/) and key pages checked
+visually. Printed folio = PDF page throughout. (The
+first download attempt stalled at 147 KB and was
+discarded; a fresh full download matched the probed
+Content-Length exactly.)
+
+Identity: cover "English / Primary 6 / Term 2 /
+2025/2026" — the purple variant of Term 1's cartoon
+cover (p.1); ministry dedication + © 2025 MoE (p.2);
+ministry message (p.3) is the Primary 6 Framework
+message. Back page (p.112): "Primary 6 - Term 2,
+Academic Year: 2025/2026"; Selah El Telmeez Content
+Department; reviewed by Prof. Zeinab El-Naggar, Prof.
+Attia El-Sayed, Prof. Nagwa Younis, Dr. Mai Kamal, Ms.
+Amira Awaad; CACD team (Ms. Eman Mahmoud Youssef, Dr.
+Amira Fawzy Ahmed, Ms. Rabab Abdelaziz Zidan, Dr.
+Shaimaa Salah El Din Afify); general supervision Dr.
+Akram Hassan Mohammed; British Council + CACD marks and
+a Sahara printing mark; Arabic print spec: 112 pages
+(MATCHES the PDF — the third matching spec in a row),
+27 × 19 cm, interior 70 g, cover 180 g, 4 colors; the
+book-number cell of the spec table is printed EMPTY. NO
+ISBN and NO deposit number printed.
+
+Shape: same design family as Term 1, with one change —
+each unit now closes with its OWN Self-Assessment inside
+the unit (Term 1 gathered them at the back). Scope and
+Sequence pp.4–6 (Unit / Vocabulary / Language / Skills /
+Life Skills / Values / Integrated Learning Activities).
+Review 1 after U3 (pp.58–60), Review 2 after U6
+(pp.104–106, headed "Review units 4-5-6"). Audio scripts
+for four listenings only (pp.107–108 — fewer than Term
+1's full set). Glossary BY CATEGORY (pp.109–111, ~85
+words: Art & Creativity, Inventions & Tools, Ancient
+Egypt, Modern Egypt & Technology, Story / Setting
+Words) — no Writing Types table this term. Unit spans:
+U1 Celebrating Creativity pp.7–23 · U2 Wonderful
+Inventions pp.24–40 · U3 Hidden Gems of Egypt pp.41–57 ·
+Review 1 pp.58–60 · U4 Egypt on the Move pp.61–75 · U5
+Safe and Smart Transportation pp.76–91 · U6 Story Time:
+The Library That Time Forgot pp.92–103 · Review 2
+pp.104–106 · Audio Scripts pp.107–108 · Glossary
+pp.109–111 · back page p.112.
+
+GRAMMAR SPINE (boxes, book order) — where Term 1
+restated the system, Term 2 ADDS FIVE NEW GRAMMAR
+THINGS, the biggest single-term grammar jump in the
+Primary run:
+1. Conjunction Pairs — correlative conjunctions (U1,
+   p.12): either…or talks about a choice between two
+   things; neither…nor says two things are not true;
+   both…and says two things are true at the same time.
+   The U1 reading text is built out of them.
+2. Relative Pronouns (U2, p.30): defined in print —
+   relative pronouns are words that join two sentences
+   together. who = people (the person doing an action);
+   whose = possession; which = things and animals;
+   that = things and ideas, adding information that is
+   important.
+3. Present Perfect (U3, p.47): the run's first new
+   tense since the present continuous. Form: has/have +
+   past participle. Uses printed: actions that started
+   in the past and continue now; things that happened
+   recently with results we can see today. Full
+   structure table (affirmative / negative has-have +
+   not + participle / question Has-Have + subject +
+   participle), a Tip (has with he/she/it, have with
+   I/you/we/they), regular participles add -ed,
+   irregulars change form (build→built, go→gone,
+   write→written). Both U3 reading texts are written in
+   it before the box arrives.
+4. Used to / Didn't use to / Did … use to (U4, p.67):
+   used to + base verb for things that happened
+   regularly in the past but not now — past habits or
+   states no longer true; after "used to" the verb is
+   always in the base form; didn't use to + base for
+   things that didn't happen in the past; Did + subject
+   + use to + base verb? for questions. Full Form / Use
+   / Example table. (The unnamed used-to text of
+   Primary 5 Term 1 now gets its named grammar.)
+5. First Conditional (U5, p.81): used to talk about
+   possible situations in the future — "If this happens
+   now, then that will happen in the future." Form:
+   If + present simple, will + base form of the verb;
+   the if-clause is the condition (present simple), the
+   main clause is the result (will + verb).
+6. Past Continuous — NAMED but NOT BOXED: the Scope
+   and Sequence lists U6's language as "Past Simple –
+   Past Continuous," and the U6 story's telling mixes
+   them ("were helping their teacher clean," "the
+   fountain wasn't working"), but no rule box for the
+   past continuous is printed anywhere in the book.
+   Recorded as the book's one promised-but-untaught
+   grammar item.
+
+WORD-BUILDING SPINE (this term's second spine):
+- Prefixes re- and un- (U2, p.34): the prefix definition
+  restated (a small part added to the beginning of a
+  word; it changes the meaning and sometimes the
+  sound). re- = again or back (rebuild, rewrite,
+  recycle, return); un- = not or the opposite
+  (unhappy, unsafe, unfair, unlock). Two pronunciation
+  tips: re- sounds "ree" before a strong syllable
+  (rebuild) but "ri" before a weak one (return); the
+  stress usually stays on the main word, not the
+  prefix (unHAPpy). The Quick Review sorts true re-
+  words from words that merely start with "re" (rain,
+  read, rest, real).
+- Suffix -ify and -er (U3, p.51): -ify means "to make"
+  or "to cause to become," added to nouns or adjectives
+  to form verbs (simple→simplify, pure→purify,
+  clear→clarify); -er means someone who performs an
+  action (drive→driver, bake→baker, teach→teacher).
+- en– and –en, a matched pair (U4, p.70): en- at the
+  beginning means to cause to be or to put into
+  (enrich, enlarge, encourage, endanger, enable); -en
+  at the end means to make or to become (widen,
+  darken, lighten, shorten, soften, brighten) — the
+  same "make" meaning added at either end of the word.
+
+PRONUNCIATION SPINE:
+- Word stress, the rules grown (U1, p.16): stress
+  defined again (one part of a word said stronger and
+  louder) — then the new layer: the SAME word can move
+  its stress with its job: PREsent (noun, a gift) vs
+  preSENT (verb, to give); REcord (noun) vs reCORD
+  (verb). Two-syllable rules: nouns and adjectives
+  stress the FIRST syllable (TAble, PICture, HAppy);
+  verbs stress the SECOND (beGIN, deCIDE, reLAX).
+  Three-syllable words ending in -er or -ly stress the
+  first syllable (MANager, CLEVerly, HAPpily).
+- Triphthongs (U5, p.85): a triphthong is a vowel sound
+  that combines THREE vowel sounds together in one
+  syllable — ow-er (hour, our, flower: start with "ow,"
+  then glide to "er") and ay-er (layer, player, mayor).
+  The letter/sound-group line completes its climb:
+  digraph (P5 T1) → trigraph (P5 T1) → triphthong.
+
+UNITS, briefly. U1 — art words by picture with printed
+meanings (whisper, canvas, paintbrush, palette, carve,
+sculpture, masterpiece, art gallery; then talented,
+incredible, mural, sketch, renaissance); a gallery
+listening (Lily's visit, script in the back); the
+"What's in the Frame?" text; a dialog about the real
+Egyptian sculptor Mahmoud Mokhtar and his statue Nahdit
+Masr; descriptive-paragraph writing ("Writing Like an
+Artist" — the Tip says a descriptive paragraph helps
+you SHOW your ideas, not just tell them; word banks by
+job: colors / shapes / textures / sizes; a plan chart:
+What I made / Things I used / Looks like / How I feel /
+Why); poster project (a famous place in Egypt). U2 —
+invention words with printed definitions (invention,
+gadget, blueprint, tools, assemble, improve — then a
+noun/verb sort); the solar-robot dialog; The Egyptian
+Loom text (relative pronouns at work in every
+paragraph); The Story of the First Clock (gears,
+pendulum); the Aswan Dam text; invention writing tips
+(start with a problem, describe your idea, explain how
+it helps, use key words); the Smart Pencil Holder
+project with a scoring rubric (Plan & Sketch / Materials
+/ Building / Creativity / Explanation). U3 — Tuna
+el-Gebel text (burial site near Minya, animal mummies,
+the tomb of Petosiris); the Temple of Dakka text
+(moved stone by stone to higher ground when the High
+Dam raised the Nile — the present perfect telling its
+own story); the Deir el-Medina tour-guide dialog (the
+craftsmen's village; drawings on pottery "the first
+kind of notebook"); a blog model, "Wadi El-Hitan:
+Egypt's Valley of the Whales," posted by a student,
+with SIX BLOG TIPS (a title that catches attention;
+the date and your name; paragraphs to organize; describe
+clearly; share your feelings or opinion; end with a
+take-home message); the travel-brochure project (title,
+slogan, about, what you can see or do, a visitor
+comment, travel information, a picture). U4 — Egypt's
+New Landscape text (infrastructure DEFINED inside the
+text: projects and services, such as transportation and
+power supplies, that the country uses in order to work
+effectively); Building Egypt's Modern Economy (the
+used-to text: Mahalla textiles, food and steel
+industries, self-reliant defined by use); punctuation
+practice returns (capitalize and end five sentences,
+incl. a question and an exclamation); the New Alamein
+City descriptive model + four descriptive-paragraph
+writing tips (start with where the place is; describe
+what it looks like; what people can do there; end with
+your opinion or feeling); the flyer project (main
+header, description of 3–5 sentences, pictures). U5 —
+metro words by picture with printed meanings
+(announcement, passengers, ticket machine, elevator,
+escalator, digital screen, pay by card, smart doors);
+the Cairo Metro Line 3 announcement listening; the
+Monorail and Electric Buses text (first-conditional
+sentences running through it); the Cleaner
+Transportation text (eco-friendly defined: does not
+harm the environment; self-driving cars; renewable
+energy defined: from natural sources like sun, wind
+and water, never runs out); a future-transportation
+EMAIL whose parts are LABELED on the model (Clear
+Subject / Greeting / Friendly Opening / Topic
+Introduction / Main Idea / Details / Personal Opinion /
+Closing / Signature) with a before-you-send checklist
+that now includes "used punctuation and capital letters
+correctly"; the "Future Egypt 2050" brochure project.
+U6 — the story unit (below). Review 1 adds a
+punctuation exercise (rewrite with capitals, end marks
+and speech marks) and an error-correction exercise
+across U1–U3 grammar.
+
+STORY, by summary only: "The Library That Time Forgot"
+(U6, pp.92–103) is an ORIGINAL story written for this
+book. Vocabulary first with printed definitions (dust,
+storage, rusty, clinked, library, creak, stacks,
+windmill, volunteers, town, clogged, pipe, fountain,
+treasure); the characters named up front: Adam, Lara,
+Ziad, Hana, Fady. A printed STORY ELEMENTS panel (p.95)
+gives Setting / Characters / Plot / Problem / Solution
+— the five-part working set (moral is asked in the
+questions: "Working together and learning can help the
+community"). Plot summary: five friends cleaning their
+school's storage room find a large bronze key tagged
+"Library"; it opens the town's forgotten library, full
+of dusty books, old maps and travelers' letters; over a
+week they learn from it — plants that clean water, a
+small windmill built from a diagram, their town's
+history; using a library guide they find why the town
+fountain stopped (a clogged pipe) and fix it with a
+plumber's help; the principal calls the library "a
+treasure" that "should be open to everyone"; the town
+cleans, repairs and reopens it, and the friends become
+its first official volunteers. Closing line: "We
+thought the key only opened a door, but it actually
+opened our minds." Writing task: a diary entry from one
+child's point of view, with printed guidelines (short
+paragraph, past-tense verbs, describe your feelings and
+what happened, end with what you learned) — the diary
+returns from Primary 4 Term 1, now as a story-response
+kind.
+
+BOOK SLIPS, as printed: U3's present-perfect exercise
+(p.47) item 3 reads "(Have / Did) the experts restored
+the temple carefully?" — with "restored" in place, the
+Did choice cannot be made grammatical. U6's Learning
+Outcomes page prints the Listening column twice with
+the same four bullets (the Speaking column's content
+repeated under Listening). Review 2's correction
+exercise works on deliberately wrong sentences
+("didn't used to," "If the workers will finish," "would
+face") — those are the exercise, not slips. Print spec
+(112 pages) matches the PDF; the spec's book-number
+cell is empty; no ISBN or deposit number.
+
+Filed basics: two-letter-sounds (triphthongs — three
+vowel sounds in one syllable, p.85, the next layer of
+the digraph/trigraph line). The term's five new grammar
+things and its word-building set live in the map +
+curriculum notes; no built lesson's one thing is taught
+here.
+
+EGYPT SET: 14 of 26 English books read (KG1, KG2, P1
+T1+T2, P2 T1+T2, P3 T1+T2, P4 T1+T2, P5 T1+T2, P6 T1+T2).
+**PRIMARY IS COMPLETE** — all twelve Primary books read.
+Next: Preparatory 7 Term 1.
+
+PRIMARY 6 TERM 2 FULLY READ — 2026-10-26
+
+Still owed: Preparatory 7–9, Secondary 10–12 (the
+remaining 12 of the 26-book Egypt set).

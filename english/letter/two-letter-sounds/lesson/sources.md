@@ -118,3 +118,15 @@ Same country, deeper layer — the country count does not change.
   (b, g, v, l, m, n, r, z — played, cleaned, called);
   /ɪd/ after t or d (wanted, needed). The sound the
   ending makes is decided by the sound before it.
+
+## Egypt — English Primary 6 Term 2 (2025/2026) — added 2026-10-26
+
+- **Triphthongs** (U5 Pronunciation, p.85): a triphthong
+  is a vowel sound that combines THREE vowel sounds
+  together in ONE syllable. Two families are taught:
+  ow-er (hour, our, flower — "start with 'ow,' then
+  glide to 'er'") and ay-er (layer, player, mayor). The
+  letter-group line completes its climb in the Egypt
+  run: digraph (two letters, one sound) → trigraph
+  (three letters, one sound) → triphthong (three vowel
+  sounds gliding inside one syllable).
