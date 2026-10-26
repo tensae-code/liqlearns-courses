@@ -929,27 +929,697 @@ writing task (p.91), the crow moral (p.96), the MCQ set
 
 ## Class 3 — English for Today, Class Three
 
-NCTB; 129 pp. (this copy the 2026 printing). Same
-archive route. EIGHT units; numbers now run woven
-through every unit (to 100, in words, and ordinal
-numbers), and the middle-sounds phonics continues:
+NCTB. Prescribed as the Class Three textbook "as an
+experimental edition from the academic year 2024" (title
+page). This copy is the 2025 academic-year printing of
+the REVISED EDITION (October 2024); first edition October
+2023 (imprint, PDF p.3). Writers and Compilers: SEVEN
+names — the Class 2 team with Naina Shahzadi dropped and
+Mohammad Abu Bakar Siddik and Farhana Yeasmin added.
+Art direction Hashem Khan; illustrator Akifa Haque
+Prima. The Preface is the same chairman's text as
+Classes 1–2. 129 PDF pp.; printed pages run 1–122
+(printed page = PDF page − 6); image-only PDF, read from
+page images. PDF p.5 is again a full page of teacher
+guidance in Bangla, in substance the same page as Class
+2's. Back cover: "Academic Year 2025, Class Three
+–English," the motto "Time waits for none," artwork of a
+child shouldering a giant pencil lettered "EDUCATION IS
+THE MOST POWERFUL WEAPON WHICH YOU CAN USE TO CHANGE THE
+WORLD," and the NCTB QR code.
 
-- Unit 1 Greetings, Farewells, Introductions and
-  Numbers (9 lessons)
-- Unit 2 My Friends, Family and Numbers (6)
-- Unit 3 Commands, Requests and Numbers (6)
-- Unit 4 Let's Play with Sounds, and Numbers (6:
-  middle sounds /a/–/a:/, /e/–/i:/, /ʌ/–/u:/; numbers
-  91–100; ordinal numbers)
-- Unit 5 Their Days (4: school time; a village life; a
-  city life; rhyme)
-- Unit 6 Cleanliness (3: good habits; washing hands)
-- Unit 7 Save Our Water (4: pollution, uses, saving;
-  rhyme)
-- Unit 8 Facts and Fables (2: The Ant and the
-  Grasshopper; a hill festival)
+EIGHT units, 41 lessons. The shape steps up again: nearly
+every lesson now ends with a LET'S PRACTISE block of
+written exercises, reading texts carry comprehension in
+several shapes at once (questions, true/false, cloze,
+two- and three-option choices), and from Unit 2 on,
+yellow GRAMMAR FOCUS boxes NAME the grammar — parts of
+speech, plurals, punctuation, capitals, tenses, modal
+"can." Numbers are no longer a unit: they spiral through
+Units 1–4 (1–30, 31–50, 51–70, 71–90, 91–100, then
+ordinals), always in figures, with words only for 1–20
+and the ordinals. An EXERCISE BOOK (separate copybook) is
+assumed throughout for written answers.
 
-BANGLADESH CLASS 3 MAPPED — 2026-10-26 (basics-only — NOT a full read; full re-read owed, his ruling 2026-10-26)
+### Unit 1 — Greetings, Farewells, Introductions and Numbers (pp.1–20), 9 lessons
+
+- L1 Hello, pp.1–2: A — a printed dialogue (Fatiha and
+  Sanjoy): greeting, name, "How are you?" / "I'm good,
+  thanks. And you?" / "I'm also good." B — a picture
+  dialogue in speech bubbles (Rahat and Faria: "Hello,
+  Rahat. How are you?" / "Hi, Faria. I'm fine. Thank
+  you."). C — pairwork, act it out. Let's practise —
+  complete two written mini-dialogues with new names
+  (Rana/Sima, Sarah/Manik).
+- L2 Talking about myself, pp.3–5: A — a CHAIN DRILL in
+  a rhyming frame: "Alex is my name. / Football is my
+  game. / Red is my colour. / Rose is my flower.", then
+  each child with their own facts in the same frame.
+  B — dialogue (Sakiba and Zahid): favourite game
+  ("Cricket is my favourite game." / "I like to play
+  football."), favourite subject (English). C — act
+  out. Let's practise — MCQs on WORD MEANING with two
+  options ("Here 'favourite' means a) most liked
+  b) disliked"; "Here 'game' means a) sport b) reading
+  book") and three questions on the dialogue.
+- L3 Greetings, pp.6–7: A — classroom Good morning
+  (wall clock at nine); B — Good afternoon (clock at
+  twelve); C — Good evening outdoors, and INTRODUCING
+  A THIRD PERSON: "Who is she?" / "She is my cousin,
+  Rita. And Rita, he is my friend, Rahat." / "Nice to
+  meet you." / "Nice meeting you, too."
+- L4 Goodbye 1, pp.8–9: A — "Goodbye, students. It's
+  time to go." / "Goodbye, teacher." B — "Goodbye,
+  Ripa." C — a street dialogue (Rahat and Namira):
+  "Where are you going?" / "I'm going to buy some
+  medicines." / "Okay, goodbye. See you later." D — act
+  out C. (Its completion exercises sit in the Let's
+  practise block printed on p.11.)
+- L5 Goodbye 2, pp.10–11: A — "Good night, see you
+  tomorrow." / "Good night, see you in the morning."
+  B — a GOODBYE SONG in full ("It's time to go home" ×3,
+  "It's time to say goodbye", "I had so much fun, /
+  And you had so much fun, / We all had so much fun, /
+  And now we say goodbye", "Goodbye, / Goodbye, / See
+  you again" ×2). C — sing it in groups.
+- L6 Numbers 1-30, pp.12–14: A — read the numbers off
+  an APRIL 2025 calendar. B — write the numbers 1–10
+  in words. C — build the JUNE 2025 calendar yourself
+  (the 1st given). Let's practise — a matching table
+  headed "Cardinal Numbers / Number in words" (the word
+  CARDINAL is printed); write the missing number words
+  in a sequence; write the PREVIOUS number; write the
+  NEXT number.
+- L7 Introducing Myself, pp.15–16: A — READ: a short
+  self-introduction text (summary): Jerin is 8 years
+  old, in class 3 at Mohonpur Government Primary
+  School, and lives with her family in Mohonpur. B —
+  pairwork questions ×4. C — complete an information
+  TABLE from the text (Name / Age / Class / School's
+  name). Let's practise — a cloze with a word box
+  (school, class, family, lives), then the same table
+  completed with YOUR OWN information.
+- L8 Introducing someone, pp.17–18: A — dialogue
+  (Zabed, Sabiha, Mahmud): "meet my friend, Mahmud
+  Hasan. And Mahmud, this is Sabiha." / "Nice to meet
+  you." / "Nice meeting you, too." B — introduce a
+  friend. Let's practise — complete the same dialogue
+  shape with new names (Laila, Sagor, Mamun).
+- L9 Numbers 11-20 in words, pp.19–20: A — read and say
+  eleven–twenty with their figures. B — write the words
+  (printed as copy models). C — GAME in two groups:
+  figure-card holders line up 11–20, word-card holders
+  line up eleven–twenty, then each word holder finds
+  their figure partner. Let's practise — match, write,
+  and complete a word sequence. (The number WORDS stop
+  at twenty in this book; 21–100 are figures only.)
+
+### Unit 2 — My Friends, Family and Numbers (pp.21–33), 6 lessons
+
+- L1 Talking about friends and family, pp.21–22: A —
+  dialogue (Rishat and Sujana): "Would you like to play
+  with me?" / "Yes, I'd like that, thank you." B —
+  dialogue (Faria and Farzana, a new student): "Where
+  are you from, Farzana?" / "I'm from Rajshahi. And
+  you?" / "I'm from Sylhet. My family lives near the
+  school." C — act out both.
+- L2 Numbers 31-50, pp.23–25: count picture arrays
+  (31, 38, 47); read 31–50; pair GAME — two digit cards
+  combine to make each number 31–50; write the numbers
+  along a frog's stepping-stone path 31→50; missing
+  numbers. Let's practise — sentence completion from
+  the L1 dialogue; next number; previous and next.
+- L3 My family, pp.26–27: A — text (summary): Sabiha,
+  in class 3; four members in her family; her father
+  Mr. Aminul Islam is a teacher; her mother Mrs. Afroza
+  Begum is a banker; her brother is only one year old.
+  B — TRUE OR FALSE, write T or F ×5 (with traps: "The
+  girl's name is Samia", "Her brother is 3 years old").
+  C — pairwork questions ×5. D — WRITE three sentences
+  about your family. Let's practise — match phrase
+  halves (Column A/B), and tick-the-right-answer
+  two-option items ×5.
+- L4 Rhyme: It's a Happy House, p.28: the rhyme in full
+  ("It's a house, / It's a happy house, / Can you see? /
+  Here's a window, / Here's a door, / Here's a roof, /
+  And here's a floor! … For you and me!"). B — draw a
+  house in your notebook, recite and point to each
+  part. C — list all the parts of a house in the rhyme
+  and add more. The lesson carries the series' FIRST
+  GRAMMAR FOCUS box: "Grammar focus: It's - It is,
+  Here's - Here is / Pronoun: you, me / Vocabulary:
+  window, door, roof, floor, house, happy."
+- L5 My friend, pp.29–30: A — text (summary): Sunil is
+  eight years old; his best friend Rahat is also eight,
+  lives near his house, goes to the same school, is
+  good at English; in the afternoon they play football.
+  B — pairwork questions ×4. C — answer five questions
+  about YOUR friend in complete sentences. D — write
+  four sentences about your friend. Let's practise —
+  tick-the-right-answer ×4 and sentence completion ×3.
+- L6 Numbers 51-70, pp.31–33: count arrays (52, 59,
+  70); read 51–70; digit-pair game; write the next
+  numbers; EVEN AND ODD NUMBERS are named — count how
+  many even and odd numbers are in a set of circles and
+  colour the even ones; write the even numbers 51–70
+  into a turtle's shell. Let's practise — missing
+  numbers, and odd/even sorting tables for 51–70.
+
+### Unit 3 — Commands, Instructions, Requests and Numbers (pp.34–47), 6 lessons
+
+- L1 Simple commands, pp.34–37: A — the GAME "Do this.
+  Do that" on the teacher's instruction. B — in pairs,
+  list the commands heard in drill class. C — the
+  'ATTENTION' position labelled with EIGHT commands
+  (Keep your head upright. Look to the front. Keep your
+  body straight. Keep your arms down. Keep your palms
+  facing in. Keep your hands and fingers straight.
+  Keep your Knees straight. Keep your heels together.),
+  plus BREATHING exercise commands (Keep your mouth
+  closed. Place your hands on lower chest. Breathe in.
+  Breathe out.). D — two more drill sets (Exercise 1,
+  Exercise 2) given and followed in pairs. E — complete
+  the commands for Exercise 3 from blanks, then give
+  and follow them.
+- L2 Following and giving instructions, pp.38–39: A —
+  watch the teacher make a simple kite; take a brief
+  note of the major steps in your NOTEBOOK. B — read
+  the printed KITE INSTRUCTIONS (eight numbered steps:
+  fold an A4 paper in half; top corner to the opposite
+  side; the same on the other side; staple them; make
+  a tail; hole-punch 1–2 cm from the staple; thread
+  the string and tie; hold and wave to fly it); in
+  small groups one reads aloud and the others make the
+  kite. C — PROJECT: make your own kite at home,
+  decorate it, bring it on the day fixed; the school
+  may organise a "Kite Festival."
+- L3 Rhyme: Hello hello, pp.40–41: an action rhyme in
+  full built on CAN YOU questions ("Hello, hello. /
+  Can you clap your hands? … Can you stretch up high?
+  / Can you touch your toes? / Can you turn around? /
+  Can you say, 'Hello'?" … stamp your feet …). B —
+  pairs ask and answer from the rhyme ("Can you clap
+  your hand?" / (Claps) "Yes, I can."). GRAMMAR FOCUS
+  box: "You may request someone to do something using
+  the following structure — Can you + verb (action
+  word) + ……… + please? Examples: Can you open the
+  door, please? Can you move your seat, please?"
+- L4 Following and giving instructions, pp.42–43: A —
+  follow the teacher using a simple THERMOMETER; note
+  the steps. B — the printed nine-step instructions
+  (shake it well; tip under the armpit; make sure it
+  touches skin; press the arm; leave two–three minutes;
+  remove; hold at eye level; follow the mercury line;
+  record the temperature and wash the thermometer).
+  C — in pairs, tell your partner the steps. D — a
+  school LIBRARY CARD's seven instructions, a mix of
+  Dos and Don'ts (Use the books with maximum care;
+  Please return the book timely; Don't fold over the
+  pages; Don't write inside a book; Always keep the
+  book with face up; Don't lose or damage a book; Pay
+  your library fees regularly). E — sort them into a
+  Dos / Don'ts table in pairs.
+- L5 Carrying out and making requests in everyday life,
+  pp.44–45: A — SIX picture dialogues to match with
+  their scenes (borrow a pencil — "Sure."; an orange
+  juice — "Of course. I will make you one."; borrow
+  this book — "Sorry, this book is not for borrowing.";
+  the way to Zainul Park — "It's on Kachari road, next
+  to the big playground."; change a ticket — "Well.
+  Let me check your ticket first."; help with a puzzle
+  — "Hmm. Let me give a try."). B — practise in pairs.
+  C — match SEVEN requests to their responses and WRITE
+  the responses (Could you please call me this evening?
+  / Can you repeat that, please? / Can I take a break
+  from my study now? / Could I have a look at your
+  newspaper? / Can I borrow a pen from you, please? /
+  Can we meet at 9:00 in the morning? / Can you turn
+  down the music, please?) — COULD is used beside CAN
+  for requests, not named. D — GUESSING GAME: one
+  partner MIMES a request without speaking; the other
+  guesses and carries it out (the example glosses
+  "khata (copy)").
+- L6 Numbers 71-90, pp.46–47: count arrays (75, 83,
+  90); read 71–90; digit-pair game; write the missing
+  (before/after) numbers; basket game — pick a card
+  and say the number; rearrange jumbled number tiles
+  into order up to 90.
+
+### Unit 4 — Let's Play with Sounds, and Numbers (pp.48–64), 6 lessons
+
+The phonics unit moves from Class 2's initial/final
+sounds to MIDDLE (medial) sounds, always with the
+teacher drill naming letter + IPA.
+- L1 Say the middle sounds /æ/ and /e/, pp.48–51: bag,
+  mat, hat, cat for /æ/ (drill: T: bag — T: a (/æ/));
+  phrase cards (a cat on a mat, a hat on a cat, a bag
+  on a mat); pen, hen, red, net for /e/ (the drill
+  names the letter 'e'); a five-line verse ("A den and
+  a hen / Ten men look into / A tiger's den. / They see
+  no tiger, / But a fat red hen."); S or D for middle
+  sounds ×5 (pen/pan = D, done); hear a word and say
+  its middle sound. Let's practise — say words with
+  their middle sounds (/æ/: can, man, happy, bad;
+  /e/: den, bed, pet, leg); circle the /æ/ words and
+  underline the /e/ words in a word cloud.
+- L2 Say the middle sounds /ɪ/ and /iː/, pp.52–53: tin,
+  pin, hill, pill for /ɪ/; bean, sleep, sheep, feed for
+  /iː/ (the drill writes 'ea (/iː/)'); MINIMAL PAIRS
+  read aloud ×6 (slip/sleep, still/steel, bean/bin,
+  ship/sheep, hit/heat, bin/fin) with S/D judgements.
+  Let's practise — circle /ɪ/, underline /iː/.
+- L3 Rhyme: Row, Row, Row Your Boat, pp.54–55: A —
+  match animal names to pictures (Polar bear, Lion,
+  Crocodile). B — listen to the rhyme and CLAP THREE
+  TIMES when an animal is named. C — the rhyme in an
+  extended four-verse version (row down the stream —
+  "Life is but a dream"; up the creek — a crocodile —
+  "Don't forget to shriek!"; down the stream — a polar
+  bear — "Don't forget to shiver!"; to the shore — a
+  lion — "Don't forget to roar!"). D — "Do you have a
+  similar rhyme in your own language? If so, please
+  share it in whole class." A VOCABULARY box glosses
+  six words (stream — small river; merrily — happily;
+  creek — bay; shiver — to shake in cold; shriek — a
+  loud high shout; shore — land bordering sea/river).
+- L4 Say the middle sounds /ɑː/ and /ʌ/, pp.56–58:
+  cart, heart, bard, card for /ɑː/; cut, hut, bud, hush
+  for /ʌ/ ("u (/ʌ/) (short)"); sentence captions (The
+  bard sings. The flower is in bud. The cut in his
+  finger is bad. They live in a hut. Show me your ID
+  card.); S/D pairs ×6; DICTATION — "Listen. Then write
+  the word you hear" (hut, cart, jug, bard, tub, heart,
+  nut). Let's practise — clap for the /ɑː/ or /ʌ/ word.
+- L5 Numbers 91-100, pp.59–60: count arrays (91, 96,
+  100); read 91–100; digit-pair game; write the numbers
+  81–100 along a lily-pad path; a basket game
+  contrasting the -teen and -ty numbers (say 13, 30,
+  14, 40, 15, 50, 16, 60, 17, 70, 18, 80, 19 and 90);
+  "Say and write the numbers from 1 to 100."
+- L6 Ordinal numbers, pp.61–64: A — a full CALENDAR-
+  2025, all twelve months named and read; GRAMMAR
+  FOCUS: "We use capital letter for the first letter in
+  the names of the months." B — twelve sentences,
+  "January is the first month of the year" … "December
+  is the twelfth month of the year." C — a TABLE:
+  cardinal number / number word / ordinal word / short
+  form, 1–10 (first 1st … tenth 10th). D — a school
+  library bookshelf: fill in each book kind's shelf
+  number counting from the "1st shelf" at the bottom.
+  E — PROJECT WORK: create a HOME LIBRARY (think about
+  shelf, space, light, seating, and numbering (ordinal)
+  of the shelves; invite teachers and friends to
+  visit). Let's practise — complete the month names
+  from their first letters with their ordinals; write
+  short forms (Second, third, Eighth); complete
+  "January is the ______ month of the year" sentences.
+
+### Unit 5 — Their Days (pp.65–82), 5 lessons
+
+- L1 Joyful school time 1, pp.65–67: B — READ text
+  (summary): Porshi lives in Kushtia and goes to
+  Chechua Government Primary School, class three; the
+  school has student groups of classes 3, 4 and 5, each
+  led by a teacher, the Headteacher supervising; every
+  Thursday the groups clean the school by turns — play
+  ground, wash block, classrooms, garden — always using
+  bins and helping each other. (The text prints the
+  first letter of every sentence in red.) A rota TABLE
+  uses river names: Padma — 1st week — classroom;
+  Meghna — 2nd — play ground; Jamuna — 3rd — wash
+  block; Surma — 4th — garden. GRAMMAR FOCUS box:
+  capital letters for the names of persons, places and
+  things, and for the first word of a sentence. C —
+  questions ×5. D — cloze with a word box (the box
+  includes the ordinals 2nd and 3rd). E — PROJECT: make
+  your own cleanliness plan (week / day / clean) and
+  follow it at home. Let's practise — True or False ×5
+  (written out in words now); capital-letter
+  corrections ×4.
+- L2 Joyful school time 2, pp.68–71: B — text
+  (summary): Rani is a special need student and
+  Porshi's neighbour; they go to school together; every
+  Sunday the students change seats, but Rani always
+  sits in the same chair; classes use group work,
+  pairwork, role play and project work, sometimes
+  outside the classroom, which Rani joins in a wheel
+  chair; audio and video clips are used in class;
+  every Thursday students borrow story books from the
+  school library. C — questions ×4, answers written.
+  A large GRAMMAR FOCUS box: capitals for the names of
+  the DAYS, then the first formal DEFINITIONS — "Noun:
+  A noun is a word that represents a person, place,
+  thing etc." / "Pronoun: A pronoun is a word that is
+  used to replace or refer to a noun in a sentence." /
+  "Verb: A verb is a word that expresses an action."
+  and "Noun, pronoun and verb are called parts of
+  speech." D — correct a lower-case passage with
+  capitals. E — pairwork: find the nouns, pronouns and
+  verbs in the text and table them. F — GAME: make
+  sentences from word tiles in a circle and write them
+  in your notebook. Let's practise — rearrange jumbled
+  words into sentences ×5; circle the nouns, underline
+  the pronouns and tick the verbs in a word grid.
+- L3 Osman's village life, pp.72–75: A — text
+  (summary): Osman lives in a village; he gets up
+  early, gets ready for breakfast, brushes his teeth
+  and studies, then prepares for school; home in the
+  afternoon, he plays with friends and sometimes goes
+  fishing in the river with his father; every Friday he
+  borrows story books from the village library (shown
+  as a mobile cart library); in free time he walks the
+  village seeing birds, trees and paddy fields; he is
+  proud of his village. B — CHOOSE THE CORRECT ANSWER:
+  three-option sentence-completion MCQs ×3. C — match
+  words with words of SIMILAR MEANING (get up — rise,
+  done; beautiful — pretty; help — support; breakfast —
+  morning meal; study — learn). D — pairwork: list the
+  text's nouns, "prouns" and verbs in a table. E —
+  WRITE A SHORT PARAGRAPH on "My village life" by
+  answering five guide questions. F — go outside with
+  the teacher, observe a tree and name its parts (word
+  box: root, leaf, branch, trunk, twig; a labelled
+  diagram is given). G — project: look at a cat and
+  write the names of its 5 different parts. Let's
+  practise — match word meanings ×5; sort six words
+  into Noun/Pronoun/Verb columns; choose-the-right-word
+  MCQs ×3 with (i) (ii) (iii) options.
+- L4 Oyshi's city life, pp.76–80: A — text (summary):
+  Oyshi and her family live in a city; she goes to
+  school with her father and returns with her mother;
+  they always use the zebra crossing and foot
+  overbridge; she plays with her brother in the
+  afternoon; the family has a rooftop garden and she
+  waters the plants; every Friday and Saturday she
+  attends an art class at 'Bangladesh Shishu Academy';
+  she borrows story books from the 'Mobile Library of
+  Bishwo Shahitto Kendro' on Wednesday; she loves her
+  city very much. B — three-option MCQs ×3. C — match
+  similar meanings (return — come back; parents —
+  mother and father; borrow — take something from
+  someone; academy — school). D — pairwork: rearrange
+  jumbled words into sentences ×6 (one done). E — write
+  a sentence about each of four pictures. F — write a
+  short paragraph on "My city life" using clue words
+  (school name, garden, zebra crossing, shopping). G —
+  two-column list: things and activities you like in a
+  village / in a city. H — PROJECT: go to the vegetable
+  shop with your mother and list which of fifteen named
+  vegetables you saw there (cabbage, cauliflower,
+  pumpkin, chilly, ginger, gourd, cowpea, turnip,
+  parble, bottle gourd, bean, turmeric, lady's finger —
+  the list as printed). Let's practise — short written
+  answers ×5; True or False ×5; cloze with a word box.
+- L5 Rhyme: Rain Rain Go Away, pp.81–82: A — list all
+  the members of your family and share with a partner.
+  B — listen and CLAP every time you hear a family
+  member. C — read the rhyme aloud, alone then in
+  pairs: an extended version in which daddy, mommy,
+  brother, sister, baby and all the family each "wants
+  to play." A printed NOTE: "'Rain Rain Go Away' is a
+  popular English language nursery rhyme that was
+  published in the 17th century or earlier. Since then,
+  a wide variety of alternatives have been recorded."
+
+### Unit 6 — Cleanliness (pp.83–96), 3 lessons
+
+- L1 Good habits, pp.83–88: A — look and say (football
+  pictures). B — read and colour nine word-pictures
+  (clothes, playing, shoes, fingernails, dirt, washing
+  hands, germs, soap, eyes). C — text (summary): the
+  little boy Nusair loves playing in the field and
+  comes home with dirty clothes and shoes; one day his
+  mother Jesmin Akter notices dirt under his
+  fingernails and tells him there are germs in the
+  dirt, not to touch his mouth, nose or eyes with dirty
+  hands, and that dirt can make you sick; she shows him
+  how to clean his hands with soap and water and tells
+  him, "Always wash your hands before eating and after
+  playing"; from that day Nusair never forgets, and the
+  habit keeps him healthy. D — write the word under
+  each picture ×6. E — circle True or False ×5. F — a
+  SINGULAR / PLURAL table (cloth — clothes, shoe —
+  shoes, eye — eyes, hand — hands) with a GRAMMAR FOCUS
+  rule: "To make plurals, we usually add s to the end
+  of a word. For words ending in ch, sh, x or z, add
+  es. For words ending in y, change the y to i and add
+  es." G — write and say the plural forms ×8 (apple,
+  book, box, bench, door, baby, fish, plate). H — eight
+  questions in pairs. I — write the answers. Let's
+  practise — anagrams that "Start with the capital
+  letter" (Seho — Shoe, rDti — Dirt, Hnad — Hand,
+  pSao — Soap, eEy — Eye, otClh — Cloth); match words
+  to meanings (germ is glossed "virus").
+- L2 Steps of washing hands, pp.89–92: A — word
+  pictures (water, soap, tap, towel). B — EIGHT numbered
+  steps to read and say (open the tap and wet your
+  hands with clean water; turn the tap off; apply soap;
+  rub for at least 20 seconds; clean the back of your
+  hands, fingers and under the nails; open the tap and
+  rinse well; turn the tap off again; wipe with a clean
+  towel). C — put six jumbled steps in order, numbered
+  1 to 6. D — complete the step sentences with verbs
+  from a box (rub, use, rinse, wash, wipe, turn). E —
+  write and draw: what other things can you do to be
+  healthy (example given: physical exercise). F — go to
+  the wash block and wash hands following the steps.
+  Let's practise — True or False ×5; MAKE A SENTENCE
+  with each word ×5 (water, soap, tap, towel, dry);
+  questions ×4.
+- L3 When to wash our hands, pp.93–96: A — match five
+  pictures to phrases (eating food, touching a wound,
+  using a toilet, sneezing, touching garbage). B — a
+  chart of the times: before and after eating food;
+  before and after touching the nose, the mouth and the
+  eyes; before and after touching a wound; after using
+  the toilet; after coughing or sneezing; after
+  touching a pet or an animal; after playing outside;
+  after touching garbage — "Wash your hands during
+  these times to stay healthy." C — sort the activities
+  into Before / After columns. D — pairwork: say when
+  you should wash your hands for six pictures (the
+  model reads "We should wash our hands after using
+  toilet."). E — ask and answer in pairs ×3. F — write
+  advice to others from sentence-start clues. Let's
+  practise — a cloze passage with a word box.
+
+### Unit 7 — Save Our Water (pp.97–108), 4 lessons
+
+- L1 Water pollution, pp.97–100: A — a river picture;
+  a boy's speech bubble: "Please, don't throw the
+  rubbish into the river. It pollutes the water." B —
+  six word-pictures (danger, river, bathing, washing
+  clothes, rubbish, swimming). C — text, narrative with
+  a dialogue inside (summary): Shihab and Kaniz walk
+  to school along the river; people are bathing and
+  washing clothes in it; a man throws rubbish in; the
+  children ask him not to — it pollutes the water; they
+  see polythene bags, plastic bottles and other things
+  floating, and talk: the water is so dirty, they can't
+  bathe in it, fish can't swim easily and get caught in
+  polythene bags; "We must keep the water clean"; at
+  school they share the story and discuss how to keep
+  water clean and safe. D — circle True or False ×5.
+  E — CORRECT the false sentences and write them in
+  your exercise book. F — questions in pairs ×6. G —
+  write the answers in your exercise book. Let's
+  practise — match words to meanings (danger — at risk;
+  upset — sad; bath — washing with water; rubbish —
+  garbage; pollute — to make something dirty); a cloze
+  retelling with a word box.
+- L2 Uses of water, pp.101–103: A — eight word
+  pictures (humans, plant, rain, cooking, bathing,
+  soil, farmer, crops — the crops picture names Paddy,
+  Barley, Corn, Wheat). B — text (summary): "Water is
+  called life." All humans, animals and plants need
+  water to live; oceans, rivers, rain and ponds are the
+  main sources; we use water for drinking, cooking,
+  bathing and cleaning; plants and trees take water
+  from the soil; farmers use water to grow crops;
+  pollution degrades the quality of water and polluted
+  water is dangerous for life; rubbish must be kept in
+  a fixed place. C — complete sentences with words from
+  a box (soil, damages, life, dangerous, water). D —
+  questions in pairs ×5. E — write the answers in your
+  exercise book. Let's practise — capital-start anagrams
+  (Paltn, inRa, Siol, Copr, rmFaer); True or False ×5;
+  make a sentence with each word ×5.
+- L3 Saving water, pp.104–106: A — a short text and
+  SIX TIPS, each with a ✗-marked picture (turn off the
+  tap when you brush your teeth; turn off the tap after
+  you wash your face; do not use too much soap to wash
+  your hands; do not use too much water when you take a
+  bath; drink all the water in the glass; be careful
+  when you water the plants in your garden), closing
+  with school water use. B — "Tick the best answer":
+  three-option MCQs ×3. C — questions in pairs ×4.
+  D — write the answers in your exercise book. E —
+  guided writing: how you and your family save water,
+  from four help questions, on ruled lines.
+- L4 Rhyme: Sing a Rainbow, pp.107–108: A — in pairs,
+  discuss how many colours are in a rainbow. B — listen
+  to the song and UNDERLINE the name of each colour
+  when you hear it. The song is printed in full
+  ("Red and yellow and indigo and green / Violet and
+  orange and blue / I can sing a rainbow / Sing a
+  rainbow / Sing a rainbow too. / Listen with your eyes
+  … / And sing everything you see …", the colour verse
+  repeated). C — read aloud, first in chorus, then
+  individually. D — draw a rainbow using all the
+  colours in the poem. GRAMMAR FOCUS box: "'Can' is a
+  modal verb. It is used to express ability. Example: I
+  can sing. I can listen." + a Vocabulary line. A
+  printed NOTE credits the song: written by Arthur
+  Hamilton, sung by Peggy Lee in 1955 in the film Pete
+  Kelly's Blues; pink and purple in the original are
+  not rainbow colours and are replaced here with indigo
+  and violet.
+
+### Unit 8 — Facts and Fables (pp.109–122), 2 lessons
+
+- L1 The Ant and the Grasshopper, pp.109–114: A —
+  colour the picture; discuss in groups. B — the STORY,
+  listened to one sentence at a time, then read in
+  groups (plot summary): an ant and a grasshopper are
+  two good friends in a grassy field; on a sunny summer
+  morning the grasshopper dances and sings in the sun
+  — he does not usually like to work; the ant passes
+  carrying an ear of corns to her house, storing food
+  for the winter; the grasshopper laughs and invites
+  her to join him and enjoy the sun; she goes on
+  working; after the summer the winter begins, the days
+  turn very cold, the leaves fall, and the grasshopper
+  finds no food — he starves and becomes weak and sad;
+  the ant has plenty of food and passes her time
+  happily at her cozy home. No moral is printed as a
+  line; the closing exercise asks "What lesson do we
+  learn form the story." C — "tick the correct answer"
+  sentence-completion MCQs ×4 (three options each).
+  D — questions in pairs ×4. E — in the exercise book,
+  sort words and phrases into Summer and Winter columns
+  (dry, leaves, sunny, enjoying the sun, gloomy, warm
+  day, cold). F — ROLE PLAY the ant and the grasshopper
+  in class. G — draw a sunny summer morning and a cold,
+  gloomy winter morning; display them. GRAMMAR FOCUS
+  box: "Use of punctuation mark — For a surprise, an
+  exclamation mark (!) is used. For making a question,
+  a question mark (?) is used; and for a short pause in
+  a sentence, a comma (,) is used." H — in pairs,
+  underline the question marks, exclamation marks and
+  commas in the story. I — put punctuation marks in a
+  passage. Let's practise — match words to meanings
+  (sunny — bright; carry — bear; starve — eating no
+  food; plenty — enough; cozy — comfortable; grassy —
+  full of grass); cloze with a word box; another
+  punctuation passage.
+- L2 Enjoying a hill festival, pp.115–122: A — colour
+  the picture. B — a first-person PICTURE STORY,
+  listened to and read line by line in groups (plot
+  summary): Anika, who lives in the plain land, goes to
+  the hills to visit her friend Savana for the hill
+  festivals; Savana welcomes her by spraying water on
+  her, her parents greet her, and the house is
+  decorated with colours and flowers; they entertain
+  her with various food items; on Phool Biju the hill
+  girls float flowers in the water, wishing a happy new
+  year; the next day is Mulbiju, when young boys and
+  girls spray water on each other, believing it washes
+  away the sorrows of life; then comes the new year's
+  day, called Gajjya Pajjya, with cultural shows and
+  carnivals; Anika spends almost the whole day with her
+  friend and enjoys the festival very much. B (second
+  block) — group discussion questions on the pictures
+  ×4. A GRAMMAR FOCUS box formalises the PRESENT
+  CONTINUOUS: "Continuous tenses: actions or events
+  continuing in the present. Structure: subject + be
+  verb (am/is/are) + verb + ing. Example: He is
+  reading. She is writing." C — say true or false and,
+  if false, WRITE the correct answers ×5. D — read
+  individually and write answers to five questions.
+  E — act out the flower-floating and water-spraying
+  scenes in groups. Two more GRAMMAR FOCUS boxes:
+  "Verbs: Verbs are words that tell us of actions. They
+  are known as 'doing words'." and "Simple present:
+  For any general statement, and for habits and facts
+  the simple present tense is used."; and "Declarative
+  Sentences: Declaratives are simple statements" with
+  the "Negative form of declarative sentences:
+  Auxiliary verb +(be/do, does) not + principal verb.
+  Examples: He does not read. She is not present."
+  F — make four declarative sentences negative in
+  groups. G — draw a picture of any festival, colour
+  and display. Let's practise — match sentence halves
+  to make sentences; cloze with a word box; list the
+  hill festivals and their activities in a table.
+  "The End" is printed at p.122. There is NO end-of-book
+  word list.
+
+### Slips and points recorded as printed
+
+- Contents and titles: the title page prescribes the
+  book as "an experimental edition"; Unit 5's L3 is
+  "Osman's village life" in the Contents.
+- "prouns" for pronouns in the pairwork instruction at
+  U5 L3 D (p.73); "parble" in the vegetable list at U5
+  L4 H (p.79); "an ear of corns" throughout U8 L1
+  (pp.110–113); "What lesson do we learn form the
+  story" (p.114).
+- "Keep your Knees straight." with a capital K inside
+  the list at U3 L1 C (p.35); "We should wash our hands
+  after using toilet." as the model sentence at U6 L3 D
+  (p.95); "Dirt spread germs." as a True/False item at
+  U6 L2 (p.92).
+- U4 L6 B (p.62): the December line ends without a full
+  stop ("December is the twelfth month of the year");
+  the November line's "eleventh" is set plainly where
+  the other ordinals are highlighted.
+- U8 L2's Let's practise table (p.122) spells the
+  festival "Phulbiju" where the story text (p.117)
+  prints "Phool Biju."
+- Imprint (PDF p.3): "(All right reserved by the
+  publisher)" — right in the singular — and the
+  "Printed by:" line is again left blank.
+- Number words are printed only for 1–20; the words
+  for 21–100 never appear (the 91–100 lesson works in
+  figures), and "cardinal" is named at U1 L6 while
+  "ordinal" is named at U4 L6 — recorded as facts of
+  the book.
+
+BANGLADESH CLASS 3 FULLY READ — 2026-10-26 (full re-read,
+page by page from the book's page images; replaces the
+basics-only MAPPED filing)
+CITATION CHECK PASSED — 2026-10-26: anchors re-opened in
+the book itself and confirmed — the experimental-edition
+title page (PDF p.2), the imprint with seven writers
+(PDF p.3), the Bangla teacher page (PDF p.5), Contents
+with all eight units (PDF p.6), the chain-drill frame
+(p.3), the first Let's practise (p.2), the two-option
+meaning MCQs (p.5), the goodbye song (p.10), the "Cardinal
+Numbers" table (p.14), the Jerin information table
+(p.15), the eleven-to-twenty game (p.19), the first
+Grammar focus box (p.28), the T/F traps in My family
+(p.26), even and odd numbers (p.32), the attention
+commands with "Knees" (p.35), the kite instructions
+(p.38), the Can-you grammar box (p.41), the thermometer
+steps (p.42), the library Dos and Don'ts (p.43), "khata
+(copy)" (p.45), the /æ/ drill (p.48), the minimal pairs
+(p.53), the Row Row vocabulary box (p.55), the dictation
+list (p.58), the 2025 calendar and months grammar box
+(p.61), the ordinal table (p.62), the home-library
+project (p.64), the red-letter capitals text (p.65), the
+parts-of-speech definitions (p.69), "prouns" (p.73), the
+guided paragraph questions (pp.73, 77), "parble" (p.79),
+the Rain Rain source note (p.82), the plural rule box
+(p.85), the 20-seconds handwashing steps (p.89), "Dirt
+spread germs" (p.92), "after using toilet" (p.95), the
+correct-the-false-sentences task (p.99), "Water is called
+life" (p.101), the six saving-water tips (p.104), the
+"Can is a modal verb" box and the Peggy Lee note (p.108),
+"ear of corns" (p.110), the punctuation box (p.113),
+"learn form the story" (p.114), Phool Biju and Mulbiju
+(pp.117–118), the continuous-tense structure box (p.120),
+the negative-declarative box (p.121), "The End" (p.122),
+the back cover (PDF p.129).
 
 ## Class 4 — English for Today, Class Four
 
