@@ -1,5 +1,7 @@
 # Sources — The alphabet
 
+countries: Egypt, Libya
+
 Every part traces to its book and page. The PDF of Libya's Pupils Book
 is one book page per PDF page, with the book page printed at the
 corner; both numbers are given.

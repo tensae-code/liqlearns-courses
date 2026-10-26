@@ -1,5 +1,7 @@
 # Sources for this lesson — Greetings
 
+countries: Egypt, Libya, Nicaragua
+
 Every part of this lesson traces to its book and page. No part enters
 without its tag.
 

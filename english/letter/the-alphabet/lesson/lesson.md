@@ -2,7 +2,8 @@
 
 Course: English · Title: Letter · Lesson: The alphabet
 Built from: Libya, English for Libya Pupils Book Grade 1, Unit 1
-"The Alphabet" — and Egypt, English KG1 Term 1 (letter sounds).
+"The Alphabet" — and Egypt, English KG1, KG2 and Primary 1
+(the letters and their sounds).
 
 ## Do it first
 Say the letters you already know, out loud, in order, as far as you can

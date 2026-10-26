@@ -4,7 +4,8 @@ Course: **Pencil and Lines** — the prerequisite course that comes
 before every language course (his ruling, 2026-10-25: learners have to
 learn the words, and words are written — the hand comes first).
 Title: The hand and the line · Lesson: Holding a pencil
-Built from: Egypt, English KG1 Term 1, book p.1.
+Built from: Egypt, English KG1 Term 1, book p.1 — and Libya,
+English for Libya Grade 1 (the grip taught in pictures there too).
 
 ## Do it first
 Get a pencil. Hold it up. Now look at your fingers: where are they on

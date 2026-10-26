@@ -1,5 +1,7 @@
 # Sources for this lesson — Word families
 
+countries: Egypt
+
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
 sources until 2026-10-25, where they were already marked "Word-step

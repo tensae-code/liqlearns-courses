@@ -1,5 +1,7 @@
 # Sources for this lesson — How old are you?
 
+countries: Egypt, Libya
+
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
 hello-and-your-name lesson on 2026-10-25, under his rule: one lesson

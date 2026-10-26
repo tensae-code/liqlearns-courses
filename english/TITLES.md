@@ -49,8 +49,6 @@ lesson audited; anything teaching a second thing was split out into
 its own subtitle folder with its own lesson + questions):
 - Letter → the-alphabet · blending-sounds · two-letter-sounds ·
   blends · word-families
-- Letter → the-alphabet · blending-sounds · two-letter-sounds ·
-  blends · word-families
 - Conversation → hello-and-your-name · how-are-you ·
   good-morning-and-good-afternoon · introducing-a-friend ·
   whats-his-and-her-name · how-old-are-you

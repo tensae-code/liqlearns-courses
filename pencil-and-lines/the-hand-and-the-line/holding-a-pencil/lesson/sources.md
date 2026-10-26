@@ -1,5 +1,7 @@
 # Sources — Holding a pencil
 
+countries: Egypt, Libya
+
 Course: Pencil and Lines — the prerequisite course before every
 language course (his ruling, 2026-10-25).
 

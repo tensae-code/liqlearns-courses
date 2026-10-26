@@ -81,8 +81,10 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 ## If the learner is stuck
 - Answers with a bare number ("8") → the books teach the whole short
   sentence as one piece: "I'm 8."
-- Wants to add "years old" → later books may; these first books keep
-  the short shape, and this lesson teaches the books' shape.
+- Wants to add "years old" → that's this lesson's deeper layer:
+  Libya's first books keep the short shape ("I'm 8"), and Egypt's
+  Primary 3 book teaches the full form ("I am 8 years old!").
+  Both are the books' shapes; teach short first, full second.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

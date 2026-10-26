@@ -1,5 +1,7 @@
 # Sources for this lesson — Blending sounds
 
+countries: Egypt, Libya
+
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The blending material lived inside the alphabet
 lesson's sources (and its level-2 pass mark) until 2026-10-25, when

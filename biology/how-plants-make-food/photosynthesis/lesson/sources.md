@@ -1,5 +1,7 @@
 # Sources for this lesson
 
+countries: none yet — placeholder lesson, not built from the library
+
 Every lesson must list the books it was built from, country by country, so
 the lesson can always be traced back to its books.
 

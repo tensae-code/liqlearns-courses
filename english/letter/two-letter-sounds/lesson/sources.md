@@ -1,5 +1,7 @@
 # Sources for this lesson — Two-letter sounds
 
+countries: Egypt, Libya
+
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The two-letter sets lived inside the alphabet
 lesson's sources (Libya's full 42-sound line) until 2026-10-25, when

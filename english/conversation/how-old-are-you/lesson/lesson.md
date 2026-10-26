@@ -1,7 +1,8 @@
 # How old are you? — the lesson
 
 Course: English · Title: Conversation · Lesson: How old are you?
-Built from: Libya, English for Libya Primary 1, 2 and 3.
+Built from: Libya, English for Libya Primary 1, 2 and 3 —
+and Egypt, English Primary 3 Term 1.
 This lesson is ONE thing only: asking someone's age, and answering
 with your own. Libya's books run it inside the talk — and that is
 where it belongs: asking someone's age is part of a conversation,
@@ -32,9 +33,14 @@ year by year — 6, 7, 8 — because the children grew. That is how you
 know the shape is yours: next year, your number changes, and the
 sentence stays the same.
 
-Notice the answer is not "I'm 8 years old" in these first books.
-The books start with the short whole sentence: "I'm 8." The number
-carries the age.
+Notice the shape of the answer in Libya's first books: the short
+whole sentence, "I'm 8." The number carries the age.
+
+Then the same lesson grows one layer deeper. Egypt's Primary 3
+book says the answer in its FULL form: "**I am 8 years old!**"
+Same question, same number in the middle — the full form just
+adds "years old" at the end. Learn the short shape first; the
+full form is this lesson's next layer, not a different lesson.
 
 ## Say it to your companion
 Ask your companion the question, and answer it for yourself. Then
