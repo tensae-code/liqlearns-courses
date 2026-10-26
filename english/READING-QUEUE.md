@@ -41,7 +41,7 @@ KG–Secondary 10 T1) whenever he calls for them.
 | China | English G3–12 (9 in tsv; teacher+student) | queued — starts at G3, no KG/G1/G2 English |
 | Mongolia | English G5–10 (6) | queued |
 | Bolivia | English G7, G12 (3) | queued — no early English |
-| Mexico | English G7 (1) | queued — no early English |
+| Mexico | English G7 (1) | **FULLY READ + CITATION CHECK PASSED 2026-10-26 — MEXICO G7 COMPLETE** (SEP *Projects and Readings* 1° secundaria, 2024, accessible-format edition; 20 projects, English inside the projects) |
 | Mauritania | English G12 (1) | **FULLY READ + CITATION CHECK PASSED 2026-10-26 — MAURITANIA COMPLETE** (Study English 6th Year, IPN 2025; grabbed direct from the library list's bsimr link) |
 | Iran | no subject-English books in the secured set | nothing to read for English |
 | Sierra Leone | no subject-English books in the secured set (English is the school language itself) | nothing to read for English |
