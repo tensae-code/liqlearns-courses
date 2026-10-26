@@ -16,7 +16,7 @@ joins this queue the day it finishes.
 | India | Grades 1–12, one book each (12) | **ALL 12 READ COMPLETE 2026-10-26 (basics-only) — INDIA COMPLETE** (NCERT's site will not serve its PDFs to this network at all; the books were read from the Internet Archive's copies of the same NCERT printings) |
 | Bangladesh | English G1,2,3,4,5,6,8,9,10 (9, gaps) | **ALL 9 READ COMPLETE 2026-10-26 (basics-only) — BANGLADESH COMPLETE** |
 | Ghana | English Language G1–7 (28 incl. guides/workbooks) | **CURRICULA READ COMPLETE 2026-10-26 (basics-only)** — NaCCA B1–3, B4–6, JHS 1–3 read; Distance Learning guides/workbooks record-only, unread (no public copy opens from this network) |
-| Palestine | English G1 (parts), G2, G5, G10, G12 (8) | queued (same early-front notes note as India) |
+| Palestine | English G1 parts, G2, G5, G10, G12 (8 items) | **GRADE 1 READ COMPLETE 2026-10-26 (basics-only)** · other 6 items record-only, unread — no public copy opens from this network |
 | Nicaragua | English G1–10 modules + activity books (17) | G1 Activity Book 1 + Multigrado READ COMPLETE 2026-10-25; basics filed · rest queued |
 | North Macedonia | English G2 (1) | queued — book not opened yet; portal link dead, held copy in the textbooks library (see books/README.md) |
 | China | English G3–12 (9 in tsv; teacher+student) | queued — starts at G3, no KG/G1/G2 English |

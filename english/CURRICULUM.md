@@ -164,3 +164,11 @@ a named Grammar Usage strand from Basic 4 (word
 classes one by one) and Literature as its own strand
 at JHS. **Ghana: curricula 3 of 3 read; Distance
 Learning set record-only.**
+
+**Stocked by Palestine (Grade 1):** English for
+Palestine starts with a full semester of talk — hello
+and names, food, animals, body, classroom, family,
+drinks — with numbers threaded 1–10 through the units
+and the alphabet placed at the END of each part, after
+the talking. **Palestine: Grade 1 (2 parts) read;
+6 items record-only.**
