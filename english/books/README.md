@@ -22,6 +22,7 @@ the page it lives on and the course lesson it was filed into.
 | [mauritania.md](mauritania.md) | Mauritania — Study English 6th Year Secondary (Grade 12) | **FULLY READ + CITATION CHECK PASSED 2026-10-26** (IPN 2025; 18 lessons in 7 units; functions spine: modals → cause/effect → argument → present perfect → reported speech → question tags → congratulations) |
 | [nicaragua.md](nicaragua.md) | Nicaragua — Inglés Activity Books 1, 3, 4 + Multigrado (G10 secondary in hand) | AB1 + Multigrado READ COMPLETE 2026-10-25 · **AB3 + AB4 + G10 book + G10 module FULLY READ + CITATION CHECKS PASSED 2026-10-26** |
 | [mexico.md](mexico.md) | Mexico — SEP Projects and Readings, 1° Secundaria (Grade 7) | **FULLY READ + CITATION CHECK PASSED 2026-10-26 — MEXICO G7 COMPLETE** (2024, ISBN 978-607-579-568-3, accessible-format edition with answers inline; 20 NEM projects; the English spine runs simple present → questions/pronouns → progressive → modals → past simple → will/going to inside the projects) |
+| [bolivia.md](bolivia.md) | Bolivia — Lengua Extranjera compendium, Secundaria 1–6 (Grades 7–12) | **FULLY READ + CITATION CHECK PASSED 2026-10-26 — BOLIVIA COMPLETE** (Ministerio de Educación teacher compendium 2023–2024 reproducing all six student books; text layer is custom-encoded — the hazard is recorded in the file's head) |
 
 North Macedonia Grade 2: **book not opened yet** — the portal link in
 the library record now returns the portal's own "content does not

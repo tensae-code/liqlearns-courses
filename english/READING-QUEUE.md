@@ -40,7 +40,7 @@ KG–Secondary 10 T1) whenever he calls for them.
 | North Macedonia | English G2 (1) | queued — book not opened yet; portal link dead, held copy in the textbooks library (see books/README.md) |
 | China | English G3–12 (9 in tsv; teacher+student) | queued — starts at G3, no KG/G1/G2 English |
 | Mongolia | English G5–10 (6) | queued |
-| Bolivia | English G7, G12 (3) | queued — no early English |
+| Bolivia | English G7, G12 (3) | **FULLY READ + CITATION CHECK PASSED 2026-10-26 — BOLIVIA COMPLETE** (the ministry's teacher compendium *Textos de Aprendizaje 2023–2024, Área Lengua Extranjera* reproduces the student texts for Secundaria 1–6 = Grades 7–12 entire, so the G7 and G12 books were read inside it, with G8–G11 besides; six-year spine: basics → simple past/continuous → will/going to → present perfect + would → conditionals 0–3, reported speech, passive in six tenses) |
 | Mexico | English G7 (1) | **FULLY READ + CITATION CHECK PASSED 2026-10-26 — MEXICO G7 COMPLETE** (SEP *Projects and Readings* 1° secundaria, 2024, accessible-format edition; 20 projects, English inside the projects) |
 | Mauritania | English G12 (1) | **FULLY READ + CITATION CHECK PASSED 2026-10-26 — MAURITANIA COMPLETE** (Study English 6th Year, IPN 2025; grabbed direct from the library list's bsimr link) |
 | Iran | no subject-English books in the secured set | nothing to read for English |
