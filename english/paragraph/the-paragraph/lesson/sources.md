@@ -54,3 +54,13 @@ time in the series: **word-counted tasks — "a paragraph of
 50 words," set three times** — and a prescribed two-paragraph
 split: subject in the first, family in the second (p.5).
 Transition signals are taught as a writing tool (p.134).
+
+**Laos Grade 11 added 2026-10-27** — *English 6 for Lao
+Secondary Schools* (MoES/RIES, 2015; full read in
+english/books/laos.md). Laos turns paragraph writing into a
+named craft: **"A tip for writing"** (p.132) names the parts —
+**topic sentence** (the topic plus at most three key ideas),
+**main body** with signal words, **concluding sentence** —
+dissects a model paragraph, and the final revision makes
+learners find those parts in a text and rearrange jumbled
+sentences into one (pp.149–150).

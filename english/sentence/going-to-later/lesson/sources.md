@@ -50,3 +50,10 @@ time, in one Grammar note (p.131): **be going to for decided
 plans** against **will with maybe / probably / I think / I
 guess for the undecided** — the two futures side by side,
 named by how sure the speaker is.
+
+**Laos Grade 11 added 2026-10-27** — *English 6 for Lao
+Secondary Schools* (MoES/RIES, 2015; full read in
+english/books/laos.md). The series' clearest contrast note on
+the two futures stands here (p.12): **will** against **be
+going to**, set side by side — sharpening the decided/undecided
+split Book Four first named.
