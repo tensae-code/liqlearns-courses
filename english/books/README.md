@@ -30,3 +30,10 @@ the library record now returns the portal's own "content does not
 exist" page (checked 2026-10-25); the held copy sits in the textbooks
 library. It waits its turn like every book; nothing is reported from
 it until it is actually read.
+
+Laos and Barbados: **finished countries added to the reading queue
+2026-10-27** — both were finished in the library but had never been
+queued here (his correction that day). Laos holds English student
+books + teacher guides for Grades 3–12; Barbados holds Language Arts
+syllabi for Classes 1–4 (it publishes no government student
+textbooks). Their book files start when their first books are read.
