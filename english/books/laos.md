@@ -1,5 +1,21 @@
 # Laos — English for Primary Schools (MoES / RIES)
 
+**LAOS COMPLETE 2026-10-27 — every current-edition English
+book in the library record read whole and citation-checked:**
+primary Books 1–3 (Grades 3–5) and secondary Books One–Seven
+(Grades 6–12), student books AND teacher guides — 20 books.
+The only unread Laos items are the superseded older Grade 3
+pair, standing unread under the edition rule (the 2021 revised
+pair was read in their place). Two library-record errors found
+by these reads and flagged for a textbooks-side correction:
+the secured G7 and G11 "English teacher guides" are the PE
+guides (the real guides sat under crossed mirror filenames
+and are the copies read here). Series-final verdicts: the
+present perfect continuous, the second/third conditionals,
+full reported speech, and essay-length writing are never
+taught anywhere in Laos — each absence checked book by book
+and filed in place.
+
 **Grade 3 (ປ.3) Student Textbook, 2021 edition — FULLY READ + CITATION CHECK PASSED 2026-10-27.** Laos's first English grade in this series: English starts at Grade 3, and this is the first book. Source copy: the public mirror the library's secured copy came from (GitHub Xaypanya/Lao-Textbook, `textbooks/primary/p3/p3_english_2021.pdf`). Working copy verified against the library record before reading: **41,839,690 bytes, 141 PDF pages — both match the record exactly (VERIFIED-TEXT)**. Printed folios run 1–134; **printed page = PDF page − 7** throughout (checked at the Introduction p.1 = PDF 8, Unit 2 p.22 = PDF 29, Unit 3 p.40 = PDF 47, and the back page).
 
 ## The book itself
@@ -10504,3 +10520,670 @@ note. With it, the Laos student books are read
 whole — primary Books 1–3 and secondary Books One–Seven; the
 Grade 12 teacher guide follows in the reading queue, and with
 it the Laos run closes.
+
+## Grade 12 (ມ.7) TEACHER GUIDE — FULLY READ + CITATION CHECK PASSED 2026-10-27
+
+The teacher's twin of "ENGLISH FOR LAO SECONDARY SCHOOLS,"
+Book Seven — the seventh and last teacher guide of the
+secondary series, pairing lesson by lesson with the Grade 12
+student book filed above. Source copy: the public mirror the
+library's secured copy came from (GitHub Xaypanya/Lao-Textbook,
+`guides/secondary/m7/m7_english.pdf`). **Filename story, in
+full:** for once the name tells the truth. The file at the
+expected path downloads at **1,091,111 bytes, 161 PDF pages —
+both match the library record exactly (VERIFIED-TEXT)** — and
+its CONTENT was verified by cover before a page was read
+(this mirror's guide folders lied for Books Five and Six,
+where the real guides sat under the lao-language filename and
+the files named "english" were a Geography guide and a PE
+guide): PDF p.1 rendered is this guide's own cover spread —
+"ENGLISH FOR LAO SECONDARY SCHOOLS," a big blue **M** beside
+the green **7** badge, "TEACHERS GUIDE" in rainbow letters,
+Ministry of Education and Sports / Research Institute for
+Educational Sciences, **2016**, spine "English for Lao
+Secondary Schools M7" — and PDF p.2 is its title page,
+"ENGLISH For Upper Secondary Schools" over a blue **7**, with
+the student book's exact credits team. The library record
+also notes the mirror copy is byte-identical to the official
+MoES DGE file (`TG_M7-English.pdf`, grabbed via Wayback);
+nothing in this read contradicts that. Working copy kept at
+`laos-g12-english-teacher.pdf`. The PDF keeps the series' RC4
+print protection (print: yes, copy: no); its English text
+layer is real but doubled (a ghost layer repeats lines) with
+stretches in a Caesar-shifted embedded font, and its Lao
+layer extracts as mojibake under the legacy encoding — so
+this filing rests on the English layer (objectives are
+carried in Lao; the keys, scripts, models and note examples
+are English), with Lao-carried points read on renders and
+flagged where a point rests on Lao. Every page carries the
+diagonal RIES stamp watermark, as in the student book.
+
+## What the book is
+
+- Title as printed on the cover: **ENGLISH FOR LAO SECONDARY
+  SCHOOLS**, badge **M7**, "TEACHERS GUIDE" (no apostrophe,
+  as printed); title page: "ENGLISH For Upper Secondary
+  Schools," blue 7. It pairs with *English for Lao Secondary
+  Schools, Book Seven* (Grade 12 student book, filed above).
+- Publisher: Ministry of Education and Sports, Research
+  Institute for Educational Sciences (RIES), Laos. Imprint
+  year **2016**. Back-cover panel (PDF p.1, read on the
+  render) carries the print data in Lao: printed by Eastern
+  Printing Public Co., Ltd., order 179/06052106, size 18×25
+  cm, print run **4,459 copies** — against the student book's
+  34,622.
+- Credits stand on the title page (PDF p.2), the student
+  book's whole-team list name for name: Writers Viengkham
+  PHONPRASEUTH, Khamphanh PHIMSIPASOM, Manoly DONGVAN,
+  Ammaly ALATHEP, Viengkham SINGVONGSA, Vongmani SITHA,
+  Manivone PHAXAYAVONG; Managing Editors Khamphanh
+  Phimsipasom and Viengkham Phonpraseuth; Editor in Chief
+  Assoc. Prof. Dr. Bouasavanh Keovilay; Design and Layout
+  Khonesavanh Chanthavixay.
+- **No ISBN printed anywhere** — cover spread and title page
+  checked on renders; the whole text layer searched (zero
+  hits for "ISBN").
+- Printed page = PDF page − 7, the student book's own offset:
+  front matter Roman I–IV (PDF pp.4–7), body printed pp.1–154,
+  and PDF p.161 is the Bibliography page itself — there is
+  no blank back-cover panel. PDF p.3 is a blank leaf carrying
+  only the watermark. Contents (printed pp. III–IV) mirrors
+  the student book unit for unit, and its Unit 11 line reads
+  "Review (unit 7-10)" with "Irregular verbs 151" and
+  "Bibliography 154" — agreeing with the right span, where
+  the student book's Unit 11 head mislabels itself (below).
+
+## Method and introduction, in full
+
+The Introduction (printed p.I) is the series' standing text,
+here correct about its own place: "This teachers guide is
+**the seventh in a series of seven teachers guide** which are
+developed to provide some necessary teaching techniques along
+with the textbooks." Its promises, in its own words: the
+guide "will help teachers conduct their teaching performances
+effectively," gives "the necessary steps of teaching with
+clear instruction that teachers can follow easily," and "will
+help lead teachers to use learner-centered method of
+teaching"; "It also includes **the keys of the lessons, some
+reading texts for listening, some techniques of writing**."
+Teachers are told the teaching will be effective if they read
+the guide and textbook before the lessons, and that it is
+necessary to have the guide along with the textbook. The
+close carries the series' own errata admission: the guide
+"is produced under the time pressure that it cannot be probed
+into every needed area. **Some minor errors may also contain
+in some instructions.**" The Lao half of the Introduction
+adds the reform frame (the 11-to-12-year change; the FLRC at
+RIES with the Faculty of Letters, National University of
+Laos) and names the funder as **SESDP** — and this time the
+guide's English side does not split it: the Acknowledgements
+(printed p.II) thank only the **Secondary Education Sector
+Development Project** for equipment and financial support, so
+the student book's BESDP/SESDP two-names split does not
+recur inside the guide. The Acknowledgements list the
+writer's-workshop team (the RIES writers, with Manivone
+Phaxayavong of Vientiane Secondary School) and the same four
+contributing teachers the student book thanks (Chanpheng
+Thonpasong, Yangchangthao Houava, Chansamone Oudomsith,
+Phouthsady Phisith, with their schools).
+
+There is no separate method chapter, as in Book Six's guide:
+the method lives in the units. Each unit opens with an
+overview page giving the time (**9 hours per unit**), the
+objectives in Lao, and the teaching aids to prepare; each
+lesson then walks the student book's standing nine-step shape
+(Vocabulary → Listen and repeat → Listen and practise → Read
+steps → Grammar/Language note → complete/match steps → Write)
+with numbered Lao procedure steps mirroring the student
+book's activities one for one, and the English payload —
+answer keys, listening scripts printed in full, model
+sentences and model paragraphs — set inline at the step it
+belongs to. The guide also prints **Lao translations of two
+reading texts** for the teacher (the coffee memoir, printed
+p.63; the endangered-animals text, printed p.115 — both read
+on the text layer's Lao, which extracts broken; noted here as
+a feature, not mined). No assessment chapter: the words test,
+exam and score appear only inside lesson content, and
+checking runs through the keys and the two Revision units,
+as throughout the series.
+
+## What it adds, unit by unit
+
+- **Unit 1 Education.** Keys for the reading questions
+  (printed p.4: prepare for primary school; at six; about
+  eighteen; pass the entrance examination; 4–6 years; they
+  do not want to go to university) and the **16-gap listening
+  script printed with every answer in place** (p.5) — the
+  "General education in Laos" text as a cloze with education,
+  secondary, three, prepare, study, years, compulsory, school,
+  finish, lower, upper, receive, pass, after, university,
+  training filled. Lesson 2: the wish Grammar note adds its
+  own extra line — "I wish / we wish but he/she wishes" —
+  and the Write key gives **seven model wish sentences**
+  (p.8), five keyed to the dialogue's regrets and two open
+  models ("I wish I had had breakfast this morning"). The
+  pie-chart answers (p.9: Science; the closing item keyed
+  "True"). Lesson 3: the two graduates' listening scripts
+  printed in full with answers filled (pp.10–11 — Saydavanh
+  "proud and exited," hoping to study English and work as an
+  interpreter; Vilaysack for Engineering and the private
+  sector, carrying the first conditional the student filing
+  noted in use), the Find key (interpreter, overseas, grow,
+  faculty, finish), and the scholarship-letter reading key
+  (p.12: Vongthong; Luang Namtha Secondary School, P.O. Box
+  117; a teacher; the National University of Laos; two
+  years; Mr. Pennington; to apply for a scholarship; her
+  resume).
+- **Unit 2 Road accident.** Teacher warm-up questions in
+  English ("What is public transport? Tell me the names of
+  public transport (Bus, Taxi, Tuk-Tuk, Train, Airline)");
+  the "Road accidents in Vientiane" word-bank cloze printed
+  filled (pp.15–16); the present-continuous-for-future note's
+  key (has / am visiting / am studying / drives, p.17); the
+  "Road construction" answer set (p.17); the **"Woman drivers"
+  listening text printed whole** with its ten answers in
+  place (p.18); and a teacher model paragraph for the
+  100-word accident write (p.18 — "In my village, there are
+  very few cars and motorbikes…," with linkers named: and,
+  so, but, because, when, after, then, next). Lesson 2: the
+  should/shouldn't key (p.22), the "prudent driver" answers
+  (p.22), the **"Driving in Vientiane Capital" script printed
+  in full** (p.23) and a second model paragraph for the
+  traffic write. Lesson 3: the when Grammar note worked in
+  English with clause diagrams ("I will call you when I go to
+  Luang Prabang" in both orders, p.26) and the **ten-sentence
+  join-with-when key** (p.27); the "Qualified drivers"
+  listening script printed whole (pp.27–28); the "Roads for
+  safety driving" answers (p.29: tone bands, raised rib, edge
+  line marking…); a third model paragraph (p.29); and the
+  unit's topic mind map printed filled (p.30 — traffic
+  problems / signs / rules with their branches).
+- **Unit 3 Holidays.** The holidays match key (May — Labour's
+  Day; April 15 — Lao New Year's Day; December — Lao National
+  Day, p.32); the will/shall note's example dialogues printed
+  in full (pp.33–34 — the aspirin offer, Panda's ice-cream
+  promise, the lost ring, the oil change, the 10-billion
+  prediction and the cork that "won't come out," with will
+  beside "(I'm) sure, (I) expect, (I) think" and a stray
+  "proably" in the Lao-side gloss, as printed); the will
+  writing frame keyed — five holiday questions with model
+  answers (Pimai baci, Labour Day fence, Women's Day party,
+  Teacher's Day flowers, National Day at home, p.35) and the
+  **model holiday dialogue in full** (pp.35–36: "I will go to
+  vangvieng… I will stay there for 4 days"). Lesson 2: the
+  holiday-plans reading key (p.38 — Vieng to help her uncle
+  and visit relatives; Keo to Sam Neua for two months), the
+  going-to-against-will contrast restated in the note ("I'm
+  going to visit my friend this weekend" — decided before;
+  "I will visit…" — decided at the moment), the Complete key
+  with the four frames worked (going to / hoping to /
+  planning to / looking forward to, p.39), and two short
+  question-and-answer keys (pp.39–40). Lesson 3: the
+  contractions note keyed as an "Excercise" — seven contracted
+  sentences each printed beside its full form, including
+  "She's been here for two weeks — She has been here for two
+  weeks" (pp.43–44) — and the Rearrange key (p.44–45).
+- **Unit 4 Geography.** The provinces mind map keyed by
+  region (p.48: North 3, Centre 6, West 3, South 4, East 2 —
+  eighteen in all, Xaysomboun counted in the Centre); the
+  there-is/are-against-have/has note explained (p.48:
+  "Vientiane has two border check points" against "There is
+  a border check point in Khammouane province"); the Luang
+  Prabang answers (360,000 people; 12 ethnic groups, p.50);
+  the province data table printed (Savannakhet 15 districts /
+  1,010 villages / 703,000 people / 114,000 households; Bokeo;
+  Oudomxay) with a model sentence and the completed
+  Savannakhet chart (capital Kaisone Phomvihane; attractions
+  Inhang; by road/boat, p.50). Lesson 2: the weather listening
+  text — the Laos climate description — printed in full with
+  its true/false key and corrections (p.53), the seasons
+  cloze key (climate, season, distinct, cool, hot, rainy,
+  time, green, colourful, p.54) and the two-seasons answers
+  (p.54). Lesson 3: the tourist-sites match key (Wat Sisaket,
+  National Museum, Xiengkhouan Buddha Park, Ho Phakeo, Ing
+  Hang Stupa, Patuxai, Ang Nam Ngum, Wat Phou, p.56); the
+  first-conditional note keyed with spoken and written forms
+  ("If you go to Pakse, you'll see Wat Phou" / "you will see
+  Wat Phou," p.57); the **Champasack 2015 events listening
+  script printed whole** with its dates table (pp.57–58);
+  the festival-dates key (p.58–59); the rocket-festival
+  answers (p.59); and a festival writing frame — title,
+  introductory sentences, details, closing sentences (p.60).
+- **Unit 5 Agriculture.** Coffee answers (p.62: the south,
+  east of Pakse; after seven years; "No, we can't";
+  increasing); the passive note spread carries the Lao
+  translation of the coffee memoir (p.63, render/layer note
+  above), and the note's own English examples stand on p.64
+  ("The war destroyed some coffee plants → Some coffee plants
+  were destroyed (by the war)"); the **Rearrange-into-passive
+  key** (p.65: "The seeds are sowed / sown…," "The soil is
+  weeded and hoed"); the coffee-process cloze printed filled
+  (p.65); and the Write key's five reasons more people grow
+  coffee (p.66). Lesson 2: the **vet-visit listening script
+  printed in full** (pp.67–68) — Ms. Naly and Mr. Bounma, 13
+  gaps filled, opening "How long have you been raising
+  cattle?" (the present-perfect-continuous shape standing in
+  the script exactly as the student book's cloze frame has
+  it, with no teaching note anywhere in the guide either);
+  the true/false key tail (p.68: wool from sheep; horses are
+  working animals); the causative note's example ("Mr.
+  Bounma has his animals vaccinated twice a year," p.69);
+  and both Write keys in full — what Bounma will do himself
+  against what he will pay others to do, and the six
+  look-and-write causatives ("I'm going to have my cassette
+  player repaired… my photograph taken," pp.69–70). Lesson 3:
+  irrigation answers (p.71 — including key item 5 as printed,
+  "They used it for seven thousand years ago"); the match key
+  (p.72); the Complete key (pp.72–73); the modal-passive note
+  ("Salt can be washed out of the soil by a good drainage";
+  "Coffee beans will be harvested after seven years," p.73)
+  with its when-answer key; the **paper-making completion key**
+  (p.74, nine steps); the paper-history listening script
+  printed with answers (p.75); and the modal-passive rewrite
+  key (p.75 — "The pollution in our rivers must be cleaned
+  up"; "Mina mustn't be told about our surprise").
+- **Unit 6 Revision.** The whole revision keyed: the five
+  I-wish answers (p.76 — the same five situations as the
+  Unit 1 Write key); the subject match key (1-b, 2-e, 3-a,
+  4-d, 5-h, 6-i, 7-c, 8-f, 9-g, p.77); the Find key against
+  the "General education in Laos" text reprinted whole
+  (p.78: interpreter, oversea, exam, faculty, enroll); the
+  **cross-tense passive key** (p.79 — past, present perfect,
+  present continuous "The applicants are being considered at
+  the moment," future); the **re-set scholarship letter
+  printed completed** (p.79 — (Mr) Vilaysack Inkhalavong to
+  "Mrs Clak," Personnel Manager, Lincoln Engineering
+  Services Ltd., dated 5 April 2010, its ten gaps filled:
+  apply, worked, been, since, resume, application form, look
+  forward, Yours Sincerely among them); the traffic-signs
+  Write key in English (p.80: Do not turn right / Round-about
+  / Do not park on odd date…); the when-join key re-run
+  (p.81); the **present perfect passive key** (p.81 — "Since
+  the 19th century, wood has been used for making the pulp"
+  and four more); and the agriculture word-search key printed
+  as its sixteen words (p.82).
+- **Unit 7 The environment.** The migration match key filled
+  (p.85: migrate 1, opportunity 2, ignore 4… as printed); the
+  true/false key **with corrections** (pp.85–86 — item 5's
+  correction itself garbled as printed, below); the
+  comparison completion key with its rejected options shown
+  ("longer … than," not "more long"; "painfuler" rejected,
+  p.87); the Rearrange key (p.88); the rubbish dialogue
+  answers (p.90 — plastic: cheaper and more convenient,
+  "messy and stay forever"; banana leaves: disappear into
+  fertilizer, but expensive); the cause/effect match key
+  (p.91); the **Beijing rubbish listening text printed whole**
+  (p.92 — 100 million tons a year, 2.3 billion plastic bags,
+  15,000 tons a day in Beijing); the "Vientiane today" cloze
+  key (biggest, concrete, relax, tidy, trees, traffic,
+  crossroads, plants, machine, passengers, p.93); its
+  question key (p.94 — including "What is the English
+  official name of Lao country? — Lao people's Democratic
+  Republic"); its true/false key with corrections (pp.95–96);
+  and the closing dialogue script printed filled (pp.96–97).
+- **Unit 8 The trends.** The Present Real Conditional note
+  printed with both orders and the comma rule in the
+  formulas (p.99) and the five-sentence completion key
+  (p.100); the population questions keyed (p.101 — "About
+  6,834, 345"; 3 groups; 55 years; the Mekong valleys; about
+  13,668,690 in twenty-five years; 26 persons/km²; 4
+  linguistic families — the growth-rate and rank answers not
+  carried in the key as extracted); the **population
+  projection 2005–2020 listening script printed whole** with
+  its eight answers (p.102); graph-writing model sentences
+  (p.103 — "The population has increased from 2003 to 2009,"
+  and its slip below). Lesson 2: the newspaper-text question
+  key in part (p.105: focus on manufacturing; yes; natural
+  resources and tourism) and the true/false key with
+  corrections (pp.106–107 — "It's a market oriented financial
+  system"; "the second highest in East Asia after China");
+  the **ASEAN Economic Community listening script printed
+  whole** (p.107) with its eleven-word key (p.108). Lesson 3:
+  the future/perfect passive note formulas (p.109) and the
+  **change-into-passive key** (p.109 — "The ITEC Mall has just
+  been built"; "Pocket Wi-Fi has been used…"; "High speed
+  train will be used by lao people soon" as printed); the
+  "My village" answers (pp.110–111); and the passive
+  dialogue-completion frames with possible answers ("Yes, I
+  think so / Yes, of course / No, I don't think so / I'm not
+  sure / Definitely," pp.111–112).
+- **Unit 9 Wildlife.** The endangered-animals answers (p.114
+  — fur and bones for high prices; the panda's forest cut
+  down; dolphins in fishing nets; the Mekong polluted and
+  food reduced through over-fishing; the rhino's horn for
+  Chinese medicine; elephants for meat); the **IUCN Red List
+  listening script** printed (p.117) and the sentence-
+  completion key (pp.117–118 — "In 1998, it was estimated that
+  there were only about 2,000 left in the world"); the
+  Forespace answers (p.119 — Ban Toup, Houaysay district; a
+  tree-top walk-way); the eco-tourism match key (p.121); the
+  **For/Against hunting lists printed as possible answers in
+  full** (p.121 — hunters need money; cheaper and easier than
+  preventing it; difficult to control in remote areas —
+  against: other food exists; animals will disappear; ivory
+  products not essential; tourists won't come); the
+  should/must dialogue script printed filled (p.122 — "wildlife
+  is disapprearing" as printed); conservation-action possible
+  answers (pp.122–123); the forests answers (p.124 —
+  "Srilanka has designated more than 10% of its land as
+  protected areas"); the forest match, completion and
+  rearrange keys (pp.125–126 — rearrange item 2 as printed,
+  "laws to protect the destruction of forests").
+- **Unit 10 The job opportunities.** The Unit 10 overview
+  names the unit's grammar in English (printed p.129):
+  present perfect simple and quantifiers (much, many, a
+  little (of), a few, a lot (of)). Lesson 1: the **true/false
+  key printed in full** (p.130) — the very exercise whose
+  answers the student book prints inside itself: 1 (no mark),
+  2 (F) "(Bounmee hasn't got, Noy has)," 3 (F) "(There are
+  many)," 4 (T), 5 (F) "(He has)," 6 (T), 7 (statement, no
+  mark) — agreeing with the student book's own printed "(T)"
+  and "(F) (Noy has)"; the word match key in part (p.131);
+  the since/for note explained in Lao (p.131); the Choose-and-
+  complete key (p.132 — "She has studied English for five
+  years"; "My parents have moved to Vientiane since 1980";
+  "Since the end of financial crisis, the average income has
+  increased"); and the **CV reading key** (pp.132–133 —
+  Soutchai: Hongkae village, Xayseththa District; Lao;
+  French and English; born 23rd February 1990; accountant;
+  can drive — with the telephone-number answer, item 2, left
+  blank in the key as printed). Lesson 2: the **vacancy
+  application form printed filled in full** (p.135 — Thongdy
+  Luanglath, born 10/7/1981, Luang Prabang Province, National
+  University of Laos, Bachelor of Education 2000–2005,
+  accountant, night shift — under the same stale closing date
+  25/5/2009 the student book carries) and the Latsamy form
+  key (p.136 — born 4th of October 1985; Thongkhankham
+  Elementary School; Bachelor of Engineering 2002–2007; Dong
+  Dok village; items 7 left unanswered in the key). Lesson 3:
+  the interview-tips match key in part (p.138); the
+  quantifiers Choose key (p.139); the "Tips for interviews"
+  answers (p.140 — greeting session "Ten seconds"; WH
+  questions; "Short-listed candidates"); and the job-seeking
+  strategy order printed as its eleven steps (p.142: vacancy
+  announcement → personal information → education → experience
+  → photograph → diploma → deadline → short-listed →
+  greeting → introduce → contacted).
+- **Unit 11 Revision.** The closing revision keyed
+  throughout: the village listening cloze printed filled
+  (p.143 — "about150 kilometers far from Vientiane Capital"
+  as printed; "the (5) famous tourist destination"); the
+  match answers begun (1-c, 2-f, p.144); the Rearrange key
+  (p.145 — including the past perfect passive item standing
+  as in the student book, "The knowledge of traditions that
+  had been passed down from generations to generations," and
+  its slip below); the sentence-making models (p.145 —
+  believe / ignore / living condition / hidden wisdom /
+  sustainable); the population conversation printed in full
+  (p.146 — education for all as the answer to growth); and
+  the **Grammar note review keyed in full** (pp.147–148):
+  comparatives (easier / stronger / more expensive / worse /
+  more beautiful); the passive future and present perfect
+  ("The Lao PDR. (be) has been a member of ASEAN since 1997";
+  "The High Speed Train Rail (build) will be built…";
+  "(establish) will be established"); must / mustn't / don't
+  have to over Lao customs (mustn't touch the monk's head;
+  must sit lower; mustn't kiss in public; women must sit far
+  from monks; entering Thailand, no visa needed); **since/for
+  — whose item (a) is the guide's own keyed answer "I have
+  been studying English for four years,"** the present perfect
+  continuous standing as the key's model for a since/for
+  exercise, still with no name or note; and the conjunctions
+  and/or/but/so/although with their joining jobs stated and
+  five keyed sentences. Then the two listening scripts
+  printed whole — **Wildlife in Laos** (p.149: over 100
+  species of large mammals; five gibbon, five macaque and
+  "fours species of leaf monkey" as printed; the Saola; the
+  Kha-nyou; 165 amphibians and reptiles) and **ASEAN
+  Cultures** (p.150: "one vision, one identity, one
+  community"; religions "ranking from Buddhism, Christian,
+  Islam, Muslim, and Animism"; "thanks giving day and
+  Baathist" as printed) — and the closing "Economic
+  Development" answer set (p.150).
+- **Back matter.** The guide closes with the student book's
+  own back matter re-set: the **Irregular verbs table**
+  (printed pp.151–153, some 110 verbs) and the **Bibliography**
+  (p.154, the same ten dated entries, 1998–2006). The verbs
+  table is the guide's own copy, and it repeats the student
+  book's slip exactly (below).
+
+## What it settles against the student filing
+
+- **The guide's Introduction is right where the student
+  book's is stale:** the guide calls itself "the seventh in
+  a series of seven teachers guide" (printed p.I); the
+  student book's Introduction calls Book Seven "the sixth"
+  — the slip is the student book's alone.
+- **The funder split does not recur:** the guide names SESDP
+  in both its Lao Introduction and its English
+  Acknowledgements; the student book's BESDP (Introduction)
+  against SESDP (Acknowledgements) split stands as the
+  student book's own.
+- **Unit 11's span:** the guide's Contents reads "Review
+  (unit 7-10)" (printed p.IV) and its unit head is simply
+  "Unit 11 Revision" — the guide does not repeat the student
+  book's "Review Unit 1-5" mis-heading over a Units 7–10
+  review.
+- **The Unit 10 true/false answers:** the student book prints
+  "(T)" and "(F) (Noy has)" inside its own exercise (student
+  p.129); the guide keys the whole exercise (printed p.130)
+  and agrees — Bounmee hasn't got the job, Noy has; item 5
+  keyed (F) "(He has)" — though the guide spells the name
+  "Boinmee" in that key (below).
+- **"become — became — became":** the student book's
+  irregular-verbs slip (student p.151) is **repeated word for
+  word in the guide's own table** (printed p.151) — neither
+  book corrects it.
+- **The population figure:** the student text's number-words
+  say "…three hundred and thirty five" against its figures
+  6,834,345 (student p.100); the guide's key prints figures
+  only — "About 6,834, 345" (printed p.101) — so the guide
+  sides with the figures and never touches the words.
+- **The vet cloze's first gap:** the guide's script prints
+  "How long have you been raising cattle?" in full (printed
+  p.67) — confirming the present perfect continuous is the
+  script's own wording, used and still nowhere taught; the
+  guide's since/for key does the same again at printed p.148
+  ("I have been studying English for four years").
+- **The revision letter:** the student book's Unit 6 letter
+  cloze (the Unit 1 letter re-set, dated 5 April 2010) is
+  printed completed in the guide (printed p.79) — new
+  applicant "(Mr) Vilaysack Inkhalavong," addressed to "Mrs
+  Clak (Personnel Manager), Lincoln Engineering Services
+  Ltd." — the guide keeps the date the student filing flagged
+  as stale matter in a 2016 book, and adds its own name slip
+  (below).
+- **"ACKNOWLEGEMENTS":** the guide prints the same misspelt
+  heading as the student book (printed p.II) — the slip is
+  shared by both books.
+- **Song words — the standing negative closes the series:**
+  the student books print their songs; the guides, this one
+  included, print **none**. The whole text layer was searched:
+  no song, chant or verse text stands anywhere in this guide
+  (its only "songs" are inside a keyed when-sentence — "I
+  listened to the radio waiting for my favorite songs,"
+  printed p.27, carried from the student exercise). The
+  Introduction's promise for this guide is "keys… reading
+  texts for listening… techniques of writing" — no songs
+  promised, and none printed.
+
+## New for the course
+
+- **Level 18, The Passive** — the guide keys Laos's completed
+  passive system end to end: the rearrange key (printed p.65),
+  the paper-process completion and history script (pp.74–75),
+  the modal-passive rewrite key (p.75), the cross-tense
+  revision key including a present continuous passive ("The
+  applicants are being considered at the moment," p.79) and
+  the present perfect passive set (p.81), and the
+  future/perfect key ("The ITEC Mall has just been built,"
+  p.109) with the revision review re-keyed (p.147).
+- **Level 18, The Present Perfect** — the since/for system
+  keyed in three places (pp.132, 147–148), and the Unit 10
+  true/false key working haven't / has / already / yet over
+  the job dialogue (p.130).
+- **Level 18, The Present Perfect Continuous** — the
+  series-final negative confirmed from the guide side: the
+  shape stands in the guide's own printed script (p.67) and
+  as the guide's own keyed model answer (p.148), and is named,
+  tabled and drilled in none of the seven guides either. Use
+  is not teaching; the course stocks nothing from Laos for
+  this lesson.
+- **Level 18, Conditionals** — the first conditional keyed in
+  both its Book Seven namings (First conditionals note, p.57;
+  Present Real Conditional note and completion key, pp.99–100)
+  and standing in the graduate's script (p.11); no second or
+  third conditional anywhere in the guide — whole-layer
+  negative controls: "second conditional" 0 hits · "third
+  conditional" 0 hits · "would have" 0 hits · "reported
+  speech" 0 hits · "essay" 0 hits · "perfect continuous"
+  0 hits.
+- **Level 12, Going To Later** — the will note's dialogues and
+  the decided-before / decided-now contrast printed in the
+  guide (pp.33–34, 38), the holiday will answers (p.35) and
+  the four-frame Complete key (p.39).
+- **Level 5, Conversation** — the job unit keyed whole: the
+  true/false key (p.130), the filled application form (p.135),
+  the CV answers (pp.132–133), the interview-tips key (p.140)
+  and the eleven-step job-seeking order (p.142); the formal
+  scholarship letter's reading key (p.12) and its completed
+  re-set in revision (p.79).
+- **Level 14, The Paragraph** — teacher model paragraphs for
+  the 100-word writes (pp.18, 24, 29) and the festival writing
+  frame — title, introductory sentences, details, closing
+  sentences (p.60).
+- **Level 9, Numbers, Days, and Time** — the population
+  projection script with its figures read aloud (p.102), the
+  graph-writing models (p.103), and the festival-dates key
+  spoken in full ("on the second of December," p.59).
+- **Level 15, Reading Whole Texts** — the guide prints the
+  listening texts whole: Woman drivers (p.18), Driving in
+  Vientiane Capital (p.23), Qualified drivers (pp.27–28), the
+  climate description (p.53), the Champasack events calendar
+  (pp.57–58), the Beijing rubbish text (p.92), the population
+  projection (p.102), the ASEAN Economic Community text
+  (p.107), the IUCN Red List text (p.117), Wildlife in Laos
+  (p.149) and ASEAN Cultures (p.150).
+
+**Slips recorded as printed (the guide's own):**
+"ACKNOWLEGEMENTS" as the Acknowledgements head (printed
+p.II), shared with the student book · the Saydavanh script's
+"proud and **exited**" for excited (p.10) · the warm-up's
+"Where is the traffic lights?" (p.14) · the present-continuous
+note's example "Where are you going to do next weekend?"
+(p.16) · the model paragraph's "the accident is rarely
+happened" (p.18) · "driving **lisence**" in the prudent-driver
+vocabulary list (p.22) · "cool dry **seaon**" (p.54) · "Apirl
+is the hottest month and August is the **westtest** month" in
+the seasons key (p.55) · the Champasack script's "On the
+twenty-ninth of February" inside a 2015 events calendar, and
+its dates table's "fruit market at **Laksaoet**" (p.58) ·
+"Does Vieng **have got** a plan for school holiday?" in the
+reading key (p.38) · "Vieng is **hopping** to visit" for hoping
+(p.39) · "She's going with **a friend of her**" (p.40) ·
+"**Excercise**" as the contractions exercise head (p.43) ·
+"**convernient**" in the restaurant Write word bank (p.45) ·
+the Rearrange key's "Your lunch bill is 45,000 **kips**"
+against its item's "45 000 kip" (p.45) · the irrigation key's
+"They used it **for seven thousand years ago**" (p.71) · the
+paper script's tangled fill "…(6)…were used…..is used to make
+the pulp" (p.75) · the revision letter as filled: "I have (4)
+**been as an electrician** for my father's company" and its
+addressee "**Mrs Clak**" (p.79) · the Find key's "**oversea**"
+for overseas (p.79) · the Unit 7 true/false correction for
+item 5, which as printed corrects a sentence about physical
+and mental problems with "higher than the people in **long
+term**" (p.86) · "**Thee** population of Laos in 2009…" in the
+graph-writing models (p.103) · "**bompetitive**" in the ASEAN
+listening key (p.108) · "**ojb**" for Obj twice in the
+future/perfect passive note (p.109) · "people in big
+**cites**" and "High speed train will be used by **lao**
+people soon" in the passive key (p.109) · the For/Against
+answers' "products made from wildlife are not essential, like
+**ivory duration**" and "if there **iswildlife** to see"
+(p.121) · the wildlife dialogue script's "wildlife is
+**disapprearing**" and "There's a **program me** about
+wildlife" (p.122) · "**Boinmee**" for Bounmee in the Unit 10
+true/false key (p.130) · the CV key leaving its item 2 (the
+telephone number) unanswered, and the Latsamy key leaving its
+item 7 unanswered (pp.132–133, 136) · "Is Latsamy Duangdy
+**sigle** or married?" and "Where was **he** born?" asked of
+Latsamy in the same key (p.136) · "The **interviwees** should
+answer…" and "What can **impess** the interviewers?" (p.140) ·
+"applying for vacant **potions**" in the revision Rearrange
+key (p.145) · the since/for key's own model answers misusing
+the forms it keys — "I can speak English **since I was
+studying** in FaNgum High School," "The Lao PDR. **was
+established for forty years** on 2nd December, 2015," "She
+**married to** her husband since she was twenty four years
+old" (p.148) · "**fours species** of leaf monkey" in the
+Wildlife script (p.149) · "others' **believes**" and
+"**Baathist**" in the ASEAN Cultures script (p.150) ·
+"become — became — became" in the guide's own Irregular verbs
+table (p.151), the student book's slip repeated.
+
+**FULLY READ 2026-10-27.** Read page by page from the text
+layer (the book has a real English layer for its keys,
+scripts and models; the procedure steps and unit objectives
+are carried in Lao and were followed step by step in the
+layer, with the picture-carried and Lao-carried pages checked
+on renders: the cover spread and title page (PDF pp.1–2), the
+blank leaf (PDF p.3), the Unit 5 passive-note spread whose
+facing page is the Lao translation of the coffee memoir (PDF
+p.70, printed p.63), and the Lao translation of the endangered
+animals text (PDF p.122, printed p.115)). **CITATION CHECK
+PASSED 2026-10-27** — anchors re-opened and confirmed on their
+pages: cover "ENGLISH FOR LAO SECONDARY SCHOOLS" with the M7
+badge and "TEACHERS GUIDE" (PDF p.1, render) · title page
+writers and 2016 (PDF p.2, render) · "the seventh in a series
+of seven teachers guide" in the Introduction (printed p.I) ·
+"ACKNOWLEGEMENTS" and the SESDP thanks (printed p.II) ·
+Contents "Review (unit 7-10)," "Irregular verbs 151,"
+"Bibliography 154" (printed p.IV) · Unit 1 overview "9 hours"
+with the I wish objective (printed p.1) · the 16-gap script
+with "training" as gap 16 (printed p.5) · the wish Write key
+"I wish I had had breakfast this morning" (printed p.8) · the
+Saydavanh script "proud and exited" (printed p.10) · the
+letter key "Mr. Pennington" (printed p.12) · the "Woman
+drivers" script in full (printed p.18) · the when key "When I
+was watching a television, someone knocked at the door"
+(printed p.27) · the will dialogues "The cork won't come out"
+(printed p.34) · "I will go to vangvieng" in the model
+dialogue (printed p.35) · the Complete key "Vieng is hopping
+to visit" (printed p.39) · the contractions "Excercise" with
+"She's been here for two weeks" (printed p.43) · the mind-map
+key "Centre: Vientiane Capital, Vientiane Province,
+Bolikhamxay, Khammouane, Savannakhet, Xaysomboun" (printed
+p.48) · the Champasack script "On the twenty-ninth of
+February" (printed p.58) · the passive Rearrange key "The
+soil is weeded and hoed" (printed p.65) · the vet script "How
+long have you been raising cattle?" (printed p.67) · the
+paper script "The first paper was made in China" (printed
+p.75) · the revision letter "(Mr) Vilaysack Inkhalavong" and
+"Mrs Clak" (printed p.79) · the present perfect passive key
+"wood has been used for making the pulp" (printed p.81) ·
+the seasons key "Apirl… westtest" (printed p.55) · the ASEAN
+key "bompetitive" (printed p.108) · the passive key "The ITEC
+Mall has just been built" (printed p.109) · the IUCN script
+"Critically Endangered (CR)" (printed p.117) · "ivory
+duration" in the For/Against answers (printed p.121) · the
+Unit 10 key "(F) (Bounmee hasn't got, Noy has)" (printed
+p.130) · the filled vacancy form "Thongdy Luanglath" and
+"CLOSING DATE 25/5/2009" (printed p.135) · "interviwees" and
+"impess" (printed p.140) · the since/for key "I have been
+studying English for four years" (printed p.148) · "fours
+species of leaf monkey" in the Wildlife script (printed
+p.149) · "become became became" (printed p.151) ·
+Bibliography "Understanding by Design … 2003" (printed
+p.154) — 37 anchors, all on their pages. Negative controls
+run over the whole text layer: "perfect continuous" 0 hits ·
+"essay" 0 hits · "reported speech" 0 hits · "second
+conditional" 0 hits · "third conditional" 0 hits · "would
+have" 0 hits · "ISBN" 0 hits.
+
+**Course filing state:** FILED — this section stands in
+`english/books/laos.md`. With it, the Laos run is read whole —
+primary Books 1–3 and secondary Books One–Seven, student
+books and teacher guides both — apart from the superseded
+older Grade 3 pair, which stands unread under the edition
+rule. The Laos queue row can close when this is filed.
