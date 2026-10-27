@@ -76,9 +76,9 @@ its own subtitle folder with its own lesson + questions):
   telling-the-time (built 2026-10-27 — Level 2 Unit 4
   COMPLETE; **Level 2 COMPLETE**)
 - Paragraph → the-paragraph · first-then-finally ·
-  finding-the-idea-of-a-text · words-you-dont-know
-  (built 2026-10-27 — Level 4 Unit 1 COMPLETE; Unit 2
-  under way)
+  finding-the-idea-of-a-text · words-you-dont-know ·
+  answering-from-the-text (built 2026-10-27 — Level 4
+  Units 1–2 COMPLETE)
 Conversation → hello-and-your-name (from Egypt, Primary 1) is kept, and
 filed under its title; it is NOT Lesson 1 of the path.
 
