@@ -2793,10 +2793,12 @@ predecessor book (p.147) · no ISBN printed anywhere (cover,
 introduction and bibliography checked) — 42 anchors, all on
 their pages.
 
-**Course filing state:** FILED — this section stands in
-`english/books/laos.md`; its basics merge into the built
-lessons next (Telling the Time, Days and Months, Present
-Actions, Past Actions, The Paragraph). The Grade 6 teacher
-guide (143 pp in the library record) is the natural next read,
-on the primary-series
+**Course filing state:** MERGED 2026-10-27 — Laos Grade 6 now
+stands in Telling the Time (the clock completed: quarter/half/
+to), Days and Months (Sunday-first here; the thirty-days rhyme
+and leap year), Present Actions (5 countries; the -s three
+sounds), Past Actions (the -ed three sounds), and The
+Paragraph (Laos names the paragraph outright). The Grade 6
+teacher guide (143 pp in the library record) is the natural
+next read, on the primary-series
 pattern; the Laos run then continues at Grade 7.

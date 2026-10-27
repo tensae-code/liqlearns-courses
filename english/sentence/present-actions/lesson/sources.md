@@ -1,6 +1,6 @@
 # Sources — Present actions
 
-countries: Egypt, Ghana, Libya, Mongolia
+countries: Egypt, Ghana, Libya, Mongolia, Laos
 
 Every part traces to its book and page.
 
@@ -29,10 +29,20 @@ CHECK PASSED 2026-10-26).
 | Present simple — form including to be; use: facts and habits. Present continuous — use: happening now/around now, changing situations, planned future; and the warning: "You can't use the present continuous with some verbs: be, like, know, see, understand" | Libya, grammar reference, Unit 1 (present simple p.9; present continuous p.10) |
 | Action Words: the SIMPLE PRESENT for habitual actions, simple truths ("Lemons are sour"), interest, feelings and opinions | Ghana, NaCCA B1–B3 curriculum, Basic 2, Strand 5 |
 
-**Acceptance count: taught in 4 countries (Egypt, Ghana,
-Libya, Mongolia).** Egypt boxes the every-day face inside
+**Acceptance count: taught in 5 countries (Egypt, Ghana,
+Libya, Mongolia, Laos).** Egypt boxes the every-day face inside
 routines; Mongolia tables the right-now face and its
 questions; Libya's reference names both faces' uses and
 posts the refusal list; Ghana names the simple present's
 jobs. Other finished countries join as their books are read
 (see READING-QUEUE.md).
+
+**Laos Grade 6 added 2026-10-27** — *English for Secondary
+Schools, Book One* (MoES/RIES, 2010; full read in
+english/books/laos.md). Laos's secondary book is the first Laos
+book to name and table the tenses: **present simple** with its
+do/does questions (pp.69, 73), **present continuous** for right
+now (p.127), **frequency adverbs** placed in the sentence and
+asked about with How often…? (pp.94–95) — and the sound of the
+third-person ending itself, **-s said three ways: /s/ /z/
+/iz/** (p.77).

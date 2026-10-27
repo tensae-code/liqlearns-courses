@@ -43,3 +43,12 @@ thirty."** (p.20) — said plainly, with no "quarter" or "half"
 word at all. The time question is personal: **"What time do
 you…? — At six o'clock"**, worked over the day's own jobs —
 feeding chickens, watering the garden (p.24).
+
+**Laos Grade 6 added 2026-10-27** — *English for Secondary
+Schools, Book One* (MoES/RIES, 2010; full read in
+english/books/laos.md). The secondary book completes the clock
+the primary book left plain: **quarter past, half past, quarter
+to, and minutes past** all taught (pp.83–88), with **at / on /
+in** for time pinned beside them (p.101). So Laos's own two
+books split the telling: primary says the hour and two plain
+times; secondary adds the quarter-and-half system.

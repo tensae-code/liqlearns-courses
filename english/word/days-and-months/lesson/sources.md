@@ -55,3 +55,12 @@ It's the 1st of January"** (p.32). The book's own slip is filed
 with it: it prints a "31st September" (p.44), a date that cannot
 exist — the learner is shown the months' real lengths against
 it.
+
+**Laos Grade 6 added 2026-10-27** — *English for Secondary
+Schools, Book One* (MoES/RIES, 2010; full read in
+english/books/laos.md). Secondary Laos prints its days
+**Sunday-first** (p.93) — its own primary book printed Monday
+first, so Laos itself carries both orders, and the course
+shows both. The months come with the **thirty-days rhyme and
+the leap year** (p.96), and the date is spoken in full: "the
+first of January" (p.99).

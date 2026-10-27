@@ -1,6 +1,6 @@
 # Sources — The paragraph
 
-countries: Bangladesh, Egypt, Ghana
+countries: Bangladesh, Egypt, Ghana, Laos
 
 Every part traces to its book and page.
 
@@ -25,9 +25,16 @@ in english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-25).
 | A model paragraph set before the learner, then "WRITE A PARAGRAPH about your favourite…" — model first, own paragraph after | Bangladesh, English for Today Class 5 (as filed) |
 | Examination paragraphs of set length in the senior years (a paragraph of 150–180 words as a writing task) — the paragraph as the judged unit of writing | Egypt, Secondary writing tasks (as filed in the book map) |
 
-**Acceptance count: taught in 3 countries (Bangladesh,
-Egypt, Ghana).** Ghana names the process and prints the
+**Acceptance count: taught in 4 countries (Bangladesh,
+Egypt, Ghana, Laos).** Ghana names the process and prints the
 unity test as a revise question; Bangladesh guides the
 first paragraphs and models them; Egypt examines by the
 paragraph. Other finished countries join as their books are
 read (see READING-QUEUE.md).
+
+**Laos Grade 6 added 2026-10-27** — *English for Secondary
+Schools, Book One* (MoES/RIES, 2010; full read in
+english/books/laos.md). Laos names the paragraph outright —
+the first Laos book to do so — in the describing-people unit:
+**"Write a paragraph about one of your family member,"** with
+a model paragraph printed to write from (p.117).

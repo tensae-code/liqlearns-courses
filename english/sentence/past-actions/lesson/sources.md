@@ -1,6 +1,6 @@
 # Sources — Past actions
 
-countries: Bolivia, Ghana, Mongolia
+countries: Bolivia, Ghana, Mongolia, Laos
 
 Every part traces to its book and page.
 
@@ -25,9 +25,17 @@ CITATION CHECK PASSED 2026-10-26).
 | was/were paradigm; "1.3 yes/no questions" over the past of be | Bolivia compendium, the was/were grammar section (as filed) |
 | The SIMPLE PAST opened in the strand (with the past continuous beside it: "use simple past and the past continuous forms…") — the past as the tense of narratives and recounts | Ghana, NaCCA B4–B6 curriculum, Strand 5 (as filed) |
 
-**Acceptance count: taught in 3 countries (Bolivia, Ghana,
-Mongolia).** Mongolia boxes the -ed frame and drills the
+**Acceptance count: taught in 4 countries (Bolivia, Ghana,
+Mongolia, Laos).** Mongolia boxes the -ed frame and drills the
 movers by name; Bolivia states the whole paradigm including
 the Did/didn't law; Ghana seats the simple past where
 stories live. Other finished countries join as their books
 are read (see READING-QUEUE.md).
+
+**Laos Grade 6 added 2026-10-27** — *English for Secondary
+Schools, Book One* (MoES/RIES, 2010; full read in
+english/books/laos.md). The past arrives as a system: **past
+simple with a regular/irregular table** (pp.133, 136), Did
+you…? questions (pp.132–143) — and the pronunciation of the
+ending itself, **-ed said three ways: /t/ /d/ /id/** (p.138),
+the mirror of the -s system in Present Actions.
