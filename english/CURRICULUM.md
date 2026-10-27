@@ -94,7 +94,8 @@ talks about now, before, and later.*
   **UNIT 2 COMPLETE 2026-10-27** (asking-yes-no-questions,
   asking-with-question-words)
 - **Unit 3 — Now, Before, Later**: present actions ✅ · past actions ✅ ·
-  going to — from Libya's middle-grade spine
+  going to ✅ **UNIT 3 COMPLETE 2026-10-27** (present-actions,
+  past-actions, going-to-later) — from Libya's middle-grade spine
 - **Unit 4 — Joining and Describing**: and/but · describing words in a
   sentence · mine and yours
 
