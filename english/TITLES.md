@@ -81,8 +81,10 @@ its own subtitle folder with its own lesson + questions):
   Units 1–2 COMPLETE)
 - Essay → the-essay · opening-and-closing (built
   2026-10-27 — Level 4 Unit 3 COMPLETE)
-- Story → the-story · telling-a-story-back (built
-  2026-10-27 — Level 4 Unit 4 under way)
+- Story → the-story · telling-a-story-back ·
+  the-big-reading (built 2026-10-27 — Level 4 Unit 4
+  COMPLETE; **LEVEL 4 COMPLETE; the Levels 1–4 English
+  plan is built whole**)
 Conversation → hello-and-your-name (from Egypt, Primary 1) is kept, and
 filed under its title; it is NOT Lesson 1 of the path.
 

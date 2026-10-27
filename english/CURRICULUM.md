@@ -118,8 +118,13 @@ first essay, and retells a story.*
   opening and closing ✅ **UNIT 3 COMPLETE 2026-10-27**
   (the-essay, opening-and-closing)
 - **Unit 4 — Stories**: people, a place, things happening ✅ · telling a
-  story back ✅ · the big reading (the graded readers bound into Libya's
-  Grade 11 books mark where this road leads)
+  story back ✅ · the big reading ✅ **UNIT 4 COMPLETE 2026-10-27**
+  (the-story, telling-a-story-back, the-big-reading — the graded
+  readers bound into Libya's Grade 11 books marked where this road
+  led, and the last lesson stands on them)
+
+**LEVEL 4 COMPLETE 2026-10-27: all four units built, 10 lessons.
+The English course plan of Levels 1–4 is built whole (48 lessons).**
 
 ## After Level 4
 The ladder keeps climbing — deeper sentence work (Libya G8–G10's spine:
