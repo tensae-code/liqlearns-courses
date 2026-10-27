@@ -110,7 +110,7 @@ first essay, and retells a story.*
 - **Unit 1 — The Paragraph**: sentences about one idea, together ✅ ·
   first, then, finally ✅ **UNIT 1 COMPLETE 2026-10-27**
   (the-paragraph, first-then-finally)
-- **Unit 2 — Reading Whole Texts**: finding the idea of a text ·
+- **Unit 2 — Reading Whole Texts**: finding the idea of a text ✅ ·
   words you don't know — use the dictionary · answering from the text
 - **Unit 3 — The Essay**: paragraphs about one thing, in order ·
   opening and closing
