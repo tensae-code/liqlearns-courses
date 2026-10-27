@@ -1,6 +1,6 @@
 # Sources — The present perfect
 
-countries: Egypt, Libya
+countries: Egypt, Libya, Laos
 
 Every part traces to its book and page.
 
@@ -33,8 +33,8 @@ still owed).
 | The Grammar Reference entry: present perfect simple — uses (effect on the present; for/since; recently); exact past time takes the past simple instead; ever/never, yet, already positions | Libya, Grade 9 Course Book, Grammar Reference, Unit 3 (book pp.96–105, as filed in libya.md) |
 | The full Present Perfect section: form has/have + past participle; uses (actions started in the past and continuing now; things happened recently with results we can see today); the structure table (affirmative / negative / question); the Tip (has with he/she/it, have with I/you/we/they); regular participles add -ed, irregulars change form (build→built, go→gone, write→written) | Egypt, Primary 6 Term 2, Unit 3, p.47 |
 
-**Acceptance count: taught in 2 countries (Egypt,
-Libya).** Libya introduces the tense at Grade 8 with the
+**Acceptance count: taught in 3 countries (Egypt,
+Libya, Laos).** Libya introduces the tense at Grade 8 with the
 song and the grammar box, guards the no-exact-time rule in
 its Teacher's Book, sets the ever/never/yet/already box at
 Grade 9, and states the whole entry again in its Grammar
@@ -42,3 +42,15 @@ Reference. Egypt teaches the same tense at Primary 6 with
 the full structure table and the two uses (still going;
 result we can see). Other finished countries join as their
 books are read (see READING-QUEUE.md).
+
+**Laos Grade 8 added 2026-10-27** — *English for Secondary
+Schools, Book Three* (MoES/RIES, 2012; full read in
+english/books/laos.md). Laos gives the tense a whole unit
+(Unit 4): **just** first (pp.38–39), the full regular and
+irregular **participle tables** with **gone to / been to**
+(p.42), **for** and **How long have you…?** (pp.43–45),
+**since** with the series' first real definition of the tense
+(pp.46–47), and **ever / never** returning later at the
+doctor's (pp.136–140). The honest limit, filed with it: Laos
+teaches this tense whole but **never teaches the present
+perfect continuous** — that lesson draws nothing from Laos.

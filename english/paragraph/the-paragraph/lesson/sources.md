@@ -38,3 +38,11 @@ english/books/laos.md). Laos names the paragraph outright —
 the first Laos book to do so — in the describing-people unit:
 **"Write a paragraph about one of your family member,"** with
 a model paragraph printed to write from (p.117).
+
+**Laos Grade 8 added 2026-10-27** — *English for Secondary
+Schools, Book Three* (MoES/RIES, 2012; full read in
+english/books/laos.md). Writing grows a plan: a
+**three-paragraph place description written under a printed
+plan** (p.87), two-paragraph comparisons (p.78), and a 2–3
+paragraph festival account written from sentence starters
+(p.97).

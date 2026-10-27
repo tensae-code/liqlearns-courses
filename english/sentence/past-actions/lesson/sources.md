@@ -39,3 +39,11 @@ simple with a regular/irregular table** (pp.133, 136), Did
 you…? questions (pp.132–143) — and the pronunciation of the
 ending itself, **-ed said three ways: /t/ /d/ /id/** (p.138),
 the mirror of the -s system in Present Actions.
+
+**Laos Grade 8 added 2026-10-27** — *English for Secondary
+Schools, Book Three* (MoES/RIES, 2012; full read in
+english/books/laos.md). The past grows two more shapes:
+**used to** as a full system (pp.34–37) and the **past
+continuous with while** — what was happening when the past
+simple thing struck (pp.61–73) — plus the **-ed spelling
+rules** tabled (p.28).

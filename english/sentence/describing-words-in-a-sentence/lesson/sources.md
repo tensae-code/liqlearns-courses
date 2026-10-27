@@ -53,3 +53,10 @@ fatter, heavy → heavier), **more / the most** for long words,
 and the irregular set good/better/best, bad/worse/worst,
 much/more/most (Unit 9, pp.116–123), worked over people, class
 surveys, and two cities compared in a text (pp.124–126).
+
+**Laos Grade 8 added 2026-10-27** — *English for Secondary
+Schools, Book Three* (MoES/RIES, 2012; full read in
+english/books/laos.md). The comparing system returns over
+real data: an **eight-country data table** — size, population,
+distances — compared in sentences (pp.74–77) and finished as a
+two-paragraph written comparison (p.78).
