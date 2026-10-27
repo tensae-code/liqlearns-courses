@@ -68,8 +68,8 @@ its own subtitle folder with its own lesson + questions):
   Level 2 Unit 3 COMPLETE)
 - Sentence → building-a-sentence · capital-and-full-stop ·
   asking-yes-no-questions · asking-with-question-words ·
-  present-actions (built 2026-10-27 — Level 3 Units 1–2
-  COMPLETE; Unit 3 opens here)
+  present-actions · past-actions (built 2026-10-27 — Level 3
+  Units 1–2 COMPLETE; Unit 3 under way)
 - Word (numbers & time) → numbers · days-and-months ·
   telling-the-time (built 2026-10-27 — Level 2 Unit 4
   COMPLETE; **Level 2 COMPLETE**)
