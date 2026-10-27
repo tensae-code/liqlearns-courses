@@ -1,6 +1,6 @@
 # Sources — Nouns
 
-countries: Bangladesh, Egypt, Ghana, Libya
+countries: Bangladesh, Egypt, Ghana, Libya, Laos
 
 Every part traces to its book and page.
 
@@ -42,8 +42,18 @@ english/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 | Circle the noun; sort nouns into person / place / thing; sort nouns against verbs — the term's own review work, the model for this lesson's questions | Egypt, Primary 2 Term 2, Final Review, pp.106–108 |
 | The deeper kinds waiting past this lesson's top level — common, proper, collective, abstract nouns | Ghana, NaCCA English Curriculum B4–6, Grammar Usage strand (recorded in CURRICULUM stocking notes; proper names are touched in this lesson only as special names with capitals) |
 
-**Acceptance count: taught in 4 countries (Bangladesh, Egypt,
-Ghana, Libya).** Egypt and Bangladesh carry the definition itself,
+**Acceptance count: taught in 5 countries (Bangladesh, Egypt,
+Ghana, Libya, Laos).** Egypt and Bangladesh carry the definition itself,
 each in the three-sort form; Libya carries it twice more in its
 own shorter words; Ghana carries the sentence test. Other finished
 countries join as their books are read (see READING-QUEUE.md).
+
+**Laos Grade 7 added 2026-10-27** — *English for Secondary
+Schools, Book Two* (MoES/RIES; full read in
+english/books/laos.md). Laos writes the noun rules as full
+prose: **countable and uncountable** with the a/an ban on
+uncountables (p.100), a twenty-four-word plural list carrying
+**-s / -es / -ves / -ies** and the irregular set — child,
+woman, man, tooth, foot, mouse, fish (p.101) — and **some /
+any** taught with a printed wrong example marked × (Unit 8,
+pp.99–108).

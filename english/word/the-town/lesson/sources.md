@@ -1,6 +1,6 @@
 # Sources — The town
 
-countries: Bangladesh, Egypt, Mongolia
+countries: Bangladesh, Egypt, Mongolia, Laos
 
 Every part traces to its book and page.
 
@@ -32,10 +32,18 @@ CITATION CHECK PASSED 2026-10-26).
 | City life as a whole lesson — Oyshi and her family live in a city; school with her father, home with her mother — set against Osman's village life in the lesson before (pp.72–75) | Bangladesh, English for Today Class 3, "Oyshi's city life," pp.76–80 |
 | A whole later unit on the same world: "Around Town" (Unit 5) with "Going Places" after it (Unit 6) | Mongolia, English VIII, contents p.4: Unit 5 opens at printed p.64, Unit 6 at p.78 |
 
-**Acceptance count: taught in 3 countries (Bangladesh, Egypt,
-Mongolia).** Egypt carries the first set twice (Primary 1's
+**Acceptance count: taught in 4 countries (Bangladesh, Egypt,
+Mongolia, Laos).** Egypt carries the first set twice (Primary 1's
 eight words with their dialog; Primary 2's city set);
 Bangladesh carries city life as a topic, against village life;
 Mongolia carries a whole senior unit on the same world. Other
 finished countries join as their books are read (see
 READING-QUEUE.md).
+
+**Laos Grade 7 added 2026-10-27** — *English for Secondary
+Schools, Book Two* (MoES/RIES; full read in
+english/books/laos.md). Laos teaches directions as a skill of
+their own: **turn left / right, go straight on, take the
+second turn, across / along / between / next to / opposite**
+(Unit 5, pp.58–61), a lost-tourist dialogue, and a real map of
+Vientiane's landmarks to direct over (pp.66–70).

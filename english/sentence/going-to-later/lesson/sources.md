@@ -1,6 +1,6 @@
 # Sources — Going to: later
 
-countries: Bolivia, Ghana, Mongolia
+countries: Bolivia, Ghana, Mongolia, Laos
 
 Every part traces to its book and page.
 
@@ -26,9 +26,19 @@ CHECK PASSED 2026-10-26).
 | SCHEDULED FUTURE actions in the simple present ("The bus leaves early tomorrow") and future possibilities | Ghana, NaCCA JHS curriculum, Strand 5 (as filed) |
 | Future-form questions worked over real school futures ("Will you come to school…") in the JHS speaking strands | Ghana, NaCCA JHS curriculum (as filed) |
 
-**Acceptance count: taught in 3 countries (Bolivia, Ghana,
-Mongolia).** Bolivia tables going to whole and names its
+**Acceptance count: taught in 4 countries (Bolivia, Ghana,
+Mongolia, Laos).** Bolivia tables going to whole and names its
 jobs; Mongolia boxes the will neighbour; Ghana keeps the
 scheduled present as the third future. Other finished
 countries join as their books are read (see
 READING-QUEUE.md).
+
+**Laos Grade 7 added 2026-10-27** — *English for Secondary
+Schools, Book Two* (MoES/RIES; full read in
+english/books/laos.md). Laos's first going-to system is also
+its fullest: the complete **be going to** table with short
+answers, plans spoken off a work plan, a weekend and a holiday
+(Unit 2, pp.14–26). One honesty note, filed with it: **will**
+appears in this book only in untabled use — offers and one
+prediction model — and is never taught as a system; the course
+does not stock a Laos will from it.

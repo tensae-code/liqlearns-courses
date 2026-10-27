@@ -44,3 +44,12 @@ It's red. / What is it? — It's a red cross"** (p.117), the set
 worked over six shapes (p.118: a purple triangle, a blue
 rectangle, a yellow circle, a white cube, a red cylinder, an
 orange cross — a/an chosen by the colour's first sound).
+
+**Laos Grade 7 added 2026-10-27** — *English for Secondary
+Schools, Book Two* (MoES/RIES; full read in
+english/books/laos.md). Comparing arrives as a full system:
+**-er / -est**, the spelling rules (hot → hotter, fat →
+fatter, heavy → heavier), **more / the most** for long words,
+and the irregular set good/better/best, bad/worse/worst,
+much/more/most (Unit 9, pp.116–123), worked over people, class
+surveys, and two cities compared in a text (pp.124–126).

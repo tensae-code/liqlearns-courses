@@ -1,6 +1,6 @@
 # Sources — Mine and yours
 
-countries: Egypt, Mongolia
+countries: Egypt, Mongolia, Laos
 
 Every part traces to its book and page.
 
@@ -20,9 +20,18 @@ in english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-25).
 | POSSESSIVE ADJECTIVES/PRONOUNS box: "This is Nina's hat. It's her hat. The hat is hers." — the lesson's ladder, in the book's own three sentences — and the "Whose is it?" game ("Is it yours, Naraa?") | Mongolia, English VI, Unit 4, exercise 9a and the game, p.45 |
 | The my/your owning sentences of the first school years ("my house," "your name," the My Family dialogs) — the partner forms in their first home | Egypt, Primary 1 Term 2 Unit 4 and Primary 2 family work (as filed in the book map) |
 
-**Acceptance count: taught in 2 countries (Egypt, Mongolia).**
+**Acceptance count: taught in 3 countries (Egypt, Mongolia, Laos).**
 Mongolia's "That's Mine" unit carries the whole lesson —
 the 's box, the whose matching, the three-rung box, the
 game; Egypt's youngest books hold the partner forms from
 the first terms. Other finished countries join as their
 books are read (see READING-QUEUE.md).
+
+**Laos Grade 7 added 2026-10-27** — *English for Secondary
+Schools, Book Two* (MoES/RIES; full read in
+english/books/laos.md). A whole unit on whose things are:
+**Whose…?** questioning throughout (Unit 4, pp.40–52), the
+step from "belongs to me" to the word itself — **belongs to me
+→ mine** (p.46) — the possessive **'s / s' rules** with
+irregular plurals (p.47), and a pronoun → possessive adjective
+→ possessive pronoun table to complete (p.47).
