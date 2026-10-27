@@ -1,8 +1,8 @@
 # Lesson plan — Blends
 
 **Course:** English · **Title:** Phonics · **Lesson:** Blends
-**Place in the curriculum:** Level 1, Unit 3 "First Words" —
-the first lesson of the unit (CURRICULUM.md).
+**Place in the curriculum:** Level 4, "First Words" —
+the first lesson of the level (CURRICULUM.md).
 **The one thing this lesson teaches:** two letters at the start of a
 word where you hear BOTH sounds, sliding together — sk in skip,
 cl in clock.

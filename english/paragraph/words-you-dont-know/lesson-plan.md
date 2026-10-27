@@ -1,8 +1,7 @@
 # Lesson plan — Words you don't know
 
 **Course:** English · **Title:** Paragraph · **Lesson:** Words you don't know
-**Place in the curriculum:** Level 4, Unit 2 "Reading Whole
-Texts" — the second lesson of the unit (CURRICULUM.md).
+**Place in the curriculum:** Level 15, "Reading Whole Texts" — the second lesson of the level (CURRICULUM.md).
 **The one thing this lesson teaches:** what a reader DOES
 with a word they don't know, in order — read on, infer the
 meaning from the context, break the word into parts you
@@ -10,7 +9,7 @@ know, and only then check the dictionary — testing every
 guess by putting it back into the sentence.
 **This lesson's own level:** it stands on Using the
 Dictionary (the check step is that lesson's whole skill,
-Level 2) and Finding the idea of a text (a text can be
+Level 8) and Finding the idea of a text (a text can be
 understood whole even with a few words missing). It turns
 the dictionary from a wall into a court of appeal.
 
@@ -113,7 +112,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - One meaning fits all sentences → the 'dry' law rides
   here: dictionaries list meanings; the SENTENCE chooses.
   Swap-test kills the wrong senses kindly.
-- Next, and last in this unit: Answering from the text.
+- Next, and last in this level: Answering from the text.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

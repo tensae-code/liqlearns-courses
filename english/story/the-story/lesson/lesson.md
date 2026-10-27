@@ -40,7 +40,7 @@ things:
 **The coat: the past.** Ghana's Paragraph Development
 names the four modes of writing side by side — expository,
 **narrative**, description, argument — and narrative is the
-story's mode. Its tense-home is the past, Level 3's own law
+story's mode. Its tense-home is the past, Level 12's own law
 ("a recount wears the past") at story scale: happened,
 finished, tellable. A live teller may flare into the
 present for drama — the books' stories, and this course's

@@ -1,12 +1,12 @@
 # Lesson plan — Building a sentence
 
 **Course:** English · **Title:** Sentence · **Lesson:** Building a sentence
-**Place in the curriculum:** Level 3, Unit 1 "Building a
-Sentence" — the first lesson of Level 3 (CURRICULUM.md).
+**Place in the curriculum:** Level 10, "Building a Sentence" — the first lesson of the level (CURRICULUM.md).
 **The one thing this lesson teaches:** what a sentence is —
 words in order that make a whole thought, built as WHO +
 DOES WHAT: a subject, a verb, and the rest that completes it.
-**This lesson's own level:** it stands on all of Level 2 —
+**This lesson's own level:** it stands on all the word
+levels before it —
 the word kinds are its bricks (the WHO is a noun or pronoun;
 the DOES WHAT is a verb) — and it is the first lesson of the
 Sentence title. It needs nothing else.
@@ -23,12 +23,12 @@ or real art, with its source). GIFs come first where a thing must be
 shown changing — a GIF here is 1–2 seconds.
 
 ## Before this lesson
-- Recommended first: the whole Word Kinds unit (nouns,
+- Recommended first: the whole Word Kinds level (nouns,
   verbs, pronouns above all). Recommended, never forced.
 - The sentence's dress — capital letter first, full stop
-  last — is the NEXT lesson in this unit; here it appears
+  last — is the NEXT lesson in this level; here it appears
   only as the frame every example wears. Tenses (now, before,
-  later) are Unit 3 of this level; questions are Unit 2. This
+  later) are Level 12; questions are Level 11. This
   lesson is the plain statement, built right.
 
 ## What the learner can do when it ends
@@ -111,7 +111,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Word order flipped from their first language → order IS
   meaning in English ("Dog bites man" ≠ "Man bites dog");
   Mongolia's checks drill word order for exactly this.
-- This unit's next lesson: Capital letter and full stop —
+- This level's next lesson: Capital letter and full stop —
   the sentence's dress.
 
 ## Teacher note

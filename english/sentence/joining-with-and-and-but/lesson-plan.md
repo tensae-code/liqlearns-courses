@@ -1,8 +1,7 @@
 # Lesson plan — Joining with and and but
 
 **Course:** English · **Title:** Sentence · **Lesson:** Joining with and and but
-**Place in the curriculum:** Level 3, Unit 4 "Joining and
-Describing" — the first lesson of the unit (CURRICULUM.md).
+**Place in the curriculum:** Level 13, "Joining and Describing" — the first lesson of the level (CURRICULUM.md).
 **The one thing this lesson teaches:** joining words and
 whole sentences with AND (it adds — same direction) and BUT
 (it turns — a contrast), and letting a shared who ride once
@@ -109,7 +108,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
   pair is the lesson's measure; a page of single sentences
   is better writing than one endless chain. Level 4 grows
   the longer weaves.
-- Next in this unit: Describing words in a sentence.
+- Next in this level: Describing words in a sentence.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

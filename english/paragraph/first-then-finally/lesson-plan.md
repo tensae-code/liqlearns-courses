@@ -1,9 +1,9 @@
 # Lesson plan — First, then, finally
 
 **Course:** English · **Title:** Paragraph · **Lesson:** First, then, finally
-**Place in the curriculum:** Level 4, Unit 1 "The Paragraph"
-— the second lesson of the unit (CURRICULUM.md). Building
-it completes Unit 1.
+**Place in the curriculum:** Level 14, "The Paragraph"
+— the second lesson of the level (CURRICULUM.md). Building
+it completes Level 14.
 **The one thing this lesson teaches:** ordering the sentences
 of a paragraph in TIME with the sequence words — first,
 then, next, after that, finally — so a process can be
@@ -28,7 +28,7 @@ shown changing — a GIF here is 1–2 seconds.
 ## Before this lesson
 - Recommended first: The paragraph; Past actions.
   Recommended, never forced.
-- The words also open stories (Unit 4 spends them there);
+- The words also open stories (Level 17 spends them there);
   this lesson keeps them inside the paragraph, on processes
   and recounts — their first home in every book here.
 
@@ -112,7 +112,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
   "First, the roof…") → honestly: place-order exists in
   description too (top to bottom) — named here as a cousin,
   and the time family stays this lesson's plant.
-- This lesson completes Unit 1. Next: Unit 2 — Reading
+- This lesson completes Level 14. Next: Level 15 — Reading
   Whole Texts.
 
 ## Teacher note

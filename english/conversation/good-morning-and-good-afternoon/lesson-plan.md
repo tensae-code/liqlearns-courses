@@ -2,7 +2,7 @@
 
 **Course:** English · **Title:** Conversation · **Lesson:** Good morning
 and good afternoon
-**Place in the curriculum:** Level 1, Unit 4 "Conversation"
+**Place in the curriculum:** Level 5, "Conversation"
 (CURRICULUM.md).
 **The one thing this lesson teaches:** the greeting changes with the
 time of day — "Good morning" before midday, "Good afternoon" after.

@@ -2,9 +2,9 @@
 
 **Course:** Pencil and Lines · **Title:** The hand and the line ·
 **Lesson:** Drawing lines
-**Place in the curriculum:** Before Level 1 of every language course —
-the second lesson of the prerequisite course (English CURRICULUM.md,
-"Before Level 1").
+**Place in the curriculum:** Level 1 of the English path —
+the second lesson of that level and of the shared prerequisite
+course (English CURRICULUM.md, Level 1).
 **The one thing this lesson teaches:** the two roads every letter is
 made of — the wavy line (curved moves, like hills) and the zigzag
 line (straight moves with sharp turns, like mountains).

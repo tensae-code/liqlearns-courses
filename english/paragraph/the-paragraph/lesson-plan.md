@@ -1,8 +1,8 @@
 # Lesson plan — The paragraph
 
 **Course:** English · **Title:** Paragraph · **Lesson:** The paragraph
-**Place in the curriculum:** Level 4, Unit 1 "The Paragraph"
-— the first lesson of the unit and of Level 4
+**Place in the curriculum:** Level 14, "The Paragraph"
+— the first lesson of the level and of Level 4
 (CURRICULUM.md).
 **The one thing this lesson teaches:** what a paragraph IS —
 a group of sentences that all serve ONE idea, standing
@@ -114,7 +114,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
   wrong nor rare in real books, but the learner's control
   grows by writing it FIRST as a promise, then keeping the
   promise. Name it as a training wheel, honestly.
-- Next in this unit: First, then, finally — the order of
+- Next in this level: First, then, finally — the order of
   the sentences inside.
 
 ## Teacher note

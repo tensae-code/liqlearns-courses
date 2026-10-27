@@ -1,8 +1,7 @@
 # Lesson plan — Food and fruit
 
 **Course:** English · **Title:** Word · **Lesson:** Food and fruit
-**Place in the curriculum:** Level 2, Unit 2 "Words for the
-World" — the third lesson of the unit (CURRICULUM.md), after
+**Place in the curriculum:** Level 7, "Words for the World" — the third lesson of the level (CURRICULUM.md), after
 The home and The town.
 **The one thing this lesson teaches:** the words for food —
 the three meals, the foods on the plate, and the fruits — with
@@ -109,7 +108,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Cannot name a food from home → it may not be in the books'
   sets; name the nearest one that is (the sets grow as more
   countries' books are read — that is the course's own rule).
-- This lesson's next door: Animals (same unit).
+- This lesson's next door: Animals (same level).
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

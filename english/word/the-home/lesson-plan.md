@@ -1,8 +1,7 @@
 # Lesson plan — The home
 
 **Course:** English · **Title:** Word · **Lesson:** The home
-**Place in the curriculum:** Level 2, Unit 2 "Words for the
-World" — the first lesson of the unit (CURRICULUM.md).
+**Place in the curriculum:** Level 7, "Words for the World" — the first lesson of the level (CURRICULUM.md).
 **The one thing this lesson teaches:** the words for the rooms
 of a home and the things in them — each room with the name of
 what you do there.
@@ -22,7 +21,7 @@ or real art, with its source). GIFs come first where a thing must be
 shown changing — a GIF here is 1–2 seconds per room.
 
 ## Before this lesson
-- Recommended first: Nouns (Word Kinds, Unit 1). Recommended,
+- Recommended first: Nouns (Level 6, Word Kinds). Recommended,
   never forced.
 - Where things are — in, on, under — is NOT this lesson; it is
   a different thing (position words), taught by the same books
@@ -105,7 +104,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
   sitting room; both names are in the books, and either is a
   right answer on this course.
 - This lesson's next door: The town — the places outside the
-  home (same unit). Position words (in, on, under) wait for
+  home (same level). Position words (in, on, under) wait for
   their own lesson.
 
 ## Teacher note

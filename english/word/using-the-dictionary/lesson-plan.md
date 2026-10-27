@@ -1,16 +1,17 @@
 # Lesson plan — Using the dictionary
 
 **Course:** English · **Title:** Word · **Lesson:** Using the dictionary
-**Place in the curriculum:** Level 2, Unit 3 "Using the
-Dictionary" — the unit is this one lesson (CURRICULUM.md). It
-closes Level 2's middle: the kinds of words, the words for
-the world, and now the tool that finds any word.
+**Place in the curriculum:** Level 8, "Using the Dictionary" — the level is this one lesson (CURRICULUM.md). It comes
+after the kinds of words and the words for the world, and
+gives the tool that finds any word. The platform's own
+dictionary is a future update, filed in DICTIONARY.md —
+this lesson teaches the skill it will run on.
 **The one thing this lesson teaches:** how a dictionary is
 built — words stand in letter order — and how to use that
 order to find a word and read what its entry gives.
 **This lesson's own level:** it stands on the Alphabet lesson
 (letter order IS the alphabet, used as a tool) and on the
-Word Kinds unit (an entry's "word class" is the kinds the
+Word Kinds level (an entry's "word class" is the kinds the
 learner already knows: noun, verb, adjective…). It needs
 nothing else.
 
@@ -26,7 +27,7 @@ or real art, with its source). GIFs come first where a thing must be
 shown changing — a GIF here is 1–2 seconds.
 
 ## Before this lesson
-- Recommended first: the Alphabet and the Word Kinds unit.
+- Recommended first: the Alphabet and the Word Kinds level.
   Recommended, never forced.
 - A contents page — the OTHER finding tool, Bangladesh's
   same unit Lesson 1 — is a different thing and keeps its
@@ -110,8 +111,8 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Copies a meaning that does not fit their sentence → 'dry'
   is the standing warning: read ALL the meanings, then pick
   the one that fits the sentence in front of you.
-- This lesson completes Unit 3. Next: Unit 4, Numbers, Days,
-  and Time — the last of Level 2.
+- This lesson completes Level 8. Next: Level 9, Numbers,
+  Days, and Time.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

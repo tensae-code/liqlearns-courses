@@ -81,7 +81,7 @@ that works.
    questions first (write four), answers after — the answers
    ARE the paragraph; give it a naming sentence at its head.
 2. Write one on "My School" the same way.
-3. Take any page you wrote during Level 3, hunt it for a
+3. Take any page you wrote during the sentence levels, hunt it for a
    stranger sentence, and give the stranger its own small
    paragraph.
 4. Count the ideas in one page of any book you own — mark

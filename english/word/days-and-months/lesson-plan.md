@@ -1,8 +1,7 @@
 # Lesson plan — Days and months
 
 **Course:** English · **Title:** Word · **Lesson:** Days and months
-**Place in the curriculum:** Level 2, Unit 4 "Numbers, Days,
-and Time" — the second lesson of the unit (CURRICULUM.md),
+**Place in the curriculum:** Level 9, "Numbers, Days, and Time" — the second lesson of the level (CURRICULUM.md),
 after Numbers.
 **The one thing this lesson teaches:** the seven days and the
 twelve months — their names, their order, and before/after —
@@ -113,7 +112,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
   the same everywhere; the starting card is each country's
   own. Their own country's calendar decides their line.
 - This lesson's next door: Telling the time — the day cut
-  into hours (same unit, completing Level 2).
+  into hours (same level, completing Level 9).
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

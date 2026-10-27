@@ -58,7 +58,7 @@ the simple past (with its neighbour the past continuous —
 where stories live, in narratives and recounts. Tell
 anything that finished, and this is the coat it wears: "The
 crow lived in a nest. One day it flew to the river." Every
-story you will retell in Level 4 walks in these shapes.
+story you will retell at the Stories level walks in these shapes.
 
 ## Say it to your companion
 The yesterday interview. Ask five Did questions with

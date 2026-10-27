@@ -1,8 +1,8 @@
 # Lesson plan — Asking yes/no questions
 
 **Course:** English · **Title:** Sentence · **Lesson:** Asking yes/no questions
-**Place in the curriculum:** Level 3, Unit 2 "Questions" —
-the first lesson of the unit (CURRICULUM.md).
+**Place in the curriculum:** Level 11, "Questions" —
+the first lesson of the level (CURRICULUM.md).
 **The one thing this lesson teaches:** how to turn a statement
 into a question that can be answered yes or no — the helping
 word moves to the front — and how to answer it: short, or
@@ -30,7 +30,7 @@ shown changing — a GIF here is 1–2 seconds.
 - Questions with what/where/when/who are the NEXT lesson —
   a different shape (a question word leads, and the answer
   is a thing, not yes/no). Past-tense questions (Did you…?)
-  belong to Unit 3 with the past itself.
+  belong to Level 12 with the past itself.
 
 ## What the learner can do when it ends
 1. Turn a be-statement into a question by the swap: "She is
@@ -109,7 +109,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Answers everything with bare "Yes." → short answers carry
   the who: "Yes, I do." "No, she isn't." The tail is what
   makes it English, not just an answer.
-- This unit's next lesson: Asking with question words —
+- This level's next lesson: Asking with question words —
   what, where, when, who.
 
 ## Teacher note

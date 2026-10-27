@@ -1,8 +1,8 @@
 # Lesson plan — Blending sounds
 
 **Course:** English · **Title:** Phonics · **Lesson:** Blending sounds
-**Place in the curriculum:** Level 1, Unit 2 "Sounds Together"
-— the first lesson of the unit (CURRICULUM.md).
+**Place in the curriculum:** Level 3, "Sounds Together"
+— the first lesson of the level (CURRICULUM.md).
 **The one thing this lesson teaches:** pushing letter sounds together
 until they become a word — s… a… t… → sat.
 

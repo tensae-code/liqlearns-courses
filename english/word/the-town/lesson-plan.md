@@ -1,8 +1,7 @@
 # Lesson plan — The town
 
 **Course:** English · **Title:** Word · **Lesson:** The town
-**Place in the curriculum:** Level 2, Unit 2 "Words for the
-World" — the second lesson of the unit (CURRICULUM.md), after
+**Place in the curriculum:** Level 7, "Words for the World" — the second lesson of the level (CURRICULUM.md), after
 The home.
 **The one thing this lesson teaches:** the words for the
 places in a town — and what each place is for.
@@ -103,7 +102,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
   learn at the school; things are bought at the shop.
 - Forgets street → the street is not a building; it is where
   the car, truck, and bus go. "What do you see on the street?"
-- This lesson's next door: Food and fruit (same unit).
+- This lesson's next door: Food and fruit (same level).
   Directions wait for their own lesson.
 
 ## Teacher note

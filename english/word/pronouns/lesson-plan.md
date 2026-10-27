@@ -1,8 +1,8 @@
 # Lesson plan — Pronouns
 
 **Course:** English · **Title:** Word · **Lesson:** Pronouns
-**Place in the curriculum:** Level 2, Unit 1 "Word Kinds" —
-the fifth and last lesson of the unit (CURRICULUM.md), after
+**Place in the curriculum:** Level 6, "Word Kinds" —
+the fifth and last lesson of the level (CURRICULUM.md), after
 Nouns, Verbs, Adjectives, and Adverbs.
 **The one thing this lesson teaches:** a pronoun is a word
 that stands in for a noun — it does the name's job so the name
@@ -111,7 +111,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Mixes my and mine → my rides with its noun (my book); mine
   stands alone (the book is mine). Ghana's pair, in the deeper
   level.
-- This lesson's next door: Level 2 Unit 2, Words for the
+- This lesson's next door: Level 7, Words for the
   World. The object forms (me, him, them) wait at the Sentence
   stage, where the books teach them.
 

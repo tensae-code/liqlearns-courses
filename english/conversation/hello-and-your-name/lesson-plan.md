@@ -2,8 +2,8 @@
 
 **Course:** English · **Title:** Conversation · **Lesson:** Hello and
 your name
-**Place in the curriculum:** Level 1, Unit 4 "Conversation" —
-the first lesson of that unit (CURRICULUM.md).
+**Place in the curriculum:** Level 5, "Conversation" —
+the first lesson of that level (CURRICULUM.md).
 **The one thing this lesson teaches:** how a greeting goes — hello
 opens it, names go in the middle, goodbye closes it.
 

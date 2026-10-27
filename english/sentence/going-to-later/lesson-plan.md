@@ -1,9 +1,8 @@
 # Lesson plan — Going to: later
 
 **Course:** English · **Title:** Sentence · **Lesson:** Going to: later
-**Place in the curriculum:** Level 3, Unit 3 "Now, Before,
-Later" — the third lesson of the unit (CURRICULUM.md).
-Building it completes Unit 3.
+**Place in the curriculum:** Level 12, "Now, Before, Later" — the third lesson of the level (CURRICULUM.md).
+Building it completes Level 12.
 **The one thing this lesson teaches:** talking about LATER
 with **be going to + verb** — plans and intentions already
 decided, and predictions you can already see coming — with
@@ -115,7 +114,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
   is will's home ground (Bolivia's note: spontaneous
   decision). Name the border kindly: decided BEFORE speaking
   → going to; decided WHILE speaking → will.
-- This lesson completes Unit 3. Next: Unit 4 — Joining and
+- This lesson completes Level 12. Next: Level 13 — Joining and
   Describing (and/but; describing words inside sentences;
   mine and yours).
 

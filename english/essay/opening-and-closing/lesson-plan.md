@@ -1,9 +1,9 @@
 # Lesson plan — Opening and closing
 
 **Course:** English · **Title:** Essay · **Lesson:** Opening and closing
-**Place in the curriculum:** Level 4, Unit 3 "The Essay" —
-the second lesson of the unit (CURRICULUM.md). Building it
-completes Unit 3.
+**Place in the curriculum:** Level 16, "The Essay" —
+the second lesson of the level (CURRICULUM.md). Building it
+completes Level 16.
 **The one thing this lesson teaches:** writing the essay's
 two ends well — the opening paragraph, which first catches
 the reader's attention and then names the topic and its
@@ -116,8 +116,8 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Closing smuggles a new point → move it to the body plan
   (The essay's rule) or cut it; the closing spends earned
   weight, it does not mint new.
-- This lesson completes Unit 3. Next: Unit 4 — Stories,
-  the last unit of Level 4.
+- This lesson completes Level 16. Next: Level 17 — Stories,
+  the last level of the built path.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

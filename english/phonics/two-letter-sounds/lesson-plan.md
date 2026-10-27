@@ -1,7 +1,7 @@
 # Lesson plan — Two-letter sounds
 
 **Course:** English · **Title:** Phonics · **Lesson:** Two-letter sounds
-**Place in the curriculum:** Level 1, Unit 2 "Sounds Together"
+**Place in the curriculum:** Level 3, "Sounds Together"
 — after Blending sounds (CURRICULUM.md).
 **The one thing this lesson teaches:** two letters that together make
 ONE sound — ch, sh, th — a sound neither letter owns alone.

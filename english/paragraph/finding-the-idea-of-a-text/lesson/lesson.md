@@ -89,6 +89,6 @@ sentence is only its receipt.
 3. Write three options for a text you know — one right, one
    too small, one off the text — and test a friend with
    them, Bangladesh-style.
-4. Revisit a text from Level 3 days (a book page you
+4. Revisit a text from your sentence-level days (a book page you
    described). What is it about, in one sentence — and is
    that the sentence you would have given then?

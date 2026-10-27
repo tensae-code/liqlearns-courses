@@ -1,15 +1,15 @@
 # Lesson plan — The story
 
 **Course:** English · **Title:** Story · **Lesson:** The story
-**Place in the curriculum:** Level 4, Unit 4 "Stories" — the
-first lesson of the unit (CURRICULUM.md).
+**Place in the curriculum:** Level 17, "Stories" — the
+first lesson of the level (CURRICULUM.md).
 **The one thing this lesson teaches:** what a story IS —
 people (someone it happens to), a place (where it stands),
 and things happening, in an order, told mostly in the
 past: the narrative shape every story in every country's
 book is built from.
 **This lesson's own level:** it stands on Past actions (the
-story's tense is the past — Level 3's own rule that a
+story's tense is the past — Level 12's own rule that a
 narrative wears the past) and on First/Then/Finally (the
 happenings' order rides on those signposts). It opens the
 Story title; the Novel beyond it is the plan's far shore.
@@ -116,13 +116,13 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
   the Do-it-first, replayed with their own texts: does it
   HAPPEN, or does it ARGUE? Happenings belong to people.
 - Happenings without a spine (and then, and then…) → the
-  signpost set is the spine's first form (Unit 1); a story
+  signpost set is the spine's first form (Level 14); a story
   is a sequence paragraph that grew people.
 - Present tense throughout a telling → not an error of the
   story-shape but of its coat: Past actions is the repair
   lesson; live tellers may use the present for drama, and
   the plan says so plainly — books' stories wear the past.
-- Next in this unit: Telling a story back — the retelling
+- Next in this level: Telling a story back — the retelling
   craft; then The big reading.
 
 ## Teacher note

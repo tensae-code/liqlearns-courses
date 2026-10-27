@@ -1,8 +1,7 @@
 # Lesson plan — Describing words in a sentence
 
 **Course:** English · **Title:** Sentence · **Lesson:** Describing words in a sentence
-**Place in the curriculum:** Level 3, Unit 4 "Joining and
-Describing" — the second lesson of the unit (CURRICULUM.md).
+**Place in the curriculum:** Level 13, "Joining and Describing" — the second lesson of the level (CURRICULUM.md).
 **The one thing this lesson teaches:** where a describing
 word (an adjective) SITS in a sentence — its two homes:
 BEFORE the noun it describes ("a fresh mango"), and AFTER
@@ -107,7 +106,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Compares when not asked ("a bigger mango") → comparing is
   a real next step (Mongolia's own next box) — praise it,
   park it, finish this lesson's plain seatings first.
-- Next, and last in this unit: Mine and yours.
+- Next, and last in this level: Mine and yours.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

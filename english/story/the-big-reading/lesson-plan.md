@@ -1,19 +1,19 @@
 # Lesson plan — The big reading
 
 **Course:** English · **Title:** Story · **Lesson:** The big reading
-**Place in the curriculum:** Level 4, Unit 4 "Stories" — the
-third lesson of the unit (CURRICULUM.md). Building it
-completes Unit 4 and with it Level 4, exactly as the
-curriculum frames it: "the big reading: graded readers
-bound into Libya's Grade 11 books mark where this road
-leads."
+**Place in the curriculum:** Level 17, "Stories" — the
+third lesson of the level (CURRICULUM.md). Building it
+completes Level 17 and with it the built English path —
+the graded readers bound into Libya's Grade 11 books mark
+where this road leads.
 **The one thing this lesson teaches:** reading WHOLE story
 books at your level — the graded reader (a real classic
 retold in English sized to the learner) — and the habits
 that carry a reader through a book and up the levels
 toward the ungraded real thing.
-**This lesson's own level:** it stands on the whole of
-Level 4 — The story (what you are reading), Words you don't
+**This lesson's own level:** it stands on the whole of the
+reading and story levels before it — The story (what you
+are reading), Words you don't
 know (the ladder, now at book scale), Answering from the
 text (a reader's self-check) — and it is the English plan's
 last built lesson: beyond it stands the Novel title, added
@@ -51,7 +51,7 @@ first where a thing must be shown changing — a GIF here is
    both retold by Peter Viney (Garnet, 2019).
 3. Read a book the reader's way: whole chapters without
    stopping, the ladder for hard words, a two-line telling-
-   back after each chapter (Unit 4's own skill as the
+   back after each chapter (Level 17's own skill as the
    chapter check).
 4. Step up on purpose: when a level reads easy twice, take
    the next — the road ends at the real, unretold books.
@@ -129,7 +129,8 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
   skipped. No new chapter until the last one is told back
   in two sentences — Telling a story back is this lesson's
   memory engine.
-- With this lesson, **Level 4 is complete**. The plan's
+- With this lesson, **Level 17 — and the built English
+  path — is complete**. The plan's
   next country is the deeper sentence work and longer
   writing the later books carry — and the Novel at the
   ladder's top.

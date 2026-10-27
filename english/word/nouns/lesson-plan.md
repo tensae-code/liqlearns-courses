@@ -1,8 +1,8 @@
 # Lesson plan — Nouns
 
 **Course:** English · **Title:** Word · **Lesson:** Nouns
-**Place in the curriculum:** Level 2, Unit 1 "Word Kinds" —
-the first lesson of the unit (CURRICULUM.md).
+**Place in the curriculum:** Level 6, "Word Kinds" —
+the first lesson of the level (CURRICULUM.md).
 **The one thing this lesson teaches:** a noun is a word that names
 a person, a place, or a thing.
 **This lesson's own level:** it stands on the Level 1 lessons —
@@ -25,7 +25,7 @@ shown moving or popping — a GIF here is 1–2 seconds.
   little words (word-families is the nearest door). Recommended,
   never forced.
 - The other word kinds (verbs, adjectives, adverbs, pronouns) are
-  each their own lesson, next door in this same unit.
+  each their own lesson, next door in this same level.
 
 ## What the learner can do when it ends
 1. Say what a noun is: a word that names a person, a place, or

@@ -2,7 +2,7 @@
 
 **Course:** English · **Title:** Conversation · **Lesson:** Introducing
 a friend
-**Place in the curriculum:** Level 1, Unit 4 "Conversation"
+**Place in the curriculum:** Level 5, "Conversation"
 (CURRICULUM.md).
 **The one thing this lesson teaches:** bringing a new person into the
 talk — "Who's this?" → "This is my friend, ___." → the two new people

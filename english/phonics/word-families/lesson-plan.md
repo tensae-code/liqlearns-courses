@@ -1,7 +1,7 @@
 # Lesson plan — Word families
 
 **Course:** English · **Title:** Phonics · **Lesson:** Word families
-**Place in the curriculum:** Level 1, Unit 3 "First Words" —
+**Place in the curriculum:** Level 4, "First Words" —
 after Blends (CURRICULUM.md).
 **The one thing this lesson teaches:** words that share the same
 ending — same letters, same sound — so knowing one opens its whole

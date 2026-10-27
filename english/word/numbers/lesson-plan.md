@@ -1,8 +1,7 @@
 # Lesson plan — Numbers
 
 **Course:** English · **Title:** Word · **Lesson:** Numbers
-**Place in the curriculum:** Level 2, Unit 4 "Numbers, Days,
-and Time" — the first lesson of the unit (CURRICULUM.md).
+**Place in the curriculum:** Level 9, "Numbers, Days, and Time" — the first lesson of the level (CURRICULUM.md).
 **The one thing this lesson teaches:** counting in English —
 each number as a figure, a word, and a count of real things,
 1 to 20, then by tens to 100 — with the counting question the
@@ -104,7 +103,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Knows figures, not words → the word is the figure said
   aloud; trace the word the way Palestine traces the figure,
   saying it as the pencil moves.
-- This lesson's next door: Days and months (same unit) —
+- This lesson's next door: Days and months (same level) —
   numbers meet the calendar.
 
 ## Teacher note

@@ -22,7 +22,7 @@ teaches the two first directions.
 sentences with it, worked in full: "The boy woke up" + "The
 boy prayed" → "**The boy woke up and prayed**." And joins
 what travels the SAME direction: two doings by one who, two
-things in one list ("rice **and** fish," Level 2's own
+things in one list ("rice **and** fish," the word levels' own
 sentences), two whole sentences. When the who is shared, it
 rides once — the second "the boy" falls away and the
 sentence runs light. (Keeping it is never wrong, only
@@ -57,7 +57,7 @@ yours; however waits.
 **One join per pair.** A joined sentence is two thoughts
 with one direction between them. Chain three, four, five
 with and-and-and and the road becomes a swamp — the books
-join in pairs and let full stops do the rest. Level 4 will
+join in pairs and let full stops do the rest. The Paragraph level will
 teach the longer weaves; this lesson's mastery is the clean
 pair, the true joiner, every time.
 
@@ -76,7 +76,7 @@ meaning — the argument is the lesson marking itself.
 2. Join these pairs both ways and say which is true for
    you: "I like football. I like music." · "The day was hot.
    We played outside."
-3. Take any Level 2 description of yours (a food, an
+3. Take any description of yours from the word levels (a food, an
    animal) and add one but-turn to it that is TRUE.
 4. Write a three-item list sentence with commas and its
    final and — a real shopping list for tonight.

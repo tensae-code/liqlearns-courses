@@ -2,7 +2,7 @@
 
 **Course:** English · **Title:** Conversation · **Lesson:** What's his
 and her name?
-**Place in the curriculum:** Level 1, Unit 4 "Conversation"
+**Place in the curriculum:** Level 5, "Conversation"
 (CURRICULUM.md).
 **The one thing this lesson teaches:** asking the name of ANOTHER
 person — "What's her name?" for a girl or woman, "What's his name?"

@@ -73,8 +73,8 @@ level's readers wait, and beyond the last graded step stand
 the originals themselves, Defoe unretold, in the title this
 course's ladder calls **Novel**. The graded road does not
 end at a wall; it thins into the real library of the world.
-That is the point of every level under this one: Level 1's
-letters were always aimed HERE — at you, reading whole
+That is the point of every level under this one: the
+alphabet's letters were always aimed HERE — at you, reading whole
 books, alone, for the story.
 
 ## Say it to your companion

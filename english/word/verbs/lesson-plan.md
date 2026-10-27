@@ -1,8 +1,8 @@
 # Lesson plan — Verbs
 
 **Course:** English · **Title:** Word · **Lesson:** Verbs
-**Place in the curriculum:** Level 2, Unit 1 "Word Kinds" —
-the second lesson of the unit (CURRICULUM.md), right after Nouns.
+**Place in the curriculum:** Level 6, "Word Kinds" —
+the second lesson of the level (CURRICULUM.md), right after Nouns.
 **The one thing this lesson teaches:** a verb is a doing word —
 it tells what a person or a thing does.
 **This lesson's own level:** it stands on the Nouns lesson (the

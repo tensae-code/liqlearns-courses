@@ -1,7 +1,7 @@
 # Lesson plan — How old are you?
 
 **Course:** English · **Title:** Conversation · **Lesson:** How old are you?
-**Place in the curriculum:** Level 1, Unit 4 "Conversation"
+**Place in the curriculum:** Level 5, "Conversation"
 — a Conversation lesson, taught inside the talk in the books
 (CURRICULUM.md).
 **The one thing this lesson teaches:** asking someone's age and

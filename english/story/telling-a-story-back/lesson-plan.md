@@ -1,8 +1,8 @@
 # Lesson plan — Telling a story back
 
 **Course:** English · **Title:** Story · **Lesson:** Telling a story back
-**Place in the curriculum:** Level 4, Unit 4 "Stories" — the
-second lesson of the unit (CURRICULUM.md).
+**Place in the curriculum:** Level 17, "Stories" — the
+second lesson of the level (CURRICULUM.md).
 **The one thing this lesson teaches:** retelling a story —
 the story again, whole, in its true order, in YOUR words
 and the past's coat, shorter than the original by dropping

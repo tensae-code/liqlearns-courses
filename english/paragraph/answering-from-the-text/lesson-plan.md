@@ -1,16 +1,15 @@
 # Lesson plan — Answering from the text
 
 **Course:** English · **Title:** Paragraph · **Lesson:** Answering from the text
-**Place in the curriculum:** Level 4, Unit 2 "Reading Whole
-Texts" — the third lesson of the unit (CURRICULUM.md).
-Building it completes Unit 2.
+**Place in the curriculum:** Level 15, "Reading Whole Texts" — the third lesson of the level (CURRICULUM.md).
+Building it completes Level 15.
 **The one thing this lesson teaches:** answering questions
 about a text FROM the text — find the sentence that carries
 the answer, give it whole and in your own words, keep your
 outside knowledge out of it, and say "the text doesn't say"
 when the text truly doesn't.
 **This lesson's own level:** it stands on Finding the idea
-of a text and Words you don't know — the unit's reader kit
+of a text and Words you don't know — this level's reader kit
 completed. It is also the course's whole provenance law
 worn by the learner: every claim points at its place.
 
@@ -111,7 +110,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
   say" → name the fear kindly: in examinations and in life,
   the invented answer is the only truly wrong one here. The
   honest silence scores; the guess gambles.
-- This lesson completes Unit 2. Next: Unit 3 — The Essay.
+- This lesson completes Level 15. Next: Level 16 — The Essay.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

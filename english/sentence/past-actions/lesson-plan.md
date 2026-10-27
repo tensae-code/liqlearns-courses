@@ -1,15 +1,14 @@
 # Lesson plan — Past actions
 
 **Course:** English · **Title:** Sentence · **Lesson:** Past actions
-**Place in the curriculum:** Level 3, Unit 3 "Now, Before,
-Later" — the second lesson of the unit (CURRICULUM.md).
+**Place in the curriculum:** Level 12, "Now, Before, Later" — the second lesson of the level (CURRICULUM.md).
 **The one thing this lesson teaches:** telling what already
 happened — the verb's past coat: -ed for the regular crowd,
 their own past forms for the irregular movers, was/were for
 be, and Did/didn't for asking and denying, where the verb
 steps back to its base.
 **This lesson's own level:** it stands on Present actions
-(same verbs, other time) and Unit 2's machinery (Did is the
+(same verbs, other time) and Level 11's machinery (Did is the
 engine's past twin). It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
@@ -110,7 +109,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Mixes was/were → be's past has two shapes only: was for
   I/he/she/it, were for you/we/they — the Pronouns lesson's
   map carries them exactly.
-- Next in this unit: Going to — Later.
+- Next in this level: Going to — Later.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

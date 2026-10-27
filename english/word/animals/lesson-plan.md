@@ -1,8 +1,7 @@
 # Lesson plan — Animals
 
 **Course:** English · **Title:** Word · **Lesson:** Animals
-**Place in the curriculum:** Level 2, Unit 2 "Words for the
-World" — the fourth lesson of the unit (CURRICULUM.md).
+**Place in the curriculum:** Level 7, "Words for the World" — the fourth lesson of the level (CURRICULUM.md).
 **The one thing this lesson teaches:** the words for animals —
 the farm and home animals first, then the wider set — each
 with the little the books say about it: big or small, where it
@@ -111,7 +110,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Says "The duck is big" → that is the size pair working;
   laugh, swap in the book's sentence, say it again.
 - This lesson's next door: The body — the last of the world
-  sets (same unit).
+  sets (same level).
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

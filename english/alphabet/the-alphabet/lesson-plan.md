@@ -1,8 +1,8 @@
 # Lesson plan — The alphabet
 
 **Course:** English · **Title:** Alphabet · **Lesson:** The alphabet
-**Place in the curriculum:** Level 1, Unit 1 "The Alphabet" —
-the first lesson of the unit (CURRICULUM.md).
+**Place in the curriculum:** Level 2, "The Alphabet" —
+the first lesson of the level (CURRICULUM.md).
 **The one thing this lesson teaches:** the 26 letters — each with a
 name, two shapes (capital and small), and a sound.
 

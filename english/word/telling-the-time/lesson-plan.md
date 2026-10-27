@@ -1,9 +1,8 @@
 # Lesson plan — Telling the time
 
 **Course:** English · **Title:** Word · **Lesson:** Telling the time
-**Place in the curriculum:** Level 2, Unit 4 "Numbers, Days,
-and Time" — the third and last lesson of the unit
-(CURRICULUM.md). Building it completes Unit 4 and Level 2.
+**Place in the curriculum:** Level 9, "Numbers, Days, and Time" — the third and last lesson of the level
+(CURRICULUM.md). Building it completes Level 9.
 **The one thing this lesson teaches:** reading a clock and
 saying the time — o'clock first, then the halves and quarters
 — with the question "What's the time?" and the day's routine
@@ -113,8 +112,8 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
   minutes climb the PAST side (after the hour) and fall down
   the TO side (before the next hour); half past stands at
   the bottom between them.
-- Building this lesson completes Unit 4 and Level 2. The
-  Word title's Level 2 work stands whole: kinds, world,
+- Building this lesson completes Level 9. The Word
+  title's work stands whole: kinds, world,
   dictionary, numbers-days-time.
 
 ## Teacher note

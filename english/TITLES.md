@@ -60,38 +60,41 @@ its own subtitle folder with its own lesson + questions):
   good-morning-and-good-afternoon · introducing-a-friend ·
   whats-his-and-her-name · how-old-are-you
 - Word → nouns · verbs · adjectives · adverbs · pronouns
-  (built 2026-10-26 — Level 2 Unit 1 "Word Kinds" COMPLETE)
+  (built 2026-10-26 — **Level 6, Word Kinds**, under the
+  2026-10-27 split: one former unit = one level)
 - Word (world sets) → the-home · the-town · food-and-fruit ·
-  animals · the-body (built 2026-10-27 — Level 2 Unit 2
-  "Words for the World" COMPLETE)
+  animals · the-body (built 2026-10-27 — **Level 7, Words
+  for the World**)
 - Word (tool) → using-the-dictionary (built 2026-10-27 —
-  Level 2 Unit 3 COMPLETE)
+  **Level 8, Using the Dictionary**; the platform's own
+  dictionary tool is filed in ../DICTIONARY.md)
 - Sentence → building-a-sentence · capital-and-full-stop ·
   asking-yes-no-questions · asking-with-question-words ·
   present-actions · past-actions · going-to-later ·
   joining-with-and-and-but · describing-words-in-a-sentence ·
-  mine-and-yours (built 2026-10-27 — **LEVEL 3 COMPLETE**,
-  all four units)
+  mine-and-yours (built 2026-10-27 — **Levels 10–13**:
+  Building a Sentence · Questions · Now, Before, Later ·
+  Joining and Describing)
 - Word (numbers & time) → numbers · days-and-months ·
-  telling-the-time (built 2026-10-27 — Level 2 Unit 4
-  COMPLETE; **Level 2 COMPLETE**)
+  telling-the-time (built 2026-10-27 — **Level 9, Numbers,
+  Days, and Time**)
 - Paragraph → the-paragraph · first-then-finally ·
   finding-the-idea-of-a-text · words-you-dont-know ·
-  answering-from-the-text (built 2026-10-27 — Level 4
-  Units 1–2 COMPLETE)
+  answering-from-the-text (built 2026-10-27 — **Levels 14–15**:
+  The Paragraph · Reading Whole Texts)
 - Essay → the-essay · opening-and-closing (built
-  2026-10-27 — Level 4 Unit 3 COMPLETE)
+  2026-10-27 — **Level 16, The Essay**)
 - Story → the-story · telling-a-story-back ·
-  the-big-reading (built 2026-10-27 — Level 4 Unit 4
-  COMPLETE; **LEVEL 4 COMPLETE; the Levels 1–4 English
-  plan is built whole**)
+  the-big-reading (built 2026-10-27 — **Level 17, Stories**;
+  with this, all 17 levels of the English path are built)
 Conversation → hello-and-your-name (from Egypt, Primary 1) is kept, and
 filed under its title; it is NOT Lesson 1 of the path.
 
-Before Alphabet, one step lower and outside this course: **Pencil and
-Lines** — its own normal course, and the prerequisite before this and
-every language course (holding a pencil; drawing and understanding
-lines). It began as a lesson in this folder (Letter →
-before-the-letters) and was promoted by his ruling, 2026-10-25. The
-English path therefore reads: Pencil and Lines → Alphabet → Phonics →
-Word → Sentence → Paragraph → Essay → Story → Novel.
+At the bottom of the English path stands **Pencil and Lines** as
+**Level 1** (his correction, 2026-10-27) — and it is also its own
+normal course, the shared prerequisite before every language course
+(holding a pencil; drawing and understanding lines). It began as a
+lesson in this folder (Letter → before-the-letters) and was promoted
+by his ruling, 2026-10-25. The English path therefore reads: Pencil
+and Lines → Alphabet → Phonics → Word → Sentence → Paragraph →
+Essay → Story → Novel.

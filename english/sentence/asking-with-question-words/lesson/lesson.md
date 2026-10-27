@@ -5,7 +5,7 @@ Built from: Mongolia, English VI (the question-words table in
 the Grammar Reference) — Bangladesh, English for Today Class
 4, Unit 22 "Tune up!" (the falling voice; the word list) —
 Egypt, Primary 1 Term 2 and Primary 3 (the drilled questions
-this course has used since Level 1).
+this course has used since the first levels).
 
 ## Do it first
 Answer this: "Do you go to the hospital when you're sick?"

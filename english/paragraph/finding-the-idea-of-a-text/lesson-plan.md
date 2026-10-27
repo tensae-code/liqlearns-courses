@@ -1,8 +1,7 @@
 # Lesson plan — Finding the idea of a text
 
 **Course:** English · **Title:** Paragraph · **Lesson:** Finding the idea of a text
-**Place in the curriculum:** Level 4, Unit 2 "Reading Whole
-Texts" — the first lesson of the unit (CURRICULUM.md).
+**Place in the curriculum:** Level 15, "Reading Whole Texts" — the first lesson of the level (CURRICULUM.md).
 **The one thing this lesson teaches:** finding what a WHOLE
 TEXT is about — its main idea: gather each paragraph's
 naming sentence, weigh which idea the most paragraphs
@@ -28,7 +27,7 @@ shown changing — a GIF here is 1–2 seconds.
 - Recommended first: The paragraph. Recommended, never
   forced.
 - Words you don't know (next lesson) and Answering from the
-  text (the unit's third lesson) complete the reader's kit.
+  text (this level's third lesson) complete the reader's kit.
   This lesson assumes slow, whole reading is possible; it
   teaches what to DO with the whole once read.
 
@@ -102,7 +101,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 ## If the learner is stuck
 - Retells the whole text when asked its idea → the one-
   sentence law with a timer: say it before ten fingers
-  fall. Retelling is the next unit's story work; the idea
+  fall. Retelling is Level 17's story work; the idea
   is one sentence, always.
 - Picks the FIRST paragraph's idea as the text's → the
   weighing drill: tally what each paragraph serves on

@@ -109,6 +109,18 @@ liqlearns-courses/
   meanings no longer share one title. CURRICULUM.md holds the plan
   only (units and lessons in order); each book's stocking notes live
   with the book's own map.
+- ONE FORMER UNIT = ONE LEVEL ON THE ENGLISH PATH (his ruling,
+  2026-10-27): the English course was first built as four broad levels
+  of four units each, and the units were uneven in size. He separated
+  them: every former unit is now a level of its own — 17 levels in all:
+  1 Pencil and Lines · 2 The Alphabet · 3 Sounds Together · 4 First
+  Words · 5 Conversation · 6 Word Kinds · 7 Words for the World ·
+  8 Using the Dictionary · 9 Numbers, Days, and Time · 10 Building a
+  Sentence · 11 Questions · 12 Now, Before, Later · 13 Joining and
+  Describing · 14 The Paragraph · 15 Reading Whole Texts · 16 The
+  Essay · 17 Stories. **Pencil and Lines is Level 1** (his correction:
+  that is level one — not a step before Level 1, and not Level 11),
+  while it remains its own shared course before every language.
 - A LESSON IS A LEVEL (his ruling, 2026-10-26): every lesson is itself a
   level on the ladder — not just the course's big Levels. A lesson's
   level is counted from its chain: a lesson that needs nothing before
@@ -369,7 +381,9 @@ liqlearns-courses/
   and words are written: the hand learns first. Recommended, never
   forced, like every prerequisite. Content merges from every finished
   country's first books (KG/Grade 1), as basics are found and filed
-  where they belong.
+  where they belong. **On the English path it is Level 1** (his
+  correction, 2026-10-27) — being Level 1 there does not remove it as
+  the shared standalone course for the other languages.
 - BUILD FROM FINISHED COUNTRIES ONLY — THEN UPDATE (2026-10-25, his
   order, settling the source question): a course is built only from the
   books of countries that are FINISHED in the library (every book found
@@ -461,6 +475,21 @@ liqlearns-courses/
   remake it as ours. No embedding, no depending on third-party apps —
   everything in the platform is ours and understood by us. (Copying how a
   thing works is fine; literal code follows that project's license.)
+- THE LIQLEARNS DICTIONARY (his design, 2026-10-27 — a FUTURE
+  update, not a right-now project; he will start it soon): we make
+  our OWN dictionary inside the platform. It sits as a word list on
+  the side: the learner scrolls the list or searches a word — or a
+  whole sentence — and picks a country; the word is shown as it is
+  called in that country's tongue, in that language's own letters,
+  with its English-letters spelling (his example: Amharic for hello
+  is ሰላም, written "selam," S-E-L-A-M). Entries live in a document:
+  English on one side, every country's word on the other. Ours,
+  because Google Translate covers only some languages and its
+  translations carry misalignments. When it ships, it is named in
+  the update list like his other updates ("we created an update
+  for the dictionary"). This is the tool itself, separate from the
+  lesson that teaches dictionary skill (English Level 8, Using the
+  Dictionary). Full filing: DICTIONARY.md in this repo's root.
 - Lesson shape: first prompt the learner to DO it, then explain how it works.
   "You do it, we guide you" — the tutor prompts, the learner does the thing.
   Every lesson ends in a real experience (the hands-on file).

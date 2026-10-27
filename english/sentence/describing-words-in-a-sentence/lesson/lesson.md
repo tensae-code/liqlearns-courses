@@ -10,7 +10,7 @@ describing sentences of the youngest books).
 ## Do it first
 Picture "a mango." Now picture "a FRESH mango." The second
 picture is sharper — you can almost smell it. One word did
-that. You met describing words in Level 2 as a kind of word;
+that. You met describing words in the Word Kinds level as a kind of word;
 here they go to WORK inside sentences, and a describing word
 has exactly two places it can sit. Learn the two places and
 every description you will ever write is already built.
@@ -71,7 +71,7 @@ into every third description.
 ## Do It Yourself
 1. Describe your room in six sentences — three with home one,
    three with home two.
-2. Take any three sentences from your Level 2 work and move
+2. Take any three sentences from your word-level work and move
    their descriptions to the other home.
 3. Describe tonight's food (real or wished) with a but-turn
    in it.

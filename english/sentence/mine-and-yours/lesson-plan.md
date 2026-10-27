@@ -1,9 +1,8 @@
 # Lesson plan — Mine and yours
 
 **Course:** English · **Title:** Sentence · **Lesson:** Mine and yours
-**Place in the curriculum:** Level 3, Unit 4 "Joining and
-Describing" — the third lesson of the unit (CURRICULUM.md).
-Building it completes Unit 4, and with it Level 3.
+**Place in the curriculum:** Level 13, "Joining and Describing" — the third lesson of the level (CURRICULUM.md).
+Building it completes Level 13.
 **The one thing this lesson teaches:** the owning words
 that stand ALONE — mine, yours, his, hers, ours, theirs —
 against their partner forms that must hold a noun (my book,
@@ -111,7 +110,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Double marking ("Nina's hat is hers Nina") → one owner
   mark per claim; the ladder REPLACES as it climbs, it does
   not pile.
-- This lesson completes Unit 4 — and Level 3. Next: Level
+- This lesson completes Level 13. Next: Level 14 —
   4 — Paragraphs, essays, stories.
 
 ## Teacher note

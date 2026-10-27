@@ -1,8 +1,7 @@
 # Lesson plan — Present actions
 
 **Course:** English · **Title:** Sentence · **Lesson:** Present actions
-**Place in the curriculum:** Level 3, Unit 3 "Now, Before,
-Later" — the first lesson of the unit (CURRICULUM.md).
+**Place in the curriculum:** Level 12, "Now, Before, Later" — the first lesson of the level (CURRICULUM.md).
 **The one thing this lesson teaches:** saying what happens in
 the present — its two faces: the EVERY-DAY face (routines
 and truths: the plain verb, with -s for he/she/it) and the
@@ -29,7 +28,7 @@ movement itself.
 ## Before this lesson
 - Recommended first: Verbs; Asking yes/no questions (its
   machinery asks both faces). Recommended, never forced.
-- Before (the past) and Later (going to) are this unit's
+- Before (the past) and Later (going to) are this level's
   next two lessons — the same verb wearing its other times.
 
 ## What the learner can do when it ends
@@ -115,7 +114,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
   their last letter (run→running, swim→swimming); e drops
   (make→making). The books box these; drill the pair, not
   the rule-list.
-- Next in this unit: Past actions — the same verbs, before.
+- Next in this level: Past actions — the same verbs, before.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

@@ -1,8 +1,8 @@
 # Lesson plan — Adjectives
 
 **Course:** English · **Title:** Word · **Lesson:** Adjectives
-**Place in the curriculum:** Level 2, Unit 1 "Word Kinds" —
-the third lesson of the unit (CURRICULUM.md), after Nouns and
+**Place in the curriculum:** Level 6, "Word Kinds" —
+the third lesson of the level (CURRICULUM.md), after Nouns and
 Verbs.
 **The one thing this lesson teaches:** an adjective is a
 describing word — it tells us more about a noun: what it looks,

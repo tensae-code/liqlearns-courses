@@ -1,7 +1,7 @@
 # Lesson plan — How are you?
 
 **Course:** English · **Title:** Conversation · **Lesson:** How are you?
-**Place in the curriculum:** Level 1, Unit 4 "Conversation"
+**Place in the curriculum:** Level 5, "Conversation"
 — after Hello and your name (CURRICULUM.md).
 **The one thing this lesson teaches:** asking how someone is, and
 answering truly — "How are you?" with its three book answers.

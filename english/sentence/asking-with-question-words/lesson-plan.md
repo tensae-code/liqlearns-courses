@@ -1,9 +1,9 @@
 # Lesson plan — Asking with question words
 
 **Course:** English · **Title:** Sentence · **Lesson:** Asking with question words
-**Place in the curriculum:** Level 3, Unit 2 "Questions" —
-the second lesson of the unit (CURRICULUM.md). Building it
-completes Unit 2.
+**Place in the curriculum:** Level 11, "Questions" —
+the second lesson of the level (CURRICULUM.md). Building it
+completes Level 11.
 **The one thing this lesson teaches:** questions that hunt a
 THING, not a yes or no — a question word leads (what, where,
 when, who, why, how, how many), the yes/no machinery runs
@@ -38,7 +38,7 @@ shown changing — a GIF here is 1–2 seconds.
 2. Build the questions whole: question word + the swap or
    the engine + the rest — "Where do you go when you're
    sick?" "What does the tiger eat?" "When does Mita get up?"
-3. Answer in whole sentences (the unit's third strand, and
+3. Answer in whole sentences (this level's third strand, and
    the course's standing rule): the answer hands over the
    thing hunted, inside a full statement.
 4. Ask with the falling voice Bangladesh teaches for these
@@ -111,7 +111,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Mixes when and where → prey check: if the answer could be
   a place, the word is where; if it could be a time, when.
   The answer chooses the word.
-- This lesson completes Unit 2. Next: Unit 3 — Now, Before,
+- This lesson completes Level 11. Next: Level 12 — Now, Before,
   Later (the times of verbs).
 
 ## Teacher note

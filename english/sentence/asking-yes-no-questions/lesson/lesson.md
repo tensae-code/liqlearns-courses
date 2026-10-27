@@ -64,7 +64,7 @@ whole: "Do you walk to school?" — "Yes, I walk to school
 every day." Short to be quick; whole to be sure.
 
 ## Say it to your companion
-The finding game — Level 2's world as the board. Think of
+The finding game — the world-words sets as the board. Think of
 one animal, food, or place from the world sets; do not say
 it. Your companion may ask only yes/no questions: "Is it an
 animal?" "Does it eat meat?" "Is it big?" Ten questions to

@@ -1,8 +1,8 @@
 # Lesson plan — The essay
 
 **Course:** English · **Title:** Essay · **Lesson:** The essay
-**Place in the curriculum:** Level 4, Unit 3 "The Essay" —
-the first lesson of the unit (CURRICULUM.md).
+**Place in the curriculum:** Level 16, "The Essay" —
+the first lesson of the level (CURRICULUM.md).
 **The one thing this lesson teaches:** the shape of a whole
 essay — ONE topic, SEVERAL main points, each point in its
 own paragraph, the paragraphs in a planned order: an
@@ -116,7 +116,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
   definition is the rein: it "tells what your topic and
   main ideas are" — names them; the topic paragraphs do the
   telling.
-- Next in this unit: Opening and closing — the two ends
+- Next in this level: Opening and closing — the two ends
   written well.
 
 ## Teacher note

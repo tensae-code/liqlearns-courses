@@ -1,8 +1,8 @@
 # Lesson plan — Adverbs
 
 **Course:** English · **Title:** Word · **Lesson:** Adverbs
-**Place in the curriculum:** Level 2, Unit 1 "Word Kinds" —
-the fourth lesson of the unit (CURRICULUM.md), after Nouns,
+**Place in the curriculum:** Level 6, "Word Kinds" —
+the fourth lesson of the level (CURRICULUM.md), after Nouns,
 Verbs, and Adjectives.
 **The one thing this lesson teaches:** an adverb is a word that
 describes a verb — first of all it tells HOW an action is done.
@@ -116,7 +116,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Writes "happily" as "happyly" → Egypt's rule: y changes to i
   before -ly. Happy → happily, angry → angrily.
 - This lesson's next door: Pronouns — the words that stand in
-  for nouns (the last lesson of this unit). When/where/degree
+  for nouns (the last lesson of this level). When/where/degree
   adverbs wait in the deeper books.
 
 ## Teacher note
