@@ -68,8 +68,10 @@ words for the world around them, and can use a dictionary.*
   depth: I/you/he/she/it/we/they and their forms) — **UNIT 1
   COMPLETE 2026-10-26: all five word-kind lessons built**
 - **Unit 2 — Words for the World**: the home and its rooms ✅ · the town
-  (hospital, school, shop) ✅ · food and fruit ✅ · animals ✅ · the body —
+  (hospital, school, shop) ✅ · food and fruit ✅ · animals ✅ · the body ✅ —
   from Egypt P1 Term 2's sets and Libya's early grades
+  **UNIT 2 COMPLETE 2026-10-27** (all five world sets built:
+  the-home, the-town, food-and-fruit, animals, the-body)
 - **Unit 3 — Using the Dictionary**: what a dictionary is · finding a
   word by its first letters · what the words in a definition mean
 - **Unit 4 — Numbers, Days, and Time**: counting · the days · the
