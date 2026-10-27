@@ -79,8 +79,8 @@ its own subtitle folder with its own lesson + questions):
   finding-the-idea-of-a-text · words-you-dont-know ·
   answering-from-the-text (built 2026-10-27 — Level 4
   Units 1–2 COMPLETE)
-- Essay → the-essay (built 2026-10-27 — Level 4 Unit 3
-  opens here)
+- Essay → the-essay · opening-and-closing (built
+  2026-10-27 — Level 4 Unit 3 COMPLETE)
 Conversation → hello-and-your-name (from Egypt, Primary 1) is kept, and
 filed under its title; it is NOT Lesson 1 of the path.
 
