@@ -117,7 +117,7 @@ first essay, and retells a story.*
 - **Unit 3 — The Essay**: paragraphs about one thing, in order ✅ ·
   opening and closing ✅ **UNIT 3 COMPLETE 2026-10-27**
   (the-essay, opening-and-closing)
-- **Unit 4 — Stories**: people, a place, things happening · telling a
+- **Unit 4 — Stories**: people, a place, things happening ✅ · telling a
   story back · the big reading (the graded readers bound into Libya's
   Grade 11 books mark where this road leads)
 
