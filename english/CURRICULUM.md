@@ -76,7 +76,10 @@ words for the world around them, and can use a dictionary.*
   word by its first letters · what the words in a definition mean
   **UNIT 3 COMPLETE 2026-10-27** (one lesson: using-the-dictionary)
 - **Unit 4 — Numbers, Days, and Time**: counting ✅ · the days ✅ · the
-  months with their numbers ✅ · telling the time
+  months with their numbers ✅ · telling the time ✅
+  **UNIT 4 COMPLETE 2026-10-27** (numbers, days-and-months,
+  telling-the-time) — **LEVEL 2 COMPLETE 2026-10-27: all four
+  units built, 14 lessons**
 
 ## Level 3 — Sentences
 *End of level: the learner builds whole sentences, asks questions, and
