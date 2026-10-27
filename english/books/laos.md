@@ -4248,3 +4248,341 @@ real Vientiane map), and Describing Words in a Sentence
 (comparatives and superlatives as a full system). The Grade 7
 teacher guide follows in the reading queue; the Laos run then
 continues at Grade 8.
+
+## Grade 7 (ມ.2) TEACHER GUIDE — FULLY READ + CITATION CHECK PASSED 2026-10-27
+
+**⚠ LIBRARY-RECORD ERROR FOUND BY THIS READ — read this first.** The library record
+(`~/workspace/phase3-staging/grade-07/gov/laos/books.json`, English teacher entry: 104 pages,
+4,765,018 bytes, VERIFIED-STRUCT) describes the wrong book. The mirror file at the expected
+path, `guides/secondary/m2/m2_english.pdf`, downloads at exactly those facts — 4,765,018 bytes,
+104 pages — but its content is the **Physical Education teacher guide for ມ.2** (ຄູ່ມືຄູ
+ພະລະສຶກສາ ຊັ້ນມັດທະຍົມປີທີ 2), MoES/RIES 2012, written by Kommavong Sichaphan, edited by
+Dr. Sisouk Vongvichit and Lamphan Onphan: 25 lessons (gymnastics formations, sprint/long jump,
+swimming, ball throwing, volleyball), entirely in Lao; PDF metadata title "Lay out PE for 2rd
+Y". The record's VERIFIED-STRUCT status passed it on bytes and pages alone; the secured library
+copy under that row is presumably the same wrong file. The mirror's whole
+`guides/secondary/m2/` folder is scrambled (checked by cover/title page, 2026-10-27):
+`m2_physical-education.pdf` is the Japanese student textbook (2018, Japan Foundation);
+`m2_japanese.pdf` is the French teacher guide; `m2_french.pdf` is the Lao Language TG 2012;
+`m2_literature.pdf` and `m2_natural-science.pdf` are byte-identical duplicates (MD5
+cf67d4503b24b9e8306af79eb9e15aaa) of the Literature TG; the cover JPGs are scrambled too
+(`m2_english.jpg` shows the student book's credits cover; `m2_physical-education.jpg` shows the
+real English TG cover). **The real English Grade 7 teacher guide sits at
+`guides/secondary/m2/m2_lao-language.pdf`** and is the book filed below. Mirror filenames in
+the secondary guide folders cannot be trusted — content must be verified by cover/title page.
+
+### What the book is
+
+- Title as printed on the cover: **ENGLISH FOR LAO SECONDARY SCHOOLS**, with the pink "2"
+  mascot badge (Book Two's twin). The cover itself does not carry the words "Teacher's Guide"
+  in English; the book identifies itself in its Introduction: "This teacher's guide is the
+  second in a series of seven teacher's guides." It pairs with *English for Secondary
+  Schools, Book Two* (Grade 7 student book, filed above).
+- Publisher: Ministry of Education, Research Institute for Educational Sciences (RIES),
+  Laos. Cover imprint year **2009**; the Introduction is dated Vientiane Capital,
+  **01 February 2010** (the same date as both student-book introductions).
+- Credits (cover, name-for-name the student book's team): Advisor Phouangkham SOMSANITH;
+  Editor in chief Assoc. Prof. Dr. Bouasavanh KEOVILAY; Managing Editors Khamphanh
+  PHIMSIPASOM, Viengkham PHONPRASEUTH; Writers Manivone PHAXAYAVONG, Bouakeo VILAYLATH,
+  Thongsouk KEOMANY, Kittisack SAYCHOUMMANY, Bounthapany BOUNXOUAY, Khambane PASANCHAY;
+  Design and Layout Khankab PHONGOUDOM.
+- **No ISBN printed.**
+- Verified file facts (the real guide): **6,307,629 bytes, 143 PDF pages**; PDF title
+  "TG_BOOK_MM2.indd" (Adobe InDesign CS2, created 2010-02-20); RC4 encryption (print: yes,
+  copy: no). **Printed page = PDF page − 4** (confirmed at the contents and at printed folios
+  throughout, e.g. printed 136 on PDF p.140, printed 139 on PDF p.143, the last page).
+- Shape: Introduction (printed I) and Contents (II–III), then unit by unit in the student
+  book's order — U1 LIKES AND DISLIKES printed p.1, U2 p.15, U3 NOW AND THEN p.26, U4
+  WHOSE…IS THIS? p.39, U5 (directions) and U6 (feelings) between pp.39–81, U7 YOU MUST BE
+  CAREFUL p.81, U8 SHOPPING p.95, U9 COMPARING p.112, U10 THE WEATHER p.125, U11 Revision
+  (Units 1–10) p.136 — ending at printed p.139. Unit hours where the digit prints as a Latin
+  numeral: U1 = 6 hours, U2 = 9, U3 = 9, U7 = 12, U8 = 12, U9 = 12, U10 = 12. Each unit opens
+  with an overview page (objectives in English, procedure in Lao), then per-lesson steps
+  mirroring the student activities in order, with printed **Answers** keys and **Scripts**.
+  The English layer is clean; the procedure text is Lao and extracts as mojibake — this
+  filing rests on the English layer (objectives, grammar notes, models, scripts, keys) and
+  says so. Unlike the student book, the guide has **no References section** — it ends with
+  Unit 11's keys.
+
+### Introduction and method
+
+The Introduction (printed I, in English, with a Lao version below it) says in full substance:
+this is the second of seven teacher's guides, developed to give teaching techniques alongside
+the textbooks; it carries the necessary steps of teaching with clear instructions teachers can
+follow easily; it gives teachers and students ideas for preparing teaching aids to use in
+class by themselves; it includes the keys of the lessons, some reading texts for listening,
+some songs and games. Teaching works when teachers read the guide and the textbook before
+teaching. The guide was produced under time pressure and could not be probed into every
+needed area; some minor errors may also be contained in some instructions; the Foreign
+Language Research and Resource Centre welcomes comments and suggestions. Signed: Vientiane
+Capital, 01 February 2010, Research Institute for Educational Sciences.
+
+Method, as the G6 guide already showed, lives in the unit overviews and the numbered steps
+rather than a method chapter: English objective lines per lesson, steps that mirror the
+student book activity by activity, a printed key for every closed exercise, and a printed
+script for every listening the student book only numbers. New at this level: the guide now
+also prints full **model answers** for the open writing tasks (a model paragraph for
+Write-about-your-house, guide printed p.64; possible answers for the town Look-and-say,
+printed p.139) and marks game procedures in English (I Spy, Simon Says, the Mrs. Brown memory
+game, the would-like scoring game).
+
+### What the guide adds, unit by unit
+
+**U1 LIKES AND DISLIKES** (printed pp.1–14) — The anagram/matching key solved in print
+(tea–j, water–i, fruit–f, meat–g, rice–h, coffee–e, fish–d, milk–c, vegetables–b,
+lemonade–a); the word square solved in place; five hobby listening scripts in full
+(Porn/Thailand, Tuti/Malaysian, Kim/Chinese, Kongkham/Savannakhet, Yuko/Japanese); the
+Bounchanh–Phoukeo–Bounmy listening script with its ✓/✗ answer table; the Listen-and-complete
+key by picture (A–I: "I love eating ice-cream" … "I dislike drinking coffee"); Read-and-
+complete keys for like/likes (5 items), don't/doesn't (6), Do/Does (5); model answers
+("Davanh likes bread, but her friends don't").
+
+**U2 (going to)** (printed pp.15–25) — The director dialogue script in full. The Grammar note
+gives **be going to TWO uses**: a future plan **and a prediction from present evidence**
+("Look at those clouds. It's going to rain") — the prediction use is the guide's addition; the
+student book tables only the plan use. The work-plan key (seven "They're going to…"
+sentences); Read-and-complete keys A (6 items) and B (the dialogues); the Read-and-match key;
+the football-match dialogue script in full; Soumaly's weekend answers (six day-parts); the
+five-children table answers; the chant script prints the **question lines only** ("What are
+you going to do? / Tonight… / This weekend… / Next week…") — its answers are not printed; the
+summer-holiday script in full; the word-order key; the picture answers.
+
+**U3 NOW AND THEN** (printed pp.26–38) — The Vansy/Soumaly script; the caption answers (8);
+the always/usually/never listening script with its answer table; the Choose-and-complete key
+(6); the change-to-continuous key (5); **the Vilayvanh passage delivered as a listening
+script** (the student book prints it as a reading); the Read-and-list key (the irregular
+sequence was/lived/had/were/went/walked/came/felt/left); agree/disagree keys with the
+corrections spelled out; the Kham Read-and-choose text printed completed; the three-tense
+dialogue script with keys; and the **full three-tense grid key** (present simple / present
+continuous / past simple, printed p.38).
+
+**U4 WHOSE…IS THIS?** (printed pp.39–~53) — The belongs-to grammar restated; the
+Listen-and-match script and key (Maly/Bounmy: books→Bounta, rubber→Vansy, keys→me,
+pencil→Soumaly); the Read-and-complete key; the wind passage's verb lists (regular: finished,
+landed, happened, laughed, joked, cleaned; irregular: became, blew, flew, ran, was, were);
+the definition-match key; the pronoun→possessive-adjective table key; the messy-room Read
+key (6 sentences); the Somphone classroom listening script in full with its inventory key;
+the Listen-and-choose TRUE/FALSE grid (the ticks are graphical). **Revision Units 1–4 keys**
+follow inside this span: the Phoukeo likes script; the Look-and-write key (7 sentences); the
+possessive match key; the Sompong two-weekends text keyed from its opening; the going-to
+Write key; the puzzle keys; the possessive crossword's solved grid with its clues.
+
+**U5 (directions)** — The ten model sentences (their Lao translations extract as glyphs); the
+map listening yes/no key with the six-question script; the Where's-he-going key with four
+direction scripts (item 4's tail runs off the page end as printed); the Viengkham
+true/false-with-corrections key (all six, corrections spelled out); the Read-and-match key
+(1–f, 2–d, 3–e, 4–a, 5–b, 6–c); Bounta's house dictation script; a model paragraph for
+Write-about-your-house (printed p.64); the Lesson 3 map listen-and-write key (1 Ministry of
+Education, 2 Supermarket, 3 Vientiane Capital library, 4 United Nations, 5 Talat Sao Mall,
+6 Morning Market) with all six direction scripts; the opposites key (12 pairs). The
+directions chant is **not** printed — procedure only.
+
+**U6 (feelings)** — The feeling-pair key and the six gapped Because-scripts; Because answers
+6–8; the Listen-and-choose key with the question scripts; the What's-the-matter listen key
+(a/b pairs) with scripts; the substitution-table key; the Read-and-complete key; the feelings
+word-square solution grid; **the cobra fable's Part A listening script printed** (printed
+p.76) with the verb-box key (six sentences). **Revision Units 1–6 keys** follow: the
+vocabulary group key; the Mouse Family labels with the two model sentences and the B/C keys;
+the map listening script (six sentences) with the yes/no key; the going-to Look-and-say key;
+the Read-and-choose key (items 1–6 seen); the personality-test key (the five Soumaly
+sentences); a word-order key.
+
+**U7 YOU MUST BE CAREFUL** (printed pp.81–94) — The road-sign key (all twelve signs keyed as
+must/mustn't sentences); the helmet Read-and-match key; the Simon Says procedure (English
+commands, Lao running text); the translation exercise's answers are Lao script on the page
+(not text-layer readable); the school-rules key (the eight must/mustn't sentences); the
+Philavong cloze key (good/often/usually/doesn't/are/leave…) with its Write key (six
+sentences); the phrasal-verb match key; the must/mustn't gap key; the zoo animal match key
+(12 animals); **the zoo bus-tour script printed in full** (printed pp.92–93) — the student
+book's tour-guide listening now has its text; the mustn't Listen-and-complete key (four
+sentences); the snakes cloze key (of/are/they/live/quickly/them).
+
+**U8 SHOPPING** (printed pp.95–111) — The Say-and-complete key (6); **the plural list keyed in
+full** (24 singular→plural pairs, incl. radio/radios, bus/buses, fish/fish, day/days); the
+countable/uncountable sorting key; the odd-one-out key (star, day, leg, meat, boy); the I Spy
+procedure; the gate-seller dialogue script in full (the student book's Listen-and-repeat);
+the some/any summary table; the price models keyed ("How much is the rice? — It's 7000 kip a
+kilo"; bananas "They're 4000 kip a bunch" — the guide writes its key numbers without the
+commas the student dialogue prints); the some/any completion key (8 sentences); the
+Food/Drink list key; the would-like grammar note (full and short forms) with the two
+shopkeeper–customer model dialogues; the three customers' basket lists keyed; and **the three
+long shop listening scripts printed in full** (printed pp.107–108 — peas 250 kip a kilo,
+chillies 300, cabbage 100; mangoes 820, watermelon 500, onions 550, carrots 1000; beans 200,
+lemons 150, bananas 200 a bunch, apples 800, chicken 900); the Mrs. Brown memory game as
+procedure with its worked example; the would-like scoring game script ("Yes, I would —
+1 score / No, I wouldn't — 0 score"); the like/would-like discrimination script (4+
+sentences). **Revision Units 7–8 keys** (printed p.111): the listen-and-tick sound key
+(egg✓, chicken✓, cheese✓, food✓, some✓, tomato✓ — ticks graphical in the student grid, the
+answers printed here); the restaurant dialogues keyed (a chicken sandwich, a salad and a
+Coke; a hot dog and French fries, milk to drink; the fish, coffee and some water; chicken
+and French fries, and tea).
+
+**U9 COMPARING** (printed pp.112–124) — The How + adjective grammar note (How old / tall /
+fat / far / deep…, with How much vs How many separated); the Manotham question set as the
+listen-and-repeat script; the comparative true-sentence key (7: Vientiane bigger than Pakse,
+giraffes taller than horses, Luang Prabang older than Vientiane, elephants heavier than
+zebras, apples cheaper than bananas, June hotter than January, ice cooler than water); the
+-er/-est spelling rules restated with tables; the Complete key (11 rows: smaller/smallest,
+taller/tallest, wider/widest, larger/largest, bigger/biggest, hotter/hottest, better/best,
+**bad/worst** — the row prints the base adjective and the superlative only, wider/widest,
+prettier/prettiest, heavier/heaviest, slower/slowest); the A/B pattern key, which carries
+present-perfect pattern sentences in the superlative frame ("It's the prettiest cat I've ever
+seen", "He's the most interesting teacher I've ever met") — pattern exposure only, the tense
+is still never taught in Book Two; the circle-order key; the spelling-family match key;
+**the two-cities text printed as a Script** (printed pp.122–123, both halves: the Vientiane
+half and the Luang Prabang half); the true/false key with corrections; the word-square key
+(YOUNG, CHEAP, HEAVY, FAT, TALL); and **the "place in the sun" song's opening printed**
+(printed p.124, under Song, Sounds, Rhymes: the long-lonely-stream verses and the
+place-in-the-sun chorus lines, breaking off mid-line at the page end — the rest is not
+printed).
+
+**U10 THE WEATHER** (printed pp.125–135) — The weather-picture label key (stormy, foggy,
+cold, windy, hot, rainy); **the five-province forecast script printed in full** (printed
+p.130: Champasak hot and cloudy, max 30 °C; Savannakhet 32, hot and clear; Vientiane Capital
+very hot, expected to reach 36, rain also expected; Luang Prabang warm and cloudy, max 26;
+Phongsaly cool with morning fog, 19) — the guide's own note flags **will** as the forecast's
+word, so Book Two does teach will, inside the weather unit, after all; the seasons cloze key
+(are, is, usually, months, in); the seasons Read answers (two seasons, wet and dry; July the
+wettest month; the dry season begins from December; April the hottest month); the comparative
+Complete key (hotter than, wettest, cooler than, the hottest, wetter than, the coldest); the
+Australia answers (8 — item 8's key repeats the textbook sentence "People go to swim to the
+beach" as printed); the seasons Read-and-complete key (5); the weather-adjective strip keyed
+through Lao-script phonetic spellings; the adjective-formation key (windy, foggy, stormy,
+cloudy, rainy, snowy); and **the Song for all Seasons printed in full** (printed p.135 — the
+"You and me, always together" song, verses for winter and spring; the "How's the weather?"
+Let's sing of Lesson 1 is procedure only, no words printed).
+
+**U11 REVISION (Units 1–10)** (printed pp.136–139) — A key section, not teaching steps. The
+three-tense Complete keyed as a full table (7 verbs across present simple / present
+continuous / past simple, incl. "I am putting on my hat / I put on my hat"); a **model
+paragraph** for the Write task — the Bounsy-and-Khamdy river trip with First/Then/Finally
+spelled out in the text and the times keyed (caught the bus at half past seven, arrived
+around eight o'clock, home at five); the zoo story answers (5 short answers + the True/False
+corrections: the monkey put **the woman's** bag in the tree; **Keopha** rode the elephant);
+the feelings Read-and-complete key (ill, happy, cold, bored, good); the mixed-questions
+Complete key (5, incl. "Where is George from? — He is from Spain"); the comparative chains
+key (ages: Paula oldest, Linda youngest; heights: Jack tallest; item 3 trailing "Linda isn't
+the shortest"); the ten-item **tick-the-correct-sentence key** (name's → Her name's Soumaly;
+We house → Our house; "Yes, I like" → "Yes, I do"; object pronouns her/me; "I don't like" →
+"I don't like it"; How many money → How much money; a lamps → any lamps; What did you go →
+Where did you go; cans → can; present simple for tonight → We're going to the movies); the
+puzzle contents key (ten months — January, February, March, April, May, July, August,
+September, October, November as printed, June and December not in the puzzle; three seasons:
+spring, summer, winter; three parts of the day: morning, evening, night); and the town
+Look-and-say **possible answers** with four full direction dialogues (cinema, post office,
+newsagent, supermarket/theatre, Italian restaurant). The book ends at printed p.139.
+
+### What settles open points in the student filing
+
+- **Going to:** the guide's Grammar note gives the tense a second use — prediction from
+  present evidence ("Look at those clouds. It's going to rain") — where the student book
+  tables plans only (U2, guide printed pp.15–25).
+- **Will:** the student filing recorded will as untabled use only. The guide shows it is the
+  weather unit's own word: its U10 Lesson 2 note names will for the forecast before printing
+  the script, and the seasons cloze runs on it (guide printed p.130). Book Two's will is the
+  forecast will — taught by use and named by the guide, still never tabled.
+- **"LuangPrabang":** the guide's summer-holiday script spells **Luang Prabang** correctly
+  (two words), settling the student book's one-word slip as the student book's own.
+  ("Grand parents" stands as two words in the guide too.)
+- **Anouxay/Anuxay:** the guide's yes/no key spells **Anuxay** — the student book's split
+  settles toward Anuxay.
+- **The present perfect:** confirmed absent as a taught structure from the guide as well —
+  it surfaces only inside the U9 superlative pattern key ("the prettiest cat I've ever
+  seen"). Laos Book Two cannot stock Level 18's Present Perfect lesson; the filing's negative
+  stands on both books now.
+- **Songs:** the guide prints two songs the student book only assigns — the "place in the
+  sun" song's opening (printed p.124) and the Song for all Seasons in full (printed p.135).
+  Honest negatives: no other song or chant words are printed anywhere in the guide — the U1
+  and U2 chants print question lines at most, and the U5 directions chant, the U10 "How's the
+  weather?" song, and the U4 song slot carry procedure only.
+
+### New for the course (from this guide)
+
+- **Going To Later (Level 12):** the prediction use of be going to, with the clouds example
+  and the guide's two-use grammar note — Laos Book Two, guide printed pp.15–25 (U2). The
+  lesson's Laos count already stands via the student book; this deepens its sourced content.
+- **Nouns (Level 6):** the plural list keyed as a closed set of 24 pairs (guide printed
+  ~p.99) standing behind the student book's printed list (student p.101) — the key confirms
+  fish/fish and day/days as printed.
+- **The Town (Level 10/13 area):** the Revision's possible-answers set and four complete
+  direction dialogues (guide printed p.139) — model answers for the direction frames the
+  student book teaches in U5.
+- **Describing Words in a Sentence (Level 13):** the -er/-est Complete key as a closed
+  11-row set (guide printed p.119), and the two-cities Script (printed pp.122–123) as the
+  comparative/superlative reading in script form.
+- **Telling the Time / Past Actions (Levels 9/12):** the Revision model paragraph keys the
+  clock phrases inside a past narrative (half past seven, eight o'clock, five o'clock;
+  guide printed pp.136–137) and the three-tense table (printed p.136) keys Book Two's whole
+  tense system in one place.
+- Media-slot stock: the Song for all Seasons' printed words (guide printed p.135) and the
+  "place in the sun" opening (printed p.124) for the Stories/songs slots; the five-province
+  forecast script (printed p.130) as a listening text for the weather material.
+
+### Slips recorded as printed (the guide's own)
+
+- "It **belons** to Bounmy" — for *belongs* (U4 Read-and-complete key, printed p.43).
+- "Complete and **pratise**" — activity heading for *practise* (printed p.74).
+- "I'm not going to **watch** my hair" — for *wash*, in the Revision Units 1–4 going-to Write
+  key (printed p.54).
+- "There's a sock next to **The** sofa" — capital T mid-sentence (Revision Units 1–6,
+  Mouse Family key).
+- "**Luangprabng** is older than Vientiane" — missing the second *a*, in the U9 true/false
+  correction itself (printed p.122).
+- "Where's there hope for everyone" — for *Where there's hope*, in the printed "place in the
+  sun" song (printed p.124).
+- Inside its own listening scripts: "he sometimes **drink** water" and "eats rice and meat
+  **everyday**" (the Bounchanh script, U1).
+- The U9 Complete key's row 8 prints base and superlative only — "bad → worst" — with no
+  comparative in its row (printed p.119); filed as printed, not corrected.
+- Unit-overview headers mislabel two running heads ("Unit 1" printed over the Unit Nine and
+  Unit Ten overview pages).
+- The Introduction itself warns that "some minor errors may also contain in some
+  instructions" — the guide's own errata notice, and the slips above bear it out.
+
+### Closing block
+
+**FULLY READ:** the whole guide read page by page, PDF pp.1–143 (printed I–139), 2026-10-27
+— the Introduction and Contents, all eleven unit sections with their overview pages, lesson
+steps, scripts, keys and model answers, and the Unit 11 revision key section to the book's
+last page. The read copy is the mirror's lao-language-named file, content-verified as the
+English Grade 7 teacher guide by its cover and Introduction; the library record's named file
+is a different book (the PE guide) and is flagged at the head of this section as a record
+error. The guide's Lao procedure text extracts as mojibake; every point filed here rests on
+the printed English layer (objectives, grammar notes, models, scripts, keys), confirmed on
+the page in the citation check below.
+
+**CITATION CHECK PASSED 2026-10-27** — 20 anchors re-opened in the real PDF and confirmed on
+the page (printed page = PDF page − 4):
+1. Cover: "ENGLISH FOR LAO SECONDARY SCHOOLS", the "2" badge, the full credits list, MoE/RIES
+   2009 imprint — PDF p.1 (read on the render).
+2. Introduction: "This teacher's guide is the second in a series of seven teacher's guides" —
+   PDF p.2 (printed I).
+3. Introduction signed "Vientiane Capital, 01 February, 2010 / Research Institute for
+   Educational Sciences" — PDF p.2 (read on the render; the date's month extracts as glyphs).
+4. Contents: "Unit 8 SHOPPING … 95" and "Unit 9 COMPARING … 112" — PDF p.4 (printed III).
+5. U1 Listen-and-complete key, "I love eating ice-cream" — PDF p.16 (printed 12).
+6. U2 Grammar note: "Look at those clouds. It's going to rain" (the prediction use) —
+   PDF p.21 (printed 17).
+7. U3: Vilayvanh named through the unit's script/key pages — PDF pp.30, 36–38.
+8. U4 key slip: "It belons to Bounmy" — PDF p.47 (printed 43).
+9. Revision 1–4 key slip: "I'm not going to watch my hair" — PDF p.58 (printed 54).
+10. U5 map listening key, item 1 "Ministry of Education" — PDF p.70 (printed 66).
+11. Guide slip: "Complete and pratise" — PDF p.78 (printed 74).
+12. U6 cobra fable script — PDF p.80 (printed 76).
+13. U7 Simon Says procedure — PDF p.89 (printed 85).
+14. U8 price key: "How much is the rice? — It's 7000 kip a kilo" — PDF p.106 (printed 102).
+15. U8 shop script: "Two hundred and fifty kip a kilo" — PDF p.111 (printed 107).
+16. U9 two-cities Script: "Vientiane is the capital of Laos" — PDF p.126 (printed 122).
+17. U9 key slip: "Luangprabng is older than Vientiane" — PDF p.126 (printed 122).
+18. U9 song printed: "Like a long, lonely stream" — PDF p.128 (printed 124).
+19. U10 forecast Script: "In Champasack it will be hot and cloudy" — PDF p.134 (printed 130).
+20. U10 Song for all Seasons: "You and me, always together" — PDF p.139 (printed 135);
+    and U11 three-tense key table, "I am putting on my hat" — PDF p.140 (printed 136).
+Negative control: the G6 guide's "nock on the door" slip does **not** occur in this book —
+searched and absent, as expected.
+
+**Course filing state:** FILED — this section stands in
+`english/books/laos.md`. The library-record error at its head
+needs a textbooks-side correction: the secured G7 English
+teacher copy is the PE guide; the real guide (6,307,629 bytes,
+143 pp) sits at the mirror path named in the warning.
