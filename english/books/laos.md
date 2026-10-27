@@ -241,3 +241,519 @@ commit (file facts, and the "Cleanthe board" slip on printed p.52).
 **FULLY READ 2026-10-27.** Read page by page from the text layer (the book has a real text layer for English); the picture-carried pages were checked on renders: the 11–20 number words (p.6), the alphabet song page (p.9), the word-tile exercise (p.61), the 31–50 number grid (p.71), the numeral↔word match (p.72), the seven days (p.83), the days match with its lowercase "wednesday" (p.84), the cover spread (PDF p.1) and the Vocabulary/Expressions back pages (PDF pp.151–153). **CITATION CHECK PASSED 2026-10-27** — anchors re-opened and confirmed on their pages: "Hello. I'm Pha. / What's your name? / My name is Noy" (p.1) · contraction box "I am = I'm / What is = What's" (p.1) · capitals matched to lowercase, A–Z (p.3) · "eleven 11 … twenty 20" (p.6) · the alphabet as the Let's sing page (p.9) · "What's this? — It's a pencil" (p.10) · song line "It's a p_nc_l" (p.14) · "Is this a ruler? — No. It's a calculator" (p.15) · "This is a pen / These are pens · It / They" (p.20) · "How many pens? — Two pens" (p.23) · "12+5= 17 seventeen" (p.26) · "Ten little purple sneakers" (p.27) · "Mom, I am home. This is my friend, Vanh" (p.28) · The family song (p.36) · "Who's she? — She's my mother" (p.40) · "old ≠ young / tall ≠ short" (p.45) · "Clean the board, please. — You're welcome" (p.49) · "do not = don't / we are = we're" (p.54) · "Let's clean the desk. — Yes. Let's do it" (p.58) · word tiles "clean / Let's / table / the" (p.61) · "Can you sweep the floor? — Yes, of course / I'm sorry. I'm busy" (p.62) · "I'm sixteen years old" (p.66) · birthday song "Now I'm seven years old" (p.69) · "thirty-one 31 … fifty 50" (p.71) · word search "forty one" (p.74) · "How's the weather today? — It's hot / It's cloudy" (p.78) · all seven days, Monday–Sunday (p.83) · "Today is wednesday" (p.84) · "Where's the book? — The book is on the table" (p.87) · "It's next to the chair" (p.88) · "They are = They're" (p.91) · puzzle list "in, on, under, next to" (p.95) · "Can she ride a bicycle? — Yes, she can" (p.96) · "I can't swim. No, I can't" song (p.104) · "I'm hungry. What do you want? I want an apple" (p.105) · "I'm thirsty. Do you want juice? — Yes, I do" (p.109) · "What shape is it? — It's a cross / It's a red cross" (p.117) · "What's your favourite colour? — Red. / What about you? — I like green" (p.122) · "What animals do you like? — I like birds" (p.126) · "Can the dog fly? — No, it can't" (p.131) · "My name's Sone" in Complete the dialogue (p.135) · odd one out with "sunny" (p.137) · Expressions "I'm fine, thank you." (PDF p.152) · no ISBN printed anywhere (cover, credits, back pages checked) — 41 anchors, all on their pages.
 
 **Course filing state:** MERGED 2026-10-27 — Laos Grade 4 now stands in Numbers (the 11–50 climb, sums in words), Days and Months (all seven days; the week-order split is now three ways), How Old Are You, Asking with Question Words (the book runs on question frames), and Describing Words in a Sentence (tall/short/old/young; "a red cross"). The Grade 4 teacher guide follows, then Grade 5.
+
+## Grade 4 (ປ.4) TEACHER GUIDE, 2012 — FULLY READ + CITATION CHECK PASSED 2026-10-27
+
+The teacher's twin of "STUDENT'S BOOK 2" — "TEACHER'S GUIDE 2,"
+the original 2012 guide, pairing lesson by lesson with the Grade 4
+student book filed above. Source copy: the public mirror the
+library's secured copy came from (GitHub Xaypanya/Lao-Textbook,
+`guides/primary/p4/p4_english.pdf`). Working copy verified against
+the library record before reading: **5,057,522 bytes, 89 PDF
+pages — both match the record exactly (VERIFIED-TEXT)**. The PDF
+is print-protected the same way as the student book (copying
+disabled, RC4), its English text layer is clean, and its Lao layer
+extracts as mojibake under the same legacy font encoding — the Lao
+was read on rendered pages where it mattered, and this filing says
+so wherever a point rests on Lao.
+
+## The book itself
+
+"ENGLISH FOR LAO PRIMARY SCHOOLS — TEACHER'S GUIDE 2 — GRADE 4,"
+Ministry of Education and Sports, Research Institute for
+Educational Sciences (RIES), **2012**. PDF p.1 is the whole cover
+spread (back cover, spine, front cover on one landscape sheet),
+checked on the render: the front cover repeats the student book's
+two foxes ("What's your favourite colour?" — "Green," the
+thought-bubble tree) under a rainbow "TEACHER'S GUIDE" arc and a
+pink "2" disc, on green where the student cover runs pinker; the
+spine reads "ENGLISH FOR LAO PRIMARY SCHOOLS GRADE 4" with the
+"2"; the back cover is the same blank pink panel with its one
+short Lao printer line left empty. Credits (PDF p.2) are the
+student book's team unchanged: Advisor Ms. Phouangkham Somsanith;
+Editor in Chief Assoc. Prof. Dr. Bouasavanh Keovilay; Managing
+Editors Khamphanh Phimsipasom and Viengkham Phonpraseuth; Writers
+Manivone Phaxayavong, Bouakeo Vilaylath, Thongsouk Keomany,
+Bounthapany Bounxouay; design and layout Khonesavanh
+Chanthavixay. **No ISBN is printed anywhere in the guide** —
+checked on the cover spread and the credits page, the same as the
+student book. PDF p.3 is a Lao preface, the twin of the student
+book's. Every interior page carries the footer "Ministry of
+Education and Sports — Research Institute for Educational
+Sciences," a printed folio, and the faint slanted Lao "RIES"
+watermark. **Page offset: printed folio = PDF page − 9** (nine
+front-matter pages: cover spread, credits, Lao preface,
+Introduction, Acknowledgements, two Contents pages, two method
+pages). All page numbers below are the guide's printed folios;
+the student-book page each activity belongs to is the "(page N)"
+the guide itself prints beside every activity heading.
+
+**Shape of the guide.** After the front matter it is one long
+lesson-by-lesson companion, printed pp.1–80: Lesson 1 p.1,
+Lesson 2 p.6, Lesson 3 p.11, Lesson 4 p.16, Lesson 5 p.21,
+Lesson 6 p.23, Lesson 7 p.28, Lesson 8 p.33, Lesson 9 p.38,
+Lesson 10 p.43, Lesson 11 p.45, Lesson 12 p.50, Lesson 13 p.55,
+Lesson 14 p.60, Lesson 15 p.65, Lesson 16 p.67, Lesson 17 p.72,
+Lesson 18 p.77 (its own Contents, PDF pp.6–7). Every lesson
+opens with the same Lao header block: objectives in Lao; the
+lesson language (the target patterns, quoted in English); a time
+line in Lao (Lesson One's reads 4 periods, and each section
+carries its own smaller time in brackets — "(2 periods)" on
+Lesson One's Section A, read on the render); and a preparation
+line in Lao naming the aids to get ready (Lesson One's names
+materials for counting 1–20). Then each student-book activity is
+taken in order under its own heading — "1 Look, listen and
+repeat (page 1)" and so on — with Lao classroom-procedure bullets
+first and the English payload after: the listening script (headed
+by a Lao word that extracts as mojibake, rendered here as
+"Script:"), the answer key (likewise "Key:"), the model dialogue
+for Let's talk, or the song's words. There is no back matter: no
+word list, no test bank, and the words test / assess / score /
+exam appear nowhere in the book's English layer — checking runs
+entirely through the printed keys and the four revision lessons.
+
+## The method pages in full
+
+**The Introduction (PDF p.4, English, unnumbered).** The guide
+exists, it says, "to help teachers of grade four perform their
+teachings effectively," answering the same reform the student
+book's introduction names: general education lengthened from 11
+years to 12, English entering the primary curriculum from Grade 3
+in academic year 2009–2010, the books written by the Foreign
+Language Research and Resource Center at RIES with the Faculty of
+Letters, National University of Laos, funded by AusAID and Save
+the Children Norway. Its contents promise, in its own framing:
+the teaching techniques for each step of the lessons; some
+instructions for using teaching aids; **all answer keys and
+listening texts provided for teachers**; and information for
+teachers and students on how to create teaching aids for their
+own classes. It closes with the same admission as the student
+book — produced under time pressure, "some minor errors could
+not be avoided" — and an invitation for comments as a
+contribution to quality assurance. One wording slip of its own:
+it prints the funder as "Save Children Norway" (no "the"), here
+and again in the Acknowledgements (PDF p.5, headed
+"ACKNOWLEGEMENTS" as printed, the student book's slip repeated).
+
+**The how-to-teach pages (PDF pp.8–9, in Lao, unnumbered; read
+on the renders).** A Lao-headed section in two pages. It first
+states the book's shape: 18 lessons — 14 teaching lessons and 4
+revision lessons — each lesson in two sections, A and B, and each
+section built from 6 to 8 activities. It then lists the eight
+steps in English with a Lao gloss beside each: 1. Look, listen
+and repeat. 2. Look and say. 3. Read and match. 4. Listen and
+tick. 5. Look and write. 6. Let's write. 7. Let's talk. 8. Let's
+play or Let's sing. A paragraph follows on what the activities
+train — the four skills named in Lao (listening, speaking,
+reading, writing). The rest of the two pages is short dash-bullets
+of classroom procedure under each step in turn (steps 1–3 on the
+first page, step 3's tail and steps 4–8 on the second), all in
+Lao: repetition counts appear inside them (pupils hear and repeat
+2–3 and 3–4 times at the drill steps), pair and group arrangements
+at the talking step, and one closing bullet for the song/game
+step. Because the section is Lao-only and this filing does not
+translate Lao it cannot verify, the procedure bullets are
+recorded here by shape, not rendered into English; the lesson
+headers' English payloads below are what the guide adds that the
+course can use.
+
+## What the guide adds, lesson by lesson
+
+The standing pattern, true of every lesson: the full **listening
+script** for every Listen and tick (the audio the child hears,
+printed as numbered lines with the key's ticks marked beside them
+in the book's "1–a / 2–b" style), the **answer key** for every
+Read and match, Look and write, Let's write and puzzle, a **model
+dialogue in full** for every Let's talk, and the **word-for-word
+song text where the guide chooses to print it** (four of the nine
+songs/chants — see the songs paragraph after Lesson 18). What
+follows is only what is new or settles something, lesson by
+lesson; where a lesson adds nothing beyond the standing pattern,
+it says so in one line.
+
+- **Lesson 1 Names and Counting (guide pp.1–5).** The name set's
+  Lao readings are printed as a teaching table (Pha, Noy, Aloun,
+  Sack, Kham, Boun, each with its Lao spelling, guide p.1). The
+  alphabet matching on student p.3 is keyed as a complete printed
+  grid — every capital paired with the lowercase letter it matches
+  (guide p.2). The first listening script in the book is four bare
+  number words: one, seven, five, eight (guide p.2). The counting
+  dialogue's audio script is printed with its classroom framing —
+  the teacher holds up a number card and asks "What number is
+  it?" — and the Read and match key pairs the teen words to their
+  numerals in full (fifteen 18, thirteen 11, eighteen 15, eleven
+  13, twelve 12, nineteen 14, twenty 19, fourteen 20, sixteen 17,
+  seventeen 16, guide p.4). The counting Listen and tick script
+  runs "It's nineteen (19) / fifteen (15) / twelve (12) /
+  thirteen (13)" (guide p.5). **The alphabet song gets its only
+  printed words anywhere in the pair of books**: the guide prints
+  the song's closing lines — "Now i know my A B C / Next time
+  won't you sing with me" (guide p.5, lowercase "i" as printed) —
+  where the student book's song page prints only the 26 letters.
+- **Lesson 2 Classroom objects, singular (guide pp.6–10).** The
+  Read and match key confirms the student book's own oddity as the
+  expected answer: "It's a chalk" stands in the keyed list (guide
+  p.7). The listening scripts run "What is it? It's a desk /
+  bench / chalk / chair" (Section A, guide p.7) and "Is it a
+  pencil case? Yes, it is. / Is it a calculator? No. It's an
+  eraser. / Is it a bag? No. It's a chalk. / Is it a sharpener?
+  Yes, it is." (Section B, guide p.10). The Let's sing (student
+  p.14) gets teaching notes only — its missing-letter frame is the
+  student book's own print; the guide prints no fuller text.
+- **Lesson 3 Classroom objects, plural (guide pp.11–15).** The
+  opening dialogue is unpacked into a four-line teaching table —
+  "What's this? It's a book. / What's this? It's a pen. / What
+  are these? They are books. / What are these? They are pens." —
+  the guide's one place where it lines the singular and plural
+  frames up side by side (guide p.11). The Look and say note
+  spells out how the twenties are built: say twenty (20), then
+  "twenty-one, twenty-two…" (guide p.14). The number listening
+  script counts chairs (twenty), students (thirty), tables
+  (twenty-two), books (twenty-three) (guide p.15), and the Look
+  and write key gives the arithmetic answers as words: seventeen,
+  twenty-five, twenty-three, twenty-four, eight (guide p.15) —
+  confirming the student book's p.26 sums from the teacher's side.
+  The sneakers counting song (student p.27) gets notes only; its
+  words are the student book's print.
+- **Lesson 4 Friends and Family (guide pp.16–20).** The objectives
+  quote the meeting language in full ("It's nice to meet you /
+  Nice to meet you, too / This is my friend / This is my
+  father…"). The Read and match keys are printed for both sections
+  (five items in A, six in B, guide pp.17–18), and both listening
+  scripts are name-carried ("This is my friend, Kham," "Hi,
+  Vieng," guide p.17). The Let's write key prints the completed
+  gapped dialogue whole: "Hi, Mom! I'm home. / This is my friend,
+  Kham. / This is my mother. / It's nice to meet you. / It's nice
+  to meet you, too." (guide p.19). **The family song is printed in
+  full** (guide p.20): four verses — mother, father, sister,
+  brother — each verse the same three lines ("This is my mother.
+  / Nice to meet you. / Nice to meet you, too."). One slip of the
+  guide's own: Section A's Let's talk is headed "(page 34)" where
+  the student book's Let's talk stands on p.31 (guide p.17).
+- **Lesson 5 Revision 1–4 (guide pp.21–22).** The seven-item Read
+  and match is keyed (guide p.21). The listening script settles
+  two things the student filing flagged as revision-only patterns:
+  the audio really does carry "How old are you?" (Lesson 9's
+  pattern, early) and "There are eleven chairs" — the book's one
+  "There are," confirmed as a scripted line, not a misprint
+  (guide p.22). The Let's write key prints "Hi, my name is kham."
+  with the lowercase k the student page's gapped model implies
+  (guide p.22).
+- **Lesson 6 Family members (guide pp.23–27).** The vocabulary
+  header glosses the family set in Lao and adds the guide's one
+  grammar note in mixed Lao and English: "who's, he's, she's"
+  are who is, he is, she is, with he marked male and she female
+  (guide p.24) — the teacher-side twin of the student book's
+  contraction box. The grandparents are glossed as two different
+  Lao words under the printed English "grand father / grand
+  mother," two words as in the student book's Look and say (guide
+  p.24). The describing key runs "My father is tall. / My mother
+  is short. / My brother is young. / My grandfather is old."
+  (guide p.26). **The "Who's she?" song is printed filled** (guide
+  p.27): "Who's she? She's my sister. / She's my mother. She's my
+  mother. / Who's he? He's my brother. / He's my father. He's my
+  father. / Family." — the student book leaves those answers
+  blank to fill; this is the guide's model filling.
+- **Lesson 7 Commands (guide pp.28–32).** The Look and say is
+  scripted as four little A/B role-plays, and they split two
+  ways: for Sweep the floor and Close the door the answer to
+  "Thank you" is "You're welcome," but for Clean the board and
+  Open the window the script runs "Very good. / Thank you."
+  (guide p.29) — and the Let's talk model is built on the second
+  shape: "Clean the board, please. / (the deed done) / Very good.
+  / Thank you." (guide p.30). That settles the point the student
+  filing left open: "Very good." — which stands in the student
+  book's Vocabulary and Expressions under Lesson 7 but on none of
+  Lesson 7's own pages — is the teacher's spoken reply inside
+  this lesson's practice, supplied by the guide. **The commands
+  chant is printed in full** (guide p.31): the four commands, each
+  once, in the order Open the window / Close the door / Clean the
+  board / Sweep the floor, all with "please." The Let's write key
+  gives the four verbs in order — Open, Close, Sweep, Clean
+  (guide p.30) — and the negative-commands listening script runs
+  "Don't talk! / Don't eat! / Don't sleep! / Don't copy!" (guide
+  p.32).
+- **Lesson 8 School Activities (guide pp.33–37).** The Let's
+  clean dialogue is printed as a seven-line word list with the
+  Lao beside each (clean the desk, erase the board, listen to the
+  teacher, read a story, write in the book, look at the board —
+  guide p.34). The word-tile exercise is keyed in full: "Let's
+  clean the table. / Let's erase the board. / Let's listen to the
+  teacher." (guide p.35). The Can you…? dialogue is printed as a
+  seven-line list the same way, requests and both answers ("Yes,
+  of course. / I'm sorry. I'm busy.") among them (guide p.36),
+  and its listening script is the four chore questions (guide
+  p.37).
+- **Lesson 9 Age and Counting 30–50 (guide pp.38–42).** The age
+  listening script runs 11, 14, 9, 12 years old (guide p.39). The
+  Look and match key prints the odd numbers paired: 33
+  thirty-three, 35 thirty-five, 37 thirty-seven, 39 thirty-nine,
+  40 forty, 42 forty-two, 44 forty-four, 46 forty-six, 50 fifty
+  (guide p.41). The counting listening script is four words —
+  forty-three, forty-one, forty, thirty-four (guide p.41) — and
+  the arithmetic key prints "16 x 2 = 32 thirty-two" (spelled
+  "thirty – two" with spaces in the guide), "50 − 7 = 43
+  forty-three," "22 + 13 = 35 thirty-five," "80 : 2 = 40 forty,"
+  "30 + 7 = 37 thirty-seven" (guide p.41). **The word-search is
+  printed solved in the guide** (guide p.42), and its word list
+  prints "forty-one" hyphenated — where the student book's own
+  search list (student p.74) prints "forty one" without the
+  hyphen; the guide's list runs thirty-one, forty-one, ten,
+  fifty, twenty, eight, nine. The birthday song (student p.69)
+  gets teaching notes only. One guide slip: the Look and write
+  heading reads "(pag 69)" (guide p.39).
+- **Lesson 10 Revision 6–9 (guide pp.43–44).** The eight-item
+  Read and match is keyed in a two-column grid (guide p.43). The
+  listening script mixes the revision's whole stock in five lines
+  — "My father is short. / Close the door. / Don't sleep. / Let's
+  read a story. / Feed the chickens." (guide p.44). The Let's
+  write key repeats Lesson 6's describing sentences and Lesson
+  7's commands, then the two arithmetic items, printing
+  "50 − 7 = 43 for ty - thr ee" with the word broken by spaces —
+  the guide mirroring the student page's gapped print rather than
+  correcting it (guide p.44).
+- **Lesson 11 Weather and Days (guide pp.45–49).** The objectives
+  quote both frames whole ("How's the weather today? — It's…";
+  "What day is today? — Today is…"). The weather Look and say
+  model dialogue prints "It' cold." — the guide's own dropped s
+  (guide p.46). The days dialogue script prints "Yes, it's." for
+  "Yes, it is." and "No. it's Tuesday." with a lowercase i (guide
+  p.48) — the student book's dialogue prints the full, correct
+  forms; these are the guide's slips, not corrections. The days
+  listening script is four bare day names: Saturday, Thursday,
+  Sunday, Wednesday (guide p.49). The weather song (student p.86)
+  gets notes only. Second "(pag …)" slip: "(pag 81)" (guide p.47).
+- **Lesson 12 Location (guide pp.50–54).** The Read and match
+  header names the exercise's whole point in English — match the
+  sentences with the four prepositions "(on, in, under, next to)"
+  (guide p.51). The listening scripts run the cat/pen/book/pencil
+  sentences in Section A and the plural cats/books/pencils set in
+  Section B (guide pp.51, 53). The Look and write carries two
+  model answers the student page leaves gapped: "The ruler is
+  under the book. / The chair is next to the desk." (guide p.51).
+  The Let's write key is the four prepositions in order — on,
+  under, in, next to (guide p.54) — and the puzzle's grid is
+  printed solved with its word list (in, on, under, next to,
+  chalk, desk, bag, guide p.54).
+- **Lesson 13 Outdoor Activities (guide pp.55–59).** The
+  objectives quote can / can't as the lesson's language. The Look
+  and say note for Section B lists its phrases in English —
+  "(play football, feed the pigs, play marbles, ride a horse…)"
+  (guide p.58). The Let's write keys give the missing verbs:
+  climb, dance, ride (Section A, guide p.57) and feed, fly, jump,
+  climb (Section B, guide p.59). The listening scripts run "He can
+  run. / She can dance. / She can ride a bicycle. / She can jump
+  rope." (guide p.56) and the four can't sentences (guide p.58).
+  The "I can't swim" song (student p.104) gets one line of notes
+  only; its words are the student book's print.
+- **Lesson 14 Food and Drink (guide pp.60–64).** This lesson's
+  objectives are the guide's only ones stated in English:
+  "Expressing hunger and thirst," "Expressing wants," "Asking
+  what someone wants" (guide p.60). The "I want…" sets are printed
+  as word lists with the Lao beside each — an apple, fish,
+  chicken, rice, bread, ice-cream (guide p.61) and juice, water,
+  apple juice, milk, orange juice (guide p.63). The Let's talk
+  note carries the guide's one contraction gloss outside Lesson
+  6: "No, I don't" and "Yes, I do" are unpacked in Lao as
+  short-answer forms (guide p.64). The word-tile Look and write is
+  keyed in full and in order — "I want milk. / I want orange
+  juice. / I want water. / I want apple juice." numbered 1, 2, 3,
+  4 (guide p.63) — the student page's own numbering prints 1, 1,
+  3, 4; the guide's key runs clean. The Let's play answers are
+  keyed by picture letter: "I want chicken. / I want an apple. /
+  I want water. / I want fish." (guide p.64).
+- **Lesson 15 Revision 11–14 (guide pp.65–66).** Beyond the
+  standing pattern, one thing: its listening script is the book's
+  widest mix in five lines — "It's cloudy. / I want ice-cream. /
+  I'm thirsty. / Where's the book? / Can you climb a tree?"
+  (guide p.66).
+- **Lesson 16 Favourite colour (guide pp.67–71).** The objectives
+  state the colour-before-noun point in the guide's own English
+  examples: "This is a red triangle. / This is a blue pen." (guide
+  p.67). The shape-teaching notes name the six shapes and the six
+  first colours in English inside the Lao (guide pp.67–68). The
+  listening script is six shape sentences — a yellow triangle, a
+  red cube, a blue circle, a purple rectangle, an orange cross, a
+  white cylinder (guide p.68) — and the Let's write key prints
+  all six as "This is a/an…" sentences (guide p.69). The colour
+  word-search is printed solved with its six-word list (white,
+  yellow, blue, orange, purple, red, guide p.70). The favourite
+  colour Let's talk model runs two speakers swapping "What's your
+  favourite colour? — I like yellow. — What about you? — I like
+  blue." (guide p.71). One guide slip in the Section B listening
+  script: "TWhat colour is it?" with a stray T (guide p.71).
+- **Lesson 17 Animals (guide pp.72–76).** The listening script
+  widens the animal stock exactly where the student filing said
+  the options do: "I like tigers. / I like lions. / I like
+  elephants. / I like bats. / I like pigs. / I like birds."
+  (guide p.73). The Let's write key prints the six gapped plurals
+  completed — bats, birds, frogs, lions, elephants, crocodiles
+  (guide p.74). The Let's talk frame is printed with all three
+  speakers lettered A, (B), C — "I like…….. / What animals do you
+  like? / I like ….too." — and with the plural "animals" where
+  the student book's own Let's talk frame (student p.130) prints
+  the singular "What animal do you like?" (guide p.74). One key
+  error of the guide's own: Section B's Read and match key prints
+  "(e)" twice — 1 (d), 2 (f), 3 (a), 4 (e), 5 (e), 6 (b) — for a
+  six-item match (guide p.75).
+- **Lesson 18 Revision 1–17 (guide pp.77–80).** The circle-the-
+  numbers script is printed: fifteen, thirty, fourteen, twenty,
+  eighteen, twenty-six, thirty-four, forty-seven — the teen/ty
+  pairs the ear must split (guide p.77). The Complete the dialogue
+  key prints the filled dialogue whole, and its third blank takes
+  "My," producing "My name's Sone." — confirming from the
+  teacher's side the student book's one use of name's (guide
+  p.78). The Look and write key lists seven built sentences, and
+  its fifth is "She is my mother." where the student book's own
+  tile set (student p.136) builds "She is my grandmother." — the
+  one place the guide's key and the student page disagree; both
+  stand as printed. The crossword grid is printed solved with its
+  eight words (water, ruler, bat, pen, frog, table, orange, dog,
+  guide pp.78–79), and the odd-one-out sets are reprinted (the
+  "sunny" set among them, uncorrected, guide p.79). The Bingo
+  page prints a filled sample card — 31, 40, 42, 23 / 34, 43, 32,
+  44 / 25, 48, 27, 45 / 29, 10, 18, 9 — with the caller's routine
+  in Lao (guide p.80). The Answer the questions script asks "Do
+  you want eggs?" — eggs appear nowhere in the student book; the
+  guide's audio adds them (guide p.80). The final Let's talk
+  frames are the three questions: How old are you? / How's the
+  weather? / What's your favourite colour? (guide p.80).
+
+**The songs, settled.** Of the student book's nine songs and
+chants, the guide prints words for four: the alphabet song's
+closing two lines only (guide p.5 — the rest of that song is the
+alphabet itself), the family song in full (guide p.20), the
+"Who's she?" song in a filled model version (guide p.27), and the
+commands chant in full (guide p.31). The other five — the
+missing-letter "What's this?" song, the sneakers counting song,
+the birthday song, the weather song, and the "I can't swim" song
+— get Lao teaching notes only; their words stand in the student
+book's own print, so nothing is lost between the two books.
+
+## What the guide settles against the student-book filing
+
+- The alphabet song is not wordless after all: its closing lines
+  are printed in the guide ("Now i know my A B C / Next time
+  won't you sing with me," guide p.5).
+- The "Who's she?" song's blanks have a model filling (guide
+  p.27).
+- "Very good." belongs to Lesson 7 after all — as the teacher's
+  spoken reply in the guide's Look and say role-plays and Let's
+  talk model (guide pp.29–30), though it still never appears on
+  the student book's own Lesson 7 pages.
+- "There are eleven chairs" and the early "How old are you?" in
+  Revision 5 are real audio lines, confirmed in the printed
+  script (guide p.22).
+- The word-search list's "forty one" is hyphenated "forty-one"
+  in the guide's solved search (guide p.42).
+- The Lesson 14 tile answers run 1–4 in the guide's key (guide
+  p.63); the student page's 1, 1, 3, 4 numbering is its own slip.
+- Lesson 17's question is "What animals do you like?" in the
+  guide's Let's talk frame (guide p.74), plural as the lesson
+  teaches it.
+- Not settled, and now doubled: Lesson 18's built sentence — the
+  student tiles say "She is my grandmother." (student p.136),
+  the guide's key says "She is my mother." (guide p.78). Both
+  recorded as printed.
+
+## New for the course (from this guide)
+
+- **The whole audio layer of Grade 4 in print** — every Listen
+  and tick script for Lessons 1–18 (guide pp.2–80), the layer
+  the student book carries only as sound. The built lessons'
+  listening questions can now be stocked from Laos Grade 4 with
+  their exact heard lines and keyed answers.
+- **Conversation (Level 5) stock**: the teacher's praise reply
+  "Very good. — Thank you." inside the commands practice (guide
+  pp.29–30); the two-speaker favourite-colour swap with "What
+  about you?" modelled whole (guide p.71).
+- **Song stock completed**: the alphabet song's closing lines
+  (guide p.5), the family song in full (guide p.20), the filled
+  "Who's she?" song (guide p.27), the commands chant in full
+  (guide p.31).
+- **Numbers (Level 9) stock**: the teen-word↔numeral key in full
+  (guide p.4); the final revision's heard number list — fifteen,
+  thirty, fourteen, twenty, eighteen, twenty-six, thirty-four,
+  forty-seven (guide p.77); a filled Bingo card to 50 (guide
+  p.80).
+- **Question shapes with their heard answers**: the scripts give
+  every question frame of the book its exact answered examples —
+  the safest stock for the Questions lessons' listening side
+  (notably the plural frames of Lesson 12 and the can/can't sets
+  of Lesson 13, guide pp.51–58).
+- **A teaching-shape note for the course's own lesson plans**:
+  the series' fixed eight-step activity machine, stated in the
+  guide's method pages (PDF pp.8–9) with its drill counts — the
+  same shape the Grade 3 guide's method pages describe for Book
+  1, here confirmed for Book 2.
+
+**Slips recorded as printed (the guide's own, beyond the student
+book's list):** the funder printed as "Save Children Norway"
+without "the" (PDF p.4 and PDF p.5) · "ACKNOWLEGEMENTS" repeated
+from the student book (PDF p.5) · "Now i know my A B C" with a
+lowercase i (guide p.5) · Lesson 4 Section A's Let's talk headed
+"(page 34)" for the student book's p.31 activity (guide p.17) ·
+"(pag 69)" (guide p.39) and "(pag 81)" (guide p.47) for "(page
+…)" · the describing key's arithmetic spellings mirrored from the
+student print: "thirty – two" (guide p.41) and "for ty - thr ee"
+(guide p.44) · "It' cold." for "It's cold." in the weather model
+(guide p.46) · the days dialogue scripted "Yes, it's." and "No.
+it's Tuesday." (guide p.48) · "TWhat colour is it?" with a stray
+T (guide p.71) · Lesson 17 Section B's Read and match key printing
+"(e)" for two different items (guide p.75) · the Lesson 18 key's
+"She is my mother." against the student tiles' "She is my
+grandmother." (guide p.78; student p.136) · a file note, not
+print: this PDF is print-protected (copying disabled, RC4) and
+its Lao text extracts as mojibake under a legacy font encoding —
+the English layer is clean; the Lao was read on the rendered
+pages (cover spread, both method pages, Lesson One's opening
+page) where it mattered.
+
+**FULLY READ 2026-10-27.** Read page by page: the English text
+layer throughout (the guide has a real text layer for English
+and for every script and key), with the picture- and Lao-carried
+pages checked on renders: the cover spread (PDF p.1), the two
+Lao method pages (PDF pp.8–9), and Lesson One's opening page
+(printed p.1) for the header block's shape. **CITATION CHECK
+PASSED 2026-10-27** — anchors re-opened and confirmed on their
+pages: cover "TEACHER'S GUIDE 2" with the fox pair (PDF p.1) ·
+credits identical to the student book's, no ISBN (PDF p.2) ·
+Introduction "help teachers of grade four perform their
+teachings effectively" + "all answer keys and listening texts are
+provided" (PDF p.4) · Contents: Lesson 18 at printed p.77 (PDF
+p.7) · the eight steps listed in English (PDF p.8) · name table
+"Pha / Noy / Aloun / Sack / Kham / Boun" (guide p.1) · alphabet
+matching grid A–Z (guide p.2) · first script "1. (one) 2. (seven)
+3. (five) 4. (eight)" (guide p.2) · teen key "fifteen 18 …
+twenty 19" (guide p.4) · alphabet song "Now i know my A B C"
+(guide p.5) · key "It's a chalk" (guide p.7) · singular/plural
+table "What are these? They are books." (guide p.11) ·
+"twenty-one, twenty-two…" note (guide p.14) · Let's write key
+"Hi, Mom! I'm home." (guide p.19) · the family song in full
+(guide p.20) · script "There are eleven chairs" (guide p.22) ·
+"who's, he's, she's" note (guide p.24) · describing key "My
+father is tall." (guide p.26) · filled song "Who's she? She's my
+sister." (guide p.27) · "Very good. / Thank you." role-play
+(guide p.29) · chant in full (guide p.31) · script "Don't talk!
+/ Don't eat! / Don't sleep! / Don't copy!" (guide p.32) · tile
+key "Let's clean the table." (guide p.35) · Can you…? list with
+"I'm sorry. I'm busy." (guide p.36) · match key "33 –
+thirty-three … 50 – fifty" (guide p.41) · solved word search
+with "forty-one" hyphenated (guide p.42) · listening script "My
+father is short. / Close the door. / Don't sleep." (guide p.44)
+· objectives "How's the weather today?" (guide p.45) · "It'
+cold." (guide p.46) · days script "Saturday / Thursday / Sunday
+/ Wednesday" (guide p.49) · "(on, in, under, next to)" (guide
+p.51) · model answers "The ruler is under the book." (guide
+p.51) · objectives in English "Expressing hunger and thirst"
+(guide p.60) · tile key "I want milk. / I want orange juice."
+(guide p.63) · widest script "It's cloudy. / I want ice-cream."
+(guide p.66) · "This is a red triangle. / This is a blue pen."
+(guide p.67) · script "I like tigers." (guide p.73) · Let's talk
+frame "What animals do you like?" (guide p.74) · double "(e)"
+key (guide p.75) · circle script "fifteen / thirty / fourteen /
+twenty" (guide p.77) · "My name's Sone." in the keyed dialogue
+(guide p.78) · "She is my mother." in the Look and write key
+(guide p.78) · filled Bingo card 31, 40, 42, 23… (guide p.80) ·
+script "Do you want eggs?" (guide p.80) — 40 anchors, all on
+their pages.
