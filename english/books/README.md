@@ -23,6 +23,7 @@ the page it lives on and the course lesson it was filed into.
 | [nicaragua.md](nicaragua.md) | Nicaragua — Inglés Activity Books 1, 3, 4 + Multigrado (G10 secondary in hand) | AB1 + Multigrado READ COMPLETE 2026-10-25 · **AB3 + AB4 + G10 book + G10 module FULLY READ + CITATION CHECKS PASSED 2026-10-26** |
 | [mexico.md](mexico.md) | Mexico — SEP Projects and Readings, 1° Secundaria (Grade 7) | **FULLY READ + CITATION CHECK PASSED 2026-10-26 — MEXICO G7 COMPLETE** (2024, ISBN 978-607-579-568-3, accessible-format edition with answers inline; 20 NEM projects; the English spine runs simple present → questions/pronouns → progressive → modals → past simple → will/going to inside the projects) |
 | [bolivia.md](bolivia.md) | Bolivia — Lengua Extranjera compendium, Secundaria 1–6 (Grades 7–12) | **FULLY READ + CITATION CHECK PASSED 2026-10-26 — BOLIVIA COMPLETE** (Ministerio de Educación teacher compendium 2023–2024 reproducing all six student books; text layer is custom-encoded — the hazard is recorded in the file's head) |
+| [laos.md](laos.md) | Laos — English for Primary Schools Grade 3 (MoES/RIES, 2021) | **G3 STUDENT BOOK FULLY READ + CITATION CHECK PASSED 2026-10-27** (141 PDF pp; printed = PDF − 7; phonics-first spine s-a-t-i-p-n…, 7 units, 29 lessons) · teacher guide + Grades 4–12 queued |
 | [mongolia.md](mongolia.md) | Mongolia — English V–X (Grades 5–10) | **G6 + G7 + G8 + G9 + G10 FULLY READ + CITATION CHECKS PASSED 2026-10-26** (English VI 2019 4th printing; English VII 2019 3rd printing; English VIII 2019 3rd printing; English IX 2019 3rd printing; English X 2019 3rd printing; all image-only PDFs read from page renders) · G5 not in hand (private-repo release asset, unreachable here) · **in-hand set complete** |
 
 North Macedonia Grade 2: **book not opened yet** — the portal link in
@@ -36,4 +37,5 @@ Laos and Barbados: **finished countries added to the reading queue
 queued here (his correction that day). Laos holds English student
 books + teacher guides for Grades 3–12; Barbados holds Language Arts
 syllabi for Classes 1–4 (it publishes no government student
-textbooks). Their book files start when their first books are read.
+textbooks). Laos's book file started the same day (Grade 3 read);
+Barbados's starts when its first syllabus is read.

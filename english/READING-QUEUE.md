@@ -45,7 +45,7 @@ KG–Secondary 10 T1) whenever he calls for them.
 | Mauritania | English G12 (1) | **FULLY READ + CITATION CHECK PASSED 2026-10-26 — MAURITANIA COMPLETE** (Study English 6th Year, IPN 2025; grabbed direct from the library list's bsimr link) |
 | Iran | no subject-English books in the secured set | nothing to read for English |
 | Sierra Leone | no subject-English books in the secured set (English is the school language itself) | nothing to read for English |
-| Laos | English G3–G12 (22 items: student book + teacher guide per grade; G3 in two editions, 2021 the newer) | **FINISHED country — was missing from this queue until 2026-10-27 (his correction that day: the finished countries are the source pool, all of them).** Queued — reading starts at Grade 3, the first English grade |
+| Laos | English G3–G12 (22 items: student book + teacher guide per grade; G3 in two editions, 2021 the newer) | **FINISHED country — was missing from this queue until 2026-10-27 (his correction that day: the finished countries are the source pool, all of them).** **Grade 3 student book (2021) FULLY READ + CITATION CHECK PASSED 2026-10-27** — next: merge its basics into the built lessons, then the Grade 3 teacher guide |
 | Barbados | Language Arts (the English subject) Classes 1–4 syllabi (4 documents, held locally; Barbados publishes no government student textbooks — the ministry Grid A syllabi are its required set, the Ghana-curricula case) | **FINISHED country — was missing from this queue until 2026-10-27.** Queued — read like Ghana's curricula, after Laos |
 
 Reading notes and draft material from parallel reading fronts land in
