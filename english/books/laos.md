@@ -8164,3 +8164,496 @@ word-counted tasks — a paragraph of 50 words). The Grade 10
 teacher guide (152 pp in the library record) is the natural
 next read, on the series
 pattern; the Laos run then continues at Grade 11.
+
+## Grade 10 (ມ.5) TEACHER GUIDE — FULLY READ + CITATION CHECK PASSED 2026-10-27
+
+The teacher's guide pairing with *English 5 for Lao Secondary
+Schools* (the Grade 10 student book, filed above): "ENGLISH
+For Upper Secondary Schools" over a grey **5**, Ministry of
+Education and Sports / Research Institute for Educational
+Sciences (RIES), **2014**. **No ISBN printed anywhere** — the
+title page carries none and the whole text layer was searched
+(zero hits for "ISBN"), the same as every Laos book in this
+run.
+
+**The filename story, in full.** The library record's English
+teacher entry for Grade 10 (152 pages, 1,436,154 bytes,
+VERIFIED-TEXT) carries the note that its mirror filename
+labels the file "Lao Language," and its source_url is
+`guides/secondary/m5/m5_lao-language.pdf` in the public mirror
+(GitHub Xaypanya/Lao-Textbook). That note is right, and the
+record's facts describe the REAL guide: the file at
+`m5_lao-language.pdf` downloads at exactly **1,436,154 bytes,
+152 PDF pages**, its PDF metadata title is "LAY ENGLISH.indd,"
+and its content was verified by render before reading — PDF
+p.1 is this guide's own title-and-credits page ("ENGLISH For
+Upper Secondary Schools 5," writers assigned by unit exactly
+as in the student book: Bouakeo Vilaylath units 1–2,
+Bounthapany Bounxouay unit 3, Viengkham Phonpraseuth unit 4,
+Manivone Phaxayavong units 5–6, Thongsouk Keomany units 8–9,
+Khamphanh Phimsipasom units 7, 10, 11; Managing Editors
+Khamphanh Phimsipasom and Viengkham Phonpraseuth; Editor in
+Chief Assoc. Prof. Dr. Bouasavanh Keovilay; Design and Layout
+Khonesavanh Chanthavixay; MoES/RIES 2014) and PDF p.2 is its
+own Introduction. The mirror's rotation is wider than one
+file: the file actually named `m5_english.pdf` in the same
+folder is a **Geography teacher guide** (6,784,980 bytes, 149
+pages, metadata "LAY Teacher GEOGRAPHY.indd") — checked and
+rejected; it is not this book. The working copy saved from
+`m5_lao-language.pdf` is the book filed below. The file is RC4
+print-protected (print yes, copy no) like the rest of the
+series; its English text layer is doubled in stretches (a
+ghost layer repeats lines) and its Lao extracts as mojibake
+under the series' legacy font encoding — this filing rests on
+the English layer (objectives fragments, scripts, models,
+keys), with Lao-carried points read on renders where they
+matter, as throughout the Laos run. Printed folio = PDF page
+− 5 (front matter Roman i–v on PDF pp.1–5; the Instruction
+opens at printed p.1 on PDF p.6; the body ends at printed
+p.147 on PDF p.152). The guide has no back matter of its own:
+no glossary, no bibliography — it ends inside Unit 11's last
+cloze.
+
+**Introduction and method — the whole of it.** The
+Introduction (printed p. ii, PDF p.2, read in full on the
+render) is the series' standing text: "This teacher's guide
+is the fifth in a series of seven teacher's guides which are
+developed to provide some necessary teaching techniques along
+with the textbooks. The teacher's guide will help teachers
+conduct their teaching effectively. It includes the necessary
+steps of teaching with clear instruction that teachers can
+follow easily… It also includes the keys of the lessons, some
+reading texts for listening, some songs and games." Teachers
+and students should read the guide and textbook before the
+lessons; teachers should have the guide along with the
+textbook. It closes with the series' standing admission —
+produced under time pressure, "some minor errors may also
+contain in some instructions" — and an invitation to send
+comments to the Foreign Language Resource Centre; signed
+Research Institute for Educational Sciences. A Lao half
+follows on the same page. The Acknowledgements (printed
+p. iii, PDF p.3) thank the **Secondary Education Sector
+Development Project (SESDP)** for equipment and financial
+support and Ms. Sharon Rose Lin Masa for editing — the guide
+takes the SESDP side of the student book's BESDP/SESDP split.
+The method proper stands in the **Instruction** section
+(printed pp.1–4, PDF pp.6–9), written in Lao with the
+structure in English: the book has 11 units, each unit 3
+lessons, each lesson built of 8–9 activities in a fixed
+order — **1. Vocabulary · 2. Listen and repeat · 3. Read ·
+4. Read and complete · 5. Rearrange · 6. Listen and practice
+· 7. Match · 8. Write · 9. Find and circle / Sing / Games** —
+with per-step classroom procedure in Lao (the Rearrange step
+names subject, verb, object in English; the Listen and
+practice step works pairs A/B reading questions and answers
+aloud 1–2 times, then practising in pairs). Each unit then
+opens with a content-map diagram page (printed pp.5, 22, 37,
+53, 68, 83, 89, 103, 115, 127, 141) and an overview page
+carrying the three lessons' objectives and the teaching aids
+in Lao, with a time allocation in Lao (Unit 1's overview
+gives 9 hours for the unit; a lesson head gives 4 hours —
+both read on renders). The lesson steps themselves are
+carried mostly in Lao; what prints in English — and what this
+filing reports — is the keys, the listening scripts, the
+model texts and the grammar tables. The guide's Contents
+(PDF pp.4–5) runs: Instruction p.1 · U1 p.6 (L1 7, L2 13,
+L3 17) · U2 p.23 (24, 28, 33) · U3 p.38 (39, 45, 49) · U4
+p.54 (55, 59, 63) · U5 p.69 (70, 74, 79) · U6 REVISION p.84 ·
+U7 p.91 (92, 96, 99) · U8 p.105 (106, 109, 112) · U9 p.117
+(118, 121, 125) · U10 p.128 (129, 133, 138) · U11 REVISION
+p.143 — the same skeleton as the student book, revisions
+counted as units in the same places (each unit's divider page
+stands one page ahead of its Contents number).
+
+**What the guide adds, unit by unit** (all page numbers are
+the guide's printed pages):
+
+- **Unit 1 — Families (pp.6–22).** Keys for everything, and
+  the unit's listening dialogue in print. L1: the family-tree
+  key filled (Oun the grandmother at the head; Somchit, Maly,
+  Khaykham, Thong Kham; Deng, Chansy; Boun, Vanh), the five
+  read-and-complete sentences keyed, the read-and-answer key
+  (thirteen people in Kham's family; grandmother Oun wears
+  glasses because of her eyes), the **Kham–Thongda dialogue
+  printed in full** as the Listen and write script (pp.10–11:
+  who does the shopping, the washing-up, the laundry, the
+  grass), the 's sort keyed (is/has ×8, then are/has/have/is
+  with is/has pairs), the opposites key in full (quiet–noisy,
+  happy–unhappy/sad, ugly–good-looking (handsome/beautiful/
+  pretty), heavy–light, short–tall (or long), slim–fat,
+  young–old (or elderly), weak–strong, unfriendly–friendly,
+  curl–straight), and the word puzzle printed solved with
+  both hidden lists (11 family words, 11 adjectives). L2:
+  the match key with Lao glosses, the answer key (men's heavy
+  work; women's domestic tasks; children's lighter work and
+  child-minding; behaviour learned by watching and
+  imitating), the **Vannaly cloze keyed** (small, eldest,
+  married, help, farmers, lighter, important, fields,
+  firewood, young), the 's = of key with the whole in-law set
+  (Vannaly is Khamla's wife; Khamla's mother is Vannaly's
+  mother-in-law…), and the Write word lists. L3: the answer
+  key (married twelve years, two children of ten and eight,
+  the engineer husband does the chores because his wife
+  travels on business), the comparison cloze keyed (unit,
+  traditional, family, farm, modern, Women, workers, freedom,
+  family, changed, members), and the Traditional/Modern table
+  printed filled (work: family farm / outside the home;
+  education: family / schools; women: less / more freedom and
+  equality; family size: many / fewer children).
+- **Unit 2 — Homes (pp.23–37).** L1: the picture-word key
+  (tamarind, banana, veranda, stilts, toilet, coconut trees,
+  mango, thatched roof, well, fence), the answer key, the
+  **kitchen listening script printed in full** (Chamnong to
+  Deng: the mortar and pestle, the chopping board, the
+  sticky-rice baskets, the low wooden stool, p.26), and the
+  used-for key in full (a chopping board is used for chopping
+  food on; a basket for keeping the sticky rice in; paper for
+  writing on; a loom for weaving fabrics with). L2: the house
+  label key (1 roof, 2 second floor, 3 veranda, 4 glass
+  window, 5 first floor, 6 flower pot, 7 yard, 8 garage), the
+  answer key (7 rooms), there's/there are completions keyed,
+  the Listen and tick key (a a b a a a b) with the **Somsack
+  apartment script printed in full** (p.32). L3: the
+  three-town rental completion keyed in all 15 items, the
+  comparative key in both exercises (-er set and the
+  completion set), the tick key (a b b b a b) with the **two
+  rental houses script printed in full** (House A traditional
+  and bigger, House B newer, p.36).
+- **Unit 3 — At School (pp.38–53).** The overview page prints
+  each lesson's grammar in English parentheses — at/in/on for
+  L1, the first conditional for L2, the present continuous
+  for L3. L1: the subjects match keyed (12 subjects), the
+  **timetable grid printed completed** (period times, flag
+  saluting, breaks, extra-curriculum activities), a
+  **"Reading text for teacher" the student book does not
+  carry — the Phonechit–Oudone timetable dialogue in full**
+  (pp.41–42), the Khampheng answer key, and the at/in/on key
+  (on, at, in, in, in, at, on, at, in, at). L2: the discipline
+  match keyed, must/must-not models, the conditional model —
+  and a split inside the guide itself: its grammar model
+  says "If I smoke cigarettes, I will lose **10** points"
+  while its own Write key and the student book both say
+  **100** (p.48; see settlements). The Vongdeuane completions
+  keyed (video player, bike, furniture, cassette player), the
+  planted-spelling key (friend, studies, intelligent,
+  writing, beautiful, always), and the chain game. L3: the
+  **present continuous table reprinted whole** with the -ing
+  spelling rules (come–coming, smoke–smoking, run–running,
+  sit–sitting, lie–lying, tie–tying) and short answers, the
+  picture answers keyed, the sports match keyed (football,
+  volleyball, petanque, chess, badminton, table tennis,
+  sepak takraw, basketball), and the read-and-complete key.
+- **Unit 4 — Animals (pp.54–68).** L1: the pets answer keys
+  (one dog against three dogs; cats quiet and eat less), the
+  look-and-write key (parrot, fish, mynah, cat, dog, canary),
+  the true/false key in full (F T F T F F T T), the word-box
+  key (trusted, cute, kind, friendly, properly, usefull,
+  intelligent). L2: the definition match keyed, the **birds
+  table printed filled** — kinds (parrots, penguins, gulls,
+  albatross, ostrich, emu), foods (fruits, grains, insects,
+  worms, snails, mice), climates (hot tropical forest, snow
+  and ice, sea coasts), body (feathers, wings, tails) — the
+  true/false key, the completion key (protected, breed,
+  feathers, extint, sea), and the reference key the student
+  book's first reference exercise needs (different species,
+  sea birds, the penguin, birds, feathers). L3: the question
+  key (the story is The Peacock and the Crow; "write an essay
+  about the meanings behind the story"), the **fable printed
+  in full** as the rearrange key (pp.65–66 — the student book
+  only orders its paragraphs; the guide holds the whole
+  wording, in summary here: the white crow paints the
+  peacock feather by feather, then, impatient for the field
+  where the vultures feed, has the black paint poured over
+  himself), the true/false key, the proverb match keyed
+  (1-f, 2-c, 3-a, 4-d, 5-e, 6-b), and the completion key.
+- **Unit 5 — Jobs (pp.69–83).** L1: the jobseekers keyed as
+  corrected true/false sentences (Nongkhan can type and file;
+  Khamsouk is looking for work as a police officer; Anuxay as
+  a construction worker), the **modal-deduction key in full**
+  (might be away; could be French; can't still be out; could
+  be a sunny day; must be a nurse), and the What's-my-job
+  question bank printed (indoors/factory/office, uniform,
+  full-time/part-time, criminals…). L2: the interview answers
+  keyed in all ten (Phonenida, 30, Saphanthong Tai, four
+  years at the Vientiane Capital primary school, two years
+  before that at the Department of Education and Sports);
+  the past-against-perfect prose note itself is NOT reprinted
+  in English (its head stands with Lao), but its exercises
+  are keyed — five past-simple sentences, five present-
+  perfect sentences, and the **three-column verb table
+  printed filled** (be was/were been, come came come, buy
+  bought bought, drink drank drunk, drive drove driven, get
+  got gotten, go went gone, eat ate **eatten** — the guide's
+  own slip, see below). L3: the answer key (a vet technician;
+  Khamla wants to be an author, biologist and librarian;
+  Vieng to teach in her hometown), and the Darathip
+  speak-and-write **model paragraphs printed in full** (three
+  numbered models, then the "What could Darathip do" model:
+  she could study foreign language at university, might get a
+  job in the school, could become a teacher).
+- **Unit 6 — Revision, Review of Units 1–5 (pp.84–89).**
+  Everything keyed: the six first-conditional completions
+  (with "you will lost 20 points" as printed), the five
+  Perhaps→might rewrites, the at/in/on set, the comparative
+  set over vehicles and appliances, the six comparative
+  completions, the five Lao sentences translated (all with
+  "you'll lost" — 10, 50, 600 points), the comparative
+  crossword keyed, and **Hangman printed as a worked example**
+  with two boards in progress (letters B I W O S / I O U and
+  the win/lose states drawn out, pp.88–89).
+
+- **Unit 7 — Festivals (pp.91–103).** L1: the answer key,
+  the **Boat Racing cloze keyed** (eight, temple, nice, alms,
+  chants, river, boats, neighbouring, colourful, team), the
+  rearrange key in full, the match key, and the Write set as
+  completed sentence models ("When I was young I went to the
+  Boat Racing festival in my village…"). L2: the answer key,
+  the friend-portrait cloze keyed, and the who-clause
+  rearrange keyed in full ("People who were born in the year
+  of Rat are busy and energetic…"). L3: the answer key
+  (Chinese New Year about three days; five kinds of food for
+  the offerings; "Hogmanay"), the **Chin Tao listening script
+  printed in full** with its ten gaps filled (p.101), the
+  rearrange key (closing on "They stand in a circle, join
+  hands and sing Auld Lang Syne"), the match key, a Write
+  model ("I had a picnic last Sunday"), and **Sing: Auld Lang
+  Syne printed** (p.103) — the same eight lines the student
+  book prints, no more.
+- **Unit 8 — Communication (pp.105–115).** L1: the phone
+  dialogue completion keyed (a favour, a phone call, calling,
+  Luang Prabang, phone number, access, code, 71, 071 plus the
+  number), the read-and-answer key (Phongsaly access 84; dial
+  0 first; the country code 856), and the look-and-write
+  questions keyed. L2: both answer sets keyed (express against
+  ordinary; two weeks; 74,000 kips; Japan, Thailand, Korea),
+  the postcard set keyed ("study, study again, study
+  forever"), and the **price table spoken in full** — nine
+  model sentences of express/airmail prices (with its own
+  swap at Sekong, see slips). L3: the answer key, the
+  card-types key (Christmas, birthday, get well, thank you,
+  Valentine's Day, anniversary), and the **mother's greeting
+  message printed in full with its word-box answers in
+  capitals** (pp.114–115: TENS times a day, SORRY, REMEMBER,
+  SPECIAL, ARMS, WINGS, HARD, INTEREST, LATE, HEART — a long
+  thank-you letter to a mother, the guide's fullest model
+  text).
+- **Unit 9 — Markets and shopping (pp.117–127).** The unit
+  heads themselves are misprinted ("Makets in Vientaine,"
+  pp.117–118). L1: the superlative note carried in Lao, the
+  answer key (Khouadinh; the Morning Market the most famous;
+  the market list thalad sao, khouadinh, thongkhankham,
+  nongdouang, thatlouang, sangjieng), the syllable sort keyed
+  (one syllable: good, fresh, cheap; more: famous, popular,
+  different), and the Talat Sao cloze keyed (popular, located,
+  locals, simple, center, great, modernization, consists,
+  shops, modern). L2: the shoppers keyed in all seven
+  answers, the true/false key (T F T F F F F), the
+  look-and-write key (fruit, silk, electronic device, crafts,
+  food, vegetable, gold and silver, electric appliance,
+  grocery), and the **"Shopping in Vientiane" listening script
+  printed in full** with its answers in capitals (PROVIDE,
+  SOUVENIR, WINDOW, KINDS, BUY, SHOPPING, STORES, ORIGINAL,
+  HOME, DIFFERENT, p.124). L3: the quantifier list printed
+  (a kilo of, a bottle of, a bunch of…), the answer key
+  (Manivone pays 90,000 kip; price-conscious), the shopping
+  table totals keyed (45,000; 70,000; 35,000; 500,000;
+  150,000; 100,000), and the model pair ("How much is this? —
+  It's 100,000 Kip").
+- **Unit 10 — Sports and games (pp.128–142).** L1: the answer
+  key (Laos has hosted the SEA Games **one time**; December
+  2009; two white elephants; Wattay airport), the cloze key
+  (organized, great, media, kinds, member, fields, complex,
+  city, went, ended), the rearrange and match keys, and the
+  find-and-circle list (stadium, select, sport, host,
+  mascots, won, medal). L2: the Sone answers keyed in all
+  eight, the team-forming cloze keyed (usually, play,
+  organizes, competition, am, hard, together, players,
+  decide, positions), the transition-signals note carried in
+  Lao with its **worked model in English — "How to start a
+  car?" sequenced First / Then / Next / After that /
+  Finally** (p.136) — the **village-match listening script
+  printed in full** (Sone and Kham, 1–1, Kham's 90th-minute
+  penalty, p.137), a favourite-sport Write model opening, and
+  **Sing: "Are you sleeping?" printed** (p.138) — the same
+  four lines with (repeat) marks that the student book
+  prints, no more. L3: the big-match answers keyed ("Arsenal
+  and Liverpool played in the big math" as printed), the
+  match key, the **school-match listening script printed in
+  full** (3–0, Kham's hat-trick, p.141), the rearrange key,
+  a Write model (Manchester United against "Shelsea," 80%
+  possession, p.142), and the puzzle words (individual,
+  abilities, goal, opponent, attack, drive, exchange).
+- **Unit 11 — Revision, Review of Units 6–10 (pp.143–147).**
+  The review word list printed in three sets — and it spells
+  **"washing powder"** correctly (see settlements). The three
+  re-read passages keyed (the phone process: dial 0 + 20 +
+  eight digits, country access 856; greeting cards: seasonal
+  against everyday; festivals: Buddhism, That Luang, Boat
+  Race at the end of Buddhist Lent), the three match sets
+  keyed (astrology words; fireworks words; football phrases —
+  dribble the ball, cross in, drive the ball, play passing
+  shots, pass the ball, exchange attacks, opponent,
+  individual abilities), the rearrange sets keyed (the six
+  festival sentences; the six who-clauses), and **three
+  clozes printed filled in full** — the team-forming text
+  (transition signals at work), the Chin Tao text, and the
+  Boat Race text, which is the last page of the book.
+
+**Songs — the check the brief asked for.** The guide prints
+exactly the two songs the student book prints, in the same
+words, and no others: **Auld Lang Syne** at Unit 7 Lesson 3,
+step 9 (guide p.103; the student book prints it at p.96) —
+eight lines, one verse and chorus as the books give them —
+and **"Are you sleeping?"** at Unit 10 Lesson 2, step 9
+(guide p.138; student book p.135) — the four lines, each
+marked (repeat). Both verified on renders. The guide adds no
+song the student book lacks and no extra verse to either.
+
+**Settlements of student-filing open points.** (1) The
+student book's shopping-table slip "5 kilos of washing
+pounder" (student p.125): the guide's Unit 11 review list
+prints **"washing powder"** correctly (guide p.143) — the
+word is powder. (2) The student book's "ACKNOWLEGEMENTS"
+heading: the guide's own Acknowledgements page (PDF p.3)
+prints the same misspelling, **"ACKNOWLEGEMENTS"** — the
+missing D stands in both books, uncorrected. (3) The student
+book's "Fabricas" for Fabregas: the guide's big-match keys
+never name the player, so the slip stands uncorrected; the
+guide's own Write model adds a fresh one of its own,
+"Shelsea" for Chelsea (guide p.142). (4) The discipline
+points: the student book's example "You will lose 100 points
+if you smoke cigarettes" is matched by the guide's Write key
+(100), but the guide's own grammar model on the facing spread
+says "If I smoke cigarettes, I will lose **10** points"
+(guide pp.47–48) — the guide is split against itself; both
+stand as printed. (5) The student book's SEA Games question
+"How many times has Laos hosted…?" is keyed by the guide:
+"Laos has hosted the SEA Games one time" (guide p.130).
+
+**New for the course (from this guide):**
+- **Level 17, Stories** — the Peacock and the Crow fable
+  printed in full (guide pp.65–66): the student book only
+  rearranges it, so the guide is the Laos set's complete
+  wording of the story (filed as summary above; the fable's
+  own printed slips stand in it — "Once up on a time," "When
+  the had finished," "While the crow is being painted").
+- **Level 14, First, Then, Finally** — the worked "How to
+  start a car?" sequence (guide p.136) beside the student
+  book's signal list, and the team-forming cloze keyed with
+  the signals in place (guide p.146).
+- **Level 18, The Present Perfect** — the verb table printed
+  filled (guide p.78) and the five-plus-five exercise keys
+  (guide pp.77–78) under the student book's contrast note;
+  the note's prose itself is not reprinted in English.
+- **Level 12, Present Actions** — the present continuous
+  table reprinted whole with -ing spelling rules and short
+  answers (guide p.50).
+- **Level 9, Numbers, Days, and Time** — the completed
+  timetable grid and the Phonechit–Oudone dialogue (guide
+  pp.41–42): a full school week read off a real timetable.
+- **Level 7, The Home / The Town** — the kitchen script
+  (guide p.26), the Somsack apartment script (p.32) and the
+  two rental houses script (p.36): three whole listening
+  texts the student book only numbers.
+- **Level 5, Conversation** — the What's-my-job yes/no
+  question bank printed in full (guide p.73) and the Kham–
+  Thongda family-work dialogue (guide pp.10–11).
+- **Level 15, Reading Whole Texts** — the scripts the guide
+  prints in full: Chin Tao (p.101), Shopping in Vientiane
+  (p.124), the village match (p.137), the school match
+  (p.141), the Boat Race text (p.147), and the mother's
+  greeting letter with its answers in capitals (pp.114–115).
+
+**Slips recorded as printed (the guide's own):**
+"ACKNOWLEGEMENTS" as its Acknowledgements heading (PDF p.3 —
+the same missing D as the student book) · the smoking model
+"I will lose 10 points" against its own Write key's 100
+(pp.47–48) · "Thong is quiet fat" for quite fat (p.10) ·
+"They live in apartment near Chanthalay's mother's house,"
+article dropped (p.19) · "motar" for mortar in the kitchen
+script and the used-for key (pp.26–27) · "a dinning table" in
+the there's/there are key (p.31) and "a dinning room" in the
+two-houses script (p.36) · "petangue" in the sports match key
+(p.52) · "usefull" (p.58) and "extint" (p.62) in completion
+keys · "the Deparment of Education and Sports" in the
+interview key (p.75) · "eatten" as the past participle of eat
+in the filled verb table (p.78) · "If my friends comes" and
+"you will lost 20 points" in the revision conditional key
+(p.84), "you'll lost" three times in the translation key
+(p.87) · "An air-conditional is quieter than a fan" (p.86) ·
+the nonsense comparative key "Here is Phonechit. He's sixty
+years old. His brother is nice, so he is older" (p.86) ·
+"On the seconday" and "The name os Scottish New Year
+Festival" in the L3 answer key (p.101) · "his family has (9)
+dinne together" in the Chin Tao script (p.101) · "I's 856"
+for "It's 856" in the phone key (p.108) · the Sekong mail key
+swapping its own pattern — "The ordinal airmail to Sekong is
+7,000 kip, 2,000 kip for the express mail" — beside
+"7.000 kip" with a full stop for Bokeo (p.111) · "To to look
+for reasonable items" in the spending key (p.126) ·
+"Sone likes to plays sport at school?" as a key sentence
+(p.135) · "Exercixe" as the transition exercise's head
+(p.136) · "Arsenal and Liverpool played in the big math" for
+big match (p.140) · "Shelsea" for Chelsea in the Write model
+(p.142) · inside the fable the guide prints in full: "Once up
+on a time," "When the had finished" (the peacock dropped),
+"While the crow is being painted" for the past frame
+(pp.65–66) · a file note, not print: this PDF is
+print-protected (RC4), its text layer doubles lines in
+stretches, and its Lao extracts as mojibake under the legacy
+font — the English was read as it prints, and the
+Lao-carried method and overview pages were read on renders.
+
+**FULLY READ 2026-10-27.** Read page by page — the English
+layer throughout, the cover/title page, Introduction,
+Acknowledgements, the two song pages and the Unit 1 overview
+checked on renders. **CITATION CHECK PASSED 2026-10-27** —
+anchors re-opened and confirmed on their pages: title page
+"ENGLISH For Upper Secondary Schools 5," per-unit writers,
+MoES/RIES 2014 (PDF p.1, render) · Introduction "the fifth in
+a series of seven teacher's guides" (PDF p.2, render) ·
+"ACKNOWLEGEMENTS" heading, SESDP thanked (PDF p.3) ·
+Contents: Unit 1 p.6, Revision (Units 1–5) p.84 (PDF p.4,
+render) · the Instruction's nine activity steps in order,
+"each lesson 8–9 activities" (printed p.1, PDF p.6) ·
+family-tree key, "Kham's grandmother's name is Oun" (printed
+p.9, PDF p.14) · Kham–Thongda dialogue in full (printed
+pp.10–11, PDF pp.15–16) · Vannaly cloze key (printed p.15,
+PDF p.20) · kitchen script "motar and pestle… chilli sauce
+and papaya salad" (printed p.26, PDF p.31) · used-for key "A
+loom is used for weaving fabrics with" (printed p.27, PDF
+p.32) · Somsack apartment script (printed p.32, PDF p.37) ·
+two-houses script, "dinning room" (printed p.36, PDF p.41) ·
+timetable grid completed and Phonechit–Oudone dialogue
+(printed pp.41–42, PDF pp.46–47) · conditional model "lose
+10 points" against Write key "lose 100 points" (printed
+pp.47–48, PDF pp.52–53) · present continuous table with
+lie–lying, tie–tying (printed p.50, PDF p.55) · birds table
+filled, four columns (printed p.61, PDF p.66) · fable in
+full, "Once up on a time" (printed pp.65–66, PDF pp.70–71) ·
+modal key "must be a nurse because she wears white uniform"
+(printed p.72, PDF p.77) · verb table "eat ate eatten"
+(printed p.78, PDF p.83) · revision key "you will lost 20
+points" (printed p.84, PDF p.89) · Hangman boards B I W O S /
+I O U (printed pp.88–89, PDF pp.93–94) · Auld Lang Syne in
+full (printed p.103, PDF p.108, render) · phone key "I's
+856" (printed p.108, PDF p.113) · Sekong price swap (printed
+p.111, PDF p.116) · mother's letter, answers in capitals
+(printed pp.114–115, PDF pp.119–120) · "Makets in Vientaine"
+heads (printed pp.117–118, PDF pp.122–123) · "Shopping in
+Vientiane" script with capitals (printed p.124, PDF p.129) ·
+transition "Exercixe" and the car model (printed p.136, PDF
+p.141) · village-match script, 1–1 (printed p.137, PDF
+p.142) · "Are you sleeping?" with (repeat) marks (printed
+p.138, PDF p.143, render) · big-match key "big math"
+(printed p.140, PDF p.145) · school-match script, 3–0
+(printed p.141, PDF p.146) · Write model "Shelsea" (printed
+p.142, PDF p.147) · review list "washing powder" (printed
+p.143, PDF p.148) · Boat Race cloze closing the book
+(printed p.147, PDF p.152) · no ISBN anywhere (renders +
+whole-layer search) — 34 anchors, all on their pages.
+
+**Course filing state:** FILED — this section stands in
+`english/books/laos.md`. With it, the Laos Grade 10 pair is
+read whole — student book and teacher guide — and the Laos
+run continues at Grade 11.
