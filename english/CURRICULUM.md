@@ -176,7 +176,16 @@ sentence on another with if.
   turned) (Mongolia English X pp.76–86, 131; Libya G9
   p.82 five-tense table; Egypt Prep 9 T1 Tips p.17 and
   Tip p.45 — 3 countries).
-- Conditionals (Libya G9 zero and first; Egypt's run) — planned.
+- ✅ **Conditionals** (english/sentence/conditionals) —
+  the if-machine in four rungs: zero (always true), first
+  (really possible, will/may/might), second (imagined),
+  third (a past that can't change) (Libya G9 pp.79–81 +
+  reference; Mongolia English IX/X tables and unless;
+  Egypt's Prep 7→8→9 ladder, third at Prep 9 T1 Tip
+  p.31 — 3 countries).
+
+**LEVEL 18 COMPLETE 2026-10-27: 4 lessons. The English
+path now stands at 51 lessons across 18 levels.**
 
 ## After Level 18
 The ladder keeps climbing — longer essays and the Story → Novel
