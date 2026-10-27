@@ -45,3 +45,13 @@ Tuesday"** (p.82), with copy and gapped-name writing after
 (p.85). So the week-order split now stands three ways — Egypt
 Saturday-first, Bangladesh Sunday-first, Laos Monday-first —
 shown to the learner as the books print it.
+
+**Laos Grade 5 added 2026-10-27** — *Student's Book 3, Grade 5*
+(MoES/RIES, 2012; full read in english/books/laos.md). Grade 5
+completes the calendar: **all twelve months** (pp.28–36), the
+**ordinals 1st–31st** printed numeral over word (p.33 and on),
+and the date as a spoken frame — **"What's the date today? —
+It's the 1st of January"** (p.32). The book's own slip is filed
+with it: it prints a "31st September" (p.44), a date that cannot
+exist — the learner is shown the months' real lengths against
+it.

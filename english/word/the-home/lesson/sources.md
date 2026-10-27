@@ -1,6 +1,6 @@
 # Sources — The home
 
-countries: Egypt, Libya, Palestine
+countries: Egypt, Libya, Palestine, Laos
 
 Every part traces to its book and page.
 
@@ -32,10 +32,20 @@ CITATION CHECK PASSED 2026-10-26).
 | "What's in your bedroom?" — wardrobe, book, shelf, picture, lamp, bed, skates | Libya, Grade 2 Pupils Book, same unit, Lesson 4, p.46 |
 | My bedroom — bed, table, chair, box (the first bedroom things) | Palestine, Grade 1 Part 2, Unit 15 "My bedroom," p.34 |
 
-**Acceptance count: taught in 3 countries (Egypt, Libya,
-Palestine).** Egypt carries the five rooms with a sentence for
+**Acceptance count: taught in 4 countries (Egypt, Libya,
+Palestine, Laos).** Egypt carries the five rooms with a sentence for
 each and the drilled question; Libya carries the same rooms
 twice (Grade 1 set, Grade 2 labelled house) with the sitting
 room name and the furniture; Palestine carries the bedroom set
 for the youngest learners. Other finished countries join as
 their books are read (see READING-QUEUE.md).
+
+**Laos Grade 5 added 2026-10-27** — *Student's Book 3, Grade 5*
+(MoES/RIES, 2012; full read in english/books/laos.md). Laos
+asks about the house whole: **"Is there a kitchen in the house?
+— Yes, there is. / No, there isn't"** and its plural twin
+**Are there…?** (pp.88–91), the position set completed —
+**in front of, behind, between** join in/on/under/next to:
+"The TV is on the table. / The sofa is in front of the TV. /
+The lamp is behind the sofa" (p.98) — and the series' first
+reading passage is a house text with written answers (p.117).

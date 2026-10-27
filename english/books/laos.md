@@ -1565,9 +1565,12 @@ ride but she can't swim." (printed p.142) · no ISBN printed
 anywhere (cover spread, credits and back pages checked) — 57
 anchors, all on their pages.
 
-**Course filing state:** FILED — this section stands in
-`english/books/laos.md`. Its basics merge into the built lessons
-next (Numbers, Telling the Time, Days and Months, The Home, The
-Body, Food and Fruit, Joining with And and But, Present
-Actions). The Grade 5 teacher guide follows; with it, the
-three-book primary series (Grades 3–5) is read whole.
+**Course filing state:** MERGED 2026-10-27 — Laos Grade 5 now
+stands in Numbers (50–100, telephone numbers), Telling the Time
+(seven fifteen / nine thirty, no quarter/half words), Days and
+Months (the twelve months, ordinals, the date), The Home (Is
+there / Are there, in front of / behind / between), The Body
+(tooth (teeth); What's the matter?), and Joining with And and
+But ("I like sausage but I don't like fish soup"). The Grade 5
+teacher guide follows; with it, the three-book primary series
+(Grades 3–5) is read whole.

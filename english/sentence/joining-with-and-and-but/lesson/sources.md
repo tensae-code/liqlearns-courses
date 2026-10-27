@@ -1,6 +1,6 @@
 # Sources — Joining with and and but
 
-countries: Bolivia, Ghana
+countries: Bolivia, Ghana, Laos
 
 Every part traces to its book and page.
 
@@ -21,9 +21,17 @@ CITATION CHECK PASSED 2026-10-26).
 | "Conjunctions widen: because, since, so, although" — the family's later widening, in the curriculum's own order | Ghana, NaCCA JHS curriculum, Strand 5 (as filed) |
 | Linking words: but = conjunction ("pero"); however = adverb — the border between the in-sentence turner and its new-sentence neighbour | Bolivia compendium, the linking-words grammar section (as filed) |
 
-**Acceptance count: taught in 2 countries (Bolivia, Ghana).**
+**Acceptance count: taught in 3 countries (Bolivia, Ghana, Laos).**
 Ghana opens the compound sentence with AND, seats BUT
 beside it, lists the four coordinators, and widens the
 family in its own order; Bolivia posts the but/however
 border. Other finished countries join as their books are
 read (see READING-QUEUE.md).
+
+**Laos Grade 5 added 2026-10-27** — *Student's Book 3, Grade 5*
+(MoES/RIES, 2012; full read in english/books/laos.md). Laos
+never names the joiners — it just uses them where they belong,
+in the food lesson: **"I like noodles and fried rice"** beside
+**"I like sausage but I don't like fish soup"** (p.132) — and
+for like, but for the turn against it, inside one child's own
+tastes.

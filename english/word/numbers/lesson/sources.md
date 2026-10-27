@@ -57,3 +57,11 @@ English words — "12+5= 17 seventeen" (p.26), again at 31–50
 (15/50, 13/30, 14/40…, p.135) and plays Bingo to 50 (p.138).
 Same country as the Grade 3 block above, the next book up — the
 count does not change.
+
+**Laos Grade 5 added 2026-10-27** — *Student's Book 3, Grade 5*
+(MoES/RIES, 2012; full read in english/books/laos.md). The climb
+finishes: **50–100** in tens then in full (pp.15–18), sums now
+running to 100 (85−15, 100:2, p.16), and a brand-new number use —
+**telephone numbers read digit by digit, zero read as "o"**:
+"What's your telephone number? — It's 537 889" (pp.10–14), with
+a whole song that sings three numbers (p.14).

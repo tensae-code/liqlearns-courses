@@ -1,6 +1,6 @@
 # Sources — Telling the time
 
-countries: Bangladesh, Egypt, Mongolia
+countries: Bangladesh, Egypt, Mongolia, Laos
 
 Every part traces to its book and page.
 
@@ -27,10 +27,19 @@ CITATION CHECK PASSED 2026-10-26).
 | Photo sentences with clock times — "I wake up at 7 a.m. / I go to school at 8 a.m." — inside the Daily Routines lesson, with the "What time do you wake up?" Q&A | Egypt, Primary 3 Term 1, Daily Routines lesson (L4), pp.19–26 (Q&A p.25) |
 | TELLING THE TIME section: count by fives; Quarter = 15 minutes, Half = 30 minutes; the PAST and TO halves; clock writing and the make-a-clock game ("It's ten past ten"); Tsogt's routine ("He gets up at half past seven") | Mongolia, English VI, Unit 7 "Days," section 6a, p.78 (unit pp.74–84) |
 
-**Acceptance count: taught in 3 countries (Bangladesh, Egypt,
-Mongolia).** Bangladesh carries the clock's hands, the
+**Acceptance count: taught in 4 countries (Bangladesh, Egypt,
+Mongolia, Laos).** Bangladesh carries the clock's hands, the
 o'clock shape, and the a.m./p.m. rule; Egypt carries times
 inside the day's routines with the book's own question;
 Mongolia carries the minutes depth — by fives, quarters,
 halves, past and to. Other finished countries join as their
 books are read (see READING-QUEUE.md).
+
+**Laos Grade 5 added 2026-10-27** — *Student's Book 3, Grade 5*
+(MoES/RIES, 2012; full read in english/books/laos.md). Laos's
+clock lesson teaches the o'clock hours first, then steps past
+them with two spoken times — **"It's seven fifteen. / It's nine
+thirty."** (p.20) — said plainly, with no "quarter" or "half"
+word at all. The time question is personal: **"What time do
+you…? — At six o'clock"**, worked over the day's own jobs —
+feeding chickens, watering the garden (p.24).

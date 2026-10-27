@@ -1,6 +1,6 @@
 # Sources — The body
 
-countries: Egypt, Palestine
+countries: Egypt, Palestine, Laos
 
 Every part traces to its book and page.
 
@@ -23,8 +23,17 @@ english/EGYPT-BOOK-MAP.md (Primary 1 Term 1 section, FULLY READ
 | Circle the sense you use (music → ear; flowers → eye/nose; sun → eye; ice cream → tongue); match picture to sense (boy on the phone → ear; the moon → eye; a strawberry → tongue; a flower → nose) | Egypt, Primary 1 Term 1, Lesson 3, p.78 |
 | Three more body parts from the letter-word pages: hair (Hh words, p.56), neck and nose (Nn words, p.47), elbow (Ee words, p.72) | Egypt, Primary 1 Term 1, letter lessons — pages as listed; also filed in english/alphabet/the-alphabet/lesson/sources.md |
 
-**Acceptance count: taught in 2 countries (Egypt,
-Palestine).** Palestine carries the core seven by touch;
+**Acceptance count: taught in 3 countries (Egypt, Palestine,
+Laos).** Palestine carries the core seven by touch;
 Egypt carries the parts at work in the five sense sentences,
 plus three more inside its letter pages. Other finished
 countries join as their books are read (see READING-QUEUE.md).
+
+**Laos Grade 5 added 2026-10-27** — *Student's Book 3, Grade 5*
+(MoES/RIES, 2012; full read in english/books/laos.md). Laos's
+body lesson prints the plurals right in the word list —
+**tooth (teeth)**, hand(s), finger(s), knee(s) (pp.67–71) — then
+puts the parts to work in the health frame: **"What's the
+matter? — I have a stomachache. / I have a toothache"** (p.72),
+the trouble set being a cold, a toothache, a headache, a
+stomachache (p.73).
