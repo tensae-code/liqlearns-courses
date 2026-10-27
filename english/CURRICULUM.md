@@ -64,8 +64,9 @@ every letter, sounds out new words, and can say hello and their name.*
 words for the world around them, and can use a dictionary.*
 
 - **Unit 1 — Word Kinds**: nouns ✅ · verbs ✅ · adjectives ✅ · adverbs ✅ ·
-  pronouns (each one lesson, one thing — pronouns carries its own
-  depth: I/you/he/she/it/we/they and their forms)
+  pronouns ✅ (each one lesson, one thing — pronouns carries its own
+  depth: I/you/he/she/it/we/they and their forms) — **UNIT 1
+  COMPLETE 2026-10-26: all five word-kind lessons built**
 - **Unit 2 — Words for the World**: the home and its rooms · the town
   (hospital, school, shop) · food and fruit · animals · the body —
   from Egypt P1 Term 2's sets and Libya's early grades
