@@ -114,7 +114,7 @@ first essay, and retells a story.*
   words you don't know — use the dictionary ✅ · answering from the text ✅
   **UNIT 2 COMPLETE 2026-10-27** (finding-the-idea-of-a-text,
   words-you-dont-know, answering-from-the-text)
-- **Unit 3 — The Essay**: paragraphs about one thing, in order ·
+- **Unit 3 — The Essay**: paragraphs about one thing, in order ✅ ·
   opening and closing
 - **Unit 4 — Stories**: people, a place, things happening · telling a
   story back · the big reading (the graded readers bound into Libya's
