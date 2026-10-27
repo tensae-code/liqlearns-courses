@@ -6717,3 +6717,831 @@ Later (the decided/undecided split against will). The Grade 9
 teacher guide (144 pp in the library record) is the natural
 next read, on the series pattern;
 the Laos run then continues at Grade 10.
+
+## Grade 9 (ມ.4) TEACHER GUIDE — FULLY READ + CITATION CHECK PASSED 2026-10-27
+
+**What the book is.** The teacher's guide pairing with *English for
+Secondary Schools, Book Four* (the Grade 9 student book, filed
+above): "ENGLISH FOR SECONDARY SCHOOLS — TEACHER'S GUIDE" as the
+cover carries it, with the pink "4" mascot badge, the full team
+credits printed on the cover itself (the same names as the student
+book's cover, name for name), Ministry of Education and Sports /
+Research Institute for Educational Sciences (RIES), 2013. **No
+ISBN printed** — the cover carries none and the whole text layer
+was searched: zero "ISBN" hits. Verified copy: **3,690,633 bytes,
+144 PDF pages — both exactly the library record's figures** for
+the English teacher entry (VERIFIED-STRUCT), downloaded from the
+same public mirror the secured copies came from
+(`guides/secondary/m4/m4_english.pdf`). PDF metadata: title
+"Eng-TG--Cover-M4.psd," author RIES, created Jan 7 2013; RC4
+print-protected like the rest of the series. **Content verified
+by render, not by filename** (the Grade 7 lesson): PDF p.1 is
+this guide's own cover and PDF p.2 its own Introduction — no
+scramble at this address. Printed folio = PDF page − 4 (front
+matter Roman I–III on PDF pp.2–4; body opens at printed p.1 on
+PDF p.5). The body ends at printed p.139 (PDF p.143); PDF p.144
+is a blank back page carrying only the diagonal RIES stamp that
+watermarks the whole book. The guide's Contents (PDF pp.3–4)
+runs U1 p.1 · U2 p.16 · U3 p.27 · U4 p.41 · U5 REVISION p.54 ·
+U6 p.61 · U7 p.78 · U8 p.91 · U9 p.106 · U10 p.119 · U11
+REVISION p.133 — the same unit skeleton as the student book,
+with no back-matter section of its own: no glossary, no
+bibliography in the guide.
+
+**Introduction (printed p. I, PDF p.2) — the whole method text.**
+Read in full on the page. The guide is "the fourth in a series
+of seven teacher's guides," developed to give teaching
+techniques that go with the textbooks; it carries "the necessary
+steps of teaching with clear instruction," ideas for preparing
+teaching aids, "the keys of the lessons, some reading texts for
+listening, some songs and games"; the teacher should have the
+guide along with the textbook. It admits plainly that it "is
+produced under the time pressure that it cannot be probed into
+every needed area. Some minor errors may also contain in some
+instructions," and invites comments to the Foreign Language
+Research and Resource Centre; signed Research Institute for
+Educational Sciences. A Lao half of the introduction follows on
+the same page (read on the render; the Lao layer extracts as
+mojibake under the series' legacy font). **There is no method
+chapter beyond this** — and, unlike the primary guides, **no
+per-lesson time allocation is printed anywhere in the English
+layer, and there is no assessment chapter**: the method lives in
+a one-page English objectives overview at each unit's head
+(printed pp.1–2, 16, 27, 41, 61, 78, 91, 106, 119, 133) plus
+numbered steps under bilingual lesson headings. The steps
+themselves are carried mostly in Lao; the keys, listening
+scripts, and model answers print in English — this filing rests
+on that English layer, with Lao-carried points read on renders
+where they matter, as throughout the Laos run.
+
+**What the guide adds, unit by unit** (all page numbers are the
+guide's printed pages):
+
+- **Unit 1 (pp.1–15).** Keys for everything. L1: the five-food-
+  groups read-and-write key (proteins from fish, milk, beef,
+  pork, chicken, shrimp, snail, egg; green and black beans and
+  soya milk also named for proteins; carbohydrate from rice,
+  flour, sugar, taro, corn, fruit; vegetables and fruits for
+  vitamins and minerals); a Listen-and-say key (1 True, 2 False,
+  3 False, 4 True, 5 False); the Listen-and-complete cloze keyed
+  word by word in order (EAT, BALANCE, FIVE, PROTEINS,
+  VEGETABLES, ANIMALS, CARBOHYDRATES, OILS, ANIMALS, FAT,
+  VEGETABLES, FRUIT, CONTAIN, FOOD, RIGHT); a second
+  Listen-and-say key (p.7) with the corrections printed in full
+  (he needs the advice from the doctor; he should eat meat and
+  eggs; Somphone shouldn't eat a lot of fat); spelling-contest
+  words: proteins, carbohydrates. L2: look-and-write samples ("I
+  like spicy food. / I dislike oily and fat food."); a
+  read-and-match key; **Jennifer's tastes table printed** (p.10:
+  sticky rice ✓, papaya salad ✗, bananas ✓, grilled chicken ✓,
+  spicy food ✗, orange ✓); survey-report model lines. The "Food
+  I like to eat" chant step (p.11) is procedure only — **the
+  chant's words are not reprinted** (they stand in the student
+  book, p.10). L3: the unit overview prints the frequency scale
+  ALWAYS, USUALLY, OFTEN, SOMETIMES, RARELY, NEVER (p.12); the
+  read-and-choose key (1 BRUSHES, 2 CHANGES, 3 GOES, 4 EAT, 5
+  drinks, 6 eat); the guide's own grammar line — Present Simple:
+  Subject + V1(s) + Object + Time; and Daravone's-teeth answers
+  (pp.14–15): 1 No, she hasn't. 2 Every three months. 3 Twice a
+  day. 4 Her mother. 5 She likes drinking milk and eating fruit
+  and vegetable. 6 Because milk is rich in calcium, iron and
+  vitamins.
+- **Unit 2 (pp.16–26).** The overview (p.16) prints L3's topic
+  as "The best holiday I've ever had." L1: the read-and-write
+  True/False key with corrections printed (1 False — Jennifer
+  and her family are going on holiday; 3 False — Khonphapheng
+  waterfall is the biggest one in South East Asia; 5 False — it
+  is in the northern part of Laos); the dialogue model "Where
+  should I go in Xiengkhouang? — I think you ought to go to the
+  Plain of Jars" (the guide prints "go **to** the Plain of
+  Jars"); the read-and-complete key (ought to / should through
+  seven gaps). L2: **the Luang Prabang listening cloze printed
+  with all twelve gaps filled** (p.22: OLD, CUSTOMS, TEMPLES,
+  FAMOUS, PATTERNS, CELEBRATIONS, BOAT, PI MAI LAO, DELICIOUS,
+  LUANGPRABANG-as-one-word, CULTURE, HOSPITABLE); the adjective
+  key (wonderful, old, beautiful, famous, traditional,
+  delicious, hospitable); look-and-say model descriptions of
+  the two houses (p.23: traditional Lao house of wood with a
+  large veranda and wooden fence; modern house of concrete on
+  the ground with glass windows). L3: the listen-and-say key
+  (p.25: 1 No, she didn't. 2 They got there by plane. 3 They
+  went to the Royal Palace first. 4 Yes, they did. 5 Yes, they
+  did. 6 Yes, she did) and the model "Which is the best way to
+  get to Thamting? — By boat."
+- **Unit 3 (pp.27–40) — the passive unit, fully keyed.** The
+  overview (p.27) names the connectors "LOGICAL ORDER: FIRST,
+  SECOND, THEN, NEXT, AFTER THAT, …" — a different wording from
+  the student lessons' firstly/secondly/thirdly/finally frame;
+  both stand as printed. L1: the read-and-answer key (p.31:
+  1 It is a Lao traditional handicraft. 2 It helps Lao women to
+  gain more income for their families. 3 There are four main
+  steps. 4 They cut the fabric into pieces for sinhs, table
+  cloths and other uses. 5 The threads are often dyed in
+  traditional ways); **the Weaving listening cloze printed WITH
+  its answers filled** (p.32: (1) HANDICRAFT, (2) WOMEN,
+  (3) INCOME, (4) HOBBY, (5) STEPS, (6) ARE COLLECTED,
+  (7) PATTERNS, (8) IS PREPARED, (9) LOOM, (10) TIME,
+  (11) MONTH, (12) FABRIC, (13) BE USED — gap 13 filled as two
+  words, "be used"); the grammar-note key prints the model "The
+  classroom is cleaned every day" beside BE (am/is/are) + past
+  participle; the write key (p.33: ARE SENT, ARE WOVEN, ARE
+  WORN, IS USED, ARE DESIGNED). L2: the farming look-and-write
+  key (p.34: sickle, seeds, sow, pull up the seedling, seedling,
+  harvest, harrow, plough, replant, barn); the read-and-say
+  True/False key (pp.35–36: 1 True, 2 False, 3 False, 4 False,
+  5 True, 6 False, 7 True, 8 True); the picture-ordering key
+  prints as picture labels; the write model opens "First, the
+  plant is chosen. Second, …" with the step naming logical
+  orders/connectors and passive verbs. The Farmer Bounta song
+  step (p.36) is procedure only — **no song words**. L3:
+  read-and-practise verb pairs (lose/lost, find/found,
+  borrow/borrowed, bring/brought, leave/left); the ask-and-
+  answer key (p.38: 1 She left them outside at the front door.
+  2 They are black. 3 They're made of leather. 4 No, they
+  aren't. 5 She bought them in Australia. 6 No, they haven't);
+  **the "My shoes have been found" listening dialogue printed
+  as a script with its gaps keyed** (p.39: (2) What, (3) BEEN,
+  (4) FOUND, (5) my — "She's my brother's girlfriend" —
+  (6) DID, (7) LEFT, (8) SHOES, (10) RIGHT, (11) YOU, (12) LOT;
+  gap (1), in the opening line "Jenny, I've … a good news for
+  you," did not decode cleanly and is not asserted here); the
+  write-and-say key (pp.39–40) gives nine model pairs — sample:
+  I lost my pencil case yesterday. / It has been found. — 2 My
+  sister lost her bicycle last week. / It hasn't been found
+  yet. … 8 My friends lost his keys yesterday. / They have
+  been found. (the friends/his mismatch is the guide's own, see
+  Slips). Against the student book's slip "have been foond"
+  (student p.38): the guide's script and keys print "found"
+  correctly throughout.
+- **Unit 4 (pp.41–53).** The overview (p.41) names L1 "Future
+  Tense (will) + Conditional Sentence," L2 "Conditional
+  Sentence," L3 "Formal and Informal ways of asking for
+  permission." L1: the will/'ll table (p.42); look-and-say
+  models ("Where will you go? — I will stay at home. / What will
+  you do? — I will watch TV."); the Present Real Condition key
+  examples (p.44: 1 If it rains, I will stay at home. 2 I will
+  stay home if it rains); the choose-and-write key (1 HAS,
+  2 I'LL STAY, 3 IS, 4 GO, 5 HAVE, 6 BECOME, 7 WILL BE,
+  8 WILL TELL); ten look-and-write model conditionals
+  (pp.45–46), among them "If I don't understand, I'll ask the
+  teacher," "If I have a toothache, I'll see the dentist," "If
+  I study, I'll pass my exam," "You'll feel better if you do
+  more exercises." **The student book's "If you smoke a lot,
+  you will stay shorter" (student p.45) is not among the
+  guide's printed models** — the guide's model set is its own.
+  L2: the look-and-match key prints as letter pairs in the
+  shifted layer (not fully legible; not asserted); the
+  listen-and-say key (p.49) is the dialogue's four conditional
+  sentences (If the panda arrives soon, there won't be enough…
+  · If we have a panda, more people will visit the zoo · If we
+  do that, few people will come to the zoo · If I don't hurry,
+  the lions will be very unhappy); a "POSSIBLE ANSWERS"
+  read-and-complete key of ten model conditionals (p.49),
+  including "You will fail the exam if you don't study hard";
+  **the zoo puzzle key table printed in full** (p.50, verified
+  on the page: cage 1 kangaroo / Australia / 3.00 pm; 2 bird /
+  Indonesia / 10.30 am; 3 deer / China / midnight; 4 crocodile
+  / Laos / 9.00 am; 5 antelope / Myanmar / 6.00 — no am/pm
+  printed; 6 monkey / Vietnam / midday). L3: **Jennifer's
+  letter cloze printed WITH all fifteen answers filled**
+  (pp.52–53: (1) family, (2) Somphone's father's car, (3) zoo,
+  (4) photos, (5) elephant, (6) fish, (7) food, (8) Nam Ngum
+  Dam, (9) games, (10) songs, (11) front gate, (12) bank — of
+  the Nam Ngum River — (13) lunch, (14) trees, (15) home),
+  under the letter head "PO Box 006, Vientiane, Lao PDR,"
+  addressed "Dear grand mum"; the formal/informal sorting key
+  (p.53: "Is it OK if I go…?" Informal · "Excuse me…" Formal ·
+  "Could I… please?" Formal · "Can I…?" Informal · "Yes,
+  sure." Informal · "Yes, certainly" Formal · "Thank you very
+  much" Formal · "Thanks" Informal).
+- **Unit 5 REVISION (pp.54–60) — every revision exercise
+  keyed.** Grammar (p.54): the verb-table completion key (swim/
+  swam/swum shown, then 1 bought, 2 did, 3 drunk, 4 drove,
+  5 ate, 6 find, 7 go, 8 stood up, 9 taken, 10 written — as
+  printed); the for/since key (pp.54–55: I've lived in Pakse
+  SINCE 1991 · He's been in his office SINCE 7.30 this morning
+  · Jennifer has lived in Vientiane FOR about one year · I've
+  waited for this letter FOR three weeks · My family has had
+  this motorbike SINCE April · Saysamone has studied at
+  university SINCE 1996 — digits as printed · I've known Stella
+  FOR a long time · I haven't eaten mangoes SINCE last year);
+  the write model "My uncle was a soldier when he was
+  eighteen." **The accident listening cloze is printed WITH
+  its gaps filled** (p.55): on the way to school the narrator
+  (1) SAW an accident and (2) NOTICED a young driver STARING
+  at a pretty girl while WAITING for the lights; the lights
+  (3) TURNED green, he (4) DROVE around the corner, (5) DIDN'T
+  NOTICE the old man crossing; the car SWERVED, (6) CRASHED
+  into a white van, the crash (7) MADE a loud noise, people
+  (8) TURNED and (9) STARED; fortunately it (10) WASN'T
+  serious. The advice "POSSIBLE ANSWERS" (p.56): You should go
+  to the dentist · You should take a rest (or You shouldn't
+  work hard) · You should study harder · You should ask your
+  friends · You should help her · You should call him (or talk
+  to him on the phone) · The drivers shouldn't drive very fast
+  (or You should call the police). **The rice-growing
+  listening cloze is printed WITH answers** (pp.56–57: rice
+  (1) CAN BE GROWN twice a year; the field (2) IS PLOUGHED;
+  seeds (3) ARE SOAKED; the field (4) AND HARROWED — as
+  printed; seedlings (5) ARE PULLED UP, (6) ARE REPLANTED;
+  the rice (7) IS CUT, collected and stored in a barn). The
+  conditional completion key (p.57): …I WILL ASK the teacher ·
+  You WILL UNDERSTAND more if you read a lot · If it RAINS, we
+  WILL STAY AT HOME · …we WILL VISIT PHOUSY (as printed) · …if
+  the weather IS CLEAR · …you WILL HAVE a lot of money · …the
+  teacher WILL BE ANGRY. The error-correction key (p.58):
+  1 My computer has not been FIXED yet · 2 They have been
+  FOUND · 3 They haven't been BROUGHT back yet · 4 Trees have
+  been cut down — CORRECT · 5 It has been checked before —
+  CORRECT. Vocabulary: the describing-people listening script
+  printed with gaps filled (p.58: Khampeng, fourteen, quite
+  TALL and SLIM, short dark hair, wears glasses · Somphone's
+  COUSIN, a PRETTY girl, long dark hair, BEAUTIFUL eyes · the
+  neighbour a VERY old woman, grey hair, quite THIN · Jennifer
+  a TEENAGER, pretty, long CURLY hair · the new dog BROWN and
+  white, very CUTE); the made-of sample "PLASTIC — My school
+  bag is made of plastic"; the what's-the-matter key (p.59:
+  1 broken leg, 2 temperature, 3 sore throat — "He's got a
+  sore throat" is also the printed Picture 3 sample —
+  4 headache, 5 feels tired, 6 cough, 7 stomachache, 8 cold,
+  9 broken arm). Dialogues: the Somphone/Philavong cloze
+  printed as a script with gaps filled (p.60, verified on the
+  page — are, doing, shopping, does, She's, pretty, later,
+  closing "Ah! she is over there. / OK. See you later. /
+  Bye."); **the invitation/offer matching keyed by printed
+  arrows** (p.60, verified on the page: A orange juice → 3 "No,
+  thanks. I'm not thirsty." · B come to my house on Sunday
+  afternoon → 1 "Yes, I'd love to. Is it OK if I come at about
+  3 o'clock?" · C papayas → 5 "Yes, please. It's my favourite
+  fruit." · D picnic this weekend → 2 "Sorry, I'm afraid I
+  can't. I have to study for the maths test on Monday." · E
+  come for a walk → 4 "That's a good idea. I haven't had any
+  exercise today.").
+- **Unit 6 (pp.61–77) — the two biographies, fully keyed.**
+  Overview (p.61): objectives in English — ask and answer
+  about Prince Souphanouvong and Ho Chi Minh; Simple Past
+  Tense; yes/no and wh- questions about the past. L1: a roles-
+  matching key (p.64: Member of Lao Patriotic Movement,
+  Minister of Civil Works, Minister of National Defence,
+  President of the Neo Lao Issara, President of the Lao PDR);
+  the read-and-answer key (p.65: 1 born on July 13, 1909;
+  2 his parents were Prince Bounkhong and Princess
+  Kham-ouane; 3 he studied civil engineering in France; 4 in
+  1940 he joined the Lao Patriotic Movement; 5 he became a
+  President of the Neo Lao Issara in 1950 — "a President" as
+  printed); the look-and-write key (pp.65–66: went to Hanoi to
+  study · graduated as a civil engineer in 1937 · returned to
+  Indochina in 1939 · worked on many projects in Laos, Vietnam
+  and Cambodia · joined the Lao Patriotic Movement in 1940);
+  six look-and-say model sentences (p.66). **The Hangman game
+  is printed in full** (pp.66–67): the rules in Lao with two
+  worked letter grids building the word MINISTER — the series'
+  game instructions in print, answering the Introduction's
+  promise of "some songs and games" on the games side. L2:
+  the "PAST SIMPLE: QUESTIONS" teaching section (p.68); the
+  weekend-chart note (p.69) prints the time-expression set
+  (last weekend, last Sunday/Monday, last month/year,
+  yesterday…); wh- question models (p.70: "What did you do
+  last Saturday?" / "Did you go out / stay in last Saturday?" →
+  "I went out / I stayed in"); the complete-and-practise key
+  (p.70: 1 Where was he born? — Luang Prabang. 2 Where did he
+  study? — Hanoi and Paris. 3 When did he graduate? — 1937.
+  4 Where did he work? — Indochina. 5 When did he join the Lao
+  Patriotic Movement? — 1940); the read-and-say True/False key
+  (p.72, verified on the page: 1 False — he was the President
+  of the Lao PDR. 2 True. 3 True. **4 False — "He devoted
+  himself to national dependence and progress"** — the guide's
+  own correction line drops the "in-" as printed; its cloze on
+  p.73 prints "independence" whole. 5 True); a Lao note on the
+  page records that the spelling of the Prince's name changed
+  in 1956, 1979 and 1991 (read on the render); the ask-and-
+  answer key (p.72, verified on the page: 1 he was a President
+  of the Lao PDR in 1975. 2 he served as President 1975–1991,
+  about 16 years. **3 He retired as the President due to ill
+  health.** 4 he continued as an advisor to the Party Central
+  Committee. 5 he died on January 9, 1995. 6 he died of a
+  heart attack. 7 answered in Lao); the read-and-choose key
+  (p.73: (1) was born, (2) was, (3) studied, (4) was elected,
+  (5) worked, (6) died); and the word-box cloze printed with
+  answers (p.73: (1) MINISTER of Planning in the first
+  coalition 1957–1959, (2) PRIME Minister of the second
+  coalition 1962, (3) PRESIDENT of the Lao PDR until the Fifth
+  Party Congress in 1991; "though he (4) RETIRED as President
+  **due to his physical illness**" — the guide's cloze wording,
+  cleaner than the student text's "ill physical illness" —
+  (5) LEADER, (6) INDEPENDENCE — "devoted all of his wisdom
+  and strength to the course of national independence and
+  progress," the student's "course" kept — (7) FREEDOM,
+  (8) HEART ATTACK). L3 Ho Chi Minh: the past-time-expression
+  ordering key (p.75: in 2008 1st, a year ago 2nd, last
+  November 3rd, six months ago 4th, a month ago 5th, three
+  weeks ago 6th, last weekend 7th, last Monday 8th, three days
+  ago 9th, two hours ago 10th); the sentence-order key (1 I
+  went to the dentist's last week. 2 He drove to Vietnam two
+  years ago. 3 Where did you go last Tuesday night? 4 They
+  came to Vientiane Capital last January); the wh- question
+  key (Why / When / Who / How / Where / How long / What); the
+  read-and-match key (p.76: A–3, B–4, C–1, D–6, E–2, F–5) with
+  the first sentence printed in full — "Ho Chi Minh was born
+  on May 19, 1890 in Kiem Lien, Vietnam," the guide repeating
+  the student book's "Kiem Lien"; the read-and-answer key
+  (p.76: 1 he was a Vietnamese politician, poet, and
+  journalist. 2 he studied in Hue and Saigon. 3 he visited
+  North Africa, the USA, England, and France. 4 in Paris he
+  worked as a photographer. **5 He died on September 3, 1969**
+  — the guide repeats the student book's date uncorrected);
+  the listen-and-write (listen-and-correct) key printed as an
+  INCORRECT → CORRECT table (p.77: musician → politician,
+  1990 → 1890, Hanoi → Hue, Germany → France, driver →
+  photographer among the clear pairs); and the anagram key
+  (p.77: 1 COALITION, 2 ASSEMBLY, 3 REVOLUTIONARY,
+  4 INDEPENDENCE, 5 MINISTER, 6 MOVEMENT, 7 PATRIOTIC,
+  8 LIBERATE, 9 POLITICIAN, 10 founder — printed with a small
+  f — 11 freedom).
+- **Unit 7 (pp.78–90).** Overview objectives in English
+  (p.78). L1: the match key (p.80: tall, short, fat, thin,
+  heavily built, long hair, short hair, curly hair, big eyes,
+  a plait) and the look-and-say key sentences (Syphone is
+  tall. Sivilay has got long hair. Pheng is short. Soudavanh
+  has got short hair. Senghkam is fat. Jennifer has got curly
+  hair. Souk is thin. Khaykham has got big eyes. Khammy is
+  heavily built. Viengsavanh has got a plait); the question-
+  forming key (p.81 A: 1 How old is your brother? 2 How tall
+  are you? 3 What colour is Suda's hair? 4 Does she wear
+  glasses? 5 What does he look like? 6 What colour are your
+  eyes?); the is-or-has key completed across pp.81–82
+  (Sayphone's had an accident — has · Jennifer's quite pretty
+  — is · Jennifer's got curly hair — has · Somphone's finished
+  his homework — has · Her name's Souda — is · What's the
+  time? — is · My bicycle's been found — has); and **the
+  "Somphone's best friend" gapped text printed WITH its
+  answers** (p.82: Jennifer is my neighbour; from AUSTRALIA;
+  come to live in LAOS with her FAMILY; 13 YEARS OLD; CURLY
+  hair and BEAUTIFUL eyes; likes playing the PIANO and
+  listening to LAO music; playing BASKETBALL and SWIMMING;
+  sometimes watching FOOTBALL; helps with ENGLISH homework;
+  talking to MY FRIENDS). L2: the read-and-find key (p.84:
+  A 1 old, 2 tall, 3 handsome, 4 broad, 5 strong, 6 famous —
+  the boxer) and printed "some possible answers" for the
+  adjective scales (Height: tall, quite tall, pretty tall ·
+  Age: quite young, quite old, very young, very old · Looks:
+  beautiful, nice, very pretty… · Hair: dark hair, fairly
+  long hair, bald…); the match key (p.85) pairing the eight
+  people to their descriptions, with **the completed
+  information table printed** (p.86: Somphone 14, short dark
+  hair, handsome · Saysamone 21, dark eyes, handsome · Khamla
+  3 months, round face, big eyes, lovely · Samone 45, round
+  face, long straight hair · Daravone 9, long plait, pretty ·
+  Saykham 49, glasses, going grey · Thong very old, short grey
+  hair · Khane 75, thin face, long grey hair); the word-search
+  key states "There are 16 adjectives to find" over a solved
+  grid (p.86). L3: the read-and-answer True/False key (p.89:
+  1 F — Dido is Puna's boyfriend. 2 T — Panoy likes going to
+  parties. 3 T — Panoy and Dido have something in common. 4 F
+  — Panoy likes all sports, keyed false. 5 T — Dido is a good
+  athlete); **the questionnaire's scoring printed** (p.89: each
+  answer scores — a = 1 point, b = 2, c = 3 as the key prints
+  it — and the total places the student in Type A, Type B, or
+  Type C, with the type descriptions carried in the Lao
+  layer); the adjective-matching key (p.90: 1 friendly — a
+  person who is open and makes friends easily · 2 generous —
+  a person who likes giving things to other people ·
+  3 intelligent — a person who learns and understand well (as
+  printed) · 4 lazy — a person who doesn't like working ·
+  5 selfish — a person who only thinks about him/herself ·
+  6 shy — a person who finds it difficult to talk to new
+  people · 7 talkative — a person who talks a lot · 8 careful
+  — a person who always think before doing something (as
+  printed) · 9 hardworking — a person who works every day and
+  on weekends · 10 quiet — a person who doesn't talk much).
+- **Unit 8 (pp.91–105).** Overview (p.91): the objectives
+  print in English — L1 feelings ("I'm upset"), L2 hobbies
+  with "like/enjoy + noun" and "like/enjoy + verb + -ing" and
+  a "THE TIME" strand, L3 interests. L1: the complete key
+  (p.93: 1 upset, 2 frightened, 3 bored, 4 lonely,
+  5 disappointed, 6 tired, 7 angry); the look-and-match key
+  (p.94: 1 surprised, 2 sad, 3 ill, 4 happy, 5 frightened,
+  6 angry, 7 worried, 8 bored); the feelings sentences printed
+  (I feel hungry / sick / thirsty / sad / happy / tired); the
+  ask-and-answer key (p.95: 2 Because his neighbour had a big
+  party. 3 He feels tired. 4 She's upset and very
+  disappointed. 5 Because she thinks she had a bad haircut).
+  L2: the hobbies sorting key (p.97 — Indoors: dressmaking,
+  playing chess, knitting, sewing, cooking, listening to
+  music, playing computer games, playing the guitar, watching
+  TV, reading · Outdoors: going on picnics, sightseeing,
+  swimming, walking, take photos, painting); **the hobbies
+  reading text printed in its Lao form** (p.98) — the guide
+  carries the translation exercise's text as the Lao model;
+  the read-and-say True/False key (pp.98–99: 1 True · 2 False
+  — he also likes playing volleyball and basketball · 3 False
+  — he enjoys reading love stories · 4 True · 5 False, with
+  corrections printed); the read-and-answer key (p.99:
+  1 Bouaphanh has four hobbies. 2 He likes playing three
+  kinds of sports. 3 He reads books when he needs to relax.
+  4 He is good at making papaya salad and fish soup. 5 At
+  weekends, he usually plays music and sings his favourite
+  songs with his friends); the complete key A (p.99: 1 He's
+  KEEN on football. 2 She enjoys READING magazines. 3 He likes
+  PLAYING volleyball and basketball. 4 He is very good at
+  MAKING papaya salad. 5 His favourite hobby is LISTENING to
+  music. 6 My father enjoys JOGGING in the park); **the
+  paragraph-completion key printed in full** (p.100: (1)
+  Madina's hobby is listening to rock music; she also likes
+  (2) PHOTOGRAPHY and (3) CYCLING; the other rock-music fan
+  is (4) TALO, her only hobby; (5) YUSO "is the another
+  person" — as printed — with only one hobby, (6) COMPUTER
+  GAMES; the most popular hobby is (7) SWIMMING; (8) READING
+  and (9) PHOTOGRAPHY are less popular; (10) SIYAI likes both
+  (11) SWIMMING and (12) CYCLING; (13) KEN shares (14) YUSO's
+  hobby and also likes swimming; (15) HANSA likes reading as
+  well as (16) SWIMMING — names as the key prints them); the
+  word-order key (p.100: 1 My father likes jogging in the
+  park. 2 He likes watching TV in his free times — as
+  printed. 3 She likes playing the guitar. 4 He enjoys going
+  to the museum. 5 She loves drawing pictures of animals);
+  the grammar note stated in the key (p.100: like / enjoy /
+  be fond of / be keen on + verb + -ing). L3: the instruments
+  look-and-write key (p.102: 1 khene, 2 accordian — as printed
+  — 3 xylophone, 4 guitar, 5 drum, 6 piano, 7 violin,
+  8 flute); the match key (p.102: 2 cooking, 8 dancing,
+  3 playing the guitar, 9 playing table-tennis, 4 taking
+  photos, 10 painting, 5 playing Sepak Takraw, 11 fishing,
+  6 farming, 12 swimming, 7 weaving, 13 planting flowers); the
+  interested-in write models (p.103: "Mr. B is interested in
+  …, but he is not interested in … / and he is interested in
+  … / is not interested in … or …"); and **the spelling
+  contest printed in full — rules and a worked example**
+  (pp.104–105): two teams A and B with captains and a score-
+  keeper at the board; the example script runs — Leader: "Team
+  A, student 1: SPELL 'IRON'" → I-R-O-N → "CORRECT. SCORE 3
+  POINTS." · "Team B, student 1: SPELL 'EATEN'" → "INCORRECT.
+  E-A-T-E-N. LOSE 1 POINT." (the point values for the rounds
+  are carried partly in the Lao steps; the worked script is
+  English).
+- **Unit 9 (pp.106–118).** Overview (p.106): the objectives
+  print in English, and L3's title prints there as
+  "Congratualtions!" — the guide's overview repeats the
+  student book's misspelling. L1: the sports list key (p.108:
+  swimming, volleyball, badminton, basketball, football,
+  tennis, table-tennis, sack race, boxing); **the carnival
+  timetable printed as a listening script WITH all its facts
+  filled** (p.108: 1 Table-tennis starts at 2 p.m. and
+  finishes at 3 p.m. on Monday. 2 On Tuesday, football begins
+  at 9 a.m. and goes till 10.30 a.m. 3 On Wednesday,
+  basketball goes from 9 a.m. to 11 a.m., Team M3 against Team
+  M1. 4 Boxing begins at 9 a.m. and goes till 10 a.m. on
+  Thursday. 5 On Friday, volleyball starts at 3 p.m. and
+  finishes at 5 p.m., Team M3 against Team M2. 6 The sack
+  race starts at 9 a.m. and finishes at 10 a.m. on Saturday)
+  and the completed table printed (p.109) with the follow-up
+  answers (a football match · M2 vs M3 · Wednesday · 9 a.m. ·
+  Friday · M1 vs M3, as the key orders them); the choose-and-
+  write question key (p.110: When do you play it? Who do you
+  play badminton with? Where do you play it? What time do you
+  play it on Saturday? What do your parents think of it?); the
+  word-search grid printed solved (p.110). L2: the match key
+  (p.112: 1 player, 2 referee, 3 goalkeeper, 4 goal, 5 ball,
+  6 line man); **the match-report read key printed in full**
+  (p.112: 1 the football match was at Sipanh's school football
+  ground. 2 it started at 9 a.m. 3 the M2 team scored the
+  goal first. 4 the M3 team won the match. 5 the score was
+  3–1); the read-and-say True/False key (p.113: 1 True.
+  2 False — the players of the M2 team were in blue shirts
+  and white shorts. 3 True. 4 True. 5 False — the M3 team won
+  the match. 6 False — they were very happy); the verb-form
+  completion key (pp.113–114: 1 was, 2 went, 3 started at
+  eight o'clock, 4 wore, 5 were, 6 blew, 7 scored, 8 won the
+  match with a score of 3–1, 9 felt very happy, 10 it was the
+  most exciting football match of the year); the write "some
+  possible answers" (p.114: a player kicks the ball into the
+  goal to make the scores · a goalkeeper tries [to stop the
+  ball] from the other team — as printed · a linesman raises
+  a flag when the players break the rules · a supporter
+  watches and cheers the games). L3: the congratulations
+  dialogue key printed in full (p.116: 1 "I've won a
+  scholarship to study abroad." → Congratulations! 2 "I
+  graduated from university last…" → Wonderful! 3 "I won the
+  school swimming contest." → Congratulations! 4 "I won the
+  fun run." → Excellent! 5 "I got 10 marks, Mum." → Well
+  done! 6 "I can count to a hundred." → Great!); **the sports-
+  carnival listening dialogue printed WITH its lines filled**
+  (p.117: Father: So, how was the sports carnival? Siphanh:
+  Very good! I won the badminton match. … And I came second
+  in the swimming. … My friend Kham is the boxing champion. …
+  Yes. Our team won the most medals in the carnival. Father:
+  Congratulation! — singular as printed); and the spelling
+  contest repeated in full (pp.117–118, the same rules and
+  IRON/EATEN script as Unit 8).
+- **Unit 10 (pp.119–132).** Overview objectives in English
+  (p.119): talk about things with the present perfect against
+  the simple past; ever/never, just/yet, been/gone; be going
+  to and will; goodbye vocabulary. L1: the Nidda's-letter
+  True/False key (p.121: 1 T, 2 T, 3 F — they are from
+  Champasak, Salavanh — as printed — Vientiane Capital,
+  Luangprabang, Xiengkhouang, Borkeo, and Huaphanh provinces;
+  4 F — Nita is at school; 5 F — it's summer, the corrections
+  as the key prints them) and the model questions (1 Where
+  are they all from? 2 What is their teacher's name? 3 Where
+  are Vanh and Touk from? 4 How old are they? 5 Is Vientiane
+  very big, very exciting but very expensive?) — **the guide
+  prints the teacher's-name question but nowhere answers it**:
+  it does not name Nidda's teacher, so that point stays open
+  from this pair of books; **the torn-up letter order keyed:
+  2, 3, 7, 5, 1, 6, 4** (p.121); **the tense-labelling key
+  printed sentence by sentence** (p.122: "So sorry I've taken
+  a long time…" PRESENT PERFECT · "I've also visited…" PRESENT
+  PERFECT · "My time in Laos has gone so quickly…" PRESENT
+  PERFECT · "I have met lots of…" PRESENT PERFECT · "I've been
+  to Luangprabang…" PRESENT PERFECT · "I saw many beautiful
+  temples…" SIMPLE PAST · "I've also been to Champasak…"
+  PRESENT PERFECT · "I took photos…" SIMPLE PAST · "Well,
+  I'll end my letter now…" SIMPLE FUTURE); the look-and-tick
+  key (pp.122–123: 1 I saw Tom yesterday · 2 Have you ever
+  eaten Japanese food? · 3 Don won lottery last month ·
+  4 I have never drunk champagne · 5 Has your sister had the
+  baby yet? · 6 I haven't finished my homework yet · 7 Has
+  she just bought a new car? · 8 Tom has never been to
+  Vietnam); the complete-and-practise key (p.123: 1 HAVE you
+  ever EATEN snakes? — No, I HAVEN'T, but my brother ATE them
+  once. 2 HAVE you CLEANED the car yet? — Yes, I HAVE JUST
+  CLEANED it. 3 HAVE you ever SEEN a ghost? — No, I HAVEN'T.
+  4 HAVE you ever BEEN to China? — No, I HAVEN'T, but I WENT
+  to South Korea last year); the ever/yet practise frame
+  printed for all ten prompts (p.124: "Yes, I've just done
+  it. / No, I haven't."). L2: the Vinay/Noy dialogue keyed
+  (p.126: are you going to do · I am going to ITECC on
+  Saturday — the centre's name as printed · are going to see
+  the football match · Toun is going to visit his mother in
+  the hospital · am not going to do anything · are going to
+  have a small party at my house); the be going to / will
+  conversation keyed (p.127: am going camping · am going to
+  be away for a week · will probably leave around the end of
+  April · will go to Vangvieng · am going to travel by
+  myself) — the key works exactly the student note's rule,
+  decided plans in going to, undecided with probably/guess
+  in will; the read-and-answer True/False key (p.128:
+  1 False — Jennifer and her family are going to fly back to
+  Australia. 2 False — they are going to go to Wattay Airport
+  by taxi. 3 True. 4 False — they're going to prepare food
+  and drinks for the farewell party. 5 False — they'll invite
+  some of their neighbours to the party. 6 True); the read-
+  and-choose key (pp.128–129: 1 Jennifer's family IS GOING TO
+  have a party on Friday night. 2 Jennifer IS GOING TO PACK
+  her luggage. 3 In Australia, Jennifer WILL SEE her relatives
+  and old friends. 4 In the future, Jennifer WILL do lots of
+  things. 5 In Australia, Jennifer WILL SPEND more time
+  playing music) beside the printed rule table (will / be
+  going to against + plan / − plan and idea); the trip-text
+  completion key (p.129: (1) ARE GOING TO LEAVE, (2) ARE
+  GOING, (3) ARE GOING TO TIDY UP, (4) ARE GOING TO PACK,
+  (5) ARE GOING TO HAVE, (6) WILL HAVE, (7) WILL probably
+  HAVE, (8) WILL MEET, (9) WILL DO). The guide states the
+  going-to/will grammar note itself only in the Lao steps
+  (p.126) — its English face is the keyed dialogues and the
+  rule table. L3: **the three goodbye dialogues printed WITH
+  their gaps filled** (p.131: at the bus station — "I'M GOING
+  TO MEET my cousin at the airport. Well, HERE'S MY BUS. Bye,
+  Kham. / Bye-bye. SEE YOU LATER." · at the airport — "I'D
+  LIKE TO WISH YOU good luck and a safe journey. / Thank you
+  very much. I HOPE TO SEE YOU AGAIN." · in the classroom —
+  "Well, WE'VE NEARLY come to the end of our lesson. … So.
+  THAT'S ALL FOR TODAY. I'LL see you on Monday. / Thank you,
+  Miss. Have a nice WEEKEND.").
+- **Unit 11 REVISION (pp.133–139) — keyed throughout.** The
+  headnote (p.133) states the revision covers Units 6–10,
+  grammar and vocabulary, with Unit 8's adjectives weighted
+  (read in the English layer). A Grammar: the -ed key (1a:
+  cooked, enjoyed, invited, loved, studied, tried, visited,
+  washed, watched); the irregular-base key (1b: buy—bought,
+  give—gave, meet—met, sleep—slept, spend—spent, take—took,
+  feel—felt, hear—heard, teach—taught); model answers (1c: I
+  went shopping · at Talat Sao Mall · with my sister · I
+  bought the new jacket · I/We got home after 11:00); the
+  completed dialogues (1d: 1 Are you going out on Friday
+  night? — No, I am not. I am going to invite friends over,
+  and I am going to cook dinner for them. 2 How DID you SPEND
+  your last birthday? — I HAD a party. Everyone ENJOYED it,
+  but the neighbors COMPLAINED about the noise. 3 What DID
+  you DO last night? — I WATCHED the new Tome Cruise film —
+  as printed. 4 DID you DO anything special over the
+  weekend? — Yes, I DID. I WENT shopping. Unfortunately, I
+  SPENT all my money. Now I'm broke!); **the Ho Chi Minh text
+  keyed word by word** (1e: (1) 1890, (2) countries,
+  (3) France, (4) 1930, (5) Vietnam, (6) died, (7) death,
+  (8) hero, (9) people, (10) city — the keyed text again
+  prints "He found the Indochinese Communist Party in 1930"
+  and "died in Hanoi on 3 September 1969"); the same-meaning
+  matching key (1f: (1-f); (2-d); (3-e); (4-c); (5-a); (6-b)).
+  Present perfect: the choose-the-correct-response key (2A:
+  "Has she called her family lately?" → No, she hasn't. ·
+  1 Really good. · 2 Twice. · 3 Sure. I heard that it's
+  great.) and the lost-watch conversation keyed in full (2B:
+  Have you ever LOST anything valuable? — Yes, I LOST my
+  watch last month. — Have you FOUND it yet? — No. Actually,
+  I HAVE already BOUGHT a new one. — Where DID you BUY it? —
+  I GOT it at the Morning Market LAST WEEKEND. … I LEFT my
+  mobile phone in the classroom… you HAVEN'T CALLED me for a
+  while… you HAVEN'T CALLED me for a long time… I LOST my
+  watch, so I DID NOT HAVE the time!). Future: the Dao/Dan
+  conversation keyed (3A: am going to paint my room · am
+  going to take a long drive · am going to visit my parents ·
+  will go for a few days · WILL PROBABLY CATCH UP on my
+  studying · am going to play petanque). B Vocabulary: the
+  word-to-meaning matching keyed by number (1 civil engineer
+  → 3 · 2 Vice Prime Minister → 10 · 3 leader → 1 · 4 party
+  → 2 · 5 politician → 7 · 6 journalist → 8 · 7 founder → 5 ·
+  8 personality → 6 · 9 hobby → 11 · 10 sports carnival → 4 ·
+  11 journey → 9; the meanings themselves print in Lao); the
+  translate key prints Lao equivalents for the nine phrases
+  (Free Lao Front, Coalition government, Supreme Assembly,
+  Supreme Commander of the Armed Forces, Party Central
+  Committee, Ethnic Cultural Park, World Heritage Site,
+  Plain of Jars, A good sense of humour — pp.136–137, the Lao
+  in the legacy layer); the word-order key (3A: example "She
+  is calm and friendly" · 1 He likes helping everybody and
+  giving things to people · 2 She is very kind and patient ·
+  3 He is a clever young man · 4 My mother has got a round
+  face and long straight hair · 5 His sister is pretty and
+  wears a beautiful sinh); **the opposites key** (3B, p.137:
+  unfriendly → FRIENDLY · impatient → PATIENT · tall → SHORT
+  · **talkative → CALM, as the key prints it** · small → BIG
+  · old → YOUNG · unhelpful → HELPFUL · unkind → KIND); **the
+  appearance/personality chart keyed** (p.138 — Appearance:
+  heavy, pretty, tall, good-looking, thin, handsome, smart ·
+  Personality: friendly, serious, talkative, shy, funny,
+  nice, kind — the guide files "smart" under Appearance as
+  printed); the feelings completion key (p.138: good mark →
+  happy · 1 players who lose feel sad · 2 after a long
+  journey, tired · 3 when friends go away, lonely · 4 when
+  you have nothing to do, bored · 5 a child alone at night,
+  frightened). C Dialogues: the write-the-response key (1a:
+  "I've passed my driving test" → Well done! · "Excuse me.
+  Could I sit here please?" → Yes, please do. · "Would you
+  like to come to a party on Friday?" → Of course, I'd love
+  to. · "What does your teacher look like?" → She's tall and
+  has got brown eyes and long straight hair. She's very
+  pretty. · "My friend won the swimming race" → Well done!);
+  **the farewell-party dialogue printed as a script with gaps
+  filled** (1b, p.139: Jennifer: WE'RE going to have a party
+  on Friday. Would you like to come? Somphone: I'D love to.
+  Are your friends from school going to be there? Jennifer:
+  Yes. And some of our neighbours will probably come too.
+  Somphone: Do you think you'll miss Laos? Jennifer: Yes, I
+  will. But I hope I'LL COME BACK SOMEDAY. Somphone: I hope
+  so too.); and **the joined goodbye dialogues printed WITH
+  all gaps filled** (2, p.139) — at school: "Jennifer: Excuse
+  me. May I come in, **Miss Smith**? Miss Smith: Certainly.
+  Please come in and have a seat. Jennifer: Oh, no, thank
+  you. I've just come to say goodbye to you. I'm going to
+  leave for Australia this Saturday. Miss Smith: Oh! Really?
+  Have a good trip home. We'll miss you. Jennifer: Thank you
+  very much." — the guide keys **Miss Smith**, the name the
+  student book's Unit 4 and its own Revision 11 also use,
+  against Unit 10's staff-room dialogue naming her Miss
+  Buavone — and at the airport: "Paul White: Thank you for
+  coming to see us off, Somphone. We have to go now. We'll
+  come back and visit you someday. Somphone: Yes, please do.
+  Mr and Mrs White, I'd like to wish you a safe journey and
+  good luck. Jennifer: Thanks, Somphone. You, too. Take care
+  of yourself. Bye-bye. Somphone: Goodbye. I hope to see you
+  again." — Jennifer's father named in print as Paul White.
+  The book ends there (printed p.139); the last PDF page is
+  the blank stamped back page.
+
+**Settlements of the student filing's open points.** The
+torn-up letter's order is keyed: **2, 3, 7, 5, 1, 6, 4**
+(p.121). The sports-carnival plan is filled in full (script
+and table, pp.108–109). The personality questionnaire's
+scoring — left undescribed in the student book — is printed:
+points per answer, totals to Type A/B/C (p.89). The
+Souphanouvong retirement wording: the guide's answer key
+prints "due to ill health" (p.72) and its cloze "due to his
+physical illness" (p.73), both cleaner than the student
+text's "ill physical illness" (student p.76); the same cloze
+keeps "the course of national independence" as the student
+book prints it. The teacher's name: the guide keys **Miss
+Smith** in the revision dialogue (p.139); Unit 10's Miss
+Buavone stands uncorrected in the student book and is not
+taken up by the guide. Not settled: "Kiem Lien" and the death
+date "September 3, 1969" are repeated by the guide exactly as
+the student book prints them (pp.76, 134) — no correction
+either way; Nidda's teacher is asked about but never named
+(p.121); the student slip "you will stay shorter" appears in
+none of the guide's model conditionals (pp.45–46).
+
+**Honest negatives.** The Introduction promises "some songs
+and games"; the games are delivered (Hangman in full,
+pp.66–67; the spelling contest's rules and worked script,
+pp.104–105 and again pp.117–118; the solved word searches),
+but **no song words are printed anywhere in the guide** — the
+Unit 1 chant and the Unit 3 Farmer Bounta song get teaching
+procedure only; their words stand in the student book alone.
+No assessment chapter, no printed lesson timings, no glossary
+or bibliography of its own. Two keys could not be read whole
+from the text layer: the Unit 3 Lesson 2 picture-order key
+(printed as picture labels) and the Unit 4 Lesson 2
+look-and-match key (letter pairs in the shifted font); both
+are recorded as printed-in-form rather than transcribed.
+
+**New for the course (guide-printed pages):**
+
+- **Level 18, The Passive** — the Weaving cloze with its
+  passive gaps filled gives the lesson the book's own listening
+  text keyed end to end (p.32); the Unit 5 rice cloze does the
+  same for the rice process (pp.56–57); the error-correction
+  key marks two perfect-passive sentences CORRECT as printed,
+  a ready-made check set (p.58); the shoes dialogue keys the
+  present perfect passive in speech (p.39).
+- **Level 18, Conditionals** — ten model conditionals
+  (pp.45–46), the panda dialogue's four conditionals in print
+  (p.49), a ten-answer "POSSIBLE ANSWERS" set (p.49) and the
+  Revision 5 completion key (p.57) stock the lesson's Laos
+  side with keyed examples.
+- **Level 18, The Present Perfect** — the ever/yet tick key
+  (pp.122–123), the four keyed ever/yet dialogues (p.123) and
+  the tense labels on Jennifer's letter (p.122) give the
+  lesson its deepest Laos key set; the deepest-perfect note's
+  words are all worked here with answers.
+- **Level 12, Going To Later** — the decided/undecided split
+  is no longer the student note alone: two dialogues keyed
+  line by line (pp.126–127), a five-sentence choose key and a
+  nine-gap trip text (pp.128–129), and the party dialogue's
+  going-to/will mix keyed (p.139).
+- **Games for the course's stock** — Hangman with worked
+  grids (pp.66–67) and the spelling contest with its rules
+  and worked IRON/EATEN script (pp.104–105) are the series'
+  printed game instructions, citable as printed.
+- Question and answer stock: the biographies fully keyed
+  (pp.65, 70, 72–73, 76–77), the match report keyed to its
+  3–1 score (pp.112–114), the feelings and describing-people
+  keys (pp.80–86, 93–95, 138).
+
+**The guide's own slips, recorded as printed:** "My friends
+lost his keys yesterday" in the write-and-say key (pp.39–40) ·
+the True/False correction "He devoted himself to national
+dependence and progress" — "dependence" for independence in
+the guide's own correction line (p.72, verified on the page;
+the guide's cloze on p.73 prints "independence" whole) ·
+"worked on many PROJECTES" in the Unit 6 look-and-write key
+(pp.65–66) · "a person who learns and understand well" and "a
+person who always think before doing something" in the
+personality definitions (p.90) · "Yuso is the another person"
+(p.100) · "He likes watching TV in his free times" (p.100) ·
+"accordian" for accordion in the instruments key (p.102) ·
+"Congratulation!" singular in the carnival dialogue (p.117) ·
+"the new Tome Cruise film" in the revision dialogue key
+(p.134) · talkative keyed to the opposite "calm" (p.137) ·
+"smart" filed under Appearance in the sorting chart (p.138) ·
+the Unit 9 overview repeating the student book's
+"Congratualtions!" (p.106). The guide's Introduction warns
+that minor errors may stand in its instructions; these are
+them, filed as printed.
+
+**FULLY READ.** Every page of the guide was read: the cover
+and Introduction on renders, the Contents, all eleven units'
+overviews, steps, scripts, and keys through the decoded
+English layer, Lao-carried points on renders where they
+mattered, and the blank stamped back page. The PDF is kept at
+`~/workspace/liqlearns-courses-work/laos-english/laos-g09-english-teacher.pdf`
+(3,690,633 bytes, 144 pages, content-verified as the English
+teacher guide for ມ.4).
+
+**Citation check (pass of 2026-10-27):** anchors re-opened and
+confirmed on the page — the cover with its printed credits
+and 2013 imprint (PDF p.1, render) · the Introduction's
+"fourth in a series of seven teacher's guides" (printed p. I)
+· the Contents placing Unit 3 at p.27 and Unit 11's Dialogues
+at p.138 (PDF pp.3–4) · the Unit 1 Listen-and-complete key
+words EAT … RIGHT (p.4) · Daravone's "Every three months. /
+Twice a day." (pp.14–15) · the Weaving cloze's "(6) ARE
+COLLECTED" and "(13) BE USED" (p.32) · "The classroom is
+cleaned every day" (p.32) · "She bought them in Australia"
+(p.38) · the shoes dialogue's "(4) FOUND" (p.39) · "My friends
+lost his keys yesterday. / They have been found." (pp.39–40)
+· "If it rains, I will stay at home" among the Present Real
+Condition examples (p.44) · the letter cloze's "(8) Nam Ngum
+Dam" (pp.52–53) · "Could I… please? — Formal" (p.53) ·
+"I've lived in Pakse SINCE 1991" (pp.54–55) · the accident
+cloze's final gap "(10) WASN'T" (p.55) · the rice cloze's
+"(7) IS CUT" (pp.56–57) · the error-correction items marked
+CORRECT (p.58) · the invitation matching A→3, B→1, C→5, D→2,
+E→4 (p.60, render) · the zoo table's cage 5 "antelope /
+Myanmar / 6.00" and cage 6 "monkey / Vietnam / midday"
+(p.50, render) · "born on July 13, 1909" (p.65) · the Hangman
+grids building MINISTER (p.67) · "He devoted himself to
+national dependence and progress" (p.72, render) · "He retired
+as the President due to ill health" (p.72, render) · "She is
+13 years old. She's got curly hair" in the best-friend cloze
+(p.82) · "There are 16 adjectives to find" (p.86) · the
+feelings key's "1 upset, 2 frightened, 3 bored" (p.93) ·
+"Table-tennis starts at 2 p.m. and finishes at 3 p.m. on
+Monday" (p.108) · "The M3 team won the match" with the score
+3–1 (pp.112–114) · "I got 10 marks, Mum. — Well done!"
+(p.116) · the torn-letter order "2, 3, 7, 5, 1, 6, 4" (p.121)
+· the tense labels "'ve been to Luangprabang — PRESENT
+PERFECT" and "I took photos — SIMPLE PAST" (p.122) ·
+"Excuse me. May I come in, Miss Smith?" (p.139) · the blank
+back page with the diagonal RIES stamp only (PDF p.144,
+render). 33 anchors in all, spread across the whole book —
+the filing above stands.
