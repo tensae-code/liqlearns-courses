@@ -59,8 +59,8 @@ its own subtitle folder with its own lesson + questions):
 - Conversation → hello-and-your-name · how-are-you ·
   good-morning-and-good-afternoon · introducing-a-friend ·
   whats-his-and-her-name · how-old-are-you
-- Word → nouns · verbs · adjectives (built 2026-10-26 —
-  Level 2 Unit 1 "Word Kinds" opens here)
+- Word → nouns · verbs · adjectives · adverbs (built
+  2026-10-26 — Level 2 Unit 1 "Word Kinds" opens here)
 Conversation → hello-and-your-name (from Egypt, Primary 1) is kept, and
 filed under its title; it is NOT Lesson 1 of the path.
 
