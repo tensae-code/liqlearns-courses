@@ -96,7 +96,7 @@ talks about now, before, and later.*
 - **Unit 3 — Now, Before, Later**: present actions ✅ · past actions ✅ ·
   going to ✅ **UNIT 3 COMPLETE 2026-10-27** (present-actions,
   past-actions, going-to-later) — from Libya's middle-grade spine
-- **Unit 4 — Joining and Describing**: and/but · describing words in a
+- **Unit 4 — Joining and Describing**: and/but ✅ · describing words in a
   sentence · mine and yours
 
 ## Level 4 — Paragraphs, essays, and stories
