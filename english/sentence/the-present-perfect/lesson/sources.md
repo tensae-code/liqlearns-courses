@@ -54,3 +54,15 @@ irregular **participle tables** with **gone to / been to**
 doctor's (pp.136–140). The honest limit, filed with it: Laos
 teaches this tense whole but **never teaches the present
 perfect continuous** — that lesson draws nothing from Laos.
+
+**Laos Grade 10 added 2026-10-27** — *English 5 for Lao
+Secondary Schools* (MoES/RIES, 2014; full read in
+english/books/laos.md). Book Five carries the series' fullest
+**past-simple-against-present-perfect contrast note**
+(pp.67–68) — the two pasts set against each other directly.
+Filed beside it, the standing Laos limit, now checked across
+Books Two–Five: the present perfect continuous stands in
+texts in use ("She has been working at Mixay Primary School
+for four years," p.66) but is **never named, tabled, or
+drilled anywhere in Laos** — use is not teaching, and the
+course stocks nothing for that lesson from Laos.

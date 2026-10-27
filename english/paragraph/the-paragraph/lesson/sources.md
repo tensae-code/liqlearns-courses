@@ -46,3 +46,11 @@ english/books/laos.md). Writing grows a plan: a
 plan** (p.87), two-paragraph comparisons (p.78), and a 2–3
 paragraph festival account written from sentence starters
 (p.97).
+
+**Laos Grade 10 added 2026-10-27** — *English 5 for Lao
+Secondary Schools* (MoES/RIES, 2014; full read in
+english/books/laos.md). Writing gets a size for the first
+time in the series: **word-counted tasks — "a paragraph of
+50 words," set three times** — and a prescribed two-paragraph
+split: subject in the first, family in the second (p.5).
+Transition signals are taught as a writing tool (p.134).

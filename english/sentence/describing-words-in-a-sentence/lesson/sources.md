@@ -60,3 +60,9 @@ english/books/laos.md). The comparing system returns over
 real data: an **eight-country data table** — size, population,
 distances — compared in sentences (pp.74–77) and finished as a
 two-paragraph written comparison (p.78).
+
+**Laos Grade 10 added 2026-10-27** — *English 5 for Lao
+Secondary Schools* (MoES/RIES, 2014; full read in
+english/books/laos.md). The **superlative gets its own full
+treatment** — usage and formation rules together (pp.113–114)
+— completing the comparing system Book Two opened.
