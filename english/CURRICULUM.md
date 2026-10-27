@@ -107,7 +107,7 @@ talks about now, before, and later.*
 *End of level: the learner reads whole texts, writes paragraphs and a
 first essay, and retells a story.*
 
-- **Unit 1 — The Paragraph**: sentences about one idea, together ·
+- **Unit 1 — The Paragraph**: sentences about one idea, together ✅ ·
   first, then, finally
 - **Unit 2 — Reading Whole Texts**: finding the idea of a text ·
   words you don't know — use the dictionary · answering from the text
