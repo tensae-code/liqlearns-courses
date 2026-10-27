@@ -39,7 +39,10 @@
 
 **FULLY READ 2026-10-27.** Read page by page from the text layer (the book has a real text layer; the five picture-carried points — the Introduction's action pictures, the feelings set, the wordless bird story, the "Oud" line, "Googbye," and the p.125 read-and-point words — were checked on rendered pages). **CITATION CHECK PASSED 2026-10-27** — anchors re-opened and confirmed on their pages; the filing was then spot-verified independently before commit (Grammar p.10, the in/on/under song's "Oud!" line p.69, the alphabet song p.73, the numbers page p.87, "Googbye, gecko" p.117, the ISBN on the back page, and the printed=PDF−7 offset on the rendered story page 44): hello song "I'm good! I'm great!" (p.1) · s story "Suddenly Sounthone saw a snake" (p.6) · "My name is Kham" (p.8) · Grammar "What's your name? / My name is Houmphanh" (p.10) · a story "an ant on her apple" (p.12) · colour chant "The snake is green" (p.15) · classroom set "chair, pencil" (p.22) · "Oh! It's itchy!" (p.24) · "Where is my new pencil?" (p.27) · Grammar "What's this? / It's a pencil" (p.28) · "1 pig / 2 pigs" (p.33) · family set "dad, mum, brother, sister, baby" (p.40) · first blending tiles "c-a-t, k-i-ck" (p.43) · "I don't know. Ask your dad" (p.44) · Grammar "This is my family" (p.46) · "Is it a pig? — Yes, it is" (p.64) · "Oh! I'm a chicken!" (p.63) · in/on/under song "The pig is in the mud. Oud!" (p.69) · alphabet song, a–z (p.73) · "I have two cakes!" (p.80) · "Do you like…? — Yes, I do" (p.86) · "six apples… ten papayas" (p.87) · Grammar "I can jump / I can't fly" (p.100) · toy-box chant "Is it a marble?" (p.105) · "Googbye, gecko" (p.117) · Grammar "There is a table" (p.118) · colour chant "purple" in the ten-colour set (p.123) · ISBN 978-9932-00317-4 (back page, printed p.134) — 28 anchors, all on their pages.
 
-**Course filing state:** the basics above are mapped in this file; merging
-Laos into the built lessons it stocks (Sounds Together, First Words,
-Conversation, Questions, Numbers) is the next step of the Laos run, before
-Grade 3's teacher guide is read.
+**Course filing state:** MERGED 2026-10-27 — Laos now stands in the
+built lessons this book stocks: The Alphabet (the song as a late
+review), Blending Sounds (letter tiles), Two-Letter Sounds (the ck
+pair), Word Families (the first-letter swap), Hello and Your Name,
+Asking Yes/No Questions (Is it a…? / Do you like…? / Can you…?),
+and Numbers (counted fruit turning into first sums). Next in the
+Laos run: the Grade 3 teacher guide.

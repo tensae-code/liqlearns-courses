@@ -1,6 +1,6 @@
 # Sources for this lesson — Greetings
 
-countries: Egypt, Libya, Nicaragua
+countries: Egypt, Libya, Nicaragua, Laos
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag.
@@ -66,7 +66,7 @@ rendered page the same day).
 - Unit 1 "Greeting and Numbers," p. 14 (Hello/Hi, Goodbye/bye tracing;
   "What's your name? / My name's" tracing strips, p. 16).
 
-**Acceptance count: taught in 3 countries (Egypt, Libya, Nicaragua).**
+**Acceptance count: taught in 4 countries (Egypt, Libya, Nicaragua, Laos).**
 This lesson is the first layer. Courses are built from FINISHED
 countries' books only (his ruling, 2026-10-25), and updated as the
 library updates: when a country finishes, its books merge in, its name
@@ -119,3 +119,17 @@ hello → good morning → how are you (both ways) → names (both ways)
 goodbye. Fill-in dialog and choose-the-right-response listening
 follow (pp.8–9). Same country, deeper layer — the count does not
 change. (Full map: EGYPT-BOOK-MAP.md.)
+
+**Laos Grade 3 added 2026-10-27** — *English for Primary Schools,
+Textbook Grade 3* (MoES/RIES, 2021 revised edition; full read in
+english/books/laos.md). The book opens with a hello song —
+greetings, "How are you?", and the answers "I'm good!" / "I'm
+great!" (Introduction, p.1). Its first story, **The dog's name**,
+is children greeting each other and giving their names — "Hello!
+What's your name?" / "My name is Kham" (then Phone, Noy, Hong;
+pp.8–9) — and Lesson 2 carries the headed **Grammar box: "What's
+your name? — My name is Houmphanh"** with a chant cycling the
+pattern through four children's names and ask-and-answer work
+(pp.10–11). Same pattern as the countries above, folded; the name
+set (Kham, Phone, Noy, Hong, Houmphanh, Sounthone, Champa, Payia)
+is Laos's own.

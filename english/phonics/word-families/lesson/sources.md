@@ -1,6 +1,6 @@
 # Sources for this lesson — Word families
 
-countries: Egypt
+countries: Egypt, Laos
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -21,7 +21,7 @@ pictures).
 | Short /ɒ/ families: **-og** (dog, fog, log), **-op** (mop, hop, pop), **-ot** (pot, hot, dot), with the family words completed inside sentences and a rhyming story-chant | Egypt Primary 1 Term 2, Unit 4 Lesson 4, PDF pp.80–84 |
 | Short /ʌ/ families: **-ug** (hug, jug, mug), **-un** (bun, run, sun), **-ut** (hut, nut, cut), same device, plus the book's first word search | Egypt Primary 1 Term 2, Unit 5 Lesson 2, PDF pp.90–93 |
 
-**Acceptance count: taught in 1 country (Egypt).**
+**Acceptance count: taught in 2 countries (Egypt, Laos).**
 Counts grow as other finished countries' books are read.
 
 **Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
@@ -121,3 +121,13 @@ Same country, deeper layer — the country count does not change.
   short /ʊ/ in wood, book, look, good — sorted and
   circled in listening work. Same pair, deeper layer:
   the learner is now told how the mouth makes each one.
+
+**Laos Grade 3 added 2026-10-27** — *English for Primary Schools,
+Textbook Grade 3* (MoES/RIES, 2021 revised edition; full read in
+english/books/laos.md). Laos builds the **-at** family by swapping
+the first letter — hat, rat, cat, mat — under the book's own
+question "What is the first sound?" (p.74), with complete-the-words
+work from a letter bank (p.75). Rhyming-pair matching — this
+lesson's family work in pair form — runs in its practice lessons:
+dad–sad, hot–pot, fun–run, can–man (p.110) and cat–mat, bin–win,
+dog–jog, pen–ten (p.128).

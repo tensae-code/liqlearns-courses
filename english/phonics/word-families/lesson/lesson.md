@@ -1,7 +1,8 @@
 # Word families — the lesson
 
 Course: English · Title: Phonics · Lesson: Word families
-Built from: Egypt, English Primary 1 Term 2.
+Built from: Egypt, English Primary 1 Term 2 — and Laos, English
+for Primary Schools Grade 3.
 This lesson is ONE thing only: words that share the same ending —
 same letters, same sound — so when you know one, its whole family
 opens. The single letters and their blends live in their own
@@ -40,6 +41,12 @@ Later in the same units, the book also has the learner rearrange
 letters into the family words and sort words into their family
 boxes — the family is a thing you can hold, not just a sound you
 can hear.
+
+Laos's book plays the swap as the game itself. It starts from
+**hat** and changes only the first letter — hat, rat, cat, mat —
+then asks the child straight out: "What is the first sound?" The
+family is built by swapping, one letter at a time, and the child
+names what changed.
 
 ## Say it to your companion
 Take the -at family. Start from cat and grow it: change only the

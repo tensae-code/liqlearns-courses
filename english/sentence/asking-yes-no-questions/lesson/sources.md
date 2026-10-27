@@ -1,6 +1,6 @@
 # Sources — Asking yes/no questions
 
-countries: Bangladesh, Bolivia, Mongolia
+countries: Bangladesh, Bolivia, Mongolia, Laos
 
 Every part traces to its book and page.
 
@@ -26,9 +26,20 @@ Bangladesh, NCTB. Filed in english/books/bangladesh.md
 | INTONATION, LANGUAGE FOCUS "Using our voices": the voice goes up (↗) or down (↘); for YES/NO questions the voice usually goes UP and the answer's voice goes down; pairwork ×6 on the pattern | Bangladesh, English for Today Class 4, Unit 22 "Tune up!", pp.44–45 (p.45) |
 | The same intonation rules restated in the later directions unit (voice UP for greetings and yes/no questions; DOWN for statements and Wh- questions) | Bangladesh, English for Today Class 5, the directions unit's "Using our voices" focus (as filed) |
 
-**Acceptance count: taught in 3 countries (Bangladesh,
-Bolivia, Mongolia).** Bolivia boxes the do/does engine;
+**Acceptance count: taught in 4 countries (Bangladesh,
+Bolivia, Mongolia, Laos).** Bolivia boxes the do/does engine;
 Mongolia works the be-swap on its doing-now questions;
 Bangladesh teaches the voice the question rides on. Other
 finished countries join as their books are read (see
 READING-QUEUE.md).
+
+**Laos Grade 3 added 2026-10-27** — *English for Primary Schools,
+Textbook Grade 3* (MoES/RIES, 2021 revised edition; full read in
+english/books/laos.md). Laos grows each yes/no question out of the
+statement lesson just before it, always with the short answers:
+**"Is it a pig? — Yes, it is. / Is it a cow? — No, it isn't"**
+(headed Grammar box, p.64, after the animals set), **"Do you
+like…? — Yes, I do. / No, I don't"** (p.86, after I like / I don't
+like, p.82), and **"Can you…? — Yes, I can. / No, I can't"**
+(p.104, after I can / I can't, p.100). The toy-box guessing chant
+runs the Is it a…? pattern as a game (p.105).

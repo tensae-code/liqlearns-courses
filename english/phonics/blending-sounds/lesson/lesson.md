@@ -1,8 +1,8 @@
 # Blending sounds — the lesson
 
 Course: English · Title: Phonics · Lesson: Blending sounds
-Built from: Libya, English for Libya Primary 1 — and Egypt, English
-KG1 / Primary 1.
+Built from: Libya, English for Libya Primary 1 — Egypt, English
+KG1 / Primary 1 — and Laos, English for Primary Schools Grade 3.
 This lesson is ONE thing only: pushing letter sounds together until
 they become a word. Knowing the letters themselves is the lesson
 before this one (The alphabet); two-letter sounds and word families
@@ -33,6 +33,12 @@ early. Egypt's first letters are T and I, then S, A and N: with a
 handful of letters, in the right order, a child can already blend
 real words instead of waiting for all 26.
 
+Laos's book puts the slide in the child's hands. The child blends
+with **letter tiles** — loose letters on the desk, pushed together
+one sound at a time: c-a-p… cap, c-a-t… cat. Its sounds arrive in
+the order s, a, t, i, p, n, and the tiles come out as soon as there
+are enough sounds to build real words with.
+
 Slow first. Sound, sound, sound — then slide. When the slide is
 smooth, you are reading.
 
@@ -47,3 +53,5 @@ closed — the sounds became one word.)
    under each letter.
 3. Mark the word that took the longest slide. That word is
    tomorrow's first practice.
+4. If you have letter cards or tiles, build cap and cat the Laos
+   way: push the tiles together as you slide the sounds.

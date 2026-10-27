@@ -1,8 +1,9 @@
 # Two-letter sounds — the lesson
 
 Course: English · Title: Phonics · Lesson: Two-letter sounds
-Built from: Libya, English for Libya Primary 1 and 2 — and Egypt,
-English Primary 1 Term 2.
+Built from: Libya, English for Libya Primary 1 and 2 — Egypt,
+English Primary 1 Term 2 — and Laos, English for Primary Schools
+Grade 3 (the ck pair).
 This lesson is ONE thing only: two letters that together make ONE
 sound. Single letters are The alphabet; blends — two letters where
 you hear BOTH sounds — are a different lesson next door.

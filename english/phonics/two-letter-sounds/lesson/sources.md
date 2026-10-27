@@ -1,6 +1,6 @@
 # Sources for this lesson — Two-letter sounds
 
-countries: Egypt, Libya
+countries: Egypt, Libya, Laos
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The two-letter sets lived inside the alphabet
@@ -18,7 +18,7 @@ single letters.
 | The same pairs re-taught a year later — oa · ee · ue · oo (both) · th (both) · ch · sh | Libya Pupils Grade 2, Unit 2, book pp.19, 25–26 |
 | Qq taught as **qu** — quiet, quack, queen, question | Egypt — English Primary 1 Term 2, PDF p.12 |
 
-**Acceptance count: taught in 2 countries (Egypt, Libya).**
+**Acceptance count: taught in 3 countries (Egypt, Libya, Laos).**
 Counts grow as other finished countries' books are read.
 
 **Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
@@ -132,3 +132,12 @@ Same country, deeper layer — the country count does not change.
   run: digraph (two letters, one sound) → trigraph
   (three letters, one sound) → triphthong (three vowel
   sounds gliding inside one syllable).
+
+**Laos Grade 3 added 2026-10-27** — *English for Primary Schools,
+Textbook Grade 3* (MoES/RIES, 2021 revised edition; full read in
+english/books/laos.md). Laos teaches c and k as ONE pair, written
+"ck": the sound mini-text (Sounthone calls his cat "Kitty, Kitty,
+Kitty!", p.42), then the child traces and copies the two letters
+as a single pair (p.43) before blending with them — k-i-ck is one
+of the book's first tile blends (p.43). Recorded as printed: the
+pair is taught, traced and copied as a unit.

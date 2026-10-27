@@ -1,6 +1,6 @@
 # Sources — Numbers
 
-countries: Egypt, India, Palestine
+countries: Egypt, India, Palestine, Laos
 
 Every part traces to its book and page.
 
@@ -27,9 +27,20 @@ in english/books/india.md (FULLY READ + CITATION CHECK PASSED
 | The book's first written ADDITION — picture sums with "+ =" — recorded here as the books' next step beyond counting (arithmetic itself belongs to the Maths title, not this lesson) | Palestine, Grade 1 Part 1, Unit 5 "Revision," p.31 |
 | Numbers 1–10 in the first unit ("Say aloud" numbers 1–6; join-the-dots 1–10); numbers 11–20 carried in the Teacher's Pages | India, Marigold Book One, Class 1, Unit 1 + Teacher's Pages |
 
-**Acceptance count: taught in 3 countries (Egypt, India,
-Palestine).** Palestine carries the youngest path (numbers
+**Acceptance count: taught in 4 countries (Egypt, India,
+Palestine, Laos).** Palestine carries the youngest path (numbers
 inside the word units, traced); Egypt carries the counting
 question and the climb (1–5, 11–20, by tens to 100); India
 carries the same 1–20 in its first book. Other finished
 countries join as their books are read (see READING-QUEUE.md).
+
+**Laos Grade 3 added 2026-10-27** — *English for Primary Schools,
+Textbook Grade 3* (MoES/RIES, 2021 revised edition; full read in
+english/books/laos.md). Numbers come in two lessons, both counted
+on things: **1–5** sung and counted on pigs — "1 pig / 2 pigs,"
+the plural -s from the very first count (p.33) — and **6–10**
+counted on fruit: six apples, seven mangoes, eight bananas, nine
+oranges, ten papayas (p.87). On that same page the counted fruit
+turns into **five picture addition sums** to complete — counting
+and first adding on one page, the same next step Palestine takes
+in its Revision unit.

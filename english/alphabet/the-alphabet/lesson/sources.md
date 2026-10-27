@@ -1,6 +1,6 @@
 # Sources — The alphabet
 
-countries: Egypt, Libya
+countries: Egypt, Libya, Laos
 
 Every part traces to its book and page. The PDF of Libya's Pupils Book
 is one book page per PDF page, with the book page printed at the
@@ -189,7 +189,17 @@ change, but Libya's layer is now a *spiral* — taught in Grade 1,
 re-taught in Grade 2 — which is how the course itself says a
 sound is learned.
 
-**Acceptance count: taught in 2 countries (Egypt, Libya).**
+**Acceptance count: taught in 3 countries (Egypt, Libya, Laos).**
 The full alphabet and the letter-word list are Libya's in this layer;
 Egypt joins for the sounds-way grouping. Other finished countries join
 as their first English books are read (see READING-QUEUE.md).
+
+**Laos Grade 3 added 2026-10-27** — *English for Primary Schools,
+Textbook Grade 3* (MoES/RIES, 2021 revised edition; full read in
+english/books/laos.md). Laos is the sounds-first case in full: the
+child meets the letters one sound at a time inside the phonics
+spine, and the **whole alphabet arrives only at Lesson 16 — as a
+song, all 26 letters, lowercase (p.73)** — a review sung after
+sixteen sounds are already working, not the starting line. The
+letters q, v, x, y get no sound lesson of their own in the book;
+they live in the song.
