@@ -72,8 +72,9 @@ words for the world around them, and can use a dictionary.*
   from Egypt P1 Term 2's sets and Libya's early grades
   **UNIT 2 COMPLETE 2026-10-27** (all five world sets built:
   the-home, the-town, food-and-fruit, animals, the-body)
-- **Unit 3 — Using the Dictionary**: what a dictionary is · finding a
+- **Unit 3 — Using the Dictionary** ✅: what a dictionary is · finding a
   word by its first letters · what the words in a definition mean
+  **UNIT 3 COMPLETE 2026-10-27** (one lesson: using-the-dictionary)
 - **Unit 4 — Numbers, Days, and Time**: counting · the days · the
   months with their numbers · telling the time
 

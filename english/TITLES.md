@@ -64,6 +64,8 @@ its own subtitle folder with its own lesson + questions):
 - Word (world sets) → the-home · the-town · food-and-fruit ·
   animals · the-body (built 2026-10-27 — Level 2 Unit 2
   "Words for the World" COMPLETE)
+- Word (tool) → using-the-dictionary (built 2026-10-27 —
+  Level 2 Unit 3 COMPLETE)
 Conversation → hello-and-your-name (from Egypt, Primary 1) is kept, and
 filed under its title; it is NOT Lesson 1 of the path.
 
