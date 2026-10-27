@@ -3434,3 +3434,817 @@ render checked) — 60 anchors, all on their pages.
 `english/books/laos.md`. With it, the Laos Grade 6 pair is read
 whole — student book and teacher guide — and the Laos run
 continues at Grade 7.
+
+## Grade 7 (ມ.2) Student Textbook — FULLY READ + CITATION CHECK PASSED 2026-10-27
+
+The second book of the SECONDARY series ("Book Two") — it follows
+Book One (Grade 6, filed above) in the same seven-book run for the
+12-year school system. Source copy: the public mirror the library's
+secured copy came from (GitHub Xaypanya/Lao-Textbook,
+`textbooks/secondary/m2/m2_english.pdf`). Working copy verified
+against the library record before reading: **10,718,583 bytes,
+151 PDF pages — both match the record exactly (VERIFIED-TEXT in
+the record; the English student entry)**. Read by a checking
+agent; spot-verified before commit (file facts, the cover on a
+render, and anchors throughout).
+
+## The book itself
+
+"ENGLISH FOR SECONDARY SCHOOLS" — no grade number in the title;
+the cover badge is a big pink **"2"** held by the series mascot,
+and the record's Grade 7 (ມ.2, secondary year 2) placement is the
+series position (Book Two of seven). Ministry of Education,
+Research Institute for Educational Sciences (RIES). PDF p.1 is
+the front cover itself, doubling as the credits page (checked on
+the render): orange cover, the title in pink-and-white display
+type, and the **same credits team as Book One, name for name** —
+Advisor Ms. Phouangkham Somsanith; Editor in Chief Assoc. Prof.
+Dr. Bouasavanh Keovilay; Managing Editors Mr. Khamphanh
+Phimsipasom and Ms. Viengkham Phonpraseuth; Writers Ms. Manivone
+Phaxayavong, Ms. Bouakeo Vilaylath, Mr. Thongsouk Keomany, Mr.
+Kittisack Saychoummany, Mr. Bounthapany Bounxouay and Mr. Khambane
+Pasanchay; Design and Layout Mr. Khankab Phongoudom. The cover
+imprint year is **2011** — one year later than Book One's cover —
+while the Introduction (PDF p.2, printed p. I) is dated the same
+day as Book One's: "Vientiane Capital, 01 February, 2010." The
+Introduction (English, then the same in Lao) states the book's
+place plainly: "English textbook for secondary school Book Two
+is the second in a series of seven textbooks" answering the
+reform of general education from 11 years to 12; the extra
+secondary year was added in academic year **2009–2010**; written
+by the Foreign Language Research and Resource Center at RIES
+with the Faculty of Letters, National University of Laos, funded
+by the **Basic Education Sector Development Project (BESDP)**;
+the same admission as Book One ("the textbook is produced under
+the time pressure; therefore, some minor errors could not be
+avoided"). PDF pp.3–4 are the Contents (printed pp. II–III):
+**11 units, three lessons each (33 lessons)**, a Revision after
+Unit 4 (Units 1–4, printed p.53), after Unit 6 (Units 1–6,
+p.79), after Unit 8 (Units 7–8, p.114), and a full Revision as
+Unit 11 (Units 1–10, p.140), closing with **References**
+(p.147). **No ISBN is printed anywhere** — checked on the
+cover/credits page (render), the Introduction, and the
+References page, and the whole text layer was searched: no ISBN
+string exists in the book; it has no back cover or colophon page
+(it ends on the References). **Page offset: printed folio =
+PDF page − 4** (checked at printed p.1 = PDF p.5, "Vocabulaly"
+p.27 = PDF p.31, the verb-picture page p.108 = PDF p.112 —
+render, folio visible — and References p.147 = PDF p.151).
+File notes: the PDF is print-protected the same way as the rest
+of the family (copying disabled, RC4); its English text layer is
+clean but **doubled** — most lines sit in the file twice (a ghost
+layer under the visible one, which is why the cover credits
+extract with every line repeated); its Lao layer extracts as
+mojibake under the same legacy font encoding as Grades 4–6 —
+Lao-carried points were read on renders or from the English
+facing them, and the Grammar notes whose rule line is stated
+only in Lao are filed here by their English tables and examples.
+Every interior page carries the running unit head, a printed
+folio, and the faint slanted Lao "RIES" watermark.
+
+**Standing against Grade 6 (Book One) — what Book Two changes.**
+(1) **It does not start over.** Book One restarted from zero
+(greetings, alphabet, 1–12); Book Two assumes Book One and
+builds on it — its revisions reach back into Book One's own
+material (the Kham farm text, the Soumaly routines, Simon Says),
+and Unit 3 is openly a revision-and-extension unit ("students
+revise the past and present tenses"). (2) **New structures, one
+per unit, each with a headed Grammar note**: be going to for
+future plans (Unit 2); like + V-ing (Unit 1); possessive
+pronouns and the possessive 's rules (Unit 4); **must / mustn't**
+— the first modal beyond can (Unit 7); countable / uncountable
+nouns and **some / any** (Unit 8); **would like** (Unit 8);
+**comparative and superlative adjectives** with their spelling
+rules — the series' first comparison system (Unit 9). (3)
+**will appears in use but is never tabled**: offers in dialogue
+("I will help you to look for it," "I'll ask a teacher to help
+you," Unit 6) and one prediction model ("It will be sunny next
+Monday," Unit 10) — no Grammar note names it. (4) **The
+present perfect does not appear** — no have/has + participle
+forms anywhere; possession have got (Book One) is as far as
+have goes. (5) **Grammar notes grow up**: Book One's notes were
+Lao-glossed tables; Book Two still tables, but three notes are
+written as full English prose rules (countable/uncountable,
+p.100; some/any, p.104 — complete with a printed × against "Do
+you have some questions?"; would like, p.109). (6) **Reading
+steps up again**: a passage in most lessons, now including a
+two-part fable told as listen-and-complete cloze with dialogue
+(The farmer and the cobra, pp.77–78), a two-city comparison
+text (p.124), a four-seasons text (p.136), and a full narrative
+as the Unit 11 revision text (At the zoo, p.141); two new
+exercise shapes arrive — true/false **with correction of the
+false ones**, and **choose the correct sentence** from a
+right/wrong pair (Unit 11). (7) **Writing steps up**: the first
+**two-paragraph** task ("Write two paragraphs comparing
+yourself with a friend," p.126), a paragraph about your own
+house with a preposition bank (p.65), a paragraph about holiday
+plans (p.26), and a ten-sentence rule-writing task (p.96). (8)
+**No new pronunciation systems** — Book One's -s and -ed sound
+tables are not repeated; sound work gives way to spelling rules
+(plural lists, comparative doubling/y→i). (9) The lesson shape
+is Book One's (numbered activities under named heads —
+Vocabulary with Lao glosses, Listen and repeat, Grammar note,
+Read and answer, Write, games, translation), and
+English→Lao **translation exercises** recur (Unit 7, p.90).
+
+## The map, unit by unit
+
+**Unit 1 — LIKES AND DISLIKES (printed pp.1–13).**
+*Lesson 1, Food and drink (pp.1–5):* fourteen food/drink words
+with Lao glosses (bread, coffee, fish, fruit, food, lemonade,
+meat, milk, rice, sticky rice, tea, vegetable, water, drink);
+Listen and repeat sorted under FOOD / DRINK heads; a ten-word
+anagram Look and write (aet→tea, gveeeabtls→vegetables…);
+Look and say likes/dislikes ("I like fish, vegetables and milk.
+I don't like coffee, meat and tea."); a **class survey** with
+Do you like…? and tick/cross table; picture-based third person —
+three friends' likes read off pictures, "Davanh likes meat **but**
+Soumaly and Naly don't" (p.2); Does…like…? ask-and-answer set;
+**Write six sentences** about the three friends; a word square.
+*Lesson 2, Hobbies (pp.6–8):* hobby vocabulary (badminton,
+collect, draw, fishing, hobby, listen, play, volleyball, ride,
+stamp, sew, read); five short self-introduction texts — children
+from Thailand, Malaysia, China, Japan and Savannakhet naming
+their hobbies ("My hobbies are collecting stamps and playing
+volleyball"); **Grammar note: Like + V-ing / Do not like +
+V-ing** (the rule line in Lao; English examples — "I like
+playing the guitar in the evening," "He does not (doesn't) like
+swimming," p.7); a listening tick/cross table over food **and**
+hobbies, read back and written up; **Write about your hobby** on
+a gapped frame; the chant "What do you like to do?" — "I like
+to play Ping-Pong. / He likes to go fishing…" *Lesson 3,
+Favourites (pp.9–13):* favourite vocabulary (favourite, enjoy,
+animal, fast, subject, snake, spider, sports, frog, newspaper,
+papaya salad, peanut); the favourite-questions set (colour,
+food, subject, sport, animal, drink) answered and surveyed
+across three friends; Listen and complete over like / love /
+enjoy / don't like + V-ing picture frames; the chant "I like
+coffee, I like tea, / I like you, / Why don't you like me?";
+**Grammar note: the full present-simple like table** —
+Affirmative (like/likes), Negative (don't/doesn't like),
+Interrogative (Do/Does…like…?) and short answers, worked over
+six food words (pp.11–12); Read and complete drills (like/likes,
+don't/doesn't, Do/Does); **Write sentences about what you like,
+dislike, enjoy and love** (four lines).
+
+**Unit 2 — WHAT ARE YOU GOING TO DO? (printed pp.14–26).**
+*Lesson 1, What are you going to do today? (pp.14–18):*
+vocabulary of a school clean-up (clean, comic book, flag, Lao
+National Day, pick up the rubbish, tidy, plan, sweep); the
+director's dialogue — "Tomorrow is 2nd December, the Lao
+National Day. This afternoon we are going to clean our school";
+**Grammar note: Be going to + infinitive verb** — full
+affirmative / negative / interrogative / short-answer tables
+(pp.15–16), with a note on "going to go to" (rule in Lao; the
+example pair "I am going to go to the market / I am going to
+the market"); a class work-plan table spoken and questioned
+("Class 1A is going to sweep the school yard"); Read and
+complete; **Write five sentences about your plans**. *Lesson 2,
+What are you going to do this weekend? (pp.19–22):* the football
+match dialogue with a gapped twin to complete; Soumaly's weekend
+told picture by picture across six day-parts, then the same
+weekend completed as a **gapped paragraph**; a five-children
+activity table questioned and answered in full sentences;
+short-answer completion; **Write about your weekend** in six
+time slots; the chant "What are you going to do? I don't know…"
+*Lesson 3, The summer holiday (pp.23–26):* holiday vocabulary
+(have a good time, holiday, visit, cousin, great, hope, during);
+the Luang Prabang dialogue ("I'm going to visit my grand
+parents in LuangPrabang. — Oh, great! I hope you have a good
+time."); five gapped holiday dialogues; yes/no holiday
+questions; **word-order writing** (five jumbled sentences);
+matching questions to answers with this week / this month /
+next month answers; picture writing about six children's
+holidays; **Write a paragraph about what you plan to do during
+your holidays** (three ruled lines).
+
+**Unit 3 — NOW AND THEN (printed pp.27–39).**
+*Lesson 1, What's she doing? (pp.27–32):* the now-vs-usually
+lesson. Vocabulary (brush, cry, flat tyre, glasses, spicy food,
+outside, forget, inside, knit, laugh, rice porridge, game
+show); the Soumaly dialogue — "What are you doing? — I'm going
+to school. — Do you usually walk to school? — No, I don't. But
+today my bicycle has got a flat tyre"; picture caption writing
+in the continuous; a mime-and-guess game; -ing word set
+(sweeping, eating, crying, sleeping, drinking, laughing,
+waving, writing, playing the guitar, knitting, brushing your
+hair, reading); **Grammar note: Present continuous set against
+Present simple** — one table, "usually" seated in the simple
+half (p.29); frequency adverbs **always / usually / sometimes /
+rarely / never** worked through Soumaly's habits (listen and
+complete, p.30) and the learner's own (Read and complete,
+p.31); the reading passage **A rainy Saturday** — four children's
+indoor/outdoor habits against today's rain (summary only; five
+written questions, pp.30–31); choose-the-tense completion;
+change five sentences into the present continuous. *Lesson 2,
+Vilayvanh and her family (pp.33–35):* headed "students revise
+the past and present tenses… agree and disagree." The past
+narrative passage — Vilayvanh's childhood in a small village
+(goats, ducks, chickens; a river behind the house; the move to
+Vientiane two years ago for her father's job — summary only);
+underline all the verbs; **list the regular and irregular verbs**
+from the passage; agree/disagree practice — "Yes, that's right"
+/ "No, I don't think so" with the true fact supplied (six
+statements); a gapped listening text (Vilayvanh in Vientiane
+now); **Grammar note: Some irregular verbs** — twelve pairs in a
+table: bring/brought, buy/bought, feel/felt, find/found,
+give/gave, leave/left, ride/rode, speak/spoke, swim/swam,
+take/took, understand/understood, win/won (pp.34–35); sentence
+practice and verb-box completion; **Write a paragraph about
+yourself when you were young** (three ruled lines). *Lesson 3,
+A hard-working man (pp.36–39):* the circle-the-correct-form
+text — Kham's farm story told across past and present with
+three-way choices at every verb (work/works/worked, come/comes/
+came, grow/grew/grows…); agree/disagree over six statements
+about Kham; the three-tense dialogue frame ("What are you
+doing? … Do you always…? … but yesterday I…"); a **three-tense
+grid** — Present simple / Present continuous / Past simple rows
+for catch a bus, climb, come, do homework, drink, eat, feel,
+get up, go, leave, make the bed (p.38); **anagram past forms**
+(see→asw→saw, forget→goftor, buy→btguho, understand→oduotnsder,
+ten verbs, p.39); a fifteen-pair present→past matching exercise.
+
+**Unit 4 — WHOSE … IS THIS? (printed pp.40–52).**
+*Lesson 1, Soumaly's bag (pp.40–43):* belonging vocabulary
+(belong, belonging, comb, sharpener, purse, whose, pocket);
+Look and say over the things Soumaly carries; **Grammar note:
+This is Soumaly's comb / These are Soumaly's books** against
+**This comb belongs to Soumaly / These books belong to
+Soumaly** (p.40); point-and-say chains in fours; the Whose…?
+dialogues ("Whose pen is this? — It belongs to me."); listening
+matching of items to owners; a gapped Bounmy-and-Maly
+conversation; group work with four real things from your own
+bag or pocket. *Lesson 2, It doesn't belong to me (pp.44–48):*
+story vocabulary (become, run, quiet, blow, laugh, make a joke,
+direction, land, serious, fly, suddenly, mess, happen, windy,
+neighbour); the **wind passage** — Sengchanh's washing blows
+into the neighbours' yards and the whole street's belongings
+land everywhere; everyone laughs and cleans up (summary only);
+underline the verbs, list regular/irregular, match five words
+to definitions; two dialogues returning blown belongings —
+"Does this shirt belong to you? … Is this your towel? — No,
+it's not ours." / "Is this your school blouse? … It's not mine.
+Maybe it's Chanthy's blouse. — Yes, maybe it's hers." (p.45);
+**Grammar note: Possessive Pronouns** — belongs to me/you/him/
+her/us/them → mine, yours, his, hers, ours, theirs (p.46);
+**Grammar note: Possessive Nouns (…'s)** — "Use (…'s) or (…s')
+with people and animals"; singular (Phoukeo's jacket / the
+dog's ball), plural (his parents' hats), irregular plurals
+(the children's classroom), and a warning box on the short
+form of *is* ("Fido's a dog" — p.47); a table to complete:
+pronoun → possessive adjective → possessive pronoun; a
+fishing-rod logic puzzle ("The bag isn't mine. The fish isn't
+mine…"); the chant "Where's my ticket?" *Lesson 3, Where's my
+hat? (pp.49–52):* prepositions of place. Vocabulary (angry,
+plant, glass, CD player, in, under, carpet, mat, video, corner,
+on, wall); the lost-hat dialogue (kitchen? table? bedroom? —
+"Here it is! It is under my bed."); the messy living-room text
+— bread on the chair, books under the table, orange juice on
+the carpet — read and completed with in/on/under; picture
+inventory speaking and **six true sentences written**; a
+classroom listening (there is / there isn't over Somphone's
+classroom list); the song "Bounmy's duck" — a nick-nack
+paddy-whack cumulative song about Bounmy's duck, cat, goat,
+cow and bird (summary only).
+
+**Revision, Units 1–4 (printed pp.53–57).** Listening tick/cross
+over Phoukeo's likes, spoken up and **written as five
+sentences**; a possessive match (It's my breakfast → It's mine;
+It's the dogs' breakfast → It's the dogs'); the **Sompong
+two-weekends text** — her usual weekend in the present simple
+against last weekend in the past, twenty bracketed verbs to put
+in the correct form (p.54); going-to sentence writing from word
+pairs; weekend plans written both ways ("I'm going to watch TV
+/ I'm not going to watch TV"); two logic puzzles (whose
+breakfast is whose; who is going swimming, shopping, cycling);
+a food word square ("You should have 12"); a possessive-pronoun
+crossword.
+
+**Unit 5 — IN AND AROUND TOWN (printed pp.58–70).**
+*Lesson 1, How do I get to the bus station? (pp.58–61):*
+direction and place vocabulary — across, along, between, next
+to, opposite, straight, turn left, turn right, and thirteen town
+places (bank, bus station, butcher, chemist, clinic, drink
+shop, hospital, library, park, post office, school,
+supermarket, temple); ten model sentences spoken off pictures
+("The bank is between the bus station and the chemist." "He's
+running across the street."); map listening (yes/no ticks);
+the direction dialogues — "Excuse me, how do I get to the bus
+station? — Go straight on. Take the second turn on the left.
+The bus station is on the right."; listen-and-complete
+destinations; ask-your-partner rounds over the map. *Lesson 2,
+Viengkham's house (pp.62–65):* behind and **in front of** join
+the place set (barn, cart, pond, restaurant, rice field, block
+of land, countryside); the **Viengkham's house passage** — a
+small house on a corner opposite a restaurant, garden behind,
+bicycle in front, brother's motorbike next to it (summary
+only); true/false **with the false ones corrected in speech**;
+**write six true sentences** about the house; question–answer
+matching that mixes Where's…?, Whose…? and What's she doing?;
+dictation-by-number town dictation; the gapped **Vansy's house**
+passage to complete from a preposition bank (in, on, at,
+behind, in front of, next to, opposite, between); draw your
+own house and talk; **Write a paragraph about your house** —
+five ruled lines, "Try to use" the nine prepositions (p.65).
+*Lesson 3, Where's the post office? (pp.66–70):* a real
+Vientiane map — Talat Sao Mall, the Morning Market, Mahosot
+Hospital, Ho Phakeo, Sisaket and Thatphun Temples, the French
+Embassy, the United Nations, two ministries, Vientiane
+Secondary School, Vientiane Capital Library, the Presidential
+Palace (Ho Kham), a hotel, a bank, the bus station and the post
+office itself; true-sentence speaking off the map; the
+lost-tourist dialogue ("Where's the post office? I think I'm
+lost. — Go straight on for two blocks…"); listen-and-write
+places; gapped dialogues to complete and practise; a twelve-
+item **opposites** exercise (happy/sad, under/on, thin/fat,
+big/small, in/out of, hot/cold, long/short, old/young,
+always/never, upstairs/downstairs, right/left, in front
+of/behind); the directions chant ("Turn right at the next
+light… Make a left at the light…").
+
+**Unit 6 — HOW DO YOU FEEL? (printed pp.71–85).**
+*Lesson 1, I'm happy (pp.71–73):* feeling adjectives — afraid,
+angry, bored, ill, interested in, tired, plus sad, happy, hot,
+cold — in two frames, **I feel sad / I'm angry**, pointed and
+said off pictures; listen-and-choose pairs; a Why? round —
+"He went to bed early. Why? — Because it was hot." worked over
+eight picture prompts with **Because…** answers; listen-and-
+choose full sentences; anagram feelings (o r b d e→bored…);
+the antonym chant ("Old! Cold! Tall! Small! Is he young? Is he
+old?…") with claps. *Lesson 2, What's the matter? (pp.74–76):*
+vocabulary (lose, thirsty, hungry, don't worry, what's the
+matter?, pencil case); two dialogues — a lost pencil case and
+a girl who feels ill — both answered with "Don't worry. **I
+will help you** to look for it." / "**I will ask** a teacher to
+help you." (will in use, untabled); listen-and-choose feeling
+pairs; a substitution table for the matter (I'm / I feel +
+very + unhappy, ill, bored, tired, hungry, thirsty, cold,
+sad); gapped dialogues; Read and complete — six story
+sentences to finish with the right feeling; a feelings word
+square. *Lesson 3, The kind farmer (pp.77–78):* vocabulary
+(bite, cobra, kind, die, hold, hear, strange noise, really);
+the fable **The farmer and the cobra** as listen-and-complete
+cloze in two parts — a kind farmer warms a cold, ill cobra
+against his body; the revived cobra bites him, and answers his
+"Why did you bite me? I helped you, I looked after you, I made
+you well" with "Yes, that's true. But you know that I am a
+snake" (plot summary only); the dialogue version acted in
+pairs; verb-box completion over the story (worked, liked,
+was, felt, bit, died); say-and-point feeling sentences
+("He's really thirsty. / He feels bored. / It's really hot."
+— really and very at work).
+
+**Revision, Units 1–6 (printed pp.79–85).** Word grouping —
+twenty-eight words sorted into six groups of four (months,
+days, food and drink, possessives, hobbies, feelings,
+prepositions); the cat preposition set — eight sentences,
+**near** joining in/on/under/behind/in front of/next to/
+between (p.80); the **Mouse Family** reading — label the family
+from position clues, complete the sentences, **write two more
+of your own**; map listening over the Unit 5 town; a going-to
+information-gap (Chart A / Chart B, Bounta and Vansy); dialogue
+completion (What's the matter + directions); **Read and choose**
+— tick the correct sentence of each right/wrong pair ("They
+don't like swimming ✓ / They not like swimming ✗" and seven
+more); a **personality test** (tidy/untidy, happy/sad,
+serious/funny, friendly/unfriendly, lazy/hardworking) written
+up as five sentences about Soumaly — "Soumaly isn't an untidy
+person. She is tidy." — then **five sentences about yourself**;
+word-order sentences with frequency adverbs; the Kham farm
+text returned as a ten-verb tense completion (Book One's and
+Unit 3's story, third telling).
+
+**Unit 7 — YOU MUST BE CAREFUL (printed pp.86–98).**
+*Lesson 1, On the road (pp.86–89):* road vocabulary (block,
+helmet, must, mustn't, sign, speed, traffic lights, speed
+limit, push); twelve road signs matched to their words (Stop,
+No Left Turn, No Right Turn, Don't drop rubbish, No Smoking,
+Don't go straight on, No Parking, No Entry, Don't walk on the
+grass, No U-turn, No Stopping, Quiet); **Grammar note: Modal
+verb must** — "I / you / we / they / he / she / it + must or
+mustn't + verb (infinitive)" with "I must go to school." /
+"You mustn't play in the classroom." (p.87); a road-safety
+sorting table (must: stop at red, wear a helmet, look left and
+right; mustn't: drive over the speed limit, ride in the middle
+of the road, block the road); word-order writing; **Simon
+says** played as a class game with its rule printed ("You are
+OUT of the game if you follow an instruction that DOESN'T begin
+with Simon says…"); a Don't… class-rules matching set;
+**Translate** — ten English words/phrases into Lao (a standing
+exercise kind from Book One). *Lesson 2, At school (pp.91–94):*
+school vocabulary (chalk, jewellery, game shop, ground,
+property, uniform); the School Rules list read first as bare
+commands ("Arrive at school before 8.00 a.m. Don't eat in the
+classroom. Obey the teachers. Wear the school uniform…"), then
+**reported** in pairs as must/mustn't sentences with a partner
+checking; the **bad student** cloze — Philavong, who arrives at
+8.30, wears jeans, never does his homework (frequency adverbs
+and have got at work) — then **Write what Philavong must or
+mustn't do** to be a good student; a two-column partner table
+of everyday must/mustn't; six rules rewritten as must
+sentences; phrasal-verb matching — stand up, sit down, pick
+up, turn off/on, come in/here (p.94); must/mustn't gap-fill;
+a three-person logic puzzle ("Two people are wrong. One
+person is right. Who?"); **list 3 or 4 rules of your school**.
+*Lesson 3, At the zoo (pp.95–98):* animal vocabulary — bear,
+camel, crocodile, elephant, giraffe, horse, lion, lizard,
+monkey, snake, tiger, zebra (plus cage, group, mark, naughty,
+throw, zoo); picture matching; a zoo-map route drawn from
+listening; mustn't listening completion ("You mustn't give
+food to the goats."); **Write ten sentences** about things you
+must or mustn't do at the zoo; the **Zoo Rules** text (Welcome
+to Bankeune Zoo) to learn and translate into Lao — tickets,
+feeding only some animals, no noises, photographs allowed;
+a snakes cloze choosing word forms (afraid of, is/are/were,
+quick/quickly, at/by/in — "You must always be careful with
+snakes and you must never pick them up"); name-the-animal
+writing with dictionary help, then animals matched to
+adjectives (brave, clever, fast, friendly, lazy, quiet, long,
+strong, tall).
+
+**Unit 8 — SHOPPING (printed pp.99–115).**
+*Lesson 1, Countable and uncountable nouns (pp.99–102):*
+vocabulary (child, countable, uncountable, knife, mouse,
+mango, shelf, furniture, cheese); twenty-eight words grouped
+into Fruits / Animals / Clothes / Furniture lists; **Grammar
+note in full English prose** — countable nouns take one/two/
+three and have singular and plural; uncountable nouns "have
+only one form: money, water, milk, coffee"; "Don't use a/an +
+uncountable nouns: a money, a water" (p.100); picture
+completion (This is an apple / These are apples / This is
+water); a **plural list to complete in pairs** — twenty-four
+singulars carrying the whole system: vase/vases, child/
+children, cow, woman, hospital, tooth, man, box, fly, mouse,
+desk, radio, shelf, day, knife, bus, foot, flower, fish, boy
+(p.101); countable/uncountable sorting of twenty-four words;
+odd-one-out circling in five sets; the game **I spy**. *Lesson
+2, Some and any (pp.103–108):* market vocabulary (away,
+chilli, hear, need, bookshelf, pea, jam, park, bunch, one
+thousand, tomato, soup); the gate-seller dialogue — "Do we
+need **any** vegetables? — Yes, we need **some** tomatoes and
+some peas… No, we don't need any chillies. Here's some money.";
+**Grammar note: Some and any** — "We normally use some in
+positive sentences and any in questions and negative
+sentences," with the wrong example printed and crossed: "Do
+you have some questions? × / Do you have any questions? ✓"
+(p.104); a priced market-stall picture (kip prices per kilo,
+bunch, bottle, box) questioned two ways — Do you need any…? /
+Yes, I need some…; **How much is the rice? / How much are the
+bananas?** — "It's 7,000 kip a kilo."; two completion sets for
+a / an / some / any; food-and-drink column sorting; a
+one-minute **memory game** over a kitchen-table picture ("some
+meat, a banana…"); sixteen some/any questions; **Read and
+draw** — verb pairs matched to pictures (wave/point,
+break/repair, pay/buy, do/make, cook/cut, feed/eat,
+close/open, pp.107–108). *Lesson 3, What would you like?
+(pp.109–113):* shopping vocabulary (buy, newspaper,
+shopkeeper, town, carrot, cabbage, onion, pork, customer,
+watermelon); two shop dialogues by weight — "What would you
+like to buy? — I'd like to buy two kilos of rice, please. —
+That's ten thousand kip, please." and half a kilo of pork at
+twenty-five thousand; **Grammar note: would like** — "We can
+use would like (contraction form …'d like) when we ask for and
+offer something in a formal way" (p.109); gapped shop dialogues
+with prices to complete; listening ticks over three customers'
+baskets; the **Mrs. Brown memory-chain game** ("Mrs. Brown
+went to town and bought some apples and a pen and some shoes
+and a newspaper and some lemonade…"); a miming guessing game;
+a would-like guessing game scored 1/0 ("Would you like to buy
+any oranges? — Yes, I would. / No, I wouldn't."); and a
+listening discrimination set — **like against would like** in
+ten sentence pairs (p.113).
+
+**Revision, Units 7–8 (printed pp.114–115).** Anagrams
+rearranged and then used in sentences (love, give, listen,
+throw, spit, have, need, buy — the verbs of must and some/any);
+listening tick pairs (egg/cake, children/chicken, coffee/
+cheese, food/would, some/come, potato/tomato); a restaurant
+dialogue built from a word box — "What would you like to eat?
+… I'd like a hot dog and French fries… Coffee and some water."
+
+**Unit 9 — COMPARING (printed pp.116–126).**
+*Lesson 1, Two friends (pp.116–118):* comparing vocabulary
+(age, height, kilogram, weight, centimeter, cheap, ice, sweet,
+heavy, papaya); **Grammar note: Comparative adjectives** —
+tall/taller, young/younger, old/older, "Look at the spelling":
+hot/hotter, fat/fatter, heavy/heavier (p.116); two personal-
+data cards (Manotham: 13 years, 145 cm, 45 kg, 1 sister;
+Davanh: 12 years, 135 cm, 37 kg, 2 brothers 2 sisters) spoken
+into comparatives — "Manotham is older than Davanh… Davanh's
+family is bigger than Manotham's."; true sentences about
+yourself against both; **How + adjective** questions (How old
+/ How tall / How much do you weigh? / How many sisters and
+brothers have you got?) run as a two-student interview, then
+the two students compared aloud. *Lesson 2, In our class
+(pp.119–123):* **Grammar note: The superlative adjective** —
+one-syllable adjectives take **the + -est** (the tallest, the
+youngest, the oldest; spelling again hotter/fatter/heavier);
+adjectives of two or more syllables take **more / the most**
+(more boring, more expensive, more beautiful, more dangerous);
+**irregular comparisons**: good/better/the best, bad/worse/
+the worst, many-much/more/the most (p.119); a three-boy data
+table (Thong, Chanthy, Khamdy) spoken and written in
+superlatives ("Khamdy is the oldest boy… Thong has got the
+biggest family."); group-of-three superlative survey reported
+to the class; true sentences written in class mixing
+comparatives and superlatives; longer-adjective comparisons
+said in pairs ("Computers are more expensive than televisions.
+Chicken is more delicious than pork."); -er/-est completion
+questions (the highest mountain in Laos, the Mekong against
+the Amazon); a twelve-adjective comparative/superlative table
+to fill; sentence completions both ways (comparative set,
+superlative set — "It was a very good film. It's the best film
+I've ever seen." as a pattern sentence, p.123); a circle-order
+logic task (A larger than B, B smaller than C, C the largest);
+the spelling families matched (-er/est, -ger/gest, -ier/iest,
+-r/st). *Lesson 3, Two cities in Laos (pp.124–126):* city
+vocabulary (administration, business, building, capital,
+centre, city, computer, crowded, government, lovely,
+peaceful, population, also, busy); the **two-cities passage** —
+Vientiane, the capital and biggest city, "more than five
+hundred thousand" people, the busiest and most crowded;
+Luang Prabang, the old capital, "smaller and older… quieter
+and more peaceful… the most beautiful city in Laos" in some
+people's view (facts summary only), with four written
+questions; true/false speaking with correction; the same text
+as listen-and-complete; picture comparisons of two and three
+things ("Radios are cheaper than TVs. Computers are more
+expensive than TVs. Computers are the most expensive.");
+**Write two paragraphs comparing yourself with a friend**
+(six ruled lines — the book's longest writing task); a word
+square hiding five adjectives; a song with missing words to
+fill from listening (a "place in the sun" song — heard, not
+printed in full; summary only).
+
+**Unit 10 — THE WEATHER (printed pp.127–139).**
+*Lesson 1, What's the weather like? (pp.127–131):* weather
+vocabulary (cloud, cold, fog, hot, wind, rain, storm, kite);
+the adjective set matched to pictures — rainy, cloudy, windy,
+foggy, stormy, sunny (with hot, cold carried in); When…
+sentences ("When it's sunny, we play outside. When it's
+rainy, we carry an umbrella. When it's windy, I fly my
+kite."); **last week's weather said in the past** off a
+seven-day picture chart ("Last Monday it was stormy. Last
+Saturday it was foggy."); small-talk dialogues — "It's really
+hot! It's going to be a very hot day."; three What's the
+weather like today? dialogues pairing weather to plans (warm
+and sunny → football; hot and clear → swim; cool and windy →
+fly my kite); a substitution table for judging weather ("It's
+going to be a really cold day. — That's terrible. / not very
+good. / good. / O.K. … I don't like cold weather."); the song
+"How's the weather? It's sunny today."; a weather word
+puzzle. *Lesson 2, The weather in Laos (pp.132–134):*
+forecast vocabulary (degree Celsius, dry season, wet season,
+maximum temperature, weather forecast, vary); **Draw and
+write next week's weather** — "It will be sunny next Monday"
+as the model (will in use again, untabled); a five-province
+forecast listening table (Champasack 30°C hot and cloudy,
+Savannakhet, Vientiane Capital, Luang Prabang, Phongsaly)
+asked and answered — "What is the temperature? — It's 30
+degrees Celsius." — then written as sentences ("In
+Champasack, it is hot and cloudy with a maximum temperature
+of 30°C."); **The Seasons in Laos** as a circle-the-correct-
+word text (there are two seasons; the wet season is from May
+to October; July is usually the wettest month; the dry season
+runs from the cool months of December and January to the very
+hot weather in April) with four written questions; a
+month-by-month weather table said with always/usually/
+sometimes/never; comparative/superlative completion over the
+seasons (hotter than, the wettest, the coldest, cooler than).
+*Lesson 3, Weather around the Asian region (pp.135–139):*
+season vocabulary (spring, summer, autumn/fall, winter, leaf,
+beach, region, the same, end, last, raincoat, shine, strong,
+fall); a **midday weather map** of nine cities with
+temperatures (Beijing 32° windy, Hanoi 30° rainy, Vientiane
+32° rainy, Manila 34° sunny, Bangkok 35° cloudy, Phnom Penh
+36° cloudy, Kuala Lumpur 29° sunny, Sydney 12° windy,
+Auckland 10° rainy) — talked about three ways: the cities,
+yesterday's weather ("Yesterday, in Vientiane it was 32°C
+and rainy"), and comparisons ("Auckland was colder than
+Sydney, yesterday."); **The Four Seasons** text — Australia's
+four seasons against the region's two, each season described
+(spring flowers and new leaves; summer beach weather; autumn
+leaves falling, strong wind, fog; winter cold, wet and windy,
+short days, warm clothes and raincoats — summary only), with
+eight written questions and a completion set; city names
+written in English and Lao; months unscrambled and **put in
+the correct order**; noun→adjective building (sun–sunny,
+wind, fog, storm, cloud, rain, snow); the **Song for all
+Seasons** — its four season lines put into their correct
+places in the printed song.
+
+**Unit 11 — REVISION, Units 1–10 (printed pp.140–146).** The
+three-tense grid returned and extended (catch/met, put on a
+hat, read, sit, swim, have a shower, write a letter across
+present simple / present continuous / past simple); a past-
+tense cloze text — **Bounsy and Khamdy's river day** (caught
+the bus at half past seven, swam for two hours, ate, drank
+lemonade, played football — summary only); the long reading
+**At the zoo** — Keopha and Phoukeo's zoo visit: the naughty
+monkey that put a woman's bag at the top of a tree, emus and
+kangaroos, lions and tigers, an elephant ride, meat for the
+crocodiles (summary only), with five questions and five
+true/false statements; feeling adjectives completed from a
+box (ill, happy, cold, bored, good); is/are/do completion;
+a five-child height-and-age chart completed into comparatives
+and superlatives (younger/taller/shorter with first letters
+given); **Read and tick** — ten right/wrong sentence pairs to
+choose between ("She's name's Soumaly ✗ / Her name's Soumaly
+✓"; "How many money do you have? ✗ / How much money do you
+have? ✓"; "He cans speak three languages ✗"; ""Do you like
+football?" "Yes, I like" ✗ / "Yes, I do" ✓"); a word square
+(ten months, three seasons, three parts of the day — then name
+the missing ones); directions role-play off a new map
+(chemist, cinema, supermarket, railway station, post office,
+internet cafe, newsagent, bank, church, theatre, Italian
+restaurant).
+
+**References (printed p.147).** Nine items, all 1998–2006
+grammar and course books: Gammidge's Grammar Work Teacher's
+Book 2 and Grammar Works Student's Books 1–2 (Cambridge,
+1998); Vale's Picture Grammar for Children 1–2 (Macmillan
+Heinemann, 1998); Seidl's Grammar One (Oxford, 1998); New
+Headway Beginner (Oxford, 2006); New English File Elementary
+(Oxenden, Latham-Koenig and Seligson — year left blank as
+printed, "( year )"); Side by Side Activity Workbook 1, 3rd
+edition (Molinsky and Bliss with Graham, 2001). Unlike Book
+One's Bibliography, no earlier Lao edition is named.
+
+## New for the course (keyed to the built lessons)
+
+- **Level 12, Going to later** — Laos's first going-to system,
+  and its fullest in the Laos set: the complete be going to
+  table with short answers, the go-to note, plans spoken off a
+  work plan, a weekend and a holiday (Unit 2, pp.14–26).
+- **Level 12, Present actions / Past actions** — the
+  now-vs-usually lesson with the two presents tabled side by
+  side (Unit 3 Lesson 1, p.29); the twelve-pair irregular
+  table (pp.34–35); the three-tense grid and anagram past
+  forms (pp.38–39); the Sompong two-weekends verb-form text
+  (Revision 1–4, p.54).
+- **Level 13, Mine and yours** — the possessive-pronoun table
+  (belongs to me → mine, p.46), the possessive 's / s' rules
+  with irregular plurals (p.47), and the pronoun → possessive
+  adjective → possessive pronoun table to complete (p.47);
+  Whose…? questioning throughout Unit 4 (pp.40–52).
+- **Level 13, Describing words in a sentence** — comparatives
+  and superlatives as a full system: -er/-est, the hot/fat/
+  heavy spelling rules, more/the most for long adjectives,
+  good/better/best, bad/worse/worst, much/more/most (Unit 9,
+  pp.116–123), worked over people, class surveys, and two
+  cities (pp.124–126).
+- **Level 6, Nouns** — countable/uncountable as a prose rule
+  with the a/an ban (p.100), the twenty-four-word plural list
+  carrying -s/-es/-ves/-ies and the irregular set child,
+  woman, man, tooth, foot, mouse, fish (p.101), and some/any
+  with its printed × example (Unit 8, pp.99–108).
+- **Level 6, Pronouns** — the full pronoun/possessive table
+  (p.47) and the Unit 11 right/wrong pairs on pronouns (Her
+  name's…, Our house…, I like her, p.144).
+- **Level 7, The town** — directions as a taught skill: turn
+  left/right, go straight on, take the second turn, across/
+  along/between/next to/opposite (Unit 5, pp.58–61), the lost-
+  tourist dialogue and a real Vientiane landmark map
+  (pp.66–70).
+- **Level 7, Animals** — the zoo set of twelve with mustn't
+  rules and an adjective-matching close (Unit 7 Lesson 3,
+  pp.95–98); the revision narrative At the zoo (p.141).
+- **Level 7, Food and fruit / the home** — the food set re-run
+  through likes, surveys and shopping (Units 1, 8); the house
+  described by prepositions with behind and in front of new
+  (Unit 5 Lesson 2, pp.62–65; Unit 4 Lesson 3, pp.49–52).
+- **Level 5, How are you** — the feelings set grows up:
+  afraid, angry, bored, ill, interested in, tired with I feel /
+  I'm (Unit 6 Lesson 1, p.71), What's the matter? with Because…
+  answers and Don't worry replies (pp.72–76).
+- **Level 11, Questions** — Whose…? (Unit 4), How do I get
+  to…? (Unit 5), How + adjective…? (p.117), What's the
+  weather like? (Unit 10), and the How much is/are…? price
+  questions (p.105).
+- **Conversation / shopping language** — would like tabled as
+  the formal ask-and-offer form, with kip prices by kilo,
+  bunch and bottle and the like/would-like listening split
+  (Unit 8 Lessons 2–3, pp.103–113).
+- **Level 14, The paragraph** — "Write a paragraph about your
+  house" with a preposition bank (p.65), a paragraph about
+  holiday plans (p.26), and the first two-paragraph task in
+  the Laos set (p.126).
+- **Level 15, Reading whole texts** — a passage in most
+  lessons: A rainy Saturday (pp.30–31), Vilayvanh's village
+  (p.33), the wind passage (p.44), two houses (pp.62–65), the
+  Mouse Family (p.81), two cities (p.124), the seasons of
+  Laos (p.133) and of Australia (p.136), At the zoo (p.141).
+- **Level 17, Stories** — The farmer and the cobra, a fable in
+  two cloze parts with its dialogue acted (pp.77–78).
+- **Weather and seasons** (Words for the World stock) — the
+  weather adjective set, forecasts in degrees Celsius, Laos's
+  two seasons against Australia's four (Unit 10, pp.127–139).
+- **Rules language** — must/mustn't tabled as a modal (p.87)
+  and run across road signs, school rules and zoo rules
+  (Unit 7, pp.86–98); no built lesson carries it yet — stocked
+  here for the course.
+- **A negative for Level 18** — the present perfect is NOT in
+  this book; Laos Book Two cannot stock The Present Perfect,
+  and will is present only as untabled use (pp.74, 132).
+
+**Slips recorded as printed:** "Vocabulaly" for Vocabulary
+(Unit 3 Lesson 1 head, p.27) · "Are Paty and Anouxay play
+outside?" (question 2 on A rainy Saturday, p.31) · "use a call
+phone" for a mobile phone (Read and complete item 3, p.31) ·
+"take turns to response" for respond (pp.34, 37) · "grand
+parents" as two words (p.23), and Luang Prabang printed as one
+word "LuangPrabang" there and in the p.124 questions, against
+"Luang Prabang" in the passage itself · "Comlete the following
+sentences" (Unit 7 Lesson 1, p.89) · "The visitors could buy
+the food inside the zoo and feed only some animals" — could
+where the rules mean can (Zoo Rules item 2, p.97) · "Lemomade"
+in the market-stall price picture (p.104) · a name spelled two
+ways inside one unit: "Anouxay" in the table and "Anuxay" in
+the exercise (Unit 2, p.21) · the Contents (printed p. II)
+nests Unit 5's three lesson titles under Unit 4's heading
+block before Unit 5's own heading appears · the References
+leave the New English File year blank — "( year )" (p.147).
+The wrong halves of the Unit 11 Read-and-tick pairs ("She's
+name's Soumaly," "How many money do you have?") are the book's
+deliberate wrong options, not slips, and are filed as exercise
+material above.
+
+**FULLY READ 2026-10-27.** Read page by page from the text
+layer; the picture-carried pages were checked on renders: the
+cover/credits spread (PDF p.1) and the verb-picture matching
+page (printed p.108 = PDF p.112). The unit-opener collage
+pages and the map/picture pages (zoo map p.96, Vientiane map
+p.67, Asian weather map p.135) were read from their extracted
+labels and the exercises built on them. **CITATION CHECK
+PASSED 2026-10-27** — anchors re-opened and confirmed on their
+pages: "Book Two is the second in a series of seven textbooks"
+(Introduction, PDF p.2) · the cover imprint "Ministry of
+Education — Research Institute for Educational Sciences —
+2011" with the full Book One credits team (PDF p.1, render) ·
+Contents: 11 units, Revision Units (1–4) at p.53, References
+p.147 (printed pp. II–III) · "Davanh likes meat but Soumaly
+and Naly don't" (p.2) · Grammar note "Like + V-ing" with "He
+does not (doesn't) like swimming" (p.7) · the like/likes
+Grammar table, Affirmative/Negative/Interrogative (pp.11–12) ·
+"I like coffee, I like tea" chant (p.11) · the director's
+"we are going to clean our school" dialogue (p.14) · Grammar
+note "Be going to + infinitive verb" (p.15) · "I'm going to
+visit my grand parents in LuangPrabang" (p.23) · "Write a
+paragraph about what you plan to do during your holidays"
+(p.26) · "Vocabulaly" (p.27) · the Present continuous /
+Present simple Grammar table (p.29) · "Are Paty and Anouxay
+play outside?" (p.31) · Grammar note "Some irregular verbs" —
+bring/brought … win/won (pp.34–35) · the three-tense grid,
+"I catch a bus / I am catching a bus / I caught a bus" (p.38) ·
+"This comb belongs to Soumaly" Grammar note (p.40) · "It's
+not mine. Maybe it's Chanthy's blouse" (p.45) · Grammar note
+"Possessive Pronouns — It belongs to me. It's mine." (p.46) ·
+Grammar note "Possessive Nouns (…'s)… the children's
+classroom" (p.47) · "Here it is! It is under my bed." (p.49) ·
+the Sompong two-weekends verb text (p.54) · "Excuse me, how
+do I get to the bus station? — Go straight on. Take the
+second turn on the left." (p.61) · "Write a paragraph about
+your house… Try to use: in, on, at, behind, in front of, next
+to, opposite, between" (p.65) · "I feel sad. / I'm angry. /
+I'm afraid of…" (p.71) · "Don't worry. I will help you to
+look for it." (p.74) · the farmer-and-cobra dialogue close,
+"But you know that I am a snake" (p.77) · the Mouse Family
+position clues (p.81) · "Read and choose… They don't like
+swimming ✓ / They not like swimming ✗" (pp.83–84) · Grammar
+note "Modal verb: must… must or mustn't + verb
+(infinitive)" (p.87) · Simon says with its printed OUT rule
+(p.89) · "Comlete the following sentences" (p.89) · the bad
+student Philavong cloze (p.92) · "You mustn't give food to
+the goats" (p.96) · Zoo Rules, "The visitors could buy the
+food inside the zoo" (p.97) · Grammar note "Countable and
+Uncountable… Don't use a/an + uncountable nouns: a money, a
+water" (p.100) · the plural list, child/children … boy/boys
+(p.101) · Grammar note "Some and any… Do you have some
+questions? × / Do you have any questions? ✓" (p.104) ·
+"Lemomade" price label (p.104) · "How much is the rice? —
+It's 7,000 kip a kilo." (p.105) · Grammar note "would like…
+when we ask for and offer something in a formal way" (p.109) ·
+the Mrs. Brown memory-chain game (p.111) · Grammar note
+"Comparative adjectives… hot/hotter, fat/fatter,
+heavy/heavier" (p.116) · Grammar note "The superlative
+adjective… good/better/the best, bad/worse/the worst"
+(p.119) · Vientiane "a population of more than five hundred
+thousand" (p.124) · "Write two paragraphs comparing yourself
+with a friend" (p.126) · "Last Monday it was stormy. Last
+Saturday it was foggy." (p.128) · "It will be sunny next
+Monday" (p.132) · the Asian weather map, "Auckland was
+colder than Sydney, yesterday" (pp.135–136) · The Four
+Seasons text, Australia's four seasons (p.136) · the Unit 11
+At the zoo narrative (p.141) · Read and tick, "How many
+money do you have? ✗ / How much money do you have? ✓"
+(p.144) · References — nine items, New English File with
+"( year )" (p.147) — 48 anchors, all on their pages.
+
+**Course filing state:** FILED + MERGED 2026-10-27 — Laos
+Grade 7 now stands in Going To Later (its fullest going-to
+system), Mine and Yours (the possessive table), Nouns
+(countable/uncountable, some/any), The Town (directions on a
+real Vientiane map), and Describing Words in a Sentence
+(comparatives and superlatives as a full system). The Grade 7
+teacher guide follows in the reading queue; the Laos run then
+continues at Grade 8.
