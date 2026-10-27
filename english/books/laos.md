@@ -5567,3 +5567,550 @@ an eight-country data table), and The Paragraph (a
 three-paragraph place description under a printed plan). The
 Grade 8 teacher guide follows in the reading queue; the Laos
 run then continues at Grade 9.
+
+## Grade 8 (ມ.3) TEACHER GUIDE — FULLY READ + CITATION CHECK PASSED 2026-10-27
+
+The teacher's twin of "ENGLISH FOR SECONDARY SCHOOLS, Book
+Three" — the guide for secondary year 3, pairing unit by unit
+with the Grade 8 student book filed above. Source copy: the
+public mirror the library's secured copy came from (GitHub
+Xaypanya/Lao-Textbook, `guides/secondary/m3/m3_english.pdf`).
+Working copy verified against the library record before
+reading: **23,511,170 bytes, 145 PDF pages — both match the
+record exactly (VERIFIED-TEXT)**. **Content verified by cover
+and credits, not by filename alone** (the Grade 7 lesson, where
+the record's named file was a different book): PDF p.1 rendered
+is this guide's own front cover — "ENGLISH FOR SECONDARY
+SCHOOLS," the series mascot holding the big pink **"3,"**
+"TEACHER'S GUIDE," Ministry of Education and Sports / Research
+Institute for Educational Sciences — and PDF p.2 rendered is
+its credits page (the student book's team, name for name, plus
+the same two "in editing collaboration" names). No scramble
+this time: bytes, pages and content are all the book the record
+says. The PDF's own metadata title is "TG_BOOKss_MM3.indd."
+Read by a checking agent; spot-verified before filing (file
+facts, cover and credits on renders, the song and chant pages
+on renders, anchors throughout).
+
+## The book itself
+
+"ENGLISH FOR SECONDARY SCHOOLS" with the pink "3" badge;
+"TEACHER'S GUIDE" printed under the title on the cover itself
+(Book Two's guide cover did not carry the words in English —
+this one does); the cover also carries the series tagline in a
+curve, "English language introduces Lao culture to
+international." Ministry of Education **and Sports** (the
+student book's ministry name), Research Institute for
+Educational Sciences (RIES). PDF p.2 is the credits page — the
+same team as the student book: Writers Manivone Phaxayavong,
+Bouakeo Vilaylath, Thongsouk Keomany, Kittisack Saychoummany,
+Bounthapany Bounxouay and Khambane Pasanchay; Managing Editors
+Khamphanh Phimsipasom and Viengkham Phonpraseuth; Editor in
+Chief Phouangkham Somsanith, Assoc. Prof. Dr. Bouasavanh
+Keovilay; Design and Layout Khankab Phongoudom; "In editing
+collaboration with: Bounthanh Sengmany, Amonethip
+Phanthanavong." Imprint year **2012**, the student book's year.
+The Introduction (printed p.I = PDF p.3) is the series' shared
+guide introduction, re-dated: "This teacher's guide is the
+third in a series of seven teacher's guides," promising
+"necessary teaching techniques," "the keys of the lessons, some
+reading texts for listening, some songs and games," and ideas
+for "preparing the teaching aids"; teachers are told the
+teaching "will be effective if the teachers read the teacher's
+guide and textbook before teaching"; the time-pressure
+admission follows ("Some minor errors may also contain in some
+instructions" — as printed, see slips); signed "Vientiane
+Capital, 01 February, 2012, Research Institute for Educational
+Sciences," with the Lao preface following on the same page.
+There is **no separate method chapter** — as with the Grade 6
+guide, the method lives in the units: each unit opens with an
+overview page (the lessons, their grammar point, the unit's key
+words), each lesson opens with an English objective line, and
+the teaching steps are numbered to mirror the student book's
+activities, with the procedure written in Lao and every closed
+exercise keyed. The Contents (printed pp.II–III = PDF pp.4–5)
+lists Introduction, Contents, then the eleven units — **and no
+References**: where the student book closes with its source
+shelf, the guide ends with Unit 11's word-search solution.
+**Page offset: printed folio = PDF page − 5** (checked at
+printed p.3 = PDF p.8, p.54 = PDF p.59, p.87 = PDF p.92,
+p.96 = PDF p.101 — folios visible on renders and in the text
+layer); the printed pages run 1–139, and PDF p.145 is the blank
+back-cover panel (orange frame, empty pink panel — rendered
+and checked), so the guide's last printed page is 139. **No
+ISBN is printed anywhere** — checked on the cover (render), the
+credits page (render), and the whole text layer searched: no
+ISBN string exists in the book. File notes: the PDF is
+print-protected the same way as the rest of the family (copying
+disabled, RC4; pdfinfo: print yes, copy no); its English text
+layer is clean but **doubled** (a ghost layer repeats most
+lines); some stretches sit in embedded fonts whose layer
+extracts shifted by three letters in one direction or the other
+(the filled answers and several keys sit in those fonts — read
+and normalised in the reading; they are the same printed
+English); its Lao layer extracts as mojibake under the same
+legacy font encoding as Grades 4–7 — the procedure text is
+mostly Lao, so this filing rests on the guide's printed English
+layer (objectives, scripts, models, keys), with Lao-carried
+points read on renders where it mattered (the cover, the
+credits, the song and chant pages) and flagged as procedure-only
+where the English layer carries nothing more.
+
+## What the guide adds, unit by unit
+
+**Unit 1 — MEETING PEOPLE (guide pp.1–13).** The keys for the
+whole unit. The Somphone self-introduction cloze printed filled
+(is / I'm / was / live / am / isn't / have…, guide p.3); the
+eight Read and answer answers (p.3); the completed interview
+questions and Somphone's filled form (name SOMPHONE KEOSAY, age
+14, born Savannakhet, living in Vientiane, a brother and a
+younger sister, p.4). **The family listening text printed in
+full with its 14 gaps filled** (guide pp.7–8) — the big-house
+text the student book only numbers: the grandparents and aunt
+with time for the kids, the aunt "a wonderful cook," both
+parents working while the aunt does the housework, the cousins
+to play with — with the five short answers keyed (p.8). The
+crossword's answers in both directions (p.8). **The four
+Listen and match descriptions printed in full** (guide p.11) —
+the grandmother with her hair in a bun, the young man in his
+early 20's, the middle-aged father in his 40's with glasses,
+the tall pretty girl of about 16 with a fringe — with the
+matching key (A–3, B–4, C–2, D–1); the four "What does … look
+like?" dialogues completed (p.12); the Thongsouk true/false key
+with corrections (Somphone is quite tall, slim, good-looking,
+really nice skin, p.13).
+
+**Unit 2 — JENNIFER IS GOING TO LIVE IN VIENTIANE (guide
+pp.14–24).** The seven answers to "Jennifer is busy this week"
+(p.17) and **the text itself printed as the filled 17-gap
+listening script** (guide pp.17–18 — thirteen years old, tall
+and pretty, long curly hair, sister Grace, Sydney, the
+passports to the Lao Embassy in Canberra, the shorts and
+skirts, the CD player and camera, packing, the goodbye dinner).
+**The question-word quiz keyed in full** (guide p.20): the first
+man on the moon — 1969; the first president of the Lao P.D.R —
+Souphanouvong; Vientiane to Champassak — about 700 kilometres;
+the first country to have TV — Britain; the capital of
+Australia — Canberra; the language with the most words —
+English; birds migrate — because the weather is cold; the First
+World War — from 1914 to 1918. The un-jumbled questions keyed
+(p.21, including "I'll phone you later" standing among them as
+item 6); the word-building answers (suitcase, ticket, airport,
+weather, photographs, p.21); the coffee-shop true/false key with
+corrections (p.23) and Jennifer's week keyed day by day (p.24);
+the "so" matching keyed 1-b, 2-d, 3-e, 4-c, 5-a (p.24).
+
+**Unit 3 — IN THE PAST (guide pp.25–33).** The present→past
+matching keyed (arrive–arrived, catch–caught, land–landed,
+ride–rode, go–went, take–took, get–got, sing–sang, p.28) and
+**the airport narrative printed filled** (guide p.28 —
+crowded, arrived, landed, went, customs, got, caught,
+Vientiane). Jennifer's nine past sentences keyed in full
+(guide pp.29–30), and the Did …? key (guide p.30) — which
+settles the student book's own drift (see "Settles" below):
+"No, she didn't. She took a lot of photographs." and "No, she
+didn't. She sang at a school concert when she was eight years
+old." The used-to lesson's possible answers printed (guide
+p.33: writing lessons, walk to school, play marbles, study
+maths).
+
+**Unit 4 — NEW NEIGHBOURS (guide pp.34–45).** The household
+matching keyed (bucket, mop, iron, detergent, jug, broom, mug,
+pan, p.36); the six present-perfect completions keyed with the
+bracketed verbs filled (have just moved, have gone, has taken,
+has bought, has found, has just cleaned, p.37); the Look and say
+chains keyed picture by picture — state, continuous, perfect
+("His shorts are dirty. / He's washing his shorts. / He's
+washed his shorts." and the rest, guide pp.37–38); a contraction
+note the student book does not print ("he has = he's, They
+have = They've," p.38). Lesson 2's five answers keyed (guide
+p.40: "No, she hasn't." / "She's been in Vientiane for one
+week." / "They're going to stay in Vientiane for two years." /
+"No, she hasn't. They have just met."). **The spelling contest
+printed as a full running script** (guide p.41) — the leader
+calls "Team A, student 1, spell 'iron'," gets i-r-o-n, "Correct.
+Score 3 points"; Team B's student spells "eaten" e-a-t-t-o-n,
+"Incorrect. e-a-t-e-n. Lose 1 point" — the game the student book
+only names, with its scoring (3 points a correct word, 1 point
+lost for a wrong one). The three-form table keyed (guide p.42:
+buy–bought–bought, be–was/were–been, go–went–gone, live–lived–
+lived, have–had–had, eat–ate–eaten, drink–drank–drunk,
+write–wrote–written). Lesson 3: the Somphone-and-his-family
+true/false key with corrections (guide p.44 — lived in
+Vientiane since 2005; Saysamone at the National University
+since 2006; Somphone at secondary school since 2008); the
+for/since key (1 since, 2 since, 3 for, 4 since, 5 for, 6 for,
+7 since, 8 since, p.44); the eight un-jumbled perfect sentences
+keyed (p.45) and the six Say and write answers (p.45 — in
+hospital since last week; English for two years; Vientiane
+since 1994; bicycle since last month; the director in the
+office since 8 o'clock; a broken leg for a week).
+
+**Unit 5 — WOULD YOU LIKE …? (guide pp.46–58).** The
+house-warming true/false key with corrections (guide p.48);
+the Read and complete phrase key (would / a good idea / would /
+I'm afraid I can't / would / I'd love to, p.49); the five
+invitation sentences put in order (p.49); the food-and-drink
+picture matching keyed (orange juice, noodle soup, coconut
+juice, mango, salad, cake, watermelon, sticky rice, fish,
+p.51); the "At Jennifer's new house" true/false key (guide
+p.52); **the spelling contest script printed again with new
+words** (guide p.53 — "juice" spelled right for 3 points,
+"tamarind" spelled t-a-m-o-r-r-i-n-d and corrected, 1 point
+lost). **One honest negative: the Rice Song gets no words**
+— its page (guide p.54) carries two Lao procedure bullets only;
+the student book (p.56) remains the song's only printed source.
+The invitation-card answers keyed (guide p.56 — Saykham and
+Samone Keosay; the birth of their daughter Khamla; at their
+home in Ban Sisangvone; on Saturday 21 September at 4.00 pm);
+the baci true/false key with corrections (guide p.57 — the
+phakhouane decorated with flowers, biscuits, candles,
+hard-boiled eggs; Somphone is not the host; they are at the
+party); and **the baci dialogue printed as the filled cloze
+script** (guide p.58 — baci ceremony, are, thing, phakhouane,
+it, have, do, decorate, flowers, eggs, interesting, the gaps
+filled in place).
+
+**Unit 6 — AN ACCIDENT (guide pp.59–69).** The "Saysamone's
+accident" answers keyed (guide p.61: he helps his father in the
+garden; he got up late; a car hit him from behind; yes, he
+broke his leg and hurt his head; he is in hospital). **The
+eight While … listening sentences printed in full with their
+matching key** (guide p.62 — 1-C, 2-G, 3-D, 4-A, 5-E, 6-F,
+7-B, 8-H) and the same eight keyed again as written sentences
+(p.63). The hospital lesson's statements listed (p.65).
+**A "Tapescript" for the letter lesson** (guide p.66): the
+Somphone-to-Khammy letter retold as a seventeen-gap listening
+text, printed in full with the gaps filled (letter, brother,
+accident, riding, got, leg, been, one, quite, operation, put,
+cast, bit, long, week, exams, looking) — the guide's only page
+headed with the word Tapescript — with its five answers keyed
+beside it (see "Settles" for the two-days problem inside this
+key). The "I was walking to school" true/false key with
+corrections (guide p.68), the While … sentence key (p.68), and
+the seven mixed-tense completions keyed (guide p.69: broke /
+was washing; were having / came; was playing / sprained; was
+taking / went out; knocked / were cooking; was walking / went
+/ crashed; was painting / fell / broke).
+
+**Unit 7 — CITIES AND COUNTRIES (guide pp.70–82).** The
+comparative tables reprinted as the teaching spread (guide
+pp.72–73). The Thailand-and-Vietnam answers keyed (guide p.75:
+Thailand over 70 million people, Bangkok its biggest city, a
+hot humid climate; Vietnam about 90 million, its capital
+Hanoi, warm or hot all year round) and the completion key (p.75
+— Ho Chi Minh City's average temperature 27°C among them); the
+noun→adjective key (north–northern, south–southern,
+east–eastern, west–western, p.76). The "What's Vientiane like?"
+answers keyed (guide p.78) and **the continued dialogue printed
+as the filled cloze script** (guide p.79 — larger, increasing,
+more, better, are, new buildings, on, don't, opening, more,
+isn't, both, our) with its true/false key; model "What's …
+like?" dialogues for Sydney and Luang Prabang (guide p.80);
+the Life in Bangkok good-points/bad-points table keyed as
+possible answers (guide p.81 — a lot of places to study,
+entertainment, shopping malls, cinemas or movies, concerts or
+pop music, a mixture of different people, chance to practise
+English against polluted, crowded, housing problem, small
+flat, no garden); the School of the Air answers keyed (guide
+p.82 — the Julian family in central Australia, 500 kilometres
+to Alice Springs, lessons at home by radio, Jimmy going to be
+a farmer like his father).
+
+**Unit 8 — FESTIVALS AND CELEBRATION (guide pp.83–96).** The
+unit head prints the singular CELEBRATION, as the student
+book's does, against the guide's own Contents' plural. **The
+Boat Racing Festival read-and-choose text printed with its
+twelve answers filled in place** (guide p.87: yearly, comes,
+the, in, decorated, has, pick up, dance, light, their, float,
+an) and its eight answers keyed (p.88 — September or October;
+the Nam Khan river in Louangprabang as printed; temples and
+other organizations; khene, cymbal and drum; the candles on the
+verandas and fences); the nine present-continuous Look and
+write sentences keyed (p.88). The Pi Mai completion keyed in
+full (guide p.91 — did a lot of work around the house; worked
+in the garden; cleaned the house; cleaning, washing and
+mopping; grandmother made the phakhouane; had a big baci at
+their house; wished each other luck in the traditional Lao
+way; had a really good time) and the survey's five questions
+with a worked example report (Anong, Vangvieng, a new shirt
+from her mother, p.92). **The Christmas text printed in full
+as the filled 25-gap listening script** (guide p.95 — Father
+Christmas, presents, early, while, bed, Christmas, that, must,
+are, new, clothes, preparing, cooking, lunch, relatives,
+arrive, presents, too, afternoon, visits, stories, play, early,
+day, think). **Two honest negatives: the boat-race chant
+(guide p.86) and "We wish you a merry Christmas" (guide p.96)
+get procedure only** — three Lao bullets for the chant, one
+for the carol; neither text is printed in the guide, so the
+student book remains the only printed source for both.
+
+**Unit 9 — AT THE MARKET (guide pp.97–109).** The present
+dialogues' answers keyed (guide p.99 — a special present;
+advice; a jumper, a scarf, gold earrings and a sinh; a sinh;
+yes she does); the ten-requests matching keyed by letter
+(1-b, 2-c, 3-a, 4-i, 5-g, 6-f, 7-d, 8-e, 9-h — nine pairs
+printed, guide p.100). The made-of set keyed throughout: the
+object list (chairs, bucket, rattan ball, jumper, belts,
+spoons, bracelet, sinh, fish basket, khene, guide p.102), the
+object→material matching (jumper–wool, sinh–silk,
+bucket–plastic, fish basket–bamboo, ball–rattan, chair–wood,
+bracelet–gold, p.102), the eight made-of sentences (p.103 —
+the belt "made of silver or leather" among them), the "At the
+market" completion keyed (guide p.104 — cotton, leather,
+steel, silk, rattan, wood, gold, wool, cotton, gold) and its
+five answers (p.105). **Margaret's market trip keyed as twelve
+gap words** (guide p.108: market, tuk-tuk, front, across, past,
+right, left, past, jewellery, bought, eat, home) with the Look
+and say points (guide p.109 — she took a tuk-tuk to the market
+and got off at the entrance); the town-map position sentences
+keyed (guide p.107 — the library between the temple and the
+school; the post office opposite the hospital; the pharmacy
+between the silver shop and the bank; the bookshop next to the
+shoe shop; the hairdresser opposite the school; the book shop
+opposite the restaurant).
+
+**Unit 10 — CUSTOMS FROM AROUND THE WORLD (guide pp.110–122).**
+Jennifer's letter keyed as a choose-the-word list (guide p.112:
+is, about, so, greet, putting, meet, take off, at, point, is,
+on, write) with its five answers (p.113 — for Stella; Jennifer;
+10 November 1997; with a "nob" as the guide spells it; take off
+their shoes) and the word-meaning matching keyed (p.113 —
+slightly = a little, elders = people older than you, take off =
+remove, bowing = bending forward, a collection = many things
+together). One model customs sentence printed (guide p.114: "In
+Laos, most women wear the traditional sinh."). The four
+schoolchildren's listening gaps keyed by name (guide p.118 —
+TUTI: fourteen, from, to, keep; YOKO: in, have, short, must;
+ROD: I'm, the, have, don't; RACHEL: thirteen, have, must, like)
+with the nine true/false answers (1 False, 2 True, 3 False,
+4 True, 5 True, 6 False, 7 False, 8 False, 9 False) and the
+must/have-to completion key (guide p.119: have, has, doesn't
+have, mustn't, has, have, mustn't). **The Hmong instruments
+listening text printed filled** (guide p.121 — interesting,
+songs, love, festivals, musical, make) with two model
+Choose-and-write sentences (myth, complex). **The greetings
+quiz keyed by letter** (guide p.122: 1-b, 2-a, 3-b, 4-b, 5-b,
+6-c, 7-a, 8-c).
+
+**Unit 11 — FEELING (guide pp.123–139).** The have/has got
+grammar spread keyed with its two model sentences ("I have a
+fever." / "I have got a cold.," guide p.125 — the second as
+printed, comma inside the closing quote); the nine illness
+sentences keyed (guide p.126: a cold, a cough, a fever, a
+headache, a pulled muscle, a sore throat, a sprained ankle, a
+stomach ache, a toothache); the eight picture answers keyed by
+letter (p.126); the picture sentences keyed by name (guide
+p.127 — Maly a cold, Khamsy a cough, Chanh a sore throat,
+Bounpone a fever, Bouakeo a stomachache); the three illness
+dialogues printed completed (guide p.128 — "I am feeling ill,"
+"I've got a cold," "I'm sorry to hear that" and their fellows,
+with the third dialogue's illness left as a blank line marked
+"possible answer"); **the Illness / Injury sort keyed in full**
+(guide p.128 — illness: a headache, a fever, a cough, a sore
+throat, a cold, a toothache; injury: a sprained ankle, a burnt
+finger, a broken leg, a cut, a broken arm, a pulled muscle).
+The sick-note lesson: the seven true/false verdicts printed
+against their statements (guide p.131 — hospital False, friend
+False, a cold True, hasn't got a cough False, four days False,
+see the doctor True, father False) and **the five corrected
+sentences printed** (guide p.131 — not going to school this
+afternoon; at home; written to his teacher; got a cough; had a
+fever for two days; his mother is going to take him). **The
+doctor dialogue printed completed** (guide p.132 — see
+"Settles" for how its answers differ from the student book's
+printed dialogue). The dengue lesson's five answers keyed
+(guide pp.135–136), the dengue text's questions answered in
+full (guide pp.136–137 — the virus transmitted from a person
+to others by mosquitoes; the advice list keyed: don't take
+aspirin, take paracetamol, eat fruit, drink lots of water or
+coconut juice, go to see the doctor immediately; no
+vaccination; the symptoms; sleep under mosquito nets day and
+night), the read-and-arrange's first sentence keyed ("Mosquitoes
+transmit dengue fever," p.137), the ten cloze words keyed
+(guide p.138: net, transmitted, sick/ill, headache, bone,
+vomit, doctor, disease, get, aspirin, water), and **the word
+search printed solved** (guide p.139) with its word list —
+bleeding, dengue, temperature, headache, sore throat,
+stomachache, fever, vomit — **"sore throat" spelled in full**,
+where the student book's list prints "sore thoat" (see
+"Settles").
+
+## Settles, disagreements, and honest negatives
+
+**Settles against the student filing.** (1) The question-word
+quiz now has its key (guide p.20, above). (2) The student
+book's Unit 3 picture drift is settled by the guide's Did …?
+key (guide p.30): the key sides with the pictures — photographs,
+not videos; eight years old, not ten — so the student book's
+question wording stands as its own slip on both points.
+(3) The student book's Unit 4 Say and write prompts print
+"study Eglish" (student p.48); the guide's keyed answers for
+the same exercise print "I've studied English for two years"
+correctly (guide p.45). (4) The student book's word-search list
+prints "sore thoat" (student p.146); the guide's solved grid
+prints the list with "sore throat" spelled in full (guide
+p.139). (5) Jennifer's letter choices are keyed (guide p.112),
+including "take off" for the shoes and "so" for the result —
+and the guide's answer key spells the greeting a "nob" where
+the student text prints "nop" (guide p.113; the student book's
+own greetings quiz also prints "nob" for Cambodia, student
+p.129 — the letter's "nop" is the odd one out).
+
+**Disagreements recorded as printed.** (1) **The hospital
+stay.** The student book's letter says Saysamone has been in
+hospital for one week, and the guide's own Tapescript agrees
+("He has been in hospital for (8) one week," guide p.66) —
+but the guide's Read and answer key on the same spread says
+"He has been in hospital for two days" (guide p.66). The guide
+disagrees with itself; both stand as printed. (2) **Saysamone's
+university year.** The guide's true/false key corrects a
+statement to "Saysamone has studied at the National University
+of Laos since 2006" (guide p.44, matching the student text),
+but its un-jumbling key prints "Saysamone has studied at the
+National University of Laos since 2003" (guide p.45). Both
+stand as printed. (3) **The doctor dialogue.** The student book
+prints the dialogue whole (student pp.138–139): a fever for
+two days, a cold — yes, a headache — no, a cough — yes, tired
+"just a little." The guide's completed version of the gapped
+dialogue (guide p.132) answers differently — a fever for
+**three days**, no headache, **no cough**, tired "yes" — a
+second printed version of the same scene that does not match
+the first; recorded as printed on both sides. (4) Jennifer's
+mother's name: the student book's slip is "Margaet" (student
+p.55); the guide's true/false key prints "Magarret" (guide
+p.52) — neither book prints Margaret correctly in these two
+places, though both print it correctly elsewhere.
+
+**Honest negatives.** The Introduction promises "some songs,"
+but the guide prints **no song words at all**: the Rice Song
+(guide p.54), the boat-race chant (guide p.86) and "We wish
+you a merry Christmas" (guide p.96) all get Lao procedure
+bullets only. The student book remains the only printed source
+for all three. (The one rhyme text the guide does print in
+full is not a song but the filled scripts and keys above.)
+
+## New for the course
+
+- **Level 18, The Present Perfect** — the tense's keys and
+  scripts from the teacher's side: the six just-completions
+  keyed (guide p.37), the gone/been chains keyed picture by
+  picture (guide pp.37–38), the for/since key (guide p.44), and
+  the illness survey's frame running the doctor dialogue
+  completed in full (guide p.132). Laos's limit stands from the
+  student side: no present perfect continuous is keyed because
+  none is taught.
+- **Level 12, Past actions** — used to's possible answers
+  (guide p.33), the past continuous's eight While … sentences
+  printed and keyed as a listening set (guide p.62), and the
+  mixed-tense completion key (guide p.69).
+- **Level 11, Questions** — the question-word quiz with its
+  full key (guide p.20: 1969, Souphanouvong, about 700 km,
+  Britain, Canberra, English, cold weather, 1914–1918).
+- **Level 5, Conversation** — the invitation language keyed
+  end to end (order key and phrase key, guide p.49), and the
+  regret expressions standing in the completed illness
+  dialogues (guide p.128).
+- **Level 7, The body** — the Illness / Injury sort keyed in
+  full (guide p.128) and the dengue advice list keyed (guide
+  p.137: don't take aspirin, take paracetamol…).
+- **Level 7, The town** — the map positions and Margaret's
+  market trip keyed word by word (guide pp.107–109).
+- **Stocked for lessons not yet built** — **must / have to**
+  keyed as a system (the four children's listening answers and
+  the must/mustn't/have-to/don't-have-to completion key, guide
+  pp.118–119) and **made of** keyed throughout (guide
+  pp.102–104); the spelling contest's full running script with
+  its 3-points / lose-1-point scoring, printed twice (guide
+  pp.41, 53) — the series' classroom game, scripted.
+
+**Slips recorded as printed (the guide's own):** the
+Introduction's "Some minor errors may also contain in some
+instructions" (printed p.I) — the admission sentence itself is
+broken · the unit-overview pages carry stale running feet from
+the series template — Unit Two's opener is footed "Unit 1"
+(guide p.14), Unit Five's "Unit 1" (p.46), Unit Six's "Unit 1"
+(p.59), Unit Eight's "Unit 7" and "Unit 1" (p.83), Unit Nine's
+"Unit 1" (p.97), Unit Ten's "Unit 9" and "Unit 1" (p.110),
+Unit Eleven's "Unit 10" (p.123), and Unit Four's opener is
+footed "Unit 3" (p.34) · the Unit 4 overview names its lessons
+"Lots of questions" and "Since 2002" (guide p.34) where the
+student book names them "Asking questions" and "Since and
+for" · "Jennifer's mother is Magarret" in the Unit 5 key
+(guide p.52) · "Khamdmy" for Khammy in the Unit 6 answers
+(guide p.66) · "While the driver of the blue car was serving
+to avoid the old man" in the Unit 6 sentence key — serving for
+swerving (guide p.68) · the filled Jennifer script prints "She
+likes listening to music and talking photographs" — talking
+for taking (guide pp.17–18) · the Unit 7 Read and complete key
+prints "A population of Vietnam is about 90 million" (guide
+p.75) · "Louangprabang" as one word in the Unit 8 answers
+(guide p.88), against Luang Prabang elsewhere · "The children
+are playing game" in the Unit 8 Look and write key (guide p.88)
+· the Unit 11 model prints "I have got a cold.," with the comma
+inside the closing quote (guide p.125) · the internal date
+disagreements (hospital one week / two days; Saysamone since
+2006 / since 2003) stand in the Settles section above.
+
+**FULLY READ 2026-10-27.** Read page by page: the English text
+layer throughout (de-ghosted in the reading; the shifted-font
+stretches — the filled scripts and several keys — read as the
+English they print), and the picture-carried and Lao-carried
+points on renders: the cover (PDF p.1), the credits page (PDF
+p.2), the Introduction (PDF p.3), the Contents (PDF pp.4–5),
+the Rice Song page (PDF p.59), the chant page (PDF p.91), the
+Read and choose key page (PDF p.92), the Sing page (PDF
+p.101), and the blank back cover (PDF p.145).
+**CITATION CHECK PASSED 2026-10-27** — anchors re-opened and
+confirmed on their pages: cover badge "3" with "TEACHER'S
+GUIDE" and the MoES/RIES imprint (PDF p.1, render) · the
+credits team with the two editing-collaboration names (PDF
+p.2, render) · "the third in a series of seven teacher's
+guides," Introduction dated Vientiane Capital, 01 February,
+2012 (printed p.I = PDF p.3) · Contents — Unit 1 p.1, Unit 4
+p.34, Unit 11 p.123, last entry Lesson 3 p.134 (printed
+pp.II–III = PDF pp.4–5) · the Somphone cloze filled (guide
+p.3) · the family listening script with 14 gaps filled (guide
+pp.7–8) · descriptions A–D with key A–3, B–4, C–2, D–1 (guide
+p.11) · the Jennifer cloze script, 17 gaps (guide pp.17–18) ·
+the quiz key — 1969, Souphanouvong, about 700 kilometres,
+Britain, Canberra, English, 1914–1918 (guide p.20) · the
+airport script filled (guide p.28) · "She took a lot of
+photographs" and "when she was eight years old" in the Did …?
+key (guide p.30) · the spelling contest — "iron" right,
+"eaten" spelled e-a-t-t-o-n, "Lose 1 point" (guide p.41) · the
+three-form table (guide p.42) · the for/since key (guide p.44)
+· "since 2003" in the un-jumbling key against "since 2006" in
+the true/false key (guide pp.44–45) · the invitation order key
+(guide p.49) · "Magarret" in the Unit 5 key (guide p.52) · the
+second spelling contest — "juice," "tamarind" (guide p.53) ·
+the Rice Song page, procedure only, no words (guide p.54,
+render) · the baci cloze script filled (guide p.58) · the
+While … key 1-C, 2-G, 3-D, 4-A, 5-E, 6-F, 7-B, 8-H (guide
+p.62) · the Tapescript with "one week" and the answer key's
+"two days" on the same spread (guide p.66) · "was serving to
+avoid the old man" (guide p.68) · Thailand "over 70 million,"
+Vietnam "about 90 million," Ho Chi Minh City 27°C (guide p.75)
+· the Vientiane cloze script filled (guide p.79) · the Boat
+Racing Festival text with its twelve answers filled (guide
+p.87, render) · the Pi Mai completion key (guide p.91) · the
+Christmas cloze script, 25 gaps (guide p.95) · "We wish you a
+merry Christmas" — procedure only (guide p.96, render) · the
+made-of keys (guide pp.102–104) · Margaret's twelve gap words
+(guide p.108) · the letter key — is, about, so, greet, putting,
+meet, take off, at, point, is, on, write (guide p.112) · the
+four children keyed — TUTI, YOKO, ROD, RACHEL (guide p.118) ·
+the greetings quiz key b, a, b, b, b, c, a, c (guide p.122) ·
+the Illness / Injury sort (guide p.128) · the sick note's five
+corrected sentences (guide p.131) · the doctor dialogue
+completed, fever "for three days" (guide p.132) · the dengue
+advice list (guide p.137) · the word search solved, "SORE
+THROAT" spelled in full (guide p.139) · no ISBN printed
+anywhere (cover, credits, and the whole text layer searched) ·
+the blank back-cover panel (PDF p.145, render) — 36 anchors,
+all on their pages.
+
+**Course filing state:** FILED — this section stands in
+`english/books/laos.md`. With it, the Laos Grade 8 pair is read
+whole — student book and teacher guide — and the Laos run
+continues at Grade 9.
