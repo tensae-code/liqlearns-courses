@@ -63,7 +63,7 @@ every letter, sounds out new words, and can say hello and their name.*
 *Building things. End of level: the learner knows the word kinds, has
 words for the world around them, and can use a dictionary.*
 
-- **Unit 1 — Word Kinds**: nouns ✅ · verbs ✅ · adjectives · adverbs ·
+- **Unit 1 — Word Kinds**: nouns ✅ · verbs ✅ · adjectives ✅ · adverbs ·
   pronouns (each one lesson, one thing — pronouns carries its own
   depth: I/you/he/she/it/we/they and their forms)
 - **Unit 2 — Words for the World**: the home and its rooms · the town
