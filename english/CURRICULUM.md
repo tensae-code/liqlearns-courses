@@ -97,7 +97,7 @@ talks about now, before, and later.*
   going to ✅ **UNIT 3 COMPLETE 2026-10-27** (present-actions,
   past-actions, going-to-later) — from Libya's middle-grade spine
 - **Unit 4 — Joining and Describing**: and/but ✅ · describing words in a
-  sentence · mine and yours
+  sentence ✅ · mine and yours
 
 ## Level 4 — Paragraphs, essays, and stories
 *End of level: the learner reads whole texts, writes paragraphs and a
