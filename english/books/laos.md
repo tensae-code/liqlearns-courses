@@ -6114,3 +6114,606 @@ all on their pages.
 `english/books/laos.md`. With it, the Laos Grade 8 pair is read
 whole — student book and teacher guide — and the Laos run
 continues at Grade 9.
+
+## Grade 9 (ມ.4) Student Textbook — FULLY READ + CITATION CHECK PASSED 2026-10-27
+
+The fourth book of the SECONDARY series ("Book Four") — it follows
+Book Three (Grade 8, filed above) in the same seven-book run for
+the 12-year school system, and it closes the Somphone-and-Jennifer
+story line the secondary books have carried since Book One: in
+Unit 10 Jennifer's family leaves Laos for Australia. Source copy:
+the public mirror the library's secured copy came from (GitHub
+Xaypanya/Lao-Textbook, `textbooks/secondary/m4/m4_english.pdf`).
+Working copy verified against the library record before reading:
+**11,527,173 bytes, 152 PDF pages — both match the record exactly
+(VERIFIED-TEXT in the record; the English student entry)**.
+**Content verified by cover, not by filename alone** (the Grade 7
+guide lesson): PDF p.1 rendered is this book's own combined
+cover-and-credits page — "ENGLISH FOR SECONDARY SCHOOLS," the
+series mascot holding a big pink **"4,"** Ministry of Education
+**and Sports** / Research Institute for Educational Sciences,
+**2013** — and PDF p.2 is its Introduction, opening "English
+textbook for secondary school Book Four is the fourth in a series
+of seven textbooks." The file is the book its record says it is.
+Read page by page from the text layer; the two picture-carried
+pages that matter (the food-groups wheel, printed p.2, and
+Jennifer's torn-up letter, printed p.126) were read on renders;
+the Lao layer extracts as mojibake under the series' legacy font
+encoding, and the English layer is doubled (a ghost layer repeats
+most lines) — both quirks are the file's, not the print's.
+
+## The book itself
+
+"ENGLISH FOR SECONDARY SCHOOLS" — no grade number in the title;
+the cover badge is the pink **"4"** and the record's Grade 9
+(ມ.4, secondary year 4) placement is the series position (Book
+Four of seven). Unlike Book Three, which spread cover and credits
+over two pages, Book Four prints its credits **on the cover
+itself** (the Book Two way): **the same credits team as Books
+One–Three, name for name** — Writers Manivone Phaxayavong,
+Bouakeo Vilaylath, Thongsouk Keomany, Kittisack Saychoummany,
+Bounthapany Bounxouay and Khambane Pasanchay; Managing Editors
+Khamphanh Phimsipasom and Viengkham Phonpraseuth; Editor in
+Chief Phouangkham Somsanith, Assoc. Prof. Dr. Bouasavanh
+Keovilay; Design and Layout Khankab Phongoudom. (Book Three's
+extra "in editing collaboration" line does not appear.) Cover
+imprint year **2013** (Book One 2010, Book Two 2011, Book Three
+2012). The Introduction (PDF p.2, printed p. I) states the book's
+place: the fourth of seven textbooks answering the reform of
+general education from 11 years to 12; the extra secondary year
+was added in academic year 2009–2010; written by the Foreign
+Language Resource and Research Centre at RIES with the Faculty
+of Letters, National University of Laos, funded by the **Basic
+Education Sector Development Project (BESDP)**; the same
+admission as the earlier books ("the textbook is produced under
+the time pressure; therefore, some minor errors could not be
+avoided"). The Lao half of the Introduction names RIES in full.
+Contents (PDF pp.3–4, printed pp. II–III): **11 units — nine
+content units of three lessons each (27 lessons), with a
+REVISION unit after Unit 4 (Unit 5) and a closing REVISION unit
+(Unit 11)** — where Book Three ran eleven straight content units
+with no revisions at all, Book Four brings the revision units
+back — and **References** listed at p.147. In the book itself the
+back matter is a **Glossaries** (English–Lao word list, printed
+pp.147–148) closing with a **Bibliography** (printed p.148):
+Gammidge's Grammar Works 1–2 (CUP 1998), Vale's Picture Grammar
+for Children 1, Seidl's Grammar One (OUP 1998), New Headway
+Beginner (2006), New English File Elementary (2006, its year
+given here — Book Three's References left it blank), Side by
+Side Activity Workbook 1 (2001), and the series' own ancestor,
+"English for Lao Secondary Schools book 3" (Phandamnong et al.,
+1998). Printed page = PDF page − 4 through the body (front matter
+carries Roman folios I–III on PDF pp.2–4); the book ends at
+printed p.148 — **there is no blank back-cover panel**; all 152
+PDF pages carry print. **No ISBN is printed anywhere** — checked
+on the cover/credits page (render) and across the whole text
+layer, which contains no ISBN string. PDF metadata: title "TB_M4
+Eng cover.psd," author RIES, Acrobat 8.1 Combine Files (2012).
+
+The book's teaching shape is the series' fixed one — a
+vocabulary box with Lao glosses, Listen and repeat, then numbered
+activities — but two shapes now stand as regular features:
+**"Read and translate"** (a full text read and translated into
+Lao, in at least six lessons) and the boxed **Grammar note**
+mid-lesson. Writing climbs again: two-paragraph tasks arrive in
+Unit 2, process writing in Unit 3, and personal-letter writing
+closes the book's story in Unit 10.
+
+## The map, unit by unit
+
+- **Unit 1 THE FOOD (pp.1–16).** *Lesson 1 The food we need
+  (pp.1–5):* advice with **should / shouldn't** over a health
+  frame. The reading text (pp.1–2, second half picture-carried
+  beside a five-food-groups wheel, read on the render) sorts
+  food into **five groups — proteins, carbohydrates, vitamins,
+  minerals, fats and oils** — with where each is found; then
+  read-and-list sorting, five written questions, listen-and-say
+  true/false, an 12-gap listening cloze of the same text, and a
+  doctor-and-patient dialogue ("What should I do? — You should
+  eat healthy food… You shouldn't eat a lot of fats and pickled
+  food," p.5); spelling-contest game. *Lesson 2 Like and dislike
+  (pp.6–10):* like/dislike sentences, **Would you like…? — Yes,
+  please / No, thanks** set against Do you like…?, a restaurant
+  dialogue (Somphone asks Jennifer what she thinks of Lao food —
+  she likes sticky rice and grilled chicken, dislikes papaya
+  salad), a tick/cross survey of Jennifer's tastes, a **class
+  survey** of three classmates, an oral report shape ("name 1
+  likes fried rice, cake and lobster but he/she dislikes grilled
+  chicken and pork"), and the chant **"Food I like to eat"**
+  printed in full (p.10). *Lesson 3 Offering advice (pp.11–16):*
+  the **present simple** taught whole — verb-choice exercises,
+  a boxed Grammar note (Subject + V1(s) + Object, eat/eats,
+  p.12), the read-and-translate text "Daravone's teeth"
+  (Somphone's sister who has never had toothache), a How often…?
+  class survey — and three closing Grammar notes: **should /
+  shouldn't** as a table (p.15), **like vs would like** (p.16),
+  and **adverbs of frequency on a 100%→0% scale** (always,
+  usually, often, sometimes, rarely, never; once/twice/three
+  times/every… at the end of the sentence, p.16).
+- **Unit 2 TRAVELLING (pp.17–28).** *Lesson 1 Tourist sites
+  (pp.17–21):* advice about where to visit with **should and
+  ought to** — a Grammar note (Should + V1 / Ought to + V1,
+  p.17), the dialogue "Somphone's advice" (Khonephapheng, Wat
+  Phou, the Plain of Jars, Luang Prabang; "you ought to go to
+  Luang Prabang"), true/false on the dialogue, picture questions
+  for four regions, should/ought to dialogue completion, and the
+  book's **first two-paragraph writing task** (p.20–21): one
+  paragraph about a place you have visited (starter given), one
+  about a place you should/ought to visit. *Lesson 2 The old
+  capital (pp.22–25):* describing places. The read-and-translate
+  text **Luang Prabang** (the old capital, a World Heritage site
+  "situated in the north and surrounded by mountains," its
+  temples, Ban Phanom weaving village, festivals, food) — the
+  passive shapes sit inside the description unlabelled here —
+  then a listening cloze of the same text, underline-the-
+  adjectives, describing a traditional stilt house against a
+  modern concrete one from sentence starters, and **write two
+  paragraphs describing the place or city where you live**
+  (p.25). *Lesson 3 My best holiday (pp.26–28):* past simple
+  and present perfect revised together in a holiday dialogue
+  (Jennifer's family flew to Luang Prabang, as Somphone advised
+  in Lesson 1), past-tense question practice, and the frame
+  **superlative + present perfect: "This is the best holiday
+  I've ever had"** with its set (nicest present, most wonderful
+  old city, most delicious food, most beautiful place, p.27);
+  **write a paragraph about the best holiday you've ever had**
+  (p.28).
+- **Unit 3 HOW IS IT MADE? (pp.29–42) — the passive unit.**
+  *Lesson 1 Lao weaving (pp.29–32):* the lesson head states the
+  aim outright — "using **passive verbs** and some logical
+  connectors: **firstly, secondly, thirdly, finally**." The
+  read-and-translate process text **Weaving** runs the steps in
+  passives (tools are collected and prepared, patterns are
+  chosen, threads are dyed, threads are placed in the frame,
+  the fabric is cut); the sentences are re-practised, answered
+  on, and cloze-filled; then the book's first passive Grammar
+  note: **Present passive voice — Subject + to be + past
+  participle (V3)** with a worked table (The classroom is
+  cleaned every day / Vegetables are sold at the market / Plum
+  pudding is eaten at Christmas, p.32), a fill-in exercise, and
+  a V1–V2–V3 list. *Lesson 2 Rice growing (pp.33–37):* farming
+  vocabulary over ten pictures; the read-and-translate text
+  **How rice is grown** — present passives for the yearly cycle
+  (land is ploughed and harrowed, seeds are soaked, seedlings
+  are pulled up and replanted, rice is cut, collected and stored
+  in a barn) with past passives for the old way ("rice was
+  normally grown once a year"); a picture-ordering exercise,
+  true/false **with the correct sentence written out**, a
+  **write-the-process task** (how vegetables, flowers or plants
+  are grown, from a six-step diagram: choose plants → prepare
+  the soil → put the plants into the soil → cover the roots →
+  water → …, connectors printed as helps), and the song
+  **Farmer Bounta** (the Old MacDonald tune with a Lao farmer,
+  five verses printed in full, p.37). *Lesson 3 Things found
+  (pp.38–42):* the **present perfect passive** — Grammar note
+  (Subject + have/has + been + V3: My shoes have been found /
+  The TV has been fixed, p.38), Have they been found? /
+  Has it been fixed yet? dialogues, the two-part lost-shoes
+  dialogue (Jennifer's shoes taken by mistake; "Your shoes have
+  been found"), and a write-and-say set that builds a lost-item
+  sentence pair for nine picture prompts.
+- **Unit 4 A PICNIC (pp.43–58).** *Lesson 1 Planning an outing
+  (pp.43–48):* **will** revised whole (full will/'ll/won't
+  contraction table, p.43) and the book's conditional: a Grammar
+  note headed **"Present Real Condition"** — If + subject + V1…,
+  subject + will + V1…, in both orders ("If it rains, we'll go
+  by bus," p.44) — sentence writing, a choose-the-correct-verb
+  exercise that drills the if-clause present against will
+  ("If Somphone has/will have time, he'll go to the zoo"),
+  a zoo-trip dialogue where every plan is conditional on the
+  weather, picture-cued if-sentences, and word-order building.
+  *Lesson 2 The zoo (pp.49–53):* twelve zoo animals matched to
+  pictures; the read-and-translate text **The zoo**; a zoo-keeper
+  dialogue dense with first conditionals ("The cage will be
+  finished next week if it doesn't rain… If the panda arrives
+  soon, there won't be enough"); an exercise that picks every
+  conditional sentence out of the dialogue; sentence completion;
+  and a ten-clue logic puzzle over six cages (animal, country,
+  feeding time). *Lesson 3 Asking for permission (pp.54–58):*
+  formal and informal permission as one system — **Is it OK if
+  I…? / Can I…? / Could I… please?** with Yes, sure / Yes,
+  certainly / Sorry, I'm afraid you can't — two dialogues
+  (Jennifer asks her father, then her teacher Miss Smith, for
+  Friday off), a substitution table, a **letter cloze** (Jennifer
+  to her grandmother about the zoo and Nam Ngum Dam trip, 15
+  gaps), a formal-or-informal sorting exercise, and **write a
+  letter like it about your last holiday**.
+- **Unit 5 REVISION (pp.59–65)** — Units 1–4 revised. Grammar:
+  an irregular-verb three-form table to complete; **for or
+  since**; **write about things your grandparents used to do**
+  (used to in production); a listening cloze that rebuilds an
+  accident text in past simple against past continuous ("while
+  I was going to school, I saw an accident"); advice-writing
+  with should/shouldn't for seven problems; a listening cloze
+  that re-runs **How rice is grown** with every passive blanked;
+  conditional completion; and **error-correction of the present
+  perfect passive** ("My computer has not been fix yet / They
+  have been find / They haven't been bring back yet" — printed
+  as the errors to fix, p.63). Vocabulary: describing-people
+  listening cloze, made-of sentences from a materials box,
+  What's the matter? picture answers. Dialogue: a describing-a-
+  friend cloze and invitation/offer matching.
+- **Unit 6 PEOPLE FROM THE PAST (pp.66–84).** *Lesson 1 Prince
+  Souphanouvong — part 1 (pp.66–72):* history vocabulary
+  (prince, province, civil engineering, the Lao Patriotic
+  Movement, ministries) and the book's fullest **past simple
+  Grammar note**: regular verbs tabled (study→studied …
+  shop→shopped) with affirmative/negative frames (pp.67–68),
+  then **irregular verbs** tabled (sleep→slept, read→read,
+  go→went …, p.69) with completion practice; the biography
+  part 1 as read-and-translate (born July 13, 1909 at Ban Mai
+  village, Luang Prabang; Hanoi, then Paris and the National
+  School of Bridge and Road Engineering, graduated 1937;
+  projects across Indochina; joined the Lao Patriotic Movement
+  in 1940 — the text runs past the page foot; summary only
+  here), written questions, cue-built sentences, picture talk,
+  **write about somebody you know well** (past-tense life
+  writing from a model), Hangman. *Lesson 2 Prince
+  Souphanouvong — part 2 (pp.73–79):* **wh-questions about the
+  past** — Yes/No-question dialogue practice over a 16-item
+  last-weekend chart, a wh-question interview chart, and a
+  **question-forms table** (Wh- + did + subject + infinitive +
+  time expression, p.75); biography part 2 as read-and-translate
+  (Minister of Planning 1957–59, Vice Prime Minister 1962,
+  elected President of the Lao PDR in 1975, served until 1991,
+  died of a heart attack on January 9, 1995 — summary only),
+  true/false with corrections, written questions, a
+  read-and-choose that runs the biography's own sentences
+  against wrong forms (born/was born, elected/was elected),
+  and a word-box cloze of part 2. *Lesson 3 Ho Chi Minh
+  (pp.80–84):* past simple revised; a Grammar note of **past
+  time expressions** (yesterday, last night/week/year, in 2009,
+  two years ago, p.80) with ordering and word-order practice
+  and a wh-question completion set; a six-sentence picture
+  match; the biography as read-and-translate (a Vietnamese
+  politician, poet and journalist; born May 19, 1890 in Kiem
+  Lien [as printed]; Hue and Saigon; work on ships, photography
+  in Paris; founder of the Democratic Republic of Vietnam; died
+  September 3, 1969 in Hanoi [as printed] — summary only);
+  written questions; a **listen-and-correct-the-wrong-
+  information** version of the same text; and an anagram set
+  (coalition, assembly, revolutionary, independence, minister,
+  movement, patriotic, liberate, politician, founder, freedom).
+- **Unit 7 PEOPLE IN OUR LIVES (pp.85–98).** *Lesson 1 My best
+  friend (pp.85–89):* describing people — build and hair
+  vocabulary matched over ten pictured children; a Grammar-note
+  table **asking and giving people's general description**
+  (What does he look like? / Does he wear glasses? / How old is
+  he? — He's in his twenties / What colour is her hair? / How
+  tall is she? — She's 152 cm, p.86); write-the-question
+  practice; an **is-or-has exercise** for the 's form that
+  quietly re-uses the perfect and the perfect passive ("Jennifer's
+  got curly hair — has; My bicycle's been found — has," p.87);
+  a who-is-she dialogue that identifies Jennifer from her
+  description; a gapped "My best friend" text about Jennifer;
+  and two writing tasks — **describe a classmate for the class
+  to guess**, and **describe somebody in your family** (p.89).
+  *Lesson 2 My photo album (pp.90–93):* more description —
+  a photo-album dialogue ("It was taken a long time ago, when I
+  was in Savannakhet… He looks like a boxer. He's got broad
+  shoulders and very strong arms"), adjective scales to extend
+  (height short→tall, age young→elderly, looks, hair, p.91),
+  a hotel dialogue, eight person descriptions to match to
+  pictures (numbering as printed: 1, 2, 2, 4, 5, 6, 7, 8),
+  a complete-the-table grid, and an adjective word-search.
+  *Lesson 3 A kind and generous person (pp.94–98):* personality
+  — a paired adjective set (talkative, patient/impatient,
+  friendly/unfriendly, helpful/unhelpful, kind/unkind, shy,
+  nervous, calm, generous, clever, a good sense of humour);
+  describe-yourself models; a boyfriend dialogue ("What kind of
+  person is he?"); true/false; a ten-question **personality
+  questionnaire** with three printed result types (Type A quiet
+  and careful, Type B careful and confident, Type C confident
+  and outgoing, pp.96–97); name-your-classmates adjective
+  matching with group comparison; and adjective-to-definition
+  matching.
+- **Unit 8 FEELINGS (pp.99–111).** *Lesson 1 I'm upset!
+  (pp.99–102):* the feelings set grows up — **bored, lonely,
+  tired, angry, upset, disappointed, frightened** matched
+  English-to-Lao and used in sentences; a face-picture set
+  (frightened, worried, happy, angry, surprised, bored, sad,
+  ill) with **How does Sonphet feel? — He feels surprised**;
+  situation cards answered from a second set (hungry, sick,
+  thirsty, happy, sad, terrible, tired); two What's the matter?
+  dialogues (a noisy neighbour's party; a terrible haircut);
+  and **write five sentences about yourself** with the feelings
+  words. *Lesson 2 Hobbies (pp.103–107):* a 22-hobby list
+  sorted indoors/outdoors/both; the read-and-translate text
+  **Bouaphanh's hobbies** (keen on football, reading to relax,
+  cooking, singing — summary only); true/false with corrections;
+  written questions; -ing completions; a six-person hobby-table
+  paragraph puzzle; word-order writing; and the lesson's
+  Grammar note: **like / enjoy + noun, like / enjoy + verb-ing,
+  be keen on + noun or verb-ing, be fond of + noun** ("We
+  usually use fond of for people or animals," p.107). *Lesson 3
+  Interests (pp.108–111):* musical instruments named and
+  matched; **be interested in** — a concert dialogue ("Are you
+  interested in music? — Yes, I am. I'm interested in all kinds
+  of music"), a five-student group interview over nine interests
+  (Lao music, pop music, geography, history, languages, arts,
+  sports, computers), and **write the sentences about the four
+  students** ("Student B is interested in Lao music, but she is
+  not interested in sports"); spelling contest.
+- **Unit 9 SCHOOL SPORTS (pp.112–123).** *Lesson 1 The sports
+  carnival (pp.112–116):* nine sports matched; a timetable
+  dialogue; a **listen-and-complete plan of events** (six days,
+  sports, start/finish times, M1 vs M2-style team pairings) with
+  seven written questions; choose-the-question-to-fit-the-answer;
+  a nine-word sports word-search. *Lesson 2 An exciting football
+  match (pp.117–120):* football vocabulary (referee, goalkeeper,
+  line man, whistle, break the rules); a rules-explaining
+  dialogue; the narrative text **An Exciting Football Match**
+  (M2 vs M3, M2 scores first, M3 wins 3–1, "the most exciting
+  football match of the year" — summary only) with written
+  questions and true/false with corrections; a past-tense
+  completion of the same match; and **write five football
+  rules** from a must-not model. *Lesson 3 Congratulations!
+  (pp.121–123):* congratulating as its own exchange — **Well
+  done! / Wonderful! / Congratulations! / Excellent! / Great!**
+  in six short dialogues (a medal, the highest mark, a baby, a
+  driving test, a new job, 85% in English), picture practice,
+  and a listen-and-complete built entirely of congratulations.
+- **Unit 10 I'LL MISS LAOS (pp.124–137)** — the farewell unit.
+  *Lesson 1 A personal letter (pp.124–129):* letter-writing
+  taught from two real letters. **Nita's letter** (an English
+  student at the National University of Laos writing to her
+  sister Lida in Savannakhet, dated October 16, 2009 — summary
+  only) with true/false-with-correction and write-the-questions
+  exercises; then **Jennifer's letter to her friend Stella in
+  Sydney, torn up** — seven numbered scraps to put in order
+  (read on the render, printed p.126: the apology opening, the
+  places she has been — Luang Prabang, Wat Phou and
+  Khonephapheng, the Plain of Jars — "My time in Laos has gone
+  so quickly," going home to continue her studies); its lines
+  then sorted by tense, leading to the book's deepest present
+  perfect Grammar note: **ever and never** (ever in questions,
+  never in negatives), **just and yet** (just in positives, yet
+  in negatives and questions), **been and gone** (been = went
+  and came back; gone = on the way or there), p.127 — followed
+  by tick-the-correct-sentence (perfect against past with
+  yesterday), ever/yet/just conversation completion, and
+  **write a letter to your friend** using the two letters as
+  models. *Lesson 2 Jennifer's future (pp.130–134):* the future
+  divided — a farewell-party dialogue, then a Grammar note:
+  **be going to for plans we have decided on; will with maybe,
+  probably, I guess, or I think for possible plans before a
+  decision** (p.131); dialogue and conversation completions; the
+  text **Leaving Vientiane** (the family will fly back Saturday;
+  tidying, packing, the farewell party, dancing Lamvong —
+  summary only) with true/false corrections; read-and-choose
+  going to or will; a nine-blank completion; and guided future
+  writing (answer five plan questions, then write about the
+  trip). *Lesson 3 Goodbye and good luck! (pp.135–137):*
+  farewells as their own lesson — two dialogues (the staff room:
+  "Have a good trip home. We'll miss you"; the airport: "Thank
+  you for coming to see us off… I'd like to wish you a safe
+  journey and good luck… Take care of yourself"), three
+  completion dialogues (bus station, airport, classroom —
+  "Have a nice weekend"), a which-dialogue-is-a-long-goodbye
+  question, and **write two dialogues**: a weekend goodbye and
+  a going-abroad goodbye.
+- **Unit 11 REVISION (pp.138–146)** — Units 5–10 revised, per
+  its headnote (Units 6–10 in substance). Grammar: past tense
+  (regular forms, irregular simple forms, a shopping dialogue,
+  completed past dialogues, and a Ho Chi Minh word-box cloze);
+  present perfect (choose-the-correct-response; a lost-watch
+  conversation completed in past against perfect); **future
+  with be going to and will** (a weekend-plans conversation,
+  four going-to sentences, four will-with-maybe sentences, an
+  Are you going to…? partner survey of ten activities).
+  Vocabulary: word-to-Lao-meaning matching, translate-nine-
+  phrases, sentence-order and opposite-adjective work, an
+  appearance/personality sorting chart, feelings completion.
+  Dialogues: write-the-response items, the farewell-party
+  dialogue as a cloze, and the Unit 10 goodbye dialogues
+  completed from word boxes — the revision names Jennifer's
+  teacher **Miss Smith** where Unit 10's own staff-room dialogue
+  names her Miss Buavone (Unit 4's permission lesson also used
+  Miss Smith); recorded as printed.
+- **Back matter (printed pp.147–148):** the **Glossaries** —
+  an English–Lao word list (A–S visible across the two pages;
+  entries include usage notes, e.g. "Fruit … (no s)"; "Sport —
+  no s / Sports — used as adjective") — closing with the
+  **Bibliography** above.
+
+## What's new against Grade 8
+
+Book Three taught the present perfect, used to, the past
+continuous and must/have to, and never named the passive. Book
+Four steps past it on four fronts:
+
+- **The passive arrives as a named system** — one whole unit
+  (Unit 3): the **present passive** tabled (p.32), the past
+  passive inside the rice text, and the **present perfect
+  passive** tabled (have/has + been + V3, p.38). Book Three's
+  unlabelled shapes ("is made of," "is caused by") become
+  Book Four's taught grammar.
+- **Conditionals arrive, named**: the **first conditional** as
+  the "Present Real Condition," tabled in both orders (p.44)
+  and practised through a whole unit. Book Three had no
+  conditional system at all. Only the first conditional appears
+  — no second or third conditional anywhere in the book.
+- **The present perfect continuous does NOT arrive** — stated
+  plainly: the perfect is deepened (ever/never, just/yet,
+  been/gone, p.127) but its continuous form is never taught in
+  Book Four, so Laos still cannot stock Level 18's Present
+  Perfect Continuous lesson.
+- **The future is divided for the first time**: will is revised
+  whole in Unit 4, then Unit 10 sets **be going to (decided
+  plans) against will with maybe/probably/I think/I guess
+  (undecided)** in one Grammar note (p.131) — Book Two's single
+  going-to table grown into a two-way choice.
+- Smaller arrivals: **ought to** beside should (p.17);
+  **like/enjoy + V-ing, keen on, fond of, interested in** as
+  tabled patterns (pp.107, 110); the **present simple re-tabled**
+  with the frequency scale (pp.12, 16); the **past simple
+  re-tabled whole** — regular and irregular lists (pp.67–69)
+  where Book One only introduced it; **formal vs informal**
+  named as a contrast (permission, p.58); personality language
+  (Unit 7 Lesson 3) and a feelings set that runs to upset and
+  frightened (Unit 8).
+- Reading and writing step up again: biography as full
+  read-and-translate texts (Souphanouvong in two parts, Ho Chi
+  Minh), a match-report narrative, **listen-and-correct-the-
+  wrong-information**, a **torn-up letter to re-order**, and
+  writing that runs to two paragraphs (pp.20–21, 25), a process
+  from a diagram (p.36), descriptions for a guessing game
+  (p.89), and free personal letters (pp.58, 129). The Revision
+  units return (Units 5 and 11) after Book Three dropped them.
+  The Jennifer story ends: she flies home to Australia in
+  Unit 10.
+
+## New for the course (keyed to the built lessons)
+
+- **Level 18, The Passive** — Laos can now stock it directly:
+  the present passive Grammar note with its V3 list (U3 L1,
+  p.32), process texts in passives (pp.30, 35), the present
+  perfect passive tabled (U3 L3, p.38), error-correction of the
+  perfect passive (U5, p.63). Laos goes in as a teaching
+  country for the passive, not only for made-of shapes.
+- **Level 18, Conditionals** — Laos stocks the first
+  conditional as a named system, the "Present Real Condition"
+  (U4 L1, p.44), drilled across the picnic unit (pp.45–53) and
+  revised (U5, p.62).
+- **Level 18, The Present Perfect** — Laos deepens it: the
+  superlative + ever frame (U2 L3, p.27) and the book's fullest
+  perfect Grammar note — ever/never, just/yet, been/gone
+  (U10 L1, p.127). **The Present Perfect Continuous stays
+  unstocked from Laos** — never taught in this book.
+- **Level 12, Going To Later** — the two-way future note:
+  going to for decided plans, will with maybe/probably/I
+  think/I guess for undecided ones (U10 L2, p.131), plus will
+  revised whole (U4 L1, p.43).
+- **Level 12, Present Actions / Past Actions** — the present
+  simple tabled with the 100%→0% frequency scale (U1 L3,
+  pp.12, 16); the past simple tabled whole, regular and
+  irregular (U6 L1, pp.67–69), past time expressions (U6 L3,
+  p.80), and wh-questions about the past with their
+  question-forms table (U6 L2, p.75).
+- **Level 13, Describing Words in a Sentence** — the
+  description table (What does he look like? … She's 152 cm,
+  U7 L1, p.86), adjective scales (U7 L2, p.91), the personality
+  set with its opposites (U7 L3, pp.94–98), and superlatives at
+  work in the match report (U9 L2, pp.118–119).
+- **Level 5, How Are You** — the feelings set grown up:
+  upset, frightened, lonely, disappointed with I feel / I'm
+  (U8 L1, pp.99–102), beside Grade 7's earlier set.
+- **Level 5, Conversation** — permission formal and informal
+  (Is it OK if I…? / Could I… please?, U4 L3, pp.54–58),
+  congratulations as their own exchanges (U9 L3, p.121), and
+  farewells whole — "Have a good trip home. We'll miss you,"
+  "wish you a safe journey and good luck" (U10 L3, pp.135–137).
+- **Level 7, Food and Fruit** — the five food groups with
+  should/shouldn't health advice (U1, pp.1–16) and the likes
+  survey. **Level 7, Animals** — the zoo set of twelve and the
+  panda dialogue (U4 L2, pp.49–53); the Farmer Bounta song
+  (U3 L2, p.37). **Level 7, The Town** — tourist-site advice
+  over four regions (U2 L1, pp.17–21).
+- **Level 14, The Paragraph / First, Then, Finally** —
+  two-paragraph tasks (pp.20–21, 25) and the process connectors
+  firstly/secondly/thirdly/finally taught as the weaving and
+  rice lessons' own frame (U3, pp.29–36).
+- **Level 15, Reading Whole Texts** — biography texts
+  (pp.70–83), the match report (pp.118–119), listening that
+  corrects wrong information (p.84), and the torn-up letter to
+  re-order (p.126).
+- **Levels 16–17, The Essay / The Story** — personal-letter
+  writing from two model letters (U10 L1, pp.124–129; also
+  p.58), and life-story reading: two-part biography with
+  questions (U6).
+- **Level 6, Word Kinds** — the pronoun/possessive stock is
+  re-used inside the is-or-has 's exercise (U7 L1, p.87);
+  adjectives carry Units 2 and 7 (underline-the-adjectives,
+  p.24).
+
+**Slips recorded as printed:** "Yes, they have been **foond**"
+in the perfect-passive practice dialogue (p.38) · the V1–V2–V3
+table at the foot of p.32 runs off mid-word: "design — designe…"
+· "Here **an oink**, there **a oink**" in the Farmer Bounta song
+(p.37) · "If you smoke a lot, you will **stay shorter**" among
+the conditional models (p.45) · "I think you ought to/should **go
+That Luang**" — the to missing in the model answer (p.19) · "The
+zoo is going to get a new animal **soon a panda**" — punctuation
+missing (p.51) · "Though he retired as the President due to his
+**ill physical illness**" and "devoted all of his wisdom and
+strength to the **course** of national independence" (for cause)
+in the part-2 biography (p.76) · the eight photo-album
+descriptions numbered **1, 2, 2, 4**, 5, 6, 7, 8 (p.92) ·
+"confident in **every thing** you do" — every thing as two words
+in the Type B personality result (p.97) · Unit 1 Lesson 1's
+written questions 3 and 5 garbled as printed: "What kinds of
+vegetables do a lot of proteins contain in?" / "What kinds of
+food do lots of vitamins and minerals contain in?" (p.3) ·
+"Have you ever been to Thailand**.**" — the perfect note's model
+question closed with a full stop (p.127) · the tick-the-correct
+pair for the lottery keeps "Don won **lottery** last month" —
+the article missing in both options (p.128) · "Savannaket" for
+Savannakhet in an exercise answer (p.125) · stale dates carried
+into the 2013 book: Jennifer's letter cloze dated **5 August
+1998** (p.57) and Nita's letter dated **October 16, 2009**
+(p.124) · Contents slips: Unit 2 Lesson 3 listed as "My best"
+(the lesson head is "My best holiday," p.26) and Unit 7 Lesson 3
+listed with its number missing · the back-matter Glossaries'
+own headwords as printed: "**A couple of day**" and "**Litters**"
+for litter (p.147) · the Ho Chi Minh text's own spellings and
+dates as printed: born in "**Kiem Lien**" and died "**September
+3, 1969**" (p.83) · the teacher's name varies between units as
+printed — Miss Smith in the permission lesson (p.55) and in
+Revision 11's completion (p.146), Miss Buavone in Unit 10's
+staff-room dialogue (p.135). Two exercise artefacts are NOT
+slips and are filed as such: the read-and-choose wrong options
+"studyies" and "was died" (p.78) and Revision 5's three broken
+perfect-passive sentences (p.63) are printed as the errors
+students must reject or fix.
+
+**FULLY READ 2026-10-27.** Read page by page from the text
+layer; the picture-carried pages were checked on renders: the
+five-food-groups wheel and the food text's second half (printed
+p.2), Jennifer's torn-up letter pieces (printed p.126), the
+cover/credits page (PDF p.1) and the Introduction (PDF p.2).
+**CITATION CHECK PASSED 2026-10-27** — anchors re-opened and
+confirmed on their pages: the five food groups (p.1) · the food
+wheel (p.2, render) · "What kinds of vegetables do a lot of
+proteins contain in?" (p.3) · the doctor's "You should eat
+healthy food" (p.5) · the chant "Food I like to eat" (p.10) ·
+"The Simple Present Tense" Grammar note (p.12) · "Adverbs and
+expressions of frequency" with the 100%→0% scale (p.16) ·
+"Ought to + V1 (infinitive)" (p.17) · "This is the best holiday
+I've ever had" (p.27) · "using passive verbs" in the weaving
+lesson head (p.29) · "Present passive voice" table, "Plum
+pudding is eaten at Christmas" (p.32) · "How rice is grown"
+(p.35) · "Present Perfect (Passive Form) — My shoes have been
+found" and "have been foond" (p.38) · "Present Real Condition"
+(p.44) · "you will stay shorter" (p.45) · "The cage will be
+finished next week if it doesn't rain" (p.51) · "Is it OK if I
+go with them, Dad?" (p.54) · the letter cloze dated 5 August
+1998 (p.57) · "for or since" (p.59) · the past-simple regular
+table (p.67) · "Prince Souphanouvong was born on July 13,
+1909" (p.70) · the question-forms table (p.75) · "devoted all
+of his wisdom and strength to the course" (p.76) · past time
+expressions (p.80) · the Ho Chi Minh text (p.83) · "What does
+he look like?" description table (p.86) · "My bicycle's been
+found" in the is-or-has set (p.87) · descriptions numbered
+1, 2, 2, 4 (p.92) · "What kind of person are you?" questionnaire
+(p.96) · "be + keen on" in the hobbies Grammar note (p.107) ·
+"Are you interested in music?" (p.110) · the match report's
+3–1 close (pp.118–119) · "Well done! You must be excited"
+(p.121) · Nita's letter dated October 16, 2009 (p.124) · the
+torn letter's scraps (p.126, render) · "ever and never / just
+and yet / been and gone" (p.127) · "be going to to talk about
+plans we have decided on" (p.131) · "Leaving Vientiane" (p.132)
+· "wish you a safe journey and good luck" (p.136) · Revision
+11's Ho Chi Minh cloze (p.139) · "A couple of day" in the
+Glossaries (p.147) · the Bibliography (p.148) · no ISBN printed
+anywhere (cover render + whole text layer searched) — 41
+anchors, all on their pages.
+
+**Course filing state:** FILED + MERGED 2026-10-27 — Laos
+Grade 9 now stands in The Passive (named and tabled here for
+the first time in Laos, incl. the present perfect passive),
+Conditionals (the first conditional as "Present Real
+Condition"; no second/third anywhere in Laos), and Going To
+Later (the decided/undecided split against will). The Grade 9
+teacher guide (144 pp in the library record) is the natural
+next read, on the series pattern;
+the Laos run then continues at Grade 10.
