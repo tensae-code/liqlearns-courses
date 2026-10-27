@@ -9979,3 +9979,528 @@ and "conditional" never appear in the guide either.
 `english/books/laos.md`. With it, the Laos Grade 11 pair is read
 whole — student book and teacher guide — and the Laos run
 closes at Grade 12.
+
+## Grade 12 (ມ.7) Student Textbook — FULLY READ + CITATION CHECK PASSED 2026-10-27
+
+The seventh and last book of the SECONDARY series ("Book
+Seven") — it closes the seven-book run that began with Book One
+(Grade 6, 2010) for the 12-year school system. Source copy: the
+public mirror the library's secured copy came from (GitHub
+Xaypanya/Lao-Textbook, `textbooks/secondary/m7/m7_english.pdf`;
+the library record also holds an official MoES DGE file
+byte-identical to it). Working copy verified against the
+library record before reading: **1,503,808 bytes, 161 PDF
+pages — both match the record exactly (VERIFIED-TEXT)**.
+**Content verified by cover, not by filename alone** (the
+Grade 7 guide lesson): PDF p.1 rendered is this book's own
+cover spread — "ENGLISH FOR LAO SECONDARY SCHOOLS," the green
+**"7"** badge, spine "English for Lao Secondary Schools M7,"
+"STUDENT'S BOOK," Ministry of Education and Sports / Research
+Institute for Educational Sciences, **2016** — and PDF p.2 is
+its own title-and-credits page, "ENGLISH For Upper Secondary
+Schools" over a blue **7**. The file is the book its record
+says it is. Read page by page from the text layer; the
+picture-carried pages that matter (cover spread, credits
+page, the picture Grammar notes at pp.23, 86 and 130, the
+menu pages) were read on renders; the Lao layer extracts as
+mojibake under the series' legacy font encoding, and stretches
+of the English run in a Caesar-shifted embedded font — both
+quirks are the file's, not the print's. Every page carries the
+diagonal RIES stamp watermark; the PDF was made from Microsoft
+Word 2010 through Acrobat Distiller 8.1.0 (created 13 Jul
+2016, author "RIES"). The file keeps the series' RC4 print
+protection (print: yes, copy: no).
+
+## The book itself
+
+"ENGLISH FOR LAO SECONDARY SCHOOLS" on the cover, "ENGLISH
+For Upper Secondary Schools" on the title page — Book Seven
+keeps the "Upper" of Books Five–Six and the badge numeral,
+now green **7** on the cover (blue on the title page), over
+the same arc motto as Book Six: "English is the best
+communication language in the world." Credits stand on the
+title page (PDF p.2) as a whole-team list: Writers Viengkham
+PHONPRASEUTH, Khamphanh PHIMSIPASOM, Manoly DONGVAN, Ammaly
+ALATHEP, Viengkham SINGVONGSA, Vongmani SITHA and Manivone
+PHAXAYAVONG — the Books Five–Six team with Khamphanh
+Phimsipasom back on the writer list and Bouakeo Vilaylath
+gone; Managing Editors Khamphanh Phimsipasom and Viengkham
+Phonpraseuth; Editor in Chief Assoc. Prof. Dr. Bouasavanh
+Keovilay; Design and Layout Khonesavanh Chanthavixay. Imprint
+year **2016** (Book One 2010, Two 2011, Three 2012, Four 2013,
+Five 2014, Six 2015). The back-cover panel (PDF p.1, read on
+the render) carries the print data in Lao: printed by Eastern
+Printing Public Co., Ltd., run of 34,622 copies. The
+Introduction (PDF p.4, printed p. I) states the book's place
+— in words carried stale from Book Six, it calls this book
+"the sixth in a series of seven textbooks" (see slips); the
+reform frame is the standing one (general education from 11
+years to 12; the extra secondary year added in academic year
+2009–2010; written by the Foreign Language Resource Centre at
+RIES with the Faculty of Letters, National University of
+Laos) — its English half names the funder as the **Basic
+Education Sector Development Project (BESDP)**, while the
+Acknowledgements (PDF p.5, printed p. II) thank the
+**Secondary Education Sector Development Project (SESDP)** —
+the Books Five–Six two-names split again — and name no
+outside editors this time; a special thanks goes to four
+contributing teachers (Chanpheng Thonpasong, Yangchangthao
+Houava, Chansamone Oudomsith, Phouthsady Phisith). **No ISBN
+printed anywhere** — cover spread and credits checked on
+renders, and the whole text layer searched (zero hits for
+"ISBN"). PDF p.3 is a blank leaf carrying only the watermark.
+Printed page = PDF page − 7 for the body; front matter is
+Roman I–IV (PDF pp.4–7); the body runs printed pp.1–154 and
+PDF p.161 is the Bibliography page itself — there is no blank
+back-cover panel.
+
+**Shape.** Contents (PDF pp.6–7, printed pp. III–IV) lists
+eleven units. Units 1–5 and 7–10 are content units of three
+lessons each, every lesson five printed pages on the standing
+nine-step shape (Vocabulary → Listen and repeat → Listen and
+practise → Read steps → a Grammar or Language note in most
+lessons → Listen/Read-and-complete steps → Write); **Unit 6
+is the mid-book Revision (Review of Units 1–5, printed
+pp.76–82)** and **Unit 11 is the closing Revision (Review of
+Units 7–10, printed pp.143–150)** — the revision pair Book
+Five restored is kept. Back matter: **Irregular verbs
+(pp.151–153)** and a **Bibliography (p.154)** of ten entries,
+all dated (1998–2006) — the "( year )" blank of Books
+Three–Four does not recur. Themes turn fully informational
+and civic: education, road safety, holidays, geography,
+agriculture, the environment, population and the economy,
+wildlife, and jobs. The Somphone-and-Jennifer line does not
+return; no story line runs through the book.
+
+## Unit by unit
+
+- **Unit 1 Education (pp.1–15).** **Lesson 1 Education in
+  Laos (pp.1–5):** dialogue — Manotham, at a Young Scientists
+  Conference in Malaysia, explains the Lao system to Samy
+  from Singapore (pre-school at three, five years primary,
+  seven secondary, entrance examinations); true/false **with
+  correction**; the reading text "General education in Laos";
+  a 16-gap cloze of the same text; **Write: one paragraph
+  about your school life** (p.5). **Lesson 2 School days
+  (pp.6–10)** (the lesson's own head prints "Schools days";
+  see slips): two workmates regret their school subjects —
+  **Grammar note: I wish I had/hadn't + past participle**
+  (p.8), the regret shape taught as a wish box, with "I wish
+  I were rich" standing inside the note's Lao explanation of
+  wish; write wish sentences; a pie-chart text comparing
+  subject time at an international school and a Lao school;
+  Write: describe a pie chart (p.10). **Lesson 3 Leaving
+  school (pp.11–15):** listening cloze of two graduates'
+  plans (university, interpreter, private sector — carrying a
+  first conditional in use, "if the private sector grows, the
+  economy will be stronger"); a **formal letter** — Vongthong
+  Khamvong, a teacher in Luang Namtha, applies for a
+  scholarship in Australia (p.13), its text carrying the
+  present perfect continuous in use ("I have been teaching
+  English in Luang Namtha Secondary School since then"); a
+  **Language note diagramming a formal letter part by part**
+  (p.14); **Write: a letter or email asking for a scholarship
+  to study in Japan (JICE) or Australia (AusAID)** (p.15).
+- **Unit 2 Road accident (pp.16–30).** **Lesson 1 Traffic
+  problems in towns (pp.16–20):** dialogue (drive or take
+  public transport); word-bank cloze "Road accidents in
+  Vientiane"; **Grammar note: present continuous tense for
+  the future**, for what is already planned (p.18); the long
+  "Road construction" text; the "Woman drivers" cloze;
+  **Write: rewrite one paragraph about a road accident you
+  have seen (100 words)**, with a printed starter (p.20).
+  **Lesson 2 Traffic signs (pp.21–25):** a driving-test
+  dialogue over six signs; **Grammar note: should/shouldn't
+  for advice** (p.23, picture-carried, read on the layer);
+  the "A prudent driver" text — which uses the present
+  perfect continuous in its own sentences ("Kham has been
+  driving a car since he was in year 5…"; "Since Kham has
+  been driving the car, he has never had accidents"); a cloze
+  carrying "unless" in use; **Write: one paragraph about the
+  traffic in a place you know (100 words)** (p.25). **Lesson
+  3 Traffic rules (pp.26–30):** dialogue (Lao rules written
+  with French experts); **Grammar note: when as a subordinate
+  conjunction** joining dependent and independent clauses
+  into a complex sentence, with clause diagrams (pp.27–28),
+  and a ten-item join-with-when exercise; the "Roads for
+  safety driving" text (tone bands / rumble strips);
+  **Write: a paragraph about the roads in your town (100
+  words)** (p.30).
+- **Unit 3 Holidays (pp.31–45).** **Lesson 1 Holidays in Laos
+  (pp.31–35):** the Lao holidays calendar written out in both
+  languages; a will dialogue (undecided holiday plans);
+  **Grammar note: will** (pp.33–34) — the series' fullest will
+  note: will for a decision made at the time of speaking,
+  set against going to for what was decided before; promise,
+  offers, requests, predictions, refusal of things; shall
+  I…? / shall we…? for offers and suggestions, with the
+  shall-not-with-he/she/it rule; will with probably, (I'm)
+  sure, (I) expect, (I) think; rearrange exercise; a
+  holiday-activities writing frame driven by seven will
+  questions. **Lesson 2 Holiday plans (pp.36–40):** dialogue;
+  **Grammar note: the present continuous with a future
+  meaning** for arrangements, with the frames **I'm going
+  to / hoping to / planning to / looking forward to** + verb,
+  looking forward to with noun or verb-ing, and the warning
+  not to use will for arrangements (pp.37–38); **Write:
+  paragraphs about your holiday plans** using the four frames
+  (p.40). **Lesson 3 At the roadside restaurant (pp.41–45):**
+  a menu role-play (Nam Ngeum Restaurant, prices in kip);
+  **Grammar note: contractions** — full tables of I'm/he's,
+  I've, I'd (had/would) and I'll (pp.44–45); **Write: a
+  paragraph about a roadside restaurant in your village (100
+  words)** (p.45).
+- **Unit 4 Geography (pp.46–60).** **Lesson 1 Laos
+  (pp.46–50):** the 17 provinces and one capital city named;
+  a **mind map** of the provinces by region; Grammar note:
+  **there is/are and have/has** with the same meaning (p.48);
+  the Luang Prabang text; information-gap province charts;
+  write about a province from chart data. **Lesson 2 Weather
+  (pp.51–55):** Vientiane climate charts (temperature and
+  rainy days) matched to statements; true/false listening;
+  a cloze on the three seasons; the long text "Two distinct
+  seasons"; write about the weather in your province.
+  **Lesson 3 Tourist sites (pp.56–60):** dialogue (heritage
+  sites, travel times); **Grammar note: First
+  conditionals** — "If + Present Simple tense + will + verb,"
+  spoken and written forms shown (p.58); listening over the
+  events of Champasack in 2015; the rocket festival text; a
+  brainstorm writing frame for a festival.
+- **Unit 5 Agriculture (pp.61–75).** **Lesson 1 Coffee
+  growing (pp.61–65):** a passive-carrying dialogue ("Is this
+  brand made in Laos?"); the memoir text "Growing up on a
+  coffee plantation"; **Grammar note: Passive voice** (p.63)
+  — the series' fullest passive note: used in formal writing
+  or speech when who or what causes the action is unknown or
+  not important; **"The passive can be used in all tenses"**,
+  with present simple (am/is/are + participle), past simple
+  (was/were + participle) and present perfect (has been/have
+  been + participle) forms; rearrange-into-passive exercise;
+  a passive cloze of the process; write four or five reasons
+  more people grow coffee. **Lesson 2 Farm animals
+  (pp.66–70):** a vet's visit as a listening cloze whose first
+  gap is the present perfect continuous in use ("How long
+  (have you) been raising cattle?"); **Grammar note:
+  causative passive** — have/has + object + past participle
+  ("Mr. Bounma has his animals vaccinated twice a year")
+  (p.69); **Write: going to + causative passive**, sorting
+  what Mr. Bounma will do himself from what he will pay
+  others to do (p.69); look-and-write causatives. **Lesson 3
+  Irrigation (pp.71–75):** the irrigation text (carrying
+  "The Chinese has been using irrigation for more than four
+  thousand years" as printed); **Grammar note: modal
+  auxiliaries in passive forms** — subject + modal + be +
+  past participle (p.73); a paper-making passive completion;
+  rewrite sentences into the passive.
+- **Unit 6 Revision — Review of Units 1–5 (pp.76–82):**
+  write I wish… sentences for five situations (p.76);
+  word matching; find-in-the-text; **rewrite active sentences
+  into the passive across the tenses** — past, present
+  perfect, present continuous, future (p.78); complete the
+  scholarship letter cloze (the Unit 1 letter re-set with a
+  new applicant); **translate the traffic rules into Lao**
+  (pp.79–80); name the traffic signs; join sentences with
+  when (pp.80–81); **write the verbs into the present perfect
+  passive** (p.81); an agriculture word-search (16 words,
+  p.82).
+- **Unit 7 The environment (pp.83–97).** **Lesson 1 Living in
+  the big cities (pp.83–87):** the long migration text;
+  true/false with correction; **Grammar note: Comparison**
+  (pp.86–87, picture-carried) — -er for one-syllable
+  adjectives, -er/-ier for -y adjectives, more for longer
+  ones, the irregular set (little → less, far →
+  farther/further), than after comparatives; circle-the-right-
+  comparative exercise; Write: 5 impressions of your village
+  or city. **Lesson 2 Rubbish burning (pp.88–92):** the
+  banana-leaf against plastic-bag dialogue (first
+  conditionals in use: "They will stay there forever if
+  people don't pick them up"); the "Burning rubbish" text
+  (dioxin, awareness campaigns); a Beijing rubbish cloze;
+  write sentences about your family's rubbish. **Lesson 3
+  The lively cities (pp.93–97):** the "Vientiane today"
+  cloze; a dialogue re-using it; true/false; rearrange.
+- **Unit 8 The trends (pp.98–112).** **Lesson 1 Population
+  growth (pp.98–102):** **Grammar note: Present real
+  conditional sentences** (p.98) — the first conditional
+  tabled again under Book Four's name, both orders (if-clause
+  first; will-clause first, with the comma rule), usages "may
+  or will happen / may or will be true in the future"; a
+  number-reading note (2.320 against 2,320) inside the census
+  dialogue (p.99); the text "The population" (July 2009
+  census estimates); a population-projection cloze;
+  graph-to-writing sentences. **Lesson 2 Economic
+  development (pp.103–107):** dialogue; a dated newspaper
+  text ("Lao economic growth projection," Vientiane Times,
+  08-04-2010); an ASEAN Economic Community cloze; **Write:
+  the advantages and disadvantages of living in big cities,
+  at least 100 words**, with a model opening printed (p.107)
+  — the closest the series ever comes to essay shape, still
+  set as one counted piece. **Lesson 3 Changes (pp.108–112):**
+  **Grammar note: the passive voice (future and perfect)** —
+  subject + will + be + V3; subject + have/has + been + V3
+  (p.108); change-into-passive exercise; a dialogue drilled
+  on haven't + for/since ("I haven't lived at Thangone
+  village since 1995"); the text "My village" in three time
+  frames (30 years ago / now / in the next 10 years);
+  **Write: about the changes in your village from ten years
+  ago until now and in the next ten years** (p.112).
+- **Unit 9 Wildlife (pp.113–127).** **Lesson 1 Endangered
+  animals (pp.113–117):** pre-reading questions; the long
+  text (elephants, tigers, rhinoceros, panda, whales,
+  dolphins, and the Pakha of the Mekong); arrange the
+  pictures; a protection role-play; an IUCN Red List cloze;
+  sentence completion from the text. **Lesson 2 Wildlife
+  conservation (pp.118–122):** headnote promises a revision of
+  should/must; the rifle hand-over dialogue and text (the
+  Forespace project, Nam Kan); a **For/Against two-list
+  discussion writing** — reasons for hunting against reasons
+  against (p.121); list-writing of conservation actions.
+  **Lesson 3 Forests (pp.123–127):** dialogue; the Asia
+  forests text (deforestation, protected areas,
+  reforestation); rearrange; **Write: how can we protect the
+  forest, and why do we conserve it** (p.127).
+- **Unit 10 The job opportunities (pp.128–142).** **Lesson 1
+  Job application (pp.128–132):** dialogue (finding and
+  applying for jobs); a true/false exercise **whose answers
+  are printed in the student book** ("(T)", "(F) (Noy has)",
+  p.129 — see slips); **Grammar note: since and for in the
+  present perfect simple** (p.130, picture-carried) — the
+  structure line S + have/has + past participle + since/for,
+  since for the starting point, for for the length; read a
+  European-style CV and answer; **Write: create your own
+  CV**. **Lesson 2 Fill in the form (pp.133–137):** dialogue
+  (what a CV covers — carrying "Could you tell me what CV
+  stands for?", the indirect-question pattern in use);
+  complete a vacancy application form from a word box; read
+  a filled model application form and answer. **Lesson 3 Job
+  interview (pp.138–142):** a full interview dialogue;
+  **Grammar note: quantifiers** — much/many, a little (of),
+  a few, a lot (of) against countable and uncountable nouns
+  (p.140); the text "Tips for interviews"; order the
+  job-seeking strategy steps.
+- **Unit 11 Revision — Review of Units 7–10 (pp.143–150):**
+  headed "Review Unit 1-5" over its own opening line "review
+  Unit 7-10" (see slips; the Contents agrees with 7–10). A
+  village cloze; word matching; rearrange (one item carrying
+  a past perfect passive in use — "The knowledge of traditions
+  that had been passed down from generations to
+  generations"); sentence-making; a population conversation
+  cloze; a **Grammar note review** (pp.145–147): comparatives
+  re-stated; the passive (future and present perfect)
+  re-stated; **modal verbs must, mustn't and don't have to**;
+  **since and for** — whose first exercise frame is "I have
+  been studying English … four years" (p.146); **conjunctions
+  and, or, but, so, although** with their joining jobs; two
+  listening clozes (Wildlife in Laos; ASEAN Cultures); a
+  closing "Economic Development" reading.
+- **Irregular verbs (pp.151–153):** some 110 verbs in three
+  columns (infinitive / past tense / past participle), be to
+  write. **Bibliography (p.154):** ten entries, all dated —
+  Gammidge's Grammar Works (1998), Vale's Picture Grammar
+  for Children (1998), Seidl's Grammar ONE (1998), New
+  Headway Beginner (2006), New English File Elementary
+  (2006), Side by Side (2001), and Wiggins & McTighe's
+  Understanding by Design (2003).
+
+## How the series closes — the four last chances, answered
+
+Book Seven is the last book of the series, so the four
+questions the Laos run has carried since Book Two get their
+final answers here, each checked against the whole text layer
+of this book:
+
+- **The present perfect continuous is never taught — in any
+  of the seven books.** Zero hits for "perfect continuous" in
+  this book's whole text layer, as in every book before it.
+  Book Seven uses the shape more than any earlier book — in
+  the model scholarship letter ("I have been teaching English
+  in Luang Namtha Secondary School since then," p.13), in a
+  reading text's own sentences ("Kham has been driving a car
+  since he was in year 5…," p.23), as the first gap of a
+  listening cloze ("How long (have you) been raising cattle?,"
+  p.66), inside the irrigation text ("The Chinese has been
+  using irrigation for more than four thousand years," p.72,
+  slip as printed), and even as the first frame of the closing
+  revision's since/for exercise ("I have been studying
+  English … four years," p.146) — and never once names,
+  tables, or drills it. **Series-final verdict: Laos uses the
+  present perfect continuous but does not teach it; the
+  course stocks nothing for Level 18's Present Perfect
+  Continuous lesson from Laos.**
+- **Second and third conditionals never arrive.** Zero hits
+  for "second conditional," "third conditional," and "would
+  have" in the whole layer. The first conditional is tabled
+  twice more in this book — as **First conditionals** (p.58)
+  and again as the **Present real conditional** (p.98) — and
+  that is the whole of Laos's conditional teaching across
+  seven books: the first conditional, named in Book Four and
+  re-tabled in Book Seven. The regret shapes of Unit 1 ("I
+  wish I had studied harder," p.8; "I wish I were rich"
+  inside the same note) are taught as **wish**, not as
+  conditionals. **Series-final verdict: Laos teaches the
+  first conditional only.**
+- **Full reported speech never arrives.** Zero hits for
+  "reported speech" in the whole layer. What the series ever
+  gives is the smallest named form — the indirect Wh-question
+  with be, noted in Book Six — and the pattern in use ("Could
+  you tell me what CV stands for?," p.133); reported
+  statements stand in texts with no backshift and no note
+  anywhere. **Series-final verdict: no reported-speech system
+  in Laos.**
+- **Essay-length writing never appears.** Zero hits for
+  "essay" in the whole layer, and in no earlier book is the
+  essay named. Book Seven's longest set tasks are its
+  **100-word paragraphs** (pp.20, 25, 30, 45), the
+  **at-least-100-words advantages-and-disadvantages piece**
+  with a model opening (p.107), and the three-time-frame
+  village piece (p.112), beside a formal letter (p.15), a CV
+  (p.132), and forms (pp.135–137). **Series-final verdict:
+  the Laos series tops out at about 100 counted words; it
+  never sets an essay.**
+
+## New for the course (keyed to the built lessons)
+
+- **Level 18, The Passive** — Laos's fullest passive book:
+  the all-tenses note ("The passive can be used in all
+  tenses," present/past/perfect forms, p.63), the **causative
+  passive** have/has + object + participle (p.69), **modal
+  auxiliaries in passive forms** (p.73), the **passive
+  (future and perfect)** note (p.108), and revision rewriting
+  across every tense incl. the present perfect passive
+  (pp.78, 81).
+- **Level 18, The Present Perfect** — the since/for structure
+  re-stated whole (S + have/has + past participle + since/for,
+  p.130) and drilled again in the closing revision (p.146).
+- **Level 18, The Present Perfect Continuous** — the
+  series-final negative above: used in five places in this
+  book (pp.13, 23, 66, 72, 146), taught in none of the seven.
+- **Level 18, Conditionals** — the first conditional tabled
+  twice more (pp.58, 98); no second or third anywhere in the
+  series.
+- **Level 12, Now, Before, Later / Going To Later** — the
+  series' fullest **will** note (decision at the time of
+  speaking against going to's earlier decision; shall I/we,
+  pp.33–34) and the **present continuous for arranged
+  futures** stated twice (pp.18, 37–38) with the going to /
+  hoping to / planning to / looking forward to frames.
+- **Level 14, The Paragraph** — counted writing at its
+  longest in Laos: 100-word paragraphs (pp.20, 25, 30, 45)
+  and the at-least-100-words piece (p.107).
+- **Level 16, The Essay** — the series-final negative above:
+  no essay in seven books; the ceiling is ~100 words.
+- **Level 13, Joining and Describing** — **when** joining
+  clauses into complex sentences (pp.27–28); the conjunction
+  set and/or/but/so/although with their jobs (p.146); the
+  comparison note re-stated (pp.86–87).
+- **Level 6, Word Kinds** — **quantifiers** much/many, a
+  little, a few, a lot (of) against countable/uncountable
+  (p.140).
+- **Level 15, Reading Whole Texts** — long informational
+  texts throughout: two seasons (p.54), big cities (p.84),
+  population (p.100), endangered animals (pp.114–115),
+  interviews (pp.140–141).
+- **Level 5, Conversation** — the whole job unit: applying,
+  the CV, the form, the interview (pp.128–142), and the
+  formal letter with its parts diagrammed (pp.13–15).
+- **Level 9, Numbers, Days, and Time** — reading numbers
+  aloud: 2.320 against 2,320 (p.99); climate and census data
+  read from charts and graphs (pp.52, 98–102).
+- **Level 11, Questions** — the indirect question in use:
+  "Could you tell me what CV stands for?" (p.133).
+
+**Slips recorded as printed:** the Introduction calls this
+book "the sixth in a series of seven textbooks" (printed
+p.I) — Book Six's line carried into Book Seven · the Contents
+(printed p.III) heads Lesson 2 "School days" where the lesson
+itself prints "Schools days" (p.6) · Unit 11 headed "Review
+Unit 1-5" (p.143) over its own opening line "review Unit
+7-10," the Contents siding with 7–10 · "ACKNOWLEGEMENTS" as
+the Acknowledgements head again (printed p.II) · the
+Acknowledgements' thanks to "subject experts who devoted
+their times, especially Bush on editing the textbook (DIC)"
+(printed p.II) · the Unit 1 letter signed "(Ms) Vongthong
+Khamvong" (p.13) against its own exercise's "Vonthong's
+letter" · "I think, it'd better to use public transport"
+(p.16) · "the traffic is very crowded towns" in the
+read-and-say set (p.17) · the Road construction questions
+numbered 1–7 and then "4." again (p.20) · "What is Keo
+planing to do?" (p.37) · "as the pollutions in big cities has
+increased" (p.84) · the population text's "6,834,345 (six
+million eight hundred thirty four thousand three hundred and
+thirty five)" — the words say 335 against the figures' 345
+(p.100) · "The Chinese has been using irrigation for more
+than four thousand years" (p.72) · "Give two seasons why the
+Pakha may disappear soon?" (p.115) · the Unit 10 true/false
+exercise printing its own answers in the student book — "(T)",
+"(F) (Noy has)" (p.129) · "become — became — became" in the
+irregular verbs table (p.151), the same slip as Book Six ·
+stale matter carried into a 2016 book: the population text
+and dialogue built on July 2009 census estimates (pp.99–100),
+the vacancy announcement's closing date 25/5/2009 (p.135),
+the revision's letter dated 5 April 2010 (p.79) · the
+two-funder split again: the Introduction names BESDP
+(printed p.I), the Acknowledgements thank SESDP (printed
+p.II).
+
+**FULLY READ 2026-10-27.** Read page by page from the text
+layer (the book has a real text layer for English); the
+picture-carried pages were checked on renders: the cover
+spread and credits page (PDF pp.1–2), the should/shouldn't
+note (p.23), the comparison note (p.86), the since/for note
+(p.130), and the restaurant menu pages (pp.42–43).
+**CITATION CHECK PASSED 2026-10-27** — anchors re-opened and
+confirmed on their pages: cover "ENGLISH FOR LAO SECONDARY
+SCHOOLS" with the green 7 (PDF p.1, render) · title page
+writers and 2016 (PDF p.2, render) · "the sixth in a series
+of seven textbooks" in the Introduction (printed p.I) ·
+"ACKNOWLEGEMENTS" and "Bush on editing" (printed p.II) ·
+Contents "Review (unit 7-10)" and "Irregular verbs 151"
+(printed p.IV) · "I wish I had/hadn't + past participle"
+(p.8) · "I wish I were rich" inside the wish note (p.8) ·
+"twenty percent of their time studying maths" (p.9) · the
+letter's "Yours Sincerely" (p.13) · the formal-letter Language
+note, "The sender's address (but not the name)" (p.14) ·
+"Present continuous tense for the future is used to talk
+about something that is already planned" (p.18) · "Rewrite
+one paragraph about a road accident you have seen. (100
+words)" (p.20) · "Should and shouldn't are used to give
+advice" (p.23) · "Kham has been driving a car since he was in
+year 5" (p.23) · "When" as "subordinate conjunction" (p.27) ·
+"We use will ('ll) when we decide to do something at the time
+of speaking" (p.33) · "Do not use 'shall' with he/she/it/you/
+they" (p.33) · "I'm looking forward to seeing my
+grandparents" (p.37) · "Write a paragraph about a roadside
+restaurant in your village. (100 words)" (p.45) · "First
+conditionals" and "If + Present Simple tense + will + verb"
+(p.58) · "The passive can be used in all tenses" (p.63) ·
+"The land has been developed for coffee-growing" (p.63) ·
+"Causative passive" (p.69) · "has his animals vaccinated
+twice a year" (p.69) · "Modal auxiliaries in Passive forms"
+and "Salt can be washed out of the soil" (p.73) · "I wish I
+hadn't swum so long" in the revision (p.76) · "present perfect
+passive" and "wood has been used (use) for making pulp"
+(p.81) · "Present real conditional sentences" and "If + S +
+V1 + Obj" (p.98) · "Write at least 100 words" (p.107) · "The
+Passive Voice (future and perfect)" and "Water will be
+supplied to all houses" (p.108) · "S+have/has+past
+participle+since/for" (p.130) · "How many litres of water do
+you drink per day?" in the quantifiers note (p.140) · Unit 11
+headed "Review Unit 1-5" over "review Unit 7-10" (p.143) ·
+"I have been studying English … four years" in the closing
+since/for exercise (p.146) · "become — became — became"
+(p.151) · Bibliography "Understanding by Design … 2003"
+(p.154) — 39 anchors, all on their pages. Negative controls
+run over the whole text layer: "perfect continuous" 0 hits ·
+"essay" 0 hits · "reported speech" 0 hits · "second
+conditional" 0 hits · "third conditional" 0 hits · "would
+have" 0 hits.
+
+**Course filing state:** FILED + MERGED 2026-10-27 — Laos
+Grade 12 now stands in The Passive (the system completed:
+causative, modal, future and perfect passives) and
+Conditionals (the series-final verdict), and The Present
+Perfect Continuous carries a Laos checked-and-not-stocked
+note. With it, the Laos student books are read
+whole — primary Books 1–3 and secondary Books One–Seven; the
+Grade 12 teacher guide follows in the reading queue, and with
+it the Laos run closes.
