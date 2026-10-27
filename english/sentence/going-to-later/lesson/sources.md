@@ -42,3 +42,11 @@ answers, plans spoken off a work plan, a weekend and a holiday
 appears in this book only in untabled use — offers and one
 prediction model — and is never taught as a system; the course
 does not stock a Laos will from it.
+
+**Laos Grade 9 added 2026-10-27** — *English for Secondary
+Schools, Book Four* (MoES/RIES, 2013; full read in
+english/books/laos.md). Laos divides the future for the first
+time, in one Grammar note (p.131): **be going to for decided
+plans** against **will with maybe / probably / I think / I
+guess for the undecided** — the two futures side by side,
+named by how sure the speaker is.

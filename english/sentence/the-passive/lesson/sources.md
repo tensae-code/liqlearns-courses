@@ -1,6 +1,6 @@
 # Sources — The passive
 
-countries: Egypt, Libya, Mongolia
+countries: Egypt, Libya, Mongolia, Laos
 
 Every part traces to its book and page.
 
@@ -35,8 +35,8 @@ pre-law Egypt reads is still owed).
 | The FUTURE SIMPLE PASSIVE: will be + past participle, "used to describe actions that will be done in the future," shown against its active pair ("We will finish this project next Friday" → "This project will be finished next Friday") | Egypt, Preparatory 9 Term 1, Unit 3, Tip p.45 |
 | The passive line Egypt builds on: present simple passive + modal passive | Egypt, Preparatory 8 Term 1 (as filed in the Prep 9 grammar-spine note) |
 
-**Acceptance count: taught in 3 countries (Egypt,
-Libya, Mongolia).** Mongolia discovers the shape from the
+**Acceptance count: taught in 4 countries (Egypt,
+Libya, Mongolia, Laos).** Mongolia discovers the shape from the
 Edison pair, drills by + agent in its inventions unit,
 and spreads the present/past/future coats in its clothing
 unit and reference. Libya prints the full five-tense
@@ -45,3 +45,12 @@ deliberately — modal coat first (Prep 8), then the
 perfect and future coats shown against their active
 twins (Prep 9). Other finished countries join as their
 books are read (see READING-QUEUE.md).
+
+**Laos Grade 9 added 2026-10-27** — *English for Secondary
+Schools, Book Four* (MoES/RIES, 2013; full read in
+english/books/laos.md). Laos names the passive for the first
+time in its Unit 3, "How it is made": the **present passive
+tabled** (p.32), the past passive inside the rice text, and
+the **present perfect passive tabled** (p.38) — the deepest
+passive in the Laos set, taught through making things: rice,
+silk, sticky-rice baskets.

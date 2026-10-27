@@ -1,6 +1,6 @@
 # Sources — Conditionals
 
-countries: Egypt, Libya, Mongolia
+countries: Egypt, Libya, Mongolia, Laos
 
 Every part traces to its book and page.
 
@@ -36,11 +36,21 @@ pre-law Egypt reads is still owed).
 | The THIRD CONDITIONAL: form — If + past perfect (had + past participle), would have + past participle; use — unreal situations in the past, an imaginary situation and a different result that could have happened but didn't; regret, missed chances, excuses | Egypt, Preparatory 9 Term 1, Unit 2, Tip p.31 |
 | The split: Egypt's run states the ladder as three (first Prep 7, second Prep 8, third Prep 9) and never names a "zero conditional" anywhere in the run | Egypt, Preparatory 9 Term 1 grammar-spine note, english/EGYPT-BOOK-MAP.md |
 
-**Acceptance count: taught in 3 countries (Egypt,
-Libya, Mongolia).** Libya names the zero and first at
+**Acceptance count: taught in 4 countries (Egypt,
+Libya, Mongolia, Laos).** Libya names the zero and first at
 Grade 9 and completes the set in its reference;
 Mongolia tables zero and first, teaches the first with
 unless, and reaches the second at Grade 10; Egypt
 climbs one rung a year for three years and never names
 the zero. Other finished countries join as their books
 are read (see READING-QUEUE.md).
+
+**Laos Grade 9 added 2026-10-27** — *English for Secondary
+Schools, Book Four* (MoES/RIES, 2013; full read in
+english/books/laos.md). Laos teaches exactly one conditional,
+and names it its own way: the **"Present Real Condition"** —
+the first conditional tabled in both orders, if-clause first
+and result-clause first (p.44). The honest limit, shown
+plainly beside Egypt's unnamed zero: **Laos has no second or
+third conditional anywhere** — its conditional teaching stops
+at the real one.
