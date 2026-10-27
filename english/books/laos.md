@@ -1574,3 +1574,648 @@ there / Are there, in front of / behind / between), The Body
 But ("I like sausage but I don't like fish soup"). The Grade 5
 teacher guide follows; with it, the three-book primary series
 (Grades 3–5) is read whole.
+
+## Grade 5 (ປ.5) TEACHER GUIDE, 2012 — FULLY READ + CITATION CHECK PASSED 2026-10-27
+
+The teacher's twin of "STUDENT'S BOOK 3" — "TEACHER'S GUIDE 3,"
+the original 2012 guide, pairing lesson by lesson with the Grade 5
+student book filed above. Source copy: the public mirror the
+library's secured copy came from (GitHub Xaypanya/Lao-Textbook,
+`guides/primary/p5/p5_english.pdf`). Working copy verified against
+the library record before reading: **2,075,058 bytes, 88 PDF
+pages — both match the record exactly (VERIFIED-TEXT)**. The PDF
+is print-protected the same way as the student book (copying
+disabled, RC4), its English text layer is clean, and its Lao layer
+extracts as mojibake under the same legacy font encoding — the Lao
+was read on the rendered pages where it mattered (the cover
+spread, the two method pages, and Lesson One's headnote). Read by
+a checking agent; the draft waits to be folded into laos.md.
+
+## The book itself
+
+"ENGLISH FOR LAO PRIMARY SCHOOLS — TEACHER'S GUIDE 3 — GRADE 5,"
+Ministry of Education and Sports, Research Institute for
+Educational Sciences (RIES), **2012**. PDF p.1 is the whole cover
+spread, checked on the render: the same cutaway-house art as the
+student book, the same boy, the same "There is … in the house."
+speech bubble — the only change is the title arched over the
+house in rainbow letters, "TEACHER'S GUIDE," with the yellow "3"
+below it; the spine reads "3 ENGLISH FOR LAO PRIMARY SCHOOLS
+GRADE 5"; the back-cover panel is the same plain pale panel with
+no print on it. Credits (PDF p.2, checked on the render): the
+student book's team unchanged — Advisor Ms. Phouangkham
+Somsanith; Editor in Chief Assoc. Prof. Dr. Bouasavanh Keovilay;
+Managing Editors Mr. Khamphanh Phimsipasom and Ms. Viengkham
+Phonpraseuth; Writers Ms. Manivone Phaxayavong, Ms. Bouakeo
+Vilaylath, Ms. Ladomchanh Khantry, Mr. Alavanh Phanthavong and
+Mr. Bounthapany Bounxouay; design and layout Mr. Khonesavanh
+Chanthavixay. **No ISBN is printed anywhere in the book** —
+checked on the cover spread (including the blank back-cover
+panel) and the credits page; the guide has no colophon and no
+back matter — it ends inside Lesson 18. **Page offset: printed
+folio = PDF page − 9** (checked at printed p.1 = PDF p.10, the
+Contents' Lesson 18 folio 77 = PDF p.86, and the last page
+printed p.79 = PDF p.88). Every interior page carries the footer
+"Ministry of Education and Sports — Research Institute for
+Educational Sciences," a printed folio, and the faint slanted Lao
+"RIES" watermark. All page numbers below are the guide's printed
+folios unless a student-book page is named.
+
+**Front matter.** PDF p.3 is the Lao preface (its text layer is
+mojibake like the rest of the Lao; not read in detail). PDF p.4
+is the English **Introduction**: the guide "is produced to help
+teachers of grade five perform their teachings effectively"; it
+answers the same reform of general education from 11 years to
+12, English entering from Grade 3 in academic year 2009–2010;
+it was written by the Foreign Language Research and Resource
+Center at RIES with the Faculty of Letters, National University
+of Laos, "by financial support from the AusAid and Save Children
+Norway (SCN)" (spellings as printed — the student book prints
+"AusAID," and neither book gives Save the Children its "the" in
+this sentence). Its promise, in its own words: "The teacher's
+guide has included teaching techniques of each step of the
+lessons and some instructions of using teaching aids. All answer
+keys and listening texts are provided for teachers." It also
+carries "some information for teachers and students how to
+create teaching aids for their own classes" — that material
+lives in the lesson headnotes (below). And the same admission as
+the student book: "the teacher's guide is produced under the
+time pressure; therefore, some minor errors could not be
+avoided." PDF p.5 is the Acknowledgements ("ACKNOWLEGEMENTS" as
+printed, the series slip again): thanks to "the Save Children
+Norway and the AusAid" for equipment and funds, to the School of
+Quality Project in the Department of Primary and Kindergarten
+Education, and to the workshop writers by affiliation — the two
+new Grade 5 writers both of the National University of Laos,
+Vilaylath of Phiavat Secondary School, Phaxayavong of Vientiane
+Secondary School. PDF pp.6–7 are the Contents, giving each
+lesson's starting folio — L1 p.1, L2 p.6, L3 p.11, L4 p.16, L5
+p.21, L6 p.26, L7 p.28, L8 p.33, L9 p.38, L10 p.43, L11 p.48, L12
+p.50, L13 p.55, L14 p.60, L15 p.65, L16 p.67, L17 p.72, L18 p.77 —
+and two titles differ from the student book's: Lesson 14 is
+headed plain "Household objects" (the student book: "Describing
+household objects") and Lesson 17 "Food items" (the student
+book: "Foods").
+
+**The method pages (PDF pp.8–9, in Lao, read on the renders).**
+The ບົດສະເໜີ (Introduction) page states the book's shape: 18
+lessons — 14 teaching lessons and 4 revision lessons; every
+teaching lesson in two sections, Part A and Part B; every
+section running 6–8 activities, and it lists **the same eight
+steps** as the Grade 4 guide, in English with Lao glosses: 1
+Look, listen and repeat · 2 Look and say · 3 Read and match · 4
+Listen and tick · 5 Look and write · 6 Let's write · 7 Let's
+talk · 8 Let's play or Let's sing. It names the book's content
+in passing (telephone numbers, telling the time, daily
+activities, dates and months, the things in a house — things a
+child can use in daily life) and the four skills — listening,
+speaking, reading, writing — then gives the classroom procedure
+for each step, in Lao: step 1 opens by asking the class what it
+already knows, the dialogue is repeated after the teacher 3–4
+times, then read aloud in turns; step 2 reads first, 2–3 turns,
+then pupils say in groups following the pictures; step 3 the
+teacher reads the sentences aloud 2–3 times while pupils follow,
+pupils then work alone, and answers are taken one by one and
+repeated by the whole class; step 4 the example is read 2–3
+times, each item read once for the tick, read again for
+checking, the key written on the board and **pupils swap books
+and check each other's**; step 5 the teacher explains the
+writing, pupils write in their notebooks, the teacher goes round
+helping, and some pupils write on the board; step 6 Let's write
+is done in the book itself after the steps of the lesson are
+recalled; step 7 the talk frame is written on the board, read
+aloud 2–3 times, read together, then **pupils are put in pairs
+or groups to talk in their own sentences**; step 8 the teacher
+reads the guide's notes for the song or game in detail first,
+then leads the class in it. There is no assessment chapter and
+no test material anywhere in the guide — the English layer never
+uses the words test, exam, score or assess; checking runs through
+the keys and the revision lessons, as in Grade 4's guide.
+
+**The lesson headnotes.** Every lesson opens with a Lao block in
+the same shape (Lesson One's checked on the render): ຈຸດປະສົງ
+(objectives), ຄາດໝາຍ (what pupils should be able to do after the
+lesson), **ເວລາ: 4 ຊົ່ວໂມງ — time: 4 hours per lesson, 2 hours
+per section** (the section heading itself carries "(2 ຊົ່ວໂມງ)"),
+and ການກະກຽມ (preparation) — the teaching-aids material the
+Introduction promises, lesson by lesson (Lesson One: before the
+lesson the teacher prepares pictures of the classroom objects —
+a pen, a pencil, an eraser …). The activity bullets under each
+step are likewise Lao, with the English scripts, keys and model
+dialogues set inside them; what follows files those English
+parts, lesson by lesson. (Parent references below are to the
+student book's printed pages, as the guide itself cites them —
+every activity head carries "(page N)" pointing at the student
+book.)
+
+## What the guide adds, lesson by lesson
+
+- **Lesson 1 Classroom objects (guide pp.1–5).** The dialogue
+  step is taught off a warm-up the guide scripts: the teacher
+  holds up or points to objects and asks "What's this? / What's
+  that? / What colour is it?" Keys: Read and match A 1-d, 2-c,
+  3-a, 4-b, 5-f, 6-e; B 1-e, 2-a, 3-c, 4-b, 5-d, 6-f. The
+  listening scripts in full — A: "What's this? It's a dust-pan.
+  It's blue. / What's that? It's a CD player. It's grey. /
+  What's this? It's a rubbish bin. It's red. / What's that? It's
+  a broom. It's yellow." (tick key 1-a, 2-a, 3-b, 4-a); B: the
+  same four objects plural (dust-pans blue, clocks white,
+  rubbish bins purple, brooms yellow; key 1-a, 2-b, 3-a, 4-b).
+  Look and write keys A (clock/white, computer/brown, CD
+  player/grey, rubbish bin/red, dust-pan/blue) and B (rubbish
+  bins/purple, CD players/grey, brooms/yellow, computers/brown).
+  Let's talk models: A "What's this?/What's that? — It's a CD
+  player. It's grey."; B "What are these? (What are those?) —
+  They are CD players. They are grey." The Section B step also
+  prints a four-row model table — "What's this? It is a pen. It
+  is blue. / What's that? It is a dust-pan. It is yellow. / What
+  are these? They are pens. They are blue. / What are those? They
+  are dust-pans. They are yellow." — the book's one place where
+  this/that/these/those stand side by side in full forms. **The
+  clock song (student p.5) gets a Let's sing heading and
+  procedure only — its words are not printed** (see the songs
+  verdict below).
+- **Lesson 2 Telephone numbers and counting (guide pp.6–10).**
+  Read and match key 1-c, 2-a, 3-d, 4-b, 5-e. The listening
+  script is five "What's your telephone number?" items — 215
+  688, 719 135, 237 889, 916 749, 612 530 (tick key 1-a, 2-b,
+  3-b, 4-b, 5-a). The Look and write key writes four numbers out
+  in digit words — "two-three-seven-eight-seven-nine,"
+  "six-one-three-five-three-o," "seven-nine-one-three-four-
+  four," "two-one-five-six-seven-eight" — **zero read "o" inside
+  the key itself**. Let's talk model: "It's 319 876. / Is your
+  telephone number 610 731? — Yes, it is. / Is your telephone
+  number 710 731? — No. It's 710 721." The telephone song
+  (student p.14): procedure only, no words. Section B: the Read
+  and match key pairs the numerals with fifty-seven, sixty,
+  seventy, eighty, ninety, one hundred; the listening script
+  asks "What number is it?" for 53, 60, 80, 100 (key 1-a, 2-b,
+  3-a, 4-a); the Look and write key gives the five sums in
+  figures — 22+32 = 54, 85−15 = 70, 40×2 = 80, 100:2 = 50, 37+55
+  = 92 — beside the word answers fifty-four, seventy, eighty,
+  fifty, ninety-two; Let's talk model: 87, "Is it 64? — Yes,"
+  "Is it 82? — No. It's 83."
+- **Lesson 3 Time and daily activities (guide pp.11–15).** The
+  Look and say note writes the clock set out — the o'clock hours
+  and "seven fifteen" named in the teacher's text. Read and
+  match key 1-c, 2-a, 3-b, 4-e, 5-d. Listening script: "What
+  time is it?" — eight, six, five, two o'clock (key 1-a, 2-a,
+  3-b, 4-a; the script's first line prints "It's eighto'clock,"
+  see slips). Look and write key: eight, three, nine, one
+  o'clock. Let's talk model adds a minutes time the student
+  dialogue doesn't use: "What time is it? — It's three thirty."
+  The time song (student p.23): procedure only, no words.
+  Section B: the headnote script runs "What time do you go to
+  bed? At ten o'clock."; Read and match key 1-c, 2-a, 3-e, 4-d,
+  5-b; listening script — go to bed at ten, go to school at
+  seven, water the garden at six thirty, get up at six (key 1-a,
+  2-b, 3-b, 4-b); Look and write key: the five "I … at …"
+  routine sentences (bed ten, home five, lunch twelve, up six,
+  school seven); Let's talk model: get up at six o'clock.
+- **Lesson 4 Months of a year (guide pp.16–20).** Read and match
+  key 1-c, 2-d, 3-a, 4-e, 5-b. Listening script: January,
+  February, May, June (key 1-a, 2-b, 3-b, 4-a). Unscramble key:
+  January, June, February, April. Let's talk model: January.
+  Section B: a teacher note works the date frame both ways —
+  "It's 1st January" beside "It's the first of January" — with a
+  Lao explanation of "the" and "of" (read in the text layer);
+  the dialogue script runs "What's the date today? — It's 1st
+  January. / Is it 2nd May? — No. It's 3rd May." Read and match
+  key 1-c, 2-d, 3-a, 4-b, 5-f, 6-e. Listening script: 12th
+  February, 3rd March, 14th May, 13th January (key 1-b, 2-a,
+  3-b, 4-b). Unscramble key: fourth, fourteenth, fifteenth,
+  tenth, twelfth. Let's talk model: "Is it 1stJanuary? — No.
+  It's 2nd February" (the dropped space is the guide's own; see
+  slips). **The word-search solution is printed as a solved
+  grid** — FOURTH and SIXTH run across the top, FEBRUARY/MARCH/
+  APRIL/JUNE/MAY stand in the rows, and the filler rows spell
+  whole words of their own, EL SALVADOR and NEW ZEALAND among
+  them, exactly as the student filing suspected from the unsolved
+  grid.
+- **Lesson 5 Months of a year (continue) (guide pp.21–25).**
+  The Look and say note now lists all twelve months. Read and
+  match key 1-c, 2-d, 3-a, 4-e, 5-f, 6-b. Listening script:
+  July, August, November, October (key 1-a, 2-a, 3-b, 4-b).
+  Unscramble key: August, October, July, December, September,
+  November. Let's talk model: "Is it July? — No. It's August."
+  Section B: dialogue script "It's 16th July. / Is it 22nd
+  November? — No. It's 23rd November," with the note spelling
+  "twenty-second of November." Read and match key 1-b, 2-a, 3-f,
+  4-e, 5-c, 6-d. Listening script: 18th July, 20th August, 31st
+  October, 24th October (key 1-a, 2-a, 3-a, 4-b). **The Look and
+  write key writes the six dates out in words — with the
+  ordinals written as cardinals**: "It's the sixteen of July. /
+  Today is the six of August. / It's the twelve of September. /
+  It's thirty of December. / It's twenty five of November. /
+  It's thirty first of October." Let's talk model: 1st July,
+  "Is it 21st August? — No. It's 22nd August." The word-search
+  solution grid is printed (SEPTEMBER, OCTOBER, AUGUST and
+  DECEMBER legible in its rows). **On the student book's "31st
+  September" (student p.44): the guide never prints the date —
+  its own September key date is "the six of September" — so the
+  slip is neither repeated nor corrected here; it is not
+  settled.**
+- **Lesson 6 Revision (Lessons 1–5) (guide pp.26–27).** Read
+  and match key 1-b, 2-a, 3-e, 4-g, 5-f, 6-d, 7-c. The listening
+  script runs in two parts: a clock ("It's a clock. It's
+  white."), a rubbish bin, computers, a telephone number read in
+  digit words ("two two three eight seven eight" — 223 878, not
+  the student bank's 559 517), February, and "It's 14th
+  February"; then a calculator, "What number is it? — It's
+  eighty," watering the garden at six o'clock, and studying
+  English at ten o'clock. A Let's write key for the student
+  p.48 gaps is headed at the foot of guide p.27.
+- **Lesson 7 Professions (guide pp.28–32).** The headnote
+  carries the dialogue in script: "Who's he? — He's my father.
+  He's a doctor. / Who's she? — She's my mother. She's a nurse,"
+  and a note naming the family word set the questions run over.
+  Read and match keys A 1-b, 2-c, 3-a, 4-e, 5-d; B 1-b, 2-d, 3-e,
+  4-c, 5-a. Listening scripts — A: father a teacher, sister a
+  student, brother a mechanic, uncle a farmer (key 1-a, 2-b,
+  3-b, 4-b); B: the four job-description pairs in full
+  ("They are teachers. They teach English. / They are doctors.
+  They treat patients. / They are farmers. They grow rice. /
+  They are mechanics. They fix cars."). Look and write keys: A
+  the four job sentences; B the five verb lines alone ("They
+  learn English / They teach English / They fix cars / They
+  treat patients / They grow rice") — so the student book's
+  "They are farmer." frame (student p.56) is not reproduced in
+  the key, though the key gives no full corrected sentence
+  either. Let's talk models: A the open frame; B "Who are they?
+  — They are students. They learn English." **The crossword is
+  printed solved (guide p.32), and it settles the student book's
+  duplicated clue**: Down 1 "They treat patients" = **doctors**,
+  Down 2 mechanics, Down 4 farmers; Across 3 students, **Across
+  5 "They treat patients" = nurses**, Across 6 teachers — the
+  clue stands twice because two jobs fit it, and the guide keys
+  the second one to nurses.
+- **Lesson 8 Daily activities (guide pp.33–37).** The headnotes
+  list the day-part word sets (morning: have breakfast, wash
+  face, brush teeth, feed chickens …; evening: arrive home,
+  take a bath, have dinner, watch TV, do homework …). Listening
+  scripts — A: wash my face, brush my teeth (morning), have
+  lunch, learn English (afternoon), key 1-a, 2-a, 3-b, 4-b; B:
+  have dinner, go to bed, watch TV, do homework, key 1-a, 2-a,
+  3-b, 4-b. Read and match keys A 1-b, 2-d, 3-a, 4-e, 5-c; B
+  1-b, 2-d, 3-e, 4-c, 5-a. Look and write keys: the five routine
+  sentences of each section, each with its day-part ("I get up
+  in the morning … I go to bed at night"). Let's talk models for
+  both sections. **The board game is keyed with its whole track
+  read out as one thirteen-sentence day (guide p.37)**: get up,
+  brush my teeth, wash my face, have breakfast, go to school (in
+  the morning); have lunch, learn English (in the afternoon);
+  arrive home, **have a shower**, have dinner, do homework,
+  watch TV (in the evening); go to bed at night — the guide's
+  script says "have a shower" where the student book's own
+  evening set word is "take a bath"; both stand as printed.
+- **Lesson 9 Parts of the body and health matters (guide
+  pp.38–42).** The headnote prints the frames: "What's this? /
+  What are these?" over the body set, and "What's the matter? —
+  I have a … (headache, stomachache, toothache, and cold)."
+  Read and match key A 1-d, 2-b, 3-c, 4-a, 5-f, 6-e, 7-h, 8-g.
+  Listening script: hands, mouth, chest, toes (key 1-a, 2-a,
+  3-a, 4-b) — its questions print "What are theses?" twice (see
+  slips). **The word-search solution grid is printed in full
+  (guide p.40)** — ears, chest, toes, mouth and stomach legible
+  in its rows. Section B: Read and match key 1-b, 2-c, 3-d, 4-a;
+  listening script: toothache, stomachache, headache, cold (tick
+  key 1-b, 2-b, 3-b, 4-b); the Let's talk list prints the four
+  troubles with "stomache" among them (see slips), and the
+  Section B dialogue note prints "Wha's the matter?" once (see
+  slips).
+- **Lesson 10 Ability and Inability (guide pp.43–47).** The
+  headnote prints the lesson's frames: "(He/She) can … and … /
+  … but can't …" with "(She can dance and sing / He can ride but
+  can't swim)," and Section B's trouble list twice over ("I
+  can't find my pencil. I can't hear the teacher. I can't see
+  the board. I can't reach the bookshelf."). Section A script:
+  "What can she do? — she can dance and sing / What can he do?
+  — He can ride but can't swim" (the lowercase "she" is as
+  printed). Read and match key 1-b, 2-d, 3-a, 4-c. Listening
+  script: ride, can't climb, dance, run and ride (key 1-a, 2-b,
+  3-b, 4-a). Look and write and Let's talk give the frames with
+  the answers left open. Section B: Read and match key 1-c, 2-d,
+  3-b, 4-a; listening script: reach the bookshelf, hear the
+  teacher, see the board, find my pencil (key 1-a, 2-b, 3-a,
+  4-b); **the Let's talk frame is headed "What's the wrong?"
+  and its trouble list prints "find my pemcil"** (see slips).
+  **The "What's wrong?" song (student p.84) gets a Let's sing
+  heading and procedure only — the guide prints none of its
+  words, so the two "?????" lines in the student book stay
+  unsettled** (see the songs verdict).
+- **Lesson 11 Revision (Lessons 7–10) (guide pp.48–49).**
+  Listening script: "What's the matter? — He has a toothache"
+  (the revision's third-person line, scripted here), "What are
+  these? — They are toes," "What do you do in the morning? — I
+  go to school," "What's wrong? — I can't find my pencils"
+  (key 1-a, 2-b, 3-b, 4-a). Read and match key 1-c, 2-a, 3-d,
+  4-b. **Look and write key: "She's a student. / He's a doctor.
+  / They are mechanics. / Yes, he is. / No.They are farmers." —
+  it keys the yes/no profession answers ("Is he a teacher? /
+  Are they doctors?") that the student book's revision leaves
+  open (student p.87).** Let's write key: "I have breakfast in
+  the morning. / I can't hear the teacher. / I am a teacher, I
+  teach English. / I have a heachache." (the last as printed;
+  see slips).
+- **Lesson 12 Rooms in a house (guide pp.50–54).** Section A:
+  Read and match key 1-b, 2-a, 3-d, 4-c; listening script —
+  bedroom, kitchen, bathroom, living room, each "There is a …
+  in the house" (key 1-a, 2-b, 3-a, 4-b); Look and write key:
+  the same four sentences; Let's talk model: "Is there a
+  kitchen in the house? — Yes, there is. / Is there a diningroom
+  in the house? — No, there isn't" ("diningroom" as one word as
+  printed). Section B: the model dialogue is printed in full —
+  "Are there beds in the bedroom? — Yes, there are. / Are there
+  pots in the living room? — **No, there are not.** They are in
+  the kitchen" — the guide's script gives the long negative the
+  student dialogue shortens. Read and match key 1-c, 2-d, 3-b,
+  4-a. Listening script: stoves in the kitchen (yes), toilets
+  (in the bathroom), armchairs in the livingroom (yes), lamps
+  (in the bedroom) (key 1-a, 2-b, 3-a, 4-b). The tile key:
+  "There are two bedrooms. / Are there stoves in the kitchen? /
+  There are fans in the living room. / Are there chairs in the
+  dining room?" Let's talk model adds the "No, there are not"
+  answer again. **The game is keyed: "The stoves are in the
+  kitchen. / The armchairs are in the livingroom. / The lamps
+  are in the bedroom. / The toilets are in the bathroom."**
+- **Lesson 13 Household objects (guide pp.55–59).** Section A
+  opens with a scripted exchange the student book doesn't print:
+  "Teacher: Where's the book? Students: It's on the table." Read
+  and match key 1-c, 2-b, 3-e, 4-a, 5-d. Listening script:
+  "Where's the sofa? — The sofa is between the lamps. / Where's
+  the fridge? — The fridge is behind the table. / Where's the
+  armchair? — The armchair is in front of the TV. / Where's the
+  bed? — The bed is in the bedroom." (key 1-a, 2-b, 3-a, 4-b).
+  Look and write key: "It's on the table. / It's next to the
+  sofa. / It's in front of the fridge. / It's between the
+  tables. / It's behine the sofa. / It's in the bedroom."
+  ("behine" as printed; see slips). Let's talk model adds a
+  classroom turn: "Where is the blackboard? — It's in the
+  classroom." **The crossword solution is printed (guide p.57)**
+  under the question "Where's the lamp?" — "next to" runs
+  across, "preposition" down through it, with "in front of,"
+  "between" and "behind" woven through the grid, as the student
+  book's unsolved grid promised. Section B opens with a scripted
+  Example exchange ("Teacher: Is the bed in the bedroom?
+  Student: Yes, it is. / Is the stove in the bedroom? — No, it
+  isn't. It's in the kitchen."). Read and match key 1-c, 2-e,
+  3-b, 4-a, 5-d. Listening script with key (1-a, 2-b, 3-a,
+  4-a): the fridge next to the cupboard (yes), the fridge in
+  front of the table (no — behind), the TV on the table (yes),
+  and "Is washing mechine between the lamps? — No, it isn't.
+  It's between the buckets" ("mechine" as printed). **Look and
+  write key: "The cupboard is next to the frigdge. / The
+  wardrove is in the bedroom. / The washing mechine is between
+  the buckets. / The table is in front of the fridge. / The
+  table is behine the sofa."** — the guide's own key carries
+  "wardrove," the very spelling the student book's Vocabulary
+  list was filed for; the slip is the guide's too. Let's talk
+  model: TV on the table (yes); fridge next to the bed (no —
+  next to the cupboard).
+- **Lesson 14 Describing household objects (guide pp.60–64).**
+  Section A: Read and match key 1-b, 2-e, 3-d, 4-a, 5-c.
+  Listening script: "Is it a small bed? — No, it's a big bed. /
+  Is it a new sofa? — Yes, it is. / Is it a small cupboard? —
+  No. It's a big cupboard. / Is it an old bed? — No. It's a new
+  bed." (key 1-a, 2-a, 3-a, 4-b). The tile key completes the
+  student set: "It's an old cupboard. / Is it a big wardrobe? /
+  Is it an old bed? / It's a small sofa." Let's talk prints two
+  models back to back that ask the same question with opposite
+  answers — "Is it a new bed? — No. It's an old bed." then "Is
+  it a new bed? — Yes, it is." — as printed. Section B: Read
+  and match key 1-c, 2-d, 3-b, 4-a. Listening script: "Are they
+  big beds? — No, they aren't. They are small beds. / Are they
+  new armchairs? — No, they aren't. They are old armchairs. /
+  Are they old wardrobes? — Yes, they are. / Are they new
+  wardropes? — No, they aren't. They are old wardropes."
+  ("wardropes" as printed; key 1-a, 2-b, 3-a, 4-b.) Look and
+  write key: "They're big arm chairs. / They're small
+  armchairs. / They're old cupboards. / They're new wardrobes."
+  Let's talk model: "Are they old beds? — Yes, they are. / No.
+  They are new beds." **The word-search solution grid is
+  printed** — CUPBOARDS runs down its left edge, BEDS across the
+  top, NEW and ROBES legible in the lower rows.
+- **Lesson 15 Revision (Lessons 12–14) (guide pp.65–66).**
+  Read and match key 1-c, 2-d, 3-e, 4-a, 5-b. Listening script:
+  "Where is the sofa? — It's between the lamps. / Is there a
+  kitchen in the house? — Yes, there is. / Is there's a wardrobe
+  in the bedroom? — Yes, there is. / Where're the new beds? —
+  They're in the bedroom." (both question slips as printed; key
+  1-a, 2-b, 3-b, 4-a). Look and write key: "There is one toi let
+  in the house. / There are three armchairs in a living room. /
+  Is there a TV in front of the bed? / Are they big beds in the
+  bedroom? / They are new stoves in the kitchen." ("toi let" as
+  printed). **The Let's read key (guide p.66) answers the house
+  text's three questions: "1. There are three bedrooms in my
+  house. 2. Yes, there are. 3. It's in the kitchen."**
+- **Lesson 16 Clothes (guide pp.67–71).** The Look and say
+  note lists the set with its Lao glosses and the model "I'm
+  wearing a white shirt" — a white shirt, a blue Lao skirt, a
+  red cap, a pink T-shirt, a brown jacket. Read and match keys A
+  1-b, 2-d, 3-a, 4-e, 5-c; B 1-c, 2-e, 3-b, 4-a, 5-d. Listening
+  scripts — A: white shirt, green T-shirt, blue Lao skirt, brown
+  jacket (key 1-a, 2-b, 3-b, 4-a); B: five lines — white shoes,
+  green sandals, grey shorts, black pants, brown shoes (key 1-a,
+  2-a, 3-a, 4-a, 5-b). Look and write keys: A five "I am wearing
+  a …" sentences (the jacket and T-shirt items keyed without
+  their colours); B **the unscrambles solved — khosc = socks,
+  tnasp = pants, tosrhs = shorts, dlasnas =
+  sandals, ehsos = shoes**. Let's talk models for both sections.
+  The "It's time to go" song (student p.126): the guide lists
+  the clothes words with glosses only — **no song lines**.
+- **Lesson 17 Foods (guide pp.72–76).** Section A: Read and
+  match key 1-b, 2-e, 3-d, 4-c, 5-a. Listening script: papaya
+  salad, vegetables, noodles, sticky rice (key 1-a, 2-a, 3-b,
+  4-a). Look and write key: noodles, fried rice, sticky rice,
+  vegetables. Let's talk frame: "A: what do you like? B: I like
+  …" (the lowercase w as printed). The hungry/thirsty song
+  (student p.131): heading and procedure only, no words.
+  Section B: Read and match key 1-b, 2-a, 3-d, 4-c. Listening
+  script: "I like grilled chicken but I don't like sausage. / I
+  like fish soup and sausage. / I like papaya salad and gilled
+  chicken. / I like sausage but I don't like fish soup." ("gilled"
+  as printed; key 1-a, 2-a, 3-b, 4-b.) The "5 Let' write" key
+  (heading as printed) gives the four joined likes in full.
+- **Lesson 18 Revision (Lessons 1–17) (guide pp.77–79).** The
+  pattern bank gets procedure only. Look and write A key — the
+  four joined-like frames filled: "I like noodles and chili
+  sauce. / I like sausage and sticky rice. / I like grilled
+  chicken but I don't like fried rice. / I like chili sauce but
+  I don't like sausage." Part B, the friend survey, is reprinted
+  as its instruction ("Put (√) like, (x) don't like. Ask 2
+  friends.") with no key — an open activity. **Odd-one-out key:
+  1 chest, 2 farmer, 3 headache, 4 arrive, 5 see.** **The
+  multiple-choice key — the key to the series' first test
+  (student p.138) — is: 1-a, 2-c, 3-c, 4-b, 5-a, 6-c, 7-b**
+  (letters only in the guide; the seven items and their options
+  stand in the student book). **Answer-the-questions key (guide
+  p.79): "What do you do in the morning? — I wash my face and
+  have breakfast in the morning. / Is there a bed in the house?
+  — Yes, there is. / Is there a TV in the house? — No, there
+  isn't. / Where's the table? — It's in front of the fridge. /
+  Where's the lamp? — It's behind the sofa."** The Let's read
+  (student p.139) and the Let's write "Now write about yourself"
+  get headings and procedure only — **the guide prints neither
+  Kham's text nor a model self-description, and no key**; the
+  student filing of that passage stands on the student book
+  alone.
+
+**The songs verdict.** The Introduction promises "all answer
+keys and listening texts," and for dialogues and Listen-and-tick
+items it delivers. For songs it does not: **not one of the six
+songs is printed anywhere in the guide** — the clock song
+(student p.5), the telephone number song (p.14), the time song
+(p.23), the "What's wrong?" song about Andy (p.84), "It's time
+to go" (p.126) and the hungry/thirsty song (p.131) each get a
+"Let's sing" heading with Lao procedure alone (the method page's
+step 8: the teacher reads the guide's notes in detail, then
+leads the activity). The songs whose words the student book
+itself prints stand as filed there; the lines that live only on
+the audio — above all the Andy song's two rows of "?????" —
+**are not settled by this guide**.
+
+**What the guide settles against the student filing.** (1) The
+Lesson 7 crossword's doubled clue: the second "They treat
+patients" is keyed **nurses** (guide p.32) — settled. (2) The
+board game's track: the guide reads it out as thirteen routine
+sentences, with "have a shower" against the student set's "take
+a bath" (guide p.37) — the track is settled; the wording split
+stands as a both-books note. (3) The student Vocabulary's
+"wardrove": the guide's own key prints "The wardrove is in the
+bedroom." (guide p.59) — the slip belongs to both books, not to
+the student back matter alone. (4) The house text's three
+questions and the final written-answer set now have printed
+answers (guide pp.66, 79), and the first multiple-choice test
+has its key (guide p.78). Not settled: the "31st September"
+(above), the Andy song's "?????" lines (above), and the back
+matter's "What's these? / What's those?" — the guide's Lesson 1
+models use "What are these?/those?" throughout, agreeing with
+the lesson against the back matter, but it nowhere corrects the
+Expressions page.
+
+## What looks new for the LiqLearns English ladder (from this guide)
+
+- **The answer key to the series' first test** (guide p.78 →
+  student p.138): 1-a, 2-c, 3-c, 4-b, 5-a, 6-c, 7-b — with the
+  odd-one-out key (chest, farmer, headache, arrive, see) beside
+  it; Laos's first keyed assessment stock.
+- **Written-answer models**: the house text's three answers
+  (guide p.66 → student p.117) and the five model answers to the
+  final written questions (guide p.79 → student pp.138–139) —
+  Reading Whole Texts (Level 15) and The Paragraph stock: what a
+  full answer looks like, from the book itself.
+- **The board-game day in full** (guide p.37): thirteen routine
+  sentences chained across the four day-parts — Present Actions
+  (Level 12) stock, and the series' fullest routine text; its
+  "have a shower" stands beside the student book's "take a
+  bath" as a both-ways note.
+- **Solved puzzle grids**: the professions crossword with its
+  nurses settle (guide p.32), the months word searches (pp.20,
+  25 — their filler rows spell EL SALVADOR and NEW ZEALAND), the
+  body word search (p.40), the preposition crossword with
+  "preposition" itself running down the grid (p.57), the
+  describing word search (p.64).
+- **Numbers by ear, keyed** (guide pp.7, 10): telephone numbers
+  in digit words with zero as "o" inside the key, and the five
+  sums past fifty answered in figures and words — Numbers
+  (Level 9) stock.
+- **A caution for Days and Months**: the guide's own date key
+  writes "the sixteen of July / the six of August / thirty
+  first of October" — cardinals where the student book teaches
+  ordinals (guide p.25); the course follows the student book's
+  ordinals and files the guide's forms as slips.
+- **Method stock for lesson plans**: 4 hours per lesson, 2 per
+  section; the eight-step procedure with its drill counts (repeat
+  3–4 times, read 2–3 times); book-swapping peer check at Listen
+  and tick; pairs and groups at Let's talk; a per-lesson
+  preparation list of home-made teaching aids (method pages,
+  PDF pp.8–9; headnotes throughout).
+- **A model dialogue for nearly every Let's talk** — the
+  speaking frames with one filled answer each (guide pp.3, 5, 8,
+  10, 13, 15, 18, 20, 23, 25, 30, 32, 35, 37, 52, 54, 57, 59,
+  62, 64, 69, 71, 74): Conversation and Questions stock in the
+  teachers' own filled forms, including two the student book
+  never prints — "Where is the blackboard? — It's in the
+  classroom." (p.57) and the long negative "No, there are not."
+  (p.52).
+
+**Slips recorded as printed (the guide's own):** "ACKNOWLEGEMENTS"
+for Acknowledgements (PDF p.5), the series slip · the Introduction's
+"the AusAid" for AusAID (PDF p.4), where the student book prints
+"AusAID" · Contents titles against the student book's: Lesson 14
+"Household objects" for "Describing household objects," Lesson 17
+"Food items" for "Foods" (PDF pp.6–7) · the lesson head words
+unevenly capitalised — "Lesson four," "Lesson five," "Lesson
+eleven," "Lesson eighteen" against "Lesson One," "Lesson Nine,"
+"Lesson Fourteen" · "It's eighto'clock." in the Lesson 3 listening
+script (p.12) · "April ,May" with a space before the comma in the
+months notes (pp.17, 22) · "Is it 1stJanuary?" — the student book's
+dropped-space slip in the guide's own model (p.19) · the date key's
+cardinals for ordinals — "the sixteen of July," "the six of
+August," "twenty five of November," "thirty first of October"
+(p.25) · "she can dance and sing" with a lowercase s in the Lesson
+10 script (p.44) · "What are theses?" for "these," twice in the
+Lesson 9 listening script (p.39) · "Wha's the matter?" in the
+Lesson 9 dialogue note (p.41) · "stomache" in the Lesson 9 Let's
+talk list (p.42) · "What's the wrong?" as the Lesson 10 Let's talk
+head, with "find my pemcil" in its list (p.47) · "I have a
+heachache." in the Lesson 11 Let's write key (p.49) · "No.They are
+farmers." with no space after the stop (p.49) · "diningroom" as one
+word (p.52) and "livingroom" as one word (pp.53, 54) · "It's
+behine the sofa." in the Lesson 13 Look and write key (p.57) and
+again in the Lesson 13B key with "The cupboard is next to the
+frigdge," "The wardrove is in the bedroom." and "The washing
+mechine is between the buckets." (p.59), "mechine" already in that
+section's listening script (p.59) · "Are they new wardropes? …
+They are old wardropes." in the Lesson 14 listening script (p.63)
+· "They're big arm chairs." in the Lesson 14 Look and write key
+(p.64) · "Is there's a wardrobe in the bedroom?" and "Where're the
+new beds?" in the Lesson 15 listening script (p.66) · "There is
+one toi let in the house." in the Lesson 15 Look and write key
+(p.66) · "A: what do you like?" with a lowercase w (p.74) · "I like
+papaya salad and gilled chicken." in the Lesson 17 listening
+script (p.75) · the heading "5 Let' write" for "Let's write"
+(p.75).
+
+**FULLY READ 2026-10-27.** Read page by page: the English text
+layer throughout; the Lao-carried pages read on renders — the
+cover spread (PDF p.1), the credits page (PDF p.2), the two
+method pages (PDF pp.8–9, the eight steps and their procedures),
+and Lesson One's headnote (PDF p.10, objectives / expected
+outcomes / 4 hours / preparation). The Lao preface (PDF p.3) and
+the Lao activity bullets inside each lesson were read by their
+shape and their English inclusions, not word by word — the same
+honesty note as the student filing. **CITATION CHECK PASSED
+2026-10-27** — anchors re-opened in the PDF and confirmed on
+their pages (printed page = PDF page − 9): Introduction "All
+answer keys and listening texts are provided for teachers" (PDF
+p.4) · Contents "Lesson 18 Revision (1-17) … 77" (PDF p.7) ·
+Lesson 1 listening script "What's this? It's a dust-pan. It's
+blue." (p.2) · Lesson 1 model "What are those? They are
+dust-pans. They are yellow." (p.4) · Lesson 2 key "six-one-three-
+five-three-o" (p.7) · Lesson 2 sums "22+32 = 54 … 37+55 = 92"
+(p.10) · Lesson 3 script "It's eighto'clock." (p.12) · Lesson 3
+model "It's three thirty." (p.13) · Lesson 4 model "Is it
+1stJanuary? No. It's 2nd February." (p.19) · Lesson 4 solved
+grid row "EL SALVADOR" (p.20) · Lesson 5 key "It's the sixteen
+of July." (p.25) · Lesson 7 crossword "Across 5. They treat
+patients. They are _nurses_." (p.32) · Lesson 8 game script "I
+have a shower in the evening." (p.37) · Lesson 9 script "What
+are theses? They are my hands." (p.39) · Lesson 10 frame
+"What's the wrong? … find my pemcil" (p.47) · Lesson 11 key "I
+have a heachache." (p.49) · Lesson 12 model "No, there are not.
+They are in the kitchen." (p.52) · Lesson 13 key "The wardrove
+is in the bedroom." (p.59) · Lesson 14 script "Are they new
+wardropes?" (p.63) · Lesson 15 Let's read key "1. There are
+three bedrooms in my house. 2. Yes, there are. 3. It's in the
+kitchen." (p.66) · Lesson 16 note "a blue Lao skirt" (p.68) ·
+Lesson 17 script "gilled chicken" (p.75) · Lesson 18
+multiple-choice key "1-a, 2-c, 3-c, 4-b, 5-a, 6-c, 7-b" (p.78) ·
+Lesson 18 answer key "Where's the table? It's in front of the
+fridge." (p.79) · no ISBN printed anywhere (cover spread and
+credits checked on renders) — 24 anchors, all on their pages.
+
+**Course filing state:** FILED — this section stands in
+`english/books/laos.md`. With it, the Laos primary series is
+read whole on both sides — student books and teacher guides for
+Grades 3, 4 and 5 — and the Laos run continues at Grade 6.
