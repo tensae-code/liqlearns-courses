@@ -75,8 +75,8 @@ its own subtitle folder with its own lesson + questions):
 - Word (numbers & time) → numbers · days-and-months ·
   telling-the-time (built 2026-10-27 — Level 2 Unit 4
   COMPLETE; **Level 2 COMPLETE**)
-- Paragraph → the-paragraph (built 2026-10-27 — Level 4
-  Unit 1 opens here)
+- Paragraph → the-paragraph · first-then-finally
+  (built 2026-10-27 — Level 4 Unit 1 COMPLETE)
 Conversation → hello-and-your-name (from Egypt, Primary 1) is kept, and
 filed under its title; it is NOT Lesson 1 of the path.
 
