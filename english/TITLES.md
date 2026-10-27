@@ -67,8 +67,8 @@ its own subtitle folder with its own lesson + questions):
 - Word (tool) → using-the-dictionary (built 2026-10-27 —
   Level 2 Unit 3 COMPLETE)
 - Sentence → building-a-sentence · capital-and-full-stop ·
-  asking-yes-no-questions (built 2026-10-27 — Level 3 Unit 1
-  COMPLETE; Unit 2 opens here)
+  asking-yes-no-questions · asking-with-question-words
+  (built 2026-10-27 — Level 3 Units 1–2 COMPLETE)
 - Word (numbers & time) → numbers · days-and-months ·
   telling-the-time (built 2026-10-27 — Level 2 Unit 4
   COMPLETE; **Level 2 COMPLETE**)
