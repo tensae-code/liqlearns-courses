@@ -4586,3 +4586,984 @@ searched and absent, as expected.
 needs a textbooks-side correction: the secured G7 English
 teacher copy is the PE guide; the real guide (6,307,629 bytes,
 143 pp) sits at the mirror path named in the warning.
+
+## Grade 8 (ມ.3) Student Textbook — FULLY READ + CITATION CHECK PASSED 2026-10-27
+
+The third book of the SECONDARY series ("Book Three") — it follows
+Book Two (Grade 7, filed above) in the same seven-book run for the
+12-year school system. Source copy: the public mirror the library's
+secured copy came from (GitHub Xaypanya/Lao-Textbook,
+`textbooks/secondary/m3/m3_english.pdf`). Working copy verified
+against the library record before reading: **30,811,924 bytes,
+153 PDF pages — both match the record exactly (VERIFIED-TEXT in
+the record; the English student entry)**. **Content verified by
+cover and credits, not by filename alone** (the Grade 7 guide
+lesson): PDF p.1 rendered is this book's own front cover —
+"ENGLISH FOR SECONDARY SCHOOLS," the series mascot holding a big
+pink **"3,"** the Lao line naming secondary year 3, "STUDENT'S
+BOOK," Ministry of Education and Sports / Research Institute for
+Educational Sciences, 2012, over a photo collage of Lao scenes —
+and PDF p.2 rendered is its credits page. The file is the book
+its record says it is. Read by a checking agent; spot-verified
+before commit (file facts, cover and credits on renders, the
+Unit 8 head and References on renders, anchors throughout).
+
+## The book itself
+
+"ENGLISH FOR SECONDARY SCHOOLS" — no grade number in the title;
+the cover badge is a big pink **"3"** held by the series mascot,
+and the record's Grade 8 (ມ.3, secondary year 3) placement is the
+series position (Book Three of seven). Ministry of Education
+**and Sports** (the cover's ministry name — Books One and Two
+said Ministry of Education), Research Institute for Educational
+Sciences (RIES). PDF p.1 is the front cover; PDF p.2 is a
+separate credits page (checked on the render — Book Two carried
+its credits on the cover itself): **the same credits team as
+Books One and Two, name for name** — Writers Manivone
+Phaxayavong, Bouakeo Vilaylath, Thongsouk Keomany, Kittisack
+Saychoummany, Bounthapany Bounxouay and Khambane Pasanchay;
+Managing Editors Khamphanh Phimsipasom and Viengkham
+Phonpraseuth; Editor in Chief Phouangkham Somsanith, Assoc.
+Prof. Dr. Bouasavanh Keovilay; Design and Layout Khankab
+Phongoudom — plus a line Books One and Two did not carry, "In
+editing collaboration with: Bounthanh Sengmany, Amonethip
+Phanthanavong." The cover imprint year is **2012** (Book One
+2010, Book Two 2011). The Introduction (PDF p.3) states the
+book's place plainly: "English textbook for secondary school
+Book Three is the third in a series of seven textbooks"
+answering the reform of general education from 11 years to 12;
+the extra secondary year was added in academic year 2009–2010;
+written by the Foreign Language Resource Centre at RIES with
+the Faculty of Letters, National University of Laos, funded by
+the **Basic Education Sector Development Project (BESDP)**; the
+same admission as the earlier books ("the textbook is produced
+under the time pressure; therefore, some minor errors could not
+be avoided"); dated "Vientiane Capital, 01 February, 2012."
+PDF pp.4–5 are the Contents (printed pp. II–III): **11 units,
+three lessons each (33 lessons)**, closing with **References**
+(p.147); PDF p.153 is a blank back-cover panel (orange frame,
+empty pink panel — rendered and checked). **No Revision units
+are listed and none appear** — where Books One and Two paused
+for revisions, Book Three runs eleven straight content units
+(Unit 11 is a content unit, FEELING). **No ISBN is printed
+anywhere** — checked on the cover (render), the credits page
+(render), the Introduction, and the References page (render),
+and the whole text layer was searched: no ISBN string exists in
+the book. **Page offset: printed folio = PDF page − 5** (checked
+at printed p.1 = PDF p.6, Unit One opening — render, folio
+visible; printed p.74 = PDF p.79, Unit Seven opening — render,
+folio visible, matching the Contents' p.74; printed p.88 =
+PDF p.93 — render; References p.147 = PDF p.152 — render).
+File notes: the PDF is print-protected the same way as the rest
+of the family (copying disabled, RC4; pdfinfo: print yes, copy
+no); its English text layer is clean but **doubled** — most
+lines sit in the file two or more times (a ghost layer under
+the visible one, heavier here than in Book Two, so raw extracts
+repeat and interleave; the map below was read off the de-ghosted
+text with renders where it mattered); some stretches of body
+text sit in a second embedded font whose layer extracts
+shifted by three letters (read and normalised in the reading —
+it is the same printed English); its Lao layer extracts as
+mojibake under the same legacy font encoding as Grades 4–7 —
+Lao-carried points were read on renders or from the English
+facing them. Every interior page carries the running unit head,
+a printed folio, and the faint slanted Lao "RIES" watermark.
+
+**Standing against Grade 7 (Book Two) — what Book Three
+changes.** (1) **The present perfect arrives — the book's
+headline.** Book Two never used have/has + participle at all;
+Book Three gives it a whole unit (Unit 4, NEW NEIGHBOURS):
+**just** for recently completed actions (Lesson 1), **for** and
+How long have you…? (Lesson 2), **since** with the series' first
+real definition of the tense — an action which began in the
+past and continues to the present (Lesson 3) — with full
+regular/irregular three-form tables (infinitive / past / past
+participle, p.42) and a gone to / been to note (p.42). **ever**
+and **never** complete the system later, in Unit 11 Lesson 2
+(Have you ever + past participle, pp.136–140). (2) **More new
+structures, one or two per unit**: the past simple **spelling
+rules** for regular -ed verbs, tabled at last (Unit 3, p.28);
+**used to** for past habits (Unit 3, pp.34–37); **so** for
+result (Unit 2, p.25); the **past continuous** with while for
+interrupted actions (Unit 6, pp.61–63 and 70–73); **must /
+have to** as a full system — statement, mustn't vs don't have
+to, and Do/Does… have to questions (Unit 10, pp.121–125);
+**made of** for materials (Unit 9, pp.106–111); polite requests
+with Could you…? / Can I…? (Unit 9, pp.102–105). (3) **The
+comparative/superlative system returns** from Book Two, tabled
+again in full and now worked over real country data (Unit 7,
+pp.74–78). (4) **will is still never tabled** — it works in
+dialogue and text throughout ("I'll phone you later," p.20;
+"I'll get it for you," p.55; "They'll get a silver cup," p.89;
+"He'll be all right," p.67) with no Grammar note naming it, the
+same honest gap as Book Two. (5) **The passive is never named
+either**, but its shapes now appear in use: "is made of"
+throughout Unit 9, and "Dengue fever is caused by the dengue
+virus… are transmitted by mosquitoes" in the Unit 11 reading
+text (p.143). The **present perfect continuous does not
+appear** — How long have you been here? is the perfect of be,
+and no have been + -ing form is taught. (6) **No Revision
+units** (see above), and the past-tense Grammar note's pointer
+to an irregular verb list "on page 39" is stale — no list
+stands on p.39; the book's three-form tables stand on p.42.
+(7) **Reading steps up again**: long informational texts with
+data (Thailand and Vietnam with a country table, pp.75–77;
+Life in Bangkok, pp.83–84; Living in the middle part of
+Australia — the School of the Air, pp.85–86; The Hmong,
+pp.126–127; Dengue Fever, p.143), a formal personal letter
+(p.67), an invitation card (p.57), and new exercise shapes —
+**read and choose** (circle the correct word inside a text,
+pp.91, 118), **read and arrange** (put pictures in the text's
+order, p.144), opinion answers ("Yes, that's right / No, I
+don't think so / I'm not sure about that," p.100), and class
+surveys (pp.96, 139–140). (8) **Writing steps up**: a
+**two-paragraph** country comparison (p.78), a **three-
+paragraph** description of where you live with a printed
+paragraph plan (p.87), a **2–3 paragraph** account of last Pi
+Mai with a starter sentence for each paragraph (p.97), an
+invitation (p.58), a note asking for help (p.105), a letter to
+a friend built from your own sentences (p.120), and a personal
+recount of being ill (p.146). (9) **Translation returns**: Unit
+11 Lesson 2 has students read Somphone's sick-note letter and
+translate it into Lao (p.137) — Book Two's English→Lao exercises
+were single sentences. (10) The story line is now one family's:
+Somphone Keosay (14, year three, from Unit 1) and his new
+neighbour Jennifer White, the Australian girl of Book Two's
+Unit 2, whose family has now arrived — Units 2–6 follow her
+plans, arrival, new house, house-warming and her neighbour's
+accident in sequence. (11) The lesson shape is Books One–Two's
+(numbered activities under named heads — Vocabulary with Lao
+glosses, Listen and repeat, Grammar note, Listen and complete,
+Read and answer, Write, games, songs), and two songs are
+printed in full (The Rice Song, p.56; We wish you a merry
+Christmas, p.101) plus the boat-race chant (p.89).
+
+
+## The map, unit by unit
+
+**Unit 1 — MEETING PEOPLE (printed pp.1–13).**
+*Lesson 1, Personal Information (pp.1–4):* form words with Lao
+glosses (first name, family name, age, place of birth,
+son-in-law, family details, occupation, classmate, date of
+birth, place of residence); Listen and complete — a cloze
+self-introduction by Somphone Keosay (14, born in Savannakhet,
+now living in Vientiane, in year three at secondary school);
+Read and answer (8 questions on the cloze); Read and complete a
+form from it; Ask and answer — complete the interview questions
+(What's…? How…? Where…? Do you have any brothers and sisters?
+What are their names?), interview classmates into a table, then
+Look and say about them; Complete the form about yourself;
+**Write: one or two paragraphs about yourself or one of your
+classmates** (p.4). *Lesson 2, The family (pp.5–8):* the
+extended-family set (grandparents, grandfather, grandmother,
+father, mother, uncle, aunt, cousin, nephew, niece, grandson,
+granddaughter, son-in-law, daughter-in-law); Point and say over
+Somphone's family tree; Complete sentences from a word box;
+Listen and complete — Somphone on living in a big family (14
+gaps: the uncle and aunt who help, the grandmother who cooks);
+Read and answer (5 questions); a family **crossword** (pp.7–8).
+*Lesson 3, Describing people (pp.9–13):* appearance vocabulary
+(short, tall, good-looking, pretty, beautiful, handsome, long /
+short / dark hair, heavy build, appearance; also part-time,
+near, best friend, folk music, together, average, nice, really,
+funny, favourite, also, a good time); Read and answer — the
+text "My friend Thongsouk" (tall, handsome, short curly hair,
+dark eyes, folk-music fan) with 6 questions; Listen and
+practise — a "What does she look like?" dialogue; Look and say
+descriptions of pictures; Listen and match descriptions to
+pictures; Complete and practise three "What does… look like?"
+dialogues; Look and say with a describing frame (He's/She's…,
+He/She has…, He's/She's got…, with very / really / quite and
+average — build, hair, eyes); Read and say true/false on "What
+does Somphone look like?"; **Write: a short paragraph
+describing one of your classmates — don't name them; the class
+guesses who it is** (p.13).
+
+**Unit 2 — JENNIFER IS GOING TO LIVE IN VIENTIANE
+(pp.14–26).** *Lesson 1, A busy week ahead (pp.14–17):* travel
+vocabulary (photograph, CD player, suitcase, embassy, camera,
+shorts, visa, travel agent, passport, plane ticket, trip,
+pack); **Grammar note: (be) going to** — "used to express a
+person's plans and intentions," tabled be + going to +
+infinitive against eight example verbs (p.15); Read and
+practise — the text "Jennifer is busy this week" (Jennifer, 13,
+Australian, is going to live with her family in Vientiane;
+passports to the Lao Embassy in Canberra for visas, plane
+tickets at the travel agent, shorts and skirts for the heat, a
+CD player and camera, packing, a goodbye dinner) with 7
+questions; Listen and complete — the same text as a 17-gap
+cloze; Read and answer (7 questions); **Write: a paragraph
+about Tom from word prompts** (p.17). *Lesson 2, Jennifer's
+friends ask questions (pp.18–22):* vocabulary (see off, clothes
+shop, a pair of shoes, airport, look for, jumbled, flight,
+migrate); Match question words to answers (When / Where / What
+/ Who / Why / Which / How); a **question word quiz** — eight
+multiple-choice general-knowledge questions (first man on the
+moon, first president of the Lao P.D.R, Vientiane to
+Champassak, first country to have TV, capital of Australia,
+language with the most words, why birds migrate, the First
+World War); Listen and practise — a three-person clothes-shop
+dialogue ("I'll phone you later" — will in use); Write — un-
+jumble seven questions and statements; make words from jumbled
+letters; Write and say — write ten questions about future
+plans and ask them. *Lesson 3, What are you going to do this
+year? (pp.23–26):* vocabulary (travel bag, drinks, jumper, toy
+plane, sun-glasses, medicine, overnight, engineer, singer,
+farewell party, computer science, pants, pilot, blouse);
+Listen and practise — a coffee-shop dialogue running Jennifer's
+week (shopping, visiting grandparents overnight, preparing food
+and drinks, a farewell party — "Will you come?" "Yes. I'd love
+to."); Read and say true/false **with correction**; Look and
+say from her week table; abbreviations for the days of the week
+(Mon. Tues. Wed. Thurs. Fri. Sat. Sun.); **Grammar note: "so"**
+to refer to the result of something (It was very hot, so I
+opened the window), with a match-and-join exercise whose
+example looks forward ("I'm good at maths, so I'm going to
+become an engineer," p.25); **Write: about your own plans** —
+this week / next week / next month / in the next few months /
+on your school holidays this year / next year (p.26).
+
+**Unit 3 — IN THE PAST (pp.27–37).** *Lesson 1, Jennifer
+arrived yesterday (pp.27–29):* airport vocabulary (crowded,
+catch, departure, immigration, information, customs officer,
+immigration officer, customs, take a taxi, arrival, plane,
+exit, arrive, land); Say and point to airport-sign pictures;
+**Grammar note: Past simple — spelling of regular verbs**
+(add -ed; -e → -d; one syllable + one vowel + one consonant →
+double the consonant; consonant + -y → -ied), and a pointer to
+an irregular verb list "on page 39" (no list stands there —
+see slips); Match present forms to past forms; Listen and
+complete — an airport narrative (Wattay airport, the morning
+flight from Bangkok landed about 11.45, immigration, customs,
+a taxi to the new house in Sisangvone village, next to
+Somphone's); Ask and answer — build questions about the text
+with What, Why, Where, When, How, Who; **Write: one or two
+paragraphs about what you did yesterday** from idea prompts
+(p.29). *Lesson 2, What did Jennifer do? (pp.30–33):*
+vocabulary (fly, visit, beach, go fishing, play, say, do,
+mountain, table-tennis, recently); Look and say — nine pictured
+past activities with time phrases (the beach last year, table
+tennis last weekend, TV last night, a bicycle a few days ago,
+French in primary school two years ago, England three years
+ago, fishing during the summer holiday, photos before she left
+Australia, a school concert at eight); Say and write the eight
+sentences; Ask and answer Did…? questions — **if the answer is
+no, give the correct sentence**; Write and practise — write
+past questions from a verb box (fly, play, arrive, say, visit,
+ride, get, sing, do, go, study), Yes/No and question-word
+forms. *Lesson 3, When I was young… (pp.34–37):* vocabulary
+(look after, plenty, work hard, healthy, fresh, grow,
+sepaktakraw, swim, bark, thin); Read — a set of present-tense
+questions about Thong, Somphone's grandfather ("Does he work
+hard every day? No, he doesn't…"); Listen and repeat — Thong's
+own **used to** sentences ("I used to work hard every day. I
+used to have a large vegetable garden…"); Look and say what
+Thong used to do; **Grammar note: used to** — "Use 'used to'
+only for the past," tabled statement (used to), negative
+(didn't use to), question (Did… use to…?) (p.35); Read and
+practise — the first-person text "Thong's childhood" (Donghenh
+village, Savannakhet; swimming in the river, sepaktakraw,
+looking after the chickens, thin but healthy, a dog that used
+to bark all night) with Did… use to questions; Look and say /
+Say and write — talk and write about your own primary-school
+life with used to / didn't use to (pp.36–37).
+
+**Unit 4 — NEW NEIGHBOURS (pp.38–49).** *Lesson 1, They have
+just moved in next door (pp.38–42):* the lesson head states
+the aim outright — "students learn to use the 'present perfect
+tense'"; household vocabulary (bucket, mop, iron, jug,
+detergent, broom, pan, mug; dirty, clean, wash, go out, broken,
+fix, just); Match words to pictures; Listen and practise — the
+arriving-home dialogue ("Where have you been? We have been to
+the market… I have bought some detergent, a broom, some pans,
+some mugs, an iron, a mop and a bucket. I have found a
+beautiful jug"); **Grammar note: The present perfect tense** —
+"We use the present perfect to talk about recently completed
+actions using 'just'," tabled have/has + just + participle
+(p.39); Complete six sentences with have/has + past participle
+from bracketed verbs; Look and say — picture chains turning a
+dirty floor into "She has just cleaned it" (state → action →
+has just done); Say and act — a four-role chain (command, act,
+"What has she just done?", "She has just closed the door");
+**Grammar note: verb tables** — regular verbs (infinitive /
+past / past participle: clean, finish, fix, iron, open, paint,
+wash, arrive, close, live, move, play, stay, cry, try, study)
+and irregular verbs (be–was/were–been, buy, do, drink, drive,
+eat, find, go, stand up, take, write), closing with the note
+"They have gone to the market. (They are at the market now.) /
+They have been to the market. (They are at home now.)" (p.42).
+*Lesson 2, Asking questions (pp.43–45):* "students learn to ask
+questions using the present perfect with 'for'"; vocabulary
+(stay, great, bag, contest, town, company, neighbour, buy,
+blank); Listen and practise — Somphone meets Jennifer
+("How long have you been here?" "I've been here for a week…
+We're going to be here for two years"); Ask and answer five
+questions about the dialogue, mixing perfect and going to;
+**Grammar note: "for"** with time expressions to refer to a
+period of time (three days, an hour, a week, a month, five
+years…), example "I have been in Vientiane for a month"
+(p.44); Listen and repeat six How long have you…? questions
+(lived in this town, studied English, had your pen, had your
+bag, had that bicycle, been at this school); Ask and answer
+them; Game — spelling contest; Complete a three-form verb
+table (buy, be, go, live, have, eat, drink, write). *Lesson 3,
+Since and for (pp.46–49):* "students learn to use present
+perfect with 'for' and 'since'"; vocabulary (soldier, attend,
+notebook, a long time, baby sister, hungry, clean, wait); Read
+— the text "Somphone and his Family" (dated August 2010: born
+in Savannakhet in 1996; his family has lived in Vientiane since
+2005; Saysamone has studied at the National University of Laos
+since 2006; Somphone has studied at secondary school since
+2008; Daravone has attended primary school since 2007; a new
+baby sister, Khamla); Read and say true/false with correction;
+**Grammar note A: "since"** with time expressions (Monday,
+9 o'clock, 24 July, January, 1985, Christmas, I was ten years
+old, we arrived) "to refer to a starting point of time";
+**Grammar note B: "The Present Perfect expresses an action
+which began in the past and continues to the present,"** tabled
+have/has + lived here + for two years / since 1995 (p.47);
+Read and complete eight for/since sentences; Write — rearrange
+eight jumbled present-perfect sentences; Say and write
+sentences about pictures with for or since (in hospital since
+last week; study English for two years — see slips; live since
+1994; have his bicycle since last month; be in the office since
+8 o'clock; have a broken leg for a week).
+
+**Unit 5 — WOULD YOU LIKE…? (pp.50–60).** *Lesson 1, I'd love
+to (pp.50–52):* "students learn how to use the expressions
+'Would you like to…?' and 'I'd love to' to invite and accept an
+invitation"; vocabulary (party, picnic, invite, busy, album,
+house-warming party, birthday party, afraid, accept an
+invitation, table-tennis); Listen and practise — Jennifer
+invites Somphone to a house-warming party ("I'd like to invite
+you to my house." "That's great! I'd love to."); Read and say
+true/false with correction; Listen and practise four short
+invitation dialogues covering the answer set — "Yes. I'd love
+to." / "That's a good idea." / **"I'm afraid I can't. I've to
+help my father in the garden"** / "I'd love to, but I've to go
+on a picnic with my family" (I've to as printed — see slips);
+Read and complete dialogues from a phrase box; Read and write
+— put five invitation sentences in the right order. *Lesson
+2, Would you like…? (pp.53–56):* "students learn how to offer,
+accept and refuse food and drinks"; food and drink vocabulary
+(orange juice, mango, water, tamarind, mango juice, beef, pork,
+sticky rice, rambutan, lemon, lemonade, pineapple, salad,
+papaya, watermelon, milk, noodle soup, chicken, fish, coconut
+juice); Read and list the words into Drinks / Food columns;
+Match words to pictures; Listen and practise — the dialogue
+"At Jennifer's new house" (introductions, "Would you like
+something to drink?" "Yes, please." "I'll get it for you,"
+"Would you like to have some music on?" "Would you like
+something to eat, Somphone?" "No, thanks."); Read and say
+true/false; Look and say offers from pictures ("Would you like
+a glass of orange juice?" "Yes, please." / "Would you like some
+fish?" "No, thanks."); Game — spelling contest; **Song: The
+Rice Song**, printed in full — a some/any song ("I like rice,
+give me some rice / I don't want any bread… I told you
+twice") (p.56). *Lesson 3, A new baby (pp.57–60):* "students
+learn to write invitations and talk about celebrations";
+vocabulary (invite, invitation, celebrate, celebration,
+ceremony, baci ceremony, host, decorate, balloon, candle,
+flower, biscuit, party, a bottle of spirit); Read — a printed
+invitation card ("Saykham and Samone Keosay would like to
+invite Mr. and Mrs. White, Jennifer and Grace to celebrate the
+birth of our daughter, Khamla, at our home in Sisangvone
+village, Vientiane on Saturday 21 September 1997, at 4 pm" —
+the 1997 date as printed, see slips); Ask and answer about the
+card; **Write: an invitation to your friend to a party**
+(p.58); Listen and practise — the dialogue "A baci at
+Somphone's house" (Jennifer asks about the phakhouane, the
+ceremonial centrepiece — "In Lao, it is a 'pha khouane', but I
+don't know how to say it in English"); Read and say true/false;
+Listen and complete the same dialogue as a cloze (decorated
+with flowers, biscuits, candles, boiled eggs, rice, a bottle of
+spirit); **Language summary box** (p.60) — the unit's
+invitation language gathered: Would you like to go for a walk?
+→ Yes, I'd love to. / That's a good idea. / I'd love to, but I
+have to do my homework. / I'm afraid I can't. / No, thanks.;
+What would you like to do? → I'd like to go to the movies. /
+I'd like to play tennis.
+
+
+**Unit 6 — AN ACCIDENT (pp.61–73).** *Lesson 1, What happened
+to your brother? (pp.61–63):* "students learn to use the
+interrupted past continuous to talk about the past actions";
+vocabulary (accident, bad news, hurt, hospital, hurry, sad,
+unhappy, hit, terrible, motorbike); Listen and practise — the
+dialogue (Somphone's brother "has had an accident"; "While he
+was riding his motorbike to the university, a car hit him from
+behind. He broke his leg and hurt his head"); Read and answer
+— the short text "Saysamone's accident" with 5 questions;
+Listen and match pictures; **Grammar note: Past Continuous
+Tense: was/were + verb + ing**, tabled with While ("While I /
+he / she / it was — we / you / they were — walking to school,
+it started to rain," p.63); Say and write While… sentences
+from the matched pictures. *Lesson 2, At the hospital
+(pp.64–69):* "students learn to talk about injuries and revise
+the present perfect tense"; injury vocabulary (arm, finger,
+ankle, muscle, patient, pain, cast; break, cut, sprain, injure,
+burn, pull); Listen and practise — seven present-perfect injury
+sentences over pictures ("He's broken his arms. She's cut her
+finger. He's sprained his ankle. She's injured her arm. She's
+burnt her finger. He's pulled a muscle. He's broken his leg" —
+two items numbered 6 as printed, see slips); Point and say;
+Read and practise — a speech-bubble hospital dialogue (the
+doctor: "You've broken your leg. We'll put it in a cast… About
+six weeks") with 5 questions; Read and answer — **a full
+personal letter** from Somphone to his cousin Khammy (P. O. Box
+007, Vientiane, dated 10 November 2008: the accident on Monday
+8th on the way to the National University, a broken leg, in
+hospital for one week, a small operation yesterday, first
+semester exams in January, "I'm looking forward to hearing
+from you") with 4 questions; Listen and complete — the letter
+retold as a 17-gap cloze; Read and answer (5 more questions).
+*Lesson 3, I was walking along the road… (pp.70–73):*
+"students learn to talk about accidents and other events,
+using the past continuous"; vocabulary (notice, stare at,
+traffic lights, cross, swerved, crash, serious, damaged,
+opposite, direction); Look and read — the first-person
+narrative "I was walking to school" (a driver staring at a
+girl at the traffic lights doesn't notice an old man crossing;
+the blue car swerves and crashes into a white van; fortunately
+not serious, the car badly damaged); Read and say true/false
+with correction; Point and say — join picture pairs into
+While… sentences; Say and write them; Read and complete —
+seven sentences mixing past simple and past continuous (she
+broke the plates while she was washing the dishes; somebody
+knocked while we were cooking; Kham fell off a ladder and
+broke his arm while he was painting his house).
+
+**Unit 7 — CITIES AND COUNTRIES (pp.74–87).** *Lesson 1,
+Around the Asian region (pp.74–78):* "Students learn to
+compare countries around the Asia-Pacific region"; geography
+and climate vocabulary (population, area, capital city,
+border, season, rainy season, hot season, temperature, average,
+varied; climate, humid, warm, cool, cold, north, south, east,
+west, daytime); **Grammar note: the comparative/superlative
+table again in full** — one-syllable (old–older–the oldest,
+safe, big), -y adjectives (noisy, dirty), longer adjectives
+(more boring, more beautiful), irregular (good–better–the
+best, bad–worse–the worst, far–further–the furthest), with the
+doubling footnote (p.74); Look and say — sentences from a
+**data table of eight countries** (Australia, Cambodia, China,
+Laos, New Zealand, Myanmar, Thailand, Vietnam: population,
+area in square km, capital city, biggest city; footnoted
+"Reference 12/11/2011," p.75); Listen and repeat four Thailand/
+Vietnam comparisons; Look and read — the text "Thailand and
+Vietnam: two of our neighbouring countries" (populations,
+capitals, Bangkok over 6 million, Ho Chi Minh City over 7
+million, hot humid climate, 38°C in the hot season, Vietnam's
+varied climate, 30°C glossed "thirty degrees Celsius");
+Ask and answer — ask a partner the Lao words for words you
+don't know (humid, average, border, varied, climate); Read and
+answer (8 questions); Read and complete sentences from the
+text, plus noun→adjective forms (north–northern, south, east,
+west); **Write: two paragraphs comparing two countries** from
+the table and the text (p.78). *Lesson 2, Living in a city
+(pp.79–82):* city vocabulary (factory, clothing factory,
+hotel, apartment, apartment block, shop, tourist, foreigner,
+business, city, city life, traffic, increase, crowded, noisy,
+beautiful, quiet, peaceful); Listen and practise — the dialogue
+"What's Vientiane like?" (Noy: "I have never been there
+before"; Somphone compares: larger population, more buildings,
+more crowded traffic, more cars and motorbikes — but
+Savannakhet's roads are better); Ask and answer (5 questions,
+one of them "Has Noy ever been to Vientiane?"); Ask and answer
+"What's [city] like?" over eight cities with a bank of
+possible answers ("I don't know. I've never been there." /
+"It's crowded and noisy, I suppose." / "It's a quiet, peaceful
+city." / "It must be one of the biggest cities in the
+world."); Listen and complete — the dialogue continued as a
+cloze (new roads being built, a clothing factory, hotels and
+apartment blocks going up, more and more tourists and
+foreigners); Read and say true/false with correction; Write
+and say — complete two "What's… like?" dialogues. *Lesson 3,
+City and country life (pp.83–87):* vocabulary (country life,
+good point, bad point, public, private, entertain, shopping
+mall, cinema, pop music, concert, flat, school of the air,
+cattle station, airwaves, modern, transport, satellite,
+boarding school, open space, medical check-ups, advantage,
+polluted); Read and write — the text "Life in Bangkok" (Souda,
+born and living in Bangkok: crowded and polluted but loved —
+schools public and private, shopping malls, cinemas, concerts,
+people from all over the world; the bad point a big housing
+problem, a very small flat, no garden) sorted into a good
+points / bad points table; Say and write from the table; Read
+and answer — the text "Living in the middle part of Australia"
+(the Julian family on a cattle station 500 kilometres from
+Alice Springs; the children take lessons at home and talk to
+their teachers on the radio — the 'school of the air';
+satellite TV; Jimmy, 15, going to boarding school and planning
+to be a farmer) with 7 questions; **Write: three paragraphs
+about the place where you live** — paragraph 1 the details
+(name, position in the country), paragraph 2 the good points,
+paragraph 3 the bad points (p.87).
+
+**Unit 8 — FESTIVALS AND CELEBRATIONS (pp.88–101).** The unit
+head prints the title "FESTIVALS AND CELEBRATION" (singular)
+against the Contents' plural — see slips. *Lesson 1, At the
+boat racing festival (pp.88–93):* "students revise present
+tense and learn to talk about the boat racing festival";
+vocabulary (boat racing, chant, competition, crowds, cymbals,
+drums, cheer, festival, firework; first prize, float,
+impressive, pattern, pick up, silver cup, sink, spectator,
+veranda); Listen and practise — the festival dialogue
+(present continuous for the scene, "Because they've won the
+first prize," "They'll get a silver cup and some money… share
+and keep some for the boat maintenance"); Ask and answer about
+pictures; **Let's chant** — the rowers' chant printed in full
+("Hey girls! Hey boys! You, wearing red shirts… You have long
+hair / You have curly hair / You've got big eyes / You are so
+tall…," p.89); Look and say sentences about festival pictures;
+**Read and choose** — the text "The Boat Racing Festival" as
+a choose-the-correct-word cloze (yearly/monthly, comes/goes,
+a/the, on/in, made/decorated, has/is, pick over/pick up,
+dance/sleep, eat/light, our/their, sink/float, a/an): Boun
+Suang Heua at the end of the rainy season, the first race on
+the Nam Khan River in Luang Prabang, temples and organisations
+sending boats, candles floated the night before, the khene,
+cymbals and drums; Read and write (8 questions on the text);
+Look and write present-continuous sentences from verb prompts
+(buy/balloons, play/games, cheer, get/prize, raise/oars, eat
+and drink, cross/finish line, watch/the boats). *Lesson 2, Pi
+Mai Lao (pp.94–97):* "students revise the past and present
+tenses and learn to talk about Pi Mai Lao"; vocabulary (baci
+ceremony, curtain, get ready for, housework, lunar calendar,
+mop, perfume, playground, sprinkle, thread, throw over,
+blessing water, wrist, tradition); Listen and say — describe
+a picture, your partner names it (the blessing water, the
+silver bowl with flowers and perfume); Read — the text "Pi Mai
+Lao / Lao New Year" (mid-April, the fifth month of the lunar
+calendar, water thrown over everyone; last Pi Mai in the past
+tense — Somphone's family cutting grass, washing curtains,
+mopping, the grandmother preparing flowers and banana leaves
+for the phakhouane, the baci, white cotton thread tied on
+wrists, food, singing and dancing); Read and complete eight
+sentences about the text; **Ask and write — a class survey**
+on how classmates spent their last Pi Mai (where, who with,
+what did, presents given and got) written up into a table and
+a model report; **Write: 2–3 paragraphs about what you did
+last Pi Mai Lao**, with a printed starter for each paragraph —
+preparing / on the day / in the evening (p.97). *Lesson 3,
+Christmas (pp.98–101):* "students use the present simple tense
+for description, and learn about Christmas"; vocabulary
+(Christmas card, Christmas carol, Christmas Day, Christmas
+tree, Father Christmas, guest, have a nap, plum pudding,
+present, turkey); Look and write words under eight pictures;
+Point and say; Listen and complete — a long first-person
+Christmas Day text as a 25-gap cloze (Father Christmas leaving
+presents under the tree, the family rule about opening one
+present early, turkey and plum pudding, guests, a nap in the
+afternoon, carols in the evening); Read and say — eight
+statements answered with opinions: "Yes, that's right." /
+"No, I don't think so." / "I'm not sure about that." (cheese
+is not a traditional Christmas food; carols are not sweets;
+Christmas is not only celebrated in English-speaking
+countries); **Write and read: a short paragraph about a
+celebration or festival** — read it aloud and the class
+guesses the topic (a model birthday paragraph is given);
+**Sing: "We wish you a merry Christmas,"** the carol printed
+with its Glad-tidings verse (p.101).
+
+**Unit 9 — AT THE MARKET (pp.102–117).** *Lesson 1, A special
+present for mum (pp.102–105):* "students learn to ask for
+help"; vocabulary (can't afford, get a flat tyre, silver,
+bracelet, scarf); Listen and practise — two dialogues: asking
+Somphone's advice for a present (a jumper? a scarf — she's got
+two or three already; gold earrings — "I'm afraid I can't
+afford them"; a Lao skirt, a sinh — "That's a good idea"), then
+buying the sinh at the morning market with bargaining ("It is
+made of silk, isn't it?" "It's not all silk, it's mixed with
+cotton… How much does it cost?" "70,000 kip." "What about
+50,000 kip?" "Well, all right. OK. I'll take it."); Ask and
+answer (5 questions); Read and match — ten requests (Could you
+give me some advice…? / Could you help me to move the table? /
+Have you got the time? / Can I borrow your English book? /
+Could I borrow your bicycle for an hour? / Could you tell me
+the way to the library, please? / Can I use your pen? / Have
+you got a light? / Could you do me a favour? / Could you
+correct my English letter, please?) matched to their replies,
+including the polite refusals ("Sorry, it's got a flat tyre");
+Ask and answer with the requests; Look and write — a sample
+note from Jennifer to Somphone, then **write a note to your
+friend asking him or her for help** (p.105 — with the printed
+model answer line "I'm sorry. I'sm using it now," see slips).
+*Lesson 2, What's it made of? (pp.106–111):* materials and
+objects vocabulary (bamboo, basket, belt, bucket, gift,
+handicraft shop, spoon, fish basket; leather, rattan, rattan
+ball, silk, wool, jumper, khene — spoon printed twice in the
+list, see slips); Look and write object names under pictures;
+Read and match objects to materials (jumper–wool, sinh–silk,
+bucket–plastic, fish basket–bamboo, ball–rattan, chairs–wood,
+bracelet–gold); Look and write "X is made of Y" sentences;
+Listen and practise eleven made-of sentences (the belt is made
+of silver; the spoons are made of steel); Read — the short text
+"At the market" (Somphone's mother shopping for the new school
+year: shirts, pants and leather belts, a rattan ball, a silk
+sinh, a steel watch — "hasn't bought any new clothes yet, so
+she's going to do some shopping"); Read and complete nine
+made-of sentences from a word box; Read and answer (5
+questions); **Write and read: sentences about real things in
+your house** ("My bed is made of wood," p.111). *Lesson 3,
+Asking and offering direction (pp.112–117):* "students revise
+giving direction and talk about buying things at the market";
+vocabulary (between, electrical appliance, go straight,
+next to, hairdresser, opposite, pharmacy, turn left, turn
+right); Look and complete — position sentences over a town map
+(the library between the temple and the school, the pharmacy
+between the silver shop and the bank…); Read and practise —
+questions about the map ("Where's the hairdresser?" "It's
+opposite the noodle shop." "Can you tell me where the silver
+shop is?" "Could you tell me how to go to the bus station from
+here?"); Listen and repeat — **direction signals and
+expressions** (Go straight on. Turn left. Turn right. Go past
+the bank. Take the first turn on the left. Take the second turn
+on the right. The post office is on the left. The hotel is on
+the right.); Listen and practise three direction dialogues;
+Ask and answer directions over the map; Listen and complete —
+Margaret's market trip as a preposition cloze (in front of,
+across, past, into…); Look and say her trip from a second map;
+**Write: how you get to school in the morning** (p.117).
+
+
+**Unit 10 — CUSTOMS FROM AROUND THE WORLD (pp.118–130).**
+*Lesson 1, A letter from Laos (pp.118–120):* "students learn to
+write informal letters and talk about Lao customs"; vocabulary
+(bending forward, boiling hot, collection, custom,
+neighbourhood, occasion, remove, bow); **Read and choose** —
+Jennifer's letter to Stella (P.O. Box 006, Vientiane, dated
+10 November 1997 — see slips) as a choose-the-correct-word
+cloze (was/is, in/about, so/but, greet/see, put/putting,
+meet/met, take out/take off, at/in, pointed/point, is/was,
+in/on, written/write): Lao customs in Jennifer's words — the
+"nop" greeting (hands in a prayer-like position, bowing the
+head slightly), bowing when passing elders, taking off shoes
+at the door, feet as the lowest part of the body (don't point
+your feet at people or show the soles), the head as the most
+important part (don't touch or pat people on the head); Read
+and answer (5 questions); Read and write — match words to
+meanings (take off = remove, slightly = a little, elders =
+people older than you, bowing = bending forward, a collection
+= many things together); Write and say sentences about the
+customs Jennifer mentions; Write ten sentences about Lao
+customs and traditions; **Look and write: use the sentences to
+write another letter to a friend**, with the letter frame
+printed (address, date, Dear…, closing) (p.120). *Lesson 2,
+Different places, different rules (pp.121–125):* "students
+learn to use 'must' and 'have to' talk about rules" (the
+missing "to" as printed); vocabulary (fringe, jewellery, must,
+duty, neat clothes, sandals, school uniform, rule); Read — two
+rule profiles: Vanhnapha from Pakse (home duties — come home
+before dark, work in the garden, do homework, feed the pets;
+school rules — must wear school uniform, must not wear
+jewellery, must arrive before 8.00 am, must take care of the
+school grounds) and Danny in Bangkok (home before 9.00 pm,
+wash the dishes, buy the newspaper; must wear clean, neat
+clothes, must respect the property of others, must not eat in
+the classrooms, must be quiet entering and leaving);
+**Grammar note: must / have to tabled** (p.122) — Statement:
+Subject + have (has) to + infinitive ("Students have to do
+their homework"); Subject + must + infinitive ("Students must
+wear school uniform"); Negative: don't/doesn't have to
+("Students do not have to buy newspaper") set against mustn't
+("Students must not drink alcohol"); Question: Do/Does +
+subject + have to + infinitive ("Do students have to wear
+uniform at school?"); five model sentences mixing the forms;
+Look and write your own sentences from the two profiles; Write
+and say five sentences about your own school rules and home
+duties; Listen and complete — four schoolchildren (Tuti from
+Malaysia, a Muslim who has to wear a scarf and keep her head
+covered; Yoko in Tokyo, who has to have her hair short with a
+fringe and must wear uniform; Rod in Canberra, who has to wear
+a uniform but doesn't have to get his long hair cut; Rachel in
+New Zealand, whose school doesn't have to wear uniform but
+must wear sandals for some classes); Read and say true/false
+**with correction** (nine statements); Read and complete seven
+sentences choosing must / mustn't / have to / don't have to.
+*Lesson 3, Different countries, different customs
+(pp.126–130):* culture vocabulary (ancient, bull fight,
+complex culture, ethnic group, feast, flute, folk, horse
+races, hug, legend, mountainous area, musical instrument,
+myth, poem, proverb, southern, spirit, stick out tongue,
+tradition, whistle, oral tradition); Read — the text **"The
+Hmong"** (an ancient people of the northern mountains of Laos,
+Vietnam and Thailand, southern China and eastern Myanmar; a
+rich oral tradition of legends, stories, proverbs, songs and
+poems kept by word of mouth; Boun Kin Jieng, the Hmong New
+Year in December — stories, songs, music, bull fights and
+horse races, a feast to bring good spirits and good luck);
+Read and write as many sentences as you can about the text;
+Listen and complete — Hmong musical instruments (the khene
+the most important, whistles, flutes, even leaves); Choose and
+write — make a list of new words and write them in sentences;
+**Read and choose** — an eight-question multiple-choice quiz
+on greetings around the world (Japan — bow; the USA — say
+"Hi"; Australia — shake hands; France — kiss on both cheeks;
+Maori and Inuit — rub noses; Cambodia — a "nob"; Russia — kiss
+three times; Asia — shoes left outside); Write and say the
+correct sentences; **Write: a text about the living styles,
+cultures and activities of Lao people** (p.130).
+
+**Unit 11 — FEELING (pp.131–146).** *Lesson 1, Somphone has a
+fever (pp.131–135):* "students learn to talk about common
+illnesses. They also learn some expressions of regret";
+illness and injury vocabulary (cold, cough, fever, headache,
+illness, pulled muscle; sore throat, sprained ankle, stomach
+ache, tired, toothache, injured); **Grammar note: Have/has got
++ expression of illness / injuries** ("I have got a fever. He
+has got a cold," p.131); Write and read sentences with the
+words; Look and write eight has-got sentences under pictures;
+Listen and practise — two dialogues about the absent Somphone
+("What's the matter with him?" "He isn't feeling well. He's
+got a fever." — "I'm sorry to hear that." / "What's wrong with
+him?" — "Oh! That's not so good."); Look and write about
+pictures; Complete and practise three illness dialogues
+(regret expressions inside: "I've got a bad cold." "That's not
+so good." "I'm sorry to hear that."); Read and list — sort
+twelve words into **Illness / Injury** (a headache and a
+sprained ankle given as the models); Write and practise your
+own dialogue. *Lesson 2, Have you ever…? (pp.136–140):*
+"students learn present perfect to ask question: 'Have you
+ever…?'"; vocabulary (diarrhoea, sore eye, temperature);
+**Grammar note: Have you ever + V3 (past participle)**, with
+three model questions (had a sore throat, had a toothache,
+broken your legs) and space to write your own (p.136); **Read
+and translate** — Somphone's sick-note letter to his teacher
+(5th May 2010: "I have got a cold and a cough, and I have had
+a fever for two days… I will probably come back to school next
+week." Yours sincerely), translated into Lao; Read and write
+true/false on the letter (7 statements), then **re-write the
+wrong sentences correctly** and read them to the class;
+Listen and practise — the dialogue "At the doctor's" ("What's
+the matter?" "Well, I've had a fever." "How long have you had
+it?" "I've had it for two days." "Have you ever had a fever
+before?" "Yes, I have." "Have you got a cold?" "Yes, I have."
+"Have you got a headache?" "No, I haven't. But I've got a
+cough." "Are you tired?" "Just a little."); Complete and
+practise the same dialogue gapped; **Ask and answer — a class
+survey** ("Have you ever had…?" over a list of illnesses and
+injuries: cough, flu, a bad cut, a temperature, a sprained
+ankle, a broken arm, a toothache, a sore throat, diarrhoea,
+cold, headache, stomach ache, sore eyes, broken legs, dengue
+fever — tick for yes, cross for no); Look and write sentences
+from the survey ("I have had a toothache and a sore throat. I
+have never got a sprained ankle and diarrhea" — never got as
+printed, see slips). *Lesson 3, Is it dengue fever?
+(pp.141–146):* "students revise the simple present tense, the
+past tense, and some expressions about common illnesses";
+health vocabulary (aspirin, bite, blood test, bone, dengue
+fever, disease, flu, mosquito net, mosquito, muscle,
+paracetamol, rash, transmit, vaccination, vomit, virus);
+Listen and practise — Somphone at the doctor again (not
+better, tired all the time, a high temperature, always
+thirsty — "I'm going to do some blood tests"); Read and write
+answers (4 questions); Look and write sentences about
+pictures; Read — the informational text **"Dengue Fever"**
+(the virus transmitted by mosquitoes that bite during the
+daytime; sleep under mosquito nets day and night; symptoms —
+high fever, headache, muscle and bone pain, a rash, sometimes
+vomiting; no vaccination; the advice list — don't take aspirin,
+take paracetamol, eat fruit, drink lots of water or coconut
+juice, go to see the doctor immediately; very dangerous for
+children), with 5 comprehension questions; **Read and
+arrange** — put nine pictures in the text's order (a new
+exercise shape); Write and say sentences about the pictures;
+Read and complete the dengue text retold as a word-box cloze;
+**Write: about your experiences when you were ill**, with a
+model opener ("Three years ago, when I was in primary school,
+I had got a flu. I had a terrible headache. I went to bed…,"
+p.146); Game — an illness **word search** (printed word list:
+bleeding, dengue, sore thoat, temperature, stomachache, fever,
+headache, vomit — "sore thoat" as printed, see slips).
+
+**References (printed p.147 = PDF p.152).** Nine items, the
+series' shared source shelf: Mick Gammidge's Grammar Work
+Teacher's Book 2 (1998, no publisher printed) and Grammar
+Works Student's Books 1 and 2 (Cambridge University Press,
+1998); David Vale's Picture Grammar for children 1 and 2
+(Macmillan Heinemann, 1998); Jennifer Seidl's Grammar ONE
+(Oxford University Press, 1998); New Headway Beginner
+Student's Book by Liz and John Soars (Oxford University
+Press, 2006); New English File Elementary Student's Book by
+Clive Oxenden, Christina Latham-Koenig and Paul Seligson —
+with the year left blank, "( year )", as printed (see slips);
+Side by Side Activity Workbook 1, third edition, by Steven J.
+Molinsky, Bill Bliss with Carolyn Graham (2001). The book ends
+there; PDF p.153 is the blank back-cover panel.
+
+## New for the course (keyed to the built lessons)
+
+- **Level 18, The Present Perfect** — Laos can now stock this
+  lesson, which Book Two honestly could not: the whole system
+  arrives in one unit — **just** for recently completed actions
+  with the have/has table (Unit 4 Lesson 1, pp.38–39), the
+  complete regular/irregular participle tables and the gone to
+  / been to note (p.42), **for** and How long have you…?
+  (Lesson 2, pp.43–45), **since** with the book's own definition
+  — an action which began in the past and continues to the
+  present (Lesson 3, pp.46–47) — and **ever / never** in the
+  doctor's room (Unit 11 Lesson 2, pp.136–140), where the
+  perfect also runs the illness survey. Filed beside it, the
+  honest limit: the **present perfect continuous is not taught**
+  — no have been + -ing form appears.
+- **Level 12, Past actions** — the past simple's **spelling
+  rules for regular -ed verbs**, tabled in full (-ed; -e → -d;
+  double the final consonant; consonant + -y → -ied) (Unit 3
+  Lesson 1, p.28); **used to** as a complete system — statement,
+  didn't use to, Did… use to…? — for past habits against the
+  present (Unit 3 Lesson 3, pp.34–37); and the **past
+  continuous** with while for the interrupted action (Unit 6
+  Lesson 1, pp.61–63; Lesson 3, pp.70–73).
+- **Level 12, Going to later** — a whole unit reworking (be)
+  going to inside one story (Unit 2, pp.14–26), its Grammar
+  note naming plans and intentions (p.15), and a second
+  linker beside it: **so** for the result of something (p.25).
+- **Level 11, Asking with question words** — question-word
+  matching and an eight-question question-word quiz (Unit 2
+  Lesson 2, pp.18–20).
+- **Level 13, Describing words in a sentence** — the
+  comparative/superlative table returns and is worked over a
+  real eight-country data table and a two-country reading text
+  (Unit 7 Lesson 1, pp.74–77), and describing people gets its
+  own full lesson with a guess-who paragraph (Unit 1 Lesson 3,
+  pp.9–13).
+- **Level 7, The town** — directions return as a complete
+  lesson: map positions with between / next to / opposite, the
+  direction-expression set (go straight on, take the first /
+  second turn, on the left / right), and directions written as
+  a journey (Unit 9 Lesson 3, pp.112–117).
+- **Level 7, The body** — the illness and injury sets with
+  have/has got (Unit 11 Lesson 1, pp.131–135; Lesson 3,
+  pp.141–146) and the hospital injury sentences in the present
+  perfect (Unit 6 Lesson 2, pp.64–69).
+- **Level 7, Food and fruit** — offering food and drink with
+  Would you like…? / Yes, please / No, thanks (Unit 5 Lesson 2,
+  pp.53–55) and The Rice Song, the series' some/any song
+  (p.56).
+- **Level 5, How are you** — illness talk with the regret
+  expressions (What's the matter? / What's wrong? / I'm sorry
+  to hear that. / That's not so good.) (Unit 11 Lesson 1,
+  pp.131–135).
+- **Level 14, The paragraph** — the step from one paragraph to
+  planned multi-paragraph writing: two paragraphs comparing
+  two countries (p.78), three paragraphs about where you live
+  under a printed plan — details / good points / bad points
+  (p.87), and 2–3 paragraphs about last Pi Mai with a starter
+  sentence per paragraph (p.97).
+- **Level 15, Reading whole texts** — the long informational
+  texts with questions (Thailand and Vietnam, pp.76–77; Life
+  in Bangkok, pp.83–84; Living in the middle part of Australia,
+  pp.85–86; The Hmong, pp.126–127; Dengue Fever, pp.143–145),
+  two new shapes — read and choose inside a text (pp.91, 118)
+  and read and arrange (p.144) — and a full personal letter to
+  read (p.67).
+- **Level 16, The essay — opening and closing** — letter frames
+  in both registers: Jennifer's informal letter (Dear Stella, …
+  All for now, Your friend, pp.118–120) and Somphone's formal
+  sick note (Dear Sir, … Yours sincerely, p.137), plus the
+  invitation card's own frame (p.57).
+- **Stocked for lessons not yet built** — **must / have to**
+  as a tabled system with mustn't against don't have to
+  (Unit 10 Lesson 2, pp.121–125), and **made of** for materials
+  (Unit 9 Lesson 2, pp.106–111) — the passive's nearest
+  neighbour in this book, used throughout but never named; the
+  dengue text adds caused by / transmitted by in use (p.143).
+
+**Slips recorded as printed:** the Contents lists Unit 8 as
+"FESTIVALS AND CELEBRATIONS" (printed p.II) while the unit head
+itself prints "FESTIVALS AND CELEBRATION" (p.88) · the past
+simple Grammar note sends students to an irregular verb list
+"on page 39" (p.28) — no list stands on p.39; the book's
+three-form tables stand on p.42 · "I walk to school everyday"
+for every day (p.1) · "Hes got short dark hair" — the missing
+apostrophe (p.13) · the invitation refusals "I'm afraid I
+can't. I've to help my father in the garden" and "I'd love to,
+but I've to go on a picnic with my family" — I've to for I have
+to (p.51) · "Somphone's mother is Margaet" in a true/false item
+(p.55), against Margaret everywhere else · the baci dialogue
+names "Jennier" twice for Jennifer (pp.59, 60) · the invitation
+card is dated "Saturday 21 September 1997" (p.57) and
+Jennifer's letter "10 November 1997" (p.118) — dates carried
+over from the series' 1998 predecessor into a 2012 book ·
+Unit 4's Say and write prompts print "study Eglish" (p.48) ·
+Unit 3's Did…? questions drift from their own picture prompts —
+"take a lot of videos" where the prompt says photos, "when she
+was ten years old" where the prompt says eight (pp.30–32) ·
+Unit 6's injury list numbers two items 6 ("He's pulled a
+muscle." / "He's broken his leg," p.65) · "I'm sorry. I'sm
+using it now" in a model answer (p.105) · the materials
+vocabulary prints "spoon" twice in one list (p.106) · the
+survey write-up's model "I have never got a sprained ankle and
+diarrhea" — never got for never had (p.140) · the word-search
+list prints "sore thoat" for sore throat (p.146) · the
+References leave the New English File year blank — "( year )"
+(p.147) · Somphone greets Jennifer's mother with "Hello, mum"
+(p.55) · a wording note, not a slip: Unit 10 Lesson 2's aim
+line reads "students learn to use 'must' and 'have to' talk
+about rules," its "to" dropped (p.121).
+
+**FULLY READ 2026-10-27.** Read page by page from the text
+layer (the book has a real, if doubled, text layer for English;
+the ghost layer was de-duplicated in the reading and the
+shifted-font stretches read as the English they print); the
+picture-carried and Lao-carried points were checked on renders:
+the cover (PDF p.1), the credits page (PDF p.2), the Unit One
+opening with its printed folio 1 (PDF p.6), the Unit Seven
+opening with its comparative table and folio 74 (PDF p.79), the
+Unit Eight opening with its singular CELEBRATION (PDF p.93),
+the References with folio 147 (PDF p.152), and the blank back
+cover (PDF p.153). **CITATION CHECK PASSED 2026-10-27** —
+anchors re-opened and confirmed on their pages: cover badge
+"3" with "STUDENT'S BOOK" and the 2012 MoES/RIES imprint
+(PDF p.1, render) · the credits team with the two
+editing-collaboration names (PDF p.2, render) · "Book Three is
+the third in a series of seven textbooks," Introduction dated
+Vientiane Capital, 01 February, 2012 (PDF p.3) · Contents —
+Unit 1 p.1, Unit 4 p.38, Unit 11 p.131, References p.147
+(PDF pp.4–5) · Somphone's cloze, "fourteen years old… born in
+Savannakhet" (p.1) · "Write one or two paragraphs about
+yourself" (p.4) · Grammar note "(be) going to is used to
+express a person's plans and intentions" (p.15) · the question
+word quiz (pp.18–20) · Grammar note "so" (p.25) · past simple
+spelling rules (p.28) · "Thong's childhood" (p.36) · "students
+learn to use the 'present perfect tense'" (Unit 4 Lesson 1
+head, PDF p.43) · "We use the present perfect to talk about
+recently completed actions using 'just'" (p.39) · the
+three-form tables and "They have gone to the market… They have
+been to the market" (p.42) · "How long have you been here?"
+"I've been here for a week" (p.43) · the since note — "an
+action which began in the past and continues to the present"
+(p.47) · "I've to help my father in the garden" (p.51) · The
+Rice Song (p.56) · the invitation card, "Saturday 21 September
+1997" (p.57) · Past Continuous note, "was/were + verb + ing"
+(p.63) · the letter to Khammy, "10 November 2008" (p.67) ·
+"I was walking to school" (p.71) · the comparative table and
+eight-country data table, "Reference 12/11/2011" (pp.74–75) ·
+"I have never been there before" (p.79) · "Life in Bangkok"
+(pp.83–84) · "FESTIVALS AND CELEBRATION" (p.88, render) ·
+"The Boat Racing Festival" read and choose (p.91) · "Write
+2–3 paragraphs about what you did last Pi Mai Lao" (p.97) ·
+"We wish you a merry Christmas" (p.101) · "70,000 kip… What
+about 50,000 kip?" (p.103) · "I'm sorry. I'sm using it now"
+(p.105) · "The ball is made of rattan" (p.109) · direction
+signals, "Take the second turn on the right" (p.114) ·
+Jennifer's letter, "10 November 1997," the nop and the shoes
+(p.118) · the must / have to Grammar note table (p.122) ·
+"The Hmong" (pp.126–127) · "Have/has got + expression of
+illness" (p.131) · "Have you ever + V3 (past participle)"
+(p.136) · Somphone's sick-note letter, "5th May 2010" (p.137) ·
+"Dengue Fever… transmitted by mosquitoes" (p.143) · the word
+search with "sore thoat" (p.146) · References item 8, "( year )"
+(p.147, render) · no ISBN printed anywhere (cover, credits,
+Introduction, References, and the whole text layer searched) —
+40 anchors, all on their pages.
+
+**Course filing state:** FILED + MERGED 2026-10-27 — Laos
+Grade 8 now stands in The Present Perfect (Level 18 gains its
+third country; Laos teaches the tense whole but never the
+present perfect continuous), Past Actions (used to, past
+continuous), Describing Words in a Sentence (comparing over
+an eight-country data table), and The Paragraph (a
+three-paragraph place description under a printed plan). The
+Grade 8 teacher guide follows in the reading queue; the Laos
+run then continues at Grade 9.
