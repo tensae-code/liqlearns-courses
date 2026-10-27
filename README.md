@@ -117,6 +117,14 @@ liqlearns-courses/
   becomes level 2 later if something new comes before it. The numbers
   grow by themselves from the chain; nobody renumbers by hand. The
   small steps INSIDE one lesson (its sub-lessons) are RANKS.
+  Restated by him 2026-10-27 with the maxing frame: one lesson is
+  one level, and a course is ONE thing you master — you max it
+  out, the way in Clash of Clans you max out the Town Hall and
+  then move to the next one. It is all about maxing: max the
+  level, max the course. (His older word, 2026-10-10, rides with
+  it: when a course later gains new material, a learner who had
+  it maxed is un-maxed until they finish the new work — nothing
+  earned is erased; the ceiling grows.)
 - LAUNCH FIRST, TOUCH-UPS AS UPDATES (his ruling, 2026-10-26): the
   product launches when the textbook library is complete — every
   country's books found — and the courses are made. The courses built
