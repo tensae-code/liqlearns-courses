@@ -66,8 +66,8 @@ its own subtitle folder with its own lesson + questions):
   "Words for the World" COMPLETE)
 - Word (tool) → using-the-dictionary (built 2026-10-27 —
   Level 2 Unit 3 COMPLETE)
-- Word (numbers & time) → numbers (built 2026-10-27 — Level 2
-  Unit 4 opens here)
+- Word (numbers & time) → numbers · days-and-months (built
+  2026-10-27 — Level 2 Unit 4 opens here)
 Conversation → hello-and-your-name (from Egypt, Primary 1) is kept, and
 filed under its title; it is NOT Lesson 1 of the path.
 
