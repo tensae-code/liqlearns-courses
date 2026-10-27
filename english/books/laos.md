@@ -9335,3 +9335,647 @@ named, analysed craft — topic sentence, main body, concluding
 sentence) and Going To Later (the series' clearest will-against-
 going-to contrast note). The Grade 11 teacher guide follows;
 the Laos run then closes at Grade 12.
+
+## Grade 11 (ມ.6) TEACHER GUIDE — FULLY READ + CITATION CHECK PASSED 2026-10-27
+
+**⚠ LIBRARY-RECORD ERROR FOUND BY THIS READ — read this first.**
+The library record (`~/workspace/phase3-staging/grade-11/gov/laos/
+books.json`, English teacher entry: 128 pages, 95,847,370 bytes,
+VERIFIED-TEXT, source `guides/secondary/m6/m6_english.pdf`)
+describes the wrong book again. The mirror file at that path
+downloads at exactly those facts — 95,847,370 bytes, 128 pages —
+but its content is the **Physical Education teacher guide for
+ມ.6** (ຄູ່ມືຄູ ພະລະສຶກສາ, MoES/RIES 2015, Phu Thinh Printing,
+print run 4,605 copies; cover render checked 2026-10-27: green
+cover, sepak-takraw photograph, pink "6" badge). The record's
+facts passed on bytes and pages alone; the secured library copy
+under the English teacher row is presumably the same PE guide.
+**The real English Grade 11 teacher guide sits at
+`guides/secondary/m6/m6_lao-language.pdf`** — the same swap as
+Book Five's guide in m5 — and is the book filed below:
+**2,186,061 bytes, 161 PDF pages**. (The record's Lao Language
+teacher entry carries those same facts — 161 pages, 2,186,061
+bytes — against that filename, so the record's own rows are
+crossed: the file the mirror calls "lao-language" is this
+English guide, cover, title page and the print file's own footer
+"3_Eng_M6 TG ready for print.pdf" all agreeing.) The mirror file
+actually named `m6_english.pdf` was downloaded, cover-checked,
+and deleted as a wrong candidate; the verified guide is kept at
+`~/workspace/liqlearns-courses-work/laos-english/laos-g11-english-
+teacher.pdf`. Mirror filenames in the secondary guide folders
+cannot be trusted — content must be verified by cover/title
+page.
+
+## The book itself
+
+The teacher's twin of "ENGLISH 6 FOR LAO SECONDARY SCHOOLS" —
+cover: "ENGLISH FOR SECONDARY SCHOOLS" with the pink **6**
+badge over the same ASEAN-circle photo arrangement as the
+student book, and under it, in coloured letters, "**TECHERS'
+GUIDE**" — the cover's own misspelling of TEACHER'S, as printed.
+Title page (PDF p.2): "ENGLISH For Upper Secondary Schools"
+over a red 6, with the credits as a whole-team list identical
+to the student book's — Writers Khamphanh PHIMSIPASOM,
+Viengkham PHONPRASEUTH, Bouakeo VILAYLATH, Manivone
+PHAXAYAVONG, Manoly DONGVANH, Ammaly ALATHEP and Viengkham
+SINGVONGSA; Managing Editors Khamphanh Phimsipasom and
+Viengkham Phonpraseuth; Editor in Chief Assoc. Prof. Dr.
+Bouasavanh Keovilay; Design and Layout Khonesavanh
+Chanthavixay; Ministry of Education and Sports / Research
+Institute for Educational Sciences, **2015**. The back-cover
+panel (PDF p.1, read on the render) carries the print data in
+Lao: SESDP with ADB support, Phu Thinh Printing and Trading
+Service Co.,Ltd., ຕາມທບ 095 ພຈ 19032015, size 18×25 cm, print
+run **4,605 copies** — the teacher-guide run, against the
+student book's 17,960. **No ISBN printed anywhere** — cover
+spread and credits page checked on renders, and the whole text
+layer searched (zero hits for "ISBN"). The PDF is RC4
+print-protected (print: yes, copy: no), made from Microsoft
+Word 2010 through Acrobat Distiller 8.1.0 (created 31 Jul
+2015); every page carries the diagonal RIES stamp watermark
+and the footer "3_Eng_M6 TG ready for print.pdf" with the date
+7/31/2015. Printed page = PDF page − 7 through the body (front
+matter I–IV at PDF pp.4–7), the same offset as the student
+book; printed folios confirmed on renders at printed pp.77,
+78, 82, 86, 106, 139 and in the layer throughout. The book's
+own Contents (printed pp. III–IV) ends at **Bibliography,
+printed p.154** — the guide has the same printed length as the
+student book, 154 pages, not the record's 128.
+
+**Method — the Introduction and Acknowledgements in full.**
+The Introduction (printed p. I) is the series' standing text,
+adapted at one point: "This teacher guide is the **sixth** in
+a series of seven teacher guides which are developed to
+provide some necessary teaching techniques along with the
+textbooks… It also includes the keys of the lessons, some
+reading texts for listening, some songs and games." It carries
+the standing admission that the guide "is produced under the
+time pressure that it cannot be probed into every needed area.
+Some minor errors may also contain in some instructions," and
+thanks all contributors; it names **no funder** — so the
+student book's BESDP/SESDP split does not recur inside the
+guide: its Acknowledgements (printed p. II, headed
+"**ACKNOWLEGEMENTS**") name the **Secondary Education Sector
+Development Project (SESDP)** alone, thank Ms. Sharon ROSE LIN
+MASA, Ms. Khounmy KEOVONGSA and Mr. Khonesavanh CHANTHAVIXAY
+"for their collaboration in editing the textbook," list the
+seven writers with affiliations (Bouakeo VILAYLATH — Phiawat
+Secondary School; Manivone PHAXAYAVONG — Vientiane Secondary
+School; the rest RIES), and add a page the student book does
+not have: special thanks to five teachers "for their
+contribution to the improvement of this teacher guide" —
+Bounthapany BOUNXOUAY (Department of Secondary Education),
+Vangnou VANGHUANOUA (Vientiane Province), Bounpanh CHANSOUPHO
+(Muongxay, Oudomxay), Keovilay VIENGSOUVANH (Thakhek,
+Khammouane) and Sompasong LUANGLATH (Sithanaxay,
+Bolikhamxai). There is no separate method chapter: as with
+Book Five's guide, the method lives in the unit overviews
+(each unit opens with a contents page and a Lao objectives
+line), the numbered steps that mirror the student book's
+activities, the English model answers and keys printed inside
+the steps, and a back-matter appendix of unit mind maps.
+...[truncated 21451 chars]
+## What the guide adds, unit by unit
+
+**Unit 1 Hobbies (guide pp.1–15).** Lesson 1: the opening
+dialogue's six questions keyed (Boun's hobbies listening to
+music and basketball; Vilay's swimming and badminton; the
+4:00 pm meeting at Vientiane Swimming pool, p.4); Tara's email
+answered in nine keyed answers (Chansamone in Luangprabang,
+Tara in Sydney, her hobbies, her ambition "Becoming a famous
+writer one day," basketball once a week, two email addresses,
+pp.4–5); the True/False set keyed with corrections in
+brackets — 4-F "(She can't afford it right now)," 8-F "(She
+has to practise it once a week)" (p.5). Lesson 2: the Jim/Khen
+dialogue keyed 1–5 T, 6-F "(They will play football in Laos)"
+(p.8); the three leisure texts' ten questions keyed (Mala's
+traditional dance, Sihn's volleyball, Dara's roses, p.9); the
+Like + V-ing note reprinted with its model sentences and the
+he/she set (p.10). Lesson 3: the library dialogue keyed (2-F
+"Tha suggests Chan a library near Tha's house," 6-F "there are
+some simple books," p.13); **the will / be going to Choose
+exercise printed with the choice made in every sentence**
+(nine items, p.14 — tickets bought yesterday → going to;
+"I'll show you"; "I'm going to buy them now"); the Vientiane
+Library text answered in seven keyed answers (its aim "to
+promote the reading," the secondhand books sent "to other
+libraries in the remote areas," p.15); model openings for the
+weekend-plan Write.
+
+**Unit 2 Transports (guide pp.16–28).** The duty-free
+dialogue printed in full as the completed Read-and-complete
+text — 40,000 kip, dollars accepted, "The exchange rate is
+8000 kip per dollar," "$5 for the chocolate" (pp.18–19); the
+transport picture key (bicycle, oxcart, plane, train, car,
+p.19); both comparative/superlative formation exercises keyed
+(old–older–The oldest; happy–happier–The happiest; polite,
+comfortable, shy, modern, p.20) and the vehicle key (smallest
+bicycle, fastest plane, biggest train, slowest oxcart, most
+modern car); five model comparison sentences (p.21). Lesson
+2: the map match keyed A bus, B taxi bay, C tuk-tuk, D speed
+limit sign, E checkpoint, F passenger, G friendship Bridge,
+H check-in (p.23); the directions dialogues answered (several
+ways — van, bus, taxi, tuk-tuk; "Half and hour"; by van,
+p.24); **Jenny's letter cloze keyed — 1 Vientiane, 2 holiday,
+3 temples, 4 popular, 5 rented, 6 waterfall, 7 peaceful,
+8 good, 9 customs, 10 behave — and the letter's questions
+keyed** (to Tom; five days ago; city centre, Tad Leuk, Num
+Ngum Dam and Luang Prabang; Wat Simeuang; by bus tour;
+"Because it's a queite rough road"; tomorrow, p.24). Lesson
+3: the bus text answered in seven keyed answers (pp.26–27);
+**the Luang Prabang listening text printed in full** — the
+most beautiful old city, Namkhan and Mekong, Wat Xieng Thong,
+Ban Phanom weaving, Orlarm, Jeobong and Khai Pan (p.27); the
+Write model opening ("I live in Ban Phanom… women working on
+their looms," p.28); the transport crossword keyed as a word
+list (taxi, motorbike, plane, bicycle, van, transport, train,
+car, Tuk Tuk, drive, p.28).
+
+**Unit 3 Travelling and tourism (guide pp.29–43).** The
+picnic reading answered (Tad Moon; Somsy; bamboo shoot soup;
+chili, seasoning, fermented fish and soaked sticky rice,
+p.32); the should/ought-to choice keyed (should ×5, ought to
+at item 3, p.33); the Listen-and-write place names keyed —
+Luang Prabang, Tad Kouangsy, Tad Sae, Thamting, Champassack,
+Khonephapheng, Tad lor, Pha souam, Tad Fane, "Vientieane,"
+Tad Moon (p.33); picnic Write model openings (pp.33–34).
+Lesson 2: the verb-form exercise keyed as six full sentences
+about "Bounlahnn" and her sister (perfume bottles, Exchange
+Bank, Mandarin Orchard Hotel, the Check-In Personnel and the
+fragile items, pp.35–36); Bounpanh's narrative answered
+(Singapore; perfumes, breakable items, sharp things, lotion;
+tax free and hand-carry; the Departure Area, p.36); the
+picture-word match keyed (boarding pass, trolley, immigration
+forms, Check-in, passport number, gate, conveyor, departure
+area, flight, duty-free, p.37); **the airport mind map printed
+filled** — Immigration Area, Duty free shops, Check in
+counters and Departure Area each with their contents, and the
+trip retold in prose under each head (pp.38–39). Lesson 3:
+the driving text answered in seven keyed answers (about
+350 km; local tourists; "they stop at the alter site and make
+their wishes for safe trip"; the narrow, hilly, curved road;
+the clouds under the restaurant; Phousy, p.41); **the
+Sayaboury listening text printed in full** — 16,389 km²,
+eight districts, 291,705 people in 559 villages, 90% rural,
+38/35/27% south/centre/north (p.43); a province Write model
+(Savannakhet, That In Hang, p.43).
+
+**Unit 4 Visiting places (guide pp.44–56).** The definitions
+match keyed ((a) The Plain of Jars, (b) Phou Si, (c) That
+Luang Stupa, (d) That Ing Hang, p.46); **the paragraph-topic
+exercise keyed — 1 That Ing Hang, 2 The Plain of Jars, 3 That
+Luang Stupa, 4 Phousy (p.46)**; the reading answered (Buddha
+rested under the 'Hang' tree; Xieng Khouang; "In 1566. By
+King Setthathirath"; Phousy; the Mekong and Nam Khan, p.47);
+**the Wat Phou listening text printed in full** — late 10th
+to early 11th century, older than Angkor Wat, the Shiva
+temple turned Buddhist shrine, the three-day Boun Wat Phou
+festival at Makha Bucha (p.48). Lesson 2: the map match keyed
+— 1 Post Office, 2 Ho Phra Keo, 3 Ministry of Finance,
+4 UNDP, 5 President's Souphanouvong Museum, 6 French Embassy
+(p.50); **the three map direction texts printed completed**
+(Post Office→British Embassy, Bus Station→Lao-Viet Bank, Ho
+Pra Keo→That Dam, with every missing phrase in place, p.51);
+the listen-and-answer direction scripts printed with their
+destinations keyed (1 That Dam, 2 Morning market, 3 British
+Embassy, p.52); **the indirect-question exercise keyed with
+both frames accepted** — "Do you know where Lao-Viet Bank
+is? (or Could you tell me)," and so on for the French
+Embassy, UNDP and the Prime Minister's Office (pp.52–53) —
+the guide spells **UNDP** correctly against the student
+exercise's "UNPD." Lesson 3: Ho Prakeo answered (King
+Saysetthathirath; the Emerald Buddha image; King Anouvong;
+sculpture and artifacts; "only the altar is there, the image
+still remaining in Thailand," p.55) and the true/false set
+keyed with its corrections — 1-F "It's one of the oldest
+temple in Laos," 3-F "It's was built by the King
+Setthathirath," 5-F "It became a National Museum in 1975"
+(pp.55–56).
+
+**Unit 5 Health and fitness (guide pp.57–71).** The pharmacy
+dialogue answered (for her son; the pharmacy; "Some
+paracetamal. No, it didn't help"; about 4 days; take him to
+the doctor immediately, pp.59–60); the hot-weather text
+answered (diarrhea, dengue fever and malaria; precautions;
+clear liquids "like water, lemonade and coconut juice"; about
+three days, p.60); **the dengue-advice listening text printed
+in full with its order key — 2 take paracetamol, 4 drink lots
+of water or coconut juice, 1 don't take aspirin, 5 go to see
+the doctor, 3 eat fruit (pp.60–61)**; the lesson summary
+printed as a completed mind map (eat/drink/stay-cool branches
+and the diarrhea branch, p.61); the word-search word list
+(malaria, symptom, water, vegetables, fish, fruit, lemonade,
+fever, headache, coconut juice, p.62); the sick-story Write
+model opening ("When I was ten, I got dengue fever. I had a
+terrible headache…," p.62). Lesson 2: the fitness
+Read-and-complete keyed (walking, bicycle, gym, football,
+basketball, mountain climbing, p.64); the text answered in
+six keyed answers (p.65); the doctor's should/shouldn't
+suggestion printed as a completed mind map (p.65); **the
+present-perfect note reprinted with three keyed exchanges**
+— "Have you ever had a terrible headache? Yes, I have"; "How
+long has Lavanh had the fever? — She has had it for two
+days"; "Have you ever had dengue fever? No, we haven't"
+(p.66). Lesson 3: the doctor dialogue answered in seven
+keyed answers (p.69); **the sick-note letter printed in full**
+— dated 5 October 2013, signed Sengchanh, "I have got a cold
+and cough, and I have had a fever for two days" (p.69); the
+second-visit dialogue printed as a script ("I'm going to do
+some blood test," p.70); the illness picture match keyed
+A-5 headache, B-3 toothache, C-2 stomachache, D-4 cold,
+E-6 cough, F-1 fever (p.70).
+
+**Unit 6 Revision, Units 1–5 (guide pp.72–78).** Opens with
+the revision unit-map diagram (p.72). The comparative table
+and the ten-sentence choose-the-form drill keyed (larger/The
+largest … more important/The most important; "the (tall)
+tallest once on the team" as printed, p.73), with five
+"possible answer" comparison sentences; **the acronym key —
+MoF: Ministry of Finance; MoES: Ministry of Education and
+Sports; MOFA: Ministry of Foreign Affairs; UNDP: United
+Nations Development Programme; MoJ: Ministry of Justice
+(p.74)** — the guide's key quietly puts Finance under MoF,
+against the student book's Unit 4 match, which paired
+"Ministry of Finance (MoFA)"; the buses listening text
+printed with its five answers in place (comprehensive
+service, destination, fares, conductor, compulsory Bus stop
+sign, p.74); **the Houaphan cloze printed with its ten
+answers in place** (north-eastern, rugged, its, conflict,
+built, aircraft, Patriotic, wildlife, development, cotton,
+pp.74–75); five should/shouldn't advice models (p.75); **the
+That Phone Stupa listening text printed with its ten answers
+in place** (sacred, constructed 557–700, celebration,
+attractions, elders, religion, worship, respect, stores,
+offering, pp.75–76); **the ten-item multiple-choice test
+keyed by circling the correct letter in print (pp.77–78):
+1-b cheap and convenient, 2-c Jeo bong and orlam, 3-b older,
+4-a 1560–1565, 5-b King Saysethathirath, 6-a 1811–1813,
+7-c drink water, lemonade and coconut juice, 8-a 3 days,
+9-b jogging, aerobics, hiking, mountain climbing, 10-c
+Phusi temple**; the What's-the-matter picture sentences keyed
+(1 cough, 2 stomach ache, 3 toothache, 4 cough again,
+5 fever, 6 headache, p.78).
+
+**Unit 7 Diseases (guide pp.79–90).** The AIDS text answered
+(Acquired Immune Deficiency Syndrome; Human Immunodeficiency
+Virus; fever, sore throat, a red rash; "Prevention is very
+important because there is no cure for AIDS," p.81); **the
+seven-item Read-and-tick test keyed in full (p.82,
+render-checked): 1-a "a virus"; 2-a "HIV is a virus and AIDS
+is a bacterial disease" — the key's own wording, as printed;
+3-b No; 4-b No; 5-b No; 6-c "there is no easy way to tell";
+7-c "sexual contact."** Lesson 2: the malaria text answered
+(the Anopheles bite; Falciparum "or jungle fever"; quinine
+and Chloroquine; the five prevention rules in full, pp.84–85);
+**the passive-hunt keyed in full — the exercise's own list
+printed with tenses: is caused (present), is transmitted
+(present), are found (present), is called (present), are
+caused (present), has been used (present perfect), is made
+(present), was developed (past) (p.86)**; the Complete keyed
+in seven sentences with the verbs underlined in print
+("Mosquitoes net are used to avoid catching malaria" among
+them, p.86). Lesson 3: bird flu answered (hosted by birds;
+Indonesia, Vietnam, China, Thailand and Europe; "other
+bidily fluids"; "We can advoid by washing your hands properly
+before and after handing meat," pp.88–89); **the bird-flu
+listening text printed with its ten answers in place**
+(caused, virus, different, affected, uncooked, symptoms,
+feverishness, properly, avoid, survive, p.90).
+
+**Unit 8 Geography (guide pp.91–106).** **The Laos mind map
+printed completed** — surrounded by China, Vietnam, Thailand,
+Myanmar, Cambodia; highest point Phou Bia in Xiengkhouang;
+area 236,800 km² split "230,800 km2 is land / 6,000 km2 is
+water"; estimated population 6,700,000; 60% lowlands, 40%
+foothills and mountains (p.94); the questions keyed (the Lao
+People's Democratic Republic; 18 provinces; 6,700,000, p.95);
+**the three-regions listening text printed with its ten
+answers in place** (mountains/plateaus/plains; Phou Bia
+2,820 m, Phou Xao 2,690 m, Phou Xamxum 2,620 m; Nakai and
+Bolaven plateaus, p.96); the Rearrange keyed in five
+sentences ("The population of Laos was estimated about
+6.500.000," pp.96–97). Lesson 2: the rivers questions keyed
+short (385 Km; Oudomsay; 90 Km; Nam Sekong, p.99); the
+Mekong Complete keyed in five sentences (six countries; the
+twenty-metre tide; forty percent of Vietnamese food supply
+from the Delta, pp.99–100); the strong-adjective exercise
+keyed in eight sentences (terrified, tiny, excellent,
+terrible, amazed, fascinating, delicious, "huge and
+georgeous," p.100). Lesson 3: ASEAN answered (founded 8th of
+August 1967; ten countries; Thailand, Indonesia and Malaysia
+named of the founders; Laos in 1997, p.102); **the ten-country
+listening script printed in full (pp.103–104)** — every
+country's area, population, capital, religion and official
+language as read aloud (Brunei 5,765 km² / 381,371 / 2007;
+Indonesia 1,919,440 km² / about 240 million / 2010; Myanmar
+678,500 km² / 48 million; Singapore 699 km² / 4.48 million;
+Vietnam 331,689 km² / about 88 million, and the rest); the
+Look-and-write keyed five sentences (Laos "about 6.5 million"
+here, against the script's 6.7, p.105); the ASEAN passage
+cloze keyed 1–11 (Nations, growth, cultural, regional, law,
+principles, Charter, provides, framework, support,
+realisation, p.105); the ten-country crossword printed
+solved (p.106, render-checked).
+
+**Unit 9 Weather and climate (guide pp.107–122).** The
+climate text's sentence completions and bracket drill keyed
+(two seasons; 0°C in Xiengkhouang; August wettest; highlands
+25°C; cooler/less/more/the most/as…as, p.110); **the
+rainfall-graph match keyed — A Vientiane, B Luang Prabang,
+C Pakse, D Savannakhet (p.111)** — with the worked figure
+"in September, about 230 mm" for Vientiane; temperature
+question models (hottest month in Savannakhet: May; lowest in
+March: Luang Prabang, pp.111–112); **the Pakse graph text
+keyed with its figures in place** — wettest September,
+380 mm; hottest May, 36°C; driest March, 35 mm; lowest
+average 19°C (pp.112–113). Lesson 2: **the three-region
+forecast listening script printed in full with the tick table
+completed** — north cool/windy/wet, 22°C, rain "expected to
+comtinue until Thursday"; centre fine/sunny/warm, 32°C; south
+fine but cool, 25°C; the Mekong rising (p.115); the forecast
+text keyed from the table (p.116); **the three weather
+dialogues printed completed** (pp.117) — the guide prints
+them with the weatherman's words as direct quotes: "The
+weatherman said, 'It will be hot and sunny'." Lesson 3: **the
+Europe mind map printed completed** (the four seasons with
+their months and weather, p.120); the seasons key (1 winter,
+2 autumn, 3 summer, 4 winter, 5 spring, 6 summer, p.121); the
+sentence match keyed in eight sentences ("It's pouring rain,
+so I decide to stay home," p.121).
+
+**Unit 10 Population (guide pp.123–139).** The unit opens
+with its content printed as a completed overview mind map —
+People in Laos (47 ethnic groups, slash and burn, four major
+linguistics, Buddhism, official language Lao), Mother and
+child (470 deaths per 100.000 live births, 98 per 1000,
+immunization), Government (build health care centers), People
+in ASEAN (over 620 millions, English is official language,
+high literacy) (p.124). Lesson 1: the population text
+answered (most live in rural areas; slash and burn; along the
+Mekong; Buddhism; and for other religions, "Catholic," p.126);
+the fact diagram printed completed and its figure-referents
+keyed (area "236.800 km2" as printed; population 6.7 million;
+47 ethnic groups; the four language groups; Lao-Tai official,
+p.127); **the Luang Namtha listening text printed in full
+with its answers** — the province's nine named peoples
+(Tai-Lue, Thai-Dam, Tai-Yuan, Tai-Neua, Tai-Kao, Akha,
+Lanten, Yao, Lahu) and the rubber plantations replacing the
+old shifting cultivation (p.128); **the "Struggle of Lao
+People" cloze printed with all ten answers in place** —
+(1) invaders, (2) generation, (3) motherland, (4) founded,
+(5) established, (6) negotiated, (7) dynasties,
+(8) feudalism, (9) outstanding, (10) patriotism — the text
+keeping the student book's "2th December 1975" (p.129). The
+guide's own Write step for this lesson is a different task
+from the student book's: two paragraphs about **the festival
+in your village**, with a Boun phavet model opening (p.129),
+where the student book sets two paragraphs about the
+population of your village after the writing tip; the tip
+itself gets no key, as it needs none. Lesson 2: the
+Mother-and-Child mind map keyed (maternal 470, infant 98,
+immunization/vaccination, p.131); the sentence completions
+keyed in ten (p.132); the text's questions keyed (first
+priority mother and child care; almost all villages; health
+care centre for all villages, pp.132–133); **the
+institutional-deliveries listening text printed with its ten
+answers in place** — 35 percent antenatal check-up, 20
+percent of deliveries by trained personnel, "institutional
+deliveries is as low as 2.5 percent," distribution, newborn,
+competent, access, obstacles, Goals, redress (p.133); the
+box-fill keyed and the English–Lao word match keyed (1-d
+antenatal, 2-c newborn, 3-e pregnant, 4-b midwife,
+5-a adolescents, p.134). Lesson 3: the ASEAN-population
+diagram keyed (60 percent aged 15–60; literacy 80.2 to 99
+percent; English; "one vision, one identity, one community,"
+p.136); the six questions keyed (over 620 million; slogans
+including "a unity in diversity"; the Youth Camp aim, p.137);
+**the ASEAN human-resource listening text printed with its
+ten answers in place** (stressed, dynamic, young, averaging,
+relatively, advanced, provided, available, facilities,
+immunization, pp.137–138); the sentence completions keyed
+("around 620 million," p.138); **the definitions crossword
+printed solved** (population, history, diversity, region,
+culture in the grid, p.139, render-checked).
+
+**Unit 11 Revision, Units 7–10 (guide pp.140–148).** The
+unit diagram (p.140); **the five gapped conversations printed
+completed (pp.140–141)** — Kham and Jim; Amala's swimming
+("I'd love too," as printed); the New Year hometown
+conversation; the Laos conversation built on the guide's own
+indirect frame, "Could you tell me how big is Laos?" as
+printed, answered "about 236,800 km2," "about 6.5 million
+people living in 18 provinces," 47 ethnic groups; and the
+health-centre conversation keying the rates again (470 per
+100,000; 98 per 1,000); **the translation texts printed in
+full — three, where the student book's step names two**
+(pp.141–143): Text 1 the rivers of Laos, repeating "flows
+through Laos 1.835 km" and "the center of white energy";
+Text 2 the seasons in Europe; Text 3 "Mother and Child Health
+in Laos," a reprint of the Unit 10 text; the phrase matches
+keyed in three sets (latitude b, foothills a, longitude d,
+multi-ethnic e, landlocked c; thick forest b, a wide variety
+of plants a, gorgeous tropical birds d, delicious fruit c;
+showers during spring c, rains in summer d, leaves change
+colour — printed without its letter — cloudy and wet a, four
+major linguistic groups h, slash and burn g, harmful e, live
+in rural areas f, pp.144–145); the Mekong text printed with
+**the subjects/verbs/adjectives list in full** — ten
+subjects, seventeen verbs, nine adjectives as listed, with
+"transport" standing in the verb column (p.146); the
+tourist-destinations cloze printed filled (ways,
+destinations, travel, "taxi metre" as printed, only,
+travelers, taking, rental, international, access, p.147);
+the Malnutrition paragraph printed with the topic-sentence
+apparatus in place (pp.147–148); **the jumbled paragraph
+printed in its correct order with the original numbers kept
+— 1, 4, 5, 2, 3 (p.148)**.
+
+**Back matter.** A **Mindmap appendix (printed pp.149–153)**:
+five unit mind maps — Unit 2 Transports, Unit 3 Travelling
+and Tourism, Unit 4 Visiting places, a fourth headed "Unit 4
+Health and fitness" (the health unit is Unit 5; the label is
+the guide's own, as printed), and Unit 7 Diseases — graphic
+pages whose text layer carries the titles alone; the Contents
+lists the appendix simply as "Mindmap … 149." **Bibliographies
+(printed p.154)** — headed with the plural — nine entries,
+all dated: Gammidge's Grammar Work Teacher's Books 2 and 1
+and Student's Book 1 (1998), Vale's Picture Grammar for
+Children 1–2 (1998), Seidl's Grammar ONE (1998), New Headway
+Beginner (2006), New English File Elementary (2006 — the year
+printed here too), Side by Side Activity Workbook 1 (2001).
+The student book's tenth entry, Understanding by Design
+(2003), is not in the guide's list.
+
+## Settlements and disagreements against the student filing
+
+- The guide keys every open exercise the student book left:
+  the paragraph topics (p.46), the passive hunt with tenses
+  (p.86), both multiple-choice tests (pp.77–78 circled;
+  p.82 listed), the rearranged paragraph's order 1-4-5-2-3
+  (p.148), the subjects/verbs/adjectives list (p.146), the
+  graph matches and the Pakse figures (pp.111–113), the ASEAN
+  table's spoken source (pp.103–104).
+- Acronyms: the guide's Revision key gives MoF = Ministry of
+  Finance and MOFA = Ministry of Foreign Affairs (p.74),
+  settling the student book's Unit 4 pairing of Finance with
+  MoFA the other way; and the guide keys UNDP spelled
+  correctly (p.53) where the student exercise printed "UNPD."
+- Laos's population is 6.7 million in the guide's scripts and
+  diagrams (pp.94–96, 127) but "about 6.5 million" in its own
+  Look-and-write key (p.105) and in the Revision conversation
+  (p.141) — both stand as printed.
+- The guide's Unit 10 Lesson 1 Write (a festival paragraph,
+  p.129) is not the student book's Write (the population
+  paragraphs after the writing tip) — recorded as a mismatch,
+  not an error to resolve from here.
+- The guide repeats the student book's own slips where it
+  reprints its texts: "2th December 1975" (p.129), "470 death
+  per 100,000 live births" (p.143), "1.835 km" and "white
+  energy" (pp.141–142), "Mosquitoes net are used" (p.86),
+  "handing meat" (pp.89–90).
+- **Songs: an honest negative.** The Introduction promises
+  "some songs and games"; the guide prints no song words
+  anywhere (the whole text layer was searched) — Book Six has
+  no songs in either book. The games and puzzles are keyed as
+  word lists and solved grids (pp.28, 62, 106, 139).
+
+## New for the course
+
+- **The Passive (Level 18):** the keyed passive list with
+  every tense named (guide p.86) — eight passives from one
+  real text, the only place in the Laos set where the passive
+  is listed as a set; it completes the student book's
+  hunt-the-passives exercise.
+- **Questions (Level 11):** the indirect-question key
+  accepting both polite frames side by side (guide
+  pp.52–53), and the Revision conversation that runs on the
+  frame (p.141).
+- **The Paragraph (Level 14):** the rearranged paragraph
+  printed in its correct order with the jumble numbers kept
+  (p.148) — a worked example of the ordering exercise; the
+  Malnutrition paragraph's labelled parts (pp.147–148); the
+  completed unit overview map (p.124) as a plan of a whole
+  unit in one diagram.
+- **The Present Perfect (Level 18):** the note reprinted with
+  three keyed exchanges, including the two-days fever answer
+  (p.66) — depth of use, no new system, as the student filing
+  said.
+- **Going To Later (Level 12):** the Choose exercise printed
+  with all nine choices made in place (p.14).
+- **Reading Whole Texts (Level 15):** completed mind maps as
+  worked answers — the lesson summary map (p.61), the
+  should/shouldn't map (p.65), Laos (p.94), Europe (p.120),
+  ASEAN population (p.136) — and the airport map with its
+  prose retelling (pp.38–39).
+- **Numbers, Days, and Time (Level 9):** the data keys — the
+  ten-country ASEAN script with every figure (pp.103–104),
+  the forecast script and table (p.115), the Pakse graph
+  figures (pp.112–113), the mortality rates keyed three times
+  over (pp.124, 131–133, 141).
+- **Word Kinds (Level 6):** the full subjects/verbs/
+  adjectives list over the Mekong text (p.146), adjectives
+  nine as listed.
+
+## Slips recorded as printed (the guide's own)
+
+- The cover itself: "**TECHERS' GUIDE**" for TEACHER'S GUIDE
+  (PDF p.1, render-checked); the Acknowledgements head
+  "**ACKNOWLEGEMENTS**" (printed p. II) — the student book's
+  slip, repeated.
+- Unit 1 keys: "Swimming and **plaing** badminton" (p.4);
+  "Read the e-mail and answer the **questionas**" (p.4); "How
+  many email **adesses** does Tara have?" (p.5); "Put true (T)
+  or false (F) into **theses** sentences" (p.5) and "into
+  **thses** sentences" (p.13); "What is Sinh **favouraite**
+  sport?" and "What does Dara like doing? — **Garderning**"
+  (p.9); "Yes, he/she **doen't**" (p.10); "What kind of books
+  can you find in the **libbrary**?" and "Lao and **Eglish**
+  language" (p.15).
+- Unit 2–3 keys: the superlative key capitalizes "**The**
+  oldest / **The** happiest" mid-table (p.20); "A canoe is
+  smaller than **ship**" in a model key (p.21); "**Half and
+  hour**" (p.24); "Because it's a **queite** rough road"
+  (p.24); "**Thad Phousy**" in the Luang Prabang script
+  (p.27); the airport keys spell the traveller "**Bounlahnn**"
+  (pp.35–36); "they stop at the **alter** site" for altar
+  (p.41); the Sayaboury script's "**mountainnous**" and
+  "**districst**" (p.43).
+- Unit 4–5: "people **cerebrate** the Wat Phou festival"
+  (p.48); "It **s** on your right" (p.52); "It's **was built**
+  by the King Setthathirath" in a correction key (p.55); "Some
+  **paracetamal**. No, it didn't help" (p.59); "this kind of
+  **desease**" in the dengue script (p.60).
+- Revision and diseases: the Revision numbers two opening
+  steps "1." (p.73) and keys "the (tall) tallest **once** on
+  the team" (p.73); a model runs "You should eat **well cook**
+  meat and fish" (p.75); **the AIDS test's own key prints
+  "HIV is a virus and AIDS is a bacterial disease"** (p.82);
+  bird-flu keys print "other **bidily** fluids" and "We can
+  **advoid** by washing your hands" (p.89).
+- Geography and weather: "huge and **georgeous**" (p.100);
+  the ASEAN script names Brunei "**The Karachi Brunei
+  Darussalam**" (p.103); the forecast script's rain "expected
+  to **comtinue** until Thursday" (p.115); "Which city **has
+  of** the lowest temperature in March?" (p.112).
+- Population and Revision: the overview map's "470 deaths
+  per **100.000** live births" (p.124) and the mind map's "470
+  death per 100,000 **lives births**" (p.131); "their diverse
+  **cultlures**" in the Youth Camp key (p.137); the filled
+  tourist cloze's "taxi **metre**" (p.147); the Mindmap
+  appendix heads the health map "**Unit 4** Health and
+  fitness" (p.152); the back matter is headed
+  "**Bibliographies**" (p.154).
+
+**FULLY READ 2026-10-27.** Read page by page from the text
+layer — cover spread, title/credits, Introduction,
+Acknowledgements, Contents, all eleven units step by step,
+the Mindmap appendix and the Bibliographies — from the
+verified mirror copy at `guides/secondary/m6/m6_lao-language.
+pdf` (2,186,061 bytes, 161 pages), whose cover and title page
+were checked on renders before a page was read, and whose
+printed folios were render-confirmed at printed pp.77, 78,
+82, 86, 106, 139. The Lao procedure text under the steps was
+read where it carries content the English layer does not
+(the step instructions are the series' standing Lao); the
+filing rests on the printed English layer — objectives,
+models, scripts and keys — as stated. **CITATION CHECK
+PASSED 2026-10-27** — anchors re-opened and confirmed on
+their pages: the cover's "TECHERS' GUIDE" and 2015 imprint
+(PDF p.1, render) · the title page's writer list with
+PHIMSIPASOM and PHONPRASEUTH (PDF p.2, render) · "the sixth
+in a series of seven teacher guides" in the Introduction
+(printed p. I) · "ACKNOWLEGEMENTS" and the SESDP thanks
+(printed p. II) · Contents "Unit 6 Revision … 72" and
+"Mindmap … 149" (printed pp. III–IV) · "Swimming and plaing
+badminton" in the key (p.4) · "8- F (She has to practise it
+once a week)" (p.5) · "I'm going to buy them now" closing the
+Choose key (p.14) · "The oldest / The happiest" in the
+formation key (p.20) · the Jenny cloze key "1. Vientiane
+2. holiday 3. temples" (p.24) · "291,705 people" in the
+Sayaboury script (p.43) · "1-That Ing Hang / 2- The Plain of
+Jars" (p.46) · "Do you know where UNDP is?" in the indirect
+key (p.53) · the dengue order key "____2____ Take
+paracetamol" (p.61) · the sick note "5 October 2013 …
+Sengchanh" (p.69) · the Revision acronym key "MoF: Ministry
+of Finance" (p.74) · the circled test answers 1-b and 4-a
+1560–1565 (p.77, render) · the AIDS key "6. c. there is no
+easy way to tell" (p.82, render) · the passive list "has been
+used (present perfect)" (p.86, render) · "The Karachi Brunei
+Darussalam" in the ASEAN script (p.103) · the graph match
+"A – Vientiane / B – Luang Prabang / C – Pakse /
+D – Savannakhet" (p.111) · "expected to comtinue until
+Thursday" in the forecast script (p.115) · the Struggle cloze
+"(10): patriotism" over "2th December 1975" (p.129) · the
+word-match key "1. d antenatal … 5. a adolescents" (p.134) ·
+the solved definitions crossword (p.139, render) · the
+rearranged paragraph numbered 1, 4, 5, 2, 3 (p.148) ·
+"New English File- Elementary Student's Book 2006" in the
+Bibliographies (p.154) — 26 anchors, all on their pages. The
+whole-book negatives were checked by full-text search: no
+ISBN anywhere; no song words anywhere; "perfect continuous"
+and "conditional" never appear in the guide either.
+
+**Course filing state:** FILED — this section stands in
+`english/books/laos.md`. With it, the Laos Grade 11 pair is read
+whole — student book and teacher guide — and the Laos run
+closes at Grade 12.
