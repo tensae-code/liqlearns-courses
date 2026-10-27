@@ -2802,3 +2802,635 @@ Paragraph (Laos names the paragraph outright). The Grade 6
 teacher guide (143 pp in the library record) is the natural
 next read, on the primary-series
 pattern; the Laos run then continues at Grade 7.
+
+## Grade 6 (ມ.1) TEACHER GUIDE — FULLY READ + CITATION CHECK PASSED 2026-10-27
+
+The teacher's twin of "ENGLISH FOR SECONDARY SCHOOLS, Book One" —
+the first guide of the secondary series, pairing unit by unit and
+lesson by lesson with the Grade 6 student book filed above.
+Source copy: the public mirror the library's secured copy came
+from (GitHub Xaypanya/Lao-Textbook,
+`guides/secondary/m1/m1_english.pdf`). Working copy verified
+against the library record before reading: **5,308,401 bytes,
+143 PDF pages — both match the record exactly (VERIFIED-TEXT)**.
+Read by a checking agent; spot-verified before filing (file
+facts, the cover on a render, the chant and listening-script
+wording grepped back out of the text layer).
+
+## The book itself
+
+The cover (PDF p.1, checked on the render) is the student book's
+cover re-set: the same orange cover, display title and mascot,
+the same full credits — Advisor Phouangkham Somsanith; Editor in
+Chief Assoc. Prof. Dr. Bouasavanh Keovilay; Managing Editors
+Khamphanh Phimsipasom and Viengkham Phonpraseuth; Writers
+Manivone Phaxayavong, Bouakeo Vilaylath, Thongsouk Keomany,
+Kittisack Saychoummany, Bounthapany Bounxouay, Khambane
+Pasanchay; Design and Layout Khankab Phongoudom — and the
+imprint "Ministry of Education — Research Institute for
+Educational Sciences — **2009**" (the student book's cover
+imprint reads 2010; both books' introductions are dated
+01 February, 2010). The cover nowhere says "Teacher's Guide":
+the book is identified as the guide only by its Introduction
+(the PDF's own metadata title is "TG_BOOK_m1.indd", laid out in
+InDesign CS2, February 2010). **No ISBN is printed anywhere** —
+the whole text layer was searched (no ISBN string at all) and
+the cover/credits render checked. **Page offset: printed folio
+= PDF page − 4** — front matter runs cover (PDF p.1),
+Introduction (printed I, PDF p.2) and Contents (printed II–III,
+PDF pp.3–4); the body runs printed pp.1–139 (PDF pp.5–143),
+each unit opening on a one-page overview and each lesson then
+following the student book's activity numbers step by step.
+File notes, as warned: the PDF is print-protected the same way
+as the student book (copying disabled, RC4); its English text
+layer is clean but **doubled** (a ghost layer repeats most
+lines, as in the student book); its Lao layer extracts as
+mojibake under the same legacy font encoding — the procedure
+text is mostly Lao, so this filing rests on the guide's English
+layer (objective lines, model sentences and texts, and every
+printed key), with Lao-carried points read for their English
+examples only. There is no back cover or colophon; the book
+ends on the Revision (Units 10–11) key, printed p.139.
+
+**The Introduction in full (printed p.I).** One page, English
+then Lao, signed "Vientiane Capital, 01 February, 2010 —
+Research Institute for Educational Sciences." Its points, in
+its own order: this teacher's guide is **the first in a series
+of seven teacher's guides**, developed "to provide some
+necessary teaching techniques along with the textbooks"; it
+"includes the necessary steps of teaching with clear
+instruction that teachers can follow easily"; it gives "some
+useful ideas to teachers and students for preparing the
+teaching aids to use in their classes by themselves"; and "it
+also includes **the keys of the lessons, some reading texts for
+listening, some songs and games**." Teaching "will be effective
+if the teachers read the teacher's guide and textbook before
+teaching the lessons" — the guide is to be carried along with
+the textbook. It closes with the family's usual admission,
+sharper than the student book's: the guide "is produced under
+the time pressure that it cannot be probed into every needed
+area. Some minor errors may also contain in some instructions,"
+and comments are invited as "a great contribution to the
+development of teaching techniques of Lao teachers" — from the
+Foreign Language Research and Resource Centre.
+
+**Method — how the guide is built (there is no separate method
+chapter).** Beyond the Introduction, the method lives inside the
+units, in a shape that repeats all the way through: (1) a
+**unit overview page** — the three lesson titles, what each
+lesson teaches (its grammar point and word set, stated in
+English), and the teaching aids to prepare (an alphabet chart
+and flash cards for Unit 1; picture/word cards and board grids
+after); (2) a **lesson headnote** with an English objective
+line — "In this lesson students learn how to greet each
+others. Revise the English alphabet" (U1 L1), "In this lesson
+students learn affirmative, interrogative and negative
+statements" (U1 L2); (3) **numbered steps mirroring the student
+book's activities one for one**, the procedure mostly in Lao,
+with the English the teacher needs printed inside the step —
+the model sentence to say, the dialogue to play, the
+substitution table to drill; (4) a printed **key ("Answers")**
+for every closed exercise — gap-fills, matches, reorderings,
+translations, true/false, crosswords and puzzles are all keyed;
+open writing steps are keyed with a model text where the student
+book asks for one. The recurring classroom moves, where the
+English layer shows them: Listen and repeat runs three times
+(whole class, groups, individuals — the same ×3 pattern as the
+primary guides); the teacher writes substitution tables and
+clock faces on the board (U7 L2 step 10 has the teacher draw
+two clock faces and label the **to** and **past** halves); the
+Bingo numbers are called from a printed script (U4 L1). No
+timing in hours is stated in the English layer, and — a real
+difference from the primary guides — **no song words are
+printed anywhere**: the Introduction promises "some songs," but
+the Alphabet Song is only cued ("Let's sing — The alphabet
+song," printed p.6) and its words stay where the student book
+prints them (student p.4). The one rhyme text the guide does
+print in full is the counting chant (below). No tests, exams or
+assessment material appear anywhere in the book.
+
+## What the guide adds, unit by unit
+
+**Unit 1 — Greeting and Introduction (printed pp.1–13).**
+Time-of-day teaching the student book leaves implicit: the
+Read and say step glosses Good morning, Good afternoon and
+Good evening with the clock hours each one covers — the ranges
+are stated in the Lao procedure text and their digits extract
+as mojibake, so they are filed as present in the guide but not
+quoted. Every closed exercise is keyed: the two gapped
+greeting dialogues in full (p.4); **Listen and circle key: G, X,
+R, K, J, Q, M, Y** (p.5); **Listen and write key — the letter
+groups are ten initialisms: NGO, UXO, UNDP, WHO, MOE, PDR, ODA,
+IMF, NSV, ADB** (p.5), a listening set the student book never
+explains; the capitals key sorting **names / roads / cities /
+countries — Soumaly · Setthathirath Road · Vientiane · Laos;
+Manotham · Lane Xang Road · Luangprabang · Vietnam; Bounmy ·
+Samsenthai Road · Pakse · Thailand; Tim · Khouvieng Road ·
+Hanoi · Singapore; Anna · — · Bangkok · —** (p.6; rows as the
+key prints them, the mismatched cities left as printed). Jobs
+Write key (p.7: nurse, student, policeman, driver, soldier,
+farmer, doctor, teacher); be short answers keyed with both
+forms ("Yes, I'm (I am). / No, She isn't (is not)," p.9); the
+**"What's my job?" guessing game scripted** — a job word
+written on a slip, Student B asks "Are you a teacher? — No, I'm
+not… Are you a nurse? — Yes, I'm" (pp.9–10); the Translation
+exercise keyed in full, five sentences (p.10). Lesson 3: the
+reordered introduction dialogue keyed in full — the third
+person is **Khamhou** ("Siboun, this is Khamhou. — Nice to meet
+you too, Siboun," p.12) — and the first passage's true/false key
+(a. F b. T c. F d. F e. F f. T, p.13).
+
+**Unit 2 — Classroom Language (printed pp.14–22).** The
+commands key in teaching order (write, read, look, listen,
+copy this, repeat, stand up, sit down, open, come here, draw,
+Close — p.15); the unscramble key (write, open, sorry, read,
+repeat, draw, listen, late — p.17); the object Write-and-say key
+(bag, pencil, ruler, **5.** table, rubber, desk, bench, book,
+chair, paper, pen, window — p.18; the key skips the number 4);
+the guessing game procedure spelled out (student holds an
+object behind the back; class asks Yes/No questions — "Is it a
+pen? — No, it isn't a pen / Yes, it is a pen," p.19); the
+**Is-it key as a worked table** — picture by picture, the wrong
+guess and the right one both printed (ruler, pen, book, door,
+table — pp.19–20); the vowel-completion key adding
+**blackboard** to the student book's object set (rubber, door,
+table, ruler, blackboard, chair — p.20). Can (L3): the note
+step walks the teacher through can/can't models ("I can open
+the window / You can't sit here…," p.22), and the survey step
+prints its model report — "**Manichanh can swim. She can ride a
+bicycle. She can cook. She can't sing…**" (p.22).
+
+**Unit 3 — Countries and Nationalities (printed pp.23–34).**
+The Who-is-this key names the student book's pictured children:
+**Lien — Vietnam; Rohana — Indonesia; Thida — Cambodia; Tuti —
+Malaysia** (p.25), and the word-order key adds **Somphone,
+Somdy, Muhamad of Brunei, and "Caridad and Benjie are from The
+Philippines"** (p.26 — Philippines spelled in full, against the
+student book's exercise slip "The Filippines"). The nationality
+key in full (p.28): Laos–Lao, Thailand–Thai, Indonesia–
+Indonesian, Singapore–Singaporean, Malaysia–Malaysian,
+Cambodia–Cambodian, Vietnam–Vietnamese, China–Chinese,
+**Myanmar–Myanmese (as printed — the guide repeats the student
+book's word)**, Brunei–Bruneian, The Philippines–Filipino;
+name keys after it (Azman is Malaysian; Ha — Vietnam; Kema —
+Cambodia; Nipha is Thai; Chong is Chinese; Indra is
+Singaporean; Caridad is Filipino — pp.28–29); the Thongdy-and-
+Chong passage keyed (p.29: "Yes, he can (speak Lao a little)");
+the word-search grid printed solved (p.30: VIETNAM, SINGAPORE,
+MYANMAR, THAI, CHINESE, CAMBODIAN…). And/but (L3): joining keys
+in full (pp.31–32) and the **can/can't joining key** — "Khounmy
+can buy a radio, but she can't buy a TV. / Bounpheng can make a
+kite, but he can't make a plane. / Somsy can draw a tree, but
+she can't draw a baby. / Sakhone can spell 'table', but he
+can't spell 'chair'" (p.33); the speaks key (Tuti speaks Malay
+and English; Samy speaks Chinese and Thai; Rohana speaks
+Indonesian — p.33); the true/false passage keyed (p.34).
+
+**Unit 4 — Numbers (printed pp.35–45).** The Listen and write
+script's answers (two, three, five, one, four, seven, nine,
+eleven, eight, six, ten, twelve — p.37); the **Bingo call
+script printed** — the twelve numbers in call order ("One,
+three, eight, four, six, five, seven, nine, ten eleven, twelve,
+two") with three sample grids (p.38); the sums key in words
+(p.38: "Three plus seven equals ten… Nine minus one equals
+eight"); **the counting chant printed in full** (p.39) — the
+guide's one fully printed rhyme text, and its third line reads
+"Three, four — **nock** on the door" (the student book prints
+"knock"); the capital-letters step's model text is about
+**Samy of Singapore** ("My name is Samy. I am a student. I'm
+from Singapore… This is my father. His name is Tito…," p.39) —
+not the student book's Vikanda sentences. This/that (L2): both
+Say-and-write keys (pp.40–41) — the near set ("These are books…
+This is a cassette") and the far set ("Those are chairs…
+That's a cassette"), the cassette keyed two ways in the two
+steps; the plural key (doctors, farmers, rulers, schools,
+classes, teachers, students, bags, eggs, ants — p.42). How
+many (L3): the Listen-and-repeat script is the teacher's own
+voice ("There is one bag in picture 1. There are five cats in
+picture 3," p.42); the listen-and-draw script is given only by
+its opening model ("There is a pencil on the table…," p.43);
+the passage keyed (three rooms; no kitchen…; "There are also
+six books and two pencils on the table" — p.44); the crossword
+printed solved (Across: Thailand, Hi, Hotel, On, No, draw;
+Down: Three, Hi, Lao, Look, and — p.44). **Revision (Units
+1–4)** keyed in full (p.45): the am/is/are set and the short
+answers, closing "There are eleven classrooms. / There are
+eight tables."
+
+**Unit 5 — The Family (printed pp.46–56).** The family
+match keyed to English–Lao pairs (p.48); the five his/her
+gap-fill keys in full, the same family told from five sides —
+Manotham, Bounchanh, Soumaly, Manotham again, Sengchanh
+(pp.48–49; key E numbers its gaps (1), (2), (2)); the "John
+Smith" reading key (Mary, Penny, Tom, Dog (Rex), Jane, Tim,
+John Smith — p.49). Have/has (L2): the step examples ("I have
+one bicycle. Davanh has a car," p.50) and the say-and-write key
+(p.51: "Davanh has one brother. / Siboun and Maly have one
+son…"); the possessives key (your, her, my, its, our — p.52);
+the Bounmy passage true/false keyed (p.52). Articles (L3): the
+guide's Grammar-note step states the rule in English prose
+where the student book states it in Lao — an takes the vowel
+sounds (a, e, i, o, u: "This is an egg. This is an umbrella"),
+a the consonant sounds ("I have a car"), the for the
+one-of-its-kind and the already-named ("This is the Mekong. /
+I have a book in my bag. The book is green," p.54); both a/an
+keys (pp.54–55, the second adding **the sun, the moon**); the
+**"Claire on holiday" true/false key in full** (p.56) — "False.
+Claire is from Australia. / True. The capital of Laos is
+Vientiane. / False. Claire has one brother. / False. Mark has
+an ice-cream. / True. Tess and John have one son and two
+daughters. / False. Tess has an orange drink. / True. The
+family is in a restaurant on the Mekong" — the guide spells
+**Claire** throughout, and its Translation key repeats her
+("Claire has one brother and one sister. Their names are Mark
+and Nina," p.56).
+
+**Unit 6 — Every Day Life (printed pp.57–67).** The guide
+prints the lesson's **listening text in full** — a teacher's
+day told in the new times: "Every day, I get up at six
+o'clock. I have a shower at half past six. I watch the news on
+TV from a quarter to seven to seven o'clock. I have breakfast
+at seven o'clock. I go to work at half past seven. I arrive at
+school at five to eight. My work starts at eight o'clock"
+(p.58) — the routine text the student book only numbers. The
+present-simple completion key (go, have, arrives, gets, get,
+make, has — p.60); the **Bounsy listening script printed and
+keyed** ("Bounsy gets up at 7:00. He brushes his teeth. He has
+a shower. He gets dressed. He has breakfast and goes to school
+by bicycle" — script p.60, key p.61). Every morning (L2): the
+routine match keyed to its Lao (p.62); the do/does Grammar-note
+step works from printed example sentences ("I get up at five
+o'clock. I watch TV in the evening. I read a book before going
+to bed. I play football on the weekend. I stay at home on
+Sunday," p.63); the short-answer key ("Does Ammaly cook? Yes
+she does. / Do Tess and Tim live in Australia? Yes, they do…,"
+p.63). Getting up early (L3): the mother's-day ordering keyed
+as nine third-person sentences (p.65: "She gets up at five
+o'clock… She feeds the pets"); the Saysana circle-the-form
+passage printed with its choices in place (p.65); the **-s
+pronunciation step** — the guide walks the teacher through
+/s/ /z/ /iz/ before the student book's page (p.66). **Revision
+(Units 5–6)** keyed (pp.66–67): word-order answers ("My sister
+watches TV. / Do they have lunch? / Tess has an orange juice…")
+and the "What's in my bag?" game run as a pocket chain ("I
+have a pen in my pocket. — The teacher has a pen in his
+pocket."), closing with the short-answer dialogue key
+(Is Nipha Vietnamese? No, she isn't… — p.67).
+
+**Unit 7 — The Times (printed pp.68–82).** Numbers keyed as
+before; the sums key in full words (p.71: "Fifty multiplied by
+two equals one hundred. / Twenty-five minus ten equals
+fifteen…"); the How old passage keyed (p.72: "She is eighteen
+years old… He is forty five years old… Phethanousone is
+Vilayvone's brother"). What's the time (L2): the ask-and-answer
+key — **six times: six o'clock, ten to seven, twenty five past
+eight, eight o'clock, a quarter past eight, a quarter to
+eight** (p.73); the **listen-and-draw key — eight times**
+(twenty past six, five to seven, twenty-five past one, ten to
+two, ten to eleven, twenty-five past twelve, ten past two,
+five past eight — p.74); the **Thiphavanh model paragraph
+printed in full** (p.74 — "Thiphavanh gets up at six o'clock.
+She goes to the bathroom and has a shower at half past six.
+She listens to the radio at half past seven. She catches the
+bus at eight o'clock and goes to the market at a quarter past
+eight. She arrives home at five o'clock"), with the step
+around it naming the writing points in English — capital
+letter, full stops, and "indentation at the start of
+paragraph"; the Manykone passage keyed (p.75). Bounta and
+Chanmala (L3): the lesson opens with the guide's own
+**Formal / Conversational table** (p.78) — 7:15 "seven fifteen /
+a quarter past seven," 7:30 "seven thirty / half past seven,"
+7:45 "seven forty five / a quarter to eight" — the only place
+in either book that sets the two ways side by side; the
+Chanmala routine key as a question-and-answer table (p.79);
+the **Listen and draw script printed in full** — three workers'
+mornings (Khamphanh the teacher, Siboun the policeman,
+Viengkham the teacher — p.80) with its key table (p.81) — and
+the two disagree once, below; the survey step's model report
+("Somdy is from Laos. She lives in Vientiane. She is a
+student…," p.81) and the routine-passage key (p.82).
+
+**Unit 8 — Days and Months (printed pp.83–96).** The frequency
+set is listed with **rarely** in it (always, usually, often,
+sometimes, rarely, never — p.85) and the Grammar-note step's
+six printed example sentences (p.85–86: "I always teach English
+on Tuesday morning. / I usually ride my motorbike to school. /
+I often go to the market on Sundays. / I sometimes read the
+newspaper in the morning. / I rarely eat ice-cream. / I never
+listen to the radio"); the How often step works classes of
+large-class group work in its procedure (Lao layer). Months
+(L2): the days-in-month dialogue model ("How many days are
+there in April? — There are 30 days in April," p.89) and the
+ordinal teaching notes — ordinals written 1st, 2nd, 3rd… 12th,
+and the line-up examples "Bounmy is the first student in the
+line. Kham is the second student in the line" (p.89); the
+Write keys in full (ordinals: Thirty-fifth, Twenty-fourth,
+Ninety-third, Twenty-ninth, Forty-ninth, Seventy-first,
+Twelfth, Forty-first, Eighty-sixth, Fifty-second, Sixty-fifth,
+Fiftieth; the jumbled months; the word search solved — p.90);
+the dates passage keyed (the twentieth of January; the eighth
+of March; Pi Mai "from the thirteenth to sixteenth of April";
+the first of May; the first of June — p.91). Important dates
+(L3): the **holidays match keyed** (p.93: 1st January New
+Year's Day; 8th March Women's Day; 13th–16th April Pi May Lao;
+1st May Worker's Day; 1st June Children's Day; 7th October
+Teacher's Day; 12th October Independence Day; 2nd December
+National Day); the birthday-survey procedure with its group
+report model ("In my group, two students have birthdays in
+September, one student has birthday in December…," p.93); the
+at/on/in key in full (pp.94–95, six sentences) and the
+Phethanousone key (his birthday is 29th September; alms to the
+monks; gifts — p.95).
+
+**Unit 9 — Parts of the Body (printed pp.97–112).** Head (L1):
+the vocabulary step's picture-pointing game (the class split
+in two groups, points for right answers — procedure in Lao);
+the have/has got Grammar-note step with its printed table —
+"have/has | have/has got: I have two eyes. | I have got two
+eyes… Somphone has two ears. | **Somephone** has got two ears"
+(p.99, the name spelled two ways in one table); the opposites
+key as full sentences ("The opposite of long is short…," 
+p.100); the Soumaly passage keyed (p.100–101: eleven years
+old, Saphangmo village, rides her bicycle); the **What's wrong
+key in full** (p.101: "She's only got one ear. / She hasn't got
+a mouth. / She's got two noses. / He's got three eyes. / She
+hasn't got a nose. / He hasn't got ears."). Body (L2): the
+labelling key A–Q (ear, hair, nose, chest, elbow, arm, hand,
+finger, foot, toe, ankle, leg, waist, knee, stomach, shoulder,
+neck — p.103) and the English–Lao match key; the Seng passage
+keyed (p.105 — thirteen, year one of lower secondary, works in
+his backyard, "He sometimes play football with his friends" as
+the key prints it); the **Simon Says step spelled out** — the
+teacher says "Simon says 'touch your nose'"; pupils who move
+when Simon didn't say are caught (p.105; the student book
+names the game on its p.112, the guide gives the running of
+it). Describing (L3): the opposites key (long–short,
+beautiful–ugly, big–small, clean–dirty, fat–thin, old–young,
+tall–short — pp.107–108) and the **three-picture description
+key in full** (p.107–108: "She's an old woman. She's got short
+hair. She's thin. She's a thin, old woman. / He's a fat boy.
+He's very young. He's got fat cheeks. He's got a dirty face. /
+She's tall. She's got long hair. She's a thin girl. She's tall
+and thin."); the grandparents passage keyed and its
+listen-and-say true/false keyed (pp.108); the they/their and
+we/our completions printed filled (p.109 — the our-text's
+teacher is "Mr khamphanh," lowercase k as printed). **Revision
+(Units 7–9)** keyed (pp.110–112): the spoken-sums dialogue, the
+dates match (the student book's own matching exercise, keyed
+by the U8 L3 key above), the at/on/in set repeated, the
+Vilayvone passage key ("She learns English on Monday
+morning"), and a translation exercise whose English side is
+printed (six sentences, p.112).
+
+**Unit 10 — Clothing (printed pp.113–124).** Colours (L1):
+the objective examples ("What colour is it? It's blue..,"
+double stop as printed, pp.113–114); the uniform passage keyed
+(Somphone — white shirt and blue Lao skirt, by motorbike,
+green helmet, "arrive at school at five to eight," p.115); the
+adjective-position note step restated in English ("I have a
+white house. / My house is white," p.115); the **butterfly
+listening grid keyed in full** — six butterflies by place and
+colour ("on the nose of the buffalo — yellow and green," 
+p.116); the market passage keyed (Phethanousone; his mother
+picks a white shirt and asks him to try it on — p.117).
+Wearing (L2): the say-and-tick key by picture letter (shoes,
+trousers, tie, T-shirt, socks, hat, skirt, coat — p.118); the
+Present Continuous note step's models ("we are studying
+English. I am listening to the teacher," p.119); the
+**listen-and-circle text printed in full** — five people in a
+queue, each described by shirt, trousers and shoes (Thongdy,
+Sengchanh, Chong, Phonesay, Dasavang — p.120; key Thongdy C,
+Chong B printed, the rest of the key cut off in the step as
+extracted); the Vilayvone-and-Koulap passage keyed (p.120).
+Doing (L3): the Which note step ("which colour do you like?
+which food do you like?," p.121); the What's-happening verb
+table printed with its -ing sentences (skip, feed, ride, do,
+talk, cook, sleep — p.122); the usually/today passage keyed
+and the mixed completion keyed in full (p.123 — "He usually
+goes to school at half past seven. / She always gets up at
+half past five. / Phethanousone always gets up late on
+weekends…").
+
+**Unit 11 — The Past (printed pp.125–139).** Sengchanh (L1):
+the past is introduced through the teacher's own example
+("Did she clean the floor yesterday? Yes, she did," p.126);
+the match key (1.D 2.A 3.C 4.E 5.B — p.127); the **shopping
+passage keyed in full** (pp.127–128 — she bought fish,
+vegetables, soft drink, beef, eggs, meatballs, noodles and
+fruits; they made a fire for barbecues; friends came at four
+to help and gave her many presents) — the student book's
+birthday text answered. When (L2): the regular/irregular note
+step in English (regular verbs add -ed; irregular verbs
+change — p.129); the time-phrase key (Boualy watered the
+garden yesterday; Khampha read a book last night; Phouvanh
+went fishing last week; Somphone washed the dishes last
+night; Chanthavone watched TV an hour ago — p.130); the
+completion key, ten ago/last sentences (p.130–131); the
+fishing passage keyed (Namkhem Stream, fishing rods, three
+kilos of fish, home at five — p.131); the **jumbled past words
+keyed** (planted, watered, listened, played, studied,
+telephoned — p.132) and the look-and-listen key by letter.
+Weekend (L3): the model exchange ("Did you have a nice
+weekend? Yes, I did. I had a very nice weekend," p.133); the
+**picnic listening text printed in full** (p.134 — "Last
+Sunday, I had a picnic with my friends. We went there by car…
+We came back home a at five o'clock in the evening," the
+doubled "a at" as printed); the regular/irregular step
+("go went, do did," p.134); the Manotham passage keyed
+(p.135) and the completion dialogue keyed (p.135). **Revision
+(Units 10–11)** keyed (pp.137–139): the **listening dialogue
+printed as a script** — "What colour is your shirt? — It's
+white. / What are you wearing? — I am wearing a blue shirt,
+black trousers and red shoes. / What colour is the teacher's
+shirt? — His shirt is brown. / Which colour do you like? — I
+like black, blue and yellow colours" (p.137); the colour-logic
+key ("Mango is never pink. The ripe mango is yellow. When the
+light is red, you have to stop…," p.138); the English–Lao
+matching printed; the final completion key, ten sentences
+(p.139).
+
+**Settles against the student filing.** (1) The student book's
+ASEAN-table exercise slip "The Filippines" (student p.29):
+the guide's key prints "Caridad and Benjie are from **The
+Philippines**" (guide p.26) — the guide is right there. (2)
+"Clair / Claire" (student p.65): the guide writes **Claire**
+in every key (guide pp.56, 60) — the intended name is Claire;
+the student passage's split spelling stands as the student's
+own. (3) "Chanhmala" in a student worked example (student
+p.60): the guide writes **Chanmala** (Contents; Unit 7 L3) —
+supporting Chanmala. (4) "Myanmese": the guide **repeats it**
+in its nationality key (guide p.28) — not a one-book slip;
+both books print it, and it stays filed as printed in both.
+(5) The student book's "casette" (student p.47): the guide's
+keys print "cassette" both times (guide pp.40–41) — though
+inconsistently framed ("This is a cassette" in one step,
+"That's a cassette" in the next). (6) The student book's
+picture-only Listen and draw (Unit 7 L3) gets its script and
+key here — and the guide disagrees with itself inside it:
+Viengkham "has breakfast at **a quarter to seven**" in the
+script (guide p.80) but the key table gives her breakfast at
+**7:45** (guide p.81); Khamphanh's and Siboun's rows match
+their scripts exactly. (7) The Alphabet Song: the guide does
+**not** print its words — the student book (p.4) remains the
+only printed source; the guide's one printed rhyme, the
+counting chant, differs from the student book at one word
+("nock" for "knock," guide p.39). (8) The student book's
+capital-letters note works on sentences about Vikanda; the
+guide's counterpart model text is about Samy of Singapore
+(guide p.39), and the guide adds its own punctuation teaching
+— capital letter, full stops, paragraph indentation — around
+the Thiphavanh paragraph (guide p.74).
+
+## New for the course
+
+- **The teacher's layer for every Laos Grade 6 lesson** — an
+  objective line, a step-by-step running, and a key for every
+  closed exercise in the book; the course's Laos G6 sources
+  can now be checked against the guide as well as the book
+  (guide Contents, printed pp.II–III; keys throughout).
+- **Level 9, Telling the Time** — the **Formal / Conversational
+  table** (guide p.78): seven fifteen beside a quarter past
+  seven, seven forty five beside a quarter to eight — the only
+  formal-vs-spoken split in the Laos set; plus eight keyed
+  listen-and-draw times (guide p.74) and the six-time
+  ask-and-answer key (guide p.73).
+- **Level 9, Days and Months** — the holidays key with all
+  eight Lao days dated (guide p.93) and the ordinal keys to
+  93rd (guide p.90), matching the student book's teaching with
+  the teacher's answers.
+- **Level 12, Present Actions** — two printed listening texts
+  in the present simple that the student book only numbers:
+  the teacher's day (guide p.58) and Bounsy's morning (guide
+  p.60); the do/does short-answer key (guide p.63).
+- **Level 12, Past Actions** — the picnic listening text in
+  full (guide p.134) and the shopping-passage key (guide
+  pp.127–128): two complete past-tense texts with their
+  answers, beside the student book's Sengchanh and fishing
+  passages.
+- **Level 14, The Paragraph** — a second model day-paragraph,
+  Thiphavanh's, printed whole with its punctuation points
+  named (guide p.74), beside the student book's family
+  paragraph (student p.117); and the Samy model text for
+  name/road/city/country capitals (guide p.39).
+- **Level 15, Reading Whole Texts** — the queue text (guide
+  p.120): five people described by what they are wearing, a
+  listening text that reads as a passage; the Revision
+  listening dialogue script (guide p.137).
+- **Sounds Together / games stock** — Simon Says with its
+  running spelled out (guide p.105), the Bingo call script
+  (guide p.38), the "What's my job?" guessing game scripted
+  (guide pp.9–10), and the guide's chant text with its "nock"
+  slip (guide p.39).
+
+**Slips recorded as printed (the guide's own):** the cover
+imprint year **2009** against its own Introduction's date of
+01 February 2010 (and the student cover's 2010) · no
+"Teacher's Guide" title on the cover — the book names itself a
+guide only in the Introduction (printed p.I) · the
+Introduction's own "Some minor errors may also contain in some
+instructions" (p.I) · Contents: "**Nationlities**" (p.II) ·
+Contents lists the Unit 11 head at p.129 but its Lesson 1 at
+p.126 (p.III) · Contents' Unit 10 Lesson 1 at p.114 against the
+unit head at p.113, and Unit 11 Lesson 1's title lowercased
+"What did sengchanh do?" (p.III) · the unit-overview running
+heads are garbled in the file — Unit 5's opener headed "Unit
+1 / Unit Five," Unit 6's "Unit 1 / Unit Five / Unit 6," Unit
+8's "Unit 1 / Unit Eight," Unit 10's "Unit 1 / Unit Ten /
+Unit 8" (PDF pp.50, 61, 87, 117) · Unit 3's overview titles
+Lesson 3 "I'm from **Lao**. And you?" against the Contents'
+"I'm from Laos. And you?" (PDF p.27) · Unit 6's overview
+titles Lesson 3 "My mother gets up early" against the lesson's
+own head "Getting up early" (printed pp.57, 64) · "Yes, I'm"
+for "Yes, I am" in the guessing-game script and again in the
+Translation key (printed pp.9–10) · the U2 L1 key's last item
+capitalised "Close" mid-list (p.15) · the U2 L2 key skipping
+the number 4 (p.18) · "**nock** on the door" in the chant
+(p.39) · the cassette keyed "This is a cassette" in one step
+and "That's a cassette" in the next (pp.40–41) · key E of the
+family gap-fills numbering its gaps (1), (2), (2) (p.49) ·
+"He is forty five years old" unhyphenated in a key (p.72) ·
+"January has **31days**" in a vocabulary example (p.88) ·
+"**Somephone** has got two ears" against "Somphone has two
+ears" in the same table (p.99) · "He sometimes **play**
+football" inside a keyed model answer (p.105) · "It's blue.."
+with a double full stop in the Unit 10 objectives (pp.113–114)
+· "Mr **khamphanh**" with a lowercase k in a filled completion
+(p.109) · "**Listen and comple**" as a step head (p.133) ·
+"came back home **a at** five o'clock" in the picnic text
+(p.134) · the Revision (10–11) part B headed "A. What color is
+it?" — part A's letter repeated, and American "color" the one
+time (p.137) · "always gets up late on **weekend**" in the
+final key (p.139) · the Viengkham script/key disagreement
+(script "a quarter to seven," key table 7:45 — pp.80–81).
+
+**FULLY READ 2026-10-27.** Read page by page from the text
+layer (the book has a real English text layer, doubled as
+noted); the cover/credits page was checked on a render (PDF
+p.1). The Lao procedure text was read through its English
+examples, models and keys, as the file note above states.
+**CITATION CHECK PASSED 2026-10-27** — anchors re-opened and
+confirmed on their pages: Introduction "first in a series of
+seven teacher's guides… keys of the lessons, some reading
+texts for listening, some songs and games" (printed p.I) ·
+Contents "Nationlities" and Unit 11 at 129 over its Lesson 1
+at 126 (pp.II–III) · cover credits with the 2009 imprint (PDF
+p.1, render) · gapped-dialogue keys in full (p.4) · Listen and
+circle key G X R K J Q M Y (p.5) · initialisms key NGO UXO
+UNDP WHO MOE PDR ODA IMF NSV ADB (p.5) · names/roads/cities/
+countries key with Tim–Hanoi–Singapore (p.6) · jobs Write key
+(p.7) · "Yes, I'm (I am) / No, She isn't (is not)" (p.9) ·
+guessing game "Are you a nurse? — Yes, I'm" (pp.9–10) ·
+Translation key, five sentences (p.10) · Khamhou dialogue key
+(p.12) · true/false key a.F b.T c.F d.F e.F f.T (p.13) ·
+commands key ending "12. Close" (p.15) · unscramble key with
+"sorry… late" (p.17) · object key skipping number 4 (p.18) ·
+Is-it worked table, ruler/pen/book/door/table (pp.19–20) ·
+"Manichanh can swim… She can't sing" (p.22) · Lien/Rohana/
+Thida/Tuti key (p.25) · "Caridad and Benjie are from The
+Philippines" (p.26) · nationality key with "Myanmese" (p.28) ·
+solved word-search grid (p.30) · "Khounmy can buy a radio, but
+she can't buy a TV" (p.33) · Bingo call script and grids
+(p.38) · chant in full with "nock on the door" (p.39) · Samy
+of Singapore model text (p.39) · cassette keyed two ways
+(pp.40–41) · plural key ending "10. ants" (p.42) · "There are
+also six books and two pencils on the table" (p.44) · solved
+crossword grid (p.44) · Revision 1–4 key "There are eleven
+classrooms / eight tables" (p.45) · family keys A–E with E's
+(1), (2), (2) (pp.48–49) · have/has key "Davanh has one
+brother" (p.51) · possessives key your/her/my/its/our (p.52) ·
+article rule in English prose, "This is the Mekong" (p.54) ·
+a/an key with the sun/the moon (p.55) · Claire key "False.
+Claire is from Australia… Mark has an ice-cream" (p.56) ·
+listening text "I arrive at school at five to eight" (p.58) ·
+Bounsy script and key (pp.60–61) · "Does Ammaly cook? Yes she
+does" (p.63) · mother's-day key, nine sentences (p.65) · -s
+sounds step /s/ /z/ /iz/ (p.66) · sums key "Fifty multiplied
+by two equals one hundred" (p.71) · clock key "It's ten to
+seven… a quarter to eight" (p.73) · listen-and-draw key, eight
+times (p.74) · Thiphavanh paragraph in full with "indentation
+at the start of paragraph" (p.74) · Formal/Conversational
+table, 7:45 "seven forty five / a quarter to eight" (p.78) ·
+Khamphanh/Siboun/Viengkham script with "a quarter to seven"
+(p.80) against its key table's 7:45 (p.81) · frequency
+examples "I rarely eat ice-cream" (pp.85–86) · ordinal key
+"Thirty-fifth… Fiftieth" (p.90) · holidays key, eight days
+(p.93) · at/on/in key, six sentences (pp.94–95) · have got
+table "Somephone has got two ears" (p.99) · What's wrong key
+"She's only got one ear… He's got three eyes" (p.101) · body
+key A = ear … Q = neck (p.103) · Simon Says running (p.105) ·
+"He sometimes play football" in a key (p.105) · three-picture
+description key (pp.107–108) · they/their, we/our completions
+with "Mr khamphanh" (p.109) · butterfly grid key, six rows
+(p.116) · queue listening text, five people (p.120) · shopping
+passage key, "meatballs, noodles and fruits" (pp.127–128) ·
+jumbled past words key "pdetanl = planted… denohpelet =
+telephoned" (p.132) · picnic text "came back home a at five
+o'clock" (p.134) · Revision listening dialogue script (p.137)
+· final key "Phethanousone always gets up late on weekend"
+(p.139) · no ISBN anywhere (whole text layer searched; cover
+render checked) — 60 anchors, all on their pages.
+
+**Course filing state:** FILED — this section stands in
+`english/books/laos.md`. With it, the Laos Grade 6 pair is read
+whole — student book and teacher guide — and the Laos run
+continues at Grade 7.
