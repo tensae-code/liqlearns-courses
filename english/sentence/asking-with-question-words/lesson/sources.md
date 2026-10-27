@@ -1,6 +1,6 @@
 # Sources — Asking with question words
 
-countries: Bangladesh, Egypt, Mongolia
+countries: Bangladesh, Egypt, Mongolia, Laos
 
 Every part traces to its book and page.
 
@@ -26,9 +26,22 @@ Technical Education. Filed in english/EGYPT-BOOK-MAP.md
 | "What time do you wake up?" Q&A — the when-question answered whole with an at-time | Egypt, Primary 3 Term 1, Daily Routines lesson, p.25 |
 | "How many days are there in a week?" — "There are 7 days in a week" (the count question in its first home) | Egypt, Primary 1 Term 2, Unit 1 "My Week," Lesson 1, p.6 |
 
-**Acceptance count: taught in 3 countries (Bangladesh, Egypt,
-Mongolia).** Mongolia tables the family with its answer
+**Acceptance count: taught in 4 countries (Bangladesh, Egypt,
+Mongolia, Laos).** Mongolia tables the family with its answer
 shapes; Bangladesh gives the words their voice; Egypt has
 drilled the questions and whole answers since the youngest
 books. Other finished countries join as their books are read
 (see READING-QUEUE.md).
+
+**Laos Grade 4 added 2026-10-27** — *English for Lao Primary
+Schools, Student's Book 2, Grade 4* (MoES/RIES, 2012; full read
+in english/books/laos.md). Laos's whole book runs on question
+frames — nearly every lesson is one: **What are these?** (p.19)
+· **Who's he / she?** (p.40) · **How many…?** (p.23) · **How old
+are you?** (p.66) · **How's the weather today?** (p.78) · **What
+day is today?** (p.82) · **Where's the…? / Where are the…?**
+(pp.87, 91) · **What do you want?** (p.105) · **What shape is
+it? / What colour is it?** (p.117) · **What's your favourite
+colour?** (p.122) · **What animals do you like?** (p.126). Each
+frame is taught the same way: a dialogue first, then the frame
+worked over the lesson's word set.

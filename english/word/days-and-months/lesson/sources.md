@@ -1,6 +1,6 @@
 # Sources — Days and months
 
-countries: Bangladesh, Egypt
+countries: Bangladesh, Egypt, Laos
 
 Every part traces to its book and page.
 
@@ -25,8 +25,8 @@ Textbook Board (NCTB). Filed in english/books/bangladesh.md
 | A CALENDAR 2025 with all twelve months, Sunday-first, Fri/Sat in red; "February is the ______ month" completed for all twelve; before/after pairwork on months; unscramble month names | Bangladesh, English for Today Class 4, Unit 30 "Months of the Year 1," pp.60–61 |
 | The THIRTY-DAYS rhyme printed as a poster ("There are thirty days / In September, / April, June and November. / All the rest have thirty-one, / Except February, / Which has twenty-eight days clear, / And twenty-nine in each / Leap Year.") beside a February 2024 calendar showing the 29th; written answers: months with 30 days, with 31, with 28 or 29; days in a year; days in a leap year | Bangladesh, English for Today Class 4, Unit 31 "Months of the Year 2," pp.62–63 |
 
-**Acceptance count: taught in 2 countries (Bangladesh,
-Egypt).** Egypt carries the days first (its school-week
+**Acceptance count: taught in 3 countries (Bangladesh,
+Egypt, Laos).** Egypt carries the days first (its school-week
 order, Saturday-first); Bangladesh carries the days on a
 Sunday-first calendar, the months with their ordinal numbers,
 the capital rule, and the days-in-a-month rhyme. The two
@@ -34,3 +34,14 @@ books start the printed week on different days — the lesson
 shows both, per the standing rule for when books differ.
 Other finished countries join as their books are read (see
 READING-QUEUE.md).
+
+**Laos Grade 4 added 2026-10-27** — *English for Lao Primary
+Schools, Student's Book 2, Grade 4* (MoES/RIES, 2012; full read
+in english/books/laos.md). Laos teaches the days in one lesson:
+**all seven days printed on one page, Monday first** in the
+page's arrangement (p.83), inside the frame **"What day is
+today? — Today is Sunday. / Is it Monday today? — No. It's
+Tuesday"** (p.82), with copy and gapped-name writing after
+(p.85). So the week-order split now stands three ways — Egypt
+Saturday-first, Bangladesh Sunday-first, Laos Monday-first —
+shown to the learner as the books print it.

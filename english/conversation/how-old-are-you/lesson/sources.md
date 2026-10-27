@@ -1,6 +1,6 @@
 # Sources for this lesson — How old are you?
 
-countries: Egypt, Libya
+countries: Egypt, Libya, Laos
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -17,7 +17,7 @@ Libya (Garnet) · Books verified on disk 2026-10-25.
 | "I'm Muna. I'm 7." — age in a self-introduction | Libya Primary 2 Pupils Book (the year's lead child, Muna) |
 | "How old are you? — I'm 8." (Omar) | Libya Primary 3 Pupils Book, Unit 1 Lesson 1, book pp.8–9 |
 
-**Acceptance count: taught in 2 countries (Egypt, Libya) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
+**Acceptance count: taught in 3 countries (Egypt, Libya, Laos) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 Egypt and Nicaragua's filed books ask names in their greeting
 material, not age — so they are not counted here. The count grows
 as other finished countries' books are read.
@@ -30,3 +30,13 @@ the frame "I am …. years old." (p.6); the fill-in dialog asks it
 again (p.8). Egypt's form is the FULL form, "years old" said whole —
 beside Libya's short classroom exchange. This changes the count:
 **taught in 2 countries (Egypt, Libya).**
+
+**Laos Grade 4 added 2026-10-27** — *English for Lao Primary
+Schools, Student's Book 2, Grade 4* (MoES/RIES, 2012; full read
+in english/books/laos.md). Age is its own lesson (Lesson 9):
+**"Happy birthday, Nanthida! How old are you? — I'm sixteen
+years old"** (p.66), a look-and-say set of ages 8–15 in numerals
+(p.67), and a birthday song that counts the years up — "One,
+two, three, four, five, six, / Seven years old! / Now I'm seven
+years old" (p.69). The age answer rides on the numbers climb:
+the same lesson's second half counts 31–50.

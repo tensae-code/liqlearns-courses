@@ -44,3 +44,16 @@ oranges, ten papayas (p.87). On that same page the counted fruit
 turns into **five picture addition sums** to complete — counting
 and first adding on one page, the same next step Palestine takes
 in its Revision unit.
+
+**Laos Grade 4 added 2026-10-27** — *English for Lao Primary
+Schools, Student's Book 2, Grade 4* (MoES/RIES, 2012; full read
+in english/books/laos.md). Grade 4 climbs in three steps, always
+word + numeral together: **11–20** printed over their numerals
+(p.6), **21–30** in full (p.24), **31–50** as a numeral-over-word
+grid (p.71). **How many…?** arrives as its own question (p.23).
+The counted numbers turn into sums whose answers are written as
+English words — "12+5= 17 seventeen" (p.26), again at 31–50
+(p.73) — and the final revision drills the teen/ty pairs by ear
+(15/50, 13/30, 14/40…, p.135) and plays Bingo to 50 (p.138).
+Same country as the Grade 3 block above, the next book up — the
+count does not change.
