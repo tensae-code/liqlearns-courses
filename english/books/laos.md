@@ -2219,3 +2219,584 @@ credits checked on renders) — 24 anchors, all on their pages.
 `english/books/laos.md`. With it, the Laos primary series is
 read whole on both sides — student books and teacher guides for
 Grades 3, 4 and 5 — and the Laos run continues at Grade 6.
+
+## Grade 6 (ມ.1) Student Textbook — FULLY READ + CITATION CHECK PASSED 2026-10-27
+
+The first book of the SECONDARY series ("Book One") — a new series,
+not a fourth primary book: where the primary set ran three books
+(Grades 3–5), this one opens a run of **seven** textbooks for the
+new 12-year school system. Source copy: the public mirror the
+library's secured copy came from (GitHub Xaypanya/Lao-Textbook,
+`textbooks/secondary/m1/m1_english.pdf`). Working copy verified
+against the library record before reading: **9,922,104 bytes,
+151 PDF pages — both match the record exactly (VERIFIED-TEXT)**.
+Read by a checking agent; the draft waits to be folded into
+laos.md.
+
+## The book itself
+
+"ENGLISH FOR SECONDARY SCHOOLS" — no grade number on the cover;
+the record's Grade 6 (ມ.1, secondary year 1) placement is the
+series position (Book One of seven, for the first secondary
+year). Ministry of Education, Research Institute for Educational
+Sciences (RIES), **2010**. PDF p.1 is the front cover itself,
+doubling as the credits page (checked on the render): orange
+cover, the title in pink-and-white display type over a cartoon
+mascot, and the full credits printed on the cover — Advisor
+Ms. Phouangkham Somsanith; Editor in Chief Assoc. Prof. Dr.
+Bouasavanh Keovilay; Managing Editors Mr. Khamphanh
+Phimsipasom and Ms. Viengkham Phonpraseuth; Writers Ms.
+Manivone Phaxayavong, Ms. Bouakeo Vilaylath, **Mr. Thongsouk
+Keomany, Mr. Kittisack Saychoummany** (both new against the
+primary team), Mr. Bounthapany Bounxouay and **Mr. Khambane
+Pasanchay** (new); Design and Layout Mr. Khankab Phongoudom
+(a new name in that chair too); imprint line "Ministry of
+Education — Research Institute for Educational Sciences —
+2010." PDF p.2 is the **Introduction** (English, then the same
+in Lao): "English textbook for secondary school Book One is the
+first in a series of seven textbooks" answering the reform of
+general education from 11 years to 12; the extra secondary year
+was added in academic year **2009–2010**; written by the Foreign
+Language Research and Resource Center at RIES with the Faculty
+of Letters, National University of Laos, funded this time by
+the **Basic Education Sector Development Project (BESDP)** —
+not AusAID/Save the Children as in the primary books; the same
+admission as the primary books ("the textbook is produced under
+the time pressure; therefore, some minor errors could not be
+avoided"); signed "Vientiane Capital, 01 February, 2010." PDF
+pp.3–4 are the Contents (printed pp. II–III): **11 units, three
+lessons each**, a Revision after Units 1–4 (printed p.54), after
+Units 5–6 (p.77), after Units 7–9 (p.118) and after Units 10–11
+(p.144), and a Bibliography on the last page (p.147). **No ISBN
+is printed anywhere** — checked on the cover/credits page, the
+Introduction and the Bibliography page; the book has no back
+cover or colophon page (it ends on the Bibliography). **Page
+offset: printed folio = PDF page − 4** (checked at printed p.1
+= PDF p.5, the clock Grammar note p.88 = PDF p.92 — render —
+and the Bibliography p.147 = PDF p.151). File notes: the PDF is
+print-protected the same way as the primary pair (copying
+disabled, RC4); its English text layer is clean but **doubled**
+— most lines sit in the file twice (a ghost layer under the
+visible one, which is why the credits extract with every line
+repeated); its Lao layer extracts as mojibake under the same
+legacy font encoding as Grades 4–5 — the Lao was read on the
+English-facing structure where it mattered, and the several
+Grammar notes whose rules are stated only in Lao are filed here
+by their English tables and examples. Every interior page
+carries the running unit head, a printed folio, and the faint
+slanted Lao "RIES" watermark.
+
+**Standing against the primary series — what the secondary book
+changes.** (1) **It starts over.** Secondary year 1 assumes
+nothing: greetings, the alphabet, numbers 1–12, classroom words,
+can/can't and the family are all taught again from zero — then
+carried much further than the primary books ever took them. (2)
+**Grammar becomes a system.** The primary books almost never
+named a rule (Grade 5's plurals-in-the-word-list was as far as
+it went); this book prints a headed **Grammar note** in nearly
+every lesson — be, can, this/that/these/those, there is/are,
+have/has, articles, the present simple, do/does, the clock,
+frequency adverbs, at/on/in, have got, the present continuous,
+the past simple — each a table of statements / questions /
+short answers. No other Laos book filed so far does this.
+(3) **Pronunciation arrives**: two sound systems the primary
+books never printed — the three sounds of verb -s (/s/ /z/
+/iz/, p.77) and the three sounds of -ed (/t/ /d/ /id/, p.138).
+(4) **Reading is in every lesson**: a short passage with
+questions (or true/false) closes nearly every lesson from
+Unit 1 Lesson 3 on — where Grade 5 managed two passages in the
+whole book. (5) **Writing steps up**: sentence-building from
+word tiles and prompts throughout, and the first named
+**paragraph** ("Write a paragraph about one of your family
+member," p.117, with a model paragraph). (6) The lesson shape
+changes: the primary books' fixed eight steps (Look, listen and
+repeat → … → Let's …) give way to numbered activities under
+named heads (Vocabulary with Lao glosses, Listen and repeat,
+Grammar note, Read and answer, Write, Games, Translation), and
+**Lao→English translation exercises** — absent from the
+primary books — recur from Unit 1 on. (7) The series is openly
+built on outside grammars: the Bibliography (p.147) names
+Gammidge's Grammar Works 1 (Cambridge, 1998), Headway Beginner
+(Oxford, 2008), Murphy's English Grammar in Use, 2nd ed.
+(1994), New English File (Oxford, 1997) — and a 1998 predecessor,
+"English for Lao Secondary Schools (book 1)" (Phandamnong et
+al., Ministry of Education, 1998), so this 2010 Book One is a
+revision of a 1998 series opener.
+
+## The map, unit by unit
+
+**Unit 1 — Greeting and Introduction (printed pp.1–13).**
+*Lesson 1, Hello. How are you? (pp.1–4):* greeting vocabulary
+with Lao glosses (hello/hi, good morning/afternoon/evening,
+fine, thank you, bye/goodbye, How are you?); the greeting
+dialogue ("Hello. How are you? — Hello. I am fine. Thank you.
+And you?", p.1); pair practice; gapped-dialogue completion;
+**the English alphabet** — capitals and small letters, then
+**vowels (A E I O U) and consonants named as sets** (p.3);
+listen-and-circle the letter heard; write capitals under small
+letters; **"How do you spell your name?" — S-O-U-M-A-L-Y**
+(p.3); copying names sorted into people / roads / cities /
+countries, capitals at work (p.4); the **Alphabet Song**,
+printed in full (p.4). *Lesson 2, Meeting different people
+(pp.5–10):* eight jobs (teacher, student, farmer, nurse,
+doctor, policeman, soldier, driver); "I am a teacher. And you?"
+and the **Are you a…? / Is he a…?** exchanges with Yes, I am /
+No, he is not (p.6); the book's first **Grammar note** (p.8):
+the be table — statements (I am / you, we, they are / he, she,
+it is) across the job words, questions, negatives and short
+answers; **contractions table** (I am = I'm … they are =
+they're, p.9); ask-and-answer and gapped mini-dialogues; the
+guessing game "What's my job?"; a Translation exercise
+(Lao→English, p.10). *Lesson 3, Pleased to meet you (pp.11–13):*
+introducing a third person — "Siboun, this is Bouakeo. —
+Hello, Bouakeo. Pleased to meet you. — Pleased to meet you
+too"; reordering a jumbled dialogue; sentence-writing from name
++ job prompts ("Siboun is a student"); the book's **first
+reading passage** — three short be-paragraphs with a
+true/false check (p.13).
+
+**Unit 2 — Classroom Language (pp.14–25).** *Lesson 1, In the
+classroom (pp.14–16):* twelve commands and classroom words
+(come here, copy this, close the door, draw, listen, look at,
+open, read, sit down, stand up, write, repeat) plus sorry and
+late; label the pictures; listen-and-do in groups; the
+late-for-class dialogue — "I'm sorry. I'm late. — That's all
+right" (p.16); unscramble-the-word writing. *Lesson 2, What's
+this in English? (pp.17–20):* thirteen classroom objects (bag,
+bench, book, chair, desk, door, paper, pen, pencil, rubber,
+ruler, table, window); **What's this? — It's a… / Is it a pen?
+— No, it isn't** exchanges built over the set (pp.19–20);
+jumbled-letter spelling (gab, lcipne, rrule…, p.18); word–
+picture matching; letter-completion spelling drills (p.20).
+*Lesson 3, Can you do this? (pp.21–25):* action words (cook,
+dance, eat, jump, read a book, read the sign, ride a bicycle,
+sing, swim, touch the fan) with can/can't in the word list
+itself; a **can Grammar note** (p.22) — statements, Can you /
+he / she…? questions, short answers Yes, I can / No, he can't,
+and the notice that the verb does not change; pair dialogues;
+a tick/cross can-table read into sentences ("Bounmy can read
+the sign. He can't sing"); a class **Can you…? survey** and six
+written sentences about yourself and friends (p.25).
+
+**Unit 3 — Countries and Nationalities (pp.26–39).** *Lesson 1,
+Where are you from? (pp.26–29):* the eleven ASEAN countries
+(Laos, Vietnam, Cambodia, Thailand, Myanmar, Malaysia,
+Indonesia, Singapore, the Philippines, China, Brunei) named on
+a map of the region (p.26); "I'm from Laos. Where are you
+from?"; word-order sentence building (from / he / is / Where →
+Where is he from?, p.29). *Lesson 2, Nationalities (pp.30–34):*
+the nationality adjectives for the same eleven (Lao, Thai,
+Cambodian, Vietnamese, Chinese, Myanmese as printed,
+Indonesian, Malaysian, Singaporean, Bruneian, Filipino);
+"I'm from Thailand. — Oh! You're Thai"; a three-column table —
+**Countries / Nationalities / Languages** — the languages being
+Lao, Thai, Indonesian, English (for Singapore), Malay (Malaysia
+and Brunei), Khmer, Vietnamese, Chinese, Myanmese, Tagalog
+(p.33); a reading passage (Thongdy and his Chinese friend
+Chong, "He can speak a little Lao") with questions; a word
+puzzle. *Lesson 3, I'm from Laos. And you? (pp.35–39):*
+**and/but joining** — two same-country statements fold into
+"Thongdy is from Laos, and Soutchay is from Laos. They are
+from Laos," and different countries take but (pp.35–36), with
+a Note box (Singular is / Plural are); joining practice
+("Join the following sentences with and or but," p.37);
+speaks-language sentences ("Lien speaks Vietnamese and Lao,"
+p.38); can/can't joined with but; a true/false passage
+(pp.38–39).
+
+**Unit 4 — Numbers (pp.40–54).** *Lesson 1, Numbers 1–12
+(pp.40–43):* the twelve number words re-taught with plus,
+minus, equal and everyday words (buckle, knock, lock, gate,
+pick up, back again — the chant's words glossed first); count
+and write; **complete the number words with the right vowels**
+(_n_, tw_, thr_ _…); Bingo; **sums said and written in words**
+— "Eight plus four equals twelve" (p.42) and five written sums
+(p.43); the counting chant **"One, two, buckle my shoe"**
+printed in full (p.43); a **Capital letters Grammar note**
+(p.43) — the rule stated in Lao, the English example being
+three sentences about Vikanda. *Lesson 2, This is a pen. These
+are pens (pp.45–49):* **this/that/these/those** — "What is
+this? — This is a pen. / What are these? — These are pens"
+(p.45), that/those for far things (p.47); a Grammar note and a
+**Grammar summary** (p.49) that turns into the book's **plural
+rule**: one bag → two bags, with the note (in Lao) and the
+English examples box–boxes, dish–dishes for the **-es** ending
+after s, x, ch, sh; write-the-plural drill over ten nouns.
+*Lesson 3, How many…? (pp.50–53):* **there is / there are** and
+**How many…?** — "There are six books in the picture"; a
+true/false classroom-counting game; "How many houses are there
+in this village? — There are six houses"; listen-and-draw; a
+**there is/are Grammar note** (p.52) with Is there…? / Are
+there…? and short answers; a passage with five questions; a
+crossword. **Revision (Units 1–4)** (p.54): am/is/are gap-fill
+and short-answer completion across Units 1–4, closing with two
+How many…? questions answered in words.
+
+**Unit 5 — The Family (pp.55–66).** *Lesson 1, My family
+(pp.55–58):* the family set (father, mother, parents, brother,
+sister, son, daughter, children, grandfather, grandmother,
+grandparents) with **my, his, her, its** in the same list; a
+labelled family tree adding husband and wife (p.56); his/her
+gap-fill paragraphs told from four family members' sides;
+"John Smith" — a short family text with his/her/its name
+sentences ("This is my dog. Its name is Rex," p.58); write
+sentences about your own family. *Lesson 2, I have one brother.
+He has… (pp.59–62):* **have/has** — the Grammar note table
+(I/you/we/they have; he/she/it has, p.59) over family and
+things; our, their, your join the possessives; a **subject
+pronouns ↔ possessive adjectives table** (I–my, you–your, he–
+his, she–her, it–its, we–our, they–their, p.61); choose-the-
+possessive sentences; the Bounmy family passage with
+true/false (p.62). *Lesson 3, Articles (pp.63–66):* **a/an and
+the** — "This is a star / an ant / an egg" against "This is
+the sun / the moon / the Mekong River / the Presidential
+Palace" (p.63); the Grammar note (p.64) states the a/an rule
+by first sound (the rule text is in Lao; the examples are
+English: "There is an umbrella in the room. I have an apple.
+There is a book on the table. We have a car"); a/an gap drill;
+the **"Claire on holiday"** passage — an Australian family in
+Vientiane, told in a/an/the and have/has — with a say-true-or-
+false routine (pp.65–66) and a Translation exercise.
+
+**Unit 6 — Every Day Life (pp.67–78).** *Lesson 1, What do you
+do every day? (pp.67–70):* routine verbs (get up, get dressed,
+make the bed, brush, have breakfast/lunch, have a shower, go
+to school, arrive, go home, live) with clock faces read as
+"It's 6:00 / 6:30 / 7:00" (p.67); Manotham's numbered morning
+("Every morning Manotham gets up at six o'clock… He arrives at
+school at seven thirty," p.69); the **Simple Present Tense
+Grammar note** (p.69) — I/you/we/they get up, live, go, have
+against he/she/it gets up, lives, goes, has; sentence
+completion; listen-and-order the morning; talk about your own
+routine. *Lesson 2, Every morning (pp.71–74):* more routine
+words (brush hair, clean the house, do the homework, feed the
+chicken, take, walk, watch TV); **Do/Does questions** — the
+Grammar note (p.73) tables statements, Do I/you/we/they…? and
+Does he/she…? questions, and short answers (Yes, I do / No, she
+doesn't); a class survey ("Do you get up at six o'clock?") whose
+answers become **eight written sentences** about yourself and
+friends, negatives included ("I don't walk to school," p.74).
+*Lesson 3, Getting up early (pp.75–77):* house-and-chore words
+(clean, garden, kitchen, living-room, dining room, bathroom,
+yard, wash clothes, water the garden, feed the pets, market,
+vegetable, fruit, pet, pupil); a mother's day read and put in
+order ("She gets up at five o'clock. She cleans the yard… She
+washes the clothes in the bathroom," p.76); circle-the-correct-
+form reading; and the book's **pronunciation page** (p.77):
+**the three sounds of -s — /s/ gets, takes, looks, writes,
+repeats, eats, puts; /z/ lives, arrives, comes, draws, listens,
+reads; /iz/ brushes, closes, watches, washes**. **Revision
+(Units 5–6)** (pp.77–78): word-order building, short answers,
+and the "What's in my bag?" group game.
+
+**Unit 7 — The Times (pp.79–92).** *Lesson 1, Numbers 13–100
+(pp.79–82):* the numbers in a grid (13–29, then the tens to
+100, p.79); write-the-number-in-words (90 = ninety… 21, 31,
+100, p.80); symbol matching (+ plus, − minus, × multiplied by,
+÷ divided by, = equal); sums worked in full words ("One
+hundred divided by two equals fifty," p.81); **How old…?** —
+"Happy birthday! How old are you? — I'm twelve years old
+today" (p.81) and "How old is your brother? — He is twenty
+two"; the Vilayvone family-ages passage with questions; write
+four sentences about your family. *Lesson 2, What's the time?
+(pp.83–88):* the full clock system — o'clock, **a quarter past,
+half past, a quarter to, and minutes past** ("Twenty five past
+eight," p.83); ask-and-answer over clock faces; listen-and-draw
+the hands; a routine-and-times completion; the Manykone
+passage told entirely in the new times ("She goes to school at
+a quarter to eight," p.86); "What time do you get up every
+day?" pair work; write about your daily routines; the **Grammar
+note is two clock faces** (p.88, checked on the render): the
+left half of the clock is the "To" side (a quarter to, half
+past), the right half the "Past" side (a quarter past, half
+past). *Lesson 3, Bounta and Chanmala (pp.89–92):* two office
+workers' timed days (7:00–9:00 in quarter steps) asked and
+written about — "What time does he take a shower?"; Does…?
+short answers about both routines; listen-and-draw the time; a
+class survey (Do you live in Vientiane? Do you come to school
+by bicycle?…) reported back to the group about friends (p.92).
+
+**Unit 8 — Days and Months (pp.93–103).** *Lesson 1, What day
+is it today? (pp.93–95):* the seven days (listed **Sunday
+first**, p.93) inside a dialogue that carries the lesson's real
+load — **frequency**: "Do you usually come to this market? —
+No, I don't. I sometimes ride my motorbike here. I always come
+here on Sunday mornings"; the **Grammar note (Adverb of
+frequency)** (p.94): always, usually, often, sometimes, never
+(rarely joins in the exercises) placed before the main verb but
+after be — "He usually comes home late. / He is always happy"
+— with question forms; picture sentences for each adverb;
+**How often do you…?** with adverb answers (p.95); write true
+adverb sentences about your English studies ("Are you a good
+English student?"). *Lesson 2, Months and ordinal numbers
+(pp.96–98):* the twelve months; **"How many days are there in
+each month?"** answered by the printed rhyme — "September,
+April, June and November have thirty days. All the rest have
+thirty-one, except February alone, which has twenty-eight
+days clear. And twenty-nine in each Leap Year" (p.96), with
+**leap year** in the word list; ordinals **1st–12th** printed
+numeral over word (first…twelfth, p.97) beside the days and
+months lists; "October is the tenth month of the year. Tuesday
+is the third day of the week"; write ordinals in letters up to
+93rd; jumbled-month spelling; a word search. *Lesson 3,
+Important dates (pp.99–103):* dates read in full — "1st January
+= the first of January … 22nd August = the twenty-second of
+August" (p.99); matching dates to Lao days (New Year's Day,
+Women's Day, Pi Mai Lao 13th–16th April, Workers' Day,
+Children's Day, Teacher's Day, Independence Day, National Day
+2nd December, p.100); "When is your birthday? — My birthday is
+on the … of …"; the **at/on/in Grammar note** (p.101): at seven
+o'clock / at night / at weekends; on Monday / on 1st January;
+in the morning / in April — with pair practice and gap-fill;
+the Phethanousone birthday passage (alms to monks, a party,
+"At midnight, he cuts the cake") with questions (p.102); write
+about your English class.
+
+**Unit 9 — Parts of the Body (pp.104–120).** *Lesson 1, Parts
+of head (pp.104–109):* head words (mouth, head, eye, tooth,
+hair, cheek, plus nose, chin, ear, face in the activities) with
+the first describing adjectives (big, small, long, short, fat,
+thin, clean, dirty, cute, ugly, beautiful); the new-baby
+dialogue — "She's got beautiful hair. She's got big eyes"
+(p.105); the **have/has (got) Grammar note** (p.106): have got
+= have, with the short forms table (I have got → I've got; he
+has got → he's got) and model sentences ("They've got long
+hair. The baby's got fat cheeks"); match adjectives with their
+opposites; the Soumaly passage with questions; "What's wrong
+with her? — She's only got one ear" spot-the-difference talk;
+the full **have got table with negatives** (I haven't got… /
+it hasn't got…, pp.108–109); write about your best friend.
+*Lesson 2, Parts of body (pp.110–112):* seventeen body words
+labelled on a figure (chest, elbow, shoulder, neck, arm, hand,
+foot, toe, ankle, finger, leg, waist, knee, stomach, back,
+body, touch); English–Lao matching; the Seng passage ("He has
+two big eyes. His nose is long and small… he has two big arms
+and hands") with questions; **Listen and do — Simon Says**
+("…don't do it because Simon did not say," p.112); describe
+yourself in writing. *Lesson 3, Describing people (pp.113–
+117):* description dialogues ("Hi. I'm Manotham. I'm fat. /
+Hi. I'm Soumaly. I'm tall"); the full opposite set matched
+(tall/short, long/short, ugly/beautiful, thin/fat, big/small,
+clean/dirty, young/old, p.114); build five-sentence descriptions
+of pictured people ("This is Somdeth. He's fat. He is a young
+boy. He's got short hair. He's a clean boy"); the Phouvong and
+Bounheng passage (grandparents in Phonhong) with questions; the
+subject-pronoun ↔ possessive-adjective table again (p.116);
+they/their and we/our passage completion; **"Write a paragraph
+about one of your family member"** with a model paragraph
+(p.117). **Revision (Units 7–9)** (pp.118–120): sums spoken in
+words (multiplied by / divided by), listen-and-write and
+listen-and-draw the times, match Lao dates to their days,
+at/on/in completion (the Unit 8 exercise reused), the
+Vilayvone school-day passage, translation into Lao, write
+about your day.
+
+**Unit 10 — Clothing (pp.121–131).** *Lesson 1, Colours
+(pp.121–124):* ten colours (red, blue, green, yellow, pink,
+brown, white, black, orange, purple); the butterfly dialogue
+("It's a yellow butterfly. It has beautiful wings"); the
+Soumaly school-uniform passage — white shirt, blue Lao skirt
+(sinh), black shoes, "five to eight" for the arrival time —
+with questions (p.122); the **Grammar note on adjective
+position** (p.123): "I have a white house. / My house is white.
+My car is yellow. / I have a yellow car"; a butterfly listening
+grid (Where is it? What colour is it? — 1st to 6th); the
+market passage (trying on a uniform shirt: "The shirt fits him
+very well") with questions; write about your brother or sister
+at a birthday party. *Lesson 2, What are you wearing?
+(pp.125–128):* the clothes set (hat, shirt, T-shirt, jacket,
+coat, trousers, shorts, skirt, blouse, tie, socks, shoes) and
+wear / put on; the uniform dialogue ("What are you wearing? —
+I'm wearing a uniform"); colour + clothes matching; the
+**Present Continuous Tense Grammar note** (p.127): subject +
+be (am/are/is, with the short forms) + V-ing + object, worked
+on "wearing a uniform," negative "She isn't wearing a hat";
+say what your classmates are wearing; the Vilayvone-and-Koulap
+passage; write about a friend in the classroom today. *Lesson
+3, What are you doing? (pp.129–131):* the **Which…? Grammar
+note** (p.129) — "Here are two pens, red and blue. Which
+colour do you like?" — inside a T-shirt-shopping dialogue
+(dark or light blue?); picture sentences in the continuous
+("Siboun's talking on the phone. Maly's cooking dinner");
+the Vilayvone passage that sets **usually** against **today**
+(present simple habit vs present continuous now) with
+questions; a mixed gap-fill; write about a person you know —
+what she/he is doing and wearing now.
+
+**Unit 11 — The Past (pp.132–147).** *Lesson 1, What did
+Sengchanh do? (pp.132–134):* past words glossed (past, plant,
+shopping, volleyball, yourself; do, dust, hard, to water); the
+picture sequence — "She works hard every day. **She worked
+hard yesterday**" — six past sentences (cleaned the floor,
+cooked for the family, washed the dishes, dusted the table,
+watered the flower, watched television, p.132); the **Past
+Simple Tense Grammar note** (p.133): form V1 + ed; statements;
+**Did** questions with the bare verb; negatives with did not
+(didn't); short answers Yes, … did / No, … didn't; Did she…?
+pair practice; an English–Lao matching that mixes past,
+continuous and present sentences; **write about your last
+weekend**. *Lesson 2, When…? (pp.135–139):* time words (ago,
+last night / Sunday / Monday, yesterday); the **regular /
+irregular verb table** (p.136): regular clean–cleaned, dust–
+dusted, water–watered, want–wanted, wash–washed; irregular
+come–came, do–did, go–went, ride–rode, have–had; a dialogue
+with **was** ("Was the Baci interesting? — Yes, it was"); When
+did you…? / What did you do…? dialogues across the ago-phrases
+("Where did you live five years ago? — I lived in Paksong");
+the Oudone fishing passage (went, got, came back — irregular
+verbs at work in a text) with questions; **the three sounds of
+-ed** (p.138): /t/ finished, watched, fished, cooked, danced,
+worked; /d/ played, telephoned, listened, watered; /id/
+dusted, planted, visited; unscramble-the-past-word spelling;
+write about what you did yesterday. *Lesson 3, Did you have a
+nice weekend? (pp.140–143):* the title dialogue ("Did you have
+a nice weekend? — Yes, I did. How about you? — I had a good
+weekend, too"); a gapped weekend narrative (went, swam,
+listened) to complete; a verb-phrase table for telling a
+partner about the past (went to the market, played volleyball,
+watched TV, did my homework, listened to the radio, visited my
+grandmother, worked in the garden, helped my mother); ask-and-
+answer about a partner's weekend; the "Last Sunday" Manotham
+passage (played, visited, watched, came, helped, washed, did,
+went — eight past verbs in nine lines) with questions and a
+true/false routine; write about your last holiday. **Revision
+(Units 10–11)** (pp.144–146): colour and wearing questions,
+colour logic sentences ("Mango is never…", traffic lights),
+an English–Lao matching that runs the whole tense range, and
+a mixed completion. **Bibliography** (p.147): Gammidge,
+Grammar Works (Student's Book 1), Cambridge University Press,
+1998; Liz & John Soars, New Headway (Beginner), Oxford, 2008;
+Murphy, English Grammar in Use, 2nd ed., Cambridge, 1994; New
+English File, Oxford, 1997; Phandamnong et al., English for
+Lao Secondary Schools (book 1), Ministry of Education, 1998;
+Sanoubane et al., English for Lao Government Officials
+(Module 2), 2001.
+
+## New for the course (keyed to the built lessons)
+
+- **Level 2, The Alphabet** — Laos secondary re-teaches the
+  alphabet with **vowels and consonants named as sets** (p.3)
+  and spelling names aloud (p.3); the Alphabet Song printed in
+  full (p.4).
+- **Level 3, Sounds Together** — the series' first printed
+  pronunciation systems: **verb -s in three sounds /s/ /z/
+/iz/** (p.77) and **-ed in three sounds /t/ /d/ /id/** (p.138).
+- **Level 5, Conversation** — greetings re-opened (pp.1–2);
+  introducing a friend grows to a third-person introduction
+  with Pleased/Nice to meet you (pp.11–13); job talk as Are
+  you a…? (pp.5–10); weekend talk (pp.140–143).
+- **Level 6, Word Kinds** — nouns: the **plural -s / -es rule**
+  stated (p.49); pronouns: a **subject pronoun ↔ possessive
+  adjective table** (pp.61, 116); articles **a/an by first
+  sound, the for the one-of-its-kind things** (pp.63–66);
+  adjectives: the full opposite-pairs set (pp.107, 114).
+- **Level 7, Words for the World** — the classroom set re-taught
+  (pp.17–20); **countries, nationalities and languages in one
+  ASEAN table** (pp.26–39); the family with husband/wife (p.56);
+  home rooms (p.75); the body — head (p.104) and body (p.110);
+  clothes and colours (pp.121–128); jobs (p.5).
+- **Level 9, Numbers, Days, and Time** — numbers 1–12 with sums
+  in words and the buckle-my-shoe chant (pp.40–43); **13–100
+  with multiplied by / divided by** (pp.79–82); days Sunday-
+  first (p.93); months with the **thirty-days rhyme and leap
+  year** (p.96); ordinals 1st–12th (p.97); dates as "the first
+  of January" (p.99); the clock completed — **quarter past,
+  half past, quarter to, minutes past** (pp.83–88); **at/on/in
+  for time** (p.101).
+- **Level 10, Building a Sentence** — the be table (p.8);
+  word-order building (p.29); a **capital letters note** (p.43).
+- **Level 11, Questions** — be short answers (p.8); Can you…?
+  (pp.21–25); Do/Does…? (p.73); How many…? (pp.50–53); How
+  old…? (pp.81–82); How often…? (p.95); What time…? (pp.83–92);
+  Which…? (p.129); Did you…? and What did you do…? (pp.132–143).
+- **Level 12, Now, Before, Later** — Laos's first full tense
+  system in one book: **present simple** (pp.69, 73), **present
+  continuous** (p.127), **past simple with its regular/irregular
+  table** (pp.133, 136), and **frequency adverbs** placed and
+  questioned (p.94).
+- **Level 13, Joining and Describing** — **and/but joining**
+  taught as sentence-folding (pp.35–39); **adjective position**
+  — before the noun or after be (p.123); describing people with
+  have/has got (pp.104–117).
+- **Level 14, The Paragraph** — the book's own words: "Write a
+  paragraph about one of your family member," with a model
+  paragraph (p.117).
+- **Level 15, Reading Whole Texts** — a passage with questions
+  or true/false in nearly every lesson from p.13 on (jobs,
+  countries, family, routines, ages, birthdays, uniforms,
+  fishing, a busy Sunday).
+
+**Slips recorded as printed:** "excercise" in an instruction
+(p.2) · "Questions / Interogative" as the Grammar note's own
+heading (p.8) · "Strudents can replace: open the book…" (p.15) ·
+"Listent and repeat the dialoque after the teacher" and "I'm
+from Thanland" in the same dialogue (p.27) · "The Filippines"
+for the Philippines in a word-order exercise (p.29) ·
+"Myanmese" for the Myanmar nationality and language throughout
+(pp.30–38) · "Thanh is Vietnamese. H is Vietnamese." (p.37) ·
+"Muang Muang is Myanmar" and "Agman is from Malaysia" in worked
+examples (p.36) · "casette" (p.47) · "Chanhmala" for Chanmala
+in a worked example (p.60) · the passage heading "Claire on
+holiday" over a text that calls her "Clair" (p.65), and "Read
+and the following passage" in its instruction (p.65) ·
+"Manothay" for Manotham (p.70) · "6'oclock" in the do/does
+table (p.73) · "pronounce works in English" for words (p.95) ·
+"It…….. ………..the eight …… March" (eight for eighth, p.102) ·
+"Kittisack has always got short hair" offered as a model
+sentence (p.107) · "one of your family member" in the paragraph
+task (p.117) · "_____sometime go home" in a completion passage
+(p.117) · "I love butterfly" twice in the colour dialogue
+(p.122) · "Did Sengchang wash the dishes?" for Sengchanh
+(p.134) · the Revision's matching exercise headed "1." with no
+item printed against it (p.145) · the Contents' scrambled unit
+heads as printed (Unit 5's page given as 148 on Contents p. II,
+its lessons at 55/59/63 on p. III).
+
+**FULLY READ 2026-10-27.** Read page by page from the text
+layer (the book has a real English text layer, doubled as
+noted); the picture-carried pages were checked on renders: the
+cover/credits page (PDF p.1) and the clock-face Grammar note
+(printed p.88). **CITATION CHECK PASSED 2026-10-27** — anchors
+re-opened and confirmed on their pages: greeting dialogue
+"Hello. How are you? — I am fine" (p.1) · vowels/consonants
+split (p.3) · "How do you spell your name? — S-O-U-M-A-L-Y"
+(p.3) · Alphabet Song in full (p.4) · be Grammar note with
+"Interogative" (p.8) · contractions table I'm/You're/They're
+(p.9) · "Pleased to meet you" introduction dialogue (p.11) ·
+first passage "Siboun is a student. He is not a teacher" (p.13)
+· "I'm sorry. I'm late. — That's all right" (p.16) · can Grammar
+note (p.22) · eleven ASEAN countries (p.26) · "Thanland" /
+"dialoque" (p.27) · Countries/Nationalities/Languages table
+with "Myanmese" (p.33) · "Join the following sentences with and
+or but" (p.37) · "One, two, buckle my shoe" chant (p.43) ·
+Capital letters note (p.43) · plural -es note "box – boxes,
+dish – dishes" (p.49) · there is/are Grammar note (p.52) ·
+family tree with husband/wife (p.56) · pronouns ↔ possessives
+table (p.61) · "This is an ant. / This is the Mekong River"
+(p.63) · "Clair/Claire on holiday" passage (p.65) · Simple
+Present Tense note (p.69) · Do/Does note (p.73) · -s sounds
+/s/ /z/ /iz/ (p.77) · "How old are you? — I'm twelve years old
+today" (p.81) · "A quarter to eight / Half past eight / Twenty
+five past eight" (p.83) · clock-face Grammar note (p.88) ·
+frequency adverb note "He usually comes home late" (p.94) ·
+thirty-days rhyme and leap year (p.96) · ordinals 1st–12th
+(p.97) · dates "the twenty-second of August" (p.99) · at/on/in
+note (p.101) · have/has (got) note with "I've got beautiful
+eyes" (p.106) · Simon Says "Simon did not say" (p.112) ·
+adjective-position note "I have a white house / My house is
+white" (p.123) · Present Continuous Tense note (p.127) ·
+usually-vs-today passage (p.130) · Past Simple Tense note
+(p.133) · regular/irregular table come–came, go–went (p.136) ·
+-ed sounds /t/ /d/ /id/ (p.138) · "Did you have a nice weekend?"
+(p.140) · Bibliography with Murphy 1994 and the 1998
+predecessor book (p.147) · no ISBN printed anywhere (cover,
+introduction and bibliography checked) — 42 anchors, all on
+their pages.
+
+**Course filing state:** FILED — this section stands in
+`english/books/laos.md`; its basics merge into the built
+lessons next (Telling the Time, Days and Months, Present
+Actions, Past Actions, The Paragraph). The Grade 6 teacher
+guide (143 pp in the library record) is the natural next read,
+on the primary-series
+pattern; the Laos run then continues at Grade 7.
