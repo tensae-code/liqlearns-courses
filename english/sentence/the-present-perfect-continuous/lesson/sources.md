@@ -41,3 +41,16 @@ and drills it as a full lesson with for/since at Grade
 10. Egypt states the complete box at Secondary 12 — the
 last tense its run boxes. Other finished countries join
 as their books are read (see READING-QUEUE.md).
+
+**Laos checked — NOT stocked (series-final, 2026-10-27).**
+All seven Laos secondary books and the three primary books
+were read whole for this tense (filings in
+english/books/laos.md). It is **never named, tabled, or
+drilled anywhere in Laos** — zero hits for "perfect
+continuous" in any book. Book Seven uses it five times
+without teaching it (a scholarship letter, p.13; a driver
+text, p.23; an irrigation text, p.72; a vet-dialogue cloze,
+p.66; its own since/for exercise frames, p.146). Use without
+teaching does not stock a lesson, so Laos is deliberately
+absent from this lesson's countries line — the absence is
+checked, not unlooked-for.

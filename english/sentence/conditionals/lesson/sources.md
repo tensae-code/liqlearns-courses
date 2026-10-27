@@ -54,3 +54,14 @@ and result-clause first (p.44). The honest limit, shown
 plainly beside Egypt's unnamed zero: **Laos has no second or
 third conditional anywhere** — its conditional teaching stops
 at the real one.
+
+**Laos Grade 12 added 2026-10-27 — the series-final verdict**
+— *English for Lao Secondary Schools, Book Seven* (MoES/RIES,
+2016; full read in english/books/laos.md). With the last book
+read, Laos's conditional teaching is settled whole: **only
+the first conditional is ever tabled** (Book Four's "Present
+Real Condition," re-tabled here at pp.58, 98); the second and
+third **never arrive**. The regret shape a third conditional
+would need — **I wish I had / hadn't + past participle** —
+IS taught (p.8), but under "wish," never as a conditional;
+the course files it as wish, not as a conditional from Laos.

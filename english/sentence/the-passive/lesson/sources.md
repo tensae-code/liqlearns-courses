@@ -54,3 +54,11 @@ tabled** (p.32), the past passive inside the rice text, and
 the **present perfect passive tabled** (p.38) — the deepest
 passive in the Laos set, taught through making things: rice,
 silk, sticky-rice baskets.
+
+**Laos Grade 12 added 2026-10-27** — *English for Lao
+Secondary Schools, Book Seven* (MoES/RIES, 2016; full read in
+english/books/laos.md). Book Seven completes the passive:
+an **all-tenses passive note** (p.63), the **causative
+passive** (p.69), the **modal passive** (p.73), and the
+**future and perfect passives** (p.108) — Laos's passive runs
+from its naming in Book Four to the full system here.
