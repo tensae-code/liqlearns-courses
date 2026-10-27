@@ -66,8 +66,9 @@ its own subtitle folder with its own lesson + questions):
   "Words for the World" COMPLETE)
 - Word (tool) → using-the-dictionary (built 2026-10-27 —
   Level 2 Unit 3 COMPLETE)
-- Sentence → building-a-sentence · capital-and-full-stop
-  (built 2026-10-27 — Level 3 Unit 1 COMPLETE)
+- Sentence → building-a-sentence · capital-and-full-stop ·
+  asking-yes-no-questions (built 2026-10-27 — Level 3 Unit 1
+  COMPLETE; Unit 2 opens here)
 - Word (numbers & time) → numbers · days-and-months ·
   telling-the-time (built 2026-10-27 — Level 2 Unit 4
   COMPLETE; **Level 2 COMPLETE**)
