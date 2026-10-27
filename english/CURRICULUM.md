@@ -75,7 +75,7 @@ words for the world around them, and can use a dictionary.*
 - **Unit 3 — Using the Dictionary** ✅: what a dictionary is · finding a
   word by its first letters · what the words in a definition mean
   **UNIT 3 COMPLETE 2026-10-27** (one lesson: using-the-dictionary)
-- **Unit 4 — Numbers, Days, and Time**: counting · the days · the
+- **Unit 4 — Numbers, Days, and Time**: counting ✅ · the days · the
   months with their numbers · telling the time
 
 ## Level 3 — Sentences
