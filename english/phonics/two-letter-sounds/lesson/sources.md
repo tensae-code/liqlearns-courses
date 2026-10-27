@@ -1,6 +1,6 @@
 # Sources for this lesson — Two-letter sounds
 
-countries: Egypt, Libya, Laos
+countries: Egypt, Libya, Laos, Barbados
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The two-letter sets lived inside the alphabet
@@ -18,7 +18,7 @@ single letters.
 | The same pairs re-taught a year later — oa · ee · ue · oo (both) · th (both) · ch · sh | Libya Pupils Grade 2, Unit 2, book pp.19, 25–26 |
 | Qq taught as **qu** — quiet, quack, queen, question | Egypt — English Primary 1 Term 2, PDF p.12 |
 
-**Acceptance count: taught in 3 countries (Egypt, Libya, Laos).**
+**Acceptance count: taught in 4 countries (Egypt, Libya, Laos, Barbados).**
 Counts grow as other finished countries' books are read.
 
 **Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
@@ -141,3 +141,13 @@ Kitty!", p.42), then the child traces and copies the two letters
 as a single pair (p.43) before blending with them — k-i-ck is one
 of the book's first tile blends (p.43). Recorded as printed: the
 pair is taught, traced and copied as a unit.
+
+**Barbados added 2026-10-27** — *Primary Language Arts
+Syllabus, Class One* (Ministry of Education and Human
+Resource Development, Barbados; full read in
+english/books/barbados.md). Barbados sets the two-letter
+sounds as a ministry programme with a printed order: the
+**digraphs th, sh, wh, ch, ph, ck** (Class 1 body, printed
+pp.28–35), the **vowel digraphs ea, ai, oa, ee**, and silent
+letters beside them — the fullest official digraph list the
+course holds.

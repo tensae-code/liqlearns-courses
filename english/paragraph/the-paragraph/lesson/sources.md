@@ -1,6 +1,6 @@
 # Sources — The paragraph
 
-countries: Bangladesh, Egypt, Ghana, Laos
+countries: Bangladesh, Egypt, Ghana, Laos, Barbados
 
 Every part traces to its book and page.
 
@@ -25,8 +25,8 @@ in english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-25).
 | A model paragraph set before the learner, then "WRITE A PARAGRAPH about your favourite…" — model first, own paragraph after | Bangladesh, English for Today Class 5 (as filed) |
 | Examination paragraphs of set length in the senior years (a paragraph of 150–180 words as a writing task) — the paragraph as the judged unit of writing | Egypt, Secondary writing tasks (as filed in the book map) |
 
-**Acceptance count: taught in 4 countries (Bangladesh,
-Egypt, Ghana, Laos).** Ghana names the process and prints the
+**Acceptance count: taught in 5 countries (Bangladesh,
+Egypt, Ghana, Laos, Barbados).** Ghana names the process and prints the
 unity test as a revise question; Bangladesh guides the
 first paragraphs and models them; Egypt examines by the
 paragraph. Other finished countries join as their books are
@@ -64,3 +64,14 @@ named craft: **"A tip for writing"** (p.132) names the parts —
 dissects a model paragraph, and the final revision makes
 learners find those parts in a text and rearrange jumbled
 sentences into one (pp.149–150).
+
+**Barbados added 2026-10-27** — *Primary Language Arts
+Syllabi, Classes 1–4* (Ministry of Education, Barbados; full
+read in english/books/barbados.md). Barbados ladders the
+paragraph across four classes in its shared Scope and
+Sequence grid: topic sentences and transitions first, and
+**"paragraph structure" itself a Class 4-only row** (grid
+item 3.7.6 — begins and ends at Class 4), with Class 3's
+qualitative bar that conventions should "aid rather than
+interfere with reading" and paragraphs developed to hold the
+reader's attention.
