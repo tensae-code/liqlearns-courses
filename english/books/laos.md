@@ -757,3 +757,817 @@ twenty" (guide p.77) · "My name's Sone." in the keyed dialogue
 (guide p.78) · filled Bingo card 31, 40, 42, 23… (guide p.80) ·
 script "Do you want eggs?" (guide p.80) — 40 anchors, all on
 their pages.
+
+## Grade 5 (ປ.5) Student Textbook — FULLY READ + CITATION CHECK PASSED 2026-10-27
+
+The third and last book of the primary series ("STUDENT'S BOOK 3") —
+the **original 2012 Book 3**, the same 2012 original-series printing
+line as the filed Grade 4 Book 2, so like Grade 4 it continues the
+series the older way (no phonics spine; see the standing-against
+note inside). The book's own Introduction calls it "the last
+textbook in a series of three textbooks" (PDF p.3). Source copy:
+the public mirror the library's secured copy came from (GitHub
+Xaypanya/Lao-Textbook, `textbooks/primary/p5/p5_english.pdf`).
+Working copy verified against the library record before reading:
+**5,859,087 bytes, 154 PDF pages — both match the record exactly
+(VERIFIED-TEXT)**. Read by a checking agent; the draft waits to be
+folded into laos.md.
+
+## The book itself
+
+"ENGLISH FOR LAO PRIMARY SCHOOLS — STUDENT'S BOOK 3 — GRADE 5,"
+Ministry of Education and Sports, Research Institute for
+Educational Sciences (RIES), **2012**. PDF p.1 is the whole cover
+spread (back cover, spine, front cover on one landscape sheet),
+checked on the render: the front cover shows a schoolboy in
+white shirt and red scarf beside a cutaway house labelled "a
+bathroom / a bedroom / a living room / a kitchen," under the
+speech bubble "There is … in the house."; the spine reads "3
+ENGLISH FOR LAO PRIMARY SCHOOLS GRADE 5"; the back cover is a
+plain pale panel with no print on it. Credits (PDF p.2): Advisor
+Ms. Phouangkham Somsanith; Editor in Chief Assoc. Prof. Dr.
+Bouasavanh Keovilay; Managing Editors Mr. Khamphanh Phimsipasom
+and Ms. Viengkham Phonpraseuth; Writers Ms. Manivone Phaxayavong,
+Ms. Bouakeo Vilaylath, **Ms. Ladomchanh Khantry, Mr. Alavanh
+Phanthavong** (two new writers against Grade 4 — both of the
+National University of Laos, per the Acknowledgements, PDF p.4)
+and Mr. Bounthapany Bounxouay; design and layout Mr. Khonesavanh
+Chanthavixay. PDF p.3 carries the Lao preface and, on the same
+page, the English **Introduction**: Grade 5 is "the last textbook
+in a series of three textbooks" answering the reform of general
+education from 11 years to 12, English entering from Grade 3 in
+academic year 2009–2010; the books were written by the Foreign
+Language Research and Resource Center at RIES with the Faculty
+of Letters, National University of Laos, with financial support
+from the **AusAID and Save Children Norway** (no "the," as
+printed); contents "mainly stress the illustration base
+learning," the activities stressing the four skills; a teacher's
+guide is provided with the book; and the same admission as Grade
+4 — "the textbook is produced under the time pressure; therefore,
+some minor errors could not be avoided." PDF p.4 is the
+Acknowledgements ("ACKNOWLEGEMENTS" as printed). PDF p.5 is a
+blank page (its text layer holds only a stray "164"). PDF pp.6–11
+are the Contents with the **Competencies** tables, printed
+pp.1–6; PDF p.12 is a blank page carrying only the slanted Lao
+"RIES" watermark. **No ISBN is printed anywhere in the book** —
+checked on the cover spread (including the blank back-cover
+panel), the credits page and the back pages; the PDF ends on the
+Expressions pages with no colophon. Every interior page carries
+the footer "Ministry of Education and Sports — Research
+Institute for Educational Sciences," a printed folio, and the
+faint slanted Lao "RIES" watermark. **Page offset: printed folio
+= PDF page − 12** (checked at printed p.1 = PDF p.13, the number
+grid p.16 = PDF p.28, the board game p.66 = PDF p.78, and the
+last body page p.140 = PDF p.152). All page numbers below are
+printed folios.
+
+**Standing against the Grade 3 and Grade 4 books filed before
+it.** Grade 5 is the 2012 original Book 3, so it stands with
+Grade 4 (2012) against the 2021 revised Grade 3: no phonics
+spine, no letter work of any kind, no six-panel picture stories.
+It runs Grade 4's dialogue-lesson machine unchanged — the same
+running head "Every day English," the same 18 lessons (fourteen
+content lessons, three short Revisions after Lessons 5, 10 and
+14, a final Revision 1–17), the same two sections per lesson and
+the same numbered activity shape. What changes is the load the
+machine carries: this book finishes the number climb (50–100),
+teaches the clock, the calendar (months, ordinals, the date),
+jobs, the body and being unwell, rooms and furniture with the
+full position set — and, in its last revision lessons, it stops
+being only dialogues: **the series' first reading passages and
+its first free writing arrive here** (pp.117, 139), with the
+series' first multiple-choice test items beside them (p.138).
+The name stock is thin — Keo returns from Grade 4, Seng is new,
+and the one named reader in the final text is Kham, spelled
+lowercase in the passage itself (p.139; see slips).
+
+**Structure.** "Every day English" over **18 lessons**: Lessons
+1–5, Revision (Lesson 6), Lessons 7–10, Revision (Lesson 11),
+Lessons 12–14, Revision (Lesson 15), Lessons 16–17, Revision
+1–17 (Lesson 18). Every content lesson is two sections (A and
+B), and every section runs the same numbered shape: **1 Look,
+listen and repeat** (a speech-bubble dialogue) → **2 Look and
+say** (the vocabulary set or pattern over pictures) → **3 Read
+and match** (sentences to pictures, or English to Lao) → **4
+Listen and tick ✓** (a/b pairs, pictures or printed sentences)
+→ **5 Look and write** (gapped copies of the section's
+sentences; in Lessons 4–5 unscrambling letters into words) →
+**6 Let's talk** (a speech-bubble frame to speak) → in many
+sections **7 Let's sing / Let's play (game/puzzle)**. The three
+short Revisions run a one-page pattern bank → Listen and tick →
+Read and match → Look and write / Let's write; Revision 15 adds
+a **Let's read** (p.117) and Lesson 18 adds a friend survey,
+odd-one-out, multiple-choice questions, a second Let's read and
+a Let's write about yourself. The Contents' Competencies tables
+(front printed pp.1–6) give each lesson's page range, and the
+ranges match the body's printed pages exactly (L1 pp.1–9 …
+L18 pp.136–140).
+
+## The lesson map
+
+- **Lesson 1 Classroom objects (singular and plural) (pp.1–9).**
+  **Section A: What's this/that? (pp.1–5).** Dialogue (p.1):
+  "What's this? — It's a calculator. It's blue. / What's that?
+  — It's a pencil case. It's orange." — every object now carries
+  a colour. Look and say (p.2): dust-pan (blue), broom (yellow),
+  rubbish bin (red), CD player (grey), computer (brown), clock
+  (white). Read and match the six sentences to pictures (p.3);
+  Listen and tick (p.3); Look and write — gapped object + colour
+  sentences ("It's _c_oc_. It's wh_t_.," p.4); Let's talk (p.4);
+  **Let's sing (p.5): a clock song in picture gaps — "This is a
+  door / This is a [picture]. That's a [picture]. What's this?
+  It's a [picture]." — closing on two sung lines of "Tick tock.
+  Tick tock."** **Section B: What are these/those? (pp.6–9).**
+  Dialogue (p.6): "What are these? — They are calculators. They
+  are blue. / What are those? — They are pencils. They are red."
+  Look and say (p.7): dust-pans/blue, brooms/yellow, rubbish
+  bins/purple, clocks/white, computers/brown, CD players/grey.
+  Read and match (p.8 — item 6 prints "They are yellows."; see
+  slips); Listen and tick (p.8); Look and write (p.9); Let's
+  talk (p.9).
+- **Lesson 2 Telephone numbers and counting (pp.10–18).**
+  **Section A: What's your telephone number? (pp.10–14).**
+  Dialogue (p.10): "What's your telephone number? — It's 537
+  889. / Is your telephone number 218 339? — No. It's 218 336."
+  Look and say (p.11): numbers read digit by digit in words —
+  "six-one-five-o-eight-six," "two-three-two-nine-nine-seven,"
+  "seven-one-eight-eight-o-two" — **zero is read "o."** Read and
+  match digit-words to numerals (p.12); Listen and tick over
+  printed near-miss numbers (p.12: 215 688 / 215 678…); Look and
+  write — write the digit-words under four numbers (p.13); Let's
+  talk (p.13); **Let's sing (p.14): the telephone number song —
+  "What's your telephone number? (×3) — 123 4456. That's my
+  telephone number." — then the same for his (655 4321) and her
+  (242 4668).** **Section B: Let's count (50–100) (pp.15–18).**
+  Dialogue (p.15): "What number is it? — It's twenty-one. / Is
+  it thirty? — Yes, it is. / Is it forty? — No. It's fifty."
+  Look and say (p.16, checked on the render): **fifty 50,
+  fifty-one 51, fifty-two 52, fifty-three 53, fifty-four 54,
+  sixty 60, seventy 70, eighty 80, ninety 90, one hundred 100 —
+  word over numeral in display type**. Read and match words to
+  numerals, fifty–one hundred (p.17); Listen and tick (p.17);
+  **Look and write (p.18): arithmetic again, answers now running
+  past fifty — "22+32" with the gapped answer "fi_t_ fo_r"
+  (fifty-four), then 85−15, 40×2, 100:2, 37+55**; Let's talk
+  (p.18).
+- **Lesson 3 Time and daily activities (pp.19–27).** **Section
+  A: What time is it? (pp.19–23).** Dialogue (p.19): "What time
+  is it? — It's one o'clock. / Is it three o'clock now? — No.
+  It's four o'clock. / Sorry, I'm late." Look and say (p.20):
+  the o'clock hours two, five, six, eight, ten, twelve — and
+  **"It's seven fifteen. / It's nine thirty."** — half and
+  quarter times written as hour + minutes, the words quarter and
+  half never used. Read and match five times to clock pictures
+  (p.21); Listen and tick (p.21); Look and write (p.22); Let's
+  talk with "Sorry, ……" in the frame (p.22); **Let's sing
+  (p.23): the time song — three verses on one frame: "What time
+  is it? It's eight o'clock. It's time for school. Let's go! /
+  …twelve o'clock. It's time for lunch… / …nine o'clock. It's
+  time for bed…"** **Section B: What time do you…? (pp.24–27).**
+  Dialogue (p.24): "What time do you feed chickens? — At six
+  o'clock. / What time do you water the garden? — At seven
+  o'clock." — Grade 4's two chores return as the time examples.
+  Look and say (p.25): get up, go to school, have lunch, arrive
+  home, go to bed. Read and match (p.26): "I have lunch at
+  eleven thirty. / I go to school at seven o'clock. / I arrive
+  home at five o'clock. / I get up at six o'clock. / I go to bed
+  at nine o'clock." Listen and tick over printed digital times
+  (p.26: 10:00/5:00, 11:30/7:00, 6:00/6:30…); Look and write —
+  gapped "I ______ at ______" routine sentences (p.27); Let's
+  talk (p.27).
+- **Lesson 4 Months of a year (pp.28–36).** **Section A: Months
+  (January–June) (pp.28–31).** Dialogue (p.28): "What month is
+  it? — It's January. / Is it February? — No. It's March." Look
+  and say (p.29): the six months against their numbers 1–6.
+  Read and match English to Lao (p.30); Listen and tick over
+  printed month pairs (p.30); **Look and write (p.31): a new
+  writing shape — unscramble the letters into the month: "a J n
+  r u y a = January," then June, February, April**; Let's talk
+  over the six month names (p.31). **Section B: What's the date
+  today? (pp.32–36).** Dialogue (p.32): "What's the date today?
+  — It's the1st of January. / Is it the 7th of March? — No. It's
+  the 8th of March." (the dropped space in "the1st" is as
+  printed; see slips). Look and say (p.33): **the ordinals
+  1st–15th printed as numeral over word — first, second, third,
+  fourth, fifth, sixth, seventh, eighth, ninth, tenth,
+  eleventh, twelfth, thirteenth, fourteenth, fifteenth**. Read
+  and match ordinal words to numerals (p.34); Listen and tick
+  over printed date pairs (p.34); Look and write —
+  letter-unscrambles of ordinals (p.35: "h f u o t r = fourth"
+  worked, then fourteenth, fifteenth, tenth, twelfth); Let's
+  talk over 1st January–6th June (p.35); **Puzzle game (p.36): a
+  word search — find and circle FEBRUARY, MARCH, APRIL, JUNE,
+  MAY, FOURTH, FIFTH, SIXTH** (the grid's filler rows spell out
+  other whole words as printed, EL SALVADOR among them).
+- **Lesson 5 Months of a year (continue) (pp.37–45).** **Section
+  A: Months (July–December) (pp.37–40).** Dialogue (p.37): "What
+  month is it? — It's October. / Is it September? — No. It's
+  November." Look and say (p.38): the six months against 7–12.
+  Read and match English to Lao (p.39); Listen and tick (p.39);
+  Look and write — unscrambles (p.40: August, October, July,
+  December, September, November); Let's talk (p.40). **Section
+  B: What's the date today? (pp.41–45).** Dialogue (p.41):
+  "What's the date today? — It's the16th of July. / Is it the
+  22nd of November? — No. It's the 23rd of November." over two
+  printed month calendars. Look and say (p.42): **the ordinals
+  16th–31st — sixteenth, seventeenth, eighteenth, nineteenth,
+  twentieth, twenty-first, twenty-second, twenty-third,
+  twenty-fourth, twenty-fifth, twenty-sixth, twenty-seventh,
+  twenty-eighth, twenty-ninth, thirtieth, thirty-first**. Read
+  and match full dates to Lao (p.43); Listen and tick (p.43);
+  Look and write — gapped dates ("It's s_x t e_nth July. /
+  Today is the 6th of _u_u_t.…," p.44; its Let's talk list
+  below prints "31st September"; see slips); Let's talk over
+  six dates (p.44); **Puzzle game (p.45): a word search for
+  JULY, AUGUST, SEPTEMBER, OCTOBER, NOVEMBER, DECEMBER**.
+- **Lesson 6 Revision (Lessons 1–5) (pp.46–48).** Look, listen
+  and repeat (p.46): four mini-dialogues recapping this/that,
+  these/those, the telephone number ("It's 559 517"), and time
+  + month + date in one exchange ("What time do you go to bed?
+  — I go to bed at eleven o'clock"; "What's the date today? —
+  It's the 2nd of December"). Read and match seven sentences to
+  pictures (p.47); Listen and tick over printed pairs — numbers
+  80/100, months, dates (pp.47–48); Let's write — gapped
+  sentences across all five lessons (p.48).
+- **Lesson 7 Professions (pp.49–57).** **Section A: Who's he/she?
+  (pp.49–52).** Dialogue (p.49): "Who's he? — He's my father.
+  He's a doctor. / Who's she? — She's my mother. She's a nurse."
+  — Grade 4's family question grown into jobs, with the
+  contraction note **"Who's = who is" printed on the page
+  (p.49)**. Look and say (p.50): brother, sister, teacher,
+  student, aunt, uncle, farmer, mechanic under the frame
+  "He/She's my…. He/She's a …." Read and match (p.51): "He is a
+  farmer. / She is a student. / He is a teacher. / She is a
+  doctor. / He is a mechanic." Listen and tick (p.51); Look and
+  write — gapped job sentences (p.52); Let's talk (p.52).
+  **Section B: Who are they? (pp.53–57).** Dialogue (p.53):
+  "Who are they? — They are students. They learn English."
+  Look and say (p.54): **the job-description pairs — "They are
+  teachers. They teach English. / They are farmers. They grow
+  rice. / They are mechanics. They fix cars. / They are doctors.
+  They treat patients."** Read and match the five pairs to
+  pictures (p.55); Listen and tick (p.55); Look and write —
+  gapped verb sentences under each job (p.56; item 5 prints
+  "They are farmer."; see slips); Let's talk (p.56); **Let's
+  play game (p.57): a crossword — Down/Across clues are the job
+  descriptions ("They treat patients. They are ______."), the
+  grid part-filled (the clue for doctors stands twice, Down 1
+  and Across 5; see slips)**.
+- **Lesson 8 Daily activities (pp.58–66).** **Section A: Daytime
+  activities (pp.58–61).** Dialogue (p.58): "What do you do in
+  the morning? — I feed chickens. / What do you do in the
+  afternoon? — I learn English." Look and say (p.59): morning —
+  I brush my teeth, I wash my face, I have breakfast; afternoon
+  — I have lunch, I learn English. Read and match the five
+  routine sentences to pictures (p.60); Listen and tick (p.60);
+  Look and write — gapped routines ("I _e_ up in the m_ _n_ _
+  _.," p.61); Let's talk (p.61). **Section B: Evening activities
+  (pp.62–66).** Dialogue (p.62): "What do you do in the evening?
+  — I arrive home. / What do you do at night? — I go to bed."
+  Look and say (p.63): evening — I take a bath, I have dinner, I
+  watch TV, I do homework; at night — I go to bed. Read and
+  match (p.64); Listen and tick (p.64); Look and write (p.65);
+  Let's talk (p.65); **Let's play game (p.66, checked on the
+  render): a board game — a Start→Finish track of activity
+  pictures (getting up, eating, studying, going home, sleeping)
+  with no printed words beyond Start and Finish**.
+- **Lesson 9 Parts of the body and health matters (pp.67–75).**
+  **Section A: What's this/What are these? (pp.67–71).**
+  Dialogue (p.67): "What's this? — It's an eye. / What are
+  these? — They are hands." Look and say (p.68): **the body set
+  with its plurals printed beside each word — head, ear(s),
+  tooth (teeth), hand(s), finger(s), chest, stomach, knee(s),
+  leg(s), toe(s) — under the frames "It is my……" / "They are
+  my……"** Read and match eight body sentences to pictures
+  (p.69: toes, stomach, mouth, legs, fingers, ears, hands,
+  chest — mouth joins here); Listen and tick (p.69); Look and
+  write — "It's my ______ / They are my ______" (p.70); Let's
+  talk (p.70); **Puzzle game (p.71): a word search — ears,
+  chest, hands, eyes, mouth, legs, fingers, stomach, toes, head,
+  tooth**. **Section B: What's the matter? (pp.72–75).**
+  Dialogue (p.72): "What's the matter? — I have a stomachache. /
+  — I have a toothache." Look and say (p.73): the four troubles
+  — a cold, a toothache, a headache, a stomachache. Read and
+  match (p.74); Listen and tick (p.74); Look and write (p.75);
+  Let's talk (p.75).
+- **Lesson 10 Ability and inability (pp.76–84).** **Section A:
+  What can/can't he/she do? (pp.76–79).** Dialogue (p.76): "What
+  can she do? — She can dance and sing. / What can he do? — He
+  can ride but can't swim." — can asked about a third person,
+  and two verbs joined in one answer. Look and say (p.77): "He
+  can ride and jump. / She can dance and sing. / He can climb
+  but can't ride. / He can run but can't swim." Read and match
+  the four (p.78); Listen and tick (p.78); Look and write —
+  "She can …… and …… / He can …… but can't ……" (p.79); Let's
+  talk (p.79). **Section B: What's wrong? (pp.80–84).**
+  Dialogue (p.80): "What's wrong? — I can't find my pencil. /
+  — I can't reach the bookshelf." Look and say (p.81): can't
+  hear the teacher, can't see the board, can't find my pencil,
+  can't reach the bookshelf. Read and match (p.82); Listen and
+  tick over printed sentence pairs (p.82 — its distractors
+  reach back to Grade 4: "I can't climb the tree," "I can't fly
+  the kite"); Look and write (p.83); Let's talk (p.83); **Let's
+  sing (p.84): the "What's wrong?" song — Andy cannot find his
+  book, hear the teacher, reach the bookshelf, find his pencil
+  or see the board; the last verse turns third person ("He
+  can't hear the teacher… He can't find his pencil"); two lines
+  of the printed song are rows of question marks (see slips)**.
+- **Lesson 11 Revision (Lessons 7–10) (pp.85–87).** Look, listen
+  and repeat (p.85): a one-page pattern bank — Who are they?,
+  What do you do in the morning?, What's this?/What are these?
+  over the body set, What's the matter?, What can he/she do?
+  ("He/she can ride but can't jump" — a pairing the lessons did
+  not print), What's wrong? Listen and tick over printed pairs
+  (p.86 — **its first pair is third person: "He has a toothache.
+  / He has a headache," the book's one "He has"**); Read and
+  match routines to day-parts (p.86); Look and write (p.87 —
+  incl. **"Is he a teacher? / Are they doctors?" answers left to
+  write, yes/no profession questions that appear only here**);
+  Let's write — gapped sentences incl. "I am a t_ _ _ _ _ _, I
+  _ _ _ _ E_ _ _ _ _ _." (p.87).
+- **Lesson 12 Rooms in a house (pp.88–96).** **Section A:
+  There's…/Is there…? (pp.88–91).** Dialogue (p.88): "Is there a
+  kitchen in the house? — Yes, there is. / Is there a dining
+  room in the house? — No, there isn't." Look and say (p.89):
+  "There is … in the house" — a bathroom, a bedroom, a living
+  room, a kitchen. Read and match the four room sentences
+  (p.90); Listen and tick (p.90); Look and write — gapped room
+  names (p.91); Let's talk (p.91). **Section B: Are there…?
+  (pp.92–96).** Dialogue (p.92): "Are there beds in the bedroom?
+  — Yes, there are. / Are there pots in the living room? — No.
+  They are in the kitchen." Look and say (p.93): "There are …"
+  — toilets in the bathroom, stoves in the kitchen, armchairs
+  in the living room, lamps in the bedroom. Read and match
+  (p.94); Listen and tick (p.94); **Look and write (p.95): word
+  tiles again — build "There are two bedrooms." (worked order
+  shown by the tiles), then the question tiles "Are there
+  stoves in the kitchen?", "There are fans in the living room.",
+  "Are there chairs in the dining room?"**; Let's talk (p.95);
+  **Let's play game (p.96): "Where are the…? — Complete the
+  sentences" — the stoves/armchairs/lamps/toilets with their
+  rooms to write**.
+- **Lesson 13 Household objects (pp.97–105).** **Section A:
+  Where's the…? (pp.97–101).** Dialogue (p.97): "Where's the
+  bed? — It's in the bedroom. / Where's the vase? — It's on the
+  table." Look and say (p.98): **the position set completed —
+  "The TV is on the table. / The Sofa is in front of the TV. /
+  The lamp is behind the sofa. / The sofa is between the lamps.
+  / The lamp is next to the sofa."** (the capital S in "The Sofa"
+  is as printed). Read and match five position sentences (p.99);
+  Listen and tick (p.99); Look and write — six Where's
+  questions with the position word gapped ("It's ____ __ the
+  sofa" = behind; the fridge joins the object stock, p.100);
+  Let's talk (p.101); **Let's play game (p.101): a crossword —
+  "next to" runs across and "preposition" down through it**.
+  **Section B: Is the… in the…? (pp.102–105).** Dialogue
+  (p.102): "Is the stove in the kitchen? — Yes, it is. / Is the
+  TV on the chair? — No, it isn't. It's on the table." Look and
+  say (p.103): five position questions with corrections — the
+  fridge next to the cupboard, the wardrobe in the bedroom, the
+  table behind (not in front of) the sofa, the table in front
+  of (not behind) the fridge, "Is the washing machine on the
+  buckets? — No, it isn't. It's between the buckets." Read and
+  match (p.104); Listen and tick (p.104); Look and write —
+  gapped position sentences (p.105); Let's talk (p.105).
+- **Lesson 14 Describing household objects (pp.106–114).**
+  **Section A: Is it a/an…? (pp.106–109).** Dialogue (p.106):
+  "Is it a big sofa? — Yes, it is. / Is it an old sofa? — No.
+  It's a new sofa." — **the adjectives big, small, old, new
+  before the noun, with a/an chosen by the word that follows
+  (a big sofa, an old sofa)**. Look and say (p.107): small
+  armchair yes, big armchair yes, "Is it a new bed? — No, it
+  isn't. It's an old bed." and its mirror. Read and match five
+  described objects (p.108: small armchair, old bed, big sofa,
+  new wardrobe, small cupboard); Listen and tick (p.108);
+  **Look and write (p.109): word tiles, now building questions
+  too — "armchair new a — It's a new armchair." (worked), then
+  tiles for "It's an old cupboard," "Is it a big wardrobe?,"
+  "Is it an old bed?," "It's a small sofa."**; Let's talk
+  (p.109). **Section B: Are they…? (pp.110–114).** Dialogue
+  (p.110): "Are they new armchairs? — Yes, they are. / Are they
+  small armchairs? — No, they aren't. They're big armchairs."
+  Look and say (p.111): new/old cupboards yes; small armchairs
+  no → big; big armchairs no → small. Read and match (p.112);
+  Listen and tick over printed answer pairs (p.112 — "No. they
+  aren't." with a lowercase t stands among them; see slips);
+  Look and write — gapped plurals (p.113); Let's talk (p.113);
+  **Let's play (Puzzle) (p.114): a word search — ARMCHAIRS,
+  BEDS, CUPBOARDS, NEW, OLD, BIG, SMALL**.
+- **Lesson 15 Revision (Lessons 12–14) (pp.115–117).** Look,
+  listen and repeat (p.115): a pattern bank — Is there a fridge
+  in the kitchen?, Are there fans in the dining room? (fans and
+  the fridge ride in from the lessons' edges), Where's the bed?
+  ("It's between the lamp and the wardrobe"), Where are the
+  armchairs?, Is it a new sink? (the sink is new here), Are they
+  big wardrobes? Read and match questions to answers (p.116);
+  Listen and tick (p.116); Look and write — gapped sentences
+  incl. "They are n_w st_ves in the k_tch_n." (p.117); **Let's
+  read (p.117): "Read the text and answer the questions" — the
+  series' first reading passage: a short first-person text
+  about the writer's house (three bedrooms; a kitchen, a
+  bathroom, a living room and a toilet; four armchairs next to
+  the sofa; a TV on the table; a stove in the kitchen —
+  summarised here, not transcribed), then three questions to
+  answer in writing: how many bedrooms, are there armchairs
+  next to the sofa, where is the stove**.
+- **Lesson 16 Clothes (pp.118–126).** **Section A: What are you
+  wearing? (pp.118–121).** Dialogue (p.118): "What are you
+  wearing? — I am wearing a white shirt. / — I am wearing a
+  green shirt." — **the book's first -ing form, in this one
+  corner of the grammar**. Look and say (p.119): a white shirt,
+  a brown jacket, **a blue Lao skirt**, a red cap, a pink
+  T-shirt. Read and match the five (p.120); Listen and tick
+  (p.120); Look and write — gapped clothes sentences (p.121);
+  Let's talk — the frame switches to "I'm wearing a…" (p.121).
+  **Section B: What's he/she wearing? (pp.122–126).** Dialogue
+  (p.122): "What is Keo wearing? — He's wearing black pants. /
+  What is Seng wearing? — She's wearing black shoes." Look and
+  say (p.123): grey shorts, black pants, brown shoes, white
+  socks, blue sandals. Read and match the five (p.124); Listen
+  and tick over printed sentence pairs (p.124); **Look and write
+  (p.125): letter-unscrambles again — "khos c ⇒ socks" (worked),
+  then pants, shorts, sandals, shoes**; Let's talk (p.125);
+  **Let's sing (p.126): "It's time to go" — "Get dressed. Get
+  dressed. It's time to go." then "Put on your ______." lines
+  with the clothes left blank to fill**.
+- **Lesson 17 Foods (pp.127–135).** **Section A: What do you
+  like? (pp.127–131).** Dialogue (p.127): "What do you like? — I
+  like fried rice. / — I like noodles." Look and say (p.128):
+  **the Lao food set — fried rice, sticky rice, noodles, papaya
+  salad, vegetables**. Read and match the five (p.129); Listen
+  and tick (p.129); Look and write (p.130); Let's talk (p.130);
+  **Let's sing (p.131): a four-line hungry/thirsty song — "I'm
+  hungry. I'm hungry. Me, too. / I'm thirsty. I'm thirsty. Have
+  some juice. / … Let's eat!"** — Grade 4's hungry/thirsty
+  carried in a song. **Section B: I like… and… / I like… but I
+  don't like… (pp.132–135).** Dialogue (p.132): "What do you
+  like? — I like noodles and fried rice. / — I like sausage but
+  I don't like fish soup." Look and say (p.133): six joined
+  likes — fish soup and papaya salad; sausage and sticky rice;
+  grilled chicken and noodles; chili sauce but not vegetables;
+  grilled chicken but not fried rice; fried eggs but not
+  noodles. Read and match four joined likes (p.134); Listen and
+  tick over printed pairs that split on and vs but (p.134);
+  **Let's write (p.135): the frame itself to fill — "I like
+  ______ but ______ / I like ______ and ______"**; Let's talk
+  (p.135).
+- **Lesson 18 Revision 1–17 (pp.136–140).** Look, listen and
+  repeat (p.136): a two-page-width pattern bank running the
+  whole book — these/those, the time ("Is it 1 o'clock?" with a
+  numeral, as printed), the date ("It's the 1st of December"),
+  Is there/Are there, "What are they? — They are beds /
+  armchairs / cupboards / wardrobes," "Are they new sofas? — No.
+  They are new beds.," wearing in first and third person. **Look
+  and write (p.137): A. four joined-like frames to fill; B. a
+  friend survey — "Put (√) like, (x) don't like. Ask 2 friends."
+  with a Me / Friend 1 / Friend 2 grid — the series' first
+  class-survey activity**. **Circle the odd one out (p.137):
+  five sets — teacher/doctor/chest; farmer/living room/kitchen;
+  behind/headache/between; arrive/breakfast/lunch;
+  evening/morning/see**. **Choose the right answers (p.138): the
+  series' first multiple-choice test — seven three-option items
+  over the whole book (its options name body words the book
+  never taught — elbows, hair; see slips)**. **Answer the
+  questions (pp.138–139): gapped written answers — "What do you
+  do in the morning? I ______ and ______ in the morning," Is
+  there…? frames, "Where's the table? It's ______ the
+  fridge."** **Let's read (p.139): a second reading passage — a
+  first-person text about a ten-year-old (getting up at six,
+  breakfast at seven, school at seven thirty, what he is
+  wearing today, lunch at twelve, the foods he likes, "I can
+  sing but I can't dance" — summarised here, not transcribed;
+  its first line prints the name lowercase, "My name is kham.";
+  see slips)**. **Let's write (p.139): "Now write about yourself."
+  — eight ruled lines under the model text: the series' first
+  free writing**.
+- **Back matter (printed pp.140–142).** **VOCABULARY (printed
+  pp.140–141): a per-lesson English–Lao word list in three
+  columns** — Lesson 1 dust-pan, broom, rubbish bin, clock,
+  computer, CD player (**calculator and pencil case, the
+  lesson's own dialogue objects, are not in the list**); Lesson
+  2 telephone numbers, **his, her**; Lesson 3 time, daily
+  activities, o'clock, what time…?, get up, go to school, have
+  lunch, arrive home, go to bed; Lesson 4 months, a year, what
+  month?, the month names January–June, date, the first–the
+  fifth; Lesson 5 continue, July–December; Lesson 7 professions,
+  doctor, nurse, farmer, student, teacher, mechanic, teach
+  English, grow rice, fix cars, treat patients; Lesson 8 in the
+  morning/afternoon/evening, at night, learn English, brush the
+  teeth (as printed), wash a face (as printed), have breakfast,
+  take a bath, have dinner, watch TV, do homework; Lesson 9
+  parts, a body, **heath** (as printed) matters, ears, chest,
+  fingers, stomach, toes, knees, a cold, a toothache, a
+  headache, a stomachache; Lesson 10 ride, jump, climb, hear,
+  see, find, reach, a bookshelf, but; Lesson 12 a house, rooms,
+  bathroom, bedroom, living room, kitchen, toilet, stove,
+  armchair, lamp; Lesson 13 in, on, in front of, behind,
+  between, next to, a sofa, a fridge, **a wardrove** (as
+  printed), a washing machine, a bucket, TV (television);
+  Lesson 14 big, small, old, new, a cupboard; Lesson 16 clothes,
+  wear, a shirt, a jacket, a Lao skirt, a cap, a T-shirt, shorts,
+  pants, shoes, socks, sandals; Lesson 17 foods, fried rice,
+  noodles, sticky rice, papaya salad, vegetables, fish soup,
+  sausage, grilled chicken, chili sauce, fried eggs. The three
+  Revision lessons and Lesson 18 have no list. **Expressions
+  (printed pp.141–142): the key sentences of Lessons 1–5, 7–10,
+  12–14, 16 and 17, English with Lao** — including Lesson 2's
+  telephone dialogue whole, Lesson 3's "It's time for bed.,"
+  Lesson 9's body dialogue lines, and Lesson 10's "She can ride
+  but she can't swim." (a fuller form than Lesson 10's own
+  dialogue prints).
+
+**Grammar inventory (every pattern the book teaches, in
+teaching order):** What's this/that? / It's a… (+ colour) (p.1) ·
+What are these/those? / They are… (p.6) · What's your telephone
+number? / It's… · Is your telephone number…? / No. It's… (p.10)
+· digits read as words, zero as "o" (p.11) · What number is it?
+with 50–100 (p.15) · What time is it? / It's … o'clock · Is it …
+o'clock now? / No… · Sorry, I'm late (p.19) · It's seven fifteen
+/ nine thirty (p.20) · It's time for school/lunch/bed (song,
+p.23) · What time do you…? / At … o'clock · I … at … (routine
+statements) (pp.24, 26) · What month is it? / It's… · Is it…? /
+No. It's… (p.28) · What's the date today? / It's the 1st of… ·
+ordinals 1st–15th (pp.32–33) · ordinals 16th–31st (p.42) · Who's
+he/she? / He's/She's my… · He's/She's a… (job) (p.49) · Who are
+they? / They are… · They + plain verb (learn/teach/grow/fix/
+treat) (pp.53–54) · What do you do in the morning/afternoon/
+evening / at night? / I + routine verb (pp.58, 62) · body parts
+with my: It's my… / They are my… (pp.67–68) · What's the matter?
+/ I have a cold/headache/toothache/stomachache (p.72) · What can
+he/she do? / He/She can… and… · …but can't… (pp.76–77) · What's
+wrong? / I can't find/reach/hear/see… (p.80) · There is a… in the
+house · Is there a…? / Yes, there is / No, there isn't (pp.88–89)
+· Are there…? / Yes, there are / No. They are in the… (p.92) ·
+Where's the…? / It's in/on/under/next to… + **in front of,
+behind, between** (pp.97–98) · Is the… in/on/next to…? / No, it
+isn't. It's… (pp.102–103) · Is it a/an + adjective + noun? (big/
+small/old/new) / No. It's a/an… (pp.106–107) · Are they +
+adjective + plural? / No, they aren't. They're… (pp.110–111) ·
+What are you wearing? / I am wearing a… (p.118) · What is he/she
+wearing? / He's/She's wearing… (p.122) · What do you like? / I
+like… · I like… and… · I like… but I don't like… (pp.127, 132).
+Plus one-offs in revisions only: He has a toothache/headache
+(p.86), Is he a teacher? / Are they doctors? (p.87), Is it a new
+sink? (p.115).
+
+**Songs and chants:** the clock song with picture gaps and its
+"Tick tock" close (p.5) · the telephone number song (p.14) · the
+time song — school/lunch/bed verses (p.23) · the "What's wrong?"
+song about Andy (p.84) · "It's time to go / Get dressed" with
+the clothes left blank (p.126) · the hungry/thirsty song
+(p.131). **Stories: none** — dialogues and songs carry the book,
+as in Grade 4; the reading load is carried by the two Let's read
+texts (pp.117, 139), filed in summary only. **Exercise shapes:**
+look, listen and repeat · look and say · read and match (to
+pictures / to Lao) · listen and tick ✓ (picture pairs, printed
+sentence pairs, printed number/date pairs, printed digital
+times) · look and write (gapped sentences; **letter-unscrambles
+pp.31, 35, 40, 125**; **word-order tiles pp.95, 109**) · let's
+write (gapped frames, p.135; free writing, p.139) · let's talk ·
+let's sing · let's play (word searches pp.36, 45, 71, 114;
+crosswords pp.57, 101; a board game p.66; complete-the-sentences
+p.96) · revision pattern banks (pp.46, 85, 115, 136) · **a
+friend survey with √/× (p.137)** · **circle the odd one out
+(p.137)** · **choose the right answers — multiple choice
+(p.138)** · **answer the questions in writing (pp.138–139)** ·
+**let's read — a passage with comprehension questions (pp.117,
+139)**.
+
+## What is new against Grades 3–4
+
+- **The same older machine, one full load heavier.** Grade 5
+  keeps Grade 4's 2012 design exactly — 18 lessons, two sections,
+  the eight-step activity shape, Read and match to Lao, the
+  bilingual back matter — and spends it on finishing every line
+  Grade 4 opened: numbers 11–50 become **50–100 plus telephone
+  numbers**; the days of Grade 4 are joined by **months,
+  ordinals and the date**; Grade 4's in/on/under/next to is
+  completed by **in front of / behind / between**; Grade 4's
+  colour+shape descriptions grow into **adjectives before any
+  household noun, singular and plural**; Grade 3's "There is a…"
+  returns as a full **There is / Is there / Are there** system;
+  Grade 3's ability Can you…? and Grade 4's Can he/she…? settle
+  into **What can he/she do?** with two verbs joined by and/but.
+- **First reading passages in the series.** Grades 3 and 4 have
+  no reading text at all — reading meant matching sentences.
+  Grade 5's Revision 15 prints a short text about a house with
+  three written comprehension answers (p.117), and Lesson 18
+  prints a longer first-person text and then says **"Now write
+  about yourself"** (p.139) — the series' first free writing,
+  three years after Grade 3's single "Write the word."
+- **First test shapes.** "Choose the right answers" (p.138) is
+  the first multiple-choice exercise in the three books, and the
+  friend survey (p.137) the first activity that sends the child
+  to ask classmates and record their answers.
+- **New grammar neither earlier book teaches**: this/**that**,
+  these/**those** (Grade 4 had only this/these); telephone
+  numbers read digit by digit with "o" for zero; the clock —
+  o'clock plus "seven fifteen / nine thirty"; "What time do
+  you…? — At…"; months and the date with ordinals to 31st;
+  professions as their own lesson, with **third-person job
+  descriptions** — "They are teachers. They teach English." —
+  the series' first plain present-tense verbs about other
+  people; daily routines across four day-parts ("What do you do
+  in the morning?"); the body with its plurals printed, and
+  **"What's the matter? — I have a…"**; **"What's wrong? — I
+  can't…"** for classroom troubles; **wearing** — the only
+  present-continuous form in the three books, kept in one lesson
+  (pp.118–123); and likes joined into long answers — "I like
+  sausage but I don't like fish soup" (p.132).
+- **Contraction notes shrink to one**: only "Who's = who is"
+  (p.49) gets a printed box, where Grade 4 boxed four sets; the
+  book otherwise uses there's/isn't/aren't/can't without naming
+  them (the Contents itself heads Lesson 12 "There's… / Is
+  there…?").
+- **Writing steps up again**: letter-unscrambles (spell the word
+  from its jumbled letters — months, ordinals, clothes), word
+  tiles that build **questions** as well as statements (p.109),
+  written answers to comprehension questions (pp.117, 138–139),
+  and the free self-description (p.139).
+
+## What looks new for the LiqLearns English ladder (from this book)
+
+- **Numbers, Days, and Time (Level 9) stock, completed from
+  Laos**: counting finished — fifty to one hundred, word over
+  numeral (p.16), matched (p.17), and added/subtracted/multiplied/
+  divided in words past fifty (p.18); **telephone numbers read
+  digit by digit, zero as "o"** (pp.10–14, song p.14) — a
+  numbers use no built lesson has yet; **Telling the Time in
+  full**: o'clock hours, "seven fifteen / nine thirty" (p.20),
+  "What time do you…? — At six o'clock" (p.24), routine sentences
+  with at (p.26), the time song (p.23); **all twelve months**
+  (pp.29, 38), **ordinals 1st–31st in two grids** (pp.33, 42),
+  and the date frame "What's the date today? — It's the 1st of
+  January" (p.32).
+- **The Home (Level 7) stock**: the room set — kitchen, bathroom,
+  bedroom, living room, dining room (pp.88–89) — with There is /
+  Is there / Are there over them (pp.88–95); household plurals
+  toilets, stoves, armchairs, lamps (p.93); fridge, cupboard,
+  wardrobe, washing machine, buckets, vase, sink (pp.97–115).
+- **Describing Words in a Sentence (Level 13) stock**: big /
+  small / old / new before the noun, with the a/an choice made
+  by the next word's sound — "Is it a big sofa? / Is it an old
+  sofa?" (pp.106–107) and the plural twin "Are they small
+  armchairs? — No, they aren't. They're big armchairs."
+  (pp.110–111); the position set finished — in front of, behind,
+  between beside in/on/under/next to (p.98).
+- **Joining with And and But (Level 13) stock**: abilities joined
+  — "She can dance and sing. / He can climb but can't ride."
+  (pp.76–77) — and likes joined — "I like noodles and fried
+  rice. / I like sausage but I don't like fish soup." (p.132);
+  the and/but split is even the listening test's hinge (p.134).
+- **Asking Yes/No Questions (Level 11) stock**: Is there…? / Are
+  there…? (pp.88, 92) · Is the stove in the kitchen? (p.102) ·
+  Is it a big sofa? / Are they new armchairs? (pp.106, 110) · Is
+  your telephone number…? (p.10) · Is it February? / Is it the
+  7th of March? (pp.28, 32).
+- **Asking with Question Words (Level 11) stock**: What's
+  this/that? (p.1) · What are these/those? (p.6) · What's your
+  telephone number? (p.10) · What number is it? (p.15) · What
+  time is it? (p.19) · What time do you…? (p.24) · What month is
+  it? (p.28) · What's the date today? (p.32) · Who's he/she?
+  (p.49) · Who are they? (p.53) · What do you do in the morning?
+  (p.58) · What's the matter? (p.72) · What can he/she do?
+  (p.76) · What's wrong? (p.80) · Where's the…? (p.97) · What
+  are you wearing? (p.118) · What do you like? (p.127).
+- **Present Actions (Level 12) stock**: the routine present —
+  "I feed chickens / I brush my teeth / I wash my face / I have
+  breakfast / I take a bath / I do homework" across the four
+  day-parts (pp.58–63) — and Laos's first continuous form,
+  wearing: "I am wearing a white shirt. / He's wearing black
+  pants." (pp.118, 122).
+- **The Body (Level 7) stock**: the body set with its plurals
+  printed as the lesson itself — ear(s), tooth (teeth), knee(s)
+  (p.68) — and the health set cold/headache/toothache/
+  stomachache under "What's the matter?" (pp.72–73).
+- **Words for the World (Level 7) stock**: professions — doctor,
+  nurse, teacher, student, farmer, mechanic — with what each one
+  does (pp.49–54); the Lao food set — fried rice, sticky rice,
+  noodles, papaya salad, fish soup, sausage, grilled chicken,
+  chili sauce, fried eggs (pp.127–133); clothes — shirt, jacket,
+  **Lao skirt**, cap, T-shirt, shorts, pants, shoes, socks,
+  sandals (pp.119, 123).
+- **Reading Whole Texts (Level 15) stock**: the first Laos
+  passages a learner reads whole and answers from — the house
+  text with its three questions (p.117) and the about-a-child
+  text (p.139); **The Paragraph's first Laos model**: that same
+  text, and the "Now write about yourself" it feeds (p.139).
+- **Sentence and question building (Levels 10–11) shapes**:
+  word tiles that build a yes/no question (p.109), and
+  letter-unscrambles as a spelling shape (pp.31, 35, 125).
+- **Pronouns (Level 6) stock**: his and her named in the
+  telephone lesson (Vocabulary, printed p.140) and sung —
+  "That's his telephone number / That's her telephone number"
+  (p.14); "He can't find his pencil" in the Andy song (p.84).
+- **Using the Dictionary (Level 8) stock**: the child's own
+  reference pages again — Vocabulary and Expressions, per
+  lesson, English–Lao (printed pp.140–142).
+- Laos-flavoured stock: feeding the chickens and watering the
+  garden as the clock's examples (p.24); growing rice, fixing
+  cars and treating patients as the job descriptions (p.54);
+  sticky rice, papaya salad and chili sauce on the likes table
+  (pp.128–133); the blue Lao skirt in the clothes set (p.119);
+  a board game that walks a school day from Start to Finish
+  (p.66).
+
+**Slips recorded as printed:** "ACKNOWLEGEMENTS" for
+Acknowledgements (PDF p.4), the Grade 4 slip repeated · the
+funder printed as "Save Children Norway" without "the" in both
+the Introduction (PDF p.3) and the Acknowledgements (PDF p.4) ·
+"It's brown" with no closing full stop (p.2) · "They are
+yellows." — the colour word given a plural -s (p.8) · "It's
+the1st of January" (p.32) and "It's the16th of July" (p.41) —
+the space before the ordinal dropped · "31st September" in
+Lesson 5's Let's talk date list (p.44) — September has thirty
+days · Revision 6's dialogue answers the pencils "They are
+orange" (p.46) where Lesson 1's own dialogue makes the pencils
+red (p.6) · "They are farmer." for farmers (p.56) · the Lesson
+7 crossword prints one clue twice — Down 1 and Across 5 are
+both "They treat patients. They are ______." (p.57) · the
+"What's wrong?" song prints two lines as rows of question marks
+— "?????" — where the music goes (p.84) · "The Sofa is in front
+of the TV." with a capital S mid-sentence (p.98) · "No. they
+aren't." with a lowercase t, on the same page that also prints
+"No. They aren't." (p.112) · Lesson 18's bank prints "Is it 1
+o'clock?" with a numeral inside the words frame, and answers
+"Are they new sofas?" with a full "No. They are new beds."
+(p.136) · the final reading text opens "My name is kham." with
+a lowercase k (p.139) · the final test's options name body words
+the book never taught — elbows and hair (p.138; knee stands
+there as an option, though Lesson 9 teaches knee(s)) · in the
+back matter: the Expressions print "What's these? / What's
+those?" for Lesson 1 (printed p.141) where the lesson itself
+asks "What are these/those?"; the Vocabulary prints "a
+wardrove" for wardrobe (Lesson 13, printed p.141), "heath
+matters" for health (Lesson 9, printed p.140), and the glosses
+"brush the teeth" and "wash a face" (Lesson 8, printed p.140);
+the Lesson 1 Vocabulary list leaves out calculator and pencil
+case, the lesson's own two dialogue objects (printed p.140) · a
+file note, not print: this PDF is print-protected (copying
+disabled, RC4) and its Lao text extracts as mojibake under a
+legacy font encoding — the English layer is clean; the Lao was
+read on the rendered pages where it mattered (the cover spread,
+the Lao preface + Introduction page, and the Contents' Lao
+running heads).
+
+**FULLY READ 2026-10-27.** Read page by page from the text layer
+(the book has a real text layer for English); the picture-carried
+and Lao-carried pages were checked on renders: the cover spread
+(PDF p.1), the Lao preface + English Introduction (PDF p.3), the
+blank page (PDF p.5), the watermark-only divider (PDF p.12), the
+50–100 number grid in display type (printed p.16), and the
+Start→Finish board game (printed p.66). **CITATION CHECK PASSED
+2026-10-27** — 57 anchors re-opened in the PDF and confirmed on
+their pages (printed page = PDF page − 12): Introduction "the
+last textbook in a series of three textbooks" (PDF p.3) · "What's
+this? — It's a calculator. It's blue." (p.1) · Look and say
+"dust-pan / broom / rubbish bin / CD player / computer / clock"
+(p.2) · clock song "Tick tock. Tick tock." (p.5) · "They are
+yellows." (p.8) · "What's your telephone number? — It's 537 889"
+(p.10) · the telephone number song (p.14) · number grid "fifty
+50 … one hundred 100" (p.16, on the render) · arithmetic "fi_t_
+fo_r" (p.18) · "Sorry, I'm late." (p.19) · "It's seven fifteen.
+/ It's nine thirty." (p.20) · time song "It's time for bed."
+(p.23) · "What time do you feed chickens? — At six o'clock."
+(p.24) · "What month is it? — It's January." (p.28) ·
+letter-unscramble "a J n r u y a = January" (p.31) · "It's the1st
+of January." (p.32) · ordinals grid "first … fifteenth" (p.33) ·
+word search with EL SALVADOR in the filler (p.36) · "It's
+the16th of July." (p.41) · "31st September" (p.44) · Revision
+dialogue "It's 559 517." (p.46) · contraction note "Who's = who
+is" (p.49) · "They are teachers. They teach English." (p.54) ·
+"They are farmer." (p.56) · crossword "They treat patients.
+They are doctors." (p.57) · "I _e_ up in the m_ _n_ _ _." (p.61) ·
+body set "tooth (teeth)" (p.68) · word search "ears, chest,
+hands, eyes, mouth…" (p.71) · "What's the matter? — I have a
+toothache." (p.72) · "What can she do? — She can dance and sing."
+(p.76) · "I can't hear the teacher." (p.81) · the Andy song
+"What's wrong, Andy?" (p.84) · "He has a toothache." (p.86) ·
+"Is there a dining room in the house? — No, there isn't." (p.88)
+· "Are there pots in the living room? — No. They are in the
+kitchen." (p.92) · word tiles "There are two bedrooms." (p.95) ·
+"The Sofa is in front of the TV." (p.98) · crossword "next to /
+preposition" (p.101) · "Is the washing machine on the buckets?
+— It's between the buckets." (p.103) · "Is it an old sofa? — No.
+It's a new sofa." (p.106) · tiles "big ? wardrobe it Is a"
+(p.109) · "No. they aren't." (p.112) · word search "ARMCHAIRS,
+BEDS, CUPBOARDS, NEW, OLD, BIG, SMALL" (p.114) · Let's read
+"There are three bedrooms in my house." (p.117) · "a blue Lao
+skirt" (p.119) · "What is Seng wearing?" (p.122) · "Get
+dressed. Get dressed. It's time to go." (p.126) · "I like papaya
+salad." (p.128) · hungry song "Me, too." (p.131) · "I like chili
+sauce but I don't like vegetables." (p.133) · Revision bank "Is
+it 1 o'clock?" (p.136) · odd one out "teacher / doctor / chest"
+(p.137) · test options "elbows / knee / hair" (p.138) · "My name
+is kham." (p.139) · Vocabulary "a dust-pan" (printed p.140) ·
+Vocabulary "a wardrove" (printed p.141) · Expressions "She can
+ride but she can't swim." (printed p.142) · no ISBN printed
+anywhere (cover spread, credits and back pages checked) — 57
+anchors, all on their pages.
+
+**Course filing state:** FILED — this section stands in
+`english/books/laos.md`. Its basics merge into the built lessons
+next (Numbers, Telling the Time, Days and Months, The Home, The
+Body, Food and Fruit, Joining with And and But, Present
+Actions). The Grade 5 teacher guide follows; with it, the
+three-book primary series (Grades 3–5) is read whole.
