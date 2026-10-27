@@ -150,11 +150,28 @@ their level.*
 (The path was first built as four broad levels of four units each;
 the same night he separated every unit into its own level, above.)
 
-## After Level 17
-The ladder keeps climbing — deeper sentence work (Libya G8–G10's
-spine: present perfect, the passive, conditionals), longer essays,
-and the Story → Novel titles. Later blocks get their own level
-numbers here, in this file, as the reading reaches those books.
+## Level 18 — Deeper Sentences
+The deeper sentence machinery, from Libya G8–G10's spine: the
+tenses and shapes that reach further than the plain sentence.
+End of level: the learner holds the past by its tie to now, can
+turn a sentence around into the passive, and can hang one
+sentence on another with if.
+- ✅ **The present perfect** (english/sentence/the-present-perfect)
+  — have/has + the past participle: just happened, result you can
+  see, still going, experience — and the bright line, no exact
+  time (Libya G8 CB Unit 3 pp.32–33 + Teacher's Book; Libya G9
+  p.33 and Grammar Reference; Egypt Primary 6 Term 2 Unit 3 p.47 —
+  2 countries).
+- The present perfect continuous (Libya G8–G10 spine; Egypt
+  Secondary 12 Term 1's box) — planned.
+- The passive (Libya G9 Grammar Reference Unit 7; Egypt's run) —
+  planned.
+- Conditionals (Libya G9 zero and first; Egypt's run) — planned.
+
+## After Level 18
+The ladder keeps climbing — longer essays and the Story → Novel
+titles. Later blocks get their own level numbers here, in this
+file, as the reading reaches those books.
 
 ---
 *Kept current as books are read: when a book is finished, its units are
