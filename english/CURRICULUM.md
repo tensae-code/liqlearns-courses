@@ -162,8 +162,13 @@ sentence on another with if.
   time (Libya G8 CB Unit 3 pp.32–33 + Teacher's Book; Libya G9
   p.33 and Grammar Reference; Egypt Primary 6 Term 2 Unit 3 p.47 —
   2 countries).
-- The present perfect continuous (Libya G8–G10 spine; Egypt
-  Secondary 12 Term 1's box) — planned.
+- ✅ **The present perfect continuous**
+  (english/sentence/the-present-perfect-continuous) —
+  have/has + been + verb-ing: action still moving from a
+  past start, for/since, the marks of a just-stopped
+  action, recent habits (Libya G8 CB p.38; Libya G9 p.40;
+  Libya G10 p.13 + Work Book pp.11–12; Egypt Secondary 12
+  Term 1 pp.17–19 — 2 countries).
 - The passive (Libya G9 Grammar Reference Unit 7; Egypt's run) —
   planned.
 - Conditionals (Libya G9 zero and first; Egypt's run) — planned.
