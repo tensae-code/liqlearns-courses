@@ -86,7 +86,9 @@ words for the world around them, and can use a dictionary.*
 talks about now, before, and later.*
 
 - **Unit 1 — Building a Sentence**: words in order ✅ · capital letter
-  and full stop · who does it and what they do ✅
+  and full stop ✅ · who does it and what they do ✅
+  **UNIT 1 COMPLETE 2026-10-27** (building-a-sentence,
+  capital-and-full-stop)
 - **Unit 2 — Questions**: asking yes/no questions · asking with
   what/where/when/who · answering in whole sentences
 - **Unit 3 — Now, Before, Later**: present actions · past actions ·
