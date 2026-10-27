@@ -169,8 +169,13 @@ sentence on another with if.
   action, recent habits (Libya G8 CB p.38; Libya G9 p.40;
   Libya G10 p.13 + Work Book pp.11–12; Egypt Secondary 12
   Term 1 pp.17–19 — 2 countries).
-- The passive (Libya G9 Grammar Reference Unit 7; Egypt's run) —
-  planned.
+- ✅ **The passive** (english/sentence/the-passive) — be +
+  the past participle, the sentence turned around: by +
+  the doer kept or dropped, and be in its coats — present,
+  past, future, perfect (has been done), modal (can be
+  turned) (Mongolia English X pp.76–86, 131; Libya G9
+  p.82 five-tense table; Egypt Prep 9 T1 Tips p.17 and
+  Tip p.45 — 3 countries).
 - Conditionals (Libya G9 zero and first; Egypt's run) — planned.
 
 ## After Level 18
