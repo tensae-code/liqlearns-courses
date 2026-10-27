@@ -8657,3 +8657,681 @@ whole-layer search) — 34 anchors, all on their pages.
 `english/books/laos.md`. With it, the Laos Grade 10 pair is
 read whole — student book and teacher guide — and the Laos
 run continues at Grade 11.
+
+## Grade 11 (ມ.6) Student Textbook — FULLY READ + CITATION CHECK PASSED 2026-10-27
+
+The sixth book of the SECONDARY series ("Book Six") — it follows
+Book Five (Grade 10, filed above) in the same seven-book run for
+the 12-year school system. Source copy: the public mirror the
+library's secured copy came from (GitHub Xaypanya/Lao-Textbook,
+`textbooks/secondary/m6/m6_english.pdf`). Working copy verified
+against the library record before reading: **3,054,463 bytes,
+161 PDF pages — both match the record exactly (the English
+student entry, VERIFIED-TEXT)**. **Content verified by cover,
+not by filename alone** (the Grade 7 guide lesson): PDF p.1
+rendered is this book's own cover spread — "ENGLISH FOR
+SECONDARY SCHOOLS," the pink **"6"** badge, spine "English for
+Secondary schools M6," "STUDENT'S BOOK," Ministry of Education
+and Sports / Research Institute for Educational Sciences,
+**2015** — and PDF p.2 is its own title-and-credits page,
+"ENGLISH For Upper Secondary Schools" over a red **6**. The
+file is the book its record says it is. Read page by page from
+the text layer; the picture-carried pages that matter (cover
+spread, credits page, the Unit 11 revision diagram, the
+writing-tip page) were read on renders; the Lao layer extracts
+as mojibake under the series' legacy font encoding, and
+stretches of the English run in a Caesar-shifted embedded font
+— both quirks are the file's, not the print's. Every page
+carries the diagonal RIES stamp watermark and a source-file
+footer ("3_Eng_M6 TB ready for print.pdf," 7/31/2015); the PDF
+itself was made from Microsoft Word 2010 through Acrobat
+Distiller (created 31 Jul 2015, author "RIES").
+
+## The book itself
+
+"ENGLISH FOR SECONDARY SCHOOLS" on the cover, "ENGLISH For
+Upper Secondary Schools" on the title page — Book Six keeps
+Book Five's "Upper" and drops the big cover numeral series
+into a pink badge **6** (red on the title page). The cover
+carries an English motto in an arc over its photo circles:
+"English is the best communication language in the world."
+Credits stand on the title page (PDF p.2) as a whole-team list
+(not by unit, as Book Five had them): Writers Khamphanh
+PHIMSIPASOM, Viengkham PHONPRASEUTH, Manoly DONGVAN, Ammaly
+ALATHEP, Viengkham SINGVONGSA, Bouakeo VILAYLATH and Manivone
+PHAXAYAVONG — the Books One–Five core plus three new writer
+names (Dongvan, Alathep, Singvongsa); Managing Editors
+Khamphanh Phimsipasom and Viengkham Phonpraseuth; Editor in
+Chief Assoc. Prof. Dr. Bouasavanh Keovilay; Design and Layout
+Khonesavanh Chanthavixay. Imprint year **2015** (Book One 2010,
+Two 2011, Three 2012, Four 2013, Five 2014). The back-cover
+panel (PDF p.1, read on the render) carries the print data in
+Lao: Secondary Education Sector Development Project (SESDP)
+with ADB support, printed by Phu Thinh Printing and Trading
+Service Co.,Ltd., 19 March 2015, run of 17,960 copies, size
+18×25 cm. The Introduction (PDF p.4, printed p. I) states the
+book's place in the standing words: the sixth of seven
+textbooks answering the reform of general education from 11
+years to 12; the extra secondary year added in academic year
+2009–2010; written by the Foreign Language Resource Centre at
+RIES with the Faculty of Letters, National University of Laos
+— its English half names the funder as the **Basic Education
+Sector Development Project (BESDP)**, while the
+Acknowledgements (PDF p.5, printed p. II) thank the **Secondary
+Education Sector Development Project (SESDP)** — the same
+two-names split as Book Five — and name two outside editors,
+Ms. Khounmy KEOVONGSA and Ms. Sharon ROSE LIN MASA, "for their
+collaboration in editing the textbook"; the series' standing
+admission stands ("the textbook is produced under the time
+pressure; therefore, some minor errors could not be avoided").
+**No ISBN printed anywhere** — cover spread and credits
+checked on renders, and the whole text layer searched (zero
+hits for "ISBN"). PDF p.3 is a blank leaf carrying only the
+watermark.
+
+**Shape.** Contents (PDF pp.6–7, printed pp. III–IV) lists
+eleven units. Units 1–5 and 7–10 are content units of three
+lessons each, every lesson five printed pages on the fixed
+nine-step shape the Grade 10 guide named (Vocabulary → Listen
+and repeat → Listen and practise → Read steps → a Grammar or
+Language note in most lessons → Listen/Read-and-complete steps
+→ Write, with Puzzle/Survey/Speak steps swapped in and out);
+**Unit 6 is the mid-book Revision (Review of Units 1–5,
+printed pp.76–82)** and **Unit 11 is the closing Revision
+(Review of Units 7–10, printed pp.143–150)**. Back matter:
+**Irregular verbs (printed pp.151–153)**, a three-form list of
+some ninety verbs, and **Bibliography (printed p.154)** — ten
+entries, **all dated this time** (Gammidge's Grammar Works
+Teacher's Books 1–2 and Student's Book 1, 1998; Vale's Picture
+Grammar for Children 1–2, 1998; Seidl's Grammar ONE, 1998; New
+Headway Beginner, 2006; New English File Elementary, **2006 —
+the year is printed**, where Books Three and Four left a blank
+"( year )"; Side by Side Activity Workbook 1, 2001; Wiggins &
+McTighe, Understanding by Design, 2003). Printed page = PDF
+page − 7 through the body (front matter runs I–IV at PDF
+pp.4–7); the offset is confirmed by the printed folios
+themselves and by renders at printed pp.132 and 143.
+
+**Themes.** Book Six turns informational. The year's ground:
+hobbies and leisure (U1), transport (U2), travelling and
+tourism (U3), famous places (U4), health and fitness (U5),
+diseases — AIDS, malaria, bird flu (U7), the geography of Laos
+and ASEAN (U8), weather and climate with data graphs (U9), and
+population (U10). The texts are the longest factual reads in
+the Laos set so far — disease explanations, a climate account
+with figures, population texts with rates — and the data work
+(areas, river lengths, mortality rates, rainfall graphs) is
+constant.
+
+## Per-unit map
+
+- **Unit 1 Hobbies (pp.1–15).** **Lesson 1 Favourite hobbies
+  (pp.1–5):** hobby dialogue (listening to music, basketball,
+  swimming, badminton; arranging to meet at the pool); Read and
+  answer over an **email from Tara in Sydney to Chansamone in
+  Luang Prabang** (her hobbies, interests and secret ambition
+  to be a writer, pp.3–4); True or False; a class **Survey** of
+  favourite hobbies with two–three written sentences about
+  friends; **Write: an email to a friend in another country**
+  introducing yourself and your hobbies, from sentence starters
+  (p.5). **Lesson 2 At one's leisure (pp.6–10):** likes and
+  dislikes; dialogue (Jim, an Australian university student,
+  asks Khen what Lao students do at their leisure); three short
+  first-person leisure texts (traditional dance club,
+  volleyball club, rose growing) with ten questions; **Grammar
+  note (p.9): Like + Verb-ing / Do not like + Verb-ing** with
+  examples; survey table (like doing / why); Write sentences
+  about your own likes and dislikes with reasons. **Lesson 3 At
+  a library (pp.11–15):** the headnote promises "future form of
+  words 'will and going to' and make comparisons"; library
+  dialogue (Vientiane Library, "the biggest library in town");
+  **Grammar note (p.12): will vs be going to in full English
+  prose — "will" when we decide at the time of speaking (new
+  idea, no plan before), "be going to" when we have already
+  decided (it is planned)** — each with a Lao gloss and an
+  example dialogue; a nine-item Choose drill picking between
+  the two forms; Read: a text about Vientiane Library (its aim,
+  book categories in Lao and English, activities, secondhand
+  donations sent to remote areas, opening hours) with seven
+  questions; Write sentences about your weekend plan.
+- **Unit 2 Transport (pp.16–30).** **Lesson 1 Types of
+  transport (pp.16–20):** transport word set (ship, tram,
+  oxcart, tricycle…); dialogue (flying back from Phnom Penh,
+  being picked up); a duty-free dialogue as Read and complete
+  (prices in kip and dollars, exchange rate); **Grammar note
+  (p.19): The comparative adjective and The superlative of
+  adjectives, each with a printed Usage paragraph and
+  formation rules in full English prose** — -er/more, -est/the
+  most, the -y → -i rule (shiny–the shinier, the shiniest),
+  and a Based form/Comparative/Superlative table ending in
+  good–better–the best, bad–worse–the worst; two formation
+  exercises; Write five comparison sentences about vehicles.
+  **Lesson 2 How can I get to the Friendship Bridge?
+  (pp.21–25):** two directions dialogues (from the Morning
+  Market mall; from the Lane Xang Hotel — taxi, tuk-tuk, about
+  100,000 kip); Read and match transport words to pictures; a
+  **letter cloze** — Jenny writes to Tom from the Lane Xang
+  Hotel (dated 20 Sep. 2013) about four days around Vientiane
+  (Wat Simeuang, That Luang, Patuxay, Nam Ngum Dam, Tad Leuk
+  waterfall) with ten box words; **Write: a letter about your
+  trip on the last holiday to your friend, at least 60 words
+  (p.25)**. **Lesson 3 Bus service (pp.26–30):** bus-station
+  dialogue (Southern Bus Station, three departures a day, the
+  phonebook); Read: "The cheapest type of transport," a text
+  on travelling by bus in Vientiane, with seven questions;
+  Listen and complete a Luang Prabang description (superlatives
+  in use — "the most beautiful city in Laos"); **Write: a
+  paragraph about 50 words about the place you live in or know
+  well (p.29)**, with a model opening; a transport crossword.
+- **Unit 3 Travelling and tourism (pp.31–45).** **Lesson 1 On
+  holidays (pp.31–35):** holiday-advice dialogue (Luang
+  Prabang, Champasack, Khonephapheng, picnic at Tad Moon);
+  Read: Deng's picnic plan text (bamboo shoot soup, its
+  ingredients, cooking at the site); **Grammar note (p.34):
+  should / ought to for advice, in English and Lao prose —
+  both for our own feelings, "ought to" preferred for
+  "outside" rules, laws and moral duties** (helmet example); a
+  choose should/ought to exercise; Listen and write place
+  words; **Write: two paragraphs about going to a picnic on
+  the weekend (p.35)**, from a gapped model. **Lesson 2 At the
+  airport (pp.36–40):** airport word set; two dialogues
+  (check-in — fragile perfume bottles, 20-kilo allowance;
+  immigration — purpose, four days, Mandarin Orchard Hotel,
+  Singapore); **Grammar note (p.37): Present and past form of
+  verbs — have/has/had, go/went tables** (elementary revision,
+  not a new system); Read: Bounpanh's first-person airport
+  narrative (flight J574, gate E-1A, what may not be taken on
+  board) with questions and a picture match; Write one
+  paragraph about your trip abroad. **Lesson 3 Travelling to
+  Luang Prabang (pp.41–45):** tourist-information dialogue
+  (Kuang Si fares by bus, plane and tuk-tuk; swimming
+  dangerous in the rainy season); Read: "Driving to Luang
+  Prabang," a full-page descriptive text (350 km, Phou Pha,
+  Vang Vieng, Phoukhoun, Kewkacham) with seven questions; a
+  Sayaboury Province listen-and-complete cloze full of figures
+  (16,389 km², eight districts, 291,705 people); Write about a
+  place around your province, from a model opening.
+- **Unit 4 Visiting places (pp.46–60).** **Lesson 1 Famous
+  tourist sites (pp.46–50):** dialogue on the Plain of Jars
+  ("Have you just visited Laos? — Yes, I have been to lots of
+  interesting places"); **Read and answer with a new shape —
+  put the topic into each paragraph** (four unheaded paragraphs
+  on That Ing Hang, the Plain of Jars, That Luang Stupa and
+  Phousy/Wat Chom Si, pp.48–49); a definitions match (BC, AD,
+  sacred, remains…); Listen and complete/circle on Wat Phou;
+  Write one paragraph about the most interesting place to
+  visit in your province, from a model line. **Lesson 2
+  Getting around Vientiane (pp.51–55):** directions dialogue to
+  the Ministry of Education and Sports; the vocabulary list
+  itself carries **direct speech / indirect speech** as items;
+  a real-map sequence — match ministries and embassies to
+  descriptions of where they stand, then complete three
+  direction texts off the map (pp.52–54); **Grammar note
+  (p.55): Direct/indirect form of Wh-questions with 'be' — a
+  two-column table (Where is the Post Office? → Could you tell
+  me where the Post office is?; Where is the Ministry of
+  Finance? → Do you know where the Ministry of Finance is?)**
+  and an exercise writing indirect questions. **Lesson 3 Ho
+  Prakeo (pp.56–60):** dialogue at the museum ("It used to be
+  the home of Emerald Buddha" — used to in use); Read: the Ho
+  Prakeo history text (built 1560–1565 by King Saysethathirath,
+  destroyed 1779, renovated 1811–1813 by King Anouvong, a
+  museum since the 1975 revolution) with seven questions; Look
+  and say directions off the site map, opened by the indirect
+  question ("Could you tell me/Do you know where the parking
+  lot is?"); true/false listening with correction of the false
+  one; Write one paragraph about the temple in your
+  village/district.
+- **Unit 5 Health and fitness (pp.61–75).** **Lesson 1 Staying
+  healthy in hot weather (pp.61–65)** (Contents: "Stay
+  healthy…"): pharmacy dialogue (a son's fever of four days,
+  sweating and shivering — "How long has he had the fever?");
+  Read: the title text (diarrhea, dengue fever and malaria in
+  hot weather; boiled water, cooked food, washed vegetables;
+  what to do for diarrhea) with questions; Listen and list —
+  order the doctor's dengue advice; **Read and complete as a
+  summary diagram** of the lesson (p.64); a word-search puzzle;
+  **Write: a short story about the time you were sick** — what
+  you had, the symptoms, what you did, in the past tense, from
+  a model opening (p.65). **Lesson 2 Staying fit (pp.66–70):**
+  doctor-and-Lavanh dialogue (should/shouldn't for food,
+  drink and exercise); Read: "Fitness maintaining good health,"
+  a three-part text (not overweight; exercise regularly;
+  city gyms) with picture-word matching and questions; Listen
+  and complete a should/shouldn't table; **Grammar note
+  (p.69): "Have you ever had …..?" glossed "(Present perfect
+  to ask question),"** with Yes, I have / No, I haven't
+  answers and a has/have/had fill exercise; Write about how
+  you manage yourself to stay healthy, from a starter line.
+  **Lesson 3 At a doctor (pp.71–75):** the doctor dialogue
+  (Mala's flu — "How long have you felt like this? — Since
+  yesterday morning"); a **sick-note letter cloze** (dated 5
+  October 2013); a second-visit listen-and-complete; illness
+  picture match; a word puzzle; **Write: a letter to the
+  teacher to inform him/her that you are sick and cannot come
+  to school** (model dated November 2013).
+- **Unit 6 Revision — Review of Units 1–5 (pp.76–82):**
+  comparative/superlative table completion and a
+  choose-the-right-form drill of ten sentences; write the full
+  names of acronyms (MoF, MoES, MoFA, UNDP, MoJ); a bus-text
+  listen-and-complete; a long **Houaphan Province reading
+  cloze** (the wartime "hidden city" in the caves, Nam
+  Et–Phou Louei, silk and cotton weaving) with ten box words;
+  write advice for hot weather with should/shouldn't; a That
+  Phone Stupa listen-and-complete; a find-and-circle
+  comparatives puzzle; **step 10 Read and tick — a ten-item
+  multiple-choice test** over Units 1–5 (foods of Luang
+  Prabang, Wat Phou vs Angkor Wat, Ho Prakeo dates and
+  builders, diarrhea advice, outdoor activities, where to
+  visit); Write sentences for "What's the matter with
+  him/her?" pictures.
+
+- **Unit 7 Diseases (pp.83–97).** **Lesson 1 What's AIDS?
+  (pp.83–87):** technical word set (immune system, T-cells,
+  syringe, transmit, paralysis…); dialogue (Khamtan asks his
+  father, preparing a class presentation — what HIV and AIDS
+  are, how HIV is and is not transmitted); Read: "What is
+  AIDS?" (the full names spelled out; the flu-like illness
+  two to six weeks after infection; symptoms; "there is no
+  cure"); Read and list — two lists, how HIV can and cannot be
+  transmitted; **Read and tick — a seven-item multiple-choice
+  test** (p.86); Write a short paragraph about AIDS. **Lesson 2
+  What is malaria? (pp.88–92):** teacher-student dialogue (the
+  Plasmodium parasite, bitten "from whom had been bitten");
+  Read: "What is malaria?" (the parasite's path through the
+  bloodstream to the liver; four kinds, two in Laos;
+  Falciparum the worse; quinine from tree bark in 1638;
+  Chloroquine from 1945; five rules of prevention) with five
+  questions; English–Lao word match; **Read and list (p.91):
+  "There are a lot of passive verbs in the text. How many can
+  you find? Write a list of the passive verbs you find and say
+  what tense each verb is. For example: is caused (present)" —
+  the series' first exercise that names the passive**; Complete
+  the sentences with passive verbs from bracketed verbs; a
+  pharmacist substitution dialogue; Write a paragraph about a
+  disease you know (causes, symptoms, prevention). **Lesson 3
+  What is bird flu? (pp.93–97):** dialogue (a father explains
+  avian flu, transmission, handwashing, cooking); Read: "What
+  is bird flu?" (hosted by birds; first identified in Italy in
+  the early 1900s; the affected countries; much higher fatality
+  than seasonal flu) with counting and ordering questions;
+  Listen and complete; **Speak — survey classmates about AIDS,
+  malaria and bird flu and write up the three diseases in a
+  table** (p.97).
+- **Unit 8 Geography (pp.98–112).** **Lesson 1 Where is Laos?
+  (pp.98–102):** geography word set (latitude, longitude,
+  landlocked, plateau, peninsula…); dialogue (a new Italian
+  scholarship student asks "Where is Laos?"); Read: "Laos" —
+  the full country account (the heart of the Indochina
+  Peninsula; latitude 14–23°N, longitude 100–108°E; the only
+  landlocked country in South-East Asia; 236,800 km²; Phou Bia
+  2,820 m; about 6.7 million people in 2012; ~60% lowland)
+  with **complete the mind map** (p.100); pair questions with
+  model answers; Listen and complete on the three regions; a
+  Rearrange-the-jumbled-sentence set. **Lesson 2 Rivers in
+  Laos (pp.103–107):** dialogue ("I might go swimming…" — might
+  in use); Read: "Rivers in Laos" — the Mekong (1,835 km in
+  Laos) and eleven named rivers with their lengths; **Read and
+  match — four Mekong paragraphs to their main ideas**, from
+  boxed idea labels; Read and complete a Khonephapheng text;
+  **Language note (p.107): ordinary and strong adjectives —
+  "Strong adjectives are like 'very +' plus ordinary
+  adjectives" (gorgeous = very beautiful, delicious, huge,
+  fascinating; good–excellent, bad–terrible, afraid–terrified,
+  small–tiny, surprised–amazed)**, then choose the strong or
+  ordinary adjective in eight sentences. **Lesson 3 ASEAN
+  countries (pp.108–112):** quiz-competition dialogue (Laos
+  joined on 23 July 1997); Read: "ASEAN" (founded 8 August
+  1967; the five founders; the joiners in order; Dialogue
+  Partners) with five questions; Listen and complete a
+  **ten-country ASEAN table** (area, population, capital,
+  official language); **Write about one of the ten countries
+  from the table and read it aloud for the class to name**
+  (p.112), with a model; a ten-country crossword.
+- **Unit 9 Weather and climate (pp.113–127).** **Lesson 1
+  Seasons in Laos (pp.113–117):** dialogue (pack warm clothes
+  for Xiengkhouang, "could drop to 0°C"); Read: "Laos —
+  climate and seasons" (tropical; two seasons, dry Nov–Apr and
+  wet May–Oct; lowland and highland averages; down to 0°C in
+  Xiengkhouang nights; hottest 38°C; wettest month August;
+  rainfall up to 3,900 mm) with complete-the-sentences and a
+  choose-the-form grammar drill (cool/cooler/coolest, fewer/
+  less, more, the most, as … as); **Match four rainfall-graph
+  descriptions to four cities; Ask and answer over temperature
+  graphs; Complete a Pakse climate text from the graphs; Write
+  about the temperature and rainfall of a city using the two
+  graphs** (p.117) — the series' first graph-to-writing work.
+  **Lesson 2 The weather forecast (pp.118–122):** dialogue of
+  two forecasts that disagree ("The weatherman from the radio
+  **said that it's going to rain**" — reported statements in
+  use, unshifted); Listen and complete a three-region forecast
+  table (windy/sunny/wet/fine/warm/cool); complete a forecast
+  text from the table; complete three weather dialogues from
+  word boxes (will/might/said); collect the dialogues'
+  questions into a spoken weather survey; **Write: a weather
+  report for three provinces**, with a model broadcast opening
+  ("This is Somphone Sorasinh with the weather report from
+  Laomai radio…"). **Lesson 3 The weather in Europe
+  (pp.123–127):** phone dialogue (Naly in Paris — winter, fog,
+  "sometimes it snows"); Read: the four seasons of Europe,
+  month by month, with **complete the mind map** (p.125);
+  Read and match sentence beginnings to endings (It's getting
+  hot / pouring rain / extremely icy…) and a because-version
+  with a partner; Write five sentences about what you did
+  because of the weather, past tense.
+- **Unit 10 Population (pp.128–142).** **Lesson 1 People in
+  Laos (pp.128–132):** population word set (ethnic group,
+  slash and burn, shifting cultivation, comprise…); interview
+  dialogue (an Lao PDR representative to an Indian journalist:
+  236,800 km², about 6.8 million, 18 provinces, **47 ethnic
+  groups**, slash-and-burn farming); Read: "The population of
+  Laos" (the four great language groups — Mon-Khmer,
+  Hmong-Mien, Chinese-Tibet, Lao-Tai; official language Lao;
+  Buddhism with animism) with five questions; Read and
+  complete a fact diagram and state what each figure refers
+  to; a Luang Namtha listening; a long **"struggle of Lao
+  People" history cloze** (Chao Fa Ngum, King Anouvong, the
+  French period, independence 1954, the Lao PDR established
+  "on 2th December 1975"); then **"A tip for writing" (pp.131–
+  132): the paragraph named in three parts — (1) Topic
+  sentence = topic + main or key ideas (not more than three);
+  (2) Main body = the explanation of each key idea, using
+  signal words for reasons and results (However, although, in
+  addition…); (3) Concluding sentence = signal words (In
+  summary, In conclusion, In short, in fact…) + a summary of
+  the main ideas** — worked over the struggle text, its topic
+  sentence, main body and concluding sentence each labelled;
+  **Write: two paragraphs about the population of your village
+  or a place you know** (p.132). **Lesson 2 Mother and Child
+  (pp.133–137):** health word set (maternal mortality, infant
+  mortality, antenatal, immunization, midwife, malnutrition);
+  interview dialogue at Ban Phouxay Health Care Centre
+  (**maternal mortality about 470 deaths per 100,000 live
+  births; infant mortality about 98 per 1,000**; the
+  government's plan of a health centre for every village);
+  Read: "Mother and Child Health in Laos" (the first priority
+  task in public health; immunization and vaccination) with
+  sentence completion and questions; a mind map; a cloze
+  listening (institutional deliveries "as low as 2.5
+  percent"); Write a paragraph about a health care service you
+  know, from a model opening. **Lesson 3 ASEAN Population
+  (pp.138–142):** Youth Camp dialogue (Singapore's four official
+  languages); Read: "ASEAN population" — **over 620 million in
+  total, over 60% aged 15–60, literacy 80.2%–99%**; "one vision,
+  one identity, one community"; English chosen as ASEAN's
+  working language — with a diagram to complete and six
+  questions; Listen and complete on ASEAN human resource
+  development; Write a paragraph about the population of your
+  place; a definitions crossword.
+- **Unit 11 Revision — Review of Units 7–10 (pp.143–150):**
+  opens with a printed unit-map diagram (Diseases / Geography /
+  Weather and climate / Population with their lessons — read on
+  the render). Step 1: complete five gapped conversations
+  rebuilt from the units' own dialogues. Step 2: **Read and
+  translate — two whole texts translated into Lao**, with
+  ruled lines: "The rivers of Laos" retold as one text, and
+  "The season in Europe." Step 3: phrase match English→Lao
+  (thick forest, gorgeous tropical birds, showers during
+  spring…). Step 4: **Read and list — from a Mekong text, list
+  the subjects, verbs and adjectives in three columns** (first
+  row given: the Mekong River / flows / main; ten subjects,
+  seventeen verbs, twelve adjectives to find). Step 5: a
+  tourist-destinations cloze with ten box words. Step 6: **Read
+  and notice — find the topic sentence, detail sentences and
+  concluding sentence of a "Malnutrition in rural Laos"
+  paragraph**, labelled with the same apparatus as the writing
+  tip (Topic sentence = Topic + main idea; Signal word;
+  Summary of main ideas). Step 7: **Read and rearrange — put
+  jumbled sentences into the correct paragraph order** (a
+  paragraph on average temperature and rainfall).
+- **Back matter: Irregular verbs (pp.151–153)** — three
+  columns (Infinitive / Past tense / Past participle), be →
+  write; **Bibliography (p.154)** as above.
+
+## What's new against Grade 10
+
+- **The present perfect continuous is STILL not taught.** The
+  name never appears (the whole text layer was searched: zero
+  hits), and the perfect stands in Book Six exactly where Book
+  Five left it: in use — "Have you just visited Laos?" / "Yes,
+  I have been to lots of interesting places" (p.46), "How long
+  has he had the fever?" (p.61), "How long have you felt like
+  this? — Since yesterday morning" (p.72) — and **named once,
+  in one line**: the Grammar note at p.69 glossing "Have you
+  ever had …..?" as "(Present perfect to ask question)." The
+  standing Laos negative now covers Books Two–Six; only Book
+  Seven (Grade 12) can still change it.
+- **Conditionals: still nothing.** The word never appears; no
+  conditional is named or tabled — the first conditional lives
+  in dialogue questions only ("If I get on a bus, how long
+  does it take…?"). Book Five's first-conditional table is not
+  repeated here. No second or third conditional anywhere.
+- **Reported speech: the door opens one step.** The words
+  "reported speech" never appear, but **direct speech /
+  indirect speech enter as taught vocabulary (p.51)** and
+  **embedded Wh-questions are tabled for the first time in the
+  series** (p.55, above). Reported statements are in use in
+  the forecast lesson — "The weatherman from the radio said
+  that it's going to rain" (p.118), "The weatherman said that
+  it will rain in the morning" (p.121) — with **no backshift
+  and no note**. So Book Six teaches indirect questions as a
+  politeness device and nothing of reported statements.
+- **Essay-length writing: no — but the paragraph becomes a
+  named craft.** The word "essay" never appears. The longest
+  set tasks stay at **two paragraphs** (the picnic, p.35; the
+  village population, p.132), and the word counts step up
+  (letter "at least 60 words," p.25; the 50-word paragraph
+  repeats, p.29). The real step-up is analytic: the
+  **"A tip for writing"** (pp.131–132) names topic sentence /
+  main body / concluding sentence with the signal words for
+  each, and the closing Revision makes learners **find those
+  parts in a new paragraph** (pp.149–150) and **rearrange
+  jumbled sentences into paragraph order** (p.150).
+- **New exercise shapes in the series:** giving each paragraph
+  its topic (p.48); mind maps (pp.100, 125, 135–136, 140);
+  a lesson compressed into a summary diagram (p.64);
+  matching paragraphs to their main ideas (p.105); reading
+  rainfall/temperature graphs into prose (pp.115–117); listing
+  a text's subjects, verbs and adjectives (pp.147–148);
+  multiple-choice tests as lessons and revision steps
+  (pp.80–82, 86); whole-text English→Lao translation in the
+  revision (pp.144–146); describe-and-guess writing (p.112).
+- **The comparative/superlative system returns in full prose**
+  (p.19) — fuller than Book Five's superlative-only note
+  (pp.113–114 there) — and the **will / be going to contrast is
+  stated in full sentences for the first time** (p.12), where
+  Book Four divided the future but Book Five left will to use.
+- **Data density.** More of the year is carried by figures
+  than in any earlier Laos book: the Laos fact set (236,800
+  km², 47 ethnic groups, Phou Bia 2,820 m), the eleven rivers
+  with lengths, the ASEAN ten-country table, climate numbers
+  (0°C–38°C, 3,900 mm), and the mother-and-child rates (470 per
+  100,000; 98 per 1,000). The Texts are informational English
+  for ASEAN and health work — the series' stated aim in Book
+  Six's own Introduction ("to use English to communicate with
+  other ASEAN countries").
+- **The series' factual spine continues.** What Book Six
+  teaches about Laos stacks on Books One–Five: the places of
+  Vientiane return on a real map (pp.52–55); Ho Prakeo's dates
+  (1560–1565, 1779, 1811–1813) extend Book Four's place
+  stock; ASEAN, named in Book One's table (p.33 there), is now
+  a full lesson with its membership history.
+
+## New for the course
+
+- **Going To Later (Level 12):** the series' clearest
+  will/be going to note (p.12) — decided-at-the-moment against
+  already-planned, each with a gloss and an example — a new
+  depth layer for the lesson, beside Book Four's divided
+  future and later books' use-only will.
+- **Questions (Level 11):** indirect Wh-questions with 'be' as
+  the polite form — "Could you tell me where the Post office
+  is?" / "Do you know where…?" (p.55), practised over a real
+  city map (pp.52–54, 59) — a new question kind for the
+  lesson, keyed as Laos Book Six's one genuinely new taught
+  structure.
+- **The Paragraph (Level 14):** the writing tip in full —
+  topic sentence = topic + main/key ideas, **not more than
+  three ideas**; main body explains each key idea with signal
+  words (However, although, in addition…); concluding
+  sentence with summary signals (In summary, In conclusion,
+  In short, in fact…) (pp.131–132) — plus the two exercises
+  that make learners find the three parts in a paragraph
+  (pp.149–150) and rebuild a paragraph from jumbled sentences
+  (p.150), and two-paragraph writing tasks with models
+  (pp.35, 132). The most explicit paragraph teaching in the
+  Laos set.
+- **Describing Words in a Sentence (Level 13):** the
+  comparative/superlative prose rules with the Based-form
+  table (p.19), and the **strong adjectives** layer —
+  gorgeous/delicious/huge/fascinating and the
+  excellent/terrible/terrified/tiny/amazed pairs (p.107).
+- **The Passive (Level 18):** not tabled in Laos anywhere,
+  but Book Six is the first Laos book to **name the passive at
+  all** — the hunt-the-passives exercise over the malaria
+  text, with tenses named, "is caused (present)" (p.91),
+  followed by building seven passive sentences from bracketed
+  verbs. The disease texts (pp.84–85, 89–90, 94–95) are
+  passive-dense reading stock for the lesson.
+- **The Present Perfect (Level 18):** use-only evidence and
+  the one-line naming of the question form, "(Present
+  perfect to ask question)" (p.69) — filed as an honest
+  limit: Laos adds depth of use, no new taught system, and
+  the present-perfect-continuous negative extends to Book Six.
+- **Reading Whole Texts (Level 15):** main-idea matching
+  (p.105), mind maps (pp.100, 125), paragraph topics (p.48),
+  graph reading into writing (pp.115–117), subjects/verbs/
+  adjectives listing (pp.147–148), and the long informational
+  texts (AIDS pp.84–85, malaria pp.89–90, ASEAN p.139).
+- **Word Kinds (Level 6, Adjectives/Nouns):** the
+  ordinary-vs-strong adjective note (p.107); the
+  subjects/verbs/adjectives listing exercise (pp.147–148) is
+  a word-kinds exercise over a real text.
+- **Words for the World (Level 7):** full sets — transport
+  (p.16), airport (p.36), illness (pp.61, 66, 71), geography
+  (p.98), weather (pp.113, 118), ASEAN countries (p.110).
+- **Numbers, Days, and Time (Level 9):** data work at scale —
+  the Laos fact diagram (p.130), the ASEAN table (p.110),
+  climate figures and graphs (pp.114–117) — numbers as
+  reading, not counting.
+- **How Are You / health depth (Level 5):** the pharmacy and
+  doctor dialogues deepen the what's-the-matter stock —
+  "How long has he had the fever?" (p.61), "How long have you
+  felt like this? — Since yesterday morning" (p.72), the
+  sick-note letter (pp.73, 75).
+- **The Town (Level 7):** directions re-taught over a real
+  Vientiane map with the indirect-question frame (pp.51–55).
+
+## Slips recorded as printed
+
+- The Acknowledgements head is printed "**ACKNOWLEGEMENTS**"
+  (printed p. II) — the same slip the Grade 10 student book
+  and guide both carry.
+- The Introduction names the funder **BESDP**; the
+  Acknowledgements name **SESDP** (pp. I–II) — the Book Five
+  split again.
+- Contents lists Lesson 1 of Unit 5 as "Stay healthy in hot
+  weather"; the lesson head prints "**Staying healthy** in
+  hot weather" (p.61).
+- Tara's email: "**Sidney** is the biggest city in Australia"
+  (p.3); her address is printed "Tara@**gemail.com**" (p.3);
+  the email mixes "favorite" with the book's "favourite" (p.3).
+- "Chan hope to find some books" — a True/False item carries
+  the wording (p.12).
+- "everywhere in **Lang Prabang** province" for Luang Prabang
+  (p.31); two dialogue lines print "Somsy" with the colon
+  dropped (p.31); Deng asks "**Why is** Tad Moon?" (p.32);
+  the picnic text: "which **suggested by** one of my
+  classmates," "something that **suitable to go swimming**"
+  (p.33).
+- The Lesson 3 vocabulary prints "**dangerous**" twice in one
+  list with two different Lao glosses, and "curvedly" (p.41);
+  the driving text runs on "they **arrived to** VangVieng …
+  arrived to Luang Prabang," "the road is hilly and curved
+  that makes them very tired" (p.42).
+- The That Ing Hang paragraph: "where they kept remains **the
+  breast bone of** Buddha" (p.48).
+- The acronym match pairs "**Ministry of Finance (MoFA)**"
+  beside "Ministry of Foreign Affairs (MFA)" (p.52); one step
+  names the "Museum of **Prince** Souphanouvong," the next
+  step of the same exercise set calls him "**President**
+  Souphanouvong" (pp.52–53); the indirect-questions exercise
+  asks "Where is **UNPD**?" for UNDP (p.55).
+- "Mr. **khamla**" with a lower-case name (p.56); the Ho
+  Prakeo dialogue: "there is no monk or anyone **live** in
+  this museum" (p.57).
+- The AIDS dialogue asks "**How HIV is transmitted?**"
+  (p.84); the AIDS text lists "**loss weight**" among the
+  symptoms (p.85).
+- The malaria lesson: "It **commonly can be found** in
+  tropical area," "from whom **had been bitten** by the
+  mosquitoes **that carrying** the parasite" (p.88);
+  "**Mosquitoes net**" inside the passive exercise itself
+  (p.91).
+- The bird flu lesson prints "before and after **handing**
+  meat" for handling, twice (pp.94, 96); "**Expert believes**
+  that…" (p.95).
+- A step head reads "**Read and answer and answer**" (p.109);
+  the ASEAN table step refers to "the table in **Exercise 6**"
+  when the table stands in Exercise 5 (p.111).
+- The climate text: "**The driest time of year is in March
+  and May**" (p.114); the Europe text: "**People dresses** in
+  warm clothes," "There isn't much **of** sunlight" (p.124);
+  a comprehension question asks "August is fall in what
+  season?" (p.126).
+- The population texts: "some small groups of Lao people
+  practise **Catholic**," "the French colonial **hunter**
+  conquered Laos" (p.129); "the Lao People's Democratic
+  Republic (Lao PDR) was established on **2th December
+  1975**" (pp.131–132); "about 470 **death** per 100,000 live
+  births" (pp.133–134).
+- The Revision translation text makes the Mekong "flows
+  through Laos **1.835 km**" — a European decimal point
+  against the source text's "1835 km" (pp.144, 104) — and
+  ends hoping hydropower will "help Laos become the center of
+  **white energy** in the region" (p.145).
+- The Irregular verbs list prints **become — became — became**
+  as its three forms (p.151).
+- Stale 2013 material carried into the 2015 book: Jenny's
+  letter is dated 20 Sep. 2013 (p.24); the sick-note models
+  are dated 5 October 2013 and November 2013 (pp.73, 75); the
+  Youth Camp dialogue is set in 2013 (p.138); the Pakse
+  climate graphs are built from 1993 data (p.117).
+
+**FULLY READ 2026-10-27** — the whole book read page by page:
+cover spread, title/credits, Introduction, Acknowledgements,
+Contents, all eleven units lesson by lesson, the Irregular
+verbs list, and the Bibliography — read from the verified
+mirror copy (3,054,463 bytes, 161 pages) whose cover, credits
+page, revision diagram and writing-tip page were also checked
+on renders. **CITATION CHECK PASSED 2026-10-27** — 28 anchors
+re-opened and confirmed on their pages, including: the
+"Favourite hobbies" lesson head (printed p.1); "Tara@gemail.com"
+and "Sidney" in the email text (p.3); the "Like + Verb + -ing"
+grammar note (p.9); the will/be going to note with "at the time
+of speaking" (p.12); the comparative note with "The comparative
+adjective" and "shinier" (p.19); the letter task "at least 60
+words" (p.25) and "about 50 words" (p.29); the "should or ought
+to" note (p.34); the "have / has / had" table (p.37); the
+Sayaboury population "291,705" (p.45); "Could you tell me where
+the Post office is?" (p.55); "Saysethathirath" in the Ho Prakeo
+text (p.58); "Have you ever had" (p.69); the comparative table
+in the Revision (p.76); the AIDS "Read and tick" test (p.86);
+"is caused (present)" (p.91); the "Complete the mind map" Laos
+exercise (p.100); "Strong adjectives are like" (p.107); "two
+seasons in Laos" (p.114); "weather report from Laomai radio" in
+the forecast model (p.121); "A tip for writing" (p.132);
+"1.835 km" in the translation text (p.144); "Malnutrition in
+rural Laos" (p.149); "become — became — became" (p.151); and
+"New English File" in the Bibliography (p.154). The
+whole-book negatives were checked by full-text search: no ISBN
+anywhere, "perfect continuous" zero hits, "conditional" zero
+hits, "reported" zero hits, "essay" zero hits, and "passive"
+named only in the malaria lesson (p.91).
+
+**Course filing state:** FILED + MERGED 2026-10-27 — Laos
+Grade 11 now stands in The Paragraph (paragraph writing as a
+named, analysed craft — topic sentence, main body, concluding
+sentence) and Going To Later (the series' clearest will-against-
+going-to contrast note). The Grade 11 teacher guide follows;
+the Laos run then closes at Grade 12.
