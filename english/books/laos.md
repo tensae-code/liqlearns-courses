@@ -7545,3 +7545,622 @@ PERFECT" and "I took photos — SIMPLE PAST" (p.122) ·
 back page with the diagonal RIES stamp only (PDF p.144,
 render). 33 anchors in all, spread across the whole book —
 the filing above stands.
+
+## Grade 10 (ມ.5) Student Textbook — FULLY READ + CITATION CHECK PASSED 2026-10-27
+
+The fifth book of the SECONDARY series ("Book Five") — it follows
+Book Four (Grade 9, filed above) in the same seven-book run for
+the 12-year school system. The Somphone-and-Jennifer story line
+closed in Book Four and does not return; Book Five is built from
+stand-alone texts and dialogues instead. Source copy: the public
+mirror the library's secured copy came from (GitHub
+Xaypanya/Lao-Textbook, `textbooks/secondary/m5/m5_english.pdf`).
+Working copy verified against the library record before
+reading: **5,400,059 bytes, 153 PDF pages — both match the
+record exactly (the English student entry)**. **Content
+verified by cover, not by filename alone** (the Grade 7 guide
+lesson): PDF p.1 rendered is this book's own cover spread —
+"ENGLISH 5 FOR LAO SECONDARY SCHOOLS," the spine reading
+"ENGLISH FOR LAO SECONDARY SCHOOLS M5," "STUDENT'S BOOK,"
+Ministry of Education **and Sports** / Research Institute for
+Educational Sciences, **2014** — and PDF p.2 is its own
+title-and-credits page, "ENGLISH For Upper Secondary Schools"
+over a red **5**. The file is the book its record says it is.
+Read page by page from the text layer; the picture-carried
+pages that matter (cover spread, credits page, the song page
+p.135) were read on renders; the Lao layer extracts as mojibake
+under the series' legacy font encoding, and stretches of the
+English run in a Caesar-shifted embedded font — both quirks are
+the file's, not the print's. Every page carries the diagonal
+RIES stamp watermark.
+
+## The book itself
+
+"ENGLISH FOR LAO SECONDARY SCHOOLS" on the cover, "ENGLISH For
+Upper Secondary Schools" on the title page — the word **Upper**
+enters the title with Book Five, the first of the three upper-
+secondary books. The cover badge is a green **"5"** (the title
+page's is red), and the record's Grade 10 (ມ.5, secondary year
+5) placement is the series position (Book Five of seven).
+Unlike Books Three and Four, the credits stand on their own
+page (PDF p.2) and are assigned **by unit**: Writers Bouakeo
+Vilaylath (units 1, 2), Bounthapany Bounxouay (unit 3),
+Viengkham Phonpraseuth (unit 4), Manivone Phaxayavong (units
+5, 6), Thongsouk Keomany (units 8, 9) and Khamphanh
+Phimsipasom (units 7, 10, 11) — the same team as Books One–
+Four, reshuffled; Managing Editors Khamphanh Phimsipasom and
+Viengkham Phonpraseuth; Editor in Chief Assoc. Prof. Dr.
+Bouasavanh Keovilay; Design and Layout Khonesavanh
+Chanthavixay (a new name in the design seat). Imprint year
+**2014** (Book One 2010, Book Two 2011, Book Three 2012, Book
+Four 2013). The back-cover panel (PDF p.1, read on the render)
+carries the print data in Lao: printed by Eastern Printing
+Public Co. Ltd., 27.03.2014, run of 17,185 copies, size 18×25
+cm. The Introduction (PDF p.3, printed p. i) states the book's
+place in the same words as the earlier books: the fifth of
+seven textbooks answering the reform of general education from
+11 years to 12; the extra secondary year added in academic
+year 2009–2010; written by the Foreign Language Resource
+Centre at RIES with the Faculty of Letters, National
+University of Laos — its English half names the funder as the
+**Basic Education Sector Development Project (BESDP)**, while
+the Acknowledgements (PDF p.4) thank the **Secondary Education
+Sector Development Project (SESDP)** for equipment and money,
+and name two outside editors, Ms. Sharon Rose Lin Masa and
+Michael Brown, "for their collaboration in editing the
+textbook"; the series' standing admission stands ("the
+textbook is produced under the time pressure; therefore, some
+minor errors could not be avoided"). **No ISBN printed
+anywhere** — cover spread and credits checked on renders, and
+the whole text layer searched (zero hits for "ISBN").
+
+**Shape.** Contents (PDF pp.5–6, printed pp. iii–v) lists
+eleven units, and the body's own running feet number them the
+same way: Units 1–5 are content units of three lessons each;
+**Unit 6 is the mid-book Revision (Review of Units 1–5,
+printed pp.75–80)**; Units 7–10 are content units of three
+lessons each; **Unit 11 is the closing Revision (Review of
+Units 6–10, printed pp.141–146)** — so 30 content lessons and
+2 revision units, then **Bibliographies (printed p.147)**.
+Unlike Book Four there is no glossary. The lesson shape is the
+series' grown one: an objective line ("In this lesson students
+will learn…"), a numbered Vocabulary list with Lao meanings,
+Listen and repeat, a dialogue or reading text, then exercises
+numbered through the lesson (Read and answer, Read and match,
+Listen and complete, Grammar note where one falls, Write).
+Printed folio = PDF page − 6 throughout the body (printed p.1
+= PDF p.7; printed p.147 = PDF p.153, confirmed on renders);
+the front matter carries Roman folios i–v (PDF pp.3–6).
+
+**Unit 1 — Families (printed pp.1–15).**
+- **Lesson 1 My family (pp.1–5).** Objective: adjectives of
+  quality to describe family members. Vocabulary: actually,
+  appearance, eldest, personality, somewhere, bun, fringe,
+  puppy. Dialogue (Vilay and Boun): have got for family, "Are
+  you the eldest? — No, I'm the second." Reading text "My
+  family" (Kham's family: parents Somchit and Khaykham, two
+  sisters, two brothers, grandma Oun) written in description
+  adjectives — slim, fat, pretty, quiet, shy, fringe, bun —
+  then Read and match to the picture, a family tree to
+  complete, five written questions. **Grammar note (p.4): the
+  two faces of 's — is ("He is tall = He's tall") against has
+  ("She has got long hair = She's got long hair")**, with an
+  eight-sentence sort exercise and an is/are/has/have
+  completion. Opposites of adjectives (quiet–noisy…). **Write
+  (p.5): two paragraphs about your family** — paragraph one
+  the members and their names, paragraph two their
+  appearances and personalities, each with a model opening.
+  Word puzzle: 11 family words and 11 adjectives hidden.
+- **Lesson 2 Lao traditional families (pp.6–10).** Reading
+  text "The Lao traditional family": obligations of mutual
+  help and support, work shared by age and gender — men's
+  heavy farm work, hunting, building; women's domestic tasks
+  (carrying water and firewood, husking rice, cooking,
+  spinning and weaving); children brought up self-reliant,
+  expected to obey elders. Vocabulary: expect, support,
+  hunting, towards, skill, spin, firewood, gender, tradition,
+  obligation, according to. Listening cloze (10 gaps): Vannaly,
+  24, telling her family's farm life in the first person.
+  **Grammar note (p.9): the possessive noun — 's read as the
+  "of" paraphrase** ("My husband's name is Khamla = The name
+  of my husband is Khamla"), then family-relationship
+  completions (daughter-in-law, sister-in-law…). Write (p.10):
+  a paragraph about what work you and your family do.
+- **Lesson 3 Modern and traditional families (pp.11–15).**
+  Dialogue with a tag question in use ("You're having a
+  workshop in Xiengkhouang, aren't you?"). Reading text "A
+  family in Vientiane" (Somphanh and Chanthalay, married
+  twelve years, an apartment, the government-job wife busier
+  than the engineer husband, who does most of the chores) —
+  the present perfect stands in the text untabled ("have been
+  married for twelve years"). **Grammar note (p.13): do the +
+  V-ing for chores** — do the shopping / cooking / ironing /
+  gardening. Listening cloze (11 gaps): "Modern and
+  traditional families," the comparison text (family size
+  decreased, women fewer children, more freedom and
+  equality). Write: the same comparison filled into a
+  Traditional/Modern table (work, education, women, family
+  size). Crossword on the unit's words.
+
+**Unit 2 — Homes (printed pp.16–30).**
+- **Lesson 1 Lao traditional houses (pp.16–20).** Reading
+  text "My house" (Chamnong, 16, of Pakse): a wood house with
+  a thatched roof on stilts about two metres high, a veranda
+  for eating, receiving guests and relaxing, the mother's
+  loom under the house, a well and an outside toilet — with
+  the picture's parts labelled (stilts, loom, fence, well…).
+  Listening ordering (1–6) over six kitchen utensils, each
+  described in the made-of / used-for shape: "The mortar is
+  made of stone and the pestle is made of wood. They are used
+  for crushing food." Read and translate (English→Lao).
+  **Grammar note (p.20): the used-for transformation** —
+  "You sit on a stool. → A stool is used for sitting on,"
+  five rewrites (chop, keep, crush, write, weave) — the
+  passive shape worked as a transformation, never named.
+  Write: describe a traditional Lao house you have seen.
+- **Lesson 2 Modern houses (pp.21–25).** Reading text
+  "Uncle Khamta's house" (brick, tiled roof, glass windows,
+  two floors, a garage, a yard covered with concrete).
+  **Grammar note (p.23): there's / there are** with a
+  six-sentence completion. Read and translate into Lao (four
+  sentences). Listen and tick (9 items, an apartment's rooms
+  and positions). Ask and answer about your own house. Write:
+  describe a modern house you have seen.
+- **Lesson 3 Looking for an accommodation (pp.26–30).**
+  Dialogue: Susan telephones a landlord about a rented house.
+  Reading: three rental advertisements (Pakse, Luang Prabang,
+  Vientiane) with a 15-item completion across the three.
+  **Grammar note (pp.29–30): the comparative of adjectives**
+  — one syllable add -er; two or more syllables use more —
+  tabled with examples (large→larger, nice→nicer, modern→more
+  modern) and a completion exercise; the lesson opens with a
+  comparison chart to speak from ("The house in Pakse is
+  bigger than the apartment in Vientiane"). Listen and tick
+  (two houses compared). Write: six sentences comparing
+  traditional and modern houses.
+
+**Unit 3 — At School (printed pp.31–45).**
+- **Lesson 1 School timetable (pp.31–35).** School subjects
+  matched to Lao (maths, physics, chemistry, biology, foreign
+  language, geography, history, Lao, civics, meetings,
+  literature, free period); a timetable listening completion.
+  Reading text: Khampheng of Vientiane Secondary School and
+  her interests — really likes, enjoys playing, keen on,
+  prefers painting to woodcarving, interested in, would like
+  to study. **Grammar note (p.34): prepositions at / in / on
+  for time** — at eleven o'clock, in the morning / in August
+  / in 1997, on Wednesday / on Monday morning — with a
+  completion exercise, and a read-and-write where a numbered
+  self-introduction text (Kham of DoneNoun Secondary School)
+  is matched to ten questions (a–j). Write: five sentences
+  about your own school timetable.
+- **Lesson 2 School disciplines (pp.36–40).** Reading text:
+  the Lao discipline-points system — every student starts the
+  year with **600 points**; losing 100 brings the parents in;
+  losing 600 means repeating the class; a penalty table runs
+  from 10 points (miss an activity) through 20 (no uniform,
+  late, miss saluting the flag), 40 (long hair for boys, drop
+  rubbish, phone in class), 400 (weapons, fighting), 500
+  (guiding friends to bad things) to 600 (drugs, stealing).
+  **Grammar note (p.39): the first conditional, named and
+  tabled in both orders** — "If + S + present tense…, S + will
+  + infinitive…" ("If you don't wear a uniform, you will lose
+  10 points") and reversed ("You will lose 100 points if you
+  smoke cigarettes"). Write: five rules, two sentences each
+  (a must-not sentence + its conditional). Read and complete:
+  Vongdeuane spending her aunt's money, six conditional
+  completions. Read and write: six sentences with planted
+  spelling errors (freind, studys, inteligent, writting,
+  beautifull, allways) to rewrite correctly. Game: a
+  conditional chain round the class — a mistake puts you out.
+- **Lesson 3 School activities (pp.41–45).** **Grammar note
+  (p.42): the present continuous tabled whole** (S + am/is/
+  are + V-ing, questions with short answers) — revision of
+  Book One's tense, worked over schoolyard pictures: eight
+  written sentences about a picture, ask-and-answer over
+  sports pictures (volleyball, badminton, football, chess,
+  basketball, sepak takraw, table tennis, petanque). Reading
+  text: Somchanh, 15, Vientiane high school, art class, the
+  school football team.
+
+**Unit 4 — Animals (printed pp.45–59).**
+- **Lesson 1 Pets (pp.45–49).** Dialogue (Vanh and Sack):
+  dogs against cats, comparatives in speech ("more
+  intelligent and friendlier than cats"). Reading text "Pets
+  in Laos": dogs the most popular, cats useful against mice,
+  fish and the aquarium, parrots and mynah birds that copy
+  sounds without understanding, the singing canary. True/false
+  (8), word-box completion, a pet survey (ask, take notes,
+  report to the class from a model report). Write: one
+  paragraph of 6–8 sentences about Pheng's favourite pets.
+- **Lesson 2 Wild animals (pp.50–54).** (Its objective line
+  says "the different kinds of birds" — see slips.) Reading
+  text "Birds": thousands of species, foods by species,
+  feathers large and small, moulting once a year — with a
+  four-column table to fill (food, climates, body, kinds).
+  Definition matching (species, insect, wild animals,
+  extinct, protected, breed). **Write (p.54): the references
+  of the italic words** — They / Some / It / Them / Ones
+  traced back to their nouns; the series' first explicit
+  reference exercise.
+- **Lesson 3 A Lao traditional story (pp.55–59).** The fable
+  **The Peacock and the Crow** as a read-and-rearrange (four
+  paragraphs A–D to order against the picture sequence), then
+  true/false (6). Plot, in summary only: the once-white crow
+  paints the peacock beautifully, then, impatient to reach
+  the field where the vultures feed, has the paint poured
+  over himself — which is why the crow is black today.
+  Proverbs matched to Lao meanings (6): Practice makes
+  perfect; Every dog has its day; A rotten fish in a pot
+  spoils a whole lot; Kill two birds with one stone; He is
+  not the only fish in the sea; When the cat is away, the
+  mice will play. Vocabulary carries essay and morale (see
+  slips).
+
+**Unit 5 — Jobs (printed pp.60–74).**
+- **Lesson 1 What's your job? (pp.60–64).** Reading text
+  "Jobs": five people waiting at the Employment Service —
+  Nongkhan (secretary: can type, can file), Anuxay
+  (construction worker), Phanusit (lawyer), Khamsouk (police
+  officer), Aliya (waitress) — each job told by its can-do
+  list. **Grammar Note (p.63): modal deduction — could /
+  might when we are not sure, must / can't when we are
+  sure** ("She could be a business person." / "He must be a
+  doctor. He can't be a police officer."), a five-item modal
+  choice exercise, and ask-and-answer on the same pattern.
+  Game: What's my job? — yes/no questions only.
+- **Lesson 2 Job interview (pp.65–69).** Interview dialogue
+  (Phonenida with principal Khamchanh). Reading text
+  "Applying for a job": Phonenida, 30, four years at Mixay
+  Primary School, two years before that at the Department of
+  Education and Sports, applying to teach at secondary
+  school — ten comprehension questions, among them "How long
+  has she been working there?" **Grammar note (pp.67–68):
+  the past tense and the present perfect tense set against
+  each other in full prose** — past simple for the finished
+  action, with when; past simple with for for a finished
+  period ("I was in Pakse for two weeks," with a timeline);
+  present perfect for a past action connected with now, news
+  and recent happenings; present perfect with for for the
+  period that continues ("I have been in Pakse for two
+  weeks," same timeline drawn to now). Exercises: five past-
+  simple and five present-perfect verb forms, and a three-
+  column verb table (infinitive / past tense / past
+  participle: be, come, buy, drink, drive, get, go, eat).
+  Ask and answer with How long…? ("How long have you been at
+  this school? — I have been here for 5 years.")
+- **Lesson 3 Leaving school (pp.70–74).** Dialogue of future
+  plans (Vieng, Khamla, Da): good at English and maths,
+  interested in IT, might study IT, would like to be an
+  author, biologist or librarian. Reading text: Darathip,
+  good at maths, physics and English, interested in politics.
+  Speak-and-write: a paragraph about what Darathip could do,
+  from the dialogue and text together. Write (p.74): about
+  what you are good/bad at, interested in, and want to do
+  when you leave secondary school (about eleven ruled lines).
+
+**Unit 6 — Revision, Review of Units 1–5 (printed pp.75–80).**
+Write a description of a living room from a picture, left to
+right (position language modelled). Completions: six first
+conditionals; five Perhaps-sentences rewritten with might;
+at/in/on (5). Comparatives over pictures and a seven-item
+comparative completion; a comparative crossword; five Lao
+sentences to translate into English. Hangman with the units'
+vocabulary. Write (p.80): **two paragraphs** about what
+happens in your home every morning, from a prompt box or your
+own ideas.
+
+**Unit 7 — Festivals (printed pp.81–96).**
+- **Lesson 1 Lao traditional festivals (pp.81–86).** Reading
+  text: the festival year — Boun Pi Mai Lao (New Year), Boun
+  Bang Fai (Rocket), Boun Khao Phansa and Boun Ork-Phansa
+  (Buddhist Lent in and out), Boun Souang Heua (Boat Racing),
+  Boun That Luang, Boun Phavet — most relating to a Buddha
+  story; relative clauses run through it untabled ("villages
+  that have Buddhist temples," "festivals that people around
+  the country celebrate"). Cloze (10 gaps): a Boat Racing
+  festival account in the past. Rearrange (8 jumbled
+  sentences). Write (p.85): six sentence-openers completed in
+  your own words about a festival visit.
+- **Lesson 2 Chinese astrology (pp.87–92).** Dialogue in
+  which Boua cites this very book ("I read it from English
+  for Lao Secondary Schools Book 5"). Reading text: the
+  twelve animal years, each animal's people described in a
+  full paragraph of character adjectives — rat (busy,
+  energetic, charming, generous), ox (hard-working,
+  practical, conservative), tiger (brave, confident,
+  unpredictable), rabbit, dragon, snake, horse, goat, monkey,
+  rooster, dog, pig — with relative clauses throughout
+  ("People who were born in the year of the rat are…"), never
+  tabled. Cloze portrait of a friend from the character
+  words; word-order exercises that rebuild the who-clauses;
+  Write: about your own characteristics (three lines).
+- **Lesson 3 International festivals (pp.92–96).** Reading
+  text: Chinese New Year (offerings on an altar, fireworks
+  for the ancestors' spirits, red envelopes, the hoped-for
+  first visitor) and Scotland's Hogmanay (the countdown, Auld
+  Lang Syne sung in a circle at midnight, the first-footer
+  with his coal and mistletoe). Listening cloze (10 gaps):
+  Chin Tao's New Year. Rearrange (8). **Sing (p.96): Auld
+  Lang Syne printed in full** — two verses as the book gives
+  them, the series' first complete printed song since the
+  primary books.
+
+**Unit 8 — Communication (printed pp.97–111).**
+- **Lesson 1 Making a phone call (pp.97–101).** Dialogue:
+  Anna at a hotel reception desk learns to dial (provincial
+  access 0, Luang Prabang 71, mobile 20). **Write and read
+  (p.99): phone numbers written out in words and read aloud**
+  — 021 243578 as "zero two one two four three five seven
+  eight," with the spoken forms listed (zero, o, double
+  seven). Reading text: how calls are built (country access
+  + provincial access + area code + local number; Laos 856)
+  with the provincial area-code table, and write-the-questions
+  from given answers.
+- **Lesson 2 Sending a letter (pp.102–106).** Reading text:
+  Somphone at the post office chooses a That Luang postcard
+  ("study, study again, study forever") for a friend's
+  graduation in Australia and sends it by express mail; a
+  price table (express against airmail, Japan/Korea/Thailand/
+  China and inside Laos) drives ask-and-answer and a
+  true/false-with-correction set.
+- **Lesson 3 Greeting cards (pp.107–111).** Reading text:
+  everyday cards against seasonal cards, and who they are
+  for. Complete a greeting message to a mother from a word
+  box (8 gaps). Write (p.111): a greeting message to a
+  special person on a special occasion (about eight lines).
+
+**Unit 9 — Markets and shopping (printed pp.112–125).**
+- **Lesson 1 Markets in Vientiane (pp.112–116).** Dialogue
+  (Vilay and Jose) at the Morning Market. **Grammar note
+  (pp.113–114): the superlative of adjectives, with a Usage
+  block** — comparison among three or more, the extreme
+  degree, "the" before the superlative — **and formation
+  rules**: -est on one-syllable adjectives; the most before
+  two-or-more-syllable adjectives (with most/least); only
+  -st after a final -e. Reading text: the markets — Talat
+  Sao (Morning Market) "the most famous and the biggest,"
+  Khouadinh for cheaper goods, Thongkhankham the oldest,
+  NongDouang and Sangjieng for cheap products from China.
+  Adjectives sorted by syllables. Cloze: a Talat Sao text.
+  **Write (p.116): a paragraph of 50 words** about a market
+  you went shopping to — the series' first word-counted
+  writing task.
+- **Lesson 2 We love shopping (pp.117–121).** Reading text:
+  four shoppers interviewed — Souvannaly of Savannakhet at
+  DongDok market, Yamane from Japan (who can bargain in
+  Vientiane, something she cannot do in Japan), Somphone the
+  student from Phongsaly, and a fourth voice — where and why
+  each loves to shop. True/false with correction (7).
+  Listening cloze: "Shopping in Vientiane."
+- **Lesson 3 Spending behaviour (pp.122–125).** **Language
+  structure (p.123): quantifier + of + uncountable noun** —
+  a kilo of beef, a can of milk, a loaf of bread, five kilos
+  of fish, a bowl of noodle soup — matched and spoken in
+  pairs. Reading text: Manivone the price-conscious shopper;
+  a shopping table to complete and total in kip.
+
+**Unit 10 — Sports and games (printed pp.126–140).**
+- **Lesson 1 The 25th SEA Games (pp.126–130).** Reading
+  text: the 2009 Vientiane games — the first time Laos
+  hosted, the new stadium on the 13th South Road, the
+  elephant mascots Champa and Champi, Lane Xang "the kingdom
+  of a million elephants"; the passive runs through it in use
+  ("was held," "was built," "were named"), untabled here.
+  Cloze (10 gaps) and rearrangement.
+- **Lesson 2 My favourite sport (pp.131–135).** Reading
+  text: Sone of Xaysettha High School, midfielder, and his
+  striker friend Kham. Cloze: forming the year-one team,
+  sequenced. **Grammar note (p.134): transition signals** —
+  the time-order set named as a set (First, First of all,
+  Second, Third, Next, After that, Then, Finally) for
+  ordering a paragraph. Listening cloze: the village match
+  against Phonthanh, 1–1. **Write (p.135): a paragraph of 50
+  words** about your favourite sport. **Sing (p.135): "Are
+  you sleeping?"** — the four lines printed, each marked
+  (repeat): Are you sleeping? / Brother John / When the bells
+  are ringing / Ding Ding Dong (render-checked).
+- **Lesson 3 Big match (pp.136–140).** Reading text: a match
+  report in the past — Arsenal against Liverpool at the
+  Emirates, about 80,000 fans, Torres scoring first,
+  Arshavin equalising, Fabregas (printed "Fabricas," see
+  slips) winning it 2–1. Listening cloze: a school match won
+  3–0. Rearrangement (6). **Write (p.140): a paragraph of 50
+  words** about a big football match you have watched or
+  played. Word-search puzzle.
+
+**Unit 11 — Revision, Review of Units 6–10 (printed
+pp.141–146).** A word/phrase review list to repeat and
+translate as a class; three re-read passages with questions —
+the phone-call process text, the greeting-cards text, the
+festivals text —; word matching in three sets; rearrangement
+sets that rebuild the units' sentences, the astrology
+who-clauses among them; three cloze completions reusing the
+football-team, Chin Tao and Boat Racing texts. Then
+**Bibliographies (printed p.147)**, nine entries: Gammidge,
+Grammar Works Teacher's Books 1–2 and Student's Book 1 (CUP,
+1998); Vale & Heinemann, Picture Grammar for Children 1–2
+(Oxford, 1998); Seidl, Grammar One (OUP, 1998); Liz & Soars,
+New Headway Beginner (OUP, 2006); Oxenden, Latham-Koenig &
+Seligson, New English File Elementary (2006); Bill Biss &
+Graham, Side by Side Activity Workbook 1 (3rd ed., 2001) —
+every entry dated this time; the "( year )" blank of Books
+Three and Four does not recur.
+
+## What's new against Grade 9
+
+- **The present perfect continuous still does not arrive as
+  a taught system.** Book Five deepens the perfect instead:
+  the fullest past-simple-against-present-perfect contrast
+  note in the series (Unit 5 Lesson 2, pp.67–68, with
+  timelines). The continuous itself stands in the reading
+  texts and questions in use — "She has been working at Mixay
+  Primary School for four years" (p.66), "How long has she
+  been working there?" (p.67), "How many times has Laos
+  hosted the SEA Games?" beside "have been married for twelve
+  years" (p.12) — but no note names it, tables it, or drills
+  its form. Laos Book Five, like Books Two–Four before it,
+  cannot stock Level 18's Present Perfect Continuous lesson;
+  the negative now stands across the whole Laos set read so
+  far.
+- **No second or third conditional.** The first conditional
+  is re-tabled in both orders (p.39) and revised (p.75);
+  nothing beyond it appears.
+- **No reported speech.** Dialogue carries direct speech
+  throughout; no said/told note or backshift exercise exists
+  in the book.
+- What does arrive, named and tabled for the first time in
+  the series: **modal deduction** (could/might unsure against
+  must/can't sure, p.63); the **superlative with usage and
+  formation rules** (pp.113–114 — Book Two's system completed
+  with its rules written out); **quantifier + of +
+  uncountable noun** (p.123); **transition signals** named as
+  a writing tool (p.134); the two faces of **'s** (p.4) and
+  the possessive **'s = of** paraphrase (p.9); **do the +
+  V-ing** for chores (p.13).
+- Reading step-ups: long informational texts (the SEA Games,
+  pp.127–128; Chinese astrology's twelve animal portraits,
+  pp.88–89; the Vientiane markets, p.114); the first explicit
+  **reference exercise** (p.54); true/false **with
+  correction** of the false ones (pp.120, 124); a
+  spelling-correction exercise with planted errors (p.40).
+- Writing step-ups: the first **word-counted tasks** — a
+  paragraph of **50 words** three times (pp.116, 135, 140);
+  a two-paragraph family piece with each paragraph's job
+  prescribed (p.5); a greeting message (p.111); sentence-
+  opener completions in the writer's own words (p.85).
+- Structure: the revision units return (dropped in Book
+  Three) and are counted in the book's own numbering — the
+  mid-book revision is Unit 6, which is why Festivals is
+  Unit 7 here against Book Four's festival material sitting
+  in Unit 8's neighbourhood; credits are assigned by unit for
+  the first time.
+
+## New for the course (keyed to the built lessons)
+
+- **Level 18, Conditionals** — Laos (already counted from
+  Book Four) re-tables the first conditional in both orders
+  over the discipline-points text (pp.37–39) and revises it
+  (p.75); still no second/third — the limit stands.
+- **Level 18, The Present Perfect** — the series' fullest
+  past-against-perfect contrast note, with for in both
+  tenses and timelines (pp.67–68); the three-column verb
+  table (p.69). Present Perfect Continuous: **not stocked**
+  (see the negative above).
+- **Level 14, First, Then, Finally** — transition signals
+  named as a set for ordering a paragraph: First, First of
+  all, Second, Third, Next, After that, Then, Finally
+  (p.134), with a sequenced cloze to work them in.
+- **Level 13, Describing Words in a Sentence** — the
+  superlative completed: usage rules and formation (-est /
+  the most / -st after -e) in full (pp.113–114), over the
+  markets dialogue and text.
+- **Level 13, Mine and Yours** — 's in its two faces, is
+  against has (p.4), and the possessive 's read as the of
+  paraphrase (p.9).
+- **Level 12, Present Actions** — the present continuous
+  re-tabled whole (p.42) and worked in eight written
+  sentences about a picture (p.43).
+- **Level 9, Numbers, Days, and Time** — telephone numbers
+  written in words and read aloud, zero / o / double seven
+  (p.99); area codes and the 856 country code (pp.100–101).
+- **Level 7, The Home / The Town** — the two house lessons
+  and the rental advertisements, there's/there are (p.23),
+  comparatives over real advertisements (pp.27–30); the
+  markets of Vientiane with their goods (pp.112–116).
+- **Level 6, Nouns** — quantifier + of + uncountable noun:
+  a kilo of beef, a loaf of bread, a bowl of noodle soup
+  (p.123).
+- **Level 5, How Are You** — the character set grown up:
+  twelve animals' worth of describing adjectives in the
+  astrology text (pp.87–91), written about yourself (p.91).
+- **Level 15, Reading Whole Texts** — the long texts above,
+  plus the reference exercise (p.54) stocking Words You Don't
+  Know's neighbour skill: tracing They / Some / It / Them /
+  Ones back to their nouns.
+- **Level 16, The Essay / Level 14, The Paragraph** — the
+  50-word paragraphs (pp.116, 135, 140) and the prescribed
+  two-paragraph split (p.5): the first word counts and the
+  first paragraph-job instructions in the Laos set.
+
+**Slips recorded as printed:** "ACKNOWLEGEMENTS" as the
+Acknowledgements' own heading (PDF p.4), with "Upper
+Secondary Shools" inside it · "In this lesson students learn
+Wo compare modern and traditional families" (p.11) · "His
+bother Joy likes…" in the model survey report (p.49) ·
+"more trustful" in the pets dialogue (p.46) · "to buy
+foodespecially vegetables" — the words run together (p.118) ·
+"Somephone" for Somphone in a true/false item (p.120) ·
+"5 kilos of washing pounder" in the shopping table (p.125) ·
+"Fabricas" for Fabregas, twice (pp.137, 138) · the school is
+"Xaysettha" in the text (p.132) but "Xaysetha" in its own
+questions (p.133) · "strick" in the greeting-card vocabulary
+(p.107) · "oversea" as the adjective in the phone vocabulary
+(p.97) · "morale" for moral in the story vocabulary (p.55) ·
+the Wild animals lesson's objective line promises "the
+different kinds of birds" (p.50) · the postcard text's
+Somphone is "she" throughout but "wants his friend to follow
+the slogan" (p.104) · "In This lesson students will learn
+buying food at groceries" with its capital T (p.122) · "It's
+16,500 kip for a gram to Japan" in the parcel dialogue
+(p.106) · the shopping questions number two items 6 (p.119) ·
+"Have drugs concerned from up to 1 pill" in the penalty
+table (p.38) · the Contents points the closing Review
+(Units 6–10) at p.143 while the section opens on p.141 · the
+Introduction's two halves name two different funders —
+BESDP in English, SESDP in the Acknowledgements (PDF pp.3–4)
+· a file note, not print: this PDF is print-protected (RC4)
+like its brothers, its Lao layer extracts as mojibake, and
+stretches of English sit in a Caesar-shifted embedded font —
+the English was read as it prints.
+
+**FULLY READ 2026-10-27.** Read page by page from the text
+layer; the cover spread (PDF p.1), the credits page (PDF
+p.2) and the song page (printed p.135) were checked on
+renders. **CITATION CHECK PASSED 2026-10-27** — anchors
+re-opened and confirmed on their pages: cover "ENGLISH 5 /
+STUDENT'S BOOK / 2014" (PDF p.1, render) · per-unit credits,
+"ENGLISH For Upper Secondary Schools" (PDF p.2, render) ·
+Introduction "the fifth in a series of seven textbooks"
+(PDF p.3) · "ACKNOWLEGEMENTS" (PDF p.4) · Contents: My
+family p.1, Review (Units 1–5) p.75, Review (Units 6–10)
+p.143 (PDF pp.5–6) · "He is tall = He's tall / She has got
+long hair = She's got long hair" (p.4) · two-paragraph family
+writing (p.5) · "My husband's name is Khamla = The name of my
+husband is Khamla" (p.9) · "learn Wo compare" (p.11) ·
+"have been married for twelve years" (p.12) · "do the
+shopping / do the cooking / do the ironing" (p.13) · "A stool
+is used for sitting on" (p.20) · there's/there are note
+(p.23) · rental advertisements, three towns (p.27) ·
+comparative note (p.29) · at/in/on note (p.34) · "starts the
+school year with 600 points" (p.37) · first conditional
+table, both orders (p.39) · planted spellings freind /
+studys / inteligent / writting / beautifull / allways (p.40)
+· present continuous table (p.42) · "His bother Joy" (p.49)
+· "Write the references of the italic words" (p.54) ·
+could/might against must/can't (p.63) · "She has been
+working at Mixay Primary School for four years" (p.66) ·
+past against present perfect note (pp.67–68) · "How long
+have you been at this school?" (p.69) · Revision head
+"Revision unit 1-5" (p.75) · "English for Lao Secondary
+Schools Book 5" cited inside the astrology dialogue (p.88) ·
+Auld Lang Syne in full (p.96) · "zero two one two four three
+five seven eight" (p.99) · "study, study again, study
+forever" (p.104) · superlative usage and formation
+(pp.113–114) · "a paragraph of 50 words" (p.116) ·
+"foodespecially" (p.118) · quantifier + of + uncountable
+(p.123) · "washing pounder" (p.125) · transition signals
+(p.134) · "Are you sleeping? / Brother John" (p.135,
+render) · "Fabricas" (p.137) · Bibliographies, nine entries,
+all dated (p.147) · no ISBN anywhere (renders + whole-layer
+search) — 41 anchors, all on their pages.
+
+**Course filing state:** FILED + MERGED 2026-10-27 — Laos
+Grade 10 now stands in The Present Perfect (the series'
+fullest past-simple-against-perfect contrast note),
+Describing Words in a Sentence (the superlative with usage
+and formation rules), and The Paragraph (the series' first
+word-counted tasks — a paragraph of 50 words). The Grade 10
+teacher guide (152 pp in the library record) is the natural
+next read, on the series
+pattern; the Laos run then continues at Grade 11.
