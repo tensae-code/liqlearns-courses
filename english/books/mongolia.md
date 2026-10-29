@@ -128,4 +128,566 @@ The library record holds English for Grades 5–10 (6 books). **Grade 5 is NOT i
 
 **Grade 10 — FULLY READ 2026-10-26: all ten units, all four Self-Checks, the Grammar Reference, the Dictionary and the Tapescript read page by page (printed pp.1–208 + colophon). CITATION CHECK PASSED 2026-10-26: seven pages re-rendered and re-verified at 150 DPI — the title page (six authors, 3rd printing, 2019), the imprint (ISBN 978-99978-61-29-0, 2017 first publication, 208 pp., editors Bayarmaa and Enkhbayar, ДАА 373 / ННА 74.2 / A-618), the contents (Content Map p.4; units at pp.8, 24, 40, 56, 72, 88, 104, 120, 136, 152; Grammar Reference p.168; Dictionary p.178; Tapescript p.185), the "30°C" sentence on its page (p.126), the missing item 5 in the tag-question exercise (p.69), the colophon (author team of six under N. Mira; printed by Soyombo Printing LLC, 20,000 copies; 17 printer's sheets; format 70×100/16) and the back cover (barcode digits 9789997861290, matching the imprint ISBN) — plus some 50 further anchors confirmed on the reading sheets (the senses discovery p.11, the subjects survey p.14, Timothy Doner p.30, reported speech p.44, PowerPoint conditionals p.47, Anand's family tree p.59, birth signs pp.61–62, the deel p.75, HyperAdapt p.82, Mongolia transport facts pp.96–97, Tsagaan Sar p.110, Halloween p.114, the four-part environment article pp.126–127, Hank p.145, Borogchin p.157, Saranchuluun Otgon p.166).**
 
-**Mongolia's in-hand set is now COMPLETE: Grades 6, 7, 8, 9 and 10 all FULLY READ + CITATION CHECK PASSED.** Still queued in this file: Grade 5 (not in hand — its only route is the private textbooks repo, unreachable from this machine).
+**Mongolia's in-hand set stood COMPLETE for Grades 6–10 on 2026-10-26. Grade 5 joined the hand on 2026-10-28 (pulled from the secured library's mid-size-books release on the user's order) and is filed below — MONGOLIA IS NOW COMPLETE IN HAND AND READ: Grades 5–10.**
+
+---
+
+# Mongolia — English Grade 5 (English V) — FULLY READ + CITATION CHECK PASSED 2026-10-29
+
+## The book itself
+
+- **Title as printed:** the cover and the title page print only
+  **"GRADE 5"** — no series name and no subject word appear anywhere
+  in the copy. The title page's Mongolian line describes it as the
+  textbook for Grade 5 of the 12-year general-education school,
+  published with the permission of the Ministry of Education,
+  Culture, Science and Sports; the cover carries the ministry
+  emblem. (That this is the English book — *English V* in the
+  series — comes from the library record; inside the copy the
+  subject shows only in picture-internal English, below.)
+- **Authors (title page):** Н.Мира (N. Mira), И.Сайнэргэл
+  (I. Saingergel), П.Баянжаргал (P. Bayanjargal), М.Мөнхсайхан
+  (M. Mönkhsaikhan). The colophon (PDF p.125) names N. Mira as
+  author-team leader and editor, B. Bayarmaa as technical editor,
+  G. Mönkhjargal as illustrator, and B. Erdenebulgan as print
+  layout.
+- **Year / printing:** title page — "Долоо дахь хэвлэл", seventh
+  printing; Ulaanbaatar, 2018 (the cover also prints 2018). The
+  CIP entry on PDF p.3 records the edition line "УБ.2012" —
+  first published Ulaanbaatar, 2012, 124 pages. © on the CIP page
+  is the Ministry of Education, Culture, Science and Sports.
+- **ISBN 978-99929-3-440-9** (printed, CIP page, PDF p.3). Also
+  printed there: DDC 372.65'077, code A-618, and the feedback
+  address textbook@mecs.gov.mn. The title page carries the
+  school-library-fund stamp: issued to the school library fund,
+  sale prohibited.
+- **Colophon facts (PDF p.125):** format 84×108/16, offset print,
+  80 g/m² paper, 13 printer's sheets; print original prepared by
+  "Соёмбо принтинг" ХХК; printed by "Мөнхийн Үсэг" ХХК in a run
+  of 34,000 copies.
+- **Copy facts:** 29,476,094 bytes, 125 PDF pages — an exact
+  match to the library record. Pulled 2026-10-28 from the secured
+  library's mid-size-books release. The PDF is **image-only**
+  (no text layer at all); this read was made from page renders —
+  JPEG at 100 DPI in 4-up contact sheets at quality 72, with
+  200-DPI re-renders wherever small print had to be settled.
+- **Printed-vs-PDF offset:** printed page = PDF page − 1,
+  throughout. Anchors: PDF p.4 = printed p.3 (the icon key);
+  PDF p.124 = printed p.123 (last body page); PDF p.125 is the
+  unnumbered colophon. Printed pages run 3–123. The copy ends
+  with the colophon — no back-cover page follows it in the PDF.
+
+## How the book works
+
+This is a **pure picture book**. Across all 121 body pages there
+is no printed instruction and no printed English sentence
+anywhere; the only print inside the body is text that lives
+inside the pictures — alphabet strips on classroom walls,
+"milk" / "apple juice" / "chips" printed on food packaging,
+sums on blackboards, and Cyrillic name labels on children's
+shirts. All of the language work is oral: the pupil book is a
+picture prompt for the teacher's voice and the class audio.
+
+The machinery is explained once, on printed p.3 — ten activity
+icons (listen, sing, speak alone, talk in pairs, read-aloud
+style icons, draw/make, a drum for games, an hourglass for
+timed work, and a +/− sign for true/false). Every unit then
+runs the same rhythm over ten printed pages:
+
+- **Exercises 1–4** — picture spreads headed by the four skill
+  icons (listen · speak · pair-talk · make/do);
+- **Exercise 5** — marked with the hourglass (timed) icon;
+- **a closing +/− page** — six small numbered pictures the
+  learner judges true or false against the audio.
+
+Four child characters (two boys, two girls) recur through the
+whole book; Unit 1 gives them printed Cyrillic name labels
+(printed p.11: Болд — Bold, Тулга — Tulga, Маргад — Margad,
+and Тэргэл — Tergel, partly hidden by the tree in the drawing).
+A two-page photo-line (printed pp.4–5) previews all ten units
+as ten numbered photographs — the book's only contents page,
+and it is wordless too.
+
+**Honest limit for course use:** because the book prints no
+language, it can corroborate *topics, picture vocabulary and
+activity shapes* with page citations, but it cannot supply
+page-cited wording — the sentences live in the audio/teacher
+layer, which this copy does not carry. Merges from this book
+should cite topic and picture, never a quoted pattern.
+
+## Full unit map (printed pages; PDF page = printed + 1)
+
+Front matter: cover (PDF 1) · title page (PDF 2) · CIP page
+(PDF 3) · activity-icon key, printed 3 · wordless picture
+contents of the ten units, printed 4–5.
+
+### Unit 1 — Meeting, names and the clock (printed 6–15)
+
+- 6 — opener: the four characters in front of their school;
+  exercise 1.
+- 7 — six small scenes of one boy's day, each with a wall clock
+  (waking, leaving his mother, meeting a friend, coming home,
+  walking the dog, in bed at night).
+- 8 — exercise 2: a teacher welcoming the new boy at the front
+  of the class.
+- 9 — pairs of children wearing paper hats printed with cartoon
+  characters (pair introductions).
+- 10 — exercise 3: children meeting and introducing each other
+  outdoors; a new boy with headphones joins.
+- 11 — big playground scene; the children carry printed name
+  labels (see above) — find-and-name work.
+- 12 — exercise 4: children holding portrait cards of each
+  other in class; the blackboard behind them carries the sums
+  "3+5=", "6−3=", "4+1" as printed.
+- 13 — the class in a ring around a cassette player, still
+  holding portrait cards (listening).
+- 14 — exercise 5 (timed): a girl's day in six clock pictures,
+  waking to bedtime.
+- 15 — +/− page: six numbered greeting/introduction scenes.
+
+### Unit 2 — My family (printed 16–25)
+
+- 16 — opener, exercise 1: a girl presenting a big family
+  portrait; beside it a 12-portrait grid of family members —
+  men, women and elders in Mongolian deel; two boys shake hands
+  below.
+- 17 — real photographs of five families from different
+  countries (including a Japanese family in kimono and an
+  Indian family in sari), and a hand wearing five finger
+  puppets with music notes — the finger-family song cue.
+- 18 — exercise 2: two guessing dialogues drawn with thought
+  bubbles and question marks.
+- 19 — four children singing into microphones under a thought
+  cloud containing a family (the song page).
+- 20 — exercise 3: two children looking through a photo album;
+  framed pair portraits on the wall.
+- 21 — children presenting their own family portraits, two
+  scenes.
+- 22 — exercise 4: two family photographs side by side — a
+  Western family at home, a Mongolian family inside a ger;
+  below, a girl waves and a boy stands for describing.
+- 23 — pairs of children standing and talking in a classroom
+  (pair work).
+- 24 — exercise 5 (timed): a family tree drawn as portraits
+  hanging on a tree; below it, stills of two famous cartoon
+  families — the Simpsons and Shrek's family.
+- 25 — +/− page: six portraits (an old Mongolian man, a boy,
+  three women/girls, a Mongolian extended family group).
+
+### Unit 3 — At school: things, numbers and counting (printed 26–35)
+
+- 26 — opener, exercise 1: a schoolbag with arrows out to its
+  nine contents — book, pencil case, pen, ruler, rubber,
+  sharpener, pencil, notebook, and the bag itself.
+- 27 — the same school things scattered loose, with two
+  pointing hands (point-and-say / what is missing).
+- 28 — exercise 2: the numbers 1–10 drawn as walking cartoon
+  figures on clouds; below, two children at desks heaped with
+  books and pencils (counting).
+- 29 — four children each with a counted set (books, pens,
+  pencils); two schoolbags with their contents laid out in
+  rows.
+- 30 — exercise 3: a whole classroom — blackboard, desks,
+  Mongolia map, Minnie Mouse poster, and an alphabet strip
+  above the board printed "Aa Bb Cc Dd Ee Ff Gg Hh Ii" (the
+  book's first printed English; see the slips note).
+- 31 — a tick-box counting panel (one vs many: boards, bags,
+  desks, books, pens) and a number-matching panel, 1–10,
+  against counted sets of classroom things.
+- 32 — exercise 4: spot-the-difference pairs — a girl sitting /
+  standing by a chair; a boy by the whiteboard / by the door.
+- 33 — six small action scenes around the classroom (opening
+  and closing a door, jumping, standing, a window).
+- 34 — exercise 5 (timed): a line-tracing maze matching four
+  children to their school things; below, hedgehog pupils in a
+  classroom (story picture).
+- 35 — +/− page: six scenes (a girl with a bag, a door, a boy
+  with a pen, a girl with scissors, a window, a boy carrying
+  books).
+
+### Unit 4 — Colours and clothes (printed 36–45)
+
+- 36 — opener, exercise 1: a painter's palette and eight
+  dripping colour strokes (purple, blue, green, yellow, red,
+  black, pink, brown); below, a girl counting a scattered pile
+  of school things.
+- 37 — children in single-colour costumes dancing in a ring
+  around a child in a wolf costume (colour game).
+- 38 — exercise 2: clothes around an open trunk — cap, jacket,
+  dress, T-shirt, skirt, socks, trousers, jeans, shoes,
+  trainers.
+- 39 — a wardrobe with clothes on hangers; below, the same
+  clothes as flower-shaped memory cards.
+- 40 — exercise 3: a stage show of story characters in costume
+  (Beauty and the Beast, Rapunzel, Mickey and Minnie, Donald
+  Duck) while children point from the audience.
+- 41 — a gallery of famous cartoon characters (Winnie the
+  Pooh, Tweety, Donald Duck, Snow White and a dwarf, Mickey,
+  Minnie, a Smurf, Shrek, Rapunzel) — name and describe.
+- 42 — exercise 4: a funfair scene — Ferris wheel, circus tent,
+  balloons, children in bright clothes at play.
+- 43 — a line-maze matching four children to their suitcases;
+  below, three pairs of near-identical children (spot the
+  clothes difference).
+- 44 — exercise 5 (timed): inside a clothes shop — rails of
+  dresses, shirts and trousers, shoes on steps, four children
+  in front.
+- 45 — +/− page: six children in different clothes (one in a
+  football shirt printed "11", one skipping, one in headphones).
+
+### Unit 5 — The body, and describing (printed 46–55)
+
+- 46 — opener, exercise 1: a boy's head in close-up (hair,
+  ears, eyes, nose, mouth) and the same boy full-length with
+  arms stretched out.
+- 47 — a girl touching her nose; a boy scratching his head
+  (touch-the-part actions).
+- 48 — exercise 2: a photo page of wild animals — giraffe,
+  monkeys, a marmot, a hippo, an elephant, a leopard (bodies
+  to describe: long neck, trunk, tail).
+- 49 — two cartoon cats, one big and one small; two children
+  standing for size talk.
+- 50 — exercise 3: a family around a table of food (burgers,
+  pizza, cake, a juice carton printed "Juice") — the people at
+  the table are the describing material.
+- 51 — two funny monsters with mixed-up bodies; a girl under
+  music notes (the body-song page).
+- 52 — exercise 4: a family of four standing in a row — tall
+  and short, old and young.
+- 53 — a boy in a red shirt printed "11" standing before his
+  class under a whiteboard; the alphabet strip "Aa Bb Cc Dd Ee
+  Ff Gg Hh Ii" is printed above the board again.
+- 54 — exercise 5 (timed): the big boy figure again, with four
+  portrait cards beside him (describe and match).
+- 55 — +/− page: six dashed-frame pictures (an old man, a
+  girl, the two monsters, a boy, a giraffe).
+
+### Unit 6 — Weather, seasons and farm animals (printed 56–65)
+
+- 56 — opener, exercise 1: two landscapes — day (sun, clouds,
+  green hills) and night (moon, stars, a lake).
+- 57 — four children with microphones presenting picture cards
+  (clouds, sun, hills, moon) — weather-presenter role play.
+- 58 — exercise 2: four weather pictures — sunny, rainy,
+  snowy, cloudy.
+- 59 — four scenes of children in the weather: sun, rain with
+  umbrellas, building a snowman, and two children among
+  clouds.
+- 60 — exercise 3: the same tree and pond in four seasons —
+  summer green with ducks; autumn rain, falling leaves and
+  birds leaving; winter under snow; spring with birds
+  returning and tulips.
+- 61 — two big activity scenes: swimming in summer; building a
+  snowman in winter.
+- 62 — exercise 4: eight farm animals in a row (cow, cat, dog,
+  horse, rooster, pig, goose, sheep); below, two girls
+  talking, one with a question-mark thought bubble, the other
+  thinking of a girl eating (favourite-animal talk).
+- 63 — a whole farm scene: farmhouse, barn, sheep, pigs, a
+  horse at the stable, a cow, geese at the pond, hens with
+  chicks.
+- 64 — exercise 5 (timed): a sorting set — sun, moon, stars,
+  and the eight farm animals mixed together.
+- 65 — +/− page: six pictures (sun, cow, a sunny field, the
+  rain scene, children sledging and skiing, a cat).
+
+### Unit 7 — Food, and what I like (printed 66–75)
+
+- 66 — opener, exercise 1: ten foods — a milk carton printed
+  "milk", a chocolate bar, an apple-juice carton printed
+  "apple / juice", a lollipop, a cake, bananas, an ice-cream
+  cone, an apple, a box of eggs, carrots.
+- 67 — an open fridge holding apples, bananas, eggs, chocolate,
+  carrots, a cake, milk, juice cartons and ice creams (what is
+  in the fridge).
+- 68 — exercise 2: the like/dislike symbol system — a heart
+  frame around a table of eggs, milk, fruit and carrots with a
+  thumbs-up; a crossed-out circle around cake, a chips packet
+  printed "chips" and a lollipop with a thumbs-down.
+- 69 — a boy in a kitchen, the table in front of him loaded
+  with eggs, milk, bananas, chips, cake, apples, oranges and
+  lollipops.
+- 70 — exercise 3: two children whose thought bubbles show a
+  liked cake in a heart, and ice cream liked but cake crossed
+  out.
+- 71 — four more like/dislike dialogue scenes in the same
+  bubble code (apple yes / banana no; chocolate no / lollipop
+  yes; cake yes / juice no, and so on).
+- 72 — exercise 4: a guessing dialogue — one boy's bubble shows
+  a cake with "=?" (asking), the other's shows juice liked
+  and cake crossed out.
+- 73 — a birthday table (a cake with one candle, roast
+  chicken, pizza, burgers, juice) with two girls in party hats;
+  the bubble shows bananas liked, apples not.
+- 74 — exercise 5 (timed): a food set (ice cream, apples, cake,
+  milk, chocolate, oranges, a lollipop, eggs) above a
+  like/dislike symbol grid of eight foods.
+- 75 — +/− page: six children eating (an apple; chocolate
+  crossed out; an egg; an ice cream; chips crossed out;
+  bananas crossed out).
+
+### Unit 8 — My home (printed 76–85)
+
+- 76 — opener, exercise 1: real photographs of four rooms — a
+  living room, a bathroom, a bedroom, a kitchen.
+- 77 — two children drawing houses, each with a thought bubble
+  of their own house.
+- 78 — exercise 2: four room scenes with people in them — a
+  girl in bed in the bedroom; a girl watching TV from an
+  armchair; a child washing at the bathroom sink; a man
+  cooking in the kitchen.
+- 79 — four bare rooms (living room, kitchen, bathroom,
+  bedroom) down one side, four activity bubbles down the other
+  (washing, writing at a desk, eating at a table, knitting in
+  an armchair) — match the room to what happens in it.
+- 80 — exercise 3: furniture photographs — a bed, a sofa, a
+  TV, picture frames, a carpet, a set dining table, kitchen
+  cupboards.
+- 81 — a girl's bedroom in one big picture (wardrobe, TV, bed,
+  toys, a desk with books) — say where things are.
+- 82 — exercise 4: more furniture photographs — a desk with a
+  computer, a wardrobe, a standing mirror, a photo frame, an
+  armchair, a sofa.
+- 83 — two more children's bedrooms (a boy's with a big blue
+  wardrobe; a girl's yellow room) — describe your room.
+- 84 — exercise 5 (timed): a cutaway house of three rooms — a
+  living room upstairs (TV, sofa, armchair), a bedroom and a
+  kitchen below.
+- 85 — +/− page: six pictures (a kitchen, a bedroom, a girl by
+  a table, a teddy inside a box, books on a table, a living
+  room) — the in/on pictures.
+
+### Unit 9 — Time and my day (printed 86–95)
+
+- 86 — opener, exercise 1: the four characters ringed by
+  novelty clocks of many shapes (umbrella, flower, sun,
+  telephone, snail, hand), every clock showing about twelve.
+- 87 — a boy making a paper clock: cutting the face out,
+  writing the numbers, then holding the finished clock up to a
+  friend (see the slips note on the numbers).
+- 88 — exercise 2: a girl in the middle of seven round pictures
+  of her day (sleeping, waking, drinking tea, walking to
+  school, writing, eating, watching TV).
+- 89 — a classroom scene: a boy singing into a microphone, a
+  boy yawning with printed "Zzz", the alphabet strip on the
+  whiteboard.
+- 90 — exercise 3: seven pictures of a boy's free time (writing,
+  swimming, playing chess, washing clothes, cycling, at the
+  computer, sleeping).
+- 91 — the classroom scene again in a second version (a girl
+  holding a ball at the front).
+- 92 — exercise 4: six pictures of a girl's work and play
+  (washing clothes, vacuuming, kneading dough, cycling,
+  ironing beside her mother, holding a ball).
+- 93 — a three-picture cycle on squared paper (two children
+  whispering; a girl pointing; a boy holding a paper) — a
+  chain-game page.
+- 94 — exercise 5: nine round activity pictures unnumbered (a
+  boy holding a clock among them) — put a day in order.
+- 95 — +/− page: six activity pictures (ball, washing,
+  swimming, computer, cycling, in bed).
+
+### Unit 10 — Review: favourite characters and games (printed 96–105)
+
+- 96 — opener, exercise 1: five film stills — Cinderella,
+  Sleeping Beauty, the Little Mermaid, Beauty and the Beast,
+  Snow White (favourite fairy-tale characters).
+- 97 — five more favourites: Shrek, Kung Fu Panda's Po,
+  Mowgli, Batman, Spider-Man.
+- 98–99 — exercise 2: a board game printed across the spread —
+  a track of squares (arrows, fans of picture cards, pointing
+  hands, pencils, question marks, music notes, a finish flag),
+  stone counters numbered 1–4, and three task cards in the
+  middle: sing, write, talk.
+- 100 — exercise 3: a girl holding up a wall newspaper headed
+  "ХАНЫН СОНИН" (Mongolian: "wall newspaper") pinned with four
+  season pictures — a class project presentation.
+- 101 — nine thumbnail cards, one per earlier unit (friends at
+  school, family, the schoolbag, the clothes shop, the body,
+  the weather, food, my room, clocks) — the whole book in
+  miniature.
+- 102–103 — exercise 4: a wordless farm picture story across
+  two pages — a boy waves; the farm; a horse grazing; a girl
+  riding the horse; a cow beside a glass of milk; hens and
+  eggs; the boy feeding the hens; the whole farm again with
+  both children in it. Told by retelling, not reading.
+- 104 — exercise 5: a classroom celebration — four children in
+  party hats printed with the letters E, D, A, B among
+  balloons; the alphabet strip on the whiteboard behind them
+  is partly hidden by the balloons.
+- 105 — four sunny-day cards (singing together, shaking hands,
+  swimming, fishing).
+
+### Final revision section (printed 106–123)
+
+After Unit 10 the book closes with eighteen pages of picture
+prompts badged 1–9, each badge re-using its own unit's pictures
+at larger size — a self-check / end-of-year revision set. No
+new material is introduced.
+
+- 106–107 — badge 1: the four characters; Unit 1 scenes (in
+  bed morning and night, saying goodbye, waving under a birch
+  with a clock, introducing a new boy, and the girl with a
+  portrait card under the printed sum "9+1=").
+- 108–109 — badge 2: a girl waving among six family-member
+  portraits in deel; the family photographs (the Western
+  family; the Mongolian family in the ger; the photo album;
+  the bench guessing dialogue).
+- 110–111 — badge 3: the schoolbag and its contents with the
+  numbers 1–10 on clouds; nine small Unit 3 scenes (doors,
+  window, sit/stand, board).
+- 112–113 — badge 4: the colour palette with splashes; the
+  clothes set laid out flat.
+- 114–115 — badge 5: the boy's body with the arm, leg, eye,
+  ear, mouth and nose drawn separately below; four portraits
+  of the same girl with black, blonde, grey and red hair.
+- 116–117 — badge 6: a house in four seasons and the weather
+  scenes; the sun, moon and farm-animal set.
+- 118–119 — badge 7: the food set (now with drinks and fries
+  added); the like/dislike dialogue scenes collected.
+- 120–121 — badge 8: the home photo collage; six room scenes.
+- 122–123 — badge 9: two pages of daily-activity pictures
+  (sleeping, waking, tea, chess, computer, swimming, writing,
+  homework, washing, eating, football, the paper clock,
+  television, ball, cycling, vacuuming).
+
+Colophon — PDF p.125 (see "The book itself").
+
+## New for the course
+
+Mongolia was already on the course's books through English
+VI–X. This book is the missing floor under them: Mongolia's
+first-year, pre-literacy course, and the only book in the whole
+finished-country pool built with **zero printed English** — a
+pictures-and-sound design from end to end, which is the shape
+the course's own first stage takes. Its merges must be topic
+and picture citations (see the honest limit above). Keyed to
+the built lessons:
+
+- **Level 5, Conversation — `hello-and-your-name`:** the
+  name-label playground (printed 11) and the class-welcome
+  scene (printed 8) are pure name-exchange picture work;
+  **`introducing-a-friend`** gets the outdoor introduction
+  scenes (printed 10); **`good-morning-and-good-afternoon`**
+  gets the day-part clock scenes of one boy's day (printed 7).
+- **Level 9 — `telling-the-time`:** the strongest single gain.
+  The clock opens the book (six clock scenes, printed 7;
+  timed day-sequence, printed 14), returns as a whole unit
+  (novelty clocks, printed 86), and carries a make-your-own
+  paper-clock craft sequence (printed 87) — a ready hands-on
+  slot no other finished country's early book prints.
+  **`numbers`** gains the 1–10 figure-characters and the
+  counted-set panels (printed 28, 29, 31).
+- **Level 7 — `animals`:** the wild-animal photograph page
+  (printed 48) and the farm set with its whole-farm scene
+  (printed 62–63, repeated 117). **`the-body`:** the face/body
+  opener (printed 46), touch-the-part actions (47), and the
+  body drawn in separate pieces — arm, leg, eye, ear, mouth,
+  nose (114). **`food-and-fruit`:** the labelled food set and
+  the open fridge (printed 66–67), plus the heart / crossed-out
+  like-and-dislike symbol system for food talk (68, 70–71, 74).
+  **`the-home`:** real-photograph rooms and furniture
+  (printed 76, 80, 82), the cutaway house (84), and the in/on
+  true-false pictures (85).
+- **Level 6 — `verbs`:** Unit 9 is a set of pure action
+  pictures — daily routines and free-time actions in round
+  frames (printed 88, 90, 92, 94). **`adjectives`** and
+  **Level 13 `describing-words-in-a-sentence`:** big/small
+  cats (printed 49), the tall/short old/young family row (52),
+  the mixed-up monsters (51), and the same girl in four hair
+  colours (115).
+- **Level 17 — `telling-a-story-back`:** the wordless
+  two-page farm story (printed 102–103), built to be retold
+  from pictures alone; Unit 10's film-character galleries
+  (96–97) stock favourite-character talk for the story level.
+- **Design stock (no single lesson):** the weather set —
+  sunny/rainy/snowy/cloudy (printed 58), the four-seasons tree
+  (60) and the weather-presenter microphone role play (57) —
+  and the colours-and-clothes set (palette, printed 36;
+  clothes, 38–39) are complete picture sets for topics the
+  built path has not yet given their own lesson; filed here
+  as Mongolia G5's stock for them, not keyed to a built lesson.
+- **Honest negative — `the-alphabet` (Level 2):** this book
+  teaches no letters. The alphabet exists only as a classroom
+  wall strip, and the strip never goes past "Ii" (printed 30,
+  53, 89, 104). Mongolia's English V is an oral-only start;
+  nothing from it merges into the Alphabet lesson.
+
+## Slips recorded as printed
+
+1. **Printed p.87 (PDF 88):** on the boy's half-made paper
+   clock, the numerals are written in reverse order — 12, 1, 2
+   run counter-clockwise around the face as drawn (confirmed
+   on a 200-DPI re-render). The finished clock he holds up in
+   the next panel is drawn correctly.
+2. **Printed p.107 (PDF 108):** the sum "9+1=" is printed at
+   the head of a small classroom picture (a girl holding a
+   portrait card) inside the Unit 1 revision set — a sum among
+   greeting scenes, belonging to the sums family of printed
+   p.12 ("3+5=", "6−3=", "4+1"). Recorded as printed.
+3. **The alphabet strip** is printed identically in four
+   places (printed 30, 53, 89, 104) and never extends beyond
+   "Aa Bb Cc Dd Ee Ff Gg Hh Ii" — recorded as printed, not
+   corrected.
+4. The book prints no subject or series title anywhere (see
+   "The book itself") — an identification limit of the copy,
+   recorded, not a misprint claim.
+
+## Closing block
+
+**FULLY READ:** every page of the copy in hand — front matter,
+the ten units, the final revision section and the colophon,
+PDF pp.1–125 (printed pp.3–123 plus covers and colophon) —
+was read page by page from renders on 2026-10-29. The read is
+of the pupil's book only; no teacher's book for English V is
+in the library record, and the audio layer the pictures cue
+is not part of this copy.
+
+**CITATION CHECK PASSED 2026-10-29** — twenty anchors
+re-opened and confirmed on their pages (printed page = PDF
+page − 1 throughout):
+
+1. PDF 1 — cover: "GRADE 5", ministry emblem, Ulaanbaatar
+   2018. ✓
+2. PDF 2 — title page: the four authors; "seventh printing";
+   ministry permission line; school-library-fund stamp. ✓
+3. PDF 3 — CIP: ISBN 978-99929-3-440-9; DDC 372.65'077;
+   A-618; "УБ.2012.-124x"; © the ministry. ✓
+4. PDF 4 = printed 3 — the ten activity icons. ✓
+5. PDF 7 = printed 6 — Unit 1 opener: four characters before
+   the school. ✓
+6. PDF 12 = printed 11 — shirt name labels Bold, Tulga,
+   Margad, Tergel (200-DPI re-render). ✓
+7. PDF 13 = printed 12 — blackboard sums "3+5=", "6−3=",
+   "4+1". ✓
+8. PDF 18 = printed 17 — five world family photographs; the
+   finger-puppet hand. ✓
+9. PDF 27 = printed 26 — Unit 3 opener: schoolbag with nine
+   contents arrowed out. ✓
+10. PDF 31 = printed 30 — classroom with the alphabet strip
+    "Aa…Ii" over the blackboard. ✓
+11. PDF 37 = printed 36 — Unit 4 opener: palette and eight
+    colour drips. ✓
+12. PDF 47 = printed 46 — Unit 5 opener: face close-up and
+    full body figure. ✓
+13. PDF 57 = printed 56 — Unit 6 opener: day and night
+    landscapes. ✓
+14. PDF 67 = printed 66 — Unit 7 opener: food set with "milk"
+    and "apple juice" printed on the packaging. ✓
+15. PDF 77 = printed 76 — Unit 8 opener: photographs of four
+    rooms. ✓
+16. PDF 87 = printed 86 — Unit 9 opener: novelty clocks
+    around the four characters. ✓
+17. PDF 88 = printed 87 — the paper-clock craft; reversed
+    numerals slip (200-DPI re-render). ✓
+18. PDF 97 = printed 96 — Unit 10 opener: five fairy-tale
+    film stills. ✓
+19. PDF 108 = printed 107 — the printed sum "9+1=" over the
+    portrait-card picture (200-DPI re-render). ✓
+20. PDF 125 — colophon: author team, illustrator
+    G. Mönkhjargal, print run of 34,000 copies. ✓
+
+**Filing state:** DRAFT — when filed, this text appends into
+`english/books/mongolia.md` as the Grade 5 section and
+completes Mongolia G5–G10 (English V–X) in the courses
+record.
