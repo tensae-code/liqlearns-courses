@@ -9450,7 +9450,128 @@ Book Five's guide, the method lives in the unit overviews
 line), the numbered steps that mirror the student book's
 activities, the English model answers and keys printed inside
 the steps, and a back-matter appendix of unit mind maps.
-...[truncated 21451 chars]
+**The guide's own Contents, in full (printed pp. III–IV).**
+The Contents lists the front matter first — Introduction
+(printed p. I), Acknowledgement (p. II), Table of contents
+(p. III) — and then the eleven units with every lesson named
+and its starting page. Unit 1 **Hobbies** (p.1): Lesson 1
+Favourite hobbies (p.2), Lesson 2 At one's leisure (p.6),
+Lesson 3 At a library (p.11). Unit 2 **Transports** (p.16):
+Lesson 1 Types of Transports (p.17), Lesson 2 How can I get
+to the Friendship Bridge? (p.21), Lesson 3 Bus service
+(p.25). Unit 3 **Travelling and tourism** (p.29): Lesson 1
+On holidays (p.30), Lesson 2 At the airport (p.34), Lesson 3
+Travelling to Luang prabang (p.39). Unit 4 **Visiting
+places** (p.44): Lesson 1 Famous tourist sites (p.45),
+Lesson 2 Getting around Vientiane (p.49), Lesson 3 Ho
+Prakeo (p.53). Unit 5 **Health and fitness** (p.57): Lesson
+1 Stay healthy in hot weather (p.58), Lesson 2 Staying fit
+(p.63), Lesson 3 At a doctor (p.67). Unit 6 **Revision**
+(p.72), a single entry — Review (unit 1-5) (p.72). Unit 7
+**Diseases** (p.79): Lesson 1 What is AIDS? (p.80), Lesson 2
+What is malaria? (p.83), Lesson 3 What is Bird flu? (p.87).
+Unit 8 **Geography** (p.91): Lesson 1 Where is Laos? (p.92),
+Lesson 2 Rivers in Laos (p.97), Lesson 3 ASEAN countries
+(p.101). Unit 9 **Weather and climate** (p.107): Lesson 1
+Seasons in Laos (p.108), Lesson 2 The weather forecast
+(p.113), Lesson 3 The weather in Europe (p.118). Unit 10
+**Population** (p.123): Lesson 1 People in Laos (p.125),
+Lesson 2 Mother and Child (p.130), Lesson 3 ASEAN Population
+(p.135). Unit 11 **Revision** (p.140), again a single entry —
+Review (unit 7-10) (p.140). The back matter closes the list:
+**Mindmap** (p.149) and **Bibliography** (p.154) — singular
+in the Contents, though the back-matter page itself is
+headed "Bibliographies," as the slips below record. Read
+against the starts, the unit spans run: Units 1–5 at
+pp.1–15, 16–28, 29–43, 44–56 and 57–71; Unit 6 Revision at
+pp.72–78; Units 7–10 at pp.79–90, 91–106, 107–122 and
+123–139; Unit 11 Revision at pp.140–148; the Mindmap
+appendix at pp.149–153; the Bibliographies at p.154 — the
+guide is paginated to the same 154 printed pages as the
+student book it twins.
+
+**How a teaching unit stands in the guide.** Every unit
+opens with its own contents page (Unit 1 at printed p.1,
+Unit 8 at printed p.91, both checked): the unit number and
+title in English with the Lao title under it, then the
+three lessons, each named in English and Lao with a short
+Lao paragraph stating what the lesson teaches — the
+contents page and the objectives are the same page. At the
+head of the teaching proper, a Lao block sets out the
+unit's objectives (headed ຈຸດປະສົງ) in bullet aims, with
+the expected outcomes after the unit (ລະດັບຄາດໝາຍ) —
+learners able to combine the language and grammar to talk
+about their own and others' doings, and to carry the skills
+from one lesson's activities into the next. The lessons
+then run in the student book's own order under numbered
+steps: each step is headed by the student activity's
+English name (1. Vocabulary, and so on through the standing
+shape), the procedure under the head is written in Lao —
+group the class, have them read and discuss the new words'
+meanings, and the like — and the English payload sits
+inside the step it belongs to: the key, the listening
+script printed in full, the model answer, the filled table
+or map. Nothing is gathered into an answer section at the
+back; a teacher holding the guide finds every answer on
+the page where the class meets the question, which is why
+the unit-by-unit account that follows is organised by the
+keys, scripts and models in step order.
+
+**The two Revision units.** Units 6 and 11 break the
+three-lesson shape: each is a single Review entry in the
+Contents (Review (unit 1-5), printed p.72; Review (unit
+7-10), printed p.140) and each opens with a recap diagram
+that gathers the units it covers — their titles and lesson
+contents set around a "Revision unit" centre (Units 1–5
+with their fifteen lessons in Unit 6; Units 7–10 in Unit
+11, its diagram naming the diseases set — AIDS, malaria,
+bird flu — and the geography set of rivers and ASEAN
+beside the rest). The review then works back through the
+covered ground in exercises and a test, with the answers
+carried in the guide as everywhere else — keyed in the
+steps, and on the Unit 6 test page the chosen answers
+circled on the printed page itself (printed p.77, checked
+on the render for the citation pass below).
+
+**The Mindmap appendix (printed pp.149–153).** The
+back-matter appendix the method sentence names is five
+full-page drawn maps, one page each, for five of the nine
+teaching units only: Unit 2 Transports (p.149), Unit 3
+Travelling and Tourism (p.150), Unit 4 Visiting places
+(p.151), Health and fitness (p.152) and Unit 7 Diseases
+(p.153). Units 1, 6, 8, 9, 10 and 11 have no appendix map.
+Each map is a branching diagram drawn out from the unit
+title at its centre, gathering the unit's working language
+into labelled limbs — the Unit 2 map (p.149, read on the
+render) branches into the types of transport themselves,
+the direction language of the Friendship Bridge lesson
+(how to get there, what to take, where to get off) and the
+bus-service language of times and tickets, each limb
+ending in the unit's key words and frames; the other four
+maps gather their units the same way. The health map is
+headed "**Unit 4** Health and fitness" (p.152) though
+Health and fitness is Unit 5 — the appendix's own
+mislabel, recorded again in the slips below. These
+appendix maps are the teacher's end-of-unit summaries;
+they are not the only mind maps in the guide — smaller
+maps are printed filled inside the lessons themselves,
+the airport map of Unit 3 (pp.38–39) among them, and those
+are filed with their units in the account that follows.
+
+**Bibliographies (printed p.154).** The last page lists
+nine sources, all British ELT grammar and course books of
+1998–2006: Gammidge's *Grammar Work* Teacher's Book 2,
+Teacher's Book 1 and Student's Book 1 (Cambridge
+University Press, 1998); Vale and Heinemann's *Picture
+Grammar for Children* 1 and 2 (1998); Seidl's *Grammar
+ONE* (Oxford University Press, 1998); *New Headway
+Beginner* Student's Book (Oxford University Press, 2006);
+*New English File — Elementary* Student's Book (2006); and
+the *Side by Side* Activity Workbook 1, third edition
+(2001). No Lao or ministry source is listed, and none of
+the nine is referred to by name anywhere in the units —
+the list stands as the guide's whole account of where its
+grammar treatment comes from.
 ## What the guide adds, unit by unit
 
 **Unit 1 Hobbies (guide pp.1–15).** Lesson 1: the opening
