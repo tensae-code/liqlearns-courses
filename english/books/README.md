@@ -27,11 +27,13 @@ the page it lives on and the course lesson it was filed into.
 | [barbados.md](barbados.md) | Barbados — Primary Language Arts Syllabi, Classes 1–4 (Ministry of Education and Human Resource Development; no year/edition printed) | **ALL FOUR SYLLABI FULLY READ + CITATION CHECK PASSED 2026-10-27 — BARBADOS COMPLETE on its syllabi** (Barbados publishes no government student textbooks — the ministry syllabi are its record, the Ghana-curricula case; the dialect/Standard-English objective is filed in full) |
 | [mongolia.md](mongolia.md) | Mongolia — English V–X (Grades 5–10) | **G6 + G7 + G8 + G9 + G10 FULLY READ + CITATION CHECKS PASSED 2026-10-26** (English VI 2019 4th printing; English VII 2019 3rd printing; English VIII 2019 3rd printing; English IX 2019 3rd printing; English X 2019 3rd printing; all image-only PDFs read from page renders) · G5 not in hand (private-repo release asset, unreachable here) · **in-hand set complete** |
 
-North Macedonia Grade 2: **book not opened yet** — the portal link in
-the library record now returns the portal's own "content does not
-exist" page (checked 2026-10-25); the held copy sits in the textbooks
-library. It waits its turn like every book; nothing is reported from
-it until it is actually read.
+North Macedonia Grade 2: **COPY READ WHOLE + CITATION CHECK PASSED
+2026-10-29** — the secured copy was pulled into hand on 2026-10-28 on
+the user's order and read in full (16 anchors). ⚠ The secured copy is
+the OPENING of the printed book only (printed pp.3–11 of a book
+running to at least p.115): Modules 2–8 are NOT in the copy. The full
+book is owed by the library side. Filed as
+[north-macedonia.md](north-macedonia.md).
 
 Laos and Barbados: **finished countries added to the reading queue
 2026-10-27** — both were finished in the library but had never been
