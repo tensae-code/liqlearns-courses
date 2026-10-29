@@ -65,3 +65,13 @@ third **never arrive**. The regret shape a third conditional
 would need — **I wish I had / hadn't + past participle** —
 IS taught (p.8), but under "wish," never as a conditional;
 the course files it as wish, not as a conditional from Laos.
+
+**China checked — NOT stocked (series-final, 2026-10-29).**
+All nine China books were read whole for this lesson
+(filings in english/books/china.md). **No conditional is
+ever named, tabled, or taught as a structure anywhere in
+China's set** — the Grade 9 book's grammar run goes
+through object clauses, the passive, relative clauses and
+the past perfect, with no conditional unit or table in it.
+China is deliberately absent from this lesson's countries
+line — the absence is checked, not unlooked-for.

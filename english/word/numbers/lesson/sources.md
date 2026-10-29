@@ -1,6 +1,6 @@
 # Sources — Numbers
 
-countries: Egypt, India, Palestine, Laos
+countries: Egypt, India, Palestine, Laos, China, Mongolia
 
 Every part traces to its book and page.
 
@@ -18,6 +18,48 @@ CITATION CHECK PASSED 2026-10-26).
 in english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26).
 
+**Book 4:** Compulsory Education Textbook · English (Grade 3
+starting point), Grade 3 Volume 1 (student book) — China,
+People's Education Press (PEP) with Lingo Learning Inc.
+(Canada). Filed in english/books/china.md (Grade 3 Volume 1
+section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 5:** Compulsory Education Textbook · English (Grade 3
+starting point), Grade 3 Volume 2 (student book) — China,
+People's Education Press (PEP) with Lingo Learning Inc.
+(Canada). Filed in english/books/china.md (Grade 3 Volume 2
+section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 6:** Compulsory Education Textbook · English (Grade 3
+starting point), Grade 4 Volume 1 (student book) — China,
+People's Education Press (PEP) with Lingo Learning Inc.
+(Canada). Filed in english/books/china.md (Grade 4 Volume 1
+section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 7:** Compulsory Education Textbook · English (Grade 3
+starting point), Grade 4 Volume 2 (student book) — China,
+People's Education Press (PEP) with Lingo Learning Inc.
+(Canada). Filed in english/books/china.md (Grade 4 Volume 2
+section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 8:** Compulsory Education Textbook · English (Grade 3
+starting point), Grade 5 Volume 2 (student book) — China,
+People's Education Press (PEP) with Lingo Learning Inc.
+(Canada). Filed in english/books/china.md (Grade 5 Volume 2
+section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 9:** Compulsory Education Textbook · English (Grade 3
+starting point), Grade 6 Volume 2 (student book) — China,
+People's Education Press (PEP) with Lingo Learning Inc.
+(Canada). Filed in english/books/china.md (Grade 6 Volume 2
+section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 10:** English V — Student's Book, Grade 5 (a pure
+picture book: no printed English) — Mongolia, Ministry of
+Education, Culture, Science and Sports. Filed in
+english/books/mongolia.md (Grade 5 section, FULLY READ +
+CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Count objects and match them with the correct number (4 leaves, 1 sun, 5 apples, 2 tulips, 3 pineapples); "How many pencils are there? There are (2–3) pencils" / "How many stars are there? There are (3–5) stars"; trace the numbers 1–5, each row headed by that many strawberries | Egypt, KG2 (I Love My Family unit's number work), pp.54–55 |
@@ -26,12 +68,22 @@ in english/books/india.md (FULLY READ + CITATION CHECK PASSED
 | Numbers arrive inside real units, traced and copied, counted and written: 1, 2, 3 in the food unit · 4, 5, 6 in the animals unit · 7, 8, 9, 10 in the body unit | Palestine, Grade 1 Part 1 — Unit 2 "Let's eat!" p.10 · Unit 3 "Animals" p.16 · Unit 4 "My body" p.22 |
 | The book's first written ADDITION — picture sums with "+ =" — recorded here as the books' next step beyond counting (arithmetic itself belongs to the Maths title, not this lesson) | Palestine, Grade 1 Part 1, Unit 5 "Revision," p.31 |
 | Numbers 1–10 in the first unit ("Say aloud" numbers 1–6; join-the-dots 1–10); numbers 11–20 carried in the Teacher's Pages | India, Marigold Book One, Class 1, Unit 1 + Teacher's Pages |
+| Numbers split across one unit: one–five with "How many plates?" — then six–ten with age — plus count-and-check sets | China, Grade 3 Volume 1, Unit 6 "Happy birthday!," pp.58–64 |
+| The climb past ten: eleven–fifteen, then sixteen–twenty — with "How many … do you see? / do you have?" and a class survey of counted things | China, Grade 3 Volume 2, Unit 6 "How many?," pp.59–62 (survey p.61) |
+| Counting people: "How many people are there in your family? — Three." — the counted six that is five people and the puppy | China, Grade 4 Volume 1, Unit 6 "Meet my family!," p.58 |
+| Counting classes, animals and money: "How many students are there in your class? — Forty-five students."; seventeen horses; the tens twenty / thirty / forty / fifty on the opener balloons; prices in words and figures up to ¥500 | China, Grade 4 Volume 2, p.7; Unit 4, pp.36, 41; Unit 2 opener, pp.12–13; Unit 6, pp.56–63 |
+| Ordinals as a working date system: 1st–5th with event dates, the harder forms 12th, 20th, 21st, 23rd, 30th with birthday dates, and a cardinal ↔ ordinal table with gap-fills | China, Grade 5 Volume 2, Unit 4 "When is the art show?," pp.36, 39, 42, 44 |
+| Measuring people in numbers: height, weight and shoe size compared — "I'm 1.65 metres" | China, Grade 6 Volume 2, Unit 1, pp.4, 6 |
+| Numbers 1–10 as walking figure-characters, and counted sets of classroom things in tick-box and matching panels (picture citation only; the book prints no English wording) | Mongolia, English V (Grade 5), Unit 3, printed pp.28, 29, 31 |
 
-**Acceptance count: taught in 4 countries (Egypt, India,
-Palestine, Laos).** Palestine carries the youngest path (numbers
+**Acceptance count: taught in 6 countries (Egypt, India,
+Palestine, Laos, China, Mongolia).** Palestine carries the youngest path (numbers
 inside the word units, traced); Egypt carries the counting
 question and the climb (1–5, 11–20, by tens to 100); India
-carries the same 1–20 in its first book. Other finished
+carries the same 1–20 in its first book; China carries the
+whole climb again with its counting questions, prices,
+ordinals as dates, and measuring; Mongolia carries 1–10 as
+picture characters over counted sets. Other finished
 countries join as their books are read (see READING-QUEUE.md).
 
 **Laos Grade 3 added 2026-10-27** — *English for Primary Schools,

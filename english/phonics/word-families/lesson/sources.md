@@ -1,6 +1,6 @@
 # Sources for this lesson — Word families
 
-countries: Egypt, Laos
+countries: Egypt, Laos, China
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -20,8 +20,21 @@ pictures).
 | Short /ɪ/ families: **-ig** (big, fig, dig), **-in** (bin, fin, win), **-ip** (hip, dip, lip), same blending-arrow device, plus rearrange-the-letters spelling and family sorting boxes | Egypt Primary 1 Term 2, Unit 4 Lesson 2, PDF pp.72–75 |
 | Short /ɒ/ families: **-og** (dog, fog, log), **-op** (mop, hop, pop), **-ot** (pot, hot, dot), with the family words completed inside sentences and a rhyming story-chant | Egypt Primary 1 Term 2, Unit 4 Lesson 4, PDF pp.80–84 |
 | Short /ʌ/ families: **-ug** (hug, jug, mug), **-un** (bun, run, sun), **-ut** (hut, nut, cut), same device, plus the book's first word search | Egypt Primary 1 Term 2, Unit 5 Lesson 2, PDF pp.90–93 |
+| Short **a** set: cat, bag, dad, hand — one Let's spell page per short vowel (China's cycle opens) | China — English (PEP) Grade 3 Volume 2, Unit 1, printed p.6 |
+| Short **e** set: ten, pen, leg, red | China — English (PEP) Grade 3 Volume 2, Unit 2, printed p.16 |
+| Short **i** set: big, pig, six, milk | China — English (PEP) Grade 3 Volume 2, Unit 3, printed p.26 |
+| Short **o** set: dog, box, orange, body | China — English (PEP) Grade 3 Volume 2, Unit 4, printed p.40 |
+| Short **u** set: fun, run, duck, under — then the whole cycle reviewed: the missing-vowel chant and the Short vowel song with one example pair per vowel | China — English (PEP) Grade 3 Volume 2, Unit 5, printed p.50; reviews printed pp.60, 69 |
+| The silent-e ladder — the short families' long partners taught as named Let's spell pages: **a-e**, **i-e**, **o-e**, **u-e**, then the letter-e set (me/he/she/we against bed/red/get), with a mixed five-pattern sorting grid | China — English (PEP) Grade 4 Volume 1, Let's spell pages, printed pp.6, 16, 26, 40, 50; Recycle 1, printed p.33 |
+| Start to read pages: hunt named letters in mixed upper/lower case and read-and-count the unit's words in a jumbled field — the family words met whole, in the open | China — English (PEP) Grade 3 Volume 1, Start to read pages, printed pp.9, 19, 29, 43, 53, 63 |
 
-**Acceptance count: taught in 2 countries (Egypt, Laos).**
+**Acceptance count: taught in 3 countries (Egypt, Laos, China).**
+China adds a complete short-vowel cycle inside one volume —
+one Let's spell set per vowel, reviewed as a whole system
+(Grade 3 Volume 2) — the silent-e ladder that turns those
+short families into their long partners (Grade 4 Volume 1),
+and Start to read pages where the unit's words are hunted and
+counted whole (Grade 3 Volume 1).
 Counts grow as other finished countries' books are read.
 
 **Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
@@ -131,3 +144,25 @@ work from a letter bank (p.75). Rhyming-pair matching — this
 lesson's family work in pair form — runs in its practice lessons:
 dad–sad, hot–pot, fun–run, can–man (p.110) and cat–mat, bin–win,
 dog–jog, pen–ten (p.128).
+
+**China added 2026-10-29** — three books stock this lesson:
+**Book:** *Compulsory Education Textbook · English (Grade 3
+starting point), Grade 3 Volume 1* — China, People's Education
+Press (with Lingo Learning Inc., Canada), © 2012, ISBN
+978-7-107-24467-4. Filed in english/books/china.md (China —
+English Grade 3 Volume 1 — FULLY READ + CITATION CHECK PASSED
+2026-10-29). **Book:** *Compulsory Education Textbook · English
+(PEP), Grade 3 Volume 2* — China, People's Education Press (with
+Lingo Learning Inc., Canada), first edition October 2012, ISBN
+978-7-107-25247-1. Filed in english/books/china.md (China —
+English Grade 3 Volume 2 — FULLY READ + CITATION CHECK PASSED
+2026-10-29). **Book:** *Compulsory Education Textbook · English
+(PEP), Grade 4 Volume 1* — China, People's Education Press (with
+Lingo Learning Inc., Canada), 2013-approved edition, ISBN
+978-7-107-26554-9. Filed in english/books/china.md (China —
+English Grade 4 Volume 1 — FULLY READ + CITATION CHECK PASSED
+2026-10-29). Egypt builds the families vowel by vowel across
+two years and names the magic-e rule in print; China runs the
+same ground as two ladders — the five short vowels in one
+volume, then the five silent-e patterns in the next — each set
+on its own named Let's spell page.

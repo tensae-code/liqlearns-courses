@@ -1,6 +1,6 @@
 # Sources for this lesson — Greetings
 
-countries: Egypt, Libya, Nicaragua, Laos
+countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag.
@@ -24,6 +24,11 @@ side by side on one PDF page — that was wrong.
 | Vocabulary pictures — hello, goodbye, shake hands — "Listen, repeat, then act out"; speech bubble: "What's your name? My name is Hana. We are friends now!" (The same page also pictures "play" — that is a different thing, not part of this lesson.) | PDF p.9 |
 | Greetings tracing practice (following the lines) | PDF p.10 |
 | "Listen, point, and mark the matching picture": Hello! / Goodbye! / shake hands — and the match-the-word-to-the-picture exercise (goodbye, friends, shake hands, hello; the exercise's "play" item is not part of this lesson) | PDF p.11 |
+| Name exchanges from the book's first page, and "What's your name? — My name's John." | China — English (PEP) Grade 3 Volume 1, Unit 1, printed pp.2, 7 |
+| "Where are you from? — I'm from + country" — a four-country set (UK, Canada, USA, China) taught with flags and landmark photographs; the same frame works for a place inside a country ("I'm from Shandong") | China — English (PEP) Grade 3 Volume 2, Unit 1, printed pp.2–5, 7 |
+| Five printed ways to say goodbye — the closing of the exchange, as its own small set | China — English (PEP) Grade 6 Volume 2, printed p.50 |
+| The self-introduction that brings the family with it: "I'm Tracy and this is my family." — the pupil's own version spoken into an empty speech frame | North Macedonia — EXTRA and Friends, Pupil's Book 2, Checkpoint 1, printed p.10 |
+| Name work in pictures only: a playground scene where the children carry printed name labels (find-and-name), and a teacher welcoming the new boy at the front of the class — the book prints no English, so these rows cite topic and picture, never wording | Mongolia — English V (Grade 5), Unit 1, printed pp.11, 8 |
 
 **Second country merged 2026-10-25 — Libya:**
 English for Libya, Pupils Book Grade 1 (CERC, Ministry of Education,
@@ -66,13 +71,19 @@ rendered page the same day).
 - Unit 1 "Greeting and Numbers," p. 14 (Hello/Hi, Goodbye/bye tracing;
   "What's your name? / My name's" tracing strips, p. 16).
 
-**Acceptance count: taught in 4 countries (Egypt, Libya, Nicaragua, Laos).**
+**Acceptance count: taught in 7 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia).**
+China adds name exchanges from its first primary page and the
+"Where are you from? — I'm from …" origin frame (Grades 3), plus
+five printed ways to say goodbye (Grade 6 Volume 2); North
+Macedonia adds the self-introduction that introduces the whole
+family in one frame; Mongolia adds the same name work carried
+by pictures alone, its Grade 5 book printing no English at all.
 This lesson is the first layer. Courses are built from FINISHED
 countries' books only (his ruling, 2026-10-25), and updated as the
 library updates: when a country finishes, its books merge in, its name
 joins this list, and the count grows — that count is the acceptance
 points. Still to merge as their books are read, one at a time: India,
-Bangladesh, Ghana, Palestine, China and the rest of the finished 15.
+Bangladesh, Ghana, Palestine and the rest of the finished 15.
 Closed-but-not-finished countries (Ethiopia among them) join this
 lesson when they finish.
 
@@ -133,3 +144,47 @@ pattern through four children's names and ask-and-answer work
 (pp.10–11). Same pattern as the countries above, folded; the name
 set (Kham, Phone, Noy, Hong, Houmphanh, Sounthone, Champa, Payia)
 is Laos's own.
+
+**China added 2026-10-29** — three books stock this lesson:
+**Book:** *Compulsory Education Textbook · English (Grade 3
+starting point), Grade 3 Volume 1* — China, People's Education
+Press (with Lingo Learning Inc., Canada), © 2012, ISBN
+978-7-107-24467-4. Filed in english/books/china.md (China —
+English Grade 3 Volume 1 — FULLY READ + CITATION CHECK PASSED
+2026-10-29). **Book:** *Compulsory Education Textbook · English
+(PEP), Grade 3 Volume 2* — China, People's Education Press (with
+Lingo Learning Inc., Canada), first edition October 2012, ISBN
+978-7-107-25247-1. Filed in english/books/china.md (China —
+English Grade 3 Volume 2 — FULLY READ + CITATION CHECK PASSED
+2026-10-29). **Book:** *Compulsory Education Textbook · English
+(PEP), Grade 6 Volume 2* — China, People's Education Press (with
+Lingo Learning Inc., Canada), first edition October 2014 (this
+copy 4th printing, November 2017), ISBN 978-7-107-29071-8. Filed
+in english/books/china.md (China — English Grade 6 Volume 2 —
+FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**North Macedonia added 2026-10-29** — **Book:** *EXTRA and
+Friends — Pupil's Book 2* (Jenny Dooley – Virginia Evans) —
+North Macedonia, Express Publishing (with Ekspres buk ELT),
+Edition for North Macedonia 2025 (course © 2013), ISBN
+978-1-3992-2379-9. Filed in english/books/north-macedonia.md
+(North Macedonia — English Grade 2 — FULLY READ + CITATION CHECK
+PASSED 2026-10-29). The secured copy holds only the book's
+opening (printed pp.3–11); the rows above come from Checkpoint 1
+inside that opening. Its present-giving exchange ("Happy
+Birthday! This is for you!" — Lesson 3, printed p.6) is a taught
+conversation block of its own and is filed in
+english/books/north-macedonia.md; no part in this lesson's table
+carries it, so it is not merged here.
+
+**Mongolia Grade 5 added 2026-10-29** — **Book:** *English V*
+(the copy prints only "GRADE 5"; N. Mira, I. Saingergel,
+P. Bayanjargal, M. Mönkhsaikhan) — Mongolia, Ministry of
+Education, Culture, Science and Sports, seventh printing,
+Ulaanbaatar 2018 (first published 2012), ISBN 978-99929-3-440-9.
+Filed in english/books/mongolia.md (Mongolia — English Grade 5
+(English V) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+This Grade 5 merge is Mongolia's first entry in this lesson.
+The book is a pure picture book: its rows cite the name-label
+playground (printed p.11) and the class-welcome scene (printed
+p.8) as topics and pictures only.

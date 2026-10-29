@@ -1,6 +1,6 @@
 # Sources — Verbs
 
-countries: Bangladesh, Egypt, Ghana, Libya
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia
 
 Every part traces to its book and page.
 
@@ -25,6 +25,18 @@ Egypt, Ministry of Education and Technical Education. Filed in
 english/EGYPT-BOOK-MAP.md (Primary 2 Term 2 section, FULLY READ
 2026-10-25).
 
+**Book 5:** Compulsory Education Textbook · English (Grade 3
+starting point), Grade 6 Volume 1 (student book) — China,
+People's Education Press (PEP) with Lingo Learning Inc.
+(Canada). Filed in english/books/china.md (Grade 6 Volume 1
+section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 6:** English V — Student's Book, Grade 5 (a pure
+picture book: no printed English) — Mongolia, Ministry of
+Education, Culture, Science and Sports. Filed in
+english/books/mongolia.md (Grade 5 section, FULLY READ +
+CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The formal definition in words: "Verb: A verb is a word that expresses an action." — in the same box that defines noun and pronoun and names the three "parts of speech" | Bangladesh, English for Today Class 3, "Joyful school time 2," GRAMMAR FOCUS box, pp.68–71 |
@@ -37,11 +49,15 @@ english/EGYPT-BOOK-MAP.md (Primary 2 Term 2 section, FULLY READ
 | Doing words of the sports world: kick, hit (into the goal / over the net), run (around the courts), swim | Egypt, Primary 2 Term 2, Unit 3 "Sports" |
 | Circle the verb; sort nouns against verbs — the term's own review work, the model for this lesson's questions | Egypt, Primary 2 Term 2, Final Review, pp.106–108 |
 | The he/she/it rule in the book's own words: "for he, she, or it, we add -s to the verb" — with its model pair "I take pictures. My friend rides the camel." | Egypt, Primary 2 Term 2, Unit 5, Language in Use box, p.86 |
+| The he/she/it -s rule taught as a whole system on hobby phrases — cooks Chinese food, studies Chinese, does word puzzles, goes hiking — sorted again in the wrap-up verb hunt | China, Grade 6 Volume 1, Unit 4, pp.40–44 (word set p.41) |
+| Action words carried by pictures alone — daily routines and free-time actions in round picture frames (picture citation only; the book prints no English wording) | Mongolia, English V (Grade 5), Unit 9, printed pp.88, 90, 92, 94 |
 
-**Acceptance count: taught in 4 countries (Bangladesh, Egypt,
-Ghana, Libya).** Bangladesh carries the formal definition;
+**Acceptance count: taught in 6 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Mongolia).** Bangladesh carries the formal definition;
 Libya the shortest one; Ghana the test and the smallest
-sentence shape; Egypt the review work and the he/she/it -s rule.
+sentence shape; Egypt the review work and the he/she/it -s rule;
+China carries the -s rule as a whole taught system; Mongolia
+carries the actions as pure pictures, with no printed words.
 The tenses themselves are a different thing and are NOT sourced
 here — they live at the Sentence stage (Level 3, Unit 3 "Now,
 Before, Later"). Other finished countries join as their books

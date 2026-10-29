@@ -1,6 +1,6 @@
 # Sources — The passive
 
-countries: Egypt, Libya, Mongolia, Laos
+countries: Egypt, Libya, Mongolia, Laos, China
 
 Every part traces to its book and page.
 
@@ -21,6 +21,11 @@ Education. Filed in english/EGYPT-BOOK-MAP.md (FULLY
 READ 2026-10-26; the formal citation check for the
 pre-law Egypt reads is still owed).
 
+**Book 4:** English, Grade 9 (full-year volume, "Go for
+it!") — China, People's Education Press. Filed in
+english/books/china.md (FULLY READ + CITATION CHECK
+PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The PASSIVE discovery — the active/passive pair ("Edison invented the light bulb in 1879." → "The light bulb was invented by Edison in 1879.") and the rule as printed: "The passive is formed with be + past participle," + transformations | Mongolia, English X, Unit 6 "Inventions," p.86 |
@@ -34,16 +39,24 @@ pre-law Egypt reads is still owed).
 | The PRESENT PERFECT PASSIVE (new in Egypt's run): have / has + been + the past participle — "The homework has been done"; "The Pyramids have been visited" — taught beside its active twin | Egypt, Preparatory 9 Term 1, Unit 1, Tips p.17 |
 | The FUTURE SIMPLE PASSIVE: will be + past participle, "used to describe actions that will be done in the future," shown against its active pair ("We will finish this project next Friday" → "This project will be finished next Friday") | Egypt, Preparatory 9 Term 1, Unit 3, Tip p.45 |
 | The passive line Egypt builds on: present simple passive + modal passive | Egypt, Preparatory 8 Term 1 (as filed in the Prep 9 grammar-spine note) |
+| The PRESENT passive as a whole unit: be made of / from / in and the making of a thing — tea grown on mountain sides, picked by hand, sent for processing — with an explicit active→passive pair in the Grammar Focus | China, Grade 9, Unit 5 "What are the shirts made of?", Grammar Focus p.36 (unit pp.33–40) |
+| The PAST passive as the next whole unit: "When was it invented? — It was invented by Whitcomb Judson in 1893," carried through the basketball reading (Naismith; the first game, December 21, 1891) | China, Grade 9, Unit 6 "When was it invented?", Grammar Focus p.44 (unit pp.41–48) |
+| The MODAL passive: should (not) be allowed to — and active sentences about rules converted into the passive in the practice set | China, Grade 9, Unit 7 "Teenagers should be allowed to choose their own clothes," Grammar Focus p.52 (unit pp.49–56) |
+| The passive stated again in the book's own reference set, in the back-matter Grammar tables | China, Grade 9, Grammar, pp.150–155 |
 
-**Acceptance count: taught in 4 countries (Egypt,
-Libya, Mongolia, Laos).** Mongolia discovers the shape from the
+**Acceptance count: taught in 5 countries (Egypt,
+Libya, Mongolia, Laos, China).** Mongolia discovers the shape from the
 Edison pair, drills by + agent in its inventions unit,
 and spreads the present/past/future coats in its clothing
 unit and reference. Libya prints the full five-tense
 table in one place. Egypt completes the line late and
 deliberately — modal coat first (Prep 8), then the
 perfect and future coats shown against their active
-twins (Prep 9). Other finished countries join as their
+twins (Prep 9). China gives the fullest single-book
+run yet: the present and past passives as whole
+consecutive units, the modal passive inside its rules
+unit, and the whole set tabled again in its Grammar
+reference. Other finished countries join as their
 books are read (see READING-QUEUE.md).
 
 **Laos Grade 9 added 2026-10-27** — *English for Secondary

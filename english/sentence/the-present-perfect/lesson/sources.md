@@ -1,6 +1,6 @@
 # Sources — The present perfect
 
-countries: Egypt, Libya, Laos
+countries: Egypt, Libya, Laos, China
 
 Every part traces to its book and page.
 
@@ -20,6 +20,11 @@ english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26; the
 formal citation check for the pre-law Egypt reads is
 still owed).
 
+**Book 4:** English, Grade 9 (full-year volume, "Go for
+it!") — China, People's Education Press. Filed in
+english/books/china.md (FULLY READ + CITATION CHECK
+PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The tense arrives as the "I've Finished my Work" song (Track 22) — cleaned, washed, swept, painted, tidied, talked — and the participle hunt ("How many different past participles can you find on page 32?") | Libya, Grade 8 Course Book, Unit 3, Lesson 1, p.32 |
@@ -32,15 +37,18 @@ still owed).
 | The Functional Grammar box "Sharing experiences: Present perfect with ever, never, yet and already" ("Have you ever been to Greece? I've never visited England. I haven't picked up the brochures yet. Tariq's father has already seen the Pyramids.") | Libya, Grade 9 Course Book, Lesson 2 "Choosing a Holiday," p.33; Grammar Reference pp.99–100 |
 | The Grammar Reference entry: present perfect simple — uses (effect on the present; for/since; recently); exact past time takes the past simple instead; ever/never, yet, already positions | Libya, Grade 9 Course Book, Grammar Reference, Unit 3 (book pp.96–105, as filed in libya.md) |
 | The full Present Perfect section: form has/have + past participle; uses (actions started in the past and continuing now; things happened recently with results we can see today); the structure table (affirmative / negative / question); the Tip (has with he/she/it, have with I/you/we/they); regular participles add -ed, irregulars change form (build→built, go→gone, write→written) | Egypt, Primary 6 Term 2, Unit 3, p.47 |
+| The tense at review level only: China's Grade 9 book carries the present perfect in its Grammar reference and in recycled use, but teaches no new present-perfect unit — its new perfect teaching is the past perfect. A review witness, not a teaching one | China, Grade 9, Grammar, pp.150–155 |
 
-**Acceptance count: taught in 3 countries (Egypt,
-Libya, Laos).** Libya introduces the tense at Grade 8 with the
+**Acceptance count: taught in 4 countries (Egypt,
+Libya, Laos, China).** Libya introduces the tense at Grade 8 with the
 song and the grammar box, guards the no-exact-time rule in
 its Teacher's Book, sets the ever/never/yet/already box at
 Grade 9, and states the whole entry again in its Grammar
 Reference. Egypt teaches the same tense at Primary 6 with
 the full structure table and the two uses (still going;
-result we can see). Other finished countries join as their
+result we can see). China witnesses it at review level
+only — its Grade 9 book's new perfect teaching is the
+past perfect, not this tense. Other finished countries join as their
 books are read (see READING-QUEUE.md).
 
 **Laos Grade 8 added 2026-10-27** — *English for Secondary

@@ -1,6 +1,6 @@
 # Sources — The alphabet
 
-countries: Egypt, Libya, Laos
+countries: Egypt, Libya, Laos, China
 
 Every part traces to its book and page. The PDF of Libya's Pupils Book
 is one book page per PDF page, with the book page printed at the
@@ -17,6 +17,12 @@ liasinstitute.com, the file the library record points to).
 Ministry of Education and Technical Education (see the Before the
 letters sources file for the full record).
 
+**Book 3:** Compulsory Education Textbook · English (Grade 3
+starting point), Grade 3 Volume 1 — China · **Publisher:** People's
+Education Press (with Lingo Learning Inc., Canada), © 2012, ISBN
+978-7-107-24467-4. Filed in english/books/china.md (China — English
+Grade 3 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 1 is "The Alphabet" — Book Map: Unit 1 vocabulary (a–z) and the one-word-per-letter list (apple, ball, car, duck, elephant, flower, gate, hand, insect, jam, kite, lemon, monkey, nose, orange, plane, queen, rocket, sun, tomato, umbrella, violin, watch, x-ray, yo-yo, zebra) | Libya Pupils G1, PDF p.5 (Book Map, Units 1–4) |
@@ -30,6 +36,8 @@ letters sources file for the full record).
 | The sound of Tt, taught as its own page: "Listen and repeat" — toys, turtle, train; then "Let's trace letter Tt" (+ t inside train, toys) | Egypt KG1, book pp.8–9 (read as pictures, 2026-10-25) |
 | The sound of Ii: insects, ink, in; trace Ii (+ i inside ink, in); then "It's Practice Time! Circle the beginning letter" (Tt or Ii) | Egypt KG1, book pp.13–15 (read as pictures, 2026-10-25) |
 | Egypt KG1's full letter order for the term (Review page): Tt Ii Ss Aa Nn Pp Hh Dd Rr Ee Cc Kk Mm — 13 letters, sounds order | Egypt KG1, contents/review, PDF p.4 (read as a picture, 2026-10-25) |
+| The ABC song placed inside Unit 1, before any letter teaching — the alphabet sung whole first, then met in pieces | China — English (PEP) Grade 3 Volume 1, Unit 1, printed p.6 |
+| A missing-letter sequence exercise — the alphabet with blanks to fill, as a review shape | China — English (PEP) Grade 3 Volume 1, Recycle 2, printed p.69 |
 | Every one of the 13 letters gets the same pair of pages in Egypt KG1 — a sound page ("Listen and repeat," 3 words) and a trace page (the letter, then the letter inside its words): Ss star/sun/school pp.23–24 · Aa apple/ant pp.28–29 · Nn nest/night/numbers pp.30–31 · Pp pen/pan/pants pp.47–48 · Hh helicopter/honey/heart pp.49–50 · Dd dog/desk/dress pp.54–55 · Rr robot/rice/rabbit pp.56–57 · Ee egg/eagle/elephant pp.70–71 · Cc cap/cow/cloud pp.72–73 · Kk kiwi/kite/kick pp.77–78 · Mm mud/man/mom pp.79–80; review matching/tracing pp.89–92 | Egypt KG1, book pages as listed (whole book read complete, 2026-10-25) |
 
 **Egypt KG2 rows added 2026-10-25** (whole book read complete) —
@@ -189,7 +197,16 @@ change, but Libya's layer is now a *spiral* — taught in Grade 1,
 re-taught in Grade 2 — which is how the course itself says a
 sound is learned.
 
-**Acceptance count: taught in 3 countries (Egypt, Libya, Laos).**
+**Acceptance count: taught in 4 countries (Egypt, Libya, Laos, China).**
+China joins through its Grade 3 Volume 1: the ABC song is placed
+before any letter teaching (Unit 1, p.6), and Recycle 2 adds a
+missing-letter sequence exercise (p.69) — the alphabet as a sung
+whole and a gapped sequence, ahead of the letter-by-letter work
+that China itself files in phonics/blending-sounds. Mongolia's
+Grade 5 book was checked for this lesson and adds nothing: it
+teaches no letters (its alphabet is a classroom wall strip that
+never goes past "Ii") — recorded as an honest negative in
+english/books/mongolia.md.
 The full alphabet and the letter-word list are Libya's in this layer;
 Egypt joins for the sounds-way grouping. Other finished countries join
 as their first English books are read (see READING-QUEUE.md).

@@ -1,6 +1,6 @@
 # Sources for this lesson — Blends
 
-countries: Egypt
+countries: Egypt, China
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -17,8 +17,14 @@ pictures).
 |---|---|
 | Consonant blends with s- — **sk** (skip, sky), **sn** (snail, snake), **st** (strong, star), **sw** (swing, swim) — the blend printed pink inside each whole word, blended and read aloud, then used inside sentences | Egypt Primary 1 Term 2, Unit 2 Lesson 4, PDF pp.38–41 |
 | Second blend set, blends with (l) — **cl** (clock), **bl** (black), **fl** (flag — the flag of Egypt), **sl** (slide) | Egypt Primary 1 Term 2, Unit 5 Lesson 4, PDF pp.98–100 |
+| Opening blends **cl / pl** on one Let's spell page, with a chant, a grouping task and sentence writing | China — English (PEP) Grade 5 Volume 2, Unit 1, printed p.6 |
+| Opening blends **gr / br** on one Let's spell page, same shape | China — English (PEP) Grade 5 Volume 2, Unit 2, printed p.16 |
+| Review stock: a grouping task sorting the blends **cl, pl, br, fr** with the digraphs | China — English (PEP) Grade 6 Volume 2, Recycle, printed p.49 |
 
-**Acceptance count: taught in 1 country (Egypt).**
+**Acceptance count: taught in 2 countries (Egypt, China).**
+China joins with blends taught two at a time on Let's spell
+pages in Grade 5 (cl/pl, gr/br) and sorted again in the
+end-of-primary grouping review (Grade 6 Volume 2).
 Counts grow as other finished countries' books are read.
 
 ### Egypt — Primary 3 Term 1 (read 2026-10-25) — three-letter blends
@@ -65,3 +71,19 @@ Same country, deeper layer — the country count does not change.
   Primary 4 blend lessons were building toward — P4 taught
   blends set by set (start blends, then end blends kept
   apart); P5 names the whole family in one rule.
+
+**China added 2026-10-29** — two books stock this lesson:
+**Book:** *Compulsory Education Textbook · English (PEP), Grade 5
+Volume 2* — China, People's Education Press (with Lingo Learning
+Inc., Canada), first edition October 2014, ISBN 978-7-107-29086-2.
+Filed in english/books/china.md (China — English Grade 5 Volume 2
+— FULLY READ + CITATION CHECK PASSED 2026-10-29). **Book:**
+*Compulsory Education Textbook · English (PEP), Grade 6 Volume 2*
+— China, People's Education Press (with Lingo Learning Inc.,
+Canada), first edition October 2014 (this copy 4th printing,
+November 2017), ISBN 978-7-107-29071-8. Filed in
+english/books/china.md (China — English Grade 6 Volume 2 — FULLY
+READ + CITATION CHECK PASSED 2026-10-29). China's blends arrive
+late and in pairs — two blends per Let's spell page in the last
+primary years, each with a chant and a grouping task, where Egypt
+starts them in Primary 1.

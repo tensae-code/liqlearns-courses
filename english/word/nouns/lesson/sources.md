@@ -1,6 +1,6 @@
 # Sources — Nouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, Laos
+countries: Bangladesh, Egypt, Ghana, Libya, Laos, China
 
 Every part traces to its book and page.
 
@@ -26,6 +26,12 @@ Assessment (NaCCA), September 2019. Filed in
 english/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26).
 
+**Book 5:** Compulsory Education Textbook · English (Grade 3
+starting point), Grade 5 Volume 1 (student book) — China,
+People's Education Press (PEP) with Lingo Learning Inc.
+(Canada). Filed in english/books/china.md (Grade 5 Volume 1
+section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition in its three-sort form: "Nouns — person, place, thing," taught with the "Life in the City" text (Karim) and sorting work | Egypt, Primary 2 Term 2, Unit 4, Lesson 3 "Language in Use," p.68 |
@@ -41,11 +47,13 @@ english/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 | The noun-or-verb test inside a sentence: "Ofori danced — Who danced? What did Ofori do?" — learners identify nouns and verbs inside simple sentences | Ghana, NaCCA English Curriculum B1–3, Basic 2, Strand 5 (Using Writing Conventions / Grammar Usage) |
 | Circle the noun; sort nouns into person / place / thing; sort nouns against verbs — the term's own review work, the model for this lesson's questions | Egypt, Primary 2 Term 2, Final Review, pp.106–108 |
 | The deeper kinds waiting past this lesson's top level — common, proper, collective, abstract nouns | Ghana, NaCCA English Curriculum B4–6, Grammar Usage strand (recorded in CURRICULUM stocking notes; proper names are touched in this lesson only as special names with capitals) |
+| Plural spelling classes worked as a completion table — one banana / two bananas, sandwich → sandwiches; pear, potato, carrot, tomato, noodle, dress, hamburger, box, onion, class sorted into their plural spellings | China, Grade 5 Volume 1, Unit 3, "Let's wrap it up," p.30 |
 
-**Acceptance count: taught in 5 countries (Bangladesh, Egypt,
-Ghana, Libya, Laos).** Egypt and Bangladesh carry the definition itself,
+**Acceptance count: taught in 6 countries (Bangladesh, Egypt,
+Ghana, Libya, Laos, China).** Egypt and Bangladesh carry the definition itself,
 each in the three-sort form; Libya carries it twice more in its
-own shorter words; Ghana carries the sentence test. Other finished
+own shorter words; Ghana carries the sentence test; China
+carries the plural spellings sorted as a table. Other finished
 countries join as their books are read (see READING-QUEUE.md).
 
 **Laos Grade 7 added 2026-10-27** — *English for Secondary

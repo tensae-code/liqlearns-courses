@@ -1,6 +1,6 @@
 # Sources — The home
 
-countries: Egypt, Libya, Palestine, Laos
+countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia
 
 Every part traces to its book and page.
 
@@ -20,6 +20,37 @@ book) — Palestine, Ministry of Education & Higher Education /
 Macmillan. Filed in english/books/palestine.md (FULLY READ +
 CITATION CHECK PASSED 2026-10-26).
 
+**Book 4:** Compulsory Education Textbook · English (Grade 3
+starting point), Grade 3 Volume 2 (student book) — China,
+People's Education Press (PEP) with Lingo Learning Inc.
+(Canada). Filed in english/books/china.md (Grade 3 Volume 2
+section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 5:** Compulsory Education Textbook · English (Grade 3
+starting point), Grade 4 Volume 1 (student book) — China,
+People's Education Press (PEP) with Lingo Learning Inc.
+(Canada). Filed in english/books/china.md (Grade 4 Volume 1
+section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 6:** EXTRA and Friends — Pupil's Book 2 (student
+book) — North Macedonia, Express Publishing (Edition for
+North Macedonia, 2025; the copy in hand is the printed
+book's opening only, printed pp.3–11). Filed in
+english/books/north-macedonia.md (FULLY READ + CITATION
+CHECK PASSED 2026-10-29).
+
+**Book 7:** English V — Student's Book, Grade 5 (a pure
+picture book: no printed English) — Mongolia, Ministry of
+Education, Culture, Science and Sports. Filed in
+english/books/mongolia.md (Grade 5 section, FULLY READ +
+CITATION CHECK PASSED 2026-10-29).
+
+**Book 8:** Compulsory Education Textbook · English (Grade 3
+starting point), Grade 5 Volume 1 (student book) — China,
+People's Education Press (PEP) with Lingo Learning Inc.
+(Canada). Filed in english/books/china.md (Grade 5 Volume 1
+section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The five rooms on pictures, each with its sentence: bedroom — "I sleep in the bedroom" · bathroom — "I brush my teeth in the bathroom" · living room — "I watch TV in the living room" · dining room — "I eat in the dining room" · kitchen — "My mother cooks in the kitchen" | Egypt, Primary 1 Term 2, Unit 4 "My House," Lesson 1 "Rooms in My House," pp.67–68 |
@@ -31,13 +62,27 @@ CITATION CHECK PASSED 2026-10-26).
 | The labelled house — bathroom, kitchen, garden, bedroom, dining room, sitting room — with "Where's …? In the bedroom" | Libya, Grade 2 Pupils Book, "Where things are" unit, Lesson 3 |
 | "What's in your bedroom?" — wardrobe, book, shelf, picture, lamp, bed, skates | Libya, Grade 2 Pupils Book, same unit, Lesson 4, p.46 |
 | My bedroom — bed, table, chair, box (the first bedroom things) | Palestine, Grade 1 Part 2, Unit 15 "My bedroom," p.34 |
+| The rooms taught with the action that belongs to each: living room — watch TV · study — read a book · kitchen — have a snack · bedroom — have a nap · bathroom — take a shower | China, Grade 4 Volume 1, Unit 4 "My home," p.39 |
+| Furniture placed by a first-person room paragraph the learner then imitates: bed, phone, table, sofa, fridge (word set p.42, paragraph p.43) | China, Grade 4 Volume 1, Unit 4, pp.42–43 |
+| Position words in / on / under as a finding game — "Where is my car? — Is it in the desk?" — worked on chair and desk; behind once, in the closing story | China, Grade 3 Volume 2, Unit 4 "Where is my car?," pp.38–39, 41–43 (behind p.45) |
+| The family words that live in the home set: father (dad), mother (mum) — then the family tree: grandmother (grandma), grandfather (grandpa), sister, brother | China, Grade 3 Volume 2, Unit 2 "My family," pp.15, 18 |
+| The room said by what stands in it — "There is a big bed. There is a table beside the bed." (opener dialogue); the room word set — clock, plant, photo, water bottle, bike — placed one by one with "There is a …" in a growing-chain game; "There are …" for the many things (pictures, plants, two dogs, some fish) | China, Grade 5 Volume 1, Unit 5 "There is a big bed," pp.47–49, 51 |
+| The prepositions of place taught as one set — beside, behind, above, in front of, between (with on and in from earlier pages): "Where is the ball? It's in front of the dog."; the same set sung in the unit song and sorted with There is / There are in the wrap-up | China, Grade 5 Volume 1, Unit 5, p.52 (song p.70; wrap-up p.54) |
+| A room written about in an email — Mr Jones's new house: dirty rooms, pencils and crayons on the floor, a mouse behind the computer — then write three There is / There are sentences about your own room | China, Grade 5 Volume 1, Unit 5, Read and write, p.53 |
+| The family set with its informal pair taught side by side: father, mother, grandfather, grandmother, brother, sister — and mummy / daddy in the song, the project captions and the checkpoint sentences | North Macedonia, Grade 2, Module 1 "My Family," Lesson 1, printed p.4 (mummy/daddy printed pp.5, 8, 11) |
+| Rooms and furniture in real photographs — living room, bathroom, bedroom, kitchen — furniture sets, a cutaway house, and in/on judged true or false in pictures (picture citation only; the book prints no English wording) | Mongolia, English V (Grade 5), Unit 8 "My home," printed pp.76, 80, 82, 84–85 |
 
-**Acceptance count: taught in 4 countries (Egypt, Libya,
-Palestine, Laos).** Egypt carries the five rooms with a sentence for
+**Acceptance count: taught in 7 countries (Egypt, Libya,
+Palestine, Laos, China, North Macedonia, Mongolia).** Egypt carries the five rooms with a sentence for
 each and the drilled question; Libya carries the same rooms
 twice (Grade 1 set, Grade 2 labelled house) with the sitting
 room name and the furniture; Palestine carries the bedroom set
-for the youngest learners. Other finished countries join as
+for the youngest learners; China carries the rooms paired with
+their actions, the position-word finding game, the family
+words, and the there is/are room system with the six
+prepositions of place taught as one set; North Macedonia carries the family set with its formal
+and informal names taught side by side; Mongolia carries the
+rooms and furniture in real photographs. Other finished countries join as
 their books are read (see READING-QUEUE.md).
 
 **Laos Grade 5 added 2026-10-27** — *Student's Book 3, Grade 5*

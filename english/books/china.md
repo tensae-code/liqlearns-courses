@@ -914,127 +914,166 @@ Unit 6's doubles as a review of all six.
   each with a Let's … action.
 - Let's spell (p.16): the "ir / ur / er" sound — girl, bird, nurse,
   hamburger; circle-the-same-sound and listen-and-write.
-- B Let's talk (p.17)
-...[truncated 12030 chars]: a morning rush told by digital clocks —
-  6:30 get up, 7:30 go to school, 8:00 English class; a clock-face
-  Let's play.
-- B Let's learn (p.18): get up, go to school, go home, go to bed with
-  times; Let's play reads a Monday timetable (6:30 get up … 9:00 go
-  to bed).
-- Read and write (p.19): number four short dialogues against pictures;
-  write the question and answer for a clock face ("What time is it?
-  It's ten o'clock." as the model).
-- Let's check + Let's sing (p.20): listen-and-number, match digital
-  times to "It's time for …" sentences; the song "It's twelve
-  o'clock" (a tick-tack cat-and-mouse song).
-- C Story time (p.21): Zip tricks the still-sleeping Zoom with a
-  turned-forward clock on April 1st. Plot summary only.
+- B Let's talk (p.17): a morning rush told by the digital clocks on
+  the wall — 6:30 a.m. and time to get up (with breakfast ready),
+  7:30 and "Hurry up! It's time to go to school.", then 8:00 in the
+  classroom, "It's 8 o'clock. It's time for English class."; a
+  clock-face Let's play ("It's 3 o'clock. It's time for music
+  class." / "It's 7 o'clock. It's time to get up.").
+- B Let's learn (p.18): get up, go to school, go home, go to bed,
+  each fixed to a digital time (6:25 a.m., 7:30 a.m., 4:00 p.m.,
+  9:00 p.m.); Let's play reads a full Monday timetable aloud —
+  6:30 get up, 7:00 breakfast, 7:20 go to school, 10:40 English
+  class, 12:00 lunch, 2:15 music class, 3:00 PE class, 4:50 go
+  home, 9:00 go to bed.
+- Read and write (p.19): Read and number — four short home-and-school
+  dialogues to match against their pictures (getting up, a 10
+  o'clock music class, a 6 o'clock dinner with Amy missing, a 9
+  o'clock bedtime with "Just a minute."); Look and write gives the
+  model exchange "What time is it? It's ten o'clock." to copy
+  against a clock face.
+- Let's check + Let's sing (p.20): Listen and number under four
+  a.m./p.m. picture labels; Look and match pairs seven digital
+  times (6:30, 7:00, 7:20, 12:05, 3:40, 4:00, 9:00) with "It's time
+  for / to …" sentences; the song "It's twelve o'clock", a
+  tick-tack cat-and-mouse song.
+- C Story time (p.21): Zip wakes the still-sleeping Zoom and shows
+  him a clock reading eight; Zoom panics that he is late for school
+  before Zip points at the calendar — April 1st, and the real time
+  is seven. Plot summary only.
 
 ### Unit 3 — Weather (pp.22–31)
-- Opener (pp.22–23): phone calls around the world — rainy London,
-  cloudy and windy Singapore, snowy cold Moscow, hot and sunny
-  Sydney; "What's the weather like in …?" throughout.
-- A Let's talk (p.24): snow outside — "Can I go outside now? No, you
-  can't. It's cold outside."; at lunch, "Can I have some soup? Yes,
-  you can." with a "Be careful! It's very hot." warning; a role-play
-  Let's play on the same permission frame.
+- Opener (pp.22–23): phone calls around the world — rainy London
+  ("What's the weather like in London? It's rainy."), cloudy and
+  windy Singapore, and snowy Moscow ("Is it cold in Moscow? …
+  It's snowy here.") against hot and sunny Sydney.
+- A Let's talk (p.24): snow outside at 11:00 a.m. — "Can I go outside
+  now? No, you can't. It's cold outside."; at lunch (12:05 p.m.)
+  permission flips: "Can I have some soup? Yes, you can.", with a
+  "Be careful! It's very hot." warning; a role-play Let's play on
+  the same permission frame.
 - A Let's learn (p.25): cold, cool, warm, hot, each pinned to a
   temperature on a China map (Harbin cold 5°C, Beijing warm 20°C,
-  Lhasa cool 15°C, Hong Kong hot 30°C) inside a weather-report frame;
-  a cold/warm chant.
+  Lhasa cool 15°C, Hong Kong hot 30°C) inside a weather-report
+  frame; a cold-outside / warm-inside chant.
 - Let's spell (p.26): the "ar / al" sounds — arm, car, card, ball,
-  tall, wall; sound-sorting and listen-and-write.
-- B Let's talk (p.27): a phone call to New York — "What's the weather
-  like in New York? It's rainy." and the degrees joke: Beijing's
-  "26 degrees" sounds cold to New York until the Celsius/Fahrenheit
-  mix-up lands ("It's warm!"); Let's play matches flags, cities and
-  temperatures.
-- B Let's learn (p.28): sunny, rainy, windy, cloudy, snowy on a world
-  weather map; a card-matching Let's play.
-- Read and write (p.29): a postcard from Dad in Sydney (hot and sunny,
-  warm water, swimming; asking about Beijing's wind and kite-flying)
-  with three written comprehension questions; write "Is it sunny /
-  windy?" question-and-answer pairs from pictures.
+  tall, wall; a read-listen-and-number set and listen-and-write
+  lines.
+- B Let's talk (p.27): a phone call between Chen Jie and Mark in
+  New York — "What's the weather like in New York? It's rainy. How
+  about Beijing? Is it cold? No, it isn't. It's 26 degrees." —
+  and the degrees joke: 26 degrees sounds cold to New York until
+  the Celsius/Fahrenheit mix-up lands ("Huh? No, it's not. It's
+  warm!"); Let's play matches flags, cities and temperatures
+  (New York 20°C, Toronto 7°C, Beijing 15°C, Sydney 30°C, London
+  5°C).
+- B Let's learn (p.28): sunny, rainy, windy, cloudy, snowy placed on
+  a world weather map in a TV-report frame; a card-matching Let's
+  play (weather cards against Chinese city cards, with a planted
+  wrong pairing to correct).
+- Read and write (p.29): a postcard from Dad in Sydney (hot and
+  sunny, warm water, swimming outside; asking whether Beijing is
+  cool and windy and whether John can fly his kite) with three
+  written comprehension questions; Look and write builds "Is it
+  sunny / windy?" question-and-answer pairs from pictures.
 - Let's check + Let's sing (p.30): listen-and-tick weather pairs and
-  picture matching across all nine weather words; the song "Thunder".
-- C Story time (p.31): Zip has a cold; Zoom flies to meet her after
-  misreading a forecast — the warm city named in the forecast is not
-  the city he lands in. Plot summary only.
+  picture matching across all nine weather words (cold, cool, hot,
+  warm, sunny, rainy, windy, cloudy, snowy); the song "Thunder".
+- C Story time (p.31): Zip is in bed with a cold; Zoom hears Beijing
+  is sunny and warm, misreads the TV forecast — "Tomorrow will be
+  warm in Dali" — as Dalian, and flies into cold rain, arriving
+  sneezing. Plot summary only.
 
 ### Recycle 1 (pp.32–35)
-- Read aloud (p.32): a five-scene play — a school show at 4 o'clock,
-  a 3:40 departure, cold windy weather, rain, the library on the first
-  floor, and a "Show cancelled!" notice; "Can you act it out?"
-- Phonics and questions (p.33): listen, circle the sound pair and
-  match to pictures (the er/ir, ar/al, or groups); ask-and-answer over
-  a cutaway school picture.
+- Read aloud (p.32): a five-scene play — a show in the library today
+  at 4 o'clock, a clock check ("It's 3:40. Time to go!"), cold
+  windy weather and a jacket question, rain on the way, the library
+  on the first floor, and a "Show cancelled!" notice at the door;
+  "Can you act it out?"
+- Listen, circle and match (p.33): circle the heard sound in four
+  leaf pairs (ar/or, er/ir, al/ar, ur/er) and match to pictures;
+  Look, ask and answer over a cutaway school picture ("Is this the
+  library? / What's the weather like? / Where is the computer
+  room?").
 - Listen, tick and say (p.34): a weather grid for Beijing, Shanghai,
   Harbin, Lhasa, Sanya and Hong Kong; Read and write completes two
-  quoted sentences with picture words, recycling jobs and objects from
-  earlier grades.
-- Read and circle (p.35): a boy's day told in six time-stamped
-  sentences with clock faces; one sentence's weather word disagrees
-  with its picture and is the word to circle.
+  quoted sentences with picture words (a PE football sentence and a
+  mother-the-driver sentence recycling earlier grades' jobs and
+  objects), with a "Circle the big letters" reminder from Zip.
+- Read and circle (p.35): a boy's day in six time-stamped sentences
+  with clock faces (6:00 get up, 7:30 school, 9:00 Chinese class,
+  10:00 library on the second floor, 12:00 lunch, 3:15 PE) — the
+  first sentence calls the weather sunny while its window shows
+  rain, and that word is the one to circle.
 
 ### Unit 4 — At the farm (pp.36–45)
 - Opener (pp.36–37): a farm visit — "How many horses do you have?
-  Seventeen.", carrot tops mistaken for potatoes, and "What are
-  those? They're sheep."
-- A Let's talk (p.38): "Are these carrots? Yes, they are." and "What
-  are these? They're tomatoes." — with yellow tomatoes tasted; a
-  guessing-card Let's play.
-- A Let's learn (p.39): tomatoes, potatoes, carrots, green beans (and
-  onions in the chant); a likes chant built on the four vegetables.
-- Let's spell (p.40): the "or" sound — horse, fork, homework, world;
-  listen-and-number and listen-and-write.
-- B Let's talk (p.41): counting horses again ("Seventeen") and "Are
-  they hens? No, they aren't. They're ducks."; Let's play mimes
-  animals to a printed sound table (cat meow, duck quack, dog woof,
-  hen cluck, cow moo, horse neigh).
-- B Let's learn (p.42): horses, cows, hens, sheep on one farm picture;
-  Draw and say — build your own farm and describe it.
+  Seventeen.", carrot tops mistaken for potatoes ("Are these
+  potatoes? … They're carrots."), and "What are those? They're
+  sheep." with a counting-sheep sleepiness joke.
+- A Let's talk (p.38): "Are these carrots? Yes, they are." and
+  "What are these? They're tomatoes." — yellow tomatoes, tasted on
+  the spot ("Try some! They're good."); a guessing-card Let's play.
+- A Let's learn (p.39): tomatoes, potatoes, carrots, green beans;
+  a likes chant built on the four vegetables, with onions joining
+  in the chant only.
+- Let's spell (p.40): the "or" sound — horse, fork, homework,
+  world (map); read-listen-and-number (fork, for, born, world,
+  horse, work) and listen-and-write lines.
+- B Let's talk (p.41): counting horses again ("How many horses do
+  you have? … Seventeen.") and "What about those? Are they hens?
+  No, they aren't. They're ducks."; Let's play mimes animals to a
+  printed sound table (cat meow, duck quack, dog woof, hen cluck,
+  cow moo, horse neigh).
+- B Let's learn (p.42): horses, cows, hens, sheep on one farm
+  picture; Draw and say — build your own farm from outline pictures
+  and describe it ("This is my farm. … Are these …?").
 - Read and write (p.43): a four-part reading tour of Mr MacDonald's
-  farm (vegetable garden, tomatoes and green beans, sheep counted at
-  ten, goats that are not sheep) with a tick-what-you-can-see table;
-  write "These are … / Those are …" sentences.
+  farm (the vegetable garden with carrots and potatoes; tomatoes
+  and green beans over there; sheep, counted at ten; goats that are
+  not sheep and love carrots) with a tick-what-you-can-see table;
+  Look and write models "These are cows." / "Those are sheep."
 - Let's check + Let's sing (p.44): listen-and-tick animal and
-  vegetable cards, picture-to-list matching; the song "Mary has a
-  little lamb" (first two verses).
-- C Story time (p.45): Zip loves vegetables and Zoom loves what
-  animals give; the farm tour ends with a cow eating the straw hat
-  the pair just made. Plot summary only.
+  vegetable cards and a picture-to-list matching exercise; the song
+  "Mary has a little lamb" (the first two verses).
+- C Story time (p.45): Zip loves vegetables and Zoom loves what the
+  animals give (milk, chicken and eggs, mutton); in the heat they
+  weave a straw hat, and a hungry cow eats it. Plot summary only.
 
 ### Unit 5 — My clothes (pp.46–55)
 - Opener (pp.46–47): lost clothes in the park — "Whose are these?
-  They're John's.", "Whose cap is this? It's my brother's.", "Is this
-  yours? Yes. Thank you."
+  They're John's.", "Whose cap is this? It's my brother's.", and
+  "Is this yours? Yes. Thank you." as a dropped sock is returned.
 - A Let's talk (p.48): lost property after PE — "Amy, are these
   yours? No, they aren't. My shoes are green. They're Chen Jie's."
   and "What about this hat? Is this John's? No, it isn't. It's
   Mike's."; a classroom Let's play in the same frames.
-- A Let's learn (p.49): hat, dress, skirt, pants (under the heading
-  word "clothes"); Let's do gives clothes-care imperatives — put on
-  your shirt, take off your hat, hang up your dress, wash your skirt,
-  put away your pants.
+- A Let's learn (p.49): hat, dress, skirt, pants under the heading
+  word "clothes"; Let's do gives clothes-care imperatives — put on
+  your shirt, take off your hat, hang up your dress, wash your
+  skirt, put away your pants.
 - Let's spell (p.50): the "le" sound — apple, people, table (with
-  "little" in the reading lines); underline-and-listen, then
-  listen-and-write.
+  "little" and "Uncle" in the underline-and-listen set);
+  listen-and-write sentence frames.
 - B Let's talk (p.51): packing with Mum — "Whose coat is this? It's
   mine." and "Whose pants are those? They're your father's."; Sam
-  tries on the coat and is laughed at; Let's find out sorts Mike's
-  and Sarah's suitcases by asking whose each item is.
+  squeezes into the coat and is laughed at; Let's find out sorts
+  Mike's and Sarah's suitcases by asking whose each item is.
 - B Let's learn (p.52): coat, shirt, sweater, jacket, shorts, socks,
   with "Where are my new socks? … What colour are they? White.";
-  Let's find out — choose and colour what you want to wear on a trip.
-- Read and write (p.53): Sarah packs after summer camp ("This is my
-  red T-shirt. These are my blue pants. … Is this my hat? No, this is
-  Amy's.") with four choose-the-answer questions; write "These are
-  John's shoes."-type sentences.
+  Let's find out — choose and colour what you want to wear on a
+  trip, and say it ("I want to wear my blue pants.").
+- Read and write (p.53): Sarah packs at the end of summer camp (red
+  T-shirt, blue pants, her shoes — and a hat that turns out to be
+  Amy's) with four read-and-circle questions; Look and write models
+  "These are John's shoes." / "This is Chen Jie's dress."
 - Let's check + Let's sing (p.54): listen and tick-or-cross owners;
-  match clothes words to a shop window; the song "This old hat".
-- C Story time (p.55): Zoom turns Dad's old T-shirt into a party
-  costume with Zip's help and ends up looking like Zip. Plot summary
-  only.
+  match clothes words to a clothes-shop window; the song "This old
+  hat".
+- C Story time (p.55): Zoom borrows Dad's old T-shirt for a school
+  party, and with Zip's help — ties, cut holes, a drawn squirrel —
+  turns it into a costume that makes him look like Zip. Plot
+  summary only.
 
 ### Unit 6 — Shopping (pp.56–65)
 - Opener (pp.56–57): in a clothes shop — "Can I help you?" / "This
@@ -1043,84 +1082,69 @@ Unit 6's doubles as a review of all six.
   and is told they are not for sale.
 - A Let's talk (p.58): buying shoes — "Can I try them on? Size 6,
   please." … "No. They're too small." … size 7 … "They're just
-  right!"; a shop role-play Let's play ("too big").
+  right!"; a shop role-play Let's play ("Oh, they're too big!").
 - A Let's learn (p.59): gloves, sunglasses, umbrella, scarf; Complete
-  and say sorts clothes into a weather table ("It's hot, so I put on
-  my T-shirt.").
-- Let's spell (p.60): a whole-book sound review — read aloud the six
-  groups' word sets, a "Try this!" extra set (work, sir, turn,
-  circle, park, mall), listen-and-write sentences, and a closing
-  chant reusing the ar/al words.
-- B Let's talk (p.61): a skirt at $89 is "too expensive" and Mum says
-  no; Let's act — a budget game: it will be cold soon, you have
-  50 yuan, choose three things from a priced rail, ask prices and say
-  "I'll take it!"
-- B Let's learn (p.62): pretty, cheap, expensive (and nice in the
-  Let's play price table) over priced dresses (¥150 pretty, ¥15
-  cheap, ¥450 expensive).
-- Read and write (p.63): a sale advertisement (sunglasses and gloves
-  five yuan, scarves in many colours, cheap umbrellas) with four
-  written questions — two of them ask prices the text never states,
-  answerable only from the pictured price tags; write sentences from
-  price-tag pictures ("They are very expensive." / "They are too
-  small.").
+  and say sorts clothes into a hot/cold weather table ("It's hot,
+  so I put on my T-shirt.").
+- Let's spell (p.60): a whole-book sound review — read aloud the
+  six groups' word sets (computer, dinner, girl, wall, homework,
+  nurse, card, little, people, world), a "Try this!" extra set
+  (work, sir, turn, circle, park, mall), listen-and-write
+  sentences, and a closing wall-and-ball chant reusing the ar/al
+  words.
+- B Let's talk (p.61): a skirt at $89 is "too expensive" and Mum
+  says no; Let's act — a budget game: it will be cold soon, you
+  have 50 yuan, choose three things from a priced rail (¥4–¥20),
+  ask prices and say "I'll take it!"
+- B Let's learn (p.62): pretty, cheap, expensive over priced dresses
+  (¥150 pretty, ¥15 cheap, ¥450 expensive), with "nice" carried in
+  the Let's play price table (a hat at ¥20; cards at ¥50, ¥40, ¥5,
+  ¥100).
+- Read and write (p.63): a sale advertisement (all sunglasses and
+  gloves five yuan, scarves in many colours, cheap umbrellas) with
+  four written questions — two of them ask prices the text never
+  states, answerable only from the pictured price tags; Look and
+  write from price-tag pictures ("They are very expensive." /
+  "They are too small."), with ¥500 sunglasses as the expensive
+  model.
 - Let's check + Let's sing (p.64): listen and tick-or-cross; match
-  price-and-description phrases to pictures; the song "How much is
-  that doggie in the window?"
-- C Story time (p.65): Zoom works as a shop assistant, reads a $16
-  price tag upside down as ninety-one, and gets fired by the elephant
-  manager. Plot summary only.
+  price-and-description phrases to pictures (cheap sunglasses ¥10,
+  expensive gloves ¥80, a pretty green scarf, my friend's
+  umbrella); the song "How much is that doggie in the window?"
+- C Story time (p.65): Zoom works as a shop assistant, reads a "16$"
+  price tag upside down as ninety-one dollars, and is fired by the
+  elephant manager. Plot summary only.
 
 ### Recycle 2 (pp.66–69)
 - Read aloud (p.66): a picnic play in four scenes — tomorrow's warm
-  sunny forecast, market shopping ("That's 42 yuan in total." /
-  "That's expensive!"), a jacket whose owner is Sarah, and cows
-  coming for the tomatoes; "FINISH THE STORY!" and "Can you act it
-  out?"
+  sunny forecast and a picnic plan, market shopping ("That's 42
+  yuan in total." / "That's expensive!"), a jacket whose owner is
+  Sarah, and hungry cows coming for the tomatoes; "FINISH THE
+  STORY!" and "Can you act it out?"
 - Listen and tick (p.67) plus Read, write and say: spot-the-same-sound
-  word groups (water, table, fork, car as the four group heads).
-- Read, write and say (p.68): four short possessive comics (mine /
-  yours / his coat / their shoes) to complete, two shop dialogues to
-  put in order by numbering the lines, and a listen-and-check.
-- Read and tick or cross (p.69): a letter from Wang Ke in the city to
-  Grandpa on the farm (a thank-you for the hat, expensive city food
-  vs nice cheap country food, the dog, baby ducks to count) with four
-  true/false statements.
+  word groups headed by the four banner words water, table, fork,
+  car.
+- Read, write and say (p.68): six short possessive comics to complete
+  (my scarf / mine; your sweater / yours; a pencil; a coat; shoes;
+  gloves, with "Mine are black."); Read and number puts two shop
+  dialogues in order (an oranges dialogue and an apples dialogue —
+  "one yuan for four", "I'll take eight."); a listen-and-check.
+- Read and tick or cross (p.69): a letter from Wang Ke in the city
+  to Grandpa on the farm (thanks for the hat, expensive city food
+  against nice cheap country food, the dog, baby ducks to count)
+  with four true/false statements.
 
 ### Appendices (pp.70–76)
 - Appendix 1: Words in each unit (pp.70–71) — every unit's words with
-  IPA and the page each word is taught on; bold words are the ones
-  pupils must be able to hear, say, read and write.
-- Appendix 2: Vocabulary (pp.72–74) — the same set alphabetically.
+  IPA and the page each word is taught on; the headnote sets the
+  two-tier mastery rule (bold words must be heard, said and read;
+  plain words heard and said only).
+- Appendix 2: Vocabulary (pp.72–74) — the same set alphabetically,
+  A–Y.
 - Appendix 3: Useful expressions (pp.75–76) — each unit's core
-  sentences with Chinese translations and page references.
-
-## Slips and points recorded as printed
-
-- p.9: the model sentence in Look and write is printed with its words
-  run together without spaces ("Thatistheplayground." as it appears
-  in this copy) and marked with the sad-face icon — a deliberate
-  error for pupils to catch, printed as such.
-- p.61 prices the skirt at "$89" and Appendix 1 (p.71) glosses
-  "dollar" from p.61 as the currency unit of the US, Canada and other
-  countries, while the rest of the unit prices in yuan (¥85 opener,
-  ¥150/¥15/¥450 on p.62, ¥5 sale on p.63, the 50-yuan budget game on
-  p.61) — a currency mix inside one unit, recorded as printed.
-- Appendix 1 cites "thirty" at p.17 and "forty" at p.7. Cross-check:
-  "forty" is genuinely in the p.7 dialogue ("Forty-five students");
-  the word "thirty" itself is carried by a balloon on the opener
-  spread (p.13), while p.17 shows digital times (6:30, 7:30, 8:00) —
-  the appendix citation stands as printed.
-- p.65: the Story time joke depends on the price tag being printed
-  "16$" so that read upside down it becomes ninety-one.
-- The imprint page (PDF p.3) of this copy prints placeholder crosses
-  (×××) in the distributor, printer and price lines — a pre-print
-  artefact of the secured copy; the publisher, edition, format and
-  ISBN lines are fully printed.
-- In Story time the bear is Zoom and the squirrel is Zip throughout;
-  p.31's forecast joke turns on two similarly named cities (Dali /
-  Dalian as the story presents them) — recorded as the book's own
-  joke, summaries only.
+  sentences with Chinese translations and page references (Unit 1
+  begins at p.75: the teachers'-office exchange, "It's time to get
+  up." filed under Unit 2 at p.17).
 
 ## New for the course
 
@@ -1130,39 +1154,41 @@ counts for these parts when this filing merges.
 
 - **Level 9 `telling-the-time` — a full second treatment.** Clock
   time as a whole unit: o'clock answers (pp.12–14), times with
-  minutes read off clock faces (8:10, 7:10, 12:10, 10:10, p.14; 3:40,
-  p.32), digital times (6:30 / 7:30 / 8:00, p.17), a.m. and p.m.
-  (pp.12–13, 20), and the "It's time for [noun] / It's time to [verb]"
-  pair (pp.14–19). No built lesson yet teaches minutes or a.m./p.m.
+  minutes read off clock faces (8:10, 7:10, 12:10, 10:10, p.14;
+  3:40, p.32), digital times (6:30 / 7:30 / 8:00, p.17; the seven
+  digital clocks matched on p.20), a.m. and p.m. (pp.12–13, 20),
+  and the "It's time for [noun] / It's time to [verb]" pair
+  (pp.14–19). No built lesson yet teaches minutes or a.m./p.m.
 - **Level 9 `numbers` — counting people, animals and money.** "How
-  many students are there in your class? Forty-five students." (p.7);
-  "How many horses do you have? Seventeen." (pp.36, 41); the tens
-  twenty/thirty/forty/fifty as opener balloons (pp.12–13); prices in
-  words and figures up to ¥500 (pp.56–63).
-- **Level 7 — a weather set with no built lesson yet.** sunny, rainy,
-  windy, cloudy, snowy (p.28) and cold, cool, warm, hot pinned to
-  degrees (p.25), inside "What's the weather like in …?" (pp.22–28)
-  and the forecast frame "Tomorrow will be warm and sunny." (pp.31,
-  66). Filed as a set the course does not yet stock.
+  many students are there in your class? Forty-five students."
+  (p.7); "How many horses do you have? Seventeen." (pp.36, 41);
+  the tens twenty/thirty/forty/fifty as opener balloons (pp.12–13);
+  prices in words and figures up to ¥500 (pp.56–63).
+- **Level 7 — a weather set with no built lesson yet.** sunny,
+  rainy, windy, cloudy, snowy (p.28) and cold, cool, warm, hot
+  pinned to degrees (p.25), inside "What's the weather like in …?"
+  (pp.22–28) and the forecast frame "Tomorrow will be warm and
+  sunny." (pp.31, 66). Filed as a set the course does not yet
+  stock.
 - **Level 7 — clothes, also not yet a built lesson.** hat, dress,
   skirt, pants (p.49); coat, shirt, sweater, jacket, shorts, socks
   (p.52); gloves, sunglasses, umbrella, scarf (p.59), with colour
-  questions ("What colour are they?", p.52) and size language (Size
-  6, too small, too big, just right, p.58).
+  questions ("What colour are they?", p.52) and size language
+  (Size 6, too small, too big, just right, p.58).
 - **Level 7 `animals` and `food-and-fruit` — the farm sets.** horses,
   cows, hens, sheep (p.42) plus ducks and goats in use (pp.41, 43),
   an animal-sounds table (p.41), and the vegetable set tomatoes,
-  potatoes, carrots, green beans (p.39) with tasting language ("Try
-  some! They're good.", p.38).
+  potatoes, carrots, green beans (p.39) with tasting language
+  ("Try some! They're good.", p.38).
 - **Level 7 `the-town` / school places.** teachers' office, library,
   first/second floor (p.5); computer room, music room, art room,
   playground, gym (p.8) — a school-rooms set the town lesson can
   point to, located with "next to" and "under" (pp.4, 9).
 - **Level 13 `mine-and-yours` — the full possessive system in one
-  unit.** "Whose …? They're John's / It's my brother's." (pp.46–48),
-  "Is this John's? No, it isn't. It's Mike's." (p.48), the standalone
-  pronouns "It's mine." (p.51) and "It's yours." (p.68), and "They're
-  your father's." (p.51).
+  unit.** "Whose …? They're John's / It's my brother's."
+  (pp.46–48), "Is this John's? No, it isn't. It's Mike's." (p.48),
+  the standalone pronouns "It's mine." (p.51) and "It's yours."
+  (p.68), and "They're your father's." (p.51).
 - **Level 3 `two-letter-sounds` — the r-controlled vowel ladder.**
   Six graded spelling-sound groups, one per unit: er (p.6), ir/ur/er
   (p.16), ar/al (p.26), or (p.40), le (p.50), and a combined review
@@ -1170,8 +1196,8 @@ counts for these parts when this filing merges.
   these sounds as a named system.
 - **Level 11 `asking-with-question-words`.** Where's …? (pp.4–5),
   What time is it? (pp.12–21), How many …? (pp.7, 36, 41), How
-  much …? (pp.56–63), Whose …? (pp.46–51), What colour …? (p.52),
-  "What's the weather like …?" (pp.22–28).
+  much …? (pp.56–63), Whose …? (pp.46–51), What colour …?
+  (p.52), "What's the weather like …?" (pp.22–28).
 - **Level 11 `asking-yes-no-questions`.** Is this/that …? (pp.3–4),
   Do you have …? (pp.3, 7–8), Are these/those …? — with "No, they
   aren't." (pp.38, 41, 48), Is it …? for weather (pp.23, 29), and
@@ -1182,70 +1208,108 @@ counts for these parts when this filing merges.
   (pp.56–61), plus the permission exchange "Can I go outside now?
   No, you can't. It's cold outside." (p.24).
 - **Level 10 `building-a-sentence` — this/these, that/those as a
-  taught system.** "What are these? They're tomatoes." (p.38), "What
-  are those? They're sheep / horses." (pp.37, 41), the deliberate
-  contrast in Read and write (p.43), and the same system for clothes
-  (pp.48–53).
+  taught system.** "What are these? They're tomatoes." (p.38),
+  "What are those? They're sheep / horses." (pp.37, 41), the
+  deliberate written contrast in Read and write (p.43), and the
+  same system for clothes (pp.48–53).
 - **Level 12 `present-actions` — the daily routine tied to the
-  clock.** get up, go to school, go home, go to bed, each fixed to a
-  time (p.18), and meals-and-classes as timed events (p.15). The
+  clock.** get up, go to school, go home, go to bed, each fixed to
+  a time (p.18), and meals-and-classes as timed events (p.15). The
   book also uses "Tomorrow will be …" in two stories (pp.31, 66)
   but never teaches a future form — recorded as use, not teaching.
 - **Level 15 `answering-from-the-text` — five graded formats.**
   Postcard questions (p.29), a tick-what-you-see table over a
-  four-part text (p.43), multiple-choice on a packing text (p.53),
-  advertisement questions where two answers live only in the picture
-  (p.63), and true/false statements on a letter (p.69).
+  four-part text (p.43), read-and-circle questions on a packing
+  text (p.53), advertisement questions where two answers live only
+  in the picture (p.63), and true/false statements on a letter
+  (p.69).
 - **Degrees — a small set with no built home yet.** "It's 26
-  degrees." with the Celsius/Fahrenheit misunderstanding played for
-  the lesson (p.27), and temperatures printed beside the temperature
-  words (p.25).
+  degrees." with the Celsius/Fahrenheit misunderstanding played
+  for the lesson (p.27), and temperatures printed beside the
+  temperature words (p.25).
 - **Shopping and money language** (for the course's money material):
   "Can I help you?", "How much is it / are they?", yuan prices in
   words ("eighty-five yuan", p.56), cheap/expensive/pretty/nice
   (p.62), a sale text (p.63), and a spend-to-a-budget game (p.61).
-- **Level 17 stories.** Six Story time comics (pp.11, 21, 31, 45, 55,
-  65), each filed above as plot summary only.
+- **Level 17 stories.** Six Story time comics (pp.11, 21, 31, 45,
+  55, 65), each filed above as plot summary only.
+
+## Slips, as printed
+
+- p.9: the model sentence in Look and write is printed with its
+  words run together without spaces ("Thatistheplayground." as it
+  appears in this copy) and marked with the sad-face icon — a
+  deliberate error for pupils to catch, printed as such, beside the
+  correctly spaced happy-face model.
+- p.35: the first Read-and-circle sentence calls the weather sunny
+  while its own window picture shows rain; the mismatch is the
+  exercise (the word is the one to circle), printed as designed.
+- p.61 prices the skirt at "$89" and Appendix 1 (p.71) glosses
+  "dollar" from p.61 as the currency unit of the US, Canada and
+  other countries, while the rest of the unit prices in yuan (¥85
+  opener, ¥150/¥15/¥450 on p.62, ¥5 sale on p.63, the 50-yuan
+  budget game on p.61) — a currency mix inside one unit, recorded
+  as printed.
+- Appendix 1 cites "thirty" at p.17 and "forty" at p.7 (pp.70, 74).
+  Cross-check: "forty" is genuinely in the p.7 dialogue
+  ("Forty-five students"); the word "thirty" itself is carried by
+  a balloon on the opener spread (p.13), while p.17 shows digital
+  times (6:30, 7:30, 8:00) — the appendix citation stands as
+  printed.
+- p.65: the Story time joke depends on the price tag being printed
+  "16$" so that read upside down it becomes ninety-one.
+- The imprint page (PDF p.3) of this copy prints placeholder crosses
+  (×××) in the reprint, distributor, printer and price lines — a
+  pre-print artefact of the secured copy; the publisher, edition,
+  format and ISBN lines are fully printed.
+- In Story time the bear is Zoom and the squirrel is Zip throughout;
+  p.31's forecast joke turns on two similarly named cities (Dali /
+  Dalian as the story presents them) — recorded as the book's own
+  joke, summaries only.
 
 ## Closing block
 
 **FULLY READ:** every page of this copy was read — cover spread,
 title page, imprint, letter to students, Contents, printed pp.2–76
-(all six units, both Recycles, all three appendices), postscript and
-back cover. Nothing was sampled or skipped; the six Story time
+(all six units, both Recycles, all three appendices), postscript
+and back cover. Nothing was sampled or skipped; the six Story time
 comics are filed as plot summaries only, and no passage or story
-text is transcribed anywhere in this filing.
+text is transcribed anywhere in this filing. (Repair note: the
+printed pp.17–75 span — the rest of Unit 2, Units 3–6, both
+Recycles and the appendices — was re-read page by page from the
+rendered pages on 2026-10-29 to replace a truncated stretch of
+this section; printed p.9 and the imprint page were also re-opened
+for the slips and anchors below.)
 
 **CITATION CHECK PASSED** — 16 anchors re-opened on the rendered
 pages and confirmed where this filing cites them:
-1. ISBN 978-7-107-27387-2 and the October 2013 first-edition line —
-   imprint page (PDF p.3).
-2. Contents: Unit 2 at p.12, Unit 4 at p.36, Appendix 3 at p.75 —
-   Contents spread (PDF pp.5–6).
-3. "It's next to the art room." — opener, printed p.2.
-4. "The teachers' office is next to the library." — Let's talk,
-   printed p.4.
-5. "Forty-five students." — B Let's talk, printed p.7.
-6. The run-together model sentence — Read and write, printed p.9.
-7. London 12 noon / Sydney 10 p.m. on the world clock — opener,
-   printed pp.12–13.
-8. "It's 6 o'clock. It's time for dinner." — A Let's talk, printed
-   p.14.
-9. Digital clocks 6:30 / 7:30 / 8:00 — B Let's talk, printed p.17.
-10. "No, you can't. It's cold outside." — A Let's talk, printed p.24.
-11. Harbin cold 5°C / Hong Kong hot 30°C — Let's learn, printed p.25.
-12. "It's 26 degrees." — B Let's talk, printed p.27.
-13. The Sydney postcard and its three questions — Read and write,
-    printed p.29.
-14. "Seventeen" horses — B Let's talk, printed p.41; sheep counted
+1. Digital clocks 6:30 / 7:30 / 8:00 — B Let's talk, printed p.17.
+2. The Monday timetable (6:30 get up … 9:00 go to bed) — Let's
+   play, printed p.18.
+3. The run-together model sentence — Read and write, printed p.9.
+4. "No, you can't. It's cold outside." — A Let's talk, printed
+   p.24.
+5. Harbin cold 5°C / Hong Kong hot 30°C — Let's learn, printed
+   p.25.
+6. "It's 26 degrees." — B Let's talk, printed p.27.
+7. The Sydney postcard and its three questions — Read and write,
+   printed p.29.
+8. The Dali / Dalian forecast mix-up — C Story time, printed p.31.
+9. "It's 3:40. Time to go!" — Recycle 1 Read aloud, printed p.32.
+10. "Seventeen" horses — B Let's talk, printed p.41; sheep counted
     at ten — Read and write, printed p.43.
-15. "Whose coat is this? It's mine." — B Let's talk, printed p.51.
-16. "It's eighty-five yuan." — Unit 6 opener, printed p.56; the $89
-    skirt — B Let's talk, printed p.61; Appendix 1's "thirty … p.17"
-    citation — printed p.70.
+11. "Whose coat is this? It's mine." — B Let's talk, printed p.51.
+12. "It's eighty-five yuan." — Unit 6 opener, printed p.56.
+13. The $89 skirt — B Let's talk, printed p.61.
+14. The "16$" price tag — C Story time, printed p.65.
+15. Appendix 1's "thirty … p.17" citation — printed p.70; the
+    "dollar" gloss at p.61 — printed p.71.
+16. Appendix 3 opens with Unit 1's expressions — printed p.75.
 
-**Filing state:** draft only — prepared for filing as
-english/books/china.md; not committed, not pushed.
+**Filing state:** repair tail — drafted to replace the truncated
+stretch of the Grade 4 Volume 2 section in english/books/china.md,
+from the Unit 2 "B Let's talk (p.17)" bullet to the section's end;
+not yet spliced in, not committed, not pushed.
 
 ---
 
@@ -1444,8 +1508,325 @@ Abilities with can / can't; we'll for a planned party.
   sing English songs, do some kung fu, draw pictures.
 - p.39 Let's learn: sing English songs, dance, draw cartoons, do kung
   fu, play the pipa; class survey grid "What can you do?"
-- p.40 Let's spell: **oo** two sounds — good, look, foot
-...[truncated 8828 chars]
+- p.40 Let's spell: **oo** two sounds — good, look, foot, book,
+  cook (short) against food, noodles, zoo, balloon, room, cool, too,
+  afternoon (long); circle-and-say sorting; sentence writing from
+  heard words.
+- p.41 B Let's try (can Mike do any kung fu?) · Let's talk: Mr Ma's
+  kung fu class — "Can you do any kung fu, John? Yes, I can." /
+  Oliver: "No, I can't." / "No problem. I can help you." — then the
+  "Can you do it?" word bank (cook, sing English songs, speak
+  English, do some kung fu, make a puppet/robot, sing the birthday
+  song) drilled in Can you …? — Yes, I can. / No, I can't. pairs.
+- p.42 Let's learn: cook, swim, play basketball, play ping-pong,
+  speak English — "Can you swim? Yes, I can. I can do some kung fu,
+  too!"; Write and say: a first-person can/can't list (speak English
+  and Chinese, sing English songs, dance, swim, cook, play ping-pong
+  against can't do any kung fu, can't play the pipa).
+- p.43 Read and write: "Who can be my friend?" — Robin the Robot's
+  friend-wanted email (to robin@urfriend.cn): what Robin can do
+  (speak English and Chinese, do some kung fu, play ping-pong) and
+  can't do (swim); tick/cross on five statements; write three
+  sentences about yourself (I can … / I can't …). The book's second
+  email-genre reading text.
+- p.44 Let's check (listening tick/cross: who can play basketball,
+  who can play ping-pong; fill the blank — what Zhang Peng and John
+  can do together) · Let's wrap it up: **play** sorted — play the
+  erhu / the piano (with *the*) against play ping-pong / basketball
+  (without); "Can you play the ___? / Can you play ___?" gap frames.
+- p.45 C Story time: a rat talks a hungry snake out of eating it by
+  listing what it can do — sing, dance — then begs not to be thrown
+  into the lake, which is exactly where it can swim away (plot
+  summary only).
+
+### Unit 5 — There is a big bed (printed pp.46–55)
+The room: there is / there are, and six prepositions of place.
+- p.46 opener: Zhang Peng's home — "There are so many pictures!";
+  his father can draw very well; Grandma's garden with many pretty
+  flowers.
+- p.47 opener dialogue: "What's in the room? There is a big bed.
+  There is a table beside the bed."
+- p.48 A Let's try (in Zhang Peng's bedroom: listen and tick) ·
+  Let's talk: the room tour — a big bed, a nice photo, the computer
+  on the desk; Describe the picture chain (a desk in the picture, a
+  plate on the desk, a banana on the plate …).
+- p.49 Let's learn: clock, plant, photo, water bottle, bike — "This
+  is my room. There is a clock, a …"; Let's play: a growing-chain
+  memory game (There is a clock in my room → … and a plant → … and
+  a photo).
+- p.50 Let's spell: **ay / ai** — rainy, rainbow, paint, wait
+  against say, way, birthday, Monday, today, always; circle the
+  same-sound words; sentence writing.
+- p.51 B Let's try (what is in the living room: pictures / flowers /
+  toys) · Let's talk: the living room — so many pictures, so many
+  plants, the grandparents' garden in front of their house with lots
+  of flowers; "There are two dogs in the picture. There are some
+  fish."
+- p.52 Let's learn: the prepositions of place as one set — beside,
+  behind, above, in front of, between (with *on* and *in* from
+  earlier pages) — "Where is the ball? It's in front of the dog.";
+  Find and say ("There is a tree in front of the house.").
+- p.53 Read and write: "An email to Robin" — Mr Jones, Binbin's art
+  teacher, writes from his new old house (dated Dec. 20th): dirty
+  rooms, pencils and crayons on the floor, pictures and photos
+  everywhere, a mouse behind the computer; he lives near the nature
+  park and asks Robin to hurry and help. Read and tick which room
+  is his; write three There is / There are sentences about your own
+  room.
+- p.54 Let's check (listening: tick or cross; write — a thing on the
+  desk, two things above the desk) · Let's wrap it up: There is /
+  There are matched against in front of / above / behind / beside
+  + the table, then sentence completion on the same pattern.
+- p.55 C Story time: a kicked can asks for help getting home — a
+  bird is too busy, Rabbit and Monkey are late for school, two fish
+  pass it on, and Zoom finally carries it home (plot summary only).
+
+### Unit 6 — In a nature park (printed pp.56–65)
+Asking what a place has: Is there …? / Are there any …?
+- p.56 opener: "Look! There is a big white bird in the sky!"; many
+  pretty fish in the river.
+- p.57 opener dialogue: "Is there a river in the park? Yes, there
+  is."; "Is there a restaurant beside the lake? No, there isn't." —
+  sharing food instead.
+- p.58 A Let's try (listen and tick: forest / lake / river) · Let's
+  talk: the class forest trip — no river, but a lake with some
+  small boats; "Let's go boating."; partner park talk on the same
+  frame.
+- p.59 Let's learn: forest, river, lake, mountain, hill — "Is there
+  a river in the park? Yes, there is."; Draw and ask: draw your own
+  nature park and question a partner about it.
+- p.60 Let's spell: **ou** — mouse, house, count, sound, about,
+  around, sorted against the ow set (flower, wow, cow, down) from
+  Unit 3; sentence writing.
+- p.61 B Let's try (where are the tables? — beside the river / lake
+  / hill) · Let's talk: a quiet park — "There aren't many people.";
+  "Are there any tall buildings in the nature park? No, there
+  aren't."; animals: ducks and rabbits; the find-your-"friend"
+  matching game (same answers = friends; "How many? Two.").
+- p.62 Let's learn: village, tree, house, bridge, building — "Are
+  there any lakes on the mountain? Yes, there is one."; Write and
+  say: four sentences about the pictured park ("There is a village
+  in the nature park.").
+- p.63 Read and write: "Robin draws" — a short park description to
+  draw from (a high mountain, a small village in front of it, a lake
+  near the village, many ducks on the lake); write three questions
+  about the park (Is there …? / Are there …?) and give the answers.
+- p.64 Let's check (listening tick/cross; answer: Is there a lake?
+  Are there any birds?) · Let's wrap it up: complete six questions
+  over one picture (Is there a river …? Are there any buildings
+  …? ___ there a lake? ___ there any mountains? …) and answer them.
+- p.65 C Story time: Zoom and Zip photograph a nature park — a
+  beautiful bridge, a house, corn, and a koala — until the camera
+  card breaks and Zoom asks for his own picture last (plot summary
+  only).
+
+### Recycle 2 (printed pp.66–69)
+Having fun in a park — Units 4–6 recycled together.
+- p.66: Robin phones Miss White about the weekend park trip —
+  listening tick/cross, then answer in writing: Can Robin cook
+  noodles? Can he swim? Can he go to the park?; write two more
+  sentences about what Robin can do; role-play the call.
+- p.67: in the park with a map — read the dialogue and draw the
+  missing things it names: two lakes in the forest, no restaurant
+  in the forest but one in front of the hill, a village on the
+  mountain, and "a robot in the park … between Zhang Peng and
+  Sarah! It's me!"; partner map talk ("What's in the nature park?
+  There is a small village. Where is it? It's …").
+- p.68: Amy reads a story under a tree — the cumulative "dark, dark
+  wood" tale: each dark place holds the next smaller one (wood →
+  house → hallway → stairs → room → cupboard → box) until the last
+  box holds a big mouse (plot summary only).
+- p.69: number the story's words in chain order and retell; find
+  "friends" (same-sound words) for the story's words against the
+  volume's phonics sets (food/afternoon, round/mouse, flower/now,
+  book/good, birthday/say, rain/paint); write your own chained story
+  on the frame "In a ___ there is a ___."; a closing word-bank
+  picture set (bike, clock, photo, plant, pipa, bottle, basketball,
+  football).
+
+### Appendices (printed pp.70–79)
+
+- **Appendix 1 — Songs in each unit (pp.70–71):** one song per unit,
+  printed as short verses (filed as titles/shapes only): Unit 1
+  "Who's your teacher?" (describing questions), Unit 2 "Days of the
+  week" (the seven days in order), Unit 3 "What would you like to
+  eat today?", Unit 4 "What can you do?" (the ability set as a
+  song), Unit 5 "A photo of me" (the photo placed beside the plant,
+  above the clock, between the windows — the prepositions sung),
+  Unit 6 "In a nature park" (mountain, forest, flower).
+- **Appendix 2 — Words in each unit (pp.72–74):** the per-unit word
+  lists with IPA and Chinese glosses, each word keyed to its
+  teaching page; the headnote repeats the two-tier mastery rule
+  (bold words: hear, speak, read and write; plain words: hear,
+  speak, recognise). Units 4–6 runs: Unit 4 — sing, song, sing
+  English songs (p.39), play the pipa, kung fu, do kung fu, dance,
+  draw, cartoon, draw cartoons (p.39), cook, swim, play basketball,
+  ping-pong, play ping-pong, speak English (p.42), we'll = we will,
+  party, next, wonderful (p.38), learn, any, problem, no problem
+  (p.41), want, send, email, at (p.43). Unit 5 — clock, plant,
+  bottle, water bottle, bike, photo (p.49), front, in front of,
+  between, above, beside, behind (p.52), there (p.48), grandparent,
+  their, house, lot, lots of, flower (p.51), move, dirty,
+  everywhere, mouse, live, nature (p.53). Unit 6 — forest, river,
+  lake, mountain, hill (p.59), tree, bridge, building, village,
+  house (p.62), boating, go boating (p.58), aren't = are not,
+  rabbit (p.61), high (p.63).
+- **Appendix 3 — Vocabulary (pp.75–77):** the same stock re-sorted
+  A–Z (above … young), each entry with its teaching page — the
+  volume's full word stock in one alphabetical list.
+- **Appendix 4 — Useful expressions (pp.78–79):** the key exchanges
+  per unit with Chinese translations and page keys. Units 4–6 runs:
+  Unit 4 — "What can you do for the party, children? I can sing
+  English songs." (p.38), "Can you do any kung fu, John? Yes, I
+  can." (p.41). Unit 5 — "There is a big bed." (p.48), "There are
+  so many pictures here." (p.51). Unit 6 — "Is there a river in the
+  forest, Miss White? No, there isn't." (p.58), "Are there any tall
+  buildings in the nature park? No, there aren't." (p.61).
+- **Appendix 5 — Proverbs (p.79):** one proverb per unit, each with
+  its Chinese rendering: Unit 1 "You can't judge a book by its
+  cover."; Unit 2 "For the hard-working, a week has seven days; for
+  the lazy, seven tomorrows."; Unit 3 "An apple a day keeps the
+  doctor away."; Unit 4 "Practice makes perfect."; Unit 5 "East or
+  west, home is best."; Unit 6 "Seeing is believing."
+
+(Postscript, PDF p.85, unnumbered: the press's standard closing
+note — the book reviewed and approved in 2013, compiled to the 2011
+standard with Lingo Learning Inc., dated May 2013, with a real
+contact phone (010-58758285) and feedback email printed.)
+
+## New for the course
+
+Keyed to the built LiqLearns English lessons; page numbers are this
+book's printed pages. All of the below is from Unit 4's p.40 onward —
+the head of this section (Units 1–3, Recycle 1) carries its own list
+in the original draft's keying; the load-bearing items are:
+
+- **The first full can/can't ability system in the pool.** Part A
+  sets the party frame ("What can you do for the party?", p.38 in
+  the head) and pp.41–44 complete it as a system: Can you do any
+  …? with any (p.41), the B word set (cook, swim, play basketball,
+  play ping-pong, speak English, p.42), a first-person can/can't
+  self-list as the writing model (p.42), Robin's friend-wanted email
+  as the reading (p.43), and the wrap-up that sorts play the erhu /
+  the piano against play ping-pong / basketball (p.44). Keys into
+  Level 11 `asking-yes-no-questions` (Can you …? — Yes, I can. /
+  No, I can't. as a taught pair, pp.41–42) and Level 6 `verbs`
+  (the ability-verb stock).
+- **The first full there is / there are + preposition-of-place
+  system.** Unit 5 builds it in order: There is a … for one thing
+  (pp.47–49), the room word set (clock, plant, photo, water bottle,
+  bike, p.49), the six prepositions taught as one set (beside,
+  behind, above, in front of, between, p.52), There are … for many
+  (p.51), and a wrap-up that sorts There is / There are against the
+  prepositions on one page (p.54). Keys into Level 7 `the-home`
+  (room set + places inside the home) and Level 10
+  `building-a-sentence` (the is/are number split as a taught
+  pattern).
+- **Is there …? / Are there any …? — asking what a place has.**
+  Unit 6 turns the Unit 5 statements into questions: Is there a
+  river …? Yes, there is. / No, there isn't. (pp.57–58), Are there
+  any tall buildings …? No, there aren't. (p.61), any lakes answered
+  by count ("Yes, there is one.", p.62), and a wrap-up of six mixed
+  questions over one picture (p.64). Keys into Level 11
+  `asking-yes-no-questions` and `asking-with-question-words`
+  (How many? in the friend game, p.61).
+- **The would-like ordering frame's companion: we'll for a planned
+  event.** we'll = we will is glossed in Appendix 2 against p.38
+  ("We'll have an English party next Tuesday") — the volume's one
+  future form, taught as a set phrase for a fixed plan; keyed to
+  Level 12 `going-to-later` as a will-form beside going to.
+- **Level 3 `blending-sounds` / `two-letter-sounds`: the volume's
+  second-half phonics ladder.** oo split into its two sounds
+  (p.40), ay/ai (p.50), ou set against the ow of Unit 3 (p.60),
+  and Recycle 2's "friends" page re-sorting the whole volume's
+  sounds by ear (p.69).
+- **Level 7 `animals`: supporting stock.** the Story time animal
+  actors (rat and snake, p.45; the can's helpers — bird, rabbit,
+  monkey, two fish, p.55), park animals (ducks and rabbits, p.61;
+  ducks on the lake, p.63), and the koala of the photo story
+  (p.65).
+- **Level 15 / writing: the email as a genre, twice.** Robin's
+  friend-wanted email (p.43) and Mr Jones's help-me email (p.53)
+  are the pool's first email-shaped Read and write texts — address
+  lines, date, greeting, sign-off — each followed by writing three
+  sentences of your own on the page's pattern.
+- **Level 17 stories.** The rat-and-snake trick tale (p.45), the
+  helped can (p.55), Zoom and Zip's park photographs (p.65), and
+  the cumulative dark-house tale (pp.68–69) — all filed above as
+  plot summaries only; the cumulative tale also gives Level 14 a
+  chaining pattern (each sentence grows out of the last place
+  named).
+- **No built lesson yet — the nature-park set.** forest, river,
+  lake, mountain, hill, village, bridge, building, tree (pp.59,
+  62) is a complete outdoor-places set with its own question
+  system (Unit 6); the built course holds the town but not this.
+  Filed here as stock, with the opener frames (pp.56–57).
+
+## Slips and quirks, recorded as printed
+
+- Appendix 2 files **house** twice — under Unit 5 with the
+  reference p.51 and again under Unit 6 with the reference p.62.
+  The word is taught in both units' talk pages and the list keeps
+  both entries, as printed.
+- Unit 6's Let's learn answers a plural question with a singular
+  count: "Are there any lakes on the mountain? Yes, there is one."
+  (p.62) — the count answer is the point of the exchange; it stands
+  as printed, not a misprint.
+- No misprints were found in the English teaching text of
+  pp.40–79. (Odd word-splits and stray glyphs in the machine text
+  layer are extraction artefacts of the press file, not print.)
+- This copy is the publisher's press file (cover sheets with crop
+  marks, PDF pp.1 and 86); the imprint carries no printing line —
+  noted in the head of this section, not a slip.
+
+## Closing block
+
+**FULLY READ (tail):** printed pp.40–79 of this copy were re-read
+page by page for this repair — the rest of Unit 4, Units 5 and 6,
+Recycle 2, and all five appendices — plus the unnumbered postscript
+(PDF p.85). Together with the intact head (Units 1–3 and Recycle 1),
+the whole book stands read: 86 PDF pages, printed pp.2–79 plus
+front and back matter. Story and reading texts are summarised in my
+own words; nothing is transcribed beyond short teaching fragments,
+and the Recycle 2 cumulative story is plot summary only.
+
+**CITATION CHECK PASSED 2026-10-29** — 14 anchors re-opened and
+confirmed on their pages (four of them on rendered pages, marked ◆):
+1. Let's spell oo: good / look / foot against food / zoo / balloon
+   — printed p.40.
+2. ◆ Mr Ma's kung fu class: "Can you do any kung fu, John? — Yes, I
+   can." and Oliver's "No, I can't." — printed p.41 (PDF p.46).
+3. The B Let's learn set (cook, swim, play basketball, play
+   ping-pong, speak English) with the first-person can/can't list —
+   printed p.42.
+4. Robin's friend-wanted email, robin@urfriend.cn, tick/cross five
+   — printed p.43.
+5. Let's wrap it up: play the erhu / the piano against play
+   ping-pong / basketball — printed p.44.
+6. Opener dialogue: "There is a big bed. There is a table beside
+   the bed." — printed p.47.
+7. The preposition set (beside, behind, above, in front of,
+   between): "It's in front of the dog." — printed p.52.
+8. ◆ Mr Jones's email to Robin, dated Dec. 20th: "I see a mouse
+   behind my computer!" — printed p.53 (PDF p.58).
+9. "Is there a river in the forest, Miss White? — No, there
+   isn't." — printed p.58 (also Appendix 4, p.79).
+10. "Are there any tall buildings in the nature park? — No, there
+    aren't." — printed p.61.
+11. ◆ "Robin draws": mountain, village in front of it, lake, ducks
+    — printed p.63 (PDF p.68).
+12. Recycle 2 phone call: "Can Robin cook noodles? Can he swim?
+    Can he go to the park?" — printed p.66.
+13. The cumulative story's last box: "a big mouse!" — printed
+    p.68; the retell and sound-friends page — printed p.69.
+14. ◆ Appendix 5 proverbs, incl. Unit 5's "East or west, home is
+    best." and Unit 4's "Practice makes perfect." — printed p.79
+    (PDF p.84).
+
+**Filing state:** repair tail only, prepared to replace the
+truncated end of the China Grade 5 Volume 1 section in
+`english/books/china.md`, starting at the p.40 Let's spell bullet;
+nothing committed or pushed from this repair.
 
 ---
 
@@ -2425,8 +2806,68 @@ Fourteen units, each exactly 8 printed pages, all built on the same frame: **Sec
 
 **Unit 11 — Sad movies make me cry. (pp.81–88).** Topic: feelings. Structures: **make + somebody + bare infinitive** and **make + somebody + adjective**, Grammar Focus p.84 (which also prints the book's one explicitly reported line: "She said that the sad movie made her cry"). Section A: two-restaurant listening (loud Rockin' Restaurant vs quiet Blue Ocean); a dialogue about not leaving Alice out ("the more I get to know Julie, the more …"). Reading 3a (p.83): *The Shirt of a Happy Man (Part I)* — folk tale: the unhappy king whose doctor prescribes the shirt of a happy person; the prime minister (power), banker (wealth) and singer (fame) each admit they are unhappy; the general is sent to search for three days. Part II is a listening text in Section B. Section B reading (p.86): *The Winning Team* — Peter misses a goal, his father teaches him soccer is team effort, and he apologises to teammates who pull together; idioms sidebar (let … down, kick off, pull together, be hard on yourself). Writing: a personal story of a happy/sad experience.
 
-**Unit 12 — Life is full of the
-...[truncated 8772 chars]
+**Unit 12 — Life is full of the unexpected. (pp.89–96).** Topic: narrating past events (the unit's printed language goal). Structure: **past perfect** (had + past participle), carried by the frames "By the time …, … had already …" and "Before …, … had …" — Grammar Focus p.92, which also recycles two frames from the reading: **be about to + infinitive** and **past continuous for a scene in progress** ("As I was waiting in line …, I heard a loud sound"). Section A: a picture sequence of Mary's disastrous morning; the listening story (brother already in the shower when she got up, bus already gone, backpack left at home); 2d role-play — Kevin explains why he was late (alarm didn't go off, "before I got to the bus stop, the bus had already left", a lift from Carl's dad). Reading 3a (p.91), *Life Is Full of the Unexpected* — a first-person account of two lucky escapes: on September 11, 2001 the writer stopped for coffee on his way up to his World Trade Center office and the first plane had already hit the building before he went up; almost ten years later he overslept on February 21, 2011, missed his flight to New Zealand, and heard the next day about the earthquake there — his bad luck had turned into good luck. Section B: a word-class sorting set (fool, invite, costume, embarrassed, go off, show up …); April Fool's Day listening (Dave, Nick and Joe's tricks); reading (p.94) — a survey of famous tricks: the English TV report that spaghetti would run out because Italian farmers had stopped growing it (supermarkets sold out before people realised it was a hoax), a TV show's weight-loss "special water" (more than 10,000 callers by the end of the day), a TV star whose on-air marriage proposal ended as an April Fool joke and cost him his girlfriend and his show, and Orson Welles's 1938 radio broadcast announcing a Martian landing; "Using Background Knowledge" sidebar; 2d re-drills the reading's own facts into past-perfect sentences. Writing (3b): a story about a lucky or unlucky day, with a printed sentence-frame scaffold. Self Check p.96.
 
----
+**Unit 13 — We're trying to save the earth! (pp.97–104).** Topic: pollution and environmental protection. **A review unit — it teaches no new structure.** Its Grammar Focus (p.100) is a five-row review table matching the unit's own sentences to structures taught earlier in the book: "We're trying to save the earth" (present progressive), "The river used to be so clean" (used to), "The air is badly polluted" (passive voice), "No scientific studies have shown that shark fins are good for health" (present perfect), "We should help save the sharks" (modal verbs); the Self Check (p.104) repeats the same five-way matching as a test. Section A: pollution vocabulary sorted into noise / air / water; a river-pollution interview role-play (rubbish and factory waste in the river, "Everyone should play a part in cleaning it up"); the Jason-and-Susan interview on air pollution (cars, coal smoke, litter); a solutions dialogue (bus or subway instead of driving, riding a bike, bringing your own shopping bag, refusing wooden chopsticks and plastic forks). Reading 3a (p.99), *Save the Sharks!* — an appeal against shark finning: fins are cut off and the sharks thrown back to die; around 70 million sharks are caught and traded every year and some kinds have fallen by over 90 percent in 20 to 30 years; WildAid and the WWF are campaigning for laws, and no scientific studies have shown shark fins are good for health; 3b works the connectors so / although / if / but / when through the same text. Section B: ranking everyday green actions; a listening chart on Julia and Jack (what Julia is doing now, will do, and would never do); reading (p.102), *Rethink, Reuse, Recycle!* — three recyclers: Amy Hayes in the UK, who built her own house out of rubbish (windows and doors from pulled-down buildings, an upside-down boat for the roof, a gate of rocks and glass bottles); Jessica Wong of Hong Kong, who makes bags from old clothes, especially jeans; and Wang Tao of Shanghai, who makes art from the iron of old cars; "Understanding Prefixes and Suffixes" sidebar. Writing (3b): a letter to the city mayor describing local environmental problems and suggesting solutions.
 
+**Unit 14 — I remember meeting all of you in Grade 7. (pp.105–112).** Topic: junior-high memories and looking ahead to senior high (the unit's two printed language goals). **Also a review unit — no new structure.** Its Grammar Focus (p.108) is a seven-question review table pairing questions with model answers across the book's whole grammar run: past simple ("Our team won the school basketball competition"), present perfect ("I've become much better at speaking English"), future with will ("I think that I'll have to study much harder"), be going to ("I'm going to join the school volleyball team"), remember + gerund ("I remember being a volunteer"), used to, and look forward to + gerund. Section A: a memory checklist (winning a prize, being a volunteer, doing a school survey, a friend helping with a problem); a listening matching memories to Mary, Frank, Sarah and Peter; a second listening around P.E. teacher Mr. Hunt (a hurt knee, advice to take a break from running, who wants to study medicine); 2d role-play — Clara and Judy on the teachers they will miss (Ms. Lee, Mr. Brown, Ms. Griffin). Reading 3a (p.107): the poem *I Remember* — rhyming couplets looking back over the three years (morning readings, the lunch-bell run, sports-day training, the shy first day of Grade 7, making friends, New Year's parties, learning English, not wanting to cry at graduation); 3b is rhyme-word work on the poem. Section B: future hopes (a business degree, becoming a manager); the last-class listening (Bob, Shirley, Ken and teacher Mrs. Chen, ending in a graduation party); speech preparation (1e); reading (p.110) — a graduation speech at No. 3 Junior High School: the speaker remembers meeting the students in Grade 7, tells them to thank the parents, teachers and friends who helped them, warns that senior high will be harder, and urges them to learn from mistakes, never give up, choose wisely, and not forget where they came from; "Identifying Text Type and Purpose" sidebar. Writing (3b): a passage about a person or event from junior high that changed your life. Self Check p.112: a feelings-and-memories chart and a first-person verb-form paragraph that recycles the whole tense run in one text.
+
+## Back matter (pp.113–185, then the afterword)
+
+- **Notes on the Text (pp.113–132):** twenty pages of bilingual (Chinese) notes keyed unit by unit to sentences and items in the units — usage points (some vs any, be about to against be going to, end up, make a difference, number high/low), idiom explanations, and short cultural-background pieces (Alexander Graham Bell, Dickens and *A Christmas Carol*, April Fool's Day, WildAid and the WWF, metaphor). The notes for the last three units sit at pp.128–132 (Unit 12: be about to, stare in disbelief, April Fool's Day, end up; Unit 13: make a difference, finning, post-positioned modifiers, not only … but also; Unit 14: the poem's relative clause, keep one's cool, set out on a journey as metaphor).
+- **Tapescripts (pp.133–149):** the full printed scripts of every listening text in the book, unit by unit and section by section — including the listening-only texts that never appear in the units themselves (e.g. Unit 11's *Shirt of a Happy Man* Part II and Unit 14's last-class discussion).
+- **Grammar (pp.150–155):** the book's grammar reference, in four parts. **I. Verbs** — (1) *Passive voice*: active against passive, formation tables for the present-simple and past-simple passive in affirmative, negative and question forms, the modal passive (modal + be + past participle), and when the passive is used; (2) *Past perfect*: formation (had + past participle for all persons), its "past of the past" use, and the by / before / when frames — all four worked examples are Unit 12 sentences; (3) *Modal verbs for inference*: must (near-certain), can / can't in negatives and questions, and may / might / could on a weakening scale of certainty. **II. Object clauses**: tables for that (often omitted), if / whether, and the wh- words, with example sentences drawn from the units. **III. Attributive (relative) clauses**: the antecedent, relative pronouns that / which / who / whom and their jobs inside the clause, and omission of the pronoun when it is the object. **IV. Word formation**: compounding, derivation (prefix table: un-, dis-, bi-, inter-, re-, tele-; suffix table: -er/-or, -ist, -ese, -tion, -ful, -y, -ing, -ed, -al, -able, -less, -ly), conversion, and abbreviation/clipping plus initialisms (CD, CCTV, NBA, UFO, UN, USA, WWF).
+- **Words and Expressions in Each Unit (pp.156–170):** the per-unit vocabulary lists — every entry with IPA pronunciation (British form first where British and American differ), part of speech, a Chinese gloss, and the printed page where the word is taught; key words are printed bold, and phrases and proper names are listed alongside single words.
+- **Vocabulary Index (pp.171–183):** the whole book's vocabulary re-listed A–Z in the same format, each entry keyed to its printed page — the book's one alphabetical look-up list.
+- **Irregular Verbs (pp.184–185):** a two-page three-form table (base / past tense / past participle) for the book's irregular verbs; double forms are printed where both exist (burnt/burned, dreamt/dreamed, got/gotten, learnt/learned, spelt/spelled, smelt/smelled, sped/speeded, lit/lighted), the read /riːd/ – read /red/ pronunciation split is marked, and Chinese notes separate homographs (hang "to hang up", lie "to lie down").
+- **Afterword （后记， unnumbered; PDF p.200):** states the book was compiled by PEP's English Curriculum Textbook Research and Development Center with Cengage Learning to the 2011 national English curriculum standard, and passed the national textbook review in 2013.
+
+## New for the course
+
+- **Past perfect — a full teaching unit (Unit 12, pp.89–96; Grammar reference pp.150–151).** China G9 is the pool's fullest past-perfect stock: a whole unit built on the by-the-time / before frames, a Grammar Focus box (p.92), past-perfect re-drills of the Section B reading's own facts (2d, p.95), and the reference's "past of the past" table whose four examples all come from the unit. Depth for Level 18's perfect-family material, beside the present perfect.
+- **Relative clauses — reference depth for Unit 9 (mapped above, pp.65–72).** The Grammar reference (pp.152–153) tables the system behind the unit: antecedent, that / which / who / whom by person/thing and by subject/object job, and object-pronoun omission. The unit teaches; the reference systematises.
+- **Object clauses — reference depth for Units 2–3 (mapped above).** The Grammar reference (pp.151–152) gathers the whole system in one table — that (omissible), if / whether, and the wh- words inside polite requests — with its examples lifted from the units themselves.
+- **The passive run — the pool's fullest single treatment.** The volume builds the passive in stages (Unit 5 present passive, Unit 6 past passive, Unit 7 should be allowed to, Unit 13 review) and the Grammar reference (pp.150–151) completes it: formation tables for both simple tenses in affirmative, negative and question forms, the modal passive, and a when-to-use note. Level 18's The Passive already counts China among its teachers; this reference is the deepest China stock behind it.
+- **Present perfect — review-only in this volume (honest limit).** The tense is worked hard but never given a teaching unit here: it appears in Unit 13's review table (p.100) and Unit 14's review answers (p.108), and its full teaching sits in the earlier PEP grades. China's G9 present-perfect stock is use and review, not a first teaching.
+- **Reported speech — NEVER taught as a structure (honest negative).** No unit, Grammar Focus box or reference section presents reported speech or backshift anywhere in the volume; the book's single reported line (Unit 11, p.84, noted in that unit's map above) is a use inside another lesson, not a teaching. The Grammar reference's clause coverage stops at object clauses and relative clauses.
+- **Conditionals — NEVER taught as a structure (honest negative).** No unit or reference section teaches zero / first / second conditionals; if-clauses occur only as ordinary sentences inside other work (e.g. the connector exercise on the shark text, p.99). Egypt's and Libya's conditional ladders have no China counterpart in this set.
+- **Narrating past events (Unit 12) — story-sequencing stock for Level 17:** two plotted first-person recounts and a framed write-your-own-story task (3b, p.95), plus the April Fool's survey of four short trick narratives (p.94).
+- **Environment set (Unit 13) — Words for the World stock with no earlier China counterpart:** pollution sorted into noise / air / water, finning and the food chain, and the rethink–reuse–recycle frame with its prefix/suffix sidebar (p.102).
+- **Word formation (Grammar reference pp.153–155) — dictionary-level stock:** the prefix and suffix tables and the clipping/initialism lists sit behind Level 8's Using the Dictionary and the word-building parts of the vocabulary levels.
+- **Graduation and memories (Unit 14) — conversation stock:** remember + gerund for past experiences, look forward to, and a full model graduation speech (p.110) — the volume's one ceremonial-speech text, plot-summarised above like all its readings.
+
+## Slips, as printed
+
+- Unit 13's Grammar Focus (p.100) labels its first reviewed tense **"Present progressive"**; the rest of the series' grammar naming in this volume runs on the "continuous" pattern (past continuous in Unit 12's frames). The label is recorded as printed.
+- The Irregular Verbs table (pp.184–185) prints **bear — bore — born** with no *borne* form, and prints the double forms side by side throughout (burnt/burned, dreamt/dreamed, got/gotten, learnt/learned, spelt/spelled, smelt/smelled, sped/speeded, lit/lighted) — all recorded as printed, none treated as errors.
+- The afterword （后记） carries no printed page number (it sits between Irregular Verbs p.185 and the back-cover spread, PDF p.200) — the only unnumbered body page in the back matter.
+- No misprints were found in the English text of Units 12–14 or the back matter beyond these points; the doubled identical cover press sheet at the file's open and close is a production fact of this copy, already recorded under "The book itself".
+
+## Closing block
+
+**FULLY READ:** the Grade 9 section of this file is now complete. Units 12–14 and all back matter (printed pp.89–187: pp.89–112 the units, pp.113–132 Notes on the Text, pp.133–149 Tapescripts, pp.150–155 Grammar, pp.156–170 Words and Expressions in Each Unit, pp.171–183 Vocabulary Index, pp.184–185 Irregular Verbs, and the unnumbered afterword) were re-read page by page from the verified copy's text layer, cross-checked against the printed folios on each page; with Units 1–11 above, every one of the book's 201 PDF pages has been read — no page skipped, including covers, front matter and both cover press sheets.
+
+**CITATION CHECK — anchors re-opened and confirmed on the page** (all page numbers printed; PDF page = printed + 14):
+1. Unit 12 opener, Mary's morning: "By the time I got up, my brother ___ already ___ in the shower" — p.89.
+2. Kevin's role-play: "before I got to the bus stop, the bus had already left" — p.90.
+3. Reading 3a, *Life Is Full of the Unexpected* — the September 11, 2001 coffee stop and the February 21, 2011 missed flight to New Zealand — p.91.
+4. Grammar Focus: "By the time I got back to school, the bell had rung" — p.92.
+5. April Fool's reading: the spaghetti hoax and Orson Welles's 1938 broadcast — p.94.
+6. Unit 12 Self Check, the meat-pie passage — p.96.
+7. Unit 13 reading 3a, *Save the Sharks!* — "around 70 million sharks are caught and traded in this industry every year" — p.99.
+8. Unit 13 Grammar Focus review table, five rows ending "We should help save the sharks — Modal verbs" — p.100.
+9. Unit 13 reading 2b, *Rethink, Reuse, Recycle!* — Amy Hayes, Jessica Wong, Wang Tao — p.102.
+10. Unit 13 Self Check 2, matching the five statements to the five reviewed structures — p.104.
+11. Unit 14 reading 3a, the poem *I Remember* — p.107.
+12. Unit 14 Grammar Focus, the seven-question review table — p.108.
+13. Unit 14 reading 2b, the graduation speech at No. 3 Junior High School — p.110.
+14. Unit 14 Self Check 2, the first-person verb-form paragraph — p.112.
+15. Notes on the Text, Unit 12 notes begin (be about to do something) — p.128.
+16. Tapescripts open with Unit 1, Section A 1b — p.133.
+17. Grammar reference: passive-voice formation tables and the Past Perfect section — pp.150–151.
+18. Grammar reference: Objective Clauses table and the Attributive Clauses section — p.152.
+19. Words and Expressions in Each Unit opens with Unit 1 (textbook, p.1 …) — p.156.
+20. Vocabulary Index opens at A (ability … p.6) — p.171.
+21. Irregular Verbs table, be (am, is, are) — was, were — been — pp.184–185.
+
+**Course filing state:** with this tail the China file stands complete — all 9 books in the record (Grades 3–6, Volumes 1–2, and the Grade 9 full-year volume) read whole and citation-checked. Series verdicts: the pool's first full relative-clauses unit (G9 Unit 9) and its fullest passive treatment (G9 Grammar reference); the past perfect fully taught (G9 Unit 12); reported speech and conditionals never taught as structures anywhere in China's set — honest negatives, filed.

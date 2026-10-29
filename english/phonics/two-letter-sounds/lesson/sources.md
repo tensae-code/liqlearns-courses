@@ -1,6 +1,6 @@
 # Sources for this lesson — Two-letter sounds
 
-countries: Egypt, Libya, Laos, Barbados
+countries: Egypt, Libya, Laos, Barbados, China
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The two-letter sets lived inside the alphabet
@@ -17,8 +17,21 @@ single letters.
 | Unit 8 set: **qu ou oi ue er ar** | Libya Pupils G1, Unit 8 contents (book p.89) |
 | The same pairs re-taught a year later — oa · ee · ue · oo (both) · th (both) · ch · sh | Libya Pupils Grade 2, Unit 2, book pp.19, 25–26 |
 | Qq taught as **qu** — quiet, quack, queen, question | Egypt — English Primary 1 Term 2, PDF p.12 |
+| The r-controlled ladder as a named system, one group per unit: **er** · **ir/ur/er** · **ar/al** · **or** · **le**, then a combined review | China — English (PEP) Grade 4 Volume 2, Let's spell pages, printed pp.6, 16, 26, 40, 50; review p.60 |
+| **ea / ee** taught together on one Let's spell page | China — English (PEP) Grade 5 Volume 1, Unit 2, printed p.16 |
+| The **ow / ou** split — one spelling pair, two sounds, sorted side by side (cow, down, how, now against snow, slow, window, yellow) | China — English (PEP) Grade 5 Volume 1, Unit 3, printed p.26 |
+| **oo** taught as two sounds on one page (the short set printed: good, look, foot) | China — English (PEP) Grade 5 Volume 1, Unit 4, printed p.40 |
+| **ch / sh** on one Let's spell page | China — English (PEP) Grade 5 Volume 2, Unit 3, printed p.26 |
+| **th** — voiced set against unvoiced set | China — English (PEP) Grade 5 Volume 2, Unit 4, printed p.40 |
+| **ng / nk** on one Let's spell page | China — English (PEP) Grade 5 Volume 2, Unit 5, printed p.50 |
+| **wh** on one Let's spell page | China — English (PEP) Grade 5 Volume 2, Unit 6, printed p.60 |
+| Review stock: a grouping task sorting ch, sh, th, ng, nk with the blends, and pronunciation-pattern reference tables | China — English (PEP) Grade 6 Volume 2, Recycle, printed p.49; Appendices, printed pp.70–71 |
 
-**Acceptance count: taught in 4 countries (Egypt, Libya, Laos, Barbados).**
+**Acceptance count: taught in 5 countries (Egypt, Libya, Laos, Barbados, China).**
+China adds the first r-controlled-vowel ladder taught as a named
+system (Grade 4 Volume 2), a run of one-pair-per-page Let's spell
+lessons across Grades 5–6 (ea/ee, ow/ou, oo, ch/sh, th, ng/nk,
+wh), and end-of-primary grouping review stock.
 Counts grow as other finished countries' books are read.
 
 **Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
@@ -151,3 +164,29 @@ sounds as a ministry programme with a printed order: the
 pp.28–35), the **vowel digraphs ea, ai, oa, ee**, and silent
 letters beside them — the fullest official digraph list the
 course holds.
+
+**China added 2026-10-29** — four books stock this lesson:
+**Book:** *Compulsory Education Textbook · English (PEP), Grade 4
+Volume 2* — China, People's Education Press (with Lingo Learning
+Inc., Canada), first edition October 2013, ISBN 978-7-107-27387-2.
+Filed in english/books/china.md (China — English Grade 4 Volume 2
+— FULLY READ + CITATION CHECK PASSED 2026-10-29). **Book:**
+*Compulsory Education Textbook · English (PEP), Grade 5 Volume 1*
+— China, People's Education Press (with Lingo Learning Inc.,
+Canada), 2013 edition, ISBN 978-7-107-27981-1. Filed in
+english/books/china.md (China — English Grade 5 Volume 1 — FULLY
+READ + CITATION CHECK PASSED 2026-10-29). **Book:** *Compulsory
+Education Textbook · English (PEP), Grade 5 Volume 2* — China,
+People's Education Press (with Lingo Learning Inc., Canada),
+first edition October 2014, ISBN 978-7-107-29086-2. Filed in
+english/books/china.md (China — English Grade 5 Volume 2 — FULLY
+READ + CITATION CHECK PASSED 2026-10-29). **Book:** *Compulsory
+Education Textbook · English (PEP), Grade 6 Volume 2* — China,
+People's Education Press (with Lingo Learning Inc., Canada),
+first edition October 2014 (this copy 4th printing, November
+2017), ISBN 978-7-107-29071-8. Filed in english/books/china.md
+(China — English Grade 6 Volume 2 — FULLY READ + CITATION CHECK
+PASSED 2026-10-29). Where Egypt grows this lesson book by book
+and Barbados sets it as a programme, China runs it as a ladder:
+one spelling-sound group per unit, each with a chant, a grouping
+task and sentence writing.

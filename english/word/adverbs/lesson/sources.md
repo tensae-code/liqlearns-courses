@@ -1,6 +1,6 @@
 # Sources — Adverbs
 
-countries: Bangladesh, Egypt, Ghana, Libya
+countries: Bangladesh, Egypt, Ghana, Libya, China
 
 Every part traces to its book and page.
 
@@ -25,6 +25,12 @@ Assessment (NaCCA), September 2019. Filed in
 english/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26).
 
+**Book 5:** Compulsory Education Textbook · English (Grade 3
+starting point), Grade 5 Volume 2 (student book) — China,
+People's Education Press (PEP) with Lingo Learning Inc.
+(Canada). Filed in english/books/china.md (Grade 5 Volume 2
+section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition in one line: "Adverbs say how an action is done. The adverb usually comes after the verb." — plus underlining the adverbs in a dialogue (regularly, carefully…) | Bangladesh, English for Today Class 5, LANGUAGE FOCUS: ADVERBS box, p.27 |
@@ -33,13 +39,15 @@ english/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 | The adjective/adverb pair work inside a story: "The bird's song was beautiful. The bird sang beautifully. The fox had a loud laugh. The fox laughed loudly… He was angry. He shouted angrily." — and the rebels: "He has a fast car. He drives fast. She is a good singer. She sings well." | Libya, Grade 8 Course Book, the fox-and-bird story lesson (Track 25), Functional Grammar box "Describing actions: Adverbs of manner" |
 | Adverbs open as "qualifying words" with manner examples — "He walked quickly to the church," "She danced beautifully" — together with adverbs of time and frequency | Ghana, NaCCA English Curriculum B1–3, Basic 3, standard B3.5.6.1 (Strand 5) |
 | Adverbs of frequency — how often something happens — with the percentage ladder (always at the top, never at zero) | Egypt, Primary 5 Term 1, Unit 1, p.12 |
+| Adverbs of frequency as a taught set — always / usually / often / sometimes — introduced in dialogues and drilled in a three-way survey grid tied to weekend activities | China, Grade 5 Volume 2, Unit 1 "My day," pp.7–8 |
 | The later kinds, recorded here as NOT this lesson's core: adverbs of time and place (Ghana B4), manner in full (B5, "Mercy ate slowly"), degree and reason (B6); Egypt's later box sorting manner / place / time / frequency | Ghana, NaCCA English Curriculum B4–6, Grammar Usage strand; Egypt, Preparatory books (see EGYPT-BOOK-MAP) |
 
-**Acceptance count: taught in 4 countries (Bangladesh, Egypt,
-Ghana, Libya).** Bangladesh carries the definition and the mime
+**Acceptance count: taught in 5 countries (Bangladesh, Egypt,
+Ghana, Libya, China).** Bangladesh carries the definition and the mime
 game; Egypt carries the making rule (-ly, y → i) and the
 frequency ladder; Libya carries the adjective-to-adverb move
 inside a story, with the rebels fast and well; Ghana carries
-the first naming and the order the kinds arrive in. Other
+the first naming and the order the kinds arrive in; China
+carries the frequency set as a survey system. Other
 finished countries join as their books are read (see
 READING-QUEUE.md).

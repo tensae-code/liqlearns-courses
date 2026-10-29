@@ -1,6 +1,6 @@
 # Sources for this lesson — Blending sounds
 
-countries: Egypt, Libya, Laos
+countries: Egypt, Libya, Laos, China
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The blending material lived inside the alphabet
@@ -13,8 +13,15 @@ letters.
 |---|---|
 | The first sounds group s, a, t, p, i, n, blended at once into sit, pat, tin, pin | Libya — English for Libya Pupils Book Grade 1, Unit 2 (Book Map phonics line, PDF p.5; unit contents, book p.17) |
 | Letters taught a few at a time, in an order chosen so words open early — Egypt's first letters are Tt, Ii, then Ss, Aa, Nn | Egypt — English KG1 Term 1 (contents/review, PDF pp.3–4) and Primary 1 Term 1 (Scope and Sequence, PDF pp.3–4) |
+| The whole alphabet run as five phonics sets — a–d, e–i, j–n, o–t, u–z — each set chanted through picture words, then listen-and-circle discrimination | China — English (PEP) Grade 3 Volume 1, Letters and sounds pages, printed pp.16, 26, 40, 50, 60 |
+| A complete short-vowel cycle in one volume — one Let's spell set per vowel (a, e, i, o, u) with whole-system reviews: the missing-vowel chant and the Short vowel song | China — English (PEP) Grade 3 Volume 2, Let's spell pages, printed pp.6, 16, 26, 40, 50; reviews pp.60, 69 |
+| Review stock: a blend/digraph grouping task sorting the sounds learned so far (cl, pl, br, fr, ch, sh, th, ng, nk), and pronunciation-pattern reference tables | China — English (PEP) Grade 6 Volume 2, Recycle, printed p.49; Appendices, printed pp.70–71 |
 
-**Acceptance count: taught in 3 countries (Egypt, Libya, Laos).**
+**Acceptance count: taught in 4 countries (Egypt, Libya, Laos, China).**
+China adds the alphabet stocked as five phonics sets rather than
+letter by letter (Grade 3 Volume 1), a complete short-vowel cycle
+inside one volume (Grade 3 Volume 2), and end-of-primary review
+stock that sorts the learned sounds into groups (Grade 6 Volume 2).
 Counts grow as other finished countries' books are read.
 
 **Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
@@ -41,3 +48,24 @@ k-i-ck (p.43), then tile sets in the practice lessons (p.49:
 p-e-n, t-e-n, a-n-t · p.53: h-a-t, h-e-n, t-a-p · p.56: six
 blends — p-i-n, c-a-t, t-e-n, s-i-t, a-n-t, h-a-t). The tile is
 Laos's own device for this lesson: the slide done with the hands.
+
+**China added 2026-10-29** — three books stock this lesson:
+**Book:** *Compulsory Education Textbook · English (Grade 3
+starting point), Grade 3 Volume 1* — China, People's Education
+Press (with Lingo Learning Inc., Canada), © 2012, ISBN
+978-7-107-24467-4. Filed in english/books/china.md (China —
+English Grade 3 Volume 1 — FULLY READ + CITATION CHECK PASSED
+2026-10-29). **Book:** *Compulsory Education Textbook · English
+(PEP), Grade 3 Volume 2* — China, People's Education Press (with
+Lingo Learning Inc., Canada), first edition October 2012, ISBN
+978-7-107-25247-1. Filed in english/books/china.md (China —
+English Grade 3 Volume 2 — FULLY READ + CITATION CHECK PASSED
+2026-10-29). **Book:** *Compulsory Education Textbook · English
+(PEP), Grade 6 Volume 2* — China, People's Education Press (with
+Lingo Learning Inc., Canada), first edition October 2014 (this
+copy 4th printing, November 2017), ISBN 978-7-107-29071-8. Filed
+in english/books/china.md (China — English Grade 6 Volume 2 —
+FULLY READ + CITATION CHECK PASSED 2026-10-29). China's sets are
+chanted and circled, not tiled or slid — the sounds arrive as
+whole sets with picture words, the grouping task at the end of
+primary school sorting them back into their families.
