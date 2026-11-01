@@ -308,6 +308,38 @@ liqlearns-courses/
   (video scripts filed, no videos made): full lesson videos
   are still not the plan — short, swappable GIFs and clips
   are.
+- SPEAKER BUTTON + TWO KINDS OF PARTS (his ruling, 2026-11-01):
+  most learners using these courses start knowing almost
+  nothing of the language the book is written in — they may be
+  children or adults. So every course page carries a **speaker
+  button at the top**, and **at signup the learner is asked
+  their main language**. The button opens a dropdown with two
+  choices: (1) **read out loud** — reading the book out IS
+  explaining the book; and (2) **in my own language** — the
+  explanation read/translated into the learner's main
+  language. For that to work, **every part of every lesson is
+  marked as one of two kinds when the lesson is built**:
+  - **EXPLANATION parts** — everything around the thing being
+    taught ("the book says, to say hi in Amharic you have to
+    say…"). These follow the learner's chosen language: they
+    can be read aloud and translated into the learner's main
+    language.
+  - **TARGET parts** — the thing itself being taught: the
+    letter, the word, the phrase (ሰላም — "selam", S-E-L-A-M).
+    These are NEVER translated and never read in another
+    language's voice. The reader **switches to the target
+    language's own voice** to read that part — pronunciation
+    is read the way that language reads — then **switches
+    back** to the explanation language and reads the rest.
+  This refines the 2026-10-28 zero-start rule: a language
+  course's TARGET is still never translated (it is learned as
+  it is, with pictures and its own pronunciation); what the
+  learner's own language carries is the EXPLANATION around
+  it. He will add the same button on LiqLearns itself.
+  Same ruling: the FIRST course (Pencil and Lines) cannot
+  lean on text at all — **every step (all five grip steps)
+  and the first explanation carry a GIF or short video**, so
+  a learner who cannot read yet can copy the moving picture.
 - TIPS ARE OURS (his ruling, 2026-10-26): a lesson's teaching comes from
   the government textbooks only. Anything extra — a clearer way to say a
   thing, a check or a trick that helps the learner DO the thing, or help
