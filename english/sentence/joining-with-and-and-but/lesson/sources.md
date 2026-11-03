@@ -97,7 +97,7 @@ CITATION CHECK PASSED 2026-11-03).
 | The linkers named as the stories module's whole language focus — *and, but, because, so* — worked through the Pushkin, Robin Hood and Kazakh myth retellings | Kazakhstan, Excel Grade 5, Module 6, printed pp.75–84 |
 | Linking words named as a lesson point — *and, but, or, so, because* — in the volunteering lesson, with an email giving news and a correction-code editing task | Kazakhstan, Full Blast! Grade 6, Module 2, section 2e, printed pp.40–57 |
 | The joiners stated as a LOOK box over the pupil book's blog: *and* to add information, *but* to show a contrast — counted in the blog text and shown in Venn-style diagrams | Iraq — English for Iraq, Grade 6 Activity Book, Unit 2, printed pp.20–35 ("We use but to show a contrast", printed p.31) |
-| Linking words as a lesson of their own — *and, but, or, because, as well as* — joining things in a Japanese penfriend unit | Iraq — English for Iraq, Grade 7 Student's Book Book One, Unit 6, printed pp.54–63 |
+| Linking words as a lesson of their own — *and, but, or, because, as well as* — joining things in a Japanese penfriend unit | Iraq — English for Iraq, Grade 7 Student's Book, Unit 6, printed pp.54–63 |
 | Joining sentences with *and, but, or* as a named Round up box, closing the opening unit's workbook work | Iraq — English for Iraq, Grade 7 Activity Book, Unit 1, printed pp.4–21 ("Joining sentences with and, but, or", printed p.20) |
 
 **Acceptance count: taught in 11 countries (Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).**

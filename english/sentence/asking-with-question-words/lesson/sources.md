@@ -118,7 +118,7 @@ CITATION CHECK PASSED 2026-11-03).
 | The question words *who / where / when / what* named as the holidays module's grammar, with *How do you get there?* and *How much is/are …?* beside them | Kazakhstan, Top Stars Grade 3, Module 8, printed pp.92–101 |
 | Question words taught whole at the top of the school — including preposition placement — with subject–object questions as the same lesson's second point | Kazakhstan, Full Blast! Grade 9, Module 2, printed pp.37–60 |
 | The wh- question words systematised as a set — who, what, when, where, how, why, with *why* glossed as "means because" — then worked in did-questions over a cinema email ("Where did he go? What did he see? Who did he go with?") | Iraq — English for Iraq, Grade 4 Pupil's Book, Unit 6, printed pp.74–89 |
-| Present and past simple question formation in depth — the "Asking about the present and the past" box in the lessons, systematised in the unit's Round up and in the Grammar and functions reference | Iraq — English for Iraq, Grade 9 Student's Book Book One, Unit 2, printed pp.18–29 (Round up, printed p.27; reference, printed pp.111–119) |
+| Present and past simple question formation in depth — the "Asking about the present and the past" box in the lessons, systematised in the unit's Round up and in the Grammar and functions reference | Iraq — English for Iraq, Grade 9 Student's Book, Unit 2, printed pp.18–29 (Round up, printed p.27; reference, printed pp.111–119) |
 
 **Acceptance count: taught in 12 countries (Bangladesh, Egypt,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
@@ -134,7 +134,7 @@ do/does, with its falling voice; Sierra Leone frames
 occasion talk on the six words and names them as the
 question mark's signals; Jordan
 drills what/who/how-old in Grade 1, when and how much
-in Grade 3, and How…? questions in Grade 5. Greece works how many / how much as a taught pair and what are you doing? at Grade 4, gathers the Wh- family in its Grade 4 final self-assessment, and sets wh-questions as a lesson's grammar in its Grade 7 Beginners workbook. Kazakhstan names question words as a module point at Grade 5, lists who / where / when / what at Grade 3, and teaches the family whole — preposition placement and subject–object questions included — at Grade 9. Iraq systematises the wh- words as a set in its Grade 4 Pupil's Book — who, what, when, where, how, why — and returns to present and past simple question formation in depth in its Grade 9 Student's Book Book One. Other closed countries join as their books are read
+in Grade 3, and How…? questions in Grade 5. Greece works how many / how much as a taught pair and what are you doing? at Grade 4, gathers the Wh- family in its Grade 4 final self-assessment, and sets wh-questions as a lesson's grammar in its Grade 7 Beginners workbook. Kazakhstan names question words as a module point at Grade 5, lists who / where / when / what at Grade 3, and teaches the family whole — preposition placement and subject–object questions included — at Grade 9. Iraq systematises the wh- words as a set in its Grade 4 Pupil's Book — who, what, when, where, how, why — and returns to present and past simple question formation in depth in its Grade 9 Student's Book. Other closed countries join as their books are read
 (see READING-QUEUE.md).
 
 **Laos Grade 4 added 2026-10-27** — *English for Lao Primary

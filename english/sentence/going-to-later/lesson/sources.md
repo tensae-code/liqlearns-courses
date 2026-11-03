@@ -111,7 +111,7 @@ CITATION CHECK PASSED 2026-11-03).
 | *Going to* for plans running through a school-trip unit — "We're going to see a waterfall. I'm going to take my backpack" — beside the present continuous for what people on the train are doing now | Iraq — English for Iraq, Grade 4 Pupil's Book, Unit 5, printed pp.58–73 |
 | *Going to* for holiday plans with the full paradigm in a "Let's check" box — I'm/you're/he's/we're/they're going to + verb — with transport questions and "It's going to be hot and sunny" | Iraq — English for Iraq, Grade 5 Pupil's Book, Unit 7, printed pp.90–105 |
 | The two futures divided by job in primary's last year: *going to* for plans already agreed (the Mother's Day party email and preparations), *will/won't* for predictions with *I think …* | Iraq — English for Iraq, Grade 6 Pupil's Book, Unit 7, printed pp.90–105 and Units 1 and 5, printed pp.6–21 and 58–73 |
-| *Going to* against *will* stated as one box — the "Talking about the future" box: *be going to* for plans against *will* for certainties, inside two headteacher interviews | Iraq — English for Iraq, Grade 9 Student's Book Book One, Unit 6, printed pp.64–75 |
+| *Going to* against *will* stated as one box — the "Talking about the future" box: *be going to* for plans against *will* for certainties, inside two headteacher interviews | Iraq — English for Iraq, Grade 9 Student's Book, Unit 6, printed pp.64–75 |
 
 **Acceptance count: taught in 11 countries (Bolivia, Ghana,
 Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).** Bolivia tables going to whole and names its
@@ -131,7 +131,7 @@ continuous and the timetabled present as futures.
 Greece teaches the future as one three-form system at Grade 5 — going to, arrangements continuous and will — contrasts will with going to by job at Grade 6, and runs all three futures through one Grade 7 unit. Kazakhstan teaches *be going to* in full at Grade 5 — affirmative, negative and questions — and again at Grade 6 beside *will/won't* for predictions, with Full Blast! adding the arrangements-continuous note. No primary Kazakhstan book teaches any future form — the form arrives at Grade 5, in the secondary-style series. Indonesia was checked and adds nothing here: no future
 form is taught in any of its read books — will/going to
 occur only incidentally inside other texts (see
-english/books/indonesia.md, honest negatives). Iraq runs *going to* for plans through its Grade 4 school-trip unit, boxes the full paradigm in Grade 5, divides *going to* plans from *will* predictions in Grade 6, and states the pair as one box — plans against certainties — in its Grade 9 Student's Book Book One. Other finished
+english/books/indonesia.md, honest negatives). Iraq runs *going to* for plans through its Grade 4 school-trip unit, boxes the full paradigm in Grade 5, divides *going to* plans from *will* predictions in Grade 6, and states the pair as one box — plans against certainties — in its Grade 9 Student's Book. Other finished
 countries join as their books are read (see
 READING-QUEUE.md).
 

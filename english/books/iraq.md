@@ -34,9 +34,14 @@ handled by a weekly "Sounds and words" slot; the
 G4) and no free writing — copying, guided sentences
 and, by G6, set 30–40-word pieces. Intermediate
 (G7–G9) builds the full core system — passive,
-conditionals 1–3, reported speech, present perfect
-continuous (G9) — but, per correction 1, the held
-Student's Books carry only Units 1–4 of each year.
+conditionals 1–3, reported speech. (An earlier draft
+of this summary also claimed the present perfect
+continuous at G9 and that the held intermediate
+Student's Books carry only Units 1–4; both claims
+are wrong — the PPC is first taught at G10, Student's
+Book Unit 3, and the held G7–G9 Student's Books are
+complete full-year volumes, Units 1–8. Corrected
+2026-11-03; see correction 1.)
 Preparatory (G10–G12) is exam-driven: G10 bridges
 with a 120-word writing ceiling; G11 systematises
 (passive in full, conditionals 0–3, reported speech,
@@ -54,9 +59,7 @@ runs as a named strand (Literature Spot / Focus) with
 "The Canary" as the G12 set text — taught from **a
 separate Reader that is not among the held files**.
 
-**Still owed by the library side:** the G7, G8 and G9
-Student's Books **Book Two** (Units 5–8) — not in the
-record at all; clean scans of the G4 Student's Book
+**Still owed by the library side:** clean scans of the G4 Student's Book
 (pp. 33–34), G4 Activity Book (pp. 13–14 content),
 G7 Activity Book (pp. 61–64), G8 Student's Book
 (pp. 64–65, without the duplicated 56–59) and G9
@@ -78,20 +81,26 @@ preparatory G10–G12. Primary runs a combined
 Pupil + Activity Book at G1–G2 and separate Student's
 Book + Activity Book from G3; every grade G1–G12 has
 its Teacher's Book. The intermediate Student's Books
-as held are only **Book One** of two-book sets — see
-the corrections.
+as held are complete full-year volumes (Units 1–8) —
+see correction 1.
 
 **Record corrections found by the covers (library-side
 fixes owed):**
-1. **G7, G8 and G9 Student's Books are Book One only.**
-   Each held SB contains Units 1–4 + Review and ends
-   there (G7: printed p. 100; G8: p. 120; G9: p. 120);
-   the Activity Books run all eight units and both
-   Teacher's Books state the year is two books of four
-   units. The second Student's Books are **not in the
-   record and are still owed** — the record's one
-   "Student's Book" row per intermediate grade is half
-   a book.
+1. **G7, G8 and G9 Student's Books as held are COMPLETE
+   full-year volumes (Units 1–8).** The Teacher's Books
+   describe a two-book print structure (Book One = Units
+   1–4, Book Two = Units 5–8), and an earlier version of
+   this filing wrongly concluded the held Student's
+   Books were Book One only. They are not: each held SB
+   files all eight units with citation anchors on
+   Units 5–8 pages (e.g. G7 Unit 5 pp.42–53 through
+   Unit 8, transcripts pp.80–96, reference pp.97–99,
+   ending at printed p. 100; G8 and G9 likewise, p. 120).
+   The contradiction was flagged by the Iraq merge
+   (2026-11-03) and settled against the book sections:
+   **no Book Two is owed** — Units 5–8 are in hand and
+   read. The "Book One" labels briefly carried in the
+   lessons' sources.md files were removed the same day.
 2. **G4 Student's Book scan is incomplete**: the secured
    copy skips printed pp. 33–34 (the library record's
    "complete book" description of this file is wrong);
