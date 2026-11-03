@@ -1,6 +1,6 @@
 # Sources — Telling the time
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
 
 Every part traces to its book and page.
 
@@ -70,6 +70,12 @@ english/books/jordan.md (Grade 3 Pupil's Book Semester 1 section, FULLY READ + C
 
 **Book 18:** English for Iraq, Grade 5, Pupil's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 5 — English for Iraq 5th Primary Pupil's Book (pupil's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 19:** English for Ethiopia, Grade 1 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 1 — English for Ethiopia Student's Book Grade 1 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 20:** English for Ethiopia, Grade 3 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 3 — English for Ethiopia Student's Book Grade 3 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 21:** English for Ethiopia, Grade 4 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 4 — English for Ethiopia, Grade 4 Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The clock's two hands named — the short, red hand is the hour hand; the long, blue hand is the minute hand; say and complete o'clock times | Bangladesh, English for Today Class 4, Unit 13 "Telling the Time," pp.26–27 |
@@ -96,9 +102,12 @@ english/books/jordan.md (Grade 3 Pupil's Book Semester 1 section, FULLY READ + C
 | "What's the time?" as its own lesson: clocks at 6, 8, 12, 3, 7 and 9 o'clock, a listen-and-draw clock grid for four children, and the day told in o'clock sentences — "I wake up at 6 o'clock. I eat breakfast at 7 o'clock." | Iraq — English for Iraq, Grade 3 Pupil's Book, Unit 3, Lesson 7, printed pp.38–53 |
 | Telling the time a year up, inside the present-simple school day: "More time" teaches the o'clock times and 3.30 beside the routines and timetables | Iraq — English for Iraq, Grade 4 Pupil's Book, Unit 2, printed pp.22–37 |
 | Times said in words on digital clocks — 7.45 seven forty-five, 12.00 twelve o'clock, 9.30 nine thirty (printed p.22) — then was/were pinned to clock times on a shopping trip: "At 10.30, Mum was at the pharmacy. At 10.45, Rahaf and Ameer were at the toy shop," with the drill "Where were you at nine o'clock yesterday morning? — I was at school" (printed p.79) | Iraq — English for Iraq, Grade 5 Pupil's Book, Unit 2, printed p.22; Unit 6, printed pp.74–89 |
+| Telling the time to the hour only — "What time is it? — It is 1 o'clock" (printed p.34), clock-face reading to the hour | Ethiopia, Grade 1 Student's Book, Unit 2 "Times of The Day," printed pp.27–42 |
+| Telling time with half past and quarter to, inside the simple-present grammar of the flag unit | Ethiopia, Grade 3 Student's Book, Unit 7 "The National Flag," printed pp.90–103 |
+| "Telling the Time" dialogues — half past six, a quarter to eight — inside the clean-water unit | Ethiopia, Grade 4 Student's Book, Unit 6 "Clean Water," printed pp.81–93 |
 
-**Acceptance count: taught in 11 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq).** Bangladesh carries
+**Acceptance count: taught in 12 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).** Bangladesh carries
 the clock's hands, the
 o'clock shape, and the a.m./p.m. rule; Egypt carries times
 inside the day's routines with the book's own question;
@@ -114,7 +123,7 @@ times inside the morning routine, with no quarter/half
 words — the same plain telling Laos's primary book uses;
 Iran carries times in a practice table with clock faces
 under it, a.m./p.m. in the vocabulary, and the quarter and
-half times pictured in its Photo Dictionary. Jordan carries o'clock saying inside its routines unit, and the whole clock — hands, quarters, halves, past and to by fives — as a Maths lesson with a make-a-clock task; Greece carries the clock in two steps of its own — o'clock only in Grade 2, told over one child's whole day, then the full o'clock / half past / quarter past / quarter to system stated in a reminder box in Grade 4, with o'clock times inside a written school day in Grade 7 Beginners; Kazakhstan carries telling the time as a whole Grade 3 Smiles module — a day wheel on the clock, with half past, quarter past and quarter to in its Glossary phrases — o'clock telling in Top Stars Grade 3, and time-telling as Everyday English in Grade 5 Excel; Iraq carries the clock in three steps — o'clock times with What's the time? in Grade 3, telling the time inside the present-simple day in Grade 4, and times said in words with was/were pinned to clock times in Grade 5; Other closed
+half times pictured in its Photo Dictionary. Jordan carries o'clock saying inside its routines unit, and the whole clock — hands, quarters, halves, past and to by fives — as a Maths lesson with a make-a-clock task; Greece carries the clock in two steps of its own — o'clock only in Grade 2, told over one child's whole day, then the full o'clock / half past / quarter past / quarter to system stated in a reminder box in Grade 4, with o'clock times inside a written school day in Grade 7 Beginners; Kazakhstan carries telling the time as a whole Grade 3 Smiles module — a day wheel on the clock, with half past, quarter past and quarter to in its Glossary phrases — o'clock telling in Top Stars Grade 3, and time-telling as Everyday English in Grade 5 Excel; Iraq carries the clock in three steps — o'clock times with What's the time? in Grade 3, telling the time inside the present-simple day in Grade 4, and times said in words with was/were pinned to clock times in Grade 5; Ethiopia carries the clock in three steps — o'clock telling only in Grade 1 ("It is 1 o'clock", printed p.34), half past and quarter to in Grade 3, and Telling the Time dialogues (half past six, a quarter to eight) in Grade 4; Other closed
 countries join as their
 books are read (see READING-QUEUE.md).
 

@@ -1,6 +1,6 @@
 # Sources — Adjectives
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
 
 Every part traces to its book and page.
 
@@ -124,6 +124,14 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 
 **Book 29:** English for Iraq, Grade 9, Student's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 9 — English for Iraq, 3rd Intermediate Student's Book (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 30:** English for Ethiopia, Grade 4 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 4 — English for Ethiopia, Grade 4 Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 31:** English for Ethiopia, Grade 5 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 5 — English for Ethiopia, Grade 5 Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 32:** English for Ethiopia, Grade 6 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 6 — English for Ethiopia, Grade 6 Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 33:** English for Ethiopia, Grade 11 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 11 — ENGLISH / STUDENT TEXTBOOK / GRADE 11 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition as questions, and the rule that finds adjectives: "Adjectives tell us about the things – are they big, small, happy, sad? • Adjectives and nouns go together." | Libya, Grade 5 Pupils Book, Unit 6, "Let's check!" box |
@@ -163,9 +171,14 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 | Adjective order taught as a rule of its own — the order of adjectives: size → colour → material (a big black leather sofa) — in a LOOK box unique to this book, then used to describe a room in writing | Iraq — English for Iraq, Grade 6 Activity Book, Unit 2, printed p.21 |
 | Adjective order again at intermediate level, as a table — Opinion–Size–Age–Shape–Colour–Origin–Material — in the describing-things unit's Round up | Iraq — English for Iraq, Grade 9 Student's Book, Unit 1, Round up, printed p.13 |
 | Comparing forms (comparative / superlative rules) — recorded here as NOT this lesson, as in Egypt: Iraq teaches them as their own system (Grade 4 Pupil's Book Units 1 and 5, with good/better/best in the Grade 4 Activity Book) and they get their own lesson | Iraq — English for Iraq, Grade 4 Pupil's Book, Unit 1, printed pp.6–21; Unit 5, printed pp.58–73 |
+| Comparative adjectives with their full spelling rules, and the positive / comparative / superlative table in the appendix | Ethiopia — English for Ethiopia, Grade 4 Student's Book, Unit 5, printed p.78; Appendix 2, printed p.146 |
+| Degrees of comparison as the long grammar section: positive (as … as for equality), comparative and superlative of one-syllable adjectives | Ethiopia — English for Ethiopia, Grade 5 Student's Book, Unit 1, grammar, printed pp.14–31 |
+| Comparison of adjectives — positive, comparative, superlative, including irregular adjectives — in the grammar section | Ethiopia — English for Ethiopia, Grade 6 Student's Book, Unit 4, grammar, contents p.99 (unit contents pp.90–111, as filed) |
+| Order of adjectives taught in the grammar section (7E), beside adverbs and their categories | Ethiopia — English for Ethiopia, Grade 11 Student's Book, Unit 7, grammar (7E), printed pp.165–203 |
+| Types of adjectives taught in the grammar section (10E), beside the revised conditionals | Ethiopia — English for Ethiopia, Grade 11 Student's Book, Unit 10, grammar (10E), printed pp.253–272 |
 
-**Acceptance count: taught in 13 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).**
+**Acceptance count: taught in 14 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).**
 Libya carries the definition twice and the
 pairs inside a story; Bangladesh carries the pictured pairs;
 Egypt carries the fullest statement of what adjectives tell;
@@ -178,6 +191,6 @@ vegetables described by colour, shape and taste; Iran carries
 the adjective as a named word kind with its kinds and places,
 and the first describing pairs on people in Prospect 1;
 Sierra Leone carries describing a friend and yourself, and
-colour words as a describing set. Jordan carries opinion adjectives in its Grade 2 Learning Club, the size pairs on animals, a ten-word opposite set used before nouns, and a twelve-word character set; Greece carries adjectives sorted by kind — opinion, size, age, colour, material — in Grade 7 Beginners, sense verbs with their adjectives in Grade 5, and the -ing against -ed pair in Grade 6; Kazakhstan carries the size and age pairs and the character set in its Grade 3 Express book, appearance and character adjectives with their opposites in Grade 5 Excel, and adjectives set before their nouns in Grade 5 English Plus — its comparing forms are a different lesson and are not sourced here; Iraq carries the first describing words big, funny and little in its Grade 1 zoo and monster work, and adjective order twice — as the size → colour → material rule in its Grade 6 Activity Book, and as the full seven-kind table in Grade 9 book — its comparing forms are a different lesson and are not sourced here; Other
+colour words as a describing set. Jordan carries opinion adjectives in its Grade 2 Learning Club, the size pairs on animals, a ten-word opposite set used before nouns, and a twelve-word character set; Greece carries adjectives sorted by kind — opinion, size, age, colour, material — in Grade 7 Beginners, sense verbs with their adjectives in Grade 5, and the -ing against -ed pair in Grade 6; Kazakhstan carries the size and age pairs and the character set in its Grade 3 Express book, appearance and character adjectives with their opposites in Grade 5 Excel, and adjectives set before their nouns in Grade 5 English Plus — its comparing forms are a different lesson and are not sourced here; Iraq carries the first describing words big, funny and little in its Grade 1 zoo and monster work, and adjective order twice — as the size → colour → material rule in its Grade 6 Activity Book, and as the full seven-kind table in Grade 9 book — its comparing forms are a different lesson and are not sourced here; Ethiopia carries degrees of comparison in Grade 5 (positive as … as, comparative, superlative), comparative adjectives with spelling rules and a comparison table appendix in Grade 4, comparison including irregulars in Grade 6, and order of adjectives and types of adjectives in Grade 11; Other
 closed countries join as their books are read (see
 READING-QUEUE.md).

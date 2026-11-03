@@ -1,6 +1,6 @@
 # Sources for this lesson — What's his and her name?
 
-countries: Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq
+countries: Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -23,8 +23,10 @@ Book (Garnet / CERC, © 2019; verified on disk 2026-10-25: %PDF,
 | Asking names about other people in Libya's exact wording: "What's his/her name?" — answered with the bare name, in the opening lesson where Zack meets the children | Iraq — English for Iraq, Grade 2 Pupil and Activity Book, Unit 1, Lesson 1, printed pp.4–13 |
 | The name question asked about one person, with the full answer: "What's her name? — Her name is Nada." — the names then spelled aloud (N-a-d-a) | Iraq — English for Iraq, Grade 2 Pupil and Activity Book, Unit 7, Lesson 4, printed pp.58–67 |
 | The same question in the first year's receptive layer — "What's his/her name?" heard in the Grade 1 lessons and named again among Unit 7's objectives | Iraq — English for Iraq, Grade 1 Teacher's Book, Unit 1 notes, printed pp.22–69; Unit 7 notes, printed pp.168–185 |
+| Naming a third person in the statement form: "My father's name is …" — a third person's name stated as its own frame, inside talking about oneself and others (Ethiopia never prints the "What's his/her name?" question wording in its filed read — its form is this statement, recorded as printed) | Ethiopia — English for Ethiopia, Grade 1 Student's Book, Unit 3 "Colours," printed pp.43–52 |
+| Father's name as a named item of the personal-information exchange — name, father's name, age, origin, grade (the exchange is filed as a topic list; no name-question wording is printed for it in the filed read) | Ethiopia — English for Ethiopia, Grade 4 Student's Book, Unit 1 "People and Their Work," printed pp.1–20 |
 
-**Acceptance count: taught in 7 countries (Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq).**
+**Acceptance count: taught in 8 countries (Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia).**
 China names third people by role with he/she and identifies
 family members one by one; North Macedonia works the naming
 frame through a full set of named family portraits. Iran and
@@ -42,6 +44,12 @@ Iraq joined 2026-11-03 with Libya's form itself, not a
 name?" in its opening lesson, and asks "What's her
 name? — Her name is Nada." a unit from the end of the
 year.
+Ethiopia joined 2026-11-03 in the statement form, like
+Jordan: it never prints the "What's his/her name?"
+question, but its Grade 1 book states a third person's
+name as its own frame — "My father's name is …" — and
+its Grade 4 book names father's name among the items of
+its personal-information exchange.
 Counts grow as other closed countries' books are read.
 
 **China added 2026-10-29** — **Book:** *Compulsory Education
@@ -142,3 +150,26 @@ person with the full answer and the spelling: "What's
 her name? — Her name is Nada. N-a-d-a." (Unit 7,
 printed pp.58–67). Iraq's form is Libya's form, in the
 question's own words.
+
+**Ethiopia added 2026-11-03** — two books stock this lesson:
+**Book:** *English for Ethiopia*, Grade 1 Student's Book —
+Ethiopia, Federal Democratic Republic of Ethiopia, Ministry
+of Education. **Book:** *English for Ethiopia*, Grade 4
+Student's Book — Ethiopia, Federal Democratic Republic of
+Ethiopia, Ministry of Education. Both filed in
+english/books/ethiopia.md (Grade 1 — English for Ethiopia
+Student's Book Grade 1 (student's book); Grade 4 — English
+for Ethiopia, Grade 4 Student's Book (student's book)
+sections, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+Where Iraq prints this lesson's question, Ethiopia prints
+only the statement form, in the same shape as Jordan's
+"His name's… / Her name's…" above: Grade 1, Unit 3
+(printed pp.43–52), talking about oneself and others,
+gives "My father's name is …" — a third person's name
+stated as a frame. Grade 4, Unit 1 (printed pp.1–20),
+then names father's name among the items of its
+personal-information exchange (name, father's name, age,
+origin, grade); the filed read prints no name-question
+wording for that exchange, and none is claimed here.
+Ethiopia is counted for the statement frame only,
+exactly as filed.

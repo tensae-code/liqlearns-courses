@@ -1,6 +1,6 @@
 # Sources — Nouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
+countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
 
 Every part traces to its book and page.
 
@@ -88,6 +88,14 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 
 **Book 22:** English for Iraq, Grade 5, Pupil's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 5 — English for Iraq 5th Primary Pupil's Book (pupil's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 23:** English for Ethiopia, Grade 4 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 4 — English for Ethiopia, Grade 4 Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 24:** English for Ethiopia, Grade 5 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 5 — English for Ethiopia, Grade 5 Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 25:** English for Ethiopia, Grade 6 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 6 — English for Ethiopia, Grade 6 Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 26:** English for Ethiopia, Grade 11 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 11 — ENGLISH / STUDENT TEXTBOOK / GRADE 11 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition in its three-sort form: "Nouns — person, place, thing," taught with the "Life in the City" text (Karim) and sorting work | Egypt, Primary 2 Term 2, Unit 4, Lesson 3 "Language in Use," p.68 |
@@ -123,9 +131,13 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | The noun taught as a word kind in its own right, in the book's own words: "Nouns are the names of things. Adjectives tell us about the things" — the "Let's check!" box in the story work, with nouns set against adjectives | Iraq — English for Iraq, Grade 4 Activity Book, Unit 6, printed p.86 |
 | Irregular plurals as a pictured list closing the Picture Dictionary: child–children, mouse–mice, foot–feet, scarf–scarves, leaf–leaves, tooth–teeth | Iraq — English for Iraq, Grade 3 Pupil's Book, Picture Dictionary, printed pp.110–120 |
 | Countable and uncountable nouns taught as a lesson of their own — "What can you count?" — with some/any, a lot/lots and the containers set (tin, box, cup, bottle, packet, bag — a box of chocolates, a tin of lemonade) | Iraq — English for Iraq, Grade 5 Pupil's Book, Unit 5, printed pp.58–73 |
+| Collective nouns as a named set: a herd of cows, a colony of ants, a pack of dogs, a crowd | Ethiopia — English for Ethiopia, Grade 4 Student's Book, Unit 9, printed pp.131–132 |
+| Types of nouns taught in the grammar section, beside the Present Simple and Present Continuous Passive Voice | Ethiopia — English for Ethiopia, Grade 5 Student's Book, Unit 4, grammar, printed pp.94–107 |
+| Types of nouns again in the grammar section, beside Conditional Sentence Type I | Ethiopia — English for Ethiopia, Grade 6 Student's Book, Unit 8, grammar, contents p.190 (unit printed pp.179–198, as filed) |
+| Types of nouns in the opening grammar section (1E), beside the simple present, the present passive and the simple future | Ethiopia — English for Ethiopia, Grade 11 Student's Book, Unit 1, grammar (1E), printed pp.1–32 |
 
-**Acceptance count: taught in 13 countries (Bangladesh, Egypt,
-Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).**
+**Acceptance count: taught in 14 countries (Bangladesh, Egypt,
+Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).**
 Egypt and Bangladesh carry the definition itself,
 each in the three-sort form; Libya carries it twice more in its
 own shorter words; Ghana carries the sentence test; China
@@ -137,7 +149,7 @@ and the countable/uncountable line again with measure words;
 Sierra Leone carries the categories made by the learners
 themselves, the countable/uncountable pair in Primary 2, and
 the plural spellings -es / -ies / -ves as separate lessons.
-Jordan carries the irregular plurals mouse–mice and fish–fish and the -oes spellings, and countable against uncountable twice — with containers and quantity in Grade 4, and with some/any/no and the quantifiers in Grade 8; Greece carries countable against uncountable three times — as the Grade 4 party-shopping grammar core, again in Grade 6 with containers and few/little, and in Grade 7 with the quantifier set; Kazakhstan carries countable against uncountable twice in primary — in its Grade 3 Macmillan book, beside regular and irregular plurals, and in Grade 5 English Plus with some and any — and the plural spellings -s, then -es and -ies, built up across its Grade 3 Express book; Iraq carries the noun named as a word kind in its Grade 4 Activity Book — "Nouns are the names of things" set against adjectives — the irregular plurals as a pictured list closing its Grade 3 Picture Dictionary, and countable against uncountable nouns with containers in Grade 5; Other finished
+Jordan carries the irregular plurals mouse–mice and fish–fish and the -oes spellings, and countable against uncountable twice — with containers and quantity in Grade 4, and with some/any/no and the quantifiers in Grade 8; Greece carries countable against uncountable three times — as the Grade 4 party-shopping grammar core, again in Grade 6 with containers and few/little, and in Grade 7 with the quantifier set; Kazakhstan carries countable against uncountable twice in primary — in its Grade 3 Macmillan book, beside regular and irregular plurals, and in Grade 5 English Plus with some and any — and the plural spellings -s, then -es and -ies, built up across its Grade 3 Express book; Iraq carries the noun named as a word kind in its Grade 4 Activity Book — "Nouns are the names of things" set against adjectives — the irregular plurals as a pictured list closing its Grade 3 Picture Dictionary, and countable against uncountable nouns with containers in Grade 5; Ethiopia carries types of nouns three times — in Grade 5 beside the passive, in Grade 6 beside Conditional Type I, and in Grade 11's opening grammar — and collective nouns as a named set in Grade 4 (a herd of cows, a colony of ants, a pack of dogs, a crowd); Other finished
 countries join as their books are read (see READING-QUEUE.md).
 
 **Laos Grade 7 added 2026-10-27** — *English for Secondary

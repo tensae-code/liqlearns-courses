@@ -1,6 +1,6 @@
 # Sources — The story
 
-countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
+countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
 
 Every part traces to its book and page.
 
@@ -125,6 +125,16 @@ Ministry of Education. Filed in english/books/iraq.md
 (student's book) section, FULLY READ + CITATION CHECK
 PASSED 2026-11-03).
 
+**Book 23:** English for Ethiopia, Grade 11 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 11 — ENGLISH / STUDENT TEXTBOOK / GRADE 11 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 24:** English for Ethiopia, Grade 12 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 12 — ENGLISH STUDENT TEXTBOOK GRADE 12 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 25:** English for Ethiopia, Grade 9 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 9 — English for Ethiopia, Student Textbook (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 26:** English for Ethiopia, Grade 3 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 3 — English for Ethiopia Student's Book Grade 3 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 27:** English for Ethiopia, Grade 2 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 2 — English for Ethiopia Student's Book Grade 2 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Paragraph Development names the four modes — "expository, narrative, description, argument" — narrative standing as the story's mode among the kinds of writing | Ghana, NaCCA JHS curriculum, Paragraph Development (as filed) |
@@ -151,9 +161,14 @@ PASSED 2026-11-03).
 | Six two-page picture stories bound as their own section, each recycling one unit's language: "Nada's birthday", "In the toy shop", "At the zoo", "Ahmed and Nada's monster", "At the circus" and "Sami's rocket" | Iraq — English for Iraq, Grade 1 Pupil and Activity Book, Stories, printed pp.74–85 |
 | A story as Lesson 8 of every main unit, closing the unit: The toy maker, The big carrot, Goldilocks and the three bears (with printed story speech), Layla and the wolf, My week and The rabbit and the tortoise | Iraq — English for Iraq, Grade 2 Pupil and Activity Book, Unit 1, Lesson 8, printed pp.12–13, and Unit 3, Lesson 8, printed pp.32–33 |
 | Six stories with printed text at Grade 3 — speech bubbles, captions and, in the later stories, full past-tense narration: The Magic Pencil, The Clever Crow, Sami's Messy Room, Roland's Race, Ant and Grasshopper and The Shopping List | Iraq — English for Iraq, Grade 3 Pupil's Book, Unit 1, Lesson 8, printed pp.20–21; Unit 2, Lesson 8, printed pp.36–37; Unit 3, Lesson 8, printed pp.52–53; Unit 5, Lesson 8, printed pp.72–73; Unit 6, Lesson 8, printed pp.88–89; Unit 7, Lesson 8, printed pp.104–105 |
+| Narrative writing taught as a form: the narrative essay as a unit's writing work — the story-shaped essay, modelled on a Merkato review | Ethiopia, English for Ethiopia Grade 11 Student's Book, Unit 2, Writing, printed pp.33–63 |
+| The narrative essay again at the top of the school, practised through jumbled paragraphs — the story's happenings put back in their order | Ethiopia, English for Ethiopia Grade 12 Student's Book, Unit 3, Writing, printed pp.54–73 |
+| A story read as the vehicle of the past tenses: the "Spooky Story" — Susan Lee's ghost-hitchhiker tale, opening just before midnight on October 31st — carrying the simple past and past continuous work | Ethiopia, English for Ethiopia Grade 9 Student's Book, Unit 2, printed pp.47–48 |
+| A fable read whole in primary school: "The Running Race", the tortoise and the rabbit, in past-tense narration, with story vocabulary | Ethiopia, English for Ethiopia Grade 3 Student's Book, Unit 8, Reading, printed pp.104–111 |
+| A story read whole in primary school: "Birra and Bari", twin brothers of opposite manners, told in past-tense narration | Ethiopia, English for Ethiopia Grade 2 Student's Book, Unit 8, Reading, printed pp.107–121 ("Birra and Bari were twin brothers", printed p.118) |
 
-**Acceptance count: taught in 10 countries (Bangladesh,
-Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).** Ghana names the narrative mode; Bangladesh
+**Acceptance count: taught in 11 countries (Bangladesh,
+Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).** Ghana names the narrative mode; Bangladesh
 teaches stories from its earliest classes with the fables;
 Egypt reads whole stories through the secondary years;
 China names the story's three parts outright (setting,
@@ -188,5 +203,14 @@ as their own section at Grade 1, a story closing every
 main unit at Grade 2 (The toy maker, Goldilocks and the
 three bears, The rabbit and the tortoise among them),
 and six stories with printed text at Grade 3, the later
-ones in full past-tense narration. Other closed countries join as their books are read (see
+ones in full past-tense narration;
+Ethiopia stocks the story in part — narrative writing
+is taught as the narrative essay at Grades 11 and 12,
+and stories are read whole from primary school up
+(the Grade 3 fable "The Running Race", the Grade 2
+story "Birra and Bari", the Grade 9 "Spooky Story"
+carrying its past-tense work) — but no read Ethiopia
+book names the story's furniture (setting, characters,
+plot) as such, so that naming rests on the other
+countries. Other closed countries join as their books are read (see
 READING-QUEUE.md).

@@ -1,6 +1,6 @@
 # Sources — Finding the idea of a text
 
-countries: Bangladesh, Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
+countries: Bangladesh, Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
 
 Every part traces to its book and page.
 
@@ -109,6 +109,7 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 20:** English for Iraq, Grade 8, Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 8 — English for Iraq, 2nd Intermediate Activity Book (activity book / workbook) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 21:** English for Iraq, Grade 12, Student's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 12 — English for Iraq, 6th Preparatory Student's Book (Student's Book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 22:** English for Iraq, Grade 12, Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 12 — English for Iraq, 6th Preparatory Activity Book (Activity Book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 23:** English for Ethiopia, Grade 7 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 7 — English for Ethiopia, Student Textbook (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -141,9 +142,10 @@ CITATION CHECK PASSED 2026-11-03).
 | The idea hunt as gist work at the top of the school: the banker text "Meet a banker" read for gist and detail; three volunteers' accounts worked for note-taking and main-idea identification | Iraq, English for Iraq Grade 12, Student's Book, Unit 6, printed pp.54–61, and Unit 7, printed pp.64–71 |
 | The main idea hunt taught as exam technique, with a worked example: the military-jobs text's main-idea question answered step by step, with why each wrong option is wrong explained | Iraq, English for Iraq Grade 12, Activity Book, Unit 2, Lesson 5, printed pp.26–48 |
 | Main idea set against supporting details paragraph by paragraph on the banker text, true/false answers checked with the evidence underlined; the saving-and-investing text worked by matching paragraph headings ("Start early", "A safer investment") | Iraq, English for Iraq Grade 12, Activity Book, Unit 6, Lessons 3 and 10, printed pp.119–146 |
+| Finding the main idea and supporting details as the named writing work — the main idea NAMED, and set against its supporting details | Ethiopia, English for Ethiopia Grade 7 Student's Book, Unit 4, Writing, printed pp.45–58 |
 
-**Acceptance count: taught in 10 countries (Bangladesh,
-Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).** Ghana names the weighing (main idea vs supporting
+**Acceptance count: taught in 11 countries (Bangladesh,
+Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).** Ghana names the weighing (main idea vs supporting
 details) and the own-words law; Bangladesh sets the choice
 as a task; China hunts the idea by title-choice and by the
 one question a whole text answers, and names the
@@ -175,6 +177,10 @@ outright at Grade 12, teaches it as exam technique with
 a worked example that explains why each wrong option is
 wrong, sets main idea against supporting details
 paragraph by paragraph, and works paragraph topics and
-headings from Grade 8 up.
+headings from Grade 8 up;
+Ethiopia names the hunt outright — its Grade 7
+writing work is finding the main idea and supporting
+details, the main idea named in the student's book
+itself.
 Other closed countries join as their books are
 read (see READING-QUEUE.md).

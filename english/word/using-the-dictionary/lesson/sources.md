@@ -1,6 +1,6 @@
 # Sources — Using the dictionary
 
-countries: Bangladesh, India, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
+countries: Bangladesh, India, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
 
 Every part traces to its book and page.
 
@@ -82,6 +82,12 @@ english/books/jordan.md (Grade 6 Activity Book Semester 1 section, FULLY READ + 
 
 **Book 22:** English for Iraq, Grade 3, Pupil's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 3 — English for Iraq, 3rd Primary, Pupil's Book (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 23:** English for Ethiopia, Grade 3 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 3 — English for Ethiopia Student's Book Grade 3 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 24:** English for Ethiopia, Grade 11 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 11 — ENGLISH / STUDENT TEXTBOOK / GRADE 11 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 25:** English for Ethiopia, Grade 5 Teacher's Guide — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 5 — English for Ethiopia, Grade 5 Teacher's Guide (teacher's guide), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a dictionary gives — spelling, pronunciation, meaning, word class; examples printed in italics; synonyms and antonyms given; words made by prefixes and suffixes; a verb shown in its simple present tense with past form and past participle — taught on a reproduced dictionary page for 'fit' (fit → fitful, fitment, fitness, fitness centre, fitted, fitter, fitting, fixture) with sentence matching | Bangladesh, English for Today Class 8, Unit Four "Check Your Reference," Lesson 2 "Using a Dictionary," pp.36–38 |
@@ -110,9 +116,12 @@ english/books/jordan.md (Grade 6 Activity Book Semester 1 section, FULLY READ + 
 | Alphabetical order worked again a year up: numbering countries in alphabetical order, then missing letters, ordering eleven words and judging given orders | Iraq — English for Iraq, Grade 5 Activity Book, Unit 1, printed p.5; Unit 2, printed pp.20–35 |
 | A dictionary entry taken apart: a dictionary-style table — Word / Type of word / Meaning (population, price(s), height, number) — with diagrams to match and sentences to complete from the entries | Iraq — English for Iraq, Grade 6 Activity Book, Unit 5, printed pp.56–71 |
 | The books' own finding tools under the skills: a Picture Dictionary in every early book (Grade 1, printed pp.86–88; Grade 2, printed pp.72–75; Grade 3 Pupil's Book, printed pp.110–120), and an English–Arabic "Your Dictionary" wordlist by unit closing each primary Pupil's Book from Grade 4 (Grade 4, printed pp.110–120) | Iraq — English for Iraq, Grade 1 Pupil and Activity Book; Grade 2 Pupil and Activity Book; Grade 3 Pupil's Book; Grade 4 Pupil's Book (sections as listed) |
+| PARTIAL — a dictionary-use box inside the respect unit: looking up synonyms for "respect" in a dictionary — a use of the dictionary, not a dictionary-skills lesson | Ethiopia, Grade 3 Student's Book, Unit 9 "Respecting Each Other," printed pp.112–126 |
+| PARTIAL — dictionary meaning set against contextual meaning, as vocabulary work | Ethiopia, Grade 11 Student's Book, Unit 8 "Efficiency of Health Services," printed pp.204–224 |
+| PARTIAL — the back-of-book tool only: an IPA chart in the teacher's guide appendix headed "Phonetic symbols used in the dictionary" | Ethiopia, Grade 5 Teacher's Guide, Appendix 1: International Phonetic Symbols, printed p.227 |
 
-**Acceptance count: taught in 11 countries (Bangladesh, India,
-Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).** Bangladesh
+**Acceptance count: taught in 12 countries (Bangladesh, India,
+Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).** Bangladesh
 carries the full skill — order, guide
 words, the entry, many meanings; India carries the first
 form, a picture dictionary in every year's book; Mongolia
@@ -124,6 +133,6 @@ at the back of its Grade 4 book — glossary and index;
 Iran carries a whole senior lesson on choosing and using a
 dictionary, guide words among its seven tips; Sierra Leone
 carries the skill arriving in the last primary year and
-alphabetical order worked step by step in JSS2. Jordan carries the picture dictionary at the back of its early books, and the defined Wordlist — word classes marked, alphabetical within each unit — as the Activity Books' own finding tool; Greece carries a real dictionary-skills lesson in Grade 7 Beginners — alphabetical order, stress, looking up meanings — and per-unit glossaries for Grades 7 and 9, filed here as partial stock: the glossaries are unit-ordered finding tools, not a whole-book dictionary, with no guide words, no phonetic transcription and no A–Z index across the course, so a word can only be found if its unit and lesson are known; Kazakhstan is filed as partial stock on the same strict terms: it carries finding tools only — a trilingual picture dictionary at the back of its Grade 1 book and unit-ordered trilingual glossaries and a Dictionary with IPA at the back of its Grade 3 books — and no dictionary-skills lesson, no guide words and no alphabetical-order teaching anywhere in its set, so a word can only be found if its unit is known; Iraq is filed as full stock, not tools-only: it teaches the skills themselves — alphabet order as lessons in its Grade 4 and Grade 5 Activity Books, with partners ordering each other's words, and a dictionary entry taken apart as Word / Type of word / Meaning in Grade 6 — and carries the tools under them, a picture dictionary in every early book and an English–Arabic Your Dictionary by unit in each primary Pupil's Book from Grade 4; no guide words are taught anywhere in its set; Other
+alphabetical order worked step by step in JSS2. Jordan carries the picture dictionary at the back of its early books, and the defined Wordlist — word classes marked, alphabetical within each unit — as the Activity Books' own finding tool; Greece carries a real dictionary-skills lesson in Grade 7 Beginners — alphabetical order, stress, looking up meanings — and per-unit glossaries for Grades 7 and 9, filed here as partial stock: the glossaries are unit-ordered finding tools, not a whole-book dictionary, with no guide words, no phonetic transcription and no A–Z index across the course, so a word can only be found if its unit and lesson are known; Kazakhstan is filed as partial stock on the same strict terms: it carries finding tools only — a trilingual picture dictionary at the back of its Grade 1 book and unit-ordered trilingual glossaries and a Dictionary with IPA at the back of its Grade 3 books — and no dictionary-skills lesson, no guide words and no alphabetical-order teaching anywhere in its set, so a word can only be found if its unit is known; Iraq is filed as full stock, not tools-only: it teaches the skills themselves — alphabet order as lessons in its Grade 4 and Grade 5 Activity Books, with partners ordering each other's words, and a dictionary entry taken apart as Word / Type of word / Meaning in Grade 6 — and carries the tools under them, a picture dictionary in every early book and an English–Arabic Your Dictionary by unit in each primary Pupil's Book from Grade 4; no guide words are taught anywhere in its set; Ethiopia is filed as partial stock on the same strict terms: it carries back-of-book and in-unit tools only — a dictionary-use box for synonyms of "respect" in Grade 3, dictionary meaning against contextual meaning in Grade 11, and an IPA chart headed "Phonetic symbols used in the dictionary" in its Grade 5 Teacher's Guide (printed p.227) — and no dictionary-skills system anywhere in its set: no guide words, no alphabetical-order lessons and no entry anatomy; Other
 closed countries join as their books are read (see
 READING-QUEUE.md).

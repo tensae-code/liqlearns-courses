@@ -1,6 +1,6 @@
 # Sources — Numbers
 
-countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
+countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
 
 Every part traces to its book and page.
 
@@ -128,6 +128,10 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 
 **Book 31:** English for Iraq, Grade 4, Pupil's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 4 — English for Iraq 4th Primary Pupil's Book (pupil's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 32:** English for Ethiopia, Grade 1 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 1 — English for Ethiopia Student's Book Grade 1 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 33:** English for Ethiopia, Grade 2 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 2 — English for Ethiopia Student's Book Grade 2 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Count objects and match them with the correct number (4 leaves, 1 sun, 5 apples, 2 tulips, 3 pineapples); "How many pencils are there? There are (2–3) pencils" / "How many stars are there? There are (3–5) stars"; trace the numbers 1–5, each row headed by that many strawberries | Egypt, KG2 (I Love My Family unit's number work), pp.54–55 |
@@ -168,10 +172,12 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 | The climb past ten a year later: 11–15 counted in a shoe shop ("How many trainers/socks/shoes are there?"), then 16–20 | Iraq — English for Iraq, Grade 2 Pupil and Activity Book, Unit 5, printed pp.38–47 |
 | Tens to 100 in Grade 3: numbers to 20 with the tens to 100, a height chart to 100 ("How tall is the rabbit? — It's 38 cm."), and tens traced and counted in the Activity Book | Iraq — English for Iraq, Grade 3 Pupil's Book, Unit 6, printed pp.74–89 |
 | The climb to thousands in Grade 4: the "Big Numbers" rhyme teaches 100–1000 ("We say one thousand"), numbers extend to 1000, 2000, 3000 with Waterfall Shop prices to 3000 IQD, and ordinals first (1st) to fourth (4th) taught in "Numbers in order" for race results | Iraq — English for Iraq, Grade 4 Pupil's Book, Unit 2, printed pp.22–37 ("We say one thousand," printed p.27); Unit 3, printed pp.38–53; Unit 5, printed pp.58–73 |
+| Numbers 0–12 with a counting song, inside the times-of-the-day unit | Ethiopia, Grade 1 Student's Book, Unit 2 "Times of The Day," printed pp.27–42 |
+| Cardinal numbers with the ordinals first–seventh, inside the days-of-the-week unit | Ethiopia, Grade 2 Student's Book, Unit 2 "Days of the Week," printed pp.29–42 |
 
-**Acceptance count: taught in 13 countries (Egypt, India,
+**Acceptance count: taught in 14 countries (Egypt, India,
 Palestine, Laos, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).** Palestine carries the youngest path (numbers
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).** Palestine carries the youngest path (numbers
 inside the word units, traced); Egypt carries the counting
 question and the climb (1–5, 11–20, by tens to 100); India
 carries the same 1–20 in its first book; China carries the
@@ -182,7 +188,7 @@ picture characters over counted sets; Indonesia carries
 Iran carries 1–10 checked at the door, 1–31, then 1–100, and
 the senior climb to one billion with teen against ten;
 Sierra Leone carries counting in words from the first term,
-labelled counted objects, and printed tables to 50. Jordan carries the whole climb in its own order — 1–10, 11–20, 1–100, the ordinals first–thirty-first, and the big numbers to a million; Greece carries 1–10 as words on a caterpillar craft and counted food, the counting climb to 20 (its Grade 2 numbers stop there), the tens sung to ninety inside its Grade 4 "20 to 99" unit, and numbers as arithmetic-puzzle answers and whole big numbers in its Grade 7 Beginners workbook; Kazakhstan carries the first climb in two steps — 1–5, then 6–10 with How old are you? — in Grade 1 Smiles, numbers to 50 practised through birthday sums in its Grade 2 Activity Book, and the full climb to 100 in one Grade 3 Express book; Iraq carries the whole primary climb in its own order — 1–10 counted on balloons in Grade 1, 11–20 in a shoe shop in Grade 2, the tens to 100 in Grade 3, and 100–1000 then 3000 with ordinals 1st–4th in Grade 4; Other
+labelled counted objects, and printed tables to 50. Jordan carries the whole climb in its own order — 1–10, 11–20, 1–100, the ordinals first–thirty-first, and the big numbers to a million; Greece carries 1–10 as words on a caterpillar craft and counted food, the counting climb to 20 (its Grade 2 numbers stop there), the tens sung to ninety inside its Grade 4 "20 to 99" unit, and numbers as arithmetic-puzzle answers and whole big numbers in its Grade 7 Beginners workbook; Kazakhstan carries the first climb in two steps — 1–5, then 6–10 with How old are you? — in Grade 1 Smiles, numbers to 50 practised through birthday sums in its Grade 2 Activity Book, and the full climb to 100 in one Grade 3 Express book; Iraq carries the whole primary climb in its own order — 1–10 counted on balloons in Grade 1, 11–20 in a shoe shop in Grade 2, the tens to 100 in Grade 3, and 100–1000 then 3000 with ordinals 1st–4th in Grade 4; Ethiopia's numbers stock is small: it carries only numbers 0–12 with a counting song in Grade 1, and cardinal numbers with the ordinals first–seventh in Grade 2; Other
 finished
 countries join as their books are read (see READING-QUEUE.md).
 

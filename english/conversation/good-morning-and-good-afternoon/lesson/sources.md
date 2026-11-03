@@ -1,6 +1,6 @@
 # Sources for this lesson — Good morning and good afternoon
 
-countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq
+countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -23,8 +23,10 @@ explains one thing only.
 | Time-of-day greetings walked through one whole day in story cards: good-morning exchanges at the family breakfast and from the teacher, hello to mum at home, and good-night exchanges at bedtime; one worksheet matches the traced greetings "Good night / Goodbye / Good morning" to their scenes (this book is a printed workpack, so its rows cite PDF pages; Greece's filed books teach the morning greeting only — no "Good afternoon" greeting appears anywhere in the Greece read: the phrase does not occur in english/books/greece.md at all, and "afternoon" appears there only as a time-of-day word, in the same pack's day-parts matching, Cycle Γ, Γ02) | Greece, Grade 2 Beta English Workpack, Cycle Δ, Δ01 "Mary's day: greetings through the day," PDF pp.118–124 ("Good night, stars!" speech bubble, PDF p.123) |
 | "Good morning" as a word of the world: the greeting in ten languages, as an appendix activity | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, "It's Your Choice!" appendix activities, printed pp.133–152 |
 | "Good morning" and a short classroom conversation (Track 31) in the school unit's teacher's notes (Iraq's filed books teach the morning greeting only: no "Good afternoon" greeting is printed anywhere in the Iraq read — the phrase "Good afternoon" does not occur in english/books/iraq.md at all, and "afternoon" appears there only as a time-of-day word, in Grade 3, not as a greeting) | Iraq — English for Iraq, Grade 1 Teacher's Book, Unit 2 notes, printed pp.70–91 |
+| The "Good morning" song and a teacher–class greeting exchange in the first unit | Ethiopia — English for Ethiopia, Grade 1 Student's Book, Unit 1, printed pp.1–26 |
+| Times of the day with their matching greetings — morning / afternoon / evening / night taught with the greetings that go with them (the filing describes this unit's work as times of day with matching greetings; the words "Good afternoon" themselves are not quoted in the Ethiopia filing, so this row is worded from the filing as filed) | Ethiopia — English for Ethiopia, Grade 1 Student's Book, Unit 2 "Times of The Day", printed pp.27–42 |
 
-**Acceptance count: taught in 10 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq).**
+**Acceptance count: taught in 11 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia).**
 China teaches the pair inside its colours unit in the first
 primary book; Mongolia stocks the day-part ground the greeting
 stands on — one boy's whole day told in clock pictures — from a
@@ -46,6 +48,13 @@ Iraq joined 2026-11-03 carrying the morning half only
 too — "Good morning" with a classroom conversation in
 its Grade 1 Teacher's Book (Track 31); no afternoon
 greeting is printed in its filed books either.
+Ethiopia joined 2026-11-03 with the morning greeting
+named — a "Good morning" song and greeting exchange in
+Grade 1 Unit 1 — and with times of day taught with
+their matching greetings in Unit 2; the Ethiopia filing
+does not quote the words "Good afternoon" themselves,
+so its stock is worded as morning named plus
+times-of-day greetings.
 Counts grow as other closed countries' first books are read.
 
 **China added 2026-10-29** — **Book:** *Compulsory Education
@@ -181,3 +190,23 @@ this lesson's greeting, and it is recorded here only to
 show the search was made). Iraq is therefore counted
 for the morning half of this lesson, exactly as Jordan
 and Greece are above.
+
+**Ethiopia added 2026-11-03** — one book stocks this
+lesson: **Book:** *English for Ethiopia, Grade 1
+Student's Book* — Ethiopia, Federal Democratic Republic
+of Ethiopia, Ministry of Education. Filed in
+english/books/ethiopia.md (Grade 1 — English for
+Ethiopia Student's Book Grade 1 (student's book)
+section, FULLY READ + CITATION CHECK PASSED
+2026-11-03). Ethiopia's Grade 1 Unit 1 (printed
+pp.1–26) carries a "Good morning" song and a
+teacher–class greeting exchange. Unit 2, "Times of The
+Day" (printed pp.27–42), teaches morning, afternoon,
+evening and night with the matching greetings — the
+filing's own wording for the unit. Recorded with its
+limit: the words "Good afternoon" are not quoted
+anywhere in the Ethiopia filing (a search of
+english/books/ethiopia.md finds no occurrence of the
+phrase), so Ethiopia is stocked here as the morning
+greeting named plus times-of-day greetings work, not
+as a quoted afternoon greeting.

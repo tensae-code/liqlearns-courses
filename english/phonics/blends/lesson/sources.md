@@ -1,6 +1,6 @@
 # Sources for this lesson — Blends
 
-countries: Egypt, China, Iran, Jordan, Kazakhstan, Iraq
+countries: Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -32,8 +32,9 @@ pictures).
 | Initial consonant-cluster blending — **gr–, br–, bl–, wh–** — in the Grade 1 teacher's notes | Iraq — English for Iraq, Grade 1 Teacher's Book, Unit 6, printed pp.148–167 |
 | Initial blends circled from sound — **bl/cl/fl/pl/sl, br/tr/fr, sp/st/sk/sn/sc** — and blend jigsaws (pl+ant/ane, br+ush/ead) in the workbook's phonics strand | Iraq — English for Iraq, Grade 3 Activity Book, Unit 6, printed pp.84–99; Unit 7, printed pp.100–115 |
 | Initial blends on two phonics pages — **bl, fl, pl, sl** (black, plane, sleep, flag, flower, plant), then **cl, cr, pl, st, sl, gr, sw** | Iraq — English for Iraq, Grade 4 Activity Book, Unit 1, printed pp.4–19 |
+| Initial clusters **br- / cl-** blended and segmented in a Word Parts lesson | Ethiopia — English for Ethiopia, Grade 4 Student's Book, Unit 1 "Word Parts", printed p.8 |
 
-**Acceptance count: taught in 6 countries (Egypt, China, Iran, Jordan, Kazakhstan, Iraq).**
+**Acceptance count: taught in 7 countries (Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia).**
 China joins with blends taught two at a time on Let's spell
 pages in Grade 5 (cl/pl, gr/br) and sorted again in the
 end-of-primary grouping review (Grade 6 Volume 2). Iran joins
@@ -52,6 +53,9 @@ in its Grade 1 Teacher's Book (gr–, br–, bl–, wh–), the
 full initial-blend sets circled from sound in its Grade 3
 Activity Book, and two initial-blend phonics pages in its
 Grade 4 Activity Book.
+Ethiopia joins with initial-cluster blending and
+segmenting — br- and cl- worked in its Grade 4 Student's
+Book's Unit 1 "Word Parts" lesson (printed p.8).
 Counts grow as other closed countries' books are read.
 
 ### Egypt — Primary 3 Term 1 (read 2026-10-25) — three-letter blends
@@ -203,3 +207,16 @@ in Unit 7 (printed pp.100–115) — and are re-taught in
 Grade 4 on two phonics pages of its Activity Book's
 first unit (bl, fl, pl, sl, then cl, cr, pl, st, sl,
 gr, sw; Unit 1, printed pp.4–19).
+
+**Ethiopia added 2026-11-03** — one book stocks this
+lesson: **Book:** *English for Ethiopia, Grade 4
+Student's Book* — Ethiopia, Federal Democratic Republic
+of Ethiopia, Ministry of Education. Filed in
+english/books/ethiopia.md (Grade 4 — English for Ethiopia,
+Grade 4 Student's Book (student's book) section, FULLY
+READ + CITATION CHECK PASSED 2026-11-03). Ethiopia's
+blends are a single Word Parts lesson: Unit 1's
+vocabulary strand (printed p.8) blends and segments the
+initial clusters br- and cl-. The country file records
+the limit: no phonics programme beyond this Unit 1
+word-parts lesson is filed for the Grade 4 book.

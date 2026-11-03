@@ -1,6 +1,6 @@
 # Sources — Asking yes/no questions
 
-countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
+countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
 
 Every part traces to its book and page.
 
@@ -95,6 +95,10 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 20:** Kazakhstan English Plus, Grade 5: Student's Book (student book) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 5 — English Plus Grade 5 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 21:** Kazakhstan English Plus, Grade 6: Student's Book (student book) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 6 — English Plus Grade 6 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 22:** English for Ethiopia, Grade 9 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 9 — English for Ethiopia, Student Textbook (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 23:** English for Ethiopia, Grade 11 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 11 — ENGLISH / STUDENT TEXTBOOK / GRADE 11 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The SIMPLE PRESENT frame in three shapes — affirmative Subject + Verb + Complement, negative with do/does not — and the DO–DOES interrogative box standing beside them as the question shape | Bolivia compendium, the Daily activities text (T8, compendium p.178) |
@@ -136,10 +140,12 @@ CITATION CHECK PASSED 2026-11-03).
 | The first yes/no question as a guessing exchange — "Is it a pen? — No. — Is it a pencil? — Yes." — the identification question with its plain Yes / No answers | Iraq — English for Iraq, Grade 1 Pupil and Activity Book, Unit 2, printed pp.16–25 ("Is it a pencil?", printed p.22) |
 | The do-type yes/no question as the unit's central new form — "Do you wash? — Yes, I do.; Do you eat healthy food? — No, I don't." — worked over health actions in a TV-interview dialogue set | Iraq — English for Iraq, Grade 3 Pupil's Book, Unit 5, printed pp.58–73 |
 | Question formation split by verb type as a stated contrast: *be*-questions invert, other verbs take the "helping verb" Do/Does — the "Remember" box inside the materials unit, turning statements into questions | Iraq — English for Iraq, Grade 6 Pupil's Book, Unit 2, printed pp.22–37 |
+| Question types named outright in the grammar — wh-questions, YES/NO questions, and questions beginning with an auxiliary or modal — beside tag questions and the present tenses | Ethiopia, Grade 9 Student's Book, Unit 1 "Living in Urban Areas," Grammar, printed pp.11–25 |
+| Question forms tabled as grammar — wh- and yes/no questions — beside the modal auxiliary verbs and tag questions in depth | Ethiopia, Grade 11 Student's Book, Unit 7 "Patriotism," printed pp.165–203 |
 
-**Acceptance count: taught in 12 countries (Bangladesh,
+**Acceptance count: taught in 13 countries (Bangladesh,
 Bolivia, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).** Bolivia boxes the do/does engine;
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).** Bolivia boxes the do/does engine;
 Mongolia works the be-swap on its doing-now questions;
 Bangladesh teaches the voice the question rides on; China
 adds the full shelf of shapes across its primary run — be,
@@ -152,7 +158,7 @@ voice; Sierra Leone makes the question by the be-swap,
 states the rising-voice rule, and forms and answers
 simple-present questions as a system; Jordan
 asks do, does, be, have-got and can yes/no questions
-with their short answers across Grades 2–3. Greece asks is there…? / are there…? and does it…? with their short answers at Grade 4, and tables the present and past question forms inside its Grade 5 systems. Kazakhstan asks be questions with short answers at Grade 3, carries the present simple into questions and short answers there, and names Present Simple and Present Continuous questions as language-focus points in its Grade 5–6 English Plus books. Iraq asks Is it a …? with plain Yes / No answers in Grade 1, teaches Do you …? — Yes, I do. / No, I don't. as the central new question form of its Grade 3 health unit, and splits question formation by verb type in Grade 6 — *be* inverts, other verbs take Do/Does. Other
+with their short answers across Grades 2–3. Greece asks is there…? / are there…? and does it…? with their short answers at Grade 4, and tables the present and past question forms inside its Grade 5 systems. Kazakhstan asks be questions with short answers at Grade 3, carries the present simple into questions and short answers there, and names Present Simple and Present Continuous questions as language-focus points in its Grade 5–6 English Plus books. Iraq asks Is it a …? with plain Yes / No answers in Grade 1, teaches Do you …? — Yes, I do. / No, I don't. as the central new question form of its Grade 3 health unit, and splits question formation by verb type in Grade 6 — *be* inverts, other verbs take Do/Does. Ethiopia names the question types outright in Grade 9 — wh-questions, yes/no questions, and questions beginning with an auxiliary or modal — and tables question forms (wh- and yes/no) again in Grade 11. Other
 closed countries join as their books are read (see
 READING-QUEUE.md).
 

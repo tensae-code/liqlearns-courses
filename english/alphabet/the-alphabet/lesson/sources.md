@@ -1,6 +1,6 @@
 # Sources — The alphabet
 
-countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
+countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
 
 Every part traces to its book and page. The PDF of Libya's Pupils Book
 is one book page per PDF page, with the book page printed at the
@@ -92,6 +92,10 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 13:** Kazakhstan English for Kazakhstan, Grade 3: pupil's book (student book) — Kazakhstan, Macmillan Education. Filed in english/books/kazakhstan.md (Grade 3 — English for Kazakhstan Grade 3 Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 **Book 14:** English for Iraq, Grade 1, Pupil and Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 1 — English for Iraq, 1st Primary, Pupil and Activity Book (combined pupil + activity book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 15:** English for Ethiopia, Grade 1 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 1 — English for Ethiopia Student's Book Grade 1 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 16:** English for Ethiopia, Grade 1 Teacher's Guide — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 1 — English for Ethiopia Teacher's Guide Grade 1 (teacher's guide), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -283,8 +287,11 @@ sound is learned.
 | The whole alphabet shown whole first — a two-page alphabet picture spread, one picture word for every letter a–z, before Unit 1 begins | Iraq — English for Iraq, Grade 1 Pupil and Activity Book, printed pp.4–5 |
 | The letters taught in groups across Units 1–4, each with its example words and letter tracing on every page — a–f (ant, apple; ball, bus, bird; car, cat, cake; dog, duck; egg, elephant; flower, fish) · g–l · m–t · u–z completing the alphabet in the revision unit | Iraq — English for Iraq, Grade 1 Pupil and Activity Book, Unit 1, printed pp.6–15; Unit 2, printed pp.16–25; Unit 3, printed pp.26–35; Unit 4, printed pp.36–39 |
 | The alphabet as a picture dictionary at the back — the book's alphabet words a–z as picture–word pairs, ending with a Colours page | Iraq — English for Iraq, Grade 1 Pupil and Activity Book, Picture dictionary, printed pp.86–88 |
+| The alphabet as the first year's real work — small and capital alphabet charts (listen-and-repeat) and two alphabet songs, with letter-by-letter teaching in Unit 1: letters Aa Bb Ff Mm Ss through Brother/Father/Mother/Sister, and the sounds /a/ /b/ /m/ /f/ /s/ with picture words (apple, ant, axe; bag, book, bat; fish, fox, foot; moon, mouse, match; sandal, sun, snake) | Ethiopia — English for Ethiopia, Grade 1 Student's Book, Unit 1, printed pp.1–26 |
+| The remaining letters completed in the last unit — e, i, j, k, n, q, u, v, x, z with elephant, iron, jet, kangaroo, nose, queen, umbrella, village, xylophone, zebra | Ethiopia — English for Ethiopia, Grade 1 Student's Book, Unit 8, printed pp.109–132 |
+| The alphabet teaching planned lesson by lesson — small then capital letters, the sounds /a/ /b/ /m/ /f/ /s/, in the guide's Unit 1 | Ethiopia — English for Ethiopia, Grade 1 Teacher's Guide, Unit 1, printed pp.5–46 |
 
-**Acceptance count: taught in 11 countries (Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).**
+**Acceptance count: taught in 12 countries (Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).**
 China joins through its Grade 3 Volume 1: the ABC song is placed
 before any letter teaching (Unit 1, p.6), and Recycle 2 adds a
 missing-letter sequence exercise (p.69) — the alphabet as a sung
@@ -311,7 +318,7 @@ Egypt joins for the sounds-way grouping. Greece joined
 2026-11-03: its Grade 2 Workpack carries the whole alphabet
 as a card-and-tracing-worksheet strand — all 26 letters, one
 key word and a rhyme per letter, in thematic order, with a
-song for every letter. Kazakhstan joined 2026-11-03: three of its Grade 3 books teach the alphabet — the Express book in three letter groups (a–h, i–q, r–z) with an Alphabet poster at the back, Top Stars in its opening Alphabet lesson, and the Macmillan book on a "Learn the alphabet" page with the alphabet song; its Grade 1 Smiles book teaches no alphabet at all, and that limit is recorded in the country file. Iraq joined 2026-11-03: its Grade 1 Pupil and Activity Book shows the whole alphabet first in a picture spread (printed pp.4–5), teaches the letters in groups across Units 1–4 with example words and tracing, and closes the pupil half with the alphabet as a picture dictionary (printed pp.86–88). Other closed countries join
+song for every letter. Kazakhstan joined 2026-11-03: three of its Grade 3 books teach the alphabet — the Express book in three letter groups (a–h, i–q, r–z) with an Alphabet poster at the back, Top Stars in its opening Alphabet lesson, and the Macmillan book on a "Learn the alphabet" page with the alphabet song; its Grade 1 Smiles book teaches no alphabet at all, and that limit is recorded in the country file. Iraq joined 2026-11-03: its Grade 1 Pupil and Activity Book shows the whole alphabet first in a picture spread (printed pp.4–5), teaches the letters in groups across Units 1–4 with example words and tracing, and closes the pupil half with the alphabet as a picture dictionary (printed pp.86–88). Ethiopia joined 2026-11-03: its Grade 1 Student's Book is the alphabet book — small and capital alphabet charts and two alphabet songs with letter-by-letter teaching in Unit 1 (printed pp.1–26), the remaining letters completed in Unit 8 (printed pp.109–132), and its Grade 1 Teacher's Guide plans the same alphabet teaching in Unit 1 (printed pp.5–46). Other closed countries join
 as their first English books are read (see READING-QUEUE.md).
 
 **Laos Grade 3 added 2026-10-27** — *English for Primary Schools,
@@ -438,3 +445,24 @@ into words; that blending work is a different lesson and
 Greece does not stock it. The Grade 1 Alpha Workpack adds
 nothing for this lesson: its cards are wordless pictures,
 with no alphabet strand.
+
+**Ethiopia added 2026-11-03** — two books stock this lesson:
+**Book:** *English for Ethiopia, Grade 1 Student's Book* —
+Ethiopia, Federal Democratic Republic of Ethiopia, Ministry
+of Education. **Book:** *English for Ethiopia, Grade 1
+Teacher's Guide* — Ethiopia, Federal Democratic Republic of
+Ethiopia, Ministry of Education. Both filed in
+english/books/ethiopia.md (Grade 1 — English for Ethiopia
+Student's Book Grade 1 (student's book); Grade 1 — English
+for Ethiopia Teacher's Guide Grade 1 (teacher's guide)
+sections, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+Ethiopia's Grade 1 Student's Book is the alphabet book: Unit
+1 (printed pp.1–26) teaches the small and capital alphabets
+in listen-and-repeat charts with two alphabet songs, then
+letters Aa Bb Ff Mm Ss through Brother/Father/Mother/Sister
+and the sounds /a/ /b/ /m/ /f/ /s/ with picture words; the
+remaining letters (e, i, j, k, n, q, u, v, x, z) are
+completed in Unit 8 (printed pp.109–132) with elephant,
+iron, jet, kangaroo, nose, queen, umbrella, village,
+xylophone, zebra. The Grade 1 Teacher's Guide Unit 1
+(printed pp.5–46) plans the same teaching lesson by lesson.

@@ -1,6 +1,6 @@
 # Sources — Asking with question words
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
 
 Every part traces to its book and page.
 
@@ -86,6 +86,10 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 19:** Kazakhstan Top Stars for Kazakhstan, Grade 3: Student's Book (student book) — Kazakhstan, MM Publications. Filed in english/books/kazakhstan.md (Grade 3 — Top Stars for Kazakhstan Grade 3 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 20:** Kazakhstan Full Blast! for Kazakhstan, Grade 9: Student's Book (student book) — Kazakhstan, MM Publications. Filed in english/books/kazakhstan.md (Grade 9 — Full Blast! for Kazakhstan Grade 9 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 21:** English for Ethiopia, Grade 1 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 1 — English for Ethiopia Student's Book Grade 1 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 22:** English for Ethiopia, Grade 4 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 4 — English for Ethiopia, Grade 4 Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The question-words table — Who, What, Where, Why, When, How long, How many — each with an example question and the shape of its answer ("I am an engineer" / "In Boston" / "At 7:00" / "For a week" / "Ten") | Mongolia, English VI, Grammar Reference, Unit 10 question words (pp.118–127 span, as filed) |
@@ -119,10 +123,13 @@ CITATION CHECK PASSED 2026-11-03).
 | Question words taught whole at the top of the school — including preposition placement — with subject–object questions as the same lesson's second point | Kazakhstan, Full Blast! Grade 9, Module 2, printed pp.37–60 |
 | The wh- question words systematised as a set — who, what, when, where, how, why, with *why* glossed as "means because" — then worked in did-questions over a cinema email ("Where did he go? What did he see? Who did he go with?") | Iraq — English for Iraq, Grade 4 Pupil's Book, Unit 6, printed pp.74–89 |
 | Present and past simple question formation in depth — the "Asking about the present and the past" box in the lessons, systematised in the unit's Round up and in the Grammar and functions reference | Iraq — English for Iraq, Grade 9 Student's Book, Unit 2, printed pp.18–29 (Round up, printed p.27; reference, printed pp.111–119) |
+| A named lesson on Wh-question words — what, where, why, how, who, which, when — modelled in dialogue | Ethiopia, Grade 1 Student's Book, Unit 5 "Domestic Animals," printed pp.69–88 |
+| Who/what/how/why questions worked over the role-model dialogues ("Who is your role model? — My mother is my role model. — Why?") | Ethiopia, Grade 1 Student's Book, Unit 7 "My Role Model," printed pp.99–108 |
+| 'Wh…' questions as the grammar point of the soil unit (printed p.63), beside interrogative and negative sentences | Ethiopia, Grade 4 Student's Book, Unit 4 "Soil," printed pp.53–65 ('Wh…' questions, printed p.63) |
 
-**Acceptance count: taught in 12 countries (Bangladesh, Egypt,
+**Acceptance count: taught in 13 countries (Bangladesh, Egypt,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
-Jordan, Greece, Kazakhstan, Iraq).** Mongolia tables the family with its answer
+Jordan, Greece, Kazakhstan, Iraq, Ethiopia).** Mongolia tables the family with its answer
 shapes; Bangladesh gives the words their voice; Egypt has
 drilled the questions and whole answers since the youngest
 books; China adds the words worked as whole units — where,
@@ -134,7 +141,7 @@ do/does, with its falling voice; Sierra Leone frames
 occasion talk on the six words and names them as the
 question mark's signals; Jordan
 drills what/who/how-old in Grade 1, when and how much
-in Grade 3, and How…? questions in Grade 5. Greece works how many / how much as a taught pair and what are you doing? at Grade 4, gathers the Wh- family in its Grade 4 final self-assessment, and sets wh-questions as a lesson's grammar in its Grade 7 Beginners workbook. Kazakhstan names question words as a module point at Grade 5, lists who / where / when / what at Grade 3, and teaches the family whole — preposition placement and subject–object questions included — at Grade 9. Iraq systematises the wh- words as a set in its Grade 4 Pupil's Book — who, what, when, where, how, why — and returns to present and past simple question formation in depth in its Grade 9 Student's Book. Other closed countries join as their books are read
+in Grade 3, and How…? questions in Grade 5. Greece works how many / how much as a taught pair and what are you doing? at Grade 4, gathers the Wh- family in its Grade 4 final self-assessment, and sets wh-questions as a lesson's grammar in its Grade 7 Beginners workbook. Kazakhstan names question words as a module point at Grade 5, lists who / where / when / what at Grade 3, and teaches the family whole — preposition placement and subject–object questions included — at Grade 9. Iraq systematises the wh- words as a set in its Grade 4 Pupil's Book — who, what, when, where, how, why — and returns to present and past simple question formation in depth in its Grade 9 Student's Book. Ethiopia teaches the Wh-question words as a named lesson in Grade 1 — what, where, why, how, who, which, when — works who/what/how/why questions in its role-model unit, and returns to 'Wh…' questions in Grade 4 (printed p.63). Other closed countries join as their books are read
 (see READING-QUEUE.md).
 
 **Laos Grade 4 added 2026-10-27** — *English for Lao Primary

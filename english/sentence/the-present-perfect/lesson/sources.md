@@ -1,6 +1,6 @@
 # Sources — The present perfect
 
-countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
+countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
 
 Every part traces to its book and page.
 
@@ -82,6 +82,9 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 **Book 22:** English for Iraq, Grade 7, Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 7 — English for Iraq, 1st Intermediate Activity Book (activity book / workbook) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 23:** English for Iraq, Grade 8, Student's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 8 — English for Iraq, 2nd Intermediate Student's Book (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 24:** English for Iraq, Grade 12, Student's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 12 — English for Iraq, 6th Preparatory Student's Book (Student's Book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 25:** English for Ethiopia, Grade 5 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 5 — English for Ethiopia, Grade 5 Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 26:** English for Ethiopia, Grade 6 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 6 — English for Ethiopia, Grade 6 Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 27:** English for Ethiopia, Grade 9 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 9 — English for Ethiopia, Student Textbook (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -119,9 +122,12 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | ever / never for life experience in the workbook's *I've been to …* chain game and both/never partner table, with verb-form tables and the Granny's-box questions working the *been to / gone to* ground of the Student's Book's Unit 5 | Iraq, English for Iraq Grade 7, Activity Book, Unit 5, printed pp.66–83 |
 | Present perfect against past simple with *for/since* ("Talking about time"), carried by the café-owner interview "Meet a local personality" | Iraq, English for Iraq Grade 8, Student's Book, Unit 1, Lessons 3–4, printed pp.4–16 |
 | The perfect system rebuilt in the exam year: present perfect simple with ever/never/just/already/yet, How long with for/since, *been* and *gone*, present perfect against past simple, and the past perfect — the whole set tabulated again in the Grammar and Functions Reference | Iraq, English for Iraq Grade 12, Student's Book, Unit 5, printed pp.44–51; Grammar and Functions Reference, printed pp.79–84 |
+| The Present Perfect Simple Tense as the unit's grammar | Ethiopia, English for Ethiopia Grade 5 Student's Book, Unit 9, printed pp.227–237 (grammar, printed pp.227–237) |
+| The Present Perfect Tense in the animals unit's grammar, with comparison of adjectives and simple past revision | Ethiopia, English for Ethiopia Grade 6 Student's Book, Unit 4, contents p.99 (grammar, contents p.99) |
+| Present perfect taught in 8.4, then simple past and present perfect contrasted with since/for | Ethiopia, English for Ethiopia Grade 9 Student's Book, Unit 8 (8.4), printed pp.160–179, and Unit 9, printed pp.180–202 |
 
-**Acceptance count: taught in 10 countries (Egypt,
-Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).** Libya introduces the tense at Grade 8 with the
+**Acceptance count: taught in 11 countries (Egypt,
+Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).** Libya introduces the tense at Grade 8 with the
 song and the grammar box, guards the no-exact-time rule in
 its Teacher's Book, sets the ever/never/yet/already box at
 Grade 9, and states the whole entry again in its Grammar
@@ -143,7 +149,7 @@ twin at Grade 10 and contrasts the perfect forms whole
 at Grade 12. Greece meets the tense at Grade 5 as the past–present connector with ever / recently / yet / never, contrasts it with the past simple on a timeline there and again at Grades 6–7, and restates it with since/for at Grade 10 EPAL. Kazakhstan teaches the tense whole at Grade 6 — the full paradigm with for/since and the past-simple contrast in Excel, ever/never/just and been against gone in Full Blast! — and stages its questions with ever at Grade 7; no primary Kazakhstan book teaches it. Iraq introduces the tense at Grade 7 for recent completion ("just now, today, this week"), works ever/never and been to in the Grade 7 Activity Book, sets the tense against the past simple with for/since at Grade 8, and rebuilds the whole perfect system at Grade 12. Indonesia was checked
 for this tense on 2026-11-03 and never teaches it (its
 books' own honest negatives say so at Grades 6 and 9).
-Other closed countries join as their
+Ethiopia teaches the Present Perfect Simple in Grade 5, the Present Perfect Tense in Grade 6, and in Grade 9 teaches it in Unit 8 and contrasts simple past with present perfect, with since/for, in Unit 9. Other closed countries join as their
 books are read (see READING-QUEUE.md).
 
 **Laos Grade 8 added 2026-10-27** — *English for Secondary

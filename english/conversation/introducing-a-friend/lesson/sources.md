@@ -1,6 +1,6 @@
 # Sources for this lesson — Introducing a friend
 
-countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq
+countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -32,12 +32,15 @@ disk 2026-10-25: %PDF, 190 pp).
 | Meeting people as a named speaking slot — greetings and introductions — in the first unit, "Our class" | Kazakhstan, English Plus Grade 6 Student's Book, Unit 1, printed pp.8–19 ("Meeting people," printed p.14) |
 | Presenting the family in the teacher's notes — "This is my (dad) …" as a receptive frame of the first year, and Hani's family presented person by person on the family poster (Tracks 88–90) (Iraq's filed books print no "This is my friend …" frame — its introduction work is this family presenting, recorded as printed) | Iraq — English for Iraq, Grade 1 Teacher's Book, Unit 7 notes, printed pp.168–185 |
 | Identifying the family person by person a year up: "Who is this? — It's her grandpa. / It's my/her/his …" over the birthday-party family set | Iraq — English for Iraq, Grade 2 Pupil and Activity Book, Unit 6, Lesson 1, printed pp.48–57 |
+| Talking about oneself and others: "Let me introduce …", "He is my father / She is my mother", "My father's name is …" | Ethiopia — English for Ethiopia, Grade 1 Student's Book, Unit 3 "Colours," printed pp.43–52 |
+| Self- and family-introduction models at the end of Grade 1, among the greetings and parting dialogues | Ethiopia — English for Ethiopia, Grade 1 Student's Book, Unit 8 "Caring for Body Parts," printed pp.109–132 |
+| Introduction formulas modelled for the teacher at the start of Grade 5: "Let me introduce myself. My name's …", with the alternative introduction formulas written on the board | Ethiopia — English for Ethiopia, Grade 5 Teacher's Guide, Unit One "Holidays," printed p.2 |
 
 The same dialog also carries the age exchange and the toy-fish
 talk — those parts are filed in their own places (age: english/age/
 how-old-are-you), not here.
 
-**Acceptance count: taught in 10 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq).**
+**Acceptance count: taught in 11 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).**
 Egypt carries introducing the family — "This is my father /
 mother / sister …" with the "Who's this?" exchange, and a year
 deeper the whole family lineup with my / his / her on family
@@ -72,6 +75,12 @@ presents the family with "This is my (dad) …" and its
 Grade 2 book identifies the family person by person
 with "Who is this? — It's …"; no "This is my friend …"
 frame is printed in its filed read, and none is claimed.
+Ethiopia joined 2026-11-03: its Grade 1 book teaches
+"Let me introduce …" with "He is my father / She is my
+mother" and "My father's name is …" in Unit 3, and closes
+the year with self- and family-introduction models in
+Unit 8; its Grade 5 Teacher's Guide models "Let me
+introduce myself. My name's …" for the teacher.
 Counts grow as other closed countries' books are read.
 (Count corrected 2026-10-29 to match this file's own sections —
 the Egypt sections below were already in the file but missing
@@ -294,3 +303,24 @@ introduction (Unit 5, Lesson 7: "My name's Sami. I have
 a sister. Her name is Safa.") is a self-introduction
 with the family named, and is filed in the name
 lessons, not claimed here as introducing a friend.
+
+**Ethiopia added 2026-11-03** — two books stock this lesson:
+**Book:** *English for Ethiopia*, Grade 1 Student's Book —
+Ethiopia, Federal Democratic Republic of Ethiopia, Ministry
+of Education. **Book:** *English for Ethiopia*, Grade 5
+Teacher's Guide — Ethiopia, Federal Democratic Republic of
+Ethiopia, Ministry of Education. Both filed in
+english/books/ethiopia.md (Grade 1 — English for Ethiopia
+Student's Book Grade 1 (student's book); Grade 5 — English
+for Ethiopia, Grade 5 Teacher's Guide (teacher's guide)
+sections, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+Grade 1, Unit 3, "Colours" (printed pp.43–52), teaches
+talking about oneself and others with "Let me introduce …",
+"He is my father / She is my mother" and "My father's name
+is …"; Unit 8 (printed pp.109–132) closes the year with
+self- and family-introduction models among its greetings
+and parting dialogues. The Grade 5 Teacher's Guide opens
+its Unit One notes (printed p.2) by modelling the
+introduction for the teacher: "Let me introduce myself.
+My name's …", with the alternative introduction formulas
+written on the board.

@@ -1,6 +1,6 @@
 # Sources — Capital letter and full stop
 
-countries: Bangladesh, Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq
+countries: Bangladesh, Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia
 
 Every part traces to its book and page.
 
@@ -56,6 +56,12 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 15:** English for Iraq, Grade 3, Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 3 — English for Iraq, 3rd Primary, Activity Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 16:** English for Iraq, Grade 4, Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 4 — English for Iraq 4th Primary Activity Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 17:** English for Ethiopia, Grade 3 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 3 — English for Ethiopia Student's Book Grade 3 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 18:** English for Ethiopia, Grade 4 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 4 — English for Ethiopia, Grade 4 Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 19:** English for Ethiopia, Grade 7 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 7 — English for Ethiopia, Student Textbook (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Capitalisation as its own strand: "capitals for particular places and DAYS OF THE WEEK, and to begin the first word of a sentence"; PUNCTUATION OPENS (B2.5.2.1): "FULL STOPS at the end of sentences and QUESTION MARKS at the end of questions" | Ghana, NaCCA B1–B3 curriculum, Basic 2, Strand 5 (Capitalisation / Punctuation) |
@@ -78,9 +84,12 @@ CITATION CHECK PASSED 2026-11-03).
 | Capital letters A–Z in the pupil book's own Activities: formation strips, upper↔lower matching and copying the characters' names | Iraq — English for Iraq, Grade 1 Pupil and Activity Book, Activities, Unit 6, printed pp.136–141 |
 | Capitals A–Z traced and written, then sentences handled whole — "Write the sentences with spaces" and sentence unscrambling — with capitalisation correction later in the book (wednesday, engLish, School, pe, MonDay rewritten with correct case) | Iraq — English for Iraq, Grade 3 Activity Book, Unit 2, printed pp.26–47 (sentences with spaces, printed p.39) and Unit 6, printed pp.84–99 |
 | Sentence punctuation stated as a matching rule on the punctuation page — capital letters / full stop / question mark — "A capital letter starts a sentence. A full stop ends a sentence," beside a capital-letters lesson for names, countries and languages | Iraq — English for Iraq, Grade 4 Activity Book, Unit 6, printed pp.72–87 and Unit 2, printed p.21 |
+| Capital letters with their rules listed, and full stop set against question mark, as the grammar of the school unit | Ethiopia, Grade 3 Student's Book, Unit 1 "My School," printed pp.1–20 |
+| A whole writing lesson named for the pair — "Punctuation Marks and Capital Letters" rewriting (printed p.80) | Ethiopia, Grade 4 Student's Book, Unit 5 "Vegetables," printed pp.66–82 (writing, printed p.80) |
+| Capitalisation revisited on the punctuation ladder inside Writing — the ladder runs comma, colon, capitalisation, hyphen, exclamation mark and on, with capital letters revised again in Unit 9 | Ethiopia, Grade 7 Student's Book, Unit 3 "Road Safety," printed pp.30–44; Unit 9, printed pp.120–133 |
 
-**Acceptance count: taught in 8 countries (Bangladesh,
-Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq).** Ghana states the rules as curriculum strands;
+**Acceptance count: taught in 9 countries (Bangladesh,
+Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia).** Ghana states the rules as curriculum strands;
 Bangladesh boxes the capital rule, prints a text wearing it
 in red, and drills the stop/question-mark pair in its first
 punctuation exercises; Indonesia names the marks and
@@ -98,5 +107,5 @@ Grades 7 and 9 — the pair is genuinely taught as a
 point, but the Kazakhstan filing does not break the
 punctuation down mark by mark, so no first-word-capital
 or full-stop-at-the-end rule is claimed for it beyond
-the naming. Iraq teaches the pair outright from the first year: its Grade 1 Teacher's Book introduces capitals in Unit 6 as beginning names and sentences and explains the sentence as starting with a capital and ending with a full stop, the Grade 1 Activities form the capitals, the Grade 3 Activity Book copies and corrects capitalised sentences, and the Grade 4 Activity Book states the rule — a capital letter starts a sentence, a full stop ends a sentence. Other closed countries join as
+the naming. Iraq teaches the pair outright from the first year: its Grade 1 Teacher's Book introduces capitals in Unit 6 as beginning names and sentences and explains the sentence as starting with a capital and ending with a full stop, the Grade 1 Activities form the capitals, the Grade 3 Activity Book copies and corrects capitalised sentences, and the Grade 4 Activity Book states the rule — a capital letter starts a sentence, a full stop ends a sentence. Ethiopia lists the capital-letter rules and sets full stop against question mark in Grade 3, gives a whole writing lesson to "Punctuation Marks and Capital Letters" in Grade 4 (printed p.80), and revisits capitalisation on Grade 7's punctuation ladder. Other closed countries join as
 their books are read (see READING-QUEUE.md).

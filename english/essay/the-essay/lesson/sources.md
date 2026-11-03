@@ -1,6 +1,6 @@
 # Sources — The essay
 
-countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
+countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
 
 Every part traces to its book and page.
 
@@ -124,6 +124,14 @@ Ministry of Education. Filed in english/books/iraq.md
 Book (Activity Book) section, FULLY READ + CITATION CHECK
 PASSED 2026-11-03).
 
+**Book 22:** English for Ethiopia, Grade 11 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 11 — ENGLISH / STUDENT TEXTBOOK / GRADE 11 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 23:** English for Ethiopia, Grade 10 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 10 — ENGLISH FOR ETHIOPIA / STUDENT TEXTBOOK / GRADE 10 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 24:** English for Ethiopia, Grade 9 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 9 — English for Ethiopia, Student Textbook (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 25:** English for Ethiopia, Grade 12 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 12 — ENGLISH STUDENT TEXTBOOK GRADE 12 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The essay's definition — "an essay is a piece of writing that usually has five or more paragraphs, about one topic with several main points" — and the GENERAL ESSAY STRUCTURE table: Introduction ("it tells what your topic and main ideas are"); Topic 1/2/3 ("state your points/arguments, explore both sides of debate in a better answer"); Conclusion ("the same information as the introductory paragraph, written from a different perspective") | Bolivia compendium, the essay-structure grammar/writing section (as filed) |
@@ -158,8 +166,15 @@ PASSED 2026-11-03).
 | The opinion essay analysed by its body: "Books and the Internet" — four body paragraphs analysed for how opinion essays argue, their linkers underlined | Iraq — English for Iraq, Grade 12 Student's Book, Unit 7, printed pp.64–71 |
 | Brainstorming taught itself as the exam essay technique, connectors sorted into adding and contrasting, and a 100–120-word essay written from the notes | Iraq — English for Iraq, Grade 12 Activity Book, Unit 5, Lesson 8, printed pp.107–108 |
 | The opinion essay built in stages: printed advantages lists for both sides, an introduction stating the opinion and the plan, a body drawn from the lists, a conclusion, and a final self-check on links | Iraq — English for Iraq, Grade 12 Activity Book, Unit 7, Lesson 8, printed p.163 |
+| Essay structure taught by name — thesis statement and topic sentences — inside the writing work that then sets the argumentative essay, with a model essay (single-sex vs mixed schools) | Ethiopia, English for Ethiopia Grade 11 Student's Book, Unit 5, Writing, printed pp.116–140 |
+| The narrative essay as a unit's writing — the essay that tells, modelled on a TripAdvisor review of Addis Ababa's Merkato, "The Striving Jungle of Africa" | Ethiopia, English for Ethiopia Grade 11 Student's Book, Unit 2, Writing, printed pp.33–63 |
+| The argumentative essay as a named writing lesson (7.6.1), with the Awramba community as its model subject | Ethiopia, English for Ethiopia Grade 10 Student's Book, Unit 7, Writing (7.6.1), printed p.211 |
+| An essay built from a diagram — an essay about the uses of the internet, with the sample essay "Importance of the Internet" printed as its model | Ethiopia, English for Ethiopia Grade 9 Student's Book, Unit 10, Writing, Activity 10.16, printed p.220 |
+| An opinion essay as the same unit's closing writing work (Activity 10.18) | Ethiopia, English for Ethiopia Grade 9 Student's Book, Unit 10, Writing, Activity 10.18, printed pp.203–223 |
+| The narrative essay as the writing work, practised through jumbled paragraphs — the essay's paragraphs put back in their order | Ethiopia, English for Ethiopia Grade 12 Student's Book, Unit 3, Writing, printed pp.54–73 |
+| The argumentative essay as the writing work, again practised by reassembling jumbled paragraphs, on the libraries-vs-tablets model family | Ethiopia, English for Ethiopia Grade 12 Student's Book, Unit 8, Writing, printed pp.180–214 |
 
-**Acceptance count: taught in 8 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).**
+**Acceptance count: taught in 9 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).**
 Bolivia defines the essay and tables its general structure
 whole; Ghana grows the writing process to the essay's
 scale with the outline as its planning tool. Indonesia
@@ -194,7 +209,16 @@ identified before the pupil's own is written), and at
 Grade 12 a for-and-against model teaching opinion-essay
 linking, an opinion essay analysed by its body
 paragraphs, brainstorming taught as the exam technique,
-and staged 100–120-word opinion-essay building.
+and staged 100–120-word opinion-essay building;
+Ethiopia models and structures the essay — Grade 11
+teaches essay structure by name (thesis statement,
+topic sentences) and sets the argumentative and
+narrative essays, Grade 10 sets the argumentative
+essay as a named lesson, Grade 9 builds an internet
+essay from a diagram beside its printed sample essay
+and closes the unit with an opinion essay, and
+Grade 12 practises the narrative and argumentative
+essays through their jumbled paragraphs.
 Other finished
 countries join as their books are read (see
 READING-QUEUE.md).

@@ -1,6 +1,6 @@
 # Sources — Past actions
 
-countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
+countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
 
 Every part traces to its book and page.
 
@@ -76,6 +76,10 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 17:** Kazakhstan English Plus, Grade 5: Student's Book (student book) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 5 — English Plus Grade 5 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 18:** Kazakhstan Smiles for Kazakhstan, Grade 4: Pupil's Book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 4 — Smiles for Kazakhstan Grade 4 Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 19:** Kazakhstan English Plus, Grade 6: Student's Book (student book) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 6 — English Plus Grade 6 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 20:** English for Ethiopia, Grade 4 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 4 — English for Ethiopia, Grade 4 Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 21:** English for Ethiopia, Grade 5 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 5 — English for Ethiopia, Grade 5 Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 22:** English for Ethiopia, Grade 7 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 7 — English for Ethiopia, Student Textbook (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 23:** English for Ethiopia, Grade 9 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 9 — English for Ethiopia, Student Textbook (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -109,10 +113,14 @@ CITATION CHECK PASSED 2026-11-03).
 | The past carried first by stories, before any drill: full past-tense narration in Roland's Race, Ant and Grasshopper and The Shopping List, the Mr Brown's Pond reading, and the shopping reports (I bought …) | Iraq — English for Iraq, Grade 3 Pupil's Book, Units 5–7, printed pp.72–73, 88–89, 92–93 and 104–105 |
 | The past simple taught explicitly: pupils match present and past sentences and extract the verb pairs (go/went, is/was, play/played, do/did), then was/were childhood memories, did-questions over a cinema email, and There was a book / There were books | Iraq — English for Iraq, Grade 4 Pupil's Book, Unit 6, printed pp.74–89 |
 | The past set out whole as revision at intermediate entry: present/past simple in the opening unit with a full past-forms table in the Grammar and functions reference | Iraq — English for Iraq, Grade 7 Student's Book, Unit 1, printed pp.4–15 (reference, printed pp.97–99) |
+| The Simple Past Tense introduced — regular and irregular forms (stood, bought, sat, hid, told) | Ethiopia, English for Ethiopia Grade 4 Student's Book, Unit 9, printed pp.121–134 |
+| The Simple Past Tense in full — affirmative, negative and interrogative | Ethiopia, English for Ethiopia Grade 5 Student's Book, Unit 5, printed pp.113–138 |
+| The simple past as the calendar unit's grammar | Ethiopia, English for Ethiopia Grade 7 Student's Book, Unit 2, printed pp.17–29 |
+| Simple past contrasted with present perfect, with since/for in the contrast table | Ethiopia, English for Ethiopia Grade 9 Student's Book, Unit 9, printed pp.180–202 |
 
-**Acceptance count: taught in 12 countries (Bolivia, Ghana,
+**Acceptance count: taught in 13 countries (Bolivia, Ghana,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
-Jordan, Greece, Kazakhstan, Iraq).** Mongolia boxes the -ed frame and drills the
+Jordan, Greece, Kazakhstan, Iraq, Ethiopia).** Mongolia boxes the -ed frame and drills the
 movers by name; Bolivia states the whole paradigm including
 the Did/didn't law; Ghana seats the simple past where
 stories live; China adds the past staged regular first,
@@ -128,7 +136,7 @@ past regular-first for the senior exam; Jordan
 stages the past in Grade 4 — be first, then regular,
 then irregular — sets the past continuous against it
 in Grade 5, and re-teaches the simple past in Grade 8.
-Greece stages the past in Grade 5 — affirmative first, then negatives and questions, then the continuous and the two pasts together — combines the two boxes in Grade 6, and rebuilds the narrative past at Grade 7. Kazakhstan starts the lexical past at Grade 4 in Smiles (the other Grade 4 books stop at *was/were*), stages regular and irregular past inside one Grade 5 Excel module, and gives the tense its questions and negatives in both Grade 5 and Grade 6 English Plus. Iraq carries the past first in its Grade 3 stories, teaches it explicitly in Grade 4 — went, saw, had, did, played, was/were, did-questions and There was/were — and tables the past forms whole in its Grade 7 Student's Book reference. Other closed countries join as their books
+Greece stages the past in Grade 5 — affirmative first, then negatives and questions, then the continuous and the two pasts together — combines the two boxes in Grade 6, and rebuilds the narrative past at Grade 7. Kazakhstan starts the lexical past at Grade 4 in Smiles (the other Grade 4 books stop at *was/were*), stages regular and irregular past inside one Grade 5 Excel module, and gives the tense its questions and negatives in both Grade 5 and Grade 6 English Plus. Iraq carries the past first in its Grade 3 stories, teaches it explicitly in Grade 4 — went, saw, had, did, played, was/were, did-questions and There was/were — and tables the past forms whole in its Grade 7 Student's Book reference. Ethiopia introduces the simple past in Grade 4 with regular and irregular forms, teaches it in full — affirmative, negative and interrogative — in Grade 5, returns to it in Grade 7, and contrasts it with the present perfect in Grade 9. Other closed countries join as their books
 are read (see READING-QUEUE.md).
 
 **Laos Grade 6 added 2026-10-27** — *English for Secondary

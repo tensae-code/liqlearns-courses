@@ -1,6 +1,6 @@
 # Sources — Joining with and and but
 
-countries: Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
+countries: Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
 
 Every part traces to its book and page.
 
@@ -73,6 +73,9 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 16:** Kazakhstan English Plus, Grade 5: Student's Book (student book) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 5 — English Plus Grade 5 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 17:** Kazakhstan Excel for Kazakhstan, Grade 5: Student's Book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 5 — Excel for Kazakhstan Grade 5, Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 18:** Kazakhstan Full Blast! for Kazakhstan, Grade 6: Student's Book (student book) — Kazakhstan, MM Publications. Filed in english/books/kazakhstan.md (Grade 6 — Full Blast! for Kazakhstan, Grade 6 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 19:** English for Ethiopia, Grade 6 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 6 — English for Ethiopia, Grade 6 Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 20:** English for Ethiopia, Grade 7 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 7 — English for Ethiopia, Student Textbook (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 21:** English for Ethiopia, Grade 9 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 9 — English for Ethiopia, Student Textbook (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -99,8 +102,11 @@ CITATION CHECK PASSED 2026-11-03).
 | The joiners stated as a LOOK box over the pupil book's blog: *and* to add information, *but* to show a contrast — counted in the blog text and shown in Venn-style diagrams | Iraq — English for Iraq, Grade 6 Activity Book, Unit 2, printed pp.20–35 ("We use but to show a contrast", printed p.31) |
 | Linking words as a lesson of their own — *and, but, or, because, as well as* — joining things in a Japanese penfriend unit | Iraq — English for Iraq, Grade 7 Student's Book, Unit 6, printed pp.54–63 |
 | Joining sentences with *and, but, or* as a named Round up box, closing the opening unit's workbook work | Iraq — English for Iraq, Grade 7 Activity Book, Unit 1, printed pp.4–21 ("Joining sentences with and, but, or", printed p.20) |
+| Simple and compound sentences as the mobile-phones unit's grammar | Ethiopia, English for Ethiopia Grade 6 Student's Book, Unit 10, contents p.236 (grammar, contents p.236) |
+| Joining sentences with because / but / or in the Writing strand — the and/but work sits inside this because/but/or joining work | Ethiopia, English for Ethiopia Grade 7 Student's Book, Unit 10 Writing, printed pp.134–147 |
+| Cohesive devices for joining ideas in a paragraph — also / Besides / Moreover / Generally — in the paragraph-writing work | Ethiopia, English for Ethiopia Grade 9 Student's Book, Unit 1 Writing, printed pp.1–31 (unit printed pp.1–31) |
 
-**Acceptance count: taught in 11 countries (Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).**
+**Acceptance count: taught in 12 countries (Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).**
 Ghana opens the compound sentence with AND, seats BUT
 beside it, lists the four coordinators, and widens the
 family in its own order; Bolivia posts the but/however
@@ -114,7 +120,7 @@ at Primary 5 and states sentence combining at senior
 level; Jordan joins likes with and/too, but and or in
 Grade 2, joins habits with and/but in Grade 3, and
 links a profile with and/but/so/because in Grade 8.
-Greece joins with so / because at Grade 6, carries a postcard on because, as, although, but and so at Grade 9 (the teacher's book adds and to the set), and presents because, as, although, but as cause-and-effect connectors at Grade 10 EPAL. Kazakhstan works and / but / or as the writing point of a Grade 5 description lesson, names and, but, because, so as a whole stories module's language focus, and lists the five linkers — and, but, or, so, because — as a Grade 6 lesson point. Iraq states the pair as a box in its Grade 6 Activity Book — *and* to add information, *but* to show a contrast — gives linking words their own Grade 7 lesson (*and, but, or, because, as well as*), and names joining sentences with *and, but, or* in its Grade 7 Activity Book Round up. Other closed countries join as their books are
+Greece joins with so / because at Grade 6, carries a postcard on because, as, although, but and so at Grade 9 (the teacher's book adds and to the set), and presents because, as, although, but as cause-and-effect connectors at Grade 10 EPAL. Kazakhstan works and / but / or as the writing point of a Grade 5 description lesson, names and, but, because, so as a whole stories module's language focus, and lists the five linkers — and, but, or, so, because — as a Grade 6 lesson point. Iraq states the pair as a box in its Grade 6 Activity Book — *and* to add information, *but* to show a contrast — gives linking words their own Grade 7 lesson (*and, but, or, because, as well as*), and names joining sentences with *and, but, or* in its Grade 7 Activity Book Round up. Ethiopia teaches simple and compound sentences in Grade 6, joins sentences with because/but/or in Grade 7's Writing strand, and joins ideas in a paragraph with cohesive devices — also / Besides / Moreover / Generally — in Grade 9. Other closed countries join as their books are
 read (see READING-QUEUE.md).
 
 **Laos Grade 5 added 2026-10-27** — *Student's Book 3, Grade 5*

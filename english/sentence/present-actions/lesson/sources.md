@@ -1,6 +1,6 @@
 # Sources — Present actions
 
-countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
+countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
 
 Every part traces to its book and page.
 
@@ -94,6 +94,10 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 20:** Kazakhstan Excel for Kazakhstan, Grade 5: Student's Book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 5 — Excel for Kazakhstan Grade 5, Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 21:** Kazakhstan English Plus, Grade 5: Student's Book (student book) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 5 — English Plus Grade 5 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 22:** Kazakhstan Full Blast! for Kazakhstan, Grade 6: Student's Book (student book) — Kazakhstan, MM Publications. Filed in english/books/kazakhstan.md (Grade 6 — Full Blast! for Kazakhstan, Grade 6 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 23:** English for Ethiopia, Grade 3 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 3 — English for Ethiopia Student's Book Grade 3 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 24:** English for Ethiopia, Grade 4 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 4 — English for Ethiopia, Grade 4 Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 25:** English for Ethiopia, Grade 6 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 6 — English for Ethiopia, Grade 6 Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 26:** English for Ethiopia, Grade 9 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 9 — English for Ethiopia, Student Textbook (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -132,10 +136,14 @@ CITATION CHECK PASSED 2026-11-03).
 | The present continuous for actions now on the playground — "I'm climbing up the ladder. I'm crawling through the tunnel." — and for people in pictures throughout the book | Iraq — English for Iraq, Grade 4 Pupil's Book, Unit 1, printed pp.6–21 |
 | The two presents set against each other as a choice: the hospital surgeon's blog — "What does she do most days? — She works in the hospital" against "What are you doing now? — I'm spending time with my family" — checked by circling the correct tense | Iraq — English for Iraq, Grade 6 Pupil's Book, Unit 2, printed pp.22–37 |
 | The present continuous for changing trends at preparatory level, inside the opening unit's present simple (habits and facts) and present continuous (actions now, changing trends, planned futures) system, tabulated in the Grammar and Functions Reference | Iraq — English for Iraq, Grade 10 Student's Book, Unit 1, printed pp.6–16 (reference, printed pp.88–98) |
+| The present continuous with its printed formula — be verb (am/is/are) + V+ing | Ethiopia, English for Ethiopia Grade 3 Student's Book, Unit 4, printed pp.51–65 (formula anchor "be verb (am/is/are)+ V+ing", printed p.59) |
+| The present continuous defined for now: "We use the present continuous tense to talk about things that are happening at the time of speaking" | Ethiopia, English for Ethiopia Grade 4 Student's Book, Unit 1, printed p.12 (unit printed pp.1–20) |
+| Simple Present and Present Continuous taught together for form, meaning and use | Ethiopia, English for Ethiopia Grade 6 Student's Book, Unit 1, contents p.8 (grammar, contents p.8) |
+| The present continuous in the opening unit, including its future use, beside the simple present | Ethiopia, English for Ethiopia Grade 9 Student's Book, Unit 1, printed pp.11–25 (unit printed pp.1–31) |
 
-**Acceptance count: taught in 13 countries (Egypt, Ghana,
+**Acceptance count: taught in 14 countries (Egypt, Ghana,
 Libya, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).** Egypt boxes the every-day face inside
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).** Egypt boxes the every-day face inside
 routines; Mongolia tables the right-now face and its
 questions; Libya's reference names both faces' uses and
 posts the refusal list; Ghana names the simple present's
@@ -149,7 +157,7 @@ lesson pair in JSS 1 and rebuilds both for the senior
 exam in SSS 1; Jordan works
 the every-day face over routines and the third-person
 -s in Grade 3, sets the two faces against each other
-in Grade 6, and re-teaches both in Grade 8. Greece builds both faces across primary — routines and frequency in Grade 4, the full simple paradigm and the simple/continuous contrast in Grade 5, and both boxes restated in Grade 6. Kazakhstan teaches both faces whole at Grade 5 in two series at once — the simple in full, the continuous in full, and the two contrasted — and sets them against each other again, stative verbs noted, in Grade 6's Full Blast!. Iraq carries the continuous in two whole printed emails in Grade 3, teaches it for actions now in Grade 4, sets the simple against the continuous as a choice in Grade 6, and re-tables both in Grade 10. Other closed countries join as their books are read
+in Grade 6, and re-teaches both in Grade 8. Greece builds both faces across primary — routines and frequency in Grade 4, the full simple paradigm and the simple/continuous contrast in Grade 5, and both boxes restated in Grade 6. Kazakhstan teaches both faces whole at Grade 5 in two series at once — the simple in full, the continuous in full, and the two contrasted — and sets them against each other again, stative verbs noted, in Grade 6's Full Blast!. Iraq carries the continuous in two whole printed emails in Grade 3, teaches it for actions now in Grade 4, sets the simple against the continuous as a choice in Grade 6, and re-tables both in Grade 10. Ethiopia teaches the present continuous from Grade 3 with its printed be + V-ing formula, defines it for things happening at the time of speaking in Grade 4, pairs it with the simple present in Grade 6, and revisits it including its future use in Grade 9. Other closed countries join as their books are read
 (see READING-QUEUE.md).
 
 **Laos Grade 6 added 2026-10-27** — *English for Secondary

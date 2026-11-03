@@ -1,6 +1,6 @@
 # Sources — Pronouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia
 
 Every part traces to its book and page.
 
@@ -103,6 +103,16 @@ english/books/jordan.md (Grade 7 Pupil's Book Semester 1 section, FULLY READ + C
 
 **Book 24:** English for Iraq, Grade 5, Pupil's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 5 — English for Iraq 5th Primary Pupil's Book (pupil's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 25:** English for Ethiopia, Grade 2 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 2 — English for Ethiopia Student's Book Grade 2 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 26:** English for Ethiopia, Grade 4 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 4 — English for Ethiopia, Grade 4 Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 27:** English for Ethiopia, Grade 5 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 5 — English for Ethiopia, Grade 5 Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 28:** English for Ethiopia, Grade 10 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 10 — ENGLISH FOR ETHIOPIA / STUDENT TEXTBOOK / GRADE 10 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 29:** English for Ethiopia, Grade 11 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 11 — ENGLISH / STUDENT TEXTBOOK / GRADE 11 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The set's title and every plain definition, kept in the book's own words: "Personal Pronouns — Words We Use Instead of Names" — I: "When you talk about yourself" · he: "When you talk about a boy or a man" · she: "When you talk about a girl or a woman" · it: "When you talk about an animal or a thing" · we: "When you talk about yourself and others together" · they: "When you talk about more than one person, animal, or thing" · you: "When you talk to one person or to a group" | Egypt, Primary 1 Term 2, p.27 |
@@ -133,9 +143,14 @@ english/books/jordan.md (Grade 7 Pupil's Book Semester 1 section, FULLY READ + C
 | The pronoun sets set out whole in one table — subject, object and possessive adjective — in the Our world unit's Round up (the table stands in the Grade 9 Student's Book's Our world unit) | Iraq — English for Iraq, Grade 9 Student's Book, Unit 3, Round up, printed p.39 |
 | The same table worked in the workbook: they/their/them picked out of a text, the pronoun table (subject/object/possessive adjective) completed, then two conversations completed with pronouns | Iraq — English for Iraq, Grade 9 Activity Book, Unit 3, printed pp.40–57 |
 | Possessive pronouns standing alone in the whose-exchange over lost luggage — "Whose big black bag is this? — It's mine" — completed by my/your/her/his + noun set against mine/yours/hers/his ("It's her pencil case. It's hers.") | Iraq — English for Iraq, Grade 5 Pupil's Book, Unit 7, printed pp.90–105 |
+| Subject pronouns as a named section of their own — English subject pronouns (I, we, you, she, he, they, it) identified and written in sentences | Ethiopia — English for Ethiopia, Grade 2 Student's Book, Unit 7 "Polluted Environment," printed pp.95–106 |
+| Pronouns and possession: his/her worked on the umbrella example, with the "Whose…?" question | Ethiopia — English for Ethiopia, Grade 4 Student's Book, Unit 2, printed pp.30–31 |
+| Personal pronouns taught in the grammar section, beside the Simple Past, with a possessives exercise | Ethiopia — English for Ethiopia, Grade 5 Student's Book, Unit 5, printed pp.113–138 (possessives exercise at printed p.137) |
+| Relative pronouns taught in the opening unit's grammar, beside degrees of comparison and the present perfect | Ethiopia — English for Ethiopia, Grade 10 Student's Book, Unit 1, printed pp.1–36 |
+| Pronoun case in full: nominative against accusative case taught in the grammar section (9E) | Ethiopia — English for Ethiopia, Grade 11 Student's Book, Unit 9, grammar (9E), printed pp.225–252 |
 
-**Acceptance count: taught in 11 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq).** Egypt
+**Acceptance count: taught in 12 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia).** Egypt
 carries the seven words with the
 plainest definitions any book gives them, and the first
 whose-box; Bangladesh carries the formal definition; Libya
@@ -148,5 +163,5 @@ and the whose-question in Grade 3; Iran carries the full
 possessive-adjective set and the object set beside the
 subject set; Sierra Leone carries the first-year pointing
 set, the noun-to-pronoun swap as its own lesson, and
-my/our/your for things that belong. Jordan carries our/your/their on possessions, mine and his/hers standing alone in the whose-exchange, the indefinite set, and reflexives as a booster; Kazakhstan carries subject pronouns from its Grade 3 Express book's first module, possessive adjectives and subject and object pronouns together in the same book, the possessive pronouns a year up in Grade 4, and object pronouns beside the present simple in Grade 5 English Plus; Iraq carries the three sets — subject, object and possessive adjective — in one Round up table in Grade 9 book, worked again in its Activity Book, and the standing-alone possessives mine/yours/his/hers against the possessive adjectives in Grade 5; Other finished
+my/our/your for things that belong. Jordan carries our/your/their on possessions, mine and his/hers standing alone in the whose-exchange, the indefinite set, and reflexives as a booster; Kazakhstan carries subject pronouns from its Grade 3 Express book's first module, possessive adjectives and subject and object pronouns together in the same book, the possessive pronouns a year up in Grade 4, and object pronouns beside the present simple in Grade 5 English Plus; Iraq carries the three sets — subject, object and possessive adjective — in one Round up table in Grade 9 book, worked again in its Activity Book, and the standing-alone possessives mine/yours/his/hers against the possessive adjectives in Grade 5; Ethiopia carries subject pronouns as a named section in Grade 2, pronouns and possession with "Whose…?" in Grade 4, personal pronouns in Grade 5, relative pronouns in Grade 10, and nominative against accusative pronoun case in Grade 11; Other finished
 countries join as their books are read (see READING-QUEUE.md).

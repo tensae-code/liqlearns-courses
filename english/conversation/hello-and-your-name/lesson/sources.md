@@ -1,6 +1,6 @@
 # Sources for this lesson — Greetings
 
-countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
+countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag.
@@ -49,6 +49,10 @@ side by side on one PDF page — that was wrong.
 | Meeting people as a named speaking slot — greetings and introductions — in the first unit, "Our class" | Kazakhstan, English Plus Grade 6 Student's Book, Unit 1, printed pp.8–19 ("Meeting people," printed p.14) |
 | The name exchange among the book's first language — greetings (Hello / Goodbye), introductions (What's your name? — I'm Nada / I'm Ahmed) in Unit 1's scenes | Iraq — English for Iraq, Grade 1 Pupil and Activity Book, Unit 1, printed p.11 (unit printed pp.6–15) |
 | The exchange re-opened two years up, as the new cast's first lesson — Lesson 1 "Hello!": "Hello, what's your name? — My name's Hassan" | Iraq — English for Iraq, Grade 3 Pupil's Book, Unit 1, Lesson 1, printed p.6 |
+| The greeting exchange and a "Good morning" song in the first unit | Ethiopia — English for Ethiopia, Grade 1 Student's Book, Unit 1, printed pp.1–26 |
+| Self-introduction dialogues giving name, age and home town (Gambella, Jimma, Somali region, Assosa, Mekele, Dire Dawa; "I am from Gambella" is a citation anchor at printed p.36) | Ethiopia — English for Ethiopia, Grade 1 Student's Book, Unit 2, printed pp.27–42 |
+| Greetings and introductions opening the book | Ethiopia — English for Ethiopia, Grade 5 Student's Book, Unit 1, printed pp.1–32 |
+| The introduction modelled for the teacher — "Let me introduce myself. My name's …" (citation anchor at printed p.2) | Ethiopia — English for Ethiopia, Grade 5 Teacher's Guide, Unit 1, printed p.2 (guide Unit 1, printed pp.1–29) |
 
 **Second country merged 2026-10-25 — Libya:**
 English for Libya, Pupils Book Grade 1 (CERC, Ministry of Education,
@@ -91,7 +95,7 @@ rendered page the same day).
 - Unit 1 "Greeting and Numbers," p. 14 (Hello/Hi, Goodbye/bye tracing;
   "What's your name? / My name's" tracing strips, p. 16).
 
-**Acceptance count: taught in 14 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).**
+**Acceptance count: taught in 15 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).**
 China adds name exchanges from its first primary page and the
 "Where are you from? — I'm from …" origin frame (Grades 3), plus
 five printed ways to say goodbye (Grade 6 Volume 2); North
@@ -127,6 +131,12 @@ Iraq joined 2026-11-03: its Grade 1 book carries the
 exchange among its first language ("What's your name?"
 — printed p.11), and its Grade 3 book re-opens the
 course on a lesson named "Hello!" with the same exchange.
+Ethiopia joined 2026-11-03: its Grade 1 book opens on a
+greeting exchange and a "Good morning" song (Unit 1) and
+self-introduction dialogues giving name, age and home
+town (Unit 2), and its Grade 5 book opens on greetings
+and introductions, its guide modelling "Let me introduce
+myself. My name's …" (printed p.2).
 This lesson is the first layer. Courses are built from every CLOSED
 country's books (his ruling, 2026-11-03 — superseding the 2026-10-25
 finished-only rule), and updated as the library updates: when a
@@ -424,3 +434,28 @@ anchor at printed p.11). Grade 3, a fresh start with a
 new cast, opens on the same door: Unit 1, Lesson 1 is
 named "Hello!" and runs "Hello, what's your name? —
 My name's Hassan" (printed p.6).
+
+**Ethiopia added 2026-11-03** — three books stock this
+lesson: **Book:** *English for Ethiopia, Grade 1
+Student's Book* — Ethiopia, Federal Democratic Republic
+of Ethiopia, Ministry of Education. **Book:** *English
+for Ethiopia, Grade 5 Student's Book* — Ethiopia,
+Federal Democratic Republic of Ethiopia, Ministry of
+Education. **Book:** *English for Ethiopia, Grade 5
+Teacher's Guide* — Ethiopia, Federal Democratic
+Republic of Ethiopia, Ministry of Education. All filed
+in english/books/ethiopia.md (Grade 1 — English for
+Ethiopia Student's Book Grade 1 (student's book); Grade
+5 — English for Ethiopia, Grade 5 Student's Book
+(student's book); Grade 5 — English for Ethiopia, Grade
+5 Teacher's Guide (teacher's guide) sections, FULLY
+READ + CITATION CHECK PASSED 2026-11-03). Ethiopia's
+Grade 1 Unit 1 (printed pp.1–26) carries a teacher–class
+greeting exchange and a "Good morning" song, and Unit 2
+(printed pp.27–42) carries greetings and
+self-introduction dialogues giving name, age and home
+town ("I am from Gambella", printed p.36). Grade 5 Unit
+1 (printed pp.1–32) opens with greetings and
+introductions, and its Teacher's Guide Unit 1 notes
+model the introduction: "Let me introduce myself. My
+name's …" (printed p.2).

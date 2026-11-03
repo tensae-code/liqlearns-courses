@@ -1,6 +1,6 @@
 # Sources — Adverbs
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
 
 Every part traces to its book and page.
 
@@ -89,6 +89,14 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 
 **Book 22:** English for Iraq, Grade 4, Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 4 — English for Iraq 4th Primary Activity Book (activity book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 23:** English for Ethiopia, Grade 6 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 6 — English for Ethiopia, Grade 6 Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 24:** English for Ethiopia, Grade 9 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 9 — English for Ethiopia, Student Textbook (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 25:** English for Ethiopia, Grade 10 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 10 — ENGLISH FOR ETHIOPIA / STUDENT TEXTBOOK / GRADE 10 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 26:** English for Ethiopia, Grade 11 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 11 — ENGLISH / STUDENT TEXTBOOK / GRADE 11 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition in one line: "Adverbs say how an action is done. The adverb usually comes after the verb." — plus underlining the adverbs in a dialogue (regularly, carefully…) | Bangladesh, English for Today Class 5, LANGUAGE FOCUS: ADVERBS box, p.27 |
@@ -117,9 +125,13 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Adverbs of frequency as a taught set — always, usually, often, sometimes, never — shown as pie-chart proportions, with their position rule stated (after be, before other verbs) | Iraq — English for Iraq, Grade 7 Student's Book, Unit 1, printed pp.4–15 |
 | Adverbs of manner as a taught box — making -ly adverbs, y → i, and the irregulars fast and well — carried by the hungry fox fable | Iraq — English for Iraq, Grade 7 Student's Book, Unit 3, printed pp.26–37 |
 | -ly adverbs at work in primary: hunted inside the Sports Races story (shouted loudly, walked slowly) and completed in sentences | Iraq — English for Iraq, Grade 4 Activity Book, Unit 3, printed pp.36–51 |
+| Kinds of adverbs and degrees of adverbs taught together in the grammar section, beside Conditional Sentence Type II | Ethiopia — English for Ethiopia, Grade 6 Student's Book, Unit 9, grammar, contents p.210 (unit printed pp.199–221, as filed) |
+| Adverbs of frequency taught in the grammar section, then recapped a unit later (3.4.3) beside the obligation modals | Ethiopia — English for Ethiopia, Grade 9 Student's Book, Unit 2, printed pp.44–47; Unit 3 recapped |
+| Adverbs of time and frequency, and adverbs of manner (section 3.5.2), taught in the punctuality unit's grammar | Ethiopia — English for Ethiopia, Grade 10 Student's Book, Unit 3, printed pp.65–91 (adverbs of manner at printed p.83) |
+| Adverbs and their categories taught in the grammar section (7E), beside order of adjectives | Ethiopia — English for Ethiopia, Grade 11 Student's Book, Unit 7, grammar (7E), printed pp.165–203 |
 
-**Acceptance count: taught in 12 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).**
+**Acceptance count: taught in 13 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).**
 Bangladesh carries the definition and the mime
 game; Egypt carries the making rule (-ly, y → i) and the
 frequency ladder; Libya carries the adjective-to-adverb move
@@ -131,6 +143,6 @@ manner set with its non--ly rebels; Iran carries the adverb
 as a named word kind — manner, the -ly making, the irregulars
 — and a second printed frequency ladder; Sierra Leone carries
 the adjective-to-adverb change as two lessons of its own and
-the function stated plainly. Jordan carries the frequency set twice — Grade 4 with its once/twice/three-times phrases, Grade 8 with ordering work in the Workbook — and the manner set with well among the -ly words; Greece carries the frequency set twice — the five-word set in Grade 4, and the printed percentage ladder with sentence position in Grade 5 — and comparison of adverbs in Grade 6; Kazakhstan carries the frequency words on daily routines and manner adverbs a term later in its Grade 4 Express book, frequency, degree and manner named together in Grade 5 Excel, and adverbs of time, frequency and manner as a named set in Grade 4 Smiles; Iraq carries both kinds in one intermediate book — the frequency set with its position rule in Grade 7 book's Unit 1, and the manner box with the -ly making, y → i and the irregulars fast and well in Unit 3 — with -ly adverbs hunted in a story in Grade 4; Other
+the function stated plainly. Jordan carries the frequency set twice — Grade 4 with its once/twice/three-times phrases, Grade 8 with ordering work in the Workbook — and the manner set with well among the -ly words; Greece carries the frequency set twice — the five-word set in Grade 4, and the printed percentage ladder with sentence position in Grade 5 — and comparison of adverbs in Grade 6; Kazakhstan carries the frequency words on daily routines and manner adverbs a term later in its Grade 4 Express book, frequency, degree and manner named together in Grade 5 Excel, and adverbs of time, frequency and manner as a named set in Grade 4 Smiles; Iraq carries both kinds in one intermediate book — the frequency set with its position rule in Grade 7 book's Unit 1, and the manner box with the -ly making, y → i and the irregulars fast and well in Unit 3 — with -ly adverbs hunted in a story in Grade 4; Ethiopia carries kinds of adverbs and degrees of adverbs in Grade 6, adverbs of frequency in Grade 9 (taught, then recapped a unit later), adverbs of time and frequency and adverbs of manner in Grade 10, and adverbs and their categories in Grade 11; Other
 closed countries join as their books are read (see
 READING-QUEUE.md).

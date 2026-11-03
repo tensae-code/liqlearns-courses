@@ -1,6 +1,6 @@
 # Sources — Drawing lines
 
-countries: Egypt, Libya, Sierra Leone, Iraq
+countries: Egypt, Libya, Sierra Leone, Iraq, Ethiopia
 
 Course: Pencil and Lines — the prerequisite course before every
 language course (his ruling, 2026-10-25).
@@ -10,6 +10,7 @@ language course (his ruling, 2026-10-25).
 | The Trace box: rows of dotted wavy lines and zigzag lines, each starting from an arrow head | Egypt — English Language KG1 Term 1 (student book), book p.1, right side of the page (PDF p.5 of English_KG1_Tr1.pdf; verified on disk 2026-10-25, image-only — page read as a picture) |
 | Drawing patterns before letters — draw patterns, including the patterns of the letters in pupils' own names; and draw a pattern of shapes: a circle, then three circles in a row | Sierra Leone — Language Arts Primary 1 Lesson Plans, Term 1, Lesson 12 ("Drawing patterns") and Lesson 35 ("Drawing") |
 | Pre-writing tracing: the Activities open with tracing dotted lines and letter shapes — the hand work that opens the workbook half of the book, before copying words | Iraq — English for Iraq, Grade 1 Pupil and Activity Book, Activities, printed pp.89–161 (the opening pre-writing work, printed pp.89ff) |
+| Pre-writing tracing: "Trace the dotted lines" — dotted-line and letter tracing that opens the writing work, with tracing of dotted letters and words across Unit 1 | Ethiopia — English for Ethiopia, Grade 1 Student's Book, Unit 1, printed p.2 ("Trace the dotted lines"); Unit 1, printed pp.1–26 |
 
 Second book, same country (added 2026-10-25): Egypt KG2 Term 1 opens
 with a "Remember With Me!" page — trace the wavy and zigzag lines
@@ -91,13 +92,29 @@ same ground "pre-writing strokes" on the way to lower-case
 formation. The tracing comes first in the workbook, before
 copying whole words.
 
-**Acceptance count: taught in 4 countries (Egypt, 3 books; Libya,
+Fifth country (added 2026-11-03): Ethiopia — *English for
+Ethiopia*, Grade 1 Student's Book (Federal Democratic Republic
+of Ethiopia, Ministry of Education; filed in
+english/books/ethiopia.md (Grade 1 — English for Ethiopia
+Student's Book Grade 1 (student's book) section, FULLY READ +
+CITATION CHECK PASSED 2026-11-03)). Ethiopia's line work is
+Egypt's and Iraq's shape: the Grade 1 Student's Book opens its
+writing work with tracing — the anchor "Trace the dotted
+lines" is printed p.2, and Unit 1 (printed pp.1–26) has
+dotted-line and letter tracing; writing across the Grade 1
+units is tracing dotted letters and words.
+
+**Acceptance count: taught in 5 countries (Egypt, 3 books; Libya,
 3 books; Sierra Leone — pattern drawing, Primary 1 Term 1;
 Iraq — dotted-line tracing opening the Grade 1 Activities,
-printed pp.89ff).**
+printed pp.89ff; Ethiopia — "Trace the dotted lines" opening
+the Grade 1 writing work, printed p.2).**
 The "understand the lines" framing is his: the lines are understood,
 not just traced — a wavy line is the curved move, a zigzag is the
 straight-and-corner move, and letters are those two moves mixed.
 Iraq joins with dotted lines traced at the very opening of
 its first workbook.
+Ethiopia joins with "Trace the dotted lines" (printed p.2)
+opening its Grade 1 writing work, and dotted letters and
+words traced across Unit 1.
 Counts grow as other finished countries' first books are read.

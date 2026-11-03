@@ -1,6 +1,6 @@
 # Sources — The paragraph
 
-countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
+countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
 
 Every part traces to its book and page.
 
@@ -109,6 +109,11 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 21:** English for Iraq, Grade 8, Student's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 8 — English for Iraq, 2nd Intermediate Student's Book (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 22:** English for Iraq, Grade 9, Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 9 — English for Iraq, 3rd Intermediate Activity Book (activity book / workbook) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 23:** English for Iraq, Grade 10, Student's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 10 — English for Iraq, 4th Preparatory Student's Book (Student's Book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 24:** English for Ethiopia, Grade 7 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 7 — English for Ethiopia, Student Textbook (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 25:** English for Ethiopia, Grade 6 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 6 — English for Ethiopia, Grade 6 Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 26:** English for Ethiopia, Grade 10 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 10 — ENGLISH FOR ETHIOPIA / STUDENT TEXTBOOK / GRADE 10 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 27:** English for Ethiopia, Grade 5 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 5 — English for Ethiopia, Grade 5 Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 28:** English for Ethiopia, Grade 9 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 9 — English for Ethiopia, Student Textbook (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -140,10 +145,17 @@ CITATION CHECK PASSED 2026-11-03).
 | The paragraph planned with topic sentences as the writing lesson of the review unit: organise and plan each paragraph with topic sentences (Writing tips 3–6) | Iraq, English for Iraq Grade 8, Student's Book, Unit 4, Lesson 4, printed pp.43–46 |
 | The paragraph defined in a named box — "What makes a paragraph?": a paragraph is a group of sentences about one topic or idea, with what paragraphs look like | Iraq, English for Iraq Grade 9, Activity Book, Unit 6, printed p.96 |
 | Topic sentences taught as the reading-and-writing work of the "Changes" lesson — topic sentences named, and paragraphs matched to the graphs they carry | Iraq, English for Iraq Grade 10, Student's Book, Unit 1, Lesson 2, printed pp.6–16 |
+| The paragraph taught as anatomy, from outline to finished paragraph: the full anatomy of a paragraph worked through to the finished model paragraph "Uses of Water" | Ethiopia, English for Ethiopia Grade 7 Student's Book, Unit 6, Writing, printed pp.73–88 |
+| Finding the main idea and supporting details as the writing work — the paragraph read for the idea it carries and the details that support it | Ethiopia, English for Ethiopia Grade 7 Student's Book, Unit 4, Writing, printed pp.45–58 |
+| Paragraph unity taught as its own writing topic — every sentence of the paragraph on the one topic | Ethiopia, English for Ethiopia Grade 7 Student's Book, Unit 8, Writing, printed pp.105–119 |
+| The short paragraph as the unit's writing outcome, worked again on new ground (a short paragraph about the effects of air pollution) | Ethiopia, English for Ethiopia Grade 6 Student's Book, Unit 6, Writing, printed p.150 (unit printed pp.135–151) |
+| TOPIC SENTENCES named and paragraph structure as the writing work — the topic sentence named outright ("called the topic sentence", printed p.51), and topic sentences and paragraph structure set as Unit 5's writing | Ethiopia, English for Ethiopia Grade 10 Student's Book, printed p.51, and Unit 5, Writing, printed pp.119–143 |
+| A process paragraph as the writing outcome: jumbled sentences reordered and rewritten as a paragraph that explains a process | Ethiopia, English for Ethiopia Grade 5 Student's Book, Unit 1, Writing, printed p.32 |
+| A paragraph developed with cohesive devices — the paragraph built and held together by its linking words (also / Besides / Moreover / Generally) | Ethiopia, English for Ethiopia Grade 9 Student's Book, Unit 1, Writing, printed pp.1–31 |
 
-**Acceptance count: taught in 13 countries (Bangladesh,
+**Acceptance count: taught in 14 countries (Bangladesh,
 Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).** Ghana names the process and prints the
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).** Ghana names the process and prints the
 unity test as a revise question; Bangladesh guides the
 first paragraphs and models them; Egypt examines by the
 paragraph; China adds a model-first writing ladder across
@@ -176,7 +188,15 @@ tip at Grade 8, teaches topic sentences by name there
 with a planned paragraph built from them, defines the
 paragraph outright at Grade 9 ("a group of sentences
 about one topic or idea"), and teaches topic sentences
-again at Grade 10. Other closed countries join as their books are
+again at Grade 10; Ethiopia teaches the paragraph as
+anatomy — Grade 7 works it from outline to the finished
+"Uses of Water" paragraph, sets finding the main idea
+and supporting details as writing work, and teaches
+paragraph unity and concluding sentences, Grade 6's
+writing stays at the single paragraph, Grade 10 names
+topic sentences and paragraph structure, Grade 5 writes
+a process paragraph, and Grade 9 develops a paragraph
+with cohesive devices. Other closed countries join as their books are
 read (see READING-QUEUE.md).
 
 **Laos Grade 6 added 2026-10-27** — *English for Secondary

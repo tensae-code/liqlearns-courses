@@ -1,6 +1,6 @@
 # Sources for this lesson — How old are you?
 
-countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq
+countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -33,8 +33,11 @@ Libya (Garnet) · Books verified on disk 2026-10-25.
 | The age exchange in the short form, set at a birthday-party scene — "How old are you? — I'm 6 / I'm 4" | Iraq — English for Iraq, Grade 1 Pupil and Activity Book, Unit 3, printed p.32 |
 | The exchange in the second year's opening lesson, beside the name frames — "How old are you? — I'm 7 / 10" | Iraq — English for Iraq, Grade 2 Pupil and Activity Book, Unit 1, Lesson 1, printed pp.4–13 |
 | The exchange re-opened in the third year's first lesson — "How old are you? — I'm 8" | Iraq — English for Iraq, Grade 3 Pupil's Book, Unit 1, Lesson 1, printed p.6 |
+| Age given inside the self-introduction dialogues of Grade 1 — name, age and home town given together (the filed read gives the dialogues' content, not a printed "How old are you?" wording, and none is claimed here) | Ethiopia — English for Ethiopia, Grade 1 Student's Book, Unit 2 "Times of The Day," printed pp.27–42 |
+| Age stated whole in a listening text: Bontu is "eight years old", in the family listening text of Grade 2's first unit | Ethiopia — English for Ethiopia, Grade 2 Student's Book, Unit 1 "Our Surroundings," printed p.4 |
+| Age as a named item of the personal-information exchange — name, father's name, age, origin, grade — in Grade 4's opening speaking work | Ethiopia — English for Ethiopia, Grade 4 Student's Book, Unit 1 "People and Their Work," printed pp.1–20 |
 
-**Acceptance count: taught in 11 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
+**Acceptance count: taught in 12 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 China teaches the exchange in the full "years old" form with
 candle counting (Grade 3 Volume 1) and later ties age to the
 birthday date (Grade 5 Volume 2); North Macedonia practises it
@@ -63,6 +66,14 @@ in the short form in three opening years in a row —
 Grade 1 at a birthday party ("I'm 6 / I'm 4"), Grade 2
 in its opening lesson, and Grade 3 re-opening on
 "I'm 8."
+Ethiopia joined 2026-11-03 in the giving form, not the
+question form: its Grade 1 self-introduction dialogues
+give name, age and home town together, its Grade 2
+listening text states Bontu's age whole — "eight years
+old" — and its Grade 4 opening unit names age among the
+items of its personal-information exchange; no printed
+"How old are you?" wording is recorded in its filed
+read, and none is claimed here.
 Nicaragua's filed books ask names in their greeting
 material, not age — so it is not counted here; Sierra
 Leone's filed books likewise state a boy's age ("He is 10
@@ -272,3 +283,28 @@ a fresh start, opens on it again: "How old are you? —
 I'm 8" (Unit 1, Lesson 1, printed p.6). No full "years
 old" form is recorded for Iraq in these exchanges; its
 form is Libya's and Jordan's short form throughout.
+
+**Ethiopia added 2026-11-03** — three books stock this
+lesson: **Book:** *English for Ethiopia*, Grade 1
+Student's Book; **Book:** *English for Ethiopia*, Grade 2
+Student's Book; **Book:** *English for Ethiopia*, Grade 4
+Student's Book — Ethiopia, Federal Democratic Republic of
+Ethiopia, Ministry of Education. All filed in
+english/books/ethiopia.md (Grade 1 — English for Ethiopia
+Student's Book Grade 1 (student's book); Grade 2 — English
+for Ethiopia Student's Book Grade 2 (student's book);
+Grade 4 — English for Ethiopia, Grade 4 Student's Book
+(student's book) sections, FULLY READ + CITATION CHECK
+PASSED 2026-11-03). Ethiopia's age work is the giving
+side of this lesson: Grade 1, Unit 2 (printed pp.27–42),
+runs greetings and self-introduction dialogues giving
+name, age and home town; Grade 2, Unit 1, states a child's
+age whole in its listening text — Bontu, "eight years
+old" (printed p.4, a citation anchor in the country
+file); and Grade 4, Unit 1 (printed pp.1–20), works a
+personal-information exchange whose named items are
+name, father's name, age, origin and grade. The limit is
+recorded plainly: the filed read does not print a
+"How old are you?" question wording for Ethiopia, so
+Ethiopia is counted for the age-giving and
+age-as-personal-information work only, exactly as filed.

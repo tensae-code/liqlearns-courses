@@ -1,6 +1,6 @@
 # Sources for this lesson — Blending sounds
 
-countries: Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq
+countries: Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The blending material lived inside the alphabet
@@ -24,8 +24,11 @@ letters.
 | CVC work in the Activity Books — Semester 1, Unit 4, Lessons 9–10, headed "e-a-i": listen, write and say (audio 4.21), match (cat), choose, write and say (map/cap-type items); Semester 2, Unit 8, Lesson 9, headed "Words": listen, write and say, then match (log-type CVC items, audio 8.21), and Lesson 10: choose, write and say | Jordan — Team Together Grade 1 Activity Books: Semester 1, Unit 4, printed pp.22–27; Semester 2, Unit 8, printed pp.22–27 |
 | "Begin blending letter sounds to read words" — a Unit 5 objective, demonstrated by finger-blending on already-known three-letter words (ant, car, egg, goat, horse, dog); the only systematic decoding work in the book, and it lives in the Teacher's Book — the primary pupil books have no phonics programme | Iraq — English for Iraq, Grade 1 Teacher's Book, Unit 5, printed p.128 (unit notes, printed pp.128–147) |
 | Consonant-cluster blending (gr–, br–, bl–, wh–) a unit later, inside the body unit's notes | Iraq — English for Iraq, Grade 1 Teacher's Book, Unit 6, printed pp.148–167 |
+| Blending short words in the plants unit — arm, van, pen, pin, sun, sock, worm, web | Ethiopia — English for Ethiopia, Grade 1 Student's Book, Unit 4, printed pp.53–68 |
+| Blending animal names, and reading by blending named as the work | Ethiopia — English for Ethiopia, Grade 1 Student's Book, Unit 5, printed pp.69–88 |
+| Blending in the teacher's Unit 1 procedures — mat, bad, far, sit | Ethiopia — English for Ethiopia, Grade 1 Teacher's Guide, Unit 1, printed pp.5–46 |
 
-**Acceptance count: taught in 7 countries (Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq).**
+**Acceptance count: taught in 8 countries (Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia).**
 China adds the alphabet stocked as five phonics sets rather than
 letter by letter (Grade 3 Volume 1), a complete short-vowel cycle
 inside one volume (Grade 3 Volume 2), and end-of-primary review
@@ -42,6 +45,11 @@ objective in its Grade 1 Teacher's Book — finger-blending
 on words the children already know, and cluster blending
 in Unit 6; the work is the teacher's, honestly recorded:
 Iraq's primary pupil books carry no phonics programme.
+Ethiopia joined 2026-11-03 with blending inside its
+Grade 1 book itself: Unit 4 blends arm, van, pen, pin,
+sun, sock, worm and web, Unit 5 blends the animal names
+and names reading by blending, and its Grade 1 Teacher's
+Guide blends mat, bad, far and sit in Unit 1.
 Counts grow as other closed countries' books are read.
 
 **Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
@@ -152,3 +160,20 @@ Activity Book itself has no blending, no CVC word-building
 and no decoding strand — reading there stays at whole-word
 recognition — so Iraq's stock here is the Teacher's
 Book's, exactly as filed.
+
+**Ethiopia added 2026-11-03** — two books stock this lesson:
+**Book:** *English for Ethiopia, Grade 1 Student's Book* —
+Ethiopia, Federal Democratic Republic of Ethiopia, Ministry
+of Education. **Book:** *English for Ethiopia, Grade 1
+Teacher's Guide* — Ethiopia, Federal Democratic Republic of
+Ethiopia, Ministry of Education. Both filed in
+english/books/ethiopia.md (Grade 1 — English for Ethiopia
+Student's Book Grade 1 (student's book); Grade 1 — English
+for Ethiopia Teacher's Guide Grade 1 (teacher's guide)
+sections, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+Ethiopia's blending is in the pupil book: Unit 4 (printed
+pp.53–68) blends arm, van, pen, pin, sun, sock, worm and
+web; Unit 5 (printed pp.69–88) blends the animal names and
+works reading by blending. The Teacher's Guide Unit 1
+(printed pp.5–46) blends mat, bad, far and sit in its
+procedures.

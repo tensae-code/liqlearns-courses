@@ -1,6 +1,6 @@
 # Sources for this lesson — How are you?
 
-countries: Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
+countries: Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -26,8 +26,10 @@ Libya (Garnet) · Books verified on disk 2026-10-25.
 | "How are you?" taught properly, with its three answers side by side — "I'm very well, thanks. · I'm fine. · I'm not very well!" — the same three-answer set Libya's Primary 2 book teaches | Iraq — English for Iraq, Grade 2 Pupil and Activity Book, Unit 1, Lesson 5, printed p.9 |
 | The greetings routine of the first year's lessons — "How are you today? — I'm fine, thank you" — carried in the teacher's notes from Lesson 6 | Iraq — English for Iraq, Grade 1 Teacher's Book, Unit 1 notes, printed pp.22–69 |
 | "How are you? — I'm fine, thank you" in the new cast's opening lesson, beside the name exchange | Iraq — English for Iraq, Grade 3 Pupil's Book, Unit 1, Lesson 1, printed p.6 |
+| A greetings-and-small-talk dialogue chain — "How's everything? What are you up to now? What's up? How are you holding up?" | Ethiopia — English for Ethiopia, Grade 4 Student's Book, Unit 7 speaking, printed pp.96–97 |
+| The well-being answer with its return question — "I'm good. What about you?" (citation anchor) | Ethiopia — English for Ethiopia, Grade 1 Student's Book, printed p.16 |
 
-**Acceptance count: taught in 9 countries (Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
+**Acceptance count: taught in 10 countries (Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 China joins with the exchange itself in its first primary book
 (Grade 3 Volume 1) and deepens it three years later into feelings
 talk — "How do you feel?", "What's wrong?" (Grade 6 Volume 1).
@@ -48,7 +50,12 @@ in this file beside Libya's: its Grade 2 book teaches
 the question with the same three answers (very well /
 fine / not very well), its Grade 1 Teacher's Book runs
 it as the daily greetings routine with "today," and its
-Grade 3 book re-opens on it. Nicaragua's filed
+Grade 3 book re-opens on it. Ethiopia joined
+2026-11-03 with the question grown into small talk —
+a Grade 4 dialogue chain of "How's everything? /
+What's up? / How are you holding up?" — and a Grade 1
+answer with its return question, "I'm good. What about
+you?" Nicaragua's filed
 greeting material teaches hello, names and goodbye — not this
 question — so it is not counted here; Indonesia's filed books
 likewise teach no "How are you?" exchange (their feelings set in
@@ -186,3 +193,22 @@ at printed p.9) — the same three-answer set Libya's
 Primary 2 book teaches in this file; and again in
 Grade 3's opening lesson, "How are you? — I'm fine,
 thank you" (printed p.6).
+
+**Ethiopia added 2026-11-03** — two books stock this
+lesson: **Book:** *English for Ethiopia, Grade 4
+Student's Book* — Ethiopia, Federal Democratic Republic
+of Ethiopia, Ministry of Education. **Book:** *English
+for Ethiopia, Grade 1 Student's Book* — Ethiopia,
+Federal Democratic Republic of Ethiopia, Ministry of
+Education. Both filed in english/books/ethiopia.md
+(Grade 4 — English for Ethiopia, Grade 4 Student's Book
+(student's book); Grade 1 — English for Ethiopia
+Student's Book Grade 1 (student's book) sections, FULLY
+READ + CITATION CHECK PASSED 2026-11-03). Ethiopia's
+fullest form is a small-talk chain: Grade 4 Unit 7's
+speaking work (printed pp.96–97) runs "How's
+everything? What are you up to now? What's up? How are
+you holding up?" as one greetings-and-small-talk
+dialogue. Its Grade 1 book carries the answer with its
+return question — "I'm good. What about you?" (printed
+p.16, a citation anchor in the country file).

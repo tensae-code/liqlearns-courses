@@ -1,6 +1,6 @@
 # Sources — The town
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
 
 Every part traces to its book and page.
 
@@ -74,6 +74,10 @@ english/books/jordan.md (Grade 6 Pupil's Book Semester 1 section, FULLY READ + C
 
 **Book 19:** English for Iraq, Grade 9, Student's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 9 — English for Iraq, 3rd Intermediate Student's Book (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 20:** English for Ethiopia, Grade 7 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 7 — English for Ethiopia, Student Textbook (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 21:** English for Ethiopia, Grade 9 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 9 — English for Ethiopia, Student Textbook (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Eight town words on pictures: hospital, school, shop, building, street, car, truck, bus (the hospital shown with its ambulance) | Egypt, Primary 1 Term 2, Unit 5 "Neighborhood," Lesson 1 "Around My Town," p.86 |
@@ -103,9 +107,11 @@ english/books/jordan.md (Grade 6 Pupil's Book Semester 1 section, FULLY READ + C
 | A town asked about whole: shops in the fantasy-world unit, there is / there are questions and short answers with prepositions of place, asking about places in a town, and writing a brochure about your town | Kazakhstan, English Plus Grade 5, Unit 3, printed pp.26–39 (brochure, printed p.33) |
 | A whole town unit: "My town" — park, school, supermarket, cinema, hospital, library on a street scene, with its road-safety rhyme — then the town described and located: "This is my town. There is a supermarket and a cinema, but there isn't a library," with turn left / turn right over a map | Iraq — English for Iraq, Grade 3 Pupil's Book, Unit 6, printed pp.74–89 |
 | Describing places as its own box at intermediate level — There is/are …, It has …, It doesn't have … — worked on a mall, inside the describing-things unit | Iraq — English for Iraq, Grade 9 Student's Book, Unit 1, printed pp.4–17 |
+| Town against country as a reading: "Living in Rural and Urban Areas: Advantages and Disadvantages", with speaking work on talking about where one lives (Ethiopia files no town-places word set and no locating or directions frame in its read — this row is the describing-where-you-live part only, recorded as filed) | Ethiopia — English for Ethiopia, Grade 7 Student's Book, Unit 1, reading at printed p.6 (unit printed pp.1–16) |
+| The big city described as a reading: "Life in a Big City", eight paragraphs on the pros and cons of metro life, with a rural advantages/disadvantages table in the speaking work | Ethiopia — English for Ethiopia, Grade 9 Student's Book, Unit 1, reading printed pp.4–6 (unit printed pp.1–31) |
 
-**Acceptance count: taught in 12 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).** Egypt
+**Acceptance count: taught in 13 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).** Egypt
 carries the first set twice (Primary 1's
 eight words with their dialog; Primary 2's city set);
 Bangladesh carries city life as a topic, against village life;
@@ -116,7 +122,7 @@ neighbourhood on one map, with directions and the position
 set; Iran carries the city described and located whole, and
 the widest pictured places set in this lesson; Sierra Leone
 carries the community word-web and directions by landmarks.
-Jordan carries a town set located and directed in its Grade 3 booster, a whole Our town unit in Grade 4, and the buildings set with the parts of a building in Grade 6; Greece carries the city facilities set with its place phrases in Grade 4, the park and road signs of its Around the City unit, and directions over real maps in Grade 5; Kazakhstan carries the town buildings in its Grade 3 Express buildings module, the town set with directions language in its Grade 3 Macmillan Dictionary, and a town asked about and written up as a brochure in Grade 5 English Plus; Iraq carries a whole My town unit in Grade 3 — six town places on a street scene, the town described with there is / there isn't and directed over a map — and describing places as its own box in Grade 9 book; Other
+Jordan carries a town set located and directed in its Grade 3 booster, a whole Our town unit in Grade 4, and the buildings set with the parts of a building in Grade 6; Greece carries the city facilities set with its place phrases in Grade 4, the park and road signs of its Around the City unit, and directions over real maps in Grade 5; Kazakhstan carries the town buildings in its Grade 3 Express buildings module, the town set with directions language in its Grade 3 Macmillan Dictionary, and a town asked about and written up as a brochure in Grade 5 English Plus; Iraq carries a whole My town unit in Grade 3 — six town places on a street scene, the town described with there is / there isn't and directed over a map — and describing places as its own box in Grade 9 book; Ethiopia carries only the describing side of this lesson — town against country in its Grade 7 reading "Living in Rural and Urban Areas: Advantages and Disadvantages" with speaking on where one lives, and the big city described in its Grade 9 reading "Life in a Big City" — no town-places word set, locating frame or directions work is filed for Ethiopia, and none is claimed here; Other
 closed countries join as their books are read (see
 READING-QUEUE.md).
 

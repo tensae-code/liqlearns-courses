@@ -1,6 +1,6 @@
 # Sources — Describing words in a sentence
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
 
 Every part traces to its book and page.
 
@@ -96,6 +96,9 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 19:** Kazakhstan Excel for Kazakhstan, Grade 5: Student's Book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 5 — Excel for Kazakhstan Grade 5, Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 20:** Kazakhstan English Plus, Grade 6: Student's Book (student book) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 6 — English Plus Grade 6 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 21:** Kazakhstan Full Blast! for Kazakhstan, Grade 6: Student's Book (student book) — Kazakhstan, MM Publications. Filed in english/books/kazakhstan.md (Grade 6 — Full Blast! for Kazakhstan, Grade 6 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 22:** English for Ethiopia, Grade 7 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 7 — English for Ethiopia, Student Textbook (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 23:** English for Ethiopia, Grade 8 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 8 — English for Ethiopia, Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 24:** English for Ethiopia, Grade 11 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 11 — ENGLISH / STUDENT TEXTBOOK / GRADE 11 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -129,10 +132,13 @@ CITATION CHECK PASSED 2026-11-03).
 | Adjective order stated as a LOOK box — size → colour → material (a big black leather sofa) — then used to colour and describe a room in writing and to mine two present-buying texts for a Presents/Colour/Material table | Iraq — English for Iraq, Grade 6 Activity Book, Unit 2, printed pp.20–35 ("Look at the order of adjectives", printed p.21) and Unit 7, printed pp.88–103 |
 | Adjective order for descriptions as the opening unit's table — Opinion–Size–Age–Shape–Colour–Origin–Material — in the Round up, restated in the Grammar and functions reference | Iraq — English for Iraq, Grade 9 Student's Book, Unit 1, printed pp.4–17 (Round up, printed p.13; reference, printed pp.111–119) |
 | Adjective order taught again at preparatory level, in the endangered-animals lesson: a general adjective before a colour adjective | Iraq — English for Iraq, Grade 11 Student's Book, Unit 3, printed p.34 (Unit 3, printed pp.34–45) |
+| Descriptive writing with appearance and personality adjectives — describing people in writing with describing words in sentences | Ethiopia, English for Ethiopia Grade 7 Student's Book, Unit 9 Writing, printed pp.120–133 |
+| Adjectives and adverbs as a grammar point — adjective + -ly, the -ly adjectives, and the irregular adverb forms | Ethiopia, English for Ethiopia Grade 8 Student's Book, Unit 10, printed pp.138–141 (unit printed pp.131–142) |
+| Adjectives for descriptive writing as the AI unit's writing work | Ethiopia, English for Ethiopia Grade 11 Student's Book, Unit 10 Writing, printed pp.253–272 |
 
-**Acceptance count: taught in 12 countries (Bangladesh,
+**Acceptance count: taught in 13 countries (Bangladesh,
 Egypt, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).** Bangladesh pictures the before-home in
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).** Bangladesh pictures the before-home in
 eight pairs; Mongolia names the describing law, writes the
 sense-verb home, and posts the comparing border — and its
 Grade 5 picture book now adds describing stock in pictures
@@ -150,7 +156,7 @@ and compares adjectives and adverbs in JSS 3;
 Jordan seats adjectives inside have-got sentences in
 Grade 3, builds its comparatives system in Grade 4,
 and adds comparative adverbs and the sense verbs in
-Grade 6. Greece seats sense verbs + adjective at Grade 5, builds comparatives and superlatives there and runs comparison — adjectives, as…as and adverbs — through a whole Grade 6 unit, restating the system at Grade 8. Kazakhstan names adjective position at Grade 5, makes it the writing point of a Grade 6 town description, and states the stacking order — opinion, size/length, type, colour — in its Grade 6 Full Blast!. Iraq states adjective order three times over: size → colour → material as a Grade 6 Activity Book LOOK box, the full Opinion–Size–Age–Shape–Colour–Origin–Material table in its Grade 9 Student's Book, and general-before-colour again in Grade 11. Other closed countries join as their books are read
+Grade 6. Greece seats sense verbs + adjective at Grade 5, builds comparatives and superlatives there and runs comparison — adjectives, as…as and adverbs — through a whole Grade 6 unit, restating the system at Grade 8. Kazakhstan names adjective position at Grade 5, makes it the writing point of a Grade 6 town description, and states the stacking order — opinion, size/length, type, colour — in its Grade 6 Full Blast!. Iraq states adjective order three times over: size → colour → material as a Grade 6 Activity Book LOOK box, the full Opinion–Size–Age–Shape–Colour–Origin–Material table in its Grade 9 Student's Book, and general-before-colour again in Grade 11. Ethiopia stocks the describing-writing parts only: descriptive writing with appearance and personality adjectives in Grade 7, adjectives and adverbs as grammar in Grade 8, and adjectives for descriptive writing again in Grade 11 — it adds no adjective-order table, sense-verb home or comparatives system to this lesson. Other closed countries join as their books are read
 (see READING-QUEUE.md).
 
 **Laos Grade 4 added 2026-10-27** — *English for Lao Primary

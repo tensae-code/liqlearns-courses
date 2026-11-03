@@ -1,6 +1,6 @@
 # Sources — Food and fruit
 
-countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
+countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
 
 Every part traces to its book and page.
 
@@ -124,6 +124,10 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 
 **Book 29:** English for Iraq, Grade 5, Pupil's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 5 — English for Iraq 5th Primary Pupil's Book (pupil's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 30:** English for Ethiopia, Grade 2 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 2 — English for Ethiopia Student's Book Grade 2 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 31:** English for Ethiopia, Grade 4 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 4 — English for Ethiopia, Grade 4 Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Listen and repeat: breakfast, lunch, dinner, eat, drink" — with the breakfast plate pictured: egg, cheese, beans, and a glass of milk | Egypt, Primary 1 Term 2, Unit 1 "My Week," p.15 |
@@ -159,9 +163,13 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | The fruit set with the like frame: banana, pear, mango, grapes, plum, watermelon, dates, lemon, apple, orange — "I like pears. / I don't like bananas." and "What's your favourite fruit?" — then the café set (soup, sandwich, pizza, milk, tea, water, juice, cake, ice-cream) with offers: "Do you want an orange? — Yes, please. / No, thank you." | Iraq — English for Iraq, Grade 2 Pupil and Activity Book, Unit 2, printed pp.14–23 |
 | Food a year later with likes and wants: ice-cream, cake, apples, rice, fish, bread, peas, chicken with the "I like …" chant, then cola, jelly, soup, milk with "Do you want some bread? — No, thanks. I don't like bread." | Iraq — English for Iraq, Grade 3 Pupil's Book, Unit 2, printed pp.22–37 |
 | Shopping quantities as container phrases — loaf of bread, bunch of carrots, bottle of water, bag of rice, tin of beans, a box of eggs — with "Can I have some peas, please?"; then countable against uncountable food in Grade 5, with the same containers (a box of chocolates, a tin of lemonade) | Iraq — English for Iraq, Grade 3 Pupil's Book, Unit 7, printed pp.90–105; Grade 5 Pupil's Book, Unit 5, printed pp.58–73 |
+| Food crops sorted into vegetables, fruits, legumes, cereals and root vegetables — maize, wheat, tomatoes, avocado, cabbage, beans, pineapple, lentils, carrot — with third-person likes ("She likes potato", "She does not like cabbage") | Ethiopia, Grade 2 Student's Book, Unit 5 "Food Crops," printed pp.73–80 |
+| The healthy-food set — grains, milk, cheese, yogurt, meat, egg, fish, nuts, fruits, vegetables — with likes and dislikes ("I like eating rice") and a healthy-food poem as the reading text | Ethiopia, Grade 2 Student's Book, Unit 6 "Foods," printed pp.81–94 |
+| Fruit names inside the first likes work — "Do you like banana?" | Ethiopia, Grade 2 Student's Book, Unit 1 "Our Surroundings," printed p.15 |
+| Vegetable names matched to pictures — onion, carrot, tomato, potato, lettuce, cauliflower, garlic, pea — inside a healthy-eating unit | Ethiopia, Grade 4 Student's Book, Unit 5 "Vegetables," printed pp.66–82 |
 
-**Acceptance count: taught in 12 countries (Bangladesh, Egypt,
-Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).**
+**Acceptance count: taught in 13 countries (Bangladesh, Egypt,
+Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).**
 Egypt carries the meals and the breakfast plate;
 Bangladesh carries the like-exchange and the healthy sorting;
 Palestine carries the fruit set with its a/an pair and the
@@ -173,6 +181,6 @@ set with counting, and two full vegetable sets with likes and
 dislikes; Iran carries favourite food and drink as the talk
 itself, and a country's eating habits sorted into a table;
 Sierra Leone carries foods categorised from a poem, and
-favourite foods as the pupils' own writing. Jordan carries the first food set with I like in Grade 1, two sets with Do you like…? in Grade 2, the picnic set with food shopping in Grade 4, and food with containers, prices and ordering in Grade 8; Greece carries the food pyramid with its eighteen flashcards in the Grade 2 Workpack, party shopping and sandwich-making in Grade 4, and foods sorted by health with their containers in Grade 7 Beginners; Kazakhstan carries the first food set with I like / I don't like in Grade 1 Smiles, a seventeen-word food and drink set sorted good and bad for teeth in its Grade 3 Express book, and healthy against junk food with the container phrases in Grade 4 Smiles; Iraq carries the ten-word fruit set with I like / I don't like and the café set with offers in Grade 2, the food sets with likes and wants in Grade 3, and the container phrases there and again with countable against uncountable food in Grade 5; Other closed
+favourite foods as the pupils' own writing. Jordan carries the first food set with I like in Grade 1, two sets with Do you like…? in Grade 2, the picnic set with food shopping in Grade 4, and food with containers, prices and ordering in Grade 8; Greece carries the food pyramid with its eighteen flashcards in the Grade 2 Workpack, party shopping and sandwich-making in Grade 4, and foods sorted by health with their containers in Grade 7 Beginners; Kazakhstan carries the first food set with I like / I don't like in Grade 1 Smiles, a seventeen-word food and drink set sorted good and bad for teeth in its Grade 3 Express book, and healthy against junk food with the container phrases in Grade 4 Smiles; Iraq carries the ten-word fruit set with I like / I don't like and the café set with offers in Grade 2, the food sets with likes and wants in Grade 3, and the container phrases there and again with countable against uncountable food in Grade 5; Ethiopia carries food crops sorted into vegetables, fruits, legumes, cereals and root vegetables and the healthy-food set in Grade 2, and vegetable names matched to pictures in Grade 4; Other closed
 countries join as their
 books are read (see READING-QUEUE.md).

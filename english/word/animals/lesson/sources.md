@@ -1,6 +1,6 @@
 # Sources — Animals
 
-countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
+countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
 
 Every part traces to its book and page.
 
@@ -106,6 +106,14 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 2 section, FULLY READ + C
 
 **Book 25:** English for Iraq, Grade 3, Pupil's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 3 — English for Iraq, 3rd Primary, Pupil's Book (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 26:** English for Ethiopia, Grade 1 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 1 — English for Ethiopia Student's Book Grade 1 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 27:** English for Ethiopia, Grade 6 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 6 — English for Ethiopia, Grade 6 Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 28:** English for Ethiopia, Grade 7 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 7 — English for Ethiopia, Student Textbook (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 29:** English for Ethiopia, Grade 8 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 8 — English for Ethiopia, Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The farm dialog (Noor and Ziad): "Look at the cow!" — "The cow is big." — "The duck is small." — "Do you see the horse?" — "The chicken is small." — "I love farm animals!" | Egypt, Primary 1 Term 1, Unit 5 "On the Farm," Lesson 1, p.85 |
@@ -140,10 +148,14 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 2 section, FULLY READ + C
 | The zoo set for the youngest learners: camel, spider, zebra, with the elephant, tiger, lion, monkey, penguin, goat, horse, rabbit, fish and snake met earlier — counted in grids ("How many red birds?"), matched as whole written words, and located ("Where's the blue tiger? — In the bag") | Iraq — English for Iraq, Grade 1 Pupil and Activity Book, Unit 5 "At the zoo," printed pp.40–49 |
 | The animal set a book later, sorted by what it can do: frog, mouse, cow, camel, hen, donkey, snake, bee, dog, goat — through a printed yes/no decision-tree (Can it fly? Can it run? Can it climb? Can it jump?) to "Is it a bee? — Yes." | Iraq — English for Iraq, Grade 3 Pupil's Book, Unit 2, printed pp.22–37 |
 | The wild set: monkey, parrot, crocodile, lion, elephant, shark, frog, fish — with their body words beak, wing, tail, leg, foot for a listen-and-find, then the same animals caught doing things in the present continuous | Iraq — English for Iraq, Grade 3 Pupil's Book, Unit 7, printed pp.90–105 |
+| The ten-animal domestic set — donkey, horse, camel, goat, sheep, dog, ox, cat, hen, cow — with likes and favourites and counting animals with "There is … / There are …" | Ethiopia, Grade 1 Student's Book, Unit 5 "Domestic Animals," printed pp.69–88 |
+| Farm animals at work — the work done by oxen, horses and donkeys, their products, manure and hides — closing in a short descriptive paragraph about an animal | Ethiopia, Grade 6 Student's Book, Unit 4 "Animals," contents pp.90–111 |
+| The endemic animals compared from a table — Gelada, Walia Ibex, Ethiopian wolf, Mountain Nyala — with the reading "Endemic Wild Animals in Ethiopia" | Ethiopia, Grade 7 Student's Book, Unit 4 "Endemic Animals in Ethiopia," printed pp.45–58 |
+| The endemic set as a reading — "The five endemic animals of Ethiopia" — inside the animal-conservation unit | Ethiopia, Grade 8 Student's Book, Unit 4 "Animal Conservation," printed pp.38–58 |
 
-**Acceptance count: taught in 13 countries (Bangladesh, Egypt,
+**Acceptance count: taught in 14 countries (Bangladesh, Egypt,
 Libya, Palestine, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).** Egypt carries the farm four with the first
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).** Egypt carries the farm four with the first
 size pair; Palestine carries the youngest learners' set;
 Bangladesh carries homes and foods as whole sentences; Libya
 carries the wild names inside its letter list; China carries
@@ -153,5 +165,5 @@ photographs and the farm in one whole scene; Indonesia
 carries the zoo set sorted into the five animal classes;
 Iran carries the endangered set and where each survives;
 Sierra Leone carries forest animals and where they are, and
-the article board set. Jordan carries the wild eight for the youngest learners, the pet set described by its parts with Jordan's own oryx, the farm and wild sets with can-questions, and the animals-in-danger set; Greece carries the guessing animals and the pet poster in the Grade 2 Workpack, the pet and farm set with the sea turtle and monk seal in Grade 4, and the animals-in-danger entries in Grade 7 Beginners; Kazakhstan carries the pet set with big/small in Grade 1 Smiles, a whole Animals module classifying mammal, reptile and bird with riddles in Grade 3 Smiles, and farm and wild animals with their body parts and habitats in its Grade 4 Express book; Iraq carries the zoo set counted and located in Grade 1, the animal set sorted by a can-decision-tree in Grade 3, and the wild set with its body words in the same book; Other finished
+the article board set. Jordan carries the wild eight for the youngest learners, the pet set described by its parts with Jordan's own oryx, the farm and wild sets with can-questions, and the animals-in-danger set; Greece carries the guessing animals and the pet poster in the Grade 2 Workpack, the pet and farm set with the sea turtle and monk seal in Grade 4, and the animals-in-danger entries in Grade 7 Beginners; Kazakhstan carries the pet set with big/small in Grade 1 Smiles, a whole Animals module classifying mammal, reptile and bird with riddles in Grade 3 Smiles, and farm and wild animals with their body parts and habitats in its Grade 4 Express book; Iraq carries the zoo set counted and located in Grade 1, the animal set sorted by a can-decision-tree in Grade 3, and the wild set with its body words in the same book; Ethiopia carries the ten-animal domestic set with There is… / There are… counting in Grade 1, farm animals in Grade 6, and the endemic animals — Gelada, Walia Ibex, Ethiopian wolf and Mountain Nyala compared in Grade 7, with a five-endemic-animals reading in Grade 8; Other finished
 countries join as their books are read (see READING-QUEUE.md).

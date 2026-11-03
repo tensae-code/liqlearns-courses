@@ -1,6 +1,6 @@
 # Sources for this lesson — Two-letter sounds
 
-countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
+countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The two-letter sets lived inside the alphabet
@@ -49,8 +49,9 @@ single letters.
 | The second Top Stars year: **ea / ee** (reads, eats; feeds) · **ng / nk** (dancing; pink) · **ar / or** (shark, park; horse) · **ow** in both its sounds (window, slowly against cow, down); and **silent letters** (Wednesday, night, half, ballet) as the Module 7 phonics slot | Kazakhstan — Top Stars Grade 4 Student's Book, Module 2, printed pp.18–27; Module 3, printed pp.30–39; Module 6, printed pp.66–75; Module 8, printed pp.90–99; Module 7, printed pp.78–87 |
 | A systematic digraph strand in the workbook — **oo, sh, ch, th, ee, ck, ng** taught as star/jigsaw pages (oo: food, moon, spoon, school · sh: shelf, shirt, fish, shoes, shark, shop · ck: sock, tick, black, chicken · ng: sing, wing, king, ring) | Iraq — English for Iraq, Grade 3 Activity Book, Units 3–7, printed pp.48–115 (oo and sh in Unit 3; ch in Unit 4, printed pp.64–67; th and ee in Unit 5; ck in Unit 6; ng in Unit 7) |
 | **sh / ch / ph** on one phonics page (shop, chair, elephant, shirt, cheese, Euphrates, phone, photo), and **ee / ea** making the same sound (sea, see, cheese, teacher, happy, bee) | Iraq — English for Iraq, Grade 4 Activity Book, Unit 3, printed pp.36–51; Unit 5, printed pp.56–71 |
+| **th** in both its sounds — /θ/ against /ð/ — taught as a pronunciation strand with a poem and tongue twisters (Ethiopia stocks ONLY this th part of the lesson: it has no digraph system and no other pair is claimed from it) | Ethiopia — English for Ethiopia, Grade 7 Student Textbook, Unit 1, printed pp.1–16 (pronunciation strand) |
 
-**Acceptance count: taught in 11 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).**
+**Acceptance count: taught in 12 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).**
 China adds the first r-controlled-vowel ladder taught as a named
 system (Grade 4 Volume 2), a run of one-pair-per-page Let's spell
 lessons across Grades 5–6 (ea/ee, ow/ou, oo, ch/sh, th, ng/nk,
@@ -81,6 +82,10 @@ primary pupil books lack: the Grade 3 Activity Book
 teaches oo, sh, ch, th, ee, ck and ng as its phonics
 pages, and the Grade 4 Activity Book adds sh/ch/ph and
 ee/ea.
+Ethiopia joined 2026-11-03 for the th part only: its
+Grade 7 book teaches the two th sounds /θ/–/ð/ as a
+pronunciation strand, and no digraph ladder or other
+pair is claimed from Ethiopia.
 Counts grow as other closed countries' books are read.
 
 **Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
@@ -403,3 +408,18 @@ works sh, ch and ph on one phonics page (Unit 3, printed
 pp.36–51) and ee and ea making the same sound (Unit 5,
 printed pp.56–71). (The same books' consonant blends
 are a different thing and live in phonics/blends.)
+
+**Ethiopia added 2026-11-03** — one book stocks this
+lesson, and only in part: **Book:** *English for
+Ethiopia, Grade 7 Student Textbook* — Ethiopia, Federal
+Democratic Republic of Ethiopia, Ministry of Education.
+Filed in english/books/ethiopia.md (Grade 7 — English
+for Ethiopia, Student Textbook (student's book) section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03). PARTIAL
+STOCK, recorded as such: Ethiopia has no digraph system
+— no book in its filed read presents ch, sh, ee, oo and
+the rest as spelling pairs in a lesson — and the only
+part of this lesson it teaches is the th part: Unit 1
+(printed pp.1–16) carries a pronunciation strand on the
+two th sounds /θ/–/ð/, with a poem and tongue twisters.
+No other pair is claimed from Ethiopia.

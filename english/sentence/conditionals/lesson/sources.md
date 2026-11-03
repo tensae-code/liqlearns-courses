@@ -1,6 +1,6 @@
 # Sources — Conditionals
 
-countries: Egypt, Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
+countries: Egypt, Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
 
 Every part traces to its book and page.
 
@@ -86,6 +86,12 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 **Book 25:** English for Iraq, Grade 10, Student's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 10 — English for Iraq, 4th Preparatory Student's Book (Student's Book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 26:** English for Iraq, Grade 11, Student's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 11 — English for Iraq, 5th Preparatory Student's Book (Student's Book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 27:** English for Iraq, Grade 12, Student's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 12 — English for Iraq, 6th Preparatory Student's Book (Student's Book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 28:** English for Ethiopia, Grade 6 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 6 — English for Ethiopia, Grade 6 Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 29:** English for Ethiopia, Grade 8 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 8 — English for Ethiopia, Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 30:** English for Ethiopia, Grade 9 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 9 — English for Ethiopia, Student Textbook (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 31:** English for Ethiopia, Grade 10 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 10 — ENGLISH FOR ETHIOPIA / STUDENT TEXTBOOK / GRADE 10 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 32:** English for Ethiopia, Grade 11 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 11 — ENGLISH / STUDENT TEXTBOOK / GRADE 11 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 33:** English for Ethiopia, Grade 12 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 12 — ENGLISH STUDENT TEXTBOOK GRADE 12 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -135,9 +141,18 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | The first conditional on the endangered-animals factfiles; the second conditional through the magazine interview "If you were in trouble …", with "If I were you, I wouldn't worry" for advice | Iraq, English for Iraq Grade 11, Student's Book, Unit 3, Lesson 2, printed p.35, and Unit 5, Lessons 5–7, printed pp.60–62 |
 | The complete system 0–3 in one unit: the zero and first conditional box in the careers-advisor interview, the second conditional box in "If you could choose any job …", the third taught through the film director's account of the careers he nearly had, and wish / if only + past perfect for regrets — all four structures tabulated together in the Reference | Iraq, English for Iraq Grade 12, Student's Book, Unit 3, printed pp.26–33; Grammar and Functions Reference, printed pp.79–84 |
 | The split, stated plainly: Iraq's system stops at the four plain types — no mixed conditionals as a category, and no inverted conditionals, anywhere in the Iraq set | Iraq, English for Iraq, the whole set as filed in english/books/iraq.md (series verdict and the Grade 11–12 honest negatives) |
+| Conditional Type I — Ethiopia's Grade 6 conditional ladder starts here, with no Type 0 in Grade 6 | Ethiopia, English for Ethiopia Grade 6 Student's Book, Unit 8, anchor at printed folio 191 |
+| Conditional Type II | Ethiopia, English for Ethiopia Grade 6 Student's Book, Unit 9, contents p.210 |
+| Conditional Type III | Ethiopia, English for Ethiopia Grade 6 Student's Book, Unit 10, contents p.236 |
+| Conditionals I and II | Ethiopia, English for Ethiopia Grade 8 Student's Book, Unit 9, printed pp.127–129 |
+| Zero and first conditionals, with all four types surveyed in the introduction | Ethiopia, English for Ethiopia Grade 9 Student's Book, Unit 4, printed pp.86–105 |
+| Second and third conditionals, with a summary table of all four types | Ethiopia, English for Ethiopia Grade 9 Student's Book, Unit 5, printed pp.106–122 |
+| Conditionals type 0, 1, 2 and 3 systematised in one unit | Ethiopia, English for Ethiopia Grade 10 Student's Book, Unit 7, printed pp.175–216 |
+| Conditional clauses — zero, I, II, III in a full table, with unless for if…not and inversion of the third conditional ("Had I known you before…") | Ethiopia, English for Ethiopia Grade 11 Student's Book, Unit 6, printed p.159 (unit printed pp.141–164) |
+| "Tense Balance in Conditional Sentences" — conditionals revised systematically across zero/I/II/III | Ethiopia, English for Ethiopia Grade 12 Student's Book, Unit 3, printed p.66 area (unit printed pp.54–73) |
 
-**Acceptance count: taught in 11 countries (Egypt,
-Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).** Libya names the zero and first at
+**Acceptance count: taught in 12 countries (Egypt,
+Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).** Libya names the zero and first at
 Grade 9 and completes the set in its reference;
 Mongolia tables zero and first, teaches the first with
 unless, and reaches the second at Grade 10; Egypt
@@ -155,7 +170,7 @@ JSS3; Jordan meets the first conditional at Grade 6,
 teaches zero, first and second together and the third
 (with wish/if only regrets) at Grade 10, adds mixed
 conditionals at Grade 11, and recaps the whole 0–3
-system in Grade 12's Grammar Reference. Greece's split stands plainly: primary teaches Types 1 and 2 only; the Grade 8 streams add Type 0 and unless; Grade 9's ceiling is Types 1–2 (no Type 0 as a named form, no Type 3, no mixed); and the system is completed only at Grade 10, where Αγγλικά 1 tables Types 0–3, adds mixed conditionals, the if-alternatives and inverted conditionals. Kazakhstan's system is filed as Types 0–3 across the set, and the split by series stands plainly: Excel Grade 7 tables zero, first and second on one spread and Excel Grade 9 tables Types 1–3 with wishes; English Plus holds the third conditional back to its Grade 9 Unit 9, long after first and second; Full Blast! works Types 0/1/2 in Module 7 and the Type 3 a term later in Module 9 — and no Kazakhstan book teaches mixed or inverted conditionals, so the set's ceiling is the four plain types. Iraq climbs the ladder across the whole school: the first conditional boxed at Grade 7, first and second together at Grade 9, zero and first at Grade 10, first (Unit 3) and second (Unit 5) again at Grade 11, and the complete system 0–3 tabulated in Grade 12's Reference with wish/if only — and its split stands plainly too: no mixed conditionals as a category and no inversion anywhere in the Iraq set, so its ceiling is likewise the four plain types. Other closed countries join as their books
+system in Grade 12's Grammar Reference. Greece's split stands plainly: primary teaches Types 1 and 2 only; the Grade 8 streams add Type 0 and unless; Grade 9's ceiling is Types 1–2 (no Type 0 as a named form, no Type 3, no mixed); and the system is completed only at Grade 10, where Αγγλικά 1 tables Types 0–3, adds mixed conditionals, the if-alternatives and inverted conditionals. Kazakhstan's system is filed as Types 0–3 across the set, and the split by series stands plainly: Excel Grade 7 tables zero, first and second on one spread and Excel Grade 9 tables Types 1–3 with wishes; English Plus holds the third conditional back to its Grade 9 Unit 9, long after first and second; Full Blast! works Types 0/1/2 in Module 7 and the Type 3 a term later in Module 9 — and no Kazakhstan book teaches mixed or inverted conditionals, so the set's ceiling is the four plain types. Iraq climbs the ladder across the whole school: the first conditional boxed at Grade 7, first and second together at Grade 9, zero and first at Grade 10, first (Unit 3) and second (Unit 5) again at Grade 11, and the complete system 0–3 tabulated in Grade 12's Reference with wish/if only — and its split stands plainly too: no mixed conditionals as a category and no inversion anywhere in the Iraq set, so its ceiling is likewise the four plain types. Ethiopia stocks conditionals richly: Types I, II and III in Grade 6 (never Type 0 there), I and II in Grade 8, zero and first then second and third with a four-type summary table in Grade 9, types 0–3 systematised in Grade 10, a full zero–III table with unless and third-conditional inversion in Grade 11, and "Tense Balance in Conditional Sentences" revision in Grade 12. Other closed countries join as their books
 are read (see READING-QUEUE.md).
 
 **Laos Grade 9 added 2026-10-27** — *English for Secondary

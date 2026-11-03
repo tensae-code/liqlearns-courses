@@ -1,6 +1,6 @@
 # Sources — First, then, finally
 
-countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
+countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
 
 Every part traces to its book and page.
 
@@ -84,6 +84,9 @@ CITATION CHECK PASSED 2026-11-03).
 
 **Book 16:** English for Iraq, Grade 3, Pupil's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 3 — English for Iraq, 3rd Primary, Pupil's Book (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 17:** English for Iraq, Grade 4, Pupil's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 4 — English for Iraq 4th Primary Pupil's Book (pupil's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 18:** English for Ethiopia, Grade 5 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 5 — English for Ethiopia, Grade 5 Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 19:** English for Ethiopia, Grade 6 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 6 — English for Ethiopia, Grade 6 Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 20:** English for Ethiopia, Grade 9 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 9 — English for Ethiopia, Student Textbook (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -107,9 +110,12 @@ CITATION CHECK PASSED 2026-11-03).
 | The full sequence set carrying a science text: the plant-growth panels told in order — "First, the seed grows a root. Then it grows a shoot. Next, it grows some leaves. After that, it grows a stem. Then it grows more leaves. Finally, it grows a flower." | Iraq, English for Iraq Grade 3, Pupil's Book, Unit 6, Lesson 6, printed p.84 |
 | The sequencers *first, then, after that* worked over the school timetable ("First, it's maths. Then, it's English.") | Iraq, English for Iraq Grade 4, Pupil's Book, Unit 1, Lesson 6, printed pp.6–21 |
 | The instruction sequencers named as the full set — First … Then … Next … After that … Finally … — inside the "Yesterday" lesson's day-ordering work | Iraq, English for Iraq Grade 4, Pupil's Book, Unit 6, printed pp.74–89 |
+| A process paragraph built on its sequencing words — First, Second, Then, After that: jumbled sentences about dressing in a school uniform reordered and rewritten as a process paragraph under those signposts (no "finally" is printed in this work) | Ethiopia, English for Ethiopia Grade 5 Student's Book, Unit 1, Writing "Explaining a process", printed p.32 |
+| Linking words that signpost stages of a process, named as part of the grammar work — the process's stages carried by their linkers | Ethiopia, English for Ethiopia Grade 6 Student's Book, Unit 5, Grammar, contents p.125 |
+| Words of sequence among the connectors taught — the sequence words set inside the connectors work (addition markers and words of sequence) | Ethiopia, English for Ethiopia Grade 9 Student's Book, Unit 2, Grammar: connectors, printed pp.41–44 |
 
-**Acceptance count: taught in 10 countries (Bangladesh,
-Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).** Egypt prints the law and the set;
+**Acceptance count: taught in 11 countries (Bangladesh,
+Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).** Egypt prints the law and the set;
 Mongolia files the family by its grammar name; Bangladesh
 tells its methods under the signposts; China adds the
 dated diary as the model recount, its events sorted before
@@ -139,7 +145,14 @@ the seed's growth told First / Then / Next / After that /
 Finally at printed p.84 — works first, then, after that
 over the Grade 4 timetable, and names the whole
 instruction set (First … Then … Next … After that …
-Finally …) at Grade 4.
+Finally …) at Grade 4;
+Ethiopia stocks the signposts in part — its Grade 5
+process paragraph is built on First, Second, Then,
+After that, its Grade 6 grammar names linking words
+that signpost stages of a process, and its Grade 9
+connectors include words of sequence, but no read
+Ethiopia book prints "finally" in this work, so
+Ethiopia carries no Finally claim.
 Iran was
 checked and adds nothing here: its read books teach no
 first/then/finally signpost set (sequence is carried by

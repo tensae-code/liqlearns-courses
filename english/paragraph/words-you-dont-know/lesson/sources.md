@@ -1,6 +1,6 @@
 # Sources — Words you don't know
 
-countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq
+countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia
 
 Every part traces to its book and page.
 
@@ -71,6 +71,9 @@ CHECK PASSED 2026-11-03).
 **Book 15:** English for Iraq, Grade 7, Teacher's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 7 — English for Iraq, 1st Intermediate Teacher's Book (teacher's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 16:** English for Iraq, Grade 8, Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 8 — English for Iraq, 2nd Intermediate Activity Book (activity book / workbook) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 17:** English for Iraq, Grade 12, Student's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 12 — English for Iraq, 6th Preparatory Student's Book (Student's Book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 18:** English for Ethiopia, Grade 5 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 5 — English for Ethiopia, Grade 5 Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 19:** English for Ethiopia, Grade 11 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 11 — ENGLISH / STUDENT TEXTBOOK / GRADE 11 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 20:** English for Ethiopia, Grade 4 Teacher's Guide — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 4 — English for Ethiopia, Grade 4 Teacher's Guide (teacher's guide), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -92,9 +95,14 @@ CHECK PASSED 2026-11-03).
 | The method stated whole for the teacher — TP V2, working out meaning from context: synonyms, antonyms, explanations, generic terms, contextual clues, word formation, general knowledge | Iraq, English for Iraq Grade 7, Teacher's Book, Introduction, Teaching techniques and procedures, printed pp.13–25 |
 | "Working out meanings" as a named reading tip with a worked example — the "chesterfield" word worked out step by step, then synonym multiple choice (depressed, speechless, cautious, apologetic) | Iraq, English for Iraq Grade 8, Activity Book, Unit 5, Reading tip 7, printed p.71 |
 | Guessing meaning from context named as the banking unit's own vocabulary strand at the top of the school | Iraq, English for Iraq Grade 12, Student's Book, Unit 6, printed pp.54–61 |
+| Accident words worked with their meanings guessed from context — the guessing set as the student's own vocabulary work, in the student's book itself | Ethiopia, English for Ethiopia Grade 5 Student's Book, Unit 3, Vocabulary, printed pp.61–82 |
+| Contextual guessing as the vocabulary work of the accidents unit | Ethiopia, English for Ethiopia Grade 11 Student's Book, Unit 3, Vocabulary, printed pp.64–90 |
+| Guessing from context as the vocabulary work of the global-warming unit | Ethiopia, English for Ethiopia Grade 11 Student's Book, Unit 6, Vocabulary, printed pp.141–164 |
+| Guessing from context as the vocabulary work of the artificial-intelligence unit | Ethiopia, English for Ethiopia Grade 11 Student's Book, Unit 10, Vocabulary, printed pp.253–272 |
+| A guessing-meanings lesson in the teacher's guide — the meanings worked out, not given, inside the Soil unit's lessons | Ethiopia, English for Ethiopia Grade 4 Teacher's Guide, Unit 4, printed p.44 (guide pagination) |
 
-**Acceptance count: taught in 9 countries (Bangladesh,
-Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq).** India's senior books print the
+**Acceptance count: taught in 10 countries (Bangladesh,
+Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia).** India's senior books print the
 command at every unit's head; Bangladesh names the routine;
 Ghana pairs context with word relationships; Libya's texts
 gloss in the line; China coaches the guessing itself, in a
@@ -117,5 +125,11 @@ story in the workbook, states the full method for the
 teacher (contextual clues among seven routes), works a
 "chesterfield" example step by step at Grade 8, and
 names guessing meaning from context as a unit strand
-again at Grade 12. Other closed countries join as their
+again at Grade 12; Ethiopia teaches the guessing in
+the student's books themselves — Grade 5 works its
+accident words with meanings guessed from context,
+Grade 11 returns to contextual guessing in Unit 3
+and to guessing from context in Units 6 and 10, and
+its Grade 4 teacher's guide carries a guessing-meanings
+lesson. Other closed countries join as their
 books are read (see READING-QUEUE.md).

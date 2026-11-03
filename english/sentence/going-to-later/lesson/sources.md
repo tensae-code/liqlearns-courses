@@ -1,6 +1,6 @@
 # Sources — Going to: later
 
-countries: Bolivia, Ghana, Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
+countries: Bolivia, Ghana, Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
 
 Every part traces to its book and page.
 
@@ -81,6 +81,10 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 18:** Kazakhstan English Plus, Grade 5: Student's Book (student book) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 5 — English Plus Grade 5 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 19:** Kazakhstan English Plus, Grade 6: Student's Book (student book) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 6 — English Plus Grade 6 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 20:** Kazakhstan Full Blast! for Kazakhstan, Grade 6: Student's Book (student book) — Kazakhstan, MM Publications. Filed in english/books/kazakhstan.md (Grade 6 — Full Blast! for Kazakhstan, Grade 6 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 21:** English for Ethiopia, Grade 3 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 3 — English for Ethiopia Student's Book Grade 3 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 22:** English for Ethiopia, Grade 5 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 5 — English for Ethiopia, Grade 5 Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 23:** English for Ethiopia, Grade 6 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 6 — English for Ethiopia, Grade 6 Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 24:** English for Ethiopia, Grade 7 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 7 — English for Ethiopia, Student Textbook (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -112,9 +116,13 @@ CITATION CHECK PASSED 2026-11-03).
 | *Going to* for holiday plans with the full paradigm in a "Let's check" box — I'm/you're/he's/we're/they're going to + verb — with transport questions and "It's going to be hot and sunny" | Iraq — English for Iraq, Grade 5 Pupil's Book, Unit 7, printed pp.90–105 |
 | The two futures divided by job in primary's last year: *going to* for plans already agreed (the Mother's Day party email and preparations), *will/won't* for predictions with *I think …* | Iraq — English for Iraq, Grade 6 Pupil's Book, Unit 7, printed pp.90–105 and Units 1 and 5, printed pp.6–21 and 58–73 |
 | *Going to* against *will* stated as one box — the "Talking about the future" box: *be going to* for plans against *will* for certainties, inside two headteacher interviews | Iraq — English for Iraq, Grade 9 Student's Book, Unit 6, printed pp.64–75 |
+| The future — will / is going to / shall / are to in substitution tables contrasting them with the simple present | Ethiopia, English for Ethiopia Grade 3 Student's Book, Unit 9, printed pp.112–126 |
+| The Simple Future with will — affirmative, negative and interrogative | Ethiopia, English for Ethiopia Grade 5 Student's Book, Unit 10, printed pp.256–264 (unit printed pp.241–266) |
+| The future — simple future, going to and present continuous for intention and plan | Ethiopia, English for Ethiopia Grade 6 Student's Book, Unit 3, contents p.69 (grammar, contents p.69) |
+| Going to vs will as the dairy unit's grammar | Ethiopia, English for Ethiopia Grade 7 Student's Book, Unit 5, printed pp.59–72 |
 
-**Acceptance count: taught in 11 countries (Bolivia, Ghana,
-Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).** Bolivia tables going to whole and names its
+**Acceptance count: taught in 12 countries (Bolivia, Ghana,
+Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).** Bolivia tables going to whole and names its
 jobs; Mongolia boxes the will neighbour; Ghana keeps the
 scheduled present as the third future; China adds be going
 to as a full system with its time words, will worked for
@@ -131,7 +139,7 @@ continuous and the timetabled present as futures.
 Greece teaches the future as one three-form system at Grade 5 — going to, arrangements continuous and will — contrasts will with going to by job at Grade 6, and runs all three futures through one Grade 7 unit. Kazakhstan teaches *be going to* in full at Grade 5 — affirmative, negative and questions — and again at Grade 6 beside *will/won't* for predictions, with Full Blast! adding the arrangements-continuous note. No primary Kazakhstan book teaches any future form — the form arrives at Grade 5, in the secondary-style series. Indonesia was checked and adds nothing here: no future
 form is taught in any of its read books — will/going to
 occur only incidentally inside other texts (see
-english/books/indonesia.md, honest negatives). Iraq runs *going to* for plans through its Grade 4 school-trip unit, boxes the full paradigm in Grade 5, divides *going to* plans from *will* predictions in Grade 6, and states the pair as one box — plans against certainties — in its Grade 9 Student's Book. Other finished
+english/books/indonesia.md, honest negatives). Iraq runs *going to* for plans through its Grade 4 school-trip unit, boxes the full paradigm in Grade 5, divides *going to* plans from *will* predictions in Grade 6, and states the pair as one box — plans against certainties — in its Grade 9 Student's Book. Ethiopia sets will / is going to / shall / are to in substitution tables in Grade 3, teaches the simple future with will in Grade 5, groups simple future, going to and the present continuous for intention and plan in Grade 6, and contrasts going to vs will in Grade 7. Other finished
 countries join as their books are read (see
 READING-QUEUE.md).
 
