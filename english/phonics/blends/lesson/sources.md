@@ -1,6 +1,6 @@
 # Sources for this lesson — Blends
 
-countries: Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
+countries: Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -40,8 +40,11 @@ pictures).
 | Opening blends **gr / sl / cr / br**, one blend per unit — gr (grass, grapes) · sl (sleep, slide) · cr (crayon, crow) · br (bread, brain) | Syria — Emar Syrian Series Pupil's Book 3, Units 6–9, printed pp.18–29 |
 | Opening blends **fl / tr / cl / sm** in the year's later units — fl (flute, flower) · tr (truck, trap) · cl (clip, clock) · sm (smile, smart) | Syria — Emar Syrian Series Pupil's Book 3, Unit 19, printed pp.57–59; Unit 21, printed pp.63–65; Unit 22, printed pp.66–68; Unit 24, printed pp.72–74 |
 | The first blend set sorted again in the workbook's second revision — words sorted into **gr / sl / cr / br** jars | Syria — Emar English Series Workbook 3, Revision 2, printed pp.30–32 |
+| Consonant clusters /sk/ /sp/ /st/ as a named pronunciation set inside the travel unit | Nepal — English (Grade 11) (student's book), Unit 19 "Travel and Tourism", printed pp.172–180 ("The Wild Frontier" printed p.172) |
+| Consonant clusters again as a named vocabulary strand in the final unit, beside its word-class chart | Nepal — English Grade 12 (student's book), Unit 20 "Power and Politics", printed pp.170–179 |
+| A teacher note on consonant clusters inside the picnic unit's picture-number puzzle — the student's book's one Nepali teacher note | Nepal — MY ENGLISH BOOK Grade 3 (student's book), Unit 6, printed p.46 |
 
-**Acceptance count: taught in 9 countries (Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria).**
+**Acceptance count: taught in 10 countries (Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal).**
 China joins with blends taught two at a time on Let's spell
 pages in Grade 5 (cl/pl, gr/br) and sorted again in the
 end-of-primary grouping review (Grade 6 Volume 2). Iran joins
@@ -69,6 +72,7 @@ spine — eight opening blends taught one per unit
 pair of example words, and the first set sorted again
 in its Workbook's Revision 2.
 Counts grow as other closed countries' books are read.
+Nepal joined 2026-11-03 with consonant clusters as named work at the top of its course: Grade 11 works the clusters /sk/ /sp/ /st/ inside its travel unit (Unit 19, printed pp.172–180), Grade 12 works consonant clusters again in its final unit (Unit 20, printed pp.170–179), and Grade 3 carries a teacher note on consonant clusters at printed p.46 — clusters named as their own set, not an opening-blend phonics strand, and recorded on those terms.
 
 ### Egypt — Primary 3 Term 1 (read 2026-10-25) — three-letter blends
 Phonics Focus "Three-Consonant Clusters" (p.105): "Words that begin
@@ -276,3 +280,5 @@ cl (Unit 22, printed pp.66–68 — clip, clock) and sm
 (Unit 24, printed pp.72–74 — smile, smart). The
 Workbook's Revision 2 (printed pp.30–32) sorts words
 into gr/sl/cr/br jars.
+
+**Nepal added 2026-11-03** — three books stock this lesson: **Book:** *English (Grade 11)* (student's book) — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Edition 2077 BS (2020 AD). **Book:** *English Grade 12* (student's book) — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, First Edition 2021. **Book:** *MY ENGLISH BOOK Grade 3* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, first edition 2005, reprint 2011, ISBN 978-999-33-708-9-4. All Filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Nepal's blends are consonant clusters, named as such, and they sit at the top of the course: Grade 11, Unit 19, "Travel and Tourism" (printed pp.172–180), works the consonant clusters /sk/ /sp/ /st/ as a named vocabulary/pronunciation set beside its West Nepal travel reading; Grade 12, Unit 20, "Power and Politics" (printed pp.170–179), works consonant clusters again beside its word-class chart. The one primary trace is Grade 3, Unit 6's picture-number puzzle, which carries the book's one Nepali teacher note, on consonant clusters (printed p.46). No opening-blend phonics strand (bl-, cr-, str- taught as reading work) exists in any held Nepal book, and none is claimed here.

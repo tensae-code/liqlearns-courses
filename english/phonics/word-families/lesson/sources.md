@@ -1,6 +1,6 @@
 # Sources for this lesson — Word families
 
-countries: Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria
+countries: Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -39,8 +39,11 @@ pictures).
 | The **-ox** rhyming family — box, fox, ox — taught as a Phonics Corner on rhyming words | Syria — Emar English Series Pupil's Book 1, Phonics Corner 3, printed p.62 |
 | The **-en** rhyming family — pen, hen, ten — taught as a Phonics Corner on rhyming | Syria — Emar English Series Pupil's Book 1, Phonics Corner 4, printed p.78 |
 | Rhyming matching a year up — cat/mat matched as rhymes against the long-vowel cake/lake set (Syria's family work stops at these rhyming corners: no named word-family programme and no further rime families are recorded in the country file, and none is claimed here) | Syria — Emar Syrian Series Pupil's Book 2, Phonics Corner 1, printed p.15 |
+| Rhyming sound sets as unit work — white/kite/night… and hair/care/pair… — rhyme families carried as listening sets, with no named word-family programme (in part, as Syria is above) | Nepal — MY ENGLISH BOOK Grade 3 (student's book), Unit 2, printed pp.10–17 |
+| "Rhyming bingo" among the phonological-awareness games of the activity bank — the guide's own teaching for its own, different workbook (see the guide note in the Nepal section below) | Nepal — My English 1 Teacher's Guide (teacher's guide to a different, unheld workbook), About the Teacher's Guide, printed p.19 |
+| A poem's rhyming words keyed as families — hear/tear/fear/bear/near; rest/nest/breast; hay/day/away; tall/all/small; leaf/grief/relief — the guide's own teaching for its own, different textbook (see the guide note below) | Nepal — TEACHER'S GUIDE: ENGLISH GRADE SIX (teacher's guide to a different, unheld textbook), Unit 13, printed pp.95–100 |
 
-**Acceptance count: taught in 7 countries (Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria).**
+**Acceptance count: taught in 8 countries (Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal).**
 China adds a complete short-vowel cycle inside one volume —
 one Let's spell set per vowel, reviewed as a whole system
 (Grade 3 Volume 2) — the silent-e ladder that turns those
@@ -57,6 +60,7 @@ Grade 1 Phonics Corner on rhyming, with rhyming matching
 (cat/mat) a year up in Grade 2 — no named word-family
 programme is recorded for Syria.
 Counts grow as other closed countries' books are read.
+Nepal joined 2026-11-03 in part only, on rhyming sets: its Grade 3 book carries the rhyme families white/kite/night and hair/care/pair as sound sets (Unit 2, printed pp.10–17), its Grade 1 teacher's guide plays rhyming bingo inside its own programme for a different, unheld workbook (printed p.19), and its Grade 6 teacher's guide keys a poem's rhymes as families (hear/tear/fear/bear/near and four more sets) inside its own unit for a different, unheld textbook (Unit 13, printed pp.95–100); no named word-family programme is recorded for Nepal, and none is claimed here.
 
 **Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
 next-year layers): *English — Primary 2 — Term 1* (MoE Egypt with the
@@ -290,3 +294,5 @@ matches rhymes (cat/mat) against the long-vowel set
 (cake/lake). Syria is counted for those two rhyming
 families and the rhyming matching only, exactly as
 filed.
+
+**Nepal added 2026-11-03** — three books stock this lesson, in part: **Book:** *MY ENGLISH BOOK Grade 3* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, first edition 2005, reprint 2011, ISBN 978-999-33-708-9-4. **Book:** *My English 1 Teacher's Guide* (teacher's guide) — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, First Edition 2020. **Book:** *TEACHER'S GUIDE: ENGLISH GRADE SIX* (teacher's guide) — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Edition 2022. All Filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). PARTIAL STOCK, recorded as such: no held Nepal book runs a named word-family programme. What Nepal carries is rhyming sets. Grade 3, Unit 2 (printed pp.10–17), works the sound sets white/kite/night… and hair/care/pair… — two rhyme families carried as listening sets. The Grade 1 teacher's guide's activity bank plays "Rhyming bingo" (printed p.19) among its phonological-awareness games, and its phonics spine names rhyming among its strands. GUIDE NOTE, recorded exactly as the country file records it: this teacher's guide is NOT the companion of the held Grade 1 student's book — it is the First Edition 2020 guide to the newer integrated-curriculum workbook 'My English Book One', which is not held, and it shares no unit, lesson or page with the held 2003 book. Its stock here is cited for its own teaching only, never as support for the held student's book. The Grade 6 teacher's guide's Unit 13 (printed pp.95–100) keys its poem's rhyming words as families — hear/tear/fear/bear/near; rest/nest/breast; hay/day/away; tall/all/small; leaf/grief/relief. GUIDE NOTE, recorded exactly as the country file records it: this teacher's guide is NOT the companion of the held Grade 6 student's book — it is the Edition 2022 guide to a newer eighteen-unit Grade 6 textbook, which is not held, and not one of its units, texts or keys matches the held 2012 book. Its stock here is cited for its own teaching only, never as support for the held student's book. Nepal is counted for these rhyming sets only, exactly as filed.

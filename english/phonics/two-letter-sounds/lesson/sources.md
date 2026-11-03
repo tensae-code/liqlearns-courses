@@ -1,6 +1,6 @@
 # Sources for this lesson — Two-letter sounds
 
-countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
+countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The two-letter sets lived inside the alphabet
@@ -64,8 +64,11 @@ single letters.
 | **ch** (chair, chicken) | Syria — Emar Syrian Series Pupil's Book 3, Unit 16, printed pp.48–50 |
 | **sh** (ship, mushroom) | Syria — Emar Syrian Series Pupil's Book 3, Unit 17, printed pp.51–53 |
 | The first four patterns sorted and written again in the workbook's first revision — look, match, then write the **oo / ou / oa / ea** patterns | Syria — Emar English Series Workbook 3, Revision 1, printed pp.15–17 |
+| **ee** as a listen-and-repeat sound set — sheep, bean, seat, feet, cheeks — closing the first unit | Nepal — MY ENGLISH BOOK Grade II (student's book), Unit 1, printed pp.1–7 |
+| **oo** sorted by ear in listen-and-repeat pairs (look/pool, boot/pull, foot/full), with the silent-**kn** set (knee, knot, knit, knife), the **ea** set (read, beat, eat, bean, clean) and chalk/walk/talk for the **-alk** set at later unit ends | Nepal — MY ENGLISH BOOK Grade II (student's book), Unit 3, printed pp.13–19; Unit 5, printed pp.26–32; Unit 6, printed pp.33–38; Unit 9, printed pp.51–55 |
+| The diphthongs /ai/ and /eə/ named inside the true companion guide's key to the student's own sound sets (white/kite/night…, hair/care/pair…) | Nepal — Teacher's Guide My English Book - 3 (teacher's guide, true companion), Unit 2, printed pp.9–15; student's book Unit 2, printed pp.10–17 |
 
-**Acceptance count: taught in 14 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria).**
+**Acceptance count: taught in 15 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal).**
 China adds the first r-controlled-vowel ladder taught as a named
 system (Grade 4 Volume 2), a run of one-pair-per-page Let's spell
 lessons across Grades 5–6 (ea/ee, ow/ou, oo, ch/sh, th, ng/nk,
@@ -107,6 +110,7 @@ oo, ou, ea and oa first, then ng, ck, ch and sh among
 the later units — and the Workbook sorts the first four
 patterns again in Revision 1.
 Counts grow as other closed countries' books are read.
+Nepal joined 2026-11-03 in part only: its primary student's books carry no digraph or vowel-pair strand — their two-letter sounds live in short listen-and-repeat sets at unit ends (ee in Grade 2's Unit 1; oo, kn- and ea sets later in the same book) — and its Grade 3 companion guide names the diphthongs /ai/ and /eə/ inside the student's own sound sets; no one-pair-per-lesson strand is recorded for Nepal, and none is claimed here.
 
 **Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
 digraph layer): *English — Primary 2 — Term 1* (MoE Egypt with the
@@ -490,3 +494,5 @@ Revision 1 (printed pp.15–17) sorts and writes the
 oo/ou/oa/ea patterns again. (The same units' consonant
 blends — gr, sl, cr, br and the rest — are a different
 thing and live in phonics/blends.)
+
+**Nepal added 2026-11-03** — three books stock this lesson, in part: **Book:** *MY ENGLISH BOOK Grade II* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, first edition 2004, second edition 2006, reprint 2011, ISBN 978-999-33-708-7-8. **Book:** *MY ENGLISH BOOK Grade 3* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, first edition 2005, reprint 2011, ISBN 978-999-33-708-9-4. **Book:** *Teacher's Guide My English Book - 3* (teacher's guide) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, First edition 2008. All Filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). PARTIAL STOCK, recorded as such: Nepal has no digraph or vowel-pair teaching strand in any held book — the country file states plainly that its primary books carry no phonics programme, their sounds appearing only as short listen-and-repeat word sets at unit ends. Those sets are this lesson's edges, and they are real: Grade 2's Unit 1 closes on the ee set (sheep, bean, seat, feet, cheeks), Unit 3 on oo pairs sorted by ear (look/pool, boot/pull, foot/full), Unit 5 on silent kn- (knee, knot, knit, knife), Unit 6 on ea (read, beat, eat, bean, clean) and Unit 9 on chalk/walk/talk. A year up, Grade 3's Unit 2 sound sets (white/kite/night…, hair/care/pair…, printed pp.10–17) are named in its companion guide as the diphthongs /ai/ and /eə/ (guide Unit 2, printed pp.9–15). This guide IS the true companion of its held student's book — the one matched pair among Nepal's six guides — so its keys are cited as the student's book's own keys. Nepal is counted for these sets only, exactly as filed.

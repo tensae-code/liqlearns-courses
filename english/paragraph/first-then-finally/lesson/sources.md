@@ -1,6 +1,6 @@
 # Sources — First, then, finally
 
-countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
+countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal
 
 Every part traces to its book and page.
 
@@ -93,6 +93,9 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 23:** *English Home Language, Grade 6 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 24:** *English First Additional Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 25:** English Grade 8 (student's book) — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre. Filed in english/books/nepal.md (Grade 8 — ENGLISH Grade 8 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 26:** Teachers' Guide English Grade 9 (teacher's guide) — Nepal, Curriculum Development Centre. Filed in english/books/nepal.md (Grade 9 — Teachers' Guide English Grade 9 (teacher's guide) section, FULLY READ + CITATION CHECK PASSED 2026-11-03). This guide is a DRAFT for an older twenty-unit textbook, NOT the companion of the held Grade 9 student's book, and the held copy is an incomplete excerpt (printed pp.1–25, 55–61, 75–81, 97–103 missing); it is cited below only for its own teaching, in a unit that survives in the held copy.
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Linking words" Tip: "Linking words make the story clear and easy to follow. First, Then, After that, Finally" — the set printed as a writing law | Egypt, Secondary, the writing Tip (p.70 of its book, as filed in the book map) |
@@ -123,9 +126,11 @@ CITATION CHECK PASSED 2026-11-03).
 | A procedure linked with first, afterwards, next, finally — the hutch-cleaning procedure told under its signposts | South Africa, English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks), printed pp.24–25 |
 | A process ordered with First / Then / Afterwards / Thereafter / Before / Finally — the full ordering set at the top of the primary school | South Africa, English Home Language, Grade 6 Workbook 1 (Rainbow Workbooks), printed p.77 |
 | A sequence told with First / Then / Lastly / Finally in the additional-language strand | South Africa, English First Additional Language, Grade 3 Workbook 2 (Rainbow Workbooks), printed p.57 |
+| Sequence markers named as the grammar of giving instructions in a guide's own teaching, worded as such: the Grade 9 teacher's guide — a DRAFT for a different, older twenty-unit textbook, not the held student's book's companion, and held only as an incomplete excerpt — teaches imperatives with sequence markers (first/then/next) in its Unit 6, which survives in the held copy | Nepal, Teachers' Guide English Grade 9, Unit 6, printed pp.49–54 |
+| A process told in its steps as a reading text: "How to Wash Clothes in a Washing Machine", a seven-step instruction text — the method carried in its order, its signposts not named as a set in the student's book | Nepal, English Grade 8, Unit 3, printed pp.25–36 |
 
-**Acceptance count: taught in 12 countries (Bangladesh,
-Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).** Egypt prints the law and the set;
+**Acceptance count: taught in 13 countries (Bangladesh,
+Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal).** Egypt prints the law and the set;
 Mongolia files the family by its grammar name; Bangladesh
 tells its methods under the signposts; China adds the
 dated diary as the model recount, its events sorted before
@@ -163,6 +168,7 @@ that signpost stages of a process, and its Grade 9
 connectors include words of sequence, but no read
 Ethiopia book prints "finally" in this work, so
 Ethiopia carries no Finally claim; South Africa stocks all three words whole — its Grade 4 Home Language book retells a folk tale with first, then, afterwards, finally and retells the hare-and-tortoise race as a sports report under First / Then / Afterwards / Finally, its Grade 5 book links a procedure with first, afterwards, next, finally, its Grade 6 book orders a process with First / Then / Afterwards / Thereafter / Before / Finally, and its Grade 3 First Additional Language Workbook 2 sequences with First / Then / Lastly / Finally.
+Nepal stocks the signposts in part — its Grade 9 teacher's guide, cited for its own teaching only, names sequence markers (first/then/next) as the grammar of giving instructions, and its Grade 8 student's book carries a seven-step washing-machine instruction text in its order — but no read Nepal student's book names the full set, and "finally" is not printed in this work, so Nepal carries no Finally claim.
 Iran was
 checked and adds nothing here: its read books teach no
 first/then/finally signpost set (sequence is carried by
@@ -172,3 +178,5 @@ countries join as their books are read (see
 READING-QUEUE.md).
 
 **South Africa added 2026-11-03** — four books stock this lesson: *English Home Language, Grade 4 Workbook 1*, *English Home Language, Grade 5 Workbook 1*, *English Home Language, Grade 6 Workbook 1* and *English First Additional Language, Grade 3 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. South Africa carries the full set: the Grade 4 Home Language book retells the cumulative folk tale in sequence with first, then, afterwards, finally (printed pp.44–49) and retells the hare-and-tortoise race as a sports report using First/Then/Afterwards/Finally (printed p.108), with a connectives list (printed pp.112–113); the Grade 5 book links a procedure with first, afterwards, next, finally (printed pp.24–25); the Grade 6 book orders a process with First/Then/Afterwards/Thereafter/Before/Finally (printed p.77); and the Grade 3 First Additional Language Workbook 2 sequences with First/Then/Lastly/Finally (printed p.57).
+
+**Nepal added 2026-11-03** — PARTIAL stock, filed exactly as a partial: two books stock this lesson in part: **Book:** *English Grade 8* — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre. **Book:** *Teachers' Guide English Grade 9* — Nepal, Curriculum Development Centre. All filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). The named teaching sits in the guide, **cited for its own teaching only, worded as such**: the Grade 9 teacher's guide is a DRAFT for an older twenty-unit textbook, not the held Grade 9 student's book, and the held copy is an incomplete excerpt — its Unit 6 (printed pp.49–54, which survives) teaches **imperatives with sequence markers (first/then/next)** as the grammar of giving instructions. The Grade 8 student's book carries the process in its order without naming the set: **"How to Wash Clothes in a Washing Machine", a seven-step instruction text** (Unit 3, printed pp.25–36). Stated plainly: no read Nepal student's book names the sequence set, and no "finally" is printed in this work — Nepal carries First/Then/Next, with no Finally claim.

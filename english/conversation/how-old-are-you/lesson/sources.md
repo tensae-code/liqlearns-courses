@@ -1,6 +1,6 @@
 # Sources for this lesson — How old are you?
 
-countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan
+countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -43,8 +43,10 @@ Libya (Garnet) · Books verified on disk 2026-10-25.
 | The exchange re-run a year up in the revision opening, beside the name work — names and age in "Welcome Back" | Syria — Emar Syrian Series Pupil's Book 2, Unit 1, printed pp.3–5 |
 | Age given whole inside full self-introductions — Keji and Lam give name, sex, age eight, Primary Three and a loved subject: "I am eight years old." (South Sudan's filed books print no "How old are you?" question anywhere — giving form only, recorded as such) | South Sudan — Primary English 3, Pupil's Book, Unit 2 "Myself", printed pp.7–13 ("I am eight years old." printed p.7) |
 | The same introductions planned for the teacher, with age named among the introduction's items (name, gender, age, class, loved subject) | South Sudan — English Teacher's Guide 3, Unit 2, printed pp.12–23 (Pupil's Book pp.7–13) |
+| "How old are you? — I'm five/six" and "How old is he/Raju?" as the age unit's frame, with a follow-the-string age-writing exercise (Gita, Hari, Bina, Pemba, Lok, Rita, Anup) | Nepal — MY ENGLISH BOOK Grade I (student's book), Unit 9 "Age and days", printed pp.57–61 |
+| Ages stated whole in a family reading — grandfather 70, grandmother 65, father 35, mother 30, Pukar 6, brother and sister 8 and 9 | Nepal — MY ENGLISH BOOK Grade II (student's book), Unit 3 "Numbers", printed pp.13–19 |
 
-**Acceptance count: taught in 15 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
+**Acceptance count: taught in 16 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 China teaches the exchange in the full "years old" form with
 candle counting (Grade 3 Volume 1) and later ties age to the
 birthday date (Grade 5 Volume 2); North Macedonia practises it
@@ -98,6 +100,7 @@ Leone's filed books likewise state a boy's age ("He is 10
 years old," Primary 1 Term 3, Lesson 146) but never teach the
 question, so Sierra Leone is not counted here. The count grows
 as other closed countries' books are read.
+Nepal joined 2026-11-03 with the question itself in its first book — "How old are you? — I'm five/six" and "How old is he/Raju?" in Grade 1's age unit (Unit 9, printed pp.57–61) — and ages stated whole across a whole family in Grade 2's numbers unit (Unit 3, printed pp.13–19).
 (Pre-existing error fixed in this merge: this paragraph
 previously named Egypt alongside Nicaragua as not counted —
 Egypt is counted, in the countries line, the count and its
@@ -398,3 +401,5 @@ incidental counting, not age teaching — so South Sudan
 is counted for the taught age-giving inside the
 self-introduction only, exactly as Ethiopia is above,
 and not for the question.
+
+**Nepal added 2026-11-03** — two books stock this lesson: **Book:** *MY ENGLISH BOOK Grade I* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur, first edition 2003, reprint 2011, ISBN 978-999-33-714-0-8. **Book:** *MY ENGLISH BOOK Grade II* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, first edition 2004, second edition 2006, reprint 2011, ISBN 978-999-33-708-7-8. Both Filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 1, Unit 9, "Age and days" (printed pp.57–61), is built on the question: "How old are you? — I'm five/six", "How old is he/Raju?", with a follow-the-string age-writing exercise naming Gita, Hari, Bina, Pemba, Lok, Rita and Anup. Grade 2, Unit 3 (printed pp.13–19), states a whole family's ages inside its numbers reading — grandfather 70, grandmother 65, father 35, mother 30, Pukar 6, uncle 30, aunt 25, brother and sister 8 and 9.

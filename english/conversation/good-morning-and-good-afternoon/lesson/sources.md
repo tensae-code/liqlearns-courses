@@ -1,6 +1,6 @@
 # Sources for this lesson — Good morning and good afternoon
 
-countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan
+countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -29,8 +29,11 @@ explains one thing only.
 | "Good morning" among the first greeting formulas of the course — Hello / Good morning / How are you? — I'm fine — practised by listen-and-match in the Workbook (Syria's filed books teach the morning greeting only: no "Good afternoon" greeting is printed anywhere in the Syria read — the phrase "good afternoon" does not occur in english/books/syria.md at all) | Syria — Emar English Series Pupil's Book 1, Unit 1, printed pp.3–5; Emar English Series Workbook 1, Unit 1, printed pp.3–5 ("Good morning." — Workbook 1, printed p.5) |
 | "Good morning" and "Good afternoon" taught as a pair inside one greetings unit — "Good morning, Kenyi." / "Good morning all." / "Good afternoon, John." — with goodbye, good evening and goodnight beside them and a closing picture-matching exercise in which the learner says the greeting that fits each picture | South Sudan — Primary English 1, Pupil's Book, Unit 1 "Greetings", printed pp.1–7 ("Good morning, Kenyi." printed p.1; "Good afternoon, John." printed p.3) |
 | The pair planned as consecutive sections for the teacher — A Good morning, B Good afternoon, then C Goodbye and D Good evening (the guide fixes the evening usage: good evening "after four o'clock to about seven o'clock"), closing with picture-to-greeting matching with expected answers given | South Sudan — Primary English 1, Teacher's Guide, Unit 1, printed pp.5–16 (Pupil's Book pp.1–7) |
+| "Good morning, Miss" — the morning greeting to the teacher, opening the first unit | Nepal — MY ENGLISH BOOK Grade I (student's book), Unit 1 "Starting school", printed pp.1–6 |
+| The time-of-day greetings as one set — good morning / afternoon / evening, good night, goodbye — opening the book (Nepal teaches the pair itself, not the morning half only) | Nepal — MY ENGLISH BOOK Grade II (student's book), Unit 1 "Going to school", printed pp.1–7 ("Good morning, Miss Yadav." printed p.1) |
+| Good morning/goodbye rhymes and greetings practice opening the Foundation phase — the guide's own teaching for its own, different workbook (see the guide note in the Nepal section below) | Nepal — My English 1 Teacher's Guide (teacher's guide to a different, unheld workbook), Lessons 1–5, printed pp.50–96 ("good morning/afternoon class" printed p.52) |
 
-**Acceptance count: taught in 14 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan).**
+**Acceptance count: taught in 15 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal).**
 China teaches the pair inside its colours unit in the first
 primary book; Mongolia stocks the day-part ground the greeting
 stands on — one boy's whole day told in clock pictures — from a
@@ -71,6 +74,7 @@ its own exchange ("Good afternoon, John.", printed
 p.3) beside "Good morning", and its Teacher's Guide
 plans the two as consecutive sections.
 Counts grow as other closed countries' first books are read.
+Nepal joined 2026-11-03 with the pair itself, in full — its Grade 2 book opens on good morning / afternoon / evening and good night as one greeting set (Unit 1, printed pp.1–7), over Grade 1's "Good morning, Miss" (Unit 1, printed pp.1–6); its Grade 1 teacher's guide also practises good morning/afternoon in its own opening lessons, cited for its own teaching as a guide to a different, unheld workbook (Lessons 1–5, printed pp.50–96).
 
 **China added 2026-10-29** — **Book:** *Compulsory Education
 Textbook · English (Grade 3 starting point), Grade 3 Volume 1* —
@@ -293,3 +297,5 @@ and fixes the evening usage: good evening "after four
 o'clock to about seven o'clock" (Unit 1, printed
 pp.5–16). No morning-only limit applies here, and none
 is recorded.
+
+**Nepal added 2026-11-03** — three books stock this lesson: **Book:** *MY ENGLISH BOOK Grade I* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur, first edition 2003, reprint 2011, ISBN 978-999-33-714-0-8. **Book:** *MY ENGLISH BOOK Grade II* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, first edition 2004, second edition 2006, reprint 2011, ISBN 978-999-33-708-7-8. **Book:** *My English 1 Teacher's Guide* (teacher's guide) — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, First Edition 2020. All Filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). FULL STOCK, recorded as such: Nepal is one of the countries in this file that teaches the pair itself. Grade 2, Unit 1 (printed pp.1–7), opens on the time-of-day greetings as one set — good morning / afternoon / evening, good night, goodbye ("Good morning, Miss Yadav." is a citation anchor at printed p.1) — over Grade 1, Unit 1's "Good morning, Miss" (printed pp.1–6). The Grade 1 teacher's guide's Foundation lessons (Lessons 1–5, printed pp.50–96) practise good morning/goodbye rhymes and greetings ("good morning/afternoon class", printed p.52). GUIDE NOTE, recorded exactly as the country file records it: this teacher's guide is NOT the companion of the held Grade 1 student's book — it is the First Edition 2020 guide to the newer integrated-curriculum workbook 'My English Book One', which is not held, and it shares no unit, lesson or page with the held 2003 book. Its stock here is cited for its own teaching only, never as support for the held student's book.

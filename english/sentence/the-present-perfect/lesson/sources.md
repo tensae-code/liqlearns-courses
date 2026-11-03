@@ -1,6 +1,6 @@
 # Sources — The present perfect
 
-countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
+countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal
 
 Every part traces to its book and page.
 
@@ -93,6 +93,10 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 **Book 30:** Emar Student's Book 7 (student's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 7 — Emar Student's Book 7 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 31:** Emar Workbook 7 (workbook) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 7 — Emar Workbook 7 (workbook) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 32:** English Grade 8 (student's book) — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre. Filed in english/books/nepal.md (Grade 8 — ENGLISH Grade 8 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 33:** English Grade 9 (student's book) — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre. Filed in english/books/nepal.md (Grade 9 — ENGLISH Grade 9 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 34:** English (Grade 11) (student's book) — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre. Filed in english/books/nepal.md (Grade 11 — English (Grade 11) (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The tense arrives as the "I've Finished my Work" song (Track 22) — cleaned, washed, swept, painted, tidied, talked — and the participle hunt ("How many different past participles can you find on page 32?") | Libya, Grade 8 Course Book, Unit 3, Lesson 1, p.32 |
@@ -138,9 +142,12 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | The present perfect arriving in Grade 6: first with just and yet in the food unit, then with ever/never and duration with for/since and How long…? in the shopping unit | Syria, English Pupil's Book 6, Unit 11, printed pp.56–59; Unit 12, printed pp.60–63 |
 | The present perfect as its own unit in the secondary ladder's run through the tense system | Syria, Emar Student's Book 7, Unit 5 "Advanced Life," printed pp.31–35 |
 | The present perfect practised with an explicit rule box — the workbook states every grammar point in a rule box, fuller than anything in the Student's Book | Syria, Emar Workbook 7, Unit 5 "Advanced Life," printed pp.20–23 |
+| Present perfect against past simple, in two full grammar passes, with talking about experiences in the tense as the unit's speaking work — Nepal's first present-perfect teaching (no primary book teaches it, and Grade 7 does not teach it as a topic) | Nepal, English Grade 8, Unit 4, printed pp.37–50 |
+| Present perfect taught again at Grade 9, with since/for and "How long…?" beside its continuous twin | Nepal, English Grade 9, Unit 15, printed pp.185–197 |
+| Present perfect against past simple again at Grade 11, with been/gone and "Have you ever…?" experience talk | Nepal, English (Grade 11), Unit 13, printed pp.118–129 |
 
-**Acceptance count: taught in 13 countries (Egypt,
-Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria).** Libya introduces the tense at Grade 8 with the
+**Acceptance count: taught in 14 countries (Egypt,
+Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal).** Libya introduces the tense at Grade 8 with the
 song and the grammar box, guards the no-exact-time rule in
 its Teacher's Book, sets the ever/never/yet/already box at
 Grade 9, and states the whole entry again in its Grammar
@@ -162,7 +169,7 @@ twin at Grade 10 and contrasts the perfect forms whole
 at Grade 12. Greece meets the tense at Grade 5 as the past–present connector with ever / recently / yet / never, contrasts it with the past simple on a timeline there and again at Grades 6–7, and restates it with since/for at Grade 10 EPAL. Kazakhstan teaches the tense whole at Grade 6 — the full paradigm with for/since and the past-simple contrast in Excel, ever/never/just and been against gone in Full Blast! — and stages its questions with ever at Grade 7; no primary Kazakhstan book teaches it. Iraq introduces the tense at Grade 7 for recent completion ("just now, today, this week"), works ever/never and been to in the Grade 7 Activity Book, sets the tense against the past simple with for/since at Grade 8, and rebuilds the whole perfect system at Grade 12. Indonesia was checked
 for this tense on 2026-11-03 and never teaches it (its
 books' own honest negatives say so at Grades 6 and 9).
-Ethiopia teaches the Present Perfect Simple in Grade 5, the Present Perfect Tense in Grade 6, and in Grade 9 teaches it in Unit 8 and contrasts simple past with present perfect, with since/for, in Unit 9. South Africa stocks this tense from a single HL lesson only: the present perfect is introduced once, in the final theme of Grade 6 HL Workbook 1, and no FAL book teaches or names any perfect tense — that single lesson is the whole set's present-perfect teaching. Syria brings the present perfect in at Grade 6 — just/yet first, then ever/never with for/since and How long…? — and runs it again as its own unit in Grade 7, with the rule stated in the Workbook. Other closed countries join as their
+Ethiopia teaches the Present Perfect Simple in Grade 5, the Present Perfect Tense in Grade 6, and in Grade 9 teaches it in Unit 8 and contrasts simple past with present perfect, with since/for, in Unit 9. South Africa stocks this tense from a single HL lesson only: the present perfect is introduced once, in the final theme of Grade 6 HL Workbook 1, and no FAL book teaches or names any perfect tense — that single lesson is the whole set's present-perfect teaching. Syria brings the present perfect in at Grade 6 — just/yet first, then ever/never with for/since and How long…? — and runs it again as its own unit in Grade 7, with the rule stated in the Workbook. Nepal brings the tense in at Grade 8 — present perfect against past simple in two full passes — teaches it again with since/for at Grade 9, and sets it against the past simple with been/gone at Grade 11; no Nepal primary book teaches it. Other closed countries join as their
 books are read (see READING-QUEUE.md).
 
 **Laos Grade 8 added 2026-10-27** — *English for Secondary
@@ -192,3 +199,5 @@ course stocks nothing for that lesson from Laos.
 **South Africa added 2026-11-03** — *DBE Rainbow Workbooks* (Department of Basic Education, South Africa, Sixteenth edition 2026; full read in english/books/south-africa.md). South Africa's present perfect is a single lesson, stated plainly: it is **introduced once, in the final theme of Grade 6 HL Workbook 1** (printed pp.114–115), HL only — **no FAL book teaches or names any perfect tense**, so this one HL lesson is the whole 24-book set's present-perfect teaching.
 
 **Syria added 2026-11-03** — *Emar series* (Syria, Ministry of Education; full read in english/books/syria.md). Syria stocks the present perfect in full: it **arrives in Grade 6 with just and yet** (Pupil's Book 6, Unit 11, printed pp.56–59), then **ever/never with for/since and How long…?** (Unit 12, printed pp.60–63), and runs as **its own unit in Grade 7** (Student's Book 7, Unit 5, printed pp.31–35), with the **rule box in Workbook 7** (Unit 5, printed pp.20–23).
+
+**Nepal added 2026-11-03** — 3 books stock this lesson: **Book:** *English Grade 8* — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre. **Book:** *English Grade 9* — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre. **Book:** *English (Grade 11)* — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre. All filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Nepal brings the tense in late and states its limit plainly: it is **never taught in any held primary book and not as a topic in Grade 7** (forms occur untaught inside Grade 7 readings); it is first taught at **Grade 8, as present perfect against past simple in two full grammar passes** (Unit 4, printed pp.37–50), taught again at **Grade 9 with since/for** (Unit 15, printed pp.185–197), and set against the past simple again at **Grade 11, with been/gone** (Unit 13, printed pp.118–129).

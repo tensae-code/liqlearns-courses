@@ -1,6 +1,6 @@
 # Sources for this lesson — Introducing a friend
 
-countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan
+countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -41,12 +41,15 @@ disk 2026-10-25: %PDF, 190 pp).
 | The same work planned for the teacher — C "She is… and He is…" (he for a boy, she for a girl, explained and practised in threes) and D "My friends" (a recitation naming friends, with what you like in a friend) | South Sudan — Primary English 1, Teacher's Guide, Unit 2, printed pp.17–25 (Pupil's Book pp.8–12) |
 | Introducing a friend as named work — a friend introduced with his/her and what he is good at: "Bol is good at Mathematics. I am good at English. Bol helps me in Mathematics. I help him in English." | South Sudan — Primary English 3, Pupil's Book, Unit 2 "Myself", printed pp.7–13 ("Bol is good at Mathematics." printed p.8) |
 | Introducing friends planned for the teacher, with the same good-at / help-in frames | South Sudan — English Teacher's Guide 3, Unit 2, printed pp.12–23 (Pupil's Book pp.7–13) |
+| "Who is she? She is my friend, Preeti. What is she? She is a student" — a friend presented by name and role | Nepal — MY ENGLISH BOOK Grade II (student's book), Unit 2 "What am I?", printed pp.8–12 ("She is a student." printed p.8) |
+| Introducing others as the first unit's speaking work, with introductions in its listening | Nepal — ENGLISH Grade 7 (student's book), Unit 1, printed pp.1–9 |
+| Introducing others as a unit's speaking task — the guide's own teaching for its own, different textbook (see the guide note in the Nepal section below) | Nepal — TEACHER'S GUIDE: ENGLISH GRADE SIX (teacher's guide to a different, unheld textbook), Unit 1, printed pp.5–11 |
 
 The same dialog also carries the age exchange and the toy-fish
 talk — those parts are filed in their own places (age: english/age/
 how-old-are-you), not here.
 
-**Acceptance count: taught in 14 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan).**
+**Acceptance count: taught in 15 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal).**
 Egypt carries introducing the family — "This is my father /
 mother / sister …" with the "Who's this?" exchange, and a year
 deeper the whole family lineup with my / his / her on family
@@ -103,6 +106,7 @@ Counts grow as other closed countries' books are read.
 (Count corrected 2026-10-29 to match this file's own sections —
 the Egypt sections below were already in the file but missing
 from the count.)
+Nepal joined 2026-11-03: its Grade 2 book presents a friend by name and role — "Who is she? She is my friend, Preeti" (Unit 2, printed pp.8–12) — its Grade 7 book names introducing others as its first unit's speaking work (Unit 1, printed pp.1–9), and its Grade 6 teacher's guide does the same in its own first unit, cited for its own teaching as a guide to a different, unheld textbook (Unit 1, printed pp.5–11).
 
 **Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
 next-year layer): *English — Primary 2 — Term 1* (MoE Egypt with the
@@ -418,3 +422,5 @@ the same introducing-friends work (Unit 2, printed
 pp.12–23). The limit is recorded plainly: no
 nice-to-meet-you introduction answer is printed in the
 filed South Sudan read, and none is claimed here.
+
+**Nepal added 2026-11-03** — three books stock this lesson: **Book:** *MY ENGLISH BOOK Grade II* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, first edition 2004, second edition 2006, reprint 2011, ISBN 978-999-33-708-7-8. **Book:** *ENGLISH Grade 7* (student's book) — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, First Edition 2022, Updated Edition 2025. **Book:** *TEACHER'S GUIDE: ENGLISH GRADE SIX* (teacher's guide) — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Edition 2022. All Filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 2, Unit 2, "What am I?" (printed pp.8–12), presents a third person as a friend: "Who is she? She is my friend, Preeti. What is she? She is a student" ("She is a student." is a citation anchor at printed p.8), beside "What's his name?" work filed next door. Grade 7, Unit 1 (printed pp.1–9), names introducing others as its Speaking work, with introductions in its Listening. The Grade 6 teacher's guide's Unit 1 (printed pp.5–11) likewise names introducing others as its Speaking task. GUIDE NOTE, recorded exactly as the country file records it: this teacher's guide is NOT the companion of the held Grade 6 student's book — it is the Edition 2022 guide to a newer eighteen-unit Grade 6 textbook, which is not held, and not one of its units, texts or keys matches the held 2012 book. Its stock here is cited for its own teaching only, never as support for the held student's book.

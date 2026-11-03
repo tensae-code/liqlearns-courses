@@ -1,6 +1,6 @@
 # Sources — Mine and yours
 
-countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
+countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal
 
 Every part traces to its book and page.
 
@@ -82,6 +82,15 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 22:** English Pupil's Book 5, NCCD edition 2021-2022 (pupil's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 5 — English, Pupil's Book 5, NCCD edition 2021-2022 (pupil's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 23:** English Pupil's Book 6 (pupil's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 6 — English, Pupil's Book 6 (pupil's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+
+**Book 24:** MY ENGLISH BOOK Grade II (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre (CDC), Sanothimi, Bhaktapur. Filed in english/books/nepal.md (Grade 2 — MY ENGLISH BOOK Grade II (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 25:** MY ENGLISH BOOK Grade 3 (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre (CDC), Sanothimi, Bhaktapur. Filed in english/books/nepal.md (Grade 3 — MY ENGLISH BOOK Grade 3 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 26:** Teacher's Guide My English Book - 3 (teacher's guide) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre (CDC), Sanothimi, Bhaktapur. Filed in english/books/nepal.md (Grade 3 — Teacher's Guide My English Book - 3 (teacher's guide) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 27:** MY ENGLISH BOOK Grade V (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre (CDC), Sanothimi, Bhaktapur. Filed in english/books/nepal.md (Grade 5 — MY ENGLISH BOOK Grade V (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 4 "That's Mine" — its objectives seat the genitive 's, possessive adjectives, and possessive pronouns as one ownership unit | Mongolia, English VI, Unit 4 (opens p.41) |
@@ -116,7 +125,11 @@ CITATION CHECK PASSED 2026-11-03).
 | Possessive pronouns as the sports-equipment unit's grammar — mine, yours, his, hers, ours, theirs — asked with "Whose bat is this?" | Syria, NCCD Pupil's Book 5, Unit 15 "Sports Equipment," printed pp.54–56 |
 | Possessive adjectives set against possessive pronouns in the theatre unit — "The ticket is mine" | Syria, English Pupil's Book 6, Unit 2 "At the Theatre," printed pp.12–15 (anchor, printed p.15) |
 
-**Acceptance count: taught in 13 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria).**
+| Mine and yours as pronouns, inside the adjectives unit — "Which one is my doll? That one. Your doll is small. Mine is big" (the filing notes: adjectives only beside them; his/hers are not used as pronouns in this book) | Nepal, Grade 2, Unit 8 "People and things," pp.46–50 ("Mine is big," p.46) |
+| Whose-questions with the pronoun set — mine/hers/yours/his — in a chant and a role play (pen, book, cap, umbrella; "It's Chankhey's"), with 's possessives beside them | Nepal, Grade 3, Unit 4 "WHY ARE YOU LATE?," pp.25–33 ("Whose pen is that?," p.30); keyed in the Grade 3 Teacher's Guide, Unit 4 (printed pp.23–27), the true companion to the held student's book |
+| Possession as the unit's whole grammar — "Whose bag is this? — It is Mina's bag. It is hers" — with the pronoun→possessive table (I/my/mine…) and possessive fill-ins; the set runs mine/hers/his/yours/theirs | Nepal, Grade 5, Unit 8 "Describing possessions," pp.67–74 |
+
+**Acceptance count: taught in 14 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal).**
 Mongolia's "That's Mine" unit carries the whole lesson —
 the 's box, the whose matching, the three-rung box, the
 game; Egypt's youngest books hold the partner forms from
@@ -140,7 +153,7 @@ and pronouns again at Grade 5; Iraq teaches the pronouns
 against the adjectives at Grade 5 — lost luggage at the
 airport in the Pupil's Book, and the stand-alone rule
 stated in the Activity Book's LOOK box, the noun after
-*mine* shown crossed out. Ethiopia teaches possession as a named grammar point in Grade 4 — pronouns and possession with his/her and "Whose…?" — and meets possessive pronouns in a Grade 5 possessives exercise that uses "ours"; it does not table the full standalone mine/yours system. South Africa stocks this lesson in full: Grade 4 HL teaches possessive pronouns with the adjective and pronoun forms contrasted — my/mine, your/yours — Grade 3 HL teaches the possessive pronoun set, and Grade 3 FAL teaches my, your, his, her, its, our, their; the workbook sets present adjective and pronoun forms together under the one possessive heading. Syria teaches the standalone set whole in Grade 5 — mine, yours, his, hers, ours, theirs under a Whose…? question — and sets possessive adjectives against possessive pronouns in Grade 6. Other closed countries join as their
+*mine* shown crossed out. Ethiopia teaches possession as a named grammar point in Grade 4 — pronouns and possession with his/her and "Whose…?" — and meets possessive pronouns in a Grade 5 possessives exercise that uses "ours"; it does not table the full standalone mine/yours system. South Africa stocks this lesson in full: Grade 4 HL teaches possessive pronouns with the adjective and pronoun forms contrasted — my/mine, your/yours — Grade 3 HL teaches the possessive pronoun set, and Grade 3 FAL teaches my, your, his, her, its, our, their; the workbook sets present adjective and pronoun forms together under the one possessive heading. Syria teaches the standalone set whole in Grade 5 — mine, yours, his, hers, ours, theirs under a Whose…? question — and sets possessive adjectives against possessive pronouns in Grade 6. Nepal carries mine and yours from Grade 2's "Mine is big," through Grade 3's whose-chant pronoun set (keyed by its true companion guide), to Grade 5's whole possessions unit with the I/my/mine table; Other closed countries join as their
 books are read (see READING-QUEUE.md).
 
 **Laos Grade 7 added 2026-10-27** — *English for Secondary
@@ -155,3 +168,5 @@ irregular plurals (p.47), and a pronoun → possessive adjective
 **South Africa added 2026-11-03** — *DBE Rainbow Workbooks* (Department of Basic Education, South Africa, Sixteenth edition 2026; full read in english/books/south-africa.md). South Africa stocks mine and yours in full: **possessive pronouns with the adjective and pronoun forms contrasted — my/mine, your/yours — in Grade 4 HL Workbook 1** (printed p.56), the **possessive pronoun set in Grade 3 HL Workbook 2** (printed p.90), and the set **my, your, his, her, its, our, their in Grade 3 FAL Workbook 2** (printed pp.44–45). Note: the workbook sets present adjective and pronoun forms together under the one possessive heading.
 
 **Syria added 2026-11-03** — *Emar series* (Syria, Ministry of Education; full read in english/books/syria.md). Syria stocks mine and yours in full: the **possessive pronouns mine, yours, his, hers, ours, theirs in Grade 5** (NCCD Pupil's Book 5, Unit 15, printed pp.54–56), and **possessive adjectives set against possessive pronouns in Grade 6** — "The ticket is mine" (Pupil's Book 6, Unit 2, printed pp.12–15).
+
+**Nepal added 2026-11-03** — 4 books stock this lesson: **Book:** *MY ENGLISH BOOK Grade II* — Nepal, CDC; **Book:** *MY ENGLISH BOOK Grade 3* — Nepal, CDC; **Book:** *Teacher's Guide My English Book - 3* — Nepal, CDC (First edition 2008), the true companion to the held Grade 3 student's book; **Book:** *MY ENGLISH BOOK Grade V* — Nepal, CDC (held copy incomplete — Unit 3 missing; Unit 8, pp.67–74, is inside the held pages). All filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 2 Unit 8 (pp.46–50) introduces mine/yours as pronouns; Grade 3 Unit 4 (pp.25–33) works whose-questions with mine/hers/yours/his, and its companion guide (printed pp.23–27) keys the chant and role play; Grade 5 Unit 8 (pp.67–74) teaches the full possessive set with its pronoun→possessive table. Filed at true weight: Grade 6's possessive work (Unit 11, pp.94–101) is possessive adjectives only — my/his/its/our/her/your — and is not counted as mine/yours stock.
