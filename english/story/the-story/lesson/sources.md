@@ -38,5 +38,5 @@ teaches stories from its earliest classes with the fables;
 Egypt reads whole stories through the secondary years;
 China names the story's three parts outright (setting,
 characters, plot) and binds complete play scripts to
-perform. Other finished countries join as their books are read (see
+perform. Other closed countries join as their books are read (see
 READING-QUEUE.md).

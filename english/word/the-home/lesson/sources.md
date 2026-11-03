@@ -82,7 +82,7 @@ their actions, the position-word finding game, the family
 words, and the there is/are room system with the six
 prepositions of place taught as one set; North Macedonia carries the family set with its formal
 and informal names taught side by side; Mongolia carries the
-rooms and furniture in real photographs. Other finished countries join as
+rooms and furniture in real photographs. Other closed countries join as
 their books are read (see READING-QUEUE.md).
 
 **Laos Grade 5 added 2026-10-27** — *Student's Book 3, Grade 5*

@@ -48,7 +48,7 @@ Reference. Egypt teaches the same tense at Primary 6 with
 the full structure table and the two uses (still going;
 result we can see). China witnesses it at review level
 only — its Grade 9 book's new perfect teaching is the
-past perfect, not this tense. Other finished countries join as their
+past perfect, not this tense. Other closed countries join as their
 books are read (see READING-QUEUE.md).
 
 **Laos Grade 8 added 2026-10-27** — *English for Secondary

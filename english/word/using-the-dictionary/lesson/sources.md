@@ -49,5 +49,5 @@ carries the working tool, its own book's dictionary; China
 carries the habit — A–Z lists with page references at the
 back of its books, and dictionary use taught inside its
 Grade 9 learning-to-learn unit. Other
-finished countries join as their books are read (see
+closed countries join as their books are read (see
 READING-QUEUE.md).

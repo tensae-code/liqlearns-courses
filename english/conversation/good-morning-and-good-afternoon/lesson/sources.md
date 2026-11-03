@@ -22,7 +22,7 @@ China teaches the pair inside its colours unit in the first
 primary book; Mongolia stocks the day-part ground the greeting
 stands on — one boy's whole day told in clock pictures — from a
 book with no printed English at all.
-Counts grow as other finished countries' first books are read.
+Counts grow as other closed countries' first books are read.
 
 **China added 2026-10-29** — **Book:** *Compulsory Education
 Textbook · English (Grade 3 starting point), Grade 3 Volume 1* —

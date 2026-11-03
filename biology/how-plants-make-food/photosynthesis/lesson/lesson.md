@@ -2,10 +2,10 @@
 
 > **PLACEHOLDER — NOT BUILT FROM THE LIBRARY.** This lesson is the
 > template example that shows the lesson shape. Its sources file is
-> empty: no finished country's biology book has been read into it
+> empty: no closed country's biology book has been read into it
 > yet, so nothing here is course material. Do not teach from it, do
 > not count it as a built lesson. It gets built for real — or
-> deleted — when the first finished country's biology book is read.
+> deleted — when the first closed country's biology book is read.
 
 ## Do it first
 Go outside and find a green leaf. Hold it up to the sun. Feel how warm the

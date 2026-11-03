@@ -34,7 +34,7 @@ thing, or help from other material — written to help you understand.
 Tips are ours; the lessons are the books'.
 
 The plan is built from the books actually read so far and GROWS as
-each next finished country's books are read — a new book's material is
+each next closed country's books are read — a new book's material is
 slotted into the level it belongs to, in order, and a new block the
 size of a former unit becomes its own next level rather than being
 stuffed into an old one. (Each book's stocking notes — which level its

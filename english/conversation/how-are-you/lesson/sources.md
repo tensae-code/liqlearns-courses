@@ -24,7 +24,7 @@ China joins with the exchange itself in its first primary book
 talk — "How do you feel?", "What's wrong?" (Grade 6 Volume 1).
 Egypt and Nicaragua's filed greeting material teaches hello, names
 and goodbye — not this question — so they are not counted here. The
-count grows as other finished countries' books are read.
+count grows as other closed countries' books are read.
 
 ### Egypt — Primary 3 Term 1 (read 2026-10-25)
 Egypt now JOINS this lesson. Unit 1, Lesson 1 (pp.6–9) teaches the

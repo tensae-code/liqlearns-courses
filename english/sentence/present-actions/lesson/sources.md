@@ -60,7 +60,7 @@ questions; Libya's reference names both faces' uses and
 posts the refusal list; Ghana names the simple present's
 jobs; China adds the present continuous at full-unit
 strength across two units and the third-person -s taught as
-a system of its own. Other finished countries join as their books are read
+a system of its own. Other closed countries join as their books are read
 (see READING-QUEUE.md).
 
 **Laos Grade 6 added 2026-10-27** — *English for Secondary

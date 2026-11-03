@@ -56,7 +56,7 @@ twins (Prep 9). China gives the fullest single-book
 run yet: the present and past passives as whole
 consecutive units, the modal passive inside its rules
 unit, and the whole set tabled again in its Grammar
-reference. Other finished countries join as their
+reference. Other closed countries join as their
 books are read (see READING-QUEUE.md).
 
 **Laos Grade 9 added 2026-10-27** — *English for Secondary

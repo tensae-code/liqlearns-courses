@@ -22,7 +22,7 @@ China adds the alphabet stocked as five phonics sets rather than
 letter by letter (Grade 3 Volume 1), a complete short-vowel cycle
 inside one volume (Grade 3 Volume 2), and end-of-primary review
 stock that sorts the learned sounds into groups (Grade 6 Volume 2).
-Counts grow as other finished countries' books are read.
+Counts grow as other closed countries' books are read.
 
 **Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
 first-sound layer): *English — Primary 2 — Term 1* (MoE Egypt with

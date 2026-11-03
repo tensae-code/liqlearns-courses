@@ -42,7 +42,7 @@ Egypt, Ghana, Laos, Barbados, China).** Ghana names the process and prints the
 unity test as a revise question; Bangladesh guides the
 first paragraphs and models them; Egypt examines by the
 paragraph; China adds a model-first writing ladder across
-four units and a formal letter as connected prose. Other finished countries join as their books are
+four units and a formal letter as connected prose. Other closed countries join as their books are
 read (see READING-QUEUE.md).
 
 **Laos Grade 6 added 2026-10-27** — *English for Secondary

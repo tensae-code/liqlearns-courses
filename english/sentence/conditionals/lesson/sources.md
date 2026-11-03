@@ -42,7 +42,7 @@ Grade 9 and completes the set in its reference;
 Mongolia tables zero and first, teaches the first with
 unless, and reaches the second at Grade 10; Egypt
 climbs one rung a year for three years and never names
-the zero. Other finished countries join as their books
+the zero. Other closed countries join as their books
 are read (see READING-QUEUE.md).
 
 **Laos Grade 9 added 2026-10-27** — *English for Secondary

@@ -26,5 +26,5 @@ readers into itself, which is why the curriculum names this
 book as the road-marker. The habits taught (ladder at book
 scale, two-line chapter law) are this course's own earlier
 lessons grown, cross-referenced in the lesson plan rather
-than re-sourced. Other finished countries join as their
+than re-sourced. Other closed countries join as their
 books are read (see READING-QUEUE.md).

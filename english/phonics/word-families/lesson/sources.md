@@ -35,7 +35,7 @@ one Let's spell set per vowel, reviewed as a whole system
 short families into their long partners (Grade 4 Volume 1),
 and Start to read pages where the unit's words are hunted and
 counted whole (Grade 3 Volume 1).
-Counts grow as other finished countries' books are read.
+Counts grow as other closed countries' books are read.
 
 **Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
 next-year layers): *English — Primary 2 — Term 1* (MoE Egypt with the

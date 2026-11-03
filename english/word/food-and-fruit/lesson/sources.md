@@ -79,5 +79,5 @@ Palestine carries the fruit set with its a/an pair and the
 first plural question; China carries the asking frames, the
 fruit and vegetable sets, and the priced menu; Mongolia
 carries the set in pictures, likes and dislikes told in
-symbols. Other finished countries join as their
+symbols. Other closed countries join as their
 books are read (see READING-QUEUE.md).

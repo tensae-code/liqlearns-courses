@@ -50,7 +50,7 @@ festival dates, with the thirty-days chant in its "Thirty
 days has September" form. The two
 books start the printed week on different days — the lesson
 shows both, per the standing rule for when books differ.
-Other finished countries join as their books are read (see
+Other closed countries join as their books are read (see
 READING-QUEUE.md).
 
 **Laos Grade 4 added 2026-10-27** — *English for Lao Primary

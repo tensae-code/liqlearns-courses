@@ -61,7 +61,7 @@ clock a whole picture unit with a paper-clock craft (same
 country, an earlier book — the count does not change for
 it); China carries a whole clock unit of its own, with
 minutes, digital times, and the same moment told around the
-world. Other finished countries join as their
+world. Other closed countries join as their
 books are read (see READING-QUEUE.md).
 
 **Laos Grade 5 added 2026-10-27** — *Student's Book 3, Grade 5*

@@ -48,7 +48,7 @@ Bangladesh carries city life as a topic, against village life;
 Mongolia carries a whole senior unit on the same world; China
 carries a second town set located with near / next to /
 behind and worked over maps. Other
-finished countries join as their books are read (see
+closed countries join as their books are read (see
 READING-QUEUE.md).
 
 **Laos Grade 7 added 2026-10-27** — *English for Secondary

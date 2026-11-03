@@ -29,7 +29,7 @@ deeper the whole family lineup with my / his / her on family
 sentences; China adds the third-person introduction as a taught exchange
 with its "Nice to meet you" answer, and the from-where frame;
 Mongolia adds the same meeting work carried by pictures alone.
-Counts grow as other finished countries' books are read.
+Counts grow as other closed countries' books are read.
 (Count corrected 2026-10-29 to match this file's own sections —
 the Egypt sections below were already in the file but missing
 from the count.)

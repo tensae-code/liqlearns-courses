@@ -81,5 +81,5 @@ Ghana carries the weather use and the three positions; China
 carries the colour set, the animal pairs, and the character,
 taste and feeling sets; Mongolia carries the size and age
 pairs in pictures alone. Other
-finished countries join as their books are read (see
+closed countries join as their books are read (see
 READING-QUEUE.md).

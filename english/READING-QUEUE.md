@@ -1,13 +1,17 @@
 # English course — reading queue (work as you go)
 
-His workflow (2026-10-25): open each finished country's English books,
+His workflow (2026-10-25): open each queued country's English books,
 read them, and AS I READ, file what I find where it belongs in the
 ladder (Letter → Word → Sentence → Paragraph → Essay → Story → Novel).
 Basics found in any country go to the bottom of the ladder, in their
 proper place — not held until every country is read.
 
-Source rule: finished countries only (library-secured books). A country
-joins this queue the day it finishes.
+Source rule (2026-11-03, his order: "open the courses to all 52 closed
+countries, read their English books as we have the files" — supersedes
+the 2026-10-25 finished-only rule): every CLOSED country (every
+required book found) joins this queue the day it closes. Its English
+books are read as we have the actual files in hand; a book that is
+still link-only is read when its file lands.
 
 AUDIT — 2026-10-26 (his order: every country called done is
 checked before anything else moves). Verified: (1) Egypt's
@@ -47,6 +51,42 @@ KG–Secondary 10 T1) whenever he calls for them.
 | Sierra Leone | no subject-English books in the secured set (English is the school language itself) | nothing to read for English |
 | Laos | English G3–G12 (22 items: student book + teacher guide per grade; G3 in two editions, 2021 the newer) | **FINISHED country — was missing from this queue until 2026-10-27 (his correction that day: the finished countries are the source pool, all of them).** **Grade 3 student book (2021) FULLY READ + CITATION CHECK PASSED 2026-10-27; its basics merged into 7 built lessons the same day** · **Grade 3 teacher guide (2021) FULLY READ + CITATION CHECK PASSED 2026-10-27** (prints the whole audio layer: songs, scripts, keys; settles the feelings set at five words) · **Grade 4 student book FULLY READ + CITATION CHECK PASSED 2026-10-27** (the original 2012 Book 2 — no phonics spine, writing jumps to word-order tiles and sums in words; numbers to 50, days, weather, plurals as a system) — its basics merged into 5 built lessons the same day · **Grade 4 teacher guide FULLY READ + CITATION CHECK PASSED 2026-10-27** (prints the audio layer and keys; settles the student book's open points) · **Grade 5 student book FULLY READ + CITATION CHECK PASSED 2026-10-27** (the last primary book: counting to 100, the clock, dates, first reading passages and first free writing) — its basics merged into 6 built lessons the same day · **Grade 5 teacher guide FULLY READ + CITATION CHECK PASSED 2026-10-27** (keys for everything incl. the first test; two honest negatives — no song words printed, "31st September" not settled) — **PRIMARY SERIES (G3–G5) READ WHOLE, both sides** · **Grade 6 student book FULLY READ + CITATION CHECK PASSED 2026-10-27** (secondary Book One, 2010: first full grammar system, -s/-ed pronunciation systems, a passage in nearly every lesson) — its basics merged into 5 built lessons the same day · **Grade 6 teacher guide FULLY READ + CITATION CHECK PASSED 2026-10-27** (60 anchors; prints the listening scripts and a formal/conversational time table; one honest negative — no song words) · **Grade 7 student book FULLY READ + CITATION CHECK PASSED 2026-10-27** (Book Two: going to, comparatives/superlatives, must/mustn't, some/any; no present perfect — filed as an honest negative) — its basics merged into 5 built lessons the same day · **Grade 7 teacher guide FULLY READ + CITATION CHECK PASSED 2026-10-27** — with a find: the library record's G7 English teacher copy is actually the PE guide (the mirror's m2 guide folder is scrambled; the real English guide, 143 pp, sat under the lao-language filename and is the copy read) · **Grade 8 student book FULLY READ + CITATION CHECK PASSED 2026-10-27** (Book Three, 2012: **the present perfect arrives** — a whole unit; used to, past continuous, must/have to; content verified by cover after the G7 lesson) — its basics merged into 4 built lessons the same day · **Grade 8 teacher guide FULLY READ + CITATION CHECK PASSED 2026-10-27** (scripts + every key; settles "sore thoat" and "study Eglish"; no song words — honest negative) · **Grade 9 student book FULLY READ + CITATION CHECK PASSED 2026-10-27** (Book Four, 2013: **the passive named and tabled**, first conditional named; present perfect continuous still absent — honest negative) — its basics merged into 3 built lessons the same day · **Grade 9 teacher guide FULLY READ + CITATION CHECK PASSED 2026-10-27** (keys/scripts/models for all 11 units; "foond" is the student's slip only) · **Grade 10 student book FULLY READ + CITATION CHECK PASSED 2026-10-27** (Book Five, 2014, "Upper" enters the title: modal deduction, superlative rules, first word-counted writing; the present perfect continuous stands in use but is never taught — negative now across Books Two–Five) — its basics merged into 3 built lessons the same day · **Grade 10 teacher guide FULLY READ + CITATION CHECK PASSED 2026-10-27** (found under the lao-language filename as the record warned — the record's facts are the real guide's; the file named m5_english is a Geography guide) · **Grade 11 student book FULLY READ + CITATION CHECK PASSED 2026-10-27** (Book Six, 2015: informational turn; paragraph writing named as a craft; reported speech only in its smallest form; perfect continuous and 2nd/3rd conditionals still absent — negatives now across Books Two–Six) — its basics merged into 2 built lessons the same day · **Grade 11 teacher guide FULLY READ + CITATION CHECK PASSED 2026-10-27** — second crossed record: the record's G11 English teacher copy is the PE guide again; the real guide (161 pp) sat under the lao-language filename and is the copy read — textbooks-side correction owed · **Grade 12 student book FULLY READ + CITATION CHECK PASSED 2026-10-27** (Book Seven, 2016: the passive system completed; **series-final verdicts — the present perfect continuous, 2nd/3rd conditionals, full reported speech, and essay writing NEVER arrive in Laos**) — its basics merged into 3 built lessons the same day · **Grade 12 teacher guide FULLY READ + CITATION CHECK PASSED 2026-10-27** — **LAOS COMPLETE: all 20 current-edition books (G3–G12, student + teacher) read whole + citation-checked; the older G3 pair stands unread under the edition rule** — next country in the queue: Barbados (Language Arts syllabi, Classes 1–4) |
 | Barbados | Language Arts (the English subject) Classes 1–4 syllabi (4 documents, held locally; Barbados publishes no government student textbooks — the ministry Grid A syllabi are its required set, the Ghana-curricula case) | **ALL FOUR SYLLABI FULLY READ + CITATION CHECK PASSED 2026-10-27 — BARBADOS COMPLETE on its syllabi** (23 anchors across the four documents; the step-up lives in the body tables, the Attainment Targets being one shared list; the dialect/Standard-English objective and code-switching rationale filed in full in books/barbados.md; its basics merged into Two-Letter Sounds and The Paragraph the same day) |
+
+| Albania | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
+| Afghanistan | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
+| Armenia | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
+| Cambodia | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
+| Cook Islands | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
+| Ecuador | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
+| Ethiopia | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
+| Greece | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
+| Hungary | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
+| Indonesia | 23 English rows in the record (student + teacher, G3–G12) | **FINISHED country (2026-11-02) — was missing from this queue until 2026-11-03 (the known gap). QUEUED 2026-11-03 under his all-closed-countries ruling — reading starts 2026-11-03** |
+| Iraq | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
+| Jordan | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
+| Kazakhstan | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
+| Kuwait | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
+| Kyrgyzstan | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
+| Malaysia | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
+| Moldova | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
+| Nepal | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
+| Oman | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
+| Pakistan | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
+| Qatar | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
+| Rwanda | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
+| Saudi Arabia | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
+| South Africa | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
+| South Sudan | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
+| Sudan | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
+| Syria | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
+| Tajikistan | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
+| Tanzania | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
+| Turkey | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
+| Ukraine | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
+| Uzbekistan | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
+| Venezuela | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
+| Vietnam | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
+| Yemen | inventory pending | **QUEUED 2026-11-03 (his ruling: all 52 closed countries join the pool) — inventory pending** |
 
 Reading notes and draft material from parallel reading fronts land in
 the course work folder first, get checked, and only then enter this

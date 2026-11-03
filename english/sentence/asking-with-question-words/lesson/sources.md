@@ -57,7 +57,7 @@ shapes; Bangladesh gives the words their voice; Egypt has
 drilled the questions and whole answers since the youngest
 books; China adds the words worked as whole units — where,
 how many, whose, how much — and a page that sorts the family
-by the answer each word takes. Other finished countries join as their books are read
+by the answer each word takes. Other closed countries join as their books are read
 (see READING-QUEUE.md).
 
 **Laos Grade 4 added 2026-10-27** — *English for Lao Primary

@@ -39,7 +39,7 @@ Libya).** Libya meets the tense at Grade 8 inside a
 records lesson, names it for recent habits at Grade 9,
 and drills it as a full lesson with for/since at Grade
 10. Egypt states the complete box at Secondary 12 — the
-last tense its run boxes. Other finished countries join
+last tense its run boxes. Other closed countries join
 as their books are read (see READING-QUEUE.md).
 
 **Laos checked — NOT stocked (series-final, 2026-10-27).**

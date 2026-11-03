@@ -42,5 +42,5 @@ command at every unit's head; Bangladesh names the routine;
 Ghana pairs context with word relationships; Libya's texts
 gloss in the line; China coaches the guessing itself, in a
 unit about learning to learn, and names it again in a
-"Using Context" sidebar. Other finished countries join as their
+"Using Context" sidebar. Other closed countries join as their
 books are read (see READING-QUEUE.md).

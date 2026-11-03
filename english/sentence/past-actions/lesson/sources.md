@@ -38,7 +38,7 @@ movers by name; Bolivia states the whole paradigm including
 the Did/didn't law; Ghana seats the simple past where
 stories live; China adds the past staged regular first,
 irregular second, each with its own formation table, plus
-was/were past states. Other finished countries join as their books
+was/were past states. Other closed countries join as their books
 are read (see READING-QUEUE.md).
 
 **Laos Grade 6 added 2026-10-27** — *English for Secondary

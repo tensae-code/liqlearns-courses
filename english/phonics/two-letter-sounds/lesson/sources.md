@@ -32,7 +32,7 @@ China adds the first r-controlled-vowel ladder taught as a named
 system (Grade 4 Volume 2), a run of one-pair-per-page Let's spell
 lessons across Grades 5–6 (ea/ee, ow/ou, oo, ch/sh, th, ng/nk,
 wh), and end-of-primary grouping review stock.
-Counts grow as other finished countries' books are read.
+Counts grow as other closed countries' books are read.
 
 **Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
 digraph layer): *English — Primary 2 — Term 1* (MoE Egypt with the

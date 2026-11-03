@@ -37,5 +37,5 @@ details) and the own-words law; Bangladesh sets the choice
 as a task; China hunts the idea by title-choice and by the
 one question a whole text answers, and names the
 supporting-detail hunt outright in a strategy sidebar.
-Other finished countries join as their books are
+Other closed countries join as their books are
 read (see READING-QUEUE.md).

@@ -25,7 +25,7 @@ pictures).
 China joins with blends taught two at a time on Let's spell
 pages in Grade 5 (cl/pl, gr/br) and sorted again in the
 end-of-primary grouping review (Grade 6 Volume 2).
-Counts grow as other finished countries' books are read.
+Counts grow as other closed countries' books are read.
 
 ### Egypt — Primary 3 Term 1 (read 2026-10-25) — three-letter blends
 Phonics Focus "Three-Consonant Clusters" (p.105): "Words that begin

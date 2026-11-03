@@ -66,7 +66,7 @@ Bangladesh teaches the voice the question rides on; China
 adds the full shelf of shapes across its primary run — be,
 do, does, did and can questions, each with its short answers,
 from family and fruit up to the past tense. Other
-finished countries join as their books are read (see
+closed countries join as their books are read (see
 READING-QUEUE.md).
 
 **Laos Grade 3 added 2026-10-27** — *English for Primary Schools,

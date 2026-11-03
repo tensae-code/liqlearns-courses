@@ -45,5 +45,5 @@ evidence under personal responses; Egypt examines by the
 unseen passage; China grades the answering shapes themselves
 — postcard questions, a tick table, multiple choice, answers
 that live only in the picture, true/false on a letter.
-Other finished countries join as their
+Other closed countries join as their
 books are read (see READING-QUEUE.md).

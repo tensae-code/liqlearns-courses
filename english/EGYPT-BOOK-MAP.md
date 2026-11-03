@@ -6,6 +6,8 @@ courses are built from the FINISHED countries' books only, and updated
 as the library updates — when another country finishes, its English
 books merge into this course and the counts grow. Egypt is the first
 finished country in, not the only one there will be.
+(Superseded 2026-11-03 by his ruling that day: courses are now built
+from every CLOSED country's books, read as the files are in hand.)
 
 **The secured Egypt English set (26 books, all finished in the library):**
 KG1 Term 1 · KG2 Term 1 · Primary 1–6, Term 1 + Term 2 · Preparatory 7–9,

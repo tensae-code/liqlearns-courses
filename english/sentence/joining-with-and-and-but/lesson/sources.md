@@ -32,7 +32,7 @@ Ghana opens the compound sentence with AND, seats BUT
 beside it, lists the four coordinators, and widens the
 family in its own order; Bolivia posts the but/however
 border; China adds a whole lesson that sorts the linking
-family by the job each word does. Other finished countries join as their books are
+family by the job each word does. Other closed countries join as their books are
 read (see READING-QUEUE.md).
 
 **Laos Grade 5 added 2026-10-27** — *Student's Book 3, Grade 5*

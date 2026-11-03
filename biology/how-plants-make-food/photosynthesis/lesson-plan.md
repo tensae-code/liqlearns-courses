@@ -12,7 +12,7 @@ for the plant and oxygen for us.
 
 **Honest state of this lesson:** lesson/lesson.md is the EXAMPLE text
 that shows the shape (it says so at its own top). The real text gets
-built from every FINISHED country's biology books that teach this,
+built from every CLOSED country's biology books that teach this,
 merged under the merge rule — nothing cut, every different
 explanation kept as an example. This plan is written against the
 example text so the shape is complete; when the real merged text

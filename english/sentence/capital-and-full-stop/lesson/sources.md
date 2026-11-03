@@ -26,5 +26,5 @@ CITATION CHECK PASSED 2026-10-26).
 Ghana).** Ghana states the rules as curriculum strands;
 Bangladesh boxes the capital rule, prints a text wearing it
 in red, and drills the stop/question-mark pair in its first
-punctuation exercises. Other finished countries join as
+punctuation exercises. Other closed countries join as
 their books are read (see READING-QUEUE.md).

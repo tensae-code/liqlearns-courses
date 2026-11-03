@@ -60,5 +60,5 @@ China carries the -s rule as a whole taught system; Mongolia
 carries the actions as pure pictures, with no printed words.
 The tenses themselves are a different thing and are NOT sourced
 here — they live at the Sentence stage (Level 3, Unit 3 "Now,
-Before, Later"). Other finished countries join as their books
+Before, Later"). Other closed countries join as their books
 are read (see READING-QUEUE.md).

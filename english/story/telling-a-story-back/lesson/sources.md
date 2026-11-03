@@ -41,5 +41,5 @@ first-person, comparison); Ghana frames it (chain, Herring
 Bone, sequence order); China equips it again (the fill-in
 retell, the phone retell, the sorted diary recount);
 Mongolia's first-year book carries a wordless farm story
-made to be told back from pictures alone. Other finished countries join as
+made to be told back from pictures alone. Other closed countries join as
 their books are read (see READING-QUEUE.md).

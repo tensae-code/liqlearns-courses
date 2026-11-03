@@ -66,7 +66,7 @@ and picture, under Mongolia's existing count; Egypt's
 youngest books seat description after be from the first
 year; China adds describing people and animals by their
 parts and the pool's fullest single comparatives system.
-Other finished countries join as their books are read
+Other closed countries join as their books are read
 (see READING-QUEUE.md).
 
 **Laos Grade 4 added 2026-10-27** — *English for Lao Primary

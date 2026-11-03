@@ -78,14 +78,12 @@ five printed ways to say goodbye (Grade 6 Volume 2); North
 Macedonia adds the self-introduction that introduces the whole
 family in one frame; Mongolia adds the same name work carried
 by pictures alone, its Grade 5 book printing no English at all.
-This lesson is the first layer. Courses are built from FINISHED
-countries' books only (his ruling, 2026-10-25), and updated as the
-library updates: when a country finishes, its books merge in, its name
+This lesson is the first layer. Courses are built from every CLOSED
+country's books (his ruling, 2026-11-03 — superseding the 2026-10-25
+finished-only rule), and updated as the library updates: when a
+country closes, its books merge in as the files are in hand, its name
 joins this list, and the count grows — that count is the acceptance
-points. Still to merge as their books are read, one at a time: India,
-Bangladesh, Ghana, Palestine and the rest of the finished 15.
-Closed-but-not-finished countries (Ethiopia among them) join this
-lesson when they finish.
+points.
 
 **Egypt KG2 added 2026-10-25** (same country, the recall layer):
 English KG2 Term 1, book p.2 — a page headed "Greetings — Listen,

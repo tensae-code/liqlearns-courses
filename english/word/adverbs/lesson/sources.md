@@ -49,5 +49,5 @@ frequency ladder; Libya carries the adjective-to-adverb move
 inside a story, with the rebels fast and well; Ghana carries
 the first naming and the order the kinds arrive in; China
 carries the frequency set as a survey system. Other
-finished countries join as their books are read (see
+closed countries join as their books are read (see
 READING-QUEUE.md).

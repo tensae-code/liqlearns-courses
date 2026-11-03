@@ -29,5 +29,5 @@ Bolivia's table defines both ends and dresses their joints;
 Ghana's first revise question sets the opening's law;
 China frames the formal letter — open with the matter,
 close with the answer.
-Other finished countries join as their books are read (see
+Other closed countries join as their books are read (see
 READING-QUEUE.md).

@@ -411,20 +411,24 @@ liqlearns-courses/
   own course (pencil-and-lines/), standing as the prerequisite before
   EVERY language course — because learners have to learn the words,
   and words are written: the hand learns first. Recommended, never
-  forced, like every prerequisite. Content merges from every finished
-  country's first books (KG/Grade 1), as basics are found and filed
-  where they belong. **On the English path it is Level 1** (his
+  forced, like every prerequisite. Content merges from every closed
+  country's first books (KG/Grade 1) whose files are in hand, as
+  basics are found and filed where they belong. **On the English path it is Level 1** (his
   correction, 2026-10-27) — being Level 1 there does not remove it as
   the shared standalone course for the other languages.
-- BUILD FROM FINISHED COUNTRIES ONLY — THEN UPDATE (2026-10-25, his
-  order, settling the source question): a course is built only from the
-  books of countries that are FINISHED in the library (every book found
-  AND secured in GitHub — his definition of finished). Every country is
-  still the end goal of every course. As the library is updated — a new
-  country finishes — the courses are updated with it: that country's
-  books merge into the lessons, and the acceptance counts grow. A
-  country that is only closed (found, not yet secured) does not enter a
-  course until it finishes.
+- BUILD FROM EVERY CLOSED COUNTRY — READ WHAT WE HAVE (2026-11-03, his
+  order: "open the courses to all 52 closed countries, read their
+  English books as we have the files"): a course is built from the
+  books of every country that is CLOSED in the library (every required
+  book found — 52 countries as of 2026-11-03). A closed country joins
+  the courses pool the day it closes; its books are read as we have the
+  actual files in hand, and a book that is still link-only enters when
+  its file lands. Finished countries (every book found AND secured in
+  GitHub) join the same way as before. Every country is still the end
+  goal of every course, and the courses keep updating as the library
+  updates: books merge into the lessons and the acceptance counts grow.
+  This supersedes the 2026-10-25 rule "build from finished countries
+  only — then update."
 - TITLES USE THE COMMON-SENSE NAME OF THE THING ITSELF (2026-10-25, his
   order): a title is what the part IS — Conversation, Alphabet, Words
   (nouns, verbs, and the other word kinds), Sentence, Paragraph, Letter —

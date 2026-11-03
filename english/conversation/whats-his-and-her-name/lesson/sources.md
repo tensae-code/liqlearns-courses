@@ -22,7 +22,7 @@ Book (Garnet / CERC, © 2019; verified on disk 2026-10-25: %PDF,
 China names third people by role with he/she and identifies
 family members one by one; North Macedonia works the naming
 frame through a full set of named family portraits.
-Counts grow as other finished countries' books are read.
+Counts grow as other closed countries' books are read.
 
 **China added 2026-10-29** — **Book:** *Compulsory Education
 Textbook · English (PEP), Grade 3 Volume 2* — China, People's

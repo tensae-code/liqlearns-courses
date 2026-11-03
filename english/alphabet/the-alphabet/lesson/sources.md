@@ -208,7 +208,7 @@ teaches no letters (its alphabet is a classroom wall strip that
 never goes past "Ii") — recorded as an honest negative in
 english/books/mongolia.md.
 The full alphabet and the letter-word list are Libya's in this layer;
-Egypt joins for the sounds-way grouping. Other finished countries join
+Egypt joins for the sounds-way grouping. Other closed countries join
 as their first English books are read (see READING-QUEUE.md).
 
 **Laos Grade 3 added 2026-10-27** — *English for Primary Schools,

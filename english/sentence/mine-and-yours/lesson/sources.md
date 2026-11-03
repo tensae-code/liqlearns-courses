@@ -38,7 +38,7 @@ the 's box, the whose matching, the three-rung box, the
 game; Egypt's youngest books hold the partner forms from
 the first terms; China adds the complete system twice over
 — the 's answers and standalone mine/yours in one unit,
-then the full pronoun set, its included, in another. Other finished countries join as their
+then the full pronoun set, its included, in another. Other closed countries join as their
 books are read (see READING-QUEUE.md).
 
 **Laos Grade 7 added 2026-10-27** — *English for Secondary
