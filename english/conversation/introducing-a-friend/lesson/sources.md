@@ -1,6 +1,6 @@
 # Sources for this lesson — Introducing a friend
 
-countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
+countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -37,12 +37,16 @@ disk 2026-10-25: %PDF, 190 pp).
 | Introduction formulas modelled for the teacher at the start of Grade 5: "Let me introduce myself. My name's …", with the alternative introduction formulas written on the board | Ethiopia — English for Ethiopia, Grade 5 Teacher's Guide, Unit One "Holidays," printed p.2 |
 | The "This is my …" introduction frame taught with family, not a friend — mother, father, brother and sister introduced with "This is my mother." frames in Theme 3 (no friend-introduction instance appears in the 24 South Africa books — partial stock, recorded as such) | South Africa — English First Additional Language, Grade 1 Workbook 1 (Rainbow Workbooks), Theme 3, printed pp.14–15 |
 | Introducing the family person by person: "Who's he/she? He's/She's my …" over father, mother, brother, sister, grandfather and grandmother, with "This is my father" (Syria's filed books print no "This is my friend …" frame — its introduction work is this family form, recorded as printed) | Syria — Emar English Series Pupil's Book 1, Unit 8 "My Family", printed pp.24–26 ("This is my father" printed p.24) |
+| Introducing a third person with "This is…" + he is/she is — "This is Mary. She is a girl. / This is Eric. He is a boy." — with a friends recitation naming friends with he/she (frames inside model texts only — no named grammar is taught in the primary books, recorded as filed) | South Sudan — Primary English 1, Pupil's Book, Unit 2 "Myself", printed pp.8–12 ("This is Mary. She is a girl." printed p.11) |
+| The same work planned for the teacher — C "She is… and He is…" (he for a boy, she for a girl, explained and practised in threes) and D "My friends" (a recitation naming friends, with what you like in a friend) | South Sudan — Primary English 1, Teacher's Guide, Unit 2, printed pp.17–25 (Pupil's Book pp.8–12) |
+| Introducing a friend as named work — a friend introduced with his/her and what he is good at: "Bol is good at Mathematics. I am good at English. Bol helps me in Mathematics. I help him in English." | South Sudan — Primary English 3, Pupil's Book, Unit 2 "Myself", printed pp.7–13 ("Bol is good at Mathematics." printed p.8) |
+| Introducing friends planned for the teacher, with the same good-at / help-in frames | South Sudan — English Teacher's Guide 3, Unit 2, printed pp.12–23 (Pupil's Book pp.7–13) |
 
 The same dialog also carries the age exchange and the toy-fish
 talk — those parts are filed in their own places (age: english/age/
 how-old-are-you), not here.
 
-**Acceptance count: taught in 13 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria).**
+**Acceptance count: taught in 14 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan).**
 Egypt carries introducing the family — "This is my father /
 mother / sister …" with the "Who's this?" exchange, and a year
 deeper the whole family lineup with my / his / her on family
@@ -89,6 +93,12 @@ introduces the family person by person — "Who's he/she?
 He's/She's my …", with "This is my father" — and no
 "This is my friend …" frame is printed in its filed
 read, and none is claimed.
+South Sudan joined 2026-11-03 with the third-person
+frame itself in Primary 1 — "This is Mary. She is a
+girl." — and with introducing a friend as named work
+in Primary 3, the friend presented with his/her and
+what he is good at; no nice-to-meet-you answer is
+printed in its filed read, and none is claimed.
 Counts grow as other closed countries' books are read.
 (Count corrected 2026-10-29 to match this file's own sections —
 the Egypt sections below were already in the file but missing
@@ -369,3 +379,42 @@ in the filed Syria read, and none is claimed here;
 Syria's Grade 7 "Meeting Friends" unit is pen-friend
 choosing and writing about a friend, not an introduction
 frame, and is not counted here.
+
+**South Sudan added 2026-11-03** — four books stock this
+lesson: **Book:** *Primary English 1, Pupil's Book*
+(pupil's book) — South Sudan, Ministry of General
+Education and Instruction, © 2018. **Book:** *Primary
+English 1, Teacher's Guide* (teacher's guide) — South
+Sudan, Ministry of General Education and Instruction,
+© 2018. **Book:** *Primary English 3, Pupil's Book*
+(pupil's book) — South Sudan, Ministry of General
+Education and Instruction, © 2018. **Book:** *English
+Teacher's Guide 3* (teacher's guide) — South Sudan,
+Ministry of General Education and Instruction, © 2018.
+All filed in english/books/south-sudan.md (Primary 1 —
+Primary English 1, Pupil's Book (pupil's book); Primary
+1 — Primary English 1, Teacher's Guide (teacher's
+guide); Primary 3 — Primary English 3, Pupil's Book
+(pupil's book); Primary 3 — English Teacher's Guide 3
+(teacher's guide) sections, FULLY READ + CITATION CHECK
+PASSED 2026-11-03). South Sudan's introducing starts in
+Primary 1, Unit 2, "Myself" (printed pp.8–12), with the
+third-person frame itself — "This is Mary. She is a
+girl. / This is Eric. He is a boy." ("This is Mary. She
+is a girl." is a citation anchor at printed p.11) —
+carried as a frame inside model texts, with a friends
+recitation naming friends with he/she and describing
+what you like in a friend; the Teacher's Guide plans it
+as C "She is… and He is…" — he for a boy, she for a
+girl, explained and practised in threes — and D "My
+friends" (Unit 2, printed pp.17–25). Primary 3, Unit 2,
+"Myself" (printed pp.7–13), then makes introducing a
+friend named work: a friend is introduced with his/her
+and what he is good at — "Bol is good at Mathematics. I
+am good at English. Bol helps me in Mathematics. I help
+him in English." ("Bol is good at Mathematics." is a
+citation anchor at printed p.8) — and its guide plans
+the same introducing-friends work (Unit 2, printed
+pp.12–23). The limit is recorded plainly: no
+nice-to-meet-you introduction answer is printed in the
+filed South Sudan read, and none is claimed here.

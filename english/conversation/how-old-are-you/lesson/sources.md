@@ -1,6 +1,6 @@
 # Sources for this lesson — How old are you?
 
-countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
+countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -41,8 +41,10 @@ Libya (Garnet) · Books verified on disk 2026-10-25.
 | The age exchange inside the birthday unit — "How old are you/is…? I'm/She's…" — with numbers 6–10 and a birthday song | Syria — Emar English Series Pupil's Book 1, Unit 9 "My Birthday", printed pp.27–29 ("How old are you?" printed p.27) |
 | Age sentences practised in the Workbook — count-and-match balloons to numbers 6–10, and listen-and-match age sentences | Syria — Emar English Series Workbook 1, Unit 9, printed pp.27–29 ("He is ten." printed p.27) |
 | The exchange re-run a year up in the revision opening, beside the name work — names and age in "Welcome Back" | Syria — Emar Syrian Series Pupil's Book 2, Unit 1, printed pp.3–5 |
+| Age given whole inside full self-introductions — Keji and Lam give name, sex, age eight, Primary Three and a loved subject: "I am eight years old." (South Sudan's filed books print no "How old are you?" question anywhere — giving form only, recorded as such) | South Sudan — Primary English 3, Pupil's Book, Unit 2 "Myself", printed pp.7–13 ("I am eight years old." printed p.7) |
+| The same introductions planned for the teacher, with age named among the introduction's items (name, gender, age, class, loved subject) | South Sudan — English Teacher's Guide 3, Unit 2, printed pp.12–23 (Pupil's Book pp.7–13) |
 
-**Acceptance count: taught in 14 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
+**Acceptance count: taught in 15 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 China teaches the exchange in the full "years old" form with
 candle counting (Grade 3 Volume 1) and later ties age to the
 birthday date (Grade 5 Volume 2); North Macedonia practises it
@@ -84,6 +86,12 @@ the short form: its Grade 1 birthday unit teaches "How
 old are you/is…? I'm/She's…" with numbers 6–10, its
 Workbook practises the age sentences, and its Grade 2
 book re-runs names and age in its revision opening.
+South Sudan joined 2026-11-03 in the giving form only,
+like Ethiopia: its Primary 3 self-introductions state
+the age whole — "I am eight years old." — with age
+named among the introduction's items in its guide; no
+"How old are you?" question wording is printed
+anywhere in its filed read, and none is claimed here.
 Nicaragua's filed books ask names in their greeting
 material, not age — so it is not counted here; Sierra
 Leone's filed books likewise state a boy's age ("He is 10
@@ -359,3 +367,34 @@ p.27). Grade 2, Unit 1, "Welcome Back" (printed pp.3–5),
 then re-runs names and age as Grade 1 revision. No full
 "years old" form is recorded for Syria in these
 exchanges; its form is the short form throughout.
+
+**South Sudan added 2026-11-03** — two books stock this
+lesson, in part: **Book:** *Primary English 3, Pupil's
+Book* (pupil's book) — South Sudan, Ministry of General
+Education and Instruction, © 2018. **Book:** *English
+Teacher's Guide 3* (teacher's guide) — South Sudan,
+Ministry of General Education and Instruction, © 2018.
+Both filed in english/books/south-sudan.md (Primary 3 —
+Primary English 3, Pupil's Book (pupil's book); Primary
+3 — English Teacher's Guide 3 (teacher's guide)
+sections, FULLY READ + CITATION CHECK PASSED
+2026-11-03). PARTIAL STOCK, recorded as such: South
+Sudan carries the giving side of this lesson only, in
+the same shape as Ethiopia in this file. Primary 3,
+Unit 2, "Myself" (printed pp.7–13), runs full
+self-introductions — Keji and Lam give name, sex, age
+eight, Primary Three and a loved subject — and the age
+is stated whole, in the full "years old" form: "I am
+eight years old." (printed p.7, a citation anchor in
+the country file). The Teacher's Guide plans the same
+introductions with age named among their items — name,
+gender, age, class, loved subject (Unit 2, printed
+pp.12–23). The limit is recorded plainly: no "How old
+are you?" question is printed anywhere in the filed
+South Sudan read — a search of the whole filed read
+finds no occurrence of the question wording in any of
+the 22 books, and the numbers work in Primary 1 is
+incidental counting, not age teaching — so South Sudan
+is counted for the taught age-giving inside the
+self-introduction only, exactly as Ethiopia is above,
+and not for the question.

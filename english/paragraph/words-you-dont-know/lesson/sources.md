@@ -1,6 +1,6 @@
 # Sources — Words you don't know
 
-countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa
+countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan
 
 Every part traces to its book and page.
 
@@ -77,6 +77,7 @@ CHECK PASSED 2026-11-03).
 
 **Book 21:** *English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 22:** *English First Additional Language, Grade 6 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 23:** *Primary English 3, Teacher's Guide* (teacher's guide) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md (Primary 3 — English Teacher's Guide 3 (teacher's guide) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -105,9 +106,10 @@ CHECK PASSED 2026-11-03).
 | A guessing-meanings lesson in the teacher's guide — the meanings worked out, not given, inside the Soil unit's lessons | Ethiopia, English for Ethiopia Grade 4 Teacher's Guide, Unit 4, printed p.44 (guide pagination) |
 | Guessing unknown words from the text around them, practised on nonsense words themselves: Carroll's "Jabberwocky" read and its nonsense words' meanings guessed from the poem | South Africa, English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks), printed pp.110–113 |
 | Working out word meanings taught as a strategy set — synonyms and antonyms, prefixes and suffixes, and context clues named together as the routes to an unknown word | South Africa, English First Additional Language, Grade 6 Workbook 2 (Rainbow Workbooks), Theme 8, as filed in its section in english/books/south-africa.md |
+| Getting unstuck on a word taught as a named strategy set in the guide's Introduction: re-read, context clues, infer meaning, locate key words, predictions and word attack — the routes named for the teacher to teach, in the guide only | South Sudan, Primary English 3, Teacher's Guide, Introduction (printed pp.iv–x) |
 
-**Acceptance count: taught in 11 countries (Bangladesh,
-Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa).** India's senior books print the
+**Acceptance count: taught in 12 countries (Bangladesh,
+Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan).** India's senior books print the
 command at every unit's head; Bangladesh names the routine;
 Ghana pairs context with word relationships; Libya's texts
 gloss in the line; China coaches the guessing itself, in a
@@ -136,7 +138,9 @@ accident words with meanings guessed from context,
 Grade 11 returns to contextual guessing in Unit 3
 and to guessing from context in Units 6 and 10, and
 its Grade 4 teacher's guide carries a guessing-meanings
-lesson; South Africa practises the guessing on nonsense words themselves — its Grade 5 Home Language book reads Carroll's "Jabberwocky" and has learners guess the nonsense words' meanings from the poem (printed pp.110–113) — and teaches working out word meanings as a strategy set in its Grade 6 First Additional Language Workbook 2: synonyms and antonyms, prefixes and suffixes, and context clues (Theme 8). Other closed countries join as their
+lesson; South Africa practises the guessing on nonsense words themselves — its Grade 5 Home Language book reads Carroll's "Jabberwocky" and has learners guess the nonsense words' meanings from the poem (printed pp.110–113) — and teaches working out word meanings as a strategy set in its Grade 6 First Additional Language Workbook 2: synonyms and antonyms, prefixes and suffixes, and context clues (Theme 8); South Sudan joined 2026-11-03: it stocks the guessing in part — its Primary 3 Teacher's Guide's Introduction names the strategies for getting unstuck on a word (re-read, context clues, infer meaning, locate key words, predictions, word attack, printed pp.iv–x) — but that teaching sits in the guide's Introduction only, and no read South Sudan pupil's book practises guessing a word's meaning from its context as a lesson (the definition-and-matching vocabulary work elsewhere in the series is not this lesson). Other closed countries join as their
 books are read (see READING-QUEUE.md).
 
 **South Africa added 2026-11-03** — two books stock this lesson: *English Home Language, Grade 5 Workbook 1* and *English First Additional Language, Grade 6 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. The stock is the lesson's guessing-from-context part: the Home Language book reads Carroll's "Jabberwocky" and has learners guess the nonsense words' meanings from the poem (printed pp.110–113), and the First Additional Language book teaches working out word meanings as a strategy set — synonyms and antonyms, prefixes and suffixes, and context clues (Theme 8).
+
+**South Sudan added 2026-11-03** — PARTIAL stock, filed exactly as a partial: one book stocks this lesson in part: **Book:** *Primary English 3, Teacher's Guide* — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md (Primary 3 — English Teacher's Guide 3 (teacher's guide) section, FULLY READ + CITATION CHECK PASSED 2026-11-03). The guide's Introduction (printed pp.iv–x) sets out the reading strategies for getting unstuck on a word and for understanding a text — re-read, context clues, infer meaning, locate key words, predictions, word attack — context clues and inferring meaning named outright among them. Stated plainly: this is guide-Introduction teaching only; no read South Sudan pupil's book sets a guessing-from-context lesson, and the series' definition-and-matching vocabulary work (for example in Primary 7) is not this lesson and is not counted here.

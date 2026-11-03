@@ -1,6 +1,6 @@
 # Sources for this lesson — How are you?
 
-countries: Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
+countries: Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -33,8 +33,10 @@ Libya (Garnet) · Books verified on disk 2026-10-25.
 | Feelings words happy/sad in the Jabu story | South Africa — English First Additional Language, Grade 2 Workbook 1 (Rainbow Workbooks), printed pp.2–5 |
 | "How are you? — I'm fine, thank you" inside the first unit's greeting set, carried by the hello song — "Hello, hello, how are you?" | Syria — Emar English Series Pupil's Book 1, Unit 1 "Hello!", printed pp.3–5 ("Hello, hello, how are you?" printed p.4; "I'm fine, thank you" printed p.5) |
 | The question practised by listen-and-match among the greeting exchanges (Good morning / How are you? / What's your name? / Goodbye) | Syria — Emar English Series Workbook 1, Unit 1, printed pp.3–5 |
+| "How are you? — I am fine, thank you" as a fixed exchange inside the first greetings unit, beside a hello song (one answer only — no wider answer set is filed for South Sudan, and none is claimed here) | South Sudan — Primary English 1, Pupil's Book, Unit 1 "Greetings", printed pp.1–7 ("I am fine, thank you." printed p.6) |
+| The exchange planned as its own section for the teacher — E "How are you? Fine thank you" — taught by read-and-repeat and pair role-play | South Sudan — Primary English 1, Teacher's Guide, Unit 1, Section E, printed pp.5–16 (Pupil's Book pp.1–7) |
 
-**Acceptance count: taught in 12 countries (Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
+**Acceptance count: taught in 13 countries (Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 China joins with the exchange itself in its first primary book
 (Grade 3 Volume 1) and deepens it three years later into feelings
 talk — "How do you feel?", "What's wrong?" (Grade 6 Volume 1).
@@ -63,7 +65,11 @@ answer with its return question, "I'm good. What about
 you?" Syria joined 2026-11-03 with the exchange in its
 short classroom form inside its first unit — "How are
 you? — I'm fine, thank you" — the same words Jordan's
-and Libya's Grade 3 books use. Nicaragua's filed
+and Libya's Grade 3 books use. South Sudan joined
+2026-11-03 with the same short exchange inside its
+first greetings unit — "How are you? — I am fine,
+thank you" — planned as its own section in its
+Primary 1 Teacher's Guide. Nicaragua's filed
 greeting material teaches hello, names and goodbye — not this
 question — so it is not counted here; Indonesia's filed books
 likewise teach no "How are you?" exchange (their feelings set in
@@ -263,3 +269,29 @@ question by listen-and-match among the greeting
 exchanges. No wider answer set — no "very well" or "not
 very well" — is recorded for Syria, and none is claimed
 here.
+
+**South Sudan added 2026-11-03** — two books stock this
+lesson: **Book:** *Primary English 1, Pupil's Book*
+(pupil's book) — South Sudan, Ministry of General
+Education and Instruction, © 2018. **Book:** *Primary
+English 1, Teacher's Guide* (teacher's guide) — South
+Sudan, Ministry of General Education and Instruction,
+© 2018. Both filed in english/books/south-sudan.md
+(Primary 1 — Primary English 1, Pupil's Book (pupil's
+book); Primary 1 — Primary English 1, Teacher's Guide
+(teacher's guide) sections, FULLY READ + CITATION CHECK
+PASSED 2026-11-03). South Sudan teaches the question
+inside its first greetings unit, in the short classroom
+form, like Jordan, Libya's Grade 3 book and Syria:
+Primary 1, Unit 1, "Greetings" (printed pp.1–7), sets
+"How are you? — I am fine, thank you" among its fixed
+exchanges, beside a hello song — "I am fine, thank you"
+is a citation anchor at printed p.6. The Teacher's
+Guide plans it as its own section — E "How are you?
+Fine thank you" (Unit 1, printed pp.5–16) — taught by
+read-and-repeat and pair role-play. The frame is a
+memorised exchange inside model texts: the primary
+books teach no named grammar and no question-formation
+beyond the memorised frames, recorded as filed. No
+wider answer set — no "very well" or "not very well" —
+is recorded for South Sudan, and none is claimed here.

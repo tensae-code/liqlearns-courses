@@ -1,6 +1,6 @@
 # Sources — Telling a story back
 
-countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa
+countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan
 
 Every part traces to its book and page.
 
@@ -102,6 +102,8 @@ PASSED 2026-11-03).
 **Book 19:** *English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 20:** *English First Additional Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 21:** *English Home Language, Grade 6 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 22:** *Primary English 3, Teacher's Guide* (teacher's guide) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md (Primary 3 — English Teacher's Guide 3 (teacher's guide) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 23:** *Primary English 6, Teacher's Guide* (teacher's guide) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md (Primary 6 — Primary English 6 Teacher's Guide (teacher's guide) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -133,9 +135,12 @@ PASSED 2026-11-03).
 | A mini-book tale retold in the learner's own sentences: the Ugly Duckling retold in five sentences from its mini-book | South Africa, English First Additional Language, Grade 2 Workbook 2 (Rainbow Workbooks), printed pp.14–16 |
 | A story retold in its parts under its signposts: "The storm" retold in four parts with First / Next / Then / Lastly | South Africa, English First Additional Language, Grade 2 Workbook 2 (Rainbow Workbooks), printed pp.54–55 |
 | A story retold from a picture mind map: "Rabbit warns of an earthquake" retold from the map | South Africa, English Home Language, Grade 6 Workbook 2 (Rainbow Workbooks), printed pp.36–41 |
+| Retelling as the guide's set routine for a read story: the Kenyi story is taught by retelling and oral questions only — no answer key, the telling-back is the work | South Sudan, Primary English 3, Teacher's Guide, Unit 5 (guide printed pp.44–52; Pupil's Book pp.26–31) |
+| Retelling set again on the next long text: the flood story taught by retelling, with word meanings and sentence-making beside it | South Sudan, Primary English 3, Teacher's Guide, Unit 6 (guide printed pp.53–62; Pupil's Book pp.32–37) |
+| "Re-telling a story" as a named activity of the Short Stories unit — the guide carries the retelling as its own titled activity (its Activity 7), where the pupil's book orders listening and elements differently | South Sudan, Primary English 6, Teacher's Guide, Unit 7 (guide printed pp.103–114; Pupil's Book pp.88–100) |
 
-**Acceptance count: taught in 11 countries (Bangladesh,
-Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa).** Bangladesh equips the retelling (word box,
+**Acceptance count: taught in 12 countries (Bangladesh,
+Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan).** Bangladesh equips the retelling (word box,
 first-person, comparison); Ghana frames it (chain, Herring
 Bone, sequence order); China equips it again (the fill-in
 retell, the phone retell, the sorted diary recount);
@@ -166,8 +171,10 @@ Rocket in the revision unit, and its Grade 5 Teacher's
 Book names the own-words retelling as a set aim,
 "Retell a story in your own words", the point where the
 course first asks pupils to retell stories in their own
-words; South Africa teaches retelling by name — its Grade 4 Home Language book retells and writes the picture story "Jabu scrambles eggs" (printed p.12), retells its folk tale in sequence (printed pp.44–49) and retells the hare-and-tortoise race as a sports report (printed p.108), its Grade 2 First Additional Language Workbook 2 retells the Ugly Duckling in five sentences from its mini-book (printed pp.14–16) and retells "The storm" in four parts with First/Next/Then/Lastly (printed pp.54–55), and its Grade 6 Home Language Workbook 2 retells "Rabbit warns of an earthquake" from a picture mind map (printed pp.36–41).
+words; South Africa teaches retelling by name — its Grade 4 Home Language book retells and writes the picture story "Jabu scrambles eggs" (printed p.12), retells its folk tale in sequence (printed pp.44–49) and retells the hare-and-tortoise race as a sports report (printed p.108), its Grade 2 First Additional Language Workbook 2 retells the Ugly Duckling in five sentences from its mini-book (printed pp.14–16) and retells "The storm" in four parts with First/Next/Then/Lastly (printed pp.54–55), and its Grade 6 Home Language Workbook 2 retells "Rabbit warns of an earthquake" from a picture mind map (printed pp.36–41); South Sudan joined 2026-11-03: it stocks the retelling in part, in its guides only — its Primary 3 Teacher's Guide teaches its two longest reading texts (the Kenyi story in Unit 5 and the flood story in Unit 6) by retelling routines, and its Primary 6 Teacher's Guide carries "Re-telling a story" as a named activity of the Short Stories unit — but no read South Sudan pupil's book names retelling, and no own-words retelling aim or comparison with the original is stated, so that framing rests on the other countries.
 Other closed countries join as
 their books are read (see READING-QUEUE.md).
 
 **South Africa added 2026-11-03** — three books stock this lesson: *English Home Language, Grade 4 Workbook 1*, *English First Additional Language, Grade 2 Workbook 2* and *English Home Language, Grade 6 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. South Africa teaches retelling by name, which Ethiopia did not: the Grade 4 Home Language book's picture story "Jabu scrambles eggs" is retold and written by the learner (printed p.12), its folk tale is retold in sequence (printed pp.44–49) and the hare-and-tortoise race is retold as a sports report (printed p.108); the Grade 2 First Additional Language Workbook 2 retells the Ugly Duckling in five sentences from its mini-book (printed pp.14–16) and retells "The storm" in four parts with First/Next/Then/Lastly (printed pp.54–55); and the Grade 6 Home Language Workbook 2 retells "Rabbit warns of an earthquake" from a picture mind map (printed pp.36–41).
+
+**South Sudan added 2026-11-03** — PARTIAL stock, filed exactly as a partial: two books stock this lesson in part: **Book:** *Primary English 3, Teacher's Guide* — South Sudan, Ministry of General Education and Instruction, © 2018; **Book:** *Primary English 6, Teacher's Guide* — South Sudan, Ministry of General Education and Instruction, © 2018. All filed in english/books/south-sudan.md (Primary 3 — English Teacher's Guide 3 and Primary 6 — Primary English 6 Teacher's Guide sections, FULLY READ + CITATION CHECK PASSED 2026-11-03). The retelling is guide-taught: the Primary 3 guide teaches the Kenyi story (Unit 5, guide printed pp.44–52) by retelling and oral questions only, and the flood story (Unit 6, guide printed pp.53–62) by retelling, word meanings and sentence-making — the country file's own verdict is that the two longest Primary 3 reading texts get retelling routines only; and the Primary 6 guide carries "Re-telling a story" as a named, titled activity of its Short Stories unit (Unit 7, guide printed pp.103–114). Stated plainly: the retelling lives in the two guides — no read South Sudan pupil's book names it, and neither guide states an own-words retelling aim or a comparison against the original.

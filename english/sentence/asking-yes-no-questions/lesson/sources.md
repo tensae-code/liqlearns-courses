@@ -1,6 +1,6 @@
 # Sources — Asking yes/no questions
 
-countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
+countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan
 
 Every part traces to its book and page.
 
@@ -108,6 +108,8 @@ CITATION CHECK PASSED 2026-11-03).
 
 **Book 27:** Emar English Series Pupil's Book 1 (student's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 1 — Emar English Series Pupil's Book 1 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 28:** Emar Syrian Series Pupil's Book 2 (student's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 2 — Emar Syrian Series Pupil's Book 2 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 29:** Secondary English 1 Student's Book (student's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md (Secondary 1 (Grade 9) — Secondary English 1 Student's Book (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 30:** Secondary English 1 Teacher's Guide (teacher's guide) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md (Secondary 1 (Grade 9) — Secondary English 1 Teacher's Guide (teacher's guide) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -161,9 +163,12 @@ CITATION CHECK PASSED 2026-11-03).
 | The present-continuous yes/no question with its short answer — "Is your sister swimming? No, she isn't" | Syria, Emar Pupil's Book 2, Unit 13 "On Holiday," printed pp.41–43 |
 | Have-got yes/no questions with short answers — "Have you got a cough? — yes, I have" (lower-case y as printed); "Has she got a fever? No, she hasn't" | Syria, Emar Pupil's Book 2, Unit 22 "Get Well Soon," printed pp.70–72 |
 
-**Acceptance count: taught in 15 countries (Bangladesh,
+| PARTIAL — the past yes/no question as part of the past-simple system: questions with did, beside negatives with didn't + infinitive | South Sudan — Secondary English 1 Student's Book, Unit 3, Language practice, printed pp.90–92 |
+| PARTIAL — the negative half of the present-simple system stated in the guide only: negative word order with don't/doesn't, which the student's book itself does not state (no present do/does question formation is stated for South Sudan) | South Sudan — Secondary English 1 Teacher's Guide, Unit 1 (guide printed pp.1–22) |
+
+**Acceptance count: taught in 16 countries (Bangladesh,
 Bolivia, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria).** Bolivia boxes the do/does engine;
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan).** Bolivia boxes the do/does engine;
 Mongolia works the be-swap on its doing-now questions;
 Bangladesh teaches the voice the question rides on; China
 adds the full shelf of shapes across its primary run — be,
@@ -176,7 +181,7 @@ voice; Sierra Leone makes the question by the be-swap,
 states the rising-voice rule, and forms and answers
 simple-present questions as a system; Jordan
 asks do, does, be, have-got and can yes/no questions
-with their short answers across Grades 2–3. Greece asks is there…? / are there…? and does it…? with their short answers at Grade 4, and tables the present and past question forms inside its Grade 5 systems. Kazakhstan asks be questions with short answers at Grade 3, carries the present simple into questions and short answers there, and names Present Simple and Present Continuous questions as language-focus points in its Grade 5–6 English Plus books. Iraq asks Is it a …? with plain Yes / No answers in Grade 1, teaches Do you …? — Yes, I do. / No, I don't. as the central new question form of its Grade 3 health unit, and splits question formation by verb type in Grade 6 — *be* inverts, other verbs take Do/Does. Ethiopia names the question types outright in Grade 9 — wh-questions, yes/no questions, and questions beginning with an auxiliary or modal — and tables question forms (wh- and yes/no) again in Grade 11. South Africa changes statements into questions in Grade 6 Workbook 1 — interrogatives, with "Was she…?" and "Did they…?" started for the learner — turns statements into questions across a theme in Grade 5 Workbook 1, and does the same in its Grade 6 FAL Workbook 2. Syria asks be, there, continuous and have-got yes/no questions with their short answers from the first years — Is it…? and Is there…? in Grade 1, Is your sister swimming…? and Have you got…? / Has she got…? in Grade 2. Other
+with their short answers across Grades 2–3. Greece asks is there…? / are there…? and does it…? with their short answers at Grade 4, and tables the present and past question forms inside its Grade 5 systems. Kazakhstan asks be questions with short answers at Grade 3, carries the present simple into questions and short answers there, and names Present Simple and Present Continuous questions as language-focus points in its Grade 5–6 English Plus books. Iraq asks Is it a …? with plain Yes / No answers in Grade 1, teaches Do you …? — Yes, I do. / No, I don't. as the central new question form of its Grade 3 health unit, and splits question formation by verb type in Grade 6 — *be* inverts, other verbs take Do/Does. Ethiopia names the question types outright in Grade 9 — wh-questions, yes/no questions, and questions beginning with an auxiliary or modal — and tables question forms (wh- and yes/no) again in Grade 11. South Africa changes statements into questions in Grade 6 Workbook 1 — interrogatives, with "Was she…?" and "Did they…?" started for the learner — turns statements into questions across a theme in Grade 5 Workbook 1, and does the same in its Grade 6 FAL Workbook 2. Syria asks be, there, continuous and have-got yes/no questions with their short answers from the first years — Is it…? and Is there…? in Grade 1, Is your sister swimming…? and Have you got…? / Has she got…? in Grade 2. South Sudan joined 2026-11-03, in part only: its Secondary 1 Student's Book asks past yes/no questions with did inside the past-simple system, and its Teacher's Guide states the don't/doesn't negative order the student's book itself does not state; no present do/does question formation is claimed. Other
 closed countries join as their books are read (see
 READING-QUEUE.md).
 
@@ -207,3 +212,5 @@ invert, other verbs take the "helping verb" Do/Does
 **South Africa added 2026-11-03** — *DBE Rainbow Workbooks* (Department of Basic Education, South Africa, Sixteenth edition 2026; full read in english/books/south-africa.md). South Africa's yes/no work is statement-to-question conversion: **interrogatives in Grade 6 HL Workbook 1, with "Was she…?" and "Did they…?" started for the learner** (printed p.8), statements turned into questions across a theme in **Grade 5 HL Workbook 1** (printed pp.44–51), and statements turned into questions in **Grade 6 FAL Workbook 2**.
 
 **Syria added 2026-11-03** — *Emar series* (Syria, Ministry of Education; full read in english/books/syria.md). Syria's yes/no questions arrive with their short answers from Grade 1: **"Is it green? Yes, it is / No, it isn't"** (Pupil's Book 1, Unit 6, printed pp.18–20), **Is there…? / Are there…?** (Unit 16, printed pp.50–52) and **"Is she a teacher? No, she isn't"** (Unit 18, printed pp.56–58); Grade 2 adds the continuous question **"Is your sister swimming? No, she isn't"** (Unit 13, printed pp.41–43) and **Have you got…? / Has she got…?** (Unit 22, printed pp.70–72).
+
+**South Sudan added 2026-11-03** — 2 books stock this lesson, in part: **Book:** *Secondary English 1 Student's Book* — South Sudan, Ministry of General Education and Instruction, © 2018. **Book:** *Secondary English 1 Teacher's Guide* — South Sudan, Ministry of General Education and Instruction, © 2018. All filed in english/books/south-sudan.md (Secondary 1 (Grade 9) — Secondary English 1 Student's Book, Secondary 1 (Grade 9) — Secondary English 1 Teacher's Guide sections, FULLY READ + CITATION CHECK PASSED 2026-11-03). South Sudan's genuine stock is narrow and is filed as the partial it is: **did-questions inside the past simple in the Student's Book, Unit 3** (Language practice, printed pp.90–92), with **didn't + infinitive** negatives beside them, and the **don't/doesn't negative word order stated only in the Teacher's Guide, Unit 1** (guide printed pp.1–22) — the student's book itself does not state it. The Primary 3 guide's negative and interrogative outcomes are NOT counted: the country file states they have no dedicated activity.

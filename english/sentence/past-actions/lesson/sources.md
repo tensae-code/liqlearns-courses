@@ -1,6 +1,6 @@
 # Sources — Past actions
 
-countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
+countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan
 
 Every part traces to its book and page.
 
@@ -92,6 +92,8 @@ CITATION CHECK PASSED 2026-11-03).
 
 **Book 28:** Emar Syrian Series Pupil's Book 3 (student's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 3 — Emar Syrian Series Pupil's Book 3 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 29:** Emar English Series Pupil's Book 4 (pupil's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 4 — Emar English Series, Pupil's Book 4 (pupil's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 30:** Secondary English 1 Student's Book (student's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md (Secondary 1 (Grade 9) — Secondary English 1 Student's Book (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 31:** Primary English 4 Pupil's Book (Pupil's Book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md (Primary 4 — Primary English 4 Pupil's Book (Pupil's Book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -139,9 +141,12 @@ CITATION CHECK PASSED 2026-11-03).
 | The whole past system compressed into the final units: was/were and there was/were first, then regular past simple -ed with yesterday/last week, then could/couldn't inside a past narration | Syria, Emar Pupil's Book 3, Unit 21, printed pp.63–65; Unit 23, printed pp.69–71; Unit 24, printed pp.72–74 |
 | Past simple of regular verbs first, then past simple of irregular verbs with did/didn't questions and negatives | Syria, Emar Pupil's Book 4, Unit 14 "Sports," printed pp.48–50; Unit 15 "A Trip," printed pp.51–53 |
 
-**Acceptance count: taught in 15 countries (Bolivia, Ghana,
+| The past simple in full — regular -ed spelling rules (doubling, vowel + y against consonant + y → -ied, unchanged cut/set, -ed/-t variants spelt/learnt), negatives with didn't + infinitive, and questions with did | South Sudan — Secondary English 1 Student's Book, Unit 3, Language practice, printed pp.90–92 |
+| The past tense's first NOTE: "Past tense refers to things that happen in the past", with worked examples (eat → ate, jump → jumped), sentence conversion, and a matching table (is–was, come–came, steal–stole, change–changed, preach–preached) | South Sudan — Primary English 4 Pupil's Book, Unit 8, printed pp.120–121 |
+
+**Acceptance count: taught in 16 countries (Bolivia, Ghana,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
-Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria).** Mongolia boxes the -ed frame and drills the
+Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan).** Mongolia boxes the -ed frame and drills the
 movers by name; Bolivia states the whole paradigm including
 the Did/didn't law; Ghana seats the simple past where
 stories live; China adds the past staged regular first,
@@ -157,7 +162,7 @@ past regular-first for the senior exam; Jordan
 stages the past in Grade 4 — be first, then regular,
 then irregular — sets the past continuous against it
 in Grade 5, and re-teaches the simple past in Grade 8.
-Greece stages the past in Grade 5 — affirmative first, then negatives and questions, then the continuous and the two pasts together — combines the two boxes in Grade 6, and rebuilds the narrative past at Grade 7. Kazakhstan starts the lexical past at Grade 4 in Smiles (the other Grade 4 books stop at *was/were*), stages regular and irregular past inside one Grade 5 Excel module, and gives the tense its questions and negatives in both Grade 5 and Grade 6 English Plus. Iraq carries the past first in its Grade 3 stories, teaches it explicitly in Grade 4 — went, saw, had, did, played, was/were, did-questions and There was/were — and tables the past forms whole in its Grade 7 Student's Book reference. Ethiopia introduces the simple past in Grade 4 with regular and irregular forms, teaches it in full — affirmative, negative and interrogative — in Grade 5, returns to it in Grade 7, and contrasts it with the present perfect in Grade 9. South Africa makes the past a spine of the whole set: Grade 1 Workbook 2 rewrites in the past with -ed and "Yesterday I…" strips, Grade 2 Workbook 2 sets out the -ed system with its rule and the irregular verbs, Grade 4 Workbook 1 tabulates regular and irregular past forms, and Grade 2 FAL teaches past -ed heard as /t/ after a past-tense narrative. Syria compresses the whole past system into Grade 3's final units — was/were and there was/were, regular -ed, could/couldn't — then stages it again in Grade 4, regular past first and irregular past with did/didn't second. Other closed countries join as their books
+Greece stages the past in Grade 5 — affirmative first, then negatives and questions, then the continuous and the two pasts together — combines the two boxes in Grade 6, and rebuilds the narrative past at Grade 7. Kazakhstan starts the lexical past at Grade 4 in Smiles (the other Grade 4 books stop at *was/were*), stages regular and irregular past inside one Grade 5 Excel module, and gives the tense its questions and negatives in both Grade 5 and Grade 6 English Plus. Iraq carries the past first in its Grade 3 stories, teaches it explicitly in Grade 4 — went, saw, had, did, played, was/were, did-questions and There was/were — and tables the past forms whole in its Grade 7 Student's Book reference. Ethiopia introduces the simple past in Grade 4 with regular and irregular forms, teaches it in full — affirmative, negative and interrogative — in Grade 5, returns to it in Grade 7, and contrasts it with the present perfect in Grade 9. South Africa makes the past a spine of the whole set: Grade 1 Workbook 2 rewrites in the past with -ed and "Yesterday I…" strips, Grade 2 Workbook 2 sets out the -ed system with its rule and the irregular verbs, Grade 4 Workbook 1 tabulates regular and irregular past forms, and Grade 2 FAL teaches past -ed heard as /t/ after a past-tense narrative. Syria compresses the whole past system into Grade 3's final units — was/were and there was/were, regular -ed, could/couldn't — then stages it again in Grade 4, regular past first and irregular past with did/didn't second. South Sudan joined 2026-11-03: its Primary 4 Pupil's Book states the past tense in a Unit 8 NOTE with its conversion table, and its Secondary 1 Student's Book teaches the past simple in full — -ed spelling rules, didn't negatives and did questions — in Unit 3. Other closed countries join as their books
 are read (see READING-QUEUE.md).
 
 **Laos Grade 6 added 2026-10-27** — *English for Secondary
@@ -193,3 +198,5 @@ sets the past out whole in its reference's past-forms table
 **South Africa added 2026-11-03** — *DBE Rainbow Workbooks* (Department of Basic Education, South Africa, Sixteenth edition 2026; full read in english/books/south-africa.md). South Africa's past is a spine of the whole set: **-ed rewriting and "Yesterday I…" strips in Grade 1 HL Workbook 2** (printed pp.84, 88–95), the **-ed system with its rule and irregular verbs in Grade 2 HL Workbook 2** (printed pp.16–17, 80), **regular and irregular past forms tabulated in Grade 4 HL Workbook 1** (printed pp.98–99), and in FAL a **past-tense narrative** (printed pp.38–39) followed by **past -ed heard as /t/** (printed pp.52–53) in Grade 2 Workbook 1.
 
 **Syria added 2026-11-03** — *Emar series* (Syria, Ministry of Education; full read in english/books/syria.md). Syria's past arrives compressed, then staged: **was/were and there was/were, regular past -ed and could/couldn't in Grade 3's final units** (Pupil's Book 3, Units 21, 23 and 24, printed pp.63–65, 69–71 and 72–74), then **regular past simple in Grade 4, Unit 14** (printed pp.48–50) and **irregular past simple with did/didn't questions and negatives in Unit 15** (printed pp.51–53).
+
+**South Sudan added 2026-11-03** — 2 books stock this lesson: **Book:** *Secondary English 1 Student's Book* — South Sudan, Ministry of General Education and Instruction, © 2018. **Book:** *Primary English 4 Pupil's Book* — South Sudan, Ministry of General Education and Instruction, © 2018. All filed in english/books/south-sudan.md (Secondary 1 (Grade 9) — Secondary English 1 Student's Book, Primary 4 — Primary English 4 Pupil's Book sections, FULLY READ + CITATION CHECK PASSED 2026-11-03). The past arrives first as a single stated lesson in **Primary 4, Unit 8** — the NOTE "Past tense refers to things that happen in the past", with **eat → ate, jump → jumped**, sentence conversion and the **is–was / come–came table** (printed pp.120–121) — and is taught in full in **Secondary 1, Unit 3**: the **-ed spelling rules, didn't + infinitive negatives and did questions** (Language practice, printed pp.90–92).

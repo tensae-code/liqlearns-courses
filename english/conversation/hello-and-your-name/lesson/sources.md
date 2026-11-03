@@ -1,6 +1,6 @@
 # Sources for this lesson — Greetings
 
-countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
+countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag.
@@ -59,6 +59,10 @@ side by side on one PDF page — that was wrong.
 | The greeting exchanges practised by listen-and-match — Good morning / How are you? / What's your name? / Goodbye | Syria — Emar English Series Workbook 1, Unit 1, printed pp.3–5 |
 | The exchange re-opened a year up as Grade 1 revision — names and age, and "Where do you live? I live in Damascus/London" | Syria — Emar Syrian Series Pupil's Book 2, Unit 1 "Welcome Back", printed pp.3–5 ("Hello, I'm Alex." printed p.3; "I live in Damascus." printed p.4) |
 | Greetings and introductions re-taught in Grade 4 — Unit 1 "Nice to Meet You", with verb *be* and saying where you are from, practised again in its Workbook (Unit 1, printed pp.5–7) | Syria — Emar English Series Pupil's Book 4, Unit 1, printed pp.3–5 |
+| The course opens on greetings (Unit 1) and the name exchange (Unit 2): "My name is Miss Alam" / "My name is ___" and "What is your name?", with a hello song in Unit 1 (frames inside model texts only — the primary books teach no named grammar, recorded as filed) | South Sudan — Primary English 1, Pupil's Book, Unit 1, printed pp.1–7; Unit 2, printed pp.8–12 ("My name is Miss Alam" printed p.8) |
+| The same opening planned for the teacher — Unit 1's greetings sections, then Unit 2's "My name" and "What is your name?", with pair role-play using learners' own names | South Sudan — Primary English 1, Teacher's Guide, Unit 1, printed pp.5–16; Unit 2, printed pp.17–25 ("my name is Miss Alam or Mr Omot" printed p.19) |
+| Self-introductions one step up — name, class ("I am in Primary Two") and a like | South Sudan — Primary English 2, Pupil's Book, Unit 2 "Myself", printed pp.7–13 |
+| Full self-introductions — Keji and Lam give name, sex, age eight, Primary Three and a loved subject | South Sudan — Primary English 3, Pupil's Book, Unit 2 "Myself", printed pp.7–13 ("I am eight years old." printed p.7) |
 
 **Second country merged 2026-10-25 — Libya:**
 English for Libya, Pupils Book Grade 1 (CERC, Ministry of Education,
@@ -101,7 +105,7 @@ rendered page the same day).
 - Unit 1 "Greeting and Numbers," p. 14 (Hello/Hi, Goodbye/bye tracing;
   "What's your name? / My name's" tracing strips, p. 16).
 
-**Acceptance count: taught in 17 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria).**
+**Acceptance count: taught in 18 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan).**
 China adds name exchanges from its first primary page and the
 "Where are you from? — I'm from …" origin frame (Grades 3), plus
 five printed ways to say goodbye (Grade 6 Volume 2); North
@@ -152,6 +156,12 @@ listen-and-match — its Grade 2 book re-opens on the
 exchange as revision ("Hello, I'm Alex.", printed p.3),
 and its Grade 4 book re-teaches greetings and
 introductions as Unit 1 "Nice to Meet You."
+South Sudan joined 2026-11-03: its Primary 1 book opens
+on greetings and the name frames — "My name is…" /
+"What is your name?" — planned section by section in
+its Teacher's Guide, and its Primary 2 and Primary 3
+books re-run the self-introduction with class, likes
+and a loved subject.
 This lesson is the first layer. Courses are built from every CLOSED
 country's books (his ruling, 2026-11-03 — superseding the 2026-10-25
 finished-only rule), and updated as the library updates: when a
@@ -517,3 +527,40 @@ Meet You" (printed pp.3–5), re-teaches greetings and
 introductions with saying where you are from, its
 Workbook practising them again (Workbook 4, Unit 1,
 printed pp.5–7; "nice to meet you", printed p.5).
+
+**South Sudan added 2026-11-03** — four books stock this
+lesson: **Book:** *Primary English 1, Pupil's Book*
+(pupil's book) — South Sudan, Ministry of General
+Education and Instruction, © 2018. **Book:** *Primary
+English 1, Teacher's Guide* (teacher's guide) — South
+Sudan, Ministry of General Education and Instruction,
+© 2018. **Book:** *Primary English 2, Pupil's Book*
+(pupil's book) — South Sudan, Ministry of General
+Education and Instruction, © 2018. **Book:** *Primary
+English 3, Pupil's Book* (pupil's book) — South Sudan,
+Ministry of General Education and Instruction, © 2018.
+All filed in english/books/south-sudan.md (Primary 1 —
+Primary English 1, Pupil's Book (pupil's book); Primary
+1 — Primary English 1, Teacher's Guide (teacher's
+guide); Primary 2 — Primary English 2, Pupil's Book
+(pupil's book); Primary 3 — Primary English 3, Pupil's
+Book (pupil's book) sections, FULLY READ + CITATION
+CHECK PASSED 2026-11-03). South Sudan opens its course
+on this lesson, like Egypt, Libya and Syria: Primary 1,
+Unit 1, "Greetings" (printed pp.1–7), teaches the
+greetings and a hello song, and Unit 2, "Myself"
+(printed pp.8–12), teaches introducing yourself by name
+— "My name is Miss Alam" (printed p.8), "My name is
+___" — and asking a name, "What is your name?". The
+frames are carried inside model texts only: the primary
+books teach no named grammar, and none is claimed here.
+The Teacher's Guide plans the same opening section by
+section (Unit 1, printed pp.5–16; Unit 2, printed
+pp.17–25, modelling "my name is Miss Alam or Mr Omot",
+printed p.19), with pair role-play using learners' own
+names. Primary 2, Unit 2, "Myself" (printed pp.7–13),
+re-runs the self-introduction one step up — name, class
+("I am in Primary Two") and a like — and Primary 3,
+Unit 2, "Myself" (printed pp.7–13), runs it full: Keji
+and Lam give name, sex, age eight, Primary Three and a
+loved subject ("I am eight years old.", printed p.7).

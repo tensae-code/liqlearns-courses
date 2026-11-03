@@ -1,6 +1,6 @@
 # Sources — The present perfect continuous
 
-countries: Egypt, Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
+countries: Egypt, Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Sudan
 
 Every part traces to its book and page.
 
@@ -50,6 +50,8 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 **Book 17:** English for Iraq, Grade 12, Student's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 12 — English for Iraq, 6th Preparatory Student's Book (Student's Book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 18:** English for Iraq, Grade 12, Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 12 — English for Iraq, 6th Preparatory Activity Book (Activity Book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 19:** English for Ethiopia, Grade 9 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 9 — English for Ethiopia, Student Textbook (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 20:** Secondary English 1 Student's Book (student's book) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md (Secondary 1 (Grade 9) — Secondary English 1 Student's Book (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 21:** Secondary English 1 Teacher's Guide (teacher's guide) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md (Secondary 1 (Grade 9) — Secondary English 1 Teacher's Guide (teacher's guide) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -77,9 +79,11 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | The Present perfect continuous box printed in the workbook's perfect-system rebuild, drilled beside ever/never, just/already/yet, How long with for/since, and *been* and *gone* | Iraq, English for Iraq Grade 12, Activity Book, Unit 5, printed pp.89–118 |
 | Present perfect and present perfect continuous taught together — forms tables, negatives and questions, since/for | Ethiopia, English for Ethiopia Grade 9 Student's Book, Unit 8, grammar 8.4, printed pp.160–179 |
 | The present perfect continuous revised in the four-tense summary table, with simple past, past continuous and present perfect | Ethiopia, English for Ethiopia Grade 9 Student's Book, Unit 10, printed p.212 (unit printed pp.203–223) |
+| The present perfect continuous taught outright as the unit's language practice: has/have + been + -ing, with for/since durations and "recently/lately" without duration | South Sudan, Secondary English 1 Student's Book, Unit 2 "Rural and Urban life," Language practice, printed pp.57–58 (unit printed pp.26–59) |
+| The tense re-taught in the guide with fuller rules and answers — "Opi has been running," "It has been raining for 3 days now" | South Sudan, Secondary English 1 Teacher's Guide, Unit 2 (guide Part B pp.23–38; answers, guide p.37) |
 
-**Acceptance count: taught in 8 countries (Egypt,
-Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).** Libya meets the tense at Grade 8 inside a
+**Acceptance count: taught in 9 countries (Egypt,
+Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Sudan).** Libya meets the tense at Grade 8 inside a
 records lesson, names it for recent habits at Grade 9,
 and drills it as a full lesson with for/since at Grade
 10. Egypt states the complete box at Secondary 12 — the
@@ -90,7 +94,7 @@ inside its complete 12-tense system. Jordan teaches the
 tense at Grade 10 as one lesson with its simple twin —
 Present Perfect Simple and Continuous together — and
 contrasts it again inside Grade 12's whole continuous-
-and-perfect system. Greece teaches this tense earliest of all — at Grade 6 in primary, with for/since on a timeline — states the simple/continuous contrast formally at Grade 9, and matches the continuous form's uses to examples again in the EPAL book. Kazakhstan brings the tense in at Grade 8 — named in Excel's tense revision and contrasted with its simple twin in Laser — and works the simple/continuous pair again at Grade 9 in both Full Blast! and English Plus. Iraq brings the tense in late and states its arrival plainly: not at Grade 9, where no held book teaches it, but at Grade 10 in the "Writing home" lesson; Grade 11 revises it with for/since in "What have they been doing?", and Grade 12 sets the simple form against the continuous inside its rebuilt perfect system, with the continuous box printed in the Activity Book. Ethiopia teaches the tense in Grade 9 — Unit 8 presents present perfect and present perfect continuous together with forms tables, negatives, questions and since/for, and Unit 10 revises it in its four-tense table. Other closed countries join
+and-perfect system. Greece teaches this tense earliest of all — at Grade 6 in primary, with for/since on a timeline — states the simple/continuous contrast formally at Grade 9, and matches the continuous form's uses to examples again in the EPAL book. Kazakhstan brings the tense in at Grade 8 — named in Excel's tense revision and contrasted with its simple twin in Laser — and works the simple/continuous pair again at Grade 9 in both Full Blast! and English Plus. Iraq brings the tense in late and states its arrival plainly: not at Grade 9, where no held book teaches it, but at Grade 10 in the "Writing home" lesson; Grade 11 revises it with for/since in "What have they been doing?", and Grade 12 sets the simple form against the continuous inside its rebuilt perfect system, with the continuous box printed in the Activity Book. Ethiopia teaches the tense in Grade 9 — Unit 8 presents present perfect and present perfect continuous together with forms tables, negatives, questions and since/for, and Unit 10 revises it in its four-tense table. South Sudan joined 2026-11-03: Secondary 1 teaches the tense outright in its Student's Book Unit 2 language practice — has/have + been + -ing, with for/since durations and recently/lately without duration — and its Teacher's Guide re-teaches it with fuller rules and answers. Other closed countries join
 as their books are read (see READING-QUEUE.md).
 
 **Laos checked — NOT stocked (series-final, 2026-10-27).**
@@ -126,3 +130,5 @@ inside examples only), and the Prospect years name no such
 form. Iran is deliberately absent from this lesson's
 countries line — the absence is checked, not
 unlooked-for.
+
+**South Sudan added 2026-11-03** — 2 books stock this lesson: **Book:** *Secondary English 1 Student's Book* — South Sudan, Ministry of General Education and Instruction, © 2018. **Book:** *Secondary English 1 Teacher's Guide* — South Sudan, Ministry of General Education and Instruction, © 2018. All filed in english/books/south-sudan.md (Secondary 1 (Grade 9) — Secondary English 1 Student's Book (student's book); Secondary 1 (Grade 9) — Secondary English 1 Teacher's Guide (teacher's guide), FULLY READ + CITATION CHECK PASSED 2026-11-03). South Sudan teaches this tense in full at Secondary 1: the Student's Book's Unit 2 "Rural and Urban life" language practice (printed pp.57–58) teaches the form outright — **has/have + been + -ing**, with **for/since** durations and **recently/lately** without duration — and the Teacher's Guide's Unit 2 (guide Part B pp.23–38) re-teaches it with fuller rules and answers ("Opi has been running"; "It has been raining for 3 days now," guide p.37). The honest limit filed beside it: the same Unit 2 practice conversation also mixes in present perfect simple forms, which are used there but never separately explained anywhere in the set — that use stocks nothing for the present-perfect lesson.

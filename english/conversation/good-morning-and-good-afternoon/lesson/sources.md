@@ -1,6 +1,6 @@
 # Sources for this lesson — Good morning and good afternoon
 
-countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria
+countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -27,8 +27,10 @@ explains one thing only.
 | Times of the day with their matching greetings — morning / afternoon / evening / night taught with the greetings that go with them (the filing describes this unit's work as times of day with matching greetings; the words "Good afternoon" themselves are not quoted in the Ethiopia filing, so this row is worded from the filing as filed) | Ethiopia — English for Ethiopia, Grade 1 Student's Book, Unit 2 "Times of The Day", printed pp.27–42 |
 | "Good morning. This is today's weather." — the morning greeting opening a weather-broadcast script (South Africa's filed books teach the morning greeting only: "Good afternoon" occurs zero times in all 24 South Africa books) | South Africa — English Home Language, Grade 3 Workbook 2 (Rainbow Workbooks), printed p.74 |
 | "Good morning" among the first greeting formulas of the course — Hello / Good morning / How are you? — I'm fine — practised by listen-and-match in the Workbook (Syria's filed books teach the morning greeting only: no "Good afternoon" greeting is printed anywhere in the Syria read — the phrase "good afternoon" does not occur in english/books/syria.md at all) | Syria — Emar English Series Pupil's Book 1, Unit 1, printed pp.3–5; Emar English Series Workbook 1, Unit 1, printed pp.3–5 ("Good morning." — Workbook 1, printed p.5) |
+| "Good morning" and "Good afternoon" taught as a pair inside one greetings unit — "Good morning, Kenyi." / "Good morning all." / "Good afternoon, John." — with goodbye, good evening and goodnight beside them and a closing picture-matching exercise in which the learner says the greeting that fits each picture | South Sudan — Primary English 1, Pupil's Book, Unit 1 "Greetings", printed pp.1–7 ("Good morning, Kenyi." printed p.1; "Good afternoon, John." printed p.3) |
+| The pair planned as consecutive sections for the teacher — A Good morning, B Good afternoon, then C Goodbye and D Good evening (the guide fixes the evening usage: good evening "after four o'clock to about seven o'clock"), closing with picture-to-greeting matching with expected answers given | South Sudan — Primary English 1, Teacher's Guide, Unit 1, printed pp.5–16 (Pupil's Book pp.1–7) |
 
-**Acceptance count: taught in 13 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria).**
+**Acceptance count: taught in 14 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan).**
 China teaches the pair inside its colours unit in the first
 primary book; Mongolia stocks the day-part ground the greeting
 stands on — one boy's whole day told in clock pictures — from a
@@ -62,6 +64,12 @@ too — "Good morning" stands among the greeting formulas
 of its Grade 1 first unit and is practised in its
 Workbook; no afternoon greeting is printed in its
 filed books either.
+South Sudan joined 2026-11-03 with the pair itself, in
+full — unlike the morning-only countries above, its
+Primary 1 greetings unit teaches "Good afternoon" as
+its own exchange ("Good afternoon, John.", printed
+p.3) beside "Good morning", and its Teacher's Guide
+plans the two as consecutive sections.
 Counts grow as other closed countries' first books are read.
 
 **China added 2026-10-29** — **Book:** *Compulsory Education
@@ -258,3 +266,30 @@ not occur in english/books/syria.md at all, and none is
 claimed here. Syria is therefore counted for the morning
 half of this lesson, exactly as Jordan, Greece and Iraq
 are above.
+
+**South Sudan added 2026-11-03** — two books stock this
+lesson, in full: **Book:** *Primary English 1, Pupil's
+Book* (pupil's book) — South Sudan, Ministry of General
+Education and Instruction, © 2018. **Book:** *Primary
+English 1, Teacher's Guide* (teacher's guide) — South
+Sudan, Ministry of General Education and Instruction,
+© 2018. Both filed in english/books/south-sudan.md
+(Primary 1 — Primary English 1, Pupil's Book (pupil's
+book); Primary 1 — Primary English 1, Teacher's Guide
+(teacher's guide) sections, FULLY READ + CITATION CHECK
+PASSED 2026-11-03). FULL STOCK, recorded as such: South
+Sudan is one of the few countries in this file that
+teaches the pair itself. Primary 1, Unit 1, "Greetings"
+(printed pp.1–7), teaches the time-of-day greetings as
+fixed exchanges — "Good morning, Kenyi." (printed p.1),
+"Good morning all." (printed p.2) and "Good afternoon,
+John." (printed p.3) — with goodbye, good evening and
+goodnight beside them and a closing picture-matching
+exercise (printed p.7) in which the learner says the
+greeting that fits each picture. The Teacher's Guide
+plans the same unit as consecutive sections — A Good
+morning, B Good afternoon, C Goodbye, D Good evening —
+and fixes the evening usage: good evening "after four
+o'clock to about seven o'clock" (Unit 1, printed
+pp.5–16). No morning-only limit applies here, and none
+is recorded.
