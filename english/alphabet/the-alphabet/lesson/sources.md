@@ -1,6 +1,6 @@
 # Sources — The alphabet
 
-countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
+countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
 
 Every part traces to its book and page. The PDF of Libya's Pupils Book
 is one book page per PDF page, with the book page printed at the
@@ -96,6 +96,12 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 15:** English for Ethiopia, Grade 1 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 1 — English for Ethiopia Student's Book Grade 1 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 **Book 16:** English for Ethiopia, Grade 1 Teacher's Guide — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 1 — English for Ethiopia Teacher's Guide Grade 1 (teacher's guide), FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 17:** *English Home Language, Grade 1 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026.
+
+**Book 18:** *English First Additional Language, Grade 1 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026.
+
+**Book 19:** *English First Additional Language, Grade 1 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. (Cited in this file for the honest negative only: it has no letter–sound sequence at all — see the South Africa section at the end of this file.)
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -290,8 +296,10 @@ sound is learned.
 | The alphabet as the first year's real work — small and capital alphabet charts (listen-and-repeat) and two alphabet songs, with letter-by-letter teaching in Unit 1: letters Aa Bb Ff Mm Ss through Brother/Father/Mother/Sister, and the sounds /a/ /b/ /m/ /f/ /s/ with picture words (apple, ant, axe; bag, book, bat; fish, fox, foot; moon, mouse, match; sandal, sun, snake) | Ethiopia — English for Ethiopia, Grade 1 Student's Book, Unit 1, printed pp.1–26 |
 | The remaining letters completed in the last unit — e, i, j, k, n, q, u, v, x, z with elephant, iron, jet, kangaroo, nose, queen, umbrella, village, xylophone, zebra | Ethiopia — English for Ethiopia, Grade 1 Student's Book, Unit 8, printed pp.109–132 |
 | The alphabet teaching planned lesson by lesson — small then capital letters, the sounds /a/ /b/ /m/ /f/ /s/, in the guide's Unit 1 | Ethiopia — English for Ethiopia, Grade 1 Teacher's Guide, Unit 1, printed pp.5–46 |
+| All 26 letters taught with letter formation, one letter per worksheet, in the order s a t p i n m d o g \| c k e u r b f l h j v w y z q x, plus a picture dictionary of first sounds and the blank "My dictionary" alphabet pages | South Africa — English Home Language, Grade 1 Workbook 1 (Rainbow Workbooks), printed pp.26–126; picture dictionary and "My dictionary" pages, printed pp.130–131 |
+| The letters taught as sounds in their own order (s a t p i n b m g o e h f u r k d j l x y z c w), with letter formation in every worksheet, and the whole alphabet practised in the library worksheet | South Africa — English First Additional Language, Grade 1 Workbook 2 (Rainbow Workbooks), library worksheet, printed p.69 |
 
-**Acceptance count: taught in 12 countries (Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).**
+**Acceptance count: taught in 13 countries (Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).**
 China joins through its Grade 3 Volume 1: the ABC song is placed
 before any letter teaching (Unit 1, p.6), and Recycle 2 adds a
 missing-letter sequence exercise (p.69) — the alphabet as a sung
@@ -466,3 +474,32 @@ completed in Unit 8 (printed pp.109–132) with elephant,
 iron, jet, kangaroo, nose, queen, umbrella, village,
 xylophone, zebra. The Grade 1 Teacher's Guide Unit 1
 (printed pp.5–46) plans the same teaching lesson by lesson.
+
+**South Africa added 2026-11-03** — three books are cited
+for this lesson (Books 17–19 above): **Book:** *English
+Home Language, Grade 1 Workbook 1 (Rainbow Workbooks)* —
+South Africa, Department of Basic Education, Sixteenth
+edition 2026. **Book:** *English First Additional
+Language, Grade 1 Workbook 2 (Rainbow Workbooks)* — South
+Africa, Department of Basic Education, Sixteenth edition
+2026. **Book:** *English First Additional Language, Grade
+1 Workbook 1 (Rainbow Workbooks)* — South Africa,
+Department of Basic Education, Sixteenth edition 2026.
+All filed in english/books/south-africa.md (FULLY READ +
+CITATION CHECK PASSED 2026-11-03). South Africa stocks
+this lesson in full, in two strands at two depths. The HL
+Grade 1 Workbook 1 teaches all 26 letters with letter
+formation, one letter per worksheet, in the order s a t p
+i n m d o g | c k e u r b f l h j v w y z q x (printed
+pp.26–126), and closes with a picture dictionary of first
+sounds and the blank "My dictionary" alphabet pages
+(printed pp.130–131). The FAL Grade 1 Workbook 2 teaches
+the letters as sounds in its own order (s a t p i n b m g o
+e h f u r k d j l x y z c w), with letter formation inside
+every worksheet, and practises the whole alphabet in its
+library worksheet (printed p.69). The honest strand
+contrast is recorded as filed: the FAL Grade 1 Workbook 1
+has NO letter–sound sequence at all — its phonics arrives
+only in Workbook 2 — so FAL's alphabet stock here is
+Workbook 2's, and Workbook 1 is cited for that negative
+only.

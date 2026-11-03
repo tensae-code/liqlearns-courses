@@ -1,6 +1,6 @@
 # Sources — Finding the idea of a text
 
-countries: Bangladesh, Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
+countries: Bangladesh, Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
 
 Every part traces to its book and page.
 
@@ -111,6 +111,10 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 22:** English for Iraq, Grade 12, Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 12 — English for Iraq, 6th Preparatory Activity Book (Activity Book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 23:** English for Ethiopia, Grade 7 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 7 — English for Ethiopia, Student Textbook (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 24:** *English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 25:** *English First Additional Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 26:** *English First Additional Language, Grade 5 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Paragraph Development — the four modes named (expository, narrative, description, argument); "main idea vs supporting details; cohesive devices" — the weighing itself, named as the reading skill | Ghana, NaCCA JHS curriculum, Strand (Paragraph Development, as filed) |
@@ -143,9 +147,12 @@ CITATION CHECK PASSED 2026-11-03).
 | The main idea hunt taught as exam technique, with a worked example: the military-jobs text's main-idea question answered step by step, with why each wrong option is wrong explained | Iraq, English for Iraq Grade 12, Activity Book, Unit 2, Lesson 5, printed pp.26–48 |
 | Main idea set against supporting details paragraph by paragraph on the banker text, true/false answers checked with the evidence underlined; the saving-and-investing text worked by matching paragraph headings ("Start early", "A safer investment") | Iraq, English for Iraq Grade 12, Activity Book, Unit 6, Lessons 3 and 10, printed pp.119–146 |
 | Finding the main idea and supporting details as the named writing work — the main idea NAMED, and set against its supporting details | Ethiopia, English for Ethiopia Grade 7 Student's Book, Unit 4, Writing, printed pp.45–58 |
+| The main idea worked by name on a biography text: the Pelé worksheet works the main character, the main idea and a summary, beside the topic-sentence definition — "A topic sentence summarises the main idea in a sentence" | South Africa, English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks), printed p.20 |
+| Topic sentences and main ideas named together in the strand's own spine — the idea hunt named as the book's language work | South Africa, English First Additional Language, Grade 5 Workbook 1 (Rainbow Workbooks), as filed in its section in english/books/south-africa.md |
+| The main idea worked with note-taking — the text carried down to its main idea in the learner's notes | South Africa, English First Additional Language, Grade 5 Workbook 2 (Rainbow Workbooks), Theme 8, as filed in its section in english/books/south-africa.md |
 
-**Acceptance count: taught in 11 countries (Bangladesh,
-Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).** Ghana names the weighing (main idea vs supporting
+**Acceptance count: taught in 12 countries (Bangladesh,
+Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).** Ghana names the weighing (main idea vs supporting
 details) and the own-words law; Bangladesh sets the choice
 as a task; China hunts the idea by title-choice and by the
 one question a whole text answers, and names the
@@ -181,6 +188,8 @@ headings from Grade 8 up;
 Ethiopia names the hunt outright — its Grade 7
 writing work is finding the main idea and supporting
 details, the main idea named in the student's book
-itself.
+itself; South Africa uses "main idea" by name — its Grade 5 Home Language Pelé worksheet works the main character, the main idea and a summary beside its topic-sentence definition (printed p.20), its Grade 5 First Additional Language Workbook 1 names topic sentences and main ideas in its spine, and its Grade 5 First Additional Language Workbook 2 works the main idea with note-taking (Theme 8).
 Other closed countries join as their books are
 read (see READING-QUEUE.md).
+
+**South Africa added 2026-11-03** — three books stock this lesson: *English Home Language, Grade 5 Workbook 1*, *English First Additional Language, Grade 5 Workbook 1* and *English First Additional Language, Grade 5 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. South Africa uses "main idea" by name: the Home Language Grade 5 Workbook 1's Pelé worksheet works the main character, the main idea and a summary, alongside the topic-sentence definition (printed p.20); the First Additional Language Grade 5 Workbook 1's spine names topic sentences and main ideas; and the First Additional Language Grade 5 Workbook 2 works the main idea with note-taking (Theme 8).

@@ -1,6 +1,6 @@
 # Sources — Words you don't know
 
-countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia
+countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa
 
 Every part traces to its book and page.
 
@@ -75,6 +75,9 @@ CHECK PASSED 2026-11-03).
 **Book 19:** English for Ethiopia, Grade 11 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 11 — ENGLISH / STUDENT TEXTBOOK / GRADE 11 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 20:** English for Ethiopia, Grade 4 Teacher's Guide — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 4 — English for Ethiopia, Grade 4 Teacher's Guide (teacher's guide), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 21:** *English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 22:** *English First Additional Language, Grade 6 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Every unit's opening instruction — "Notice these expressions in the text. Infer their meaning from the context" — standing at the head of the reading apparatus in both senior books, with vocabulary work built around inferring before checking | India, Hornbill (Class XI) and Flamingo (Class XII), the About the Book / unit apparatus (as filed) |
@@ -100,9 +103,11 @@ CHECK PASSED 2026-11-03).
 | Guessing from context as the vocabulary work of the global-warming unit | Ethiopia, English for Ethiopia Grade 11 Student's Book, Unit 6, Vocabulary, printed pp.141–164 |
 | Guessing from context as the vocabulary work of the artificial-intelligence unit | Ethiopia, English for Ethiopia Grade 11 Student's Book, Unit 10, Vocabulary, printed pp.253–272 |
 | A guessing-meanings lesson in the teacher's guide — the meanings worked out, not given, inside the Soil unit's lessons | Ethiopia, English for Ethiopia Grade 4 Teacher's Guide, Unit 4, printed p.44 (guide pagination) |
+| Guessing unknown words from the text around them, practised on nonsense words themselves: Carroll's "Jabberwocky" read and its nonsense words' meanings guessed from the poem | South Africa, English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks), printed pp.110–113 |
+| Working out word meanings taught as a strategy set — synonyms and antonyms, prefixes and suffixes, and context clues named together as the routes to an unknown word | South Africa, English First Additional Language, Grade 6 Workbook 2 (Rainbow Workbooks), Theme 8, as filed in its section in english/books/south-africa.md |
 
-**Acceptance count: taught in 10 countries (Bangladesh,
-Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia).** India's senior books print the
+**Acceptance count: taught in 11 countries (Bangladesh,
+Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa).** India's senior books print the
 command at every unit's head; Bangladesh names the routine;
 Ghana pairs context with word relationships; Libya's texts
 gloss in the line; China coaches the guessing itself, in a
@@ -131,5 +136,7 @@ accident words with meanings guessed from context,
 Grade 11 returns to contextual guessing in Unit 3
 and to guessing from context in Units 6 and 10, and
 its Grade 4 teacher's guide carries a guessing-meanings
-lesson. Other closed countries join as their
+lesson; South Africa practises the guessing on nonsense words themselves — its Grade 5 Home Language book reads Carroll's "Jabberwocky" and has learners guess the nonsense words' meanings from the poem (printed pp.110–113) — and teaches working out word meanings as a strategy set in its Grade 6 First Additional Language Workbook 2: synonyms and antonyms, prefixes and suffixes, and context clues (Theme 8). Other closed countries join as their
 books are read (see READING-QUEUE.md).
+
+**South Africa added 2026-11-03** — two books stock this lesson: *English Home Language, Grade 5 Workbook 1* and *English First Additional Language, Grade 6 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. The stock is the lesson's guessing-from-context part: the Home Language book reads Carroll's "Jabberwocky" and has learners guess the nonsense words' meanings from the poem (printed pp.110–113), and the First Additional Language book teaches working out word meanings as a strategy set — synonyms and antonyms, prefixes and suffixes, and context clues (Theme 8).

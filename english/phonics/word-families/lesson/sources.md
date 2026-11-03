@@ -1,6 +1,6 @@
 # Sources for this lesson — Word families
 
-countries: Egypt, Laos, China, Sierra Leone, Jordan
+countries: Egypt, Laos, China, Sierra Leone, Jordan, South Africa
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -31,8 +31,13 @@ pictures).
 | Named Word Family lessons as a year-long programme — create, read and write a rime family in lesson one; illustrate and label a word from the family in lesson two. Term 1 families: **un, ee, eep, eat, oss, ink, ick, ip, ock** | Sierra Leone — Language Arts Primary 3 Lesson Plans, Term 1, Lessons 13–14, 17–18, 23–24, 34–35, 38, 45, 48, 54, 59 (PDF pp.33, 35, 41, 43, 53, 55, 75, 77, 83, 97, 103, 115, 124) |
 | The silent-e patterns **a-e** and **i-e** — bike, five; cake, plane — carried by a tongue twister built on nine cakes / five bikes / a plane; the Activity Book matches the same patterns word-to-picture with a wider set (bike, cake, gate, snake, kite, plane) | Jordan — Team Together Grade 2: Pupil's Book, Semester 1, Unit 1, printed pp.8–15; Activity Book, Semester 1, Unit 1, printed pp.6–13 |
 | The programme continued — Term 2 families: **oat, ook, ance, ay, ean, end, ice, oon, ire, ear, ound**; Term 3 families: **ast, ine, ix, est** (ast built from flash-card onsets f, c, m, l, p) | Sierra Leone — Language Arts Primary 3 Lesson Plans, Term 2, Lessons 65, 69, 72, 83, 88, 93, 99–100, 101, 108, 112, 119–120 (PDF pp.16, 24, 30, 52, 62, 72, 84, 86, 88, 102, 110, 124, 126); Term 3, Lessons 122, 128, 133, 138 (PDF pp.8, 20, 30, 40) |
+| The **-at** family (cat, bat, rat, fat, hat, mat, sat, pat) — the book is built on word families | South Africa — English First Additional Language, Grade 2 Workbook 1 (Rainbow Workbooks), printed pp.8–9 |
+| The **-en** family and the **s** family | South Africa — English First Additional Language, Grade 2 Workbook 1 (Rainbow Workbooks), printed pp.14–15 (-en family); printed pp.20–21 (s family) |
+| Letter families worked through Themes 4–10 (o, i, n, d, g, u, e, h, f, l) | South Africa — English First Additional Language, Grade 2 Workbook 1 (Rainbow Workbooks), Themes 4–10 |
+| CVC word families built on each week's letters (sat/sad/sit/sun-type sets) | South Africa — English Home Language, Grade 1 Workbook 1 (Rainbow Workbooks), Term 1 |
+| The **lt, ight, th** and **wh** word families (Theme 1) | South Africa — English First Additional Language, Grade 4 Workbook 1 (Rainbow Workbooks), Theme 1 |
 
-**Acceptance count: taught in 5 countries (Egypt, Laos, China, Sierra Leone, Jordan).**
+**Acceptance count: taught in 6 countries (Egypt, Laos, China, Sierra Leone, Jordan, South Africa).**
 China adds a complete short-vowel cycle inside one volume —
 one Let's spell set per vowel, reviewed as a whole system
 (Grade 3 Volume 2) — the silent-e ladder that turns those
@@ -232,3 +237,26 @@ Jordan does NOT name or group short-vowel rime families in
 the filed read: its Grade 1 CVC word lists (bat, bed, cap,
 cat …) are taught as building and blending, and are filed
 in phonics/blending-sounds, not here.
+
+**South Africa added 2026-11-03** — three books stock this
+lesson: **Book:** *English First Additional Language,
+Grade 2 Workbook 1 (Rainbow Workbooks)* — South Africa,
+Department of Basic Education, Sixteenth edition 2026.
+**Book:** *English Home Language, Grade 1 Workbook 1
+(Rainbow Workbooks)* — South Africa, Department of Basic
+Education, Sixteenth edition 2026. **Book:** *English
+First Additional Language, Grade 4 Workbook 1 (Rainbow
+Workbooks)* — South Africa, Department of Basic Education,
+Sixteenth edition 2026. All filed in
+english/books/south-africa.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03). South Africa genuinely has rime
+families, unlike several earlier countries in this file:
+the FAL Grade 2 Workbook 1 is built on word families — the
+-at family (cat, bat, rat, fat, hat, mat, sat, pat) at
+printed pp.8–9, the -en family at printed pp.14–15, the s
+family at printed pp.20–21, and letter families worked
+through Themes 4–10 (o, i, n, d, g, u, e, h, f, l). The HL
+Grade 1 Workbook 1 builds CVC word families on each week's
+letters (sat/sad/sit/sun-type sets), and the FAL Grade 4
+Workbook 1 works the lt, ight, th and wh word families in
+its Theme 1.

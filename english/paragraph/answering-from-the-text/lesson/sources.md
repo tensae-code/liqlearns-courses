@@ -1,6 +1,6 @@
 # Sources — Answering from the text
 
-countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
+countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
 
 Every part traces to its book and page.
 
@@ -107,6 +107,10 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 23:** English for Iraq, Grade 12, Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 12 — English for Iraq, 6th Preparatory Activity Book (Activity Book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 24:** English for Ethiopia, Grade 8 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 8 — English for Ethiopia, Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 25:** *English Home Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 26:** *English First Additional Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 27:** *English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "'Think as you read' questions sit inside the text at each break to check factual comprehension as the learner goes" — answering from the carrier while reading | India, Flamingo, About the Book apparatus (as filed; Hornbill's apparatus is twin) |
@@ -140,9 +144,12 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 | The unseen text in examination format: the unit Test built on a four-paragraph text about Pakistan, its questions answerable from that text alone | Iraq, English for Iraq Grade 10, Activity Book, Unit 1, Test, printed pp.24–25 |
 | Answering with the evidence shown: the banker text worked hard — true/false items with the evidence underlined in the text, beside main-idea and active-or-passive work on the same text | Iraq, English for Iraq Grade 12, Activity Book, Unit 6, Lesson 3, printed pp.119–146 |
 | The question kinds worked as a standing triad over every reading text: direct questions (the answer stated in the text), inferential questions (the answer deduced from it) and referential questions (what a word in the text points to) — the triad at work in the Animal Conservation unit | Ethiopia, English for Ethiopia Grade 8 Student's Book, Unit 4, printed pp.38–58 (the triad is the book's repeated reading pattern, as filed in its section) |
+| Comprehension answered in writing from the passage as the book's standing routine: answers are written in full sentences from the passage, under the standing instruction that answers start with a capital letter and end with a full stop | South Africa, English Home Language, Grade 3 Workbook 1 (Rainbow Workbooks), as filed in its section in english/books/south-africa.md |
+| Seven written comprehension questions answered from a health article — the answers carried by the article itself | South Africa, English First Additional Language, Grade 3 Workbook 1 (Rainbow Workbooks), printed pp.22–23 |
+| Comprehension answered from a story, then the story carried down in writing: a 40–50-word summary of the story | South Africa, English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks), Theme 1, as filed in its section in english/books/south-africa.md |
 
-**Acceptance count: taught in 12 countries (Egypt, Ghana,
-India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).** India builds the carrier hunt into the page and
+**Acceptance count: taught in 13 countries (Egypt, Ghana,
+India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).** India builds the carrier hunt into the page and
 prints the question-kind border; Ghana demands textual
 evidence under personal responses; Egypt examines by the
 unseen passage; China grades the answering shapes themselves
@@ -181,6 +188,8 @@ reading work runs on direct / inferential / referential
 question triads over every text (the answer stated, the
 answer deduced, the reference resolved), but no read
 Ethiopia book names the honest "the text doesn't say"
-answer, so that part rests on the other countries.
+answer, so that part rests on the other countries; South Africa answers in writing from the text through the whole set — its Grade 3 Home Language book's standing instruction is that answers are written in full sentences from the passage, its Grade 3 First Additional Language book answers seven written comprehension questions on a health article (printed pp.22–23), and its Grade 4 Home Language book answers comprehension and writes a 40–50-word summary of a story (Theme 1) — plainly literal-level comprehension, inference appearing only as occasional "Why do you think…?" questions.
 Other closed countries join as their
 books are read (see READING-QUEUE.md).
+
+**South Africa added 2026-11-03** — three books stock this lesson: *English Home Language, Grade 3 Workbook 1*, *English First Additional Language, Grade 3 Workbook 1* and *English Home Language, Grade 4 Workbook 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. Comprehension questions answered in writing from the text run through the whole set: the Grade 3 Home Language book's standing instruction is that answers are written in full sentences from the passage; the Grade 3 First Additional Language book answers seven written comprehension questions on a health article (printed pp.22–23); and the Grade 4 Home Language book answers comprehension and writes a 40–50-word summary of a story (Theme 1). South Africa's comprehension is literal-level — inference appears only as occasional "Why do you think…?" questions.

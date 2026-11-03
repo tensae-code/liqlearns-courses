@@ -1,6 +1,6 @@
 # Sources for this lesson — How old are you?
 
-countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
+countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -36,8 +36,10 @@ Libya (Garnet) · Books verified on disk 2026-10-25.
 | Age given inside the self-introduction dialogues of Grade 1 — name, age and home town given together (the filed read gives the dialogues' content, not a printed "How old are you?" wording, and none is claimed here) | Ethiopia — English for Ethiopia, Grade 1 Student's Book, Unit 2 "Times of The Day," printed pp.27–42 |
 | Age stated whole in a listening text: Bontu is "eight years old", in the family listening text of Grade 2's first unit | Ethiopia — English for Ethiopia, Grade 2 Student's Book, Unit 1 "Our Surroundings," printed p.4 |
 | Age as a named item of the personal-information exchange — name, father's name, age, origin, grade — in Grade 4's opening speaking work | Ethiopia — English for Ethiopia, Grade 4 Student's Book, Unit 1 "People and Their Work," printed pp.1–20 |
+| The exact frame taught with counting — "How old are you?" (Theme 2) | South Africa — English First Additional Language, Grade 1 Workbook 1 (Rainbow Workbooks), Theme 2, printed pp.10–11 |
+| Birthday and month work recurring a year up | South Africa — English First Additional Language, Grade 2 Workbook 1 (Rainbow Workbooks), printed pp.68–69 |
 
-**Acceptance count: taught in 12 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
+**Acceptance count: taught in 13 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 China teaches the exchange in the full "years old" form with
 candle counting (Grade 3 Volume 1) and later ties age to the
 birthday date (Grade 5 Volume 2); North Macedonia practises it
@@ -308,3 +310,20 @@ recorded plainly: the filed read does not print a
 "How old are you?" question wording for Ethiopia, so
 Ethiopia is counted for the age-giving and
 age-as-personal-information work only, exactly as filed.
+
+**South Africa added 2026-11-03** — two books stock this
+lesson: **Book:** *English First Additional Language,
+Grade 1 Workbook 1 (Rainbow Workbooks)* — South Africa,
+Department of Basic Education, Sixteenth edition 2026.
+**Book:** *English First Additional Language, Grade 2
+Workbook 1 (Rainbow Workbooks)* — South Africa, Department
+of Basic Education, Sixteenth edition 2026. Both filed in
+english/books/south-africa.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03). South Africa teaches the question
+itself, in its FAL strand's first book: the FAL Grade 1
+Workbook 1's Theme 2 teaches the exact frame "How old are
+you?" with counting (printed pp.10–11) — the same Theme 2
+that follows the name exchange of its Theme 1, filed in
+conversation/hello-and-your-name. The birthday and month
+work then recurs a year up, in the FAL Grade 2 Workbook 1
+(printed pp.68–69).

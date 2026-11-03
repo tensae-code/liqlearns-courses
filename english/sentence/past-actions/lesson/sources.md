@@ -1,6 +1,6 @@
 # Sources — Past actions
 
-countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
+countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
 
 Every part traces to its book and page.
 
@@ -81,6 +81,14 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 22:** English for Ethiopia, Grade 7 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 7 — English for Ethiopia, Student Textbook (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 23:** English for Ethiopia, Grade 9 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 9 — English for Ethiopia, Student Textbook (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 24:** *English Home Language, Grade 1 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 25:** *English Home Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 26:** *English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 27:** *English First Additional Language, Grade 2 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | PAST SIMPLE box — subject + verb-ed + rest, positive and negative — and the "Do you remember these verbs?" matching list of irregular pasts (went, had, took, came, saw, gave, ate, drank, could, was/were…) | Mongolia, English VI, Unit 6 "School Trips," Lesson 2, p.64 (box and list as filed) |
@@ -118,9 +126,15 @@ CITATION CHECK PASSED 2026-11-03).
 | The simple past as the calendar unit's grammar | Ethiopia, English for Ethiopia Grade 7 Student's Book, Unit 2, printed pp.17–29 |
 | Simple past contrasted with present perfect, with since/for in the contrast table | Ethiopia, English for Ethiopia Grade 9 Student's Book, Unit 9, printed pp.180–202 |
 
-**Acceptance count: taught in 13 countries (Bolivia, Ghana,
+| The past by rewriting, with -ed forms and "Yesterday I…" strips | South Africa — English Home Language, Grade 1 Workbook 2 (Rainbow Workbooks), printed pp.84, 88–95 |
+| The -ed system set out with its rule, with irregular verbs beside it | South Africa — English Home Language, Grade 2 Workbook 2 (Rainbow Workbooks), printed pp.16–17, 80 |
+| Regular and irregular past forms tabulated together | South Africa — English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks), printed pp.98–99 |
+| A past-tense narrative carrying the past before the form work | South Africa — English First Additional Language, Grade 2 Workbook 1 (Rainbow Workbooks), printed pp.38–39 |
+| Past -ed taught by its sound, heard as /t/ | South Africa — English First Additional Language, Grade 2 Workbook 1 (Rainbow Workbooks), printed pp.52–53 |
+
+**Acceptance count: taught in 14 countries (Bolivia, Ghana,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
-Jordan, Greece, Kazakhstan, Iraq, Ethiopia).** Mongolia boxes the -ed frame and drills the
+Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).** Mongolia boxes the -ed frame and drills the
 movers by name; Bolivia states the whole paradigm including
 the Did/didn't law; Ghana seats the simple past where
 stories live; China adds the past staged regular first,
@@ -136,7 +150,7 @@ past regular-first for the senior exam; Jordan
 stages the past in Grade 4 — be first, then regular,
 then irregular — sets the past continuous against it
 in Grade 5, and re-teaches the simple past in Grade 8.
-Greece stages the past in Grade 5 — affirmative first, then negatives and questions, then the continuous and the two pasts together — combines the two boxes in Grade 6, and rebuilds the narrative past at Grade 7. Kazakhstan starts the lexical past at Grade 4 in Smiles (the other Grade 4 books stop at *was/were*), stages regular and irregular past inside one Grade 5 Excel module, and gives the tense its questions and negatives in both Grade 5 and Grade 6 English Plus. Iraq carries the past first in its Grade 3 stories, teaches it explicitly in Grade 4 — went, saw, had, did, played, was/were, did-questions and There was/were — and tables the past forms whole in its Grade 7 Student's Book reference. Ethiopia introduces the simple past in Grade 4 with regular and irregular forms, teaches it in full — affirmative, negative and interrogative — in Grade 5, returns to it in Grade 7, and contrasts it with the present perfect in Grade 9. Other closed countries join as their books
+Greece stages the past in Grade 5 — affirmative first, then negatives and questions, then the continuous and the two pasts together — combines the two boxes in Grade 6, and rebuilds the narrative past at Grade 7. Kazakhstan starts the lexical past at Grade 4 in Smiles (the other Grade 4 books stop at *was/were*), stages regular and irregular past inside one Grade 5 Excel module, and gives the tense its questions and negatives in both Grade 5 and Grade 6 English Plus. Iraq carries the past first in its Grade 3 stories, teaches it explicitly in Grade 4 — went, saw, had, did, played, was/were, did-questions and There was/were — and tables the past forms whole in its Grade 7 Student's Book reference. Ethiopia introduces the simple past in Grade 4 with regular and irregular forms, teaches it in full — affirmative, negative and interrogative — in Grade 5, returns to it in Grade 7, and contrasts it with the present perfect in Grade 9. South Africa makes the past a spine of the whole set: Grade 1 Workbook 2 rewrites in the past with -ed and "Yesterday I…" strips, Grade 2 Workbook 2 sets out the -ed system with its rule and the irregular verbs, Grade 4 Workbook 1 tabulates regular and irregular past forms, and Grade 2 FAL teaches past -ed heard as /t/ after a past-tense narrative. Other closed countries join as their books
 are read (see READING-QUEUE.md).
 
 **Laos Grade 6 added 2026-10-27** — *English for Secondary
@@ -168,3 +182,5 @@ do/did**, work was/were memories and did-questions, and meet
 printed pp.74–89). Grade 7's Student's Book Book One then
 sets the past out whole in its reference's past-forms table
 (printed pp.97–99).
+
+**South Africa added 2026-11-03** — *DBE Rainbow Workbooks* (Department of Basic Education, South Africa, Sixteenth edition 2026; full read in english/books/south-africa.md). South Africa's past is a spine of the whole set: **-ed rewriting and "Yesterday I…" strips in Grade 1 HL Workbook 2** (printed pp.84, 88–95), the **-ed system with its rule and irregular verbs in Grade 2 HL Workbook 2** (printed pp.16–17, 80), **regular and irregular past forms tabulated in Grade 4 HL Workbook 1** (printed pp.98–99), and in FAL a **past-tense narrative** (printed pp.38–39) followed by **past -ed heard as /t/** (printed pp.52–53) in Grade 2 Workbook 1.

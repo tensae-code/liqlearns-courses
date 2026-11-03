@@ -1,6 +1,6 @@
 # Sources — Verbs
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
 
 Every part traces to its book and page.
 
@@ -86,6 +86,12 @@ english/books/jordan.md (Grade 10 Student's Book Semester 1 section, FULLY READ 
 
 **Book 23:** English for Ethiopia, Grade 8 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 8 — English for Ethiopia, Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 24:** *English Home Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 25:** *English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 26:** *English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The formal definition in words: "Verb: A verb is a word that expresses an action." — in the same box that defines noun and pronoun and names the three "parts of speech" | Bangladesh, English for Today Class 3, "Joyful school time 2," GRAMMAR FOCUS box, pp.68–71 |
@@ -118,9 +124,15 @@ english/books/jordan.md (Grade 10 Student's Book Semester 1 section, FULLY READ 
 | The irregular-verb list as the book's reference apparatus: about 150 irregular verbs in base / past simple / past participle columns | Ethiopia — English for Ethiopia, Grade 5 Student's Book, Appendix 1, printed pp.267–270 |
 | Transitive and intransitive verbs taught in the grammar section, beside the obligation modals | Ethiopia — English for Ethiopia, Grade 6 Student's Book, Unit 5, grammar, contents p.125 (unit printed pp.112–134, as filed) |
 | Verb forms again as an appendix: regular/irregular verb tables, with a state-verb list (love, hate, like, see, hear, think, want, need, know, believe …) beside them — Ethiopia's state verbs arrive as this list, not as an action/state lesson | Ethiopia — English for Ethiopia, Grade 8 Student's Book, Appendix, printed pp.143–148 |
+| Verbs as action words — the doing words picked out and circled in sentence work | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), printed pp.59, 93, 122 |
+| Verbs as doing words, with present-to-past tense-switching work | South Africa, English Home Language (HL), Grade 4 Workbook 1 (Rainbow Workbooks), printed pp.92–93 |
+| Finite verbs named as their own kind | South Africa, English Home Language (HL), Grade 4 Workbook 1 (Rainbow Workbooks), printed p.109 |
+| Stative verbs set against action verbs | South Africa, English Home Language (HL), Grade 4 Workbook 1 (Rainbow Workbooks), printed p.115 |
+| The infinitive named | South Africa, English Home Language (HL), Grade 5 Workbook 1 (Rainbow Workbooks), printed p.27 |
+| Finite verbs named again a year up | South Africa, English Home Language (HL), Grade 5 Workbook 1 (Rainbow Workbooks), printed p.29 |
 
-**Acceptance count: taught in 14 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).**
+**Acceptance count: taught in 15 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).**
 Bangladesh carries the formal definition;
 Libya the shortest one; Ghana the test and the smallest
 sentence shape; Egypt the review work and the he/she/it -s rule;
@@ -132,5 +144,7 @@ against state; Sierra Leone carries action verbs picked out of
 a passage, and the main/helping split.
 The tenses themselves are a different thing and are NOT sourced
 here — they live at the Sentence stage (Level 3, Unit 3 "Now,
-Before, Later"). Jordan carries the third-person plays/doesn't work in Grade 3, and the action against state split twice — state verbs named in Grade 6, and state and action verbs set against each other in Grade 10; Greece carries the action against state split twice — the distinction itself in Grade 7, and stative verbs with their meaning-change pairs in Grade 8; Kazakhstan carries the action-verb set named as vocabulary in its Grade 3 Express book, the present simple built up affirmative, negative and questions across Grade 5 English Plus, and the third-person -s worked inside Top Stars Grade 3; Iraq carries the action verbs as a named set twice — the Grade 3 Picture Dictionary's own "Action verbs" spread of twenty doing words, and the Grade 2 can-set of actions a year earlier; Ethiopia carries verb forms, not a verb definition in the rows used here — regular and irregular verb tables in its Grade 4 and Grade 8 appendices, a list of about 150 irregular verbs in Grade 5, the transitive/intransitive split in Grade 6, and state verbs as a list in the Grade 8 appendix; Other closed countries join as their books
+Before, Later"). Jordan carries the third-person plays/doesn't work in Grade 3, and the action against state split twice — state verbs named in Grade 6, and state and action verbs set against each other in Grade 10; Greece carries the action against state split twice — the distinction itself in Grade 7, and stative verbs with their meaning-change pairs in Grade 8; Kazakhstan carries the action-verb set named as vocabulary in its Grade 3 Express book, the present simple built up affirmative, negative and questions across Grade 5 English Plus, and the third-person -s worked inside Top Stars Grade 3; Iraq carries the action verbs as a named set twice — the Grade 3 Picture Dictionary's own "Action verbs" spread of twenty doing words, and the Grade 2 can-set of actions a year earlier; Ethiopia carries verb forms, not a verb definition in the rows used here — regular and irregular verb tables in its Grade 4 and Grade 8 appendices, a list of about 150 irregular verbs in Grade 5, the transitive/intransitive split in Grade 6, and state verbs as a list in the Grade 8 appendix; South Africa carries verbs as action words in Grade 2 HL, doing words with tense-switching, finite verbs and the stative against action split in Grade 4 HL, and the infinitive and finite verbs again in Grade 5 HL; Other closed countries join as their books
 are read (see READING-QUEUE.md).
+
+**South Africa added 2026-11-03** — South Africa teaches the verb as an action word from Grade 2 HL Workbook 2, where learners pick out and circle the action words (printed pp.59, 93, 122). Grade 4 HL Workbook 1 treats verbs as doing words with tense-switching work (printed pp.92–93), then names finite verbs (printed p.109) and sets stative verbs against action verbs (printed p.115) — the same action/state split Iran, Jordan and Greece carry, here inside one primary book. Grade 5 HL Workbook 1 names the infinitive (printed p.27) and finite verbs again (printed p.29).

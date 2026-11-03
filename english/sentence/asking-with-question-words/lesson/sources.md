@@ -1,6 +1,6 @@
 # Sources — Asking with question words
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
 
 Every part traces to its book and page.
 
@@ -90,6 +90,14 @@ CITATION CHECK PASSED 2026-11-03).
 
 **Book 22:** English for Ethiopia, Grade 4 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 4 — English for Ethiopia, Grade 4 Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 23:** *English First Additional Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 24:** *English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 25:** *English Home Language, Grade 5 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 26:** *English First Additional Language, Grade 6 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The question-words table — Who, What, Where, Why, When, How long, How many — each with an example question and the shape of its answer ("I am an engineer" / "In Boston" / "At 7:00" / "For a week" / "Ten") | Mongolia, English VI, Grammar Reference, Unit 10 question words (pp.118–127 span, as filed) |
@@ -127,9 +135,14 @@ CITATION CHECK PASSED 2026-11-03).
 | Who/what/how/why questions worked over the role-model dialogues ("Who is your role model? — My mother is my role model. — Why?") | Ethiopia, Grade 1 Student's Book, Unit 7 "My Role Model," printed pp.99–108 |
 | 'Wh…' questions as the grammar point of the soil unit (printed p.63), beside interrogative and negative sentences | Ethiopia, Grade 4 Student's Book, Unit 4 "Soil," printed pp.53–65 ('Wh…' questions, printed p.63) |
 
-**Acceptance count: taught in 13 countries (Bangladesh, Egypt,
+| The wh-question words set out in a table, with learners making their own questions | South Africa — English First Additional Language, Grade 3 Workbook 1 (Rainbow Workbooks), printed p.9 |
+| Statements turned into questions with where, what and when | South Africa — English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks), printed pp.44–51 |
+| A news report framed with who, what, when, where, why questions | South Africa — English Home Language, Grade 5 Workbook 2 (Rainbow Workbooks), printed pp.92–93 |
+| An alien interview run on wh- questions | South Africa — English First Additional Language, Grade 6 Workbook 1 (Rainbow Workbooks), as filed in english/books/south-africa.md |
+
+**Acceptance count: taught in 14 countries (Bangladesh, Egypt,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
-Jordan, Greece, Kazakhstan, Iraq, Ethiopia).** Mongolia tables the family with its answer
+Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).** Mongolia tables the family with its answer
 shapes; Bangladesh gives the words their voice; Egypt has
 drilled the questions and whole answers since the youngest
 books; China adds the words worked as whole units — where,
@@ -141,7 +154,7 @@ do/does, with its falling voice; Sierra Leone frames
 occasion talk on the six words and names them as the
 question mark's signals; Jordan
 drills what/who/how-old in Grade 1, when and how much
-in Grade 3, and How…? questions in Grade 5. Greece works how many / how much as a taught pair and what are you doing? at Grade 4, gathers the Wh- family in its Grade 4 final self-assessment, and sets wh-questions as a lesson's grammar in its Grade 7 Beginners workbook. Kazakhstan names question words as a module point at Grade 5, lists who / where / when / what at Grade 3, and teaches the family whole — preposition placement and subject–object questions included — at Grade 9. Iraq systematises the wh- words as a set in its Grade 4 Pupil's Book — who, what, when, where, how, why — and returns to present and past simple question formation in depth in its Grade 9 Student's Book. Ethiopia teaches the Wh-question words as a named lesson in Grade 1 — what, where, why, how, who, which, when — works who/what/how/why questions in its role-model unit, and returns to 'Wh…' questions in Grade 4 (printed p.63). Other closed countries join as their books are read
+in Grade 3, and How…? questions in Grade 5. Greece works how many / how much as a taught pair and what are you doing? at Grade 4, gathers the Wh- family in its Grade 4 final self-assessment, and sets wh-questions as a lesson's grammar in its Grade 7 Beginners workbook. Kazakhstan names question words as a module point at Grade 5, lists who / where / when / what at Grade 3, and teaches the family whole — preposition placement and subject–object questions included — at Grade 9. Iraq systematises the wh- words as a set in its Grade 4 Pupil's Book — who, what, when, where, how, why — and returns to present and past simple question formation in depth in its Grade 9 Student's Book. Ethiopia teaches the Wh-question words as a named lesson in Grade 1 — what, where, why, how, who, which, when — works who/what/how/why questions in its role-model unit, and returns to 'Wh…' questions in Grade 4 (printed p.63). South Africa stocks this lesson in full: its Grade 3 FAL Workbook 1 sets out the wh-question words in a table and has learners make their own questions, Grade 5 HL turns statements into questions with where, what and when and frames a news report with who, what, when, where, why, and Grade 6 FAL runs an alien interview on wh- questions. Other closed countries join as their books are read
 (see READING-QUEUE.md).
 
 **Laos Grade 4 added 2026-10-27** — *English for Lao Primary
@@ -168,3 +181,5 @@ the formation is taken in depth: present and past simple
 question forms in the lessons, systematised in the Round up
 and the reference (Student's Book Book One, Unit 2, printed
 pp.18–29; reference, printed pp.111–119).
+
+**South Africa added 2026-11-03** — *DBE Rainbow Workbooks* (Department of Basic Education, South Africa, Sixteenth edition 2026; full read in english/books/south-africa.md). South Africa stocks the question words in full: the **wh-question words tabled in Grade 3 FAL Workbook 1, with learners making their own questions** (printed p.9), statements turned into questions with **where, what and when** in Grade 5 HL Workbook 1 (printed pp.44–51), a news report framed with **who, what, when, where, why** in Grade 5 HL Workbook 2 (printed pp.92–93), and an **alien interview on wh- questions** in Grade 6 FAL Workbook 1.

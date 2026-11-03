@@ -1,6 +1,6 @@
 # Sources for this lesson — Introducing a friend
 
-countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
+countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -35,12 +35,13 @@ disk 2026-10-25: %PDF, 190 pp).
 | Talking about oneself and others: "Let me introduce …", "He is my father / She is my mother", "My father's name is …" | Ethiopia — English for Ethiopia, Grade 1 Student's Book, Unit 3 "Colours," printed pp.43–52 |
 | Self- and family-introduction models at the end of Grade 1, among the greetings and parting dialogues | Ethiopia — English for Ethiopia, Grade 1 Student's Book, Unit 8 "Caring for Body Parts," printed pp.109–132 |
 | Introduction formulas modelled for the teacher at the start of Grade 5: "Let me introduce myself. My name's …", with the alternative introduction formulas written on the board | Ethiopia — English for Ethiopia, Grade 5 Teacher's Guide, Unit One "Holidays," printed p.2 |
+| The "This is my …" introduction frame taught with family, not a friend — mother, father, brother and sister introduced with "This is my mother." frames in Theme 3 (no friend-introduction instance appears in the 24 South Africa books — partial stock, recorded as such) | South Africa — English First Additional Language, Grade 1 Workbook 1 (Rainbow Workbooks), Theme 3, printed pp.14–15 |
 
 The same dialog also carries the age exchange and the toy-fish
 talk — those parts are filed in their own places (age: english/age/
 how-old-are-you), not here.
 
-**Acceptance count: taught in 11 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).**
+**Acceptance count: taught in 12 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).**
 Egypt carries introducing the family — "This is my father /
 mother / sister …" with the "Who's this?" exchange, and a year
 deeper the whole family lineup with my / his / her on family
@@ -324,3 +325,19 @@ its Unit One notes (printed p.2) by modelling the
 introduction for the teacher: "Let me introduce myself.
 My name's …", with the alternative introduction formulas
 written on the board.
+
+**South Africa added 2026-11-03** — one book stocks this
+lesson, in part: **Book:** *English First Additional
+Language, Grade 1 Workbook 1 (Rainbow Workbooks)* — South
+Africa, Department of Basic Education, Sixteenth edition
+2026. Filed in english/books/south-africa.md (FULLY READ +
+CITATION CHECK PASSED 2026-11-03). PARTIAL STOCK, recorded
+as such: South Africa teaches the "This is my …"
+introduction frame with family, not a friend — the FAL
+Grade 1 Workbook 1's Theme 3 introduces mother, father,
+brother and sister with "This is my mother." frames
+(printed pp.14–15), in the family form of this lesson, like
+Egypt, Jordan, Kazakhstan and Iraq above. No
+friend-introduction instance appears in any of the 24
+South Africa books, stated plainly, and none is claimed
+here.

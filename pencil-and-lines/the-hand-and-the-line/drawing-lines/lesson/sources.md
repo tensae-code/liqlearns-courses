@@ -1,6 +1,6 @@
 # Sources — Drawing lines
 
-countries: Egypt, Libya, Sierra Leone, Iraq, Ethiopia
+countries: Egypt, Libya, Sierra Leone, Iraq, Ethiopia, South Africa
 
 Course: Pencil and Lines — the prerequisite course before every
 language course (his ruling, 2026-10-25).
@@ -11,6 +11,9 @@ language course (his ruling, 2026-10-25).
 | Drawing patterns before letters — draw patterns, including the patterns of the letters in pupils' own names; and draw a pattern of shapes: a circle, then three circles in a row | Sierra Leone — Language Arts Primary 1 Lesson Plans, Term 1, Lesson 12 ("Drawing patterns") and Lesson 35 ("Drawing") |
 | Pre-writing tracing: the Activities open with tracing dotted lines and letter shapes — the hand work that opens the workbook half of the book, before copying words | Iraq — English for Iraq, Grade 1 Pupil and Activity Book, Activities, printed pp.89–161 (the opening pre-writing work, printed pp.89ff) |
 | Pre-writing tracing: "Trace the dotted lines" — dotted-line and letter tracing that opens the writing work, with tracing of dotted letters and words across Unit 1 | Ethiopia — English for Ethiopia, Grade 1 Student's Book, Unit 1, printed p.2 ("Trace the dotted lines"); Unit 1, printed pp.1–26 |
+| Letter-formation tracing: letters traced on formation pages as each letter is introduced, throughout Term 1 (tracing only — no free line-drawing teaching) | South Africa — English Home Language, Grade 1 Workbook 1 (Rainbow Workbooks), printed pp.26–126 |
+| Tracing work in Theme 5: tracing sport names, and tracing lines to what friends like (tracing only) | South Africa — English First Additional Language, Grade 1 Workbook 1 (Rainbow Workbooks), Theme 5, printed pp.56–57 and printed pp.60–61 |
+| Letter-formation practice inside every worksheet (tracing only) | South Africa — English First Additional Language, Grade 1 Workbook 2 (Rainbow Workbooks) |
 
 Second book, same country (added 2026-10-25): Egypt KG2 Term 1 opens
 with a "Remember With Me!" page — trace the wavy and zigzag lines
@@ -104,11 +107,13 @@ lines" is printed p.2, and Unit 1 (printed pp.1–26) has
 dotted-line and letter tracing; writing across the Grade 1
 units is tracing dotted letters and words.
 
-**Acceptance count: taught in 5 countries (Egypt, 3 books; Libya,
+**Acceptance count: taught in 6 countries (Egypt, 3 books; Libya,
 3 books; Sierra Leone — pattern drawing, Primary 1 Term 1;
 Iraq — dotted-line tracing opening the Grade 1 Activities,
 printed pp.89ff; Ethiopia — "Trace the dotted lines" opening
-the Grade 1 writing work, printed p.2).**
+the Grade 1 writing work, printed p.2; South Africa — tracing
+only: letter-formation tracing in HL and FAL Grade 1, no free
+line-drawing teaching).**
 The "understand the lines" framing is his: the lines are understood,
 not just traced — a wavy line is the curved move, a zigzag is the
 straight-and-corner move, and letters are those two moves mixed.
@@ -118,3 +123,28 @@ Ethiopia joins with "Trace the dotted lines" (printed p.2)
 opening its Grade 1 writing work, and dotted letters and
 words traced across Unit 1.
 Counts grow as other finished countries' first books are read.
+
+**South Africa added 2026-11-03** — three books stock this
+lesson, in part: **Book:** *English Home Language, Grade 1
+Workbook 1 (Rainbow Workbooks)* — South Africa, Department
+of Basic Education, Sixteenth edition 2026. **Book:**
+*English First Additional Language, Grade 1 Workbook 1
+(Rainbow Workbooks)* — South Africa, Department of Basic
+Education, Sixteenth edition 2026. **Book:** *English First
+Additional Language, Grade 1 Workbook 2 (Rainbow
+Workbooks)* — South Africa, Department of Basic Education,
+Sixteenth edition 2026. All filed in
+english/books/south-africa.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03). PARTIAL STOCK, recorded as such: South
+Africa's line work is tracing only — the HL Grade 1
+Workbook 1 traces letters on their formation pages as each
+letter is introduced, throughout Term 1 (printed
+pp.26–126); the FAL Grade 1 Workbook 1's Theme 5 traces
+sport names (printed pp.56–57) and traces lines to what
+friends like (printed pp.60–61); and the FAL Grade 1
+Workbook 2 carries letter-formation practice inside every
+worksheet. No free line-drawing teaching appears in any of
+the 24 South Africa books, and none is claimed here — South
+Africa joins in the tracing shape of Egypt, Iraq and
+Ethiopia, not in Libya's dot-to-dot or Sierra Leone's
+pattern drawing.

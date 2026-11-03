@@ -1,6 +1,6 @@
 # Sources — Pronouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa
 
 Every part traces to its book and page.
 
@@ -113,6 +113,16 @@ english/books/jordan.md (Grade 7 Pupil's Book Semester 1 section, FULLY READ + C
 
 **Book 29:** English for Ethiopia, Grade 11 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 11 — ENGLISH / STUDENT TEXTBOOK / GRADE 11 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 30:** *English Home Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 31:** *English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 32:** *English Home Language, Grade 4 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 33:** *English Home Language, Grade 6 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 34:** *English First Additional Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The set's title and every plain definition, kept in the book's own words: "Personal Pronouns — Words We Use Instead of Names" — I: "When you talk about yourself" · he: "When you talk about a boy or a man" · she: "When you talk about a girl or a woman" · it: "When you talk about an animal or a thing" · we: "When you talk about yourself and others together" · they: "When you talk about more than one person, animal, or thing" · you: "When you talk to one person or to a group" | Egypt, Primary 1 Term 2, p.27 |
@@ -148,9 +158,16 @@ english/books/jordan.md (Grade 7 Pupil's Book Semester 1 section, FULLY READ + C
 | Personal pronouns taught in the grammar section, beside the Simple Past, with a possessives exercise | Ethiopia — English for Ethiopia, Grade 5 Student's Book, Unit 5, printed pp.113–138 (possessives exercise at printed p.137) |
 | Relative pronouns taught in the opening unit's grammar, beside degrees of comparison and the present perfect | Ethiopia — English for Ethiopia, Grade 10 Student's Book, Unit 1, printed pp.1–36 |
 | Pronoun case in full: nominative against accusative case taught in the grammar section (9E) | Ethiopia — English for Ethiopia, Grade 11 Student's Book, Unit 9, grammar (9E), printed pp.225–252 |
+| The definition in the book's own words: "A pronoun is a word used instead of a noun" | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), printed p.5 |
+| Personal pronouns as a taught set | South Africa, English Home Language (HL), Grade 4 Workbook 1 (Rainbow Workbooks), printed p.53 |
+| Demonstratives — this/that/these/those | South Africa, English Home Language (HL), Grade 4 Workbook 1 (Rainbow Workbooks), printed pp.54–55 |
+| Possessive pronouns, with my/mine and your/yours contrasted — the standing-alone forms against the before-noun forms | South Africa, English Home Language (HL), Grade 4 Workbook 1 (Rainbow Workbooks), printed p.56 |
+| A later kind, as in Ghana and Jordan: reflexive pronouns | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), printed p.99 |
+| The full indefinite-pronoun list | South Africa, English Home Language (HL), Grade 6 Workbook 2 (Rainbow Workbooks), printed pp.8–9 |
+| The possessive set — my/your/his/her/its/our/their | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), printed pp.44–45 |
 
-**Acceptance count: taught in 12 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia).** Egypt
+**Acceptance count: taught in 13 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa).** Egypt
 carries the seven words with the
 plainest definitions any book gives them, and the first
 whose-box; Bangladesh carries the formal definition; Libya
@@ -163,5 +180,7 @@ and the whose-question in Grade 3; Iran carries the full
 possessive-adjective set and the object set beside the
 subject set; Sierra Leone carries the first-year pointing
 set, the noun-to-pronoun swap as its own lesson, and
-my/our/your for things that belong. Jordan carries our/your/their on possessions, mine and his/hers standing alone in the whose-exchange, the indefinite set, and reflexives as a booster; Kazakhstan carries subject pronouns from its Grade 3 Express book's first module, possessive adjectives and subject and object pronouns together in the same book, the possessive pronouns a year up in Grade 4, and object pronouns beside the present simple in Grade 5 English Plus; Iraq carries the three sets — subject, object and possessive adjective — in one Round up table in Grade 9 book, worked again in its Activity Book, and the standing-alone possessives mine/yours/his/hers against the possessive adjectives in Grade 5; Ethiopia carries subject pronouns as a named section in Grade 2, pronouns and possession with "Whose…?" in Grade 4, personal pronouns in Grade 5, relative pronouns in Grade 10, and nominative against accusative pronoun case in Grade 11; Other finished
+my/our/your for things that belong. Jordan carries our/your/their on possessions, mine and his/hers standing alone in the whose-exchange, the indefinite set, and reflexives as a booster; Kazakhstan carries subject pronouns from its Grade 3 Express book's first module, possessive adjectives and subject and object pronouns together in the same book, the possessive pronouns a year up in Grade 4, and object pronouns beside the present simple in Grade 5 English Plus; Iraq carries the three sets — subject, object and possessive adjective — in one Round up table in Grade 9 book, worked again in its Activity Book, and the standing-alone possessives mine/yours/his/hers against the possessive adjectives in Grade 5; Ethiopia carries subject pronouns as a named section in Grade 2, pronouns and possession with "Whose…?" in Grade 4, personal pronouns in Grade 5, relative pronouns in Grade 10, and nominative against accusative pronoun case in Grade 11; South Africa carries the definition in its own words in Grade 2 HL, personal pronouns, demonstratives and possessives with my/mine and your/yours contrasted in Grade 4 HL Workbook 1, reflexive pronouns in Workbook 2, the full indefinite-pronoun list in Grade 6 HL, and the possessive set in Grade 3 FAL; Other finished
 countries join as their books are read (see READING-QUEUE.md).
+
+**South Africa added 2026-11-03** — South Africa defines the pronoun in Grade 2 HL Workbook 2 in the book's own words — "A pronoun is a word used instead of a noun" (printed p.5). Grade 4 HL Workbook 1 teaches personal pronouns (printed p.53), the demonstratives this/that/these/those (printed pp.54–55) and possessive pronouns with my/mine and your/yours contrasted (printed p.56); Workbook 2 adds reflexive pronouns (printed p.99), a later kind here as in Ghana and Jordan. Grade 6 HL Workbook 2 gives the full indefinite-pronoun list (printed pp.8–9), and Grade 3 FAL Workbook 2 teaches the possessive set my/your/his/her/its/our/their (printed pp.44–45).

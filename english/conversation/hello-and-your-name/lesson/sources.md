@@ -1,6 +1,6 @@
 # Sources for this lesson — Greetings
 
-countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
+countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag.
@@ -53,6 +53,8 @@ side by side on one PDF page — that was wrong.
 | Self-introduction dialogues giving name, age and home town (Gambella, Jimma, Somali region, Assosa, Mekele, Dire Dawa; "I am from Gambella" is a citation anchor at printed p.36) | Ethiopia — English for Ethiopia, Grade 1 Student's Book, Unit 2, printed pp.27–42 |
 | Greetings and introductions opening the book | Ethiopia — English for Ethiopia, Grade 5 Student's Book, Unit 1, printed pp.1–32 |
 | The introduction modelled for the teacher — "Let me introduce myself. My name's …" (citation anchor at printed p.2) | Ethiopia — English for Ethiopia, Grade 5 Teacher's Guide, Unit 1, printed p.2 (guide Unit 1, printed pp.1–29) |
+| The exact exchange opening Theme 1: "Hello, what's your name? / My name is Sam." | South Africa — English First Additional Language, Grade 1 Workbook 1 (Rainbow Workbooks), Theme 1, printed p.2 |
+| Writing your own name practised against the alphabet | South Africa — English Home Language, Grade 1 Workbook 1 (Rainbow Workbooks), printed p.10 |
 
 **Second country merged 2026-10-25 — Libya:**
 English for Libya, Pupils Book Grade 1 (CERC, Ministry of Education,
@@ -95,7 +97,7 @@ rendered page the same day).
 - Unit 1 "Greeting and Numbers," p. 14 (Hello/Hi, Goodbye/bye tracing;
   "What's your name? / My name's" tracing strips, p. 16).
 
-**Acceptance count: taught in 15 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).**
+**Acceptance count: taught in 16 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).**
 China adds name exchanges from its first primary page and the
 "Where are you from? — I'm from …" origin frame (Grades 3), plus
 five printed ways to say goodbye (Grade 6 Volume 2); North
@@ -459,3 +461,18 @@ town ("I am from Gambella", printed p.36). Grade 5 Unit
 introductions, and its Teacher's Guide Unit 1 notes
 model the introduction: "Let me introduce myself. My
 name's …" (printed p.2).
+
+**South Africa added 2026-11-03** — two books stock this
+lesson: **Book:** *English First Additional Language,
+Grade 1 Workbook 1 (Rainbow Workbooks)* — South Africa,
+Department of Basic Education, Sixteenth edition 2026.
+**Book:** *English Home Language, Grade 1 Workbook 1
+(Rainbow Workbooks)* — South Africa, Department of Basic
+Education, Sixteenth edition 2026. Both filed in
+english/books/south-africa.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03). South Africa opens its FAL Grade 1
+book on this lesson's exact exchange: Theme 1 begins
+"Hello, what's your name? / My name is Sam." (printed
+p.2). The HL Grade 1 Workbook 1 carries the name work on
+the hand side — the child practises writing their own name
+against the alphabet (printed p.10).

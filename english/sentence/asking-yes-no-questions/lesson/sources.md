@@ -1,6 +1,6 @@
 # Sources — Asking yes/no questions
 
-countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
+countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
 
 Every part traces to its book and page.
 
@@ -99,6 +99,12 @@ CITATION CHECK PASSED 2026-11-03).
 
 **Book 23:** English for Ethiopia, Grade 11 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 11 — ENGLISH / STUDENT TEXTBOOK / GRADE 11 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 24:** *English Home Language, Grade 6 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 25:** *English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 26:** *English First Additional Language, Grade 6 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The SIMPLE PRESENT frame in three shapes — affirmative Subject + Verb + Complement, negative with do/does not — and the DO–DOES interrogative box standing beside them as the question shape | Bolivia compendium, the Daily activities text (T8, compendium p.178) |
@@ -143,9 +149,13 @@ CITATION CHECK PASSED 2026-11-03).
 | Question types named outright in the grammar — wh-questions, YES/NO questions, and questions beginning with an auxiliary or modal — beside tag questions and the present tenses | Ethiopia, Grade 9 Student's Book, Unit 1 "Living in Urban Areas," Grammar, printed pp.11–25 |
 | Question forms tabled as grammar — wh- and yes/no questions — beside the modal auxiliary verbs and tag questions in depth | Ethiopia, Grade 11 Student's Book, Unit 7 "Patriotism," printed pp.165–203 |
 
-**Acceptance count: taught in 13 countries (Bangladesh,
+| Statements changed into questions — interrogatives, with "Was she…?" and "Did they…?" started for the learner | South Africa — English Home Language, Grade 6 Workbook 1 (Rainbow Workbooks), printed p.8 |
+| Statements turned into questions across a theme | South Africa — English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks), printed pp.44–51 |
+| Statements turned into questions | South Africa — English First Additional Language, Grade 6 Workbook 2 (Rainbow Workbooks), as filed in english/books/south-africa.md |
+
+**Acceptance count: taught in 14 countries (Bangladesh,
 Bolivia, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).** Bolivia boxes the do/does engine;
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).** Bolivia boxes the do/does engine;
 Mongolia works the be-swap on its doing-now questions;
 Bangladesh teaches the voice the question rides on; China
 adds the full shelf of shapes across its primary run — be,
@@ -158,7 +168,7 @@ voice; Sierra Leone makes the question by the be-swap,
 states the rising-voice rule, and forms and answers
 simple-present questions as a system; Jordan
 asks do, does, be, have-got and can yes/no questions
-with their short answers across Grades 2–3. Greece asks is there…? / are there…? and does it…? with their short answers at Grade 4, and tables the present and past question forms inside its Grade 5 systems. Kazakhstan asks be questions with short answers at Grade 3, carries the present simple into questions and short answers there, and names Present Simple and Present Continuous questions as language-focus points in its Grade 5–6 English Plus books. Iraq asks Is it a …? with plain Yes / No answers in Grade 1, teaches Do you …? — Yes, I do. / No, I don't. as the central new question form of its Grade 3 health unit, and splits question formation by verb type in Grade 6 — *be* inverts, other verbs take Do/Does. Ethiopia names the question types outright in Grade 9 — wh-questions, yes/no questions, and questions beginning with an auxiliary or modal — and tables question forms (wh- and yes/no) again in Grade 11. Other
+with their short answers across Grades 2–3. Greece asks is there…? / are there…? and does it…? with their short answers at Grade 4, and tables the present and past question forms inside its Grade 5 systems. Kazakhstan asks be questions with short answers at Grade 3, carries the present simple into questions and short answers there, and names Present Simple and Present Continuous questions as language-focus points in its Grade 5–6 English Plus books. Iraq asks Is it a …? with plain Yes / No answers in Grade 1, teaches Do you …? — Yes, I do. / No, I don't. as the central new question form of its Grade 3 health unit, and splits question formation by verb type in Grade 6 — *be* inverts, other verbs take Do/Does. Ethiopia names the question types outright in Grade 9 — wh-questions, yes/no questions, and questions beginning with an auxiliary or modal — and tables question forms (wh- and yes/no) again in Grade 11. South Africa changes statements into questions in Grade 6 Workbook 1 — interrogatives, with "Was she…?" and "Did they…?" started for the learner — turns statements into questions across a theme in Grade 5 Workbook 1, and does the same in its Grade 6 FAL Workbook 2. Other
 closed countries join as their books are read (see
 READING-QUEUE.md).
 
@@ -185,3 +195,5 @@ Unit 5, printed pp.58–73). And in Grade 6 the formation rule
 is split by verb type in a "Remember" box — *be*-questions
 invert, other verbs take the "helping verb" Do/Does
 (Pupil's Book, Unit 2, printed pp.22–37).
+
+**South Africa added 2026-11-03** — *DBE Rainbow Workbooks* (Department of Basic Education, South Africa, Sixteenth edition 2026; full read in english/books/south-africa.md). South Africa's yes/no work is statement-to-question conversion: **interrogatives in Grade 6 HL Workbook 1, with "Was she…?" and "Did they…?" started for the learner** (printed p.8), statements turned into questions across a theme in **Grade 5 HL Workbook 1** (printed pp.44–51), and statements turned into questions in **Grade 6 FAL Workbook 2**.

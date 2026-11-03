@@ -1,6 +1,6 @@
 # Sources — First, then, finally
 
-countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
+countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
 
 Every part traces to its book and page.
 
@@ -88,6 +88,11 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 19:** English for Ethiopia, Grade 6 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 6 — English for Ethiopia, Grade 6 Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 20:** English for Ethiopia, Grade 9 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 9 — English for Ethiopia, Student Textbook (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 21:** *English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 22:** *English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 23:** *English Home Language, Grade 6 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 24:** *English First Additional Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Linking words" Tip: "Linking words make the story clear and easy to follow. First, Then, After that, Finally" — the set printed as a writing law | Egypt, Secondary, the writing Tip (p.70 of its book, as filed in the book map) |
@@ -113,9 +118,14 @@ CITATION CHECK PASSED 2026-11-03).
 | A process paragraph built on its sequencing words — First, Second, Then, After that: jumbled sentences about dressing in a school uniform reordered and rewritten as a process paragraph under those signposts (no "finally" is printed in this work) | Ethiopia, English for Ethiopia Grade 5 Student's Book, Unit 1, Writing "Explaining a process", printed p.32 |
 | Linking words that signpost stages of a process, named as part of the grammar work — the process's stages carried by their linkers | Ethiopia, English for Ethiopia Grade 6 Student's Book, Unit 5, Grammar, contents p.125 |
 | Words of sequence among the connectors taught — the sequence words set inside the connectors work (addition markers and words of sequence) | Ethiopia, English for Ethiopia Grade 9 Student's Book, Unit 2, Grammar: connectors, printed pp.41–44 |
+| A cumulative folk tale retold in sequence with first, then, afterwards, finally — the whole signpost set carrying the telling | South Africa, English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks), printed pp.44–49 |
+| The hare-and-tortoise race retold as a sports report using First / Then / Afterwards / Finally, with a connectives list worked beside it | South Africa, English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks), printed p.108, and printed pp.112–113 |
+| A procedure linked with first, afterwards, next, finally — the hutch-cleaning procedure told under its signposts | South Africa, English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks), printed pp.24–25 |
+| A process ordered with First / Then / Afterwards / Thereafter / Before / Finally — the full ordering set at the top of the primary school | South Africa, English Home Language, Grade 6 Workbook 1 (Rainbow Workbooks), printed p.77 |
+| A sequence told with First / Then / Lastly / Finally in the additional-language strand | South Africa, English First Additional Language, Grade 3 Workbook 2 (Rainbow Workbooks), printed p.57 |
 
-**Acceptance count: taught in 11 countries (Bangladesh,
-Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).** Egypt prints the law and the set;
+**Acceptance count: taught in 12 countries (Bangladesh,
+Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).** Egypt prints the law and the set;
 Mongolia files the family by its grammar name; Bangladesh
 tells its methods under the signposts; China adds the
 dated diary as the model recount, its events sorted before
@@ -152,7 +162,7 @@ After that, its Grade 6 grammar names linking words
 that signpost stages of a process, and its Grade 9
 connectors include words of sequence, but no read
 Ethiopia book prints "finally" in this work, so
-Ethiopia carries no Finally claim.
+Ethiopia carries no Finally claim; South Africa stocks all three words whole — its Grade 4 Home Language book retells a folk tale with first, then, afterwards, finally and retells the hare-and-tortoise race as a sports report under First / Then / Afterwards / Finally, its Grade 5 book links a procedure with first, afterwards, next, finally, its Grade 6 book orders a process with First / Then / Afterwards / Thereafter / Before / Finally, and its Grade 3 First Additional Language Workbook 2 sequences with First / Then / Lastly / Finally.
 Iran was
 checked and adds nothing here: its read books teach no
 first/then/finally signpost set (sequence is carried by
@@ -160,3 +170,5 @@ before/after frames inside the past-perfect work, a
 different point). Other finished
 countries join as their books are read (see
 READING-QUEUE.md).
+
+**South Africa added 2026-11-03** — four books stock this lesson: *English Home Language, Grade 4 Workbook 1*, *English Home Language, Grade 5 Workbook 1*, *English Home Language, Grade 6 Workbook 1* and *English First Additional Language, Grade 3 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. South Africa carries the full set: the Grade 4 Home Language book retells the cumulative folk tale in sequence with first, then, afterwards, finally (printed pp.44–49) and retells the hare-and-tortoise race as a sports report using First/Then/Afterwards/Finally (printed p.108), with a connectives list (printed pp.112–113); the Grade 5 book links a procedure with first, afterwards, next, finally (printed pp.24–25); the Grade 6 book orders a process with First/Then/Afterwards/Thereafter/Before/Finally (printed p.77); and the Grade 3 First Additional Language Workbook 2 sequences with First/Then/Lastly/Finally (printed p.57).

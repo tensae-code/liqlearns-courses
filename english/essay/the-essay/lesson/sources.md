@@ -1,6 +1,6 @@
 # Sources — The essay
 
-countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
+countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
 
 Every part traces to its book and page.
 
@@ -132,6 +132,12 @@ PASSED 2026-11-03).
 
 **Book 25:** English for Ethiopia, Grade 12 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 12 — ENGLISH STUDENT TEXTBOOK GRADE 12 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 26:** *English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 27:** *English Home Language, Grade 5 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 28:** *English Home Language, Grade 6 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 29:** *English First Additional Language, Grade 5 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 30:** *English First Additional Language, Grade 6 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The essay's definition — "an essay is a piece of writing that usually has five or more paragraphs, about one topic with several main points" — and the GENERAL ESSAY STRUCTURE table: Introduction ("it tells what your topic and main ideas are"); Topic 1/2/3 ("state your points/arguments, explore both sides of debate in a better answer"); Conclusion ("the same information as the introductory paragraph, written from a different perspective") | Bolivia compendium, the essay-structure grammar/writing section (as filed) |
@@ -173,8 +179,13 @@ PASSED 2026-11-03).
 | An opinion essay as the same unit's closing writing work (Activity 10.18) | Ethiopia, English for Ethiopia Grade 9 Student's Book, Unit 10, Writing, Activity 10.18, printed pp.203–223 |
 | The narrative essay as the writing work, practised through jumbled paragraphs — the essay's paragraphs put back in their order | Ethiopia, English for Ethiopia Grade 12 Student's Book, Unit 3, Writing, printed pp.54–73 |
 | The argumentative essay as the writing work, again practised by reassembling jumbled paragraphs, on the libraries-vs-tablets model family | Ethiopia, English for Ethiopia Grade 12 Student's Book, Unit 8, Writing, printed pp.180–214 |
+| A planned four-paragraph essay as the theme's writing outcome: an essay about an animal, planned and written in four paragraphs | South Africa, English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks), printed pp.32–33 |
+| A three-paragraph myth written as the book's closing writing — the multi-paragraph piece built at workbook scale | South Africa, English Home Language, Grade 5 Workbook 2 (Rainbow Workbooks), printed pp.134–136 |
+| A persuasive argument built as an essay: two supporting arguments carried to a concluding recommendation | South Africa, English Home Language, Grade 6 Workbook 1 (Rainbow Workbooks), printed pp.48–49 |
+| A three-paragraph hobby essay as the book's final worksheet — the essay as the course's closing writing | South Africa, English First Additional Language, Grade 5 Workbook 2 (Rainbow Workbooks), final worksheet, as filed in its section in english/books/south-africa.md |
+| A descriptive essay written with the past progressive — the essay set as a named worksheet | South Africa, English First Additional Language, Grade 6 Workbook 2 (Rainbow Workbooks), worksheet 104, as filed in its section in english/books/south-africa.md |
 
-**Acceptance count: taught in 9 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).**
+**Acceptance count: taught in 10 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).**
 Bolivia defines the essay and tables its general structure
 whole; Ghana grows the writing process to the essay's
 scale with the outline as its planning tool. Indonesia
@@ -218,7 +229,9 @@ essay as a named lesson, Grade 9 builds an internet
 essay from a diagram beside its printed sample essay
 and closes the unit with an opinion essay, and
 Grade 12 practises the narrative and argumentative
-essays through their jumbled paragraphs.
+essays through their jumbled paragraphs; South Africa builds the essay at primary scale — a planned four-paragraph essay about an animal at Grade 5 (Home Language Workbook 1, printed pp.32–33), a three-paragraph myth in Workbook 2 (printed pp.134–136), a persuasive argument with two supporting arguments and a concluding recommendation at Grade 6 (printed pp.48–49), a three-paragraph hobby essay closing its Grade 5 First Additional Language Workbook 2, and a descriptive essay with the past progressive in its Grade 6 First Additional Language Workbook 2 (worksheet 104).
 Other finished
 countries join as their books are read (see
 READING-QUEUE.md).
+
+**South Africa added 2026-11-03** — five books stock this lesson: *English Home Language, Grade 5 Workbook 1*, *English Home Language, Grade 5 Workbook 2*, *English Home Language, Grade 6 Workbook 1*, *English First Additional Language, Grade 5 Workbook 2* and *English First Additional Language, Grade 6 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. The Home Language Grade 5 Workbook 1 plans and writes a four-paragraph essay about an animal (printed pp.32–33); Workbook 2 writes a three-paragraph myth (printed pp.134–136); the Grade 6 Workbook 1 builds a persuasive argument with two supporting arguments and a concluding recommendation (printed pp.48–49); the First Additional Language Grade 5 Workbook 2's final worksheet is a three-paragraph hobby essay; and the First Additional Language Grade 6 Workbook 2 writes a descriptive essay with the past progressive (worksheet 104).

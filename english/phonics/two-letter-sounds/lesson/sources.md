@@ -1,6 +1,6 @@
 # Sources for this lesson — Two-letter sounds
 
-countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
+countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The two-letter sets lived inside the alphabet
@@ -50,8 +50,13 @@ single letters.
 | A systematic digraph strand in the workbook — **oo, sh, ch, th, ee, ck, ng** taught as star/jigsaw pages (oo: food, moon, spoon, school · sh: shelf, shirt, fish, shoes, shark, shop · ck: sock, tick, black, chicken · ng: sing, wing, king, ring) | Iraq — English for Iraq, Grade 3 Activity Book, Units 3–7, printed pp.48–115 (oo and sh in Unit 3; ch in Unit 4, printed pp.64–67; th and ee in Unit 5; ck in Unit 6; ng in Unit 7) |
 | **sh / ch / ph** on one phonics page (shop, chair, elephant, shirt, cheese, Euphrates, phone, photo), and **ee / ea** making the same sound (sea, see, cheese, teacher, happy, bee) | Iraq — English for Iraq, Grade 4 Activity Book, Unit 3, printed pp.36–51; Unit 5, printed pp.56–71 |
 | **th** in both its sounds — /θ/ against /ð/ — taught as a pronunciation strand with a poem and tongue twisters (Ethiopia stocks ONLY this th part of the lesson: it has no digraph system and no other pair is claimed from it) | Ethiopia — English for Ethiopia, Grade 7 Student Textbook, Unit 1, printed pp.1–16 (pronunciation strand) |
+| A digraph book: **sh, th, ch, wh** with **-ck** (Theme 1), then the long vowels **a-e/i-e/o-e/u-e/e-e**, **ee/ea** and **-y** endings (Theme 2) | South Africa — English Home Language, Grade 1 Workbook 2 (Rainbow Workbooks), Theme 1, printed pp.2–13; Theme 2, printed pp.14–25 |
+| **oi/oy** and **ou** | South Africa — English Home Language, Grade 1 Workbook 2 (Rainbow Workbooks), printed pp.26–27 |
+| **ai, ay, ew, oa** | South Africa — English Home Language, Grade 1 Workbook 2 (Rainbow Workbooks), printed pp.28–29 |
+| **ch/sh** and **wh/th** re-taught, including voiced and unvoiced **th**; **ee/ea** drilled and the **oa** family worked in the same book | South Africa — English First Additional Language, Grade 3 Workbook 1 (Rainbow Workbooks), printed pp.4–5 (ch/sh and wh/th) |
+| **ch, sh, th** drilled with **oo/ee** | South Africa — English First Additional Language, Grade 2 Workbook 2 (Rainbow Workbooks) |
 
-**Acceptance count: taught in 12 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).**
+**Acceptance count: taught in 13 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).**
 China adds the first r-controlled-vowel ladder taught as a named
 system (Grade 4 Volume 2), a run of one-pair-per-page Let's spell
 lessons across Grades 5–6 (ea/ee, ow/ou, oo, ch/sh, th, ng/nk,
@@ -423,3 +428,26 @@ part of this lesson it teaches is the th part: Unit 1
 (printed pp.1–16) carries a pronunciation strand on the
 two th sounds /θ/–/ð/, with a poem and tongue twisters.
 No other pair is claimed from Ethiopia.
+
+**South Africa added 2026-11-03** — three books stock this
+lesson: **Book:** *English Home Language, Grade 1 Workbook
+2 (Rainbow Workbooks)* — South Africa, Department of Basic
+Education, Sixteenth edition 2026. **Book:** *English
+First Additional Language, Grade 3 Workbook 1 (Rainbow
+Workbooks)* — South Africa, Department of Basic Education,
+Sixteenth edition 2026. **Book:** *English First
+Additional Language, Grade 2 Workbook 2 (Rainbow
+Workbooks)* — South Africa, Department of Basic Education,
+Sixteenth edition 2026. All filed in
+english/books/south-africa.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03). South Africa stocks this lesson in
+full, and its centre is a single book: the HL Grade 1
+Workbook 2 is a digraph and vowel-team book — sh, th, ch,
+wh with -ck (Theme 1, printed pp.2–13), the long vowels
+a-e/i-e/o-e/u-e/e-e, ee/ea and -y endings (Theme 2, printed
+pp.14–25), oi/oy and ou (printed pp.26–27), and ai, ay, ew
+and oa (printed pp.28–29). The FAL strand re-teaches the
+pairs a level up: FAL Grade 3 Workbook 1 re-teaches ch/sh
+and wh/th, including voiced and unvoiced th (printed
+pp.4–5), and drills ee/ea and the oa family; FAL Grade 2
+Workbook 2 drills ch, sh and th with oo/ee.

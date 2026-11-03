@@ -1,6 +1,6 @@
 # Sources for this lesson — Blending sounds
 
-countries: Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia
+countries: Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The blending material lived inside the alphabet
@@ -27,8 +27,11 @@ letters.
 | Blending short words in the plants unit — arm, van, pen, pin, sun, sock, worm, web | Ethiopia — English for Ethiopia, Grade 1 Student's Book, Unit 4, printed pp.53–68 |
 | Blending animal names, and reading by blending named as the work | Ethiopia — English for Ethiopia, Grade 1 Student's Book, Unit 5, printed pp.69–88 |
 | Blending in the teacher's Unit 1 procedures — mat, bad, far, sit | Ethiopia — English for Ethiopia, Grade 1 Teacher's Guide, Unit 1, printed pp.5–46 |
+| Blending practised as word sums — ri+ng = ring, cr+ab = crab, sh+op = shop, ch+ips = chips, wh+at = what (Theme 3) | South Africa — English First Additional Language, Grade 3 Workbook 1 (Rainbow Workbooks), Theme 3, printed p.30 |
+| CVC word sums — b+ug = bug, j+am = jam (Theme 7) | South Africa — English First Additional Language, Grade 2 Workbook 1 (Rainbow Workbooks), Theme 7, printed pp.66–67 |
+| CVC word families built on the week's letters, and missing-letter CVC spellings completed, throughout Term 1 | South Africa — English Home Language, Grade 1 Workbook 1 (Rainbow Workbooks), Term 1 |
 
-**Acceptance count: taught in 8 countries (Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia).**
+**Acceptance count: taught in 9 countries (Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa).**
 China adds the alphabet stocked as five phonics sets rather than
 letter by letter (Grade 3 Volume 1), a complete short-vowel cycle
 inside one volume (Grade 3 Volume 2), and end-of-primary review
@@ -177,3 +180,25 @@ web; Unit 5 (printed pp.69–88) blends the animal names and
 works reading by blending. The Teacher's Guide Unit 1
 (printed pp.5–46) blends mat, bad, far and sit in its
 procedures.
+
+**South Africa added 2026-11-03** — three books stock this
+lesson: **Book:** *English First Additional Language,
+Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa,
+Department of Basic Education, Sixteenth edition 2026.
+**Book:** *English First Additional Language, Grade 2
+Workbook 1 (Rainbow Workbooks)* — South Africa, Department
+of Basic Education, Sixteenth edition 2026. **Book:**
+*English Home Language, Grade 1 Workbook 1 (Rainbow
+Workbooks)* — South Africa, Department of Basic Education,
+Sixteenth edition 2026. All filed in
+english/books/south-africa.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03). South Africa's blending is practised
+as word sums and CVC building, stated plainly: no routine
+named "blending" appears in its books. The FAL Grade 3
+Workbook 1's Theme 3 teaches blend word sums — ri+ng =
+ring, cr+ab = crab, sh+op = shop, ch+ips = chips, wh+at =
+what (printed p.30); the FAL Grade 2 Workbook 1's Theme 7
+teaches CVC word sums — b+ug = bug, j+am = jam (printed
+pp.66–67); and the HL Grade 1 Workbook 1 builds CVC word
+families on the week's letters and completes missing-letter
+CVC spellings throughout Term 1.

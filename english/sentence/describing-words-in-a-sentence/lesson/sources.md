@@ -1,6 +1,6 @@
 # Sources — Describing words in a sentence
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
 
 Every part traces to its book and page.
 
@@ -100,6 +100,12 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 23:** English for Ethiopia, Grade 8 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 8 — English for Ethiopia, Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 24:** English for Ethiopia, Grade 11 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 11 — ENGLISH / STUDENT TEXTBOOK / GRADE 11 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 25:** *English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 26:** *English Home Language, Grade 6 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 27:** *English Home Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The eight pictured adjective + noun pairs — a fresh mango, a bad mango, a clean shirt, a dirty shirt, a new bike, an old bike, a happy cat, an angry cat — description seated before the noun in every pair | Bangladesh, English for Today Class 4, Unit 22 "Tune up!", pp.44–45 |
@@ -136,9 +142,13 @@ CITATION CHECK PASSED 2026-11-03).
 | Adjectives and adverbs as a grammar point — adjective + -ly, the -ly adjectives, and the irregular adverb forms | Ethiopia, English for Ethiopia Grade 8 Student's Book, Unit 10, printed pp.138–141 (unit printed pp.131–142) |
 | Adjectives for descriptive writing as the AI unit's writing work | Ethiopia, English for Ethiopia Grade 11 Student's Book, Unit 10 Writing, printed pp.253–272 |
 
-**Acceptance count: taught in 13 countries (Bangladesh,
+| Adjectives describing nouns inside sentences | South Africa — English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks), printed pp.74–75 |
+| Adjectives in their two sentence positions — "The small dog / The dog is small" | South Africa — English Home Language, Grade 6 Workbook 2 (Rainbow Workbooks), printed p.48 |
+| Adjective sets drilled in sentences | South Africa — English Home Language, Grade 3 Workbook 1 (Rainbow Workbooks), printed pp.80, 92, 118 |
+
+**Acceptance count: taught in 14 countries (Bangladesh,
 Egypt, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).** Bangladesh pictures the before-home in
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).** Bangladesh pictures the before-home in
 eight pairs; Mongolia names the describing law, writes the
 sense-verb home, and posts the comparing border — and its
 Grade 5 picture book now adds describing stock in pictures
@@ -156,7 +166,7 @@ and compares adjectives and adverbs in JSS 3;
 Jordan seats adjectives inside have-got sentences in
 Grade 3, builds its comparatives system in Grade 4,
 and adds comparative adverbs and the sense verbs in
-Grade 6. Greece seats sense verbs + adjective at Grade 5, builds comparatives and superlatives there and runs comparison — adjectives, as…as and adverbs — through a whole Grade 6 unit, restating the system at Grade 8. Kazakhstan names adjective position at Grade 5, makes it the writing point of a Grade 6 town description, and states the stacking order — opinion, size/length, type, colour — in its Grade 6 Full Blast!. Iraq states adjective order three times over: size → colour → material as a Grade 6 Activity Book LOOK box, the full Opinion–Size–Age–Shape–Colour–Origin–Material table in its Grade 9 Student's Book, and general-before-colour again in Grade 11. Ethiopia stocks the describing-writing parts only: descriptive writing with appearance and personality adjectives in Grade 7, adjectives and adverbs as grammar in Grade 8, and adjectives for descriptive writing again in Grade 11 — it adds no adjective-order table, sense-verb home or comparatives system to this lesson. Other closed countries join as their books are read
+Grade 6. Greece seats sense verbs + adjective at Grade 5, builds comparatives and superlatives there and runs comparison — adjectives, as…as and adverbs — through a whole Grade 6 unit, restating the system at Grade 8. Kazakhstan names adjective position at Grade 5, makes it the writing point of a Grade 6 town description, and states the stacking order — opinion, size/length, type, colour — in its Grade 6 Full Blast!. Iraq states adjective order three times over: size → colour → material as a Grade 6 Activity Book LOOK box, the full Opinion–Size–Age–Shape–Colour–Origin–Material table in its Grade 9 Student's Book, and general-before-colour again in Grade 11. Ethiopia stocks the describing-writing parts only: descriptive writing with appearance and personality adjectives in Grade 7, adjectives and adverbs as grammar in Grade 8, and adjectives for descriptive writing again in Grade 11 — it adds no adjective-order table, sense-verb home or comparatives system to this lesson. South Africa stocks this lesson in full: Grade 4 HL uses adjectives describing nouns inside sentences, Grade 6 HL teaches the adjective's two sentence positions — "The small dog / The dog is small" — and Grade 3 HL drills adjective sets in sentences. Other closed countries join as their books are read
 (see READING-QUEUE.md).
 
 **Laos Grade 4 added 2026-10-27** — *English for Lao Primary
@@ -205,3 +215,5 @@ printed p.21) — the full stacking table in Grade 9,
 (Student's Book Book One, Unit 1, Round up, printed p.13),
 and general adjective before colour adjective again in
 Grade 11 (Student's Book, Unit 3, printed p.34).
+
+**South Africa added 2026-11-03** — *DBE Rainbow Workbooks* (Department of Basic Education, South Africa, Sixteenth edition 2026; full read in english/books/south-africa.md). South Africa stocks describing words in sentences in full: **adjectives describing nouns inside sentences in Grade 4 HL Workbook 1** (printed pp.74–75), the adjective's **two sentence positions — "The small dog / The dog is small" — in Grade 6 HL Workbook 2** (printed p.48), and **adjective sets drilled in sentences in Grade 3 HL Workbook 1** (printed pp.80, 92, 118).

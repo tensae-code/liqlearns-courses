@@ -1,6 +1,6 @@
 # Sources — The paragraph
 
-countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
+countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
 
 Every part traces to its book and page.
 
@@ -115,6 +115,11 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 27:** English for Ethiopia, Grade 5 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 5 — English for Ethiopia, Grade 5 Student's Book (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 28:** English for Ethiopia, Grade 9 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 9 — English for Ethiopia, Student Textbook (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 29:** *English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 30:** *English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 31:** *English Home Language, Grade 6 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 32:** *English First Additional Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Guided Composition: "two coherent paragraphs by leading questions ('My Home')" — the paragraph written as answers to leading questions | Ghana, NaCCA B1–B3 curriculum, Basic 3, writing strands (as filed) |
@@ -152,10 +157,14 @@ CITATION CHECK PASSED 2026-11-03).
 | TOPIC SENTENCES named and paragraph structure as the writing work — the topic sentence named outright ("called the topic sentence", printed p.51), and topic sentences and paragraph structure set as Unit 5's writing | Ethiopia, English for Ethiopia Grade 10 Student's Book, printed p.51, and Unit 5, Writing, printed pp.119–143 |
 | A process paragraph as the writing outcome: jumbled sentences reordered and rewritten as a paragraph that explains a process | Ethiopia, English for Ethiopia Grade 5 Student's Book, Unit 1, Writing, printed p.32 |
 | A paragraph developed with cohesive devices — the paragraph built and held together by its linking words (also / Besides / Moreover / Generally) | Ethiopia, English for Ethiopia Grade 9 Student's Book, Unit 1, Writing, printed pp.1–31 |
+| The topic sentence NAMED and defined: "A topic sentence summarises the main idea in a sentence" — a worksheet on the topic sentence set against its supporting sentences | South Africa, English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks), printed p.20 |
+| Topic sentences taught with paragraph sequencing — the paragraph's sentences ordered under the sentence that carries its idea | South Africa, English Home Language, Grade 6 Workbook 1 (Rainbow Workbooks), printed p.13 |
+| Paragraph writing about oneself — the learner's own paragraph as the writing work | South Africa, English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks), printed p.16 |
+| A descriptive paragraph written in the present tense — the paragraph as a set writing outcome in the additional-language strand | South Africa, English First Additional Language, Grade 5 Workbook 1 (Rainbow Workbooks), as filed in its section in english/books/south-africa.md |
 
-**Acceptance count: taught in 14 countries (Bangladesh,
+**Acceptance count: taught in 15 countries (Bangladesh,
 Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).** Ghana names the process and prints the
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).** Ghana names the process and prints the
 unity test as a revise question; Bangladesh guides the
 first paragraphs and models them; Egypt examines by the
 paragraph; China adds a model-first writing ladder across
@@ -196,7 +205,7 @@ paragraph unity and concluding sentences, Grade 6's
 writing stays at the single paragraph, Grade 10 names
 topic sentences and paragraph structure, Grade 5 writes
 a process paragraph, and Grade 9 develops a paragraph
-with cohesive devices. Other closed countries join as their books are
+with cohesive devices; South Africa NAMES the topic sentence outright — "A topic sentence summarises the main idea in a sentence" (English Home Language Grade 5 Workbook 1, printed p.20) — teaches topic sentences with paragraph sequencing at Grade 6, sets paragraph writing about oneself at Grade 4, and writes a descriptive paragraph in the present tense in its English First Additional Language Grade 5 Workbook 1. Other closed countries join as their books are
 read (see READING-QUEUE.md).
 
 **Laos Grade 6 added 2026-10-27** — *English for Secondary
@@ -242,3 +251,5 @@ item 3.7.6 — begins and ends at Class 4), with Class 3's
 qualitative bar that conventions should "aid rather than
 interfere with reading" and paragraphs developed to hold the
 reader's attention.
+
+**South Africa added 2026-11-03** — four books stock this lesson: *English Home Language, Grade 4 Workbook 1*, *English Home Language, Grade 5 Workbook 1*, *English Home Language, Grade 6 Workbook 1* and *English First Additional Language, Grade 5 Workbook 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. South Africa names the topic sentence, which several earlier countries did not: the Grade 5 Home Language book defines it — "A topic sentence summarises the main idea in a sentence" (printed p.20) — the Grade 6 book teaches topic sentences with paragraph sequencing (printed p.13), the Grade 4 book has paragraph writing about oneself (printed p.16), and the Grade 5 First Additional Language book writes a descriptive paragraph in the present tense.

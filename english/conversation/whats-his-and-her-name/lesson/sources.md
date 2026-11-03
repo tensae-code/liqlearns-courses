@@ -1,6 +1,6 @@
 # Sources for this lesson — What's his and her name?
 
-countries: Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia
+countries: Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -25,8 +25,10 @@ Book (Garnet / CERC, © 2019; verified on disk 2026-10-25: %PDF,
 | The same question in the first year's receptive layer — "What's his/her name?" heard in the Grade 1 lessons and named again among Unit 7's objectives | Iraq — English for Iraq, Grade 1 Teacher's Book, Unit 1 notes, printed pp.22–69; Unit 7 notes, printed pp.168–185 |
 | Naming a third person in the statement form: "My father's name is …" — a third person's name stated as its own frame, inside talking about oneself and others (Ethiopia never prints the "What's his/her name?" question wording in its filed read — its form is this statement, recorded as printed) | Ethiopia — English for Ethiopia, Grade 1 Student's Book, Unit 3 "Colours," printed pp.43–52 |
 | Father's name as a named item of the personal-information exchange — name, father's name, age, origin, grade (the exchange is filed as a topic list; no name-question wording is printed for it in the filed read) | Ethiopia — English for Ethiopia, Grade 4 Student's Book, Unit 1 "People and Their Work," printed pp.1–20 |
+| A princess-and-prince story modelled on the third-person identity frames "Who is he? / Who is she?" (no "What's his/her name?" frame appears in the 24 South Africa books — partial stock, recorded as such) | South Africa — English First Additional Language, Grade 2 Workbook 1 (Rainbow Workbooks), printed pp.34–35 |
+| **he is/she is** description chains | South Africa — English Home Language, Grade 3 Workbook 2 (Rainbow Workbooks), printed pp.84–85 |
 
-**Acceptance count: taught in 8 countries (Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia).**
+**Acceptance count: taught in 9 countries (Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa).**
 China names third people by role with he/she and identifies
 family members one by one; North Macedonia works the naming
 frame through a full set of named family portraits. Iran and
@@ -173,3 +175,23 @@ origin, grade); the filed read prints no name-question
 wording for that exchange, and none is claimed here.
 Ethiopia is counted for the statement frame only,
 exactly as filed.
+
+**South Africa added 2026-11-03** — two books stock this
+lesson, in part: **Book:** *English First Additional
+Language, Grade 2 Workbook 1 (Rainbow Workbooks)* — South
+Africa, Department of Basic Education, Sixteenth edition
+2026. **Book:** *English Home Language, Grade 3 Workbook 2
+(Rainbow Workbooks)* — South Africa, Department of Basic
+Education, Sixteenth edition 2026. Both filed in
+english/books/south-africa.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03). PARTIAL STOCK, recorded as such: no
+"What's his/her name?" frame appears in any of the 24
+South Africa books, stated plainly. South Africa's form of
+this lesson's work is the *who* form, like Iran's and
+Indonesia's above: the FAL Grade 2 Workbook 1's
+princess-and-prince story is modelled on the third-person
+identity frames "Who is he? / Who is she?" (printed
+pp.34–35), and the HL Grade 3 Workbook 2 runs he is/she is
+description chains (printed pp.84–85) — the third person
+identified and described, never asked for by name in
+Libya's wording.

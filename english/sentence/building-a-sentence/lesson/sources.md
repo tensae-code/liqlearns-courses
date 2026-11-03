@@ -1,6 +1,6 @@
 # Sources — Building a sentence
 
-countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
+countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
 
 Every part traces to its book and page.
 
@@ -78,6 +78,12 @@ CITATION CHECK PASSED 2026-11-03).
 
 **Book 21:** English for Ethiopia, Grade 11 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 11 — ENGLISH / STUDENT TEXTBOOK / GRADE 11 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 22:** *English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 23:** *English Home Language, Grade 4 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 24:** *English Home Language, Grade 6 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The SIMPLE PRESENT box written as a board paradigm: affirmative Subject + Verb + Complement on "play," negative with do/does not, and the DO–DOES interrogative box beside it — the sentence's three-part formula stated as the book's own grammar frame | Bolivia compendium, the Daily activities text (T8, compendium p.178) |
@@ -106,9 +112,14 @@ CITATION CHECK PASSED 2026-11-03).
 | Sentence types named as the writing work of the travel unit | Ethiopia, Grade 10 Student's Book, Unit 2 "Travel Behaviors," printed pp.37–64 |
 | Sentence types by function and structure as named writing work (1F), with sentence-structure errors — fragments, run-ons, comma splices | Ethiopia, Grade 11 Student's Book, Unit 1 "Environmental Hazards," Writing (1F), printed pp.1–32 |
 
-**Acceptance count: taught in 13 countries (Bangladesh,
+| Subject, verb and object named and worked: subject, verb and object underlining, with transitive and intransitive verbs named, and subject/predicate work beside it | South Africa — English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks), printed pp.116–117 |
+| Simple sentences built as subject + predicate | South Africa — English Home Language, Grade 4 Workbook 2 (Rainbow Workbooks), printed p.39 |
+| Subjects, verbs and objects picked out in three colours in sentences | South Africa — English Home Language, Grade 6 Workbook 1 (Rainbow Workbooks), printed pp.80–81 |
+| Subject and predicate worked in complex sentences | South Africa — English Home Language, Grade 6 Workbook 1 (Rainbow Workbooks), printed pp.44–45 |
+
+**Acceptance count: taught in 14 countries (Bangladesh,
 Bolivia, Ghana, Mongolia, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).** Bolivia states the formula;
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).** Bolivia states the formula;
 Ghana names the two parts; Bangladesh drills the building
 from tables; Mongolia checks the order; China adds the
 this/these, that/those sentence system, taught as one
@@ -120,6 +131,6 @@ subject-and-verb rule in JSS 1 and writes sentences with
 all eight parts in SSS 1; Jordan orders
 sentences in its Grade 3 workbook and builds them, and
 sets present-continuous word order, in its Grade 8
-workbook. Greece stocks this lesson only in part: it works word order as practice — in the Grade 7 workbooks' contrast drills, question formation and labelled error correction — and sorts verbs by sentence pattern at Grade 9, but no Greece book states a subject-and-verb sentence-building rule as a named lesson. Kazakhstan stocks this lesson only in part, and more thinly: its Grade 5 English Plus Workbook orders words to make questions — *be going to* questions in Unit 8 and past questions in Unit 9 — but no Kazakhstan book states a subject-and-verb sentence-building rule as a named lesson either. Iraq stocks this lesson only in part: its Grade 1 and Grade 2 teacher's books define a sentence for pupils — a group of words that makes sense, starting with a capital letter and ending with a full stop — and its Grade 2 teacher's book builds sentences from Word Cards to focus attention on word order, but no Iraq book states a subject-and-verb sentence-building rule or builds a sentence from its parts. Ethiopia carries the formula as a form box inside its Grade 3 simple-present grammar — Subject + Verb(s/es) + Object — and works sentences at the top of the school: constructing sentences in Grade 9, sentence types in Grade 10, and sentence types by function and structure with fragments, run-ons and comma splices in Grade 11. Other finished
+workbook. Greece stocks this lesson only in part: it works word order as practice — in the Grade 7 workbooks' contrast drills, question formation and labelled error correction — and sorts verbs by sentence pattern at Grade 9, but no Greece book states a subject-and-verb sentence-building rule as a named lesson. Kazakhstan stocks this lesson only in part, and more thinly: its Grade 5 English Plus Workbook orders words to make questions — *be going to* questions in Unit 8 and past questions in Unit 9 — but no Kazakhstan book states a subject-and-verb sentence-building rule as a named lesson either. Iraq stocks this lesson only in part: its Grade 1 and Grade 2 teacher's books define a sentence for pupils — a group of words that makes sense, starting with a capital letter and ending with a full stop — and its Grade 2 teacher's book builds sentences from Word Cards to focus attention on word order, but no Iraq book states a subject-and-verb sentence-building rule or builds a sentence from its parts. Ethiopia carries the formula as a form box inside its Grade 3 simple-present grammar — Subject + Verb(s/es) + Object — and works sentences at the top of the school: constructing sentences in Grade 9, sentence types in Grade 10, and sentence types by function and structure with fragments, run-ons and comma splices in Grade 11. South Africa stocks this lesson in full — fuller than several earlier countries' partials: its Grade 4 Workbook 1 names subject, verb and object, with transitive and intransitive verbs, its Grade 4 Workbook 2 builds simple sentences as subject + predicate, and its Grade 6 Workbook 1 picks out subjects, verbs and objects in three colours and works subject and predicate in complex sentences. Other finished
 countries join as their books are read (see
 READING-QUEUE.md).

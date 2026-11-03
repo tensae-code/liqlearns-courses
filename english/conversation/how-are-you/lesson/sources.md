@@ -1,6 +1,6 @@
 # Sources for this lesson — How are you?
 
-countries: Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
+countries: Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -28,8 +28,11 @@ Libya (Garnet) · Books verified on disk 2026-10-25.
 | "How are you? — I'm fine, thank you" in the new cast's opening lesson, beside the name exchange | Iraq — English for Iraq, Grade 3 Pupil's Book, Unit 1, Lesson 1, printed p.6 |
 | A greetings-and-small-talk dialogue chain — "How's everything? What are you up to now? What's up? How are you holding up?" | Ethiopia — English for Ethiopia, Grade 4 Student's Book, Unit 7 speaking, printed pp.96–97 |
 | The well-being answer with its return question — "I'm good. What about you?" (citation anchor) | Ethiopia — English for Ethiopia, Grade 1 Student's Book, printed p.16 |
+| The question itself inside a modelled letter — "How are you, my cousin?" (South Africa teaches no "How are you? — I'm fine" exchange pair in its 24 books — partial stock, recorded as such) | South Africa — English Home Language, Grade 3 Workbook 1 (Rainbow Workbooks), printed p.36 |
+| Feelings vocabulary for answers, taught early — happy/sad/angry/scared | South Africa — English Home Language, Grade 1 Workbook 1 (Rainbow Workbooks), printed p.83 |
+| Feelings words happy/sad in the Jabu story | South Africa — English First Additional Language, Grade 2 Workbook 1 (Rainbow Workbooks), printed pp.2–5 |
 
-**Acceptance count: taught in 10 countries (Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
+**Acceptance count: taught in 11 countries (Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 China joins with the exchange itself in its first primary book
 (Grade 3 Volume 1) and deepens it three years later into feelings
 talk — "How do you feel?", "What's wrong?" (Grade 6 Volume 1).
@@ -212,3 +215,26 @@ you holding up?" as one greetings-and-small-talk
 dialogue. Its Grade 1 book carries the answer with its
 return question — "I'm good. What about you?" (printed
 p.16, a citation anchor in the country file).
+
+**South Africa added 2026-11-03** — three books stock this
+lesson, in part: **Book:** *English Home Language, Grade 3
+Workbook 1 (Rainbow Workbooks)* — South Africa, Department
+of Basic Education, Sixteenth edition 2026. **Book:**
+*English Home Language, Grade 1 Workbook 1 (Rainbow
+Workbooks)* — South Africa, Department of Basic Education,
+Sixteenth edition 2026. **Book:** *English First
+Additional Language, Grade 2 Workbook 1 (Rainbow
+Workbooks)* — South Africa, Department of Basic Education,
+Sixteenth edition 2026. All filed in
+english/books/south-africa.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03). PARTIAL STOCK, recorded as such: no
+taught "How are you? — I'm fine" exchange pair exists in
+the 24 South Africa books. What exists is the question
+itself inside a modelled letter — the HL Grade 3 Workbook
+1's letter asks "How are you, my cousin?" (printed p.36) —
+and the feelings vocabulary answers are built from: the
+HL Grade 1 Workbook 1 teaches the feelings set happy/sad/
+angry/scared (printed p.83), and the FAL Grade 2 Workbook 1
+teaches the feelings words happy/sad in its Jabu story
+(printed pp.2–5). South Africa is counted for the question
+in use and the feelings answers only, exactly as filed.

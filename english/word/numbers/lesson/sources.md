@@ -1,6 +1,6 @@
 # Sources — Numbers
 
-countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
+countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
 
 Every part traces to its book and page.
 
@@ -132,6 +132,12 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 
 **Book 33:** English for Ethiopia, Grade 2 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 2 — English for Ethiopia Student's Book Grade 2 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 34:** *English First Additional Language, Grade 1 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 35:** *English Home Language, Grade 1 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 36:** *English First Additional Language, Grade 1 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Count objects and match them with the correct number (4 leaves, 1 sun, 5 apples, 2 tulips, 3 pineapples); "How many pencils are there? There are (2–3) pencils" / "How many stars are there? There are (3–5) stars"; trace the numbers 1–5, each row headed by that many strawberries | Egypt, KG2 (I Love My Family unit's number work), pp.54–55 |
@@ -174,10 +180,13 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 | The climb to thousands in Grade 4: the "Big Numbers" rhyme teaches 100–1000 ("We say one thousand"), numbers extend to 1000, 2000, 3000 with Waterfall Shop prices to 3000 IQD, and ordinals first (1st) to fourth (4th) taught in "Numbers in order" for race results | Iraq — English for Iraq, Grade 4 Pupil's Book, Unit 2, printed pp.22–37 ("We say one thousand," printed p.27); Unit 3, printed pp.38–53; Unit 5, printed pp.58–73 |
 | Numbers 0–12 with a counting song, inside the times-of-the-day unit | Ethiopia, Grade 1 Student's Book, Unit 2 "Times of The Day," printed pp.27–42 |
 | Cardinal numbers with the ordinals first–seventh, inside the days-of-the-week unit | Ethiopia, Grade 2 Student's Book, Unit 2 "Days of the Week," printed pp.29–42 |
+| Counting 1–10 with the number words, in Theme 2 | South Africa, English First Additional Language (FAL), Grade 1 Workbook 1 (Rainbow Workbooks), Theme 2, printed pp.8–9 |
+| Counting worked through a November calendar — the days of the month counted and questioned | South Africa, English Home Language (HL), Grade 1 Workbook 2 (Rainbow Workbooks), printed p.112 |
+| Colours and numbers revised together | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), printed pp.20–21 |
 
-**Acceptance count: taught in 14 countries (Egypt, India,
+**Acceptance count: taught in 15 countries (Egypt, India,
 Palestine, Laos, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).** Palestine carries the youngest path (numbers
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).** Palestine carries the youngest path (numbers
 inside the word units, traced); Egypt carries the counting
 question and the climb (1–5, 11–20, by tens to 100); India
 carries the same 1–20 in its first book; China carries the
@@ -188,7 +197,7 @@ picture characters over counted sets; Indonesia carries
 Iran carries 1–10 checked at the door, 1–31, then 1–100, and
 the senior climb to one billion with teen against ten;
 Sierra Leone carries counting in words from the first term,
-labelled counted objects, and printed tables to 50. Jordan carries the whole climb in its own order — 1–10, 11–20, 1–100, the ordinals first–thirty-first, and the big numbers to a million; Greece carries 1–10 as words on a caterpillar craft and counted food, the counting climb to 20 (its Grade 2 numbers stop there), the tens sung to ninety inside its Grade 4 "20 to 99" unit, and numbers as arithmetic-puzzle answers and whole big numbers in its Grade 7 Beginners workbook; Kazakhstan carries the first climb in two steps — 1–5, then 6–10 with How old are you? — in Grade 1 Smiles, numbers to 50 practised through birthday sums in its Grade 2 Activity Book, and the full climb to 100 in one Grade 3 Express book; Iraq carries the whole primary climb in its own order — 1–10 counted on balloons in Grade 1, 11–20 in a shoe shop in Grade 2, the tens to 100 in Grade 3, and 100–1000 then 3000 with ordinals 1st–4th in Grade 4; Ethiopia's numbers stock is small: it carries only numbers 0–12 with a counting song in Grade 1, and cardinal numbers with the ordinals first–seventh in Grade 2; Other
+labelled counted objects, and printed tables to 50. Jordan carries the whole climb in its own order — 1–10, 11–20, 1–100, the ordinals first–thirty-first, and the big numbers to a million; Greece carries 1–10 as words on a caterpillar craft and counted food, the counting climb to 20 (its Grade 2 numbers stop there), the tens sung to ninety inside its Grade 4 "20 to 99" unit, and numbers as arithmetic-puzzle answers and whole big numbers in its Grade 7 Beginners workbook; Kazakhstan carries the first climb in two steps — 1–5, then 6–10 with How old are you? — in Grade 1 Smiles, numbers to 50 practised through birthday sums in its Grade 2 Activity Book, and the full climb to 100 in one Grade 3 Express book; Iraq carries the whole primary climb in its own order — 1–10 counted on balloons in Grade 1, 11–20 in a shoe shop in Grade 2, the tens to 100 in Grade 3, and 100–1000 then 3000 with ordinals 1st–4th in Grade 4; Ethiopia's numbers stock is small: it carries only numbers 0–12 with a counting song in Grade 1, and cardinal numbers with the ordinals first–seventh in Grade 2; South Africa carries counting 1–10 with number words in Grade 1 FAL Theme 2, counting through a November calendar in Grade 1 HL Workbook 2, and colours and numbers revised in Grade 1 FAL Workbook 2 — worded plainly: the taught core is 1–10, with counting work beyond that in charts and calendars; Other
 finished
 countries join as their books are read (see READING-QUEUE.md).
 
@@ -223,3 +232,5 @@ running to 100 (85−15, 100:2, p.16), and a brand-new number use —
 **telephone numbers read digit by digit, zero read as "o"**:
 "What's your telephone number? — It's 537 889" (pp.10–14), with
 a whole song that sings three numbers (p.14).
+
+**South Africa added 2026-11-03** — South Africa's number stock is small and is worded plainly: the taught core is 1–10. Grade 1 FAL Workbook 1 Theme 2 teaches counting 1–10 with the number words (printed pp.8–9); beyond that core, counting work runs in charts and calendars — Grade 1 HL Workbook 2 counts through a November calendar (printed p.112), and Grade 1 FAL Workbook 2 revises colours and numbers together (printed pp.20–21). No climb past ten is claimed for South Africa.

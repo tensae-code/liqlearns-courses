@@ -1,6 +1,6 @@
 # Sources — The story
 
-countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
+countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
 
 Every part traces to its book and page.
 
@@ -135,6 +135,10 @@ PASSED 2026-11-03).
 
 **Book 27:** English for Ethiopia, Grade 2 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 2 — English for Ethiopia Student's Book Grade 2 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 28:** *English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 29:** *English Home Language, Grade 5 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 30:** *English First Additional Language, Grade 6 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Paragraph Development names the four modes — "expository, narrative, description, argument" — narrative standing as the story's mode among the kinds of writing | Ghana, NaCCA JHS curriculum, Paragraph Development (as filed) |
@@ -166,9 +170,13 @@ PASSED 2026-11-03).
 | A story read as the vehicle of the past tenses: the "Spooky Story" — Susan Lee's ghost-hitchhiker tale, opening just before midnight on October 31st — carrying the simple past and past continuous work | Ethiopia, English for Ethiopia Grade 9 Student's Book, Unit 2, printed pp.47–48 |
 | A fable read whole in primary school: "The Running Race", the tortoise and the rabbit, in past-tense narration, with story vocabulary | Ethiopia, English for Ethiopia Grade 3 Student's Book, Unit 8, Reading, printed pp.104–111 |
 | A story read whole in primary school: "Birra and Bari", twin brothers of opposite manners, told in past-tense narration | Ethiopia, English for Ethiopia Grade 2 Student's Book, Unit 8, Reading, printed pp.107–121 ("Birra and Bari were twin brothers", printed p.118) |
+| Stories analysed by their furniture named outright: character, plot and setting worked over the book's stories | South Africa, English Home Language, Grade 5 Workbook 2 (Rainbow Workbooks), printed pp.36–39 |
+| The fiction kinds defined at the book's summit: the fable, folk tale, myth, short story, novel and drama each defined in the closing fiction summit | South Africa, English Home Language, Grade 5 Workbook 2 (Rainbow Workbooks), printed pp.128–129 |
+| Story elements analysed as a named worksheet — the story taken apart by its elements | South Africa, English First Additional Language, Grade 6 Workbook 2 (Rainbow Workbooks), worksheet 83, printed p.58 |
+| Stories written from a mind map, and the fable defined — the story planned from its map and one kind named in the same book | South Africa, English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks), Theme 1 and Theme 4, as filed in its section in english/books/south-africa.md |
 
-**Acceptance count: taught in 11 countries (Bangladesh,
-Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).** Ghana names the narrative mode; Bangladesh
+**Acceptance count: taught in 12 countries (Bangladesh,
+Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).** Ghana names the narrative mode; Bangladesh
 teaches stories from its earliest classes with the fables;
 Egypt reads whole stories through the secondary years;
 China names the story's three parts outright (setting,
@@ -212,5 +220,7 @@ story "Birra and Bari", the Grade 9 "Spooky Story"
 carrying its past-tense work) — but no read Ethiopia
 book names the story's furniture (setting, characters,
 plot) as such, so that naming rests on the other
-countries. Other closed countries join as their books are read (see
+countries; South Africa names the story's furniture outright — its Grade 5 Home Language Workbook 2 analyses stories by character, plot and setting (printed pp.36–39) and closes with a fiction summit defining the fable, folk tale, myth, short story, novel and drama (printed pp.128–129), its Grade 6 First Additional Language Workbook 2 analyses story elements (worksheet 83, printed p.58), and its Grade 4 Home Language Workbook 1 writes stories from a mind map (Theme 1) and defines the fable (Theme 4). Other closed countries join as their books are read (see
 READING-QUEUE.md).
+
+**South Africa added 2026-11-03** — three books stock this lesson: *English Home Language, Grade 4 Workbook 1*, *English Home Language, Grade 5 Workbook 2* and *English First Additional Language, Grade 6 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. The Home Language Grade 5 Workbook 2 analyses stories by character, plot and setting (printed pp.36–39) and ends with a fiction summit defining the fable, folk tale, myth, short story, novel and drama (printed pp.128–129); the First Additional Language Grade 6 Workbook 2 analyses story elements (worksheet 83, printed p.58); and the Home Language Grade 4 Workbook 1 writes stories from a mind map (Theme 1) and defines the fable (Theme 4).

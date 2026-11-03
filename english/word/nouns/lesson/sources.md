@@ -1,6 +1,6 @@
 # Sources — Nouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
+countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
 
 Every part traces to its book and page.
 
@@ -96,6 +96,12 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 
 **Book 26:** English for Ethiopia, Grade 11 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 11 — ENGLISH / STUDENT TEXTBOOK / GRADE 11 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 27:** *English Home Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 28:** *English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 29:** *English First Additional Language, Grade 4 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition in its three-sort form: "Nouns — person, place, thing," taught with the "Life in the City" text (Karim) and sorting work | Egypt, Primary 2 Term 2, Unit 4, Lesson 3 "Language in Use," p.68 |
@@ -135,9 +141,17 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Types of nouns taught in the grammar section, beside the Present Simple and Present Continuous Passive Voice | Ethiopia — English for Ethiopia, Grade 5 Student's Book, Unit 4, grammar, printed pp.94–107 |
 | Types of nouns again in the grammar section, beside Conditional Sentence Type I | Ethiopia — English for Ethiopia, Grade 6 Student's Book, Unit 8, grammar, contents p.190 (unit printed pp.179–198, as filed) |
 | Types of nouns in the opening grammar section (1E), beside the simple present, the present passive and the simple future | Ethiopia — English for Ethiopia, Grade 11 Student's Book, Unit 1, grammar (1E), printed pp.1–32 |
+| The definition in its three-sort form: nouns as names of a person, place or thing | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), printed p.6 |
+| Proper nouns — the special names that take capitals | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), printed p.4 |
+| Common nouns and proper nouns as named kinds | South Africa, English Home Language (HL), Grade 4 Workbook 1 (Rainbow Workbooks), common nouns, printed p.6; proper nouns, printed p.10 |
+| Countable and uncountable nouns as a named pair | South Africa, English Home Language (HL), Grade 4 Workbook 1 (Rainbow Workbooks), printed p.11 |
+| Collective nouns as a named kind | South Africa, English Home Language (HL), Grade 4 Workbook 1 (Rainbow Workbooks), printed pp.14–15 |
+| Abstract nouns as a named kind | South Africa, English Home Language (HL), Grade 4 Workbook 1 (Rainbow Workbooks), printed pp.20–21 |
+| Compound nouns as a named kind | South Africa, English Home Language (HL), Grade 4 Workbook 1 (Rainbow Workbooks), printed p.28 |
+| Nouns and adjectives revised together inside a story unit | South Africa, English First Additional Language (FAL), Grade 4 Workbook 2 (Rainbow Workbooks), Theme 2 "Reading and doing," printed pp.36–70 |
 
-**Acceptance count: taught in 14 countries (Bangladesh, Egypt,
-Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).**
+**Acceptance count: taught in 15 countries (Bangladesh, Egypt,
+Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).**
 Egypt and Bangladesh carry the definition itself,
 each in the three-sort form; Libya carries it twice more in its
 own shorter words; Ghana carries the sentence test; China
@@ -149,7 +163,7 @@ and the countable/uncountable line again with measure words;
 Sierra Leone carries the categories made by the learners
 themselves, the countable/uncountable pair in Primary 2, and
 the plural spellings -es / -ies / -ves as separate lessons.
-Jordan carries the irregular plurals mouse–mice and fish–fish and the -oes spellings, and countable against uncountable twice — with containers and quantity in Grade 4, and with some/any/no and the quantifiers in Grade 8; Greece carries countable against uncountable three times — as the Grade 4 party-shopping grammar core, again in Grade 6 with containers and few/little, and in Grade 7 with the quantifier set; Kazakhstan carries countable against uncountable twice in primary — in its Grade 3 Macmillan book, beside regular and irregular plurals, and in Grade 5 English Plus with some and any — and the plural spellings -s, then -es and -ies, built up across its Grade 3 Express book; Iraq carries the noun named as a word kind in its Grade 4 Activity Book — "Nouns are the names of things" set against adjectives — the irregular plurals as a pictured list closing its Grade 3 Picture Dictionary, and countable against uncountable nouns with containers in Grade 5; Ethiopia carries types of nouns three times — in Grade 5 beside the passive, in Grade 6 beside Conditional Type I, and in Grade 11's opening grammar — and collective nouns as a named set in Grade 4 (a herd of cows, a colony of ants, a pack of dogs, a crowd); Other finished
+Jordan carries the irregular plurals mouse–mice and fish–fish and the -oes spellings, and countable against uncountable twice — with containers and quantity in Grade 4, and with some/any/no and the quantifiers in Grade 8; Greece carries countable against uncountable three times — as the Grade 4 party-shopping grammar core, again in Grade 6 with containers and few/little, and in Grade 7 with the quantifier set; Kazakhstan carries countable against uncountable twice in primary — in its Grade 3 Macmillan book, beside regular and irregular plurals, and in Grade 5 English Plus with some and any — and the plural spellings -s, then -es and -ies, built up across its Grade 3 Express book; Iraq carries the noun named as a word kind in its Grade 4 Activity Book — "Nouns are the names of things" set against adjectives — the irregular plurals as a pictured list closing its Grade 3 Picture Dictionary, and countable against uncountable nouns with containers in Grade 5; Ethiopia carries types of nouns three times — in Grade 5 beside the passive, in Grade 6 beside Conditional Type I, and in Grade 11's opening grammar — and collective nouns as a named set in Grade 4 (a herd of cows, a colony of ants, a pack of dogs, a crowd); South Africa carries the definition in its three-sort form and proper nouns in Grade 3 HL, the full noun system in Grade 4 HL — common, proper, countable/uncountable, collective, abstract and compound nouns — and nouns revised with adjectives inside a story unit in Grade 4 FAL; Other finished
 countries join as their books are read (see READING-QUEUE.md).
 
 **Laos Grade 7 added 2026-10-27** — *English for Secondary
@@ -161,3 +175,5 @@ uncountables (p.100), a twenty-four-word plural list carrying
 woman, man, tooth, foot, mouse, fish (p.101) — and **some /
 any** taught with a printed wrong example marked × (Unit 8,
 pp.99–108).
+
+**South Africa added 2026-11-03** — South Africa's Rainbow Workbooks name the noun early and build the whole system in one grade. Grade 3 HL Workbook 1 sorts nouns as names of a person, place or thing (printed p.6), with proper nouns just before it (printed p.4). Grade 4 HL Workbook 1 then carries the full set in one book: common nouns (printed p.6), proper nouns (printed p.10), countable and uncountable nouns (printed p.11), collective nouns (printed pp.14–15), abstract nouns (printed pp.20–21) and compound nouns (printed p.28). Grade 4 FAL Workbook 2 revises nouns and adjectives together inside its story Theme 2, "Reading and doing" (printed pp.36–70).

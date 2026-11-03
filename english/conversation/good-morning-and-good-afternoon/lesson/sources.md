@@ -1,6 +1,6 @@
 # Sources for this lesson — Good morning and good afternoon
 
-countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia
+countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -25,8 +25,9 @@ explains one thing only.
 | "Good morning" and a short classroom conversation (Track 31) in the school unit's teacher's notes (Iraq's filed books teach the morning greeting only: no "Good afternoon" greeting is printed anywhere in the Iraq read — the phrase "Good afternoon" does not occur in english/books/iraq.md at all, and "afternoon" appears there only as a time-of-day word, in Grade 3, not as a greeting) | Iraq — English for Iraq, Grade 1 Teacher's Book, Unit 2 notes, printed pp.70–91 |
 | The "Good morning" song and a teacher–class greeting exchange in the first unit | Ethiopia — English for Ethiopia, Grade 1 Student's Book, Unit 1, printed pp.1–26 |
 | Times of the day with their matching greetings — morning / afternoon / evening / night taught with the greetings that go with them (the filing describes this unit's work as times of day with matching greetings; the words "Good afternoon" themselves are not quoted in the Ethiopia filing, so this row is worded from the filing as filed) | Ethiopia — English for Ethiopia, Grade 1 Student's Book, Unit 2 "Times of The Day", printed pp.27–42 |
+| "Good morning. This is today's weather." — the morning greeting opening a weather-broadcast script (South Africa's filed books teach the morning greeting only: "Good afternoon" occurs zero times in all 24 South Africa books) | South Africa — English Home Language, Grade 3 Workbook 2 (Rainbow Workbooks), printed p.74 |
 
-**Acceptance count: taught in 11 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia).**
+**Acceptance count: taught in 12 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa).**
 China teaches the pair inside its colours unit in the first
 primary book; Mongolia stocks the day-part ground the greeting
 stands on — one boy's whole day told in clock pictures — from a
@@ -210,3 +211,19 @@ english/books/ethiopia.md finds no occurrence of the
 phrase), so Ethiopia is stocked here as the morning
 greeting named plus times-of-day greetings work, not
 as a quoted afternoon greeting.
+
+**South Africa added 2026-11-03** — one book stocks this
+lesson, in part: **Book:** *English Home Language, Grade 3
+Workbook 2 (Rainbow Workbooks)* — South Africa, Department
+of Basic Education, Sixteenth edition 2026. Filed in
+english/books/south-africa.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03). PARTIAL STOCK, recorded as such: South
+Africa carries the morning half only, the same pattern as
+Jordan, Greece, Iraq and Ethiopia in this file — the HL
+Grade 3 Workbook 2's weather-broadcast script opens "Good
+morning. This is today's weather." (printed p.74). "Good
+afternoon" occurs ZERO times in all 24 South Africa books,
+stated plainly: no afternoon greeting is printed anywhere
+in the South Africa read, and none is claimed here. South
+Africa is therefore counted for the morning half of this
+lesson, exactly as Jordan, Greece and Iraq are above.

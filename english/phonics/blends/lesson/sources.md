@@ -1,6 +1,6 @@
 # Sources for this lesson — Blends
 
-countries: Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia
+countries: Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -33,8 +33,12 @@ pictures).
 | Initial blends circled from sound — **bl/cl/fl/pl/sl, br/tr/fr, sp/st/sk/sn/sc** — and blend jigsaws (pl+ant/ane, br+ush/ead) in the workbook's phonics strand | Iraq — English for Iraq, Grade 3 Activity Book, Unit 6, printed pp.84–99; Unit 7, printed pp.100–115 |
 | Initial blends on two phonics pages — **bl, fl, pl, sl** (black, plane, sleep, flag, flower, plant), then **cl, cr, pl, st, sl, gr, sw** | Iraq — English for Iraq, Grade 4 Activity Book, Unit 1, printed pp.4–19 |
 | Initial clusters **br- / cl-** blended and segmented in a Word Parts lesson | Ethiopia — English for Ethiopia, Grade 4 Student's Book, Unit 1 "Word Parts", printed p.8 |
+| Initial blends and clusters named and drilled — **pl/bl/cl/fl/sl** in word-order sentence building | South Africa — English First Additional Language, Grade 2 Workbook 2 (Rainbow Workbooks), printed pp.56–57 |
+| "More about sounds" — blends and clusters (clap, flap, plum, blow; brag, crop, drip, grip, trip) | South Africa — English First Additional Language, Grade 2 Workbook 2 (Rainbow Workbooks), printed p.58 |
+| **bl-** blends (the bl- anchor is printed p.41), and **str/st** spelling families | South Africa — English Home Language, Grade 2 Workbook 1 (Rainbow Workbooks), printed pp.40–41 |
+| **st-** clusters and final clusters **-nd/-nt/-mp**, **-tch/-nch** | South Africa — English Home Language, Grade 1 Workbook 2 (Rainbow Workbooks) |
 
-**Acceptance count: taught in 7 countries (Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia).**
+**Acceptance count: taught in 8 countries (Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa).**
 China joins with blends taught two at a time on Let's spell
 pages in Grade 5 (cl/pl, gr/br) and sorted again in the
 end-of-primary grouping review (Grade 6 Volume 2). Iran joins
@@ -220,3 +224,25 @@ vocabulary strand (printed p.8) blends and segments the
 initial clusters br- and cl-. The country file records
 the limit: no phonics programme beyond this Unit 1
 word-parts lesson is filed for the Grade 4 book.
+
+**South Africa added 2026-11-03** — three books stock this
+lesson: **Book:** *English First Additional Language,
+Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa,
+Department of Basic Education, Sixteenth edition 2026.
+**Book:** *English Home Language, Grade 2 Workbook 1
+(Rainbow Workbooks)* — South Africa, Department of Basic
+Education, Sixteenth edition 2026. **Book:** *English Home
+Language, Grade 1 Workbook 2 (Rainbow Workbooks)* — South
+Africa, Department of Basic Education, Sixteenth edition
+2026. All filed in english/books/south-africa.md (FULLY
+READ + CITATION CHECK PASSED 2026-11-03). South Africa
+names and drills the blends themselves: the FAL Grade 2
+Workbook 2 works the initial blends pl/bl/cl/fl/sl in
+word-order sentence building (printed pp.56–57) and gives
+a page to "More about sounds" — blends and clusters: clap,
+flap, plum, blow; brag, crop, drip, grip, trip (printed
+p.58). The HL strand works them as spelling families: HL
+Grade 2 Workbook 1 works "bl- blends" (printed pp.40–41;
+the bl- anchor is printed p.41) and str/st spelling
+families, and HL Grade 1 Workbook 2 carries st- clusters
+and the final clusters -nd/-nt/-mp and -tch/-nch.

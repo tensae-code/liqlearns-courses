@@ -1,6 +1,6 @@
 # Sources — Telling a story back
 
-countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
+countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa
 
 Every part traces to its book and page.
 
@@ -99,6 +99,10 @@ Ministry of Education. Filed in english/books/iraq.md
 (teacher's guide) section, FULLY READ + CITATION CHECK
 PASSED 2026-11-03).
 
+**Book 19:** *English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 20:** *English First Additional Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 21:** *English Home Language, Grade 6 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Retelling with a word box" as a set lesson form; the form repeated across the classes as "word-box cloze retelling" — the load-bearing words given, the sentences the learner's own | Bangladesh, English for Today (as filed) |
@@ -123,9 +127,15 @@ PASSED 2026-11-03).
 | The retelling multiplied: the giant-squid extract from 20,000 Leagues Under the Sea retold from four points of view — Ned Land, the grabbed sailor, Captain Nemo, a squid | Kazakhstan, Full Blast Grade 9 Student's Book, Module 5, printed pp.119–142 |
 | Retelling in the learner's own words named as the year's set aim: the Grade 5 Teacher's Book carries the story-retelling aim "Retell a story in your own words" in its Unit 3 teaching notes, an aim that recurs across the book — Grade 5 is where the course first asks pupils to retell stories in their own words | Iraq — English for Iraq, Grade 5 Teacher's Book, Unit 3 Teaching Notes, printed pp.90–109 |
 | A told story retold in the revision unit: retelling Sami's Rocket, its telling text printed in the notes, beside listen-and-tick descriptions | Iraq — English for Iraq, Grade 1 Teacher's Book, Unit 8, Lesson 2, printed pp.186–195 |
+| Retelling taught by name from a picture story: "Jabu scrambles eggs" retold and written by the learner | South Africa, English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks), printed p.12 |
+| A folk tale retold in sequence — the telling-back carried by its order | South Africa, English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks), printed pp.44–49 |
+| A known tale retold in a new dress: the hare-and-tortoise race retold as a sports report | South Africa, English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks), printed p.108 |
+| A mini-book tale retold in the learner's own sentences: the Ugly Duckling retold in five sentences from its mini-book | South Africa, English First Additional Language, Grade 2 Workbook 2 (Rainbow Workbooks), printed pp.14–16 |
+| A story retold in its parts under its signposts: "The storm" retold in four parts with First / Next / Then / Lastly | South Africa, English First Additional Language, Grade 2 Workbook 2 (Rainbow Workbooks), printed pp.54–55 |
+| A story retold from a picture mind map: "Rabbit warns of an earthquake" retold from the map | South Africa, English Home Language, Grade 6 Workbook 2 (Rainbow Workbooks), printed pp.36–41 |
 
-**Acceptance count: taught in 10 countries (Bangladesh,
-Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).** Bangladesh equips the retelling (word box,
+**Acceptance count: taught in 11 countries (Bangladesh,
+Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa).** Bangladesh equips the retelling (word box,
 first-person, comparison); Ghana frames it (chain, Herring
 Bone, sequence order); China equips it again (the fill-in
 retell, the phone retell, the sorted diary recount);
@@ -156,6 +166,8 @@ Rocket in the revision unit, and its Grade 5 Teacher's
 Book names the own-words retelling as a set aim,
 "Retell a story in your own words", the point where the
 course first asks pupils to retell stories in their own
-words.
+words; South Africa teaches retelling by name — its Grade 4 Home Language book retells and writes the picture story "Jabu scrambles eggs" (printed p.12), retells its folk tale in sequence (printed pp.44–49) and retells the hare-and-tortoise race as a sports report (printed p.108), its Grade 2 First Additional Language Workbook 2 retells the Ugly Duckling in five sentences from its mini-book (printed pp.14–16) and retells "The storm" in four parts with First/Next/Then/Lastly (printed pp.54–55), and its Grade 6 Home Language Workbook 2 retells "Rabbit warns of an earthquake" from a picture mind map (printed pp.36–41).
 Other closed countries join as
 their books are read (see READING-QUEUE.md).
+
+**South Africa added 2026-11-03** — three books stock this lesson: *English Home Language, Grade 4 Workbook 1*, *English First Additional Language, Grade 2 Workbook 2* and *English Home Language, Grade 6 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. South Africa teaches retelling by name, which Ethiopia did not: the Grade 4 Home Language book's picture story "Jabu scrambles eggs" is retold and written by the learner (printed p.12), its folk tale is retold in sequence (printed pp.44–49) and the hare-and-tortoise race is retold as a sports report (printed p.108); the Grade 2 First Additional Language Workbook 2 retells the Ugly Duckling in five sentences from its mini-book (printed pp.14–16) and retells "The storm" in four parts with First/Next/Then/Lastly (printed pp.54–55); and the Grade 6 Home Language Workbook 2 retells "Rabbit warns of an earthquake" from a picture mind map (printed pp.36–41).

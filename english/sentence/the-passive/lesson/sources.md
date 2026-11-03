@@ -1,6 +1,6 @@
 # Sources — The passive
 
-countries: Egypt, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia
+countries: Egypt, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
 
 Every part traces to its book and page.
 
@@ -103,6 +103,12 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 **Book 34:** English for Ethiopia, Grade 11 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 11 — ENGLISH / STUDENT TEXTBOOK / GRADE 11 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 35:** English for Ethiopia, Grade 12 Student's Book — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Filed in english/books/ethiopia.md (Grade 12 — ENGLISH STUDENT TEXTBOOK GRADE 12 (student's book), FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 36:** *English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 37:** *English Home Language, Grade 6 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 38:** *English First Additional Language, Grade 5 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The PASSIVE discovery — the active/passive pair ("Edison invented the light bulb in 1879." → "The light bulb was invented by Edison in 1879.") and the rule as printed: "The passive is formed with be + past participle," + transformations | Mongolia, English X, Unit 6 "Inventions," p.86 |
@@ -159,8 +165,13 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | "Passive Voice Practice with all Tenses" (8E.3) — a complete active→passive paradigm table through every tense | Ethiopia, English for Ethiopia Grade 11 Student's Book, Unit 8, 8E.3, printed p.212 |
 | Active and passive voice revised across the tenses | Ethiopia, English for Ethiopia Grade 12 Student's Book, Unit 8, printed pp.180–214 |
 
-**Acceptance count: taught in 13 countries (Egypt,
-Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia).** Mongolia discovers the shape from the
+| Active voice named alongside the passive | South Africa — English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks), printed p.90 |
+| The set's one full passive lesson: the passive voice defined — "The action is done to the subject" — with active→passive conversions | South Africa — English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks), printed p.95 |
+| The passive definition revised, with conversions started for the learner | South Africa — English Home Language, Grade 6 Workbook 2 (Rainbow Workbooks), printed p.58 |
+| The passive form worked as short conversion exercises (Theme 6) | South Africa — English First Additional Language, Grade 5 Workbook 2 (Rainbow Workbooks), Theme 6, as filed in english/books/south-africa.md |
+
+**Acceptance count: taught in 14 countries (Egypt,
+Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).** Mongolia discovers the shape from the
 Edison pair, drills by + agent in its inventions unit,
 and spreads the present/past/future coats in its clothing
 unit and reference. Libya prints the full five-tense
@@ -186,7 +197,7 @@ passive of making at Grade 6, present and past simple
 passives together at Grade 7, the passive lesson at
 Grade 10, infinitive/gerund and impersonal forms at
 Grade 11, and the whole tense system with its reasons
-at Grade 12. Greece opens the passive with the present simple form at Grade 6, gives the past form and the by-agent their systematic treatment at Grade 8 Advanced (Grade 9's single formation is consolidation at that level, not an advance), notices the passive's choice against the active at Grade 10, and tables the full tense-by-tense system in Αγγλικά 2. Kazakhstan brings the passive in at Grade 7 (Excel's present and past simple passive, by against with), works it in English Plus Grade 8's simple forms alone — its passive stops there, with no causative and no impersonal passive — and completes it at Grade 9, where Laser adds the two sentence patterns including say/believe and Full Blast! tables the whole system: continuous, perfect, modal and impersonal forms; no primary book in the set teaches it at all. Iraq opens the passive at Grade 8 in a process text with its Active and passive box and the can passive, works present and past passives on factual texts at Grade 9, carries the passive in several tenses through the Grade 10 petroleum text, spreads it across tenses with the causative at Grade 11, and closes with all eight forms in Grade 12's Reference and the passive flow chart of its recycling process description. Ethiopia stocks the passive richly: present simple and present continuous passives and the simple past passive in Grade 5, active and passive voice in Grade 6, present and modal passives for process description in Grade 10, present passives for processes and a complete all-tenses passive paradigm table in Grade 11, and the voice revised across the tenses in Grade 12. Other closed countries join as their
+at Grade 12. Greece opens the passive with the present simple form at Grade 6, gives the past form and the by-agent their systematic treatment at Grade 8 Advanced (Grade 9's single formation is consolidation at that level, not an advance), notices the passive's choice against the active at Grade 10, and tables the full tense-by-tense system in Αγγλικά 2. Kazakhstan brings the passive in at Grade 7 (Excel's present and past simple passive, by against with), works it in English Plus Grade 8's simple forms alone — its passive stops there, with no causative and no impersonal passive — and completes it at Grade 9, where Laser adds the two sentence patterns including say/believe and Full Blast! tables the whole system: continuous, perfect, modal and impersonal forms; no primary book in the set teaches it at all. Iraq opens the passive at Grade 8 in a process text with its Active and passive box and the can passive, works present and past passives on factual texts at Grade 9, carries the passive in several tenses through the Grade 10 petroleum text, spreads it across tenses with the causative at Grade 11, and closes with all eight forms in Grade 12's Reference and the passive flow chart of its recycling process description. Ethiopia stocks the passive richly: present simple and present continuous passives and the simple past passive in Grade 5, active and passive voice in Grade 6, present and modal passives for process description in Grade 10, present passives for processes and a complete all-tenses passive paradigm table in Grade 11, and the voice revised across the tenses in Grade 12. South Africa stocks this lesson in full: Grade 5 HL carries the set's one full passive lesson — the passive voice defined, "The action is done to the subject," with active→passive conversions, the active voice named alongside it — Grade 6 HL revises the definition with conversions started for the learner, and Grade 5 FAL works the passive form as short conversion exercises. Other closed countries join as their
 books are read (see READING-QUEUE.md).
 
 **Laos Grade 9 added 2026-10-27** — *English for Secondary
@@ -205,3 +216,5 @@ an **all-tenses passive note** (p.63), the **causative
 passive** (p.69), the **modal passive** (p.73), and the
 **future and perfect passives** (p.108) — Laos's passive runs
 from its naming in Book Four to the full system here.
+
+**South Africa added 2026-11-03** — *DBE Rainbow Workbooks* (Department of Basic Education, South Africa, Sixteenth edition 2026; full read in english/books/south-africa.md). South Africa's passive is carried by one full lesson: **the passive voice defined — "The action is done to the subject" — with active→passive conversions in Grade 5 HL Workbook 1** (printed p.95; active voice named alongside, printed p.90), the **definition revised with conversions started for the learner in Grade 6 HL Workbook 2** (printed p.58), and the **passive form worked as short conversion exercises in Grade 5 FAL Workbook 2** (Theme 6).
