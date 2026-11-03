@@ -1,6 +1,6 @@
 # Sources — Going to: later
 
-countries: Bolivia, Ghana, Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece
+countries: Bolivia, Ghana, Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
 
 Every part traces to its book and page.
 
@@ -78,6 +78,9 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 15:** Greece Αγγλικά (Anglika), Grade 6, Student's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 6 — Αγγλικά (Anglika), Student's Book, New Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 16:** Greece Think Teen!, Grade 7 Advanced, Student's Book (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 17:** Greece Γενικά Αγγλικά (Genika Agglika), Grade 10 EPAL, Student's Book (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 10 (EPAL) — General English, Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 18:** Kazakhstan English Plus, Grade 5: Student's Book (student book) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 5 — English Plus Grade 5 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 19:** Kazakhstan English Plus, Grade 6: Student's Book (student book) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 6 — English Plus Grade 6 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 20:** Kazakhstan Full Blast! for Kazakhstan, Grade 6: Student's Book (student book) — Kazakhstan, MM Publications. Filed in english/books/kazakhstan.md (Grade 6 — Full Blast! for Kazakhstan, Grade 6 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -102,9 +105,12 @@ CITATION CHECK PASSED 2026-11-03).
 | Will for offers, promises, warnings, requests, on-the-spot decisions and predictions, contrasted with be going to for intentions and pre-arranged plans | Greece, Αγγλικά Grade 6, Unit 6, pp.61–72 (points, printed pp.67–68) |
 | The three futures in one Gymnasio unit: the Present Continuous for fixed future arrangements, be going to for plans and intentions practised in a diary entry, and the Future Simple (will/won't) for prediction | Greece, Think Teen! Grade 7 Advanced, Unit 7, Lessons 1–3, pp.101–116 (lessons open printed pp.102, 106 and 111) |
 | Going to for intentions and plans that may come true, as the vocational book's first future | Greece, Γενικά Αγγλικά Grade 10 EPAL, Unit 1, Section D, p.11 |
+| *Be going to* as the creativity unit's whole future — affirmative and negative first, then its questions, over making plans | Kazakhstan, English Plus Grade 5, Unit 8, printed pp.96–103 |
+| *Be going to* in full in the travel unit — affirmative, negative and questions — with *will and won't* for predictions as the unit's second future | Kazakhstan, English Plus Grade 6, Unit 6, printed pp.68–79 (*will and won't*, printed p.73) |
+| Future *be going to* in the holidays module, with a note on the Present Continuous for fixed arrangements, and Future *will* — predictions, on-the-spot decisions, promises, offers, requests — in the next section | Kazakhstan, Full Blast! Grade 6, Module 6, sections 6a–6b, printed pp.131–147 |
 
-**Acceptance count: taught in 9 countries (Bolivia, Ghana,
-Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece).** Bolivia tables going to whole and names its
+**Acceptance count: taught in 10 countries (Bolivia, Ghana,
+Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan).** Bolivia tables going to whole and names its
 jobs; Mongolia boxes the will neighbour; Ghana keeps the
 scheduled present as the third future; China adds be going
 to as a full system with its time words, will worked for
@@ -118,7 +124,7 @@ Jordan plans with will/won't in Grade 5, meets going
 to beside will in a Grade 6 travel booster, and in
 Grade 7 predicts with will and runs the present
 continuous and the timetabled present as futures.
-Greece teaches the future as one three-form system at Grade 5 — going to, arrangements continuous and will — contrasts will with going to by job at Grade 6, and runs all three futures through one Grade 7 unit. Indonesia was checked and adds nothing here: no future
+Greece teaches the future as one three-form system at Grade 5 — going to, arrangements continuous and will — contrasts will with going to by job at Grade 6, and runs all three futures through one Grade 7 unit. Kazakhstan teaches *be going to* in full at Grade 5 — affirmative, negative and questions — and again at Grade 6 beside *will/won't* for predictions, with Full Blast! adding the arrangements-continuous note. No primary Kazakhstan book teaches any future form — the form arrives at Grade 5, in the secondary-style series. Indonesia was checked and adds nothing here: no future
 form is taught in any of its read books — will/going to
 occur only incidentally inside other texts (see
 english/books/indonesia.md, honest negatives). Other finished

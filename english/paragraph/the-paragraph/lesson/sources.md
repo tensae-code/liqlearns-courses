@@ -1,6 +1,6 @@
 # Sources — The paragraph
 
-countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone, Jordan, Greece
+countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
 
 Every part traces to its book and page.
 
@@ -87,6 +87,24 @@ english/books/greece.md (Grades 11–12 — Αγγλικά 2,
 Student's Book section, FULLY READ + CITATION CHECK
 PASSED 2026-11-03).
 
+**Book 17:** Kazakhstan Full Blast!, Grade 6: student's
+book (student book) — Kazakhstan, MM Publications. Filed in
+english/books/kazakhstan.md (Grade 6 — Full Blast! for
+Kazakhstan, Grade 6 Student's Book section, FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
+**Book 18:** Kazakhstan English Plus, Grade 8: workbook
+(workbook) — Kazakhstan, Oxford University Press. Filed in
+english/books/kazakhstan.md (Grade 8 — English Plus Grade 8
+Workbook (Kazakhstan Edition) section, FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
+**Book 19:** Kazakhstan Full Blast!, Grade 9: student's
+book (student book) — Kazakhstan, MM Publications. Filed in
+english/books/kazakhstan.md (Grade 9 — Full Blast! for
+Kazakhstan Grade 9 Student's Book section, FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Guided Composition: "two coherent paragraphs by leading questions ('My Home')" — the paragraph written as answers to leading questions | Ghana, NaCCA B1–B3 curriculum, Basic 3, writing strands (as filed) |
@@ -108,10 +126,14 @@ PASSED 2026-11-03).
 | The paragraph as the report's building block, model first: a model report about Britain read, then a five-paragraph report about Greece written as the guided project | Greece, Grade 6 Student's Book, Unit 1, Lesson 3, printed p.10 |
 | The paragraph counted inside the essay plan: a five-paragraph plan whose middle is built of viewpoint paragraphs — two viewpoint paragraphs and an opposing-viewpoint paragraph between introduction and conclusion | Greece, Grade 10 Student's Book, Unit 5, Writing, printed pp.61–63 |
 | The five-paragraph plan again at the top of the school, for the problem–solutions essay: the essay's body carried paragraph by paragraph under its suggestions/solutions plan | Greece, Grades 11–12 Student's Book, Unit 5, printed pp.78–79 |
+| The paragraph as a set writing task in its own right: write a paragraph about your school, and a blog paragraph about yourself, inside the school-life module | Kazakhstan, Full Blast Grade 6 Student's Book, Module 1, printed pp.16–33 |
+| The paragraph task repeated on new ground: write a paragraph about your eating habits, and a paragraph about a pet | Kazakhstan, Full Blast Grade 6 Student's Book, Module 5, printed pp.109–125 |
+| Paragraphs and topic sentences named together as the writing craft of the review lesson: writing a book/film review, its paragraphs carried by their topic sentences | Kazakhstan, English Plus Grade 8 Workbook, Unit 5, printed pp.40–47 |
+| Topic sentences taught by name inside the opinion-essay lesson, beside the essay's full PLAN — the sentence that carries each paragraph, at the top of the school | Kazakhstan, Full Blast Grade 9 Student's Book, Module 9, printed pp.223–246 |
 
-**Acceptance count: taught in 11 countries (Bangladesh,
+**Acceptance count: taught in 12 countries (Bangladesh,
 Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece).** Ghana names the process and prints the
+Sierra Leone, Jordan, Greece, Kazakhstan).** Ghana names the process and prints the
 unity test as a revise question; Bangladesh guides the
 first paragraphs and models them; Egypt examines by the
 paragraph; China adds a model-first writing ladder across
@@ -132,7 +154,13 @@ model-first at Grade 6 and counts viewpoint paragraphs
 inside its Grade 10 and Grades 11–12 essay plans, but its
 read books never name the topic sentence, so Greece
 carries the paragraph as a counted building block, not
-as a named craft. Other closed countries join as their books are
+as a named craft; Kazakhstan sets the paragraph as a
+writing task in its own right from Grade 6 — a paragraph
+about your school, a blog paragraph, paragraphs about
+your eating habits and a pet — names paragraphs and
+topic sentences together in its Grade 8 workbook's
+review writing, and teaches topic sentences by name
+again inside the Grade 9 opinion essay. Other closed countries join as their books are
 read (see READING-QUEUE.md).
 
 **Laos Grade 6 added 2026-10-27** — *English for Secondary

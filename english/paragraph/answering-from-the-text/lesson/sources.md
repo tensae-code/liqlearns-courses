@@ -1,6 +1,6 @@
 # Sources — Answering from the text
 
-countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece
+countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
 
 Every part traces to its book and page.
 
@@ -89,6 +89,18 @@ english/books/greece.md (Grades 11–12 — Αγγλικά 2,
 Student's Book section, FULLY READ + CITATION CHECK
 PASSED 2026-11-03).
 
+**Book 18:** Kazakhstan Excel for Kazakhstan, Grade 9:
+student's book (student book) — Kazakhstan, Express
+Publishing. Filed in english/books/kazakhstan.md (Grade 9 —
+Excel for Kazakhstan (Grade 9) Student's Book section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 19:** Kazakhstan English, Grade 10: Sciences
+student's book (student book) — Kazakhstan, «Study Inn».
+Filed in english/books/kazakhstan.md (Grade 10 — English
+Grade 10: Sciences (Low-mid B2) Student's Book section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "'Think as you read' questions sit inside the text at each break to check factual comprehension as the learner goes" — answering from the carrier while reading | India, Flamingo, About the Book apparatus (as filed; Hornbill's apparatus is twin) |
@@ -115,9 +127,11 @@ PASSED 2026-11-03).
 | A third answer shape beyond true and false, at Lykeio scale: the animal-testing article answered by gist questions, true/false/not-mentioned and multiple choice on purpose, audience and reference — the not-mentioned answer must honestly not be in the text | Greece, Grade 10 Student's Book, Unit 5, printed pp.52–54 |
 | The paragraph-location question as its own shape: purpose questions, paragraph-title matching, questions that send the reader to the paragraph where an answer lives, and ten multiple-choice items on audience, theme, reference and the writer's conclusion | Greece, Grade 10 Student's Book, Unit 8, printed pp.96–97 |
 | Multiple-choice comprehension on a nine-paragraph newspaper article, worked paragraph by paragraph after its headings are assigned | Greece, Grades 11–12 Student's Book, Unit 5, printed p.70 |
+| The unseen text faced in examination format as a back-matter strand of its own: ten Reading Practice tasks — signs and notices, matching, festival and beauty texts, cloze accounts — each answered from its text alone | Kazakhstan, Excel Grade 9 Student's Book, Reading Practice, printed pp.129–138 |
+| A third answer shape beyond true and false, at the top of the school: the science book's statements judged True, False or Not Given — the answer must be in the text, or honestly not given there | Kazakhstan, English Grade 10 Sciences Student's Book, Unit 8, printed pp.88–93 |
 
-**Acceptance count: taught in 9 countries (Egypt, Ghana,
-India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece).** India builds the carrier hunt into the page and
+**Acceptance count: taught in 10 countries (Egypt, Ghana,
+India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan).** India builds the carrier hunt into the page and
 prints the question-kind border; Ghana demands textual
 evidence under personal responses; Egypt examines by the
 unseen passage; China grades the answering shapes themselves
@@ -139,6 +153,11 @@ texts in graded shapes — true/false, short answers and
 multiple choice on one feature, true/false/not-mentioned
 with purpose, audience and reference questions on
 another, and paragraph-location questions that send the
-reader to the paragraph where the answer lives.
+reader to the paragraph where the answer lives;
+Kazakhstan examines by the unseen text in its Grade 9
+Reading Practice — ten exam-format tasks answered from
+their texts alone — and prints the third answer shape
+at Grade 10, where its science book's statements are
+judged True, False or Not Given.
 Other closed countries join as their
 books are read (see READING-QUEUE.md).

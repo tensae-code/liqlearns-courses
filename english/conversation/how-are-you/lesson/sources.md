@@ -1,6 +1,6 @@
 # Sources for this lesson — How are you?
 
-countries: Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece
+countries: Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -22,8 +22,9 @@ Libya (Garnet) · Books verified on disk 2026-10-25.
 | "How are you? — I'm fine, thank you" — the exchange in its short classroom form, taught inside the clothes unit | Jordan — Team Together Grade 1 Pupil's Book, Semester 2, Unit 6, printed pp.14–21 |
 | "Hello! How are you?" — the question as a lesson's own name, over four feeling-face flashcards (happy, sad, unwell/tired, hungry); the question itself is practised in the lesson's audio (this book is a printed workpack, so its rows cite PDF pages) | Greece, Grade 2 Beta English Workpack, Cycle A, A04 "Hello! How are you? / If you're happy," PDF p.18 |
 | The question grown a year-band later in the same pack: "How are you today? Why? Because…" — six dialogue cards pair a feeling with its reason (happy because he has a new book; sad because his dog is sick; angry because "we" lost the game), the feelings set widened to thirsty, angry and sleepy | Greece, Grade 2 Beta English Workpack, Cycle Δ, Δ02 "My new book," PDF pp.125–130 ("I'm angry" card, PDF p.129) |
+| "How are you? — Fine, thanks" — the exchange listed in the first module's own exchange set, between the name question and the age question (Kazakhstan's filed books print this one answer only: no "very well" or "not very well" answer, and no return question, is recorded in english/books/kazakhstan.md) | Kazakhstan, Top Stars Grade 3 Student's Book, Module 1 "Hello English!," printed pp.6–17 |
 
-**Acceptance count: taught in 7 countries (Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
+**Acceptance count: taught in 8 countries (Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 China joins with the exchange itself in its first primary book
 (Grade 3 Volume 1) and deepens it three years later into feelings
 talk — "How do you feel?", "What's wrong?" (Grade 6 Volume 1).
@@ -35,7 +36,11 @@ the same short form Libya's Grade 3 book uses. Greece joined
 first as a lesson's name over the feeling faces, then with
 "today" and a because-reason for every feeling; Greece's
 answers are the feelings themselves, and no "I'm fine,
-thank you" answer is printed in its filed read. Nicaragua's filed
+thank you" answer is printed in its filed read. Kazakhstan
+joined 2026-11-03 with the exchange in the short form —
+"How are you? — Fine, thanks" — in its Top Stars Grade 3
+first module, between the name question and the age
+question. Nicaragua's filed
 greeting material teaches hello, names and goodbye — not this
 question — so it is not counted here; Indonesia's filed books
 likewise teach no "How are you?" exchange (their feelings set in
@@ -129,3 +134,22 @@ set to thirsty, angry and sleepy. Greece's shape is the
 question answered by a feeling and its reason; the
 filed Greece read prints no "I'm fine, thank you"
 answer, and none is claimed here.
+
+**Kazakhstan added 2026-11-03** — one book stocks this
+lesson: **Book:** *Top Stars for Kazakhstan — Student's
+Book 3* (student book) — Kazakhstan, MM Publications,
+© 2024, ISBN 978-618-05-7217-9. Filed in
+english/books/kazakhstan.md (Grade 3 — Top Stars
+section, FULLY READ + CITATION CHECK PASSED
+2026-11-03). Kazakhstan runs several primary series
+side by side, and only one of them prints this exchange:
+Top Stars Grade 3's first module, "Hello English!"
+(printed pp.6–17), lists "How are you? — Fine, thanks"
+in its exchange set, between "What's your name?" and
+"How old are you?" — the question in its shortest form,
+with the one answer "Fine, thanks." No other answer and
+no return question is recorded for Kazakhstan, and the
+greetings dialogues of its other series (the Excel
+Grade 5 Starter, the English Plus Grade 6 "Meeting
+people" speaking slot) are filed in the country book
+without this wording, so none is claimed from them.

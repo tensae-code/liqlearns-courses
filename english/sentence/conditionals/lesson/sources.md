@@ -1,6 +1,6 @@
 # Sources — Conditionals
 
-countries: Egypt, Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece
+countries: Egypt, Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
 
 Every part traces to its book and page.
 
@@ -77,6 +77,10 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 **Book 16:** Greece Think Teen!, Grade 8 Beginners, Student's Book (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 17:** Greece Think Teen!, Grade 9, Student's Book (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 18:** Greece Αγγλικά 1 (Anglika 1), Grade 10, Student's Book (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 10 — Αγγλικά 1 Γενικού Λυκείου, Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 19:** Kazakhstan Excel Grade 7: Student's Book, 2nd Edition (2025) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 7 — Excel for Kazakhstan, Grade 7 Student's Book, 2nd Edition (2025) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 20:** Kazakhstan English Plus Grade 9: Student's Book (Kazakhstan edition) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 9 — English Plus Grade 9 Student's Book (Kazakhstan edition) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 21:** Kazakhstan Full Blast! Grade 9: Student's Book — Kazakhstan, MM Publications. Filed in english/books/kazakhstan.md (Grade 9 — Full Blast! for Kazakhstan Grade 9 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 22:** Kazakhstan Excel Grade 9: Student's Book — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 9 — Excel for Kazakhstan, Grade 9 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -114,9 +118,15 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | The zero conditional for facts (what happens if paper is recycled, if glass is not broken up) and the first conditional for future results, with unless as “if not” — the Beginners stream's staging of the same pair | Greece, Think Teen! Grade 8 Beginners, Unit 6, Lesson 1, p.62 (matching, printed p.63) |
 | Types 1 and 2 presented inside a single lesson — the 1st Conditional's rule built by the learners (Present Simple in the if-clause, will in the main clause), 2nd Conditional sentences then analysed — and extended through the unit; this book's ceiling is Types 1–2 only: no Type 0 as a named form, no Type 3, no mixed | Greece, Think Teen! Grade 9, Unit 5, Lessons 1–3, pp.49–60 (presentation, printed pp.50–52) |
 | The full conditional system at Lykeio: a type table (0–3) to complete and tense drills mixing types; mixed conditionals (a type-2 condition with a type-3 result and vice versa); alternatives to if (as long as, provided/providing that, on condition that, what if, unless, in the event of / in case of); and formal inverted conditionals (Should you…, Were I you…, Had I known…) rewritten with if | Greece, Αγγλικά 1 Grade 10, Unit 8, pp.100–105 |
+| Three conditionals on one spread at Grade 7: the zero, first and second conditionals all carried by the module's single 8b grammar spread | Kazakhstan, Excel Grade 7, Module 8, printed pp.87–98 |
+| The first and second conditionals taught together — opinions put into result clauses — as the facts unit's grammar | Kazakhstan, English Plus Grade 9, Unit 3, printed pp.32–43 |
+| The third conditional arriving last in English Plus: *if + had +* participle with *would have +* participle, giving opinions about past situations | Kazakhstan, English Plus Grade 9, Unit 9, printed pp.104–115 |
+| Types 0, 1 and 2 worked as the cities module's grammar, with the Type 3 deliberately held back for a later module | Kazakhstan, Full Blast! Grade 9, Module 7, printed pp.169–192 |
+| The Type 3 conditional completing Full Blast!: hypothetical past situations with *if only* for past regrets beside them | Kazakhstan, Full Blast! Grade 9, Module 9, printed pp.223–246 |
+| Conditionals Types 1–3 tabled with wishes in one unit: the conditions system and the wish system carried together | Kazakhstan, Excel Grade 9, Module 4, printed pp.41–52 |
 
-**Acceptance count: taught in 9 countries (Egypt,
-Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece).** Libya names the zero and first at
+**Acceptance count: taught in 10 countries (Egypt,
+Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan).** Libya names the zero and first at
 Grade 9 and completes the set in its reference;
 Mongolia tables zero and first, teaches the first with
 unless, and reaches the second at Grade 10; Egypt
@@ -134,7 +144,7 @@ JSS3; Jordan meets the first conditional at Grade 6,
 teaches zero, first and second together and the third
 (with wish/if only regrets) at Grade 10, adds mixed
 conditionals at Grade 11, and recaps the whole 0–3
-system in Grade 12's Grammar Reference. Greece's split stands plainly: primary teaches Types 1 and 2 only; the Grade 8 streams add Type 0 and unless; Grade 9's ceiling is Types 1–2 (no Type 0 as a named form, no Type 3, no mixed); and the system is completed only at Grade 10, where Αγγλικά 1 tables Types 0–3, adds mixed conditionals, the if-alternatives and inverted conditionals. Other closed countries join as their books
+system in Grade 12's Grammar Reference. Greece's split stands plainly: primary teaches Types 1 and 2 only; the Grade 8 streams add Type 0 and unless; Grade 9's ceiling is Types 1–2 (no Type 0 as a named form, no Type 3, no mixed); and the system is completed only at Grade 10, where Αγγλικά 1 tables Types 0–3, adds mixed conditionals, the if-alternatives and inverted conditionals. Kazakhstan's system is filed as Types 0–3 across the set, and the split by series stands plainly: Excel Grade 7 tables zero, first and second on one spread and Excel Grade 9 tables Types 1–3 with wishes; English Plus holds the third conditional back to its Grade 9 Unit 9, long after first and second; Full Blast! works Types 0/1/2 in Module 7 and the Type 3 a term later in Module 9 — and no Kazakhstan book teaches mixed or inverted conditionals, so the set's ceiling is the four plain types. Other closed countries join as their books
 are read (see READING-QUEUE.md).
 
 **Laos Grade 9 added 2026-10-27** — *English for Secondary

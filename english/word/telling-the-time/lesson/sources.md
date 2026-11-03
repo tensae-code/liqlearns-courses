@@ -1,6 +1,6 @@
 # Sources — Telling the time
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan
 
 Every part traces to its book and page.
 
@@ -58,6 +58,12 @@ english/books/jordan.md (Grade 3 Pupil's Book Semester 1 section, FULLY READ + C
 
 **Book 12:** Greece Think Teen!, Grade 7 Beginners: Student's Book (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 13:** Kazakhstan Smiles for Kazakhstan, Grade 3: pupil's book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 3 — Smiles for Kazakhstan (Grade 3) Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 14:** Kazakhstan Top Stars for Kazakhstan, Grade 3: student's book (student book) — Kazakhstan, MM Publications. Filed in english/books/kazakhstan.md (Grade 3 — Top Stars for Kazakhstan Grade 3 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 15:** Kazakhstan Excel for Kazakhstan, Grade 5: student's book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 5 — Excel for Kazakhstan Grade 5, Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The clock's two hands named — the short, red hand is the hour hand; the long, blue hand is the minute hand; say and complete o'clock times | Bangladesh, English for Today Class 4, Unit 13 "Telling the Time," pp.26–27 |
@@ -78,9 +84,12 @@ english/books/jordan.md (Grade 3 Pupil's Book Semester 1 section, FULLY READ + C
 | O'clock times only, carried by one child's whole day: nine story cards follow Mary through her day, each with an o'clock clock face — waking at 7, school at 8, lessons at 10, home at 2, eating at 3, reading at 4, playing at 6, shower at 8, bed at 9 — with the day's parts matched beside them ("in the morning / in the afternoon / in the evening / at night"); the letter-O chant counts "1.00 o'clock, 2.00 o'clock" to 6.00 (this book is a printed workpack, so its rows cite PDF pages; Greece's Grade 2 time stops at o'clock — no half/quarter hours, no minutes, in the country file's own verdict) | Greece, Grade 2 Beta English Workpack, Cycle Γ, Γ02 "Mary's day and the clock," PDF pp.81–85; Alphabet strand, O o'clock, PDF pp.86–87 (chant, PDF p.87) |
 | The full clock system two years up, stated in a reminder box: "It's nine o'clock–9.00, It's half past nine–9.30, It's (a) quarter past nine–9.15, It's (a) quarter to nine–8.45" — taught inside the time unit against a Greek TV listings page, and tabulated again in the Grammar Corner with the *in/on* time phrases | Greece, Αγγλικά (Anglika) Grade 4 Student's Book, Unit 4 "Time," Lesson 1 "Happy Birthday!," printed pp.45–49 (reminder box, printed p.49); Appendix II "My Grammar Corner" 4.1–4.2, printed pp.150–155 |
 | Clock times inside a written day: "I get up at 7 o'clock," a lunch break "from 12 to 2 o'clock" spent at home, "I go to bed at around 11 o'clock" — telling the time named among the lesson's supporting vocabulary | Greece, Think Teen! Grade 7 Beginners, Student's Book, Unit 3, Lesson 1 "My Day!," printed p.26 (Jean Paul's day, printed p.27) |
+| Telling the time as a whole module: Gulnara's day wheel pins the day's doings to the clock, ordinal numbers first–tenth ride on coloured alarm clocks, and the book's Glossary carries the time phrases themselves — "It's half past one," "It's quarter past one," "It's quarter to one" | Kazakhstan, Smiles for Kazakhstan Grade 3, Module 3 "Time," printed pp.34–47 |
+| Telling the time at o'clock as a named grammar point of the family module — "What's the time? It's …" (o'clock) — beside prepositions of time on and at; this book's telling stops at o'clock | Kazakhstan, Top Stars Grade 3, Module 3, printed pp.32–41 |
+| Telling the time as Everyday English inside the family module — the clock times practised as the language of making arrangements, a level up | Kazakhstan, Excel for Kazakhstan Grade 5, Module 3 "Values," printed pp.33–44 |
 
-**Acceptance count: taught in 9 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece).** Bangladesh carries
+**Acceptance count: taught in 10 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan).** Bangladesh carries
 the clock's hands, the
 o'clock shape, and the a.m./p.m. rule; Egypt carries times
 inside the day's routines with the book's own question;
@@ -96,7 +105,7 @@ times inside the morning routine, with no quarter/half
 words — the same plain telling Laos's primary book uses;
 Iran carries times in a practice table with clock faces
 under it, a.m./p.m. in the vocabulary, and the quarter and
-half times pictured in its Photo Dictionary. Jordan carries o'clock saying inside its routines unit, and the whole clock — hands, quarters, halves, past and to by fives — as a Maths lesson with a make-a-clock task; Greece carries the clock in two steps of its own — o'clock only in Grade 2, told over one child's whole day, then the full o'clock / half past / quarter past / quarter to system stated in a reminder box in Grade 4, with o'clock times inside a written school day in Grade 7 Beginners; Other closed
+half times pictured in its Photo Dictionary. Jordan carries o'clock saying inside its routines unit, and the whole clock — hands, quarters, halves, past and to by fives — as a Maths lesson with a make-a-clock task; Greece carries the clock in two steps of its own — o'clock only in Grade 2, told over one child's whole day, then the full o'clock / half past / quarter past / quarter to system stated in a reminder box in Grade 4, with o'clock times inside a written school day in Grade 7 Beginners; Kazakhstan carries telling the time as a whole Grade 3 Smiles module — a day wheel on the clock, with half past, quarter past and quarter to in its Glossary phrases — o'clock telling in Top Stars Grade 3, and time-telling as Everyday English in Grade 5 Excel; Other closed
 countries join as their
 books are read (see READING-QUEUE.md).
 

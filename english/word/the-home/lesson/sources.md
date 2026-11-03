@@ -1,6 +1,6 @@
 # Sources — The home
 
-countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan, Greece
+countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan, Greece, Kazakhstan
 
 Every part traces to its book and page.
 
@@ -81,6 +81,12 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 
 **Book 16:** Greece Αγγλικά (Anglika) Student's Book, Revised Edition, Grade 4: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 4 — Αγγλικά (Anglika), Student's Book, New Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 17:** Kazakhstan Smiles 1 Pupil's Book, Grade 1: student book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 1 — Smiles 1 Pupil's Book for Kazakhstan Grade 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 18:** Kazakhstan English Language for Kazakhstan, Grade 3: pupil's book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 3 — English Language for Kazakhstan Grade 3, Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 19:** Kazakhstan Excel for Kazakhstan, Grade 5: student's book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 5 — Excel for Kazakhstan Grade 5, Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The five rooms on pictures, each with its sentence: bedroom — "I sleep in the bedroom" · bathroom — "I brush my teeth in the bathroom" · living room — "I watch TV in the living room" · dining room — "I eat in the dining room" · kitchen — "My mother cooks in the kitchen" | Egypt, Primary 1 Term 2, Unit 4 "My House," Lesson 1 "Rooms in My House," pp.67–68 |
@@ -110,10 +116,13 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | The rooms of the house on a six-panel picture card — two bedrooms, kitchen, bathroom, dining room, living room — with an outline version of the same six rooms left blank for labels (picture citation only; the cards carry no printed words) | Greece, Beta English Grade 2 Workpack, Cycle B, B04 "Rooms of the house," PDF pp.38–39 |
 | Bedroom furniture: bed, desk, lamp, computer, carpet, poster ticked in a listening grid, then furniture pictures matched to dotted words — bed, carpet, desk, poster, chair, lamp | Greece, Beta English Grade 2 Workpack, Cycle B, B05 "My bedroom," PDF pp.42–43 |
 | Helping around the house: household chores — making the beds, setting the table, sweeping, washing up, washing the floor, ironing, watering the plants, cooking — carried by the present continuous in a kitchen dialogue | Greece, Αγγλικά Grade 4, Unit 7, Lesson 1 "Helping around the house," pp.81–85 |
+| The first room whole: furniture presented by colouring a room — bed, chair, TV, table, desk — "This is my bed," with toys in the same module (doll, kite, bike, car, plane, train) and things placed on and under the furniture | Kazakhstan, Smiles 1 Pupil's Book, Grade 1, Module 3 "My Room," printed pp.32–45 |
+| My home whole: rooms (bathroom, bedroom, garden, hall, kitchen, living room) and the furniture that fills them — armchair, bath, bed, bookcase, chair, clock, cooker, cupboard, lamp, mat, mirror, sofa, table, TV, wardrobe — worked with there is / there are and prepositions of place | Kazakhstan, English Language for Kazakhstan Grade 3, Module 7 "Buildings," printed pp.80–91 |
+| Rooms, furniture and appliances as a whole module — reading "Unusual Buildings," there is/are and a/an – some/any, prepositions of place, and Everyday English talking about your room, closing with writing an email about your new house | Kazakhstan, Excel for Kazakhstan Grade 5, Module 1 "Home & Away!," printed pp.9–20 |
 
-**Acceptance count: taught in 11 countries (Egypt, Libya,
+**Acceptance count: taught in 12 countries (Egypt, Libya,
 Palestine, Laos, China, North Macedonia, Mongolia, Indonesia,
-Iran, Jordan, Greece).** Egypt carries the five rooms with a sentence for
+Iran, Jordan, Greece, Kazakhstan).** Egypt carries the five rooms with a sentence for
 each and the drilled question; Libya carries the same rooms
 twice (Grade 1 set, Grade 2 labelled house) with the sitting
 room name and the furniture; Palestine carries the bedroom set
@@ -127,7 +136,7 @@ the parts of the house found room by room in Grade 3, and the
 there is/are room description with eight prepositions as one
 set in Grade 7; Iran carries the rooms with the where-question
 and yes/no short answers, widened in its Photo Dictionary to
-house types and furniture. Jordan carries the ten home words with the where-question in Grade 2, the furniture set with there is/are in Grade 3, and the whole house — rooms, furniture, chores — again in Grade 8; Greece carries the rooms and the bedroom furniture in pictures in its Grade 2 Workpack — the room cards themselves carry no printed words — and the household chores in Grade 4; Other closed countries join as
+house types and furniture. Jordan carries the ten home words with the where-question in Grade 2, the furniture set with there is/are in Grade 3, and the whole house — rooms, furniture, chores — again in Grade 8; Greece carries the rooms and the bedroom furniture in pictures in its Grade 2 Workpack — the room cards themselves carry no printed words — and the household chores in Grade 4; Kazakhstan carries the first room with its furniture in Grade 1 Smiles, the whole home — six rooms and fifteen furniture words with there is/are — in its Grade 3 Express book, and rooms, furniture and appliances as a full module in Grade 5 Excel; Other closed countries join as
 their books are read (see READING-QUEUE.md).
 
 **Laos Grade 5 added 2026-10-27** — *Student's Book 3, Grade 5*

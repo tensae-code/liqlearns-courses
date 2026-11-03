@@ -1,6 +1,6 @@
 # Sources for this lesson — Introducing a friend
 
-countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece
+countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -25,12 +25,17 @@ disk 2026-10-25: %PDF, 190 pp).
 | Presenting another person as taught work: the opening unit's stated work is "presenting oneself and a partner," with personal-detail cards completed for yourself and a partner (name, surname, country, spelling) (Greece prints no "This is my friend …" frame in its filed read — its introduction work is this partner-presenting, recorded as filed) | Greece, Think Teen! Grade 7 Beginners, Student's Book, Unit 1 "Welcome!," printed pp.1–6; Teacher's Book, Unit 1, printed pp.1–8 |
 | Greetings and introductions as a named functions strand, taught through two short dialogues | Greece, Think Teen! Grade 8 Advanced, Workbook, Unit 1, Lesson 2 "Joined in our Differences," printed p.12 |
 | Greetings and introductions in a playground dialogue, contrasting how friends, teachers and a head teacher respond — the introduction fitted to who is being met | Greece, Αγγλικά (Genika Agglika) Grade 10 EPAL, Student's Book, Unit 1, Section B "In the playground," printed p.4 |
+| Presenting her family in the first module's cartoon: "Hello! I'm Lilly. This is my mummy." — the child builds the bridge to her own family, the family form of this lesson (as Egypt's and Jordan's rows above) | Kazakhstan, Smiles 1 Pupil's Book, Module 1 "My Family," printed pp.4–17 ("This is my mummy!" printed p.6) |
+| Family presentation sentences matched to framed portraits: "This is my mummy and daddy. This is my grandma and grandpa. This is my sister Lilly and me. This is Charlie." (the held Grade 2 file is the Activity Book, printed pp.4–92 only — this row cites its practice sentences, not a Pupil's Book presentation) | Kazakhstan, Smiles 2 Activity Book, Unit 2 "My Family and Friends," printed p.12 |
+| Identifying a third person in the family-and-friends module: "Who's that? — It's …" — the question about the new person, answered with who they are (Kazakhstan's filed books print no "This is my friend …" frame; its introduction work is this family presenting and this who-question, recorded as printed) | Kazakhstan, Top Stars Grade 3 Student's Book, Module 3 "People I Love," printed pp.32–41 |
+| Greetings, introductions and personal questions as the module's Everyday English strand | Kazakhstan, Excel Grade 5 Student's Book, Module 2, printed pp.21–32 |
+| Meeting people as a named speaking slot — greetings and introductions — in the first unit, "Our class" | Kazakhstan, English Plus Grade 6 Student's Book, Unit 1, printed pp.8–19 ("Meeting people," printed p.14) |
 
 The same dialog also carries the age exchange and the toy-fish
 talk — those parts are filed in their own places (age: english/age/
 how-old-are-you), not here.
 
-**Acceptance count: taught in 8 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece).**
+**Acceptance count: taught in 9 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan).**
 Egypt carries introducing the family — "This is my father /
 mother / sister …" with the "Who's this?" exchange, and a year
 deeper the whole family lineup with my / his / her on family
@@ -51,6 +56,14 @@ introductions are a named functions strand in its Grade 8
 Advanced workbook, and its Grade 10 EPAL book teaches
 greetings and introductions fitted to who is being met — but
 no "This is my friend …" frame is printed in its filed read.
+Kazakhstan joined 2026-11-03 in the family form, like
+Egypt and Jordan: its Grade 1 Lilly presents her mummy
+with "This is my …", its Grade 2 Activity Book matches
+the presentation sentences to the family portraits, and
+its Top Stars Grade 3 asks "Who's that? — It's …" over
+family and friends; a year-band up, introductions are
+named Everyday English in Excel Grade 5 and a named
+"Meeting people" speaking slot in English Plus Grade 6.
 Counts grow as other closed countries' books are read.
 (Count corrected 2026-10-29 to match this file's own sections —
 the Egypt sections below were already in the file but missing
@@ -203,3 +216,43 @@ the "This is my friend / classmate …" kind is printed
 anywhere in the filed Greece read, so Greece is counted
 for the partner-presenting and named-function work only,
 exactly as filed.
+
+**Kazakhstan added 2026-11-03** — five books stock this
+lesson: **Book:** *Smiles 1 — Pupil's Book for Kazakhstan
+Grade 1* (student book) — Kazakhstan, Express
+Publishing, 2016, ISBN 978-1-4715-4507-8. **Book:**
+*Smiles 2 — Activity Book for Kazakhstan Grade 2*
+(activity book; the held file is the Activity Book
+inside Pupil's Book covers, printed pp.4–92 only) —
+Kazakhstan, Express Publishing, 2017. **Book:** *Top
+Stars for Kazakhstan — Student's Book 3* (student
+book) — Kazakhstan, MM Publications, © 2024, ISBN
+978-618-05-7217-9. **Book:** *Excel for Kazakhstan
+Grade 5, Student's Book* (student book) — Kazakhstan,
+Express Publishing, ISBN 978-1-4715-5775-0. **Book:**
+*English Plus Grade 6 Student's Book* (student book) —
+Kazakhstan, Oxford University Press, © 2018, ISBN
+978-0-19-474386-0. All filed in english/books/
+kazakhstan.md (Grade 1 — Smiles 1; Grade 2 — Smiles 2
+Activity Book; Grade 3 — Top Stars; Grade 5 — Excel;
+and Grade 6 — English Plus Student's Book sections,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+Kazakhstan's introducing is the family presenting of
+its Smiles books, in the same shape as Egypt's and
+Jordan's rows in this file: Grade 1's Lilly opens her
+family cartoon "Hello! I'm Lilly. This is my mummy."
+(Module 1, printed pp.4–17; the line is a citation
+anchor at printed p.6), and the Grade 2 Activity Book
+matches the full presentation set to framed portraits —
+"This is my mummy and daddy. This is my grandma and
+grandpa. This is my sister Lilly and me. This is
+Charlie." (Unit 2, printed p.12). Top Stars Grade 3
+adds the question side in its family-and-friends
+module: "Who's that? — It's …" (Module 3, printed
+pp.32–41). The limit is recorded plainly: no "This is
+my friend …" frame is printed in the filed Kazakhstan
+read — its named introduction work a year-band up is
+the Everyday English strand of Excel Grade 5's Module 2
+(printed pp.21–32) and the "Meeting people" speaking
+slot of English Plus Grade 6 (Unit 1, printed p.14),
+and only that filed work is counted here.

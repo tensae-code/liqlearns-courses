@@ -1,6 +1,6 @@
 # Sources — Telling a story back
 
-countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece
+countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan
 
 Every part traces to its book and page.
 
@@ -67,6 +67,24 @@ Education (ebooks.edu.gr). Filed in english/books/greece.md
 (Grade 5 — Αγγλικά (Anglika), Pupil's Book section, FULLY
 READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 14:** Kazakhstan Full Blast!, Grade 6: student's
+book (student book) — Kazakhstan, MM Publications. Filed in
+english/books/kazakhstan.md (Grade 6 — Full Blast! for
+Kazakhstan, Grade 6 Student's Book section, FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
+**Book 15:** Kazakhstan Excel for Kazakhstan, Grade 9:
+student's book (student book) — Kazakhstan, Express
+Publishing. Filed in english/books/kazakhstan.md (Grade 9 —
+Excel for Kazakhstan (Grade 9) Student's Book section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 16:** Kazakhstan Full Blast!, Grade 9: student's
+book (student book) — Kazakhstan, MM Publications. Filed in
+english/books/kazakhstan.md (Grade 9 — Full Blast! for
+Kazakhstan Grade 9 Student's Book section, FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Retelling with a word box" as a set lesson form; the form repeated across the classes as "word-box cloze retelling" — the load-bearing words given, the sentences the learner's own | Bangladesh, English for Today (as filed) |
@@ -86,9 +104,12 @@ READ + CITATION CHECK PASSED 2026-11-03).
 | A whole tale retold in gap form: the Pinocchio worksheet is a simplified retelling of the whole tale with picture gaps — the pupil cuts out the small pictures (raft, house, sea, school, wand, puppet, boat, Geppetto, whale, fire, fairy) and glues each into its gap, the story held in its order by its pictures; the tale ends told in the first person by Pinocchio ("I am a real boy") (this workpack has no printed folios, so its rows cite PDF pages) | Greece, Grade 2 Beta English Workpack, Cycle Δ, Δ05 "Pinocchio," PDF p.144 (story cards PDF pp.141–144) |
 | A retelling as the model inside the stories unit: an online chat retells a frightening practical joke, worked beside the listening about a family questioned after a gunshot nearby | Greece, Grade 5 Pupil's Book, Unit 8, Lesson 2, printed pp.102–105 |
 | The telling-back as the unit's test: the stories unit's self-assessment drills the two past tenses and retells the Golden Fish tale | Greece, Grade 5 Pupil's Book, Unit 8, Lesson 3, Self Assessment Test, printed pp.107–108 |
+| A folk tale told back two ways in one lesson: "Aldar Kose and the Magic Coat" retold as a chain story, and retold again from the rich man's point of view — the same happenings carried by a new teller | Kazakhstan, Full Blast Grade 6 Student's Book, Module 7, printed pp.153–169 |
+| The point-of-view retelling at the top of the school: the Canterville Ghost extract retold from the ghost's point of view | Kazakhstan, Excel Grade 9 Student's Book, Module 5, printed pp.53–62 |
+| The retelling multiplied: the giant-squid extract from 20,000 Leagues Under the Sea retold from four points of view — Ned Land, the grabbed sailor, Captain Nemo, a squid | Kazakhstan, Full Blast Grade 9 Student's Book, Module 5, printed pp.119–142 |
 
-**Acceptance count: taught in 8 countries (Bangladesh,
-Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece).** Bangladesh equips the retelling (word box,
+**Acceptance count: taught in 9 countries (Bangladesh,
+Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan).** Bangladesh equips the retelling (word box,
 first-person, comparison); Ghana frames it (chain, Herring
 Bone, sequence order); China equips it again (the fill-in
 retell, the phone retell, the sorted diary recount);
@@ -105,6 +126,14 @@ Greece stocks the retelling in part — a picture-gap
 retelling of the whole Pinocchio tale at Grade 2, a chat
 retelling as a model and an assessment retelling of the
 Golden Fish tale at Grade 5 — but no Greece book names an
-own-words retelling lesson of its own.
+own-words retelling lesson of its own;
+Kazakhstan stocks the retelling in part — a folk tale
+retold as a chain story and again from the rich man's
+point of view at Grade 6, the Canterville Ghost retold
+from the ghost's point of view at Grade 9, and the
+giant-squid extract retold from four points of view in
+its other Grade 9 book — but no Kazakhstan book sets an
+own-words retelling lesson with a comparison against
+the original.
 Other closed countries join as
 their books are read (see READING-QUEUE.md).

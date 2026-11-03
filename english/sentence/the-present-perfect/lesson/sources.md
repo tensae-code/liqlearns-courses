@@ -1,6 +1,6 @@
 # Sources — The present perfect
 
-countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece
+countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
 
 Every part traces to its book and page.
 
@@ -75,6 +75,9 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 **Book 15:** Greece Αγγλικά (Anglika), Grade 6, Student's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 6 — Αγγλικά (Anglika), Student's Book, New Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 16:** Greece Think Teen!, Grade 7 Advanced, Student's Book (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 17:** Greece Γενικά Αγγλικά (Genika Agglika), Grade 10 EPAL, Student's Book (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 10 (EPAL) — General English, Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 18:** Kazakhstan Excel for Kazakhstan, Grade 6: Student's Book + bound-in Workbook & Grammar Book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 6 — Excel for Kazakhstan Grade 6 (Student's Book + bound-in Workbook & Grammar Book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 19:** Kazakhstan Full Blast! for Kazakhstan, Grade 6: Student's Book (student book) — Kazakhstan, MM Publications. Filed in english/books/kazakhstan.md (Grade 6 — Full Blast! for Kazakhstan, Grade 6 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 20:** Kazakhstan English Plus, Grade 7: Student's Book (student book) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 7 — English Plus Grade 7 Student's Book (Kazakhstan edition) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -105,9 +108,12 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | Present Perfect Simple (have/has + participle) contrasted with the Past Simple for a stated past time, on record holders and a long-running show | Greece, Αγγλικά Grade 6, Unit 7, p.76 |
 | The Present Perfect Simple built up in stages across the volunteering unit, then contrasted with the Past Simple | Greece, Think Teen! Grade 7 Advanced, Unit 6, pp.83–100 (contrast lesson opens printed p.93) |
 | The Present Perfect — incomplete-up-to-now, and with since/for — presented beside the 1st conditional and comparatives | Greece, Γενικά Αγγλικά Grade 10 EPAL, Unit 4, Section E, p.64 |
+| The Present Perfect in its full paradigm, with *for/since*, then set against the Past Simple — the countryside module's whole tense work | Kazakhstan, Excel Grade 6, Module 3, printed pp.29–40 |
+| Present Perfect Simple with *ever/never/just*, then Present Perfect against Past Simple with *for/since* and *been* against *gone* | Kazakhstan, Full Blast! Grade 6, Module 2, sections 2c–2d, printed pp.40–57 |
+| The Present Perfect staged affirmative and negative first, then its questions with *ever*, in the natural-disasters unit | Kazakhstan, English Plus Grade 7, Unit 8, printed pp.106–119 |
 
-**Acceptance count: taught in 8 countries (Egypt,
-Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece).** Libya introduces the tense at Grade 8 with the
+**Acceptance count: taught in 9 countries (Egypt,
+Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan).** Libya introduces the tense at Grade 8 with the
 song and the grammar box, guards the no-exact-time rule in
 its Teacher's Book, sets the ever/never/yet/already box at
 Grade 9, and states the whole entry again in its Grammar
@@ -126,7 +132,7 @@ with ever/never and short answers, already/just/yet at
 Grade 6 Semester 1, since/for at Grade 6 Semester 2 —
 then teaches the simple form again beside its continuous
 twin at Grade 10 and contrasts the perfect forms whole
-at Grade 12. Greece meets the tense at Grade 5 as the past–present connector with ever / recently / yet / never, contrasts it with the past simple on a timeline there and again at Grades 6–7, and restates it with since/for at Grade 10 EPAL. Indonesia was checked
+at Grade 12. Greece meets the tense at Grade 5 as the past–present connector with ever / recently / yet / never, contrasts it with the past simple on a timeline there and again at Grades 6–7, and restates it with since/for at Grade 10 EPAL. Kazakhstan teaches the tense whole at Grade 6 — the full paradigm with for/since and the past-simple contrast in Excel, ever/never/just and been against gone in Full Blast! — and stages its questions with ever at Grade 7; no primary Kazakhstan book teaches it. Indonesia was checked
 for this tense on 2026-11-03 and never teaches it (its
 books' own honest negatives say so at Grades 6 and 9).
 Other closed countries join as their

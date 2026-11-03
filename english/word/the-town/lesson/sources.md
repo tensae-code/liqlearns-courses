@@ -1,6 +1,6 @@
 # Sources — The town
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
 
 Every part traces to its book and page.
 
@@ -64,6 +64,12 @@ english/books/jordan.md (Grade 6 Pupil's Book Semester 1 section, FULLY READ + C
 
 **Book 14:** Greece Αγγλικά (Anglika) Pupil's Book, Revised Edition, Grade 5: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 5 — Αγγλικά (Anglika), Pupil's Book, Revised Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 15:** Kazakhstan English Language for Kazakhstan, Grade 3: pupil's book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 3 — English Language for Kazakhstan Grade 3, Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 16:** Kazakhstan English for Kazakhstan, Grade 3: pupil's book (student book) — Kazakhstan, Macmillan Education. Filed in english/books/kazakhstan.md (Grade 3 — English for Kazakhstan Grade 3 Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 17:** Kazakhstan English Plus, Grade 5: student's book (student book) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 5 — English Plus Grade 5 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Eight town words on pictures: hospital, school, shop, building, street, car, truck, bus (the hospital shown with its ambulance) | Egypt, Primary 1 Term 2, Unit 5 "Neighborhood," Lesson 1 "Around My Town," p.86 |
@@ -88,9 +94,12 @@ english/books/jordan.md (Grade 6 Pupil's Book Semester 1 section, FULLY READ + C
 | The city set: post office, theatre, museum, café, cinema, shopping centre, block of flats, sports centre, church, bank, supermarket, park, school — with is there…? / are there…? and the place phrases next to, between and on the corner of | Greece, Αγγλικά Grade 4, Unit 3, Lesson 2 "My city," pp.38–41 |
 | Around the city: park rule signs with the imperative and can / can't for permission, then a traffic warden's road signs with must / mustn't and the direction game turn left / turn right / go straight ahead | Greece, Αγγλικά Grade 4, Unit 8 "Around the City," pp.93–101 |
 | Directions as depth over real maps — go straight ahead, turn left/right into…, take the first/second turning, on your right/left, at the end of the street — on maps of Nea Ionia and the Acropolis area | Greece, Αγγλικά Grade 5, Unit 3, Lesson 2 "How Can I Get To…?," pp.42–44 |
+| Buildings in our town as the buildings module's second half — the town set carried in the same unit as the home set, worked with there is / there are, prepositions of place and How many …? | Kazakhstan, English Language for Kazakhstan Grade 3, Module 7 "Buildings," printed pp.80–91 |
+| The town set in the book's own Dictionary: museum, police station, post office, train station, tower — with directions language in the same unit set: "Go straight on. Turn left. Turn right." | Kazakhstan, English for Kazakhstan (Macmillan) Grade 3, Unit 7, printed pp.90–103; Dictionary, printed pp.118–127 |
+| A town asked about whole: shops in the fantasy-world unit, there is / there are questions and short answers with prepositions of place, asking about places in a town, and writing a brochure about your town | Kazakhstan, English Plus Grade 5, Unit 3, printed pp.26–39 (brochure, printed p.33) |
 
-**Acceptance count: taught in 10 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece).** Egypt
+**Acceptance count: taught in 11 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan).** Egypt
 carries the first set twice (Primary 1's
 eight words with their dialog; Primary 2's city set);
 Bangladesh carries city life as a topic, against village life;
@@ -101,7 +110,7 @@ neighbourhood on one map, with directions and the position
 set; Iran carries the city described and located whole, and
 the widest pictured places set in this lesson; Sierra Leone
 carries the community word-web and directions by landmarks.
-Jordan carries a town set located and directed in its Grade 3 booster, a whole Our town unit in Grade 4, and the buildings set with the parts of a building in Grade 6; Greece carries the city facilities set with its place phrases in Grade 4, the park and road signs of its Around the City unit, and directions over real maps in Grade 5; Other
+Jordan carries a town set located and directed in its Grade 3 booster, a whole Our town unit in Grade 4, and the buildings set with the parts of a building in Grade 6; Greece carries the city facilities set with its place phrases in Grade 4, the park and road signs of its Around the City unit, and directions over real maps in Grade 5; Kazakhstan carries the town buildings in its Grade 3 Express buildings module, the town set with directions language in its Grade 3 Macmillan Dictionary, and a town asked about and written up as a brochure in Grade 5 English Plus; Other
 closed countries join as their books are read (see
 READING-QUEUE.md).
 

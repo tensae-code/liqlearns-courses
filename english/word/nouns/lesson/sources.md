@@ -1,6 +1,6 @@
 # Sources — Nouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece
+countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
 
 Every part traces to its book and page.
 
@@ -76,6 +76,12 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 
 **Book 16:** Greece Think Teen! Advanced Student's Book, Grade 7: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Αγγλικά, Student's Book — Think Teen! 1st Grade of Junior High School, Student's Book (Προχωρημένοι) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 17:** Kazakhstan English for Kazakhstan, Grade 3: pupil's book (student book) — Kazakhstan, Macmillan Education. Filed in english/books/kazakhstan.md (Grade 3 — English for Kazakhstan Grade 3 Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 18:** Kazakhstan English Plus, Grade 5: student's book (student book) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 5 — English Plus Grade 5 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 19:** Kazakhstan English Language for Kazakhstan, Grade 3: pupil's book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 3 — English Language for Kazakhstan Grade 3, Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition in its three-sort form: "Nouns — person, place, thing," taught with the "Life in the City" text (Karim) and sorting work | Egypt, Primary 2 Term 2, Unit 4, Lesson 3 "Language in Use," p.68 |
@@ -105,9 +111,12 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Countable against uncountable nouns as the unit's grammar core — a/an and some, how many…? against how much…? — worked on party shopping, with the summary table in My Grammar Corner (9.1) | Greece, Αγγλικά Grade 4, Unit 9 "The School Party," Lesson 1, pp.105–109 |
 | Countable against uncountable nouns again at the top of primary: the COUNTABLE / UNCOUNTABLE NOUNS box with some / any, how much, how many, containers and weights, and few / a few, little / a little beside it | Greece, Αγγλικά Grade 6, Unit 2 "Going shopping," pp.16, 20 |
 | Countable and uncountable nouns with the quantifier set — many/much, a few/a little, a lot of, any — inside the food lesson | Greece, Think Teen! Grade 7 Advanced, Unit 3, Lesson 1 "Food for thought!," p.28 |
+| Countable and uncountable nouns taught in the school unit's grammar map, beside regular and irregular plural nouns and how many — the noun system presented whole at Grade 3 | Kazakhstan, English for Kazakhstan (Macmillan) Grade 3, Unit 2 "My school," printed pp.20–33 (Syllabus, printed pp.2–3) |
+| Countable and uncountable nouns as a language-focus point — there is / there are, some and any in affirmative and negative, inside the places unit | Kazakhstan, English Plus Grade 5, Unit 3 "Fantasy world," printed pp.26–39 |
+| Plural spellings built up across the year: plurals in -s in Module 2, then plurals in -es and -ies in the Buildings module, each set worked inside its own unit | Kazakhstan, English Language for Kazakhstan Grade 3, Module 2, printed pp.18–29; Module 7, printed pp.80–91 |
 
-**Acceptance count: taught in 11 countries (Bangladesh, Egypt,
-Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece).**
+**Acceptance count: taught in 12 countries (Bangladesh, Egypt,
+Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan).**
 Egypt and Bangladesh carry the definition itself,
 each in the three-sort form; Libya carries it twice more in its
 own shorter words; Ghana carries the sentence test; China
@@ -119,7 +128,7 @@ and the countable/uncountable line again with measure words;
 Sierra Leone carries the categories made by the learners
 themselves, the countable/uncountable pair in Primary 2, and
 the plural spellings -es / -ies / -ves as separate lessons.
-Jordan carries the irregular plurals mouse–mice and fish–fish and the -oes spellings, and countable against uncountable twice — with containers and quantity in Grade 4, and with some/any/no and the quantifiers in Grade 8; Greece carries countable against uncountable three times — as the Grade 4 party-shopping grammar core, again in Grade 6 with containers and few/little, and in Grade 7 with the quantifier set; Other finished
+Jordan carries the irregular plurals mouse–mice and fish–fish and the -oes spellings, and countable against uncountable twice — with containers and quantity in Grade 4, and with some/any/no and the quantifiers in Grade 8; Greece carries countable against uncountable three times — as the Grade 4 party-shopping grammar core, again in Grade 6 with containers and few/little, and in Grade 7 with the quantifier set; Kazakhstan carries countable against uncountable twice in primary — in its Grade 3 Macmillan book, beside regular and irregular plurals, and in Grade 5 English Plus with some and any — and the plural spellings -s, then -es and -ies, built up across its Grade 3 Express book; Other finished
 countries join as their books are read (see READING-QUEUE.md).
 
 **Laos Grade 7 added 2026-10-27** — *English for Secondary

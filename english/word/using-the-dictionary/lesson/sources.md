@@ -1,6 +1,6 @@
 # Sources — Using the dictionary
 
-countries: Bangladesh, India, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece
+countries: Bangladesh, India, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
 
 Every part traces to its book and page.
 
@@ -68,6 +68,12 @@ english/books/jordan.md (Grade 6 Activity Book Semester 1 section, FULLY READ + 
 
 **Book 15:** Greece Think Teen! Glossary, Grade 9: glossary — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Workbook and Glossary section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 16:** Kazakhstan Smiles 1 Pupil's Book, Grade 1: student book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 1 — Smiles 1 Pupil's Book for Kazakhstan Grade 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 17:** Kazakhstan English for Kazakhstan, Grade 3: pupil's book (student book) — Kazakhstan, Macmillan Education. Filed in english/books/kazakhstan.md (Grade 3 — English for Kazakhstan Grade 3 Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 18:** Kazakhstan English Language for Kazakhstan, Grade 3: pupil's book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 3 — English Language for Kazakhstan Grade 3, Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a dictionary gives — spelling, pronunciation, meaning, word class; examples printed in italics; synonyms and antonyms given; words made by prefixes and suffixes; a verb shown in its simple present tense with past form and past participle — taught on a reproduced dictionary page for 'fit' (fit → fitful, fitment, fitness, fitness centre, fitted, fitter, fitting, fixture) with sentence matching | Bangladesh, English for Today Class 8, Unit Four "Check Your Reference," Lesson 2 "Using a Dictionary," pp.36–38 |
@@ -89,9 +95,12 @@ english/books/jordan.md (Grade 6 Activity Book Semester 1 section, FULLY READ + 
 | Dictionary skills taught as a lesson in their own right: English–English dictionary skills — alphabetical order, stress, looking up meanings — in the review lesson built on learning English in your free time | Greece, Think Teen! Grade 7 Beginners, Unit 5, Lesson 3 "In my free time I learn English!," p.66 |
 | The course's own finding tools: per-unit Greek–English glossaries in six-column tables — Word, Definition, Example, Synonym, Antonym, Derived forms — every headword tagged for its word class (n), (v), (adj), (adv), the entries running broadly A–Z inside each lesson (about 930 entries Advanced, about 675 Beginners) | Greece, Think Teen! Grade 7 Glossaries (Advanced and Beginners), PDF pp.3–67 (Advanced) |
 | The same glossary carried to the last Gymnasio year: organised by unit and lesson, alphabetical inside each lesson set, about 570 headwords, the Greek equivalent inside the definition | Greece, Think Teen! Grade 9 Glossary, Units 1–10, printed pp.1–36 |
+| A picture dictionary at the back of the book — a Pictionary of the book's whole vocabulary, every entry pictured and glossed in Kazakh and Russian | Kazakhstan, Smiles 1 Pupil's Book, Grade 1, Pictionary, printed pp.99–104 |
+| The book's own Dictionary at the back: the course vocabulary by unit, each entry with IPA transcription and Kazakh and Russian equivalents — a finding tool, unit-ordered, not alphabetical across the course | Kazakhstan, English for Kazakhstan (Macmillan) Grade 3, Dictionary, printed pp.118–127 |
+| The book's own Glossary at the back: every module's wordlist in English with IPA transcription and Kazakh and Russian equivalents, closing with the two stories' wordlists — again unit-ordered, with no guide words and no dictionary-skills teaching | Kazakhstan, English Language for Kazakhstan Grade 3, Glossary, printed pp.108–112 |
 
-**Acceptance count: taught in 9 countries (Bangladesh, India,
-Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece).** Bangladesh
+**Acceptance count: taught in 10 countries (Bangladesh, India,
+Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan).** Bangladesh
 carries the full skill — order, guide
 words, the entry, many meanings; India carries the first
 form, a picture dictionary in every year's book; Mongolia
@@ -103,6 +112,6 @@ at the back of its Grade 4 book — glossary and index;
 Iran carries a whole senior lesson on choosing and using a
 dictionary, guide words among its seven tips; Sierra Leone
 carries the skill arriving in the last primary year and
-alphabetical order worked step by step in JSS2. Jordan carries the picture dictionary at the back of its early books, and the defined Wordlist — word classes marked, alphabetical within each unit — as the Activity Books' own finding tool; Greece carries a real dictionary-skills lesson in Grade 7 Beginners — alphabetical order, stress, looking up meanings — and per-unit glossaries for Grades 7 and 9, filed here as partial stock: the glossaries are unit-ordered finding tools, not a whole-book dictionary, with no guide words, no phonetic transcription and no A–Z index across the course, so a word can only be found if its unit and lesson are known; Other
+alphabetical order worked step by step in JSS2. Jordan carries the picture dictionary at the back of its early books, and the defined Wordlist — word classes marked, alphabetical within each unit — as the Activity Books' own finding tool; Greece carries a real dictionary-skills lesson in Grade 7 Beginners — alphabetical order, stress, looking up meanings — and per-unit glossaries for Grades 7 and 9, filed here as partial stock: the glossaries are unit-ordered finding tools, not a whole-book dictionary, with no guide words, no phonetic transcription and no A–Z index across the course, so a word can only be found if its unit and lesson are known; Kazakhstan is filed as partial stock on the same strict terms: it carries finding tools only — a trilingual picture dictionary at the back of its Grade 1 book and unit-ordered trilingual glossaries and a Dictionary with IPA at the back of its Grade 3 books — and no dictionary-skills lesson, no guide words and no alphabetical-order teaching anywhere in its set, so a word can only be found if its unit is known; Other
 closed countries join as their books are read (see
 READING-QUEUE.md).

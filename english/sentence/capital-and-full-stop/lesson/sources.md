@@ -1,6 +1,6 @@
 # Sources — Capital letter and full stop
 
-countries: Bangladesh, Ghana, Indonesia, Iran, Sierra Leone, Jordan
+countries: Bangladesh, Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan
 
 Every part traces to its book and page.
 
@@ -47,6 +47,11 @@ Development (NCCD), Amman (Pearson Education / York
 Press originals). Filed in english/books/jordan.md (FULLY READ +
 CITATION CHECK PASSED 2026-11-03).
 
+**Book 9:** Kazakhstan English Plus, Grade 5: Student's Book (student book) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 5 — English Plus Grade 5 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 10:** Kazakhstan English Plus, Grade 7: Student's Book (student book) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 7 — English Plus Grade 7 Student's Book (Kazakhstan edition) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 11:** Kazakhstan Full Blast! for Kazakhstan, Grade 6: Student's Book (student book) — Kazakhstan, MM Publications. Filed in english/books/kazakhstan.md (Grade 6 — Full Blast! for Kazakhstan, Grade 6 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 12:** Kazakhstan Full Blast! for Kazakhstan, Grade 9: Student's Book (student book) — Kazakhstan, MM Publications. Filed in english/books/kazakhstan.md (Grade 9 — Full Blast! for Kazakhstan Grade 9 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Capitalisation as its own strand: "capitals for particular places and DAYS OF THE WEEK, and to begin the first word of a sentence"; PUNCTUATION OPENS (B2.5.2.1): "FULL STOPS at the end of sentences and QUESTION MARKS at the end of questions" | Ghana, NaCCA B1–B3 curriculum, Basic 2, Strand 5 (Capitalisation / Punctuation) |
@@ -61,9 +66,13 @@ CITATION CHECK PASSED 2026-11-03).
 | Punctuation marks named as a grammar lesson — full stop, question mark and comma — with the rule that sentences begin with a capital letter; capitals for specific names (people, countries, days, months, towns) in the common/proper noun lesson | Sierra Leone, JSS 1 Term 1 Handbook, Lesson 36 "Punctuation Marks" (printed p.66) and Lesson 9 "Common and Proper Nouns" |
 | Terminal stops taught as their own two-lesson pair: full stop, question mark and exclamation mark as end punctuation, read with expression, then used correctly in the pupil's own writing | Sierra Leone, SSS 1 Term 1 Handbook, Lessons 11–12 "Punctuation — Terminal Stops," printed pp.20–21 |
 | Capital letters named as a check of the pupil's own writing — the Lesson 10 writing check lists capital letters beside spelling and handwriting (the capital rung only; no full-stop rule is stated for Jordan in the filing) | Jordan, Team Together Grade 4, Activity Book, Semester 1, Unit 1 "New school," Lesson 10, pp.6–13 |
+| Capital letters named as the writing point of the email-about-yourself lesson (the capital rung, named as a point) | Kazakhstan, English Plus Grade 5, Unit 2, printed pp.12–25 |
+| Capital letters and punctuation named together as the writing point of the internet-profile lesson — the pair taught as a writing skill, not broken down mark by mark in the filing | Kazakhstan, English Plus Grade 7, Unit 1, printed pp.8–21 |
+| Capital letters and punctuation named as the film-review writing lesson's point, beside the contrast linkers *but / however* | Kazakhstan, Full Blast! Grade 6, Module 4, section 4e, printed pp.87–103 |
+| Punctuation and capital letters given explicit teaching in the informal letter/email writing lesson, with a full plan page | Kazakhstan, Full Blast! Grade 9, Module 1, section 1b, printed pp.11–34 |
 
-**Acceptance count: taught in 6 countries (Bangladesh,
-Ghana, Indonesia, Iran, Sierra Leone, Jordan).** Ghana states the rules as curriculum strands;
+**Acceptance count: taught in 7 countries (Bangladesh,
+Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan).** Ghana states the rules as curriculum strands;
 Bangladesh boxes the capital rule, prints a text wearing it
 in red, and drills the stop/question-mark pair in its first
 punctuation exercises; Indonesia names the marks and
@@ -74,5 +83,12 @@ stop-at-the-end pair at Primary 2, names the marks with
 the capital rule in JSS 1, and gives the terminal stops
 their own lesson pair in SSS 1; Jordan adds the
 capital rung only — capital letters named in a Grade 4
-writing check. Other closed countries join as
+writing check; Kazakhstan names capital letters as a
+writing point at Grade 5 and capital letters and
+punctuation together as explicit writing teaching at
+Grades 7 and 9 — the pair is genuinely taught as a
+point, but the Kazakhstan filing does not break the
+punctuation down mark by mark, so no first-word-capital
+or full-stop-at-the-end rule is claimed for it beyond
+the naming. Other closed countries join as
 their books are read (see READING-QUEUE.md).

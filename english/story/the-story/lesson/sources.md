@@ -1,6 +1,6 @@
 # Sources — The story
 
-countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece
+countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan
 
 Every part traces to its book and page.
 
@@ -84,6 +84,26 @@ english/books/greece.md (Grades 11–12 — Αγγλικά 2,
 Student's Book section, FULLY READ + CITATION CHECK
 PASSED 2026-11-03).
 
+**Book 17:** Kazakhstan Excel for Kazakhstan, Grade 6:
+Student's Book + bound-in Workbook & Grammar Book
+(student book) — Kazakhstan, Express Publishing. Filed in
+english/books/kazakhstan.md (Grade 6 — Excel for Kazakhstan
+Grade 6 section, FULLY READ + CITATION CHECK PASSED
+2026-11-03).
+
+**Book 18:** Kazakhstan Excel for Kazakhstan, Grade 7:
+student's book, 2nd Edition (student book) — Kazakhstan,
+Express Publishing. Filed in english/books/kazakhstan.md
+(Grade 7 — Excel for Kazakhstan, Grade 7 Student's Book,
+2nd Edition (2025) section, FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
+**Book 19:** Kazakhstan Full Blast!, Grade 6: student's
+book (student book) — Kazakhstan, MM Publications. Filed in
+english/books/kazakhstan.md (Grade 6 — Full Blast! for
+Kazakhstan, Grade 6 Student's Book section, FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Paragraph Development names the four modes — "expository, narrative, description, argument" — narrative standing as the story's mode among the kinds of writing | Ghana, NaCCA JHS curriculum, Paragraph Development (as filed) |
@@ -104,9 +124,12 @@ PASSED 2026-11-03).
 | A whole primary unit given to stories — "All About Stories": a fairy tale's jumbled opening reconstructed, heard in full, cast and dramatised, then the pupil's own short story written, and a traditional story as the unit's third lesson | Greece, Grade 5 Pupil's Book, Unit 8, printed pp.97–108 (Lesson 1, pp.98–101; Lesson 2, pp.102–105) |
 | The story lesson named in its own title — "Tell me a story!": a prize-winning student story about a burglary as the model text, then learners write story openings and tell a story about a day they did something wrong | Greece, Grade 7 (Advanced) Student's Book, Unit 4, Lesson 2, printed p.49 |
 | Narrative writing taught as a craft at the top of the school: the class story charted, then enriched with background, zoom-in, description, flashback and monologue — and the pupil's own story reworked to make it more literary, judged against a flattened rewrite | Greece, Grades 11–12 Student's Book, Unit 4, printed pp.51–64 |
+| The story's own elements glossed beside a story text: the Oliver Twist work carries a literary-elements glossary — script, plot, character, setting, dialogue, monologue, conflict — and the module's writing outcome is a story of the pupil's own, on the Loch Ness model "The Monster" | Kazakhstan, Excel Grade 6 Student's Book, Module 4, printed pp.41–52 |
+| A whole module given to stories, each text closed by a theory box naming its kind: a Hound of the Baskervilles extract (with a box on first- vs third-person narration), a Time Machine extract, the Korkyt Ata legend and the Magic Garden folk tale — narrative, legends and folk tales told apart in print | Kazakhstan, Excel Grade 7 Student's Book (2nd Edition), Module 5, printed pp.53–62 |
+| The kinds told apart and the craft advised in the other Grade 6 course: a myth/legend/folk-tale distinction inside the folk-tale lesson, then story-writing advice — when/while linkers, feeling adjectives, (un)luckily adverbs — beside the model story "Lucky or unlucky?" | Kazakhstan, Full Blast Grade 6 Student's Book, Module 7, printed pp.153–169 |
 
-**Acceptance count: taught in 8 countries (Bangladesh,
-Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece).** Ghana names the narrative mode; Bangladesh
+**Acceptance count: taught in 9 countries (Bangladesh,
+Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan).** Ghana names the narrative mode; Bangladesh
 teaches stories from its earliest classes with the fables;
 Egypt reads whole stories through the secondary years;
 China names the story's three parts outright (setting,
@@ -128,5 +151,12 @@ then the pupil's own short story — names a Grade 7 lesson
 "Tell me a story!" over a prize-winning model, and teaches
 narrative craft outright at Grades 11–12, where the story
 is charted and enriched with background, flashback and
-monologue. Other closed countries join as their books are read (see
+monologue; Kazakhstan gives whole modules to stories —
+its Grade 6 book glosses the story's own elements (plot,
+character, setting, conflict) beside Oliver Twist and
+sets a story as the module's writing outcome, its
+Grade 7 book closes each story text with a theory box
+telling narrative, legends and folk tales apart, and
+its other Grade 6 course prints story-writing advice
+beside its model story. Other closed countries join as their books are read (see
 READING-QUEUE.md).

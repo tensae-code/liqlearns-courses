@@ -1,6 +1,6 @@
 # Sources — Adverbs
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
 
 Every part traces to its book and page.
 
@@ -79,6 +79,12 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 
 **Book 17:** Greece Αγγλικά (Anglika) Student's Book, Revised Edition, Grade 6: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 6 — Αγγλικά (Anglika), Student's Book, New Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 18:** Kazakhstan English Language for Kazakhstan, Grade 4: pupil's book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 4 — English Language for Kazakhstan Grade 4 Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 19:** Kazakhstan Excel for Kazakhstan, Grade 5: student's book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 5 — Excel for Kazakhstan Grade 5, Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 20:** Kazakhstan Smiles for Kazakhstan, Grade 4: pupil's book (student book — cited from the with-covers copy of the 2019 edition) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 4 — Smiles for Kazakhstan Grade 4 Pupil's Book — SECOND FILE section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition in one line: "Adverbs say how an action is done. The adverb usually comes after the verb." — plus underlining the adverbs in a dialogue (regularly, carefully…) | Bangladesh, English for Today Class 5, LANGUAGE FOCUS: ADVERBS box, p.27 |
@@ -101,9 +107,12 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Adverbs of frequency as a taught set — always, usually, often, sometimes, never — set inside the present simple for daily routines | Greece, Αγγλικά Grade 4, Unit 5, Lesson 1 "It's only a dream!," pp.57–61 |
 | Adverbs of frequency on a printed scale — always–usually–often–sometimes–rarely/seldom–never with rough percentage values and their position in the sentence | Greece, Αγγλικά Grade 5, Unit 2, Lesson 2 "Talking About Habits — Good & Bad," p.32 |
 | Comparison of adverbs as its own grammar work, alongside comparative and superlative adjectives | Greece, Αγγλικά Grade 6, Unit 3, p.33 |
+| Adverbs of frequency inside the daily-routine module — the how-often words riding on the present simple of a school day — then adverbs of manner inside the food module a term later | Kazakhstan, English Language for Kazakhstan Grade 4, Module 1, printed pp.6–17; Module 5, printed pp.56–67 |
+| The adverb kinds named together in one module: adverbs of frequency on a Pink Dolphins text, then adverbs of degree and adverbs of manner beside the comparatives | Kazakhstan, Excel for Kazakhstan Grade 5, Module 7 "Fantasy world!," printed pp.85–96 |
+| Adverbs of time, frequency and manner named as one grammar set in the Contents map of the sports module, and adverbs again in the healthy-world module — the kinds arriving as named sets from Grade 4 | Kazakhstan, Smiles for Kazakhstan Grade 4, Module 1, printed pp.4–17; Module 6, printed pp.82–95 |
 
-**Acceptance count: taught in 10 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece).**
+**Acceptance count: taught in 11 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan).**
 Bangladesh carries the definition and the mime
 game; Egypt carries the making rule (-ly, y → i) and the
 frequency ladder; Libya carries the adjective-to-adverb move
@@ -115,6 +124,6 @@ manner set with its non--ly rebels; Iran carries the adverb
 as a named word kind — manner, the -ly making, the irregulars
 — and a second printed frequency ladder; Sierra Leone carries
 the adjective-to-adverb change as two lessons of its own and
-the function stated plainly. Jordan carries the frequency set twice — Grade 4 with its once/twice/three-times phrases, Grade 8 with ordering work in the Workbook — and the manner set with well among the -ly words; Greece carries the frequency set twice — the five-word set in Grade 4, and the printed percentage ladder with sentence position in Grade 5 — and comparison of adverbs in Grade 6; Other
+the function stated plainly. Jordan carries the frequency set twice — Grade 4 with its once/twice/three-times phrases, Grade 8 with ordering work in the Workbook — and the manner set with well among the -ly words; Greece carries the frequency set twice — the five-word set in Grade 4, and the printed percentage ladder with sentence position in Grade 5 — and comparison of adverbs in Grade 6; Kazakhstan carries the frequency words on daily routines and manner adverbs a term later in its Grade 4 Express book, frequency, degree and manner named together in Grade 5 Excel, and adverbs of time, frequency and manner as a named set in Grade 4 Smiles; Other
 closed countries join as their books are read (see
 READING-QUEUE.md).

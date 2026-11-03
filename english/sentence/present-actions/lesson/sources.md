@@ -1,6 +1,6 @@
 # Sources — Present actions
 
-countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece
+countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
 
 Every part traces to its book and page.
 
@@ -91,6 +91,9 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 17:** Greece Αγγλικά (Anglika), Grade 4, Student's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 4 — Αγγλικά (Anglika), Student's Book, New Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 18:** Greece Αγγλικά (Anglika), Grade 5, Pupil's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 5 — Αγγλικά (Anglika), Pupil's Book, Revised Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 19:** Greece Αγγλικά (Anglika), Grade 6, Student's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 6 — Αγγλικά (Anglika), Student's Book, New Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 20:** Kazakhstan Excel for Kazakhstan, Grade 5: Student's Book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 5 — Excel for Kazakhstan Grade 5, Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 21:** Kazakhstan English Plus, Grade 5: Student's Book (student book) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 5 — English Plus Grade 5 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 22:** Kazakhstan Full Blast! for Kazakhstan, Grade 6: Student's Book (student book) — Kazakhstan, MM Publications. Filed in english/books/kazakhstan.md (Grade 6 — Full Blast! for Kazakhstan, Grade 6 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -120,10 +123,15 @@ CITATION CHECK PASSED 2026-11-03).
 | The Present Simple as a taught system: affirmative, negative and question forms for school life and routines, with the third-person -s/-es/-ies spelling changes | Greece, Αγγλικά Grade 5, Unit 1, Lesson 2, p.20 |
 | Present Continuous contrasted with Present Simple: what people usually do against what they are doing this year / today | Greece, Αγγλικά Grade 5, Unit 4, Lesson 1, p.52 |
 | Both faces restated and contrasted at the top of primary: the Present Simple Grammar Box with adverbs of frequency, then the Present Continuous Grammar Box contrasting regular habits with happening now | Greece, Αγγλικά Grade 6, Unit 1, pp.1–12 (boxes, printed pp.4 and 8) |
+| The Present Simple taught in full — affirmative with third-person spelling, then negative and interrogative — over family and daily routines | Kazakhstan, Excel Grade 5, Module 3, printed pp.33–44 |
+| The Present Continuous in full, then set against the Present Simple on a Venice Carnival postcard, with a note on the continuous with future meaning in the writing lesson | Kazakhstan, Excel Grade 5, Module 9, printed pp.109–120 |
+| The Present Simple staged affirmative first, then negative, in the values unit; Present Simple question forms follow in the world-of-work unit | Kazakhstan, English Plus Grade 5, Units 5–6, printed pp.54–81 |
+| The Present Continuous staged affirmative and negative (with *-ing* spelling), then its questions, in the holidays unit | Kazakhstan, English Plus Grade 5, Unit 7, printed pp.82–95 |
+| Both faces in the opening module — the Present Simple for school life, then the Present Continuous beside it with a stative-verb note | Kazakhstan, Full Blast! Grade 6, Module 1, sections 1a and 1c, printed pp.16–33 |
 
-**Acceptance count: taught in 11 countries (Egypt, Ghana,
+**Acceptance count: taught in 12 countries (Egypt, Ghana,
 Libya, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece).** Egypt boxes the every-day face inside
+Sierra Leone, Jordan, Greece, Kazakhstan).** Egypt boxes the every-day face inside
 routines; Mongolia tables the right-now face and its
 questions; Libya's reference names both faces' uses and
 posts the refusal list; Ghana names the simple present's
@@ -137,7 +145,7 @@ lesson pair in JSS 1 and rebuilds both for the senior
 exam in SSS 1; Jordan works
 the every-day face over routines and the third-person
 -s in Grade 3, sets the two faces against each other
-in Grade 6, and re-teaches both in Grade 8. Greece builds both faces across primary — routines and frequency in Grade 4, the full simple paradigm and the simple/continuous contrast in Grade 5, and both boxes restated in Grade 6. Other closed countries join as their books are read
+in Grade 6, and re-teaches both in Grade 8. Greece builds both faces across primary — routines and frequency in Grade 4, the full simple paradigm and the simple/continuous contrast in Grade 5, and both boxes restated in Grade 6. Kazakhstan teaches both faces whole at Grade 5 in two series at once — the simple in full, the continuous in full, and the two contrasted — and sets them against each other again, stative verbs noted, in Grade 6's Full Blast!. Other closed countries join as their books are read
 (see READING-QUEUE.md).
 
 **Laos Grade 6 added 2026-10-27** — *English for Secondary

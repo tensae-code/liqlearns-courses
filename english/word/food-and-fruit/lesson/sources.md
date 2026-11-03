@@ -1,6 +1,6 @@
 # Sources — Food and fruit
 
-countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece
+countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
 
 Every part traces to its book and page.
 
@@ -112,6 +112,12 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 
 **Book 23:** Greece Think Teen! Beginners Student's Book, Grade 7: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Αγγλικά, Student's Book — Think Teen! 1st Grade of Junior High School, Student's Book (Αρχάριοι) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 24:** Kazakhstan Smiles 1 Pupil's Book, Grade 1: student book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 1 — Smiles 1 Pupil's Book for Kazakhstan Grade 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 25:** Kazakhstan English Language for Kazakhstan, Grade 3: pupil's book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 3 — English Language for Kazakhstan Grade 3, Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 26:** Kazakhstan Smiles for Kazakhstan, Grade 4: pupil's book (student book — cited from the with-covers copy of the 2019 edition) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 4 — Smiles for Kazakhstan Grade 4 Pupil's Book — SECOND FILE section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Listen and repeat: breakfast, lunch, dinner, eat, drink" — with the breakfast plate pictured: egg, cheese, beans, and a glass of milk | Egypt, Primary 1 Term 2, Unit 1 "My Week," p.15 |
@@ -141,9 +147,12 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Food sorted into healthy-eating groups: a food wheel and a labelled food pyramid — fats/oils/sweets at the top, then milk, meat-or-alternative, vegetable and fruit groups, breads & cereals at the base — with eighteen food flashcards: apple, chicken, bread, banana, cake, sweets, milk, cereal, meat, egg, fish, ice-cream, water, olive oil, juice, chips, salad, spaghetti | Greece, Beta English Grade 2 Workpack, Cycle B, B13 "Food and eating well," PDF pp.60–64 |
 | Party food at the supermarket, then making sandwiches: sequencing a potato-salad recipe and completing a Spanish omelette recipe | Greece, Αγγλικά Grade 4, Unit 9 "The School Party," pp.105–113 |
 | Food and snacks sorted by health — a healthy-eating quiz, food vocabulary sorted into "OK" and "be careful" groups, containers a slice/carton/packet/tin of, and the Food Guide Pyramid | Greece, Think Teen! Grade 7 Beginners, Unit 6, Lesson 1 "FOODstuff!," p.74 |
+| The first food set whole — milk, cheese, bananas, juice, eggs, chicken, apples, carrots, pears, onions, tomatoes — with the like frame at its centre: "I've got some milk for you! — I like milk. Yum!" against "I don't like eggs. Yuk!," polite asking ("Can I have some …?") and I'm hungry / I'm thirsty | Kazakhstan, Smiles 1 Pupil's Book, Grade 1, Module 5 "My Food," printed pp.60–73 |
+| Food and drinks as the health module's second set — apple, banana, broccoli, cake, carrot, cheese, chicken, chocolate, ice cream, juice, onion, orange, pear, popcorn, potato, rice, water — sorted by the CLIL work into food that is good and bad for our teeth, closing with a My 5 A Day poster | Kazakhstan, English Language for Kazakhstan Grade 3, Module 6 "Health," printed pp.68–79 |
+| Food and drinks in the healthy-world module: strange snacks, junk food against healthy food, and the container phrases that measure food — a bar of chocolate, a bottle of cola, a carton of juice, a jar of honey, a loaf of bread, a packet of peas, a pot of yogurt | Kazakhstan, Smiles for Kazakhstan Grade 4, Module 6 "Healthy World," printed pp.82–95 |
 
-**Acceptance count: taught in 10 countries (Bangladesh, Egypt,
-Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece).**
+**Acceptance count: taught in 11 countries (Bangladesh, Egypt,
+Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan).**
 Egypt carries the meals and the breakfast plate;
 Bangladesh carries the like-exchange and the healthy sorting;
 Palestine carries the fruit set with its a/an pair and the
@@ -155,6 +164,6 @@ set with counting, and two full vegetable sets with likes and
 dislikes; Iran carries favourite food and drink as the talk
 itself, and a country's eating habits sorted into a table;
 Sierra Leone carries foods categorised from a poem, and
-favourite foods as the pupils' own writing. Jordan carries the first food set with I like in Grade 1, two sets with Do you like…? in Grade 2, the picnic set with food shopping in Grade 4, and food with containers, prices and ordering in Grade 8; Greece carries the food pyramid with its eighteen flashcards in the Grade 2 Workpack, party shopping and sandwich-making in Grade 4, and foods sorted by health with their containers in Grade 7 Beginners; Other closed
+favourite foods as the pupils' own writing. Jordan carries the first food set with I like in Grade 1, two sets with Do you like…? in Grade 2, the picnic set with food shopping in Grade 4, and food with containers, prices and ordering in Grade 8; Greece carries the food pyramid with its eighteen flashcards in the Grade 2 Workpack, party shopping and sandwich-making in Grade 4, and foods sorted by health with their containers in Grade 7 Beginners; Kazakhstan carries the first food set with I like / I don't like in Grade 1 Smiles, a seventeen-word food and drink set sorted good and bad for teeth in its Grade 3 Express book, and healthy against junk food with the container phrases in Grade 4 Smiles; Other closed
 countries join as their
 books are read (see READING-QUEUE.md).

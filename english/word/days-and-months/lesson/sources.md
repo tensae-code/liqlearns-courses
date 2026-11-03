@@ -1,6 +1,6 @@
 # Sources — Days and months
 
-countries: Bangladesh, Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece
+countries: Bangladesh, Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
 
 Every part traces to its book and page.
 
@@ -67,6 +67,12 @@ english/books/jordan.md (Grade 6 Activity Book Semester 2 section, FULLY READ + 
 
 **Book 14:** Greece Αγγλικά (Anglika), Grade 4: Student's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 4 — Αγγλικά (Anglika), Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 15:** Kazakhstan Smiles for Kazakhstan, Grade 3: pupil's book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 3 — Smiles for Kazakhstan (Grade 3) Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 16:** Kazakhstan English Plus, Grade 5: student's book (student book) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 5 — English Plus Grade 5 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 17:** Kazakhstan Top Stars for Kazakhstan, Grade 4: student's book (student book) — Kazakhstan, MM Publications. Filed in english/books/kazakhstan.md (Grade 4 — Top Stars for Kazakhstan Grade 4 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "How many days are there in a week?" — "There are 7 days in a week"; the seven days listened and repeated Saturday-first (Egypt's school week); the list teaching after/before with arrows | Egypt, Primary 1 Term 2, Unit 1 "My Week," Lesson 1 "Days of the Week," p.6 |
@@ -93,9 +99,13 @@ english/books/jordan.md (Grade 6 Activity Book Semester 2 section, FULLY READ + 
 | All twelve months, grouped by their seasons on four colour-and-cut banners: Spring (March, April, May), Summer (June, July, August), Autumn (September, October, November), Winter (December, January, February) — Greece teaches the months as well as the days, in full | Greece, Grade 2 Beta English Workpack, Cycle Γ, Γ09 "Happy birthday: seasons and months," PDF pp.111–115 (Spring banner, PDF p.112) |
 | The days carried by a school timetable: Andrew's weekly timetable read and compared, pupils writing their own timetable for a pen friend, and the days tested in the unit's self-assessment beside number arithmetic | Greece, Αγγλικά (Anglika) Grade 4 Student's Book, Unit 1, Lesson 2 "My timetable," printed pp.14–17 (timetable, printed p.14); self-assessment printed pp.19–20 |
 | The twelve months and the four seasons taught inside the time unit, opened by a party invitation — "Come to my birthday party! It's on Saturday May 3rd, at 7.30 p.m." — with present simple for what people do in particular months and seasons (*in* + month/season, *on* + day) | Greece, Αγγλικά (Anglika) Grade 4 Student's Book, Unit 4 "Time," Lesson 1 "Happy Birthday!," printed pp.45–49 (invitation, printed p.46); Lesson 2, printed pp.50–53 |
+| The days of the week taught inside the Time module — a Kazakh girl's day wheel (get up, have breakfast, go to school, come home, do homework, have dinner, watch TV, go to bed) turning on the week's days | Kazakhstan, Smiles for Kazakhstan Grade 3, Module 3 "Time," printed pp.34–47 ("Days of the Week," printed p.40) |
+| The twelve months named whole in the explorers module's Glossary set — January to December carried as one list in the book's trilingual Glossary | Kazakhstan, Smiles for Kazakhstan Grade 3, Module 6, printed pp.78–91; Glossary, printed pp.124–128 |
+| Days of the week in the sports unit, and months and seasons together in the values unit — the calendar words riding on the present simple of special days | Kazakhstan, English Plus Grade 5, Unit 2, printed pp.12–25; Unit 5, printed pp.54–67 |
+| The months as named vocabulary in the opening module, with ordinal numbers 1st–100th beside them and numbers 0–1,000 in the same CLIL maths slot — months and their order-numbers taught together | Kazakhstan, Top Stars for Kazakhstan Grade 4, Module 1, printed pp.6–17 |
 
-**Acceptance count: taught in 9 countries (Bangladesh,
-Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece).** Egypt
+**Acceptance count: taught in 10 countries (Bangladesh,
+Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan).** Egypt
 carries the days first (its school-week
 order, Saturday-first); Bangladesh carries the days on a
 Sunday-first calendar, the months with their ordinal numbers,
@@ -111,7 +121,7 @@ working in Persian-calendar months; Sierra Leone carries the
 days only, named from word cards and ordered in a story. The
 books start the printed week on different days — the lesson
 shows each, per the standing rule for when books differ.
-Jordan carries the days listened to and circled in its first Learning Club, the days with the week's activities and the months by seasons in Grade 3, and the thirty-days rhyme completed with month names in Grade 6; Greece carries both halves in full — the seven days acted by snowmen and traced as cut-out cards in Grade 2, all twelve months grouped by their seasons in the same pack, then the days on a Grade 4 school timetable and the months inside its Grade 4 time unit; Other closed countries join as their books are read (see
+Jordan carries the days listened to and circled in its first Learning Club, the days with the week's activities and the months by seasons in Grade 3, and the thirty-days rhyme completed with month names in Grade 6; Greece carries both halves in full — the seven days acted by snowmen and traced as cut-out cards in Grade 2, all twelve months grouped by their seasons in the same pack, then the days on a Grade 4 school timetable and the months inside its Grade 4 time unit; Kazakhstan carries the days inside its Grade 3 Smiles Time module and all twelve months in the same book's Glossary, days and months-and-seasons in Grade 5 English Plus, and the months with ordinals 1st–100th in Grade 4 Top Stars; Other closed countries join as their books are read (see
 READING-QUEUE.md).
 
 **Laos Grade 4 added 2026-10-27** — *English for Lao Primary

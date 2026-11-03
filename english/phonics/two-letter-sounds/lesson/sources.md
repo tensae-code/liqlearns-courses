@@ -1,6 +1,6 @@
 # Sources for this lesson — Two-letter sounds
 
-countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece
+countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The two-letter sets lived inside the alphabet
@@ -42,8 +42,13 @@ single letters.
 | Word-ending sounds as a pronunciation set closing the lesson: **/ŋ/** and the **-s** endings **/s/–/z/–/ɪz/** | Greece — Think Teen! Grade 8 Advanced Workbook, Unit 1, Lesson 1 "People and Places" (Unit 1, printed pp.6–21; lesson opens printed p.6) |
 | **-ed pronunciation** separated out as its own work, beside the lie / lay confusion | Greece — Think Teen! Grade 8 Advanced Workbook, Unit 2, Lesson 4 "Mysteries of Our World" (Unit 2, printed pp.22–35; lesson opens printed p.22) |
 | **Silent-letter pronunciation work** closing the lesson — the lesson's last strand | Greece — Think Teen! Grade 8 Advanced Workbook, Unit 7, Lesson 21 "Friends without Frontiers" (Unit 7, printed pp.104–117; lesson opens printed p.114) |
+| **th** in both its values as one phonics slot — voiced /ð/ (brother, that) against unvoiced /θ/ (three, Thelma); and the r-controlled pairs **ir / or** (shirt, skirt; short) | Kazakhstan — Top Stars Grade 3 Student's Book, Module 3, printed pp.32–41; Module 4, printed pp.44–53 |
+| **ch / sh** as one phonics slot — ch /tʃ/ (cheese, chicken) and sh /ʃ/ (fish) | Kazakhstan — Top Stars Grade 3 Student's Book, Module 6, printed pp.68–77 |
+| A full digraph strand, one set per unit: **ch, sh** · **th** and plural endings · **ea, ee, ir, or** · **ng, ai, ay, th** /θ/ · **oo, ar, ow, ou** · **wh** — the Syllabus's own phonics map, unit by unit | Kazakhstan — English for Kazakhstan Grade 3 Pupil's Book, Unit 2, printed pp.20–33; Unit 3, printed pp.34–47; Unit 4, printed pp.48–61; Unit 5, printed pp.62–75; Unit 7, printed pp.90–103; Unit 8, printed pp.104–117 |
+| One pair per module in the Sounds and Words strand: **ch** (cheek, touch, chocolate, cheese, cherries, chicken, chips) · **sh** (ship, fish, shell) · **ow / ou** (town, clown, cow; house, around, mouse, mouth) · **ee / ea** (queen, bee, week, seeds; leave, leaf, season) | Kazakhstan — English Language for Kazakhstan Grade 4 Pupil's Book, Module 5, printed pp.56–67; Module 6, printed pp.68–79; Module 7, printed pp.80–91; Module 8, printed pp.92–103 |
+| The second Top Stars year: **ea / ee** (reads, eats; feeds) · **ng / nk** (dancing; pink) · **ar / or** (shark, park; horse) · **ow** in both its sounds (window, slowly against cow, down); and **silent letters** (Wednesday, night, half, ballet) as the Module 7 phonics slot | Kazakhstan — Top Stars Grade 4 Student's Book, Module 2, printed pp.18–27; Module 3, printed pp.30–39; Module 6, printed pp.66–75; Module 8, printed pp.90–99; Module 7, printed pp.78–87 |
 
-**Acceptance count: taught in 9 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece).**
+**Acceptance count: taught in 10 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan).**
 China adds the first r-controlled-vowel ladder taught as a named
 system (Grade 4 Volume 2), a run of one-pair-per-page Let's spell
 lessons across Grades 5–6 (ea/ee, ow/ou, oo, ch/sh, th, ng/nk,
@@ -63,7 +68,12 @@ edges of this lesson, taught as pronunciation sets in
 secondary books: an s/sh tongue-twister in the Grade 7
 Beginners Teacher's Book, and the -s and -ed ending
 sounds and silent-letter work in the Grade 8 Advanced
-Workbook.
+Workbook. Kazakhstan joins 2026-11-03 with the full
+strand Greece lacks: four of its primary series run a
+phonics slot in every module, and the pairs themselves
+— th in both values, ch/sh, ea/ee, ir/or, ar, ng/nk,
+ow/ou, oo and wh — are taught as spelling-sound sets in
+Grades 3 and 4.
 Counts grow as other closed countries' books are read.
 
 **Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
@@ -329,3 +339,40 @@ Teen! books and no phonics system in the primary books
 beyond one key word and a rhyme per letter, and no Greek
 book presents ch, sh, th, ee, oo, ai, ow/ou or ng as
 spelling pairs to be learned as pairs.
+
+**Kazakhstan added 2026-11-03** — four books stock this
+lesson: **Book:** *Top Stars for Kazakhstan — Student's
+Book 3* (student book) — Kazakhstan, MM Publications,
+© 2024, ISBN 978-618-05-7217-9. **Book:** *English for
+Kazakhstan Grade 3 — Pupil's Book* (student book) —
+Kazakhstan, Macmillan Education (no ISBN and no year
+printed in the book). **Book:** *English Language for
+Kazakhstan Grade 4* (student book) — Kazakhstan,
+Express Publishing, first published 2025, ISBN
+978-1-3992-1420-9. **Book:** *Top Stars for Kazakhstan
+— Student's Book 4* (student book) — Kazakhstan, MM
+Publications, © 2024, ISBN 978-618-05-7570-5. All filed
+in english/books/kazakhstan.md (Grade 3 — Top Stars and
+English for Kazakhstan; Grade 4 — English Language and
+Top Stars sections, FULLY READ + CITATION CHECK PASSED
+2026-11-03). Where Greece has no digraph strand at all,
+Kazakhstan's primary series run one as a system: every
+module carries a phonics slot, and the slots are this
+lesson's pairs. Top Stars Grade 3 teaches th in both
+values in one slot (Module 3, printed pp.32–41), ir/or
+in the next (Module 4, printed pp.44–53) and ch/sh in
+Module 6 (printed pp.68–77). The Macmillan Grade 3
+book's Syllabus maps a set per unit across the year —
+ch/sh, th, ea/ee with ir/or, ng/ai/ay with the second
+th, oo/ar/ow/ou, and wh (Units 2–8, printed
+pp.20–117). The two Grade 4 books continue the run:
+the Express book works ch, sh, ow/ou and ee/ea one pair
+to a module (Modules 5–8, printed pp.56–103), and Top
+Stars Grade 4 works ea/ee, ng/nk, ar/or and the two
+sounds of ow, closing its Module 7 slot on silent
+letters (Modules 2–8, printed pp.18–99). (The same
+books' single-letter sounds and short-vowel drills,
+and the Express Grade 4 book's a_e / i_e sets, are not
+filed here — single sounds and vowel patterns are not
+letter pairs; and their consonant blends are a
+different thing and live in phonics/blends.)

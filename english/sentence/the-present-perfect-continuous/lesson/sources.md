@@ -1,6 +1,6 @@
 # Sources — The present perfect continuous
 
-countries: Egypt, Libya, Sierra Leone, Jordan, Greece
+countries: Egypt, Libya, Sierra Leone, Jordan, Greece, Kazakhstan
 
 Every part traces to its book and page.
 
@@ -41,6 +41,10 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 **Book 8:** Greece Αγγλικά (Anglika), Grade 6, Student's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 6 — Αγγλικά (Anglika), Student's Book, New Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 9:** Greece Think Teen!, Grade 9, Student's Book (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 10:** Greece Γενικά Αγγλικά (Genika Agglika), Grades 11–12 EPAL, Student's Book (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 11 (EPAL) — General English, Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 11:** Kazakhstan Excel for Kazakhstan, Grade 8: Student's Book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 8 — Excel for Kazakhstan, Grade 8 Student's Book (2018) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 12:** Kazakhstan Laser for Kazakhstan, Grade 8: Student's Book, B1 (student book) — Kazakhstan, Macmillan Education. Filed in english/books/kazakhstan.md (Grade 8 — Laser for Kazakhstan, Student's Book, B1 (Grade 8) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 13:** Kazakhstan Full Blast! for Kazakhstan, Grade 9: Student's Book (student book) — Kazakhstan, MM Publications. Filed in english/books/kazakhstan.md (Grade 9 — Full Blast! for Kazakhstan Grade 9 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 14:** Kazakhstan English Plus, Grade 9: Student's Book (student book) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 9 — English Plus Grade 9 Student's Book (Kazakhstan Edition) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -58,9 +62,13 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | Present Perfect Continuous with for / since — for (period) against since (starting point), on a 2003–2006 timeline diagram — taught in the same unit as its simple twin | Greece, Αγγλικά Grade 6, Unit 7, p.80 |
 | The since (point of time) / for (period) rule drawn from an internet-use article, then the formal Present Perfect Simple vs Continuous contrast — finished result against activity still in progress, worked in a “what have they been doing?” evidence game | Greece, Think Teen! Grade 9, Unit 4, Lessons 1–2, pp.37–48 (rule in Lesson 1, p.38; contrast, printed p.43) |
 | Present Perfect Simple against Past Simple and the Present Perfect Continuous, their uses matched to examples, in the holiday unit's language section | Greece, Γενικά Αγγλικά Grades 11–12 EPAL, Unit 2, pp.33–35 |
+| The present perfect continuous named as the daily-life module's Use of English point, inside its tense revision | Kazakhstan, Excel Grade 8, Module 2, printed pp.17–28 |
+| Present perfect simple against present perfect continuous as the entertainment module's grammar pair | Kazakhstan, Laser Grade 8, Module 3, printed pp.38–45 |
+| Present Perfect Simple set against Past Simple and against Present Perfect Continuous, practised on a blog about a day trip to Charyn Canyon | Kazakhstan, Full Blast! Grade 9, Module 3, section 3b, printed pp.65–88 |
+| The present perfect system completed in one unit — *just/still/already/yet*, *for/since*, present perfect against past simple, and the present perfect continuous | Kazakhstan, English Plus Grade 9, Unit 6, printed pp.68–79 |
 
-**Acceptance count: taught in 5 countries (Egypt,
-Libya, Sierra Leone, Jordan, Greece).** Libya meets the tense at Grade 8 inside a
+**Acceptance count: taught in 6 countries (Egypt,
+Libya, Sierra Leone, Jordan, Greece, Kazakhstan).** Libya meets the tense at Grade 8 inside a
 records lesson, names it for recent habits at Grade 9,
 and drills it as a full lesson with for/since at Grade
 10. Egypt states the complete box at Secondary 12 — the
@@ -71,7 +79,7 @@ inside its complete 12-tense system. Jordan teaches the
 tense at Grade 10 as one lesson with its simple twin —
 Present Perfect Simple and Continuous together — and
 contrasts it again inside Grade 12's whole continuous-
-and-perfect system. Greece teaches this tense earliest of all — at Grade 6 in primary, with for/since on a timeline — states the simple/continuous contrast formally at Grade 9, and matches the continuous form's uses to examples again in the EPAL book. Other closed countries join
+and-perfect system. Greece teaches this tense earliest of all — at Grade 6 in primary, with for/since on a timeline — states the simple/continuous contrast formally at Grade 9, and matches the continuous form's uses to examples again in the EPAL book. Kazakhstan brings the tense in at Grade 8 — named in Excel's tense revision and contrasted with its simple twin in Laser — and works the simple/continuous pair again at Grade 9 in both Full Blast! and English Plus. Other closed countries join
 as their books are read (see READING-QUEUE.md).
 
 **Laos checked — NOT stocked (series-final, 2026-10-27).**

@@ -1,6 +1,6 @@
 # Sources — The essay
 
-countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece
+countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan
 
 Every part traces to its book and page.
 
@@ -77,6 +77,25 @@ english/books/greece.md (Grades 11–12 — Αγγλικά 2,
 Student's Book section, FULLY READ + CITATION CHECK
 PASSED 2026-11-03).
 
+**Book 15:** Kazakhstan Excel for Kazakhstan, Grade 7:
+student's book, 2nd Edition (student book) — Kazakhstan,
+Express Publishing. Filed in english/books/kazakhstan.md
+(Grade 7 — Excel for Kazakhstan, Grade 7 Student's Book,
+2nd Edition (2025) section, FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
+**Book 16:** Kazakhstan English Plus, Grade 9: student's
+book (student book) — Kazakhstan, Oxford University Press.
+Filed in english/books/kazakhstan.md (Grade 9 — English
+Plus Grade 9 Student's Book (Kazakhstan Edition) section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 17:** Kazakhstan Full Blast!, Grade 9: student's
+book (student book) — Kazakhstan, MM Publications. Filed in
+english/books/kazakhstan.md (Grade 9 — Full Blast! for
+Kazakhstan Grade 9 Student's Book section, FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The essay's definition — "an essay is a piece of writing that usually has five or more paragraphs, about one topic with several main points" — and the GENERAL ESSAY STRUCTURE table: Introduction ("it tells what your topic and main ideas are"); Topic 1/2/3 ("state your points/arguments, explore both sides of debate in a better answer"); Conclusion ("the same information as the introductory paragraph, written from a different perspective") | Bolivia compendium, the essay-structure grammar/writing section (as filed) |
@@ -98,8 +117,12 @@ PASSED 2026-11-03).
 | The opinion essay fully scaffolded at Lykeio entry: a 120–150-word essay for the school magazine on banning animal-tested cosmetics, with a five-paragraph plan (introduction, two viewpoint paragraphs, opposing viewpoint, conclusion restating the opinion), a linking-word bank organised by function and a tips checklist — then a second essay on the same scaffold | Greece, Grade 10 Student's Book, Unit 5, Writing, printed pp.61–63 |
 | The for-and-against essay as the same book's capstone: 200–240 words on whether social networking has improved relationships, built on topic analysis, a points table, a four-paragraph plan, the book's largest linking-word bank and a formal-style checklist | Greece, Grade 10 Student's Book, Unit 8, Writing, printed pp.110–112 |
 | The problem–solutions essay as the senior book's taught genre: write an essay of 180–220 words suggesting ways to deal with addiction, for the school magazine, with topic-analysis questions, a five-paragraph suggestions/solutions plan and a linking-language bank (listing, suggesting, contrasting, exemplifying, expected results, concluding) | Greece, Grades 11–12 Student's Book, Unit 5, printed pp.78–79 |
+| The for-and-against essay as a module's writing outcome: "Is the Internet good or bad?" — the issue argued from both sides | Kazakhstan, Excel Grade 7 Student's Book (2nd Edition), Module 2, printed pp.17–28 |
+| The problem-and-solutions essay in the same course: an essay stating a problem and offering solutions, "Smog in the city" | Kazakhstan, Excel Grade 7 Student's Book (2nd Edition), Module 4, printed pp.41–52 |
+| The discussion essay and the opinion essay as successive units' writing outcomes at the top of the school | Kazakhstan, English Plus Grade 9 Student's Book, Units 2–3, printed pp.20–43 |
+| The opinion essay taught with two opposed models: two model essays on "Social media have made our lives better. Do you agree?", topic-sentence teaching and a full PLAN | Kazakhstan, Full Blast Grade 9 Student's Book, Module 9, printed pp.223–246 |
 
-**Acceptance count: taught in 6 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece).**
+**Acceptance count: taught in 7 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan).**
 Bolivia defines the essay and tables its general structure
 whole; Ghana grows the writing process to the essay's
 scale with the outline as its planning tool. Indonesia
@@ -118,7 +141,13 @@ word-counted, fully scaffolded Lykeio writing — an
 opinion essay and a for-and-against essay at Grade 10,
 each with a paragraph plan, a function-organised
 linking bank and a checklist, and a problem–solutions
-essay at Grades 11–12 with its own five-paragraph plan.
+essay at Grades 11–12 with its own five-paragraph plan;
+Kazakhstan teaches the essay as a modelled, planned
+genre across its parallel series — a for-and-against
+essay and a problem-and-solutions essay at Grade 7,
+discussion and opinion essays at Grade 9, and two
+opposed model opinion essays with a full PLAN closing
+its other Grade 9 course.
 Other finished
 countries join as their books are read (see
 READING-QUEUE.md).

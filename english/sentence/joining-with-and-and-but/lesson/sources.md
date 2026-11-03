@@ -1,6 +1,6 @@
 # Sources — Joining with and and but
 
-countries: Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece
+countries: Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
 
 Every part traces to its book and page.
 
@@ -70,6 +70,9 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 13:** Greece Think Teen!, Grade 9, Student's Book (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 14:** Greece Think Teen!, Grade 9, Teacher's Book (teacher's book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 15:** Greece Γενικά Αγγλικά (Genika Agglika), Grade 10 EPAL, Student's Book (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 10 (EPAL) — General English, Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 16:** Kazakhstan English Plus, Grade 5: Student's Book (student book) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 5 — English Plus Grade 5 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 17:** Kazakhstan Excel for Kazakhstan, Grade 5: Student's Book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 5 — Excel for Kazakhstan Grade 5, Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 18:** Kazakhstan Full Blast! for Kazakhstan, Grade 6: Student's Book (student book) — Kazakhstan, MM Publications. Filed in english/books/kazakhstan.md (Grade 6 — Full Blast! for Kazakhstan, Grade 6 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -90,8 +93,11 @@ CITATION CHECK PASSED 2026-11-03).
 | Linking words carrying a model postcard — because, as, although, but, so — as the lesson's linking work | Greece, Think Teen! Grade 9, Unit 1, Lesson 3, p.10 |
 | The same postcard linkers in the teacher's book — but, although, because, so, and — worked beside the Past Simple / Past Continuous and gerund practice | Greece, Think Teen! Grade 9 Teacher's Book, Unit 1, pp.2–12 |
 | Cause-and-effect connectors — because, as, although, but — presented in the environment unit's language section, beside the 3rd conditional | Greece, Γενικά Αγγλικά Grade 10 EPAL, Unit 9, Section E, p.144 |
+| The joiners as the writing point of the people-description lesson — *and, but, or* for describing people in a photo, written for a blog | Kazakhstan, English Plus Grade 5, Unit 4, printed pp.40–53 |
+| The linkers named as the stories module's whole language focus — *and, but, because, so* — worked through the Pushkin, Robin Hood and Kazakh myth retellings | Kazakhstan, Excel Grade 5, Module 6, printed pp.75–84 |
+| Linking words named as a lesson point — *and, but, or, so, because* — in the volunteering lesson, with an email giving news and a correction-code editing task | Kazakhstan, Full Blast! Grade 6, Module 2, section 2e, printed pp.40–57 |
 
-**Acceptance count: taught in 9 countries (Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece).**
+**Acceptance count: taught in 10 countries (Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan).**
 Ghana opens the compound sentence with AND, seats BUT
 beside it, lists the four coordinators, and widens the
 family in its own order; Bolivia posts the but/however
@@ -105,7 +111,7 @@ at Primary 5 and states sentence combining at senior
 level; Jordan joins likes with and/too, but and or in
 Grade 2, joins habits with and/but in Grade 3, and
 links a profile with and/but/so/because in Grade 8.
-Greece joins with so / because at Grade 6, carries a postcard on because, as, although, but and so at Grade 9 (the teacher's book adds and to the set), and presents because, as, although, but as cause-and-effect connectors at Grade 10 EPAL. Other closed countries join as their books are
+Greece joins with so / because at Grade 6, carries a postcard on because, as, although, but and so at Grade 9 (the teacher's book adds and to the set), and presents because, as, although, but as cause-and-effect connectors at Grade 10 EPAL. Kazakhstan works and / but / or as the writing point of a Grade 5 description lesson, names and, but, because, so as a whole stories module's language focus, and lists the five linkers — and, but, or, so, because — as a Grade 6 lesson point. Other closed countries join as their books are
 read (see READING-QUEUE.md).
 
 **Laos Grade 5 added 2026-10-27** — *Student's Book 3, Grade 5*

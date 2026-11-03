@@ -1,6 +1,6 @@
 # Sources — Finding the idea of a text
 
-countries: Bangladesh, Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece
+countries: Bangladesh, Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
 
 Every part traces to its book and page.
 
@@ -87,6 +87,25 @@ english/books/greece.md (Grades 11–12 — Αγγλικά 2,
 Student's Book section, FULLY READ + CITATION CHECK
 PASSED 2026-11-03).
 
+**Book 17:** Kazakhstan Excel for Kazakhstan, Grade 6:
+Student's Book + bound-in Workbook & Grammar Book
+(student book) — Kazakhstan, Express Publishing. Filed in
+english/books/kazakhstan.md (Grade 6 — Excel for Kazakhstan
+Grade 6 section, FULLY READ + CITATION CHECK PASSED
+2026-11-03).
+
+**Book 18:** Kazakhstan English Plus, Grade 9: student's
+book (student book) — Kazakhstan, Oxford University Press.
+Filed in english/books/kazakhstan.md (Grade 9 — English
+Plus Grade 9 Student's Book (Kazakhstan Edition) section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 19:** Kazakhstan Full Blast!, Grade 9: student's
+book (student book) — Kazakhstan, MM Publications. Filed in
+english/books/kazakhstan.md (Grade 9 — Full Blast! for
+Kazakhstan Grade 9 Student's Book section, FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Paragraph Development — the four modes named (expository, narrative, description, argument); "main idea vs supporting details; cohesive devices" — the weighing itself, named as the reading skill | Ghana, NaCCA JHS curriculum, Strand (Paragraph Development, as filed) |
@@ -111,9 +130,12 @@ PASSED 2026-11-03).
 | A heading found for each part of a text: the four-part fast-fashion article read as a jigsaw, then headings matched to its parts — each part carried down to the heading that holds it | Greece, Grade 10 Student's Book, Unit 6, printed p.72 |
 | Paragraph-title matching at full scale: titles found for all ten numbered paragraphs of the social-media article, with paragraph-location questions beside them | Greece, Grade 10 Student's Book, Unit 8, Reading, printed pp.96–97 |
 | A heading assigned to each of a text's nine paragraphs — the paragraph-by-paragraph idea hunt worked on the teenage-alcohol article | Greece, Grades 11–12 Student's Book, Unit 5, printed p.70 |
+| Summarising practised as the literature module's own task work: the Oz, Peter Pan, dancing-birches and Er-Tostik texts carried down by summarising, beside ordering their events | Kazakhstan, Excel Grade 6 Student's Book, Module 7, printed pp.77–86 |
+| The paragraph-location task as a project in its own right: "Read Robots. Match questions 1–4 with paragraphs A–D" — each question sent to the paragraph that carries its answer | Kazakhstan, English Plus Grade 9 Student's Book, Project 9, printed p.115 |
+| Paraphrasing named and defined as a speaking skill, with its phrase bank ("In other words…") — the text's idea carried in the reader's own words | Kazakhstan, Full Blast Grade 9 Student's Book, Module 5, printed pp.119–142 |
 
-**Acceptance count: taught in 8 countries (Bangladesh,
-Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece).** Ghana names the weighing (main idea vs supporting
+**Acceptance count: taught in 9 countries (Bangladesh,
+Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan).** Ghana names the weighing (main idea vs supporting
 details) and the own-words law; Bangladesh sets the choice
 as a task; China hunts the idea by title-choice and by the
 one question a whole text answers, and names the
@@ -134,6 +156,11 @@ texts at Grade 10; Greece stocks the hunt in part — it
 never names the main idea, but it works the same weighing
 as gist questions and as heading and paragraph-title
 matching, part by part at Grade 10 and paragraph by
-paragraph at Grades 11–12.
+paragraph at Grades 11–12; Kazakhstan stocks the hunt in
+part — no read book names the main idea, but its Grade 6
+literature module practises summarising its story texts,
+its Grade 9 book matches questions to the paragraphs
+that carry them, and its other Grade 9 book defines
+paraphrasing, the idea carried in the reader's own words.
 Other closed countries join as their books are
 read (see READING-QUEUE.md).

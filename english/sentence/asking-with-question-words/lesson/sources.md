@@ -1,6 +1,6 @@
 # Sources — Asking with question words
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
 
 Every part traces to its book and page.
 
@@ -82,6 +82,9 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 15:** Greece Αγγλικά (Anglika), Grade 4, Student's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 4 — Αγγλικά (Anglika), Student's Book, New Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 16:** Greece Αγγλικά (Anglika), Grade 5, Pupil's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 5 — Αγγλικά (Anglika), Pupil's Book, Revised Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 17:** Greece Think Teen!, Grade 7 Beginners, Workbook (workbook) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 18:** Kazakhstan Excel for Kazakhstan, Grade 5: Student's Book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 5 — Excel for Kazakhstan Grade 5, Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 19:** Kazakhstan Top Stars for Kazakhstan, Grade 3: Student's Book (student book) — Kazakhstan, MM Publications. Filed in english/books/kazakhstan.md (Grade 3 — Top Stars for Kazakhstan Grade 3 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 20:** Kazakhstan Full Blast! for Kazakhstan, Grade 9: Student's Book (student book) — Kazakhstan, MM Publications. Filed in english/books/kazakhstan.md (Grade 9 — Full Blast! for Kazakhstan Grade 9 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -110,10 +113,14 @@ CITATION CHECK PASSED 2026-11-03).
 | Wh-questions gathered as the book's final self-assessment — forming Wh-questions with what, where, how often, how many, how much — after a classmate-interview project built on them | Greece, Αγγλικά Grade 4, Unit 10, Lesson 3, pp.125–129 (self-assessment, printed p.127) |
 | The question forms inside the full Present Simple system — do/does questions tabled with the affirmatives and negatives | Greece, Αγγλικά Grade 5, Unit 1, Lesson 2, p.20 |
 | Wh-questions as the grammar of the jobs lesson, the writing task withholding the job name for a partner to identify by questioning | Greece, Think Teen! Grade 7 Beginners Workbook, Unit 3, Lesson 3, p.31 |
+| Question words named as the world-of-work module's grammar point, beside subject and object pronouns | Kazakhstan, Excel Grade 5, Module 4, printed pp.45–56 |
+| Questions with *how* as the fantasy-world module's question point, over animals and their descriptions | Kazakhstan, Excel Grade 5, Module 7, printed pp.85–96 |
+| The question words *who / where / when / what* named as the holidays module's grammar, with *How do you get there?* and *How much is/are …?* beside them | Kazakhstan, Top Stars Grade 3, Module 8, printed pp.92–101 |
+| Question words taught whole at the top of the school — including preposition placement — with subject–object questions as the same lesson's second point | Kazakhstan, Full Blast! Grade 9, Module 2, printed pp.37–60 |
 
-**Acceptance count: taught in 10 countries (Bangladesh, Egypt,
+**Acceptance count: taught in 11 countries (Bangladesh, Egypt,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
-Jordan, Greece).** Mongolia tables the family with its answer
+Jordan, Greece, Kazakhstan).** Mongolia tables the family with its answer
 shapes; Bangladesh gives the words their voice; Egypt has
 drilled the questions and whole answers since the youngest
 books; China adds the words worked as whole units — where,
@@ -125,7 +132,7 @@ do/does, with its falling voice; Sierra Leone frames
 occasion talk on the six words and names them as the
 question mark's signals; Jordan
 drills what/who/how-old in Grade 1, when and how much
-in Grade 3, and How…? questions in Grade 5. Greece works how many / how much as a taught pair and what are you doing? at Grade 4, gathers the Wh- family in its Grade 4 final self-assessment, and sets wh-questions as a lesson's grammar in its Grade 7 Beginners workbook. Other closed countries join as their books are read
+in Grade 3, and How…? questions in Grade 5. Greece works how many / how much as a taught pair and what are you doing? at Grade 4, gathers the Wh- family in its Grade 4 final self-assessment, and sets wh-questions as a lesson's grammar in its Grade 7 Beginners workbook. Kazakhstan names question words as a module point at Grade 5, lists who / where / when / what at Grade 3, and teaches the family whole — preposition placement and subject–object questions included — at Grade 9. Other closed countries join as their books are read
 (see READING-QUEUE.md).
 
 **Laos Grade 4 added 2026-10-27** — *English for Lao Primary

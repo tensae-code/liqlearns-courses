@@ -1,6 +1,6 @@
 # Sources — Animals
 
-countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece
+countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
 
 Every part traces to its book and page.
 
@@ -96,6 +96,12 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 2 section, FULLY READ + C
 
 **Book 20:** Greece Think Teen! Beginners Student's Book, Grade 7: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Αγγλικά, Student's Book — Think Teen! 1st Grade of Junior High School, Student's Book (Αρχάριοι) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 21:** Kazakhstan Smiles 1 Pupil's Book, Grade 1: student book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 1 — Smiles 1 Pupil's Book for Kazakhstan Grade 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 22:** Kazakhstan Smiles for Kazakhstan, Grade 3: pupil's book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 3 — Smiles for Kazakhstan (Grade 3) Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 23:** Kazakhstan English Language for Kazakhstan, Grade 4: pupil's book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 4 — English Language for Kazakhstan Grade 4 Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The farm dialog (Noor and Ziad): "Look at the cow!" — "The cow is big." — "The duck is small." — "Do you see the horse?" — "The chicken is small." — "I love farm animals!" | Egypt, Primary 1 Term 1, Unit 5 "On the Farm," Lesson 1, p.85 |
@@ -124,10 +130,13 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 2 section, FULLY READ + C
 | The pet set on a Pet Show poster — horses, a bear, a dog, ducks/chicks, parrots, a squirrel, a cat, rabbits, a pig, a mouse — supporting the audio "I've got a lot of pets" | Greece, Beta English Grade 2 Workpack, Cycle B, B08 "Pets," PDF p.48 |
 | Pet and farm animals — goldfish, dog, cat, bird, iguana, sheep, cow, duck, tortoise — matched to what they do, with a riddle about a favourite animal (where it lives, what it looks like, what it eats and does); then the loggerhead sea turtle and the monk seal in fact statements, a fact-table guessing game for the giant panda, Sumatran tiger, brown bear and wolf, and an endangered-animals project | Greece, Αγγλικά Grade 4, Unit 6 "Animals," pp.69–80 |
 | Animals in danger as encyclopaedia entries — the timber wolf, the brown bear and the rhino, with height, weight, diet, pack/family life and hibernation — and can / can't for what animals can do | Greece, Think Teen! Grade 7 Beginners, Unit 4, Lesson 2 "In the wild!," p.46 |
+| The pet set for the youngest learners — rabbit, fish, cat, dog, mouse, tortoise, parrot, spider — presented whole: "This is my pet. It's a cat," with big/small asked about them and a pet-shop role play on I've got | Kazakhstan, Smiles 1 Pupil's Book, Grade 1, Module 4 "My Pets," printed pp.46–59 |
+| Animals as a whole opening module: a photo opener (elephant, snake, penguin), animal types — mammal, reptile or bird — present-simple riddles ("I live on land. I eat plants. What am I?"), and a true/false quiz on a snake's life; the Glossary's set is the full menagerie, from butterfly and eagle to giant pandas and sea lions | Kazakhstan, Smiles for Kazakhstan Grade 3, Module 1 "Animals," printed pp.4–17 |
+| Farm and wild animals with the places they live: camel, chicken, cow, crocodile, dolphin, duck, elephant, horse, goat, gorilla, lizard, penguin, polar bear, sheep, tiger, whale — their body parts named with them (body, ears, eyes, head, legs, mouth, nose, tail, teeth) and their habitats: jungle, ocean, polar region, steppe | Kazakhstan, English Language for Kazakhstan Grade 4, Module 6 "Animals," printed pp.68–79 |
 
-**Acceptance count: taught in 11 countries (Bangladesh, Egypt,
+**Acceptance count: taught in 12 countries (Bangladesh, Egypt,
 Libya, Palestine, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece).** Egypt carries the farm four with the first
+Sierra Leone, Jordan, Greece, Kazakhstan).** Egypt carries the farm four with the first
 size pair; Palestine carries the youngest learners' set;
 Bangladesh carries homes and foods as whole sentences; Libya
 carries the wild names inside its letter list; China carries
@@ -137,5 +146,5 @@ photographs and the farm in one whole scene; Indonesia
 carries the zoo set sorted into the five animal classes;
 Iran carries the endangered set and where each survives;
 Sierra Leone carries forest animals and where they are, and
-the article board set. Jordan carries the wild eight for the youngest learners, the pet set described by its parts with Jordan's own oryx, the farm and wild sets with can-questions, and the animals-in-danger set; Greece carries the guessing animals and the pet poster in the Grade 2 Workpack, the pet and farm set with the sea turtle and monk seal in Grade 4, and the animals-in-danger entries in Grade 7 Beginners; Other finished
+the article board set. Jordan carries the wild eight for the youngest learners, the pet set described by its parts with Jordan's own oryx, the farm and wild sets with can-questions, and the animals-in-danger set; Greece carries the guessing animals and the pet poster in the Grade 2 Workpack, the pet and farm set with the sea turtle and monk seal in Grade 4, and the animals-in-danger entries in Grade 7 Beginners; Kazakhstan carries the pet set with big/small in Grade 1 Smiles, a whole Animals module classifying mammal, reptile and bird with riddles in Grade 3 Smiles, and farm and wild animals with their body parts and habitats in its Grade 4 Express book; Other finished
 countries join as their books are read (see READING-QUEUE.md).

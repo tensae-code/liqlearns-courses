@@ -1,6 +1,6 @@
 # Sources — The passive
 
-countries: Egypt, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece
+countries: Egypt, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
 
 Every part traces to its book and page.
 
@@ -87,6 +87,10 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 **Book 18:** Greece Think Teen!, Grade 9, Student's Book (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 19:** Greece Αγγλικά 1 (Anglika 1), Grade 10, Student's Book (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 10 — Αγγλικά 1 Γενικού Λυκείου, Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 20:** Greece Αγγλικά 2 (Anglika 2), Grades 11–12, Student's Book (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grades 11–12 — Αγγλικά 2, Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 21:** Kazakhstan Excel Grade 7: Student's Book, 2nd Edition (2025) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 7 — Excel for Kazakhstan, Grade 7 Student's Book, 2nd Edition (2025) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 22:** Kazakhstan English Plus Grade 8: Student's Book (Kazakhstan edition) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 8 — English Plus Grade 8 Student's Book (Kazakhstan edition) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 23:** Kazakhstan Laser B1+ Grade 9: Student's Book — Kazakhstan, Macmillan Education. Filed in english/books/kazakhstan.md (Grade 9 — Laser B1+ for Kazakhstan, Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 24:** Kazakhstan Full Blast! Grade 9: Student's Book — Kazakhstan, MM Publications. Filed in english/books/kazakhstan.md (Grade 9 — Full Blast! for Kazakhstan Grade 9 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -125,9 +129,13 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | The passive formed once in the single-stream book — be + past participle, the doer need not be named — mined from a riddle text about the potato, with Greek and English passives compared (a consolidation at the Grade 8 Advanced level, not an advance on it) | Greece, Think Teen! Grade 9, Unit 8, Lesson 2, pp.90–91 |
 | The passive noticed from a research article — results being wasted, guidelines being welcomed, procedures being started — and stated as how a passive differs from an active and when it is chosen; a second text must then be explained without passive sentences, to show what the passive is doing | Greece, Αγγλικά 1 Grade 10, Unit 5, p.55 |
 | The full passive system in the Lykeio ceiling book: passives underlined in the artist biographies, converted to active, and studied in a tense-by-tense passive formation table | Greece, Αγγλικά 2 Grades 11–12, Unit 3, p.49 |
+| The passive arriving at Grade 7: the present simple passive and the past simple passive taught as application work, with *by +* agent against *with +* instrument | Kazakhstan, Excel Grade 7, Module 6, printed pp.63–74 |
+| The passive in its simple forms: the present passive, the past passive and passive questions — English Plus's passive stops here, with no causative and no impersonal passive | Kazakhstan, English Plus Grade 8, Unit 6, printed pp.68–79 |
+| The passive extended by the grammar database: the present and past passives with the two patterns passive sentences can take — including the say/believe pattern — alongside modal and perfect passives | Kazakhstan, Laser B1+ Grade 9, Module 5, printed pp.56–63 |
+| The passive system tabled whole at Grade 9: all tenses, the modal passive, sentences with two objects, the continuous passive and the impersonal passive | Kazakhstan, Full Blast! Grade 9, Module 6, printed pp.143–166 |
 
-**Acceptance count: taught in 10 countries (Egypt,
-Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece).** Mongolia discovers the shape from the
+**Acceptance count: taught in 11 countries (Egypt,
+Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan).** Mongolia discovers the shape from the
 Edison pair, drills by + agent in its inventions unit,
 and spreads the present/past/future coats in its clothing
 unit and reference. Libya prints the full five-tense
@@ -153,7 +161,7 @@ passive of making at Grade 6, present and past simple
 passives together at Grade 7, the passive lesson at
 Grade 10, infinitive/gerund and impersonal forms at
 Grade 11, and the whole tense system with its reasons
-at Grade 12. Greece opens the passive with the present simple form at Grade 6, gives the past form and the by-agent their systematic treatment at Grade 8 Advanced (Grade 9's single formation is consolidation at that level, not an advance), notices the passive's choice against the active at Grade 10, and tables the full tense-by-tense system in Αγγλικά 2. Other closed countries join as their
+at Grade 12. Greece opens the passive with the present simple form at Grade 6, gives the past form and the by-agent their systematic treatment at Grade 8 Advanced (Grade 9's single formation is consolidation at that level, not an advance), notices the passive's choice against the active at Grade 10, and tables the full tense-by-tense system in Αγγλικά 2. Kazakhstan brings the passive in at Grade 7 (Excel's present and past simple passive, by against with), works it in English Plus Grade 8's simple forms alone — its passive stops there, with no causative and no impersonal passive — and completes it at Grade 9, where Laser adds the two sentence patterns including say/believe and Full Blast! tables the whole system: continuous, perfect, modal and impersonal forms; no primary book in the set teaches it at all. Other closed countries join as their
 books are read (see READING-QUEUE.md).
 
 **Laos Grade 9 added 2026-10-27** — *English for Secondary

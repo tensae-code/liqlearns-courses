@@ -1,6 +1,6 @@
 # Sources for this lesson — Blends
 
-countries: Egypt, China, Iran, Jordan
+countries: Egypt, China, Iran, Jordan, Kazakhstan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -27,8 +27,10 @@ pictures).
 | Opening blends **cl / fl / sl** on one phonics lesson — clean, cliff; flag, flip flop; sleep, slug | Jordan — Team Together Grade 3 Pupil's Book, Semester 2, Unit 6, printed pp.16–23 |
 | Opening blends **cr / fr / gr** on one phonics lesson — crab; frog; green (the Activity Book adds grapes, Friday, grey, crocodile, fruit for fr/gr) | Jordan — Team Together Grade 3 Pupil's Book, Semester 2, Unit 8, printed pp.32–39 |
 | Three-letter opening sounds **str / spr / scr** in the Grade 7 phonics line, tabulated in the semester's Scope and sequence | Jordan — Team Together Grade 7 Teacher's Book, Semester 1, Scope and sequence, TB pp.2–3 |
+| Opening consonant blends taught as a named Sounds set — **bl, br, cl, gr, pl** — the module's whole phonics slot, with sight words beside it | Kazakhstan — English Language for Kazakhstan Grade 4 Pupil's Book, Module 2 "My World," printed pp.18–29 |
+| **l** blends as the module's phonics slot — **pl** (plane), **bl** (black, blue), **fl** (fly) — named "l blends" in the country file | Kazakhstan — Top Stars Grade 4 Student's Book, Module 4 "People and Jobs," printed pp.42–51 |
 
-**Acceptance count: taught in 4 countries (Egypt, China, Iran, Jordan).**
+**Acceptance count: taught in 5 countries (Egypt, China, Iran, Jordan, Kazakhstan).**
 China joins with blends taught two at a time on Let's spell
 pages in Grade 5 (cl/pl, gr/br) and sorted again in the
 end-of-primary grouping review (Grade 6 Volume 2). Iran joins
@@ -38,6 +40,10 @@ said (no added /e/), and checked with the digraphs at Review 3.
 Jordan joins with blends as the whole Grade 3 phonics strand —
 fourteen opening blends across five unit-closing phonics
 lessons — and the three-letter str/spr/scr in Grade 7.
+Kazakhstan joins with blends taught as named phonics slots
+in two of its Grade 4 series — a five-blend consonant set
+(bl, br, cl, gr, pl) in the Express book, and the l blends
+in Top Stars.
 Counts grow as other closed countries' books are read.
 
 ### Egypt — Primary 3 Term 1 (read 2026-10-25) — three-letter blends
@@ -141,3 +147,28 @@ sequence adds the three-letter opening sounds str/spr/scr
 beside tch and hard/soft c. (Unit 4's wh in Grade 3 Semester
 1 is a digraph, not a blend, and is filed in
 phonics/two-letter-sounds.)
+
+**Kazakhstan added 2026-11-03** — two books stock this
+lesson: **Book:** *English Language for Kazakhstan
+Grade 4* (student book) — Kazakhstan, Express
+Publishing, first published 2025, ISBN
+978-1-3992-1420-9. **Book:** *Top Stars for Kazakhstan
+— Student's Book 4* (student book) — Kazakhstan, MM
+Publications, © 2024, ISBN 978-618-05-7570-5. Both
+filed in english/books/kazakhstan.md (Grade 4 — English
+Language and Top Stars sections, FULLY READ + CITATION
+CHECK PASSED 2026-11-03). Kazakhstan's blends arrive
+in Grade 4, as named phonics slots in two series at
+once. The Express book's Module 2 Sounds slot is
+headed, in the country file's words, "consonant blends
+(bl, br, cl, gr, pl)" (Module 2, printed pp.18–29) —
+five opening blends taught as one set, with sight
+words beside them. Top Stars Grade 4 gives its Module
+4 phonics slot to the l blends — plane, black, blue,
+fly (Module 4, printed pp.42–51) — the pl, bl and fl
+of this lesson inside one module. No other blend set
+is recorded in the filed Kazakhstan read: the same
+books' other phonics slots are the digraphs and vowel
+pairs filed in phonics/two-letter-sounds, and the
+Grade 3 books' short-vowel drills are single sounds,
+not blends.

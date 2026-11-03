@@ -1,6 +1,6 @@
 # Sources — The alphabet
 
-countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece
+countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
 
 Every part traces to its book and page. The PDF of Libya's Pupils Book
 is one book page per PDF page, with the book page printed at the
@@ -84,6 +84,12 @@ including the alphabet strand) — Greece, ITYE
 pages are cited as PDF pages plus artwork codes. Filed in
 english/books/greece.md (Grade 2 — BETA ENGLISH section,
 FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 11:** Kazakhstan English Language for Kazakhstan, Grade 3: pupil's book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 3 — English Language for Kazakhstan Grade 3, Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 12:** Kazakhstan Top Stars for Kazakhstan, Grade 3: student's book (student book) — Kazakhstan, MM Publications. Filed in english/books/kazakhstan.md (Grade 3 — Top Stars for Kazakhstan Grade 3 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 13:** Kazakhstan English for Kazakhstan, Grade 3: pupil's book (student book) — Kazakhstan, Macmillan Education. Filed in english/books/kazakhstan.md (Grade 3 — English for Kazakhstan Grade 3 Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -269,8 +275,11 @@ spiral this is. Same country, second book: the count below does not
 change, but Libya's layer is now a *spiral* — taught in Grade 1,
 re-taught in Grade 2 — which is how the course itself says a
 sound is learned.
+| The alphabet taught in three letter groups across the first three modules of the Express Grade 3 book — a–h in Module 1, i–q in Module 2, r–z completing the strand in Module 3 — as its Sounds and Words strand, with a trilingual Glossary behind it and an Alphabet poster closing the book | Kazakhstan, English Language for Kazakhstan Grade 3, Modules 1–3, printed pp.6–41; Alphabet poster, PDF p.115 |
+| The alphabet as the opening lesson of the course: Lesson 1 "Alphabet" presents the letters A–L with their letter-name transcriptions, circling and matching upper- and lower-case forms, the alphabet then completed across the module's phonics slots | Kazakhstan, Top Stars Grade 3, Module 1, Lesson 1, printed p.6 |
+| A one-page "Learn the alphabet" presentation with the alphabet song, placed before Unit 1 begins — the alphabet sung and shown whole first, then met inside the units | Kazakhstan, English for Kazakhstan (Macmillan) Grade 3, printed p.5 |
 
-**Acceptance count: taught in 9 countries (Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece).**
+**Acceptance count: taught in 10 countries (Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan).**
 China joins through its Grade 3 Volume 1: the ABC song is placed
 before any letter teaching (Unit 1, p.6), and Recycle 2 adds a
 missing-letter sequence exercise (p.69) — the alphabet as a sung
@@ -297,7 +306,7 @@ Egypt joins for the sounds-way grouping. Greece joined
 2026-11-03: its Grade 2 Workpack carries the whole alphabet
 as a card-and-tracing-worksheet strand — all 26 letters, one
 key word and a rhyme per letter, in thematic order, with a
-song for every letter. Other closed countries join
+song for every letter. Kazakhstan joined 2026-11-03: three of its Grade 3 books teach the alphabet — the Express book in three letter groups (a–h, i–q, r–z) with an Alphabet poster at the back, Top Stars in its opening Alphabet lesson, and the Macmillan book on a "Learn the alphabet" page with the alphabet song; its Grade 1 Smiles book teaches no alphabet at all, and that limit is recorded in the country file. Other closed countries join
 as their first English books are read (see READING-QUEUE.md).
 
 **Laos Grade 3 added 2026-10-27** — *English for Primary Schools,

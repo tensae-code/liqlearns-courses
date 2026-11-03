@@ -1,6 +1,6 @@
 # Sources — Mine and yours
 
-countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan
+countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan
 
 Every part traces to its book and page.
 
@@ -64,6 +64,10 @@ Development (NCCD), Amman (Pearson Education / York
 Press originals). Filed in english/books/jordan.md (FULLY READ +
 CITATION CHECK PASSED 2026-11-03).
 
+**Book 12:** Kazakhstan English Language for Kazakhstan, Grade 4: Pupil's Book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 4 — English Language for Kazakhstan Grade 4 Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 13:** Kazakhstan Top Stars for Kazakhstan, Grade 4: Student's Book (student book) — Kazakhstan, MM Publications. Filed in english/books/kazakhstan.md (Grade 4 — Top Stars for Kazakhstan Grade 4 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 14:** Kazakhstan Excel for Kazakhstan, Grade 5: Student's Book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 5 — Excel for Kazakhstan Grade 5, Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 4 "That's Mine" — its objectives seat the genitive 's, possessive adjectives, and possessive pronouns as one ownership unit | Mongolia, English VI, Unit 4 (opens p.41) |
@@ -81,8 +85,13 @@ CITATION CHECK PASSED 2026-11-03).
 | The partner rung worked as whole sentences — possessive adjectives our/your/their: "Our glasses are blue / Your keys are grey / Their phones are green" | Jordan, Team Together Grade 3, Pupil's Book, Semester 1, Unit 2, pp.16–23 |
 | WHOSE asked, and the alone forms answering — "Whose torch is this? It's mine. / It's his/hers.", as the unit's Talking about possession dialogue | Jordan, Team Together Grade 3, Pupil's Book, Semester 2, Unit 6, English in action, pp.16–23 |
 | The name-tag 's explained as of — the possessive shop names as a writing focus: "the greengrocer's shop = shop of the greengrocer" | Jordan, Team Together Grade 5, Pupil's Book, Semester 1, Unit 4, pp.42–51 |
+| Possessive pronouns named in the hobby module's grammar, beside subject and object pronouns and the two present tenses | Kazakhstan, English Language for Kazakhstan Grade 4, Module 3, printed pp.30–41 |
+| Possessive pronouns and adjectives together in the jobs module, beside the possessive case — the partner and alone forms in one module's map | Kazakhstan, English Language for Kazakhstan Grade 4, Module 4, printed pp.42–53 |
+| The *mine/yours* pair named in the hobby module's pronoun work, beside possessive adjectives and subject pronouns | Kazakhstan, Top Stars Grade 4, Module 3, printed pp.30–39 |
+| Possessive pronouns and adjectives named again in the inventions module, beside subject and object pronouns | Kazakhstan, Top Stars Grade 4, Module 8, printed pp.90–99 |
+| Possessive adjectives and pronouns as the living-things module's ownership point, inside the full *have got* work | Kazakhstan, Excel Grade 5, Module 2, printed pp.21–32 |
 
-**Acceptance count: taught in 8 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan).**
+**Acceptance count: taught in 9 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan).**
 Mongolia's "That's Mine" unit carries the whole lesson —
 the 's box, the whose matching, the three-rung box, the
 game; Egypt's youngest books hold the partner forms from
@@ -98,7 +107,11 @@ adjective as one contrast in Term 3; Jordan works the
 partner adjectives our/your/their in Grade 3, answers
 Whose…? with the standalone mine and his/hers in the
 same grade, and explains the 's shop names as of in
-Grade 5. Other closed countries join as their
+Grade 5; Kazakhstan names possessive pronouns at
+Grade 4 in two series at once — beside the possessive
+adjectives in the jobs module, and as the mine/yours
+pair in Top Stars — and pairs possessive adjectives
+and pronouns again at Grade 5. Other closed countries join as their
 books are read (see READING-QUEUE.md).
 
 **Laos Grade 7 added 2026-10-27** — *English for Secondary

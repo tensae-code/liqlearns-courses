@@ -1,6 +1,6 @@
 # Sources — Past actions
 
-countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece
+countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
 
 Every part traces to its book and page.
 
@@ -72,6 +72,10 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 13:** Greece Αγγλικά (Anglika), Grade 5, Pupil's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 5 — Αγγλικά (Anglika), Pupil's Book, Revised Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 14:** Greece Αγγλικά (Anglika), Grade 6, Student's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 6 — Αγγλικά (Anglika), Student's Book, New Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 15:** Greece Think Teen!, Grade 7 Advanced, Student's Book (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 16:** Kazakhstan Excel for Kazakhstan, Grade 5: Student's Book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 5 — Excel for Kazakhstan Grade 5, Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 17:** Kazakhstan English Plus, Grade 5: Student's Book (student book) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 5 — English Plus Grade 5 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 18:** Kazakhstan Smiles for Kazakhstan, Grade 4: Pupil's Book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 4 — Smiles for Kazakhstan Grade 4 Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 19:** Kazakhstan English Plus, Grade 6: Student's Book (student book) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 6 — English Plus Grade 6 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -98,10 +102,14 @@ CITATION CHECK PASSED 2026-11-03).
 | The Past Continuous for past actions in progress, framed by the fairy tale's storm scene, then Past Simple and Past Continuous together — interrupted actions with while / when | Greece, Αγγλικά Grade 5, Unit 8, Lessons 1–2, pp.98–105 (points, printed pp.100 and 104) |
 | Past Simple and Past Continuous introduced side by side in two grammar boxes, then the two combined in one sentence, with linking words (first, then, when, while, as, finally) | Greece, Αγγλικά Grade 6, Unit 4, pp.37–48 (boxes, printed p.40; combined rule, printed p.44) |
 | The narrative past rebuilt at Gymnasio: the Past Simple with dates and years, then the Past Continuous for background action in progress against the Past Simple for interrupting events | Greece, Think Teen! Grade 7 Advanced, Unit 4, Lessons 1–2 (lessons open printed pp.44 and 49) |
+| The past staged inside one module — *was/were*, *had* and *could* first, then the Past Simple of regular verbs (with *-ed* pronunciation) and of irregular verbs, *there was/were* between them | Kazakhstan, Excel Grade 5, Module 5, printed pp.57–74 |
+| The Past Simple as the closing unit's whole grammar — affirmative first, then its questions and negative forms | Kazakhstan, English Plus Grade 5, Unit 9, printed pp.104–111 (questions and negatives, printed p.109) |
+| The past simple taught for the first time in the Smiles series, in the myths-and-legends module, beside the infinitive and *-ing* forms | Kazakhstan, Smiles Grade 4, Module 2, printed pp.18–31 |
+| The Past Simple of regular and irregular verbs with its questions in the drama unit, then *was/were* and the regular past recycled with past time expressions in the final unit | Kazakhstan, English Plus Grade 6, Units 4 and 9, printed pp.44–55 and 104–115 |
 
-**Acceptance count: taught in 10 countries (Bolivia, Ghana,
+**Acceptance count: taught in 11 countries (Bolivia, Ghana,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
-Jordan, Greece).** Mongolia boxes the -ed frame and drills the
+Jordan, Greece, Kazakhstan).** Mongolia boxes the -ed frame and drills the
 movers by name; Bolivia states the whole paradigm including
 the Did/didn't law; Ghana seats the simple past where
 stories live; China adds the past staged regular first,
@@ -117,7 +125,7 @@ past regular-first for the senior exam; Jordan
 stages the past in Grade 4 — be first, then regular,
 then irregular — sets the past continuous against it
 in Grade 5, and re-teaches the simple past in Grade 8.
-Greece stages the past in Grade 5 — affirmative first, then negatives and questions, then the continuous and the two pasts together — combines the two boxes in Grade 6, and rebuilds the narrative past at Grade 7. Other closed countries join as their books
+Greece stages the past in Grade 5 — affirmative first, then negatives and questions, then the continuous and the two pasts together — combines the two boxes in Grade 6, and rebuilds the narrative past at Grade 7. Kazakhstan starts the lexical past at Grade 4 in Smiles (the other Grade 4 books stop at *was/were*), stages regular and irregular past inside one Grade 5 Excel module, and gives the tense its questions and negatives in both Grade 5 and Grade 6 English Plus. Other closed countries join as their books
 are read (see READING-QUEUE.md).
 
 **Laos Grade 6 added 2026-10-27** — *English for Secondary

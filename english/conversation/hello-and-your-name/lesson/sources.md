@@ -1,6 +1,6 @@
 # Sources for this lesson — Greetings
 
-countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece
+countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag.
@@ -41,6 +41,12 @@ side by side on one PDF page — that was wrong.
 | The name work at secondary entry, run as revision: personal-detail cards completed for yourself and a partner (name, surname, country, spelling), opened by David's own presentation — "Hi, everybody. I'm David, from England. I'm 12 years old" | Greece, Think Teen! Grade 7 Beginners, Student's Book, Unit 1 "Welcome!," printed pp.1–6 (David printed p.2) |
 | Self-introductions read, then written: four e-friend profiles, the first opening "Hello! I'm Magda from Nafplio, Greece. I'm 12 years old"; the workbook's profiles open "My name's Dorothy Edwards and I'm from England. I'm 12 years old," and its Unit 2 writing is an introductory e-mail | Greece, Think Teen! Grade 7 Beginners, Student's Book, Unit 2, Lesson 1 "Hello, there!," printed pp.8–9 (Magda printed p.9); Workbook, Unit 1, printed p.2; Unit 2, Lesson 1, printed p.8 |
 | The meeting as an online chat: the three main characters meet and introduce themselves — ages, schools, likes — before the country-and-nationality work | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, Unit 1, Lesson 2 "Internet Friends," printed pp.18–21 |
+| First greetings by name — the cartoon cast say hello and goodbye by name in the opener, and the first module practises the name exchange, opened by Lilly's cartoon: "Hello! I'm Lilly. This is my mummy." | Kazakhstan, Smiles 1 Pupil's Book, "Let's Start!," printed p.3; Module 1 "My Family," printed pp.4–17 ("What's your name?" printed p.4; "This is my mummy!" printed p.6) |
+| The name exchange inside "Greetings and Names," the opening presentation of the first module — "What's your name?" printed on the presentation page itself | Kazakhstan, English Language for Kazakhstan Grade 3 Pupil's Book, Module 1 "Hello, English!," printed pp.6–17 ("Greetings and Names," printed p.7) |
+| The identity set as one module's exchange list — "What's your name? — I'm … / My name is …", with "Where are you from?" beside it | Kazakhstan, Top Stars Grade 3 Student's Book, Module 1 "Hello English!," printed pp.6–17 |
+| The name exchange in the book's own Syllabus grammar map for its first unit — "What's your name? — I'm …", with the origin frame "Where are you from? — I'm from …" and "How do you spell?" beside it | Kazakhstan, English for Kazakhstan Grade 3 Pupil's Book, Unit 1 "Hello, English!," printed pp.6–19 (Syllabus, printed p.2) |
+| Names and spelling and greetings dialogues in the Starter unit; a year-band up, greetings and introductions again as Everyday English with personal questions | Kazakhstan, Excel Grade 5 Student's Book, Starter, printed pp.4–8; Module 2, printed pp.21–32 |
+| Meeting people as a named speaking slot — greetings and introductions — in the first unit, "Our class" | Kazakhstan, English Plus Grade 6 Student's Book, Unit 1, printed pp.8–19 ("Meeting people," printed p.14) |
 
 **Second country merged 2026-10-25 — Libya:**
 English for Libya, Pupils Book Grade 1 (CERC, Ministry of Education,
@@ -83,7 +89,7 @@ rendered page the same day).
 - Unit 1 "Greeting and Numbers," p. 14 (Hello/Hi, Goodbye/bye tracing;
   "What's your name? / My name's" tracing strips, p. 16).
 
-**Acceptance count: taught in 12 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece).**
+**Acceptance count: taught in 13 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan).**
 China adds name exchanges from its first primary page and the
 "Where are you from? — I'm from …" origin frame (Grades 3), plus
 five printed ways to say goodbye (Grade 6 Volume 2); North
@@ -106,6 +112,15 @@ and its Grade 7 Beginners stream — which starts from
 primary English, not from zero — re-runs the whole
 exchange as personal-detail cards, profiles and an
 introductory e-mail.
+Kazakhstan joined 2026-11-03: its Grade 1 book opens on
+hello and goodbye by name and runs "What's your name? —
+I'm …" through its first module, two of its Grade 3
+courses teach the exchange in their "Hello, English!"
+first modules — the Macmillan one adding "How do you
+spell?" and the origin frame — and its Grade 5 and
+Grade 6 books re-run greetings and introductions as
+Starter work and as a named "Meeting people" speaking
+slot.
 This lesson is the first layer. Courses are built from every CLOSED
 country's books (his ruling, 2026-11-03 — superseding the 2026-10-25
 finished-only rule), and updated as the library updates: when a
@@ -343,3 +358,43 @@ Unit 1, printed p.2; Unit 2, Lesson 1, printed p.8).
 Greece prints no "What's your name?" question form in
 the filed read — its exchange is the greeting plus the
 "I'm … / My name's …" answer, recorded here as printed.
+
+**Kazakhstan added 2026-11-03** — six books stock this lesson:
+**Book:** *Smiles 1 — Pupil's Book for Kazakhstan Grade 1*
+(student book) — Kazakhstan, Express Publishing, 2016,
+ISBN 978-1-4715-4507-8. **Book:** *English Language for
+Kazakhstan Grade 3* (student book) — Kazakhstan, Express
+Publishing, first published 2024, ISBN 978-1-3992-1415-5.
+**Book:** *Top Stars for Kazakhstan — Student's Book 3*
+(student book) — Kazakhstan, MM Publications, © 2024,
+ISBN 978-618-05-7217-9. **Book:** *English for Kazakhstan
+Grade 3 — Pupil's Book* (student book) — Kazakhstan,
+Macmillan Education (no ISBN and no year printed in the
+book). **Book:** *Excel for Kazakhstan Grade 5, Student's
+Book* (student book) — Kazakhstan, Express Publishing,
+ISBN 978-1-4715-5775-0. **Book:** *English Plus Grade 6
+Student's Book* (student book) — Kazakhstan, Oxford
+University Press, © 2018, ISBN 978-0-19-474386-0. All
+filed in english/books/kazakhstan.md (Grade 1 — Smiles 1;
+Grade 3 — English Language, Top Stars and English for
+Kazakhstan; Grade 5 — Excel; and Grade 6 — English Plus
+Student's Book sections, FULLY READ + CITATION CHECK
+PASSED 2026-11-03). Kazakhstan does not run one course:
+its Grade 1 Smiles book opens the whole library here —
+"Let's Start!" (printed p.3) has the cast say hello and
+goodbye by name, and Module 1 (printed pp.4–17) practises
+"What's your name? — I'm …" around Lilly's "Hello! I'm
+Lilly. This is my mummy." Two Grade 3 series open on a
+module named "Hello, English!": the Express book prints
+"Greetings and Names" and "What's your name?" on its
+opening presentation page (printed p.7), and Top Stars
+lists the exchange with the origin frame in its first
+module (printed pp.6–17); the Macmillan Grade 3 book's
+Syllabus maps the same exchange, the origin frame and
+"How do you spell?" for Unit 1 (printed pp.6–19). A year
+or two up, Excel Grade 5's Starter works names, spelling
+and greetings dialogues (printed pp.4–8) and its Module 2
+runs greetings and introductions as Everyday English
+(printed pp.21–32), and English Plus Grade 6 gives the
+meeting its own speaking slot, "Meeting people" (Unit 1,
+printed p.14).

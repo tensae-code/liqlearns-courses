@@ -1,6 +1,6 @@
 # Sources — Asking yes/no questions
 
-countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece
+countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
 
 Every part traces to its book and page.
 
@@ -91,6 +91,9 @@ CITATION CHECK PASSED 2026-11-03).
 
 **Book 17:** Greece Αγγλικά (Anglika), Grade 4, Student's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 4 — Αγγλικά (Anglika), Student's Book, New Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 18:** Greece Αγγλικά (Anglika), Grade 5, Pupil's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 5 — Αγγλικά (Anglika), Pupil's Book, Revised Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 19:** Kazakhstan Top Stars for Kazakhstan, Grade 3: Student's Book (student book) — Kazakhstan, MM Publications. Filed in english/books/kazakhstan.md (Grade 3 — Top Stars for Kazakhstan Grade 3 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 20:** Kazakhstan English Plus, Grade 5: Student's Book (student book) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 5 — English Plus Grade 5 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 21:** Kazakhstan English Plus, Grade 6: Student's Book (student book) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 6 — English Plus Grade 6 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -124,10 +127,16 @@ CITATION CHECK PASSED 2026-11-03).
 | The doing-now question with its short answers, in the reminder box: “Is Andrew setting the table? Yes, he is / No, he isn't” | Greece, Αγγλικά Grade 4, Unit 7, Lesson 1, pp.81–85 (box, printed p.83) |
 | Yes/no questions inside the full Present Simple paradigm — affirmative, negative and question forms for school life and routines, with the third-person -s/-es/-ies spelling changes | Greece, Αγγλικά Grade 5, Unit 1, Lesson 2, p.20 |
 | Past yes/no questions: did / didn't with short answers, and was/were questions, modelled on a mini-biography | Greece, Αγγλικά Grade 5, Unit 7, Lesson 2, p.92 |
+| The verb *be* in questions and short answers inside the family module, beside *have got* in all forms | Kazakhstan, Top Stars Grade 3, Module 3, printed pp.32–41 |
+| The present simple carried the full round — affirmative, negative, questions and short answers — over seasons, weather and clothes | Kazakhstan, Top Stars Grade 3, Module 4, printed pp.44–53 |
+| *Be* questions and short answers as the sports unit's question point, beside *be* negative | Kazakhstan, English Plus Grade 5, Unit 2, printed pp.12–25 |
+| Present Simple question forms as their own language-focus point in the world-of-work unit | Kazakhstan, English Plus Grade 5, Unit 6, printed pp.68–81 |
+| Present Simple questions named as a language-focus heading inside the heroes unit's daily-lives work | Kazakhstan, English Plus Grade 6, Unit 2, printed pp.20–31 (point, printed p.25) |
+| Present Continuous questions, set against the Present Simple, in the countryside unit | Kazakhstan, English Plus Grade 6, Unit 3, printed pp.32–43 |
 
-**Acceptance count: taught in 10 countries (Bangladesh,
+**Acceptance count: taught in 11 countries (Bangladesh,
 Bolivia, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece).** Bolivia boxes the do/does engine;
+Sierra Leone, Jordan, Greece, Kazakhstan).** Bolivia boxes the do/does engine;
 Mongolia works the be-swap on its doing-now questions;
 Bangladesh teaches the voice the question rides on; China
 adds the full shelf of shapes across its primary run — be,
@@ -140,7 +149,7 @@ voice; Sierra Leone makes the question by the be-swap,
 states the rising-voice rule, and forms and answers
 simple-present questions as a system; Jordan
 asks do, does, be, have-got and can yes/no questions
-with their short answers across Grades 2–3. Greece asks is there…? / are there…? and does it…? with their short answers at Grade 4, and tables the present and past question forms inside its Grade 5 systems. Other
+with their short answers across Grades 2–3. Greece asks is there…? / are there…? and does it…? with their short answers at Grade 4, and tables the present and past question forms inside its Grade 5 systems. Kazakhstan asks be questions with short answers at Grade 3, carries the present simple into questions and short answers there, and names Present Simple and Present Continuous questions as language-focus points in its Grade 5–6 English Plus books. Other
 closed countries join as their books are read (see
 READING-QUEUE.md).
 

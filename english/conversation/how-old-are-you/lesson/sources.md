@@ -1,6 +1,6 @@
 # Sources for this lesson — How old are you?
 
-countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece
+countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -26,8 +26,12 @@ Libya (Garnet) · Books verified on disk 2026-10-25.
 | Age as one item of the identity set a few years up — the Activity Book's Welcome matches and writes name, age, country and nationality ("What's your name? How old are you? Where are you from?") | Jordan — Team Together Grade 4 Activity Book, Semester 1, Welcome, printed pp.2–5 |
 | The age question as a lesson's own name — "How old are you?" — its printed sheets carrying the numbers one–ten as words to answer with: a caterpillar whose ten segments print the number words, and a read-and-colour list running "Number 1" to "Number 10" (this book is a printed workpack led by its audio, so its rows cite PDF pages; the question is the lesson's title in the pack's own map, and the age word is one of the three started lines of the self-profile that follows it) | Greece, Grade 2 Beta English Workpack, Cycle A, A05 "How old are you?," PDF pp.19–20; A06 "I am special," PDF pp.21–22 |
 | Age stated whole inside self-introductions, in the full "years old" form: "Hi, everybody. I'm David, from England. I'm 12 years old" and "Hello! I'm Magda from Nafplio, Greece. I'm 12 years old"; the workbook's profiles give Dorothy and Thomas as 12 and Christos as 13, and its e-mail writer Sarah as fourteen | Greece, Think Teen! Grade 7 Beginners, Student's Book, Unit 1, printed p.2; Unit 2, Lesson 1, printed p.9; Workbook, Unit 1, printed p.2; Unit 2, Lesson 1, printed p.8 |
+| The age question met with the second numbers set — numbers 1–5 on the module opener, then 6–10 with "How old are you?" (the book's grammar spine lists the question among its fixed frames, answered with "I'm …") | Kazakhstan, Smiles 1 Pupil's Book, Module 2 "My School," printed pp.18–31 |
+| Age worked out through birthday cakes: each child holds a sum, the pupil counts the candles, works out the age and completes "I'm ten." (the held Grade 2 file is the Activity Book, printed pp.4–92 only — this row cites its practice, not a Pupil's Book presentation) | Kazakhstan, Smiles 2 Activity Book, Unit 6 "Traditions and Customs," printed p.44 |
+| The age question in the first module's own exchange list — "How old are you?" between the name question and "Where are you from?", with numbers 1–10 behind it | Kazakhstan, Top Stars Grade 3 Student's Book, Module 1 "Hello English!," printed pp.6–17 |
+| The age exchange in the book's own Syllabus grammar map for its first unit — "How old are you? — I'm …", beside the name and origin frames | Kazakhstan, English for Kazakhstan Grade 3 Pupil's Book, Unit 1 "Hello, English!," printed pp.6–19 ("How old are you?" Syllabus, printed p.2) |
 
-**Acceptance count: taught in 9 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
+**Acceptance count: taught in 10 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 China teaches the exchange in the full "years old" form with
 candle counting (Grade 3 Volume 1) and later ties age to the
 birthday date (Grade 5 Volume 2); North Macedonia practises it
@@ -44,7 +48,13 @@ and prints the numbers one–ten to answer with, and its
 Grade 7 Beginners books state ages whole — "I'm 12 years
 old" — inside their self-introductions; unlike Sierra Leone
 above, Greece is counted because the question itself is its
-lesson title, not only an age stated in passing.
+lesson title, not only an age stated in passing. Kazakhstan
+joined 2026-11-03: the question itself is taught in three
+of its primary books — Smiles Grade 1 meets it with the
+numbers 6–10, and two Grade 3 series list the exchange in
+their first modules — and its Grade 2 Activity Book works
+the answer out through birthday-candle sums, in the short
+"I'm …" form throughout.
 Nicaragua's filed books ask names in their greeting
 material, not age — so it is not counted here; Sierra
 Leone's filed books likewise state a boy's age ("He is 10
@@ -191,3 +201,38 @@ Lesson 1, printed p.9), and the Workbook's profiles and
 e-mail state Dorothy 12, Thomas 12, Christos 13 and
 Sarah fourteen (Workbook, Unit 1, printed p.2; Unit 2,
 Lesson 1, printed p.8).
+
+**Kazakhstan added 2026-11-03** — four books stock this
+lesson: **Book:** *Smiles 1 — Pupil's Book for Kazakhstan
+Grade 1* (student book) — Kazakhstan, Express
+Publishing, 2016, ISBN 978-1-4715-4507-8. **Book:**
+*Smiles 2 — Activity Book for Kazakhstan Grade 2*
+(activity book; the held file is the Activity Book
+inside Pupil's Book covers, printed pp.4–92 only) —
+Kazakhstan, Express Publishing, 2017. **Book:** *Top
+Stars for Kazakhstan — Student's Book 3* (student
+book) — Kazakhstan, MM Publications, © 2024, ISBN
+978-618-05-7217-9. **Book:** *English for Kazakhstan
+Grade 3 — Pupil's Book* (student book) — Kazakhstan,
+Macmillan Education (no ISBN and no year printed in
+the book). All filed in english/books/kazakhstan.md
+(Grade 1 — Smiles 1; Grade 2 — Smiles 2 Activity Book;
+Grade 3 — Top Stars and English for Kazakhstan
+sections, FULLY READ + CITATION CHECK PASSED
+2026-11-03). Kazakhstan teaches the question itself,
+in the short form, from its first book: Smiles Grade 1
+builds the module's numbers in two steps — 1–5 on the
+opener, then 6–10 with "How old are you?" (Module 2,
+printed pp.18–31) — and its grammar spine lists the
+question among the book's fixed frames. The Grade 2
+Activity Book then practises the answer as arithmetic:
+birthday cakes whose candle sums the pupil works out
+before completing "I'm ten." (Unit 6, printed p.44).
+Both Grade 3 series that open on "Hello, English!"
+list the exchange in the first module — Top Stars
+(printed pp.6–17) among its exchanges, and the
+Macmillan book in its Syllabus grammar map as "How old
+are you? — I'm …" (Unit 1, printed pp.6–19; the map is
+a citation anchor at printed p.2). No full "years old"
+form is recorded for Kazakhstan; its form is Libya's
+and Jordan's short form throughout.

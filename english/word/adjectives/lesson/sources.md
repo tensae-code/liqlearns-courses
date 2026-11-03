@@ -1,6 +1,6 @@
 # Sources — Adjectives
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
 
 Every part traces to its book and page.
 
@@ -112,6 +112,12 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 
 **Book 23:** Greece Αγγλικά (Anglika) Student's Book, Revised Edition, Grade 6: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 6 — Αγγλικά (Anglika), Student's Book, New Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 24:** Kazakhstan English Language for Kazakhstan, Grade 3: pupil's book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 3 — English Language for Kazakhstan Grade 3, Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 25:** Kazakhstan Excel for Kazakhstan, Grade 5: student's book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 5 — Excel for Kazakhstan Grade 5, Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 26:** Kazakhstan English Plus, Grade 5: student's book (student book) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 5 — English Plus Grade 5 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition as questions, and the rule that finds adjectives: "Adjectives tell us about the things – are they big, small, happy, sad? • Adjectives and nouns go together." | Libya, Grade 5 Pupils Book, Unit 6, "Let's check!" box |
@@ -144,9 +150,12 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 | Adjectives sorted by their kinds — opinion, size, age, colour and material — and practised on an adapted extract from Lemony Snicket's A Series of Unfortunate Events — The Bad Beginning | Greece, Think Teen! Grade 7 Beginners, Unit 2, Lesson 2 "A collection of thimbles!," p.13 |
 | Sense verbs with the adjective that follows them: look / taste / smell / feel + adjective, worked on food and presents | Greece, Αγγλικά Grade 5, Unit 4, Lesson 2, p.55 |
 | -ing against -ed adjectives as a named pair: describing a film against the viewer's feelings | Greece, Αγγλικά Grade 6, Unit 10, pp.116–117 |
+| Describing pairs from the first primary year in Kazakhstan's set: size and age adjectives — big, long, new, old, short, small — in the school module, then character adjectives — clever, friendly, funny, kind, naughty, shy — and appearance words in the family module | Kazakhstan, English Language for Kazakhstan Grade 3, Module 2, printed pp.18–29; Module 3, printed pp.30–41 |
+| Appearance adjectives worked on characters — the Shrek figures described — and character adjectives with their opposites, adjective position and very, inside the family module | Kazakhstan, Excel for Kazakhstan Grade 5, Module 2, printed pp.21–32; Module 3, printed pp.33–44 |
+| Adjectives as the sports unit's opening vocabulary, set before their nouns with a / an — a / an + adjective + noun — and carried into exclamations with what in the My Country spread | Kazakhstan, English Plus Grade 5, Unit 2 "Sports," printed pp.12–25 |
 
-**Acceptance count: taught in 11 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece).**
+**Acceptance count: taught in 12 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan).**
 Libya carries the definition twice and the
 pairs inside a story; Bangladesh carries the pictured pairs;
 Egypt carries the fullest statement of what adjectives tell;
@@ -159,6 +168,6 @@ vegetables described by colour, shape and taste; Iran carries
 the adjective as a named word kind with its kinds and places,
 and the first describing pairs on people in Prospect 1;
 Sierra Leone carries describing a friend and yourself, and
-colour words as a describing set. Jordan carries opinion adjectives in its Grade 2 Learning Club, the size pairs on animals, a ten-word opposite set used before nouns, and a twelve-word character set; Greece carries adjectives sorted by kind — opinion, size, age, colour, material — in Grade 7 Beginners, sense verbs with their adjectives in Grade 5, and the -ing against -ed pair in Grade 6; Other
+colour words as a describing set. Jordan carries opinion adjectives in its Grade 2 Learning Club, the size pairs on animals, a ten-word opposite set used before nouns, and a twelve-word character set; Greece carries adjectives sorted by kind — opinion, size, age, colour, material — in Grade 7 Beginners, sense verbs with their adjectives in Grade 5, and the -ing against -ed pair in Grade 6; Kazakhstan carries the size and age pairs and the character set in its Grade 3 Express book, appearance and character adjectives with their opposites in Grade 5 Excel, and adjectives set before their nouns in Grade 5 English Plus — its comparing forms are a different lesson and are not sourced here; Other
 closed countries join as their books are read (see
 READING-QUEUE.md).

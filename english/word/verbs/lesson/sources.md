@@ -1,6 +1,6 @@
 # Sources — Verbs
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
 
 Every part traces to its book and page.
 
@@ -68,6 +68,12 @@ english/books/jordan.md (Grade 10 Student's Book Semester 1 section, FULLY READ 
 
 **Book 14:** Greece Think Teen! Advanced Student's Book, Grade 8: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Student's Book — Think Teen! 2nd Grade of Junior High School, Student's Book (Προχωρημένοι) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 15:** Kazakhstan English Language for Kazakhstan, Grade 3: pupil's book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 3 — English Language for Kazakhstan Grade 3, Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 16:** Kazakhstan English Plus, Grade 5: student's book (student book) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 5 — English Plus Grade 5 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 17:** Kazakhstan Top Stars for Kazakhstan, Grade 3: student's book (student book) — Kazakhstan, MM Publications. Filed in english/books/kazakhstan.md (Grade 3 — Top Stars for Kazakhstan Grade 3 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The formal definition in words: "Verb: A verb is a word that expresses an action." — in the same box that defines noun and pronoun and names the three "parts of speech" | Bangladesh, English for Today Class 3, "Joyful school time 2," GRAMMAR FOCUS box, pp.68–71 |
@@ -91,9 +97,12 @@ english/books/jordan.md (Grade 10 Student's Book Semester 1 section, FULLY READ 
 | The verb taught as a word kind in its own right: state and action verbs set against each other inside the Present Simple and Continuous lesson | Jordan, Grade 10 Student's Book Semester 1, Unit 1 "Looking good," Lesson 1A, pp.4–5 |
 | The verb taught as a word kind in its own right: the action-verb against state-verb distinction — state verbs normally avoid the continuous | Greece, Think Teen! Grade 7 Advanced, Unit 2, Lesson 3 "TEEN Best-sellers!," p.20 |
 | Stative verbs as their own set: states not normally used in continuous forms, with meaning changes when some are — have / be having, think / be thinking, taste / be tasting | Greece, Think Teen! Grade 8 Advanced, Unit 1, Lesson 2 "Joined in our Differences," p.15 |
+| Action verbs as a named vocabulary set — climb, cook, dance, draw, jump, run, sing, skateboard — the doing words of the free-time module, worked with can and like + verb-ing | Kazakhstan, English Language for Kazakhstan Grade 3, Module 5 "My Free Time," printed pp.56–67 |
+| The present simple as the doing-word system in full: affirmative in Unit 5, then negative, then question forms in Unit 6 — the verb at work in whole sentences, a grade up | Kazakhstan, English Plus Grade 5, Unit 5, printed pp.54–67 (negative, printed p.59); Unit 6, printed pp.68–81 |
+| The third-person -s at work inside the present simple affirmative — the he/she form built up in Module 3 and completed with questions and short answers in Module 4 | Kazakhstan, Top Stars Grade 3, Module 3, printed pp.32–41; Module 4, printed pp.44–53 |
 
-**Acceptance count: taught in 11 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece).**
+**Acceptance count: taught in 12 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan).**
 Bangladesh carries the formal definition;
 Libya the shortest one; Ghana the test and the smallest
 sentence shape; Egypt the review work and the he/she/it -s rule;
@@ -105,5 +114,5 @@ against state; Sierra Leone carries action verbs picked out of
 a passage, and the main/helping split.
 The tenses themselves are a different thing and are NOT sourced
 here — they live at the Sentence stage (Level 3, Unit 3 "Now,
-Before, Later"). Jordan carries the third-person plays/doesn't work in Grade 3, and the action against state split twice — state verbs named in Grade 6, and state and action verbs set against each other in Grade 10; Greece carries the action against state split twice — the distinction itself in Grade 7, and stative verbs with their meaning-change pairs in Grade 8; Other closed countries join as their books
+Before, Later"). Jordan carries the third-person plays/doesn't work in Grade 3, and the action against state split twice — state verbs named in Grade 6, and state and action verbs set against each other in Grade 10; Greece carries the action against state split twice — the distinction itself in Grade 7, and stative verbs with their meaning-change pairs in Grade 8; Kazakhstan carries the action-verb set named as vocabulary in its Grade 3 Express book, the present simple built up affirmative, negative and questions across Grade 5 English Plus, and the third-person -s worked inside Top Stars Grade 3; Other closed countries join as their books
 are read (see READING-QUEUE.md).

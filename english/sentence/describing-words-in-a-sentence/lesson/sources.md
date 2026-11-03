@@ -1,6 +1,6 @@
 # Sources — Describing words in a sentence
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
 
 Every part traces to its book and page.
 
@@ -93,6 +93,9 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 16:** Greece Αγγλικά (Anglika), Grade 5, Pupil's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 5 — Αγγλικά (Anglika), Pupil's Book, Revised Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 17:** Greece Αγγλικά (Anglika), Grade 6, Student's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 6 — Αγγλικά (Anglika), Student's Book, New Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 18:** Greece Think Teen!, Grade 8 Advanced, Student's Book (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 19:** Kazakhstan Excel for Kazakhstan, Grade 5: Student's Book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 5 — Excel for Kazakhstan Grade 5, Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 20:** Kazakhstan English Plus, Grade 6: Student's Book (student book) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 6 — English Plus Grade 6 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 21:** Kazakhstan Full Blast! for Kazakhstan, Grade 6: Student's Book (student book) — Kazakhstan, MM Publications. Filed in english/books/kazakhstan.md (Grade 6 — Full Blast! for Kazakhstan, Grade 6 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -120,10 +123,13 @@ CITATION CHECK PASSED 2026-11-03).
 | Verbs of sense + adjective (look / taste / feel / smell / sound) again at Grade 6, beside few / a few and little / a little | Greece, Αγγλικά Grade 6, Unit 2, p.20 |
 | Comparison throughout one unit: comparative and superlative adjectives, as … as / not as–so … as, and comparison of adverbs | Greece, Αγγλικά Grade 6, Unit 3, pp.25–36 (points, printed pp.28, 32 and 33) |
 | Comparatives and superlatives, irregular forms, and (not) as … as, presented from landmark texts and used to compare two stadiums | Greece, Think Teen! Grade 8 Advanced, Unit 1, Lesson 3, p.19 |
+| Adjective position named as a teaching point — character adjectives and their opposites placed, with *very* beside them, in the family module | Kazakhstan, Excel Grade 5, Module 3, printed pp.33–44 |
+| The position of adjectives named as the writing point of the town-description lesson — describing words placed in a description of a town or city | Kazakhstan, English Plus Grade 6, Unit 8, printed pp.92–103 |
+| Adjective order stated as a stacking rule — opinion, then size/length, then type, then colour — worked in a model description of a best friend | Kazakhstan, Full Blast! Grade 6, Module 1, section 1e, printed pp.16–33 |
 
-**Acceptance count: taught in 10 countries (Bangladesh,
+**Acceptance count: taught in 11 countries (Bangladesh,
 Egypt, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece).** Bangladesh pictures the before-home in
+Sierra Leone, Jordan, Greece, Kazakhstan).** Bangladesh pictures the before-home in
 eight pairs; Mongolia names the describing law, writes the
 sense-verb home, and posts the comparing border — and its
 Grade 5 picture book now adds describing stock in pictures
@@ -141,7 +147,7 @@ and compares adjectives and adverbs in JSS 3;
 Jordan seats adjectives inside have-got sentences in
 Grade 3, builds its comparatives system in Grade 4,
 and adds comparative adverbs and the sense verbs in
-Grade 6. Greece seats sense verbs + adjective at Grade 5, builds comparatives and superlatives there and runs comparison — adjectives, as…as and adverbs — through a whole Grade 6 unit, restating the system at Grade 8. Other closed countries join as their books are read
+Grade 6. Greece seats sense verbs + adjective at Grade 5, builds comparatives and superlatives there and runs comparison — adjectives, as…as and adverbs — through a whole Grade 6 unit, restating the system at Grade 8. Kazakhstan names adjective position at Grade 5, makes it the writing point of a Grade 6 town description, and states the stacking order — opinion, size/length, type, colour — in its Grade 6 Full Blast!. Other closed countries join as their books are read
 (see READING-QUEUE.md).
 
 **Laos Grade 4 added 2026-10-27** — *English for Lao Primary

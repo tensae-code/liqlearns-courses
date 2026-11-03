@@ -1,6 +1,6 @@
 # Sources — First, then, finally
 
-countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece
+countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan
 
 Every part traces to its book and page.
 
@@ -64,6 +64,24 @@ Education (ebooks.edu.gr). Filed in english/books/greece.md
 (Grade 6 — Αγγλικά (Anglika), Student's Book section, FULLY
 READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 13:** Kazakhstan Full Blast!, Grade 6: student's
+book (student book) — Kazakhstan, MM Publications. Filed in
+english/books/kazakhstan.md (Grade 6 — Full Blast! for
+Kazakhstan, Grade 6 Student's Book section, FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
+**Book 14:** Kazakhstan Excel for Kazakhstan, Grade 9:
+student's book (student book) — Kazakhstan, Express
+Publishing. Filed in english/books/kazakhstan.md (Grade 9 —
+Excel for Kazakhstan (Grade 9) Student's Book section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 15:** Kazakhstan English Plus, Grade 8: workbook
+(workbook) — Kazakhstan, Oxford University Press. Filed in
+english/books/kazakhstan.md (Grade 8 — English Plus Grade 8
+Workbook (Kazakhstan Edition) section, FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Linking words" Tip: "Linking words make the story clear and easy to follow. First, Then, After that, Finally" — the set printed as a writing law | Egypt, Secondary, the writing Tip (p.70 of its book, as filed in the book map) |
@@ -80,9 +98,12 @@ READ + CITATION CHECK PASSED 2026-11-03).
 | The pupil's recipe written under the sequencers named as its set — first / next / then / finally — closed by a write-and-check checklist | Jordan, Grade 6 Activity Book, Semester 1, Unit 4, Lesson 12 (unit pp.36–45) |
 | The pupil's own short story written with the linking words named as its set — first, then, after that, finally, as soon as, while, when — inside the stories unit, where the two past tenses are taught together | Greece, Grade 5 Pupil's Book, Unit 8, Lesson 2, printed pp.102–105 |
 | Linking words taught as their own box where the past tenses combine in one sentence — first, then, when, while, as, finally — the sequence set printed for the pupil's own telling | Greece, Grade 6 Student's Book, Unit 4, printed p.44 |
+| Sequence linkers named as their own set inside the suggestions email lesson — first, next, later, after that, finally — the signposts carrying an email that makes suggestions in order | Kazakhstan, Full Blast Grade 6 Student's Book, Module 8, printed pp.171–189 |
+| Sequencing itself as the Study Skills box of the story lesson: sequencing events, with linkers and time expressions as the story's road signs | Kazakhstan, Excel Grade 9 Student's Book, Module 8, printed pp.87–98 |
+| The ordering set at essay scale: the opinion essay's information ordered as Firstly, Secondly, Finally | Kazakhstan, English Plus Grade 8 Workbook, Unit 9, printed pp.72–79 |
 
-**Acceptance count: taught in 8 countries (Bangladesh,
-Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece).** Egypt prints the law and the set;
+**Acceptance count: taught in 9 countries (Bangladesh,
+Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan).** Egypt prints the law and the set;
 Mongolia files the family by its grammar name; Bangladesh
 tells its methods under the signposts; China adds the
 dated diary as the model recount, its events sorted before
@@ -100,7 +121,13 @@ Greece names the set twice in primary school — as the
 linking words of the pupil's own short story at Grade 5
 (first, then, after that, finally, as soon as, while,
 when) and as a printed linking-words box at Grade 6
-(first, then, when, while, as, finally).
+(first, then, when, while, as, finally);
+Kazakhstan names the full sequence set inside a Grade 6
+email lesson — first, next, later, after that, finally —
+boxes sequencing events and linkers/time expressions as
+the Study Skills of its Grade 9 story lesson, and orders
+an opinion essay's information as Firstly, Secondly,
+Finally in its Grade 8 workbook.
 Iran was
 checked and adds nothing here: its read books teach no
 first/then/finally signpost set (sequence is carried by
