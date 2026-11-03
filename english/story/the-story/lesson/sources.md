@@ -1,6 +1,6 @@
 # Sources — The story
 
-countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
+countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
 
 Every part traces to its book and page.
 
@@ -204,9 +204,11 @@ PASSED 2026-11-03).
 | Stories built from pictures — picture-story writing, then a story written from pictures in the nature unit's Writing Spot | Armenia — English 7 (Zangak), Unit 1, printed p.24; Unit 3, Writing Spot, printed p.65 |
 | A complete short story read whole — "The Fox and the Crow", with True/False questions — inside the Stories for children unit | Vietnam — Tiếng Anh 5, Volume 2 (Global Success), Unit 17, printed pp.46–51 |
 | The story's people named as its element — "Who are the main characters in the story? — They're …" — with a Character Map as the unit's writing task and a Telling a story project | Vietnam — Tiếng Anh 5, Volume 2 (Global Success), Unit 17, printed pp.46–51 |
+| Story anatomy named outright — character, setting, plot, problem, moral — in "The ingredients of a good story"; pupils then write, edit and rewrite their own short story | Cambodia — ENGLISH Grade 9 (student's book), Unit 18 "Creative writing", printed pp.116–121 |
+| The folk tales themselves, each closed by its moral | Cambodia — English Grade 6 (student's book), Chapter 6, printed pp.118–139 (e.g. "The Hen And The Chicks", Unit 1, printed pp.118–121) |
 
-**Acceptance count: taught in 17 countries (Bangladesh,
-Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).** Ghana names the narrative mode; Bangladesh
+**Acceptance count: taught in 18 countries (Bangladesh,
+Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).** Ghana names the narrative mode; Bangladesh
 teaches stories from its earliest classes with the fables;
 Egypt reads whole stories through the secondary years;
 China names the story's three parts outright (setting,
@@ -264,3 +266,5 @@ READING-QUEUE.md).
 **Armenia added 2026-11-03** — two books stock this lesson: **Book:** *English 9* — Armenia, COAF, Yerevan 2025, no ISBN printed. **Book:** *English 7* — Armenia, Zangak, Yerevan 2023, Grigoryan, ISBN 978-9939-99-035-4. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia names storytelling into its elements — plot, character, visuals, music — over The Hobbit as book and film (English 9, Unit 4.3, printed pp.91–92), and builds stories from pictures — picture-story writing in English 7 (Unit 1, printed p.24), then a story written from pictures in the nature unit's Writing Spot (Unit 3, Writing Spot, printed p.65).
 
 **Vietnam added 2026-11-03** — PARTIAL stock, filed exactly as a partial: 1 book stocks this lesson in part: **Book:** *Tiếng Anh 5, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2024, ISBN 978-604-0-39362-3. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 5, Volume 2's Stories for children unit (printed pp.46–51) reads one complete short story whole — "The Fox and the Crow" — and names the story's characters as its element: "Who are the main characters in the story?", with a Character Map as the writing work and a Telling a story project. Stated plainly: setting and plot are never named as taught craft anywhere in the sixteen books, so Vietnam's stock here is the characters and the whole-story reading, and the rest of the story's furniture rests on the other countries.
+
+**Cambodia added 2026-11-03** — 2 books stock this lesson: **Book:** *English Grade 6* (student's book) — Cambodia, MoEYS, 5th printing 2020, ISBN 978-9924-9423-1-3. **Book:** *ENGLISH Grade 9* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", first printing 2016, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia names the story's parts outright — a step beyond most of the pool: Grade 9's creative-writing unit lists the ingredients of a good story as character, setting, plot, problem and moral, then has pupils write, edit and rewrite a story of their own (Unit 18); Grade 6's closing chapter is six folk tales, each ending on its moral (Chapter 6).

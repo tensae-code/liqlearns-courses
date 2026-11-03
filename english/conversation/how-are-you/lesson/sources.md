@@ -1,6 +1,6 @@
 # Sources for this lesson — How are you?
 
-countries: Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
+countries: Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -40,8 +40,11 @@ Libya (Garnet) · Books verified on disk 2026-10-25.
 | The exchange taught as its own starter lesson — "How are you?" with the answer "I am fine too, thank you." | Armenia — English 3, Part 1 (COAF), Starter Unit, Lesson 2, printed p.4 |
 | "Hi. How are you? — Fine, thank you." inside the first greeting unit | Vietnam — Tiếng Anh 3, Volume 1 (Global Success), Unit 1, printed pp.10–15 (the exchange on printed p.12) |
 | The greeting song "Hello. How are you?" opening the Grade 4 revision Starter | Vietnam — Tiếng Anh 4, Volume 1 (Global Success), Starter, printed p.7 |
+| "How are you? / I'm fine" inside the first unit's greetings work | Cambodia — English Grade 4 (student's book), Unit 1 "Greetings", printed pp.2–15 |
+| "How are you? I'm fine/well/ok/bad" in the Grade 6 re-start unit | Cambodia — English Grade 6 (student's book), Chapter 1, Unit 1, printed pp.8–11 |
+| "How are you today?" as the first lesson's title and work | Cambodia — ENGLISH Grade 7 (student's book), Unit 1, Lesson A, printed pp.8–13 |
 
-**Acceptance count: taught in 16 countries (Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
+**Acceptance count: taught in 17 countries (Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 China joins with the exchange itself in its first primary book
 (Grade 3 Volume 1) and deepens it three years later into feelings
 talk — "How do you feel?", "What's wrong?" (Grade 6 Volume 1).
@@ -308,3 +311,5 @@ is recorded for South Sudan, and none is claimed here.
 **Armenia added 2026-11-03** — one book stocks this lesson: **Book:** *English 3 — Part 1* (student's book) — Armenia, Children of Armenia Charitable Foundation (COAF), Yerevan 2024, Nersesyan/Tonoyan/Arakelyan, no ISBN printed; the held file is Part 1 only. Filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia teaches the exchange as its own starter lesson: the Starter Unit, Lesson 2, "How are you?" (printed p.4), gives the question with the answer "I am fine too, thank you."
 
 **Vietnam added 2026-11-03** — 2 books stock this lesson: **Book:** *Tiếng Anh 3, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2022, ISBN 978-604-0-30720-0. **Book:** *Tiếng Anh 4, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2023, ISBN 978-604-0-35120-3. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam teaches the exchange once, early, and recycles it: Grade 3, Volume 1's first unit carries "Hi. How are you? — Fine, thank you." among its greeting patterns (printed p.12), and Grade 4, Volume 1's revision Starter opens with the greeting song "Hello. How are you?" (printed p.7). The set's answer stays the one formula — fine, thank you — wherever the question recurs.
+
+**Cambodia added 2026-11-03** — 3 books stock this lesson: **Book:** *English Grade 4* (student's book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS), 8th printing 2020, ISBN 978-9924-9423-0-6. **Book:** *English Grade 6* (student's book) — Cambodia, MoEYS, 5th printing 2020, ISBN 978-9924-9423-1-3. **Book:** *ENGLISH Grade 7* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia teaches the exchange at every primary/secondary start: Grade 4's first unit ("How are you? / I'm fine"), Grade 6's re-start ("How are you? I'm fine/well/ok/bad" — the widest answer set in the set), and Grade 7's opening lesson, titled by the question itself ("How are you today?").

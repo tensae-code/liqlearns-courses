@@ -1,6 +1,6 @@
 # Sources for this lesson — How old are you?
 
-countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
+countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -49,8 +49,11 @@ Libya (Garnet) · Books verified on disk 2026-10-25.
 | "How old are you? — I'm … years old", reusing the Starter numbers for ages seven to ten | Vietnam — Tiếng Anh 3, Volume 1 (Global Success), Unit 2, printed pp.16–21 |
 | "How old is your brother? — He's nineteen." — the age question turned to family members, with numbers to twenty in use | Vietnam — Tiếng Anh 2 (Global Success), Unit 14, printed p.62 |
 | Third-person age: "How old is he / she? — He's / She's … (years old)" | Vietnam — Tiếng Anh 3, Volume 2 (Global Success), Unit 11, printed pp.6–11 |
+| "How old are you?" with numbers 1–10 and "I'm … years old" | Cambodia — English Grade 4 (student's book), Unit 1, Lesson 3, printed p.11 (Unit 1, printed pp.2–15) |
+| Age inside the greetings re-start: name, age and grade | Cambodia — English Grade 6 (student's book), Chapter 1, Unit 1, printed pp.8–11 |
+| Name/age/origin introductions | Cambodia — ENGLISH Grade 7 (student's book), Unit 1, printed pp.8–13 |
 
-**Acceptance count: taught in 18 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
+**Acceptance count: taught in 19 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 China teaches the exchange in the full "years old" form with
 candle counting (Grade 3 Volume 1) and later ties age to the
 birthday date (Grade 5 Volume 2); North Macedonia practises it
@@ -412,3 +415,5 @@ and not for the question.
 **Armenia added 2026-11-03** — one book stocks this lesson: **Book:** *English 3 — Part 1* (student's book) — Armenia, Children of Armenia Charitable Foundation (COAF), Yerevan 2024, Nersesyan/Tonoyan/Arakelyan, no ISBN printed; the held file is Part 1 only. Filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia teaches the age question as its own starter lesson: the Starter Unit, Lesson 3, "How old are you?" (printed p.5), gives the question with numbers 1–10 and the answers "I'm nine / I'm ten".
 
 **Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 3, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2022, ISBN 978-604-0-30720-0. **Book:** *Tiếng Anh 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2021, ISBN 978-604-0-25872-4. **Book:** *Tiếng Anh 3, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2022, ISBN 978-604-0-30721-7. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam teaches the age question in the second person first — Grade 3, Volume 1, Unit 2 (printed pp.16–21) — and works the third person on both sides of it: Grade 2 asks about family members ("How old is your brother? — He's nineteen.", printed p.62), and Grade 3, Volume 2's family unit teaches "How old is he / she?" with the numbers eleven to twenty (printed pp.6–11). Both the question and the giving form are present throughout, which is the full shape of this lesson.
+
+**Cambodia added 2026-11-03** — 3 books stock this lesson: **Book:** *English Grade 4* (student's book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS), 8th printing 2020, ISBN 978-9924-9423-0-6. **Book:** *English Grade 6* (student's book) — Cambodia, MoEYS, 5th printing 2020, ISBN 978-9924-9423-1-3. **Book:** *ENGLISH Grade 7* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). The giving form and the question arrive together from the first book: Grade 4's Unit 1, Lesson 3 teaches "How old are you?" with "I'm … years old" over numbers 1–10; Grade 6's re-start and Grade 7's introductions both carry age inside the name/age/origin exchange.

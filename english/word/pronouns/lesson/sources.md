@@ -1,6 +1,6 @@
 # Sources — Pronouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
 
 Every part traces to its book and page.
 
@@ -200,9 +200,12 @@ english/books/jordan.md (Grade 7 Pupil's Book Semester 1 section, FULLY READ + C
 | Possessive adjectives against possessive pronouns in two contrasted rule boxes — the adjective before a noun, the pronoun standing alone — with its/it's traps in the exercises | Vietnam — Tiếng Anh 6, Volume 2 (Global Success), Unit 9, printed pp.26–35 |
 | Possessive pronouns (mine, yours, hers, etc.) as a named grammar point beside the future simple | Vietnam — Tiếng Anh 7 (Global Success), Unit 11, printed pp.114–123 |
 | Possessive pronouns after of — "a friend of mine" — as the recycled point's new focus | Vietnam — Tiếng Anh 8 (Global Success), Unit 10, printed pp.104–113 |
+| Possessive adjectives set against possessive pronouns, inside the possessions unit | Cambodia — ENGLISH Grade 10 (student's book), Unit 5 "What have you got?", printed pp.25–30 |
+| Possessive adjectives — my, your, his, her, its, our, their — for who a thing belongs to | Cambodia — ENGLISH Grade 8 (student's book), Unit 25 "Types of transport around the world", printed pp.158–163 |
+| Indefinite pronouns in a full table — something/anything/nothing/everything, someone/anyone, somewhere/anywhere and their some/any/no-/every- logic | Cambodia — ENGLISH Grade 12 (student's book), Unit 24 "Child exploitation", printed pp.129–134 |
 
-**Acceptance count: taught in 18 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).** Egypt
+**Acceptance count: taught in 19 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).** Egypt
 carries the seven words with the
 plainest definitions any book gives them, and the first
 whose-box; Bangladesh carries the formal definition; Libya
@@ -231,3 +234,5 @@ Armenia joined 2026-11-03: it carries subject pronouns revised with this/that/th
 **Armenia added 2026-11-03** — three books stock this lesson: **Book:** *English 4 — Part 1* — Armenia, COAF, Yerevan 2025 (Part 1 only). **Book:** *English 6* — Armenia, COAF, Yerevan 2024, no ISBN printed. **Book:** *English 7* — Armenia, Zangak, Yerevan 2023, Lusine Grigoryan, ISBN 978-9939-99-035-4. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). The Grade 4 book revises subject pronouns with this/that/these/those at the start of the book (Starter Lesson, printed pp.3–13). The Grade 6 book teaches indefinite pronouns as a grammar point inside the holidays unit (Unit 4.4, printed pp.105–108) and reflexive pronouns as a grammar point inside the same unit's English in Use (Unit 4.6, printed pp.111–113). The Grade 7 book works possessive pronouns for comparisons (Unit 2, printed p.35) and tabulates the pronoun/quantifier system in its appendix (printed p.152).
 
 **Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 6, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25874-8. **Book:** *Tiếng Anh 7 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2022, ISBN 978-604-0-30724-8. **Book:** *Tiếng Anh 8 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2023, ISBN 978-604-0-35127-2. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam teaches the possessive pair as a contrast system: Grade 6, Volume 2 sets possessive adjectives and possessive pronouns in two rule boxes side by side (Unit 9); Grade 7 names possessive pronouns again as a grammar point of their own (Unit 11); and Grade 8 returns to them after of — "a friend of mine" (Unit 10).
+
+**Cambodia added 2026-11-03** — 3 books stock this lesson: **Book:** *ENGLISH Grade 8* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. **Book:** *ENGLISH Grade 10* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2021, no ISBN printed. **Book:** *ENGLISH Grade 12* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2023, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia's pronoun stock is the possessive system and the indefinites: Grade 10 contrasts possessive adjectives with possessive pronouns (Unit 5), Grade 8 works the possessive adjectives for belonging (Unit 25), and Grade 12 tables the indefinite pronouns in full (Unit 24).

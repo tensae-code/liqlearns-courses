@@ -1,6 +1,6 @@
 # Sources — Verbs
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
 
 Every part traces to its book and page.
 
@@ -150,9 +150,12 @@ english/books/jordan.md (Grade 10 Student's Book Semester 1 section, FULLY READ 
 | Verbs + to-infinitive and verbs + V-ing as named grammar — the verb-pattern lists (want, promise, decide, agree, learn, plan; enjoy, fancy, finish, mind, avoid, suggest) | Vietnam — Tiếng Anh 9 (Global Success), Unit 6, printed pp.60–69 |
 | To-infinitives and bare infinitives — the verbs each follows (decide, expect, plan, want, promise, agree, hope, hesitate, ask; make, let, hear, notice) | Vietnam — Tiếng Anh 10 (Global Success), Unit 3, printed pp.28–37 |
 | Gerunds and to-infinitives — gerunds after avoid, enjoy, finish and as subjects; to-infinitives after want, decide, allow; like/love/hate taking either | Vietnam — Tiếng Anh 10 (Global Success), Unit 5, printed pp.52–61 |
+| Regular vs irregular verbs sorted in class, with the pronunciation of the -ed ending (/t/, /d/, /ɪd/) | Cambodia — ENGLISH Grade 9 (student's book), Unit 3 "A day fishing", printed pp.26–31 |
+| Verbs followed by to-infinitive vs verbs followed by -ing, including verbs that take both with a change of meaning (remember / forget) | Cambodia — ENGLISH Grade 10 (student's book), Unit 25 "What do you intend to do?", printed pp.135–140 |
+| Third-person -s verb endings sorted by sound (/s/, /z/, /iz/) | Cambodia — ENGLISH Grade 8 (student's book), Unit 15 "Love and music", printed pp.98–103 |
 
-**Acceptance count: taught in 20 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).**
+**Acceptance count: taught in 21 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).**
 Bangladesh carries the formal definition;
 Libya the shortest one; Ghana the test and the smallest
 sentence shape; Egypt the review work and the he/she/it -s rule;
@@ -180,3 +183,5 @@ Armenia joined 2026-11-03: it carries the irregular-verb list as the verb system
 **Armenia added 2026-11-03** — three books stock this lesson: **Book:** *English 5* (student's book, copy B — the corrected revision; copy A is a superseded text state of the same edition and is never cited) — Armenia, Mari Publishing, Yerevan 2023, ISBN 978-9939-888-23-1. **Book:** *English 8* — Armenia, Mari Publishing, Yerevan 2024, ISBN 978-9939-888-32-3. **Book:** *English 7* — Armenia, Zangak, Yerevan 2023, Lusine Grigoryan, ISBN 978-9939-99-035-4. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). The Grade 5 book carries the irregular-verb list as the verb system's memory page — infinitive / Past Simple / Past Participle ("List of Irregular Verbs", printed pp.146–147) — and the Grade 8 book carries the same list a few years up, closing the book (printed pp.153–154). The Grade 7 book's appendix tabulates the verb tenses as a system, with the irregular verbs listed after (printed pp.156, 162–163).
 
 **Vietnam added 2026-11-03** — 2 books stock this lesson: **Book:** *Tiếng Anh 9 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2024, ISBN 978-604-0-39366-1. **Book:** *Tiếng Anh 10 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2022, ISBN 978-604-0-32428-3. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam works the verb as pattern systems, filed on those terms: Grade 9 names verbs + to-infinitive and verbs + V-ing with their verb lists; Grade 10 splits the infinitive work across two units — to-infinitives and bare infinitives with the verbs each follows (Unit 3), then gerunds and to-infinitives, with like/love/hate taking either (Unit 5). Stated plainly, as the country file states it: no book in the series prints an irregular-verb table, although irregular past forms are required from Grade 5 on — so Vietnam's verb stock is the pattern systems, not a forms list. The tenses themselves are sourced in their own lessons, not here.
+
+**Cambodia added 2026-11-03** — 3 books stock this lesson: **Book:** *ENGLISH Grade 8* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. **Book:** *ENGLISH Grade 9* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", first printing 2016, no ISBN printed. **Book:** *ENGLISH Grade 10* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2021, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia's verb work is form work: Grade 9 sorts regular against irregular verbs and teaches the -ed ending's three sounds (Unit 3); Grade 8 sorts the third-person -s endings by sound (Unit 15); Grade 10 systematises what follows the verb — to-infinitive, -ing, or both with a meaning change (Unit 25).

@@ -1,6 +1,6 @@
 # Sources — Animals
 
-countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
+countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
 
 Every part traces to its book and page.
 
@@ -192,10 +192,13 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 2 section, FULLY READ + C
 | Pets as the unit's set — bird, cat, dog, goldfish, parrot, rabbit — with "Do you have any …?" and counting: "How many … do you have? — I have …" | Vietnam — Tiếng Anh 3, Volume 2 (Global Success), Unit 16, printed pp.40–45 |
 | Zoo animals — elephant, horse, monkey, peacock, tiger — with animal actions (climbing, counting, dancing, swinging) and "What's the … doing? — It's …" | Vietnam — Tiếng Anh 3, Volume 2 (Global Success), Unit 20, printed pp.64–69 |
 | The animal world — crocodiles, giraffes, hippos, lions (peacocks and birds in the work) — with "Why do you like …? — Because they …" | Vietnam — Tiếng Anh 4, Volume 2 (Global Success), Unit 19, printed pp.58–63 |
+| Animals inside the this/is this patterns — cat, dog, fish, bird, pig, duck, hen, elephant | Cambodia — English Grade 4 (student's book), Unit 3 "Animals", printed pp.30–43 |
+| Five animal groups as a chapter's units — pets, wild animals, sea creatures, farm animals, dangerous animals | Cambodia — English Grade 6 (student's book), Chapter 5, printed pp.96–117 |
+| Farm animals — chicken, cow, duck, egg, ox, pig (oxen in the reading) | Cambodia — English Grade 5 (student's book), Chapter 2, Unit 2 "Animals On The Farm", printed pp.30–33 |
 
-**Acceptance count: taught in 20 countries (Bangladesh, Egypt,
+**Acceptance count: taught in 21 countries (Bangladesh, Egypt,
 Libya, Palestine, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).** Egypt carries the farm four with the first
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).** Egypt carries the farm four with the first
 size pair; Palestine carries the youngest learners' set;
 Bangladesh carries homes and foods as whole sentences; Libya
 carries the wild names inside its letter list; China carries
@@ -219,3 +222,5 @@ countries join as their books are read (see READING-QUEUE.md).
 **Armenia added 2026-11-03** — 2 books stock this lesson: **Book:** *English 5* (copy B, the corrected revision; copy A is superseded and never cited) — Armenia, Mari Publishing, Yerevan 2023, ISBN 978-9939-888-23-1. **Book:** *Grade 3 Teacher's Resource Book* — Armenia, no publisher/year/ISBN printed in its English text (its framework is cited inside as 2021). All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 5 copy B gives a whole topic to animals — Topic 5 "Animals" (printed pp.95–115, topic opener printed p.95): pets, zoo animals and wild animals, with animal quizzes and stories. The Grade 3 Teacher's Resource Book's Module 6 "Animals" (from printed p.119) sorts and describes farm, wild and pet animals — "It sleeps in my room on a small mat. I love it very much." That Resource Book is a resource book for a different Grade 3 course (Modules: My Friends / My School / My Family / My House / My Meals / Animals), NOT a companion to the held COAF Grade 3 student's book, and its module is cited for its own teaching only, never as support for the COAF book.
 
 **Vietnam added 2026-11-03** — 2 books stock this lesson: **Book:** *Tiếng Anh 3, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2022, ISBN 978-604-0-30721-7. **Book:** *Tiếng Anh 4, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2023, ISBN 978-604-0-35121-0. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam's animal stock is two Grade 3 sets and one Grade 4 set: pets with counting at Volume 2 Unit 16, five zoo animals with their actions at Unit 20, and the big zoo animals — crocodiles, giraffes, hippos, lions — with reason-giving at Grade 4, Volume 2. Filed plainly: Grade 3 teaches no farm animals anywhere, and the animal-young words of its Fun time (puppy, kitten, cub, calf) are not in its Wordlist, as the country file records.
+
+**Cambodia added 2026-11-03** — 3 books stock this lesson: **Book:** *English Grade 4* (student's book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS), 8th printing 2020, ISBN 978-9924-9423-0-6. **Book:** *English Grade 5* (student's book) — Cambodia, MoEYS, 6th printing 2020, ISBN 978-9924-9423-2-0. **Book:** *English Grade 6* (student's book) — Cambodia, MoEYS, 5th printing 2020, ISBN 978-9924-9423-1-3. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia's animal stock is systematic: Grade 4 meets the first animal words inside its be-patterns (Unit 3), Grade 5 works the farm (Chapter 2), and Grade 6 gives a whole chapter to five animal groups — pets, wild, sea, farm and dangerous animals (Chapter 5, printed pp.96–117).

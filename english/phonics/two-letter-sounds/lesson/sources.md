@@ -1,6 +1,6 @@
 # Sources for this lesson — Two-letter sounds
 
-countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam
+countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The two-letter sets lived inside the alphabet
@@ -75,8 +75,10 @@ single letters.
 | The two-letter sound **th** in that and thank, presented side by side with no explanation of the sound difference | Vietnam — Tiếng Anh 3, Volume 1 (Global Success), Unit 3, printed pp.22–27 |
 | The two-letter sound **ea** carrying two sounds inside one spelling — bread and meat | Vietnam — Tiếng Anh 3, Volume 2 (Global Success), Unit 15, printed pp.30–35 |
 | The three-letter sound **tch** in watch | Vietnam — Tiếng Anh 4, Volume 2 (Global Success), Unit 14, printed pp.24–29 |
+| Two-letter vowel sounds as phonics sets — ee, ea, oa, ou, oo — one set per unit through Chapter 3 (the ee set: feet, tree, queen, green, teeth), all five re-listed together in the chapter Review | Cambodia — English Grade 5 (student's book), Chapter 3, printed pp.44–65 (ee set at Unit 1, printed pp.44–47; Review at printed pp.64–65) |
+| The sh / ch / th sound-spelling sets | Cambodia — English Grade 5 (student's book), Chapter 2, Unit 5 Review, printed pp.42–43 |
 
-**Acceptance count: taught in 17 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam).**
+**Acceptance count: taught in 18 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia).**
 China adds the first r-controlled-vowel ladder taught as a named
 system (Grade 4 Volume 2), a run of one-pair-per-page Let's spell
 lessons across Grades 5–6 (ea/ee, ow/ou, oo, ch/sh, th, ng/nk,
@@ -508,3 +510,5 @@ thing and live in phonics/blends.)
 **Armenia added 2026-11-03** — one book stocks this lesson: **Book:** *English 3 — Part 1* (student's book) — Armenia, Children of Armenia Charitable Foundation (COAF), Yerevan 2024, Nersesyan/Tonoyan/Arakelyan, no ISBN printed; the held file is Part 1 only (Starter + Units 1–3). Filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia's two-letter sounds arrive inside its letter lessons, not as a separate strand: oo — "good / a book / a cook / a cookbook / look" — inside the G and O letter lesson (Unit 2.5, printed pp.48–55); ck working as one sound, completing words with c or k, "SO+CK = sock" (Unit 2.7); ch and sh taught together as digraphs — chips, fish, shoes; "They buy some fish and chips" (Unit 2.8, printed p.59); and ee inside the E and U lesson (egg, pen, ten, cup, duck; ee digraph) (Unit 3.2).
 
 **Vietnam added 2026-11-03** — 4 books stock this lesson: **Book:** *Tiếng Anh 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2021, ISBN 978-604-0-25872-4. **Book:** *Tiếng Anh 3, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2022, ISBN 978-604-0-30720-0. **Book:** *Tiếng Anh 3, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2022, ISBN 978-604-0-30721-7. **Book:** *Tiếng Anh 4, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2023, ISBN 978-604-0-35121-0. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam's phonics lessons present one letter-group per unit inside two example words and a model sentence, never as IPA in the lessons: **sh** opens the Grade 2 clothes unit (shirts, shoes, shorts); **th** is met at Grade 3 in that and thank, printed with the same "th" label for both sounds and no explanation of the difference; **ea** is likewise printed with one label for bread and meat at Grade 3, Volume 2; and **tch** is the watch sound at Grade 4, Volume 2. The same one-label habit runs through the set (oo in room/door, a in parrot/dancing) and is filed as printed, not smoothed over.
+
+**Cambodia added 2026-11-03** — 1 book stocks this lesson: **Book:** *English Grade 5* (student's book) — Cambodia, MoEYS, 6th printing 2020, ISBN 978-9924-9423-2-0. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia's two-letter sounds are the Grade 5 book's phonics sets: five vowel teams (ee, ea, oa, ou, oo) taught one per unit through Chapter 3 with jumbled-word writing, and the sh/ch/th sound-spelling sets in the Chapter 2 Review. Filed as sound sets, exactly as the country file files them — there is no wider digraph programme in the set, and no blending instruction (blending-sounds is not stocked from Cambodia).

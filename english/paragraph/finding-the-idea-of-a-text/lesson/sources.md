@@ -1,6 +1,6 @@
 # Sources — Finding the idea of a text
 
-countries: Bangladesh, Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
+countries: Bangladesh, Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
 
 Every part traces to its book and page.
 
@@ -174,9 +174,11 @@ CITATION CHECK PASSED 2026-11-03).
 | Reading for main ideas as the strand's named purpose — the Grade 11 reading texts are worked "for main ideas and specific information", with heading-matching among the standing task types | Vietnam — Tiếng Anh 11 (Global Success), Skills strand across Units 1–10, printed pp.8–119 (e.g. the Unit 1 reading "How to live a long and healthy life", printed p.11) |
 | Choosing the best title for a text, taught in a printed Tips box beside the green-living reading | Vietnam — Tiếng Anh 10 (Global Success), Unit 2, printed pp.18–27 |
 | Matching headings among the standing Skills 1 reading task types, beside matching definitions and reference questions | Vietnam — Tiếng Anh 9 (Global Success), Skills 1 readings across Units 1–12, printed pp.8–133 |
+| Summarising past events as a taught step of the history unit (GUIDE-HELD ONLY — the Grade 11 student's book is not held) | Cambodia — ENGLISH Grade 11 (teacher's guide book), Unit 21 "Cambodian history", Lesson B, printed pp.111–116 |
+| Skimming and scanning named as reading work, inside the health unit's question-tag lessons (GUIDE-HELD ONLY) | Cambodia — ENGLISH Grade 11 (teacher's guide book), Unit 28 "Healthy living", printed pp.151–156 |
 
-**Acceptance count: taught in 17 countries (Bangladesh,
-Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).** Ghana names the weighing (main idea vs supporting
+**Acceptance count: taught in 18 countries (Bangladesh,
+Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).** Ghana names the weighing (main idea vs supporting
 details) and the own-words law; Bangladesh sets the choice
 as a task; China hunts the idea by title-choice and by the
 one question a whole text answers, and names the
@@ -228,3 +230,5 @@ read (see READING-QUEUE.md).
 **Armenia added 2026-11-03** — three books stock this lesson: **Book:** *English 7* — Armenia, Zangak, Yerevan 2023, Grigoryan, ISBN 978-9939-99-035-4. **Book:** *English 11* — Armenia, COAF, Yerevan 2025, Tonoyan/Arakelyan, no ISBN printed. **Book:** *English 7 — Methodological Guide* — Zangak 2023; methodology-only companion in Armenian, cited only for its own teaching. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Filed honestly: Armenia works the skill as gist/heading work; no "main idea" lesson by that name is claimed. The Grade 7 book matches paragraphs to their headings (free time / being a teenager) (Unit 4 part A, printed p.77); the Grade 11 book works its "Who to blame…?" reading by matching its section titles (Unit 3.5, printed pp.80–82); and the Grade 7 Methodological Guide names reading for gist as a skill — "(scimming, scanning and prediction)" [sic] — in its own reading chapter (printed pp.5–6), cited for the guide's own teaching.
 
 **Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 11 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2023, ISBN 978-604-0-35131-9. **Book:** *Tiếng Anh 10 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2022, ISBN 978-604-0-32428-3. **Book:** *Tiếng Anh 9 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2024, ISBN 978-604-0-39366-1. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam names the idea-hunt in its reading purposes: Grade 11's texts are read "for main ideas and specific information" as the strand's stated aim, with heading-matching among its tasks; Grade 10 teaches choosing the best title for a text in a printed Tips box (Unit 2); and Grade 9's Skills 1 readings carry heading-matching as a standing task type. Filed on those terms — the words "main idea" name the purpose of the reading, and the heading/title work is the practised form of it.
+
+**Cambodia added 2026-11-03** — 1 book stocks this lesson, as a guide-held partial: **Book:** *ENGLISH Grade 11* (teacher's guide book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, no ISBN printed; the Grade 11 student's book is NOT held — the guide reproduces its pages, so everything cited from it is guide-held only. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). PARTIAL, guide-held only, filed plainly: no held Cambodia student's book runs a "main idea" lesson by that name. Cambodia's stock is the Grade 11 teacher's book — which reproduces its (unheld) student's book's pages — teaching summarising as a step of the history unit (Unit 21) and naming skimming and scanning as reading work (Unit 28).

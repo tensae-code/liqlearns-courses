@@ -1,6 +1,6 @@
 # Sources — Nouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
+countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
 
 Every part traces to its book and page.
 
@@ -184,9 +184,13 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Countable and uncountable nouns as named grammar, with the Remember box pairing some/many/a few with countable and some/much/a little with uncountable | Vietnam — Tiếng Anh 6, Volume 1 (Global Success), Unit 5, printed pp.48–57 |
 | Countable and uncountable nouns named again as a grammar point, with a / much / many / a little / a few | Vietnam — Tiếng Anh 8 (Global Success), Unit 4, printed pp.40–49 |
 | Compound nouns — their formation types and plural rules — as the unit's named grammar | Vietnam — Tiếng Anh 11 (Global Success), Unit 10, printed p.112 (grammar box; the unit runs printed pp.110–119) |
+| Plural spelling rules in full — add -s; -es after -o/-x/-s/-sh/-ch; -y to -ies; f/fe to -ves; irregular person/people, man/men — with a/an/some/any | Cambodia — ENGLISH Grade 8 (student's book), Unit 5 "A Homecoming", printed pp.38–43 |
+| Countable vs uncountable food nouns with some / any / a / an and have got | Cambodia — ENGLISH Grade 8 (student's book), Unit 7 "Yum, yum, yum!", printed pp.50–55 |
+| Singular and plural nouns with a/an, inside the possessions unit | Cambodia — ENGLISH Grade 10 (student's book), Unit 5 "What have you got?", printed pp.25–30 |
+| Quantities over nouns: some / any, much / many, too much / too many | Cambodia — ENGLISH Grade 9 (student's book), Unit 7 "Healthy eating", printed pp.50–55 |
 
-**Acceptance count: taught in 20 countries (Bangladesh, Egypt,
-Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).**
+**Acceptance count: taught in 21 countries (Bangladesh, Egypt,
+Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).**
 Egypt and Bangladesh carry the definition itself,
 each in the three-sort form; Libya carries it twice more in its
 own shorter words; Ghana carries the sentence test; China
@@ -224,3 +228,5 @@ pp.99–108).
 **Armenia added 2026-11-03** — two books stock this lesson: **Book:** *English 3 — Part 1* — Armenia, COAF, Yerevan 2024 (Part 1 only). **Book:** *English 7* — Armenia, Zangak, Yerevan 2023, Lusine Grigoryan, ISBN 978-9939-99-035-4. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Plurals begin inside the first letter lessons of the Grade 3 book — 1 star / 2 stars — as the singular/plural split is first met (Unit 1.4). The Grade 7 book teaches nouns that refuse the singular/plural split as a named set — "We have no singular! / We have no plural!" (scissors, furniture, police, advice, news; Unit 4, printed p.103) — and carries the noun system as reference in its appendix, "Structure of English Grammar": nouns and articles, then noun plurals (printed pp.148–149).
 
 **Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 6, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25873-1. **Book:** *Tiếng Anh 8 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2023, ISBN 978-604-0-35127-2. **Book:** *Tiếng Anh 11 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2023, ISBN 978-604-0-35131-9. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam carries the noun through its quantity system rather than a definition: countable and uncountable nouns are named grammar at Grade 6, Volume 1 (Unit 5) with the quantifier pairings boxed, and again at Grade 8 (Unit 4) beside the question-formation unit; and Grade 11 closes the word-kind work with compound nouns — formation types and plural rules — as a named grammar point (Unit 10). No Vietnam book prints a "a noun is …" definition, and none is claimed here.
+
+**Cambodia added 2026-11-03** — 3 books stock this lesson: **Book:** *ENGLISH Grade 8* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. **Book:** *ENGLISH Grade 9* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", first printing 2016, no ISBN printed. **Book:** *ENGLISH Grade 10* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2021, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia carries the noun through its plural and quantity systems: Grade 8 prints the full plural spelling rules (Unit 5) and the countable/uncountable split with food (Unit 7); Grade 10 works singular/plural with a/an inside possessions (Unit 5); Grade 9 runs some/any and much/many over food (Unit 7). No Cambodia book prints a "a noun is …" definition, and none is claimed here.

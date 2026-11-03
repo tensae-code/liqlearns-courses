@@ -1,6 +1,6 @@
 # Sources — First, then, finally
 
-countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal
+countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia
 
 Every part traces to its book and page.
 
@@ -128,9 +128,12 @@ CITATION CHECK PASSED 2026-11-03).
 | A sequence told with First / Then / Lastly / Finally in the additional-language strand | South Africa, English First Additional Language, Grade 3 Workbook 2 (Rainbow Workbooks), printed p.57 |
 | Sequence markers named as the grammar of giving instructions in a guide's own teaching, worded as such: the Grade 9 teacher's guide — a DRAFT for a different, older twenty-unit textbook, not the held student's book's companion, and held only as an incomplete excerpt — teaches imperatives with sequence markers (first/then/next) in its Unit 6, which survives in the held copy | Nepal, Teachers' Guide English Grade 9, Unit 6, printed pp.49–54 |
 | A process told in its steps as a reading text: "How to Wash Clothes in a Washing Machine", a seven-step instruction text — the method carried in its order, its signposts not named as a set in the student's book | Nepal, English Grade 8, Unit 3, printed pp.25–36 |
+| Recipe instructions in sequence — first, then, after that, finally | Cambodia — ENGLISH Grade 10 (student's book), Unit 13 "What's for dinner?", printed pp.69–74 |
+| Time and sequence adverbs — first, then, afterwards, finally — for describing an itinerary | Cambodia — ENGLISH Grade 12 (student's book), Unit 7 "Going on a tour", printed pp.35–40 |
+| Sequencing a process with first, second, third, next, after that, then | Cambodia — ENGLISH Grade 8 (student's book), Unit 3 "The morning ceremony", printed pp.26–31 |
 
-**Acceptance count: taught in 13 countries (Bangladesh,
-Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal).** Egypt prints the law and the set;
+**Acceptance count: taught in 14 countries (Bangladesh,
+Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia).** Egypt prints the law and the set;
 Mongolia files the family by its grammar name; Bangladesh
 tells its methods under the signposts; China adds the
 dated diary as the model recount, its events sorted before
@@ -180,3 +183,5 @@ READING-QUEUE.md).
 **South Africa added 2026-11-03** — four books stock this lesson: *English Home Language, Grade 4 Workbook 1*, *English Home Language, Grade 5 Workbook 1*, *English Home Language, Grade 6 Workbook 1* and *English First Additional Language, Grade 3 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. South Africa carries the full set: the Grade 4 Home Language book retells the cumulative folk tale in sequence with first, then, afterwards, finally (printed pp.44–49) and retells the hare-and-tortoise race as a sports report using First/Then/Afterwards/Finally (printed p.108), with a connectives list (printed pp.112–113); the Grade 5 book links a procedure with first, afterwards, next, finally (printed pp.24–25); the Grade 6 book orders a process with First/Then/Afterwards/Thereafter/Before/Finally (printed p.77); and the Grade 3 First Additional Language Workbook 2 sequences with First/Then/Lastly/Finally (printed p.57).
 
 **Nepal added 2026-11-03** — PARTIAL stock, filed exactly as a partial: two books stock this lesson in part: **Book:** *English Grade 8* — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre. **Book:** *Teachers' Guide English Grade 9* — Nepal, Curriculum Development Centre. All filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). The named teaching sits in the guide, **cited for its own teaching only, worded as such**: the Grade 9 teacher's guide is a DRAFT for an older twenty-unit textbook, not the held Grade 9 student's book, and the held copy is an incomplete excerpt — its Unit 6 (printed pp.49–54, which survives) teaches **imperatives with sequence markers (first/then/next)** as the grammar of giving instructions. The Grade 8 student's book carries the process in its order without naming the set: **"How to Wash Clothes in a Washing Machine", a seven-step instruction text** (Unit 3, printed pp.25–36). Stated plainly: no read Nepal student's book names the sequence set, and no "finally" is printed in this work — Nepal carries First/Then/Next, with no Finally claim.
+
+**Cambodia added 2026-11-03** — 3 books stock this lesson: **Book:** *ENGLISH Grade 8* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. **Book:** *ENGLISH Grade 10* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2021, no ISBN printed. **Book:** *ENGLISH Grade 12* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2023, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia prints the full sequence set, finally included, twice: Grade 10's recipe unit sequences its instructions first / then / after that / finally (Unit 13), and Grade 12 describes a tour itinerary with first / then / afterwards / finally (Unit 7); Grade 8 sequences a ceremony with first, second, third, next, after that, then (Unit 3).

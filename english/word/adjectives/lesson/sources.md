@@ -1,6 +1,6 @@
 # Sources — Adjectives
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
 
 Every part traces to its book and page.
 
@@ -223,9 +223,14 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 | Personality adjectives as a taught set — active, clever, friendly, helpful — inside "What's he/she like?" | Vietnam — Tiếng Anh 5, Volume 1 (Global Success), Unit 3, printed pp.22–27 |
 | Comparative adjectives as named grammar with a rule box — "compare two people or things" | Vietnam — Tiếng Anh 6, Volume 1 (Global Success), Unit 4, printed pp.38–47 (grammar heading printed p.41) |
 | Superlative adjectives — short adjectives only — closing the comparison ladder | Vietnam — Tiếng Anh 6, Volume 2 (Global Success), Unit 12, printed pp.58–67 (grammar heading printed p.61) |
+| Describing people with simple adjectives (tall, short, young, old), with first comparisons of family members | Cambodia — ENGLISH Grade 10 (student's book), Unit 4 "My family", printed pp.19–24 |
+| Adjective order — more than one adjective in the right order ("a big, modern TV", "the big, square, yellow blanket") | Cambodia — ENGLISH Grade 10 (student's book), Unit 21 "What does it look like?", printed pp.111–116 |
+| Appearance and personality adjectives, and the difference between "What does she look like?" and "What's she like?" | Cambodia — ENGLISH Grade 10 (student's book), Unit 22, printed pp.117–122 |
+| Adjective types named — descriptive, demonstrative and quantitative adjectives | Cambodia — ENGLISH Grade 12 (student's book), Unit 17 "Advertising", printed pp.93–98 |
+| Opposite adjectives (young/old, tidy/messy, wet/dry) inside the comparatives consolidation | Cambodia — ENGLISH Grade 7 (student's book), Unit 12 "Monsters!", printed pp.74–79 |
 
-**Acceptance count: taught in 20 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).**
+**Acceptance count: taught in 21 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).**
 Libya carries the definition twice and the
 pairs inside a story; Bangladesh carries the pictured pairs;
 Egypt carries the fullest statement of what adjectives tell;
@@ -255,3 +260,5 @@ Armenia joined 2026-11-03: it carries describing a friend — tall, young, smart
 **Armenia added 2026-11-03** — three books stock this lesson: **Book:** *English 3 — Part 1* — Armenia, COAF, Yerevan 2024 (Part 1 only). **Book:** *English 4 — Part 1* — Armenia, COAF, Yerevan 2025 (Part 1 only). **Book:** *English 7* — Armenia, Zangak, Yerevan 2023, Lusine Grigoryan, ISBN 978-9939-99-035-4. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Describing a friend — tall, young, smart — is the adjective's first job in the Grade 3 book, one unit after "He is happy / She is …" for feelings (Unit 1.2, printed p.11; Unit 1.3 "My Friend Is Smart", printed p.14). The Grade 4 book teaches comparison as forms and then uses it on real places — bigger, the biggest; happier, the happiest; "Armenia is smaller than Greece. … Armenia is the smallest." (Unit 1.4 "Adjectives", printed pp.23–25). The Grade 7 book names the -ed against -ing contrast (bored/boring type; Unit 1, printed p.13).
 
 **Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 5, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2024, ISBN 978-604-0-39361-6. **Book:** *Tiếng Anh 6, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25873-1. **Book:** *Tiếng Anh 6, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25874-8. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam builds the adjective from description to comparison: personality adjectives are a taught set at Grade 5, Volume 1 (active, clever, friendly, helpful), comparatives arrive as named grammar with a rule box at Grade 6, Volume 1 (Unit 4), and superlatives close the ladder at Grade 6, Volume 2 (Unit 12) — explicitly limited to short adjectives, as printed. The comparison system is then revised and extended at Grade 10 (Unit 7, printed pp.76–85).
+
+**Cambodia added 2026-11-03** — 3 books stock this lesson: **Book:** *ENGLISH Grade 7* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. **Book:** *ENGLISH Grade 10* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2021, no ISBN printed. **Book:** *ENGLISH Grade 12* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2023, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia's adjective work runs from description to system: Grade 10 describes people (Unit 4), orders stacked adjectives (Unit 21) and splits look-like from be-like (Unit 22); Grade 12 names the adjective types outright — descriptive, demonstrative, quantitative (Unit 17); Grade 7 consolidates opposite adjectives inside its monsters units (Unit 12).

@@ -1,6 +1,6 @@
 # Sources — Asking with question words
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
 
 Every part traces to its book and page.
 
@@ -173,10 +173,13 @@ CITATION CHECK PASSED 2026-11-03).
 | Wh-question words as named grammar — each question word matched to the information it asks for | Vietnam — Tiếng Anh 6, Volume 2 (Global Success), Unit 7, printed pp.6–15 (grammar heading printed p.9) |
 | Yes / No and Wh-questions formed across tenses, with question-word choice (What / Which, Why, Where, When, How) | Vietnam — Tiếng Anh 8 (Global Success), Unit 4, printed pp.40–49 |
 | Question words before to-infinitives — who/what/where/when/how + to-infinitive after ask, wonder, (not) decide, (not) tell, (not) know | Vietnam — Tiếng Anh 9 (Global Success), Unit 1, printed pp.8–17 (grammar heading printed p.11) |
+| Question words as a system: who (person), what (thing), when (time), where (place), why (reason) | Cambodia — ENGLISH Grade 8 (student's book), Unit 24 "Why so many questions?", printed pp.152–157 |
+| Wh- questions consolidated — Why / When / What / Where / Who — with going to, in the closing unit | Cambodia — ENGLISH Grade 9 (student's book), Unit 33 "Next year at school", printed pp.206–211 |
+| The first question words as the book's question forms: what and how many, then who | Cambodia — English Grade 4 (student's book), Unit 5, printed pp.58–71; Unit 7, printed pp.86–99 |
 
-**Acceptance count: taught in 19 countries (Bangladesh, Egypt,
+**Acceptance count: taught in 20 countries (Bangladesh, Egypt,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
-Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).** Mongolia tables the family with its answer
+Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).** Mongolia tables the family with its answer
 shapes; Bangladesh gives the words their voice; Egypt has
 drilled the questions and whole answers since the youngest
 books; China adds the words worked as whole units — where,
@@ -227,3 +230,5 @@ pp.18–29; reference, printed pp.111–119).
 **Armenia added 2026-11-03** — 2 books stock this lesson: **Book:** *English 3 — Part 1* — Armenia, COAF, Yerevan 2024 (Part 1 only). **Book:** *English 6* — Armenia, COAF, Yerevan 2024, no ISBN printed. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia checks the question words as a set — How old / What colour / When / Where — in English 3, Part 1's end-of-Part-1 Progress Check Units 1–3 (printed pp.94–99), and teaches wh-questions as a headed grammar lesson in English 6, Unit 2.2 (printed pp.35–39), then works them again with statements in the favourite-player lesson, Unit 2.4 (printed pp.45–47).
 
 **Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 6, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25874-8. **Book:** *Tiếng Anh 8 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2023, ISBN 978-604-0-35127-2. **Book:** *Tiếng Anh 9 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2024, ISBN 978-604-0-39366-1. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam names the question-word system at Grade 6, Volume 2 — each Wh-word matched to what it asks for — works both question types across tenses at Grade 8, and adds the question-words-before-to-infinitives pattern at Grade 9. Filed plainly, as the Grade 7 book's own negatives state: Wh-questions are used constantly from the first primary book but are not taught as a system there; the system arrives with the Grade 6 rule box.
+
+**Cambodia added 2026-11-03** — 3 books stock this lesson: **Book:** *English Grade 4* (student's book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS), 8th printing 2020, ISBN 978-9924-9423-0-6. **Book:** *ENGLISH Grade 8* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. **Book:** *ENGLISH Grade 9* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", first printing 2016, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia names the question words as a system exactly once — Grade 8's Unit 24, which glosses each word with what it asks for — and consolidates them in Grade 9's closing unit (Unit 33); below that, Grade 4's what / how many / who are the working question forms of the primary course.

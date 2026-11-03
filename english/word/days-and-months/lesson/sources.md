@@ -1,6 +1,6 @@
 # Sources — Days and months
 
-countries: Bangladesh, Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
+countries: Bangladesh, Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
 
 Every part traces to its book and page.
 
@@ -151,9 +151,13 @@ english/books/jordan.md (Grade 6 Activity Book Semester 2 section, FULLY READ + 
 | All seven days as the unit's vocabulary — "What day is it today? — It's …" and "What do you do on …s?" | Vietnam — Tiếng Anh 4, Volume 1 (Global Success), Unit 3, printed pp.22–27 |
 | The first five months — January to May — inside "When's your birthday? — It's in …" (month only; no day or full date is taught) | Vietnam — Tiếng Anh 4, Volume 1 (Global Success), Unit 4, printed pp.28–33 |
 | The remaining months — September to December taught, June to August in the calendar pictures — inside "When's your sports day? — It's in …" | Vietnam — Tiếng Anh 4, Volume 1 (Global Success), Unit 9, printed pp.62–67 |
+| The seven days as vocabulary and spelling — "What day is today? Today is Monday", on + day, at + time | Cambodia — English Grade 6 (student's book), Chapter 2, Unit 1 "The Days", printed pp.30–33 |
+| The twelve months — "What month is it now/next month?", first/last month of the year, months with 31 and 30 days | Cambodia — English Grade 6 (student's book), Chapter 2, Unit 2 "The Months", printed pp.34–37 |
+| Full dates with years — "When were you born? I was born on 14th October 2004" | Cambodia — English Grade 6 (student's book), Chapter 2, Unit 3 "Family Birth Dates", printed pp.38–41 |
+| Days of the week with school timetables | Cambodia — ENGLISH Grade 7 (student's book), Unit 4 "I study English!", printed pp.26–31 |
 
-**Acceptance count: taught in 18 countries (Bangladesh,
-Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).** Egypt
+**Acceptance count: taught in 19 countries (Bangladesh,
+Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).** Egypt
 carries the days first (its school-week
 order, Saturday-first); Bangladesh carries the days on a
 Sunday-first calendar, the months with their ordinal numbers,
@@ -214,3 +218,5 @@ first of January" (p.99).
 **Armenia added 2026-11-03** — 1 book stocks this lesson: **Book:** *English 3 — Part 1* — Armenia, COAF, Yerevan 2024 (Part 1 only). Filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). PARTIAL — days half only, filed plainly: Grade 3 Part 1 lists the days of the week as one set — Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday — inside the Letter D lesson (Unit 2.3, printed p.40). The months half is not stocked: no held Armenia book teaches the months, and none is claimed.
 
 **Vietnam added 2026-11-03** — 1 book stocks this lesson: **Book:** *Tiếng Anh 4, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2023, ISBN 978-604-0-35120-3. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Both halves come from one book, and they arrive late: a pupil finishing Grade 3 in Vietnam has no English for Monday or January at all — the country file states it plainly. Grade 4, Volume 1 teaches all seven days as one unit (Unit 3), then splits the months across the year — January to May with birthdays (Unit 4), the rest with the sports day (Unit 9), June to August carried in calendar pictures. Birthdays and sports days are given by month only: ordinals and full dates are never taught in the book.
+
+**Cambodia added 2026-11-03** — 2 books stock this lesson: **Book:** *English Grade 6* (student's book) — Cambodia, MoEYS, 5th printing 2020, ISBN 978-9924-9423-1-3. **Book:** *ENGLISH Grade 7* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Both halves are stocked from one chapter: Grade 6's Chapter 2 teaches the days (Unit 1), the months (Unit 2) and full dates with years (Unit 3); Grade 7 works the days again against school timetables (Unit 4). The primary books below Grade 6 teach no calendar at all — the Grade 4 and Grade 5 books' negatives record that "Monday", "January" and "month" never occur in them.

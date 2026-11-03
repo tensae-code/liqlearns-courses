@@ -1,6 +1,6 @@
 # Sources — The town
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
 
 Every part traces to its book and page.
 
@@ -152,9 +152,12 @@ english/books/jordan.md (Grade 6 Pupil's Book Semester 1 section, FULLY READ + C
 | Places in a neighbourhood — square, art gallery, cathedral, temple, railway station — with describing adjectives (noisy, crowded, peaceful, quiet, modern, busy, boring) and directions inside the opening dialogue | Vietnam — Tiếng Anh 6, Volume 1 (Global Success), Unit 4, printed pp.38–47 |
 | The city as signs and directions — get (to), go straight, left, right, stop, turn, turn left, turn right — inside "How can I get to the …? — Go straight and turn left." | Vietnam — Tiếng Anh 4, Volume 2 (Global Success), Unit 17, printed pp.46–51 |
 | City life as a topic set — downtown, concrete jungle, sky train, metro, public amenities; congested, liveable, bustling | Vietnam — Tiếng Anh 9 (Global Success), Unit 2, printed pp.18–27 |
+| Town places, position prepositions (in front of, behind, opposite, in between) and giving directions | Cambodia — ENGLISH Grade 7 (student's book), Unit 24 "Cool places in my town", printed pp.146–151 |
+| Places in town, inside the suggestions unit | Cambodia — ENGLISH Grade 10 (student's book), Unit 17 "Why don't we…?", printed pp.93–98 |
+| Naming places in town; asking for and giving directions (GUIDE-HELD ONLY — the Grade 11 student's book is not held; the teacher's book reproduces its pages) | Cambodia — ENGLISH Grade 11 (teacher's guide book), Unit 3 "Around town", printed pp.13–18 |
 
-**Acceptance count: taught in 19 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).** Egypt
+**Acceptance count: taught in 20 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).** Egypt
 carries the first set twice (Primary 1's
 eight words with their dialog; Primary 2's city set);
 Bangladesh carries city life as a topic, against village life;
@@ -188,3 +191,5 @@ Vientiane's landmarks to direct over (pp.66–70).
 **Armenia added 2026-11-03** — 2 books stock this lesson: **Book:** *English 4 — Part 1* — Armenia, COAF, Yerevan 2025 (Part 1 only). **Book:** *English 5* (copy B, the corrected revision; copy A is superseded and never cited) — Armenia, Mari Publishing, Yerevan 2023, ISBN 978-9939-888-23-1. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 4 Part 1 teaches places in town as an English in Use lesson — theatre, restaurant, museum and the rest of the town set — in Unit 1.6 "Places in Town", in Unit 1 (printed pp.14–41). Grade 5 copy B describes a home town whole in Topic 3's reading (printed p.65): "Hi, I am Marina. I live in a small town in the north of Armenia, in Tavoush. I was born in Noyemberyan…" — with places in town and corner/opposite/next-to prepositions in the same topic.
 
 **Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 6, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25873-1. **Book:** *Tiếng Anh 4, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2023, ISBN 978-604-0-35121-0. **Book:** *Tiếng Anh 9 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2024, ISBN 978-604-0-39366-1. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam's town stock is the neighbourhood first: Grade 6, Volume 1's "My Neighbourhood" unit names the places and the adjectives that describe them, and teaches asking for and giving directions as its Everyday English. Grade 4, Volume 2 works the city as road signs and direction imperatives, and Grade 9 returns to the city as a topic set (downtown, sky train, metro, public amenities) in its City Life unit.
+
+**Cambodia added 2026-11-03** — 3 books stock this lesson: **Book:** *ENGLISH Grade 7* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. **Book:** *ENGLISH Grade 10* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2021, no ISBN printed. **Book:** *ENGLISH Grade 11* (teacher's guide book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, no ISBN printed; the Grade 11 student's book is NOT held — the guide reproduces its pages, so everything cited from it is guide-held only. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia's town stock is Grade 7's places-and-directions unit (Unit 24) and Grade 10's places in town (Unit 17); the Grade 11 material is guide-held only, worded that way in its row — the student's book is not held, and the teacher's book's reproductions are the only held form of its pages.

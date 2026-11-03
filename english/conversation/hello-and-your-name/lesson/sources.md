@@ -1,6 +1,6 @@
 # Sources for this lesson — Greetings
 
-countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
+countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag.
@@ -71,6 +71,10 @@ side by side on one PDF page — that was wrong.
 | The greeting and self-introduction as the first pattern of school: "Hi, I'm Bill." and the leave-taking "Bye, Bill." | Vietnam — Tiếng Anh 1 (Global Success), Unit 1, printed p.8 |
 | "Hello. / Hi. I'm …" with "Goodbye. / Bye." — the greeting exchange as Unit 1 of the Grade 3 course | Vietnam — Tiếng Anh 3, Volume 1 (Global Success), Unit 1, printed pp.10–15 |
 | "What's your name? — My name's …" as the next unit's pattern | Vietnam — Tiếng Anh 3, Volume 1 (Global Success), Unit 2, printed pp.16–21 |
+| Hello/hi and names as the first unit of the course — saying hello, "I am …", asking a name, "How are you? / I'm fine" | Cambodia — English Grade 4 (student's book), Unit 1 "Greetings", printed pp.2–15 |
+| Greetings and introductions as the Grade 6 re-start: greetings, name, age and grade, with a Language Focus on to be | Cambodia — English Grade 6 (student's book), Chapter 1, Unit 1 "Greetings And Introductions", printed pp.8–11 |
+| Meeting new friends: greetings, introductions, name/age/origin — "What's your name? I'm ___." in the syllabus Form column | Cambodia — ENGLISH Grade 7 (student's book), Unit 1 "Meeting new friends", printed pp.8–13 |
+| Exchanging names (with spelling), ages, birthdays and phone numbers as the opening unit — "Hi, I'm Tim. What's your name?" | Cambodia — ENGLISH Grade 10 (student's book), Unit 1 "My personal information", printed pp.1–6 |
 
 **Second country merged 2026-10-25 — Libya:**
 English for Libya, Pupils Book Grade 1 (CERC, Ministry of Education,
@@ -113,7 +117,7 @@ rendered page the same day).
 - Unit 1 "Greeting and Numbers," p. 14 (Hello/Hi, Goodbye/bye tracing;
   "What's your name? / My name's" tracing strips, p. 16).
 
-**Acceptance count: taught in 21 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).**
+**Acceptance count: taught in 22 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).**
 China adds name exchanges from its first primary page and the
 "Where are you from? — I'm from …" origin frame (Grades 3), plus
 five printed ways to say goodbye (Grade 6 Volume 2); North
@@ -580,3 +584,5 @@ loved subject ("I am eight years old.", printed p.7).
 **Armenia added 2026-11-03** — one book stocks this lesson: **Book:** *English 3 — Part 1* (student's book) — Armenia, Children of Armenia Charitable Foundation (COAF), Yerevan 2024, Nersesyan/Tonoyan/Arakelyan, no ISBN printed; the held file is Part 1 only. Filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia opens its course on this lesson: the Starter Unit, Lesson 1, "Let's meet Nare!" (printed p.3), teaches hello / hi / goodbye and introducing yourself ("I am …") and others ("This is …"), with the same cast carried through the book. Unit 1, "My Friends and I" (printed pp.9–32), then introduces others by name — "This is Jack" — in Unit 1.1, "My Classmates".
 
 **Vietnam added 2026-11-03** — 2 books stock this lesson: **Book:** *Tiếng Anh 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2020, ISBN 978-604-0-22405-7. **Book:** *Tiếng Anh 3, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2022, ISBN 978-604-0-30720-0. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam opens both of its primary courses on this lesson. Grade 1's first unit pattern is the greeting and self-introduction itself — "Hi, I'm Bill." with the leave-taking "Bye, Bill." (printed p.8) — recycled through the book's Phil and Sue review stories. Grade 3, Volume 1 gives the exchange two full units: Unit 1, "Hello" (printed pp.10–15) teaches "Hello. / Hi. I'm …" and "Goodbye. / Bye.", and Unit 2, "Our names" (printed pp.16–21) teaches "What's your name? — My name's …". Filed plainly: the greetings are Hello/Hi only throughout the set — "Good morning" is printed nowhere in the sixteen books.
+
+**Cambodia added 2026-11-03** — 4 books stock this lesson: **Book:** *English Grade 4* (student's book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS), 8th printing 2020, ISBN 978-9924-9423-0-6. **Book:** *English Grade 6* (student's book) — Cambodia, MoEYS, 5th printing 2020, ISBN 978-9924-9423-1-3. **Book:** *ENGLISH Grade 7* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. **Book:** *ENGLISH Grade 10* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2021, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia opens three of its courses on this lesson: Grade 4's Unit 1 (hello/hi, "I am …", asking a name), Grade 7's Unit 1 "Meeting new friends" and Grade 10's Unit 1 of names, ages, birthdays and phone numbers; Grade 6 re-opens on it as a consolidation year (Chapter 1, Unit 1, with a Language Focus on to be).

@@ -1,6 +1,6 @@
 # Sources — Telling the time
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
 
 Every part traces to its book and page.
 
@@ -137,9 +137,13 @@ english/books/jordan.md (Grade 3 Pupil's Book Semester 1 section, FULLY READ + C
 | Telling the time at its simplest — "It is 9 o'clock" — inside the school unit's subjects lesson | Armenia — English 3, Part 1 (COAF), Unit 2.2, in Unit 2, printed pp.33–64 |
 | "What Time Is It?" as a listening lesson of its own — o'clock, half past, am/pm — with after-school clubs on the timetable | Armenia — English 4, Part 1 (COAF), Unit 2.3 "What Time Is It?", in Unit 2, printed pp.42–76 |
 | Clock time in words — o'clock, fifteen, thirty, forty-five past the hour — inside "What time is it? — It's …" and "What time do you …? — I … at …", with digital clocks throughout | Vietnam — Tiếng Anh 4, Volume 1 (Global Success), Unit 2, printed pp.16–21 |
+| Clock language in full: o'clock, quarter past, half past, quarter to, five to/past — "What time is it? / What time does your maths class start?" | Cambodia — English Grade 6 (student's book), Chapter 1, Unit 2 "Telling The Time", printed pp.12–15 |
+| Telling the time in full: o'clock, half past, quarter past/to, five past/to, twenty past/to, and am/pm with in the morning/afternoon/evening | Cambodia — ENGLISH Grade 8 (student's book), Unit 19 "What's the time?", printed pp.122–127 |
+| Telling the time inside the school day — subjects, days, class timetables | Cambodia — ENGLISH Grade 7 (student's book), Unit 4 "I study English!", printed pp.26–31 |
+| Telling the time with the daily routine — "ten past four", "twenty to twelve" | Cambodia — ENGLISH Grade 10 (student's book), Unit 7 "My daily routine", printed pp.35–40 |
 
-**Acceptance count: taught in 18 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).** Bangladesh carries
+**Acceptance count: taught in 19 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).** Bangladesh carries
 the clock's hands, the
 o'clock shape, and the a.m./p.m. rule; Egypt carries times
 inside the day's routines with the book's own question;
@@ -189,3 +193,5 @@ times; secondary adds the quarter-and-half system.
 **Armenia added 2026-11-03** — 2 books stock this lesson: **Book:** *English 3 — Part 1* — Armenia, COAF, Yerevan 2024 (Part 1 only). **Book:** *English 4 — Part 1* — Armenia, COAF, Yerevan 2025 (Part 1 only). All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 3 Part 1 tells the time at its simplest — "It is 9 o'clock" — inside the school unit's subjects lesson (Unit 2.2, in Unit 2, printed pp.33–64). Grade 4 Part 1 gives "What Time Is It?" a listening lesson of its own (Unit 2.3, in Unit 2, printed pp.42–76) — o'clock, half past, am/pm — with after-school clubs on the timetable.
 
 **Vietnam added 2026-11-03** — 1 book stocks this lesson: **Book:** *Tiếng Anh 4, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2023, ISBN 978-604-0-35120-3. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam's time-telling is one primary unit with its limits stated plainly: only the quarter points are taught — o'clock, fifteen, thirty and forty-five — times are read as number words ("six thirty", "It's eight thirty.", printed p.16), and there is no "half past / quarter past" wording anywhere in the set.
+
+**Cambodia added 2026-11-03** — 4 books stock this lesson: **Book:** *English Grade 6* (student's book) — Cambodia, MoEYS, 5th printing 2020, ISBN 978-9924-9423-1-3. **Book:** *ENGLISH Grade 7* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. **Book:** *ENGLISH Grade 8* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. **Book:** *ENGLISH Grade 10* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2021, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia teaches the clock twice in full: Grade 6's dedicated unit (Chapter 1, Unit 2 — o'clock, quarter past, half past, quarter to) and Grade 8's Unit 19, which adds the five/twenty past/to forms and am/pm; Grades 7 and 10 work it inside the school day and the daily routine.

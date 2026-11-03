@@ -1,6 +1,6 @@
 # Sources — The body
 
-countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam
+countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia
 
 Every part traces to its book and page.
 
@@ -142,9 +142,12 @@ english/books/jordan.md (Grade 2 Pupil's Book Semester 1 section, FULLY READ + C
 | Body words as the unit's set — ear, eye, face, hair, hand, mouth, nose — with "What's this? — It's …" and the imperatives "Touch your …! / Open your …!" | Vietnam — Tiếng Anh 3, Volume 1 (Global Success), Unit 4, printed pp.28–33 |
 | First body words inside patterns — hair, hand, head in "Touch your hair." (Unit 8) and face, foot in "Point to your hand." (Unit 15) | Vietnam — Tiếng Anh 1 (Global Success), Unit 8, printed pp.34–36; Unit 15, printed pp.65–67 |
 | Body parts and appearance as the unit's vocabulary, beside personality adjectives, with "What does your best friend look like?" as its Everyday English | Vietnam — Tiếng Anh 6, Volume 1 (Global Success), Unit 3, printed pp.26–35 |
+| Head words — eye, forehead, nose, ear, cheek, mouth — counted with have/has ("How many eyes do you have?") | Cambodia — English Grade 6 (student's book), Chapter 3, Unit 1 "My Head", printed pp.52–55 |
+| Limb words — arm, hand, fingers, knee, leg, foot — with this/these | Cambodia — English Grade 6 (student's book), Chapter 3, Unit 2 "My Arms And Legs", printed pp.56–59 |
+| Body parts inside the health unit — abdomen, spine, elbow, knee, shoulder, toes | Cambodia — ENGLISH Grade 12 (student's book), Unit 13 "Staying healthy", printed pp.69–74 |
 
-**Acceptance count: taught in 18 countries (Egypt, Palestine,
-Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam).**
+**Acceptance count: taught in 19 countries (Egypt, Palestine,
+Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia).**
 Palestine carries the core seven by touch;
 Egypt carries the parts at work in the five sense sentences,
 plus three more inside its letter pages; China carries the
@@ -174,3 +177,5 @@ stomachache (p.73).
 **Nepal added 2026-11-03** — 3 books stock this lesson: **Book:** *MY ENGLISH BOOK Grade I* — Nepal, CDC (First edition 2003, Reprint 2011); **Book:** *My English 1 Teacher's Guide* — Nepal, MoEST/CDC (First Edition 2020); **Book:** *TEACHER'S GUIDE ENGLISH GRADE TWO* — Nepal, MoEST/CDC (2021). All filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). The held Grade 1 student's book works body words in Unit 3 (pp.15–21) — "Touch your eye" (p.20). The two guides do NOT belong to the held student's books — each keys to a newer integrated-curriculum workbook that is not held — so their body lessons (Grade 1 guide Lessons 73–74, printed pp.279–287; Grade 2 guide Lessons 5–6) are cited for their own teaching only, never as support for the held student's books.
 
 **Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 3, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2022, ISBN 978-604-0-30720-0. **Book:** *Tiếng Anh 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2020, ISBN 978-604-0-22405-7. **Book:** *Tiếng Anh 6, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25873-1. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam's body stock is the face-and-hand set early and the appearance set later: Grade 1 carries head, hair, hand, face and foot inside its touch/point patterns; Grade 3, Volume 1 gives the seven-word body unit (ear, eye, face, hair, hand, mouth, nose) with naming and imperative practice; and Grade 6, Volume 1 works body parts and appearance as vocabulary beside the personality adjectives. Filed plainly: the Grade 1 book teaches no body parts beyond head, hair, hand, face and foot, as its own negatives state.
+
+**Cambodia added 2026-11-03** — 2 books stock this lesson: **Book:** *English Grade 6* (student's book) — Cambodia, MoEYS, 5th printing 2020, ISBN 978-9924-9423-1-3. **Book:** *ENGLISH Grade 12* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2023, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia's body stock is Grade 6's whole body chapter (Chapter 3: head, limbs, appearance, functions, care) and Grade 12's health-unit body parts (Unit 13).

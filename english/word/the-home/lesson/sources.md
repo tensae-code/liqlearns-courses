@@ -1,6 +1,6 @@
 # Sources — The home
 
-countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
+countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
 
 Every part traces to its book and page.
 
@@ -165,10 +165,12 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Rooms and furniture as the unit's set — bathroom, bedroom, chair, house, kitchen, lamp, living room, table — with "Where's the …? — It's here / there." and plurals in the … / on the … | Vietnam — Tiếng Anh 3, Volume 2 (Global Success), Unit 13, printed pp.18–23 |
 | Types of house and rooms/furniture — town house, country house, flat; hall, kitchen, dishwasher, chest of drawers — with prepositions of place | Vietnam — Tiếng Anh 6, Volume 1 (Global Success), Unit 2, printed pp.16–25 |
 | The home as address — building, flat, house, tower and numbered street addresses — inside "What's your address? — It's …" | Vietnam — Tiếng Anh 5, Volume 1 (Global Success), Unit 2, printed pp.16–21 |
+| Rooms and furniture words; there is / there are to describe a house; prepositions of place and dimension | Cambodia — ENGLISH Grade 10 (student's book), Unit 3 "My house", printed pp.13–18 |
+| Rooms of a house and where things are (under, next to), describing real children's homes | Cambodia — ENGLISH Grade 7 (student's book), Unit 23 "My cool house", printed pp.140–145 |
 
-**Acceptance count: taught in 19 countries (Egypt, Libya,
+**Acceptance count: taught in 20 countries (Egypt, Libya,
 Palestine, Laos, China, North Macedonia, Mongolia, Indonesia,
-Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).** Egypt carries the five rooms with a sentence for
+Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).** Egypt carries the five rooms with a sentence for
 each and the drilled question; Libya carries the same rooms
 twice (Grade 1 set, Grade 2 labelled house) with the sitting
 room name and the furniture; Palestine carries the bedroom set
@@ -206,3 +208,5 @@ reading passage is a house text with written answers (p.117).
 **Armenia added 2026-11-03** — 1 book stocks this lesson: **Book:** *Grade 3 Teacher's Resource Book* — Armenia, no publisher/year/ISBN printed in its English text (its framework is cited inside as 2021). Filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). GUIDE-ONLY stock, worded plainly: Armenia's stock is the Resource Book's own Module 4 "My House" (from printed p.97) — the rooms of the house as a whole module, room names worked through "Have you got a living room in your house? — Yes, I have.", with a garage text ("We keep our car in the garage."). This Resource Book is a resource book for a different Grade 3 course (Modules: My Friends / My School / My Family / My House / My Meals / Animals), NOT a companion to the held COAF Grade 3 student's book, and it is cited for its own teaching only, never as support for the COAF book. No held Armenia pupil book teaches a rooms set, and none is claimed.
 
 **Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 3, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2022, ISBN 978-604-0-30721-7. **Book:** *Tiếng Anh 6, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25873-1. **Book:** *Tiếng Anh 5, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2024, ISBN 978-604-0-39361-6. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam teaches the home three times over: Grade 3, Volume 2's "My house" unit gives the rooms-and-furniture set with where-questions singular and plural; Grade 5, Volume 1 works the home as address (building, flat, house, tower, numbered streets); and Grade 6, Volume 1 gives house types and the furniture set again at the higher level, with prepositions of place as its grammar pair.
+
+**Cambodia added 2026-11-03** — 2 books stock this lesson: **Book:** *ENGLISH Grade 7* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. **Book:** *ENGLISH Grade 10* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2021, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia's home stock is two house units: Grade 7's rooms and furniture with place prepositions (Unit 23), and Grade 10's rooms-and-furniture unit built on there is/are (Unit 3).

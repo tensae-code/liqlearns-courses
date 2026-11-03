@@ -1,6 +1,6 @@
 # Sources — Adverbs
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
 
 Every part traces to its book and page.
 
@@ -175,9 +175,13 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Adverbs of frequency as named grammar — their position before the main verb, on the always–usually–often–sometimes–rarely–never scale | Vietnam — Tiếng Anh 6, Volume 1 (Global Success), Unit 1, printed pp.6–15 (grammar heading printed p.10) |
 | Comparative forms of adverbs — more + adverb for longer adverbs, -er for adverbs identical to adjectives (fast → faster, hard → harder), well → better, badly → worse | Vietnam — Tiếng Anh 8 (Global Success), Unit 2, printed pp.18–27 |
 | Manner adverbs inside animal actions — dance beautifully, roar loudly, run quickly, sing merrily | Vietnam — Tiếng Anh 4, Volume 2 (Global Success), Unit 19, printed pp.58–63 |
+| Adverbs of manner (quickly, politely, carelessly…), including forming them from adjectives | Cambodia — ENGLISH Grade 8 (student's book), Unit 6 "Travelling to grandma's", printed pp.44–49 |
+| Adverbs of manner and their position, inside the emergencies unit | Cambodia — ENGLISH Grade 12 (student's book), Unit 14 "Staying safe", printed pp.75–80 |
+| Adverbs of frequency on a 0–100% scale, and their position in the sentence | Cambodia — ENGLISH Grade 12 (student's book), Unit 2 "A day in the life", printed pp.7–12 |
+| Adverbs of frequency with the present simple of daily routine | Cambodia — ENGLISH Grade 10 (student's book), Unit 7 "My daily routine", printed pp.35–40 |
 
-**Acceptance count: taught in 19 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).**
+**Acceptance count: taught in 20 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).**
 Bangladesh carries the definition and the mime
 game; Egypt carries the making rule (-ly, y → i) and the
 frequency ladder; Libya carries the adjective-to-adverb move
@@ -206,3 +210,5 @@ Armenia joined 2026-11-03: it carries adverbs of frequency as a grammar lesson w
 **Armenia added 2026-11-03** — three books stock this lesson: **Book:** *English 4 — Part 1* — Armenia, COAF, Yerevan 2025 (Part 1 only). **Book:** *English 6* — Armenia, COAF, Yerevan 2024, no ISBN printed. **Book:** *English 7* — Armenia, Zangak, Yerevan 2023, Lusine Grigoryan, ISBN 978-9939-99-035-4. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). The Grade 4 book teaches adverbs of frequency as a grammar lesson with their position in the sentence — always / usually / sometimes / never (Unit 2.4 "Adverbs of Frequency", printed p.52). The Grade 6 book carries adverbs of frequency again inside the sports unit's listening-and-grammar work (Unit 2.3, printed pp.40–44). The Grade 7 book compares adverbs like adjectives — comparative and superlative adverbs as a headed grammar lesson (Unit 1, printed p.15) — and works adverb position (recently, lately, still, yet; Unit 4, printed p.80).
 
 **Vietnam added 2026-11-03** — 4 books stock this lesson: **Book:** *Tiếng Anh 5, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2024, ISBN 978-604-0-39361-6. **Book:** *Tiếng Anh 6, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25873-1. **Book:** *Tiếng Anh 8 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2023, ISBN 978-604-0-35127-2. **Book:** *Tiếng Anh 4, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2023, ISBN 978-604-0-35121-0. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam's adverb spine is frequency first, then manner, then comparison: the frequency set is labelled in a bar chart at Grade 5, Volume 1 and named as grammar — with its position rule — at Grade 6, Volume 1; manner adverbs are worked inside animal actions at Grade 4, Volume 2 (dance beautifully, roar loudly, run quickly, sing merrily); and Grade 8 names comparative forms of adverbs as its own grammar point, irregular well → better and badly → worse included.
+
+**Cambodia added 2026-11-03** — 3 books stock this lesson: **Book:** *ENGLISH Grade 8* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. **Book:** *ENGLISH Grade 10* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2021, no ISBN printed. **Book:** *ENGLISH Grade 12* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2023, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia teaches both adverb families as systems: manner in Grade 8 (formation from adjectives included, Unit 6) and again with position in Grade 12 (Unit 14); frequency on a printed 0–100% scale in Grade 12 (Unit 2) and with routines in Grade 10 (Unit 7).

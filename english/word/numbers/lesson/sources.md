@@ -1,6 +1,6 @@
 # Sources — Numbers
 
-countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
+countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
 
 Every part traces to its book and page.
 
@@ -210,10 +210,13 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 | Counting extended to ten — "How many windows can you see?" — "I can see six." | Vietnam — Tiếng Anh 1 (Global Success), Unit 16, printed pp.68–70 |
 | Eleven to fifteen as presented words — "What number is it?" — "It's eleven."; sixteen to twenty are used in the next unit and entered in the Glossary, not presented as Lesson 1 words | Vietnam — Tiếng Anh 2 (Global Success), Unit 13, printed pp.57–59 |
 | Numbers eleven to twenty as the family unit's vocabulary, carrying third-person age answers | Vietnam — Tiếng Anh 3, Volume 2 (Global Success), Unit 11, printed pp.6–11 |
+| The numbers as taught units: 11–19, then 20–99, then hundreds to 900, then thousands to 10,000 — with money: Riel prices and "How much does an orange cost?" | Cambodia — English Grade 5 (student's book), Chapter 4, Units 4–7, printed pp.78–93 |
+| Numbers 1–10 in the first unit; the 20–50 list opening the family unit | Cambodia — English Grade 4 (student's book), Unit 1, printed pp.2–15; Unit 7, printed pp.86–99 |
+| Cardinal and ordinal numbers, -teen vs -ty numbers, and reading dates aloud ("on the 28th of July") | Cambodia — ENGLISH Grade 10 (student's book), Unit 1, printed pp.1–6 |
 
-**Acceptance count: taught in 20 countries (Egypt, India,
+**Acceptance count: taught in 21 countries (Egypt, India,
 Palestine, Laos, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).** Palestine carries the youngest path (numbers
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).** Palestine carries the youngest path (numbers
 inside the word units, traced); Egypt carries the counting
 question and the climb (1–5, 11–20, by tens to 100); India
 carries the same 1–20 in its first book; China carries the
@@ -272,3 +275,5 @@ a whole song that sings three numbers (p.14).
 **Armenia added 2026-11-03** — 3 books stock this lesson: **Book:** *English 3 — Part 1* — Armenia, COAF, Yerevan 2024 (Part 1 only). **Book:** *English 4 — Part 1* — Armenia, COAF, Yerevan 2025 (Part 1 only). **Book:** *English 7* — Armenia, Zangak, Yerevan 2023. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 3 Part 1 teaches numbers 1–10 inside the age lesson (Starter Unit, Lesson 3, printed p.5), then counting to 20 (Unit 1.5). Grade 4 Part 1 revises numbers bigger in its Starter Lesson (printed pp.3–13) — 1–20 and the tens to 100. Grade 7 treats numerals as a reference system in its Appendix (printed pp.152–153) — cardinal, ordinal and fractional numbers tabulated.
 
 **Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2020, ISBN 978-604-0-22405-7. **Book:** *Tiếng Anh 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2021, ISBN 978-604-0-25872-4. **Book:** *Tiếng Anh 3, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2022, ISBN 978-604-0-30721-7. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam counts late and in stages: Grade 1 reaches five inside the "How many …?" pattern (Unit 9) and ten by its last unit (Unit 16); Grade 2 presents eleven to fifteen as words (Unit 13) while sixteen to twenty are only used and glossed — a presentation gap the country file files as printed; and Grade 3, Volume 2 teaches eleven to twenty as the family unit's number set.
+
+**Cambodia added 2026-11-03** — 3 books stock this lesson: **Book:** *English Grade 4* (student's book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS), 8th printing 2020, ISBN 978-9924-9423-0-6. **Book:** *English Grade 5* (student's book) — Cambodia, MoEYS, 6th printing 2020, ISBN 978-9924-9423-2-0. **Book:** *ENGLISH Grade 10* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2021, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia builds the number system as a ladder: Grade 4's 1–10 and 20–50, then Grade 5's full Chapter 4 staircase — 11–19, 20–99, hundreds, thousands — priced in Riels as it climbs; Grade 10 adds the ordinals and the -teen/-ty contrast (Unit 1).

@@ -1,6 +1,6 @@
 # Sources — Capital letter and full stop
 
-countries: Bangladesh, Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia
+countries: Bangladesh, Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia
 
 Every part traces to its book and page.
 
@@ -138,9 +138,10 @@ CITATION CHECK PASSED 2026-11-03).
 | GUIDE'S OWN TEACHING (this guide keys to a newer Grade 2 workbook that is not held, not to the held Grade 2 student's book) — punctuation (capital letters, full stops) drilled in every theme Assessment's "Punctuate the following" task, closing with punctuating four sentences in Assessment 10 | Nepal, Grade 2 Teacher's Guide, Assessments 1–10 (Assessment 10 at printed pp.179–180) |
 | GUIDE'S OWN TEACHING (this guide keys to a newer eighteen-unit Grade 6 textbook that is not held, not to the held 2012 student's book) — capitalisation as Unit 1's Extra bit and full stops as Unit 2's Extra bit | Nepal, Grade 6 Teacher's Guide, Unit 1 (printed pp.5–11) and Unit 2 (printed pp.12–18) |
 | Capital letters taught as writing rules inside the unit's writing lesson (partial stock: no held Armenia book states a full-stop rule of its own) | Armenia — English 4, Part 1 (COAF), Unit 1.7 "Things I Do for Fun!" (Writing), in Unit 1, printed pp.14–41 |
+| Capital letters and full stops, named together in the opening Review of Grade 7 material | Cambodia — ENGLISH Grade 8 (student's book), Review "Welcome to Grade 8!", printed pp.8–13 |
 
-**Acceptance count: taught in 14 countries (Bangladesh,
-Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia).** Ghana states the rules as curriculum strands;
+**Acceptance count: taught in 15 countries (Bangladesh,
+Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia).** Ghana states the rules as curriculum strands;
 Bangladesh boxes the capital rule, prints a text wearing it
 in red, and drills the stop/question-mark pair in its first
 punctuation exercises; Indonesia names the marks and
@@ -168,3 +169,5 @@ their books are read (see READING-QUEUE.md).
 **Nepal added 2026-11-03** — 6 books stock this lesson: **Book:** *MY ENGLISH BOOK Grade II* — Nepal, CDC; **Book:** *MY ENGLISH BOOK Grade 3* — Nepal, CDC; **Book:** *MY ENGLISH BOOK Grade IV* — Nepal, CDC; **Book:** *English Grade 6* — Nepal, CDC (Revised Edition 2012; the punctuation unit, Unit 3 at pp.20–26, is inside the held pages — the copy is truncated at p.108 and misbound, with Units 3 and 4 bound out of order); **Book:** *TEACHER'S GUIDE ENGLISH GRADE TWO* — Nepal, MoEST/CDC (2021); **Book:** *TEACHER'S GUIDE: ENGLISH GRADE SIX* — Nepal, MoEST/CDC (Edition 2022). All filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). The student's books teach the pair directly (Grade 2 Units 1 and 4; Grade 3 Unit 3, pp.18–24; Grade 4 Units 1 and 4; Grade 6 Unit 3, pp.20–26). The two guides key to newer books that are not held — the Grade 2 guide to a newer workbook, the Grade 6 guide to a newer eighteen-unit textbook — so their punctuation teaching (Grade 2 guide Assessments 1–10; Grade 6 guide Units 1–2 Extra bits) is cited for its own teaching only.
 
 **Armenia added 2026-11-03** — 1 book stocks this lesson, in part: **Book:** *English 4 — Part 1* — Armenia, COAF, Yerevan 2025 (Part 1 only). Filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). PARTIAL, filed plainly: capital-letter rules are taught as writing rules inside the unit's writing lesson — English 4, Part 1, Unit 1.7 "Things I Do for Fun!" (Writing), in Unit 1 (printed pp.14–41) — but no held Armenia book states a full-stop rule of its own, and none is claimed here.
+
+**Cambodia added 2026-11-03** — 1 book stocks this lesson: **Book:** *ENGLISH Grade 8* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Both halves are stocked from one place: the Grade 8 book's opening Review lists capital letters and full stops among the Grade 7 work it recalls, alongside colours, numbers to 100 and there is/isn't spot-the-difference. Filed plainly: no Cambodia book gives the two marks a rule lesson of their own.

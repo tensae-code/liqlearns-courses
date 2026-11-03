@@ -1,6 +1,6 @@
 # Sources — Mine and yours
 
-countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam
+countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia
 
 Every part traces to its book and page.
 
@@ -133,8 +133,10 @@ CITATION CHECK PASSED 2026-11-03).
 | Possessive pronouns standing alone against possessive adjectives before a noun — two contrasted rule boxes, with its/it's traps in the exercises | Vietnam — Tiếng Anh 6, Volume 2 (Global Success), Unit 9, printed pp.26–35 |
 | Possessive pronouns named as their own grammar point — mine, yours, hers, etc. | Vietnam — Tiếng Anh 7 (Global Success), Unit 11, printed pp.114–123 |
 | The possessive pronoun after of — "a friend of mine" — as the recycled point's new focus | Vietnam — Tiếng Anh 8 (Global Success), Unit 10, printed pp.104–113 |
+| Possessive adjectives set against possessive pronouns — the mine/yours contrast — inside the possessions unit | Cambodia — ENGLISH Grade 10 (student's book), Unit 5 "What have you got?", printed pp.25–30 |
+| Possessive adjectives — my, your, his, her, its, our, their — for who a thing belongs to (the adjective half of the system) | Cambodia — ENGLISH Grade 8 (student's book), Unit 25 "Types of transport around the world", printed pp.158–163 |
 
-**Acceptance count: taught in 16 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam).**
+**Acceptance count: taught in 17 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia).**
 Mongolia's "That's Mine" unit carries the whole lesson —
 the 's box, the whose matching, the three-rung box, the
 game; Egypt's youngest books hold the partner forms from
@@ -179,3 +181,5 @@ irregular plurals (p.47), and a pronoun → possessive adjective
 **Armenia added 2026-11-03** — two books stock this lesson: **Book:** *English 4 — Part 1* — Armenia, COAF, Yerevan 2025 (Part 1 only). **Book:** *English 7* — Armenia, Zangak, Yerevan 2023, Lusine Grigoryan, ISBN 978-9939-99-035-4. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). The scope is filed plainly: Grade 4 teaches the possessive set against subject pronouns — possessive pronouns as a headed grammar lesson, my / your / his / her / our / their set against the subject pronouns, with the your/you're contrast (Unit 1.2 "Possessive Pronouns", printed p.17); the standalone forms are worked in Grade 7, where possessive pronouns are used for comparisons — the standalone forms (mine/yours type) at work (Unit 2, printed p.35).
 
 **Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 6, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25874-8. **Book:** *Tiếng Anh 7 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2022, ISBN 978-604-0-30724-8. **Book:** *Tiếng Anh 8 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2023, ISBN 978-604-0-35127-2. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam teaches the standalone forms as a named contrast, not as vocabulary luck: Grade 6, Volume 2 contrasts possessive adjectives and possessive pronouns in two rule boxes — adjective before a noun, pronoun standing alone; Grade 7 names possessive pronouns as a grammar point in their own right (mine, yours, hers, …); and Grade 8 returns to the form after of — "a friend of mine". The full standalone set is present, which is what this lesson asks for.
+
+**Cambodia added 2026-11-03** — 2 books stock this lesson: **Book:** *ENGLISH Grade 8* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. **Book:** *ENGLISH Grade 10* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2021, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia's stock is one explicit contrast: Grade 10 sets the possessive adjectives against the possessive pronouns inside its possessions unit (Unit 5); Grade 8 works the adjective half for belonging (Unit 25).

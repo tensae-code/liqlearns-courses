@@ -1,6 +1,6 @@
 # Sources for this lesson — Introducing a friend
 
-countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
+countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -48,12 +48,14 @@ disk 2026-10-25: %PDF, 190 pp).
 | Introducing and identifying people: "This is … / That's …", with the first yes/no questions about them | Vietnam — Tiếng Anh 3, Volume 1 (Global Success), Unit 3, printed pp.22–27 |
 | Introducing someone as the unit's Everyday English function — "Phong, this is Duy, my new friend." | Vietnam — Tiếng Anh 6, Volume 1 (Global Success), Unit 1, printed p.11 |
 | Making introductions and responding to them as the Everyday English function of the multicultural-world unit | Vietnam — Tiếng Anh 12 (Global Success), Unit 2, printed pp.20–31 |
+| Meeting new friends: introductions with name, age and origin inside the first unit | Cambodia — ENGLISH Grade 7 (student's book), Unit 1 "Meeting new friends", printed pp.8–13 |
+| A new classmate: introductions and personal information, opening on "Nice to meet you!" | Cambodia — ENGLISH Grade 8 (student's book), Unit 1 "A new classmate", printed pp.14–19 |
 
 The same dialog also carries the age exchange and the toy-fish
 talk — those parts are filed in their own places (age: english/age/
 how-old-are-you), not here.
 
-**Acceptance count: taught in 17 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).**
+**Acceptance count: taught in 18 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).**
 Egypt carries introducing the family — "This is my father /
 mother / sister …" with the "Who's this?" exchange, and a year
 deeper the whole family lineup with my / his / her on family
@@ -433,3 +435,5 @@ filed South Sudan read, and none is claimed here.
 **Armenia added 2026-11-03** — one book stocks this lesson: **Book:** *English 3 — Part 1* (student's book) — Armenia, Children of Armenia Charitable Foundation (COAF), Yerevan 2024, Nersesyan/Tonoyan/Arakelyan, no ISBN printed; the held file is Part 1 only. Filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia introduces another person by name from its first lesson: the Starter Unit, Lesson 1 (printed p.3), teaches "This is …" for yourself and others, and Unit 1.1, "My Classmates" (printed pp.9–32), works it as "This is Jack" inside the first unit's classmate work.
 
 **Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 3, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2022, ISBN 978-604-0-30720-0. **Book:** *Tiếng Anh 6, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25873-1. **Book:** *Tiếng Anh 12 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2024, ISBN 978-604-0-39370-8. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam teaches the introduction at three heights: Grade 3, Volume 1's "Our friends" unit gives "This is … / That's …" for introducing and identifying people; Grade 6, Volume 1 makes introducing someone its first Everyday English function — "Phong, this is Duy, my new friend." (printed p.11); and Grade 12's multicultural-world unit carries making introductions and responding to them as its Everyday English function.
+
+**Cambodia added 2026-11-03** — 2 books stock this lesson: **Book:** *ENGLISH Grade 7* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. **Book:** *ENGLISH Grade 8* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia introduces people through its new-school units: Grade 7's "Meeting new friends" and Grade 8's "A new classmate", where introductions and personal information open the year (its first anchor line is "Nice to meet you!", printed p.14).

@@ -1,6 +1,6 @@
 # Sources — Answering from the text
 
-countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
+countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
 
 Every part traces to its book and page.
 
@@ -171,9 +171,11 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 | A reading closed by multiple-choice comprehension answered from the text itself | Armenia — English 11 (COAF), Unit 4.5, printed pp.110–112 |
 | Comprehension questions answered from the text after the reading — the Crazy House Hotel email reading, in the unit that also carries an explicit Reading skill box (predicting) | Vietnam — Tiếng Anh 6, Volume 1 (Global Success), Unit 2, printed p.22 (reading; the unit runs printed pp.16–25) |
 | Reference questions as a standing task type — "the word 'them' / 'that' / 'it' refers to …" — answered from the text just read | Vietnam — Tiếng Anh 9 (Global Success), Skills 1 readings across Units 1–12, printed pp.8–133 (e.g. Unit 2's Teenovator reading, printed p.23) |
+| The unit shape itself: a short reading text, then comprehension questions on it (the pattern of every Grade 5 unit) | Cambodia — English Grade 5 (student's book), Chapter 1, Unit 1 "Selling Food", printed pp.8–11 |
+| The folk-tale lessons: the tale read across the lessons, with comprehension work on the text | Cambodia — ENGLISH Grade 9 (student's book), Unit 16 "Hansel and Gretel", printed pp.104–109 |
 
-**Acceptance count: taught in 18 countries (Egypt, Ghana,
-India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).** India builds the carrier hunt into the page and
+**Acceptance count: taught in 19 countries (Egypt, Ghana,
+India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).** India builds the carrier hunt into the page and
 prints the question-kind border; Ghana demands textual
 evidence under personal responses; Egypt examines by the
 unseen passage; China grades the answering shapes themselves
@@ -228,3 +230,5 @@ books are read (see READING-QUEUE.md).
 **Armenia added 2026-11-03** — two books stock this lesson: **Book:** *English 6* — Armenia, COAF, Yerevan 2024, no ISBN printed. **Book:** *English 11* — Armenia, COAF, Yerevan 2025, Tonoyan/Arakelyan, no ISBN printed. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia's reading lessons are built to be answered from the text: the Grade 6 book sets "key information" comprehension work after every reading (e.g. the wheelchair racing champion text: "I am a wheelchair racing champion.", Unit 2.5, printed pp.48–51), and the Grade 11 book closes a reading with multiple-choice comprehension answered from the text itself (Unit 4.5, printed pp.110–112).
 
 **Vietnam added 2026-11-03** — 2 books stock this lesson: **Book:** *Tiếng Anh 6, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25873-1. **Book:** *Tiếng Anh 9 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2024, ISBN 978-604-0-39366-1. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Answering from the text is the standing comprehension shape of the whole series: every reading from Grade 6 on closes with questions answered from the text itself, and Grade 9 adds reference questions — what 'them', 'that' or 'it' refers to — as a named standing task type. Stated plainly: no Vietnam book names a scanning or line-reference answering strategy; the stock is the standing question work itself, as with the other countries carried on those terms.
+
+**Cambodia added 2026-11-03** — 2 books stock this lesson: **Book:** *English Grade 5* (student's book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS), 6th printing 2020, ISBN 978-9924-9423-2-0. **Book:** *ENGLISH Grade 9* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", first printing 2016, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia's reading work is built on answering from the text: every Grade 5 unit runs a short reading followed by comprehension questions as its fixed C section, and Grade 9's folk-tale units read the tale across three lessons with the questions on the text (Unit 16).

@@ -1,6 +1,6 @@
 # Sources — Building a sentence
 
-countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
+countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
 
 Every part traces to its book and page.
 
@@ -154,10 +154,11 @@ CITATION CHECK PASSED 2026-11-03).
 | The simple sentence named and built — a simple sentence has a subject and a verb, and may add an object or an adverb; learners identify S and V and combine sentence pairs into simple sentences | Vietnam — Tiếng Anh 7 (Global Success), Unit 2, printed pp.18–27 |
 | Simple sentences and compound sentences — a simple sentence is one independent clause; a compound sentence joins two or more independent clauses with a coordinating conjunction (for, and, but, or, so) or a conjunctive adverb (however, therefore, otherwise) | Vietnam — Tiếng Anh 8 (Global Success), Unit 3, printed pp.28–37 |
 | Simple, compound, and complex sentences as a review-and-extension unit in the final year | Vietnam — Tiếng Anh 12 (Global Success), Unit 5, printed pp.60–71 (grammar heading printed p.63) |
+| Basic sentence word order — subject + verb + object — isolated and rebuilt; place-and-time order (object + place + time) and fronting time ("Last night, there was a fire…") | Cambodia — ENGLISH Grade 12 (student's book), Unit 15 "In the news", printed pp.81–86 |
 
-**Acceptance count: taught in 19 countries (Bangladesh,
+**Acceptance count: taught in 20 countries (Bangladesh,
 Bolivia, Ghana, Mongolia, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).** Bolivia states the formula;
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).** Bolivia states the formula;
 Ghana names the two parts; Bangladesh drills the building
 from tables; Mongolia checks the order; China adds the
 this/these, that/those sentence system, taught as one
@@ -182,3 +183,5 @@ READING-QUEUE.md).
 **Armenia added 2026-11-03** — 3 books stock this lesson: **Book:** *English 9* — Armenia, COAF, Yerevan 2025, no ISBN printed. **Book:** *English 7 — Methodological Guide* — Armenia, Zangak, Yerevan 2023, Grigoryan; a methodology-only companion in Armenian, cited only for its own teaching. **Book:** *English 10 — Methodological Guide* — Armenia, Zangak, Yerevan 2023, Grigoryan; methodology-only, cited only for its own teaching. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia stocks this lesson with sentences joined and combined as the work itself — sentence combining about favourite subjects in English 9, Unit 1.2 (printed pp.8–10), with the connecting words taught first (though/although, in spite of/despite, however, moreover) — and with sentence combination taught as a technique in its own right in the English 7 Methodological Guide's "Technique of Sentence Combination" (printed pp.53–54): a table of connectors by relation (time, condition, restatement, conclusion, concession, similarity), then coordinating conjunctions (and, or, but, yet, nor) and subordinating conjunctions grouped by cause / contrast / purpose / time. The same sentence-combination apparatus is carried in the English 10 Methodological Guide (printed pp.51–52). The two guides are methodology-only companions in Armenian and are cited only for their own teaching.
 
 **Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 7 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2022, ISBN 978-604-0-30724-8. **Book:** *Tiếng Anh 8 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2023, ISBN 978-604-0-35127-2. **Book:** *Tiếng Anh 12 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2024, ISBN 978-604-0-39370-8. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam names the sentence's build outright: Grade 7's grammar point is "Simple sentences" — subject and verb, with object or adverb added — practised by identifying S and V and combining sentence pairs; Grade 8 sets the simple sentence against the compound sentence as its own named point; and Grade 12 reviews simple, compound and complex sentences as one extension unit.
+
+**Cambodia added 2026-11-03** — 1 book stocks this lesson: **Book:** *ENGLISH Grade 12* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2023, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia's sentence-building stock is one explicit unit: Grade 12's news unit isolates subject + verb + object, rebuilds sentences from it, then orders place and time after the object and fronts time (Unit 15).
