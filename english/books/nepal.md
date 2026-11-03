@@ -112,9 +112,23 @@ primary book, and not as a topic in Grade 7 either
 (forms occur untaught inside its readings). The
 passive voice is first taught in Grade 6 (present
 and past simple), is then absent entirely from
-Grade 7, and is taught once in Grade 9.
-Conditionals arrive only in Grade 9 — types 1, 2
-and 3; the type 0 is never named. Reported speech
+Grade 7, and returns in Grade 8 (Unit 17: passive
+across tenses with a full chart, pp.214–225),
+Grade 9, Grade 11 (U19), and Grade 12 (U11–12).
+[Corrected 2026-11-03: this verdict originally
+stopped at Grade 9 and omitted the G8/G11/G12
+teaching; the book sections below carry it.]
+Conditionals do NOT arrive only in Grade 9, and
+the type 0 IS named: Grade 7 teaches the second
+conditional (U5), the first (U6), and the zero
+(U19); Grade 8 teaches types 1–3 together (U14);
+Grade 10 teaches zero + first (U6 — "If you heat
+ice, it melts.", p.66) and second + third (U7);
+Grade 12 teaches them at U10. [Corrected
+2026-11-03: this verdict originally read
+"arrive only in Grade 9 — types 1, 2 and 3; the
+type 0 is never named," which the book sections
+below disprove.] Reported speech
 is promised by Grade 6's Contents in its missing
 Unit 13, first taught in Grade 7 (statements
 only), assembled in full only in Grade 8, and
