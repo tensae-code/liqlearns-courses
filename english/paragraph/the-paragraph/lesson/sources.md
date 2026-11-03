@@ -1,6 +1,6 @@
 # Sources — The paragraph
 
-countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
+countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
 
 Every part traces to its book and page.
 
@@ -120,6 +120,11 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 31:** *English Home Language, Grade 6 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 32:** *English First Additional Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 33:** Emar English Series 9, Student's Book (student book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 9 — Emar Student's Book 9 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 34:** Emar English Series 9, Workbook (workbook) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 9 — Emar Workbook 9 (workbook) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 35:** Emar English Series 7, Workbook (workbook) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 7 — Emar Workbook 7 (workbook) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 36:** Emar English Series 12, Workbook, Scientific Section (workbook) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 12 — Emar English Series 12, Workbook, Scientific Section (workbook) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Guided Composition: "two coherent paragraphs by leading questions ('My Home')" — the paragraph written as answers to leading questions | Ghana, NaCCA B1–B3 curriculum, Basic 3, writing strands (as filed) |
@@ -161,10 +166,15 @@ CITATION CHECK PASSED 2026-11-03).
 | Topic sentences taught with paragraph sequencing — the paragraph's sentences ordered under the sentence that carries its idea | South Africa, English Home Language, Grade 6 Workbook 1 (Rainbow Workbooks), printed p.13 |
 | Paragraph writing about oneself — the learner's own paragraph as the writing work | South Africa, English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks), printed p.16 |
 | A descriptive paragraph written in the present tense — the paragraph as a set writing outcome in the additional-language strand | South Africa, English First Additional Language, Grade 5 Workbook 1 (Rainbow Workbooks), as filed in its section in english/books/south-africa.md |
+| The paragraph handled as a unit with parts to place: ordering the parts of a paragraph about volunteering | Syria, Emar Student's Book 9, Unit 1, pp.4–8 |
+| The paragraph as the unit's set writing, three times over: a process paragraph about helping a disabled boy, a sequenced paragraph about a village visit, and a paragraph built from idea circles | Syria, Emar Student's Book 9, Unit 2, pp.9–12; Unit 5, pp.28–31; Unit 8, pp.47–51 |
+| A paragraph-structure box carried in the workbook's writing work — the paragraph's structure named as a box beside the pupil's own paragraph | Syria, Emar Workbook 9, Unit 1, pp.3–6 |
+| The single paragraph as the workbook's whole writing scale: a paragraph about a friend, a paragraph on inventions — the filing's own verdict is that this workbook's writing never goes beyond one paragraph | Syria, Emar Workbook 7, Unit 2, pp.8–11; Unit 6, pp.24–27 |
+| "How to write a paragraph" taught inside the Writing Process appendix — planning, drafting, revising, editing, then the paragraph itself | Syria, Emar Workbook 12, Scientific Section, Appendix III (Appendixes, pp.100–104) |
 
-**Acceptance count: taught in 15 countries (Bangladesh,
+**Acceptance count: taught in 16 countries (Bangladesh,
 Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).** Ghana names the process and prints the
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria).** Ghana names the process and prints the
 unity test as a revise question; Bangladesh guides the
 first paragraphs and models them; Egypt examines by the
 paragraph; China adds a model-first writing ladder across
@@ -205,7 +215,7 @@ paragraph unity and concluding sentences, Grade 6's
 writing stays at the single paragraph, Grade 10 names
 topic sentences and paragraph structure, Grade 5 writes
 a process paragraph, and Grade 9 develops a paragraph
-with cohesive devices; South Africa NAMES the topic sentence outright — "A topic sentence summarises the main idea in a sentence" (English Home Language Grade 5 Workbook 1, printed p.20) — teaches topic sentences with paragraph sequencing at Grade 6, sets paragraph writing about oneself at Grade 4, and writes a descriptive paragraph in the present tense in its English First Additional Language Grade 5 Workbook 1. Other closed countries join as their books are
+with cohesive devices; South Africa NAMES the topic sentence outright — "A topic sentence summarises the main idea in a sentence" (English Home Language Grade 5 Workbook 1, printed p.20) — teaches topic sentences with paragraph sequencing at Grade 6, sets paragraph writing about oneself at Grade 4, and writes a descriptive paragraph in the present tense in its English First Additional Language Grade 5 Workbook 1; Syria stocks the paragraph in part — its Grade 9 student's book orders the parts of a paragraph, writes process and sequenced paragraphs and builds a paragraph from idea circles, its Grade 9 workbook carries a paragraph-structure box, its Grade 7 workbook's writing is the single paragraph throughout, and its Grade 12 workbook's Writing Process appendix teaches how to write a paragraph — but no read Syria book names the topic sentence, so Syria carries the paragraph as a built and ordered unit, not as a named topic-sentence craft. Other closed countries join as their books are
 read (see READING-QUEUE.md).
 
 **Laos Grade 6 added 2026-10-27** — *English for Secondary
@@ -253,3 +263,5 @@ interfere with reading" and paragraphs developed to hold the
 reader's attention.
 
 **South Africa added 2026-11-03** — four books stock this lesson: *English Home Language, Grade 4 Workbook 1*, *English Home Language, Grade 5 Workbook 1*, *English Home Language, Grade 6 Workbook 1* and *English First Additional Language, Grade 5 Workbook 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. South Africa names the topic sentence, which several earlier countries did not: the Grade 5 Home Language book defines it — "A topic sentence summarises the main idea in a sentence" (printed p.20) — the Grade 6 book teaches topic sentences with paragraph sequencing (printed p.13), the Grade 4 book has paragraph writing about oneself (printed p.16), and the Grade 5 First Additional Language book writes a descriptive paragraph in the present tense.
+
+**Syria added 2026-11-03** — PARTIAL stock, filed exactly as a partial: four books stock this lesson in part: *Emar Student's Book 9*, *Emar Workbook 9*, *Emar Workbook 7* and *Emar English Series 12, Workbook, Scientific Section* — Syria, Ministry of Education; full read in english/books/syria.md. The Grade 9 student's book orders the parts of a paragraph about volunteering (Unit 1, pp.4–8), writes a process paragraph (Unit 2, pp.9–12) and a sequenced paragraph (Unit 5, pp.28–31) and builds a paragraph from idea circles (Unit 8, pp.47–51); the Grade 9 workbook carries a paragraph-structure box (Unit 1, pp.3–6); the Grade 7 workbook's writing never goes beyond one paragraph (a paragraph about a friend, Unit 2, pp.8–11; a paragraph on inventions, Unit 6, pp.24–27); and the Grade 12 workbook's Appendix III teaches how to write a paragraph inside its Writing Process (Appendixes, pp.100–104). Stated plainly: no read Syria book names the topic sentence — Syria carries the paragraph as a built, ordered and structured unit, not as a named topic-sentence craft.

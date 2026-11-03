@@ -1,6 +1,6 @@
 # Sources — Mine and yours
 
-countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa
+countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
 
 Every part traces to its book and page.
 
@@ -78,6 +78,10 @@ CITATION CHECK PASSED 2026-11-03).
 
 **Book 21:** *English First Additional Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+
+**Book 22:** English Pupil's Book 5, NCCD edition 2021-2022 (pupil's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 5 — English, Pupil's Book 5, NCCD edition 2021-2022 (pupil's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 23:** English Pupil's Book 6 (pupil's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 6 — English, Pupil's Book 6 (pupil's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 4 "That's Mine" — its objectives seat the genitive 's, possessive adjectives, and possessive pronouns as one ownership unit | Mongolia, English VI, Unit 4 (opens p.41) |
@@ -109,7 +113,10 @@ CITATION CHECK PASSED 2026-11-03).
 | The possessive pronoun set taught | South Africa — English Home Language, Grade 3 Workbook 2 (Rainbow Workbooks), printed p.90 |
 | The possessive set my, your, his, her, its, our, their taught | South Africa — English First Additional Language, Grade 3 Workbook 2 (Rainbow Workbooks), printed pp.44–45 |
 
-**Acceptance count: taught in 12 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa).**
+| Possessive pronouns as the sports-equipment unit's grammar — mine, yours, his, hers, ours, theirs — asked with "Whose bat is this?" | Syria, NCCD Pupil's Book 5, Unit 15 "Sports Equipment," printed pp.54–56 |
+| Possessive adjectives set against possessive pronouns in the theatre unit — "The ticket is mine" | Syria, English Pupil's Book 6, Unit 2 "At the Theatre," printed pp.12–15 (anchor, printed p.15) |
+
+**Acceptance count: taught in 13 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria).**
 Mongolia's "That's Mine" unit carries the whole lesson —
 the 's box, the whose matching, the three-rung box, the
 game; Egypt's youngest books hold the partner forms from
@@ -133,7 +140,7 @@ and pronouns again at Grade 5; Iraq teaches the pronouns
 against the adjectives at Grade 5 — lost luggage at the
 airport in the Pupil's Book, and the stand-alone rule
 stated in the Activity Book's LOOK box, the noun after
-*mine* shown crossed out. Ethiopia teaches possession as a named grammar point in Grade 4 — pronouns and possession with his/her and "Whose…?" — and meets possessive pronouns in a Grade 5 possessives exercise that uses "ours"; it does not table the full standalone mine/yours system. South Africa stocks this lesson in full: Grade 4 HL teaches possessive pronouns with the adjective and pronoun forms contrasted — my/mine, your/yours — Grade 3 HL teaches the possessive pronoun set, and Grade 3 FAL teaches my, your, his, her, its, our, their; the workbook sets present adjective and pronoun forms together under the one possessive heading. Other closed countries join as their
+*mine* shown crossed out. Ethiopia teaches possession as a named grammar point in Grade 4 — pronouns and possession with his/her and "Whose…?" — and meets possessive pronouns in a Grade 5 possessives exercise that uses "ours"; it does not table the full standalone mine/yours system. South Africa stocks this lesson in full: Grade 4 HL teaches possessive pronouns with the adjective and pronoun forms contrasted — my/mine, your/yours — Grade 3 HL teaches the possessive pronoun set, and Grade 3 FAL teaches my, your, his, her, its, our, their; the workbook sets present adjective and pronoun forms together under the one possessive heading. Syria teaches the standalone set whole in Grade 5 — mine, yours, his, hers, ours, theirs under a Whose…? question — and sets possessive adjectives against possessive pronouns in Grade 6. Other closed countries join as their
 books are read (see READING-QUEUE.md).
 
 **Laos Grade 7 added 2026-10-27** — *English for Secondary
@@ -146,3 +153,5 @@ irregular plurals (p.47), and a pronoun → possessive adjective
 → possessive pronoun table to complete (p.47).
 
 **South Africa added 2026-11-03** — *DBE Rainbow Workbooks* (Department of Basic Education, South Africa, Sixteenth edition 2026; full read in english/books/south-africa.md). South Africa stocks mine and yours in full: **possessive pronouns with the adjective and pronoun forms contrasted — my/mine, your/yours — in Grade 4 HL Workbook 1** (printed p.56), the **possessive pronoun set in Grade 3 HL Workbook 2** (printed p.90), and the set **my, your, his, her, its, our, their in Grade 3 FAL Workbook 2** (printed pp.44–45). Note: the workbook sets present adjective and pronoun forms together under the one possessive heading.
+
+**Syria added 2026-11-03** — *Emar series* (Syria, Ministry of Education; full read in english/books/syria.md). Syria stocks mine and yours in full: the **possessive pronouns mine, yours, his, hers, ours, theirs in Grade 5** (NCCD Pupil's Book 5, Unit 15, printed pp.54–56), and **possessive adjectives set against possessive pronouns in Grade 6** — "The ticket is mine" (Pupil's Book 6, Unit 2, printed pp.12–15).

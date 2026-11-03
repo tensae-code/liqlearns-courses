@@ -1,6 +1,6 @@
 # Sources for this lesson — How old are you?
 
-countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
+countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -38,8 +38,11 @@ Libya (Garnet) · Books verified on disk 2026-10-25.
 | Age as a named item of the personal-information exchange — name, father's name, age, origin, grade — in Grade 4's opening speaking work | Ethiopia — English for Ethiopia, Grade 4 Student's Book, Unit 1 "People and Their Work," printed pp.1–20 |
 | The exact frame taught with counting — "How old are you?" (Theme 2) | South Africa — English First Additional Language, Grade 1 Workbook 1 (Rainbow Workbooks), Theme 2, printed pp.10–11 |
 | Birthday and month work recurring a year up | South Africa — English First Additional Language, Grade 2 Workbook 1 (Rainbow Workbooks), printed pp.68–69 |
+| The age exchange inside the birthday unit — "How old are you/is…? I'm/She's…" — with numbers 6–10 and a birthday song | Syria — Emar English Series Pupil's Book 1, Unit 9 "My Birthday", printed pp.27–29 ("How old are you?" printed p.27) |
+| Age sentences practised in the Workbook — count-and-match balloons to numbers 6–10, and listen-and-match age sentences | Syria — Emar English Series Workbook 1, Unit 9, printed pp.27–29 ("He is ten." printed p.27) |
+| The exchange re-run a year up in the revision opening, beside the name work — names and age in "Welcome Back" | Syria — Emar Syrian Series Pupil's Book 2, Unit 1, printed pp.3–5 |
 
-**Acceptance count: taught in 13 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
+**Acceptance count: taught in 14 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 China teaches the exchange in the full "years old" form with
 candle counting (Grade 3 Volume 1) and later ties age to the
 birthday date (Grade 5 Volume 2); North Macedonia practises it
@@ -76,6 +79,11 @@ old" — and its Grade 4 opening unit names age among the
 items of its personal-information exchange; no printed
 "How old are you?" wording is recorded in its filed
 read, and none is claimed here.
+Syria joined 2026-11-03 with the question itself, in
+the short form: its Grade 1 birthday unit teaches "How
+old are you/is…? I'm/She's…" with numbers 6–10, its
+Workbook practises the age sentences, and its Grade 2
+book re-runs names and age in its revision opening.
 Nicaragua's filed books ask names in their greeting
 material, not age — so it is not counted here; Sierra
 Leone's filed books likewise state a boy's age ("He is 10
@@ -327,3 +335,27 @@ that follows the name exchange of its Theme 1, filed in
 conversation/hello-and-your-name. The birthday and month
 work then recurs a year up, in the FAL Grade 2 Workbook 1
 (printed pp.68–69).
+
+**Syria added 2026-11-03** — three books stock this
+lesson: **Book:** *Emar English Series, Pupil's Book 1*
+— Syria, Ministry of Education. **Book:** *Emar English
+Series, Workbook 1* — Syria, Ministry of Education.
+**Book:** *Emar Syrian Series, Pupil's Book 2* — Syria,
+Ministry of Education. All filed in
+english/books/syria.md (Grade 1 — Emar English Series
+Pupil's Book 1 (student's book); Grade 1 — Emar English
+Series Workbook 1 (activity book); Grade 2 — Emar Syrian
+Series Pupil's Book 2 (student's book) sections, FULLY
+READ + CITATION CHECK PASSED 2026-11-03). Syria teaches
+the question itself, in the short form, like Libya and
+Jordan: Grade 1, Unit 9, "My Birthday" (printed
+pp.27–29), teaches ages as "How old are you/is…?
+I'm/She's…" with numbers 6–10 and a birthday song —
+"How old are you?" is a citation anchor at printed p.27
+— and the Workbook's Unit 9 (printed pp.27–29) practises
+it with count-and-match balloons to numbers 6–10 and
+listen-and-match age sentences ("He is ten.", printed
+p.27). Grade 2, Unit 1, "Welcome Back" (printed pp.3–5),
+then re-runs names and age as Grade 1 revision. No full
+"years old" form is recorded for Syria in these
+exchanges; its form is the short form throughout.

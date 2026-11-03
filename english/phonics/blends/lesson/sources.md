@@ -1,6 +1,6 @@
 # Sources for this lesson — Blends
 
-countries: Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa
+countries: Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -37,8 +37,11 @@ pictures).
 | "More about sounds" — blends and clusters (clap, flap, plum, blow; brag, crop, drip, grip, trip) | South Africa — English First Additional Language, Grade 2 Workbook 2 (Rainbow Workbooks), printed p.58 |
 | **bl-** blends (the bl- anchor is printed p.41), and **str/st** spelling families | South Africa — English Home Language, Grade 2 Workbook 1 (Rainbow Workbooks), printed pp.40–41 |
 | **st-** clusters and final clusters **-nd/-nt/-mp**, **-tch/-nch** | South Africa — English Home Language, Grade 1 Workbook 2 (Rainbow Workbooks) |
+| Opening blends **gr / sl / cr / br**, one blend per unit — gr (grass, grapes) · sl (sleep, slide) · cr (crayon, crow) · br (bread, brain) | Syria — Emar Syrian Series Pupil's Book 3, Units 6–9, printed pp.18–29 |
+| Opening blends **fl / tr / cl / sm** in the year's later units — fl (flute, flower) · tr (truck, trap) · cl (clip, clock) · sm (smile, smart) | Syria — Emar Syrian Series Pupil's Book 3, Unit 19, printed pp.57–59; Unit 21, printed pp.63–65; Unit 22, printed pp.66–68; Unit 24, printed pp.72–74 |
+| The first blend set sorted again in the workbook's second revision — words sorted into **gr / sl / cr / br** jars | Syria — Emar English Series Workbook 3, Revision 2, printed pp.30–32 |
 
-**Acceptance count: taught in 8 countries (Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa).**
+**Acceptance count: taught in 9 countries (Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria).**
 China joins with blends taught two at a time on Let's spell
 pages in Grade 5 (cl/pl, gr/br) and sorted again in the
 end-of-primary grouping review (Grade 6 Volume 2). Iran joins
@@ -60,6 +63,11 @@ Grade 4 Activity Book.
 Ethiopia joins with initial-cluster blending and
 segmenting — br- and cl- worked in its Grade 4 Student's
 Book's Unit 1 "Word Parts" lesson (printed p.8).
+Syria joins with blends as half of its Grade 3 phonics
+spine — eight opening blends taught one per unit
+(gr, sl, cr, br, then fl, tr, cl, sm), each with its
+pair of example words, and the first set sorted again
+in its Workbook's Revision 2.
 Counts grow as other closed countries' books are read.
 
 ### Egypt — Primary 3 Term 1 (read 2026-10-25) — three-letter blends
@@ -246,3 +254,25 @@ Grade 2 Workbook 1 works "bl- blends" (printed pp.40–41;
 the bl- anchor is printed p.41) and str/st spelling
 families, and HL Grade 1 Workbook 2 carries st- clusters
 and the final clusters -nd/-nt/-mp and -tch/-nch.
+
+**Syria added 2026-11-03** — two books stock this lesson:
+**Book:** *Emar Syrian Series, Pupil's Book 3* — Syria,
+Ministry of Education. **Book:** *Emar English Series,
+Workbook 3* — Syria, Ministry of Education. Both filed in
+english/books/syria.md (Grade 3 — Emar Syrian Series
+Pupil's Book 3 (student's book); Grade 3 — Emar English
+Series Workbook 3 (activity book) sections, FULLY READ +
+CITATION CHECK PASSED 2026-11-03). Syria stocks this
+lesson in full: in Grade 3 the Emar phonics strand
+switches from single letters to spelling patterns, and
+the consonant blends run one per unit beside the vowel
+pairs filed in phonics/two-letter-sounds — gr (Unit 6,
+printed pp.18–20 — grass, grapes), sl (Unit 7, printed
+pp.21–23 — sleep, slide), cr (Unit 8, printed pp.24–26 —
+crayon, crow) and br (Unit 9, printed pp.27–29 — bread,
+brain), then fl (Unit 19, printed pp.57–59 — flute,
+flower), tr (Unit 21, printed pp.63–65 — truck, trap),
+cl (Unit 22, printed pp.66–68 — clip, clock) and sm
+(Unit 24, printed pp.72–74 — smile, smart). The
+Workbook's Revision 2 (printed pp.30–32) sorts words
+into gr/sl/cr/br jars.

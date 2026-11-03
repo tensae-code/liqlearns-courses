@@ -1,6 +1,6 @@
 # Sources for this lesson — Greetings
 
-countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
+countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag.
@@ -55,6 +55,10 @@ side by side on one PDF page — that was wrong.
 | The introduction modelled for the teacher — "Let me introduce myself. My name's …" (citation anchor at printed p.2) | Ethiopia — English for Ethiopia, Grade 5 Teacher's Guide, Unit 1, printed p.2 (guide Unit 1, printed pp.1–29) |
 | The exact exchange opening Theme 1: "Hello, what's your name? / My name is Sam." | South Africa — English First Additional Language, Grade 1 Workbook 1 (Rainbow Workbooks), Theme 1, printed p.2 |
 | Writing your own name practised against the alphabet | South Africa — English Home Language, Grade 1 Workbook 1 (Rainbow Workbooks), printed p.10 |
+| Unit 1 "Hello!" — the course opens on this lesson: greetings, introducing yourself by name and asking a name ("I'm Tom. What's your name?"), with a hello song and goodbyes | Syria — Emar English Series Pupil's Book 1, Unit 1, printed pp.3–5 ("I'm Tom. What's your name?" printed p.3) |
+| The greeting exchanges practised by listen-and-match — Good morning / How are you? / What's your name? / Goodbye | Syria — Emar English Series Workbook 1, Unit 1, printed pp.3–5 |
+| The exchange re-opened a year up as Grade 1 revision — names and age, and "Where do you live? I live in Damascus/London" | Syria — Emar Syrian Series Pupil's Book 2, Unit 1 "Welcome Back", printed pp.3–5 ("Hello, I'm Alex." printed p.3; "I live in Damascus." printed p.4) |
+| Greetings and introductions re-taught in Grade 4 — Unit 1 "Nice to Meet You", with verb *be* and saying where you are from, practised again in its Workbook (Unit 1, printed pp.5–7) | Syria — Emar English Series Pupil's Book 4, Unit 1, printed pp.3–5 |
 
 **Second country merged 2026-10-25 — Libya:**
 English for Libya, Pupils Book Grade 1 (CERC, Ministry of Education,
@@ -97,7 +101,7 @@ rendered page the same day).
 - Unit 1 "Greeting and Numbers," p. 14 (Hello/Hi, Goodbye/bye tracing;
   "What's your name? / My name's" tracing strips, p. 16).
 
-**Acceptance count: taught in 16 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).**
+**Acceptance count: taught in 17 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria).**
 China adds name exchanges from its first primary page and the
 "Where are you from? — I'm from …" origin frame (Grades 3), plus
 five printed ways to say goodbye (Grade 6 Volume 2); North
@@ -139,6 +143,15 @@ self-introduction dialogues giving name, age and home
 town (Unit 2), and its Grade 5 book opens on greetings
 and introductions, its guide modelling "Let me introduce
 myself. My name's …" (printed p.2).
+Syria joined 2026-11-03: its Grade 1 book opens the
+whole course on this lesson — Unit 1 "Hello!" teaches
+greetings, introducing yourself by name and asking a
+name ("I'm Tom. What's your name?", printed p.3), with
+its Workbook practising the same exchanges by
+listen-and-match — its Grade 2 book re-opens on the
+exchange as revision ("Hello, I'm Alex.", printed p.3),
+and its Grade 4 book re-teaches greetings and
+introductions as Unit 1 "Nice to Meet You."
 This lesson is the first layer. Courses are built from every CLOSED
 country's books (his ruling, 2026-11-03 — superseding the 2026-10-25
 finished-only rule), and updated as the library updates: when a
@@ -476,3 +489,31 @@ book on this lesson's exact exchange: Theme 1 begins
 p.2). The HL Grade 1 Workbook 1 carries the name work on
 the hand side — the child practises writing their own name
 against the alphabet (printed p.10).
+
+**Syria added 2026-11-03** — four books stock this lesson:
+**Book:** *Emar English Series, Pupil's Book 1* — Syria,
+Ministry of Education. **Book:** *Emar English Series,
+Workbook 1* — Syria, Ministry of Education. **Book:**
+*Emar Syrian Series, Pupil's Book 2* — Syria, Ministry of
+Education. **Book:** *Emar English Series, Pupil's Book
+4* — Syria, Ministry of Education. All filed in
+english/books/syria.md (Grade 1 — Emar English Series
+Pupil's Book 1 (student's book); Grade 1 — Emar English
+Series Workbook 1 (activity book); Grade 2 — Emar Syrian
+Series Pupil's Book 2 (student's book); Grade 4 — Emar
+English Series, Pupil's Book 4 (pupil's book) sections,
+FULLY READ + CITATION CHECK PASSED 2026-11-03). Syria
+opens its whole course on this lesson, like Egypt and
+Libya: Grade 1, Unit 1, "Hello!" (printed pp.3–5) teaches
+greetings, introducing yourself by name, asking a name —
+"I'm Tom. What's your name?" (printed p.3) — "How are
+you? — I'm fine, thank you" and goodbyes, with a hello
+song; the Workbook's Unit 1 practises the same exchanges
+by listen-and-match. Grade 2, Unit 1, "Welcome Back"
+(printed pp.3–5), re-opens on the exchange as Grade 1
+revision — "Hello, I'm Alex." (printed p.3), "I live in
+Damascus." (printed p.4) — and Grade 4, Unit 1, "Nice to
+Meet You" (printed pp.3–5), re-teaches greetings and
+introductions with saying where you are from, its
+Workbook practising them again (Workbook 4, Unit 1,
+printed pp.5–7; "nice to meet you", printed p.5).

@@ -1,6 +1,6 @@
 # Sources — Drawing lines
 
-countries: Egypt, Libya, Sierra Leone, Iraq, Ethiopia, South Africa
+countries: Egypt, Libya, Sierra Leone, Iraq, Ethiopia, South Africa, Syria
 
 Course: Pencil and Lines — the prerequisite course before every
 language course (his ruling, 2026-10-25).
@@ -14,6 +14,8 @@ language course (his ruling, 2026-10-25).
 | Letter-formation tracing: letters traced on formation pages as each letter is introduced, throughout Term 1 (tracing only — no free line-drawing teaching) | South Africa — English Home Language, Grade 1 Workbook 1 (Rainbow Workbooks), printed pp.26–126 |
 | Tracing work in Theme 5: tracing sport names, and tracing lines to what friends like (tracing only) | South Africa — English First Additional Language, Grade 1 Workbook 1 (Rainbow Workbooks), Theme 5, printed pp.56–57 and printed pp.60–61 |
 | Letter-formation practice inside every worksheet (tracing only) | South Africa — English First Additional Language, Grade 1 Workbook 2 (Rainbow Workbooks) |
+| Pre-writing tracing lines and a maze — the hand work that opens the workbook's first unit, before any letter work | Syria — Emar English Series Workbook 1, Unit 1 "Hello!", printed pp.3–5 |
+| Pencil-control tracing: lines, spirals and shapes, in the closing Handwriting Practice | Syria — Emar English Series Workbook 1, Handwriting Practice, printed pp.78–82 |
 
 Second book, same country (added 2026-10-25): Egypt KG2 Term 1 opens
 with a "Remember With Me!" page — trace the wavy and zigzag lines
@@ -107,13 +109,16 @@ lines" is printed p.2, and Unit 1 (printed pp.1–26) has
 dotted-line and letter tracing; writing across the Grade 1
 units is tracing dotted letters and words.
 
-**Acceptance count: taught in 6 countries (Egypt, 3 books; Libya,
+**Acceptance count: taught in 7 countries (Egypt, 3 books; Libya,
 3 books; Sierra Leone — pattern drawing, Primary 1 Term 1;
 Iraq — dotted-line tracing opening the Grade 1 Activities,
 printed pp.89ff; Ethiopia — "Trace the dotted lines" opening
 the Grade 1 writing work, printed p.2; South Africa — tracing
 only: letter-formation tracing in HL and FAL Grade 1, no free
-line-drawing teaching).**
+line-drawing teaching; Syria — pre-writing tracing lines
+opening the Grade 1 Workbook's first unit, printed pp.3–5,
+and pencil-control tracing of lines, spirals and shapes in
+its Handwriting Practice, printed pp.78–82).**
 The "understand the lines" framing is his: the lines are understood,
 not just traced — a wavy line is the curved move, a zigzag is the
 straight-and-corner move, and letters are those two moves mixed.
@@ -148,3 +153,18 @@ the 24 South Africa books, and none is claimed here — South
 Africa joins in the tracing shape of Egypt, Iraq and
 Ethiopia, not in Libya's dot-to-dot or Sierra Leone's
 pattern drawing.
+
+**Syria added 2026-11-03** — one book stocks this lesson:
+**Book:** *Emar English Series, Workbook 1* — Syria,
+Ministry of Education. Filed in english/books/syria.md
+(Grade 1 — Emar English Series Workbook 1 (activity book)
+section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+Syria's line work is the tracing shape of Egypt, Iraq and
+Ethiopia: the Grade 1 Workbook opens its writing work with
+pre-writing tracing lines and a maze in Unit 1 (printed
+pp.3–5), and its closing Handwriting Practice (printed
+pp.78–95) opens with pencil-control tracing — lines,
+spirals and shapes (printed pp.78–82) — before its
+trace-then-copy letter pages. No dot-to-dot and no pattern
+drawing is recorded in the Syria read, and none is claimed
+here.

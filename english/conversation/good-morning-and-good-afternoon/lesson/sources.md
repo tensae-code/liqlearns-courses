@@ -1,6 +1,6 @@
 # Sources for this lesson — Good morning and good afternoon
 
-countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa
+countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -26,8 +26,9 @@ explains one thing only.
 | The "Good morning" song and a teacher–class greeting exchange in the first unit | Ethiopia — English for Ethiopia, Grade 1 Student's Book, Unit 1, printed pp.1–26 |
 | Times of the day with their matching greetings — morning / afternoon / evening / night taught with the greetings that go with them (the filing describes this unit's work as times of day with matching greetings; the words "Good afternoon" themselves are not quoted in the Ethiopia filing, so this row is worded from the filing as filed) | Ethiopia — English for Ethiopia, Grade 1 Student's Book, Unit 2 "Times of The Day", printed pp.27–42 |
 | "Good morning. This is today's weather." — the morning greeting opening a weather-broadcast script (South Africa's filed books teach the morning greeting only: "Good afternoon" occurs zero times in all 24 South Africa books) | South Africa — English Home Language, Grade 3 Workbook 2 (Rainbow Workbooks), printed p.74 |
+| "Good morning" among the first greeting formulas of the course — Hello / Good morning / How are you? — I'm fine — practised by listen-and-match in the Workbook (Syria's filed books teach the morning greeting only: no "Good afternoon" greeting is printed anywhere in the Syria read — the phrase "good afternoon" does not occur in english/books/syria.md at all) | Syria — Emar English Series Pupil's Book 1, Unit 1, printed pp.3–5; Emar English Series Workbook 1, Unit 1, printed pp.3–5 ("Good morning." — Workbook 1, printed p.5) |
 
-**Acceptance count: taught in 12 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa).**
+**Acceptance count: taught in 13 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria).**
 China teaches the pair inside its colours unit in the first
 primary book; Mongolia stocks the day-part ground the greeting
 stands on — one boy's whole day told in clock pictures — from a
@@ -56,6 +57,11 @@ their matching greetings in Unit 2; the Ethiopia filing
 does not quote the words "Good afternoon" themselves,
 so its stock is worded as morning named plus
 times-of-day greetings.
+Syria joined 2026-11-03 carrying the morning half only
+too — "Good morning" stands among the greeting formulas
+of its Grade 1 first unit and is practised in its
+Workbook; no afternoon greeting is printed in its
+filed books either.
 Counts grow as other closed countries' first books are read.
 
 **China added 2026-10-29** — **Book:** *Compulsory Education
@@ -227,3 +233,28 @@ stated plainly: no afternoon greeting is printed anywhere
 in the South Africa read, and none is claimed here. South
 Africa is therefore counted for the morning half of this
 lesson, exactly as Jordan, Greece and Iraq are above.
+
+**Syria added 2026-11-03** — two books stock this lesson,
+in part: **Book:** *Emar English Series, Pupil's Book 1*
+— Syria, Ministry of Education. **Book:** *Emar English
+Series, Workbook 1* — Syria, Ministry of Education. Both
+filed in english/books/syria.md (Grade 1 — Emar English
+Series Pupil's Book 1 (student's book); Grade 1 — Emar
+English Series Workbook 1 (activity book) sections, FULLY
+READ + CITATION CHECK PASSED 2026-11-03). PARTIAL STOCK,
+recorded as such: Syria carries the morning half only,
+the same pattern as Jordan, Greece, Iraq and South
+Africa in this file. "Good morning" stands among the
+greeting formulas of the Grade 1 Pupil's Book's first
+unit — the book's grammar spine lists the formulas as
+"Hello / Good morning / How are you? — I'm fine" (Unit 1,
+printed pp.3–5) — and the Workbook's Unit 1 (printed
+pp.3–5) practises it by listen-and-match among the
+greeting exchanges ("Good morning." is a citation anchor
+at Workbook 1, printed p.5). A search of the whole filed
+Syria read finds no "Good afternoon" as a greeting in
+any of the 21 books — the phrase "good afternoon" does
+not occur in english/books/syria.md at all, and none is
+claimed here. Syria is therefore counted for the morning
+half of this lesson, exactly as Jordan, Greece and Iraq
+are above.

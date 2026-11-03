@@ -1,6 +1,6 @@
 # Sources — Nouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
+countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
 
 Every part traces to its book and page.
 
@@ -102,6 +102,12 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 
 **Book 29:** *English First Additional Language, Grade 4 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 30:** English, Pupil's Book 5, NCCD edition 2021-2022 (pupil's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 5 — English, Pupil's Book 5, NCCD edition 2021-2022 (pupil's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 31:** English, Pupil's Book 6 (pupil's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 6 — English, Pupil's Book 6 (pupil's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 32:** Emar English Series 12, Workbook, Scientific Section (workbook) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 12 — Emar English Series 12, Workbook, Scientific Section (workbook) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition in its three-sort form: "Nouns — person, place, thing," taught with the "Life in the City" text (Karim) and sorting work | Egypt, Primary 2 Term 2, Unit 4, Lesson 3 "Language in Use," p.68 |
@@ -150,8 +156,13 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Compound nouns as a named kind | South Africa, English Home Language (HL), Grade 4 Workbook 1 (Rainbow Workbooks), printed p.28 |
 | Nouns and adjectives revised together inside a story unit | South Africa, English First Additional Language (FAL), Grade 4 Workbook 2 (Rainbow Workbooks), Theme 2 "Reading and doing," printed pp.36–70 |
 
-**Acceptance count: taught in 15 countries (Bangladesh, Egypt,
-Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).**
+| The noun as a word kind in its own right: one-line definitions of nouns, pronouns, verbs, adjectives, articles, adverbs, prepositions, conjunctions and interjections in the Parts of Speech appendix | Syria — Emar English Series 12, Workbook, Scientific Section, Appendix I "Parts of Speech," p.100 |
+| Countable and uncountable nouns as a lesson of their own — how much / how many, some / any — worked on food ("How much sugar is there," p.61) | Syria — English, Pupil's Book 5 (NCCD), Unit 16 "Food and Drinks," pp.60–62 |
+| Irregular plurals inside the farming unit (calves, geese, mice), with articles a / an / the and some / any | Syria — English, Pupil's Book 6, Unit 9 "Farming," pp.44–47 |
+| Quantifiers many / much / too many / too much inside the recycling unit ("too many cars," p.51) | Syria — English, Pupil's Book 6, Unit 10 "Recycling and Reusing," pp.48–51 |
+
+**Acceptance count: taught in 16 countries (Bangladesh, Egypt,
+Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria).**
 Egypt and Bangladesh carry the definition itself,
 each in the three-sort form; Libya carries it twice more in its
 own shorter words; Ghana carries the sentence test; China
@@ -163,7 +174,7 @@ and the countable/uncountable line again with measure words;
 Sierra Leone carries the categories made by the learners
 themselves, the countable/uncountable pair in Primary 2, and
 the plural spellings -es / -ies / -ves as separate lessons.
-Jordan carries the irregular plurals mouse–mice and fish–fish and the -oes spellings, and countable against uncountable twice — with containers and quantity in Grade 4, and with some/any/no and the quantifiers in Grade 8; Greece carries countable against uncountable three times — as the Grade 4 party-shopping grammar core, again in Grade 6 with containers and few/little, and in Grade 7 with the quantifier set; Kazakhstan carries countable against uncountable twice in primary — in its Grade 3 Macmillan book, beside regular and irregular plurals, and in Grade 5 English Plus with some and any — and the plural spellings -s, then -es and -ies, built up across its Grade 3 Express book; Iraq carries the noun named as a word kind in its Grade 4 Activity Book — "Nouns are the names of things" set against adjectives — the irregular plurals as a pictured list closing its Grade 3 Picture Dictionary, and countable against uncountable nouns with containers in Grade 5; Ethiopia carries types of nouns three times — in Grade 5 beside the passive, in Grade 6 beside Conditional Type I, and in Grade 11's opening grammar — and collective nouns as a named set in Grade 4 (a herd of cows, a colony of ants, a pack of dogs, a crowd); South Africa carries the definition in its three-sort form and proper nouns in Grade 3 HL, the full noun system in Grade 4 HL — common, proper, countable/uncountable, collective, abstract and compound nouns — and nouns revised with adjectives inside a story unit in Grade 4 FAL; Other finished
+Jordan carries the irregular plurals mouse–mice and fish–fish and the -oes spellings, and countable against uncountable twice — with containers and quantity in Grade 4, and with some/any/no and the quantifiers in Grade 8; Greece carries countable against uncountable three times — as the Grade 4 party-shopping grammar core, again in Grade 6 with containers and few/little, and in Grade 7 with the quantifier set; Kazakhstan carries countable against uncountable twice in primary — in its Grade 3 Macmillan book, beside regular and irregular plurals, and in Grade 5 English Plus with some and any — and the plural spellings -s, then -es and -ies, built up across its Grade 3 Express book; Iraq carries the noun named as a word kind in its Grade 4 Activity Book — "Nouns are the names of things" set against adjectives — the irregular plurals as a pictured list closing its Grade 3 Picture Dictionary, and countable against uncountable nouns with containers in Grade 5; Ethiopia carries types of nouns three times — in Grade 5 beside the passive, in Grade 6 beside Conditional Type I, and in Grade 11's opening grammar — and collective nouns as a named set in Grade 4 (a herd of cows, a colony of ants, a pack of dogs, a crowd); South Africa carries the definition in its three-sort form and proper nouns in Grade 3 HL, the full noun system in Grade 4 HL — common, proper, countable/uncountable, collective, abstract and compound nouns — and nouns revised with adjectives inside a story unit in Grade 4 FAL; Syria carries the noun as a named word kind in its Grade 12 Workbook's Parts of Speech appendix (p.100), countable against uncountable nouns with how much / how many in Grade 5, and irregular plurals with the quantifiers many / much / too many / too much in Grade 6; Other finished
 countries join as their books are read (see READING-QUEUE.md).
 
 **Laos Grade 7 added 2026-10-27** — *English for Secondary
@@ -177,3 +188,5 @@ any** taught with a printed wrong example marked × (Unit 8,
 pp.99–108).
 
 **South Africa added 2026-11-03** — South Africa's Rainbow Workbooks name the noun early and build the whole system in one grade. Grade 3 HL Workbook 1 sorts nouns as names of a person, place or thing (printed p.6), with proper nouns just before it (printed p.4). Grade 4 HL Workbook 1 then carries the full set in one book: common nouns (printed p.6), proper nouns (printed p.10), countable and uncountable nouns (printed p.11), collective nouns (printed pp.14–15), abstract nouns (printed pp.20–21) and compound nouns (printed p.28). Grade 4 FAL Workbook 2 revises nouns and adjectives together inside its story Theme 2, "Reading and doing" (printed pp.36–70).
+
+**Syria added 2026-11-03** — Syria names the noun in the Grade 12 Scientific Workbook's Appendix I, "Parts of Speech" (p.100), a one-line definition set covering all nine word kinds. The countable line runs through primary: Grade 5 Pupil's Book 5 Unit 16 teaches countable and uncountable nouns with how much / how many and some / any over food (pp.60–62), and Grade 6 Pupil's Book 6 teaches irregular plurals (calves, geese, mice) in Unit 9 "Farming" (pp.44–47) and the quantifiers many / much / too many / too much in Unit 10 (pp.48–51). The Grade 12 Workbook is the scientific track's book, cited here only for its own appendix, not as a companion to the held literary Student's Book.

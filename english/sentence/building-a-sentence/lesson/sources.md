@@ -1,6 +1,6 @@
 # Sources — Building a sentence
 
-countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
+countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
 
 Every part traces to its book and page.
 
@@ -84,6 +84,11 @@ CITATION CHECK PASSED 2026-11-03).
 
 **Book 24:** *English Home Language, Grade 6 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+
+**Book 25:** Emar English Series Workbook 3 (workbook) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 3 — Emar English Series Workbook 3 (activity book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 26:** Emar Student's Book 9 (student's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 9 — Emar Student's Book 9 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 27:** Emar Workbook 9 (workbook) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 9 — Emar Workbook 9 (workbook) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The SIMPLE PRESENT box written as a board paradigm: affirmative Subject + Verb + Complement on "play," negative with do/does not, and the DO–DOES interrogative box beside it — the sentence's three-part formula stated as the book's own grammar frame | Bolivia compendium, the Daily activities text (T8, compendium p.178) |
@@ -117,9 +122,13 @@ CITATION CHECK PASSED 2026-11-03).
 | Subjects, verbs and objects picked out in three colours in sentences | South Africa — English Home Language, Grade 6 Workbook 1 (Rainbow Workbooks), printed pp.80–81 |
 | Subject and predicate worked in complex sentences | South Africa — English Home Language, Grade 6 Workbook 1 (Rainbow Workbooks), printed pp.44–45 |
 
-**Acceptance count: taught in 14 countries (Bangladesh,
+| PARTIAL — sentence building as reordering practice: sentences and questions reordered unit after unit — adverb sentences, like-sentences and questions, usually/now sentences, weather sentences, past sentences and could sentences — the band's first real writing mechanics, stated in the filing as sentence reordering, punctuation rewriting and short answer-writing in most units | Syria, Emar Workbook 3, Units 6, 8, 12, 14, 23 and 24, printed pp.18–20, 24–26, 36–38, 42–44, 69–71 and 72–74 |
+| PARTIAL — word order as the writing work itself: Unit 7's writing is set as word-order correction exercises | Syria, Emar Student's Book 9, Unit 7 "Critical Moments," printed pp.42–46 |
+| PARTIAL — word order stated as a writing box: Unit 7's writing carries a word-order box beside the past-perfect work | Syria, Emar Workbook 9, Unit 7 "Critical Moments," printed pp.32–36 |
+
+**Acceptance count: taught in 15 countries (Bangladesh,
 Bolivia, Ghana, Mongolia, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).** Bolivia states the formula;
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria).** Bolivia states the formula;
 Ghana names the two parts; Bangladesh drills the building
 from tables; Mongolia checks the order; China adds the
 this/these, that/those sentence system, taught as one
@@ -131,6 +140,8 @@ subject-and-verb rule in JSS 1 and writes sentences with
 all eight parts in SSS 1; Jordan orders
 sentences in its Grade 3 workbook and builds them, and
 sets present-continuous word order, in its Grade 8
-workbook. Greece stocks this lesson only in part: it works word order as practice — in the Grade 7 workbooks' contrast drills, question formation and labelled error correction — and sorts verbs by sentence pattern at Grade 9, but no Greece book states a subject-and-verb sentence-building rule as a named lesson. Kazakhstan stocks this lesson only in part, and more thinly: its Grade 5 English Plus Workbook orders words to make questions — *be going to* questions in Unit 8 and past questions in Unit 9 — but no Kazakhstan book states a subject-and-verb sentence-building rule as a named lesson either. Iraq stocks this lesson only in part: its Grade 1 and Grade 2 teacher's books define a sentence for pupils — a group of words that makes sense, starting with a capital letter and ending with a full stop — and its Grade 2 teacher's book builds sentences from Word Cards to focus attention on word order, but no Iraq book states a subject-and-verb sentence-building rule or builds a sentence from its parts. Ethiopia carries the formula as a form box inside its Grade 3 simple-present grammar — Subject + Verb(s/es) + Object — and works sentences at the top of the school: constructing sentences in Grade 9, sentence types in Grade 10, and sentence types by function and structure with fragments, run-ons and comma splices in Grade 11. South Africa stocks this lesson in full — fuller than several earlier countries' partials: its Grade 4 Workbook 1 names subject, verb and object, with transitive and intransitive verbs, its Grade 4 Workbook 2 builds simple sentences as subject + predicate, and its Grade 6 Workbook 1 picks out subjects, verbs and objects in three colours and works subject and predicate in complex sentences. Other finished
+workbook. Greece stocks this lesson only in part: it works word order as practice — in the Grade 7 workbooks' contrast drills, question formation and labelled error correction — and sorts verbs by sentence pattern at Grade 9, but no Greece book states a subject-and-verb sentence-building rule as a named lesson. Kazakhstan stocks this lesson only in part, and more thinly: its Grade 5 English Plus Workbook orders words to make questions — *be going to* questions in Unit 8 and past questions in Unit 9 — but no Kazakhstan book states a subject-and-verb sentence-building rule as a named lesson either. Iraq stocks this lesson only in part: its Grade 1 and Grade 2 teacher's books define a sentence for pupils — a group of words that makes sense, starting with a capital letter and ending with a full stop — and its Grade 2 teacher's book builds sentences from Word Cards to focus attention on word order, but no Iraq book states a subject-and-verb sentence-building rule or builds a sentence from its parts. Ethiopia carries the formula as a form box inside its Grade 3 simple-present grammar — Subject + Verb(s/es) + Object — and works sentences at the top of the school: constructing sentences in Grade 9, sentence types in Grade 10, and sentence types by function and structure with fragments, run-ons and comma splices in Grade 11. South Africa stocks this lesson in full — fuller than several earlier countries' partials: its Grade 4 Workbook 1 names subject, verb and object, with transitive and intransitive verbs, its Grade 4 Workbook 2 builds simple sentences as subject + predicate, and its Grade 6 Workbook 1 picks out subjects, verbs and objects in three colours and works subject and predicate in complex sentences. Syria stocks this lesson only in part, and in the same way as Greece and Kazakhstan: its Grade 3 Workbook reorders sentences and questions in most units as the band's first writing mechanics, and its Grade 9 books set word-order correction as writing work, but no Syria book states a subject-and-verb sentence-building rule as a named lesson. Other finished
 countries join as their books are read (see
 READING-QUEUE.md).
+
+**Syria added 2026-11-03** — *Emar series* (Syria, Ministry of Education; full read in english/books/syria.md). Syria stocks this lesson only in part: **sentence reordering in most units of Grade 3 Workbook 3** — adverb sentences, like-sentences, usually/now sentences, weather sentences, past sentences and could sentences — and **word-order correction as the writing work of Grade 9, Unit 7**, in both the Student's Book (printed pp.42–46) and the Workbook, with its word-order box (printed pp.32–36). No Syria book states a subject-and-verb sentence-building rule as a named lesson.

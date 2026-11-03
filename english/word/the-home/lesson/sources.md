@@ -1,6 +1,6 @@
 # Sources — The home
 
-countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa
+countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria
 
 Every part traces to its book and page.
 
@@ -97,6 +97,12 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 
 **Book 24:** *English Home Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 25:** Emar English Series, Pupil's Book 1 (student book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 1 — Emar English Series Pupil's Book 1 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 26:** Emar English Series, Pupil's Book 4 (pupil's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 4 — Emar English Series, Pupil's Book 4 (pupil's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 27:** English, Pupil's Book 5, NCCD edition 2021-2022 (pupil's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 5 — English, Pupil's Book 5, NCCD edition 2021-2022 (pupil's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The five rooms on pictures, each with its sentence: bedroom — "I sleep in the bedroom" · bathroom — "I brush my teeth in the bathroom" · living room — "I watch TV in the living room" · dining room — "I eat in the dining room" · kitchen — "My mother cooks in the kitchen" | Egypt, Primary 1 Term 2, Unit 4 "My House," Lesson 1 "Rooms in My House," pp.67–68 |
@@ -135,9 +141,13 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | The rooms and furniture of a home in Theme 3, with the position question: "Where is the fridge? — The fridge is in the kitchen." | South Africa, English First Additional Language (FAL), Grade 1 Workbook 1 (Rainbow Workbooks), Theme 3, printed pp.16–17 |
 | The home word set worked across the "Around the house" theme — the house, its rooms and the things in them | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), Theme 6 "Around the house," printed pp.36–67 |
 
-**Acceptance count: taught in 14 countries (Egypt, Libya,
+| The five rooms as the house set — garden, living room, kitchen, bathroom, bedroom — with "Where's…? He's in the…", the negative "He isn't in the…", and in / on with a mouse and a box ("The mouse is in the box," p.35) | Syria — Emar English Series, Pupil's Book 1, Unit 11 "My House," pp.34–36 |
+| Rooms and furniture as a whole unit, with there is / there are in negatives and questions | Syria — Emar English Series, Pupil's Book 4, Unit 4 "My House," pp.12–14 |
+| Houses around the world as the houses unit — the home set widened to house types, with comparatives and superlatives worked on them ("cozier," p.49) | Syria — English, Pupil's Book 5 (NCCD), Unit 13 "Houses," pp.48–50 |
+
+**Acceptance count: taught in 15 countries (Egypt, Libya,
 Palestine, Laos, China, North Macedonia, Mongolia, Indonesia,
-Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa).** Egypt carries the five rooms with a sentence for
+Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria).** Egypt carries the five rooms with a sentence for
 each and the drilled question; Libya carries the same rooms
 twice (Grade 1 set, Grade 2 labelled house) with the sitting
 room name and the furniture; Palestine carries the bedroom set
@@ -151,7 +161,7 @@ the parts of the house found room by room in Grade 3, and the
 there is/are room description with eight prepositions as one
 set in Grade 7; Iran carries the rooms with the where-question
 and yes/no short answers, widened in its Photo Dictionary to
-house types and furniture. Jordan carries the ten home words with the where-question in Grade 2, the furniture set with there is/are in Grade 3, and the whole house — rooms, furniture, chores — again in Grade 8; Greece carries the rooms and the bedroom furniture in pictures in its Grade 2 Workpack — the room cards themselves carry no printed words — and the household chores in Grade 4; Kazakhstan carries the first room with its furniture in Grade 1 Smiles, the whole home — six rooms and fifteen furniture words with there is/are — in its Grade 3 Express book, and rooms, furniture and appliances as a full module in Grade 5 Excel; Iraq carries the house three years running — the cutaway house set in Grade 1, the rooms toured with Where's …? in Grade 2, and the whole house counted room by room in Grade 3; South Africa carries the rooms and furniture with the position question — "Where is the fridge? The fridge is in the kitchen." — in Grade 1 FAL Theme 3, and the home word set across the "Around the house" theme in Grade 2 HL; Other closed countries join as
+house types and furniture. Jordan carries the ten home words with the where-question in Grade 2, the furniture set with there is/are in Grade 3, and the whole house — rooms, furniture, chores — again in Grade 8; Greece carries the rooms and the bedroom furniture in pictures in its Grade 2 Workpack — the room cards themselves carry no printed words — and the household chores in Grade 4; Kazakhstan carries the first room with its furniture in Grade 1 Smiles, the whole home — six rooms and fifteen furniture words with there is/are — in its Grade 3 Express book, and rooms, furniture and appliances as a full module in Grade 5 Excel; Iraq carries the house three years running — the cutaway house set in Grade 1, the rooms toured with Where's …? in Grade 2, and the whole house counted room by room in Grade 3; South Africa carries the rooms and furniture with the position question — "Where is the fridge? The fridge is in the kitchen." — in Grade 1 FAL Theme 3, and the home word set across the "Around the house" theme in Grade 2 HL; Syria carries the five rooms with the where-question and in / on in Grade 1, rooms and furniture with there is / there are in Grade 4, and houses around the world in Grade 5; Other closed countries join as
 their books are read (see READING-QUEUE.md).
 
 **Laos Grade 5 added 2026-10-27** — *Student's Book 3, Grade 5*
@@ -165,3 +175,5 @@ The lamp is behind the sofa" (p.98) — and the series' first
 reading passage is a house text with written answers (p.117).
 
 **South Africa added 2026-11-03** — South Africa teaches the home in its first FAL year: Grade 1 Workbook 1 Theme 3 works the rooms and furniture of a home through position questions — "Where is the fridge? The fridge is in the kitchen." (printed pp.16–17). Grade 2 HL Workbook 2's Theme 6, "Around the house" (printed pp.36–67), works the home word set across a whole theme.
+
+**Syria added 2026-11-03** — Syria teaches the home from its first year: Grade 1 Pupil's Book 1 Unit 11 "My House" (pp.34–36) gives garden, living room, kitchen, bathroom and bedroom with "Where's…? He's in the…" and in / on. Grade 4 Pupil's Book 4 Unit 4 (pp.12–14) rebuilds rooms and furniture with there is / there are, and Grade 5 Pupil's Book 5 Unit 13 "Houses" (pp.48–50) widens the set to houses around the world.

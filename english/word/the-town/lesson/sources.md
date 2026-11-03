@@ -1,6 +1,6 @@
 # Sources — The town
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
 
 Every part traces to its book and page.
 
@@ -84,6 +84,10 @@ english/books/jordan.md (Grade 6 Pupil's Book Semester 1 section, FULLY READ + C
 
 **Book 24:** *English First Additional Language, Grade 6 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 25:** Emar Syrian Series, Pupil's Book 3 (student's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 3 — Emar Syrian Series Pupil's Book 3 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 26:** Emar English Series, Pupil's Book 4 (pupil's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 4 — Emar English Series, Pupil's Book 4 (pupil's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Eight town words on pictures: hospital, school, shop, building, street, car, truck, bus (the hospital shown with its ambulance) | Egypt, Primary 1 Term 2, Unit 5 "Neighborhood," Lesson 1 "Around My Town," p.86 |
@@ -119,8 +123,13 @@ english/books/jordan.md (Grade 6 Pupil's Book Semester 1 section, FULLY READ + C
 | The town set a level up — flats in town, maps and directions | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), printed pp.36–48 |
 | Map work "About town," with directions | South Africa, English First Additional Language (FAL), Grade 6 Workbook 1 (Rainbow Workbooks), printed p.52 |
 
-**Acceptance count: taught in 14 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).** Egypt
+| Places to go as the town set — museum, swimming pool, amusement park, beach, zoo, library — with "I'd like to go…", "Where would you like to go?" and prefer ("I'd like to go to the museum," p.28) | Syria — Emar Syrian Series, Pupil's Book 3, Unit 9 "Places to Go," pp.27–29 |
+| The town then-and-now: past there was / were against present there is / are ("In the past, there weren't hotels. Now, there are many hotels") | Syria — Emar Syrian Series, Pupil's Book 3, Unit 22 "My Town," pp.66–68 |
+| A whole town unit: places in my town, with compass points and the place prepositions in front of / between / behind / opposite / next to | Syria — Emar English Series, Pupil's Book 4, Unit 8 "Places in My Town," pp.27–29 |
+| Giving directions as its own unit — imperatives for directions (straight on, turn left / right) with polite requests ("Go straight on. Turn left," p.30) | Syria — Emar English Series, Pupil's Book 4, Unit 9 "Giving Directions," pp.30–32 |
+
+**Acceptance count: taught in 15 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria).** Egypt
 carries the first set twice (Primary 1's
 eight words with their dialog; Primary 2's city set);
 Bangladesh carries city life as a topic, against village life;
@@ -131,7 +140,7 @@ neighbourhood on one map, with directions and the position
 set; Iran carries the city described and located whole, and
 the widest pictured places set in this lesson; Sierra Leone
 carries the community word-web and directions by landmarks.
-Jordan carries a town set located and directed in its Grade 3 booster, a whole Our town unit in Grade 4, and the buildings set with the parts of a building in Grade 6; Greece carries the city facilities set with its place phrases in Grade 4, the park and road signs of its Around the City unit, and directions over real maps in Grade 5; Kazakhstan carries the town buildings in its Grade 3 Express buildings module, the town set with directions language in its Grade 3 Macmillan Dictionary, and a town asked about and written up as a brochure in Grade 5 English Plus; Iraq carries a whole My town unit in Grade 3 — six town places on a street scene, the town described with there is / there isn't and directed over a map — and describing places as its own box in Grade 9 book; Ethiopia carries only the describing side of this lesson — town against country in its Grade 7 reading "Living in Rural and Urban Areas: Advantages and Disadvantages" with speaking on where one lives, and the big city described in its Grade 9 reading "Life in a Big City" — no town-places word set, locating frame or directions work is filed for Ethiopia, and none is claimed here; South Africa carries the town set — shops, the library, asking about places — in Grade 1 FAL Theme 12 "About town," flats, maps and directions in Grade 3 HL, and map work with directions again in Grade 6 FAL; Other
+Jordan carries a town set located and directed in its Grade 3 booster, a whole Our town unit in Grade 4, and the buildings set with the parts of a building in Grade 6; Greece carries the city facilities set with its place phrases in Grade 4, the park and road signs of its Around the City unit, and directions over real maps in Grade 5; Kazakhstan carries the town buildings in its Grade 3 Express buildings module, the town set with directions language in its Grade 3 Macmillan Dictionary, and a town asked about and written up as a brochure in Grade 5 English Plus; Iraq carries a whole My town unit in Grade 3 — six town places on a street scene, the town described with there is / there isn't and directed over a map — and describing places as its own box in Grade 9 book; Ethiopia carries only the describing side of this lesson — town against country in its Grade 7 reading "Living in Rural and Urban Areas: Advantages and Disadvantages" with speaking on where one lives, and the big city described in its Grade 9 reading "Life in a Big City" — no town-places word set, locating frame or directions work is filed for Ethiopia, and none is claimed here; South Africa carries the town set — shops, the library, asking about places — in Grade 1 FAL Theme 12 "About town," flats, maps and directions in Grade 3 HL, and map work with directions again in Grade 6 FAL; Syria carries a places-to-go set and a then-and-now My Town unit in Grade 3, and a whole Places in My Town unit with a Giving Directions unit beside it in Grade 4 — Syria, unlike Ethiopia here, files the word set, the locating prepositions and the directions work together; Other
 closed countries join as their books are read (see
 READING-QUEUE.md).
 
@@ -144,3 +153,5 @@ second turn, across / along / between / next to / opposite**
 Vientiane's landmarks to direct over (pp.66–70).
 
 **South Africa added 2026-11-03** — South Africa teaches the town from its first FAL year: Grade 1 Workbook 2 Theme 12, "About town" (printed pp.62–77), teaches shops, the library and asking about places. Grade 3 HL Workbook 2's town set covers flats in town, maps and directions (printed pp.36–48), and Grade 6 FAL Workbook 1 does map work "About town" with directions (printed p.52).
+
+**Syria added 2026-11-03** — Syria's town stock sits in two grades. Grade 3 Pupil's Book 3 gives the places set in Unit 9 "Places to Go" (pp.27–29) and the town itself in Unit 22 "My Town" (pp.66–68), told then-and-now. Grade 4 Pupil's Book 4 gives the whole town in Unit 8 "Places in My Town" (pp.27–29), compass points and place prepositions included, and directions as their own unit next (Unit 9, pp.30–32).

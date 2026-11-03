@@ -1,6 +1,6 @@
 # Sources — Going to: later
 
-countries: Bolivia, Ghana, Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
+countries: Bolivia, Ghana, Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
 
 Every part traces to its book and page.
 
@@ -94,6 +94,12 @@ CITATION CHECK PASSED 2026-11-03).
 
 **Book 28:** *English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+
+**Book 29:** English Pupil's Book 5, NCCD edition 2021-2022 (pupil's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 5 — English, Pupil's Book 5, NCCD edition 2021-2022 (pupil's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 30:** English Pupil's Book 6 (pupil's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 6 — English, Pupil's Book 6 (pupil's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 31:** Emar Student's Book 9 (student's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 9 — Emar Student's Book 9 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 32:** Emar Workbook 9 (workbook) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 9 — Emar Workbook 9 (workbook) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | BE GOING TO full table — affirmative/negative/interrogative/short answers for all persons on "visit" — with its note (future idea, intention or prediction); completion exercise ("parents are going to go shopping on Sunday; study at UMSA"); "1.2 interviews about future plans" | Bolivia compendium, Trimester 2 text (p.194) |
@@ -134,8 +140,13 @@ CITATION CHECK PASSED 2026-11-03).
 | The future written with Tomorrow/will frames | South Africa — English Home Language, Grade 3 Workbook 1 (Rainbow Workbooks), printed pp.42, 84 |
 | The future taught with will | South Africa — English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks), printed p.41 |
 
-**Acceptance count: taught in 13 countries (Bolivia, Ghana,
-Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).** Bolivia tables going to whole and names its
+| Going to for plans as the music unit's future — "going to play the guitar" | Syria, NCCD Pupil's Book 5, Unit 9 "Music," printed pp.33–35 (anchor, printed p.34) |
+| Be going to for predictions (with present evidence) alongside will, then be going to for plans against will for decisions made at the moment of speaking | Syria, English Pupil's Book 6, Unit 18, printed pp.88–91; Unit 19, printed pp.92–95 |
+| Will and be going to as the future unit's pair | Syria, Emar Student's Book 9, Unit 3 "A More Comfortable Life," printed pp.16–20 |
+| A will/going to contrast table as the workbook's future presentation | Syria, Emar Workbook 9, Unit 3, printed pp.11–13 |
+
+**Acceptance count: taught in 14 countries (Bolivia, Ghana,
+Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria).** Bolivia tables going to whole and names its
 jobs; Mongolia boxes the will neighbour; Ghana keeps the
 scheduled present as the third future; China adds be going
 to as a full system with its time words, will worked for
@@ -152,7 +163,7 @@ continuous and the timetabled present as futures.
 Greece teaches the future as one three-form system at Grade 5 — going to, arrangements continuous and will — contrasts will with going to by job at Grade 6, and runs all three futures through one Grade 7 unit. Kazakhstan teaches *be going to* in full at Grade 5 — affirmative, negative and questions — and again at Grade 6 beside *will/won't* for predictions, with Full Blast! adding the arrangements-continuous note. No primary Kazakhstan book teaches any future form — the form arrives at Grade 5, in the secondary-style series. Indonesia was checked and adds nothing here: no future
 form is taught in any of its read books — will/going to
 occur only incidentally inside other texts (see
-english/books/indonesia.md, honest negatives). Iraq runs *going to* for plans through its Grade 4 school-trip unit, boxes the full paradigm in Grade 5, divides *going to* plans from *will* predictions in Grade 6, and states the pair as one box — plans against certainties — in its Grade 9 Student's Book. Ethiopia sets will / is going to / shall / are to in substitution tables in Grade 3, teaches the simple future with will in Grade 5, groups simple future, going to and the present continuous for intention and plan in Grade 6, and contrasts going to vs will in Grade 7. South Africa stocks this lesson in full: Grade 4 FAL teaches the future with will, going to and shall together, Grade 3 FAL teaches the future tense explicitly with will, and HL writes the future with Tomorrow/will frames in Grade 3 and teaches it with will in Grade 5. Other finished
+english/books/indonesia.md, honest negatives). Iraq runs *going to* for plans through its Grade 4 school-trip unit, boxes the full paradigm in Grade 5, divides *going to* plans from *will* predictions in Grade 6, and states the pair as one box — plans against certainties — in its Grade 9 Student's Book. Ethiopia sets will / is going to / shall / are to in substitution tables in Grade 3, teaches the simple future with will in Grade 5, groups simple future, going to and the present continuous for intention and plan in Grade 6, and contrasts going to vs will in Grade 7. South Africa stocks this lesson in full: Grade 4 FAL teaches the future with will, going to and shall together, Grade 3 FAL teaches the future tense explicitly with will, and HL writes the future with Tomorrow/will frames in Grade 3 and teaches it with will in Grade 5. Syria meets going to for plans in Grade 5, sets be going to against will by job in Grade 6 — predictions with present evidence, plans against instant decisions — and tables the will/going to contrast in Grade 9. Other finished
 countries join as their books are read (see
 READING-QUEUE.md).
 
@@ -195,3 +206,5 @@ box — *be going to* for plans, *will* for certainties
 (Student's Book Book One, Unit 6, printed pp.64–75).
 
 **South Africa added 2026-11-03** — *DBE Rainbow Workbooks* (Department of Basic Education, South Africa, Sixteenth edition 2026; full read in english/books/south-africa.md). South Africa stocks the future in full: **will, going to and shall taught together in Grade 4 FAL Workbook 1 (Theme 7)**, the **future tense taught explicitly with will in Grade 3 FAL Workbook 2** (printed pp.10–11, 50–51), **Tomorrow/will frames in Grade 3 HL Workbook 1** (printed pp.42, 84), and the **future with will in Grade 5 HL Workbook 1** (printed p.41).
+
+**Syria added 2026-11-03** — *Emar series* (Syria, Ministry of Education; full read in english/books/syria.md). Syria stocks going to in full: **going to for plans in Grade 5** — "going to play the guitar" (NCCD Pupil's Book 5, Unit 9, printed p.34) — **be going to against will by job in Grade 6** (Pupil's Book 6, Units 18–19, printed pp.88–95), and **will and be going to in Grade 9**, with a **will/going to contrast table in Workbook 9** (Unit 3, printed pp.11–13).

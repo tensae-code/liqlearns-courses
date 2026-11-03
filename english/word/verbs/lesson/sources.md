@@ -1,6 +1,6 @@
 # Sources — Verbs
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
 
 Every part traces to its book and page.
 
@@ -92,6 +92,10 @@ english/books/jordan.md (Grade 10 Student's Book Semester 1 section, FULLY READ 
 
 **Book 26:** *English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 27:** Emar English Series, Pupil's Book 1 (student book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 1 — Emar English Series Pupil's Book 1 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 28:** Emar English Series 12, Workbook, Scientific Section (workbook) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 12 — Emar English Series 12, Workbook, Scientific Section (workbook) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The formal definition in words: "Verb: A verb is a word that expresses an action." — in the same box that defines noun and pronoun and names the three "parts of speech" | Bangladesh, English for Today Class 3, "Joyful school time 2," GRAMMAR FOCUS box, pp.68–71 |
@@ -131,8 +135,12 @@ english/books/jordan.md (Grade 10 Student's Book Semester 1 section, FULLY READ 
 | The infinitive named | South Africa, English Home Language (HL), Grade 5 Workbook 1 (Rainbow Workbooks), printed p.27 |
 | Finite verbs named again a year up | South Africa, English Home Language (HL), Grade 5 Workbook 1 (Rainbow Workbooks), printed p.29 |
 
-**Acceptance count: taught in 15 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).**
+| Action verbs as a named set at the beach — swim, fly, jump, run — worked with can / can't ("I can swim. Can you swim? No, I can't") | Syria — Emar English Series, Pupil's Book 1, Unit 22 "At the Beach," pp.69–71 |
+| The verb as a word kind in its own right: one-line definitions of all nine parts of speech, verbs among them, in the Parts of Speech appendix | Syria — Emar English Series 12, Workbook, Scientific Section, Appendix I "Parts of Speech," p.100 |
+| State verbs named beside the present continuous in the Grammar Bank's tense reference — present continuous and state verbs as their own section | Syria — Emar English Series 12, Workbook, Scientific Section, Grammar Bank, pp.105–112 |
+
+**Acceptance count: taught in 16 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria).**
 Bangladesh carries the formal definition;
 Libya the shortest one; Ghana the test and the smallest
 sentence shape; Egypt the review work and the he/she/it -s rule;
@@ -144,7 +152,9 @@ against state; Sierra Leone carries action verbs picked out of
 a passage, and the main/helping split.
 The tenses themselves are a different thing and are NOT sourced
 here — they live at the Sentence stage (Level 3, Unit 3 "Now,
-Before, Later"). Jordan carries the third-person plays/doesn't work in Grade 3, and the action against state split twice — state verbs named in Grade 6, and state and action verbs set against each other in Grade 10; Greece carries the action against state split twice — the distinction itself in Grade 7, and stative verbs with their meaning-change pairs in Grade 8; Kazakhstan carries the action-verb set named as vocabulary in its Grade 3 Express book, the present simple built up affirmative, negative and questions across Grade 5 English Plus, and the third-person -s worked inside Top Stars Grade 3; Iraq carries the action verbs as a named set twice — the Grade 3 Picture Dictionary's own "Action verbs" spread of twenty doing words, and the Grade 2 can-set of actions a year earlier; Ethiopia carries verb forms, not a verb definition in the rows used here — regular and irregular verb tables in its Grade 4 and Grade 8 appendices, a list of about 150 irregular verbs in Grade 5, the transitive/intransitive split in Grade 6, and state verbs as a list in the Grade 8 appendix; South Africa carries verbs as action words in Grade 2 HL, doing words with tense-switching, finite verbs and the stative against action split in Grade 4 HL, and the infinitive and finite verbs again in Grade 5 HL; Other closed countries join as their books
+Before, Later"). Jordan carries the third-person plays/doesn't work in Grade 3, and the action against state split twice — state verbs named in Grade 6, and state and action verbs set against each other in Grade 10; Greece carries the action against state split twice — the distinction itself in Grade 7, and stative verbs with their meaning-change pairs in Grade 8; Kazakhstan carries the action-verb set named as vocabulary in its Grade 3 Express book, the present simple built up affirmative, negative and questions across Grade 5 English Plus, and the third-person -s worked inside Top Stars Grade 3; Iraq carries the action verbs as a named set twice — the Grade 3 Picture Dictionary's own "Action verbs" spread of twenty doing words, and the Grade 2 can-set of actions a year earlier; Ethiopia carries verb forms, not a verb definition in the rows used here — regular and irregular verb tables in its Grade 4 and Grade 8 appendices, a list of about 150 irregular verbs in Grade 5, the transitive/intransitive split in Grade 6, and state verbs as a list in the Grade 8 appendix; South Africa carries verbs as action words in Grade 2 HL, doing words with tense-switching, finite verbs and the stative against action split in Grade 4 HL, and the infinitive and finite verbs again in Grade 5 HL; Syria carries action verbs as a set in its first year — swim, fly, jump, run with can / can't in Grade 1 — the verb named as a word kind in its Grade 12 Workbook's Parts of Speech appendix, and state verbs named beside the present continuous in the same book's Grammar Bank; Other closed countries join as their books
 are read (see READING-QUEUE.md).
 
 **South Africa added 2026-11-03** — South Africa teaches the verb as an action word from Grade 2 HL Workbook 2, where learners pick out and circle the action words (printed pp.59, 93, 122). Grade 4 HL Workbook 1 treats verbs as doing words with tense-switching work (printed pp.92–93), then names finite verbs (printed p.109) and sets stative verbs against action verbs (printed p.115) — the same action/state split Iran, Jordan and Greece carry, here inside one primary book. Grade 5 HL Workbook 1 names the infinitive (printed p.27) and finite verbs again (printed p.29).
+
+**Syria added 2026-11-03** — Syria's first action-verb set arrives in Grade 1 Pupil's Book 1, Unit 22 "At the Beach" (pp.69–71): swim, fly, jump, run, worked with can / can't. The verb as a named word kind waits until the Grade 12 Scientific Workbook: Appendix I defines all nine parts of speech in one line each (p.100), and its Grammar Bank names state verbs beside the present continuous (pp.105–112) — Syria's action/state distinction arrives as a reference section, not as a primary lesson. The Grade 12 Workbook is the scientific track's book, cited only for what it itself teaches.

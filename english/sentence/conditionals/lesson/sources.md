@@ -1,6 +1,6 @@
 # Sources — Conditionals
 
-countries: Egypt, Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
+countries: Egypt, Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
 
 Every part traces to its book and page.
 
@@ -99,6 +99,11 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 
 **Book 36:** *English First Additional Language, Grade 5 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+
+**Book 37:** Emar Student's Book 7 (student's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 7 — Emar Student's Book 7 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 38:** Emar Workbook 8 (workbook) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 8 — Emar Workbook 8 (workbook) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 39:** Emar English Series 12, Workbook, Scientific Section (workbook) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 12 — Emar English Series 12, Workbook, Scientific Section (workbook) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The zero conditional | Libya, Grade 9 Course Book, Unit 7 (p.79, as filed in libya.md) |
@@ -162,8 +167,13 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | if…then conditional frames worked | South Africa — English First Additional Language, Grade 5 Workbook 1 (Rainbow Workbooks), as filed in english/books/south-africa.md |
 | if…then conditional frames worked | South Africa — English First Additional Language, Grade 5 Workbook 2 (Rainbow Workbooks), as filed in english/books/south-africa.md |
 
-**Acceptance count: taught in 13 countries (Egypt,
-Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).** Libya names the zero and first at
+| The zero conditional, with should/shouldn't, as the environment unit's grammar; the first conditional closing the book's taught conditional pair | Syria, Emar Student's Book 7, Unit 7 "Be Green," printed pp.45–49; Unit 12 "Culture," printed pp.77–82 |
+| A full second-conditional rule table as the safety unit's grammar presentation — the workbook states in full rule tables every rule the Student's Book leaves inductive | Syria, Emar Workbook 8, Unit 5 "Safety Online!," printed pp.18–21 |
+| Conditionals II and III presented in a full table — form, use, "were" in formal English, when/unless notes | Syria, Emar Workbook 12 (Scientific Section), Unit 7 "Microorganisms," printed pp.52–58 |
+| The split, stated plainly: Syria's taught conditionals are the zero, first, second and third only — mixed conditionals are never named anywhere in the set | Syria, the whole Emar set as filed in english/books/syria.md (series verdict) |
+
+**Acceptance count: taught in 14 countries (Egypt,
+Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria).** Libya names the zero and first at
 Grade 9 and completes the set in its reference;
 Mongolia tables zero and first, teaches the first with
 unless, and reaches the second at Grade 10; Egypt
@@ -181,7 +191,7 @@ JSS3; Jordan meets the first conditional at Grade 6,
 teaches zero, first and second together and the third
 (with wish/if only regrets) at Grade 10, adds mixed
 conditionals at Grade 11, and recaps the whole 0–3
-system in Grade 12's Grammar Reference. Greece's split stands plainly: primary teaches Types 1 and 2 only; the Grade 8 streams add Type 0 and unless; Grade 9's ceiling is Types 1–2 (no Type 0 as a named form, no Type 3, no mixed); and the system is completed only at Grade 10, where Αγγλικά 1 tables Types 0–3, adds mixed conditionals, the if-alternatives and inverted conditionals. Kazakhstan's system is filed as Types 0–3 across the set, and the split by series stands plainly: Excel Grade 7 tables zero, first and second on one spread and Excel Grade 9 tables Types 1–3 with wishes; English Plus holds the third conditional back to its Grade 9 Unit 9, long after first and second; Full Blast! works Types 0/1/2 in Module 7 and the Type 3 a term later in Module 9 — and no Kazakhstan book teaches mixed or inverted conditionals, so the set's ceiling is the four plain types. Iraq climbs the ladder across the whole school: the first conditional boxed at Grade 7, first and second together at Grade 9, zero and first at Grade 10, first (Unit 3) and second (Unit 5) again at Grade 11, and the complete system 0–3 tabulated in Grade 12's Reference with wish/if only — and its split stands plainly too: no mixed conditionals as a category and no inversion anywhere in the Iraq set, so its ceiling is likewise the four plain types. Ethiopia stocks conditionals richly: Types I, II and III in Grade 6 (never Type 0 there), I and II in Grade 8, zero and first then second and third with a four-type summary table in Grade 9, types 0–3 systematised in Grade 10, a full zero–III table with unless and third-conditional inversion in Grade 11, and "Tense Balance in Conditional Sentences" revision in Grade 12. South Africa stocks conditionals with its limits stated plainly: Grade 5 HL carries a conditional-sentences lesson built on the conditional clause with if and unless and a sentence-mood lesson using "If I were fitter…", and Grade 5 FAL works if…then conditional frames in both workbooks — but no numbered conditional types and no Type 2/3 system are taught anywhere in the set. Other closed countries join as their books
+system in Grade 12's Grammar Reference. Greece's split stands plainly: primary teaches Types 1 and 2 only; the Grade 8 streams add Type 0 and unless; Grade 9's ceiling is Types 1–2 (no Type 0 as a named form, no Type 3, no mixed); and the system is completed only at Grade 10, where Αγγλικά 1 tables Types 0–3, adds mixed conditionals, the if-alternatives and inverted conditionals. Kazakhstan's system is filed as Types 0–3 across the set, and the split by series stands plainly: Excel Grade 7 tables zero, first and second on one spread and Excel Grade 9 tables Types 1–3 with wishes; English Plus holds the third conditional back to its Grade 9 Unit 9, long after first and second; Full Blast! works Types 0/1/2 in Module 7 and the Type 3 a term later in Module 9 — and no Kazakhstan book teaches mixed or inverted conditionals, so the set's ceiling is the four plain types. Iraq climbs the ladder across the whole school: the first conditional boxed at Grade 7, first and second together at Grade 9, zero and first at Grade 10, first (Unit 3) and second (Unit 5) again at Grade 11, and the complete system 0–3 tabulated in Grade 12's Reference with wish/if only — and its split stands plainly too: no mixed conditionals as a category and no inversion anywhere in the Iraq set, so its ceiling is likewise the four plain types. Ethiopia stocks conditionals richly: Types I, II and III in Grade 6 (never Type 0 there), I and II in Grade 8, zero and first then second and third with a four-type summary table in Grade 9, types 0–3 systematised in Grade 10, a full zero–III table with unless and third-conditional inversion in Grade 11, and "Tense Balance in Conditional Sentences" revision in Grade 12. South Africa stocks conditionals with its limits stated plainly: Grade 5 HL carries a conditional-sentences lesson built on the conditional clause with if and unless and a sentence-mood lesson using "If I were fitter…", and Grade 5 FAL works if…then conditional frames in both workbooks — but no numbered conditional types and no Type 2/3 system are taught anywhere in the set. Syria teaches the zero and first conditionals in Grade 7, adds the second conditional in Grade 8 (stated in full in the Workbook), and completes the plain system with conditionals II and III in Grade 12 — and its split stands plainly too: mixed conditionals are never named anywhere in the set, so its ceiling is the four plain types. Other closed countries join as their books
 are read (see READING-QUEUE.md).
 
 **Laos Grade 9 added 2026-10-27** — *English for Secondary
@@ -216,3 +226,5 @@ China is deliberately absent from this lesson's countries
 line — the absence is checked, not unlooked-for.
 
 **South Africa added 2026-11-03** — *DBE Rainbow Workbooks* (Department of Basic Education, South Africa, Sixteenth edition 2026; full read in english/books/south-africa.md). South Africa's conditionals come with their limits stated plainly: **a conditional-sentences lesson built on the conditional clause with if and unless in Grade 5 HL Workbook 2** (printed p.85), a **sentence-mood lesson using "If I were fitter…"** in the same book (printed p.101), and **if…then conditional frames in Grade 5 FAL Workbooks 1 and 2** — but **no numbered conditional types and no Type 2/3 system are taught**. The book's own slip is filed as printed: the HL lesson's unless model sentence reverses its meaning — "The snake will bite me unless I don't get too close" (printed p.85).
+
+**Syria added 2026-11-03** — *Emar series* (Syria, Ministry of Education; full read in english/books/syria.md). Syria stocks the taught conditionals only: **zero conditional and first conditional in Grade 7** (Student's Book 7, Units 7 and 12, printed pp.45–49 and 77–82), a **full second-conditional rule table in Grade 8 Workbook 8** (Unit 5, printed pp.18–21), and **conditionals II and III in a full table in Grade 12 Workbook 12 (Scientific Section)** (Unit 7, printed pp.52–58). **Mixed conditionals are never named anywhere in the Syria set.**

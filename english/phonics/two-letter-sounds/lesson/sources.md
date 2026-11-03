@@ -1,6 +1,6 @@
 # Sources for this lesson — Two-letter sounds
 
-countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
+countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The two-letter sets lived inside the alphabet
@@ -55,8 +55,17 @@ single letters.
 | **ai, ay, ew, oa** | South Africa — English Home Language, Grade 1 Workbook 2 (Rainbow Workbooks), printed pp.28–29 |
 | **ch/sh** and **wh/th** re-taught, including voiced and unvoiced **th**; **ee/ea** drilled and the **oa** family worked in the same book | South Africa — English First Additional Language, Grade 3 Workbook 1 (Rainbow Workbooks), printed pp.4–5 (ch/sh and wh/th) |
 | **ch, sh, th** drilled with **oo/ee** | South Africa — English First Additional Language, Grade 2 Workbook 2 (Rainbow Workbooks) |
+| **oo** (zoo, broom) — the first spelling pattern of Grade 3, one pattern per unit | Syria — Emar Syrian Series Pupil's Book 3, Unit 1, printed pp.3–5 |
+| **ou** (house, mouse) | Syria — Emar Syrian Series Pupil's Book 3, Unit 2, printed pp.6–8 |
+| **ea** (meat, eat) | Syria — Emar Syrian Series Pupil's Book 3, Unit 3, printed pp.9–11 |
+| **oa** (coat, goat) | Syria — Emar Syrian Series Pupil's Book 3, Unit 4, printed pp.12–14 |
+| **ng** (sing, king) | Syria — Emar Syrian Series Pupil's Book 3, Unit 11, printed pp.33–35 |
+| **ck** (snack, black) | Syria — Emar Syrian Series Pupil's Book 3, Unit 13, printed pp.39–41 |
+| **ch** (chair, chicken) | Syria — Emar Syrian Series Pupil's Book 3, Unit 16, printed pp.48–50 |
+| **sh** (ship, mushroom) | Syria — Emar Syrian Series Pupil's Book 3, Unit 17, printed pp.51–53 |
+| The first four patterns sorted and written again in the workbook's first revision — look, match, then write the **oo / ou / oa / ea** patterns | Syria — Emar English Series Workbook 3, Revision 1, printed pp.15–17 |
 
-**Acceptance count: taught in 13 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).**
+**Acceptance count: taught in 14 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria).**
 China adds the first r-controlled-vowel ladder taught as a named
 system (Grade 4 Volume 2), a run of one-pair-per-page Let's spell
 lessons across Grades 5–6 (ea/ee, ow/ou, oo, ch/sh, th, ng/nk,
@@ -91,6 +100,12 @@ Ethiopia joined 2026-11-03 for the th part only: its
 Grade 7 book teaches the two th sounds /θ/–/ð/ as a
 pronunciation strand, and no digraph ladder or other
 pair is claimed from Ethiopia.
+Syria joined 2026-11-03 with the strand as its Grade 3
+phonics spine: the Pupil's Book switches from single
+letters to spelling patterns, one pattern per unit —
+oo, ou, ea and oa first, then ng, ck, ch and sh among
+the later units — and the Workbook sorts the first four
+patterns again in Revision 1.
 Counts grow as other closed countries' books are read.
 
 **Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
@@ -451,3 +466,27 @@ pairs a level up: FAL Grade 3 Workbook 1 re-teaches ch/sh
 and wh/th, including voiced and unvoiced th (printed
 pp.4–5), and drills ee/ea and the oa family; FAL Grade 2
 Workbook 2 drills ch, sh and th with oo/ee.
+
+**Syria added 2026-11-03** — two books stock this lesson:
+**Book:** *Emar Syrian Series, Pupil's Book 3* — Syria,
+Ministry of Education. **Book:** *Emar English Series,
+Workbook 3* — Syria, Ministry of Education. Both filed in
+english/books/syria.md (Grade 3 — Emar Syrian Series
+Pupil's Book 3 (student's book); Grade 3 — Emar English
+Series Workbook 3 (activity book) sections, FULLY READ +
+CITATION CHECK PASSED 2026-11-03). Syria stocks this
+lesson in full, as the whole phonics spine of its third
+year: the Grade 3 design change recorded in the country
+file is the switch from single letters to spelling
+patterns, one pattern closing each unit — oo (Unit 1,
+printed pp.3–5 — zoo, broom), ou (Unit 2, printed
+pp.6–8 — house, mouse), ea (Unit 3, printed pp.9–11 —
+meat, eat) and oa (Unit 4, printed pp.12–14 — coat,
+goat), then ng (Unit 11, printed pp.33–35 — sing, king),
+ck (Unit 13, printed pp.39–41 — snack, black), ch (Unit
+16, printed pp.48–50 — chair, chicken) and sh (Unit 17,
+printed pp.51–53 — ship, mushroom). The Workbook's
+Revision 1 (printed pp.15–17) sorts and writes the
+oo/ou/oa/ea patterns again. (The same units' consonant
+blends — gr, sl, cr, br and the rest — are a different
+thing and live in phonics/blends.)

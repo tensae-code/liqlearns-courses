@@ -1,6 +1,6 @@
 # Sources for this lesson — Introducing a friend
 
-countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
+countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -36,12 +36,13 @@ disk 2026-10-25: %PDF, 190 pp).
 | Self- and family-introduction models at the end of Grade 1, among the greetings and parting dialogues | Ethiopia — English for Ethiopia, Grade 1 Student's Book, Unit 8 "Caring for Body Parts," printed pp.109–132 |
 | Introduction formulas modelled for the teacher at the start of Grade 5: "Let me introduce myself. My name's …", with the alternative introduction formulas written on the board | Ethiopia — English for Ethiopia, Grade 5 Teacher's Guide, Unit One "Holidays," printed p.2 |
 | The "This is my …" introduction frame taught with family, not a friend — mother, father, brother and sister introduced with "This is my mother." frames in Theme 3 (no friend-introduction instance appears in the 24 South Africa books — partial stock, recorded as such) | South Africa — English First Additional Language, Grade 1 Workbook 1 (Rainbow Workbooks), Theme 3, printed pp.14–15 |
+| Introducing the family person by person: "Who's he/she? He's/She's my …" over father, mother, brother, sister, grandfather and grandmother, with "This is my father" (Syria's filed books print no "This is my friend …" frame — its introduction work is this family form, recorded as printed) | Syria — Emar English Series Pupil's Book 1, Unit 8 "My Family", printed pp.24–26 ("This is my father" printed p.24) |
 
 The same dialog also carries the age exchange and the toy-fish
 talk — those parts are filed in their own places (age: english/age/
 how-old-are-you), not here.
 
-**Acceptance count: taught in 12 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).**
+**Acceptance count: taught in 13 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria).**
 Egypt carries introducing the family — "This is my father /
 mother / sister …" with the "Who's this?" exchange, and a year
 deeper the whole family lineup with my / his / her on family
@@ -82,6 +83,12 @@ mother" and "My father's name is …" in Unit 3, and closes
 the year with self- and family-introduction models in
 Unit 8; its Grade 5 Teacher's Guide models "Let me
 introduce myself. My name's …" for the teacher.
+Syria joined 2026-11-03 in the family form, like Egypt,
+Jordan, Kazakhstan and Iraq: its Grade 1 family unit
+introduces the family person by person — "Who's he/she?
+He's/She's my …", with "This is my father" — and no
+"This is my friend …" frame is printed in its filed
+read, and none is claimed.
 Counts grow as other closed countries' books are read.
 (Count corrected 2026-10-29 to match this file's own sections —
 the Egypt sections below were already in the file but missing
@@ -341,3 +348,24 @@ Egypt, Jordan, Kazakhstan and Iraq above. No
 friend-introduction instance appears in any of the 24
 South Africa books, stated plainly, and none is claimed
 here.
+
+**Syria added 2026-11-03** — one book stocks this lesson,
+in the family form: **Book:** *Emar English Series,
+Pupil's Book 1* — Syria, Ministry of Education. Filed in
+english/books/syria.md (Grade 1 — Emar English Series
+Pupil's Book 1 (student's book) section, FULLY READ +
+CITATION CHECK PASSED 2026-11-03). PARTIAL STOCK in
+form, recorded as such: Syria's introducing is the
+family presenting, in the same shape as Egypt's,
+Jordan's, Kazakhstan's and Iraq's rows in this file.
+Grade 1, Unit 8, "My Family" (printed pp.24–26), teaches
+father, mother, brother, sister, grandfather and
+grandmother with the exchange "Who's he/she? He's/She's
+my …" — "This is my father" is a citation anchor at
+printed p.24. The limit is recorded plainly: no "This
+is my friend …" frame and no nice-to-meet-you
+introduction exchange for a friend is printed anywhere
+in the filed Syria read, and none is claimed here;
+Syria's Grade 7 "Meeting Friends" unit is pen-friend
+choosing and writing about a friend, not an introduction
+frame, and is not counted here.

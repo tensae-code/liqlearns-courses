@@ -1,6 +1,6 @@
 # Sources — The essay
 
-countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
+countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
 
 Every part traces to its book and page.
 
@@ -138,6 +138,11 @@ PASSED 2026-11-03).
 **Book 29:** *English First Additional Language, Grade 5 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 30:** *English First Additional Language, Grade 6 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 31:** Emar English Series 12, Student's Book, Literary Section (student book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 12 — Emar English Series 12, Student's Book, Literary Section (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 32:** Emar English Series 12, Workbook, Scientific Section (workbook) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 12 — Emar English Series 12, Workbook, Scientific Section (workbook) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 33:** Emar English Series 7, Workbook (workbook) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 7 — Emar Workbook 7 (workbook) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 34:** Emar English Series 9, Student's Book (student book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 9 — Emar Student's Book 9 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The essay's definition — "an essay is a piece of writing that usually has five or more paragraphs, about one topic with several main points" — and the GENERAL ESSAY STRUCTURE table: Introduction ("it tells what your topic and main ideas are"); Topic 1/2/3 ("state your points/arguments, explore both sides of debate in a better answer"); Conclusion ("the same information as the introductory paragraph, written from a different perspective") | Bolivia compendium, the essay-structure grammar/writing section (as filed) |
@@ -184,8 +189,12 @@ PASSED 2026-11-03).
 | A persuasive argument built as an essay: two supporting arguments carried to a concluding recommendation | South Africa, English Home Language, Grade 6 Workbook 1 (Rainbow Workbooks), printed pp.48–49 |
 | A three-paragraph hobby essay as the book's final worksheet — the essay as the course's closing writing | South Africa, English First Additional Language, Grade 5 Workbook 2 (Rainbow Workbooks), final worksheet, as filed in its section in english/books/south-africa.md |
 | A descriptive essay written with the past progressive — the essay set as a named worksheet | South Africa, English First Additional Language, Grade 6 Workbook 2 (Rainbow Workbooks), worksheet 104, as filed in its section in english/books/south-africa.md |
+| The essay named and anatomised as a whole unit's reading: "What is an Essay" — Montaigne as founder, the academic essay's parts (introduction, body, conclusion), the essay types (interpretive, analytical, argumentative, comparative, problem-and-solution, cause-and-effect) and a three-stage method for writing one; then the pupil's own essay, written with a linking-words box, on whether money or friendship matters more | Syria, Emar Student's Book 12, Literary Section, Unit 8 "Essays", pp.74–80 |
+| The essay built unit by unit under Writing Skill boxes: a personal-experience essay with a box on introduction/body/conclusion, an essay with a three-step Writing Skill guide, a descriptive-essay box, and a for/against essay on e-learning with a box on balanced argument structure | Syria, Emar Workbook 12, Scientific Section, Unit 1, pp.2–8; Unit 2, pp.9–15; Unit 3, pp.16–25; Unit 12, pp.90–97 |
+| The advantages-and-disadvantages essay as a secondary workbook's set writing | Syria, Emar Workbook 7, Unit 5 "Advanced Life", pp.20–23 |
+| Essays read as models in the student's book: an optimistic essay about life in the future, and an argument essay about autonomous vehicles | Syria, Emar Student's Book 9, Unit 3, pp.16–20; Unit 4, pp.21–23 |
 
-**Acceptance count: taught in 10 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).**
+**Acceptance count: taught in 11 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria).**
 Bolivia defines the essay and tables its general structure
 whole; Ghana grows the writing process to the essay's
 scale with the outline as its planning tool. Indonesia
@@ -229,9 +238,11 @@ essay as a named lesson, Grade 9 builds an internet
 essay from a diagram beside its printed sample essay
 and closes the unit with an opinion essay, and
 Grade 12 practises the narrative and argumentative
-essays through their jumbled paragraphs; South Africa builds the essay at primary scale — a planned four-paragraph essay about an animal at Grade 5 (Home Language Workbook 1, printed pp.32–33), a three-paragraph myth in Workbook 2 (printed pp.134–136), a persuasive argument with two supporting arguments and a concluding recommendation at Grade 6 (printed pp.48–49), a three-paragraph hobby essay closing its Grade 5 First Additional Language Workbook 2, and a descriptive essay with the past progressive in its Grade 6 First Additional Language Workbook 2 (worksheet 104).
+essays through their jumbled paragraphs; South Africa builds the essay at primary scale — a planned four-paragraph essay about an animal at Grade 5 (Home Language Workbook 1, printed pp.32–33), a three-paragraph myth in Workbook 2 (printed pp.134–136), a persuasive argument with two supporting arguments and a concluding recommendation at Grade 6 (printed pp.48–49), a three-paragraph hobby essay closing its Grade 5 First Additional Language Workbook 2, and a descriptive essay with the past progressive in its Grade 6 First Additional Language Workbook 2 (worksheet 104); Syria teaches the essay at the top of the school — its Grade 12 literary book names and anatomises the essay itself ("What is an Essay": introduction, body, conclusion, the essay types and a three-stage method) and sets the pupil's own essay under a linking-words box, its Grade 12 scientific workbook builds essays unit by unit with Writing Skill boxes (introduction/body/conclusion, a three-step guide, the descriptive essay, balanced argument for a for/against essay), its Grade 7 workbook sets an advantages-and-disadvantages essay, and its Grade 9 book reads optimistic and argument essays as models — all of it short, most tasks capped at 100–120 words.
 Other finished
 countries join as their books are read (see
 READING-QUEUE.md).
 
 **South Africa added 2026-11-03** — five books stock this lesson: *English Home Language, Grade 5 Workbook 1*, *English Home Language, Grade 5 Workbook 2*, *English Home Language, Grade 6 Workbook 1*, *English First Additional Language, Grade 5 Workbook 2* and *English First Additional Language, Grade 6 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. The Home Language Grade 5 Workbook 1 plans and writes a four-paragraph essay about an animal (printed pp.32–33); Workbook 2 writes a three-paragraph myth (printed pp.134–136); the Grade 6 Workbook 1 builds a persuasive argument with two supporting arguments and a concluding recommendation (printed pp.48–49); the First Additional Language Grade 5 Workbook 2's final worksheet is a three-paragraph hobby essay; and the First Additional Language Grade 6 Workbook 2 writes a descriptive essay with the past progressive (worksheet 104).
+
+**Syria added 2026-11-03** — four books stock this lesson: *Emar English Series 12, Student's Book, Literary Section*, *Emar English Series 12, Workbook, Scientific Section*, *Emar Workbook 7* and *Emar Student's Book 9* — Syria, Ministry of Education; full read in english/books/syria.md. The Grade 12 literary book's Unit 8 "Essays" reads "What is an Essay" — the academic essay's parts (introduction, body, conclusion), its types and a three-stage method — and sets the pupil's own essay under a linking-words box (pp.74–80); the Grade 12 scientific workbook builds a personal-experience essay under a Writing Skill box on introduction/body/conclusion (Unit 1, pp.2–8), an essay under a three-step Writing Skill guide (Unit 2, pp.9–15), a descriptive essay (Unit 3, pp.16–25) and a for/against essay under a balanced-argument box (Unit 12, pp.90–97); the Grade 7 workbook sets an advantages-and-disadvantages essay (Unit 5, pp.20–23); and the Grade 9 student's book reads an optimistic essay (Unit 3, pp.16–20) and an argument essay (Unit 4, pp.21–23) as models. Syria's essays are short — most tasks are capped at 100–120 words.

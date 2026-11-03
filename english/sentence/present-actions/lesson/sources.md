@@ -1,6 +1,6 @@
 # Sources — Present actions
 
-countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
+countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
 
 Every part traces to its book and page.
 
@@ -107,6 +107,11 @@ CITATION CHECK PASSED 2026-11-03).
 
 **Book 30:** *English Home Language, Grade 2 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+
+**Book 31:** Emar Syrian Series Pupil's Book 2 (student's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 2 — Emar Syrian Series Pupil's Book 2 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 32:** Emar Syrian Series Pupil's Book 3 (student's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 3 — Emar Syrian Series Pupil's Book 3 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 33:** English Pupil's Book 6 (pupil's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 6 — English, Pupil's Book 6 (pupil's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Daily Routines lesson: the routine set with photo sentences at clock times, and the full Present Simple routines box with its spelling work | Egypt, Primary 3 Term 1, Daily Routines lesson (L4), pp.19–26 (the box, p.23) |
@@ -154,9 +159,13 @@ CITATION CHECK PASSED 2026-11-03).
 | Present and past continuous revised together | South Africa — English Home Language, Grade 6 Workbook 1 (Rainbow Workbooks), printed pp.98–99 |
 | The present simple running through the set from the start — the Grade 2 book opens with am/is/are gap-fills | South Africa — English Home Language, Grade 2 Workbook 1 (Rainbow Workbooks), printed p.4 |
 
-**Acceptance count: taught in 15 countries (Egypt, Ghana,
+| The present continuous introduced through housework and at the beach — "What are you doing? I am cleaning my toys," with yes/no continuous questions — beside days-of-the-week present-simple routines and third-person -s routines | Syria, Emar Pupil's Book 2, Unit 12, printed pp.38–40; Unit 13, printed pp.41–43; Unit 16, printed pp.51–53; Unit 19, printed pp.60–62 |
+| The two faces set against each other as the course's tense contrast — usually + present simple against now + present continuous | Syria, Emar Pupil's Book 3, Unit 12 "A Different Day," printed pp.36–38 |
+| Present simple for facts against present continuous, stated as the TV unit's contrast, inside a run that teaches each face in its own unit first | Syria, English Pupil's Book 6, Unit 3, printed pp.16–19; Unit 4, printed pp.20–23; Unit 5, printed pp.24–27 |
+
+**Acceptance count: taught in 16 countries (Egypt, Ghana,
 Libya, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).** Egypt boxes the every-day face inside
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria).** Egypt boxes the every-day face inside
 routines; Mongolia tables the right-now face and its
 questions; Libya's reference names both faces' uses and
 posts the refusal list; Ghana names the simple present's
@@ -170,7 +179,7 @@ lesson pair in JSS 1 and rebuilds both for the senior
 exam in SSS 1; Jordan works
 the every-day face over routines and the third-person
 -s in Grade 3, sets the two faces against each other
-in Grade 6, and re-teaches both in Grade 8. Greece builds both faces across primary — routines and frequency in Grade 4, the full simple paradigm and the simple/continuous contrast in Grade 5, and both boxes restated in Grade 6. Kazakhstan teaches both faces whole at Grade 5 in two series at once — the simple in full, the continuous in full, and the two contrasted — and sets them against each other again, stative verbs noted, in Grade 6's Full Blast!. Iraq carries the continuous in two whole printed emails in Grade 3, teaches it for actions now in Grade 4, sets the simple against the continuous as a choice in Grade 6, and re-tables both in Grade 10. Ethiopia teaches the present continuous from Grade 3 with its printed be + V-ing formula, defines it for things happening at the time of speaking in Grade 4, pairs it with the simple present in Grade 6, and revisits it including its future use in Grade 9. South Africa stocks both faces in full: the present continuous arrives at the very start, in Grade 1 FAL's "I am writing" classroom-action frame, is taught in sentences in Grade 5 HL, and is revised with the past continuous in Grade 6 HL, while the present simple runs through every book from Grade 2 HL's opening am/is/are gap-fills. Other closed countries join as their books are read
+in Grade 6, and re-teaches both in Grade 8. Greece builds both faces across primary — routines and frequency in Grade 4, the full simple paradigm and the simple/continuous contrast in Grade 5, and both boxes restated in Grade 6. Kazakhstan teaches both faces whole at Grade 5 in two series at once — the simple in full, the continuous in full, and the two contrasted — and sets them against each other again, stative verbs noted, in Grade 6's Full Blast!. Iraq carries the continuous in two whole printed emails in Grade 3, teaches it for actions now in Grade 4, sets the simple against the continuous as a choice in Grade 6, and re-tables both in Grade 10. Ethiopia teaches the present continuous from Grade 3 with its printed be + V-ing formula, defines it for things happening at the time of speaking in Grade 4, pairs it with the simple present in Grade 6, and revisits it including its future use in Grade 9. South Africa stocks both faces in full: the present continuous arrives at the very start, in Grade 1 FAL's "I am writing" classroom-action frame, is taught in sentences in Grade 5 HL, and is revised with the past continuous in Grade 6 HL, while the present simple runs through every book from Grade 2 HL's opening am/is/are gap-fills. Syria introduces the present continuous in Grade 2 beside present-simple routines, sets usually against now as an explicit tense contrast in Grade 3, and teaches the simple for facts, the continuous, and the two contrasted in Grade 6. Other closed countries join as their books are read
 (see READING-QUEUE.md).
 
 **Laos Grade 6 added 2026-10-27** — *English for Secondary
@@ -199,3 +208,5 @@ facts against actions now, changing trends and planned
 futures (Student's Book, Unit 1, printed pp.6–16).
 
 **South Africa added 2026-11-03** — *DBE Rainbow Workbooks* (Department of Basic Education, South Africa, Sixteenth edition 2026; full read in english/books/south-africa.md). South Africa brings the present continuous in at the very start — **classroom actions in the "I am writing" frame in Grade 1 FAL Workbook 1** (printed p.43) — teaches it in sentences in **Grade 5 HL Workbook 1** (printed p.111), and revises present and past continuous together in **Grade 6 HL Workbook 1** (printed pp.98–99); the present simple runs through every book, from **Grade 2 HL Workbook 1's opening am/is/are gap-fills** (printed p.4).
+
+**Syria added 2026-11-03** — *Emar series* (Syria, Ministry of Education; full read in english/books/syria.md). Syria stocks both faces: the **present continuous introduced in Grade 2** through housework and at the beach (Pupil's Book 2, Units 12–13, printed pp.38–43) beside **present-simple routines** (Units 16 and 19), the **usually + present simple against now + present continuous contrast in Grade 3** (Pupil's Book 3, Unit 12, printed pp.36–38), and **present simple for facts, the present continuous, and the two contrasted in Grade 6** (Pupil's Book 6, Units 3–5, printed pp.16–27).

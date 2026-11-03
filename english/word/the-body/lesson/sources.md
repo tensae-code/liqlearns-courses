@@ -1,6 +1,6 @@
 # Sources — The body
 
-countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
+countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
 
 Every part traces to its book and page.
 
@@ -85,6 +85,12 @@ english/books/jordan.md (Grade 2 Pupil's Book Semester 1 section, FULLY READ + C
 
 **Book 23:** *English First Additional Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 24:** Emar English Series, Pupil's Book 1 (student book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 1 — Emar English Series Pupil's Book 1 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 25:** Emar Syrian Series, Pupil's Book 3 (student's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 3 — Emar Syrian Series Pupil's Book 3 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 26:** Emar English Series 12, Workbook, Scientific Section (workbook) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 12 — Emar English Series 12, Workbook, Scientific Section (workbook) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The body unit set: head, hand, finger, leg, face, nose, mouth — taught by "Listen and touch" on the child's own body (numbers 7–10 traced alongside) | Palestine, Grade 1 Part 1, Unit 4 "My body," p.22 |
@@ -116,8 +122,12 @@ english/books/jordan.md (Grade 2 Pupil's Book Semester 1 section, FULLY READ + C
 | Body parts taught with the "Head, shoulders, knees and toes" song and face drawing | South Africa, English First Additional Language (FAL), Grade 1 Workbook 1 (Rainbow Workbooks), printed pp.4–7 |
 | Body parts labelled, with the body-action verbs that move them | South Africa, English First Additional Language (FAL), Grade 2 Workbook 2 (Rainbow Workbooks), printed pp.20–21 |
 
-**Acceptance count: taught in 14 countries (Egypt, Palestine,
-Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).**
+| The body unit set — hand, foot, eye, nose, mouth, ear — with "This is my…" and "Is it a / your…?"; a days-of-the-week song is printed inside this unit | Syria — Emar English Series, Pupil's Book 1, Unit 7 "My Body," pp.21–23 |
+| The five senses with their verbs — see / hear / smell / taste / touch — and sense verbs at work ("The cakes taste delicious," p.12) | Syria — Emar Syrian Series, Pupil's Book 3, Unit 4 "My Five Senses," pp.12–14 |
+| Body idioms as the human-body unit's vocabulary — follow your heart, a pain in the neck, cost an arm and a leg — inside a reading on how the immune system works; the scientific track's own unit, cited for itself only | Syria — Emar English Series 12, Workbook, Scientific Section, Unit 8 "Facts about Human Body," pp.59–64 |
+
+**Acceptance count: taught in 15 countries (Egypt, Palestine,
+Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria).**
 Palestine carries the core seven by touch;
 Egypt carries the parts at work in the five sense sentences,
 plus three more inside its letter pages; China carries the
@@ -126,7 +136,7 @@ body whole and in pieces, in pictures alone; Indonesia
 carries the parts inside the hygiene habits; Iran carries
 the parts named in injury talk and built into sentences;
 Sierra Leone carries the first-year naming lesson with its
-"Head and Shoulders" song. Jordan carries the eight-part set with has got description in Grade 1, and the widened set counted and moved by touch commands in Grade 2; Greece carries the body in pictures and songs in its two Workpacks — face pieces in Grade 1, the Pinocchio body and the counted monster features in Grade 2, with no printed body word list in either pack — and body parts as a vocabulary layer in its Grade 8 Beginners Workbook; Kazakhstan carries the face set taught by touch in Grade 1 Smiles, body parts with the actions that move them in its Grade 3 Express health module, and the body set with appearance description in Grade 5 Excel; Iraq carries the ten-part set with My … frames, monster descriptions and washing routines in Grade 1, and the body and head sets rebuilt with It has … counting in Grade 3; Ethiopia carries the twenty-part body set in Grade 1, with the "Head, shoulder, knees and toes" song (printed p.110) and the parts matched to their uses — eye to see, ear to hear, nose to smell, tongue to taste, finger to touch; South Africa carries the opening body set — head, ear, toe, thumb, hair — in Grade 1 HL, body parts with the "Head, shoulders, knees and toes" song in Grade 1 FAL, and labelled body parts with body-action verbs in Grade 2 FAL; Other finished
+"Head and Shoulders" song. Jordan carries the eight-part set with has got description in Grade 1, and the widened set counted and moved by touch commands in Grade 2; Greece carries the body in pictures and songs in its two Workpacks — face pieces in Grade 1, the Pinocchio body and the counted monster features in Grade 2, with no printed body word list in either pack — and body parts as a vocabulary layer in its Grade 8 Beginners Workbook; Kazakhstan carries the face set taught by touch in Grade 1 Smiles, body parts with the actions that move them in its Grade 3 Express health module, and the body set with appearance description in Grade 5 Excel; Iraq carries the ten-part set with My … frames, monster descriptions and washing routines in Grade 1, and the body and head sets rebuilt with It has … counting in Grade 3; Ethiopia carries the twenty-part body set in Grade 1, with the "Head, shoulder, knees and toes" song (printed p.110) and the parts matched to their uses — eye to see, ear to hear, nose to smell, tongue to taste, finger to touch; South Africa carries the opening body set — head, ear, toe, thumb, hair — in Grade 1 HL, body parts with the "Head, shoulders, knees and toes" song in Grade 1 FAL, and labelled body parts with body-action verbs in Grade 2 FAL; Syria carries the six-part body set in Grade 1, the five senses with their verbs in Grade 3, and body idioms inside its Grade 12 scientific Workbook's human-body unit; Other finished
 countries join as their books are read (see READING-QUEUE.md).
 
 **Laos Grade 5 added 2026-10-27** — *Student's Book 3, Grade 5*
@@ -139,3 +149,5 @@ the trouble set being a cold, a toothache, a headache, a
 stomachache (p.73).
 
 **South Africa added 2026-11-03** — South Africa opens its Grade 1 HL Workbook 1 with body parts — head, ear, toe, thumb, hair (printed p.4). Grade 1 FAL Workbook 1 teaches body parts with the "Head, shoulders, knees and toes" song and face drawing (printed pp.4–7), and Grade 2 FAL Workbook 2 labels body parts and works the body-action verbs beside them (printed pp.20–21).
+
+**Syria added 2026-11-03** — Syria opens the body in Grade 1 Pupil's Book 1 Unit 7 "My Body" (pp.21–23) — hand, foot, eye, nose, mouth, ear — and puts the parts to work through the senses in Grade 3 Unit 4 "My Five Senses" (pp.12–14). At the top of the course the Grade 12 Scientific Workbook's Unit 8, "Facts about Human Body" (pp.59–64), carries the body idioms — that workbook presupposes the unheld scientific Student's Book and is cited here only for its own unit.

@@ -1,6 +1,6 @@
 # Sources — Opening and closing
 
-countries: Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa
+countries: Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria
 
 Every part traces to its book and page.
 
@@ -54,6 +54,9 @@ PASSED 2026-11-03).
 **Book 10:** *English Home Language, Grade 6 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 11:** *English First Additional Language, Grade 6 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 12:** Emar English Series 12, Student's Book, Literary Section (student book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 12 — Emar English Series 12, Student's Book, Literary Section (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 13:** Emar English Series 12, Workbook, Scientific Section (workbook) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 12 — Emar English Series 12, Workbook, Scientific Section (workbook) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The introduction's duty — "it tells what your topic and main ideas are"; the conclusion's definition — "the same information as the introductory paragraph, written from a different perspective"; the closing's signal example as printed ("In conclusion, nobody is perfect") and its opening-motion counterpart ("First of all, …") | Bolivia compendium, the essay-structure section (as filed) |
@@ -72,8 +75,10 @@ PASSED 2026-11-03).
 | The two ends required under exam conditions: the Test yourself opinion essay (100–120 words) set with introduction, conclusion and linking words required | Iraq — English for Iraq, Grade 12 Activity Book, Unit 7, Lesson 9, printed pp.165–169 |
 | Introductions and conclusions taught by name over a story: the story "My money has disappeared!" used to teach introductions and conclusions by name | South Africa, English First Additional Language, Grade 6 Workbook 2 (Rainbow Workbooks), worksheet 100, Theme 7, printed pp.70–102 |
 | An argument's closing taught as its own move: the persuasive argument ends in a taught concluding recommendation | South Africa, English Home Language, Grade 6 Workbook 1 (Rainbow Workbooks), printed pp.48–49 |
+| The essay's two ends named inside the essay's own anatomy: introduction and conclusion named as two of the academic essay's three parts (introduction, body, conclusion) in the "What is an Essay" reading | Syria, Emar Student's Book 12, Literary Section, Unit 8 "Essays", pp.74–80 |
+| The two ends taught as a Writing Skill for the pupil's own essay: a Writing Skill box on introduction/body/conclusion carried in the personal-experience essay's writing work | Syria, Emar Workbook 12, Scientific Section, Unit 1, pp.2–8 |
 
-**Acceptance count: taught in 8 countries (Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa).**
+**Acceptance count: taught in 9 countries (Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria).**
 Bolivia's table defines both ends and dresses their joints;
 Ghana's first revise question sets the opening's law;
 China frames the formal letter — open with the matter,
@@ -93,8 +98,10 @@ opinions box — the introduction states the subject, the
 conclusion sums up — then builds them as named stages
 (an introduction stating the opinion and the plan, a
 conclusion) and requires introduction, conclusion and
-linking words in its test essay; South Africa stocks the ends in part — its Grade 6 First Additional Language Workbook 2 teaches introductions and conclusions by name over a story (worksheet 100, Theme 7), and its Grade 6 Home Language persuasive argument ends in a taught concluding recommendation (printed pp.48–49) — the named teaching is for story openings/closings plus an argument's conclusion, with no essay introduction/conclusion naming of the kind Greece's Αγγλικά 1 carries.
+linking words in its test essay; South Africa stocks the ends in part — its Grade 6 First Additional Language Workbook 2 teaches introductions and conclusions by name over a story (worksheet 100, Theme 7), and its Grade 6 Home Language persuasive argument ends in a taught concluding recommendation (printed pp.48–49) — the named teaching is for story openings/closings plus an argument's conclusion, with no essay introduction/conclusion naming of the kind Greece's Αγγλικά 1 carries; Syria stocks the ends in part — its Grade 12 literary book names introduction, body and conclusion as the academic essay's parts inside its "What is an Essay" reading, and its Grade 12 scientific workbook teaches the ends in a Writing Skill box on introduction/body/conclusion for the pupil's own personal-experience essay — but no read Syria book gives a fuller guide to introductory and concluding paragraphs, or states each end's duties, of the kind Greece's Αγγλικά 1 carries.
 Other closed countries join as their books are read (see
 READING-QUEUE.md).
 
 **South Africa added 2026-11-03** — PARTIAL stock, filed exactly as a partial: two books stock this lesson in part: *English Home Language, Grade 6 Workbook 1* and *English First Additional Language, Grade 6 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. The First Additional Language book's worksheet 100 uses a story, "My money has disappeared!", to teach introductions and conclusions by name (Theme 7, printed pp.70–102 — the worksheet and theme are cited, no single page is invented); the Home Language book's persuasive argument ends in a taught concluding recommendation (printed pp.48–49). Stated plainly: the named teaching is for story openings/closings plus an argument's conclusion — South Africa has no essay introduction/conclusion naming of the kind Greece's Αγγλικά 1 carries.
+
+**Syria added 2026-11-03** — PARTIAL stock, filed exactly as a partial: two books stock this lesson in part: *Emar English Series 12, Student's Book, Literary Section* and *Emar English Series 12, Workbook, Scientific Section* — Syria, Ministry of Education; full read in english/books/syria.md. The literary book's Unit 8 "Essays" names introduction, body and conclusion as the academic essay's parts in its "What is an Essay" reading (pp.74–80), and the scientific workbook's Unit 1 carries a Writing Skill box on introduction/body/conclusion in the pupil's own personal-experience essay work (pp.2–8). Stated plainly: Syria names the two ends and teaches them in a skill box, but no read Syria book gives the fuller guide to introductory and concluding paragraphs, or states each end's duties, of the kind Greece's Αγγλικά 1 carries — so Syria is filed as a partial against this lesson's bar.

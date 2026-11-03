@@ -1,6 +1,6 @@
 # Sources for this lesson — How are you?
 
-countries: Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
+countries: Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -31,8 +31,10 @@ Libya (Garnet) · Books verified on disk 2026-10-25.
 | The question itself inside a modelled letter — "How are you, my cousin?" (South Africa teaches no "How are you? — I'm fine" exchange pair in its 24 books — partial stock, recorded as such) | South Africa — English Home Language, Grade 3 Workbook 1 (Rainbow Workbooks), printed p.36 |
 | Feelings vocabulary for answers, taught early — happy/sad/angry/scared | South Africa — English Home Language, Grade 1 Workbook 1 (Rainbow Workbooks), printed p.83 |
 | Feelings words happy/sad in the Jabu story | South Africa — English First Additional Language, Grade 2 Workbook 1 (Rainbow Workbooks), printed pp.2–5 |
+| "How are you? — I'm fine, thank you" inside the first unit's greeting set, carried by the hello song — "Hello, hello, how are you?" | Syria — Emar English Series Pupil's Book 1, Unit 1 "Hello!", printed pp.3–5 ("Hello, hello, how are you?" printed p.4; "I'm fine, thank you" printed p.5) |
+| The question practised by listen-and-match among the greeting exchanges (Good morning / How are you? / What's your name? / Goodbye) | Syria — Emar English Series Workbook 1, Unit 1, printed pp.3–5 |
 
-**Acceptance count: taught in 11 countries (Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
+**Acceptance count: taught in 12 countries (Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 China joins with the exchange itself in its first primary book
 (Grade 3 Volume 1) and deepens it three years later into feelings
 talk — "How do you feel?", "What's wrong?" (Grade 6 Volume 1).
@@ -58,7 +60,10 @@ Grade 3 book re-opens on it. Ethiopia joined
 a Grade 4 dialogue chain of "How's everything? /
 What's up? / How are you holding up?" — and a Grade 1
 answer with its return question, "I'm good. What about
-you?" Nicaragua's filed
+you?" Syria joined 2026-11-03 with the exchange in its
+short classroom form inside its first unit — "How are
+you? — I'm fine, thank you" — the same words Jordan's
+and Libya's Grade 3 books use. Nicaragua's filed
 greeting material teaches hello, names and goodbye — not this
 question — so it is not counted here; Indonesia's filed books
 likewise teach no "How are you?" exchange (their feelings set in
@@ -238,3 +243,23 @@ angry/scared (printed p.83), and the FAL Grade 2 Workbook 1
 teaches the feelings words happy/sad in its Jabu story
 (printed pp.2–5). South Africa is counted for the question
 in use and the feelings answers only, exactly as filed.
+
+**Syria added 2026-11-03** — two books stock this lesson:
+**Book:** *Emar English Series, Pupil's Book 1* — Syria,
+Ministry of Education. **Book:** *Emar English Series,
+Workbook 1* — Syria, Ministry of Education. Both filed in
+english/books/syria.md (Grade 1 — Emar English Series
+Pupil's Book 1 (student's book); Grade 1 — Emar English
+Series Workbook 1 (activity book) sections, FULLY READ +
+CITATION CHECK PASSED 2026-11-03). Syria teaches the
+question inside its first greeting unit, in the short
+classroom form: Grade 1, Unit 1, "Hello!" (printed
+pp.3–5) sets "How are you? — I'm fine, thank you" among
+its greeting formulas, and the unit's hello song carries
+it — "Hello, hello, how are you?" (printed p.4) — with
+the answer "I'm fine, thank you" (printed p.5). The
+Workbook's Unit 1 (printed pp.3–5) practises the
+question by listen-and-match among the greeting
+exchanges. No wider answer set — no "very well" or "not
+very well" — is recorded for Syria, and none is claimed
+here.

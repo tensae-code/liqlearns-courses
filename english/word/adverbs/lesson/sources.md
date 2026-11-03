@@ -1,6 +1,6 @@
 # Sources — Adverbs
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
 
 Every part traces to its book and page.
 
@@ -105,6 +105,12 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 
 **Book 30:** *English Home Language, Grade 6 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 31:** Emar Syrian Series, Pupil's Book 3 (student's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 3 — Emar Syrian Series Pupil's Book 3 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 32:** Emar English Series, Pupil's Book 4 (pupil's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 4 — Emar English Series, Pupil's Book 4 (pupil's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 33:** English, Pupil's Book 5, NCCD edition 2021-2022 (pupil's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 5 — English, Pupil's Book 5, NCCD edition 2021-2022 (pupil's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition in one line: "Adverbs say how an action is done. The adverb usually comes after the verb." — plus underlining the adverbs in a dialogue (regularly, carefully…) | Bangladesh, English for Today Class 5, LANGUAGE FOCUS: ADVERBS box, p.27 |
@@ -144,8 +150,12 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Adverbs classified as manner, place and time | South Africa, English Home Language (HL), Grade 5 Workbook 2 (Rainbow Workbooks), printed pp.29, 66 |
 | Adverbs sorted into manner, place, time and frequency — the four kinds together | South Africa, English Home Language (HL), Grade 6 Workbook 2 (Rainbow Workbooks), printed p.66 |
 
-**Acceptance count: taught in 14 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).**
+| Adverbs of frequency with the present simple, including third-person forms — the full scale always / usually / often / sometimes / never ("He never eats in the class," p.20) | Syria — Emar Syrian Series, Pupil's Book 3, Unit 6 "My Daily Routine," pp.18–20 |
+| Adverbs of frequency again a year up, inside the hobbies unit ("I swim once a week," p.25) | Syria — Emar English Series, Pupil's Book 4, Unit 7 "Hobbies and Interests," pp.24–26 |
+| Adverbs of manner as a named grammar point, inside the sports-equipment unit, beside possessive pronouns | Syria — English, Pupil's Book 5 (NCCD), Unit 15 "Sports Equipment," pp.54–56 |
+
+**Acceptance count: taught in 15 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria).**
 Bangladesh carries the definition and the mime
 game; Egypt carries the making rule (-ly, y → i) and the
 frequency ladder; Libya carries the adjective-to-adverb move
@@ -157,8 +167,10 @@ manner set with its non--ly rebels; Iran carries the adverb
 as a named word kind — manner, the -ly making, the irregulars
 — and a second printed frequency ladder; Sierra Leone carries
 the adjective-to-adverb change as two lessons of its own and
-the function stated plainly. Jordan carries the frequency set twice — Grade 4 with its once/twice/three-times phrases, Grade 8 with ordering work in the Workbook — and the manner set with well among the -ly words; Greece carries the frequency set twice — the five-word set in Grade 4, and the printed percentage ladder with sentence position in Grade 5 — and comparison of adverbs in Grade 6; Kazakhstan carries the frequency words on daily routines and manner adverbs a term later in its Grade 4 Express book, frequency, degree and manner named together in Grade 5 Excel, and adverbs of time, frequency and manner as a named set in Grade 4 Smiles; Iraq carries both kinds in one intermediate book — the frequency set with its position rule in Grade 7 book's Unit 1, and the manner box with the -ly making, y → i and the irregulars fast and well in Unit 3 — with -ly adverbs hunted in a story in Grade 4; Ethiopia carries kinds of adverbs and degrees of adverbs in Grade 6, adverbs of frequency in Grade 9 (taught, then recapped a unit later), adverbs of time and frequency and adverbs of manner in Grade 10, and adverbs and their categories in Grade 11; South Africa carries adverbs answering how/when/where in Grade 3 HL, manner, degree and place with the adjective/adverb contrast in Grade 4 HL, the manner/place/time classification in Grade 5 HL, and the four-kind sort — manner, place, time, frequency — in Grade 6 HL; Other
+the function stated plainly. Jordan carries the frequency set twice — Grade 4 with its once/twice/three-times phrases, Grade 8 with ordering work in the Workbook — and the manner set with well among the -ly words; Greece carries the frequency set twice — the five-word set in Grade 4, and the printed percentage ladder with sentence position in Grade 5 — and comparison of adverbs in Grade 6; Kazakhstan carries the frequency words on daily routines and manner adverbs a term later in its Grade 4 Express book, frequency, degree and manner named together in Grade 5 Excel, and adverbs of time, frequency and manner as a named set in Grade 4 Smiles; Iraq carries both kinds in one intermediate book — the frequency set with its position rule in Grade 7 book's Unit 1, and the manner box with the -ly making, y → i and the irregulars fast and well in Unit 3 — with -ly adverbs hunted in a story in Grade 4; Ethiopia carries kinds of adverbs and degrees of adverbs in Grade 6, adverbs of frequency in Grade 9 (taught, then recapped a unit later), adverbs of time and frequency and adverbs of manner in Grade 10, and adverbs and their categories in Grade 11; South Africa carries adverbs answering how/when/where in Grade 3 HL, manner, degree and place with the adjective/adverb contrast in Grade 4 HL, the manner/place/time classification in Grade 5 HL, and the four-kind sort — manner, place, time, frequency — in Grade 6 HL; Syria carries the frequency scale in full — always / usually / often / sometimes / never — inside Grade 3 routines, the frequency words again in Grade 4, and adverbs of manner as a named point in Grade 5; Other
 closed countries join as their books are read (see
 READING-QUEUE.md).
 
 **South Africa added 2026-11-03** — South Africa builds the adverb kinds year by year in the HL strand. Grade 3 Workbook 2 teaches adverbs answering how, when and where (printed pp.27, 29). Grade 4 Workbook 2 names adverbs of manner (printed pp.7, 11), degree (printed p.97) and place (printed p.98), and sets adjective against adverb (printed p.110). Grade 5 Workbook 2 classifies adverbs of manner, place and time (printed pp.29, 66), and Grade 6 Workbook 2 sorts adverbs into manner, place, time and frequency together (printed p.66).
+
+**Syria added 2026-11-03** — Syria teaches the frequency adverbs as a scale in Grade 3 Pupil's Book 3, Unit 6 "My Daily Routine" (pp.18–20), third-person forms included, carries them into Grade 4's hobbies unit (pp.24–26), and names adverbs of manner in Grade 5 Pupil's Book 5, Unit 15 "Sports Equipment" (pp.54–56). Syria prints no percentage ladder for the frequency scale, as Egypt and Iran do — the scale is taught in sentences, not as a chart.

@@ -1,6 +1,6 @@
 # Sources — Answering from the text
 
-countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
+countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
 
 Every part traces to its book and page.
 
@@ -111,6 +111,10 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 26:** *English First Additional Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 27:** *English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 28:** Emar English Series Pupil's Book 1 (pupil's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 1 — Emar English Series Pupil's Book 1 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 29:** Emar Syrian Series Pupil's Book 3 (pupil's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 3 — Emar Syrian Series Pupil's Book 3 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 30:** Emar English Series 12, Workbook, Scientific Section (workbook) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 12 — Emar English Series 12, Workbook, Scientific Section (workbook) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "'Think as you read' questions sit inside the text at each break to check factual comprehension as the learner goes" — answering from the carrier while reading | India, Flamingo, About the Book apparatus (as filed; Hornbill's apparatus is twin) |
@@ -147,9 +151,12 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 | Comprehension answered in writing from the passage as the book's standing routine: answers are written in full sentences from the passage, under the standing instruction that answers start with a capital letter and end with a full stop | South Africa, English Home Language, Grade 3 Workbook 1 (Rainbow Workbooks), as filed in its section in english/books/south-africa.md |
 | Seven written comprehension questions answered from a health article — the answers carried by the article itself | South Africa, English First Additional Language, Grade 3 Workbook 1 (Rainbow Workbooks), printed pp.22–23 |
 | Comprehension answered from a story, then the story carried down in writing: a 40–50-word summary of the story | South Africa, English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks), Theme 1, as filed in its section in english/books/south-africa.md |
+| A story answered from itself at the first book: the Bumbo picture story closes with a listen-and-tick/cross check on what the story told | Syria, Emar Pupil's Book 1, Stories, pp.83–88 (the check on p.88) |
+| Readings answered in graded shapes at Grade 3: the Yamato reading answered by multiple-choice questions; the dinosaurs reading answered by tick/cross | Syria, Emar Pupil's Book 3, Revision 3, p.47 (unit pp.45–47); Revision 5, pp.75–77 |
+| A third answer shape beyond true and false, at the top of the school: the diary of Diana, a student from Aleppo in Montreal, answered True / False / Not Given — the not-given answer must honestly not be in the text | Syria, Emar Workbook 12, Scientific Section, Unit 10 "Culture Shock", pp.74–81 |
 
-**Acceptance count: taught in 13 countries (Egypt, Ghana,
-India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).** India builds the carrier hunt into the page and
+**Acceptance count: taught in 14 countries (Egypt, Ghana,
+India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria).** India builds the carrier hunt into the page and
 prints the question-kind border; Ghana demands textual
 evidence under personal responses; Egypt examines by the
 unseen passage; China grades the answering shapes themselves
@@ -188,8 +195,10 @@ reading work runs on direct / inferential / referential
 question triads over every text (the answer stated, the
 answer deduced, the reference resolved), but no read
 Ethiopia book names the honest "the text doesn't say"
-answer, so that part rests on the other countries; South Africa answers in writing from the text through the whole set — its Grade 3 Home Language book's standing instruction is that answers are written in full sentences from the passage, its Grade 3 First Additional Language book answers seven written comprehension questions on a health article (printed pp.22–23), and its Grade 4 Home Language book answers comprehension and writes a 40–50-word summary of a story (Theme 1) — plainly literal-level comprehension, inference appearing only as occasional "Why do you think…?" questions.
+answer, so that part rests on the other countries; South Africa answers in writing from the text through the whole set — its Grade 3 Home Language book's standing instruction is that answers are written in full sentences from the passage, its Grade 3 First Additional Language book answers seven written comprehension questions on a health article (printed pp.22–23), and its Grade 4 Home Language book answers comprehension and writes a 40–50-word summary of a story (Theme 1) — plainly literal-level comprehension, inference appearing only as occasional "Why do you think…?" questions; Syria answers from the text through the whole course as its standing comprehension work — its Grade 1 stories close with a tick/cross check, its Grade 3 readings are answered by multiple choice and tick/cross, and its Grade 12 scientific workbook answers a diary text True / False / Not Given, the third answer shape printed at the top of the school — with no named scanning or line-reference strategy lesson, so that naming rests on the other countries.
 Other closed countries join as their
 books are read (see READING-QUEUE.md).
 
 **South Africa added 2026-11-03** — three books stock this lesson: *English Home Language, Grade 3 Workbook 1*, *English First Additional Language, Grade 3 Workbook 1* and *English Home Language, Grade 4 Workbook 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. Comprehension questions answered in writing from the text run through the whole set: the Grade 3 Home Language book's standing instruction is that answers are written in full sentences from the passage; the Grade 3 First Additional Language book answers seven written comprehension questions on a health article (printed pp.22–23); and the Grade 4 Home Language book answers comprehension and writes a 40–50-word summary of a story (Theme 1). South Africa's comprehension is literal-level — inference appears only as occasional "Why do you think…?" questions.
+
+**Syria added 2026-11-03** — three books stock this lesson: *Emar Pupil's Book 1*, *Emar Pupil's Book 3* and *Emar English Series 12, Workbook, Scientific Section* — Syria, Ministry of Education; full read in english/books/syria.md. Answering from the text is the course's standing comprehension work: the Grade 1 Bumbo story closes with a listen-and-tick/cross check (Stories, pp.83–88, the check on p.88); Grade 3 answers its Yamato reading by multiple-choice questions (p.47) and its dinosaurs reading by tick/cross (pp.75–77); and the Grade 12 workbook answers the diary of Diana in Montreal True / False / Not Given (Unit 10, pp.74–81). Stated plainly: Syria practises the answering shapes throughout, including the honest not-given shape, but no read Syria book names a scanning or line-reference answering strategy.

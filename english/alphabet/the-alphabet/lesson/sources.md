@@ -1,6 +1,6 @@
 # Sources — The alphabet
 
-countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
+countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
 
 Every part traces to its book and page. The PDF of Libya's Pupils Book
 is one book page per PDF page, with the book page printed at the
@@ -102,6 +102,10 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 18:** *English First Additional Language, Grade 1 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026.
 
 **Book 19:** *English First Additional Language, Grade 1 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. (Cited in this file for the honest negative only: it has no letter–sound sequence at all — see the South Africa section at the end of this file.)
+
+**Book 20:** Emar English Series, Pupil's Book 1 (student book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 1 — Emar English Series Pupil's Book 1 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 21:** Emar English Series, Workbook 1 (workbook) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 1 — Emar English Series Workbook 1 (activity book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -298,8 +302,12 @@ sound is learned.
 | The alphabet teaching planned lesson by lesson — small then capital letters, the sounds /a/ /b/ /m/ /f/ /s/, in the guide's Unit 1 | Ethiopia — English for Ethiopia, Grade 1 Teacher's Guide, Unit 1, printed pp.5–46 |
 | All 26 letters taught with letter formation, one letter per worksheet, in the order s a t p i n m d o g \| c k e u r b f l h j v w y z q x, plus a picture dictionary of first sounds and the blank "My dictionary" alphabet pages | South Africa — English Home Language, Grade 1 Workbook 1 (Rainbow Workbooks), printed pp.26–126; picture dictionary and "My dictionary" pages, printed pp.130–131 |
 | The letters taught as sounds in their own order (s a t p i n b m g o e h f u r k d j l x y z c w), with letter formation in every worksheet, and the whole alphabet practised in the library worksheet | South Africa — English First Additional Language, Grade 1 Workbook 2 (Rainbow Workbooks), library worksheet, printed p.69 |
+| The letters taught one or two per unit across the whole first year, each with its example word — L (lemon) · O (orange) · T (tree) · C (carrot) · A (ant) · D (doll) · F (fish) · P (pen) and H (hen) · I (insect) and K (kangaroo) · N (nest) and G (goat) · B (basket) and S (strawberry) · M (moon) and J (jar) · R (ring) and V (van) · E (egg) and Q (queen) · Z (zoo) · W (water) and X (fox) · U (umbrella) and Y (yo-yo) | Syria — Emar English Series Pupil's Book 1, Units 3–24, printed pp.9–77 |
+| The whole alphabet sung whole in order at the year's end — an alphabet caterpillar song recapping all letters a–z in order | Syria — Emar English Series Pupil's Book 1, Unit 24, printed pp.75–77 |
+| The alphabet as a picture dictionary at the back — two alphabetical picture-word spreads (ant–juice, jam–zoo) recapping the book's vocabulary | Syria — Emar English Series Pupil's Book 1, Picture dictionary, printed pp.95–96 |
+| Every letter traced and copied for the hand — a trace/copy letter exercise closing almost every unit, then Handwriting Practice trace-then-copy pages reviewing every letter taught, and a colour-the-alphabet page | Syria — Emar English Series Workbook 1, Handwriting Practice, printed pp.83–90 |
 
-**Acceptance count: taught in 13 countries (Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).**
+**Acceptance count: taught in 14 countries (Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria).**
 China joins through its Grade 3 Volume 1: the ABC song is placed
 before any letter teaching (Unit 1, p.6), and Recycle 2 adds a
 missing-letter sequence exercise (p.69) — the alphabet as a sung
@@ -326,7 +334,7 @@ Egypt joins for the sounds-way grouping. Greece joined
 2026-11-03: its Grade 2 Workpack carries the whole alphabet
 as a card-and-tracing-worksheet strand — all 26 letters, one
 key word and a rhyme per letter, in thematic order, with a
-song for every letter. Kazakhstan joined 2026-11-03: three of its Grade 3 books teach the alphabet — the Express book in three letter groups (a–h, i–q, r–z) with an Alphabet poster at the back, Top Stars in its opening Alphabet lesson, and the Macmillan book on a "Learn the alphabet" page with the alphabet song; its Grade 1 Smiles book teaches no alphabet at all, and that limit is recorded in the country file. Iraq joined 2026-11-03: its Grade 1 Pupil and Activity Book shows the whole alphabet first in a picture spread (printed pp.4–5), teaches the letters in groups across Units 1–4 with example words and tracing, and closes the pupil half with the alphabet as a picture dictionary (printed pp.86–88). Ethiopia joined 2026-11-03: its Grade 1 Student's Book is the alphabet book — small and capital alphabet charts and two alphabet songs with letter-by-letter teaching in Unit 1 (printed pp.1–26), the remaining letters completed in Unit 8 (printed pp.109–132), and its Grade 1 Teacher's Guide plans the same alphabet teaching in Unit 1 (printed pp.5–46). Other closed countries join
+song for every letter. Kazakhstan joined 2026-11-03: three of its Grade 3 books teach the alphabet — the Express book in three letter groups (a–h, i–q, r–z) with an Alphabet poster at the back, Top Stars in its opening Alphabet lesson, and the Macmillan book on a "Learn the alphabet" page with the alphabet song; its Grade 1 Smiles book teaches no alphabet at all, and that limit is recorded in the country file. Iraq joined 2026-11-03: its Grade 1 Pupil and Activity Book shows the whole alphabet first in a picture spread (printed pp.4–5), teaches the letters in groups across Units 1–4 with example words and tracing, and closes the pupil half with the alphabet as a picture dictionary (printed pp.86–88). Ethiopia joined 2026-11-03: its Grade 1 Student's Book is the alphabet book — small and capital alphabet charts and two alphabet songs with letter-by-letter teaching in Unit 1 (printed pp.1–26), the remaining letters completed in Unit 8 (printed pp.109–132), and its Grade 1 Teacher's Guide plans the same alphabet teaching in Unit 1 (printed pp.5–46). Syria joined 2026-11-03: its Grade 1 Pupil's Book teaches the letters one or two per unit across the year, each with its example word, closes the year with an alphabet caterpillar song recapping all letters a–z in order (Unit 24, printed pp.75–77), and backs the book with a two-spread alphabetical picture dictionary (printed pp.95–96), while its Grade 1 Workbook traces and copies every letter and reviews them all in its Handwriting Practice (printed pp.83–90). Other closed countries join
 as their first English books are read (see READING-QUEUE.md).
 
 **Laos Grade 3 added 2026-10-27** — *English for Primary Schools,
@@ -503,3 +511,28 @@ has NO letter–sound sequence at all — its phonics arrives
 only in Workbook 2 — so FAL's alphabet stock here is
 Workbook 2's, and Workbook 1 is cited for that negative
 only.
+
+**Syria added 2026-11-03** — two books stock this lesson:
+**Book:** *Emar English Series, Pupil's Book 1* — Syria,
+Ministry of Education. **Book:** *Emar English Series,
+Workbook 1* — Syria, Ministry of Education. Both filed in
+english/books/syria.md (Grade 1 — Emar English Series
+Pupil's Book 1 (student's book); Grade 1 — Emar English
+Series Workbook 1 (activity book) sections, FULLY READ +
+CITATION CHECK PASSED 2026-11-03). Syria is the
+one-or-two-letters-per-unit case: the Grade 1 Pupil's Book
+never presents the alphabet as one opening strip — the
+letters arrive inside the units, one or two at a time with
+an example word each (L lemon, O orange, T tree, C carrot,
+A ant, D doll, on through Z zoo, W water and X fox, U
+umbrella and Y yo-yo; Units 3–24, printed pp.9–77) — and
+the whole alphabet is sung whole only at the year's end,
+in Unit 24's alphabet caterpillar song recapping all
+letters a–z in order (printed pp.75–77), with a
+two-spread alphabetical picture dictionary (ant–juice,
+jam–zoo) closing the book (printed pp.95–96). The
+Workbook carries the hand work: a trace-and-copy letter
+exercise closes almost every unit, and its Handwriting
+Practice reviews every letter taught in trace-then-copy
+pages and a colour-the-alphabet page (printed
+pp.83–90).

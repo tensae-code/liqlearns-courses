@@ -1,6 +1,6 @@
 # Sources — Days and months
 
-countries: Bangladesh, Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
+countries: Bangladesh, Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
 
 Every part traces to its book and page.
 
@@ -91,6 +91,12 @@ english/books/jordan.md (Grade 6 Activity Book Semester 2 section, FULLY READ + 
 
 **Book 26:** *English First Additional Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 27:** Emar Syrian Series, Pupil's Book 2 (student book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 2 — Emar Syrian Series Pupil's Book 2 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 28:** Emar Syrian Series, Pupil's Book 3 (student's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 3 — Emar Syrian Series Pupil's Book 3 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 29:** English, Pupil's Book 6 (pupil's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 6 — English, Pupil's Book 6 (pupil's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "How many days are there in a week?" — "There are 7 days in a week"; the seven days listened and repeated Saturday-first (Egypt's school week); the list teaching after/before with arrows | Egypt, Primary 1 Term 2, Unit 1 "My Week," Lesson 1 "Days of the Week," p.6 |
@@ -133,8 +139,12 @@ english/books/jordan.md (Grade 6 Activity Book Semester 2 section, FULLY READ + 
 | The months taught with a birthday calendar in the FAL strand | South Africa, English First Additional Language (FAL), Grade 2 Workbook 1 (Rainbow Workbooks), printed pp.68–69 |
 | The months worked on a calendar | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), printed pp.62–63 |
 
-**Acceptance count: taught in 13 countries (Bangladesh,
-Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).** Egypt
+| The seven days with simple-present routines — "I go shopping on Monday", "We visit our grandparents on Saturday", "What do you do on Tuesday?" — and a days song | Syria — Emar Syrian Series, Pupil's Book 2, Unit 16 "Daily Routine," pp.51–53 |
+| Months and seasons together, with weather — "It's often cold and rainy [in January]", "It's always hot in July" (p.42) — and "Why do you like it? — I like it because…" | Syria — Emar Syrian Series, Pupil's Book 3, Unit 14 "Months and Seasons," pp.42–44 |
+| Dates as a taught system a level up: cardinal and ordinal numbers with dates in the maths unit, and written against spoken dates in the holidays unit | Syria — English, Pupil's Book 6, Unit 17 "Maths," pp.84–87; Unit 19 "Holidays," pp.92–95 |
+
+**Acceptance count: taught in 14 countries (Bangladesh,
+Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria).** Egypt
 carries the days first (its school-week
 order, Saturday-first); Bangladesh carries the days on a
 Sunday-first calendar, the months with their ordinal numbers,
@@ -150,7 +160,7 @@ working in Persian-calendar months; Sierra Leone carries the
 days only, named from word cards and ordered in a story. The
 books start the printed week on different days — the lesson
 shows each, per the standing rule for when books differ.
-Jordan carries the days listened to and circled in its first Learning Club, the days with the week's activities and the months by seasons in Grade 3, and the thirty-days rhyme completed with month names in Grade 6; Greece carries both halves in full — the seven days acted by snowmen and traced as cut-out cards in Grade 2, all twelve months grouped by their seasons in the same pack, then the days on a Grade 4 school timetable and the months inside its Grade 4 time unit; Kazakhstan carries the days inside its Grade 3 Smiles Time module and all twelve months in the same book's Glossary, days and months-and-seasons in Grade 5 English Plus, and the months with ordinals 1st–100th in Grade 4 Top Stars; Iraq carries both halves in full — the seven days Sunday-first with their song in Grade 2, the months in a rhyme with birthdays in Grade 4, and the months whole again in Grade 7 book with the thirty-days rhyme, the full ordinals and written dates — so its week joins the Sunday-first books; Ethiopia carries both halves, with its own week order — the days Monday–Sunday taught as starting on Monday, with the "A week has seven days" song (printed p.31) — and the months as the Ethiopian calendar's 13 months mapped onto the Gregorian month names and seasons in Grade 3, with the "Thirty days have September…" rhyme (printed p.27); South Africa carries both halves in full — the days in Grade 1 HL Workbook 2, Grade 1 FAL and on a Grade 2 FAL calendar, and the months with birthday calendars in Grade 1 HL Workbook 2 and Grade 2 FAL, and on a Grade 3 FAL calendar; Other closed countries join as their books are read (see
+Jordan carries the days listened to and circled in its first Learning Club, the days with the week's activities and the months by seasons in Grade 3, and the thirty-days rhyme completed with month names in Grade 6; Greece carries both halves in full — the seven days acted by snowmen and traced as cut-out cards in Grade 2, all twelve months grouped by their seasons in the same pack, then the days on a Grade 4 school timetable and the months inside its Grade 4 time unit; Kazakhstan carries the days inside its Grade 3 Smiles Time module and all twelve months in the same book's Glossary, days and months-and-seasons in Grade 5 English Plus, and the months with ordinals 1st–100th in Grade 4 Top Stars; Iraq carries both halves in full — the seven days Sunday-first with their song in Grade 2, the months in a rhyme with birthdays in Grade 4, and the months whole again in Grade 7 book with the thirty-days rhyme, the full ordinals and written dates — so its week joins the Sunday-first books; Ethiopia carries both halves, with its own week order — the days Monday–Sunday taught as starting on Monday, with the "A week has seven days" song (printed p.31) — and the months as the Ethiopian calendar's 13 months mapped onto the Gregorian month names and seasons in Grade 3, with the "Thirty days have September…" rhyme (printed p.27); South Africa carries both halves in full — the days in Grade 1 HL Workbook 2, Grade 1 FAL and on a Grade 2 FAL calendar, and the months with birthday calendars in Grade 1 HL Workbook 2 and Grade 2 FAL, and on a Grade 3 FAL calendar; Syria carries both halves — the days with routines and a days song in Grade 2, the months with seasons and weather in Grade 3, and dates with ordinals in Grade 6; Syria's books do not state which day its school week starts on in the units filed, and no week-start order is claimed for it here; Other closed countries join as their books are read (see
 READING-QUEUE.md).
 
 **Laos Grade 4 added 2026-10-27** — *English for Lao Primary
@@ -184,3 +194,5 @@ the leap year** (p.96), and the date is spoken in full: "the
 first of January" (p.99).
 
 **South Africa added 2026-11-03** — South Africa carries both halves of this lesson in full. The days: Grade 1 HL Workbook 2 teaches the days of the week (printed p.42), Grade 1 FAL Workbook 1 teaches them too (printed pp.48–49), and Grade 2 FAL Workbook 1 works a calendar of days (printed pp.62–63). The months: Grade 1 HL Workbook 2 teaches the months with a birthday calendar (printed p.38), Grade 2 FAL Workbook 1 teaches them with a birthday calendar (printed pp.68–69), and Grade 3 FAL Workbook 2 works a months calendar (printed pp.62–63).
+
+**Syria added 2026-11-03** — Syria teaches the days in Grade 2 Pupil's Book 2 Unit 16 "Daily Routine" (pp.51–53), riding on present-simple routines, and the months in Grade 3 Unit 14 "Months and Seasons" (pp.42–44), grouped with seasons and weather. Dates arrive as a system in Grade 6 (Unit 17, pp.84–87; Unit 19, pp.92–95). One honest limit: the filed units never print a week-start order for Syria, so — unlike Egypt, Bangladesh, Laos and Ethiopia in this file — no Saturday-, Sunday- or Monday-first claim is made for it.

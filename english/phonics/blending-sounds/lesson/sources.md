@@ -1,6 +1,6 @@
 # Sources for this lesson — Blending sounds
 
-countries: Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa
+countries: Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The blending material lived inside the alphabet
@@ -30,8 +30,10 @@ letters.
 | Blending practised as word sums — ri+ng = ring, cr+ab = crab, sh+op = shop, ch+ips = chips, wh+at = what (Theme 3) | South Africa — English First Additional Language, Grade 3 Workbook 1 (Rainbow Workbooks), Theme 3, printed p.30 |
 | CVC word sums — b+ug = bug, j+am = jam (Theme 7) | South Africa — English First Additional Language, Grade 2 Workbook 1 (Rainbow Workbooks), Theme 7, printed pp.66–67 |
 | CVC word families built on the week's letters, and missing-letter CVC spellings completed, throughout Term 1 | South Africa — English Home Language, Grade 1 Workbook 1 (Rainbow Workbooks), Term 1 |
+| Sound-matching groundwork for blending: matching initial sounds in Phonics Corner 1 (initial sound C — cow, cat, car), and ticking words with the same final sound in Phonics Corner 2 (hat, skirt, cat) | Syria — Emar English Series Pupil's Book 1, Phonics Corner 1, printed p.30; Phonics Corner 2, printed p.46 |
+| Letter-blending named as an activity — a "Find and say" letter-blending exercise inside the illness unit (Syria's only blending-named work in the filed read: no CVC word-building, no decoding routine and no worked blend examples are recorded in the country file, and none is claimed here) | Syria — Emar Syrian Series Pupil's Book 2, Unit 22 "Get Well Soon", printed pp.70–72 |
 
-**Acceptance count: taught in 9 countries (Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa).**
+**Acceptance count: taught in 10 countries (Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria).**
 China adds the alphabet stocked as five phonics sets rather than
 letter by letter (Grade 3 Volume 1), a complete short-vowel cycle
 inside one volume (Grade 3 Volume 2), and end-of-primary review
@@ -53,6 +55,13 @@ Grade 1 book itself: Unit 4 blends arm, van, pen, pin,
 sun, sock, worm and web, Unit 5 blends the animal names
 and names reading by blending, and its Grade 1 Teacher's
 Guide blends mat, bad, far and sit in Unit 1.
+Syria joined 2026-11-03 in part only: its Grade 2 book
+names one letter-blending activity — "Find and say" in
+Unit 22 (printed pp.70–72) — over the sound-matching
+groundwork of its Grade 1 Phonics Corners (initial
+sounds, printed p.30; final sounds, printed p.46); no
+CVC word-building system is recorded for Syria, and none
+is claimed here.
 Counts grow as other closed countries' books are read.
 
 **Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
@@ -202,3 +211,25 @@ teaches CVC word sums — b+ug = bug, j+am = jam (printed
 pp.66–67); and the HL Grade 1 Workbook 1 builds CVC word
 families on the week's letters and completes missing-letter
 CVC spellings throughout Term 1.
+
+**Syria added 2026-11-03** — two books stock this lesson,
+in part: **Book:** *Emar Syrian Series, Pupil's Book 2* —
+Syria, Ministry of Education. **Book:** *Emar English
+Series, Pupil's Book 1* — Syria, Ministry of Education.
+Both filed in english/books/syria.md (Grade 2 — Emar
+Syrian Series Pupil's Book 2 (student's book); Grade 1 —
+Emar English Series Pupil's Book 1 (student's book)
+sections, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+PARTIAL STOCK, recorded as such: Syria has no CVC
+word-building, no sound-out-and-blend routine and no
+decoding strand in its filed read. What it has is the
+groundwork and one named activity: Grade 1's Phonics
+Corners match initial sounds (Corner 1, printed p.30 —
+cow, cat, car) and tick words with the same final sound
+(Corner 2, printed p.46 — hat, skirt, cat), and Grade
+2's illness unit (Unit 22, printed pp.70–72) carries a
+letter-blending "Find and say" exercise — the only
+blending-named work in the Syria read, with no worked
+examples recorded in the country file. Syria is counted
+for that named activity and its sound-matching groundwork
+only, exactly as filed.

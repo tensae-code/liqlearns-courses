@@ -1,6 +1,6 @@
 # Sources — Joining with and and but
 
-countries: Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
+countries: Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
 
 Every part traces to its book and page.
 
@@ -85,6 +85,10 @@ CITATION CHECK PASSED 2026-11-03).
 
 **Book 25:** *English First Additional Language, Grade 6 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+
+**Book 26:** English Pupil's Book 6 (pupil's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 6 — English, Pupil's Book 6 (pupil's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 27:** English Workbook 6 (workbook) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 6 — English, Workbook 6 (activity book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | COMPOUND SENTENCES open (B3.5.9.1): "join simple sentences with the coordinating conjunction AND — 'The boy woke up' + 'The boy prayed' → 'The boy woke up and prayed' — then AND and BUT in groups" | Ghana, NaCCA B1–B3 curriculum, Basic 3, Strand 5 |
@@ -119,7 +123,10 @@ CITATION CHECK PASSED 2026-11-03).
 | Sentences joined with because and so | South Africa — English First Additional Language, Grade 3 Workbook 2 (Rainbow Workbooks), printed p.5 |
 | The wider connective set worked — however, nevertheless, furthermore, therefore, consequently, although, whereas | South Africa — English First Additional Language, Grade 6 Workbook 2 (Rainbow Workbooks), as filed in english/books/south-africa.md |
 
-**Acceptance count: taught in 13 countries (Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).**
+| Conjunctions and/but previewed in the natural-resources unit, then and/but/so/or as the rights unit's conjunction set | Syria, English Pupil's Book 6, Unit 14, printed pp.68–71; Unit 15, printed pp.72–75 |
+| And/but sentence joining practised in the workbook's natural-resources unit, and and/but/so/or matched in its rights unit | Syria, English Workbook 6, Unit 14, printed pp.61–64; Unit 15, printed pp.65–68 |
+
+**Acceptance count: taught in 14 countries (Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria).**
 Ghana opens the compound sentence with AND, seats BUT
 beside it, lists the four coordinators, and widens the
 family in its own order; Bolivia posts the but/however
@@ -133,7 +140,7 @@ at Primary 5 and states sentence combining at senior
 level; Jordan joins likes with and/too, but and or in
 Grade 2, joins habits with and/but in Grade 3, and
 links a profile with and/but/so/because in Grade 8.
-Greece joins with so / because at Grade 6, carries a postcard on because, as, although, but and so at Grade 9 (the teacher's book adds and to the set), and presents because, as, although, but as cause-and-effect connectors at Grade 10 EPAL. Kazakhstan works and / but / or as the writing point of a Grade 5 description lesson, names and, but, because, so as a whole stories module's language focus, and lists the five linkers — and, but, or, so, because — as a Grade 6 lesson point. Iraq states the pair as a box in its Grade 6 Activity Book — *and* to add information, *but* to show a contrast — gives linking words their own Grade 7 lesson (*and, but, or, because, as well as*), and names joining sentences with *and, but, or* in its Grade 7 Activity Book Round up. Ethiopia teaches simple and compound sentences in Grade 6, joins sentences with because/but/or in Grade 7's Writing strand, and joins ideas in a paragraph with cohesive devices — also / Besides / Moreover / Generally — in Grade 9. South Africa stocks this lesson in full: Grade 3 HL joins sentences with and, so, because and but, Grade 4 HL joins with because, but, and, before, then, Grade 3 FAL joins with because and so, and Grade 6 FAL works the wider connective set — however, nevertheless, furthermore, therefore, consequently, although, whereas. Other closed countries join as their books are
+Greece joins with so / because at Grade 6, carries a postcard on because, as, although, but and so at Grade 9 (the teacher's book adds and to the set), and presents because, as, although, but as cause-and-effect connectors at Grade 10 EPAL. Kazakhstan works and / but / or as the writing point of a Grade 5 description lesson, names and, but, because, so as a whole stories module's language focus, and lists the five linkers — and, but, or, so, because — as a Grade 6 lesson point. Iraq states the pair as a box in its Grade 6 Activity Book — *and* to add information, *but* to show a contrast — gives linking words their own Grade 7 lesson (*and, but, or, because, as well as*), and names joining sentences with *and, but, or* in its Grade 7 Activity Book Round up. Ethiopia teaches simple and compound sentences in Grade 6, joins sentences with because/but/or in Grade 7's Writing strand, and joins ideas in a paragraph with cohesive devices — also / Besides / Moreover / Generally — in Grade 9. South Africa stocks this lesson in full: Grade 3 HL joins sentences with and, so, because and but, Grade 4 HL joins with because, but, and, before, then, Grade 3 FAL joins with because and so, and Grade 6 FAL works the wider connective set — however, nevertheless, furthermore, therefore, consequently, although, whereas. Syria previews and/but in its Grade 6 natural-resources unit, teaches and/but/so/or in the rights unit beside it, and practises and/but sentence joining in the Grade 6 Workbook. Other closed countries join as their books are
 read (see READING-QUEUE.md).
 
 **Laos Grade 5 added 2026-10-27** — *Student's Book 3, Grade 5*
@@ -157,3 +164,5 @@ itself in its Round up box, **"Joining sentences with and,
 but, or"** (Activity Book, Unit 1, printed p.20).
 
 **South Africa added 2026-11-03** — *DBE Rainbow Workbooks* (Department of Basic Education, South Africa, Sixteenth edition 2026; full read in english/books/south-africa.md). South Africa joins sentences from Grade 3: **and, so, because and but in Grade 3 HL Workbook 2** (printed pp.40, 46, 74, 112), **because, but, and, before, then in Grade 4 HL Workbook 2** (printed pp.42–43, 50–51, 84–85), **because and so in Grade 3 FAL Workbook 2** (printed p.5), and the wider connective set — **however, nevertheless, furthermore, therefore, consequently, although, whereas** — in Grade 6 FAL Workbook 2.
+
+**Syria added 2026-11-03** — *Emar series* (Syria, Ministry of Education; full read in english/books/syria.md). Syria stocks the joiners in Grade 6: **conjunctions and/but previewed in Pupil's Book 6, Unit 14** (printed pp.68–71), **and/but/so/or as the conjunction set of Unit 15** (printed pp.72–75), **and/but sentence joining in Workbook 6, Unit 14** (printed pp.61–64), and **and/but/so/or matching in Unit 15** (printed pp.65–68).

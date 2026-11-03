@@ -1,6 +1,6 @@
 # Sources — The story
 
-countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
+countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
 
 Every part traces to its book and page.
 
@@ -139,6 +139,12 @@ PASSED 2026-11-03).
 **Book 29:** *English Home Language, Grade 5 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 30:** *English First Additional Language, Grade 6 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 31:** Emar English Series Pupil's Book 1 (pupil's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 1 — Emar English Series Pupil's Book 1 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 32:** Emar Syrian Series Pupil's Book 2 (pupil's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 2 — Emar Syrian Series Pupil's Book 2 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 33:** Emar Syrian Series Pupil's Book 3 (pupil's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 3 — Emar Syrian Series Pupil's Book 3 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 34:** Emar English Series 9, Student's Book (student book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 9 — Emar Student's Book 9 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 35:** Emar English Series 12, Student's Book, Literary Section (student book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 12 — Emar English Series 12, Student's Book, Literary Section (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Paragraph Development names the four modes — "expository, narrative, description, argument" — narrative standing as the story's mode among the kinds of writing | Ghana, NaCCA JHS curriculum, Paragraph Development (as filed) |
@@ -174,9 +180,14 @@ PASSED 2026-11-03).
 | The fiction kinds defined at the book's summit: the fable, folk tale, myth, short story, novel and drama each defined in the closing fiction summit | South Africa, English Home Language, Grade 5 Workbook 2 (Rainbow Workbooks), printed pp.128–129 |
 | Story elements analysed as a named worksheet — the story taken apart by its elements | South Africa, English First Additional Language, Grade 6 Workbook 2 (Rainbow Workbooks), worksheet 83, printed p.58 |
 | Stories written from a mind map, and the fable defined — the story planned from its map and one kind named in the same book | South Africa, English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks), Theme 1 and Theme 4, as filed in its section in english/books/south-africa.md |
+| Two complete picture stories bound at the back of the first book: "Bumbo", the baby elephant who wins friends by putting out a forest fire, and a panel "Little Red Riding Hood" | Syria, Emar Pupil's Book 1, Stories, pp.83–94 |
+| A whole Story Time section of complete panel stories: "The farmer and the well" and "The tortoise and the rabbit" | Syria, Emar Pupil's Book 2, Story Time, pp.83–92 |
+| Stories from Around the World as the book's closing section: "Samir and the Birds" and the folk tale "The Magic Paintbrush", closed by an event-ordering exercise | Syria, Emar Pupil's Book 3, Stories from Around the World, pp.78–86 (the ordering exercise on p.86) |
+| Complete stories inside the secondary modules: "The Happy Fisherman", the fable of the turtle who wanted to fly, and "Three Wishes" | Syria, Emar Student's Book 9, pp.26–27; pp.54–55; p.78 |
+| One substantial literary text read whole at the top of the school — a prose retelling of the Epic of Gilgamesh — with the story's furniture present only as vocabulary: literary terms (novel, plot, satire, tragedy, masterpiece) | Syria, Emar Student's Book 12, Literary Section, Unit 11 "Epics", pp.108–115 |
 
-**Acceptance count: taught in 12 countries (Bangladesh,
-Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).** Ghana names the narrative mode; Bangladesh
+**Acceptance count: taught in 13 countries (Bangladesh,
+Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria).** Ghana names the narrative mode; Bangladesh
 teaches stories from its earliest classes with the fables;
 Egypt reads whole stories through the secondary years;
 China names the story's three parts outright (setting,
@@ -220,7 +231,9 @@ story "Birra and Bari", the Grade 9 "Spooky Story"
 carrying its past-tense work) — but no read Ethiopia
 book names the story's furniture (setting, characters,
 plot) as such, so that naming rests on the other
-countries; South Africa names the story's furniture outright — its Grade 5 Home Language Workbook 2 analyses stories by character, plot and setting (printed pp.36–39) and closes with a fiction summit defining the fable, folk tale, myth, short story, novel and drama (printed pp.128–129), its Grade 6 First Additional Language Workbook 2 analyses story elements (worksheet 83, printed p.58), and its Grade 4 Home Language Workbook 1 writes stories from a mind map (Theme 1) and defines the fable (Theme 4). Other closed countries join as their books are read (see
+countries; South Africa names the story's furniture outright — its Grade 5 Home Language Workbook 2 analyses stories by character, plot and setting (printed pp.36–39) and closes with a fiction summit defining the fable, folk tale, myth, short story, novel and drama (printed pp.128–129), its Grade 6 First Additional Language Workbook 2 analyses story elements (worksheet 83, printed p.58), and its Grade 4 Home Language Workbook 1 writes stories from a mind map (Theme 1) and defines the fable (Theme 4); Syria stocks the story in part — complete stories are read from the first book up (Bumbo and Little Red Riding Hood at Grade 1, the farmer and the well and the tortoise and the rabbit at Grade 2, Samir and the Magic Paintbrush at Grade 3, module stories at Grade 9, and a whole prose retelling of the Epic of Gilgamesh at Grade 12) — but no read Syria book names the story's furniture (setting, characters, plot) as a taught craft; plot appears only as a literary term to learn in the Grade 12 Epics unit, so that naming rests on the other countries. Other closed countries join as their books are read (see
 READING-QUEUE.md).
 
 **South Africa added 2026-11-03** — three books stock this lesson: *English Home Language, Grade 4 Workbook 1*, *English Home Language, Grade 5 Workbook 2* and *English First Additional Language, Grade 6 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. The Home Language Grade 5 Workbook 2 analyses stories by character, plot and setting (printed pp.36–39) and ends with a fiction summit defining the fable, folk tale, myth, short story, novel and drama (printed pp.128–129); the First Additional Language Grade 6 Workbook 2 analyses story elements (worksheet 83, printed p.58); and the Home Language Grade 4 Workbook 1 writes stories from a mind map (Theme 1) and defines the fable (Theme 4).
+
+**Syria added 2026-11-03** — PARTIAL stock, filed exactly as a partial: five books stock this lesson in part: *Emar Pupil's Book 1*, *Emar Pupil's Book 2*, *Emar Pupil's Book 3*, *Emar Student's Book 9* and *Emar English Series 12, Student's Book, Literary Section* — Syria, Ministry of Education; full read in english/books/syria.md. Complete stories are read from the first book up: Bumbo and Little Red Riding Hood close Grade 1 (Stories, pp.83–94); Grade 2's Story Time holds the farmer and the well and the tortoise and the rabbit (pp.83–92); Grade 3's Stories from Around the World holds Samir and the Birds and The Magic Paintbrush, closed by an event-ordering exercise (pp.78–86); Grade 9's modules carry The Happy Fisherman (pp.26–27), the flying-turtle fable (pp.54–55) and Three Wishes (p.78); and Grade 12 reads a whole prose retelling of the Epic of Gilgamesh (Unit 11, pp.108–115). Stated plainly: no read Syria book names the story's furniture — setting, characters, plot — as a taught craft; plot appears only among the literary terms (novel, plot, satire, tragedy, masterpiece) in that Grade 12 unit, and the Grade 12 literary book otherwise teaches the history and terms of each genre and prints no complete literary text.

@@ -1,6 +1,6 @@
 # Sources — Finding the idea of a text
 
-countries: Bangladesh, Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
+countries: Bangladesh, Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
 
 Every part traces to its book and page.
 
@@ -115,6 +115,8 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 25:** *English First Additional Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 26:** *English First Additional Language, Grade 5 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 27:** Emar English Series 12, Student's Book, Literary Section (student book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 12 — Emar English Series 12, Student's Book, Literary Section (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Paragraph Development — the four modes named (expository, narrative, description, argument); "main idea vs supporting details; cohesive devices" — the weighing itself, named as the reading skill | Ghana, NaCCA JHS curriculum, Strand (Paragraph Development, as filed) |
@@ -150,9 +152,10 @@ CITATION CHECK PASSED 2026-11-03).
 | The main idea worked by name on a biography text: the Pelé worksheet works the main character, the main idea and a summary, beside the topic-sentence definition — "A topic sentence summarises the main idea in a sentence" | South Africa, English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks), printed p.20 |
 | Topic sentences and main ideas named together in the strand's own spine — the idea hunt named as the book's language work | South Africa, English First Additional Language, Grade 5 Workbook 1 (Rainbow Workbooks), as filed in its section in english/books/south-africa.md |
 | The main idea worked with note-taking — the text carried down to its main idea in the learner's notes | South Africa, English First Additional Language, Grade 5 Workbook 2 (Rainbow Workbooks), Theme 8, as filed in its section in english/books/south-africa.md |
+| Summarising taught whole, with its own guide: a summary of the Epic of Gilgamesh written under a four-step guide to summarising — the whole text carried down to what it says | Syria, Emar Student's Book 12, Literary Section, Unit 11 "Epics", pp.108–115 |
 
-**Acceptance count: taught in 12 countries (Bangladesh,
-Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).** Ghana names the weighing (main idea vs supporting
+**Acceptance count: taught in 13 countries (Bangladesh,
+Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria).** Ghana names the weighing (main idea vs supporting
 details) and the own-words law; Bangladesh sets the choice
 as a task; China hunts the idea by title-choice and by the
 one question a whole text answers, and names the
@@ -188,8 +191,10 @@ headings from Grade 8 up;
 Ethiopia names the hunt outright — its Grade 7
 writing work is finding the main idea and supporting
 details, the main idea named in the student's book
-itself; South Africa uses "main idea" by name — its Grade 5 Home Language Pelé worksheet works the main character, the main idea and a summary beside its topic-sentence definition (printed p.20), its Grade 5 First Additional Language Workbook 1 names topic sentences and main ideas in its spine, and its Grade 5 First Additional Language Workbook 2 works the main idea with note-taking (Theme 8).
+itself; South Africa uses "main idea" by name — its Grade 5 Home Language Pelé worksheet works the main character, the main idea and a summary beside its topic-sentence definition (printed p.20), its Grade 5 First Additional Language Workbook 1 names topic sentences and main ideas in its spine, and its Grade 5 First Additional Language Workbook 2 works the main idea with note-taking (Theme 8); Syria stocks the hunt in part — no read Syria book names the main idea, and none works gist, headings or paragraph titles, but its Grade 12 literary book teaches summarising whole, with a four-step guide to summarising worked on the Epic of Gilgamesh retelling — the text carried down to what it says in the reader's own summary.
 Other closed countries join as their books are
 read (see READING-QUEUE.md).
 
 **South Africa added 2026-11-03** — three books stock this lesson: *English Home Language, Grade 5 Workbook 1*, *English First Additional Language, Grade 5 Workbook 1* and *English First Additional Language, Grade 5 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. South Africa uses "main idea" by name: the Home Language Grade 5 Workbook 1's Pelé worksheet works the main character, the main idea and a summary, alongside the topic-sentence definition (printed p.20); the First Additional Language Grade 5 Workbook 1's spine names topic sentences and main ideas; and the First Additional Language Grade 5 Workbook 2 works the main idea with note-taking (Theme 8).
+
+**Syria added 2026-11-03** — PARTIAL stock, filed exactly as a partial: one book stocks this lesson in part: *Emar English Series 12, Student's Book, Literary Section* — Syria, Ministry of Education; full read in english/books/syria.md. Its Unit 11 "Epics" sets a summary of the Epic of Gilgamesh as the writing task, with a four-step guide to summarising (pp.108–115) — the whole text carried down to what it says. Stated plainly: no read Syria book names the main idea, and none works the hunt as gist questions, heading matching or paragraph-title matching — Syria carries only the summarising step of this lesson.

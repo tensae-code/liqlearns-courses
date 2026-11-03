@@ -1,6 +1,6 @@
 # Sources — Telling the time
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
 
 Every part traces to its book and page.
 
@@ -84,6 +84,12 @@ english/books/jordan.md (Grade 3 Pupil's Book Semester 1 section, FULLY READ + C
 
 **Book 25:** *English First Additional Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 26:** Emar Syrian Series, Pupil's Book 2 (student book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 2 — Emar Syrian Series Pupil's Book 2 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 27:** Emar Syrian Series, Pupil's Book 3 (student's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 3 — Emar Syrian Series Pupil's Book 3 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 28:** English, Pupil's Book 5, NCCD edition 2021-2022 (pupil's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 5 — English, Pupil's Book 5, NCCD edition 2021-2022 (pupil's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The clock's two hands named — the short, red hand is the hour hand; the long, blue hand is the minute hand; say and complete o'clock times | Bangladesh, English for Today Class 4, Unit 13 "Telling the Time," pp.26–27 |
@@ -118,8 +124,12 @@ english/books/jordan.md (Grade 3 Pupil's Book Semester 1 section, FULLY READ + C
 | Clocks worked in the "Keeping time" theme | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), printed p.62 |
 | The FAL limit, recorded plainly: clock work in the FAL strand at this level is pictorial only — clocks are shown, the o'clock system is not stated there | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), printed pp.66–67 |
 
-**Acceptance count: taught in 13 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).** Bangladesh carries
+| Telling the time at o'clock only — "What time is it? It's six o'clock" (p.54) — with daily activities at set hours; only whole hours are taught in this book, no half / quarter times | Syria — Emar Syrian Series, Pupil's Book 2, Unit 17 "Telling the Time," pp.54–56 |
+| The clock completed a year up: quarter past / half past / quarter to, inside programme times — "What time does the football match start? — It starts at half past two" (p.21) | Syria — Emar Syrian Series, Pupil's Book 3, Unit 7 "TV Programmes," pp.21–23 |
+| Minutes to and past the hour, inside the full present-simple routines unit | Syria — English, Pupil's Book 5 (NCCD), Unit 3 "Daily Routines," pp.12–14 |
+
+**Acceptance count: taught in 14 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria).** Bangladesh carries
 the clock's hands, the
 o'clock shape, and the a.m./p.m. rule; Egypt carries times
 inside the day's routines with the book's own question;
@@ -135,7 +145,7 @@ times inside the morning routine, with no quarter/half
 words — the same plain telling Laos's primary book uses;
 Iran carries times in a practice table with clock faces
 under it, a.m./p.m. in the vocabulary, and the quarter and
-half times pictured in its Photo Dictionary. Jordan carries o'clock saying inside its routines unit, and the whole clock — hands, quarters, halves, past and to by fives — as a Maths lesson with a make-a-clock task; Greece carries the clock in two steps of its own — o'clock only in Grade 2, told over one child's whole day, then the full o'clock / half past / quarter past / quarter to system stated in a reminder box in Grade 4, with o'clock times inside a written school day in Grade 7 Beginners; Kazakhstan carries telling the time as a whole Grade 3 Smiles module — a day wheel on the clock, with half past, quarter past and quarter to in its Glossary phrases — o'clock telling in Top Stars Grade 3, and time-telling as Everyday English in Grade 5 Excel; Iraq carries the clock in three steps — o'clock times with What's the time? in Grade 3, telling the time inside the present-simple day in Grade 4, and times said in words with was/were pinned to clock times in Grade 5; Ethiopia carries the clock in three steps — o'clock telling only in Grade 1 ("It is 1 o'clock", printed p.34), half past and quarter to in Grade 3, and Telling the Time dialogues (half past six, a quarter to eight) in Grade 4; South Africa carries the clock through its HL strand — the "Jabu is always late" theme with o'clock stated in Grade 2 HL Workbook 1, Busi's day told by the clock in Workbook 2, and the "Keeping time" theme in Grade 3 HL — with the FAL limit recorded plainly: Grade 3 FAL's clock work is pictorial, and the o'clock system is taught in the HL strand; Other closed
+half times pictured in its Photo Dictionary. Jordan carries o'clock saying inside its routines unit, and the whole clock — hands, quarters, halves, past and to by fives — as a Maths lesson with a make-a-clock task; Greece carries the clock in two steps of its own — o'clock only in Grade 2, told over one child's whole day, then the full o'clock / half past / quarter past / quarter to system stated in a reminder box in Grade 4, with o'clock times inside a written school day in Grade 7 Beginners; Kazakhstan carries telling the time as a whole Grade 3 Smiles module — a day wheel on the clock, with half past, quarter past and quarter to in its Glossary phrases — o'clock telling in Top Stars Grade 3, and time-telling as Everyday English in Grade 5 Excel; Iraq carries the clock in three steps — o'clock times with What's the time? in Grade 3, telling the time inside the present-simple day in Grade 4, and times said in words with was/were pinned to clock times in Grade 5; Ethiopia carries the clock in three steps — o'clock telling only in Grade 1 ("It is 1 o'clock", printed p.34), half past and quarter to in Grade 3, and Telling the Time dialogues (half past six, a quarter to eight) in Grade 4; South Africa carries the clock through its HL strand — the "Jabu is always late" theme with o'clock stated in Grade 2 HL Workbook 1, Busi's day told by the clock in Workbook 2, and the "Keeping time" theme in Grade 3 HL — with the FAL limit recorded plainly: Grade 3 FAL's clock work is pictorial, and the o'clock system is taught in the HL strand; Syria carries the clock in three steps of its own — o'clock only in Grade 2, the quarter past / half past / quarter to system in Grade 3, and minutes to and past the hour in Grade 5; Other closed
 countries join as their
 books are read (see READING-QUEUE.md).
 
@@ -158,3 +168,5 @@ books split the telling: primary says the hour and two plain
 times; secondary adds the quarter-and-half system.
 
 **South Africa added 2026-11-03** — South Africa teaches telling the time through its HL strand. Grade 2 HL Workbook 1's "Jabu is always late" theme teaches clock time with o'clock stated (printed pp.118–122, o'clock at printed p.122); Grade 2 HL Workbook 2 tells Busi's day by the clock (printed p.78); and Grade 3 HL Workbook 1's "Keeping time" theme works clocks (printed p.62). The FAL limit is recorded plainly: Grade 3 FAL Workbook 2's clock work is pictorial (printed pp.66–67) — the o'clock system is taught in the HL strand, not the FAL strand.
+
+**Syria added 2026-11-03** — Syria tells the time in three steps. Grade 2 Pupil's Book 2 Unit 17 (pp.54–56) teaches o'clock only — the limit is the book's own: no half or quarter times appear there. Grade 3 Unit 7 (pp.21–23) completes the clock with quarter past, half past and quarter to, and Grade 5 Pupil's Book 5 Unit 3 (pp.12–14) adds minutes to and past the hour.

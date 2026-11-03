@@ -1,6 +1,6 @@
 # Sources for this lesson — Word families
 
-countries: Egypt, Laos, China, Sierra Leone, Jordan, South Africa
+countries: Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -36,8 +36,11 @@ pictures).
 | Letter families worked through Themes 4–10 (o, i, n, d, g, u, e, h, f, l) | South Africa — English First Additional Language, Grade 2 Workbook 1 (Rainbow Workbooks), Themes 4–10 |
 | CVC word families built on each week's letters (sat/sad/sit/sun-type sets) | South Africa — English Home Language, Grade 1 Workbook 1 (Rainbow Workbooks), Term 1 |
 | The **lt, ight, th** and **wh** word families (Theme 1) | South Africa — English First Additional Language, Grade 4 Workbook 1 (Rainbow Workbooks), Theme 1 |
+| The **-ox** rhyming family — box, fox, ox — taught as a Phonics Corner on rhyming words | Syria — Emar English Series Pupil's Book 1, Phonics Corner 3, printed p.62 |
+| The **-en** rhyming family — pen, hen, ten — taught as a Phonics Corner on rhyming | Syria — Emar English Series Pupil's Book 1, Phonics Corner 4, printed p.78 |
+| Rhyming matching a year up — cat/mat matched as rhymes against the long-vowel cake/lake set (Syria's family work stops at these rhyming corners: no named word-family programme and no further rime families are recorded in the country file, and none is claimed here) | Syria — Emar Syrian Series Pupil's Book 2, Phonics Corner 1, printed p.15 |
 
-**Acceptance count: taught in 6 countries (Egypt, Laos, China, Sierra Leone, Jordan, South Africa).**
+**Acceptance count: taught in 7 countries (Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria).**
 China adds a complete short-vowel cycle inside one volume —
 one Let's spell set per vowel, reviewed as a whole system
 (Grade 3 Volume 2) — the silent-e ladder that turns those
@@ -48,6 +51,11 @@ as a named, year-long programme: one first family in Primary 1
 (-un), then twenty-four named Word Family lessons across
 Primary 3. Jordan adds the first two patterns of the silent-e
 ladder — a-e and i-e — as a Grade 2 phonics lesson.
+Syria adds two rhyming families only, in part: the -ox family
+(box, fox, ox) and the -en family (pen, hen, ten), each a
+Grade 1 Phonics Corner on rhyming, with rhyming matching
+(cat/mat) a year up in Grade 2 — no named word-family
+programme is recorded for Syria.
 Counts grow as other closed countries' books are read.
 
 **Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
@@ -260,3 +268,25 @@ Grade 1 Workbook 1 builds CVC word families on each week's
 letters (sat/sad/sit/sun-type sets), and the FAL Grade 4
 Workbook 1 works the lt, ight, th and wh word families in
 its Theme 1.
+
+**Syria added 2026-11-03** — two books stock this lesson,
+in part: **Book:** *Emar English Series, Pupil's Book 1*
+— Syria, Ministry of Education. **Book:** *Emar Syrian
+Series, Pupil's Book 2* — Syria, Ministry of Education.
+Both filed in english/books/syria.md (Grade 1 — Emar
+English Series Pupil's Book 1 (student's book); Grade 2 —
+Emar Syrian Series Pupil's Book 2 (student's book)
+sections, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+PARTIAL STOCK, recorded as such: Syria does not name or
+group rime families as a programme in any held book — its
+Grade 3 phonics is spelling patterns, filed in
+phonics/two-letter-sounds and phonics/blends — and the
+only family-shaped work in its filed read is rhyming:
+Grade 1's Phonics Corner 3 (printed p.62) teaches
+rhyming words as the -ox family (box, fox, ox) and
+Phonics Corner 4 (printed p.78) as the -en family (pen,
+hen, ten), and Grade 2's Phonics Corner 1 (printed p.15)
+matches rhymes (cat/mat) against the long-vowel set
+(cake/lake). Syria is counted for those two rhyming
+families and the rhyming matching only, exactly as
+filed.

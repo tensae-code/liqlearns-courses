@@ -1,6 +1,6 @@
 # Sources — Food and fruit
 
-countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa
+countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria
 
 Every part traces to its book and page.
 
@@ -134,6 +134,14 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 
 **Book 34:** *English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 35:** Emar English Series, Pupil's Book 1 (student book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 1 — Emar English Series Pupil's Book 1 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 36:** Emar Syrian Series, Pupil's Book 3 (student's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 3 — Emar Syrian Series Pupil's Book 3 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 37:** English, Pupil's Book 5, NCCD edition 2021-2022 (pupil's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 5 — English, Pupil's Book 5, NCCD edition 2021-2022 (pupil's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 38:** English, Pupil's Book 6 (pupil's book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 6 — English, Pupil's Book 6 (pupil's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Listen and repeat: breakfast, lunch, dinner, eat, drink" — with the breakfast plate pictured: egg, cheese, beans, and a glass of milk | Egypt, Primary 1 Term 2, Unit 1 "My Week," p.15 |
@@ -177,8 +185,13 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Cooking vocabulary sorted into its kinds — fruit, vegetables, meat and grain | South Africa, English First Additional Language (FAL), Grade 2 Workbook 2 (Rainbow Workbooks), printed pp.34–35 |
 | A fruit-salad recipe read and rewritten | South Africa, English Home Language (HL), Grade 4 Workbook 1 (Rainbow Workbooks), printed p.52 |
 
-**Acceptance count: taught in 14 countries (Bangladesh, Egypt,
-Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa).**
+| The first food set with the like frame — cheese, milk, juice, chicken, rice, sandwich — "What do you like? I like…" ("I like chicken. It's delicious," p.40) | Syria — Emar English Series, Pupil's Book 1, Unit 13 "My Food," pp.40–42 |
+| Restaurant requests as the meal unit's language — "What would you like to eat?", "Can I have pasta with vegetables, Mum?", "Can I have some water, please?" | Syria — Emar Syrian Series, Pupil's Book 3, Unit 19 "My Favourite Meal," pp.57–59 |
+| Food and drinks as a whole unit, with how much / how many, some / any and countable against uncountable food nouns | Syria — English, Pupil's Book 5 (NCCD), Unit 16 "Food and Drinks," pp.60–62 |
+| Tasty food as a whole unit — taste adjectives and cooking verbs, with the present perfect arriving inside it ("just sliced the pepper," p.58) | Syria — English, Pupil's Book 6, Unit 11 "Tasty Food," pp.56–59 |
+
+**Acceptance count: taught in 15 countries (Bangladesh, Egypt,
+Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria).**
 Egypt carries the meals and the breakfast plate;
 Bangladesh carries the like-exchange and the healthy sorting;
 Palestine carries the fruit set with its a/an pair and the
@@ -190,8 +203,10 @@ set with counting, and two full vegetable sets with likes and
 dislikes; Iran carries favourite food and drink as the talk
 itself, and a country's eating habits sorted into a table;
 Sierra Leone carries foods categorised from a poem, and
-favourite foods as the pupils' own writing. Jordan carries the first food set with I like in Grade 1, two sets with Do you like…? in Grade 2, the picnic set with food shopping in Grade 4, and food with containers, prices and ordering in Grade 8; Greece carries the food pyramid with its eighteen flashcards in the Grade 2 Workpack, party shopping and sandwich-making in Grade 4, and foods sorted by health with their containers in Grade 7 Beginners; Kazakhstan carries the first food set with I like / I don't like in Grade 1 Smiles, a seventeen-word food and drink set sorted good and bad for teeth in its Grade 3 Express book, and healthy against junk food with the container phrases in Grade 4 Smiles; Iraq carries the ten-word fruit set with I like / I don't like and the café set with offers in Grade 2, the food sets with likes and wants in Grade 3, and the container phrases there and again with countable against uncountable food in Grade 5; Ethiopia carries food crops sorted into vegetables, fruits, legumes, cereals and root vegetables and the healthy-food set in Grade 2, and vegetable names matched to pictures in Grade 4; South Africa carries food with fruit and vegetables, likes and dislikes and polite requests in Grade 1 FAL Theme 7, cooking vocabulary sorted into fruit, vegetables, meat and grain in Grade 2 FAL, and a fruit-salad recipe read and rewritten in Grade 4 HL; Other closed
+favourite foods as the pupils' own writing. Jordan carries the first food set with I like in Grade 1, two sets with Do you like…? in Grade 2, the picnic set with food shopping in Grade 4, and food with containers, prices and ordering in Grade 8; Greece carries the food pyramid with its eighteen flashcards in the Grade 2 Workpack, party shopping and sandwich-making in Grade 4, and foods sorted by health with their containers in Grade 7 Beginners; Kazakhstan carries the first food set with I like / I don't like in Grade 1 Smiles, a seventeen-word food and drink set sorted good and bad for teeth in its Grade 3 Express book, and healthy against junk food with the container phrases in Grade 4 Smiles; Iraq carries the ten-word fruit set with I like / I don't like and the café set with offers in Grade 2, the food sets with likes and wants in Grade 3, and the container phrases there and again with countable against uncountable food in Grade 5; Ethiopia carries food crops sorted into vegetables, fruits, legumes, cereals and root vegetables and the healthy-food set in Grade 2, and vegetable names matched to pictures in Grade 4; South Africa carries food with fruit and vegetables, likes and dislikes and polite requests in Grade 1 FAL Theme 7, cooking vocabulary sorted into fruit, vegetables, meat and grain in Grade 2 FAL, and a fruit-salad recipe read and rewritten in Grade 4 HL; Syria carries the first food set with I like in Grade 1, restaurant requests in Grade 3, food with how much / how many and countable against uncountable in Grade 5, and tasty food with taste adjectives and cooking verbs in Grade 6; Other closed
 countries join as their
 books are read (see READING-QUEUE.md).
 
 **South Africa added 2026-11-03** — South Africa teaches food in its first FAL year: Grade 1 Workbook 1 Theme 7 (printed pp.62–67) teaches food with fruit and vegetables, likes and dislikes, and polite requests. Grade 2 FAL Workbook 2 sorts cooking vocabulary into fruit, vegetables, meat and grain (printed pp.34–35), and Grade 4 HL Workbook 1 reads and rewrites a fruit-salad recipe (printed p.52).
+
+**Syria added 2026-11-03** — Syria's food ladder runs four grades: Grade 1 Pupil's Book 1 Unit 13 "My Food" (pp.40–42) for the first set and the like frame; Grade 3 Unit 19 "My Favourite Meal" (pp.57–59) for restaurant requests; Grade 5 Unit 16 "Food and Drinks" (pp.60–62) for quantity and the countable line; and Grade 6 Unit 11 "Tasty Food" (pp.56–59) for taste adjectives and cooking verbs.
