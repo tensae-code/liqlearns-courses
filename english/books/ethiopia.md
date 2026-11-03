@@ -48,6 +48,15 @@ past perfect nor present perfect continuous; G9
 modals of obligation, relative clauses and
 connectors — still no reported speech, no passive
 as a taught topic, and no literature anywhere.
+G9 is, however, the one place in the whole series
+where the present perfect continuous IS taught as a
+form (Student's Book Unit 8, grammar 8.4, pp.160–179,
+forms tables with negatives/questions and since/for;
+revised in Unit 10, p.212) — the primary set never
+reaches it and it is not taught again in G10–G12
+(clarified 2026-11-03 after the Ethiopia merge
+flagged that the scoped claims below could be
+misread as series-wide).
 The 2023-curriculum band (G10–G12) is the fullest:
 G10 gives reported speech and conditionals one
 unit each; G11 is the grammar peak (the future
@@ -56,7 +65,8 @@ to forms like "will have been being painted");
 G12 is a revision year whose new-structure
 teaching stops after Unit 3. **Across G10–G12 the
 present perfect continuous is never taught as a
-form anywhere, the future continuous and future
+form anywhere (its one taught arrival is G9 — see
+above), the future continuous and future
 perfect continuous appear only as rows in G11's
 passive table, and mixed conditionals are never
 named as a category. And in the national-exam
