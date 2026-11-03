@@ -1,6 +1,6 @@
 # Sources — The alphabet
 
-countries: Egypt, Libya, Laos, China
+countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone
 
 Every part traces to its book and page. The PDF of Libya's Pupils Book
 is one book page per PDF page, with the book page printed at the
@@ -23,6 +23,28 @@ Education Press (with Lingo Learning Inc., Canada), © 2012, ISBN
 978-7-107-24467-4. Filed in english/books/china.md (China — English
 Grade 3 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 4:** English for Nusantara untuk SMP/MTs Kelas VII
+(Grade 7) — Indonesia · **Publisher:** Kementerian Pendidikan,
+Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan), first
+printing 2022, ISBN 978-602-244-885-3. Filed in
+english/books/indonesia.md (Indonesia — English Grade 7 Student
+Book — FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 5:** English for Schools — Prospect 1, Grade 7 Student
+Book, and its Workbook — Iran · **Publisher:** Ministry of
+Education — Organization for Educational Research and Planning
+(OERP), ISBN 978-964-05-2207-3 (student book) and
+978-964-05-2206-6 (workbook). Filed in english/books/iran.md
+(Iran — English Grade 7 — FULLY READ + CITATION CHECK PASSED
+2026-11-03).
+
+**Book 6:** Lesson plans for PRIMARY Language ARTS, Primary 1
+Terms 1–3 — Sierra Leone · **Publisher:** Ministry of
+Education, Science and Technology, Sierra Leone (teacher
+lesson-plan books; no publication year printed). Filed in
+english/books/sierra-leone.md (Sierra Leone — Language Arts
+Primary 1 — FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 1 is "The Alphabet" — Book Map: Unit 1 vocabulary (a–z) and the one-word-per-letter list (apple, ball, car, duck, elephant, flower, gate, hand, insect, jam, kite, lemon, monkey, nose, orange, plane, queen, rocket, sun, tomato, umbrella, violin, watch, x-ray, yo-yo, zebra) | Libya Pupils G1, PDF p.5 (Book Map, Units 1–4) |
@@ -39,6 +61,11 @@ Grade 3 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 | The ABC song placed inside Unit 1, before any letter teaching — the alphabet sung whole first, then met in pieces | China — English (PEP) Grade 3 Volume 1, Unit 1, printed p.6 |
 | A missing-letter sequence exercise — the alphabet with blanks to fill, as a review shape | China — English (PEP) Grade 3 Volume 1, Recycle 2, printed p.69 |
 | Every one of the 13 letters gets the same pair of pages in Egypt KG1 — a sound page ("Listen and repeat," 3 words) and a trace page (the letter, then the letter inside its words): Ss star/sun/school pp.23–24 · Aa apple/ant pp.28–29 · Nn nest/night/numbers pp.30–31 · Pp pen/pan/pants pp.47–48 · Hh helicopter/honey/heart pp.49–50 · Dd dog/desk/dress pp.54–55 · Rr robot/rice/rabbit pp.56–57 · Ee egg/eagle/elephant pp.70–71 · Cc cap/cow/cloud pp.72–73 · Kk kiwi/kite/kick pp.77–78 · Mm mud/man/mom pp.79–80; review matching/tracing pp.89–92 | Egypt KG1, book pages as listed (whole book read complete, 2026-10-25) |
+| The alphabet as a catch-up opening — Section A "Alphabets": letter names taught with an alphabet song, for pupils who had no English in primary school | Indonesia — English for Nusantara, Grade 7, Chapter 0 "The Beginning," Section A (chapter printed pp.1–12) |
+| The whole alphabet printed in upper/lower pairs as a diagnostic opening, with an English Alphabet Song prompt and "Can you write your name in English?" | Iran — Prospect 1 (Grade 7) Student Book, Welcome, printed p.3 |
+| The letters distributed three or four per lesson in the Sounds and Letters pages, complete only at the last review — Aa Kk Mm · Ee Bb Pp · Ii Tt Nn · Uu Ss Gg · Dd Ll Rr · Ff Vv Ww · Oo Hh Xx Yy · Cc Jj Qq Zz | Iran — Prospect 1 (Grade 7) Student Book, Lessons 1–8, printed pp.6–45; the whole alphabet A–Z can-do at Review 4, printed pp.46–47 |
+| One page per letter, A to Z in alphabetical order — the full alphabet down the side, a numbered stroke-order diagram for the capital and the small letter, and two example words per letter | Iran — Prospect 1 (Grade 7) Workbook, Alphabet / Handwriting Booklet, printed pp.4–29 (guide lines only, printed pp.2–3) |
+| The alphabet introduced as 26 letters, then taught one letter at a time in alphabetical order across the whole first year — identify the letter on the alphabet strip, in the week's letter story and in pupils' own names; say its name and sound; trace/write upper- and lower-case; then a separate words lesson for that letter | Sierra Leone — Language Arts Primary 1, Terms 1–3 (Aa–Hh, Term 1; Ii–Ss, Term 2; Tt–Zz, Term 3; the 26 letters introduced at Term 1, Lesson 15) |
 
 **Egypt KG2 rows added 2026-10-25** (whole book read complete) —
 KG2 teaches the other 13 letters, each with sound words, a formation
@@ -197,12 +224,19 @@ change, but Libya's layer is now a *spiral* — taught in Grade 1,
 re-taught in Grade 2 — which is how the course itself says a
 sound is learned.
 
-**Acceptance count: taught in 4 countries (Egypt, Libya, Laos, China).**
+**Acceptance count: taught in 7 countries (Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone).**
 China joins through its Grade 3 Volume 1: the ABC song is placed
 before any letter teaching (Unit 1, p.6), and Recycle 2 adds a
 missing-letter sequence exercise (p.69) — the alphabet as a sung
 whole and a gapped sequence, ahead of the letter-by-letter work
-that China itself files in phonics/blending-sounds. Mongolia's
+that China itself files in phonics/blending-sounds. Indonesia,
+Iran and Sierra Leone joined 2026-11-03: Indonesia teaches the
+letter names with a song in one catch-up chapter (Grade 7,
+Chapter 0); Iran prints the whole alphabet as a diagnostic,
+distributes the letters through its first book, and gives every
+letter a stroke-order page in its workbook; Sierra Leone spends
+its whole first year on the letters, one at a time in
+alphabetical order. Mongolia's
 Grade 5 book was checked for this lesson and adds nothing: it
 teaches no letters (its alphabet is a classroom wall strip that
 never goes past "Ii") — recorded as an honest negative in
@@ -220,3 +254,60 @@ song, all 26 letters, lowercase (p.73)** — a review sung after
 sixteen sounds are already working, not the starting line. The
 letters q, v, x, y get no sound lesson of their own in the book;
 they live in the song.
+
+**Indonesia added 2026-11-03** — **Book:** *English for
+Nusantara untuk SMP/MTs Kelas VII* — Indonesia, Kementerian
+Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan),
+first printing 2022, ISBN 978-602-244-885-3. Filed in
+english/books/indonesia.md (Indonesia — English Grade 7 Student
+Book — FULLY READ + CITATION CHECK PASSED 2026-11-03).
+Indonesia's primary books teach no alphabet at all (recorded as
+an honest negative for Grades 3–6 in the country file); the
+alphabet arrives once, in Grade 7's catch-up Chapter 0, "The
+Beginning" (printed pp.1–12), written for pupils who had no
+English in primary school (p.2): Section A, "Alphabets," teaches
+the letter names with an alphabet song. Letter *names* and
+spelling only — the country file records that Chapter 0 has no
+phonics or pronunciation strand after it.
+
+**Iran added 2026-11-03** — two books stock this lesson:
+**Book:** *English for Schools — Prospect 1*, Grade 7 Student
+Book — Iran, Ministry of Education — Organization for
+Educational Research and Planning (OERP), ISBN
+978-964-05-2207-3. **Book:** *English for Schools — Prospect 1*,
+Grade 7 Workbook — Iran, OERP, ISBN 978-964-05-2206-6. Both
+filed in english/books/iran.md (Iran — English Grade 7 — FULLY
+READ + CITATION CHECK PASSED 2026-11-03). Iran starts English
+at Grade 7 and teaches the alphabet three ways at once: whole,
+in the Welcome diagnostic (printed p.3 — upper/lower pairs, an
+English Alphabet Song prompt, "Can you write your name in
+English?"); distributed, three or four letters per lesson in
+the Sounds and Letters pages of Lessons 1–8 (printed pp.6–45),
+complete only at Review 4's whole-alphabet can-do (printed
+pp.46–47); and letter by letter for the hand, in the workbook's
+Alphabet / Handwriting Booklet (printed pp.4–29) — one page per
+letter with a numbered stroke-order diagram and two example
+words a letter (A — Apple / Ball through Z — Zipper / Puzzle),
+on two opening pages of dotted handwriting guide lines
+(printed pp.2–3). The workbook's own introduction states the
+split: the booklet teaches writing, the student book teaches
+sounds.
+
+**Sierra Leone added 2026-11-03** — **Books:** *Lesson plans
+for PRIMARY Language ARTS*, Primary 1, Terms 1–3 — Sierra
+Leone, Ministry of Education, Science and Technology (teacher
+lesson-plan books; no publication year printed). Filed in
+english/books/sierra-leone.md (Sierra Leone — Language Arts
+Primary 1 — FULLY READ + CITATION CHECK PASSED 2026-11-03).
+Sierra Leone is the one-letter-at-a-time case in full: the
+alphabet is introduced as 26 letters (Term 1, Lesson 15), then
+every letter gets the same fixed routine in alphabetical order
+across the year — Aa–Hh in Term 1, Ii–Ss in Term 2, Tt–Zz in
+Term 3 (Ww/Xx and Yy/Zz share their lessons): identify the
+letter on the alphabet strip, in the week's letter story and
+in pupils' own names; say its name and sound; trace and write
+both cases; then a separate "words" lesson drawing and
+labelling words beginning with that letter. Reviews re-run the
+letters in blocks (Aa–Hh, Term 2 Lessons 61–62; Aa–Mm, Term 2
+Lesson 87), and Primary 2 revisits the whole alphabet for
+sound–letter matching.

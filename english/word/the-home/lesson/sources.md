@@ -1,6 +1,6 @@
 # Sources — The home
 
-countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia
+countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran
 
 Every part traces to its book and page.
 
@@ -51,6 +51,23 @@ People's Education Press (PEP) with Lingo Learning Inc.
 (Canada). Filed in english/books/china.md (Grade 5 Volume 1
 section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 9:** Bahasa Inggris: English for Nusantara Kids,
+Grade 3 (student book) — Indonesia, Kementerian Pendidikan,
+Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan). Filed in
+english/books/indonesia.md (Grade 3 Student Book section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 10:** English for Nusantara, Grade 7 (student book) —
+Indonesia, same ministry. Filed in english/books/
+indonesia.md (Grade 7 Student Book section, FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
+**Book 11:** English for Schools, Prospect 1 — English
+Grade 7 Student Book — Iran, Ministry of Education,
+Organization for Educational Research and Planning (OERP).
+Filed in english/books/iran.md (Grade 7 Student Book
+section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The five rooms on pictures, each with its sentence: bedroom — "I sleep in the bedroom" · bathroom — "I brush my teeth in the bathroom" · living room — "I watch TV in the living room" · dining room — "I eat in the dining room" · kitchen — "My mother cooks in the kitchen" | Egypt, Primary 1 Term 2, Unit 4 "My House," Lesson 1 "Rooms in My House," pp.67–68 |
@@ -71,9 +88,13 @@ section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
 | A room written about in an email — Mr Jones's new house: dirty rooms, pencils and crayons on the floor, a mouse behind the computer — then write three There is / There are sentences about your own room | China, Grade 5 Volume 1, Unit 5, Read and write, p.53 |
 | The family set with its informal pair taught side by side: father, mother, grandfather, grandmother, brother, sister — and mummy / daddy in the song, the project captions and the checkpoint sentences | North Macedonia, Grade 2, Module 1 "My Family," Lesson 1, printed p.4 (mummy/daddy printed pp.5, 8, 11) |
 | Rooms and furniture in real photographs — living room, bathroom, bedroom, kitchen — furniture sets, a cutaway house, and in/on judged true or false in pictures (picture citation only; the book prints no English wording) | Mongolia, English V (Grade 5), Unit 8 "My home," printed pp.76, 80, 82, 84–85 |
+| The parts of the house as its own sub-chapter: garden, living room, kitchen, bedroom, backyard, bathroom, terrace (the house plan adds mushala/prayer room, shop, toilet) — with "Where is …? — She is in the kitchen" and a mother finding each family member room by room | Indonesia, Grade 3, Chapter 3 "My Family's Activities at Home," Part B, pp.74–76 (house plan p.81; story pp.77–78) |
+| A house described room by room with there is / there are — "There's an old radio in the living room" — and the prepositions of place drilled as one set: in, on, under, next to, behind, in front of, above, between; then describing a room to a partner in an information-gap game | Indonesia, Grade 7, Chapter 3 "Home Sweet Home," Unit 1, printed pp.108 and 111 (game p.112) |
+| Rooms with the where-question and short answers: house, room, bedroom, kitchen, living room, garage, office — "Where are you? — I'm in the bedroom"; "Is he/she in the garage? — Yes, he/she is / No, he/she isn't"; the Photo Dictionary widens it to house types (flat/apartment, villa, tower) and furniture (bookcase, blanket, clock, table, computer, television, mirror, radio) | Iran, Prospect 1 (Grade 7), Lesson 6 "My House," printed pp.32–35; Photo Dictionary, Lesson 6 section (printed pp.48–76) |
 
-**Acceptance count: taught in 7 countries (Egypt, Libya,
-Palestine, Laos, China, North Macedonia, Mongolia).** Egypt carries the five rooms with a sentence for
+**Acceptance count: taught in 9 countries (Egypt, Libya,
+Palestine, Laos, China, North Macedonia, Mongolia, Indonesia,
+Iran).** Egypt carries the five rooms with a sentence for
 each and the drilled question; Libya carries the same rooms
 twice (Grade 1 set, Grade 2 labelled house) with the sitting
 room name and the furniture; Palestine carries the bedroom set
@@ -82,7 +103,12 @@ their actions, the position-word finding game, the family
 words, and the there is/are room system with the six
 prepositions of place taught as one set; North Macedonia carries the family set with its formal
 and informal names taught side by side; Mongolia carries the
-rooms and furniture in real photographs. Other closed countries join as
+rooms and furniture in real photographs; Indonesia carries
+the parts of the house found room by room in Grade 3, and the
+there is/are room description with eight prepositions as one
+set in Grade 7; Iran carries the rooms with the where-question
+and yes/no short answers, widened in its Photo Dictionary to
+house types and furniture. Other closed countries join as
 their books are read (see READING-QUEUE.md).
 
 **Laos Grade 5 added 2026-10-27** — *Student's Book 3, Grade 5*

@@ -1,6 +1,6 @@
 # Sources — Drawing lines
 
-countries: Egypt, Libya
+countries: Egypt, Libya, Sierra Leone
 
 Course: Pencil and Lines — the prerequisite course before every
 language course (his ruling, 2026-10-25).
@@ -8,6 +8,7 @@ language course (his ruling, 2026-10-25).
 | Lesson part | Where it comes from |
 |---|---|
 | The Trace box: rows of dotted wavy lines and zigzag lines, each starting from an arrow head | Egypt — English Language KG1 Term 1 (student book), book p.1, right side of the page (PDF p.5 of English_KG1_Tr1.pdf; verified on disk 2026-10-25, image-only — page read as a picture) |
+| Drawing patterns before letters — draw patterns, including the patterns of the letters in pupils' own names; and draw a pattern of shapes: a circle, then three circles in a row | Sierra Leone — Language Arts Primary 1 Lesson Plans, Term 1, Lesson 12 ("Drawing patterns") and Lesson 35 ("Drawing") |
 
 Second book, same country (added 2026-10-25): Egypt KG2 Term 1 opens
 with a "Remember With Me!" page — trace the wavy and zigzag lines
@@ -57,8 +58,25 @@ drawing shapes: the line work now builds the shape words
 (triangle, square, circle, rectangle) of the Pupils Book's
 maths lesson.
 
-**Acceptance count: taught in 2 countries (Egypt, 3 books; Libya,
-3 books).**
+Third country (added 2026-11-03): Sierra Leone — *Lesson plans
+for PRIMARY Language ARTS*, Primary 1, Term 1 (Ministry of
+Education, Science and Technology, Sierra Leone; teacher
+lesson-plan book, no publication year printed; full read in
+english/books/sierra-leone.md). Sierra Leone's hand work is
+**pattern drawing**: Lesson 12, "Drawing patterns," has the
+child draw patterns, including the patterns of the letters in
+pupils' own names — the letter's line-moves practised before
+the letter itself — and Lesson 35, "Drawing," reviews the
+d-words and draws patterns: a circle, then three circles in
+a row as a pattern. It is not Egypt's dotted-line tracing or
+Libya's dot-to-dot; it is the same pre-letter hand work in a
+third shape, the repeated pattern. (The letter lessons' fixed
+routine also has every child trace and write each new letter
+in both cases — that tracing is filed in the alphabet lesson,
+whose move it is.)
+
+**Acceptance count: taught in 3 countries (Egypt, 3 books; Libya,
+3 books; Sierra Leone — pattern drawing, Primary 1 Term 1).**
 The "understand the lines" framing is his: the lines are understood,
 not just traced — a wavy line is the curved move, a zigzag is the
 straight-and-corner move, and letters are those two moves mixed.

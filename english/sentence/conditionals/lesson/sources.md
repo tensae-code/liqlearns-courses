@@ -1,6 +1,6 @@
 # Sources — Conditionals
 
-countries: Egypt, Libya, Mongolia, Laos
+countries: Egypt, Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -22,6 +22,36 @@ of Education. Filed in english/EGYPT-BOOK-MAP.md (FULLY
 READ 2026-10-26; the formal citation check for the
 pre-law Egypt reads is still owed).
 
+**Book 4:** Bahasa Inggris: Work in Progress, Grade 10
+(Student Book and Teacher Guide) — Indonesia,
+Kemendikbudristek. Filed in english/books/indonesia.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 5:** Vision 2 — English for Schools, Student Book,
+Grade 11 — Iran, Ministry of Education, Organization
+for Educational Research and Planning (OERP). Filed in
+english/books/iran.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
+**Book 6:** Vision 3 — English for Schools, Student Book,
+Grade 12 — Iran, OERP. Filed in english/books/iran.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 7:** English Language SSS2 Pupil Handbook, Term 2
+— Sierra Leone, Ministry of Basic and Senior Secondary
+Education. Filed in english/books/sierra-leone.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 8:** English Language SSS3 Pupil Handbook, Term 1
+— Sierra Leone, Ministry of Basic and Senior Secondary
+Education. Filed in english/books/sierra-leone.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 9:** Language Arts JSS3 Pupil Handbook, Term 3
+— Sierra Leone, Ministry of Basic and Senior Secondary
+Education. Filed in english/books/sierra-leone.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The zero conditional | Libya, Grade 9 Course Book, Unit 7 (p.79, as filed in libya.md) |
@@ -35,14 +65,34 @@ pre-law Egypt reads is still owed).
 | The second conditional (the middle rung) | Egypt, Preparatory 8 (as filed in the Prep 9 grammar-spine note) |
 | The THIRD CONDITIONAL: form — If + past perfect (had + past participle), would have + past participle; use — unreal situations in the past, an imaginary situation and a different result that could have happened but didn't; regret, missed chances, excuses | Egypt, Preparatory 9 Term 1, Unit 2, Tip p.31 |
 | The split: Egypt's run states the ladder as three (first Prep 7, second Prep 8, third Prep 9) and never names a "zero conditional" anywhere in the run | Egypt, Preparatory 9 Term 1 grammar-spine note, english/EGYPT-BOOK-MAP.md |
+| Conditional sentences named in the student book's own scope for its fractured-stories chapter (past tense and conditional sentences) — but met there only inside texts, with no rule box in the pupil book | Indonesia, Grade 10 Student Book, Chapter 6, Objectives, printed p.130 |
+| The conditional system actually expounded — in the teacher guide, the pair's one real grammar-teaching passage: deal with the conditionals occurring in the texts first, then present the full type system, including the "unknown past condition" | Indonesia, Grade 10 Teacher Guide, printed pp.142–144 |
+| Conditional Type I tabled in both clause orders ("If you study hard, you will pass the exams"), with a choose-the-form paragraph and pair completions; the Speaking Strategy runs on it (Talking about Conditions and Future Results) and the pronunciation lesson marks conditional intonation | Iran, Vision 2, Lesson 3, Grammar, pp.95–97; Listening & Speaking, pp.99–100; Pronunciation, p.101 |
+| Conditional Type II as a See Also box — six example sentences only, including were for all persons ("I would buy a house if I were you"), all practice pushed to the workbook; the Speaking Strategy (Talking about Imaginary Situations) works the same ground | Iran, Vision 3, Lesson 2, See Also, p.60; Listening & Speaking, pp.61–62 |
+| The zero conditional: five types named (zero, first, second, third, mixed), the zero taught — if/when/unless + simple present for general and universal truths | Sierra Leone, SSS2 Term 2, Lesson 63, p.37 |
+| The first conditional: if/unless + simple present, with simple future in the main clause, for a possible condition and its probable result | Sierra Leone, SSS2 Term 2, Lesson 64, p.39 |
+| The second conditional: the family restated, zero recapped, then the second for hypothetical conditions (if-clause simple past; main clause present conditional forms) | Sierra Leone, SSS3 Term 1, Lesson 29, p.69 |
+| The third conditional: hypothetical past events that did not happen — regret and relief; if-clause past perfect, main clause perfect conditional | Sierra Leone, SSS3 Term 1, Lesson 30, p.71 |
+| The mixed conditional: past hypothetical events and their present consequences — a different present, where the third gives a different past | Sierra Leone, SSS3 Term 1, Lesson 33, p.78 |
+| All five types in one review table — use, if-clause form and main-clause form for zero, first, second, third and mixed | Sierra Leone, SSS3 Term 1, Lesson 41, p.96 |
+| The JSS run of the same ladder: the four main conditional types and when each is used, then conditionals for unlikely past events and for what could or should have happened but did not, with BECE-style interpretation questions | Sierra Leone, JSS3 Term 3, Lessons 108–109, pp.17 and 19, and Lessons 121–122, pp.46 and 48 |
 
-**Acceptance count: taught in 4 countries (Egypt,
-Libya, Mongolia, Laos).** Libya names the zero and first at
+**Acceptance count: taught in 7 countries (Egypt,
+Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone).** Libya names the zero and first at
 Grade 9 and completes the set in its reference;
 Mongolia tables zero and first, teaches the first with
 unless, and reaches the second at Grade 10; Egypt
 climbs one rung a year for three years and never names
-the zero. Other closed countries join as their books
+the zero. Indonesia meets conditionals inside its
+Grade 10 texts and expounds the full type system in the
+teacher guide — the pair's one real grammar-teaching
+passage; Iran tables Type I whole at Vision 2 and gives
+Type II as examples only at Vision 3 (its Type III never
+arrives — see the series verdict in iran.md); Sierra
+Leone runs the widest ladder of all: zero and first at
+SSS2, second, third and mixed at SSS3, all five in one
+review table, with the four-type run already worked at
+JSS3. Other closed countries join as their books
 are read (see READING-QUEUE.md).
 
 **Laos Grade 9 added 2026-10-27** — *English for Secondary

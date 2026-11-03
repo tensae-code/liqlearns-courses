@@ -1,6 +1,6 @@
 # Sources for this lesson — Two-letter sounds
 
-countries: Egypt, Libya, Laos, Barbados, China
+countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The two-letter sets lived inside the alphabet
@@ -25,13 +25,19 @@ single letters.
 | **th** — voiced set against unvoiced set | China — English (PEP) Grade 5 Volume 2, Unit 4, printed p.40 |
 | **ng / nk** on one Let's spell page | China — English (PEP) Grade 5 Volume 2, Unit 5, printed p.50 |
 | **wh** on one Let's spell page | China — English (PEP) Grade 5 Volume 2, Unit 6, printed p.60 |
+| The Grade 8 spelling-and-pronunciation sets, one set per lesson: **ch, sh** · **ee, ay** · **oo** (long and short) · **ea** (with ch again) · **th, ph, wh** · **th** in both values · **ow, ou** | Iran — English for Schools, Prospect 2 (Grade 8), Lessons 1–7, printed pp.12–59 (ee/ay and the st- blend at p.21; oo at p.29; ch/ea at p.36; th in both values at p.51; the whole run checked at Review 3, printed pp.60–63) |
+| Digraph lessons worked from the block's own story or poem: **kn** (silent k) · **ph** · **wr** · **sh** · **th** | Sierra Leone — Language Arts Primary 2: kn, Term 2 Lessons 76–77 (the "Knife" Tiny Tale); ph, Term 2 Lesson 87 ("Friends Forever"); wr, Term 2 Lesson 99 ("Wiggle Your Fingers"); sh, Term 2 Lesson 113 ("Musa Go-Go"); th, Term 3 Lesson 122 ("Good Neighbours") |
 | Review stock: a grouping task sorting ch, sh, th, ng, nk with the blends, and pronunciation-pattern reference tables | China — English (PEP) Grade 6 Volume 2, Recycle, printed p.49; Appendices, printed pp.70–71 |
 
-**Acceptance count: taught in 5 countries (Egypt, Libya, Laos, Barbados, China).**
+**Acceptance count: taught in 7 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone).**
 China adds the first r-controlled-vowel ladder taught as a named
 system (Grade 4 Volume 2), a run of one-pair-per-page Let's spell
 lessons across Grades 5–6 (ea/ee, ow/ou, oo, ch/sh, th, ng/nk,
-wh), and end-of-primary grouping review stock.
+wh), and end-of-primary grouping review stock. Iran adds the
+whole Grade 8 spelling strand — digraphs and vowel pairs as the
+year's literacy line, three or four sets a lesson; Sierra Leone
+adds digraph lessons each worked from its own story or poem in
+Primary 2 (kn, ph, wr, sh, th).
 Counts grow as other closed countries' books are read.
 
 **Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
@@ -190,3 +196,48 @@ PASSED 2026-10-29). Where Egypt grows this lesson book by book
 and Barbados sets it as a programme, China runs it as a ladder:
 one spelling-sound group per unit, each with a chant, a grouping
 task and sentence writing.
+
+**Iran added 2026-11-03** — **Book:** *English for Schools —
+Prospect 2*, Grade 8 Student Book — Iran, Ministry of
+Education — Organization for Educational Research and Planning
+(OERP), ISBN 978-964-05-2337-7. Filed in english/books/iran.md
+(Iran — English Grade 8 Student Book (Prospect 2) — FULLY READ
++ CITATION CHECK PASSED 2026-11-03). Prospect 2's preface moves
+the literacy strand on from Grade 7's single letters to
+digraphs and blends, and the Spelling and Pronunciation page of
+every lesson works one set: Lesson 1 (printed pp.12–17) —
+**ch, sh** (chair spelled C-H-A-I-R; shoes, S-H-O-E-S not
+S-H-O-O-S); Lesson 2 — **ee, ay** (weekdays spelled out; the
+spelling page is printed p.21); Lesson 3 — **oo** in both
+lengths, "double O": short in football, long in afternoon
+(printed p.29); Lesson 4 — **ch** in ache, said with its
+printed transcription, and **ea** saying /e/ in headache and
+health (printed p.36); Lesson 5 (printed pp.42–47) — **th, ph,
+wh** (with que, a three-letter set, beside them); Lesson 6 —
+**th** in both values on one page, /ð/ in there, this, they
+against /θ/ in north, south, thank, three, both transcriptions
+printed (printed p.51); Lesson 7 (printed pp.54–59) — **ow,
+ou** in the lesson's set. Review 3 (printed pp.60–63) checks
+the whole run: one word each for th, ph, que, wh, fl, tr, ing,
+ow, ou. (The same lessons' consonant blends — fr, sp, br, st,
+pl, sw, fl, tr — and the -ing ending are different things and
+live in phonics/blends and the country file.)
+
+**Sierra Leone added 2026-11-03** — **Books:** *Lesson plans
+for PRIMARY Language ARTS*, Primary 2, Terms 2–3 — Sierra
+Leone, Ministry of Education, Science and Technology (teacher
+lesson-plan books; no publication year printed). Filed in
+english/books/sierra-leone.md (Sierra Leone — Language Arts
+Primary 2 — FULLY READ + CITATION CHECK PASSED 2026-11-03).
+Each digraph is one lesson worked from the five-lesson block's
+own text: **kn**, silent k — the Tiny Tale "The Knife" read in
+Lesson 76, its kn words worked in Lesson 77 ("Letters: Kn and
+Oo"); **ph** — Lesson 87, words with /ph/ read and written from
+the story "Friends Forever"; **wr** — Lesson 99, headed
+"Blends/digraphs" in the plan, words with wr read and written
+through the poem "Wiggle Your Fingers"; **sh** — Lesson 113,
+words with /sh/ from the poem "Musa Go-Go"; **th** — Term 3,
+Lesson 122, words with th read, written and illustrated from
+the story "Good Neighbours" (the plan's drawable examples:
+thirteen, mouth, bath). Five pairs, each met inside a story
+first and drilled second — the Sierra Leone shape throughout.

@@ -1,6 +1,6 @@
 # Sources — Adverbs
 
-countries: Bangladesh, Egypt, Ghana, Libya, China
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -31,6 +31,39 @@ People's Education Press (PEP) with Lingo Learning Inc.
 (Canada). Filed in english/books/china.md (Grade 5 Volume 2
 section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 6:** English for Nusantara, Grade 7 (student book) —
+Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan
+Teknologi (Pusat Perbukuan). Filed in english/books/
+indonesia.md (Grade 7 Student Book section, FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
+**Book 7:** English for Nusantara, Grade 8 (student book) —
+Indonesia, same ministry. Filed in english/books/
+indonesia.md (Grade 8 Student Book section, FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
+**Book 8:** English for Schools, Vision 1 — English Grade 10
+Student Book — Iran, Ministry of Education, Organization for
+Educational Research and Planning (OERP). Filed in
+english/books/iran.md (Grade 10 Student Book section, FULLY
+READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 9:** English for Schools, Prospect 3 — English Grade 9
+Student Book — Iran, Ministry of Education, OERP. Filed in
+english/books/iran.md (Grade 9 Student Book section, FULLY
+READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 10:** Language Arts Primary 4 Lesson Plans, Term 2
+(teacher lesson plans) — Sierra Leone, Ministry of
+Education, Science and Technology. Filed in
+english/books/sierra-leone.md (Primary 4 Term 2 section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 11:** Language Arts Primary 6 Lesson Plans, Term 2
+(teacher lesson plans) — Sierra Leone, same ministry. Filed
+in english/books/sierra-leone.md (Primary 6 Term 2 section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition in one line: "Adverbs say how an action is done. The adverb usually comes after the verb." — plus underlining the adverbs in a dialogue (regularly, carefully…) | Bangladesh, English for Today Class 5, LANGUAGE FOCUS: ADVERBS box, p.27 |
@@ -41,13 +74,26 @@ section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
 | Adverbs of frequency — how often something happens — with the percentage ladder (always at the top, never at zero) | Egypt, Primary 5 Term 1, Unit 1, p.12 |
 | Adverbs of frequency as a taught set — always / usually / often / sometimes — introduced in dialogues and drilled in a three-way survey grid tied to weekend activities | China, Grade 5 Volume 2, Unit 1 "My day," pp.7–8 |
 | The later kinds, recorded here as NOT this lesson's core: adverbs of time and place (Ghana B4), manner in full (B5, "Mercy ate slowly"), degree and reason (B6); Egypt's later box sorting manner / place / time / frequency | Ghana, NaCCA English Curriculum B4–6, Grammar Usage strand; Egypt, Preparatory books (see EGYPT-BOOK-MAP) |
+| Adverbs of frequency as a Language Focus of their own — always, usually, often, sometimes, seldom, rarely, never — positioned in sentences and drilled by choosing the adverb that matches a stated fact about study habits | Indonesia, Grade 7, Chapter 4, Unit 3, Language Focus, printed p.191 (drill p.193) |
+| Adverbs of manner as a Language Focus — the -ly set built from the chapter's stories (clumsily, sternly, hesitantly) and the non--ly set (well, fast, hard, much, little, high, straight) | Indonesia, Grade 8, Chapter 5, Unit 2, Language Focus, printed p.265 |
+| The adverb taught as a word kind in its own right: adverbs of manner; how to make -ly adverbs (slow–slowly, angry–angrily, possible–possibly); the irregular adverbs (fast–fast, hard–hard, late–late, good–well) | Iran, Vision 1 (Grade 10), Lesson 4, Writing section, pp.115–117 |
+| Adverbs of frequency on a printed 100%–0% ladder (always, usually, often, sometimes, never), with position examples | Iran, Prospect 3 (Grade 9), Lesson 4, See also, p.70 |
+| Changing adjectives to adverbs, then creating adverbs from adjectives — two lessons of their own | Sierra Leone, Primary 4 Term 2, Lessons 119 and 120 (PDF pp.124, 126) |
+| The functions of adverbs stated in the plan's own words — words that tell more about action words (who is always late, who writes carefully) — then the types of adverbs, frequency among them (always, quickly, there) | Sierra Leone, Primary 6 Term 2, Lessons 111 and 112 |
 
-**Acceptance count: taught in 5 countries (Bangladesh, Egypt,
-Ghana, Libya, China).** Bangladesh carries the definition and the mime
+**Acceptance count: taught in 8 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Indonesia, Iran, Sierra Leone).**
+Bangladesh carries the definition and the mime
 game; Egypt carries the making rule (-ly, y → i) and the
 frequency ladder; Libya carries the adjective-to-adverb move
 inside a story, with the rebels fast and well; Ghana carries
 the first naming and the order the kinds arrive in; China
-carries the frequency set as a survey system. Other
+carries the frequency set as a survey system; Indonesia
+carries the full frequency set as a Language Focus and the
+manner set with its non--ly rebels; Iran carries the adverb
+as a named word kind — manner, the -ly making, the irregulars
+— and a second printed frequency ladder; Sierra Leone carries
+the adjective-to-adverb change as two lessons of its own and
+the function stated plainly. Other
 closed countries join as their books are read (see
 READING-QUEUE.md).

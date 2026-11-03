@@ -1,6 +1,6 @@
 # Sources — Nouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, Laos, China
+countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -32,6 +32,35 @@ People's Education Press (PEP) with Lingo Learning Inc.
 (Canada). Filed in english/books/china.md (Grade 5 Volume 1
 section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 6:** Bahasa Inggris: English for Nusantara Kids,
+Grade 5 (student book) — Indonesia, Kementerian Pendidikan,
+Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan). Filed in
+english/books/indonesia.md (Grade 5 Student Book section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 7:** English for Schools, Vision 1 — English Grade 10
+Student Book — Iran, Ministry of Education, Organization for
+Educational Research and Planning (OERP). Filed in
+english/books/iran.md (Grade 10 Student Book section, FULLY
+READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 8:** English for Schools, Vision 2 — English Grade 11
+Student Book — Iran, Ministry of Education, OERP. Filed in
+english/books/iran.md (Grade 11 Student Book section, FULLY
+READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 9:** Language Arts Primary 2 Lesson Plans, Term 3
+(teacher lesson plans) — Sierra Leone, Ministry of
+Education, Science and Technology. Filed in
+english/books/sierra-leone.md (Primary 2 Term 3 section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 10:** Language Arts Primary 4 Lesson Plans, Term 1
+(teacher lesson plans) — Sierra Leone, Ministry of
+Education, Science and Technology. Filed in
+english/books/sierra-leone.md (Primary 4 Term 1 section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition in its three-sort form: "Nouns — person, place, thing," taught with the "Life in the City" text (Karim) and sorting work | Egypt, Primary 2 Term 2, Unit 4, Lesson 3 "Language in Use," p.68 |
@@ -48,12 +77,28 @@ section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
 | Circle the noun; sort nouns into person / place / thing; sort nouns against verbs — the term's own review work, the model for this lesson's questions | Egypt, Primary 2 Term 2, Final Review, pp.106–108 |
 | The deeper kinds waiting past this lesson's top level — common, proper, collective, abstract nouns | Ghana, NaCCA English Curriculum B4–6, Grammar Usage strand (recorded in CURRICULUM stocking notes; proper names are touched in this lesson only as special names with capitals) |
 | Plural spelling classes worked as a completion table — one banana / two bananas, sandwich → sandwiches; pear, potato, carrot, tomato, noodle, dress, hamburger, box, onion, class sorted into their plural spellings | China, Grade 5 Volume 1, Unit 3, "Let's wrap it up," p.30 |
+| Countable and uncountable nouns sorted as one work set — sixteen food words (cabbage, sugar, spinach, potato, cucumber, rice, celery, pepper, corn, milk, tofu, carrot, garlic, salt, soup) sorted by whether they can be counted, after singular/plural choice work (bear/bears, bowl/bowls, carrot/carrots, spinach/spinaches) | Indonesia, Grade 5, Chapter 1 "Buying Some Mangoes and Spinach," pp.25–26, 29 |
+| Measure words for the uncountables — a bag of garlic, a bunch of spinach, a bottle, a basket, a spoonful of salt — with How many…? / How much…? as the chapter's quantity frames | Indonesia, Grade 5, Chapter 1, pp.18–22 |
+| The noun taught as a word kind in its own right: person/animal, place, thing, idea; regular and irregular plurals; common vs proper nouns, with capitalisation corrections (Avicenna, Damavand, Milad Tower, the Persian Gulf); noun markers a/an, the, this/that, these/those and possessives | Iran, Vision 1 (Grade 10), Lesson 1, Writing section, pp.34–39 |
+| Countable and uncountable nouns again, with the measure-words set — a bottle / cup / glass / bag / piece / slice / kilo / loaf of (plural loaves) — and How many…? / How much…? frames | Iran, Vision 2 (Grade 11), Lesson 1, measure-words Hint, p.30 |
+| Countable nouns used in sentences — counting goats, hens, eggs and apples in drawings (2 goats, 3 hens, 8 eggs, 10 apples as printed), with many and a few; uncountable nouns — milk, bread, wool, meat — that cannot be counted, with some, a lot, a little ("some rice") | Sierra Leone, Primary 2 Term 3, Lessons 137 and 139 (their titles are at PDF pp.38 and 42 of the plans) |
+| Nouns sorted into categories the learners make themselves — people, animals, places, things — then types of nouns picked out of a reading passage | Sierra Leone, Primary 4 Term 1, Lesson 16 (PDF p.38); Lessons 18 and 20 (PDF pp.42, 46) |
+| Plural spelling classes as lessons of their own: -es, then y → -ies, then -ves, then classifying singulars and plurals from a passage | Sierra Leone, Primary 4 Term 1, Lessons 26–29 (PDF pp.58, 60, 62, 64) |
 
-**Acceptance count: taught in 6 countries (Bangladesh, Egypt,
-Ghana, Libya, Laos, China).** Egypt and Bangladesh carry the definition itself,
+**Acceptance count: taught in 9 countries (Bangladesh, Egypt,
+Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone).**
+Egypt and Bangladesh carry the definition itself,
 each in the three-sort form; Libya carries it twice more in its
 own shorter words; Ghana carries the sentence test; China
-carries the plural spellings sorted as a table. Other finished
+carries the plural spellings sorted as a table; Indonesia
+carries countable against uncountable, sorted over food words,
+with measure words; Iran carries the noun as a named word
+kind — its sorts, common against proper, and its markers —
+and the countable/uncountable line again with measure words;
+Sierra Leone carries the categories made by the learners
+themselves, the countable/uncountable pair in Primary 2, and
+the plural spellings -es / -ies / -ves as separate lessons.
+Other finished
 countries join as their books are read (see READING-QUEUE.md).
 
 **Laos Grade 7 added 2026-10-27** — *English for Secondary

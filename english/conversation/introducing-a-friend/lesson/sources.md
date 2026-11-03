@@ -1,6 +1,6 @@
 # Sources for this lesson — Introducing a friend
 
-countries: Egypt, Libya, China, Mongolia
+countries: Egypt, Libya, China, Mongolia, Iran, Indonesia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -17,18 +17,26 @@ disk 2026-10-25: %PDF, 190 pp).
 | Third-person introductions with the meeting frame: "Mr Jones, this is Miss Green." · "Dad, this is Mr Jones." · "This is my brother, Sam." — answered by "Nice to meet you. — Nice to meet you, too." | China — English (PEP) Grade 3 Volume 1, printed pp.13, 14, 61 (meeting frame pp.13, 17) |
 | Introducing where a person is from: "Where are you from? — I'm from + country", with flags and landmark photographs | China — English (PEP) Grade 3 Volume 2, Unit 1, printed pp.2–5, 7 |
 | Introductions in pictures only: children meeting and introducing each other outdoors, a new boy joining — the book prints no English, so this row cites topic and picture, never wording | Mongolia — English V (Grade 5), Unit 1, printed p.10 |
+| Introducing others as a named function: "This is my friend / classmate / English teacher …" with the nice-to-meet-you pair, over the new classmate's arrival — "This is Ali" · "Nice to meet you (too)" · "Welcome to our school" | Iran — Prospect 1 (Grade 7), Lesson 2 "My Classmates," printed pp.10–13 |
+| Introducing a relative or friend to a classmate as a role play, with a third pupil as a guest from another country; and the origin frame that goes with it: "Where are you from? — (I'm/We're from) Iran" | Iran — Prospect 2 (Grade 8), Lesson 1 "My Nationality," printed pp.12–17 |
+| Introducing yourself and others as the chapter's stated objective, worked through comic-strip introductions | Indonesia — English for Nusantara, Grade 7, Chapter 1 "About Me," Unit 1, printed pp.15–27 (objectives printed p.14) |
 
 The same dialog also carries the age exchange and the toy-fish
 talk — those parts are filed in their own places (age: english/age/
 how-old-are-you), not here.
 
-**Acceptance count: taught in 4 countries (Egypt, Libya, China, Mongolia).**
+**Acceptance count: taught in 6 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia).**
 Egypt carries introducing the family — "This is my father /
 mother / sister …" with the "Who's this?" exchange, and a year
 deeper the whole family lineup with my / his / her on family
 sentences; China adds the third-person introduction as a taught exchange
 with its "Nice to meet you" answer, and the from-where frame;
 Mongolia adds the same meeting work carried by pictures alone.
+Iran and Indonesia joined 2026-11-03: Iran teaches the
+"This is my friend …" frame with its nice-to-meet-you answer in
+its second lesson, and the introduce-a-friend role play a year
+later; Indonesia names introducing others as a chapter
+objective and works it through comic strips.
 Counts grow as other closed countries' books are read.
 (Count corrected 2026-10-29 to match this file's own sections —
 the Egypt sections below were already in the file but missing
@@ -85,3 +93,42 @@ Filed in english/books/mongolia.md (Mongolia — English Grade 5
 This Grade 5 merge is Mongolia's first entry in this lesson;
 its row cites the outdoor introduction scenes (printed p.10)
 as topic and picture only.
+
+**Iran added 2026-11-03** — two books stock this lesson:
+**Book:** *English for Schools — Prospect 1*, Grade 7 Student
+Book — Iran, Ministry of Education — Organization for
+Educational Research and Planning (OERP), ISBN
+978-964-05-2207-3. **Book:** *English for Schools — Prospect
+2*, Grade 8 Student Book — Iran, OERP, ISBN 978-964-05-2337-7.
+Both filed in english/books/iran.md (FULLY READ + CITATION
+CHECK PASSED 2026-11-03). Prospect 1, Lesson 2, "My
+Classmates" (printed pp.10–13) is the introduction lesson
+itself: in the school yard two pupils meet the new classmate —
+"Who is that boy?", "This is Ali," "Nice to meet you (too),"
+"Welcome to our school" — and Practice 1 gives the frame in
+full: "This is my friend / classmate / English teacher …"
+with the nice-to-meet-you pair; the lesson's speaking work
+closes on a three-person introduction role play. Prospect 2,
+Lesson 1 (printed pp.12–17) re-runs the move a year up as a
+role play — introduce a relative or friend to a classmate,
+with a third pupil as a guest from another country — beside
+the origin frame, "Where are you from? — (I'm/We're from)
+Iran." (The same lesson's "Who is that boy/girl? — He's /
+She's …" answers are this lesson's neighbour work and are
+filed in conversation/whats-his-and-her-name.)
+
+**Indonesia added 2026-11-03** — **Book:** *English for
+Nusantara untuk SMP/MTs Kelas VII* — Indonesia, Kementerian
+Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan),
+first printing 2022, ISBN 978-602-244-885-3. Filed in
+english/books/indonesia.md (Indonesia — English Grade 7 Student
+Book — FULLY READ + CITATION CHECK PASSED 2026-11-03).
+Chapter 1, "About Me," states the objective outright
+(printed p.14): introduce yourself and others. Unit 1
+(printed pp.15–27) works self- and other-introduction through
+comic strips, and its printed identity table (p.22) carries
+the frames the introductions run on. Indonesia's primary
+books meet new people inside their stories — Bara meets the
+twins at Pipit's house (Grade 3, Chapter 1, printed pp.10–11)
+— but the taught introduction frame is the Grade 7 chapter's,
+and only that is counted here.

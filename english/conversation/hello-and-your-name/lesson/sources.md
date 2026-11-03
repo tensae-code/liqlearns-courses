@@ -1,6 +1,6 @@
 # Sources for this lesson — Greetings
 
-countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia
+countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag.
@@ -29,6 +29,10 @@ side by side on one PDF page — that was wrong.
 | Five printed ways to say goodbye — the closing of the exchange, as its own small set | China — English (PEP) Grade 6 Volume 2, printed p.50 |
 | The self-introduction that brings the family with it: "I'm Tracy and this is my family." — the pupil's own version spoken into an empty speech frame | North Macedonia — EXTRA and Friends, Pupil's Book 2, Checkpoint 1, printed p.10 |
 | Name work in pictures only: a playground scene where the children carry printed name labels (find-and-name), and a teacher welcoming the new boy at the front of the class — the book prints no English, so these rows cite topic and picture, never wording | Mongolia — English V (Grade 5), Unit 1, printed pp.11, 8 |
+| The name exchange as the first chapter's frame — "What is your name? — I am …" — with self-introductions and a Meet and Greet card game | Indonesia — English for Nusantara Kids, Grade 3, Chapter 1 (objectives printed p.2; self-introductions p.5; Meet and Greet pp.12–13) |
+| The identity table stated outright: "What's your name? — My name's… / I'm…" and "Where are you from? — I'm from…" in one printed Language Focus | Indonesia — English for Nusantara, Grade 7, Chapter 1, Unit 1, printed p.22 |
+| The first lesson of the first book is the name exchange itself: "What's your name? — My name's / I'm …", first name against last name, with spelling your name letter by letter | Iran — Prospect 1 (Grade 7), Lesson 1 "My Name," printed pp.6–9; the Welcome's "Let's get to know each other," printed p.5 |
+| Greetings and names as the first lessons of school: the teacher introduces herself/himself by name, a printed A/B greeting dialogue, the story "My Name is Bintu," and the sentence frame "My name is ___." | Sierra Leone — Language Arts Primary 1: Term 1, Lessons 1, 5, 11 and 15 (the Bintu story at PDF p.28 of the Term 1 book); Term 3, Lesson 136 |
 
 **Second country merged 2026-10-25 — Libya:**
 English for Libya, Pupils Book Grade 1 (CERC, Ministry of Education,
@@ -71,13 +75,18 @@ rendered page the same day).
 - Unit 1 "Greeting and Numbers," p. 14 (Hello/Hi, Goodbye/bye tracing;
   "What's your name? / My name's" tracing strips, p. 16).
 
-**Acceptance count: taught in 7 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia).**
+**Acceptance count: taught in 10 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone).**
 China adds name exchanges from its first primary page and the
 "Where are you from? — I'm from …" origin frame (Grades 3), plus
 five printed ways to say goodbye (Grade 6 Volume 2); North
 Macedonia adds the self-introduction that introduces the whole
 family in one frame; Mongolia adds the same name work carried
 by pictures alone, its Grade 5 book printing no English at all.
+Indonesia, Iran and Sierra Leone joined 2026-11-03: Indonesia
+opens its Grade 3 book on the exchange and states it as a
+printed identity table in Grade 7; Iran makes it the first
+lesson of its first English book; Sierra Leone opens school
+with greetings, a name story and the "My name is ___" frame.
 This lesson is the first layer. Courses are built from every CLOSED
 country's books (his ruling, 2026-11-03 — superseding the 2026-10-25
 finished-only rule), and updated as the library updates: when a
@@ -186,3 +195,68 @@ This Grade 5 merge is Mongolia's first entry in this lesson.
 The book is a pure picture book: its rows cite the name-label
 playground (printed p.11) and the class-welcome scene (printed
 p.8) as topics and pictures only.
+
+**Indonesia added 2026-11-03** — two books stock this lesson:
+**Book:** *Bahasa Inggris: English for Nusantara Kids untuk
+SD/MI Kelas III* — Indonesia, Kementerian Pendidikan,
+Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan), first
+printing 2024, ISBN 978-623-388-242-2. **Book:** *English for
+Nusantara untuk SMP/MTs Kelas VII* — Indonesia, Kementerian
+Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan),
+first printing 2022, ISBN 978-602-244-885-3. Both filed in
+english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED
+2026-11-03). Grade 3's first chapter, "My Self," is built on
+this exchange: the frame "What is your name? — I am …" stands
+in the chapter objectives (printed p.2), self-introductions
+follow at p.5, and the Meet and Greet card game practises the
+meeting at pp.12–13. The same chapter's second half teaches
+the origin frame inside the family chapter: "Where are you
+from? — I am from Malang" (Chapter 2 objectives, printed p.34;
+the origins chant at p.49 and the father/mother-from set at
+p.50). Grade 7 states the whole thing as one printed Language
+Focus identity table (Chapter 1, Unit 1, printed p.22):
+"What's your name? — My name's… / I'm…", "Where are you
+from? — I'm from…", with address, age, hobby and siblings
+beside them — the exchange grown into an identity card.
+
+**Iran added 2026-11-03** — **Book:** *English for Schools —
+Prospect 1*, Grade 7 Student Book — Iran, Ministry of
+Education — Organization for Educational Research and Planning
+(OERP), ISBN 978-964-05-2207-3. Filed in english/books/iran.md
+(Iran — English Grade 7 Student Book (Prospect 1) — FULLY READ
++ CITATION CHECK PASSED 2026-11-03). English in Iran starts at
+Grade 7, and its first lesson is this lesson: Lesson 1, "My
+Name" (printed pp.6–9) — a teacher greets the class and elicits
+names; Practice 2 teaches "What's your name? — My name's /
+I'm …" with first name against last name; Sounds and Letters
+has a pupil spell her last name letter by letter ("How do you
+spell …?"). The Welcome section opens the meeting itself:
+"Let's get to know each other" — give your name and ask a
+classmate's (printed p.5). The origin frame arrives a year
+later, in Prospect 2, Lesson 1: "Where are you from? — (I'm /
+We're from) Iran," extended across England, France, Spain,
+China and Brazil (printed pp.12–17). The Grade 7 Workbook
+practises the same ground in writing — a school ID card to
+complete with first and last name (Lesson 1, printed pp.32–34).
+
+**Sierra Leone added 2026-11-03** — **Books:** *Lesson plans
+for PRIMARY Language ARTS*, Primary 1, Terms 1 and 3 — Sierra
+Leone, Ministry of Education, Science and Technology (teacher
+lesson-plan books; no publication year printed). Filed in
+english/books/sierra-leone.md (Sierra Leone — Language Arts
+Primary 1 — FULLY READ + CITATION CHECK PASSED 2026-11-03).
+The first block of Class 1 is "Getting to know each other":
+Lesson 1, "Greetings," has the teacher introduce herself /
+himself by name; Lesson 5 practises greeting with phrases and
+sentences in a short printed A/B dialogue; Lesson 11 tells the
+story "My Name is Bintu," with pupils asking and answering
+questions about it (the story is printed at PDF p.28 of the
+Term 1 book); Lesson 15 has each child recognise their own
+name, in upper-case letters, from its first letter; Lesson 36
+matches names to people, places and objects. The naming frame
+itself is printed in Term 3, Lesson 136, among the sentence
+frames for a simple sentence: "My name is ___. I live in ___."
+Sierra Leone's rows cite the lessons as filed — the greeting
+and naming work is explicit, but no full printed "What's your
+name?" dialogue is claimed, because the country file's map
+does not print one.

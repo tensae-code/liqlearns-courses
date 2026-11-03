@@ -1,6 +1,6 @@
 # Sources — Present actions
 
-countries: Egypt, Ghana, Libya, Mongolia, Laos, China
+countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -42,6 +42,31 @@ book) — China, People's Education Press (with Lingo Learning
 Inc.). Filed in english/books/china.md (FULLY READ +
 CITATION CHECK PASSED 2026-10-29).
 
+**Book 9:** English for Nusantara Kids, Grade 3 (student
+book) — Indonesia, Kemendikbudristek. Filed in
+english/books/indonesia.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
+**Book 10:** English for Nusantara, Grade 7 (student
+book) — Indonesia, Kemendikbudristek. Filed in
+english/books/indonesia.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
+**Book 11:** Prospect 3 — English for Schools, Grade 9
+(student book) — Iran, Ministry of Education (OERP).
+Filed in english/books/iran.md (FULLY READ + CITATION
+CHECK PASSED 2026-11-03).
+
+**Book 12:** Language Arts JSS 1 Pupil Handbook,
+Term 1 — Sierra Leone, Ministry of Basic and Senior
+Secondary Education. Filed in english/books/sierra-leone.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 13:** English Language SSS 1 Pupil Handbook,
+Term 1 — Sierra Leone, Ministry of Basic and Senior
+Secondary Education. Filed in english/books/sierra-leone.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Daily Routines lesson: the routine set with photo sentences at clock times, and the full Present Simple routines box with its spelling work | Egypt, Primary 3 Term 1, Daily Routines lesson (L4), pp.19–26 (the box, p.23) |
@@ -52,15 +77,28 @@ CITATION CHECK PASSED 2026-10-29).
 | The habit question as a system — "Do you often …?" with the weekend-activity set, worked in talk and survey | China, English Grade 5 Volume 1, Unit 2, pp.12, 17–18 |
 | The present continuous at full-unit strength: animals acting first (eating, drinking, playing, jumping, climbing, sleeping), then people in places, carried through a rules unit, with a wrap-up setting routine against now on the same page and an appendix glossing each -ing form against its base verb | China, English Grade 5 Volume 2, Units 5–6, pp.52–53, 56–59, 61–64; Appendix 2, p.74 |
 | The third-person -s taught as a system — cooks, studies, does, goes in word-set phrases, club-ad drills and a wrap-up verb hunt | China, English Grade 6 Volume 1, Unit 4, pp.41, 43–44 |
+| The present continuous as a whole primary chapter for current activities, all persons: "What are you doing? — I am making the bed," "What is she/he doing?," "What are they doing? — They are gardening," over the family's chores | Indonesia, English for Nusantara Kids Grade 3, Chapter 3, printed pp.59–88 |
+| The present simple stated as a full paradigm: verb + -s/-es for he/she/it, negatives with don't / doesn't, questions with do / does, inside the house-chores unit | Indonesia, English for Nusantara Grade 7, Chapter 3, Unit 2, Language Focus, printed p.122 |
+| Present continuous tabled whole: affirmative / negative / yes-no and Wh- questions, over travel actions | Iran, Prospect 3, Lesson 2 "Travel," Grammar, pp.35–36 |
+| Simple present tabled whole: affirmative with third-person -s, negative with don't / doesn't, and do/does questions, over festival actions | Iran, Prospect 3, Lesson 3 "Festivals and Ceremonies," Grammar, pp.55–56 |
+| The simple present as its own grammar lesson: regular habits and always-true facts, "do not" for negatives, -s added with he/she/it | Sierra Leone, JSS 1 Term 1 Handbook, Lesson 30 "The Simple Present Tense" (printed p.57) |
+| The present continuous as its own lesson pair: be (am/are/is) + verb-ing for actions in progress now, -ing spelling changes, negatives with "not," questions by swapping be and the subject | Sierra Leone, JSS 1 Term 1 Handbook, Lessons 46–47 (Lesson 46 printed p.84) |
+| Both faces rebuilt for the senior exam: simple present for facts, repeated actions, emotions and wishes, with -s/-es agreement and its question forms; present continuous for actions happening now, set against the simple present, with the verbs that rarely take the continuous named | Sierra Leone, SSS 1 Term 1 Handbook, Lessons 2–3, printed pp.2, 4, and Lesson 13, printed p.23 |
 
-**Acceptance count: taught in 6 countries (Egypt, Ghana,
-Libya, Mongolia, Laos, China).** Egypt boxes the every-day face inside
+**Acceptance count: taught in 9 countries (Egypt, Ghana,
+Libya, Mongolia, Laos, China, Indonesia, Iran,
+Sierra Leone).** Egypt boxes the every-day face inside
 routines; Mongolia tables the right-now face and its
 questions; Libya's reference names both faces' uses and
 posts the refusal list; Ghana names the simple present's
 jobs; China adds the present continuous at full-unit
 strength across two units and the third-person -s taught as
-a system of its own. Other closed countries join as their books are read
+a system of its own; Indonesia works the right-now face as
+a whole primary chapter and states the every-day paradigm
+in full at Grade 7; Iran tables both faces whole, one
+lesson each; Sierra Leone teaches each face as its own
+lesson pair in JSS 1 and rebuilds both for the senior
+exam in SSS 1. Other closed countries join as their books are read
 (see READING-QUEUE.md).
 
 **Laos Grade 6 added 2026-10-27** — *English for Secondary

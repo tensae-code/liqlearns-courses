@@ -1,6 +1,6 @@
 # Sources for this lesson — Word families
 
-countries: Egypt, Laos, China
+countries: Egypt, Laos, China, Sierra Leone
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -27,14 +27,20 @@ pictures).
 | Short **u** set: fun, run, duck, under — then the whole cycle reviewed: the missing-vowel chant and the Short vowel song with one example pair per vowel | China — English (PEP) Grade 3 Volume 2, Unit 5, printed p.50; reviews printed pp.60, 69 |
 | The silent-e ladder — the short families' long partners taught as named Let's spell pages: **a-e**, **i-e**, **o-e**, **u-e**, then the letter-e set (me/he/she/we against bed/red/get), with a mixed five-pattern sorting grid | China — English (PEP) Grade 4 Volume 1, Let's spell pages, printed pp.6, 16, 26, 40, 50; Recycle 1, printed p.33 |
 | Start to read pages: hunt named letters in mixed upper/lower case and read-and-count the unit's words in a jumbled field — the family words met whole, in the open | China — English (PEP) Grade 3 Volume 1, Start to read pages, printed pp.9, 19, 29, 43, 53, 63 |
+| The **-un** family built by filling in missing letters — sun, run, fun, bun, nun — with the rhyme "Good Morning Sun" | Sierra Leone — Language Arts Primary 1 Lesson Plans, Term 3, Lesson 121 (the plan at PDF p.8 of the Term 3 book) |
+| Named Word Family lessons as a year-long programme — create, read and write a rime family in lesson one; illustrate and label a word from the family in lesson two. Term 1 families: **un, ee, eep, eat, oss, ink, ick, ip, ock** | Sierra Leone — Language Arts Primary 3 Lesson Plans, Term 1, Lessons 13–14, 17–18, 23–24, 34–35, 38, 45, 48, 54, 59 (PDF pp.33, 35, 41, 43, 53, 55, 75, 77, 83, 97, 103, 115, 124) |
+| The programme continued — Term 2 families: **oat, ook, ance, ay, ean, end, ice, oon, ire, ear, ound**; Term 3 families: **ast, ine, ix, est** (ast built from flash-card onsets f, c, m, l, p) | Sierra Leone — Language Arts Primary 3 Lesson Plans, Term 2, Lessons 65, 69, 72, 83, 88, 93, 99–100, 101, 108, 112, 119–120 (PDF pp.16, 24, 30, 52, 62, 72, 84, 86, 88, 102, 110, 124, 126); Term 3, Lessons 122, 128, 133, 138 (PDF pp.8, 20, 30, 40) |
 
-**Acceptance count: taught in 3 countries (Egypt, Laos, China).**
+**Acceptance count: taught in 4 countries (Egypt, Laos, China, Sierra Leone).**
 China adds a complete short-vowel cycle inside one volume —
 one Let's spell set per vowel, reviewed as a whole system
 (Grade 3 Volume 2) — the silent-e ladder that turns those
 short families into their long partners (Grade 4 Volume 1),
 and Start to read pages where the unit's words are hunted and
-counted whole (Grade 3 Volume 1).
+counted whole (Grade 3 Volume 1). Sierra Leone adds the family
+as a named, year-long programme: one first family in Primary 1
+(-un), then twenty-four named Word Family lessons across
+Primary 3.
 Counts grow as other closed countries' books are read.
 
 **Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
@@ -166,3 +172,41 @@ two years and names the magic-e rule in print; China runs the
 same ground as two ladders — the five short vowels in one
 volume, then the five silent-e patterns in the next — each set
 on its own named Let's spell page.
+
+**Sierra Leone added 2026-11-03** — three lesson-plan books
+stock this lesson: **Books:** *Lesson plans for PRIMARY
+Language ARTS*, Primary 1 Term 3 and Primary 3 Terms 1–3 —
+Sierra Leone, Ministry of Education, Science and Technology
+(teacher lesson-plan books; no publication year printed).
+Filed in english/books/sierra-leone.md (Sierra Leone — FULLY
+READ + CITATION CHECK PASSED 2026-11-03). The first family
+comes at the end of Primary 1: Term 3, Lesson 121, "Building
+Short Words," fills in missing letters to build the **-un**
+family — sun, run, fun, bun, nun — under the rhyme "Good
+Morning Sun." Primary 3 then runs word families as a named
+programme with one fixed two-lesson pattern — create, read
+and write a rime family, then illustrate a word from the
+family and label it. Term 1: **un** (Lessons 13–14, PDF
+pp.33, 35 — sun, fun, bun, run) · **ee** (L17–18, PDF pp.41,
+43) · **eep** (L23–24, PDF pp.53, 55) · **eat** (L34–35, PDF
+pp.75, 77) · **oss** (L38, PDF p.83) · **ink** (L45, PDF
+p.97) · **ick** (L48, PDF p.103) · **ip** (L54, PDF p.115) ·
+**ock** (L59, PDF p.124). Term 2: **oat** (L65, PDF p.16) ·
+**ook** (L69, PDF p.24) · **ance** (L72, PDF p.30) · **ay**
+(L83, PDF p.52) · **ean** (L88, PDF p.62) · **end** (L93, PDF
+p.72) · **ice** (L99–100, PDF pp.84, 86 — the second lesson
+writes a simple poem with ice words, from "Soup on Rice") ·
+**oon** (L101, PDF p.88) · **ire** (L108, PDF p.102) · **ear**
+(L112, PDF p.110) · **ound** (L119–120, PDF pp.124, 126 —
+worked through the song "Poda Poda," then written in
+sentences). Term 3: **ast** (L122, PDF p.8 — the family built
+from flash-card onsets f, c, m, l, p) · **ine** (L128, PDF
+p.20) · **ix** (L133, PDF p.30) · **est** (L138, PDF p.40).
+Around the named lessons runs the rhyme strand this lesson's
+pair work grows from: rhyming words matched in Primary 1
+(Lesson 21, the poem "Tall and Ball"; Lesson 60), rhyming
+patterns and written rhyming words in Primary 1 Term 2
+(Lessons 71, 93, 120), and rhyming-word lessons closing
+Primary 2 (Term 2 Lesson 104; Term 3 Lesson 150, "Rhyming
+Animals"). No other country in this file names the family
+itself as the lesson title, term after term.

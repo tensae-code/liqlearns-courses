@@ -1,6 +1,6 @@
 # Sources — Verbs
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -37,6 +37,24 @@ Education, Culture, Science and Sports. Filed in
 english/books/mongolia.md (Grade 5 section, FULLY READ +
 CITATION CHECK PASSED 2026-10-29).
 
+**Book 7:** English for Nusantara, Grade 7 (student book) —
+Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan
+Teknologi (Pusat Perbukuan). Filed in english/books/
+indonesia.md (Grade 7 Student Book section, FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
+**Book 8:** English for Schools, Vision 1 — English Grade 10
+Student Book — Iran, Ministry of Education, Organization for
+Educational Research and Planning (OERP). Filed in
+english/books/iran.md (Grade 10 Student Book section, FULLY
+READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 9:** Language Arts Primary 4 Lesson Plans, Term 1
+(teacher lesson plans) — Sierra Leone, Ministry of
+Education, Science and Technology. Filed in
+english/books/sierra-leone.md (Primary 4 Term 1 section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The formal definition in words: "Verb: A verb is a word that expresses an action." — in the same box that defines noun and pronoun and names the three "parts of speech" | Bangladesh, English for Today Class 3, "Joyful school time 2," GRAMMAR FOCUS box, pp.68–71 |
@@ -51,13 +69,22 @@ CITATION CHECK PASSED 2026-10-29).
 | The he/she/it rule in the book's own words: "for he, she, or it, we add -s to the verb" — with its model pair "I take pictures. My friend rides the camel." | Egypt, Primary 2 Term 2, Unit 5, Language in Use box, p.86 |
 | The he/she/it -s rule taught as a whole system on hobby phrases — cooks Chinese food, studies Chinese, does word puzzles, goes hiking — sorted again in the wrap-up verb hunt | China, Grade 6 Volume 1, Unit 4, pp.40–44 (word set p.41) |
 | Action words carried by pictures alone — daily routines and free-time actions in round picture frames (picture citation only; the book prints no English wording) | Mongolia, English V (Grade 5), Unit 9, printed pp.88, 90, 92, 94 |
+| Action verbs and feeling verbs named as the two verb families inside the describing pattern — the Language Focus states the likes/like verb-form rule "for action and feeling verbs" | Indonesia, Grade 7, Chapter 1, Unit 3, Language Focus, printed p.47 |
+| The verb taught as a word kind in its own right: action verbs against state verbs, and simple against continuous forms (state verbs normally simple — don't like, needed, want, didn't remember as the corrected choices) | Iran, Vision 1 (Grade 10), Lesson 3, Writing section, pp.91–93 |
+| Action verbs picked out of a real passage — selecting the action verbs from the story "My Mother and Her Motorbike," the same passage that serves the noun and pronoun lessons beside it | Sierra Leone, Primary 4 Term 1, Lesson 19 "Reading: Verbs" (PDF p.44) |
+| The two verb families named a term later: lexical/main verbs identified and used, then auxiliary/helping verbs through sentence frames | Sierra Leone, Primary 4 Term 1, Lessons 57 and 59 (PDF pp.120, 124) |
 
-**Acceptance count: taught in 6 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Mongolia).** Bangladesh carries the formal definition;
+**Acceptance count: taught in 9 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone).**
+Bangladesh carries the formal definition;
 Libya the shortest one; Ghana the test and the smallest
 sentence shape; Egypt the review work and the he/she/it -s rule;
 China carries the -s rule as a whole taught system; Mongolia
-carries the actions as pure pictures, with no printed words.
+carries the actions as pure pictures, with no printed words;
+Indonesia names action and feeling verbs inside its describing
+pattern; Iran carries the verb as a named word kind — action
+against state; Sierra Leone carries action verbs picked out of
+a passage, and the main/helping split.
 The tenses themselves are a different thing and are NOT sourced
 here — they live at the Sentence stage (Level 3, Unit 3 "Now,
 Before, Later"). Other closed countries join as their books

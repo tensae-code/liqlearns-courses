@@ -1,6 +1,6 @@
 # Sources — The body
 
-countries: Egypt, Palestine, Laos, China, Mongolia
+countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -32,6 +32,29 @@ Education, Culture, Science and Sports. Filed in
 english/books/mongolia.md (Grade 5 section, FULLY READ +
 CITATION CHECK PASSED 2026-10-29).
 
+**Book 6:** Bahasa Inggris: English for Nusantara Kids,
+Grade 6 (student book) — Indonesia, Kementerian Pendidikan,
+Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan). Filed in
+english/books/indonesia.md (Grade 6 Student Book section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 7:** English for Schools, Prospect 3 — English
+Grade 9 Student Book — Iran, Ministry of Education,
+Organization for Educational Research and Planning (OERP).
+Filed in english/books/iran.md (Grade 9 Student Book
+section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 8:** English for Schools, Prospect 3 — English
+Grade 9 Workbook — Iran, Ministry of Education, OERP.
+Filed in english/books/iran.md (Grade 9 Workbook section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 9:** Language Arts Primary 1 Lesson Plans, Term 1
+(teacher lesson plans) — Sierra Leone, Ministry of
+Education, Science and Technology. Filed in
+english/books/sierra-leone.md (Primary 1 Term 1 section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The body unit set: head, hand, finger, leg, face, nose, mouth — taught by "Listen and touch" on the child's own body (numbers 7–10 traced alongside) | Palestine, Grade 1 Part 1, Unit 4 "My body," p.22 |
@@ -43,13 +66,22 @@ CITATION CHECK PASSED 2026-10-29).
 | The face set — ear, eye, face, nose, mouth — with "Look at me! This is my face" and touch commands; the body set — arm, hand, head, foot, leg, body — with action commands; knees and toes arrive in the song only | China, Grade 3 Volume 1, Unit 3 "Look at me!," pp.25, 28 (song p.30) |
 | Body parts named on animals: a long nose, a short tail, small eyes and big ears | China, Grade 3 Volume 2, Unit 3 "At the zoo," pp.27–28 |
 | The body in pictures: a face close-up and the same boy full-length, touch-the-part actions, and the parts drawn separately below the figure — arm, leg, eye, ear, mouth, nose (picture citation only; the book prints no English wording) | Mongolia, English V (Grade 5), Unit 5, printed pp.46–47; revision, printed p.114 |
+| Body parts named inside the hygiene habit set — wash your hands, cough into your elbow, brush your teeth, comb your hair, clip your nails; take a bath/shower, wash your face, wash your hair — the parts at work, as in Laos's health frame | Indonesia, Grade 6, Chapter 2 "Our Hygiene Habits," key words p.38; habit set p.50 |
+| Body parts named in injury talk: a boy falls and hurts his head, climbs again and burns his hand; the lesson's conversation carries a broke leg and a twisted ankle (printed p.96) | Iran, Prospect 3 (Grade 9), Lesson 6 "Health and Injuries" — conversation p.96; Find it passage (Grammar pp.101–102) |
+| The same parts worked as a sentence-building table — subject × injury verb (break / twisted / burned / hurt) × possessive × body part | Iran, Prospect 3 Workbook (Grade 9), Lesson 6, printed pp.84–95 |
+| Parts of my body as a named first-year lesson: name body parts and use "my," with the song "Head and Shoulders" | Sierra Leone, Primary 1 Term 1, Lesson 14 (the song is printed at PDF p.35 of the plans) |
 
-**Acceptance count: taught in 5 countries (Egypt, Palestine,
-Laos, China, Mongolia).** Palestine carries the core seven by touch;
+**Acceptance count: taught in 8 countries (Egypt, Palestine,
+Laos, China, Mongolia, Indonesia, Iran, Sierra Leone).**
+Palestine carries the core seven by touch;
 Egypt carries the parts at work in the five sense sentences,
 plus three more inside its letter pages; China carries the
 face and body sets with their commands; Mongolia carries the
-body whole and in pieces, in pictures alone. Other finished
+body whole and in pieces, in pictures alone; Indonesia
+carries the parts inside the hygiene habits; Iran carries
+the parts named in injury talk and built into sentences;
+Sierra Leone carries the first-year naming lesson with its
+"Head and Shoulders" song. Other finished
 countries join as their books are read (see READING-QUEUE.md).
 
 **Laos Grade 5 added 2026-10-27** — *Student's Book 3, Grade 5*

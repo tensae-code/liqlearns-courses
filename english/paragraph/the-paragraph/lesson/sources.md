@@ -1,6 +1,6 @@
 # Sources — The paragraph
 
-countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China
+countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -27,6 +27,31 @@ book) — China, People's Education Press (with Lingo Learning
 Inc.). Filed in english/books/china.md (FULLY READ +
 CITATION CHECK PASSED 2026-10-29).
 
+**Book 6:** English for Nusantara Kids, Grade 4 (student
+book) — Indonesia, Kemendikbudristek. Filed in
+english/books/indonesia.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
+**Book 7:** English for Nusantara, Grade 7 (student
+book) — Indonesia, Kemendikbudristek. Filed in
+english/books/indonesia.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
+**Book 8:** Vision 3 — English for Schools, Grade 12
+(student book) — Iran, Ministry of Education (OERP).
+Filed in english/books/iran.md (FULLY READ + CITATION
+CHECK PASSED 2026-11-03).
+
+**Book 9:** Language Arts JSS 1 Pupil Handbook,
+Term 1 — Sierra Leone, Ministry of Basic and Senior
+Secondary Education. Filed in english/books/sierra-leone.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 10:** English Language SSS 3 Pupil Handbook,
+Term 3 — Sierra Leone, Ministry of Basic and Senior
+Secondary Education. Filed in english/books/sierra-leone.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Guided Composition: "two coherent paragraphs by leading questions ('My Home')" — the paragraph written as answers to leading questions | Ghana, NaCCA B1–B3 curriculum, Basic 3, writing strands (as filed) |
@@ -36,13 +61,27 @@ CITATION CHECK PASSED 2026-10-29).
 | Examination paragraphs of set length in the senior years (a paragraph of 150–180 words as a writing task) — the paragraph as the judged unit of writing | Egypt, Secondary writing tasks (as filed in the book map) |
 | A guided-writing ladder, one frame per unit, each fed by a read-and-match model paragraph on the facing page: write about your classroom, your classmate, your room, your family | China, English Grade 4 Volume 1, pp.9, 29, 43, 63 |
 | A formal complaint letter set as the reading text, with the manager's reply to complete — connected prose of paragraph length with a real job to do | China, English Grade 6 Volume 2, Unit 2, pp.18–19 |
+| The series' first guided paragraph: a "My Busy Morning" text built on always + sequence words, as the writing outcome of the morning-routine chapter | Indonesia, English for Nusantara Kids Grade 4, Chapter 1, printed p.11 |
+| A simple descriptive paragraph about a person as a whole chapter's writing outcome, built on the chapter's describing work | Indonesia, English for Nusantara Grade 7, Chapter 1, printed pp.13–56 |
+| THE PARAGRAPH as a named writing lesson: a paragraph defined as a group of sentences about one idea; paragraph format/shape judged across three typesettings of the same text; the topic sentence and its two parts — topic + controlling idea — analysed in models, with the hint that the topic sentence is usually first, sometimes last, can be anywhere | Iran, Vision 3, Lesson 2, Writing: Paragraph, pp.63–67 |
+| The paragraph completed in the next lesson: supporting sentences (explain, give reasons, give examples, tell a short story), non-supporting sentences crossed out, and the concluding sentence as the last sentence repeating the topic sentence's idea | Iran, Vision 3, Lesson 3, Writing: Supporting & Concluding Sentences, pp.91–95 |
+| The paragraph named and sized at JSS 1: a paragraph is 3–5 sentences on one topic, planned by listing related ideas first — then one topic per paragraph in composition, with capital letter to start and end punctuation | Sierra Leone, JSS 1 Term 1 Handbook, Lessons 13–14 |
+| Elements of a good paragraph restated as the senior standard: typically 3 to 5 sentences, topic sentence, supporting sentences using facts, statistics, details, examples, stories, quotes or paraphrase, logical order, no irrelevant material | Sierra Leone, SSS 3 Term 3 Handbook, Lesson 102 "Elements of a Good Paragraph," printed p.11 |
 
-**Acceptance count: taught in 6 countries (Bangladesh,
-Egypt, Ghana, Laos, Barbados, China).** Ghana names the process and prints the
+**Acceptance count: taught in 9 countries (Bangladesh,
+Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran,
+Sierra Leone).** Ghana names the process and prints the
 unity test as a revise question; Bangladesh guides the
 first paragraphs and models them; Egypt examines by the
 paragraph; China adds a model-first writing ladder across
-four units and a formal letter as connected prose. Other closed countries join as their books are
+four units and a formal letter as connected prose;
+Indonesia guides its first paragraph at Grade 4 and sets
+a descriptive paragraph as a chapter outcome at Grade 7;
+Iran names the paragraph outright — definition, format,
+topic sentence as topic + controlling idea — and completes
+it with supporting and concluding sentences; Sierra Leone
+sizes the paragraph at 3–5 sentences on one topic in
+JSS 1 and restates that standard at SSS 3. Other closed countries join as their books are
 read (see READING-QUEUE.md).
 
 **Laos Grade 6 added 2026-10-27** — *English for Secondary

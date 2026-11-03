@@ -1,6 +1,6 @@
 # Sources — Asking with question words
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -38,6 +38,26 @@ book) — China, People's Education Press (with Lingo Learning
 Inc.). Filed in english/books/china.md (FULLY READ +
 CITATION CHECK PASSED 2026-10-29).
 
+**Book 8:** English for Nusantara, Grade 7 (student
+book) — Indonesia, Kemendikbudristek. Filed in
+english/books/indonesia.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
+**Book 9:** English for Nusantara, Grade 8 (student
+book) — Indonesia, Kemendikbudristek. Filed in
+english/books/indonesia.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
+**Book 10:** Prospect 3 — English for Schools, Grade 9
+(student book) — Iran, Ministry of Education (OERP).
+Filed in english/books/iran.md (FULLY READ + CITATION
+CHECK PASSED 2026-11-03).
+
+**Book 11:** Language Arts JSS 1 Pupil Handbooks,
+Terms 2–3 — Sierra Leone, Ministry of Basic and Senior
+Secondary Education. Filed in english/books/sierra-leone.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The question-words table — Who, What, Where, Why, When, How long, How many — each with an example question and the shape of its answer ("I am an engineer" / "In Boston" / "At 7:00" / "For a week" / "Ten") | Mongolia, English VI, Grammar Reference, Unit 10 question words (pp.118–127 span, as filed) |
@@ -50,14 +70,25 @@ CITATION CHECK PASSED 2026-10-29).
 | The question-word shelf of one volume: Where's …?, What time is it?, How many …?, How much …?, Whose …?, What colour …?, "What's the weather like …?" | China, English Grade 4 Volume 2, pp.4–5, 7, 12–21, 22–28, 36, 41, 46–51, 52, 56–63 |
 | The question words sorted as a family — a wrap-up page separating when / what / where / which / whose / why by the answer each one takes, and a spelling page lining the wh- words up with their sound-alikes | China, English Grade 5 Volume 2, pp.20, 60 |
 | The holiday recount frame set, set in the past — "Where did you go? / How did you go there? / What did you do?" | China, English Grade 6 Volume 2, Unit 3, pp.24, 26 |
+| The question words tabled as a catch-up reference: what/who/when/where/which and the rest, each with an example and a gloss | Indonesia, English for Nusantara Grade 7, Chapter 0, section G "WH-Questions," printed p.9 |
+| Wh- questions about the past stated as their own grammar lesson: the five question words with did + base verb, and Wh- questions with was/were | Indonesia, English for Nusantara Grade 8, Chapter 4, Unit 2, Language Focus, printed p.212 |
+| Wh- questions as a whole lesson's grammar: Wh- questions with to be and with do/does, practised over jobs, places, people and times, then over opening times, working days, who helps, where, why and how — with falling intonation on Wh- questions as the lesson's voice work | Iran, Prospect 3, Lesson 4 "Services," Grammar p.69 and Language Melody |
+| The six question words as the frame for talking about special occasions: Who/Where/When/What/Why/How | Sierra Leone, JSS 1 Term 3 Handbook, Lesson 106 "Oral Narrative (My Family)" |
+| The question words named as the signals of the question mark, inside the punctuation pair | Sierra Leone, JSS 1 Term 3 Handbook, Lesson 114 "Punctuation" |
+| The falling voice of the Wh- question, set against the rising yes/no question in the intonation lesson | Sierra Leone, JSS 1 Term 2 Handbook, Lesson 58 "Punctuation and Intonation" |
 
-**Acceptance count: taught in 5 countries (Bangladesh, Egypt,
-Mongolia, Laos, China).** Mongolia tables the family with its answer
+**Acceptance count: taught in 8 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Sierra Leone).** Mongolia tables the family with its answer
 shapes; Bangladesh gives the words their voice; Egypt has
 drilled the questions and whole answers since the youngest
 books; China adds the words worked as whole units — where,
 how many, whose, how much — and a page that sorts the family
-by the answer each word takes. Other closed countries join as their books are read
+by the answer each word takes; Indonesia tables the family
+as reference and states the past Wh- lesson outright; Iran
+gives the family a whole grammar lesson across be and
+do/does, with its falling voice; Sierra Leone frames
+occasion talk on the six words and names them as the
+question mark's signals. Other closed countries join as their books are read
 (see READING-QUEUE.md).
 
 **Laos Grade 4 added 2026-10-27** — *English for Lao Primary

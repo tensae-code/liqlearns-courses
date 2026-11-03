@@ -1,6 +1,6 @@
 # Sources — Building a sentence
 
-countries: Bangladesh, Bolivia, Ghana, Mongolia, China
+countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -29,6 +29,26 @@ book) — China, People's Education Press (with Lingo Learning
 Inc.). Filed in english/books/china.md (FULLY READ +
 CITATION CHECK PASSED 2026-10-29).
 
+**Book 6:** English for Nusantara, Grade 8 (student
+book) — Indonesia, Kemendikbudristek. Filed in
+english/books/indonesia.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
+**Book 7:** Vision 2 — English for Schools, Grade 11
+(student book) — Iran, Ministry of Education (OERP).
+Filed in english/books/iran.md (FULLY READ + CITATION
+CHECK PASSED 2026-11-03).
+
+**Book 8:** Language Arts JSS 1 Pupil Handbook, Term 1 —
+Sierra Leone, Ministry of Basic and Senior Secondary
+Education. Filed in english/books/sierra-leone.md (FULLY
+READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 9:** English Language SSS 1 Pupil Handbook,
+Term 1 — Sierra Leone, Ministry of Basic and Senior
+Secondary Education. Filed in english/books/sierra-leone.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The SIMPLE PRESENT box written as a board paradigm: affirmative Subject + Verb + Complement on "play," negative with do/does not, and the DO–DOES interrogative box beside it — the sentence's three-part formula stated as the book's own grammar frame | Bolivia compendium, the Daily activities text (T8, compendium p.178) |
@@ -36,12 +56,22 @@ CITATION CHECK PASSED 2026-10-29).
 | Sentence-building from a substitution table — seven animals × eats × seven foods — "Make seven meaningful sentences and read them aloud," with pairwork writing two sentences each for an animal (living place + food) | Bangladesh, English for Today Class 2, animals unit, Lesson 2 "Their food," pp.88–89 |
 | Word order set as a standing exercise kind in the books' self-checks — jumbled words to stand in sentence order, unit after unit (Units 2, 5, 6, 9 self-checks) | Mongolia, English VI, Self-Check sections (as filed in the Grade 6 filing) |
 | This/these, that/those taught as one sentence system — "What are these? They're tomatoes." against "What are those? They're sheep / horses," the deliberate contrast seated in Read and write, and the same system run over clothes | China, English Grade 4 Volume 2, Units 4–5, pp.37–38, 41, 43, 48–53 |
+| Sentence types stated as reference — affirmative, negative and Yes/No and WH- questions in present and past be forms, with subject-verb agreement — and sentence structure named as verbal and nominal sentences | Indonesia, English for Nusantara Grade 8, Chapter 0, sections F–G, printed pp.9–13 |
+| The simple sentence built from its parts — subject and verb defined and hunted in model sentences, then objects and additional information (place/time/manner), with sentence-or-fragment sorting, unscrambles and subject/verb/object analysis, closing in five simple sentences of the pupil's own | Iran, Vision 2, Lesson 1, Writing: Simple Sentences, pp.37–45 |
+| Sentence building stated as a rule: every sentence needs a subject and a verb, the parts of speech recombined to build sentences | Sierra Leone, JSS 1 Term 1 Handbook, Lesson 10 "Sentence Building" |
+| Sentences written using all eight parts of speech, each part identified by the job a word does in the sentence | Sierra Leone, SSS 1 Term 1 Handbook, Lessons 5–6, printed pp.8, 10 |
 
-**Acceptance count: taught in 5 countries (Bangladesh,
-Bolivia, Ghana, Mongolia, China).** Bolivia states the formula;
+**Acceptance count: taught in 8 countries (Bangladesh,
+Bolivia, Ghana, Mongolia, China, Indonesia, Iran,
+Sierra Leone).** Bolivia states the formula;
 Ghana names the two parts; Bangladesh drills the building
 from tables; Mongolia checks the order; China adds the
 this/these, that/those sentence system, taught as one
-contrast across two units. Other finished
+contrast across two units; Indonesia tables the sentence
+types and the verbal/nominal split as reference; Iran
+builds the simple sentence part by part — subject, verb,
+object, added information; Sierra Leone states the
+subject-and-verb rule in JSS 1 and writes sentences with
+all eight parts in SSS 1. Other finished
 countries join as their books are read (see
 READING-QUEUE.md).

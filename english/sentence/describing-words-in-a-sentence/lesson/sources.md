@@ -1,6 +1,6 @@
 # Sources — Describing words in a sentence
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -44,6 +44,31 @@ book) — China, People's Education Press (with Lingo Learning
 Inc.). Filed in english/books/china.md (FULLY READ +
 CITATION CHECK PASSED 2026-10-29).
 
+**Book 8:** English for Nusantara Kids, Grade 3 (student
+book) — Indonesia, Kemendikbudristek. Filed in
+english/books/indonesia.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
+**Book 9:** English for Change, Grade 11 (student
+book) — Indonesia, Kemendikbudristek. Filed in
+english/books/indonesia.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
+**Book 10:** Vision 1 — English for Schools, Grade 10
+(student book) — Iran, Ministry of Education (OERP).
+Filed in english/books/iran.md (FULLY READ + CITATION
+CHECK PASSED 2026-11-03).
+
+**Book 11:** Language Arts JSS 1 Pupil Handbook,
+Term 2 — Sierra Leone, Ministry of Basic and Senior
+Secondary Education. Filed in english/books/sierra-leone.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 12:** Language Arts JSS 3 Pupil Handbook,
+Term 1 — Sierra Leone, Ministry of Basic and Senior
+Secondary Education. Filed in english/books/sierra-leone.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The eight pictured adjective + noun pairs — a fresh mango, a bad mango, a clean shirt, a dirty shirt, a new bike, an old bike, a happy cat, an angry cat — description seated before the noun in every pair | Bangladesh, English for Today Class 4, Unit 22 "Tune up!", pp.44–45 |
@@ -55,9 +80,16 @@ CITATION CHECK PASSED 2026-10-29).
 | Describing friends: the word set tall, strong, friendly, quiet, short, thin, then describing in sentences — "My friend has blue glasses" — and read-and-match descriptions to named children | China, English Grade 4 Volume 1, Unit 3, pp.25, 28–29 |
 | "What's he like?" — describing people by character: polite, shy, helpful, hard-working, clever, kind, strict, carried in talk and in a written description to imitate | China, English Grade 5 Volume 1, Unit 1, pp.3, 7–9 |
 | Comparatives as a whole taught system — adjective + -er + than in two staged word sets, the formation wrap-up table with doubling and -y rules in its examples, and comparatives carried inside stories and songs: the fullest single treatment in the pool so far | China, English Grade 6 Volume 2, Unit 1, pp.2–11 (sets pp.5, 7; table p.10; stories pp.8–9, 11) |
+| Describing a teacher two ways, as one taught pair: "What is he like?" (character — kind, patient, strong, friendly) against "What does she look like?" (appearance), with a word grid of describing words (short, tall, curly, cheerful, smart, pretty…) | Indonesia, English for Nusantara Kids Grade 3, Chapter 6, section B, printed pp.168–180 (pair pp.169–172; grid p.176) |
+| Comparing taught in print at senior level: the comparative-degree grammar focus (-er vs more, its affix patterns set as an investigation task), then superlatives as their own speaking grammar focus (-est vs most, with pronunciation practice) and temple-comparison pair work | Indonesia, English for Change Grade 11, Unit 5, Listening Grammar Focus, printed pp.183–188, and Speaking, printed pp.189–199 |
+| Adjectives placed and compared as one lesson: adjectives before nouns; as…as equality; comparative and superlative tables worked on Iranian geography, with a Hint box of irregular forms (good–better–best, bad–worse–worst, far–farther–farthest, many/much–more–most) and longer-adjective more / most | Iran, Vision 1, Lesson 2, Grammar, pp.52–57 |
+| The adjective as a word class in the writing strand: kinds by quality/opinion, size, age, colour, nationality, material; the two homes stated — before a noun, after be — with the comparison spelling table (hot–hotter–hottest, easy–easier–easiest) | Iran, Vision 1, Lesson 2, Writing: the adjective, pp.62–67 |
+| Adjectives in their two sentence homes, stated as the grammar point: adjectives modify nouns and pronouns, before the noun or after "is" (a red bicycle / the bicycle is red) — then descriptions built with strings of adjectives, and adjectives of quality sorted by shape, size, age, colour and taste | Sierra Leone, JSS 1 Term 2 Handbook, Lessons 79–80 and Lessons 82–83 |
+| Comparing adjectives and adverbs as a taught pair inside the JSS 3 comparison work | Sierra Leone, JSS 3 Term 1 Handbook, Lessons 43–44 |
 
-**Acceptance count: taught in 5 countries (Bangladesh,
-Egypt, Mongolia, Laos, China).** Bangladesh pictures the before-home in
+**Acceptance count: taught in 8 countries (Bangladesh,
+Egypt, Mongolia, Laos, China, Indonesia, Iran,
+Sierra Leone).** Bangladesh pictures the before-home in
 eight pairs; Mongolia names the describing law, writes the
 sense-verb home, and posts the comparing border — and its
 Grade 5 picture book now adds describing stock in pictures
@@ -65,7 +97,13 @@ alone (big/small, tall/short, old/young), cited by topic
 and picture, under Mongolia's existing count; Egypt's
 youngest books seat description after be from the first
 year; China adds describing people and animals by their
-parts and the pool's fullest single comparatives system.
+parts and the pool's fullest single comparatives system;
+Indonesia teaches the like/look-like describing pair at
+Grade 3 and comparing in print at Grade 11; Iran places
+the adjective in both its homes and tables comparison
+with its irregular set; Sierra Leone states the
+before-noun / after-is homes, sorts quality adjectives,
+and compares adjectives and adverbs in JSS 3.
 Other closed countries join as their books are read
 (see READING-QUEUE.md).
 

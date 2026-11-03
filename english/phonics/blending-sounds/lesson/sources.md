@@ -1,6 +1,6 @@
 # Sources for this lesson — Blending sounds
 
-countries: Egypt, Libya, Laos, China
+countries: Egypt, Libya, Laos, China, Sierra Leone
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The blending material lived inside the alphabet
@@ -16,12 +16,19 @@ letters.
 | The whole alphabet run as five phonics sets — a–d, e–i, j–n, o–t, u–z — each set chanted through picture words, then listen-and-circle discrimination | China — English (PEP) Grade 3 Volume 1, Letters and sounds pages, printed pp.16, 26, 40, 50, 60 |
 | A complete short-vowel cycle in one volume — one Let's spell set per vowel (a, e, i, o, u) with whole-system reviews: the missing-vowel chant and the Short vowel song | China — English (PEP) Grade 3 Volume 2, Let's spell pages, printed pp.6, 16, 26, 40, 50; reviews pp.60, 69 |
 | Review stock: a blend/digraph grouping task sorting the sounds learned so far (cl, pl, br, fr, ch, sh, th, ng, nk), and pronunciation-pattern reference tables | China — English (PEP) Grade 6 Volume 2, Recycle, printed p.49; Appendices, printed pp.70–71 |
+| Decoding as the named end of the letter sequence: decode (sound out and blend) unfamiliar words | Sierra Leone — Language Arts Primary 2 Lesson Plans, Term 2, Lesson 120 |
+| Combining letter sounds as a named teaching block, with building words from letters and work on the sounds at the start and end of words (initial/final sounds) | Sierra Leone — Language Arts Primary 1 Lesson Plans, Term 2: the "Combining Letter Sounds" block (Lessons 71–75); Lesson 90 (build words from letters); Lesson 105 (Phonemic Awareness — initial/final sounds) |
+| Using the sounds of two letters together, then matching sounds to letters and words | Sierra Leone — Language Arts Primary 2 Lesson Plans, Term 1, Lessons 47 and 49 (letters Hh and Ii) |
 
-**Acceptance count: taught in 4 countries (Egypt, Libya, Laos, China).**
+**Acceptance count: taught in 5 countries (Egypt, Libya, Laos, China, Sierra Leone).**
 China adds the alphabet stocked as five phonics sets rather than
 letter by letter (Grade 3 Volume 1), a complete short-vowel cycle
 inside one volume (Grade 3 Volume 2), and end-of-primary review
 stock that sorts the learned sounds into groups (Grade 6 Volume 2).
+Sierra Leone adds blending named as the skill itself: a
+"Combining Letter Sounds" block in Primary 1, and decoding —
+sound out and blend — as the closing lesson of Primary 2's
+letter sequence.
 Counts grow as other closed countries' books are read.
 
 **Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
@@ -69,3 +76,24 @@ FULLY READ + CITATION CHECK PASSED 2026-10-29). China's sets are
 chanted and circled, not tiled or slid — the sounds arrive as
 whole sets with picture words, the grouping task at the end of
 primary school sorting them back into their families.
+
+**Sierra Leone added 2026-11-03** — three lesson-plan books
+stock this lesson: **Books:** *Lesson plans for PRIMARY
+Language ARTS*, Primary 1 Term 2, Primary 2 Term 1 and Primary
+2 Term 2 — Sierra Leone, Ministry of Education, Science and
+Technology (teacher lesson-plan books; no publication year
+printed). Filed in english/books/sierra-leone.md (Sierra Leone
+— FULLY READ + CITATION CHECK PASSED 2026-11-03). Sierra Leone
+builds toward blending in steps: Primary 1 Term 2 carries a
+whole teaching block named "Combining Letter Sounds" (Lessons
+71–75), Lesson 90 distinguishes letters from words and builds
+words from letters, and Lesson 105 works the sounds at the
+start and end of words (initial/final sounds) as a standalone
+phonemic-awareness lesson. Primary 2 Term 1 has the child use
+the sounds of two letters together (Lesson 47, Hh and Ii) and
+match sounds to letters and words (Lesson 49). The sequence
+ends, in Primary 2 Term 2, Lesson 120, on the skill named
+outright: **decoding — decode (sound out and blend) unfamiliar
+words** — the term and the Class 2 letter sequence close on
+blending, not on a new text. Where Laos blends with letter
+tiles in the hand, Sierra Leone names the move itself.

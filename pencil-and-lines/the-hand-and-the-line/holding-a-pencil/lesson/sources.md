@@ -1,6 +1,6 @@
 # Sources — Holding a pencil
 
-countries: Egypt, Libya
+countries: Egypt, Libya, Sierra Leone
 
 Course: Pencil and Lines — the prerequisite course before every
 language course (his ruling, 2026-10-25).
@@ -8,6 +8,7 @@ language course (his ruling, 2026-10-25).
 | Lesson part | Where it comes from |
 |---|---|
 | "Let's learn how to hold a pencil correctly" — the 5 grip pictures | Egypt — English Language KG1 Term 1 (student book), book p.1 (PDF p.5 of English_KG1_Tr1.pdf; verified on disk 2026-10-25: %PDF, 8,212,061 B, 100 pp, image-only — page read as a picture) |
+| Holding the pencil correctly, taught inside learning to use an exercise book — front cover from back cover, how to open and close it, how to hold a pencil correctly | Sierra Leone — Language Arts Primary 1 Lesson Plans, Term 1, Lesson 17 ("Different parts of a book") |
 
 (The Trace box on the same page is the source of the Drawing lines
 lesson, next door.)
@@ -49,9 +50,23 @@ the teacher in Grade 1, written as steps in Grade 2 — and its
 steps cover more than the grip: sitting and the book's angle
 come with it.
 
-**Acceptance count: taught in 2 countries (Egypt — printed
+Third country (added 2026-11-03): Sierra Leone — *Lesson plans
+for PRIMARY Language ARTS*, Primary 1, Term 1 (Ministry of
+Education, Science and Technology, Sierra Leone; teacher
+lesson-plan book, no publication year printed; full read in
+english/books/sierra-leone.md). Lesson 17, "Different parts of
+a book," teaches the child to use an exercise book correctly —
+front cover from back cover, how to open and close it, and
+**how to hold a pencil correctly**. Sierra Leone names the
+grip inside book-handling, where Egypt prints the grip
+pictures and Libya names it as a course aim: three countries,
+three ways into the same first move — the hand is taught
+before the letters in all three.
+
+**Acceptance count: taught in 3 countries (Egypt — printed
 picture steps; Libya — named aim in Grade 1, printed word
-steps in Grade 2).**
+steps in Grade 2; Sierra Leone — the grip named inside
+exercise-book handling, Primary 1 Term 1, Lesson 17).**
 This material began inside the English course (as Letter →
 before-the-letters) and was moved here when he ruled it a normal
 course of its own, prerequisite before every language — it is not

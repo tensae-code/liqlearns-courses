@@ -1,6 +1,6 @@
 # Sources — Animals
 
-countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia
+countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -55,6 +55,29 @@ Education, Culture, Science and Sports. Filed in
 english/books/mongolia.md (Grade 5 section, FULLY READ +
 CITATION CHECK PASSED 2026-10-29).
 
+**Book 10:** Bahasa Inggris: English for Nusantara Kids,
+Grade 6 (student book) — Indonesia, Kementerian Pendidikan,
+Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan). Filed in
+english/books/indonesia.md (Grade 6 Student Book section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 11:** English for Schools, Vision 1 — English Grade 10
+Student Book — Iran, Ministry of Education, Organization for
+Educational Research and Planning (OERP). Filed in
+english/books/iran.md (Grade 10 Student Book section, FULLY
+READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 12:** Language Arts Primary 3 Lesson Plans, Term 1
+(teacher lesson plans) — Sierra Leone, Ministry of
+Education, Science and Technology. Filed in
+english/books/sierra-leone.md (Primary 3 Term 1 section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 13:** Language Arts Primary 2 Lesson Plans, Term 3
+(teacher lesson plans) — Sierra Leone, same ministry. Filed
+in english/books/sierra-leone.md (Primary 2 Term 3 section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The farm dialog (Noor and Ziad): "Look at the cow!" — "The cow is big." — "The duck is small." — "Do you see the horse?" — "The chicken is small." — "I love farm animals!" | Egypt, Primary 1 Term 1, Unit 5 "On the Farm," Lesson 1, p.85 |
@@ -70,13 +93,23 @@ CITATION CHECK PASSED 2026-10-29).
 | The farm set: horses, cows, hens, sheep — ducks and goats in use beside them — and a printed animal-sounds table (cat meow, duck quack, dog woof, hen cluck, cow moo, horse neigh) | China, Grade 4 Volume 2, Unit 4 "At the farm," pp.41–43 (sounds table p.41) |
 | The zoo set met doing things: bear, tiger, monkey, elephant, rabbit, panda, each caught in the present continuous | China, Grade 5 Volume 2, Unit 5 "Whose dog is it?," pp.53, 56–58 |
 | Wild animals in real photographs — giraffe, monkeys, a marmot, a hippo, an elephant, a leopard — and the farm row (cow, cat, dog, horse, rooster, pig, goose, sheep) with its whole-farm scene (picture citation only; the book prints no English wording) | Mongolia, English V (Grade 5), Units 5–6, printed pp.48, 62–63 |
+| The zoo set sorted into the animal classes — mammals, reptiles, amphibians, fish, birds — with the pictured set (salamander, lion, crocodile, eagle, koi fish, elephant) and a family zoo trip told class by class | Indonesia, Grade 6, Chapter 3 "A Trip to the Zoo," animal set p.69; trip comic pp.74–80 |
+| The zoo animals at work in model sentences — Bara's father petted a turtle; Bara's mother fed the giraffe (the chapter's past activity verbs: walked, fed, pointed, petted, took a selfie) | Indonesia, Grade 6, Chapter 3, Part B, p.83 |
+| Endangered animals as a reading: whales, pandas, tigers and Asian elephants surviving only in small numbers, their forest, lake and plain homes destroyed; the Iranian cheetah living only on Iran's plains — with the Persian zebra of Tooran and the Persian lion in the word work before it | Iran, Vision 1 (Grade 10), Lesson 1, New Words pp.20–21; Reading "Endangered Animals," p.22 |
+| Forest animals and where they are, as a Tiny Tale the class co-writes from a printed frame | Sierra Leone, Primary 3 Term 1, Lesson 16 (PDF p.39) |
+| Animals named with their articles as a board set — a lion, an elephant, some zebras, many monkeys — inside the articles/quantity lesson, over the song "Ranger Abdul," a game-park ranger | Sierra Leone, Primary 2 Term 3, Lesson 145 |
 
-**Acceptance count: taught in 6 countries (Bangladesh, Egypt,
-Libya, Palestine, China, Mongolia).** Egypt carries the farm four with the first
+**Acceptance count: taught in 9 countries (Bangladesh, Egypt,
+Libya, Palestine, China, Mongolia, Indonesia, Iran,
+Sierra Leone).** Egypt carries the farm four with the first
 size pair; Palestine carries the youngest learners' set;
 Bangladesh carries homes and foods as whole sentences; Libya
 carries the wild names inside its letter list; China carries
 the near/far sets, the describing-by-parts work, and the farm
 and zoo sets; Mongolia carries the wild animals in
-photographs and the farm in one whole scene. Other finished
+photographs and the farm in one whole scene; Indonesia
+carries the zoo set sorted into the five animal classes;
+Iran carries the endangered set and where each survives;
+Sierra Leone carries forest animals and where they are, and
+the article board set. Other finished
 countries join as their books are read (see READING-QUEUE.md).

@@ -1,6 +1,6 @@
 # Sources for this lesson — Blends
 
-countries: Egypt, China
+countries: Egypt, China, Iran
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -20,11 +20,15 @@ pictures).
 | Opening blends **cl / pl** on one Let's spell page, with a chant, a grouping task and sentence writing | China — English (PEP) Grade 5 Volume 2, Unit 1, printed p.6 |
 | Opening blends **gr / br** on one Let's spell page, same shape | China — English (PEP) Grade 5 Volume 2, Unit 2, printed p.16 |
 | Review stock: a grouping task sorting the blends **cl, pl, br, fr** with the digraphs | China — English (PEP) Grade 6 Volume 2, Recycle, printed p.49 |
+| Opening blends inside the Grade 8 spelling sets, one lesson at a time: **fr, sp, br** · **st** · **pl, sw** · **fl, tr** — st- said with no /e/ before it (study), pl- said with no /e/ between the letters (play), sw- in swimming | Iran — English for Schools, Prospect 2 (Grade 8), Lessons 1, 2, 3 and 6, printed pp.12–17, 21, 29 and 48–53; the whole run checked at Review 3, printed pp.60–63 |
 
-**Acceptance count: taught in 2 countries (Egypt, China).**
+**Acceptance count: taught in 3 countries (Egypt, China, Iran).**
 China joins with blends taught two at a time on Let's spell
 pages in Grade 5 (cl/pl, gr/br) and sorted again in the
-end-of-primary grouping review (Grade 6 Volume 2).
+end-of-primary grouping review (Grade 6 Volume 2). Iran joins
+with blends carried inside its Grade 8 spelling sets — eight
+opening blends across four lessons, each taught by how it is
+said (no added /e/), and checked with the digraphs at Review 3.
 Counts grow as other closed countries' books are read.
 
 ### Egypt — Primary 3 Term 1 (read 2026-10-25) — three-letter blends
@@ -87,3 +91,23 @@ READ + CITATION CHECK PASSED 2026-10-29). China's blends arrive
 late and in pairs — two blends per Let's spell page in the last
 primary years, each with a chant and a grouping task, where Egypt
 starts them in Primary 1.
+
+**Iran added 2026-11-03** — **Book:** *English for Schools —
+Prospect 2*, Grade 8 Student Book — Iran, Ministry of
+Education — Organization for Educational Research and Planning
+(OERP), ISBN 978-964-05-2337-7. Filed in english/books/iran.md
+(Iran — English Grade 8 Student Book (Prospect 2) — FULLY READ
++ CITATION CHECK PASSED 2026-11-03). Prospect 2's literacy
+strand is digraphs and blends together, and the blends sit
+inside the same Spelling and Pronunciation sets as the
+digraphs: Lesson 1 (printed pp.12–17) — **fr, sp, br**; Lesson
+2 — **st**, taught by its saying: the st- of "study" is said
+with no /e/ at the beginning, the wrong pronunciation starred
+(printed p.21); Lesson 3 — **pl, sw**: why P-L-A-Y is said
+without /e/ between P and L, and how to say sw- in "swimming"
+(printed p.29); Lesson 6 (printed pp.48–53) — **fl, tr**.
+Review 3 (printed pp.60–63) checks the blends with the rest of
+the run (one word each for th, ph, que, wh, fl, tr, ing, ow,
+ou). Iran's blends are never a lesson of their own — they are
+the consonant half of a spelling set whose other half is the
+digraphs filed in phonics/two-letter-sounds.

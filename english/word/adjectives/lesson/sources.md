@@ -1,6 +1,6 @@
 # Sources — Adjectives
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -56,6 +56,44 @@ Education, Culture, Science and Sports. Filed in
 english/books/mongolia.md (Grade 5 section, FULLY READ +
 CITATION CHECK PASSED 2026-10-29).
 
+**Book 10:** Bahasa Inggris: English for Nusantara Kids,
+Grade 3 (student book) — Indonesia, Kementerian Pendidikan,
+Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan). Filed in
+english/books/indonesia.md (Grade 3 Student Book section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 11:** Bahasa Inggris: English for Nusantara Kids,
+Grade 4 (student book) — Indonesia, same ministry. Filed in
+english/books/indonesia.md (Grade 4 Student Book section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 12:** Bahasa Inggris: English for Nusantara Kids,
+Grade 6 (student book) — Indonesia, same ministry. Filed in
+english/books/indonesia.md (Grade 6 Student Book section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 13:** English for Schools, Vision 1 — English Grade 10
+Student Book — Iran, Ministry of Education, Organization for
+Educational Research and Planning (OERP). Filed in
+english/books/iran.md (Grade 10 Student Book section, FULLY
+READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 14:** English for Schools, Prospect 1 — English Grade 7
+Student Book — Iran, Ministry of Education, OERP. Filed in
+english/books/iran.md (Grade 7 Student Book section, FULLY
+READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 15:** Language Arts Primary 3 Lesson Plans, Term 1
+(teacher lesson plans) — Sierra Leone, Ministry of
+Education, Science and Technology. Filed in
+english/books/sierra-leone.md (Primary 3 Term 1 section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 16:** Language Arts Primary 2 Lesson Plans, Term 1
+(teacher lesson plans) — Sierra Leone, same ministry. Filed
+in english/books/sierra-leone.md (Primary 2 Term 1 section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition as questions, and the rule that finds adjectives: "Adjectives tell us about the things – are they big, small, happy, sad? • Adjectives and nouns go together." | Libya, Grade 5 Pupils Book, Unit 6, "Let's check!" box |
@@ -72,14 +110,30 @@ CITATION CHECK PASSED 2026-10-29).
 | Taste adjectives on food: sweet, hot, fresh, healthy, delicious | China, Grade 5 Volume 1, Unit 3, p.28 |
 | Feeling adjectives: angry, afraid, sad, worried, happy, ill | China, Grade 6 Volume 1, Unit 6, p.59 |
 | Size and age pairs in pictures only: two cats, one big and one small; a family row standing tall/short and old/young (picture citation only; the book prints no English wording) | Mongolia, English V (Grade 5), Unit 5, printed pp.49, 52 |
+| The two describing questions kept apart — "What is he like?" (character: kind, patient, strong, friendly) against "What does she look like?" (appearance) — with a bingo word grid of describing words (short, straight, white, boring, black, cute, weak, patient, tall, gray, strong, curly, cheerful, confident, smart, pretty) | Indonesia, Grade 3, Chapter 6 "My Teachers," pp.169–172 (grid p.176) |
+| Taste and texture adjectives as a printed glossary — taste: sweet, sour, delicious/yummy, bitter, spicy, salty, fresh; texture: soft, hard, crunchy, chewy, creamy — then used to describe picnic dishes | Indonesia, Grade 4, Chapter 2 "Meal Time," glossary p.41 (use pp.44–45) |
+| Describing by colour, shape and taste as a matching set — long green leaves with hollow stems; green and leafy; brown and round; long, green and bitter; orange, long and crunchy — over the vegetable sets | Indonesia, Grade 6, Chapter 1 "Healthy Vegetables," p.8 |
+| Adjectives before nouns as the grammar of the lesson, with as…as equality; the comparison tables and the irregular hint box belong to the comparison lesson, as in Egypt | Iran, Vision 1 (Grade 10), Lesson 2, Grammar, pp.52–57 |
+| The adjective taught as a word kind in its own right: kinds by quality/opinion, size, age, colour, nationality, material; the places an adjective stands (before a noun, after be) | Iran, Vision 1 (Grade 10), Lesson 2, Writing section, pp.62–67 |
+| The first describing pairs on people, with clothes and colour: tall/short, young/old — "He's the tall man. He's wearing a gray suit"; a tall woman in a black chador; a short boy in a white shirt; an old man in a green jacket | Iran, Prospect 1 (Grade 7), Lesson 5 "My Appearance," printed pp.28–31 |
+| Describing a best friend with adjectives (tall, short, honest, caring…) and saying what you like about them; a partner lesson describing yourself — complexion, eyes and height | Sierra Leone, Primary 3 Term 1, "Describe Your Best Friend" (PDF p.13) and "Describing Self with Adjectives" (PDF pp.17–18) |
+| Adjectives describing people and places as a named lesson — describing people, places, animals and objects | Sierra Leone, Primary 3 Term 1, Lesson 22 (PDF p.51) |
+| Colour words as a describing set: name and use colour words to describe | Sierra Leone, Primary 2 Term 1, Lesson 22 |
 
-**Acceptance count: taught in 6 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Mongolia).** Libya carries the definition twice and the
+**Acceptance count: taught in 9 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone).**
+Libya carries the definition twice and the
 pairs inside a story; Bangladesh carries the pictured pairs;
 Egypt carries the fullest statement of what adjectives tell;
 Ghana carries the weather use and the three positions; China
 carries the colour set, the animal pairs, and the character,
 taste and feeling sets; Mongolia carries the size and age
-pairs in pictures alone. Other
+pairs in pictures alone; Indonesia carries the character
+against appearance questions, the taste/texture glossary, and
+vegetables described by colour, shape and taste; Iran carries
+the adjective as a named word kind with its kinds and places,
+and the first describing pairs on people in Prospect 1;
+Sierra Leone carries describing a friend and yourself, and
+colour words as a describing set. Other
 closed countries join as their books are read (see
 READING-QUEUE.md).

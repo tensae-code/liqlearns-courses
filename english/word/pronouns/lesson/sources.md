@@ -1,6 +1,6 @@
 # Sources — Pronouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, China
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -46,6 +46,39 @@ People's Education Press (PEP) with Lingo Learning Inc.
 (Canada). Filed in english/books/china.md (Grade 5 Volume 2
 section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 9:** English for Nusantara, Grade 7 (student book) —
+Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan
+Teknologi (Pusat Perbukuan). Filed in english/books/
+indonesia.md (Grade 7 Student Book section, FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
+**Book 10:** Bahasa Inggris: English for Nusantara Kids,
+Grade 3 (student book) — Indonesia, same ministry. Filed in
+english/books/indonesia.md (Grade 3 Student Book section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 11:** English for Schools, Prospect 3 — English
+Grade 9 Student Book — Iran, Ministry of Education,
+Organization for Educational Research and Planning (OERP).
+Filed in english/books/iran.md (Grade 9 Student Book
+section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 12:** Language Arts Primary 1 Lesson Plans, Term 1
+(teacher lesson plans) — Sierra Leone, Ministry of
+Education, Science and Technology. Filed in
+english/books/sierra-leone.md (Primary 1 Term 1 section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 13:** Language Arts Primary 2 Lesson Plans, Term 1
+(teacher lesson plans) — Sierra Leone, same ministry. Filed
+in english/books/sierra-leone.md (Primary 2 Term 1 section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 14:** Language Arts Primary 2 Lesson Plans, Term 2
+(teacher lesson plans) — Sierra Leone, same ministry. Filed
+in english/books/sierra-leone.md (Primary 2 Term 2 section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The set's title and every plain definition, kept in the book's own words: "Personal Pronouns — Words We Use Instead of Names" — I: "When you talk about yourself" · he: "When you talk about a boy or a man" · she: "When you talk about a girl or a woman" · it: "When you talk about an animal or a thing" · we: "When you talk about yourself and others together" · they: "When you talk about more than one person, animal, or thing" · you: "When you talk to one person or to a group" | Egypt, Primary 1 Term 2, p.27 |
@@ -59,13 +92,27 @@ section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
 | The whose-forms with names and family words: "Whose …? — They're John's. / It's my brother's." — and standing alone: "Whose coat is this? — It's mine." / "They're your father's." | China, Grade 4 Volume 2, Unit 5 "My clothes," pp.46–51 |
 | Possessive pronouns standing alone as the complete set — mine, yours, his, hers, ours, theirs (with its for animals) — taught through "Whose … is this? — It's mine / It's his" and re-tested in a mixed wrap-up | China, Grade 5 Volume 2, Unit 5 "Whose dog is it?," pp.46–49 (wrap-up p.54) |
 | The later kinds, recorded here as NOT this lesson: object forms (me, him, us, them), reflexive, relative, reciprocal pronouns | Ghana, NaCCA English Curriculum JHS 1–3, Strand 3; Egypt, Preparatory books (see the book maps) |
+| Personal and possessive pronouns taught together in two comic lessons — I/my, she/her, he/his, they/their — then drilled on the cast's hobbies | Indonesia, Grade 7, Chapter 1, Unit 2, printed pp.35 and 37 |
+| The whose-question with the possessive answers: "Whose pencil is this?" — possessive 's and his/her ("That is Bara's ruler. It is his ruler.") | Indonesia, Grade 3, Chapter 5, p.138 |
+| The full possessive-adjective set — my, your, his, her, its, our, their — as a See also set beside the simple-present lesson | Iran, Prospect 3 (Grade 9), Lesson 3, See also (Grammar pp.55–56) |
+| Object pronouns — me, you, her, him, it, us, them — set beside the subject set as a See also, a later kind here as in Ghana | Iran, Prospect 3 (Grade 9), Lesson 6, See also, p.102 |
+| Personal pronouns from the first year: "I" for yourself ("I am…"), she for a girl, he for a boy, it/they-type pointing work with a book and pencils — introduced in Lesson 46, practised in full in Lesson 56 | Sierra Leone, Primary 1 Term 1, Lessons 46 and 56 |
+| Singular pronouns in simple sentences — I (point to self), you, she (a girl), he (a boy) — with the song "You and I"; then the swap itself: replacing nouns with pronouns in sentences, using the story "Sahr and I" | Sierra Leone, Primary 2 Term 1, Lessons 37 and 39 |
+| Possessive pronouns for things that belong — my, our, your — in frames of the "This is my pencil / your pencil" type over classroom objects | Sierra Leone, Primary 2 Term 2, Lesson 103 |
 
-**Acceptance count: taught in 5 countries (Bangladesh, Egypt,
-Ghana, Libya, China).** Egypt carries the seven words with the
+**Acceptance count: taught in 8 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Indonesia, Iran, Sierra Leone).** Egypt
+carries the seven words with the
 plainest definitions any book gives them, and the first
 whose-box; Bangladesh carries the formal definition; Libya
 carries the shortest definition and the replacement work;
 Ghana carries the standing-alone whose-forms; China carries
 he/she in speech from its first year and the complete
-standing-alone set in one Grade 5 unit. Other finished
+standing-alone set in one Grade 5 unit; Indonesia carries
+the personal and possessive sets taught together in comics,
+and the whose-question in Grade 3; Iran carries the full
+possessive-adjective set and the object set beside the
+subject set; Sierra Leone carries the first-year pointing
+set, the noun-to-pronoun swap as its own lesson, and
+my/our/your for things that belong. Other finished
 countries join as their books are read (see READING-QUEUE.md).

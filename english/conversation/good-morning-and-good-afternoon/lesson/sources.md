@@ -1,6 +1,6 @@
 # Sources for this lesson — Good morning and good afternoon
 
-countries: Egypt, Libya, China, Mongolia
+countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -16,12 +16,20 @@ explains one thing only.
 | "Greetings — Listen, repeat, and act out": Hello / Good morning | Egypt — English KG2 Term 1, book p.2 |
 | "Good morning / Good afternoon" — both greetings taught inside the colours unit, as a pair that follows the time of day | China — English (PEP) Grade 3 Volume 1, Unit 2, printed pp.14, 17 |
 | The day in parts, carried by clocks: one boy's day in six clock scenes — waking, leaving his mother, meeting a friend, coming home, walking the dog, in bed at night — the greeting's day-part ground in pictures only (the book prints no English, so this row cites topic and picture, never wording) | Mongolia — English V (Grade 5), Unit 1, printed p.7 |
+| The time-of-day greetings taught as one set of four — good morning / afternoon / evening / night — opening the first chapter | Indonesia — English for Nusantara Kids, Grade 3, Chapter 1, Section A, printed pp.3–4 |
+| "Good morning / afternoon" with Mr./Mrs./Miss + name, inside the first lesson's greeting practice | Iran — Prospect 1 (Grade 7), Lesson 1 "My Name," Practice 1, printed pp.6–9 |
+| "Good morning / Good afternoon / Good evening" matched to times of day in the very first lesson; the song "Good Morning"; and the greeting pair opening every lesson of the book ("Good morning / Good afternoon") | Sierra Leone — Language Arts Primary 1 Lesson Plans, Term 1, Lessons 1–2 and the book's repeated lesson Opening |
 
-**Acceptance count: taught in 4 countries (Egypt, Libya, China, Mongolia).**
+**Acceptance count: taught in 7 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone).**
 China teaches the pair inside its colours unit in the first
 primary book; Mongolia stocks the day-part ground the greeting
 stands on — one boy's whole day told in clock pictures — from a
-book with no printed English at all.
+book with no printed English at all. Indonesia, Iran and Sierra
+Leone joined 2026-11-03: Indonesia teaches the greetings as a
+set of four with evening and night; Iran teaches the pair with
+a teacher's title and name; Sierra Leone matches the greetings
+to the times of day in its first lesson and opens every lesson
+with the pair.
 Counts grow as other closed countries' first books are read.
 
 **China added 2026-10-29** — **Book:** *Compulsory Education
@@ -41,3 +49,43 @@ Filed in english/books/mongolia.md (Mongolia — English Grade 5
 This Grade 5 merge is Mongolia's first entry in this lesson;
 its row cites the day-part clock scenes (printed p.7) as topic
 and picture only.
+
+**Indonesia added 2026-11-03** — **Book:** *Bahasa Inggris:
+English for Nusantara Kids untuk SD/MI Kelas III* — Indonesia,
+Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi
+(Pusat Perbukuan), first printing 2024, ISBN
+978-623-388-242-2. Filed in english/books/indonesia.md
+(Indonesia — English Grade 3 Student Book — FULLY READ +
+CITATION CHECK PASSED 2026-11-03). The greetings open the
+book: Chapter 1, Section A (printed pp.3–4) teaches the
+time-of-day greetings as one set — good morning, good
+afternoon, good evening, good night — before the
+self-introductions at p.5. Indonesia's set is the widest in
+this file: four greetings, the whole day, where the lesson's
+own pair is the set's first two.
+
+**Iran added 2026-11-03** — **Book:** *English for Schools —
+Prospect 1*, Grade 7 Student Book — Iran, Ministry of
+Education — Organization for Educational Research and Planning
+(OERP), ISBN 978-964-05-2207-3. Filed in english/books/iran.md
+(Iran — English Grade 7 Student Book (Prospect 1) — FULLY READ
++ CITATION CHECK PASSED 2026-11-03). Lesson 1's greeting
+practice (printed pp.6–9) teaches good morning / afternoon
+with the teacher's title and name — Mr./Mrs./Miss + name —
+the pair used to greet a teacher, inside the same practice
+that carries this file's how-are-you exchange.
+
+**Sierra Leone added 2026-11-03** — **Book:** *Lesson plans
+for PRIMARY Language ARTS*, Primary 1, Term 1 — Sierra Leone,
+Ministry of Education, Science and Technology (teacher
+lesson-plan book; no publication year printed). Filed in
+english/books/sierra-leone.md (Sierra Leone — Language Arts
+Primary 1 Term 1 — FULLY READ + CITATION CHECK PASSED
+2026-11-03). Lesson 1, "Greetings," teaches "Good morning /
+Good afternoon / Good evening" matched to the times of day;
+Lesson 2 sings the song "Good Morning" and tracks its print
+left to right. Above the lessons, the pair is the book's own
+daily frame: every one of the sixty lessons opens with the
+greeting "Good morning / Good afternoon" — the greeting is
+not only taught, it is how every school day in the book
+begins.

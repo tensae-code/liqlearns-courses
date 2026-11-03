@@ -1,6 +1,6 @@
 # Sources — The passive
 
-countries: Egypt, Libya, Mongolia, Laos, China
+countries: Egypt, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -26,6 +26,37 @@ it!") — China, People's Education Press. Filed in
 english/books/china.md (FULLY READ + CITATION CHECK
 PASSED 2026-10-29).
 
+**Book 5:** English for Nusantara, Grade 9 (Student Book)
+— Indonesia, Kemendikbudristek. Filed in
+english/books/indonesia.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
+**Book 6:** Bahasa Inggris: Life Today, Grade 12
+(Student Book) — Indonesia, Kemendikbudristek. Filed in
+english/books/indonesia.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
+**Book 7:** Vision 3 — English for Schools, Student Book,
+Grade 12 — Iran, Ministry of Education, Organization
+for Educational Research and Planning (OERP). Filed in
+english/books/iran.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
+**Book 8:** Language Arts JSS3 Pupil Handbook, Term 2
+— Sierra Leone, Ministry of Basic and Senior Secondary
+Education. Filed in english/books/sierra-leone.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 9:** English Language SSS3 Pupil Handbook, Term 1
+— Sierra Leone, Ministry of Basic and Senior Secondary
+Education. Filed in english/books/sierra-leone.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 10:** English Language SSS1 Pupil Handbook, Term 3
+— Sierra Leone, Ministry of Basic and Senior Secondary
+Education. Filed in english/books/sierra-leone.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The PASSIVE discovery — the active/passive pair ("Edison invented the light bulb in 1879." → "The light bulb was invented by Edison in 1879.") and the rule as printed: "The passive is formed with be + past participle," + transformations | Mongolia, English X, Unit 6 "Inventions," p.86 |
@@ -43,9 +74,17 @@ PASSED 2026-10-29).
 | The PAST passive as the next whole unit: "When was it invented? — It was invented by Whitcomb Judson in 1893," carried through the basketball reading (Naismith; the first game, December 21, 1891) | China, Grade 9, Unit 6 "When was it invented?", Grammar Focus p.44 (unit pp.41–48) |
 | The MODAL passive: should (not) be allowed to — and active sentences about rules converted into the passive in the practice set | China, Grade 9, Unit 7 "Teenagers should be allowed to choose their own clothes," Grammar Focus p.52 (unit pp.49–56) |
 | The passive stated again in the book's own reference set, in the back-matter Grammar tables | China, Grade 9, Grammar, pp.150–155 |
+| The passive introduced inside the report genre: used when the action matters more than the doer, with active→passive pairs on the chapter's own animals and verb-choice items (is found / are eaten / is drunk) | Indonesia, Grade 9, Chapter 1, Unit 3, Language Focus, printed p.65 |
+| The passive as a descriptive-text tool, stated in full: be + past participle, used when the doer is unimportant or unknown — worked on the charity-shop text ("It is run by student volunteers"), with modal passives among the practice items ("can be donated"); Progress Check 2 then tests active→passive transformations | Indonesia, Grade 9, Chapter 4, Unit 3, Language Focus, printed p.251; Progress Check 2, printed p.342 |
+| The passive spread inside the discussion unit: a full passive-voice spread taught in print and re-explored on the meat text in annotated tables | Indonesia, Life Today, Grade 12, Unit 4, pp.172–175 |
+| The passive discovered from a text written almost wholly in it (the Hafez lead text), then active/passive pairs in three coats — present, past, and present perfect passive ("The cars have been fixed") — with a choose-the-form paragraph on inventions | Iran, Vision 3, Lesson 1, Grammar, pp.29–30 |
+| The PASSIVE WITH MODALS: from three active/passive pairs (should call → should be called; may make → may be made; must obey → must be obeyed) to transformations and doer-less pair talk, opened by a lead text in modal passive throughout | Iran, Vision 3, Lesson 3, Grammar, pp.86–87 |
+| Changing Sentences from Active to Passive Voice: active (subject does the action) vs passive (subject receives it), and converting between them | Sierra Leone, JSS3 Term 2, Lesson 77, p.54 |
+| Active and Passive Voice taught properly in two lessons: identifying voice in a text through its sentence functions, then the conversion both ways — move the object, add a "to be" verb form, add "by" + subject | Sierra Leone, SSS3 Term 1, Lessons 7–8, pp.14 and 18 |
+| The emphasis lesson: active stresses the doer, passive stresses the action or receiver — more conversions both ways | Sierra Leone, SSS1 Term 3, Lessons 135–136, pp.82 and 84 |
 
-**Acceptance count: taught in 5 countries (Egypt,
-Libya, Mongolia, Laos, China).** Mongolia discovers the shape from the
+**Acceptance count: taught in 8 countries (Egypt,
+Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone).** Mongolia discovers the shape from the
 Edison pair, drills by + agent in its inventions unit,
 and spreads the present/past/future coats in its clothing
 unit and reference. Libya prints the full five-tense
@@ -56,7 +95,16 @@ twins (Prep 9). China gives the fullest single-book
 run yet: the present and past passives as whole
 consecutive units, the modal passive inside its rules
 unit, and the whole set tabled again in its Grammar
-reference. Other closed countries join as their
+reference. Indonesia introduces the passive inside its
+new report genre (action over doer), restates it as
+be + participle with modal passives in descriptive text,
+and spreads it again inside the Grade 12 discussion unit;
+Iran discovers it from a passive-saturated text, pairs it
+in present, past and present perfect coats, and completes
+it with the modal passive; Sierra Leone converts between
+the voices from JSS3, teaches the conversion properly at
+SSS3 (object moved, be form added, by + doer), and adds
+the emphasis lesson — doer vs action or receiver. Other closed countries join as their
 books are read (see READING-QUEUE.md).
 
 **Laos Grade 9 added 2026-10-27** — *English for Secondary

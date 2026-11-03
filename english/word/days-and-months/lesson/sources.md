@@ -1,6 +1,6 @@
 # Sources — Days and months
 
-countries: Bangladesh, Egypt, Laos, China
+countries: Bangladesh, Egypt, Laos, China, Indonesia, Iran, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -26,6 +26,34 @@ People's Education Press (PEP) with Lingo Learning Inc.
 (Canada). Filed in english/books/china.md (Grade 5 Volume 2
 section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 5:** Bahasa Inggris: English for Nusantara Kids,
+Grade 4 (student book) — Indonesia, Kementerian Pendidikan,
+Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan). Filed in
+english/books/indonesia.md (Grade 4 Student Book section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 6:** English for Schools, Prospect 2 — English
+Grade 8 Student Book — Iran, Ministry of Education,
+Organization for Educational Research and Planning (OERP).
+Filed in english/books/iran.md (Grade 8 Student Book
+section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 7:** English for Schools, Prospect 1 — English
+Grade 7 Student Book — Iran, Ministry of Education, OERP.
+Filed in english/books/iran.md (Grade 7 Student Book
+section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 8:** Language Arts Primary 1 Lesson Plans, Term 1
+(teacher lesson plans) — Sierra Leone, Ministry of
+Education, Science and Technology. Filed in
+english/books/sierra-leone.md (Primary 1 Term 1 section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 9:** Language Arts Primary 2 Lesson Plans, Term 1
+(teacher lesson plans) — Sierra Leone, same ministry. Filed
+in english/books/sierra-leone.md (Primary 2 Term 1 section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "How many days are there in a week?" — "There are 7 days in a week"; the seven days listened and repeated Saturday-first (Egypt's school week); the list teaching after/before with arrows | Egypt, Primary 1 Term 2, Unit 1 "My Week," Lesson 1 "Days of the Week," p.6 |
@@ -39,17 +67,30 @@ section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
 | The seven days as a class timetable grid — "What do you have on Mondays?" — the days carried by the week's lessons | China, Grade 5 Volume 1, Unit 2 "My week," p.15 |
 | All twelve months taught inside a school-and-festival calendar — Tree Planting Day in March, Dragon Boat Festival in June, Mid-Autumn Day in September or October, Teachers' Day in September, National Day on October 1st, Thanksgiving, Christmas | China, Grade 5 Volume 2, Unit 3 "My school calendar," pp.25, 28 |
 | The month-length chant in its other traditional form: "Thirty days has September, April, June and November; February has twenty-eight alone…" | China, Grade 5 Volume 2, Recycle 2, p.67 |
+| The seven days as the school week — the days printed, then the week's subjects on a schedule, with the schedule song | Indonesia, Grade 4, Chapter 6 "My School Days," Part A, the seven days p.131 (subjects pp.132–134; song p.135) |
+| All twelve months, then dates with ordinal numbers (eleventh–thirty-first, the suffixes printed in the table) and the birthday frame — "When is your birthday? — It is on September 27" (the book's date table prints two suffix errors, "21th" and "31th," in its numeral row; its word row has Twenty-first and Thirty-First) | Indonesia, Grade 4, Chapter 6, Part B, months pp.143–144; ordinals pp.144–145; birthday story p.146 |
+| The week as the Iranian school week: weekdays Saturday–Wednesday in the reference box, the weekend Thursday and Friday; "What do you do in the mornings/afternoons/evenings?", "When / What days do you …?" — go to school every weekday, shopping every Wednesday afternoon, sports on Saturdays and Tuesdays, the library on Sunday afternoons | Iran, Prospect 2 (Grade 8), Lesson 2 "My Week," printed pp.18–23 |
+| The seven weekdays and the twelve Gregorian month names, printed with their Persian equivalents beside them (the book's own birthday lesson works in Persian-calendar months — Farvardin to Esfand — so the Gregorian set lives in the Photo Dictionary) | Iran, Prospect 1 (Grade 7), Photo Dictionary, Lesson 3 section (printed pp.48–76; the weekday page is printed p.53) |
+| Days of the week as a first-year lesson: name all the days of the week in pairs, from word cards (Sierra Leone's books teach the days only — no months lesson appears in its primary plans) | Sierra Leone, Primary 1 Term 1, Lesson 10 |
+| The days named and ordered inside a story — "Joseph's Week" (the Primary 1 days, in a story) | Sierra Leone, Primary 2 Term 1, Lesson 54 |
 
-**Acceptance count: taught in 4 countries (Bangladesh,
-Egypt, Laos, China).** Egypt carries the days first (its school-week
+**Acceptance count: taught in 7 countries (Bangladesh,
+Egypt, Laos, China, Indonesia, Iran, Sierra Leone).** Egypt
+carries the days first (its school-week
 order, Saturday-first); Bangladesh carries the days on a
 Sunday-first calendar, the months with their ordinal numbers,
 the capital rule, and the days-in-a-month rhyme; China
 carries the days on a class timetable and the months as
 festival dates, with the thirty-days chant in its "Thirty
-days has September" form. The two
+days has September" form; Indonesia carries the days as the
+school week's subjects and the months with ordinal birthday
+dates; Iran carries the week in its own shape — Saturday to
+Wednesday as weekdays, Thursday and Friday as the weekend —
+and the Gregorian months in its Photo Dictionary, its lesson
+working in Persian-calendar months; Sierra Leone carries the
+days only, named from word cards and ordered in a story. The
 books start the printed week on different days — the lesson
-shows both, per the standing rule for when books differ.
+shows each, per the standing rule for when books differ.
 Other closed countries join as their books are read (see
 READING-QUEUE.md).
 

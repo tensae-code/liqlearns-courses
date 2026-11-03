@@ -1,6 +1,6 @@
 # Sources — Numbers
 
-countries: Egypt, India, Palestine, Laos, China, Mongolia
+countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -60,6 +60,39 @@ Education, Culture, Science and Sports. Filed in
 english/books/mongolia.md (Grade 5 section, FULLY READ +
 CITATION CHECK PASSED 2026-10-29).
 
+**Book 11:** Bahasa Inggris: English for Nusantara Kids,
+Grade 3 (student book) — Indonesia, Kementerian Pendidikan,
+Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan). Filed in
+english/books/indonesia.md (Grade 3 Student Book section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 12:** Bahasa Inggris: English for Nusantara Kids,
+Grade 5 (student book) — Indonesia, same ministry. Filed in
+english/books/indonesia.md (Grade 5 Student Book section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 13:** English for Schools, Prospect 1 — English
+Grade 7 Student Book — Iran, Ministry of Education,
+Organization for Educational Research and Planning (OERP).
+Filed in english/books/iran.md (Grade 7 Student Book
+section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 14:** English for Schools, Vision 2 — English
+Grade 11 Student Book — Iran, Ministry of Education, OERP.
+Filed in english/books/iran.md (Grade 11 Student Book
+section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 15:** Language Arts Primary 1 Lesson Plans, Term 1
+(teacher lesson plans) — Sierra Leone, Ministry of
+Education, Science and Technology. Filed in
+english/books/sierra-leone.md (Primary 1 Term 1 section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 16:** Language Arts Primary 3 Lesson Plans, Term 2
+(teacher lesson plans) — Sierra Leone, same ministry. Filed
+in english/books/sierra-leone.md (Primary 3 Term 2 section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Count objects and match them with the correct number (4 leaves, 1 sun, 5 apples, 2 tulips, 3 pineapples); "How many pencils are there? There are (2–3) pencils" / "How many stars are there? There are (3–5) stars"; trace the numbers 1–5, each row headed by that many strawberries | Egypt, KG2 (I Love My Family unit's number work), pp.54–55 |
@@ -75,15 +108,31 @@ CITATION CHECK PASSED 2026-10-29).
 | Ordinals as a working date system: 1st–5th with event dates, the harder forms 12th, 20th, 21st, 23rd, 30th with birthday dates, and a cardinal ↔ ordinal table with gap-fills | China, Grade 5 Volume 2, Unit 4 "When is the art show?," pp.36, 39, 42, 44 |
 | Measuring people in numbers: height, weight and shoe size compared — "I'm 1.65 metres" | China, Grade 6 Volume 2, Unit 1, pp.4, 6 |
 | Numbers 1–10 as walking figure-characters, and counted sets of classroom things in tick-box and matching panels (picture citation only; the book prints no English wording) | Mongolia, English V (Grade 5), Unit 3, printed pp.28, 29, 31 |
+| Numbers 1–10 taught inside Song Time, with the age question beside them ("How old are you? — I am … years old") | Indonesia, Grade 3, Chapter 1, song p.7; age p.8 |
+| The climb past ten in one page: 11–30 plus 40 and 50 in the counting song, the ladder jumping 30 → 40 → 50 — then "How many desks are there?" (the book's numbers stop at 50, and 31–39 are never printed) | Indonesia, Grade 3, Chapter 5, p.121 (counting question p.122) |
+| Counting on pictured fruit at the market: "There are seven rambutans on the table," inside the full buying frames — "How many kilos do you want? / How many … are in … kilos?" | Indonesia, Grade 5, Chapter 1, p.11 (frames pp.13–16) |
+| Numbers checked as a first page of school English: check the numbers 1–10 you know, with a Numbers Song, and write your telephone number | Iran, Prospect 1 (Grade 7), Welcome, printed p.4 |
+| Numbers 1 to 31 for birthdays, then numbers 1 to 100 a lesson later — the Photo Dictionary prints the number words: one to twenty, then thirty, forty, fifty, sixty, seventy, eighty, ninety, one hundred | Iran, Prospect 1 (Grade 7), Lesson 3, printed pp.16–21; Lesson 4, printed pp.22–25; Photo Dictionary, Lesson 3 section (printed pp.48–76) |
+| Numbers as a See also system: cardinals one to one billion, before nouns and before adjective+noun, in full decade tables — with teen against ten drilled as pronunciation ("Did you say eighty or eighteen?") and prices asked and answered in Tomans | Iran, Vision 2 (Grade 11), Lesson 1, See also: Numbers, pp.32–33; Pronunciation p.36; prices pp.34–35 |
+| Counting in words 1–10 with the song "Count and Eat"; number words 0–20 in the title of a later lesson, taught as counting and number words 0–10 / 1–10 with the poem "One, Two, I Love Fufu" | Sierra Leone, Primary 1 Term 1, Lessons 16 and 43 |
+| Counted classroom objects labelled with number words 1–10 — one door, two cups, three pencils, four rulers, five books, six windows, seven bottle tops, eight leaves, ten stones (examples as printed) | Sierra Leone, Primary 1 Term 1, Lesson 44 |
+| The climb in printed tables: number words 20 to 40, then 0 to 50, the plan's second page printing the table "NUMBER WORDS 40-50" (forty, forty-one, forty-two…) | Sierra Leone, Primary 3 Term 2, Lesson 76 (PDF p.38) and Lesson 110 (PDF p.106; table p.107) |
 
-**Acceptance count: taught in 6 countries (Egypt, India,
-Palestine, Laos, China, Mongolia).** Palestine carries the youngest path (numbers
+**Acceptance count: taught in 9 countries (Egypt, India,
+Palestine, Laos, China, Mongolia, Indonesia, Iran,
+Sierra Leone).** Palestine carries the youngest path (numbers
 inside the word units, traced); Egypt carries the counting
 question and the climb (1–5, 11–20, by tens to 100); India
 carries the same 1–20 in its first book; China carries the
 whole climb again with its counting questions, prices,
 ordinals as dates, and measuring; Mongolia carries 1–10 as
-picture characters over counted sets. Other finished
+picture characters over counted sets; Indonesia carries
+1–10 in song, the ladder to 50, and counting on market fruit;
+Iran carries 1–10 checked at the door, 1–31, then 1–100, and
+the senior climb to one billion with teen against ten;
+Sierra Leone carries counting in words from the first term,
+labelled counted objects, and printed tables to 50. Other
+finished
 countries join as their books are read (see READING-QUEUE.md).
 
 **Laos Grade 3 added 2026-10-27** — *English for Primary Schools,

@@ -1,6 +1,6 @@
 # Sources — Past actions
 
-countries: Bolivia, Ghana, Mongolia, Laos, China
+countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -23,6 +23,31 @@ book) — China, People's Education Press (with Lingo Learning
 Inc.). Filed in english/books/china.md (FULLY READ +
 CITATION CHECK PASSED 2026-10-29).
 
+**Book 5:** English for Nusantara Kids, Grade 6 (student
+book) — Indonesia, Kemendikbudristek. Filed in
+english/books/indonesia.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
+**Book 6:** English for Nusantara, Grade 8 (student
+book) — Indonesia, Kemendikbudristek. Filed in
+english/books/indonesia.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
+**Book 7:** Prospect 3 — English for Schools, Grade 9
+(student book) — Iran, Ministry of Education (OERP).
+Filed in english/books/iran.md (FULLY READ + CITATION
+CHECK PASSED 2026-11-03).
+
+**Book 8:** Language Arts JSS 1 Pupil Handbook,
+Term 1 — Sierra Leone, Ministry of Basic and Senior
+Secondary Education. Filed in english/books/sierra-leone.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 9:** English Language SSS 1 Pupil Handbook,
+Term 1 — Sierra Leone, Ministry of Basic and Senior
+Secondary Education. Filed in english/books/sierra-leone.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | PAST SIMPLE box — subject + verb-ed + rest, positive and negative — and the "Do you remember these verbs?" matching list of irregular pasts (went, had, took, came, saw, gave, ate, drank, could, was/were…) | Mongolia, English VI, Unit 6 "School Trips," Lesson 2, p.64 (box and list as filed) |
@@ -31,14 +56,28 @@ CITATION CHECK PASSED 2026-10-29).
 | The SIMPLE PAST opened in the strand (with the past continuous beside it: "use simple past and the past continuous forms…") — the past as the tense of narratives and recounts | Ghana, NaCCA B4–B6 curriculum, Strand 5 (as filed) |
 | The past staged in two units: the regular -ed set first, with its formation table and time ladder, then the irregular set (rode, hurt, fell, ate, took, bought, went, saw) with a 54-pair reference table behind it | China, English Grade 6 Volume 2, Unit 2, pp.12–21 (table p.20, ladder p.17); Unit 3, pp.22–31 (table p.69) |
 | was/were + could/couldn't for past states and change — "there was/were (no)…", "… years ago", before/now change talk | China, English Grade 6 Volume 2, Unit 4, pp.32–41 |
+| The past simple as the recount tense in a whole primary chapter: "Did you see…? — Yes, I did!," "Where did you go?," with last weekend / two weeks ago, over a zoo trip retold in time order | Indonesia, English for Nusantara Kids Grade 6, Chapter 3, printed pp.67–94 (core pp.74–80) |
+| The book's printed irregular-past table — build–built, see–saw, light–lit, go–went, take–took, eat–ate — set under the camping email the past work builds on | Indonesia, English for Nusantara Kids Grade 6, Chapter 5, printed p.148 |
+| The Past Simple stated outright: regular verbs formed with -d/-ed/-ied, irregular verbs learned as wholes, with a table sorting the dialogues' verbs into the two classes | Indonesia, English for Nusantara Grade 8, Chapter 1, Unit 1, Language Focus, printed p.31 |
+| Regular simple past on the full frame: affirmative / negative with didn't / Did…? questions, and past Wh- questions — with was/were and there was / there were beside it | Iran, Prospect 3, Lesson 5 "Media," Grammar, pp.87–88 |
+| Irregular simple past on the same frame (worked verb speak – spoke), with an alphabetical base-form / past-simple table of about 70 verbs closing the book | Iran, Prospect 3, Lesson 6 "Health and Injuries," Grammar, pp.101–102; Irregular Verbs, printed pp.131–133 |
+| The simple past as its own lesson pair: completed past actions, regular -ed plus a table of common irregulars (leave–left, meet–met, do–did, see–saw, run–ran, was/were), then past time markers — yesterday, last year, three months ago — placed at the start or end of a sentence | Sierra Leone, JSS 1 Term 1 Handbook, Lessons 31–32 |
+| The past rebuilt for the senior exam, regular first: -ed formation, then irregular forms that do not take -ed, in statements, questions and negatives | Sierra Leone, SSS 1 Term 1 Handbook, Lesson 19, printed p.34, and Lesson 20, printed p.37 |
 
-**Acceptance count: taught in 5 countries (Bolivia, Ghana,
-Mongolia, Laos, China).** Mongolia boxes the -ed frame and drills the
+**Acceptance count: taught in 8 countries (Bolivia, Ghana,
+Mongolia, Laos, China, Indonesia, Iran, Sierra Leone).** Mongolia boxes the -ed frame and drills the
 movers by name; Bolivia states the whole paradigm including
 the Did/didn't law; Ghana seats the simple past where
 stories live; China adds the past staged regular first,
 irregular second, each with its own formation table, plus
-was/were past states. Other closed countries join as their books
+was/were past states; Indonesia makes the past simple the
+recount tense of a whole primary chapter, prints its
+irregular table, and states the system outright at
+Grade 8; Iran runs regular then irregular past on the
+same affirmative/negative/question frame, with a 70-verb
+table behind it; Sierra Leone pairs the -ed lesson with
+its irregular table and time markers, then rebuilds the
+past regular-first for the senior exam. Other closed countries join as their books
 are read (see READING-QUEUE.md).
 
 **Laos Grade 6 added 2026-10-27** — *English for Secondary
