@@ -11,9 +11,16 @@ three Grade 12 cross-reference rows whose books are the Grade
 11 files read under Grade 11). The link-only books enter this
 file when their files land; they are listed at the end.
 
-All books are ITYE «Diophantos» (Institute of Computer
+Almost all books are ITYE «Diophantos» (Institute of Computer
 Technology and Publications) books for the Greek Ministry of
 Education, from the ministry's ebooks.edu.gr platform. The
+exceptions, each flagged in its section: the three maritime
+books (Maritime English Volumes 1–2 and the IMO Standard
+Marine Communication Phrases) are **Eugenides Foundation**
+books written for the Merchant Navy Academies and adopted
+into the EPAL lists under Diophantos codes; and two EPAL
+teacher's books are held in their original **OEDB** printings
+rather than the Diophantos reissues (corrections 4–5). The
 primary series runs Alpha English (G1) and Beta English (G2)
 — whose held pupil files are the print **Workpack** artwork
 packs (see the record corrections) — then Αγγλικά for G3–G6
@@ -52,15 +59,36 @@ fixes owed):**
    books' own **Revised Edition** (ΑΝΑΘΕΩΡΗΜΕΝΗ ΕΚΔΟΣΗ)
    Diophantos reissue; no single publication year is printed
    in those books.
+4. **The maritime books are not Diophantos books.**
+   Maritime English Volumes 1–2 (codes 24-0595 / 24-0596)
+   and the IMO Standard Marine Communication Phrases book
+   are **Eugenides Foundation (Ίδρυμα Ευγενίδου)**
+   publications, written for the Merchant Navy Academies
+   (AEN) on IMO Model Course 3.17 and adopted for EPAL;
+   Diophantos appears only as a back-cover adoption mark.
+5. **The held Hotel teacher's book is the original OEDB
+   printing, not the Diophantos reissue** of its student
+   book: its own ISBN is 960-06-0556-4, no book code is
+   printed anywhere in it (24-0216 is only the platform
+   file code), and its colophon shows a 2009 print run.
+   The Office Clerks teacher's book is likewise the OEDB
+   original (colophon ΕΚΔΟΣΗ 2009) inside a Diophantos
+   reissue wrapper, and its cover misprints the title as
+   "EGLISH FOR OFFICE CLERKS".
+6. **The EPAL Γενικά Αγγλικά B volume (24-0622) serves
+   Grades 11 AND 12** (Β΄ & Γ΄ ΕΠΑ.Λ. on its own title
+   page); it is filed under Grade 11, and the Grade 12 row
+   is a cross-reference to the same file. The same applies
+   to Αγγλικά 2 and the Office Clerks teacher's book.
 
-**Read state 2026-11-03 (band 2): 27 of the 43 in-hand
-books are FULLY READ + CITATION-CHECKED and filed below**
-(primary + Grades 7–9 complete, plus the two Grade 10
-general books; anchors per book 16–20, all passed, except
-the glossaries at 8–10 per book and the two Workpacks,
+**Read state 2026-11-03: ALL 43 in-hand books are FULLY
+READ + CITATION-CHECKED and filed below** (primary, Grades
+7–9, Lykeio general, EPAL general/sector/maritime, Grades
+11–12; anchors per book 16–20, all passed, except the
+glossaries at 8–10 per book, the four short sector
+Materials Files at 13–14 per book, and the two Workpacks,
 whose anchors cite PDF pages + artwork codes because those
-files carry no printed folios). The maritime, EPAL sector
-and Grades 11–12 books follow in the final band.
+files carry no printed folios).
 
 ## Grade 1 — ALPHA ENGLISH, Student's Book — ⚠ IDENTITY MISMATCH: this file is the WORKPACK, not the Student's Book
 
@@ -2047,3 +2075,3213 @@ All page numbers below are printed pages; PDF page = printed + 15. Each anchor w
 - **Dated content is part of the book as printed:** the Athens 2004 Olympic Games are a present/future event, messages are left on tape, the Athens Metro and lead-free petrol are novelties in Greece, a source table is dated 25 June 2003, and school-system and sports facts are those of 1992–2004 sources. They are reported here as the book's content, not as present-day fact.
 - **The file contains no answer key.** The Appendices print the listening texts (which is why the listening material of Units 1–4 and 6–9 could be checked from this file), but no key to the comprehension, grammar or vocabulary tasks appears anywhere in the 210 pages.
 - The book is **not English-only**: instructions, the prologue, the Contents headings and the Glossary use Greek throughout, and several "Make your point" tasks are explicitly mediation tasks that start from a Greek text.
+
+
+## Grade 10 (EPAL) — Maritime English Volume 1, Student's Book — *MARITIME ENGLISH VOLUME I*
+
+### Identity block
+
+- **Real title as printed:** MARITIME ENGLISH — on the front cover (PDF p. 1) as "MARITIME ENGLISH / VOLUME 1", and on the full title page (PDF p. 4) as "MARITIME ENGLISH / VOLUME I". The cover head calls it, in Greek, an ΕΚΠΑΙΔΕΥΤΙΚΟ ΚΕΙΜΕΝΟ ΑΚΑΔΗΜΙΩΝ ΕΜΠΟΡΙΚΟΥ ΝΑΥΤΙΚΟΥ — an educational text of the Merchant Marine Academies.
+- **Component verdict:** STUDENT'S (CADET'S) BOOK — confirmed, with a correction to the library framing (see the first honest negative). It is the learner's own book: reading and listening texts, pair-work and class projects, self-assessment "Round-up" checklists at the end of every unit, pair-work partner material (Appendix II), the full audio transcripts (Appendix III) and a grammar appendix (Appendix V). There is no teacher-only material and no separate workbook in this file.
+- **Author:** Παρασκευή Λ. Παπαλεωνίδα (Paraskevi L. Papaleonida), named on the cover and title page, where she is described as a teacher of English at ΑΕΝ/Μακεδονίας (the Merchant Marine Academy of Macedonia). The scientific adviser for the book, named in the Eugenides Foundation prologue (PDF p. 7), is Georgios Dounavis, teacher of English at the Masters' School of ΑΕΝ/Σύρου.
+- **Publisher:** Ίδρυμα Ευγενίδου (Eugenides Foundation), Athens — its "ΒΙΒΛΙΟΘΗΚΗ ΤΟΥ ΝΑΥΤΙΚΟΥ" (Seaman's Library) series, per the title page (PDF p. 4) and the copyright page (PDF p. 5). ΙΤΥΕ «Διόφαντος» (ITYE Diophantos) appears only in a box on the back cover (PDF p. 1), alongside the barcode; it is not named as publisher on the title or copyright pages. The book is distributed through the ministry's ebooks.edu.gr platform, which is how it enters this Greece set.
+- **ISBN / book code:** Book code Κωδικός βιβλίου 24-0595, ISBN (SET) 978-960-337-122-9 and ISBN 978-960-337-121-2, all printed on the back cover (PDF p. 1) and repeated on the copyright page (PDF p. 5). Barcode element (01) 000000 0 24 0595 7.
+- **Edition / year:** The title page (PDF p. 4) is dated ΑΘΗΝΑ 2020. The copyright page (PDF p. 5) states Α΄ ΕΚΔΟΣΗ 2015 (first edition 2015) and Copyright © 2015 Ίδρυμα Ευγενίδου. The cover production stamp is dated 10/11/2020. So the year printed for this issue is **2020**, of a book first published in **2015**; no other publication year is printed.
+- **Extent:** 537 PDF pages; numbered printed pages run to printed p. 535. PDF p. 1 is the full cover spread (back cover, spine, front cover) and the same cover spread is repeated as the last PDF page (PDF p. 537).
+- **Page offset:** **printed page = PDF page − 1** throughout the numbered body, reviews, appendices and bibliography (e.g. printed p. 16 = PDF p. 17; printed p. 244 = PDF p. 245; printed p. 535 = PDF p. 536). PDF pp. 2–5 are the foundation half-title pages, full title page and copyright page; PDF pp. 6–7 are the Foundation's prologue (Greek); PDF pp. 8–9 are the author's prologue (Greek, the second page numbered printed p. 8); PDF pp. 10–15 are the Contents (printed pp. 9–14).
+- **Structure:** 15 units in three blocks of five, each block closed by a Review (Reviews 1–3, Units 1–5, 6–10 and 11–15), then Appendix I *English for Marine Engineers* in three parts, Appendix II (pair-work Student B material), Appendix III (audio transcripts), Appendix IV (nautical chart symbols, one page) and Appendix V (grammar), closing with the Bibliography. Every unit ends with a "Round-up" — a vocabulary self-assessment checklist plus, usually, a class project.
+- **Who the book is actually for — read this first:** the author's prologue (printed pp. 7–8, Greek) states the book is a teaching aid for the subject "Ναυτικά Αγγλικά" (Maritime English) in semesters Α΄, Β΄ and Γ΄ (1st, 2nd and 3rd) at the Academies of the Merchant Navy (ΑΕΝ), built on the IMO Model Course 3.17 for Maritime English and aimed at the communicative competence of watchkeeping officers. Its own semester table (printed p. 8) assigns: deck cadets (Πλοίαρχοι) Units 1–5 + Review 1 in semester 1, Units 6–10 + Review 2 in semester 2, Units 11–15 + Review 3 in semester 3; engineer cadets (Μηχανικοί) take specified selections of the main units (Units 2–5, then 6 and 8, then 12–14, each with named sections omitted) plus one part of Appendix I per semester. The exercises constantly mark their language point with the IMO Standard Marine Communication Phrases (SMCP) section references (e.g. A2/1, B3, A1/6).
+
+### Unit-by-unit summary (own words; printed page references)
+
+**Unit 1 — IMO Standard Marine Communication Phrases (printed pp. 16–32).** The book's foundation unit. It explains why a standard phraseology exists — multilingual crews, safety of navigation, the STCW requirement that officers use and understand the SMCP — and splits the phrases into external and on-board communication. Language work: the international maritime (phonetic) alphabet and digit-by-digit number speaking, exchanging a vessel's name, MMSI and call sign in pairs, a Piraeus Traffic routine-traffic listening, and telling the time in 24-hour UTC form. Then the three signal words for distress, urgency and safety messages, passenger-care public-address announcements including how to put on a lifejacket, standard wheel/helm orders and compass courses to steer, and the language of position, bearing, course, distance, speed and draught. A long closing Glossary section (pp. 25–31) drills maritime terms grouped under emergency, cargo, wind and anchor headings, word-building from roots, and multi-word verbs; printed p. 31 is a photo plate (anchor, chain, bollards, radar, chart, slings) with no text. Round-up p. 32.
+
+**Unit 2 — The Seafarer (printed pp. 34–52).** People and jobs. It opens with joining a ship — a captain meeting a new second engineer, the seaman's book, and a familiarisation period — then personal information: introducing oneself by age, nationality, rank, vessel and family, completing a crew list and filling in a cadet application form for deck or engineer cadet. A careers-advice reading profiles the merchant-navy deck officer (the work, watches of four hours on and eight off, conditions, pay bands, personal qualities and entry routes). The bulk of the unit is ranks and roles: the Master, chief officer, second and third mates, chief, second and third engineers and their stated responsibilities, standing orders, then the duties of deck cadets (from a first-person "My Life at Sea" blog-style text, drills included) and of engineer cadets (from interviews), and finally the ratings of the deck, engine and catering departments speaking in the first person about their own jobs. Round-up pp. 51–52.
+
+**Unit 3 — Ship Familiarisation (printed pp. 54–80).** The ship itself. A worked example vessel, a multi-purpose dry cargo ship, is taken apart on diagrams from bow to stern — forecastle, hatches and holds, bulkheads, 'tween decks, tank top, rudder and propeller — with a Norwegian captain's recorded description to follow on the plan, and a tanker diagram for contrast. Shipboard positions are taught as language: port/starboard, forward/aft, above/below, ahead/astern and the quarters and bows. Accommodation and superstructure follow, with giving directions around the decks of an LNG ship. The second half is ship types: recognising vessels from silhouettes and descriptions, then merchant vessels in turn — bulk carriers, tankers from bunkering tanker to VLCC and ULCC, LNG/LPG carriers, container ships, general cargo, Ro-Ro, passenger and cruise ships, multi-purpose carriers and reefers — and special-duty/auxiliary vessels (tugs, SAR vessels, icebreakers, dredgers, cable layers, pilot and supply vessels and others). Round-up pp. 78–80, closing with an SMCP sketch of mooring lines and positions around a ship.
+
+**Unit 4 — Safety Equipment On Board (printed pp. 83–102).** The law and the kit. It reads SOLAS and the LSA Code as texts: what Chapter III requires, when the LSA Code was adopted and entered into force, and a worked amendment example that changed immersion-suit carriage to one suit per person on cargo ships. Then IMO safety signs, SMCP oral commands for safety on board, and where safety equipment lives — worked through a chief officer's LSA checklist, a real-style fire-extinguisher list by location, a pyrotechnics and safety-equipment inventory with manufacture and expiry dates, and a deck plan dialogue. A section on when each appliance is needed leads into surviving disaster: how SOLAS grew out of the Titanic sinking, a news report on a Titanic lifejacket sold at auction, describing survival equipment in writing (shape, colour, material, purpose), and lifeboat drills through cadet interviews. Round-up p. 102.
+
+**Unit 5 — Work Activities On Board (printed pp. 104–122).** Daily work, and the book's main present-tense unit. A passage plan in the Mediterranean (port-to-port distances to choose and a route to draw) introduces latitude and longitude; nautical charts and aids to navigation follow, with chart symbols referred to Appendix IV. Present Continuous is taught on what crew members are doing now — painting, chipping rust, correcting charts, washing down — and Present Simple on daily routines, including a third officer's watch day and a full 4-to-8 watch routine text. The unit closes with standard engine orders: how the engine-order telegraph works, its ahead/stop/astern positions and sub-telegraph modes, practised against a real-format pilot card for a tanker. Round-up p. 122.
+
+**Review 1 — Units 1–5 (printed pp. 124–130).** Integrated revision, no new material: a master's announcement to complete a vessel-particulars chart from, crew-rank gap-fills, safety-equipment regulation vocabulary, terminology work on photographs of places and activities on board, helm-order meanings, word-building, compound nouns (waypoint, fairway, lifeboat and the like), abbreviations, true/false statements on ship types and a crossword.
+
+**Unit 6 — Emergency On Board (printed pp. 132–152).** Emergencies and the language of obligation. Pupils first talk through their own first training voyage, then classify emergencies — grounding, collision, fire, sinking, oil spill, person overboard — from news extracts, including a cruise-ship evacuation and a Singapore-Strait collision with an oil leak. SMCP distress communications are sorted by type; then set procedures in turn: person overboard (immediate actions on deck and on the bridge, the Williamson Turn), urgent commands and *must/mustn't*, hypothermia and its treatment from a safety manual, enclosed-space entry accidents, and oil pollution vocabulary. SMCP message markers are introduced properly here (Instruction, Question, Answer, Information, with Warning, Advice, Request and Intention added), and the unit ends with SMCP passenger care — emergency announcements, protective measures for children, and escorting passengers. Round-up pp. 151–152.
+
+**Unit 7 — Cargo Handling, Quantities and Supplies (printed pp. 154–170).** Cargo work. It begins with packaging words (chest, crate, carton, barrel, sack, bale and their cargoes and materials), then SMCP cargo-handling orders (stow, secure, relash, overstow, place dunnage, refuse damaged boxes) and questions on loading capacities and quantities worked from real ship's particulars — deadweight, hold and container capacity, SWL of decks, cranes and slings, discharging rates and pump capacities. A reading compares the cargo gear of general cargo ships, tankers, bulk carriers and container ships. The last section is stores: a cook-and-steward inventory dialogue, *too much/too many/enough*, a ship-supplier's web page, and a priced ordering dialogue with a ship chandler (partner prices in Appendix II). Round-up pp. 169–170.
+
+**Unit 8 — Vessel Particulars and Specifications (printed pp. 172–188).** Describing ships and equipment, and the book's comparatives unit. Three named vessels' particulars are taken from a listening and compared; a "world's largest ships" reading (largest cruise ship, bulk carrier, container ship and others) carries comparative and superlative forms, referred to the grammar appendix. Ship dimensions are named and defined (length overall, beam, draught, air draught, freeboard, depth). Equipment work follows: communication safety equipment, saying what a tool or device is for (*use it to/for*), describing shapes and dimensions, bridge navigation equipment, radar controls, a NAVTEX dialogue, extracts from SART and radar operating manuals, and multi-word verbs for mechanical operations. It closes with SMCP "Pilot on the bridge" — propulsion and manoeuvring questions, and pilot-card information. Round-up p. 188.
+
+**Unit 9 — What Weather Is Expected? (printed pp. 191–210).** Weather, and forecasting language with *will/be going to*. Weather vocabulary and WMO symbols first, then a short tsunami text (causes, prediction, the receding sea). Forecasts are read off European weather maps for today and tomorrow; the maritime forecast is broken into wind direction points and adjectives, Beaufort wind force and sea-state descriptive terms, visibility definitions and forecast units. A full BBC-style shipping forecast (21 April 2011) is completed area by area, and a NOAA VHF forecast is heard. SMCP for meteorological briefings follows — asking what is, and what is expected, NAVTEX weather abbreviations and message categories — and the four remaining message markers (Warning, Advice, Request, Intention). A class project researches the 11 March 2011 Japan tsunami. Round-up pp. 209–210.
+
+**Unit 10 — Past Voyages and Sea Passages (printed pp. 212–222).** The Past Simple unit. A ship's past voyage is reconstructed from draft deck-log entries (an Australian iron-ore round voyage in ballast and laden legs), and a report on the same passage is completed. Reporting events at sea follows: stages of a sea passage from a Taipei–Nagasaki passage plan, ports of call, deck-log-book entries to complete and to write (including an entry recording a heavy list, a stability calculation showing zero metacentric height, and a decision to jettison deck cargo). The unit ends with COLREG lights, shapes and sound signals — masthead, side and stern lights, short and prolonged blasts, and the Rule 23 and Rule 30 displays for a vessel underway and at anchor. Round-up pp. 221–222.
+
+**Review 2 — Units 6–10 (printed pp. 224–236).** Integrated revision: Mariner's Handbook abbreviations grouped by kind, a fire emergency checklist in pairs, pilot-boarding arrangements and the ship-to-shore Master/Pilot exchange form, container-vessel information, a satellite-radar reading and listening on ocean observation and climate, a "What are tides?" listening, and terminology work recycling Units 6–10 (message markers, passenger-care announcements, weather and equipment vocabulary).
+
+**Unit 11 — Incidents and Accidents at Sea (printed pp. 238–256).** Reporting casualties. A news report and a written report of the same North Sea collision (a Greek tanker loaded with jet fuel and a Cypriot container vessel) open the unit and supply its report vocabulary — leak, slick, evaporate, severe, pose a threat. Incidents are then classified and defined (very serious and serious casualty, total loss, unseaworthiness, ingress of water), report forms are filled in from a Singapore Strait collision text (a Malaysian Aframax tanker and a St Vincent bulk carrier, an oil spill, a gash on the port side), and the questions investigators ask about manning the bridge are practised. IMO "Lessons Learned" cases supply incident types — contact, near-miss grounding, heavy-weather flooding, machinery failure adrift and by explosion — one of them written up as a paragraph report, and a formal marine accident report (a 2010 Ro-Ro passenger ferry fire on the Oslo–Copenhagen run) is read in full form order. It closes with SMCP distress and urgency VHF exchanges for collision, grounding, engine/equipment and cargo problems. Round-up pp. 255–256.
+
+**Unit 12 — I Require Medical Assistance (printed pp. 258–284).** Injury, first aid and protective equipment. A personal-injury form drives the first section (affected area, type of injury — fracture, sprain, burn, scald, hernia, amputation and others — result of incident), with the parts of the body and face named on diagrams and the verbs *injure/hurt/wound* distinguished. First aid follows: treatment matching for choking, bleeding, burns, suffocation and poisoning, the contents and purposes of a first aid kit, and the ABC of resuscitation (Airways, Breathing, Circulation, CPR and the recovery position) taught through an enclosed-space casualty case. Personal protective equipment is then catalogued by what it protects (head, foot, hand, respiratory, skin, hearing) and matched to tasks. Occupational accidents close the unit — slips, trips and falls and their shipboard causes, a snapped-mooring-line broken leg, snap-back zones — with SMCP occupational-safety exchanges and requesting medical assistance, including arranging a helicopter rendezvous. Round-up p. 284.
+
+**Unit 13 — Call the Watch Engineer (printed pp. 286–306).** Bunkering, oil spills and deck maintenance — the book's Present Perfect unit, because its core dialogue is checking whether procedures *have been* done yet. Bunkering is worked end to end: pre-bunkering actions and crew responsibilities from a bunker pre-loading plan, an authentic bunkering checklist, hazard-and-control matching, then preventing and combating oil spills (plugging scuppers, serviceable hoses, agreed signals, topping-off slowly) with SMCP ship-to-barge VHF exchanges and spill-reporting phrases. Deck maintenance follows: mooring-line care, painting (surface pre-treatment, blasting methods, applying the coat), and the permit-to-work system for enclosed spaces, breathing apparatus, machinery isolation and hot work. Round-up pp. 304–306.
+
+**Unit 14 — PLS ADV ASAP (printed pp. 308–332).** Written and shore communication, plus the future. Maritime communication systems are surveyed (GMDSS-required VHF, MF/HF and Inmarsat-C, and the newer VSAT trend toward the ship as a linked office). The centre of the unit is the telex: its format and answerbacks, its abbreviations (the title is three of them), classifying messages by subject (ETA, notice of readiness, repairs, noon report, ETD) and by purpose, and composing and answering telexes — including a fire-and-explosion report exchange and a doctor's letter of advice in reply to a telex about an injured bosun. Asking for and giving advice (*should*, suggest, recommend) is taught on that material. Then VTS standard phrases in full (traffic clearance, waypoints, anchoring instructions, COLREG vocabulary), and future events — *will/be going to* for predictions and plans, ending with cadets' stated career plans and a university presentation on a maritime operations master's course. Round-up pp. 330–332.
+
+**Unit 15 — I Read You Good (printed pp. 334–356).** VHF procedure, the book's capstone. It opens with two casualty case studies chosen for their communications: a Mississippi collision in fog where faulty VHF use contributed to disaster, and the *Estonia* ferry disaster, whose Mayday call is heard and checked against the international format it failed to follow. IMO guidelines on the use of VHF at sea are then completed as a text (channels 16 and 13, working channels, procedure words), and the full VHF exchange structure is built stage by stage — making contact, identifying, exchanging messages with message markers, procedure words (*over, say again, correction, stand by*), and ending — and role-played in Piraeus, Shanghai, Kanmon and Livorno scenarios, including a collision report. GMDSS and DSC follow, with complete DSC urgency and safety call sequences for a named motor tanker. Routine traffic is heard from real Piraeus Traffic exchanges. The unit closes by recycling the Past Continuous for the question in its final section title — what a crew member was doing at the time of an accident. Round-up pp. 355–356.
+
+**Review 3 — Units 11–15 (printed pp. 356–372).** Integrated revision built on real cases: news reports of the *Costa Concordia* grounding and capsize, three "very serious casualty" lessons-learned cases (enclosed-space deaths, a tanker explosion, a lifting-gear fatality) presented by groups, occupational hazards of working outboard and harness use, SMCP communications for grounding, collision, occupational accident and oil spill, a mooring incident in which a freed line struck an apprentice, a "Slippery when wet" accident case, and terminology work (tools, first-aid instructions for burns and for an unconscious casualty, permit-to-work and bunkering checks in the Present Perfect).
+
+**Appendix I — English for Marine Engineers (printed pp. 373–491).** The engineers' own book-within-the-book, in three semester parts, and much more technical and less communicative than the main units. *Part One* (pp. 373–398): workshop tools — measuring, cutting, hammering, reaming, filing and scraping tools, spanners, wrenches and screws, machine tools including the lathe and CNC — taught largely as labelled picture dictionaries with quizzes, then marine diesel engine components (pistons, cylinders, liners, connecting and piston rods, crankshaft, camshaft, crosshead, bedplate) and what each part does, engine types, and the high/medium/low-speed propulsion diesel classification by rpm. *Part Two* (pp. 399–449): diesel engine operation — engine-room layout, components in depth, the four-stroke and two-stroke cycles stroke by stroke, the Miller cycle, the turbocharger, and a written comparison of two- and four-stroke engines; boilers (parts, water-tube types, mountings, controls); steam engines (reciprocating engines and impulse/reaction turbines); auxiliary machinery (generators, pumps of every shipboard service, coolers, purifiers, evaporators, steering and launching gear, sewage and incinerator plant); displacement and centrifugal pumps. Part Two ends, unexpectedly, with three general-English sections on describing visitors on board — physical appearance, clothing, and character (pp. 441–449). *Part Three* (pp. 450–491): fuels — fractional distillation, HFO against MDO, fuel properties, the ISO 8217 marine fuel standard tables for distillate and residual grades, the fuel-oil system from bunker tanks to injectors, and fuel injection; lubrication — lubricating-oil properties and additives, and the circulating, cylinder and turbocharger oil systems; maintenance of diesel engines — repair/maintain/overhaul distinguished, defect-and-cause work, an engine-room fire case, safety precautions and housekeeping guidelines; and instructions to the engineer of the watch.
+
+**Appendices II–V and Bibliography (printed pp. 492–535).** Appendix II (pp. 492–496) is the Student B half of the pair-work exercises, including the data cards, the chandler's price list and a second bunkering checklist. Appendix III (pp. 497–519) prints the audio transcripts in three parts matching the three semesters — dialogues, announcements, interviews, reports and VHF exchanges — and a few of them are headed as answer keys for their listening exercises. Appendix IV (p. 520) is a single page of nautical chart symbols. Appendix V (pp. 521–531) is a ten-point grammar reference in teaching order of use: Present Continuous, Present Simple, the two contrasted, comparative and superlative adjectives, *will/be going to* in weather forecasts, Past Simple (forms, questions and negatives), Present Perfect, talking about the future, and Past Continuous. The Bibliography (pp. 532–535) lists the book's sources — IMO Model Course 3.17 and the SMCP, SOLAS and manual sources, maritime-English predecessors, and a long detailed list of the web, report and manual sources for individual texts, the latest dated February 2012.
+
+**Grammar spine as it arrives (summary):** SMCP phrase forms and imperatives from Unit 1 → Present Continuous for actions on board now and Present Simple for routines (U5, with the grammar appendix) → imperatives and *must/mustn't* for emergencies (U6) → comparatives and superlatives for comparing vessels, and *to/for* for purpose (U8) → *will/be going to* for forecasts (U9) → Past Simple for voyages, log books and incident reports (U10–U11) → Present Perfect for checking completed safety and bunkering procedures (U13) → *should* for advice and future forms for plans (U14) → Past Continuous for accounts of what was happening when an accident occurred (U15). Pronunciation work is light and incidental (stressed syllables in the phonetic alphabet, linking in spoken exchanges); there is no separate pronunciation strand.
+
+### Citation-check section (anchors verified against the real PDF pages)
+
+All page numbers below are printed pages; PDF page = printed + 1. Each anchor was checked on the PDF page itself (the cover, title and copyright pages also visually, from the rendered pages).
+
+1. Cover spread (PDF p. 1): front cover "MARITIME ENGLISH / VOLUME 1" and the author's name in Greek; back cover "Κωδικός βιβλίου: 24-0595 / ISBN (SET) 978-960-337-122-9 / ISBN 978-960-337-121-2", with the ITYE Diophantos box beside the barcode.
+2. Full title page (PDF p. 4): "MARITIME ENGLISH / VOLUME I", the author described as teacher of English at AEN/Macedonia, and "ΑΘΗΝΑ / 2020" at the foot.
+3. Copyright page (PDF p. 5): "Α΄ ΕΚΔΟΣΗ 2015", the two ISBNs, and "Copyright © 2015 Ίδρυμα Ευγενίδου".
+4. Printed p. 16 (PDF p. 17): "Under the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers (STCW 78/95) officers must use and understand IMO SMCP."
+5. Printed p. 19 (PDF p. 20): "Instead of saying 3 p.m. we write 1500 and say fifteen hundred hours".
+6. Printed p. 39 (PDF p. 40): in the deck-officer job profile, "Experienced officers earn from €6,000 to over €8,000, depending on rank."
+7. Printed p. 54 (PDF p. 55): "The Capricorn is a multi-purpose dry cargo ship of 6,600 DWT", with length 118.5 metres and draught 6.3 metres.
+8. Printed p. 71 (PDF p. 72): tankers run "to the real giants, the VLCC of 200,000 - 300,000 dwt and the ULCC of over 300,000 dwt."
+9. Printed p. 84 (PDF p. 85): "In 1996 the International Life-Saving Appliance (LSA) Code was adopted" and "The LSA Code entered into force in 1998."
+10. Printed p. 85 (PDF p. 86): the 2006 SOLAS amendments "introduced carriage requirements for one immersion suit per person on board all cargo ships".
+11. Printed p. 97 (PDF p. 98): "The first version was adopted in 1914 following the sinking of the TITANIC."
+12. Printed p. 121 (PDF p. 122): pilot card headed 'PORT: CORYTON, UK / DATE OF ISSUE: 16 JUNE 2008 / M/T "NERO"', call sign KZGY, year built 2006.
+13. Printed p. 141 (PDF p. 142): "Hypothermia occurs when the body temperature drops below 35oC/95oF."
+14. Printed p. 174 (PDF p. 175): "The Allure of the Seas is 362m long, has a tonnage of 225,000 gross tons and carries around 5,600 people."
+15. Printed p. 244 (PDF p. 245): the Singapore Strait collision text names "M/T Bunga Kelana 3 [IMO 9178331, built in 1998, DWT 105784]" carrying "about 62,000 tonnes of light crude oil", with "a 10-metre gash on the port side of the tanker".
+16. Printed p. 270 (PDF p. 271): "The ABC of resuscitation stands for Airways, Breathing and Circulation."
+17. Printed p. 314 (PDF p. 315): telex subject exercise — "MV VENOM ARRIVED AT ROTTERDAM NO.3 ANCHORAGE AND IS IN ALL RESPECTS READY TO DISCHARGE HER CARGO OF COAL 120,800 MT".
+18. Printed p. 336 (PDF p. 337): of the *Estonia*, "the vessel lurched some 30 to 40 degrees to starboard" and "A Mayday was communicated by the ship's crew at 01:22".
+19. Printed p. 409 (PDF p. 410): the turbocharger "uses some of the energy of the hot exhaust gases of the engine to drive the turbine (35% of the total heat energy in the fuel is wasted to the exhaust gases)".
+
+### Honest negatives
+
+- **This is not, in its own pages, a Grade 10 EPAL school book, and ITYE Diophantos is not its publisher of record.** The library record files it as an EPAL annex for Α΄ Λυκείου (Grade 10), but the book itself is an Eugenides Foundation educational text for the **Merchant Marine Academies (ΑΕΝ)** — post-secondary cadets in their first three semesters, training to be deck and engineer officers. Nothing in the book addresses school pupils, the EPAL curriculum or a Lykeio class; its learners are addressed throughout as cadets who have already made a training voyage. The Grade 10 (EPAL) heading above is the library's filing position, not the book's identity, and the record is owed that correction.
+- **There is almost no general English in it.** Apart from personal information in Unit 2 and the three describing-people sections buried at the end of Appendix I Part Two (pp. 441–449), every text, dialogue and word list is maritime-technical: SMCP, ship parts, cargo, weather, casualties, bunkering, engines. It cannot serve as a general-English source book in the way the other Greece Lykeio books can; its value to the courses is as a specialist maritime vocabulary and communication source.
+- **No standalone answer key.** Most written exercises have no key in this file. Appendix III prints the audio transcripts (so listening work can be checked against them) and a handful of transcript pages are explicitly headed as answer keys, but the reading, grammar, vocabulary and writing tasks are unkeyed.
+- **The audio is not in the file.** Listening work is pervasive — most units open sections with "Listen to…" — and Appendix III lists it as CD tracks. The PDF contains the transcripts only; no audio accompanies it here.
+- **Some pages are picture-only.** Several printed pages are full-page photo, diagram or chart plates with little or no running text (e.g. printed p. 31, the glossary photo plate; the chart and plan pages in Units 3–5). Those pages were read visually, not from extracted text, and their content is filed above at the level of what the pictures show.
+- **Dated material is part of the book as printed.** Its sources close in February 2012: the shipping forecast is of 21 April 2011, the "world's largest cruise ship" is the 2010 *Allure of the Seas*, the *Costa Concordia* (January 2012) appears as a current news case in Review 3, salary figures are in euros from a British careers site, and Unit 14 still teaches the telex — with 2015-dated example messages — as a working ship-to-shore medium. These are reported as the book's content, not as present-day fact.
+- **Errors and spellings in the book are reproduced as printed, not corrected:** the first-aid table in Unit 12 heads a section "Chocking" for choking (printed p. 264); a Unit 8 note refers to "comparative and supelative adjectives" (printed p. 173); the grammar appendix gives the Bunker Delivery Note the initials "(BND)" (printed p. 528). None of these affects the filing above.
+- **The book is not English-only at the front:** the Foundation's prologue, the author's prologue (which carries the semester table and the IMO Model Course 3.17 framing) and the copyright page are in Greek. The teaching body, contents and appendices are in English.
+- **Engineer cadets do not read the whole main book, by the book's own design:** their semester table omits named sections of Units 5, 6, 8, 13 and 14 and substitutes Appendix I. The "whole book" filed above is the deck-cadet book plus the engineers' appendix; no single learner in the book's own scheme reads all 535 printed pages.
+
+
+## Grade 10 (EPAL) — IMO Standard Marine Communication Phrases — ΙΜΟ Τυποποιημένες Ναυτικές Φράσεις Επικοινωνίας
+
+**Identity block**
+
+- **Title as printed (title page, PDF p.9):** ΙΜΟ ΤΥΠΟΠΟΙΗΜΕΝΕΣ ΝΑΥΤΙΚΕΣ ΦΡΑΣΕΙΣ ΕΠΙΚΟΙΝΩΝΙΑΣ — "IMO Typopoiimenes Naftikes Fraseis Epikoinonias" (IMO Standard Marine Communication Phrases). Cover (PDF p.1) carries the same title, headed ΕΚΠΑΙΔΕΥΤΙΚΟ ΚΕΙΜΕΝΟ ΑΚΑΔΗΜΙΩΝ ΕΜΠΟΡΙΚΟΥ ΝΑΥΤΙΚΟΥ ("Educational text of the Merchant Navy Academies"), ΑΘΗΝΑ 2005. Back cover (PDF p.247) shows the IMO's own "IMO SMCP — IMO Standard Marine Communication Phrases" artwork.
+- **What it is:** the official Greek translation of the IMO Standard Marine Communication Phrases (IMO, 2002), adopted by IMO Assembly resolution A.918(22) of 29 November 2001. It is **not** a Diophantos school textbook written for EPAL: it is a Merchant Navy Academy text that the ministry's ebooks.edu.gr platform serves as the Grade 10 EPAL maritime annex. Filed here as the EPAL annex of record; the imprint below is the book's real one.
+- **Publisher:** Ίδρυμα Ευγενίδου (Eugenides Foundation), Athens — series Βιβλιοθήκη του Ναυτικού ("Seaman's Library"). First edition (Α΄ ΕΚΔΟΣΗ) 2005, as printed on the imprint page (PDF p.4) and cover.
+- **Translator:** Γεώργιος Μ. Δούναβης (Georgios M. Dounavis), Professor of English, AEN Syros (title page, PDF p.9). Translation made with IMO permission; the IMO disclaimer (PDF p.8) states that in case of doubt the authentic IMO text adopted by resolution A.918(22) prevails.
+- **ISBN:** 960-337-067-3 (imprint, PDF p.4; repeated on the back cover, PDF p.247). Copyright © IMO 2002; © Ίδρυμα Ευγενίδου 2005. No Diophantos book code is printed anywhere in the book.
+- **Extent:** 247 PDF pages; printed folios run 10–243 (contents through Resolution), preceded by unnumbered front matter and followed by a blank page (PDF p.246) and the back cover (PDF p.247). **Offset: PDF page = printed page + 2** throughout the numbered body (e.g. printed 22 = PDF 24; printed 242 = PDF 244). PDF p.1 = cover, p.2 = blank, pp.3–9 = half-title, imprint, Eugenides Foundation prologue, translator's prologue, translation note/disclaimer, title page.
+- **Read in full:** every PDF page extracted and inspected; image-only pages (the six ship sketches, printed 56–61 = PDF 58–63) and the covers read from renders.
+
+**Summary (own words; printed page refs, PDF = printed + 2)**
+
+*Front matter and framing (printed 8–27, bilingual).* The IMO Foreword (printed 8–9) tells the standard's history in prose: the 1973 decision that English be the common navigational language, the 1977 Standard Marine Navigational Vocabulary it replaces, the 1992 instruction to build a fuller safety language, and adoption in November 2001 as resolution A.918(22); it also notes that the STCW Convention requires officers in charge of a navigational watch on ships of 500 GT or more to use and understand the SMCP. A bilingual Contents (printed 10–21) lists every numbered section with its printed page. The Introduction (printed 22–27) explains, in short prose sections, the SMCP's place in maritime practice (an aid to safety and standardised language, expressly not a substitute for the Collision Regulations, the International Code of Signals or ITU radio procedure, and not an operating manual), its organisation (below), its place in maritime education (selective teaching by need, not cover-to-cover; not a full maritime-English syllabus), its basic communicative features (a deliberately simplified maritime English in "block language" that sparingly drops function words under time pressure; one phrase for one event; no synonyms, no contracted forms; fully worded yes/no answers), and its typographical conventions (printed 26): brackets for optional additions, slashes for alternatives, dots ". . ." where the speaker fills in data, italics for the kind of information requested, and "~" for follow-on wording that can attach to a phrase.
+
+*The GENERAL rules (printed 28–37).* Eighteen short rule sections that govern how all the phrases are spoken: how to announce that the SMCP are being used; the letter-spelling table (the Alfa–Zulu phonetic alphabet) and modified digit pronunciations (e.g. 1 spoken "WUN", 9 "NINER"); the eight message markers — Instruction, Advice, Warning, Information, Question, Answer, Request, Intention; the fixed response patterns ("Yes . . ." / "No . . ." plus the phrase in full; "Stand by . . ."; "No information"); the distress/urgency/safety signals MAYDAY, PAN PAN and SÉCURITÉ; standard organisational phrases (signal-strength reports "I read you . . .", standing by on and changing VHF channels); the "Mistake . . . Correction . . ." repair formula; readiness and repetition formulas ("Say again (please)"); and the conventions for speaking numbers digit by digit, positions, bearings (360° from true north), courses, distances (nautical miles or cables, unit always stated), speed (knots, through the water unless "ground speed"), times (24-hour UTC), and geographical names. It closes (printed 36) with a usage warning about ambiguous words — "may", "might", "should", "could" and "can" — giving do-not-say/say-instead pairs so that permission, intention and advice are never confused.
+
+*Glossary and sketches (printed 38–61).* The Glossary (printed 38–55) defines, alphabetically and bilingually, a limited set of technical terms that do not themselves appear in the phrases but may be needed to adapt one — general terms first (printed 38–53; e.g. "air draught" defined as the height from the waterline to the vessel's highest point), then a short VTS special-terms list (printed 54–55: fairway, traffic lane, TSS, reporting point, traffic clearance, and similar). Six full-page line sketches follow (printed 56–61), each in an English-labelled and a Greek-labelled version: Sketch 1, a plan view of a ship naming bow/stern, port/starboard, mooring lines, length overall and breadth; Sketch 2, a cross-section naming air draught, freeboard, draught and under-keel clearance; Sketch 3, a forecastle/mooring plan naming bollards, fairleads, windlass and capstan.
+
+*Part A — the STCW-required phrases (printed 62–143).* A one-page preamble (printed 62) states Part A's status: external ship-to-shore, shore-to-ship and ship-to-ship phrases as required by STCW table A-II/1, plus the on-board pilot/bridge-team phrases required by SOLAS ch. V reg. 14(4). **A1, External communication phrases (printed 64–127)**, is organised by situation, each situation a numbered phrase family in which a question or report is followed by its numbered standard answers and "~" variants: A1/1 Distress traffic (printed 64–77) — distress types one by one (fire/explosion, flooding, collision, grounding, list/capsizing, sinking, disabled and adrift, armed attack/piracy, undesignated distress, abandoning vessel, person overboard), search-and-rescue communications, and requesting medical assistance; A1/2 Urgency traffic (printed 78–79); A1/3 Safety communications (printed 80–89) — weather and sea state, navigational warnings (marks, drifting objects, electronic aids, wrecks and sea-bottom dangers, works such as cable-laying, diving, towing, dredging, offshore installations, defective locks/bridges, military operations, fishing), and environmental-protection reports; A1/4 Pilotage (printed 90–93) — pilot request, embarking/disembarking, tug request (the section ends on two very short pages, printed 92–93, carrying only the last tug phrases); A1/5 Specials (printed 94–97) — helicopter and ice-breaker operations; A1/6 VTS standard phrases (printed 98–123), the largest single block, which first re-states the eight message markers with a commentary and an example for each (printed 98–101), then gives phrases for building a traffic image, for the VTS information / navigational-assistance / traffic-organisation services, for handing over to another VTS, and for talking to emergency and allied services. An **Appendix to A1** (printed 124–127) steps out of phrase-list form: it gives the structure, then a fully worked example, of the standard GMDSS distress, urgency and safety messages (the examples use one fictional vessel throughout, MV "Birte").
+
+**A2, On-board communication phrases (printed 128–143)** keeps the Part A status but moves inside the ship: A2/1 Standard wheel orders and A2/2 Standard engine orders are set as two-column order/meaning tables with short prose on the repeat-back discipline (the helmsman repeats every order and reports at once if the vessel does not answer the wheel; e.g. the order "Midships" is glossed as rudder held fore-and-aft); A2/3 Pilot on the bridge covers propulsion, manoeuvring, radar, draught and air draught, anchoring, tug assistance, and berthing/unberthing phrase families.
+
+*Part B — supplementary on-board phrases (printed 146–239).* A one-page unnumbered preamble (PDF p.146) states that Part B adds further on-board safety phrases, supplementary to Part A, and "may be regarded useful for maritime English instruction" — it carries no STCW requirement. **B1 Operative ship handling** (printed 146–157) is dominated by the watch-handover briefings (B1/1: thirteen briefing topics, from position, traffic and navigational aids to temperatures/pressures/soundings and record keeping) and trim, list and stability (B1/2). **B2 Safety on board** (printed 158–203) is the longest Part B block: general activities (raising the alarm, briefing crew and passengers, escape routes, lifeboat/liferaft checks, evacuation, roll call, ordering abandon vessel, in-boat procedures), occupational safety, fire protection and fire fighting, damage control, grounding (including refloating orders and checking seaworthiness), and on-board search-and-rescue activities. **B3 Cargo and cargo handling** (printed 204–227) covers loading/unloading and cargo gear, dangerous goods (nature, compatibility and stowage, incident reporting and action), liquid goods, bunkers and ballast with pollution prevention, preparing for sea, and cargo care. **B4 Passenger care** (printed 228–239) covers briefing and instructing passengers (conduct, prohibited areas, drills, the general emergency alarm, PA announcements, person overboard, protecting children), evacuation and boat drill (assembly stations, dressing, roll call, lifejackets, embarking and behaving in boats/rafts), and attending to passengers in an emergency.
+
+*Back matter (printed 240–243).* The Procedure for amending the SMCP (annex 2 of the resolution: proposals evaluated collectively; amendments normally at about five-year intervals, in force twelve months after notification) and the full text of Resolution A.918(22) itself (printed 242–243), which adopts the phrases, authorises the Maritime Safety Committee to amend them, recommends wide circulation to maritime education authorities, and revokes the old vocabulary resolution A.380(X).
+
+*Balance and language arrangement.* This is a reference phrasebook, not a coursebook: of the 243 printed pages, roughly three-quarters are the numbered phrase families of Parts A and B themselves; the remaining quarter is framing and reference apparatus (foreword, introduction, the GENERAL speaking rules, the glossary, the sketches, the GMDSS worked examples, and the resolution texts). There are no lessons, exercises, drills with answers, tests or teacher notes anywhere in the book; the only genuinely explanatory teaching matter is the Introduction, the GENERAL rules, the wheel/engine-order meaning columns, the VTS message-marker commentaries, and the GMDSS message structures with their worked examples. The bilingual arrangement is facing-page and total: by the publisher's stated decision (translator's prologue, PDF p.7), the English text is set on the even (left-hand) printed pages and its Greek translation on the facing odd (right-hand) printed pages in full correspondence, so every section — contents, rules, glossary, sketches and every phrase family — exists twice, and the book's unique content is about half its page count. The Greek side is a faithful translation, not an adaptation; where the translator judged it necessary he adds alternative renderings in parentheses or brackets and occasional translator's footnotes.
+
+**Citation check — 20 anchors, all verified against the PDF**
+
+1. Cover title "IMO ΤΥΠΟΠΟΙΗΜΕΝΕΣ ΝΑΥΤΙΚΕΣ ΦΡΑΣΕΙΣ ΕΠΙΚΟΙΝΩΝΙΑΣ", Athens 2005 — PDF p.1 (render).
+2. Imprint "Α΄ ΕΚΔΟΣΗ 2005", ISBN 960-337-067-3, © IMO 2002 / © Ίδρυμα Ευγενίδου 2005 — PDF p.4 = front matter (render + text).
+3. Title page: translator Γεωργίου Μ. Δούναβη, Καθηγητή Αγγλικής ΑΕΝ Σύρου, ΑΘΗΝΑ 2005 — PDF p.9.
+4. Foreword: SMCP "adopted by the Assembly in November 2001 as resolution A.918(22)" — PDF p.10 (printed 8).
+5. Contents lists "A1 EXTERNAL COMMUNICATION PHRASES … 64" — PDF p.12 (printed 10).
+6. Introduction §1 opens the numbered body — PDF p.24 = printed 22. Offset +2 confirmed here and at every folio below.
+7. GENERAL §2 spelling table, A = Alfa … Z = Zulu — PDF p.30 = printed 28.
+8. GENERAL §3 lists the eight message markers (Instruction … Intention) — PDF p.32 = printed 30.
+9. GENERAL §18 "Ambiguous words" (may/might/should/could) — PDF p.38 = printed 36.
+10. Glossary opens; "Air draught — The height from the waterline to the highest point of the vessel" — PDF p.40 = printed 38.
+11. Glossary §2 "VTS special terms" opens (Fairway, ITZ, TSS …) — PDF p.56 = printed 54.
+12. Sketch 1, English labels (bow/stern, PORT/STARBOARD, length overall) — PDF p.58 = printed 56 (render; image-only page).
+13. Sketch 3, Greek labels (ΣΧΕΔΙΟ 3) — PDF p.63 = printed 61 (render; image-only page).
+14. Part A preamble (STCW table A-II/1; SOLAS V/14(4)) — PDF p.64 = printed 62.
+15. A1/1.1.1 Fire, explosion opens the phrase families ("I am / MV . . . on fire") — PDF p.66 = printed 64.
+16. A1/4.3.3 "I require . . . tug(s)" — the short closing page of A1/4 — PDF p.94 = printed 92 (render + text).
+17. A1/6 message-marker commentary, example "WARNING. Obstruction in the fairway." — PDF p.102 = printed 100.
+18. Appendix to A1 worked distress example, MV "BIRTE", call sign DELTA ALFA MIKE KILO — PDF p.126 = printed 124.
+19. A2/1 wheel-orders table, "Midships — Rudder to be held in the fore and aft position" — PDF p.130 = printed 128.
+20. Resolution A.918(22), "Adopted on 29 November 2001" — PDF p.244 = printed 242. (Back-cover ISBN 960-337-067-3 also re-verified, PDF p.247, render.)
+
+**Honest negatives**
+
+- The book is **not** an ITYE Diophantos / Ministry of Education publication and carries no Diophantos book code: publisher is the Eugenides Foundation (2005), written for the Merchant Navy Academies; its Grade 10 EPAL status comes only from its place on the ebooks.edu.gr platform. The brief's "ITYE Diophantos / Greek Ministry" attribution does not appear in the book.
+- No publication year is printed for the Greek original beyond the edition statement "Α΄ ΕΚΔΟΣΗ 2005" (first edition 2005); the underlying IMO text is the 2002 edition, © IMO 2002. No other year is claimed.
+- No exercises, answer keys, lesson plans, dialogues for practice, audio references in the Greek edition's own pages (the Introduction's footnote about an accompanying pronunciation CD refers to the IMO's expected 2003 CD, not to anything supplied with this Greek book), and no EPAL curriculum mapping or grade-level marking inside the book.
+- The PDF is print/copy-restricted (RC4); text extraction works, but a small number of Greek words extract with corrupted characters (noted at e.g. PDF pp.77, 101, 203) — the printed pages themselves are clean, as the renders show.
+- PDF pp.94–95 (printed 92–93) are genuinely near-empty (end of the pilotage section), not missing content; PDF pp.2, 246 are blank and p.247 is the back cover.
+
+
+## Grades 11–12 — Αγγλικά 2, Student's Book (Αγγλικά Γενικού Λυκείου 2)
+
+### Identity
+
+- **Title as printed:** Αγγλικά Γενικού Λυκείου 2 — cover short form "Αγγλικά 2, Γενικού Λυκείου". Library record title: "Agglika 2 B'-C' Lykeiou (Grades 11-12) - Vivlio Mathiti". Identity **confirmed** from the rendered cover, half-title and title page (PDF pp. 1, 2, 4): same title, same grades, same publisher.
+- **Grades / stream:** Β΄ & Γ΄ Γενικού Λυκείου — Grades 11 and 12 of the general (non-vocational) Lykeio. One book serves both years; nothing inside splits the material into a Grade 11 part and a Grade 12 part.
+- **Publisher:** Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «ΔΙΟΦΑΝΤΟΣ» (ITYE "Diophantos"), publishing for the Ινστιτούτο Εκπαιδευτικής Πολιτικής (Institute of Educational Policy, IEP) of the Υπουργείο Παιδείας, Θρησκευμάτων και Αθλητισμού (Ministry of Education, Religious Affairs and Sports). Source platform: ebooks.edu.gr.
+- **Book code / ISBN:** Book code 0-22-0251; ISBN 978-960-06-5929-0 (both printed on the cover, PDF p. 1).
+- **Production credits (PDF p. 3):** Coordinated by Evangelia Papadimitriou (IEP); content development / revision and editing by Maria Nika (IEP), with six external PE06 English-teacher experts named; layout by Dimitra Komninou (IEP). The credits state the material was produced unpaid under an IEP action to revise/develop foreign-language curricula for the general Lykeio (call ref. 7143/23-10-2017).
+- **Year as printed — honest:** No single publication year is printed on the cover, title page or imprint. The evidence inside the file is: main body imposed 7 December 2018 (production marks "ENGLISH 2 BOOK.indb", 7/12/2018); the image/text credits note says all web texts were last retrieved 04.09.2018 (PDF p. 7); individual replacement pages carry 2023–2024 production marks and the cover/front-matter wrappers carry October 2023, December 2024 and March 2025 marks. File this as a 2018 body in a later Diophantos re-issue wrapper, not as a book "of 2025".
+- **Extent:** 150 PDF pages.
+- **Printed = PDF offset:** Printed page = PDF page − 1 throughout the paginated body. Printed p. 9 (Unit 1 divider) is PDF p. 10; printed p. 146 (last content page) is PDF p. 147. Front matter (PDF pp. 1–9) is unnumbered; PDF p. 148 is blank, PDF p. 149 is the statutory Diophantos distribution notice (Law 3966/2011), PDF p. 150 repeats the cover spread.
+- **Contents as printed (PDF p. 6):** 1 Group Work p. 9 · 2 Do we all live in the same world? p. 13 · 3 Renaissance arts & artists p. 33 · 4 Learning to fly p. 51 · 5 Addictions p. 65 · 6 Leaders. Born or made? p. 81 · 7 Human Rights p. 101 · 8 Book burning p. 115 · 9 The Merchant of Venice p. 141.
+
+### How the book works
+
+The Greek introduction (Εισαγωγικό σημείωμα, PDF p. 8) presents the file, in my summary, as thematic teaching material for general Lykeio English: it is meant to build on learners' existing communicative ability through reading, writing, speaking, research and presentation tasks, worked individually and in groups, with teachers explicitly invited to supplement and adapt it to their class level, needs and equipment, and with new technology usable but not required. That promise matches the book's actual construction: there is no lesson-by-lesson grammar syllabus and no workbook section. Each unit is a theme dossier — authentic or adapted texts, video/listening links (mostly YouTube, BBC, UNHCR, Nobel Prize sources), discussion and group work, one explicit grammar focus drawn out of the texts, and a guided formal-writing task in the later units. Recurring tools are the "word wall" (unknown words on post-it notes), the 5-4-3-2-1 summary table (key words / facts / new words / known facts / open question), Venn diagrams, mind maps and "Further Practice" menus. Greek is used only in the front matter and credits; the teaching body is in English.
+
+### Unit by unit
+
+**Unit 1 — Group Work (printed pp. 9–12).** A four-page ice-breaker, not a language unit. Learners pair with someone they barely know, exchange biographical basics, a summer memory and free-time interests, then report their partner to the class; card-sorted groups then discuss expectations of the year's English lessons and difficulties from previous years, name their group and fill a drawn "boat" with the group's name, members and the features of an ideal English lesson, for display. No texts, no grammar, no vocabulary list.
+
+**Unit 2 — Do we all live in the same world? (printed pp. 13–32).** The refugee unit, and the book's longest reading load after Unit 8. It opens with a UNHCR video, photo comparison, and a terminology set distinguishing refugee, migrant and asylum seeker and matching terms such as unaccompanied minor, deportation, settlement, stateless person, trafficking and smuggling to dictionary definitions. Learners rate agree/disagree statements before and after reading two long texts: a UNHCR story about Muzon, a Syrian teenage girl in Jordan's Azraq camp campaigning for girls' schooling, and an extract from an anthology of refugee writing about Mesfin, an Ethiopian man in Kakuma camp, Kenya, centred on firewood, hunger and the sameness of camp days. Analysis uses a Somebody–Wanted–But–So story table for each text, a life-before / flight / life-now comparison table, a Venn diagram and the 5-4-3-2-1 table. Grammar is drawn from the first text: direct to reported (indirect) speech, with a full tense- and time-expression shift table, practised by justifying true/false statements in reported speech. Production: groups invent a refugee story from a photo and a shared key-word bank, with alternatives to perform a dialogue, write an interview, or write a letter to the international community; Further Practice offers family-tree, interview, research, board-game and literature-presentation options.
+
+**Unit 3 — Renaissance arts & artists (printed pp. 33–50).** Opens with a short Renaissance overview video and a crossword (period, humanism, Michelangelo and the Sistine ceiling, the Mona Lisa / Last Supper). Learners match seven reproduced paintings to Botticelli, Michelangelo, Raphael, Bellini, Verrocchio and Leonardo, choose a favourite and explain the feeling it evokes. The core is jigsaw reading: five groups each read one adapted BBC / art-history biography — Leonardo da Vinci, Michelangelo, Sandro Botticelli, Raphael, and Andrea del Verrocchio — complete the same born / fields / famous works / died / impact table, summarise in one paragraph and read it aloud; "Did you know?" side panels add, in my summary, Leonardo's tree-branch rule and animal kindness, the Michelangelo–Raphael rivalry, and Raphael's homage to Michelangelo. Grammar is the passive voice, motivated by the biographies' style: learners underline passives, convert them to active, and study a tense-by-tense passive formation table. Further Practice includes a 150–180-word school-newspaper article on a work of art and an essay of about 180 words on the Renaissance — the book's first word-counted writing.
+
+**Unit 4 — Learning to fly (printed pp. 51–64).** A narrative-writing and non-conformity unit built from two bird texts. Learners read a short factual note on blackbirds, infer a story from video screenshots of the "Blackbird" idea, chart the narrative, then enrich it with background, zoom-in, description, flashback and monologue; from their own drafts they induce the uses of the narrative tenses and test whether the same continuous-tense logic holds in present and future. Paul McCartney's own explanation of "Blackbird" — in my summary, a civil-rights encouragement song in which a Black woman in Little Rock becomes, symbolically, a bird — is compared with the class stories; learners listen to the song, work with its full lyrics (printed p. 57, © White Album, 1968), and rewrite lines, replace repeated lines, or set a version to their own music. The second text is Richard Bach's *Jonathan Livingston Seagull*: the dedication and Part One opening, prediction, the continuation (Jonathan practising a slow, stalling curve, shaming gull convention, at odds with his parents), a character portrait from an adjective bank, comparison with the blackbird, a class discussion on needing to "fly", a parents-versus-child role-play judged on argument, and literary-technique work — separating action from comment, judging what makes the extract literary against a flattened rewrite, then reworking the learners' own blackbird story to make it more literary. Listening to a narrated version (diary, drawing or blog review) and watching the film trailer close the unit. No separate exercise set: grammar lives inside the storytelling.
+
+**Unit 5 — Addictions (printed pp. 65–80).** Mind-map opening on addictive substances and behaviours, then BBC 6 Minute English listening on coffee addiction (topic, dangers, reasons, "psychoactive drug", insomnia / indigestion / lethargic, withdrawal symptoms, why Finland is mentioned). The reading is an adapted *Kathimerini* newspaper article on teenage alcohol consumption in Greece: unenforced under-18 sales/entry law, a University Mental Health Research Institute figure of 94.1% of under-16 respondents having consumed alcohol, early tasting encouraged at home, wine as cultural heritage, higher rural consumption, and experts arguing for education and awareness over bans. Learners assign a heading to each of the nine paragraphs, answer multiple-choice comprehension, and match eight text words (adulterated, lethal, morbidity, spur, rural, acknowledge, enforce, proliferation) to definitions. The grammar focus is inversion: noticing it in a quoted sentence, completing the rule notes, a full catalogue (negative adverbials, limiting adverbials, conditional inversion without "if", place adverbials, "so + adjective … that"), then twenty rewrite items, several deliberately exam-like (initialled stems such as "Never …", "Only with …", "Not until …", "On no account …"). The unit ends with the book's fullest essay apparatus: write an essay of 180–220 words suggesting ways to deal with addiction, for the school magazine, with topic-analysis questions, a five-paragraph suggestions/solutions plan, and a linking-language bank (listing, suggesting, contrasting, exemplifying, expected results, concluding).
+
+**Unit 6 — Leaders. Born or made? (printed pp. 81–100).** Group discussion of leader qualities and born-versus-made examples leads into two cloze biographies with word banks: Martin Luther King Jr. (Montgomery bus boycott, Southern Christian Leadership Conference, 1963 March on Washington, 1964 Nobel Peace Prize, assassination in Memphis in 1968) and Nelson Mandela (ANC, apartheid, 27 years in prison, release by F. W. de Klerk in 1990, 1994 election and presidency, Truth and Reconciliation Commission). Comparison uses a Venn diagram. "The art of persuasion" then sets adapted extracts of King's "I Have a Dream" beside Mandela's "I am prepared to die" (Rivonia) speech on poverty, education and apartheid law; learners become speech critics using a rhetoric table — repetition, questions, lists, antithesis, rule of three, and Aristotle's ethos / logos / pathos — and judge which speech is more persuasive, honest, factual, eloquent or passionate. Vocabulary matching and synonym-finding from the speeches follow. Grammar is modal verbs: functions, form notes, choosing one modal that fits both sentences of a pair, a long cloze "How to be a Good and a Global Citizen" guide (volunteering, homelessness, blood donation, checking charities, learning a language), and matching modal sentences to meanings (necessity, prohibition, request, possibility). Learners rank and self-score "good citizen" characteristics, poster the profile of an effective leader, and discuss equality of opportunity and identity. Writing: a formal proposal of 130–180 words to a town council head on improving deprived neighbourhoods, taught explicitly — purpose/audience/register questions, what a proposal is, a headed five-paragraph plan, formal-register features (impersonal tone, passives, no contractions, no colloquialisms) and a linking bank; Further Practice repeats the proposal genre for homelessness and offers a citizenship-conference speech.
+
+**Unit 7 — Human Rights (printed pp. 101–114).** Opens with the dove as a symbol, other universal symbols, and identifying three quoted lines as a president's before learners meet them in context. The main text is Barack Obama's first inaugural address (2009), printed in eight numbered paragraphs under the heading "A new era of responsibility" — hope over fear, earning greatness, ending standing pat, rejecting a false choice between safety and ideals, and citizenship as responsibility — with paragraph-heading matching and six multiple-choice questions on purpose, implication and repetition. Vocabulary is worked in depth (grievance, recrimination, discord, obscure, era, grudgingly, seize, rugged, creed, proclaim, and peers) and recycled in gap sentences. The Universal Declaration of Human Rights follows as a four-option cloze: Articles 1, 2, 18, 19, 26 and 29 (brotherhood, distinction, thought, opinion, compulsory education, merit, respect, tolerance, racial groups, peace, limitations, welfare). Learners then make a school rights-and-responsibilities poster, watch King's 1964 Nobel acceptance speech and answer questions, answer multiple-choice questions on an extract of his Nobel lecture on non-violence, poster violence versus non-violence, map and rank their own values against the unit's opening map, discuss human-rights values (inclusion, diversity, cooperation, respect) with concrete abuse examples, and prepare a Human Rights Friendly Schools presentation for Human Rights Day (10 December). Further Practice returns to UDHR Article 26 and girls' education case studies. No new grammar is taught in this unit; the load is lexis, rhetoric and discussion.
+
+**Unit 8 — Book burning, now and then (printed pp. 115–140).** The book's heaviest unit by page count. After prior-knowledge questions and the book-burning scene from the film *The Book Thief*, pairs split two long adapted Wikipedia texts — the 2013 film (Brian Percival; Geoffrey Rush, Emily Watson, Sophie Nélisse; John Williams score) and Markus Zusak's 2005 novel — covering Liesel Meminger, Hans and Rosa Hubermann, Rudy Steiner, Max Vandenburg and Ilsa Hermann, then combine them in story and character-analysis tables (message, Death as narrator, setting, characters, events, ideas, conflict, personal reaction; appearance, traits, background, conflicts, motivation, relationships, significance). A themes text (mortality, language/reading/writing as freedom and as social marker, love) is tested against the class's conclusions, and the film scene is compared with the novel's own bonfire chapter, printed as a long extract credited to Zusak, pp. 113–120 of the 2007 Transworld edition. The Greek mirror follows: an adapted extract, in Edward Fenton's English translation, from Alki Zei's *Wildcat Under Glass* — schoolchildren marched to watch "harmful books" burned under the Metaxas dictatorship, the narrator recognising her grandfather's signed ancient-classics volume in the pile — with comparison of the two burnings and the heroes' feelings. Non-fiction closes the unit: the Berlin Book Burning Memorial on Bebelplatz (Micha Ullman's underground "sunken library" of empty shelves, unveiled 20 March 1995, room for about 20,000 volumes recalling the roughly 20,000 books burned there on 10 May 1933, and Heine's 1820 warning inscribed on bronze plates) and an account of the 1933 burnings themselves (the "Action against the Un-German Spirit", Goebbels' speech, 131 listed authors, and the fates of exiled, murdered and suicidal authors), followed by eight written comprehension questions, a research poster/presentation, and a closing debate on students burning their own books on the last day of school — with the two sides' positions, confusingly, both headed "Group A" as printed (see Negatives).
+
+**Unit 9 — The Merchant of Venice (printed pp. 141–146).** A six-page capstone, not a play edition. Learners watch Shylock's monologue from Michael Radford's film (Al Pacino) three times through a four-stage looking/thinking routine credited to David Perkins, *The Intelligent Eye* (Getty, 1994): (1) observe and brainstorm exactly what was seen; (2) infer who/where/what and formulate their own questions; (3) read the monologue text itself — Shylock's catalogue of wrongs from Antonio and his plea, in early modern English, that a Jew has eyes, hands, senses and passions like a Christian, ending in the revenge logic he says Christians taught him — underline differences from modern English, and prepare a debate on the questions posed in the First Conditionals, speaking from assigned perspectives (Jews, Christians, Muslims, Buddhists, and Judges — the table as printed lists "Group 2" twice); (4) watch the whole film, revisit the stage-1 answers and their own questions. Groups then express the film's messages in a form of their choice (text, poem, song, drawing) and name five key words for the experience. A closing "About the play…" panel (printed p. 146) summarises the play in my words: a 1596–1598 Shakespeare comedy in which Antonio borrows 3,000 ducats from Shylock so Bassanio can woo Portia of Belmont, against a bond of a pound of Antonio's flesh if the loan is not repaid on time; classified as a comedy in the 1623 First Folio, it is best remembered for its dramatic scenes and Shylock's speech on humanity. The unit title page (printed p. 141) frames the play with the questions whether Shylock's thirst is personal, for peace, and/or global. No other scenes, no Portia / casket / trial material, and no language exercises beyond the early-modern-English noticing and the First Conditional debate prompts are included.
+
+### Language and skills map (whole book)
+
+- **Grammar, one focus per unit, always text-led:** reported speech (U2), passive voice (U3), narrative tenses inside story-writing (U4), inversion (U5), modal verbs (U6), First Conditionals as a debate lens (U9). Units 1, 7 and 8 teach no new grammar.
+- **Writing, escalating to formal genres:** story / dialogue / interview / letter (U2), 150–180-word article and c. 180-word essay (U3), literary story reworking, diary and blog review (U4), 180–220-word problem–solutions essay with full plan and linking bank (U5), 130–180-word formal proposal with register teaching (U6), posters and presentations (U7), debate preparation (U8–U9). This guided essay/proposal work is the closest the book comes to examination preparation.
+- **Exam-style tasks — honest scope:** Multiple-choice reading (U5, U7), four-option cloze (U7 UDHR; U6 biographies with word banks), paragraph-heading matching (U5, U7), true/false with reported-speech justification (U2) and sentence-rewrite grammar items (U5) are all in recognisable examination formats, and the word-counted essay and proposal match school-exam genres. But the book contains **no** Panhellenic (national university-entrance) examination paper, no mock test, no timed tasks, no marking scheme and no answer key anywhere.
+- **Level:** No CEFR level (A2/B2/C1 etc.) is stated anywhere in the book. Judged from the texts alone — unabridged-feeling UNHCR and inaugural-address prose, Shakespeare in the original, and inversion/modal systems work — the demand is upper-intermediate to advanced in reading, while much of the speaking demand is scaffolded discussion. That judgement is mine, not the book's claim.
+
+### Citation check — 18 anchors verified against the PDF
+
+All anchors below were checked in the extracted text and, for anchors 1, 7 and 18, also against rendered pages. Printed page = PDF page − 1.
+
+1. Cover (PDF p. 1): title Αγγλικά 2 Γενικού Λυκείου, "Β΄ & Γ΄ ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ", book code 0-22-0251, ISBN 978-960-06-5929-0, ITYE Diophantos. — PASS (rendered).
+2. Contents (printed p. 5, PDF p. 6): nine units listed, Unit 2 at p. 13, Unit 9 *The Merchant of Venice* at p. 141. — PASS.
+3. Unit 1 divider at printed p. 9 (PDF p. 10); first Group Work pair activity on printed p. 10 (PDF p. 11). — PASS.
+4. Unit 2 opening (printed p. 14, PDF p. 15): Activity 1 is the UNHCR YouTube video with four questions. — PASS.
+5. Terminology matching (printed p. 16, PDF p. 17): six terms incl. unaccompanied minor, deportation, stateless person, human trafficking, smuggling. — PASS.
+6. Muzon text begins printed p. 19 (PDF p. 20): UNHCR story, Syrian girl, Azraq camp, photo credit UNHCR/Ed Ou. — PASS (rendered).
+7. Reported-speech shift table on printed p. 28 (PDF p. 29), with the Muzon acknowledgement sentence worked as the model. — PASS.
+8. Unit 3 painting-matching list (printed p. 36, PDF p. 37): seven works incl. Botticelli *Primavera* and Michelangelo *Creation of Adam*, with one extra name. — PASS.
+9. Leonardo biography (printed pp. 37–38, PDF pp. 38–39): born 15 April 1452 near Vinci, died 2 May 1519 at Cloux; BBC source line. — PASS.
+10. Passive-voice formation table on printed p. 49 (PDF p. 50): "be + past participle" with the Leonardo / most-famous-painting model pair. — PASS.
+11. McCartney "Blackbird" explanation on printed p. 56 (PDF p. 57), Little Rock gloss; full lyrics follow on printed p. 57 (PDF p. 58). — PASS.
+12. *Jonathan Livingston Seagull* opening on printed p. 58 (PDF p. 59): dedication and "PART ONE" morning / Breakfast Flock opening. — PASS.
+13. Alcohol article (printed p. 69, PDF p. 70): UMHRI figure 94.1% of under-16 respondents had consumed alcohol; nine-paragraph heading match follows on printed p. 70. — PASS.
+14. Essay task (printed p. 78, PDF p. 79): addiction essay of 180–220 words for the school magazine; five-paragraph plan on printed p. 79. — PASS.
+15. King cloze biography (printed p. 83, PDF p. 84): ten-item word bank incl. civil rights, segregation, nonviolent; Nobel Peace Prize 14 October 1964 in the text. — PASS.
+16. Speeches (printed pp. 86–87, PDF pp. 87–88): "I Have a Dream" beside "I am prepared to die"; rhetoric table (ethos/logos/pathos) on printed p. 88. — PASS (p. 86 rendered).
+17. UDHR cloze (printed pp. 108–109, PDF pp. 109–110): Articles 1, 2, 18, 19, 26, 29 with twelve four-option gaps. — PASS.
+18. Shylock monologue (printed p. 144, PDF p. 145) and "About the play…" panel (printed p. 146, PDF p. 147): Antonio's 3,000-ducat loan and pound-of-flesh bond. — PASS (p. 144 rendered).
+
+### Honest negatives
+
+- No publication year, no CEFR level, no author names on the title page (the book is an IEP team product; individual credits are on PDF p. 3 only).
+- No glossary, no vocabulary lists per unit, no grammar appendix, no tapescripts for the many video/listening links, and no answer key — comprehension answers exist only in class discussion. All listening/viewing depends on external links (YouTube, BBC, UNHCR, Nobel Prize, Amnesty) as printed in 2018; the book gives no fallback text if a link dies, except where the speech/lyrics are also printed (U4 lyrics, U6–U7 speeches, U9 monologue).
+- No differentiation inside the book between Grade 11 and Grade 12 use, and no EPAL/vocational content — this is the general-Lykeio book only.
+- Unit weight is very uneven: Unit 1 is 4 pages and Unit 9 is 6 pages against 20 pages for Unit 2 and 26 pages for Unit 8; a teacher must pace it, as the introduction itself anticipates.
+- Two printing slips worth recording: the Unit 8 closing debate table (printed p. 139) heads both sides "Group A" (the second should be the against side), and the Unit 9 debate table (printed p. 145) numbers its five perspective groups 1, 2, 3, 4, 2 (Judges unnumbered in effect). Neither affects citability.
+- The file is a composite re-issue: most pages carry December 2018 production marks, but scattered replacement pages (e.g. printed pp. 21, 36, 39, 46, 87–88, 94, 97, 110, 113, 119, 121, 130, 133–136, 138) carry 2023–2024 marks and the cover/front wrappers 2023–2025 marks. Content is continuous and complete; no pages are missing between printed pp. 9 and 146.
+
+### Series-final verdicts — general Lykeio English
+
+- This is the **ceiling book of the general Lykeio English line**: *Αγγλικά 2* for Β΄ & Γ΄ Λυκείου (Grades 11–12) closes the general-stream sequence that *Αγγλικά 1* (Grade 10) opens. There is no *Αγγλικά 3* and no separate Grade 12 general-Lykeio English student's book in this series — Grade 12 uses this same volume, which is why the record's Grade 12 rows cross-refer to this Grade 11 file.
+- Its ceiling is thematic and rhetorical, not grammatical: learners finish able to analyse long authentic prose, political speeches and a Shakespeare monologue, argue in debates, and produce a word-counted problem–solutions essay and a formal proposal — the two taught extended-writing genres. Grammar tops out at reported speech, the full passive system, narrative tenses, inversion and modals.
+- For LiqLearns course-building, cite it as: Greece, *Αγγλικά Γενικού Λυκείου 2*, Grades 11–12, ITYE Diophantos / IEP, ISBN 978-960-06-5929-0, printed pp. 9–146 (PDF pp. 10–147; PDF = printed + 1). Do not cite a publication year — none is printed; "2018 body, later re-issue wrapper" is the honest dating.
+
+
+## Grade 11 (EPAL) — Maritime English Volume 2, Student's Book (Maritime English Volume II)
+
+**Identity — VERIFIED MATCH, with a publisher correction to the brief.**
+The file is the book it claims to be: cover, imprint and title page all agree.
+One correction to the assignment brief: the originating publisher is **not**
+ITYE Diophantos. This is a Eugenides Foundation book, written for the
+Merchant Navy Academies and afterwards adopted for EPAL use under a
+Diophantos book code (the Diophantos logo and code appear on the back
+cover only). The brief's title, volume, grade and sector are all correct.
+
+- **Title as printed:** cover "MARITIME ENGLISH / VOLUME 2"; title page
+  "MARITIME ENGLISH / VOLUME II"
+- **Author:** Paraskevi L. Papaleonida (Παρασκευή Λ. Παπαλεωνίδα),
+  English teacher at the Merchant Navy Academy of Macedonia
+  (ΑΕΝ/Μακεδονίας), named on cover and title page. Scientific adviser:
+  Georgios Dounavis, English professor, AEN Syros (named in the
+  Foundation's preface matter, PDF p. 7).
+- **Publisher / series:** Eugenides Foundation (Ίδρυμα Ευγενίδου),
+  series "Βιβλιοθήκη του Ναυτικού" (The Seafarer's Library), Athens.
+  Cover header (in Greek): "Educational text of the Merchant Navy
+  Academies"; the Foundation's gold-medal line of the Academy of
+  Athens is also printed on the cover.
+- **Year / edition as printed:** title page "ΑΘΗΝΑ 2020" (Athens 2020);
+  imprint page (PDF p. 3) "Α΄ ΕΚΔΟΣΗ 2016" (1st edition 2016) and
+  "Copyright © 2020 Ίδρυμα Ευγενίδου". Honest reading: first edition
+  2016, this copy is the 2020 Athens printing. The PDF file itself was
+  produced 17 Nov 2020 (cover imprint dated 9/11/2020).
+- **ISBN / code:** ISBN 978-960-337-125-0; ISBN (SET) 978-960-337-122-9;
+  book code (Κωδικός βιβλίου) 24-0596; barcode (01) 000000 0 24 0596 4
+  — all on the back cover (PDF p. 1) and repeated on the imprint page.
+- **Pages:** 417 PDF pages. PDF p. 1 is the full cover spread
+  (back cover + spine + front cover, a print file) and the same spread
+  is repeated as PDF p. 417. Printed pagination: front matter in roman
+  numerals (Contents at printed ix–xii), main body printed pp. 1–403,
+  ending with the Bibliography at printed pp. 400–403.
+- **Offset:** printed page = PDF page − 13 throughout the
+  Arabic-numbered body (e.g. printed p. 2 = PDF p. 15; printed p. 322 =
+  PDF p. 335). In the roman-numbered front matter, printed folio =
+  PDF page − 1 (Contents ix = PDF p. 10).
+- **Intended users, as the book states them:** the author's preface
+  (Greek, PDF pp. 8–9) says the book teaches "Nautical English" for
+  semesters 4, 5 and 6 (Δ΄, Ε΄, ΣΤ΄) of the Merchant Navy Academies,
+  built to IMO Model Course 3.17, aiming at the communicative
+  competence of watchkeeping officers. In the EPAL system the same
+  book serves as the Grade 11 (Β΄ Λυκείου) nautical-sector English
+  book. Deck (πλοίαρχοι) and engineer (μηχανικοί) cadets share the
+  main body; engineers additionally work Appendix I (see below).
+  The preface's semester map: semester 4 = Introductory Unit +
+  Units 1–5 + Review 1; semester 5 = Units 6–10 + Review 2;
+  semester 6 = Units 11–15 + Review 3, with the matching part of
+  Appendix I each semester.
+
+**How the book works (its own stated method).** Every exercise is
+flagged with a symbol for the skill it trains (speaking, reading,
+writing, listening/discussion, self-assessment, pair work, group
+work, information, audio comprehension). A Greek–English glossary
+follows most reading texts. IMO Standard Marine Communication
+Phrases (SMCP) are not quarantined in one chapter: they are embedded
+unit by unit, matched to each topic. Grammar is deliberately kept
+out of the units — structures are cross-referred to Appendix IV the
+first time they occur, with two exceptions taught in place (Passive
+Voice inside Unit 6, Conditionals inside Units 11–12). Listening
+material is on audio CD; all transcripts are printed in Appendix III.
+Almost all reading texts are authentic or adapted authentic sources —
+accident investigation reports (MAIB), Gard loss-prevention material,
+IMO codes, company guidance to masters, Paris MoU and IAMSAR
+material — each credited in footnotes and the Bibliography.
+
+**How it advances beyond Volume 1.** (Stated from this book's own
+preface and contents — see Honest negatives: Volume 1 was not
+re-opened for this filing.) Volume 2 assumes the foundation course
+and moves the learner from general shipboard English to the working
+English of an officer: reading and acting on real regulatory texts
+(ISM, ISPS, IMDG, IMSBC, MARPOL, ColRegs, Paris MoU), producing
+business and official writing (protests, memos, agendas, reports),
+handling commercial subjects a cadet course does not reach
+(insurance, chartering, laytime), and managing people (fitness,
+fatigue, appraisal, multicultural crews). The engine-room strand is
+hived off into a full 73-page specialist appendix rather than mixed
+into the deck units.
+
+### Unit-by-unit summary (all page refs are printed pages)
+
+- **Introductory Unit — Case Study: The Grounding of Astral
+  (pp. 2–9).** A full accident-investigation case study: the Swedish
+  tanker Astral dragged anchor in storm-force winds in March 2008
+  and grounded on Princessa Shoal near the Isle of Wight. Learners
+  work through the official synopsis, the factual background (the
+  second officer's certification, testing and weak performance
+  record), the analysis of contributory causes (anchoring procedure,
+  position monitoring, reliance on anchoring equipment, recruitment)
+  and the safety recommendations. Vocabulary work targets report
+  language (sustained, deteriorated, dispatched, tenability).
+  The case is the book's anchor text: Units 1–5 each pick up one of
+  its threads.
+- **Unit 1 — Effective Communication (pp. 10–21).** Why a common
+  language matters: an article on the IMO SMCP argues poor Maritime
+  English sits behind roughly a third of accidents, with VTS areas,
+  pilots and Port State Control as pressure points. Learners rewrite
+  a real, muddled collision-avoidance exchange into proper SMCP,
+  then study miscommunication as an accident cause and the cultural
+  norms of different nationalities — gestures, directness, attitudes
+  to hierarchy — and how cultural difference plays out in mixed
+  crews at sea. Closes with a Round-up.
+- **Unit 2 — Preparing for Sea / Arrival in Port (pp. 22–39).**
+  Bridge checklists for departure and arrival (passage plan updates,
+  ETA reporting, pilot card, mooring gear, VHF channels), anchoring
+  gear and anchoring accidents (the Pasha Bulker and Young Lady
+  groundings echo the Astral case), SMCP for anchoring and berthing,
+  then pilotage: SMCP for pilotage, welcoming and briefing the
+  pilot, and a bridge-resource-management incident story in which
+  good BRM prevents an accident. Round-up at p. 37.
+- **Unit 3 — Safety and Risk on Board (pp. 40–55).** The ISM Code
+  and the Safety Management System: designated person ashore,
+  non-conformities, near-misses, root cause, corrective action.
+  Bridge checklists as a safety tool, formal risk assessment
+  (hazard identification, likelihood/consequence, reducing risk to
+  as low as reasonably practicable), choosing materials and tools
+  for maintenance work, and safe working practice / accident
+  prevention, including the accident-pyramid idea that many near
+  misses underlie each serious injury. Round-up p. 52.
+- **Unit 4 — Safe Navigation (pp. 56–75).** Safety communications:
+  reading real Met Office and NAVTEX forecasts (wind direction and
+  force, sea state, visibility) and navigational warnings (NAVAREA
+  messages, chart references, requested berths). Heavy-weather
+  commands, bridge checklists and heavy-weather plans, accident
+  prevention for deck work in bad weather; ice information,
+  ice-breaking operations and ice navigation/damage; survival at
+  sea, including first aid for cold-related emergencies (p. 69) and
+  incident report writing (p. 71). Round-up p. 72.
+- **Unit 5 — Joining Ship (pp. 76–89).** The employment and travel
+  side: joining/rejoining, signing on and off, contracts, leave,
+  rank, handover — practised first on the Astral officers' service
+  histories. Crewing-agency work and company FAQ pages for new
+  joiners (baggage allowances, who pays travel), then procedures at
+  international airports: check-in and security-question English.
+  Round-up p. 86. This is the book's most everyday-English unit.
+- **Review 1 — Units 1–5 (pp. 90–95).** Consolidation with new
+  texts: foreign-language learning problems and expert study advice,
+  non-verbal communication across cultures, parametric rolling of
+  ships, preventing corrosion, occupational accident prevention —
+  plus preposition and Astral-vocabulary recycling.
+- **Unit 6 — Maritime Security (pp. 96–115).** Security threats
+  under the ISPS Code (piracy and armed attack, terrorism,
+  smuggling, stowaways and refugees, cargo theft, collateral
+  damage; security levels 1–3 and shipboard security equipment),
+  piracy in depth, stowaways, drug smuggling, and the ISPS Code
+  against maritime terrorism. The Passive Voice is taught in place
+  at p. 107, off a master's stowaway incident report — the natural
+  grammar of official reports. Round-up p. 112.
+- **Unit 7 — Marine Insurance and Chartering (pp. 116–135).**
+  The commercial unit. Marine insurance from the inside: Lloyd's
+  of London, underwriting, P&I Clubs, and the core vocabulary of
+  policy, premium, claim, liability and indemnity; salvage and
+  General Average (including "no cure no pay"). Then chartering:
+  types of charter and their terms/definitions (bareboat, voyage,
+  time), the roles of charterer, shipper, broker and arbitrator,
+  and the calculation of laytime. Round-up p. 131.
+- **Unit 8 — Marine Correspondence (pp. 136–157).** Written
+  professional English. The documents and certificates an ISM
+  audit demands (statutory and class certificates, record books,
+  certificates of competency, crew agreement, drill and audit
+  records), the Letter of Protest (p. 138), the language of written
+  communication — register and formality (p. 143) — and producing
+  a request letter, a memo and a meeting agenda (p. 147), closing
+  with weekly observations and safety meetings (p. 150).
+  Round-up p. 154.
+- **Unit 9 — Standards of Work and Behaviour (pp. 158–177).**
+  Seafarers' fitness in all three senses — physical, psychological
+  and suitable-for-the-job — with guidance-to-masters material on
+  alcohol, drugs, medication abuse and rest. Fatigue at sea
+  (p. 162), teamwork and intercultural communication (p. 167),
+  and marine appraisal: how officers are assessed and assess
+  others (p. 169). Round-up p. 175.
+- **Unit 10 — Navigation Aids and Systems (pp. 178–197).**
+  A bridge tour built around ECDIS: telling a navigational aid
+  (on board) from an aid to navigation (external), identifying
+  bridge equipment (autopilot, GPS compass, NAVTEX, gyro compass,
+  echo sounder, magnetic compass, speed log, radar, AIS) and
+  reading multi-function/ECDIS display modes. Then procedures in
+  sequence — passage planning and lifeboat launching (p. 185) —
+  and telephone English: clarifying misunderstandings and cargo
+  care (p. 189). Round-up p. 195.
+- **Review 2 — Units 6–10 (pp. 198–207).** Seafarers' fatigue
+  (including a Gard case of a feeder vessel grounded by a sleeping
+  chief officer, with its repair bill and 94 days out of service),
+  avoiding misunderstandings in orders, port security operations,
+  Greek shipping and the financial crisis, towage versus salvage,
+  and short case studies.
+- **Unit 11 — Marine Pollution (pp. 208–225).** How ships pollute
+  and why it is now a criminal-exposure subject for officers;
+  pollution prevention under MARPOL 73/78 and its annexes; oil
+  spills and oily-water discharge; sewage and garbage (p. 216);
+  air pollution (p. 217). Conditionals are taught in place at
+  p. 221 — the grammar of rules, consequences and warnings.
+  Round-up p. 222.
+- **Unit 12 — Emergency Response (pp. 226–243).** Search and
+  rescue: the IAMSAR Manual's own terminology (distress alert,
+  false alarm, ditching, drift, leeway, search and rescue region,
+  on-scene), the seamanship and search-pattern skills a deck
+  officer needs in a SAR operation, safety-on-board communications
+  — emergency announcements and orders (p. 229) — a second
+  Conditionals section (p. 234), the AMVER vessel-reporting system
+  (p. 235), and emergency response and training (p. 239).
+  Round-up p. 242.
+- **Unit 13 — Officer of the Watch (pp. 244–257).** Principles of
+  watchkeeping tested first as a true/false quiz drawn from STCW
+  (safe speed, rest hours — 10 hours in 24, 77 in seven days —
+  lookout rules, log-book discipline), SMCP for handing over the
+  watch (p. 247), the ColRegs collision rules (p. 249), and bridge
+  resource management (p. 253). Round-up p. 256.
+- **Unit 14 — Dangerous Goods (pp. 258–275).** The IMDG Code as a
+  regulatory framework: classifying, packing, marking, labelling,
+  placarding, documenting, stowing and segregating dangerous
+  goods; hazard vocabulary (flammable, corrosive, infectious,
+  explosive, spontaneous combustion, inhalation hazard, safety
+  data sheets). Handling dangerous goods with SMCP B3/1.2 and
+  emergency response action (p. 263), then the IMSBC Code for
+  solid bulk cargoes (p. 267). Round-up p. 273.
+- **Unit 15 — Port State Control Inspections (pp. 276–289).**
+  The Paris MoU system: 27 participating maritime administrations,
+  over 18,000 inspections a year, the White/Grey/Black flag lists,
+  and the ladder from inspection to deficiency to detention to
+  banning (p. 279). A "find the cause" diagnostic section (p. 283),
+  then a forward look: ICT and shipping — what the future will
+  bring, including remotely operated vessels (p. 285).
+  Round-up p. 287.
+- **Review 3 — Units 11–15 (pp. 290–302).** SOPEP and safety /
+  security equipment (oil-spill kits, lifeboat stores, ISPS gear),
+  ship motions and shifting cargo, the Prestige oil spill, the
+  dangers of transporting dangerous cargoes, and shipping and new
+  technologies in inspections.
+- **Appendix I — English for Marine Engineers (pp. 303–375).**
+  The engineers' parallel course, in three semester parts.
+  *Part One (pp. 303–338):* SMCP briefing on machinery events and
+  main/auxiliary engine operation, taught through an engine-room
+  flooding incident caused by deck/engine-room miscommunication;
+  the bilge–ballast system; preparing a diesel engine for running,
+  before arrival and after arrival in port; marine fuel-oil and
+  lube-oil properties and standards (pp. 315–330 — including a
+  fuel-sampling/analysis lesson and a bunkering text on how
+  untested fuel with catalytic fines wrecked a large diesel engine
+  within hours, printed p. 322); diesel-engine maintenance; a
+  consolidation review. *Part Two (pp. 339–356):* diesel-engine
+  vibration (torsion, amplitude, resonance, damping, detuning),
+  gas exchange, the engine logbook, review. *Part Three
+  (pp. 357–375):* cylinder liner wear (frictional, corrosive,
+  abrasive and adhesive/scuffing wear, wear-rate measurement),
+  diesel-engine troubleshooting, refrigeration, insulation, SMCP
+  for handling liquid goods, bunkers and ballast pollution
+  prevention, review.
+- **Appendix II — Fatigue at Sea (pp. 376–377).** A short reading
+  based on the Cardiff University seafarer-fatigue research
+  programme: definitions, seafaring culture ("the ship comes
+  first"), research methods, industry changes, and the causes of
+  fatigue — sleep debt, time of day, environment, perceived risk.
+- **Appendix III — Audio material transcripts (pp. 378–395).**
+  Full transcripts of the CD listening tracks, keyed by unit,
+  section, exercise and book page (the key itself is at p. 378) —
+  covering, among others, misunderstood gestures (Unit 1), risk
+  assessment guidance (Unit 3) and joining-ship listening texts
+  (Unit 5).
+- **Appendix IV — Grammar (pp. 396–399).** A compact reference,
+  not a course: 1. Passive Voice (p. 396, with tense tables);
+  2. Conditionals (pp. 397–398 — zero, first, second and third,
+  each with form, use and maritime examples); 3. Relative clauses,
+  defining and non-defining (p. 399).
+- **Bibliography (pp. 400–403).** Sources for the authentic texts:
+  MAIB and national investigation reports, Gard publications, IMO
+  and Paris MoU / IAMSAR material, UKHO warnings, industry and
+  university sources, with retrieval dates for web material
+  running to 2015 — consistent with the 2016 first edition.
+
+### Citation check
+
+20 anchors, each verified in this read against the actual PDF page
+(extracted text and, for pp. 1–4, the rendered page image). Format:
+claim — printed p. / PDF p.
+
+1. Book code 24-0596 and ISBN 978-960-337-125-0 on the back cover —
+   cover spread / PDF p. 1. ✔
+2. "Α΄ ΕΚΔΟΣΗ 2016" and the volume ISBN on the imprint page —
+   front matter / PDF p. 3. ✔
+3. Title page "MARITIME ENGLISH VOLUME II", Athens 2020 —
+   front matter / PDF p. 4. ✔
+4. Astral "dragged her anchor" and grounded on Princessa Shoal,
+   synopsis opening — printed p. 2 / PDF p. 15. ✔
+5. SMCP article calls the phrases a communicative "Survival Kit"
+   and blames insufficient Maritime English for one third of
+   accidents — printed p. 10 / PDF p. 23. ✔
+6. Pasha Bulker anchoring accident opens the anchoring-gear
+   section — printed p. 23 / PDF p. 36. ✔
+7. "Good BRM saves the day" is Unit 2 §2.III — printed p. 34 /
+   PDF p. 47. ✔
+8. ISM Code / Safety Management System text opens Unit 3 —
+   printed p. 40 / PDF p. 53. ✔
+9. Met Office forecast for sea area Wight and the NAVTEX forecast
+   open Unit 4 — printed p. 56 / PDF p. 69. ✔
+10. First-aid-for-cold material in the Survival at Sea section —
+    printed p. 69 / PDF p. 82. ✔
+11. "JOINING SHIP" vocabulary group (join, rejoin, signing on/off,
+    handover) opens Unit 5 — printed p. 76 / PDF p. 89. ✔
+12. ISPS security-threat list (piracy, stowaways, smuggling) opens
+    Unit 6 — printed p. 96 / PDF p. 109. ✔
+13. Passive Voice taught inside Unit 6, off a stowaway incident
+    report — printed p. 107 / PDF p. 120. ✔
+14. Lloyd's of London, underwriting and P&I Clubs open Unit 7 —
+    printed p. 116 / PDF p. 129. ✔
+15. ISM-audit document list (statutory certificates, record books)
+    opens Unit 8 — printed p. 136 / PDF p. 149. ✔
+16. Letter of Protest section — printed p. 138 / PDF p. 151. ✔
+17. Seafarers' fitness lead-in (physical, psychological,
+    suitable-for-the-job) opens Unit 9 — printed p. 158 /
+    PDF p. 171. ✔
+18. Bridge tour / ECDIS opens Unit 10; radar scanner displays —
+    printed pp. 178–179 / PDF pp. 191–192. ✔
+19. Pollution-prevention guidance listing MARPOL 73/78 opens
+    Unit 11 — printed p. 208 / PDF p. 221. ✔
+20. IAMSAR SAR terminology matching exercise opens Unit 12 —
+    printed p. 226 / PDF p. 239. ✔
+
+Further anchors verified in the same pass (not counted above):
+watchkeeping/STCW quiz, printed p. 244 / PDF p. 257; IMDG Code,
+printed p. 258 / PDF p. 271; ColRegs section, printed p. 249 /
+PDF p. 262; Paris MoU "27 participating maritime Administrations",
+printed p. 276 / PDF p. 289; Conditionals in place, printed
+p. 221 / PDF p. 234; Appendix I opening (engine-room flooding),
+printed p. 303 / PDF p. 316; diesel vibration, printed p. 339 /
+PDF p. 352; cylinder liner wear, printed p. 357 / PDF p. 370;
+"Liquid gold" fuel text with catalytic ("cat") fines, printed
+p. 322 / PDF p. 335; Appendix II Cardiff fatigue research,
+printed p. 376 / PDF p. 389; Appendix III transcript key (note:
+Appendix III's own heading misprints "transcripts" as
+"transcipts"), printed p. 378 / PDF p. 391; Appendix IV
+Conditionals (if-clause/main clause), printed p. 397 /
+PDF p. 410; Bibliography opening, printed p. 400 / PDF p. 413.
+
+### Honest negatives
+
+- **Not an ITYE Diophantos original.** The brief's publisher line
+  is wrong for this book: Diophantos only supplies it to EPAL
+  (logo + code 24-0596 on the back cover). Authorship and
+  publishing are the Eugenides Foundation's, and the book was
+  written for Merchant Navy Academy cadets, not school pupils —
+  its reading level, incident reports and commercial units are
+  adult professional material reused at EPAL Grade 11.
+- **No single publication year is printed.** The book carries two
+  dates — 1st edition 2016 (imprint) and Athens 2020 (title page /
+  copyright). Any catalogue entry giving only one year is
+  incomplete; "2016, 2020 printing" is the honest form.
+- **Volume 1 was not re-opened for this filing.** The
+  "advances beyond Volume 1" paragraph rests on this book's own
+  preface, semester map and contents, not on a fresh side-by-side
+  read of Volume 1.
+- **The audio itself was not heard.** Listening content is filed
+  from the printed transcripts in Appendix III; the CD is not part
+  of the PDF, and no audio file was available to check.
+- **Greek front matter is filed in summary, not in full
+  translation.** The Foundation's and author's prefaces
+  (PDF pp. 6–9) were read for provenance, method and the semester
+  map; they are not reproduced here.
+- **No answer key exists in this book.** Exercises are open,
+  matching or gap-fill tasks for classroom use; the PDF contains
+  no key section, and none was invented for this filing.
+- **The PDF is a print file, not a reading file:** it opens and
+  closes with the same full cover spread (PDF pp. 1 and 417), is
+  print/copy-restricted, and its Greek text layer is partly
+  mis-encoded in extraction (the English body extracts cleanly);
+  identity was therefore confirmed from rendered pages, not from
+  the text layer alone.
+
+
+## Grade 11 (EPAL) — General English, Student's Book (Γενικά Αγγλικά, Β΄ & Γ΄ ΕΠΑ.Λ., Γενικής Παιδείας)
+
+### Identity block
+
+- **Real title as printed:** Γενικά Αγγλικά — on the front cover in capitals as ΓΕΝΙΚΑ ΑΓΓΛΙΚΑ, with Β΄ & Γ΄ ΕΠΑ.Λ. / ΓΕΝΙΚΗΣ ΠΑΙΔΕΙΑΣ in the box below it; on the full title page (PDF p. 4) as «Γενικά Αγγλικά / Β΄ & Γ΄ ΕΠΑ.Λ. / ΓΕΝΙΚΗΣ ΠΑΙΔΕΙΑΣ». In English: General English, 2nd and 3rd years of EPAL (vocational upper secondary), General Education. The Contents head it ΓΕΝΙΚΑ ΑΓΓΛΙΚΑ 2 / ΓΕΝΙΚΑ ΑΓΓΛΙΚΑ ΕΠΑ.Λ. / Β΄ & Γ΄ ΤΑΞΗ, i.e. this is volume 2 of the two-volume *Genika Agglika* series (volume 1, for Α΄ ΕΠΑ.Λ., is filed separately). The library files it under Grade 11, with a Grade 12 cross-reference, because the one book serves both Β΄ (Grade 11) and Γ΄ (Grade 12) EPAL.
+- **Component verdict:** STUDENT'S BOOK — confirmed. It is the pupil's book itself: readings, dialogues and listening tasks to complete in the book, projects, two "Progress Questionnaire" self-assessments, and at the back the tapescripts, a glossary and a bibliography. There is no teacher-only material, no separate workbook and no answer key in this file.
+- **Authors:** Ευανθία Π. Τσιούρη (Evanthia P. Tsiouri), Σαραντούλα Π. Παρλαπάνη (Sarantoula P. Parlapani) — named on the cover, the title page and the original-edition imprint (PDF p. 5), where Tsiouri is described as a school adviser for English (M.A., Ph.D.) and Parlapani as an English teacher. Writing and scientific editing were carried out under the auspices of the Pedagogical Institute.
+- **Publisher:** Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «ΔΙΟΦΑΝΤΟΣ» (Institute of Computer Technology and Publications "Diophantos" — ITYE Diophantos), for the Υπουργείο Παιδείας, Θρησκευμάτων και Αθλητισμού (Ministry of Education, Religions and Sports) / Ινστιτούτο Εκπαιδευτικής Πολιτικής (Institute of Educational Policy). Distributed via ebooks.edu.gr.
+- **ISBN / book code:** ISBN 978-960-06-2797-8 and Κωδικός Βιβλίου (book code) 0-24-0622, both printed on the cover spread (PDF p. 1); barcode element (01) 000000 0 24 0622 0. The file name's 24-0622-01 is the ministry file code built on the same 24-0622 base. The cover also carries the round stamp ΑΝΑΘΕΩΡΗΜΕΝΗ ΕΚΔΟΣΗ 24-0622 ("Revised Edition").
+- **Edition / year:** **No calendar publication year is printed** on the cover, title pages or imprint pages. The imprint pages (PDF pp. 5–6) give the original-edition credits for a Pedagogical Institute project on technical-vocational education books — its project co-ordination head is listed as holding the role "until 21/4/2004" — and a reissue note stating this reissue was produced by ITYE Diophantos from a digital mockup. In-file production stamps are dated 24/10/2022 on most interior/title signatures and 3/11/2023 on the cover and closing legal signatures; two replaced signatures — printed p. 24 (Unit 2) and printed pp. 123–124 (Unit 8) — carry 28/5/2024 stamps. Those are production stamps of this reissue file, not a printed publication year, and no year is asserted beyond them.
+- **Extent:** 194 PDF pages; 179 numbered printed pages, preceded by contents in roman numerals (i–iv) and an unnumbered Greek prologue, and followed by an unnumbered legal/distribution notice; the cover spread is repeated as the last PDF page.
+- **Page offset:** **printed page = PDF page − 13** throughout the numbered body, tapescripts, glossary, bibliography and photograph references (e.g. printed p. 1 = PDF p. 14; printed p. 100 = PDF p. 113; printed p. 179 = PDF p. 192). PDF p. 1 is the cover spread; PDF p. 2 is the half-title; PDF p. 3 is the acknowledgements; PDF p. 4 is the full title page; PDF pp. 5–6 are the original-edition imprint; PDF p. 7 is blank; PDF pp. 8–11 are the Contents (printed i–iv); PDF p. 12 is the prologue; PDF p. 13 is blank; PDF p. 193 is the legal notice; PDF p. 194 repeats the cover spread.
+- **Structure:** 10 units. Units 1–4 and 6–9 are thematic; Units 5 and 10 are both headed "Stop and Reload", revising Units 1–4 and 6–9 respectively, and each ends with a "Progress Questionnaire" self-assessment. A normal unit mixes topic sections with "How language holds together and works" (grammar) and "Work and play with words" (vocabulary, word-building, phrasal verbs and dictionary work). The Contents (printed i–iv) precede every unit with a full "Skills, Structures and Functions" specification. Back matter: Tapescripts (printed pp. 168–171), Glossary (pp. 172–176), Bibliography (pp. 177–179) and Photograph References (p. 179).
+- **Vocational framing — read this first:** like volume 1, this is the **general-education** English book for the vocational school, not sector English. There is no sustained trade, workshop or workplace vocabulary strand. The vocational element is the school-and-work frame: the learners are addressed as pupils about to leave the vocational school, Unit 1 measures their skills, options and ideal job, and Unit 9 — the book's vocational climax — is entirely about getting a job: careers information, job adverts, an application letter, CVs, references and a letter of inquiry. Ordinary general topics — holidays, food and film, the environment, technology, adolescence, sport — carry the rest of the language work.
+
+### Unit-by-unit summary (own words; printed page references)
+
+**Unit 1 — Welcome Back (printed pp. 1–19).** Opens by measuring the returning pupil: speaking prompts about plans and choices, a list of strong skills (computer, typing, artistic, language, mathematical, interpersonal), and a questionnaire on satisfaction with learning English, marked out of ten by skill (p. 2). A TEE teacher's report (pp. 3–5) presents two schools' questionnaire results in tables — why English matters (job opportunities first, at 69% for future use in both schools), what an ideal coursebook and its topics should be — and pupils build a parallel questionnaire for their own class. A listening radio discussion with a Professor Ross who argues *against* English as a world language (script, Tapescripts p. 168) is set against the reading "English as an International Language" (pp. 7–8): over 600 million users, half of them native speakers, and English's roles in education, media, government, politics, entertainment, transport, marketing and computing. Grammar is a whole-system review: a passive-voice opener (p. 10), then active and passive tense charts to complete, with the unit's focus on Present Simple against Present Continuous and Past Simple against Past Continuous (pp. 11–13). Word work: a spidergraph of where English is used, and person-nouns in *-er/-or/-ar*. The unit closes vocationally: job words and the qualities each job needs, an ideal-job questionnaire (hours, uniform, travel, typing, driving, speaking a foreign language), a "so far in this lesson" writing task, and a project — a monthly English-practice diary with an action plan (pp. 16–19).
+
+**Unit 2 — Getting Away (printed pp. 20–37).** Holidays. Speaking ranks holiday features (peace and quiet, swimming, beaches, monuments, museums) and pupils report their last holiday; the listening is John and Peter disagreeing about sailing — Peter's paradise of isolated beaches against John's crowded beaches and beach bars (script, p. 168). The reading is a guidebook extract on Mykonos (pp. 24–25): the cosmopolitan Hora, whitewashed cubic houses, peak season and scarce tourists in September as the ideal time. Thomas Cook's biography (pp. 28–30) tells modern tourism from the chartered train of 5 July 1841 carrying 500 workers from Leicester to Loughborough, through the first profit on a Liverpool trip in 1845, to tours across Europe and the world, begun to improve society rather than for profit. Writing is a holiday postcard, modelled on one from Stratford-upon-Avon. Grammar arrives in layers: Past Simple against Past Continuous, the 2nd conditional ("If I were going on holiday to Myconos…"), time prepositions *at/in/on*/none, and in "How language holds together" the Present Perfect Simple against Past Simple and the Present Perfect Continuous, with their uses matched to examples (pp. 33–35). Vocabulary: travel words (package holiday, resort, tour operator, charter, camp-site), a weather scale from boiling hot to freezing cold, nouns in *-tion* and adjectives in *-ive*, and the phrasal verbs *set off, pay back, go on*.
+
+**Unit 3 — Food and Entertainment (printed pp. 38–56).** The opening reading (pp. 39–40), based on BBC News, says schoolchildren run a junk-food risk: far higher risk factors for coronary heart disease, diabetes and strokes, 20 portions of chips served for every baked potato, cereals that are 40–50% sugar, and a Food Commission call to ban advertising of energy-dense, low-nutrient food to the young. Restaurant language follows: a matching dialogue for arriving, ordering and paying, a Riverside Restaurant menu to role-play, and writing a menu for foreign visitors. A "Facts about the UK" spread (pp. 45–46) teaches pub culture in detail — buying in rounds, pints and halves, "drinks are on me / on the house", toasts, "Last orders!" and "Time!" — with pupils learning the expressions by heart and acting them out. The entertainment half is a film review/summary of *The Lord of the Rings: The Fellowship of the Ring* (pp. 47–49): Bilbo, Frodo, Gandalf, Sauron and the ring that must be cast into the Crack of Doom, with good/bad character and place lists. The listening (script, p. 169) has John and Mary choosing between *Terminator III*, *Maid in Manhattan* and *Pirates of the Caribbean*. Grammar: adjectives and *-ly* adverbs, comparatives and superlatives of adjectives and then of adverbs, and telling stories in the present tenses. Word work: verb–preposition combinations, cooking methods (roast, boil, bake, grill, fry), food categories and a food pyramid, and adjectives in *-ous*.
+
+**Unit 4 — The Changing Face of Nature (printed pp. 57–75).** Environment. Pre-reading labels pictures as global warming, pollution, acid rain and industrial waste. The main reading (pp. 58–59), based on BBC News, warns the Amazon — the world's largest rainforest, home to 30% of all animal and plant life, about 5% of it destroyed in 15 years — could dry up in 50 years, and explains greenhouse gases and the "thermal blanket" in plain terms, ending with the experts' 10–20% chance estimate. The listening (script, p. 169) is a school talk by an activist of "We Love the Earth" on sulphur dioxide, carbon monoxide and carbon dioxide. A leaflet, "What can I do to protect the environment?" (pp. 61–62), lists practical habits — recycling, re-using bags, a brick in the toilet cistern, washing at 40°, showers not baths, cycling — and pupils sort them into what they do and what they could do. A second leaflet, "Animals in danger are sending SOS" (pp. 64–65), defines endangered and extinct, and gives the numbers as printed: about 9,485 threatened species, about 600 pandas left, tigers down from about 100,000 to about 5,000–7,000, koalas to fewer than 100,000, the 1985 whaling ban and its exceptions, and ivory tusks as a killing motive. Grammar is the unit's spine: *must/mustn't, have to/don't have to, can/can't*, the imperative, the zero and 1st conditionals, and *used to* for past states and habits. Word work: compound nouns (greenhouse gases, acid rain, ozone layer), nouns in *-ion*, the phrasal verbs *cut down, dry up, die out, pass through, make up*, prepositional phrases, and a closing project to write the pupil's own "World Encyclopaedia" entries on rainforests, the ozone layer and the greenhouse effect.
+
+**Unit 5 — Stop and Reload, Units 1–4 (printed pp. 76–82).** Revision only, no new material: sixteen numbered revision tasks (I1–I16) recycling the first four units — Present Perfect against Past Simple conversations, *if*-sentences from a sea-level-rise leaflet, natural-disaster words, two-word compound nouns (ozone layer, package holiday, junk food, global warming), word-building in *-er/-or/-ar/-ion/-ive*, phrasal-verb gap-fills, a food and cooking-methods word square, conditionals matched to prompts, the passive voice through an aluminium-can recycling text, a Past Simple/Continuous narrative about a drive to the mountains in the rain, Present Perfect Continuous questions, a restaurant dialogue to complete, *used to* in a childhood memoir, and comparatives/superlatives — closing with the first Progress Questionnaire (p. 82), self-marked out of ten for Writing, Reading, Grammar and Vocabulary.
+
+**Unit 6 — Technology (printed pp. 83–102).** Opens with mobile-phone risk: "Living with risk" (pp. 83–84), adapted from a 2003 *TIME* article, weighs alleged links between handset/mast radiation and brain damage, premature Alzheimer's (in a rat study), sleep disturbance and headaches against two conflicting expert reports, the 320 million Europeans who had bought mobiles, and the conclusion that there is no such thing as zero risk. The listening defines e-mail, fax, CD-ROM and the Internet (script, p. 170). The long reading (pp. 86–87) is a history of the Internet and the Web: ARPANet, created by the Pentagon's agency and established in 1969 to survive sites being destroyed, e-mail and the @ symbol in 1972, TCP/IP in 1977, NSFNet taking over in 1985, ARPANet shut down in 1989, the Web protocol becoming the World Wide Web in 1991, Minnesota's user-friendly access system the same year, and explosive growth by the mid-1990s — with the printed prediction that everyone in the world would have an e-mail address by 2010. Pupils summarise it by decade. A poem, "Embrace", urges the reader not to fear technological change but to embrace it, and the writing strand teaches pupils to write and share their own poems. Grammar: future forms (*will* and its meanings, Present Simple, Present Continuous, *going to*), the Past Perfect Simple for the earlier of two past actions, reasons for using the passive, and prepositions of time and of place. Word work: verb–preposition combinations, noun/adjective endings, the phrasal verbs *call for, take over, shut down, take place*, negative prefixes *in-/ir-/il-/im-*, a computer-parts vocabulary match (keyboard, monitor, mouse, scanner, printer, floppy disk drive), and a project to start a class newspaper.
+
+**Unit 7 — Adolescence (printed pp. 103–121).** Health and family. Pre-reading debates smoking at school: how easily children get cigarettes, peer pressure, and parents who smoke. The main reading (pp. 104–105), based on a 1999 *Guardian* report of an official UK survey, records younger teenagers smoking and drinking less — regular smoking down from 13% to 11% in England and 14% to 12% in Scotland between 1996 and 1998 — while one in three pupils had experimented with drugs, mainly cannabis, by 15, most regular smokers got through 20 or more cigarettes a week, and 63% of regular smokers admitted drug use against 1% of never-smokers. The listening is Sara, 17, who started smoking at ten and blames peer pressure, not adverts (script, p. 170 — the script is filed in the Tapescripts under Unit 6's pages; see the negatives). Nine teenagers' own statements about drugs in their schools (p. 108) become reported-speech practice. A relationship-with-parents quiz (pp. 110–111) leads into "Parents, Peers and Adolescents" (pp. 111–112): peers replacing the family as the centre of social life, family strain pushing teenagers towards peers, conflict as negotiation rather than breakdown, the 10–20% of families in distressed relationships, and practical advice to parents on trust, independence and chores. Writing is a letter of advice to a "desperate father". Grammar is the reported-speech unit: the full tense-change table, pronoun/time/place changes, reported statements, questions and commands, plus the Present Continuous for changing and developing situations. Word work: nouns in *-ence/-ness/-ity*, phrasal verbs with *get*, and verb–preposition combinations.
+
+**Unit 8 — A Sport for Everyone (printed pp. 122–140).** Sport through disability sport. The main reading (pp. 123–124) is a history of the Paralympic Games: the 1948 Stoke Mandeville Games for wheelchair athletes, Rome 1960 as the first Paralympic Games (about 400 athletes from 23 countries, 8 sports), other disability groups added at Toronto 1976, Seoul 1988 as the first shared-venue Games, 11 Summer and 7 Winter Games by the time of writing, Greek participation from 1976, the 15 sports shared with the Olympics and the 4 unique sports (Boccia, Goalball, Powerlifting, Wheelchair Rugby). A companion piece previews the Athens 2004 Paralympic Games: 17–28 September 2004, 4,000 athletes from about 130 countries, the same venues, upgraded for accessibility. Pupils complete a Games-history table by questioning each other, using two split information-gap versions, each holding the cells the other leaves blank. The listening is a David Beckham interview (script, p. 171): born 2 May 1975 in Leytonstone [printed "Leyfonstone"], a Manchester United fan through his father, winning a skills tournament at eleven, leaving school at sixteen, a regular by 1996, and the 2002 World Cup quarter-final as his important year. The second reading (pp. 131–132) tells how James Naismith invented basketball in the winter of 1891: 14 days to devise an indoor game, peach baskets on the gymnasium wall, 13 original rules, a first game on 21 December 1891, basketball an Olympic sport at Berlin 1936, and his four degrees. Grammar: the Present Perfect with *since/for*, *as…as* and *the same as*, Present Perfect Simple against Continuous for situations continuing to now, *either…or / neither…nor / both…and*, and ordinal numbers and saying/writing dates. Word work: *go/play/do* a sport, adjectives in *-ful/-less*, phrasal verbs *come up with, put up, catch on*, and adjective–preposition combinations.
+
+**Unit 9 — Go For It! (printed pp. 141–160).** Jobs — the book's one fully vocational unit. Pre-reading faces leaving school: pupils choose a photographed workplace, list its jobs, and match them to the skills-and-qualities table (computer/typing/artistic/language/mathematical/interpersonal skills; well-organised, patient, punctual, caring, physically strong, quick-thinking, honest). The reading "Getting a job" (p. 143) explains the UK system as printed — a careers teacher in every secondary school, two weeks' compulsory work experience in the last two school years, and Job Centres, newspapers and training schemes after leaving — for comparison with Greece. A job advert for holiday hosts/hostesses at the "Hermes Seaside Resort" in Crete (p. 144: English necessary, sport or an instrument useful, accommodation, food, pocket money, insurance and return travel provided) generates a model application letter from a 17-year-old Technical Vocational School pupil in Thessaloniki. The centrepiece is a complete application dossier built step by step: a CV for a qualified accountant, George Ioannou of Athens (Technical Vocational Lyceum, speciality Accountant; military service in the Air Force; a one-year accounting course in Manchester; accountant's assistant completing tax reports), the letter of application completed from that CV, an analysis of what each paragraph of such a letter does (pp. 148–149), and the "Job Application File" article (pp. 150–151) on presenting an application neatly, concisely and professionally, with certified copies, references and a recent head-and-shoulders photograph. Pupils then complete a blank application form and CV for themselves, build a teacher's CV from question prompts for a Bristol University summer-workshop scholarship, and write a letter of inquiry about a five-day technicians' course in London (£500). Grammar is listed in the Contents as revision of tenses; the word work is job vocabulary (interview, application, candidate, qualifications, references, vacancy, draft) and the phrasal verb *look* in its five senses (*look for, look forward to, look after, look up, look into*).
+
+**Unit 10 — Stop and Reload, Units 6–9 (printed pp. 161–167).** Revision only: seventeen numbered tasks (I1–I17) recycling Units 6–9 — computer vocabulary (hardware, software, screen, keyboard, mouse, printer, word processor), *for/since*, work-word definitions (interview, application, training, qualifications, CV, reference, candidate — matched in an order that does not line up simply; see the negatives), time prepositions, a power-cut narrative in the Past Continuous, arranging a meeting from a busy conference diary, a weather table, a sports word square covering Olympic and Paralympic sports, *as…as* comparisons, *either/neither/both* joining, Present Perfect rewrites, a mixed-tense exercise, a letter asking for details of a "Work Abroad" advert (P.O. Box 145, Amsterdam), passive-voice rewrites (Marconi inventing the wireless as the model), word-building, the phrasal verbs of Unit 6, and a closing "What kind of person are you?" second-conditional questionnaire (a shoplifting old lady, 1,000 euros found in the street, a neighbour hitting his dog, an illegally parked car) — ending with the second Progress Questionnaire (p. 167).
+
+**Tapescripts, Glossary and Bibliography (printed pp. 168–179).** The Tapescripts (pp. 168–171) print in full the listening texts for Units 1, 2, 3, 4, 6, 7 and 8: the Professor Ross radio discussion and Peter's sailing holiday (Unit 1/2, p. 168); John and Mary's evening-out conversation and the "We Love the Earth" air-pollution talk (Units 3/4, p. 169); Sara's smoking phone-in and the Peter-and-Susan technology-gadgets discussion (filed together on p. 170, headed Unit 6 and Unit 7); and the David Beckham interview (Unit 8, p. 171). There are no tapescripts for Units 5, 9 or 10. The Glossary (pp. 172–176) is a single alphabetical English–Greek word list for the whole book, plus a phrasal-verbs list and an abbreviations list (CV and TEE) on p. 176. The Bibliography (pp. 177–179) lists the language-teaching, dictionary and education sources behind the book, in English and Greek, with nothing dated later than 2003; it also lists the authors' own earlier sector book for dental technician assistants (2001) — a different, specialist book, not this one. Photograph References close p. 179.
+
+**Grammar spine as it arrives (summary):** whole tense-system review, active and passive, with Present/Past focus (U1) → Past Simple/Continuous, 2nd conditional, Present Perfect Simple and Continuous (U2) → adjectives and *-ly* adverbs, comparatives/superlatives of adjectives and adverbs, present-tense storytelling (U3) → *must/have to/can*, imperative, zero and 1st conditionals, *used to* (U4) → revision (U5) → future forms, Past Perfect Simple, passive — reasons for use, time/place prepositions (U6) → reported speech (statements, questions, commands) and Present Continuous for change (U7) → Present Perfect with *since/for*, *as…as/the same as*, *either/neither/both*, ordinals and dates (U8) → tense revision inside the jobs dossier (U9) → revision (U10). Every thematic unit also carries a word-building strand (person-nouns, *-tion/-ive*, *-ous*, *-ion*, noun/adjective endings, *-ence/-ness/-ity*, *-ful/-less*) and a named phrasal-verb set.
+
+### Citation-check section (anchors verified against the real PDF pages)
+
+All page numbers below are printed pages; PDF page = printed + 13. Each anchor was checked on the PDF page itself (the cover and title pages also visually, from the rendered pages).
+
+1. Cover spread (PDF p. 1): front cover "ΓΕΝΙΚΑ ΑΓΓΛΙΚΑ", "Β΄ & Γ΄ ΕΠΑ.Λ. / ΓΕΝΙΚΗΣ ΠΑΙΔΕΙΑΣ", the two authors' names, the "ΑΝΑΘΕΩΡΗΜΕΝΗ ΕΚΔΟΣΗ 24-0622" stamp, and on the back cover "Κωδικός Βιβλίου: 0-24-0622 / ISBN 978-960-06-2797-8".
+2. Full title page (PDF p. 4): "Γενικά Αγγλικά / Β΄ & Γ΄ ΕΠΑ.Λ. / ΓΕΝΙΚΗΣ ΠΑΙΔΕΙΑΣ", the authors' names, and the publisher line "ΙΝΣΤΙΤΟΥΤΟ ΤΕΧΝΟΛΟΓΙΑΣ ΥΠΟΛΟΓΙΣΤΩΝ ΚΑΙ ΕΚΔΟΣΕΩΝ «ΔΙΟΦΑΝΤΟΣ»".
+3. Contents (PDF p. 8): "ΓΕΝΙΚΑ ΑΓΓΛΙΚΑ 2", "UNIT 1 — WELCOME BACK — pages 1 - 19", "UNIT 2 — GETTING AWAY — pages 20 - 37".
+4. Printed p. 3 (PDF p. 16): the report is headed "Teacher's Report / 2nd TEE", addressed "To: Ms M. Pappas, School Advisor" from "Ms S. Ioannou, Teacher of English", subject "Students' proficiency and needs in English".
+5. Printed p. 7 (PDF p. 20): the international-language text says the number of people who use English "is more than 600 million", of whom "300 million are native speakers".
+6. Printed p. 24 (PDF p. 37): the Mykonos guide says "summer is the peak season" and "the ideal time to visit it is September, when the weather is at its best and tourists are scarce".
+7. Printed p. 28 (PDF p. 41): "The history of modern tourism began on July 5, 1841, when a train carrying 500 factory workers set off from Leicester towards Loughborough, 12 miles away."
+8. Printed p. 39 (PDF p. 52): "for every baked potato served to a child 20 portions of chips were served", and some cereals "were 40% or 50% sugar".
+9. Printed p. 49 (PDF p. 62): the ring "can only be done by getting secretly into Mordon" [as printed] and "casting it into the Crack of Doom".
+10. Printed p. 58 (PDF p. 71): "The Amazon is the largest rainforest in the world and is home to 30% of all animal and plant life on the planet", and it "could dry up and die out in 50 years because of global warming".
+11. Printed p. 64 (PDF p. 77): "There are only about 600 pandas left in the wild", and of tigers, "A hundred years ago there were about 100,000 tigers in the wild. Now there are only about 5,000-7,000."
+12. Printed p. 83 (PDF p. 96): the mobile-phone text says the radiation stories have not "stopped 320 million Europeans from buying mobile phones".
+13. Printed p. 86 (PDF p. 99): ARPANet "was created by the Pentagon's Advanced Research Projects Agency, was established in 1969".
+14. Printed p. 104 (PDF p. 117): "one in three secondary school pupils have experimented with drugs, mainly cannabis, by the time they are 15", and regular smoking "fell between 1996 and 1998 from 13% to 11% in England and from 14% to 12% in Scotland".
+15. Printed p. 111 (PDF p. 124): "Peers typically replace the family as the centre of a young person's social life and leisure activities."
+16. Printed p. 123 (PDF p. 136): "Olympic-style Games for athletes with a disability were organised for the first time in Rome in 1960", with "About 400 athletes from 23 countries competed in 8 sports".
+17. Printed p. 124 (PDF p. 137): "From the 17th to the 28th of September 2004 Athens welcomed 4,000 Paralympic athletes from about 130 countries".
+18. Printed p. 132 (PDF p. 145): Naismith "put up two peach baskets on the wall of the gymnasium", and "He coached his class in their first game on December 21, 1891."
+19. Printed p. 143 (PDF p. 156): in the UK, "All secondary schools in Britain have a career teacher", and in work experience "The students go to work for two weeks."
+20. Printed p. 176 (PDF p. 189): in the Glossary's abbreviations list, "TEE: Technical Vocational Schools", and "CV: curriculum vitae".
+
+### Honest negatives
+
+- **No publication year is printed** anywhere on the cover, title or imprint pages. The only dates in the front matter are project dates ending in 2004 in Greek, the bibliography closes at 2003, and the reissue file carries 2022 (most interior signatures), 2023 (cover/legal) and, on two replaced pages, 2024 production stamps. Any catalogue year for this book comes from outside the book itself.
+- **The book serves two grades, not one.** The cover and title page say Β΄ & Γ΄ ΕΠΑ.Λ. (Grades 11 and 12); it is filed under Grade 11 only as the first of those, with the Grade 12 row a cross-reference to this same file. It is also volume 2 of the series — a pupil who has not done volume 1 is assumed throughout Unit 1's review.
+- **The body of the book still says TEE, not EPAL.** The prologue addresses the book, in Greek, to the B class of the 1st Cycle of the ΤΕΕ; the teacher's report, the questionnaires, Unit 9's "You are soon going to finish TEE" and its model CV all use TEE / Technical Vocational School, and the Glossary defines TEE as "Technical Vocational Schools". Only the reissue cover and title pages call the book ΕΠΑ.Λ. The EPAL label is the reissue's framing of a book written for the predecessor school type.
+- **This is not a sector-English book.** Despite sitting among EPAL titles, it teaches general English for the general-education slot: there are no chapters on any trade, and no workshop, office, hotel or maritime vocabulary strand. Unit 9's jobs dossier (advert, application letter, CV, inquiry letter) is general job-seeking English, not sector English — the one candidate with a speciality in it is an accountant, used as a worked example.
+- **The Tapescripts are incomplete and one is misplaced in the layout.** Scripts are printed for Units 1, 2, 3, 4, 6, 7 and 8 only — none for Units 5, 9 or 10 (5 and 10 are revision units, but Unit 9's lack means no Unit 9 listening text can be checked from this file) — and Sara's Unit 7 smoking phone-in is printed on p. 170 in a two-column layout shared with, and headed alongside, the Unit 6 technology discussion.
+- **Spellings and errors in the book are reproduced as printed, not corrected:** the island is "Myconos" in the Unit 2 tasks (pp. 25–26) though "Mykonos" in its own reading; the weather scale has "chily" (p. 28); Tolkien's land is "Mordon" for Mordor (pp. 48–49); the junk-food text urges "the HOW" where the World Health Organization is meant (p. 39); Beckham's birthplace is "Leyfonstone" in both the listening statements (p. 130) and the tapescript (p. 171); a Unit 8 true/false item places the first Greek Paralympian in "Torondo" (p. 125); and the Contents misprints "PHOTOGRAGH REFERENCES" (printed p. iv).
+- **One internal inconsistency is part of the source:** the parents'-relationship quiz (pp. 110–111) scores A = 4, C = 3, B = 2, D = 1 points although its answer scale runs A often, B occasionally, C rarely, D never, and its score bands overlap ("18-23" and "Below 22"). The two split Paralympic-history tables (pp. 127 and 140) are not an inconsistency: they are a deliberate information-gap pair, each holding the cells the other leaves blank.
+- **Dated content is part of the book as printed:** the Athens 2004 Paralympic Games are a future event, a 2003 magazine article and 1999–2002 surveys and sports sources carry whole units, Thomas Cook, fax machines, CD-ROMs, floppy disks, cassettes and VCRs are current technology, the Internet history predicts an e-mail address for everyone by 2010, and Unit 3 teaches school pupils the vocabulary of buying rounds of beer in a British pub. These are reported here as the book's content, not as present-day fact.
+- **The file contains no answer key.** The Tapescripts print the listening texts for seven units (which is why that listening material could be checked from this file), but no key to the comprehension, grammar or vocabulary tasks appears anywhere in the 194 pages.
+- The book is **not English-only**: instructions, the prologue, the Contents headings and the Glossary use Greek throughout, and the Unit 1 teacher's-report strand starts from a questionnaire that was, as the book itself says, written in Greek.
+
+
+## Grade 11 (EPAL) — Exploiting the Earth, Student's Book (Β΄ ΕΠΑ.Λ., Sector of Agriculture, Food and Environment)
+
+### Identity block
+
+- **Identity verdict — MATCH, with a scope correction.** The library record ("Exploiting the Earth", Grade 11 EPAL sector English, file code 24-0111-02-V1) is the book in this file. The cover, title page and imprint all agree on the title, the Β΄ ΕΠΑ.Λ. (Grade 11 EPAL) level and the student-book component. The correction is about scope, not identity: the cover frames the book for one sector — Τομέας Γεωπονίας, Τροφίμων και Περιβάλλοντος (Sector of Agriculture, Food and Environment) — but the book's own Greek preface (printed p. 5) and its contents show it actually serves **two** vocational strands in one volume: Part A (18 units) on plant and animal production, and Part B (14 units) on chemical industries, mines and metallurgy. A reader who expects only agriculture/food English will find the whole second half is mining and metalworking English.
+- **Real title as printed:** *Exploiting the Earth* — on the front cover in that capitalisation; on the half-title (PDF p. 2) and full title page (PDF p. 4) as "Exploiting the earth". The cover series line is "TECHNICAL ~ VOCATIONAL / LANGUAGE LEARNING"; the title page adds "Students' book" and "Teaching material for students of vocational and technical schools".
+- **Authors:** the writing team for specialty English for the TEE (Ομάδα Συγγραφής Αγγλικών Ειδικότητας για τα ΤΕΕ), headed by Διαμαντίδου Αγγελική — Angeliki Diamantidou (M.Ed.), school counsellor — with Βασσάλου Ελένη (Eleni Vassalou, PE6), Μηχανικού Γαρυφαλλιά (Garyfallia Michanikou, PE6) and Μωραϊτάκη Μαρία (Maria Moraitaki, PE6), named in Greek capitals on the title page (PDF p. 4) and in the original-edition imprint (PDF p. 3). Editing and illustration (Επιμέλεια – Εικονογράφηση): Maria Moraitaki. Cover: Γεώργιος Ακρίτας (Georgios Akritas). Writing and scientific editing were carried out under the auspices of the Pedagogical Institute, per the title page.
+- **Source books (as the imprint itself states, PDF p. 3):** this book was formed from the corresponding TEL (ΤΕΛ) books *"Today's Agriculture"*, *"English for Chemistry and Metallurgy"*, *"Building Materials and structures"* and *"Mechanical Engineering Technicians"* of the B-phase writing team; for *"Today's Agriculture"* the specialty-material/information supervisor was Georgios Kiousis (Κιούσης Γεώργιος, PE14). That origin explains the two-strand structure above.
+- **Publisher:** Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «ΔΙΟΦΑΝΤΟΣ» (Institute of Computer Technology and Publications "Diophantos" — ITYE Diophantos), for the Υπουργείο Παιδείας, Θρησκευμάτων και Αθλητισμού (Ministry of Education, Religions and Sports) / Ινστιτούτο Εκπαιδευτικής Πολιτικής (Institute of Educational Policy), both named at the head of the cover and title page. The reissue note (PDF p. 3) states this reissue was produced by ITYE Diophantos from a digital mockup (μέσω ψηφιακής μακέτας).
+- **ISBN / book code:** ISBN 978-960-06-2897-5 and Κωδικός βιβλίου (book code) 0-24-0111, both printed on the back cover (PDF p. 1); barcode element (01) 000000 0 24 0111 9. The file name's 24-0111-02-V1 is the ministry file code built on the same 24-0111 base.
+- **Edition / year:** **No calendar publication year is printed** on the cover, title pages or imprint pages, and none is asserted here. In-file production stamps are dated 30/8/2021 on the interior signatures (e.g. "24-0111.indb … 30/8/2021") and 26/10/2023 on the cover spread, title-page and closing legal signatures. Those are production stamps of this reissue file, not a printed publication year. The underlying text is older than both stamps: the imprint derives the book from earlier TEL books, and the aluminium unit still says aluminium was a rare pure metal "until this century" (printed p. 161).
+- **Extent:** 250 PDF pages. PDF p. 1 is the full cover spread (back cover, spine and front cover on one sheet) and PDF p. 250 repeats that same cover spread byte-for-text identically. The numbered body runs from printed p. 5 (Greek preface) to printed p. 244 (last glossary page), followed by three blank production pages (printed folios 245–247) and an unnumbered Greek legal/distribution notice whose production folio is 248 (PDF p. 249).
+- **Page offset:** **printed page = PDF page − 1** throughout the numbered body (e.g. printed p. 5 = PDF p. 6; printed p. 18 = PDF p. 19; printed p. 121 = PDF p. 122; printed p. 244 = PDF p. 245). PDF p. 2 is the half-title, PDF p. 3 the original-edition imprint, PDF p. 4 the full title page, PDF p. 5 blank, PDF pp. 8–16 the Contents (printed p. 7) and the Part 1 skills tables (printed pp. 9–15), PDF p. 114 the Part Two divider (printed p. 113), and PDF pp. 116–121 the Part 2 skills tables (printed pp. 115–120). Near-blank PDF pages: 5, 7, 9, 17, 115, 219, 246, 247, 248.
+- **Structure:** Contents (printed p. 7); two "Skills / Functions — Structures / Activities" specification tables, one before each part (Part 1, printed pp. 9–15; Part 2, printed pp. 115–120); Part One, "Elements of agricultural subjects" (divider, printed p. 17), 18 units, printed pp. 18–112; Part Two, "Elements of metallurgy and mining" (divider, printed p. 113), 14 units, printed pp. 121–218; then a single alphabetical English–Greek "Vocabulary – Terminology" glossary for the whole book (printed pp. 219–244). A normal unit is one specialist reading (sometimes in two sub-parts), comprehension questions headed "A. Questions", then "B. Exercises" — vocabulary (definitions, synonyms, derivatives/word-building), a named grammar focus, and sentence-building — exactly as the preface promises: texts first, then exercises aimed mainly at fixing the terminology and the language points needed to understand and use it.
+- **Language level and pattern:** no CEFR level is stated anywhere in the front matter checked. The work is reading-led specialist English: almost every unit's skills table leads with Reading, and speaking/writing appear only occasionally (a guided dialogue in A2 and B6, sequencing connectors in A17, a guided paragraph in B12). There are **no listening texts, tapescripts, dialogues for listening, or answer keys** in this file (see Honest negatives).
+
+### Unit-by-unit summary (own words; printed page references)
+
+#### Part One — Elements of agricultural subjects (printed pp. 18–112)
+
+**A1. Planting (printed pp. 18–22).** What good planting soil must provide — air, available moisture without standing water, and mineral nutrients — contrasted across clay (holds nutrients and water but drains badly and can suffocate roots; rock-hard dry, gummy wet), sand (airy but loses water and nutrients fast) and loam, presented as the best mix of clay, silt and sand. It closes with soil testing before planting: sample area, past fertiliser/lime, slope, and a pictured step-by-step sampling routine using a clean non-metal container, sampler/trowel/spade, samples at about 6–7 inches deep, roughly a pint per separate area (pp. 18–19). Grammar: gerund and infinitive, and reported statements (direct to indirect speech).
+
+**A2. Transplanting procedures (printed pp. 23–26).** A six-step practical sequence in my summary: lay out a straight line with string and stakes and pre-water holes slightly larger than the rootball; separate flat-grown seedlings by hand rather than with a knife; firm and water in, topping up settled soil; tear peat-pot rims (and ideally the base) before planting at the old level; tip — never pull — plants out of plastic pots and push six-pack plants out from below; and water again before wilting appears, with extra care in the first days. Grammar: the imperative, advice forms, and adverbs/prepositions.
+
+**A3. Formation, composition and capacity of the soil to hold water (printed pp. 27–31).** How soils form from rocks under the influence of topography, living things, age, farming and climate; reading a soil profile (by trench or auger) through topsoil, subsoil and unweathered parent rock; what soil is made of — solids (mineral and organic), liquids, living organisms and gases; and the start of water-holding capacity, governed first by pore space. Grammar: prepositions; word work on noun–adjective derivatives.
+
+**A4. Soil texture and structure (printed pp. 32–34).** A short unit. Most soils need little amendment; very sandy or clayey soils are improved by mixing organic matter into the backfill at two parts soil to one part organic matter. A squeeze test distinguishes clay (tight ridged lump), loam (holds shape, crumbles when poked) and sand (falls apart), and a printed size scale runs from coarse sand down to clay at less than 1/12,500 of an inch (p. 32). Grammar: revision of tenses.
+
+**A5. Soil water and tensiometers (printed pp. 35–39).** Field (moisture-holding) capacity, capillary movement through small pores, and water management as a production priority: schedule irrigation to meet only the crop's daily need and cut evaporation/drainage waste. It lists what soil-water equipment measures (hydraulic conductivity, permeability, infiltration, tension, moisture content, bulk density) and explains, with a labelled diagram, how a water-filled tensiometer with a ceramic tip reads soil tension on a vacuum gauge; four stated reasons for measuring tension are knowing when/how much to water, higher yields, saved water/fertiliser cost and profitability (pp. 36–37). Grammar: tenses revision, purpose with *to* + infinitive, and rewriting into the active voice.
+
+**A6. Irrigation (printed pp. 40–43).** Opens with a manufacturer's-style caption for a low-capacity, hammer-drive sprinkler for windy conditions. The reading proper covers transpiration, rain versus irrigation, root depth (most roots in the top three feet), signs of water stress in trees (wilting, dulling/colour change, early leaf fall), and five pictured ways to water a tree efficiently — basin, furrows, soaker hose, sprinkler (checked with coffee cans) and drip/trickle — aimed at no run-off, water kept inside the drip line, and even application (pp. 40–41). Grammar: joining sentence pairs with *after/before*.
+
+**A7. The basic anatomy of the tree (printed pp. 44–47).** A labelled tree diagram (leader, spur, laterals, trunk, roots, fruit, flowers, leaves) followed by the functions of roots (anchoring, absorbing water/nutrients), stem/trunk (described as two plumbing pipes inside bark carrying water up and food down, plus support), branches (leader and scaffolds) and buds/leaves/flowers/fruit across the seasons. Grammar: tenses revision; vocabulary includes a puzzle.
+
+**A8. Working out garden designs (printed pp. 48–53).** Gardens as things that change by season and by their gardeners' choices, then a design method: do not shape a site before trying several conceptual designs on cheap tracing paper over a base plan; start with "bubble" plans sketching wanted areas (lawn, deck, play area, screens, hot tub in the worked example), then refine into a fairly specific final concept drawing with planting types and materials (pp. 48–50). Grammar: all three conditionals, and active-to-passive rewriting to emphasise results.
+
+**A9. Insects and other enemies of plants (printed pp. 54–61).** The longest Part A reading unit. Insects as the largest group of living creatures (over 1,000,000 known species as printed), the few useful kinds set against the harmful majority, and control by biological or chemical (pesticide) means. A full case study follows on *Dacus oleae*, the olive fruit fly: spotted, sunken, dropping fruit with larval galleries inside, yield/oil losses printed as up to 80–90%, and a spray timing regime differing for table and oil olives, repeated at 20-day intervals (pp. 54–55). Pictured catalogues then cover fungus diseases, aphids, beetles, mites, botrytis blight, caterpillars, white flies, virus diseases and thrips (pp. 57–58), and weeds close the unit, with insecticides/fungicides/herbicides as the stated solution.
+
+**A10. Field crops: the basic source of food (printed pp. 62–67).** Food still comes, directly or indirectly, from plants. Cereals take almost half the world's cropland as printed, supply carbohydrates/protein/minerals/vitamins, and are eaten natural or processed; rice is set apart as a cereal that grows in water for part of its life. Legumes follow as the main protein source, deep-rooting, drought-resistant and soil-enriching; then Greek-grown cotton and tobacco, potatoes, bulb vegetables, tomatoes and other common vegetables, and finally tree and citrus fruit and the grapevine (pp. 62–63). Grammar: tenses revision; prefixes/suffixes for opposite meanings.
+
+**A11. Ag machines preparing the soil for cultivation (printed pp. 68–73).** The tractor presented as farming's most important mechanical development — versatile across cultivating, sowing, reaping, pumping, hauling and mowing — with four types (general-purpose, two-wheeled hand-steered, track-laying "crawlers", heavy-wheeled). The plough follows (cutting, lifting, turning, partly pulverising; useful on heavy, rocky, sloping, marsh and waste land), ending in a sales-style passage for reversible disc ploughs that leave land flat and level with no dead furrows, aiding water use and erosion control (pp. 68–69).
+
+**A12. A short reference to harvesting and tying pick-up machines (printed pp. 74–78).** Special-crop harvesting machines (sweet-corn, bean, sugar-beet, peanut, cotton and citrus harvesters named) and two ways of detaching fruit — contact machines versus mass-removal/shaking machines — with mechanical, trunk, limb and foliage shakers described. The combine is presented as the most advanced labour-saving grain device because it reaps, threshes and winnows in one pass; corn pickers and automatic tying pick-up balers (tying with twine or wire, bale length set by a star wheel) close the unit, with a caution that hand labour damages some crops less than machines do (pp. 74–75).
+
+**A13. Breeding animals (printed pp. 79–86).** Choosing breeding stock by health and vigour, and performance as a product of environment, food, genetics, disease and treatment. Sections follow on controlled environment for dairy cows and for the people working in the barn, rabbit housing (ventilated, dry, draught-free), a fully automatic layer-cage system for poultry with egg collection and manure removal, pig-raising considerations, and livestock feed composition. A diseases section lists warning signs (fever, abnormal pulse — printed "very law pulse", p. 83 — irregular breathing, appetite loss, blood-stained dung/urine, falling milk, watery/sunken eyes) and treats brucellosis/Malta fever caught from infected milk; a final paragraph introduces biotechnology/genetic engineering in animal growth, reproduction and health (pp. 79–83).
+
+**A14. Dairy production — Milking systems and techniques (printed pp. 87–91).** Why high-quality milk depends on milking machines, systems and technique, and why the equipment is stainless steel (protecting milk from deterioration and infection). The cow bucket system is described (four teats, tubes, pulsation, collection buckets), then four mechanical sheep-milking systems: mobile buckets, a fixed-yoke parlour ("cascade"), a parlour whose yoke row moves on wheels, and the Carousel, in which sheep ride a rotating circular platform past a centrally standing worker (pp. 87–89).
+
+**A15. Photosynthesis: Storing energy (printed pp. 92–97).** A diagram page (p. 92) precedes the text. In the book's own simplified account, plants make their food sugar themselves: leaves take in carbon dioxide, roots absorb water, chlorophyll uses light energy to split water, hydrogen and carbon dioxide combine into sugar, and oxygen is released — presented as the source of all the oxygen we breathe and, by converting sunlight into chemical energy, of the energy sustaining all life. Conditions (healthy leaves/stems/roots, light, temperature, humidity) and storage of surplus food close it (pp. 93–94).
+
+**A16. Greenhouses (printed pp. 98–103).** Two sub-readings. (a) Materials and equipment (pp. 98–99): a greenhouse as a covered, enclosed crop-protection space on a peripheral wall with an iron or wooden glazed frame, fitted to hold temperature and humidity with heating, thermometers, run-off basins, a hygrometer (spelled "hydrometer" in the text as printed) and wall materials (glass, fibreglass, plastic) chosen by climate. (b) Types (pp. 100–101): classification by temperature — low (frost/heat protection, e.g. chrysanthemum, cyclamen), mild (subtropical plants), tropical (may reach 30°C, must not fall below 15°C, needing strong heating and much water) — plus reproduction greenhouses; it claims greenhouse production can be three times open-air production and lists Greek greenhouse crops now available all year.
+
+**A17. Cooperatives — What are they? (printed pp. 104–107).** Agricultural cooperation as the voluntary pooling of physical, financial and human resources to market produce, obtain supplies and secure services, distinguished by three printed principles — democratic member control, limited return on capital, and savings distributed in proportion to each member's patronage — followed by a numbered list of what cooperatives do for members (selling on their account, providing technical means, rationalising work systems, research, and more, pp. 104–105). Speaking work: joining statements with sequencing connectors.
+
+**A18. Farm management (printed pp. 108–112).** The modern farmer as manager: a numbered list of musts covering equipment buying without inflating overheads, renting versus buying little-used machines, borrowing/credit, watching market prices, keeping up with fertilisers/chemicals/techniques, maintaining machinery, and keeping complete income/outgo records. It then gives a success formula in words (volume × price − costs = profit, p. 109) and the paperwork — balance sheet, earnings statement, cash-flow chart — with profitability, liquidity and solvency as the vital signs to check. Grammar: advice forms and purpose with *to* + infinitive / *so that*.
+
+#### Part Two — Elements of metallurgy and mining (printed pp. 121–218)
+
+**B1. Rock formation and classification (printed pp. 121–125).** Why classifying rocks is hard — origin, mineral composition and chemical composition each misgroup some rocks, and chemical analysis needs a laboratory — before the geologists' threefold division by formation: igneous (from cooling magma; volcanic versus plutonic, granite and basalt as examples), sedimentary (weathered material carried by wind/water/glaciers and cemented in layers, plus organic rocks such as chalk and coal) and metamorphic (igneous/sedimentary rock changed by heat and pressure deep underground) (pp. 121–122). Grammar: sentence ordering from the text, and active-to-passive rewriting.
+
+**B2. Sciences, techniques and devices contributing to the exploration of an area for mineral deposits (printed pp. 126–130).** Prospecting defined, then the four contributing sciences in turn — geology, geophysics, geochemistry and palaeontology (the last detecting fossil-fuel evidence) — and a working sequence: surface geological survey first, then subsurface study, geophysical/geochemical sampling and core drilling with a hollow cylinder to obtain rock cores, with geochemists analysing samples and a set of devices for finding what lies beneath the crust (pp. 126–127). Grammar: prepositions; science/scientist/adjective word-building.
+
+**B3. Minerals — Metals — Metals' physical properties (printed pp. 131–135).** Minerals as inorganic, usually crystalline substances of fairly definite composition from which metals are extracted (stones, rocks, sand grains — and sometimes coal — counted in); metals as elements extracted from ores, then five properties worked through with examples: lustre, ductility (copper most, tin/aluminium also), malleability (gold extreme; copper, lead), elasticity (some steel alloys) and durability/corrosion resistance (chromium, platinum extreme; gold, aluminium) (p. 131). Exercises include completing a property table comparing metals. Grammar: comparison of properties.
+
+**B4. Metallurgy — Methods of ore dressing (printed pp. 136–140).** Metallurgy/process (extractive) metallurgy defined and split into preliminary treatment, reduction and refining. Ore dressing at the mine concentrates a small valuable fraction — copper content printed as under 1% in some ores, up to 30% — by crushing and water separation, flotation (crushed ore, water, detergent/oil/chemical and air bubbles, with a pictured flotation tank, p. 137), magnetic separation for magnetite (Fe3O4), and agglomeration/sintering into porous lumps; the waste from all of these is gangue (p. 136).
+
+**B5. Metallurgy — Methods of removing additional gangue and making alloys (printed pp. 141–146).** Three technique groups. Pyrometallurgy (heat — spelled "Pyrometallurgv" as printed, p. 141): roasting in enclosed spaces to oxidise sulfide/carbonate ores and drive sulfur off as sulfur dioxide, distillation for vaporisable metals (mercury, zinc, cadmium), and smelting in blast furnaces with coke and limestone flux, slag floating on the melt. Hydrometallurgy: leaching with selective solvents at ordinary temperatures, e.g. copper carbonate/oxide ores in dilute sulfuric acid. Electrometallurgy: electrolysis, ion migration to anode/cathode, combined with leaching for magnesium, copper and aluminium (pp. 141–142). Grammar: question tags and purpose with *so that*.
+
+**B6. Some hints on surface and underground mining (printed pp. 147–155).** (a) Surface mining (pp. 147–149): mining/mines defined; where deposits lie near the surface, overburden is stripped by power shovels/bucket excavators for soil and loose rock, or drilled and blasted where it is hard rock, waste being dumped aside; an open-pit photograph shows benches cut into the ground. (b) Underground mining (pp. 150–151): for deep deposits, complicated by veins of varying size, shape and direction; mines classified by access — drift (horizontal adits), shaft (vertical) and slope (inclined) — with the headframe and its hoisting sheave described, and, on p. 151, the cage (miners' lift) and sump. One exercise set serves both sub-parts.
+
+**B7. Metallurgy of iron — Steelmaking (printed pp. 156–160).** Iron as about 5% of the earth's crust, its source minerals listed with formulas (haematite Fe2O3, limonite, magnetite Fe3O4, siderite FeCO3) and iron pyrites rejected because sulfur is an objectionable impurity. Blast-furnace carbon reduction gives pig iron; steelmaking then refines it (steel defined by carbon content between pig and wrought iron) by the Bessemer converter, the open-hearth process with its regenerator (especially for scrap) and, "nowadays" as printed, the electric arc furnace (pp. 156–158).
+
+**B8. Metallurgy of aluminum (printed pp. 161–164).** Spelled "aluminum" throughout, as printed. The metal described (silver-white, light, ductile, malleable, corrosion-resistant, most abundant metal at 8% of the crust), its ore bauxite, and a two-process route in the book's terms: the Bayer process purifies bauxite through hot sodium hydroxide, filtering and seeded precipitation to pure alumina, which is then electrolysed in the Hall–Heroult process in molten fluorides at about 1000°C (p. 161). Uses stress lightness, strength when alloyed, the self-protecting oxide coat, and electrical wiring in place of scarcer, dearer copper.
+
+**B9. Metals: Their conductivity and their chemical properties (printed pp. 165–167).** Metals as unusually good heat/electricity conductors — electrical conductivity printed as over a million times a strong electrolyte's, with no change to the metal in carrying current — conductivity falling as temperature rises, superconductivity at −255°C or lower as printed, and silicon/germanium as semiconductors behaving the opposite way. Chemically, metals tend to lose/donate electrons, have low electronegativities, form basic oxides yielding OH− ions (acidity of the oxide rising with oxidation state), and act as reducing agents, emitting electrons under high-frequency photons or great heat (p. 165). Grammar: comparatives.
+
+**B10. Castings and heat treatment of metals (printed pp. 168–174).** Founding defined — pouring molten metal into a mould in the foundry to make castings — as the route by which cast parts reach household, building, industrial and even spacecraft products (printed "spacecrafts"). Four heat treatments follow: hardening (heat, then quench in water/oil; hardness depends on carbon, temperature and cooling speed), tempering (removing some hardness/brittleness to gain toughness, e.g. in a molten-lead bath), annealing (the opposite of hardening — heat and cool as slowly as possible to soften) and surface hardening (carbon added to the surface; only low-carbon steel and wrought iron, as printed) (pp. 168–169).
+
+**B11. Working with metal — Bench and sheet metal tools (printed pp. 175–194).** The book's longest unit, and largely pictorial. Bench/sheet metal stock forms (rod, square, flat bar, sheet) worked cold with hand tools and some machines; nineteen numbered metalworking activities are illustrated (screwing, gripping, holding, scribing, marking, filing, bending, seaming, forging, cutting, threading, measuring threads, drilling, and more, pp. 175–180); then pictured, numbered catalogues of hand tools, measuring tools (calipers, micrometer, and others), other equipment (anvil, vice, clamps, tongs) and machines (drill press, grinder-polisher-buffer, squaring shears, impact wrench) run to p. 187, followed by labelling, classification and sentence-building exercises to p. 194. Reading work includes giving the Greek equivalent of English tool terms and classifying tools by use.
+
+**B12. Methods of joining pieces of metal (printed pp. 195–208).** Built around a classification diagram and gap-fill tasks rather than a prose reading: joining is mechanical (fastening devices; rivets named for permanent joints, other devices for temporary/adjustable ones) or thermal, the thermal branch split by heat-source temperature into soldering (filler below 500°C, tin–lead solder), brazing (above 500°C with brass/bronze filler) and welding (very high temperatures, with or without filler) (pp. 195–199). Task 7's printed answer bank (p. 201) fixes the details the unit teaches: three welding techniques (gas, arc, forge), oxyacetylene as the gas-welding mixture/name, a stated minimum of 60 A to create the arc, and forge welding as the oldest form, practised by blacksmiths for centuries. Equipment pictures and a comparison table close the unit.
+
+**B13. Atoms — molecules and their compounds (printed pp. 209–212).** Basic chemistry for the metallurgy strand: compounds as pure substances of constant composition (quartz = one silicon atom + two oxygen atoms as the example), the atom as the smallest component of an element, with a positively charged nucleus of protons and neutrons attracting orbiting electrons, and the molecule defined; then atomic weight (based on 1/12 of carbon-12), the gram atom, molecular weight, and the mole as the gram quantity containing 6.02 × 10²³ molecules as printed (pp. 209–210).
+
+**B14. Earthquakes (printed pp. 213–218).** The closing unit, and Part B's only natural-science (non-metal) topic. An earthquake defined as rapid vibratory rock motion near the surface, usually from movement along faults: a single shock lasting seconds, severe ones up to three minutes as printed; shock waves spreading in all directions (pond-pebble and gelatin-bowl analogies, both called oversimplified by the text itself). Damage discussion stresses vibration over displacement, landslides and uprooted trees, and the soil effect — intensities higher in alluvium/soft soil, so a river-basin town may be badly damaged while a nearer town on bedrock escapes — with distant damage largely to tall buildings swayed by slow surface waves (pp. 213–214). Grammar: tense rewriting, prepositions, active/passive conversion.
+
+**Vocabulary – Terminology (printed pp. 219–244).** One alphabetical English–Greek glossary for both parts, running from "ability" (p. 219) to the Y/Z sections closing p. 244 (e.g. "year", "yield", "yoke" under the Greek-letter Υ head, and the final W/Y entries including "wrought" and "wrench"). Entries give Greek equivalents only, as the preface promised — words glossed as they are used in these texts — with irregular verb forms shown for some verbs (e.g. "wear (– wore – worn)"). There is no separate phrasal-verb or abbreviations list.
+
+**Grammar spine as it arrives (summary):** gerund/infinitive and reported statements (A1) → imperative, advice forms, temporal/conditional clauses (A2) → prepositions (A3) → tense revision (A4) → tenses, purpose infinitives, active voice (A5) → sequencing with *after/before* (A6) → tense revision (A7) → conditionals 1–3 and passives for results (A8) → prepositions (A9) → tense revision, opposite prefixes/suffixes (A10) → vocabulary-led (A11) → sentence ordering (A12) → passives for facts (A13) → sentence ordering, passive-to-active (A14) → vocabulary-led (A15) → sentence ordering, tense revision (A16) → tense revision, sequencing connectors (A17) → advice forms, passives, purpose (A18) → sentence ordering, passives (B1) → prepositions (B2) → comparisons (B3) → active/passive both ways (B4) → question tags, *so that* (B5) → connectors *which/while/because/that/who, not only…but* (B6) → vocabulary-led (B7) → question tags (B8) → comparatives (B9) → process identification (B10) → tool classification/labelling (B11) → guided paragraph writing (B12) → vocabulary-led (B13) → tense rewriting, prepositions, active/passive (B14). Derivations/word-building (noun–verb–adjective families) and synonyms run through nearly every unit in both parts.
+
+### Citation-check section (anchors verified against the real PDF pages)
+
+All page numbers below are printed pages; PDF page = printed + 1. Each anchor was checked on the PDF page itself; the cover and title pages were also checked visually from rendered pages.
+
+1. ✅ Cover spread (PDF p. 1): front cover "TECHNICAL ~ VOCATIONAL / LANGUAGE LEARNING", "Exploiting the Earth", "Β΄ ΕΠΑ.Λ. · ΤΟΜΕΑΣ ΓΕΩΠΟΝΙΑΣ, ΤΡΟΦΙΜΩΝ ΚΑΙ ΠΕΡΙΒΑΛΛΟΝΤΟΣ" (the sector line at the foot of the front cover), and on the back cover "Κωδικός βιβλίου: 0-24-0111 / ISBN 978-960-06-2897-5".
+2. ✅ Full title page (PDF p. 4): "Exploiting the earth / Students' book / Teaching material for students of vocational and technical schools / Β΄ ΕΠΑ.Λ.", the four authors' names in Greek capitals, and the Diophantos publisher line.
+3. ✅ Original-edition imprint (PDF p. 3): the writing team is headed "Διαμαντίδου Αγγελική (M.Ed.) – Σχολ. Σύμβουλος", Moraitaki is credited with "Επιμέλεια – Εικονογράφηση", and the book is stated to be formed from the TEL books "Today's Agriculture", "English for Chemistry and Metallurgy", "Building Materials and structures" and "Mechanical Engineering Technicians".
+4. ✅ Preface, printed p. 5 (PDF p. 6): the first part consists of 18 units on plant and animal production specialities and the second part of 14 units on chemical industries and mines, with an alphabetical general vocabulary at the end of the book giving Greek explanations.
+5. ✅ Contents, printed p. 7 (PDF p. 8): Part A΄ unit 1 "Planting" at p. 18 and unit 18 "Farm management" at p. 108; Part B΄ unit 1 "Rock formation and classification" at p. 121 and unit 14 "Earthquakes" at p. 213.
+6. ✅ Printed p. 18 (PDF p. 19): loam "contains a combination of clay, silt, and sand, which retains nutrients and water, while it still allows sufficient room for air"; the same page prints "Sandy soils have a lot lot of room for air" [duplication as printed].
+7. ✅ Printed p. 23 (PDF p. 24): transplanting step 4 instructs, for peat pots, to "tear off the edges of the pot down to the soil line" and "tear off the bottom of the pot to promote root growth".
+8. ✅ Printed p. 32 (PDF p. 33): the soil-texture scale ends "clay – less than 1/12,500 of an inch", and the amendment rate is "2 parts soil to 1 part organic matter".
+9. ✅ Printed p. 37 (PDF p. 38): "Why should we measure soil-water tension?" is answered with four bullets, ending "To increase profitability."
+10. ✅ Printed p. 41 (PDF p. 42): the five pictured watering methods are headed "P.1 Basin", "P.2 Furrows", "P.3 Soaker hose", "P.4 Sprinkler", "P.5 Drip / trickle".
+11. ✅ Printed p. 55 (PDF p. 56): *Dacus oleae* "very greatly reduces the yields of olive fruits and oil, sometimes by as much as 80-90%", and "The treatment should be repeated at intervals of 20 days."
+12. ✅ Printed p. 63 (PDF p. 64): "Legumes, another important group of food, are the main source of proteins."
+13. ✅ Printed p. 75 (PDF p. 76): "The most advanced labour-saving device for grain farming is the combine. This machine reaps, threshes, and winnows grain in one operation."
+14. ✅ Printed p. 83 (PDF p. 84): disease symptoms include "very high or very law pulse" [as printed], and the bacterial disease contracted from infected milk is named as the cause of "undulant or Malta fever".
+15. ✅ Printed p. 89 (PDF p. 90): the Carousel is "a system according to which the sheep move round on a rotating circular platform and are milked as they move, on the conveyor belt principle".
+16. ✅ Printed p. 100 (PDF p. 101): "Greenhouses of tropical temperature: The temperature may reach 30°C, but it must not fall below 15°C."
+17. ✅ Printed p. 109 (PDF p. 110): "He must keep in mind the farmer's formula for success: 'Volume times price minus costs equals profit'."
+18. ✅ Printed p. 136 (PDF p. 137): "less than 1% copper is contained in copper ores. Nevertheless, this percentage can reach the amount of 30%", and magnetic separation uses "Magnetic oxide (Fe3O4)".
+19. ✅ Printed p. 161 (PDF p. 162): aluminium is "the most abundant metal (8 per cent of the earth's crust)", and alumina in the Hall-Heroult process is "electrolyzed at about 1000°C".
+20. ✅ Printed p. 201 (PDF p. 202): the joining unit's answer bank gives "60 A." as the minimum amperage to create the electric arc and "It is the forge welding which has been practised by blacksmiths for centuries" for the oldest form of welding.
+
+**Anchor count: 20 checked, 20 verified, 0 failed.**
+
+### Honest negatives
+
+- **No publication year is printed** anywhere on the cover, title or imprint pages. The only dates attached to this file are production stamps — 30/8/2021 on interior signatures, 26/10/2023 on the cover/title/legal signatures — and the Greek legal notice's citations of laws of 2011 and 1946 (PDF p. 249). Any catalogue year for this book comes from outside the book itself; the text itself is a reissue of earlier TEL material (see the imprint, PDF p. 3).
+- **The cover's sector label is narrower than the book.** The cover and title page assign the book to the Agriculture, Food and Environment sector of Β΄ ΕΠΑ.Λ., but half the book (Part B, 14 of 32 units) is mining, metallurgy, metalworking and basic chemistry, and the preface addresses pupils of the geotechnical **and** mining specialities. Filed as purely "agriculture sector English", Part B's content would be missed; filed as mining English, Part A would be.
+- **The body still belongs to the predecessor school types.** The preface addresses pupils of the Τεχνικά Επαγγελματικά Εκπαιδευτήρια (TEE) and the imprint derives the book from ΤΕΛ books; only the reissue cover/title framing says ΕΠΑ.Λ. The EPAL label is the reissue's framing of a book written for TEE/TEL.
+- **There is no listening, speaking syllabus or answer key.** No tapescripts, audio references, dialogues to listen to, pronunciation work or keys appear anywhere in the 250 pages; speaking appears only as a guided dialogue (A2, B6) and connector work (A17). It is a reading-and-exercises book.
+- **No food-technology strand, despite the sector name.** Although the cover sector includes Τροφίμων (Food), no unit covers food processing, food technology or food safety; food appears only as crops and dairy production on the farm side (A10, A14).
+- **The two parts are uneven in kind.** Part A is mostly continuous prose readings; Part B's two longest units are not — B11 is a 20-page pictured tool catalogue with exercises, and B12 is built from a diagram and gap-fill tasks with its facts carried in an answer bank. Neither part has a revision/test unit, a project, or a progress check of any kind.
+- **Printed errors and dated or loose statements are kept as printed, not corrected, in this filing:** "a lot lot" (p. 18); "tensiometres" in the Contents (p. 7) against "tensiometers" in the unit itself; "nutrified bark" (p. 32); a greenhouse "hydrometer" where a hygrometer is meant (p. 98); "very law pulse" for *low* (p. 83); "Pyrometallurgv" (p. 141); "spacecrafts" (p. 168). The metamorphic-rocks paragraph lists "limestones, marbles and slates" as examples of the group (p. 122) — limestone is a sedimentary rock in the book's own preceding paragraph's terms. The photosynthesis unit states the process "makes up all of the oxygen we breathe" (p. 93), and the aluminium unit's "until this century" (p. 161) dates its source text to the 20th century.
+- **Dated content is part of the book as printed:** pesticide-led olive-fly control on a fixed 20-day spray cycle (p. 55), a fully automatic battery layer-cage system presented as progress (pp. 81–82), Bessemer/open-hearth steelmaking presented as the standard routes with the electric arc furnace as the "nowadays" newcomer (p. 158), and copper described as having "become scarce and expensive" (p. 161). These are reported as the book's content, not as present-day fact or advice.
+- **The file's last pages are production matter, not content:** printed folios 245–247 are blank, folio 248 is the Greek distribution/copyright notice under Law 3966/2011, and PDF p. 250 simply repeats the PDF p. 1 cover spread.
+- The book is **not English-only**: the preface, imprint, cover/title sector lines and the whole glossary are in Greek, and several units ask pupils to supply Greek equivalents of English terms (notably B11 and B12).
+
+
+## Grade 11 (EPAL) — English for Office Clerks, Student's Book (Β΄ ΕΠΑ.Λ., Administration and Economy sector)
+
+### Identity block
+
+- **Identity verdict — MATCH, with one internal mismatch inside the book itself (see below).** The library record ("English for Office Clerks", student book, Grade 11 EPAL sector English, file 24-0206-02) is what the book's own pages say it is.
+- **Real title as printed:** *English for office clerks* — in lower case on the half-title (PDF p. 2) and the full title page (PDF p. 4), and in capitals as ENGLISH FOR OFFICE CLERKS on the front cover and spine (cover spread, PDF p. 1). The front cover heads it VOCATIONAL LANGUAGE LEARNING. The title page adds: "E.S.P. Coursebook / Teaching Material / for students of Vocational Lycea and schools", then Β΄ ΕΠΑ.Λ. and ΤΟΜΕΑΣ ΔΙΟΙΚΗΣΗΣ ΚΑΙ ΟΙΚΟΝΟΜΙΑΣ (Administration and Economy Sector).
+- **Component verdict:** STUDENT'S BOOK — confirmed. It is the pupil's book itself: readings, dialogues, model business letters, questions, exercises, activities and listening tasks to complete in the book, two illustrated office-machine plates, a Consolidation block after every unit, and a final alphabetical vocabulary. There is no teacher-only material, no separate workbook, **no answer key and no tapescripts** in this file (see Honest negatives).
+- **Authors:** the writing team (Η συγγραφική ομάδα) named on the original-edition imprint (PDF p. 3): Βασσάλου Ελένη (Eleni Vassalou), Μηχανικού Γαρυφαλλιά (Garyfallia Michanikou) and Μωραϊτάκη Μαρία (Maria Moraitaki), all ΠΕ6 (English-teacher branch). Guidance and supervision (Καθοδήγηση και Επιστασία): Ηλίας Κυζηράκος (Elias Kyzirakos), School Adviser of Piraeus. Editing and illustration: Maria Moraitaki. The imprint also notes that in the first, experimental phase of part of the material, Michalis Markakis (ΠΕ9) and Charikleia Kriezi (ΠΕ6) worked with the team. The title page states that the writing and scientific editing were carried out under the auspices of the Pedagogical Institute.
+- **Publisher:** Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «ΔΙΟΦΑΝΤΟΣ» (Institute of Computer Technology and Publications "Diophantos" — ITYE Diophantos), for the Υπουργείο Παιδείας, Θρησκευμάτων και Αθλητισμού (Ministry of Education, Religions and Sports) / Ινστιτούτο Εκπαιδευτικής Πολιτικής (Institute of Educational Policy). The imprint's reissue note (ΣΤΟΙΧΕΙΑ ΕΠΑΝΕΚΔΟΣΗΣ) says this reissue was produced by ITYE Diophantos by means of a digital mockup.
+- **ISBN / book code:** ISBN 978-960-06-2981-1 and Κωδικός Βιβλίου (book code) 0-24-0206, both printed on the back cover (cover spread, PDF p. 1, verified visually from the rendered cover); barcode element (01) 000000 0 24 0206 2. The file name's 24-0206-02 is the ministry file code built on the same 24-0206 base.
+- **Edition / year:** **No calendar publication year is printed** on the cover, title pages or imprint pages, and none is asserted here. The only dates in the front and back matter are file-production stamps in the page footers — 4/3/2021 on most interior and title signatures and 9/11/2023 on the cover, closing legal and some title signatures. Those are production stamps of this reissue file, **not** a printed publication year. The book's own content is visibly much older than either stamp: its model letters are dated 1995–1996 and its Greek foreword addresses the predecessor school type (see Honest negatives).
+- **Extent:** 410 PDF pages. The cover spread is PDF p. 1 and is repeated as PDF p. 410; PDF p. 5 is blank; PDF pp. 407–408 are blank; PDF p. 409 is the unnumbered legal/distribution notice.
+- **Page offset:** **printed page = PDF page − 1** throughout, wherever a folio is printed (verified from printed p. 5 = PDF p. 6, the first Contents page, through printed p. 405 = PDF p. 406, the last vocabulary page). PDF p. 2 is the half-title, PDF p. 3 the original-edition imprint, PDF p. 4 the full title page, PDF pp. 6–8 the Contents (printed pp. 5–7), PDF p. 9 the Greek foreword to the pupil (printed p. 8). Printed p. 374 (PDF p. 375) is blank, between the last Consolidation exercises and the final Vocabulary.
+- **Structure:** a preliminary reference section, "Things to keep in mind" (printed pp. 9–10); six units, each opened by a two-page specification table (Chapter / Function / Language work) and a unit title page, and closed by Consolidation exercises; and a final alphabetical English–Greek Vocabulary (printed pp. 375–405). Inside a normal chapter the pattern is fixed: a reading, dialogue or model letter, then A. Questions, B. Exercises (grammar, word-building, synonyms/antonyms, prepositions, reported speech, error correction and similar), an Activity or role play in many chapters, frequent "Listen and answer" / cassette gap-fill tasks, and a per-chapter English–Greek Vocabulary list. The Greek foreword (printed p. 8) states the design openly, in Greek: there is deliberately **no grammatical or syntactic grading** through the texts; each unit instead groups topics belonging to the sector, supported by the exercises, by per-chapter vocabulary that also repeats already-known words, and by the final alphabetical vocabulary. For Unit 3 it stresses that the phrase lists after each commercial letter are an aid for the activities, not material to be memorised.
+
+### Unit-by-unit summary (own words; printed page references)
+
+**Preliminary — Things to keep in mind (printed pp. 9–10).** A two-page reference placed before Unit 1. Part A explains the anatomy of a business letter — headed notepaper, the receiver's address, date, greeting, optional subject line, opening, body, complimentary close and signature — and shows how the form of address, the greeting and the close correspond to each other, with notes on variant comma use in addresses, dates, greetings and closes. Part B lists abbreviations commonly found in commercial correspondence (among them B/L, c.i.f., C.O.D., C.W.O., E.E.C., f.a.s., f.o.b.), with a Greek note saying the abbreviations are explained again in the per-chapter vocabularies.
+
+**Unit 1 — Getting a job (printed pp. 13–99; specification table pp. 11–12).** Eighteen chapters follow one fictional school-leaver, Maria Petrou, from leaving school to settling into her first office job, and the unit is built as that single story. It opens by weighing the attractions of office work and the qualities and skills a good clerk needs, including clear written English for reports, letters, telex messages and memoranda and at least one foreign language (Ch. 1, pp. 14–17). A newspaper advertisement for a secretary in a sales department, asking for reliability, efficiency, a pleasant voice, fast typing and accurate shorthand (Ch. 2, pp. 18–20), is answered by Maria's own application letter (Ch. 3, pp. 21–23), her curriculum vitae (Ch. 4, pp. 24–26 — single, born 16 June 1976, educated at a Technical Lyceum and a school of commerce, no experience, travelling as her interest), and a testimonial from her school principal praising her typing, book-keeping and English and her polite, willing character (Ch. 5, pp. 27–30). The firm's invitation letter fixes her interview (Ch. 6, pp. 31–33). Two chapters interrupt the story for the journey to work: a reading on city transport — underground, buses, taxis, season tickets, rush hours and fares (Ch. 7, pp. 34–38) — and a narrative of Maria's trip to the interview, through a crowded station to a modern office building (Ch. 8, pp. 39–43). The interview dialogue itself, in which she is offered the post despite having no previous experience, on the strength of her reference (Ch. 9, pp. 44–48), is followed by her first morning: a guided tour, in prose, of the manager's and secretary's desks and their equipment — telephones, intercom, in- and out-trays, stapler, punch, paper-clips, files and typewriter (Ch. 10, pp. 49–52). A stationer's-shop dialogue equips a young accountant's new office, from paper, pens and envelopes to printers for headed notepaper (Ch. 11, pp. 53–57), and a father-and-son visit to an office-equipment exhibition explains, item by item, the swivel chair, notice board, fax machine, photocopier, typewriter, trays, stapler and hole punch (Ch. 12, pp. 58–63); two unnumbered-in-the-Contents picture plates of office machines, mechanical and electronic, stand at printed pp. 88–89, inside the Consolidation block. Shorter chapters cover office security rules (Ch. 13, p. 64), a manager explaining the staff diagram — managing director, sales manager, post-room clerk, receptionist, accounts head and the rest (Ch. 14, pp. 67–71), an essay-style text on the manager–secretary relationship and the tangible and intangible costs when a secretary leaves (Ch. 15, pp. 72–75), and a coffee-break dialogue in which a longer-serving secretary airs the job's irritations — long hours, a meticulous manager, smoking colleagues (Ch. 16, pp. 76–80). The unit closes by returning to job-hunting from the other side: an advertisement for an executive secretary requiring at least eight years' experience (Ch. 17, pp. 81–83), and a dialogue in which Maria entertains a waiting visitor by giving him a walking route around central Athens, ending at Constitution Square and the Memorial of the Unknown Soldier with its guards in the "phoustanella" kilt (Ch. 18, pp. 84–87). Consolidation exercises (pp. 90–98) recycle the whole unit's vocabulary, word-building, conditionals, reported speech and verb forms; printed p. 99 is blank.
+
+**Unit 2 — Communications and office practice (printed pp. 101–151; specification table pp. 100–101).** Ten chapters on how an office talks to people. The first is a decision exercise: for a series of office situations the pupil must choose the right channel — internal extension, appointment, letter, telex or fax, interview, distributed circular, notice board, memo or note (Ch. 1, pp. 102–105). A long advice text on direct-mail sales letters follows: professional readers, it argues, read only the opening and the end, so the whole offer must be crisp and complete in the first paragraphs and restated at the close, and length is treated as a sign of professionalism (Ch. 2, pp. 106–109, headed "The mail minefield"). Telephoning is then taken in stages: the mechanics and frustrations of a call — engaged lines, operators, being cut off, queues (Ch. 3, pp. 110–113); an argument that the telephone is an under-used, hard-to-control but potent selling tool that can cut costs and save journeys (Ch. 4, pp. 114–117); and a full switchboard dialogue in which a customer chasing an undelivered microcomputer order leaves a message on a printed "while you were out" form for the manager to ring him back urgently (Ch. 5, pp. 118–122). A text on body language reads folded arms and crossed legs in posed photographs as defensive, non-communicative signals (Ch. 6, pp. 123–125). Answerphones and recorded messages cover the lunch-hour gap, with a listening task that turns into taking down shipping details — cargo, ports, vessel and delivery date (Ch. 7, pp. 126–128). The telex is defended as cheap, fast, accurate and effective, working like a telephone combined with a typewriter (Ch. 8, pp. 129–131), and a manufacturer's advertisement for a "thinking" fax range — one model transmitting unattended day and night, one handling A3 documents and photographs, and the top model storing and sending automatically to up to 100 locations — carries the fax chapter (Ch. 9, pp. 132–136, headed with the maker's slogan built on "We think, therefore we are"). The closing dialogue explains everyday telecommunications through a family conversation: phone boxes out of order, telephone exchanges, phonecards and where to buy them, cardphones, dialling codes, ex-directory numbers and how a mobile phone works (Ch. 10, pp. 138–142). Consolidation exercises follow at pp. 143–151.
+
+**Unit 3 — Commercial correspondence – Exports (printed pp. 153–211; specification table p. 152).** The book's most systematic unit: eleven chapters work one complete export transaction from first inquiry to complaint, using the same two firms throughout — a Greek trading company in Athens buying "Scotch Tweeds" from a London supplier. Each correspondence chapter prints a model letter, then a set of standard phrases for that letter type, grouped as opening lines, subject matter and closing lines, then an activity that re-uses the phrases in a parallel record-shop transaction that runs through the whole unit, and a cassette gap-fill. The sequence is: an inquiry asking for cuttings, patterns and prices (Ch. 1, pp. 154–157); the supplier's offer, sending samples under separate cover with a price list and a 5% discount for payment within 30 days (Ch. 2, pp. 158–162); a special-offer circular for a bankrupt blanket company's stock, and a buyer's reply asking for its representative to be shown the range (Ch. 3, pp. 163–166); an order for three selected qualities (Ch. 4, pp. 167–170); acknowledgement and execution of the order with a printed pro forma invoice for £9,300 (Ch. 5, pp. 171–175); a complaint that one delivered piece does not match the pattern and is paler, with a yellowish shade (Ch. 6, pp. 176–179); and the supplier's reply, apologising, explaining that slight colour differences are unavoidable and sending an identical piece from the same batch (Ch. 7, pp. 180–183). The remaining four chapters are expository: export trade explained against home trade — changing regulations, import quotas, and the pricing terms f.o.b., c.i.f., cash on delivery, cash with order and open account (Ch. 8, pp. 184–188); a dialogue in which a successful home-trade company president asks a Ministry of Commerce official how to start exporting — distributors, trade directories, trade missions, promotion and arbitration among the advice (Ch. 9, pp. 190–194; printed p. 189 is a chapter-title page only); export financing taught as a training-course dialogue centred on the letter of credit, irrevocable letters of credit, open accounts with monthly or quarterly payment, and payment in advance and by term draft (Ch. 10, pp. 195–199); and customs — tariffs, import and export duties, customs clearance, excise duty on home-produced goods such as tobacco, drinks and petrol, and the customs debenture (Ch. 11, pp. 200–204). Consolidation exercises follow at pp. 205–211.
+
+**Unit 4 — Computers in our life (printed pp. 213–251; specification table p. 212).** Seven chapters, all built from dialogues and articles of their period. A debate opens it: one speaker argues that computers will outlive human beings and become their biological successors and have already invaded privacy, while the other insists a computer is only a machine, monitored and guided by the people who feed it data, and useless without them (Ch. 1, pp. 214–219). A bank computer operator explains her job to her eight-year-old brother — accounts, deposits, withdrawals, computer-kept records, banking when the bank is closed, paying bills without visiting the bank, and shopping without carrying cash or cheques (Ch. 2, pp. 220–223). Two linked articles on microcomputers in marketing follow: the first argues that firms which fail to adopt the new technology will lose ground to competitors, and works through choosing equipment, compatibility and networking (Ch. 3, pp. 224–227); the second takes up the proposed function of the computer, the software and operator skills required, mainframe and mini configurations, memory and hard-disk storage, and spreadsheets (Ch. 4, pp. 228–231). An article on the "high tech pitch" lists what new technology was then doing for direct marketing — computerised marketing files and customer history, cable- and satellite-ready television receivers, electronic mail between businesses, teletext, laser printing and videodisc (Ch. 5, pp. 232–235). A survey-based article on the "terminal salesman" reports that computers in selling were at first used mainly to cut clerical effort, and describes sales staff loading changes into a pocket computer (Ch. 6, pp. 236–239). The closing article defines "reengineering" as the replanning and redesigning of businesses, devised by two famous American economists who, it says, held that most firms still worked by old-fashioned rules in what had become a universal market, and connects the argument to competition, the division of labour and unemployment (Ch. 7, pp. 240–244). Consolidation exercises follow at pp. 245–251, including a word-grid of Unit 3–4 commercial terms.
+
+**Unit 5 — Advertising and public relations (printed pp. 253–311; specification table p. 252).** Twelve chapters, the first four of them travel-themed. Two contrasting advertisements — an emotive holiday advertisement for an island and a factual desk-sets advertisement — open the unit and are compared for how ads persuade (Ch. 1, pp. 254–256). Practical advice on organising a trip follows: collecting brochures, booking early, choosing transport against time and money, comparing full- and half-board prices, and checking excursions, passports, visas and luggage (Ch. 2, pp. 257–260). A couple planning a summer holiday in Greece read a tour operator's brochure and its participation regulations before reserving (Ch. 3, pp. 261–263), and the next chapter prints that operator's general conditions in full — the "Hellenic Summer Holidays 1996" programme, valid 1 April to 31 October 1996, rates in Greek drachmas, a January 1996 exchange rate of US$1 = 250 drachmas, 50% reductions for children, cancellation fees, and a liability disclaimer — after which the couple decide that driving to Greece in their own car would be the better experience (Ch. 4, pp. 264–268). The remaining chapters are essays and articles about advertising itself: an argument that advertising is neither all-powerful nor useless — it often works and sometimes does not, and, like medicine and unlike physics, it deals with unpredictable human beings (Ch. 5, pp. 269–272); a piece arguing that boring, repetitive television commercials can destroy a whole commercial break, because viewers divert their attention or channel-hop, so advertisers, not broadcasters, carry the responsibility (Ch. 6, pp. 273–277); an article warning marketing directors not to underspend on advertising, with period figures for the growth of direct mail against television and press advertising between 1975 and 1983 and an argument about balancing short- and long-term returns (Ch. 7, pp. 278–281); an essay asking whether we are mass-media addicts, on how television, radio and the press can establish or destroy reputations and prejudice their audiences (Ch. 8, pp. 282–286); a discussion of how far marketers are to blame for addictions, drawing on campaigns to ban cigarette advertising and on specialists' views about socio-economic influences and personal responsibility (Ch. 9, pp. 287–290); an article on the price of publicity, contrasting very different prices for a commercial and for a public-relations consultant's hour and arguing that money is wasted unless publicity serves the client's sorted-out strategy (Ch. 10, pp. 291–294); a piece arguing that public relations works best integrated with the rest of the marketing plan, its chief contribution being credibility, since an editorial message is believed in a way a paid advertisement is not (Ch. 11, pp. 295–298); and a closing article arguing that marketers neglect customer relations — most dissatisfied customers never complain, and complaints, properly answered, are a key to sales and loyalty — followed within the same chapter by true/false work on buyers' and traders' rights, refunds and replacements (Ch. 12, pp. 299–302). Consolidation exercises follow at pp. 303–311.
+
+**Unit 6 — Marketing, management and purchasing (printed pp. 313–373; specification table p. 312).** Ten chapters plus the longest Consolidation block in the book. A definitions chapter unpacks the word "market" — marketplace, total demand, market price against marked price, bid and offered prices and the middle price, price controls in inflation, and named market types including closed, ready, fringe, grey and black markets (Ch. 1, pp. 314–319). Market research is presented as the work that must precede production — finding out what consumers want, what they will spend and how they can be convinced to buy — together with motivational and advertising research (Ch. 2, pp. 320–324). An academic-style article asks what marketing itself is — science, learnable skills, or a philosophy for running a business — and says the subject faces an identity crisis despite recognition from established disciplines such as psychology and sociology (Ch. 3, pp. 325–328). A story about a graduate who, asked which department he wanted to join, answered that he wanted to be "a businessman" illustrates an article on the creative urge, specialists in big companies, and the absurdity, as the text puts it, of leaving innovation to chance (Ch. 4, pp. 329–332). An eighteen-point evaluation checklist for a product — rarity, exclusivity, price, practicality, savings, demonstrability, advantage over an established product, two-in-one uses, investment and collectable value, mail-order suitability and, as its last item, novelty (Ch. 5, pp. 333–336) — is followed by the text of a sales-promotion code whose principles require promotions to be legal, decent, honest and truthful, applied in spirit as well as letter, fair to competitors and consumers, and protective of the public interest (Ch. 6, pp. 337–341). New product development is given as a recipe: keep the consumer, the competition and the company advantage in view, talk to consumers early, let technical and marketing development interact from the first day, and explore the competitive climate fully (Ch. 7, pp. 342–345). A reference chapter on the management field describes mixed economies, public and private sectors, sole proprietors, boards of directors elected by shareholders, executives, chairmen and managing directors, middle and under-managers, and parent, daughter and subsidiary companies (Ch. 8, pp. 346–351). A party dialogue explains partnership through two friends going into insurance together — general against limited partners, multiple sources of capital and tax benefits on one side, disagreement and unlimited liability on the other (Ch. 9, pp. 352–356). The closing chapter is a history and explanation of credit cards: store, hotel and oil-company cards in the United States at the beginning of the century, their spread after the Second World War, travel and entertainment cards, and then bank cards, statements of account, payment in full against monthly instalments with interest, and revolving credit (Ch. 10, pp. 357–361). Consolidation exercises (pp. 362–373) recycle the whole book's later units and end with an Activities task built on two newspaper advertisements, for a Marketing Assistant and a Marketing Manager.
+
+**Back matter — Vocabulary (printed pp. 375–405).** A single alphabetical English–Greek vocabulary for the whole book, running from "abbreviation" (printed p. 375) to the Y entries "yard", "yearn" and "yellow pages" (printed p. 405), including phrases and idioms as separate entries. It supplements, and partly repeats, the per-chapter vocabularies. Printed pp. 406–407 (PDF pp. 407–408) are blank, and the file closes with the unnumbered legal notice (PDF p. 409) and a repeat of the cover spread (PDF p. 410).
+
+**Language-work spine as it arrives (summary, from the units' own specification tables):** Unit 1 works chiefly on the first and second conditionals, *should* and *must*, reported speech, verb tenses and prepositions, with synonyms, antonyms and word formation in almost every chapter; Unit 2 on conditionals, gerund against infinitive, comparatives and superlatives, correcting mistakes, derivatives and prepositions; Unit 3 replaces graded grammar with memorising and re-using the standard phrases of each commercial letter type; Unit 4 on reported speech and question tags, identifying words from definitions, derivatives and prepositions; Unit 5 on synonyms and antonyms, derivatives, gap-filling and *there is / it is* and *if / unless* for instructions; Unit 6 on synonyms, prefixes and suffixes for antonyms, noun formation, reported speech and the passive, recycled again in its Consolidation block (conditionals, modals, *other / another / the others*, and contrast linkers such as *however, although, whereas, in spite of*).
+
+### Citation-check section (anchors verified against the real PDF pages)
+
+All page numbers below are printed pages; PDF page = printed + 1. Each anchor was checked on the PDF page itself; the cover anchor was checked visually from the rendered cover spread, the others against the text of the named PDF page.
+
+1. **Verified** — Cover spread (PDF p. 1, rendered and viewed): front cover "VOCATIONAL LANGUAGE LEARNING / ENGLISH FOR OFFICE CLERKS", "Β΄ ΕΠΑ.Λ.", "ΤΟΜΕΑΣ ΔΙΟΙΚΗΣΗΣ ΚΑΙ ΟΙΚΟΝΟΜΙΑΣ"; back cover "Κωδικός Βιβλίου: 0-24-0206 / ISBN 978-960-06-2981-1" and barcode "(01) 000000 0 24 0206 2".
+2. **Verified** — Full title page (printed p. 3, PDF p. 4): "English / for office clerks", "E.S.P. Coursebook", "Teaching Material / for students of Vocational Lycea and schools", "Β΄ ΕΠΑ.Λ.", "ΤΟΜΕΑΣ ΔΙΟΙΚΗΣΗΣ ΚΑΙ ΟΙΚΟΝΟΜΙΑΣ", and the Diophantos publisher line.
+3. **Verified** — Imprint (printed p. 2, PDF p. 3): the writing team is listed as Βασσάλου Ελένη, Μηχανικού Γαρυφαλλιά and Μωραϊτάκη Μαρία, all ΠΕ6, under the heading Η συγγραφική ομάδα, with Ηλίας Κυζηράκος named for Καθοδήγηση και Επιστασία.
+4. **Verified** — Greek foreword (printed p. 8, PDF p. 9): the book is addressed, in Greek, to the pupil of the Γ΄ Τ.Ε.Λ. (3rd year of the Technical Lyceum) of the Economy and Administration sector — the internal mismatch noted in the negatives.
+5. **Verified** — Contents (printed p. 5, PDF p. 6): "Things to keep in mind … 9" precedes "Unit 1 / Getting a job", whose first chapter is "Students! What are you going to do after leaving school? … 14".
+6. **Verified** — Maria's curriculum vitae (printed p. 24, PDF p. 25): "Date of birth 16 June, 1976", "Marital Status Single", "Experience None", and the qualifications line prints "shortand : good" [as printed].
+7. **Verified** — Testimonial (printed p. 27, PDF p. 28): Maria Petrou, aged 19, "attended a commercial course at this school from 1st September, 1994 to 30th June, 1995", signed by Helen Collins, Principal.
+8. **Verified** — Interview invitation (printed p. 31, PDF p. 32): the firm's letter is dated "25th October, 1995" and invites her to an interview "on Wednesday next, 31st October, at 9.30".
+9. **Verified** — Inquiry letter (printed p. 154, PDF p. 155): The Pegasus Trading Co. Ltd., Athens, writes on "15th December, 1995" to S.G. Brown & Co., London, about the "Scotch Tweeds" quality.
+10. **Verified** — Acknowledgement of order (printed p. 171, PDF p. 172): the goods "will be despatched immediately upon receipt of your remittance for £ 9,300 as per enclosed pro-forma invoice"; the pro forma invoice itself is printed on p. 172 (No. 912).
+11. **Verified** — Complaint letter (printed p. 176, PDF p. 177): of the 60 pieces received, "one of the pieces marked with the number 1203 does not correspond to the original pattern; the colour is much paler".
+12. **Verified** — The telex (printed p. 129, PDF p. 130): the reasons given are headed "It is cheap. It is fast. It is accurate. It is effective."
+13. **Verified** — RAFAX advertisement (printed p. 132, PDF p. 133): "the RAFAX 22 can transmit A3 documents and photographs", and the RAFAX 27's memory "enables it to store and transmit automatically to up to 100 different locations".
+14. **Verified** — Hellenic Airlines conditions (printed p. 264, PDF p. 265): "The programme Hellenic Summer Holidays 1996 is valid from April 1st to October 31st, 1996", "All rates are quoted, in Greek drachmas, per person", and "Exchange rate in January 1996: US$ 1 =250 drachmas".
+15. **Verified** — Evaluation checklist (printed pp. 333–334, PDF pp. 334–335): the checklist runs to 18 numbered questions, the last being "18. Is there a novelty in the product?"
+16. **Verified** — Reengineering (printed p. 240, PDF p. 241): reengineering is "lately devised by two famous American economists".
+17. **Verified** — Credit cards (printed pp. 357–358, PDF pp. 358–359): bank-card credit "is called a 'revolving credit'", with the account "debited and/or credited" as purchases are made and settled.
+18. **Verified** — Customs (printed p. 200, PDF p. 201): "Governments issue a customs tariff which is an official printed table showing the rate of the customs duty that is to be paid on goods imported into their country."
+19. **Verified** — Market chapter (printed pp. 314–315, PDF pp. 315–316): "the market price is the price of an article or a commodity that is current in the market", and the price halfway between bid and offered prices is the "middle or mean price".
+20. **Verified** — Final Vocabulary (printed pp. 375 and 405, PDF pp. 376 and 406): the alphabetical list opens with "abbreviation" and its last entries include "yard", "yearn" and "yellow pages".
+
+### Honest negatives
+
+- **No publication year is printed** anywhere on the cover, title or imprint pages. The 4/3/2021 and 9/11/2023 dates in the page footers are production stamps of this reissue file and are not promoted to a publication year here; the reissue note itself carries no date. Any catalogue year for this book comes from outside the book.
+- **The book's inside and its cover name different schools and grades.** The cover and title pages frame the reissue as Β΄ ΕΠΑ.Λ. (2nd year of the vocational lyceum — Grade 11), but the Greek foreword to the pupil (printed p. 8) addresses the book to the pupil of the **Γ΄ Τ.Ε.Λ.** (3rd year of the Technical Lyceum) of the Economy and Administration sector, and the body keeps the older world: Maria's CV gives her education as a Technical Lyceum and a school of commerce. The EPAL/Grade 11 label is the reissue's framing of a book written for the predecessor school type, and at a different year of it.
+- **The file contains no answer key.** No key to the questions, exercises, activities or Consolidation blocks appears anywhere in the 410 PDF pages.
+- **The file contains no tapescripts or transcripts.** Listening work is everywhere — "Listen and answer" tasks, post-office and telephone dialogues to complete by listening, and, throughout Unit 3, "Listen to the cassette and fill in the blanks" — but no script for any of it is printed in this book, so none of the listening material can be checked from this file. The cassette references (11 mentions of "cassette") also date the material.
+- **Dated content is part of the book as printed, and is reported here as its content, not as present-day fact:** model business letters dated October 1995 to February 1996; a 1996 holiday programme priced in Greek drachmas at US$1 = 250 drachmas; the E.E.C. in the abbreviations list; telex machines defended as a necessary business aid; fax machines, phonecards and cardphones, answerphones, cassettes, floppy disks, teletext and videodisc presented as current technology; shorthand and typing as the secretary's headline skills; and prices in pounds sterling throughout the export transaction. The communications and computer units in particular describe the office technology of their period.
+- **At least one factual slip is the book's own and is kept as printed:** in the export-financing dialogue (printed p. 195) the trainer calls the L/C "the letter of identification, as it is also called" — the document the whole chapter is about is the letter of credit, and no correction is printed.
+- **Spellings and errors in the book are reproduced as printed, not corrected,** including: "shortand" for shorthand in Maria's CV (printed p. 24); "quota : Quotations" in the abbreviations list (printed p. 10); "irrevocable letter of credid" in a Unit 3 vocabulary list (printed p. 162); and "pubicity" in the opening line of the price-of-publicity chapter (printed p. 291). Other odd spellings occur inside exercises that deliberately plant errors for pupils to correct (for example in the interview and stationer's chapters) and are part of the exercise, not misprints.
+- **This is sector English, not general English.** Unlike the general-education EPAL English book filed separately, there is no general grammar course here — the foreword says so expressly — and a pupil is assumed to bring general English from earlier classes. The language is anchored throughout to office, correspondence, export, computing, advertising and marketing work for the Administration and Economy sector.
+- **The book is not English-only:** the foreword, the imprint, the legal notice and occasional notes are in Greek, and every chapter vocabulary and the final Vocabulary give Greek equivalents.
+- Two picture plates of office machines (printed pp. 88–89) and the chapter-title page at printed p. 189 carry no chapter text; printed pp. 99, 374, 406 and 407 are blank. They are counted in the extent above, not treated as missing content.
+
+
+## Grade 11 (EPAL) — English for Office Clerks, TEACHER'S BOOK (Βιβλίο Εκπαιδευτικού) — the KEY to the E.S.P. Coursebook (student book code 24-0206)
+
+### Identity block
+
+- **Identity verdict — PARTIAL MISMATCH with the library record; the book's own pages govern.** The record files this file (24-0207-01) as "English for Office Clerks, B' EPAL (Grade 11), also G' (Grade 12), Vivlio Ekpaideutikou (Teacher's Book), sector English". Title, teacher status and subject **match**; the grade/class framing **does not**. What the book itself prints is **Α΄ Τάξη 1ου & 2ου Κύκλου** — Class A (the first class) of the 1st and 2nd cycles — of the **ΤΕΕ** (Technical Vocational Schools), the predecessor school type of EPAL. Neither the reissue cover nor the original title page says Β΄ ΕΠΑ.Λ. anywhere; the Grade 11 (and Grade 12 cross-reference) filing is the ebooks.edu.gr platform's shelving of the file, not the book's own designation. A learner meeting this book in its own terms meets a first-class TEE book that the system later shelved under EPAL Grade 11.
+- **Title as printed — two forms, one of them misprinted.** The Diophantos reissue cover (PDF p. 1, repeated PDF p. 134) prints the title as **"EGLISH FOR OFFICE CLERKS"** — the initial N of ENGLISH is missing on the front cover, exactly as printed; the spine on the same spread spells ENGLISH correctly. The original edition inside gives the title correctly: half-title (printed p. 1, PDF p. 2) "English for office clerks / E.S.P. Coursebook / KEY"; full title page (printed p. 3, PDF p. 4) "English for office clerks / E.S.P. Coursebook / KEY / Teaching Material for students of Vocational Lycea and Schools".
+- **Component verdict — TEACHER'S BOOK / KEY, confirmed, and narrower than most Greek teacher's books.** The cover's "TEACHER'S BOOK" and the title page's "KEY" agree: the whole volume is the answer key to the student's E.S.P. Coursebook, plus a short Greek prologue to teachers and, at the back, the listening tapescripts. It is not a lesson-plan book (see Negatives).
+- **Sector:** ΤΟΜΕΑΣ ΟΙΚΟΝΟΜΙΑΣ ΚΑΙ ΔΙΟΙΚΗΣΗΣ — Sector of Economics and Administration (printed on the cover and spine).
+- **Authors (writing team, printed p. 4, PDF p. 5 — credits page only; no names on cover or title page):** Ελένη Βασσάλου (Eleni Vassalou), Γαρυφαλλιά Μηχανικού (Garyfallia Michanikou) and Μαρία Μωραϊτάκη (Maria Moraitaki), all ΠΕ6 (English teachers). Guidance and supervision: Ηλίας Κυζηράκος (Ilias Kyzirakos), School Adviser of Piraeus. During the first, experimental phase of part of the material, Μιχαήλ Μαρκακής (Michail Markakis, ΠΕ9) and Χαρίκλεια Κριεζή (Charikleia Kriezi, ΠΕ6) also collaborated (same page). The title page heads the work ΠΑΙΔΑΓΩΓΙΚΟ ΙΝΣΤΙΤΟΥΤΟ / ΟΜΑΔΑ ΕΡΓΑΣΙΑΣ ΑΓΓΛΙΚΩΝ ΕΙΔΙΚΟΤΗΤΑΣ ΓΙΑ ΤΑ Τ.Ε.Λ.-Τ.Ε.Σ — Pedagogical Institute, Working Group for Speciality English for the TEL–TES (technical vocational lycea and schools).
+- **Publisher — two layers.** Original edition: ΟΡΓΑΝΙΣΜΟΣ ΕΚΔΟΣΕΩΣ ΔΙΔΑΚΤΙΚΩΝ ΒΙΒΛΙΩΝ — ΑΘΗΝΑ (Organisation for the Publication of Teaching Books, OEDB — Athens), printed on the title page (PDF p. 4), with the standard Greek government free-distribution notice on printed p. 2 (PDF p. 3). The scanned copy is that OEDB edition in the later reissue wrapper of ΙΝΣΤΙΤΟΥΤΟ ΤΕΧΝΟΛΟΓΙΑΣ ΥΠΟΛΟΓΙΣΤΩΝ ΚΑΙ ΕΚΔΟΣΕΩΝ «ΔΙΟΦΑΝΤΟΣ» (ITYE "Diophantos") for the Υπουργείο Παιδείας και Θρησκευμάτων, Πολιτισμού και Αθλητισμού (Ministry of Education and Religious Affairs, Culture and Sports — the ministry name in its 2012–2013 form), distributed via ebooks.edu.gr.
+- **ISBN / book code:** Κωδικός βιβλίου (book code) **0-24-0207** and **ISBN 978-960-06-2982-8**, both printed on the back cover of the reissue wrapper (PDF pp. 1 and 134); barcode element (01) 000000 0 24 0207 9. No ISBN is printed inside the original edition — the title and credits pages carry none. The companion student's book is the record's 24-0206 file; that code is not printed in this key.
+- **Year as printed — honest:** No year is printed on the cover, title page or credits page. The one date the book itself carries is the printer's colophon on the last interior page (PDF p. 133, unnumbered): **ΕΚΔΟΣΗ 2009** (Edition 2009), print run 1,000 copies, contract no. 10258, printed by Σ.Ι. ΖΑΧΑΡΟΠΟΥΛΟΣ Α.Ε. (S.I. Zacharopoulos S.A.), bound by Π. ΓΙΑΤΡΑΣ (P. Giatras). File the scanned copy as the **2009 OEDB print edition** in a Diophantos reissue wrapper; the material itself is older still (the credits page calls part of it experimental first-phase material, and its world is pre-euro — see Negatives).
+- **Extent:** 134 PDF pages = the cover spread, 131 numbered printed pages, the unnumbered colophon page, and the cover spread repeated.
+- **Page offset:** **printed page = PDF page − 1 throughout.** Anchors: prologue printed p. 5 = PDF p. 6; "Looking for a job" printed p. 8 = PDF p. 9; "Do you get on well with computers?" printed p. 62 = PDF p. 63; "Credit cards" printed p. 108 = PDF p. 109. Map: PDF p. 1 cover spread; printed p. 1 (PDF p. 2) half-title; printed p. 2 (PDF p. 3) free-distribution notice; printed p. 3 (PDF p. 4) title page; printed p. 4 (PDF p. 5) credits; printed p. 5 (PDF p. 6) prologue; printed p. 6 (PDF p. 7) blank; printed pp. 7–115 (PDF pp. 8–116) the key proper; printed pp. 116–131 (PDF pp. 117–132) Listening (tapescripts); PDF p. 133 colophon; PDF p. 134 cover spread repeated.
+- **File character:** a scanned-image PDF (Acrobat image conversion) with effectively no text layer beyond the vector cover wrapper — the reading below was made from the rendered pages, OCR-assisted and spot-verified on the page images.
+
+### How the book works — the teacher-only material
+
+The prologue (ΠΡΟΛΟΓΙΚΟ ΣΗΜΕΙΩΜΑ, printed p. 5, in Greek, signed "the writing team") gives the teacher four instructions, in my summary: (1) choose chapters so they match the material the pupils are being taught in Greek; (2) the chapter exercises consolidate grammar already known, in line with the current curriculum, rather than teaching it new; (3) the vocabulary printed after each chapter in the student's book covers already-known words as well as the chapter's terminology, each word explained first in its text meaning, then in its nearest basic meaning; (4) in the third unit, on Commercial Correspondence, the phrases printed after each business letter are working aids for the activities that follow — not material for memorising — kept as equipment for pupils who will specialise in the sector.
+
+The key body then follows the student's book chapter by chapter, under the student's own lesson titles, in a fixed two-part pattern: **A. Answers** — short answers to the reading/listening comprehension questions — and **B. EXERCISES** — the key to the vocabulary, grammar and matching exercises (single words, matching maps of the a–3 type, filled gaps, transformed sentences). Open tasks are keyed "Free." or "Suggestions:", often with the acceptable variants spelled out. That is almost the whole book: **there are no lesson plans, no staging or timing notes, no tests, and no separate method chapters.** The method notes that do exist are a handful of one-line instructions embedded in the key where a task needs handling — e.g. a homework-and-blackboard routine for building a model application letter and CV together in class (printed p. 10), reminders to have pupils act out the role-plays and dialogues (printed pp. 19, 25), two "Remind your students…" grammar reminders (on *should be / should have* at printed p. 17 and on the three conditional types at printed p. 89), a note that different answers can be accepted if the sentences are meaningful (printed p. 34), help with completing a pro-forma invoice (printed p. 51), and a word-building game note (printed p. 108). The one substantial teacher-only text beyond the keys is the **Listening section (printed pp. 116–131)**: the cassette tapescripts, chapter by chapter, for the student's Units 1, 2, 3, 5 and 6 — full dialogues for Units 1, 2 and 6, gapped letter texts to be filled in from the cassette for Unit 3, and two continuous prose passages for Unit 5. **There are no Unit 4 tapescripts** — the computers unit either had no cassette material or none is reproduced here.
+
+### Unit-by-unit summary (own words; printed page references; the key prints no unit numbers in its body — the six blocks below are the student's-book units as recovered from the chapter sequence and the Listening section's unit headings)
+
+**Block 1 — Getting the job and settling into the office (printed pp. 7–34).** The key opens with the careers chapter "Students! What are you going to do after leaving school?" (p. 7): the good clerk, in the key's answers, is polite, efficient, sociable, hard-working, intelligent and elegant, and speaks fluently and clearly. "Looking for a job" (p. 8) keys a job advertisement in the *Athens News* for a secretary in the sales department of the firm that runs through the whole book, EX-EN Ltd., and the CV-and-testimonials convention; its listening answers (p. 9) introduce Maria Petrou sounding out the personnel secretary about the vacant post — general office work: answering the phone, informing customers, correspondence, filing, typing, operating the telex and telefax, shorthand an asset. "Applying for a job" (p. 9) keys Maria's application letter to the sales manager, Mr Dinos Yianniotis, and "Filling in curricula vitae" (p. 10) the CV fields, followed by the book's fullest method note (build the model letter on the blackboard, paragraph by paragraph). "Testimonial" (p. 11) keys a school reference — a commercial course, a diploma, good results in typing, book-keeping and English. "Asking to come for an interview" (p. 12) keys the invitation and the company-department vocabulary (Production, Finance, Personnel, Accounting, Marketing). Two general-English chapters follow — "Means of transportation" (p. 13: underground, buses, taxis, tickets invalidated on board, traffic wardens) and "The first touch" (p. 14: Maria's first journey to the imposing modern office block) — before "Maria gets her first job" (p. 16) keys the interview outcome: the post at a salary of 190,000 drachmas a month, good for a beginner. The office-life strand then runs: "Adapting to the new environment" (p. 18 — dictating machine, and a pictured stationery key: paper clips, trays, stapler, files, punch, window envelopes), "At the stationer's" (p. 19 — an accountant fitting out an office), "Visiting an exhibition for office equipment" (p. 20 — swivel chair, notice board, fax, photocopier, word processor, filing cabinet, each keyed as a "Do you mean the…?" guessing set), "Security in the office" (p. 22 — imperatives, valuables in a safe place, no smoking), "The staff responsibilities" (p. 23 — managing director, post-room clerk, receptionist, personnel officer, private secretary, and a passive-voice exercise set), "The manager and the secretary" (p. 24 — the boss should be friendly, praise publicly, delegate initiative), "Rumours at the backstage" (p. 26 — office gossip about the meticulous, demanding, bossy Mr Yianniotis, and music while working), "Ads may help you find a new job" (p. 27 — a Piraeus-based post requiring English and Greek fluency, typing and telex, only reading knowledge of French, at least eight years' experience), a listening key on a caller's enquiry (p. 28), and "Keeping a client busy" (p. 28 — entertaining a visiting client, Athens sightseeing, telling the time). A long **Consolidation exercises** set (pp. 30–34) recycles the block: raise/rise/arise, idea/mind/view/opinion, time words, a 26-item job-title match, compound words (underground, typewriter, switchboard…), a true/false set, mixed-tense and passive keys, reported speech, and a 30-word listening fill-in portrait of a demanding, meticulous boss.
+
+**Block 2 — Communicating: post, telephone, telex, fax (printed pp. 34–49).** "Communicating with people" (p. 34) keys a channel-choice text (its A/B answers) and collocation work. "The mail minefield" (p. 35) keys the direct-mail doctrine that the deal or offer must come straight out in the first paragraphs, crisp and persuasive, in a letter of two or three pages at most; its listening key is Post Office business (letters, parcel, airmail, registered, express, postal order). "The telephoning process" (p. 36) keys the mechanics — lift the receiver, dialling tone, engaged lines, being put through, being cut off — and "Specialists on call" (p. 37) a telemarketing text: selling by phone takes more skill than many expect, is easily monitored, and can cancel journeys that would win no business. "Taking a Message" (p. 38) keys a receptionist's message-taking at GMS Ltd. and, in listening, rebooking Mr Yianniotis' London appointment to Monday at 12.30. "Body language" (p. 39) keys the non-verbal chapter — folded arms and crossed legs read as defensive and non-communicative. "Recorded messages" (p. 40) keys two answerphone activities (a sales manager's greeting; a New York export manager's message about microcomputers, the vessel 'Athena' sailing under a Greek flag for Liverpool) and an error-correction exercise key. "The telex — a necessary aid to business world" (p. 41, title as printed) keys telex as cheap, fast and accurate; "«We think, therefore we are RAFAX»" (p. 42) keys a fax-machine advertisement (machines that transmit and receive unattended, one model memorising up to 100 locations). "Tele-communications in our life" (p. 43) keys the cardphone chapter: phone cards bought at kiosks, denominations of 1,000, 4,500 and 8,000 drachmas, ex-directory numbers, radio phones charged by duration. A second **Consolidation exercises** set (pp. 45–49) recycles both blocks — remember/remind, let/allow/leave, phrasal verbs (iron out, hold on, cut off, run out of), model telephone phrases, true/false, and a systematic 1st/2nd/3rd conditional transformation key.
+
+**Block 3 — Commercial correspondence and foreign trade (printed pp. 49–61).** This is the prologue's "third unit". Seven correspondence chapters are keyed almost entirely through their **listening fill-ins** (the letters themselves are the tapescripts at printed pp. 123–126): "Inquiries" (p. 49 — a Liverpool computer store asking about floppy disks), "Offers — Replies to enquiries" (p. 50 — a 5% quantity discount on bathroom curtains), "Special offers" (p. 50), "Orders" (p. 50 — women's shoes and leather wallets, order ET1728), "Acknowledgement and execution of orders" (p. 51 — goods loaded at Piraeus Docks, with a pro-forma invoice activity the teacher is told to help pupils complete), "Complaints" (p. 51 — damaged lamp-stands) and "Replies to Complaints" (p. 52). The trade chapters then carry full keys: "Export Trade" (p. 52) — export more complicated than home trade, E.U., and the abbreviations f.o.b., c.i.f., C.O.D. (in some countries the Post Office accepts no C.O.D. parcels), c.w.o. and B/L, with cash-with-order explained; "Gathering information about export trade" (p. 53) — population, production, consumption, foreign-exchange reserves and trade restrictions of the target country, quotas, customs tariffs, export licences, trade missions and the Chamber of Commerce; "Export financing" (p. 56) — the letter of credit in its commercial, confirmed, unconfirmed and irrevocable forms, the paying bank, and the document set (letter of credit, commercial invoice, insurance certificate, bill of lading or air-way bills); "Customs; a complicated government machine" (p. 57, title as printed) — customs duties, the bill of entry, the customs debenture. **Consolidation exercises** (pp. 59–61) recycle the trade block: expect/hope/wait contrasts, price/charge/cost/rate, a 25-item trade-person match (representative, correspondent, competitor, wholesaler…), word-building from the correspondence chapters, and confusable-pair spelling sets.
+
+**Block 4 — Computers (printed pp. 62–74; the student's Unit 4 by position — no tapescripts for it are printed).** "Do you get on well with computers?" (p. 62) keys a dialogue-text in which computers — artificial memory, manageable mechanism, "electronic intelligence" — take over tedious tasks, cause unemployment among clerks, and both attract and frighten. "Computers in banking" (p. 64) keys a bank computer-operator's account: depositing and withdrawing by punching a code number at an outside window, accounts debited and credited by computer. "New scope for micros" is keyed in two parts (pp. 65–66): firms in a crisis of indecision about microcomputers, compatibility with the mainframe, and choosing hardware and software by listing the key tasks, with memory capacity and keyboard training. "The high tech pitch" (p. 68) keys computers in direct marketing — customer history recorded, 7,000 letters, cable-and-satellite readiness, teletext. "The terminal salesman" (p. 69) keys a survey deploring the under-use of computers in selling, against firms cutting administrative costs with cassette-and-tape systems. "Reengineering" (p. 70) keys a long reading on the two American economists' re-planning doctrine — firms ordering from every corner of the earth, managers and supervisors made redundant, incomes up by as much as 100%. **Consolidation exercises** (pp. 72–74) are almost purely lexical: computer word-fields (floppy disk, mainframe, spreadsheet, videodisc, teletext), a 20-item match, negative prefixes, and word-family tables.
+
+**Block 5 — Advertising, travel and the mass media (printed pp. 75–93).** "Ads: A challenge to buyers" (p. 75) keys picture-versus-text advertising (a travel-agency holiday ad against a microprocessor ad). A travel strand follows: "Pieces of advice on organising a trip" (p. 76 — compare agencies, air fares, full-board offers, visas), "Make your holidays a real pleasure" (p. 77 — the Hellenic Airlines Holidays Tours brochures) and "Welcome to Greece" (p. 78 — brochure conditions: 50% child reductions, cancellation fees, unused services refundable at the issuing office). The advertising argument resumes: "Why ads aren't black and white" (p. 80 — advertising, unlike physics, deals with unpredictable people; its effects are grossly over- or under-estimated), "TV ads have to give the viewer a break" (p. 81 — viewers divert their attention or "'walk' the box"; ads need to reward the viewer), "Don't sell the advertising budget short" (p. 82 — the brand's long-term future and new buyers), "Are we mass media addicts?" (p. 83 — media can establish or destroy a political party; audiences are misled and should be critical; its listening key contrasts television, radio and newspapers), "Addiction and who's to blame" (p. 85 — viewing addiction likened to alcohol and drug addiction; marketers and advertisers blamed; cigarette advertising where still permitted), "The price of publicity" (p. 86 — the client must get what he pays for; a poor ad with the right strategy beats a well-made ad with the wrong one), "Make the most of a good mix" (p. 87 — public relations against advertising: paid control against credibility), and "Can get no satisfaction" (p. 88 — customer relations as the art of retaining customers, with business retention rising toward 100%; its listening is a true/false key). **Consolidation exercises** (pp. 90–93) recycle travel and media together: travel/journey/voyage, profit/benefit/advantage, *what*-clause transformations, verb–noun–adjective families in *-en/-ness*, *-ful/-less* pairs, and odd-one-out sets.
+
+**Block 6 — Marketing and management (printed pp. 94–115).** "Market; an inexhaustible field" (p. 94, title as printed) keys the senses of "market" — market-place, the current price, marked price, price control, open market, black market — with Greek protected products (milk, olive oil, cheese, biscuits) among the examples; its listening (p. 96) defines marketing as distribution, taking up more than half of the consumer's money. "Could a product be marketable without the help of the market research?" (p. 96, title as printed) keys surveys of consumers and retailers and operational research; its listening (p. 98) is the EX-EN sales figures story ending in a clearance (end-of-season) sale. "Wanted: an identity" (p. 98) keys marketing's bid to be recognised as a science of transaction or exchange beside psychology and sociology. "The Creative urge" (p. 99) keys company organisation that lets new ventures and newcomers thrive. "Evaluation checklist" (p. 101) keys a product checklist — practicality, novelty, two-in-one features, commemorative value — with the teacher's own example answers supplied (shampoo-and-conditioner; silverware and porcelain dolls). "Promotions: legal, decent, honest and truthful" (p. 102) keys the promotion code: fair competition, no exploiting the consumer's inexperience, clear and honest presentation. "NPD: Recipe for success" (p. 103) keys new-product development — consumer, competition and company advantage interacting from day one, strategy and execution both correct, risk accepted. "The management field" (p. 105) keys the hierarchy text: sole proprietor, board of directors, chairman, chief executive and deputy, district managers; its listening (p. 106) is the "livewire" executive dialogue — top officers, vice-presidents, office managers. "Going into partnership" (p. 107) keys two friends — an insurance broker and an accountant — as general partners: easy formation and tax benefits against disagreement and unlimited liability; a word game builds words from PARTNER. "Credit cards" (p. 108) keys the history and mechanics: first issued in the United States "at the beginning of our century" by stores, hotels and oil companies, then bank cards, monthly instalments and revolving credit, cash advances and currency abroad. The final **Consolidation exercises** (pp. 110–115) are the book's longest: *-ise/-ize* verb formation, compound-noun matches (chairman, shareholder, checklist, lifebelt), synonym groups (company/agency/firm; fee/wages/salary), prefix families (inter-, mis-, over-, trans-, super-, post-, co-, sub-, under-), odd-one-out with reasons, modal-verb keys, and a closing true/false set.
+
+**Listening — tapescripts (printed pp. 116–131).** Unit 1 (pp. 116–120): four full dialogues — Maria Petrou's enquiry to personnel secretary Lilian Manou; Christine Voros ringing about the *Athens News* advertisement (interviews next Tuesday at 10.15); Robert Bart chasing his sales-executive application at KEY COM Ltd.; Mr Yianniotis sending Maria to meet Mr Greg's London flight — plus the gapped consolidation passage about the demanding boss. Unit 2 (pp. 121–122): Tom at the Post Office (stamps priced in drachmas; the parcel payable on delivery), Maria rebooking the London appointment, and Tom Gilford's recorded message with Peter Stephens' reply about the microcomputer cargo on the 'Athena'. Unit 3 (pp. 123–126): the seven correspondence letters as cassette fill-in texts (inquiry, offer, special offer, order, acknowledgement, complaint, reply) and the consolidation letter about wrongly delivered woollen blankets. Unit 5 (pp. 127–128): two continuous passages — television, radio and newspapers, and a consumers'-rights text (the "silent contract" of merchantable quality, refunds and replacement, the Citizens' Advice Bureau and Trading Standards Office). Unit 6 (pp. 129–131): Sue and Jane defining marketing; the Panos/John sales-figures narrative; Sheila and Jasmine on administrative posts. Nothing is printed for Unit 4.
+
+### Language and skills map (whole book, as recoverable from the key)
+
+- **Grammar, always consolidation of known material (prologue point 2):** full tense system in transformation keys; passive voice (staff responsibilities; consolidation sets); reported speech (interview, rumours, consolidation); the three conditionals drilled systematically (printed pp. 47–49); future forms; question tags; modals (final consolidation); prepositions throughout; relative clauses; *what*-clauses; word order. No grammar is presented or explained in this volume — rules live only in the two "Remind your students…" lines.
+- **Vocabulary method:** every chapter's exercises key the same apparatus — definition matching, opposites (very often negative-prefix formation: *in-/un-/dis-/ir-/il-*), noun–verb–adjective family tables, confusable pairs in a "becomes X / Y" spelling format, homophones (salary/celery-type pairs such as *sails/sales, meet/meat*), compound nouns, and pictured-object naming sets.
+- **Skills served by the key:** reading comprehension of ESP texts, cassette listening (answers plus scripts), and the business-writing genres of Block 3. The student's productive work (letters, CV, role-plays) is keyed "Free." with teacher-led modelling — this volume cannot be used to mark it against a model, except where the tapescripts print the Unit 3 letters.
+
+### Citation check — 20 anchors verified against the PDF pages
+
+Printed page = PDF page − 1. Anchors 1–8, 19 and 20 were also checked on the rendered page images; the rest in the page-by-page read of the whole file.
+
+1. Cover spread (PDF p. 1): front-cover title "EGLISH FOR OFFICE CLERKS" (N missing, as printed), "Α΄ Τάξη 1ου & 2ου ΚΥΚΛΟΥ / VOCATIONAL LANGUAGE LEARNING / TEACHER'S BOOK", sector ΤΟΜΕΑΣ ΟΙΚΟΝΟΜΙΑΣ ΚΑΙ ΔΙΟΙΚΗΣΗΣ; spine "ENGLISH FOR OFFICE CLERKS"; back cover "Κωδικός βιβλίου: 0-24-0207 / ISBN 978-960-06-2982-8". — PASS (rendered).
+2. Half-title (printed p. 1, PDF p. 2): "English for office clerks / E.S.P. Coursebook / KEY". — PASS (rendered).
+3. Title page (printed p. 3, PDF p. 4): Pedagogical Institute ESP working group for Τ.Ε.Λ.-Τ.Ε.Σ; "Teaching Material for students of Vocational Lycea and Schools"; "Α΄ ΤΑΞΗ 1ου & 2ου ΚΥΚΛΟΥ ΤΕΕ"; publisher ΟΡΓΑΝΙΣΜΟΣ ΕΚΔΟΣΕΩΣ ΔΙΔΑΚΤΙΚΩΝ ΒΙΒΛΙΩΝ — ΑΘΗΝΑ. — PASS (rendered).
+4. Credits (printed p. 4, PDF p. 5): writing team Βασσάλου Ελένη, Μηχανικού Γαρυφαλλιά, Μωραϊτάκη Μαρία (all ΠΕ6); supervision Ηλίας Κυζηράκος, Σχολικός Σύμβουλος Πειραιά. — PASS (rendered).
+5. Prologue (printed p. 5, PDF p. 6): ΠΡΟΛΟΓΙΚΟ ΣΗΜΕΙΩΜΑ, four numbered points, point 4 naming the third unit's Εμπορική Αλληλογραφία (Commercial Correspondence). — PASS (rendered).
+6. First key chapter (printed p. 7, PDF p. 8): "Students! What are you going to do after leaving school?", A. Answers 1 "Free.", 4 listing the clerk's qualities (polite, efficient, willing to help, sociable, hard working, intelligent, elegant). — PASS (rendered).
+7. Printed p. 8 (PDF p. 9): "Looking for a job", Answer 1 "In the Athens News.", Answer 3 a secretary in the sales department. — PASS (rendered).
+8. Printed p. 9 (PDF p. 10): "Listen and answer" Answer 4 lists the duties including operating "the telex and telefax"; "Applying for a job" addressed to Mr Dinos Yianniotis, sales manager. — PASS (rendered).
+9. Printed p. 10 (PDF p. 11): "Filling in curricula vitae" exercise (address, marital status, diploma, book-keeping) and Activity 1's blackboard model-letter instruction. — PASS.
+10. Printed p. 16 (PDF p. 17): "Maria gets her first job", Answer 4 "190,000 drachmas per month". — PASS.
+11. Printed p. 20 (PDF p. 21): "Visiting an exhibition for office equipment" — fax sending copies through a telephone line, photocopier, filing cabinet among 15 keyed answers. — PASS.
+12. Printed p. 34 (PDF p. 35): the 30-item "Listen and fill in" key (boss, demanding, meticulous … atmosphere) followed by "Communicating with people". — PASS.
+13. Printed p. 41 (PDF p. 42): "Recorded messages" exercise key correcting learner errors, item a to "there is nobody / there isn't anybody". — PASS.
+14. Printed p. 49 (PDF p. 50): "Inquiries" listening fill-in, 20 items (large, store, Liverpool, floppy, discounts…). — PASS.
+15. Printed p. 52 (PDF p. 53): "Export Trade", Answer 3 "It stands for the European Union", Answer 11 cash with order; abbreviation key E.U., f.o.b., c.i.f., C.O.D., B/L. — PASS.
+16. Printed p. 56 (PDF p. 57): "Export financing" — the letter of credit, irrevocable and confirmed forms, paying bank. — PASS.
+17. Printed p. 62 (PDF p. 63): "Do you get on well with computers?", Answer 6 "an artificial memory and a manageable mechanism", Answer 9 "The electronic intelligence." — PASS (rendered).
+18. Printed p. 85 (PDF p. 86): "Addiction and who's to blame", Answer 1 likening the addiction to alcohol or illicit drugs; Answer 6 cigarette advertising. — PASS.
+19. Printed p. 108 (PDF p. 109): PARTNER word-list ("Let the students find as many words as they can") and "Credit cards", Answer 1 "They firstly appeared in the United States at the beginning of our century." — PASS (rendered).
+20. Colophon (PDF p. 133): "ΕΚΔΟΣΗ 2009 – ΑΝΤΙΤΥΠΑ: 1.000 – ΑΡ. ΣΥΜΒΑΣΗΣ: 10258", printing Σ.Ι. ΖΑΧΑΡΟΠΟΥΛΟΣ Α.Ε., binding Π. ΓΙΑΤΡΑΣ. — PASS (rendered).
+
+### Honest negatives
+
+- **Grade mismatch is the headline correction.** The book calls itself Α΄ Τάξη (Class A) 1ου & 2ου Κύκλου ΤΕΕ on both its reissue cover and its original title page. It nowhere calls itself Β΄ ΕΠΑ.Λ. or Γ΄ ΕΠΑ.Λ. The library's Grade 11 filing (with Grade 12 cross-reference) is platform shelving; anyone citing this book for "Grade 11 EPAL English" should cite it as a TEE Class A book re-shelved under EPAL, the same TEE-body-in-EPAL-wrapper pattern as the general EPAL English book.
+- **The cover misprints the title** ("EGLISH", front cover only; the spine and the interior are correct). Any catalogue copying the cover alone will propagate the error.
+- **No publication year on any front page.** The only date in the book is the printer's colophon, ΕΚΔΟΣΗ 2009 (1,000 copies). The Diophantos wrapper carries no year either. "2009" is the edition of the scanned print copy, not a composition date: the content is plainly older — prices and salaries in drachmas (190,000 drs a month; stamps at 120/250/200 drs; phone cards at 1,000/4,500/8,000 drs), telex and telefax as live office technology, cassette tapescripts, floppy disks, and credit cards that "firstly appeared… at the beginning of our century" (the twentieth).
+- **It is a key, not a teaching book.** No lesson plans, no aims, no timing, no board-work guidance beyond three or four one-line notes, no tests or marking schemes, no grammar presentation, and no contents page — the key starts at printed p. 7 with no list of chapters anywhere in the volume. Without the student's book (24-0206) the comprehension questions themselves are mostly unrecoverable: the A. Answers give answers to questions that are never printed here.
+- **Tapescripts are incomplete in two ways:** there are none for Unit 4 (computers), and the Unit 3 scripts are gapped fill-in texts — the letters as heard, with blanks — not clean transcripts; only the Unit 3 consolidation letter (the woollen blankets complaint, printed p. 127) is printed whole.
+- **No CEFR level is stated**, no glossary or vocabulary list is included (the chapter vocabularies live in the student's book, per prologue point 3), and no author names appear on the cover or title page — the team is named only on the credits page.
+- **The key reproduces the student's book's dated world without comment:** the *Athens News*, the Hellenic Airlines tours, RAFAX fax advertising, cardphone kiosks and the EX-EN/KEY COM/GMS fictional firms are period artefacts, reported here as the book's content.
+- Minor printing slips inside the key itself include "meticuluous" in the Unit 1 consolidation script's word list (printed p. 120) alongside the correct "demanding"; the many wrong spellings in the "becomes…" exercise keys are deliberate (they are the student's errors to be corrected), not misprints.
+
+### Filing note for LiqLearns
+
+Cite as: Greece, *English for Office Clerks — E.S.P. Coursebook, KEY (Teacher's Book)*, Α΄ Τάξη 1ου & 2ου Κύκλου ΤΕΕ, Sector of Economics and Administration, Pedagogical Institute ESP Working Group (team: Vassalou, Michanikou, Moraitaki; supervisor Kyzirakos), OEDB Athens, edition of 2009 per colophon; Diophantos reissue, book code 0-24-0207, ISBN 978-960-06-2982-8; printed pp. 1–131 (PDF = printed + 1). Companion student's book: code 24-0206. For course-building its value is the sector word-field and the answer-side evidence of what the student's book teaches (jobs/CV, office equipment, telecom, commercial correspondence, trade, early office computing, advertising, marketing, management) — the teaching texts themselves must be cited from the student's book, not from this key.
+
+
+## Grade 11 (EPAL) — Coursebook for Mechanical Engineering Technicians, Student's Book
+
+Reader draft based on a whole-book, page-by-page read of the PDF below. Summaries are in the reader's own words. Only very short fragments are quoted, for citation anchors.
+
+Source file: `grade-11_gov_greece_epal_24-0376-02-V1.pdf`
+
+## Identity verdict
+
+**MATCH — with the grade explained.** The library record ("Coursebook for Mechanical Engineering Technicians", Grade 11 EPAL sector English) matches the book's own pages. The book itself does not print the words "Grade 11"; it prints **Β΄ ΕΠΑ.Λ.** (2nd year of the Vocational Lyceum), which is Grade 11 in the Greek system, for the **Mechanical Engineering sector**. Everything else in the record — title, sector, English-for-vocational purpose — is confirmed by the cover, title page and imprint.
+
+Identity was verified from rendered pages, not only the text layer: the cover spread (PDF p. 1), half-title (PDF p. 2), imprint page (PDF p. 3) and full title page (PDF p. 4) were rendered with `pdftoppm` and viewed.
+
+## Identity block (as printed)
+
+- **Title as printed (title page, PDF p. 4):** *Coursebook for MECHANICAL ENGINEERING TECHNICIANS*
+- **Series heading as printed:** VOCATIONAL LANGUAGE LEARNING
+- **Subtitle as printed:** *Teaching Material for Students of Technical and Vocational Schools*
+- **Cover wording (PDF p. 1, front cover):** ΑΓΓΛΙΚΑ [English] / ΤΟΜΕΑΣ ΜΗΧΑΝΟΛΟΓΙΑΣ [Mechanical Engineering Sector] / Β΄ ΕΠΑ.Λ. / VOCATIONAL LANGUAGE LEARNING / COURSEBOOK FOR MECHANICAL ENGINEERING TECHNICIANS
+- **Class / sector as printed:** Β΄ ΕΠΑ.Λ. — ΤΟΜΕΑΣ ΜΗΧΑΝΟΛΟΓΙΑΣ (2nd-year EPAL, Mechanical Engineering sector)
+- **Authors / work team as printed:**
+  - Title page credits: Διαμαντίδου Αγγελική (Diamantidou Angeliki) and Σουβλάκη Αλεξάνδρα (Souvlaki Alexandra).
+  - Imprint page (PDF p. 3, "ΣΤΟΙΧΕΙΑ ΑΡΧΙΚΗΣ ΕΚΔΟΣΗΣ" — details of the original edition): work-team head Diamantidou Angeliki, School Adviser, branch P.E. 06 (English); text shaping and exercise processing by Souvlaki Alexandra, teacher, P.E. 06.
+  - The imprint also states the book was reshaped from the corresponding Technical Lyceum books *Coursebook for Mechanical Engineering Technicians* and *Heating – Refrigeration – Air Conditioning*, by the second-phase writing team: head Diamantidou Angeliki; specialty-information officer Asimakopoulos Antonios, School Adviser, P.E. 17; text/exercise work by Spyropoulou Maria (for the Mechanical Engineering Technicians book) and Souvlaki Alexandra (for both source books).
+  - Title page note: the writing and scientific editing were carried out under the aegis of the Pedagogical Institute.
+- **Publisher as printed:** ΙΝΣΤΙΤΟΥΤΟ ΤΕΧΝΟΛΟΓΙΑΣ ΥΠΟΛΟΓΙΣΤΩΝ ΚΑΙ ΕΚΔΟΣΕΩΝ «ΔΙΟΦΑΝΤΟΣ» — Institute of Computer Technology and Publications "Diophantos" (ITYE "Diophantos"). Issued under the Ministry of Education, Religious Affairs and Sports (ΥΠΟΥΡΓΕΙΟ ΠΑΙΔΕΙΑΣ, ΘΡΗΣΚΕΥΜΑΤΩΝ ΚΑΙ ΑΘΛΗΤΙΣΜΟΥ) and the Institute of Educational Policy, both named at the head of the cover and title page. The imprint adds that the reissue was produced by ITYE "Diophantos" from a digital layout.
+- **ISBN (back cover, PDF p. 1):** 978-960-06-3094-7
+- **Book code (back cover, PDF p. 1):** Κωδικός βιβλίου: 0-24-0376. Barcode sequence printed under the barcode: (01) 000000 0 24 0376 2. The PDF filename carries the fuller code 24-0376-02.
+- **Year as printed:** **No publication year is printed** on the cover, title page, imprint page or closing legal page. The dates visible in the PDF margins (12/1/2021, 6/11/2023, 5/8/2024) are print-file production stamps in the crop area, and the PDF file metadata dates are file dates; neither is promoted here to a publication year. Dates inside exercises and model letters (e.g. 1999, 2000, "200...") are content dates, not the book's publication date.
+
+## Extent and page offset
+
+- **Extent:** 418 PDF pages. PDF p. 1 is the full cover spread (back cover, spine and front cover on one sheet); PDF p. 418 repeats the same cover file. The numbered body runs from printed p. 5 to printed p. 412, followed by three blank print pages (printed-file pp. 413–415) and an unnumbered legal/copyright page (printed-file p. 416).
+- **Offset:** **Printed page number = PDF page number − 1** throughout the numbered body. Verified at the acknowledgements (PDF 6 = printed 5), Unit 1 opener (PDF 16 = printed 15), Unit 6 opener (PDF 126 = printed 125), Unit 10 opener (PDF 260 = printed 259) and the last glossary page (PDF 413 = printed 412). All page references below are **printed pages** unless marked "PDF".
+- Front matter before the numbering settles: cover spread, half-title, imprint and title page are unnumbered; blank versos are counted in the foliation but carry no visible number.
+- The PDF is a print master: crop marks and InDesign file stamps sit in the margins and are not part of the book's content.
+
+## How the book works (front matter, printed pp. 5–14)
+
+- Acknowledgements (p. 5) thank companies, importers and publishers for permission to reuse photographs and extracts from operating, installation, maintenance and repair manuals — an early sign that many readings are adapted authentic trade material.
+- Letter to the student, in Greek (p. 7): the book does not teach the trade itself; it teaches the English needed to read brochures and instructions, order a part, and exchange information with a foreign colleague, boss or customer. Because class hours are few and the book serves almost all mechanical-sector specialities, students are told to browse the whole book with their teacher and build their own priority list of chapters. A footnote names the three specialities it serves only minimally — vehicle-body technicians, water-supply/heating installation technicians and aircraft assemblers — for whom separate books were planned.
+- Preface, in English (pp. 9–11): the course is built around workplace situations (reading catalogues, manuals and safety notices; giving and receiving oral instructions; describing procedures; writing order, complaint and job-application letters). It is planned for roughly sixty teaching hours per speciality, for learners at pre- to intermediate level whose main need is reading technical texts. Reading work therefore dominates, supported by listening, speaking and writing; grammar and language-function practice is tied to forms that recur in technical English, especially questions and the passive. Most units end in a production task (a letter, report, phone call, CV or negotiation), and reference support is pushed to the Appendix.
+- Table of contents (pp. 12–14): 11 units followed by a 7-part Appendix. Contents page numbers were checked against the unit openers and agree with them.
+
+## Unit-by-unit summary (own words)
+
+### Unit 1 — Mechanical Engineering Technicians (printed pp. 15–32)
+An orientation unit. Picture-labelling and sorting tasks establish what belongs to mechanical engineering and which neighbouring fields it touches (transport, construction, energy, ventilation, aviation and others). The main reading (pp. 20–21) sets out where engineers and technicians work — industry, public utilities, transport and building services — and what they design, install, adjust and maintain, from engines and machine tools to heating, refrigeration and ventilation plant. Exercises then build the vocabulary of vehicles, ships and aircraft, classify craft types, match job descriptions to roles (engineer, technician/mechanic, inspector-type roles), and give Greek equivalents for core sector terms. It closes with a listening-based history of engineering (pp. 30–32): a quiz, a listening text, and the same text reprinted with deliberate errors underlined for correction (see Honest negatives).
+
+### Unit 2 — Drafting (printed pp. 33–60)
+Drafting is introduced as a shared technical language — the means by which a product moves from an idea through sketches and working drawings to manufacture — and as a skill every technician, not only the draughtsman, needs. The geometry core (pp. 36–46) covers kinds of lines and angles, plane shapes and solids (much of the terminology is noted as Greek-derived), parts of the circle, noun-to-adjective shape forms, and stating the three dimensions of an object in full sentences; a listening task and a statement of the hypotenuse rule close the section. Drafting media (pp. 47–53) match boards, squares, templates, compasses, pens, papers and related tools to their uses and features, then turn care-of-tools instructions into softer advice forms. The final section (pp. 54–60) defines the plotter, explains how computer-aided design changes design work, labels computer hardware, and argues the case for learning CAD to a sceptical friend.
+
+### Unit 3 — Metals (printed pp. 61–76)
+A materials unit in four readings. Extraction (pp. 62–63): metals come from ore, iron typically by heat in a blast furnace and aluminium by an electrical process, with alloying introduced as mixing metals for better properties. Widely used metals (pp. 64–66) are learned through pictured objects — engine parts, batteries, railings, tools, cutlery, instruments — each tied to its metal, including cast and wrought iron, steel, aluminium, copper, lead, brass and bronze. Classification (pp. 67–68) divides metals into ferrous and non-ferrous, explains carbon content in steel (low/mild, medium, high) and links rising carbon to rising hardness, practising parallel-increase sentences. Properties (pp. 69–72) define and contrast malleability, ductility, hardness, toughness, brittleness and related terms. Castings and heat treatment (pp. 73–76) explain foundry-cast parts in everyday products and the hardening, tempering and annealing family of processes, ending with active/passive practice.
+
+### Unit 4 — Working with Metal (printed pp. 77–102)
+A tool-recognition and safe-use unit. Bench and sheet metal (pp. 78–97) starts from the forms stock comes in and the operations performed on it cold (filing, bending, forming, shearing, drilling, threading, measuring and more, pp. 79–81), then works through a manufacturer's-catalogue spread of hand tools, measuring tools, machines and accessories (pp. 82–86). Learners classify tools by job (holding, cutting, measuring, bending, striking and so on), label tools from memory, and build "used to / used for" sentences, with separate matching sets for heating-refrigeration/plumbing work and for the other specialities. Using hand tools correctly (pp. 98–102) gives grouped care-and-safety instructions for files, hammers, screwdrivers, wrenches/sockets/ratchets, pliers, and chisels and punches, and practises giving the reason or purpose behind an instruction.
+
+### Unit 5 — Joining Metals (printed pp. 103–124)
+Joining is divided into temporary/permanent and mechanical/thermal methods (pp. 104–106). The thermal family is then defined and compared by temperature and filler: soldering, brazing and welding (pp. 107–110), with a cloze summary text on welding that learners mirror for one of the other processes. Equipment for gas work (pp. 110–114) — cylinders, regulators/gauges, hoses, torch and fillers — is tabulated and described in writing. Two trade pathways follow: step-ordering and listening work on joining tubes by gas soldering (pp. 115–117) and by brazing (p. 118), and, for welders and the remaining specialities, gas-brazing/welding preparation, execution and finishing (pp. 119–121). The unit ends with a business-writing task — a production manager writes to a fair exhibitor requesting a catalogue, prices and agency information for gas welding equipment (pp. 122–123) — and a short gas-equipment safety list (p. 124).
+
+### Unit 6 — Machine Tools (printed pp. 125–160)
+The historical opening (pp. 126–129) traces tools from stone through bronze and iron to powered machine tools and then to numerically controlled machines, naming the main machine types. Products and operations (pp. 130–135) identify which common parts are machine-tool products and name the operations (turning, milling, drilling, boring, reaming, grinding, planing, broaching and others), matching each operation and machine to its description; a letter placing an enquiry/order for machine tools follows. The lathe (pp. 136–139) is treated as the versatile core machine: parts are labelled from a diagram, part descriptions are matched, and passive forms are practised. NC and CNC (pp. 140–160) explain coded instructions, incremental versus absolute positioning and the fixed reference point, then detail the features that cut non-productive time and cost: simpler jigs and fixtures, pallet and robot loading, chip conveyors, multi-tool turrets, tool storage and changing, and tool-monitoring and in-process gauging systems. Cause-and-result writing and a seminar listening close the unit.
+
+### Unit 7 — Safety at Work (printed pp. 161–172)
+A short, rule-driven unit. The opening reading (p. 162) frames carelessness around hand and machine tools as the central accident problem and tests risk awareness. The precautions list (pp. 164–165) covers moving machinery (hair, jewellery, sleeves), hand and power tools, electrical checks and grounding, and protective clothing and equipment. Exercises recycle the precaution vocabulary, practise prepositions and conditionals, and apply the rules retrospectively: learners hear three televised accident reports (pp. 169–170), match each accident to its causes, and rewrite outcomes as unreal-past conditionals — what would not have happened if the precaution had been followed (pp. 171–172).
+
+### Unit 8 — Heat Engines (printed pp. 173–222)
+The longest technical unit. Engines are classified first as external- versus internal-combustion and by layout (pp. 174–176); internal-combustion engines are split into petrol and diesel types. The petrol engine is built up part by part (pp. 176–186): labelled diagrams, notes on lubrication, cooling, clutch/flywheel and starting, and engine vocabulary and crosswords. The four-stroke cycle (pp. 187–191) walks through induction, compression, power and exhaust, firing order, and a boxed note on compression ratio (average family car given as about 8:1). Ignition (pp. 192–197) covers the conventional contact-breaker system and how the spark is produced, with listening work. The fuel system (pp. 198–208) moves from mixture needs under different driving conditions to the carburettor and its types, then to mechanical and electronic fuel injection and why it was developed (fuel saving and lower pollution). Diesel engines (pp. 209–216) explain compression ignition without carburettor, distributor or spark plugs, and are systematically compared with both carburettor and injection petrol engines. The unit ends with a 40-statement true/false self-test, "Are you a good mechanic?" (pp. 220–222), checked with the teacher and scored in bands (see Honest negatives for the bands as printed).
+
+### Unit 9 — The Car (printed pp. 223–258)
+A decision-making storyline carries the unit: a teacher living in London who does not know English car terminology researches a family-car purchase. Learners first label the whole car and sort its parts into systems — transmission, steering, suspension, braking, cooling, fuel, ignition/electrical (pp. 224–234). They then read the specification tables for three fictional models, AMX 80, CIEN 3L and MAJERO (pp. 235–241), complete the buyer's letter reporting his choice of the CIEN 3L, and state their own car preferences from specification language. The catalytic converter (pp. 242–245) explains exhaust clean-up, the oxidation process and why leaded fuel must not be used in converter-equipped cars. Quick diagnosis (pp. 246–252) uses a symptom–cause–remedy fault chart (with items deliberately missing for completion) and ends in a short workshop report. Starting a car (pp. 252–258) turns a flowchart into before/after sequence sentences and a written procedure description, with car-check listening and passive-voice practice.
+
+### Unit 10 — Refrigeration (printed pp. 259–298)
+Concepts first: heat as energy, cold as removed heat, refrigeration as lowering temperature by removing heat, and its uses in preservation and comfort (pp. 260–263; absolute zero is given as −273 °C). Methods (pp. 264–272) contrast the oldest method, refrigeration from ice (including Greek icebox use into the mid-1970s, as printed), with mechanical refrigeration in its absorption and compression forms, compared in a characteristics table and a comparison-writing task. The compression cycle (pp. 273–281) names the four core components — compressor, condenser, expansion device, evaporator — follows the refrigerant around the circuit, states the condenser heat balance as evaporator heat plus compressor heat equals rejected heat, and divides the circuit into high- and low-pressure sides. Refrigerants (pp. 283–289) classify CFC, HCFC and HFC fluids, explain ozone-depletion and warming measures in the book's terms, present HFC fluids such as R-134a as replacements for older fluids, note ammonia for large plant, and open a discussion of refrigerants and the environment. Charging a system (pp. 290–298) covers leak detection, charging through the low or high side, the gauge manifold and service tools, an ordered step-by-step charging procedure to sequence and then describe, and time-relationship language.
+
+### Unit 11 — Air Conditioning (printed pp. 299–350)
+History and definition open the unit (pp. 300–309): from fans and early comfort cooling to a definition of air conditioning as treating air temperature, humidity, movement, cleanliness and ventilation together, with dry-/wet-bulb ideas and listening work on comfort. System selection (pp. 310–318) insists size means capacity, not dimensions: learners classify residential, commercial and industrial systems, estimate heating and cooling loads, list load sources (transmission, outside air, sun, people, lighting and equipment among them), complete a load-estimate form, and sort central, unitary/window and split options by building type. Choosing an air conditioner (pp. 319–327) is a full business-letter case: a hairdresser planning a refit receives a dated supplier offer for a wall-mounted split heat-pump system with wireless control, whose features, inverter option and price learners extract, check and discuss by phone role-play. The wireless remote controller (pp. 328–332) is taught button by button and display indication by display indication. Installing a split system (pp. 333–342) presents the manufacturer's step sequence — siting and mounting both units, wall hole, wiring, piping, insulation, evacuation/charging checks and test run — for sorting, gap-filling and listening completion, including the rule that extra refrigerant is needed when the connecting tubes exceed the standard length. Safe and proper installation notices (pp. 343–348) sort warnings, cautions and tips and report instructions. The unit and the main book end with a job-application writing task: correcting and completing a technician's application and CV for work in England (pp. 348–350).
+
+### Appendix (printed pp. 351–412)
+Divider at p. 351. The Appendix is reference material for self-study and teacher-guided revision, not new readings.
+1. **Mathematical symbols and numerical operations (pp. 352–355):** how to read large numbers, fractions, decimals, powers, roots and symbols aloud in English, the Greek/English decimal-and-thousands punctuation contrast, and the verbs and result nouns for the four operations.
+2. **Language functions (pp. 356–362):** pattern tables with examples for expressing use and instrument, describing how things are done, purpose, parallel increase, giving and reporting instructions, comparing and contrasting, classifying, obligation and necessity, and cause and result.
+3. **Grammar (pp. 363–372):** simple and continuous tenses, question and negative formation, Wh- questions, the passive voice (use, form, and active-to-passive conversion), the three conditionals, relative clauses, and participle replacement.
+4. **Irregular verbs (pp. 373–374):** infinitive / past tense / past participle list.
+5. **Changes in spelling (pp. 375–378):** rules for adding -s, -ed, -er/-est and -ing, consonant doubling, -y changes, and British-English -l doubling.
+6. **Model letters (pp. 379–386):** a business inquiry letter, an order letter, a complaint letter, an inquiry letter about studies, two application letters, and a curriculum vitae (George Kambas).
+7. **Glossary (pp. 387–412):** bilingual English–Greek technical glossary, alphabetical by English headword, with multi-word terms nested under one of their words and category members grouped as explained in the Greek note on p. 387. It runs from A entries on p. 388 to W entries on p. 412, the last numbered page of the book.
+
+## Honest negatives
+
+- **No answer key in the book.** Exercises are write-in tasks with blank spaces, tables and tick boxes; no key section follows any unit or the Appendix. Checking is explicitly delegated to the teacher — e.g. the Unit 8 self-test tells learners to check answers "with the help of your teacher" (p. 222). Nothing in this PDF can be used to mark the exercises from the book alone.
+- **No listening transcripts / tapescripts in the book.** Listening activities occur in almost every unit, but the heard texts are not printed. Several depend on the teacher reading a text aloud (the instructions say so in terms). The PDF therefore contains the tasks, not the audio content or its script; the Unit 1 history listening is the partial exception, because a (deliberately corrupted) print version of that text follows the listening.
+- **The p. 32 "errors" are deliberate, not misprints of this edition.** The History of Engineering text on printed p. 32 is full of wrong words, but p. 31 (Step 3) states in advance that the next page contains many misprints which have been located and underlined but not corrected, for learners to fix while listening. They are recorded here as a designed proofreading exercise and must not be cited as the book's own English.
+- **Genuine small slips elsewhere are kept as printed** (not silently corrected in this draft's anchors). Examples spotted in the whole-book read include "negociating" in the Preface (p. 11), "Theading" for threading in the operations list (p. 131), "appartments" in the system-selection table (p. 317), "diffuculty" (p. 325), "sequencially" on the remote-controller pages (pp. 329–330), and "lenght" in installation reporting (p. 347). The Unit 9 fault chart also announces its own missing items as a misprinting effect to be completed by learners (p. 246).
+- **Self-test score bands overlap as printed.** On p. 222 the "How did you score?" bands read 40–35, 35–28, 28–16, 18–8 and 8–10, so boundary scores fall in two bands and the lowest band is written in reverse order. Kept as printed; do not "fix" when citing.
+- **Dated content.** Trade and technology references belong to the book's source era: carburettors are the default fuel system with injection as the newer alternative; the air-conditioner offer is priced in drachmas (see anchors) with letters dated 25 May 2000 and 27 May 1999; model letters use open "200..." dates; the acknowledgements credit firms and products of that period; a portable CD player appears among Unit 1's opening pictures. Refrigerant teaching is framed around the CFC phase-out and HFC replacements such as R-134a and R-404A. None of this is updated in the reissue layout.
+- **Selective coverage by design.** As the student letter warns (p. 7), no single speciality is covered end-to-end; heating/refrigeration/air-conditioning material (Units 5, 10, 11 and parts of others) is heavy because two source books were merged, while vehicle-body, plumbing-installation and aircraft specialities are largely outside the book.
+- **Bilingual support is Greek-only.** Explanations to the student, glossary equivalents and many exercise prompts assume a Greek-speaking learner; there is no other-language support.
+
+## Citation check
+
+Each anchor below was checked against the real PDF page (text layer, with rendered-page checks for anchors 1 and 3). Page refs give printed page first, PDF page in brackets. Result: **18 / 18 verified.**
+
+| # | Anchor | Page ref | Status |
+|---|---|---|---|
+| 1 | Back cover prints book code "0-24-0376" and "ISBN 978-960-06-3094-7" | Cover spread, PDF 1 | Verified ✓ |
+| 2 | Preface: book "is designed to cover approximately sixty teaching hours" per speciality | Printed p. 9 [PDF 10] | Verified ✓ |
+| 3 | Step 3 instruction: the next page's text contains "lots of misprints" that are underlined but not corrected | Printed p. 31 [PDF 32]; corrupted text itself on printed p. 32 [PDF 33] | Verified ✓ |
+| 4 | Circumference length "can be found by multiplying the diameter by 3.1416" | Printed p. 41 [PDF 42] | Verified ✓ |
+| 5 | Steel classification: "The higher the content of carbon, the harder the steel becomes" | Printed p. 67 [PDF 68] | Verified ✓ |
+| 6 | Turning centres: two turrets "can take up to 16, or even 18, tools each" | Printed p. 152 [PDF 153] | Verified ✓ |
+| 7 | "The new tool-changing devices can change a tool in less than 6 sec." | Printed p. 159 [PDF 160] | Verified ✓ |
+| 8 | Compression-ratio note: "The average family car has a ratio of about 8:1" | Printed p. 191 [PDF 192] | Verified ✓ |
+| 9 | A car "is assembled of more than 12,000 different parts" | Printed p. 226 [PDF 227] | Verified ✓ |
+| 10 | Buyer decision: "he decided to buy the CIEN 3L model" | Printed p. 238 [PDF 239] | Verified ✓ |
+| 11 | Absolute zero given as "−273 °C" in the heat/refrigeration reading | Printed p. 261 [PDF 262] | Verified ✓ |
+| 12 | Condenser heat balance equation printed as Qev + Qcom = Qcon | Printed p. 274 [PDF 275] | Verified ✓ |
+| 13 | "R-134a (used as a replacement for R-12, 500 and R-22)" | Printed p. 286 [PDF 287] | Verified ✓ |
+| 14 | Supplier offer letter dated "25th May, 2000"; complete system cost "1,200,000 drs." including installation and VAT | Printed pp. 320–321 [PDF 321–322] | Verified ✓ |
+| 15 | Remote-controller room-temperature button: temperature rises one degree "starting from 18 up to 30 °C" | Printed p. 329 [PDF 330] | Verified ✓ |
+| 16 | Installation step: "If the tubes are longer than 4 m, add the appropriate amount of refrigerant" | Printed p. 336 [PDF 337] | Verified ✓ |
+| 17 | Number-reading example: "8,003,002,678" read as eight billion, three million, two thousand, six hundred and seventy-eight | Printed p. 352 [PDF 353] | Verified ✓ |
+| 18 | Self-test top score band printed as "40-35 Congratulations! you are an excellent mechanic!" | Printed p. 222 [PDF 223] | Verified ✓ |
+
+**Anchor count: 18. Pass: 18. Fail: 0.**
+
+
+## Grade 11 (EPAL) — ESP Coursebook: Electricity, Student's Book
+
+Reader draft. Summary in the reader's own words; only very short fragments are quoted.
+Source PDF: `grade-11_gov_greece_epal_24-0513-02-V1.pdf`
+
+## Identity block — as printed in the book itself
+
+Identity verified from rendered cover, title and imprint pages (PDF pp. 1–4), not from the text layer alone.
+
+- **Title as printed (title page):** *ESP Coursebook — ELECTRICITY*
+- **Subtitle / audience as printed:** "For students of Technical and Vocational Lycea"
+- **Cover wording:** "VOCATIONAL LANGUAGE LEARNING" above the title; spine reads "ESP Coursebook ELECTRICITY"
+- **Level as printed:** Β΄ ΕΠΑΛ — i.e. 2nd year of EPAL (Vocational Lyceum), corresponding to Grade 11
+- **Sector as printed (Greek):** ΤΟΜΕΑΣ ΗΛΕΚΤΡΟΛΟΓΙΑΣ, ΗΛΕΚΤΡΟΝΙΚΗΣ ΚΑΙ ΑΥΤΟΜΑΤΙΣΜΟΥ — Sector of Electrical Engineering, Electronics and Automation
+- **Authorities on cover/title page (Greek):** Ministry of Education, Religions and Sports (Υπουργείο Παιδείας, Θρησκευμάτων και Αθλητισμού); Institute of Educational Policy (Ινστιτούτο Εκπαιδευτικής Πολιτικής)
+- **Publisher as printed:** Institute of Computer Technology and Publications "Diophantos" (Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ITYE Diophantos)
+- **ISBN (back cover):** 978-960-06-4880-5
+- **Book code (back cover):** Κωδικός βιβλίου: 0-24-0513. File/production code in the page furniture: 24-0513 (reissue file marked 24-0513-02)
+- **Authors:** No single named author. The imprint page (Στοιχεία Αρχικής Έκδοσης, PDF p. 3) credits a working group (Ομάδα Εργασίας) in two writing phases, under the auspices of the Pedagogical Institute. Phase B: coordination/supervision Angeliki Diamantidou (school adviser, English); subject specialist Antonis Asimakopoulos (school adviser); text/exercise editing Alexandra Souvlaki and Maria Spyropoulou. Phase A additionally names Ilias Kyzhrakos and Panagiotis Orfanidis (lead advisers), Ioannis Tzevelekos and Andreas Tsepapadakis (subject teachers), and English teachers Kalliopi Kiokpasoglou, Anna Mavridou, Triantafyllia Salamouri, Alexandra Souvlaki, Maria Spyropoulou and Iosif Chrysochoou. Names transliterated from the Greek imprint.
+- **Year:** **No publication year is printed** on the cover, title page or imprint. The only dates in the book are file-production stamps in the page furniture (15-Jan-19 on most pages; 26/10/2023 on the cover sheet; 5/8/2024 on the title page) and the PDF producer stamp (InDesign file created January 2019). These are production stamps, **not** a stated publication year, and are not promoted to one here. The reissue note says only that the reissue was produced by Diophantos from a digital layout, with corrections approved by the board of the Institute of Educational Policy.
+
+### Identity verdict vs library record
+
+**MATCH.** The library record ("ESP Coursebook — Electricity / Electrical sector, Grade 11 EPAL") agrees with the book's own pages on title, sector and level. Two precisions from the book itself: (1) the sector is the combined Electrical Engineering, Electronics and Automation sector, not electricity alone; (2) the book states its level in the Greek form B′ EPAL rather than "Grade 11" — the Grade 11 equivalence is correct but is not wording the book itself uses in English.
+
+## Extent and page offset
+
+- **Extent:** 278 PDF pages.
+- **Offset:** For all numbered body pages, **PDF page = printed page + 1** (printed p. 5 = PDF p. 6; printed p. 20 = PDF p. 21; printed p. 275 = PDF p. 276). All page references below are **printed pages** unless marked PDF.
+- Unnumbered PDF pages: PDF p. 1 is the full cover spread (back cover, spine and front cover on one sheet, with crop marks); PDF p. 2 is a half-title page carrying only the word "ELECTRICITY"; PDF pp. 3–5 are imprint, acknowledgements and start of Introduction; PDF p. 277 is an unnumbered Greek copyright/distribution-law notice; PDF p. 278 repeats the cover-sheet header material.
+- Main text runs printed pp. 20–213 (Units 1–12); Appendices printed pp. 214–275.
+
+## Contents in brief
+
+Introduction (printed pp. 5–6), Table of Contents and Analysis of Contents — a functions/notions/structures grid for every unit (printed pp. 7–19), 12 units (pp. 20–213), then 7 appendices: electrical symbols (p. 214), units of measurement (p. 221), mathematical symbols and numerical operations (p. 221), irregular verbs (p. 225), model letters (pp. 228–234), curriculum vitae (p. 235), and an English–Greek glossary (pp. 236–275).
+
+The Introduction (own-words summary) states the aim plainly: to give Technical Lyceum electrical students the technical vocabulary to read technical English and communicate in work situations. Texts were drawn, with a subject specialist's help, from textbooks, brochures, manuals, magazines and advertisements, then adapted and simplified. Work is split between text-comprehension/vocabulary tasks (skimming, scanning, true/false, labelling, matching, gap-fill) and grammar work tied to technical reading (notably passive voice and conditionals), with communicative production tasks, some listening work, and learner-training on reading strategies added in the update. It also states that answers and listening texts live in a separate teacher's booklet — see Honest negatives.
+
+## Unit-by-unit summary (own words, printed pages)
+
+- **Unit 1 — Electricity: The Power that Transforms the World (pp. 20–28).** Opens with discussion and a short celebratory text listing everyday devices that depend on electricity, then reading on how applications changed communication, home life, transport, health and education, and why electricity is easy to transmit, convert and control. Exercises sort applications by field, match old tools to modern equivalents, and compare past and present. Writing work is formal-letter layout and a complaint letter to the power corporation after a damaging power cut; grammar review is the 2nd conditional and cause-and-effect linking.
+- **Unit 2 — Electricity Holds the World Together (pp. 29–45).** The theory unit. "Fundamentals of electricity" (p. 30) builds matter, elements, compounds and mixtures through box-diagram quizzes, then atomic structure — protons, neutrons, electrons, free electrons — conductors vs insulators, potential difference measured in volts and current (symbol I) measured in amperes (p. 33). A second part (p. 37) adds further electricity-related information. General exercises cover parallel increase, cause/effect, suffixes, nouns used as qualifiers, and a listening wordsquare. Printed error kept as printed: "Hydrogene" for hydrogen (p. 30).
+- **Unit 3 — Energy Supply and Demand (pp. 46–65).** "World energy situation" (p. 47) divides sources into non-renewable fossil/nuclear fuels and renewable alternatives, notes depletion and pollution, and gives the book's nuclear comparison and its Chernobyl warning (see anchors). Classification work on power plants and sources follows. "Electric power systems" (p. 55) describes large conventional plants and mixed-source systems, with a listening activity built around a plant accident. "Power generation for future generations" (p. 59) uses a fictional power-company recruitment advertisement (serving "over 3.5 million customers", Rosemead address) for job-search reading, CV and letter-writing work. Grammar: adverbs and past tenses.
+- **Unit 4 — Power Distribution Systems (pp. 66–78).** Explains generation–transmission–distribution as one system and why plants are sited near primary energy despite transmission cost (p. 66). "The structure of power distribution systems" (p. 67) sets quality conditions (constant frequency, constant voltage, reliability) and voltage bands, starting with transmission at "150 - 66 KV" as printed. The second half teaches reading a British-style electricity bill (p. 71; see Honest negatives on its dates). Grammar focus is the passive voice across tenses, applied in "The Six Fatal Errors" (p. 76), a passive-voice account of operator errors at Chernobyl. Listening closes the unit with a text — printed in the book as a listening exercise — about a new Jordan transmission line (p. 78).
+- **Unit 5 — Test and Measurement Instruments (pp. 79–96).** "Measuring electricity" (p. 80) introduces the four effects of current (heating, electromagnetic, chemical, physiological), asks which two underpin common instruments, and covers ammeter, voltmeter, ohmmeter and multimeter use. "New technology" (p. 82) contrasts analogue instruments with digital replacements via a manufacturer's advertisement. "Buying an instrument" (p. 86) is a detailed period advertisement for a digital voltmeter (model and price in anchors). "Measurements and their units" (pp. 93–94) drills SI prefixes, symbols and unit conversion. Includes deducing word meanings, a dialogue for buying in a shop, and a prize-writing activity.
+- **Unit 6 — Electrical Machines (pp. 97–131).** The longest unit. Listening and rapid-reading introduce the machine families, then Generators (p. 98): electromagnetic induction, AC vs DC generator structure, three-phase connections. Bicycle dynamo (p. 106) applies induction to lamp brightness. Motors (p. 107): induction-motor types including squirrel-cage and slip-ring forms, classification and generator/motor comparison writing. "Fixing and maintaining motors" (p. 117) gives a symptoms–causes–remedy fault-finding chart — the book itself notes some chart items were missing through misprinting and supplied separately without their places marked, and asks students to place them. Transformers (p. 122) cover step-up/step-down action and question formation; "Dry-type transformers" (p. 128) is built around a manufacturer's advertisement. Heading misprint kept as printed: "TRANFORMERS" (p. 126).
+- **Unit 7 — Electricians' Equipment (pp. 132–148).** "Tools and accessories" (p. 133) catalogues the trade's work activities (screwing, drilling/chasing walls, threading and bending conduit, cutting, tightening) and the hand and power tools for each, with extensive naming, matching and function exercises. "Using hand tools correctly" (p. 145) gives short safety/maintenance/correct-use instructions for spanners, hammers and pliers that students must classify. Closes with writing and listening activities.
+- **Unit 8 — Electrical Drawing (pp. 149–166).** "Electrical diagrams" (p. 150) contrasts early pictorial diagrams with schematic diagrams using symbols, worked through a dimmer-circuit example in both forms. "Types of schematic diagrams" (p. 153) distinguishes circuit, block and wiring/layout diagrams and their uses, including a house plan. "Graphic symbols" (p. 158) requires labelling components and matching them to symbols, backed by the appendix symbol tables. Ends with cause/reason language work and a "Time for Fun" page (p. 166).
+- **Unit 9 — Safety at Work (pp. 167–176).** Opens with an earthing-for-safety diagram, then "Safety precautions" (p. 168) headed by the book's accident statistics (see anchors): isolation failure as the main cause, rules on ladders near overhead cables, wet floors, proving circuits dead, protective clothing/equipment and electrical fires, classified by outcome (fatal accident / injury / damage). Followed by word-formation, grammar review and a listening activity with follow-up.
+- **Unit 10 — Safety for the User (pp. 177–193).** Domestic/user counterpart to Unit 9. Introductory text (p. 178) attributes risk to voltage leakage or overloading and names fuses, breakers and switches as protection; printed error kept as printed: "bums" for burns (p. 178). "Protective devices" (p. 178) follows the supply from main fuse through watthour meter to distribution board and explains fuse links and N.H. fuses. "How the Earth-leakage Breaker operates" (p. 183) explains the summation current transformer, the fault-current imbalance, induced tripping voltage and the test button. "Sockets and plugs" (p. 185) explains three-pin plugs, live/neutral/earth wiring, the cartridge fuse and a worked loose-live-wire-in-a-kettle fault. Includes a two-part electrician/client dialogue and conditionals work.
+- **Unit 11 — Repairing Electric Cookers (pp. 194–205).** Framed by the claim that a modern household averages fifteen appliances needing frequent repair (p. 194). "Ovens and hobs" (p. 195) explains radiant elements, energy regulators for hobs and thermostats for ovens, and why replacements must match specifications. "Identifying an oven fault" (p. 197) tabulates conventional-oven faults (failure to heat, overheating, slow heating, uneven cooking) against thermostat vs element causes and continuity checking. "Oven element testing and renewal" (p. 200) is a numbered stripdown/refitting procedure — isolate at the consumer unit, remove panels, test the element with an ohmmeter, renew on open circuit — which students split into stripdown/refitting and testing/renewal/safety strands. Printed error kept as printed: "Remove real panel" for rear panel (p. 200). Closes with sequence/linking-word report writing (p. 205).
+- **Unit 12 — The Electrical Trade (pp. 206–213).** Careers unit. A before/after checklist tests assumptions about the trade against a reading text (p. 207) covering the trade's place in construction, indoor/outdoor work, qualifications, responsibilities and opportunities; follow-up sections are titled "Qualifications for employment", "Opportunities in the trade" and "Responsibilities" (p. 208). Language work is obligation and advice — must/have to, should/ought to, had better (p. 210) — applied to electricians' duties, plus a careers-adviser dialogue (p. 211) and a writing activity (p. 212).
+
+## Appendices (own words, printed pages)
+
+- **Appendix 1 — Common symbols used in electrical diagrams (pp. 214–220).** Multi-page symbol tables: DC/AC and three-phase sources, batteries, conductors, neutral and protective lines, and the standard component symbols cross-used in Unit 8.
+- **Appendix 2 — Units of measurement (p. 221).** Prefix/symbol table from nano- to giga- for volts, amperes, watts, ohms, farads, henries, hertz, volt-amperes, watthours and horsepower. Kept as printed, including "piccoFarad" and symbol forms such as "GO" for gigaohm.
+- **Appendix 3 — Mathematical symbols and numerical operations (pp. 221–224).** How to read figures, whole numbers and decimals, numerical operations, fractions, powers, roots and mathematical symbols aloud in English (pp. 222–224).
+- **Appendix 4 — Irregular verbs (pp. 225–227).** Three-page infinitive / past tense / past participle list.
+- **Appendix 5 — Model letters (pp. 228–234).** Business inquiry letter (p. 229), letter placing an order (p. 230, ordering "50 PAXMAN DMM 580/337" as printed), letter of complaint (p. 231), inquiry letter for studies addressed to Durham Polytechnic (p. 232), and two letters of application (pp. 233–234). Heading misprint kept as printed: "CURICCULUM VITAE" (p. 228).
+- **Appendix 6 — Curriculum vitae (p. 235).** A complete worked example CV for a Greek electrician (name and dates in anchors), covering technical lyceum certificate, a Cambridge First Certificate, motor/generator repair training, service-department experience and Air Force military service.
+- **Appendix 7 — Glossary (pp. 236–275).** Title page at p. 236, then an alphabetical English–Greek glossary from "ability" (p. 237) to "zirconium" (p. 275), including multiword trade terms (e.g. the soldering and wiring entries on pp. 269 and 275).
+
+## Honest negatives
+
+- **No answer key in this book.** The Introduction (p. 6) states answers are in the separate teacher's booklet; none appear in the student book.
+- **No listening transcripts in this book.** Listening activities occur throughout (e.g. pp. 32, 37, 54–55, 78, 94, 98, 148, 175, 192), but the Introduction (p. 6) states all listening texts are in the teacher's booklet. One exception in effect: the Jordan listening text is printed in full on p. 78 as part of a "cross out the words you do not hear" exercise. No audio accompanies the PDF.
+- **Dated content.** The electricity bill (p. 71) is a British pounds-and-pence bill with internally inconsistent period dates as printed (meter period ending 13 Feb 94; direct-debit clearance dated 9 Mar. '97; amount due £91.24). The instrument advertisement (p. 86) is a US-dollar period advertisement ($2595). The recruitment advertisement (pp. 60, 62–64), model letters, Durham Polytechnic addressee (p. 232) and the example CV (service and training dates in the 1980s–1990s, p. 235) are all period material. Chernobyl (1986) is the most recent energy event discussed; there is no treatment of modern smart metering, LEDs as a lighting topic, photovoltaics beyond a passing renewable mention, or current Greek/EU wiring colour-code updates beyond the socket/plug section's "new wiring colour code" label (p. 185).
+- **Printed errors kept as printed** (not silently corrected above): "Hydrogene" (p. 30), "TRANFORMERS" heading (p. 126), "CURICCULUM VITAE" (pp. 228, 235 heading), "bums" for burns (p. 178), "Remove real panel" for rear panel (p. 200), "picco" for pico in "piccoFarad"/"piccoFarads" (pp. 93–94, 221). Unit 6 itself acknowledges a misprinting that omitted items from its fault-finding chart (p. 117).
+- **No publication year** is printed anywhere in the book (see Identity block); 2019/2023/2024 dates are production stamps only.
+- The Analysis of Contents grid contains a labelling slip as printed: the grid pages headed "UNIT 5" appear twice (printed pp. 12–13), the second covering Unit 6 material, and the pp. 18–19 grids are headed Unit 10 / Unit 11 for the safety-for-the-user / cooker content respectively in a sequence that does not perfectly match the unit numbering — the Table of Contents (pp. 7–8) itself is consistent and was followed for the summary above.
+
+## Citation check — anchors verified against the PDF
+
+Each anchor was checked against the real PDF page shown. Page refs give printed page, with PDF page in brackets. All 20 verified; 0 failed.
+
+1. Title page reads "ESP Coursebook / ELECTRICITY" with "For students of Technical and Vocational Lycea" and "Β΄ ΕΠΑΛ" — title page [PDF 4]. ✓ verified
+2. Back cover gives book code 0-24-0513 and ISBN 978-960-06-4880-5 — cover spread [PDF 1]. ✓ verified
+3. Table of Contents lists Unit 1 at p. 20 and Unit 12, "THE ELECTRICAL TRADE", at p. 206 — printed p. 7 [PDF 8]. ✓ verified
+4. Introduction states answers and "all the listening texts" are in the accompanying teacher's booklet — printed p. 6 [PDF 7]. ✓ verified
+5. Unit 1 opens by listing devices ending with X-rays and electrocardiographs under the heading "The Power that transforms the world" — printed p. 20 [PDF 21]. ✓ verified
+6. "Hydrogene (H)" spelling in the fundamentals quiz — printed p. 30 [PDF 31]. ✓ verified
+7. Potential difference "is measured in Volts (V)" and current symbol I "measured in Amperes (A)" — printed p. 33 [PDF 34]. ✓ verified
+8. One ton of Uranium 235 equated to 20,000 tons of coal, and Chernobyl dated 1986 — printed p. 47 [PDF 48]. ✓ verified
+9. Power-system plants described as having a capacity of "hundreds of megawatts" — printed p. 55 [PDF 56]. ✓ verified
+10. Electricity bill addressed to Mr. A. N. Thompson with "AMOUNT DUE £91.24" — printed p. 71 [PDF 72]. ✓ verified
+11. "Transmission voltage level (150 - 66 KV)" — printed p. 67 [PDF 68]. ✓ verified
+12. "THE SIX FATAL ERRORS" Chernobyl exercise in the passive-voice section — printed p. 76 [PDF 77]. ✓ verified
+13. Jordan line described as 235 km, 400 KV, linking Amman with a 520 MW station at Aqaba — printed p. 78 [PDF 79]. ✓ verified
+14. Four effects of current (heating, electromagnetic, chemical, physiological) open "MEASURING ELECTRICITY" — printed p. 80 [PDF 81]. ✓ verified
+15. Digital voltmeter model 9602A at "U.S. base price: $ 2595" — printed p. 86 [PDF 87]. ✓ verified
+16. Prefix table spells the pico- prefix "picco" — printed p. 93 [PDF 94]. ✓ verified
+17. "Almost 45%" of reported fatal accidents involve electrical installations/repairs; main cause "over 60%" failure to isolate — printed p. 168 [PDF 169]. ✓ verified
+18. Earth-leakage breaker built around a "summation current transformer" with tripping and switching mechanisms — printed p. 183 [PDF 184]. ✓ verified
+19. "An average of fifteen electrical appliances" per modern household opens Unit 11 — printed p. 194 [PDF 195]. ✓ verified
+20. Example CV: surname Kambas, first name George, date of birth 12-7-1970 — printed p. 235 [PDF 236]. ✓ verified
+
+— End of filing draft —
+
+
+## Grade 11 (EPAL) — Materials File (Φάκελος Υλικού — Αγγλικά), Construction Works Sector
+
+Source PDF: `grade-11_gov_greece_epal_24-0617-01-V2.pdf` (42 PDF pages)
+Reader note: Read whole, page by page, from the text layer (`pdftotext -layout`) and checked against rendered cover/title/imprint pages (PDF pp. 1–6 viewed as images). All summaries below are in the reader's own words; only very short fragments are quoted.
+
+## Identity block — verified from the book's own pages
+
+- **Title as printed (Greek, cover and title page):** ΦΑΚΕΛΟΣ ΥΛΙΚΟΥ — ΑΓΓΛΙΚΑ — Β΄ ΕΠΑ.Λ. — ΤΟΜΕΑΣ ΔΟΜΙΚΩΝ ΕΡΓΩΝ, ΔΟΜΗΜΕΝΟΥ ΠΕΡΙΒΑΛΛΟΝΤΟΣ & ΑΡΧΙΤΕΚΤΟΝΙΚΟΥ ΣΧΕΔΙΑΣΜΟΥ
+  - In English: *Materials File — English — 2nd Year EPAL (Vocational Upper Secondary) — Sector of Construction Works, Built Environment & Architectural Design.*
+  - The cover wrapper (PDF p. 1, repeated identically as PDF p. 42) shows the subject word ΑΓΓΛΙΚΑ ("English") large, the sector title in a blue panel, a photograph of glass high-rise towers seen from below, and "Β΄ ΕΠΑ.Λ." at the foot. The formal title page (PDF p. 4) repeats ΦΑΚΕΛΟΣ ΥΛΙΚΟΥ / ΑΓΓΛΙΚΑ / Β΄ ΕΠΑ.Λ. / sector title. The half-title (PDF p. 2) shows only ΦΑΚΕΛΟΣ ΥΛΙΚΟΥ / ΑΓΓΛΙΚΑ.
+  - The library record's description ("Domikon Ergon Fakelos Ylikou," Grade 11 EPAL) is therefore **confirmed**: Β΄ EPAL is the second vocational-lyceum year, equivalent to Grade 11, and the sector is Construction Works.
+- **Authors:** No single named author. Credits page (PDF p. 3, all in Greek):
+  - Coordination (ΣΥΝΤΟΝΙΣΜΟΣ): Papadimitriou Evangelia, Counsellor B΄, Institute of Educational Policy (IEP)
+  - Development–revision–content editing–philological editing (ΕΚΠΟΝΗΣΗ-ΑΝΑΜΟΡΦΩΣΗ-ΕΠΙΜΕΛΕΙΑ ΠΕΡΙΕΧΟΜΕΝΟΥ-ΦΙΛΟΛΟΓΙΚΗ ΕΠΙΜΕΛΕΙΑ): Nika Maria, Counsellor A΄, IEP
+  - Development (ΕΚΠΟΝΗΣΗ): Papachristou Eftychia, external expert, Coordinator of Educational Work for the English Language
+  - Art editing (ΕΙΚΑΣΤΙΚΗ ΕΠΙΜΕΛΕΙΑ): Nika Maria
+  - Layout / graphic editing (ΣΕΛΙΔΟΠΟΙΗΣΗ-ΓΡΑΦΙΣΤΙΚΗ ΕΠΙΜΕΛΕΙΑ): Komninou Dimitra, IEP staff
+  - Named as IEP President on the same page: Gerasimos Kouzelis
+  - The credits page also states (in Greek) that the material was produced unpaid under the IEP Foreign Languages Sub-unit, as part of an action to develop curricula and supplementary material for English in General Lyceum and EPAL, under IEP Board Acts 10/01-03-2018 and 12/15-03-2018.
+- **Publisher / issuing bodies as printed:** Ministry of Education, Religions and Sports (ΥΠΟΥΡΓΕΙΟ ΠΑΙΔΕΙΑΣ, ΘΡΗΣΚΕΥΜΑΤΩΝ ΚΑΙ ΑΘΛΗΤΙΣΜΟΥ) and Institute of Educational Policy (ΙΝΣΤΙΤΟΥΤΟ ΕΚΠΑΙΔΕΥΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ / IEP) at the head of the cover and title page; Institute of Computer Technology and Publications "Diophantos" (ΙΝΣΤΙΤΟΥΤΟ ΤΕΧΝΟΛΟΓΙΑΣ ΥΠΟΛΟΓΙΣΤΩΝ ΚΑΙ ΕΚΔΟΣΕΩΝ «ΔΙΟΦΑΝΤΟΣ» / ITYE Diofantos) at the foot of both — i.e. Diofantos is the publishing/production house, IEP the commissioning institute.
+- **ISBN:** 978-960-06-6086-9 — printed on the cover wrapper under the book code and visible in the rendered cover image (PDF p. 1); barcode number below it reads (01) 000000 0 24 0617 6.
+- **Book code:** 0-24-0617 (printed on the cover as "Κωδικός Βιβλίου: 0-24-0617"; the file stem 24-0617-01 matches it).
+- **Year as printed:** **No publication year is printed** on the cover, title page, or credits page — this is stated honestly rather than inferred. What the file itself carries are production timestamps in the page footers: the body files are dated 7/10/2019, the front-matter file 5/7/2022, the cover file 27/10/2023, and one replacement leaf in Unit 2 is dated 27/03/2024. PDF document metadata gives a creation date of 7 October 2019. Any catalogue year should therefore be treated as unprinted / composite, not as a title-page fact.
+
+## Extent and page offset
+
+- **Extent:** 42 PDF pages in total.
+  - PDF p. 1: cover wrapper (front + back shown as one spread, with barcode).
+  - PDF pp. 2–4: half-title, credits, title page.
+  - PDF p. 5: blank (only a production footer).
+  - PDF p. 6: Table of Contents (in English).
+  - PDF p. 7: image-credits / sources note (in Greek; text layer is partly garbled by design overlap — see Negatives).
+  - PDF pp. 8–9: introductory note to teachers (in Greek, unnumbered).
+  - PDF pp. 10–41: the two teaching units, carrying printed page numbers 9–40.
+  - PDF p. 42: exact repeat of the cover wrapper (PDF p. 1).
+- **Offset: printed page number = PDF page number − 1** throughout the numbered body. Examples: PDF p. 10 = printed p. 9 (Unit 1 opener); PDF p. 26 = printed p. 25 (Unit 2 opener); PDF p. 41 = printed p. 40 (last numbered page, near-blank closing page of Unit 2). All page references below give **printed p. / (PDF p.)** in that form.
+- The Table of Contents (PDF p. 6) lists exactly two units: "1 Protective Equipment" at printed p. 9 and "2 Public Works" at printed p. 25 — both confirmed at those pages in the body.
+
+## How much is English vs Greek — honest account
+
+The brief's expectation that the book would be "largely Greek with English material inside" is **the reverse of what the book contains**:
+
+- **The entire teaching body is in English.** Printed pp. 9–40 (PDF pp. 10–41) — both units, all reading texts, grammar presentations, exercises, listening/video tasks and writing tasks — are written in English, with no Greek glosses, translations, or bilingual wordlists anywhere in the body.
+- **Greek is confined to the front matter and covers:** the cover wrapper (PDF pp. 1 and 42), half-title (PDF p. 2), credits page (PDF p. 3), title page (PDF p. 4), the image-credits note (PDF p. 7), and the two-page introductory note to teachers (PDF pp. 8–9). That is 8 of 42 PDF pages, several of them mostly blank or purely titular.
+- As a rough text-layer check, Latin-script characters outnumber Greek-script characters by about 4 to 1 across the whole file, and the Greek count is inflated by the cover wrapper appearing twice. For course-building purposes this file should be treated as a **full English-for-Specific-Purposes (ESP) textbook for the construction sector**, not as a Greek book with English extracts.
+
+## Section-by-section summary (own words)
+
+### Front matter (unnumbered; PDF pp. 1–9)
+
+- **Cover / title / credits** — as in the Identity block above.
+- **Table of Contents (PDF p. 6)** — lists only the two units named above; there are no further units, appendices, glossaries, or answer keys in this file.
+- **Image-credits note (printed sequence p. 6; PDF p. 7)** — a short Greek note explaining, in the reader's paraphrase, that the illustrations are freely usable images taken from public image sites (the Pixabay and Wikimedia Commons addresses are legible in the text layer) and from other sources, with a stated retrieval date in September 2018. The page is typographically overlapped in the PDF, so parts of it cannot be read cleanly (see Negatives).
+- **Introductory note to teachers (PDF pp. 8–9)** — two full pages in Greek. In paraphrase: the material is offered for teaching English in EPAL so that learners can build on their existing communicative ability through activities tied to their chosen vocational sector, developing language, social and emotional skills alongside sector vocabulary. Each unit mixes comprehension and production of spoken and written language around authentic texts and realistic professional situations, with individual and group work. The note stresses that the authentic texts have deliberately not been simplified to a set language level, so the teacher's job is to adapt the *tasks* — with pre-reading questions, advance vocabulary, or discussion in the mother tongue — rather than the texts, and to teach gist-finding strategies (skimming, scanning, SQ3R, KWL, mind-maps/spidergrams) so learners gain confidence handling unknown words. Teachers are invited to supplement and adapt the material to their class and to connect the classroom to the learners' future workplace.
+
+### Unit 1 — Protective Equipment (printed pp. 9–24; PDF pp. 10–25)
+
+- **Opener and vocabulary matching (printed pp. 9–11; PDF pp. 10–12).** A decorative unit opener (printed p. 9) is followed by a class discussion on why safety equipment is needed on site, then a matching task pairing nine protective items — including harness, ear muffs, goggles, dust mask, gloves, boots and helmet — with the kinds of protection they give (eye, hearing, respiratory, hand, foot, head, working at heights, and so on), supported by a page of nine numbered photographs for learners to label.
+- **Pictured actions and hazards (printed pp. 12–13; PDF pp. 13–14).** Learners match action words for common site tasks (cutting, grinding, welding, chipping, sawing, nailing) to pictures, then match hazard words (cut, burn, scrape, electric shock, fall, contamination, slip) to pictures.
+- **Main reading: a supplier's webpage on PPE for construction crews (printed pp. 14–15; PDF pp. 15–16).** An adapted authentic webpage text, credited at the foot of printed p. 15 to a commercial safety-supplier site. Learners first assign paragraph headings (hearing, foot, hand, face/eye protection, work clothing, respiratory protection, high-visibility clothing, hard hats). The text's own argument, paraphrased: every site and job must be assessed for its particular risks; PPE must fit properly and stay secure without restricting movement; hard hats guard against falling or swinging objects and accidental electrical contact and must be checked for damage before use; steel-toe, puncture-resistant, non-slip boots guard against crushing and sharp objects; different glove types suit different jobs (heavy leather/canvas, welding, rubber for concrete, insulated, chemical-resistant); close-fitting work clothes guard the body while preserving mobility; glasses, shields and goggles guard against flying debris and dust during the pictured tasks; ear plugs or foam-lined muffs guard against tool and machinery noise; bright/reflective clothing keeps workers visible, especially near roads and in poor light; and respirators are presented as the backstop where airborne dusts, fumes, gases and vapours cannot otherwise be kept out of the air.
+- **Consolidation and grammar: modal verbs (printed pp. 16–18; PDF pp. 17–19).** A group diagram task collects the PPE types from the reading, with follow-up questions on whether all of them are used in Greece and who is responsible for site protection, plus a poster presentation. The grammar focus is then drawn out of the reading itself: learners identify modal verbs in sentences from the text and label their functions (obligation, ability, possibility, permission, advice). Two controlled exercises follow — choosing the correct modal to complete a set of "Personal Protective Equipment Instructions" with a reference box covering ability, possibility/permission, probability, advice, obligation, absence of necessity and deduction (printed p. 17), and matching bold modals in seven safety sentences to paraphrased meanings (printed p. 18).
+- **Second reading and role play (printed p. 19; PDF p. 20).** A second adapted text on protecting yourself on construction sites covers, in paraphrase, choosing and caring for PPE, the requirements for eye and face protection, the causes of foot and leg injuries, and scaffold safety — including that large mobile scaffolds should be designed by an engineer and that a mobile scaffold's height should not exceed four times its minimum base width. Learners invent a reporter's questions to a site inspector from the text, then role-play the interview in new pairs.
+- **Video sequence: OSHA respiratory protection (printed pp. 20–22; PDF pp. 21–23).** Learners watch an OSHA video on respiratory protection in construction (URL given on printed p. 20) three times: first for a seven-statement true/false check (covering employer-provided site-specific training, respirator limits, programme administration, and who is responsible for correcting respirator problems), then for pair questions (including what OSHA stands for and what controls an employer must introduce), then to complete six gapped sentences with missing words from the narration.
+- **Unit close (printed pp. 23–24; PDF pp. 24–25).** A group mind-map of accident types and prevention; a spidergram ranking task ordering a construction workers' union's proposed seminar topics under the heading "CONSTRUCTION SITE SAFETY"; a class discussion on whether safety rules are respected on Greek sites and who should set them; and a final writing task in which learners use the whole unit to produce their own safety manual under the heading "Construction Safety Guidelines," covering kinds of protection, why the rules matter, and anything else they judge necessary (printed p. 24).
+
+### Unit 2 — Public Works (printed pp. 25–40; PDF pp. 26–41)
+
+- **Opener and pre-reading (printed pp. 25–26; PDF pp. 26–27).** A decorative opener is followed by photograph-led pre-reading questions asking what service each pictured structure provides, who is responsible for building such structures, and what other infrastructure learners can name.
+- **Main reading: what public works are (printed p. 27; PDF p. 28).** A two-column adapted text credited at its foot to the Wikipedia articles on public works and infrastructure. Paraphrased content: public works are government-financed and government-built infrastructure projects serving employment, recreation, health and safety; the category spans public buildings, transport infrastructure, public spaces, and services such as water, sewage, dams and the electrical grid; funding may be public, private, or through public–private partnerships; "critical infrastructure" is distinguished by a national-security angle; infrastructure is divided into hard infrastructure (the physical networks) and soft infrastructure (the institutions sustaining economic, health, social and cultural standards); and the public works sector is said to plan, review, coordinate and supervise construction projects under standards of sustainability, quality, efficiency and reliability.
+- **Comprehension and vocabulary (printed pp. 28–29; PDF pp. 29–30).** A group mind-map classifies the reading's vocabulary under "Public Works" (public buildings is worked as the example branch, with schools, hospitals and municipal buildings given). A table-completion task extracts the sector's responsibilities, the main infrastructure types, and the funding routes from the text, and a pair task asks for a poster of the services public works provide, with a side definition explaining "service" and "public services" in simple English.
+- **Grammar: relative clauses (printed pp. 30–32; PDF pp. 31–33).** The focus sentence is taken from the reading (the sector sentence, with "which" as its relative pronoun). Learners identify what the relative words refer to in four captioned photographs (cement, a helmeted man, a project area, a construction company), then study a double-page reference spread distinguishing defining from non-defining clauses and listing the relative pronouns/adverbs by function (who/that, which/that, where, when, whose, why), with usage notes on omitting the pronoun, on "that" never following a comma or preposition, on "whose" never being omitted, and on formal versus colloquial placement of prepositions. Practice is a ten-sentence completion task (learners also mark each sentence defining/non-defining and whether omission is possible, all sentences set in construction contexts) followed by six personalised sentence completions about the learner's own school, teacher, friend and ambitions (printed p. 32).
+- **Video sequence: Amanda Burden TED talk on public spaces (printed pp. 33–36; PDF pp. 34–37).** A preview page (printed p. 33) introduces a TED talk on how public spaces make cities work, noting the speaker's background as a New York city planner with earlier experience as an animal behaviourist and the city's population of more than 8 million; the talk URL is given twice. Learners then work through a four-statement true/false check (printed p. 34), four pair discussion questions — including why one small Manhattan park, named in the questions as Paley Park, became a phenomenon, and what solution was found for housing a million more New Yorkers while easing traffic (printed p. 35) — and an eight-sentence gap-fill of words from the talk (printed p. 36).
+- **Discussion, decision and writing close (printed pp. 37–39; PDF pp. 38–40).** Learners brainstorm user-friendly public works and list user-hostile examples from their own area; discuss in pairs which public works ease neighbourhood life and the pros and cons of parks and green space; then in groups rank a town council's five improvement suggestions shown in a spidergram (swimming pool, internet cafe, bicycle lanes, cinema complex, library) under "AREA PUBLIC WORKS," choosing the two most important with justifications (printed p. 38). A class discussion asks whether Greek citizens influence local public-works decisions and how learners judge their own area's infrastructure. The final task (printed p. 39) is a formal e-mail to a city council member reporting a pictured road problem, covering the problem itself, the maintenance needed, and any further relevant information. Printed p. 40 (PDF p. 41) is a near-blank closing page carrying only the unit header.
+
+## Citation anchors — verified against the PDF
+
+Each anchor below was checked in the text layer and located on the stated page. All 13 passed.
+
+1. **Cover identity — VERIFIED.** "ΑΓΓΛΙΚΑ" + sector title + "Β΄ ΕΠΑ.Λ." + "Κωδικός Βιβλίου: 0-24-0617" + "ISBN 978-960-06-6086-9" all appear on the cover wrapper, printed/rendered p. 1 (PDF p. 1, repeated PDF p. 42).
+2. **Title — VERIFIED.** "ΦΑΚΕΛΟΣ ΥΛΙΚΟΥ / ΑΓΓΛΙΚΑ / Β΄ ΕΠΑ.Λ." with the full sector title on the title page (PDF p. 4).
+3. **Credits — VERIFIED.** Coordination by Papadimitriou Evangelia and development by Papachristou Eftychia credited on the credits page (PDF p. 3).
+4. **Contents — VERIFIED.** Table of Contents lists "1 Protective Equipment … 9" and "2 Public Works … 25" (PDF p. 6).
+5. **Unit 1 opener — VERIFIED.** Printed p. 9 carries the Unit 1 opener "Protective Equipment" (PDF p. 10) — offset −1 confirmed here.
+6. **PPE matching list — VERIFIED.** The nine-item matching table (harness … helmet against nine kinds of protection) is on printed p. 10 (PDF p. 11).
+7. **Hazards vocabulary — VERIFIED.** "Potential hazards at a construction site" matching list (cut, burn, scrape, electric shock, fall, contamination, slip) is on printed p. 13 (PDF p. 14).
+8. **Supplier webpage reading — VERIFIED.** The reading headed "PPE for Construction Crews" begins on printed p. 14 and its source URL is printed at the foot of printed p. 15 (PDF pp. 15–16).
+9. **Modal-verb instruction exercise — VERIFIED.** "Personal Protective Equipment Instructions" with the modal-verb reference box is on printed p. 17 (PDF p. 18).
+10. **Scaffold rule — VERIFIED.** The second Unit 1 reading states the mobile-scaffold proportion rule (height not more than four times the minimum base width) on printed p. 19 (PDF p. 20).
+11. **OSHA video — VERIFIED.** The respiratory-protection video task gives the OSHA video URL on printed p. 20, with its seven-statement true/false set on printed p. 21 (PDF pp. 21–22).
+12. **Public works definition text — VERIFIED.** The adapted two-column reading beginning with the "multi-dimensional concept" definition, credited to Wikipedia at its foot, is on printed p. 27 (PDF p. 28).
+13. **Relative clauses + TED close — VERIFIED.** The relative-clause reference tables are on printed p. 31 (PDF p. 32), and the final writing task (formal e-mail to a city council member about a road problem) is on printed p. 39 (PDF p. 40) — offset −1 confirmed at both ends of the body.
+
+**Anchor count: 13 checked, 13 verified, 0 failed.**
+
+## Honest negatives
+
+- **No publication year is printed** anywhere checked (cover, title page, credits page). Only production/footer dates (2019 body, 2022 front matter, 2023 cover, one 2024 replacement leaf) exist; the file is a composite of those vintages, and printed p. 33 (PDF p. 34) visibly comes from a later-converted file than the rest of Unit 2.
+- **Only two units.** There is no Unit 3, no glossary, no wordlist, no grammar appendix beyond the in-unit spreads, and no answer key in this file.
+- **PDF p. 5 is blank** and **printed p. 40 is effectively blank** (unit header only); PDF pp. 1 and 42 are duplicates of the same cover wrapper, so the 42 PDF pages contain 40 distinct pages.
+- **The image-credits page (PDF p. 7) is typographically corrupt in the PDF** — its Greek lines overlap and interleave, so only its gist and its site addresses could be read; a word-perfect transcription of that page is not possible from this file.
+- **Several body pages are photograph-led** (notably printed pp. 11–13) and carry very little text; their content is described here from captions and task wording, not from the photographs themselves.
+- **External dependence:** both video sequences and both main readings depend on outside sources (an OSHA video, a TED talk, a supplier webpage, Wikipedia). The URLs are printed in the book as cited above; whether those links are still live was not tested in this reading task.
+- Nothing in the body is in Greek: a learner or teacher wanting Greek support, translations, or a bilingual glossary will not find it in this file.
+
+
+## Grade 11 (EPAL) — Materials File (Φάκελος Υλικού — Αγγλικά), Informatics Sector
+
+Source file read whole, page by page: `grade-11_gov_greece_epal_24-0618-01-V1.pdf` (50 PDF pages).
+Identity below was verified by this reader from the book's own rendered cover, title and credits
+pages (viewed as images) and from the full text layer (`pdftotext -layout`), not copied from the
+library record or from the earlier incomplete draft. All summaries are in this reader's own words;
+only very short fragments are quoted.
+
+## Identity block — verified from the book's own pages
+
+- **Title as printed (title page, printed p. 3 / PDF p. 4):** ΦΑΚΕΛΟΣ ΥΛΙΚΟΥ — ΑΓΓΛΙΚΑ — Β΄ ΕΠΑ.Λ. —
+  ΤΟΜΕΑΣ ΠΛΗΡΟΦΟΡΙΚΗΣ ("Materials File — English — 2nd year EPAL — Informatics Sector"). The front
+  cover shortens this to ΑΓΓΛΙΚΑ / ΤΟΜΕΑΣ ΠΛΗΡΟΦΟΡΙΚΗΣ / Β΄ ΕΠΑ.Λ. The half-title (printed p. 1 /
+  PDF p. 2) shows only ΦΑΚΕΛΟΣ ΥΛΙΚΟΥ / ΑΓΓΛΙΚΑ. Β΄ ΕΠΑ.Λ. is the second year of the Greek
+  vocational lyceum, equivalent to Grade 11.
+- **What it is:** Not a general English coursebook. It is a supplementary "materials file" of English
+  for Specific Purposes (ESP) for Grade 11 EPAL students in the Informatics sector. It contains only
+  two teaching units, both on computing topics (see contents below).
+- **Credits (credits page, printed p. 2 / PDF p. 3, all in Greek):** No single named author.
+  - Coordination (ΣΥΝΤΟΝΙΣΜΟΣ): Evangelia Papadimitriou (Παπαδημητρίου Ευαγγελία), Councillor B′, IEP.
+  - Development (ΕΚΠΟΝΗΣΗ): Eftychia Papachristou (Παπαχρίστου Ευτυχία), external expert, Coordinator
+    of Educational Work for the English Language.
+  - Development–revision, content editing and language editing (ΕΚΠΟΝΗΣΗ-ΑΝΑΜΟΡΦΩΣΗ-ΕΠΙΜΕΛΕΙΑ
+    ΠΕΡΙΕΧΟΜΕΝΟΥ-ΦΙΛΟΛΟΓΙΚΗ ΕΠΙΜΕΛΕΙΑ): Maria Nika (Νίκα Μαρία), Councillor A′, IEP.
+  - Artistic editing (ΕΙΚΑΣΤΙΚΗ ΕΠΙΜΕΛΕΙΑ): Maria Nika.
+  - Page layout / graphic editing (ΣΕΛΙΔΟΠΟΙΗΣΗ-ΓΡΑΦΙΣΤΙΚΗ ΕΠΙΜΕΛΕΙΑ): Dimitra Komninou
+    (Κομνηνού Δήμητρα), IEP staff.
+  - The page is signed by Gerasimos Kouzelis, President of the Institute of Educational Policy (IEP).
+    A boxed note states the material was produced unpaid under the IEP Foreign Languages Sub-unit, as
+    supplementary material for English in General Lyceum and EPAL, under IEP board acts 10/01-03-2018
+    and 12/15-03-2018 (protocol 3379/20-03-2018).
+- **Publisher / issuing bodies as printed:** Ministry of Education, Religions and Sports and the
+  Institute of Educational Policy (IEP) head the cover and title page; the Institute of Computer
+  Technology and Publications "Diophantos" (ΙΝΣΤΙΤΟΥΤΟ ΤΕΧΝΟΛΟΓΙΑΣ ΥΠΟΛΟΓΙΣΤΩΝ ΚΑΙ ΕΚΔΟΣΕΩΝ
+  «ΔΙΟΦΑΝΤΟΣ» / ITYE «Διόφαντος») is named at the foot of both — IEP is the commissioning institute,
+  Diophantos the publishing/production house.
+- **ISBN (back cover, PDF p. 1, repeated PDF p. 50):** 978-960-06-6087-6 — read directly from the
+  rendered cover image.
+- **Book code (back cover):** Κωδικός Βιβλίου 0-24-0618, with barcode add-on "(01) 000000 0 24 0618 3";
+  the filename code 24-0618-01 matches this book code.
+- **Year:** No publication year is printed anywhere on the cover, title page or credits page — stated
+  honestly: there is no year to cite from the book itself. Only printer's-margin production
+  timestamps appear: the body leaves are dated 3/10/2019, the half-title leaf 7/10/2019, the credits
+  leaf is re-dated 5/7/2022, and the cover and title leaves are re-dated 9/11/2023, so the file
+  combines later re-issued front matter with a 2019 body. The ministry's name also differs between
+  vintages — "…Religions and Sports" on the cover/title page, "…Research and Religions" in the
+  credits-page IEP banner — confirming the mixed vintages. PDF document metadata gives a creation
+  date of 3 October 2019.
+
+## Extent and page offset
+
+- 50 PDF pages; 48 printed (sequence) pages.
+- PDF pp. 1 and 50 are the same unpaginated cover spread (back cover left, front cover right),
+  duplicated at both ends of the file, so the file holds 49 distinct pages.
+- **Offset: printed page = PDF page − 1** throughout the interior (PDF p. 2 = printed p. 1 …
+  PDF p. 49 = printed p. 48). Verified page by page: PDF p. 10 carries printed folio 9 (Unit 1
+  divider, matching the table of contents), PDF p. 30 carries printed folio 29 (Unit 2 divider),
+  and the production leaf numbers in the footers follow the same −1 sequence throughout.
+- All page references below are printed pages, with PDF pages in brackets where useful.
+
+## How much is English, how much is Greek — honest account
+
+This is an English textbook whose teaching content is in English; Greek is only the packaging:
+
+- **All teaching content (printed pp. 9–48, 40 pages) is in English** — reading texts, exercise
+  instructions, grammar tables, listening and writing tasks. One Unit 1 instruction even tells
+  students they "may use Greek language too" when answering the opening questions in groups
+  (printed p. 10).
+- **Greek appears only in the front matter:** the Greek cover/title/credits pages (printed pp. 1–3),
+  a short image-credits note (printed p. 6), and a two-page introductory note to teachers (printed
+  pp. 7–8). Printed p. 4 is a full-page photograph with no text, and the table of contents
+  (printed p. 5) is in English.
+- So roughly 40 of 48 printed pages (about 83%) are English learning material; Greek is confined to
+  about 6 pages of packaging and teacher guidance. There are no Greek translations, glossaries or
+  bilingual sections inside the units.
+
+## Section-by-section summary (own words)
+
+### Front matter (printed pp. 1–8)
+
+Half-title (p. 1), credits (p. 2) and title page (p. 3) as in the identity block. A full-page
+photograph of a finger touching a digital globe covered in binary digits, with no text (p. 4). An
+English table of contents listing only two units (p. 5): Unit 1 at p. 9, Unit 2 at p. 29. A short
+Greek note (p. 6) stating that the book's illustrations are free-to-use images taken from Pixabay
+and Wikimedia Commons, last accessed 04.09.2018; the page's text layer is overlapped and partly
+garbled, so only its gist and addresses could be read cleanly. A Greek introductory note to teachers
+(pp. 7–8) explaining the approach, in paraphrase: learners work with authentic, unadapted English
+texts from their future professional field; the texts are deliberately not simplified to the
+learners' level — instead the tasks around them are adapted, with pre-reading questions, advance
+vocabulary presentation, or discussion in the mother tongue. It recommends gist and detail reading
+techniques such as skimming and scanning, and strategies such as SQ3R and KWL and graphic organisers
+such as mind-maps and spidergrams, stresses that learners need not understand every word, and invites
+teachers to supplement and adapt the material and to connect the classroom with the learners' future
+workplace.
+
+### Unit 1 — Network Devices and Equipment (printed pp. 9–28; exercises 1–20)
+
+Divider (p. 9). Eleven pre-reading questions in English, worked in groups, ask what network devices
+do and what hubs, switches, modems, routers, bridges and repeaters are for (pp. 10–11). The reading
+text (pp. 12–13), credited at the foot of p. 13 to globalspec.com and fossbytes.com, explains in my
+summary: network equipment combines, splits, switches, boosts and directs packets of data (packets
+may also be called blocks, cells, frames or segments); networks may be wired or wireless and laid out
+in bus, ring, star, tree or mesh topologies; protocols govern how data is formatted and exchanged
+across LAN, MAN and WAN networks; a hub copies every packet to all its ports, which is slow and
+insecure, while a switch filters and forwards packets only to the intended receiver, keeping a CAM
+(Content Addressable Memory) table for that purpose; a modem (Modulator + Demodulator) converts
+between analogue and digital signals; a router joins networks and chooses paths for traffic; a bridge
+joins subnetworks into one network; a repeater amplifies and retransmits signals so they cover longer
+distances. Comprehension follows: five true/false statements and three multiple-choice questions
+(p. 14), a ten-item word–definition matching task (p. 15), gap-fills and contrasted near-synonym pairs
+such as device/equipment and router/hub (pp. 16–17), and a word-formation table showing how noun
+suffixes such as -tion, -sion, -ment, -ence/-ance, -age, -er and -al build nouns from verbs, with a
+practice exercise (p. 17). The grammar strand is modal verbs: three sentences from the reading are
+matched to functions (p. 18), a full reference table tabulates ability, possibility/permission,
+probability, advice, obligation, absence of necessity and deduction (p. 19), and practice follows
+through a router user-guide choice exercise (p. 20), a gap-fill guide on building and maintaining the
+best home network (p. 21), and a meaning-matching task (p. 22). Listening is built around an external
+TED talk by Kevin Kelly on the next 5,000 days of the web, linked by URL, with a title-choice task,
+an eight-sentence gap-fill and group discussion questions (pp. 23–24). The unit closes with group
+work brainstorming reasons to upgrade a home network and comparing routers, switches and hubs
+(p. 25), a class discussion on improving the school's network and on how networks support
+communication in a school, office or business (p. 26), a writing task (exercise 20) asking for
+step-by-step instructions of 100–140 words to improve and upgrade the reliability of a home computer
+network, for upload to a tech how-to website (p. 27), and a blank closing page carrying only the unit
+header (p. 28).
+
+### Unit 2 — Operating Systems (printed pp. 29–48; exercises 1–17)
+
+The table of contents calls this unit "Operating System" (singular); the unit itself uses the plural
+"Operating Systems" throughout. Divider (p. 29) and a lead-in page asking how many operating systems
+students know and which are most common nowadays, followed by the instruction for the cloze reading
+(exercise 1): in pairs, learners fill twelve numbered blanks in the text from a word list that
+includes hardware, input, data, guest, processes, operating, friendly, users, consoles, intermediary,
+phones and networked (p. 30). The reading text itself (pp. 31–32) explains, in my summary: an
+operating system is system software that manages computer hardware and software resources, provides
+common services for computer programs, and acts as an intermediary between programs and the hardware
+for functions such as input/output and memory allocation; operating systems are found on devices from
+cell phones and game consoles to web servers and supercomputers. Its three stated objectives are
+convenience (making a computer more suitable and user friendly to use), efficiency (well-organised
+use of system resources) and ability to evolve (permitting effective development, testing and
+introduction of new functions). The text then classifies operating systems: single- and multi-tasking
+(multi-tasking is achieved by time-sharing the processor time between programs); single- and
+multi-user (a multi-user system adds facilities to identify processes and resources so several users
+can interact at once); distributed (a group of distinct networked computers made to appear as a
+single computer); templated (a single virtual-machine image saved as a guest operating system and
+reused to run multiple virtual machines, common in virtualisation, cloud management and large server
+warehouses); embedded (compact, extremely efficient systems designed for small machines with limited
+resources and less autonomy); real-time (time-bound systems with well-defined fixed-time constraints
+that process incoming data as it arrives, typically without buffer delays); and library operating
+systems (services such as networking provided in the form of libraries and composed with application
+and configuration code to construct a uni-kernel — a specialised single-address-space machine image
+for cloud or embedded environments). The text's source is credited at the foot of p. 32 to the English
+Wikipedia article on operating systems. Comprehension follows: five true/false statements (p. 33),
+ten short-answer questions covering what an operating system does, how multi-tasking is achieved, the
+multi-tasking/multi-user difference, and the meanings of templating and uni-kernel (p. 34), and a
+group task (exercise 4) listing kinds, functions and objectives and presenting them as a poster or
+diagram (p. 35). Vocabulary work covers a ten-item matching task on computing terms including system
+resource, booting, interface, device driver, directory, retrieve, cloud computing, vulnerability,
+attack vector and source code (p. 36); a gap-fill using a word list that includes storage devices,
+boot sector, malware, vulnerability, interface, source code and device drivers (p. 37); and three
+contrasted pairs — security/vulnerability, encryption/encoding and proprietary/open source — each
+completed in a pair of sentences (p. 38). The grammar strand is comparison of adjectives and adverbs:
+learners first notice comparative and superlative forms in example sentences drawn from the reading
+(p. 39), then complete formation tables for regular forms (p. 39) and irregular forms (good/well,
+bad/badly, much/many, little, far) together with other structures — as … as, not as/so … as,
+comparative-and-comparative, "the comparative …, the comparative …" and "by far the" + superlative
+(p. 40) — and practise in ten completion sentences and a five-item choice exercise about Windows,
+Linux and Mac OS (p. 41) and in a pair task comparing the operating systems pictured on the page using
+given adjectives such as secure/vulnerable, fast/slow, pricey/free and easy to use/complicated
+(p. 42). Listening (exercises 13–14) uses an external Oxford Online English dialogue about computer
+problems, linked by URL (p. 43): learners answer seven questions — including what the problem is, what
+the technician intends to do, how much the repair will cost and how long it will take, and what the
+expression "that's a good racket" means — then complete eight gapped sentences from the dialogue,
+among them the technician's $200 charge if the hard drive has to be reformatted and the operating
+system reinstalled (p. 44). Under the heading "Further Practice", the unit ends with a group
+discussion (exercise 15) advising the school principal on buying new computers and upgrading the IT
+laboratory, comparing Linux, Mac OS X and Microsoft Windows for reliability, security and ease of use
+(p. 45); a report-writing task (exercise 16) of 140–180 words, written as an employee of a
+medium-sized business to its manager, setting out the major advantages and disadvantages of the
+operating system in use and recommending a different one if desired, laid out on a "Tech-News Project
+Report" template with To/From/Subject/Date fields (p. 46); a final class discussion (exercise 17)
+asking why operating systems have to progress and develop constantly and what the consequences of
+that progress are (p. 47); and a blank closing page carrying only the unit header (p. 48). That blank
+page is the last page of the book's body; the cover spread is then repeated as PDF p. 50.
+
+## Citation anchors — verified against the PDF
+
+Each anchor below was checked by this reader in the text layer and, for the cover/title/credits
+anchors, against the rendered page images, and located on the stated page. All 13 passed.
+
+1. **Cover identity — VERIFIED.** "ΑΓΓΛΙΚΑ" + "ΤΟΜΕΑΣ ΠΛΗΡΟΦΟΡΙΚΗΣ" + "Β΄ ΕΠΑ.Λ." + "Κωδικός Βιβλίου:
+   0-24-0618" + "ISBN 978-960-06-6087-6" + barcode "(01) 000000 0 24 0618 3" all appear on the cover
+   spread (PDF p. 1, repeated identically as PDF p. 50).
+2. **Title — VERIFIED.** "ΦΑΚΕΛΟΣ ΥΛΙΚΟΥ / ΑΓΓΛΙΚΑ / Β΄ ΕΠΑ.Λ. / ΤΟΜΕΑΣ ΠΛΗΡΟΦΟΡΙΚΗΣ" with the ITYE
+   «Διόφαντος» imprint at the foot, on the title page (printed p. 3 / PDF p. 4).
+3. **Credits — VERIFIED.** Coordination by Papadimitriou Evangelia, development by Papachristou
+   Eftychia (external expert) and development–revision/content and language editing by Nika Maria,
+   on the credits page (printed p. 2 / PDF p. 3).
+4. **Contents — VERIFIED.** The Table of Contents lists "1 Network Devices and Equipment … 9" and
+   "2 Operating System … 29" — singular "Operating System" here, plural inside the unit itself
+   (printed p. 5 / PDF p. 6).
+5. **Offset — VERIFIED.** The Unit 1 divider carries printed folio 9 (PDF p. 10) and the Unit 2
+   divider carries printed folio 29 (PDF p. 30), confirming printed page = PDF page − 1 at both unit
+   openings, matching the contents.
+6. **Greek-permission line — VERIFIED.** The Unit 1 opening instruction "(you may use Greek language
+   too)" stands in exercise 1 on printed p. 10 (PDF p. 11); questions 5–11 follow on printed p. 11
+   (PDF p. 12).
+7. **Unit 1 reading and sources — VERIFIED.** The reading explains that a hub copies each data packet
+   to all of its ports while a switch sends packets only to the intended receiver using its CAM
+   table, and the two source URLs (globalspec.com and fossbytes.com) are printed at the foot of the
+   text (printed pp. 12–13 / PDF pp. 13–14).
+8. **Word formation — VERIFIED.** The noun-suffix table (-tion, -sion, -ment, -ence/-ance, -age, -er,
+   -al and others) with its practice exercise 8 is on printed p. 17 (PDF p. 18).
+9. **Modal verbs — VERIFIED.** The full modal-verb reference table (ability through deduction) is on
+   printed p. 19 (PDF p. 20), and the router user-guide practice (exercise 10) is on printed p. 20
+   (PDF p. 21).
+10. **Unit 1 listening and writing — VERIFIED.** The Kevin Kelly TED talk URL is printed on printed
+    p. 23 (PDF p. 24, repeated p. 24 / PDF p. 25), and the closing writing task (exercise 20) specifies
+    100–140 words on printed p. 27 (PDF p. 28).
+11. **Unit 2 reading and source — VERIFIED.** The cloze reading states the three objectives
+    (convenience, efficiency, ability to evolve) on printed p. 31 (PDF p. 32), covers templated,
+    embedded, real-time and library operating systems and the uni-kernel on printed p. 32
+    (PDF p. 33), and credits "http://en.wikipedia.org/wiki/Operating_system" at the foot of that page.
+12. **Unit 2 listening — VERIFIED.** The Oxford Online English computer-problems URL is printed on
+    printed p. 43 (PDF p. 44), and gap-fill sentence 6 on printed p. 44 (PDF p. 45) carries the $200
+    charge for reformatting and reinstalling the operating system.
+13. **Unit 2 close and blank endings — VERIFIED.** The report task (exercise 16) specifies 140–180
+    words on printed p. 46 (PDF p. 47); the final discussion (exercise 17) is on printed p. 47
+    (PDF p. 48); and both units end on a header-only blank page — printed p. 28 (PDF p. 29) for Unit 1
+    and printed p. 48 (PDF p. 49) for Unit 2.
+
+**Anchor count: 13 checked, 13 verified, 0 failed.**
+
+## Honest negatives
+
+- **No publication year is printed** anywhere checked (cover, title page, credits page). Only
+  production/footer timestamps exist (2019 body and half-title, 2022 credits leaf, 2023 cover and
+  title leaves); the file is a composite of those vintages, and the ministry is even named
+  differently on the credits-page banner than on the cover and title page. Any catalogue year is
+  therefore unprinted, not a title-page fact.
+- **Only two units.** There is no Unit 3, no glossary, no wordlist, no grammar appendix beyond the
+  in-unit reference tables, and no answer key in this file.
+- **Blank and duplicate pages:** printed p. 28 and printed p. 48 carry only their unit header;
+  printed p. 4 is a photograph with no text; and PDF pp. 1 and 50 are duplicates of the same cover
+  spread, so the 50 PDF pages contain 49 distinct pages.
+- **The image-credits page (printed p. 6 / PDF p. 7) is typographically overlapped in the PDF** — its
+  Greek lines interleave in the text layer, so only its gist, its Pixabay and Wikimedia Commons
+  addresses and its 04.09.2018 access date could be read; a word-perfect transcription of that page
+  is not possible from this file.
+- **Contents/unit title mismatch:** the contents lists Unit 2 as "Operating System" (singular) while
+  the unit itself is headed "Operating Systems" (plural) throughout; the plural is the unit's own
+  form and is used in this draft.
+- **External dependence:** both listening sequences and both main readings depend on outside sources
+  (a TED talk, an Oxford Online English dialogue, globalspec.com, fossbytes.com and Wikipedia). The
+  URLs are printed in the book as cited above; whether those links are still live was not tested in
+  this reading task, and no audio is contained in the book itself.
+- Nothing inside the two units is in Greek: a learner or teacher wanting Greek translations, glosses
+  or bilingual support will not find them in this file — Greek is confined to the covers, front
+  matter and the teachers' introduction, as set out in the language account above.
+
+## Grade 11 (EPAL) — Materials File (Φάκελος Υλικού — Αγγλικά), Health–Welfare–Wellness Sector
+
+## Book read
+- **File:** `grade-11_gov_greece_epal_24-0620-01-V1.pdf`
+- **Reader task:** Whole-file, page-by-page read of the 46-page PDF; identity verified from rendered cover / title / credits pages, not from the text layer alone.
+- **Library record checked:** “Ygeias Pronoias Fakelos Ylikou”, Health & Welfare sector, Grade 11 EPAL — **confirmed in substance** by the book's own pages (see identity verdict below).
+
+---
+
+## 1. Identity block — as printed in the book
+
+| Field | As printed / verified |
+|---|---|
+| Title (cover, Greek) | ΑΓΓΛΙΚΑ — “English” |
+| Sector line (cover) | ΤΟΜΕΑΣ ΥΓΕΙΑΣ-ΠΡΟΝΟΙΑΣ-ΕΥΕΞΙΑΣ — Health–Welfare–Wellness Sector |
+| Form of the book (title page) | ΦΑΚΕΛΟΣ ΥΛΙΚΟΥ — “Materials File / Folder” |
+| Full title-page wording | ΦΑΚΕΛΟΣ ΥΛΙΚΟΥ / ΑΓΓΛΙΚΑ ΕΠΑ.Λ. / Β΄ ΕΠΑ.Λ. / ΤΟΜΕΑΣ ΥΓΕΙΑΣ-ΠΡΟΝΟΙΑΣ-ΕΥΕΞΙΑΣ |
+| Level | Β΄ ΕΠΑ.Λ. — 2nd year of the Vocational Upper Secondary School (EPAL), i.e. Grade 11. Matches the library record. |
+| Book code | Κωδικός Βιβλίου: 0-24-0620 (cover). File stem 24-0620-01 agrees. |
+| ISBN | 978-960-06-6089-0 (cover, above barcode “(01) 000000 0 24 0620 6”) |
+| Publisher / issuing bodies | Ministry of Education, Religions and Sports (ΥΠΟΥΡΓΕΙΟ ΠΑΙΔΕΙΑΣ, ΘΡΗΣΚΕΥΜΑΤΩΝ ΚΑΙ ΑΘΛΗΤΙΣΜΟΥ) and Institute of Educational Policy (ΙΝΣΤΙΤΟΥΤΟ ΕΚΠΑΙΔΕΥΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ — ΙΕΠ); published/printed by the Institute of Computer Technology and Publications “Diofantos” (ΙΝΣΤΙΤΟΥΤΟ ΤΕΧΝΟΛΟΓΙΑΣ ΥΠΟΛΟΓΙΣΤΩΝ ΚΑΙ ΕΚΔΟΣΕΩΝ «ΔΙΟΦΑΝΤΟΣ», ITYE logo on cover). |
+| Authors | **No single author byline is printed.** The credits page (PDF p. 3) lists roles instead: Coordination — Evangelia Papadimitriou (Παπαδημητρίου Ευαγγελία, Counsellor B, IEP); Development–adaptation–content editing–language editing — Maria Nika (Νίκα Μαρία, Counsellor A, IEP); Development — Eftychia Papachristou (Παπαχρίστου Ευτυχία, External Expert, Coordinator of Educational Work for English); Art editing — Maria Nika; Layout / graphic editing — Dimitra Komninou (Κομνηνού Δήμητρα, IEP staff). IEP President named on the page: Gerasimos Kouzelis. The credits box states the material was produced unpaid under the IEP Foreign Languages Sub-unit, under IEP Board Acts 10/01-03-2018 and 12/15-03-2018. |
+| Year | **No publication year is printed** on the cover, title page or credits page — stated honestly: there is no year to cite from the book's own imprint. Production stamps visible in the PDF margins (not imprint dates) are: body files dated 4/10/2019, cover file dated 26/10/2023, credits conversion dated 31/05/2024; PDF creation date in metadata is 4 Oct 2019. None of these is presented in the book as its publication year. |
+
+**Identity verdict:** This *is* the book the library record describes — the official English “Materials File” for Grade 11 (B΄) EPAL students in the Health–Welfare–Wellness sector. It is not a general English coursebook and not a health textbook in Greek: it is English-for-Specific-Purposes (ESP) material whose *subject content* is health care and first aid.
+
+---
+
+## 2. Extent and page offset
+
+- **PDF extent:** 46 PDF pages.
+- **Printed pagination:** The main body carries printed page numbers 9–44.
+- **Offset (body): printed page = PDF page − 1.** Examples verified page by page: printed 9 = PDF 10 (Unit 1 opener); printed 13–14 = PDF 14–15 (hospital reading); printed 29 = PDF 30 (Unit 2 opener); printed 44 = PDF 45 (last content page).
+- **Front matter (PDF 1–9) is unnumbered** in print: PDF 1 = cover spread; PDF 2 = half-title; PDF 3 = credits; PDF 4 = title page; PDF 5 = full-page photograph (no text); PDF 6 = Table of Contents (InDesign folio 5); PDF 7 = image-credits note (InDesign folio 6); PDF 8–9 = Greek introductory note (InDesign folios 7–8).
+- **PDF 46 duplicates PDF 1:** the same cover artwork file (front + back in one spread, with ISBN/barcode) is repeated at the end of the PDF. It is not a separate back-cover text.
+- **Printed 28 (PDF 29) is effectively blank** — header only, no task or text. Printed 11 (PDF 12) and printed 17 (PDF 18) are answer-lines only, continuing photo-description tasks.
+
+---
+
+## 3. How much is English, how much is Greek — honest account
+
+This is the point the brief flagged, so it is stated plainly:
+
+- **The teaching body is almost entirely English.** PDF 10–45 (printed 9–44): instructions, readings, exercises, grammar tables and writing tasks are all in English. A letter count on the extracted text gives ~99.8% Latin-script letters in this span. The only Greek-facing moment inside the body is an instruction on printed 12 (PDF 13) telling learners they may also use Greek in a mind-map task.
+- **The Greek is concentrated in the wrapper:** cover, half-title, credits, title page, image-credits note and the two-page teacher introduction (PDF 1–9) are Greek (~92.7% Greek letters in that span).
+- **Whole-file balance (text layer): ~82% English / ~18% Greek by letter count** — but that flatters the Greek share, because the Greek pages are short front matter while the 36 content pages are dense English.
+- **In practical terms for LiqLearns:** once past the front matter, this is a usable English source — two complete ESP units in English. The Greek introduction (printed front matter, InDesign pp. 7–8) is teacher guidance only; it is *not* translated inside the book, and a reader without Greek loses only that guidance, not any student material.
+
+---
+
+## 4. Section-by-section summary (own words; printed page refs)
+
+### Front matter — PDF 1–9, no printed numbers
+Cover and title pages establish the book as above. The contents page lists only two units: *Health Care Services* (printed 9) and *First Aid* (printed 29). The image-credits note (PDF 7) says in Greek, in my summary, that the illustrations are free-use images taken from Pixabay and Wikimedia Commons, with other sources credited in place, and gives 04.09.2018 as the last retrieval date for the texts. The Greek introductory note (PDF 8–9) explains the approach in my summary: the file is meant to build learners' existing communicative ability in situations from their chosen vocational sector, using largely unadapted authentic texts for ESP; teachers are advised to adapt the *tasks* rather than the texts, to use pre-reading support, and to teach gist/detail reading strategies (the note names skimming, scanning, SQ3R and KWL in Latin script) so learners can cope with unknown vocabulary.
+
+### Unit 1 — Health Care Services — printed 9–28 (PDF 10–29)
+- **Opener and lead-in (printed 9–12).** A photo opener (printed 9) is followed by a pair task matching short descriptions of clinical actions — e.g. wound dressing, stethoscope use, blood-pressure and glucose checks, injections, ultrasound — to photographs (printed 10–11; printed 11 is lines only). A group mind-map task then asks what services health institutions provide, who provides them, and where / with what facilities (printed 12).
+- **Main reading: a hospital's departments (printed 13–14).** Learners first predict from headings, then read a description of a fictional “St John's Hospital.” In my summary, the text walks through emergency care (open round the clock, no appointment needed), surgery and anaesthetics (distinguishing general, sedation, regional and local forms), cardiology, diagnostic imaging (X-ray, ultrasound, CT, PET, MRI), obstetrics/gynaecology, haematology, microbiology, paediatrics, physiotherapy, orthopaedics, and neurology/psychiatry, saying briefly what each treats and how. The page footer credits the text as adapted from English Wikipedia (printed 14).
+- **Working with the reading (printed 15–18).** A true / false / not-mentioned check of ten statements about the hospital text (printed 15); a pair task writing short descriptions for department photographs (printed 16–17, the second page lines only); group discussion on why departments exist, what expertise each needs, and where learners would prefer to work; and a picture-labelling task from a word bank of hospital people, objects and procedures (printed 18).
+- **Vocabulary building (printed 19–21).** Matching ten hospital words to definitions (printed 19); gap-fill sentences using department and specialty words such as cardiology, paediatrics, haematology, obstetrics, vaccination and rehabilitation (printed 20); and paired-sentence gap-fills that force a choice between easily confused terms — rehabilitation vs. resuscitation, pharmacy vs. ophthalmology (printed 21; only these two pairs appear on the page).
+- **Grammar focus: relative clauses (printed 22–24).** Two noticing tasks on example sentences (printed 22) lead into a full-page set of study tables (printed 23) that, in summary, contrasts defining and non-defining clauses, lists the relative pronouns/adverbs by function (person, thing, place, time, possession, reason), and notes comma use, omission, and formal preposition placement. A twelve-sentence practice exercise (printed 24) is set in hospital contexts and additionally asks learners to label each clause defining or non-defining and to judge whether the relative word can be omitted.
+- **Speaking, discussion and writing (printed 25–27).** A group spidergram task prioritising factors for a new suburban health organisation — services, staffing, equipment, hygiene, quality (printed 25, task 14, followed by a discussion task numbered 15); a 140–180-word complaint e-mail to a hospital manager about poor service during a stay (printed 26 — also numbered 15 in the book; see Negatives); and a support page modelling the parts of a formal complaint letter — greeting, opening, main body, closing, sign-off — with example phrasing (printed 27).
+- **Printed 28** is blank apart from the running header and closes the unit.
+
+### Unit 2 — First Aid — printed 29–44 (PDF 30–45)
+- **Opener and core text (printed 29–30).** Photo opener (printed 29), then an introductory text sourced to an NHCPS first-aid lesson page (URL printed on the page). In my summary it defines first aid as the immediate care given until full treatment is available — sufficient alone for minor problems, sustained for serious ones — and stresses consent: introduce yourself, explain you can help, do not touch the person until they agree; consent may be assumed (“implied consent”) for a confused or critically ill/injured person. A boxed list then names the usual contents of a first-aid kit, from bandages, gauze and antiseptic wipes to a breathing mask, cold pack and eye wash (printed 30).
+- **Kit labelling (printed 31).** Learners label seven pictured kit items using the list on printed 30.
+- **“Everyday First Aid” instruction sheets (printed 32–33).** Short illustrated procedures, two pages in total, covering in my summary: an unresponsive person who is not breathing (airway check, chest compressions), one who is breathing (recovery onto the side, head tilted back), heavy bleeding (sustained pressure on the wound), burns (cooling under cold running water, medical advice for blistering / severe burns), head injury (rest, cold compress, hospital if drowsy or vomiting), poisoning by harmful substances (identify substance/amount, do not induce vomiting, keep the person conscious, call emergency services), broken bone (support / immobilise, cushion, wait for help), and sprained ligament (rest the limb, ice and compression, elevation).
+- **Checks and vocabulary (printed 34–37).** A four-item true/false check on the instruction sheets plus a diagram-and-presentation task (printed 34); matching ten first-aid words (including CPR, paramedic, compression, immobilise) to definitions (printed 35); word-form gap-fills (printed 36, first task) and confusable-pair gap-fills — alert/unconscious, bleeding/injured, choking/drowning, release/immobilise (printed 36, second task); then a make/do collocation sort followed by eight gap-fill sentences (printed 37).
+- **Cloze reading (printed 38).** An eight-gap multiple-choice cloze (four options per gap) built on a “do basic first aid” text credited on the page to WikiHow. In summary the text covers judging responsiveness, checking breathing and pulse, opening the airway, clearing visible obstruction and using the recovery position.
+- **Video work: choking (printed 39–40).** Tasks built around a ProFirstAid training video on helping a conscious choking adult (URL printed on printed 39): a topic multiple-choice, four comprehension questions (signs of choking, why permission is asked, whether professionals are still needed afterwards, when abdominal thrusts must not be used), and a four-item true/false check after viewing (printed 40).
+- **Arm-wound completion (printed 41).** Learners complete an eight-step ambulance-service instruction set for treating an arm wound from an eight-word bank (blood, bleeding, elevated, pressure, arm, heart, apply, clean — the bank prints “gauge” in step 4 where “gauze” is meant; see Negatives).
+- **Report writing (printed 42).** Learners write a 140–180-word paramedic's report of a life-threatening emergency — what happened, who was involved, symptoms, aid given — on a To/From/Subject/Date frame with four subheadings.
+- **Closing project and discussion (printed 43–44).** Group work brainstorming further first-aid cases, listing responses and required skills, and making a poster — the page also captions the Star of Life as the global symbol of emergency medical services (printed 43). The final page (printed 44) asks groups to prioritise elements of a local emergency-services plan from a spidergram and closes with two class-discussion questions: whether first aid should be part of the Greek curriculum, and whether a volunteering culture around emergencies is feasible.
+
+---
+
+## 5. Citation check — anchors verified against the PDF
+
+Each anchor below was checked against the extracted text *and*, for the cover/credits/first-aid pages, against rendered page images. Page refs give printed page first, then PDF page.
+
+1. Cover: “ΑΓΓΛΙΚΑ” + sector line + “Β΄ ΕΠΑ.Λ.” + book code 0-24-0620 + ISBN 978-960-06-6089-0 — **Cover (PDF 1; repeated PDF 46) — VERIFIED** (rendered image).
+2. Title page: “ΦΑΚΕΛΟΣ ΥΛΙΚΟΥ / ΑΓΓΛΙΚΑ ΕΠΑ.Λ. / Β΄ ΕΠΑ.Λ. / ΤΟΜΕΑΣ ΥΓΕΙΑΣ-ΠΡΟΝΟΙΑΣ-ΕΥΕΞΙΑΣ” with Diofantos as publisher — **PDF 4 — VERIFIED** (rendered image).
+3. Credits: coordination by Evangelia Papadimitriou; development by external expert Eftychia Papachristou; content/language editing by Maria Nika — **PDF 3 — VERIFIED** (rendered image).
+4. Contents lists exactly two units: 1 Health Care Services at printed 9, 2 First Aid at printed 29 — **PDF 6 — VERIFIED** (rendered image).
+5. Image-credits note: free images from Pixabay / Wikimedia Commons; last retrieval of all texts 04.09.2018 — **PDF 7 — VERIFIED** (rendered image; text layer is scrambled on this page, image is legible).
+6. Unit 1 opener carries printed page number 9 — **printed 9 = PDF 10 — VERIFIED** (establishes the −1 offset).
+7. Hospital reading states the emergency department “operates 24 hours a day” and treats patients arriving without prior appointment — **printed 13 = PDF 14 — VERIFIED**.
+8. Hospital reading footer: “http://en.wikipedia.org (adapted text)” — **printed 14 = PDF 15 — VERIFIED**.
+9. Relative-clauses study tables contrast defining vs. non-defining clauses and comma/omission rules — **printed 23 = PDF 24 — VERIFIED**.
+10. Complaint-writing task: 140–180-word e-mail to the manager about treatment at “St Andrew's Metropolitan Hospital” — **printed 26 = PDF 27 — VERIFIED**.
+11. First-aid definition, consent steps and “implied consent”, plus first-aid-kit list, with NHCPS lesson URL printed at head — **printed 30 = PDF 31 — VERIFIED** (rendered image + text).
+12. Burns instruction: cool under cold running water “for at least ten minutes” — **printed 32 = PDF 33 — VERIFIED**.
+13. Cloze text credited “http://www.wikihow.com/Do-Basic-First-Aid”; gap 8 options include “recovery” — **printed 38 = PDF 39 — VERIFIED**.
+14. Choking-video tasks cite the ProFirstAid conscious-adult-choking video and ask when abdominal thrusts should not be done; follow-up true/false includes hospital check for internal bleeding — **printed 39–40 = PDF 40–41 — VERIFIED**.
+
+**Result: 14 / 14 anchors verified, 0 failed.**
+
+Citation format for course use (example): *Greece + ΦΑΚΕΛΟΣ ΥΛΙΚΟΥ ΑΓΓΛΙΚΑ ΕΠΑ.Λ. (Health–Welfare–Wellness Sector), B΄ EPAL (Grade 11) + printed p. 30 (= PDF p. 31) + ISBN 978-960-06-6089-0 / book code 0-24-0620 + no year printed.*
+
+---
+
+## 6. Honest negatives and limits
+
+- **No publication year is printed** anywhere in the imprint — do not cite a year for this book from its own pages.
+- **No named author** — only institutional credits/roles (above). Do not invent an author.
+- **Only two units / 36 printed content pages** (9–44). This is a slim sector file, not a full-year coursebook: no further units, no revision section.
+- **No answer key, no glossary, no wordlist appendix, no grammar summary beyond the relative-clauses tables** (printed 23) in the file as read.
+- **No audio and no listening transcripts.** The only listening/viewing input is external video via printed URLs (ProFirstAid; printed 39); the file itself contains no script for it.
+- **No CEFR level is stated** on the pages read — do not file this as B1/B2 etc. on the book's evidence.
+- **Reading texts are adapted web texts**, credited on-page to Wikipedia (printed 14), NHCPS (printed 30), WikiHow (printed 38) and ProFirstAid (printed 39) — authentic-text ESP by design, not original textbook prose.
+- **Numbering fault in the book:** Unit 1 has two different tasks numbered “15” (discussion, printed 25; complaint e-mail, printed 26). Cite by printed page, not by task number alone, in that span.
+- **Hospital name changes between tasks:** the reading hospital is “St John's” (printed 13–14); the complaint task is set at “St Andrew's Metropolitan Hospital” (printed 26). Both names are as printed.
+- **Spelling/typo as printed:** the arm-wound steps (printed 41) read “gauge” in step 4 where the kit list (printed 30) has “Gauze” — noted, not corrected.
+- **Photo/space pages:** printed 11, 17 are answer lines only and printed 28 is blank; PDF 5 is a full-page photograph. Page counts above already include them — they carry no teachable text.
+- **Greek introduction is untranslated** in the book (PDF 8–9); the summary above is my own paraphrase of it for filing purposes.
+- **PDF quirk:** the cover file is included twice (PDF 1 and PDF 46), so the 46-page PDF holds 44 distinct pages of book content plus front/back cover duplication.
+
+---
+
+## 7. Use note for LiqLearns English
+
+Suitable as a *sector-ESP source* for health vocabulary, hospital-department descriptions, first-aid procedures, relative clauses in medical contexts, and formal complaint/report writing frames. All summaries above are in the reader's own words; only isolated short phrases (titles, the ten-minute burns instruction, form labels) are quoted.
+
+
+## Grade 12 (EPAL) — English for the Hotel and Tourist Trade, Student's Book
+
+**Real title as printed.** The cover (PDF p.1) reads, in full:
+“VOCATIONAL LANGUAGE LEARNING — ENGLISH FOR THE HOTEL AND
+TOURIST TRADE”, with “Γ΄ ΕΠΑ.Λ.” (Grade 12 EPAL) and
+“ΤΟΜΕΑΣ ΔΙΟΙΚΗΣΗΣ ΚΑΙ ΟΙΚΟΝΟΜΙΑΣ” (Administration and
+Economics Sector). The interior title page (printed p.5,
+PDF p.6) shortens the title to **HOTEL AND TOURISM** and
+gives the speciality in Greek as “Υπάλληλος Τουριστικών
+Επιχειρήσεων” (Tourist Business Employee). The prologue
+(printed p.7, PDF p.8) heads its English description with
+the cover title, *English for the Hotel and Tourist Trade*.
+Both forms are therefore the book's own; this filing uses
+the cover title, as the task and the library record do.
+
+### Identity block
+
+- **Identity verdict: MATCH.** Cover, spine, interior title
+  page, original-edition page and contents all agree with
+  the record: Greece Grade 12 (Γ΄ Lykeiou) EPAL, Αγγλικά
+  Ειδικότητας (speciality English), book code 24-0215.
+  No mismatch.
+- **Publisher:** Ινστιτούτο Τεχνολογίας Υπολογιστών και
+  Εκδόσεων «Διόφαντος» — ITYE “Diophantos” (Institute of
+  Computer Technology and Publications), for the Greek
+  Ministry of Education, Religious Affairs and Sports
+  (Υπουργείο Παιδείας, Θρησκευμάτων και Αθλητισμού) and the
+  Institute of Educational Policy, via ebooks.edu.gr.
+- **Authors / working group (printed p.4, PDF p.5; title
+  page printed p.5, PDF p.6):** coordination/supervision
+  Angeliki Diamantidou (school adviser for English, MEd);
+  Paraskevi Ntasiou, Aliki Panaretou, Charikleia
+  Papakanderaki. Cover by Giorgos Akritas. Writing done
+  under the aegis of the Pedagogical Institute, on a
+  commission under ministerial decision
+  Φ.910.28/Η 5073/24-9-1991 for the Hotel Businesses
+  section of the (then) TEE system.
+- **Year — honest:** **no publication year is printed**
+  on the cover, title page or imprint. The imprint says
+  only, in Greek, that this reissue was produced by ITYE
+  Diophantos “through a digital mock-up”. The only date
+  the book itself gives for its content is the prologue's
+  **May 1995** (printed p.7). The 2021, 2023 and 2026
+  dates in the PDF's production stamps (InDesign/Indb
+  footers, e.g. 24/9/2021, 31/10/2023) are file-production
+  stamps of this digital reissue, not a printed
+  publication year, and are not reported here as one.
+- **ISBN / code:** ISBN **978-960-06-2987-3**; book code
+  **0-24-0215** (cover and back panel, PDF pp.1 and 418);
+  file/version code 24-0215-02-V1.
+- **PDF pages:** **418** (pdfinfo: 418 pages, 29,562,031
+  bytes, PDF 1.6, created in Adobe InDesign 16.0).
+- **Printed = PDF offset:** **PDF page = printed page + 1**
+  for every foliated page. Evidence: contents leaf is
+  printed 10 on PDF p.11; Section A divider is printed 21
+  on PDF p.22; Unit 1 opens on printed p.23 = PDF p.24;
+  Unit 6 opens on printed p.99 = PDF p.100; the Glossary
+  runs printed pp.373–412 = PDF pp.374–413. PDF p.1 is
+  the wraparound cover (front, spine and back in one
+  sheet, no folio), PDF pp.2–3 are blank, PDF p.417 is
+  printed p.416 (the free-distribution legal notice under
+  Law 3966/2011), and PDF p.418 repeats the wraparound
+  cover sheet. All page references below are **printed
+  pages**, with PDF pages given where a citation needs
+  them.
+- **Level and shape (prologue, printed p.7):** a
+  pre-intermediate to intermediate course, about **90
+  hours** of classroom material, in **22 units plus 2
+  revision units**, organised in **5 thematic sections**,
+  with reading texts and dialogues, controlled
+  communicative activities, pictures, and a glossary of
+  “approximately 2000 words defined in Greek”. The
+  prologue also states what the companion teacher's book
+  holds — teaching notes, complete answers and the
+  listening scripts — i.e. those things are **not** in
+  this student's book (see Honest negatives).
+- **Contents (printed pp.10–20):** a Thematic Sections
+  list (printed p.10) and a full Table of Contents
+  (printed pp.11–20) mapping every unit to its functions
+  and structures. Section A Hotel Services, Units 1–8
+  (pp.23–148); Section B Food and Beverage Service,
+  Units 9–15 (pp.149–252); Section C Tourist Services,
+  Units 16–20 (pp.255–308); Section D Jobs in the Hotel
+  and Restaurant Business and Business Correspondence,
+  Units 21–23 (pp.311–356); Section E Tourism, Unit 24
+  (pp.357–369); Glossary (pp.373–412).
+- **Recurring unit shape:** almost every unit opens with
+  a dialogue or a short reading text set in or around the
+  fictional Athenian Hotel (the Bensons, Mr Manou, the
+  Diana Travel Agency and the Lucullus Restaurant recur),
+  followed by comprehension and vocabulary exercises, a
+  Communication Practice section (functional phrase
+  tables and role plays), a Language Practice section
+  (the unit's grammar), a Writing Activity, a Listening
+  Activity and a “Fun Time” puzzle. Greek place
+  photographs with English captions illustrate most
+  units. Summaries below are in my own words; dialogues
+  are described by function, never transcribed.
+
+### Section A — Hotel Services
+
+- **Unit 1 — Making Enquiries (printed pp.23–36).** A
+  customer phones a Brighton travel agency about a
+  two-week Athens holiday for his family; the agent
+  recommends a packaged trip (flights, hotel and tours
+  bundled, breakfast only, early booking advised) over
+  travelling independently, and offers to post a brochure.
+  Vocabulary strand: the package-holiday word family —
+  enquiry, reservation/booking, brochure, charter flight,
+  tour, airfare, rate, travel agent. Language work:
+  polite requests with *Can/Could/May I/you…?*; formal
+  and informal greetings and introductions, including
+  saying what your job and company are. Writing: a formal
+  enquiry letter asking for a brochure, dates and prices,
+  and the agency's reply enclosing one, with letter layout
+  taught explicitly. Listening: eight short dialogues to
+  locate (where, who, what about). Fun Time: a rhombus
+  crossword on the unit's words.
+- **Unit 2 — Making Reservations (printed pp.37–50).**
+  The same agent phones the Athenian Hotel to book, for
+  the family of four, two connecting rooms (a double and
+  a twin-bedded room, telephone and private bathroom,
+  ten nights from 7 June); the hotel can offer shower
+  not bath, at a nightly rate with breakfast, a deposit
+  now and the balance two weeks before arrival, with
+  confirmation on receipt of the deposit. A full
+  telephone-language strand follows: answering, asking
+  for a person, being put through, engaged lines, taking
+  and leaving messages, calling back, plus telephone
+  nouns (directory, dialling/area code, receiver,
+  reverse-charge and person-to-person calls) and phrasal
+  verbs (*put through, get through, ring up, hold on,
+  cut off, hang up, call back*). Language work: nouns
+  used as adjectives (*a three-day holiday, a ten-floor
+  hotel*); polite requests with *Will/Would/Can/Could
+  you…?* and accepting or refusing them; checking
+  information with question tags and rising intonation.
+  Writing: the written reservation letter and the hotel's
+  written confirmation, with deposit/receipt formulas.
+  Listening: Directory Enquiries calls for dialling codes.
+- **Unit 3 — Checking In (printed pp.51–66).** At the
+  Athenian Hotel reception desk the guest finds his two
+  rooms are not on the same floor as booked; the
+  receptionist apologises, substitutes a vacant back
+  room on the parents' floor, has him register, takes
+  the passports, issues keys and calls the porter, and
+  points him to the in-room leaflets for hotel services
+  and telephone use. Work on the registration form
+  itself (name, nationality, address, passport number
+  and dates, room, arrival, nights, departure) and on
+  the questions a receptionist must ask to fill it in.
+  Vocabulary strand: nations, nationalities, citizens,
+  languages and currencies, matched in tables (including
+  currency abbreviations), and good-wishes formulas for
+  stays, trips, festivals and birthdays. Language work:
+  reported speech (statements, questions and commands,
+  with the tense backshift table) and the many ways of
+  expressing future actions (timetable present,
+  arrangement present continuous, *going to*, *will*,
+  future continuous). Listening: complete a registration
+  form from a heard dialogue.
+- **Unit 4 — Hotel Facilities (1) (printed pp.67–82).**
+  Built around a full advertisement for the fictional
+  Athenian Hotel: its position opposite the Acropolis
+  near Plaka, its room stock and in-room facilities, its
+  services (24-hour room service, salon, sauna, laundry,
+  currency exchange and others), its two restaurants and
+  piano bar, its conference auditorium and its courtesy
+  airport bus. Learners extract the advertisement's
+  facts into a table, classify hotels by stars against
+  facilities offered, and learn the board-basis set —
+  half-board, full-board/American plan, European plan,
+  bed and breakfast, continental vs English breakfast,
+  self-catering, with their synonyms (demi-pension,
+  modified American plan and so on). Language work:
+  comparison in full — comparative, superlative,
+  irregular adjectives and parallel increase (*the
+  more… the…*) — applied to a four-hotel comparison
+  table. Writing: describing and advertising a hotel,
+  supported by three pages of “useful language” for
+  qualifying a hotel, locating it, describing rooms,
+  facilities, entertainment and offers. Listening: a
+  general manager briefing a travel agent, checked
+  against a partly wrong information table.
+- **Unit 5 — Hotel Facilities (2) (printed pp.83–98).**
+  Matching people to hotels: four short client profiles
+  (a businessman needing a short Thessaloniki stay, a
+  university lecturer needing a 70-person seminar hotel,
+  a family of six needing seaside sport and child care,
+  and a young couple wanting a reasonably priced base)
+  are matched against four hotel descriptions in and
+  around Thessaloniki (a family-run hotel, a holiday
+  centre of bungalows, and a central business/conference
+  hotel among them), with tariffs. A guided dialogue then
+  talks the businessman into the central hotel. Further
+  work: a detailed fact-file role play phoning a hotel
+  manager about a “Beauty Hotel” (rooms, catering,
+  congress hall, recreation, children); inviting,
+  accepting and declining invitations and making
+  arrangements; offering suggestions and advice (*You
+  should…, If I were you…, Why don't you…?* and similar);
+  contrastive markers (*whereas, while, although, on the
+  other hand, however*); writing a hotel advertisement
+  from notes and writing a refusal-with-alternative
+  reservation reply (dated 1992 in the task). Listening:
+  a conference-equipment enquiry, ticking which
+  technical equipment a hotel provides.
+- **Unit 6 — Dealing with Complaints (printed
+  pp.99–112).** Two complaint dialogues at the Athenian
+  Hotel: a guest kept awake by a noisy neighbouring
+  couple, and a newly arrived guest whose room is hot,
+  whose TV picture is blurred, and who has no soap and
+  too few coat hangers; in both, the manager apologises
+  and promises specific action. The functional core is
+  taught as tables: apologising, promising to take
+  action, complaining to guests who break the rules
+  (noise, dress, unregistered visitors, dogs, smoking,
+  removing hotel property), and responding in role plays
+  to a long list of room and service faults (shower,
+  wake-up call, dripping tap, socket, heater, slow
+  restaurant service). Language work: *should have* +
+  participle for duties not performed (what housekeeping
+  should have done to a room left in a mess), future
+  *will* for promises, and the causative *have + object
+  + past participle* for arranging for someone else to
+  act. Writing: a guest's letter of complaint about slow
+  breakfast service, unhelpful receptionists and raised
+  prices, and the manager's apologetic reply explaining
+  staff illness and untrained replacements.
+- **Unit 7 — Giving Directions and Information (printed
+  pp.113–132).** A receptionist on duty fields six
+  guests in sequence: directions to the nearest post
+  office, a long-distance call that must go through the
+  switchboard, directions inside the hotel to a lounge,
+  a courtesy coach to the airport terminal, and booking
+  sightseeing tickets at the in-house travel agency,
+  among them. Direction language is taught in three
+  layers — asking the way, giving directions inside a
+  hotel (corridor, lift, floor and prepositions of
+  place), and giving directions in the street (turnings,
+  junctions, traffic lights, “half way down”, buses and
+  the underground) — practised on hotel floor plans and
+  a town map. Language work: giving unpleasant
+  information politely (*I'm afraid…, I'm sorry…*:
+  fully booked, no table, card/cheque refused), reporting
+  messages left for guests, and requesting information
+  or a service and answering such requests. Writing: a
+  letter giving a guest directions from a London tube
+  station to the hotel, with a map. Listening: naming
+  rooms on a hotel plan from heard directions.
+- **Unit 8 — Checking Out and Methods of Payment
+  (printed pp.133–146).** Two checking-out dialogues:
+  a guest who challenges a three-night bill is walked
+  item by item through room rate, room-service
+  breakfasts, a long-distance call and a restaurant
+  dinner, with service and VAT included, and pays by
+  traveller's cheques; a second guest cannot pay by
+  personal cheque without a cheque card and pays cash
+  in foreign currency instead. Vocabulary and skills
+  strand: bill language and phrasal verbs (*settle,
+  go through, work out, amount to*), saying mathematical
+  symbols, reading large numbers, fractions, decimals
+  and percentages aloud, and doing exchange-rate work
+  from a printed drachma rates table, including
+  commission. Role plays rehearse presenting and
+  explaining a bill, refusing or accepting cards and
+  cheques, and changing money at the hotel when the
+  banks are closed. Language work: the preposition/
+  particle pairs *on/off* and *up/down* (switching,
+  turning and pulling). Listening: a description of
+  Crete (area, population, towns, mountains, weather,
+  products) to complete. Fun Time: VAT, service-charge
+  and currency-change calculations.
+
+### Section B — Food and Beverage Service
+
+- **Unit 9 — Taking Orders (printed pp.149–166).** Four
+  short service dialogues: ordering a room-service
+  breakfast for one (juice, egg cooked to order, toast,
+  rolls, jam and croissants, coffee with cream, delivery
+  time, name and room number); ordering a three-course
+  set lunch at a fixed price, including asking for a
+  dish well done and a drink well chilled; ordering a
+  round of drinks at the bar (soft drink, beer, a dry
+  martini, whisky straight and on the rocks, charging
+  the round to a room); and ordering sandwiches, burgers
+  and soft drinks for a family at a coffee bar. The
+  vocabulary work is exceptionally concrete: what goes
+  on a breakfast tray and on a tea trolley, dairy/bread/
+  beverage/breakfast categories, egg-cooking terms,
+  meat/fish/vegetable/fruit sorting, drink categories
+  (spirits, fortified wines, liqueurs, mixers) with a
+  large drink-name matching set, and correcting a
+  muddled room-service menu (English vs continental
+  breakfast). Language work revisits polite requests for
+  ordering (*I'd like…, I'll have…*) and polite offers
+  (*Would you like…?, Shall I…?, What can I get you?*).
+  Listening: completing heard drink and food orders.
+- **Unit 10 — At the Restaurant (1) (printed
+  pp.167–184).** Three dialogues: taking a telephone
+  table reservation (party of four, vegetarians noted)
+  and seating the party on arrival, including moving a
+  guest from a draughty table; ordering aperitifs, with
+  table d'hôte vs à la carte, the wine list and wine
+  service vocabulary (bouquet, cork and corkscrew, ice
+  bucket, room temperature); and ordering starters and
+  fish, with the waiter explaining an unfamiliar dish.
+  Sorting work covers quantities (*a pinch of, a clove
+  of, a loaf of…*), fish into shellfish, salt-water and
+  fresh-water, herbs vs spices, and assembling a full
+  à la carte menu from scattered items. A substantial
+  strand distinguishes cooking methods (bake, grill/
+  broil, roast, boil, stew, braise, fry, simmer, steam,
+  poach, sauté, toast) by heat, liquid and speed.
+  Language work: expressing preference (*prefer,
+  I'd prefer, I'd rather*, and asking *Would you
+  rather/prefer…?*), countable and uncountable nouns,
+  and *a/an* vs *the*. The unit closes with a short
+  cultural reading on the Greek toast “To your health!”
+  and its ancient greeting behind it (printed p.184).
+- **Unit 11 — At the Restaurant (2) (printed
+  pp.185–204).** Four dialogues completing a meal:
+  ordering the main course, in which the waiter
+  recommends dishes and describes a local speciality
+  made of layered minced meat, aubergines and courgettes
+  with a béchamel topping, and salads are ordered with
+  and without dressing; ordering wine with the meal
+  (a fruity, medium-dry white to start, a full-bodied
+  house red in a carafe for the main course, still not
+  fizzy mineral water), with a food-and-wine matching
+  table; ordering dessert and coffee, including being
+  told a requested tart is unavailable and accepting a
+  substitute; and asking for the bill, querying an item
+  on it, and signing for it to a room account with a
+  service percentage added. Skills strands: laying a
+  table (placing cutlery, glasses and table items),
+  correcting a mis-sorted à la carte menu, and the
+  container/content distinction (*a glass of wine* vs
+  *a wine glass*, and its parallels). Language work:
+  recommending (*I can/could recommend…, May I suggest…,
+  Why don't you try…?*), describing dishes (*It consists
+  of…, It contains…, It is made from/with/by…*), and
+  comparative and superlative forms again, now for food
+  and drink. Listening: three ordering dialogues to
+  transcribe as orders.
+- **Unit 12 — Responding to Complaints (printed
+  pp.205–220).** A single unfolding restaurant dialogue
+  generates a chain of complaints: a first-choice dish
+  has run out, the wait is long, a steak ordered rare
+  arrives overdone, tough and stringy, a glass has a
+  grease spot, the bill is slow to arrive because the
+  restaurant is short-staffed, and the bill itself
+  contains a wrong figure; each time the waiter
+  apologises, explains and promises a remedy (change
+  the dish, bring another glass, correct the amount).
+  Learners build a complaint grid (cause, apology,
+  explanation, promised action), match foods to the
+  faults they can have (stale, cracked, flat, sour,
+  underdone, burnt, badly stained and so on), and role
+  play a full meal from aperitif to bill in which a
+  complaint must be handled mid-service. Language work:
+  *some/any* and their compounds, *quite* vs *rather*,
+  and *enough/too* with adjectives and nouns. Listening:
+  responding appropriately to heard guest remarks.
+- **Unit 13 — Understanding and Giving Instructions (1)
+  (printed pp.221–236).** A recipe unit. The central
+  text is a complete recipe for stuffed vine leaves
+  (quantities, herbs and method: washing, scalding,
+  sautéing, stuffing, folding, layering in a saucepan,
+  cooking and serving cold), worked through for its
+  instruction verbs and sequencing; the same treatment
+  is then applied to a lamb fricassee with egg-and-lemon
+  sauce and to spaghetti with cream, whose steps learners
+  must put in the right order. Kitchen vocabulary:
+  utensils pictured and defined (stockpot, casserole,
+  frying pan, deep fryer, tart dish, soufflé dish,
+  baking tin, kettle, saucepan) and food-preparation
+  verbs matched to definitions (parboil, strain, slice,
+  beat, stir, season and others). Language work: the
+  imperative as the instruction form, and expressing
+  quantities (*much/many, a lot of/plenty of, a little/
+  a bit, a few, little/few*) with the affirmative/
+  negative/question distribution table. Listening: a
+  chef instructing trainees in making crêpes suzettes.
+- **Unit 14 — Understanding and Giving Instructions (2)
+  (printed pp.237–248).** The second recipe unit is
+  built on a complete tea-cakes recipe (strong flour,
+  yeast, caster sugar, mixed peel and currants, warm
+  semi-skimmed milk; sieving, rubbing in, kneading,
+  rising, shaping, proving, glazing, baking and testing
+  by tapping the base), printed in two jumbled columns
+  that learners must re-sequence. Vocabulary work mines
+  both the ingredient list and the method for synonyms
+  and definitions (pinch, sieve, knuckles, hollow, handy
+  tip and more), names pictured utensils (whisk, grater,
+  ladle, rolling pin, sieve, colander, chopping board),
+  sorts spices from herbs, and practises kitchen phrasal
+  verbs (*fold in, clear away, tidy up, put away, wash
+  up*). Writing: putting the tea-making steps in order
+  and then writing them as a connected paragraph with
+  linking devices (*First, then, next, finally…*).
+  Listening: a chef explaining lamb with lemon sauce,
+  and a dictated pork-chops-in-wine recipe to complete
+  with preparation verbs.
+- **Unit 15 — Revision (printed pp.249–252).** The
+  first revision unit: no new dialogue or reading. Two
+  long tables collect the language functions of Units
+  9–14 with their exponents — answering the phone,
+  taking a reservation, refusing one, seating guests,
+  offering the menu and wine list, taking orders,
+  describing dishes, offering alternatives, expressing
+  and asking about preferences, recommending, checking
+  satisfaction, making offers and polite requests,
+  responding to complaints and to praise, making
+  comparisons, identifying equipment, and talking about
+  cooking methods and food preparation. Printed p.252
+  is blank.
+
+
+### Section C — Tourist Services
+
+- **Unit 16 — Package Tours (printed pp.255–268).** The
+  section's one expository text explains the travel
+  trade: what travel agents sell (domestic and
+  international tickets, accommodation, cruises, car
+  hire and package holidays), that agents work on a
+  commission of usually around 10%, what a package tour
+  bundles (transport, accommodation, meals,
+  entertainment and a guide), and what tour operators do
+  — publish illustrated brochures, buy rooms and seats
+  in advance and in bulk to obtain lower prices, and
+  charter flights for groups with the same destination,
+  flights which are cheaper than scheduled flights but
+  can be cancelled if undersold, whereas a scheduled
+  flight must run regardless. Exercises test the text,
+  build verb–noun collocations of the trade, and convert
+  active sentences to the passive, which is the unit's
+  grammar alongside question formation (object questions
+  with auxiliary + subject + infinitive, subject
+  questions without one). Guided dialogue: reserving two
+  seats on a domestic flight (class, departure and
+  arrival times, fares, half-fare age limit, issuing
+  tickets the next day). Writing: an 80-word paragraph
+  on how people benefit from travelling, with linking
+  words. Listening: two telephone calls (a collect call
+  and a city call) whose numbers, names and towns must
+  be noted.
+- **Unit 17 — Accommodation and Catering (printed
+  pp.269–278).** A short expository text defines its
+  two title concepts as core elements of tourism:
+  serviced accommodation (housekeeping provided; bed
+  and breakfast, half board and full board distinguished)
+  vs self-catering, how hotels have grown beyond a place
+  to eat and sleep into providers of restaurants, sports,
+  shops and entertainment, classification by facilities,
+  and the range of catering outlets from fast-food
+  restaurants to bars. Learners answer from the text,
+  form the questions to given answers, and complete a
+  contrast paragraph (self-catering vs serviced) from
+  prompts. A cloze-style set of fast-food quotations —
+  customers explaining that they are buying time as well
+  as food — practises guessing missing words. Language
+  work: asking *What is… like?* for descriptions of
+  places, weather, trips and stays, and parallel increase
+  again (*the more facilities…, the higher its class*).
+  Listening: completing a person's card from a dialogue.
+- **Unit 18 — Tourist Information (printed
+  pp.279–290).** Built on extracts from a tourist
+  brochure for Macedonia: an introduction to
+  Thessaloniki and Halkidiki, Thessaloniki as Greece's
+  second city (its university and trade fair, shopping,
+  old mansions, churches, museums and the White Tower,
+  and its annual events — the September International
+  Trade Fair, the Film Festival, specialist fairs and
+  the October Dimitria), and the Halkidiki peninsula
+  south-east of the city, including the Petralona cave.
+  Learners answer from the brochure, match descriptive
+  collocations, and prepare and give a talk on Rhodes
+  from structured notes (position, transport, weather,
+  new and old town, sights), then role play persuading a
+  visitor to stay longer. Language work: prepositions of
+  place in descriptive writing. Mediation work, flagged
+  in the contents: replacing Greek words inserted in an
+  English text about Corfu with their English
+  equivalents, and translating a Greek paragraph about
+  Ioannina into English. Fun Time: a general geography
+  quiz with a printed score scale.
+- **Unit 19 — Itineraries and Tours (printed
+  pp.291–302).** A travel agent talks a couple staying
+  in Thessaloniki through a full-day tour of Central
+  Macedonia: departure in the morning, Pella and its
+  archaeological museum, lunch, Vergina with a guided
+  tour of the ancient palace and royal tombs, then Veria
+  with free time, an optional dinner and return;
+  learners reconstruct the timed itinerary from the
+  dialogue. Role play: a hall porter advising on Athens
+  (Lycabettus by funicular, the Acropolis and museums),
+  recommending a half-day guided tour and answering
+  questions on duration, lunch stop, price and ticket
+  collection. A second printed itinerary is a one-day
+  cruise (Aegina and the Temple of Aphaia, Poros, Hydra,
+  dinner on board, evening return) used for question
+  work. Language work: prepositions of time and place,
+  joining itinerary sentences with *after/before* +
+  gerund or noun, *then* + clause and *on arrival…*, and
+  telling the time in both 12-hour and 24-hour forms.
+  Listening: train times to Thebes and Livadia to
+  complete a timetable, and a Paris-to-London drive to
+  time leg by leg. Fun Time: a Greek geography quiz.
+- **Unit 20 — Revision (printed pp.303–308).** The
+  second revision unit: no new dialogue or reading.
+  Six pages of tables collect the language functions of
+  Units 1–8 and 16–19 with their exponents — greetings
+  and introductions; taking, confirming and refusing
+  reservations; registering guests and filling in forms;
+  giving information about hotels, places, prices,
+  trains and flights; presenting and explaining bills
+  and exchange rates; giving unwelcome information;
+  asking the way and giving directions in the hotel and
+  in town; invitations and arrangements; preferences;
+  talking and writing about tours and itineraries;
+  complaining to guests and handling guests' complaints
+  and problems; apologising, promising action, causative
+  arrangements, unperformed duties, future forms,
+  reported messages and comparisons; and a closing
+  “On the phone” set (answering, asking who is calling,
+  holding, connecting, taking a message).
+
+### Section D — Jobs in the Hotel and Restaurant Business and Business Correspondence
+
+- **Unit 21 — Hotel and Restaurant Personnel (printed
+  pp.311–324).** An expository text walks through the
+  staffing of a serviced hotel, front of house and
+  behind the scenes: the receptionist (welcoming,
+  registering, assigning rooms, holding messages and
+  mail with the keys in pigeonholes), the doorman and
+  porters under the hall porter (cars, taxis, luggage,
+  errands, tips), chambermaids with master keys, the
+  restaurant's head waiter/maître d'hôtel or hostess,
+  waiters and busboys, the head chef who plans meals and
+  supervises the cooks, room service, accountants and
+  the effect of computers on accounting, payroll, stock
+  control, personnel records, registration and billing,
+  laundry and valet staff, maintenance (plumbing,
+  engineering, painting, repairs, gardening) and the
+  personnel staff who recruit them; it closes on the
+  point that a pleasant stay depends on staff attitude
+  and skills, not numbers alone. Learners rank qualities
+  and skills for a receptionist, a cook and a head chef,
+  define jobs and terms (person + duties; group +
+  special characteristics), and complete male/female
+  noun pairs. Writing: an 80–100-word paragraph on the
+  job of a receptionist, and building an interview
+  dialogue from prompts. Listening: four people talking
+  about their jobs (duties, requirements, qualities,
+  salary, hours). Fun Time: jumbled work proverbs and
+  Greek–English job expressions.
+- **Unit 22 — Applying for a Job (printed
+  pp.325–344).** A documents unit. It opens with a job
+  advertisement (a receptionist for a 150-bedroom Athens
+  hotel: qualifications, experience, communication and
+  organisational skills, word processing, a further
+  language an advantage, salary and career development
+  offered), then prints a complete model application
+  letter for that post dated May 1995, the applicant's
+  curriculum vitae (personal information, education,
+  qualifications, languages, references, interests), a
+  line-by-line layout guide to an application letter,
+  and pages of formula phrases by paragraph (applying,
+  showing interest, experience, asking for an interview
+  and references). Also printed in full: a long
+  “Application for Employment” form (personal details,
+  schooling, languages, work experience, references,
+  health and legal questions, college honours).
+  Learners then work from further advertisements
+  (receptionist, reservations clerk, waiters), read a
+  rejection letter that keeps the applicant on file and
+  an invitation-to-interview letter, assemble favourable
+  and unfavourable replies from phrase halves, expand
+  abbreviated advertisement forms (*co, asst, clk, mngr,
+  enc, CV, bnfts* and similar), and replace Greek words
+  in an English passage about job hunting. Language
+  work: verb–noun–person–adjective word families, and
+  giving advice (*You should/ought to…, It would be a
+  good idea…*) on writing an application, a CV and
+  behaving at interview. Note: one printed model letter
+  in the exercise set is deliberately full of errors for
+  learners to correct; it is a teaching artefact, not a
+  model (see Honest negatives).
+- **Unit 23 — Letter Writing (printed pp.345–356).**
+  Business correspondence as a system: identifying the
+  parts of a business letter (sender's and receiver's
+  addresses, date, salutation, three-paragraph body,
+  complimentary close, signature) and assigning standard
+  sentences to them; putting address elements and dates
+  into correct formal order; reordering and correcting a
+  jumbled letter that changes a booking's dates because
+  of illness. Two period media are then taught in their
+  own right: the **telex** — its charging by transmission
+  time, its abbreviation code matched and expanded
+  (CFM, DBLB, SGLN, FB, HB, REYT, ASAP, PLS, REGDS and
+  others), a full telex reserving rooms read and
+  rewritten in full English, and telexes to compose from
+  1992 scenarios — and the **fax**, with a printed fax
+  transmission header and message (December 1995,
+  sending advertising proposals) to interrogate. The
+  unit closes with two pages of “useful language used in
+  business letters”, classified by purpose: asking for
+  information, replying, booking, asking for and giving
+  confirmation, refusing with an alternative, cancelling
+  or changing a booking, complaining and apologising.
+
+### Section E — Tourism
+
+- **Unit 24 — The Impact of Tourism on a Country
+  (printed pp.357–369).** The book's only discursive
+  essay unit, and its close. The text presents tourism
+  as the largest growth industry since the Second World
+  War, made mass-scale by air-transport development and
+  packaged travel; defines a tourist (away from home for
+  more than 24 hours, for leisure or business) against
+  the excursionist/day-tripper; distinguishes domestic
+  from international tourism; and then works through, in
+  turn, tourism's effect on a national economy (receipts,
+  foreign exchange, balance of payments), the need to
+  invest in infrastructure before tourists arrive and to
+  minimise “leakage” to imports, tourism promotion
+  (publications and advertising campaigns), the tourism
+  industry as the businesses supplying travel, transport,
+  accommodation and catering, employment creation and its
+  seasonality problem, environmental harm and its control
+  through planning and management, and tourism's social
+  effect — friction with a host population's language and
+  customs set against bridging gaps between nations —
+  ending with a forecast that longer paid holidays and
+  more disposable income will open currently excluded
+  areas. Learners map paragraphs to titles, complete a
+  beneficial/negative/government-action table, answer
+  fifteen questions, match the unit's technical terms to
+  definitions (origin, destination, infrastructure,
+  leakage, excursionist, tourist, tourism promotion,
+  tourism industry), and role play a budget enquiry about
+  Cephalonia from a printed fact table (ferry routes and
+  times, bed numbers, museums, events, sights, sports).
+  Language work: expressing purpose (*so that* + clause;
+  *so as to / in order to / to* + infinitive). Listening:
+  a talk on Greek tourism infrastructure (reasons for
+  visiting, highest and lowest bed numbers, most
+  developed area). Fun Time: a rhombus crossword on the
+  whole book's vocabulary.
+
+### Glossary (printed pp.373–412; PDF pp.374–413)
+
+An alphabetical English–Greek glossary, A to Z, one or
+two columns per page, giving part of speech and a Greek
+equivalent for each headword — the prologue's
+“approximately 2000 words defined in Greek”. It is a
+working tool for the whole book: several units send
+learners back to it (“Refer to the glossary section, if
+necessary”). It runs from the A entries on printed p.373
+to the final Z entries on printed p.412. Printed p.371
+is a “GLOSSARY” divider (PDF p.372), printed p.372 is
+blank (PDF p.373), printed pp.413–415 are blank
+(PDF pp.414–416), and printed p.416 (PDF p.417) is the
+legal notice that textbooks are printed by ITYE
+Diophantos under Law 3966/2011 and distributed free to
+public schools. PDF p.418 repeats the wraparound cover.
+
+### Citation check
+
+18 anchors, each a short fragment checked against the
+real PDF page named (printed page = PDF page − 1
+throughout). All 18 passed.
+
+1. Cover title “ENGLISH FOR THE HOTEL AND TOURIST
+   TRADE” with “Γ΄ ΕΠΑ.Λ.” — PDF p.1 (wraparound cover,
+   rendered and read visually).
+2. “Κωδικός βιβλίου: 0-24-0215 / ISBN
+   978-960-06-2987-3” — PDF p.1 (also PDF p.418).
+3. Prologue: “pre-intermediate - intermediate course”
+   and “May 1995” — printed p.7, PDF p.8.
+4. Unit 1 package price: “About 300 pounds” — printed
+   p.23, PDF p.24 (also rendered and read visually).
+5. Unit 2 terms: “a deposit of 300 pounds” (with the
+   balance due two weeks before arrival) — printed
+   p.38, PDF p.39.
+6. Unit 3 registration card: passport “K. 632489”,
+   date of issue 5th November 1991 — printed p.52,
+   PDF p.53.
+7. Unit 4 advertisement: “70 single and double rooms
+   and 7 two-bedroom luxury suites” — printed p.67,
+   PDF p.68.
+8. Unit 6 complaint: guest “just moved into room 401”
+   (air conditioning, blurred TV) — printed p.100,
+   PDF p.101.
+9. Unit 8 bill: guest “Wagner. Maria Wagner”, “room
+   313” — printed p.133, PDF p.134.
+10. Unit 9 breakfast order: “ham and a poached egg”,
+    changed to a soft-boiled egg — printed p.149,
+    PDF p.150.
+11. Unit 11 speciality: “moussaka. It consists of
+    layers of minced meat, aubergines and courgettes”
+    — printed p.185, PDF p.186.
+12. Unit 13 recipe heading: “Stuffed Vine Leaves /
+    5-6 servings”, with ½ kilo long-grain rice — printed
+    p.221, PDF p.222.
+13. Unit 14 recipe: “450g strong plain white flour” —
+    printed p.237, PDF p.238 (also rendered and read
+    visually).
+14. Unit 16 commission: agents get a percentage
+    “usually around 10%” — printed p.255, PDF p.256.
+15. Unit 19 tour: “We leave Thessaloniki at exactly
+    8.30 a.m.” for Pella, Vergina and Veria — printed
+    p.291, PDF p.292.
+16. Unit 21 reception: messages and mail “kept in
+    pigeonholes together with the keys” — printed p.311,
+    PDF p.312.
+17. Unit 22 model application: “10th May, 1995”,
+    Venus Hotel receptionist application — printed
+    p.326, PDF p.327.
+18. Unit 24 definition: tourists are persons away from
+    home “for more than 24 hours” — printed p.357,
+    PDF p.358.
+19. Glossary, first page: A entries beginning “a bit
+    of (n)” — printed p.373, PDF p.374.
+20. Glossary, last page: final entry “zucchini (AmE)
+    (n)” — printed p.412, PDF p.413.
+
+### Honest negatives
+
+- **No publication year is printed in this book.** The
+  imprint records only the Diophantos digital reissue;
+  the content's own date is the prologue's May 1995, and
+  its commission is dated 24-9-1991. Any year assigned
+  to this book from the PDF's 2021/2023/2026 production
+  stamps would be invented, not read.
+- **There is no answer key and there are no listening
+  transcripts in this student's book.** The prologue
+  assigns teaching notes, complete answers and listening
+  scripts to the teacher's book. Every Listening Activity
+  in this file therefore depends on audio/a teacher's
+  book that is not in the PDF; the listening content
+  above is described from the printed tasks, not heard.
+- **Units 15 and 20 are revision tables only.** They
+  contain no new dialogue, reading text or exercises —
+  only function/exponent lists for Units 9–14 and for
+  Units 1–8 + 16–19 respectively. The book's “22 units
+  plus 2 revision units” is exact: 24 numbered units,
+  of which 2 are revisions.
+- **The book is dated in its own terms, and unevenly
+  updated.** Its world is that of its 1995 origin:
+  traveller's cheques, cheque cards, telexes, Directory
+  Enquiries, switchboard calls and drachma exchange
+  rates are taught as current practice, and many prices
+  are in pounds or drachmas. Some later exercises use
+  euros instead (e.g. the Unit 3 weekend-plan role play
+  and several bill tasks in Units 8 and 11), so currencies
+  are mixed across the book as printed; neither layer has
+  been harmonised in this filing.
+- **Two internal inconsistencies stand as printed.**
+  (1) Unit 3's dialogue gives the substituted room as
+  Room 420 (printed p.51), but Exercise 2, question 2
+  (printed p.52) asks which room the receptionist
+  “replace[d] with room 410”. (2) In Unit 8's second
+  dialogue (printed p.134) the guest elects to pay cash
+  in dollars, and the receptionist replies that she will
+  work out the exchange rate and tell him the amount
+  “in French francs”. Both are reported here as printed,
+  not corrected.
+- **Spellings and slips in the source are reproduced,
+  not silently fixed,** e.g. “illustratetd brochures”
+  (Unit 16), “job opprtunities” (Unit 24), “paprica”
+  in spice lists, and the contents' “Replying to
+  enquires”. One Unit 22 model letter (printed p.337)
+  is deliberately printed with errors of layout, grammar
+  and spelling as a correction exercise.
+- **This is a speciality (vocational) book, not the
+  general Grade 12 English book.** It teaches no general
+  Lykeio syllabus: every text, dialogue and document is
+  hotel, restaurant, travel-agency or tourism-industry
+  English, and large parts assume the learner will work
+  at a reception desk, in a restaurant or in a travel
+  agency. Greek is used throughout for instructions in
+  puzzles, for the glossary, and in the two mediation
+  tasks; the book is not English-only.
+- **Blank and picture-only leaves are part of the file,**
+  not missing content: PDF pp.2–3, 9, 23 and 373 are
+  blank, numerous unit-final pages are photographs with
+  captions only, the Glossary divider stands on printed
+  p.371 with printed p.372 blank, and printed
+  pp.413–415 are blank before the legal notice on
+  printed p.416.
+
+**READ COMPLETE — Greece Grade 12 (EPAL), *English for
+the Hotel and Tourist Trade*, Student's Book (code
+24-0215, ISBN 978-960-06-2987-3): all 418 PDF pages
+worked through unit by unit (printed pp.1–416 plus the
+wraparound cover at PDF pp.1 and 418), including the
+prologue, both contents lists, Units 1–24 and the
+Glossary, printed pp.373–412. Filed 2026-11-03.**
+
+
+## Grade 12 (EPAL) — English for the Hotel and Tourist Trade, Teacher's Book (Notes and Key)
+
+**Real title as printed.** The cover (PDF p.1, rendered and read
+visually) reads “VOCATIONAL LANGUAGE LEARNING — ENGLISH FOR
+THE HOTEL AND TOURIST TRADE — TEACHER'S BOOK”, headed in Greek
+“ΤΕΕ 2ος ΚΥΚΛΟΣ” (TEE, 2nd cycle). The interior title page
+(PDF p.4) adds the subtitle the cover omits: **TEACHER'S BOOK —
+NOTES AND KEY**, and gives the sector in Greek as Τομέας
+Οικονομίας & Διοίκησης (Economics and Administration Sector),
+Τμήμα Ξενοδοχειακών Επιχειρήσεων (Hotel Businesses Department).
+
+### Identity block
+
+- **Identity verdict: MATCH on the book, MISMATCH on the
+  edition.** This is genuinely the teacher's book for
+  *English for the Hotel and Tourist Trade* — same title,
+  same working group, and its introduction and contents key
+  it unit-by-unit to the student's book (code 24-0215) that
+  was read before it. **But it is not the same edition as
+  that student's book file.** The student's book held here
+  is the modern ITYE “Diophantos” digital reissue (relabelled
+  Γ΄ ΕΠΑ.Λ.); **this file is a scan of the original OEDB
+  printing** — dot-matrix typewriter type throughout, the
+  old ministry name (Υπουργείο Εθνικής Παιδείας και
+  Θρησκευμάτων, Ministry of National Education and
+  Religions), the Pedagogical Institute's TEE department,
+  and the publisher Οργανισμός Εκδόσεως Διδακτικών Βιβλίων
+  (OEDB), Athens, whose owl logo stands on the back cover.
+  Nothing in or on this book mentions Diophantos, ITYE,
+  ebooks.edu.gr or EPAL: its own system label is **TEE,
+  2nd cycle** — the predecessor system whose Grade 12 year
+  the modern record files as Γ΄ ΕΠΑ.Λ.
+- **Publisher:** Οργανισμός Εκδόσεως Διδακτικών Βιβλίων
+  (OEDB — Organisation for the Publication of Textbooks),
+  Athens, for the Ministry of National Education and
+  Religions and the Pedagogical Institute (Τμήμα Τ.Ε.Ε.).
+  Greek preliminary pages state the standard rule that
+  Greek textbooks are printed by OEDB and distributed free
+  by government decision (PDF pp.3 and 5).
+- **Authors / working group (printed p.4, PDF p.5, rendered
+  and read visually):** the book is credited to the Ομάδα
+  Εργασίας Αγγλικών Ειδικότητας (Working Group for
+  Speciality English): coordination/supervision Angeliki
+  Diamantidou (school adviser for English, MEd); Paraskevi
+  Ntasiou (Π.Ε. 6), Aliki Panaretou (Π.Ε. 6), Charikleia
+  Papakanderaki (Π.Ε. 3). Cover by Giorgos Akritas. The
+  writing was commissioned under ministerial decision
+  Φ.910.28/Η 5073/24-9-1991, on a proposal of the
+  Pedagogical Institute's TEE department — the same
+  commission the student's book records.
+- **Year — honest:** **no publication year is printed on
+  the cover, title page or imprint of this book.** The
+  only date printed anywhere in it is on the final
+  colophon leaf (PDF p.209, rendered and read visually):
+  “ΕΚΔΟΣΗ: 2009 — ΑΝΤΙΤΥΠΑ: 1.000 — ΑΡ. ΣΥΜΒΑΣΗΣ: 10266”
+  (edition/printing 2009, print run 1,000 copies, contract
+  no. 10266), printed by Ioannis Kousoulis, bound by
+  Georgios Koukias & Co. So the copy scanned here is a
+  **2009 print run** of the original edition; the content
+  itself belongs to the mid-1990s (the companion student's
+  book's prologue is dated May 1995, model letters here
+  are dated 1992 and 1995, and the introduction's
+  methodology bibliography ends with 1991 titles). The
+  PDF's own file stamps (created 1 July 2014, Adobe
+  Acrobat 10.1.2 image conversion) are the scan's, not
+  the book's.
+- **ISBN / code:** the book's own ISBN, printed on the
+  back cover (PDF p.210), is **960-06-0556-4** (old
+  10-digit form). **No book code is printed anywhere in
+  or on this book** — there is no “Κωδικός βιβλίου” panel
+  of the kind the Diophantos reissue carries. The code
+  **24-0216** in the library record is the ministry
+  platform's file code for this scan, not a number the
+  book itself bears; it is recorded here as the record's
+  code, not as a printed identifier.
+- **PDF pages:** **210** (pdfinfo: 210 pages, 29,755,283
+  bytes, PDF 1.6). The file is a **scanned-image PDF with
+  no text layer** — each page is a single 150 ppi
+  JPEG2000 image — so this read was made from rendered
+  pages (OCR of the English text plus direct visual
+  reading of the cover, title, imprint, colophon, back
+  cover and every page where a number mattered).
+- **Printed = PDF offset:** **PDF page = printed page + 1**
+  for every foliated page. Evidence: the working-group
+  page is printed 4 on PDF p.5; the “To the teacher”
+  introduction opens on printed p.20 = PDF p.21; Unit 1's
+  key opens on printed p.29 = PDF p.30; Unit 8's key table
+  is printed 91 on PDF p.92; Unit 24's key opens on printed
+  p.198 = PDF p.199; the last foliated page is printed
+  p.205 = PDF p.206. PDF p.1 is the front cover, PDF p.210
+  the back cover, PDF pp.207–208 are blank, and PDF p.209
+  is the unfoliated printer's colophon. All page
+  references below are **printed pages**, with PDF pages
+  given where a citation needs them.
+- **What the book is (introduction, printed p.20):** the
+  teacher's companion to the student's book, in the
+  introduction's own summary a “teacher's key which
+  contains answers to all the questions and scripts of
+  the listening activities as well as suggestions for
+  functional language to use in the role plays”. That
+  description is accurate for what follows it (see below).
+
+### Front matter — contents and “To the teacher” (printed pp.5–27)
+
+- **Thematic Sections list (printed p.5)** and a full
+  **Table of Contents (printed pp.6–19)** repeat the
+  student's book's functions/structures map and give the
+  key's own pagination: Section A key pp.28–99, Section B
+  pp.100–150, Section C pp.151–174, Section D pp.175–196,
+  Section E pp.197–205. In the list, **Units 15 and 20
+  (the two Revision units) are given no page number** —
+  the first sign, borne out by the whole read, that the
+  key contains nothing for them.
+- **“To the teacher” (printed pp.20–27)** is the book's
+  only extended method writing, and it is the student's
+  book's prologue rewritten and enlarged for teachers. It
+  presents the course (for students of the technical
+  vocational schools taking hotel and tourist courses, and
+  for trainee and working hotel and restaurant staff):
+  22 units plus 2 revision units in 5 thematic sections,
+  about 90 hours of material, each unit planned for four
+  to five lessons. It lists the course's components,
+  states the **overall aims** (reading the documents of
+  tourism; communicating competently at work; the
+  vocabulary of English as used in tourism; reviewing the
+  grammar functions and structures of guest-facing
+  communication), and gives an essay of **hints about
+  ESP** arguing that ESP is an approach based on learners'
+  needs rather than a separate methodology, and that a
+  language teacher short on specialist knowledge may call
+  on subject specialists but is still teaching language.
+  A **teaching procedure** section then walks through a
+  sample lesson in four stages — lead-in (predicting from
+  the title, pre-teaching only key words), presentation,
+  practice (controlled work on the unit's vocabulary set
+  and on functions/structures, with long catalogues of the
+  exercise types used for vocabulary, language practice
+  and comprehension, and the rule that learners must
+  justify comprehension answers from the text), and
+  production (pair role play and oral work for fluency) —
+  plus a short listening note. It closes with a
+  **numbered bibliography of 18 methodology books**
+  (printed pp.26–27: Harmer, Willis, Grellet, Williams,
+  Kennedy & Bolitho, Hutchinson & Waters, Robinson,
+  Mackay & Mountford, Swales, Brumfit, Stern, Grant,
+  Pincas, Hedge, McCarthy, Candlin and two Greek OEDB
+  items, dated 1980–1991). **After this introduction the
+  book contains no further method writing**: the unit keys
+  that follow are answers, model texts and scripts only,
+  with no per-unit teaching notes, timings or alternatives
+  — the “Notes” of the subtitle is this introduction.
+
+### The key, section by section
+
+The pattern is uniform and is stated once here: for every
+teaching unit the key follows the student's book
+exercise-by-exercise in order and gives, in the student's
+book's own exercise numbering, the answers (single words,
+letters, true/false with corrections, completed tables and
+grids), **“Suggested answers”** wherever the student's task
+is open (questions to ask, phrases to use, dialogues and
+letters written out in full as models), the **Fun Time
+solutions**, and — the material the student's book's
+prologue promised would be here — the **complete printed
+script of every Listening Activity**, usually with the
+completed task the script feeds. Listening scripts are
+present for **every** unit that has a listening activity
+in the student's book: Units 1–14, 16, 17, 19, 21 and
+24. (Units 18, 22 and 23 have no listening activity in
+either book, and the Revision Units 15 and 20 have no
+key at all — see Honest negatives.) Nothing below transcribes
+answers or scripts wholesale; each script is identified by
+its subject so its presence and coverage can be checked.
+
+#### Section A — Hotel Services (key printed pp.28–99)
+
+- **Unit 1 — Making Enquiries (pp.29–35).** Answers to the
+  Benson enquiry dialogue exercises, the completed model
+  enquiry letter (Benson to the Diana Travel Agency,
+  15 April 1995) and the agency's reply enclosing the
+  brochure, suggested polite-request dialogues, and the
+  listening script: **eight short dialogues** (paying a
+  bill, a hotel welcome, asking for a room, ordering a
+  meal, a lateness reprimand, asking the way, buying a
+  raincoat, buying traveller's cheques) with the key's own
+  location/speaker/topic table.
+- **Unit 2 — Making Reservations (pp.36–43).** Telephone
+  language and phrasal-verb keys, the completed reservation
+  letter to the Athenian Hotel and the hotel's confirmation
+  (deposit of £300 received; balance due of £700), and the
+  listening script: **six Directory Enquiries calls** for
+  dialling codes (Loutraki, Saronis, Xylocastro, Barcelona,
+  Oslo, Geneva) with the code list.
+- **Unit 3 — Checking In (pp.44–53).** The Bensons'
+  completed registration details (rooms 408 and 420),
+  nationality/language/currency tables, reported-speech and
+  future-forms keys, and the listening script: **a full
+  receptionist–client registration dialogue** (a Canadian
+  guest, Thomas Marlay) with the registration form
+  completed from it — a different form from the one
+  printed as an exercise in the student's book.
+- **Unit 4 — Hotel Facilities (1) (pp.54–61).** The
+  Athenian Hotel advertisement reduced to a completed
+  fact table (77 rooms in all), star-rating and board-basis
+  keys, two model hotel-description writing answers in
+  full, and the listening script: **a briefing on the
+  fictional Crown Hotel** (3-star, built 1982, 80 rooms,
+  rates in pounds) with its information table completed.
+- **Unit 5 — Hotel Facilities (2) (pp.62–72).** The
+  client-to-hotel matching answered (the businessman and
+  the lecturer to the Hermes Hotel, the family of six to
+  the Halkidiki Holiday Centre, the young couple to
+  Electra's Hotel), suggested sales dialogues for each
+  match in full, invitation/advice language keys, and the
+  listening script: **Mrs Spyrou's conference-equipment
+  enquiry** (a 70-person seminar, an auditorium seating
+  120, simultaneous interpretation into up to four
+  languages) with the equipment tick-lists answered.
+- **Unit 6 — Dealing with Complaints (pp.73–80).** The
+  complaint grid completed for both dialogues (cause,
+  apology phrase, promised action — including the second
+  guest's hot room, blurred TV, missing soap and coat
+  hangers), suggested apology-and-action answers for the
+  role-play faults, *should have* and causative keys, two
+  fully written overbooking role plays, the model complaint
+  and reply letters, and the listening key: **eight heard
+  complaint calls matched to room numbers and causes**.
+- **Unit 7 — Giving Directions and Information
+  (pp.81–90).** A completed table of the six guests'
+  requests and the information or service given, full
+  suggested direction answers for the hotel plan, the town
+  map and the street map (street names and turnings
+  spelled out), unpleasant-information and reported-message
+  keys, and the listening script: **a spoken description
+  of where the hotel's offices and departments are**,
+  with the hotel floor plan completed from it.
+- **Unit 8 — Checking Out and Methods of Payment
+  (pp.91–99).** The two dialogues reduced to a completed
+  table (Maria Wagner, room 313, traveller's cheque;
+  Feliciani, room 401, personal cheque without a banker's
+  card refused, cash in French francs), cheque/credit-card
+  checking rules, numbers read aloud in full, exchange-rate
+  exercise keys, the VAT/service/currency Fun Time worked
+  answers, and the listening script: **the talk on Crete**
+  (area, population, towns, mountains, rainfall, products)
+  with its fact table completed and a table of 1985
+  tourist arrivals by nationality.
+
+#### Section B — Food and Beverage Service (key printed pp.100–150)
+
+- **Unit 9 — Taking Orders (pp.101–110).** Keyed dialogue
+  by dialogue as the student's book splits it: breakfast
+  tray and tea trolley contents, food-category sorting
+  tables completed, a corrected room-service menu, drink
+  categories with the liqueur/cocktail/mixer table
+  completed, suggested ordering exchanges, and the
+  listening key: **a list of heard food and drink orders**
+  to transcribe.
+- **Unit 10 — At the Restaurant (1) (pp.111–121).**
+  Reservation and seating details (party of four, 9 p.m.,
+  name Mason), model reservation and seating dialogues,
+  wine-service vocabulary, quantity phrases, the
+  fish/herb/spice and cooking-method sorting keys,
+  preference/article keys, and the listening key: **seven
+  heard orders** (starters, mains, drinks and desserts)
+  printed for transcription.
+- **Unit 11 — At the Restaurant (2) (pp.122–132).** The
+  table-laying key (position of every item), the corrected
+  à la carte menu sorted into courses, the wine-with-food
+  matching table completed (which of white, rosé, red,
+  dessert wine, liqueur and aperitif goes with each
+  course), dish-description keys (each Greek or classic
+  dish identified from its description), and the listening
+  scripts: **three ordering dialogues** written out for
+  transcription as orders.
+- **Unit 12 — Responding to Complaints (pp.133–140).** The
+  complaint grid completed in full (the run-out dish, the
+  half-hour wait, the rare steak that arrived overdone,
+  tough and stringy, the greasy glass, the short-staffed
+  delay, the wrong bill figure — each with apology,
+  explanation and promised action), the food-fault matching
+  key, a full-meal suggested role play with a complaint
+  handled mid-service, and the listening key: **fourteen
+  heard guest remarks with a suggested response to each**.
+- **Unit 13 — Understanding and Giving Instructions (1)
+  (pp.141–145).** The stuffed-vine-leaves method put in
+  order step by step, the spaghetti and lamb-fricassee
+  sequence keys, utensil and preparation-verb definitions
+  answered, quantity keys, and the listening script: **the
+  chef's crêpes suzettes instructions** in their correct
+  order, with ingredients/utensils lists and the picture
+  order.
+- **Unit 14 — Understanding and Giving Instructions (2)
+  (pp.146–150).** The tea-cakes method re-sequenced step
+  by step, vocabulary and utensil keys, the tea-making
+  steps ordered and then written as the model connected
+  paragraph, and the listening scripts: **a chef explaining
+  lamb with lemon sauce** (with its ingredient table) and
+  **the dictated pork-chops-in-wine preparation verbs**.
+- **Unit 15 — Revision: NO KEY.** The key passes straight
+  from Unit 14 (ending printed p.150) to the Section C
+  divider (printed p.151). The student's revision tables
+  need no answers, and none are given.
+
+#### Section C — Tourist Services (key printed pp.151–174)
+
+- **Unit 16 — Package Tours (pp.152–158).** Full sentence
+  answers on the travel-trade text (agents' commission
+  “usually around 10%”, what a package bundles, charter
+  vs scheduled flights), passive-voice and question-form
+  keys, a suggested flight-reservation dialogue (two seats
+  to Hania), and the listening scripts: **two operator
+  telephone calls** (a collect call to Patra and a call to
+  Paris) with the names/numbers table completed.
+- **Unit 17 — Accommodation and Catering (pp.159–163).**
+  Answers defining serviced vs self-catering and half vs
+  full board from the text, the fast-food quotation cloze
+  completed (customers buying time as well as food),
+  parallel-increase keys, and the listening script: **an
+  identity-card interview dialogue** (Peter Allen) from
+  which the card is completed.
+- **Unit 18 — Tourist Information (pp.164–168).** Answers
+  from the Macedonia brochure (Thessaloniki, Halkidiki,
+  the Petralona cave and its 1960 skull find), descriptive
+  adjective banks, a model opening for the Rhodes talk,
+  preposition keys, the mediation answers (Greek words in
+  the Corfu text replaced; the Ioannina paragraph task),
+  and the geography-quiz key.
+- **Unit 19 — Itineraries and Tours (pp.169–174).** The
+  Central Macedonia tour reconstructed as a timed
+  itinerary (08.30 depart Thessaloniki — Pella — Vergina —
+  Veria — 20.00 return), a suggested Delphi day itinerary,
+  the hall-porter Athens role play written out (half-day
+  tour, 6,000 drachmas a person), time-telling keys, and
+  the listening scripts: **two train-times enquiry
+  dialogues** (Athens/Thebes to Livadia) with the timetable
+  completed, and **the Paris-to-London drive** recounted
+  leg by leg (about ten hours in all).
+- **Unit 20 — Revision: NO KEY.** Unit 19's key ends on
+  printed p.174 and the Section D divider follows on
+  printed p.175.
+
+#### Section D — Jobs and Business Correspondence (key printed pp.175–196)
+
+- **Unit 21 — Hotel and Restaurant Personnel
+  (pp.176–184).** Full answers on the staffing text
+  (front-of-house vs behind-the-scenes staff, each job's
+  duties, master keys, what computers changed), job
+  definitions answered in the key's own words (including
+  pigeonholes — the racks where messages, keys and mail
+  are kept), male/female noun pairs, a suggested
+  receptionist job paragraph and interview dialogue, and
+  the listening scripts: **four people describing their
+  jobs** (a gardener, a cook, a porter and a waiter) with
+  the duties/qualities/salary/hours table completed — the
+  salaries are in euros in these scripts. The Fun Time key
+  also gives the Greek–English job-expression list.
+- **Unit 22 — Applying for a Job (pp.185–191).** The Venus
+  Hotel advertisement questions answered, word-family
+  tables, salutation/complimentary-close pairings, and
+  three model letters in full: a personnel manager's
+  reference request about an applicant (20 May 1995), the
+  **invitation to interview** (1 June 1995; interview
+  Monday 12 June at 9 a.m.), and the applicant's acceptance
+  (5 June 1995) — plus favourable/unfavourable reply phrase
+  keys and the advertisement-abbreviation expansions.
+- **Unit 23 — Letter Writing (pp.192–196).** Letter-part
+  identification keys, address and date ordering, the
+  model changed-dates letter in full (P. Lambrou to the
+  Beauty Hotel, Canterbury, 24 May 1992 — the booking moved
+  because of illness), the telex exercises answered and
+  **two model telexes written out in full telex code**
+  (room reservations, 13 June 1992), the fax answers (the
+  fax to Mr Spyros Alexiou was sent **5 December 1992** at
+  10 a.m., carrying advertising-campaign proposals), and
+  the Fun Time hidden word.
+
+#### Section E — Tourism (key printed pp.197–205)
+
+- **Unit 24 — The Impact of Tourism on a Country
+  (pp.198–205).** The essay's paragraphs matched to their
+  titles, the beneficial/negative/government-action table
+  completed, all fifteen comprehension questions answered
+  (including the tourist/excursionist distinction — a
+  tourist is away from home for more than 24 hours), the
+  technical-term matching and purpose-structure keys, the
+  Cephalonia role-play information, the listening script:
+  **a talk on Greek tourism** (visitors from the end of the
+  19th century, about 6,000 hotels of all types, the
+  Aegean Islands holding the highest number of beds except
+  Crete, Thrace the lowest infrastructure index, Attica
+  the most developed area, over 200 organised camping
+  sites) with its answers, and the rhombus crossword
+  solution. Printed pp.206–207 are blank and PDF p.209
+  carries the printer's colophon (see Identity block).
+
+### Citation check
+
+20 anchors, each a short fragment checked against the
+real PDF page named (printed page = PDF page − 1
+throughout). Identity pages and every page where a
+number or date carries weight were also rendered and
+read visually, as marked. All 20 passed.
+
+1. Cover title “ENGLISH FOR THE HOTEL AND TOURIST
+   TRADE” with “TEACHER'S BOOK” and “ΤΕΕ 2ος ΚΥΚΛΟΣ” —
+   PDF p.1 (rendered and read visually).
+2. Title page “TEACHER'S BOOK / NOTES AND KEY” —
+   PDF p.4 (rendered and read visually).
+3. Back cover “ISBN 960-06-0556-4” with the OEDB owl —
+   PDF p.210 (rendered and read visually).
+4. Imprint commission “Φ.910.28/ Η 5073/ 24-9-1991” —
+   printed p.4, PDF p.5 (rendered and read visually).
+5. Colophon “ΕΚΔΟΣΗ: 2009”, “ΑΝΤΙΤΥΠΑ: 1.000”,
+   “ΑΡ. ΣΥΜΒΑΣΗΣ: 10266” — PDF p.209 (rendered and read
+   visually).
+6. Thematic list: Unit 1 key at page 29, Unit 24 at
+   page 198, Units 15 and 20 with no page — printed
+   p.5, PDF p.6.
+7. Introduction: “22 units plus 2 revision units” and
+   “approximately 90 hours” — printed p.20, PDF p.21.
+8. Introduction: the key “contains answers to all the
+   questions and scripts of the listening activities” —
+   printed p.20, PDF p.21.
+9. Unit 1 listening script: “three hundred euros in
+   fifteen euro cheques” — printed p.33, PDF p.34.
+10. Unit 2 confirmation letter: “balance due of 700
+    pounds” — printed p.42, PDF p.43.
+11. Unit 3 listening form: guest “Marlay”, room 108 —
+    printed p.52, PDF p.53.
+12. Unit 4 listening script: Crown Hotel “built in
+    1982”, “105 Falmer street” — printed pp.59–60,
+    PDF pp.60–61.
+13. Unit 6 complaint grid: second guest — TV picture
+    not clear, no soap, not enough coat hangers —
+    printed p.73, PDF p.74.
+14. Unit 8 key table: “Maria Wagner”, room 313;
+    Feliciani, room 401, “in cash, in French francs” —
+    printed p.91, PDF p.92 (rendered and read visually).
+15. Unit 12 complaint grid: steak asked rare, arrived
+    overdone, “stringy and tough” — printed p.133,
+    PDF p.134.
+16. Unit 13 listening key: crêpes suzettes picture
+    order “1,3,5,6,2,4” — printed p.145, PDF p.146.
+17. Unit 16 key: agents' commission “usually around
+    10%” — printed p.152, PDF p.153.
+18. Unit 19 key itinerary: “8.30: Depart Thessaloniki”
+    and “20.00: Arrive Thessaloniki” — printed p.169,
+    PDF p.170.
+19. Unit 22 key: interview “on Monday 12th June at
+    9 a.m.”, letter dated 1st June 1995 — printed
+    p.187, PDF p.188.
+20. Unit 23 key: fax “sent on 5th December 1992 at
+    10 a.m.” for Mr Spyros Alexiou — printed p.196,
+    PDF p.197 (rendered and read visually).
+
+### Honest negatives
+
+- **This teacher's book does NOT cover all 24 student
+  units.** It keys the 22 teaching units completely —
+  answers, model texts, Fun Time solutions and every
+  listening script — but it contains **nothing for
+  Revision Units 15 and 20**: the contents list gives
+  them no page, Unit 14's key runs straight into the
+  Section C divider, and Unit 19's key runs straight
+  into the Section D divider. The student's book's
+  prologue promise (“teaching notes, complete answers
+  and the listening scripts are in the teacher's book”)
+  is kept for the 22 units only.
+- **The “notes” are one introduction, not per-unit
+  notes.** All method guidance sits in printed pp.20–27
+  (aims, ESP hints, the four-stage procedure, the
+  bibliography). Inside the keys there are no teaching
+  notes at all — only answers, “Suggested answers” and
+  scripts, in the student's exercise order.
+- **It is not the Diophantos reissue and must not be
+  cited as if it were.** Publisher (OEDB, not ITYE
+  Diophantos), ministry name, system label (TEE 2nd
+  cycle, not Γ΄ ΕΠΑ.Λ.) and ISBN (960-06-0556-4, not the
+  student's 978-960-06-2987-3) are all the original
+  edition's. The library code 24-0216 appears nowhere in
+  the book. Library-side fix owed: the record for this
+  file should carry the OEDB edition and ISBN
+  960-06-0556-4 alongside the platform code.
+- **No publication year is printed in the book.** 2009
+  is a print-run year from the colophon, not a stated
+  publication year; the content's own dates are the 1991
+  commission and the 1992/1995 dates inside its model
+  documents. Any single “year” for this book beyond
+  “original edition, this copy printed 2009” would be
+  assembled, not read.
+- **Two small disagreements with the student's book as
+  filed stand as printed.** (1) Unit 23's fax: this key
+  dates it 5 December **1992**; the student's book
+  reissue's fax exercise was filed from a header dated
+  December **1995** — one of the two printings differs,
+  and this filing does not harmonise them. (2) Unit 3:
+  the key's Exercise 2 says the receptionist “replaced
+  room 315” (printed p.44, rendered and read visually),
+  a third room number alongside the student dialogue's
+  substituted room 420 and its exercise's 410 — an
+  original-edition slip inside the key itself. On the
+  point the student's filing flagged (Unit 8), the key
+  agrees with the student's book: Wagner is in room 313,
+  and the second guest pays cash in French francs.
+- **There is no glossary key and no test material.**
+  The student's book's English–Greek glossary is not
+  keyed (it needs none), and the book holds no tests,
+  no answer material for the revision tables, and no
+  audio — the listening scripts are print only.
+- **The scan is a typewriter typescript, and faint in
+  places.** The whole book is set in a dot-matrix
+  typewriter face (the original OEDB teacher's book was
+  produced as typescript, unlike the typeset student's
+  book); a few pages are lightly printed, and Greek
+  appears only in the preliminary pages and one Fun Time
+  list. Nothing was found illegible to the point of
+  changing a summary above, but single faint words in
+  answer lists may be misread in ways a typeset book
+  would not risk.
+
+**READ COMPLETE — Greece Grade 12 (EPAL record),
+*English for the Hotel and Tourist Trade*, Teacher's
+Book — Notes and Key (original OEDB edition; this copy
+printed 2009; ISBN 960-06-0556-4; platform code
+24-0216): all 210 PDF pages worked through (covers,
+contents, the “To the teacher” introduction printed
+pp.20–27, and the complete keys for Units 1–14, 16–19
+and 21–24, printed pp.29–205), including every
+listening-activity script; the absence of any key for
+Revision Units 15 and 20 verified from the contents
+list and from the section boundaries. Filed 2026-11-03.**
+
+
+## Grade 12 (EPAL) — Materials File (Φάκελος Υλικού — Αγγλικά), Applied Arts Sector
+
+**Source file:** `grade-12_gov_greece_epal_24-0619-01-V1.pdf` (58 PDF pages, 8.4 MB)
+**Reader note:** Read whole, page by page, from the PDF text layer, with the cover / title / imprint pages (PDF 1–6) and spot pages (PDF 12, 56, 57) also checked as rendered images. Summary below is in my own words; only very short fragments are quoted.
+
+---
+
+## 1. Identity block — as the book's own pages print it
+
+| Field | What the book itself says |
+|---|---|
+| Title as printed (cover) | ΑΓΓΛΙΚΑ — ΤΟΜΕΑΣ ΕΦΑΡΜΟΣΜΕΝΩΝ ΤΕΧΝΩΝ (“English — Applied Arts Sector”) |
+| Title as printed (title page, PDF 4) | ΦΑΚΕΛΟΣ ΥΛΙΚΟΥ (“Materials File / Folder”) — ΑΓΓΛΙΚΑ — Γ΄ ΕΠΑ.Λ. |
+| Level | Γ΄ ΕΠΑ.Λ. = 3rd year of the Greek vocational upper-secondary school (EPAL), i.e. Grade 12 |
+| Sector | Τομέας Εφαρμοσμένων Τεχνών (Applied Arts Sector) |
+| Specialties named on the title page (PDF 4) | Γραφικών Τεχνών (Graphic Arts); Σχεδιασμού–Διακόσμησης Εσωτερικών Χώρων (Interior Design–Decoration); Συντήρησης Έργων Τέχνης–Αποκατάστασης (Conservation of Works of Art – Restoration) |
+| Personal author | **None named.** No individual is credited as “author” on the cover, title page or credits page. It is a committee / institute product (see credits below). |
+| Credits (PDF 3) | Coordination: Παπαδημητρίου Ευαγγελία (Evangelia Papadimitriou), IEP Counsellor B′. Elaboration–reworking–content editing–philological editing: Νίκα Μαρία (Maria Nika), IEP Counsellor A′. Elaboration: external expert Παπαχρίστου Ευτυχία (Eftychia Papachristou), Coordinator of Educational Work for the English Language. Artistic editing: Maria Nika. Layout / graphic editing: Κομνηνού Δήμητρα (Dimitra Komninou), IEP staff. The credits page also names Γεράσιμος Κουζέλης (Gerasimos Kouzelis) as President of the Institute of Educational Policy — an office-holder, not an author. The book states it was produced unpaid, under the responsibility of the IEP Foreign Languages sub-unit, under IEP Board Acts 10/01-03-2018 and 12/15-03-2018. |
+| Publisher / issuing bodies | Ministry of Education, Religious Affairs and Sports (Υπουργείο Παιδείας, Θρησκευμάτων και Αθλητισμού) — Institute of Educational Policy (ΙΕΠ / IEP); publisher imprint: Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «ΔΙΟΦΑΝΤΟΣ» (Institute of Computer Technology and Publications “Diophantos”, ITYE) |
+| ISBN | 978-960-06-6088-3 (printed on the cover, PDF 1) |
+| Book code | Κωδικός Βιβλίου: 0-24-0619 (cover, PDF 1); barcode number (01) 000000 0 24 0619 0. The file name's “24-0619-01” matches this code. |
+| Year as printed | **No publication year is printed** on the cover, title page or credits page — I say this honestly rather than inferring one. Internal production timestamps in the page footers are not a printed publication date: the body files are dated 4/10/2019, the front-matter files 7/10/2019 and 15/5/2024, and the cover / legal files 26/10/2023. The PDF's own creation metadata is 4 Oct 2019. So the material was assembled in 2019 and the file was re-assembled / re-issued with updated front matter in 2023–2024, but the book itself carries no printed year. |
+
+**Identity verdict:** The library record is correct in substance. This really is the “Φάκελος Υλικού” (materials folder) for **English**, Grade 12 EPAL, Applied Arts sector, book code 0-24-0619. What the record does not say — and matters for the courses project — is that it is a narrow English-for-Specific-Purposes (ESP) folder containing only **two units, both about graphic design and typography**, not a general Grade 12 English course.
+
+---
+
+## 2. Extent and page offset
+
+- **58 PDF pages** in total.
+- PDF 1 is a single wide **cover spread** (back cover on the left, front cover on the right, in one sheet). PDF 58 is the **same cover spread repeated** — a duplicate, not new content.
+- Front matter (PDF 2–9) carries **no printed page numbers** (only small production-file numbers 1–8 in the footers).
+- The student body is foliated: **printed page = PDF page − 1**, throughout the body.
+  - Printed p. 9 (Unit 1 opener) = PDF 10; printed p. 29 (Unit 2 opener) = PDF 30; last foliated page, printed p. 54 = PDF 55.
+- PDF 56 is a **completely blank page** (production footer only, no folio, no content — verified as a rendered image).
+- PDF 57 is the Greek legal / distribution notice (Law 3966/2011, ITYE-Diophantos printing and free distribution to public schools, copyright warning), unfoliated.
+- So the usable book is: front matter PDF 2–9, body printed pp. 9–54 (PDF 10–55), legal page PDF 57, with PDF 1/58 the cover spread and PDF 56 blank.
+
+---
+
+## 3. Section-by-section summary (own words, with printed page references)
+
+### Front matter (PDF 1–9, unfoliated)
+
+- **Cover spread (PDF 1 = PDF 58):** magenta cover with a grid of multicoloured concentric squares; subject, sector, class, ministry / institute names, book code and ISBN as in §1 above.
+- **Half-title (PDF 2):** just the two title lines, “Φάκελος Υλικού” over “Αγγλικά”.
+- **Credits (PDF 3):** the production credits listed in §1, plus the note that the work was done unpaid within a 2018 IEP action to produce curricula and supplementary material for English in the General Lyceum and EPAL.
+- **Title page (PDF 4):** full title, class, the three specialties, sector, and the Diophantos imprint.
+- **Art divider (PDF 5):** a full-page abstract watercolour-type image, no text.
+- **Table of Contents (PDF 6, in English):** only two entries — 1. Graphic Design, p. 9; 2. Typographic Craft, p. 29.
+- **Image-credits note (PDF 7, in Greek):** states in Greek that the folder's illustrative material includes freely licensed images from pixabay.com and commons.wikimedia.org, with source / retrieval-date notes (last retrieval dated 04.09.2018 in the garbled text layer; the layout of this page scrambles the extracted text, but the sense is recoverable).
+- **Introductory note to teachers (PDF 8–9, in Greek, 2 pages):** explains, in Greek only, that the material teaches English in EPAL through the students' chosen vocational sector; that each unit works on understanding and producing spoken and written English through authentic texts and real communicative situations; that the authentic texts are deliberately **not** graded down to the learners' level, so the teacher should instead adapt the tasks (pre-reading questions, pre-teaching vocabulary, discussion in the mother tongue); that students are not expected to understand every word, but to build gist / specific-information skills — skimming, scanning, SQ3R, KWL, mind-maps and spidergrams are named — and that teachers should supplement and adapt the material to their class and link the classroom to the students' future profession.
+
+### Unit 1 — Graphic Design (printed pp. 9–28; PDF 10–29)
+
+- **Opener and pre-reading (pp. 9–11):** unit title page, then three discussion questions — what graphic design is, what arts and techniques it uses, what its common uses are — followed by a full-page picture collage (p. 11: film strip, e-reader on books, letterpress type, a March 1896 “The Black Cat” poster, web-page mock-ups) meant to prompt answers. The collage page has essentially no extractable text; its content is visual.
+- **Reading 1 — what graphic design is (p. 12, Activity 1):** a short adapted encyclopaedia text (source line: Britannica) defining the field in my paraphrase as choosing and arranging visual elements — type, images, symbols, colour — to carry a message to an audience; it also calls the field “visual communications”, stresses that designers combine other people's words and images into a whole, and lists common uses (corporate / editorial design, wayfinding, advertising, web design, packaging, signage). Activity 2 (p. 13) asks learners to match sentences from the text to the collage pictures as captions.
+- **Reading 2 — history of graphic design (pp. 14–15, Activity 3):** a second adapted text tracing the field from ancient manuscripts (China, Egypt, Greece named), through 15th-century printing, the late-19th-century emergence of the profession with industrialisation and job specialisation, art directors in agencies and publishing, the 1922 coining of the term by typographer William A. Dwiggins, 20th-century expansion into posters, book jackets, CD covers, stamps, TV / film titles and websites, the effect of film and television, and finally the personal computer, which let artists recolour, scale, rotate and rearrange images quickly; by the 21st century the profession is presented as global. Activity 4 (p. 16) is a note-taking table on influences, origins and century-by-century developments, with two rows pre-filled (1922 / Dwiggins; 21st century / global profession). Activity 5 (p. 17) is a group poster on the evolution and/or uses of graphic design.
+- **Vocabulary (pp. 18–19, Activities 6–7):** matching ten field words (illustration, logo, evolution, page layout, corporate design, signage, manipulate, manuscript, book jacket, rotate) to definitions; then a confusable-pairs cloze (graphic design / logo; packaging / labelling; wayfinding / environmental graphics; corporate designer / editorial designer).
+- **Grammar — the passive voice (pp. 20–23, Activities 8–11):** three passive sentences lifted from the unit's own readings open the section; learners infer when the passive is used and how it differs from the active. Reference tables (p. 21) give the formation (“to be + past participle”), active-to-passive transformation, omission of the agent, the informal “get” passive, passives with question words, and two-object verbs. Activity 9 (p. 22) works on newspaper headlines (shown as images) — why headlines use the passive, expanding them to full sentences and converting them to active. Activity 10 (p. 23) asks learners to notice passives in photographs of signs / instructions and write similar signs for their school. Activity 11 (pp. 23–24) is a passive-form cloze built out of job profiles — Creative Director, Art Director, Brand Identity Developer, Illustrator — adapted from the Wikipedia article on graphic design occupations, so the grammar practice doubles as careers information.
+- **Listening / viewing (p. 25, Activities 12–13):** learners watch a TED talk by designer Marian Bantjes (a transcript URL is printed) and answer questions about what she does, how her way of working changed six years earlier, what she is mainly interested in, and what the change produced; then, in groups, they collect examples of her work and present their reactions.
+- **Writing — a job-application letter (pp. 26–27, Activity 14):** learners reply to a graphic designer job advertisement (full-time, flexible hours, perks; requirements listed in the ad box) with a 140–180-word application letter, addresses omitted. A help page (p. 27) models the letter's structure: formal greetings (“Dear Mr Brown,” / “Dear Sir / Madam,”), an opening paragraph (post applied for, where the ad was seen), a main body (age, qualifications, experience, suitability), a closing paragraph (CV / reference enclosed, availability for interview) and formal sign-offs (“Yours sincerely,” / “Yours faithfully,”).
+- **Project and discussion (p. 28, Activities 15–16):** group work — list the specialisation areas within graphics and design and present them as a poster / slide presentation, optionally with a Venn diagram, or present the specialisation the group most wants, using a spidergram whose spokes are skills and personal characteristics, working conditions, job outlook, education and training, and responsibilities. Class discussion: freelance versus employed graphic designer, and what job opportunities exist in graphic design in Greece today.
+
+### Unit 2 — Typographic Craft (printed pp. 29–54; PDF 30–55)
+
+Note: the running header throughout this unit misprints the unit number as “1 Typographic Craft” instead of 2 (e.g. pp. 30, 32, 34 and onward).
+
+- **Opener and opening quiz (pp. 29–31, Activity 1):** unit title page, then a ten-item multiple-choice quiz, done in pairs and checked later against the unit's readings: typography is art, technique or both; whose work it is (typesetters, graphic designers, art directors — “all the above” offered); what a typographer does; typography's main objective; what good typography does to a reader's attention; its three fundamental aspects (legibility, clarity / readability, aesthetics among distractors); what case style relates to; how periodicals design publications today; the two main typeface categories (serif and sans serif); and whether all-caps text is harder or easier to read.
+- **Reading — what typography is (p. 32, Activity 2; true/false p. 33, Activity 3):** an adapted text (source lines: Wikipedia and Britannica) defining typography in paraphrase as the art and technique of arranging type so written language is legible, readable and appealing; it explains the vocabulary of the craft — typefaces, line length, line-spacing (leading), letter-spacing (tracking), kerning — states its main objective as effective communication for the reader's benefit, and notes that until the digital age it was a specialised occupation, now open to many kinds of practitioners (typesetters / compositors, typographers, graphic designers, art directors, comic-book and graffiti artists), who may also choose paper, ink, printing method and binding. Five true/false statements follow, including two terminology traps (line-spacing is *not* tracking; kerning *is* character-spacing adjustment).
+- **Case styles (pp. 34–35, Activities 4–5):** a reference table describes six case styles — all caps, start case, title case (capital case / headline style), German-style sentence case, sentence case, and all lowercase (noted as unconventional, used for artistic effect, in computer languages and in quick informal messaging). Learners identify the style of the same news headline about a British aid worker in Nigeria rewritten six ways, then read a short adapted text (source: Wikipedia, “Letter case”) on publishers' conventions — British publishers and US newspapers using sentence-style capitalisation in headlines but title case for publication titles — illustrated by a 1919 New York Times front page on Eddington's test of general relativity, and are asked to find the difference between a headline and a title online.
+- **Principles of the typographic craft (pp. 36–37, Activity 6; comprehension questions p. 38, Activity 7):** the unit's longest reading, adapted from Wikipedia. It sets out the three fundamentals — legibility (how easily single characters can be told apart, with examples such as “b” vs “h”), readability (how easily the text as a whole can be read — margins, spacing, structure) and aesthetics — and reports agreed legibility findings in paraphrase: lower case beats all caps; upright roman beats italic; contrast matters (black on yellow/cream and white on blue are called most effective); positive images (black on white) beat reversed ones for handheld material; the upper parts of letters (ascenders) do more recognition work than the lower parts; and decorative elements should be limited. A parallel list of layout principles follows (harmonising colours, at most two typefaces / three fonts per page, optimal leading, text leading the eye naturally, no widows and orphans, no headline stranded at a page foot, elements not scattered), and periodicals are contrasted: USA Today's bold, colourful modern style versus The New York Times' traditional, plainer one. Activity 7 is ten multiple-choice comprehension questions on this text; Activity 8 (p. 39) is a group poster of typography dos and don'ts, and Activity 9 (p. 39) a group investigation of whether case style affects readability and reading speed.
+- **Pangrams (p. 40, Activity 10):** the sentence “The quick brown fox jumps over the lazy dog” is shown in four different typefaces and explained as an English pangram — a sentence using every letter of the alphabet — used for typing practice, testing keyboards and showing fonts; learners are asked to find pangrams in English or their own language.
+- **Emphasis and typefaces (pp. 41–43, Activities 11–13):** an adapted text (source: Wikipedia, “Emphasis (typography)”) explaining emphasis as strengthening words by changing the font style — italics, oblique, boldface, small caps, serif vs sans-serif, plus case, spacing, colour and graphic marks; it then distinguishes typeface (a family of fonts sharing design features; each font has its own weight, style, width, slant etc.; each glyph is one letter, number or symbol) from font, notes special-purpose typefaces (maps, astrology, mathematics), names the craft “type design” and its practitioners type designers / font developers, and divides typefaces into serif and sans-serif, explaining that serifs are the small end-strokes on letters and that serif faces are *often considered* easier for long passages, though studies are described as ambiguous and familiarity may explain the effect. Activity 12 (p. 42) is eight written comprehension questions; Activity 13 (p. 43) six true/false statements.
+- **Vocabulary work (pp. 44–47, Activities 14–17):** a cloze on font styles and variants (emphasis that changes a text's “blackness” / typographic colour, italics and oblique as inconspicuous stressing, boldface for keywords, small caps, using a fifteen-word bank); matching ten terms (legibility, readability, typeface, kerning, typesetting, fonts, tracking, leading, serif, sans-serif) to definitions; sentence completion from an eight-word list (justification, serif, kerning, font, typeface, sans-serif, legibility, letter-spacing); and three confusable-pair exercises (sans-serif / serif; kerning / tracking; readability / legibility).
+- **Listening / viewing — Matthew Carter (pp. 48–49, Activities 18–20):** learners prepare for a TED talk by type designer Matthew Carter — named as the designer behind Verdana, Georgia and Bell Centennial — first guessing which of nine statements the talk does *not* raise (only eight belong; the odd one out concerns choosing a publisher), then ordering the topics as heard (TED URL printed, p. 48), then a seven-item true/false check on a second listening (technology changes across his career, the 18-unit spacing constraint of early digital type, designing tiny type for 1970s US phone books, working within constraints, and type design's function of being read).
+- **Grammar — comparisons (pp. 50–53; the introductory study task is unnumbered in the book and Activity 21 does not appear — numbering jumps from 20 to 22):** two bolded sentences from the unit's readings introduce comparative and superlative forms. Tables (pp. 50–51) give regular formation (-er / -est, more / most, spelling changes), irregular forms (good/well–better–best; bad/badly–worse–worst; much/many–more–most; little–less–least; far–farther/further–farthest/furthest) and comparison patterns (as…as, comparative-and-comparative, the comparative…the comparative, by far + superlative). Activity 23 (p. 52) is ten sentence completions recycling the unit's own content (e.g. comparing USA Today with The New York Times); Activity 24 (p. 53) is ten choose-the-right-item sentences, again all on typography content.
+- **Closing project (p. 54, Activity 25):** groups complete a flow chart from everything read in the unit — the art, techniques and elements of typography — and present it to the class.
+
+### Back matter (PDF 56–58)
+
+- PDF 56: blank page (see §2).
+- PDF 57: Greek legal notice — textbooks are printed by ITYE-Diophantos under Law 3966/2011 and distributed free to public schools; copies sold without the printed selling-price indication are treated as pirated; reproduction of any copyrighted part is forbidden without written permission of the Ministry / ITYE-Diophantos.
+- PDF 58: repeat of the cover spread (PDF 1).
+
+---
+
+## 4. How much of it is English, and how much Greek — honest account
+
+This is **mostly an English book with a Greek shell**, and the split is by function, not mixed within pages:
+
+- **All of the student-facing teaching content is in English.** The whole foliated body — printed pp. 9–54 (PDF 10–55), both units, every reading, instruction, exercise, grammar table and project — contains **no Greek at all**. A letter count on the extracted text of PDF 10–56 gives 33,468 Latin letters and **0 Greek letters**.
+- **The Table of Contents (PDF 6) is also in English.**
+- **Greek carries everything around the teaching content:** the cover and title pages (PDF 1–4), the image-credits note (PDF 7), the two-page introductory note **to teachers** (PDF 8–9 — the book's only teaching guidance, and it exists only in Greek), and the legal notice (PDF 57), plus the repeated cover (PDF 58).
+- By extracted letter count for the whole file, the text layer is roughly **85% Latin / 15% Greek characters** (33,998 vs 5,836), but that understates the position for a learner: a student working through the book meets Greek only on the cover and title pages, and English everywhere else. Conversely, a teacher who cannot read Greek gets **no** guidance from this book, because the introduction is Greek-only.
+- Small caveat: text set inside images (the p. 11 collage, the headline and sign photographs in Activities 9–10) is not in the text layer; what is visible there is English as well (poster and web-design imagery).
+- The English readings are openly **adapted from named English sources** — Britannica and Wikipedia articles and two TED talks (Marian Bantjes; Matthew Carter) — rather than original textbook prose; source lines are printed under the texts.
+
+**For LiqLearns purposes:** this file is a genuine, fully usable English source — two complete ESP units with readings, vocabulary, two grammar topics (passive voice; comparisons), listening links and a writing task — but it teaches English *through graphic design and typography only*. It contains no general-English topics, no material for the interior-design or conservation specialties its title page lists, and no Greek-to-English bridging material in the student pages.
+
+---
+
+## 5. Honest negatives
+
+- **No answer key** anywhere in the file — quizzes and true/false sets have no printed answers.
+- **No glossary, word list or appendix**; vocabulary is taught only inside the matching / cloze activities. No index, no bibliography beyond the source lines printed under individual texts, and no references section.
+- **Coverage does not match the title page:** the title page lists three specialties (Graphic Arts; Interior Design–Decoration; Conservation of Works of Art–Restoration), but both units serve essentially the Graphic Arts specialty only. There is no unit, reading or activity on interior design / decoration or on art conservation / restoration.
+- **No printed publication year** (see §1) and **no named author** — only production credits.
+- **Only two units / two topics** in 46 foliated body pages; this is a slim supplementary folder, not a full year's English course.
+- **Listening depends on the internet:** both listening activities are built around external TED talk URLs printed in the book; no audio, transcript or script is included in the file.
+- **Production flaws visible in the book itself:** Unit 2's running header misprints its number as “1 Typographic Craft”; the activity numbering in Unit 2 jumps from 20 to 22 (the Comparisons study task is unnumbered); Unit 1, Activity 15 prints the misspelling “specilisation”; PDF 56 is a blank page carried in the file; and the cover spread (PDF 1) is duplicated at the end (PDF 58).
+- **Image-dependent pages cannot be read from text alone:** printed p. 11 is a picture collage, and Activities 9–10 depend on photographs of headlines and signs.
+- The Greek image-credits page (PDF 7) has a scrambled text layer (columns interleaved in extraction); its content was recovered from sense, not clean text.
+- Nothing in the file is addressed to learners in Greek — no bilingual instructions, translations or Greek explanations of the English grammar.
+
+---
+
+## 6. Citation check — anchors verified against the real PDF pages
+
+Each anchor below was checked in the extracted page text for that exact PDF page, and the identity anchors (1–3) also against the rendered cover / credits / title pages. Page references give printed page first, then PDF page.
+
+| # | Anchor | Location | Status |
+|---|---|---|---|
+| 1 | Cover prints book code “0-24-0619” and “ISBN 978-960-06-6088-3” | Cover spread, PDF 1 (repeated PDF 58) | ✅ Verified (rendered image + text) |
+| 2 | Title page lists the three specialties — Graphic Arts; Interior Design–Decoration; Conservation of Works of Art–Restoration — under “Τομέας Εφαρμοσμένων Τεχνών”, class Γ΄ ΕΠΑ.Λ. | Title page, PDF 4 | ✅ Verified (rendered image + text) |
+| 3 | Credits page names Eftychia Papachristou as the external-expert elaborator and Maria Nika for elaboration / content and artistic editing | Credits, PDF 3 | ✅ Verified (rendered image + text) |
+| 4 | Table of Contents lists exactly two units: “1 Graphic Design … 9” and “2 Typographic Craft … 29” | PDF 6 (production p. 5) | ✅ Verified (rendered image + text) |
+| 5 | Greek introductory note opens by proposing the material for teaching English in EPAL (“για τη διδασκαλία της αγγλικής γλώσσας στο ΕΠΑ.Λ.”) | PDF 8 (production p. 7) | ✅ Verified |
+| 6 | Graphic Design reading (Activity 1) carries the source line “Adapted from http://www.britannica.com/art/graphic-design” | Printed p. 12 = PDF 13 | ✅ Verified |
+| 7 | History reading states that in 1922 typographer William A. Dwiggins used the term “graphic design” for the emerging field | Printed p. 14 = PDF 15 | ✅ Verified |
+| 8 | Activity 4 table pre-fills the 1922 row with the Dwiggins fact and the 21st-century row with graphic design becoming a global profession | Printed p. 16 = PDF 17 | ✅ Verified |
+| 9 | Passive-voice reference table gives the formation “to be + past participle of the main verb” | Printed p. 21 = PDF 22 | ✅ Verified |
+| 10 | Marian Bantjes TED activity prints the URL “http://www.ted.com/talks/marian_bantjes_intricate_beauty_by_design/transcript#t-154340” | Printed p. 25 = PDF 26 | ✅ Verified |
+| 11 | Activity 14 requires an application letter of “140-180 words” for a Graphic Designer post | Printed p. 26 = PDF 27 | ✅ Verified |
+| 12 | Case-styles table defines German-style sentence case as first word and all nouns capitalised | Printed p. 34 = PDF 35 | ✅ Verified |
+| 13 | Activity 10 presents “The quick brown fox jumps over the lazy dog” and explains it as an English-language pangram | Printed p. 40 = PDF 41 | ✅ Verified |
+| 14 | Activity 18 names Matthew Carter as the designer behind Verdana, Georgia and Bell Centennial, with his TED talk URL printed under Activity 19 | Printed p. 48 = PDF 49 | ✅ Verified |
+
+**Citation-check result: 14 / 14 anchors verified, 0 failed.**
+
+---
+
+*End of filing draft. Summary and paraphrases are original wording; quoted material is limited to short fragments (titles, the pangram sentence, grammar formulas, URLs, and one short Greek phrase) needed to identify the book and its contents.*
+
+
+## Link-only books — WAITING-FOR-FILE (19)
+
+These 19 recorded books are link-only: their exact source links
+are recorded in the library, but the files are not yet held, so
+they are NOT read here (waiting-for-file, not unread-by-choice).
+They enter this file when their files land.
+
+- **Grade 1** — Alpha English, Teacher's Guide (Βιβλίο
+  Εκπαιδευτικού). (The real G1 pupil's lesson book is also
+  still owed — the held G1 file is the Workpack, correction 1.)
+- **Grade 2** — Beta English, Teacher's Guide.
+- **Grade 3** — Magic Book 2: Student's Book, Teacher's Guide,
+  Workbook (the whole G3 set is link-only).
+- **Grade 4** — Αγγλικά, older edition: Student's Book,
+  Teacher's Guide, Workbook. (The held G4 set is the Revised
+  Edition pupil's book, read above.)
+- **Grade 5** — Αγγλικά, older edition: Student's Book,
+  Teacher's Guide, Workbook, plus the Student's Book Tomos 4.
+- **Grade 6** — Αγγλικά, older edition: Student's Book,
+  Teacher's Guide, Workbook, plus the Student's Book Tomos 2.
+- **Grade 12 (3 cross-reference rows, not separate books):**
+  Αγγλικά 2 student's book (= the Grades 11–12 volume read
+  under Grade 11); English for Office Clerks teacher's book
+  (= the Grade 11 file read above); Γενικά Αγγλικά B EPAL
+  student's book (= the Grade 11 file read above, which the
+  book itself titles for Grades 11 AND 12).
