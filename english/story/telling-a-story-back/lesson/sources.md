@@ -1,6 +1,6 @@
 # Sources — Telling a story back
 
-countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan
+countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece
 
 Every part traces to its book and page.
 
@@ -55,6 +55,18 @@ Semester 2 — Jordan, National Center for Curriculum
 Development (NCCD), Amman. Filed in english/books/jordan.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 12:** Greece Beta English, Grade 2: workpack —
+Greece, ITYE «Diophantos», for the Ministry of Education
+(ebooks.edu.gr). Filed in english/books/greece.md
+(Grade 2 — BETA ENGLISH section, FULLY READ + CITATION
+CHECK PASSED 2026-11-03).
+
+**Book 13:** Greece Αγγλικά (Anglika), Grade 5: student
+book — Greece, ITYE «Diophantos», for the Ministry of
+Education (ebooks.edu.gr). Filed in english/books/greece.md
+(Grade 5 — Αγγλικά (Anglika), Pupil's Book section, FULLY
+READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Retelling with a word box" as a set lesson form; the form repeated across the classes as "word-box cloze retelling" — the load-bearing words given, the sentences the learner's own | Bangladesh, English for Today (as filed) |
@@ -71,9 +83,12 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | Retelling a Story as a sequenced lesson in its own right: a story carried by a set of past-tense verbs, sequenced by the pupils and retold | Sierra Leone, Primary 5 Term 2, Lesson 106 (as filed) |
 | Retelling the story named as the unit's own function: the Our town story — the children discover their town had a river by the square 150 years ago — told back, with recommendations on it | Jordan, Grade 4 Pupil's Book, Semester 2, Unit 6 "Our town" (unit pp.18–27) |
 | Rewriting a familiar story set as the unit project — the known tale told again in the pupil's own version, in the unit whose Book Club reads the platypus folk tale | Jordan, Grade 6 Pupil's Book, Semester 2, Unit 8 "Awesome animals" (unit pp.42–51) |
+| A whole tale retold in gap form: the Pinocchio worksheet is a simplified retelling of the whole tale with picture gaps — the pupil cuts out the small pictures (raft, house, sea, school, wand, puppet, boat, Geppetto, whale, fire, fairy) and glues each into its gap, the story held in its order by its pictures; the tale ends told in the first person by Pinocchio ("I am a real boy") (this workpack has no printed folios, so its rows cite PDF pages) | Greece, Grade 2 Beta English Workpack, Cycle Δ, Δ05 "Pinocchio," PDF p.144 (story cards PDF pp.141–144) |
+| A retelling as the model inside the stories unit: an online chat retells a frightening practical joke, worked beside the listening about a family questioned after a gunshot nearby | Greece, Grade 5 Pupil's Book, Unit 8, Lesson 2, printed pp.102–105 |
+| The telling-back as the unit's test: the stories unit's self-assessment drills the two past tenses and retells the Golden Fish tale | Greece, Grade 5 Pupil's Book, Unit 8, Lesson 3, Self Assessment Test, printed pp.107–108 |
 
-**Acceptance count: taught in 7 countries (Bangladesh,
-Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan).** Bangladesh equips the retelling (word box,
+**Acceptance count: taught in 8 countries (Bangladesh,
+Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece).** Bangladesh equips the retelling (word box,
 first-person, comparison); Ghana frames it (chain, Herring
 Bone, sequence order); China equips it again (the fill-in
 retell, the phone retell, the sorted diary recount);
@@ -85,6 +100,11 @@ narration, group retelling from a printed script); Sierra
 Leone drills retelling with a focus on main points, then
 the plot back, then whole passages back; Jordan names
 retelling the story as a Grade 4 unit's function and
-sets rewriting a familiar story as a Grade 6 project.
+sets rewriting a familiar story as a Grade 6 project;
+Greece stocks the retelling in part — a picture-gap
+retelling of the whole Pinocchio tale at Grade 2, a chat
+retelling as a model and an assessment retelling of the
+Golden Fish tale at Grade 5 — but no Greece book names an
+own-words retelling lesson of its own.
 Other closed countries join as
 their books are read (see READING-QUEUE.md).

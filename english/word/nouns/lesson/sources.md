@@ -1,6 +1,6 @@
 # Sources — Nouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan
+countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece
 
 Every part traces to its book and page.
 
@@ -70,6 +70,12 @@ english/books/jordan.md (Grade 4 Pupil's Book Semester 1 section, FULLY READ + C
 **Book 13:** Jordan High Note, Grade 8: Student's Book, Semester 1 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
 english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 14:** Greece Αγγλικά (Anglika) Student's Book, Revised Edition, Grade 4: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 4 — Αγγλικά (Anglika), Student's Book, New Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 15:** Greece Αγγλικά (Anglika) Student's Book, Revised Edition, Grade 6: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 6 — Αγγλικά (Anglika), Student's Book, New Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 16:** Greece Think Teen! Advanced Student's Book, Grade 7: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Αγγλικά, Student's Book — Think Teen! 1st Grade of Junior High School, Student's Book (Προχωρημένοι) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition in its three-sort form: "Nouns — person, place, thing," taught with the "Life in the City" text (Karim) and sorting work | Egypt, Primary 2 Term 2, Unit 4, Lesson 3 "Language in Use," p.68 |
@@ -96,9 +102,12 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Irregular plurals and the -oes spelling taught inside the animal and food units — one mouse – two mice, one fish – two fish; tomato–tomatoes, potato–potatoes | Jordan, Grade 2 Pupil's Book Semester 2, Unit 5, pp.8–15; Unit 6, pp.16–23 |
 | Countable and uncountable nouns with there is/are and quantity — "There's a lot of salad and a little lemonade"; "Are there any apples?" — and the containers set that measures them (a bag/bottle/bowl/box/can/cup/glass/plate of) | Jordan, Grade 4 Pupil's Book Semester 1, Unit 2 "Picnic time!", pp.18–27 |
 | Countable and uncountable nouns again at secondary level, with some/any/no and the quantifier set — a lot of, too many, too much, a few, a little, not many, not much | Jordan, Grade 8 Student's Book Semester 1, Unit 3 "Eat in – eat out," pp.26–27, 30 |
+| Countable against uncountable nouns as the unit's grammar core — a/an and some, how many…? against how much…? — worked on party shopping, with the summary table in My Grammar Corner (9.1) | Greece, Αγγλικά Grade 4, Unit 9 "The School Party," Lesson 1, pp.105–109 |
+| Countable against uncountable nouns again at the top of primary: the COUNTABLE / UNCOUNTABLE NOUNS box with some / any, how much, how many, containers and weights, and few / a few, little / a little beside it | Greece, Αγγλικά Grade 6, Unit 2 "Going shopping," pp.16, 20 |
+| Countable and uncountable nouns with the quantifier set — many/much, a few/a little, a lot of, any — inside the food lesson | Greece, Think Teen! Grade 7 Advanced, Unit 3, Lesson 1 "Food for thought!," p.28 |
 
-**Acceptance count: taught in 10 countries (Bangladesh, Egypt,
-Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan).**
+**Acceptance count: taught in 11 countries (Bangladesh, Egypt,
+Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece).**
 Egypt and Bangladesh carry the definition itself,
 each in the three-sort form; Libya carries it twice more in its
 own shorter words; Ghana carries the sentence test; China
@@ -110,7 +119,7 @@ and the countable/uncountable line again with measure words;
 Sierra Leone carries the categories made by the learners
 themselves, the countable/uncountable pair in Primary 2, and
 the plural spellings -es / -ies / -ves as separate lessons.
-Jordan carries the irregular plurals mouse–mice and fish–fish and the -oes spellings, and countable against uncountable twice — with containers and quantity in Grade 4, and with some/any/no and the quantifiers in Grade 8; Other finished
+Jordan carries the irregular plurals mouse–mice and fish–fish and the -oes spellings, and countable against uncountable twice — with containers and quantity in Grade 4, and with some/any/no and the quantifiers in Grade 8; Greece carries countable against uncountable three times — as the Grade 4 party-shopping grammar core, again in Grade 6 with containers and few/little, and in Grade 7 with the quantifier set; Other finished
 countries join as their books are read (see READING-QUEUE.md).
 
 **Laos Grade 7 added 2026-10-27** — *English for Secondary

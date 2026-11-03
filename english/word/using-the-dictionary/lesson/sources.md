@@ -1,6 +1,6 @@
 # Sources — Using the dictionary
 
-countries: Bangladesh, India, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan
+countries: Bangladesh, India, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece
 
 Every part traces to its book and page.
 
@@ -62,6 +62,12 @@ english/books/jordan.md (Grade 4 Activity Book Semester 1 section, FULLY READ + 
 **Book 12:** Jordan Team Together, Grade 6: Activity Book, Semester 1 (activity book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
 english/books/jordan.md (Grade 6 Activity Book Semester 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 13:** Greece Think Teen! Beginners Student's Book, Grade 7: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Αγγλικά, Student's Book — Think Teen! 1st Grade of Junior High School, Student's Book (Αρχάριοι) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 14:** Greece Think Teen! Glossaries (Advanced and Beginners), Grade 7: glossary — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 — Glossaries (Advanced and Beginners) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 15:** Greece Think Teen! Glossary, Grade 9: glossary — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Workbook and Glossary section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a dictionary gives — spelling, pronunciation, meaning, word class; examples printed in italics; synonyms and antonyms given; words made by prefixes and suffixes; a verb shown in its simple present tense with past form and past participle — taught on a reproduced dictionary page for 'fit' (fit → fitful, fitment, fitness, fitness centre, fitted, fitter, fitting, fixture) with sentence matching | Bangladesh, English for Today Class 8, Unit Four "Check Your Reference," Lesson 2 "Using a Dictionary," pp.36–38 |
@@ -80,9 +86,12 @@ english/books/jordan.md (Grade 6 Activity Book Semester 1 section, FULLY READ + 
 | A Picture Dictionary at the back of the book, organised by unit — Numbers and colours; Inside and outside toys; Classroom objects; Body parts and body movement; Family and face; a Festivals word bank — picture-labelled word lists for the whole semester | Jordan, Grade 2 Activity Book Semester 1, Picture dictionary, pp.46–51 |
 | The book's own finding tool at the back: a Wordlist of every unit's vocabulary with child-friendly definitions, the word classes marked inside the entries ("milkshake (noun) – a drink made with milk…"; "sometimes (adverb) – happening occasionally…") | Jordan, Grade 4 Activity Book Semester 1, Wordlist, pp.48–50 |
 | The graded Wordlist carried higher: alphabetical-within-unit definitions for the whole semester, in the Activity Book (the Pupil's Book carries no wordlist of its own) | Jordan, Grade 6 Activity Book Semester 1, Wordlist, pp.50–55 |
+| Dictionary skills taught as a lesson in their own right: English–English dictionary skills — alphabetical order, stress, looking up meanings — in the review lesson built on learning English in your free time | Greece, Think Teen! Grade 7 Beginners, Unit 5, Lesson 3 "In my free time I learn English!," p.66 |
+| The course's own finding tools: per-unit Greek–English glossaries in six-column tables — Word, Definition, Example, Synonym, Antonym, Derived forms — every headword tagged for its word class (n), (v), (adj), (adv), the entries running broadly A–Z inside each lesson (about 930 entries Advanced, about 675 Beginners) | Greece, Think Teen! Grade 7 Glossaries (Advanced and Beginners), PDF pp.3–67 (Advanced) |
+| The same glossary carried to the last Gymnasio year: organised by unit and lesson, alphabetical inside each lesson set, about 570 headwords, the Greek equivalent inside the definition | Greece, Think Teen! Grade 9 Glossary, Units 1–10, printed pp.1–36 |
 
-**Acceptance count: taught in 8 countries (Bangladesh, India,
-Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan).** Bangladesh
+**Acceptance count: taught in 9 countries (Bangladesh, India,
+Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece).** Bangladesh
 carries the full skill — order, guide
 words, the entry, many meanings; India carries the first
 form, a picture dictionary in every year's book; Mongolia
@@ -94,6 +103,6 @@ at the back of its Grade 4 book — glossary and index;
 Iran carries a whole senior lesson on choosing and using a
 dictionary, guide words among its seven tips; Sierra Leone
 carries the skill arriving in the last primary year and
-alphabetical order worked step by step in JSS2. Jordan carries the picture dictionary at the back of its early books, and the defined Wordlist — word classes marked, alphabetical within each unit — as the Activity Books' own finding tool; Other
+alphabetical order worked step by step in JSS2. Jordan carries the picture dictionary at the back of its early books, and the defined Wordlist — word classes marked, alphabetical within each unit — as the Activity Books' own finding tool; Greece carries a real dictionary-skills lesson in Grade 7 Beginners — alphabetical order, stress, looking up meanings — and per-unit glossaries for Grades 7 and 9, filed here as partial stock: the glossaries are unit-ordered finding tools, not a whole-book dictionary, with no guide words, no phonetic transcription and no A–Z index across the course, so a word can only be found if its unit and lesson are known; Other
 closed countries join as their books are read (see
 READING-QUEUE.md).

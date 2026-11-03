@@ -1,6 +1,6 @@
 # Sources — The body
 
-countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan
+countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece
 
 Every part traces to its book and page.
 
@@ -61,6 +61,12 @@ english/books/jordan.md (Grade 1 Pupil's Book Semester 2 section, FULLY READ + C
 **Book 11:** Jordan Team Together, Grade 2: Pupil's Book, Semester 1 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
 english/books/jordan.md (Grade 2 Pupil's Book Semester 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 12:** Greece Alpha English WORKPACK, Grade 1: workpack — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 1 — ALPHA ENGLISH, Student's Book — IDENTITY MISMATCH: this file is the WORKPACK, not the Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 13:** Greece Beta English WORKPACK, Grade 2: workpack — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 2 — BETA ENGLISH, Student's Book (BetaEnglish for 2nd grade pupils — WORKPACK) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 14:** Greece Think Teen! Beginners Workbook, Grade 8: workbook — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The body unit set: head, hand, finger, leg, face, nose, mouth — taught by "Listen and touch" on the child's own body (numbers 7–10 traced alongside) | Palestine, Grade 1 Part 1, Unit 4 "My body," p.22 |
@@ -78,9 +84,13 @@ english/books/jordan.md (Grade 2 Pupil's Book Semester 1 section, FULLY READ + C
 | Parts of my body as a named first-year lesson: name body parts and use "my," with the song "Head and Shoulders" | Sierra Leone, Primary 1 Term 1, Lesson 14 (the song is printed at PDF p.35 of the plans) |
 | The body unit set: arms, body, face, feet, hair, hands, head, legs — carried by has got for description: "He's got … / She hasn't got …", with a Picture Dictionary: Body page for the unit | Jordan, Grade 1 Pupil's Book Semester 2, Unit 5 "My body," printed pp.6–13 |
 | The body set widened — arms, face, feet, fingers, hands, head, knees, legs, toes, tummy — counted on the child's own body ("I've got (one face / ten toes)") and moved by touch commands: "Move (your body)! Touch (your head)!" with the movement words bend, clap, move, stamp, stretch, touch | Jordan, Grade 2 Pupil's Book Semester 1, Unit 3 "Move your body!", pp.24–31 |
+| The face in pieces: a cartoon monkey head with separate loose eyes, nose, mouth and ears to place on it (picture citation only; the sheet carries no printed words) | Greece, Alpha English Grade 1 Workpack, Section Γ, A_Γ01_C01, PDF p.46 |
+| The body whole on a Pinocchio card, in colour and in outline to colour — the parts themselves are carried by the head-and-shoulders action song in the pack's audio | Greece, Beta English Grade 2 Workpack, Cycle B, B06 "Head & shoulders / Pinocchio's body," PDF pp.44–45 |
+| Body features counted by listening: three multi-eyed, multi-legged monsters numbered in the order heard — eyes, heads, legs | Greece, Beta English Grade 2 Workpack, Cycle B, B10 "Listen and number: monsters," PDF p.56 |
+| Body parts as a vocabulary layer at secondary level, with clothing idioms built on them — "wear his heart on his sleeve," "talk through your hat," "be in someone's shoes" | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 9 "Keeping up appearances," pp.80–82 |
 
-**Acceptance count: taught in 9 countries (Egypt, Palestine,
-Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan).**
+**Acceptance count: taught in 10 countries (Egypt, Palestine,
+Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece).**
 Palestine carries the core seven by touch;
 Egypt carries the parts at work in the five sense sentences,
 plus three more inside its letter pages; China carries the
@@ -89,7 +99,7 @@ body whole and in pieces, in pictures alone; Indonesia
 carries the parts inside the hygiene habits; Iran carries
 the parts named in injury talk and built into sentences;
 Sierra Leone carries the first-year naming lesson with its
-"Head and Shoulders" song. Jordan carries the eight-part set with has got description in Grade 1, and the widened set counted and moved by touch commands in Grade 2; Other finished
+"Head and Shoulders" song. Jordan carries the eight-part set with has got description in Grade 1, and the widened set counted and moved by touch commands in Grade 2; Greece carries the body in pictures and songs in its two Workpacks — face pieces in Grade 1, the Pinocchio body and the counted monster features in Grade 2, with no printed body word list in either pack — and body parts as a vocabulary layer in its Grade 8 Beginners Workbook; Other finished
 countries join as their books are read (see READING-QUEUE.md).
 
 **Laos Grade 5 added 2026-10-27** — *Student's Book 3, Grade 5*

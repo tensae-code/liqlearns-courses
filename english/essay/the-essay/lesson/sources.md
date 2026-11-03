@@ -1,6 +1,6 @@
 # Sources — The essay
 
-countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan
+countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece
 
 Every part traces to its book and page.
 
@@ -63,6 +63,20 @@ Semester 2 — Jordan, National Center for Curriculum
 Development (NCCD), Amman. Filed in english/books/jordan.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 13:** Greece Αγγλικά 1 Γενικού Λυκείου, Grade 10:
+student book — Greece, ITYE «Diophantos», for the Ministry
+of Education (ebooks.edu.gr). Filed in
+english/books/greece.md (Grade 10 — Αγγλικά 1 Γενικού
+Λυκείου, Student's Book section, FULLY READ + CITATION
+CHECK PASSED 2026-11-03).
+
+**Book 14:** Greece Αγγλικά 2 (Αγγλικά Γενικού Λυκείου 2),
+Grades 11–12: student book — Greece, ITYE «Diophantos»,
+for the Ministry of Education (ebooks.edu.gr). Filed in
+english/books/greece.md (Grades 11–12 — Αγγλικά 2,
+Student's Book section, FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The essay's definition — "an essay is a piece of writing that usually has five or more paragraphs, about one topic with several main points" — and the GENERAL ESSAY STRUCTURE table: Introduction ("it tells what your topic and main ideas are"); Topic 1/2/3 ("state your points/arguments, explore both sides of debate in a better answer"); Conclusion ("the same information as the introductory paragraph, written from a different perspective") | Bolivia compendium, the essay-structure grammar/writing section (as filed) |
@@ -81,8 +95,11 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | The for-and-against essay taught whole at the top of the school: a full model essay ("Buying local: good or bad?") with Active Writing work on paraphrasing | Jordan, Grade 12 Student's Book, Semester 1, Unit 3, Lesson 6A, pp.34–35 |
 | The general essay with its own full model, on the panel topic "Memorisation of facts and figures is useless for our generation" | Jordan, Grade 12 Student's Book, Semester 1, Unit 5, Lesson 6A, pp.56–57 |
 | The opinion essay at Grade 12, with its full model ("Traditional or modern values?") and Active Writing training in the formal register essays demand | Jordan, Grade 12 Student's Book, Semester 2, Unit 8, Lesson 6A, pp.34–35 |
+| The opinion essay fully scaffolded at Lykeio entry: a 120–150-word essay for the school magazine on banning animal-tested cosmetics, with a five-paragraph plan (introduction, two viewpoint paragraphs, opposing viewpoint, conclusion restating the opinion), a linking-word bank organised by function and a tips checklist — then a second essay on the same scaffold | Greece, Grade 10 Student's Book, Unit 5, Writing, printed pp.61–63 |
+| The for-and-against essay as the same book's capstone: 200–240 words on whether social networking has improved relationships, built on topic analysis, a points table, a four-paragraph plan, the book's largest linking-word bank and a formal-style checklist | Greece, Grade 10 Student's Book, Unit 8, Writing, printed pp.110–112 |
+| The problem–solutions essay as the senior book's taught genre: write an essay of 180–220 words suggesting ways to deal with addiction, for the school magazine, with topic-analysis questions, a five-paragraph suggestions/solutions plan and a linking-language bank (listing, suggesting, contrasting, exemplifying, expected results, concluding) | Greece, Grades 11–12 Student's Book, Unit 5, printed pp.78–79 |
 
-**Acceptance count: taught in 5 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan).**
+**Acceptance count: taught in 6 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece).**
 Bolivia defines the essay and tables its general structure
 whole; Ghana grows the writing process to the essay's
 scale with the outline as its planning tool. Indonesia
@@ -96,6 +113,12 @@ Parts of an Essay to the SSS1–SSS2 model lessons; Jordan
 teaches the essay fully by Grade 12 — for-and-against,
 analytical, general and opinion essays, each with a full
 model, planned on printed Graphic Organisers and trained
-in formal register. Other finished
+in formal register; Greece teaches the essay as
+word-counted, fully scaffolded Lykeio writing — an
+opinion essay and a for-and-against essay at Grade 10,
+each with a paragraph plan, a function-organised
+linking bank and a checklist, and a problem–solutions
+essay at Grades 11–12 with its own five-paragraph plan.
+Other finished
 countries join as their books are read (see
 READING-QUEUE.md).

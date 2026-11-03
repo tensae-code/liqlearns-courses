@@ -1,6 +1,6 @@
 # Sources — The present perfect continuous
 
-countries: Egypt, Libya, Sierra Leone, Jordan
+countries: Egypt, Libya, Sierra Leone, Jordan, Greece
 
 Every part traces to its book and page.
 
@@ -38,6 +38,10 @@ Semester 1 — Jordan, National Center for Curriculum
 Development (NCCD), Amman. Filed in english/books/jordan.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 8:** Greece Αγγλικά (Anglika), Grade 6, Student's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 6 — Αγγλικά (Anglika), Student's Book, New Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 9:** Greece Think Teen!, Grade 9, Student's Book (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 10:** Greece Γενικά Αγγλικά (Genika Agglika), Grades 11–12 EPAL, Student's Book (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 11 (EPAL) — General English, Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The box "Describing action that continues from the past: Present perfect continuous tense — The pilot has been flying for two hours. I have been waiting for the bus since four o'clock." | Libya, Grade 8 Course Book, Unit 3, Lesson 6 "Transport," p.38 |
@@ -51,9 +55,12 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | The Present Perfect Continuous Tense in two lessons: the form have/has been + -ing for actions begun in the past and still going; the second lesson covers questions and negatives without double negatives | Sierra Leone, SSS3 Term 2, Lessons 85–86, pp.89 and 91 |
 | Present Perfect Simple and Continuous taught together as the digital-mind unit's grammar lesson — the continuous form presented beside its simple twin, and practised in the Workbook's matching lesson | Jordan, Grade 10 Student's Book, Semester 1, Unit 2, Lesson 1A, pp.14–15; Workbook, Lesson 1B, pp.12–13 |
 | The tense met again at the top of the school inside a whole-system contrast: present, past and future continuous and perfect forms set against each other — a review witness, not a first teaching | Jordan, Grade 12 Student's Book, Semester 1, Unit 1, Lesson 4A, pp.8–9 |
+| Present Perfect Continuous with for / since — for (period) against since (starting point), on a 2003–2006 timeline diagram — taught in the same unit as its simple twin | Greece, Αγγλικά Grade 6, Unit 7, p.80 |
+| The since (point of time) / for (period) rule drawn from an internet-use article, then the formal Present Perfect Simple vs Continuous contrast — finished result against activity still in progress, worked in a “what have they been doing?” evidence game | Greece, Think Teen! Grade 9, Unit 4, Lessons 1–2, pp.37–48 (rule in Lesson 1, p.38; contrast, printed p.43) |
+| Present Perfect Simple against Past Simple and the Present Perfect Continuous, their uses matched to examples, in the holiday unit's language section | Greece, Γενικά Αγγλικά Grades 11–12 EPAL, Unit 2, pp.33–35 |
 
-**Acceptance count: taught in 4 countries (Egypt,
-Libya, Sierra Leone, Jordan).** Libya meets the tense at Grade 8 inside a
+**Acceptance count: taught in 5 countries (Egypt,
+Libya, Sierra Leone, Jordan, Greece).** Libya meets the tense at Grade 8 inside a
 records lesson, names it for recent habits at Grade 9,
 and drills it as a full lesson with for/since at Grade
 10. Egypt states the complete box at Secondary 12 — the
@@ -64,7 +71,7 @@ inside its complete 12-tense system. Jordan teaches the
 tense at Grade 10 as one lesson with its simple twin —
 Present Perfect Simple and Continuous together — and
 contrasts it again inside Grade 12's whole continuous-
-and-perfect system. Other closed countries join
+and-perfect system. Greece teaches this tense earliest of all — at Grade 6 in primary, with for/since on a timeline — states the simple/continuous contrast formally at Grade 9, and matches the continuous form's uses to examples again in the EPAL book. Other closed countries join
 as their books are read (see READING-QUEUE.md).
 
 **Laos checked — NOT stocked (series-final, 2026-10-27).**

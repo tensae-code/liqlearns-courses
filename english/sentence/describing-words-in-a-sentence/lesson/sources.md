@@ -1,6 +1,6 @@
 # Sources — Describing words in a sentence
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece
 
 Every part traces to its book and page.
 
@@ -90,6 +90,10 @@ Development (NCCD), Amman (Pearson Education / York
 Press originals). Filed in english/books/jordan.md (FULLY READ +
 CITATION CHECK PASSED 2026-11-03).
 
+**Book 16:** Greece Αγγλικά (Anglika), Grade 5, Pupil's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 5 — Αγγλικά (Anglika), Pupil's Book, Revised Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 17:** Greece Αγγλικά (Anglika), Grade 6, Student's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 6 — Αγγλικά (Anglika), Student's Book, New Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 18:** Greece Think Teen!, Grade 8 Advanced, Student's Book (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The eight pictured adjective + noun pairs — a fresh mango, a bad mango, a clean shirt, a dirty shirt, a new bike, an old bike, a happy cat, an angry cat — description seated before the noun in every pair | Bangladesh, English for Today Class 4, Unit 22 "Tune up!", pp.44–45 |
@@ -111,10 +115,15 @@ CITATION CHECK PASSED 2026-11-03).
 | Comparing as a whole taught system in one unit — short adjectives ("A mountain is higher than a hill"; "This is the deepest lake in Jordan") and long adjectives ("Swimming is more exciting than walking"; "Amman is the most exciting city in the world") | Jordan, Team Together Grade 4, Pupil's Book, Semester 1, Unit 3, pp.28–37 |
 | Comparing with adverbs — comparative adverbs (more quickly than, better) | Jordan, Team Together Grade 6, Pupil's Book, Semester 1, Unit 2, pp.18–27 |
 | The sense verbs named as a grammar point — sense verbs (look, smell, taste, sound, feel), the verbs description lands after | Jordan, Team Together Grade 6, Pupil's Book, Semester 1, Unit 4, pp.42–51 |
+| Sense verbs + adjective — look / taste / smell / feel — for food and presents at Christmas | Greece, Αγγλικά Grade 5, Unit 4, Lesson 2, p.55 |
+| Comparatives: regular -er than / more … than, used to write a report comparing two towns from a data table; then superlatives — the -est / the most … — including good–better–best and bad–worse–worst | Greece, Αγγλικά Grade 5, Unit 6, Lessons 1–2, pp.74–81 (points, printed pp.75 and 80) |
+| Verbs of sense + adjective (look / taste / feel / smell / sound) again at Grade 6, beside few / a few and little / a little | Greece, Αγγλικά Grade 6, Unit 2, p.20 |
+| Comparison throughout one unit: comparative and superlative adjectives, as … as / not as–so … as, and comparison of adverbs | Greece, Αγγλικά Grade 6, Unit 3, pp.25–36 (points, printed pp.28, 32 and 33) |
+| Comparatives and superlatives, irregular forms, and (not) as … as, presented from landmark texts and used to compare two stadiums | Greece, Think Teen! Grade 8 Advanced, Unit 1, Lesson 3, p.19 |
 
-**Acceptance count: taught in 9 countries (Bangladesh,
+**Acceptance count: taught in 10 countries (Bangladesh,
 Egypt, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan).** Bangladesh pictures the before-home in
+Sierra Leone, Jordan, Greece).** Bangladesh pictures the before-home in
 eight pairs; Mongolia names the describing law, writes the
 sense-verb home, and posts the comparing border — and its
 Grade 5 picture book now adds describing stock in pictures
@@ -132,7 +141,7 @@ and compares adjectives and adverbs in JSS 3;
 Jordan seats adjectives inside have-got sentences in
 Grade 3, builds its comparatives system in Grade 4,
 and adds comparative adverbs and the sense verbs in
-Grade 6. Other closed countries join as their books are read
+Grade 6. Greece seats sense verbs + adjective at Grade 5, builds comparatives and superlatives there and runs comparison — adjectives, as…as and adverbs — through a whole Grade 6 unit, restating the system at Grade 8. Other closed countries join as their books are read
 (see READING-QUEUE.md).
 
 **Laos Grade 4 added 2026-10-27** — *English for Lao Primary

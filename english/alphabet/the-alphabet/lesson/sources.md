@@ -1,6 +1,6 @@
 # Sources — The alphabet
 
-countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan
+countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece
 
 Every part traces to its book and page. The PDF of Libya's Pupils Book
 is one book page per PDF page, with the book page printed at the
@@ -75,6 +75,16 @@ updated) 2025, ISBN 978-9923-41-911-3. Filed in
 english/books/jordan.md (Jordan — English Grade 3 — FULLY
 READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 10:** Greece Beta English WORKPACK, Grade 2
+(workpack — picture cards, flashcards and worksheets,
+including the alphabet strand) — Greece, ITYE
+«Diophantos», for the Ministry of Education
+(ebooks.edu.gr); ISBN 978-960-06-4458-6, book code
+0-10-0187. The Workpack has no printed folios, so its
+pages are cited as PDF pages plus artwork codes. Filed in
+english/books/greece.md (Grade 2 — BETA ENGLISH section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 1 is "The Alphabet" — Book Map: Unit 1 vocabulary (a–z) and the one-word-per-letter list (apple, ball, car, duck, elephant, flower, gate, hand, insect, jam, kite, lemon, monkey, nose, orange, plane, queen, rocket, sun, tomato, umbrella, violin, watch, x-ray, yo-yo, zebra) | Libya Pupils G1, PDF p.5 (Book Map, Units 1–4) |
@@ -99,6 +109,9 @@ READ + CITATION CHECK PASSED 2026-11-03).
 | All 26 letters taught across Grade 1 in letter pairs, two phonics lessons (Lessons 9–10) per unit, four words a letter — Semester 1: Ss/Dd (sing, sister, six, sun; dad, dig, doll, duck) and Cc/Aa (cap, cat, cup, cut; Ann, ant, apple, arrow), Pp/Rr and Ee/Bb, Tt/Mm and Ww/Ii; Semester 2 completes the alphabet: Hh/Ll and Gg/Ff, Jj/Uu and Oo/Nn, Zz/Kk/Qq (zebra, zero, zoo; king, kite, kitten; queen, question, quiet) and Xx/Vv/Yy (box, fox, six; van, vet, violin; yellow, yoghurt, yoyo) | Jordan — Team Together Grade 1 Pupil's Books: Semester 1, Units 1–3, printed pp.6–29; Semester 2, Units 5–7, printed pp.6–29 |
 | The letters traced and copied for the hand — the Activity Books' closing "Letters and sounds practice": trace and copy the Semester 1 set (S/s, D/d, C/c, A/a, P/p, R/r, then E/e, B/b, T/t, M/m, W/w, I/i) and the Semester 2 set (H/h, L/l, G/g … and N/n, Z/z, K/k …) | Jordan — Team Together Grade 1 Activity Books: Semester 1, printed pp.36–37; Semester 2, printed pp.36–37 |
 | The alphabet revisited in Grade 3 as letter names and spelling — "How do you spell Asma? A-s-m-a"; English in action: Asking for and spelling names; the Activity Book's alphabet listen-write (spell "Asma") | Jordan — Team Together Grade 3: Pupil's Book Semester 1, Welcome, printed pp.4–7; Activity Book Semester 1, Welcome, printed pp.2–5 |
+| All 26 letters, one letter card + one tracing worksheet per letter, in a thematic (not alphabetical) order — Z zebra · C cat · L lion · N name · B bear · P pen · K kite · Y yo-yo · R rat · H hat · M monkey · T tiger · A apple · F fish · W water · U umbrella · O o'clock · V van · S socks · Q queen · J jungle · I Indian · D dog · G garden · X box · E egg; every worksheet the same pattern: stroke-order diagrams for the capital and the small letter, dotted letters and the key word to trace, the card picture's outline to colour, and a 3–5 line rhyme built on the key word | Greece — Beta English WORKPACK, Grade 2, alphabet strand (whole pack; complete list in the country file — e.g. Z card, sheet Z_C, PDF p.9; B worksheet, sheet B_W, PDF p.25; E worksheet, sheet E_W, PDF p.191) |
+| The letters spread across the pack's five cycles, a few per cycle — Cycle A: Z, C, L, N (PDF pp.9–17) · Cycle B: B, P, K, Y, R, H, M, T, A, F, W, U (PDF pp.24–78) · Cycle Γ: O, V, S, Q (PDF pp.86–117) · Cycle Δ: J, I, D, G (PDF pp.133–156) · Cycle E: X, E (PDF pp.173–191) — X and E only arrive in the final cycle | Greece — Beta English WORKPACK, Grade 2, alphabet strand in Cycles A–E, PDF pages as listed |
+| A separate song for every letter — the pack's audio contents lists Letters' Songs, tracks 30–55, one per letter | Greece — Beta English WORKPACK, Grade 2, contents page, PDF p.195 |
 
 **Egypt KG2 rows added 2026-10-25** (whole book read complete) —
 KG2 teaches the other 13 letters, each with sound words, a formation
@@ -257,7 +270,7 @@ change, but Libya's layer is now a *spiral* — taught in Grade 1,
 re-taught in Grade 2 — which is how the course itself says a
 sound is learned.
 
-**Acceptance count: taught in 8 countries (Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan).**
+**Acceptance count: taught in 9 countries (Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece).**
 China joins through its Grade 3 Volume 1: the ABC song is placed
 before any letter teaching (Unit 1, p.6), and Recycle 2 adds a
 missing-letter sequence exercise (p.69) — the alphabet as a sung
@@ -280,7 +293,11 @@ teaches no letters (its alphabet is a classroom wall strip that
 never goes past "Ii") — recorded as an honest negative in
 english/books/mongolia.md.
 The full alphabet and the letter-word list are Libya's in this layer;
-Egypt joins for the sounds-way grouping. Other closed countries join
+Egypt joins for the sounds-way grouping. Greece joined
+2026-11-03: its Grade 2 Workpack carries the whole alphabet
+as a card-and-tracing-worksheet strand — all 26 letters, one
+key word and a rhyme per letter, in thematic order, with a
+song for every letter. Other closed countries join
 as their first English books are read (see READING-QUEUE.md).
 
 **Laos Grade 3 added 2026-10-27** — *English for Primary Schools,
@@ -381,3 +398,29 @@ in this file's countries line, count and closing paragraph
 from 2026-10-27 but had no entry in the numbered book list
 at the top; it is now Book 7, and the Jordan books are Books
 8 and 9 — no earlier book number changed.)
+
+**Greece added 2026-11-03** — one book stocks this lesson:
+**Book:** *Beta English WORKPACK*, Grade 2 — Greece, ITYE
+«Diophantos», for the Ministry of Education (ebooks.edu.gr);
+ISBN 978-960-06-4458-6, book code 0-10-0187. Filed in
+english/books/greece.md (Grade 2 — BETA ENGLISH section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03). Greece is
+the workpack case: there is no pupil lesson book in the
+filed read for Grades 1–2 — the Grade 2 file is a pack of
+cards and worksheets, and its alphabet strand runs through
+the whole pack: one letter card + one tracing worksheet for
+every one of the 26 letters, in thematic order (Z, C, L, N
+first; X and E last, in the final cycle). Every worksheet
+follows the same pattern — stroke-order diagrams for the
+capital and the small letter, dotted letters and the one
+key word to trace, the card picture's outline to colour,
+and a 3–5 line rhyme built on the key word — and the audio
+contents (PDF p.195) lists a separate song for every letter
+(Letters' Songs, tracks 30–55). The limit is recorded as
+the country file records it: Greece has **no phonics
+system** here beyond one key word and a rhyme per letter —
+the letters are named, traced and sung, not sounded out
+into words; that blending work is a different lesson and
+Greece does not stock it. The Grade 1 Alpha Workpack adds
+nothing for this lesson: its cards are wordless pictures,
+with no alphabet strand.

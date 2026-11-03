@@ -1,6 +1,6 @@
 # Sources for this lesson — Two-letter sounds
 
-countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan
+countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The two-letter sets lived inside the alphabet
@@ -38,8 +38,12 @@ single letters.
 | **ng / -ing** (king, ring; milking, singing) and **ck** (clock, black, backpack, truck) | Jordan — Team Together Grade 3 Pupil's Book, Semester 2: Unit 5, printed pp.8–15; Unit 7, printed pp.24–31 |
 | The Grade 7 revisit, tabulated as the semester's phonics line — hard and soft **c**, **tch**, and voiced/unvoiced **th** | Jordan — Team Together Grade 7 Teacher's Book, Semester 1, Scope and sequence, TB pp.2–3 |
 | Review stock: a grouping task sorting ch, sh, th, ng, nk with the blends, and pronunciation-pattern reference tables | China — English (PEP) Grade 6 Volume 2, Recycle, printed p.49; Appendices, printed pp.70–71 |
+| The **s / sh** contrast drilled as a tongue-twister on sea shells — /s/ against /ʃ/ — in the teacher's pronunciation support for the drills, with the tapescript printed | Greece — Think Teen! Grade 7 Beginners Teacher's Book, Unit 2 lesson notes, printed p.18 |
+| Word-ending sounds as a pronunciation set closing the lesson: **/ŋ/** and the **-s** endings **/s/–/z/–/ɪz/** | Greece — Think Teen! Grade 8 Advanced Workbook, Unit 1, Lesson 1 "People and Places" (Unit 1, printed pp.6–21; lesson opens printed p.6) |
+| **-ed pronunciation** separated out as its own work, beside the lie / lay confusion | Greece — Think Teen! Grade 8 Advanced Workbook, Unit 2, Lesson 4 "Mysteries of Our World" (Unit 2, printed pp.22–35; lesson opens printed p.22) |
+| **Silent-letter pronunciation work** closing the lesson — the lesson's last strand | Greece — Think Teen! Grade 8 Advanced Workbook, Unit 7, Lesson 21 "Friends without Frontiers" (Unit 7, printed pp.104–117; lesson opens printed p.114) |
 
-**Acceptance count: taught in 8 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan).**
+**Acceptance count: taught in 9 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece).**
 China adds the first r-controlled-vowel ladder taught as a named
 system (Grade 4 Volume 2), a run of one-pair-per-page Let's spell
 lessons across Grades 5–6 (ea/ee, ow/ou, oo, ch/sh, th, ng/nk,
@@ -51,7 +55,15 @@ Primary 2 (kn, ph, wr, sh, th). Jordan adds the two-letter
 sounds as the whole phonics strand of Grades 2–3 — one pair
 (or one pair of pairs) as the closing lesson of every unit,
 sh/ch through oo, wh, ng and ck — and revisits th, tch and
-hard/soft c in Grade 7.
+hard/soft c in Grade 7. Greece joins only in part: it has
+no digraph or vowel-pair strand at all — no book in its
+filed read presents ch, sh, th, ee, oo and the rest as
+spelling pairs in a lesson — and its stock here is the
+edges of this lesson, taught as pronunciation sets in
+secondary books: an s/sh tongue-twister in the Grade 7
+Beginners Teacher's Book, and the -s and -ed ending
+sounds and silent-letter work in the Grade 8 Advanced
+Workbook.
 Counts grow as other closed countries' books are read.
 
 **Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
@@ -284,3 +296,36 @@ tch, voiced/unvoiced th — as that semester's phonics line.
 (The same Grade 3 units' consonant blends — pl/bl, dr/tr/br,
 sk/sw/st, cl/fl/sl, cr/fr/gr — are a different thing and live
 in phonics/blends.)
+
+**Greece added 2026-11-03** — two books stock this lesson,
+and only in part: **Book:** *Think Teen!*, Grade 7
+Beginners, Teacher's Book — Greece, ITYE «Diophantos»,
+for the Ministry of Education (ebooks.edu.gr). **Book:**
+*Think Teen!*, Grade 8 Advanced, Workbook — Greece, ITYE
+«Diophantos», for the Ministry of Education
+(ebooks.edu.gr); ISBN 978-960-06-2740-4, book code
+0-21-0113. Both filed in english/books/greece.md (Grade 7
+(Beginners) — Teacher's Book section; Grade 8 (Advanced)
+— Workbook section; FULLY READ + CITATION CHECK PASSED
+2026-11-03). Greece's stock here is narrow and is
+recorded narrowly. The Grade 7 Beginners Teacher's Book's
+pronunciation support for the Unit 2 drills runs down to
+an /s/–/ʃ/ tongue-twister on sea shells (printed p.18) —
+the s against sh contrast, carried by a drill, not a
+spelling lesson. The Grade 8 Advanced Workbook carries
+five pronunciation sections across the year, three of
+which belong to this lesson's edges: Lesson 1 closes on
+/ŋ/ and the -s endings /s/–/z/–/ɪz/ (Unit 1, printed
+pp.6–21); Lesson 4 separates out -ed pronunciation
+(Unit 2, printed pp.22–35); and Lesson 21 ends with
+silent-letter pronunciation work (Unit 7, printed
+pp.104–117). The workbook's other two pronunciation sets
+— a schwa set in Lesson 15 and an /æ/–/ɑː/–/eə/ set in
+Lesson 17 — are single vowel sounds, not letter-group
+sounds, and are not filed here. Greece does NOT teach
+the digraph and vowel-pair sets themselves: the country
+file records no alphabet/phonics strand in the Think
+Teen! books and no phonics system in the primary books
+beyond one key word and a rhyme per letter, and no Greek
+book presents ch, sh, th, ee, oo, ai, ow/ou or ng as
+spelling pairs to be learned as pairs.

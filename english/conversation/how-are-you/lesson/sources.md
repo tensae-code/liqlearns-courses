@@ -1,6 +1,6 @@
 # Sources for this lesson — How are you?
 
-countries: Egypt, Libya, China, Iran, Sierra Leone, Jordan
+countries: Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -20,15 +20,22 @@ Libya (Garnet) · Books verified on disk 2026-10-25.
 | "How are you? — Fine, thanks / Great, thanks" inside the first lesson's greeting practice, between the hi/hello exchanges and the name question | Iran — Prospect 1 (Grade 7), Lesson 1 "My Name," Practice 1, printed pp.6–9 |
 | "How are you today? — I am fine, thank you" — the greeting lesson that adds the question to the greetings, with pictures of mother and father | Sierra Leone — Language Arts Primary 1 Lesson Plans, Term 1, Lesson 6 ("Greetings") |
 | "How are you? — I'm fine, thank you" — the exchange in its short classroom form, taught inside the clothes unit | Jordan — Team Together Grade 1 Pupil's Book, Semester 2, Unit 6, printed pp.14–21 |
+| "Hello! How are you?" — the question as a lesson's own name, over four feeling-face flashcards (happy, sad, unwell/tired, hungry); the question itself is practised in the lesson's audio (this book is a printed workpack, so its rows cite PDF pages) | Greece, Grade 2 Beta English Workpack, Cycle A, A04 "Hello! How are you? / If you're happy," PDF p.18 |
+| The question grown a year-band later in the same pack: "How are you today? Why? Because…" — six dialogue cards pair a feeling with its reason (happy because he has a new book; sad because his dog is sick; angry because "we" lost the game), the feelings set widened to thirsty, angry and sleepy | Greece, Grade 2 Beta English Workpack, Cycle Δ, Δ02 "My new book," PDF pp.125–130 ("I'm angry" card, PDF p.129) |
 
-**Acceptance count: taught in 6 countries (Egypt, Libya, China, Iran, Sierra Leone, Jordan) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
+**Acceptance count: taught in 7 countries (Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 China joins with the exchange itself in its first primary book
 (Grade 3 Volume 1) and deepens it three years later into feelings
 talk — "How do you feel?", "What's wrong?" (Grade 6 Volume 1).
 Iran and Sierra Leone joined 2026-11-03, each with the exchange
 inside its first greeting teaching. Jordan joined 2026-11-03
 with the exchange in its Grade 1 Semester 2 clothes unit, in
-the same short form Libya's Grade 3 book uses. Nicaragua's filed
+the same short form Libya's Grade 3 book uses. Greece joined
+2026-11-03 with the question twice in its Grade 2 workpack —
+first as a lesson's name over the feeling faces, then with
+"today" and a because-reason for every feeling; Greece's
+answers are the feelings themselves, and no "I'm fine,
+thank you" answer is printed in its filed read. Nicaragua's filed
 greeting material teaches hello, names and goodbye — not this
 question — so it is not counted here; Indonesia's filed books
 likewise teach no "How are you?" exchange (their feelings set in
@@ -102,3 +109,23 @@ I'm fine, thank you" among its grammar frames, between
 "Where's my …?" and "I'm wearing …" — the well-being
 question in its shortest classroom form, the same words
 Libya's Primary 3 book uses for the same exchange.
+
+**Greece added 2026-11-03** — **Book:** *BetaEnglish for
+2nd grade pupils — WORKPACK*, Grade 2 (workpack) —
+Greece, ITYE «Diophantos», for the Ministry of Education
+(ebooks.edu.gr). Filed in english/books/greece.md (Grade
+2 — BETA ENGLISH section, FULLY READ + CITATION CHECK
+PASSED 2026-11-03). One book stocks this lesson, twice.
+Cycle A, A04 (PDF p.18) is named for the question itself
+— "Hello! How are you? / If you're happy" — and pictures
+the answers as four feeling faces (happy, sad,
+unwell/tired, hungry); the country file records the
+greeting question as practised in the lesson's audio,
+the pack being teacher-led printed sheets. Cycle Δ, Δ02
+(PDF pp.125–130) asks it again as "How are you today?
+Why? Because…" over six paired dialogue cards — a
+feeling on top, its reason below — widening the feelings
+set to thirsty, angry and sleepy. Greece's shape is the
+question answered by a feeling and its reason; the
+filed Greece read prints no "I'm fine, thank you"
+answer, and none is claimed here.

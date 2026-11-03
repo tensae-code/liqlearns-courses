@@ -1,6 +1,6 @@
 # Sources — Joining with and and but
 
-countries: Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan
+countries: Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece
 
 Every part traces to its book and page.
 
@@ -66,6 +66,11 @@ Development (NCCD), Amman (Pearson Education / York
 Press originals). Filed in english/books/jordan.md (FULLY READ +
 CITATION CHECK PASSED 2026-11-03).
 
+**Book 12:** Greece Αγγλικά (Anglika), Grade 6, Student's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 6 — Αγγλικά (Anglika), Student's Book, New Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 13:** Greece Think Teen!, Grade 9, Student's Book (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 14:** Greece Think Teen!, Grade 9, Teacher's Book (teacher's book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 15:** Greece Γενικά Αγγλικά (Genika Agglika), Grade 10 EPAL, Student's Book (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 10 (EPAL) — General English, Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | COMPOUND SENTENCES open (B3.5.9.1): "join simple sentences with the coordinating conjunction AND — 'The boy woke up' + 'The boy prayed' → 'The boy woke up and prayed' — then AND and BUT in groups" | Ghana, NaCCA B1–B3 curriculum, Basic 3, Strand 5 |
@@ -81,8 +86,12 @@ CITATION CHECK PASSED 2026-11-03).
 | Joining as the likes unit's own grammar — joining with and/too, but, or, over likes and dislikes | Jordan, Team Together Grade 2, Pupil's Book, Semester 2, Unit 6 "Do you like peas?," pp.16–23 |
 | AND and BUT joining whole habit sentences — "I watch TV and I play video games. I watch TV, but I don't read a book!" | Jordan, Team Together Grade 3, Pupil's Book, Semester 1, Language booster 1, pp.40–41 |
 | The joiners as the writing link of a personal profile — linking with and/but/so/because in the model profile (Dana, 14, from Jordan) | Jordan, High Note Grade 8, Student's Book, Semester 1, Unit 1, Writing, pp.12–13 |
+| Clauses of result and reason: so and as a result for result; because, because of and as for reason | Greece, Αγγλικά Grade 6, Unit 9, p.104 |
+| Linking words carrying a model postcard — because, as, although, but, so — as the lesson's linking work | Greece, Think Teen! Grade 9, Unit 1, Lesson 3, p.10 |
+| The same postcard linkers in the teacher's book — but, although, because, so, and — worked beside the Past Simple / Past Continuous and gerund practice | Greece, Think Teen! Grade 9 Teacher's Book, Unit 1, pp.2–12 |
+| Cause-and-effect connectors — because, as, although, but — presented in the environment unit's language section, beside the 3rd conditional | Greece, Γενικά Αγγλικά Grade 10 EPAL, Unit 9, Section E, p.144 |
 
-**Acceptance count: taught in 8 countries (Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan).**
+**Acceptance count: taught in 9 countries (Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece).**
 Ghana opens the compound sentence with AND, seats BUT
 beside it, lists the four coordinators, and widens the
 family in its own order; Bolivia posts the but/however
@@ -96,7 +105,7 @@ at Primary 5 and states sentence combining at senior
 level; Jordan joins likes with and/too, but and or in
 Grade 2, joins habits with and/but in Grade 3, and
 links a profile with and/but/so/because in Grade 8.
-Other closed countries join as their books are
+Greece joins with so / because at Grade 6, carries a postcard on because, as, although, but and so at Grade 9 (the teacher's book adds and to the set), and presents because, as, although, but as cause-and-effect connectors at Grade 10 EPAL. Other closed countries join as their books are
 read (see READING-QUEUE.md).
 
 **Laos Grade 5 added 2026-10-27** — *Student's Book 3, Grade 5*

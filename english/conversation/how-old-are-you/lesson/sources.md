@@ -1,6 +1,6 @@
 # Sources for this lesson — How old are you?
 
-countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan
+countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -24,8 +24,10 @@ Libya (Garnet) · Books verified on disk 2026-10-25.
 | "How old are you? — I'm …" in the first unit, beside the name exchange — the short form, with numbers one–ten behind it in the Welcome | Jordan — Team Together Grade 1 Pupil's Book, Semester 1, Unit 1, printed pp.6–13 |
 | The exchange re-run at the next year's Welcome — "How old are you? I'm…" among its stated functions; the Activity Book's Welcome completes name/age dialogues | Jordan — Team Together Grade 2: Pupil's Book, Semester 1, Welcome, printed pp.4–7; Activity Book, Semester 1, Welcome, printed pp.2–5 |
 | Age as one item of the identity set a few years up — the Activity Book's Welcome matches and writes name, age, country and nationality ("What's your name? How old are you? Where are you from?") | Jordan — Team Together Grade 4 Activity Book, Semester 1, Welcome, printed pp.2–5 |
+| The age question as a lesson's own name — "How old are you?" — its printed sheets carrying the numbers one–ten as words to answer with: a caterpillar whose ten segments print the number words, and a read-and-colour list running "Number 1" to "Number 10" (this book is a printed workpack led by its audio, so its rows cite PDF pages; the question is the lesson's title in the pack's own map, and the age word is one of the three started lines of the self-profile that follows it) | Greece, Grade 2 Beta English Workpack, Cycle A, A05 "How old are you?," PDF pp.19–20; A06 "I am special," PDF pp.21–22 |
+| Age stated whole inside self-introductions, in the full "years old" form: "Hi, everybody. I'm David, from England. I'm 12 years old" and "Hello! I'm Magda from Nafplio, Greece. I'm 12 years old"; the workbook's profiles give Dorothy and Thomas as 12 and Christos as 13, and its e-mail writer Sarah as fourteen | Greece, Think Teen! Grade 7 Beginners, Student's Book, Unit 1, printed p.2; Unit 2, Lesson 1, printed p.9; Workbook, Unit 1, printed p.2; Unit 2, Lesson 1, printed p.8 |
 
-**Acceptance count: taught in 8 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
+**Acceptance count: taught in 9 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 China teaches the exchange in the full "years old" form with
 candle counting (Grade 3 Volume 1) and later ties age to the
 birthday date (Grade 5 Volume 2); North Macedonia practises it
@@ -36,7 +38,13 @@ form; Iran gives age its own first-book lesson and widens the
 question to the whole family a lesson later. Jordan joined
 2026-11-03: it teaches the question in its Grade 1 first
 unit, in the short form, and re-runs it at Grade 2's Welcome
-and in Grade 4's identity set.
+and in Grade 4's identity set. Greece joined 2026-11-03:
+its Grade 2 pack names a whole lesson "How old are you?"
+and prints the numbers one–ten to answer with, and its
+Grade 7 Beginners books state ages whole — "I'm 12 years
+old" — inside their self-introductions; unlike Sierra Leone
+above, Greece is counted because the question itself is its
+lesson title, not only an age stated in passing.
 Nicaragua's filed books ask names in their greeting
 material, not age — so it is not counted here; Sierra
 Leone's filed books likewise state a boy's age ("He is 10
@@ -152,3 +160,34 @@ nationality, asked as "What's your name? How old are you?
 Where are you from?" Jordan's form throughout is Libya's
 short form, never the full "years old" form of Egypt, China
 and Indonesia.
+
+**Greece added 2026-11-03** — three books stock this
+lesson: **Book:** *BetaEnglish for 2nd grade pupils —
+WORKPACK*, Grade 2 (workpack); **Books:** *Think Teen!
+1st Grade of Junior High School, Student's Book
+(Beginners)* and its *Workbook*, Grade 7 (student book /
+workbook) — Greece, ITYE «Diophantos», for the Ministry
+of Education (ebooks.edu.gr). All filed in
+english/books/greece.md (Grade 2 and Grade 7 (Beginners)
+sections, FULLY READ + CITATION CHECK PASSED
+2026-11-03). Greece's age question lives at the start of
+school: the Grade 2 pack's Cycle A lesson A05 is named
+"How old are you?" in the pack's own map (PDF p.195),
+and its printed sheets (PDF pp.19–20) carry the answer
+material — the number words one–ten on a caterpillar
+craft and a read-and-colour list from "Number 1" to
+"Number 10"; the next lesson, A06 (PDF pp.21–22), starts
+the pupil's own self-profile with a greeting line, a
+name/age line and a "I like …" line. The pack is
+audio-led printed sheets, so the question itself is the
+lesson title rather than a printed dialogue — recorded
+here exactly so, and it is that title, not a passing age
+statement, that counts Greece in (compare Sierra Leone
+above, not counted). The answer in its full form is what
+the later books print: Grade 7 Beginners opens with
+David's "I'm 12 years old" (Student's Book, Unit 1,
+printed p.2) and Magda's "I'm 12 years old" (Unit 2,
+Lesson 1, printed p.9), and the Workbook's profiles and
+e-mail state Dorothy 12, Thomas 12, Christos 13 and
+Sarah fourteen (Workbook, Unit 1, printed p.2; Unit 2,
+Lesson 1, printed p.8).

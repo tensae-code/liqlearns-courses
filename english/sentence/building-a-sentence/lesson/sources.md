@@ -1,6 +1,6 @@
 # Sources — Building a sentence
 
-countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan
+countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece
 
 Every part traces to its book and page.
 
@@ -63,6 +63,10 @@ Development (NCCD), Amman (Pearson Education / York
 Press originals). Filed in english/books/jordan.md (FULLY READ +
 CITATION CHECK PASSED 2026-11-03).
 
+**Book 12:** Greece Think Teen!, Grade 7 Beginners, Workbook (workbook) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 13:** Greece Think Teen!, Grade 7 Advanced, Workbook (workbook) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 14:** Greece Think Teen!, Grade 9, Student's Book (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The SIMPLE PRESENT box written as a board paradigm: affirmative Subject + Verb + Complement on "play," negative with do/does not, and the DO–DOES interrogative box beside it — the sentence's three-part formula stated as the book's own grammar frame | Bolivia compendium, the Daily activities text (T8, compendium p.178) |
@@ -77,10 +81,14 @@ CITATION CHECK PASSED 2026-11-03).
 | Sentence ordering as written practice — sentences set in order, with the model "We have breakfast." | Jordan, Team Together Grade 3, Activity Book, Semester 1, Unit 1 "Routines," pp.6–13 |
 | Sentence-building as a named exercise kind — starred form-choice and sentence-building on family breakfast routines, inside the present simple affirmative/negative work | Jordan, High Note Grade 8, Workbook, Semester 1, Unit 1, Lesson 1B, pp.4–11 |
 | Word order set as the present continuous's own practice point — word order worked with mini-conversations and picture sentences | Jordan, High Note Grade 8, Workbook, Semester 1, Unit 4, Lesson 1B, pp.28–35 |
+| Word order worked as a practice point inside the present simple / present continuous contrast — signal phrases, word-order and question-formation tasks | Greece, Think Teen! Grade 7 Beginners Workbook, Unit 5, Lesson 2, p.55 |
+| Word order named as one of the labelled mistake kinds on the error-correction writing page — spelling, word order, grammar, wrong tense, wrong word | Greece, Think Teen! Grade 7 Beginners Workbook, Unit 5, Lesson 3, p.60 |
+| Word order and question formation worked in the film-letter lesson, beside action vs state verbs and the present simple / continuous contrast drills | Greece, Think Teen! Grade 7 Advanced Workbook, Unit 2, Lesson 3, p.22 |
+| Verbs sorted by the sentence pattern they take — no object, object, object + to-infinitive, two objects, to-infinitive alone — the book's verb-syntax presentation | Greece, Think Teen! Grade 9 Student's Book, Unit 6, p.65 |
 
-**Acceptance count: taught in 9 countries (Bangladesh,
+**Acceptance count: taught in 10 countries (Bangladesh,
 Bolivia, Ghana, Mongolia, China, Indonesia, Iran,
-Sierra Leone, Jordan).** Bolivia states the formula;
+Sierra Leone, Jordan, Greece).** Bolivia states the formula;
 Ghana names the two parts; Bangladesh drills the building
 from tables; Mongolia checks the order; China adds the
 this/these, that/those sentence system, taught as one
@@ -92,6 +100,6 @@ subject-and-verb rule in JSS 1 and writes sentences with
 all eight parts in SSS 1; Jordan orders
 sentences in its Grade 3 workbook and builds them, and
 sets present-continuous word order, in its Grade 8
-workbook. Other finished
+workbook. Greece stocks this lesson only in part: it works word order as practice — in the Grade 7 workbooks' contrast drills, question formation and labelled error correction — and sorts verbs by sentence pattern at Grade 9, but no Greece book states a subject-and-verb sentence-building rule as a named lesson. Other finished
 countries join as their books are read (see
 READING-QUEUE.md).

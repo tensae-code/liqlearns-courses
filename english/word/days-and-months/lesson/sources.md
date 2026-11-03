@@ -1,6 +1,6 @@
 # Sources — Days and months
 
-countries: Bangladesh, Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan
+countries: Bangladesh, Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece
 
 Every part traces to its book and page.
 
@@ -63,6 +63,10 @@ english/books/jordan.md (Grade 3 Pupil's Book Semester 1 section, FULLY READ + C
 **Book 12:** Jordan Team Together, Grade 6: Activity Book, Semester 2 (activity book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
 english/books/jordan.md (Grade 6 Activity Book Semester 2 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 13:** Greece Beta English, Grade 2: Workpack (workpack — a printed pack of sheets with no folios, cited by PDF page and sheet code) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 2 — BETA ENGLISH section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 14:** Greece Αγγλικά (Anglika), Grade 4: Student's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 4 — Αγγλικά (Anglika), Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "How many days are there in a week?" — "There are 7 days in a week"; the seven days listened and repeated Saturday-first (Egypt's school week); the list teaching after/before with arrows | Egypt, Primary 1 Term 2, Unit 1 "My Week," Lesson 1 "Days of the Week," p.6 |
@@ -85,9 +89,13 @@ english/books/jordan.md (Grade 6 Activity Book Semester 2 section, FULLY READ + 
 | The seven days in the Learning Club — Sunday–Saturday listened to and circled (the Activity Book carries the days wordsearch) | Jordan, Grade 1 Pupil's Book Semester 1, Learning Club, printed pp.38–40 (Activity Book, printed pp.28–29) |
 | The seven days Sunday–Saturday with the weekend, carried by the week's activities ("Does he do karate on Saturday?"); and the months grouped by their seasons in the Festivals pages (spring = March, April, May), with month-ordering work in the Activity Book | Jordan, Grade 3 Pupil's Book Semester 1, Unit 3 "The activity centre," pp.24–31; Festivals "Months and seasons," pp.44–47 (Activity Book, pp.40–41) |
 | The month-length rhyme in its traditional form: the "thirty days" calendar rhyme completed with month names, inside the months-in-order and seasons booster | Jordan, Grade 6 Activity Book Semester 2, Lara's Learning Club, Language booster 3, pp.24–25 |
+| The seven days acted by snowmen: a poster where a snowman acts out a body action for each day — "On Sunday tap your toes" through sitting-down Saturday — and a tracing sheet of the seven day-names as cut-out cards (this book is a printed workpack, so its rows cite PDF pages) | Greece, Grade 2 Beta English Workpack, Cycle Γ, Γ01 "Days of the week," PDF pp.79–80 (poster, PDF p.79) |
+| All twelve months, grouped by their seasons on four colour-and-cut banners: Spring (March, April, May), Summer (June, July, August), Autumn (September, October, November), Winter (December, January, February) — Greece teaches the months as well as the days, in full | Greece, Grade 2 Beta English Workpack, Cycle Γ, Γ09 "Happy birthday: seasons and months," PDF pp.111–115 (Spring banner, PDF p.112) |
+| The days carried by a school timetable: Andrew's weekly timetable read and compared, pupils writing their own timetable for a pen friend, and the days tested in the unit's self-assessment beside number arithmetic | Greece, Αγγλικά (Anglika) Grade 4 Student's Book, Unit 1, Lesson 2 "My timetable," printed pp.14–17 (timetable, printed p.14); self-assessment printed pp.19–20 |
+| The twelve months and the four seasons taught inside the time unit, opened by a party invitation — "Come to my birthday party! It's on Saturday May 3rd, at 7.30 p.m." — with present simple for what people do in particular months and seasons (*in* + month/season, *on* + day) | Greece, Αγγλικά (Anglika) Grade 4 Student's Book, Unit 4 "Time," Lesson 1 "Happy Birthday!," printed pp.45–49 (invitation, printed p.46); Lesson 2, printed pp.50–53 |
 
-**Acceptance count: taught in 8 countries (Bangladesh,
-Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan).** Egypt
+**Acceptance count: taught in 9 countries (Bangladesh,
+Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece).** Egypt
 carries the days first (its school-week
 order, Saturday-first); Bangladesh carries the days on a
 Sunday-first calendar, the months with their ordinal numbers,
@@ -103,7 +111,7 @@ working in Persian-calendar months; Sierra Leone carries the
 days only, named from word cards and ordered in a story. The
 books start the printed week on different days — the lesson
 shows each, per the standing rule for when books differ.
-Jordan carries the days listened to and circled in its first Learning Club, the days with the week's activities and the months by seasons in Grade 3, and the thirty-days rhyme completed with month names in Grade 6; Other closed countries join as their books are read (see
+Jordan carries the days listened to and circled in its first Learning Club, the days with the week's activities and the months by seasons in Grade 3, and the thirty-days rhyme completed with month names in Grade 6; Greece carries both halves in full — the seven days acted by snowmen and traced as cut-out cards in Grade 2, all twelve months grouped by their seasons in the same pack, then the days on a Grade 4 school timetable and the months inside its Grade 4 time unit; Other closed countries join as their books are read (see
 READING-QUEUE.md).
 
 **Laos Grade 4 added 2026-10-27** — *English for Lao Primary

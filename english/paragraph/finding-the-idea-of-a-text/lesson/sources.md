@@ -1,6 +1,6 @@
 # Sources — Finding the idea of a text
 
-countries: Bangladesh, Ghana, China, Indonesia, Iran, Sierra Leone, Jordan
+countries: Bangladesh, Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece
 
 Every part traces to its book and page.
 
@@ -73,6 +73,20 @@ Semester 2 — Jordan, National Center for Curriculum
 Development (NCCD), Amman. Filed in english/books/jordan.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 15:** Greece Αγγλικά 1 Γενικού Λυκείου, Grade 10:
+student book — Greece, ITYE «Diophantos», for the Ministry
+of Education (ebooks.edu.gr). Filed in
+english/books/greece.md (Grade 10 — Αγγλικά 1 Γενικού
+Λυκείου, Student's Book section, FULLY READ + CITATION
+CHECK PASSED 2026-11-03).
+
+**Book 16:** Greece Αγγλικά 2 (Αγγλικά Γενικού Λυκείου 2),
+Grades 11–12: student book — Greece, ITYE «Diophantos»,
+for the Ministry of Education (ebooks.edu.gr). Filed in
+english/books/greece.md (Grades 11–12 — Αγγλικά 2,
+Student's Book section, FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Paragraph Development — the four modes named (expository, narrative, description, argument); "main idea vs supporting details; cohesive devices" — the weighing itself, named as the reading skill | Ghana, NaCCA JHS curriculum, Strand (Paragraph Development, as filed) |
@@ -93,9 +107,13 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | Main Points and Details as a named lesson: identifying the main idea and the supporting details of a non-fiction passage (an information text and a drawing of an elephant) | Sierra Leone, Primary 4 Term 2, Lesson 107 (PDF p.100, as filed) |
 | The main idea named outright as the reading strategy: Active Reading — understanding the main idea, worked on the "Stereotypes! Are they true?" reading | Jordan, Grade 8 Student's Book, Semester 1, Unit 1, Reading, pp.8–9 |
 | Summarising named as the Active Reading strategy of the nature unit — the reading carried down to what it says, beside the article the pupil then writes from it | Jordan, Grade 10 Student's Book, Semester 2, Unit 9 (unit pp.38–47), Active Reading: summarising texts |
+| The idea hunt as gist work: the animal-testing article answered first by gist questions, before true/false/not-mentioned and purpose questions narrow it down | Greece, Grade 10 Student's Book, Unit 5, Reading, printed pp.52–54 |
+| A heading found for each part of a text: the four-part fast-fashion article read as a jigsaw, then headings matched to its parts — each part carried down to the heading that holds it | Greece, Grade 10 Student's Book, Unit 6, printed p.72 |
+| Paragraph-title matching at full scale: titles found for all ten numbered paragraphs of the social-media article, with paragraph-location questions beside them | Greece, Grade 10 Student's Book, Unit 8, Reading, printed pp.96–97 |
+| A heading assigned to each of a text's nine paragraphs — the paragraph-by-paragraph idea hunt worked on the teenage-alcohol article | Greece, Grades 11–12 Student's Book, Unit 5, printed p.70 |
 
-**Acceptance count: taught in 7 countries (Bangladesh,
-Ghana, China, Indonesia, Iran, Sierra Leone, Jordan).** Ghana names the weighing (main idea vs supporting
+**Acceptance count: taught in 8 countries (Bangladesh,
+Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece).** Ghana names the weighing (main idea vs supporting
 details) and the own-words law; Bangladesh sets the choice
 as a task; China hunts the idea by title-choice and by the
 one question a whole text answers, and names the
@@ -112,6 +130,10 @@ and teaches the own-words paraphrase of a text's main
 ideas from Primary 6 to the SSS3 summarising lesson;
 Jordan names the hunt in its Active Reading boxes —
 understanding the main idea at Grade 8, summarising
-texts at Grade 10.
+texts at Grade 10; Greece stocks the hunt in part — it
+never names the main idea, but it works the same weighing
+as gist questions and as heading and paragraph-title
+matching, part by part at Grade 10 and paragraph by
+paragraph at Grades 11–12.
 Other closed countries join as their books are
 read (see READING-QUEUE.md).

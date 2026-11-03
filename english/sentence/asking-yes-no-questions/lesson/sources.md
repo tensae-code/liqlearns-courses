@@ -1,6 +1,6 @@
 # Sources — Asking yes/no questions
 
-countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan
+countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece
 
 Every part traces to its book and page.
 
@@ -89,6 +89,9 @@ Development (NCCD), Amman (Pearson Education / York
 Press originals). Filed in english/books/jordan.md (FULLY READ +
 CITATION CHECK PASSED 2026-11-03).
 
+**Book 17:** Greece Αγγλικά (Anglika), Grade 4, Student's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 4 — Αγγλικά (Anglika), Student's Book, New Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 18:** Greece Αγγλικά (Anglika), Grade 5, Pupil's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 5 — Αγγλικά (Anglika), Pupil's Book, Revised Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The SIMPLE PRESENT frame in three shapes — affirmative Subject + Verb + Complement, negative with do/does not — and the DO–DOES interrogative box standing beside them as the question shape | Bolivia compendium, the Daily activities text (T8, compendium p.178) |
@@ -116,10 +119,15 @@ CITATION CHECK PASSED 2026-11-03).
 | The be yes/no question in its doing-now shape — "Is he/she/it (flying)? Yes, he/she/it is. / No, he/she/it isn't. Are they (brushing the horses)? Yes, they are. / No, they aren't." | Jordan, Team Together Grade 3, Pupil's Book, Semester 2, Unit 5, pp.8–15 |
 | Have-got yes/no questions with short answers — "Have you got (a tent)? Yes, I have. / No, I haven't. Has he/she got…? Yes, he/she has. / No, he/she hasn't." | Jordan, Team Together Grade 3, Pupil's Book, Semester 2, Unit 6, pp.16–23 |
 | Can and there yes/no questions side by side — "Can (penguins) swim? Yes, they can. / Can (hippos) jump? No, they can't"; "Is there a (coconut)? Yes, there is. / No, there isn't. Are there any (burgers)? Yes, there are. / No, there aren't." | Jordan, Team Together Grade 3, Pupil's Book, Semester 2, Unit 8, pp.32–39 |
+| The there-question with its forms from the first unit: there is / there are with is there…? / are there…?, beside have got for possession | Greece, Αγγλικά Grade 4, Unit 1, pp.9–20 |
+| The does-question over animal facts, with its short answers — does it…? — yes, it does / no, it doesn't — in the Sea Turtle Rescue Centre lesson | Greece, Αγγλικά Grade 4, Unit 6, Lesson 2, pp.74–77 |
+| The doing-now question with its short answers, in the reminder box: “Is Andrew setting the table? Yes, he is / No, he isn't” | Greece, Αγγλικά Grade 4, Unit 7, Lesson 1, pp.81–85 (box, printed p.83) |
+| Yes/no questions inside the full Present Simple paradigm — affirmative, negative and question forms for school life and routines, with the third-person -s/-es/-ies spelling changes | Greece, Αγγλικά Grade 5, Unit 1, Lesson 2, p.20 |
+| Past yes/no questions: did / didn't with short answers, and was/were questions, modelled on a mini-biography | Greece, Αγγλικά Grade 5, Unit 7, Lesson 2, p.92 |
 
-**Acceptance count: taught in 9 countries (Bangladesh,
+**Acceptance count: taught in 10 countries (Bangladesh,
 Bolivia, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan).** Bolivia boxes the do/does engine;
+Sierra Leone, Jordan, Greece).** Bolivia boxes the do/does engine;
 Mongolia works the be-swap on its doing-now questions;
 Bangladesh teaches the voice the question rides on; China
 adds the full shelf of shapes across its primary run — be,
@@ -132,7 +140,7 @@ voice; Sierra Leone makes the question by the be-swap,
 states the rising-voice rule, and forms and answers
 simple-present questions as a system; Jordan
 asks do, does, be, have-got and can yes/no questions
-with their short answers across Grades 2–3. Other
+with their short answers across Grades 2–3. Greece asks is there…? / are there…? and does it…? with their short answers at Grade 4, and tables the present and past question forms inside its Grade 5 systems. Other
 closed countries join as their books are read (see
 READING-QUEUE.md).
 

@@ -1,6 +1,6 @@
 # Sources — First, then, finally
 
-countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan
+countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece
 
 Every part traces to its book and page.
 
@@ -52,6 +52,18 @@ Semester 1 — Jordan, National Center for Curriculum
 Development (NCCD), Amman. Filed in english/books/jordan.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 11:** Greece Αγγλικά (Anglika), Grade 5: student
+book — Greece, ITYE «Diophantos», for the Ministry of
+Education (ebooks.edu.gr). Filed in english/books/greece.md
+(Grade 5 — Αγγλικά (Anglika), Pupil's Book section, FULLY
+READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 12:** Greece Αγγλικά (Anglika), Grade 6: student
+book — Greece, ITYE «Diophantos», for the Ministry of
+Education (ebooks.edu.gr). Filed in english/books/greece.md
+(Grade 6 — Αγγλικά (Anglika), Student's Book section, FULLY
+READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Linking words" Tip: "Linking words make the story clear and easy to follow. First, Then, After that, Finally" — the set printed as a writing law | Egypt, Secondary, the writing Tip (p.70 of its book, as filed in the book map) |
@@ -66,9 +78,11 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | Recipe-writing support that names the sequence set for the method text — first, then, after that, last — where the pupil's recipe is written | Jordan, Grade 4 Activity Book, Semester 1, Unit 2 "Picnic time!", Lesson 10 (unit pp.14–21) |
 | Recipes as the unit's Literacy genre: a model recipe (chocolate cookies) read, then the pupil's own recipe written — the method told in its order, with "How to write… a recipe" in the book's reference | Jordan, Grade 6 Pupil's Book, Semester 1, Unit 4, Lessons 10–11 (unit pp.42–51); How to write…, p.60 |
 | The pupil's recipe written under the sequencers named as its set — first / next / then / finally — closed by a write-and-check checklist | Jordan, Grade 6 Activity Book, Semester 1, Unit 4, Lesson 12 (unit pp.36–45) |
+| The pupil's own short story written with the linking words named as its set — first, then, after that, finally, as soon as, while, when — inside the stories unit, where the two past tenses are taught together | Greece, Grade 5 Pupil's Book, Unit 8, Lesson 2, printed pp.102–105 |
+| Linking words taught as their own box where the past tenses combine in one sentence — first, then, when, while, as, finally — the sequence set printed for the pupil's own telling | Greece, Grade 6 Student's Book, Unit 4, printed p.44 |
 
-**Acceptance count: taught in 7 countries (Bangladesh,
-Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan).** Egypt prints the law and the set;
+**Acceptance count: taught in 8 countries (Bangladesh,
+Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece).** Egypt prints the law and the set;
 Mongolia files the family by its grammar name; Bangladesh
 tells its methods under the signposts; China adds the
 dated diary as the model recount, its events sorted before
@@ -81,7 +95,12 @@ transition set — first, then, after, next, later, finally
 names the sequence set inside recipe writing twice —
 first, then, after that, last as Grade 4 writing support,
 and first / next / then / finally as the named sequencers
-of the Grade 6 recipe the pupil writes from a model.
+of the Grade 6 recipe the pupil writes from a model;
+Greece names the set twice in primary school — as the
+linking words of the pupil's own short story at Grade 5
+(first, then, after that, finally, as soon as, while,
+when) and as a printed linking-words box at Grade 6
+(first, then, when, while, as, finally).
 Iran was
 checked and adds nothing here: its read books teach no
 first/then/finally signpost set (sequence is carried by

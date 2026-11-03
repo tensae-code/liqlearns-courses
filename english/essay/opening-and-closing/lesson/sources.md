@@ -1,6 +1,6 @@
 # Sources — Opening and closing
 
-countries: Bolivia, Ghana, China, Indonesia, Sierra Leone
+countries: Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece
 
 Every part traces to its book and page.
 
@@ -37,6 +37,13 @@ Education. Filed in english/books/sierra-leone.md
 Education. Filed in english/books/sierra-leone.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 8:** Greece Αγγλικά 1 Γενικού Λυκείου, Grade 10:
+student book — Greece, ITYE «Diophantos», for the Ministry
+of Education (ebooks.edu.gr). Filed in
+english/books/greece.md (Grade 10 — Αγγλικά 1 Γενικού
+Λυκείου, Student's Book section, FULLY READ + CITATION
+CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The introduction's duty — "it tells what your topic and main ideas are"; the conclusion's definition — "the same information as the introductory paragraph, written from a different perspective"; the closing's signal example as printed ("In conclusion, nobody is perfect") and its opening-motion counterpart ("First of all, …") | Bolivia compendium, the essay-structure section (as filed) |
@@ -48,8 +55,10 @@ Education. Filed in english/books/sierra-leone.md
 | The discussion text's closing slot, named in its taught structure: conclusion/recommendation, after issue and the arguments for and against | Indonesia, Life Today, Grade 12, Unit 4, Reading, pp.176–179 |
 | The descriptive essay's frame required whole: a descriptive essay about your school in at least three paragraphs — sensory details, introduction/body/conclusion, figurative language | Sierra Leone, JSS3 Term 2, Lesson 96, p.94 |
 | The five-paragraph frame where the ends are two of the five: introduction, three body paragraphs, conclusion — built, outlined, then checked in the writing (title, structure, topic sentences) across the descriptive-essay lessons | Sierra Leone, SSS1 Term 3, Lessons 105–106, pp.19 and 21, and Lesson 110, p.29 |
+| The essay's two ends named as the plan's first and last slots: introduction opens the five-paragraph opinion-essay plan, and the conclusion closes it by restating the opinion the opening stated | Greece, Grade 10 Student's Book, Unit 5, Writing, printed pp.61–63 |
+| The two ends taught by name, as their own guide inside the essay scaffold: a guide to introductory and concluding paragraphs, with the linking bank's introducing and concluding sections sorted beside it | Greece, Grade 10 Student's Book, Unit 8, Writing, printed pp.110–112 |
 
-**Acceptance count: taught in 5 countries (Bolivia, Ghana, China, Indonesia, Sierra Leone).**
+**Acceptance count: taught in 6 countries (Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece).**
 Bolivia's table defines both ends and dresses their joints;
 Ghana's first revise question sets the opening's law;
 China frames the formal letter — open with the matter,
@@ -58,6 +67,11 @@ essay genres: the thesis that opens an exposition, the
 reiteration that closes it, the recommendation that closes
 a hortatory text and a discussion text; Sierra Leone
 requires the introduction/body/conclusion frame whole at
-JSS3 and builds the five-paragraph essay's two ends at SSS1.
+JSS3 and builds the five-paragraph essay's two ends at SSS1;
+Greece teaches the ends inside its Lykeio essay scaffolds —
+the opinion essay's plan opens with an introduction and
+closes with a conclusion restating the opinion, and the
+for-and-against scaffold carries its own guide to
+introductory and concluding paragraphs.
 Other closed countries join as their books are read (see
 READING-QUEUE.md).

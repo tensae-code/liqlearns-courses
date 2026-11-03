@@ -1,6 +1,6 @@
 # Sources — Past actions
 
-countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan
+countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece
 
 Every part traces to its book and page.
 
@@ -69,6 +69,10 @@ Development (NCCD), Amman (Pearson Education / York
 Press originals). Filed in english/books/jordan.md (FULLY READ +
 CITATION CHECK PASSED 2026-11-03).
 
+**Book 13:** Greece Αγγλικά (Anglika), Grade 5, Pupil's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 5 — Αγγλικά (Anglika), Pupil's Book, Revised Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 14:** Greece Αγγλικά (Anglika), Grade 6, Student's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 6 — Αγγλικά (Anglika), Student's Book, New Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 15:** Greece Think Teen!, Grade 7 Advanced, Student's Book (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | PAST SIMPLE box — subject + verb-ed + rest, positive and negative — and the "Do you remember these verbs?" matching list of irregular pasts (went, had, took, came, saw, gave, ate, drank, could, was/were…) | Mongolia, English VI, Unit 6 "School Trips," Lesson 2, p.64 (box and list as filed) |
@@ -89,10 +93,15 @@ CITATION CHECK PASSED 2026-11-03).
 | The irregular past staged second — "I wore this dress at our wedding"; "We didn't see the ring again"; "Did you get any presents?" | Jordan, Team Together Grade 4, Pupil's Book, Semester 2, Unit 8, pp.38–47 |
 | The past continuous, and the two pasts set against each other — "The shark was looking for small sea animals"; "I was watching the koalas when the lion escaped" | Jordan, Team Together Grade 5, Pupil's Book, Semester 2, Unit 5, pp.8–17 |
 | The simple past re-taught whole at secondary level — Past Simple of be and can, and Past Simple affirmative of regular and irregular verbs (pp.48–49), then Past Simple negative and question forms (p.52) | Jordan, High Note Grade 8, Student's Book, Semester 1, Unit 5, pp.48–57 |
+| Past Simple affirmative taught through El Greco's biography, with the regular spelling rules — add -ed, -d after e, -ied after consonant + y, doubling after a stressed short vowel | Greece, Αγγλικά Grade 5, Unit 7, Lesson 1, p.88 |
+| Past Simple negatives and questions: did / didn't, short answers, and was/were questions | Greece, Αγγλικά Grade 5, Unit 7, Lesson 2, p.92 |
+| The Past Continuous for past actions in progress, framed by the fairy tale's storm scene, then Past Simple and Past Continuous together — interrupted actions with while / when | Greece, Αγγλικά Grade 5, Unit 8, Lessons 1–2, pp.98–105 (points, printed pp.100 and 104) |
+| Past Simple and Past Continuous introduced side by side in two grammar boxes, then the two combined in one sentence, with linking words (first, then, when, while, as, finally) | Greece, Αγγλικά Grade 6, Unit 4, pp.37–48 (boxes, printed p.40; combined rule, printed p.44) |
+| The narrative past rebuilt at Gymnasio: the Past Simple with dates and years, then the Past Continuous for background action in progress against the Past Simple for interrupting events | Greece, Think Teen! Grade 7 Advanced, Unit 4, Lessons 1–2 (lessons open printed pp.44 and 49) |
 
-**Acceptance count: taught in 9 countries (Bolivia, Ghana,
+**Acceptance count: taught in 10 countries (Bolivia, Ghana,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
-Jordan).** Mongolia boxes the -ed frame and drills the
+Jordan, Greece).** Mongolia boxes the -ed frame and drills the
 movers by name; Bolivia states the whole paradigm including
 the Did/didn't law; Ghana seats the simple past where
 stories live; China adds the past staged regular first,
@@ -108,7 +117,7 @@ past regular-first for the senior exam; Jordan
 stages the past in Grade 4 — be first, then regular,
 then irregular — sets the past continuous against it
 in Grade 5, and re-teaches the simple past in Grade 8.
-Other closed countries join as their books
+Greece stages the past in Grade 5 — affirmative first, then negatives and questions, then the continuous and the two pasts together — combines the two boxes in Grade 6, and rebuilds the narrative past at Grade 7. Other closed countries join as their books
 are read (see READING-QUEUE.md).
 
 **Laos Grade 6 added 2026-10-27** — *English for Secondary

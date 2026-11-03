@@ -1,6 +1,6 @@
 # Sources — Present actions
 
-countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan
+countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece
 
 Every part traces to its book and page.
 
@@ -88,6 +88,10 @@ Development (NCCD), Amman (Pearson Education / York
 Press originals). Filed in english/books/jordan.md (FULLY READ +
 CITATION CHECK PASSED 2026-11-03).
 
+**Book 17:** Greece Αγγλικά (Anglika), Grade 4, Student's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 4 — Αγγλικά (Anglika), Student's Book, New Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 18:** Greece Αγγλικά (Anglika), Grade 5, Pupil's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 5 — Αγγλικά (Anglika), Pupil's Book, Revised Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 19:** Greece Αγγλικά (Anglika), Grade 6, Student's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 6 — Αγγλικά (Anglika), Student's Book, New Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Daily Routines lesson: the routine set with photo sentences at clock times, and the full Present Simple routines box with its spelling work | Egypt, Primary 3 Term 1, Daily Routines lesson (L4), pp.19–26 (the box, p.23) |
@@ -111,10 +115,15 @@ CITATION CHECK PASSED 2026-11-03).
 | The two faces set against each other as one grammar point — Present simple vs Present continuous, with the state verbs (prefer, sound, know) beside them | Jordan, Team Together Grade 6, Pupil's Book, Semester 1, Unit 1, pp.8–17 |
 | The present simple re-taught whole at secondary level — affirmative and negative (p.5), then adverbs of frequency and Present Simple questions (p.7) | Jordan, High Note Grade 8, Student's Book, Semester 1, Unit 1, pp.4–13 |
 | The present continuous re-taught and then contrasted — Present Continuous (pp.36–37), then Present Simple vs Present Continuous (p.39), worked through a "No Pens Day" text | Jordan, High Note Grade 8, Student's Book, Semester 1, Unit 4, pp.36–45 |
+| The present simple for daily routines, with the adverbs of frequency always, usually, often, sometimes, never — tabulated again in My Grammar Corner with the third-person -s spelling rules and the do/does questions | Greece, Αγγλικά Grade 4, Unit 5, Lesson 1, pp.57–61; Grammar Corner, pp.150–155 |
+| The present continuous for actions happening now, with -ing spelling rules, then jobs as facts set against actions in progress — present simple vs present continuous | Greece, Αγγλικά Grade 4, Unit 7, Lessons 1–2, pp.81–89 |
+| The Present Simple as a taught system: affirmative, negative and question forms for school life and routines, with the third-person -s/-es/-ies spelling changes | Greece, Αγγλικά Grade 5, Unit 1, Lesson 2, p.20 |
+| Present Continuous contrasted with Present Simple: what people usually do against what they are doing this year / today | Greece, Αγγλικά Grade 5, Unit 4, Lesson 1, p.52 |
+| Both faces restated and contrasted at the top of primary: the Present Simple Grammar Box with adverbs of frequency, then the Present Continuous Grammar Box contrasting regular habits with happening now | Greece, Αγγλικά Grade 6, Unit 1, pp.1–12 (boxes, printed pp.4 and 8) |
 
-**Acceptance count: taught in 10 countries (Egypt, Ghana,
+**Acceptance count: taught in 11 countries (Egypt, Ghana,
 Libya, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan).** Egypt boxes the every-day face inside
+Sierra Leone, Jordan, Greece).** Egypt boxes the every-day face inside
 routines; Mongolia tables the right-now face and its
 questions; Libya's reference names both faces' uses and
 posts the refusal list; Ghana names the simple present's
@@ -128,7 +137,7 @@ lesson pair in JSS 1 and rebuilds both for the senior
 exam in SSS 1; Jordan works
 the every-day face over routines and the third-person
 -s in Grade 3, sets the two faces against each other
-in Grade 6, and re-teaches both in Grade 8. Other closed countries join as their books are read
+in Grade 6, and re-teaches both in Grade 8. Greece builds both faces across primary — routines and frequency in Grade 4, the full simple paradigm and the simple/continuous contrast in Grade 5, and both boxes restated in Grade 6. Other closed countries join as their books are read
 (see READING-QUEUE.md).
 
 **Laos Grade 6 added 2026-10-27** — *English for Secondary

@@ -1,6 +1,6 @@
 # Sources — Animals
 
-countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan
+countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece
 
 Every part traces to its book and page.
 
@@ -90,6 +90,12 @@ english/books/jordan.md (Grade 3 Pupil's Book Semester 2 section, FULLY READ + C
 **Book 17:** Jordan Team Together, Grade 5: Pupil's Book, Semester 2 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
 english/books/jordan.md (Grade 5 Pupil's Book Semester 2 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 18:** Greece Beta English WORKPACK, Grade 2: workpack — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 2 — BETA ENGLISH, Student's Book (BetaEnglish for 2nd grade pupils — WORKPACK) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 19:** Greece Αγγλικά (Anglika) Student's Book, Revised Edition, Grade 4: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 4 — Αγγλικά (Anglika), Student's Book, New Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 20:** Greece Think Teen! Beginners Student's Book, Grade 7: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Αγγλικά, Student's Book — Think Teen! 1st Grade of Junior High School, Student's Book (Αρχάριοι) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The farm dialog (Noor and Ziad): "Look at the cow!" — "The cow is big." — "The duck is small." — "Do you see the horse?" — "The chicken is small." — "I love farm animals!" | Egypt, Primary 1 Term 1, Unit 5 "On the Farm," Lesson 1, p.85 |
@@ -114,10 +120,14 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 2 section, FULLY READ + C
 | The pet set with the animals' own parts — cat, duck, fish, hamster, mouse, parrot, rabbit, snake, spider, tortoise; feathers, fur, shell, tail, teeth, wings — described whole: "It's got (big teeth)"; Jordan's own animals in the Culture work — the oryx, the national animal of Jordan, and the striped hyena | Jordan, Grade 2 Pupil's Book Semester 2, Unit 5 "Help the animals!", pp.8–15 |
 | The farm set — chicken, cow, donkey, duck, goat, horse, sheep, bird, bee, turkey — with the farm jobs; and the wild set — monkey, tiger, hippo, giraffe, zebra, elephant, crocodile, penguin, eagle, kangaroo — asked about by what they can do: "Can (penguins) swim? — Yes, they can." | Jordan, Grade 3 Pupil's Book Semester 2, Unit 5 "Fun on the farm," pp.8–15; Unit 8 "Animals are fun!", pp.32–39 |
 | Animals in danger as the senior set: sea animals (dolphin, jellyfish, lobster, octopus, oyster, ray, seahorse, seal, shark, squid, turtle, whale) and land animals (camel, gorilla, koala, lion, panda, parrot, polar bear, rhino), with animal protection in Jordan | Jordan, Grade 5 Pupil's Book Semester 2, Unit 5 "Animals in danger," pp.8–17 |
+| Animals half-hidden in a where-is-it guessing routine — bird, zebra, dog, fish, lion, elephant, tiger, monkey, then pig, cow/horse, parrot, hippo, mouse, chick, turtle, cat (picture cards; the words are carried by the lesson's audio) | Greece, Beta English Grade 2 Workpack, Cycle A, A02 "Where is…?," PDF pp.7–8 |
+| The pet set on a Pet Show poster — horses, a bear, a dog, ducks/chicks, parrots, a squirrel, a cat, rabbits, a pig, a mouse — supporting the audio "I've got a lot of pets" | Greece, Beta English Grade 2 Workpack, Cycle B, B08 "Pets," PDF p.48 |
+| Pet and farm animals — goldfish, dog, cat, bird, iguana, sheep, cow, duck, tortoise — matched to what they do, with a riddle about a favourite animal (where it lives, what it looks like, what it eats and does); then the loggerhead sea turtle and the monk seal in fact statements, a fact-table guessing game for the giant panda, Sumatran tiger, brown bear and wolf, and an endangered-animals project | Greece, Αγγλικά Grade 4, Unit 6 "Animals," pp.69–80 |
+| Animals in danger as encyclopaedia entries — the timber wolf, the brown bear and the rhino, with height, weight, diet, pack/family life and hibernation — and can / can't for what animals can do | Greece, Think Teen! Grade 7 Beginners, Unit 4, Lesson 2 "In the wild!," p.46 |
 
-**Acceptance count: taught in 10 countries (Bangladesh, Egypt,
+**Acceptance count: taught in 11 countries (Bangladesh, Egypt,
 Libya, Palestine, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan).** Egypt carries the farm four with the first
+Sierra Leone, Jordan, Greece).** Egypt carries the farm four with the first
 size pair; Palestine carries the youngest learners' set;
 Bangladesh carries homes and foods as whole sentences; Libya
 carries the wild names inside its letter list; China carries
@@ -127,5 +137,5 @@ photographs and the farm in one whole scene; Indonesia
 carries the zoo set sorted into the five animal classes;
 Iran carries the endangered set and where each survives;
 Sierra Leone carries forest animals and where they are, and
-the article board set. Jordan carries the wild eight for the youngest learners, the pet set described by its parts with Jordan's own oryx, the farm and wild sets with can-questions, and the animals-in-danger set; Other finished
+the article board set. Jordan carries the wild eight for the youngest learners, the pet set described by its parts with Jordan's own oryx, the farm and wild sets with can-questions, and the animals-in-danger set; Greece carries the guessing animals and the pet poster in the Grade 2 Workpack, the pet and farm set with the sea turtle and monk seal in Grade 4, and the animals-in-danger entries in Grade 7 Beginners; Other finished
 countries join as their books are read (see READING-QUEUE.md).

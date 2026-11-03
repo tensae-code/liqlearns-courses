@@ -1,6 +1,6 @@
 # Sources for this lesson — Good morning and good afternoon
 
-countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan
+countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -20,8 +20,10 @@ explains one thing only.
 | "Good morning / afternoon" with Mr./Mrs./Miss + name, inside the first lesson's greeting practice | Iran — Prospect 1 (Grade 7), Lesson 1 "My Name," Practice 1, printed pp.6–9 |
 | "Good morning / Good afternoon / Good evening" matched to times of day in the very first lesson; the song "Good Morning"; and the greeting pair opening every lesson of the book ("Good morning / Good afternoon") | Sierra Leone — Language Arts Primary 1 Lesson Plans, Term 1, Lessons 1–2 and the book's repeated lesson Opening |
 | "Good morning!" in the first Welcome — the characters introduced with "Hello! / Hi! / Good morning!" (Jordan's filed books teach the morning greeting only: no "Good afternoon" greeting is printed anywhere in the Jordan read — afternoon appears there as a time-of-day word, in Grade 3, not as a greeting) | Jordan — Team Together Grade 1 Pupil's Book, Semester 1, Welcome, printed pp.4–5 |
+| Time-of-day greetings walked through one whole day in story cards: good-morning exchanges at the family breakfast and from the teacher, hello to mum at home, and good-night exchanges at bedtime; one worksheet matches the traced greetings "Good night / Goodbye / Good morning" to their scenes (this book is a printed workpack, so its rows cite PDF pages; Greece's filed books teach the morning greeting only — no "Good afternoon" greeting appears anywhere in the Greece read: the phrase does not occur in english/books/greece.md at all, and "afternoon" appears there only as a time-of-day word, in the same pack's day-parts matching, Cycle Γ, Γ02) | Greece, Grade 2 Beta English Workpack, Cycle Δ, Δ01 "Mary's day: greetings through the day," PDF pp.118–124 ("Good night, stars!" speech bubble, PDF p.123) |
+| "Good morning" as a word of the world: the greeting in ten languages, as an appendix activity | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, "It's Your Choice!" appendix activities, printed pp.133–152 |
 
-**Acceptance count: taught in 8 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan).**
+**Acceptance count: taught in 9 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece).**
 China teaches the pair inside its colours unit in the first
 primary book; Mongolia stocks the day-part ground the greeting
 stands on — one boy's whole day told in clock pictures — from a
@@ -34,6 +36,11 @@ with the pair. Jordan joined 2026-11-03 carrying the morning
 half only — "Good morning!" in its Grade 1 Welcome, the same
 morning-only shape Egypt's rows in this file carry; no
 afternoon greeting is printed in its filed books.
+Greece joined 2026-11-03 carrying the morning half only
+too — a full-day story of good-morning, hello and good-night
+exchanges in its Grade 2 workpack, and "good morning" in ten
+languages in its Grade 5 appendix; no afternoon greeting is
+printed in its filed books either.
 Counts grow as other closed countries' first books are read.
 
 **China added 2026-10-29** — **Book:** *Compulsory Education
@@ -114,3 +121,34 @@ the day-part vocabulary, not this lesson's greeting, and
 it is recorded here only to show the search was made).
 Jordan is therefore counted for the morning half of this
 lesson, exactly as Egypt is in the rows above.
+
+**Greece added 2026-11-03** — two books stock this lesson:
+**Book:** *BetaEnglish for 2nd grade pupils — WORKPACK*,
+Grade 2 (workpack) — Greece, ITYE «Diophantos», for the
+Ministry of Education (ebooks.edu.gr). **Book:** *Αγγλικά
+(Anglika), English 5th Grade, Pupil's Book, Revised
+Edition*, Grade 5 (student book) — Greece, ITYE
+«Diophantos», for the Ministry of Education
+(ebooks.edu.gr). Both filed in english/books/greece.md
+(Grade 2 and Grade 5 sections, FULLY READ + CITATION
+CHECK PASSED 2026-11-03). Greece's greeting day is the
+Grade 2 pack's Cycle Δ opener, Δ01 "Mary's day" (PDF
+pp.118–124): twelve story cards walk Mary from waking
+through a family breakfast with good-morning exchanges,
+goodbye at the school gate, the teacher's good morning,
+the teacher's goodbye at 1 o'clock, hello to mum at
+home, and good-night exchanges at bedtime; its worksheet
+matches the traced greetings "Good night / Goodbye /
+Good morning" to three of the scenes. Grade 5's appendix
+adds "good morning" in ten languages (printed
+pp.133–152). PARTIAL STOCK, recorded as such: a search
+of the whole filed Greece read finds no "Good afternoon"
+as a greeting in any of the 43 books — the phrase "good
+afternoon" does not occur in english/books/greece.md at
+all (Grade 2, Cycle Γ, Γ02, PDF pp.81–85, teaches "in
+the afternoon" only as one of the day's parts, beside
+"in the morning / in the evening / at night" — the
+day-part vocabulary, not this lesson's greeting, and it
+is recorded here only to show the search was made).
+Greece is therefore counted for the morning half of
+this lesson, exactly as Jordan is above.

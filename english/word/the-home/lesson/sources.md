@@ -1,6 +1,6 @@
 # Sources — The home
 
-countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan
+countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan, Greece
 
 Every part traces to its book and page.
 
@@ -77,6 +77,10 @@ english/books/jordan.md (Grade 3 Pupil's Book Semester 2 section, FULLY READ + C
 **Book 14:** Jordan High Note, Grade 8: Student's Book, Semester 1 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
 english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 15:** Greece Beta English WORKPACK, Grade 2: workpack — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 2 — BETA ENGLISH, Student's Book (BetaEnglish for 2nd grade pupils — WORKPACK) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 16:** Greece Αγγλικά (Anglika) Student's Book, Revised Edition, Grade 4: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 4 — Αγγλικά (Anglika), Student's Book, New Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The five rooms on pictures, each with its sentence: bedroom — "I sleep in the bedroom" · bathroom — "I brush my teeth in the bathroom" · living room — "I watch TV in the living room" · dining room — "I eat in the dining room" · kitchen — "My mother cooks in the kitchen" | Egypt, Primary 1 Term 2, Unit 4 "My House," Lesson 1 "Rooms in My House," pp.67–68 |
@@ -103,10 +107,13 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | The ten home words as one set — balcony, bathroom, bedroom, flat, garage, garden, hall, house, kitchen, living room — with the where-question: "Where's my dad? — He's in the (garden) / He isn't in the (bedroom)", and the present continuous for chores ("He's/She's tidying up") | Jordan, Grade 2 Pupil's Book Semester 2, Unit 8 "Who's at home?", pp.32–39 |
 | A room said by its furniture — door, window, sofa, armchair, television, bed, wardrobe, mirror, clock, bookcase — placed with There is/There are and the prepositions in front of, between, opposite, behind, next to: "There's a (bookcase) / There aren't any (beds)" | Jordan, Grade 3 Pupil's Book Semester 2, Unit 7 "Look at the stars," pp.24–31 |
 | The house whole at secondary level: house words, rooms and furniture (p.16), household chores (p.17) — with There is/There are with some and any | Jordan, Grade 8 Student's Book Semester 1, Unit 2 "No place like home," pp.14–23 |
+| The rooms of the house on a six-panel picture card — two bedrooms, kitchen, bathroom, dining room, living room — with an outline version of the same six rooms left blank for labels (picture citation only; the cards carry no printed words) | Greece, Beta English Grade 2 Workpack, Cycle B, B04 "Rooms of the house," PDF pp.38–39 |
+| Bedroom furniture: bed, desk, lamp, computer, carpet, poster ticked in a listening grid, then furniture pictures matched to dotted words — bed, carpet, desk, poster, chair, lamp | Greece, Beta English Grade 2 Workpack, Cycle B, B05 "My bedroom," PDF pp.42–43 |
+| Helping around the house: household chores — making the beds, setting the table, sweeping, washing up, washing the floor, ironing, watering the plants, cooking — carried by the present continuous in a kitchen dialogue | Greece, Αγγλικά Grade 4, Unit 7, Lesson 1 "Helping around the house," pp.81–85 |
 
-**Acceptance count: taught in 10 countries (Egypt, Libya,
+**Acceptance count: taught in 11 countries (Egypt, Libya,
 Palestine, Laos, China, North Macedonia, Mongolia, Indonesia,
-Iran, Jordan).** Egypt carries the five rooms with a sentence for
+Iran, Jordan, Greece).** Egypt carries the five rooms with a sentence for
 each and the drilled question; Libya carries the same rooms
 twice (Grade 1 set, Grade 2 labelled house) with the sitting
 room name and the furniture; Palestine carries the bedroom set
@@ -120,7 +127,7 @@ the parts of the house found room by room in Grade 3, and the
 there is/are room description with eight prepositions as one
 set in Grade 7; Iran carries the rooms with the where-question
 and yes/no short answers, widened in its Photo Dictionary to
-house types and furniture. Jordan carries the ten home words with the where-question in Grade 2, the furniture set with there is/are in Grade 3, and the whole house — rooms, furniture, chores — again in Grade 8; Other closed countries join as
+house types and furniture. Jordan carries the ten home words with the where-question in Grade 2, the furniture set with there is/are in Grade 3, and the whole house — rooms, furniture, chores — again in Grade 8; Greece carries the rooms and the bedroom furniture in pictures in its Grade 2 Workpack — the room cards themselves carry no printed words — and the household chores in Grade 4; Other closed countries join as
 their books are read (see READING-QUEUE.md).
 
 **Laos Grade 5 added 2026-10-27** — *Student's Book 3, Grade 5*

@@ -1,6 +1,6 @@
 # Sources — The story
 
-countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan
+countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece
 
 Every part traces to its book and page.
 
@@ -64,6 +64,26 @@ Semester 1 — Jordan, National Center for Curriculum
 Development (NCCD), Amman. Filed in english/books/jordan.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 14:** Greece Αγγλικά (Anglika), Grade 5: student
+book — Greece, ITYE «Diophantos», for the Ministry of
+Education (ebooks.edu.gr). Filed in english/books/greece.md
+(Grade 5 — Αγγλικά (Anglika), Pupil's Book section, FULLY
+READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 15:** Greece Think Teen!, Grade 7 (Advanced):
+student book — Greece, ITYE «Diophantos», for the Ministry
+of Education (ebooks.edu.gr). Filed in
+english/books/greece.md (Grade 7 (Advanced) — Think Teen!,
+Student's Book section, FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
+**Book 16:** Greece Αγγλικά 2 (Αγγλικά Γενικού Λυκείου 2),
+Grades 11–12: student book — Greece, ITYE «Diophantos»,
+for the Ministry of Education (ebooks.edu.gr). Filed in
+english/books/greece.md (Grades 11–12 — Αγγλικά 2,
+Student's Book section, FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Paragraph Development names the four modes — "expository, narrative, description, argument" — narrative standing as the story's mode among the kinds of writing | Ghana, NaCCA JHS curriculum, Paragraph Development (as filed) |
@@ -81,9 +101,12 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | The detective story as the Literacy genre: Nawal's "The missing jewellery" read as the model, then the pupil's own detective story written — with "How to write… a good story" in the book's reference | Jordan, Grade 7 Pupil's Book, Semester 1, Unit 3, Lessons 10–11 (unit pp.32–41); Reference, p.59 |
 | The pupil's own short story as a unit's writing outcome — a surfer and a lifeguard incident — with the story's linkers grouped for the telling | Jordan, Grade 10 Student's Book, Semester 1, Unit 3, Writing, pp.34–35 |
 | A story written inside the narrative-tenses unit ("The man in black"), the same unit that has pupils tell an anecdote aloud | Jordan, Grade 11 Student's Book, Semester 1, Unit 4, Writing, pp.50–51, and Speaking, p.49 |
+| A whole primary unit given to stories — "All About Stories": a fairy tale's jumbled opening reconstructed, heard in full, cast and dramatised, then the pupil's own short story written, and a traditional story as the unit's third lesson | Greece, Grade 5 Pupil's Book, Unit 8, printed pp.97–108 (Lesson 1, pp.98–101; Lesson 2, pp.102–105) |
+| The story lesson named in its own title — "Tell me a story!": a prize-winning student story about a burglary as the model text, then learners write story openings and tell a story about a day they did something wrong | Greece, Grade 7 (Advanced) Student's Book, Unit 4, Lesson 2, printed p.49 |
+| Narrative writing taught as a craft at the top of the school: the class story charted, then enriched with background, zoom-in, description, flashback and monologue — and the pupil's own story reworked to make it more literary, judged against a flattened rewrite | Greece, Grades 11–12 Student's Book, Unit 4, printed pp.51–64 |
 
-**Acceptance count: taught in 7 countries (Bangladesh,
-Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan).** Ghana names the narrative mode; Bangladesh
+**Acceptance count: taught in 8 countries (Bangladesh,
+Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece).** Ghana names the narrative mode; Bangladesh
 teaches stories from its earliest classes with the fables;
 Egypt reads whole stories through the secondary years;
 China names the story's three parts outright (setting,
@@ -99,5 +122,11 @@ a model detective story and writes one at Grade 7 under
 its "How to write… a good story" reference, sets a short
 story as a Grade 10 writing outcome with its linkers
 grouped, and writes a story inside Grade 11's
-narrative-tenses unit. Other closed countries join as their books are read (see
+narrative-tenses unit; Greece gives a whole primary unit
+to stories — a fairy tale reconstructed and dramatised,
+then the pupil's own short story — names a Grade 7 lesson
+"Tell me a story!" over a prize-winning model, and teaches
+narrative craft outright at Grades 11–12, where the story
+is charted and enriched with background, flashback and
+monologue. Other closed countries join as their books are read (see
 READING-QUEUE.md).

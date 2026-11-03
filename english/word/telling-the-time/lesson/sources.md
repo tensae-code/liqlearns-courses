@@ -1,6 +1,6 @@
 # Sources — Telling the time
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece
 
 Every part traces to its book and page.
 
@@ -52,6 +52,12 @@ section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 9:** Jordan Team Together, Grade 3: Pupil's Book, Semester 1 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
 english/books/jordan.md (Grade 3 Pupil's Book Semester 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 10:** Greece Beta English, Grade 2: Workpack (workpack — a printed pack of sheets with no folios, cited by PDF page and sheet code) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 2 — BETA ENGLISH section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 11:** Greece Αγγλικά (Anglika), Grade 4: Student's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 4 — Αγγλικά (Anglika), Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 12:** Greece Think Teen!, Grade 7 Beginners: Student's Book (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The clock's two hands named — the short, red hand is the hour hand; the long, blue hand is the minute hand; say and complete o'clock times | Bangladesh, English for Today Class 4, Unit 13 "Telling the Time," pp.26–27 |
@@ -69,9 +75,12 @@ english/books/jordan.md (Grade 3 Pupil's Book Semester 1 section, FULLY READ + C
 | Clock times pictured in the word book: 2 o'clock / 2:15 / 2:30 / 2:45 | Iran, Prospect 1 (Grade 7), Photo Dictionary, Lesson 7 section (printed pp.48–76) |
 | Saying the time (o'clock) as the routines unit's English in action, over the day's doings | Jordan, Grade 3 Pupil's Book Semester 1, Unit 1 "It's a happy day!", pp.8–15 |
 | Telling the time as a Maths lesson of its own: the minute hand and hour hand named; o'clock, quarter past, half past, quarter to, and five/ten/twenty/twenty-five past and to; and a make-a-clock task | Jordan, Grade 3 Pupil's Book Semester 1, Maths (CLIL) "How do we tell the time?", pp.42–43 |
+| O'clock times only, carried by one child's whole day: nine story cards follow Mary through her day, each with an o'clock clock face — waking at 7, school at 8, lessons at 10, home at 2, eating at 3, reading at 4, playing at 6, shower at 8, bed at 9 — with the day's parts matched beside them ("in the morning / in the afternoon / in the evening / at night"); the letter-O chant counts "1.00 o'clock, 2.00 o'clock" to 6.00 (this book is a printed workpack, so its rows cite PDF pages; Greece's Grade 2 time stops at o'clock — no half/quarter hours, no minutes, in the country file's own verdict) | Greece, Grade 2 Beta English Workpack, Cycle Γ, Γ02 "Mary's day and the clock," PDF pp.81–85; Alphabet strand, O o'clock, PDF pp.86–87 (chant, PDF p.87) |
+| The full clock system two years up, stated in a reminder box: "It's nine o'clock–9.00, It's half past nine–9.30, It's (a) quarter past nine–9.15, It's (a) quarter to nine–8.45" — taught inside the time unit against a Greek TV listings page, and tabulated again in the Grammar Corner with the *in/on* time phrases | Greece, Αγγλικά (Anglika) Grade 4 Student's Book, Unit 4 "Time," Lesson 1 "Happy Birthday!," printed pp.45–49 (reminder box, printed p.49); Appendix II "My Grammar Corner" 4.1–4.2, printed pp.150–155 |
+| Clock times inside a written day: "I get up at 7 o'clock," a lunch break "from 12 to 2 o'clock" spent at home, "I go to bed at around 11 o'clock" — telling the time named among the lesson's supporting vocabulary | Greece, Think Teen! Grade 7 Beginners, Student's Book, Unit 3, Lesson 1 "My Day!," printed p.26 (Jean Paul's day, printed p.27) |
 
-**Acceptance count: taught in 8 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran, Jordan).** Bangladesh carries
+**Acceptance count: taught in 9 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece).** Bangladesh carries
 the clock's hands, the
 o'clock shape, and the a.m./p.m. rule; Egypt carries times
 inside the day's routines with the book's own question;
@@ -87,7 +96,7 @@ times inside the morning routine, with no quarter/half
 words — the same plain telling Laos's primary book uses;
 Iran carries times in a practice table with clock faces
 under it, a.m./p.m. in the vocabulary, and the quarter and
-half times pictured in its Photo Dictionary. Jordan carries o'clock saying inside its routines unit, and the whole clock — hands, quarters, halves, past and to by fives — as a Maths lesson with a make-a-clock task; Other closed
+half times pictured in its Photo Dictionary. Jordan carries o'clock saying inside its routines unit, and the whole clock — hands, quarters, halves, past and to by fives — as a Maths lesson with a make-a-clock task; Greece carries the clock in two steps of its own — o'clock only in Grade 2, told over one child's whole day, then the full o'clock / half past / quarter past / quarter to system stated in a reminder box in Grade 4, with o'clock times inside a written school day in Grade 7 Beginners; Other closed
 countries join as their
 books are read (see READING-QUEUE.md).
 

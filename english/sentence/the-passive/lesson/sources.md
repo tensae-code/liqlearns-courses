@@ -1,6 +1,6 @@
 # Sources — The passive
 
-countries: Egypt, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan
+countries: Egypt, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece
 
 Every part traces to its book and page.
 
@@ -82,6 +82,12 @@ Semester 1 — Jordan, National Center for Curriculum
 Development (NCCD), Amman. Filed in english/books/jordan.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 16:** Greece Αγγλικά (Anglika), Grade 6, Student's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 6 — Αγγλικά (Anglika), Student's Book, New Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 17:** Greece Think Teen!, Grade 8 Advanced, Student's Book (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 8 (Advanced) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 18:** Greece Think Teen!, Grade 9, Student's Book (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 19:** Greece Αγγλικά 1 (Anglika 1), Grade 10, Student's Book (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 10 — Αγγλικά 1 Γενικού Λυκείου, Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 20:** Greece Αγγλικά 2 (Anglika 2), Grades 11–12, Student's Book (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grades 11–12 — Αγγλικά 2, Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The PASSIVE discovery — the active/passive pair ("Edison invented the light bulb in 1879." → "The light bulb was invented by Edison in 1879.") and the rule as printed: "The passive is formed with be + past participle," + transformations | Mongolia, English X, Unit 6 "Inventions," p.86 |
@@ -112,9 +118,16 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | The passive as the advertising unit's grammar lesson, practised in the Workbook's matching lesson | Jordan, Grade 10 Student's Book, Semester 2, Unit 8, Lesson 1A, pp.26–27; Workbook, Lesson 1B, pp.20–21 |
 | The passive carried into its infinitive and gerund forms, with impersonal passive structures as the unit's second grammar lesson | Jordan, Grade 11 Student's Book, Semester 2, Unit 8, Lessons 1A, pp.26–27, and 6A, p.33 |
 | The passive taught as a tense system at the top of the school: all main forms with the reasons for using it, and the passive across tenses — passive continuous forms included — restated in the Grammar Reference | Jordan, Grade 12 Student's Book, Semester 1, Unit 3, Lesson 5A, pp.32–33; Grammar Reference, pp.67–71 |
+| The Present Simple Passive as the primary finale: be + past participle, used when the action matters more than the doer, with by + agent when the doer is named, practised on cinema signs and notices | Greece, Αγγλικά Grade 6, Unit 10, p.112 |
+| The Present Simple Passive arriving in the awards lesson (form, process description, rules), applied to art-centre regulations | Greece, Think Teen! Grade 8 Advanced, Unit 5, Lesson 13, p.84 (passive point, printed p.87) |
+| The Past Simple Passive and the by-agent given their systematic treatment, with Present Perfect and Future passive forms also tabled | Greece, Think Teen! Grade 8 Advanced, Unit 5, Lesson 14, p.90 (point, printed p.91) |
+| Converting active sentences into passive ones as the drama lesson's grammar work | Greece, Think Teen! Grade 8 Advanced, Unit 5, Lesson 15, p.94 (point, printed p.96) |
+| The passive formed once in the single-stream book — be + past participle, the doer need not be named — mined from a riddle text about the potato, with Greek and English passives compared (a consolidation at the Grade 8 Advanced level, not an advance on it) | Greece, Think Teen! Grade 9, Unit 8, Lesson 2, pp.90–91 |
+| The passive noticed from a research article — results being wasted, guidelines being welcomed, procedures being started — and stated as how a passive differs from an active and when it is chosen; a second text must then be explained without passive sentences, to show what the passive is doing | Greece, Αγγλικά 1 Grade 10, Unit 5, p.55 |
+| The full passive system in the Lykeio ceiling book: passives underlined in the artist biographies, converted to active, and studied in a tense-by-tense passive formation table | Greece, Αγγλικά 2 Grades 11–12, Unit 3, p.49 |
 
-**Acceptance count: taught in 9 countries (Egypt,
-Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan).** Mongolia discovers the shape from the
+**Acceptance count: taught in 10 countries (Egypt,
+Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece).** Mongolia discovers the shape from the
 Edison pair, drills by + agent in its inventions unit,
 and spreads the present/past/future coats in its clothing
 unit and reference. Libya prints the full five-tense
@@ -140,7 +153,7 @@ passive of making at Grade 6, present and past simple
 passives together at Grade 7, the passive lesson at
 Grade 10, infinitive/gerund and impersonal forms at
 Grade 11, and the whole tense system with its reasons
-at Grade 12. Other closed countries join as their
+at Grade 12. Greece opens the passive with the present simple form at Grade 6, gives the past form and the by-agent their systematic treatment at Grade 8 Advanced (Grade 9's single formation is consolidation at that level, not an advance), notices the passive's choice against the active at Grade 10, and tables the full tense-by-tense system in Αγγλικά 2. Other closed countries join as their
 books are read (see READING-QUEUE.md).
 
 **Laos Grade 9 added 2026-10-27** — *English for Secondary

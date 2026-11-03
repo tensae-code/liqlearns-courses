@@ -1,6 +1,6 @@
 # Sources — Asking with question words
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece
 
 Every part traces to its book and page.
 
@@ -79,6 +79,10 @@ Development (NCCD), Amman (Pearson Education / York
 Press originals). Filed in english/books/jordan.md (FULLY READ +
 CITATION CHECK PASSED 2026-11-03).
 
+**Book 15:** Greece Αγγλικά (Anglika), Grade 4, Student's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 4 — Αγγλικά (Anglika), Student's Book, New Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 16:** Greece Αγγλικά (Anglika), Grade 5, Pupil's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 5 — Αγγλικά (Anglika), Pupil's Book, Revised Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 17:** Greece Think Teen!, Grade 7 Beginners, Workbook (workbook) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The question-words table — Who, What, Where, Why, When, How long, How many — each with an example question and the shape of its answer ("I am an engineer" / "In Boston" / "At 7:00" / "For a week" / "Ten") | Mongolia, English VI, Grammar Reference, Unit 10 question words (pp.118–127 span, as filed) |
@@ -101,10 +105,15 @@ CITATION CHECK PASSED 2026-11-03).
 | The when-question answered whole with a time of day — "When do you (go home)? We go home in the (afternoon)" | Jordan, Team Together Grade 3, Pupil's Book, Semester 1, Unit 1, pp.8–15 |
 | The how-much question as the asking-the-price frame — "How much is this baseball cap?" | Jordan, Team Together Grade 3, Pupil's Book, Semester 1, Unit 2, pp.16–23 |
 | How…? questions named as a question kind of the unit — "How deep is the Grand Canyon?" | Jordan, Team Together Grade 5, Pupil's Book, Semester 1, Unit 3, pp.32–41 |
+| How many…? against how much…? — the countable / uncountable question pair in the reminder box: “How many biscuits are there in the packet?” against “How much lemonade is there in the glass?” | Greece, Αγγλικά Grade 4, Unit 9, Lesson 1, pp.105–109 (box, printed p.109) |
+| What are you doing? — the doing-now Wh-question with its answer forms, in the present-continuous reminder box | Greece, Αγγλικά Grade 4, Unit 7, Lesson 1, pp.81–85 (box, printed p.83) |
+| Wh-questions gathered as the book's final self-assessment — forming Wh-questions with what, where, how often, how many, how much — after a classmate-interview project built on them | Greece, Αγγλικά Grade 4, Unit 10, Lesson 3, pp.125–129 (self-assessment, printed p.127) |
+| The question forms inside the full Present Simple system — do/does questions tabled with the affirmatives and negatives | Greece, Αγγλικά Grade 5, Unit 1, Lesson 2, p.20 |
+| Wh-questions as the grammar of the jobs lesson, the writing task withholding the job name for a partner to identify by questioning | Greece, Think Teen! Grade 7 Beginners Workbook, Unit 3, Lesson 3, p.31 |
 
-**Acceptance count: taught in 9 countries (Bangladesh, Egypt,
+**Acceptance count: taught in 10 countries (Bangladesh, Egypt,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
-Jordan).** Mongolia tables the family with its answer
+Jordan, Greece).** Mongolia tables the family with its answer
 shapes; Bangladesh gives the words their voice; Egypt has
 drilled the questions and whole answers since the youngest
 books; China adds the words worked as whole units — where,
@@ -116,7 +125,7 @@ do/does, with its falling voice; Sierra Leone frames
 occasion talk on the six words and names them as the
 question mark's signals; Jordan
 drills what/who/how-old in Grade 1, when and how much
-in Grade 3, and How…? questions in Grade 5. Other closed countries join as their books are read
+in Grade 3, and How…? questions in Grade 5. Greece works how many / how much as a taught pair and what are you doing? at Grade 4, gathers the Wh- family in its Grade 4 final self-assessment, and sets wh-questions as a lesson's grammar in its Grade 7 Beginners workbook. Other closed countries join as their books are read
 (see READING-QUEUE.md).
 
 **Laos Grade 4 added 2026-10-27** — *English for Lao Primary

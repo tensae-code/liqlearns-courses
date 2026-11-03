@@ -1,6 +1,6 @@
 # Sources for this lesson — Introducing a friend
 
-countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan
+countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -22,12 +22,15 @@ disk 2026-10-25: %PDF, 190 pp).
 | Introducing yourself and others as the chapter's stated objective, worked through comic-strip introductions | Indonesia — English for Nusantara, Grade 7, Chapter 1 "About Me," Unit 1, printed pp.15–27 (objectives printed p.14) |
 | "Who's this? — This is (my) …" — introducing a person in the first unit, "Family and friends"; a semester later the Welcome re-runs the frame as the characters re-introduce themselves by name ("This is my …") | Jordan — Team Together Grade 1 Pupil's Books: Semester 1, Unit 1, printed pp.6–13; Semester 2, Welcome, printed p.4 |
 | Introducing family and friends as a named English in action function — "Who's this? It's (my uncle)" over Laila's family photo, with "His name's… / Her name's…" beside it; the Activity Book works the "Introducing family and friends" dialogue | Jordan — Team Together Grade 2: Pupil's Book, Semester 1, Unit 4, printed pp.32–39; Activity Book, Semester 1, Unit 4, printed pp.30–37 |
+| Presenting another person as taught work: the opening unit's stated work is "presenting oneself and a partner," with personal-detail cards completed for yourself and a partner (name, surname, country, spelling) (Greece prints no "This is my friend …" frame in its filed read — its introduction work is this partner-presenting, recorded as filed) | Greece, Think Teen! Grade 7 Beginners, Student's Book, Unit 1 "Welcome!," printed pp.1–6; Teacher's Book, Unit 1, printed pp.1–8 |
+| Greetings and introductions as a named functions strand, taught through two short dialogues | Greece, Think Teen! Grade 8 Advanced, Workbook, Unit 1, Lesson 2 "Joined in our Differences," printed p.12 |
+| Greetings and introductions in a playground dialogue, contrasting how friends, teachers and a head teacher respond — the introduction fitted to who is being met | Greece, Αγγλικά (Genika Agglika) Grade 10 EPAL, Student's Book, Unit 1, Section B "In the playground," printed p.4 |
 
 The same dialog also carries the age exchange and the toy-fish
 talk — those parts are filed in their own places (age: english/age/
 how-old-are-you), not here.
 
-**Acceptance count: taught in 7 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan).**
+**Acceptance count: taught in 8 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece).**
 Egypt carries introducing the family — "This is my father /
 mother / sister …" with the "Who's this?" exchange, and a year
 deeper the whole family lineup with my / his / her on family
@@ -41,7 +44,13 @@ later; Indonesia names introducing others as a chapter
 objective and works it through comic strips. Jordan joined
 2026-11-03: it teaches "Who's this? — This is (my) …" in its
 Grade 1 first unit and names "Introducing family and friends"
-as a taught function in Grade 2.
+as a taught function in Grade 2. Greece joined 2026-11-03 in
+a thinner form than the countries above: presenting a partner
+is named work in its Grade 7 Beginners opening unit,
+introductions are a named functions strand in its Grade 8
+Advanced workbook, and its Grade 10 EPAL book teaches
+greetings and introductions fitted to who is being met — but
+no "This is my friend …" frame is printed in its filed read.
 Counts grow as other closed countries' books are read.
 (Count corrected 2026-10-29 to match this file's own sections —
 the Egypt sections below were already in the file but missing
@@ -160,3 +169,37 @@ friends", worked over Laila's family photo with "Who's
 this? It's (my uncle)" and the baby cousin Talal's naming;
 the Activity Book (Unit 4, printed pp.30–37) practises the
 same "Introducing family and friends" dialogue.
+
+**Greece added 2026-11-03** — four books stock this
+lesson: **Books:** *Think Teen! 1st Grade of Junior High
+School, Student's Book (Beginners)* and its *Teacher's
+Book*, Grade 7 (student book / teacher's book); *Think
+Teen! 2nd Grade of Junior High School, Workbook
+(Advanced)*, Grade 8 (workbook); *Γενικά Αγγλικά (Genika
+Agglika), Α΄ ΕΠΑ.Λ., Student's Book*, Grade 10 EPAL
+(student book) — Greece, ITYE «Diophantos», for the
+Ministry of Education (ebooks.edu.gr). All filed in
+english/books/greece.md (Grade 7 (Beginners), Grade 8
+(Advanced) — Workbook and Grade 10 (EPAL) — General
+English sections, FULLY READ + CITATION CHECK PASSED
+2026-11-03). Greece's introduction work is partner work,
+not a printed "This is my friend …" exchange: the Grade
+7 Beginners Teacher's Book names Unit 1's work (printed
+pp.1–8) as "names and countries, presenting oneself and
+a partner," and the Student's Book (Unit 1, printed
+pp.1–6) has learners complete personal-detail cards for
+themselves and a partner. A year up, the Grade 8
+Advanced Workbook's Unit 1, Lesson 2 (printed p.12)
+carries a functions strand that "teaches greetings and
+introductions through two short dialogues," in the
+country file's words. The Grade 10 EPAL book's Unit 1,
+Section B, "In the playground" (printed p.4), uses a
+playground dialogue "to teach greetings and
+introductions, contrasting how friends, teachers and a
+head teacher respond to parents" — the introduction
+shaped by who is being introduced to. The limit is
+recorded plainly: no third-person introduction frame of
+the "This is my friend / classmate …" kind is printed
+anywhere in the filed Greece read, so Greece is counted
+for the partner-presenting and named-function work only,
+exactly as filed.

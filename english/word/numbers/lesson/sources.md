@@ -1,6 +1,6 @@
 # Sources — Numbers
 
-countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan
+countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece
 
 Every part traces to its book and page.
 
@@ -108,6 +108,12 @@ english/books/jordan.md (Grade 4 Pupil's Book Semester 2 section, FULLY READ + C
 **Book 21:** Jordan Team Together, Grade 5: Pupil's Book, Semester 1 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
 english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 22:** Greece Beta English, Grade 2: Workpack (workpack — a printed pack of sheets with no folios, cited by PDF page and sheet code) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 2 — BETA ENGLISH section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 23:** Greece Αγγλικά (Anglika), Grade 4: Student's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 4 — Αγγλικά (Anglika), Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 24:** Greece Think Teen!, Grade 7 Beginners: Workbook (workbook) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Count objects and match them with the correct number (4 leaves, 1 sun, 5 apples, 2 tulips, 3 pineapples); "How many pencils are there? There are (2–3) pencils" / "How many stars are there? There are (3–5) stars"; trace the numbers 1–5, each row headed by that many strawberries | Egypt, KG2 (I Love My Family unit's number work), pp.54–55 |
@@ -137,10 +143,14 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 | Numbers 1–100 as the Welcome set of the next year, beside countries, nationalities and hobbies | Jordan, Grade 4 Pupil's Book Semester 1, Welcome "New neighbours," printed pp.4–7 |
 | Ordinals as a full working set: first–thirty-first, taught inside the celebrations unit | Jordan, Grade 4 Pupil's Book Semester 2, Unit 8 "Let's celebrate!", pp.38–47 |
 | Big numbers as their own set: a hundred, five hundred, a thousand, five thousand, ten thousand, fifty thousand, a hundred thousand, a million | Jordan, Grade 5 Pupil's Book Semester 1, Unit 3 "Let's explore!", pp.32–41 |
+| Numbers one–ten as words, on a craft: a caterpillar whose ten body segments print the number words, and a read-and-colour list running "Number 1" to "Number 10"; food counted beside it — one cake, one pizza, three burgers, six biscuits, four bananas, eight carrots | Greece, Grade 2 Beta English Workpack, Cycle A, A05 "How old are you?," PDF pp.19–20; A06 "I am special," PDF pp.21–22 |
+| The climb to twenty as counting work: mixed columns of butterflies, dinosaurs, cats, elephants, dolls, bats and baskets, each column headed by a dotted space for its counted total and the plural word; the audio adds a counting song and an explicit "Numbers 1–20" track (Greece's Grade 2 numbers stop at 20) | Greece, Grade 2 Beta English Workpack, Cycle B, B12 "Numbers 1–20," PDF p.59 |
+| Numbers 20–99 as words: the tens listed 10–90 and sung — "Ten, twenty, thirty, forty… And another ten is ninety" — inside a unit whose stated goals include "Use numbers from 20 to 99," with class-survey counting beside it | Greece, Αγγλικά (Anglika) Grade 4 Student's Book, Unit 1 "Back to School," printed p.9 (goals) and printed p.11 (tens) |
+| Numbers drilled as little arithmetic puzzles whose answers are number words; years up, big numbers matched whole — "Thirteen thousand, six hundred and seventeen" to 13,617 and "Fifty-two thousand, nine hundred and two" to 52,902 | Greece, Think Teen! Grade 7 Beginners Workbook, Unit 1 "Welcome!," printed pp.1–6; Appendix Task 46, printed p.138 |
 
-**Acceptance count: taught in 10 countries (Egypt, India,
+**Acceptance count: taught in 11 countries (Egypt, India,
 Palestine, Laos, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan).** Palestine carries the youngest path (numbers
+Sierra Leone, Jordan, Greece).** Palestine carries the youngest path (numbers
 inside the word units, traced); Egypt carries the counting
 question and the climb (1–5, 11–20, by tens to 100); India
 carries the same 1–20 in its first book; China carries the
@@ -151,7 +161,7 @@ picture characters over counted sets; Indonesia carries
 Iran carries 1–10 checked at the door, 1–31, then 1–100, and
 the senior climb to one billion with teen against ten;
 Sierra Leone carries counting in words from the first term,
-labelled counted objects, and printed tables to 50. Jordan carries the whole climb in its own order — 1–10, 11–20, 1–100, the ordinals first–thirty-first, and the big numbers to a million; Other
+labelled counted objects, and printed tables to 50. Jordan carries the whole climb in its own order — 1–10, 11–20, 1–100, the ordinals first–thirty-first, and the big numbers to a million; Greece carries 1–10 as words on a caterpillar craft and counted food, the counting climb to 20 (its Grade 2 numbers stop there), the tens sung to ninety inside its Grade 4 "20 to 99" unit, and numbers as arithmetic-puzzle answers and whole big numbers in its Grade 7 Beginners workbook; Other
 finished
 countries join as their books are read (see READING-QUEUE.md).
 

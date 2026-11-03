@@ -1,6 +1,6 @@
 # Sources for this lesson — Greetings
 
-countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan
+countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag.
@@ -36,6 +36,11 @@ side by side on one PDF page — that was wrong.
 | The name exchange in the first unit — "What's your name? — My name's … / I'm …" — inside "Family and friends", after a Welcome that introduces the characters (Hala, Lama, Meg, Malek, Bill, Tom) with "Hello! / Hi! / Good morning!" | Jordan — Team Together Grade 1 Pupil's Book, Semester 1: Welcome, printed pp.4–5; Unit 1, printed pp.6–13 |
 | Spelling your name letter by letter as a taught function — English in action: Asking for and spelling names; "How do you spell Asma? A-s-m-a" | Jordan — Team Together Grade 3 Pupil's Book, Semester 1, Welcome, printed pp.4–7 |
 | The origin frame a few years up — "Where are you from? I'm from Jordan. I'm Jordanian."; the Activity Book's Welcome works name, age, country and nationality together ("What's your name? How old are you? Where are you from?") | Jordan — Team Together Grade 4: Pupil's Book, Semester 1, Welcome, printed pp.4–7; Activity Book, Semester 1, Welcome, printed pp.2–5 |
+| The greeting and the name in pictures: two bear cubs introduce themselves on big character cards — "Hallo! I'm Mary" / "Hi! I'm Terry" — the first meeting of the course (this book is a printed workpack with no folios, so its rows cite PDF pages and sheet codes) | Greece, Grade 2 Beta English Workpack, Cycle A, A01 "Meeting Mary and Terry," PDF pp.4–6 (sheets B_A01_C01–C02) |
+| A first self-profile: a big head/face space with three started lines for the pupil's own greeting, name/age word and a "I like …" line | Greece, Grade 2 Beta English Workpack, Cycle A, A06 "I am special," PDF pp.21–22 |
+| The name work at secondary entry, run as revision: personal-detail cards completed for yourself and a partner (name, surname, country, spelling), opened by David's own presentation — "Hi, everybody. I'm David, from England. I'm 12 years old" | Greece, Think Teen! Grade 7 Beginners, Student's Book, Unit 1 "Welcome!," printed pp.1–6 (David printed p.2) |
+| Self-introductions read, then written: four e-friend profiles, the first opening "Hello! I'm Magda from Nafplio, Greece. I'm 12 years old"; the workbook's profiles open "My name's Dorothy Edwards and I'm from England. I'm 12 years old," and its Unit 2 writing is an introductory e-mail | Greece, Think Teen! Grade 7 Beginners, Student's Book, Unit 2, Lesson 1 "Hello, there!," printed pp.8–9 (Magda printed p.9); Workbook, Unit 1, printed p.2; Unit 2, Lesson 1, printed p.8 |
+| The meeting as an online chat: the three main characters meet and introduce themselves — ages, schools, likes — before the country-and-nationality work | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, Unit 1, Lesson 2 "Internet Friends," printed pp.18–21 |
 
 **Second country merged 2026-10-25 — Libya:**
 English for Libya, Pupils Book Grade 1 (CERC, Ministry of Education,
@@ -78,7 +83,7 @@ rendered page the same day).
 - Unit 1 "Greeting and Numbers," p. 14 (Hello/Hi, Goodbye/bye tracing;
   "What's your name? / My name's" tracing strips, p. 16).
 
-**Acceptance count: taught in 11 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan).**
+**Acceptance count: taught in 12 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece).**
 China adds name exchanges from its first primary page and the
 "Where are you from? — I'm from …" origin frame (Grades 3), plus
 five printed ways to say goodbye (Grade 6 Volume 2); North
@@ -94,6 +99,13 @@ Jordan joined 2026-11-03: its Grade 1 first unit teaches the
 name exchange, Grade 2's Welcome re-runs it, Grade 3 teaches
 spelling your name letter by letter, and Grade 4 adds the
 origin frame "Where are you from? I'm from Jordan."
+Greece joined 2026-11-03: its Grade 2 workpack opens on
+the two bears' "Hallo! I'm Mary" / "Hi! I'm Terry," its
+Grade 5 friends introduce themselves in an online chat,
+and its Grade 7 Beginners stream — which starts from
+primary English, not from zero — re-runs the whole
+exchange as personal-detail cards, profiles and an
+introductory e-mail.
 This lesson is the first layer. Courses are built from every CLOSED
 country's books (his ruling, 2026-11-03 — superseding the 2026-10-25
 finished-only rule), and updated as the library updates: when a
@@ -295,3 +307,39 @@ do you spell Asma? A-s-m-a" — and Grade 4's Welcome
 "Where are you from? I'm from Jordan. I'm Jordanian.", its
 Activity Book Welcome (printed pp.2–5) working name, age,
 country and nationality as one identity set.
+
+**Greece added 2026-11-03** — four books stock this lesson:
+**Book:** *BetaEnglish for 2nd grade pupils — WORKPACK*,
+Grade 2 (workpack) — Greece, ITYE «Diophantos», for the
+Ministry of Education (ebooks.edu.gr). **Book:** *Αγγλικά
+(Anglika), English 5th Grade, Pupil's Book, Revised
+Edition*, Grade 5 (student book) — Greece, ITYE
+«Diophantos», for the Ministry of Education
+(ebooks.edu.gr). **Books:** *Think Teen! 1st Grade of
+Junior High School, Student's Book (Beginners)* and its
+*Workbook*, Grade 7 (student book / workbook) — Greece,
+ITYE «Diophantos», for the Ministry of Education
+(ebooks.edu.gr). All filed in english/books/greece.md
+(Grade 2, Grade 5 and Grade 7 (Beginners) sections, FULLY
+READ + CITATION CHECK PASSED 2026-11-03). Greece's first
+meeting is a picture meeting: the Grade 2 workpack's
+Cycle A opens (PDF pp.4–6) with big character cards for
+the bear cubs Mary and Terry — "Hallo! I'm Mary" (PDF
+p.4), "Hi! I'm Terry" (PDF p.5) — greeting plus "I'm …"
+self-introduction, and A06 (PDF pp.21–22) gives the
+pupil's own first self-profile on three started lines.
+Grade 5 meets its cast in an online chat where Kostas,
+Nadine and Mark introduce themselves (Unit 1, Lesson 2,
+printed pp.18–21). Grade 7 Beginners does not start from
+zero — its own file states Unit 1 expects learners to
+spell their names letter by letter and answer questions
+about name, surname and country as familiar material —
+and it works that ground as personal-detail cards for
+yourself and a partner (Unit 1, printed pp.1–6; David's
+presentation at printed p.2), the four e-friend profiles
+of Unit 2, Lesson 1 (Magda's at printed p.9), and the
+workbook's profiles and introductory e-mail (Workbook,
+Unit 1, printed p.2; Unit 2, Lesson 1, printed p.8).
+Greece prints no "What's your name?" question form in
+the filed read — its exchange is the greeting plus the
+"I'm … / My name's …" answer, recorded here as printed.

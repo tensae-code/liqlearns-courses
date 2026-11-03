@@ -1,6 +1,6 @@
 # Sources — Answering from the text
 
-countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan
+countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece
 
 Every part traces to its book and page.
 
@@ -75,6 +75,20 @@ Semester 1 — Jordan, National Center for Curriculum
 Development (NCCD), Amman. Filed in english/books/jordan.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 16:** Greece Αγγλικά 1 Γενικού Λυκείου, Grade 10:
+student book — Greece, ITYE «Diophantos», for the Ministry
+of Education (ebooks.edu.gr). Filed in
+english/books/greece.md (Grade 10 — Αγγλικά 1 Γενικού
+Λυκείου, Student's Book section, FULLY READ + CITATION
+CHECK PASSED 2026-11-03).
+
+**Book 17:** Greece Αγγλικά 2 (Αγγλικά Γενικού Λυκείου 2),
+Grades 11–12: student book — Greece, ITYE «Diophantos»,
+for the Ministry of Education (ebooks.edu.gr). Filed in
+english/books/greece.md (Grades 11–12 — Αγγλικά 2,
+Student's Book section, FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "'Think as you read' questions sit inside the text at each break to check factual comprehension as the learner goes" — answering from the carrier while reading | India, Flamingo, About the Book apparatus (as filed; Hornbill's apparatus is twin) |
@@ -97,9 +111,13 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | The unseen text faced as WASSCE faces it, in two lessons: predicting and inferring; literal vs inferential questions; then main ideas and supporting details with self-questioning | Sierra Leone, SSS1 Term 3, Lessons 119–120, pp.49 and 51 |
 | A third answer shape beyond true and false: the Petra Culture text answered true / false / doesn't say, with explanations — the answer must be in the text, or honestly not there | Jordan, Grade 6 Activity Book, Semester 1, Unit 3, Lesson 8 (unit pp.26–35) |
 | Skimming and scanning named together as the Active Reading strategy over the science article — the fast hunt for what a text carries, before the questions | Jordan, Grade 10 Student's Book, Semester 1, Unit 2, Reading, pp.16–17 |
+| A long feature answered in three shapes at once: true/false, short answers and multiple choice, every answer carried by the Tilos refugee text itself | Greece, Grade 10 Student's Book, Unit 2, printed pp.19–20 |
+| A third answer shape beyond true and false, at Lykeio scale: the animal-testing article answered by gist questions, true/false/not-mentioned and multiple choice on purpose, audience and reference — the not-mentioned answer must honestly not be in the text | Greece, Grade 10 Student's Book, Unit 5, printed pp.52–54 |
+| The paragraph-location question as its own shape: purpose questions, paragraph-title matching, questions that send the reader to the paragraph where an answer lives, and ten multiple-choice items on audience, theme, reference and the writer's conclusion | Greece, Grade 10 Student's Book, Unit 8, printed pp.96–97 |
+| Multiple-choice comprehension on a nine-paragraph newspaper article, worked paragraph by paragraph after its headings are assigned | Greece, Grades 11–12 Student's Book, Unit 5, printed p.70 |
 
-**Acceptance count: taught in 8 countries (Egypt, Ghana,
-India, China, Indonesia, Iran, Sierra Leone, Jordan).** India builds the carrier hunt into the page and
+**Acceptance count: taught in 9 countries (Egypt, Ghana,
+India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece).** India builds the carrier hunt into the page and
 prints the question-kind border; Ghana demands textual
 evidence under personal responses; Egypt examines by the
 unseen passage; China grades the answering shapes themselves
@@ -116,6 +134,11 @@ system, states the questions-first routine, and faces the
 unseen WASSCE text in two full lessons; Jordan adds the
 true / false / doesn't-say shape with explanations at
 Grade 6 and names skimming and scanning as its Grade 10
-Active Reading strategy.
+Active Reading strategy; Greece answers its long Lykeio
+texts in graded shapes — true/false, short answers and
+multiple choice on one feature, true/false/not-mentioned
+with purpose, audience and reference questions on
+another, and paragraph-location questions that send the
+reader to the paragraph where the answer lives.
 Other closed countries join as their
 books are read (see READING-QUEUE.md).

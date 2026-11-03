@@ -1,6 +1,6 @@
 # Sources — The town
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece
 
 Every part traces to its book and page.
 
@@ -60,6 +60,10 @@ english/books/jordan.md (Grade 4 Pupil's Book Semester 2 section, FULLY READ + C
 **Book 12:** Jordan Team Together, Grade 6: Pupil's Book, Semester 1 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
 english/books/jordan.md (Grade 6 Pupil's Book Semester 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 13:** Greece Αγγλικά (Anglika) Student's Book, Revised Edition, Grade 4: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 4 — Αγγλικά (Anglika), Student's Book, New Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 14:** Greece Αγγλικά (Anglika) Pupil's Book, Revised Edition, Grade 5: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 5 — Αγγλικά (Anglika), Pupil's Book, Revised Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Eight town words on pictures: hospital, school, shop, building, street, car, truck, bus (the hospital shown with its ambulance) | Egypt, Primary 1 Term 2, Unit 5 "Neighborhood," Lesson 1 "Around My Town," p.86 |
@@ -81,9 +85,12 @@ english/books/jordan.md (Grade 6 Pupil's Book Semester 1 section, FULLY READ + C
 | A town set with its locating frame and directions: park, bakery, department store, post office, supermarket, bank, chemist's, bookshop — "Excuse me. Where's the bakery? — It's on Green Street. It's next to the bookshop." | Jordan, Grade 3 Pupil's Book Semester 2, Language booster 2, pp.40–41 |
 | A whole town unit: places in the local area — bridge, bus stop, car park, clothes shop, hotel, market, museum, restaurant, shopping centre, square, train station, zoo — with the town's describing adjectives (ancient, busy, cheap, expensive, modern, noisy, quiet, safe) | Jordan, Grade 4 Pupil's Book Semester 2, Unit 6 "Our town," pp.18–27 |
 | Places and buildings a level up — apartment building, castle, factory, harbour, hospital, office building, palace, skyscraper, sports centre, stadium, swimming pool, tower — with the parts of a building beneath them (ceiling, corridor, entrance, escalator, exit, floor, lift, roof, stairs, steps, wall) | Jordan, Grade 6 Pupil's Book Semester 1, Unit 3 "Places," pp.32–41 |
+| The city set: post office, theatre, museum, café, cinema, shopping centre, block of flats, sports centre, church, bank, supermarket, park, school — with is there…? / are there…? and the place phrases next to, between and on the corner of | Greece, Αγγλικά Grade 4, Unit 3, Lesson 2 "My city," pp.38–41 |
+| Around the city: park rule signs with the imperative and can / can't for permission, then a traffic warden's road signs with must / mustn't and the direction game turn left / turn right / go straight ahead | Greece, Αγγλικά Grade 4, Unit 8 "Around the City," pp.93–101 |
+| Directions as depth over real maps — go straight ahead, turn left/right into…, take the first/second turning, on your right/left, at the end of the street — on maps of Nea Ionia and the Acropolis area | Greece, Αγγλικά Grade 5, Unit 3, Lesson 2 "How Can I Get To…?," pp.42–44 |
 
-**Acceptance count: taught in 9 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan).** Egypt
+**Acceptance count: taught in 10 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece).** Egypt
 carries the first set twice (Primary 1's
 eight words with their dialog; Primary 2's city set);
 Bangladesh carries city life as a topic, against village life;
@@ -94,7 +101,7 @@ neighbourhood on one map, with directions and the position
 set; Iran carries the city described and located whole, and
 the widest pictured places set in this lesson; Sierra Leone
 carries the community word-web and directions by landmarks.
-Jordan carries a town set located and directed in its Grade 3 booster, a whole Our town unit in Grade 4, and the buildings set with the parts of a building in Grade 6; Other
+Jordan carries a town set located and directed in its Grade 3 booster, a whole Our town unit in Grade 4, and the buildings set with the parts of a building in Grade 6; Greece carries the city facilities set with its place phrases in Grade 4, the park and road signs of its Around the City unit, and directions over real maps in Grade 5; Other
 closed countries join as their books are read (see
 READING-QUEUE.md).
 

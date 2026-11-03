@@ -1,6 +1,6 @@
 # Sources — The present perfect
 
-countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan
+countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece
 
 Every part traces to its book and page.
 
@@ -71,6 +71,11 @@ Semester 1 — Jordan, National Center for Curriculum
 Development (NCCD), Amman. Filed in english/books/jordan.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 14:** Greece Αγγλικά (Anglika), Grade 5, Pupil's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 5 — Αγγλικά (Anglika), Pupil's Book, Revised Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 15:** Greece Αγγλικά (Anglika), Grade 6, Student's Book, Revised Edition (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 6 — Αγγλικά (Anglika), Student's Book, New Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 16:** Greece Think Teen!, Grade 7 Advanced, Student's Book (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 17:** Greece Γενικά Αγγλικά (Genika Agglika), Grade 10 EPAL, Student's Book (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 10 (EPAL) — General English, Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The tense arrives as the "I've Finished my Work" song (Track 22) — cleaned, washed, swept, painted, tidied, talked — and the participle hunt ("How many different past participles can you find on page 32?") | Libya, Grade 8 Course Book, Unit 3, Lesson 1, p.32 |
@@ -95,9 +100,14 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | since and for with the tense as the entertainment unit's grammar — the clown costume Arlo has had since he was small — restated in the book's Grammar Reference | Jordan, Grade 6 Pupil's Book, Semester 2, Unit 7 "Entertainment" (unit pp.32–41); Grammar Reference, pp.58–59 |
 | The Present Perfect Simple taught again at Grade 10 as one lesson with its continuous twin — the simple form held beside the continuous for contrast | Jordan, Grade 10 Student's Book, Semester 1, Unit 2, Lesson 1A, pp.14–15 |
 | The tense at review level in the final year: present, past and future perfect forms contrasted inside the continuous-and-perfect tenses lesson — a contrast witness, not a first teaching | Jordan, Grade 12 Student's Book, Semester 1, Unit 1, Lesson 4A, pp.8–9 |
+| The Present Perfect presented as the tense that connects past and present — for news, with ever / recently / yet / never, and for situations continuing “up to now” | Greece, Αγγλικά Grade 5, Unit 9, Lesson 1, p.111 |
+| Past Simple against Present Perfect on a timeline: finished actions at a definite time against any time up to now, with just / already / yet practised in the unit's self-assessment | Greece, Αγγλικά Grade 5, Unit 9, Lessons 2–3, pp.114–120 (contrast, printed p.115) |
+| Present Perfect Simple (have/has + participle) contrasted with the Past Simple for a stated past time, on record holders and a long-running show | Greece, Αγγλικά Grade 6, Unit 7, p.76 |
+| The Present Perfect Simple built up in stages across the volunteering unit, then contrasted with the Past Simple | Greece, Think Teen! Grade 7 Advanced, Unit 6, pp.83–100 (contrast lesson opens printed p.93) |
+| The Present Perfect — incomplete-up-to-now, and with since/for — presented beside the 1st conditional and comparatives | Greece, Γενικά Αγγλικά Grade 10 EPAL, Unit 4, Section E, p.64 |
 
-**Acceptance count: taught in 7 countries (Egypt,
-Libya, Laos, China, Iran, Sierra Leone, Jordan).** Libya introduces the tense at Grade 8 with the
+**Acceptance count: taught in 8 countries (Egypt,
+Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece).** Libya introduces the tense at Grade 8 with the
 song and the grammar box, guards the no-exact-time rule in
 its Teacher's Book, sets the ever/never/yet/already box at
 Grade 9, and states the whole entry again in its Grammar
@@ -116,7 +126,7 @@ with ever/never and short answers, already/just/yet at
 Grade 6 Semester 1, since/for at Grade 6 Semester 2 —
 then teaches the simple form again beside its continuous
 twin at Grade 10 and contrasts the perfect forms whole
-at Grade 12. Indonesia was checked
+at Grade 12. Greece meets the tense at Grade 5 as the past–present connector with ever / recently / yet / never, contrasts it with the past simple on a timeline there and again at Grades 6–7, and restates it with since/for at Grade 10 EPAL. Indonesia was checked
 for this tense on 2026-11-03 and never teaches it (its
 books' own honest negatives say so at Grades 6 and 9).
 Other closed countries join as their

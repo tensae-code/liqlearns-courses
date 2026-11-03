@@ -1,6 +1,6 @@
 # Sources — Words you don't know
 
-countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan
+countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan, Greece
 
 Every part traces to its book and page.
 
@@ -52,6 +52,20 @@ Semester 1 — Jordan, National Center for Curriculum
 Development (NCCD), Amman. Filed in english/books/jordan.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 11:** Greece Think Teen!, Grade 8 (Beginners):
+teacher's book — Greece, ITYE «Diophantos», for the
+Ministry of Education (ebooks.edu.gr). Filed in
+english/books/greece.md (Grade 8 (Beginners) — Teacher's
+Book section, FULLY READ + CITATION CHECK PASSED
+2026-11-03).
+
+**Book 12:** Greece Αγγλικά 1 Γενικού Λυκείου, Grade 10:
+student book — Greece, ITYE «Diophantos», for the Ministry
+of Education (ebooks.edu.gr). Filed in
+english/books/greece.md (Grade 10 — Αγγλικά 1 Γενικού
+Λυκείου, Student's Book section, FULLY READ + CITATION
+CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Every unit's opening instruction — "Notice these expressions in the text. Infer their meaning from the context" — standing at the head of the reading apparatus in both senior books, with vocabulary work built around inferring before checking | India, Hornbill (Class XI) and Flamingo (Class XII), the About the Book / unit apparatus (as filed) |
@@ -64,10 +78,12 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | Context Clues as a named Primary 4 lesson: determining the meaning of words from context, oral and written, in the term's story | Sierra Leone, Primary 4 Term 3, Lesson 146 (PDF p.57, as filed) |
 | "Words in context" as the standing Literacy task of every unit: the reading text's hard words worked where they stand — interviews (freedom, heat, sun cream, energy, eco-lodge, route), reviews (solve, play, give, score, program, challenge), short stories (sketched, zoomed, yelled, remembered, whispered), recipes | Jordan, Grade 6 Activity Book, Semester 1, Units 1–4, Lesson 10 (unit pp.4–13, 14–23, 26–35, 36–45) |
 | The same words-in-context task carried into Grade 7's Literacy lessons, on the article, blog, detective-story and report texts of each unit | Jordan, Grade 7 Activity Book, Semester 1, Units 1–4, Lesson 10 (unit pp.4–13, 14–23, 26–35, 36–45) |
+| Guessing from context taught as a cumulative skill, in the teacher's own method handbook: vocabulary taught lexically — in themes, collocations and chunks, recycled in different contexts — with guessing from context named among the skills the course builds up | Greece, Grade 8 (Beginners) Teacher's Book, Introduction, printed pp.xii–xiii |
+| The collect-and-check companion at Lykeio entry: vocabulary built with an online dictionary and a class word wall, the unknown words gathered where the whole class can work on them | Greece, Grade 10 Student's Book, Unit 3, printed pp.29–30 |
 | The check-step's whole skill — entries, guide words, the sense that fits the sentence ('dry' and its meanings) | the course's own Using the Dictionary lesson, from Bangladesh Class 8 and Mongolia English X (cross-referenced, not re-sourced) |
 
-**Acceptance count: taught in 7 countries (Bangladesh,
-Ghana, India, Libya, China, Sierra Leone, Jordan).** India's senior books print the
+**Acceptance count: taught in 8 countries (Bangladesh,
+Ghana, India, Libya, China, Sierra Leone, Jordan, Greece).** India's senior books print the
 command at every unit's head; Bangladesh names the routine;
 Ghana pairs context with word relationships; Libya's texts
 gloss in the line; China coaches the guessing itself, in a
@@ -77,5 +93,11 @@ types by name (definition, contrast, logic) at SSS1 and
 runs the guessing routine from Primary 4's Context Clues
 lesson through Primary 5's "Using Context"; Jordan works
 its reading texts' hard words in context as the standing
-Literacy task of every Grade 6 and Grade 7 unit. Other closed countries join as their
+Literacy task of every Grade 6 and Grade 7 unit; Greece
+stocks the guessing in part — its explicit teaching sits
+in a teacher's-book method introduction, which names
+guessing from context as a cumulative skill the course
+builds, while its Grade 10 book gathers unknown words on
+a class word wall with an online dictionary as the
+check. Other closed countries join as their
 books are read (see READING-QUEUE.md).

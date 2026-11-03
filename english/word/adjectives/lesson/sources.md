@@ -1,6 +1,6 @@
 # Sources — Adjectives
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece
 
 Every part traces to its book and page.
 
@@ -106,6 +106,12 @@ english/books/jordan.md (Grade 3 Pupil's Book Semester 2 section, FULLY READ + C
 **Book 20:** Jordan Team Together, Grade 5: Pupil's Book, Semester 1 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
 english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 21:** Greece Think Teen! Beginners Student's Book, Grade 7: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Beginners) — Αγγλικά, Student's Book — Think Teen! 1st Grade of Junior High School, Student's Book (Αρχάριοι) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 22:** Greece Αγγλικά (Anglika) Pupil's Book, Revised Edition, Grade 5: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 5 — Αγγλικά (Anglika), Pupil's Book, Revised Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 23:** Greece Αγγλικά (Anglika) Student's Book, Revised Edition, Grade 6: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 6 — Αγγλικά (Anglika), Student's Book, New Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition as questions, and the rule that finds adjectives: "Adjectives tell us about the things – are they big, small, happy, sad? • Adjectives and nouns go together." | Libya, Grade 5 Pupils Book, Unit 6, "Let's check!" box |
@@ -135,9 +141,12 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 | Describing pairs on animals: big/small, long/short — "It's got (big teeth)" | Jordan, Grade 2 Pupil's Book Semester 2, Unit 5 "Help the animals!", pp.8–15 |
 | A describing set of ten, paired as opposites in the workbook work — dirty/clean, old/new, plain/fancy, hard/soft, wet/dry — used before nouns: "I haven't got (a new book); He hasn't got (a soft ball)" | Jordan, Grade 3 Pupil's Book Semester 2, Unit 6 "Out in the forest," pp.16–23 |
 | Character adjectives as a whole set of twelve: shy, confident, lazy, hard-working, friendly, cheerful, kind, quiet, polite, rude, tidy, untidy | Jordan, Grade 5 Pupil's Book Semester 1, Unit 1 "Talent show," pp.8–17 |
+| Adjectives sorted by their kinds — opinion, size, age, colour and material — and practised on an adapted extract from Lemony Snicket's A Series of Unfortunate Events — The Bad Beginning | Greece, Think Teen! Grade 7 Beginners, Unit 2, Lesson 2 "A collection of thimbles!," p.13 |
+| Sense verbs with the adjective that follows them: look / taste / smell / feel + adjective, worked on food and presents | Greece, Αγγλικά Grade 5, Unit 4, Lesson 2, p.55 |
+| -ing against -ed adjectives as a named pair: describing a film against the viewer's feelings | Greece, Αγγλικά Grade 6, Unit 10, pp.116–117 |
 
-**Acceptance count: taught in 10 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan).**
+**Acceptance count: taught in 11 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece).**
 Libya carries the definition twice and the
 pairs inside a story; Bangladesh carries the pictured pairs;
 Egypt carries the fullest statement of what adjectives tell;
@@ -150,6 +159,6 @@ vegetables described by colour, shape and taste; Iran carries
 the adjective as a named word kind with its kinds and places,
 and the first describing pairs on people in Prospect 1;
 Sierra Leone carries describing a friend and yourself, and
-colour words as a describing set. Jordan carries opinion adjectives in its Grade 2 Learning Club, the size pairs on animals, a ten-word opposite set used before nouns, and a twelve-word character set; Other
+colour words as a describing set. Jordan carries opinion adjectives in its Grade 2 Learning Club, the size pairs on animals, a ten-word opposite set used before nouns, and a twelve-word character set; Greece carries adjectives sorted by kind — opinion, size, age, colour, material — in Grade 7 Beginners, sense verbs with their adjectives in Grade 5, and the -ing against -ed pair in Grade 6; Other
 closed countries join as their books are read (see
 READING-QUEUE.md).
