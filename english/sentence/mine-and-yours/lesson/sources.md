@@ -1,6 +1,6 @@
 # Sources — Mine and yours
 
-countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan
+countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq
 
 Every part traces to its book and page.
 
@@ -67,6 +67,8 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 12:** Kazakhstan English Language for Kazakhstan, Grade 4: Pupil's Book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 4 — English Language for Kazakhstan Grade 4 Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 13:** Kazakhstan Top Stars for Kazakhstan, Grade 4: Student's Book (student book) — Kazakhstan, MM Publications. Filed in english/books/kazakhstan.md (Grade 4 — Top Stars for Kazakhstan Grade 4 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 14:** Kazakhstan Excel for Kazakhstan, Grade 5: Student's Book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 5 — Excel for Kazakhstan Grade 5, Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 15:** English for Iraq, Grade 5, Pupil's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 5 — English for Iraq 5th Primary Pupil's Book (pupil's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 16:** English for Iraq, Grade 5, Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 5 — English for Iraq 5th Primary Activity Book (activity book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -90,8 +92,10 @@ CITATION CHECK PASSED 2026-11-03).
 | The *mine/yours* pair named in the hobby module's pronoun work, beside possessive adjectives and subject pronouns | Kazakhstan, Top Stars Grade 4, Module 3, printed pp.30–39 |
 | Possessive pronouns and adjectives named again in the inventions module, beside subject and object pronouns | Kazakhstan, Top Stars Grade 4, Module 8, printed pp.90–99 |
 | Possessive adjectives and pronouns as the living-things module's ownership point, inside the full *have got* work | Kazakhstan, Excel Grade 5, Module 2, printed pp.21–32 |
+| Possessive pronouns taught against possessive adjectives through lost luggage at the airport — "Whose big black bag is this? — It's mine" — completed by my/your/her/his + noun set against mine/yours/hers/his ("It's her pencil case. It's hers. They're his") | Iraq, English for Iraq Grade 5, Pupil's Book, Unit 7, printed pp.90–105 |
+| The stand-alone rule stated in the workbook's LOOK box "Talking about whose things": "Whose bag is this? — It's my bag. OR It's mine" — with the noun after *mine* shown crossed out; the tidy-up dialogue works the same contrast ("This CD isn't ours, Dad. It's yours!"; "That's my bag. It's mine, not yours") | Iraq, English for Iraq Grade 5, Activity Book, Unit 7, LOOK box printed p.93 (unit printed pp.88–103) |
 
-**Acceptance count: taught in 9 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan).**
+**Acceptance count: taught in 10 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq).**
 Mongolia's "That's Mine" unit carries the whole lesson —
 the 's box, the whose matching, the three-rung box, the
 game; Egypt's youngest books hold the partner forms from
@@ -111,7 +115,11 @@ Grade 5; Kazakhstan names possessive pronouns at
 Grade 4 in two series at once — beside the possessive
 adjectives in the jobs module, and as the mine/yours
 pair in Top Stars — and pairs possessive adjectives
-and pronouns again at Grade 5. Other closed countries join as their
+and pronouns again at Grade 5; Iraq teaches the pronouns
+against the adjectives at Grade 5 — lost luggage at the
+airport in the Pupil's Book, and the stand-alone rule
+stated in the Activity Book's LOOK box, the noun after
+*mine* shown crossed out. Other closed countries join as their
 books are read (see READING-QUEUE.md).
 
 **Laos Grade 7 added 2026-10-27** — *English for Secondary

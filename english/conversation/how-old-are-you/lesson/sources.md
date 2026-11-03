@@ -1,6 +1,6 @@
 # Sources for this lesson — How old are you?
 
-countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan
+countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -30,8 +30,11 @@ Libya (Garnet) · Books verified on disk 2026-10-25.
 | Age worked out through birthday cakes: each child holds a sum, the pupil counts the candles, works out the age and completes "I'm ten." (the held Grade 2 file is the Activity Book, printed pp.4–92 only — this row cites its practice, not a Pupil's Book presentation) | Kazakhstan, Smiles 2 Activity Book, Unit 6 "Traditions and Customs," printed p.44 |
 | The age question in the first module's own exchange list — "How old are you?" between the name question and "Where are you from?", with numbers 1–10 behind it | Kazakhstan, Top Stars Grade 3 Student's Book, Module 1 "Hello English!," printed pp.6–17 |
 | The age exchange in the book's own Syllabus grammar map for its first unit — "How old are you? — I'm …", beside the name and origin frames | Kazakhstan, English for Kazakhstan Grade 3 Pupil's Book, Unit 1 "Hello, English!," printed pp.6–19 ("How old are you?" Syllabus, printed p.2) |
+| The age exchange in the short form, set at a birthday-party scene — "How old are you? — I'm 6 / I'm 4" | Iraq — English for Iraq, Grade 1 Pupil and Activity Book, Unit 3, printed p.32 |
+| The exchange in the second year's opening lesson, beside the name frames — "How old are you? — I'm 7 / 10" | Iraq — English for Iraq, Grade 2 Pupil and Activity Book, Unit 1, Lesson 1, printed pp.4–13 |
+| The exchange re-opened in the third year's first lesson — "How old are you? — I'm 8" | Iraq — English for Iraq, Grade 3 Pupil's Book, Unit 1, Lesson 1, printed p.6 |
 
-**Acceptance count: taught in 10 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
+**Acceptance count: taught in 11 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 China teaches the exchange in the full "years old" form with
 candle counting (Grade 3 Volume 1) and later ties age to the
 birthday date (Grade 5 Volume 2); North Macedonia practises it
@@ -55,6 +58,11 @@ numbers 6–10, and two Grade 3 series list the exchange in
 their first modules — and its Grade 2 Activity Book works
 the answer out through birthday-candle sums, in the short
 "I'm …" form throughout.
+Iraq joined 2026-11-03: it teaches the question itself
+in the short form in three opening years in a row —
+Grade 1 at a birthday party ("I'm 6 / I'm 4"), Grade 2
+in its opening lesson, and Grade 3 re-opening on
+"I'm 8."
 Nicaragua's filed books ask names in their greeting
 material, not age — so it is not counted here; Sierra
 Leone's filed books likewise state a boy's age ("He is 10
@@ -236,3 +244,31 @@ are you? — I'm …" (Unit 1, printed pp.6–19; the map is
 a citation anchor at printed p.2). No full "years old"
 form is recorded for Kazakhstan; its form is Libya's
 and Jordan's short form throughout.
+
+**Iraq added 2026-11-03** — three books stock this
+lesson: **Book:** *English for Iraq*, Grade 1 Pupil and
+Activity Book; **Book:** *English for Iraq*, Grade 2
+Pupil and Activity Book; **Book:** *English for Iraq*,
+Grade 3 Pupil's Book — Iraq, Garnet Publishing Ltd
+(Garnet Education) for the Ministry of Education. All
+filed in english/books/iraq.md (Grade 1 — English for
+Iraq, 1st Primary, Pupil and Activity Book (combined
+pupil + activity book) section; Grade 2 — English for
+Iraq, 2nd Primary, Pupil and Activity Book (combined
+pupil + activity book) section; Grade 3 — English for
+Iraq, 3rd Primary, Pupil's Book (student's book)
+section, FULLY READ + CITATION CHECK PASSED
+2026-11-03). Unlike Sierra Leone above, Iraq teaches
+the question itself — in the short form, three years
+running. Grade 1 sets it at the birthday-party scene
+of its toys unit: "How old are you? — I'm 6 / I'm 4"
+("How old are you?" is a citation anchor at printed
+p.32). Grade 2's opening lesson re-runs it beside the
+name frames — "How old are you? — I'm 7 / 10" (Unit 1,
+printed pp.4–13) — and the teacher's notes age the
+Grade 1 cast by the same exchange (Hasan, named there
+as Ahmed and Nada's little brother, aged 4). Grade 3,
+a fresh start, opens on it again: "How old are you? —
+I'm 8" (Unit 1, Lesson 1, printed p.6). No full "years
+old" form is recorded for Iraq in these exchanges; its
+form is Libya's and Jordan's short form throughout.

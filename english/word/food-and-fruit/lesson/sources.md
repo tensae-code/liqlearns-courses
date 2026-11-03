@@ -1,6 +1,6 @@
 # Sources — Food and fruit
 
-countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
+countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
 
 Every part traces to its book and page.
 
@@ -118,6 +118,12 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 
 **Book 26:** Kazakhstan Smiles for Kazakhstan, Grade 4: pupil's book (student book — cited from the with-covers copy of the 2019 edition) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 4 — Smiles for Kazakhstan Grade 4 Pupil's Book — SECOND FILE section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 27:** English for Iraq, Grade 2, Pupil and Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 2 — English for Iraq, 2nd Primary, Pupil and Activity Book (combined pupil + activity book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 28:** English for Iraq, Grade 3, Pupil's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 3 — English for Iraq, 3rd Primary, Pupil's Book (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 29:** English for Iraq, Grade 5, Pupil's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 5 — English for Iraq 5th Primary Pupil's Book (pupil's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Listen and repeat: breakfast, lunch, dinner, eat, drink" — with the breakfast plate pictured: egg, cheese, beans, and a glass of milk | Egypt, Primary 1 Term 2, Unit 1 "My Week," p.15 |
@@ -150,9 +156,12 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | The first food set whole — milk, cheese, bananas, juice, eggs, chicken, apples, carrots, pears, onions, tomatoes — with the like frame at its centre: "I've got some milk for you! — I like milk. Yum!" against "I don't like eggs. Yuk!," polite asking ("Can I have some …?") and I'm hungry / I'm thirsty | Kazakhstan, Smiles 1 Pupil's Book, Grade 1, Module 5 "My Food," printed pp.60–73 |
 | Food and drinks as the health module's second set — apple, banana, broccoli, cake, carrot, cheese, chicken, chocolate, ice cream, juice, onion, orange, pear, popcorn, potato, rice, water — sorted by the CLIL work into food that is good and bad for our teeth, closing with a My 5 A Day poster | Kazakhstan, English Language for Kazakhstan Grade 3, Module 6 "Health," printed pp.68–79 |
 | Food and drinks in the healthy-world module: strange snacks, junk food against healthy food, and the container phrases that measure food — a bar of chocolate, a bottle of cola, a carton of juice, a jar of honey, a loaf of bread, a packet of peas, a pot of yogurt | Kazakhstan, Smiles for Kazakhstan Grade 4, Module 6 "Healthy World," printed pp.82–95 |
+| The fruit set with the like frame: banana, pear, mango, grapes, plum, watermelon, dates, lemon, apple, orange — "I like pears. / I don't like bananas." and "What's your favourite fruit?" — then the café set (soup, sandwich, pizza, milk, tea, water, juice, cake, ice-cream) with offers: "Do you want an orange? — Yes, please. / No, thank you." | Iraq — English for Iraq, Grade 2 Pupil and Activity Book, Unit 2, printed pp.14–23 |
+| Food a year later with likes and wants: ice-cream, cake, apples, rice, fish, bread, peas, chicken with the "I like …" chant, then cola, jelly, soup, milk with "Do you want some bread? — No, thanks. I don't like bread." | Iraq — English for Iraq, Grade 3 Pupil's Book, Unit 2, printed pp.22–37 |
+| Shopping quantities as container phrases — loaf of bread, bunch of carrots, bottle of water, bag of rice, tin of beans, a box of eggs — with "Can I have some peas, please?"; then countable against uncountable food in Grade 5, with the same containers (a box of chocolates, a tin of lemonade) | Iraq — English for Iraq, Grade 3 Pupil's Book, Unit 7, printed pp.90–105; Grade 5 Pupil's Book, Unit 5, printed pp.58–73 |
 
-**Acceptance count: taught in 11 countries (Bangladesh, Egypt,
-Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan).**
+**Acceptance count: taught in 12 countries (Bangladesh, Egypt,
+Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).**
 Egypt carries the meals and the breakfast plate;
 Bangladesh carries the like-exchange and the healthy sorting;
 Palestine carries the fruit set with its a/an pair and the
@@ -164,6 +173,6 @@ set with counting, and two full vegetable sets with likes and
 dislikes; Iran carries favourite food and drink as the talk
 itself, and a country's eating habits sorted into a table;
 Sierra Leone carries foods categorised from a poem, and
-favourite foods as the pupils' own writing. Jordan carries the first food set with I like in Grade 1, two sets with Do you like…? in Grade 2, the picnic set with food shopping in Grade 4, and food with containers, prices and ordering in Grade 8; Greece carries the food pyramid with its eighteen flashcards in the Grade 2 Workpack, party shopping and sandwich-making in Grade 4, and foods sorted by health with their containers in Grade 7 Beginners; Kazakhstan carries the first food set with I like / I don't like in Grade 1 Smiles, a seventeen-word food and drink set sorted good and bad for teeth in its Grade 3 Express book, and healthy against junk food with the container phrases in Grade 4 Smiles; Other closed
+favourite foods as the pupils' own writing. Jordan carries the first food set with I like in Grade 1, two sets with Do you like…? in Grade 2, the picnic set with food shopping in Grade 4, and food with containers, prices and ordering in Grade 8; Greece carries the food pyramid with its eighteen flashcards in the Grade 2 Workpack, party shopping and sandwich-making in Grade 4, and foods sorted by health with their containers in Grade 7 Beginners; Kazakhstan carries the first food set with I like / I don't like in Grade 1 Smiles, a seventeen-word food and drink set sorted good and bad for teeth in its Grade 3 Express book, and healthy against junk food with the container phrases in Grade 4 Smiles; Iraq carries the ten-word fruit set with I like / I don't like and the café set with offers in Grade 2, the food sets with likes and wants in Grade 3, and the container phrases there and again with countable against uncountable food in Grade 5; Other closed
 countries join as their
 books are read (see READING-QUEUE.md).

@@ -1,6 +1,6 @@
 # Sources — Asking yes/no questions
 
-countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
+countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
 
 Every part traces to its book and page.
 
@@ -133,10 +133,13 @@ CITATION CHECK PASSED 2026-11-03).
 | Present Simple question forms as their own language-focus point in the world-of-work unit | Kazakhstan, English Plus Grade 5, Unit 6, printed pp.68–81 |
 | Present Simple questions named as a language-focus heading inside the heroes unit's daily-lives work | Kazakhstan, English Plus Grade 6, Unit 2, printed pp.20–31 (point, printed p.25) |
 | Present Continuous questions, set against the Present Simple, in the countryside unit | Kazakhstan, English Plus Grade 6, Unit 3, printed pp.32–43 |
+| The first yes/no question as a guessing exchange — "Is it a pen? — No. — Is it a pencil? — Yes." — the identification question with its plain Yes / No answers | Iraq — English for Iraq, Grade 1 Pupil and Activity Book, Unit 2, printed pp.16–25 ("Is it a pencil?", printed p.22) |
+| The do-type yes/no question as the unit's central new form — "Do you wash? — Yes, I do.; Do you eat healthy food? — No, I don't." — worked over health actions in a TV-interview dialogue set | Iraq — English for Iraq, Grade 3 Pupil's Book, Unit 5, printed pp.58–73 |
+| Question formation split by verb type as a stated contrast: *be*-questions invert, other verbs take the "helping verb" Do/Does — the "Remember" box inside the materials unit, turning statements into questions | Iraq — English for Iraq, Grade 6 Pupil's Book, Unit 2, printed pp.22–37 |
 
-**Acceptance count: taught in 11 countries (Bangladesh,
+**Acceptance count: taught in 12 countries (Bangladesh,
 Bolivia, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan).** Bolivia boxes the do/does engine;
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).** Bolivia boxes the do/does engine;
 Mongolia works the be-swap on its doing-now questions;
 Bangladesh teaches the voice the question rides on; China
 adds the full shelf of shapes across its primary run — be,
@@ -149,7 +152,7 @@ voice; Sierra Leone makes the question by the be-swap,
 states the rising-voice rule, and forms and answers
 simple-present questions as a system; Jordan
 asks do, does, be, have-got and can yes/no questions
-with their short answers across Grades 2–3. Greece asks is there…? / are there…? and does it…? with their short answers at Grade 4, and tables the present and past question forms inside its Grade 5 systems. Kazakhstan asks be questions with short answers at Grade 3, carries the present simple into questions and short answers there, and names Present Simple and Present Continuous questions as language-focus points in its Grade 5–6 English Plus books. Other
+with their short answers across Grades 2–3. Greece asks is there…? / are there…? and does it…? with their short answers at Grade 4, and tables the present and past question forms inside its Grade 5 systems. Kazakhstan asks be questions with short answers at Grade 3, carries the present simple into questions and short answers there, and names Present Simple and Present Continuous questions as language-focus points in its Grade 5–6 English Plus books. Iraq asks Is it a …? with plain Yes / No answers in Grade 1, teaches Do you …? — Yes, I do. / No, I don't. as the central new question form of its Grade 3 health unit, and splits question formation by verb type in Grade 6 — *be* inverts, other verbs take Do/Does. Other
 closed countries join as their books are read (see
 READING-QUEUE.md).
 
@@ -163,3 +166,16 @@ like…? — Yes, I do. / No, I don't"** (p.86, after I like / I don't
 like, p.82), and **"Can you…? — Yes, I can. / No, I can't"**
 (p.104, after I can / I can't, p.100). The toy-box guessing chant
 runs the Is it a…? pattern as a game (p.105).
+
+**Iraq added 2026-11-03** — *English for Iraq* (Garnet
+Publishing Ltd / Garnet Education for the Ministry of
+Education; full read in english/books/iraq.md). Iraq's first
+yes/no question is the Grade 1 guessing exchange **"Is it a
+pen? — No. — Is it a pencil? — Yes."** (Pupil and Activity
+Book, Unit 2, printed pp.16–25). The do-type question arrives
+as the central new form of Grade 3: **"Do you wash? — Yes, I
+do.; Do you eat healthy food? — No, I don't."** (Pupil's Book,
+Unit 5, printed pp.58–73). And in Grade 6 the formation rule
+is split by verb type in a "Remember" box — *be*-questions
+invert, other verbs take the "helping verb" Do/Does
+(Pupil's Book, Unit 2, printed pp.22–37).

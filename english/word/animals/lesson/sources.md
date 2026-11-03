@@ -1,6 +1,6 @@
 # Sources — Animals
 
-countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
+countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
 
 Every part traces to its book and page.
 
@@ -102,6 +102,10 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 2 section, FULLY READ + C
 
 **Book 23:** Kazakhstan English Language for Kazakhstan, Grade 4: pupil's book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 4 — English Language for Kazakhstan Grade 4 Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 24:** English for Iraq, Grade 1, Pupil and Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 1 — English for Iraq, 1st Primary, Pupil and Activity Book (combined pupil + activity book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 25:** English for Iraq, Grade 3, Pupil's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 3 — English for Iraq, 3rd Primary, Pupil's Book (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The farm dialog (Noor and Ziad): "Look at the cow!" — "The cow is big." — "The duck is small." — "Do you see the horse?" — "The chicken is small." — "I love farm animals!" | Egypt, Primary 1 Term 1, Unit 5 "On the Farm," Lesson 1, p.85 |
@@ -133,10 +137,13 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 2 section, FULLY READ + C
 | The pet set for the youngest learners — rabbit, fish, cat, dog, mouse, tortoise, parrot, spider — presented whole: "This is my pet. It's a cat," with big/small asked about them and a pet-shop role play on I've got | Kazakhstan, Smiles 1 Pupil's Book, Grade 1, Module 4 "My Pets," printed pp.46–59 |
 | Animals as a whole opening module: a photo opener (elephant, snake, penguin), animal types — mammal, reptile or bird — present-simple riddles ("I live on land. I eat plants. What am I?"), and a true/false quiz on a snake's life; the Glossary's set is the full menagerie, from butterfly and eagle to giant pandas and sea lions | Kazakhstan, Smiles for Kazakhstan Grade 3, Module 1 "Animals," printed pp.4–17 |
 | Farm and wild animals with the places they live: camel, chicken, cow, crocodile, dolphin, duck, elephant, horse, goat, gorilla, lizard, penguin, polar bear, sheep, tiger, whale — their body parts named with them (body, ears, eyes, head, legs, mouth, nose, tail, teeth) and their habitats: jungle, ocean, polar region, steppe | Kazakhstan, English Language for Kazakhstan Grade 4, Module 6 "Animals," printed pp.68–79 |
+| The zoo set for the youngest learners: camel, spider, zebra, with the elephant, tiger, lion, monkey, penguin, goat, horse, rabbit, fish and snake met earlier — counted in grids ("How many red birds?"), matched as whole written words, and located ("Where's the blue tiger? — In the bag") | Iraq — English for Iraq, Grade 1 Pupil and Activity Book, Unit 5 "At the zoo," printed pp.40–49 |
+| The animal set a book later, sorted by what it can do: frog, mouse, cow, camel, hen, donkey, snake, bee, dog, goat — through a printed yes/no decision-tree (Can it fly? Can it run? Can it climb? Can it jump?) to "Is it a bee? — Yes." | Iraq — English for Iraq, Grade 3 Pupil's Book, Unit 2, printed pp.22–37 |
+| The wild set: monkey, parrot, crocodile, lion, elephant, shark, frog, fish — with their body words beak, wing, tail, leg, foot for a listen-and-find, then the same animals caught doing things in the present continuous | Iraq — English for Iraq, Grade 3 Pupil's Book, Unit 7, printed pp.90–105 |
 
-**Acceptance count: taught in 12 countries (Bangladesh, Egypt,
+**Acceptance count: taught in 13 countries (Bangladesh, Egypt,
 Libya, Palestine, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan).** Egypt carries the farm four with the first
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).** Egypt carries the farm four with the first
 size pair; Palestine carries the youngest learners' set;
 Bangladesh carries homes and foods as whole sentences; Libya
 carries the wild names inside its letter list; China carries
@@ -146,5 +153,5 @@ photographs and the farm in one whole scene; Indonesia
 carries the zoo set sorted into the five animal classes;
 Iran carries the endangered set and where each survives;
 Sierra Leone carries forest animals and where they are, and
-the article board set. Jordan carries the wild eight for the youngest learners, the pet set described by its parts with Jordan's own oryx, the farm and wild sets with can-questions, and the animals-in-danger set; Greece carries the guessing animals and the pet poster in the Grade 2 Workpack, the pet and farm set with the sea turtle and monk seal in Grade 4, and the animals-in-danger entries in Grade 7 Beginners; Kazakhstan carries the pet set with big/small in Grade 1 Smiles, a whole Animals module classifying mammal, reptile and bird with riddles in Grade 3 Smiles, and farm and wild animals with their body parts and habitats in its Grade 4 Express book; Other finished
+the article board set. Jordan carries the wild eight for the youngest learners, the pet set described by its parts with Jordan's own oryx, the farm and wild sets with can-questions, and the animals-in-danger set; Greece carries the guessing animals and the pet poster in the Grade 2 Workpack, the pet and farm set with the sea turtle and monk seal in Grade 4, and the animals-in-danger entries in Grade 7 Beginners; Kazakhstan carries the pet set with big/small in Grade 1 Smiles, a whole Animals module classifying mammal, reptile and bird with riddles in Grade 3 Smiles, and farm and wild animals with their body parts and habitats in its Grade 4 Express book; Iraq carries the zoo set counted and located in Grade 1, the animal set sorted by a can-decision-tree in Grade 3, and the wild set with its body words in the same book; Other finished
 countries join as their books are read (see READING-QUEUE.md).

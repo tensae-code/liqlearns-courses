@@ -1,6 +1,6 @@
 # Sources for this lesson — What's his and her name?
 
-countries: Libya, China, North Macedonia, Iran, Indonesia, Jordan
+countries: Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -20,8 +20,11 @@ Book (Garnet / CERC, © 2019; verified on disk 2026-10-25: %PDF,
 | Asking about a third person with "Who is that boy/girl/man/woman?" — answered with he/she and the person's place in your world: "He's my friend Erfan · She's my classmate Parisa · He's my teacher Mr. Karimi · She's my teacher Miss/Mrs. Bahrami" (Iran asks the same third-person question with *who*, not with *what's his/her name*) | Iran — Prospect 1 (Grade 7), Lesson 2 "My Classmates," Practice 2, printed pp.10–13 |
 | Asking about a third person with "Who is he/she?" — answered "He is my father" over the family photo, carried by its own song, and a year of school later "He/She is my teacher" for the school staff (Indonesia's question word is likewise *who*, not the name question) | Indonesia — English for Nusantara Kids, Grade 3, Chapter 2 (objectives printed p.34; family section printed pp.35–46, the "Who is she/he?" song at p.40) and Chapter 6 (objectives printed p.150) |
 | Naming a third person with the his/her name frame — the question is "Who's this? It's (my uncle)", and the name itself arrives as "His name's… / Her name's…" over the family photo; the Activity Book's skills pages write about a family member in the same frame (His/Her name's…; He's/She's got … hair and … eyes) (Jordan never prints the "What's his/her name?" wording — its third-person question is *who's this*, and the name frame is the answer, recorded as printed) | Jordan — Team Together Grade 2: Pupil's Book, Semester 1, Unit 4, printed pp.32–39; Activity Book, Semester 1, Unit 4, printed pp.30–37 |
+| Asking names about other people in Libya's exact wording: "What's his/her name?" — answered with the bare name, in the opening lesson where Zack meets the children | Iraq — English for Iraq, Grade 2 Pupil and Activity Book, Unit 1, Lesson 1, printed pp.4–13 |
+| The name question asked about one person, with the full answer: "What's her name? — Her name is Nada." — the names then spelled aloud (N-a-d-a) | Iraq — English for Iraq, Grade 2 Pupil and Activity Book, Unit 7, Lesson 4, printed pp.58–67 |
+| The same question in the first year's receptive layer — "What's his/her name?" heard in the Grade 1 lessons and named again among Unit 7's objectives | Iraq — English for Iraq, Grade 1 Teacher's Book, Unit 1 notes, printed pp.22–69; Unit 7 notes, printed pp.168–185 |
 
-**Acceptance count: taught in 6 countries (Libya, China, North Macedonia, Iran, Indonesia, Jordan).**
+**Acceptance count: taught in 7 countries (Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq).**
 China names third people by role with he/she and identifies
 family members one by one; North Macedonia works the naming
 frame through a full set of named family portraits. Iran and
@@ -34,6 +37,11 @@ joined 2026-11-03 in a third form of the same work: its
 question is "Who's this?", and the third person's name is
 stated with the exact his/her frame — "His name's… / Her
 name's…" — as the answer.
+Iraq joined 2026-11-03 with Libya's form itself, not a
+*who* form: its Grade 2 book teaches "What's his/her
+name?" in its opening lesson, and asks "What's her
+name? — Her name is Nada." a unit from the end of the
+year.
 Counts grow as other closed countries' books are read.
 
 **China added 2026-10-29** — **Book:** *Compulsory Education
@@ -108,3 +116,29 @@ name's…; He's/She's got … hair and … eyes"). Like Iran and
 Indonesia above, Jordan never prints Libya's question
 wording; its form is recorded here exactly as printed, not
 rewritten into it.
+
+**Iraq added 2026-11-03** — two books stock this lesson:
+**Book:** *English for Iraq*, Grade 1 Teacher's Book —
+Iraq, Garnet Publishing Ltd (Garnet Education) for the
+Ministry of Education. **Book:** *English for Iraq*,
+Grade 2 Pupil and Activity Book — Iraq, Garnet
+Publishing Ltd (Garnet Education) for the Ministry of
+Education. Both filed in english/books/iraq.md (Grade 1
+— English for Iraq, 1st Primary, Teacher's Book
+(teacher's guide) section; Grade 2 — English for Iraq,
+2nd Primary, Pupil and Activity Book (combined pupil +
+activity book) section, FULLY READ + CITATION CHECK
+PASSED 2026-11-03). Where Greece and Kazakhstan failed
+this lesson and Iran, Indonesia and Jordan ask with
+*who*, Iraq prints this lesson's own question: Grade 1's
+teacher's notes carry "What's his/her name?" in the
+receptive layer of Unit 1 (notes, printed pp.22–69) and
+name it again among Unit 7's objectives; Grade 2's
+pupil book then teaches it in its opening lesson —
+Lesson 1 extends the meeting frames to "What's his/her
+name?" with bare-name answers (Unit 1, printed
+pp.4–13) — and in Unit 7, Lesson 4, asks it about one
+person with the full answer and the spelling: "What's
+her name? — Her name is Nada. N-a-d-a." (Unit 7,
+printed pp.58–67). Iraq's form is Libya's form, in the
+question's own words.

@@ -1,6 +1,6 @@
 # Sources for this lesson — Good morning and good afternoon
 
-countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece
+countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -22,8 +22,9 @@ explains one thing only.
 | "Good morning!" in the first Welcome — the characters introduced with "Hello! / Hi! / Good morning!" (Jordan's filed books teach the morning greeting only: no "Good afternoon" greeting is printed anywhere in the Jordan read — afternoon appears there as a time-of-day word, in Grade 3, not as a greeting) | Jordan — Team Together Grade 1 Pupil's Book, Semester 1, Welcome, printed pp.4–5 |
 | Time-of-day greetings walked through one whole day in story cards: good-morning exchanges at the family breakfast and from the teacher, hello to mum at home, and good-night exchanges at bedtime; one worksheet matches the traced greetings "Good night / Goodbye / Good morning" to their scenes (this book is a printed workpack, so its rows cite PDF pages; Greece's filed books teach the morning greeting only — no "Good afternoon" greeting appears anywhere in the Greece read: the phrase does not occur in english/books/greece.md at all, and "afternoon" appears there only as a time-of-day word, in the same pack's day-parts matching, Cycle Γ, Γ02) | Greece, Grade 2 Beta English Workpack, Cycle Δ, Δ01 "Mary's day: greetings through the day," PDF pp.118–124 ("Good night, stars!" speech bubble, PDF p.123) |
 | "Good morning" as a word of the world: the greeting in ten languages, as an appendix activity | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, "It's Your Choice!" appendix activities, printed pp.133–152 |
+| "Good morning" and a short classroom conversation (Track 31) in the school unit's teacher's notes (Iraq's filed books teach the morning greeting only: no "Good afternoon" greeting is printed anywhere in the Iraq read — the phrase "Good afternoon" does not occur in english/books/iraq.md at all, and "afternoon" appears there only as a time-of-day word, in Grade 3, not as a greeting) | Iraq — English for Iraq, Grade 1 Teacher's Book, Unit 2 notes, printed pp.70–91 |
 
-**Acceptance count: taught in 9 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece).**
+**Acceptance count: taught in 10 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq).**
 China teaches the pair inside its colours unit in the first
 primary book; Mongolia stocks the day-part ground the greeting
 stands on — one boy's whole day told in clock pictures — from a
@@ -41,6 +42,10 @@ too — a full-day story of good-morning, hello and good-night
 exchanges in its Grade 2 workpack, and "good morning" in ten
 languages in its Grade 5 appendix; no afternoon greeting is
 printed in its filed books either.
+Iraq joined 2026-11-03 carrying the morning half only
+too — "Good morning" with a classroom conversation in
+its Grade 1 Teacher's Book (Track 31); no afternoon
+greeting is printed in its filed books either.
 Counts grow as other closed countries' first books are read.
 
 **China added 2026-10-29** — **Book:** *Compulsory Education
@@ -152,3 +157,27 @@ day-part vocabulary, not this lesson's greeting, and it
 is recorded here only to show the search was made).
 Greece is therefore counted for the morning half of
 this lesson, exactly as Jordan is above.
+
+**Iraq added 2026-11-03** — one book stocks this lesson:
+**Book:** *English for Iraq*, Grade 1 Teacher's Book —
+Iraq, Garnet Publishing Ltd (Garnet Education) for the
+Ministry of Education. Filed in english/books/iraq.md
+(Grade 1 — English for Iraq, 1st Primary, Teacher's Book
+(teacher's guide) section, FULLY READ + CITATION CHECK
+PASSED 2026-11-03). Iraq's morning greeting lives in
+the teacher's notes for the school unit: Unit 2's notes
+(printed pp.70–91) carry "Good morning" and a short
+classroom conversation (Track 31), and the book's
+receptive layer lists Good morning among the frames the
+children hear. PARTIAL STOCK, recorded as such: a search
+of the whole filed Iraq read finds no "Good afternoon"
+as a greeting in any of the 34 books — the phrase "Good
+afternoon" does not occur in english/books/iraq.md at
+all (the Grade 3 books teach morning, afternoon and
+night as times of the day — routine phrases sorted into
+a morning / afternoon / night table in the Grade 3
+Activity Book, Unit 3 — the day-part vocabulary, not
+this lesson's greeting, and it is recorded here only to
+show the search was made). Iraq is therefore counted
+for the morning half of this lesson, exactly as Jordan
+and Greece are above.

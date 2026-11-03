@@ -1,6 +1,6 @@
 # Sources — The present perfect continuous
 
-countries: Egypt, Libya, Sierra Leone, Jordan, Greece, Kazakhstan
+countries: Egypt, Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
 
 Every part traces to its book and page.
 
@@ -45,6 +45,10 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 **Book 12:** Kazakhstan Laser for Kazakhstan, Grade 8: Student's Book, B1 (student book) — Kazakhstan, Macmillan Education. Filed in english/books/kazakhstan.md (Grade 8 — Laser for Kazakhstan, Student's Book, B1 (Grade 8) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 13:** Kazakhstan Full Blast! for Kazakhstan, Grade 9: Student's Book (student book) — Kazakhstan, MM Publications. Filed in english/books/kazakhstan.md (Grade 9 — Full Blast! for Kazakhstan Grade 9 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 14:** Kazakhstan English Plus, Grade 9: Student's Book (student book) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 9 — English Plus Grade 9 Student's Book (Kazakhstan Edition) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 15:** English for Iraq, Grade 10, Student's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 10 — English for Iraq, 4th Preparatory Student's Book (Student's Book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 16:** English for Iraq, Grade 11, Student's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 11 — English for Iraq, 5th Preparatory Student's Book (Student's Book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 17:** English for Iraq, Grade 12, Student's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 12 — English for Iraq, 6th Preparatory Student's Book (Student's Book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 18:** English for Iraq, Grade 12, Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 12 — English for Iraq, 6th Preparatory Activity Book (Activity Book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -66,9 +70,13 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | Present perfect simple against present perfect continuous as the entertainment module's grammar pair | Kazakhstan, Laser Grade 8, Module 3, printed pp.38–45 |
 | Present Perfect Simple set against Past Simple and against Present Perfect Continuous, practised on a blog about a day trip to Charyn Canyon | Kazakhstan, Full Blast! Grade 9, Module 3, section 3b, printed pp.65–88 |
 | The present perfect system completed in one unit — *just/still/already/yet*, *for/since*, present perfect against past simple, and the present perfect continuous | Kazakhstan, English Plus Grade 9, Unit 6, printed pp.68–79 |
+| The tense's first arrival in Iraq — stated plainly: it is NOT Grade 9 (every held Grade 9 book's filing says the form is never taught there, the iraq.md head summary notwithstanding); it is first taught at Grade 10, in the "Writing home" lesson that contrasts a postcard from Saudi Arabia with an email from England | Iraq, English for Iraq Grade 10, Student's Book, Unit 3, Lesson 9, printed pp.30–39 |
+| The tense revised with *for* and *since* in the lesson named for it: "What have they been doing?" | Iraq, English for Iraq Grade 11, Student's Book, Unit 1, Lesson 7, printed p.11 |
+| Present perfect simple set against the continuous — "The Happy Traveller," a businessman who has been coming to Iraq since 2009 — with for/since and How long …? questions, inside the rebuilt perfect system | Iraq, English for Iraq Grade 12, Student's Book, Unit 5, printed pp.44–51 |
+| The Present perfect continuous box printed in the workbook's perfect-system rebuild, drilled beside ever/never, just/already/yet, How long with for/since, and *been* and *gone* | Iraq, English for Iraq Grade 12, Activity Book, Unit 5, printed pp.89–118 |
 
-**Acceptance count: taught in 6 countries (Egypt,
-Libya, Sierra Leone, Jordan, Greece, Kazakhstan).** Libya meets the tense at Grade 8 inside a
+**Acceptance count: taught in 7 countries (Egypt,
+Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).** Libya meets the tense at Grade 8 inside a
 records lesson, names it for recent habits at Grade 9,
 and drills it as a full lesson with for/since at Grade
 10. Egypt states the complete box at Secondary 12 — the
@@ -79,7 +87,7 @@ inside its complete 12-tense system. Jordan teaches the
 tense at Grade 10 as one lesson with its simple twin —
 Present Perfect Simple and Continuous together — and
 contrasts it again inside Grade 12's whole continuous-
-and-perfect system. Greece teaches this tense earliest of all — at Grade 6 in primary, with for/since on a timeline — states the simple/continuous contrast formally at Grade 9, and matches the continuous form's uses to examples again in the EPAL book. Kazakhstan brings the tense in at Grade 8 — named in Excel's tense revision and contrasted with its simple twin in Laser — and works the simple/continuous pair again at Grade 9 in both Full Blast! and English Plus. Other closed countries join
+and-perfect system. Greece teaches this tense earliest of all — at Grade 6 in primary, with for/since on a timeline — states the simple/continuous contrast formally at Grade 9, and matches the continuous form's uses to examples again in the EPAL book. Kazakhstan brings the tense in at Grade 8 — named in Excel's tense revision and contrasted with its simple twin in Laser — and works the simple/continuous pair again at Grade 9 in both Full Blast! and English Plus. Iraq brings the tense in late and states its arrival plainly: not at Grade 9, where no held book teaches it, but at Grade 10 in the "Writing home" lesson; Grade 11 revises it with for/since in "What have they been doing?", and Grade 12 sets the simple form against the continuous inside its rebuilt perfect system, with the continuous box printed in the Activity Book. Other closed countries join
 as their books are read (see READING-QUEUE.md).
 
 **Laos checked — NOT stocked (series-final, 2026-10-27).**

@@ -1,6 +1,6 @@
 # Sources — Capital letter and full stop
 
-countries: Bangladesh, Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan
+countries: Bangladesh, Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq
 
 Every part traces to its book and page.
 
@@ -51,6 +51,10 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 10:** Kazakhstan English Plus, Grade 7: Student's Book (student book) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 7 — English Plus Grade 7 Student's Book (Kazakhstan edition) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 11:** Kazakhstan Full Blast! for Kazakhstan, Grade 6: Student's Book (student book) — Kazakhstan, MM Publications. Filed in english/books/kazakhstan.md (Grade 6 — Full Blast! for Kazakhstan, Grade 6 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 12:** Kazakhstan Full Blast! for Kazakhstan, Grade 9: Student's Book (student book) — Kazakhstan, MM Publications. Filed in english/books/kazakhstan.md (Grade 9 — Full Blast! for Kazakhstan Grade 9 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 13:** English for Iraq, Grade 1, Teacher's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 1 — English for Iraq, 1st Primary, Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 14:** English for Iraq, Grade 1, Pupil and Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 1 — English for Iraq, 1st Primary, Pupil and Activity Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 15:** English for Iraq, Grade 3, Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 3 — English for Iraq, 3rd Primary, Activity Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 16:** English for Iraq, Grade 4, Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 4 — English for Iraq 4th Primary Activity Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -70,9 +74,13 @@ CITATION CHECK PASSED 2026-11-03).
 | Capital letters and punctuation named together as the writing point of the internet-profile lesson — the pair taught as a writing skill, not broken down mark by mark in the filing | Kazakhstan, English Plus Grade 7, Unit 1, printed pp.8–21 |
 | Capital letters and punctuation named as the film-review writing lesson's point, beside the contrast linkers *but / however* | Kazakhstan, Full Blast! Grade 6, Module 4, section 4e, printed pp.87–103 |
 | Punctuation and capital letters given explicit teaching in the informal letter/email writing lesson, with a full plan page | Kazakhstan, Full Blast! Grade 9, Module 1, section 1b, printed pp.11–34 |
+| Capital letters introduced in Lesson 1: capitals are "big," sit on the line, and begin names and sentences — and the sentence itself is explained as starting with a capital letter and ending with a full stop; children write their own names with an initial capital | Iraq — English for Iraq, Grade 1 Teacher's Book, Unit 6, printed pp.148–167 |
+| Capital letters A–Z in the pupil book's own Activities: formation strips, upper↔lower matching and copying the characters' names | Iraq — English for Iraq, Grade 1 Pupil and Activity Book, Activities, Unit 6, printed pp.136–141 |
+| Capitals A–Z traced and written, then sentences handled whole — "Write the sentences with spaces" and sentence unscrambling — with capitalisation correction later in the book (wednesday, engLish, School, pe, MonDay rewritten with correct case) | Iraq — English for Iraq, Grade 3 Activity Book, Unit 2, printed pp.26–47 (sentences with spaces, printed p.39) and Unit 6, printed pp.84–99 |
+| Sentence punctuation stated as a matching rule on the punctuation page — capital letters / full stop / question mark — "A capital letter starts a sentence. A full stop ends a sentence," beside a capital-letters lesson for names, countries and languages | Iraq — English for Iraq, Grade 4 Activity Book, Unit 6, printed pp.72–87 and Unit 2, printed p.21 |
 
-**Acceptance count: taught in 7 countries (Bangladesh,
-Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan).** Ghana states the rules as curriculum strands;
+**Acceptance count: taught in 8 countries (Bangladesh,
+Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq).** Ghana states the rules as curriculum strands;
 Bangladesh boxes the capital rule, prints a text wearing it
 in red, and drills the stop/question-mark pair in its first
 punctuation exercises; Indonesia names the marks and
@@ -90,5 +98,5 @@ Grades 7 and 9 — the pair is genuinely taught as a
 point, but the Kazakhstan filing does not break the
 punctuation down mark by mark, so no first-word-capital
 or full-stop-at-the-end rule is claimed for it beyond
-the naming. Other closed countries join as
+the naming. Iraq teaches the pair outright from the first year: its Grade 1 Teacher's Book introduces capitals in Unit 6 as beginning names and sentences and explains the sentence as starting with a capital and ending with a full stop, the Grade 1 Activities form the capitals, the Grade 3 Activity Book copies and corrects capitalised sentences, and the Grade 4 Activity Book states the rule — a capital letter starts a sentence, a full stop ends a sentence. Other closed countries join as
 their books are read (see READING-QUEUE.md).

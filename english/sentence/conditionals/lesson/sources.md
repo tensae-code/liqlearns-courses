@@ -1,6 +1,6 @@
 # Sources — Conditionals
 
-countries: Egypt, Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
+countries: Egypt, Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
 
 Every part traces to its book and page.
 
@@ -81,6 +81,11 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 **Book 20:** Kazakhstan English Plus Grade 9: Student's Book (Kazakhstan edition) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 9 — English Plus Grade 9 Student's Book (Kazakhstan edition) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 21:** Kazakhstan Full Blast! Grade 9: Student's Book — Kazakhstan, MM Publications. Filed in english/books/kazakhstan.md (Grade 9 — Full Blast! for Kazakhstan Grade 9 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 22:** Kazakhstan Excel Grade 9: Student's Book — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 9 — Excel for Kazakhstan, Grade 9 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 23:** English for Iraq, Grade 7, Student's Book, Book One — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 7 — English for Iraq, 1st Intermediate Student's Book (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 24:** English for Iraq, Grade 9, Student's Book, Book One — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 9 — English for Iraq, 3rd Intermediate Student's Book (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 25:** English for Iraq, Grade 10, Student's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 10 — English for Iraq, 4th Preparatory Student's Book (Student's Book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 26:** English for Iraq, Grade 11, Student's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 11 — English for Iraq, 5th Preparatory Student's Book (Student's Book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 27:** English for Iraq, Grade 12, Student's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 12 — English for Iraq, 6th Preparatory Student's Book (Student's Book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -124,9 +129,15 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | Types 0, 1 and 2 worked as the cities module's grammar, with the Type 3 deliberately held back for a later module | Kazakhstan, Full Blast! Grade 9, Module 7, printed pp.169–192 |
 | The Type 3 conditional completing Full Blast!: hypothetical past situations with *if only* for past regrets beside them | Kazakhstan, Full Blast! Grade 9, Module 9, printed pp.223–246 |
 | Conditionals Types 1–3 tabled with wishes in one unit: the conditions system and the wish system carried together | Kazakhstan, Excel Grade 9, Module 4, printed pp.41–52 |
+| The first conditional: a fishing-shop dialogue running on it ("If the boat sinks, we'll swim"), then the if-sentences rule box — present tense in the if-clause, *will +* infinitive in the result clause, either clause first | Iraq, English for Iraq Grade 7, Student's Book, Book One, Unit 7, printed pp.64–75 |
+| First and second conditionals in one unit: a growing-world discussion in first conditionals, then the "Talking about imaginary situations" box — the second conditional (*If +* past simple, *would +* infinitive) | Iraq, English for Iraq Grade 9, Student's Book, Book One, Unit 3, printed pp.30–43 |
+| Zero and first conditionals: the zero taught on the science-magazine "Winds" article, the first on the international weather forecast | Iraq, English for Iraq Grade 10, Student's Book, Unit 7, Lessons 2–3, printed pp.72–81 |
+| The first conditional on the endangered-animals factfiles; the second conditional through the magazine interview "If you were in trouble …", with "If I were you, I wouldn't worry" for advice | Iraq, English for Iraq Grade 11, Student's Book, Unit 3, Lesson 2, printed p.35, and Unit 5, Lessons 5–7, printed pp.60–62 |
+| The complete system 0–3 in one unit: the zero and first conditional box in the careers-advisor interview, the second conditional box in "If you could choose any job …", the third taught through the film director's account of the careers he nearly had, and wish / if only + past perfect for regrets — all four structures tabulated together in the Reference | Iraq, English for Iraq Grade 12, Student's Book, Unit 3, printed pp.26–33; Grammar and Functions Reference, printed pp.79–84 |
+| The split, stated plainly: Iraq's system stops at the four plain types — no mixed conditionals as a category, and no inverted conditionals, anywhere in the Iraq set | Iraq, English for Iraq, the whole set as filed in english/books/iraq.md (series verdict and the Grade 11–12 honest negatives) |
 
-**Acceptance count: taught in 10 countries (Egypt,
-Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan).** Libya names the zero and first at
+**Acceptance count: taught in 11 countries (Egypt,
+Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).** Libya names the zero and first at
 Grade 9 and completes the set in its reference;
 Mongolia tables zero and first, teaches the first with
 unless, and reaches the second at Grade 10; Egypt
@@ -144,7 +155,7 @@ JSS3; Jordan meets the first conditional at Grade 6,
 teaches zero, first and second together and the third
 (with wish/if only regrets) at Grade 10, adds mixed
 conditionals at Grade 11, and recaps the whole 0–3
-system in Grade 12's Grammar Reference. Greece's split stands plainly: primary teaches Types 1 and 2 only; the Grade 8 streams add Type 0 and unless; Grade 9's ceiling is Types 1–2 (no Type 0 as a named form, no Type 3, no mixed); and the system is completed only at Grade 10, where Αγγλικά 1 tables Types 0–3, adds mixed conditionals, the if-alternatives and inverted conditionals. Kazakhstan's system is filed as Types 0–3 across the set, and the split by series stands plainly: Excel Grade 7 tables zero, first and second on one spread and Excel Grade 9 tables Types 1–3 with wishes; English Plus holds the third conditional back to its Grade 9 Unit 9, long after first and second; Full Blast! works Types 0/1/2 in Module 7 and the Type 3 a term later in Module 9 — and no Kazakhstan book teaches mixed or inverted conditionals, so the set's ceiling is the four plain types. Other closed countries join as their books
+system in Grade 12's Grammar Reference. Greece's split stands plainly: primary teaches Types 1 and 2 only; the Grade 8 streams add Type 0 and unless; Grade 9's ceiling is Types 1–2 (no Type 0 as a named form, no Type 3, no mixed); and the system is completed only at Grade 10, where Αγγλικά 1 tables Types 0–3, adds mixed conditionals, the if-alternatives and inverted conditionals. Kazakhstan's system is filed as Types 0–3 across the set, and the split by series stands plainly: Excel Grade 7 tables zero, first and second on one spread and Excel Grade 9 tables Types 1–3 with wishes; English Plus holds the third conditional back to its Grade 9 Unit 9, long after first and second; Full Blast! works Types 0/1/2 in Module 7 and the Type 3 a term later in Module 9 — and no Kazakhstan book teaches mixed or inverted conditionals, so the set's ceiling is the four plain types. Iraq climbs the ladder across the whole school: the first conditional boxed at Grade 7, first and second together at Grade 9, zero and first at Grade 10, first (Unit 3) and second (Unit 5) again at Grade 11, and the complete system 0–3 tabulated in Grade 12's Reference with wish/if only — and its split stands plainly too: no mixed conditionals as a category and no inversion anywhere in the Iraq set, so its ceiling is likewise the four plain types. Other closed countries join as their books
 are read (see READING-QUEUE.md).
 
 **Laos Grade 9 added 2026-10-27** — *English for Secondary

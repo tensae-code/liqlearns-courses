@@ -1,6 +1,6 @@
 # Sources for this lesson — Blends
 
-countries: Egypt, China, Iran, Jordan, Kazakhstan
+countries: Egypt, China, Iran, Jordan, Kazakhstan, Iraq
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -29,8 +29,11 @@ pictures).
 | Three-letter opening sounds **str / spr / scr** in the Grade 7 phonics line, tabulated in the semester's Scope and sequence | Jordan — Team Together Grade 7 Teacher's Book, Semester 1, Scope and sequence, TB pp.2–3 |
 | Opening consonant blends taught as a named Sounds set — **bl, br, cl, gr, pl** — the module's whole phonics slot, with sight words beside it | Kazakhstan — English Language for Kazakhstan Grade 4 Pupil's Book, Module 2 "My World," printed pp.18–29 |
 | **l** blends as the module's phonics slot — **pl** (plane), **bl** (black, blue), **fl** (fly) — named "l blends" in the country file | Kazakhstan — Top Stars Grade 4 Student's Book, Module 4 "People and Jobs," printed pp.42–51 |
+| Initial consonant-cluster blending — **gr–, br–, bl–, wh–** — in the Grade 1 teacher's notes | Iraq — English for Iraq, Grade 1 Teacher's Book, Unit 6, printed pp.148–167 |
+| Initial blends circled from sound — **bl/cl/fl/pl/sl, br/tr/fr, sp/st/sk/sn/sc** — and blend jigsaws (pl+ant/ane, br+ush/ead) in the workbook's phonics strand | Iraq — English for Iraq, Grade 3 Activity Book, Unit 6, printed pp.84–99; Unit 7, printed pp.100–115 |
+| Initial blends on two phonics pages — **bl, fl, pl, sl** (black, plane, sleep, flag, flower, plant), then **cl, cr, pl, st, sl, gr, sw** | Iraq — English for Iraq, Grade 4 Activity Book, Unit 1, printed pp.4–19 |
 
-**Acceptance count: taught in 5 countries (Egypt, China, Iran, Jordan, Kazakhstan).**
+**Acceptance count: taught in 6 countries (Egypt, China, Iran, Jordan, Kazakhstan, Iraq).**
 China joins with blends taught two at a time on Let's spell
 pages in Grade 5 (cl/pl, gr/br) and sorted again in the
 end-of-primary grouping review (Grade 6 Volume 2). Iran joins
@@ -44,6 +47,11 @@ Kazakhstan joins with blends taught as named phonics slots
 in two of its Grade 4 series — a five-blend consonant set
 (bl, br, cl, gr, pl) in the Express book, and the l blends
 in Top Stars.
+Iraq joins with blends at three levels: cluster blending
+in its Grade 1 Teacher's Book (gr–, br–, bl–, wh–), the
+full initial-blend sets circled from sound in its Grade 3
+Activity Book, and two initial-blend phonics pages in its
+Grade 4 Activity Book.
 Counts grow as other closed countries' books are read.
 
 ### Egypt — Primary 3 Term 1 (read 2026-10-25) — three-letter blends
@@ -172,3 +180,26 @@ books' other phonics slots are the digraphs and vowel
 pairs filed in phonics/two-letter-sounds, and the
 Grade 3 books' short-vowel drills are single sounds,
 not blends.
+
+**Iraq added 2026-11-03** — three books stock this
+lesson: **Book:** *English for Iraq*, Grade 1 Teacher's
+Book; **Book:** *English for Iraq*, Grade 3 Activity
+Book; **Book:** *English for Iraq*, Grade 4 Activity
+Book — Iraq, Garnet Publishing Ltd (Garnet Education)
+for the Ministry of Education. All filed in
+english/books/iraq.md (Grade 1 — English for Iraq, 1st
+Primary, Teacher's Book (teacher's guide) section;
+Grade 3 — English for Iraq, 3rd Primary, Activity Book
+(activity book) section; Grade 4 — English for Iraq
+4th Primary Activity Book (activity book) section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+Iraq's blends begin as teacher-led cluster blending in
+Grade 1 (gr–, br–, bl–, wh–, Unit 6, printed
+pp.148–167), become workbook work in Grade 3 — initial
+blends circled from sound (pl/fl/bl, cl/fl/pl, sl/pl/cl,
+fr/cr/pr, br/tr/fr, cl/sl/pl, sp/sl/st, sk/st/sp,
+sp/sc/sn; Unit 6, printed pp.84–99) and blend jigsaws
+in Unit 7 (printed pp.100–115) — and are re-taught in
+Grade 4 on two phonics pages of its Activity Book's
+first unit (bl, fl, pl, sl, then cl, cr, pl, st, sl,
+gr, sw; Unit 1, printed pp.4–19).

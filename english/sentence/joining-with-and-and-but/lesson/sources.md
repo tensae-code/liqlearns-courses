@@ -1,6 +1,6 @@
 # Sources — Joining with and and but
 
-countries: Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
+countries: Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
 
 Every part traces to its book and page.
 
@@ -96,8 +96,11 @@ CITATION CHECK PASSED 2026-11-03).
 | The joiners as the writing point of the people-description lesson — *and, but, or* for describing people in a photo, written for a blog | Kazakhstan, English Plus Grade 5, Unit 4, printed pp.40–53 |
 | The linkers named as the stories module's whole language focus — *and, but, because, so* — worked through the Pushkin, Robin Hood and Kazakh myth retellings | Kazakhstan, Excel Grade 5, Module 6, printed pp.75–84 |
 | Linking words named as a lesson point — *and, but, or, so, because* — in the volunteering lesson, with an email giving news and a correction-code editing task | Kazakhstan, Full Blast! Grade 6, Module 2, section 2e, printed pp.40–57 |
+| The joiners stated as a LOOK box over the pupil book's blog: *and* to add information, *but* to show a contrast — counted in the blog text and shown in Venn-style diagrams | Iraq — English for Iraq, Grade 6 Activity Book, Unit 2, printed pp.20–35 ("We use but to show a contrast", printed p.31) |
+| Linking words as a lesson of their own — *and, but, or, because, as well as* — joining things in a Japanese penfriend unit | Iraq — English for Iraq, Grade 7 Student's Book Book One, Unit 6, printed pp.54–63 |
+| Joining sentences with *and, but, or* as a named Round up box, closing the opening unit's workbook work | Iraq — English for Iraq, Grade 7 Activity Book, Unit 1, printed pp.4–21 ("Joining sentences with and, but, or", printed p.20) |
 
-**Acceptance count: taught in 10 countries (Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan).**
+**Acceptance count: taught in 11 countries (Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).**
 Ghana opens the compound sentence with AND, seats BUT
 beside it, lists the four coordinators, and widens the
 family in its own order; Bolivia posts the but/however
@@ -111,7 +114,7 @@ at Primary 5 and states sentence combining at senior
 level; Jordan joins likes with and/too, but and or in
 Grade 2, joins habits with and/but in Grade 3, and
 links a profile with and/but/so/because in Grade 8.
-Greece joins with so / because at Grade 6, carries a postcard on because, as, although, but and so at Grade 9 (the teacher's book adds and to the set), and presents because, as, although, but as cause-and-effect connectors at Grade 10 EPAL. Kazakhstan works and / but / or as the writing point of a Grade 5 description lesson, names and, but, because, so as a whole stories module's language focus, and lists the five linkers — and, but, or, so, because — as a Grade 6 lesson point. Other closed countries join as their books are
+Greece joins with so / because at Grade 6, carries a postcard on because, as, although, but and so at Grade 9 (the teacher's book adds and to the set), and presents because, as, although, but as cause-and-effect connectors at Grade 10 EPAL. Kazakhstan works and / but / or as the writing point of a Grade 5 description lesson, names and, but, because, so as a whole stories module's language focus, and lists the five linkers — and, but, or, so, because — as a Grade 6 lesson point. Iraq states the pair as a box in its Grade 6 Activity Book — *and* to add information, *but* to show a contrast — gives linking words their own Grade 7 lesson (*and, but, or, because, as well as*), and names joining sentences with *and, but, or* in its Grade 7 Activity Book Round up. Other closed countries join as their books are
 read (see READING-QUEUE.md).
 
 **Laos Grade 5 added 2026-10-27** — *Student's Book 3, Grade 5*
@@ -121,3 +124,15 @@ in the food lesson: **"I like noodles and fried rice"** beside
 **"I like sausage but I don't like fish soup"** (p.132) — and
 for like, but for the turn against it, inside one child's own
 tastes.
+
+**Iraq added 2026-11-03** — *English for Iraq* (Garnet
+Publishing Ltd / Garnet Education for the Ministry of
+Education; full read in english/books/iraq.md). Iraq states
+the joiners as a LOOK box in Grade 6: **we use *and* to add
+information, *but* to show a contrast**, counted in the
+Pupil's Book blog (Activity Book, Unit 2, printed pp.20–35).
+Grade 7 gives linking words a lesson of their own — *and,
+but, or, because, as well as* (Student's Book Book One,
+Unit 6, printed pp.54–63) — and the workbook names the act
+itself in its Round up box, **"Joining sentences with and,
+but, or"** (Activity Book, Unit 1, printed p.20).

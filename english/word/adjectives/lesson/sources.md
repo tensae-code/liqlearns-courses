@@ -1,6 +1,6 @@
 # Sources — Adjectives
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
 
 Every part traces to its book and page.
 
@@ -118,6 +118,12 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 
 **Book 26:** Kazakhstan English Plus, Grade 5: student's book (student book) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 5 — English Plus Grade 5 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 27:** English for Iraq, Grade 1, Pupil and Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 1 — English for Iraq, 1st Primary, Pupil and Activity Book (combined pupil + activity book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 28:** English for Iraq, Grade 6, Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 6 — English for Iraq 6th Primary Activity Book (activity book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 29:** English for Iraq, Grade 9, Student's Book (Book One) — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 9 — English for Iraq, 3rd Intermediate Student's Book (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition as questions, and the rule that finds adjectives: "Adjectives tell us about the things – are they big, small, happy, sad? • Adjectives and nouns go together." | Libya, Grade 5 Pupils Book, Unit 6, "Let's check!" box |
@@ -153,9 +159,13 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 | Describing pairs from the first primary year in Kazakhstan's set: size and age adjectives — big, long, new, old, short, small — in the school module, then character adjectives — clever, friendly, funny, kind, naughty, shy — and appearance words in the family module | Kazakhstan, English Language for Kazakhstan Grade 3, Module 2, printed pp.18–29; Module 3, printed pp.30–41 |
 | Appearance adjectives worked on characters — the Shrek figures described — and character adjectives with their opposites, adjective position and very, inside the family module | Kazakhstan, Excel for Kazakhstan Grade 5, Module 2, printed pp.21–32; Module 3, printed pp.33–44 |
 | Adjectives as the sports unit's opening vocabulary, set before their nouns with a / an — a / an + adjective + noun — and carried into exclamations with what in the My Country spread | Kazakhstan, English Plus Grade 5, Unit 2 "Sports," printed pp.12–25 |
+| The first describing words in the first year: big, funny, little — with the colours — describing the zoo animals, then body-part monster descriptions built from described parts (three red ears, a blue body) | Iraq — English for Iraq, Grade 1 Pupil and Activity Book, Unit 5, printed pp.40–49; Unit 6, printed pp.50–59 |
+| Adjective order taught as a rule of its own — the order of adjectives: size → colour → material (a big black leather sofa) — in a LOOK box unique to this book, then used to describe a room in writing | Iraq — English for Iraq, Grade 6 Activity Book, Unit 2, printed p.21 |
+| Adjective order again at intermediate level, as a table — Opinion–Size–Age–Shape–Colour–Origin–Material — in the describing-things unit's Round up | Iraq — English for Iraq, Grade 9 Student's Book (Book One), Unit 1, Round up, printed p.13 |
+| Comparing forms (comparative / superlative rules) — recorded here as NOT this lesson, as in Egypt: Iraq teaches them as their own system (Grade 4 Pupil's Book Units 1 and 5, with good/better/best in the Grade 4 Activity Book) and they get their own lesson | Iraq — English for Iraq, Grade 4 Pupil's Book, Unit 1, printed pp.6–21; Unit 5, printed pp.58–73 |
 
-**Acceptance count: taught in 12 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan).**
+**Acceptance count: taught in 13 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).**
 Libya carries the definition twice and the
 pairs inside a story; Bangladesh carries the pictured pairs;
 Egypt carries the fullest statement of what adjectives tell;
@@ -168,6 +178,6 @@ vegetables described by colour, shape and taste; Iran carries
 the adjective as a named word kind with its kinds and places,
 and the first describing pairs on people in Prospect 1;
 Sierra Leone carries describing a friend and yourself, and
-colour words as a describing set. Jordan carries opinion adjectives in its Grade 2 Learning Club, the size pairs on animals, a ten-word opposite set used before nouns, and a twelve-word character set; Greece carries adjectives sorted by kind — opinion, size, age, colour, material — in Grade 7 Beginners, sense verbs with their adjectives in Grade 5, and the -ing against -ed pair in Grade 6; Kazakhstan carries the size and age pairs and the character set in its Grade 3 Express book, appearance and character adjectives with their opposites in Grade 5 Excel, and adjectives set before their nouns in Grade 5 English Plus — its comparing forms are a different lesson and are not sourced here; Other
+colour words as a describing set. Jordan carries opinion adjectives in its Grade 2 Learning Club, the size pairs on animals, a ten-word opposite set used before nouns, and a twelve-word character set; Greece carries adjectives sorted by kind — opinion, size, age, colour, material — in Grade 7 Beginners, sense verbs with their adjectives in Grade 5, and the -ing against -ed pair in Grade 6; Kazakhstan carries the size and age pairs and the character set in its Grade 3 Express book, appearance and character adjectives with their opposites in Grade 5 Excel, and adjectives set before their nouns in Grade 5 English Plus — its comparing forms are a different lesson and are not sourced here; Iraq carries the first describing words big, funny and little in its Grade 1 zoo and monster work, and adjective order twice — as the size → colour → material rule in its Grade 6 Activity Book, and as the full seven-kind table in Grade 9 Book One — its comparing forms are a different lesson and are not sourced here; Other
 closed countries join as their books are read (see
 READING-QUEUE.md).

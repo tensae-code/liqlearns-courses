@@ -1,6 +1,6 @@
 # Sources — The paragraph
 
-countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
+countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
 
 Every part traces to its book and page.
 
@@ -105,6 +105,11 @@ english/books/kazakhstan.md (Grade 9 — Full Blast! for
 Kazakhstan Grade 9 Student's Book section, FULLY READ +
 CITATION CHECK PASSED 2026-11-03).
 
+**Book 20:** English for Iraq, Grade 8, Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 8 — English for Iraq, 2nd Intermediate Activity Book (activity book / workbook) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 21:** English for Iraq, Grade 8, Student's Book, Book One — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 8 — English for Iraq, 2nd Intermediate Student's Book (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 22:** English for Iraq, Grade 9, Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 9 — English for Iraq, 3rd Intermediate Activity Book (activity book / workbook) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 23:** English for Iraq, Grade 10, Student's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 10 — English for Iraq, 4th Preparatory Student's Book (Student's Book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Guided Composition: "two coherent paragraphs by leading questions ('My Home')" — the paragraph written as answers to leading questions | Ghana, NaCCA B1–B3 curriculum, Basic 3, writing strands (as filed) |
@@ -130,10 +135,15 @@ CITATION CHECK PASSED 2026-11-03).
 | The paragraph task repeated on new ground: write a paragraph about your eating habits, and a paragraph about a pet | Kazakhstan, Full Blast Grade 6 Student's Book, Module 5, printed pp.109–125 |
 | Paragraphs and topic sentences named together as the writing craft of the review lesson: writing a book/film review, its paragraphs carried by their topic sentences | Kazakhstan, English Plus Grade 8 Workbook, Unit 5, printed pp.40–47 |
 | Topic sentences taught by name inside the opinion-essay lesson, beside the essay's full PLAN — the sentence that carries each paragraph, at the top of the school | Kazakhstan, Full Blast Grade 9 Student's Book, Module 9, printed pp.223–246 |
+| The paragraph named as a writing tip in its own right — Writing tip 1, "A paragraph," inside the school-magazine unit's workbook work | Iraq, English for Iraq Grade 8, Activity Book, Unit 1, printed p.17 |
+| Topic sentences taught by name — Writing tip 2, "Topic sentences," with a planned paragraph built from them (topic sentence, note diagram, order, draft, correct) | Iraq, English for Iraq Grade 8, Activity Book, Unit 3, printed p.52 |
+| The paragraph planned with topic sentences as the writing lesson of the review unit: organise and plan each paragraph with topic sentences (Writing tips 3–6) | Iraq, English for Iraq Grade 8, Student's Book, Book One, Unit 4, Lesson 4, printed pp.43–46 |
+| The paragraph defined in a named box — "What makes a paragraph?": a paragraph is a group of sentences about one topic or idea, with what paragraphs look like | Iraq, English for Iraq Grade 9, Activity Book, Unit 6, printed p.96 |
+| Topic sentences taught as the reading-and-writing work of the "Changes" lesson — topic sentences named, and paragraphs matched to the graphs they carry | Iraq, English for Iraq Grade 10, Student's Book, Unit 1, Lesson 2, printed pp.6–16 |
 
-**Acceptance count: taught in 12 countries (Bangladesh,
+**Acceptance count: taught in 13 countries (Bangladesh,
 Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan).** Ghana names the process and prints the
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).** Ghana names the process and prints the
 unity test as a revise question; Bangladesh guides the
 first paragraphs and models them; Egypt examines by the
 paragraph; China adds a model-first writing ladder across
@@ -160,7 +170,13 @@ about your school, a blog paragraph, paragraphs about
 your eating habits and a pet — names paragraphs and
 topic sentences together in its Grade 8 workbook's
 review writing, and teaches topic sentences by name
-again inside the Grade 9 opinion essay. Other closed countries join as their books are
+again inside the Grade 9 opinion essay; Iraq stocks the
+paragraph whole — it names the paragraph as a writing
+tip at Grade 8, teaches topic sentences by name there
+with a planned paragraph built from them, defines the
+paragraph outright at Grade 9 ("a group of sentences
+about one topic or idea"), and teaches topic sentences
+again at Grade 10. Other closed countries join as their books are
 read (see READING-QUEUE.md).
 
 **Laos Grade 6 added 2026-10-27** — *English for Secondary

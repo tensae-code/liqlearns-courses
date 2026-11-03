@@ -1,6 +1,6 @@
 # Sources — Answering from the text
 
-countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
+countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
 
 Every part traces to its book and page.
 
@@ -101,6 +101,11 @@ Filed in english/books/kazakhstan.md (Grade 10 — English
 Grade 10: Sciences (Low-mid B2) Student's Book section,
 FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 20:** English for Iraq, Grade 3, Pupil's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 3 — English for Iraq, 3rd Primary, Pupil's Book (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 21:** English for Iraq, Grade 8, Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 8 — English for Iraq, 2nd Intermediate Activity Book (activity book / workbook) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 22:** English for Iraq, Grade 10, Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 10 — English for Iraq, 4th Preparatory Activity Book (Activity Book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 23:** English for Iraq, Grade 12, Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 12 — English for Iraq, 6th Preparatory Activity Book (Activity Book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "'Think as you read' questions sit inside the text at each break to check factual comprehension as the learner goes" — answering from the carrier while reading | India, Flamingo, About the Book apparatus (as filed; Hornbill's apparatus is twin) |
@@ -129,9 +134,13 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 | Multiple-choice comprehension on a nine-paragraph newspaper article, worked paragraph by paragraph after its headings are assigned | Greece, Grades 11–12 Student's Book, Unit 5, printed p.70 |
 | The unseen text faced in examination format as a back-matter strand of its own: ten Reading Practice tasks — signs and notices, matching, festival and beauty texts, cloze accounts — each answered from its text alone | Kazakhstan, Excel Grade 9 Student's Book, Reading Practice, printed pp.129–138 |
 | A third answer shape beyond true and false, at the top of the school: the science book's statements judged True, False or Not Given — the answer must be in the text, or honestly not given there | Kazakhstan, English Grade 10 Sciences Student's Book, Unit 8, printed pp.88–93 |
+| A reading text answered in writing from its own numbers: Mr Brown's Pond — Suki the cat eats the fish day by day, and the pupil writes how many remain (34) | Iraq, English for Iraq Grade 3, Pupil's Book, Unit 6, Lesson 4, printed p.81 |
+| A workbook-only text answered from itself: "Cleaner streets" — the three Salih brothers' Green Team removing ten tonnes of rubbish in 365 days — with questions on the text | Iraq, English for Iraq Grade 8, Activity Book, Unit 4, printed pp.58–61 |
+| The unseen text in examination format: the unit Test built on a four-paragraph text about Pakistan, its questions answerable from that text alone | Iraq, English for Iraq Grade 10, Activity Book, Unit 1, Test, printed pp.24–25 |
+| Answering with the evidence shown: the banker text worked hard — true/false items with the evidence underlined in the text, beside main-idea and active-or-passive work on the same text | Iraq, English for Iraq Grade 12, Activity Book, Unit 6, Lesson 3, printed pp.119–146 |
 
-**Acceptance count: taught in 10 countries (Egypt, Ghana,
-India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan).** India builds the carrier hunt into the page and
+**Acceptance count: taught in 11 countries (Egypt, Ghana,
+India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).** India builds the carrier hunt into the page and
 prints the question-kind border; Ghana demands textual
 evidence under personal responses; Egypt examines by the
 unseen passage; China grades the answering shapes themselves
@@ -158,6 +167,12 @@ Kazakhstan examines by the unseen text in its Grade 9
 Reading Practice — ten exam-format tasks answered from
 their texts alone — and prints the third answer shape
 at Grade 10, where its science book's statements are
-judged True, False or Not Given.
+judged True, False or Not Given;
+Iraq answers from the text from primary school up —
+the pond text's numbers worked in writing at Grade 3,
+workbook-only texts questioned at Grade 8, an unseen
+four-paragraph text examined at Grade 10, and at
+Grade 12 true/false answers checked with the evidence
+underlined in the text itself.
 Other closed countries join as their
 books are read (see READING-QUEUE.md).

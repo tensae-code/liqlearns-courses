@@ -1,6 +1,6 @@
 # Sources — The body
 
-countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
+countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
 
 Every part traces to its book and page.
 
@@ -73,6 +73,10 @@ english/books/jordan.md (Grade 2 Pupil's Book Semester 1 section, FULLY READ + C
 
 **Book 17:** Kazakhstan Excel for Kazakhstan, Grade 5: student's book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 5 — Excel for Kazakhstan Grade 5, Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 18:** English for Iraq, Grade 1, Pupil and Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 1 — English for Iraq, 1st Primary, Pupil and Activity Book (combined pupil + activity book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 19:** English for Iraq, Grade 3, Pupil's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 3 — English for Iraq, 3rd Primary, Pupil's Book (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The body unit set: head, hand, finger, leg, face, nose, mouth — taught by "Listen and touch" on the child's own body (numbers 7–10 traced alongside) | Palestine, Grade 1 Part 1, Unit 4 "My body," p.22 |
@@ -97,9 +101,11 @@ english/books/jordan.md (Grade 2 Pupil's Book Semester 1 section, FULLY READ + C
 | The face set inside the music module — hair, eyes, nose, ears, mouth — taught by touch: "Touch your ears!," and describing a funny face whole: "I've got green hair and blue eyes" | Kazakhstan, Smiles 1 Pupil's Book, Grade 1, Module 6 "My Music," printed pp.74–87 |
 | Body parts with the actions that move them — bend your knees, clap your hands, hop on one leg, stamp your feet, stretch your arms, touch your head — with ears, eyes, mouth and nose named in the same health module | Kazakhstan, English Language for Kazakhstan Grade 3, Module 6 "Health," printed pp.68–79 |
 | Parts of the body as a named set a level up, with appearance adjectives beside them and the Shrek characters for describing appearance — the parts at work in description | Kazakhstan, Excel for Kazakhstan Grade 5, Module 2 "Living things!," printed pp.21–32 |
+| The body unit set in the first year: ears, eyes, feet, hair, hands, head, mouth, nose, toes, with arms and body — introduced through face-painting and clown pictures with the frame My ears / My nose / My eyes, then built into monster descriptions and the washing routines (I wash my face / hands / feet / hair) | Iraq — English for Iraq, Grade 1 Pupil and Activity Book, Unit 6 "My body," printed pp.50–59 |
+| The body set rebuilt in Grade 3: hand, head, foot, shoulder, arm, toe, body, leg, knee in "My body," then the head set — hair, ear, eye, nose, teeth, mouth, tongue — in "My head," with It has … monsters counted by their parts | Iraq — English for Iraq, Grade 3 Pupil's Book, Unit 1, printed pp.6–21 |
 
-**Acceptance count: taught in 11 countries (Egypt, Palestine,
-Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan).**
+**Acceptance count: taught in 12 countries (Egypt, Palestine,
+Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).**
 Palestine carries the core seven by touch;
 Egypt carries the parts at work in the five sense sentences,
 plus three more inside its letter pages; China carries the
@@ -108,7 +114,7 @@ body whole and in pieces, in pictures alone; Indonesia
 carries the parts inside the hygiene habits; Iran carries
 the parts named in injury talk and built into sentences;
 Sierra Leone carries the first-year naming lesson with its
-"Head and Shoulders" song. Jordan carries the eight-part set with has got description in Grade 1, and the widened set counted and moved by touch commands in Grade 2; Greece carries the body in pictures and songs in its two Workpacks — face pieces in Grade 1, the Pinocchio body and the counted monster features in Grade 2, with no printed body word list in either pack — and body parts as a vocabulary layer in its Grade 8 Beginners Workbook; Kazakhstan carries the face set taught by touch in Grade 1 Smiles, body parts with the actions that move them in its Grade 3 Express health module, and the body set with appearance description in Grade 5 Excel; Other finished
+"Head and Shoulders" song. Jordan carries the eight-part set with has got description in Grade 1, and the widened set counted and moved by touch commands in Grade 2; Greece carries the body in pictures and songs in its two Workpacks — face pieces in Grade 1, the Pinocchio body and the counted monster features in Grade 2, with no printed body word list in either pack — and body parts as a vocabulary layer in its Grade 8 Beginners Workbook; Kazakhstan carries the face set taught by touch in Grade 1 Smiles, body parts with the actions that move them in its Grade 3 Express health module, and the body set with appearance description in Grade 5 Excel; Iraq carries the ten-part set with My … frames, monster descriptions and washing routines in Grade 1, and the body and head sets rebuilt with It has … counting in Grade 3; Other finished
 countries join as their books are read (see READING-QUEUE.md).
 
 **Laos Grade 5 added 2026-10-27** — *Student's Book 3, Grade 5*

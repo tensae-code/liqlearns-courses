@@ -1,6 +1,6 @@
 # Sources for this lesson — Introducing a friend
 
-countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan
+countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -30,12 +30,14 @@ disk 2026-10-25: %PDF, 190 pp).
 | Identifying a third person in the family-and-friends module: "Who's that? — It's …" — the question about the new person, answered with who they are (Kazakhstan's filed books print no "This is my friend …" frame; its introduction work is this family presenting and this who-question, recorded as printed) | Kazakhstan, Top Stars Grade 3 Student's Book, Module 3 "People I Love," printed pp.32–41 |
 | Greetings, introductions and personal questions as the module's Everyday English strand | Kazakhstan, Excel Grade 5 Student's Book, Module 2, printed pp.21–32 |
 | Meeting people as a named speaking slot — greetings and introductions — in the first unit, "Our class" | Kazakhstan, English Plus Grade 6 Student's Book, Unit 1, printed pp.8–19 ("Meeting people," printed p.14) |
+| Presenting the family in the teacher's notes — "This is my (dad) …" as a receptive frame of the first year, and Hani's family presented person by person on the family poster (Tracks 88–90) (Iraq's filed books print no "This is my friend …" frame — its introduction work is this family presenting, recorded as printed) | Iraq — English for Iraq, Grade 1 Teacher's Book, Unit 7 notes, printed pp.168–185 |
+| Identifying the family person by person a year up: "Who is this? — It's her grandpa. / It's my/her/his …" over the birthday-party family set | Iraq — English for Iraq, Grade 2 Pupil and Activity Book, Unit 6, Lesson 1, printed pp.48–57 |
 
 The same dialog also carries the age exchange and the toy-fish
 talk — those parts are filed in their own places (age: english/age/
 how-old-are-you), not here.
 
-**Acceptance count: taught in 9 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan).**
+**Acceptance count: taught in 10 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq).**
 Egypt carries introducing the family — "This is my father /
 mother / sister …" with the "Who's this?" exchange, and a year
 deeper the whole family lineup with my / his / her on family
@@ -64,6 +66,12 @@ its Top Stars Grade 3 asks "Who's that? — It's …" over
 family and friends; a year-band up, introductions are
 named Everyday English in Excel Grade 5 and a named
 "Meeting people" speaking slot in English Plus Grade 6.
+Iraq joined 2026-11-03 in the family form, like Egypt,
+Jordan and Kazakhstan: its Grade 1 Teacher's Book
+presents the family with "This is my (dad) …" and its
+Grade 2 book identifies the family person by person
+with "Who is this? — It's …"; no "This is my friend …"
+frame is printed in its filed read, and none is claimed.
 Counts grow as other closed countries' books are read.
 (Count corrected 2026-10-29 to match this file's own sections —
 the Egypt sections below were already in the file but missing
@@ -256,3 +264,33 @@ the Everyday English strand of Excel Grade 5's Module 2
 (printed pp.21–32) and the "Meeting people" speaking
 slot of English Plus Grade 6 (Unit 1, printed p.14),
 and only that filed work is counted here.
+
+**Iraq added 2026-11-03** — two books stock this lesson:
+**Book:** *English for Iraq*, Grade 1 Teacher's Book —
+Iraq, Garnet Publishing Ltd (Garnet Education) for the
+Ministry of Education. **Book:** *English for Iraq*,
+Grade 2 Pupil and Activity Book — Iraq, Garnet
+Publishing Ltd (Garnet Education) for the Ministry of
+Education. Both filed in english/books/iraq.md (Grade 1
+— English for Iraq, 1st Primary, Teacher's Book
+(teacher's guide) section; Grade 2 — English for Iraq,
+2nd Primary, Pupil and Activity Book (combined pupil +
+activity book) section, FULLY READ + CITATION CHECK
+PASSED 2026-11-03). Iraq's introducing is the family
+presenting, in the same shape as Egypt's, Jordan's and
+Kazakhstan's rows in this file: the Grade 1 Teacher's
+Book carries "This is my (dad)" in its receptive layer,
+and Unit 7's notes present Hani's family on the poster
+person by person — "This is my dad …", with his little
+brother Hasan and sister Amna named in the audio
+(Tracks 88–90; Unit 7 notes, printed pp.168–185). Grade
+2 adds the question side over its party family set:
+"Who is this? — It's her grandpa. / It's my/her/his …"
+(Unit 6, Lesson 1, printed pp.48–57). The limit is
+recorded plainly: no "This is my friend …" frame and
+no nice-to-meet-you introduction exchange is printed
+in the filed Iraq read — Grade 2's personal
+introduction (Unit 5, Lesson 7: "My name's Sami. I have
+a sister. Her name is Safa.") is a self-introduction
+with the family named, and is filed in the name
+lessons, not claimed here as introducing a friend.

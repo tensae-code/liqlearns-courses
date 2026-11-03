@@ -1,6 +1,6 @@
 # Sources — Past actions
 
-countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
+countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
 
 Every part traces to its book and page.
 
@@ -106,10 +106,13 @@ CITATION CHECK PASSED 2026-11-03).
 | The Past Simple as the closing unit's whole grammar — affirmative first, then its questions and negative forms | Kazakhstan, English Plus Grade 5, Unit 9, printed pp.104–111 (questions and negatives, printed p.109) |
 | The past simple taught for the first time in the Smiles series, in the myths-and-legends module, beside the infinitive and *-ing* forms | Kazakhstan, Smiles Grade 4, Module 2, printed pp.18–31 |
 | The Past Simple of regular and irregular verbs with its questions in the drama unit, then *was/were* and the regular past recycled with past time expressions in the final unit | Kazakhstan, English Plus Grade 6, Units 4 and 9, printed pp.44–55 and 104–115 |
+| The past carried first by stories, before any drill: full past-tense narration in Roland's Race, Ant and Grasshopper and The Shopping List, the Mr Brown's Pond reading, and the shopping reports (I bought …) | Iraq — English for Iraq, Grade 3 Pupil's Book, Units 5–7, printed pp.72–73, 88–89, 92–93 and 104–105 |
+| The past simple taught explicitly: pupils match present and past sentences and extract the verb pairs (go/went, is/was, play/played, do/did), then was/were childhood memories, did-questions over a cinema email, and There was a book / There were books | Iraq — English for Iraq, Grade 4 Pupil's Book, Unit 6, printed pp.74–89 |
+| The past set out whole as revision at intermediate entry: present/past simple in the opening unit with a full past-forms table in the Grammar and functions reference | Iraq — English for Iraq, Grade 7 Student's Book Book One, Unit 1, printed pp.4–15 (reference, printed pp.97–99) |
 
-**Acceptance count: taught in 11 countries (Bolivia, Ghana,
+**Acceptance count: taught in 12 countries (Bolivia, Ghana,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
-Jordan, Greece, Kazakhstan).** Mongolia boxes the -ed frame and drills the
+Jordan, Greece, Kazakhstan, Iraq).** Mongolia boxes the -ed frame and drills the
 movers by name; Bolivia states the whole paradigm including
 the Did/didn't law; Ghana seats the simple past where
 stories live; China adds the past staged regular first,
@@ -125,7 +128,7 @@ past regular-first for the senior exam; Jordan
 stages the past in Grade 4 — be first, then regular,
 then irregular — sets the past continuous against it
 in Grade 5, and re-teaches the simple past in Grade 8.
-Greece stages the past in Grade 5 — affirmative first, then negatives and questions, then the continuous and the two pasts together — combines the two boxes in Grade 6, and rebuilds the narrative past at Grade 7. Kazakhstan starts the lexical past at Grade 4 in Smiles (the other Grade 4 books stop at *was/were*), stages regular and irregular past inside one Grade 5 Excel module, and gives the tense its questions and negatives in both Grade 5 and Grade 6 English Plus. Other closed countries join as their books
+Greece stages the past in Grade 5 — affirmative first, then negatives and questions, then the continuous and the two pasts together — combines the two boxes in Grade 6, and rebuilds the narrative past at Grade 7. Kazakhstan starts the lexical past at Grade 4 in Smiles (the other Grade 4 books stop at *was/were*), stages regular and irregular past inside one Grade 5 Excel module, and gives the tense its questions and negatives in both Grade 5 and Grade 6 English Plus. Iraq carries the past first in its Grade 3 stories, teaches it explicitly in Grade 4 — went, saw, had, did, played, was/were, did-questions and There was/were — and tables the past forms whole in its Grade 7 Student's Book Book One reference. Other closed countries join as their books
 are read (see READING-QUEUE.md).
 
 **Laos Grade 6 added 2026-10-27** — *English for Secondary
@@ -143,3 +146,17 @@ english/books/laos.md). The past grows two more shapes:
 continuous with while** — what was happening when the past
 simple thing struck (pp.61–73) — plus the **-ed spelling
 rules** tabled (p.28).
+
+**Iraq added 2026-11-03** — *English for Iraq* (Garnet
+Publishing Ltd / Garnet Education for the Ministry of
+Education; full read in english/books/iraq.md). The past
+arrives first as story language in Grade 3 — full past-tense
+narration in *Roland's Race*, *Ant and Grasshopper* and
+*The Shopping List* (Pupil's Book, printed pp.72–73, 88–89
+and 104–105) — and is taught explicitly in Grade 4, where
+pupils extract the verb pairs **go/went, is/was, play/played,
+do/did**, work was/were memories and did-questions, and meet
+*There was a book / There were books* (Pupil's Book, Unit 6,
+printed pp.74–89). Grade 7's Student's Book Book One then
+sets the past out whole in its reference's past-forms table
+(printed pp.97–99).

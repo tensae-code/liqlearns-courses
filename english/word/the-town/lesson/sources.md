@@ -1,6 +1,6 @@
 # Sources — The town
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
 
 Every part traces to its book and page.
 
@@ -70,6 +70,10 @@ english/books/jordan.md (Grade 6 Pupil's Book Semester 1 section, FULLY READ + C
 
 **Book 17:** Kazakhstan English Plus, Grade 5: student's book (student book) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 5 — English Plus Grade 5 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 18:** English for Iraq, Grade 3, Pupil's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 3 — English for Iraq, 3rd Primary, Pupil's Book (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 19:** English for Iraq, Grade 9, Student's Book (Book One) — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 9 — English for Iraq, 3rd Intermediate Student's Book (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Eight town words on pictures: hospital, school, shop, building, street, car, truck, bus (the hospital shown with its ambulance) | Egypt, Primary 1 Term 2, Unit 5 "Neighborhood," Lesson 1 "Around My Town," p.86 |
@@ -97,9 +101,11 @@ english/books/jordan.md (Grade 6 Pupil's Book Semester 1 section, FULLY READ + C
 | Buildings in our town as the buildings module's second half — the town set carried in the same unit as the home set, worked with there is / there are, prepositions of place and How many …? | Kazakhstan, English Language for Kazakhstan Grade 3, Module 7 "Buildings," printed pp.80–91 |
 | The town set in the book's own Dictionary: museum, police station, post office, train station, tower — with directions language in the same unit set: "Go straight on. Turn left. Turn right." | Kazakhstan, English for Kazakhstan (Macmillan) Grade 3, Unit 7, printed pp.90–103; Dictionary, printed pp.118–127 |
 | A town asked about whole: shops in the fantasy-world unit, there is / there are questions and short answers with prepositions of place, asking about places in a town, and writing a brochure about your town | Kazakhstan, English Plus Grade 5, Unit 3, printed pp.26–39 (brochure, printed p.33) |
+| A whole town unit: "My town" — park, school, supermarket, cinema, hospital, library on a street scene, with its road-safety rhyme — then the town described and located: "This is my town. There is a supermarket and a cinema, but there isn't a library," with turn left / turn right over a map | Iraq — English for Iraq, Grade 3 Pupil's Book, Unit 6, printed pp.74–89 |
+| Describing places as its own box at intermediate level — There is/are …, It has …, It doesn't have … — worked on a mall, inside the describing-things unit | Iraq — English for Iraq, Grade 9 Student's Book (Book One), Unit 1, printed pp.4–17 |
 
-**Acceptance count: taught in 11 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan).** Egypt
+**Acceptance count: taught in 12 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).** Egypt
 carries the first set twice (Primary 1's
 eight words with their dialog; Primary 2's city set);
 Bangladesh carries city life as a topic, against village life;
@@ -110,7 +116,7 @@ neighbourhood on one map, with directions and the position
 set; Iran carries the city described and located whole, and
 the widest pictured places set in this lesson; Sierra Leone
 carries the community word-web and directions by landmarks.
-Jordan carries a town set located and directed in its Grade 3 booster, a whole Our town unit in Grade 4, and the buildings set with the parts of a building in Grade 6; Greece carries the city facilities set with its place phrases in Grade 4, the park and road signs of its Around the City unit, and directions over real maps in Grade 5; Kazakhstan carries the town buildings in its Grade 3 Express buildings module, the town set with directions language in its Grade 3 Macmillan Dictionary, and a town asked about and written up as a brochure in Grade 5 English Plus; Other
+Jordan carries a town set located and directed in its Grade 3 booster, a whole Our town unit in Grade 4, and the buildings set with the parts of a building in Grade 6; Greece carries the city facilities set with its place phrases in Grade 4, the park and road signs of its Around the City unit, and directions over real maps in Grade 5; Kazakhstan carries the town buildings in its Grade 3 Express buildings module, the town set with directions language in its Grade 3 Macmillan Dictionary, and a town asked about and written up as a brochure in Grade 5 English Plus; Iraq carries a whole My town unit in Grade 3 — six town places on a street scene, the town described with there is / there isn't and directed over a map — and describing places as its own box in Grade 9 Book One; Other
 closed countries join as their books are read (see
 READING-QUEUE.md).
 

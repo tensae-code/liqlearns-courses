@@ -1,6 +1,6 @@
 # Sources — Pronouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq
 
 Every part traces to its book and page.
 
@@ -97,6 +97,12 @@ english/books/jordan.md (Grade 7 Pupil's Book Semester 1 section, FULLY READ + C
 
 **Book 21:** Kazakhstan English Plus, Grade 5: student's book (student book) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 5 — English Plus Grade 5 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 22:** English for Iraq, Grade 9, Student's Book (Book One) — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 9 — English for Iraq, 3rd Intermediate Student's Book (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 23:** English for Iraq, Grade 9, Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 9 — English for Iraq, 3rd Intermediate Activity Book (activity book / workbook) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 24:** English for Iraq, Grade 5, Pupil's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 5 — English for Iraq 5th Primary Pupil's Book (pupil's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The set's title and every plain definition, kept in the book's own words: "Personal Pronouns — Words We Use Instead of Names" — I: "When you talk about yourself" · he: "When you talk about a boy or a man" · she: "When you talk about a girl or a woman" · it: "When you talk about an animal or a thing" · we: "When you talk about yourself and others together" · they: "When you talk about more than one person, animal, or thing" · you: "When you talk to one person or to a group" | Egypt, Primary 1 Term 2, p.27 |
@@ -124,9 +130,12 @@ english/books/jordan.md (Grade 7 Pupil's Book Semester 1 section, FULLY READ + C
 | Subject pronouns from the first module — personal subject pronouns beside the verb to be — then possessive adjectives with subject and object pronouns together in the family module, and subject and object pronouns again in the health module | Kazakhstan, English Language for Kazakhstan Grade 3, Module 1, printed pp.6–17; Module 3, printed pp.30–41; Module 6, printed pp.68–79 |
 | The pronoun sets carried a year up: subject and object pronouns with possessive pronouns in the hobby module, then subject and object pronouns with possessive pronouns and adjectives together in the jobs module | Kazakhstan, English Language for Kazakhstan Grade 4, Module 3, printed pp.30–41; Module 4, printed pp.42–53 |
 | Possessive adjectives at work with have got in the families unit, and object pronouns taught beside the present simple spelling rules in the world-of-work unit — the after-verb forms arriving inside real sentence work | Kazakhstan, English Plus Grade 5, Unit 4, printed pp.40–53; Unit 6, printed pp.68–81 |
+| The pronoun sets set out whole in one table — subject, object and possessive adjective — in the Our world unit's Round up (the Grade 9 Student's Book as held is Book One, Units 1–4, and this table stands inside it) | Iraq — English for Iraq, Grade 9 Student's Book (Book One), Unit 3, Round up, printed p.39 |
+| The same table worked in the workbook: they/their/them picked out of a text, the pronoun table (subject/object/possessive adjective) completed, then two conversations completed with pronouns | Iraq — English for Iraq, Grade 9 Activity Book, Unit 3, printed pp.40–57 |
+| Possessive pronouns standing alone in the whose-exchange over lost luggage — "Whose big black bag is this? — It's mine" — completed by my/your/her/his + noun set against mine/yours/hers/his ("It's her pencil case. It's hers.") | Iraq — English for Iraq, Grade 5 Pupil's Book, Unit 7, printed pp.90–105 |
 
-**Acceptance count: taught in 10 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan).** Egypt
+**Acceptance count: taught in 11 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq).** Egypt
 carries the seven words with the
 plainest definitions any book gives them, and the first
 whose-box; Bangladesh carries the formal definition; Libya
@@ -139,5 +148,5 @@ and the whose-question in Grade 3; Iran carries the full
 possessive-adjective set and the object set beside the
 subject set; Sierra Leone carries the first-year pointing
 set, the noun-to-pronoun swap as its own lesson, and
-my/our/your for things that belong. Jordan carries our/your/their on possessions, mine and his/hers standing alone in the whose-exchange, the indefinite set, and reflexives as a booster; Kazakhstan carries subject pronouns from its Grade 3 Express book's first module, possessive adjectives and subject and object pronouns together in the same book, the possessive pronouns a year up in Grade 4, and object pronouns beside the present simple in Grade 5 English Plus; Other finished
+my/our/your for things that belong. Jordan carries our/your/their on possessions, mine and his/hers standing alone in the whose-exchange, the indefinite set, and reflexives as a booster; Kazakhstan carries subject pronouns from its Grade 3 Express book's first module, possessive adjectives and subject and object pronouns together in the same book, the possessive pronouns a year up in Grade 4, and object pronouns beside the present simple in Grade 5 English Plus; Iraq carries the three sets — subject, object and possessive adjective — in one Round up table in Grade 9 Book One, worked again in its Activity Book, and the standing-alone possessives mine/yours/his/hers against the possessive adjectives in Grade 5; Other finished
 countries join as their books are read (see READING-QUEUE.md).

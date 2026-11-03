@@ -1,6 +1,6 @@
 # Sources — The passive
 
-countries: Egypt, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
+countries: Egypt, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
 
 Every part traces to its book and page.
 
@@ -91,6 +91,12 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 **Book 22:** Kazakhstan English Plus Grade 8: Student's Book (Kazakhstan edition) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 8 — English Plus Grade 8 Student's Book (Kazakhstan edition) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 23:** Kazakhstan Laser B1+ Grade 9: Student's Book — Kazakhstan, Macmillan Education. Filed in english/books/kazakhstan.md (Grade 9 — Laser B1+ for Kazakhstan, Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 24:** Kazakhstan Full Blast! Grade 9: Student's Book — Kazakhstan, MM Publications. Filed in english/books/kazakhstan.md (Grade 9 — Full Blast! for Kazakhstan Grade 9 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 25:** English for Iraq, Grade 8, Student's Book, Book One — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 8 — English for Iraq, 2nd Intermediate Student's Book (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 26:** English for Iraq, Grade 9, Student's Book, Book One — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 9 — English for Iraq, 3rd Intermediate Student's Book (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 27:** English for Iraq, Grade 9, Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 9 — English for Iraq, 3rd Intermediate Activity Book (activity book / workbook) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 28:** English for Iraq, Grade 10, Student's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 10 — English for Iraq, 4th Preparatory Student's Book (Student's Book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 29:** English for Iraq, Grade 11, Student's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 11 — English for Iraq, 5th Preparatory Student's Book (Student's Book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 30:** English for Iraq, Grade 12, Student's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 12 — English for Iraq, 6th Preparatory Student's Book (Student's Book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -133,9 +139,16 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | The passive in its simple forms: the present passive, the past passive and passive questions — English Plus's passive stops here, with no causative and no impersonal passive | Kazakhstan, English Plus Grade 8, Unit 6, printed pp.68–79 |
 | The passive extended by the grammar database: the present and past passives with the two patterns passive sentences can take — including the say/believe pattern — alongside modal and perfect passives | Kazakhstan, Laser B1+ Grade 9, Module 5, printed pp.56–63 |
 | The passive system tabled whole at Grade 9: all tenses, the modal passive, sentences with two objects, the continuous passive and the impersonal passive | Kazakhstan, Full Blast! Grade 9, Module 6, printed pp.143–166 |
+| The present passive in a process text — a newspaper article's journey from Cairo to Baghdad told in present passives — with the "Active and passive" box (*be +* past participle; the agent with *by* usually omitted); the past active/past passive box follows on the inventions text, and the "Present passive with can" box on the telephones lesson | Iraq, English for Iraq Grade 8, Student's Book, Book One, Unit 5, printed pp.47–59 (Active and passive box, printed p.51) |
+| Present and past passives as factual-text grammar: statistics sentences in both forms matched to headlines (Kia car plants, Indian phone production, Iraqi oil output) | Iraq, English for Iraq Grade 9, Student's Book, Book One, Unit 7, Lesson 6, printed pp.76–89 |
+| The "Present and past passive" box in the workbook, with paired present/past passive sentence writing and full-sentence answers on the same Kia, phones and oil texts | Iraq, English for Iraq Grade 9, Activity Book, Unit 7, printed p.112 (unit printed pp.102–119) |
+| The passive in several tenses inside the petroleum text "From the Earth to the refinery" — how petroleum forms and is refined | Iraq, English for Iraq Grade 10, Student's Book, Unit 7, Lesson 5, printed pp.72–81 |
+| The passive across tenses at Grade 11 — present simple, past simple and future (*will be* + participle) in the Ice Hotel lessons, the game-show lessons in the passive, and a passive-voice quiz as Further Practice — with the causative *have/get something done* taught in the same unit ("Have you ever had your eyes tested?") | Iraq, English for Iraq Grade 11, Student's Book, Unit 7, printed pp.84–95 (causative, Lesson 3, printed p.86) |
+| The passive in all eight forms, tabulated in the Grammar and Functions Reference and met inside the banking texts of Unit 6 | Iraq, English for Iraq Grade 12, Student's Book, Unit 6, printed pp.54–61; Grammar and Functions Reference, printed pp.79–84 |
+| The passive for process description in the review year: the recycling process carried by a passive flow chart (waste is sorted, placed, taken, separated, cleaned, used again) | Iraq, English for Iraq Grade 12, Student's Book, Unit 8, printed pp.74–78 |
 
-**Acceptance count: taught in 11 countries (Egypt,
-Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan).** Mongolia discovers the shape from the
+**Acceptance count: taught in 12 countries (Egypt,
+Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).** Mongolia discovers the shape from the
 Edison pair, drills by + agent in its inventions unit,
 and spreads the present/past/future coats in its clothing
 unit and reference. Libya prints the full five-tense
@@ -161,7 +174,7 @@ passive of making at Grade 6, present and past simple
 passives together at Grade 7, the passive lesson at
 Grade 10, infinitive/gerund and impersonal forms at
 Grade 11, and the whole tense system with its reasons
-at Grade 12. Greece opens the passive with the present simple form at Grade 6, gives the past form and the by-agent their systematic treatment at Grade 8 Advanced (Grade 9's single formation is consolidation at that level, not an advance), notices the passive's choice against the active at Grade 10, and tables the full tense-by-tense system in Αγγλικά 2. Kazakhstan brings the passive in at Grade 7 (Excel's present and past simple passive, by against with), works it in English Plus Grade 8's simple forms alone — its passive stops there, with no causative and no impersonal passive — and completes it at Grade 9, where Laser adds the two sentence patterns including say/believe and Full Blast! tables the whole system: continuous, perfect, modal and impersonal forms; no primary book in the set teaches it at all. Other closed countries join as their
+at Grade 12. Greece opens the passive with the present simple form at Grade 6, gives the past form and the by-agent their systematic treatment at Grade 8 Advanced (Grade 9's single formation is consolidation at that level, not an advance), notices the passive's choice against the active at Grade 10, and tables the full tense-by-tense system in Αγγλικά 2. Kazakhstan brings the passive in at Grade 7 (Excel's present and past simple passive, by against with), works it in English Plus Grade 8's simple forms alone — its passive stops there, with no causative and no impersonal passive — and completes it at Grade 9, where Laser adds the two sentence patterns including say/believe and Full Blast! tables the whole system: continuous, perfect, modal and impersonal forms; no primary book in the set teaches it at all. Iraq opens the passive at Grade 8 in a process text with its Active and passive box and the can passive, works present and past passives on factual texts at Grade 9, carries the passive in several tenses through the Grade 10 petroleum text, spreads it across tenses with the causative at Grade 11, and closes with all eight forms in Grade 12's Reference and the passive flow chart of its recycling process description. Other closed countries join as their
 books are read (see READING-QUEUE.md).
 
 **Laos Grade 9 added 2026-10-27** — *English for Secondary

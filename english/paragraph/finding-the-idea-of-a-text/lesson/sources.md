@@ -1,6 +1,6 @@
 # Sources — Finding the idea of a text
 
-countries: Bangladesh, Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
+countries: Bangladesh, Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
 
 Every part traces to its book and page.
 
@@ -106,6 +106,10 @@ english/books/kazakhstan.md (Grade 9 — Full Blast! for
 Kazakhstan Grade 9 Student's Book section, FULLY READ +
 CITATION CHECK PASSED 2026-11-03).
 
+**Book 20:** English for Iraq, Grade 8, Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 8 — English for Iraq, 2nd Intermediate Activity Book (activity book / workbook) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 21:** English for Iraq, Grade 12, Student's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 12 — English for Iraq, 6th Preparatory Student's Book (Student's Book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 22:** English for Iraq, Grade 12, Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 12 — English for Iraq, 6th Preparatory Activity Book (Activity Book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Paragraph Development — the four modes named (expository, narrative, description, argument); "main idea vs supporting details; cohesive devices" — the weighing itself, named as the reading skill | Ghana, NaCCA JHS curriculum, Strand (Paragraph Development, as filed) |
@@ -133,9 +137,13 @@ CITATION CHECK PASSED 2026-11-03).
 | Summarising practised as the literature module's own task work: the Oz, Peter Pan, dancing-birches and Er-Tostik texts carried down by summarising, beside ordering their events | Kazakhstan, Excel Grade 6 Student's Book, Module 7, printed pp.77–86 |
 | The paragraph-location task as a project in its own right: "Read Robots. Match questions 1–4 with paragraphs A–D" — each question sent to the paragraph that carries its answer | Kazakhstan, English Plus Grade 9 Student's Book, Project 9, printed p.115 |
 | Paraphrasing named and defined as a speaking skill, with its phrase bank ("In other words…") — the text's idea carried in the reader's own words | Kazakhstan, Full Blast Grade 9 Student's Book, Module 5, printed pp.119–142 |
+| Paragraph topics as the reading work: the fish-keeper article "My hobby" answered through its paragraph topics and questions; the fitness article worked by paragraph-topic matching | Iraq, English for Iraq Grade 8, Activity Book, Unit 8, printed p.122, and Unit 2, printed pp.22–39 |
+| The idea hunt as gist work at the top of the school: the banker text "Meet a banker" read for gist and detail; three volunteers' accounts worked for note-taking and main-idea identification | Iraq, English for Iraq Grade 12, Student's Book, Unit 6, printed pp.54–61, and Unit 7, printed pp.64–71 |
+| The main idea hunt taught as exam technique, with a worked example: the military-jobs text's main-idea question answered step by step, with why each wrong option is wrong explained | Iraq, English for Iraq Grade 12, Activity Book, Unit 2, Lesson 5, printed pp.26–48 |
+| Main idea set against supporting details paragraph by paragraph on the banker text, true/false answers checked with the evidence underlined; the saving-and-investing text worked by matching paragraph headings ("Start early", "A safer investment") | Iraq, English for Iraq Grade 12, Activity Book, Unit 6, Lessons 3 and 10, printed pp.119–146 |
 
-**Acceptance count: taught in 9 countries (Bangladesh,
-Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan).** Ghana names the weighing (main idea vs supporting
+**Acceptance count: taught in 10 countries (Bangladesh,
+Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).** Ghana names the weighing (main idea vs supporting
 details) and the own-words law; Bangladesh sets the choice
 as a task; China hunts the idea by title-choice and by the
 one question a whole text answers, and names the
@@ -161,6 +169,12 @@ part — no read book names the main idea, but its Grade 6
 literature module practises summarising its story texts,
 its Grade 9 book matches questions to the paragraphs
 that carry them, and its other Grade 9 book defines
-paraphrasing, the idea carried in the reader's own words.
+paraphrasing, the idea carried in the reader's own words;
+Iraq stocks the hunt whole — it names the main idea
+outright at Grade 12, teaches it as exam technique with
+a worked example that explains why each wrong option is
+wrong, sets main idea against supporting details
+paragraph by paragraph, and works paragraph topics and
+headings from Grade 8 up.
 Other closed countries join as their books are
 read (see READING-QUEUE.md).

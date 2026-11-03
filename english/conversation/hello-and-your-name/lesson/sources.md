@@ -1,6 +1,6 @@
 # Sources for this lesson — Greetings
 
-countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
+countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag.
@@ -47,6 +47,8 @@ side by side on one PDF page — that was wrong.
 | The name exchange in the book's own Syllabus grammar map for its first unit — "What's your name? — I'm …", with the origin frame "Where are you from? — I'm from …" and "How do you spell?" beside it | Kazakhstan, English for Kazakhstan Grade 3 Pupil's Book, Unit 1 "Hello, English!," printed pp.6–19 (Syllabus, printed p.2) |
 | Names and spelling and greetings dialogues in the Starter unit; a year-band up, greetings and introductions again as Everyday English with personal questions | Kazakhstan, Excel Grade 5 Student's Book, Starter, printed pp.4–8; Module 2, printed pp.21–32 |
 | Meeting people as a named speaking slot — greetings and introductions — in the first unit, "Our class" | Kazakhstan, English Plus Grade 6 Student's Book, Unit 1, printed pp.8–19 ("Meeting people," printed p.14) |
+| The name exchange among the book's first language — greetings (Hello / Goodbye), introductions (What's your name? — I'm Nada / I'm Ahmed) in Unit 1's scenes | Iraq — English for Iraq, Grade 1 Pupil and Activity Book, Unit 1, printed p.11 (unit printed pp.6–15) |
+| The exchange re-opened two years up, as the new cast's first lesson — Lesson 1 "Hello!": "Hello, what's your name? — My name's Hassan" | Iraq — English for Iraq, Grade 3 Pupil's Book, Unit 1, Lesson 1, printed p.6 |
 
 **Second country merged 2026-10-25 — Libya:**
 English for Libya, Pupils Book Grade 1 (CERC, Ministry of Education,
@@ -89,7 +91,7 @@ rendered page the same day).
 - Unit 1 "Greeting and Numbers," p. 14 (Hello/Hi, Goodbye/bye tracing;
   "What's your name? / My name's" tracing strips, p. 16).
 
-**Acceptance count: taught in 13 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan).**
+**Acceptance count: taught in 14 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).**
 China adds name exchanges from its first primary page and the
 "Where are you from? — I'm from …" origin frame (Grades 3), plus
 five printed ways to say goodbye (Grade 6 Volume 2); North
@@ -121,6 +123,10 @@ spell?" and the origin frame — and its Grade 5 and
 Grade 6 books re-run greetings and introductions as
 Starter work and as a named "Meeting people" speaking
 slot.
+Iraq joined 2026-11-03: its Grade 1 book carries the
+exchange among its first language ("What's your name?"
+— printed p.11), and its Grade 3 book re-opens the
+course on a lesson named "Hello!" with the same exchange.
 This lesson is the first layer. Courses are built from every CLOSED
 country's books (his ruling, 2026-11-03 — superseding the 2026-10-25
 finished-only rule), and updated as the library updates: when a
@@ -398,3 +404,23 @@ runs greetings and introductions as Everyday English
 (printed pp.21–32), and English Plus Grade 6 gives the
 meeting its own speaking slot, "Meeting people" (Unit 1,
 printed p.14).
+
+**Iraq added 2026-11-03** — two books stock this lesson:
+**Book:** *English for Iraq*, Grade 1 Pupil and Activity
+Book — Iraq, Garnet Publishing Ltd (Garnet Education)
+for the Ministry of Education. **Book:** *English for
+Iraq*, Grade 3 Pupil's Book — Iraq, Garnet Publishing
+Ltd (Garnet Education) for the Ministry of Education.
+Both filed in english/books/iraq.md (Grade 1 — English
+for Iraq, 1st Primary, Pupil and Activity Book (combined
+pupil + activity book) section; Grade 3 — English for
+Iraq, 3rd Primary, Pupil's Book (student's book)
+section, FULLY READ + CITATION CHECK PASSED
+2026-11-03). Iraq's first unit carries the exchange
+among the book's first language — greetings (Hello /
+Goodbye) and introductions, "What's your name? — I'm
+Nada / I'm Ahmed" ("What's your name?" is a citation
+anchor at printed p.11). Grade 3, a fresh start with a
+new cast, opens on the same door: Unit 1, Lesson 1 is
+named "Hello!" and runs "Hello, what's your name? —
+My name's Hassan" (printed p.6).

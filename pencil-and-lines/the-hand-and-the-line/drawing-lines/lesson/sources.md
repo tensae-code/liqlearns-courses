@@ -1,6 +1,6 @@
 # Sources — Drawing lines
 
-countries: Egypt, Libya, Sierra Leone
+countries: Egypt, Libya, Sierra Leone, Iraq
 
 Course: Pencil and Lines — the prerequisite course before every
 language course (his ruling, 2026-10-25).
@@ -9,6 +9,7 @@ language course (his ruling, 2026-10-25).
 |---|---|
 | The Trace box: rows of dotted wavy lines and zigzag lines, each starting from an arrow head | Egypt — English Language KG1 Term 1 (student book), book p.1, right side of the page (PDF p.5 of English_KG1_Tr1.pdf; verified on disk 2026-10-25, image-only — page read as a picture) |
 | Drawing patterns before letters — draw patterns, including the patterns of the letters in pupils' own names; and draw a pattern of shapes: a circle, then three circles in a row | Sierra Leone — Language Arts Primary 1 Lesson Plans, Term 1, Lesson 12 ("Drawing patterns") and Lesson 35 ("Drawing") |
+| Pre-writing tracing: the Activities open with tracing dotted lines and letter shapes — the hand work that opens the workbook half of the book, before copying words | Iraq — English for Iraq, Grade 1 Pupil and Activity Book, Activities, printed pp.89–161 (the opening pre-writing work, printed pp.89ff) |
 
 Second book, same country (added 2026-10-25): Egypt KG2 Term 1 opens
 with a "Remember With Me!" page — trace the wavy and zigzag lines
@@ -75,9 +76,28 @@ routine also has every child trace and write each new letter
 in both cases — that tracing is filed in the alphabet lesson,
 whose move it is.)
 
-**Acceptance count: taught in 3 countries (Egypt, 3 books; Libya,
-3 books; Sierra Leone — pattern drawing, Primary 1 Term 1).**
+Fourth country (added 2026-11-03): Iraq — *English for Iraq*,
+Grade 1, Pupil and Activity Book (Garnet Publishing Ltd /
+Garnet Education, for Iraq's Ministry of Education; filed in
+english/books/iraq.md (Grade 1 — English for Iraq, 1st
+Primary, Pupil and Activity Book (combined pupil + activity
+book) section, FULLY READ + CITATION CHECK PASSED
+2026-11-03)). Iraq's line work is Egypt's shape, not Libya's
+dot-to-dot or Sierra Leone's patterns: the Activities half
+of the Grade 1 book (printed pp.89–161) opens with
+pre-writing — **tracing dotted lines and letter shapes** —
+and the Grade 1 Teacher's Book's skills spine names the
+same ground "pre-writing strokes" on the way to lower-case
+formation. The tracing comes first in the workbook, before
+copying whole words.
+
+**Acceptance count: taught in 4 countries (Egypt, 3 books; Libya,
+3 books; Sierra Leone — pattern drawing, Primary 1 Term 1;
+Iraq — dotted-line tracing opening the Grade 1 Activities,
+printed pp.89ff).**
 The "understand the lines" framing is his: the lines are understood,
 not just traced — a wavy line is the curved move, a zigzag is the
 straight-and-corner move, and letters are those two moves mixed.
+Iraq joins with dotted lines traced at the very opening of
+its first workbook.
 Counts grow as other finished countries' first books are read.

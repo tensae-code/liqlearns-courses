@@ -1,6 +1,6 @@
 # Sources — The present perfect
 
-countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
+countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
 
 Every part traces to its book and page.
 
@@ -78,6 +78,10 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 **Book 18:** Kazakhstan Excel for Kazakhstan, Grade 6: Student's Book + bound-in Workbook & Grammar Book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 6 — Excel for Kazakhstan Grade 6 (Student's Book + bound-in Workbook & Grammar Book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 19:** Kazakhstan Full Blast! for Kazakhstan, Grade 6: Student's Book (student book) — Kazakhstan, MM Publications. Filed in english/books/kazakhstan.md (Grade 6 — Full Blast! for Kazakhstan, Grade 6 Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 20:** Kazakhstan English Plus, Grade 7: Student's Book (student book) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 7 — English Plus Grade 7 Student's Book (Kazakhstan edition) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 21:** English for Iraq, Grade 7, Student's Book, Book One — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 7 — English for Iraq, 1st Intermediate Student's Book (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 22:** English for Iraq, Grade 7, Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 7 — English for Iraq, 1st Intermediate Activity Book (activity book / workbook) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 23:** English for Iraq, Grade 8, Student's Book, Book One — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 8 — English for Iraq, 2nd Intermediate Student's Book (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 24:** English for Iraq, Grade 12, Student's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 12 — English for Iraq, 6th Preparatory Student's Book (Student's Book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -111,9 +115,13 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | The Present Perfect in its full paradigm, with *for/since*, then set against the Past Simple — the countryside module's whole tense work | Kazakhstan, Excel Grade 6, Module 3, printed pp.29–40 |
 | Present Perfect Simple with *ever/never/just*, then Present Perfect against Past Simple with *for/since* and *been* against *gone* | Kazakhstan, Full Blast! Grade 6, Module 2, sections 2c–2d, printed pp.40–57 |
 | The Present Perfect staged affirmative and negative first, then its questions with *ever*, in the natural-disasters unit | Kazakhstan, English Plus Grade 7, Unit 8, printed pp.106–119 |
+| The tense introduced for recent completion — *have/has +* past participle, for things done "just now, today, this week" — opened by the chores song "I've finished my work," with questions and short answers in the Good Gwen and Lazy Len dialogues | Iraq, English for Iraq Grade 7, Student's Book, Book One, Unit 3, printed pp.26–37 |
+| ever / never for life experience in the workbook's *I've been to …* chain game and both/never partner table, with verb-form tables and the Granny's-box questions working the *been to / gone to* ground of the Student's Book's Unit 5 | Iraq, English for Iraq Grade 7, Activity Book, Unit 5, printed pp.66–83 |
+| Present perfect against past simple with *for/since* ("Talking about time"), carried by the café-owner interview "Meet a local personality" | Iraq, English for Iraq Grade 8, Student's Book, Book One, Unit 1, Lessons 3–4, printed pp.4–16 |
+| The perfect system rebuilt in the exam year: present perfect simple with ever/never/just/already/yet, How long with for/since, *been* and *gone*, present perfect against past simple, and the past perfect — the whole set tabulated again in the Grammar and Functions Reference | Iraq, English for Iraq Grade 12, Student's Book, Unit 5, printed pp.44–51; Grammar and Functions Reference, printed pp.79–84 |
 
-**Acceptance count: taught in 9 countries (Egypt,
-Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan).** Libya introduces the tense at Grade 8 with the
+**Acceptance count: taught in 10 countries (Egypt,
+Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).** Libya introduces the tense at Grade 8 with the
 song and the grammar box, guards the no-exact-time rule in
 its Teacher's Book, sets the ever/never/yet/already box at
 Grade 9, and states the whole entry again in its Grammar
@@ -132,7 +140,7 @@ with ever/never and short answers, already/just/yet at
 Grade 6 Semester 1, since/for at Grade 6 Semester 2 —
 then teaches the simple form again beside its continuous
 twin at Grade 10 and contrasts the perfect forms whole
-at Grade 12. Greece meets the tense at Grade 5 as the past–present connector with ever / recently / yet / never, contrasts it with the past simple on a timeline there and again at Grades 6–7, and restates it with since/for at Grade 10 EPAL. Kazakhstan teaches the tense whole at Grade 6 — the full paradigm with for/since and the past-simple contrast in Excel, ever/never/just and been against gone in Full Blast! — and stages its questions with ever at Grade 7; no primary Kazakhstan book teaches it. Indonesia was checked
+at Grade 12. Greece meets the tense at Grade 5 as the past–present connector with ever / recently / yet / never, contrasts it with the past simple on a timeline there and again at Grades 6–7, and restates it with since/for at Grade 10 EPAL. Kazakhstan teaches the tense whole at Grade 6 — the full paradigm with for/since and the past-simple contrast in Excel, ever/never/just and been against gone in Full Blast! — and stages its questions with ever at Grade 7; no primary Kazakhstan book teaches it. Iraq introduces the tense at Grade 7 for recent completion ("just now, today, this week"), works ever/never and been to in the Grade 7 Activity Book, sets the tense against the past simple with for/since at Grade 8, and rebuilds the whole perfect system at Grade 12. Indonesia was checked
 for this tense on 2026-11-03 and never teaches it (its
 books' own honest negatives say so at Grades 6 and 9).
 Other closed countries join as their

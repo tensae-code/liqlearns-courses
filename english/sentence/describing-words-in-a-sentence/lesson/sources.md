@@ -1,6 +1,6 @@
 # Sources — Describing words in a sentence
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
 
 Every part traces to its book and page.
 
@@ -126,10 +126,13 @@ CITATION CHECK PASSED 2026-11-03).
 | Adjective position named as a teaching point — character adjectives and their opposites placed, with *very* beside them, in the family module | Kazakhstan, Excel Grade 5, Module 3, printed pp.33–44 |
 | The position of adjectives named as the writing point of the town-description lesson — describing words placed in a description of a town or city | Kazakhstan, English Plus Grade 6, Unit 8, printed pp.92–103 |
 | Adjective order stated as a stacking rule — opinion, then size/length, then type, then colour — worked in a model description of a best friend | Kazakhstan, Full Blast! Grade 6, Module 1, section 1e, printed pp.16–33 |
+| Adjective order stated as a LOOK box — size → colour → material (a big black leather sofa) — then used to colour and describe a room in writing and to mine two present-buying texts for a Presents/Colour/Material table | Iraq — English for Iraq, Grade 6 Activity Book, Unit 2, printed pp.20–35 ("Look at the order of adjectives", printed p.21) and Unit 7, printed pp.88–103 |
+| Adjective order for descriptions as the opening unit's table — Opinion–Size–Age–Shape–Colour–Origin–Material — in the Round up, restated in the Grammar and functions reference | Iraq — English for Iraq, Grade 9 Student's Book Book One, Unit 1, printed pp.4–17 (Round up, printed p.13; reference, printed pp.111–119) |
+| Adjective order taught again at preparatory level, in the endangered-animals lesson: a general adjective before a colour adjective | Iraq — English for Iraq, Grade 11 Student's Book, Unit 3, printed p.34 (Unit 3, printed pp.34–45) |
 
-**Acceptance count: taught in 11 countries (Bangladesh,
+**Acceptance count: taught in 12 countries (Bangladesh,
 Egypt, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan).** Bangladesh pictures the before-home in
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).** Bangladesh pictures the before-home in
 eight pairs; Mongolia names the describing law, writes the
 sense-verb home, and posts the comparing border — and its
 Grade 5 picture book now adds describing stock in pictures
@@ -147,7 +150,7 @@ and compares adjectives and adverbs in JSS 3;
 Jordan seats adjectives inside have-got sentences in
 Grade 3, builds its comparatives system in Grade 4,
 and adds comparative adverbs and the sense verbs in
-Grade 6. Greece seats sense verbs + adjective at Grade 5, builds comparatives and superlatives there and runs comparison — adjectives, as…as and adverbs — through a whole Grade 6 unit, restating the system at Grade 8. Kazakhstan names adjective position at Grade 5, makes it the writing point of a Grade 6 town description, and states the stacking order — opinion, size/length, type, colour — in its Grade 6 Full Blast!. Other closed countries join as their books are read
+Grade 6. Greece seats sense verbs + adjective at Grade 5, builds comparatives and superlatives there and runs comparison — adjectives, as…as and adverbs — through a whole Grade 6 unit, restating the system at Grade 8. Kazakhstan names adjective position at Grade 5, makes it the writing point of a Grade 6 town description, and states the stacking order — opinion, size/length, type, colour — in its Grade 6 Full Blast!. Iraq states adjective order three times over: size → colour → material as a Grade 6 Activity Book LOOK box, the full Opinion–Size–Age–Shape–Colour–Origin–Material table in its Grade 9 Student's Book Book One, and general-before-colour again in Grade 11. Other closed countries join as their books are read
 (see READING-QUEUE.md).
 
 **Laos Grade 4 added 2026-10-27** — *English for Lao Primary
@@ -184,3 +187,15 @@ Secondary Schools* (MoES/RIES, 2014; full read in
 english/books/laos.md). The **superlative gets its own full
 treatment** — usage and formation rules together (pp.113–114)
 — completing the comparing system Book Two opened.
+
+**Iraq added 2026-11-03** — *English for Iraq* (Garnet
+Publishing Ltd / Garnet Education for the Ministry of
+Education; full read in english/books/iraq.md). Iraq's
+contribution is adjective order, stated three times: the
+Grade 6 workbook's LOOK box — **size → colour → material**
+(*a big black leather sofa*) (Activity Book, Unit 2,
+printed p.21) — the full stacking table in Grade 9,
+**Opinion–Size–Age–Shape–Colour–Origin–Material**
+(Student's Book Book One, Unit 1, Round up, printed p.13),
+and general adjective before colour adjective again in
+Grade 11 (Student's Book, Unit 3, printed p.34).

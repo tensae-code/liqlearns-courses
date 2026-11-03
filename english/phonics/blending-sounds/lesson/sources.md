@@ -1,6 +1,6 @@
 # Sources for this lesson — Blending sounds
 
-countries: Egypt, Libya, Laos, China, Sierra Leone, Jordan
+countries: Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The blending material lived inside the alphabet
@@ -22,8 +22,10 @@ letters.
 | CVC word building and blending as Grade 1's closing phonics, in both semesters — Semester 1, Unit 4: CVC words (bat, bed, cap, cat, map, mat, red, sad, sit, tap, web, wet), read and ordered; Semester 2, Unit 8: CVC word building and blending (log, vet, bus, hat, hen, pan, bag, fox, jug, pot, sun, yes) | Jordan — Team Together Grade 1 Pupil's Books: Semester 1, Unit 4, printed pp.30–37; Semester 2, Unit 8, printed pp.30–37 |
 | The blending routine named in the teacher's method pages — "How to work with phonics": blending isolated phonemes into a word (the guide's example is *sad*), with segmenting games in the Games bank | Jordan — Team Together Grade 1 Teacher's Book, Semester 1 (second edition, 2025), "How to work with phonics", PDF p.13 |
 | CVC work in the Activity Books — Semester 1, Unit 4, Lessons 9–10, headed "e-a-i": listen, write and say (audio 4.21), match (cat), choose, write and say (map/cap-type items); Semester 2, Unit 8, Lesson 9, headed "Words": listen, write and say, then match (log-type CVC items, audio 8.21), and Lesson 10: choose, write and say | Jordan — Team Together Grade 1 Activity Books: Semester 1, Unit 4, printed pp.22–27; Semester 2, Unit 8, printed pp.22–27 |
+| "Begin blending letter sounds to read words" — a Unit 5 objective, demonstrated by finger-blending on already-known three-letter words (ant, car, egg, goat, horse, dog); the only systematic decoding work in the book, and it lives in the Teacher's Book — the primary pupil books have no phonics programme | Iraq — English for Iraq, Grade 1 Teacher's Book, Unit 5, printed p.128 (unit notes, printed pp.128–147) |
+| Consonant-cluster blending (gr–, br–, bl–, wh–) a unit later, inside the body unit's notes | Iraq — English for Iraq, Grade 1 Teacher's Book, Unit 6, printed pp.148–167 |
 
-**Acceptance count: taught in 6 countries (Egypt, Libya, Laos, China, Sierra Leone, Jordan).**
+**Acceptance count: taught in 7 countries (Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq).**
 China adds the alphabet stocked as five phonics sets rather than
 letter by letter (Grade 3 Volume 1), a complete short-vowel cycle
 inside one volume (Grade 3 Volume 2), and end-of-primary review
@@ -35,6 +37,11 @@ letter sequence. Jordan adds CVC building and blending as the
 closing phonics of both Grade 1 semesters, with the teacher's
 book naming the blending routine itself (isolated phonemes
 blended into a word).
+Iraq joined 2026-11-03 with blending as a named Unit 5
+objective in its Grade 1 Teacher's Book — finger-blending
+on words the children already know, and cluster blending
+in Unit 6; the work is the teacher's, honestly recorded:
+Iraq's primary pupil books carry no phonics programme.
 Counts grow as other closed countries' books are read.
 
 **Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
@@ -125,3 +132,23 @@ blending". The Teacher's Book's method page states the move
 the pupil pages practise: isolated phonemes are blended into
 a whole word, its worked example *sad*, one of the Unit 4
 words itself.
+
+**Iraq added 2026-11-03** — one book stocks this lesson:
+**Book:** *English for Iraq*, Grade 1 Teacher's Book —
+Iraq, Garnet Publishing Ltd (Garnet Education) for the
+Ministry of Education. Filed in english/books/iraq.md
+(Grade 1 — English for Iraq, 1st Primary, Teacher's Book
+(teacher's guide) section, FULLY READ + CITATION CHECK
+PASSED 2026-11-03). Iraq's blending is the reading turn
+of its first year, and it is carried by the teacher's
+notes, not the pupil pages: Unit 5's objectives add
+"Begin blending letter sounds to read words" (printed
+p.128), and the notes demonstrate finger-blending on
+three-letter words the children already know (ant, car,
+egg, goat, horse, dog); Unit 6 adds consonant-cluster
+blending (gr–, br–, bl–, wh–). The limit is recorded as
+the country file records it: the Grade 1 Pupil and
+Activity Book itself has no blending, no CVC word-building
+and no decoding strand — reading there stays at whole-word
+recognition — so Iraq's stock here is the Teacher's
+Book's, exactly as filed.

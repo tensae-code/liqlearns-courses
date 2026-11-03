@@ -1,6 +1,6 @@
 # Sources — Telling a story back
 
-countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan
+countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
 
 Every part traces to its book and page.
 
@@ -85,6 +85,20 @@ english/books/kazakhstan.md (Grade 9 — Full Blast! for
 Kazakhstan Grade 9 Student's Book section, FULLY READ +
 CITATION CHECK PASSED 2026-11-03).
 
+**Book 17:** English for Iraq, Grade 5, Teacher's Book
+— Iraq, Garnet Publishing Ltd (Garnet Education) for the
+Ministry of Education. Filed in english/books/iraq.md
+(Grade 5 — English for Iraq 5th Primary Teacher's Book
+(teacher's book) section, FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
+**Book 18:** English for Iraq, Grade 1, Teacher's Book
+— Iraq, Garnet Publishing Ltd (Garnet Education) for the
+Ministry of Education. Filed in english/books/iraq.md
+(Grade 1 — English for Iraq, 1st Primary, Teacher's Book
+(teacher's guide) section, FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Retelling with a word box" as a set lesson form; the form repeated across the classes as "word-box cloze retelling" — the load-bearing words given, the sentences the learner's own | Bangladesh, English for Today (as filed) |
@@ -107,9 +121,11 @@ CITATION CHECK PASSED 2026-11-03).
 | A folk tale told back two ways in one lesson: "Aldar Kose and the Magic Coat" retold as a chain story, and retold again from the rich man's point of view — the same happenings carried by a new teller | Kazakhstan, Full Blast Grade 6 Student's Book, Module 7, printed pp.153–169 |
 | The point-of-view retelling at the top of the school: the Canterville Ghost extract retold from the ghost's point of view | Kazakhstan, Excel Grade 9 Student's Book, Module 5, printed pp.53–62 |
 | The retelling multiplied: the giant-squid extract from 20,000 Leagues Under the Sea retold from four points of view — Ned Land, the grabbed sailor, Captain Nemo, a squid | Kazakhstan, Full Blast Grade 9 Student's Book, Module 5, printed pp.119–142 |
+| Retelling in the learner's own words named as the year's set aim: the Grade 5 Teacher's Book carries the story-retelling aim "Retell a story in your own words" in its Unit 3 teaching notes, an aim that recurs across the book — Grade 5 is where the course first asks pupils to retell stories in their own words | Iraq — English for Iraq, Grade 5 Teacher's Book, Unit 3 Teaching Notes, printed pp.90–109 |
+| A told story retold in the revision unit: retelling Sami's Rocket, its telling text printed in the notes, beside listen-and-tick descriptions | Iraq — English for Iraq, Grade 1 Teacher's Book, Unit 8, Lesson 2, printed pp.186–195 |
 
-**Acceptance count: taught in 9 countries (Bangladesh,
-Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan).** Bangladesh equips the retelling (word box,
+**Acceptance count: taught in 10 countries (Bangladesh,
+Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).** Bangladesh equips the retelling (word box,
 first-person, comparison); Ghana frames it (chain, Herring
 Bone, sequence order); China equips it again (the fill-in
 retell, the phone retell, the sorted diary recount);
@@ -134,6 +150,12 @@ from the ghost's point of view at Grade 9, and the
 giant-squid extract retold from four points of view in
 its other Grade 9 book — but no Kazakhstan book sets an
 own-words retelling lesson with a comparison against
-the original.
+the original; Iraq stocks the retelling in full — its
+Grade 1 Teacher's Book sets the retelling of Sami's
+Rocket in the revision unit, and its Grade 5 Teacher's
+Book names the own-words retelling as a set aim,
+"Retell a story in your own words", the point where the
+course first asks pupils to retell stories in their own
+words.
 Other closed countries join as
 their books are read (see READING-QUEUE.md).

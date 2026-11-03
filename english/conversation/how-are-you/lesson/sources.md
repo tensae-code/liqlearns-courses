@@ -1,6 +1,6 @@
 # Sources for this lesson — How are you?
 
-countries: Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
+countries: Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -23,8 +23,11 @@ Libya (Garnet) · Books verified on disk 2026-10-25.
 | "Hello! How are you?" — the question as a lesson's own name, over four feeling-face flashcards (happy, sad, unwell/tired, hungry); the question itself is practised in the lesson's audio (this book is a printed workpack, so its rows cite PDF pages) | Greece, Grade 2 Beta English Workpack, Cycle A, A04 "Hello! How are you? / If you're happy," PDF p.18 |
 | The question grown a year-band later in the same pack: "How are you today? Why? Because…" — six dialogue cards pair a feeling with its reason (happy because he has a new book; sad because his dog is sick; angry because "we" lost the game), the feelings set widened to thirsty, angry and sleepy | Greece, Grade 2 Beta English Workpack, Cycle Δ, Δ02 "My new book," PDF pp.125–130 ("I'm angry" card, PDF p.129) |
 | "How are you? — Fine, thanks" — the exchange listed in the first module's own exchange set, between the name question and the age question (Kazakhstan's filed books print this one answer only: no "very well" or "not very well" answer, and no return question, is recorded in english/books/kazakhstan.md) | Kazakhstan, Top Stars Grade 3 Student's Book, Module 1 "Hello English!," printed pp.6–17 |
+| "How are you?" taught properly, with its three answers side by side — "I'm very well, thanks. · I'm fine. · I'm not very well!" — the same three-answer set Libya's Primary 2 book teaches | Iraq — English for Iraq, Grade 2 Pupil and Activity Book, Unit 1, Lesson 5, printed p.9 |
+| The greetings routine of the first year's lessons — "How are you today? — I'm fine, thank you" — carried in the teacher's notes from Lesson 6 | Iraq — English for Iraq, Grade 1 Teacher's Book, Unit 1 notes, printed pp.22–69 |
+| "How are you? — I'm fine, thank you" in the new cast's opening lesson, beside the name exchange | Iraq — English for Iraq, Grade 3 Pupil's Book, Unit 1, Lesson 1, printed p.6 |
 
-**Acceptance count: taught in 8 countries (Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
+**Acceptance count: taught in 9 countries (Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 China joins with the exchange itself in its first primary book
 (Grade 3 Volume 1) and deepens it three years later into feelings
 talk — "How do you feel?", "What's wrong?" (Grade 6 Volume 1).
@@ -40,7 +43,12 @@ thank you" answer is printed in its filed read. Kazakhstan
 joined 2026-11-03 with the exchange in the short form —
 "How are you? — Fine, thanks" — in its Top Stars Grade 3
 first module, between the name question and the age
-question. Nicaragua's filed
+question. Iraq joined 2026-11-03 with the fullest form
+in this file beside Libya's: its Grade 2 book teaches
+the question with the same three answers (very well /
+fine / not very well), its Grade 1 Teacher's Book runs
+it as the daily greetings routine with "today," and its
+Grade 3 book re-opens on it. Nicaragua's filed
 greeting material teaches hello, names and goodbye — not this
 question — so it is not counted here; Indonesia's filed books
 likewise teach no "How are you?" exchange (their feelings set in
@@ -153,3 +161,28 @@ greetings dialogues of its other series (the Excel
 Grade 5 Starter, the English Plus Grade 6 "Meeting
 people" speaking slot) are filed in the country book
 without this wording, so none is claimed from them.
+
+**Iraq added 2026-11-03** — three books stock this
+lesson: **Book:** *English for Iraq*, Grade 1 Teacher's
+Book; **Book:** *English for Iraq*, Grade 2 Pupil and
+Activity Book; **Book:** *English for Iraq*, Grade 3
+Pupil's Book — Iraq, Garnet Publishing Ltd (Garnet
+Education) for the Ministry of Education. All filed in
+english/books/iraq.md (Grade 1 — English for Iraq, 1st
+Primary, Teacher's Book (teacher's guide) section;
+Grade 2 — English for Iraq, 2nd Primary, Pupil and
+Activity Book (combined pupil + activity book) section;
+Grade 3 — English for Iraq, 3rd Primary, Pupil's Book
+(student's book) section, FULLY READ + CITATION CHECK
+PASSED 2026-11-03). Iraq runs the question at every
+level of its opening years: as the classroom greetings
+routine in the Grade 1 Teacher's Book — "How are you
+today? — I'm fine, thank you," from Lesson 6 (Unit 1
+notes, printed pp.22–69); taught properly for the
+first time in Grade 2, Unit 1, Lesson 5, with the three
+answers "I'm very well, thanks. / I'm fine. / I'm not
+very well!" ("I'm not very well!" is a citation anchor
+at printed p.9) — the same three-answer set Libya's
+Primary 2 book teaches in this file; and again in
+Grade 3's opening lesson, "How are you? — I'm fine,
+thank you" (printed p.6).

@@ -1,6 +1,6 @@
 # Sources — Building a sentence
 
-countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
+countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
 
 Every part traces to its book and page.
 
@@ -67,6 +67,8 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 13:** Greece Think Teen!, Grade 7 Advanced, Workbook (workbook) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 7 (Advanced) — Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 14:** Greece Think Teen!, Grade 9, Student's Book (student book) — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 9 — Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 15:** Kazakhstan English Plus, Grade 5: Workbook (workbook) — Kazakhstan, Oxford University Press. Filed in english/books/kazakhstan.md (Grade 5 — English Plus Grade 5 Workbook section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 16:** English for Iraq, Grade 1, Teacher's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 1 — English for Iraq, 1st Primary, Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 17:** English for Iraq, Grade 2, Teacher's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 2 — English for Iraq, 2nd Primary, Teacher's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -88,10 +90,13 @@ CITATION CHECK PASSED 2026-11-03).
 | Verbs sorted by the sentence pattern they take — no object, object, object + to-infinitive, two objects, to-infinitive alone — the book's verb-syntax presentation | Greece, Think Teen! Grade 9 Student's Book, Unit 6, p.65 |
 | Sentence-building as ordering practice — words ordered to make *be going to* questions about a text, in the workbook's two-page closing unit | Kazakhstan, English Plus Grade 5 Workbook, Unit 8, printed pp.58–59 |
 | The same ordering practice run on the past — sentences completed with past forms, then words ordered to make past questions | Kazakhstan, English Plus Grade 5 Workbook, Unit 9, printed pp.60–61 |
+| PARTIAL — the sentence defined for pupils, not built from subject and verb: a sentence is a group of words that makes sense, starting with a capital letter and ending with a full stop, introduced with capital letters in Lesson 1 and closed by the first trace-and-copy of a whole sentence in Lesson 10 | Iraq — English for Iraq, Grade 1 Teacher's Book, Unit 6, printed pp.148–167 |
+| PARTIAL — the same sentence definition restated as the capital-letter strand begins: "a group of words that make sense" starting with a capital letter and ending with a full stop | Iraq — English for Iraq, Grade 2 Teacher's Book, Unit 5, printed pp.116–133 |
+| PARTIAL — sentence-building from Word Cards used to "focus attention on grammatical features such as word order," inside the course's reading method | Iraq — English for Iraq, Grade 2 Teacher's Book, Introduction (Teaching the course), printed pp.13–25 |
 
-**Acceptance count: taught in 11 countries (Bangladesh,
+**Acceptance count: taught in 12 countries (Bangladesh,
 Bolivia, Ghana, Mongolia, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan).** Bolivia states the formula;
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).** Bolivia states the formula;
 Ghana names the two parts; Bangladesh drills the building
 from tables; Mongolia checks the order; China adds the
 this/these, that/those sentence system, taught as one
@@ -103,6 +108,6 @@ subject-and-verb rule in JSS 1 and writes sentences with
 all eight parts in SSS 1; Jordan orders
 sentences in its Grade 3 workbook and builds them, and
 sets present-continuous word order, in its Grade 8
-workbook. Greece stocks this lesson only in part: it works word order as practice — in the Grade 7 workbooks' contrast drills, question formation and labelled error correction — and sorts verbs by sentence pattern at Grade 9, but no Greece book states a subject-and-verb sentence-building rule as a named lesson. Kazakhstan stocks this lesson only in part, and more thinly: its Grade 5 English Plus Workbook orders words to make questions — *be going to* questions in Unit 8 and past questions in Unit 9 — but no Kazakhstan book states a subject-and-verb sentence-building rule as a named lesson either. Other finished
+workbook. Greece stocks this lesson only in part: it works word order as practice — in the Grade 7 workbooks' contrast drills, question formation and labelled error correction — and sorts verbs by sentence pattern at Grade 9, but no Greece book states a subject-and-verb sentence-building rule as a named lesson. Kazakhstan stocks this lesson only in part, and more thinly: its Grade 5 English Plus Workbook orders words to make questions — *be going to* questions in Unit 8 and past questions in Unit 9 — but no Kazakhstan book states a subject-and-verb sentence-building rule as a named lesson either. Iraq stocks this lesson only in part: its Grade 1 and Grade 2 teacher's books define a sentence for pupils — a group of words that makes sense, starting with a capital letter and ending with a full stop — and its Grade 2 teacher's book builds sentences from Word Cards to focus attention on word order, but no Iraq book states a subject-and-verb sentence-building rule or builds a sentence from its parts. Other finished
 countries join as their books are read (see
 READING-QUEUE.md).

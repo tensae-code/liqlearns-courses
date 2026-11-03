@@ -1,6 +1,6 @@
 # Sources — First, then, finally
 
-countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan
+countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
 
 Every part traces to its book and page.
 
@@ -82,6 +82,9 @@ english/books/kazakhstan.md (Grade 8 — English Plus Grade 8
 Workbook (Kazakhstan Edition) section, FULLY READ +
 CITATION CHECK PASSED 2026-11-03).
 
+**Book 16:** English for Iraq, Grade 3, Pupil's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 3 — English for Iraq, 3rd Primary, Pupil's Book (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 17:** English for Iraq, Grade 4, Pupil's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 4 — English for Iraq 4th Primary Pupil's Book (pupil's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Linking words" Tip: "Linking words make the story clear and easy to follow. First, Then, After that, Finally" — the set printed as a writing law | Egypt, Secondary, the writing Tip (p.70 of its book, as filed in the book map) |
@@ -101,9 +104,12 @@ CITATION CHECK PASSED 2026-11-03).
 | Sequence linkers named as their own set inside the suggestions email lesson — first, next, later, after that, finally — the signposts carrying an email that makes suggestions in order | Kazakhstan, Full Blast Grade 6 Student's Book, Module 8, printed pp.171–189 |
 | Sequencing itself as the Study Skills box of the story lesson: sequencing events, with linkers and time expressions as the story's road signs | Kazakhstan, Excel Grade 9 Student's Book, Module 8, printed pp.87–98 |
 | The ordering set at essay scale: the opinion essay's information ordered as Firstly, Secondly, Finally | Kazakhstan, English Plus Grade 8 Workbook, Unit 9, printed pp.72–79 |
+| The full sequence set carrying a science text: the plant-growth panels told in order — "First, the seed grows a root. Then it grows a shoot. Next, it grows some leaves. After that, it grows a stem. Then it grows more leaves. Finally, it grows a flower." | Iraq, English for Iraq Grade 3, Pupil's Book, Unit 6, Lesson 6, printed p.84 |
+| The sequencers *first, then, after that* worked over the school timetable ("First, it's maths. Then, it's English.") | Iraq, English for Iraq Grade 4, Pupil's Book, Unit 1, Lesson 6, printed pp.6–21 |
+| The instruction sequencers named as the full set — First … Then … Next … After that … Finally … — inside the "Yesterday" lesson's day-ordering work | Iraq, English for Iraq Grade 4, Pupil's Book, Unit 6, printed pp.74–89 |
 
-**Acceptance count: taught in 9 countries (Bangladesh,
-Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan).** Egypt prints the law and the set;
+**Acceptance count: taught in 10 countries (Bangladesh,
+Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).** Egypt prints the law and the set;
 Mongolia files the family by its grammar name; Bangladesh
 tells its methods under the signposts; China adds the
 dated diary as the model recount, its events sorted before
@@ -127,7 +133,13 @@ email lesson — first, next, later, after that, finally —
 boxes sequencing events and linkers/time expressions as
 the Study Skills of its Grade 9 story lesson, and orders
 an opinion essay's information as Firstly, Secondly,
-Finally in its Grade 8 workbook.
+Finally in its Grade 8 workbook;
+Iraq carries the full set in a Grade 3 science text —
+the seed's growth told First / Then / Next / After that /
+Finally at printed p.84 — works first, then, after that
+over the Grade 4 timetable, and names the whole
+instruction set (First … Then … Next … After that …
+Finally …) at Grade 4.
 Iran was
 checked and adds nothing here: its read books teach no
 first/then/finally signpost set (sequence is carried by

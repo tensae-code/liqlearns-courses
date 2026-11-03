@@ -1,6 +1,6 @@
 # Sources — Words you don't know
 
-countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan, Greece
+countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq
 
 Every part traces to its book and page.
 
@@ -66,6 +66,12 @@ english/books/greece.md (Grade 10 — Αγγλικά 1 Γενικού
 Λυκείου, Student's Book section, FULLY READ + CITATION
 CHECK PASSED 2026-11-03).
 
+**Book 13:** English for Iraq, Grade 7, Student's Book, Book One — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 7 — English for Iraq, 1st Intermediate Student's Book (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 14:** English for Iraq, Grade 7, Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 7 — English for Iraq, 1st Intermediate Activity Book (activity book / workbook) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 15:** English for Iraq, Grade 7, Teacher's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 7 — English for Iraq, 1st Intermediate Teacher's Book (teacher's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 16:** English for Iraq, Grade 8, Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 8 — English for Iraq, 2nd Intermediate Activity Book (activity book / workbook) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 17:** English for Iraq, Grade 12, Student's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 12 — English for Iraq, 6th Preparatory Student's Book (Student's Book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Every unit's opening instruction — "Notice these expressions in the text. Infer their meaning from the context" — standing at the head of the reading apparatus in both senior books, with vocabulary work built around inferring before checking | India, Hornbill (Class XI) and Flamingo (Class XII), the About the Book / unit apparatus (as filed) |
@@ -81,9 +87,14 @@ CHECK PASSED 2026-11-03).
 | Guessing from context taught as a cumulative skill, in the teacher's own method handbook: vocabulary taught lexically — in themes, collocations and chunks, recycled in different contexts — with guessing from context named among the skills the course builds up | Greece, Grade 8 (Beginners) Teacher's Book, Introduction, printed pp.xii–xiii |
 | The collect-and-check companion at Lykeio entry: vocabulary built with an online dictionary and a class word wall, the unknown words gathered where the whole class can work on them | Greece, Grade 10 Student's Book, Unit 3, printed pp.29–30 |
 | The check-step's whole skill — entries, guide words, the sense that fits the sentence ('dry' and its meanings) | the course's own Using the Dictionary lesson, from Bangladesh Class 8 and Mongolia English X (cross-referenced, not re-sourced) |
+| Working out meanings from context named as a reading tip in the pupil's own book — Reading tip 1, practised on the monkey-in-the-café story | Iraq, English for Iraq Grade 7, Student's Book, Book One, Unit 4, Lesson 3, printed pp.38–41 |
+| The guessing practised in the workbook: choosing the meanings of highlighted words from context (exhausted, atlas, thoroughly, furious, replied) in the same café story's work | Iraq, English for Iraq Grade 7, Activity Book, Unit 4, printed pp.58–61 |
+| The method stated whole for the teacher — TP V2, working out meaning from context: synonyms, antonyms, explanations, generic terms, contextual clues, word formation, general knowledge | Iraq, English for Iraq Grade 7, Teacher's Book, Introduction, Teaching techniques and procedures, printed pp.13–25 |
+| "Working out meanings" as a named reading tip with a worked example — the "chesterfield" word worked out step by step, then synonym multiple choice (depressed, speechless, cautious, apologetic) | Iraq, English for Iraq Grade 8, Activity Book, Unit 5, Reading tip 7, printed p.71 |
+| Guessing meaning from context named as the banking unit's own vocabulary strand at the top of the school | Iraq, English for Iraq Grade 12, Student's Book, Unit 6, printed pp.54–61 |
 
-**Acceptance count: taught in 8 countries (Bangladesh,
-Ghana, India, Libya, China, Sierra Leone, Jordan, Greece).** India's senior books print the
+**Acceptance count: taught in 9 countries (Bangladesh,
+Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq).** India's senior books print the
 command at every unit's head; Bangladesh names the routine;
 Ghana pairs context with word relationships; Libya's texts
 gloss in the line; China coaches the guessing itself, in a
@@ -99,5 +110,12 @@ in a teacher's-book method introduction, which names
 guessing from context as a cumulative skill the course
 builds, while its Grade 10 book gathers unknown words on
 a class word wall with an online dictionary as the
-check. Other closed countries join as their
+check; Iraq stocks the guessing whole — it names
+working out meanings from context as a reading tip in
+the Grade 7 pupil book itself, practises it on the café
+story in the workbook, states the full method for the
+teacher (contextual clues among seven routes), works a
+"chesterfield" example step by step at Grade 8, and
+names guessing meaning from context as a unit strand
+again at Grade 12. Other closed countries join as their
 books are read (see READING-QUEUE.md).

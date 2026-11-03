@@ -1,6 +1,6 @@
 # Sources — Nouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
+countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
 
 Every part traces to its book and page.
 
@@ -82,6 +82,12 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 
 **Book 19:** Kazakhstan English Language for Kazakhstan, Grade 3: pupil's book (student book) — Kazakhstan, Express Publishing. Filed in english/books/kazakhstan.md (Grade 3 — English Language for Kazakhstan Grade 3, Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 20:** English for Iraq, Grade 4, Activity Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 4 — English for Iraq 4th Primary Activity Book (activity book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 21:** English for Iraq, Grade 3, Pupil's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 3 — English for Iraq, 3rd Primary, Pupil's Book (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 22:** English for Iraq, Grade 5, Pupil's Book — Iraq, Garnet Publishing Ltd (Garnet Education) for the Ministry of Education. Filed in english/books/iraq.md (Grade 5 — English for Iraq 5th Primary Pupil's Book (pupil's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition in its three-sort form: "Nouns — person, place, thing," taught with the "Life in the City" text (Karim) and sorting work | Egypt, Primary 2 Term 2, Unit 4, Lesson 3 "Language in Use," p.68 |
@@ -114,9 +120,12 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Countable and uncountable nouns taught in the school unit's grammar map, beside regular and irregular plural nouns and how many — the noun system presented whole at Grade 3 | Kazakhstan, English for Kazakhstan (Macmillan) Grade 3, Unit 2 "My school," printed pp.20–33 (Syllabus, printed pp.2–3) |
 | Countable and uncountable nouns as a language-focus point — there is / there are, some and any in affirmative and negative, inside the places unit | Kazakhstan, English Plus Grade 5, Unit 3 "Fantasy world," printed pp.26–39 |
 | Plural spellings built up across the year: plurals in -s in Module 2, then plurals in -es and -ies in the Buildings module, each set worked inside its own unit | Kazakhstan, English Language for Kazakhstan Grade 3, Module 2, printed pp.18–29; Module 7, printed pp.80–91 |
+| The noun taught as a word kind in its own right, in the book's own words: "Nouns are the names of things. Adjectives tell us about the things" — the "Let's check!" box in the story work, with nouns set against adjectives | Iraq — English for Iraq, Grade 4 Activity Book, Unit 6, printed p.86 |
+| Irregular plurals as a pictured list closing the Picture Dictionary: child–children, mouse–mice, foot–feet, scarf–scarves, leaf–leaves, tooth–teeth | Iraq — English for Iraq, Grade 3 Pupil's Book, Picture Dictionary, printed pp.110–120 |
+| Countable and uncountable nouns taught as a lesson of their own — "What can you count?" — with some/any, a lot/lots and the containers set (tin, box, cup, bottle, packet, bag — a box of chocolates, a tin of lemonade) | Iraq — English for Iraq, Grade 5 Pupil's Book, Unit 5, printed pp.58–73 |
 
-**Acceptance count: taught in 12 countries (Bangladesh, Egypt,
-Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan).**
+**Acceptance count: taught in 13 countries (Bangladesh, Egypt,
+Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).**
 Egypt and Bangladesh carry the definition itself,
 each in the three-sort form; Libya carries it twice more in its
 own shorter words; Ghana carries the sentence test; China
@@ -128,7 +137,7 @@ and the countable/uncountable line again with measure words;
 Sierra Leone carries the categories made by the learners
 themselves, the countable/uncountable pair in Primary 2, and
 the plural spellings -es / -ies / -ves as separate lessons.
-Jordan carries the irregular plurals mouse–mice and fish–fish and the -oes spellings, and countable against uncountable twice — with containers and quantity in Grade 4, and with some/any/no and the quantifiers in Grade 8; Greece carries countable against uncountable three times — as the Grade 4 party-shopping grammar core, again in Grade 6 with containers and few/little, and in Grade 7 with the quantifier set; Kazakhstan carries countable against uncountable twice in primary — in its Grade 3 Macmillan book, beside regular and irregular plurals, and in Grade 5 English Plus with some and any — and the plural spellings -s, then -es and -ies, built up across its Grade 3 Express book; Other finished
+Jordan carries the irregular plurals mouse–mice and fish–fish and the -oes spellings, and countable against uncountable twice — with containers and quantity in Grade 4, and with some/any/no and the quantifiers in Grade 8; Greece carries countable against uncountable three times — as the Grade 4 party-shopping grammar core, again in Grade 6 with containers and few/little, and in Grade 7 with the quantifier set; Kazakhstan carries countable against uncountable twice in primary — in its Grade 3 Macmillan book, beside regular and irregular plurals, and in Grade 5 English Plus with some and any — and the plural spellings -s, then -es and -ies, built up across its Grade 3 Express book; Iraq carries the noun named as a word kind in its Grade 4 Activity Book — "Nouns are the names of things" set against adjectives — the irregular plurals as a pictured list closing its Grade 3 Picture Dictionary, and countable against uncountable nouns with containers in Grade 5; Other finished
 countries join as their books are read (see READING-QUEUE.md).
 
 **Laos Grade 7 added 2026-10-27** — *English for Secondary

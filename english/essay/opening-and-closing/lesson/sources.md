@@ -1,6 +1,6 @@
 # Sources — Opening and closing
 
-countries: Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece
+countries: Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq
 
 Every part traces to its book and page.
 
@@ -44,6 +44,13 @@ english/books/greece.md (Grade 10 — Αγγλικά 1 Γενικού
 Λυκείου, Student's Book section, FULLY READ + CITATION
 CHECK PASSED 2026-11-03).
 
+**Book 9:** English for Iraq, Grade 12, Activity Book
+— Iraq, Garnet Publishing Ltd (Garnet Education) for the
+Ministry of Education. Filed in english/books/iraq.md
+(Grade 12 — English for Iraq, 6th Preparatory Activity
+Book (Activity Book) section, FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The introduction's duty — "it tells what your topic and main ideas are"; the conclusion's definition — "the same information as the introductory paragraph, written from a different perspective"; the closing's signal example as printed ("In conclusion, nobody is perfect") and its opening-motion counterpart ("First of all, …") | Bolivia compendium, the essay-structure section (as filed) |
@@ -57,8 +64,11 @@ CHECK PASSED 2026-11-03).
 | The five-paragraph frame where the ends are two of the five: introduction, three body paragraphs, conclusion — built, outlined, then checked in the writing (title, structure, topic sentences) across the descriptive-essay lessons | Sierra Leone, SSS1 Term 3, Lessons 105–106, pp.19 and 21, and Lesson 110, p.29 |
 | The essay's two ends named as the plan's first and last slots: introduction opens the five-paragraph opinion-essay plan, and the conclusion closes it by restating the opinion the opening stated | Greece, Grade 10 Student's Book, Unit 5, Writing, printed pp.61–63 |
 | The two ends taught by name, as their own guide inside the essay scaffold: a guide to introductory and concluding paragraphs, with the linking bank's introducing and concluding sections sorted beside it | Greece, Grade 10 Student's Book, Unit 8, Writing, printed pp.110–112 |
+| The opinion essay's two ends named with their duties in the Expressing opinions box: the essay states its subject in the introduction, argues reasons in the body — two sides in separate paragraphs — and sums up in the conclusion | Iraq — English for Iraq, Grade 12 Activity Book, Unit 7, Lesson 7, printed p.160 |
+| The two ends built as named stages of the pupil's own essay: an introduction that must state the opinion and the plan, a body drawn from the printed lists, and a conclusion, closed by a self-check on links | Iraq — English for Iraq, Grade 12 Activity Book, Unit 7, Lesson 8, printed p.163 |
+| The two ends required under exam conditions: the Test yourself opinion essay (100–120 words) set with introduction, conclusion and linking words required | Iraq — English for Iraq, Grade 12 Activity Book, Unit 7, Lesson 9, printed pp.165–169 |
 
-**Acceptance count: taught in 6 countries (Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece).**
+**Acceptance count: taught in 7 countries (Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq).**
 Bolivia's table defines both ends and dresses their joints;
 Ghana's first revise question sets the opening's law;
 China frames the formal letter — open with the matter,
@@ -72,6 +82,12 @@ Greece teaches the ends inside its Lykeio essay scaffolds —
 the opinion essay's plan opens with an introduction and
 closes with a conclusion restating the opinion, and the
 for-and-against scaffold carries its own guide to
-introductory and concluding paragraphs.
+introductory and concluding paragraphs; Iraq names both
+ends with their duties in its Grade 12 Expressing
+opinions box — the introduction states the subject, the
+conclusion sums up — then builds them as named stages
+(an introduction stating the opinion and the plan, a
+conclusion) and requires introduction, conclusion and
+linking words in its test essay.
 Other closed countries join as their books are read (see
 READING-QUEUE.md).

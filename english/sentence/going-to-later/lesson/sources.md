@@ -1,6 +1,6 @@
 # Sources — Going to: later
 
-countries: Bolivia, Ghana, Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
+countries: Bolivia, Ghana, Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
 
 Every part traces to its book and page.
 
@@ -108,9 +108,13 @@ CITATION CHECK PASSED 2026-11-03).
 | *Be going to* as the creativity unit's whole future — affirmative and negative first, then its questions, over making plans | Kazakhstan, English Plus Grade 5, Unit 8, printed pp.96–103 |
 | *Be going to* in full in the travel unit — affirmative, negative and questions — with *will and won't* for predictions as the unit's second future | Kazakhstan, English Plus Grade 6, Unit 6, printed pp.68–79 (*will and won't*, printed p.73) |
 | Future *be going to* in the holidays module, with a note on the Present Continuous for fixed arrangements, and Future *will* — predictions, on-the-spot decisions, promises, offers, requests — in the next section | Kazakhstan, Full Blast! Grade 6, Module 6, sections 6a–6b, printed pp.131–147 |
+| *Going to* for plans running through a school-trip unit — "We're going to see a waterfall. I'm going to take my backpack" — beside the present continuous for what people on the train are doing now | Iraq — English for Iraq, Grade 4 Pupil's Book, Unit 5, printed pp.58–73 |
+| *Going to* for holiday plans with the full paradigm in a "Let's check" box — I'm/you're/he's/we're/they're going to + verb — with transport questions and "It's going to be hot and sunny" | Iraq — English for Iraq, Grade 5 Pupil's Book, Unit 7, printed pp.90–105 |
+| The two futures divided by job in primary's last year: *going to* for plans already agreed (the Mother's Day party email and preparations), *will/won't* for predictions with *I think …* | Iraq — English for Iraq, Grade 6 Pupil's Book, Unit 7, printed pp.90–105 and Units 1 and 5, printed pp.6–21 and 58–73 |
+| *Going to* against *will* stated as one box — the "Talking about the future" box: *be going to* for plans against *will* for certainties, inside two headteacher interviews | Iraq — English for Iraq, Grade 9 Student's Book Book One, Unit 6, printed pp.64–75 |
 
-**Acceptance count: taught in 10 countries (Bolivia, Ghana,
-Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan).** Bolivia tables going to whole and names its
+**Acceptance count: taught in 11 countries (Bolivia, Ghana,
+Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).** Bolivia tables going to whole and names its
 jobs; Mongolia boxes the will neighbour; Ghana keeps the
 scheduled present as the third future; China adds be going
 to as a full system with its time words, will worked for
@@ -127,7 +131,7 @@ continuous and the timetabled present as futures.
 Greece teaches the future as one three-form system at Grade 5 — going to, arrangements continuous and will — contrasts will with going to by job at Grade 6, and runs all three futures through one Grade 7 unit. Kazakhstan teaches *be going to* in full at Grade 5 — affirmative, negative and questions — and again at Grade 6 beside *will/won't* for predictions, with Full Blast! adding the arrangements-continuous note. No primary Kazakhstan book teaches any future form — the form arrives at Grade 5, in the secondary-style series. Indonesia was checked and adds nothing here: no future
 form is taught in any of its read books — will/going to
 occur only incidentally inside other texts (see
-english/books/indonesia.md, honest negatives). Other finished
+english/books/indonesia.md, honest negatives). Iraq runs *going to* for plans through its Grade 4 school-trip unit, boxes the full paradigm in Grade 5, divides *going to* plans from *will* predictions in Grade 6, and states the pair as one box — plans against certainties — in its Grade 9 Student's Book Book One. Other finished
 countries join as their books are read (see
 READING-QUEUE.md).
 
@@ -155,3 +159,16 @@ english/books/laos.md). The series' clearest contrast note on
 the two futures stands here (p.12): **will** against **be
 going to**, set side by side — sharpening the decided/undecided
 split Book Four first named.
+
+**Iraq added 2026-11-03** — *English for Iraq* (Garnet
+Publishing Ltd / Garnet Education for the Ministry of
+Education; full read in english/books/iraq.md). *Going to*
+for plans runs through the Grade 4 school trip — **"We're
+going to see a waterfall. I'm going to take my backpack"**
+(Pupil's Book, Unit 5, printed pp.58–73) — and gets its
+full paradigm box in Grade 5 (Pupil's Book, Unit 7, printed
+pp.90–105). Grade 6 divides the futures by job, *going to*
+for agreed plans against *will/won't* for predictions, and
+Grade 9 states the pair in one "Talking about the future"
+box — *be going to* for plans, *will* for certainties
+(Student's Book Book One, Unit 6, printed pp.64–75).

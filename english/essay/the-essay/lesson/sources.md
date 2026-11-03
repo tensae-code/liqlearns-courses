@@ -1,6 +1,6 @@
 # Sources — The essay
 
-countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan
+countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
 
 Every part traces to its book and page.
 
@@ -96,6 +96,34 @@ english/books/kazakhstan.md (Grade 9 — Full Blast! for
 Kazakhstan Grade 9 Student's Book section, FULLY READ +
 CITATION CHECK PASSED 2026-11-03).
 
+**Book 18:** English for Iraq, Grade 10, Student's Book
+— Iraq, Garnet Publishing Ltd (Garnet Education) for the
+Ministry of Education. Filed in english/books/iraq.md
+(Grade 10 — English for Iraq, 4th Preparatory Student's
+Book (Student's Book) section, FULLY READ + CITATION
+CHECK PASSED 2026-11-03).
+
+**Book 19:** English for Iraq, Grade 11, Activity Book
+— Iraq, Garnet Publishing Ltd (Garnet Education) for the
+Ministry of Education. Filed in english/books/iraq.md
+(Grade 11 — English for Iraq, 5th Preparatory Activity
+Book (Activity Book) section, FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
+**Book 20:** English for Iraq, Grade 12, Student's Book
+— Iraq, Garnet Publishing Ltd (Garnet Education) for the
+Ministry of Education. Filed in english/books/iraq.md
+(Grade 12 — English for Iraq, 6th Preparatory Student's
+Book (Student's Book) section, FULLY READ + CITATION
+CHECK PASSED 2026-11-03).
+
+**Book 21:** English for Iraq, Grade 12, Activity Book
+— Iraq, Garnet Publishing Ltd (Garnet Education) for the
+Ministry of Education. Filed in english/books/iraq.md
+(Grade 12 — English for Iraq, 6th Preparatory Activity
+Book (Activity Book) section, FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The essay's definition — "an essay is a piece of writing that usually has five or more paragraphs, about one topic with several main points" — and the GENERAL ESSAY STRUCTURE table: Introduction ("it tells what your topic and main ideas are"); Topic 1/2/3 ("state your points/arguments, explore both sides of debate in a better answer"); Conclusion ("the same information as the introductory paragraph, written from a different perspective") | Bolivia compendium, the essay-structure grammar/writing section (as filed) |
@@ -121,8 +149,17 @@ CITATION CHECK PASSED 2026-11-03).
 | The problem-and-solutions essay in the same course: an essay stating a problem and offering solutions, "Smog in the city" | Kazakhstan, Excel Grade 7 Student's Book (2nd Edition), Module 4, printed pp.41–52 |
 | The discussion essay and the opinion essay as successive units' writing outcomes at the top of the school | Kazakhstan, English Plus Grade 9 Student's Book, Units 2–3, printed pp.20–43 |
 | The opinion essay taught with two opposed models: two model essays on "Social media have made our lives better. Do you agree?", topic-sentence teaching and a full PLAN | Kazakhstan, Full Blast Grade 9 Student's Book, Module 9, printed pp.223–246 |
+| The essay modelled at Preparatory entry: "Sami writes an essay" — a school essay (a pet monkey escapes in school) modelled with its sequencing words | Iraq — English for Iraq, Grade 10 Student's Book, Unit 2, Lesson 8, printed p.26 |
+| Essay planning taught outright: a student's notes for an Eid visit essay turned into ordered paragraphs | Iraq — English for Iraq, Grade 10 Student's Book, Unit 4, Lesson 4, printed pp.42–45 |
+| The essay built by reordering, planning and writing: the paragraphs of a model essay about the Notting Hill Carnival reordered, then an essay on a festival or celebration of the pupil's own planned and written in 100–150 words | Iraq — English for Iraq, Grade 11 Activity Book, Unit 1, Revision 1, printed pp.14–16 |
+| The problem–solution essay as a mined model: "How can we solve the problem of overfishing?" mined for linking phrases before pupils write the parallel essay on car pollution | Iraq — English for Iraq, Grade 11 Activity Book, Unit 3, printed p.65 |
+| The for-and-against essay built whole: a hunting essay reordered, its paragraph functions identified, "Zoos – for and against" brainstormed and the essay written in 100–150 words | Iraq — English for Iraq, Grade 11 Activity Book, Unit 3, Revision 1, printed pp.67–68 |
+| The for-and-against essay as the exam year's model: "People should take responsibility for their own health" used to teach the linking phrases of opinion essays (giving opinions, listing points, causes, results) | Iraq — English for Iraq, Grade 12 Student's Book, Unit 1, printed pp.6–13 |
+| The opinion essay analysed by its body: "Books and the Internet" — four body paragraphs analysed for how opinion essays argue, their linkers underlined | Iraq — English for Iraq, Grade 12 Student's Book, Unit 7, printed pp.64–71 |
+| Brainstorming taught itself as the exam essay technique, connectors sorted into adding and contrasting, and a 100–120-word essay written from the notes | Iraq — English for Iraq, Grade 12 Activity Book, Unit 5, Lesson 8, printed pp.107–108 |
+| The opinion essay built in stages: printed advantages lists for both sides, an introduction stating the opinion and the plan, a body drawn from the lists, a conclusion, and a final self-check on links | Iraq — English for Iraq, Grade 12 Activity Book, Unit 7, Lesson 8, printed p.163 |
 
-**Acceptance count: taught in 7 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan).**
+**Acceptance count: taught in 8 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).**
 Bolivia defines the essay and tables its general structure
 whole; Ghana grows the writing process to the essay's
 scale with the outline as its planning tool. Indonesia
@@ -147,7 +184,17 @@ genre across its parallel series — a for-and-against
 essay and a problem-and-solutions essay at Grade 7,
 discussion and opinion essays at Grade 9, and two
 opposed model opinion essays with a full PLAN closing
-its other Grade 9 course.
+its other Grade 9 course; Iraq teaches the essay fully
+across the Preparatory years — a modelled school essay
+and essay planning at Grade 10, model essays reordered,
+planned and written at Grade 11 (a festival essay, a
+problem–solution essay mined for linking phrases, a
+for-and-against essay whose paragraph functions are
+identified before the pupil's own is written), and at
+Grade 12 a for-and-against model teaching opinion-essay
+linking, an opinion essay analysed by its body
+paragraphs, brainstorming taught as the exam technique,
+and staged 100–120-word opinion-essay building.
 Other finished
 countries join as their books are read (see
 READING-QUEUE.md).

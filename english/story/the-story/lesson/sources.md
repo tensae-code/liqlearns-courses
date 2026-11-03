@@ -1,6 +1,6 @@
 # Sources — The story
 
-countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan
+countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
 
 Every part traces to its book and page.
 
@@ -104,6 +104,27 @@ english/books/kazakhstan.md (Grade 6 — Full Blast! for
 Kazakhstan, Grade 6 Student's Book section, FULLY READ +
 CITATION CHECK PASSED 2026-11-03).
 
+**Book 20:** English for Iraq, Grade 1, Pupil and Activity
+Book — Iraq, Garnet Publishing Ltd (Garnet Education) for
+the Ministry of Education. Filed in english/books/iraq.md
+(Grade 1 — English for Iraq, 1st Primary, Pupil and
+Activity Book (combined pupil + activity book) section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 21:** English for Iraq, Grade 2, Pupil and Activity
+Book — Iraq, Garnet Publishing Ltd (Garnet Education) for
+the Ministry of Education. Filed in english/books/iraq.md
+(Grade 2 — English for Iraq, 2nd Primary, Pupil and
+Activity Book (combined pupil + activity book) section,
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 22:** English for Iraq, Grade 3, Pupil's Book
+— Iraq, Garnet Publishing Ltd (Garnet Education) for the
+Ministry of Education. Filed in english/books/iraq.md
+(Grade 3 — English for Iraq, 3rd Primary, Pupil's Book
+(student's book) section, FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Paragraph Development names the four modes — "expository, narrative, description, argument" — narrative standing as the story's mode among the kinds of writing | Ghana, NaCCA JHS curriculum, Paragraph Development (as filed) |
@@ -127,9 +148,12 @@ CITATION CHECK PASSED 2026-11-03).
 | The story's own elements glossed beside a story text: the Oliver Twist work carries a literary-elements glossary — script, plot, character, setting, dialogue, monologue, conflict — and the module's writing outcome is a story of the pupil's own, on the Loch Ness model "The Monster" | Kazakhstan, Excel Grade 6 Student's Book, Module 4, printed pp.41–52 |
 | A whole module given to stories, each text closed by a theory box naming its kind: a Hound of the Baskervilles extract (with a box on first- vs third-person narration), a Time Machine extract, the Korkyt Ata legend and the Magic Garden folk tale — narrative, legends and folk tales told apart in print | Kazakhstan, Excel Grade 7 Student's Book (2nd Edition), Module 5, printed pp.53–62 |
 | The kinds told apart and the craft advised in the other Grade 6 course: a myth/legend/folk-tale distinction inside the folk-tale lesson, then story-writing advice — when/while linkers, feeling adjectives, (un)luckily adverbs — beside the model story "Lucky or unlucky?" | Kazakhstan, Full Blast Grade 6 Student's Book, Module 7, printed pp.153–169 |
+| Six two-page picture stories bound as their own section, each recycling one unit's language: "Nada's birthday", "In the toy shop", "At the zoo", "Ahmed and Nada's monster", "At the circus" and "Sami's rocket" | Iraq — English for Iraq, Grade 1 Pupil and Activity Book, Stories, printed pp.74–85 |
+| A story as Lesson 8 of every main unit, closing the unit: The toy maker, The big carrot, Goldilocks and the three bears (with printed story speech), Layla and the wolf, My week and The rabbit and the tortoise | Iraq — English for Iraq, Grade 2 Pupil and Activity Book, Unit 1, Lesson 8, printed pp.12–13, and Unit 3, Lesson 8, printed pp.32–33 |
+| Six stories with printed text at Grade 3 — speech bubbles, captions and, in the later stories, full past-tense narration: The Magic Pencil, The Clever Crow, Sami's Messy Room, Roland's Race, Ant and Grasshopper and The Shopping List | Iraq — English for Iraq, Grade 3 Pupil's Book, Unit 1, Lesson 8, printed pp.20–21; Unit 2, Lesson 8, printed pp.36–37; Unit 3, Lesson 8, printed pp.52–53; Unit 5, Lesson 8, printed pp.72–73; Unit 6, Lesson 8, printed pp.88–89; Unit 7, Lesson 8, printed pp.104–105 |
 
-**Acceptance count: taught in 9 countries (Bangladesh,
-Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan).** Ghana names the narrative mode; Bangladesh
+**Acceptance count: taught in 10 countries (Bangladesh,
+Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).** Ghana names the narrative mode; Bangladesh
 teaches stories from its earliest classes with the fables;
 Egypt reads whole stories through the secondary years;
 China names the story's three parts outright (setting,
@@ -158,5 +182,11 @@ sets a story as the module's writing outcome, its
 Grade 7 book closes each story text with a theory box
 telling narrative, legends and folk tales apart, and
 its other Grade 6 course prints story-writing advice
-beside its model story. Other closed countries join as their books are read (see
+beside its model story; Iraq prints stories throughout
+its primary course — six two-page picture stories bound
+as their own section at Grade 1, a story closing every
+main unit at Grade 2 (The toy maker, Goldilocks and the
+three bears, The rabbit and the tortoise among them),
+and six stories with printed text at Grade 3, the later
+ones in full past-tense narration. Other closed countries join as their books are read (see
 READING-QUEUE.md).

@@ -1,6 +1,6 @@
 # Sources — Present actions
 
-countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan
+countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq
 
 Every part traces to its book and page.
 
@@ -128,10 +128,14 @@ CITATION CHECK PASSED 2026-11-03).
 | The Present Simple staged affirmative first, then negative, in the values unit; Present Simple question forms follow in the world-of-work unit | Kazakhstan, English Plus Grade 5, Units 5–6, printed pp.54–81 |
 | The Present Continuous staged affirmative and negative (with *-ing* spelling), then its questions, in the holidays unit | Kazakhstan, English Plus Grade 5, Unit 7, printed pp.82–95 |
 | Both faces in the opening module — the Present Simple for school life, then the Present Continuous beside it with a stative-verb note | Kazakhstan, Full Blast! Grade 6, Module 1, sections 1a and 1c, printed pp.16–33 |
+| The present continuous carried by two printed emails built entirely on it — "What are you doing? I'm writing to you! Sami is reading a book in his bedroom. Dad is washing his car in the garden," with matching continuous sentences (He's skipping. They're playing football. She's writing.) | Iraq — English for Iraq, Grade 3 Pupil's Book, Unit 7, printed pp.90–105 |
+| The present continuous for actions now on the playground — "I'm climbing up the ladder. I'm crawling through the tunnel." — and for people in pictures throughout the book | Iraq — English for Iraq, Grade 4 Pupil's Book, Unit 1, printed pp.6–21 |
+| The two presents set against each other as a choice: the hospital surgeon's blog — "What does she do most days? — She works in the hospital" against "What are you doing now? — I'm spending time with my family" — checked by circling the correct tense | Iraq — English for Iraq, Grade 6 Pupil's Book, Unit 2, printed pp.22–37 |
+| The present continuous for changing trends at preparatory level, inside the opening unit's present simple (habits and facts) and present continuous (actions now, changing trends, planned futures) system, tabulated in the Grammar and Functions Reference | Iraq — English for Iraq, Grade 10 Student's Book, Unit 1, printed pp.6–16 (reference, printed pp.88–98) |
 
-**Acceptance count: taught in 12 countries (Egypt, Ghana,
+**Acceptance count: taught in 13 countries (Egypt, Ghana,
 Libya, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan).** Egypt boxes the every-day face inside
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq).** Egypt boxes the every-day face inside
 routines; Mongolia tables the right-now face and its
 questions; Libya's reference names both faces' uses and
 posts the refusal list; Ghana names the simple present's
@@ -145,7 +149,7 @@ lesson pair in JSS 1 and rebuilds both for the senior
 exam in SSS 1; Jordan works
 the every-day face over routines and the third-person
 -s in Grade 3, sets the two faces against each other
-in Grade 6, and re-teaches both in Grade 8. Greece builds both faces across primary — routines and frequency in Grade 4, the full simple paradigm and the simple/continuous contrast in Grade 5, and both boxes restated in Grade 6. Kazakhstan teaches both faces whole at Grade 5 in two series at once — the simple in full, the continuous in full, and the two contrasted — and sets them against each other again, stative verbs noted, in Grade 6's Full Blast!. Other closed countries join as their books are read
+in Grade 6, and re-teaches both in Grade 8. Greece builds both faces across primary — routines and frequency in Grade 4, the full simple paradigm and the simple/continuous contrast in Grade 5, and both boxes restated in Grade 6. Kazakhstan teaches both faces whole at Grade 5 in two series at once — the simple in full, the continuous in full, and the two contrasted — and sets them against each other again, stative verbs noted, in Grade 6's Full Blast!. Iraq carries the continuous in two whole printed emails in Grade 3, teaches it for actions now in Grade 4, sets the simple against the continuous as a choice in Grade 6, and re-tables both in Grade 10. Other closed countries join as their books are read
 (see READING-QUEUE.md).
 
 **Laos Grade 6 added 2026-10-27** — *English for Secondary
@@ -157,3 +161,18 @@ now (p.127), **frequency adverbs** placed in the sentence and
 asked about with How often…? (pp.94–95) — and the sound of the
 third-person ending itself, **-s said three ways: /s/ /z/
 /iz/** (p.77).
+
+**Iraq added 2026-11-03** — *English for Iraq* (Garnet
+Publishing Ltd / Garnet Education for the Ministry of
+Education; full read in english/books/iraq.md). The present
+continuous is the language of two whole printed emails in
+Grade 3 — **"What are you doing? I'm writing to you! Sami is
+reading a book in his bedroom. Dad is washing his car in the
+garden."** (Pupil's Book, Unit 7, printed pp.90–105) — and
+of playground actions now in Grade 4 (Unit 1, printed
+pp.6–21). Grade 6 sets the two presents against each other
+in the surgeon's blog, *What does she do most days?* against
+*What are you doing now?* (Pupil's Book, Unit 2, printed
+pp.22–37), and Grade 10 re-tables the system — habits and
+facts against actions now, changing trends and planned
+futures (Student's Book, Unit 1, printed pp.6–16).
