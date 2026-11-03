@@ -1,6 +1,6 @@
 # Sources for this lesson — Good morning and good afternoon
 
-countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone
+countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -19,8 +19,9 @@ explains one thing only.
 | The time-of-day greetings taught as one set of four — good morning / afternoon / evening / night — opening the first chapter | Indonesia — English for Nusantara Kids, Grade 3, Chapter 1, Section A, printed pp.3–4 |
 | "Good morning / afternoon" with Mr./Mrs./Miss + name, inside the first lesson's greeting practice | Iran — Prospect 1 (Grade 7), Lesson 1 "My Name," Practice 1, printed pp.6–9 |
 | "Good morning / Good afternoon / Good evening" matched to times of day in the very first lesson; the song "Good Morning"; and the greeting pair opening every lesson of the book ("Good morning / Good afternoon") | Sierra Leone — Language Arts Primary 1 Lesson Plans, Term 1, Lessons 1–2 and the book's repeated lesson Opening |
+| "Good morning!" in the first Welcome — the characters introduced with "Hello! / Hi! / Good morning!" (Jordan's filed books teach the morning greeting only: no "Good afternoon" greeting is printed anywhere in the Jordan read — afternoon appears there as a time-of-day word, in Grade 3, not as a greeting) | Jordan — Team Together Grade 1 Pupil's Book, Semester 1, Welcome, printed pp.4–5 |
 
-**Acceptance count: taught in 7 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone).**
+**Acceptance count: taught in 8 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan).**
 China teaches the pair inside its colours unit in the first
 primary book; Mongolia stocks the day-part ground the greeting
 stands on — one boy's whole day told in clock pictures — from a
@@ -29,7 +30,10 @@ Leone joined 2026-11-03: Indonesia teaches the greetings as a
 set of four with evening and night; Iran teaches the pair with
 a teacher's title and name; Sierra Leone matches the greetings
 to the times of day in its first lesson and opens every lesson
-with the pair.
+with the pair. Jordan joined 2026-11-03 carrying the morning
+half only — "Good morning!" in its Grade 1 Welcome, the same
+morning-only shape Egypt's rows in this file carry; no
+afternoon greeting is printed in its filed books.
 Counts grow as other closed countries' first books are read.
 
 **China added 2026-10-29** — **Book:** *Compulsory Education
@@ -89,3 +93,24 @@ daily frame: every one of the sixty lessons opens with the
 greeting "Good morning / Good afternoon" — the greeting is
 not only taught, it is how every school day in the book
 begins.
+
+**Jordan added 2026-11-03** — **Book:** *Jordan Team
+Together, Grade 1: Pupil's Book, Semester 1* — Jordan,
+National Center for Curriculum Development (NCCD), Amman,
+from Pearson Education Ltd / York Press Ltd originals;
+second edition (revised and updated) 2025, ISBN
+978-9923-41-908-3. Filed in english/books/jordan.md
+(Jordan — English Grade 1 Pupil's Book, Semester 1 —
+FULLY READ + CITATION CHECK PASSED 2026-11-03). Jordan's
+Welcome (printed pp.4–5) introduces its six characters
+with the greetings "Hello! / Hi! / Good morning!" — the
+morning greeting taught, the afternoon greeting not: a
+search of the whole filed Jordan read finds no "Good
+afternoon" as a greeting in any of the 64 books (Grade
+3, Semester 1, Unit 1, printed pp.8–15, teaches morning,
+afternoon, evening and night as times of the day, beside
+"When do you (go home)? We go home in the (afternoon)" —
+the day-part vocabulary, not this lesson's greeting, and
+it is recorded here only to show the search was made).
+Jordan is therefore counted for the morning half of this
+lesson, exactly as Egypt is in the rows above.

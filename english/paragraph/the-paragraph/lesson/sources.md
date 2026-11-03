@@ -1,6 +1,6 @@
 # Sources — The paragraph
 
-countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone
+countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone, Jordan
 
 Every part traces to its book and page.
 
@@ -52,6 +52,21 @@ Term 3 — Sierra Leone, Ministry of Basic and Senior
 Secondary Education. Filed in english/books/sierra-leone.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 11:** Jordan High Note, Grade 8, Student's Book,
+Semester 1 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in english/books/jordan.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 12:** Jordan High Note, Grade 11, Student's Book,
+Semester 1 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in english/books/jordan.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 13:** Jordan High Note, Grade 12, Student's Book,
+Semester 1 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in english/books/jordan.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Guided Composition: "two coherent paragraphs by leading questions ('My Home')" — the paragraph written as answers to leading questions | Ghana, NaCCA B1–B3 curriculum, Basic 3, writing strands (as filed) |
@@ -67,10 +82,13 @@ Secondary Education. Filed in english/books/sierra-leone.md
 | The paragraph completed in the next lesson: supporting sentences (explain, give reasons, give examples, tell a short story), non-supporting sentences crossed out, and the concluding sentence as the last sentence repeating the topic sentence's idea | Iran, Vision 3, Lesson 3, Writing: Supporting & Concluding Sentences, pp.91–95 |
 | The paragraph named and sized at JSS 1: a paragraph is 3–5 sentences on one topic, planned by listing related ideas first — then one topic per paragraph in composition, with capital letter to start and end punctuation | Sierra Leone, JSS 1 Term 1 Handbook, Lessons 13–14 |
 | Elements of a good paragraph restated as the senior standard: typically 3 to 5 sentences, topic sentence, supporting sentences using facts, statistics, details, examples, stories, quotes or paraphrase, logical order, no irrelevant material | Sierra Leone, SSS 3 Term 3 Handbook, Lesson 102 "Elements of a Good Paragraph," printed p.11 |
+| A descriptive piece of paragraph length built model-first: a model description of a place (Ghada's bedroom post) read, then the pupil's own description written as the unit's writing outcome | Jordan, Grade 8 Student's Book, Semester 1, Unit 2, Writing, pp.22–23 |
+| Topic sentences named as the writing craft inside the opinion-essay lesson — the Active Writing work on the sentence that carries each paragraph | Jordan, Grade 11 Student's Book, Semester 1, Unit 3, Writing, pp.38–39 |
+| A blog post about the past built by ordering its paragraphs and transforming its sentences — the paragraph handled as the unit you place and shape | Jordan, Grade 12 Student's Book, Semester 1, Unit 1, Lesson 6A, pp.12–13 |
 
-**Acceptance count: taught in 9 countries (Bangladesh,
+**Acceptance count: taught in 10 countries (Bangladesh,
 Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran,
-Sierra Leone).** Ghana names the process and prints the
+Sierra Leone, Jordan).** Ghana names the process and prints the
 unity test as a revise question; Bangladesh guides the
 first paragraphs and models them; Egypt examines by the
 paragraph; China adds a model-first writing ladder across
@@ -81,7 +99,11 @@ Iran names the paragraph outright — definition, format,
 topic sentence as topic + controlling idea — and completes
 it with supporting and concluding sentences; Sierra Leone
 sizes the paragraph at 3–5 sentences on one topic in
-JSS 1 and restates that standard at SSS 3. Other closed countries join as their books are
+JSS 1 and restates that standard at SSS 3; Jordan builds
+a descriptive piece model-first at Grade 8, names topic
+sentences as the Active Writing craft of its Grade 11
+essay lesson, and has Grade 12 order a blog post's
+paragraphs as the writing work itself. Other closed countries join as their books are
 read (see READING-QUEUE.md).
 
 **Laos Grade 6 added 2026-10-27** — *English for Secondary

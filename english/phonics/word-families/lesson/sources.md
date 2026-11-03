@@ -1,6 +1,6 @@
 # Sources for this lesson — Word families
 
-countries: Egypt, Laos, China, Sierra Leone
+countries: Egypt, Laos, China, Sierra Leone, Jordan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -29,9 +29,10 @@ pictures).
 | Start to read pages: hunt named letters in mixed upper/lower case and read-and-count the unit's words in a jumbled field — the family words met whole, in the open | China — English (PEP) Grade 3 Volume 1, Start to read pages, printed pp.9, 19, 29, 43, 53, 63 |
 | The **-un** family built by filling in missing letters — sun, run, fun, bun, nun — with the rhyme "Good Morning Sun" | Sierra Leone — Language Arts Primary 1 Lesson Plans, Term 3, Lesson 121 (the plan at PDF p.8 of the Term 3 book) |
 | Named Word Family lessons as a year-long programme — create, read and write a rime family in lesson one; illustrate and label a word from the family in lesson two. Term 1 families: **un, ee, eep, eat, oss, ink, ick, ip, ock** | Sierra Leone — Language Arts Primary 3 Lesson Plans, Term 1, Lessons 13–14, 17–18, 23–24, 34–35, 38, 45, 48, 54, 59 (PDF pp.33, 35, 41, 43, 53, 55, 75, 77, 83, 97, 103, 115, 124) |
+| The silent-e patterns **a-e** and **i-e** — bike, five; cake, plane — carried by a tongue twister built on nine cakes / five bikes / a plane; the Activity Book matches the same patterns word-to-picture with a wider set (bike, cake, gate, snake, kite, plane) | Jordan — Team Together Grade 2: Pupil's Book, Semester 1, Unit 1, printed pp.8–15; Activity Book, Semester 1, Unit 1, printed pp.6–13 |
 | The programme continued — Term 2 families: **oat, ook, ance, ay, ean, end, ice, oon, ire, ear, ound**; Term 3 families: **ast, ine, ix, est** (ast built from flash-card onsets f, c, m, l, p) | Sierra Leone — Language Arts Primary 3 Lesson Plans, Term 2, Lessons 65, 69, 72, 83, 88, 93, 99–100, 101, 108, 112, 119–120 (PDF pp.16, 24, 30, 52, 62, 72, 84, 86, 88, 102, 110, 124, 126); Term 3, Lessons 122, 128, 133, 138 (PDF pp.8, 20, 30, 40) |
 
-**Acceptance count: taught in 4 countries (Egypt, Laos, China, Sierra Leone).**
+**Acceptance count: taught in 5 countries (Egypt, Laos, China, Sierra Leone, Jordan).**
 China adds a complete short-vowel cycle inside one volume —
 one Let's spell set per vowel, reviewed as a whole system
 (Grade 3 Volume 2) — the silent-e ladder that turns those
@@ -40,7 +41,8 @@ and Start to read pages where the unit's words are hunted and
 counted whole (Grade 3 Volume 1). Sierra Leone adds the family
 as a named, year-long programme: one first family in Primary 1
 (-un), then twenty-four named Word Family lessons across
-Primary 3.
+Primary 3. Jordan adds the first two patterns of the silent-e
+ladder — a-e and i-e — as a Grade 2 phonics lesson.
 Counts grow as other closed countries' books are read.
 
 **Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
@@ -210,3 +212,23 @@ patterns and written rhyming words in Primary 1 Term 2
 Primary 2 (Term 2 Lesson 104; Term 3 Lesson 150, "Rhyming
 Animals"). No other country in this file names the family
 itself as the lesson title, term after term.
+
+**Jordan added 2026-11-03** — two books stock this lesson:
+**Books:** *Jordan Team Together, Grade 2: Pupil's Book,
+Semester 1* (second edition, revised and updated, 2026, ISBN
+978-9923-66-046-1) and *Activity Book, Semester 1* — Jordan,
+National Center for Curriculum Development and Evaluation
+(NCCD), Amman, from Pearson Education Ltd / York Press Ltd
+originals. Both filed in english/books/jordan.md (Jordan —
+FULLY READ + CITATION CHECK PASSED 2026-11-03). Jordan's
+stock here is narrow and is recorded narrowly: Grade 2's
+first phonics lesson (Unit 1, printed pp.8–15) teaches the
+two silent-e patterns a-e and i-e together — bike, five,
+cake, plane in the Pupil's Book, worked word-to-picture in
+the Activity Book (printed pp.6–13) with gate, snake and
+kite added — the long partners of the short a and i
+families, two rungs of the ladder China climbs in full.
+Jordan does NOT name or group short-vowel rime families in
+the filed read: its Grade 1 CVC word lists (bat, bed, cap,
+cat …) are taught as building and blending, and are filed
+in phonics/blending-sounds, not here.

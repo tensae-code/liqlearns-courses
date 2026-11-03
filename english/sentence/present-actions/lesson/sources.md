@@ -1,6 +1,6 @@
 # Sources — Present actions
 
-countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone
+countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan
 
 Every part traces to its book and page.
 
@@ -67,6 +67,27 @@ Term 1 — Sierra Leone, Ministry of Basic and Senior
 Secondary Education. Filed in english/books/sierra-leone.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 14:** Jordan Team Together, Grade 3: Pupil's Book,
+Semester 1
+(student book) — Jordan, National Center for Curriculum
+Development (NCCD), Amman (Pearson Education / York
+Press originals). Filed in english/books/jordan.md (FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
+**Book 15:** Jordan Team Together, Grade 6: Pupil's Book,
+Semester 1
+(student book) — Jordan, National Center for Curriculum
+Development (NCCD), Amman (Pearson Education / York
+Press originals). Filed in english/books/jordan.md (FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
+**Book 16:** Jordan High Note, Grade 8: Student's Book,
+Semester 1
+(student book) — Jordan, National Center for Curriculum
+Development (NCCD), Amman (Pearson Education / York
+Press originals). Filed in english/books/jordan.md (FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Daily Routines lesson: the routine set with photo sentences at clock times, and the full Present Simple routines box with its spelling work | Egypt, Primary 3 Term 1, Daily Routines lesson (L4), pp.19–26 (the box, p.23) |
@@ -84,10 +105,16 @@ Secondary Education. Filed in english/books/sierra-leone.md
 | The simple present as its own grammar lesson: regular habits and always-true facts, "do not" for negatives, -s added with he/she/it | Sierra Leone, JSS 1 Term 1 Handbook, Lesson 30 "The Simple Present Tense" (printed p.57) |
 | The present continuous as its own lesson pair: be (am/are/is) + verb-ing for actions in progress now, -ing spelling changes, negatives with "not," questions by swapping be and the subject | Sierra Leone, JSS 1 Term 1 Handbook, Lessons 46–47 (Lesson 46 printed p.84) |
 | Both faces rebuilt for the senior exam: simple present for facts, repeated actions, emotions and wishes, with -s/-es agreement and its question forms; present continuous for actions happening now, set against the simple present, with the verbs that rarely take the continuous named | Sierra Leone, SSS 1 Term 1 Handbook, Lessons 2–3, printed pp.2, 4, and Lesson 13, printed p.23 |
+| The present simple for routines, first person first — I play / don't play; We have / don't have, over the daily-routine set and the times of day | Jordan, Team Together Grade 3, Pupil's Book, Semester 1, Unit 1, pp.8–15 |
+| The present continuous for what someone is wearing — You're/They're wearing (jeans and trainers) | Jordan, Team Together Grade 3, Pupil's Book, Semester 1, Unit 2, pp.16–23 |
+| The third-person face of the present simple — He/She plays (video games); He/She doesn't watch TV, worked with the days of the week | Jordan, Team Together Grade 3, Pupil's Book, Semester 1, Unit 3, pp.24–31 |
+| The two faces set against each other as one grammar point — Present simple vs Present continuous, with the state verbs (prefer, sound, know) beside them | Jordan, Team Together Grade 6, Pupil's Book, Semester 1, Unit 1, pp.8–17 |
+| The present simple re-taught whole at secondary level — affirmative and negative (p.5), then adverbs of frequency and Present Simple questions (p.7) | Jordan, High Note Grade 8, Student's Book, Semester 1, Unit 1, pp.4–13 |
+| The present continuous re-taught and then contrasted — Present Continuous (pp.36–37), then Present Simple vs Present Continuous (p.39), worked through a "No Pens Day" text | Jordan, High Note Grade 8, Student's Book, Semester 1, Unit 4, pp.36–45 |
 
-**Acceptance count: taught in 9 countries (Egypt, Ghana,
+**Acceptance count: taught in 10 countries (Egypt, Ghana,
 Libya, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone).** Egypt boxes the every-day face inside
+Sierra Leone, Jordan).** Egypt boxes the every-day face inside
 routines; Mongolia tables the right-now face and its
 questions; Libya's reference names both faces' uses and
 posts the refusal list; Ghana names the simple present's
@@ -98,7 +125,10 @@ a whole primary chapter and states the every-day paradigm
 in full at Grade 7; Iran tables both faces whole, one
 lesson each; Sierra Leone teaches each face as its own
 lesson pair in JSS 1 and rebuilds both for the senior
-exam in SSS 1. Other closed countries join as their books are read
+exam in SSS 1; Jordan works
+the every-day face over routines and the third-person
+-s in Grade 3, sets the two faces against each other
+in Grade 6, and re-teaches both in Grade 8. Other closed countries join as their books are read
 (see READING-QUEUE.md).
 
 **Laos Grade 6 added 2026-10-27** — *English for Secondary

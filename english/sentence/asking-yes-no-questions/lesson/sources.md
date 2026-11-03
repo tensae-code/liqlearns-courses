@@ -1,6 +1,6 @@
 # Sources — Asking yes/no questions
 
-countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone
+countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan
 
 Every part traces to its book and page.
 
@@ -68,6 +68,27 @@ Term 1 — Sierra Leone, Ministry of Basic and Senior
 Secondary Education. Filed in english/books/sierra-leone.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 14:** Jordan Team Together, Grade 2: Pupil's Book,
+Semester 2
+(student book) — Jordan, National Center for Curriculum
+Development (NCCD), Amman (Pearson Education / York
+Press originals). Filed in english/books/jordan.md (FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
+**Book 15:** Jordan Team Together, Grade 3: Pupil's Book,
+Semester 1
+(student book) — Jordan, National Center for Curriculum
+Development (NCCD), Amman (Pearson Education / York
+Press originals). Filed in english/books/jordan.md (FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
+**Book 16:** Jordan Team Together, Grade 3: Pupil's Book,
+Semester 2
+(student book) — Jordan, National Center for Curriculum
+Development (NCCD), Amman (Pearson Education / York
+Press originals). Filed in english/books/jordan.md (FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The SIMPLE PRESENT frame in three shapes — affirmative Subject + Verb + Complement, negative with do/does not — and the DO–DOES interrogative box standing beside them as the question shape | Bolivia compendium, the Daily activities text (T8, compendium p.178) |
@@ -90,10 +111,15 @@ Secondary Education. Filed in english/books/sierra-leone.md
 | Questions made by swapping be and the subject — the present-continuous question shape, after negatives with "not" after be | Sierra Leone, JSS 1 Term 1 Handbook, Lesson 47 "The Present Continuous Tense (Continuation)" |
 | The voice rule stated for reading aloud: yes/no questions rise, wh- questions and exclamations fall, guided by punctuation | Sierra Leone, JSS 1 Term 2 Handbook, Lesson 58 "Punctuation and Intonation" |
 | Forming and answering questions as half of the simple-present system: the negative (do/does not; am/is/are not) and the question forms together | Sierra Leone, SSS 1 Term 1 Handbook, Lesson 3, printed p.4 |
+| The do-type yes/no question over food, with its short answers — "Do you like (cheese)? Yes, I do. / No, I don't" | Jordan, Team Together Grade 2, Pupil's Book, Semester 2, Unit 6 "Do you like peas?," pp.16–23 |
+| The does-type question with its short answers — "Does he do karate on Saturday? Yes, he does. / No, he doesn't." | Jordan, Team Together Grade 3, Pupil's Book, Semester 1, Unit 3, pp.24–31 |
+| The be yes/no question in its doing-now shape — "Is he/she/it (flying)? Yes, he/she/it is. / No, he/she/it isn't. Are they (brushing the horses)? Yes, they are. / No, they aren't." | Jordan, Team Together Grade 3, Pupil's Book, Semester 2, Unit 5, pp.8–15 |
+| Have-got yes/no questions with short answers — "Have you got (a tent)? Yes, I have. / No, I haven't. Has he/she got…? Yes, he/she has. / No, he/she hasn't." | Jordan, Team Together Grade 3, Pupil's Book, Semester 2, Unit 6, pp.16–23 |
+| Can and there yes/no questions side by side — "Can (penguins) swim? Yes, they can. / Can (hippos) jump? No, they can't"; "Is there a (coconut)? Yes, there is. / No, there isn't. Are there any (burgers)? Yes, there are. / No, there aren't." | Jordan, Team Together Grade 3, Pupil's Book, Semester 2, Unit 8, pp.32–39 |
 
-**Acceptance count: taught in 8 countries (Bangladesh,
+**Acceptance count: taught in 9 countries (Bangladesh,
 Bolivia, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone).** Bolivia boxes the do/does engine;
+Sierra Leone, Jordan).** Bolivia boxes the do/does engine;
 Mongolia works the be-swap on its doing-now questions;
 Bangladesh teaches the voice the question rides on; China
 adds the full shelf of shapes across its primary run — be,
@@ -104,7 +130,9 @@ question lesson outright; Iran tables the yes-no forms and
 gives both the be and the do/does question their rising
 voice; Sierra Leone makes the question by the be-swap,
 states the rising-voice rule, and forms and answers
-simple-present questions as a system. Other
+simple-present questions as a system; Jordan
+asks do, does, be, have-got and can yes/no questions
+with their short answers across Grades 2–3. Other
 closed countries join as their books are read (see
 READING-QUEUE.md).
 

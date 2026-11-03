@@ -1,6 +1,6 @@
 # Sources — Days and months
 
-countries: Bangladesh, Egypt, Laos, China, Indonesia, Iran, Sierra Leone
+countries: Bangladesh, Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan
 
 Every part traces to its book and page.
 
@@ -54,6 +54,15 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 in english/books/sierra-leone.md (Primary 2 Term 1 section,
 FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 10:** Jordan Team Together, Grade 1: Pupil's Book, Semester 1 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 1 Pupil's Book Semester 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 11:** Jordan Team Together, Grade 3: Pupil's Book, Semester 1 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 3 Pupil's Book Semester 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 12:** Jordan Team Together, Grade 6: Activity Book, Semester 2 (activity book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 6 Activity Book Semester 2 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "How many days are there in a week?" — "There are 7 days in a week"; the seven days listened and repeated Saturday-first (Egypt's school week); the list teaching after/before with arrows | Egypt, Primary 1 Term 2, Unit 1 "My Week," Lesson 1 "Days of the Week," p.6 |
@@ -73,9 +82,12 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 | The seven weekdays and the twelve Gregorian month names, printed with their Persian equivalents beside them (the book's own birthday lesson works in Persian-calendar months — Farvardin to Esfand — so the Gregorian set lives in the Photo Dictionary) | Iran, Prospect 1 (Grade 7), Photo Dictionary, Lesson 3 section (printed pp.48–76; the weekday page is printed p.53) |
 | Days of the week as a first-year lesson: name all the days of the week in pairs, from word cards (Sierra Leone's books teach the days only — no months lesson appears in its primary plans) | Sierra Leone, Primary 1 Term 1, Lesson 10 |
 | The days named and ordered inside a story — "Joseph's Week" (the Primary 1 days, in a story) | Sierra Leone, Primary 2 Term 1, Lesson 54 |
+| The seven days in the Learning Club — Sunday–Saturday listened to and circled (the Activity Book carries the days wordsearch) | Jordan, Grade 1 Pupil's Book Semester 1, Learning Club, printed pp.38–40 (Activity Book, printed pp.28–29) |
+| The seven days Sunday–Saturday with the weekend, carried by the week's activities ("Does he do karate on Saturday?"); and the months grouped by their seasons in the Festivals pages (spring = March, April, May), with month-ordering work in the Activity Book | Jordan, Grade 3 Pupil's Book Semester 1, Unit 3 "The activity centre," pp.24–31; Festivals "Months and seasons," pp.44–47 (Activity Book, pp.40–41) |
+| The month-length rhyme in its traditional form: the "thirty days" calendar rhyme completed with month names, inside the months-in-order and seasons booster | Jordan, Grade 6 Activity Book Semester 2, Lara's Learning Club, Language booster 3, pp.24–25 |
 
-**Acceptance count: taught in 7 countries (Bangladesh,
-Egypt, Laos, China, Indonesia, Iran, Sierra Leone).** Egypt
+**Acceptance count: taught in 8 countries (Bangladesh,
+Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan).** Egypt
 carries the days first (its school-week
 order, Saturday-first); Bangladesh carries the days on a
 Sunday-first calendar, the months with their ordinal numbers,
@@ -91,7 +103,7 @@ working in Persian-calendar months; Sierra Leone carries the
 days only, named from word cards and ordered in a story. The
 books start the printed week on different days — the lesson
 shows each, per the standing rule for when books differ.
-Other closed countries join as their books are read (see
+Jordan carries the days listened to and circled in its first Learning Club, the days with the week's activities and the months by seasons in Grade 3, and the thirty-days rhyme completed with month names in Grade 6; Other closed countries join as their books are read (see
 READING-QUEUE.md).
 
 **Laos Grade 4 added 2026-10-27** — *English for Lao Primary

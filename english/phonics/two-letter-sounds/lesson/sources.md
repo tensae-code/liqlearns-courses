@@ -1,6 +1,6 @@
 # Sources for this lesson — Two-letter sounds
 
-countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone
+countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The two-letter sets lived inside the alphabet
@@ -27,9 +27,19 @@ single letters.
 | **wh** on one Let's spell page | China — English (PEP) Grade 5 Volume 2, Unit 6, printed p.60 |
 | The Grade 8 spelling-and-pronunciation sets, one set per lesson: **ch, sh** · **ee, ay** · **oo** (long and short) · **ea** (with ch again) · **th, ph, wh** · **th** in both values · **ow, ou** | Iran — English for Schools, Prospect 2 (Grade 8), Lessons 1–7, printed pp.12–59 (ee/ay and the st- blend at p.21; oo at p.29; ch/ea at p.36; th in both values at p.51; the whole run checked at Review 3, printed pp.60–63) |
 | Digraph lessons worked from the block's own story or poem: **kn** (silent k) · **ph** · **wr** · **sh** · **th** | Sierra Leone — Language Arts Primary 2: kn, Term 2 Lessons 76–77 (the "Knife" Tiny Tale); ph, Term 2 Lesson 87 ("Friends Forever"); wr, Term 2 Lesson 99 ("Wiggle Your Fingers"); sh, Term 2 Lesson 113 ("Musa Go-Go"); th, Term 3 Lesson 122 ("Good Neighbours") |
+| **sh / ch** on one phonics lesson — shelf, shop, chair, chick (the Activity Book adds shirt, shell, cheese, chain) | Jordan — Team Together Grade 2 Pupil's Book, Semester 1, Unit 2, printed pp.16–23 |
+| **ee / ar** on one phonics lesson — feet, knees; arms, park (ar as the r-controlled pair) | Jordan — Team Together Grade 2 Pupil's Book, Semester 1, Unit 3, printed pp.24–31 |
+| **th** — voiced and unvoiced in one lesson: brother, this against three, mouth | Jordan — Team Together Grade 2 Pupil's Book, Semester 1, Unit 4, printed pp.32–39 |
+| **ai** (rain, tail), taught beside the double letters **bb, ll, rr** (rabbit, parrot, shell) | Jordan — Team Together Grade 2 Pupil's Book, Semester 2, Unit 5, printed pp.8–15 |
+| **ea** in both its sounds on one phonics lesson — beak, peas against head, feather | Jordan — Team Together Grade 2 Pupil's Book, Semester 2, Unit 6, printed pp.16–23 |
+| **ir / or** — bird, shirt; fork, shorts (the Activity Book adds torch, corn, girl for ir/or completion) | Jordan — Team Together Grade 2 Pupil's Book, Semester 2, Unit 7, printed pp.24–31 |
+| **oo** taught as two sounds on one phonics lesson — long in moon, bedroom against short in look, book | Jordan — Team Together Grade 2 Pupil's Book, Semester 2, Unit 8, printed pp.32–39 |
+| **wh** — what, when, wheel, whistle, whale | Jordan — Team Together Grade 3 Pupil's Book, Semester 1, Unit 4, printed pp.32–39 |
+| **ng / -ing** (king, ring; milking, singing) and **ck** (clock, black, backpack, truck) | Jordan — Team Together Grade 3 Pupil's Book, Semester 2: Unit 5, printed pp.8–15; Unit 7, printed pp.24–31 |
+| The Grade 7 revisit, tabulated as the semester's phonics line — hard and soft **c**, **tch**, and voiced/unvoiced **th** | Jordan — Team Together Grade 7 Teacher's Book, Semester 1, Scope and sequence, TB pp.2–3 |
 | Review stock: a grouping task sorting ch, sh, th, ng, nk with the blends, and pronunciation-pattern reference tables | China — English (PEP) Grade 6 Volume 2, Recycle, printed p.49; Appendices, printed pp.70–71 |
 
-**Acceptance count: taught in 7 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone).**
+**Acceptance count: taught in 8 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan).**
 China adds the first r-controlled-vowel ladder taught as a named
 system (Grade 4 Volume 2), a run of one-pair-per-page Let's spell
 lessons across Grades 5–6 (ea/ee, ow/ou, oo, ch/sh, th, ng/nk,
@@ -37,7 +47,11 @@ wh), and end-of-primary grouping review stock. Iran adds the
 whole Grade 8 spelling strand — digraphs and vowel pairs as the
 year's literacy line, three or four sets a lesson; Sierra Leone
 adds digraph lessons each worked from its own story or poem in
-Primary 2 (kn, ph, wr, sh, th).
+Primary 2 (kn, ph, wr, sh, th). Jordan adds the two-letter
+sounds as the whole phonics strand of Grades 2–3 — one pair
+(or one pair of pairs) as the closing lesson of every unit,
+sh/ch through oo, wh, ng and ck — and revisits th, tch and
+hard/soft c in Grade 7.
 Counts grow as other closed countries' books are read.
 
 **Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
@@ -241,3 +255,32 @@ Lesson 122, words with th read, written and illustrated from
 the story "Good Neighbours" (the plan's drawable examples:
 thirteen, mouth, bath). Five pairs, each met inside a story
 first and drilled second — the Sierra Leone shape throughout.
+
+**Jordan added 2026-11-03** — four pupil books and one
+teacher's book stock this lesson: **Books:** *Jordan Team
+Together, Grade 2: Pupil's Book, Semester 1* (second edition,
+revised and updated, 2026, ISBN 978-9923-66-046-1) and
+*Pupil's Book, Semester 2* (first edition (trial) 2025, ISBN
+978-9923-863-23-7); *Grade 3: Pupil's Book, Semester 1*
+(second edition 2025, ISBN 978-9923-41-911-3) and *Pupil's
+Book, Semester 2* (first edition (trial) 2024, ISBN
+978-9923-41-734-8); *Grade 7: Teacher's Book, Semester 1*
+(Scope and sequence, TB pp.2–3) — Jordan, National Center
+for Curriculum Development (NCCD), Amman, from Pearson
+Education Ltd / York Press Ltd originals. All filed in
+english/books/jordan.md (Jordan — FULLY READ + CITATION
+CHECK PASSED 2026-11-03). Jordan's shape is the unit
+closer: in Grades 2 and 3 every unit's Lesson 10 is phonics,
+and the phonics is this lesson — Semester 1 of Grade 2 runs
+sh/ch, ee/ar and th (voiced and unvoiced together, brother /
+this against three / mouth); Semester 2 runs ai (with the
+double letters bb, ll, rr beside it), ea in both sounds,
+ir/or and oo in both lengths; Grade 3 adds wh in Semester 1
+and ng/-ing and ck in Semester 2. The Activity Books work
+every set a second time (sh/ch with shirt, shell, cheese,
+chain; ir/or completion with torch, corn, girl). Grade 7's
+scope and sequence then tabulates the revisit — hard/soft c,
+tch, voiced/unvoiced th — as that semester's phonics line.
+(The same Grade 3 units' consonant blends — pl/bl, dr/tr/br,
+sk/sw/st, cl/fl/sl, cr/fr/gr — are a different thing and live
+in phonics/blends.)

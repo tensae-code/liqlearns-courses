@@ -1,6 +1,6 @@
 # Sources — The passive
 
-countries: Egypt, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone
+countries: Egypt, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan
 
 Every part traces to its book and page.
 
@@ -57,6 +57,31 @@ Education. Filed in english/books/sierra-leone.md
 Education. Filed in english/books/sierra-leone.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 11:** Jordan Team Together, Grade 6, Pupil's Book,
+Semester 2 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in english/books/jordan.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 12:** Jordan Team Together, Grade 7, Pupil's Book,
+Semester 1 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in english/books/jordan.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 13:** Jordan High Note, Grade 10, Student's Book,
+Semester 2 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in english/books/jordan.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 14:** Jordan High Note, Grade 11, Student's Book,
+Semester 2 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in english/books/jordan.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 15:** Jordan High Note, Grade 12, Student's Book,
+Semester 1 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in english/books/jordan.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The PASSIVE discovery — the active/passive pair ("Edison invented the light bulb in 1879." → "The light bulb was invented by Edison in 1879.") and the rule as printed: "The passive is formed with be + past participle," + transformations | Mongolia, English X, Unit 6 "Inventions," p.86 |
@@ -82,9 +107,14 @@ Education. Filed in english/books/sierra-leone.md
 | Changing Sentences from Active to Passive Voice: active (subject does the action) vs passive (subject receives it), and converting between them | Sierra Leone, JSS3 Term 2, Lesson 77, p.54 |
 | Active and Passive Voice taught properly in two lessons: identifying voice in a text through its sentence functions, then the conversion both ways — move the object, add a "to be" verb form, add "by" + subject | Sierra Leone, SSS3 Term 1, Lessons 7–8, pp.14 and 18 |
 | The emphasis lesson: active stresses the doer, passive stresses the action or receiver — more conversions both ways | Sierra Leone, SSS1 Term 3, Lessons 135–136, pp.82 and 84 |
+| The PRESENT passive in the clothes unit: the passive of making and use — made of / used for / worn by — drawn out of the Prince Freddie fairy tale and restated in the Grammar Reference | Jordan, Grade 6 Pupil's Book, Semester 2, Unit 5 "Favourite clothes" (unit pp.8–17); Grammar Reference, pp.58–59 |
+| The present simple passive and the past simple passive taught together as the reading unit's grammar, and restated in the book's grammar reference | Jordan, Grade 7 Pupil's Book, Semester 1, Unit 3 "Let's read!" (unit pp.32–41); Reference, p.58 |
+| The passive as the advertising unit's grammar lesson, practised in the Workbook's matching lesson | Jordan, Grade 10 Student's Book, Semester 2, Unit 8, Lesson 1A, pp.26–27; Workbook, Lesson 1B, pp.20–21 |
+| The passive carried into its infinitive and gerund forms, with impersonal passive structures as the unit's second grammar lesson | Jordan, Grade 11 Student's Book, Semester 2, Unit 8, Lessons 1A, pp.26–27, and 6A, p.33 |
+| The passive taught as a tense system at the top of the school: all main forms with the reasons for using it, and the passive across tenses — passive continuous forms included — restated in the Grammar Reference | Jordan, Grade 12 Student's Book, Semester 1, Unit 3, Lesson 5A, pp.32–33; Grammar Reference, pp.67–71 |
 
-**Acceptance count: taught in 8 countries (Egypt,
-Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone).** Mongolia discovers the shape from the
+**Acceptance count: taught in 9 countries (Egypt,
+Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan).** Mongolia discovers the shape from the
 Edison pair, drills by + agent in its inventions unit,
 and spreads the present/past/future coats in its clothing
 unit and reference. Libya prints the full five-tense
@@ -104,7 +134,13 @@ in present, past and present perfect coats, and completes
 it with the modal passive; Sierra Leone converts between
 the voices from JSS3, teaches the conversion properly at
 SSS3 (object moved, be form added, by + doer), and adds
-the emphasis lesson — doer vs action or receiver. Other closed countries join as their
+the emphasis lesson — doer vs action or receiver;
+Jordan climbs the passive across five years — present
+passive of making at Grade 6, present and past simple
+passives together at Grade 7, the passive lesson at
+Grade 10, infinitive/gerund and impersonal forms at
+Grade 11, and the whole tense system with its reasons
+at Grade 12. Other closed countries join as their
 books are read (see READING-QUEUE.md).
 
 **Laos Grade 9 added 2026-10-27** — *English for Secondary

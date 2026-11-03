@@ -1,6 +1,6 @@
 # Sources — Numbers
 
-countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone
+countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan
 
 Every part traces to its book and page.
 
@@ -93,6 +93,21 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 in english/books/sierra-leone.md (Primary 3 Term 2 section,
 FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 17:** Jordan Team Together, Grade 1: Pupil's Book, Semester 1 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 1 Pupil's Book Semester 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 18:** Jordan Team Together, Grade 3: Pupil's Book, Semester 1 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 3 Pupil's Book Semester 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 19:** Jordan Team Together, Grade 4: Pupil's Book, Semester 1 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 4 Pupil's Book Semester 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 20:** Jordan Team Together, Grade 4: Pupil's Book, Semester 2 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 4 Pupil's Book Semester 2 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 21:** Jordan Team Together, Grade 5: Pupil's Book, Semester 1 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Count objects and match them with the correct number (4 leaves, 1 sun, 5 apples, 2 tulips, 3 pineapples); "How many pencils are there? There are (2–3) pencils" / "How many stars are there? There are (3–5) stars"; trace the numbers 1–5, each row headed by that many strawberries | Egypt, KG2 (I Love My Family unit's number work), pp.54–55 |
@@ -117,10 +132,15 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 | Counting in words 1–10 with the song "Count and Eat"; number words 0–20 in the title of a later lesson, taught as counting and number words 0–10 / 1–10 with the poem "One, Two, I Love Fufu" | Sierra Leone, Primary 1 Term 1, Lessons 16 and 43 |
 | Counted classroom objects labelled with number words 1–10 — one door, two cups, three pencils, four rulers, five books, six windows, seven bottle tops, eight leaves, ten stones (examples as printed) | Sierra Leone, Primary 1 Term 1, Lesson 44 |
 | The climb in printed tables: number words 20 to 40, then 0 to 50, the plan's second page printing the table "NUMBER WORDS 40-50" (forty, forty-one, forty-two…) | Sierra Leone, Primary 3 Term 2, Lesson 76 (PDF p.38) and Lesson 110 (PDF p.106; table p.107) |
+| Numbers one–ten in the first spread, with the colours beside them | Jordan, Grade 1 Pupil's Book Semester 1, Welcome "Hello!", printed pp.4–5 |
+| The climb past ten: numbers 11–20, counted on real things in the bag — fourteen pencils and twenty crayons | Jordan, Grade 3 Pupil's Book Semester 1, Welcome "Back to school," pp.4–7 |
+| Numbers 1–100 as the Welcome set of the next year, beside countries, nationalities and hobbies | Jordan, Grade 4 Pupil's Book Semester 1, Welcome "New neighbours," printed pp.4–7 |
+| Ordinals as a full working set: first–thirty-first, taught inside the celebrations unit | Jordan, Grade 4 Pupil's Book Semester 2, Unit 8 "Let's celebrate!", pp.38–47 |
+| Big numbers as their own set: a hundred, five hundred, a thousand, five thousand, ten thousand, fifty thousand, a hundred thousand, a million | Jordan, Grade 5 Pupil's Book Semester 1, Unit 3 "Let's explore!", pp.32–41 |
 
-**Acceptance count: taught in 9 countries (Egypt, India,
+**Acceptance count: taught in 10 countries (Egypt, India,
 Palestine, Laos, China, Mongolia, Indonesia, Iran,
-Sierra Leone).** Palestine carries the youngest path (numbers
+Sierra Leone, Jordan).** Palestine carries the youngest path (numbers
 inside the word units, traced); Egypt carries the counting
 question and the climb (1–5, 11–20, by tens to 100); India
 carries the same 1–20 in its first book; China carries the
@@ -131,7 +151,7 @@ picture characters over counted sets; Indonesia carries
 Iran carries 1–10 checked at the door, 1–31, then 1–100, and
 the senior climb to one billion with teen against ten;
 Sierra Leone carries counting in words from the first term,
-labelled counted objects, and printed tables to 50. Other
+labelled counted objects, and printed tables to 50. Jordan carries the whole climb in its own order — 1–10, 11–20, 1–100, the ordinals first–thirty-first, and the big numbers to a million; Other
 finished
 countries join as their books are read (see READING-QUEUE.md).
 

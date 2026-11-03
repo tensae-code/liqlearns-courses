@@ -1,6 +1,6 @@
 # Sources — Verbs
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan
 
 Every part traces to its book and page.
 
@@ -55,6 +55,15 @@ Education, Science and Technology. Filed in
 english/books/sierra-leone.md (Primary 4 Term 1 section,
 FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 10:** Jordan Team Together, Grade 3: Pupil's Book, Semester 1 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 3 Pupil's Book Semester 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 11:** Jordan Team Together, Grade 6: Pupil's Book, Semester 1 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 6 Pupil's Book Semester 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 12:** Jordan High Note, Grade 10: Student's Book, Semester 1 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 10 Student's Book Semester 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The formal definition in words: "Verb: A verb is a word that expresses an action." — in the same box that defines noun and pronoun and names the three "parts of speech" | Bangladesh, English for Today Class 3, "Joyful school time 2," GRAMMAR FOCUS box, pp.68–71 |
@@ -73,9 +82,12 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 | The verb taught as a word kind in its own right: action verbs against state verbs, and simple against continuous forms (state verbs normally simple — don't like, needed, want, didn't remember as the corrected choices) | Iran, Vision 1 (Grade 10), Lesson 3, Writing section, pp.91–93 |
 | Action verbs picked out of a real passage — selecting the action verbs from the story "My Mother and Her Motorbike," the same passage that serves the noun and pronoun lessons beside it | Sierra Leone, Primary 4 Term 1, Lesson 19 "Reading: Verbs" (PDF p.44) |
 | The two verb families named a term later: lexical/main verbs identified and used, then auxiliary/helping verbs through sentence frames | Sierra Leone, Primary 4 Term 1, Lessons 57 and 59 (PDF pp.120, 124) |
+| The he/she rule in work: third-person present simple — "He/She plays (video games); He/She doesn't watch TV; Does he do karate on Saturday?" | Jordan, Grade 3 Pupil's Book Semester 1, Unit 3 "The activity centre," pp.24–31 |
+| State verbs named as their own set inside the present simple / present continuous contrast — prefer, sound, know (Lesson 6 of the unit) | Jordan, Grade 6 Pupil's Book Semester 1, Unit 1 "Free-time fun," pp.8–17 |
+| The verb taught as a word kind in its own right: state and action verbs set against each other inside the Present Simple and Continuous lesson | Jordan, Grade 10 Student's Book Semester 1, Unit 1 "Looking good," Lesson 1A, pp.4–5 |
 
-**Acceptance count: taught in 9 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone).**
+**Acceptance count: taught in 10 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan).**
 Bangladesh carries the formal definition;
 Libya the shortest one; Ghana the test and the smallest
 sentence shape; Egypt the review work and the he/she/it -s rule;
@@ -87,5 +99,5 @@ against state; Sierra Leone carries action verbs picked out of
 a passage, and the main/helping split.
 The tenses themselves are a different thing and are NOT sourced
 here — they live at the Sentence stage (Level 3, Unit 3 "Now,
-Before, Later"). Other closed countries join as their books
+Before, Later"). Jordan carries the third-person plays/doesn't work in Grade 3, and the action against state split twice — state verbs named in Grade 6, and state and action verbs set against each other in Grade 10; Other closed countries join as their books
 are read (see READING-QUEUE.md).

@@ -1,6 +1,6 @@
 # Sources for this lesson — Blends
 
-countries: Egypt, China, Iran
+countries: Egypt, China, Iran, Jordan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -21,14 +21,23 @@ pictures).
 | Opening blends **gr / br** on one Let's spell page, same shape | China — English (PEP) Grade 5 Volume 2, Unit 2, printed p.16 |
 | Review stock: a grouping task sorting the blends **cl, pl, br, fr** with the digraphs | China — English (PEP) Grade 6 Volume 2, Recycle, printed p.49 |
 | Opening blends inside the Grade 8 spelling sets, one lesson at a time: **fr, sp, br** · **st** · **pl, sw** · **fl, tr** — st- said with no /e/ before it (study), pl- said with no /e/ between the letters (play), sw- in swimming | Iran — English for Schools, Prospect 2 (Grade 8), Lessons 1, 2, 3 and 6, printed pp.12–17, 21, 29 and 48–53; the whole run checked at Review 3, printed pp.60–63 |
+| Opening blends **pl / bl** on one phonics lesson — play, plane, plum, plug; blue, blond, black, block | Jordan — Team Together Grade 3 Pupil's Book, Semester 1, Unit 1, printed pp.8–15 |
+| Opening blends **dr / tr / br** on one phonics lesson — dress, drum, drive, drop; trainers, tree, train, trip; bread, brush, brain | Jordan — Team Together Grade 3 Pupil's Book, Semester 1, Unit 2, printed pp.16–23 |
+| Opening blends **sk / sw / st** on one phonics lesson — skateboard, skirt, skate, skip; swim, swing, sweet; star, stop, step, stand | Jordan — Team Together Grade 3 Pupil's Book, Semester 1, Unit 3, printed pp.24–31 |
+| Opening blends **cl / fl / sl** on one phonics lesson — clean, cliff; flag, flip flop; sleep, slug | Jordan — Team Together Grade 3 Pupil's Book, Semester 2, Unit 6, printed pp.16–23 |
+| Opening blends **cr / fr / gr** on one phonics lesson — crab; frog; green (the Activity Book adds grapes, Friday, grey, crocodile, fruit for fr/gr) | Jordan — Team Together Grade 3 Pupil's Book, Semester 2, Unit 8, printed pp.32–39 |
+| Three-letter opening sounds **str / spr / scr** in the Grade 7 phonics line, tabulated in the semester's Scope and sequence | Jordan — Team Together Grade 7 Teacher's Book, Semester 1, Scope and sequence, TB pp.2–3 |
 
-**Acceptance count: taught in 3 countries (Egypt, China, Iran).**
+**Acceptance count: taught in 4 countries (Egypt, China, Iran, Jordan).**
 China joins with blends taught two at a time on Let's spell
 pages in Grade 5 (cl/pl, gr/br) and sorted again in the
 end-of-primary grouping review (Grade 6 Volume 2). Iran joins
 with blends carried inside its Grade 8 spelling sets — eight
 opening blends across four lessons, each taught by how it is
 said (no added /e/), and checked with the digraphs at Review 3.
+Jordan joins with blends as the whole Grade 3 phonics strand —
+fourteen opening blends across five unit-closing phonics
+lessons — and the three-letter str/spr/scr in Grade 7.
 Counts grow as other closed countries' books are read.
 
 ### Egypt — Primary 3 Term 1 (read 2026-10-25) — three-letter blends
@@ -111,3 +120,24 @@ the run (one word each for th, ph, que, wh, fl, tr, ing, ow,
 ou). Iran's blends are never a lesson of their own — they are
 the consonant half of a spelling set whose other half is the
 digraphs filed in phonics/two-letter-sounds.
+
+**Jordan added 2026-11-03** — three books stock this lesson:
+**Books:** *Jordan Team Together, Grade 3: Pupil's Book,
+Semester 1* (second edition, revised and updated, 2025, ISBN
+978-9923-41-911-3) and *Pupil's Book, Semester 2* (first
+edition (trial) 2024, ISBN 978-9923-41-734-8); *Grade 7:
+Teacher's Book, Semester 1* (Scope and sequence, TB pp.2–3)
+— Jordan, National Center for Curriculum Development
+(NCCD), Amman, from Pearson Education Ltd / York Press Ltd
+originals. All filed in english/books/jordan.md (Jordan —
+FULLY READ + CITATION CHECK PASSED 2026-11-03). The country
+file states the shift in one line: Grade 3's "phonics spine
+shifts from vowel digraphs (Grade 2) to consonant blends" —
+pl/bl in Unit 1, dr/tr/br in Unit 2, sk/sw/st in Unit 3 of
+Semester 1, then cl/fl/sl (Unit 6) and cr/fr/gr (Unit 8) in
+Semester 2, each set the unit's closing phonics lesson and
+each worked again in the Activity Book. Grade 7's Scope and
+sequence adds the three-letter opening sounds str/spr/scr
+beside tch and hard/soft c. (Unit 4's wh in Grade 3 Semester
+1 is a digraph, not a blend, and is filed in
+phonics/two-letter-sounds.)

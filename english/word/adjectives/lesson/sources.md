@@ -1,6 +1,6 @@
 # Sources — Adjectives
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan
 
 Every part traces to its book and page.
 
@@ -94,6 +94,18 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 in english/books/sierra-leone.md (Primary 2 Term 1 section,
 FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 17:** Jordan Team Together, Grade 2: Pupil's Book, Semester 1 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 2 Pupil's Book Semester 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 18:** Jordan Team Together, Grade 2: Pupil's Book, Semester 2 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 2 Pupil's Book Semester 2 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 19:** Jordan Team Together, Grade 3: Pupil's Book, Semester 2 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 3 Pupil's Book Semester 2 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 20:** Jordan Team Together, Grade 5: Pupil's Book, Semester 1 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition as questions, and the rule that finds adjectives: "Adjectives tell us about the things – are they big, small, happy, sad? • Adjectives and nouns go together." | Libya, Grade 5 Pupils Book, Unit 6, "Let's check!" box |
@@ -119,9 +131,13 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 | Describing a best friend with adjectives (tall, short, honest, caring…) and saying what you like about them; a partner lesson describing yourself — complexion, eyes and height | Sierra Leone, Primary 3 Term 1, "Describe Your Best Friend" (PDF p.13) and "Describing Self with Adjectives" (PDF pp.17–18) |
 | Adjectives describing people and places as a named lesson — describing people, places, animals and objects | Sierra Leone, Primary 3 Term 1, Lesson 22 (PDF p.51) |
 | Colour words as a describing set: name and use colour words to describe | Sierra Leone, Primary 2 Term 1, Lesson 22 |
+| Opinion adjectives as a named set — fantastic, cool, great, noisy, funny, scary — asked about with "Is it (funny)? Yes, it is. / No, it isn't." | Jordan, Grade 2 Pupil's Book Semester 1, Atomic's Learning Club, Language booster 1, pp.40–41 |
+| Describing pairs on animals: big/small, long/short — "It's got (big teeth)" | Jordan, Grade 2 Pupil's Book Semester 2, Unit 5 "Help the animals!", pp.8–15 |
+| A describing set of ten, paired as opposites in the workbook work — dirty/clean, old/new, plain/fancy, hard/soft, wet/dry — used before nouns: "I haven't got (a new book); He hasn't got (a soft ball)" | Jordan, Grade 3 Pupil's Book Semester 2, Unit 6 "Out in the forest," pp.16–23 |
+| Character adjectives as a whole set of twelve: shy, confident, lazy, hard-working, friendly, cheerful, kind, quiet, polite, rude, tidy, untidy | Jordan, Grade 5 Pupil's Book Semester 1, Unit 1 "Talent show," pp.8–17 |
 
-**Acceptance count: taught in 9 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone).**
+**Acceptance count: taught in 10 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan).**
 Libya carries the definition twice and the
 pairs inside a story; Bangladesh carries the pictured pairs;
 Egypt carries the fullest statement of what adjectives tell;
@@ -134,6 +150,6 @@ vegetables described by colour, shape and taste; Iran carries
 the adjective as a named word kind with its kinds and places,
 and the first describing pairs on people in Prospect 1;
 Sierra Leone carries describing a friend and yourself, and
-colour words as a describing set. Other
+colour words as a describing set. Jordan carries opinion adjectives in its Grade 2 Learning Club, the size pairs on animals, a ten-word opposite set used before nouns, and a twelve-word character set; Other
 closed countries join as their books are read (see
 READING-QUEUE.md).

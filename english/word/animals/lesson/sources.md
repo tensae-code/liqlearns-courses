@@ -1,6 +1,6 @@
 # Sources — Animals
 
-countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone
+countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan
 
 Every part traces to its book and page.
 
@@ -78,6 +78,18 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 in english/books/sierra-leone.md (Primary 2 Term 3 section,
 FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 14:** Jordan Team Together, Grade 1: Pupil's Book, Semester 2 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 1 Pupil's Book Semester 2 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 15:** Jordan Team Together, Grade 2: Pupil's Book, Semester 2 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 2 Pupil's Book Semester 2 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 16:** Jordan Team Together, Grade 3: Pupil's Book, Semester 2 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 3 Pupil's Book Semester 2 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 17:** Jordan Team Together, Grade 5: Pupil's Book, Semester 2 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 5 Pupil's Book Semester 2 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The farm dialog (Noor and Ziad): "Look at the cow!" — "The cow is big." — "The duck is small." — "Do you see the horse?" — "The chicken is small." — "I love farm animals!" | Egypt, Primary 1 Term 1, Unit 5 "On the Farm," Lesson 1, p.85 |
@@ -98,10 +110,14 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 | Endangered animals as a reading: whales, pandas, tigers and Asian elephants surviving only in small numbers, their forest, lake and plain homes destroyed; the Iranian cheetah living only on Iran's plains — with the Persian zebra of Tooran and the Persian lion in the word work before it | Iran, Vision 1 (Grade 10), Lesson 1, New Words pp.20–21; Reading "Endangered Animals," p.22 |
 | Forest animals and where they are, as a Tiny Tale the class co-writes from a printed frame | Sierra Leone, Primary 3 Term 1, Lesson 16 (PDF p.39) |
 | Animals named with their articles as a board set — a lion, an elephant, some zebras, many monkeys — inside the articles/quantity lesson, over the song "Ranger Abdul," a game-park ranger | Sierra Leone, Primary 2 Term 3, Lesson 145 |
+| The wild set for the youngest learners: frog, giraffe, lizard, monkey, snake, spider, tiger, zebra — named in the plural frame "What are these? — They're …" | Jordan, Grade 1 Pupil's Book Semester 2, Unit 7 "They're tigers!", printed pp.22–29 |
+| The pet set with the animals' own parts — cat, duck, fish, hamster, mouse, parrot, rabbit, snake, spider, tortoise; feathers, fur, shell, tail, teeth, wings — described whole: "It's got (big teeth)"; Jordan's own animals in the Culture work — the oryx, the national animal of Jordan, and the striped hyena | Jordan, Grade 2 Pupil's Book Semester 2, Unit 5 "Help the animals!", pp.8–15 |
+| The farm set — chicken, cow, donkey, duck, goat, horse, sheep, bird, bee, turkey — with the farm jobs; and the wild set — monkey, tiger, hippo, giraffe, zebra, elephant, crocodile, penguin, eagle, kangaroo — asked about by what they can do: "Can (penguins) swim? — Yes, they can." | Jordan, Grade 3 Pupil's Book Semester 2, Unit 5 "Fun on the farm," pp.8–15; Unit 8 "Animals are fun!", pp.32–39 |
+| Animals in danger as the senior set: sea animals (dolphin, jellyfish, lobster, octopus, oyster, ray, seahorse, seal, shark, squid, turtle, whale) and land animals (camel, gorilla, koala, lion, panda, parrot, polar bear, rhino), with animal protection in Jordan | Jordan, Grade 5 Pupil's Book Semester 2, Unit 5 "Animals in danger," pp.8–17 |
 
-**Acceptance count: taught in 9 countries (Bangladesh, Egypt,
+**Acceptance count: taught in 10 countries (Bangladesh, Egypt,
 Libya, Palestine, China, Mongolia, Indonesia, Iran,
-Sierra Leone).** Egypt carries the farm four with the first
+Sierra Leone, Jordan).** Egypt carries the farm four with the first
 size pair; Palestine carries the youngest learners' set;
 Bangladesh carries homes and foods as whole sentences; Libya
 carries the wild names inside its letter list; China carries
@@ -111,5 +127,5 @@ photographs and the farm in one whole scene; Indonesia
 carries the zoo set sorted into the five animal classes;
 Iran carries the endangered set and where each survives;
 Sierra Leone carries forest animals and where they are, and
-the article board set. Other finished
+the article board set. Jordan carries the wild eight for the youngest learners, the pet set described by its parts with Jordan's own oryx, the farm and wild sets with can-questions, and the animals-in-danger set; Other finished
 countries join as their books are read (see READING-QUEUE.md).

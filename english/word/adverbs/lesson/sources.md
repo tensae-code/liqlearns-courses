@@ -1,6 +1,6 @@
 # Sources — Adverbs
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan
 
 Every part traces to its book and page.
 
@@ -64,6 +64,15 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 in english/books/sierra-leone.md (Primary 6 Term 2 section,
 FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 12:** Jordan Team Together, Grade 4: Pupil's Book, Semester 1 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 4 Pupil's Book Semester 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 13:** Jordan Team Together, Grade 4: Pupil's Book, Semester 2 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 4 Pupil's Book Semester 2 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 14:** Jordan High Note, Grade 8: Student's Book, Semester 1 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition in one line: "Adverbs say how an action is done. The adverb usually comes after the verb." — plus underlining the adverbs in a dialogue (regularly, carefully…) | Bangladesh, English for Today Class 5, LANGUAGE FOCUS: ADVERBS box, p.27 |
@@ -80,9 +89,12 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 | Adverbs of frequency on a printed 100%–0% ladder (always, usually, often, sometimes, never), with position examples | Iran, Prospect 3 (Grade 9), Lesson 4, See also, p.70 |
 | Changing adjectives to adverbs, then creating adverbs from adjectives — two lessons of their own | Sierra Leone, Primary 4 Term 2, Lessons 119 and 120 (PDF pp.124, 126) |
 | The functions of adverbs stated in the plan's own words — words that tell more about action words (who is always late, who writes carefully) — then the types of adverbs, frequency among them (always, quickly, there) | Sierra Leone, Primary 6 Term 2, Lessons 111 and 112 |
+| Adverbs of frequency as a taught set — always, never, often, sometimes — with the frequency phrases at the weekend, every day, once/twice/three times a week, inside present-simple sentences ("He plays tennis twice a week") | Jordan, Grade 4 Pupil's Book Semester 1, Unit 1 "New school," pp.8–17 |
+| Adverbs of frequency again at secondary level, with Present Simple questions; the Workbook orders the adverbs and drills the "three times a week" phrases | Jordan, Grade 8 Student's Book Semester 1, Unit 1 "The things we do," p.7 (Workbook, Unit 1, Lesson 3B) |
+| Adverbs of manner as a named set built on -ly — badly, carefully, easily, loudly, quickly, quietly, slowly — with well standing in the same set, worked with can/can't | Jordan, Grade 4 Pupil's Book Semester 2, Unit 5 "Hobbies," pp.8–17 |
 
-**Acceptance count: taught in 8 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Indonesia, Iran, Sierra Leone).**
+**Acceptance count: taught in 9 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan).**
 Bangladesh carries the definition and the mime
 game; Egypt carries the making rule (-ly, y → i) and the
 frequency ladder; Libya carries the adjective-to-adverb move
@@ -94,6 +106,6 @@ manner set with its non--ly rebels; Iran carries the adverb
 as a named word kind — manner, the -ly making, the irregulars
 — and a second printed frequency ladder; Sierra Leone carries
 the adjective-to-adverb change as two lessons of its own and
-the function stated plainly. Other
+the function stated plainly. Jordan carries the frequency set twice — Grade 4 with its once/twice/three-times phrases, Grade 8 with ordering work in the Workbook — and the manner set with well among the -ly words; Other
 closed countries join as their books are read (see
 READING-QUEUE.md).

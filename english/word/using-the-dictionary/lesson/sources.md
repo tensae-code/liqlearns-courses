@@ -1,6 +1,6 @@
 # Sources — Using the dictionary
 
-countries: Bangladesh, India, Mongolia, China, Indonesia, Iran, Sierra Leone
+countries: Bangladesh, India, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan
 
 Every part traces to its book and page.
 
@@ -53,6 +53,15 @@ Sierra Leone, MBSSE (Free Quality School Education). Filed
 in english/books/sierra-leone.md (JSS2 Term 1 section,
 FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 10:** Jordan Team Together, Grade 2: Activity Book, Semester 1 (activity book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 2 Activity Book Semester 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 11:** Jordan Team Together, Grade 4: Activity Book, Semester 1 (activity book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 4 Activity Book Semester 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 12:** Jordan Team Together, Grade 6: Activity Book, Semester 1 (activity book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 6 Activity Book Semester 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a dictionary gives — spelling, pronunciation, meaning, word class; examples printed in italics; synonyms and antonyms given; words made by prefixes and suffixes; a verb shown in its simple present tense with past form and past participle — taught on a reproduced dictionary page for 'fit' (fit → fitful, fitment, fitness, fitness centre, fitted, fitter, fitting, fixture) with sentence matching | Bangladesh, English for Today Class 8, Unit Four "Check Your Reference," Lesson 2 "Using a Dictionary," pp.36–38 |
@@ -68,9 +77,12 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 | The reading "How to Use a Dictionary": what a good dictionary gives (spelling, pronunciation, definitions, sentence examples) and seven numbered tips — choose the right dictionary; read the introduction; learn the abbreviations; learn the guide to pronunciation; read the guide words; read the definitions (meaning, pronunciation, part of speech, synonyms, antonyms, origin); look for collocations | Iran, Vision 3 (Grade 12), Lesson 2, Reading, pp.52–53 |
 | Using a dictionary as two lessons of their own in the last primary year — how dictionaries work, then alphabetical-order work continued | Sierra Leone, Primary 6 Term 1, Lessons 47 and 54 (Lesson 47 is at PDF p.101 of the plans) |
 | Alphabetical order worked step by step — the example word "citizen" found between "ch" and "ci" words — then dictionary against context clues as the two ways to settle a word | Sierra Leone, JSS2 Term 1, Lessons 49 and 50 |
+| A Picture Dictionary at the back of the book, organised by unit — Numbers and colours; Inside and outside toys; Classroom objects; Body parts and body movement; Family and face; a Festivals word bank — picture-labelled word lists for the whole semester | Jordan, Grade 2 Activity Book Semester 1, Picture dictionary, pp.46–51 |
+| The book's own finding tool at the back: a Wordlist of every unit's vocabulary with child-friendly definitions, the word classes marked inside the entries ("milkshake (noun) – a drink made with milk…"; "sometimes (adverb) – happening occasionally…") | Jordan, Grade 4 Activity Book Semester 1, Wordlist, pp.48–50 |
+| The graded Wordlist carried higher: alphabetical-within-unit definitions for the whole semester, in the Activity Book (the Pupil's Book carries no wordlist of its own) | Jordan, Grade 6 Activity Book Semester 1, Wordlist, pp.50–55 |
 
-**Acceptance count: taught in 7 countries (Bangladesh, India,
-Mongolia, China, Indonesia, Iran, Sierra Leone).** Bangladesh
+**Acceptance count: taught in 8 countries (Bangladesh, India,
+Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan).** Bangladesh
 carries the full skill — order, guide
 words, the entry, many meanings; India carries the first
 form, a picture dictionary in every year's book; Mongolia
@@ -82,6 +94,6 @@ at the back of its Grade 4 book — glossary and index;
 Iran carries a whole senior lesson on choosing and using a
 dictionary, guide words among its seven tips; Sierra Leone
 carries the skill arriving in the last primary year and
-alphabetical order worked step by step in JSS2. Other
+alphabetical order worked step by step in JSS2. Jordan carries the picture dictionary at the back of its early books, and the defined Wordlist — word classes marked, alphabetical within each unit — as the Activity Books' own finding tool; Other
 closed countries join as their books are read (see
 READING-QUEUE.md).

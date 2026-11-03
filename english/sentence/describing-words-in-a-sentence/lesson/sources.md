@@ -1,6 +1,6 @@
 # Sources — Describing words in a sentence
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan
 
 Every part traces to its book and page.
 
@@ -69,6 +69,27 @@ Term 1 — Sierra Leone, Ministry of Basic and Senior
 Secondary Education. Filed in english/books/sierra-leone.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 13:** Jordan Team Together, Grade 3: Pupil's Book,
+Semester 2
+(student book) — Jordan, National Center for Curriculum
+Development (NCCD), Amman (Pearson Education / York
+Press originals). Filed in english/books/jordan.md (FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
+**Book 14:** Jordan Team Together, Grade 4: Pupil's Book,
+Semester 1
+(student book) — Jordan, National Center for Curriculum
+Development (NCCD), Amman (Pearson Education / York
+Press originals). Filed in english/books/jordan.md (FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
+**Book 15:** Jordan Team Together, Grade 6: Pupil's Book,
+Semester 1
+(student book) — Jordan, National Center for Curriculum
+Development (NCCD), Amman (Pearson Education / York
+Press originals). Filed in english/books/jordan.md (FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The eight pictured adjective + noun pairs — a fresh mango, a bad mango, a clean shirt, a dirty shirt, a new bike, an old bike, a happy cat, an angry cat — description seated before the noun in every pair | Bangladesh, English for Today Class 4, Unit 22 "Tune up!", pp.44–45 |
@@ -86,10 +107,14 @@ Secondary Education. Filed in english/books/sierra-leone.md
 | The adjective as a word class in the writing strand: kinds by quality/opinion, size, age, colour, nationality, material; the two homes stated — before a noun, after be — with the comparison spelling table (hot–hotter–hottest, easy–easier–easiest) | Iran, Vision 1, Lesson 2, Writing: the adjective, pp.62–67 |
 | Adjectives in their two sentence homes, stated as the grammar point: adjectives modify nouns and pronouns, before the noun or after "is" (a red bicycle / the bicycle is red) — then descriptions built with strings of adjectives, and adjectives of quality sorted by shape, size, age, colour and taste | Sierra Leone, JSS 1 Term 2 Handbook, Lessons 79–80 and Lessons 82–83 |
 | Comparing adjectives and adverbs as a taught pair inside the JSS 3 comparison work | Sierra Leone, JSS 3 Term 1 Handbook, Lessons 43–44 |
+| Describing words carried inside sentences — the adjective set (dirty, clean, old, new, plain, fancy, hard, soft, wet, dry) worked in have-got sentences over adjective + noun: "I haven't got (a new book)"; "He/She hasn't got (a soft ball)" | Jordan, Team Together Grade 3, Pupil's Book, Semester 2, Unit 6, pp.16–23 |
+| Comparing as a whole taught system in one unit — short adjectives ("A mountain is higher than a hill"; "This is the deepest lake in Jordan") and long adjectives ("Swimming is more exciting than walking"; "Amman is the most exciting city in the world") | Jordan, Team Together Grade 4, Pupil's Book, Semester 1, Unit 3, pp.28–37 |
+| Comparing with adverbs — comparative adverbs (more quickly than, better) | Jordan, Team Together Grade 6, Pupil's Book, Semester 1, Unit 2, pp.18–27 |
+| The sense verbs named as a grammar point — sense verbs (look, smell, taste, sound, feel), the verbs description lands after | Jordan, Team Together Grade 6, Pupil's Book, Semester 1, Unit 4, pp.42–51 |
 
-**Acceptance count: taught in 8 countries (Bangladesh,
+**Acceptance count: taught in 9 countries (Bangladesh,
 Egypt, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone).** Bangladesh pictures the before-home in
+Sierra Leone, Jordan).** Bangladesh pictures the before-home in
 eight pairs; Mongolia names the describing law, writes the
 sense-verb home, and posts the comparing border — and its
 Grade 5 picture book now adds describing stock in pictures
@@ -103,8 +128,11 @@ Grade 3 and comparing in print at Grade 11; Iran places
 the adjective in both its homes and tables comparison
 with its irregular set; Sierra Leone states the
 before-noun / after-is homes, sorts quality adjectives,
-and compares adjectives and adverbs in JSS 3.
-Other closed countries join as their books are read
+and compares adjectives and adverbs in JSS 3;
+Jordan seats adjectives inside have-got sentences in
+Grade 3, builds its comparatives system in Grade 4,
+and adds comparative adverbs and the sense verbs in
+Grade 6. Other closed countries join as their books are read
 (see READING-QUEUE.md).
 
 **Laos Grade 4 added 2026-10-27** — *English for Lao Primary

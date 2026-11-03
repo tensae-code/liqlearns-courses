@@ -1,6 +1,6 @@
 # Sources — Conditionals
 
-countries: Egypt, Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone
+countries: Egypt, Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan
 
 Every part traces to its book and page.
 
@@ -52,6 +52,26 @@ Education. Filed in english/books/sierra-leone.md
 Education. Filed in english/books/sierra-leone.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 10:** Jordan Team Together, Grade 6, Pupil's Book,
+Semester 2 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in english/books/jordan.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 11:** Jordan High Note, Grade 10, Student's Book,
+Semester 2 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in english/books/jordan.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 12:** Jordan High Note, Grade 11, Student's Book,
+Semester 2 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in english/books/jordan.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 13:** Jordan High Note, Grade 12, Student's Book,
+Semester 1 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in english/books/jordan.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The zero conditional | Libya, Grade 9 Course Book, Unit 7 (p.79, as filed in libya.md) |
@@ -76,9 +96,15 @@ Education. Filed in english/books/sierra-leone.md
 | The mixed conditional: past hypothetical events and their present consequences — a different present, where the third gives a different past | Sierra Leone, SSS3 Term 1, Lesson 33, p.78 |
 | All five types in one review table — use, if-clause form and main-clause form for zero, first, second, third and mixed | Sierra Leone, SSS3 Term 1, Lesson 41, p.96 |
 | The JSS run of the same ladder: the four main conditional types and when each is used, then conditionals for unlikely past events and for what could or should have happened but did not, with BECE-style interpretation questions | Sierra Leone, JSS3 Term 3, Lessons 108–109, pp.17 and 19, and Lessons 121–122, pp.46 and 48 |
+| The first conditional as the animals unit's exit grammar, restated in the book's Grammar Reference | Jordan, Grade 6 Pupil's Book, Semester 2, Unit 8 "Awesome animals" (unit pp.42–51); Grammar Reference, pp.58–59 |
+| The zero conditional, taught with alternatives to *if* | Jordan, Grade 10 Student's Book, Semester 2, Unit 6, Lesson 4A, p.9 |
+| The first and second conditionals taught together as the ethics unit's opening grammar | Jordan, Grade 10 Student's Book, Semester 2, Unit 6, Lesson 1A, pp.4–5 |
+| The third conditional as the nature unit's grammar, with *I wish / If only* for regrets in the same unit | Jordan, Grade 10 Student's Book, Semester 2, Unit 9, Lesson 1A, pp.38–39, and Lesson 4A, p.42 |
+| Conditionals reviewed and mixed conditionals taught — the past condition carrying a present result — as the highs-and-lows unit's grammar | Jordan, Grade 11 Student's Book, Semester 2, Unit 9, Lesson 1A, pp.38–39 |
+| Mixed conditionals again inside Grade 12's advanced-structures lesson, and the whole 0–3 system recapped in the book's Grammar Reference | Jordan, Grade 12 Student's Book, Semester 1, Unit 4, Lesson 3A, pp.40–41; Grammar Reference, pp.67–71 |
 
-**Acceptance count: taught in 7 countries (Egypt,
-Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone).** Libya names the zero and first at
+**Acceptance count: taught in 8 countries (Egypt,
+Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan).** Libya names the zero and first at
 Grade 9 and completes the set in its reference;
 Mongolia tables zero and first, teaches the first with
 unless, and reaches the second at Grade 10; Egypt
@@ -92,7 +118,11 @@ arrives — see the series verdict in iran.md); Sierra
 Leone runs the widest ladder of all: zero and first at
 SSS2, second, third and mixed at SSS3, all five in one
 review table, with the four-type run already worked at
-JSS3. Other closed countries join as their books
+JSS3; Jordan meets the first conditional at Grade 6,
+teaches zero, first and second together and the third
+(with wish/if only regrets) at Grade 10, adds mixed
+conditionals at Grade 11, and recaps the whole 0–3
+system in Grade 12's Grammar Reference. Other closed countries join as their books
 are read (see READING-QUEUE.md).
 
 **Laos Grade 9 added 2026-10-27** — *English for Secondary

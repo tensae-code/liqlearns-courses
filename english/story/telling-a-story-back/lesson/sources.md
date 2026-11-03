@@ -1,6 +1,6 @@
 # Sources — Telling a story back
 
-countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone
+countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan
 
 Every part traces to its book and page.
 
@@ -45,6 +45,16 @@ Technology. Filed in english/books/sierra-leone.md
 Technology. Filed in english/books/sierra-leone.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 10:** Jordan Team Together, Grade 4, Pupil's Book,
+Semester 2 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in english/books/jordan.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 11:** Jordan Team Together, Grade 6, Pupil's Book,
+Semester 2 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in english/books/jordan.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Retelling with a word box" as a set lesson form; the form repeated across the classes as "word-box cloze retelling" — the load-bearing words given, the sentences the learner's own | Bangladesh, English for Today (as filed) |
@@ -59,9 +69,11 @@ Technology. Filed in english/books/sierra-leone.md
 | Group retelling from a printed script: the Ugly Duckling chapter's objectives name retell and rewrite, and its first unit ends in group retelling from the script and a storytelling performance | Indonesia, Grade 8, Chapter 2, Objectives, printed p.69, and Unit 1, pp.70–85 |
 | Retelling with a focus on main points: the Teteh story's main events identified, then retold holding the main points — the term then asks the plot back (The Blunt Knife) and whole passages back | Sierra Leone, Primary 4 Term 1, Lessons 1–2 (PDF pp.8 and 10, as filed), Lesson 30 (PDF p.66, as filed) and Lesson 55 (PDF p.116, as filed) |
 | Retelling a Story as a sequenced lesson in its own right: a story carried by a set of past-tense verbs, sequenced by the pupils and retold | Sierra Leone, Primary 5 Term 2, Lesson 106 (as filed) |
+| Retelling the story named as the unit's own function: the Our town story — the children discover their town had a river by the square 150 years ago — told back, with recommendations on it | Jordan, Grade 4 Pupil's Book, Semester 2, Unit 6 "Our town" (unit pp.18–27) |
+| Rewriting a familiar story set as the unit project — the known tale told again in the pupil's own version, in the unit whose Book Club reads the platypus folk tale | Jordan, Grade 6 Pupil's Book, Semester 2, Unit 8 "Awesome animals" (unit pp.42–51) |
 
-**Acceptance count: taught in 6 countries (Bangladesh,
-Ghana, China, Mongolia, Indonesia, Sierra Leone).** Bangladesh equips the retelling (word box,
+**Acceptance count: taught in 7 countries (Bangladesh,
+Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan).** Bangladesh equips the retelling (word box,
 first-person, comparison); Ghana frames it (chain, Herring
 Bone, sequence order); China equips it again (the fill-in
 retell, the phone retell, the sorted diary recount);
@@ -71,5 +83,8 @@ retell-and-rewrite in its chapter objectives and performs
 the telling-back (a song retelling, a performed sequel
 narration, group retelling from a printed script); Sierra
 Leone drills retelling with a focus on main points, then
-the plot back, then whole passages back. Other closed countries join as
+the plot back, then whole passages back; Jordan names
+retelling the story as a Grade 4 unit's function and
+sets rewriting a familiar story as a Grade 6 project.
+Other closed countries join as
 their books are read (see READING-QUEUE.md).

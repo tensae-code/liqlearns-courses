@@ -1,6 +1,6 @@
 # Sources for this lesson — Introducing a friend
 
-countries: Egypt, Libya, China, Mongolia, Iran, Indonesia
+countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -20,12 +20,14 @@ disk 2026-10-25: %PDF, 190 pp).
 | Introducing others as a named function: "This is my friend / classmate / English teacher …" with the nice-to-meet-you pair, over the new classmate's arrival — "This is Ali" · "Nice to meet you (too)" · "Welcome to our school" | Iran — Prospect 1 (Grade 7), Lesson 2 "My Classmates," printed pp.10–13 |
 | Introducing a relative or friend to a classmate as a role play, with a third pupil as a guest from another country; and the origin frame that goes with it: "Where are you from? — (I'm/We're from) Iran" | Iran — Prospect 2 (Grade 8), Lesson 1 "My Nationality," printed pp.12–17 |
 | Introducing yourself and others as the chapter's stated objective, worked through comic-strip introductions | Indonesia — English for Nusantara, Grade 7, Chapter 1 "About Me," Unit 1, printed pp.15–27 (objectives printed p.14) |
+| "Who's this? — This is (my) …" — introducing a person in the first unit, "Family and friends"; a semester later the Welcome re-runs the frame as the characters re-introduce themselves by name ("This is my …") | Jordan — Team Together Grade 1 Pupil's Books: Semester 1, Unit 1, printed pp.6–13; Semester 2, Welcome, printed p.4 |
+| Introducing family and friends as a named English in action function — "Who's this? It's (my uncle)" over Laila's family photo, with "His name's… / Her name's…" beside it; the Activity Book works the "Introducing family and friends" dialogue | Jordan — Team Together Grade 2: Pupil's Book, Semester 1, Unit 4, printed pp.32–39; Activity Book, Semester 1, Unit 4, printed pp.30–37 |
 
 The same dialog also carries the age exchange and the toy-fish
 talk — those parts are filed in their own places (age: english/age/
 how-old-are-you), not here.
 
-**Acceptance count: taught in 6 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia).**
+**Acceptance count: taught in 7 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan).**
 Egypt carries introducing the family — "This is my father /
 mother / sister …" with the "Who's this?" exchange, and a year
 deeper the whole family lineup with my / his / her on family
@@ -36,7 +38,10 @@ Iran and Indonesia joined 2026-11-03: Iran teaches the
 "This is my friend …" frame with its nice-to-meet-you answer in
 its second lesson, and the introduce-a-friend role play a year
 later; Indonesia names introducing others as a chapter
-objective and works it through comic strips.
+objective and works it through comic strips. Jordan joined
+2026-11-03: it teaches "Who's this? — This is (my) …" in its
+Grade 1 first unit and names "Introducing family and friends"
+as a taught function in Grade 2.
 Counts grow as other closed countries' books are read.
 (Count corrected 2026-10-29 to match this file's own sections —
 the Egypt sections below were already in the file but missing
@@ -132,3 +137,26 @@ books meet new people inside their stories — Bara meets the
 twins at Pipit's house (Grade 3, Chapter 1, printed pp.10–11)
 — but the taught introduction frame is the Grade 7 chapter's,
 and only that is counted here.
+
+**Jordan added 2026-11-03** — four books stock this lesson:
+**Books:** *Jordan Team Together, Grade 1: Pupil's Book,
+Semester 1* (second edition, revised and updated, 2025, ISBN
+978-9923-41-908-3) and *Pupil's Book, Semester 2* (first
+edition (trial) 2024, ISBN 978-9923-41-727-0); *Grade 2:
+Pupil's Book, Semester 1* (second edition 2026, ISBN
+978-9923-66-046-1) and *Activity Book, Semester 1* — Jordan,
+National Center for Curriculum Development (NCCD), Amman,
+from Pearson Education Ltd / York Press Ltd originals. All
+filed in english/books/jordan.md (Jordan — FULLY READ +
+CITATION CHECK PASSED 2026-11-03). Jordan's introduction
+frame is the family one, like Egypt's: Grade 1, Unit 1
+(printed pp.6–13) teaches "Who's this? — This is (my) …"
+as one of its three opening frames, and the Semester 2
+Welcome (printed p.4) recycles it as the characters
+re-introduce themselves by name. Grade 2, Unit 4, "Meet my
+family" (printed pp.32–39), then names the move outright —
+its English in action strand is "Introducing family and
+friends", worked over Laila's family photo with "Who's
+this? It's (my uncle)" and the baby cousin Talal's naming;
+the Activity Book (Unit 4, printed pp.30–37) practises the
+same "Introducing family and friends" dialogue.

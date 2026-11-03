@@ -1,6 +1,6 @@
 # Sources — Past actions
 
-countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone
+countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan
 
 Every part traces to its book and page.
 
@@ -48,6 +48,27 @@ Term 1 — Sierra Leone, Ministry of Basic and Senior
 Secondary Education. Filed in english/books/sierra-leone.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 10:** Jordan Team Together, Grade 4: Pupil's Book,
+Semester 2
+(student book) — Jordan, National Center for Curriculum
+Development (NCCD), Amman (Pearson Education / York
+Press originals). Filed in english/books/jordan.md (FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
+**Book 11:** Jordan Team Together, Grade 5: Pupil's Book,
+Semester 2
+(student book) — Jordan, National Center for Curriculum
+Development (NCCD), Amman (Pearson Education / York
+Press originals). Filed in english/books/jordan.md (FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
+**Book 12:** Jordan High Note, Grade 8: Student's Book,
+Semester 1
+(student book) — Jordan, National Center for Curriculum
+Development (NCCD), Amman (Pearson Education / York
+Press originals). Filed in english/books/jordan.md (FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | PAST SIMPLE box — subject + verb-ed + rest, positive and negative — and the "Do you remember these verbs?" matching list of irregular pasts (went, had, took, came, saw, gave, ate, drank, could, was/were…) | Mongolia, English VI, Unit 6 "School Trips," Lesson 2, p.64 (box and list as filed) |
@@ -63,9 +84,15 @@ Secondary Education. Filed in english/books/sierra-leone.md
 | Irregular simple past on the same frame (worked verb speak – spoke), with an alphabetical base-form / past-simple table of about 70 verbs closing the book | Iran, Prospect 3, Lesson 6 "Health and Injuries," Grammar, pp.101–102; Irregular Verbs, printed pp.131–133 |
 | The simple past as its own lesson pair: completed past actions, regular -ed plus a table of common irregulars (leave–left, meet–met, do–did, see–saw, run–ran, was/were), then past time markers — yesterday, last year, three months ago — placed at the start or end of a sentence | Sierra Leone, JSS 1 Term 1 Handbook, Lessons 31–32 |
 | The past rebuilt for the senior exam, regular first: -ed formation, then irregular forms that do not take -ed, in statements, questions and negatives | Sierra Leone, SSS 1 Term 1 Handbook, Lesson 19, printed p.34, and Lesson 20, printed p.37 |
+| The past of be, with there was/there were — "She was at the zoo last week"; "Was there a restaurant? Yes, there was. / No, there wasn't" | Jordan, Team Together Grade 4, Pupil's Book, Semester 2, Unit 6, pp.18–27 |
+| The regular past staged first of the verb pasts — "They didn't use plastic"; "Did you visit the museum? Yes, I did. / No, I didn't" — with the -ed endings sounded /d/, /t/, /ɪd/ | Jordan, Team Together Grade 4, Pupil's Book, Semester 2, Unit 7, pp.28–37 |
+| The irregular past staged second — "I wore this dress at our wedding"; "We didn't see the ring again"; "Did you get any presents?" | Jordan, Team Together Grade 4, Pupil's Book, Semester 2, Unit 8, pp.38–47 |
+| The past continuous, and the two pasts set against each other — "The shark was looking for small sea animals"; "I was watching the koalas when the lion escaped" | Jordan, Team Together Grade 5, Pupil's Book, Semester 2, Unit 5, pp.8–17 |
+| The simple past re-taught whole at secondary level — Past Simple of be and can, and Past Simple affirmative of regular and irregular verbs (pp.48–49), then Past Simple negative and question forms (p.52) | Jordan, High Note Grade 8, Student's Book, Semester 1, Unit 5, pp.48–57 |
 
-**Acceptance count: taught in 8 countries (Bolivia, Ghana,
-Mongolia, Laos, China, Indonesia, Iran, Sierra Leone).** Mongolia boxes the -ed frame and drills the
+**Acceptance count: taught in 9 countries (Bolivia, Ghana,
+Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
+Jordan).** Mongolia boxes the -ed frame and drills the
 movers by name; Bolivia states the whole paradigm including
 the Did/didn't law; Ghana seats the simple past where
 stories live; China adds the past staged regular first,
@@ -77,7 +104,11 @@ Grade 8; Iran runs regular then irregular past on the
 same affirmative/negative/question frame, with a 70-verb
 table behind it; Sierra Leone pairs the -ed lesson with
 its irregular table and time markers, then rebuilds the
-past regular-first for the senior exam. Other closed countries join as their books
+past regular-first for the senior exam; Jordan
+stages the past in Grade 4 — be first, then regular,
+then irregular — sets the past continuous against it
+in Grade 5, and re-teaches the simple past in Grade 8.
+Other closed countries join as their books
 are read (see READING-QUEUE.md).
 
 **Laos Grade 6 added 2026-10-27** — *English for Secondary

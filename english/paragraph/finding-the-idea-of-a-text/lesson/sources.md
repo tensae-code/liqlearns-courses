@@ -1,6 +1,6 @@
 # Sources — Finding the idea of a text
 
-countries: Bangladesh, Ghana, China, Indonesia, Iran, Sierra Leone
+countries: Bangladesh, Ghana, China, Indonesia, Iran, Sierra Leone, Jordan
 
 Every part traces to its book and page.
 
@@ -63,6 +63,16 @@ Technology. Filed in english/books/sierra-leone.md
 Education. Filed in english/books/sierra-leone.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 13:** Jordan High Note, Grade 8, Student's Book,
+Semester 1 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in english/books/jordan.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 14:** Jordan High Note, Grade 10, Student's Book,
+Semester 2 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in english/books/jordan.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Paragraph Development — the four modes named (expository, narrative, description, argument); "main idea vs supporting details; cohesive devices" — the weighing itself, named as the reading skill | Ghana, NaCCA JHS curriculum, Strand (Paragraph Development, as filed) |
@@ -81,9 +91,11 @@ Education. Filed in english/books/sierra-leone.md
 | Summarising as this lesson's third step, taught whole: summarising do's and don'ts (own words, main idea, important information only; never copy or merely re-order) | Sierra Leone, SSS3 Term 1, Lesson 42, p.99 |
 | Paraphrasing a nonfiction text: pupils find the main ideas of the global-warming text, then rewrite the ideas in their own words | Sierra Leone, Primary 6 Term 2, Lessons 117–118 (as filed) |
 | Main Points and Details as a named lesson: identifying the main idea and the supporting details of a non-fiction passage (an information text and a drawing of an elephant) | Sierra Leone, Primary 4 Term 2, Lesson 107 (PDF p.100, as filed) |
+| The main idea named outright as the reading strategy: Active Reading — understanding the main idea, worked on the "Stereotypes! Are they true?" reading | Jordan, Grade 8 Student's Book, Semester 1, Unit 1, Reading, pp.8–9 |
+| Summarising named as the Active Reading strategy of the nature unit — the reading carried down to what it says, beside the article the pupil then writes from it | Jordan, Grade 10 Student's Book, Semester 2, Unit 9 (unit pp.38–47), Active Reading: summarising texts |
 
-**Acceptance count: taught in 6 countries (Bangladesh,
-Ghana, China, Indonesia, Iran, Sierra Leone).** Ghana names the weighing (main idea vs supporting
+**Acceptance count: taught in 7 countries (Bangladesh,
+Ghana, China, Indonesia, Iran, Sierra Leone, Jordan).** Ghana names the weighing (main idea vs supporting
 details) and the own-words law; Bangladesh sets the choice
 as a task; China hunts the idea by title-choice and by the
 one question a whole text answers, and names the
@@ -97,6 +109,9 @@ generation from the main points, highlighting for main
 ideas; Sierra Leone names the lesson itself (stated vs
 implied main ideas), works it on a formal letter's frame,
 and teaches the own-words paraphrase of a text's main
-ideas from Primary 6 to the SSS3 summarising lesson.
+ideas from Primary 6 to the SSS3 summarising lesson;
+Jordan names the hunt in its Active Reading boxes —
+understanding the main idea at Grade 8, summarising
+texts at Grade 10.
 Other closed countries join as their books are
 read (see READING-QUEUE.md).

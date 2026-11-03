@@ -1,6 +1,6 @@
 # Sources — Building a sentence
 
-countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone
+countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan
 
 Every part traces to its book and page.
 
@@ -49,6 +49,20 @@ Term 1 — Sierra Leone, Ministry of Basic and Senior
 Secondary Education. Filed in english/books/sierra-leone.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 10:** Jordan Team Together, Grade 3: Activity Book,
+Semester 1
+(activity book) — Jordan, National Center for Curriculum
+Development (NCCD), Amman (Pearson Education / York
+Press originals). Filed in english/books/jordan.md (FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
+**Book 11:** Jordan High Note, Grade 8: Workbook,
+Semester 1
+(workbook) — Jordan, National Center for Curriculum
+Development (NCCD), Amman (Pearson Education / York
+Press originals). Filed in english/books/jordan.md (FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The SIMPLE PRESENT box written as a board paradigm: affirmative Subject + Verb + Complement on "play," negative with do/does not, and the DO–DOES interrogative box beside it — the sentence's three-part formula stated as the book's own grammar frame | Bolivia compendium, the Daily activities text (T8, compendium p.178) |
@@ -60,10 +74,13 @@ Secondary Education. Filed in english/books/sierra-leone.md
 | The simple sentence built from its parts — subject and verb defined and hunted in model sentences, then objects and additional information (place/time/manner), with sentence-or-fragment sorting, unscrambles and subject/verb/object analysis, closing in five simple sentences of the pupil's own | Iran, Vision 2, Lesson 1, Writing: Simple Sentences, pp.37–45 |
 | Sentence building stated as a rule: every sentence needs a subject and a verb, the parts of speech recombined to build sentences | Sierra Leone, JSS 1 Term 1 Handbook, Lesson 10 "Sentence Building" |
 | Sentences written using all eight parts of speech, each part identified by the job a word does in the sentence | Sierra Leone, SSS 1 Term 1 Handbook, Lessons 5–6, printed pp.8, 10 |
+| Sentence ordering as written practice — sentences set in order, with the model "We have breakfast." | Jordan, Team Together Grade 3, Activity Book, Semester 1, Unit 1 "Routines," pp.6–13 |
+| Sentence-building as a named exercise kind — starred form-choice and sentence-building on family breakfast routines, inside the present simple affirmative/negative work | Jordan, High Note Grade 8, Workbook, Semester 1, Unit 1, Lesson 1B, pp.4–11 |
+| Word order set as the present continuous's own practice point — word order worked with mini-conversations and picture sentences | Jordan, High Note Grade 8, Workbook, Semester 1, Unit 4, Lesson 1B, pp.28–35 |
 
-**Acceptance count: taught in 8 countries (Bangladesh,
+**Acceptance count: taught in 9 countries (Bangladesh,
 Bolivia, Ghana, Mongolia, China, Indonesia, Iran,
-Sierra Leone).** Bolivia states the formula;
+Sierra Leone, Jordan).** Bolivia states the formula;
 Ghana names the two parts; Bangladesh drills the building
 from tables; Mongolia checks the order; China adds the
 this/these, that/those sentence system, taught as one
@@ -72,6 +89,9 @@ types and the verbal/nominal split as reference; Iran
 builds the simple sentence part by part — subject, verb,
 object, added information; Sierra Leone states the
 subject-and-verb rule in JSS 1 and writes sentences with
-all eight parts in SSS 1. Other finished
+all eight parts in SSS 1; Jordan orders
+sentences in its Grade 3 workbook and builds them, and
+sets present-continuous word order, in its Grade 8
+workbook. Other finished
 countries join as their books are read (see
 READING-QUEUE.md).

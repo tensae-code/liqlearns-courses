@@ -1,6 +1,6 @@
 # Sources — First, then, finally
 
-countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone
+countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan
 
 Every part traces to its book and page.
 
@@ -37,6 +37,21 @@ Term 3 — Sierra Leone, Ministry of Basic and Senior
 Secondary Education. Filed in english/books/sierra-leone.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 8:** Jordan Team Together, Grade 4, Activity Book,
+Semester 1 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in english/books/jordan.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 9:** Jordan Team Together, Grade 6, Pupil's Book,
+Semester 1 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in english/books/jordan.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 10:** Jordan Team Together, Grade 6, Activity Book,
+Semester 1 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in english/books/jordan.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Linking words" Tip: "Linking words make the story clear and easy to follow. First, Then, After that, Finally" — the set printed as a writing law | Egypt, Secondary, the writing Tip (p.70 of its book, as filed in the book map) |
@@ -48,9 +63,12 @@ Secondary Education. Filed in english/books/sierra-leone.md
 | The same signposts ordering a past recount: a zoo trip told with first / after that / next / finally, inside the past-tense chapter | Indonesia, English for Nusantara Kids Grade 6, Chapter 3, printed pp.74–80 |
 | TIME CONNECTIVES as their own Language Focus: First / Next / After that / Finally, with a full table of beginning, middle and ending connectives, inside the recount chapter | Indonesia, English for Nusantara Grade 8, Chapter 1, Unit 2, Language Focus, printed p.47 |
 | Transition words named as the sequencing tool of a narrative essay: first, then, after, next, later, finally — the essay itself built on Who/Where/When/What/Why/How | Sierra Leone, JSS 1 Term 3 Handbook, Lesson 121 "Composition: My First Day at School" |
+| Recipe-writing support that names the sequence set for the method text — first, then, after that, last — where the pupil's recipe is written | Jordan, Grade 4 Activity Book, Semester 1, Unit 2 "Picnic time!", Lesson 10 (unit pp.14–21) |
+| Recipes as the unit's Literacy genre: a model recipe (chocolate cookies) read, then the pupil's own recipe written — the method told in its order, with "How to write… a recipe" in the book's reference | Jordan, Grade 6 Pupil's Book, Semester 1, Unit 4, Lessons 10–11 (unit pp.42–51); How to write…, p.60 |
+| The pupil's recipe written under the sequencers named as its set — first / next / then / finally — closed by a write-and-check checklist | Jordan, Grade 6 Activity Book, Semester 1, Unit 4, Lesson 12 (unit pp.36–45) |
 
-**Acceptance count: taught in 6 countries (Bangladesh,
-Egypt, Mongolia, China, Indonesia, Sierra Leone).** Egypt prints the law and the set;
+**Acceptance count: taught in 7 countries (Bangladesh,
+Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan).** Egypt prints the law and the set;
 Mongolia files the family by its grammar name; Bangladesh
 tells its methods under the signposts; China adds the
 dated diary as the model recount, its events sorted before
@@ -59,7 +77,12 @@ sequencer set for procedure steps, orders a recount with
 it, and tables beginning/middle/ending connectives as
 their own Language Focus; Sierra Leone names the
 transition set — first, then, after, next, later, finally
-— as the sequencing tool of a narrative essay. Iran was
+— as the sequencing tool of a narrative essay; Jordan
+names the sequence set inside recipe writing twice —
+first, then, after that, last as Grade 4 writing support,
+and first / next / then / finally as the named sequencers
+of the Grade 6 recipe the pupil writes from a model.
+Iran was
 checked and adds nothing here: its read books teach no
 first/then/finally signpost set (sequence is carried by
 before/after frames inside the past-perfect work, a

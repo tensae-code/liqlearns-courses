@@ -1,6 +1,6 @@
 # Sources for this lesson — Greetings
 
-countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone
+countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag.
@@ -33,6 +33,9 @@ side by side on one PDF page — that was wrong.
 | The identity table stated outright: "What's your name? — My name's… / I'm…" and "Where are you from? — I'm from…" in one printed Language Focus | Indonesia — English for Nusantara, Grade 7, Chapter 1, Unit 1, printed p.22 |
 | The first lesson of the first book is the name exchange itself: "What's your name? — My name's / I'm …", first name against last name, with spelling your name letter by letter | Iran — Prospect 1 (Grade 7), Lesson 1 "My Name," printed pp.6–9; the Welcome's "Let's get to know each other," printed p.5 |
 | Greetings and names as the first lessons of school: the teacher introduces herself/himself by name, a printed A/B greeting dialogue, the story "My Name is Bintu," and the sentence frame "My name is ___." | Sierra Leone — Language Arts Primary 1: Term 1, Lessons 1, 5, 11 and 15 (the Bintu story at PDF p.28 of the Term 1 book); Term 3, Lesson 136 |
+| The name exchange in the first unit — "What's your name? — My name's … / I'm …" — inside "Family and friends", after a Welcome that introduces the characters (Hala, Lama, Meg, Malek, Bill, Tom) with "Hello! / Hi! / Good morning!" | Jordan — Team Together Grade 1 Pupil's Book, Semester 1: Welcome, printed pp.4–5; Unit 1, printed pp.6–13 |
+| Spelling your name letter by letter as a taught function — English in action: Asking for and spelling names; "How do you spell Asma? A-s-m-a" | Jordan — Team Together Grade 3 Pupil's Book, Semester 1, Welcome, printed pp.4–7 |
+| The origin frame a few years up — "Where are you from? I'm from Jordan. I'm Jordanian."; the Activity Book's Welcome works name, age, country and nationality together ("What's your name? How old are you? Where are you from?") | Jordan — Team Together Grade 4: Pupil's Book, Semester 1, Welcome, printed pp.4–7; Activity Book, Semester 1, Welcome, printed pp.2–5 |
 
 **Second country merged 2026-10-25 — Libya:**
 English for Libya, Pupils Book Grade 1 (CERC, Ministry of Education,
@@ -75,7 +78,7 @@ rendered page the same day).
 - Unit 1 "Greeting and Numbers," p. 14 (Hello/Hi, Goodbye/bye tracing;
   "What's your name? / My name's" tracing strips, p. 16).
 
-**Acceptance count: taught in 10 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone).**
+**Acceptance count: taught in 11 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan).**
 China adds name exchanges from its first primary page and the
 "Where are you from? — I'm from …" origin frame (Grades 3), plus
 five printed ways to say goodbye (Grade 6 Volume 2); North
@@ -87,6 +90,10 @@ opens its Grade 3 book on the exchange and states it as a
 printed identity table in Grade 7; Iran makes it the first
 lesson of its first English book; Sierra Leone opens school
 with greetings, a name story and the "My name is ___" frame.
+Jordan joined 2026-11-03: its Grade 1 first unit teaches the
+name exchange, Grade 2's Welcome re-runs it, Grade 3 teaches
+spelling your name letter by letter, and Grade 4 adds the
+origin frame "Where are you from? I'm from Jordan."
 This lesson is the first layer. Courses are built from every CLOSED
 country's books (his ruling, 2026-11-03 — superseding the 2026-10-25
 finished-only rule), and updated as the library updates: when a
@@ -260,3 +267,31 @@ Sierra Leone's rows cite the lessons as filed — the greeting
 and naming work is explicit, but no full printed "What's your
 name?" dialogue is claimed, because the country file's map
 does not print one.
+
+**Jordan added 2026-11-03** — four books stock this lesson:
+**Books:** *Jordan Team Together, Grade 1: Pupil's Book,
+Semester 1* (second edition, revised and updated, 2025, ISBN
+978-9923-41-908-3); *Grade 2: Pupil's Book, Semester 1*
+(second edition 2026, ISBN 978-9923-66-046-1); *Grade 3:
+Pupil's Book, Semester 1* (second edition 2025, ISBN
+978-9923-41-911-3); *Grade 4: Pupil's Book, Semester 1*
+(second edition 2026, ISBN 978-9923-66-051-5) and its
+*Activity Book, Semester 1* — Jordan, National Center for
+Curriculum Development (NCCD), Amman, from Pearson
+Education Ltd / York Press Ltd originals. All filed in
+english/books/jordan.md (Jordan — FULLY READ + CITATION
+CHECK PASSED 2026-11-03). Jordan opens the same door as
+Egypt and Libya: the Grade 1 Welcome introduces its cast
+with "Hello! / Hi! / Good morning!", and Unit 1, "Family
+and friends" (printed pp.6–13), teaches "What's your name?
+— My name's … / I'm …" as one of its three opening frames.
+Grade 2's Welcome (printed pp.4–7) re-runs the exchange
+word for word — "What's your name? My name's… / I'm…" —
+beside the age question filed next door. Grade 3's Welcome
+(printed pp.4–7) adds the spelling move, as a named English
+in action function — Asking for and spelling names: "How
+do you spell Asma? A-s-m-a" — and Grade 4's Welcome
+(printed pp.4–7) grows the exchange into the origin frame,
+"Where are you from? I'm from Jordan. I'm Jordanian.", its
+Activity Book Welcome (printed pp.2–5) working name, age,
+country and nationality as one identity set.

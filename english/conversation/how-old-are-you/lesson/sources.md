@@ -1,6 +1,6 @@
 # Sources for this lesson — How old are you?
 
-countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran
+countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -21,8 +21,11 @@ Libya (Garnet) · Books verified on disk 2026-10-25.
 | Age practised through birthdays: four children matched to birthday cakes by candle count (the ages carried by listening), closing on the frame "I'm ______ years old." | North Macedonia — EXTRA and Friends, Pupil's Book 2, Checkpoint 1, printed p.11 |
 | The age exchange as a first-chapter frame — "How old are you? — I am … years old" — with the age question taught directly and a name/age song; the story's twins are five | Indonesia — English for Nusantara Kids, Grade 3, Chapter 1 (frame in the objectives, printed p.2; the age question at p.8; the name/age song at p.9; the twins at pp.10–11) |
 | Age as its own lesson: "How old are you? — I'm 12 / I'm 12 years old," joined to the birthday month, then widened a lesson later to the whole family — "How old is your father/mother/brother/sister/uncle/aunt? — He's 38 / She's 35 …" | Iran — Prospect 1 (Grade 7), Lesson 3 "My Age," printed pp.16–21, and Lesson 4, Practice 1, printed pp.22–25 |
+| "How old are you? — I'm …" in the first unit, beside the name exchange — the short form, with numbers one–ten behind it in the Welcome | Jordan — Team Together Grade 1 Pupil's Book, Semester 1, Unit 1, printed pp.6–13 |
+| The exchange re-run at the next year's Welcome — "How old are you? I'm…" among its stated functions; the Activity Book's Welcome completes name/age dialogues | Jordan — Team Together Grade 2: Pupil's Book, Semester 1, Welcome, printed pp.4–7; Activity Book, Semester 1, Welcome, printed pp.2–5 |
+| Age as one item of the identity set a few years up — the Activity Book's Welcome matches and writes name, age, country and nationality ("What's your name? How old are you? Where are you from?") | Jordan — Team Together Grade 4 Activity Book, Semester 1, Welcome, printed pp.2–5 |
 
-**Acceptance count: taught in 7 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
+**Acceptance count: taught in 8 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 China teaches the exchange in the full "years old" form with
 candle counting (Grade 3 Volume 1) and later ties age to the
 birthday date (Grade 5 Volume 2); North Macedonia practises it
@@ -30,13 +33,20 @@ through candle-count matching, the answer carried by listening.
 Indonesia and Iran joined 2026-11-03: Indonesia teaches the
 exchange in its first primary chapter, in the full "years old"
 form; Iran gives age its own first-book lesson and widens the
-question to the whole family a lesson later.
-Egypt and Nicaragua's filed books ask names in their greeting
-material, not age — so they are not counted here; Sierra
+question to the whole family a lesson later. Jordan joined
+2026-11-03: it teaches the question in its Grade 1 first
+unit, in the short form, and re-runs it at Grade 2's Welcome
+and in Grade 4's identity set.
+Nicaragua's filed books ask names in their greeting
+material, not age — so it is not counted here; Sierra
 Leone's filed books likewise state a boy's age ("He is 10
 years old," Primary 1 Term 3, Lesson 146) but never teach the
 question, so Sierra Leone is not counted here. The count grows
 as other closed countries' books are read.
+(Pre-existing error fixed in this merge: this paragraph
+previously named Egypt alongside Nicaragua as not counted —
+Egypt is counted, in the countries line, the count and its
+own section below; the sentence now names Nicaragua only.)
 
 ### Egypt — Primary 3 Term 1 (read 2026-10-25)
 Egypt now JOINS this lesson. Unit 1's "Meeting a New Friend" dialog
@@ -117,3 +127,28 @@ letter. Lesson 4 then widens the question to the family
 father/mother/brother/sister/uncle/aunt? — He's 38 / She's
 35 …" — the exchange asked about other people, the step the
 other countries in this file reach through birthdays.
+
+**Jordan added 2026-11-03** — four books stock this lesson:
+**Books:** *Jordan Team Together, Grade 1: Pupil's Book,
+Semester 1* (second edition, revised and updated, 2025, ISBN
+978-9923-41-908-3); *Grade 2: Pupil's Book, Semester 1*
+(second edition 2026, ISBN 978-9923-66-046-1) and *Activity
+Book, Semester 1*; *Grade 4: Activity Book, Semester 1* —
+Jordan, National Center for Curriculum Development (NCCD),
+Amman, from Pearson Education Ltd / York Press Ltd
+originals. All filed in english/books/jordan.md (Jordan —
+FULLY READ + CITATION CHECK PASSED 2026-11-03). Unlike
+Sierra Leone above, Jordan teaches the question itself, in
+the first unit a Jordanian child meets: Grade 1, Unit 1,
+"Family and friends" (printed pp.6–13), lists "How old are
+you? — I'm …" beside the name exchange, with the Welcome's
+numbers one–ten (printed pp.4–5) to answer with. Grade 2's
+Welcome (printed pp.4–7) states the exchange again among
+its functions — "How old are you? I'm…" — and its Activity
+Book Welcome (printed pp.2–5) completes name/age dialogues;
+Grade 4's Activity Book Welcome (printed pp.2–5) carries
+age inside the identity set — name, age, country and
+nationality, asked as "What's your name? How old are you?
+Where are you from?" Jordan's form throughout is Libya's
+short form, never the full "years old" form of Egypt, China
+and Indonesia.

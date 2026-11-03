@@ -1,6 +1,6 @@
 # Sources — The present perfect
 
-countries: Egypt, Libya, Laos, China, Iran, Sierra Leone
+countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan
 
 Every part traces to its book and page.
 
@@ -46,6 +46,31 @@ Education. Filed in english/books/sierra-leone.md
 Education. Filed in english/books/sierra-leone.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 9:** Jordan Team Together, Grade 5, Pupil's Book,
+Semester 2 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in english/books/jordan.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 10:** Jordan Team Together, Grade 6, Pupil's Book,
+Semester 1 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in english/books/jordan.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 11:** Jordan Team Together, Grade 6, Pupil's Book,
+Semester 2 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in english/books/jordan.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 12:** Jordan High Note, Grade 10, Student's Book,
+Semester 1 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in english/books/jordan.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 13:** Jordan High Note, Grade 12, Student's Book,
+Semester 1 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in english/books/jordan.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The tense arrives as the "I've Finished my Work" song (Track 22) — cleaned, washed, swept, painted, tidied, talked — and the participle hunt ("How many different past participles can you find on page 32?") | Libya, Grade 8 Course Book, Unit 3, Lesson 1, p.32 |
@@ -64,9 +89,15 @@ Education. Filed in english/books/sierra-leone.md
 | The Present Perfect Tense in two lessons: have/has + past participle; uses — begun in the past and still true ("We have lived in Bo since 2009"), and past actions with no specific time; then the have/has table practised across all persons | Sierra Leone, JSS1 Term 3, Lessons 108–109 (as filed) |
 | The tense restated at JSS3 with its time words: have/has + past participle; past connected to present; "for" and "since" | Sierra Leone, JSS3 Term 2, Lesson 72, p.42 |
 | The tense completed at SSS1: have/has + past participle connecting a past action to the present, negatives without double negatives, questions — then ever, never, already, yet placed and used with it | Sierra Leone, SSS1 Term 3, Lessons 117–118, pp.44 and 47 |
+| The tense arriving in the theatre unit, in its own sentences: "I've read Alice's Adventures in Wonderland. I haven't seen the film"; "He's seen Alice's costume somewhere, but he hasn't found it" | Jordan, Grade 5 Pupil's Book, Semester 2, Unit 7 "Curtain up!" (unit pp.32–41) |
+| ever / never with the tense, with short answers: "Have you ever made chocolates? Yes, I have. / No, I haven't"; "She's never used the oven before" | Jordan, Grade 5 Pupil's Book, Semester 2, Unit 8 "Let's get creative!" (unit pp.42–51) |
+| already, just and yet placed with the tense as the homes unit's grammar | Jordan, Grade 6 Pupil's Book, Semester 1, Unit 4 "Happy homes" (unit pp.42–51) |
+| since and for with the tense as the entertainment unit's grammar — the clown costume Arlo has had since he was small — restated in the book's Grammar Reference | Jordan, Grade 6 Pupil's Book, Semester 2, Unit 7 "Entertainment" (unit pp.32–41); Grammar Reference, pp.58–59 |
+| The Present Perfect Simple taught again at Grade 10 as one lesson with its continuous twin — the simple form held beside the continuous for contrast | Jordan, Grade 10 Student's Book, Semester 1, Unit 2, Lesson 1A, pp.14–15 |
+| The tense at review level in the final year: present, past and future perfect forms contrasted inside the continuous-and-perfect tenses lesson — a contrast witness, not a first teaching | Jordan, Grade 12 Student's Book, Semester 1, Unit 1, Lesson 4A, pp.8–9 |
 
-**Acceptance count: taught in 6 countries (Egypt,
-Libya, Laos, China, Iran, Sierra Leone).** Libya introduces the tense at Grade 8 with the
+**Acceptance count: taught in 7 countries (Egypt,
+Libya, Laos, China, Iran, Sierra Leone, Jordan).** Libya introduces the tense at Grade 8 with the
 song and the grammar box, guards the no-exact-time rule in
 its Teacher's Book, sets the ever/never/yet/already box at
 Grade 9, and states the whole entry again in its Grammar
@@ -79,7 +110,13 @@ at Vision 2 with since/for/yet/ever and runs its speaking
 strategy on Have you ever …?; Sierra Leone teaches it
 three times up the ladder — JSS1 (still-true and
 no-specific-time uses), JSS3 (for/since), SSS1 (the four
-time words ever/never/already/yet). Indonesia was checked
+time words ever/never/already/yet). Jordan builds the
+tense across three school years — first met at Grade 5
+with ever/never and short answers, already/just/yet at
+Grade 6 Semester 1, since/for at Grade 6 Semester 2 —
+then teaches the simple form again beside its continuous
+twin at Grade 10 and contrasts the perfect forms whole
+at Grade 12. Indonesia was checked
 for this tense on 2026-11-03 and never teaches it (its
 books' own honest negatives say so at Grades 6 and 9).
 Other closed countries join as their

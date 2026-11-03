@@ -1,6 +1,6 @@
 # Sources for this lesson — How are you?
 
-countries: Egypt, Libya, China, Iran, Sierra Leone
+countries: Egypt, Libya, China, Iran, Sierra Leone, Jordan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -19,18 +19,25 @@ Libya (Garnet) · Books verified on disk 2026-10-25.
 | The question deepened into feelings: "How do you feel?" and "What's wrong?", over a taught feelings set — angry, afraid, sad, worried, happy, ill — with a phone role-play and *should* for advice | China — English (PEP) Grade 6 Volume 1, Unit 6, printed pp.57, 59–61 |
 | "How are you? — Fine, thanks / Great, thanks" inside the first lesson's greeting practice, between the hi/hello exchanges and the name question | Iran — Prospect 1 (Grade 7), Lesson 1 "My Name," Practice 1, printed pp.6–9 |
 | "How are you today? — I am fine, thank you" — the greeting lesson that adds the question to the greetings, with pictures of mother and father | Sierra Leone — Language Arts Primary 1 Lesson Plans, Term 1, Lesson 6 ("Greetings") |
+| "How are you? — I'm fine, thank you" — the exchange in its short classroom form, taught inside the clothes unit | Jordan — Team Together Grade 1 Pupil's Book, Semester 2, Unit 6, printed pp.14–21 |
 
-**Acceptance count: taught in 5 countries (Egypt, Libya, China, Iran, Sierra Leone) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
+**Acceptance count: taught in 6 countries (Egypt, Libya, China, Iran, Sierra Leone, Jordan) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 China joins with the exchange itself in its first primary book
 (Grade 3 Volume 1) and deepens it three years later into feelings
 talk — "How do you feel?", "What's wrong?" (Grade 6 Volume 1).
 Iran and Sierra Leone joined 2026-11-03, each with the exchange
-inside its first greeting teaching. Egypt and Nicaragua's filed
+inside its first greeting teaching. Jordan joined 2026-11-03
+with the exchange in its Grade 1 Semester 2 clothes unit, in
+the same short form Libya's Grade 3 book uses. Nicaragua's filed
 greeting material teaches hello, names and goodbye — not this
-question — so they are not counted here; Indonesia's filed books
+question — so it is not counted here; Indonesia's filed books
 likewise teach no "How are you?" exchange (their feelings set in
 Grade 4 is a different thing, recorded in the country file). The
 count grows as other closed countries' books are read.
+(Pre-existing error fixed in this merge: this paragraph
+previously named Egypt alongside Nicaragua as not counted —
+Egypt is counted, in the countries line, the count and its
+own section below; the sentence now names Nicaragua only.)
 
 ### Egypt — Primary 3 Term 1 (read 2026-10-25)
 Egypt now JOINS this lesson. Unit 1, Lesson 1 (pp.6–9) teaches the
@@ -80,3 +87,18 @@ lessons with the question: pupils greet each other and ask
 of mother and father. The full form, with "today" and the
 whole "I am fine" answer, is Sierra Leone's — beside Iran's
 short "Fine, thanks" and Libya's three-answer set.
+
+**Jordan added 2026-11-03** — **Book:** *Jordan Team
+Together, Grade 1: Pupil's Book, Semester 2* — Jordan,
+National Center for Curriculum Development (NCCD), Amman,
+from Pearson Education Ltd / York Press Ltd originals;
+first edition (trial) 2024, ISBN 978-9923-41-727-0. Filed
+in english/books/jordan.md (Jordan — English Grade 1
+Pupil's Book, Semester 2 — FULLY READ + CITATION CHECK
+PASSED 2026-11-03). Jordan teaches the question once in
+the filed read, in Grade 1's second semester: Unit 6, "My
+blue jacket" (printed pp.14–21), lists "How are you? —
+I'm fine, thank you" among its grammar frames, between
+"Where's my …?" and "I'm wearing …" — the well-being
+question in its shortest classroom form, the same words
+Libya's Primary 3 book uses for the same exchange.

@@ -1,6 +1,6 @@
 # Sources — The present perfect continuous
 
-countries: Egypt, Libya, Sierra Leone
+countries: Egypt, Libya, Sierra Leone, Jordan
 
 Every part traces to its book and page.
 
@@ -28,6 +28,16 @@ PASSED 2026-10-26).
 Education. Filed in english/books/sierra-leone.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 6:** Jordan High Note, Grade 10, Student's Book,
+Semester 1 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in english/books/jordan.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 7:** Jordan High Note, Grade 12, Student's Book,
+Semester 1 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in english/books/jordan.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The box "Describing action that continues from the past: Present perfect continuous tense — The pilot has been flying for two hours. I have been waiting for the bus since four o'clock." | Libya, Grade 8 Course Book, Unit 3, Lesson 6 "Transport," p.38 |
@@ -39,16 +49,22 @@ Education. Filed in english/books/sierra-leone.md
 | The PRESENT PERFECT CONTINUOUS box stated in full: have/has + been + present participle — actions started in the past still continuing, recently finished with a visible present result, duration, temporary habits; "I'm tired because I have been studying all night" | Egypt, Secondary 12 Term 1, Unit 1, Lesson 3 "Tired Hands, Caring Hearts," Language in Context, pp.17–19 |
 | The history note: Egypt's tasks required this tense from Secondary 10 while no Egypt book boxed it; the box arrives at Secondary 12 Term 1, closing the run's standing hole | Egypt, Secondary 10 Term 2 filing and Secondary 12 Term 1 filing, english/EGYPT-BOOK-MAP.md |
 | The Present Perfect Continuous Tense in two lessons: the form have/has been + -ing for actions begun in the past and still going; the second lesson covers questions and negatives without double negatives | Sierra Leone, SSS3 Term 2, Lessons 85–86, pp.89 and 91 |
+| Present Perfect Simple and Continuous taught together as the digital-mind unit's grammar lesson — the continuous form presented beside its simple twin, and practised in the Workbook's matching lesson | Jordan, Grade 10 Student's Book, Semester 1, Unit 2, Lesson 1A, pp.14–15; Workbook, Lesson 1B, pp.12–13 |
+| The tense met again at the top of the school inside a whole-system contrast: present, past and future continuous and perfect forms set against each other — a review witness, not a first teaching | Jordan, Grade 12 Student's Book, Semester 1, Unit 1, Lesson 4A, pp.8–9 |
 
-**Acceptance count: taught in 3 countries (Egypt,
-Libya, Sierra Leone).** Libya meets the tense at Grade 8 inside a
+**Acceptance count: taught in 4 countries (Egypt,
+Libya, Sierra Leone, Jordan).** Libya meets the tense at Grade 8 inside a
 records lesson, names it for recent habits at Grade 9,
 and drills it as a full lesson with for/since at Grade
 10. Egypt states the complete box at Secondary 12 — the
 last tense its run boxes. Sierra Leone holds the tense
 to the final year and teaches it in two SSS3 lessons —
 the still-going form, then its questions and negatives —
-inside its complete 12-tense system. Other closed countries join
+inside its complete 12-tense system. Jordan teaches the
+tense at Grade 10 as one lesson with its simple twin —
+Present Perfect Simple and Continuous together — and
+contrasts it again inside Grade 12's whole continuous-
+and-perfect system. Other closed countries join
 as their books are read (see READING-QUEUE.md).
 
 **Laos checked — NOT stocked (series-final, 2026-10-27).**

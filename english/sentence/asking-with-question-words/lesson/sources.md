@@ -1,6 +1,6 @@
 # Sources — Asking with question words
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan
 
 Every part traces to its book and page.
 
@@ -58,6 +58,27 @@ Terms 2–3 — Sierra Leone, Ministry of Basic and Senior
 Secondary Education. Filed in english/books/sierra-leone.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 12:** Jordan Team Together, Grade 1: Pupil's Book,
+Semester 1
+(student book) — Jordan, National Center for Curriculum
+Development (NCCD), Amman (Pearson Education / York
+Press originals). Filed in english/books/jordan.md (FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
+**Book 13:** Jordan Team Together, Grade 3: Pupil's Book,
+Semester 1
+(student book) — Jordan, National Center for Curriculum
+Development (NCCD), Amman (Pearson Education / York
+Press originals). Filed in english/books/jordan.md (FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
+**Book 14:** Jordan Team Together, Grade 5: Pupil's Book,
+Semester 1
+(student book) — Jordan, National Center for Curriculum
+Development (NCCD), Amman (Pearson Education / York
+Press originals). Filed in english/books/jordan.md (FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The question-words table — Who, What, Where, Why, When, How long, How many — each with an example question and the shape of its answer ("I am an engineer" / "In Boston" / "At 7:00" / "For a week" / "Ten") | Mongolia, English VI, Grammar Reference, Unit 10 question words (pp.118–127 span, as filed) |
@@ -76,9 +97,14 @@ Secondary Education. Filed in english/books/sierra-leone.md
 | The six question words as the frame for talking about special occasions: Who/Where/When/What/Why/How | Sierra Leone, JSS 1 Term 3 Handbook, Lesson 106 "Oral Narrative (My Family)" |
 | The question words named as the signals of the question mark, inside the punctuation pair | Sierra Leone, JSS 1 Term 3 Handbook, Lesson 114 "Punctuation" |
 | The falling voice of the Wh- question, set against the rising yes/no question in the intonation lesson | Sierra Leone, JSS 1 Term 2 Handbook, Lesson 58 "Punctuation and Intonation" |
+| The first question-word frames as whole dialogs — "What's your name? — My name's …", "How old are you? — I'm …", "Who's this? — This is (my) …", "What colour is it?" and "What's your favourite toy?" | Jordan, Team Together Grade 1, Pupil's Book, Semester 1, Units 1 and 4, pp.6–13, 30–37 |
+| The when-question answered whole with a time of day — "When do you (go home)? We go home in the (afternoon)" | Jordan, Team Together Grade 3, Pupil's Book, Semester 1, Unit 1, pp.8–15 |
+| The how-much question as the asking-the-price frame — "How much is this baseball cap?" | Jordan, Team Together Grade 3, Pupil's Book, Semester 1, Unit 2, pp.16–23 |
+| How…? questions named as a question kind of the unit — "How deep is the Grand Canyon?" | Jordan, Team Together Grade 5, Pupil's Book, Semester 1, Unit 3, pp.32–41 |
 
-**Acceptance count: taught in 8 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran, Sierra Leone).** Mongolia tables the family with its answer
+**Acceptance count: taught in 9 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
+Jordan).** Mongolia tables the family with its answer
 shapes; Bangladesh gives the words their voice; Egypt has
 drilled the questions and whole answers since the youngest
 books; China adds the words worked as whole units — where,
@@ -88,7 +114,9 @@ as reference and states the past Wh- lesson outright; Iran
 gives the family a whole grammar lesson across be and
 do/does, with its falling voice; Sierra Leone frames
 occasion talk on the six words and names them as the
-question mark's signals. Other closed countries join as their books are read
+question mark's signals; Jordan
+drills what/who/how-old in Grade 1, when and how much
+in Grade 3, and How…? questions in Grade 5. Other closed countries join as their books are read
 (see READING-QUEUE.md).
 
 **Laos Grade 4 added 2026-10-27** — *English for Lao Primary

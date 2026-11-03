@@ -1,6 +1,6 @@
 # Sources — Nouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone
+countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan
 
 Every part traces to its book and page.
 
@@ -61,6 +61,15 @@ Education, Science and Technology. Filed in
 english/books/sierra-leone.md (Primary 4 Term 1 section,
 FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 11:** Jordan Team Together, Grade 2: Pupil's Book, Semester 2 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 2 Pupil's Book Semester 2 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 12:** Jordan Team Together, Grade 4: Pupil's Book, Semester 1 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 4 Pupil's Book Semester 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 13:** Jordan High Note, Grade 8: Student's Book, Semester 1 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition in its three-sort form: "Nouns — person, place, thing," taught with the "Life in the City" text (Karim) and sorting work | Egypt, Primary 2 Term 2, Unit 4, Lesson 3 "Language in Use," p.68 |
@@ -84,9 +93,12 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 | Countable nouns used in sentences — counting goats, hens, eggs and apples in drawings (2 goats, 3 hens, 8 eggs, 10 apples as printed), with many and a few; uncountable nouns — milk, bread, wool, meat — that cannot be counted, with some, a lot, a little ("some rice") | Sierra Leone, Primary 2 Term 3, Lessons 137 and 139 (their titles are at PDF pp.38 and 42 of the plans) |
 | Nouns sorted into categories the learners make themselves — people, animals, places, things — then types of nouns picked out of a reading passage | Sierra Leone, Primary 4 Term 1, Lesson 16 (PDF p.38); Lessons 18 and 20 (PDF pp.42, 46) |
 | Plural spelling classes as lessons of their own: -es, then y → -ies, then -ves, then classifying singulars and plurals from a passage | Sierra Leone, Primary 4 Term 1, Lessons 26–29 (PDF pp.58, 60, 62, 64) |
+| Irregular plurals and the -oes spelling taught inside the animal and food units — one mouse – two mice, one fish – two fish; tomato–tomatoes, potato–potatoes | Jordan, Grade 2 Pupil's Book Semester 2, Unit 5, pp.8–15; Unit 6, pp.16–23 |
+| Countable and uncountable nouns with there is/are and quantity — "There's a lot of salad and a little lemonade"; "Are there any apples?" — and the containers set that measures them (a bag/bottle/bowl/box/can/cup/glass/plate of) | Jordan, Grade 4 Pupil's Book Semester 1, Unit 2 "Picnic time!", pp.18–27 |
+| Countable and uncountable nouns again at secondary level, with some/any/no and the quantifier set — a lot of, too many, too much, a few, a little, not many, not much | Jordan, Grade 8 Student's Book Semester 1, Unit 3 "Eat in – eat out," pp.26–27, 30 |
 
-**Acceptance count: taught in 9 countries (Bangladesh, Egypt,
-Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone).**
+**Acceptance count: taught in 10 countries (Bangladesh, Egypt,
+Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan).**
 Egypt and Bangladesh carry the definition itself,
 each in the three-sort form; Libya carries it twice more in its
 own shorter words; Ghana carries the sentence test; China
@@ -98,7 +110,7 @@ and the countable/uncountable line again with measure words;
 Sierra Leone carries the categories made by the learners
 themselves, the countable/uncountable pair in Primary 2, and
 the plural spellings -es / -ies / -ves as separate lessons.
-Other finished
+Jordan carries the irregular plurals mouse–mice and fish–fish and the -oes spellings, and countable against uncountable twice — with containers and quantity in Grade 4, and with some/any/no and the quantifiers in Grade 8; Other finished
 countries join as their books are read (see READING-QUEUE.md).
 
 **Laos Grade 7 added 2026-10-27** — *English for Secondary

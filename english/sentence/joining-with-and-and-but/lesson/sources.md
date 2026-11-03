@@ -1,6 +1,6 @@
 # Sources — Joining with and and but
 
-countries: Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone
+countries: Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan
 
 Every part traces to its book and page.
 
@@ -45,6 +45,27 @@ Term 3 — Sierra Leone, Ministry of Basic and Senior
 Secondary Education. Filed in english/books/sierra-leone.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 9:** Jordan Team Together, Grade 2: Pupil's Book,
+Semester 2
+(student book) — Jordan, National Center for Curriculum
+Development (NCCD), Amman (Pearson Education / York
+Press originals). Filed in english/books/jordan.md (FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
+**Book 10:** Jordan Team Together, Grade 3: Pupil's Book,
+Semester 1
+(student book) — Jordan, National Center for Curriculum
+Development (NCCD), Amman (Pearson Education / York
+Press originals). Filed in english/books/jordan.md (FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
+**Book 11:** Jordan High Note, Grade 8: Student's Book,
+Semester 1
+(student book) — Jordan, National Center for Curriculum
+Development (NCCD), Amman (Pearson Education / York
+Press originals). Filed in english/books/jordan.md (FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | COMPOUND SENTENCES open (B3.5.9.1): "join simple sentences with the coordinating conjunction AND — 'The boy woke up' + 'The boy prayed' → 'The boy woke up and prayed' — then AND and BUT in groups" | Ghana, NaCCA B1–B3 curriculum, Basic 3, Strand 5 |
@@ -57,8 +78,11 @@ Secondary Education. Filed in english/books/sierra-leone.md
 | The joiners drilled in writing: complete six sentences with and/or/but/so, correct the deliberately wrong conjunction in six more, and put four jumbled compound sentences in order | Iran, Vision 3 Workbook, Lesson 1, Part IV, pp.21–23 |
 | Conjunctions and compound sentences as a two-lesson pair at Primary 5: joining with and, but, because, or | Sierra Leone, Primary 5 Lesson Plans Term 1, Lessons 58–59 "Conjunctions and Compound Sentences" (Lesson 58 at PDF p.122) |
 | Sentence combining stated at senior level: a simple sentence as subject + verb + complete thought, then simple sentences combined into compound and complex sentences with conjunctions and subordinate clauses | Sierra Leone, SSS 1 Term 3 Handbook, Lesson 116 "Types of Sentences," printed p.42 |
+| Joining as the likes unit's own grammar — joining with and/too, but, or, over likes and dislikes | Jordan, Team Together Grade 2, Pupil's Book, Semester 2, Unit 6 "Do you like peas?," pp.16–23 |
+| AND and BUT joining whole habit sentences — "I watch TV and I play video games. I watch TV, but I don't read a book!" | Jordan, Team Together Grade 3, Pupil's Book, Semester 1, Language booster 1, pp.40–41 |
+| The joiners as the writing link of a personal profile — linking with and/but/so/because in the model profile (Dana, 14, from Jordan) | Jordan, High Note Grade 8, Student's Book, Semester 1, Unit 1, Writing, pp.12–13 |
 
-**Acceptance count: taught in 7 countries (Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone).**
+**Acceptance count: taught in 8 countries (Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan).**
 Ghana opens the compound sentence with AND, seats BUT
 beside it, lists the four coordinators, and widens the
 family in its own order; Bolivia posts the but/however
@@ -69,7 +93,10 @@ builds the compound sentence joiner by joiner — and, but,
 or, so, each with its job — and drills the choice in its
 workbook; Sierra Leone joins with and, but, because, or
 at Primary 5 and states sentence combining at senior
-level. Other closed countries join as their books are
+level; Jordan joins likes with and/too, but and or in
+Grade 2, joins habits with and/but in Grade 3, and
+links a profile with and/but/so/because in Grade 8.
+Other closed countries join as their books are
 read (see READING-QUEUE.md).
 
 **Laos Grade 5 added 2026-10-27** — *Student's Book 3, Grade 5*

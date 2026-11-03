@@ -1,6 +1,6 @@
 # Sources — Going to: later
 
-countries: Bolivia, Ghana, Mongolia, Laos, China, Iran, Sierra Leone
+countries: Bolivia, Ghana, Mongolia, Laos, China, Iran, Sierra Leone, Jordan
 
 Every part traces to its book and page.
 
@@ -53,6 +53,27 @@ Term 1 — Sierra Leone, Ministry of Basic and Senior
 Secondary Education. Filed in english/books/sierra-leone.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 11:** Jordan Team Together, Grade 5: Pupil's Book,
+Semester 1
+(student book) — Jordan, National Center for Curriculum
+Development (NCCD), Amman (Pearson Education / York
+Press originals). Filed in english/books/jordan.md (FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
+**Book 12:** Jordan Team Together, Grade 6: Pupil's Book,
+Semester 2
+(student book) — Jordan, National Center for Curriculum
+Development (NCCD), Amman (Pearson Education / York
+Press originals). Filed in english/books/jordan.md (FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
+**Book 13:** Jordan Team Together, Grade 7: Pupil's Book,
+Semester 1
+(student book) — Jordan, National Center for Curriculum
+Development (NCCD), Amman (Pearson Education / York
+Press originals). Filed in english/books/jordan.md (FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | BE GOING TO full table — affirmative/negative/interrogative/short answers for all persons on "visit" — with its note (future idea, intention or prediction); completion exercise ("parents are going to go shopping on Sunday; study at UMSA"); "1.2 interviews about future plans" | Bolivia compendium, Trimester 2 text (p.194) |
@@ -68,9 +89,13 @@ Secondary Education. Filed in english/books/sierra-leone.md
 | The be going to point drilled where the student book sends pupils: a cloze about a school trip, inside the workbook's past/future verb chart and picture-prompted will sentences | Iran, Vision 1 Workbook, Lesson 1, Part II, pp.10, 13 |
 | The simple future taught with both engines in one lesson pair: will/shall + verb and "going to" — shall formal and only with I/we — then will contractions ('ll, won't) | Sierra Leone, JSS 1 Term 2 Handbook, Lessons 63–64, revised in Lesson 68 |
 | GOING TO as its own senior lesson: "going to" for definite plans and for conclusions about the immediate future, in positive, negative and question forms, practised from a character's diary for next week — with will vs shall as the following lesson | Sierra Leone, SSS 1 Term 1 Handbook, Lesson 35, printed p.66, and Lesson 36, printed p.68 |
+| WILL/WON'T for future plans — "I'll get him a present. I won't get him a book" | Jordan, Team Together Grade 5, Pupil's Book, Semester 1, Unit 3, pp.32–41 |
+| GOING TO met beside WILL as one future pair — going to and will for future, in the travel booster of Lara's Learning Club | Jordan, Team Together Grade 6, Pupil's Book, Semester 2, Language booster 4, pp.52–53 |
+| The unit's other two futures — Present continuous for future, and Present simple for future (timetabled events) | Jordan, Team Together Grade 7, Pupil's Book, Semester 1, Unit 1, pp.8–17 |
+| WILL for predictions, with might, may and could for the less sure predictions beside it — Sami predicts Alex will become a professional footballer | Jordan, Team Together Grade 7, Pupil's Book, Semester 1, Unit 2, pp.18–27 |
 
-**Acceptance count: taught in 7 countries (Bolivia, Ghana,
-Mongolia, Laos, China, Iran, Sierra Leone).** Bolivia tables going to whole and names its
+**Acceptance count: taught in 8 countries (Bolivia, Ghana,
+Mongolia, Laos, China, Iran, Sierra Leone, Jordan).** Bolivia tables going to whole and names its
 jobs; Mongolia boxes the will neighbour; Ghana keeps the
 scheduled present as the third future; China adds be going
 to as a full system with its time words, will worked for
@@ -79,7 +104,11 @@ one table; Iran tables will whole and sets be going to
 beside it as its own table, then speaks the two as one
 plans strategy; Sierra Leone teaches will/shall and
 going to in one JSS pair, then gives going to its own
-senior lesson for plans and immediate-future conclusions.
+senior lesson for plans and immediate-future conclusions;
+Jordan plans with will/won't in Grade 5, meets going
+to beside will in a Grade 6 travel booster, and in
+Grade 7 predicts with will and runs the present
+continuous and the timetabled present as futures.
 Indonesia was checked and adds nothing here: no future
 form is taught in any of its read books — will/going to
 occur only incidentally inside other texts (see

@@ -1,6 +1,6 @@
 # Sources — Answering from the text
 
-countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone
+countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan
 
 Every part traces to its book and page.
 
@@ -65,6 +65,16 @@ Education. Filed in english/books/sierra-leone.md
 Education. Filed in english/books/sierra-leone.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 14:** Jordan Team Together, Grade 6, Activity Book,
+Semester 1 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in english/books/jordan.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 15:** Jordan High Note, Grade 10, Student's Book,
+Semester 1 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in english/books/jordan.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "'Think as you read' questions sit inside the text at each break to check factual comprehension as the learner goes" — answering from the carrier while reading | India, Flamingo, About the Book apparatus (as filed; Hornbill's apparatus is twin) |
@@ -85,9 +95,11 @@ Education. Filed in english/books/sierra-leone.md
 | The question-kind border printed as an examination system: factual questions (who/what/when/where — the answer stated in the text) vs inferential questions (how/why — the answer deduced), applied to passages across two lessons | Sierra Leone, SSS2 Term 1, Lessons 25–26, pp.61 and 64 |
 | The examination routine stated as steps: read the questions first, skim for the main idea, re-read carefully — then true/false and vocabulary questions on a folk tale | Sierra Leone, JSS3 Term 2, Lesson 52, p.3 |
 | The unseen text faced as WASSCE faces it, in two lessons: predicting and inferring; literal vs inferential questions; then main ideas and supporting details with self-questioning | Sierra Leone, SSS1 Term 3, Lessons 119–120, pp.49 and 51 |
+| A third answer shape beyond true and false: the Petra Culture text answered true / false / doesn't say, with explanations — the answer must be in the text, or honestly not there | Jordan, Grade 6 Activity Book, Semester 1, Unit 3, Lesson 8 (unit pp.26–35) |
+| Skimming and scanning named together as the Active Reading strategy over the science article — the fast hunt for what a text carries, before the questions | Jordan, Grade 10 Student's Book, Semester 1, Unit 2, Reading, pp.16–17 |
 
-**Acceptance count: taught in 7 countries (Egypt, Ghana,
-India, China, Indonesia, Iran, Sierra Leone).** India builds the carrier hunt into the page and
+**Acceptance count: taught in 8 countries (Egypt, Ghana,
+India, China, Indonesia, Iran, Sierra Leone, Jordan).** India builds the carrier hunt into the page and
 prints the question-kind border; Ghana demands textual
 evidence under personal responses; Egypt examines by the
 unseen passage; China grades the answering shapes themselves
@@ -101,6 +113,9 @@ teaches scanning-for-the-answer and question generation —
 making the question each main point answers; Sierra Leone
 prints the factual/inferential border as an examination
 system, states the questions-first routine, and faces the
-unseen WASSCE text in two full lessons.
+unseen WASSCE text in two full lessons; Jordan adds the
+true / false / doesn't-say shape with explanations at
+Grade 6 and names skimming and scanning as its Grade 10
+Active Reading strategy.
 Other closed countries join as their
 books are read (see READING-QUEUE.md).

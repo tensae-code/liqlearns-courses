@@ -1,6 +1,6 @@
 # Sources — Food and fruit
 
-countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone
+countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan
 
 Every part traces to its book and page.
 
@@ -94,6 +94,18 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 in english/books/sierra-leone.md (Primary 2 Term 1 section,
 FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 17:** Jordan Team Together, Grade 1: Pupil's Book, Semester 2 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 1 Pupil's Book Semester 2 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 18:** Jordan Team Together, Grade 2: Pupil's Book, Semester 2 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 2 Pupil's Book Semester 2 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 19:** Jordan Team Together, Grade 4: Pupil's Book, Semester 1 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 4 Pupil's Book Semester 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 20:** Jordan High Note, Grade 8: Student's Book, Semester 1 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Listen and repeat: breakfast, lunch, dinner, eat, drink" — with the breakfast plate pictured: egg, cheese, beans, and a glass of milk | Egypt, Primary 1 Term 2, Unit 1 "My Week," p.15 |
@@ -116,9 +128,13 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 | Iranian eating habits as a reading text — breakfasts of honey, cream, bread and milk, or bread, cheese, dates and tea; lunch of chicken, kebab, fish and rice; an early light dinner of soup, salad, yoghurt and bread — sorted into a Food/Drink table | Iran, Prospect 1 Workbook (Grade 7), Lesson 8, printed pp.62–65 |
 | A poem, "Fruit Treats," used to categorise foods — fruits, grains, animal products | Sierra Leone, Primary 3 Term 1, Lessons 31–32 (PDF pp.69, 71) |
 | Favourite foods as the pupils' own writing: the class co-writes a Tiny Tale, "Food," then lists and draws favourite foods, in sentences | Sierra Leone, Primary 2 Term 1, Lessons 36 and 38 |
+| The first food set with the like frame: apples, cakes, carrots, grapes, juice, lemonade, lemons, sweets — "I like … / I don't like …", with polite requests "Yes, please." / "Thank you." | Jordan, Grade 1 Pupil's Book Semester 2, Unit 8 "I like cakes," printed pp.30–37 |
+| Two food sets a year later — apple, banana, bean, carrot, orange, pasta, pea, potato, rice, tomato; then bread, cheese, chicken, eggs, fish, juice, meat, milk, water — asked about whole: "Do you like (cheese)? — Yes, I do. / No, I don't." | Jordan, Grade 2 Pupil's Book Semester 2, Unit 6 "Do you like peas?", pp.16–23 |
+| The picnic set — cereal, cupcakes, fruit, noodles, olives, salad, sandwiches, vegetables; drinks coffee, lemonade, milkshake, tea — with shopping for food: "Can I have six apples, please? — That's five dinars, please." | Jordan, Grade 4 Pupil's Book Semester 1, Unit 2 "Picnic time!", pp.18–27 |
+| Food and drink at secondary level whole: the food set, then food products, containers and prices (p.28), and ordering food (p.29) | Jordan, Grade 8 Student's Book Semester 1, Unit 3 "Eat in – eat out," pp.26–35 |
 
-**Acceptance count: taught in 8 countries (Bangladesh, Egypt,
-Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone).**
+**Acceptance count: taught in 9 countries (Bangladesh, Egypt,
+Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan).**
 Egypt carries the meals and the breakfast plate;
 Bangladesh carries the like-exchange and the healthy sorting;
 Palestine carries the fruit set with its a/an pair and the
@@ -130,6 +146,6 @@ set with counting, and two full vegetable sets with likes and
 dislikes; Iran carries favourite food and drink as the talk
 itself, and a country's eating habits sorted into a table;
 Sierra Leone carries foods categorised from a poem, and
-favourite foods as the pupils' own writing. Other closed
+favourite foods as the pupils' own writing. Jordan carries the first food set with I like in Grade 1, two sets with Do you like…? in Grade 2, the picnic set with food shopping in Grade 4, and food with containers, prices and ordering in Grade 8; Other closed
 countries join as their
 books are read (see READING-QUEUE.md).

@@ -1,6 +1,6 @@
 # Sources — The body
 
-countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone
+countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan
 
 Every part traces to its book and page.
 
@@ -55,6 +55,12 @@ Education, Science and Technology. Filed in
 english/books/sierra-leone.md (Primary 1 Term 1 section,
 FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 10:** Jordan Team Together, Grade 1: Pupil's Book, Semester 2 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 1 Pupil's Book Semester 2 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 11:** Jordan Team Together, Grade 2: Pupil's Book, Semester 1 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 2 Pupil's Book Semester 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The body unit set: head, hand, finger, leg, face, nose, mouth — taught by "Listen and touch" on the child's own body (numbers 7–10 traced alongside) | Palestine, Grade 1 Part 1, Unit 4 "My body," p.22 |
@@ -70,9 +76,11 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 | Body parts named in injury talk: a boy falls and hurts his head, climbs again and burns his hand; the lesson's conversation carries a broke leg and a twisted ankle (printed p.96) | Iran, Prospect 3 (Grade 9), Lesson 6 "Health and Injuries" — conversation p.96; Find it passage (Grammar pp.101–102) |
 | The same parts worked as a sentence-building table — subject × injury verb (break / twisted / burned / hurt) × possessive × body part | Iran, Prospect 3 Workbook (Grade 9), Lesson 6, printed pp.84–95 |
 | Parts of my body as a named first-year lesson: name body parts and use "my," with the song "Head and Shoulders" | Sierra Leone, Primary 1 Term 1, Lesson 14 (the song is printed at PDF p.35 of the plans) |
+| The body unit set: arms, body, face, feet, hair, hands, head, legs — carried by has got for description: "He's got … / She hasn't got …", with a Picture Dictionary: Body page for the unit | Jordan, Grade 1 Pupil's Book Semester 2, Unit 5 "My body," printed pp.6–13 |
+| The body set widened — arms, face, feet, fingers, hands, head, knees, legs, toes, tummy — counted on the child's own body ("I've got (one face / ten toes)") and moved by touch commands: "Move (your body)! Touch (your head)!" with the movement words bend, clap, move, stamp, stretch, touch | Jordan, Grade 2 Pupil's Book Semester 1, Unit 3 "Move your body!", pp.24–31 |
 
-**Acceptance count: taught in 8 countries (Egypt, Palestine,
-Laos, China, Mongolia, Indonesia, Iran, Sierra Leone).**
+**Acceptance count: taught in 9 countries (Egypt, Palestine,
+Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan).**
 Palestine carries the core seven by touch;
 Egypt carries the parts at work in the five sense sentences,
 plus three more inside its letter pages; China carries the
@@ -81,7 +89,7 @@ body whole and in pieces, in pictures alone; Indonesia
 carries the parts inside the hygiene habits; Iran carries
 the parts named in injury talk and built into sentences;
 Sierra Leone carries the first-year naming lesson with its
-"Head and Shoulders" song. Other finished
+"Head and Shoulders" song. Jordan carries the eight-part set with has got description in Grade 1, and the widened set counted and moved by touch commands in Grade 2; Other finished
 countries join as their books are read (see READING-QUEUE.md).
 
 **Laos Grade 5 added 2026-10-27** — *Student's Book 3, Grade 5*

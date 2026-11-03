@@ -1,6 +1,6 @@
 # Sources — Telling the time
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan
 
 Every part traces to its book and page.
 
@@ -49,6 +49,9 @@ Organization for Educational Research and Planning (OERP).
 Filed in english/books/iran.md (Grade 7 Student Book
 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 9:** Jordan Team Together, Grade 3: Pupil's Book, Semester 1 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 3 Pupil's Book Semester 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The clock's two hands named — the short, red hand is the hour hand; the long, blue hand is the minute hand; say and complete o'clock times | Bangladesh, English for Today Class 4, Unit 13 "Telling the Time," pp.26–27 |
@@ -64,9 +67,11 @@ section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 | Telling the time inside the morning routine: o'clock, and the :15/:30/:45 forms read plainly as five-fifteen, five-thirty, five forty-five (no "quarter/half past" forms — the book states the pattern stops there); Bara oversleeps in the story — usually up at 5:30, it is now 6:15, he must leave at 6:45 | Indonesia, Grade 4, Chapter 1 "My Morning Routine," Part B, pp.14–15 (story p.16) |
 | Time as one practice table of the address lesson: "What time is it? — 10 (o'clock)"; "What time are you going? — At 5:45 in the afternoon/p.m."; 8:20 a.m., 7:15 p.m., 9:30 — clock faces printed under the table; a.m. and p.m. are in the lesson's vocabulary | Iran, Prospect 1 (Grade 7), Lesson 7 "My Address," Practice 3, printed pp.38–41 |
 | Clock times pictured in the word book: 2 o'clock / 2:15 / 2:30 / 2:45 | Iran, Prospect 1 (Grade 7), Photo Dictionary, Lesson 7 section (printed pp.48–76) |
+| Saying the time (o'clock) as the routines unit's English in action, over the day's doings | Jordan, Grade 3 Pupil's Book Semester 1, Unit 1 "It's a happy day!", pp.8–15 |
+| Telling the time as a Maths lesson of its own: the minute hand and hour hand named; o'clock, quarter past, half past, quarter to, and five/ten/twenty/twenty-five past and to; and a make-a-clock task | Jordan, Grade 3 Pupil's Book Semester 1, Maths (CLIL) "How do we tell the time?", pp.42–43 |
 
-**Acceptance count: taught in 7 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran).** Bangladesh carries
+**Acceptance count: taught in 8 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Jordan).** Bangladesh carries
 the clock's hands, the
 o'clock shape, and the a.m./p.m. rule; Egypt carries times
 inside the day's routines with the book's own question;
@@ -82,7 +87,7 @@ times inside the morning routine, with no quarter/half
 words — the same plain telling Laos's primary book uses;
 Iran carries times in a practice table with clock faces
 under it, a.m./p.m. in the vocabulary, and the quarter and
-half times pictured in its Photo Dictionary. Other closed
+half times pictured in its Photo Dictionary. Jordan carries o'clock saying inside its routines unit, and the whole clock — hands, quarters, halves, past and to by fives — as a Maths lesson with a make-a-clock task; Other closed
 countries join as their
 books are read (see READING-QUEUE.md).
 

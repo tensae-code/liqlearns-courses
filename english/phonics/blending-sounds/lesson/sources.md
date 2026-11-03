@@ -1,6 +1,6 @@
 # Sources for this lesson — Blending sounds
 
-countries: Egypt, Libya, Laos, China, Sierra Leone
+countries: Egypt, Libya, Laos, China, Sierra Leone, Jordan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The blending material lived inside the alphabet
@@ -19,8 +19,11 @@ letters.
 | Decoding as the named end of the letter sequence: decode (sound out and blend) unfamiliar words | Sierra Leone — Language Arts Primary 2 Lesson Plans, Term 2, Lesson 120 |
 | Combining letter sounds as a named teaching block, with building words from letters and work on the sounds at the start and end of words (initial/final sounds) | Sierra Leone — Language Arts Primary 1 Lesson Plans, Term 2: the "Combining Letter Sounds" block (Lessons 71–75); Lesson 90 (build words from letters); Lesson 105 (Phonemic Awareness — initial/final sounds) |
 | Using the sounds of two letters together, then matching sounds to letters and words | Sierra Leone — Language Arts Primary 2 Lesson Plans, Term 1, Lessons 47 and 49 (letters Hh and Ii) |
+| CVC word building and blending as Grade 1's closing phonics, in both semesters — Semester 1, Unit 4: CVC words (bat, bed, cap, cat, map, mat, red, sad, sit, tap, web, wet), read and ordered; Semester 2, Unit 8: CVC word building and blending (log, vet, bus, hat, hen, pan, bag, fox, jug, pot, sun, yes) | Jordan — Team Together Grade 1 Pupil's Books: Semester 1, Unit 4, printed pp.30–37; Semester 2, Unit 8, printed pp.30–37 |
+| The blending routine named in the teacher's method pages — "How to work with phonics": blending isolated phonemes into a word (the guide's example is *sad*), with segmenting games in the Games bank | Jordan — Team Together Grade 1 Teacher's Book, Semester 1 (second edition, 2025), "How to work with phonics", PDF p.13 |
+| CVC work in the Activity Books — Semester 1, Unit 4, Lessons 9–10, headed "e-a-i": listen, write and say (audio 4.21), match (cat), choose, write and say (map/cap-type items); Semester 2, Unit 8, Lesson 9, headed "Words": listen, write and say, then match (log-type CVC items, audio 8.21), and Lesson 10: choose, write and say | Jordan — Team Together Grade 1 Activity Books: Semester 1, Unit 4, printed pp.22–27; Semester 2, Unit 8, printed pp.22–27 |
 
-**Acceptance count: taught in 5 countries (Egypt, Libya, Laos, China, Sierra Leone).**
+**Acceptance count: taught in 6 countries (Egypt, Libya, Laos, China, Sierra Leone, Jordan).**
 China adds the alphabet stocked as five phonics sets rather than
 letter by letter (Grade 3 Volume 1), a complete short-vowel cycle
 inside one volume (Grade 3 Volume 2), and end-of-primary review
@@ -28,7 +31,10 @@ stock that sorts the learned sounds into groups (Grade 6 Volume 2).
 Sierra Leone adds blending named as the skill itself: a
 "Combining Letter Sounds" block in Primary 1, and decoding —
 sound out and blend — as the closing lesson of Primary 2's
-letter sequence.
+letter sequence. Jordan adds CVC building and blending as the
+closing phonics of both Grade 1 semesters, with the teacher's
+book naming the blending routine itself (isolated phonemes
+blended into a word).
 Counts grow as other closed countries' books are read.
 
 **Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
@@ -97,3 +103,25 @@ outright: **decoding — decode (sound out and blend) unfamiliar
 words** — the term and the Class 2 letter sequence close on
 blending, not on a new text. Where Laos blends with letter
 tiles in the hand, Sierra Leone names the move itself.
+
+**Jordan added 2026-11-03** — five books stock this lesson:
+**Books:** *Jordan Team Together, Grade 1: Pupil's Book,
+Semester 1* (second edition, revised and updated, 2025, ISBN
+978-9923-41-908-3), *Pupil's Book, Semester 2* (first edition
+(trial) 2024, ISBN 978-9923-41-727-0), *Activity Book,
+Semester 1* (second edition 2025, ISBN 978-9923-41-909-0),
+*Activity Book, Semester 2* (first edition 2024, ISBN
+978-9923-41-728-7), and *Teacher's Book, Semester 1* (second
+edition 2025, ISBN 978-9923-41-910-6) — Jordan, National
+Center for Curriculum Development (NCCD), Amman, from
+Pearson Education Ltd / York Press Ltd originals. All filed
+in english/books/jordan.md (Jordan — FULLY READ + CITATION
+CHECK PASSED 2026-11-03). In Jordan's Grade 1 the letter
+pairs of the alphabet lesson (filed there) land, in each
+semester's last unit, on this lesson: Unit 4 reads and orders
+a twelve-word CVC set, and Unit 8 is filed in the country
+book in the lesson's own words — "CVC word building and
+blending". The Teacher's Book's method page states the move
+the pupil pages practise: isolated phonemes are blended into
+a whole word, its worked example *sad*, one of the Unit 4
+words itself.

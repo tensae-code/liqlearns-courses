@@ -1,6 +1,6 @@
 # Sources — The town
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan
 
 Every part traces to its book and page.
 
@@ -51,6 +51,15 @@ Sierra Leone, MBSSE (Free Quality School Education). Filed
 in english/books/sierra-leone.md (JSS2 Term 2 section,
 FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 10:** Jordan Team Together, Grade 3: Pupil's Book, Semester 2 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 3 Pupil's Book Semester 2 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 11:** Jordan Team Together, Grade 4: Pupil's Book, Semester 2 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 4 Pupil's Book Semester 2 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 12:** Jordan Team Together, Grade 6: Pupil's Book, Semester 1 (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, from Pearson Education / York Press originals. Filed in
+english/books/jordan.md (Grade 6 Pupil's Book Semester 1 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Eight town words on pictures: hospital, school, shop, building, street, car, truck, bus (the hospital shown with its ambulance) | Egypt, Primary 1 Term 2, Unit 5 "Neighborhood," Lesson 1 "Around My Town," p.86 |
@@ -69,9 +78,12 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 | The town-places set in pictures, with the eight compass points: mosque, minaret, palace, store, church, restaurant, stadium, building, shrine, bridge, metro, zoo, airport, museum, train station, park, bus station, boulevard, cinema | Iran, Prospect 2 (Grade 8), Photo Dictionary, Lesson 5 section (printed pp.67–91; the compass points are at printed p.79) |
 | The community as a word-web around reading a sign or advert: village, school, church, market, medical centre | Sierra Leone, Primary 5 Term 3, Lesson 146 |
 | Giving directions as its own work: picture the route, use landmarks — school, famous shop, government office | Sierra Leone, JSS2 Term 2, Lesson 94 "Oral Description (Continuation)" |
+| A town set with its locating frame and directions: park, bakery, department store, post office, supermarket, bank, chemist's, bookshop — "Excuse me. Where's the bakery? — It's on Green Street. It's next to the bookshop." | Jordan, Grade 3 Pupil's Book Semester 2, Language booster 2, pp.40–41 |
+| A whole town unit: places in the local area — bridge, bus stop, car park, clothes shop, hotel, market, museum, restaurant, shopping centre, square, train station, zoo — with the town's describing adjectives (ancient, busy, cheap, expensive, modern, noisy, quiet, safe) | Jordan, Grade 4 Pupil's Book Semester 2, Unit 6 "Our town," pp.18–27 |
+| Places and buildings a level up — apartment building, castle, factory, harbour, hospital, office building, palace, skyscraper, sports centre, stadium, swimming pool, tower — with the parts of a building beneath them (ceiling, corridor, entrance, escalator, exit, floor, lift, roof, stairs, steps, wall) | Jordan, Grade 6 Pupil's Book Semester 1, Unit 3 "Places," pp.32–41 |
 
-**Acceptance count: taught in 8 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran, Sierra Leone).** Egypt
+**Acceptance count: taught in 9 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan).** Egypt
 carries the first set twice (Primary 1's
 eight words with their dialog; Primary 2's city set);
 Bangladesh carries city life as a topic, against village life;
@@ -82,7 +94,7 @@ neighbourhood on one map, with directions and the position
 set; Iran carries the city described and located whole, and
 the widest pictured places set in this lesson; Sierra Leone
 carries the community word-web and directions by landmarks.
-Other
+Jordan carries a town set located and directed in its Grade 3 booster, a whole Our town unit in Grade 4, and the buildings set with the parts of a building in Grade 6; Other
 closed countries join as their books are read (see
 READING-QUEUE.md).
 

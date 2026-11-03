@@ -1,6 +1,6 @@
 # Sources — The alphabet
 
-countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone
+countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan
 
 Every part traces to its book and page. The PDF of Libya's Pupils Book
 is one book page per PDF page, with the book page printed at the
@@ -45,6 +45,36 @@ lesson-plan books; no publication year printed). Filed in
 english/books/sierra-leone.md (Sierra Leone — Language Arts
 Primary 1 — FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 7:** English for Primary Schools, Textbook Grade 3 —
+Laos · **Publisher:** MoES/RIES, 2021 revised edition, ISBN
+978-9932-00317-4. Filed in english/books/laos.md. (Added to
+this list 2026-11-03 in the Jordan merge: Laos was already in
+this file's countries line, count and closing paragraph, but
+had been left out of the numbered book list — see the report
+note in the Jordan paragraph at the end of this file.)
+
+**Book 8:** Jordan Team Together, Grade 1 Pupil's Books,
+Semesters 1 and 2, and Grade 1 Activity Books, Semesters 1
+and 2 — Jordan · **Publisher:** National Center for
+Curriculum Development (NCCD), Amman, from Pearson Education
+Ltd / York Press Ltd originals. Pupil's Book Semester 1:
+Anna Osborn, second edition (revised and updated) 2025, ISBN
+978-9923-41-908-3; Pupil's Book Semester 2: first edition
+(trial) 2024, ISBN 978-9923-41-727-0; Activity Book Semester
+1: second edition 2025, ISBN 978-9923-41-909-0; Activity Book
+Semester 2: first edition 2024, ISBN 978-9923-41-728-7.
+Filed in english/books/jordan.md (Jordan — English Grade 1 —
+FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 9:** Jordan Team Together, Grade 3 Pupil's Book,
+Semester 1, and its Activity Book, Semester 1 — Jordan ·
+**Publisher:** National Center for Curriculum Development
+and Evaluation, Amman (Pearson / York Press originals);
+Pupil's Book: Lesley Koustaff, second edition (revised and
+updated) 2025, ISBN 978-9923-41-911-3. Filed in
+english/books/jordan.md (Jordan — English Grade 3 — FULLY
+READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 1 is "The Alphabet" — Book Map: Unit 1 vocabulary (a–z) and the one-word-per-letter list (apple, ball, car, duck, elephant, flower, gate, hand, insect, jam, kite, lemon, monkey, nose, orange, plane, queen, rocket, sun, tomato, umbrella, violin, watch, x-ray, yo-yo, zebra) | Libya Pupils G1, PDF p.5 (Book Map, Units 1–4) |
@@ -66,6 +96,9 @@ Primary 1 — FULLY READ + CITATION CHECK PASSED 2026-11-03).
 | The letters distributed three or four per lesson in the Sounds and Letters pages, complete only at the last review — Aa Kk Mm · Ee Bb Pp · Ii Tt Nn · Uu Ss Gg · Dd Ll Rr · Ff Vv Ww · Oo Hh Xx Yy · Cc Jj Qq Zz | Iran — Prospect 1 (Grade 7) Student Book, Lessons 1–8, printed pp.6–45; the whole alphabet A–Z can-do at Review 4, printed pp.46–47 |
 | One page per letter, A to Z in alphabetical order — the full alphabet down the side, a numbered stroke-order diagram for the capital and the small letter, and two example words per letter | Iran — Prospect 1 (Grade 7) Workbook, Alphabet / Handwriting Booklet, printed pp.4–29 (guide lines only, printed pp.2–3) |
 | The alphabet introduced as 26 letters, then taught one letter at a time in alphabetical order across the whole first year — identify the letter on the alphabet strip, in the week's letter story and in pupils' own names; say its name and sound; trace/write upper- and lower-case; then a separate words lesson for that letter | Sierra Leone — Language Arts Primary 1, Terms 1–3 (Aa–Hh, Term 1; Ii–Ss, Term 2; Tt–Zz, Term 3; the 26 letters introduced at Term 1, Lesson 15) |
+| All 26 letters taught across Grade 1 in letter pairs, two phonics lessons (Lessons 9–10) per unit, four words a letter — Semester 1: Ss/Dd (sing, sister, six, sun; dad, dig, doll, duck) and Cc/Aa (cap, cat, cup, cut; Ann, ant, apple, arrow), Pp/Rr and Ee/Bb, Tt/Mm and Ww/Ii; Semester 2 completes the alphabet: Hh/Ll and Gg/Ff, Jj/Uu and Oo/Nn, Zz/Kk/Qq (zebra, zero, zoo; king, kite, kitten; queen, question, quiet) and Xx/Vv/Yy (box, fox, six; van, vet, violin; yellow, yoghurt, yoyo) | Jordan — Team Together Grade 1 Pupil's Books: Semester 1, Units 1–3, printed pp.6–29; Semester 2, Units 5–7, printed pp.6–29 |
+| The letters traced and copied for the hand — the Activity Books' closing "Letters and sounds practice": trace and copy the Semester 1 set (S/s, D/d, C/c, A/a, P/p, R/r, then E/e, B/b, T/t, M/m, W/w, I/i) and the Semester 2 set (H/h, L/l, G/g … and N/n, Z/z, K/k …) | Jordan — Team Together Grade 1 Activity Books: Semester 1, printed pp.36–37; Semester 2, printed pp.36–37 |
+| The alphabet revisited in Grade 3 as letter names and spelling — "How do you spell Asma? A-s-m-a"; English in action: Asking for and spelling names; the Activity Book's alphabet listen-write (spell "Asma") | Jordan — Team Together Grade 3: Pupil's Book Semester 1, Welcome, printed pp.4–7; Activity Book Semester 1, Welcome, printed pp.2–5 |
 
 **Egypt KG2 rows added 2026-10-25** (whole book read complete) —
 KG2 teaches the other 13 letters, each with sound words, a formation
@@ -224,7 +257,7 @@ change, but Libya's layer is now a *spiral* — taught in Grade 1,
 re-taught in Grade 2 — which is how the course itself says a
 sound is learned.
 
-**Acceptance count: taught in 7 countries (Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone).**
+**Acceptance count: taught in 8 countries (Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan).**
 China joins through its Grade 3 Volume 1: the ABC song is placed
 before any letter teaching (Unit 1, p.6), and Recycle 2 adds a
 missing-letter sequence exercise (p.69) — the alphabet as a sung
@@ -236,7 +269,12 @@ Chapter 0); Iran prints the whole alphabet as a diagnostic,
 distributes the letters through its first book, and gives every
 letter a stroke-order page in its workbook; Sierra Leone spends
 its whole first year on the letters, one at a time in
-alphabetical order. Mongolia's
+alphabetical order. Jordan joined 2026-11-03: its Grade 1
+books teach all 26 letters in phonics pairs across the two
+semesters (16 letters in Semester 1, the remaining 10 in
+Semester 2), its Activity Books trace and copy every letter,
+and Grade 3 revisits the alphabet as spelling a name letter
+by letter. Mongolia's
 Grade 5 book was checked for this lesson and adds nothing: it
 teaches no letters (its alphabet is a classroom wall strip that
 never goes past "Ii") — recorded as an honest negative in
@@ -311,3 +349,35 @@ labelling words beginning with that letter. Reviews re-run the
 letters in blocks (Aa–Hh, Term 2 Lessons 61–62; Aa–Mm, Term 2
 Lesson 87), and Primary 2 revisits the whole alphabet for
 sound–letter matching.
+
+**Jordan added 2026-11-03** — five books stock this lesson:
+**Books:** *Jordan Team Together, Grade 1: Pupil's Book,
+Semester 1* (second edition, revised and updated, 2025, ISBN
+978-9923-41-908-3), *Pupil's Book, Semester 2* (first edition
+(trial) 2024, ISBN 978-9923-41-727-0), *Activity Book,
+Semester 1* (second edition 2025, ISBN 978-9923-41-909-0),
+*Activity Book, Semester 2* (first edition 2024, ISBN
+978-9923-41-728-7), and *Grade 3: Pupil's Book, Semester 1*
+(second edition 2025, ISBN 978-9923-41-911-3) — Jordan,
+National Center for Curriculum Development (NCCD), Amman,
+from Pearson Education Ltd / York Press Ltd originals. All
+filed in english/books/jordan.md (Jordan — FULLY READ +
+CITATION CHECK PASSED 2026-11-03). Jordan is the pairs case:
+Grade 1 never presents the alphabet as one strip — every unit
+closes with two phonics lessons (Lessons 9–10) teaching two
+letters at a time with four picture words each, Semester 1
+running s/d, c/a, p/r, e/b, t/m, w/i and Semester 2 running
+h/l, g/f, j/u, o/n, then z/k/q and x/v/y to complete all 26
+(the country file's own spine line: with Semester 1's letters,
+"the two semesters cover all 26 letters"). The Activity Books
+carry the hand work — every phonics lesson traced and said,
+closing in a "Letters and sounds practice" spread (printed
+pp.36–37 in each semester) that traces and copies the whole
+semester's set. Grade 3's Welcome (printed pp.4–7) then
+revisits the alphabet the way an older child uses it: letter
+names, and spelling a name aloud — "How do you spell Asma?
+A-s-m-a." (Pre-existing error fixed in this merge: Laos was
+in this file's countries line, count and closing paragraph
+from 2026-10-27 but had no entry in the numbered book list
+at the top; it is now Book 7, and the Jordan books are Books
+8 and 9 — no earlier book number changed.)

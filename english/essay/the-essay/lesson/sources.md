@@ -1,6 +1,6 @@
 # Sources — The essay
 
-countries: Bolivia, Ghana, Indonesia, Sierra Leone
+countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan
 
 Every part traces to its book and page.
 
@@ -38,6 +38,31 @@ Education. Filed in english/books/sierra-leone.md
 Technology. Filed in english/books/sierra-leone.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 8:** Jordan High Note, Grade 10, Student's Book,
+Semester 2 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in english/books/jordan.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 9:** Jordan High Note, Grade 11, Student's Book,
+Semester 1 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in english/books/jordan.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 10:** Jordan High Note, Grade 11, Teacher's Book,
+Semester 1 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in english/books/jordan.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 11:** Jordan High Note, Grade 12, Student's Book,
+Semester 1 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in english/books/jordan.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 12:** Jordan High Note, Grade 12, Student's Book,
+Semester 2 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in english/books/jordan.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The essay's definition — "an essay is a piece of writing that usually has five or more paragraphs, about one topic with several main points" — and the GENERAL ESSAY STRUCTURE table: Introduction ("it tells what your topic and main ideas are"); Topic 1/2/3 ("state your points/arguments, explore both sides of debate in a better answer"); Conclusion ("the same information as the introductory paragraph, written from a different perspective") | Bolivia compendium, the essay-structure grammar/writing section (as filed) |
@@ -49,8 +74,15 @@ Technology. Filed in english/books/sierra-leone.md
 | The five-paragraph essay as a named, built form: introduction, three body paragraphs, conclusion, with topic sentences, titles and well-developed ideas — then the same structure applied, building the full outline and essay | Sierra Leone, SSS1 Term 3, Lessons 105–106, pp.19 and 21 |
 | The series' core essay model restated: at least 5 paragraphs (introduction, body, conclusion), at least/about 450 words, paragraph shape (topic sentence, supporting sentences, concluding sentence), and writing titles | Sierra Leone, SSS2 Term 1, Lessons 41–42, pp.102 and 104 |
 | The essay arriving as a named form in Primary 5: Parts of an Essay (reading an essay about a favourite place), Using Paragraphs in Essay Writing, Planning an Essay, Essay Writing — parts, paragraphs, plan, then the writing itself | Sierra Leone, Primary 5 Term 2, Lessons 91–94 (Lesson 91 anchored at PDF p.60, as filed) |
+| The two-sided essay in Jordan's dress: a for-and-against essay (mobile phones in public) set as the unit's writing — the issue argued from both sides | Jordan, Grade 10 Student's Book, Semester 2, Unit 6, Writing, pp.12–13 |
+| The opinion essay as the same semester's second essay: the writer's own position argued through | Jordan, Grade 10 Student's Book, Semester 2, Unit 8, Writing, pp.34–35 |
+| The analytical essay as a whole unit's writing at Grade 11: the set question (will computer technology change how children communicate?) answered as an essay | Jordan, Grade 11 Student's Book, Semester 1, Unit 1, Writing, pp.12–13 |
+| The essay planned on paper before it is written: Graphic Organisers 1–5 — printed planners for the analytical essay, formal email, opinion essay, story and review | Jordan, Grade 11 Teacher's Book, Semester 1, Graphic Organisers, pp.192–199 |
+| The for-and-against essay taught whole at the top of the school: a full model essay ("Buying local: good or bad?") with Active Writing work on paraphrasing | Jordan, Grade 12 Student's Book, Semester 1, Unit 3, Lesson 6A, pp.34–35 |
+| The general essay with its own full model, on the panel topic "Memorisation of facts and figures is useless for our generation" | Jordan, Grade 12 Student's Book, Semester 1, Unit 5, Lesson 6A, pp.56–57 |
+| The opinion essay at Grade 12, with its full model ("Traditional or modern values?") and Active Writing training in the formal register essays demand | Jordan, Grade 12 Student's Book, Semester 2, Unit 8, Lesson 6A, pp.34–35 |
 
-**Acceptance count: taught in 4 countries (Bolivia, Ghana, Indonesia, Sierra Leone).**
+**Acceptance count: taught in 5 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan).**
 Bolivia defines the essay and tables its general structure
 whole; Ghana grows the writing process to the essay's
 scale with the outline as its planning tool. Indonesia
@@ -60,6 +92,10 @@ genres with the whole structure labelled — exposition
 discussion text (issue – arguments for – arguments against
 – conclusion/recommendation); Sierra Leone builds the
 five-paragraph, ~450-word essay outright from Primary 5's
-Parts of an Essay to the SSS1–SSS2 model lessons. Other finished
+Parts of an Essay to the SSS1–SSS2 model lessons; Jordan
+teaches the essay fully by Grade 12 — for-and-against,
+analytical, general and opinion essays, each with a full
+model, planned on printed Graphic Organisers and trained
+in formal register. Other finished
 countries join as their books are read (see
 READING-QUEUE.md).
