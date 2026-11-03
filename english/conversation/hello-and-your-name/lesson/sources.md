@@ -1,6 +1,6 @@
 # Sources for this lesson — Greetings
 
-countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal
+countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag.
@@ -66,6 +66,8 @@ side by side on one PDF page — that was wrong.
 | The name exchange as the first unit of the first book — "Hello, what's your name?", "I'm Miss Thapa / I'm Raju", "What's her/his name?" | Nepal — MY ENGLISH BOOK Grade I (student's book), Unit 1 "Starting school", printed pp.1–6 ("I'm Miss Thapa." printed p.1) |
 | The exchange re-opened a year up — "Hello! I'm Mr. Gurung. What is your name? My name is Pukar" | Nepal — MY ENGLISH BOOK Grade II (student's book), Unit 1 "Going to school", printed pp.1–7 |
 | Greetings, introductions and leave-taking dialogues as a whole unit's speaking work | Nepal — English Grade 6 (student's book), Unit 5 "A real hero", printed pp.38–47 |
+| The course opens on meeting and naming — Starter Lesson 1 "Let's meet Nare!": hello / hi / goodbye, introducing yourself ("I am …") and others ("This is …"), with the same cast carried through the book | Armenia — English 3, Part 1 (COAF), Starter Unit, Lesson 1, printed p.3 |
+| Introducing others by name — "This is Jack" — inside the first unit's classmate work | Armenia — English 3, Part 1 (COAF), Unit 1 "My Friends and I", printed pp.9–32 (Unit 1.1 "My Classmates") |
 
 **Second country merged 2026-10-25 — Libya:**
 English for Libya, Pupils Book Grade 1 (CERC, Ministry of Education,
@@ -108,7 +110,7 @@ rendered page the same day).
 - Unit 1 "Greeting and Numbers," p. 14 (Hello/Hi, Goodbye/bye tracing;
   "What's your name? / My name's" tracing strips, p. 16).
 
-**Acceptance count: taught in 19 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal).**
+**Acceptance count: taught in 20 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia).**
 China adds name exchanges from its first primary page and the
 "Where are you from? — I'm from …" origin frame (Grades 3), plus
 five printed ways to say goodbye (Grade 6 Volume 2); North
@@ -172,6 +174,7 @@ country closes, its books merge in as the files are in hand, its name
 joins this list, and the count grows — that count is the acceptance
 points.
 Nepal joined 2026-11-03: its Grade 1 book opens on the exchange itself — "Hello, what's your name?" with "I'm …" answers (Unit 1, printed pp.1–6) — its Grade 2 book re-opens on "Hello! I'm Mr. Gurung. What is your name? My name is Pukar" (Unit 1, printed pp.1–7), and its Grade 6 book carries greetings, introductions and leave-taking as a whole unit's dialogues (Unit 5, printed pp.38–47).
+Armenia joined 2026-11-03: its Grade 3 book opens on meeting and naming — Starter Lesson 1, "Let's meet Nare!" (printed p.3) — and introduces others by name, "This is Jack", in Unit 1, "My Friends and I" (printed pp.9–32).
 
 **Egypt KG2 added 2026-10-25** (same country, the recall layer):
 English KG2 Term 1, book p.2 — a page headed "Greetings — Listen,
@@ -570,3 +573,5 @@ and Lam give name, sex, age eight, Primary Three and a
 loved subject ("I am eight years old.", printed p.7).
 
 **Nepal added 2026-11-03** — three books stock this lesson: **Book:** *MY ENGLISH BOOK Grade I* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur, first edition 2003, reprint 2011, ISBN 978-999-33-714-0-8. **Book:** *MY ENGLISH BOOK Grade II* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, first edition 2004, second edition 2006, reprint 2011, ISBN 978-999-33-708-7-8. **Book:** *English Grade 6* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, first edition 1994, Revised Edition 2012, ISBN 978-9937-601-00-9. All Filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Nepal opens its course on this lesson, like Egypt, Libya and Syria: Grade 1, Unit 1, "Starting school" (printed pp.1–6), teaches greetings and introductions — "Good morning, Miss", "I'm Miss Thapa / I'm Raju", "Hello, what's your name?", "What's her/his name?" — with a hello chant. Grade 2, Unit 1, "Going to school" (printed pp.1–7), re-opens on the exchange extended: "Hello! I'm Mr. Gurung. What is your name? My name is Pukar." Grade 6, Unit 5 (printed pp.38–47), carries greetings, introductions and leave-taking dialogues as its speaking work (the held Grade 6 copy is truncated at printed p.108; Unit 5 sits inside the held pages).
+
+**Armenia added 2026-11-03** — one book stocks this lesson: **Book:** *English 3 — Part 1* (student's book) — Armenia, Children of Armenia Charitable Foundation (COAF), Yerevan 2024, Nersesyan/Tonoyan/Arakelyan, no ISBN printed; the held file is Part 1 only. Filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia opens its course on this lesson: the Starter Unit, Lesson 1, "Let's meet Nare!" (printed p.3), teaches hello / hi / goodbye and introducing yourself ("I am …") and others ("This is …"), with the same cast carried through the book. Unit 1, "My Friends and I" (printed pp.9–32), then introduces others by name — "This is Jack" — in Unit 1.1, "My Classmates".

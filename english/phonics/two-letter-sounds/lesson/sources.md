@@ -1,6 +1,6 @@
 # Sources for this lesson — Two-letter sounds
 
-countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal
+countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The two-letter sets lived inside the alphabet
@@ -67,8 +67,12 @@ single letters.
 | **ee** as a listen-and-repeat sound set — sheep, bean, seat, feet, cheeks — closing the first unit | Nepal — MY ENGLISH BOOK Grade II (student's book), Unit 1, printed pp.1–7 |
 | **oo** sorted by ear in listen-and-repeat pairs (look/pool, boot/pull, foot/full), with the silent-**kn** set (knee, knot, knit, knife), the **ea** set (read, beat, eat, bean, clean) and chalk/walk/talk for the **-alk** set at later unit ends | Nepal — MY ENGLISH BOOK Grade II (student's book), Unit 3, printed pp.13–19; Unit 5, printed pp.26–32; Unit 6, printed pp.33–38; Unit 9, printed pp.51–55 |
 | The diphthongs /ai/ and /eə/ named inside the true companion guide's key to the student's own sound sets (white/kite/night…, hair/care/pair…) | Nepal — Teacher's Guide My English Book - 3 (teacher's guide, true companion), Unit 2, printed pp.9–15; student's book Unit 2, printed pp.10–17 |
+| Two letters, one sound: oo — "good / a book / a cook / a cookbook / look" inside the G and O letter lesson | Armenia — English 3, Part 1 (COAF), Unit 2.5, printed pp.48–55 |
+| ck working as one sound — completing words with c or k, "SO+CK = sock" | Armenia — English 3, Part 1 (COAF), Unit 2.7 |
+| ch and sh taught together as digraphs — chips, fish, shoes; "They buy some fish and chips" | Armenia — English 3, Part 1 (COAF), Unit 2.8, printed p.59 |
+| ee inside the E and U lesson (egg, pen, ten, cup, duck; ee digraph) | Armenia — English 3, Part 1 (COAF), Unit 3.2 |
 
-**Acceptance count: taught in 15 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal).**
+**Acceptance count: taught in 16 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia).**
 China adds the first r-controlled-vowel ladder taught as a named
 system (Grade 4 Volume 2), a run of one-pair-per-page Let's spell
 lessons across Grades 5–6 (ea/ee, ow/ou, oo, ch/sh, th, ng/nk,
@@ -496,3 +500,5 @@ blends — gr, sl, cr, br and the rest — are a different
 thing and live in phonics/blends.)
 
 **Nepal added 2026-11-03** — three books stock this lesson, in part: **Book:** *MY ENGLISH BOOK Grade II* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, first edition 2004, second edition 2006, reprint 2011, ISBN 978-999-33-708-7-8. **Book:** *MY ENGLISH BOOK Grade 3* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, first edition 2005, reprint 2011, ISBN 978-999-33-708-9-4. **Book:** *Teacher's Guide My English Book - 3* (teacher's guide) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, First edition 2008. All Filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). PARTIAL STOCK, recorded as such: Nepal has no digraph or vowel-pair teaching strand in any held book — the country file states plainly that its primary books carry no phonics programme, their sounds appearing only as short listen-and-repeat word sets at unit ends. Those sets are this lesson's edges, and they are real: Grade 2's Unit 1 closes on the ee set (sheep, bean, seat, feet, cheeks), Unit 3 on oo pairs sorted by ear (look/pool, boot/pull, foot/full), Unit 5 on silent kn- (knee, knot, knit, knife), Unit 6 on ea (read, beat, eat, bean, clean) and Unit 9 on chalk/walk/talk. A year up, Grade 3's Unit 2 sound sets (white/kite/night…, hair/care/pair…, printed pp.10–17) are named in its companion guide as the diphthongs /ai/ and /eə/ (guide Unit 2, printed pp.9–15). This guide IS the true companion of its held student's book — the one matched pair among Nepal's six guides — so its keys are cited as the student's book's own keys. Nepal is counted for these sets only, exactly as filed.
+
+**Armenia added 2026-11-03** — one book stocks this lesson: **Book:** *English 3 — Part 1* (student's book) — Armenia, Children of Armenia Charitable Foundation (COAF), Yerevan 2024, Nersesyan/Tonoyan/Arakelyan, no ISBN printed; the held file is Part 1 only (Starter + Units 1–3). Filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia's two-letter sounds arrive inside its letter lessons, not as a separate strand: oo — "good / a book / a cook / a cookbook / look" — inside the G and O letter lesson (Unit 2.5, printed pp.48–55); ck working as one sound, completing words with c or k, "SO+CK = sock" (Unit 2.7); ch and sh taught together as digraphs — chips, fish, shoes; "They buy some fish and chips" (Unit 2.8, printed p.59); and ee inside the E and U lesson (egg, pen, ten, cup, duck; ee digraph) (Unit 3.2).

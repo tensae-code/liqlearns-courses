@@ -1,6 +1,6 @@
 # Sources — The present perfect continuous
 
-countries: Egypt, Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Sudan, Nepal
+countries: Egypt, Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Sudan, Nepal, Armenia
 
 Every part traces to its book and page.
 
@@ -88,9 +88,12 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | The present perfect continuous identified and practised as one of the four present tenses (simple, continuous, perfect, perfect continuous) | Nepal, English Grade 8, Unit 13, printed pp.157–171 |
 | Present perfect and present perfect continuous taught together as the unit's grammar, with present perfect since/for in the unit's second grammar pass | Nepal, English Grade 9, Unit 15, printed pp.185–197 |
 | The tense in a guide's own teaching, worded as such: the Grade 9 teacher's guide — a DRAFT for a different, older twenty-unit textbook, not the held student's book's companion, and held only as an incomplete excerpt — teaches present perfect and present perfect continuous with since/for in its Unit 19, which survives in the held copy | Nepal, Teachers' Guide English Grade 9, Unit 19, printed pp.139–144 |
+| Present perfect set against present perfect progressive as one grammar sub-unit — form, use, for/since/how long — on traditional dance (Kochari) | Armenia — English 9 (COAF), Unit 2.4, printed pp.36–40 |
+| The continuous perfect inside the full perfect system — the exercise heading itself reads "(Present Perfect or Present Perferct Continuous)" [sic] | Armenia — English 11 (COAF), Unit 1.2, printed p.10 |
+| Present perfect against present perfect continuous in the final year's present-tense revision | Armenia — English 12 (Mari), Topic 3, Grammar Review, printed pp.62–67 |
 
-**Acceptance count: taught in 10 countries (Egypt,
-Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Sudan, Nepal).** Libya meets the tense at Grade 8 inside a
+**Acceptance count: taught in 11 countries (Egypt,
+Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Sudan, Nepal, Armenia).** Libya meets the tense at Grade 8 inside a
 records lesson, names it for recent habits at Grade 9,
 and drills it as a full lesson with for/since at Grade
 10. Egypt states the complete box at Secondary 12 — the
@@ -141,3 +144,5 @@ unlooked-for.
 **South Sudan added 2026-11-03** — 2 books stock this lesson: **Book:** *Secondary English 1 Student's Book* — South Sudan, Ministry of General Education and Instruction, © 2018. **Book:** *Secondary English 1 Teacher's Guide* — South Sudan, Ministry of General Education and Instruction, © 2018. All filed in english/books/south-sudan.md (Secondary 1 (Grade 9) — Secondary English 1 Student's Book (student's book); Secondary 1 (Grade 9) — Secondary English 1 Teacher's Guide (teacher's guide), FULLY READ + CITATION CHECK PASSED 2026-11-03). South Sudan teaches this tense in full at Secondary 1: the Student's Book's Unit 2 "Rural and Urban life" language practice (printed pp.57–58) teaches the form outright — **has/have + been + -ing**, with **for/since** durations and **recently/lately** without duration — and the Teacher's Guide's Unit 2 (guide Part B pp.23–38) re-teaches it with fuller rules and answers ("Opi has been running"; "It has been raining for 3 days now," guide p.37). The honest limit filed beside it: the same Unit 2 practice conversation also mixes in present perfect simple forms, which are used there but never separately explained anywhere in the set — that use stocks nothing for the present-perfect lesson.
 
 **Nepal added 2026-11-03** — 3 books stock this lesson: **Book:** *English Grade 8* — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre. **Book:** *English Grade 9* — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre. **Book:** *Teachers' Guide English Grade 9* — Nepal, Curriculum Development Centre. All filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Nepal does teach this tense, checked honestly against the book sections: the **Grade 8 student's book identifies and practises it as one of the four present tenses** (Unit 13, printed pp.157–171), and the **Grade 9 student's book teaches present perfect and present perfect continuous together** as Unit 15's grammar (printed pp.185–197). The **Grade 9 teacher's guide is cited for its own teaching only, worded as such**: it is a DRAFT written for an older twenty-unit textbook, not the held Grade 9 student's book, and the held copy is an incomplete excerpt — its Unit 19 (printed pp.139–144, which survives) teaches present perfect and present perfect continuous with since/for.
+
+**Armenia added 2026-11-03** — 3 books stock this lesson: **Book:** *English 9* — Armenia, COAF, Yerevan 2025, no ISBN printed. **Book:** *English 11* — Armenia, COAF, Yerevan 2025, Tonoyan/Arakelyan, no ISBN printed. **Book:** *English 12* — Armenia, Mari Publishing, Yerevan 2025, ISBN 978-9939-888-42-2. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia sets present perfect against present perfect progressive as one grammar sub-unit — form, use, for/since/how long — on traditional dance (Kochari) in Grade 9 (English 9 (COAF), Unit 2.4, printed pp.36–40). Grade 11 carries the continuous perfect inside the full perfect system — the exercise heading itself reads "(Present Perfect or Present Perferct Continuous)" [sic] (English 11 (COAF), Unit 1.2, printed p.10). Grade 12 sets present perfect against present perfect continuous in the final year's present-tense revision (English 12 (Mari), Topic 3, Grammar Review, printed pp.62–67).

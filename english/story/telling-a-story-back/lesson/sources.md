@@ -1,6 +1,6 @@
 # Sources — Telling a story back
 
-countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal
+countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia
 
 Every part traces to its book and page.
 
@@ -141,9 +141,10 @@ PASSED 2026-11-03).
 | Retelling set again on the next long text: the flood story taught by retelling, with word meanings and sentence-making beside it | South Sudan, Primary English 3, Teacher's Guide, Unit 6 (guide printed pp.53–62; Pupil's Book pp.32–37) |
 | "Re-telling a story" as a named activity of the Short Stories unit — the guide carries the retelling as its own titled activity (its Activity 7), where the pupil's book orders listening and elements differently | South Sudan, Primary English 6, Teacher's Guide, Unit 7 (guide printed pp.103–114; Pupil's Book pp.88–100) |
 | Retelling taught in a guide's own teaching, worded as such: the Grade 6 teacher's guide — written for the newer eighteen-unit Grade 6 textbook, not the held older student's book — teaches the retelling of "Beauty and the Beast" by "Popcorn Storytelling", the class carrying the story round until it is told again whole | Nepal, Teacher's Guide English Grade Six, Unit 3, printed pp.19–26 |
+| A text retold in order as writing work — the fashion article summarised in chronological order (partial stock: ordered retelling of a text's events; no held Armenia book teaches oral retelling by name) | Armenia — English 7 (Zangak), Unit 1, Writing Spot, printed p.16 |
 
-**Acceptance count: taught in 13 countries (Bangladesh,
-Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal).** Bangladesh equips the retelling (word box,
+**Acceptance count: taught in 14 countries (Bangladesh,
+Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia).** Bangladesh equips the retelling (word box,
 first-person, comparison); Ghana frames it (chain, Herring
 Bone, sequence order); China equips it again (the fill-in
 retell, the phone retell, the sorted diary recount);
@@ -183,3 +184,5 @@ their books are read (see READING-QUEUE.md).
 **South Sudan added 2026-11-03** — PARTIAL stock, filed exactly as a partial: two books stock this lesson in part: **Book:** *Primary English 3, Teacher's Guide* — South Sudan, Ministry of General Education and Instruction, © 2018; **Book:** *Primary English 6, Teacher's Guide* — South Sudan, Ministry of General Education and Instruction, © 2018. All filed in english/books/south-sudan.md (Primary 3 — English Teacher's Guide 3 and Primary 6 — Primary English 6 Teacher's Guide sections, FULLY READ + CITATION CHECK PASSED 2026-11-03). The retelling is guide-taught: the Primary 3 guide teaches the Kenyi story (Unit 5, guide printed pp.44–52) by retelling and oral questions only, and the flood story (Unit 6, guide printed pp.53–62) by retelling, word meanings and sentence-making — the country file's own verdict is that the two longest Primary 3 reading texts get retelling routines only; and the Primary 6 guide carries "Re-telling a story" as a named, titled activity of its Short Stories unit (Unit 7, guide printed pp.103–114). Stated plainly: the retelling lives in the two guides — no read South Sudan pupil's book names it, and neither guide states an own-words retelling aim or a comparison against the original.
 
 **Nepal added 2026-11-03** — PARTIAL stock, filed exactly as a partial: one book stocks this lesson in part: **Book:** *Teacher's Guide English Grade Six* — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre. Filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). The retelling is guide-taught, **cited for the guide's own teaching only, worded as such**: this guide (Edition 2022) keys to the newer eighteen-unit Grade 6 textbook, which is NOT held — the held Grade 6 student's book is the older 1994/2012 book — and its Unit 3 (printed pp.19–26) teaches **the retelling of "Beauty and the Beast" by "Popcorn Storytelling"**, the class carrying the story round in turns until it is told again whole. Stated plainly: the retelling lives in this one guide's own teaching — no read Nepal student's book names retelling, and the guide states no own-words retelling aim or comparison against the original.
+
+**Armenia added 2026-11-03** — PARTIAL stock, filed plainly: one book stocks this lesson in part: **Book:** *English 7* — Armenia, Zangak, Yerevan 2023, Grigoryan, ISBN 978-9939-99-035-4. Filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). The nearest Armenia comes is ordered summary work: a text retold in order as writing work — the fashion article summarised in chronological order (Unit 1, Writing Spot, printed p.16). Stated plainly: this is partial stock — ordered retelling of a text's events; no held Armenia book teaches oral retelling by name.

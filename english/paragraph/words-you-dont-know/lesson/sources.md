@@ -1,6 +1,6 @@
 # Sources — Words you don't know
 
-countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan
+countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia
 
 Every part traces to its book and page.
 
@@ -107,9 +107,11 @@ CHECK PASSED 2026-11-03).
 | Guessing unknown words from the text around them, practised on nonsense words themselves: Carroll's "Jabberwocky" read and its nonsense words' meanings guessed from the poem | South Africa, English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks), printed pp.110–113 |
 | Working out word meanings taught as a strategy set — synonyms and antonyms, prefixes and suffixes, and context clues named together as the routes to an unknown word | South Africa, English First Additional Language, Grade 6 Workbook 2 (Rainbow Workbooks), Theme 8, as filed in its section in english/books/south-africa.md |
 | Getting unstuck on a word taught as a named strategy set in the guide's Introduction: re-read, context clues, infer meaning, locate key words, predictions and word attack — the routes named for the teacher to teach, in the guide only | South Sudan, Primary English 3, Teacher's Guide, Introduction (printed pp.iv–x) |
+| Guessing an unknown word's meaning from its context, taught with a worked example — "I can't use this knife. It is too blunt." — inside the guide's vocabulary-teaching chapter (the guide's own teaching) | Armenia — English 10, Methodological Guide (Zangak), Introduction, printed p.5 |
+| Word Knowledge work in the earlier guide: matching English and Armenian meanings and guessing meaning from context (the guide's own teaching) | Armenia — English 7, Methodological Guide (Zangak), printed p.5 |
 
-**Acceptance count: taught in 12 countries (Bangladesh,
-Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan).** India's senior books print the
+**Acceptance count: taught in 13 countries (Bangladesh,
+Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia).** India's senior books print the
 command at every unit's head; Bangladesh names the routine;
 Ghana pairs context with word relationships; Libya's texts
 gloss in the line; China coaches the guessing itself, in a
@@ -144,3 +146,5 @@ books are read (see READING-QUEUE.md).
 **South Africa added 2026-11-03** — two books stock this lesson: *English Home Language, Grade 5 Workbook 1* and *English First Additional Language, Grade 6 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. The stock is the lesson's guessing-from-context part: the Home Language book reads Carroll's "Jabberwocky" and has learners guess the nonsense words' meanings from the poem (printed pp.110–113), and the First Additional Language book teaches working out word meanings as a strategy set — synonyms and antonyms, prefixes and suffixes, and context clues (Theme 8).
 
 **South Sudan added 2026-11-03** — PARTIAL stock, filed exactly as a partial: one book stocks this lesson in part: **Book:** *Primary English 3, Teacher's Guide* — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md (Primary 3 — English Teacher's Guide 3 (teacher's guide) section, FULLY READ + CITATION CHECK PASSED 2026-11-03). The guide's Introduction (printed pp.iv–x) sets out the reading strategies for getting unstuck on a word and for understanding a text — re-read, context clues, infer meaning, locate key words, predictions, word attack — context clues and inferring meaning named outright among them. Stated plainly: this is guide-Introduction teaching only; no read South Sudan pupil's book sets a guessing-from-context lesson, and the series' definition-and-matching vocabulary work (for example in Primary 7) is not this lesson and is not counted here.
+
+**Armenia added 2026-11-03** — GUIDE-ONLY stock, filed plainly: two books stock this lesson, both guides: **Book:** *English 10 — Methodological Guide* — Zangak, Yerevan 2023; methodology-only, cited only for its own teaching. **Book:** *English 7 — Methodological Guide* — Zangak 2023; methodology-only companion in Armenian, cited only for its own teaching. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Both guides are methodology companions to held books; the guessing teaching is the guides' own. The Grade 10 guide teaches guessing an unknown word's meaning from its context with a worked example — "I can't use this knife. It is too blunt." — inside its vocabulary-teaching chapter (Introduction, printed p.5); the Grade 7 guide's Word Knowledge work covers matching English and Armenian meanings and guessing meaning from context (printed p.5).

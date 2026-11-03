@@ -1,6 +1,6 @@
 # Sources for this lesson — How old are you?
 
-countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal
+countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -45,8 +45,9 @@ Libya (Garnet) · Books verified on disk 2026-10-25.
 | The same introductions planned for the teacher, with age named among the introduction's items (name, gender, age, class, loved subject) | South Sudan — English Teacher's Guide 3, Unit 2, printed pp.12–23 (Pupil's Book pp.7–13) |
 | "How old are you? — I'm five/six" and "How old is he/Raju?" as the age unit's frame, with a follow-the-string age-writing exercise (Gita, Hari, Bina, Pemba, Lok, Rita, Anup) | Nepal — MY ENGLISH BOOK Grade I (student's book), Unit 9 "Age and days", printed pp.57–61 |
 | Ages stated whole in a family reading — grandfather 70, grandmother 65, father 35, mother 30, Pukar 6, brother and sister 8 and 9 | Nepal — MY ENGLISH BOOK Grade II (student's book), Unit 3 "Numbers", printed pp.13–19 |
+| The age question as its own starter lesson — "How old are you?", numbers 1–10, "I'm nine / I'm ten" | Armenia — English 3, Part 1 (COAF), Starter Unit, Lesson 3, printed p.5 |
 
-**Acceptance count: taught in 16 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
+**Acceptance count: taught in 17 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 China teaches the exchange in the full "years old" form with
 candle counting (Grade 3 Volume 1) and later ties age to the
 birthday date (Grade 5 Volume 2); North Macedonia practises it
@@ -101,6 +102,7 @@ years old," Primary 1 Term 3, Lesson 146) but never teach the
 question, so Sierra Leone is not counted here. The count grows
 as other closed countries' books are read.
 Nepal joined 2026-11-03 with the question itself in its first book — "How old are you? — I'm five/six" and "How old is he/Raju?" in Grade 1's age unit (Unit 9, printed pp.57–61) — and ages stated whole across a whole family in Grade 2's numbers unit (Unit 3, printed pp.13–19).
+Armenia joined 2026-11-03 with the age question as its own starter lesson: "How old are you?", with numbers 1–10 and "I'm nine / I'm ten" (Starter Unit, Lesson 3, printed p.5).
 (Pre-existing error fixed in this merge: this paragraph
 previously named Egypt alongside Nicaragua as not counted —
 Egypt is counted, in the countries line, the count and its
@@ -403,3 +405,5 @@ self-introduction only, exactly as Ethiopia is above,
 and not for the question.
 
 **Nepal added 2026-11-03** — two books stock this lesson: **Book:** *MY ENGLISH BOOK Grade I* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur, first edition 2003, reprint 2011, ISBN 978-999-33-714-0-8. **Book:** *MY ENGLISH BOOK Grade II* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, first edition 2004, second edition 2006, reprint 2011, ISBN 978-999-33-708-7-8. Both Filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 1, Unit 9, "Age and days" (printed pp.57–61), is built on the question: "How old are you? — I'm five/six", "How old is he/Raju?", with a follow-the-string age-writing exercise naming Gita, Hari, Bina, Pemba, Lok, Rita and Anup. Grade 2, Unit 3 (printed pp.13–19), states a whole family's ages inside its numbers reading — grandfather 70, grandmother 65, father 35, mother 30, Pukar 6, uncle 30, aunt 25, brother and sister 8 and 9.
+
+**Armenia added 2026-11-03** — one book stocks this lesson: **Book:** *English 3 — Part 1* (student's book) — Armenia, Children of Armenia Charitable Foundation (COAF), Yerevan 2024, Nersesyan/Tonoyan/Arakelyan, no ISBN printed; the held file is Part 1 only. Filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia teaches the age question as its own starter lesson: the Starter Unit, Lesson 3, "How old are you?" (printed p.5), gives the question with numbers 1–10 and the answers "I'm nine / I'm ten".

@@ -1,6 +1,6 @@
 # Sources for this lesson — How are you?
 
-countries: Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal
+countries: Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -37,8 +37,9 @@ Libya (Garnet) · Books verified on disk 2026-10-25.
 | The exchange planned as its own section for the teacher — E "How are you? Fine thank you" — taught by read-and-repeat and pair role-play | South Sudan — Primary English 1, Teacher's Guide, Unit 1, Section E, printed pp.5–16 (Pupil's Book pp.1–7) |
 | "How are you today? — I'm fine" — a hello chant inside the first unit | Nepal — MY ENGLISH BOOK Grade I (student's book), Unit 1 "Starting school", printed pp.1–6 ("How are you today?" printed p.5) |
 | "How are you? I'm fine. How about you? I'm also fine" — the question with its return question | Nepal — MY ENGLISH BOOK Grade II (student's book), Unit 1 "Going to school", printed pp.1–7 |
+| The exchange taught as its own starter lesson — "How are you?" with the answer "I am fine too, thank you." | Armenia — English 3, Part 1 (COAF), Starter Unit, Lesson 2, printed p.4 |
 
-**Acceptance count: taught in 14 countries (Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
+**Acceptance count: taught in 15 countries (Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 China joins with the exchange itself in its first primary book
 (Grade 3 Volume 1) and deepens it three years later into feelings
 talk — "How do you feel?", "What's wrong?" (Grade 6 Volume 1).
@@ -78,6 +79,7 @@ likewise teach no "How are you?" exchange (their feelings set in
 Grade 4 is a different thing, recorded in the country file). The
 count grows as other closed countries' books are read.
 Nepal joined 2026-11-03 with the exchange in both its first books: Grade 1's hello chant asks "How are you today? — I'm fine" (Unit 1, printed p.5), and Grade 2 runs "How are you? I'm fine. How about you? I'm also fine" (Unit 1, printed pp.1–7) — the return question carried in the Grade 2 form.
+Armenia joined 2026-11-03 with the exchange taught as its own starter lesson: "How are you?" with the answer "I am fine too, thank you." (Starter Unit, Lesson 2, printed p.4).
 (Pre-existing error fixed in this merge: this paragraph
 previously named Egypt alongside Nicaragua as not counted —
 Egypt is counted, in the countries line, the count and its
@@ -300,3 +302,5 @@ wider answer set — no "very well" or "not very well" —
 is recorded for South Sudan, and none is claimed here.
 
 **Nepal added 2026-11-03** — two books stock this lesson: **Book:** *MY ENGLISH BOOK Grade I* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur, first edition 2003, reprint 2011, ISBN 978-999-33-714-0-8. **Book:** *MY ENGLISH BOOK Grade II* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, first edition 2004, second edition 2006, reprint 2011, ISBN 978-999-33-708-7-8. Both Filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 1, Unit 1 (printed pp.1–6), carries the question inside its hello chant — "How are you today? — I'm fine" ("How are you today?" is a citation anchor at printed p.5). Grade 2, Unit 1 (printed pp.1–7), teaches it as an exchange with its return question: "How are you? I'm fine. How about you? I'm also fine." No wider answer set — no "very well" or "not very well" — is recorded for Nepal, and none is claimed here.
+
+**Armenia added 2026-11-03** — one book stocks this lesson: **Book:** *English 3 — Part 1* (student's book) — Armenia, Children of Armenia Charitable Foundation (COAF), Yerevan 2024, Nersesyan/Tonoyan/Arakelyan, no ISBN printed; the held file is Part 1 only. Filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia teaches the exchange as its own starter lesson: the Starter Unit, Lesson 2, "How are you?" (printed p.4), gives the question with the answer "I am fine too, thank you."

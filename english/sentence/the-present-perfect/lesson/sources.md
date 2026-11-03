@@ -1,6 +1,6 @@
 # Sources — The present perfect
 
-countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal
+countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia
 
 Every part traces to its book and page.
 
@@ -145,9 +145,12 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | Present perfect against past simple, in two full grammar passes, with talking about experiences in the tense as the unit's speaking work — Nepal's first present-perfect teaching (no primary book teaches it, and Grade 7 does not teach it as a topic) | Nepal, English Grade 8, Unit 4, printed pp.37–50 |
 | Present perfect taught again at Grade 9, with since/for and "How long…?" beside its continuous twin | Nepal, English Grade 9, Unit 15, printed pp.185–197 |
 | Present perfect against past simple again at Grade 11, with been/gone and "Have you ever…?" experience talk | Nepal, English (Grade 11), Unit 13, printed pp.118–129 |
+| The present perfect's first presentation — sites in Armenia as the content, then continued on cultural heritage sites, with the time adverbs that belong to it taught a unit later | Armenia — English 6 (COAF), Unit 5.2, printed pp.125–129; Unit 5.4, printed pp.131–134; Unit 6.2, printed pp.153–155 |
+| The form stated outright — "have / has + past participle (V3)" — with a present perfect vs past simple contrast chart after it | Armenia — English 7 (Zangak), Unit 2, printed pp.48–49 |
+| The perfect system opened whole in Grade 11 — present perfect inside the six-perfect-tense sub-unit | Armenia — English 11 (COAF), Unit 1.2, printed pp.8–11 |
 
-**Acceptance count: taught in 14 countries (Egypt,
-Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal).** Libya introduces the tense at Grade 8 with the
+**Acceptance count: taught in 15 countries (Egypt,
+Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia).** Libya introduces the tense at Grade 8 with the
 song and the grammar box, guards the no-exact-time rule in
 its Teacher's Book, sets the ever/never/yet/already box at
 Grade 9, and states the whole entry again in its Grammar
@@ -201,3 +204,5 @@ course stocks nothing for that lesson from Laos.
 **Syria added 2026-11-03** — *Emar series* (Syria, Ministry of Education; full read in english/books/syria.md). Syria stocks the present perfect in full: it **arrives in Grade 6 with just and yet** (Pupil's Book 6, Unit 11, printed pp.56–59), then **ever/never with for/since and How long…?** (Unit 12, printed pp.60–63), and runs as **its own unit in Grade 7** (Student's Book 7, Unit 5, printed pp.31–35), with the **rule box in Workbook 7** (Unit 5, printed pp.20–23).
 
 **Nepal added 2026-11-03** — 3 books stock this lesson: **Book:** *English Grade 8* — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre. **Book:** *English Grade 9* — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre. **Book:** *English (Grade 11)* — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre. All filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Nepal brings the tense in late and states its limit plainly: it is **never taught in any held primary book and not as a topic in Grade 7** (forms occur untaught inside Grade 7 readings); it is first taught at **Grade 8, as present perfect against past simple in two full grammar passes** (Unit 4, printed pp.37–50), taught again at **Grade 9 with since/for** (Unit 15, printed pp.185–197), and set against the past simple again at **Grade 11, with been/gone** (Unit 13, printed pp.118–129).
+
+**Armenia added 2026-11-03** — 3 books stock this lesson: **Book:** *English 6* — Armenia, COAF, Yerevan 2024, no ISBN printed. **Book:** *English 7* — Armenia, Zangak, Yerevan 2023, Grigoryan, ISBN 978-9939-99-035-4. **Book:** *English 11* — Armenia, COAF, Yerevan 2025, Tonoyan/Arakelyan, no ISBN printed. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia's present perfect is first presented in Grade 6 on sites in Armenia, then continued on cultural heritage sites, with the time adverbs that belong to it taught a unit later (English 6 (COAF), Unit 5.2, printed pp.125–129; Unit 5.4, printed pp.131–134; Unit 6.2, printed pp.153–155). Grade 7 states the form outright — "have / has + past participle (V3)" — with a present perfect vs past simple contrast chart after it (English 7 (Zangak), Unit 2, printed pp.48–49). Grade 11 opens the perfect system whole — present perfect inside the six-perfect-tense sub-unit (English 11 (COAF), Unit 1.2, printed pp.8–11).

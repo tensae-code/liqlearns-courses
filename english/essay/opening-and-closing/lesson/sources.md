@@ -1,6 +1,6 @@
 # Sources — Opening and closing
 
-countries: Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria
+countries: Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia
 
 Every part traces to its book and page.
 
@@ -77,8 +77,11 @@ PASSED 2026-11-03).
 | An argument's closing taught as its own move: the persuasive argument ends in a taught concluding recommendation | South Africa, English Home Language, Grade 6 Workbook 1 (Rainbow Workbooks), printed pp.48–49 |
 | The essay's two ends named inside the essay's own anatomy: introduction and conclusion named as two of the academic essay's three parts (introduction, body, conclusion) in the "What is an Essay" reading | Syria, Emar Student's Book 12, Literary Section, Unit 8 "Essays", pp.74–80 |
 | The two ends taught as a Writing Skill for the pupil's own essay: a Writing Skill box on introduction/body/conclusion carried in the personal-experience essay's writing work | Syria, Emar Workbook 12, Scientific Section, Unit 1, pp.2–8 |
+| The essay's ends named in its structure diagram — hook / introduction / body / conclusion | Armenia — English 9 (COAF), Unit 2.7, printed pp.49–51 |
+| The hook found and named inside an introduction — "identifying the hook in an introduction" — in the essay-writing corner, with a model whose topic sentence and supporting details are supplied | Armenia — English 12 (Mari), Topic 3, Writing Corner, printed pp.77–79 |
+| Closing sentences taught as a paragraph's own part — paragraphs completed by supplying their missing topic and closing sentences | Armenia — English 12 (Mari), Topic 1, Writing Corner, printed pp.28–31 |
 
-**Acceptance count: taught in 9 countries (Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria).**
+**Acceptance count: taught in 10 countries (Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia).**
 Bolivia's table defines both ends and dresses their joints;
 Ghana's first revise question sets the opening's law;
 China frames the formal letter — open with the matter,
@@ -105,3 +108,5 @@ READING-QUEUE.md).
 **South Africa added 2026-11-03** — PARTIAL stock, filed exactly as a partial: two books stock this lesson in part: *English Home Language, Grade 6 Workbook 1* and *English First Additional Language, Grade 6 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. The First Additional Language book's worksheet 100 uses a story, "My money has disappeared!", to teach introductions and conclusions by name (Theme 7, printed pp.70–102 — the worksheet and theme are cited, no single page is invented); the Home Language book's persuasive argument ends in a taught concluding recommendation (printed pp.48–49). Stated plainly: the named teaching is for story openings/closings plus an argument's conclusion — South Africa has no essay introduction/conclusion naming of the kind Greece's Αγγλικά 1 carries.
 
 **Syria added 2026-11-03** — PARTIAL stock, filed exactly as a partial: two books stock this lesson in part: *Emar English Series 12, Student's Book, Literary Section* and *Emar English Series 12, Workbook, Scientific Section* — Syria, Ministry of Education; full read in english/books/syria.md. The literary book's Unit 8 "Essays" names introduction, body and conclusion as the academic essay's parts in its "What is an Essay" reading (pp.74–80), and the scientific workbook's Unit 1 carries a Writing Skill box on introduction/body/conclusion in the pupil's own personal-experience essay work (pp.2–8). Stated plainly: Syria names the two ends and teaches them in a skill box, but no read Syria book gives the fuller guide to introductory and concluding paragraphs, or states each end's duties, of the kind Greece's Αγγλικά 1 carries — so Syria is filed as a partial against this lesson's bar.
+
+**Armenia added 2026-11-03** — two books stock this lesson: **Book:** *English 9* — Armenia, COAF, Yerevan 2025, no ISBN printed. **Book:** *English 12* — Armenia, Mari Publishing, Yerevan 2025, ISBN 978-9939-888-42-2. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia NAMES the ends and their jobs — the hook in the introduction; the closing sentence as a paragraph part: the Grade 9 book names the essay's ends in its structure diagram — hook / introduction / body / conclusion (Unit 2.7, printed pp.49–51); the Grade 12 book finds and names the hook inside an introduction — "identifying the hook in an introduction" — in its essay-writing corner, with a model whose topic sentence and supporting details are supplied (Topic 3, Writing Corner, printed pp.77–79); and the same Grade 12 book teaches closing sentences as a paragraph's own part — paragraphs completed by supplying their missing topic and closing sentences (Topic 1, Writing Corner, printed pp.28–31).
