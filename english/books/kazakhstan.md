@@ -166,8 +166,11 @@ whole past tense is *was/were* (no lexical past forms, no
 *did* questions), and no primary book teaches future forms,
 present perfect, passive, conditionals or reported speech. By
 Grade 9 all four secondary series teach the passive and Type
-3 conditionals, and present perfect continuous arrives from
-Grade 6 — but **reported speech is a split**: English Plus
+3 conditionals, and the present perfect continuous is first
+named at Grade 8 (Excel G8 Module 2, pp.17–28 — no Grade 6
+book teaches it, per each G6 book's own negatives below;
+this header line is corrected 2026-11-03, an earlier draft
+said "from Grade 6") — but **reported speech is a split**: English Plus
 and Excel teach it, Laser B1+ never does (its own filing
 names the gap), and Full Blast ends its subordination there.
 No book in the set teaches mixed or inverted conditionals;
