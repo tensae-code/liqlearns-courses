@@ -56,10 +56,15 @@ Grade 7 student-book addition and the Grades 7–9 teacher
 guides, the Grade 10 *Work in Progress* pair, and the
 Grade 11–12 teacher guides (anchor counts per section:
 21/19/20/20/20/20/20/20/20/21/21/22/18/18/20/21/19/20).
-The six penerbitcmedia mirror student rows are still not
-in hand; they stand record-only at the end of this file
-while their library copies are pulled from the secured
-GitHub releases / Telegram.
+The six penerbitcmedia mirror student rows were pulled
+from the secured library on 2026-11-03 (GitHub releases /
+repo tree, cover-verified): five are FULLY READ and filed
+at their grade positions below (anchors 21/21, 22/22,
+22/22, 22/22, 22/22), and the Grade 10 mirror copy proved
+byte-identical to the SIBI *Work in Progress* copy already
+read — a duplicate, not a seventh book. **Indonesia's
+English set is therefore fully accounted: 23 books read +
+1 proven duplicate.**
 
 ---
 # Indonesia — English Grade 3 Student Book — FULLY READ + CITATION CHECK PASSED 2026-11-03
@@ -2654,6 +2659,449 @@ family, colours and classroom instructions.
 
 ---
 
+# Indonesia — English Grade 8 Student Book — FULLY READ + CITATION CHECK PASSED 2026-11-03
+
+## The book itself
+
+- **Title as printed:** English for Nusantara untuk
+  SMP/MTs Kelas VIII — "English for Nusantara for Junior
+  High School/Madrasah Grade 8". Cover: "English / For
+  Nusantara", Kementerian Pendidikan, Kebudayaan, Riset,
+  dan Teknologi 2022, SMP/MTs KELAS VIII. This is the
+  student book the Grade 8 teacher guide filed in this
+  set is keyed to, unit by unit.
+- **Publisher:** Kementerian Pendidikan, Kebudayaan,
+  Riset, dan Teknologi (Ministry of Education, Culture,
+  Research and Technology), issued by Pusat Perbukuan
+  (Kompleks Kemdikbudristek, Cipete, Jakarta Selatan) —
+  the Kurikulum Merdeka main textbook (buku teks utama).
+- **Authors:** Ika Lestari Damayanti, Iyen Nurlaelawati,
+  Mahmud Layan Hutasuhut, Yusnita Febrianti, Raymon
+  Rahmadhani, Gilang Asri Devianty. Reviewers
+  (Penelaah): Raden Safrina Noorman, Eva Leiliyanti —
+  the same team as the teacher guide.
+- **Year / edition:** Cetakan Pertama (first printing),
+  2022.
+- **ISBN:** 978-602-427-941-7 (jil.2); the set ISBN
+  printed alongside is 978-602-244-884-6
+  (no.jil.lengkap). Both read from the imprint page
+  (PDF p.2). Note the student book's own jil.2 ISBN
+  differs from the teacher guide's (978-602-427-920-2).
+- **Copy facts:** 16,590,762 bytes; 336 PDF pages =
+  printed xxiv + 312, matching the imprint's own extent
+  ("xxiv, 312 hlm."). Text layer usable; the read was
+  made from the text layer page by page. Comic-strip
+  speech is jumbled in the text layer in places; comic
+  content below is summarised, never transcribed.
+- **Page offset:** front matter roman folios = PDF page
+  number; body printed page = PDF page − 24.
+- **How obtained:** this is the library's secured copy
+  of the penerbitcmedia mirror record row ("Bahasa
+  Inggris — Buku Siswa Kelas 8 (Kurikulum Merdeka)"),
+  pulled from the GitHub releases and cover-verified;
+  the read was made from that secured copy
+  (g08-student-penerbit.pdf in the courses work folder).
+- **Citation check:** 21/21 anchors verified in the real
+  PDF (cover, imprint, preface text-type statement,
+  Contents, both Chapter 0 tables sampled, every
+  chapter's objectives page, the past-simple, time-
+  connective, recount-structure, feelings, direct-speech,
+  trait-adjective, presentation-expression, Did/was,
+  Wh-question, *when*-sequencing, opinion and
+  adverb-of-manner Language Focus pages, the narrative-
+  elements table, Progress Check 2's opener, the
+  Glosarium and the Daftar Pustaka).
+
+**Cast and shape:** the same SMP Merdeka cast as Grade
+7 — Galang Rahmansyah, Andre Tanudjaja, Monita
+Turangan, Pipit, Leni Lestari, Made Wirawan, Sinta and
+Tamara Rahmansyah, Pak Rahmansyah, principal Pak Edo
+and English teacher Ibu Ida Ayu (character pages,
+printed pp.xxii–xxiii; the pages are graphical and
+their names come through jumbled in the text layer).
+The authors' preface (printed p.iv) states the book's
+text diet outright: recount and narrative are the new
+text types of Grade 8, while descriptive and procedure
+are recycled from Grade 7 under new topics — exactly
+the picture the teacher guide gave. The unit machine
+is Grade 7's: each chapter has a Learning Objectives
+page, then three units cycling through numbered
+Sections (Say What You Know → Listening / Reading /
+Viewing → Language Focus → Fun Time → Your Turn →
+Enrichment), closing with a Learning Reflection page
+and a per-unit Word Box (bilingual glossary). Front
+matter adds two things the pupil books before it did
+not have: a printed Mind Map (p.xiv) and a full Scope
+and Sequence (printed pp.xvi–xxi) stating each unit's
+function, language features and skills. Listening is
+by audio (Audio 1.1–5.4); the final printed page
+(p.312) is the Audio/Worksheet links page.
+
+## Full per-chapter map (printed pages)
+
+### Chapter 0 — The Beginning (printed pp.1–18)
+A reference chapter in the pupil's own book, sections
+A–K, each a bilingual table of expressions or forms
+with Indonesian explanations: A. Classroom language
+(p.2); B. Complimentary expressions (p.4); C.
+Expressions of certainty and uncertainty (pp.5–6);
+D. Expressions of likes and dislikes (p.7); E.
+Intonation (p.8); F. sentence types — affirmative,
+negative and Yes/No and WH- questions in present and
+past *be* forms, with subject-verb agreement
+(pp.9–12); G. Sentence structure — verbal and nominal
+sentences (p.13); H. Irregular Verbs — a base/past
+table set against regular verbs (become–became,
+bring–brought, fly–flew, write–wrote …) (p.14);
+I. Transition Signals (p.15); J. Antonyms (p.16);
+K. Adjectives to describe personality traits (p.17).
+This is the full bridging list the teacher guide could
+only name on one page; in the student book it is
+eighteen pages of usable reference, and the irregular-
+verb table is the year's past-tense ammunition issued
+up front.
+
+### Chapter 1 — Celebrating Independence Day (printed pp.19–66)
+Objectives p.21: talk about personal experiences in
+the past; identify specific information about them;
+write their main events. The past tense enters as the
+year's engine, inside recount text.
+- Unit 1. The Champion of Panjat Pinang (pp.22–36):
+  Audio 1.1 — Galang and his father talk about the
+  school's Independence Day games (marble-in-spoon
+  race, sack race, tug of war, Panjat Pinang); the Word
+  Box already glosses verbs in base/past pairs, with
+  "congratulation" as a vocabulary item. Audio 1.2 —
+  the father's own past Panjat Pinang experience,
+  sequenced as a winning strategy. **Language Focus
+  (printed p.31): the Past Simple stated outright** —
+  regular verbs formed with -d/-ed/-ied ("celebrate +
+  d → celebrated", "try → tried"), irregular verbs
+  learned as wholes ("win → won", "hold → held"), with
+  Table 1.1 sorting the dialogues' verbs into the two
+  classes. Fun Time is verb Bingo; Your Turn is a
+  spoken interview about past games.
+- Unit 2. Going to a Parade (pp.37–51): Audio 1.3 on
+  the friends' celebration activities; a reading text,
+  "A Parade in My Hometown" (summary only: Andre
+  recalls watching the village parade as a child —
+  hero and ghost costumes in the first line, flag-
+  waving marchers singing "Hari Merdeka" in the
+  second, children on decorated bicycles last — and
+  looks forward to joining his school parade, printed
+  p.42); SMP Merdeka's own school-parade text in the
+  Viewing section. **Language Focus (printed p.47):
+  time connectives** — First / Next / After that /
+  Finally and the full Table 1.2 of beginning, middle
+  and ending connectives. Your Turn reads and judges
+  parade costume-competition entries.
+- Unit 3. Independence Day at SMP Merdeka (pp.52–65):
+  a reading text on the school's celebration, then
+  **Language Focus (printed p.56): the structure of
+  the recount text stated in full** — Orientation /
+  Record of events / Comment (Table 1.3) — worked
+  through the Unit 2 parade text and then the unit's
+  own. Writing runs the full cycle: plan on the
+  structure, outline, draft, edit, and write your own
+  recount (Worksheets 1.18–1.24); Enrichment is making
+  a comic of it. Chapter Reflection p.66.
+
+### Chapter 2 — Kindness Begins with Me (printed pp.67–122)
+Objectives p.69: connect and sequence events in an
+imaginative story; explain characters' actions,
+feelings and behaviour; retell and rewrite an
+imaginative story. Narrative text, worked through two
+complete animal stories.
+- Unit 1. Kindness towards Differences (pp.70–85):
+  The Ugly Duckling, Parts 1–2, heard (Audio 2.2–2.3)
+  with the pupil choosing the correct past-tense verb
+  form inside the story text itself (sat/sit,
+  began/begin …). **Language Focus (printed p.78):
+  what past-tense verbs do in a story** — create
+  actions (shake–shook), show thinking (think–
+  thought), report the senses (see–saw), express
+  speech (say–said) and connect states (was/were),
+  credited to Derewianka & Jones (2016). The unit
+  ends in group retelling from a printed script and a
+  storytelling performance.
+- Unit 2. Kindness and Happiness (pp.86–102): the
+  story's final part in audio and then as a reading
+  text (summary only: the duckling flies off, is
+  mocked by chickens and chased by a dog, and at last
+  meets the white swans). **Two Language Focus
+  sections: Describing Feelings (printed p.94)** —
+  feeling adjectives after past *be*, *felt* and
+  *became* ("The Ugly Duckling felt heartbroken" is
+  the book's own short example) — **and direct speech
+  (printed p.96)**: quoted sentences between quotation
+  marks are how characters speak in a story. Fun Time
+  chooses among four endings for the story.
+- Unit 3. Kindness and Friendship (pp.103–121): a
+  second complete story read in print, Elephant and
+  Friends (summary only: an elephant seeks friends,
+  is refused by monkey, rabbit, frog and fox for his
+  size, then drives off a tiger and is accepted,
+  printed pp.107–110). **Language Focus (printed
+  p.113): adjectives for characters' traits and
+  behaviour** — braveness, capacity and morality sets
+  (brave/shy/ferocious; clever/foolish; honest, kind,
+  mean, cruel, sly …). Reading then tabulates the
+  Ugly Duckling's narrative elements (Orientation /
+  Complication / Resolution, printed pp.117–118), and
+  Your Turn is writing a similar story in a group on
+  the same frame. Chapter Reflection p.122.
+
+### Progress Check 1 (printed pp.123–126)
+A test over Chapters 1–2 whose texts the guide only
+keyed: Made's first-person recount of a Jakarta Old
+City (Kota Tua) tour taken with his wheelchair-
+basketball team (printed p.123), and a paragraph-
+ordering task on Timun Mas — The Golden Cucumber Girl
+(summary only: Mbok Srini's bargain with the giant
+Buto Ijo, the cucumber child, and her escape by the
+magic seeds, needles and salt, printed p.126).
+
+### Chapter 3 — Love Our World (printed pp.127–178)
+Objectives p.129: ask and give opinions about familiar
+topics around the school; categorise actions based on
+a given situation; write instructions on posters.
+Environmental topics; the language work is functional
+— presenting, commenting, poster-making — rather than
+a new tense.
+- Unit 1. Look Around You (pp.130–147): canteen trash
+  and handwashing — Audio 3.1 (Andre and Monita at
+  lunch, the overflowing trash can) and Audio 3.2–3.3
+  built around a handwashing procedure. **Language
+  Focus (printed p.140): the stages of a presentation
+  and their expressions** (Tables 3.1–3.2 — starting,
+  stating the goal, showing the steps with First /
+  Second / Next / Finally, ending), i.e. the Grade 7
+  procedure text recycled as a spoken presentation.
+  Fun Time (printed p.145) is the chapter's opinion
+  work, "What do you think?".
+- Unit 2. This is the Way (pp.148–161): social media —
+  Audio 3.4 (Monita reading a post), the features of
+  social media read and discussed, and **Language
+  Focus (printed p.154): how to comment appropriately
+  online** (read carefully, offer something necessary,
+  comment politely, don't use words that can offend).
+  Your Turn reads a book-donation post and comments
+  on it (printed pp.159–160).
+- Unit 3. Act Now (pp.162–177): posters — reading
+  posters about saving water, donating old books and
+  washing hands; **Language Focus (printed p.170):
+  how to make a poster**, with colour-effect tables
+  (Table 3.4 and the complementary-colour page) as the
+  design language. Your Turn is making and presenting
+  a poster of your own. Chapter Reflection p.177;
+  printed p.178 is a closing leaf with no body text.
+
+### Chapter 4 — No Littering (printed pp.179–232)
+Objectives p.181: talk about past incidents; make
+interview questions about them; identify main ideas
+and details in a series of past events; write a series
+of past events. The past tense returns, now in
+question form.
+- Unit 1. Did It Rain Last Night? (pp.182–202):
+  Audio 4.1–4.2 — Galang's family at Sungai Lestari,
+  a river once swimmable and now full of plastic, with
+  a flood in Kota Amuntai after heavy rain in the
+  second part (the pupil book prints both dialogues
+  as comic strips and as scripts). **Language Focus
+  (printed pp.195–196): Yes/No questions about the
+  past** — with *Did* + subject + base verb where
+  there is a main verb, and with *was/were* where
+  there is none (Table 4.1). Your Turn is interviewing
+  a classmate about a past incident and retelling it.
+- Unit 2. What Happened to the Sea Animals?
+  (pp.203–218): a dialogue on plastic and sea turtles,
+  then the unit's reading text (summary only:
+  scientists from Texas University rescue an injured
+  sea turtle while sailing near Costa Rica, printed
+  p.210), and a second text on anti-littering
+  campaigns in Australia. **Language Focus (printed
+  p.212): Wh- questions about the past** — the five
+  question words with *did* + base verb, and Wh-
+  questions with *was/were*.
+- Unit 3. You Can Help (pp.219–231): the reading text
+  on two teenagers who fought Bali's plastic trash
+  (Melati and Isabel, named in the Language Focus
+  examples). **Language Focus (printed p.224):
+  sequencing two past events with *when*, in both
+  orders, with the comma rule** — the Texas sea-turtle
+  sentence is the worked example in both directions.
+  Reading then names the factual-recount elements,
+  and Your Turn is writing a series of past events in
+  chronological order. Chapter Reflection p.232.
+
+### Chapter 5 — Embrace Yourself (printed pp.233–285)
+Objectives p.235: ask for and give opinions; identify
+sequences of main events in a story; write the main
+events of a story. The narrative frame of Chapter 2
+becomes the pupil's own writing tool.
+- Unit 1. Be Yourself (pp.236–252): beauty
+  advertisements in dialogue (Audio 5.1), then the
+  heard story "Have you heard of makeup?" (Audio 5.2;
+  summary only: a first-person account of a classmate's
+  comment on the narrator's bare face and of learning
+  to accept her own appearance — the pupil book plays
+  it and later prints its script for group retelling,
+  printed pp.248–251). **Language Focus (printed
+  p.244): expressing opinions** — Table 5.1's "I think
+  (that)…", "Personally, I think…", "I believe…",
+  "I am sure…" against "In my opinion…", "In my
+  view…", "From my point of view…".
+- Unit 2. I Know I Can Do It (pp.253–270): the Mirza
+  story, read in three parts (summary only: a boy who
+  plays soccer with a ball made of plastic bags,
+  dreams of playing properly, and works toward joining
+  a club, printed pp.257–263). **Language Focus
+  (printed p.265): adverbs of manner** — the -ly set
+  built from the chapter's stories ("clumsily",
+  "sternly", "hesitantly") and the non--ly set (well,
+  fast, hard, much, little, high, straight).
+- Unit 3. Practice Makes Perfect (pp.271–280):
+  "Getting into the Band" worked as a pre-reading
+  phrase sort (printed p.273) and a beach-band story;
+  then **the Writing section (printed pp.276–279)
+  states the imaginative-narrative frame in full** —
+  Orientation / Complication / Resolution tables for
+  the Makeup, Mirza and Band stories — and Your Turn
+  plans and writes a story's main events on it.
+  Chapter Reflection p.281.
+
+### Progress Check 2 and back matter (printed pp.282–312)
+Progress Check 2 (pp.282–285) opens on the Our World
+in Data picture of plastic entering the world's oceans
+(printed p.282) and a prose text on Suratmo, who has
+lived by the Citarum river banks since childhood
+(printed pp.284–285). Then: Index pp.286–288;
+Glosarium pp.289–294 (English–Indonesian, with word
+classes and, for verbs, base and past forms — the same
+apparatus the guide's glossary carries); Daftar
+Pustaka (bibliography) pp.295–296, an internet-links
+list only; Daftar Sumber Gambar (image credits) p.297;
+contributor profiles pp.298–311; printed p.312 is the
+Audio/Worksheet links page, graphical in this copy.
+
+## Grammar / vocabulary spine (Grade 8)
+Reference first (Ch.0: sentence types, subject-verb
+agreement, the irregular-verb table, transition
+signals, antonyms, personality adjectives) → the Past
+Simple as a stated system, regular and irregular
+(Ch.1U1) → time connectives for sequencing past events
+(Ch.1U2) → the recount text as a genre: Orientation /
+Record of events / Comment (Ch.1U3) → past-tense verbs
+by function inside narrative, feeling adjectives after
+*was/were, felt, became*, and direct speech in
+quotation marks (Ch.2) → trait adjectives and the
+Orientation / Complication / Resolution story frame,
+first as analysis (Ch.2U3) → presentation stages and
+step expressions, polite online commenting, poster
+language (Ch.3 — the year's one chapter with no new
+grammar, recycling Grade 7 procedure) → past-tense
+questions: *Did…?* and *Was/Were…?* (Ch.4U1), past
+Wh- questions (Ch.4U2), and two-event sequencing with
+*when* (Ch.4U3) → opinion expressions (Ch.5U1) →
+adverbs of manner (Ch.5U2) → the narrative frame
+reused as the pupil's own writing plan (Ch.5U3).
+Vocabulary runs in Word Boxes throughout, keyed to
+base/past verb pairs from Chapter 1 on.
+
+## Cross-check against the Grade 8 teacher guide (as filed in this set)
+
+- **Confirmed, in full:** the chapter and unit map,
+  the objectives of every chapter, and the guide's
+  "narrative / past-tense spine" verdict. The student
+  book's own preface (printed p.iv) says the same
+  thing the guide said: recount and narrative are new
+  in Grade 8, descriptive and procedure are recycled.
+  The stories the guide named from its audio scripts
+  are the pupil book's stories — The Ugly Duckling in
+  three parts, Elephant and Friends, the makeup story
+  (Audio 5.2, whose script the student book itself
+  prints for retelling at printed pp.248–251), Mirza,
+  and Getting into the Band — and the Progress Check
+  texts the guide knew only from its keys (Made's
+  Jakarta Old City tour, Timun Mas, plastic waste and
+  the Citarum river) all stand in the pupil book where
+  the guide placed them.
+- **Corrected — Chapter 1 Unit 3 is not a
+  congratulation-card unit in the pupil book.** The
+  guide's chapter guide describes Unit 3 as writing a
+  congratulation card with formal and informal
+  congratulation expressions. The student book's Unit
+  3 (printed pp.52–65) contains no card task: its
+  Language Focus is the recount-text structure and its
+  writing outcome is a full recount. "Congratulation"
+  survives in the pupil book only as a Word Box item
+  in Unit 1's first dialogue and in the Scope and
+  Sequence's variant unit title ("Congratulations!
+  You Won the Game", printed p.xvii) — the unit's own
+  heading, Contents entry and chapter opener all read
+  "Independence Day at SMP Merdeka".
+- **Corrected — the Contents drift the guide filing
+  recorded belongs to the guide, not to this book.**
+  The student book's Contents (printed pp.vi–vii)
+  agrees with its body throughout, Chapter 5 and the
+  back matter included (Ch.5 at p.233, Progress Check
+  2 at p.282, Index p.286, Glosarium p.289, Daftar
+  Pustaka p.295), and its back-matter order — Index,
+  Glosarium, bibliography — is the order its Contents
+  prints. A course built from the pupil book can trust
+  its Contents; one built from the guide cannot.
+- **Added by the student book:** Chapter 0 in full
+  (the guide gave it one listing page; the pupil book
+  carries eighteen pages of reference tables, including
+  the irregular-verb table the whole year draws on),
+  and a pupil-facing Scope and Sequence (printed
+  pp.xvi–xxi) that states each unit's function and
+  language features — the guide's Scope and Sequence
+  is not the only one in print.
+
+## Honest negatives (Grade 8 student book)
+
+- **No past continuous is taught**, although the form
+  already occurs inside the book's own examples — the
+  *when*-sequencing Language Focus (printed p.224)
+  uses "The scientists were collecting data on sea
+  turtles when they saw the injured turtle" as an
+  example sentence without ever naming or explaining
+  the tense. The system is Grade 9's to teach.
+- No passive voice, no reported speech, no comparative
+  or superlative, and no future form is taught anywhere
+  in the book; the year's grammar is the past simple,
+  its question forms, and its connectors, plus opinion
+  expressions and adverbs of manner.
+- **The running heads are wrong for a whole chapter:**
+  every Chapter 1 body page carries the running head
+  "Chapter 1 | The Beginning" — Chapter 0's title —
+  from printed p.21 to p.65.
+- **Every chapter's Learning Reflection page carries a
+  stray header, "Unit 3. Indonesian Birds"** — a Grade
+  9 unit title left over in the template — at printed
+  pp.66, 122, 177, 232 and 281, above a reflection
+  table that belongs to the chapter just finished.
+- The Chapter 5 divider is numbered "3 Chapter 5"
+  (printed p.233), and the objectives pages print the
+  chapter titles with slips the Contents does not have
+  ("Kindness Towards Diferences" in the Scope's unit
+  list; the chapter-opener list gives Unit 2 of
+  Chapter 5 as "I know I Can Do It" against the
+  Contents' "I Know I Can Do It").
+- The bibliography (printed pp.295–296) is a list of
+  internet links only — no book references, although
+  the Language Focus pages credit Derewianka & Jones
+  (2016) in the body (printed p.78).
+- Two printed pages are leaves with no body text
+  (pp.18 and 178), and the final page's Audio/Worksheet
+  content is graphical, so its exact links cannot be
+  settled from this copy's text layer.
+
+---
+
+---
+
 # Indonesia — English Grade 8 Teacher Guide — FULLY READ + CITATION CHECK PASSED 2026-11-03
 
 ## The book itself
@@ -2900,6 +3348,490 @@ posters and presentations.
   chapter-closing pages at printed pp.185 and 390 are
   graphical — this copy's text layer cannot settle what
   they show beyond their headings/folios.
+
+---
+
+# Indonesia — English Grade 9 Student Book — FULLY READ + CITATION CHECK PASSED 2026-11-03
+
+## The book itself
+
+- **Title as printed:** English for Nusantara untuk
+  SMP/MTs Kelas IX — "English for Nusantara for Junior
+  High School/Madrasah Grade 9". Cover: "English / For
+  Nusantara", Kementerian Pendidikan, Kebudayaan,
+  Riset, dan Teknologi 2022, SMP/MTs KELAS IX. This is
+  the student book the Grade 9 teacher guide filed in
+  this set is keyed to, unit by unit, and the last
+  volume of the junior-high series.
+- **Publisher:** Kementerian Pendidikan, Kebudayaan,
+  Riset, dan Teknologi (Ministry of Education, Culture,
+  Research and Technology), issued by Pusat Perbukuan
+  (Kompleks Kemdikbudristek, Cipete, Jakarta Selatan) —
+  the Kurikulum Merdeka main textbook (buku teks utama).
+- **Authors:** Ika Lestari Damayanti, Yusnita Febrianti,
+  Pipit Prihartanti Suharto, Iyen Nurlaelawati, Aji
+  Jehan Fellani, Hendra. Reviewers (Penelaah): Diah
+  Royani Meisani, Joko Priyana — the same team as the
+  teacher guide.
+- **Year / edition:** Cetakan Pertama (first printing),
+  2022.
+- **ISBN:** 978-602-427-942-4 (jil.3); the set ISBN
+  printed alongside is 978-602-244-884-6
+  (no.jil.lengkap). Both read from the imprint page
+  (PDF p.2). The student book's jil.3 ISBN differs from
+  the teacher guide's own (978-602-427-943-1) by one
+  digit — the two books are a matched pair, not the
+  same record.
+- **Copy facts:** 18,221,771 bytes; 392 PDF pages =
+  printed xxiv + 368, matching the imprint's own extent
+  ("xxiv, 368 hlm."). Text layer usable; the read was
+  made from the text layer page by page. Comic-strip
+  speech is jumbled in the text layer in places; comic
+  content below is summarised, never transcribed.
+- **Page offset:** front matter roman folios = PDF page
+  number; body printed page = PDF page − 24.
+- **How obtained:** this is the library's secured copy
+  of the penerbitcmedia mirror record row ("Bahasa
+  Inggris — Buku Siswa Kelas 9 (Kurikulum Merdeka)"),
+  pulled from the GitHub releases and cover-verified;
+  the read was made from that secured copy
+  (g09-student-penerbit.pdf in the courses work folder).
+- **Citation check:** 22/22 anchors verified in the real
+  PDF (cover, imprint, preface report-text statement,
+  Contents, the Chapter 0 question-tag and comparative
+  tables, every chapter's objectives page, the noun-
+  group, possessive, both passive, past-question,
+  connector and past-continuous Language Focus pages,
+  the printed audio-transcript page, *was/were*,
+  reported questions, the Timun Mas stages table,
+  adjective order, price expressions, the imperative
+  and *always/never* Language Focus pages, the
+  procedural-text elements table, Progress Check 2's
+  passive items, the Glossarium and the Daftar
+  Pustaka).
+
+**Cast and shape:** the same SMP Merdeka cast as Grades
+7–8 (character pages, printed pp.xxii–xxiii; graphical,
+with names jumbled in the text layer) — Galang, Andre,
+Monita, Pipit, Leni and the Rahmansyah family, Pak Edo,
+Ibu Ida Ayu. The preface (printed p.iv) names the
+year's one new text type outright: the **report text**,
+"one family" with the descriptive text of Grades 7–8,
+here focused on factual texts about Indonesian animals;
+narrative, recount, descriptive and procedure are all
+recycled. The unit machine is the series' own — a
+Learning Objectives page per chapter, three units of
+numbered Sections (Say What You Know → Listening /
+Reading / Viewing → Language Focus → Your Turn / Fun
+Time → Enrichment), a Learning Reflection page per
+chapter, Word Boxes throughout, a printed Mind Map
+(p.xiv) and a pupil-facing Scope and Sequence (printed
+pp.xvi–xxi). One structural novelty: the book prints
+two full audio transcripts as a pupil page at the end
+of Chapter 1 (printed p.74) — the only place in either
+student book where heard texts are given in print.
+
+## Full per-chapter map (printed pages)
+
+### Chapter 0 — The Beginning (printed pp.1–18)
+A reference chapter of fifteen short sections, A–O —
+and, unlike the guide's account of it, almost none of
+it repeats Grade 8's list: A. Classroom language
+(p.2); B. Exclamation (p.4); C. Measurement (p.5);
+D. Expressions of surprise and disbelief (p.6);
+E. Expressions of agreement (p.7); **F. Question tags
+(p.8)** — a full polarity table ("It is wonderful,
+isn't it?" is the book's own short example), with two
+examples cross-referenced to Chapters 2 and 3;
+G. Expressions of wish — *wish* and *hope* (p.9);
+H. Adjectives ending in *-ish* (p.10); I. Expressions
+of sympathy (p.11); J. Intensifier (p.12); K.
+Transition signals (p.13); L. Expressions of
+disappointment (p.14); **M. Comparatives (p.15)** and
+**N. Superlatives (p.16)** — example tables only, no
+formation rules stated; O. Phrasal Verbs (p.17). The
+comparative and superlative live here, in the
+reference chapter, and are never taken up again as
+taught language in the chapters — see Honest
+negatives.
+
+### Chapter 1 — Exploring Fauna of Indonesia (printed pp.19–74)
+Objectives p.21: talk about an animal native to
+Indonesian wildlife; identify specific information
+about it; describe an animal's characteristics and
+features. The report text's home chapter.
+- Unit 1. Bekantan (pp.22–41): the proboscis monkey
+  worked entirely through listening — Audio 1.1–1.4
+  in four parts (name and features; habitat; behaviour
+  and diet; predators and threats: monitor lizards,
+  crocodiles, pythons, and habitat loss as the major
+  threat). **Language Focus (printed pp.37–38): noun
+  groups** — building description by stacking words
+  around a head noun, from "Monkey" up to the book's
+  own full example, a big, long-nosed, reddish-brown
+  monkey in a mangrove tree. Your Turn listens to
+  information reports on two more animals (Audio 1.5).
+- Unit 2. Orangutan and Gorilla (pp.42–57): a reading
+  text on orangutans (features, food, habitat) and a
+  Your Turn reading text on gorillas, with a comparison
+  diagram across both. **Language Focus (printed
+  p.48): describing an animal with *has/have* and with
+  possessive forms** — a gorilla *has* black fur; the
+  possessive-adjective and possessive-'s work
+  ("Gorilla's fur is black") is drilled on the two
+  apes' features (Worksheets 1.9–1.13). The unit's Did
+  You Know? (printed p.48) separates apes from monkeys
+  by tails, body shape and trainability.
+- Unit 3. Indonesian Birds (pp.58–73): Audio 1.6 on
+  birds watched in the forest (the helmeted hornbill
+  identified from its description), a reading text on
+  the Cendrawasih (bird of paradise), and **Language
+  Focus (printed p.65): the passive voice introduced**
+  — used when the action matters more than the doer,
+  with active→passive pairs on the chapter's own
+  animals ("Binoculars are brought by Galang to the
+  forest" is the book's own short example) and
+  verb-choice items (is found / are eaten / is drunk).
+  The unit then teaches the report genre itself:
+  Section 5 names the steps of making a report
+  (references and observation), Section 6 models a
+  report paragraph on the Bali starling's threats, and
+  Your Turn has pupils research, outline and write a
+  report on a bird of their choice. Chapter Reflection
+  p.73; **printed p.74 prints Audio Transcripts 1–2 in
+  full** — information reports on the orangutan and on
+  the helmeted hornbill (summaries only here: size,
+  habitat, diet and threats for each).
+
+### Chapter 2 — Taking Trips (printed pp.75–148)
+Objectives p.77: talk about personal experiences;
+identify a series of past events; write personal
+experiences in the past. The recount completed — and
+the past continuous lands here.
+- Unit 1. Going to a National Park (pp.78–100):
+  Audio 2.1 on Galang and Monita's trip to Lestari
+  National Park, retold from a comic; **Language Focus
+  (printed p.86): past-tense questions and negatives
+  as a full system** — *Did…?* with short answers,
+  *When/How did…?*, and negatives with *didn't* for
+  all subjects. Audio 2.2–2.3 add two more trip
+  dialogues (a school excursion; a fruit-picking
+  visit), and Your Turn reports the SMP Merdeka
+  excursion from the park map.
+- Unit 2. What an Experience! (pp.101–118): Galang's
+  social-media photo captions and his full recount of
+  a holiday to Karimunjawa (printed pp.105–108), a
+  second recount of a school excursion to Labuan Bajo
+  with a shark-diving episode (printed pp.113–114),
+  and **Language Focus (printed p.109): connectors
+  for joining two events** — *once, as soon as,
+  before, after* — with event-order work on the
+  Karimunjawa text.
+- Unit 3. My Underwater Adventure (pp.119–141):
+  Monita's recount, "My first snorkeling experience"
+  (summary only: sent to Manado, North Sulawesi, to
+  represent her school, she snorkels in Bunaken
+  National Marine Park, printed p.124). **Language
+  Focus (printed pp.127–128): the past continuous
+  combined with the past simple** — a longer action
+  interrupted by a shorter one, joined with *when*
+  and *while* ("While I was swimming a little further
+  down, I saw green sea turtles" is the book's own
+  worked example, with the swapped *when*-order form
+  stated beside it). Writing then runs the whole
+  recount cycle — analyse Monita's text by the
+  Orientation / Record of Events / Comment frame
+  (Table 2.2), draft Andre's Putri Island trip from an
+  itinerary, then plan, draft, peer-proofread and
+  rewrite a recount of your own; Fun Time is a haiku
+  built from it. Chapter Reflection p.142.
+
+### Progress Check 1 (printed pp.143–147)
+Texts over Chapters 1–2: a report text on the
+proboscis monkey (Text 1, printed p.143 — the pupil
+book's own text, which the guide's key answers),
+a cloze (Text 2), and a weekend recount of a family
+trip to Bogor (Text 3, printed p.146).
+
+### Chapter 3 — Journey to the Fantasy Worlds (printed pp.149–204)
+Objectives p.151: connect and sequence events in a
+fantasy story; analyse the problem-solution pattern
+faced by the main characters; rewrite a fantasy story.
+(Title forms drift — see Honest negatives.)
+- Unit 1. Andre and Princess Suripit (pp.152–166):
+  an original fantasy serial heard in four parts
+  (Audio 3.1–3.4; summary only: Andre is pulled into
+  the Mangrovian kingdom, joins Princess Suripit on a
+  journey through the mangrove and dark forests, and
+  faces a dragon guarding an orchid, before returning
+  home). **Language Focus (printed p.157): *was* and
+  *were*** for past conditions, situations and facts
+  that involve no action ("There was a strange message
+  from the game" is the book's own short example).
+- Unit 2. Back to the 90s (pp.167–184): the "Time
+  Travel Car" story read in parts (summary only:
+  Monita, reading a novel, is carried to 1992, cannot
+  find SMP Merdeka — it was only established in 2014 —
+  and is questioned by a security officer while she
+  tries to reach the professor who can return her to
+  2022, printed pp.171–181). **Language Focus
+  (printed p.176): indirect speech for questions** —
+  direct questions re-stated as statements, with *if/
+  whether* for Yes/No questions ("Monita asked if the
+  man knew SMP Merdeka") and the question word kept
+  for Wh- questions ("Monita asked what day it was");
+  the story's own Part 3 (printed p.177) is then read
+  as a text full of the same forms in use. Your Turn
+  maps the whole story's setting, characters and
+  stages and predicts its ending.
+- Unit 3. The Multiverse Story of Timun Mas
+  (pp.185–203): the folktale retold as a multiverse
+  variant, read and viewed in two parts (summary only:
+  the golden-cucumber child is promised to the Giant,
+  but in this version the mother's three magical items
+  are a pencil, a pen and an eraser, and the chase ends
+  with the Giant helping the party navigate out by
+  digital map, printed pp.187–197). Section 4 states
+  the narrative stages over this version in full —
+  Orientation / Complication / Resolution / **Coda**
+  (Table 3.2, printed p.198; the coda has Timun Mas
+  dining with the Giant and living happily ever
+  after) — and Your Turn writes a fantasy story of the
+  pupil's own on the frame. Chapter Reflection p.204.
+
+### Chapter 4 — Upcycling Used Materials (printed pp.205–264)
+Objectives p.207: talk about things by describing
+materials and functions; identify and categorise
+information about goods and their prices; describe an
+object with specific characteristics and details.
+- Unit 1. Look at My Creation (pp.208–229): Audio
+  4.1–4.2 — Galang's group plans a bazaar of crafts
+  made from used materials; **Language Focus (printed
+  p.220): adjective order** — an eight-slot sequence
+  (general opinion, specific opinion, size, shape,
+  age, colour, nationality, material), worked up to the
+  book's own example string of bottle caps described
+  with seven adjectives, with the caution that more
+  than three adjectives at once is very unusual.
+  Andre's robotic arm (Audio 4.3) and Made's lantern
+  (Audio 4.4) are described and presented in the same
+  terms.
+- Unit 2. They're on Sale! (pp.230–243): sale
+  advertisements and a comic about buying at the bazaar;
+  **Language Focus (printed p.238): asking and saying
+  prices** — Table 4.1's four question forms ("How much
+  is it…?", "How much does it cost…?") against "It's
+  50,000 rupiahs" / "They cost 100,000 rupiahs".
+  Your Turn reads a text on preloved (second-hand)
+  goods and matches store information across adverts.
+- Unit 3. Let's Donate (pp.244–263): a school website
+  post about a student-run charity shop (the Merdeka
+  Friday Shop, printed pp.246–247); **Language Focus
+  (printed p.251): the passive again, now as a
+  descriptive-text tool** — *be* + past participle,
+  used when the doer is unimportant or unknown, worked
+  on the charity-shop text itself ("It is run by student
+  volunteers" is the book's own short example), with
+  modal passives among the practice items ("can be
+  donated"). Writing builds a descriptive text about
+  the pupil's own dream charity shop, paragraph by
+  paragraph, with proofreading. Chapter Reflection
+  p.264.
+
+### Chapter 5 — Digital Life (printed pp.265–342)
+Objectives p.267: ask and give information on how to
+use search engines; identify specific information
+about staying safe online; write a procedural text.
+- Unit 1. Let's Check the Facts! (pp.268–299): the
+  unit's sections are headed "Unit 1. Digital Life"
+  throughout (see Honest negatives). Search skills
+  through listening — Audio 5.1–5.3 on choosing correct
+  information and identifying a famous aviator —
+  then Ibu Ida Ayu's spoken procedure for making a
+  pocket book (Audio 5.5), and **Language Focus
+  (printed p.288): imperative sentences for commands
+  and instructions**, no subject, worked on the
+  pocket-book steps. Fun Time is a timed search-engine
+  race; Your Turn follows a video procedure for
+  decorating the pocket book.
+- Unit 2. Staying Safe in the Digital World
+  (pp.300–323): a reading text, "Internet Safety Rules
+  and What to Do Online" (printed p.305), an
+  infographic poster, and a second text, "10 Ways to
+  Protect Yourself Against Cybercrimes" (printed
+  p.315), with the SMP Merdeka anti-bullying campaign
+  flyer as the action text. **Language Focus (printed
+  p.310): imperatives with *always* and *never*** for
+  advice — "Always verify someone's identity", "Never
+  click it!" — placed before the main verb (Table 5.1).
+- Unit 3. Turn Back Hoax! (pp.324–338): a reading text
+  of numbered steps for checking a news story (check
+  the source, and the questions a critical reader asks,
+  printed pp.326–327), a "Steps of Filtering News"
+  completion diagram, and **the Writing sections
+  (printed pp.330–337): the procedural text stated in
+  full** — goal, materials, steps (Table 5.2), with
+  numbered steps or First / then / next / after that
+  sequencing and *finally/lastly* to close — ending in
+  the pupil writing, outlining and drafting their own
+  procedural text: an expert-checker guide to spotting
+  fake news. Chapter Reflection p.339.
+
+### Progress Check 2 and back matter (printed pp.340–368)
+Progress Check 2 (pp.340–342) tests Chapters 3–5 and
+includes, at printed p.342, a block of active→passive
+transformation items ("We donate unused clothes for
+the charity event" among them) — the pupil-facing
+proof that the passive was assessed, matching the
+guide's key. Then: Index pp.343–344; Glossarium
+pp.345–351 (spelled "Glossarium" on its own heading;
+English–Indonesian, without the word-class/form
+apparatus of the Grade 8 glossaries); Daftar Pustaka
+(bibliography) p.352 — book references (Calabrese &
+Rampone, Derewianka & Jones, Pinter) plus internet
+links; Daftar Sumber Gambar (image credits) p.353;
+contributor profiles pp.354–367; printed p.368 is the
+Audio/Worksheet links page, graphical in this copy.
+
+## Grammar / vocabulary spine (Grade 9)
+Reference first — and new this year (Ch.0: question
+tags, *wish/hope*, *-ish* adjectives, intensifiers,
+comparatives and superlatives as example tables,
+phrasal verbs) → noun groups for dense description
+(Ch.1U1) → *has/have* and possessives for describing
+animals (Ch.1U2) → **the passive voice, first
+appearance** (Ch.1U3), inside the new report genre →
+past-tense questions and negatives completed (Ch.2U1)
+→ event connectors *once / as soon as / before /
+after* (Ch.2U2) → **the past continuous**, combined
+with the past simple through *when/while* (Ch.2U3),
+inside the completed recount → *was/were* for past
+states (Ch.3U1) → **reported speech for questions** —
+*if/whether* and Wh- forms with backshift (Ch.3U2) →
+the four-stage narrative frame, Orientation /
+Complication / Resolution / Coda (Ch.3U3) → **adjective
+order**, eight slots (Ch.4U1) → price expressions
+(Ch.4U2) → the passive reused, with modal passives,
+in descriptive text (Ch.4U3) → imperatives for
+procedure (Ch.5U1), *always/never* imperatives for
+safety advice (Ch.5U2), and the procedural text stated
+as a genre — goal / materials / steps (Ch.5U3). This
+is the heaviest grammar year of the three, as the
+guide said: the passive, the past continuous and
+reported questions all land in this one volume, on top
+of Grade 8's past-simple base.
+
+## Cross-check against the Grade 9 teacher guide (as filed in this set)
+
+- **Confirmed:** the chapter and unit map, every
+  chapter's objectives, and the guide's four headline
+  grammar claims — the passive (Ch.1U3, and again
+  Ch.4U3), the past continuous with *when/while*
+  (Ch.2U3), adjective order (Ch.4U1), and price
+  expressions (Ch.4U2) all stand in the pupil book
+  exactly where the guide's Scope and Sequence put
+  them. Progress Check 2's passive-transformation
+  items (printed p.342) confirm in the pupil book what
+  the guide's key claimed was assessed. The student
+  book's preface confirms the guide's text diet from
+  the pupil side: report is the new text type of
+  Grade 9.
+- **Corrected — reported questions are taught in
+  Chapter 3 Unit 2, not Unit 3.** The guide's chapter
+  map assigns "indirect speech for questions" to Unit
+  3 (The Multiverse Story of Timun Mas). In the pupil
+  book the Language Focus stands in Unit 2, Back to
+  the 90s (printed p.176), built on that unit's Time
+  Travel Car story, whose Part 3 then models the forms
+  in use; Unit 3's language work is the four-stage
+  narrative table and story writing. A course sequence
+  taken from the guide alone would attach reported
+  speech to the wrong story.
+- **Corrected — Chapter 0 is not Grade 8's list
+  repeated.** The guide gives Grade 9's Chapter 0 the
+  same ten bridging topics as Grade 8's. The pupil
+  book's Chapter 0 has fifteen sections, most of them
+  new (question tags, comparatives, superlatives,
+  phrasal verbs, *-ish* adjectives, intensifiers,
+  measurement, exclamation, sympathy, disappointment,
+  agreement, surprise, *wish/hope*); only classroom
+  language and transition signals carry over. The
+  guide understates the pupil book's reference chapter
+  in the same way it understated Grade 8's — but here
+  the content itself is also different, and Chapter 0
+  is the only place in the whole junior-high series
+  where comparatives and superlatives appear at all.
+- **Corrected — titles.** The pupil book prints
+  "Orangutan and Gorilla" throughout (Contents,
+  chapter opener, unit heading), against the guide's
+  Contents spelling "Gorila"; its Chapter 4 Unit 1 is
+  "Look at My Creation" (Contents and heading),
+  without the "New" of the guide's and Scope's "Look
+  at My New Creation"; and its Chapter 2 Unit 2 is
+  "What an Experience!" in Contents and heading,
+  confirming the guide's note that the Scope's "What
+  Did You Do There?" is the odd one out. The guide's
+  one Contents error (Unit 2 of Chapter 1 at p.69 for
+  p.59) is, as with Grade 8, the guide's own: the
+  pupil book's Contents puts the unit at printed p.42
+  and its heading stands there.
+- **Added by the student book:** the two printed audio
+  transcripts at printed p.74 (orangutan and helmeted
+  hornbill information reports) — heard material the
+  guide prints as scripts, but which the pupil book
+  also gives to pupils, once, at the end of Chapter 1
+  only; and the pupil-facing Scope and Sequence
+  (printed pp.xvi–xxi).
+
+## Honest negatives (Grade 9 student book)
+
+- **Comparatives and superlatives are never taught.**
+  They exist only as example tables in Chapter 0
+  (printed pp.15–16) with no formation rule, no
+  chapter takes them up, and no Progress Check item
+  in this book tests them. A pupil can finish Fase D
+  having seen "bigger than" in a reference list and
+  nowhere else.
+- **Reported speech is questions only.** Statements
+  are never reported: there is no *said that…* system,
+  no reporting of commands, and tense backshift is
+  shown inside the question examples rather than
+  stated as a rule (printed p.176).
+- No present perfect, no future form (the *will* of
+  the Chapter 0 question-tag table is a tag example,
+  not a taught tense), no conditionals, and no passive
+  beyond the present/past *be* + participle and the
+  modal *can be* forms practised — the passive's own
+  Language Focus never names tense variation.
+- **The book's own reported-speech example slips:**
+  on printed p.176 the direct question is attributed
+  to "Princess Pipit" and its indirect form to
+  "Princess Suripit" in consecutive lines.
+- **Title drift inside the book:** Chapter 3 is
+  "Journey to Fantasy Worlds" in the Contents,
+  "Journeys to the Fantasy Worlds" on its chapter
+  opener (printed p.150) and "Journey to the Fantasy
+  Worlds" in its running heads; Chapter 5 Unit 1's
+  sections are all headed "Unit 1. Digital Life"
+  instead of the unit's name (printed pp.269–299);
+  Chapter 4's opener lists its unit as "Look at My
+  Creation" while the Scope and Sequence (printed
+  p.xx) calls it "Look At My New Creation".
+- **The reflection-page artifact repeats:** the
+  Learning Reflection pages after Chapters 3, 4 and 5
+  (printed pp.204, 264, 339) all carry the stray
+  header "Unit 3. Indonesian Birds" — Chapter 1's last
+  unit — exactly as in the Grade 8 book; only Chapter
+  1's and Chapter 2's reflection pages carry a header
+  that belongs to them.
+- Listening remains audio-only apart from the single
+  transcript page (printed p.74): the Andre and
+  Princess Suripit serial (Audio 3.1–3.4), on which a
+  whole unit's *was/were* work depends, exists for the
+  pupil only as sound and worksheet fragments.
+- The final page's Audio/Worksheet content (printed
+  p.368) is graphical, so its exact links cannot be
+  settled from this copy's text layer.
 
 ---
 
@@ -3591,6 +4523,468 @@ in the pair.
 
 ---
 
+# Indonesia — English Grade 11 Student Book (*English for Change*) — FULLY READ + CITATION CHECK PASSED 2026-11-03
+
+## The book itself
+
+- **Title as printed:** Bahasa Inggris: English for Change
+  untuk SMA/MA Kelas XI — "English: English for Change for
+  Senior High / Madrasah Aliyah Grade 11". Cover: "BAHASA
+  INGGRIS / English for Change", Kemendikbudristek 2022,
+  SMA/MA KELAS XI.
+- **Publisher:** Kementerian Pendidikan, Kebudayaan, Riset,
+  dan Teknologi (Ministry of Education, Culture, Research
+  and Technology), issued by Pusat Perbukuan, Jakarta —
+  the Kurikulum Merdeka main textbook (buku teks utama).
+- **Authors:** Puji Astuti, Aria Septi Anggaira, Atti
+  Herawati, Yeyet Nurhayati, Dadan, Dayang Suriani.
+  Reviewers (Penelaah): Eva Tuckyta Sari Sujatna, Lulu
+  Laela Amalia — the same team as the teacher guide
+  already filed.
+- **Year / edition:** Cetakan Pertama (first printing),
+  2022.
+- **ISBN:** 978-602-427-944-8 (jil.2); set ISBN printed
+  alongside is 978-602-244-896-9 (no.jil.lengkap). Both
+  read from the imprint page (PDF p.2).
+- **Copy facts:** 11,742,999 bytes; 288 PDF pages =
+  printed xxii + 266, matching the imprint's own extent
+  exactly. Usable text layer (the extraction drops the
+  "f" of many fi/fl ligatures — a copy artefact, not a
+  book error; the book's own printed slips are recorded
+  separately below). Read whole from the text layer page
+  by page. This is the secured library copy of the
+  penerbitcmedia mirror record row "Bahasa Inggris —
+  Buku Siswa Kelas 11 (Kurikulum Merdeka)"
+  (…/g11_bahasa_inggris.pdf), pulled from the secured
+  GitHub library and cover-verified.
+- **Page offset:** front-matter roman folios = PDF page
+  number; body printed page = PDF page − 22.
+- **Citation check:** 22/22 anchors verified in the real
+  PDF (imprint and both ISBNs, the Preface's naming of
+  the book, the Contents unit list, the Scope and
+  Sequence, the opinion-expression modelling, "The
+  Blogging Algorithm Works", the Greysia Polii post, the
+  domestic-waste listening objective, the adjective-
+  clause grammar focus, the types-of-waste text, the
+  waste-bank text, the giving/defending-opinion lesson,
+  the sleep text, the Aeshnina narrative-essay cloze,
+  the Aeshnina reading text, the Swietenia Puspa Lestari
+  text, the comparative-degree grammar focus, the
+  superlatives grammar focus, "How to change your PIN",
+  "10 ways to save money in high school", and the
+  closing audio-recording link page).
+
+**How every unit is built:** the pupil Preface (printed
+pp.v–vi) states the book's own frame in English: the name
+*English for Change* is explained (learning as change and
+becoming; Merdeka Belajar emancipation), the target is
+**CEFR B1**, and the machinery is the Genre-Based
+Approach in five stages — Building Knowledge of the
+Field (BKoF), Modeling of Text (MoT), Joint Construction
+of Text (JCoT), Independent Construction of Text (ICoT),
+Linking Related Texts (LRTs) — which the pupil pages
+themselves name at every stage. Each of the five units
+opens with a Mind Mapping the Unit page and runs six
+skill lessons in fixed order — Listening, Speaking,
+Reading, Viewing, Writing, Presenting — each with its
+printed Learning Objective, and closes with An
+End-of-Unit Reflection. Two featured reflection
+activities recur inside the lessons, exactly as the
+guide promised: *What Have You Learned So Far?* and
+*A Mid-Lesson Reflection*. Cooperative-learning
+techniques are named on the pupil page where they are
+used (Think-Pair-Share, Talking Chip, Give-One Get-One,
+Jigsaw, RoundRobin, Numbered-Heads Together, Three-Step
+Interview, Jot Thoughts, Pairs Compare and more), and
+the book's own back matter prints the CL procedure
+appendix for pupils (printed pp.230–235). A full Scope
+and Sequence (printed pp.xviii–xxii) gives, per unit,
+theme, topic, the six lessons, vocabulary, pronunciation
+and grammar. All audio is reached through the QR code /
+link printed on the book's last page (printed p.266),
+and pupil activities point to it throughout ("You can
+find it through the link or QR code on page 266").
+
+## Full per-unit map (printed pages)
+
+### Unit 1 — Digital Literacies and My Identities (printed pp.1–44)
+Essential frame (from the Scope table): digital safety;
+transactional conversation and author's purpose in
+multimodal texts.
+- Listening (pp.3–9): categorise expressions for stating
+  opinions, agreeing and disagreeing in a spoken
+  transactional conversation; the expressions are then
+  modelled in print (expression tables, p.5 area) and
+  sorted in practice, with a talk-show observation task
+  as LRTs homework.
+- Speaking (pp.10–14): use the same expressions with
+  peers; pronunciation focus is **word stress**, taught
+  with the dictionary stress mark on multi-syllable
+  words; pair dialogues on set situations (a trusted
+  person's opinion; a harsh comment on a book-review
+  video).
+- Reading (pp.15–23): identify a content creator's
+  purpose in a multimodal text. The worked texts are a
+  teenage blogger's post, "The Blogging Algorithm Works"
+  (p.19; summary only: with the right tags, photos and
+  message a good blog post is pushed to the top of
+  search results, unlike an Instagram post that can meet
+  every criterion and still flop), Greysia Polii's
+  Instagram post in translation (p.20; summary only: as
+  Chair of Athlete Commission she is there to learn and
+  serve, pros and cons notwithstanding), and a social-
+  media entry by Maudy Ayunda, whose purpose is analysed
+  here and carried into Viewing.
+- Viewing (pp.24–30): make evidence-based inferences
+  about implicit information in a multimodal text —
+  "reading between the lines" — worked first on Maudy
+  Ayunda's entry (the inference target is her
+  personality traits) and then on a male creator's entry
+  (the target is his work ethic), each through the same
+  evidence / prior-knowledge / prior-experience prompts.
+- Writing (pp.31–38): formulate **subject questions** and
+  build an interactive, engaging social-media caption —
+  modelled on Paola (Paolita) Merrill's Instagram photo
+  and caption and a printed "Killer Captions" tips text —
+  then draft, post, and make a name-tent group exchange
+  of the posts.
+- Presenting (pp.39–44): talk through the process of
+  drafting and posting content, with transitional words
+  for sequence and a sequence graphic organiser; the
+  unit's worked situation is becoming an international
+  journalist through social media.
+
+### Unit 2 — Love Your Environment (printed pp.45–96)
+Text type: description. (The Scope table heads this unit
+"Being an Environmental Caretaker" — see Honest
+negatives.)
+- Listening (pp.47–55): identify expressions relating to
+  domestic-waste issues; the heard text is a description
+  of a place (pupil page carries the three guiding
+  questions only — the description itself is audio).
+  The lesson's print load is the five-senses description
+  method (sight, taste, touch, smell, sound, with writing
+  prompts and tips for each sense) and a **Grammar Focus
+  on adjective clauses** for describing a place (p.52),
+  closing with the "power of five senses" table and a
+  video task on garbage in the ocean.
+- Speaking (pp.56–62): use **adjective phrases** in a
+  monologue or dialogue about domestic waste — phrase-
+  building tables (a big trash bin and the like), fact
+  vs opinion adjectives, picture dialogues (Kampung Naga
+  among the prompts).
+- Reading (pp.63–72): main ideas and writer's purpose in
+  descriptive text. Text 1 classifies waste (pp.64–66:
+  plastic, liquid, solid rubbish and its types, organic
+  and the rest, with the recyclable/unrecyclable
+  questions the guide keyed); a descriptive-writing
+  explanation follows; Text 2 is the plastic-production
+  text (summary only: production grew from virtually
+  zero in the 1950s to about 350 million tons a year by
+  2015, 7.8 billion tons cumulative, packaging the
+  largest use at about 141 million tons), and an LRTs
+  text treats pawn shops as reuse.
+- Viewing (pp.73–84): synthesise and evaluate core and
+  specific information in a descriptive text — Pairs
+  Compare on waste-bank photographs, the World Bank
+  text "Waste Not, Want Not: 'Waste Banks' in Indonesia"
+  (pp.76–78; summary only: households sort organic and
+  non-organic waste, deposit the non-organic at a
+  neighbourhood bank sampah where it is weighed, valued
+  and saved in an account — collect, save, earn, change
+  behaviour, enjoy a clean neighbourhood), a K-W-L
+  reflection, and a polluted-beach evaluation text.
+- Writing (pp.85–90): produce a descriptive text about a
+  place using five-senses vocabulary; the lesson's print
+  load is **punctuation and capitalisation** — the marks
+  named, practised sentence by sentence, and applied to
+  real WhatsApp messages in LRTs.
+- Presenting (pp.91–96): present a digital or non-digital
+  poster about an interesting place, after printed
+  "Top Tips for Effective Presentations".
+
+### Unit 3 — Healthy Life for a Healthy Future (printed pp.97–136)
+Text types: transactional conversation and analytical
+exposition.
+- Listening (pp.99–104): identify expressions of **giving
+  and defending opinion** in a spoken transactional
+  conversation — the expression table (p.101) and a
+  printed healthy-food dialogue (Teuku, Sindi and
+  classmates; salmon and broccoli, orange juice) carry
+  the sorting work the guide keyed.
+- Speaking (pp.105–110): use giving/defending-opinion
+  expressions, with **sentence stress** as the
+  pronunciation focus; the production task is a spoken
+  healthy-morning-routine opinion text on a supplied
+  template, then paired opinion exchange.
+- Reading (pp.111–120): main ideas and author's purpose
+  in analytical exposition. The worked texts are a
+  jogging exposition (pp.113–115, structure-labelled;
+  summary only: jogging is cheap and can be done
+  anywhere, alone or with friends, and burns about 100
+  calories a mile), a sleep exposition (pp.117–118;
+  summary only: sleep heals and repairs heart and blood
+  vessels, and leptin/ghrelin balance turns on it), an
+  obesity exposition (p.120; summary only: excess weight
+  makes the heart work harder and raises blood pressure
+  and heart-attack risk), and a skin/nutrients text
+  (lycopene in tomatoes as natural sunscreen among its
+  points); the health-terms matching set (diabetes,
+  ghrelin, mental health, sleep deprivation,
+  problem-solving) is printed here for pupils.
+- Viewing (pp.121–125): synthesise and evaluate detailed
+  information in a multimodal analytical exposition —
+  fruit-eating times picture work, a teacher-played
+  video explaining analytical exposition, and an
+  infographic-design task on fact-based argument.
+- Writing (pp.126–130): produce an analytical exposition
+  about healthy life using suitable conjunctions —
+  graphic organiser → draft on the text structure →
+  simple-present error correction (the "Siti seldom eat"
+  set) → conjunction sorting on a fried-chicken model.
+- Presenting (pp.131–136): present an analytical
+  exposition in a **group debate** — a "why junk food
+  should be banned" video, printed Debating Rules
+  (Pro/Con, evidence, conclusion), and the pros/cons
+  text "Should Junk Food Be Banned or [Allowed]" with
+  its five reasons on each side, closing in a healthy-
+  lifestyle poster presentation.
+
+### Unit 4 — Indonesian Environmental Figures (printed pp.137–180)
+Text types: transactional conversation and narrative.
+- Listening (pp.139–144): identify expressions for
+  **starting, continuing and ending** a transactional
+  conversation; the lesson's gap-fill is a narrative
+  essay about Aeshnina Azzahra Aqilani ("Nina") — the
+  pupil text prints the cloze frame and her photograph
+  (p.142) — heard from the audio reached via p.266.
+- Speaking (pp.145–150): use the three expression
+  categories with correct **intonation** (falling for
+  statements, rising for yes/no questions), through
+  RoundRobin practice — and the lesson's field text is
+  Pak Sadiman, introduced by illustration and a teacher-
+  played video, with the "why is he labelled insane?"
+  discussion the guide described.
+- Reading (pp.151–159): main ideas and author's purpose
+  in narrative text. The lesson opens with a who-is-it
+  table of young Indonesian environmental activists,
+  a vocabulary set (climate terms; reuse and the like),
+  profile texts including Laetania Belai Djandam
+  (pp.154–156, paragraph-matched; summary only: a Dayak
+  youth activist for whom human and environmental
+  health are one planetary-health question) and
+  Salsabila Khairunnisa (p.157; summary only: born 2003,
+  at 15 she co-founded the Jaga Rimba youth movement),
+  and the Jigsaw reading text on Nina (pp.158–159;
+  summary only: her letters and campaign against imported
+  plastic waste reached the German ambassador in Jakarta,
+  who promised tighter port supervision, and German
+  plastic waste fell).
+- Viewing (pp.160–166): synthesise and evaluate detailed
+  information in a narrative text; the taught tool is
+  **WH-question thinking** (who, where, when, why, how,
+  which), modelled on a personal healthy-living narrative
+  and applied to Pak Sadiman, closing in a go-green
+  poster task.
+- Writing (pp.167–173): write a linear narrative about
+  an environmental figure in the **simple past tense** —
+  the tense taught in print here with a Mandela example
+  ("was born in 1918") — modelled on the Swietenia Puspa
+  Lestari text (pp.170–171; summary only: a Bogor
+  Institute of Technology graduate, founder of Divers
+  Clean Action, cleaning ocean waste with divers), with
+  Melati and Isabel Wijsen as the opening questions and
+  Farwiza Farhan as the LRTs research figure.
+- Presenting (pp.174–180): present a digital or
+  non-digital poster about an environmental figure;
+  the modelling text is a presentation-guidelines table,
+  and the lesson's reading-within-presenting treats
+  Xiye Bastida and Greta Thunberg (summary only:
+  Bastida heard Thunberg's climate strikes after working
+  on New York climate legislation).
+
+### Unit 5 — Personal Money Management (printed pp.181–228)
+Text type: procedure.
+- Listening (pp.183–188): identify expressions used in a
+  procedure text about personal money management — a
+  Bank of America budgeting video, then the lesson's
+  print load: **Grammar Focus 1, comparative degree**
+  (-er vs more, with the affix patterns as an
+  investigation task) **and imperatives**, and a
+  Think-Pair-Square discussion; the JCoT listening is
+  the steps to pay school fees by virtual account, with
+  the verbs gapped.
+- Speaking (pp.189–199): use **superlatives** in a
+  monologue or dialogue about money management — the
+  superlative grammar focus in print (-est vs most,
+  with /-st/ pronunciation practice), comparative/
+  superlative question completion, temple-comparison
+  pair work (Prambanan, Mendut, Borobudur), and a group
+  dialogue on financial literacy indicating every
+  comparative and superlative used.
+- Reading (pp.200–207): main ideas and writer's purpose
+  in a procedure text. The worked texts are a bank-
+  account-book opening set, "How to Wire Money Online"
+  (p.201; summary only: set up internet banking in
+  person, log in, choose the account and recipient,
+  confirm and finalise the transfer), the generic-
+  structure explanation of procedure text, and "How to
+  change your PIN" (p.205, seven steps at the ATM).
+  The cash-deposit steps the guide keyed are **not** a
+  printed pupil text — depositing is a video task
+  (Activity 9, YouTube) whose steps pupils must write
+  out themselves; see the guide-settling notes below.
+- Viewing (pp.208–216): synthesise and evaluate core and
+  detailed information in a procedure text — the
+  "Money Management: Navigating Teens' Life" video is
+  reached only by QR/link, as the Viewing lesson's
+  closing Linking Related Texts activity (printed
+  p.217; its talk-show content is video, not print);
+  the lesson's worked print text is "Here are
+  10 ways to save money in high school" (pp.211–212;
+  summary only: open a savings account, get a summer
+  job, buy and sell used textbooks, wait a week before
+  impulse buys, never grocery-shop hungry, Tuesday
+  movies), and a traditional-vs-modern banking chart
+  (pp.214–216) is evaluated true/false.
+- Writing (pp.217–222): write a procedure text about
+  personal money management with the correct generic
+  structure — procedure explanation and mind map,
+  an online-shopping process chart converted to text,
+  and an LRTs procedure for buying an online train
+  ticket.
+- Presenting (pp.223–228): present a digital or
+  non-digital poster about personal money management,
+  with a printed Dos and Don'ts of delivering a
+  presentation and a group money-management poster.
+
+### Back matter (printed pp.229–266)
+The Cooperative Learning procedures appendix
+(pp.230–235: Think-Pair-Share, One Stray, concentric-
+circle question cards, Numbered-Heads Together, Talking
+Chips, Jigsaw steps, Number Group Presentation);
+Glossary pp.236–240 (bilingual, word-class marked —
+account, addicted, deforestation, implicit, inference,
+stress and the rest); References pp.241–249; Index
+pp.250–253; contributor profiles pp.254–265; and the
+audio-recording QR/link page as the book's last page
+(p.266).
+
+## Grammar / vocabulary spine (Grade 11 *English for Change* student book)
+Opinion expressions — stating, agreeing, disagreeing —
+with word stress (U1) → five-senses description lexis,
+adjective clauses, adjective phrases, punctuation and
+capitalisation (U2) → giving/defending opinion with
+sentence stress; analytical exposition with internal
+conjunctions and simple present (U3) → conversation
+openers/continuers/closers with intonation; linear
+narrative in the simple past (U4) → comparatives and
+imperatives inside the Listening lesson, superlatives
+in Speaking, and the procedure text's generic structure
+(U5). Vocabulary is thematic per unit: digital
+literacies and identity (U1), domestic waste (U2),
+healthy life (U3), environmental preservation (U4),
+personal money management (U5). The spine is a
+text-type spine — transactional conversation,
+description, exposition, narrative, procedure — pitched
+at Fase F / CEFR B1, exactly as the pupil Preface and
+the Scope and Sequence declare.
+
+## What this read settles against the teacher guide already filed
+The guide section stated plainly that the student book
+was not in hand and that its pupil-side statements were
+the guide's own presentation. The student book is now
+read, and it **confirms the guide's picture in almost
+every particular** — the five units, six lessons each,
+the GBA five stages (named on the pupil pages), the two
+featured reflections, the B1 target (stated in the pupil
+Preface itself), the essential questions' topics, and
+the per-unit text types all check out page for page.
+The points where the pupil book corrects or completes
+the guide-based picture are these:
+- **Kamikatsu is not in the pupil book at all.** The
+  guide's Unit 2 Listening transcript presents the
+  Japanese zero-waste town; the pupil Listening lesson
+  (pp.47–55) contains no Kamikatsu text and no
+  transcript — its audio is a place description the
+  pupil only hears, and its print load is the five-
+  senses method and adjective clauses. "Kamikatsu" was
+  searched for in the pupil text: zero occurrences.
+  The guide's transcript layer is therefore the only
+  place that text exists, as the guide itself implied.
+- **The Unit 5 ATM sequence is guide-only in print.**
+  The guide keyed an eight-step ATM cash-deposit
+  sequence for the Reading lesson. In the pupil book
+  the deposit procedure is a *video* task (Viewing/
+  Writing strand, Activity 9) whose steps pupils write
+  themselves; the printed pupil procedures are wiring
+  money online (p.201) and changing a PIN (p.205).
+  Course-building should cite the deposit sequence to
+  the guide, not to a pupil page.
+- **Comparatives sit in the Listening lesson, not only
+  in Speaking.** The guide's Unit 5 map runs comparative
+  degree "into" superlatives inside its Speaking lesson;
+  the pupil book teaches comparatives and imperatives
+  as Grammar Focus 1 of the *Listening* lesson
+  (pp.185–187) and reserves superlatives for Speaking
+  (pp.191–193). The guide's keyed superlative model
+  ("the most interesting idea I have ever heard") is of
+  the same set the pupil Speaking lesson practises.
+- **The "Navigating Teens' Life" talk show is a video,
+  not a pupil text.** The guide printed its transcript;
+  the pupil Viewing lesson reaches "Money Management:
+  Navigating Teens' Life" only as a QR-linked video
+  (its own worked print text is the 10-ways-to-save
+  list). Same pattern as Kamikatsu: guide = transcript
+  authority, pupil book = task frame.
+- **The pupil book carries apparatus the guide section
+  credited to the guide alone:** the CL techniques are
+  not only named in the guide's appendix — the pupil
+  book prints its own CL procedures appendix
+  (pp.230–235) and names the technique on every page
+  that uses it; and the audio QR/link page is the pupil
+  book's own last page (p.266), the page its activities
+  cite throughout, as well as the guide's.
+- **Unit 2's title genuinely splits:** the pupil unit is
+  "Love Your Environment" on its divider, Contents and
+  running heads, while the pupil Scope and Sequence
+  heads the same unit "Being an Environmental
+  Caretaker" (p.xix) — the guide used the divider title;
+  the split is inside the pupil book itself.
+
+## Honest negatives (Grade 11 *English for Change* student book)
+- No answer keys and no transcripts in the pupil book:
+  every listening text is audio-only from the pupil
+  side, reached only through the p.266 QR/link; a pupil
+  without connectivity cannot check any listening work
+  from this book.
+- The default route assumes accounts and devices
+  throughout — posting real captions to the pupil's own
+  social media (U1 Writing/Presenting), WhatsApp
+  messages as material (U2), YouTube videos in nearly
+  every unit. Non-digital alternatives exist in the
+  guide, not on the pupil page.
+- Print slips stand in the pupil text: "Relection" for
+  Reflection in every End-of-Unit heading, "Proil" for
+  Profil in the contributor pages, "Speciically" and
+  "diiculties" in the Preface and activities — all as
+  printed, distinct from the copy's ligature losses.
+- The Scope and Sequence's Unit 2 heading ("Being an
+  Environmental Caretaker") matches nothing else in the
+  book (see above), and the Unit 4 Viewing lesson's
+  model narrative is a healthy-living text, off the
+  unit's environmental topic — carried over, it seems,
+  from Unit 3's theme.
+- Several reading texts are web pieces reproduced with
+  a source line but no adaptation note (the waste-bank
+  and plastic texts, the PIN-change steps credited to
+  IndiaToday), and the Greysia Polii post is a
+  translation whose original is not printed.
+
+---
+
+---
+
 # Indonesia — English Grade 11 Teacher Guide — FULLY READ + CITATION CHECK PASSED 2026-11-03
 
 ## The book itself
@@ -3948,6 +5342,369 @@ carried by named grammar only where a genre needs it.
 
 ---
 
+# Indonesia — English Grade 11 Student Book (*Bahasa Inggris Tingkat Lanjut — Let's Elevate Our English*) — FULLY READ + CITATION CHECK PASSED 2026-11-03
+
+## The book itself
+
+- **Title as printed:** Bahasa Inggris Tingkat Lanjut untuk SMA
+  Kelas XI — "Advanced English for Senior High School Grade 11".
+  Cover: "Bahasa Inggris Tingkat Lanjut", Rida Afrilyasanti,
+  SMA KELAS XI. The English title *Let's Elevate Our English*
+  is the series title carried by the companion teacher guide;
+  the student cover itself prints only the Indonesian title.
+- **Publisher:** Kementerian Pendidikan, Kebudayaan, Riset, dan
+  Teknologi (Ministry of Education, Culture, Research and
+  Technology), issued by Pusat Perbukuan (Badan Standar,
+  Kurikulum, dan Asesmen Pendidikan), Jakarta — the Kurikulum
+  Merdeka main textbook (buku teks utama), prepared at first
+  for the Sekolah Penggerak (mover schools) programme.
+- **Author:** Rida Afrilyasanti (single named author on the
+  imprint and cover). Reviewers (Penelaah): Emi Emilia,
+  Windy Hastasasi. Illustrator Yol Yulianto.
+- **Year / edition:** Cetakan pertama (first printing), 2021.
+  Ministry foreword dated Jakarta, December 2021. **This is
+  the first edition — not the Edisi Revisi (revised edition,
+  2024) of the teacher guide already filed in indonesia.md;
+  the difference matters and is spelled out below.**
+- **ISBN:** 978-602-244-862-4 (no.jil.lengkap, the set);
+  978-602-244-863-1 (jil.1), both from the imprint page
+  (PDF p.2).
+- **Copy facts:** 3,843,332 bytes; 216 PDF pages = printed
+  xiv + 202, matching the imprint's own extent exactly.
+  Usable text layer (the extraction drops some fi/fl
+  ligatures — a copy artefact, not a book error); the read
+  was made from the text layer page by page. This is the
+  secured library copy of the penerbitcmedia mirror record
+  row "Bahasa Inggris Tingkat Lanjut — Buku Siswa Kelas 11"
+  (…/g11_bing_lanjut.pdf), pulled from the secured GitHub
+  library and cover-verified.
+- **Page offset:** front-matter roman folios = PDF page
+  number; body printed page = PDF page − 14.
+- **Citation check:** 22/22 anchors verified in the real PDF
+  (imprint and both ISBNs, the Contents unit list, the Unit 1
+  divider, "The Legend of The Holy Stone", the listening-
+  transcript notice, the action-verbs/past-tense grammar
+  focus, the Crying Stone picture caption, "The Goose Girl",
+  "Puss in Boots", the noun-phrase practice, the Narnia
+  reading, "Animal Farm", Reported Speech, the Malin Kundang
+  test questions, the Bawang Merah/Bawang Putih test text,
+  "Benefits of Getting a Covid-19 Vaccine", the healthy-
+  environment listening title, the mobile-technologies
+  hortatory text, the nutrition listening title, "Why is
+  Internet Safety Important?", and the Glossary).
+
+**How every unit is built:** the author's preface (Prakata,
+printed pp.iv–v) frames the book as Fase F advanced English
+and as enrichment of the regular Grade 11 English course —
+pupils are expected to have finished the regular course
+(Fase A–E) first; this book's texts are narrative and
+exposition, with discussion text left to the Grade 12
+advanced book. Each of the five units runs the same
+seven-part machine — A. My Initial Understanding →
+B. Reading → C. Listening → D. Grammar Focus → E. Writing →
+F. Speaking → G. Reflection (closing with a "CAN YOU?"
+self-check) — and the two halves of the book close with
+Concluding Sections that summarise the language, set an
+enrichment task and a project, and end in a Formative Test.
+The front matter prints a Content Mapping table (printed
+pp.xi–xiii) giving, per unit, the vocabulary, grammar and
+four skill focuses — the book's own spine statement. The
+Writing strand in every narrative unit runs the same
+process: mind map / story planner → story layout → draft →
+proofreading → revise → publish.
+
+## Full per-unit map (printed pages)
+
+### Unit 1 — Legend (printed pp.1–40)
+- Reading (pp.3–14): vocabulary first (sago, chanting and the
+  story's bold-typed words), then "The Legend of The Holy
+  Stone" (pp.5–7; plot summary only: in Papua, the hunters
+  Irimiami and Isoray rest on a stone that proves to be a
+  deity's; fire, a promise and a prohibition follow, the
+  broken prohibition brings disaster, and the stone, the
+  sago groves and the tifa-drum ceremony close the tale).
+  The story is then re-read inside a three-column
+  Structures / Text / Language Features table (pp.10–12)
+  that labels Orientation, Complication and Resolution and
+  glosses setting, action verbs and sequence words in the
+  margin; event-ordering and legend-definition work follow.
+- Listening (pp.15–23): "The Legend of N'daung Snake" —
+  heard, not read: a cloze first half (the snake's hissed
+  threats are the gap-fill), then the printed second half
+  (summary only: the youngest daughter takes the healing
+  ingredients from the snake, a prince is restored, her
+  jealous elder sisters' night-time plot turns on them).
+  Character work uses the STEAL steps (Speech, Thoughts,
+  Effect, Actions, Looks). The pupil page states plainly:
+  "The Listening transcript is provided in the Teacher's
+  Book" (p.17).
+- Grammar Focus (pp.24–29): action verbs and past tense
+  (a full past-form practice table and a cloze story),
+  then sequence words, practised by labelling the
+  structure of "The Legend of Crying Stone" (p.29; summary
+  only: a disobedient daughter is slowly turned to stone
+  in the rain after her mother's curse).
+- Writing (pp.30–36) and Speaking (pp.37–38): pupils build
+  their own legend through character/setting/plot mind
+  maps and a story planner, proofread it, and present it
+  as a TV talk show ("Meet the author"), then analyse a
+  classmate's story. Reflection p.39–40.
+
+### Unit 2 — Fairy Tale (printed pp.41–70)
+- Reading (pp.42–52): "The Goose Girl" (summary only: Ani,
+  a princess of Kildenree who can speak to animals and
+  nature, is betrayed on the journey to Bayern by her
+  companion, serves as a goose girl, and is finally
+  recognised and restored) — printed with its structure
+  and adjective clauses labelled in the margin, followed
+  by comprehension, character-mapping and tale-definition
+  work. The References give the tale's source as a PDF of
+  the Hale retelling held on a school library site.
+- Listening (pp.53–61): "Puss in Boots" — the tale is
+  printed in full in the pupil book after the listening
+  cloze (summary only: a miller's youngest son inherits
+  only a cat; the cat, in boots, manufactures gifts, a
+  title — Marquis of Carabas — an ogre's castle and a
+  royal marriage for him), with true/false, dialogue-
+  completion and character-matching work, and a closing
+  discussion of whether the cat's tricks were right or
+  legal (p.62).
+- Grammar Focus (pp.62–64): noun phrases (practised from
+  the tale's own phrases) and adverbs of time, place and
+  manner, with a type/function/position table.
+- Writing (pp.65–67) and Speaking (pp.68–69): story map →
+  complete fairy tale → proofread and publish; speaking
+  is storytelling performance (a puppet show is pictured)
+  and a three-way dialogue about the characters.
+  Reflection pp.69–70.
+
+### Unit 3 — Fantasy (printed pp.71–100)
+- Reading (pp.72–82): "The Lion, the Witch and the
+  Wardrobe" in extract (summary only: Lucy finds Narnia
+  in the wardrobe, meets the faun Tumnus, is disbelieved,
+  Edmund follows and is ensnared, and Aslan's return is
+  foretold at the Stone Table) — again printed inside the
+  Structures / Text / Language Features table, with
+  past-tense and shortened-clause forms glossed; Tumnus
+  description ovals, event sequencing and character-trait
+  evidence work follow.
+- Listening (pp.83–89): "Animal Farm" — cloze plus printed
+  continuation (summary only: the animals' revolution
+  curdles as Napoleon expels Snowball, rules through a
+  pig committee and Squealer's propaganda, works Boxer
+  to collapse, and ends dining with the humans as the
+  farm's name reverts to Manor Farm), with leadership-
+  comparison and story-structure matching work.
+- Grammar Focus (pp.90–93): adjective clauses and their
+  reduction to adjective phrases (who/that/which, be
+  dropped), then direct and indirect (reported) speech
+  with the full backshift table — pronoun change and
+  seven tense mappings worked on the Narnia sentences.
+- Writing (pp.94–96) and Speaking (pp.97–99): fantasy
+  writing from supplied prompts (a writer trapped inside
+  her own book; a great-grandfather's chessboard in the
+  attic) through the story-planner machine; speaking is
+  inside–outside-circle story sharing and a rehearsed
+  paired performance. Reflection pp.99–100.
+
+### Concluding Section 1 (printed pp.101–116)
+- Summary (pp.101–105): narrative text defined and
+  re-taught in brief — generic structure, characterisation,
+  and six language features (action verbs, past tense,
+  sequence words, noun phrases, adverbs, adjective
+  clauses), closing with the direct/indirect speech
+  conversion table again.
+- Enrichment (p.105) and Project (pp.106–108): a class
+  drama production, costed in role tables (producer,
+  director, cast, costume/lights/sound/make-up crew) with
+  a scene-planning grid.
+- Formative Test (pp.109–116): Part 1 is listening and
+  speaking on the Malin Kundang legend (the questions name
+  Malin and his mother Mande Rubayah; summary only: the
+  rich returned son refuses to own his poor mother, her
+  prayer is answered and he is turned to stone). Part 2
+  is reading and writing on "Bawang Merah and Bawang
+  Putih" — printed in the test under the mis-set title
+  "Bawang Mewah and Bawang Putih" (p.111; summary only:
+  the kind stepdaughter, sent after a lost red scarf,
+  chooses the small pumpkin from the old woman and finds
+  jewels; the greedy stepsister repeats the errand,
+  chooses the large pumpkin, and finds snakes).
+
+### Unit 4 — Analytical Exposition Text (printed pp.117–146)
+- Reading (pp.119–130): the genre defined first (thesis –
+  arguments – reiteration; analytical persuades that
+  something *is* the case, hortatory that something
+  *should* be done), then the model text "Benefits of
+  Getting a Covid-19 Vaccine" (pp.121–124), printed with
+  its five arguments and supporting evidence labelled in
+  the margin (summary only: vaccines prevent disease and
+  deaths, train the immune system, protect the
+  unvaccinable, can end the pandemic, and protect future
+  generations). Key-concept pages add the argument-opener
+  expressions and the fact/opinion distinction, with
+  signal-word lists and a fact/opinion sorting exercise
+  on the vaccine text's own sentences.
+- Listening (pp.131–135): the recorded analytical
+  exposition "Reasons Why a Healthy Environment Should
+  be a Human Right" (adapted from UNEP; summary only:
+  six reasons running from zoonotic disease and air
+  pollution through diet, medicines and pollution to
+  climate change) — heard, then mapped onto
+  thesis/argument/reiteration.
+- Grammar Focus (pp.136–138): simple present tense in
+  full (form table and six uses), internal conjunction,
+  and relational processes (be, become, seem, remain and
+  the rest of the listed set).
+- Writing (pp.139–142) and Speaking (pp.143–144): pupils
+  mind-map and draft their own analytical exposition on
+  Environmental Awareness or Health, proofread and swap
+  for comment; speaking practises a set dialogue and
+  presents the draft to the class. Reflection pp.145–146.
+
+### Unit 5 — Hortatory Exposition Text (printed pp.147–174)
+- Reading (pp.149–159): the model text "Students Should
+  be Allowed to Use Mobile Technologies in Class"
+  (pp.151–153), structure-labelled (summary only: three
+  arguments — young people now write by typing, typing
+  records lectures faster and more legibly, and mobile
+  tools make study more engaging — closing in a
+  recommendation that they be allowed). Key-concept and
+  language-feature pages work over the same text, with
+  action-verb identification exercises.
+- Listening (pp.160–162): the recorded hortatory text
+  "What is good nutrition and why is it important?"
+  (summary only: balanced nutrient-rich eating, immune
+  function, mood, tomatoes and berries for vigour and
+  cognition, and a recommendation against fried food,
+  sugar and snacking) — heard, questioned, and sorted
+  true/false.
+- Grammar Focus (pp.163–167): abstract nouns, modal
+  adverbs (a degree-of-certainty table pairing modal
+  verbs — will/must, should/can, may/could — with
+  certainly/undoubtedly, probably/usually,
+  possibly/occasionally), and temporal (time)
+  connectives; the practice text is "Why is Internet
+  Safety Important?" (p.166), mined for conjunctions,
+  modal adverbs, abstract nouns and ordinal sequencing.
+- Writing (pp.168–170) and Speaking (pp.171–172): the
+  hortatory writing machine (mind map → draft → check →
+  comment → present); speaking practises a dialogue
+  about changing an account's privacy settings and
+  presents the pupil's own text. Reflection pp.173–174.
+
+### Concluding Section 2 and back matter (printed pp.175–202)
+- Summary (pp.175–176): both exposition types recapped —
+  structure and language features (simple present,
+  abstract nouns and the rest) side by side.
+- Enrichment (p.177): modify a supplied article into a
+  good hortatory exposition. Project (pp.178–180): write
+  an article about cyberbullying with recommendations,
+  through the mind-map/thesis/arguments/recommendation
+  machine.
+- Formative Test (pp.181–187): Part 1 listening/speaking
+  (transcript in the teacher's book); Part 2 reading on
+  climate-change understanding and on a financial-
+  literacy exposition (summary only: the 2008 crisis,
+  household debt, bankruptcy and foreclosure laid to a
+  lack of financial understanding, with survey figures
+  questioned in the items).
+- Glossary pp.188–191; References pp.192–193; Index
+  pp.194–195; contributor profiles pp.196–202.
+
+## Grammar / vocabulary spine (Grade 11 Tingkat Lanjut student book)
+Narrative first, in three passes of rising difficulty:
+legend — action verbs, past tense, sequence words (U1) →
+fairy tale — noun phrases, adverbs of time/place/manner
+(U2) → fantasy — adjective clauses and their reduction,
+direct/indirect speech with full backshift (U3); then
+exposition in two passes: analytical — simple present,
+internal conjunction, relational processes, fact vs
+opinion (U4) → hortatory — abstract nouns, modal adverbs,
+temporal connectives (U5). Vocabulary is set by the
+Content Mapping: traditions and narrative parts (U1),
+fantastic forces (U2), impossible/magic systems (U3),
+cases/phenomenon and the elements of analytical
+exposition (U4), social phenomenon and technology (U5).
+Unlike the regular-course books, grammar here is taught
+in the open — a named Grammar Focus section in every
+unit, with tables and drills — because this is the
+advanced, enrichment book.
+
+## What this read settles against the teacher guide already filed
+- **The pair in hand is not edition-matched, and the
+  guide's picture of the pupil book does not describe
+  this book.** The filed guide is the Edisi Revisi
+  (revised edition, 2024), by Anik Muslikah Indriastuti
+  *and* Rida Afrilyasanti, built in four units (nature
+  narrative; identity narrative; water analytical
+  exposition; health hortatory exposition) at a stated
+  CEFR B2. This student book is the first edition (2021),
+  by Rida Afrilyasanti alone, built in **five** units
+  (Legend; Fairy Tale; Fantasy; Analytical Exposition;
+  Hortatory Exposition) plus two Concluding Sections,
+  and it nowhere states a CEFR level — its preface says
+  only Fase F advanced, as enrichment of the regular
+  course. Neither the guide's 45-JP-per-unit costing nor
+  its four-unit scheme can be applied to this edition.
+- **None of the guide's named pupil texts is in this
+  book.** The guide's inventories — "Yew Story", "It's
+  Our Blood", "The Sacred Stone", "The Red Moon", "The
+  Legend of Batu Bagaung", "A Little Drop of Honey"
+  (Unit 1); "The Library of Babel", "The Monkey's Paw",
+  "The Mirror Story", "Timun Mas", "Mulan" (Unit 2); the
+  nine water texts (Unit 3); the eight healthy-life texts
+  (Unit 4) — were searched for in the student text and
+  are absent, every one. (The words "sacred stone" occur
+  only inside the Holy Stone legend's own sentences.)
+  The first-edition pupil texts are the ones mapped
+  above: the Holy Stone, N'daung Snake and Crying Stone
+  legends; The Goose Girl and Puss in Boots; the Narnia
+  extract and Animal Farm; the Covid-vaccine and mobile-
+  technologies expositions. Course-building for this
+  grade must use this book's inventory, not the guide's.
+- **Two guide statements do carry over in kind.** The
+  pupil listening texts are indeed audio-only from the
+  pupil side — this book says so on the page ("The
+  Listening transcript is provided in the Teacher's
+  Book", pp.17, 85 and 161) — and the writing
+  process the guide describes (brainstorm → outline →
+  draft → revise → edit → proofread → publish) is the
+  same process this book's Writing sections run, here
+  in its mind-map/story-planner form. "The Goose Girl"
+  and "Animal Farm" are the only texts the two editions
+  visibly share.
+
+## Honest negatives (Grade 11 Tingkat Lanjut student book)
+- No answer keys anywhere in the pupil book, and no
+  transcripts: every listening text (N'daung Snake,
+  Animal Farm cloze, the UNEP environment text, the
+  nutrition text, both test listenings) is heard only.
+- The book's own Content Mapping misdescribes Unit 4:
+  it promises analytical-exposition reading "in the
+  topics of library and deforestation" (p.xii), but the
+  unit's reading text is the Covid-19 vaccine exposition
+  and its listening text is the healthy-environment one;
+  deforestation survives only inside grammar-practice
+  sentences, and "library" only inside a source URL.
+- Print errors stand in the pupil text: the Formative
+  Test heads its story "Bawang Mewah and Bawang Putih"
+  (p.111) for Bawang Merah; "Tabel of Contents" (p.vi);
+  "Concluding Secion" in running heads; the simple-
+  present question table (p.136) prints "Does vaccine
+  saves millions of lives each year?" as its model.
+- The Goose Girl and Narnia texts are modern retelling /
+  novel extracts used without any in-chapter source line;
+  sourcing appears only in the back References.
+- Assessment is two formative tests only — there is no
+  summative or exam apparatus in the pupil book, and the
+  speaking half of each test is an instruction, not a
+  script a pupil could revise from.
+
+---
+
+---
+
 # Indonesia — English Grade 11 Teacher Guide (Tingkat Lanjut, *Let's Elevate Our English*) — FULLY READ + CITATION CHECK PASSED 2026-11-03
 
 ## The book itself
@@ -4157,6 +5914,447 @@ intransitive verbs.
   not.
 
 ---
+# Indonesia — English Grade 12 Student Book (*Life Today*) — FULLY READ + CITATION CHECK PASSED 2026-11-03
+
+## The book itself
+
+- **Title as printed:** Bahasa Inggris: Life Today untuk
+  SMA/MA Kelas XII — "English: Life Today for Senior
+  High / Madrasah Aliyah Grade 12". Cover: "BAHASA
+  INGGRIS / Life Today", Kemendikbudristek 2022, SMA/MA
+  KELAS XII.
+- **Publisher:** Kementerian Pendidikan, Kebudayaan, Riset,
+  dan Teknologi (Ministry of Education, Culture, Research
+  and Technology), issued by Pusat Perbukuan, Jakarta —
+  the Kurikulum Merdeka main textbook (buku teks utama).
+- **Authors:** Susanti Retno Hardini, Achdi Merdianto,
+  Marjenny, Rani Nurhayati, Isry Laila Syathroh, Dadan.
+  Reviewers (Penelaah): Nia Kurniawati, Isti Siti Saleha
+  Gandana — the same team as the teacher guide already
+  filed.
+- **Year / edition:** Cetakan Pertama (first printing),
+  2022.
+- **ISBN:** 978-602-427-945-5 (jil.3); set ISBN printed
+  alongside is 978-602-244-896-9 (no.jil.lengkap). Both
+  read from the imprint page (PDF p.2).
+- **Copy facts:** 36,708,225 bytes; 264 PDF pages =
+  printed xx + 244, matching the imprint's own extent
+  exactly. Usable text layer (some comic-strip speech is
+  set as artwork and extracts in reading order rather
+  than panel order — the plots below are summarised from
+  the strips' text and questions, never transcribed);
+  read whole from the text layer page by page. This is
+  the secured library copy of the penerbitcmedia mirror
+  record row "Bahasa Inggris — Buku Siswa Kelas 12
+  (Kurikulum Merdeka)" (…/g12_bahasa_inggris.pdf),
+  pulled from the secured GitHub library and
+  cover-verified.
+- **Page offset:** front-matter roman folios = PDF page
+  number; body printed page = PDF page − 20.
+- **Citation check:** 22/22 anchors verified in the real
+  PDF (imprint and both ISBNs, the Preface's CEFR B2
+  statement, the Contents unit list, the Scope and
+  Sequence, the Ricky Elson Did You Know?, the Jihan–
+  Ilyas listening dialogue, "The Breakers of Limitations
+  from Gurung Mali", "Kilion and His Bright Amdui
+  Village", "The Boy Who Harnessed the Wind", the
+  La-Ode podcast, "Cashless society", the Homemade
+  Banking video, the netiquette listening case, "Are
+  Social Media Platforms Safe?", the oversharing
+  assessment text, "Do we need to stop eating meat?",
+  the passive-voice focus, the TRACT techniques page,
+  "Environmental Impact of Online Shopping", the
+  BIng_12.zip audio link, and the Glossary).
+
+**How every unit is built:** the pupil Preface (printed
+pp.v–vi) states the frame: Fase F general English with a
+**CEFR B2 target**, the six elements taught integratively
+(listening, reading, viewing as receptive; speaking,
+writing, presenting as productive), and the book's issue
+set — environmental awareness, climate change and
+sustainability, financial literacy, digital safety. The
+front matter prints a whole-book Mind Mapping spread
+(p.xvi) and four Scope and Sequence tables (pp.xvii–xx)
+giving, per unit, theme, topic, the listening/speaking,
+reading/viewing and writing/presenting work, vocabulary,
+and schematic structures with language features. Each
+unit then runs the same cycle — Did You Know? →
+Listening → Speaking → Reading → Viewing → Writing →
+Presenting → Assessment ("Assesment" as printed in
+Units 1–2) → Enrichment → Reflection — and the cycle's
+parts are glossed for pupils in the Inside the Book
+pages (pp.xiii–xv). Writing in every unit is a group
+project run as plan → draft → review (peer checklist) →
+redraft. The book's audio archive is named on printed
+p.208: BIng_12.zip on the ministry's static host, reached
+by QR code or link.
+
+## Full per-unit map (printed pages)
+
+### Unit 1 — Narrative Text: The Story of a Friendly Future (printed pp.1–54)
+Theme: renewable energy. Language features (Scope
+table, p.xvii): past tense, action verbs.
+- Did You Know? (p.3): Ricky Elson, the Indonesian
+  electric-car and wind-power figure, as the unit's
+  opener — see the guide-settling notes below.
+- Listening (pp.4–6): the dialogue between Jihan and
+  Ilyas, two South Tangerang school pupils — the pupil
+  book prints the dialogue as a gap-fill (summary only:
+  Ilyas was at the hospital for his grandfather's
+  operation during a blackout; the two work through the
+  causes and effects of power failure), with the four
+  pre-taught items (indispensable, power outages,
+  devastating, adequate) as the numbered gaps, and a
+  matching exercise on power-failure vocabulary.
+- Speaking (pp.7–10): a wasting-energy comic strip to
+  answer questions on, then pair role play — pupils
+  create and perform their own short dialogue on the
+  best way to conserve energy from given clues.
+- Reading (pp.11–28): energy-source matching and
+  vocabulary, then the unit's long narrative, "The
+  Breakers of Limitations from Gurung Mali" (pp.13–17;
+  summary only: in a remote village far beyond the
+  government's electricity installations, Nayau persuades
+  his neighbours — against Sinko's diesel suggestion and
+  others' doubts about cost — to build a waterwheel
+  together; the wheel brings light, and the village ends
+  protecting the forest that keeps its water flowing).
+  Schematic-structure and language-feature exploration
+  follows on the same text (pp.21–22: orientation–
+  complication–resolution; action verbs as material
+  process), then the story is re-read as a comic-strip
+  version (pp.23–27) and discussed in groups.
+- Viewing (pp.29–32): two videos — renewable energy and
+  fossil fuels, including "Can you imagine a world
+  without fossil fuels?" — with vocabulary matching and
+  discussion questions on the two conditions of a
+  fossil-free world.
+- Writing (pp.33–36) and Presenting (p.37): groups plan
+  a simple narrative about renewable energy on the
+  story-plan frame (orientation to resolution, with
+  setting and conflict maps), draft, peer-review against
+  the schematic checklist, redraft, and retell it.
+- Assessment (pp.38–45): the Kilion story, printed in
+  full — "Kilion and His Bright Amdui Village" (summary
+  only: Kilion Manggara, a retired elementary teacher in
+  dark Amdui village, visits a relative's electrified
+  village, and with Almas's help writes the proposal to
+  the Energy Office of Raja Ampat Regency that gets a
+  Solar Power Plant proposed for Amdui) — with purpose,
+  Yes/No statement, schematic-structure and language-
+  feature questions.
+- Enrichment (pp.46–53): "The Boy Who Harnessed the Wind"
+  (summary only: in a Malawi village without money for
+  lights, William, fed on his grandfather's tales and the
+  library's books, dreams a windmill that pulls
+  electricity from the breeze and pumps water, builds it
+  from scrap to his neighbours' teasing, and the blades
+  spin in the gale — the windmill as a weapon to fight
+  hunger), with comprehension and statement questions.
+  Reflection p.54.
+
+### Unit 2 — Argumentative Text: E-Money (printed pp.55–96)
+Theme: digital money / financial literacy. Language
+features (Scope table, p.xviii): abstract nouns, action
+verbs, temporal connectives, technical terms, modal
+auxiliaries.
+- Did You Know? (p.57): a Bitcoin-receipt image opens the
+  unit's money theme.
+- Listening (pp.58–67): La-Ode's podcast interview with
+  Sri, a social-media influencer, about e-money for
+  online purchasing — printed as a gap-fill dialogue
+  (summary only: Sri resigned as a sales promotion girl
+  in 2019, built an online shop through the pandemic, and
+  the two weigh physical money against electronic
+  payment — friction, temptation and overspending among
+  the points), with opinion-expression sorting (asking
+  vs giving opinions) drawn from the podcast itself.
+- Speaking (pp.68–69): giving-opinion practice on
+  podcast questions, a pick-a-card team question game,
+  and vocabulary sentence-building.
+- Reading (pp.70–80): "Cashless society: What do we gain
+  and lose when cash is no longer king?" (pp.72–74;
+  summary only: a cashless society would shrink
+  financial crime and money laundering and save the time
+  and energy of moving money, but hackers become the new
+  bank robbers, the emptied have no fallback, and
+  glitches and outages leave buyers unable to pay) —
+  then the argumentative text's definition, schematic
+  structures and language features explored on the same
+  text in annotated tables (pp.76–79).
+- Viewing (pp.81–83): two videos — "Homemade Banking:
+  E-money Services Emerge in Indonesia" and "24 Hours
+  with Digital Payment" — with a 14-item digital-payment
+  activity list (movie and music subscriptions, bill
+  splitting, online donation among them).
+- Writing (pp.84–85) and Presenting (pp.86–87): groups
+  write an argumentative dialogue as a podcast script,
+  exchange scripts for group review of ideas and
+  opinion expressions, revise, then record the podcast
+  on a phone, re-record for content, smoothness and
+  pronunciation, and publish the link for class comment;
+  a podcast infographic (what a podcast is, its kinds,
+  how to start) is printed as support.
+- Assessment (pp.88–91): the text "E-payments – why, when
+  and how to use them" (summary only: e-payment accounts
+  make transferring and purchasing easier, and work two
+  ways — pay money in, or pay at purchase) with purpose
+  and statement questions.
+- Enrichment (pp.92–95): a behavioural-economics text on
+  e-money and spending (summary only: the pain of losing
+  £100 outweighs the joy of gaining £100; cash's friction
+  restrains spending, cards and e-wallets weaken the
+  feedback — Emir Efendic's research among the cited
+  work), with synonym and statement work. Reflection
+  p.96.
+
+### Unit 3 — Hortatory Exposition: Netiquette (printed pp.97–146)
+Theme: internet ethics and digital safety. Language
+features (Scope table, p.xix): present tense, emotive
+phrases.
+- Did You Know? (p.99): Microsoft's sixth annual Digital
+  Civility results, released for Safer Internet Day
+  under the theme "Together for a Better Internet".
+- Listening (pp.100–104): "Case on Netiquette" — a
+  netiquette explainer frame (what it is, why it
+  matters), picture and vocabulary work (nailed, hate
+  speech, bad utterances among the taught items), and a
+  dialogue for role play as Arifin and his partner.
+- Speaking (pp.105–112): the dialogue's confessional
+  strand worked in full — Nana, Carmela and Dean
+  (summary only: Nana admits posting rude words on
+  strangers', school friends' and friends' statuses;
+  Carmela was answered by the person she hurt and cried
+  from guilt; Dean closes with the advice to talk to a
+  trusted adult when online life throws you off) — with
+  statement-categorisation work, including the unit's
+  fact/opinion sorting the guide noted.
+- Reading (pp.113–127): a Quizizz entry task, vocabulary,
+  then "Are Social Media Platforms Safe?" (pp.115–117;
+  summary only: social media lets every user produce
+  information and build virtual community, but hate
+  speech, fraudsters' fake accounts, phishing and
+  hacking endanger users, and better government
+  regulation — digital literacy — is the proposed
+  remedy), with purpose, paragraph and implication
+  questions; then the hortatory exposition's schematic
+  structures and language features explored on the same
+  text in annotated tables (pp.122–125), and an Einstein
+  quote discussion.
+- Viewing (pp.128–133): a netiquette infographic observed
+  and analysed element by element (its rules include
+  respecting others and respecting copyright), and an
+  infographic-quality frame (reliable, timely, content,
+  data, theme, problem, design).
+- Writing (pp.134–135) and Presenting (p.136): the group
+  writing project — plan a hortatory exposition on
+  netiquette in the ideas table, write it into
+  paragraphs, peer-review, redraft — closed by a group
+  presentation.
+- Assessment (pp.137–142): the text "Why You Shouldn't
+  Overshare Personal Information on Social Media Sites"
+  (summary only: oversharing is usually spur-of-the-
+  moment, oversharers learn they revealed too much only
+  afterwards, and anything posted can stay online
+  indefinitely because people may screenshot it), with
+  phrase-meaning, Yes/No and agree/disagree questions.
+- Enrichment (pp.143–145): a text on conflict and
+  propaganda on social media and how adults counter it
+  (summary only: pointing out unrealistic violent
+  behaviour, keeping an eye on the clock, teaching
+  conflict resolution and responsible words), with
+  paragraph work. Reflection p.146.
+
+### Unit 4 — Discussion Text: Carbon Footprints (printed pp.147–207)
+Theme: reducing carbon footprints. Language features —
+the fullest list in the book (Scope table, p.xx, and
+objectives): generic participants, simple present,
+thinking verbs, modality, contrastive conjunctions,
+passive voice.
+- Did You Know? (p.149): students calculating their
+  carbon footprint, with Mike Berners-Lee's carbon-
+  footprint work as the reference point.
+- Listening (pp.150–153): vocabulary (craving,
+  affordable and the footprint set), then the dialogue
+  between Putra and Siti (summary only: Siti finds Putra
+  scrolling in class at break and the two work through
+  what he is booking and what it costs the climate),
+  with a Yes/No sorting of actions that reduce climate
+  change and carbon footprints.
+- Speaking (pp.154–159): a carbon-footprint poster and
+  cycle studied in groups, footprint vocabulary
+  (car-sharing, home working and the rest), a chart of
+  footprint-reducing actions debated orally with data,
+  and friend interviews to find two more limiting
+  actions each.
+- Reading (pp.160–181): footprint vocabulary in full
+  (carbon footprints, deforestation and the unit set),
+  then "Do we need to stop eating meat?" (pp.163–165;
+  summary only: livestock makes up more than 14% of
+  man-made greenhouse gases and drives land use, against
+  which meat is a ready source of protein, vitamin
+  B-12, fat, iron, zinc and calories for much of
+  humanity — the text argues both sides and leaves the
+  question open), with purpose, Yes/No, reference and
+  fact/opinion questions; then the discussion text's
+  schematic structures (issue – arguments for –
+  arguments against – conclusion/recommendation) and
+  every language feature taught in print — thinking
+  verbs, modality, contrastive conjunctions, and a full
+  passive-voice spread (pp.172–175) — and re-explored on
+  the meat text in annotated tables (pp.176–179).
+- Viewing (pp.182–190): two videos — Simpleshow's "The
+  Carbon Footprint" and "Can healthy food save the
+  planet?" (summary only: changing how food is produced,
+  consumed, transported and wasted could feed everyone a
+  healthy diet and improve the planet's health, with
+  meat staying on the menu) — comprehension checking,
+  and an optional carbon-footprint survey in which
+  pupils colour footprint rings for their own habits
+  (organic food, composting, baths among the items).
+- Writing (pp.191–192) and Presenting (p.193): the group
+  writing project — a discussion text on carbon
+  footprints planned in the arguments/modality/
+  contrastive-conjunction table, drafted, reviewed,
+  redrafted — and the presentation stages page, which
+  prints the **TRACT techniques** in the pupil book
+  itself (see the guide-settling notes below).
+- Assessment (pp.194–198): the discussion text
+  "Environmental Impact of Online Shopping" (summary
+  only: one in seven sales is now online; a 120-delivery
+  supermarket round produces 20 kg of CO₂ against 24
+  times more for individual drives, but failed
+  deliveries, speedy single-item orders and returns —
+  one in three purchases in Germany, US$326 million of
+  merchandise a year in the USA — reverse the saving,
+  and Indonesian returns add congestion, repackaging
+  and packaging waste), with multi-answer and statement
+  questions.
+- Enrichment (pp.199–206): a six-source agree/disagree
+  debate text on renewable energy's future (George
+  Monbiot and Alex Epstein among the quoted voices;
+  summary only: ample evidence for renewables against
+  the taken-for-granted assumption of fossil continuity,
+  and Germany's energy need argued both ways), closing
+  with intelligent-technologies material and source-
+  agreement questions. Reflection p.207. The audio
+  download page follows at p.208.
+
+### Back matter (printed pp.209–244)
+Glossary pp.209–219, organised alphabetically across
+the whole book rather than per unit in this pupil copy
+(abundant, blackout, carbon dioxide, climate change,
+deduct, deforestation, fanfare, governing force,
+impersonation, local power company, piqued, power
+outage, shamefully, shun, throw one off, waste disposal
+and the rest, each glossed in English with its word
+class marked); Index pp.220–222; References pp.223–229;
+contributor profiles pp.230–244.
+
+## Grammar / vocabulary spine (Grade 12 student book)
+Narrative with past tense and action verbs (U1) →
+argumentative text with abstract nouns, action verbs,
+temporal connectives, technical terms and modal
+auxiliaries (U2) → hortatory exposition with present
+tense and emotive phrases (U3) → discussion text with
+generic participants, simple present, thinking verbs,
+modality, contrastive conjunctions and passive voice
+(U4). Vocabulary is the four theme sets — renewable
+energy, digital money, netiquette, carbon footprints —
+carried in the Scope tables and the per-unit vocabulary
+lessons. The spine is a text-type spine at Fase F /
+CEFR B2, and — unlike Grade 10's student book — the
+language features are not left in the front matter:
+each unit explores its genre's schematic structures and
+language features in print, on its own reading text,
+in annotated tables.
+
+## What this read settles against the teacher guide already filed
+The guide section closed by noting the matching student
+book had not been read, so guide-to-student matching was
+unverified. It is now verified: the four units, their
+text types and themes, the scope-and-sequence language
+features, the Jihan–Ilyas dialogue with its four gap
+items, the Kilion assessment story and its Raja Ampat
+proposal, the named reading texts ("Cashless society…",
+"Are Social Media Platforms Safe?", "Do we need to stop
+eating meat?") and the BIng_12.zip audio archive all
+stand exactly as the guide presented them. Three points
+in the guide-based picture are corrected by the pupil
+book:
+- **Unit 1 does have a Did You Know? in the pupil book.**
+  The guide section reported that Unit 1 goes straight
+  from Petunjuk Pembelajaran to Listening and listed
+  the missing Did You Know? among its negatives. That
+  is true of the guide's own unit chapter, but the
+  pupil book opens Unit 1 with Did You Know? on Ricky
+  Elson (printed p.3, and in the pupil Contents) — all
+  four pupil units have the starter. The guide's
+  negative should not be carried into course-building
+  as a fact about the pupil book.
+- **The TRACT routine and the presentation stages are
+  in the pupil book.** The guide section said of its
+  presenting rubric and TRACT that "None of this is in
+  the student book." The pupil book prints the
+  presentation stages, including "Dealing with Questions
+  (TRACT Techniques: Thank the questioner, Repeat the
+  question, Answer the question, Check with the
+  questioner if they are satisfied, Thank them again)",
+  in its Presenting sections — printed pp.37 (Unit 1),
+  136 (Unit 3) and 194 (Unit 4, closing the Presenting
+  strand before the Assessment).
+  What remains guide-only is the 100-mark scoring
+  attached to the routine, not the routine itself.
+- **The pupil Glossary is one alphabetical list, not
+  per-unit.** The guide's back matter is organised per
+  unit; the pupil Glossary (pp.209–219) runs A–W across
+  the whole book. (The pupil Index and References also
+  sit in the opposite order to the guide's Contents
+  habit: Index pp.220–222 before References pp.223–229,
+  as the pupil Contents lists them.)
+- A smaller confirmation with a correction inside it:
+  the guide warned its own Petunjuk Pembelajaran copies
+  in Units 3–4 still name narrative/argumentative
+  diagnostics. The pupil book has no such block, so the
+  error does not reach pupils; but the pupil book
+  carries its own copy slips of the same kind — the
+  Contents and unit pages spell the Assessment section
+  "Assesment" in Units 1–2 and "Assessment" in Units
+  3–4, and the Unit 1 assessment text's hero is spelled
+  both Kilion and Killion on facing pages (pp.39–41).
+
+## Honest negatives (Grade 12 student book)
+- Listening is gap-fill print plus audio: the Jihan–
+  Ilyas and Putra–Siti dialogues are printed with their
+  answers gapped, and the full audio sits in the
+  BIng_12.zip archive — a pupil working offline from
+  this book alone cannot hear or check a listening
+  text, and no transcript is printed.
+- There are no answer keys in the pupil book; the
+  Assessment sections are tests without keys (the keys
+  live in the guide), and the Yes/No statement grids
+  give no pupil-side way to verify a judgement.
+- Connectivity is assumed at the book's core, not its
+  edges: YouTube videos in every Viewing strand, a
+  Quizizz code to open Unit 3 Reading, phone recording
+  and social-media publication of the Unit 2 podcast,
+  and a downloadable audio archive — none of it has a
+  printed fallback in the pupil book.
+- Factual claims in the reading texts are presented
+  without in-text sources (the 14% livestock figure in
+  the meat text; the delivery and returns figures in
+  the online-shopping assessment); sourcing lives only
+  in the back References, as with Grade 10's Ronaldo
+  text.
+- The enrichment debate text (U4) quotes named public
+  voices on both sides without dates or outlets for
+  most quotations on the pupil page — a learner cannot
+  check them from the book alone.
+
+---
+
+---
+
 # Indonesia — English Grade 12 Teacher Guide (*Life Today*) — FULLY READ + CITATION CHECK PASSED 2026-11-03
 
 ## The book itself
@@ -4568,44 +6766,46 @@ the pros and cons of frugal living (content map, p.18).
 
 ---
 
-# Indonesia — the six mirror-row student books (record-only, 2026-11-03)
+# Indonesia — the six mirror-row student books (pulled and settled, 2026-11-03)
 
-These six record rows are the only Indonesia English books
-not yet read. Their recorded source URLs point at a
-penerbitcmedia.com BSE mirror and are truncated in the
-record itself (literal "..." path segment; fetched verbatim
-= HTTP 404, and Wayback cannot help a truncated URL). The
-secured library copies are being pulled from the library's
-GitHub releases / Telegram (@liqlearns_textbooks); each
-book's edition can only be named once its copy is opened.
+The six penerbitcmedia mirror rows (recorded URLs truncated
+in the record itself) were pulled from the secured library
+on 2026-11-03 — five from GitHub Release `mid-size-books-2`
+assets and the Grade 11 Tingkat Lanjut book from the repo
+tree — and every copy was verified by its cover/title
+pages. Five are FULLY READ + CITATION-CHECKED and filed at
+their grade positions above: Grade 8 *English for
+Nusantara* (336 pp, 21/21), Grade 9 *English for Nusantara*
+(392 pp, 22/22), Grade 11 *Tingkat Lanjut — Let's Elevate
+Our English* (216 pp, 22/22), Grade 11 *English for Change*
+(288 pp, 22/22), Grade 12 *Life Today* (264 pp, 22/22).
 
-- **Grade 8 student book** — "Bahasa Inggris — Buku Siswa
-  Kelas 8 (Kurikulum Merdeka)" (…/g08_bahasa_inggris.pdf).
-  State: **record-only, unread — pull in progress**.
-- **Grade 9 student book** — "Bahasa Inggris — Buku Siswa
-  Kelas 9 (Kurikulum Merdeka)" (…/g09_bahasa_inggris.pdf).
-  State: **record-only, unread — pull in progress**.
-- **Grade 10 student book (mirror row)** — "Bahasa Inggris
-  — Buku Siswa Kelas 10 (Kurikulum Merdeka)"
-  (…/g10_bahasa_inggris.pdf); a second Grade 10 student row
-  beside the SIBI *Work in Progress* book read above.
-  State: **record-only, unread — pull in progress**.
-- **Grade 11 student book, Tingkat Lanjut (mirror row)** —
-  "Bahasa Inggris Tingkat Lanjut — Buku Siswa Kelas 11"
-  (…/g11_bing_lanjut.pdf). State: **record-only, unread —
-  pull in progress**.
-- **Grade 11 student book (mirror row)** — "Bahasa Inggris
-  — Buku Siswa Kelas 11 (Kurikulum Merdeka)"
-  (…/g11_bahasa_inggris.pdf). State: **record-only, unread
-  — pull in progress**.
-- **Grade 12 student book (mirror row)** — "Bahasa Inggris
-  — Buku Siswa Kelas 12 (Kurikulum Merdeka)"
-  (…/g12_bahasa_inggris.pdf). State: **record-only, unread
-  — pull in progress**.
+- **Grade 10 mirror row — closed as a proven duplicate:**
+  the pulled copy (22,662,709 bytes, MD5
+  df1fdc08639e06021b7c55e62d8aea3e) is byte-identical to
+  the SIBI *Work in Progress* Kelas X copy already read and
+  filed above. Same ministry PDF behind both record rows;
+  no separate read exists or is owed.
+- **Mapping note (library side):** in the secured set, the
+  Grade 11 Tingkat Lanjut student book sits at
+  `grade-11/gov/indonesia/bahasa-inggris/student/full-year.pdf`
+  in the repo tree, while the regular Grade 11 book
+  (*English for Change*) is the release asset
+  `.../student/full-year-2.pdf`; the grade-11 books.json
+  has no row for the tree file. Covers settle both.
+- **Edition warning (filed in the pair's sections):** the
+  Grade 11 Tingkat Lanjut GUIDE in hand is the Edisi
+  Revisi 2024, but the student book pulled is the 2021
+  first edition — the pair is NOT edition-matched, and
+  none of the guide's named pupil texts appears in the
+  student book. Under the edition rule the student book
+  stands as the latest copy the library holds; a matching
+  Edisi Revisi student copy is a library-side want, not a
+  courses-side block.
 
 ---
 
-## Series verdicts (in-hand set — mirror books still owed)
+## Series verdicts (full set)
 
 - **Primary (Grades 3–6, *English for Nusantara Kids*, all
   eight books read):** one continuous series, one cast, one
@@ -4629,6 +6829,12 @@ book's edition can only be named once its copy is opened.
   in the guide: conditionals). The Grade 11–12 guides
   (Fase F) centre exposition/discussion text types;
   *English for Change* sets no fixed time allocation.
-- **Still owed:** the six mirror-row student books above.
-  A series-final verdict for the secondary student books is
-  owed when they are read.
+- **Secondary student books (now read):** Grades 8–9
+  confirm their guides' spines with small corrections
+  (Grade 9's reported questions sit in Ch.3 Unit 2, not
+  Unit 3; Grade 8's Contents is clean — the drift was the
+  guide's own). *English for Change* confirms its guide
+  almost page for page; *Life Today* corrects two guide
+  claims (every unit has a Did You Know?; TRACT is printed
+  for pupils). The one open seam is the Grade 11 Tingkat
+  Lanjut pair's edition mismatch, recorded above.
