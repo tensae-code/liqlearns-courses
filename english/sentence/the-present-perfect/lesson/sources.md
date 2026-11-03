@@ -1,6 +1,6 @@
 # Sources — The present perfect
 
-countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia
+countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -148,9 +148,12 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | The present perfect's first presentation — sites in Armenia as the content, then continued on cultural heritage sites, with the time adverbs that belong to it taught a unit later | Armenia — English 6 (COAF), Unit 5.2, printed pp.125–129; Unit 5.4, printed pp.131–134; Unit 6.2, printed pp.153–155 |
 | The form stated outright — "have / has + past participle (V3)" — with a present perfect vs past simple contrast chart after it | Armenia — English 7 (Zangak), Unit 2, printed pp.48–49 |
 | The perfect system opened whole in Grade 11 — present perfect inside the six-perfect-tense sub-unit | Armenia — English 11 (COAF), Unit 1.2, printed pp.8–11 |
+| The present perfect first taught — completed action at an unstated past time, and talking about experiences ("Have you ever taken an eco-tour?") — with a small past simple / past participle table for work, join, play, be, go, do inside one exercise | Vietnam — Tiếng Anh 9 (Global Success), Unit 5, printed pp.50–59 (grammar heading printed p.53) |
+| The present perfect as named grammar — a past action still true or important now; an action begun in the past and still happening, with since/for; a just-completed action | Vietnam — Tiếng Anh 10 (Global Success), Unit 5, printed pp.52–61 |
+| The present perfect as review and extension — the It/This/That is the first/second time … and the best/worst/only … (ever) structures | Vietnam — Tiếng Anh 12 (Global Success), Unit 4, printed pp.48–59 |
 
-**Acceptance count: taught in 15 countries (Egypt,
-Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia).** Libya introduces the tense at Grade 8 with the
+**Acceptance count: taught in 16 countries (Egypt,
+Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam).** Libya introduces the tense at Grade 8 with the
 song and the grammar box, guards the no-exact-time rule in
 its Teacher's Book, sets the ever/never/yet/already box at
 Grade 9, and states the whole entry again in its Grammar
@@ -206,3 +209,5 @@ course stocks nothing for that lesson from Laos.
 **Nepal added 2026-11-03** — 3 books stock this lesson: **Book:** *English Grade 8* — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre. **Book:** *English Grade 9* — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre. **Book:** *English (Grade 11)* — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre. All filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Nepal brings the tense in late and states its limit plainly: it is **never taught in any held primary book and not as a topic in Grade 7** (forms occur untaught inside Grade 7 readings); it is first taught at **Grade 8, as present perfect against past simple in two full grammar passes** (Unit 4, printed pp.37–50), taught again at **Grade 9 with since/for** (Unit 15, printed pp.185–197), and set against the past simple again at **Grade 11, with been/gone** (Unit 13, printed pp.118–129).
 
 **Armenia added 2026-11-03** — 3 books stock this lesson: **Book:** *English 6* — Armenia, COAF, Yerevan 2024, no ISBN printed. **Book:** *English 7* — Armenia, Zangak, Yerevan 2023, Grigoryan, ISBN 978-9939-99-035-4. **Book:** *English 11* — Armenia, COAF, Yerevan 2025, Tonoyan/Arakelyan, no ISBN printed. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia's present perfect is first presented in Grade 6 on sites in Armenia, then continued on cultural heritage sites, with the time adverbs that belong to it taught a unit later (English 6 (COAF), Unit 5.2, printed pp.125–129; Unit 5.4, printed pp.131–134; Unit 6.2, printed pp.153–155). Grade 7 states the form outright — "have / has + past participle (V3)" — with a present perfect vs past simple contrast chart after it (English 7 (Zangak), Unit 2, printed pp.48–49). Grade 11 opens the perfect system whole — present perfect inside the six-perfect-tense sub-unit (English 11 (COAF), Unit 1.2, printed pp.8–11).
+
+**Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 9 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2024, ISBN 978-604-0-39366-1. **Book:** *Tiếng Anh 10 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2022, ISBN 978-604-0-32428-3. **Book:** *Tiếng Anh 12 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2024, ISBN 978-604-0-39370-8. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam's present perfect arrives late and stated plainly: it is first taught at Grade 9 (Unit 5), as experiences and completed action at an unstated time; Grade 10 re-teaches it as named grammar with the since/for and just-completed uses; Grade 11 sets it against the past simple (Unit 1); and Grade 12 carries it as review and extension with the first-time and best-ever structures. No earlier book teaches it — the Grade 8 book's own negatives name it among the year's absences.

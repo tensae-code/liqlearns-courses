@@ -1,6 +1,6 @@
 # Sources for this lesson — Greetings
 
-countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia
+countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag.
@@ -68,6 +68,9 @@ side by side on one PDF page — that was wrong.
 | Greetings, introductions and leave-taking dialogues as a whole unit's speaking work | Nepal — English Grade 6 (student's book), Unit 5 "A real hero", printed pp.38–47 |
 | The course opens on meeting and naming — Starter Lesson 1 "Let's meet Nare!": hello / hi / goodbye, introducing yourself ("I am …") and others ("This is …"), with the same cast carried through the book | Armenia — English 3, Part 1 (COAF), Starter Unit, Lesson 1, printed p.3 |
 | Introducing others by name — "This is Jack" — inside the first unit's classmate work | Armenia — English 3, Part 1 (COAF), Unit 1 "My Friends and I", printed pp.9–32 (Unit 1.1 "My Classmates") |
+| The greeting and self-introduction as the first pattern of school: "Hi, I'm Bill." and the leave-taking "Bye, Bill." | Vietnam — Tiếng Anh 1 (Global Success), Unit 1, printed p.8 |
+| "Hello. / Hi. I'm …" with "Goodbye. / Bye." — the greeting exchange as Unit 1 of the Grade 3 course | Vietnam — Tiếng Anh 3, Volume 1 (Global Success), Unit 1, printed pp.10–15 |
+| "What's your name? — My name's …" as the next unit's pattern | Vietnam — Tiếng Anh 3, Volume 1 (Global Success), Unit 2, printed pp.16–21 |
 
 **Second country merged 2026-10-25 — Libya:**
 English for Libya, Pupils Book Grade 1 (CERC, Ministry of Education,
@@ -110,7 +113,7 @@ rendered page the same day).
 - Unit 1 "Greeting and Numbers," p. 14 (Hello/Hi, Goodbye/bye tracing;
   "What's your name? / My name's" tracing strips, p. 16).
 
-**Acceptance count: taught in 20 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia).**
+**Acceptance count: taught in 21 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).**
 China adds name exchanges from its first primary page and the
 "Where are you from? — I'm from …" origin frame (Grades 3), plus
 five printed ways to say goodbye (Grade 6 Volume 2); North
@@ -575,3 +578,5 @@ loved subject ("I am eight years old.", printed p.7).
 **Nepal added 2026-11-03** — three books stock this lesson: **Book:** *MY ENGLISH BOOK Grade I* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur, first edition 2003, reprint 2011, ISBN 978-999-33-714-0-8. **Book:** *MY ENGLISH BOOK Grade II* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, first edition 2004, second edition 2006, reprint 2011, ISBN 978-999-33-708-7-8. **Book:** *English Grade 6* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, first edition 1994, Revised Edition 2012, ISBN 978-9937-601-00-9. All Filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Nepal opens its course on this lesson, like Egypt, Libya and Syria: Grade 1, Unit 1, "Starting school" (printed pp.1–6), teaches greetings and introductions — "Good morning, Miss", "I'm Miss Thapa / I'm Raju", "Hello, what's your name?", "What's her/his name?" — with a hello chant. Grade 2, Unit 1, "Going to school" (printed pp.1–7), re-opens on the exchange extended: "Hello! I'm Mr. Gurung. What is your name? My name is Pukar." Grade 6, Unit 5 (printed pp.38–47), carries greetings, introductions and leave-taking dialogues as its speaking work (the held Grade 6 copy is truncated at printed p.108; Unit 5 sits inside the held pages).
 
 **Armenia added 2026-11-03** — one book stocks this lesson: **Book:** *English 3 — Part 1* (student's book) — Armenia, Children of Armenia Charitable Foundation (COAF), Yerevan 2024, Nersesyan/Tonoyan/Arakelyan, no ISBN printed; the held file is Part 1 only. Filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia opens its course on this lesson: the Starter Unit, Lesson 1, "Let's meet Nare!" (printed p.3), teaches hello / hi / goodbye and introducing yourself ("I am …") and others ("This is …"), with the same cast carried through the book. Unit 1, "My Friends and I" (printed pp.9–32), then introduces others by name — "This is Jack" — in Unit 1.1, "My Classmates".
+
+**Vietnam added 2026-11-03** — 2 books stock this lesson: **Book:** *Tiếng Anh 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2020, ISBN 978-604-0-22405-7. **Book:** *Tiếng Anh 3, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2022, ISBN 978-604-0-30720-0. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam opens both of its primary courses on this lesson. Grade 1's first unit pattern is the greeting and self-introduction itself — "Hi, I'm Bill." with the leave-taking "Bye, Bill." (printed p.8) — recycled through the book's Phil and Sue review stories. Grade 3, Volume 1 gives the exchange two full units: Unit 1, "Hello" (printed pp.10–15) teaches "Hello. / Hi. I'm …" and "Goodbye. / Bye.", and Unit 2, "Our names" (printed pp.16–21) teaches "What's your name? — My name's …". Filed plainly: the greetings are Hello/Hi only throughout the set — "Good morning" is printed nowhere in the sixteen books.

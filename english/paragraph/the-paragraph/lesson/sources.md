@@ -1,6 +1,6 @@
 # Sources — The paragraph
 
-countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia
+countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -193,10 +193,13 @@ CITATION CHECK PASSED 2026-11-03).
 | Paragraph description as a unit's writing task at Grade 9 | Nepal, English Grade 9, Unit 2, printed pp.13–26 |
 | Paragraph organisation named as the writing work — the paragraph's organisation taught by name inside the freewriting unit | Nepal, English (Grade 11), Unit 2, printed pp.13–21 |
 | The paragraph taught as a thing with parts — "What is a Paragraph?": its elements, a model paragraph (the Crystal Palace Exhibition, London 1851), then paragraphs completed by supplying their missing topic and closing sentences (the Great Wall paragraph) | Armenia — English 12 (Mari), Topic 1, Writing Corner, printed pp.28–31 (the heading on printed p.28) |
+| A paragraph built from a named outline — topic sentence, two benefits, concluding sentence — in the blended-learning writing task | Vietnam — Tiếng Anh 10 (Global Success), Unit 8, printed pp.86–95 |
+| A paragraph built on an introduction / development / conclusion outline, with paraphrase expressions ("… is / are used for sth / doing sth") | Vietnam — Tiếng Anh 10 (Global Success), Unit 5, printed pp.52–61 |
+| Guided paragraphs as every unit's writing work — a paragraph of 40–50 words about one's school, house, friend and neighbourhood, from models and question scaffolds | Vietnam — Tiếng Anh 6, Volume 1 (Global Success), Units 1–4, printed pp.6–47 |
 
-**Acceptance count: taught in 19 countries (Bangladesh,
+**Acceptance count: taught in 20 countries (Bangladesh,
 Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia).** Ghana names the process and prints the
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).** Ghana names the process and prints the
 unity test as a revise question; Bangladesh guides the
 first paragraphs and models them; Egypt examines by the
 paragraph; China adds a model-first writing ladder across
@@ -293,3 +296,5 @@ reader's attention.
 **Nepal added 2026-11-03** — PARTIAL stock, filed exactly as a partial: four books stock this lesson in part: **Book:** *MY ENGLISH BOOK Grade IV* — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre. **Book:** *English Grade 7* — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre. **Book:** *English Grade 9* — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre. **Book:** *English (Grade 11)* — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre. All filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Paragraph writing is set work from primary school: the Grade 4 book sets **a paragraph about yourself** (Unit 1, printed pp.1–10) and **a paragraph about your sister** (Unit 4, printed pp.26–32); Grade 7 sets **a paragraph on one's own food habits** (Unit 5, printed pp.46–55), **an opinion paragraph on homework** (Unit 7, printed pp.66–76) and **a paragraph describing a friend** (Unit 12, printed pp.118–127); Grade 9 sets **paragraph description** (Unit 2, printed pp.13–26); and Grade 11 names **paragraph organisation** as the writing work of its freewriting unit (Unit 2, printed pp.13–21). Stated plainly: no read Nepal book names the topic sentence or teaches a paragraph's anatomy — Nepal carries the paragraph as a written and organised unit, not as a named topic-sentence craft.
 
 **Armenia added 2026-11-03** — one book stocks this lesson: **Book:** *English 12* — Armenia, Mari Publishing, Yerevan 2025, ISBN 978-9939-888-42-2. Filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia teaches the paragraph as a thing with parts: its Grade 12 Writing Corner, "What is a Paragraph?" (Topic 1, Writing Corner, printed pp.28–31, the heading on printed p.28), sets out the paragraph's elements, gives a model paragraph (the Crystal Palace Exhibition, London 1851), then has paragraphs completed by supplying their missing topic and closing sentences (the Great Wall paragraph).
+
+**Vietnam added 2026-11-03** — 2 books stock this lesson: **Book:** *Tiếng Anh 10 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2022, ISBN 978-604-0-32428-3. **Book:** *Tiếng Anh 6, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25873-1. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam names the paragraph's anatomy where several countries only set the writing: Grade 10's blended-learning writing task is built from a given outline that names its parts — topic sentence, two benefits, concluding sentence (Unit 8) — and its inventions unit builds the benefits paragraph on an introduction / development / conclusion outline (Unit 5). Below that, guided paragraph writing is every unit's writing work from Grade 6 on, at lengths rising across the series to 120–150 words at Grade 10.

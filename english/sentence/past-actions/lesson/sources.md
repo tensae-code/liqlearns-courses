@@ -1,6 +1,6 @@
 # Sources — Past actions
 
-countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia
+countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -164,10 +164,13 @@ CITATION CHECK PASSED 2026-11-03).
 | The past perfect taught as its own grammar unit — "By the time I reached the last destination, I had travelled on planes, trains, and boats…" | Armenia — English 8 (Mari), Topic 3, Unit 1.4 "Past Perfect", printed pp.61–62 |
 | Past habits with used to, inside the communication topic's last grammar unit | Armenia — English 8 (Mari), Topic 4, Unit 3.4, printed pp.102–103 |
 | The past tenses revised whole in the final year, with would / used to for past habits | Armenia — English 12 (Mari), Topic 1, Grammar Review, printed pp.15–18 |
+| The past simple as named grammar — "something that happened in the past" — with did/didn't questions in the exercises; taught without any verb table | Vietnam — Tiếng Anh 6, Volume 2 (Global Success), Unit 8, printed pp.16–25 (grammar heading printed p.19) |
+| The past continuous — actions happening at a particular past time and longer actions interrupted by a past simple action, with when / while notes (when before both tenses, while only before the past continuous, as printed) | Vietnam — Tiếng Anh 8 (Global Success), Unit 9, printed pp.92–101 |
+| Past simple against past continuous with when and while — the continuous for the longer action in progress, the simple for the interrupting action | Vietnam — Tiếng Anh 10 (Global Success), Unit 4, printed pp.42–51 |
 
-**Acceptance count: taught in 18 countries (Bolivia, Ghana,
+**Acceptance count: taught in 19 countries (Bolivia, Ghana,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
-Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia).** Mongolia boxes the -ed frame and drills the
+Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).** Mongolia boxes the -ed frame and drills the
 movers by name; Bolivia states the whole paradigm including
 the Did/didn't law; Ghana seats the simple past where
 stories live; China adds the past staged regular first,
@@ -225,3 +228,5 @@ sets the past out whole in its reference's past-forms table
 **Nepal added 2026-11-03** — 5 books stock this lesson: **Book:** *MY ENGLISH BOOK Grade II* — Nepal, CDC; **Book:** *MY ENGLISH BOOK Grade 3* — Nepal, CDC; **Book:** *MY ENGLISH BOOK Grade IV* — Nepal, CDC; **Book:** *MY ENGLISH BOOK Grade V* — Nepal, CDC (held copy incomplete — Unit 3 and the Listening texts missing; Units 6 and 11 are inside the held pages); **Book:** *English Grade 6* — Nepal, CDC (Revised Edition 2012; held copy truncated at p.108 — Unit 7 is inside the held pages). All filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 2 Unit 11 (pp.62–66) introduces was/were …ing and the past simple together; Grade 3 Unit 7 (pp.49–56) works did/didn't; Grade 4 converts present to past in Units 1 and 6; Grade 5 Unit 6 (pp.48–57) teaches did-questions and the past perfect, and Unit 11 (pp.92–99) names the four past tenses side by side; Grade 6 Unit 7 (pp.59–67) teaches past simple and past continuous.
 
 **Armenia added 2026-11-03** — 3 books stock this lesson: **Book:** *English 7* — Armenia, Zangak, Yerevan 2023, Grigoryan, ISBN 978-9939-99-035-4. **Book:** *English 8* — Armenia, Mari Publishing, Yerevan 2024, ISBN 978-9939-888-32-3. **Book:** *English 12* — Armenia, Mari Publishing, Yerevan 2025, ISBN 978-9939-888-42-2. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia sets past simple against past continuous in Grade 7 — telling which is which, then mixed-tense completion work (Unit 2 tail, printed p.53; Unit 4 part B, printed p.90) — teaches the past perfect as its own grammar unit in Grade 8, Topic 3, Unit 1.4 "Past Perfect" (printed pp.61–62) — "By the time I reached the last destination, I had travelled on planes, trains, and boats…" — and past habits with used to in Grade 8, Topic 4, Unit 3.4 (printed pp.102–103), then revises the past tenses whole in the final year, Grade 12, Topic 1, Grammar Review (printed pp.15–18), with would / used to for past habits.
+
+**Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 6, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25874-8. **Book:** *Tiếng Anh 8 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2023, ISBN 978-604-0-35127-2. **Book:** *Tiếng Anh 10 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2022, ISBN 978-604-0-32428-3. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam builds the past in three named steps: the past simple as a rule at Grade 6, Volume 2 (Unit 8) — used in models from Grade 5 but not ruled before this; the past continuous at Grade 8 (Unit 9) against the interrupting past simple; and the pair as one contrast at Grade 10 (Unit 4), recycled in Grade 12's opening unit. Stated plainly, as the series verdict runs: no Vietnam book prints an irregular-verb table, so the past forms are met inside sentences only.

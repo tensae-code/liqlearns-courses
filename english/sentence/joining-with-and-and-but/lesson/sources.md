@@ -1,6 +1,6 @@
 # Sources — Joining with and and but
 
-countries: Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia
+countries: Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -148,8 +148,10 @@ CITATION CHECK PASSED 2026-11-03).
 | Sentences joined with and / but / because inside the writing lesson | Armenia — English 4, Part 1 (COAF), Unit 1.7, in Unit 1, printed pp.14–41 |
 | The joining words taught as a set with their contrasts — though/although, in spite of/despite, however, moreover, in addition to — with sentence combining after | Armenia — English 9 (COAF), Unit 1.2, printed pp.8–10 |
 | Coordinating conjunctions tabulated — and, or, but, yet, nor — in the guide's sentence-combination apparatus (the guide's own teaching) | Armenia — English 7, Methodological Guide (Zangak), printed pp.53–54 |
+| Conjunctions in compound sentences — and, but, so — as named grammar with a rule box | Vietnam — Tiếng Anh 6, Volume 2 (Global Success), Unit 7, printed pp.6–15 (grammar heading printed p.10) |
+| Compound sentences joined by the full coordinator set — for, and, but, or, so — or by a conjunctive adverb (however, therefore, otherwise) | Vietnam — Tiếng Anh 8 (Global Success), Unit 3, printed pp.28–37 |
 
-**Acceptance count: taught in 17 countries (Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia).**
+**Acceptance count: taught in 18 countries (Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).**
 Ghana opens the compound sentence with AND, seats BUT
 beside it, lists the four coordinators, and widens the
 family in its own order; Bolivia posts the but/however
@@ -195,3 +197,5 @@ but, or"** (Activity Book, Unit 1, printed p.20).
 **Nepal added 2026-11-03** — 3 books stock this lesson: **Book:** *ENGLISH Grade 7* — Nepal, CDC (First Edition 2022, Updated Edition 2025); **Book:** *English (Grade 11)* — Nepal, CDC (Edition 2077 BS = 2020); **Book:** *TEACHER'S GUIDE ENGLISH GRADE TWO* — Nepal, MoEST/CDC (2021). All filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 7 Unit 8 teaches connectives and/but/although/however; Grade 11 Unit 10 (pp.88–98) teaches but/however/although/despite. The Grade 2 guide keys to a newer workbook that is not held, not to the held Grade 2 student's book, so its and/but work (Assessment 2, printed p.53) is cited for its own teaching only — and filed at its true weight: the guide names and/but as sentence joiners in passing and drills them in one gap-fill test; it is not a joining lesson of its own. Nepal's because-joining (Grade 5 Unit 2; the Grade 6 guide's because/because of units) is reason-joining, not and/but stock, and is not counted here.
 
 **Armenia added 2026-11-03** — 3 books stock this lesson: **Book:** *English 4 — Part 1* — Armenia, COAF, Yerevan 2025 (Part 1 only). **Book:** *English 9* — Armenia, COAF, Yerevan 2025, no ISBN printed. **Book:** *English 7 — Methodological Guide* — Armenia, Zangak, Yerevan 2023; methodology-only companion, cited only for its own teaching. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia joins sentences with and / but / because inside the writing lesson in Grade 4, Part 1, Unit 1.7 (in Unit 1, printed pp.14–41), teaches the joining words as a set with their contrasts — though/although, in spite of/despite, however, moreover, in addition to — with sentence combining after, in Grade 9, Unit 1.2 (printed pp.8–10), and tabulates the coordinating conjunctions — and, or, but, yet, nor — in the Grade 7 Methodological Guide's sentence-combination apparatus (printed pp.53–54), the guide's own teaching.
+
+**Vietnam added 2026-11-03** — 2 books stock this lesson: **Book:** *Tiếng Anh 6, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25874-8. **Book:** *Tiếng Anh 8 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2023, ISBN 978-604-0-35127-2. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam names the joining words as grammar: Grade 6, Volume 2's point is "Conjunctions in compound sentences" — and, but, so with a rule box; Grade 8 widens the set to the full coordinators for, and, but, or, so inside its simple/compound sentence unit, with however, therefore and otherwise as conjunctive adverbs. Grade 7's although/though and however connectors (Unit 8) are contrast connectors of a different shape and are not counted here.

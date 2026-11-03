@@ -1,6 +1,6 @@
 # Sources — Animals
 
-countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia
+countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -189,10 +189,13 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 2 section, FULLY READ + C
 | GUIDE'S OWN TEACHING (this guide keys to a newer Grade 2 workbook that is not held, not to the held Grade 2 student's book) — zoo animals at the fair (monkey, peacock, lion, antelope, ostrich, crocodile, elephant, owls, bear, pigeon), then Chicken Little, Helpful Animals, and "What Do Animals Eat?" | Nepal, Grade 2 Teacher's Guide, Lesson 11 (theme pp.32–54) and Lessons 41–44 (printed pp.166–180) |
 | A whole topic of animals — pets, zoo animals and wild animals, with animal quizzes and stories | Armenia — English 5 (Mari), copy B, Topic 5 "Animals", printed pp.95–115 (topic opener printed p.95) |
 | Farm, wild and pet animals sorted and described — "It sleeps in my room on a small mat. I love it very much." (the Resource Book's own course — see this file's Armenia section) | Armenia — Grade 3 Teacher's Resource Book (a different Grade 3 course), Module 6 "Animals", from printed p.119 |
+| Pets as the unit's set — bird, cat, dog, goldfish, parrot, rabbit — with "Do you have any …?" and counting: "How many … do you have? — I have …" | Vietnam — Tiếng Anh 3, Volume 2 (Global Success), Unit 16, printed pp.40–45 |
+| Zoo animals — elephant, horse, monkey, peacock, tiger — with animal actions (climbing, counting, dancing, swinging) and "What's the … doing? — It's …" | Vietnam — Tiếng Anh 3, Volume 2 (Global Success), Unit 20, printed pp.64–69 |
+| The animal world — crocodiles, giraffes, hippos, lions (peacocks and birds in the work) — with "Why do you like …? — Because they …" | Vietnam — Tiếng Anh 4, Volume 2 (Global Success), Unit 19, printed pp.58–63 |
 
-**Acceptance count: taught in 19 countries (Bangladesh, Egypt,
+**Acceptance count: taught in 20 countries (Bangladesh, Egypt,
 Libya, Palestine, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia).** Egypt carries the farm four with the first
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).** Egypt carries the farm four with the first
 size pair; Palestine carries the youngest learners' set;
 Bangladesh carries homes and foods as whole sentences; Libya
 carries the wild names inside its letter list; China carries
@@ -214,3 +217,5 @@ countries join as their books are read (see READING-QUEUE.md).
 **Nepal added 2026-11-03** — 5 books stock this lesson: **Book:** *English Grade 6* — Nepal, CDC (Revised Edition 2012; held copy truncated at printed p.108 and misbound — only held units cited); **Book:** *MY ENGLISH BOOK Grade IV* — Nepal, CDC; **Book:** *ENGLISH Grade 9* — Nepal, CDC (First Edition 2022); **Book:** *My English 1 Teacher's Guide* — Nepal, MoEST/CDC (First Edition 2020); **Book:** *TEACHER'S GUIDE ENGLISH GRADE TWO* — Nepal, MoEST/CDC (2021). All filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 6 Unit 1 (pp.1–7) is a whole animals unit; Grade 4 Unit 8 (pp.54–61) teaches animal homes; Grade 9 Unit 7 (pp.79–92) reads how animals spend the winter. The Grade 1 and Grade 2 guides key to newer workbooks that are not held, not to the held student's books, so their animal themes (Grade 1 guide Lessons 103–108, printed pp.425–452; Grade 2 guide Lessons 41–44, printed pp.166–180) are cited for their own teaching only.
 
 **Armenia added 2026-11-03** — 2 books stock this lesson: **Book:** *English 5* (copy B, the corrected revision; copy A is superseded and never cited) — Armenia, Mari Publishing, Yerevan 2023, ISBN 978-9939-888-23-1. **Book:** *Grade 3 Teacher's Resource Book* — Armenia, no publisher/year/ISBN printed in its English text (its framework is cited inside as 2021). All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 5 copy B gives a whole topic to animals — Topic 5 "Animals" (printed pp.95–115, topic opener printed p.95): pets, zoo animals and wild animals, with animal quizzes and stories. The Grade 3 Teacher's Resource Book's Module 6 "Animals" (from printed p.119) sorts and describes farm, wild and pet animals — "It sleeps in my room on a small mat. I love it very much." That Resource Book is a resource book for a different Grade 3 course (Modules: My Friends / My School / My Family / My House / My Meals / Animals), NOT a companion to the held COAF Grade 3 student's book, and its module is cited for its own teaching only, never as support for the COAF book.
+
+**Vietnam added 2026-11-03** — 2 books stock this lesson: **Book:** *Tiếng Anh 3, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2022, ISBN 978-604-0-30721-7. **Book:** *Tiếng Anh 4, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2023, ISBN 978-604-0-35121-0. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam's animal stock is two Grade 3 sets and one Grade 4 set: pets with counting at Volume 2 Unit 16, five zoo animals with their actions at Unit 20, and the big zoo animals — crocodiles, giraffes, hippos, lions — with reason-giving at Grade 4, Volume 2. Filed plainly: Grade 3 teaches no farm animals anywhere, and the animal-young words of its Fun time (puppy, kitten, cub, calf) are not in its Wordlist, as the country file records.

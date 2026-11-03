@@ -1,6 +1,6 @@
 # Sources — Nouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia
+countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -181,9 +181,12 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Plurals begin inside the first letter lessons — 1 star / 2 stars — as the singular/plural split is first met | Armenia — English 3, Part 1 (COAF), Unit 1.4 |
 | Nouns that refuse the singular/plural split, taught as a named set — "We have no singular! / We have no plural!" (scissors, furniture, police, advice, news) | Armenia — English 7 (Zangak), Unit 4, printed p.103 |
 | The noun system as reference: nouns and articles, then noun plurals, in the grammar appendix | Armenia — English 7 (Zangak), Appendix "Structure of English Grammar", printed pp.148–149 |
+| Countable and uncountable nouns as named grammar, with the Remember box pairing some/many/a few with countable and some/much/a little with uncountable | Vietnam — Tiếng Anh 6, Volume 1 (Global Success), Unit 5, printed pp.48–57 |
+| Countable and uncountable nouns named again as a grammar point, with a / much / many / a little / a few | Vietnam — Tiếng Anh 8 (Global Success), Unit 4, printed pp.40–49 |
+| Compound nouns — their formation types and plural rules — as the unit's named grammar | Vietnam — Tiếng Anh 11 (Global Success), Unit 10, printed p.112 (grammar box; the unit runs printed pp.110–119) |
 
-**Acceptance count: taught in 19 countries (Bangladesh, Egypt,
-Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia).**
+**Acceptance count: taught in 20 countries (Bangladesh, Egypt,
+Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).**
 Egypt and Bangladesh carry the definition itself,
 each in the three-sort form; Libya carries it twice more in its
 own shorter words; Ghana carries the sentence test; China
@@ -219,3 +222,5 @@ pp.99–108).
 **Nepal added 2026-11-03** — three books stock this lesson: **Book:** *MY ENGLISH BOOK Grade IV* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, first edition 2003, reprint 2011, ISBN 978-999-33-714-1-6. **Book:** *ENGLISH Grade 7* (student's book) — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, First Edition 2022, Updated Edition 2025. **Book:** *English (Grade 11)* (student's book) — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Edition 2077 BS (2020 AD). All Filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 4 teaches the plural side as named grammar: singular and plural with -s and -es in Unit 3 (printed pp.20–25), and irregular plurals (child/children, mouse, ox) in Unit 8 (printed pp.54–61). Grade 7, Unit 2 (printed pp.10–21), teaches countable/uncountable nouns as its first grammar, with a/an/some/any and how many/how much as its second. Grade 11 opens on word classes (Unit 1, printed pp.3–12) — the noun named among the classes — and works irregular plurals again in Unit 13 (printed pp.118–129).
 
 **Armenia added 2026-11-03** — two books stock this lesson: **Book:** *English 3 — Part 1* — Armenia, COAF, Yerevan 2024 (Part 1 only). **Book:** *English 7* — Armenia, Zangak, Yerevan 2023, Lusine Grigoryan, ISBN 978-9939-99-035-4. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Plurals begin inside the first letter lessons of the Grade 3 book — 1 star / 2 stars — as the singular/plural split is first met (Unit 1.4). The Grade 7 book teaches nouns that refuse the singular/plural split as a named set — "We have no singular! / We have no plural!" (scissors, furniture, police, advice, news; Unit 4, printed p.103) — and carries the noun system as reference in its appendix, "Structure of English Grammar": nouns and articles, then noun plurals (printed pp.148–149).
+
+**Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 6, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25873-1. **Book:** *Tiếng Anh 8 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2023, ISBN 978-604-0-35127-2. **Book:** *Tiếng Anh 11 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2023, ISBN 978-604-0-35131-9. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam carries the noun through its quantity system rather than a definition: countable and uncountable nouns are named grammar at Grade 6, Volume 1 (Unit 5) with the quantifier pairings boxed, and again at Grade 8 (Unit 4) beside the question-formation unit; and Grade 11 closes the word-kind work with compound nouns — formation types and plural rules — as a named grammar point (Unit 10). No Vietnam book prints a "a noun is …" definition, and none is claimed here.

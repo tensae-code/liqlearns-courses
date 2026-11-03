@@ -1,6 +1,6 @@
 # Sources — Asking yes/no questions
 
-countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia
+countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -184,10 +184,13 @@ CITATION CHECK PASSED 2026-11-03).
 | GUIDE'S OWN TEACHING (this guide keys to a newer eighteen-unit Grade 6 textbook that is not held, not to the held 2012 student's book) — yes/no questions taught as inversion with be, and do/does/did with other verbs | Nepal, Grade 6 Teacher's Guide, Unit 2 (printed pp.12–18) |
 | Yes/no questions with be, from the first unit — "Is he ten? Yes, he is." — with he/she statements beside them | Armenia — English 3, Part 1 (COAF), Unit 1.1, in Unit 1, printed pp.9–32 |
 | Be questions revised at the start of Grade 4, with There is/There isn't beside them | Armenia — English 4, Part 1 (COAF), Starter Lesson, printed pp.3–13 |
+| Yes / No questions as a named grammar point — formed with an auxiliary (be, do, have) or modal before the subject; no auxiliary when be is the main verb; short answers practised and matched | Vietnam — Tiếng Anh 7 (Global Success), Unit 9, printed pp.92–101 |
+| The first yes/no exchanges — "Is she flying a kite?" — "Yes, she is." / "Is he flying a kite?" — "No, he isn't." | Vietnam — Tiếng Anh 2 (Global Success), Unit 2, printed pp.9–11 (the pattern on printed p.11) |
+| The first yes/no questions of the Grade 3 course — "Is this / that …? — Yes, it is. / No, it isn't. It's …" | Vietnam — Tiếng Anh 3, Volume 1 (Global Success), Unit 3, printed pp.22–27 |
 
-**Acceptance count: taught in 18 countries (Bangladesh,
+**Acceptance count: taught in 19 countries (Bangladesh,
 Bolivia, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia).** Bolivia boxes the do/does engine;
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).** Bolivia boxes the do/does engine;
 Mongolia works the be-swap on its doing-now questions;
 Bangladesh teaches the voice the question rides on; China
 adds the full shelf of shapes across its primary run — be,
@@ -237,3 +240,5 @@ invert, other verbs take the "helping verb" Do/Does
 **Nepal added 2026-11-03** — 5 books stock this lesson: **Book:** *MY ENGLISH BOOK Grade I* — Nepal, CDC; **Book:** *English Grade 6* — Nepal, CDC (Revised Edition 2012; held copy truncated at p.108 — Units 1 and 9 are inside the held pages); **Book:** *ENGLISH Grade 8* — Nepal, CDC (Updated Edition 2025); **Book:** *ENGLISH Grade 9* — Nepal, CDC (First Edition 2022); **Book:** *TEACHER'S GUIDE: ENGLISH GRADE SIX* — Nepal, MoEST/CDC (Edition 2022). All filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 1 Unit 4 (pp.22–28) carries the first Is-this frame; Grade 6 makes yes/no questions by transformation in Unit 1 (pp.1–7) and teaches short answers in Unit 9 (pp.78–83); Grade 8 Unit 2 and Grade 9 Unit 6 teach forming yes/no questions as named grammar. The Grade 6 guide keys to a newer eighteen-unit textbook that is not held, not to the held 2012 book, so its Unit 2 yes/no teaching (printed pp.12–18) is cited for its own teaching only.
 
 **Armenia added 2026-11-03** — 2 books stock this lesson: **Book:** *English 3 — Part 1* — Armenia, COAF, Yerevan 2024 (Part 1 only). **Book:** *English 4 — Part 1* — Armenia, COAF, Yerevan 2025 (Part 1 only). All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia asks yes/no questions with be from the first unit of its first book: English 3, Part 1, Unit 1.1 (in Unit 1, printed pp.9–32) runs "Is he ten? Yes, he is." with he/she statements beside them, and English 4, Part 1 revises be questions at the start of Grade 4 in its Starter Lesson (printed pp.3–13), with There is/There isn't beside them.
+
+**Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 7 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2022, ISBN 978-604-0-30724-8. **Book:** *Tiếng Anh 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2021, ISBN 978-604-0-25872-4. **Book:** *Tiếng Anh 3, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2022, ISBN 978-604-0-30720-0. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam practises yes/no questions from Grade 2 — short-answer exchanges inside patterns — and names the formation as grammar only at Grade 7, where "Yes / No questions" is a unit's grammar point with the auxiliary-before-subject rule stated. The Grade 9 book then recycles the type as reported Yes/No questions (Unit 7), which is sourced in the reported-speech stock, not here.

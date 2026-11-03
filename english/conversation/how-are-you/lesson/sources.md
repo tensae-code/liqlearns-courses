@@ -1,6 +1,6 @@
 # Sources for this lesson — How are you?
 
-countries: Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia
+countries: Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -38,8 +38,10 @@ Libya (Garnet) · Books verified on disk 2026-10-25.
 | "How are you today? — I'm fine" — a hello chant inside the first unit | Nepal — MY ENGLISH BOOK Grade I (student's book), Unit 1 "Starting school", printed pp.1–6 ("How are you today?" printed p.5) |
 | "How are you? I'm fine. How about you? I'm also fine" — the question with its return question | Nepal — MY ENGLISH BOOK Grade II (student's book), Unit 1 "Going to school", printed pp.1–7 |
 | The exchange taught as its own starter lesson — "How are you?" with the answer "I am fine too, thank you." | Armenia — English 3, Part 1 (COAF), Starter Unit, Lesson 2, printed p.4 |
+| "Hi. How are you? — Fine, thank you." inside the first greeting unit | Vietnam — Tiếng Anh 3, Volume 1 (Global Success), Unit 1, printed pp.10–15 (the exchange on printed p.12) |
+| The greeting song "Hello. How are you?" opening the Grade 4 revision Starter | Vietnam — Tiếng Anh 4, Volume 1 (Global Success), Starter, printed p.7 |
 
-**Acceptance count: taught in 15 countries (Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
+**Acceptance count: taught in 16 countries (Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 China joins with the exchange itself in its first primary book
 (Grade 3 Volume 1) and deepens it three years later into feelings
 talk — "How do you feel?", "What's wrong?" (Grade 6 Volume 1).
@@ -304,3 +306,5 @@ is recorded for South Sudan, and none is claimed here.
 **Nepal added 2026-11-03** — two books stock this lesson: **Book:** *MY ENGLISH BOOK Grade I* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur, first edition 2003, reprint 2011, ISBN 978-999-33-714-0-8. **Book:** *MY ENGLISH BOOK Grade II* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, first edition 2004, second edition 2006, reprint 2011, ISBN 978-999-33-708-7-8. Both Filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 1, Unit 1 (printed pp.1–6), carries the question inside its hello chant — "How are you today? — I'm fine" ("How are you today?" is a citation anchor at printed p.5). Grade 2, Unit 1 (printed pp.1–7), teaches it as an exchange with its return question: "How are you? I'm fine. How about you? I'm also fine." No wider answer set — no "very well" or "not very well" — is recorded for Nepal, and none is claimed here.
 
 **Armenia added 2026-11-03** — one book stocks this lesson: **Book:** *English 3 — Part 1* (student's book) — Armenia, Children of Armenia Charitable Foundation (COAF), Yerevan 2024, Nersesyan/Tonoyan/Arakelyan, no ISBN printed; the held file is Part 1 only. Filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia teaches the exchange as its own starter lesson: the Starter Unit, Lesson 2, "How are you?" (printed p.4), gives the question with the answer "I am fine too, thank you."
+
+**Vietnam added 2026-11-03** — 2 books stock this lesson: **Book:** *Tiếng Anh 3, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2022, ISBN 978-604-0-30720-0. **Book:** *Tiếng Anh 4, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2023, ISBN 978-604-0-35120-3. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam teaches the exchange once, early, and recycles it: Grade 3, Volume 1's first unit carries "Hi. How are you? — Fine, thank you." among its greeting patterns (printed p.12), and Grade 4, Volume 1's revision Starter opens with the greeting song "Hello. How are you?" (printed p.7). The set's answer stays the one formula — fine, thank you — wherever the question recurs.

@@ -1,6 +1,6 @@
 # Sources for this lesson — Introducing a friend
 
-countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia
+countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -45,12 +45,15 @@ disk 2026-10-25: %PDF, 190 pp).
 | Introducing others as the first unit's speaking work, with introductions in its listening | Nepal — ENGLISH Grade 7 (student's book), Unit 1, printed pp.1–9 |
 | Introducing others as a unit's speaking task — the guide's own teaching for its own, different textbook (see the guide note in the Nepal section below) | Nepal — TEACHER'S GUIDE: ENGLISH GRADE SIX (teacher's guide to a different, unheld textbook), Unit 1, printed pp.5–11 |
 | Introducing another person by name — "This is …" for yourself and others from the first lesson, then "This is Jack" in the classmates lesson | Armenia — English 3, Part 1 (COAF), Starter Unit, Lesson 1, printed p.3; Unit 1.1 "My Classmates", printed pp.9–32 |
+| Introducing and identifying people: "This is … / That's …", with the first yes/no questions about them | Vietnam — Tiếng Anh 3, Volume 1 (Global Success), Unit 3, printed pp.22–27 |
+| Introducing someone as the unit's Everyday English function — "Phong, this is Duy, my new friend." | Vietnam — Tiếng Anh 6, Volume 1 (Global Success), Unit 1, printed p.11 |
+| Making introductions and responding to them as the Everyday English function of the multicultural-world unit | Vietnam — Tiếng Anh 12 (Global Success), Unit 2, printed pp.20–31 |
 
 The same dialog also carries the age exchange and the toy-fish
 talk — those parts are filed in their own places (age: english/age/
 how-old-are-you), not here.
 
-**Acceptance count: taught in 16 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia).**
+**Acceptance count: taught in 17 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).**
 Egypt carries introducing the family — "This is my father /
 mother / sister …" with the "Who's this?" exchange, and a year
 deeper the whole family lineup with my / his / her on family
@@ -428,3 +431,5 @@ filed South Sudan read, and none is claimed here.
 **Nepal added 2026-11-03** — three books stock this lesson: **Book:** *MY ENGLISH BOOK Grade II* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, first edition 2004, second edition 2006, reprint 2011, ISBN 978-999-33-708-7-8. **Book:** *ENGLISH Grade 7* (student's book) — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, First Edition 2022, Updated Edition 2025. **Book:** *TEACHER'S GUIDE: ENGLISH GRADE SIX* (teacher's guide) — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Edition 2022. All Filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 2, Unit 2, "What am I?" (printed pp.8–12), presents a third person as a friend: "Who is she? She is my friend, Preeti. What is she? She is a student" ("She is a student." is a citation anchor at printed p.8), beside "What's his name?" work filed next door. Grade 7, Unit 1 (printed pp.1–9), names introducing others as its Speaking work, with introductions in its Listening. The Grade 6 teacher's guide's Unit 1 (printed pp.5–11) likewise names introducing others as its Speaking task. GUIDE NOTE, recorded exactly as the country file records it: this teacher's guide is NOT the companion of the held Grade 6 student's book — it is the Edition 2022 guide to a newer eighteen-unit Grade 6 textbook, which is not held, and not one of its units, texts or keys matches the held 2012 book. Its stock here is cited for its own teaching only, never as support for the held student's book.
 
 **Armenia added 2026-11-03** — one book stocks this lesson: **Book:** *English 3 — Part 1* (student's book) — Armenia, Children of Armenia Charitable Foundation (COAF), Yerevan 2024, Nersesyan/Tonoyan/Arakelyan, no ISBN printed; the held file is Part 1 only. Filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia introduces another person by name from its first lesson: the Starter Unit, Lesson 1 (printed p.3), teaches "This is …" for yourself and others, and Unit 1.1, "My Classmates" (printed pp.9–32), works it as "This is Jack" inside the first unit's classmate work.
+
+**Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 3, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2022, ISBN 978-604-0-30720-0. **Book:** *Tiếng Anh 6, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25873-1. **Book:** *Tiếng Anh 12 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2024, ISBN 978-604-0-39370-8. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam teaches the introduction at three heights: Grade 3, Volume 1's "Our friends" unit gives "This is … / That's …" for introducing and identifying people; Grade 6, Volume 1 makes introducing someone its first Everyday English function — "Phong, this is Duy, my new friend." (printed p.11); and Grade 12's multicultural-world unit carries making introductions and responding to them as its Everyday English function.

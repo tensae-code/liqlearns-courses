@@ -1,6 +1,6 @@
 # Sources for this lesson — Blends
 
-countries: Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal
+countries: Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -43,8 +43,11 @@ pictures).
 | Consonant clusters /sk/ /sp/ /st/ as a named pronunciation set inside the travel unit | Nepal — English (Grade 11) (student's book), Unit 19 "Travel and Tourism", printed pp.172–180 ("The Wild Frontier" printed p.172) |
 | Consonant clusters again as a named vocabulary strand in the final unit, beside its word-class chart | Nepal — English Grade 12 (student's book), Unit 20 "Power and Politics", printed pp.170–179 |
 | A teacher note on consonant clusters inside the picnic unit's picture-number puzzle — the student's book's one Nepali teacher note | Nepal — MY ENGLISH BOOK Grade 3 (student's book), Unit 6, printed p.46 |
+| First blends: **pl** in playground and **cl** in classroom | Vietnam — Tiếng Anh 3, Volume 1 (Global Success), Unit 6, printed pp.44–49 |
+| **sp** in speak and **st** in stand, then **bl** in blue and **br** in brown | Vietnam — Tiếng Anh 3, Volume 1 (Global Success), Unit 7, printed pp.50–55; Unit 9, printed pp.62–67 |
+| Blends as a named pronunciation strand — /br/, /kr/, /tr/ (breadwinner, crash, train), then /kl/, /pl/, /gr/, /pr/ | Vietnam — Tiếng Anh 10 (Global Success), Unit 1, printed pp.8–17; Unit 2, printed pp.18–27 |
 
-**Acceptance count: taught in 10 countries (Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal).**
+**Acceptance count: taught in 11 countries (Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam).**
 China joins with blends taught two at a time on Let's spell
 pages in Grade 5 (cl/pl, gr/br) and sorted again in the
 end-of-primary grouping review (Grade 6 Volume 2). Iran joins
@@ -282,3 +285,5 @@ Workbook's Revision 2 (printed pp.30–32) sorts words
 into gr/sl/cr/br jars.
 
 **Nepal added 2026-11-03** — three books stock this lesson: **Book:** *English (Grade 11)* (student's book) — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Edition 2077 BS (2020 AD). **Book:** *English Grade 12* (student's book) — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, First Edition 2021. **Book:** *MY ENGLISH BOOK Grade 3* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, first edition 2005, reprint 2011, ISBN 978-999-33-708-9-4. All Filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Nepal's blends are consonant clusters, named as such, and they sit at the top of the course: Grade 11, Unit 19, "Travel and Tourism" (printed pp.172–180), works the consonant clusters /sk/ /sp/ /st/ as a named vocabulary/pronunciation set beside its West Nepal travel reading; Grade 12, Unit 20, "Power and Politics" (printed pp.170–179), works consonant clusters again beside its word-class chart. The one primary trace is Grade 3, Unit 6's picture-number puzzle, which carries the book's one Nepali teacher note, on consonant clusters (printed p.46). No opening-blend phonics strand (bl-, cr-, str- taught as reading work) exists in any held Nepal book, and none is claimed here.
+
+**Vietnam added 2026-11-03** — 2 books stock this lesson: **Book:** *Tiếng Anh 3, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2022, ISBN 978-604-0-30720-0. **Book:** *Tiếng Anh 10 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2022, ISBN 978-604-0-32428-3. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam names consonant blends outright in its phonics lessons: Grade 3, Volume 1 teaches them two at a time as each unit's Lesson 3 sound focus — pl/cl, then sp/st, then bl/br — always as highlighted letters inside two example words. The strand returns as a named pronunciation point in Grade 10, whose first two units work consonant blends (/br/, /kr/, /tr/, then /kl/, /pl/, /gr/, /pr/) as their pronunciation sections; Grade 9's cluster pairs (/fl/, /fr/ in Unit 6; /sl/, /sn/ in Unit 7) sit between the two.

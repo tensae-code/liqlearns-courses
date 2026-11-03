@@ -1,6 +1,6 @@
 # Sources — Mine and yours
 
-countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia
+countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -130,8 +130,11 @@ CITATION CHECK PASSED 2026-11-03).
 | Possession as the unit's whole grammar — "Whose bag is this? — It is Mina's bag. It is hers" — with the pronoun→possessive table (I/my/mine…) and possessive fill-ins; the set runs mine/hers/his/yours/theirs | Nepal, Grade 5, Unit 8 "Describing possessions," pp.67–74 |
 | Possessive pronouns as a headed grammar lesson — my / your / his / her / our / their set against the subject pronouns, with the your/you're contrast | Armenia — English 4, Part 1 (COAF), Unit 1.2 "Possessive Pronouns", printed p.17 |
 | Possessive pronouns used for comparisons — the standalone forms (mine/yours type) at work | Armenia — English 7 (Zangak), Unit 2, printed p.35 |
+| Possessive pronouns standing alone against possessive adjectives before a noun — two contrasted rule boxes, with its/it's traps in the exercises | Vietnam — Tiếng Anh 6, Volume 2 (Global Success), Unit 9, printed pp.26–35 |
+| Possessive pronouns named as their own grammar point — mine, yours, hers, etc. | Vietnam — Tiếng Anh 7 (Global Success), Unit 11, printed pp.114–123 |
+| The possessive pronoun after of — "a friend of mine" — as the recycled point's new focus | Vietnam — Tiếng Anh 8 (Global Success), Unit 10, printed pp.104–113 |
 
-**Acceptance count: taught in 15 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia).**
+**Acceptance count: taught in 16 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam).**
 Mongolia's "That's Mine" unit carries the whole lesson —
 the 's box, the whose matching, the three-rung box, the
 game; Egypt's youngest books hold the partner forms from
@@ -174,3 +177,5 @@ irregular plurals (p.47), and a pronoun → possessive adjective
 **Nepal added 2026-11-03** — 4 books stock this lesson: **Book:** *MY ENGLISH BOOK Grade II* — Nepal, CDC; **Book:** *MY ENGLISH BOOK Grade 3* — Nepal, CDC; **Book:** *Teacher's Guide My English Book - 3* — Nepal, CDC (First edition 2008), the true companion to the held Grade 3 student's book; **Book:** *MY ENGLISH BOOK Grade V* — Nepal, CDC (held copy incomplete — Unit 3 missing; Unit 8, pp.67–74, is inside the held pages). All filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 2 Unit 8 (pp.46–50) introduces mine/yours as pronouns; Grade 3 Unit 4 (pp.25–33) works whose-questions with mine/hers/yours/his, and its companion guide (printed pp.23–27) keys the chant and role play; Grade 5 Unit 8 (pp.67–74) teaches the full possessive set with its pronoun→possessive table. Filed at true weight: Grade 6's possessive work (Unit 11, pp.94–101) is possessive adjectives only — my/his/its/our/her/your — and is not counted as mine/yours stock.
 
 **Armenia added 2026-11-03** — two books stock this lesson: **Book:** *English 4 — Part 1* — Armenia, COAF, Yerevan 2025 (Part 1 only). **Book:** *English 7* — Armenia, Zangak, Yerevan 2023, Lusine Grigoryan, ISBN 978-9939-99-035-4. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). The scope is filed plainly: Grade 4 teaches the possessive set against subject pronouns — possessive pronouns as a headed grammar lesson, my / your / his / her / our / their set against the subject pronouns, with the your/you're contrast (Unit 1.2 "Possessive Pronouns", printed p.17); the standalone forms are worked in Grade 7, where possessive pronouns are used for comparisons — the standalone forms (mine/yours type) at work (Unit 2, printed p.35).
+
+**Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 6, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25874-8. **Book:** *Tiếng Anh 7 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2022, ISBN 978-604-0-30724-8. **Book:** *Tiếng Anh 8 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2023, ISBN 978-604-0-35127-2. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam teaches the standalone forms as a named contrast, not as vocabulary luck: Grade 6, Volume 2 contrasts possessive adjectives and possessive pronouns in two rule boxes — adjective before a noun, pronoun standing alone; Grade 7 names possessive pronouns as a grammar point in their own right (mine, yours, hers, …); and Grade 8 returns to the form after of — "a friend of mine". The full standalone set is present, which is what this lesson asks for.

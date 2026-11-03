@@ -1,6 +1,6 @@
 # Sources for this lesson — How old are you?
 
-countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia
+countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -46,8 +46,11 @@ Libya (Garnet) · Books verified on disk 2026-10-25.
 | "How old are you? — I'm five/six" and "How old is he/Raju?" as the age unit's frame, with a follow-the-string age-writing exercise (Gita, Hari, Bina, Pemba, Lok, Rita, Anup) | Nepal — MY ENGLISH BOOK Grade I (student's book), Unit 9 "Age and days", printed pp.57–61 |
 | Ages stated whole in a family reading — grandfather 70, grandmother 65, father 35, mother 30, Pukar 6, brother and sister 8 and 9 | Nepal — MY ENGLISH BOOK Grade II (student's book), Unit 3 "Numbers", printed pp.13–19 |
 | The age question as its own starter lesson — "How old are you?", numbers 1–10, "I'm nine / I'm ten" | Armenia — English 3, Part 1 (COAF), Starter Unit, Lesson 3, printed p.5 |
+| "How old are you? — I'm … years old", reusing the Starter numbers for ages seven to ten | Vietnam — Tiếng Anh 3, Volume 1 (Global Success), Unit 2, printed pp.16–21 |
+| "How old is your brother? — He's nineteen." — the age question turned to family members, with numbers to twenty in use | Vietnam — Tiếng Anh 2 (Global Success), Unit 14, printed p.62 |
+| Third-person age: "How old is he / she? — He's / She's … (years old)" | Vietnam — Tiếng Anh 3, Volume 2 (Global Success), Unit 11, printed pp.6–11 |
 
-**Acceptance count: taught in 17 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
+**Acceptance count: taught in 18 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 China teaches the exchange in the full "years old" form with
 candle counting (Grade 3 Volume 1) and later ties age to the
 birthday date (Grade 5 Volume 2); North Macedonia practises it
@@ -407,3 +410,5 @@ and not for the question.
 **Nepal added 2026-11-03** — two books stock this lesson: **Book:** *MY ENGLISH BOOK Grade I* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur, first edition 2003, reprint 2011, ISBN 978-999-33-714-0-8. **Book:** *MY ENGLISH BOOK Grade II* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, first edition 2004, second edition 2006, reprint 2011, ISBN 978-999-33-708-7-8. Both Filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 1, Unit 9, "Age and days" (printed pp.57–61), is built on the question: "How old are you? — I'm five/six", "How old is he/Raju?", with a follow-the-string age-writing exercise naming Gita, Hari, Bina, Pemba, Lok, Rita and Anup. Grade 2, Unit 3 (printed pp.13–19), states a whole family's ages inside its numbers reading — grandfather 70, grandmother 65, father 35, mother 30, Pukar 6, uncle 30, aunt 25, brother and sister 8 and 9.
 
 **Armenia added 2026-11-03** — one book stocks this lesson: **Book:** *English 3 — Part 1* (student's book) — Armenia, Children of Armenia Charitable Foundation (COAF), Yerevan 2024, Nersesyan/Tonoyan/Arakelyan, no ISBN printed; the held file is Part 1 only. Filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia teaches the age question as its own starter lesson: the Starter Unit, Lesson 3, "How old are you?" (printed p.5), gives the question with numbers 1–10 and the answers "I'm nine / I'm ten".
+
+**Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 3, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2022, ISBN 978-604-0-30720-0. **Book:** *Tiếng Anh 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2021, ISBN 978-604-0-25872-4. **Book:** *Tiếng Anh 3, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2022, ISBN 978-604-0-30721-7. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam teaches the age question in the second person first — Grade 3, Volume 1, Unit 2 (printed pp.16–21) — and works the third person on both sides of it: Grade 2 asks about family members ("How old is your brother? — He's nineteen.", printed p.62), and Grade 3, Volume 2's family unit teaches "How old is he / she?" with the numbers eleven to twenty (printed pp.6–11). Both the question and the giving form are present throughout, which is the full shape of this lesson.

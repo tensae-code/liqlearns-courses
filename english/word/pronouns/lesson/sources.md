@@ -1,6 +1,6 @@
 # Sources — Pronouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -197,9 +197,12 @@ english/books/jordan.md (Grade 7 Pupil's Book Semester 1 section, FULLY READ + C
 | Indefinite pronouns as a grammar point inside the holidays unit | Armenia — English 6 (COAF), Unit 4.4, printed pp.105–108 |
 | Reflexive pronouns as a grammar point inside the same unit's English in Use | Armenia — English 6 (COAF), Unit 4.6, printed pp.111–113 |
 | Possessive pronouns worked for comparisons; the pronoun/quantifier system tabulated in the appendix | Armenia — English 7 (Zangak), Unit 2, printed p.35; Appendix, printed p.152 |
+| Possessive adjectives against possessive pronouns in two contrasted rule boxes — the adjective before a noun, the pronoun standing alone — with its/it's traps in the exercises | Vietnam — Tiếng Anh 6, Volume 2 (Global Success), Unit 9, printed pp.26–35 |
+| Possessive pronouns (mine, yours, hers, etc.) as a named grammar point beside the future simple | Vietnam — Tiếng Anh 7 (Global Success), Unit 11, printed pp.114–123 |
+| Possessive pronouns after of — "a friend of mine" — as the recycled point's new focus | Vietnam — Tiếng Anh 8 (Global Success), Unit 10, printed pp.104–113 |
 
-**Acceptance count: taught in 17 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia).** Egypt
+**Acceptance count: taught in 18 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).** Egypt
 carries the seven words with the
 plainest definitions any book gives them, and the first
 whose-box; Bangladesh carries the formal definition; Libya
@@ -226,3 +229,5 @@ Armenia joined 2026-11-03: it carries subject pronouns revised with this/that/th
 **Nepal added 2026-11-03** — three books stock this lesson: **Book:** *MY ENGLISH BOOK Grade II* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, first edition 2004, second edition 2006, reprint 2011, ISBN 978-999-33-708-7-8. **Book:** *MY ENGLISH BOOK Grade V* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, First Edition 2007, reprint 2010. **Book:** *English Grade 6* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, first edition 1994, Revised Edition 2012, ISBN 978-9937-601-00-9. All Filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 2, Unit 8 (printed pp.46–50), works mine/yours standing alone beside its adjectives — "Your doll is small. Mine is big" ("Mine is big." is a citation anchor at printed p.46; his/hers are not used as pronouns in that book, recorded as filed). Grade 5, Unit 8, "Describing possessions" (printed pp.67–74), teaches the system as a table — the pronoun→possessive table (I/my/mine…) — through "Whose bag is this? — It is Mina's bag. It is hers", with possessive fill-ins; the held Grade 5 copy is incomplete (Unit 3 and the Listening texts are missing), and Unit 8 sits inside its held pages, cited only for what the held copy contains. Grade 6, Unit 11 (printed pp.94–101), works possessive adjectives (my/his/its/our/her/your) in a self-introduction text with pronoun-replacement exercises; the held Grade 6 copy is truncated at printed p.108, and Unit 11 sits inside the held pages.
 
 **Armenia added 2026-11-03** — three books stock this lesson: **Book:** *English 4 — Part 1* — Armenia, COAF, Yerevan 2025 (Part 1 only). **Book:** *English 6* — Armenia, COAF, Yerevan 2024, no ISBN printed. **Book:** *English 7* — Armenia, Zangak, Yerevan 2023, Lusine Grigoryan, ISBN 978-9939-99-035-4. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). The Grade 4 book revises subject pronouns with this/that/these/those at the start of the book (Starter Lesson, printed pp.3–13). The Grade 6 book teaches indefinite pronouns as a grammar point inside the holidays unit (Unit 4.4, printed pp.105–108) and reflexive pronouns as a grammar point inside the same unit's English in Use (Unit 4.6, printed pp.111–113). The Grade 7 book works possessive pronouns for comparisons (Unit 2, printed p.35) and tabulates the pronoun/quantifier system in its appendix (printed p.152).
+
+**Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 6, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25874-8. **Book:** *Tiếng Anh 7 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2022, ISBN 978-604-0-30724-8. **Book:** *Tiếng Anh 8 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2023, ISBN 978-604-0-35127-2. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam teaches the possessive pair as a contrast system: Grade 6, Volume 2 sets possessive adjectives and possessive pronouns in two rule boxes side by side (Unit 9); Grade 7 names possessive pronouns again as a grammar point of their own (Unit 11); and Grade 8 returns to them after of — "a friend of mine" (Unit 10).

@@ -1,6 +1,6 @@
 # Sources — Numbers
 
-countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia
+countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -206,10 +206,14 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 | Numbers 1–10 inside the age lesson, then counting to 20 | Armenia — English 3, Part 1 (COAF), Starter Unit, Lesson 3, printed p.5; Unit 1.5 |
 | Numbers revised bigger — 1–20 and the tens to 100 | Armenia — English 4, Part 1 (COAF), Starter Lesson, printed pp.3–13 |
 | Numerals as a reference system — cardinal, ordinal and fractional numbers tabulated | Armenia — English 7 (Zangak), Appendix, printed pp.152–153 |
+| Numbers one to five enter through counting — "How many clocks?" — "Two." — plurals counted before any singular/plural rule is given | Vietnam — Tiếng Anh 1 (Global Success), Unit 9, printed pp.40–42 |
+| Counting extended to ten — "How many windows can you see?" — "I can see six." | Vietnam — Tiếng Anh 1 (Global Success), Unit 16, printed pp.68–70 |
+| Eleven to fifteen as presented words — "What number is it?" — "It's eleven."; sixteen to twenty are used in the next unit and entered in the Glossary, not presented as Lesson 1 words | Vietnam — Tiếng Anh 2 (Global Success), Unit 13, printed pp.57–59 |
+| Numbers eleven to twenty as the family unit's vocabulary, carrying third-person age answers | Vietnam — Tiếng Anh 3, Volume 2 (Global Success), Unit 11, printed pp.6–11 |
 
-**Acceptance count: taught in 19 countries (Egypt, India,
+**Acceptance count: taught in 20 countries (Egypt, India,
 Palestine, Laos, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia).** Palestine carries the youngest path (numbers
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).** Palestine carries the youngest path (numbers
 inside the word units, traced); Egypt carries the counting
 question and the climb (1–5, 11–20, by tens to 100); India
 carries the same 1–20 in its first book; China carries the
@@ -266,3 +270,5 @@ a whole song that sings three numbers (p.14).
 **Nepal added 2026-11-03** — five books stock this lesson: **Book:** *MY ENGLISH BOOK Grade I* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur, first edition 2003, reprint 2011, ISBN 978-999-33-714-0-8. **Book:** *MY ENGLISH BOOK Grade II* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, first edition 2004, second edition 2006, reprint 2011, ISBN 978-999-33-708-7-8. **Book:** *MY ENGLISH BOOK Grade 3* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, first edition 2005, reprint 2011, ISBN 978-999-33-708-9-4. **Book:** *Teacher's Guide My English Book - 3* (teacher's guide) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, First edition 2008. **Book:** *MY ENGLISH BOOK Grade IV* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, first edition 2003, reprint 2011, ISBN 978-999-33-714-1-6. All Filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 1, Unit 5, "One and many" (printed pp.29–35), counts 1–10 — a counting rhyme, "How many fingers are there?", counted nouns with there is/there are, and a number chant running 3 flags, 4 pens … 10 cats. Grade 2, Unit 3, "Numbers" (printed pp.13–19), matches and spells the number words 11–50, counts pictured objects, and writes numbers in words up to 97. Grade 3, Unit 3 (printed pp.18–24), writes numbers in words to three figures — 514, "five hundred and fourteen", through 799 — and its companion guide keys them in full (guide Unit 3, printed pp.16–22). This guide IS the true companion of its held student's book — the one matched pair among Nepal's six guides — so its keys are cited as the student's book's own keys. Grade 4, Unit 10 (printed pp.70–76), adds the ordinals first–tenth, worked with days, months and letters.
 
 **Armenia added 2026-11-03** — 3 books stock this lesson: **Book:** *English 3 — Part 1* — Armenia, COAF, Yerevan 2024 (Part 1 only). **Book:** *English 4 — Part 1* — Armenia, COAF, Yerevan 2025 (Part 1 only). **Book:** *English 7* — Armenia, Zangak, Yerevan 2023. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 3 Part 1 teaches numbers 1–10 inside the age lesson (Starter Unit, Lesson 3, printed p.5), then counting to 20 (Unit 1.5). Grade 4 Part 1 revises numbers bigger in its Starter Lesson (printed pp.3–13) — 1–20 and the tens to 100. Grade 7 treats numerals as a reference system in its Appendix (printed pp.152–153) — cardinal, ordinal and fractional numbers tabulated.
+
+**Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2020, ISBN 978-604-0-22405-7. **Book:** *Tiếng Anh 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2021, ISBN 978-604-0-25872-4. **Book:** *Tiếng Anh 3, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2022, ISBN 978-604-0-30721-7. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam counts late and in stages: Grade 1 reaches five inside the "How many …?" pattern (Unit 9) and ten by its last unit (Unit 16); Grade 2 presents eleven to fifteen as words (Unit 13) while sixteen to twenty are only used and glossed — a presentation gap the country file files as printed; and Grade 3, Volume 2 teaches eleven to twenty as the family unit's number set.

@@ -1,6 +1,6 @@
 # Sources — Asking with question words
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -170,10 +170,13 @@ CITATION CHECK PASSED 2026-11-03).
 | GUIDE'S OWN TEACHING (this guide keys to a newer eighteen-unit Grade 6 textbook that is not held, not to the held 2012 student's book) — wh-questions taught whole: forming and rearranging, keyed ("Where does Mr. Thapa live?", "When was Shakespeare born?", "Whose mobile phone did she use?") | Nepal, Grade 6 Teacher's Guide, Unit 18 (printed pp.132–139) |
 | The question words checked as a set — How old / What colour / When / Where — in the end-of-Part-1 progress check | Armenia — English 3, Part 1 (COAF), Progress Check Units 1–3, printed pp.94–99 |
 | Wh-questions as a headed grammar lesson, then worked again with statements in the favourite-player lesson | Armenia — English 6 (COAF), Unit 2.2, printed pp.35–39; Unit 2.4, printed pp.45–47 |
+| Wh-question words as named grammar — each question word matched to the information it asks for | Vietnam — Tiếng Anh 6, Volume 2 (Global Success), Unit 7, printed pp.6–15 (grammar heading printed p.9) |
+| Yes / No and Wh-questions formed across tenses, with question-word choice (What / Which, Why, Where, When, How) | Vietnam — Tiếng Anh 8 (Global Success), Unit 4, printed pp.40–49 |
+| Question words before to-infinitives — who/what/where/when/how + to-infinitive after ask, wonder, (not) decide, (not) tell, (not) know | Vietnam — Tiếng Anh 9 (Global Success), Unit 1, printed pp.8–17 (grammar heading printed p.11) |
 
-**Acceptance count: taught in 18 countries (Bangladesh, Egypt,
+**Acceptance count: taught in 19 countries (Bangladesh, Egypt,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
-Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia).** Mongolia tables the family with its answer
+Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).** Mongolia tables the family with its answer
 shapes; Bangladesh gives the words their voice; Egypt has
 drilled the questions and whole answers since the youngest
 books; China adds the words worked as whole units — where,
@@ -222,3 +225,5 @@ pp.18–29; reference, printed pp.111–119).
 **Nepal added 2026-11-03** — 4 books stock this lesson: **Book:** *English Grade 6* — Nepal, CDC (Revised Edition 2012; held copy truncated at p.108 — Units 1 and 3 are inside the held pages); **Book:** *ENGLISH Grade 8* — Nepal, CDC (Updated Edition 2025); **Book:** *ENGLISH Grade 9* — Nepal, CDC (First Edition 2022); **Book:** *TEACHER'S GUIDE: ENGLISH GRADE SIX* — Nepal, MoEST/CDC (Edition 2022). All filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 6 Unit 1 (pp.1–7) transforms statements into wh-questions and Unit 3 (pp.20–26) practises wh-words with do/does/did; Grade 8 Unit 12 teaches forming Wh- questions; Grade 9 Unit 17 teaches wh-questions, including in reported speech. The Grade 6 guide keys to a newer textbook that is not held, so its Unit 18 wh-question teaching (printed pp.132–139) is cited for its own teaching only.
 
 **Armenia added 2026-11-03** — 2 books stock this lesson: **Book:** *English 3 — Part 1* — Armenia, COAF, Yerevan 2024 (Part 1 only). **Book:** *English 6* — Armenia, COAF, Yerevan 2024, no ISBN printed. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia checks the question words as a set — How old / What colour / When / Where — in English 3, Part 1's end-of-Part-1 Progress Check Units 1–3 (printed pp.94–99), and teaches wh-questions as a headed grammar lesson in English 6, Unit 2.2 (printed pp.35–39), then works them again with statements in the favourite-player lesson, Unit 2.4 (printed pp.45–47).
+
+**Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 6, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25874-8. **Book:** *Tiếng Anh 8 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2023, ISBN 978-604-0-35127-2. **Book:** *Tiếng Anh 9 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2024, ISBN 978-604-0-39366-1. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam names the question-word system at Grade 6, Volume 2 — each Wh-word matched to what it asks for — works both question types across tenses at Grade 8, and adds the question-words-before-to-infinitives pattern at Grade 9. Filed plainly, as the Grade 7 book's own negatives state: Wh-questions are used constantly from the first primary book but are not taught as a system there; the system arrives with the Grade 6 rule box.

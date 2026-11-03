@@ -1,6 +1,6 @@
 # Sources — Words you don't know
 
-countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia
+countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -109,9 +109,10 @@ CHECK PASSED 2026-11-03).
 | Getting unstuck on a word taught as a named strategy set in the guide's Introduction: re-read, context clues, infer meaning, locate key words, predictions and word attack — the routes named for the teacher to teach, in the guide only | South Sudan, Primary English 3, Teacher's Guide, Introduction (printed pp.iv–x) |
 | Guessing an unknown word's meaning from its context, taught with a worked example — "I can't use this knife. It is too blunt." — inside the guide's vocabulary-teaching chapter (the guide's own teaching) | Armenia — English 10, Methodological Guide (Zangak), Introduction, printed p.5 |
 | Word Knowledge work in the earlier guide: matching English and Armenian meanings and guessing meaning from context (the guide's own teaching) | Armenia — English 7, Methodological Guide (Zangak), printed p.5 |
+| Guessing words in context named among the standing task types of every Skills 1 reading in the book — beside matching headings/definitions, true/false, multiple choice, and reference questions | Vietnam — Tiếng Anh 9 (Global Success), Skills 1 readings across Units 1–12, printed pp.8–133 (e.g. Unit 1's Skills 1 reading brochure, printed p.14) |
 
-**Acceptance count: taught in 13 countries (Bangladesh,
-Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia).** India's senior books print the
+**Acceptance count: taught in 14 countries (Bangladesh,
+Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam).** India's senior books print the
 command at every unit's head; Bangladesh names the routine;
 Ghana pairs context with word relationships; Libya's texts
 gloss in the line; China coaches the guessing itself, in a
@@ -148,3 +149,5 @@ books are read (see READING-QUEUE.md).
 **South Sudan added 2026-11-03** — PARTIAL stock, filed exactly as a partial: one book stocks this lesson in part: **Book:** *Primary English 3, Teacher's Guide* — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md (Primary 3 — English Teacher's Guide 3 (teacher's guide) section, FULLY READ + CITATION CHECK PASSED 2026-11-03). The guide's Introduction (printed pp.iv–x) sets out the reading strategies for getting unstuck on a word and for understanding a text — re-read, context clues, infer meaning, locate key words, predictions, word attack — context clues and inferring meaning named outright among them. Stated plainly: this is guide-Introduction teaching only; no read South Sudan pupil's book sets a guessing-from-context lesson, and the series' definition-and-matching vocabulary work (for example in Primary 7) is not this lesson and is not counted here.
 
 **Armenia added 2026-11-03** — GUIDE-ONLY stock, filed plainly: two books stock this lesson, both guides: **Book:** *English 10 — Methodological Guide* — Zangak, Yerevan 2023; methodology-only, cited only for its own teaching. **Book:** *English 7 — Methodological Guide* — Zangak 2023; methodology-only companion in Armenian, cited only for its own teaching. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Both guides are methodology companions to held books; the guessing teaching is the guides' own. The Grade 10 guide teaches guessing an unknown word's meaning from its context with a worked example — "I can't use this knife. It is too blunt." — inside its vocabulary-teaching chapter (Introduction, printed p.5); the Grade 7 guide's Word Knowledge work covers matching English and Armenian meanings and guessing meaning from context (printed p.5).
+
+**Vietnam added 2026-11-03** — 1 book stocks this lesson: **Book:** *Tiếng Anh 9 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2024, ISBN 978-604-0-39366-1. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Filed plainly and at its true size: guessing a word's meaning from its context is a named, standing task type of the Grade 9 book's reading strand — every Skills 1 reading text in the book is worked with it among its task types, as the country file's skills summary records. Vietnam prints no separate guessing lesson and no worked example of the strategy, and none is claimed; the stock is the named task type itself, carried by twelve units of readings.

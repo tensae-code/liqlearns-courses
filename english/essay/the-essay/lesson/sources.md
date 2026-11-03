@@ -1,6 +1,6 @@
 # Sources — The essay
 
-countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia
+countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -211,8 +211,11 @@ PASSED 2026-11-03).
 | Essay writing taught with its shape drawn — a structure diagram (hook / introduction / body / conclusion) before the pupil writes | Armenia — English 9 (COAF), Unit 2.7, printed pp.49–51 |
 | "How to build an essay and develop a thesis statement" as a Writing Spot of its own, with a model identity essay | Armenia — English 10 (Zangak), Unit 1, Writing Spot, printed p.10 |
 | The opinion essay with a model, paragraph-function matching and a "Useful Expressions" bank for giving an opinion with reasons and examples | Armenia — English 11 (COAF), Unit 2.7, printed pp.56–59 |
+| An opinion essay of 120–150 words — the year's first full essay, on limiting teenagers' screen time | Vietnam — Tiếng Anh 11 (Global Success), Unit 2, printed pp.18–27 |
+| An opinion essay of 180 words, on the impact of world festivals on young Vietnamese people | Vietnam — Tiếng Anh 12 (Global Success), Unit 2, printed pp.20–31 |
+| An essay of 180–200 words — the series' longest — on the advantages and disadvantages of home robots | Vietnam — Tiếng Anh 12 (Global Success), Unit 6, printed pp.76–87 |
 
-**Acceptance count: taught in 14 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia).**
+**Acceptance count: taught in 15 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).**
 Bolivia defines the essay and tables its general structure
 whole; Ghana grows the writing process to the essay's
 scale with the outline as its planning tool. Indonesia
@@ -271,3 +274,5 @@ READING-QUEUE.md).
 **Nepal added 2026-11-03** — three books stock this lesson: **Book:** *English Grade 9* — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre. **Book:** *English Class 10* — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre. **Book:** *English (Grade 11)* — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre. All filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Nepal's Grade 9 book **names the essay kinds in the student's book itself — an Extra bit on the four types of essays** (Unit 6, printed pp.65–78), beside that unit's essay "Our Culture Our Pride" and an essay from an outline, and sets essays as unit writing throughout the book (work and leisure, Unit 9, printed pp.107–119; the importance of history, Unit 14, printed pp.169–184; junk food, Unit 15, printed pp.185–197); Grade 10 sets an essay, "Our Culture, Our Identity" (Unit 2, printed pp.13–22), prints a model essay (Unit 3, printed pp.23–33) and sets an advantages-and-disadvantages essay (Unit 16, printed pp.174–182); and Grade 11 works an advantages/disadvantages essay on social media (Unit 3, printed pp.22–30), an argumentative essay on superstition (Unit 8, printed pp.71–78) and a ~500-word essay, "Power and Politics" (Unit 14, printed pp.130–136).
 
 **Armenia added 2026-11-03** — three books stock this lesson: **Book:** *English 9* — Armenia, COAF, Yerevan 2025, no ISBN printed. **Book:** *English 10* — Armenia, Zangak, Grigoryan, title page 2024 / © 2023, ISBN 978-9939-99-042-2. **Book:** *English 11* — Armenia, COAF, Yerevan 2025, Tonoyan/Arakelyan, no ISBN printed. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia teaches essay writing with its shape drawn: the Grade 9 book gives a structure diagram (hook / introduction / body / conclusion) before the pupil writes (Unit 2.7, printed pp.49–51); the Grade 10 book sets "How to build an essay and develop a thesis statement" as a Writing Spot of its own, with a model identity essay (Unit 1, Writing Spot, printed p.10); and the Grade 11 book teaches the opinion essay with a model, paragraph-function matching and a "Useful Expressions" bank for giving an opinion with reasons and examples (Unit 2.7, printed pp.56–59).
+
+**Vietnam added 2026-11-03** — 2 books stock this lesson: **Book:** *Tiếng Anh 11 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2023, ISBN 978-604-0-35131-9. **Book:** *Tiếng Anh 12 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2024, ISBN 978-604-0-39370-8. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam's essay arrives as named essay writing in the last two years: opinion essays at Grade 11 (120–150 words) and Grade 12 (180 words), and the advantages-and-disadvantages essay at 180–200 words — the series' writing ceiling — in Grade 12's AI unit. Below Grade 11 the writing strand is paragraphs, letters, proposals and leaflets; no essay is set, and none is claimed.

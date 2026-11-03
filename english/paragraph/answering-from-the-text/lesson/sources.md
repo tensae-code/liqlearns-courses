@@ -1,6 +1,6 @@
 # Sources — Answering from the text
 
-countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia
+countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -169,9 +169,11 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 | Every literature text answered from itself at the top of the school: each Grade 11 literature text carries an "Understanding the text" apparatus of questions on the text just read | Nepal, English (Grade 11), Section Two, printed pp.192–332 (the stories open at printed p.193) |
 | Reading lessons built to be answered from the text — "key information" comprehension work after every reading (e.g. the wheelchair racing champion text: "I am a wheelchair racing champion.") | Armenia — English 6 (COAF), Unit 2.5, printed pp.48–51 |
 | A reading closed by multiple-choice comprehension answered from the text itself | Armenia — English 11 (COAF), Unit 4.5, printed pp.110–112 |
+| Comprehension questions answered from the text after the reading — the Crazy House Hotel email reading, in the unit that also carries an explicit Reading skill box (predicting) | Vietnam — Tiếng Anh 6, Volume 1 (Global Success), Unit 2, printed p.22 (reading; the unit runs printed pp.16–25) |
+| Reference questions as a standing task type — "the word 'them' / 'that' / 'it' refers to …" — answered from the text just read | Vietnam — Tiếng Anh 9 (Global Success), Skills 1 readings across Units 1–12, printed pp.8–133 (e.g. Unit 2's Teenovator reading, printed p.23) |
 
-**Acceptance count: taught in 17 countries (Egypt, Ghana,
-India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia).** India builds the carrier hunt into the page and
+**Acceptance count: taught in 18 countries (Egypt, Ghana,
+India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).** India builds the carrier hunt into the page and
 prints the question-kind border; Ghana demands textual
 evidence under personal responses; Egypt examines by the
 unseen passage; China grades the answering shapes themselves
@@ -224,3 +226,5 @@ books are read (see READING-QUEUE.md).
 **Nepal added 2026-11-03** — two books stock this lesson: **Book:** *English Grade 6* — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre. **Book:** *English (Grade 11)* — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre. All filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Answering from the text is the standing comprehension work of the set: the **Grade 6 book's symmetrical unit pattern** — Look and answer → Read and answer → True or false → Read and answer again — answers every held unit's reading from the text itself (Units 1–12, printed pp.1–108; the held copy is truncated at printed p.108 and misbound, and only its held units are cited), and **every Grade 11 literature text carries an "Understanding the text" apparatus** of questions on the text just read (Section Two, printed pp.192–332). Stated plainly: the questions are the books' standing comprehension questions — no read Nepal book names a scanning, line-reference or not-given answering strategy.
 
 **Armenia added 2026-11-03** — two books stock this lesson: **Book:** *English 6* — Armenia, COAF, Yerevan 2024, no ISBN printed. **Book:** *English 11* — Armenia, COAF, Yerevan 2025, Tonoyan/Arakelyan, no ISBN printed. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia's reading lessons are built to be answered from the text: the Grade 6 book sets "key information" comprehension work after every reading (e.g. the wheelchair racing champion text: "I am a wheelchair racing champion.", Unit 2.5, printed pp.48–51), and the Grade 11 book closes a reading with multiple-choice comprehension answered from the text itself (Unit 4.5, printed pp.110–112).
+
+**Vietnam added 2026-11-03** — 2 books stock this lesson: **Book:** *Tiếng Anh 6, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25873-1. **Book:** *Tiếng Anh 9 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2024, ISBN 978-604-0-39366-1. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Answering from the text is the standing comprehension shape of the whole series: every reading from Grade 6 on closes with questions answered from the text itself, and Grade 9 adds reference questions — what 'them', 'that' or 'it' refers to — as a named standing task type. Stated plainly: no Vietnam book names a scanning or line-reference answering strategy; the stock is the standing question work itself, as with the other countries carried on those terms.

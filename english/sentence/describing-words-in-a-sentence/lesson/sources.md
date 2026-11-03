@@ -1,6 +1,6 @@
 # Sources — Describing words in a sentence
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -185,10 +185,13 @@ CITATION CHECK PASSED 2026-11-03).
 | Describing words at work in their first sentences — "He is happy." for feelings, then "My friend is smart." with tall, young, smart for describing a friend | Armenia — English 3, Part 1 (COAF), Unit 1.2, printed p.11; Unit 1.3, printed p.14 |
 | Describing people as a unit's whole work — appearance and personality adjectives first, then comparing people, places and things with them | Armenia — English 6 (COAF), Unit 1.1, printed pp.4–6; Unit 1.2, printed pp.7–12 |
 | The order describing words fall in — adjective order taught as a named point | Armenia — English 7 (Zangak), Unit 1, printed p.12 |
+| Describing a person in sentences — "He's tall." / "He has a round face." — under the one question "What does he / she look like?" | Vietnam — Tiếng Anh 4, Volume 2 (Global Success), Unit 13, printed pp.18–23 |
+| Description sentences with is/are — "The door is big. / The windows are small." — with big, small, new, old | Vietnam — Tiếng Anh 3, Volume 2 (Global Success), Unit 14, printed pp.24–29 |
+| Appearance and personality adjectives worked in sentences — careful, shy, creative, clever, kind, friendly, hard-working, confident, funny, caring, active | Vietnam — Tiếng Anh 6, Volume 1 (Global Success), Unit 3, printed pp.26–35 |
 
-**Acceptance count: taught in 18 countries (Bangladesh,
+**Acceptance count: taught in 19 countries (Bangladesh,
 Egypt, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia).** Bangladesh pictures the before-home in
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).** Bangladesh pictures the before-home in
 eight pairs; Mongolia names the describing law, writes the
 sense-verb home, and posts the comparing border — and its
 Grade 5 picture book now adds describing stock in pictures
@@ -265,3 +268,5 @@ Grade 11 (Student's Book, Unit 3, printed p.34).
 **Nepal added 2026-11-03** — 5 books stock this lesson: **Book:** *MY ENGLISH BOOK Grade II* — Nepal, CDC; **Book:** *English Grade 6* — Nepal, CDC (Revised Edition 2012; held copy truncated at p.108 — Unit 12, pp.102–108, is the last held unit and is cited only as far as the held pages run); **Book:** *ENGLISH Grade 9* — Nepal, CDC (First Edition 2022); **Book:** *English Grade 12* — Nepal, CDC (First Edition 2021); **Book:** *My English 1 Teacher's Guide* — Nepal, MoEST/CDC (First Edition 2020). All filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 2 Unit 8 (pp.46–50) works adjectives inside sentences; Grade 6 Unit 12 teaches comparatives and superlatives; Grade 9 Unit 18 (pp.224–236) teaches adjectives, adverbs and their comparison; Grade 12 Unit 20 (pp.170–179) teaches adjective order. The Grade 1 guide keys to a newer workbook that is not held, so its Lesson 107 "Big and Small" is cited for its own teaching only.
 
 **Armenia added 2026-11-03** — 3 books stock this lesson: **Book:** *English 3 — Part 1* — Armenia, COAF, Yerevan 2024 (Part 1 only). **Book:** *English 6* — Armenia, COAF, Yerevan 2024, no ISBN printed. **Book:** *English 7* — Armenia, Zangak, Yerevan 2023, Grigoryan, ISBN 978-9939-99-035-4. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia works describing words in their first sentences in Grade 3, Part 1 — "He is happy." for feelings (Unit 1.2, printed p.11), then "My friend is smart." with tall, young, smart for describing a friend (Unit 1.3, printed p.14) — makes describing people a unit's whole work in Grade 6, Unit 1.1 (printed pp.4–6) and Unit 1.2 (printed pp.7–12), appearance and personality adjectives first, then comparing people, places and things with them, and teaches the order describing words fall in — adjective order as a named point — in Grade 7, Unit 1 (printed p.12).
+
+**Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 4, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2023, ISBN 978-604-0-35121-0. **Book:** *Tiếng Anh 3, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2022, ISBN 978-604-0-30721-7. **Book:** *Tiếng Anh 6, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25873-1. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam works describing words inside description sentences from primary on: Grade 3, Volume 2 describes the bedroom with is/are sentences (the door is big, the windows are small); Grade 4, Volume 2 makes "What does he/she look like?" a unit's whole question, answered in is/has description sentences; and Grade 6, Volume 1 carries the appearance-and-personality adjective set as its friends unit's vocabulary.

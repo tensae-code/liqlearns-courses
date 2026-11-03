@@ -1,6 +1,6 @@
 # Sources — The story
 
-countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia
+countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -202,9 +202,11 @@ PASSED 2026-11-03).
 | Complete stories read whole at the top of the school, each with its own study apparatus: Wilde's "The Selfish Giant", Poe's "The Oval Portrait", Tolstoy's "God Sees the Truth but Waits", Dahl's "The Wish", Achebe's "Civil Peace" among the seven Grade 11 literature stories | Nepal, English (Grade 11), Section Two, printed pp.193–240 |
 | Storytelling named into its elements — plot, character, visuals, music — over The Hobbit as book and film | Armenia — English 9 (COAF), Unit 4.3, printed pp.91–92 |
 | Stories built from pictures — picture-story writing, then a story written from pictures in the nature unit's Writing Spot | Armenia — English 7 (Zangak), Unit 1, printed p.24; Unit 3, Writing Spot, printed p.65 |
+| A complete short story read whole — "The Fox and the Crow", with True/False questions — inside the Stories for children unit | Vietnam — Tiếng Anh 5, Volume 2 (Global Success), Unit 17, printed pp.46–51 |
+| The story's people named as its element — "Who are the main characters in the story? — They're …" — with a Character Map as the unit's writing task and a Telling a story project | Vietnam — Tiếng Anh 5, Volume 2 (Global Success), Unit 17, printed pp.46–51 |
 
-**Acceptance count: taught in 16 countries (Bangladesh,
-Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia).** Ghana names the narrative mode; Bangladesh
+**Acceptance count: taught in 17 countries (Bangladesh,
+Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).** Ghana names the narrative mode; Bangladesh
 teaches stories from its earliest classes with the fables;
 Egypt reads whole stories through the secondary years;
 China names the story's three parts outright (setting,
@@ -260,3 +262,5 @@ READING-QUEUE.md).
 **Nepal added 2026-11-03** — PARTIAL stock, filed exactly as a partial: three books stock this lesson in part: **Book:** *English Grade 7* — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre. **Book:** *English Grade 8* — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre. **Book:** *English (Grade 11)* — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre. All filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Story writing is worked from the story's own order: Grade 7 **reorders "The Hare and the Tortoise" and writes the thirsty-crow story from hints** (Unit 13, printed pp.128–141), **reorders and develops stories** (the lion and the mouse; the bundle of sticks, Unit 16, printed pp.166–178) and **writes the crane-and-fish story from points** (Unit 8, printed pp.77–87); Grade 8 writes **skeleton stories** (Unit 2, printed pp.13–24), practises **story ordering and picture-story writing** (Unit 16, printed pp.201–213) and writes **a story from an opening line** (Unit 19, printed pp.238–253); and Grade 11 reads **seven complete literature stories whole**, each with its study apparatus (Section Two, printed pp.193–240). Stated plainly: no read Nepal book names the story's furniture — setting, characters, plot — as a taught craft, so that naming rests on the other countries.
 
 **Armenia added 2026-11-03** — two books stock this lesson: **Book:** *English 9* — Armenia, COAF, Yerevan 2025, no ISBN printed. **Book:** *English 7* — Armenia, Zangak, Yerevan 2023, Grigoryan, ISBN 978-9939-99-035-4. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia names storytelling into its elements — plot, character, visuals, music — over The Hobbit as book and film (English 9, Unit 4.3, printed pp.91–92), and builds stories from pictures — picture-story writing in English 7 (Unit 1, printed p.24), then a story written from pictures in the nature unit's Writing Spot (Unit 3, Writing Spot, printed p.65).
+
+**Vietnam added 2026-11-03** — PARTIAL stock, filed exactly as a partial: 1 book stocks this lesson in part: **Book:** *Tiếng Anh 5, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2024, ISBN 978-604-0-39362-3. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 5, Volume 2's Stories for children unit (printed pp.46–51) reads one complete short story whole — "The Fox and the Crow" — and names the story's characters as its element: "Who are the main characters in the story?", with a Character Map as the writing work and a Telling a story project. Stated plainly: setting and plot are never named as taught craft anywhere in the sixteen books, so Vietnam's stock here is the characters and the whole-story reading, and the rest of the story's furniture rests on the other countries.
