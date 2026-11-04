@@ -1,6 +1,6 @@
 # Sources — Words you don't know
 
-countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan, Yemen
+countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan, Yemen, Afghanistan
 
 Every part traces to its book and page.
 
@@ -118,9 +118,11 @@ CHECK PASSED 2026-11-03).
 | A full page on working out the meanings of new words from context - synonyms, antonyms, definitions, examples, cause/effect, purpose, and word formation (prefixes/suffixes/compounds) - printed inside the headlines lesson | Yemen, *English Course for Yemen* Pupil's Book 6 (Grade 12), Unit 2, lesson 2.1, printed p.9 |
 | The meaning-clues page used as the course's reference: the job-notices lesson cross-refers pupils back to it ('vocabulary-in-context work ... cross-referring pupils back to the meaning-clues page, p.9') | Yemen, *English Course for Yemen* Pupil's Book 6 (Grade 12), Unit 3, printed p.17 |
 | Word-meaning guessing practised on a reading text in the workbook (the fish-curry dialogue: 'word-meaning guessing' among its tasks) | Yemen, *English Course for Yemen* Work Book 6 (Grade 12), Unit 4, lesson 4.3 (Unit 4, printed pp.41-54) |
+| Guessing a word's meaning from context — and from capitalised names — taught and practised inside the fire unit's reading-skills block, alongside the other ways to get meaning from a passage | Afghanistan, *English for Afghanistan: Student's Book*, Grade 11, Unit 1, printed pp.12–18 |
+| The word-study promise printed over the book's spreads — "You won't need a dictionary for these words" — each new word matched to its definition from context (shown here from the food unit's spread: nutrients, deficiency, calcium, scurvy, limes) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 11, Unit 4, printed p.60 |
 
-**Acceptance count: taught in 17 countries (Bangladesh,
-Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan, Yemen).** India's senior books print the
+**Acceptance count: taught in 18 countries (Bangladesh,
+Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan, Yemen, Afghanistan).** India's senior books print the
 command at every unit's head; Bangladesh names the routine;
 Ghana pairs context with word relationships; Libya's texts
 gloss in the line; China coaches the guessing itself, in a
@@ -167,3 +169,6 @@ books are read (see READING-QUEUE.md).
 **Malaysia checked 2026-11-04 — not stocked.** Malaysia's nearest item is Form 3's Unit 4 reading strategy "worrying about new words" — i.e. NOT worrying about them (*Close-Up* B1, Unit 4, pp.43–54) — an attitude tip, not a method; no held Malaysian book teaches inferring an unknown word's meaning from context as a routine, and its dictionary strand is look-up skill, filed under Using the Dictionary. Malaysia is deliberately absent from this lesson's countries line — checked, not unlooked-for. (Full read in english/books/malaysia.md, FULLY READ + CITATION CHECK PASSED 2026-11-04.)
 
 **Yemen added 2026-11-04** - 2 books stock this lesson: **Book:** *English Course for Yemen - Pupil's Book 6* (Grade 12, pupil's book) - Yemen, Ministry of Education and Scientific Research; the ministry re-issue (print line 2027-1448) of the Crescent course prepared by Terry O'Neill and Peter Snow through Garnet Publishing Limited (c) 2000; no ISBN is printed in any Yemen book, and every grade rests on series position (Book N = Grade N+6). Filed in english/books/yemen.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). **Book:** *English Course for Yemen - Work Book 6* (Grade 12, workbook) - Yemen, Ministry of Education and Scientific Research; the companion workbook in the older ministry style (Ministry of Education), its imprint (printed p.118) naming Terry O'Neil [as printed] and Peter Snow through Garnet Publishing Limited, Copyright @ 2000 [as printed]; no 2027-1448 print line and no ISBN. Filed in english/books/yemen.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Yemen stocks this lesson in full from Grade 12: Pupil's Book 6 gives a whole page to working out new words from context - by synonym, antonym, definition, example, cause/effect, purpose and word formation - and later lessons send pupils back to that page as the course's meaning-clues reference. Work Book 6 practises word-meaning guessing on its texts.
+
+
+**Afghanistan added 2026-11-04** — 1 book stocks this lesson: **Book:** *English for Afghanistan: Student's Book*, Grade 11 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan teaches the guessing strategy outright: Grade 11's first unit shows how to get an unknown word's meaning from its context, and the whole book's word-study spreads are built on the same move — meet the word in its passage, match it to its meaning, no dictionary needed.

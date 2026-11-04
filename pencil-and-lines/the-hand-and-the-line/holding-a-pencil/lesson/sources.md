@@ -94,3 +94,5 @@ Counts grow as other finished countries' first books are read.
 **Malaysia checked 2026-11-04 — not stocked.** No pencil-grip or pencil-holding teaching appears anywhere in Malaysia's held set of ten files. Malaysia is deliberately absent from this lesson's countries line — checked, not unlooked-for.
 
 **Yemen checked 2026-11-04 - not stocked.** Yemen's English starts at Grade 7 and no held book teaches how to hold a pencil or any grip. The nearest material is Workbook 1's digit- and letter-tracing (Unit 1) - handwriting practice, not grip teaching - so nothing is stocked.
+
+**Afghanistan checked 2026-11-04 — not stocked.** No grip teaching exists in any of the nine held books. The nearest material is Grade 6's six tips for improving handwriting (Unit 4, printed p.31 — choose the right pen, pick the right paper, slow down, copy handwriting you like, let the line be your guide, lower the pressure), which never show, name or correct how the pencil is held. Grade 4's writing work is copying letters on ruled lines. Nothing is stocked.

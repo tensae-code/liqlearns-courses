@@ -1,6 +1,6 @@
 # Sources for this lesson — Blends
 
-countries: Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen
+countries: Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -56,8 +56,11 @@ pictures).
 | Initial blends worked explicitly for clothes and routine words: tr, dr, bl/br, sh | Yemen, *English Course for Yemen* Workbook 1 (Grade 7), Unit 6, exercise 6.7, printed p.50 |
 | Initial blends fr/fl and st/str practised in Unit 7 spelling work | Yemen, *English Course for Yemen* Workbook 1 (Grade 7), Unit 7, exercise 7.12, printed p.68 |
 | Initial-sound and blend choices (p/b, b/d, b/br, c/ch) for pictured words - the book's earliest blend work | Yemen, *English Course for Yemen* Workbook 1 (Grade 7), Unit 4, exercise 4.10, printed p.26 |
+| Consonant blends taught as spelling-sound patterns with a stated blend rule — L blends (flag, clay, plant) in the time unit's phonics lesson | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 2, Lesson 4, printed pp.19–22 |
+| R blends (crab, dress, brown) as the next unit's phonics pattern | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 3, Lesson 4, printed pp.30–33 |
+| S blends as the third blend set, in the famous-people unit's phonics lesson | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 5, Lesson 4, printed pp.50–53 |
 
-**Acceptance count: taught in 16 countries (Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen).**
+**Acceptance count: taught in 17 countries (Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan).**
 China joins with blends taught two at a time on Let's spell
 pages in Grade 5 (cl/pl, gr/br) and sorted again in the
 end-of-primary grouping review (Grade 6 Volume 2). Iran joins
@@ -308,3 +311,6 @@ into gr/sl/cr/br jars.
 **Malaysia added 2026-11-04** — **Book:** *KSSR English Language Scheme of Work, Primary Year 2 (SK)* (Scheme of Work — teacher planning document) — Malaysia, Curriculum Development Division (BPK), Ministry of Education; it maps *Superminds 1* Units 5–9 (pp.58–117), a pupil's book that is NOT held. Filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). MAPPED PARTIAL STOCK, recorded as such: Malaysia stocks this lesson on mapped curriculum coverage only, on the same Year 2 phonics citation as blending-sounds — the Year 2 Scheme of Work's phonics strand for the Introduction + Free Time block (Lessons 1–30, headers at printed pp.24–86) covers phoneme blends in CVC, CCVC, CVCV and CCV words. No named blend set, blend lesson or pupil's-book page is held or claimed; the strand is mapped, not read in a pupil's book. The split is stated plainly: Schemes of Work are not pupil's textbooks; the Phonics Table itself is not printed in any Scheme of Work — it lives in the absent Teacher's Book; and Form 1's filed negatives state NO systematic phonics in the secondary set — "Say Right" is vowel/diphthong discrimination through whole-word lists, never grapheme rules.
 
 **Yemen added 2026-11-04** - 1 book stock this lesson: **Book:** *English Course for Yemen - Workbook 1* (Grade 7, workbook) - Yemen, Ministry of Education and Scientific Research; the ministry re-issue (print line 2027-1448) of the Crescent course prepared by Terry O'Neill and Peter Snow through Garnet Publishing Limited (c) 2000; no ISBN is printed in any Yemen book, and every grade rests on series position (Book N = Grade N+6). Filed in english/books/yemen.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Yemen names this work itself: Workbook 1 practises 'initial blends' as spelling work - tr, dr, bl/br and sh over clothes and routine words, then fr/fl and st/str - on top of its Unit 4 initial-sound choices. It is blend recognition and spelling inside a workbook, not a reading method, and the rows are worded that way.
+
+
+**Afghanistan added 2026-11-04** — 1 book stocks this lesson: **Book:** *English for Afghanistan: Student's Book*, Grade 8 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan's blends arrive in Grade 8, whose Lesson 4 phonics slots run a blend ladder: L blends first, with the blend rule stated, then R blends, then S blends. The earlier books teach vowel rules only (Grade 7's short and long vowel rules), so the blend stock is Grade 8's alone.

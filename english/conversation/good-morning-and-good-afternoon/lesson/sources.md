@@ -1,6 +1,6 @@
 # Sources for this lesson — Good morning and good afternoon
 
-countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia
+countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -37,8 +37,12 @@ explains one thing only.
 | "Good morning, class." — the morning greeting as the first speech bubble of the first lesson (Sudan's filed books teach the morning greeting only: no "Good afternoon" greeting occurs anywhere in the Sudan read) | Sudan — SMILE Book 2 Pupil's Book, Grade 4, Unit 1 "Welcome Back to English", Lesson 1, printed p.1 |
 | "Good morning / Good afternoon / Good evening" — the greetings that follow the time of day, taught as one set in the first unit | Rwanda — Success English for Rwandan Schools, Primary 1 Pupil's Book, Unit 1 "Welcome to the classroom", printed pp.1–7 |
 | Greetings as mapped curriculum coverage only — pupils learn to greet, say goodbye and thank you (Scheme of Work evidence, not a pupil's-book page) | Malaysia, Year 1 Scheme of Work (KSSR), Friends starter topic (Lessons 1–17), printed pp.26–60 |
+| "Good morning" as the first unit's greeting dialogue | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Unit One, printed p.13 |
+| "Good afternoon" as its own unit's greeting dialogue, one unit later — the afternoon greeting taught as its own exchange, not folded into the morning one | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Unit Two, printed p.22 |
+| "Good evening" completes the day's greeting set in the next unit | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Unit Three, printed p.31 |
+| Morning and afternoon greetings exchanged together in the book's final review dialogue | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Unit Fifteen (Review), printed p.137 |
 
-**Acceptance count: taught in 20 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia).**
+**Acceptance count: taught in 21 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan).**
 China teaches the pair inside its colours unit in the first
 primary book; Mongolia stocks the day-part ground the greeting
 stands on — one boy's whole day told in clock pictures — from a
@@ -317,3 +321,6 @@ is recorded.
 **Malaysia added 2026-11-04** — 1 file stocks this lesson: **Book:** *KSSR English Language Scheme of Work, Primary Year 1 (SK)* (Scheme of Work — teacher planning document) — Malaysia, Curriculum Development Division (BPK), Ministry of Education; it maps *Superminds 1* (Cambridge) pp.4–57, a pupil's book that is NOT held. Filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Malaysia's primary files are KSSR Schemes of Work, not pupil's textbooks; the mapped pupil's book Superminds 1 is not held; no primary citation is a pupil's-book page. Malaysia stocks this lesson as mapped curriculum coverage only: in the Year 1 Scheme of Work, the Friends starter topic (Lessons 1–17, headers at printed pp.26–60) has pupils learn to greet, say goodbye and thank you. Worded plainly: the map's greeting stock is the year's opening greeting set; no Form (secondary) book teaches basic greetings — they assume them.
 
 **Yemen checked 2026-11-04 - not stocked.** Neither 'Good morning' nor 'Good afternoon' is printed as a greeting anywhere in the 13 held books (checked across english/books/yemen.md). Yemen's greeting stock - hello and leave-taking - sits under Hello and Your Name, so nothing is stocked.
+
+
+**Afghanistan added 2026-11-04** — 1 book stocks this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 4 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan stocks both halves of this lesson in full from its first book: Grade 4 gives "Good morning", "Good afternoon" and "Good evening" one unit each as the greeting dialogue of the unit, then exchanges morning and afternoon together in its final review. Few sets in the pool teach the afternoon greeting as its own exchange; this one does.

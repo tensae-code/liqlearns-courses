@@ -1,6 +1,6 @@
 # Sources — Building a sentence
 
-countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen
+countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan
 
 Every part traces to its book and page.
 
@@ -134,6 +134,9 @@ CITATION CHECK PASSED 2026-11-03).
 | Sentence work at the top of primary’s ladder upward: Writing is constructing sentences, then developing a paragraph with cohesive devices | Ethiopia, Grade 9 Student's Book, Unit 1 "Living in Urban Areas," printed pp.1–31 |
 | Sentence types named as the writing work of the travel unit | Ethiopia, Grade 10 Student's Book, Unit 2 "Travel Behaviors," printed pp.37–64 |
 | Sentence types by function and structure as named writing work (1F), with sentence-structure errors — fragments, run-ons, comma splices | Ethiopia, Grade 11 Student's Book, Unit 1 "Environmental Hazards," Writing (1F), printed pp.1–32 |
+| The set's first full sentence models — "It is an ant.", "It is a ball.", "It is a car.", "It is a desk.", "It is an eagle.", "It is a fox." — read, copied, and answered with ("What is this?") | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Unit Six, printed pp.58–59 |
+| The model frame turns: "This is a glass.", "This is an ice cream." as the next unit's sentence set | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Unit Seven, printed p.67 |
+| Sentences joined into one by relative clauses — who/that for people, which/that for things, when for time, where for place — with completion and sentence-making | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 10, Lesson 1, printed pp.101–102 |
 
 | Subject, verb and object named and worked: subject, verb and object underlining, with transitive and intransitive verbs named, and subject/predicate work beside it | South Africa — English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks), printed pp.116–117 |
 | Simple sentences built as subject + predicate | South Africa — English Home Language, Grade 4 Workbook 2 (Rainbow Workbooks), printed p.39 |
@@ -186,9 +189,9 @@ CITATION CHECK PASSED 2026-11-03).
 | A second sentence-anatomy table in the jobs unit, applied the same way | Yemen, *English Course for Yemen* Work Book 2 (Grade 8), Unit 7, exercise 7.13 (Unit 7, printed pp.91-106) |
 | Word order in statements and questions reviewed as a named point, including indirect questions ('the subject comes before the verb') | Yemen, *English Course for Yemen* Pupil's Book 5 (Grade 11), Language review 3, printed p.31 |
 
-**Acceptance count: taught in 26 countries (Bangladesh,
+**Acceptance count: taught in 27 countries (Bangladesh,
 Bolivia, Ghana, Mongolia, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen).** Bolivia states the formula;
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan).** Bolivia states the formula;
 Ghana names the two parts; Bangladesh drills the building
 from tables; Mongolia checks the order; China adds the
 this/these, that/those sentence system, taught as one
@@ -229,3 +232,6 @@ READING-QUEUE.md).
 **Malaysia added 2026-11-04** — 2 books/files stock this lesson: **Book:** *English Form 1* (student's book) — Malaysia, Pelangi, KSSM, first published 2016, ISBN 978-983-00-8245-5. Filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-04) **Book:** Form 5 KPM textbook under licence from Hamilton House Publishers (student's book) — Malaysia, Malaysian ISBN 978-967-0951-44-7, Malaysian edition first published 2021; the held copy is front-incomplete (printed pp.1–4 absent) and no title is printed in the copy, so only held pages are cited. Filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Malaysia stocks this lesson **in part only, and it is filed as a partial**: no Malaysia book in the held set teaches a word-order or subject-and-verb sentence-building unit, and none is claimed. What Malaysia stocks is the two ends of the sentence's work — **subject–verb agreement taught with the singular/plural noun system in Form 1, Chapter 5 (pp.51–62)**, the book's sentence-foundation grammar, and, at the top of the school, **Form 5's Unit 10 Writing (pp.130–131): writing long sentences, joining ideas with although/even though, in spite of/despite** and similar linkers. Agreement plus sentence-joining is the whole of Malaysia's stock here.
 
 **Yemen added 2026-11-04** - 2 books stock this lesson: **Book:** *English Course for Yemen - Work Book 2* (Grade 8, workbook) - Yemen, Ministry of Education and Scientific Research; the ministry re-issue (print line 2027-1448) of the Crescent course prepared by Terry O'Neill and Peter Snow through Garnet Publishing Limited (c) 2000; no ISBN is printed in any Yemen book, and every grade rests on series position (Book N = Grade N+6). Filed in english/books/yemen.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). **Book:** *English Course for Yemen - Pupil's Book 5* (Grade 11, pupil's book) - Yemen, Ministry of Education and Scientific Research; the ministry re-issue (print line 2027-1448) of the Crescent course prepared by Terry O'Neill and Peter Snow through Garnet Publishing Limited (c) 2000; no ISBN is printed in any Yemen book, and every grade rests on series position (Book N = Grade N+6). Filed in english/books/yemen.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Yemen's sentence stock is anatomy work: Work Book 2 twice sets pupils a Subject / Verb / Object / When / Where / How table to pull the unit's sentences apart, and Pupil's Book 5 reviews word order in statements and questions by name. There is no earlier sentence-building lesson - the course starts at Grade 7 and assumes the sentence from Book 1.
+
+
+**Afghanistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 4 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 9 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan's sentence building starts from Grade 4's model frames — the It is a… set of Unit Six is the first full sentences in the whole course — and reaches clause-joining in Grade 9, where relative clauses are taught as the way two sentences become one.

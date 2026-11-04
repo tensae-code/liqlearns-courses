@@ -192,3 +192,5 @@ here.
 **Malaysia checked 2026-11-04 — not stocked.** The Year 1 map's writing work is letter formation and copying ("forming letters/words in neat print") — letter formation, not pre-writing line/stroke work; no stroke or line-drawing curriculum appears in any year's map or in the Form books. Malaysia is deliberately absent from this lesson's countries line — checked, not unlooked-for.
 
 **Yemen checked 2026-11-04 - not stocked.** No held Yemen book teaches drawing lines or any pre-writing line work. Workbook 1's tracing is of digits and letters (handwriting inside the alphabet and numbers work), and a course that starts at Grade 7 has no pre-writing stage, so nothing is stocked.
+
+**Afghanistan checked 2026-11-04 — not stocked.** No line-drawing teaching exists in any of the nine held books. Grade 4's ruled-line work is letter copying; Grade 5's shapes unit (Unit 12, printed p.125) names line, circle, triangle, rectangle, oval and diamond as vocabulary to name and describe, not lines to draw; Grade 12's calligraphy unit is about scripts and handwriting. Nothing is stocked.

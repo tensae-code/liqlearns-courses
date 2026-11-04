@@ -1,6 +1,6 @@
 # Sources for this lesson — Introducing a friend
 
-countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen
+countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -62,12 +62,14 @@ disk 2026-10-25: %PDF, 190 pp).
 | PARTIAL - an introductions dialogue: 'A good neighbour' - new neighbours introduce themselves and each other in conversation (the same lesson builds indirect questions on it) | Yemen, *English Course for Yemen* Pupil's Book 4 (Grade 10), Unit 3, printed p.20 |
 | PARTIAL - meeting someone formally: 'Fuad meets Yuki' - formal greetings ('How do you do?'), meeting the family, first impressions | Yemen, *English Course for Yemen* Pupil's Book 3 (Grade 9), Unit 4, printed p.30 |
 | The limit, stated plainly: both scenes are people introducing themselves on meeting - no held Yemen book stages presenting a friend to a third person by name, so the lesson's central act is not modelled | Yemen, the held set as filed in english/books/yemen.md (Pupil's Book 3 and Pupil's Book 4 sections) |
+| Introducing another person taught as role-play: introduce a relative or friend, greet, then swap roles | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 2, printed p.14 |
+| An introductions conversation — "Glad to meet you" — inside the family unit, after the family-tree work | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 5, Lesson 2, printed pp.44–45 |
 
 The same dialog also carries the age exchange and the toy-fish
 talk — those parts are filed in their own places (age: english/age/
 how-old-are-you), not here.
 
-**Acceptance count: taught in 23 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen).**
+**Acceptance count: taught in 24 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan).**
 Egypt carries introducing the family — "This is my father /
 mother / sister …" with the "Who's this?" exchange, and a year
 deeper the whole family lineup with my / his / her on family
@@ -459,3 +461,6 @@ filed South Sudan read, and none is claimed here.
 **Malaysia added 2026-11-04** — 1 file stocks this lesson: **Book:** *KSSR English Language Scheme of Work, Primary Year 1 (SK)* (Scheme of Work — teacher planning document) — Malaysia, Curriculum Development Division (BPK), Ministry of Education; it maps *Superminds 1* (Cambridge) pp.4–57, a pupil's book that is NOT held. Filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Malaysia's primary files are KSSR Schemes of Work, not pupil's textbooks; the mapped pupil's book Superminds 1 is not held; no primary citation is a pupil's-book page. Malaysia stocks this lesson as mapped curriculum coverage only, worded as introducing yourself and introducing/naming others: in the Year 1 Scheme of Work, the Friends starter topic (Lessons 1–17, headers at printed pp.26–60) has pupils learn to introduce themselves and name others ("He's, She's …"), and the At School topic (Superminds 1 Unit 1, Lessons 18–47, headers at printed pp.62–123) adds "This is my …".
 
 **Yemen added 2026-11-04 - PARTIAL stocking** - 2 books stock this lesson in part: **Book:** *English Course for Yemen - Pupil's Book 4* (Grade 10, pupil's book) - Yemen, Ministry of Education and Scientific Research; the ministry re-issue (print line 2027-1448) of the Crescent course prepared by Terry O'Neill and Peter Snow through Garnet Publishing Limited (c) 2000; no ISBN is printed in any Yemen book, and every grade rests on series position (Book N = Grade N+6). Filed in english/books/yemen.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). **Book:** *English Course for Yemen - Pupil's Book 3* (Grade 9, pupil's book) - Yemen, Ministry of Education and Scientific Research; the ministry re-issue (print line 2027-1448) of the Crescent course prepared by Terry O'Neill and Peter Snow through Garnet Publishing Limited (c) 2000; no ISBN is printed in any Yemen book, and every grade rests on series position (Book N = Grade N+6). Filed in english/books/yemen.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). PARTIAL stocking. Yemen teaches introductions as meeting scenes - neighbours introducing themselves (Grade 10) and a formal first meeting with 'How do you do?' (Grade 9) - but never the act of introducing a friend to someone else. Filed as a partial on the meeting/introduction material that is really there.
+
+
+**Afghanistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 6 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 7 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan teaches introducing another person outright in Grade 6: the nationality unit's closing task is a role-play in which the pupil introduces a relative or friend and then swaps roles. Grade 7's family unit carries the meeting side of the same ground in its "Glad to meet you" introductions conversation.

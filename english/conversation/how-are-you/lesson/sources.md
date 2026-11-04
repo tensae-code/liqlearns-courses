@@ -1,6 +1,6 @@
 # Sources for this lesson — How are you?
 
-countries: Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia
+countries: Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -47,8 +47,11 @@ Libya (Garnet) · Books verified on disk 2026-10-25.
 | The question in a telephone-conversation completion — "Hello Lee, how are you?" (the country file quotes the question only for this exercise; no answer is filed for it, and none is claimed here) | Sudan — SMILE Book 3 Activity Book, Grade 5, Unit 9 "Wonders of the World", printed pp.69–76 |
 | "How are you? — I am fine, thank you" — the well-being exchange inside the first unit's greetings (one answer only, as filed — no wider answer set and no return question is recorded for Rwanda) | Rwanda — Success English for Rwandan Schools, Primary 1 Pupil's Book, Unit 1 "Welcome to the classroom", printed pp.1–7 |
 | "How are you? I'm fine, thanks" — among the unit's mapped structures, as mapped curriculum coverage only (Scheme of Work evidence, not a pupil's-book page) | Malaysia, Year 1 Scheme of Work (KSSR), At School topic (Superminds 1 Unit 1, Lessons 18–47), printed pp.62–123 |
+| "Hello, how are you? — I am fine, thank you." as the unit's greeting dialogue | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Unit Four, printed p.40 |
+| The exchange re-run in the first review unit: "Good morning… How are you today? — Fine, thank you." | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Unit Five (Review), printed p.49 |
+| "How are you? — We are fine, thank you." opening the body unit's dialogue | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Unit Fourteen, printed p.128 |
 
-**Acceptance count: taught in 20 countries (Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
+**Acceptance count: taught in 21 countries (Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 China joins with the exchange itself in its first primary book
 (Grade 3 Volume 1) and deepens it three years later into feelings
 talk — "How do you feel?", "What's wrong?" (Grade 6 Volume 1).
@@ -325,3 +328,6 @@ is recorded for South Sudan, and none is claimed here.
 **Malaysia added 2026-11-04** — 1 file stocks this lesson: **Book:** *KSSR English Language Scheme of Work, Primary Year 1 (SK)* (Scheme of Work — teacher planning document) — Malaysia, Curriculum Development Division (BPK), Ministry of Education; it maps *Superminds 1* (Cambridge) pp.4–57, a pupil's book that is NOT held. Filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Malaysia's primary files are KSSR Schemes of Work, not pupil's textbooks; the mapped pupil's book Superminds 1 is not held; no primary citation is a pupil's-book page. Malaysia stocks this lesson as mapped curriculum coverage only: in the Year 1 Scheme of Work, the At School topic (Superminds 1 Unit 1, Lessons 18–47, headers at printed pp.62–123) lists "How are you? I'm fine, thanks" among the unit's mapped structures.
 
 **Yemen checked 2026-11-04 - not stocked.** No 'How are you?' exchange is taught anywhere in the 13 held books. Book 1's greetings (Pupil's Book 1, Unit 2, printed p.3) are hello and leave-taking exchanges, filed under Hello and Your Name; the feelings adjectives of Pupil's Book 2 (Unit 3, printed pp.22-23) are description vocabulary, not the greeting exchange, so nothing is stocked.
+
+
+**Afghanistan added 2026-11-04** — 1 book stocks this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 4 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan teaches the exchange in its first book and re-runs it twice inside the same book — once in review and once with the plural answer "We are fine, thank you." Later books greet without the exchange, so the stock is Grade 4's alone.

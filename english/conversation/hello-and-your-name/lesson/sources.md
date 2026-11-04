@@ -1,6 +1,6 @@
 # Sources for this lesson — Greetings
 
-countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen
+countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag.
@@ -86,6 +86,9 @@ side by side on one PDF page — that was wrong.
 | Greetings and leave-taking exchanges, taught with the course's English children Anne and Tom - the course's first conversation lesson | Yemen, *English Course for Yemen* Pupil's Book 1 (Grade 7), Unit 2, printed p.3 |
 | Saying who you are: personal information - name, age, 'Where are you from?' - presented as a learn-and-say lesson | Yemen, *English Course for Yemen* Pupil's Book 1 (Grade 7), Unit 3, printed pp.12-13 |
 | The question words behind the exchange (What / Where / How old / How many / Who) gathered in the unit's Language summary | Yemen, *English Course for Yemen* Pupil's Book 1 (Grade 7), Unit 3, Language summary, printed p.19 |
+| The name exchange as a printed dialogue — "What is your name? — My name is ___." — with "What do you do? — I am a student." beside it, inside the family unit | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Unit Thirteen, printed p.119 |
+| Introductions practised as role-play — introduce a relative or friend, greet, swap roles — with "My name is…… / What is your name, please?" in the same book's classmate interview | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 2, printed p.14; Unit 1, printed p.6 |
+| The first conversation of the secondary course: a student meets the teacher and gives his name, inside the unit named "Good morning" | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 1, Lesson 1, printed pp.2–3 |
 
 **Second country merged 2026-10-25 — Libya:**
 English for Libya, Pupils Book Grade 1 (CERC, Ministry of Education,
@@ -128,7 +131,7 @@ rendered page the same day).
 - Unit 1 "Greeting and Numbers," p. 14 (Hello/Hi, Goodbye/bye tracing;
   "What's your name? / My name's" tracing strips, p. 16).
 
-**Acceptance count: taught in 27 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen).**
+**Acceptance count: taught in 28 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan).**
 China adds name exchanges from its first primary page and the
 "Where are you from? — I'm from …" origin frame (Grades 3), plus
 five printed ways to say goodbye (Grade 6 Volume 2); North
@@ -607,3 +610,6 @@ loved subject ("I am eight years old.", printed p.7).
 **Malaysia added 2026-11-04** — 1 file stocks this lesson: **Book:** *KSSR English Language Scheme of Work, Primary Year 1 (SK)* (Scheme of Work — teacher planning document) — Malaysia, Curriculum Development Division (BPK), Ministry of Education; it maps *Superminds 1* (Cambridge) pp.4–57, a pupil's book that is NOT held. Filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Malaysia's primary files are KSSR Schemes of Work, not pupil's textbooks; the mapped pupil's book Superminds 1 is not held; no primary citation is a pupil's-book page. Malaysia stocks this lesson as mapped curriculum coverage only: in the Year 1 Scheme of Work, the Friends starter topic (Lessons 1–17, headers at printed pp.26–60) teaches "What's your name? / I'm … / He's, She's …" — pupils learn to greet, introduce themselves and name others.
 
 **Yemen added 2026-11-04** - 1 book stock this lesson: **Book:** *English Course for Yemen - Pupil's Book 1* (Grade 7, pupil's book) - Yemen, Ministry of Education and Scientific Research; the ministry re-issue (print line 2027-1448) of the Crescent course prepared by Terry O'Neill and Peter Snow through Garnet Publishing Limited (c) 2000; no ISBN is printed in any Yemen book, and every grade rests on series position (Book N = Grade N+6). Filed in english/books/yemen.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Yemen stocks this lesson from Book 1's beginner units: greetings and leave-taking arrive in Unit 2 (printed p.3), and name-giving sits inside Unit 3's personal-information lesson (printed pp.12-13), where the learner says their name, age and where they are from. English starts at Grade 7 in Yemen, so this is first-weeks material even though the book is a secondary book.
+
+
+**Afghanistan added 2026-11-04** — 3 books stock this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 4 (student's book); **Book:** *English for Afghanistan: Let's Start*, Grade 6 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 7 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan's name exchange arrives in its first book's family unit (Grade 4, Unit Thirteen) as a printed dialogue, is practised as introduction role-play in Grade 6, and opens the secondary course in Grade 7's first lesson. English starts at Grade 4 in Afghanistan, so all of this is first-years material even though two of the books are later primary books.

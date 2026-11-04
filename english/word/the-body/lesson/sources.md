@@ -1,6 +1,6 @@
 # Sources — The body
 
-countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen
+countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan
 
 Every part traces to its book and page.
 
@@ -132,6 +132,8 @@ english/books/jordan.md (Grade 2 Pupil's Book Semester 1 section, FULLY READ + C
 | The body set the book opens with — head, ear, toe, thumb, hair — pointed to on the child's own body | South Africa, English Home Language (HL), Grade 1 Workbook 1 (Rainbow Workbooks), printed p.4 |
 | Body parts taught with the "Head, shoulders, knees and toes" song and face drawing | South Africa, English First Additional Language (FAL), Grade 1 Workbook 1 (Rainbow Workbooks), printed pp.4–7 |
 | Body parts labelled, with the body-action verbs that move them | South Africa, English First Additional Language (FAL), Grade 2 Workbook 2 (Rainbow Workbooks), printed pp.20–21 |
+| Parts of the body as the unit's vocabulary — head, face, ear, nose, neck, mouth, lips, eye, teeth — with tongue, fingers, knee, toes, leg, forehead, elbow, arm and foot inside its sentence lists | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Unit Fourteen, printed pp.128–132 |
+| Body plurals as their own drill set — tooth–teeth, lip–lips, eye–eyes, finger–fingers, foot–feet, ear–ears — ending in drawing a man and labelling the parts | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Unit Fourteen, printed pp.133–135 |
 
 | The body unit set — hand, foot, eye, nose, mouth, ear — with "This is my…" and "Is it a / your…?"; a days-of-the-week song is printed inside this unit | Syria — Emar English Series, Pupil's Book 1, Unit 7 "My Body," pp.21–23 |
 | The five senses with their verbs — see / hear / smell / taste / touch — and sense verbs at work ("The cakes taste delicious," p.12) | Syria — Emar Syrian Series, Pupil's Book 3, Unit 4 "My Five Senses," pp.12–14 |
@@ -164,8 +166,8 @@ english/books/jordan.md (Grade 2 Pupil's Book Semester 1 section, FULLY READ + C
 | Body-part words | Malaysia, Form 3 *Close-Up* B1 Student's Book, Second Edition (National Geographic Learning/Cengage © 2016, ISBN 978-1-4080-9554-6 — generic international edition), Unit 12 "The Body Beautiful", pp.147–158 |
 | The body-parts set taught as a song, 'Put them together' (arms, legs, fingers, toes, eyes, ears, mouth, nose, feet, hands, head, knee) | Yemen, *English Course for Yemen* Pupil's Book 1 (Grade 7), Unit 2, printed p.7 |
 
-**Acceptance count: taught in 24 countries (Egypt, Palestine,
-Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen).**
+**Acceptance count: taught in 25 countries (Egypt, Palestine,
+Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan).**
 Palestine carries the core seven by touch;
 Egypt carries the parts at work in the five sense sentences,
 plus three more inside its letter pages; China carries the
@@ -207,3 +209,6 @@ stomachache (p.73).
 **Malaysia added 2026-11-04** — 3 books/files stock this lesson: **Book:** *English Language Scheme of Work — Primary Year 2 SK* (KSSR) — Malaysia, Bahagian Pembangunan Kurikulum, Kementerian Pendidikan Malaysia. Filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). **Book:** *English Language Scheme of Work — Primary Year 1 SK* (KSSR) — Malaysia, Bahagian Pembangunan Kurikulum, Kementerian Pendidikan Malaysia. Filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). **Book:** *Close-Up* B1 Student's Book, Second Edition — Malaysia, Form 3, National Geographic Learning/Cengage © 2016, ISBN 978-1-4080-9554-6 (generic international edition). Filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). The split is stated plainly: Malaysia's four secondary books are real textbooks read directly, while its six primary files are KSSR Schemes of Work (teacher planning documents), not pupil's textbooks — the pupil's books they map are not held, so every primary row above is mapped curriculum coverage only, worded as scheme-of-work/mapped evidence, never as a textbook read or a pupil's-book page. Mapped stock: the Year 2 Scheme of Work's "The robot" topic (Superminds 1 Unit 8, Lessons 88–125) maps body parts, and the Year 1 Scheme of Work's "Pet Show" topic maps body-part words for a mask activity (face, eyes, nose). Direct stock: Form 3 Unit 12 (pp.147–158) teaches body-part words.
 
 **Yemen added 2026-11-04** - 1 book stock this lesson: **Book:** *English Course for Yemen - Pupil's Book 1* (Grade 7, pupil's book) - Yemen, Ministry of Education and Scientific Research; the ministry re-issue (print line 2027-1448) of the Crescent course prepared by Terry O'Neill and Peter Snow through Garnet Publishing Limited (c) 2000; no ISBN is printed in any Yemen book, and every grade rests on series position (Book N = Grade N+6). Filed in english/books/yemen.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Yemen's body stock is one song: Book 1's Unit 2 teaches twelve body words - arms, legs, fingers, toes, eyes, ears, mouth, nose, feet, hands, head, knee - through the song 'Put them together'. No later book returns to a body-parts set.
+
+
+**Afghanistan added 2026-11-04** — 1 book stocks this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 4 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan teaches the body in its first book's fourteenth unit — a nine-word core set, more parts inside the sentence work, and the irregular body plurals (tooth–teeth, foot–feet) drilled as their own set. Grade 7's "My body" unit works height, weight and illness over the same ground but names no new body set.

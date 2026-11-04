@@ -1,6 +1,6 @@
 # Sources — Telling a story back
 
-countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen
+countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan
 
 Every part traces to its book and page.
 
@@ -165,9 +165,11 @@ PASSED 2026-11-03).
 | PARTIAL - oral retelling named as the task: 'oral retelling and writing the ending of Tracks in the Sand', with a drafting checklist (punctuation of speech, adverb position, adjectives) | Yemen, *English Course for Yemen* Work Book 6 (Grade 12), Unit 5, lesson 5.12 (Unit 5, printed pp.55-70) |
 | PARTIAL - telling your own story back: identifying a speaker in a reporter interview, labelling story-telling moves, pair practice, then telling a personal lucky-escape story | Yemen, *English Course for Yemen* Work Book 6 (Grade 12), Unit 6, lesson 6.2 (Unit 6, printed pp.71-80) |
 | The limit, stated plainly: retelling is set and practised - a partner's dream, a picture-strip story, a personal escape story - but no book teaches retelling as a named skill with steps; there is no summarise-the-story lesson in the course (workbook summaries are writing routines, filed under The Paragraph's stock where they belong) | Yemen, the held set as filed in english/books/yemen.md (Pupil's Book 6 and Work Book 6 sections) |
+| Retelling set as the review unit's speaking work: tell and draw a partner's bad school memory, then retell it | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 12, Lesson 1, printed pp.121–122 |
+| Listening and speaking built on retelling a friend's memory from notes, closing the memories unit | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 10, Lesson 4, printed pp.105–108 |
 
-**Acceptance count: taught in 21 countries (Bangladesh,
-Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen).** Bangladesh equips the retelling (word box,
+**Acceptance count: taught in 22 countries (Bangladesh,
+Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan).** Bangladesh equips the retelling (word box,
 first-person, comparison); Ghana frames it (chain, Herring
 Bone, sequence order); China equips it again (the fill-in
 retell, the phone retell, the sorted diary recount);
@@ -229,3 +231,6 @@ their books are read (see READING-QUEUE.md).
 **Malaysia added 2026-11-04** — PARTIAL stock, filed exactly as a partial: 2 books stock this lesson in part: **Book:** *English Form 1* — Malaysia, Penerbitan Pelangi Sdn. Bhd. for the Ministry of Education Malaysia, KSSM, first published 2016, ISBN 978-983-00-8245-5. **Book:** *Full Blast! Plus 4* Student's Book — Malaysia, MM Publications; no year, ISBN or edition printed in the copy. All filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Stated plainly: Malaysia stocks a performed retelling and a taught summary plan, not a retelling routine. Form 1 Chapter 2 (printed p.23) retells the Shepherd Boy story as a Literature-in-Action play — a named, performed retelling; Form 4's Let's Read 1 (pp.34–35) sets a *Twenty Thousand Leagues Under the Sea* extract with a PLAN for writing a summary of it — telling a text back in compressed form. No held Malaysian book teaches retelling as a routine.
 
 **Yemen added 2026-11-04 - PARTIAL stocking** - 2 books stock this lesson in part: **Book:** *English Course for Yemen - Pupil's Book 6* (Grade 12, pupil's book) - Yemen, Ministry of Education and Scientific Research; the ministry re-issue (print line 2027-1448) of the Crescent course prepared by Terry O'Neill and Peter Snow through Garnet Publishing Limited (c) 2000; no ISBN is printed in any Yemen book, and every grade rests on series position (Book N = Grade N+6). Filed in english/books/yemen.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). **Book:** *English Course for Yemen - Work Book 6* (Grade 12, workbook) - Yemen, Ministry of Education and Scientific Research; the companion workbook in the older ministry style (Ministry of Education), its imprint (printed p.118) naming Terry O'Neil [as printed] and Peter Snow through Garnet Publishing Limited, Copyright @ 2000 [as printed]; no 2027-1448 print line and no ISBN. Filed in english/books/yemen.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). PARTIAL stocking. Yemen sets retelling as real tasks with narrative-move labels - retell a partner's dream, retell the picture-strip story orally, tell your own lucky-escape story - but never teaches retelling itself as a named, stepped skill. Filed as a partial on the tasks that are really there.
+
+
+**Afghanistan added 2026-11-04** — 1 book stocks this lesson: **Book:** *English for Afghanistan: Student's Book*, Grade 8 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan teaches retelling inside Grade 8's memories work: a partner's memory is told, drawn and retold in the review unit, and the memories unit itself closes on retelling a friend's memory from notes.

@@ -1,6 +1,6 @@
 # Sources — Numbers
 
-countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen
+countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan
 
 Every part traces to its book and page.
 
@@ -207,6 +207,9 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 | Counting 1–10 with the number words, in Theme 2 | South Africa, English First Additional Language (FAL), Grade 1 Workbook 1 (Rainbow Workbooks), Theme 2, printed pp.8–9 |
 | Counting worked through a November calendar — the days of the month counted and questioned | South Africa, English Home Language (HL), Grade 1 Workbook 2 (Rainbow Workbooks), printed p.112 |
 | Colours and numbers revised together | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), printed pp.20–21 |
+| Number words taught as a listen-and-repeat table — one to twenty, then thirty, forty, fifty, sixty, seventy, eighty, ninety, hundred — with choose-the-word and write-in-number-form exercises up to ninety. This is the series' first numbers teaching: Grade 4 teaches no numbers, colours, days or time at all | Afghanistan, *English for Afghanistan: Let's Start*, Grade 5, Unit 4, printed pp.37–38 |
+| Numbers listed from 21 upward in a table running to 500, beside saying and writing phone numbers digit by digit | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 1, Lesson 2, printed pp.4–5 |
+| Ordinal numbers listed whole, 1st to 100th (first … hundredth, with fortieth, fiftieth, eightieth, ninetieth) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 15, Lesson 3, printed pp.147–148 |
 
 | Numbers in two small climbs inside the first year: 1–5 in the classroom unit ("One two three, four and five," p.11), then 6–10 with ages and "How old are you?" | Syria — Emar English Series, Pupil's Book 1, Unit 3, pp.9–11; Unit 9 "My Birthday," pp.27–29 |
 | The climb past ten: numbers 11–20 taught with counted picture rows and a counting song ("There are eleven dolls," p.22), with "How many… are there?" | Syria — Emar Syrian Series, Pupil's Book 2, Unit 7 "At the Toy Shop," pp.22–24 |
@@ -258,9 +261,9 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 | A 'Numbers' appendix: a tracing table of digits 0-100 with space to write each number in words | Yemen, *English Course for Yemen* Workbook 1 (Grade 7), appendix, printed pp.82-83 |
 | Ordinal numbers 1st-7th taught through the floors of a block of flats, with a note on 'five - fifth' | Yemen, *English Course for Yemen* Pupil's Book 1 (Grade 7), Unit 7, printed p.45 |
 
-**Acceptance count: taught in 27 countries (Egypt, India,
+**Acceptance count: taught in 28 countries (Egypt, India,
 Palestine, Laos, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen).** Palestine carries the youngest path (numbers
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan).** Palestine carries the youngest path (numbers
 inside the word units, traced); Egypt carries the counting
 question and the climb (1–5, 11–20, by tens to 100); India
 carries the same 1–20 in its first book; China carries the
@@ -333,3 +336,6 @@ a whole song that sings three numbers (p.14).
 **Malaysia added 2026-11-04** — 3 files stock this lesson, all mapped: **File (mapped only):** Year 1 Scheme of Work (KSSR) — Malaysia, Bahagian Pembangunan Kurikulum, Kementerian Pendidikan Malaysia. **File (mapped only):** Year 3 Scheme of Work (KSSR) — Malaysia, Bahagian Pembangunan Kurikulum, Kementerian Pendidikan Malaysia. **File (mapped only):** Year 4 Scheme of Work (KSSR) — Malaysia, Bahagian Pembangunan Kurikulum, Kementerian Pendidikan Malaysia. All Filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). The split is stated plainly: Malaysia's primary files are KSSR Schemes of Work — teacher planning documents, not pupil's textbooks — so every primary row below is mapped curriculum coverage only, worded as scheme-of-work/mapped evidence, never as a textbook read or a pupil's-book page; the pupil's books the schemes map are not held. Stated plainly: no Form (secondary) book teaches number words — Malaysia's numbers stock is mapped primary coverage only, and no direct textbook row is claimed here. The mapped stock: the Year 1 Scheme of Work maps numbers 1–10 with asking age in Lesson 7 (printed p.38) and numbers 11–20 in Lesson 136 (printed p.315); the Year 3 Scheme of Work's Unit 1 maps numbers to 100; and the Year 4 Scheme of Work's Unit 4 maps ordinal numbers and dates. No pupil's-book page is claimed for any of these — the pupil's books are not held.
 
 **Yemen added 2026-11-04** - 2 books stock this lesson: **Book:** *English Course for Yemen - Pupil's Book 1* (Grade 7, pupil's book) - Yemen, Ministry of Education and Scientific Research; the ministry re-issue (print line 2027-1448) of the Crescent course prepared by Terry O'Neill and Peter Snow through Garnet Publishing Limited (c) 2000; no ISBN is printed in any Yemen book, and every grade rests on series position (Book N = Grade N+6). Filed in english/books/yemen.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). **Book:** *English Course for Yemen - Workbook 1* (Grade 7, workbook) - Yemen, Ministry of Education and Scientific Research; the ministry re-issue (print line 2027-1448) of the Crescent course prepared by Terry O'Neill and Peter Snow through Garnet Publishing Limited (c) 2000; no ISBN is printed in any Yemen book, and every grade rests on series position (Book N = Grade N+6). Filed in english/books/yemen.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Yemen's numbers arrive in Book 1 in the course's own order: digits with dot patterns first (Unit 1), the number words one-twelve later with the clock lesson (Unit 5), ordinals 1st-7th through the floors of a block of flats (Unit 7), and Workbook 1's appendix carrying digits 0-100 with write-the-word space. Workbook arithmetic quietly runs ahead of the pupil's book (sums to 59, digits to 100).
+
+
+**Afghanistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 5 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 7 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan's numbers begin in Grade 5 — Grade 4 has none at all — with the word table to a hundred; Grade 7 extends the cardinals to 500 through phone numbers and lists the ordinals whole to the hundredth.
