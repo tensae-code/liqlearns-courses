@@ -1,6 +1,6 @@
 # Sources — Pronouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -147,6 +147,8 @@ english/books/jordan.md (Grade 7 Pupil's Book Semester 1 section, FULLY READ + C
 
 **Book 46:** English For Rwandan Primary Schools — Pupil's Book 6 (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019, no edition statement and no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 47:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The set's title and every plain definition, kept in the book's own words: "Personal Pronouns — Words We Use Instead of Names" — I: "When you talk about yourself" · he: "When you talk about a boy or a man" · she: "When you talk about a girl or a woman" · it: "When you talk about an animal or a thing" · we: "When you talk about yourself and others together" · they: "When you talk about more than one person, animal, or thing" · you: "When you talk to one person or to a group" | Egypt, Primary 1 Term 2, p.27 |
@@ -248,8 +250,11 @@ english/books/jordan.md (Grade 7 Pupil's Book Semester 1 section, FULLY READ + C
 | Relative pronouns that/who taught as named grammar — "This is the cat that …" | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Unit 7 Wildlife, printed pp.82–93 |
 | Indefinite pronouns/compounds — the something/anything/everywhere set — in Word Work | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Unit 6 House Accidents, printed pp.70–81 |
 | this/these in Grade 2 Term 3's things unit (band reader's account, as filed) | Saudi Arabia, *We Can!* Student's Book 2, Term 3 combo (Grade 2), Unit 2 My Things, printed p.10 |
-**Acceptance count: taught in 27 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia).** Egypt
+| Pronouns and adjectives as Grammar Reference point 3 — personal pronouns, possessive adjectives, possessive pronouns, demonstrative adjectives this/these, that/those | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Grammar Reference, printed pp.168–177 |
+| Possessive pronouns mine, his, hers, yours set against my, his, her, your — “It's mine” | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 7, printed p.63 |
+| Object pronouns me, him, her, it, us, you, them | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 10, printed p.92 |
+**Acceptance count: taught in 28 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan).** Egypt
 carries the seven words with the
 plainest definitions any book gives them, and the first
 whose-box; Bangladesh carries the formal definition; Libya
@@ -298,3 +303,5 @@ Armenia joined 2026-11-03: it carries subject pronouns revised with this/that/th
 
 
 **Saudi Arabia added 2026-11-04 (rows and note corrected the same day against the corrected country filing)** — 3 books stock this lesson, as a partial: **Book:** *We Can!* Student's Book 3, Grade 3 (student's book with Workbook goals bound in) — Saudi Arabia, Ministry of Education 2023–1445, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2024, ISBN 9781398928206 — **the held copy is the Term 3 extract of the full-year combo** (Student's Book Units 9–12, Term 3 Phonics Practice and Word List, the whole-year Picture Dictionary, Workbook Goals 65–96); Units 1–8 are known only from the book's own Syllabus and are cited as Syllabus-mapped, never as read; **Book:** *Top Goal 1* Student's Book, Grade 4 — **Part 2 only as bound** (Workbook Part 2 bound in the same file) (student's book) — McGraw Hill (authors Nico Dantaz and Rachel Finnie), 2025 combo production, no ISBN printed in the held copy (its imprint leaf is not bound in); **Book:** *We Can!* Student's Book 2, Term 3 combo, Grade 2 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2023–1445, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2024, ISBN 9781398928145. Filed in english/books/saudi-arabia.md (CORRECTED FILING 2026-11-04 — the first filing's unit accounts for Books 1–5 were proved wrong and discarded; the corrected accounts rest on the secured files' own Contents, Syllabus and imprint pages, coordinator-verified, with band-reader detail worded as such, and Book 6 on the coordinator's page-by-page map). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. Filed plainly as a partial: the possessive system — my/your/his/her/our/their, Whose …?, mine/yours — is Syllabus-mapped in Grade 3's opener, mapped only (the unit body is not in the held copy); the pronouns read directly are Grade 4's relative that/who and the indefinite compounds, with this/these on the reader's account in Grade 2.
+
+**Uzbekistan added 2026-11-04** — 1 book stocks this lesson: **Book:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). The whole pronoun set stands in one place in Fly High 5: the Grammar Reference's third point gathers personal pronouns, possessive adjectives, possessive pronouns and the demonstratives, and the units work the two hard corners directly — possessive pronouns against possessive adjectives in the classroom unit, and the object pronouns in the pets unit. The other five recorded Uzbekistan English books are link-only and are not cited anywhere; no teacher's book exists in Uzbekistan's English record and none is cited; and the Russian Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is cited nowhere.

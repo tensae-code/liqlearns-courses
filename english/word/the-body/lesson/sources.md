@@ -1,6 +1,6 @@
 # Sources — The body
 
-countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia
+countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -102,6 +102,8 @@ english/books/jordan.md (Grade 2 Pupil's Book Semester 1 section, FULLY READ + C
 
 **Book 31:** English For Rwandan Primary Schools — Pupil's Book 3 (pupil's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md (Grade 3 — English For Rwandan Primary Schools — Pupil's Book 3 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 32:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The body unit set: head, hand, finger, leg, face, nose, mouth — taught by "Listen and touch" on the child's own body (numbers 7–10 traced alongside) | Palestine, Grade 1 Part 1, Unit 4 "My body," p.22 |
@@ -169,8 +171,9 @@ english/books/jordan.md (Grade 2 Pupil's Book Semester 1 section, FULLY READ + C
 | Naming parts with this/these — "What's this? — This is my head / What are these? — These are my arms" — and reporting small hurts: "I hurt my nose / I cut my finger" (the book's own Scope and Sequence labels hurt/cut a formulaic phrase, not a past-tense lesson) | Ecuador — *Starship English*, Level A1.1 (Children) (Grade 4 file), Student Book, Unit 5, printed pp.86–91 |
 | Body words — head, eyes, shoulders, knees, toes, ears, mouth, nose — inside action commands | Saudi Arabia, *We Can!* Student's Book 1, Term 1 combo (Grade 1), Unit 2 My Body, printed p.12 |
 | Aches and healthy-life body talk in Grade 3's healthy unit (band reader adds the aches, as filed) | Saudi Arabia, *We Can!* Student's Book 3 (Grade 3), Term 3 extract as bound, Unit 10 A Healthy Life, printed pp.74–81 |
-**Acceptance count: taught in 27 countries (Egypt, Palestine,
-Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia).**
+| Parts of the body taught through has got descriptions — the robot lesson and the family descriptions | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 4, printed pp.31–35 |
+**Acceptance count: taught in 28 countries (Egypt, Palestine,
+Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan).**
 Palestine carries the core seven by touch;
 Egypt carries the parts at work in the five sense sentences,
 plus three more inside its letter pages; China carries the
@@ -220,3 +223,5 @@ stomachache (p.73).
 
 
 **Saudi Arabia added 2026-11-04 (rows and note corrected the same day against the corrected country filing)** — 2 books stock this lesson: **Book:** *We Can!* Student's Book 1, Term 1 combo, Grade 1 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2026–1448, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2025, ISBN 9781398962385; **Book:** *We Can!* Student's Book 3, Grade 3 (student's book with Workbook goals bound in) — Saudi Arabia, Ministry of Education 2023–1445, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2024, ISBN 9781398928206 — **the held copy is the Term 3 extract of the full-year combo** (Student's Book Units 9–12, Term 3 Phonics Practice and Word List, the whole-year Picture Dictionary, Workbook Goals 65–96); Units 1–8 are known only from the book's own Syllabus and are cited as Syllabus-mapped, never as read. Filed in english/books/saudi-arabia.md (CORRECTED FILING 2026-11-04 — the first filing's unit accounts for Books 1–5 were proved wrong and discarded; the corrected accounts rest on the secured files' own Contents, Syllabus and imprint pages, coordinator-verified, with band-reader detail worded as such, and Book 6 on the coordinator's page-by-page map). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. The body set is Grade 1's Unit 2 — head, eyes, shoulders, knees, toes, ears, mouth, nose — taught inside action commands; Grade 3's healthy-life unit (read) adds aches and body talk on the reader's account.
+
+**Uzbekistan added 2026-11-04** — 1 book stocks this lesson: **Book:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). The body arrives in Fly High 5's fourth unit, What do you look like?, where body parts are learned inside has got descriptions of a robot and of family members, beside the unit's colours and size and shape adjectives (stocked in the adjectives lesson). The other five recorded Uzbekistan English books are link-only and are not cited anywhere; no teacher's book exists in Uzbekistan's English record and none is cited; and the Russian Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is cited nowhere.

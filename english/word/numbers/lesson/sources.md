@@ -1,6 +1,6 @@
 # Sources — Numbers
 
-countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia
+countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -162,6 +162,12 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 
 **Book 48:** English Learner's Book for Rwandan Primary Schools, P.5 (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md (Grade 5 — English Learner's Book for Rwandan Primary Schools, P.5 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 49:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 50:** *Fly High ENGLISH 6* — Classbook & Workbook combined in one volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 51:** *English Matters* Student's Book 9 (student's book) — Uzbekistan, Macmillan Education, first published 2003 (the held copy is the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1255-3. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Count objects and match them with the correct number (4 leaves, 1 sun, 5 apples, 2 tulips, 3 pineapples); "How many pencils are there? There are (2–3) pencils" / "How many stars are there? There are (3–5) stars"; trace the numbers 1–5, each row headed by that many strawberries | Egypt, KG2 (I Love My Family unit's number work), pp.54–55 |
@@ -269,9 +275,15 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 | Numbers 10 to 100 in tens in the days-and-weather unit | Saudi Arabia, *We Can!* Student's Book 1, Term 3 combo (Grade 1), Unit 2 Days and Weather, printed p.10 |
 | Counting a full 1–100 — "How many are there? Let's count them." | Saudi Arabia, *We Can!* Student's Book 2, Term 3 combo (Grade 2), Unit 2 My Things, printed p.10 |
 | Ordinal numbers 1st–10th across Grade 2 Term 1's units (band reader's account, as filed) | Saudi Arabia, *We Can!* Student's Book 2, Term 1 combo (Grade 2), Units 2–3 area |
-**Acceptance count: taught in 30 countries (Egypt, India,
+| Numbers 0 (zero)/oh to 12, inside the All about me unit | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 2, printed p.11 |
+| Numbers thirteen to twenty-two with the -teen contrast, then thirty to one hundred | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 11, printed pp.104–106 |
+| Numerals as Grammar Reference point 4 — cardinal and ordinal, to 100 and thirty-first | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Grammar Reference, printed pp.168–177 |
+| Numbers from 100 to 4,678 read aloud, with a Number Dictation | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Unit 10, Lesson 1, printed p.60 |
+| Cardinal numbers from 100, including how numbers and dates are read (Grammar Reference section 15) | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Grammar Reference, printed pp.142–149 |
+| Language structures for reading figures — populations, areas and other numbers filled in from listening | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Unit 2, Lessons 5–6, printed p.18 |
+**Acceptance count: taught in 31 countries (Egypt, India,
 Palestine, Laos, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia).** Palestine carries the youngest path (numbers
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan).** Palestine carries the youngest path (numbers
 inside the word units, traced); Egypt carries the counting
 question and the climb (1–5, 11–20, by tens to 100); India
 carries the same 1–20 in its first book; China carries the
@@ -352,3 +364,5 @@ a whole song that sings three numbers (p.14).
 
 
 **Saudi Arabia added 2026-11-04 (rows and note corrected the same day against the corrected country filing)** — 4 books stock this lesson: **Book:** *We Can!* Student's Book 1, Term 1 combo, Grade 1 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2026–1448, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2025, ISBN 9781398962385; **Book:** *We Can!* Student's Book 1, Term 3 combo, Grade 1 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2023–1445, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2024, ISBN 9781398928084; **Book:** *We Can!* Student's Book 2, Term 3 combo, Grade 2 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2023–1445, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2024, ISBN 9781398928145; **Book:** *We Can!* Student's Book 2, Term 1 combo, Grade 2 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2026–1448, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2025, ISBN 9781398962408. Filed in english/books/saudi-arabia.md (CORRECTED FILING 2026-11-04 — the first filing's unit accounts for Books 1–5 were proved wrong and discarded; the corrected accounts rest on the secured files' own Contents, Syllabus and imprint pages, coordinator-verified, with band-reader detail worded as such, and Book 6 on the coordinator's page-by-page map). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. The corrected ladder: 1–10 in Grade 1 Term 1's age unit; 11–20 and 20–30 plus tens to 100 in Term 3; counting a full 1–100 in Grade 2 Term 3's things unit ("How many are there? Let's count them."); ordinal numbers 1st–10th across Grade 2 Term 1, on the band reader's account as filed.
+
+**Uzbekistan added 2026-11-04** — 3 books stock this lesson: **Book:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9; **Book:** *Fly High ENGLISH 6* — Classbook & Workbook combined volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8; **Book:** *English Matters* Student's Book 9 (student's book) — Uzbekistan, Macmillan Education, first published 2003 (held copy: the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1255-3. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Uzbekistan's number climb is complete in the primary pair: Fly High 5 takes cardinals from zero to a hundred in two climbs (to 12, then the -teen set and the tens) and states cardinals and ordinals whole in its reference; Fly High 6 reads numbers past a thousand aloud and states cardinals from 100 in its own reference; English Matters 9 finishes the line with the reading of real figures — populations and areas taken from listening. The other five recorded Uzbekistan English books are link-only and are not cited anywhere; no teacher's book exists in Uzbekistan's English record and none is cited; and the Russian Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is cited nowhere.

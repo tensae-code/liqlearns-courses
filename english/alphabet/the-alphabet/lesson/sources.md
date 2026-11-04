@@ -1,6 +1,6 @@
 # Sources — The alphabet
 
-countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia
+countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan
 
 Every part traces to its book and page. The PDF of Libya's Pupils Book
 is one book page per PDF page, with the book page printed at the
@@ -110,6 +110,8 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 22:** Success English for Rwandan Schools, Primary 1 Pupil's Book (pupil's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md (Grade 1 — Success English for Rwandan Schools — Primary 1 Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 **Book 23:** English for Rwandan Schools, Primary 2 Learner's Book (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md (Grade 2 — English for Rwandan Schools — Primary 2 Learner's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 24:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -347,7 +349,9 @@ sound is learned.
 | Sounds S, T, U, V with writing worksheets in Term 3's animals unit; W, F, Y, Z in its days-and-weather unit | Saudi Arabia, *We Can!* Student's Book 1, Term 3 combo (Grade 1), Units 1 and 2, printed pp.2 and 10 |
 | Term 3's Phonics Practice gathers the year's last letter sounds — the alphabet is complete across Terms 1+3 in hand | Saudi Arabia, *We Can!* Student's Book 1, Term 3 combo (Grade 1), Phonics Practice, printed pp.26–32 |
 | A second round of letter work (sets Mm–Zz across the book, on the band reader's account as filed), gathered in Grade 2's Phonics Practice | Saudi Arabia, *We Can!* Student's Book 2, Term 1 combo (Grade 2), Phonics Practice, printed pp.44–51 |
-**Acceptance count: taught in 26 countries (Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia).**
+| The alphabet A–Z as the book's first unit — each letter with its name in transcription and a pictured animal word (Aa for snake through Zz for zebra), letter recognition, copying the letters in a handwriting grid, spelling your own name aloud | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 1, printed pp.7–8 |
+| The alphabet re-taught in review — an ABC song and a 26-item alphabet caterpillar | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Learning Review for Units 1–6, printed pp.142–149 |
+**Acceptance count: taught in 27 countries (Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan).**
 China joins through its Grade 3 Volume 1: the ABC song is placed
 before any letter teaching (Unit 1, p.6), and Recycle 2 adds a
 missing-letter sequence exercise (p.69) — the alphabet as a sung
@@ -603,3 +607,5 @@ pp.83–90).
 
 
 **Saudi Arabia added 2026-11-04 (rows and note corrected the same day against the corrected country filing)** — 3 books stock this lesson: **Book:** *We Can!* Student's Book 1, Term 1 combo, Grade 1 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2026–1448, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2025, ISBN 9781398962385; **Book:** *We Can!* Student's Book 1, Term 3 combo, Grade 1 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2023–1445, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2024, ISBN 9781398928084; **Book:** *We Can!* Student's Book 2, Term 1 combo, Grade 2 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2026–1448, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2025, ISBN 9781398962408. Filed in english/books/saudi-arabia.md (CORRECTED FILING 2026-11-04 — the first filing's unit accounts for Books 1–5 were proved wrong and discarded; the corrected accounts rest on the secured files' own Contents, Syllabus and imprint pages, coordinator-verified, with band-reader detail worded as such, and Book 6 on the coordinator's page-by-page map). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. In the corrected filing the ladder runs differently from the discarded first account: Grade 1's Term 1 book introduces the alphabet whole in its Introduction and works the sounds in strands (A–E, then F–J), Term 3's book carries S–Z and gathers the year's last sounds in its Phonics Practice — the alphabet is complete across the two Grade 1 terms in hand — and Grade 2's Term 1 book runs a second round of letter sets, Mm–Zz.
+
+**Uzbekistan added 2026-11-04** — 1 book stocks this lesson: **Book:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Uzbekistan's alphabet is Fly High 5's opening unit, taught whole before any sentences: every letter with its transcription and a pictured animal word, letters copied in a handwriting grid, and the pupil's own name spelled aloud; the first Learning Review re-teaches the alphabet through an ABC song and a 26-item alphabet caterpillar. The series keeps the sound work going in a Pronunciation Exercises page in every unit. The other five recorded Uzbekistan English books are link-only and are not cited anywhere; no teacher's book exists in Uzbekistan's English record and none is cited; and the Russian Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is cited nowhere.

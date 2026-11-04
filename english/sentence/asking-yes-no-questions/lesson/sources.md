@@ -1,6 +1,6 @@
 # Sources — Asking yes/no questions
 
-countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia
+countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -129,6 +129,10 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 41:** Primary Learner's English for Rwandan Schools — P4 (student's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 42:** English for Rwandan Primary Schools — Pupil's Book 6 (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 43:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 44:** *Fly High ENGLISH 6* — Classbook & Workbook combined in one volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The SIMPLE PRESENT frame in three shapes — affirmative Subject + Verb + Complement, negative with do/does not — and the DO–DOES interrogative box standing beside them as the question shape | Bolivia compendium, the Daily activities text (T8, compendium p.178) |
@@ -232,9 +236,13 @@ CITATION CHECK PASSED 2026-11-03).
 | "Are you happy? Yes, I am." in the feelings unit | Saudi Arabia, *We Can!* Student's Book 1, Term 3 combo (Grade 1), Unit 3 Feelings and Things, printed p.18 |
 | "Do you have school lunch at your school? Yes, we do. Every day. / No, we don't." — read in Grade 3's school unit | Saudi Arabia, *We Can!* Student's Book 3 (Grade 3), Term 3 extract as bound, Unit 9 My School is Cool!, printed pp.66–73 |
 | "Could you swim when you were five?" — a yes/no question over Grade 4's could/couldn't past-ability grammar | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Unit 5 Outdoor Fun, printed p.63 area (as filed in the country record) |
-**Acceptance count: taught in 29 countries (Bangladesh,
+| Yes/no questions with is/are and has got, with their short answers | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 4, printed pp.31–35 |
+| Do/Does questions and short answers closing the present simple unit | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 8, printed p.75 |
+| Short answers to be questions as Grammar Reference point 2 | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Grammar Reference, printed pp.168–177 |
+| Past Simple questions in a two-column Affirmative/Interrogative table — “I visited my granny yesterday” beside “Did you visit your granny yesterday?” | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Unit 7, Lesson 2, printed p.43 |
+**Acceptance count: taught in 30 countries (Bangladesh,
 Bolivia, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia).** Bolivia boxes the do/does engine;
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan).** Bolivia boxes the do/does engine;
 Mongolia works the be-swap on its doing-now questions;
 Bangladesh teaches the voice the question rides on; China
 adds the full shelf of shapes across its primary run — be,
@@ -308,3 +316,5 @@ invert, other verbs take the "helping verb" Do/Does
 
 
 **Saudi Arabia added 2026-11-04 (rows and note corrected the same day against the corrected country filing)** — 3 books stock this lesson: **Book:** *We Can!* Student's Book 1, Term 3 combo, Grade 1 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2023–1445, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2024, ISBN 9781398928084; **Book:** *We Can!* Student's Book 3, Grade 3 (student's book with Workbook goals bound in) — Saudi Arabia, Ministry of Education 2023–1445, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2024, ISBN 9781398928206 — **the held copy is the Term 3 extract of the full-year combo** (Student's Book Units 9–12, Term 3 Phonics Practice and Word List, the whole-year Picture Dictionary, Workbook Goals 65–96); Units 1–8 are known only from the book's own Syllabus and are cited as Syllabus-mapped, never as read; **Book:** *Top Goal 1* Student's Book, Grade 4 — **Part 2 only as bound** (Workbook Part 2 bound in the same file) (student's book) — McGraw Hill (authors Nico Dantaz and Rachel Finnie), 2025 combo production, no ISBN printed in the held copy (its imprint leaf is not bound in). Filed in english/books/saudi-arabia.md (CORRECTED FILING 2026-11-04 — the first filing's unit accounts for Books 1–5 were proved wrong and discarded; the corrected accounts rest on the secured files' own Contents, Syllabus and imprint pages, coordinator-verified, with band-reader detail worded as such, and Book 6 on the coordinator's page-by-page map). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. Yes/no questions are carried as frames across the set — do-you-have with short answers in Grade 1 Term 3, are-you in its feelings unit, do-you-have school lunch in Grade 3's read school unit, and "Could you swim when you were five?" in Grade 4's Part 2.
+
+**Uzbekistan added 2026-11-04** — 2 books stock this lesson: **Book:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9; **Book:** *Fly High ENGLISH 6* — Classbook & Workbook combined volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). The yes/no question is built in Fly High 5 in three passes — be and has got questions with short answers in the description unit, Do/Does questions closing the present simple unit, and short answers stated as a reference point — and Fly High 6 adds the past form as a printed two-column table, affirmative beside interrogative. The other five recorded Uzbekistan English books are link-only and are not cited anywhere; no teacher's book exists in Uzbekistan's English record and none is cited; and the Russian Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is cited nowhere.

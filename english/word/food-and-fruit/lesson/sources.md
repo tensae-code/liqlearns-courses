@@ -1,6 +1,6 @@
 # Sources — Food and fruit
 
-countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia
+countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -173,6 +173,12 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 
 **Book 53:** English Learner's Book for Rwandan Primary Schools, P.5 (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md (Grade 5 — English Learner's Book for Rwandan Primary Schools, P.5 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 54:** *Fly High ENGLISH 6* — Classbook & Workbook combined in one volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 55:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 56:** *English Matters* Student's Book 8 (student's book) — Uzbekistan, Macmillan Education, first published 2002 (the held copy is the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1254-6. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Listen and repeat: breakfast, lunch, dinner, eat, drink" — with the breakfast plate pictured: egg, cheese, beans, and a glass of milk | Egypt, Primary 1 Term 2, Unit 1 "My Week," p.15 |
@@ -272,8 +278,13 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Food inside healthy-life frames — "I should (drink a lot of water / eat three meals a day). I shouldn't (eat too much junk food / stay up late)" | Saudi Arabia, *We Can!* Student's Book 3 (Grade 3), Term 3 extract as bound, Unit 10 A Healthy Life, printed pp.74–81 |
 | Taste adjectives across Grade 2 Term 1's units (band reader's account, as filed) | Saudi Arabia, *We Can!* Student's Book 2, Term 1 combo (Grade 2), Units 2–3 area |
 | Candy among the desk things counted in Grade 2 Term 3 — "Can I have some candy?" | Saudi Arabia, *We Can!* Student's Book 2, Term 3 combo (Grade 2), Unit 2 My Things, printed p.10 |
-**Acceptance count: taught in 29 countries (Bangladesh, Egypt,
-Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia).**
+| Basic foods sorted into a/an and some — egg, butter, banana, milk, sweet, cheese, coffee, oil, salt, sugar, ice cream, meat, apple, orange — with “There is some … / There are some …” | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Unit 3, Lesson 1, printed p.18 |
+| Container phrases — a bottle of Coca Cola, a packet of tea, a box of chocolates, a jar of jam, a bar of chocolate, a kilo of sausages | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Unit 3, Lesson 5, printed p.22 |
+| Market fruit and vegetables with prices — plum, pear, cherry, melon, water melon, grape; cabbage, potato, pumpkin, radish, cucumber, onion, carrot | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Unit 4, Lessons 1–2, printed pp.24–25 |
+| Uzbek foods among the spring-holiday words — palov, manti, shashlik, sumalak | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 14, printed p.133 |
+| Food vocabulary by country — haggis, paella, borsch, goulash, guacamole, sushi — and a text on sumalak, the Navrus dish, including how it is cooked | Uzbekistan, *English Matters* Student's Book 8 (Grade 8), Unit 9, Lessons 5–6, printed p.102 |
+**Acceptance count: taught in 30 countries (Bangladesh, Egypt,
+Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan).**
 Egypt carries the meals and the breakfast plate;
 Bangladesh carries the like-exchange and the healthy sorting;
 Palestine carries the fruit set with its a/an pair and the
@@ -322,3 +333,5 @@ books are read (see READING-QUEUE.md).
 
 
 **Saudi Arabia added 2026-11-04 (rows and note corrected the same day against the corrected country filing)** — 2 books stock this lesson, as a partial: **Book:** *We Can!* Student's Book 3, Grade 3 (student's book with Workbook goals bound in) — Saudi Arabia, Ministry of Education 2023–1445, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2024, ISBN 9781398928206 — **the held copy is the Term 3 extract of the full-year combo** (Student's Book Units 9–12, Term 3 Phonics Practice and Word List, the whole-year Picture Dictionary, Workbook Goals 65–96); Units 1–8 are known only from the book's own Syllabus and are cited as Syllabus-mapped, never as read; **Book:** *We Can!* Student's Book 2, Term 1 combo, Grade 2 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2026–1448, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2025, ISBN 9781398962408. Filed in english/books/saudi-arabia.md (CORRECTED FILING 2026-11-04 — the first filing's unit accounts for Books 1–5 were proved wrong and discarded; the corrected accounts rest on the secured files' own Contents, Syllabus and imprint pages, coordinator-verified, with band-reader detail worded as such, and Book 6 on the coordinator's page-by-page map). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. Filed plainly as a partial (the earlier full filing rested on the discarded first account's food units, which do not exist in the held books): Saudi Arabia has no food unit in hand. Food words are read inside Grade 3's healthy-life frames (meals, water, junk food under should/shouldn't), and taste adjectives rest on the band reader's account of Grade 2 Term 1.
+
+**Uzbekistan added 2026-11-04** — 3 books stock this lesson: **Book:** *Fly High ENGLISH 6* — Classbook & Workbook combined volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8; **Book:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9; **Book:** *English Matters* Student's Book 8 (student's book) — Uzbekistan, Macmillan Education, first published 2002 (held copy: the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1254-6. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Food is Fly High 6's longest thread — a grocery unit, a market unit, a cooking unit and a table unit — from the first food sort (a/an against some) through market prices to container phrases; Fly High 5 names Uzbekistan's own dishes among its holiday words, and English Matters 8 sets foods by country, with Uzbekistan's sumalak explained. The other five recorded Uzbekistan English books are link-only and are not cited anywhere; no teacher's book exists in Uzbekistan's English record and none is cited; and the Russian Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is cited nowhere.

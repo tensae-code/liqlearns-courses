@@ -1,6 +1,6 @@
 # Sources — Words you don't know
 
-countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan, Yemen, Afghanistan, Ecuador
+countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan, Yemen, Afghanistan, Ecuador, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -79,6 +79,8 @@ CHECK PASSED 2026-11-03).
 **Book 22:** *English First Additional Language, Grade 6 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 23:** *Primary English 3, Teacher's Guide* (teacher's guide) — South Sudan, Ministry of General Education and Instruction, © 2018. Filed in english/books/south-sudan.md (Primary 3 — English Teacher's Guide 3 (teacher's guide) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 24:** *Fly High ENGLISH 6* — Classbook & Workbook combined in one volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Every unit's opening instruction — "Notice these expressions in the text. Infer their meaning from the context" — standing at the head of the reading apparatus in both senior books, with vocabulary work built around inferring before checking | India, Hornbill (Class XI) and Flamingo (Class XII), the About the Book / unit apparatus (as filed) |
@@ -122,9 +124,11 @@ CHECK PASSED 2026-11-03).
 | The word-study promise printed over the book's spreads — "You won't need a dictionary for these words" — each new word matched to its definition from context (shown here from the food unit's spread: nutrients, deficiency, calcium, scurvy, limes) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 11, Unit 4, printed p.60 |
 | A word worked out from its text: the word "unique" in context means "unusual or special," asked inside the habitat reading's tasks | Ecuador — *English*, Medium Sublevel transition text (Grades 5–7 covers; read from the Grade 5 copy) (MINEDUC, 2024), Worksheet 3, printed p.20 |
 | Reading Skills work on "adapted" — special characteristics to live in hot places — drawn from the camel text, beside a fact-versus-opinion item | Ecuador — *English*, Medium Sublevel transition text (Grades 5–7 covers; read from the Grade 5 copy) (MINEDUC, 2024), Worksheet 3, printed pp.21–23 |
+| Guessing the meaning of unknown words in a text, named as a learning skill in the self-assessment quiz | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Unit 11, Lesson 5, printed p.70 |
+| New words starred in texts throughout the classbook, to be guessed or found in the Wordlist | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Classbook, printed pp.6–95 |
 
-**Acceptance count: taught in 19 countries (Bangladesh,
-Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan, Yemen, Afghanistan, Ecuador).** India's senior books print the
+**Acceptance count: taught in 20 countries (Bangladesh,
+Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan, Yemen, Afghanistan, Ecuador, Uzbekistan).** India's senior books print the
 command at every unit's head; Bangladesh names the routine;
 Ghana pairs context with word relationships; Libya's texts
 gloss in the line; China coaches the guessing itself, in a
@@ -176,3 +180,5 @@ books are read (see READING-QUEUE.md).
 **Afghanistan added 2026-11-04** — 1 book stocks this lesson: **Book:** *English for Afghanistan: Student's Book*, Grade 11 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan teaches the guessing strategy outright: Grade 11's first unit shows how to get an unknown word's meaning from its context, and the whole book's word-study spreads are built on the same move — meet the word in its passage, match it to its meaning, no dictionary needed.
 
 **Ecuador added 2026-11-04** — 1 book stocks this lesson, as a partial: **Book:** *English — Medium Sublevel: Student Text for Curricular Transition* (one book issued under Grade 5, 6 and 7 covers; read and cited once, from the Grade 5 copy) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-40-8. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly as a partial: the Medium book works two words out of their reading texts, in context, but no guessing-from-context strategy is ever named or taught as a method in Ecuador's set.
+
+**Uzbekistan added 2026-11-04** — 1 book stocks this lesson, as a partial: **Book:** *Fly High ENGLISH 6* — Classbook & Workbook combined volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly as a partial: the guessing move is named in the book itself — it stands in Fly High 6's self-assessment quiz as a skill a learner should own, and the book's starred-word machinery makes pupils guess or look up every new word in a text. No standalone guessing lesson or strategy box is filed in the set, so the stocking rests on the named skill and the machinery, worded as such. The other five recorded Uzbekistan English books are link-only and are not cited anywhere; no teacher's book exists in Uzbekistan's English record and none is cited; and the Russian Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is cited nowhere.

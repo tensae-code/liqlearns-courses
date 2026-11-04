@@ -1,6 +1,6 @@
 # Sources — The home
 
-countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia
+countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -126,6 +126,10 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 
 **Book 38:** English For Rwandan Primary Schools — Pupil's Book 6 (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019 (no edition statement printed), no ISBN printed. Filed in english/books/rwanda.md (Grade 6 — English For Rwandan Primary Schools — Pupil's Book 6 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 39:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 40:** *Fly High ENGLISH 6* — Classbook & Workbook combined in one volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The five rooms on pictures, each with its sentence: bedroom — "I sleep in the bedroom" · bathroom — "I brush my teeth in the bathroom" · living room — "I watch TV in the living room" · dining room — "I eat in the dining room" · kitchen — "My mother cooks in the kitchen" | Egypt, Primary 1 Term 2, Unit 4 "My House," Lesson 1 "Rooms in My House," pp.67–68 |
@@ -206,9 +210,12 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Rooms and where they are — bedroom, living room, dining room, balcony, bathroom, kitchen, hall, with next to, between, opposite: "Where's your bedroom? — It's between the kitchen and the bathroom" | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Unit 3, printed pp.48–53 |
 | Rooms — living room, bathroom, kitchen, dining room, yard, bedroom — in a house tour: "Hello. Welcome to our house. … This is the (living room)." | Saudi Arabia, *We Can!* Student's Book 2, Term 3 combo (Grade 2), Unit 1 My House, printed p.2 |
 | Prepositions of place in the same unit — in, on, under, next to, behind (the Picture Dictionary carries behind p.6, in p.6, next to p.6) | Saudi Arabia, *We Can!* Student's Book 2, Term 3 combo (Grade 2), Unit 1 My House, printed p.2 and Picture Dictionary, printed p.31 |
-**Acceptance count: taught in 29 countries (Egypt, Libya,
+| The home frame — live in a house/flat, live at number …, live with … — in the At home and at work unit | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 3, printed pp.20–30 |
+| Rooms of an English house — living room, dining room, bedroom, kitchen, hall, toilet, bathroom — described with there is / there are | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Unit 2, Lesson 1, printed p.12 |
+| Furniture — armchair, sofa, TV set, cassette recorder, carpet, curtain, wardrobe — inside a letter describing an Uzbek home | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Unit 2, Lesson 2, printed p.13 |
+**Acceptance count: taught in 30 countries (Egypt, Libya,
 Palestine, Laos, China, North Macedonia, Mongolia, Indonesia,
-Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia).** Egypt carries the five rooms with a sentence for
+Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan).** Egypt carries the five rooms with a sentence for
 each and the drilled question; Libya carries the same rooms
 twice (Grade 1 set, Grade 2 labelled house) with the sitting
 room name and the furniture; Palestine carries the bedroom set
@@ -268,3 +275,5 @@ reading passage is a house text with written answers (p.117).
 
 
 **Saudi Arabia added 2026-11-04 (rows and note corrected the same day against the corrected country filing)** — 1 book stocks this lesson: **Book:** *We Can!* Student's Book 2, Term 3 combo, Grade 2 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2023–1445, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2024, ISBN 9781398928145. Filed in english/books/saudi-arabia.md (CORRECTED FILING 2026-11-04 — the first filing's unit accounts for Books 1–5 were proved wrong and discarded; the corrected accounts rest on the secured files' own Contents, Syllabus and imprint pages, coordinator-verified, with band-reader detail worded as such, and Book 6 on the coordinator's page-by-page map). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. The home set is Grade 2 Term 3's opener: a house tour ("This is the (living room)") over the rooms — living room, bathroom, kitchen, dining room, yard, bedroom — with prepositions of place (in, on, under, next to, behind) carried in the same unit and its Picture Dictionary. (This replaces an earlier filing made against the discarded first account, which had placed the stock in Grade 1 units that do not exist in the held books.)
+
+**Uzbekistan added 2026-11-04** — 2 books stock this lesson: **Book:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9; **Book:** *Fly High ENGLISH 6* — Classbook & Workbook combined volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). The home is taught in both primary books: Fly High 5 frames the home address and household in its third unit, and Fly High 6 opens its Houses and homes unit with the rooms of an English house and the furniture of an Uzbek one, both described with there is / there are. The other five recorded Uzbekistan English books are link-only and are not cited anywhere; no teacher's book exists in Uzbekistan's English record and none is cited; and the Russian Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is cited nowhere.

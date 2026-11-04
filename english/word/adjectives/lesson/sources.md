@@ -1,6 +1,6 @@
 # Sources — Adjectives
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -176,6 +176,14 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 
 **Book 55:** English For Rwandan Primary Schools — Pupil's Book 6 (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019, no edition statement and no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 56:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 57:** *Fly High ENGLISH 6* — Classbook & Workbook combined in one volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 58:** *English Matters* Student's Book 8 (student's book) — Uzbekistan, Macmillan Education, first published 2002 (the held copy is the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1254-6. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 59:** *English Matters* Student's Book 9 (student's book) — Uzbekistan, Macmillan Education, first published 2003 (the held copy is the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1255-3. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition as questions, and the rule that finds adjectives: "Adjectives tell us about the things – are they big, small, happy, sad? • Adjectives and nouns go together." | Libya, Grade 5 Pupils Book, Unit 6, "Let's check!" box |
@@ -293,8 +301,15 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 | Taste adjectives across Grade 2 Term 1's units (band reader's account, as filed) | Saudi Arabia, *We Can!* Student's Book 2, Term 1 combo (Grade 2), Units 2–3 area |
 | Comparatives and superlatives mapped in Grade 3's sea-animals unit (cute/cuter/the cutest; big/bigger/the biggest) — Syllabus-mapped only; the unit body is not in the held copy | Saudi Arabia, *We Can!* Student's Book 3 (Grade 3), Term 3 extract as bound, Unit 2 Sea Animals, Syllabus-mapped |
 | Comparatives and superlatives as one named system — -er/more … than, the -est/most, irregular good → better → best | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Unit 7 Wildlife, printed pp.82–93 |
-**Acceptance count: taught in 30 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia).**
+| Size and shape adjectives with has got descriptions — tall, short, thin, plump, strong; round, square, big, small; long, short, straight, curly, blond, dark | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 4, printed pp.31–35 |
+| Adjectives are invariable (Grammar Reference point 9), and the order of adjectives is fixed under word order (point 20.2) | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Grammar Reference, printed pp.168–177 |
+| Comparatives and superlatives as one reference system, with the irregular good — better — best, bad — worse — worst, far — farther/further — farthest/furthest | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Grammar Reference section 13, printed pp.142–149 |
+| A large descriptive-adjective set sorted under Character, Appearance, Face, Hair and Age | Uzbekistan, *English Matters* Student's Book 8 (Grade 8), Unit 1, Lessons 5–6, printed p.6 |
+| Comparative and superlative adjectives stated in the Grammar Section | Uzbekistan, *English Matters* Student's Book 8 (Grade 8), Grammar Section, printed pp.151–153 |
+| Adjectives for personality description (small businesses and entrepreneurs) | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Unit 6, Lessons 1–2, printed p.62 |
+| Superlative adjectives stated in the Grammar Section | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Grammar Section, printed p.143 |
+**Acceptance count: taught in 31 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan).**
 Libya carries the definition twice and the
 pairs inside a story; Bangladesh carries the pictured pairs;
 Egypt carries the fullest statement of what adjectives tell;
@@ -348,3 +363,5 @@ Armenia joined 2026-11-03: it carries describing a friend — tall, young, smart
 
 
 **Saudi Arabia added 2026-11-04 (rows and note corrected the same day against the corrected country filing)** — 3 books stock this lesson: **Book:** *We Can!* Student's Book 2, Term 1 combo, Grade 2 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2026–1448, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2025, ISBN 9781398962408; **Book:** *We Can!* Student's Book 3, Grade 3 (student's book with Workbook goals bound in) — Saudi Arabia, Ministry of Education 2023–1445, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2024, ISBN 9781398928206 — **the held copy is the Term 3 extract of the full-year combo** (Student's Book Units 9–12, Term 3 Phonics Practice and Word List, the whole-year Picture Dictionary, Workbook Goals 65–96); Units 1–8 are known only from the book's own Syllabus and are cited as Syllabus-mapped, never as read; **Book:** *Top Goal 1* Student's Book, Grade 4 — **Part 2 only as bound** (Workbook Part 2 bound in the same file) (student's book) — McGraw Hill (authors Nico Dantaz and Rachel Finnie), 2025 combo production, no ISBN printed in the held copy (its imprint leaf is not bound in). Filed in english/books/saudi-arabia.md (CORRECTED FILING 2026-11-04 — the first filing's unit accounts for Books 1–5 were proved wrong and discarded; the corrected accounts rest on the secured files' own Contents, Syllabus and imprint pages, coordinator-verified, with band-reader detail worded as such, and Book 6 on the coordinator's page-by-page map). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. Adjective opposites are a named set in Grade 2's nature unit (short/long, beautiful/ugly); comparatives and superlatives are Syllabus-mapped in Grade 3's sea-animals unit — mapped only — and read as a full system in Grade 4's wildlife unit.
+
+**Uzbekistan added 2026-11-04** — 4 books stock this lesson: **Book:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9; **Book:** *Fly High ENGLISH 6* — Classbook & Workbook combined volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8; **Book:** *English Matters* Student's Book 8 (student's book) — Uzbekistan, Macmillan Education, first published 2002 (held copy: the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1254-6; **Book:** *English Matters* Student's Book 9 (student's book) — Uzbekistan, Macmillan Education, first published 2003 (held copy: the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1255-3. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Uzbekistan's adjective line runs the whole course: describing words for people in Fly High 5 (with the book's own statements that adjectives do not change and that their order is fixed), the full comparison system in Fly High 6's reference, a category-sorted descriptive set opening English Matters 8, and superlatives with personality adjectives in English Matters 9. The other five recorded Uzbekistan English books are link-only and are not cited anywhere; no teacher's book exists in Uzbekistan's English record and none is cited; and the Russian Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is cited nowhere.

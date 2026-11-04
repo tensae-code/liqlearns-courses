@@ -1,6 +1,6 @@
 # Sources — Building a sentence
 
-countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia
+countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -107,6 +107,10 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 39:** English for Rwandan Primary Schools — Pupil's Book 3 (pupil's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 40:** English Learner's Book for Rwandan Primary Schools, P5 (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 41:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 42:** *English Matters* Student's Book 8 (student's book) — Uzbekistan, Macmillan Education, first published 2002 (the held copy is the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1254-6. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The SIMPLE PRESENT box written as a board paradigm: affirmative Subject + Verb + Complement on "play," negative with do/does not, and the DO–DOES interrogative box beside it — the sentence's three-part formula stated as the book's own grammar frame | Bolivia compendium, the Daily activities text (T8, compendium p.178) |
@@ -193,9 +197,11 @@ CITATION CHECK PASSED 2026-11-03).
 | The course's first full patterned sentences from its first verb system — I am / You are / He/She is / We are / They are (ten) | Saudi Arabia, *We Can!* Student's Book 1, Term 1 combo (Grade 1), Unit 5 What's This? What's That?, printed p.36 |
 | Verb + to-infinitive and verb + -ing sentence patterns on grammar charts | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Unit 5 Outdoor Fun, printed pp.60–61 |
 | Relative-pronoun sentences join two clauses — "This is the cat that …" | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Unit 7 Wildlife, printed pp.82–93 |
-**Acceptance count: taught in 29 countries (Bangladesh,
+| Word order as the Grammar Reference's closing point — including 20.2 the order of adjectives and 20.3 word order in questions | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Grammar Reference point 20, printed pp.175–177 |
+| Question order practised by unscrambling word-order questions about famous people | Uzbekistan, *English Matters* Student's Book 8 (Grade 8), Unit 4, Lessons 5–6, printed p.42 |
+**Acceptance count: taught in 30 countries (Bangladesh,
 Bolivia, Ghana, Mongolia, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia).** Bolivia states the formula;
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan).** Bolivia states the formula;
 Ghana names the two parts; Bangladesh drills the building
 from tables; Mongolia checks the order; China adds the
 this/these, that/those sentence system, taught as one
@@ -244,3 +250,5 @@ READING-QUEUE.md).
 
 
 **Saudi Arabia added 2026-11-04 (rows and note corrected the same day against the corrected country filing)** — 2 books stock this lesson: **Book:** *We Can!* Student's Book 1, Term 1 combo, Grade 1 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2026–1448, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2025, ISBN 9781398962385; **Book:** *Top Goal 1* Student's Book, Grade 4 — **Part 2 only as bound** (Workbook Part 2 bound in the same file) (student's book) — McGraw Hill (authors Nico Dantaz and Rachel Finnie), 2025 combo production, no ISBN printed in the held copy (its imprint leaf is not bound in). Filed in english/books/saudi-arabia.md (CORRECTED FILING 2026-11-04 — the first filing's unit accounts for Books 1–5 were proved wrong and discarded; the corrected accounts rest on the secured files' own Contents, Syllabus and imprint pages, coordinator-verified, with band-reader detail worded as such, and Book 6 on the coordinator's page-by-page map). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. Sentences are built as frames from the first book — Grade 1's Unit 5 verb system makes the first full patterned sentences (I am / You are / He/She is) — and Grade 4's Part 2 builds bigger sentences on paper: verb + to-infinitive / verb + -ing patterns and relative-pronoun sentences ("This is the cat that …").
+
+**Uzbekistan added 2026-11-04** — 2 books stock this lesson: **Book:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9; **Book:** *English Matters* Student's Book 8 (student's book) — Uzbekistan, Macmillan Education, first published 2002 (held copy: the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1254-6. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Uzbekistan states sentence-building as word order: Fly High 5's Grammar Reference closes with a word-order point whose sub-points fix the order of adjectives and the order of questions, and English Matters 8 makes learners build questions by unscrambling their word order. The other five recorded Uzbekistan English books are link-only and are not cited anywhere; no teacher's book exists in Uzbekistan's English record and none is cited; and the Russian Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is cited nowhere.

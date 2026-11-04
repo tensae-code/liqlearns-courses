@@ -1,6 +1,6 @@
 # Sources — Answering from the text
 
-countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia
+countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -131,6 +131,10 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 43:** English Learner's Book for Rwandan Primary Schools, P.5 (Learner's Book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 44:** English For Rwandan Primary Schools — Pupil's Book 6 (Pupil's Book) — Rwanda, Rwanda Education Board (REB), © 2019, no edition statement printed, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 45:** *Fly High ENGLISH 6* — Classbook & Workbook combined in one volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 46:** *English Matters* Student's Book 8 (student's book) — Uzbekistan, Macmillan Education, first published 2002 (the held copy is the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1254-6. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "'Think as you read' questions sit inside the text at each break to check factual comprehension as the learner goes" — answering from the carrier while reading | India, Flamingo, About the Book apparatus (as filed; Hornbill's apparatus is twin) |
@@ -211,8 +215,10 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 | A Reading section and a Unit Review in every Part 2 unit | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Units 5–8, printed pp.58–105 |
 | Workbook Goal 72: answer eleven questions about your own school and write three of your own | Saudi Arabia, *We Can!* Student's Book 3 (Grade 3), Term 3 extract as bound, Workbook Goal 72, printed p.210 |
 | A reader story inside Grade 3's read school unit — Rana Had a Little Lamb (band reader's account, as filed) | Saudi Arabia, *We Can!* Student's Book 3 (Grade 3), Term 3 extract as bound, Unit 9 My School is Cool!, printed pp.66–73 |
-**Acceptance count: taught in 28 countries (Egypt, Ghana,
-India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia).** India builds the carrier hunt into the page and
+| The extensive home reading texts — fifteen story, poem and science texts, each with its own glossary, every one the target of a Project lesson's Home reading Task | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), printed pp.126–141 |
+| Reading texts answered from the text — the two Tunguska articles and the question under them (“What did Kasantsev [sic] suggest …?”) | Uzbekistan, *English Matters* Student's Book 8 (Grade 8), Unit 2, Lessons 7–8, printed pp.20–21 |
+**Acceptance count: taught in 29 countries (Egypt, Ghana,
+India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan).** India builds the carrier hunt into the page and
 prints the question-kind border; Ghana demands textual
 evidence under personal responses; Egypt examines by the
 unseen passage; China grades the answering shapes themselves
@@ -294,3 +300,5 @@ books are read (see READING-QUEUE.md).
 
 
 **Saudi Arabia added 2026-11-04 (rows and note corrected the same day against the corrected country filing)** — 2 books stock this lesson, as a partial: **Book:** *Top Goal 1* Student's Book, Grade 4 — **Part 2 only as bound** (Workbook Part 2 bound in the same file) (student's book) — McGraw Hill (authors Nico Dantaz and Rachel Finnie), 2025 combo production, no ISBN printed in the held copy (its imprint leaf is not bound in); **Book:** *We Can!* Student's Book 3, Grade 3 (student's book with Workbook goals bound in) — Saudi Arabia, Ministry of Education 2023–1445, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2024, ISBN 9781398928206 — **the held copy is the Term 3 extract of the full-year combo** (Student's Book Units 9–12, Term 3 Phonics Practice and Word List, the whole-year Picture Dictionary, Workbook Goals 65–96); Units 1–8 are known only from the book's own Syllabus and are cited as Syllabus-mapped, never as read. Filed in english/books/saudi-arabia.md (CORRECTED FILING 2026-11-04 — the first filing's unit accounts for Books 1–5 were proved wrong and discarded; the corrected accounts rest on the secured files' own Contents, Syllabus and imprint pages, coordinator-verified, with band-reader detail worded as such, and Book 6 on the coordinator's page-by-page map). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. Filed plainly as a partial: Grade 4's Part 2 units each carry a Reading section with a Unit Review; Grade 3's bound-in Workbook Goal 72 has learners answer eleven questions (about their own school) and write three of their own, and a reader story (Rana Had a Little Lamb, band reader's account) sits inside Grade 3's read school unit. The discarded first account's "I Can passage" framing is not used.
+
+**Uzbekistan added 2026-11-04** — 2 books stock this lesson: **Book:** *Fly High ENGLISH 6* — Classbook & Workbook combined volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8; **Book:** *English Matters* Student's Book 8 (student's book) — Uzbekistan, Macmillan Education, first published 2002 (held copy: the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1254-6. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Answering from the text is the set's everyday reading work: Fly High 6 binds fifteen home-reading texts into the course as set tasks with glossaries, and English Matters 8's reading lessons close with questions answered from the text just read — the Tunguska pair among them (the book's own spelling slip in the question is filed in the country file). The other five recorded Uzbekistan English books are link-only and are not cited anywhere; no teacher's book exists in Uzbekistan's English record and none is cited; and the Russian Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is cited nowhere.

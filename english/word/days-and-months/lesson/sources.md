@@ -1,6 +1,6 @@
 # Sources — Days and months
 
-countries: Bangladesh, Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia
+countries: Bangladesh, Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -105,6 +105,10 @@ english/books/jordan.md (Grade 6 Activity Book Semester 2 section, FULLY READ + 
 
 **Book 33:** English For Rwandan Primary Schools — Pupil's Book 3 (pupil's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md (Grade 3 — English For Rwandan Primary Schools — Pupil's Book 3 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 34:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 35:** *Fly High ENGLISH 6* — Classbook & Workbook combined in one volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "How many days are there in a week?" — "There are 7 days in a week"; the seven days listened and repeated Saturday-first (Egypt's school week); the list teaching after/before with arrows | Egypt, Primary 1 Term 2, Unit 1 "My Week," Lesson 1 "Days of the Week," p.6 |
@@ -194,8 +198,11 @@ english/books/jordan.md (Grade 6 Activity Book Semester 2 section, FULLY READ + 
 | The days of the week taught — "What day do you like? I like (Wednesday). How about you?" | Saudi Arabia, *We Can!* Student's Book 1, Term 3 combo (Grade 1), Unit 2 Days and Weather, printed p.10 |
 | Days of the week named again inside Grade 2's day frame | Saudi Arabia, *We Can!* Student's Book 2, Term 3 combo (Grade 2), Unit 3 My Day, Animals, Places, printed p.18 |
 | Months and seasons across Grade 2 Term 1's units (band reader's account, as filed) | Saudi Arabia, *We Can!* Student's Book 2, Term 1 combo (Grade 2), Units 2–3 area |
-**Acceptance count: taught in 28 countries (Bangladesh,
-Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia).** Egypt
+| Days of the week with today/tomorrow — “Today is …”; “The third day is Wednesday”; “On Thursday I …” | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 5, printed pp.42–44 |
+| Months in order, ordinal numbers extended to thirty-first, and birthdays and dates — “My birthday is on the twenty-second of …” | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 12, printed p.116 |
+| Dates with ordinal numbers — “the twelfth of August” — months, and the reading of years (1982 “nineteen eighty-two”, 2000 “two thousand”, 2002 “two thousand and two”) | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Unit 6, Lesson 1, printed p.36 |
+**Acceptance count: taught in 29 countries (Bangladesh,
+Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan).** Egypt
 carries the days first (its school-week
 order, Saturday-first); Bangladesh carries the days on a
 Sunday-first calendar, the months with their ordinal numbers,
@@ -278,3 +285,5 @@ first of January" (p.99).
 
 
 **Saudi Arabia added 2026-11-04 (rows and note corrected the same day against the corrected country filing)** — 3 books stock this lesson: **Book:** *We Can!* Student's Book 1, Term 3 combo, Grade 1 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2023–1445, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2024, ISBN 9781398928084; **Book:** *We Can!* Student's Book 2, Term 3 combo, Grade 2 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2023–1445, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2024, ISBN 9781398928145; **Book:** *We Can!* Student's Book 2, Term 1 combo, Grade 2 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2026–1448, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2025, ISBN 9781398962408. Filed in english/books/saudi-arabia.md (CORRECTED FILING 2026-11-04 — the first filing's unit accounts for Books 1–5 were proved wrong and discarded; the corrected accounts rest on the secured files' own Contents, Syllabus and imprint pages, coordinator-verified, with band-reader detail worded as such, and Book 6 on the coordinator's page-by-page map). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. Days are read directly twice — Grade 1 Term 3's days-and-weather unit and Grade 2 Term 3's day frame; months rest on the band reader's account of Grade 2 Term 1 (months and seasons across its units), as filed. Filed plainly: neither Grade 1 book in hand teaches months.
+
+**Uzbekistan added 2026-11-04** — 2 books stock this lesson: **Book:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9; **Book:** *Fly High ENGLISH 6* — Classbook & Workbook combined volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Fly High 5 teaches the week first (days with today and tomorrow, inside the school unit) and the year later (months in order, ordinals to thirty-first, birthday dates); Fly High 6's birthday unit binds dates, months and the reading of years into one Remember box. The other five recorded Uzbekistan English books are link-only and are not cited anywhere; no teacher's book exists in Uzbekistan's English record and none is cited; and the Russian Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is cited nowhere.

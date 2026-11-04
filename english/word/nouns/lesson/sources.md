@@ -1,6 +1,6 @@
 # Sources — Nouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia
+countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -132,6 +132,10 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 
 **Book 44:** English For Rwandan Primary Schools — Pupil's Book 6 (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019, no edition statement and no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 45:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 46:** *Fly High ENGLISH 6* — Classbook & Workbook combined in one volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition in its three-sort form: "Nouns — person, place, thing," taught with the "Life in the City" text (Karim) and sorting work | Egypt, Primary 2 Term 2, Unit 4, Lesson 3 "Language in Use," p.68 |
@@ -237,8 +241,12 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Classroom objects as a noun set (pencil, notebook, book, apple), with the book's Word List (p.51) and Picture Dictionary (pp.52–55) | Saudi Arabia, *We Can!* Student's Book 1, Term 1 combo (Grade 1), Unit 5 What's This? What's That?, printed p.36 |
 | Desk things with this/these and plurals (band reader's account, as filed) — pens, pencils, paper, glue, scissors, erasers, candy | Saudi Arabia, *We Can!* Student's Book 2, Term 3 combo (Grade 2), Unit 2 My Things, printed p.10 |
 | A concrete nature noun set opens Grade 4's outdoor unit — mountain, lake, island, desert, hill, cave, forest, field, countryside, waterfall | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Unit 5 Outdoor Fun, printed pp.58–69 |
-**Acceptance count: taught in 29 countries (Bangladesh, Egypt,
-Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia).**
+| Family words and plurals (brother — brothers) in the All about me unit | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 2, printed p.12 |
+| Irregular plurals in use — a fish — three fish, a sheep — two sheep, a canary — four canaries; a goose — geese | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 10, printed pp.91–92 |
+| Nouns as a reference point of the book's own grammar inventory: plurals and their spelling and pronunciation, the special plurals (man — men, child — children, foot — feet, deer, fish), and possessive 's or s' | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Grammar Reference point 6, printed pp.168–177 |
+| Countable and mass nouns as the Grammar Reference's first section, including the a piece / packet / bottle / box of structure | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Grammar Reference section 1, printed pp.142–149 |
+**Acceptance count: taught in 30 countries (Bangladesh, Egypt,
+Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan).**
 Egypt and Bangladesh carry the definition itself,
 each in the three-sort form; Libya carries it twice more in its
 own shorter words; Ghana carries the sentence test; China
@@ -296,3 +304,5 @@ pp.99–108).
 
 
 **Saudi Arabia added 2026-11-04 (rows and note corrected the same day against the corrected country filing)** — 3 books stock this lesson, as a partial: **Book:** *We Can!* Student's Book 1, Term 1 combo, Grade 1 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2026–1448, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2025, ISBN 9781398962385; **Book:** *We Can!* Student's Book 2, Term 3 combo, Grade 2 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2023–1445, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2024, ISBN 9781398928145; **Book:** *Top Goal 1* Student's Book, Grade 4 — **Part 2 only as bound** (Workbook Part 2 bound in the same file) (student's book) — McGraw Hill (authors Nico Dantaz and Rachel Finnie), 2025 combo production, no ISBN printed in the held copy (its imprint leaf is not bound in). Filed in english/books/saudi-arabia.md (CORRECTED FILING 2026-11-04 — the first filing's unit accounts for Books 1–5 were proved wrong and discarded; the corrected accounts rest on the secured files' own Contents, Syllabus and imprint pages, coordinator-verified, with band-reader detail worded as such, and Book 6 on the coordinator's page-by-page map). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. Filed plainly as a partial: nouns arrive as themed sets — Grade 1's classroom objects with the book's Picture Dictionary (printed pp.52–55) and Word List (p.51), Grade 2 Term 3's desk things with this/these and plurals on the reader's account, Grade 4's nature set — but no book in hand names "noun" as a word kind.
+
+**Uzbekistan added 2026-11-04** — 2 books stock this lesson: **Book:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9; **Book:** *Fly High ENGLISH 6* — Classbook & Workbook combined volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Uzbekistan teaches the noun through plurals from its first primary book — regular plurals in the family unit, the irregular set (fish, sheep, geese) in the animals units — and states the whole system in Fly High 5's Grammar Reference (plurals, their spelling and pronunciation, special plurals, possessive 's). Fly High 6's reference opens with countable and mass nouns and the piece/packet/bottle/box structure. The other five recorded Uzbekistan English books are link-only and are not cited anywhere; no teacher's book exists in Uzbekistan's English record and none is cited; and the Russian Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is cited nowhere.

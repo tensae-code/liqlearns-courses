@@ -1,6 +1,6 @@
 # Sources — Animals
 
-countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia
+countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -153,6 +153,10 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 2 section, FULLY READ + C
 
 **Book 48:** English For Rwandan Primary Schools — Pupil's Book 6 (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019 (no edition statement printed), no ISBN printed. Filed in english/books/rwanda.md (Grade 6 — English For Rwandan Primary Schools — Pupil's Book 6 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 49:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 50:** *Fly High ENGLISH 6* — Classbook & Workbook combined in one volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The farm dialog (Noor and Ziad): "Look at the cow!" — "The cow is big." — "The duck is small." — "Do you see the horse?" — "The chicken is small." — "I love farm animals!" | Egypt, Primary 1 Term 1, Unit 5 "On the Farm," Lesson 1, p.85 |
@@ -250,9 +254,12 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 2 section, FULLY READ + C
 | Animals under can/can't — "(Ostriches) can (run) but (they) can't (fly)" | Saudi Arabia, *We Can!* Student's Book 2, Term 3 combo (Grade 2), Unit 3 My Day, Animals, Places, printed p.18 |
 | Sea Animals mapped in Grade 3 (with comparatives) — Syllabus-mapped only; the unit body is not in the held copy | Saudi Arabia, *We Can!* Student's Book 3 (Grade 3), Term 3 extract as bound, Unit 2 Sea Animals, Syllabus-mapped |
 | Wild animals and their habitats as Grade 4's wildlife unit | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Unit 7 Wildlife, printed pp.82–93 |
-**Acceptance count: taught in 30 countries (Bangladesh, Egypt,
+| Pets and domestic animals — with can for animal abilities and the pet-care phrases (feed a pet, take a pet for a walk, keep a pet clean, look after) | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 10, printed pp.91–94 |
+| Wild animals and their habitats — lion, deer, tortoise, frog, bear, snake, bird, crocodile, wolf, tiger, elephant, monkey, giraffe, gazelle, black panther — with live in (forest, mountains, desert, water) | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 11, printed pp.102–106 |
+| African park animals, and the difference between a zoo and a national park | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Unit 15, Lesson 2, printed p.91 |
+**Acceptance count: taught in 31 countries (Bangladesh, Egypt,
 Libya, Palestine, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia).** Egypt carries the farm four with the first
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan).** Egypt carries the farm four with the first
 size pair; Palestine carries the youngest learners' set;
 Bangladesh carries homes and foods as whole sentences; Libya
 carries the wild names inside its letter list; China carries
@@ -298,3 +305,5 @@ countries join as their books are read (see READING-QUEUE.md).
 
 
 **Saudi Arabia added 2026-11-04 (rows and note corrected the same day against the corrected country filing)** — 4 books stock this lesson: **Book:** *We Can!* Student's Book 1, Term 3 combo, Grade 1 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2023–1445, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2024, ISBN 9781398928084; **Book:** *We Can!* Student's Book 2, Term 3 combo, Grade 2 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2023–1445, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2024, ISBN 9781398928145; **Book:** *We Can!* Student's Book 3, Grade 3 (student's book with Workbook goals bound in) — Saudi Arabia, Ministry of Education 2023–1445, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2024, ISBN 9781398928206 — **the held copy is the Term 3 extract of the full-year combo** (Student's Book Units 9–12, Term 3 Phonics Practice and Word List, the whole-year Picture Dictionary, Workbook Goals 65–96); Units 1–8 are known only from the book's own Syllabus and are cited as Syllabus-mapped, never as read; **Book:** *Top Goal 1* Student's Book, Grade 4 — **Part 2 only as bound** (Workbook Part 2 bound in the same file) (student's book) — McGraw Hill (authors Nico Dantaz and Rachel Finnie), 2025 combo production, no ISBN printed in the held copy (its imprint leaf is not bound in). Filed in english/books/saudi-arabia.md (CORRECTED FILING 2026-11-04 — the first filing's unit accounts for Books 1–5 were proved wrong and discarded; the corrected accounts rest on the secured files' own Contents, Syllabus and imprint pages, coordinator-verified, with band-reader detail worded as such, and Book 6 on the coordinator's page-by-page map). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. Grade 1 Term 3's animals unit carries the big set (pets and farm/wild words together) with "Do you have a pet?"; Grade 2 Term 3 puts animals under can/can't; Grade 3's sea animals are Syllabus-mapped only; Grade 4's wildlife unit is read in full.
+
+**Uzbekistan added 2026-11-04** — 2 books stock this lesson: **Book:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9; **Book:** *Fly High ENGLISH 6* — Classbook & Workbook combined volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Animals fill two whole Fly High 5 units — pets and farm animals with their care, then wildlife with habitats — and return in Fly High 6's national-parks lesson. Filed plainly: Fly High 5's Unit 10 Lesson 5 page (printed p.95) is missing from the held copy and is cited nowhere; nothing in these rows rests on it. The other five recorded Uzbekistan English books are link-only and are not cited anywhere; no teacher's book exists in Uzbekistan's English record and none is cited; and the Russian Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is cited nowhere.

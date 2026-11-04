@@ -1,6 +1,6 @@
 # Sources — Using the dictionary
 
-countries: Bangladesh, India, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Bangladesh, India, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -117,6 +117,10 @@ english/books/jordan.md (Grade 6 Activity Book Semester 1 section, FULLY READ + 
 
 **Book 39:** English For Rwandan Primary Schools — Pupil's Book 6 (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019 (no edition statement printed), no ISBN printed. Filed in english/books/rwanda.md (Grade 6 — English For Rwandan Primary Schools — Pupil's Book 6 section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 40:** *Fly High ENGLISH 6* — Classbook & Workbook combined in one volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 41:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a dictionary gives — spelling, pronunciation, meaning, word class; examples printed in italics; synonyms and antonyms given; words made by prefixes and suffixes; a verb shown in its simple present tense with past form and past participle — taught on a reproduced dictionary page for 'fit' (fit → fitful, fitment, fitness, fitness centre, fitted, fitter, fitting, fixture) with sentence matching | Bangladesh, English for Today Class 8, Unit Four "Check Your Reference," Lesson 2 "Using a Dictionary," pp.36–38 |
@@ -176,9 +180,13 @@ english/books/jordan.md (Grade 6 Activity Book Semester 1 section, FULLY READ + 
 | MAPPED — a dictionary-skills reading (Lesson 109) | Malaysia, Year 4 Scheme of Work (KSSR), as mapped in the Scheme of Work — scheme-of-work/mapped evidence only: the pupil's book it maps (Get Smart Plus 4) is not held, and this is not a textbook read or a pupil's-book page, Unit 7 "Helping out", Lesson 109 |
 | A using-a-dictionary study built on the Oxford Student's Dictionary of Current English - headword, pronunciation, part of speech, abbreviations and symbols - the course's one dictionary-skills study | Yemen, *English Course for Yemen* Workbook 4 (Grade 10), Unit 5, exercise 5.10 (Unit 5, printed pp.58-75) |
 | The limit, stated plainly: this single workbook study is the whole of Yemen's dictionary teaching - the pupil's books print no dictionary work, and the course's word lists (printed in the workbooks) are bare inventories with no definitions, never counted here as dictionary teaching | Yemen, the held set as filed in english/books/yemen.md (Workbook 4 section, honest negatives) |
+| A sample dictionary page read as an activity — the entries for “rainfall” and “average” — and pupils say what information a dictionary gives | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Unit 13, Lesson 2, printed p.79 |
+| Dictionary-style entries — “cut down (v)”, “destroy (v)”, “oxygen (n)” — and what information can be found in the dictionary | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Unit 13, Lesson 5, printed p.82 |
+| Wordlist and Grammar Table use tested as named learning skills in the self-assessment quiz | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Unit 11, Lesson 5, printed p.70 |
+| The book's own trilingual wordlist — alphabetical, with transcription and a word-class label for every entry — which the lessons send pupils to constantly, with alphabetical-order exercises in the units | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Wordlist, printed pp.178–198; exercises at printed pp.25 and 44 |
 
-**Acceptance count: taught in 20 countries (Bangladesh, India,
-Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Rwanda, Malaysia, Yemen, Afghanistan).** Bangladesh
+**Acceptance count: taught in 21 countries (Bangladesh, India,
+Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan).** Bangladesh
 carries the full skill — order, guide
 words, the entry, many meanings; India carries the first
 form, a picture dictionary in every year's book; Mongolia
@@ -210,3 +218,5 @@ READING-QUEUE.md).
 
 
 **Afghanistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English for Afghanistan: Student's Book*, Grade 9 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 10 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan stocks this lesson in full from one page: Grade 9 opens its education unit with a reading that takes a dictionary entry apart part by part — guide words, syllabification, pronunciation, part of speech, definition, sample sentence — and questions the pupil on the parts. Grade 10 adds alphabetical order as word study. The books' own end-of-unit word lists are English-only lists and are not counted here.
+
+**Uzbekistan added 2026-11-04** — 2 books stock this lesson, as a partial: **Book:** *Fly High ENGLISH 6* — Classbook & Workbook combined volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8; **Book:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly as a partial: Uzbekistan's dictionary teaching is real but bounded — Fly High 6 twice stops to read dictionary-style entries and ask what a dictionary tells you, and tests wordlist use as a named skill; Fly High 5's own wordlist is alphabetical with transcription and word-class labels, and pupils are sent to it constantly. But guide words are never taught, and every exercise runs on the books' own wordlists or sample entries — no standalone learner's-dictionary training is filed in the set. The other five recorded Uzbekistan English books are link-only and are not cited anywhere; no teacher's book exists in Uzbekistan's English record and none is cited; and the Russian Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is cited nowhere.

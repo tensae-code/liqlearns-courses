@@ -1,6 +1,6 @@
 # Sources for this lesson — Good morning and good afternoon
 
-countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia
+countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -43,7 +43,8 @@ explains one thing only.
 | Morning and afternoon greetings exchanged together in the book's final review dialogue | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Unit Fifteen (Review), printed p.137 |
 
 | "Good morning. Welcome to class." among the classroom-English routines that open Grade 2's Term 1 book | Saudi Arabia, *We Can!* Student's Book 2, Term 1 combo (Grade 2), Introduction: Classroom English, printed p.2 |
-**Acceptance count: taught in 22 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia).**
+| Greetings sorted by time of day in the All about me unit's vocabulary | Uzbekistan — *Fly High ENGLISH 5* (Grade 5), Unit 2, printed pp.9–19 |
+**Acceptance count: taught in 23 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan).**
 China teaches the pair inside its colours unit in the first
 primary book; Mongolia stocks the day-part ground the greeting
 stands on — one boy's whole day told in clock pictures — from a
@@ -327,3 +328,5 @@ is recorded.
 **Afghanistan added 2026-11-04** — 1 book stocks this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 4 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan stocks both halves of this lesson in full from its first book: Grade 4 gives "Good morning", "Good afternoon" and "Good evening" one unit each as the greeting dialogue of the unit, then exchanges morning and afternoon together in its final review. Few sets in the pool teach the afternoon greeting as its own exchange; this one does.
 
 **Saudi Arabia added 2026-11-04 (rows and note corrected the same day against the corrected country filing)** — 1 book stocks this lesson, as a partial: **Book:** *We Can!* Student's Book 2, Term 1 combo, Grade 2 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2026–1448, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2025, ISBN 9781398962408. Filed in english/books/saudi-arabia.md (CORRECTED FILING 2026-11-04 — the first filing's unit accounts for Books 1–5 were proved wrong and discarded; the corrected accounts rest on the secured files' own Contents, Syllabus and imprint pages, coordinator-verified, with band-reader detail worded as such, and Book 6 on the coordinator's page-by-page map). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. Filed plainly as a partial — the morning half only: "Good morning" opens Grade 2's classroom-English introduction. "Good afternoon" is not filed anywhere in the six books in hand, and Grade 1's introduction routines (Welcome. Please take a seat.) carry no morning form.
+
+**Uzbekistan added 2026-11-04** — 1 book stocks this lesson, as a partial: **Book:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly as a partial: Fly High 5's All about me unit teaches its greetings sorted by time of day, as vocabulary; the country filing prints no morning or afternoon greeting dialogue, so Uzbekistan is stocked at vocabulary level only, for both halves as one set. The other five recorded Uzbekistan English books are link-only and are not cited anywhere; no teacher's book exists in Uzbekistan's English record and none is cited; and the Russian Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is cited nowhere.

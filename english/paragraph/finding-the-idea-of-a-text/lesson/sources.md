@@ -1,6 +1,6 @@
 # Sources — Finding the idea of a text
 
-countries: Bangladesh, Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Bangladesh, Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -130,6 +130,10 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 37:** English Learner's Book for Rwandan Primary Schools, P.5 (Learner's Book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 38:** English For Rwandan Primary Schools — Pupil's Book 6 (Pupil's Book) — Rwanda, Rwanda Education Board (REB), © 2019, no edition statement printed, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 39:** *English Matters* Student's Book 9 (student's book) — Uzbekistan, Macmillan Education, first published 2003 (the held copy is the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1255-3. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 40:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Paragraph Development — the four modes named (expository, narrative, description, argument); "main idea vs supporting details; cohesive devices" — the weighing itself, named as the reading skill | Ghana, NaCCA JHS curriculum, Strand (Paragraph Development, as filed) |
@@ -201,9 +205,11 @@ CITATION CHECK PASSED 2026-11-03).
 | Main-idea work set over a reading article — main-idea, question and word-finding tasks on the tour-guide text | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 7, Lesson 2, printed pp.70–71 |
 | Main ideas matched to their paragraphs over the senses text, in a KWL reading | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 6, Lesson 2, printed pp.60–61 |
 | Five ways to get the meaning of a passage — title, first/last parts, pictures, words you know, structure — taught as a reading-skills block, with a practice passage | Afghanistan, *English for Afghanistan: Student's Book*, Grade 11, Unit 1, printed pp.12–18 |
+| Matching headings to the six parts of a text — the Great Silk Road's routes, goods, towns and decline | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Unit 5, Lessons 1–2, printed p.50 |
+| Reading short texts and titling them — family texts in the home unit, a strongman's day in the routine unit | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 3, printed pp.20–30; Unit 8, printed pp.71–80 |
 
-**Acceptance count: taught in 25 countries (Bangladesh,
-Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan).** Ghana names the weighing (main idea vs supporting
+**Acceptance count: taught in 26 countries (Bangladesh,
+Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan).** Ghana names the weighing (main idea vs supporting
 details) and the own-words law; Bangladesh sets the choice
 as a task; China hunts the idea by title-choice and by the
 one question a whole text answers, and names the
@@ -277,3 +283,5 @@ read (see READING-QUEUE.md).
 
 
 **Afghanistan added 2026-11-04** — 3 books stock this lesson: **Book:** *English for Afghanistan: Student's Book*, Grade 8 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 9 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 11 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan works main ideas from Grade 8 (a main-idea task over the tour-guide article; main ideas matched to paragraphs in Grade 9) and teaches the finding itself in Grade 11: five ways to get a passage's meaning, named and practised.
+
+**Uzbekistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English Matters* Student's Book 9 (student's book) — Uzbekistan, Macmillan Education, first published 2003 (held copy: the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1255-3; **Book:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). The idea of a text is worked at both ends of the set: Fly High 5's readers must title the short texts they read — family texts first, then a strongman's day — and English Matters 9 sets heading-matching over a six-part text as its Silk Road lesson's core work. The other five recorded Uzbekistan English books are link-only and are not cited anywhere; no teacher's book exists in Uzbekistan's English record and none is cited; and the Russian Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is cited nowhere.

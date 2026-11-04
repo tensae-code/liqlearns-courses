@@ -1,6 +1,6 @@
 # Sources — The passive
 
-countries: Egypt, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Egypt, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -132,6 +132,10 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 **Book 56:** English Learner's Book for Rwandan Primary Schools, P.5 (Learner's Book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 57:** English Teacher's Guide for Rwandan Primary Schools, P5 (Teacher's Guide) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). True companion to Book 56.
 
+**Book 58:** *English Matters* Student's Book 8 (student's book) — Uzbekistan, Macmillan Education, first published 2002 (the held copy is the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1254-6. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 59:** *English Matters* Student's Book 9 (student's book) — Uzbekistan, Macmillan Education, first published 2003 (the held copy is the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1255-3. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The PASSIVE discovery — the active/passive pair ("Edison invented the light bulb in 1879." → "The light bulb was invented by Edison in 1879.") and the rule as printed: "The passive is formed with be + past participle," + transformations | Mongolia, English X, Unit 6 "Inventions," p.86 |
@@ -244,10 +248,16 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | A full passive-forms chart across present/past simple and continuous, present/past perfect, future and modals, with active-to-passive conversion exercises - the pupil's book confines it to this one review page | Yemen, *English Course for Yemen* Pupil's Book 4 (Grade 10), Language review 5, printed p.56 |
 | The passive taught explicitly in a workbook Language study (active/passive table across tenses, when the passive is used), with conversion exercises and passive gap-fills | Yemen, *English Course for Yemen* Workbook 4 (Grade 10), Unit 6, exercise 6.8 (Unit 6, printed pp.76-98) |
 | The passive extended at Grade 11: be + past participle with present-perfect passive, modal passive and future passive | Yemen, *English Course for Yemen* Pupil's Book 5 (Grade 11), Language review 2, printed p.23 |
+| Passive structures, present and past — sentence matching of the “Romeo and Juliet was written by …” type, and a gap-fill newspaper story about a Van Gogh painting in which learners supply the passive forms | Uzbekistan, *English Matters* Student's Book 8 (Grade 8), Unit 4, Lessons 3–4, printed p.40 |
+| The passive (Present simple, Past simple) inside a long factual text on the Aral Sea disaster, followed by active-to-passive rewriting | Uzbekistan, *English Matters* Student's Book 8 (Grade 8), Unit 8, Lessons 3–4, printed p.88 |
+| The Grammar Section's passive entry — Present simple passive, Past simple passive, Present perfect passive | Uzbekistan, *English Matters* Student's Book 8 (Grade 8), Grammar Section, printed p.153 |
+| Passive structures through The history of money — a gap-fill text where learners supply passive verb forms, then rewriting sentences into the worked example's pattern | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Unit 4, Lessons 1–2, printed p.38 |
+| Present passive in matching — tea is grown, oil is produced, sheep are raised, oil is piped, salmon are fished | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Unit 4, Lessons 3–4, printed p.40 |
+| The Grammar Section's passive entry — Present simple passive, Past simple passive, Present perfect passive, and passive questions | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Grammar Section, printed p.144 |
 
 
-**Acceptance count: taught in 26 countries (Egypt,
-Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan).** Mongolia discovers the shape from the
+**Acceptance count: taught in 27 countries (Egypt,
+Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan).** Mongolia discovers the shape from the
 Edison pair, drills by + agent in its inventions unit,
 and spreads the present/past/future coats in its clothing
 unit and reference. Libya prints the full five-tense
@@ -319,3 +329,5 @@ from its naming in Book Four to the full system here.
 
 
 **Afghanistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English for Afghanistan: Student's Book*, Grade 11 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. **Book:** *English for Afghanistan: Student's Book*, Grade 12 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Both filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan systematises the passive in Grade 11: its Islam unit teaches the full system — form, by-phrase, tense range, the object rule — and its communication unit adds the present perfect passive. Grade 12 then EXTENDS that system with new forms — the past perfect passive (Unit 2 "Conservation," Grammar, printed pp.17–18) and the simple present passive for scientific statements (Unit 5 "Earth and its neighbors," Grammar, printed pp.56–57) — and revises the present perfect passive (Unit 6 "The Wonderful World of the Web," Revision, printed pp.77–78). Earlier books use passives in readings without ever teaching them, and use without teaching is not stocked. (Grade 12 rows added 2026-11-04, after afghanistan.md's header was corrected against its Grade 12 sections; Afghanistan's count in this lesson is unchanged — this is a deepening, not a new country.)
+
+**Uzbekistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English Matters* Student's Book 8 (student's book) — Uzbekistan, Macmillan Education, first published 2002 (held copy: the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1254-6; **Book:** *English Matters* Student's Book 9 (student's book) — Uzbekistan, Macmillan Education, first published 2003 (held copy: the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1255-3. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). The passive is the English Matters pair's shared grammar spine: Book 8 teaches present and past passive in its art unit, works them inside the Aral Sea text with active-to-passive rewriting, and states three forms in its Grammar Section; Book 9 re-teaches the pair through the history of money and states the same three forms plus passive questions. The Present perfect passive rows are stocked here deliberately: the present perfect passive is the only present-perfect form either book ever explains, and it belongs to this lesson — the active present perfect is taught nowhere in the set and is stocked nowhere. Neither book presents a future, modal or two-object passive, and Fly High teaches no passive at all. The other five recorded Uzbekistan English books are link-only and are not cited anywhere; no teacher's book exists in Uzbekistan's English record and none is cited; and the Russian Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is cited nowhere.

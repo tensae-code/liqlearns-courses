@@ -1,6 +1,6 @@
 # Sources — The story
 
-countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia
+countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -161,6 +161,12 @@ PASSED 2026-11-03).
 **Book 48:** English Learner's Book for Rwandan Primary Schools, P.5 (Learner's Book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 49:** English For Rwandan Primary Schools — Pupil's Book 6 (Pupil's Book) — Rwanda, Rwanda Education Board (REB), © 2019, no edition statement printed, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 50:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 51:** *Fly High ENGLISH 6* — Classbook & Workbook combined in one volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 52:** *English Matters* Student's Book 8 (student's book) — Uzbekistan, Macmillan Education, first published 2002 (the held copy is the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1254-6. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Paragraph Development names the four modes — "expository, narrative, description, argument" — narrative standing as the story's mode among the kinds of writing | Ghana, NaCCA JHS curriculum, Paragraph Development (as filed) |
@@ -245,8 +251,13 @@ PASSED 2026-11-03).
 | A Story spread runs in every Part 2 unit | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Units 5–8, printed pp.58–105 |
 | An island story closes the part, inside "Goodbye!" | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Goodbye!, printed pp.106–111 |
 | A reader story inside Grade 3's read school unit — Rana Had a Little Lamb (band reader's account, as filed; summarised in the country record, not transcribed) | Saudi Arabia, *We Can!* Student's Book 3 (Grade 3), Term 3 extract as bound, Unit 9 My School is Cool!, printed pp.66–73 |
-**Acceptance count: taught in 27 countries (Bangladesh,
-Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia).** Ghana names the narrative mode; Bangladesh
+| Story texts inside the units, filed as plots only — a father mouse mistaking every farm animal for the cat until a dog's bark gives the cat away; Jackie the zoo monkey; Fluffy the polar bear who doubts she is one | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), printed pp.99, 106 and 141 |
+| Little Red Riding Cap — the retold tale closing the final review, in which the girl takes her grandmother a pizza and the lonely wolf gains friends (plot only) | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Learning Review for Units 13–14, printed pp.163–164 |
+| The Snake and the Swallow told across three lessons — how tales begin (“Once upon a time …”), continue and end (“They all lived happily ever after”) | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Unit 14, Lessons 3–5, printed pp.86–88 |
+| Home reading tales, filed as plots only — Arap Sang and the cranes; Anansi and the Banana Bird; the tale of two brothers; Blackie the crow and Furry the fox | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), printed pp.132–140 |
+| Aesop's The Hare and the Tortoise printed as nine jumbled sections (A–I) to be put in order, its moral stated (slow but steady beats quick but careless) | Uzbekistan, *English Matters* Student's Book 8 (Grade 8), Unit 6, Lesson 9, printed p.70 |
+**Acceptance count: taught in 28 countries (Bangladesh,
+Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan).** Ghana names the narrative mode; Bangladesh
 teaches stories from its earliest classes with the fables;
 Egypt reads whole stories through the secondary years;
 China names the story's three parts outright (setting,
@@ -331,3 +342,5 @@ READING-QUEUE.md).
 
 
 **Saudi Arabia added 2026-11-04 (rows and note corrected the same day against the corrected country filing)** — 2 books stock this lesson: **Book:** *Top Goal 1* Student's Book, Grade 4 — **Part 2 only as bound** (Workbook Part 2 bound in the same file) (student's book) — McGraw Hill (authors Nico Dantaz and Rachel Finnie), 2025 combo production, no ISBN printed in the held copy (its imprint leaf is not bound in); **Book:** *We Can!* Student's Book 3, Grade 3 (student's book with Workbook goals bound in) — Saudi Arabia, Ministry of Education 2023–1445, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2024, ISBN 9781398928206 — **the held copy is the Term 3 extract of the full-year combo** (Student's Book Units 9–12, Term 3 Phonics Practice and Word List, the whole-year Picture Dictionary, Workbook Goals 65–96); Units 1–8 are known only from the book's own Syllabus and are cited as Syllabus-mapped, never as read. Filed in english/books/saudi-arabia.md (CORRECTED FILING 2026-11-04 — the first filing's unit accounts for Books 1–5 were proved wrong and discarded; the corrected accounts rest on the secured files' own Contents, Syllabus and imprint pages, coordinator-verified, with band-reader detail worded as such, and Book 6 on the coordinator's page-by-page map). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. Every *Top Goal 1* Part 2 unit carries a Story spread, the part closes with an island story in "Goodbye!", and Grade 3's read school unit holds a reader story, Rana Had a Little Lamb, on the band reader's account as filed. (The discarded first account's Grade 1 TPR-story row is removed — that story does not exist in the held books.)
+
+**Uzbekistan added 2026-11-04** — 3 books stock this lesson: **Book:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9; **Book:** *Fly High ENGLISH 6* — Classbook & Workbook combined volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8; **Book:** *English Matters* Student's Book 8 (student's book) — Uzbekistan, Macmillan Education, first published 2002 (held copy: the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1254-6. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Story runs through the whole set: Fly High 5 tells short tales inside its units and closes with a retold Little Red Riding Cap; Fly High 6 gives the fairy tale a full unit — one tale told across three lessons under the book's own account of how tales open and close — and binds fifteen home-reading texts behind it; English Matters 8 prints The Hare and the Tortoise as a jumbled story to rebuild, moral attached. All adapted tales are stocked as plots only, exactly as the country file records them. The other five recorded Uzbekistan English books are link-only and are not cited anywhere; no teacher's book exists in Uzbekistan's English record and none is cited; and the Russian Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is cited nowhere.

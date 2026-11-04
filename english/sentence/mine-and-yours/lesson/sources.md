@@ -1,6 +1,6 @@
 # Sources — Mine and yours
 
-countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia
+countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -93,6 +93,8 @@ CITATION CHECK PASSED 2026-11-03).
 
 **Book 28:** Success English for Rwandan Schools — Primary 1 Pupil's Book (pupil's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 29:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 4 "That's Mine" — its objectives seat the genitive 's, possessive adjectives, and possessive pronouns as one ownership unit | Mongolia, English VI, Unit 4 (opens p.41) |
@@ -160,7 +162,9 @@ CITATION CHECK PASSED 2026-11-03).
 | The possessive system mapped in Grade 3's opener — my/your/his/her/our/their; Whose …?; mine/yours themselves; Steve's — Syllabus-mapped only; the unit body is not in the held copy | Saudi Arabia, *We Can!* Student's Book 3 (Grade 3), Term 3 extract as bound, Unit 1 It's Nice to Meet You!, Syllabus-mapped |
 | "This is my (brother, Jack)" — the possessive adjective read in Grade 1's family frames | Saudi Arabia, *We Can!* Student's Book 1, Term 1 combo (Grade 1), Unit 3 My Family, printed p.20 |
 | Possessive 's across Grade 2 Term 1's units (band reader's account, as filed) | Saudi Arabia, *We Can!* Student's Book 2, Term 1 combo (Grade 2), Units 2–3 area |
-**Acceptance count: taught in 25 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia).**
+| Possessive 's for people — Lucy's, the boy's book, the girls' desk, the boys' books — under “Whose pen is red?” | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 7, printed p.62 |
+| “It's mine” — possessive pronouns mine, his, hers, yours set against my, his, her, your | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 7, printed p.63 |
+**Acceptance count: taught in 26 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan).**
 Mongolia's "That's Mine" unit carries the whole lesson —
 the 's box, the whose matching, the three-rung box, the
 game; Egypt's youngest books hold the partner forms from
@@ -225,3 +229,5 @@ irregular plurals (p.47), and a pronoun → possessive adjective
 
 
 **Saudi Arabia added 2026-11-04 (rows and note corrected the same day against the corrected country filing)** — 3 books stock this lesson, as a partial: **Book:** *We Can!* Student's Book 3, Grade 3 (student's book with Workbook goals bound in) — Saudi Arabia, Ministry of Education 2023–1445, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2024, ISBN 9781398928206 — **the held copy is the Term 3 extract of the full-year combo** (Student's Book Units 9–12, Term 3 Phonics Practice and Word List, the whole-year Picture Dictionary, Workbook Goals 65–96); Units 1–8 are known only from the book's own Syllabus and are cited as Syllabus-mapped, never as read; **Book:** *We Can!* Student's Book 1, Term 1 combo, Grade 1 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2026–1448, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2025, ISBN 9781398962385; **Book:** *We Can!* Student's Book 2, Term 1 combo, Grade 2 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2026–1448, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2025, ISBN 9781398962408. Filed in english/books/saudi-arabia.md (CORRECTED FILING 2026-11-04 — the first filing's unit accounts for Books 1–5 were proved wrong and discarded; the corrected accounts rest on the secured files' own Contents, Syllabus and imprint pages, coordinator-verified, with band-reader detail worded as such, and Book 6 on the coordinator's page-by-page map). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. Filed plainly, worded exactly on the evidence: the possessive pronouns mine/yours are Syllabus-mapped in Grade 3's opener — its Syllabus lists my/your/his/her/our/their, Whose …? and mine/yours — but that unit's body is not in the held Term 3 extract, so Saudi's mine/yours stock is mapped, not read. What is read: "This is my (brother)" in Grade 1 and possessive 's on the reader's account in Grade 2.
+
+**Uzbekistan added 2026-11-04** — 1 book stocks this lesson: **Book:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Mine and yours are taught directly in Fly High 5's classroom unit, one lesson apart: possessive 's answers Whose? first, then the possessive pronouns are set against the possessive adjectives in a single lesson whose title is the pattern itself — “It's mine”. This is read teaching, not mapped coverage. The other five recorded Uzbekistan English books are link-only and are not cited anywhere; no teacher's book exists in Uzbekistan's English record and none is cited; and the Russian Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is cited nowhere.

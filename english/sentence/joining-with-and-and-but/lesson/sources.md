@@ -1,6 +1,6 @@
 # Sources — Joining with and and but
 
-countries: Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -105,6 +105,8 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 38:** English for Rwandan Primary Schools — Teacher's Guide 3 (teacher's guide) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). A true companion to the held Pupil's Book 3, cited for its own connector teaching.
 **Book 39:** English Learner's Book for Rwandan Primary Schools, P5 (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 40:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
 | Lesson part | Where it comes from |
 |---|---|
 | COMPOUND SENTENCES open (B3.5.9.1): "join simple sentences with the coordinating conjunction AND — 'The boy woke up' + 'The boy prayed' → 'The boy woke up and prayed' — then AND and BUT in groups" | Ghana, NaCCA B1–B3 curriculum, Basic 3, Strand 5 |
@@ -178,9 +180,10 @@ CITATION CHECK PASSED 2026-11-03).
 | Joining with and/or inside the likes unit's Language summary (like/likes, don't/doesn't, Do/Does questions, joining with and/or) | Yemen, *English Course for Yemen* Pupil's Book 1 (Grade 7), Unit 4, Language summary, printed p.28 |
 | Sentence joining with and/but/so/or in story writing and re-ordering work | Yemen, *English Course for Yemen* Workbook 3 (Grade 9), Unit 1 (printed pp.1-17) |
 | Linking ideas taught in a Language study: and/but/because/or, then when/so, so ... that, too ... to - with sentence joining | Yemen, *English Course for Yemen* Workbook 3 (Grade 9), Unit 4, Language study, printed pp.55-56 |
+| Likes contrasted with but — “I like cooking but Rano doesn't” | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 9, printed p.81 |
 
 
-**Acceptance count: taught in 25 countries (Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan).**
+**Acceptance count: taught in 26 countries (Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan).**
 Ghana opens the compound sentence with AND, seats BUT
 beside it, lists the four coordinators, and widens the
 family in its own order; Bolivia posts the but/however
@@ -245,3 +248,5 @@ but, or"** (Activity Book, Unit 1, printed p.20).
 
 
 **Afghanistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English for Afghanistan: Student's Book*, Grade 10 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 11 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan names the conjunction in Grade 10's hospital unit — defined as a joining word and worked across and/but/or and the time words — and teaches the connector set (and/too/also/either, or, but) as sentence-joining in Grade 11's health-care unit.
+
+**Uzbekistan added 2026-11-04** — 1 book stocks this lesson, as a partial: **Book:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly as a partial — the but half only: Fly High 5 joins contrasted likes with but in its hobbies unit, and that is the one coordinator joining taught in the set. No and-joining lesson is filed in any held Uzbekistan book, and English Matters 8's contents word “conjunctions” (Unit 9) names no conjunction and is not counted. The other five recorded Uzbekistan English books are link-only and are not cited anywhere; no teacher's book exists in Uzbekistan's English record and none is cited; and the Russian Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is cited nowhere.

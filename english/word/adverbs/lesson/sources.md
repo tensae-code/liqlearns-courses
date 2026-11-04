@@ -1,6 +1,6 @@
 # Sources — Adverbs
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -137,6 +137,10 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 
 **Book 46:** English For Rwandan Primary Schools — Pupil's Book 6 (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019, no edition statement and no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 47:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 48:** *English Matters* Student's Book 8 (student's book) — Uzbekistan, Macmillan Education, first published 2002 (the held copy is the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1254-6. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition in one line: "Adverbs say how an action is done. The adverb usually comes after the verb." — plus underlining the adverbs in a dialogue (regularly, carefully…) | Bangladesh, English for Today Class 5, LANGUAGE FOCUS: ADVERBS box, p.27 |
@@ -235,8 +239,12 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Adverbs of manner taught in a Language study: formation tables, the -ly rule, and the hard/fast/well irregulars | Yemen, *English Course for Yemen* Workbook 3 (Grade 9), Language study, printed p.124 |
 | Adverbs and adverbial phrases (how / where / when) reviewed at Grade 12 | Yemen, *English Course for Yemen* Pupil's Book 6 (Grade 12), Language review 4, printed p.15 |
 | Adjectives and adverbs treated together inside the comparatives-and-superlatives chart (long/short adjectives and adverbs) | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Unit 7 Wildlife, printed pp.82–93 |
-**Acceptance count: taught in 28 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia).**
+| Adverbs of frequency — always, usually, often, sometimes, never — set against percentage figures (100% always to 0% never) | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 8, printed pp.71 and 74 |
+| Adverbs of manner formed with -ly (loud — loudly, happy — happily) | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 10, printed p.93 |
+| Adverbs of time and of manner together as Grammar Reference point 15 | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Grammar Reference, printed pp.168–177 |
+| Adverbs of frequency with the present simple, through a comparison chart of two schoolgirls' routines | Uzbekistan, *English Matters* Student's Book 8 (Grade 8), Unit 1, Lessons 1–2, printed p.2 |
+**Acceptance count: taught in 29 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan).**
 Bangladesh carries the definition and the mime
 game; Egypt carries the making rule (-ly, y → i) and the
 frequency ladder; Libya carries the adjective-to-adverb move
@@ -287,3 +295,5 @@ Armenia joined 2026-11-03: it carries adverbs of frequency as a grammar lesson w
 
 
 **Saudi Arabia added 2026-11-04 (rows and note corrected the same day against the corrected country filing)** — 1 book stocks this lesson, as a partial: **Book:** *Top Goal 1* Student's Book, Grade 4 — **Part 2 only as bound** (Workbook Part 2 bound in the same file) (student's book) — McGraw Hill (authors Nico Dantaz and Rachel Finnie), 2025 combo production, no ISBN printed in the held copy (its imprint leaf is not bound in). Filed in english/books/saudi-arabia.md (CORRECTED FILING 2026-11-04 — the first filing's unit accounts for Books 1–5 were proved wrong and discarded; the corrected accounts rest on the secured files' own Contents, Syllabus and imprint pages, coordinator-verified, with band-reader detail worded as such, and Book 6 on the coordinator's page-by-page map). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. Filed plainly as a partial: adverbs appear in exactly one place in the six books — inside Grade 4's comparatives-and-superlatives chart, which treats long and short adjectives and adverbs together. No Saudi book in hand introduces adverbs as a word kind.
+
+**Uzbekistan added 2026-11-04** — 2 books stock this lesson: **Book:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9; **Book:** *English Matters* Student's Book 8 (student's book) — Uzbekistan, Macmillan Education, first published 2002 (held copy: the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1254-6. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Fly High 5 carries both adverb families: frequency adverbs pinned to percentage figures in the daily-routine unit, manner adverbs built with -ly in the pets unit, and the two families stated together in the Grammar Reference. English Matters 8 re-opens frequency adverbs with the present simple in its first lesson block. The other five recorded Uzbekistan English books are link-only and are not cited anywhere; no teacher's book exists in Uzbekistan's English record and none is cited; and the Russian Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is cited nowhere.

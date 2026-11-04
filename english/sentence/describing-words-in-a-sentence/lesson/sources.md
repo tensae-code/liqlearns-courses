@@ -1,6 +1,6 @@
 # Sources — Describing words in a sentence
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -132,6 +132,10 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 44:** English Learner's Book for Rwandan Primary Schools, P5 (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 45:** English for Rwandan Primary Schools — Pupil's Book 6 (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 46:** *Fly High ENGLISH 6* — Classbook & Workbook combined in one volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 47:** *English Matters* Student's Book 8 (student's book) — Uzbekistan, Macmillan Education, first published 2002 (the held copy is the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1254-6. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The eight pictured adjective + noun pairs — a fresh mango, a bad mango, a clean shirt, a dirty shirt, a new bike, an old bike, a happy cat, an angry cat — description seated before the noun in every pair | Bangladesh, English for Today Class 4, Unit 22 "Tune up!", pp.44–45 |
@@ -225,9 +229,12 @@ CITATION CHECK PASSED 2026-11-03).
 | The model sentence carrying two describing words in place — a big, red balloon in the sky | Ecuador — *English*, Elementary Sublevel transition text, Grade 2 (MINEDUC, 2024), Worksheet 5, printed p.33 |
 | Describing adjectives working in nature sentences — "Look! It's a (snake). It's (short/long, beautiful/ugly). I love the (mountains)" | Saudi Arabia, *We Can!* Student's Book 2, Term 1 combo (Grade 2), Unit 4 Beautiful Nature, printed p.28 |
 | Comparatives and superlatives put describing words to work in full sentences — -er/more … than, the -est/most, good → better → best | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Unit 7 Wildlife, printed pp.82–93 |
-**Acceptance count: taught in 29 countries (Bangladesh,
+| Superlatives inside a zoo story — the giraffe “the tallest”, the peacock “the most beautiful”, the bear “the strongest” — with the Remember box pair tall — the tallest, beautiful — the most beautiful | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Unit 10, Lesson 2, printed p.61 |
+| Comparatives in the Remember box — “The Severn is longer than the Thames”; long — longer, big — bigger, large — larger | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Unit 12, Lesson 2, printed p.73 |
+| Comparative and superlative structures through world geography facts (rivers, mountains, continents) | Uzbekistan, *English Matters* Student's Book 8 (Grade 8), Unit 8, Lessons 1–2, printed p.86 |
+**Acceptance count: taught in 30 countries (Bangladesh,
 Egypt, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia).** Bangladesh pictures the before-home in
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan).** Bangladesh pictures the before-home in
 eight pairs; Mongolia names the describing law, writes the
 sense-verb home, and posts the comparing border — and its
 Grade 5 picture book now adds describing stock in pictures
@@ -328,3 +335,5 @@ Grade 11 (Student's Book, Unit 3, printed p.34).
 
 
 **Saudi Arabia added 2026-11-04 (rows and note corrected the same day against the corrected country filing)** — 2 books stock this lesson: **Book:** *We Can!* Student's Book 2, Term 1 combo, Grade 2 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2026–1448, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2025, ISBN 9781398962408; **Book:** *Top Goal 1* Student's Book, Grade 4 — **Part 2 only as bound** (Workbook Part 2 bound in the same file) (student's book) — McGraw Hill (authors Nico Dantaz and Rachel Finnie), 2025 combo production, no ISBN printed in the held copy (its imprint leaf is not bound in). Filed in english/books/saudi-arabia.md (CORRECTED FILING 2026-11-04 — the first filing's unit accounts for Books 1–5 were proved wrong and discarded; the corrected accounts rest on the secured files' own Contents, Syllabus and imprint pages, coordinator-verified, with band-reader detail worded as such, and Book 6 on the coordinator's page-by-page map). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. In Saudi Arabia describing words work inside sentences from Grade 2's nature unit, where adjective opposites describe animals and places (short/long, beautiful/ugly), and Grade 4's comparatives-and-superlatives system puts them to work comparing in full sentences.
+
+**Uzbekistan added 2026-11-04** — 2 books stock this lesson: **Book:** *Fly High ENGLISH 6* — Classbook & Workbook combined volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8; **Book:** *English Matters* Student's Book 8 (student's book) — Uzbekistan, Macmillan Education, first published 2002 (held copy: the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1254-6. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Comparison is where Uzbekistan's describing words go to work in sentences: Fly High 6 introduces superlatives inside a story before it ever tables them, sets comparatives in a Remember box against real rivers, and English Matters 8 runs both forms over world geography facts. The plain descriptive sets and the reference systems are stocked in the adjectives lesson. The other five recorded Uzbekistan English books are link-only and are not cited anywhere; no teacher's book exists in Uzbekistan's English record and none is cited; and the Russian Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is cited nowhere.

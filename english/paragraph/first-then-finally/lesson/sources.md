@@ -1,6 +1,6 @@
 # Sources — First, then, finally
 
-countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -103,6 +103,10 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 31:** English For Rwandan Primary Schools — Pupil's Book 3 (Pupil's Book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 32:** English Learner's Book for Rwandan Primary Schools, P.5 (Learner's Book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 33:** *Fly High ENGLISH 6* — Classbook & Workbook combined in one volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 34:** *English Matters* Student's Book 9 (student's book) — Uzbekistan, Macmillan Education, first published 2003 (the held copy is the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1255-3. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Linking words" Tip: "Linking words make the story clear and easy to follow. First, Then, After that, Finally" — the set printed as a writing law | Egypt, Secondary, the writing Tip (p.70 of its book, as filed in the book map) |
@@ -165,9 +169,11 @@ CITATION CHECK PASSED 2026-11-03).
 | Story writing sequenced with 'First / Next / After that / Then' in the revision unit | Yemen, *English Course for Yemen* Workbook 3 (Grade 9), Unit 1 (printed pp.1-17) |
 | Sequence adverbs as a named set — first, after that, then, finally — with scanner instructions to reorder and instructions for appliances to give in order | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 11, Lesson 3, printed pp.94–95 |
 | Process writing built sentence by sentence in order — "How oil is refined", a process paragraph deliberately written with a passive in every sentence | Afghanistan, *English for Afghanistan: Student's Book*, Grade 11, Unit 7, printed pp.100–101 |
+| A fairy-tale writing frame — Beginning “Once upon a time …” / Main part “Then … After that …” / Ending “From that time on …” — on which groups write their own tale | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Unit 14, Lesson 6, printed p.89 |
+| Discourse markers and sequencing worked in short text construction — sorting fourteen mixed sentences between Marco Polo and Zang Qian | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Unit 5, Project, printed p.59 |
 
-**Acceptance count: taught in 21 countries (Bangladesh,
-Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan).** Egypt prints the law and the set;
+**Acceptance count: taught in 22 countries (Bangladesh,
+Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan).** Egypt prints the law and the set;
 Mongolia files the family by its grammar name; Bangladesh
 tells its methods under the signposts; China adds the
 dated diary as the model recount, its events sorted before
@@ -243,3 +249,5 @@ READING-QUEUE.md).
 
 
 **Afghanistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English for Afghanistan: Student's Book*, Grade 9 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 11 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan teaches the sequence set by name in Grade 9's stories unit (first, after that, then, finally) and works ordered writing as process paragraphs in Grade 11.
+
+**Uzbekistan added 2026-11-04** — 2 books stock this lesson, as a partial: **Book:** *Fly High ENGLISH 6* — Classbook & Workbook combined volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8; **Book:** *English Matters* Student's Book 9 (student's book) — Uzbekistan, Macmillan Education, first published 2003 (held copy: the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1255-3. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly as a partial: the middle signposts are taught — Fly High 6's tale-writing frame runs on Then and After that between its opening and closing formulas, and English Matters 9 works discourse markers and sequencing as a named project skill — but First and Finally as named signposts are not filed anywhere in the set, so the lesson's two end posts rest on the frame's beginning and ending formulas only. The other five recorded Uzbekistan English books are link-only and are not cited anywhere; no teacher's book exists in Uzbekistan's English record and none is cited; and the Russian Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is cited nowhere.

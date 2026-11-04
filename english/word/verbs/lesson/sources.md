@@ -1,6 +1,6 @@
 # Sources — Verbs
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -120,6 +120,14 @@ english/books/jordan.md (Grade 10 Student's Book Semester 1 section, FULLY READ 
 
 **Book 40:** English For Rwandan Primary Schools — Pupil's Book 6 (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019, no edition statement and no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 41:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 42:** *Fly High ENGLISH 6* — Classbook & Workbook combined in one volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 43:** *English Matters* Student's Book 8 (student's book) — Uzbekistan, Macmillan Education, first published 2002 (the held copy is the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1254-6. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 44:** *English Matters* Student's Book 9 (student's book) — Uzbekistan, Macmillan Education, first published 2003 (the held copy is the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1255-3. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The formal definition in words: "Verb: A verb is a word that expresses an action." — in the same box that defines noun and pronoun and names the three "parts of speech" | Bangladesh, English for Today Class 3, "Joyful school time 2," GRAMMAR FOCUS box, pp.68–71 |
@@ -211,8 +219,12 @@ english/books/jordan.md (Grade 10 Student's Book Semester 1 section, FULLY READ 
 | Body action commands carry Grade 1's body unit — Close your eyes. Raise your hands. Clap your hands. | Saudi Arabia, *We Can!* Student's Book 1, Term 1 combo (Grade 1), Unit 2 My Body, printed p.12 |
 | Action words and daily activities as a whole unit — "Things We Do" | Saudi Arabia, *We Can!* Student's Book 2, Term 1 combo (Grade 2), Unit 3 Things We Do, printed p.20 |
 | Verb + to-infinitive and verb + -ing charts — want/decide/forget + to …; love/hate/finish + -ing — the set's first named verb grammar | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Unit 5 Outdoor Fun, printed pp.60–61 |
-**Acceptance count: taught in 29 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia).**
+| The verb be in the Present Simple — affirmative, negative, interrogative — as Grammar Reference point 1, with have/has got at point 7 and the modals must and can at point 11 | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Grammar Reference, printed pp.168–177 |
+| The list of irregular verbs — about 110 verbs with Present Simple and Past Simple forms and phonetic transcriptions | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), printed p.166 |
+| An Irregular Verbs table — infinitive / past simple / past participle, about one hundred verbs | Uzbekistan, *English Matters* Student's Book 8 (Grade 8), printed p.150 |
+| An Irregular Verbs table — infinitive / past simple / past participle | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), printed p.142 |
+**Acceptance count: taught in 30 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan).**
 Bangladesh carries the formal definition;
 Libya the shortest one; Ghana the test and the smallest
 sentence shape; Egypt the review work and the he/she/it -s rule;
@@ -262,3 +274,5 @@ Armenia joined 2026-11-03: it carries the irregular-verb list as the verb system
 
 
 **Saudi Arabia added 2026-11-04 (rows and note corrected the same day against the corrected country filing)** — 3 books stock this lesson: **Book:** *We Can!* Student's Book 1, Term 1 combo, Grade 1 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2026–1448, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2025, ISBN 9781398962385; **Book:** *We Can!* Student's Book 2, Term 1 combo, Grade 2 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2026–1448, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2025, ISBN 9781398962408; **Book:** *Top Goal 1* Student's Book, Grade 4 — **Part 2 only as bound** (Workbook Part 2 bound in the same file) (student's book) — McGraw Hill (authors Nico Dantaz and Rachel Finnie), 2025 combo production, no ISBN printed in the held copy (its imprint leaf is not bound in). Filed in english/books/saudi-arabia.md (CORRECTED FILING 2026-11-04 — the first filing's unit accounts for Books 1–5 were proved wrong and discarded; the corrected accounts rest on the secured files' own Contents, Syllabus and imprint pages, coordinator-verified, with band-reader detail worded as such, and Book 6 on the coordinator's page-by-page map). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. Grade 1's Unit 5 carries the set's first verb system — I am / You are / He/She is / We are / They are — body action commands run Unit 2, Grade 2 names a whole unit "Things We Do", and Grade 4 names verb grammar outright with its verb + to-infinitive / verb + -ing charts.
+
+**Uzbekistan added 2026-11-04** — 4 books stock this lesson: **Book:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9; **Book:** *Fly High ENGLISH 6* — Classbook & Workbook combined volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8; **Book:** *English Matters* Student's Book 8 (student's book) — Uzbekistan, Macmillan Education, first published 2002 (held copy: the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1254-6; **Book:** *English Matters* Student's Book 9 (student's book) — Uzbekistan, Macmillan Education, first published 2003 (held copy: the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1255-3. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Uzbekistan's verb stock is stated in its references: Fly High 5's Grammar Reference opens with the verb be whole (affirmative, negative, interrogative) and carries have/has got and the modals must and can; the three later books each close with a full irregular-verb table (Fly High 6's list runs to about 110 verbs with transcriptions). The other five recorded Uzbekistan English books are link-only and are not cited anywhere; no teacher's book exists in Uzbekistan's English record and none is cited; and the Russian Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is cited nowhere.

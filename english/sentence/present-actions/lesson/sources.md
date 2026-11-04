@@ -1,6 +1,6 @@
 # Sources — Present actions
 
-countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia
+countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -134,6 +134,10 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 47:** English for Rwandan Schools — Primary 2 Learner's Book (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 48:** English for Rwandan Primary Schools — Pupil's Book 6 (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 49:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 50:** *English Matters* Student's Book 8 (student's book) — Uzbekistan, Macmillan Education, first published 2002 (the held copy is the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1254-6. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Daily Routines lesson: the routine set with photo sentences at clock times, and the full Present Simple routines box with its spelling work | Egypt, Primary 3 Term 1, Daily Routines lesson (L4), pp.19–26 (the box, p.23) |
@@ -247,9 +251,13 @@ CITATION CHECK PASSED 2026-11-03).
 | Present-tense be sentences from Grade 1's first verb system — I am / You are / He/She is / We are / They are | Saudi Arabia, *We Can!* Student's Book 1, Term 1 combo (Grade 1), Unit 5 What's This? What's That?, printed p.36 |
 | Present-simple questions read in Grade 3's school unit — "Do you have school lunch at your school? Yes, we do. / No, we don't. What time does your school start?" | Saudi Arabia, *We Can!* Student's Book 3 (Grade 3), Term 3 extract as bound, Unit 9 My School is Cool!, printed pp.66–73 |
 | The present simple spelling system (walk/walks, wash/washes, go/goes) — Syllabus-mapped only; the unit body is not in the held copy | Saudi Arabia, *We Can!* Student's Book 3 (Grade 3), Term 3 extract as bound, Unit 4 Chores, Syllabus-mapped |
-**Acceptance count: taught in 30 countries (Egypt, Ghana,
+| The present simple unit in full — frequency adverbs, third-person -s with its three pronunciations, don't/doesn't negatives, Do/Does questions | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 8, printed pp.71–75 |
+| The Present Simple Tense with do/does as Grammar Reference point 13 | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Grammar Reference, printed pp.168–177 |
+| The Present Continuous Tense (be + verb-ing) as Grammar Reference point 14, introduced in the zoo text against usually — “The elephant is washing the tiger; The crocodile is not sleeping now” | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 11, printed p.104 |
+| Present simple and adverbs of frequency through two schoolgirls' routines, and Present simple for facts stated in the Grammar Section | Uzbekistan, *English Matters* Student's Book 8 (Grade 8), Unit 1, Lessons 1–2, printed p.2; Grammar Section, printed p.151 |
+**Acceptance count: taught in 31 countries (Egypt, Ghana,
 Libya, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia).** Egypt boxes the every-day face inside
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan).** Egypt boxes the every-day face inside
 routines; Mongolia tables the right-now face and its
 questions; Libya's reference names both faces' uses and
 posts the refusal list; Ghana names the simple present's
@@ -324,3 +332,5 @@ futures (Student's Book, Unit 1, printed pp.6–16).
 
 
 **Saudi Arabia added 2026-11-04 (rows and note corrected the same day against the corrected country filing)** — 3 books stock this lesson: **Book:** *We Can!* Student's Book 2, Term 1 combo, Grade 2 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2026–1448, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2025, ISBN 9781398962408; **Book:** *We Can!* Student's Book 1, Term 1 combo, Grade 1 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2026–1448, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2025, ISBN 9781398962385; **Book:** *We Can!* Student's Book 3, Grade 3 (student's book with Workbook goals bound in) — Saudi Arabia, Ministry of Education 2023–1445, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2024, ISBN 9781398928206 — **the held copy is the Term 3 extract of the full-year combo** (Student's Book Units 9–12, Term 3 Phonics Practice and Word List, the whole-year Picture Dictionary, Workbook Goals 65–96); Units 1–8 are known only from the book's own Syllabus and are cited as Syllabus-mapped, never as read. Filed in english/books/saudi-arabia.md (CORRECTED FILING 2026-11-04 — the first filing's unit accounts for Books 1–5 were proved wrong and discarded; the corrected accounts rest on the secured files' own Contents, Syllabus and imprint pages, coordinator-verified, with band-reader detail worded as such, and Book 6 on the coordinator's page-by-page map). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. The present progressive is Grade 2's Unit 5 frame ("He's cycling. He's helping his brother. (Our friends) are (laughing)"); Grade 1 builds present-tense be sentences in Unit 5; Grade 3's read school unit runs present-simple questions (Do you have …? What time does your school start?), and its present-simple spelling system (walk/walks, wash/washes, go/goes) is Syllabus-mapped only. Filed plainly: nothing here is cited for past actions from We Can! 1–2 — those books teach no past tense.
+
+**Uzbekistan added 2026-11-04** — 2 books stock this lesson: **Book:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9; **Book:** *English Matters* Student's Book 8 (student's book) — Uzbekistan, Macmillan Education, first published 2002 (held copy: the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1254-6. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Both present tenses are Fly High 5's own teaching: the present simple gets a full unit and a reference point, and the present continuous is introduced as the tense of a special day against usually and stated beside it in the reference. English Matters 8 re-opens the present simple with frequency adverbs and states it for facts in its Grammar Section. Filed plainly: Fly High 6 uses both tenses from its first lesson and names them only as revision labels in its Unit 11 review quiz (printed pp.70–71) — the book treats them as carried over from Fly High 5, so it is not counted here. The other five recorded Uzbekistan English books are link-only and are not cited anywhere; no teacher's book exists in Uzbekistan's English record and none is cited; and the Russian Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is cited nowhere.

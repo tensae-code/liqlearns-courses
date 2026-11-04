@@ -1,6 +1,6 @@
 # Sources — Conditionals
 
-countries: Egypt, Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Egypt, Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -124,6 +124,10 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 
 **Book 56:** English for Libya, Grade 10 (Secondary 1) Course Book — Libya, Garnet Education. Filed in english/books/libya.md (read 2026-10-25; the file's head banner stands — agent-assisted read, the 10-citation spot-check still owed).
 *Correction 2026-11-04: the Unit 7 conditional lessons (pp.79–81) sit in this Grade 10 book, not in the Grade 9 Course Book — the country record files them under Grade 10 (Secondary 1); earlier versions of this file said Grade 9. Found by an outside review (ChatGPT), checked against libya.md and corrected.*
+
+**Book 57:** *English Matters* Student's Book 9 (student's book) — Uzbekistan, Macmillan Education, first published 2003 (the held copy is the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1255-3. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 58:** *English Matters* Student's Book 8 (student's book) — Uzbekistan, Macmillan Education, first published 2002 (the held copy is the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1254-6. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -254,9 +258,13 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | Types 1 and 2 re-presented at Grade 11 in the first Language review - the course's second pass at the same two types | Yemen, *English Course for Yemen* Pupil's Book 5 (Grade 11), Language review 1, printed p.15 |
 | Conditionals Type 1 and 2 re-taught in a workbook Language study | Yemen, *English Course for Yemen* Work Book 5 (Grade 11), Language study, printed p.14 |
 | The ceiling, stated plainly: Type 3 and mixed conditionals are NEVER taught in any of the 13 books. Grade 10 uses first- and second-conditional sentences from its first unit (printed pp.5-6) but never systematises them, and Grade 12 never teaches conditionals as structures at all - its conditionals occur only in use (the advice frame 'If I were you, I would ...', printed p.19) | Yemen, the held set as filed in english/books/yemen.md (header series verdicts and the Pupil's Book 4 and 6 honest negatives) |
+| First, second and third conditional taught together — matching sentence halves that contrast the three types (“If you have some qualifications, it will be easier to find a job”; “If I were Jay's son, I would try and look for a trade”; “If I had studied computers at school, I would have been rich by now”), then completing open conditional sentences | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Unit 6, Lessons 3–4, printed pp.64–65 |
+| First, second and third conditionals explained with formulas and examples in the Grammar Section | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Grammar Section, printed p.145 |
+| All three conditional types tested in one exercise (Test 3) | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Tests, printed p.115 |
+| First and second conditional in use only — superstition matching (“If you break a mirror, you will be unlucky”) and “If I were you, I wouldn't …” — named as first and second conditional in the contents table, never explained, with no Grammar Section entry | Uzbekistan, *English Matters* Student's Book 8 (Grade 8), Unit 6, Lessons 1–2, printed pp.62–63 |
 
-**Acceptance count: taught in 26 countries (Egypt,
-Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan).** Libya names the zero and first at
+**Acceptance count: taught in 27 countries (Egypt,
+Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan).** Libya names the zero and first at
 Grade 9 and completes the set in its reference;
 Mongolia tables zero and first, teaches the first with
 unless, and reaches the second at Grade 10; Egypt
@@ -336,3 +344,5 @@ line — the absence is checked, not unlooked-for.
 
 
 **Afghanistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English for Afghanistan: Student's Book*, Grade 9 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 12 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan's taught conditional system is Grade 9's: the visiting-places unit names and teaches the first and second conditionals as systems and summarises them together. The third conditional exists only as Grade 12 revision — one Revision section in a consolidation year — and is stocked as revision, not as a third taught type. Grade 11 works if-patterns (If + present … future; If + present … present; If + past … would) without naming any type, and Grade 10 teaches no conditionals at all; neither is stocked.
+
+**Uzbekistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English Matters* Student's Book 9 (student's book) — Uzbekistan, Macmillan Education, first published 2003 (held copy: the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1255-3; **Book:** *English Matters* Student's Book 8 (student's book) — Uzbekistan, Macmillan Education, first published 2002 (held copy: the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1254-6. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Uzbekistan's conditional system stands whole in English Matters 9: the three types are set against each other in one lesson block, explained with formulas in the Grammar Section and tested together in Test 3 — the set's grammar peak. English Matters 8 contributes the first two types in use only (superstitions and If I were you), named in its contents but never explained, and its rows are worded as such. Filed plainly: the Grade 9 Grammar Section's third-conditional formula mislabels would + have + past participle as “present perfect” — the country file records the slip; the form in the book's own examples is the true third conditional, and it is the examples and lessons that are stocked. No mixed conditionals are taught anywhere in the set, and the Fly High books teach no conditionals at all. The other five recorded Uzbekistan English books are link-only and are not cited anywhere; no teacher's book exists in Uzbekistan's English record and none is cited; and the Russian Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is cited nowhere.
