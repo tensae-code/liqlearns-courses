@@ -8,8 +8,8 @@ full, page by page; then a SEPARATE citation-check pass on that
 country's filing; then what the books teach is merged into the maths
 lessons (lesson `sources.md` files only), country by country. Biggest
 in-hand sets are read first. A book that is still link-only is read
-when its file lands. No maths book has been read yet — this queue is
-the phase's starting state, built from the closed-52 maths inventory
+when its file lands. This queue was built as the phase's starting
+state from the closed-52 maths inventory
 (`~/workspace/liqlearns-courses-work/closed-52-maths-inventory.md`,
 2026-11-04), which lists every in-hand book by grade and title.
 
@@ -26,7 +26,7 @@ have no maths book in the record at all.
 
 | Country | Maths books held | Reading state |
 |---|---|---|
-| Kazakhstan | 203 in hand (198 student + 5 teacher) | QUEUED — not yet read |
+| Kazakhstan | 203 in hand (198 student + 5 teacher) | **READ COMPLETE 2026-11-04 — all 203 files fully read + citation-checked (1,555 anchors: 1,416 passed, 132 corrected, 7 not found), filed in maths/books/kazakhstan.md (87 distinct works). No Grade 10 Algebra and no Grade 11–12 maths in hand** |
 | Jordan | 95 in hand (52 student + 43 teacher) | QUEUED — not yet read |
 | South Africa | 87 in hand (87 student) | QUEUED — not yet read |
 | Egypt | 74 in hand (74 student) | QUEUED — not yet read |
