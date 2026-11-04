@@ -1,6 +1,6 @@
 # Sources — Finding the idea of a text
 
-countries: Bangladesh, Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda
+countries: Bangladesh, Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia
 
 Every part traces to its book and page.
 
@@ -191,9 +191,12 @@ CITATION CHECK PASSED 2026-11-03).
 | A main-idea/supporting-ideas table completed for an article on Venus — workbook only | Kuwait, Over to You Workbook 12B, Unit 11 (printed pp.32–37) |
 | Skimming and scanning defined and practised as study skills — dictionary definitions of both, scanning short texts for named details, and the Patricia story worked for scanning practice; the unit test then sets skimming, scanning and summarising tasks on a Hare and Tortoise retelling | Rwanda, P5 Learner's Book, Unit 3, printed pp.66–68; Tests, printed pp.72–73 |
 | Skimming and scanning explained as reading skills, each with its own short extract — the fast hunt for what a text carries, taught inside the reading-books unit | Rwanda, P6 Pupil's Book, Unit 6, printed pp.76–77 |
+| Finding a text's idea taught as a reading strategy — a multiple-matching task worked with a strategy box on summarising each paragraph | Malaysia, Form 5 KPM textbook, Unit 3, Reading, pp.32–33 |
+| A whole-text purpose question set on a complete reading text — what the whole text is for, not one paragraph of it | Malaysia, Form 5 KPM textbook, Unit 12, Reading, pp.148–149 |
+| The idea-structure of a text named outright — thesis statement vs topic sentence vs supporting details, taught explicitly and then used in a blog response | Malaysia, *English Form 1* (Pelangi, KSSM), Chapter 6, pp.63–74 |
 
-**Acceptance count: taught in 22 countries (Bangladesh,
-Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda).** Ghana names the weighing (main idea vs supporting
+**Acceptance count: taught in 23 countries (Bangladesh,
+Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia).** Ghana names the weighing (main idea vs supporting
 details) and the own-words law; Bangladesh sets the choice
 as a task; China hunts the idea by title-choice and by the
 one question a whole text answers, and names the
@@ -260,3 +263,5 @@ read (see READING-QUEUE.md).
 **Kuwait added 2026-11-04** — English Pearls of Kuwait Student's Book 6A, Over to You Workbook 12B (full read in english/books/kuwait.md). PARTIAL stock, filed exactly as a partial: Pearls 6A sets a main-idea choice on a storytelling passage, worked with paragraph-level evidence hunting and true/false/not-given questions (Unit 4, Lesson 1, printed pp.62–63). Workbook 12B, workbook only — its matching Student's Book is not held — completes a main-idea/supporting-ideas table for an article on Venus (Unit 11, printed pp.32–37).
 
 **Rwanda added 2026-11-04** — 2 books stock this lesson: **Book:** *English Learner's Book for Rwandan Primary Schools, P.5* (Learner's Book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. **Book:** *English For Rwandan Primary Schools — Pupil's Book 6* (Pupil's Book) — Rwanda, Rwanda Education Board (REB), © 2019, no edition statement printed, no ISBN printed. All filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). PARTIAL stock, filed exactly as a partial, on the Syria and South Sudan pattern: no read Rwanda book names the main idea, and none works the hunt as gist questions, heading matching or paragraph-title matching. What Rwanda does teach is the fast hunt itself: **skimming and scanning, defined from the dictionary and practised** — scanning short texts for named details and the Patricia story worked for scanning practice (P5 Unit 3, printed pp.66–68), the unit test then setting skimming, scanning and summarising tasks on a Hare and Tortoise retelling (printed pp.72–73) — and **skimming and scanning explained again in P6, each with its own short extract** (Unit 6, printed pp.76–77). Rwanda carries the skimming/scanning and summarising steps of this lesson, without the idea ever being named.
+
+**Malaysia added 2026-11-04** — 2 books stock this lesson: **Book:** Form 5 KPM textbook under licence from Hamilton House Publishers — Malaysia, Malaysian ISBN 978-967-0951-44-7, Malaysian edition first published 2021; the copy is front-incomplete — printed pp.1–4 are absent and no title is printed in the copy, so only held pages are cited. **Book:** *English Form 1* — Malaysia, Penerbitan Pelangi Sdn. Bhd. for the Ministry of Education Malaysia, KSSM, first published 2016, ISBN 978-983-00-8245-5. All filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Malaysia stocks the hunt for a text's idea at both ends of secondary school: Form 5 Unit 3's Reading (pp.32–33) sets a multiple-matching task with a strategy box on summarising each paragraph, and Unit 12's Reading (pp.148–149) includes a whole-text purpose question; Form 1 Chapter 6 (pp.63–74) teaches thesis statement vs topic sentence vs supporting details explicitly — the idea-structure of a text — then puts it to work in a blog response. The Form 5 limit stands as filed: the copy is front-incomplete (printed pp.1–4 absent, no title printed in the copy), so only held pages are cited.

@@ -1,6 +1,6 @@
 # Sources for this lesson — Greetings
 
-countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda
+countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag.
@@ -82,6 +82,7 @@ side by side on one PDF page — that was wrong.
 | The course opens on greetings and the name exchange itself — hello/hi, "I'm…", "What's your name? / My name's…", with "Hi, I'm Badr." / "Hello, I'm Ahmed." on the opening page | Sudan — SMILE Starter 1 Pupil's Book, Grade 1, Unit 1 "Hello!", printed pp.1–8 ("Hi, I'm Badr." / "Hello, I'm Ahmed." printed p.1) |
 | The name exchange inside the first unit's greetings — "What is your name? — My name is ___", with "This is ___" beside it | Rwanda — Success English for Rwandan Schools, Primary 1 Pupil's Book, Unit 1 "Welcome to the classroom", printed pp.1–7 |
 | The name exchange re-opened in the next book's first unit — a greetings dialogue, then two seven-year-olds exchange names, ages and where they live in an introduction dialogue | Rwanda — English for Rwandan Schools, Primary 2 Learner's Book, Unit 1, printed pp.1–2 (the introduction dialogue at printed p.2) |
+| "What's your name? / I'm … / He's, She's …" — greet, introduce themselves and name others, as mapped curriculum coverage only (Scheme of Work evidence, not a pupil's-book page) | Malaysia, Year 1 Scheme of Work (KSSR), Friends starter topic (Lessons 1–17), printed pp.26–60 |
 
 **Second country merged 2026-10-25 — Libya:**
 English for Libya, Pupils Book Grade 1 (CERC, Ministry of Education,
@@ -124,7 +125,7 @@ rendered page the same day).
 - Unit 1 "Greeting and Numbers," p. 14 (Hello/Hi, Goodbye/bye tracing;
   "What's your name? / My name's" tracing strips, p. 16).
 
-**Acceptance count: taught in 25 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda).**
+**Acceptance count: taught in 26 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia).**
 China adds name exchanges from its first primary page and the
 "Where are you from? — I'm from …" origin frame (Grades 3), plus
 five printed ways to say goodbye (Grade 6 Volume 2); North
@@ -599,3 +600,5 @@ loved subject ("I am eight years old.", printed p.7).
 **Sudan added 2026-11-04** — 1 book stocks this lesson: **Book:** *Sudan Modern Integrated Learning of English — SMILE Series — SMILE Starter 1 — Pupil's Book — Grade 1: Basic Level* (pupil's book) — Sudan, Federal Ministry of Education / The National Centre for Curricula and Educational Research (NCCER), 2nd Edition, 2020, no ISBN printed. All filed in english/books/sudan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Sudan opens its first book on this lesson: Grade 1, Unit 1, "Hello!" (printed pp.1–8), teaches hello/hi, "I'm…", and the name exchange "What's your name? / My name's…" as its opening greetings and introductions work; the opening page's speech bubbles read "Hi, I'm Badr." / "Hello, I'm Ahmed." (printed p.1). No teacher's book exists in Sudan's record, so this stock is student's-book sourced only.
 
 **Rwanda added 2026-11-04** — 2 books stock this lesson: **Book:** *Success English for Rwandan Schools, Primary 1 Pupil's Book* (pupil's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. **Book:** *English for Rwandan Schools, Primary 2 Learner's Book* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. All filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Rwanda opens its course on this lesson, like Egypt, Libya and Syria: Primary 1, Unit 1, "Welcome to the classroom" (printed pp.1–7), teaches the greetings and the name frames together — "What is your name?", "My name is ___", "This is ___ / Who is this/that/they?" — in speech-bubble dialogues, with name-completion blanks as its only writing. Primary 2, Unit 1 (printed pp.1–11), re-opens on the same door: a greetings dialogue with Flora and "Miss. Juliet" (printed p.1), then an introduction dialogue (printed p.2) in which two seven-year-olds exchange names, ages and where they live, the boy in Kigali.
+
+**Malaysia added 2026-11-04** — 1 file stocks this lesson: **Book:** *KSSR English Language Scheme of Work, Primary Year 1 (SK)* (Scheme of Work — teacher planning document) — Malaysia, Curriculum Development Division (BPK), Ministry of Education; it maps *Superminds 1* (Cambridge) pp.4–57, a pupil's book that is NOT held. Filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Malaysia's primary files are KSSR Schemes of Work, not pupil's textbooks; the mapped pupil's book Superminds 1 is not held; no primary citation is a pupil's-book page. Malaysia stocks this lesson as mapped curriculum coverage only: in the Year 1 Scheme of Work, the Friends starter topic (Lessons 1–17, headers at printed pp.26–60) teaches "What's your name? / I'm … / He's, She's …" — pupils learn to greet, introduce themselves and name others.

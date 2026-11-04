@@ -1,6 +1,6 @@
 # Sources for this lesson — Blending sounds
 
-countries: Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait
+countries: Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait, Malaysia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The blending material lived inside the alphabet
@@ -38,8 +38,9 @@ letters.
 | The blended word rebuilt by its missing sound — missing-vowel completion, then beginning-sound completion | Pakistan — *English Nursery* (student's book), printed p.120 (missing vowel) and printed p.121 (beginning sounds) |
 | CVC words segmented letter by letter — fan, box, cup, net, pin, cat sounded out sound by sound | Pakistan — *English 1* (student's book), Unit 2, printed p.11 |
 | Blending named as the lesson rubric — the word-family phonics lessons run as "Let's blend and read", each family read in a cumulative build-up text (the -an family's text at printed p.10; the -ot family's at printed p.51; the -ed family's at printed p.69) | Kuwait, Skyline English Student's Book 1B, Units 5, 7 and 8, Phonics lessons (lessons pp.8–17, pp.44–53, pp.62–71) |
+| Phoneme blends in CVC, CCVC, CVCV and CCV words, as the mapped phonics strand of the opening block (mapped partial — scheme-of-work evidence only, no pupil's-book page claimed) | Malaysia, Year 2 Scheme of Work (KSSR), Introduction + Free Time block, Lessons 1–30, headers at printed pp.24–86 |
 
-**Acceptance count: taught in 13 countries (Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait).**
+**Acceptance count: taught in 14 countries (Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait, Malaysia).**
 China adds the alphabet stocked as five phonics sets rather than
 letter by letter (Grade 3 Volume 1), a complete short-vowel cycle
 inside one volume (Grade 3 Volume 2), and end-of-primary review
@@ -247,3 +248,5 @@ only, exactly as filed.
 **Pakistan added 2026-11-03** — 2 books stock this lesson: **Book:** *English Nursery* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. **Book:** *English 1* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Pakistan blends at the CVC level only. The Nursery book's tail blends five word families (-an, -et, -in, -ot, -un, printed pp.115–119), then reverses the move — the child supplies the missing vowel (printed p.120) and the beginning sound (printed p.121). Grade 1 segments CVC words letter by letter in Unit 2 (printed p.11).
 
 **Kuwait added 2026-11-04** — Skyline English Student's Book 1B (full read in english/books/kuwait.md). **Book:** *Skyline English Student's Book 1B, Grade 1* — Kuwait, Ministry of Education, First Edition 2025-2026. Filed in english/books/kuwait.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). PARTIAL STOCK, recorded as such: Kuwait's blending is rime-family blending only — the Grade 1 word-family phonics lessons run under the rubric "Let's blend and read", each family read in a cumulative build-up text (the -an family's text at printed p.10; the -ot family's at printed p.51; the -ed family's at printed p.69). No phoneme segmenting or blending system is taught anywhere in the held set, and none is claimed here.
+
+**Malaysia added 2026-11-04** — **Book:** *KSSR English Language Scheme of Work, Primary Year 2 (SK)* (Scheme of Work — teacher planning document) — Malaysia, Curriculum Development Division (BPK), Ministry of Education; it maps *Superminds 1* Units 5–9 (pp.58–117), a pupil's book that is NOT held. Filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). MAPPED PARTIAL STOCK, recorded as such: Malaysia stocks this lesson on mapped curriculum coverage only. The Year 2 Scheme of Work's phonics strand for the Introduction + Free Time block (Lessons 1–30, headers at printed pp.24–86) covers phoneme blends in CVC, CCVC, CVCV and CCV words — blending work named at scheme level, with no pupil's-book blending page, routine or worked example held or claimed. The split is stated plainly: Schemes of Work are not pupil's textbooks; the Phonics Table itself is not printed in any Scheme of Work — it lives in the absent Teacher's Book; and Form 1's filed negatives state NO systematic phonics in the secondary set — "Say Right" is vowel/diphthong discrimination through whole-word lists, never grapheme rules.

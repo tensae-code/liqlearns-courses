@@ -90,3 +90,5 @@ English-specific; the same hand writes every language's words.
 Iraq joins with the grip named as the middle ready-to-write
 step in its first teacher's book.
 Counts grow as other finished countries' first books are read.
+
+**Malaysia checked 2026-11-04 — not stocked.** No pencil-grip or pencil-holding teaching appears anywhere in Malaysia's held set of ten files. Malaysia is deliberately absent from this lesson's countries line — checked, not unlooked-for.

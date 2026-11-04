@@ -1,6 +1,6 @@
 # Sources — The essay
 
-countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait
+countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia
 
 Every part traces to its book and page.
 
@@ -233,8 +233,14 @@ PASSED 2026-11-03).
 | Order the four jumbled paragraphs of a model opinion essay, identify the question it answers, then write your own opinion essay of 200–220 words reusing the model's opinion phrases — workbook only | Kuwait, Over to You Workbook 12A, Unit 1 (printed pp.4–9) |
 | Essays presenting both sides of an argument — a model essay's structuring phrases and formal vocabulary extracted, then the pupil's own balanced essay of 200–220 words to a four-paragraph plan — workbook only | Kuwait, Over to You Workbook 12A, Unit 6 (printed pp.38–43) |
 | A discursive essay of 200–220 words arguing one side while acknowledging both — workbook only | Kuwait, Over to You Workbook 12B, Unit 11 (printed pp.32–37) |
+| The opinion essay whole — deciding your opinion, using two given ideas and adding a third, with a model essay | Malaysia, Form 5 KPM textbook, Unit 3, Writing, pp.40–41 |
+| Essay introductions — writing a strong introduction that states your opinion without copying the task | Malaysia, Form 5 KPM textbook, Unit 5, Writing, pp.66–67 |
+| Essay conclusions — writing good conclusions (summary plus a closing comment) | Malaysia, Form 5 KPM textbook, Unit 6, Writing, pp.78–79 |
+| Essay sentences — writing long sentences, joining ideas with although / even though, in spite of / despite | Malaysia, Form 5 KPM textbook, Unit 10, Writing, pp.130–131 |
+| The essay's layout guidance in the book's own genre reference — the Writing Bank's Essay page | Malaysia, Form 5 KPM textbook, Writing Bank, pp.180–186 |
+| Essay writing working on topic sentences — an advantages-and-disadvantages essay with a model | Malaysia, *Full Blast! Plus 4*, Module 4, pp.51–66 |
 
-**Acceptance count: taught in 18 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait).**
+**Acceptance count: taught in 19 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia).**
 Bolivia defines the essay and tables its general structure
 whole; Ghana grows the writing process to the essay's
 scale with the outline as its planning tool. Indonesia
@@ -308,3 +314,5 @@ READING-QUEUE.md).
 **Pakistan — English X added 2026-11-04** — 1 further book stocks this lesson: **Book:** *English X* (Grade 10 student's book) — Pakistan, Punjab Curriculum and Textbook Board, Lahore; National Curriculum 2006 basis; no publication year and no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). English X stood outside Pakistan's counted record and was read in under the user's 2026-11-03 ruling to fill the Grade 10 gap. It adds two essay parts Pakistan's counted books do not set: the **five-paragraph essay on a printed structure diagram** — introductory paragraph, three key-idea paragraphs, concluding paragraph (Unit 1, printed pp.13–14) — which recurs as the book's set 220–250-word essay form (Units 2, 7 and 9), with the **comparative essay** written on the same scaffold from a compare-and-contrast mind map (Unit 6, printed pp.77–78); and the **argumentative essay**, outlined on a printed argumentative-essay mind map — introduction/background, three reason paragraphs with evidence, conclusion restating the main idea (Unit 10, printed pp.126–128).
 
 **Kuwait added 2026-11-04** — Over to You Student's Book 10B, Over to You Workbook 12A, Over to You Workbook 12B (full read in english/books/kuwait.md). Kuwait's essay stock is word-counted Over to You composition: Student's Book 10B models a four-paragraph opinion composition of 150–170 words on "Does money make the world go round?" (Unit 9, printed pp.21–26). The Grade 12 stock is workbook only — the matching Student's Books are not held, and the workbooks are cited only for their own practice content: Workbook 12A sets a 200–220-word opinion essay built by ordering a model's jumbled paragraphs (Unit 1) and a balanced both-sides essay to a four-paragraph plan (Unit 6), and Workbook 12B sets a discursive essay of 200–220 words arguing one side while acknowledging both (Unit 11).
+
+**Malaysia added 2026-11-04** — 2 books stock this lesson: **Book:** Form 5 KPM textbook under licence from Hamilton House Publishers — Malaysia, Malaysian ISBN 978-967-0951-44-7, Malaysian edition first published 2021; the copy is front-incomplete — printed pp.1–4 are absent and no title is printed in the copy, so only held pages are cited. **Book:** *Full Blast! Plus 4* Student's Book — Malaysia, MM Publications; no year, ISBN or edition printed in the copy. All filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Malaysia's essay stock is Form 5's whole essay strand: Unit 3's Writing (pp.40–41) teaches the opinion essay — deciding your opinion, using two given ideas and adding a third, with a model essay; Unit 5's Writing (pp.66–67) teaches strong introductions; Unit 6's Writing (pp.78–79) teaches good conclusions; Unit 10's Writing (pp.130–131) teaches writing long sentences for essays, joining ideas with although / even though and in spite of / despite; and the Writing Bank's Essay page (pp.180–186) carries the genre's layout guidance. Form 4 Module 4 (pp.51–66) adds essay writing working on topic sentences.

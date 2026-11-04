@@ -1,6 +1,6 @@
 # Sources — Telling a story back
 
-countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda
+countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia
 
 Every part traces to its book and page.
 
@@ -159,9 +159,11 @@ PASSED 2026-11-03).
 | A story heard for retelling: the teacher reads a story for the class to retell — the telling-back set as the lesson's work | Rwanda, P3 Pupil's Book, Unit 4, printed p.60 |
 | The retelling text itself, held in the companion guide: "Nsabimana goes to town", the full story the pupil's book sets for retelling | Rwanda, P3 Teacher's Guide, Unit 4, guide printed pp.74–75 |
 | A fable read by the teacher for retelling, beside the unit's story summaries and retellings | Rwanda, P6 Pupil's Book, Unit 6, printed p.79 |
+| PARTIAL — a named, performed retelling: the Shepherd Boy story retold as a Literature-in-Action play (a performed retelling, not a retelling routine) | Malaysia, *English Form 1* (Pelangi, KSSM), Chapter 2, Literature in Action, printed p.23 |
+| PARTIAL — telling a text back in compressed form: a summary-writing PLAN taught on a *Twenty Thousand Leagues Under the Sea* extract | Malaysia, *Full Blast! Plus 4*, Let's Read 1, pp.34–35 |
 
-**Acceptance count: taught in 19 countries (Bangladesh,
-Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda).** Bangladesh equips the retelling (word box,
+**Acceptance count: taught in 20 countries (Bangladesh,
+Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia).** Bangladesh equips the retelling (word box,
 first-person, comparison); Ghana frames it (chain, Herring
 Bone, sequence order); China equips it again (the fill-in
 retell, the phone retell, the sorted diary recount);
@@ -219,3 +221,5 @@ their books are read (see READING-QUEUE.md).
 **Kuwait added 2026-11-04** — English Pearls of Kuwait Student's Book 6A, Over to You Workbook 12A (full read in english/books/kuwait.md). PARTIAL stock, filed exactly as a partial: Pearls 6A follows its story-elements table with a gap-fill retelling of the unit's tale, The Honest Woodcutter (Unit 4, Lesson 5, printed pp.67–68) — retelling set as a task, with no named retelling teaching. Workbook 12A, workbook only — its matching Student's Book is not held — has pupils order the 11 sentences of a model story, "A night to remember", noting the sequencing words and pronoun links, before writing a past-event description (Unit 2, printed pp.10–15).
 
 **Rwanda added 2026-11-04** — 4 books stock this lesson: **Book:** *Success English for Rwandan Schools — Primary 1 Pupil's Book* (Pupil's Book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. **Book:** *English For Rwandan Primary Schools — Pupil's Book 3* (Pupil's Book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. **Book:** *English For Rwandan Primary Schools — Teacher's Guide 3* (Teacher's Guide) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed; a true companion to the Pupil's Book. **Book:** *English For Rwandan Primary Schools — Pupil's Book 6* (Pupil's Book) — Rwanda, Rwanda Education Board (REB), © 2019, no edition statement printed, no ISBN printed. All filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). PARTIAL stock, filed exactly as a partial: retelling is **set as a task** in three pupil's books — P1's pupils retell the animals story (Unit 10, printed p.69) and resequence its six pictures to retell it (printed p.70), with an invitation to tell another story; P3 sets a story the teacher reads for the class to retell (Unit 4, printed p.60 — the story text itself, "Nsabimana goes to town", is printed only in the companion Teacher's Guide, guide printed pp.74–75); and P6's Eagle-and-Hen fable is read by the teacher for retelling (Unit 6, printed p.79), beside the unit's story summaries and retellings. Stated plainly: no Rwanda book states an own-words retelling aim or compares the retelling with the original — that framing rests on the other countries.
+
+**Malaysia added 2026-11-04** — PARTIAL stock, filed exactly as a partial: 2 books stock this lesson in part: **Book:** *English Form 1* — Malaysia, Penerbitan Pelangi Sdn. Bhd. for the Ministry of Education Malaysia, KSSM, first published 2016, ISBN 978-983-00-8245-5. **Book:** *Full Blast! Plus 4* Student's Book — Malaysia, MM Publications; no year, ISBN or edition printed in the copy. All filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Stated plainly: Malaysia stocks a performed retelling and a taught summary plan, not a retelling routine. Form 1 Chapter 2 (printed p.23) retells the Shepherd Boy story as a Literature-in-Action play — a named, performed retelling; Form 4's Let's Read 1 (pp.34–35) sets a *Twenty Thousand Leagues Under the Sea* extract with a PLAN for writing a summary of it — telling a text back in compressed form. No held Malaysian book teaches retelling as a routine.

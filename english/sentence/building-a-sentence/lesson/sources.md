@@ -1,6 +1,6 @@
 # Sources — Building a sentence
 
-countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda
+countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia
 
 Every part traces to its book and page.
 
@@ -180,10 +180,12 @@ CITATION CHECK PASSED 2026-11-03).
 | PARTIAL — sentences built from substitution tables, and sentences ordered in the unit assessment ("is job what her?") | Rwanda — English for Rwandan Primary Schools, Pupil's Book 3, Unit 2, printed pp.28, 30; Unit 2 Assessment, printed p.36 |
 | PARTIAL — sentence-building from a table, in the past-and-future unit's assessment | Rwanda — English for Rwandan Primary Schools, Pupil's Book 3, Unit 4 Assessment, printed p.67 |
 | PARTIAL — sentence-building from a table, inside the contrasting work | Rwanda — English Learner's Book for Rwandan Primary Schools, P5, Unit 2, Topic 5 "Contrasting", printed pp.40–41 |
+| PARTIAL — subject–verb agreement taught with the singular/plural noun system (regular -s/-es, f/fe→ves, irregular and plural-only nouns) — Malaysia's sentence-foundation stock | Malaysia, Form 1 *English Form 1*, Chapter 5, pp.51–62 |
+| PARTIAL — writing long sentences: joining ideas with although/even though, in spite of/despite and similar linkers, in the essay work (held pages only) | Malaysia, Form 5 KPM textbook, Unit 10 Writing, pp.130–131 |
 
-**Acceptance count: taught in 24 countries (Bangladesh,
+**Acceptance count: taught in 25 countries (Bangladesh,
 Bolivia, Ghana, Mongolia, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda).** Bolivia states the formula;
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia).** Bolivia states the formula;
 Ghana names the two parts; Bangladesh drills the building
 from tables; Mongolia checks the order; China adds the
 this/these, that/those sentence system, taught as one
@@ -220,3 +222,5 @@ READING-QUEUE.md).
 **Kuwait added 2026-11-04** — Skyline English Student's Book 1B, Skyline English Student's Book 2B and New Fun with English Activity Book Grade 1B (full read in english/books/kuwait.md). Kuwait's stock is ordering and building practice only: word reordering in Skyline 1B's Unit 8 writing lesson and in every Skyline 2B unit's writing lessons, and an order-the-sentence exercise in the older activity book. No subject-and-verb rule is stated in any held book, and no fuller sentence-building lesson is claimed. The New Fun with English book is the older Longman course, not a companion to the held Skyline books, and is cited for its own teaching only.
 
 **Rwanda added 2026-11-04** — 3 books stock this lesson, in part only: **Book:** *English for Rwandan Schools — Primary 2 Learner's Book* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. **Book:** *English for Rwandan Primary Schools — Pupil's Book 3* (pupil's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. **Book:** *English Learner's Book for Rwandan Primary Schools, P5* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. All filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). PARTIAL, filed plainly: no Rwanda book states a subject-and-verb or subject-and-predicate sentence-building rule, and none is claimed here. What Rwanda stocks is ordering and table-building practice: word-order puzzle sentences in the Primary 2 Learner's Book (Unit 2, printed p.18); sentences from substitution tables in Pupil's Book 3 (Unit 2, printed pp.28, 30), sentence ordering in its Unit 2 Assessment (printed p.36) and sentence-building from a table in its Unit 4 Assessment (printed p.67); and sentence-building from a table in the P5 Learner's Book's contrasting work (Unit 2, printed pp.40–41).
+
+**Malaysia added 2026-11-04** — 2 books/files stock this lesson: **Book:** *English Form 1* (student's book) — Malaysia, Pelangi, KSSM, first published 2016, ISBN 978-983-00-8245-5. Filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-04) **Book:** Form 5 KPM textbook under licence from Hamilton House Publishers (student's book) — Malaysia, Malaysian ISBN 978-967-0951-44-7, Malaysian edition first published 2021; the held copy is front-incomplete (printed pp.1–4 absent) and no title is printed in the copy, so only held pages are cited. Filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Malaysia stocks this lesson **in part only, and it is filed as a partial**: no Malaysia book in the held set teaches a word-order or subject-and-verb sentence-building unit, and none is claimed. What Malaysia stocks is the two ends of the sentence's work — **subject–verb agreement taught with the singular/plural noun system in Form 1, Chapter 5 (pp.51–62)**, the book's sentence-foundation grammar, and, at the top of the school, **Form 5's Unit 10 Writing (pp.130–131): writing long sentences, joining ideas with although/even though, in spite of/despite** and similar linkers. Agreement plus sentence-joining is the whole of Malaysia's stock here.
