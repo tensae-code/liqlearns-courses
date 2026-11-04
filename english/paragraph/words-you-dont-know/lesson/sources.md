@@ -1,6 +1,6 @@
 # Sources — Words you don't know
 
-countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan
+countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan, Yemen
 
 Every part traces to its book and page.
 
@@ -115,9 +115,12 @@ CHECK PASSED 2026-11-03).
 | Inferred meanings from context clues as the vocabulary work of the Patriotism unit | Pakistan, English 9, Unit 2, printed pp.23–24 |
 | Contextual clues explained and practised on the poem "If—" | Pakistan, English 9, Unit 7, printed pp.88–89 |
 | Using context to clarify meaning taught as its own vocabulary topic, with word patterns, reference materials and verifying a preliminary meaning | Pakistan, English 12, Unit 3, printed pp.20–21 |
+| A full page on working out the meanings of new words from context - synonyms, antonyms, definitions, examples, cause/effect, purpose, and word formation (prefixes/suffixes/compounds) - printed inside the headlines lesson | Yemen, *English Course for Yemen* Pupil's Book 6 (Grade 12), Unit 2, lesson 2.1, printed p.9 |
+| The meaning-clues page used as the course's reference: the job-notices lesson cross-refers pupils back to it ('vocabulary-in-context work ... cross-referring pupils back to the meaning-clues page, p.9') | Yemen, *English Course for Yemen* Pupil's Book 6 (Grade 12), Unit 3, printed p.17 |
+| Word-meaning guessing practised on a reading text in the workbook (the fish-curry dialogue: 'word-meaning guessing' among its tasks) | Yemen, *English Course for Yemen* Work Book 6 (Grade 12), Unit 4, lesson 4.3 (Unit 4, printed pp.41-54) |
 
-**Acceptance count: taught in 16 countries (Bangladesh,
-Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan).** India's senior books print the
+**Acceptance count: taught in 17 countries (Bangladesh,
+Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan, Yemen).** India's senior books print the
 command at every unit's head; Bangladesh names the routine;
 Ghana pairs context with word relationships; Libya's texts
 gloss in the line; China coaches the guessing itself, in a
@@ -162,3 +165,5 @@ books are read (see READING-QUEUE.md).
 **Pakistan added 2026-11-03** — 2 books stock this lesson: **Book:** *English 9* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Updated/Revised National Curriculum 2023, Experimental Edition, no ISBN printed. **Book:** *English 12* (student's book) — Pakistan, issued by PECTAA (Punjab Education, Curriculum, Training and Assessment Authority), Revised National Curriculum 2023, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Pakistan teaches the guessing in the student's books themselves: Grade 9 works inferred meanings from context clues in its Patriotism unit (Unit 2, printed pp.23–24) and explains and practises contextual clues on Kipling's "If—" (Unit 7, printed pp.88–89). Grade 12 teaches using context to clarify meaning as its own vocabulary topic, alongside word patterns, reference materials and verifying a preliminary meaning (Unit 3, printed pp.20–21).
 
 **Malaysia checked 2026-11-04 — not stocked.** Malaysia's nearest item is Form 3's Unit 4 reading strategy "worrying about new words" — i.e. NOT worrying about them (*Close-Up* B1, Unit 4, pp.43–54) — an attitude tip, not a method; no held Malaysian book teaches inferring an unknown word's meaning from context as a routine, and its dictionary strand is look-up skill, filed under Using the Dictionary. Malaysia is deliberately absent from this lesson's countries line — checked, not unlooked-for. (Full read in english/books/malaysia.md, FULLY READ + CITATION CHECK PASSED 2026-11-04.)
+
+**Yemen added 2026-11-04** - 2 books stock this lesson: **Book:** *English Course for Yemen - Pupil's Book 6* (Grade 12, pupil's book) - Yemen, Ministry of Education and Scientific Research; the ministry re-issue (print line 2027-1448) of the Crescent course prepared by Terry O'Neill and Peter Snow through Garnet Publishing Limited (c) 2000; no ISBN is printed in any Yemen book, and every grade rests on series position (Book N = Grade N+6). Filed in english/books/yemen.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). **Book:** *English Course for Yemen - Work Book 6* (Grade 12, workbook) - Yemen, Ministry of Education and Scientific Research; the companion workbook in the older ministry style (Ministry of Education), its imprint (printed p.118) naming Terry O'Neil [as printed] and Peter Snow through Garnet Publishing Limited, Copyright @ 2000 [as printed]; no 2027-1448 print line and no ISBN. Filed in english/books/yemen.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Yemen stocks this lesson in full from Grade 12: Pupil's Book 6 gives a whole page to working out new words from context - by synonym, antonym, definition, example, cause/effect, purpose and word formation - and later lessons send pupils back to that page as the course's meaning-clues reference. Work Book 6 practises word-meaning guessing on its texts.

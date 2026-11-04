@@ -1,6 +1,6 @@
 # Sources for this lesson — Word families
 
-countries: Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait
+countries: Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -51,8 +51,12 @@ pictures).
 | The -it family (kit, pit, fit, sit) and the -am family (tam, yam, jam) | Kuwait, Skyline English Student's Book 1B, Unit 6, Phonics lessons (lessons pp.26–35) |
 | The -op family (mop, hop, top, stop, drop) and the -ot family (hot, pot, dot) | Kuwait, Skyline English Student's Book 1B, Unit 7, Phonics lessons (lessons pp.44–53; the -ot text at printed p.51) |
 | The -ug family (bug, rug, jug, mug) and the -ed family (red, bed, fed) — the -ed family is met as a word family, not taught as a past tense | Kuwait, Skyline English Student's Book 1B, Unit 8, Phonics lessons (lessons pp.62–71; the -ed text at printed p.69) |
+| PARTIAL - 'Match the sounds' rhyming sets: pupils match words that rhyme, inside Unit 3's missing-letter work | Yemen, *English Course for Yemen* Workbook 1 (Grade 7), Unit 3, exercise 3.15, printed pp.20-21 |
+| PARTIAL - rhyme-pairing as a named closing exercise: 'Write the words that go together' - camp-lamp, wood-good, went-tent | Yemen, *English Course for Yemen* Work Book 2 (Grade 8), Unit 5, exercise 5.18 (Unit 5, printed pp.61-76) |
+| PARTIAL - a rhyming chant, 'I say, you say', pairing rhyming words for oral practice | Yemen, *English Course for Yemen* Pupil's Book 2 (Grade 8), Unit 5, printed p.52 |
+| The limit, stated plainly: Yemen pairs and matches rhyming words but never builds rime families - there is no -at/-en family work and no word-building from a shared ending anywhere in the 13 books | Yemen, the held set as filed in english/books/yemen.md (Workbook 1 and Work Book 2 sections) |
 
-**Acceptance count: taught in 11 countries (Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait).**
+**Acceptance count: taught in 12 countries (Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen).**
 China adds a complete short-vowel cycle inside one volume —
 one Let's spell set per vowel, reviewed as a whole system
 (Grade 3 Volume 2) — the silent-e ladder that turns those
@@ -314,3 +318,5 @@ filed.
 **Kuwait added 2026-11-04** — Skyline English Student's Book 1B (full read in english/books/kuwait.md). **Book:** *Skyline English Student's Book 1B, Grade 1* — Kuwait, Ministry of Education, First Edition 2025-2026. Filed in english/books/kuwait.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Kuwait stocks this lesson in full in one book: Grade 1's phonics lessons teach two rime families per unit — -an and -ap in Unit 5, -it and -am in Unit 6, -op and -ot in Unit 7, and -ug and -ed in Unit 8 — each family with a cumulative build-up reading text. The -ed family (red, bed, fed) is met as a word family, not taught as a past tense, and is filed on those terms.
 
 **Malaysia checked 2026-11-04 — not stocked.** No word-family (rime) teaching appears anywhere in Malaysia's held set; the nearest items are single-sound lessons (the Year 1 map's /æ/ reading lesson, Lesson 29, printed p.85) and suffix word-formation strands in the Form books, which are not word families. Malaysia is deliberately absent from this lesson's countries line — checked, not unlooked-for.
+
+**Yemen added 2026-11-04 - PARTIAL stocking** - 3 books stock this lesson in part: **Book:** *English Course for Yemen - Workbook 1* (Grade 7, workbook) - Yemen, Ministry of Education and Scientific Research; the ministry re-issue (print line 2027-1448) of the Crescent course prepared by Terry O'Neill and Peter Snow through Garnet Publishing Limited (c) 2000; no ISBN is printed in any Yemen book, and every grade rests on series position (Book N = Grade N+6). Filed in english/books/yemen.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). **Book:** *English Course for Yemen - Work Book 2* (Grade 8, workbook) - Yemen, Ministry of Education and Scientific Research; the ministry re-issue (print line 2027-1448) of the Crescent course prepared by Terry O'Neill and Peter Snow through Garnet Publishing Limited (c) 2000; no ISBN is printed in any Yemen book, and every grade rests on series position (Book N = Grade N+6). Filed in english/books/yemen.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). **Book:** *English Course for Yemen - Pupil's Book 2* (Grade 8, pupil's book) - Yemen, Ministry of Education and Scientific Research; the ministry re-issue (print line 2027-1448) of the Crescent course prepared by Terry O'Neill and Peter Snow through Garnet Publishing Limited (c) 2000; no ISBN is printed in any Yemen book, and every grade rests on series position (Book N = Grade N+6). Filed in english/books/yemen.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). PARTIAL stocking. Yemen's word-family evidence is rhyming-word work only: 'Match the sounds' sets in Workbook 1, a rhyme-pairing exercise in Work Book 2 and a rhyming chant in Pupil's Book 2. The books never build families from a shared rime, so this is filed as a partial - rhyme recognition, not family building.

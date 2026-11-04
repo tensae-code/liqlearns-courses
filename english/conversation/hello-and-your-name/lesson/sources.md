@@ -1,6 +1,6 @@
 # Sources for this lesson — Greetings
 
-countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia
+countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag.
@@ -83,6 +83,9 @@ side by side on one PDF page — that was wrong.
 | The name exchange inside the first unit's greetings — "What is your name? — My name is ___", with "This is ___" beside it | Rwanda — Success English for Rwandan Schools, Primary 1 Pupil's Book, Unit 1 "Welcome to the classroom", printed pp.1–7 |
 | The name exchange re-opened in the next book's first unit — a greetings dialogue, then two seven-year-olds exchange names, ages and where they live in an introduction dialogue | Rwanda — English for Rwandan Schools, Primary 2 Learner's Book, Unit 1, printed pp.1–2 (the introduction dialogue at printed p.2) |
 | "What's your name? / I'm … / He's, She's …" — greet, introduce themselves and name others, as mapped curriculum coverage only (Scheme of Work evidence, not a pupil's-book page) | Malaysia, Year 1 Scheme of Work (KSSR), Friends starter topic (Lessons 1–17), printed pp.26–60 |
+| Greetings and leave-taking exchanges, taught with the course's English children Anne and Tom - the course's first conversation lesson | Yemen, *English Course for Yemen* Pupil's Book 1 (Grade 7), Unit 2, printed p.3 |
+| Saying who you are: personal information - name, age, 'Where are you from?' - presented as a learn-and-say lesson | Yemen, *English Course for Yemen* Pupil's Book 1 (Grade 7), Unit 3, printed pp.12-13 |
+| The question words behind the exchange (What / Where / How old / How many / Who) gathered in the unit's Language summary | Yemen, *English Course for Yemen* Pupil's Book 1 (Grade 7), Unit 3, Language summary, printed p.19 |
 
 **Second country merged 2026-10-25 — Libya:**
 English for Libya, Pupils Book Grade 1 (CERC, Ministry of Education,
@@ -125,7 +128,7 @@ rendered page the same day).
 - Unit 1 "Greeting and Numbers," p. 14 (Hello/Hi, Goodbye/bye tracing;
   "What's your name? / My name's" tracing strips, p. 16).
 
-**Acceptance count: taught in 26 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia).**
+**Acceptance count: taught in 27 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen).**
 China adds name exchanges from its first primary page and the
 "Where are you from? — I'm from …" origin frame (Grades 3), plus
 five printed ways to say goodbye (Grade 6 Volume 2); North
@@ -602,3 +605,5 @@ loved subject ("I am eight years old.", printed p.7).
 **Rwanda added 2026-11-04** — 2 books stock this lesson: **Book:** *Success English for Rwandan Schools, Primary 1 Pupil's Book* (pupil's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. **Book:** *English for Rwandan Schools, Primary 2 Learner's Book* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. All filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Rwanda opens its course on this lesson, like Egypt, Libya and Syria: Primary 1, Unit 1, "Welcome to the classroom" (printed pp.1–7), teaches the greetings and the name frames together — "What is your name?", "My name is ___", "This is ___ / Who is this/that/they?" — in speech-bubble dialogues, with name-completion blanks as its only writing. Primary 2, Unit 1 (printed pp.1–11), re-opens on the same door: a greetings dialogue with Flora and "Miss. Juliet" (printed p.1), then an introduction dialogue (printed p.2) in which two seven-year-olds exchange names, ages and where they live, the boy in Kigali.
 
 **Malaysia added 2026-11-04** — 1 file stocks this lesson: **Book:** *KSSR English Language Scheme of Work, Primary Year 1 (SK)* (Scheme of Work — teacher planning document) — Malaysia, Curriculum Development Division (BPK), Ministry of Education; it maps *Superminds 1* (Cambridge) pp.4–57, a pupil's book that is NOT held. Filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Malaysia's primary files are KSSR Schemes of Work, not pupil's textbooks; the mapped pupil's book Superminds 1 is not held; no primary citation is a pupil's-book page. Malaysia stocks this lesson as mapped curriculum coverage only: in the Year 1 Scheme of Work, the Friends starter topic (Lessons 1–17, headers at printed pp.26–60) teaches "What's your name? / I'm … / He's, She's …" — pupils learn to greet, introduce themselves and name others.
+
+**Yemen added 2026-11-04** - 1 book stock this lesson: **Book:** *English Course for Yemen - Pupil's Book 1* (Grade 7, pupil's book) - Yemen, Ministry of Education and Scientific Research; the ministry re-issue (print line 2027-1448) of the Crescent course prepared by Terry O'Neill and Peter Snow through Garnet Publishing Limited (c) 2000; no ISBN is printed in any Yemen book, and every grade rests on series position (Book N = Grade N+6). Filed in english/books/yemen.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Yemen stocks this lesson from Book 1's beginner units: greetings and leave-taking arrive in Unit 2 (printed p.3), and name-giving sits inside Unit 3's personal-information lesson (printed pp.12-13), where the learner says their name, age and where they are from. English starts at Grade 7 in Yemen, so this is first-weeks material even though the book is a secondary book.
