@@ -58,7 +58,7 @@ Front matter: cover (PDF 1), © page (PDF 2), Contents (PDF 3), Syllabus (PDF 4�
 
 Front matter: cover (PDF 1), © page (PDF 2), Contents (PDF 3), Syllabus (PDF 4–7, folios iv–vii); body mapping printed page = PDF page − 6.
 
-**Contents (PDF 3):** Introduction: Classroom English p.2 · Unit 1 **Feelings** p.4 · Unit 2 **Things We Wear** p.12 · Unit 3 **Things We Do** p.20 · Unit 4 **Beautiful Nature** p.28 · Unit 5 **Friends, Actions, Things** p.36 · Phonics Practice p.44 · Picture Dictionary p.52 · Audio Track Lists p.57 · Word List p.59 · Objectives p.60 · Workbook p.62 (bound in, printed pp.62–103; six further reference-chart pages are bound after the workbook, PDF 105–110, on the reader's account).
+**Contents (PDF 3):** Introduction: Classroom English p.2 · Unit 1 **Feelings** p.4 · Unit 2 **Things We Wear** p.12 · Unit 3 **Things We Do** p.20 · Unit 4 **Beautiful Nature** p.28 · Unit 5 **Friends, Actions, Things** p.36 · Phonics Practice p.44 · Picture Dictionary p.52 · Audio Track Lists p.57 · Word List p.59 · Objectives p.60 · Workbook p.62 (bound in, printed pp.62–103; a Ministry back page closes the file).
 
 **What it teaches** (Contents and Syllabus verified; unit detail from the band reader's whole-book report, which matches the Syllabus at every point the coordinator sampled):
 
