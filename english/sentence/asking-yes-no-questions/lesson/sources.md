@@ -1,6 +1,6 @@
 # Sources — Asking yes/no questions
 
-countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
+countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan
 
 Every part traces to its book and page.
 
@@ -190,10 +190,13 @@ CITATION CHECK PASSED 2026-11-03).
 | Yes/no questions with be and short answers — "Is this a cake?" with "Yes, it is / No, it isn't. It's a …" | Cambodia — English Grade 4 (student's book), Units 2–3, printed pp.16–43 |
 | Habit questions with do/does — "Do you skip? / Yes, I do / No, I don't"; "Does she/he …?" | Cambodia — English Grade 4 (student's book), Unit 8 "Daily Activities", printed pp.100–113 |
 | Have you got…? questions inside the describing-people unit | Cambodia — ENGLISH Grade 7 (student's book), Unit 13 "Guess what I've got!", printed pp.80–85 |
+| Intonation and stress on yes-no questions, with rise arrows | Pakistan — *English 3* (student's book), Unit 2, printed p.14 |
+| Weak and strong forms of do/have in short answers, recycled in review | Pakistan — *English 3* (student's book), Review 2, printed p.84 |
+| Questions with do and does, in a question/answer table | Pakistan — *English 4* (student's book), Unit 13, printed p.128 |
 
-**Acceptance count: taught in 20 countries (Bangladesh,
+**Acceptance count: taught in 21 countries (Bangladesh,
 Bolivia, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).** Bolivia boxes the do/does engine;
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan).** Bolivia boxes the do/does engine;
 Mongolia works the be-swap on its doing-now questions;
 Bangladesh teaches the voice the question rides on; China
 adds the full shelf of shapes across its primary run — be,
@@ -247,3 +250,5 @@ invert, other verbs take the "helping verb" Do/Does
 **Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 7 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2022, ISBN 978-604-0-30724-8. **Book:** *Tiếng Anh 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2021, ISBN 978-604-0-25872-4. **Book:** *Tiếng Anh 3, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2022, ISBN 978-604-0-30720-0. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam practises yes/no questions from Grade 2 — short-answer exchanges inside patterns — and names the formation as grammar only at Grade 7, where "Yes / No questions" is a unit's grammar point with the auxiliary-before-subject rule stated. The Grade 9 book then recycles the type as reported Yes/No questions (Unit 7), which is sourced in the reported-speech stock, not here.
 
 **Cambodia added 2026-11-03** — 2 books stock this lesson: **Book:** *English Grade 4* (student's book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS), 8th printing 2020, ISBN 978-9924-9423-0-6. **Book:** *ENGLISH Grade 7* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia builds the yes/no question on be first (Grade 4, Units 2–3, with the full short-answer pair), adds do/does habit questions only in its final unit (Unit 8), and works Have you got…? at Grade 7 (Unit 13).
+
+**Pakistan added 2026-11-03** — 2 books stock this lesson: **Book:** *English 3* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, based on Single National Curriculum 2020, no ISBN printed. **Book:** *English 4* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, based on Single National Curriculum 2020, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 3 gives yes-no questions their voice first — intonation and stress with rise arrows in Unit 2 (printed p.14) — and recycles weak and strong do/have short answers in Review 2 (printed p.84). Grade 4 tables questions with do and does in Unit 13 (printed p.128).

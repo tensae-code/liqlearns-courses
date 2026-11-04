@@ -1,6 +1,6 @@
 # Sources — Capital letter and full stop
 
-countries: Bangladesh, Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia
+countries: Bangladesh, Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Pakistan
 
 Every part traces to its book and page.
 
@@ -139,9 +139,13 @@ CITATION CHECK PASSED 2026-11-03).
 | GUIDE'S OWN TEACHING (this guide keys to a newer eighteen-unit Grade 6 textbook that is not held, not to the held 2012 student's book) — capitalisation as Unit 1's Extra bit and full stops as Unit 2's Extra bit | Nepal, Grade 6 Teacher's Guide, Unit 1 (printed pp.5–11) and Unit 2 (printed pp.12–18) |
 | Capital letters taught as writing rules inside the unit's writing lesson (partial stock: no held Armenia book states a full-stop rule of its own) | Armenia — English 4, Part 1 (COAF), Unit 1.7 "Things I Do for Fun!" (Writing), in Unit 1, printed pp.14–41 |
 | Capital letters and full stops, named together in the opening Review of Grade 7 material | Cambodia — ENGLISH Grade 8 (student's book), Review "Welcome to Grade 8!", printed pp.8–13 |
+| Capital letter and full stop introduced together, on the modelled exchange "What is your name? / My name is ___" | Pakistan — *English Nursery* (student's book), printed p.124 |
+| Capitalisation taught as a sentence rule — the first letter of the first word of a sentence, with sentences rewritten capitalised | Pakistan — *English 1* (student's book), Unit 8, printed p.80 |
+| The full stop taught as its own grammar point | Pakistan — *English 1* (student's book), Unit 9, printed p.88 |
+| The punctuation set taught together — capital letters, full stop, commas, inverted commas and exclamation mark, with rule boxes and a passage to punctuate | Pakistan — *English 3* (student's book), Unit 1, printed p.9 |
 
-**Acceptance count: taught in 15 countries (Bangladesh,
-Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia).** Ghana states the rules as curriculum strands;
+**Acceptance count: taught in 16 countries (Bangladesh,
+Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Pakistan).** Ghana states the rules as curriculum strands;
 Bangladesh boxes the capital rule, prints a text wearing it
 in red, and drills the stop/question-mark pair in its first
 punctuation exercises; Indonesia names the marks and
@@ -171,3 +175,5 @@ their books are read (see READING-QUEUE.md).
 **Armenia added 2026-11-03** — 1 book stocks this lesson, in part: **Book:** *English 4 — Part 1* — Armenia, COAF, Yerevan 2025 (Part 1 only). Filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). PARTIAL, filed plainly: capital-letter rules are taught as writing rules inside the unit's writing lesson — English 4, Part 1, Unit 1.7 "Things I Do for Fun!" (Writing), in Unit 1 (printed pp.14–41) — but no held Armenia book states a full-stop rule of its own, and none is claimed here.
 
 **Cambodia added 2026-11-03** — 1 book stocks this lesson: **Book:** *ENGLISH Grade 8* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Both halves are stocked from one place: the Grade 8 book's opening Review lists capital letters and full stops among the Grade 7 work it recalls, alongside colours, numbers to 100 and there is/isn't spot-the-difference. Filed plainly: no Cambodia book gives the two marks a rule lesson of their own.
+
+**Pakistan added 2026-11-03** — 3 books stock this lesson: **Book:** *English Nursery* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, based on Single National Curriculum 2020, no ISBN printed. **Book:** *English 1* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, based on Single National Curriculum 2020, no ISBN printed. **Book:** *English 3* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, based on Single National Curriculum 2020, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). The Nursery book introduces the capital letter and the full stop together on one page (printed p.124). Grade 1 teaches capitalisation in Unit 8 (printed p.80) and the full stop as its own point in Unit 9 (printed p.88). Grade 3 sets the whole early punctuation set — capital letters, full stop, commas, inverted commas, exclamation mark — in Unit 1 (printed p.9).

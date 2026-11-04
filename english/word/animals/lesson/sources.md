@@ -1,6 +1,6 @@
 # Sources — Animals
 
-countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
+countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan
 
 Every part traces to its book and page.
 
@@ -195,10 +195,13 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 2 section, FULLY READ + C
 | Animals inside the this/is this patterns — cat, dog, fish, bird, pig, duck, hen, elephant | Cambodia — English Grade 4 (student's book), Unit 3 "Animals", printed pp.30–43 |
 | Five animal groups as a chapter's units — pets, wild animals, sea creatures, farm animals, dangerous animals | Cambodia — English Grade 6 (student's book), Chapter 5, printed pp.96–117 |
 | Farm animals — chicken, cow, duck, egg, ox, pig (oxen in the reading) | Cambodia — English Grade 5 (student's book), Chapter 2, Unit 2 "Animals On The Farm", printed pp.30–33 |
+| Animal names sorted wild and farm — tiger, bear, elephant; horse, hen, rabbit | Pakistan — *English 1* (student's book), Unit 10, printed p.98 |
+| Animal names — farm (cow, hen, horse) against wild (deer, monkey, lion), with pets and insects | Pakistan — *English 2* (student's book), Unit 2, printed pp.16–17 |
+| A reading text on the snow leopard and the markhor — predator and prey, their balance, threats and conservation | Pakistan — *English 9* (student's book), Unit 10, printed pp.120–123 |
 
-**Acceptance count: taught in 21 countries (Bangladesh, Egypt,
+**Acceptance count: taught in 22 countries (Bangladesh, Egypt,
 Libya, Palestine, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).** Egypt carries the farm four with the first
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan).** Egypt carries the farm four with the first
 size pair; Palestine carries the youngest learners' set;
 Bangladesh carries homes and foods as whole sentences; Libya
 carries the wild names inside its letter list; China carries
@@ -224,3 +227,5 @@ countries join as their books are read (see READING-QUEUE.md).
 **Vietnam added 2026-11-03** — 2 books stock this lesson: **Book:** *Tiếng Anh 3, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2022, ISBN 978-604-0-30721-7. **Book:** *Tiếng Anh 4, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2023, ISBN 978-604-0-35121-0. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam's animal stock is two Grade 3 sets and one Grade 4 set: pets with counting at Volume 2 Unit 16, five zoo animals with their actions at Unit 20, and the big zoo animals — crocodiles, giraffes, hippos, lions — with reason-giving at Grade 4, Volume 2. Filed plainly: Grade 3 teaches no farm animals anywhere, and the animal-young words of its Fun time (puppy, kitten, cub, calf) are not in its Wordlist, as the country file records.
 
 **Cambodia added 2026-11-03** — 3 books stock this lesson: **Book:** *English Grade 4* (student's book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS), 8th printing 2020, ISBN 978-9924-9423-0-6. **Book:** *English Grade 5* (student's book) — Cambodia, MoEYS, 6th printing 2020, ISBN 978-9924-9423-2-0. **Book:** *English Grade 6* (student's book) — Cambodia, MoEYS, 5th printing 2020, ISBN 978-9924-9423-1-3. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia's animal stock is systematic: Grade 4 meets the first animal words inside its be-patterns (Unit 3), Grade 5 works the farm (Chapter 2), and Grade 6 gives a whole chapter to five animal groups — pets, wild, sea, farm and dangerous animals (Chapter 5, printed pp.96–117).
+
+**Pakistan added 2026-11-03** — 3 books stock this lesson: **Book:** *English 1* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 2* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 9* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Updated/Revised National Curriculum 2023, Experimental Edition, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 1 sorts animal names into wild and farm in Unit 10 (printed p.98) — tiger, bear and elephant against horse, hen and rabbit. Grade 2 names farm and wild animals again in Unit 2 (printed pp.16–17). Grade 9's Unit 10 reading (printed pp.120–123) is a full text on the snow leopard and the markhor, their predator-and-prey balance and the threats to both.

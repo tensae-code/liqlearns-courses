@@ -1,6 +1,6 @@
 # Sources — Words you don't know
 
-countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia
+countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan
 
 Every part traces to its book and page.
 
@@ -112,9 +112,12 @@ CHECK PASSED 2026-11-03).
 | Guessing words in context named among the standing task types of every Skills 1 reading in the book — beside matching headings/definitions, true/false, multiple choice, and reference questions | Vietnam — Tiếng Anh 9 (Global Success), Skills 1 readings across Units 1–12, printed pp.8–133 (e.g. Unit 1's Skills 1 reading brochure, printed p.14) |
 | "Focus on guessing from context" — the guide's own language note for the feelings unit (guide's own teaching) | Cambodia — ENGLISH Grade 10 (teacher's guide book), Unit 11 "How do you feel?", printed pp.59–64 |
 | "Tip! Guessing meaning from context" in the tips index, keyed to Unit 17 (guide's own teaching) | Cambodia — ENGLISH Grade 11 (teacher's guide book), tips index, printed pp.VI–VIII; keyed to Unit 17, printed pp.93–98 |
+| Inferred meanings from context clues as the vocabulary work of the Patriotism unit | Pakistan, English 9, Unit 2, printed pp.23–24 |
+| Contextual clues explained and practised on the poem "If—" | Pakistan, English 9, Unit 7, printed pp.88–89 |
+| Using context to clarify meaning taught as its own vocabulary topic, with word patterns, reference materials and verifying a preliminary meaning | Pakistan, English 12, Unit 3, printed pp.20–21 |
 
-**Acceptance count: taught in 15 countries (Bangladesh,
-Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia).** India's senior books print the
+**Acceptance count: taught in 16 countries (Bangladesh,
+Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan).** India's senior books print the
 command at every unit's head; Bangladesh names the routine;
 Ghana pairs context with word relationships; Libya's texts
 gloss in the line; China coaches the guessing itself, in a
@@ -155,3 +158,5 @@ books are read (see READING-QUEUE.md).
 **Vietnam added 2026-11-03** — 1 book stocks this lesson: **Book:** *Tiếng Anh 9 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2024, ISBN 978-604-0-39366-1. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Filed plainly and at its true size: guessing a word's meaning from its context is a named, standing task type of the Grade 9 book's reading strand — every Skills 1 reading text in the book is worked with it among its task types, as the country file's skills summary records. Vietnam prints no separate guessing lesson and no worked example of the strategy, and none is claimed; the stock is the named task type itself, carried by twelve units of readings.
 
 **Cambodia added 2026-11-03** — 2 books stock this lesson, guide-only: **Book:** *ENGLISH Grade 10* (teacher's guide book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2021, no ISBN printed. **Book:** *ENGLISH Grade 11* (teacher's guide book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, no ISBN printed; the Grade 11 student's book is NOT held — the guide reproduces its pages, so everything cited from it is guide-held only. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). GUIDE-ONLY stock, the Armenia pattern exactly: guessing a word's meaning from context is taught in Cambodia only inside the teacher's books — as a named "Focus on" language note in the Grade 10 guide (Unit 11) and as a named teaching tip in the Grade 11 guide's index, keyed to its Unit 17. Both are cited for their own teaching only; no held Cambodia student's book teaches the skill.
+
+**Pakistan added 2026-11-03** — 2 books stock this lesson: **Book:** *English 9* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Updated/Revised National Curriculum 2023, Experimental Edition, no ISBN printed. **Book:** *English 12* (student's book) — Pakistan, issued by PECTAA (Punjab Education, Curriculum, Training and Assessment Authority), Revised National Curriculum 2023, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Pakistan teaches the guessing in the student's books themselves: Grade 9 works inferred meanings from context clues in its Patriotism unit (Unit 2, printed pp.23–24) and explains and practises contextual clues on Kipling's "If—" (Unit 7, printed pp.88–89). Grade 12 teaches using context to clarify meaning as its own vocabulary topic, alongside word patterns, reference materials and verifying a preliminary meaning (Unit 3, printed pp.20–21).

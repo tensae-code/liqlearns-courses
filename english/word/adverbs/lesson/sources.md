@@ -1,6 +1,6 @@
 # Sources — Adverbs
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan
 
 Every part traces to its book and page.
 
@@ -179,9 +179,12 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Adverbs of manner and their position, inside the emergencies unit | Cambodia — ENGLISH Grade 12 (student's book), Unit 14 "Staying safe", printed pp.75–80 |
 | Adverbs of frequency on a 0–100% scale, and their position in the sentence | Cambodia — ENGLISH Grade 12 (student's book), Unit 2 "A day in the life", printed pp.7–12 |
 | Adverbs of frequency with the present simple of daily routine | Cambodia — ENGLISH Grade 10 (student's book), Unit 7 "My daily routine", printed pp.35–40 |
+| Adverbs as a named word class (politely, beautifully, neatly, hurriedly, slowly) | Pakistan — *English 4* (student's book), Unit 8, printed p.80 |
+| Adverbs — words that describe a verb and tell how, when, where or how often; many end in -ly | Pakistan — *English 5* (student's book), Text 11, printed p.78 |
+| Adverbs of manner, time and place, with changing adjectives into adverbs and identifying the adverb | Pakistan — *English 8* (student's book), Unit 6, printed pp.57–67 |
 
-**Acceptance count: taught in 20 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).**
+**Acceptance count: taught in 21 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan).**
 Bangladesh carries the definition and the mime
 game; Egypt carries the making rule (-ly, y → i) and the
 frequency ladder; Libya carries the adjective-to-adverb move
@@ -212,3 +215,5 @@ Armenia joined 2026-11-03: it carries adverbs of frequency as a grammar lesson w
 **Vietnam added 2026-11-03** — 4 books stock this lesson: **Book:** *Tiếng Anh 5, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2024, ISBN 978-604-0-39361-6. **Book:** *Tiếng Anh 6, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25873-1. **Book:** *Tiếng Anh 8 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2023, ISBN 978-604-0-35127-2. **Book:** *Tiếng Anh 4, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2023, ISBN 978-604-0-35121-0. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam's adverb spine is frequency first, then manner, then comparison: the frequency set is labelled in a bar chart at Grade 5, Volume 1 and named as grammar — with its position rule — at Grade 6, Volume 1; manner adverbs are worked inside animal actions at Grade 4, Volume 2 (dance beautifully, roar loudly, run quickly, sing merrily); and Grade 8 names comparative forms of adverbs as its own grammar point, irregular well → better and badly → worse included.
 
 **Cambodia added 2026-11-03** — 3 books stock this lesson: **Book:** *ENGLISH Grade 8* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. **Book:** *ENGLISH Grade 10* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2021, no ISBN printed. **Book:** *ENGLISH Grade 12* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2023, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia teaches both adverb families as systems: manner in Grade 8 (formation from adjectives included, Unit 6) and again with position in Grade 12 (Unit 14); frequency on a printed 0–100% scale in Grade 12 (Unit 2) and with routines in Grade 10 (Unit 7).
+
+**Pakistan added 2026-11-03** — 3 books stock this lesson: **Book:** *English 4* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 5* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, the board's older-format reader; no SNC line printed, no ISBN printed. **Book:** *English 8* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, with Oxford University Press, SNC 2022, no ISBN printed; held file incomplete — ends at printed p.122. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 4 teaches adverbs in Unit 8 (printed p.80), with examples such as politely, beautifully, neatly, hurriedly and slowly. Grade 5's older-format reader explains adverbs in Text 11 (printed p.78) as words that describe a verb and tell how, when, where or how often. Grade 8 sorts adverbs into manner, time and place in Unit 6 (printed pp.57–67), with exercises changing adjectives into adverbs.

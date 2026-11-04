@@ -1,6 +1,6 @@
 # Sources for this lesson — Introducing a friend
 
-countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
+countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -50,12 +50,15 @@ disk 2026-10-25: %PDF, 190 pp).
 | Making introductions and responding to them as the Everyday English function of the multicultural-world unit | Vietnam — Tiếng Anh 12 (Global Success), Unit 2, printed pp.20–31 |
 | Meeting new friends: introductions with name, age and origin inside the first unit | Cambodia — ENGLISH Grade 7 (student's book), Unit 1 "Meeting new friends", printed pp.8–13 |
 | A new classmate: introductions and personal information, opening on "Nice to meet you!" | Cambodia — ENGLISH Grade 8 (student's book), Unit 1 "A new classmate", printed pp.14–19 |
+| A dialogue introducing a younger brother | Pakistan — *English 2* (student's book), Unit 1, printed p.5 |
+| A dialogue introducing yourself and your father to a new neighbour | Pakistan — *English 2* (student's book), Unit 2, printed p.15 |
+| Role-play introducing your family | Pakistan — *English 4* (student's book), Unit 1, printed p.6 |
 
 The same dialog also carries the age exchange and the toy-fish
 talk — those parts are filed in their own places (age: english/age/
 how-old-are-you), not here.
 
-**Acceptance count: taught in 18 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).**
+**Acceptance count: taught in 19 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan).**
 Egypt carries introducing the family — "This is my father /
 mother / sister …" with the "Who's this?" exchange, and a year
 deeper the whole family lineup with my / his / her on family
@@ -437,3 +440,5 @@ filed South Sudan read, and none is claimed here.
 **Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 3, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2022, ISBN 978-604-0-30720-0. **Book:** *Tiếng Anh 6, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25873-1. **Book:** *Tiếng Anh 12 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2024, ISBN 978-604-0-39370-8. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam teaches the introduction at three heights: Grade 3, Volume 1's "Our friends" unit gives "This is … / That's …" for introducing and identifying people; Grade 6, Volume 1 makes introducing someone its first Everyday English function — "Phong, this is Duy, my new friend." (printed p.11); and Grade 12's multicultural-world unit carries making introductions and responding to them as its Everyday English function.
 
 **Cambodia added 2026-11-03** — 2 books stock this lesson: **Book:** *ENGLISH Grade 7* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. **Book:** *ENGLISH Grade 8* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia introduces people through its new-school units: Grade 7's "Meeting new friends" and Grade 8's "A new classmate", where introductions and personal information open the year (its first anchor line is "Nice to meet you!", printed p.14).
+
+**Pakistan added 2026-11-03** — 2 books stock this lesson: **Book:** *English 2* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. **Book:** *English 4* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Pakistan introduces people through family frames. Grade 2's Unit 1 dialogue introduces a younger brother (printed p.5) and its Unit 2 dialogue introduces the speaker and his father to a new neighbour (printed p.15). Grade 4 opens with a role-play introducing your family (Unit 1, printed p.6).

@@ -1,6 +1,6 @@
 # Sources — Drawing lines
 
-countries: Egypt, Libya, Sierra Leone, Iraq, Ethiopia, South Africa, Syria, Nepal, Cambodia
+countries: Egypt, Libya, Sierra Leone, Iraq, Ethiopia, South Africa, Syria, Nepal, Cambodia, Pakistan
 
 Course: Pencil and Lines — the prerequisite course before every
 language course (his ruling, 2026-10-25).
@@ -19,6 +19,8 @@ language course (his ruling, 2026-10-25).
 | Drawing straight lines inside the first unit's starting-school work | Nepal — MY ENGLISH BOOK Grade I (student's book), Unit 1 "Starting school", printed pp.1–6 |
 | Trace the way / join the dots in every Foundation lesson, with colouring, tracing and line-drawing as the writing work — the guide's own teaching for its own, different workbook (see the guide note in the Nepal section below) | Nepal — My English 1 Teacher's Guide (teacher's guide to a different, unheld workbook), Lessons 1–14, printed pp.50–96 |
 | Letter practice: tracing dotted capitals and small letters — the letters strand inside Units 1–2 (tracing only — no free line-drawing teaching) | Cambodia — English Grade 4 (student's book), Units 1–2 letters strand, printed pp.2–29 (the full alphabet is complete by printed p.27) |
+| Pre-writing strokes — horizontal, vertical, slanted lines, zigzag, curves and circles, traced | Pakistan — *English 1* (student's book), Unit 1, printed p.4 |
+| Letter tracing on the sky/grass/root system — the Trace and Write pages of every letter unit (tracing only — no free line-drawing teaching) | Pakistan — *English Nursery* (student's book), letter units' Trace and Write pages; Sky, Grass and Root Letters, printed p.113 |
 
 Second book, same country (added 2026-10-25): Egypt KG2 Term 1 opens
 with a "Remember With Me!" page — trace the wavy and zigzag lines
@@ -112,7 +114,7 @@ lines" is printed p.2, and Unit 1 (printed pp.1–26) has
 dotted-line and letter tracing; writing across the Grade 1
 units is tracing dotted letters and words.
 
-**Acceptance count: taught in 9 countries (Egypt, 3 books; Libya,
+**Acceptance count: taught in 10 countries (Egypt, 3 books; Libya,
 3 books; Sierra Leone — pattern drawing, Primary 1 Term 1;
 Iraq — dotted-line tracing opening the Grade 1 Activities,
 printed pp.89ff; Ethiopia — "Trace the dotted lines" opening
@@ -121,7 +123,7 @@ only: letter-formation tracing in HL and FAL Grade 1, no free
 line-drawing teaching; Syria — pre-writing tracing lines
 opening the Grade 1 Workbook's first unit, printed pp.3–5,
 and pencil-control tracing of lines, spirals and shapes in
-its Handwriting Practice, printed pp.78–82; Nepal — drawing straight lines in the Grade 1 student's book's first unit, printed pp.1–6, and trace-the-way / join-the-dots line work in the Grade 1 teacher's guide's own Foundation lessons (a guide to a different, unheld workbook), printed pp.50–96; Cambodia — letter practice: tracing dotted capitals and small letters inside Units 1–2 (tracing only), printed pp.2–29).**
+its Handwriting Practice, printed pp.78–82; Nepal — drawing straight lines in the Grade 1 student's book's first unit, printed pp.1–6, and trace-the-way / join-the-dots line work in the Grade 1 teacher's guide's own Foundation lessons (a guide to a different, unheld workbook), printed pp.50–96; Cambodia — letter practice: tracing dotted capitals and small letters inside Units 1–2 (tracing only), printed pp.2–29; Pakistan — pre-writing strokes (horizontal, vertical, slanted, zigzag, curves, circles) traced in Grade 1 Unit 1, printed p.4, and letter tracing on the Nursery's sky/grass/root system, printed p.113 (strokes + letter tracing only, no free line-drawing teaching)).**
 The "understand the lines" framing is his: the lines are understood,
 not just traced — a wavy line is the curved move, a zigzag is the
 straight-and-corner move, and letters are those two moves mixed.
@@ -176,3 +178,5 @@ here.
 **Nepal added 2026-11-03** — two books stock this lesson: **Book:** *MY ENGLISH BOOK Grade I* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur, first edition 2003, reprint 2011, ISBN 978-999-33-714-0-8. **Book:** *My English 1 Teacher's Guide* (teacher's guide) — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, First Edition 2020. Both Filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Nepal's line work opens its course: Grade 1, Unit 1, "Starting school" (printed pp.1–6), includes drawing straight lines among its starting-school work — free line-drawing in the student's book itself, beside the tracing shape the other countries here carry. The Grade 1 teacher's guide's Foundation lessons (Lessons 1–14, printed pp.50–96) repeat one writing pattern in every lesson — trace the way / join the dots — with colouring, tracing and line-drawing as the writing work, and its About section's pre-writing bank adds tracing and palm/finger writing (printed pp.1–49). GUIDE NOTE, recorded exactly as the country file records it: this teacher's guide is NOT the companion of the held Grade 1 student's book — it is the First Edition 2020 guide to the newer integrated-curriculum workbook 'My English Book One', which is not held, and it shares no unit, lesson or page with the held 2003 book. Its stock here is cited for its own teaching only, never as support for the held student's book.
 
 **Cambodia added 2026-11-03** — 1 book stocks this lesson: **Book:** *English Grade 4* (student's book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS), 8th printing 2020, ISBN 978-9924-9423-0-6. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia's only hand work is the Grade 4 book's letter practice: inside Units 1–2 the letters are taught four at a time (A–D, E–H, I–L in Unit 1; M–P, Q–T, U–Z in Unit 2), each group with tracing practice over dotted capitals and small letters. It is tracing only — no free line-drawing is taught, and no book in the set teaches a pencil grip (holding-a-pencil is not stocked from Cambodia).
+
+**Pakistan added 2026-11-03** — 2 books stock this lesson: **Book:** *English 1* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. **Book:** *English Nursery* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Pakistan's hand work is strokes + letter tracing only, no free line-drawing teaching. Grade 1's opening unit traces the pre-writing strokes — horizontal, vertical, slanted lines, zigzag, curves and circles (Unit 1, printed p.4) — before any letter work. The Nursery book's letter units each close with Trace and Write pages, and its Sky, Grass and Root Letters page (printed p.113) places every letter in its sky, grass or root zone for that tracing.

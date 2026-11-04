@@ -1,6 +1,6 @@
 # Sources — Opening and closing
 
-countries: Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia
+countries: Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia, Pakistan
 
 Every part traces to its book and page.
 
@@ -80,8 +80,9 @@ PASSED 2026-11-03).
 | The essay's ends named in its structure diagram — hook / introduction / body / conclusion | Armenia — English 9 (COAF), Unit 2.7, printed pp.49–51 |
 | The hook found and named inside an introduction — "identifying the hook in an introduction" — in the essay-writing corner, with a model whose topic sentence and supporting details are supplied | Armenia — English 12 (Mari), Topic 3, Writing Corner, printed pp.77–79 |
 | Closing sentences taught as a paragraph's own part — paragraphs completed by supplying their missing topic and closing sentences | Armenia — English 12 (Mari), Topic 1, Writing Corner, printed pp.28–31 |
+| The essay's two ends named as two of its three parts — introductory paragraph and concluding paragraph, with main body between them — and labelled in a dissected model essay | Pakistan, English 6, Unit 11, printed pp.110–116 |
 
-**Acceptance count: taught in 10 countries (Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia).**
+**Acceptance count: taught in 11 countries (Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia, Pakistan).**
 Bolivia's table defines both ends and dresses their joints;
 Ghana's first revise question sets the opening's law;
 China frames the formal letter — open with the matter,
@@ -110,3 +111,5 @@ READING-QUEUE.md).
 **Syria added 2026-11-03** — PARTIAL stock, filed exactly as a partial: two books stock this lesson in part: *Emar English Series 12, Student's Book, Literary Section* and *Emar English Series 12, Workbook, Scientific Section* — Syria, Ministry of Education; full read in english/books/syria.md. The literary book's Unit 8 "Essays" names introduction, body and conclusion as the academic essay's parts in its "What is an Essay" reading (pp.74–80), and the scientific workbook's Unit 1 carries a Writing Skill box on introduction/body/conclusion in the pupil's own personal-experience essay work (pp.2–8). Stated plainly: Syria names the two ends and teaches them in a skill box, but no read Syria book gives the fuller guide to introductory and concluding paragraphs, or states each end's duties, of the kind Greece's Αγγλικά 1 carries — so Syria is filed as a partial against this lesson's bar.
 
 **Armenia added 2026-11-03** — two books stock this lesson: **Book:** *English 9* — Armenia, COAF, Yerevan 2025, no ISBN printed. **Book:** *English 12* — Armenia, Mari Publishing, Yerevan 2025, ISBN 978-9939-888-42-2. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia NAMES the ends and their jobs — the hook in the introduction; the closing sentence as a paragraph part: the Grade 9 book names the essay's ends in its structure diagram — hook / introduction / body / conclusion (Unit 2.7, printed pp.49–51); the Grade 12 book finds and names the hook inside an introduction — "identifying the hook in an introduction" — in its essay-writing corner, with a model whose topic sentence and supporting details are supplied (Topic 3, Writing Corner, printed pp.77–79); and the same Grade 12 book teaches closing sentences as a paragraph's own part — paragraphs completed by supplying their missing topic and closing sentences (Topic 1, Writing Corner, printed pp.28–31).
+
+**Pakistan added 2026-11-03** — 1 book stocks this lesson: **Book:** *English 6* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Filed plainly: Grade 6's essay writing names the essay's three parts — introductory paragraph, main body and concluding paragraph — and a model essay is dissected with the three parts labelled (Unit 11, printed pp.110–116). The parts are named and labelled in that dissected model; no hook craft is taught.

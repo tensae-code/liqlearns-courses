@@ -1,6 +1,6 @@
 # Sources — The story
 
-countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
+countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan
 
 Every part traces to its book and page.
 
@@ -206,9 +206,13 @@ PASSED 2026-11-03).
 | The story's people named as its element — "Who are the main characters in the story? — They're …" — with a Character Map as the unit's writing task and a Telling a story project | Vietnam — Tiếng Anh 5, Volume 2 (Global Success), Unit 17, printed pp.46–51 |
 | Story anatomy named outright — character, setting, plot, problem, moral — in "The ingredients of a good story"; pupils then write, edit and rewrite their own short story | Cambodia — ENGLISH Grade 9 (student's book), Unit 18 "Creative writing", printed pp.116–121 |
 | The folk tales themselves, each closed by its moral | Cambodia — English Grade 6 (student's book), Chapter 6, printed pp.118–139 (e.g. "The Hen And The Chicks", Unit 1, printed pp.118–121) |
+| The elements of a story named and each defined — Characters, Setting, Beginning, Middle, Conflict, Ending — worked on the unit's play-script, with a story web to build the pupil's own story | Pakistan, English 4, Unit 10, printed p.97 |
+| Story structure taught as its own writing work — a story has three parts (beginning/middle/end, defined), with a story sheet (Title, Main Characters, Problem, Solution) | Pakistan, English 5, Text 12, printed pp.87–88 |
+| The elements of a story named as the writing work — setting, characters, plot, conflict, resolution, theme — with a step-by-step story-writing task | Pakistan, English 9, Unit 6, printed pp.81–82 |
+| Fifteen complete short stories as a whole book, each story closed by a printed Theme paragraph, with Reading Notes and exercises | Pakistan, English Book I, printed pp.1–100 |
 
-**Acceptance count: taught in 18 countries (Bangladesh,
-Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).** Ghana names the narrative mode; Bangladesh
+**Acceptance count: taught in 19 countries (Bangladesh,
+Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan).** Ghana names the narrative mode; Bangladesh
 teaches stories from its earliest classes with the fables;
 Egypt reads whole stories through the secondary years;
 China names the story's three parts outright (setting,
@@ -268,3 +272,5 @@ READING-QUEUE.md).
 **Vietnam added 2026-11-03** — PARTIAL stock, filed exactly as a partial: 1 book stocks this lesson in part: **Book:** *Tiếng Anh 5, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2024, ISBN 978-604-0-39362-3. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 5, Volume 2's Stories for children unit (printed pp.46–51) reads one complete short story whole — "The Fox and the Crow" — and names the story's characters as its element: "Who are the main characters in the story?", with a Character Map as the writing work and a Telling a story project. Stated plainly: setting and plot are never named as taught craft anywhere in the sixteen books, so Vietnam's stock here is the characters and the whole-story reading, and the rest of the story's furniture rests on the other countries.
 
 **Cambodia added 2026-11-03** — 2 books stock this lesson: **Book:** *English Grade 6* (student's book) — Cambodia, MoEYS, 5th printing 2020, ISBN 978-9924-9423-1-3. **Book:** *ENGLISH Grade 9* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", first printing 2016, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia names the story's parts outright — a step beyond most of the pool: Grade 9's creative-writing unit lists the ingredients of a good story as character, setting, plot, problem and moral, then has pupils write, edit and rewrite a story of their own (Unit 18); Grade 6's closing chapter is six folk tales, each ending on its moral (Chapter 6).
+
+**Pakistan added 2026-11-03** — 4 books stock this lesson: **Book:** *English 4* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. **Book:** *English 5* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, the board's older-format reader; no SNC line printed, no ISBN printed. **Book:** *English 9* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Updated/Revised National Curriculum 2023, Experimental Edition, no ISBN printed. **Book:** *English Book I* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, intermediate literature book (15 short stories), April 2018 printing, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Pakistan names the story's furniture outright, early and late: Grade 4 defines each element of a story — characters, setting, beginning, middle, conflict, ending — and builds the pupil's own story on a story web (Unit 10, printed p.97). Grade 5 teaches story structure — beginning, middle, end — with a story sheet of title, main characters, problem and solution (Text 12, printed pp.87–88), and Grade 9 names the elements of a story — setting, characters, plot, conflict, resolution, theme — as its story-writing work (Unit 6, printed pp.81–82). Book I is fifteen complete short stories and nothing else, each closed by a printed Theme paragraph (printed pp.1–100).

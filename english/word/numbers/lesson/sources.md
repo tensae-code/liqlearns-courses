@@ -1,6 +1,6 @@
 # Sources — Numbers
 
-countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
+countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan
 
 Every part traces to its book and page.
 
@@ -213,10 +213,14 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 | The numbers as taught units: 11–19, then 20–99, then hundreds to 900, then thousands to 10,000 — with money: Riel prices and "How much does an orange cost?" | Cambodia — English Grade 5 (student's book), Chapter 4, Units 4–7, printed pp.78–93 |
 | Numbers 1–10 in the first unit; the 20–50 list opening the family unit | Cambodia — English Grade 4 (student's book), Unit 1, printed pp.2–15; Unit 7, printed pp.86–99 |
 | Cardinal and ordinal numbers, -teen vs -ty numbers, and reading dates aloud ("on the 28th of July") | Cambodia — ENGLISH Grade 10 (student's book), Unit 1, printed pp.1–6 |
+| Number words one to ten, pictured | Pakistan — *English 1* (student's book), Unit 2, printed p.13 |
+| Numbers 1–50 written in words | Pakistan — *English 2* (student's book), Unit 7, printed p.70 |
+| Cardinal numbers one to ten, with counting pictures | Pakistan — *English 2* (student's book), Unit 9, printed p.86 |
+| Numbers 50–100 written in words, in a table | Pakistan — *English 3* (student's book), Unit 2, printed p.19 |
 
-**Acceptance count: taught in 21 countries (Egypt, India,
+**Acceptance count: taught in 22 countries (Egypt, India,
 Palestine, Laos, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).** Palestine carries the youngest path (numbers
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan).** Palestine carries the youngest path (numbers
 inside the word units, traced); Egypt carries the counting
 question and the climb (1–5, 11–20, by tens to 100); India
 carries the same 1–20 in its first book; China carries the
@@ -277,3 +281,5 @@ a whole song that sings three numbers (p.14).
 **Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2020, ISBN 978-604-0-22405-7. **Book:** *Tiếng Anh 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2021, ISBN 978-604-0-25872-4. **Book:** *Tiếng Anh 3, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2022, ISBN 978-604-0-30721-7. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam counts late and in stages: Grade 1 reaches five inside the "How many …?" pattern (Unit 9) and ten by its last unit (Unit 16); Grade 2 presents eleven to fifteen as words (Unit 13) while sixteen to twenty are only used and glossed — a presentation gap the country file files as printed; and Grade 3, Volume 2 teaches eleven to twenty as the family unit's number set.
 
 **Cambodia added 2026-11-03** — 3 books stock this lesson: **Book:** *English Grade 4* (student's book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS), 8th printing 2020, ISBN 978-9924-9423-0-6. **Book:** *English Grade 5* (student's book) — Cambodia, MoEYS, 6th printing 2020, ISBN 978-9924-9423-2-0. **Book:** *ENGLISH Grade 10* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2021, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia builds the number system as a ladder: Grade 4's 1–10 and 20–50, then Grade 5's full Chapter 4 staircase — 11–19, 20–99, hundreds, thousands — priced in Riels as it climbs; Grade 10 adds the ordinals and the -teen/-ty contrast (Unit 1).
+
+**Pakistan added 2026-11-03** — 3 books stock this lesson: **Book:** *English 1* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 2* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 3* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). The Nursery book has NO numbers unit — number words enter at Grade 1. Grade 1 pictures the number words one to ten in Unit 2 (printed p.13). Grade 2 writes numbers 1–50 in words in Unit 7 (printed p.70) and gives cardinal numbers in Unit 9 (printed p.86), and Grade 3 writes numbers 50–100 in words in Unit 2 (printed p.19).

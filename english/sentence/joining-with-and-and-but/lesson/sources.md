@@ -1,6 +1,6 @@
 # Sources — Joining with and and but
 
-countries: Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
+countries: Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan
 
 Every part traces to its book and page.
 
@@ -150,8 +150,11 @@ CITATION CHECK PASSED 2026-11-03).
 | Coordinating conjunctions tabulated — and, or, but, yet, nor — in the guide's sentence-combination apparatus (the guide's own teaching) | Armenia — English 7, Methodological Guide (Zangak), printed pp.53–54 |
 | Conjunctions in compound sentences — and, but, so — as named grammar with a rule box | Vietnam — Tiếng Anh 6, Volume 2 (Global Success), Unit 7, printed pp.6–15 (grammar heading printed p.10) |
 | Compound sentences joined by the full coordinator set — for, and, but, or, so — or by a conjunctive adverb (however, therefore, otherwise) | Vietnam — Tiếng Anh 8 (Global Success), Unit 3, printed pp.28–37 |
+| Conjunctions and, but, or and because — noticed in text, then filled in | Pakistan — *English 3* (student's book), Unit 2, printed pp.17–18 |
+| Joining words and, or and but as a named grammar point | Pakistan — *English 4* (student's book), Unit 9, printed p.89 |
+| Conjunctions — co-ordinating (FANBOYS), subordinating and correlative — with fill-in exercises | Pakistan — *English 9* (student's book), Unit 6, printed p.78 |
 
-**Acceptance count: taught in 18 countries (Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).**
+**Acceptance count: taught in 19 countries (Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan).**
 Ghana opens the compound sentence with AND, seats BUT
 beside it, lists the four coordinators, and widens the
 family in its own order; Bolivia posts the but/however
@@ -199,3 +202,5 @@ but, or"** (Activity Book, Unit 1, printed p.20).
 **Armenia added 2026-11-03** — 3 books stock this lesson: **Book:** *English 4 — Part 1* — Armenia, COAF, Yerevan 2025 (Part 1 only). **Book:** *English 9* — Armenia, COAF, Yerevan 2025, no ISBN printed. **Book:** *English 7 — Methodological Guide* — Armenia, Zangak, Yerevan 2023; methodology-only companion, cited only for its own teaching. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia joins sentences with and / but / because inside the writing lesson in Grade 4, Part 1, Unit 1.7 (in Unit 1, printed pp.14–41), teaches the joining words as a set with their contrasts — though/although, in spite of/despite, however, moreover, in addition to — with sentence combining after, in Grade 9, Unit 1.2 (printed pp.8–10), and tabulates the coordinating conjunctions — and, or, but, yet, nor — in the Grade 7 Methodological Guide's sentence-combination apparatus (printed pp.53–54), the guide's own teaching.
 
 **Vietnam added 2026-11-03** — 2 books stock this lesson: **Book:** *Tiếng Anh 6, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25874-8. **Book:** *Tiếng Anh 8 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2023, ISBN 978-604-0-35127-2. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam names the joining words as grammar: Grade 6, Volume 2's point is "Conjunctions in compound sentences" — and, but, so with a rule box; Grade 8 widens the set to the full coordinators for, and, but, or, so inside its simple/compound sentence unit, with however, therefore and otherwise as conjunctive adverbs. Grade 7's although/though and however connectors (Unit 8) are contrast connectors of a different shape and are not counted here.
+
+**Pakistan added 2026-11-03** — 3 books stock this lesson: **Book:** *English 3* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, based on Single National Curriculum 2020, no ISBN printed. **Book:** *English 4* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, based on Single National Curriculum 2020, no ISBN printed. **Book:** *English 9* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Updated/Revised National Curriculum 2023, Experimental Edition, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 3 teaches conjunctions — and, but, or and because — in Unit 2 (printed pp.17–18). Grade 4 names joining words and, or and but in Unit 9 (printed p.89). Grade 9 widens the set to co-ordinating (FANBOYS), subordinating and correlative conjunctions in Unit 6 (printed p.78).

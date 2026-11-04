@@ -1,6 +1,6 @@
 # Sources — The body
 
-countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia
+countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan
 
 Every part traces to its book and page.
 
@@ -145,9 +145,12 @@ english/books/jordan.md (Grade 2 Pupil's Book Semester 1 section, FULLY READ + C
 | Head words — eye, forehead, nose, ear, cheek, mouth — counted with have/has ("How many eyes do you have?") | Cambodia — English Grade 6 (student's book), Chapter 3, Unit 1 "My Head", printed pp.52–55 |
 | Limb words — arm, hand, fingers, knee, leg, foot — with this/these | Cambodia — English Grade 6 (student's book), Chapter 3, Unit 2 "My Arms And Legs", printed pp.56–59 |
 | Body parts inside the health unit — abdomen, spine, elbow, knee, shoulder, toes | Cambodia — ENGLISH Grade 12 (student's book), Unit 13 "Staying healthy", printed pp.69–74 |
+| Parts of the body on a labelled figure — hair, head, eye, ear, nose, neck, lips, arm, hand, finger, knee, leg, toe, foot | Pakistan — *English Nursery* (student's book), printed p.18 |
+| Parts of the body — hand, knee, eye, arm, nose, neck | Pakistan — *English 1* (student's book), Unit 8, printed p.78 |
+| Parts of the body on a labelled figure — hand, hair, eye, ear, teeth, neck, shoulder, elbow, finger, knee, toes, foot | Pakistan — *English 2* (student's book), Unit 1, printed p.7 |
 
-**Acceptance count: taught in 19 countries (Egypt, Palestine,
-Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia).**
+**Acceptance count: taught in 20 countries (Egypt, Palestine,
+Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan).**
 Palestine carries the core seven by touch;
 Egypt carries the parts at work in the five sense sentences,
 plus three more inside its letter pages; China carries the
@@ -179,3 +182,5 @@ stomachache (p.73).
 **Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 3, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2022, ISBN 978-604-0-30720-0. **Book:** *Tiếng Anh 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2020, ISBN 978-604-0-22405-7. **Book:** *Tiếng Anh 6, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25873-1. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam's body stock is the face-and-hand set early and the appearance set later: Grade 1 carries head, hair, hand, face and foot inside its touch/point patterns; Grade 3, Volume 1 gives the seven-word body unit (ear, eye, face, hair, hand, mouth, nose) with naming and imperative practice; and Grade 6, Volume 1 works body parts and appearance as vocabulary beside the personality adjectives. Filed plainly: the Grade 1 book teaches no body parts beyond head, hair, hand, face and foot, as its own negatives state.
 
 **Cambodia added 2026-11-03** — 2 books stock this lesson: **Book:** *English Grade 6* (student's book) — Cambodia, MoEYS, 5th printing 2020, ISBN 978-9924-9423-1-3. **Book:** *ENGLISH Grade 12* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2023, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia's body stock is Grade 6's whole body chapter (Chapter 3: head, limbs, appearance, functions, care) and Grade 12's health-unit body parts (Unit 13).
+
+**Pakistan added 2026-11-03** — 3 books stock this lesson: **Book:** *English Nursery* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 1* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 2* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). The Nursery book labels the parts of the body on a figure (printed p.18) — hair, head, eye, ear, nose, neck, lips, arm, hand, finger, knee, leg, toe and foot. Grade 1 names body parts in Unit 8 (printed p.78): hand, knee, eye, arm, nose and neck. Grade 2 labels a body-parts figure again in Unit 1 (printed p.7), adding teeth, shoulder, elbow and toes.

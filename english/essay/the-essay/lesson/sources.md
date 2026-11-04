@@ -1,6 +1,6 @@
 # Sources — The essay
 
-countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam
+countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan
 
 Every part traces to its book and page.
 
@@ -214,8 +214,11 @@ PASSED 2026-11-03).
 | An opinion essay of 120–150 words — the year's first full essay, on limiting teenagers' screen time | Vietnam — Tiếng Anh 11 (Global Success), Unit 2, printed pp.18–27 |
 | An opinion essay of 180 words, on the impact of world festivals on young Vietnamese people | Vietnam — Tiếng Anh 12 (Global Success), Unit 2, printed pp.20–31 |
 | An essay of 180–200 words — the series' longest — on the advantages and disadvantages of home robots | Vietnam — Tiếng Anh 12 (Global Success), Unit 6, printed pp.76–87 |
+| Essay writing taught with its three parts named — introductory paragraph, main body, concluding paragraph — a model essay dissected with the three parts labelled, then the pupil's own essay | Pakistan, English 6, Unit 11, printed pp.110–116 |
+| An essay built from a mind map: process writing, brainstorming and structuring a mind map, then an essay on Quaid-e-Azam from a given mind map | Pakistan, English 7, Unit 4, printed pp.32–40 |
+| The informative essay as the opening unit's writing outcome, written after the paragraph process work | Pakistan, English 9, Unit 1, printed p.15 |
 
-**Acceptance count: taught in 15 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam).**
+**Acceptance count: taught in 16 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan).**
 Bolivia defines the essay and tables its general structure
 whole; Ghana grows the writing process to the essay's
 scale with the outline as its planning tool. Indonesia
@@ -276,3 +279,5 @@ READING-QUEUE.md).
 **Armenia added 2026-11-03** — three books stock this lesson: **Book:** *English 9* — Armenia, COAF, Yerevan 2025, no ISBN printed. **Book:** *English 10* — Armenia, Zangak, Grigoryan, title page 2024 / © 2023, ISBN 978-9939-99-042-2. **Book:** *English 11* — Armenia, COAF, Yerevan 2025, Tonoyan/Arakelyan, no ISBN printed. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia teaches essay writing with its shape drawn: the Grade 9 book gives a structure diagram (hook / introduction / body / conclusion) before the pupil writes (Unit 2.7, printed pp.49–51); the Grade 10 book sets "How to build an essay and develop a thesis statement" as a Writing Spot of its own, with a model identity essay (Unit 1, Writing Spot, printed p.10); and the Grade 11 book teaches the opinion essay with a model, paragraph-function matching and a "Useful Expressions" bank for giving an opinion with reasons and examples (Unit 2.7, printed pp.56–59).
 
 **Vietnam added 2026-11-03** — 2 books stock this lesson: **Book:** *Tiếng Anh 11 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2023, ISBN 978-604-0-35131-9. **Book:** *Tiếng Anh 12 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2024, ISBN 978-604-0-39370-8. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam's essay arrives as named essay writing in the last two years: opinion essays at Grade 11 (120–150 words) and Grade 12 (180 words), and the advantages-and-disadvantages essay at 180–200 words — the series' writing ceiling — in Grade 12's AI unit. Below Grade 11 the writing strand is paragraphs, letters, proposals and leaflets; no essay is set, and none is claimed.
+
+**Pakistan added 2026-11-03** — 3 books stock this lesson: **Book:** *English 6* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. **Book:** *English 7* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. **Book:** *English 9* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Updated/Revised National Curriculum 2023, Experimental Edition, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Pakistan teaches the essay in the middle years: Grade 6 names its three parts — introductory paragraph, main body, concluding paragraph — dissects a model essay with the parts labelled, and sets an essay of the pupil's own (Unit 11, printed pp.110–116). Grade 7 builds an essay from a mind map — brainstorming and structuring the map, then writing the essay on Quaid-e-Azam from it (Unit 4, printed pp.32–40). Grade 9 sets an informative essay as its opening unit's writing outcome (Unit 1, printed p.15).

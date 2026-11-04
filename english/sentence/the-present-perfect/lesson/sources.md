@@ -1,6 +1,6 @@
 # Sources — The present perfect
 
-countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia
+countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan
 
 Every part traces to its book and page.
 
@@ -155,9 +155,12 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | Present perfect vs past simple contrasted on timelines (unfinished time vs completed past), and How long have you…? answered with for and since | Cambodia — ENGLISH Grade 8 (student's book), Unit 32 "What's going on?", printed pp.200–205 |
 | The present perfect in three passes: results and achievements (Unit 13), for and since (Unit 14), yet / already / still (Unit 15) | Cambodia — ENGLISH Grade 9 (student's book), Units 13–15, printed pp.86–103 |
 | The present perfect for experience — "have you ever?" questions in a Look box | Cambodia — ENGLISH Grade 12 (student's book), Unit 31 "At a job interview", printed pp.169–174 |
+| The present perfect under its own printed heading, "Present Perfect Tense", with affirmative, negative and interrogative structures | Pakistan — *English 6* (student's book), Unit 5, printed p.53 |
+| The present perfect simple — structure for positive, negative and interrogative — with the use of since and for | Pakistan — *English 7* (student's book), Unit 6, printed pp.50–58 |
+| The present perfect under its own printed heading, "Present Perfect Tense" | Pakistan — *English 8* (student's book), Unit 5, printed p.54 |
 
-**Acceptance count: taught in 17 countries (Egypt,
-Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia).** Libya introduces the tense at Grade 8 with the
+**Acceptance count: taught in 18 countries (Egypt,
+Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan).** Libya introduces the tense at Grade 8 with the
 song and the grammar box, guards the no-exact-time rule in
 its Teacher's Book, sets the ever/never/yet/already box at
 Grade 9, and states the whole entry again in its Grammar
@@ -217,3 +220,5 @@ course stocks nothing for that lesson from Laos.
 **Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 9 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2024, ISBN 978-604-0-39366-1. **Book:** *Tiếng Anh 10 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2022, ISBN 978-604-0-32428-3. **Book:** *Tiếng Anh 12 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2024, ISBN 978-604-0-39370-8. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam's present perfect arrives late and stated plainly: it is first taught at Grade 9 (Unit 5), as experiences and completed action at an unstated time; Grade 10 re-teaches it as named grammar with the since/for and just-completed uses; Grade 11 sets it against the past simple (Unit 1); and Grade 12 carries it as review and extension with the first-time and best-ever structures. No earlier book teaches it — the Grade 8 book's own negatives name it among the year's absences.
 
 **Cambodia added 2026-11-03** — 3 books stock this lesson: **Book:** *ENGLISH Grade 8* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. **Book:** *ENGLISH Grade 9* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", first printing 2016, no ISBN printed. **Book:** *ENGLISH Grade 12* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2023, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia teaches the present perfect late and thoroughly: Grade 8 introduces it for experiences at the very end of its book (Unit 31) and contrasts it with the past simple over for/since (Unit 32); Grade 9 gives it three units (results, for/since, yet/already/still); Grade 12 returns to it for interview experience (Unit 31).
+
+**Pakistan added 2026-11-03** — 3 books stock this lesson: **Book:** *English 6* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, based on Single National Curriculum 2022, no ISBN printed. **Book:** *English 7* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, based on Single National Curriculum 2022, no ISBN printed. **Book:** *English 8* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore with Oxford University Press, based on Single National Curriculum 2022, no ISBN printed. The held file is incomplete — it ends at printed p.122. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 6 heads the tense "Present Perfect Tense" in Unit 5 (printed p.53). Grade 7 teaches the present perfect simple with since and for in Unit 6 (printed pp.50–58). Grade 8 teaches the present perfect under its own heading in Unit 5 (printed p.54).

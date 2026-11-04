@@ -1,6 +1,6 @@
 # Sources — The paragraph
 
-countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
+countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan
 
 Every part traces to its book and page.
 
@@ -198,10 +198,13 @@ CITATION CHECK PASSED 2026-11-03).
 | Guided paragraphs as every unit's writing work — a paragraph of 40–50 words about one's school, house, friend and neighbourhood, from models and question scaffolds | Vietnam — Tiếng Anh 6, Volume 1 (Global Success), Units 1–4, printed pp.6–47 |
 | Paragraph writing as a taught task inside the chores unit — make vs do and paragraph writing (GUIDE-HELD ONLY — the Grade 11 student's book is not held) | Cambodia — ENGLISH Grade 11 (teacher's guide book), Unit 27 "Household chores", Lesson B, printed pp.145–150 |
 | Writing a paragraph on a chosen social topic against the book's closing can-do statements | Cambodia — ENGLISH Grade 12 (student's book), Unit 35 "Consolidation", printed pp.187–190 |
+| The paragraph built from a mind map with its parts named — topic sentence, supporting details, conclusion — as the writing work of the Blessings of Allah unit | Pakistan, English 4, Unit 5, printed p.53 |
+| A paragraph outline with a topic sentence: topic sentence + three supporting details, rough draft, revision checklist, edit, final copy | Pakistan, English 5, Text 4, printed p.30 |
+| The paragraph-writing process — brainstorm, organise ideas into main idea + supporting details, mind map, summarise key points — worked before the informative essay | Pakistan, English 9, Unit 1, printed pp.14–15 |
 
-**Acceptance count: taught in 21 countries (Bangladesh,
+**Acceptance count: taught in 22 countries (Bangladesh,
 Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).** Ghana names the process and prints the
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan).** Ghana names the process and prints the
 unity test as a revise question; Bangladesh guides the
 first paragraphs and models them; Egypt examines by the
 paragraph; China adds a model-first writing ladder across
@@ -302,3 +305,5 @@ reader's attention.
 **Vietnam added 2026-11-03** — 2 books stock this lesson: **Book:** *Tiếng Anh 10 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2022, ISBN 978-604-0-32428-3. **Book:** *Tiếng Anh 6, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25873-1. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam names the paragraph's anatomy where several countries only set the writing: Grade 10's blended-learning writing task is built from a given outline that names its parts — topic sentence, two benefits, concluding sentence (Unit 8) — and its inventions unit builds the benefits paragraph on an introduction / development / conclusion outline (Unit 5). Below that, guided paragraph writing is every unit's writing work from Grade 6 on, at lengths rising across the series to 120–150 words at Grade 10.
 
 **Cambodia added 2026-11-03** — 2 books stock this lesson, as a partial: **Book:** *ENGLISH Grade 11* (teacher's guide book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, no ISBN printed; the Grade 11 student's book is NOT held — the guide reproduces its pages, so everything cited from it is guide-held only. **Book:** *ENGLISH Grade 12* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2023, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). PARTIAL, filed the way Nepal's was: Cambodia sets paragraph writing as a task — in the Grade 11 teacher's book's chores unit (Lesson B, guide-held only; the student's book is not held) and in Grade 12's closing consolidation, where learners brainstorm and write a paragraph on a chosen social topic (Unit 35) — but no held Cambodia book names the topic sentence, and none is claimed here.
+
+**Pakistan added 2026-11-03** — 3 books stock this lesson: **Book:** *English 4* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. **Book:** *English 5* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, the board's older-format reader; no SNC line printed, no ISBN printed. **Book:** *English 9* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Updated/Revised National Curriculum 2023, Experimental Edition, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Pakistan names the paragraph's parts outright: Grade 4 writes a paragraph from a mind map as topic sentence, supporting details and conclusion (Unit 5, printed p.53). Grade 5 sets a paragraph outline — topic sentence + three supporting details — with a rough draft, a revision checklist, editing and a final copy (Text 4, printed p.30). Grade 9 teaches the paragraph process — brainstorm, organise ideas into main idea + supporting details, mind map, summarise key points — before its informative essay (Unit 1, printed pp.14–15).

@@ -1,6 +1,6 @@
 # Sources — Food and fruit
 
-countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
+countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan
 
 Every part traces to its book and page.
 
@@ -224,9 +224,13 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Buying fruit and food: quantities in kilograms, "How many papayas does she buy?", prices with how much | Cambodia — English Grade 5 (student's book), Chapter 4, printed pp.66–95 |
 | Food groups and quantities — some / any, much / many, too much / too many — for healthy eating | Cambodia — ENGLISH Grade 9 (student's book), Unit 7 "Healthy eating", printed pp.50–55 |
 | Countable vs uncountable food; some / any; containers for uncountables (a carton of milk); asking food prices | Cambodia — ENGLISH Grade 10 (student's book), Unit 14 "Shopping for food", printed pp.75–80 |
+| Junk food and healthy food — sorting six pictured foods | Pakistan — *English Nursery* (student's book), printed p.48 |
+| Fruit and vegetable names — apricot, watermelon, pineapple, strawberry; turnip, cucumber, okra, brinjal | Pakistan — *English 1* (student's book), Unit 6, printed p.58 |
+| Fruit and vegetable names — apple, mango, orange, banana, peach; carrot, tomato, brinjal, potato, onion | Pakistan — *English 2* (student's book), Unit 3, printed p.25 |
+| A recipe card — ingredients and seven steps for a vegetable sandwich — and writing a recipe of your own | Pakistan — *English 8* (student's book), Unit 10, printed p.97 |
 
-**Acceptance count: taught in 20 countries (Bangladesh, Egypt,
-Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).**
+**Acceptance count: taught in 21 countries (Bangladesh, Egypt,
+Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan).**
 Egypt carries the meals and the breakfast plate;
 Bangladesh carries the like-exchange and the healthy sorting;
 Palestine carries the fruit set with its a/an pair and the
@@ -255,3 +259,5 @@ books are read (see READING-QUEUE.md).
 **Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 3, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2022, ISBN 978-604-0-30721-7. **Book:** *Tiếng Anh 7 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2022, ISBN 978-604-0-30724-8. **Book:** *Tiếng Anh 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2020, ISBN 978-604-0-22405-7. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam's food stock is a full set early and a measured set later: Grade 3, Volume 2's dining-table unit teaches ten foods and drinks inside the polite offer/request pair, and Grade 7's Food and Drink unit adds the quantities-and-measures system (kilo, teaspoon, litre, tablespoon, grams, millilitres) as its vocabulary work. The first foods arrive at Grade 1 as letter words inside like/having patterns.
 
 **Cambodia added 2026-11-03** — 3 books stock this lesson: **Book:** *English Grade 5* (student's book) — Cambodia, MoEYS, 6th printing 2020, ISBN 978-9924-9423-2-0. **Book:** *ENGLISH Grade 9* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", first printing 2016, no ISBN printed. **Book:** *ENGLISH Grade 10* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2021, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia's food stock is a market course: Grade 5 sells food and fruit (Chapter 1) and buys by weight and price (Chapter 4); Grade 9 runs the quantity system over food groups (Unit 7); Grade 10 splits countable from uncountable food with containers (Unit 14).
+
+**Pakistan added 2026-11-03** — 4 books stock this lesson: **Book:** *English Nursery* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 1* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 2* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 8* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, with Oxford University Press, SNC 2022, no ISBN printed; held file incomplete — ends at printed p.122. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). The Nursery book sorts junk food from healthy food (printed p.48). Grade 1 names fruits and vegetables in Unit 6 (printed p.58) — apricot, watermelon, pineapple and strawberry beside turnip, cucumber, okra and brinjal — and Grade 2 names them again in Unit 3 (printed p.25). Grade 8 opens Unit 10 with a full recipe card for a vegetable sandwich — ingredients and seven steps (printed p.97) — and sets pupils to write a recipe of their own.

@@ -1,6 +1,6 @@
 # Sources — The home
 
-countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
+countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan
 
 Every part traces to its book and page.
 
@@ -167,10 +167,13 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | The home as address — building, flat, house, tower and numbered street addresses — inside "What's your address? — It's …" | Vietnam — Tiếng Anh 5, Volume 1 (Global Success), Unit 2, printed pp.16–21 |
 | Rooms and furniture words; there is / there are to describe a house; prepositions of place and dimension | Cambodia — ENGLISH Grade 10 (student's book), Unit 3 "My house", printed pp.13–18 |
 | Rooms of a house and where things are (under, next to), describing real children's homes | Cambodia — ENGLISH Grade 7 (student's book), Unit 23 "My cool house", printed pp.140–145 |
+| My Home — the rooms labelled: bedroom, kitchen, living room, washroom | Pakistan — *English Nursery* (student's book), printed p.3 |
+| Home objects beside classroom objects — sofa, TV, bed, lamp, iron, clock | Pakistan — *English 1* (student's book), Unit 7, printed p.68 |
+| My Home — a first-person text about a home, its rooms and furniture | Pakistan — *English 2* (student's book), Unit 2, printed p.13 |
 
-**Acceptance count: taught in 20 countries (Egypt, Libya,
+**Acceptance count: taught in 21 countries (Egypt, Libya,
 Palestine, Laos, China, North Macedonia, Mongolia, Indonesia,
-Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).** Egypt carries the five rooms with a sentence for
+Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan).** Egypt carries the five rooms with a sentence for
 each and the drilled question; Libya carries the same rooms
 twice (Grade 1 set, Grade 2 labelled house) with the sitting
 room name and the furniture; Palestine carries the bedroom set
@@ -210,3 +213,5 @@ reading passage is a house text with written answers (p.117).
 **Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 3, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2022, ISBN 978-604-0-30721-7. **Book:** *Tiếng Anh 6, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25873-1. **Book:** *Tiếng Anh 5, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2024, ISBN 978-604-0-39361-6. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam teaches the home three times over: Grade 3, Volume 2's "My house" unit gives the rooms-and-furniture set with where-questions singular and plural; Grade 5, Volume 1 works the home as address (building, flat, house, tower, numbered streets); and Grade 6, Volume 1 gives house types and the furniture set again at the higher level, with prepositions of place as its grammar pair.
 
 **Cambodia added 2026-11-03** — 2 books stock this lesson: **Book:** *ENGLISH Grade 7* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. **Book:** *ENGLISH Grade 10* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2021, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia's home stock is two house units: Grade 7's rooms and furniture with place prepositions (Unit 23), and Grade 10's rooms-and-furniture unit built on there is/are (Unit 3).
+
+**Pakistan added 2026-11-03** — 3 books stock this lesson: **Book:** *English Nursery* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 1* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 2* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). The Nursery book's My Home page labels the rooms — bedroom, kitchen, living room and washroom (printed p.3). Grade 1 lists home objects beside classroom objects in Unit 7 (printed p.68) — sofa, TV, bed, lamp, iron and clock. Grade 2's My Home text in Unit 2 (printed p.13) describes a home in Islamabad, its rooms and furniture.

@@ -1,6 +1,6 @@
 # Sources — Present actions
 
-countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
+countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan
 
 Every part traces to its book and page.
 
@@ -197,10 +197,14 @@ CITATION CHECK PASSED 2026-11-03).
 | The present continuous with its rule stated in the book's own words — "We use the present continuous to talk about what is happening now" | Cambodia — ENGLISH Grade 8 (student's book), Unit 22 "What are they doing?", printed pp.140–145 |
 | Present simple vs present continuous contrasted directly (routines vs now) | Cambodia — ENGLISH Grade 8 (student's book), Unit 23 "When does it happen?", printed pp.146–151 |
 | The present continuous in positive, negative and question forms, for what people are wearing and doing now | Cambodia — ENGLISH Grade 10 (student's book), Unit 23 "What are you wearing?", printed pp.123–128 |
+| The present continuous named and diagrammed — We/You/They are, He/She/It is, I am + verb-ing — with a Read Me definition and an underlining drill | Pakistan — *English 3* (student's book), Unit 4, printed p.39 |
+| The simple present under its own printed heading, "Simple Present Tense" | Pakistan — *English 6* (student's book), Unit 2, printed p.23 |
+| The present continuous under its own printed heading, "Present Continuous Tense" | Pakistan — *English 6* (student's book), Unit 3, printed p.34 |
+| Simple present (habitual acts, general truths, facts/schedules) set against present continuous (now, temporary, arranged future), with a choose-simple-or-continuous exercise | Pakistan — *English 8* (student's book), Unit 3, printed pp.22–30 |
 
-**Acceptance count: taught in 21 countries (Egypt, Ghana,
+**Acceptance count: taught in 22 countries (Egypt, Ghana,
 Libya, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).** Egypt boxes the every-day face inside
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan).** Egypt boxes the every-day face inside
 routines; Mongolia tables the right-now face and its
 questions; Libya's reference names both faces' uses and
 posts the refusal list; Ghana names the simple present's
@@ -255,3 +259,5 @@ futures (Student's Book, Unit 1, printed pp.6–16).
 **Vietnam added 2026-11-03** — 2 books stock this lesson: **Book:** *Tiếng Anh 6, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25873-1. **Book:** *Tiếng Anh 10 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2022, ISBN 978-604-0-32428-3. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Both halves are present and both are named: Grade 6, Volume 1 teaches the present simple (Unit 1) and then the present continuous (Unit 3) with the contrast boxed in the same spread of the course; the pair is re-taught as one contrast at Grade 10 (Unit 1), stative-verb note included, and named again at Grade 7 (present simple, Unit 1; present continuous, Unit 10). Filed plainly: the primary books use continuous forms in patterns from Grade 1 on without ever naming them — the naming starts at Grade 6.
 
 **Cambodia added 2026-11-03** — 3 books stock this lesson: **Book:** *ENGLISH Grade 8* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. **Book:** *ENGLISH Grade 9* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", first printing 2016, no ISBN printed. **Book:** *ENGLISH Grade 10* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2021, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia teaches the pair as a contrast, three times: Grade 8 states the continuous rule in its own words (Unit 22) and contrasts it with the simple (Unit 23); Grade 9 opens on the same contrast (Unit 1); Grade 10 re-presents the continuous in all three forms over clothes (Unit 23).
+
+**Pakistan added 2026-11-03** — 3 books stock this lesson: **Book:** *English 3* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, based on Single National Curriculum 2020, no ISBN printed. **Book:** *English 6* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, based on Single National Curriculum 2022, no ISBN printed. **Book:** *English 8* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore with Oxford University Press, based on Single National Curriculum 2022, no ISBN printed. The held file is incomplete — it ends at printed p.122. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 3 names and diagrams the present continuous in Unit 4 (printed p.39). Grade 6 gives each present form its own heading — "Simple Present Tense" in Unit 2 (printed p.23) and "Present Continuous Tense" in Unit 3 (printed p.34). Grade 8 sets the simple present against the present continuous in Unit 3 (printed pp.22–30), with an exercise choosing between them.

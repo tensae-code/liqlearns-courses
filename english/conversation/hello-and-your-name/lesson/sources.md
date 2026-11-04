@@ -1,6 +1,6 @@
 # Sources for this lesson — Greetings
 
-countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
+countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag.
@@ -75,6 +75,10 @@ side by side on one PDF page — that was wrong.
 | Greetings and introductions as the Grade 6 re-start: greetings, name, age and grade, with a Language Focus on to be | Cambodia — English Grade 6 (student's book), Chapter 1, Unit 1 "Greetings And Introductions", printed pp.8–11 |
 | Meeting new friends: greetings, introductions, name/age/origin — "What's your name? I'm ___." in the syllabus Form column | Cambodia — ENGLISH Grade 7 (student's book), Unit 1 "Meeting new friends", printed pp.8–13 |
 | Exchanging names (with spelling), ages, birthdays and phone numbers as the opening unit — "Hi, I'm Tim. What's your name?" | Cambodia — ENGLISH Grade 10 (student's book), Unit 1 "My personal information", printed pp.1–6 |
+| The "Greetings" opener — the book's first page | Pakistan — *English Nursery* (student's book), printed p.1 |
+| A greeting-and-name dialogue — "Assalaamu Alaikum! I am Mariam…" — and a first-person reading that opens "My name is Sa'ad" | Pakistan — *English 1* (student's book), Unit 2, printed p.11 (dialogue) and printed p.10 (reading) |
+| Introduction dialogues — introducing a younger brother, and introducing yourself and your father to a new neighbour | Pakistan — *English 2* (student's book), Unit 1, printed p.5; Unit 2, printed p.15 |
+| Greetings practice inside the first unit's speaking work | Pakistan — *English 3* (student's book), Unit 1, printed p.5 |
 
 **Second country merged 2026-10-25 — Libya:**
 English for Libya, Pupils Book Grade 1 (CERC, Ministry of Education,
@@ -117,7 +121,7 @@ rendered page the same day).
 - Unit 1 "Greeting and Numbers," p. 14 (Hello/Hi, Goodbye/bye tracing;
   "What's your name? / My name's" tracing strips, p. 16).
 
-**Acceptance count: taught in 22 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).**
+**Acceptance count: taught in 23 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan).**
 China adds name exchanges from its first primary page and the
 "Where are you from? — I'm from …" origin frame (Grades 3), plus
 five printed ways to say goodbye (Grade 6 Volume 2); North
@@ -586,3 +590,5 @@ loved subject ("I am eight years old.", printed p.7).
 **Vietnam added 2026-11-03** — 2 books stock this lesson: **Book:** *Tiếng Anh 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2020, ISBN 978-604-0-22405-7. **Book:** *Tiếng Anh 3, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2022, ISBN 978-604-0-30720-0. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam opens both of its primary courses on this lesson. Grade 1's first unit pattern is the greeting and self-introduction itself — "Hi, I'm Bill." with the leave-taking "Bye, Bill." (printed p.8) — recycled through the book's Phil and Sue review stories. Grade 3, Volume 1 gives the exchange two full units: Unit 1, "Hello" (printed pp.10–15) teaches "Hello. / Hi. I'm …" and "Goodbye. / Bye.", and Unit 2, "Our names" (printed pp.16–21) teaches "What's your name? — My name's …". Filed plainly: the greetings are Hello/Hi only throughout the set — "Good morning" is printed nowhere in the sixteen books.
 
 **Cambodia added 2026-11-03** — 4 books stock this lesson: **Book:** *English Grade 4* (student's book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS), 8th printing 2020, ISBN 978-9924-9423-0-6. **Book:** *English Grade 6* (student's book) — Cambodia, MoEYS, 5th printing 2020, ISBN 978-9924-9423-1-3. **Book:** *ENGLISH Grade 7* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. **Book:** *ENGLISH Grade 10* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2021, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia opens three of its courses on this lesson: Grade 4's Unit 1 (hello/hi, "I am …", asking a name), Grade 7's Unit 1 "Meeting new friends" and Grade 10's Unit 1 of names, ages, birthdays and phone numbers; Grade 6 re-opens on it as a consolidation year (Chapter 1, Unit 1, with a Language Focus on to be).
+
+**Pakistan added 2026-11-03** — 4 books stock this lesson: **Book:** *English Nursery* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. **Book:** *English 1* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. **Book:** *English 2* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. **Book:** *English 3* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Filed plainly: the set's greeting frame is the Islamic greeting plus name frames. The Nursery book opens on a "Greetings" page (printed p.1), and Grade 1's Unit 2 dialogue runs "Assalaamu Alaikum! I am Mariam…" (printed p.11) beside a reading that opens "My name is Sa'ad" (printed p.10). Grade 2 practises introduction dialogues in Units 1–2 (printed pp.5, 15) and Grade 3 practises greetings in Unit 1 (printed p.5).

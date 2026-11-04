@@ -1,6 +1,6 @@
 # Sources — Past actions
 
-countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
+countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan
 
 Every part traces to its book and page.
 
@@ -170,10 +170,14 @@ CITATION CHECK PASSED 2026-11-03).
 | A four-step past-simple course inside the folk tales: there was/were, then did-questions and short answers, then regular -ed, then irregular forms, then didn't negatives | Cambodia — English Grade 6 (student's book), Chapter 6, printed pp.118–139 |
 | Past simple for a past trip, regular vs irregular verbs sorted in class | Cambodia — ENGLISH Grade 9 (student's book), Unit 3 "A day fishing", printed pp.26–31 |
 | Past simple for past events — regular -ed and irregular forms, negatives and questions — through a graduation day | Cambodia — ENGLISH Grade 12 (student's book), Unit 5 "A special day", printed pp.25–30 |
+| The simple past taught with affirmative, negative and question examples and a Read Me definition, beside the simple present and present continuous | Pakistan — *English 4* (student's book), Unit 11, printed p.109 |
+| The past continuous taught with explicit structure formulas — affirmative Subject + was/were + verb-ing + object, negative and interrogative | Pakistan — *English 4* (student's book), Unit 12, printed p.119 |
+| The past continuous tense taught as a named grammar point | Pakistan — *English 6* (student's book), Unit 4, printed pp.36–45 |
+| Simple past and past continuous taught together, with a simple-or-continuous exercise (the past continuous also used with always/continually for persistent past habits) | Pakistan — *English 8* (student's book), Unit 4, printed pp.31–41 |
 
-**Acceptance count: taught in 20 countries (Bolivia, Ghana,
+**Acceptance count: taught in 21 countries (Bolivia, Ghana,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
-Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).** Mongolia boxes the -ed frame and drills the
+Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan).** Mongolia boxes the -ed frame and drills the
 movers by name; Bolivia states the whole paradigm including
 the Did/didn't law; Ghana seats the simple past where
 stories live; China adds the past staged regular first,
@@ -235,3 +239,5 @@ sets the past out whole in its reference's past-forms table
 **Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 6, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25874-8. **Book:** *Tiếng Anh 8 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2023, ISBN 978-604-0-35127-2. **Book:** *Tiếng Anh 10 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2022, ISBN 978-604-0-32428-3. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam builds the past in three named steps: the past simple as a rule at Grade 6, Volume 2 (Unit 8) — used in models from Grade 5 but not ruled before this; the past continuous at Grade 8 (Unit 9) against the interrupting past simple; and the pair as one contrast at Grade 10 (Unit 4), recycled in Grade 12's opening unit. Stated plainly, as the series verdict runs: no Vietnam book prints an irregular-verb table, so the past forms are met inside sentences only.
 
 **Cambodia added 2026-11-03** — 3 books stock this lesson: **Book:** *English Grade 6* (student's book) — Cambodia, MoEYS, 5th printing 2020, ISBN 978-9924-9423-1-3. **Book:** *ENGLISH Grade 9* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", first printing 2016, no ISBN printed. **Book:** *ENGLISH Grade 12* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2023, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia's past arrives late and in steps: Grade 6 closes its book with a four-step past-simple course inside the folk tales (Chapter 6); Grade 9 re-teaches it for a fishing trip (Unit 3); Grade 12 re-presents it for past events (Unit 5). Filed plainly: the Grade 10 student's book contributes NOTHING here — the citation checker verified that no past tense is taught anywhere in it; its past forms occur only untaught, inside readings and audio scripts.
+
+**Pakistan added 2026-11-03** — 3 books stock this lesson: **Book:** *English 4* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, based on Single National Curriculum 2020, no ISBN printed. **Book:** *English 6* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, based on Single National Curriculum 2022, no ISBN printed. **Book:** *English 8* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore with Oxford University Press, based on Single National Curriculum 2022, no ISBN printed. The held file is incomplete — it ends at printed p.122. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 4 teaches the simple past in Unit 11 (printed p.109) and the past continuous with full structure formulas in Unit 12 (printed p.119). Grade 6 teaches the past continuous as a named point in Unit 4 (printed pp.36–45). Grade 8 teaches the simple past and the past continuous together in Unit 4 (printed pp.31–41), with an exercise choosing between them.

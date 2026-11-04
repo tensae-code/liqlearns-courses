@@ -1,6 +1,6 @@
 # Sources — First, then, finally
 
-countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia
+countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan
 
 Every part traces to its book and page.
 
@@ -131,9 +131,11 @@ CITATION CHECK PASSED 2026-11-03).
 | Recipe instructions in sequence — first, then, after that, finally | Cambodia — ENGLISH Grade 10 (student's book), Unit 13 "What's for dinner?", printed pp.69–74 |
 | Time and sequence adverbs — first, then, afterwards, finally — for describing an itinerary | Cambodia — ENGLISH Grade 12 (student's book), Unit 7 "Going on a tour", printed pp.35–40 |
 | Sequencing a process with first, second, third, next, after that, then | Cambodia — ENGLISH Grade 8 (student's book), Unit 3 "The morning ceremony", printed pp.26–31 |
+| The connectors Firstly/Secondly/Finally named as a set, worked in a paragraph | Pakistan, English 4, Unit 12, printed p.119 |
+| A model recipe sequenced Firstly/Secondly/Then/Finally, then the pupil's own recipe written | Pakistan, English 4, Unit 3, printed p.30 |
 
-**Acceptance count: taught in 14 countries (Bangladesh,
-Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia).** Egypt prints the law and the set;
+**Acceptance count: taught in 15 countries (Bangladesh,
+Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan).** Egypt prints the law and the set;
 Mongolia files the family by its grammar name; Bangladesh
 tells its methods under the signposts; China adds the
 dated diary as the model recount, its events sorted before
@@ -185,3 +187,5 @@ READING-QUEUE.md).
 **Nepal added 2026-11-03** — PARTIAL stock, filed exactly as a partial: two books stock this lesson in part: **Book:** *English Grade 8* — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre. **Book:** *Teachers' Guide English Grade 9* — Nepal, Curriculum Development Centre. All filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). The named teaching sits in the guide, **cited for its own teaching only, worded as such**: the Grade 9 teacher's guide is a DRAFT for an older twenty-unit textbook, not the held Grade 9 student's book, and the held copy is an incomplete excerpt — its Unit 6 (printed pp.49–54, which survives) teaches **imperatives with sequence markers (first/then/next)** as the grammar of giving instructions. The Grade 8 student's book carries the process in its order without naming the set: **"How to Wash Clothes in a Washing Machine", a seven-step instruction text** (Unit 3, printed pp.25–36). Stated plainly: no read Nepal student's book names the sequence set, and no "finally" is printed in this work — Nepal carries First/Then/Next, with no Finally claim.
 
 **Cambodia added 2026-11-03** — 3 books stock this lesson: **Book:** *ENGLISH Grade 8* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. **Book:** *ENGLISH Grade 10* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2021, no ISBN printed. **Book:** *ENGLISH Grade 12* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2023, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia prints the full sequence set, finally included, twice: Grade 10's recipe unit sequences its instructions first / then / after that / finally (Unit 13), and Grade 12 describes a tour itinerary with first / then / afterwards / finally (Unit 7); Grade 8 sequences a ceremony with first, second, third, next, after that, then (Unit 3).
+
+**Pakistan added 2026-11-03** — 1 book stocks this lesson: **Book:** *English 4* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). One Grade 4 book stocks the signposts in two units: its connectors lesson names Firstly/Secondly/Finally as a set, worked in a paragraph (Unit 12, printed p.119). Earlier in the same book, a model recipe — a Chicken Cheese Sandwich — is sequenced Firstly/Secondly/Then/Finally, and pupils then write a recipe of their own (Unit 3, printed p.30).

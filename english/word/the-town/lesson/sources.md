@@ -1,6 +1,6 @@
 # Sources — The town
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan
 
 Every part traces to its book and page.
 
@@ -155,9 +155,12 @@ english/books/jordan.md (Grade 6 Pupil's Book Semester 1 section, FULLY READ + C
 | Town places, position prepositions (in front of, behind, opposite, in between) and giving directions | Cambodia — ENGLISH Grade 7 (student's book), Unit 24 "Cool places in my town", printed pp.146–151 |
 | Places in town, inside the suggestions unit | Cambodia — ENGLISH Grade 10 (student's book), Unit 17 "Why don't we…?", printed pp.93–98 |
 | Naming places in town; asking for and giving directions (GUIDE-HELD ONLY — the Grade 11 student's book is not held; the teacher's book reproduces its pages) | Cambodia — ENGLISH Grade 11 (teacher's guide book), Unit 3 "Around town", printed pp.13–18 |
+| My Home and City — a home in Islamabad, the Faisal Masjid, keeping the city clean | Pakistan — *English 2* (student's book), Unit 2, printed pp.13–14 |
+| A descriptive paragraph about your city, written from a model | Pakistan — *English 3* (student's book), Unit 2, printed p.19 |
+| Reading a city map with its key | Pakistan — *English 4* (student's book), Unit 7, printed pp.69–70 |
 
-**Acceptance count: taught in 20 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).** Egypt
+**Acceptance count: taught in 21 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan).** Egypt
 carries the first set twice (Primary 1's
 eight words with their dialog; Primary 2's city set);
 Bangladesh carries city life as a topic, against village life;
@@ -193,3 +196,5 @@ Vientiane's landmarks to direct over (pp.66–70).
 **Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 6, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25873-1. **Book:** *Tiếng Anh 4, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2023, ISBN 978-604-0-35121-0. **Book:** *Tiếng Anh 9 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2024, ISBN 978-604-0-39366-1. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam's town stock is the neighbourhood first: Grade 6, Volume 1's "My Neighbourhood" unit names the places and the adjectives that describe them, and teaches asking for and giving directions as its Everyday English. Grade 4, Volume 2 works the city as road signs and direction imperatives, and Grade 9 returns to the city as a topic set (downtown, sky train, metro, public amenities) in its City Life unit.
 
 **Cambodia added 2026-11-03** — 3 books stock this lesson: **Book:** *ENGLISH Grade 7* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. **Book:** *ENGLISH Grade 10* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2021, no ISBN printed. **Book:** *ENGLISH Grade 11* (teacher's guide book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, no ISBN printed; the Grade 11 student's book is NOT held — the guide reproduces its pages, so everything cited from it is guide-held only. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia's town stock is Grade 7's places-and-directions unit (Unit 24) and Grade 10's places in town (Unit 17); the Grade 11 material is guide-held only, worded that way in its row — the student's book is not held, and the teacher's book's reproductions are the only held form of its pages.
+
+**Pakistan added 2026-11-03** — 3 books stock this lesson: **Book:** *English 2* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 3* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 4* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 2's My Home and City unit describes a home in Islamabad and the Faisal Masjid, with keeping the city clean (Unit 2, printed pp.13–14). Grade 3 asks for a descriptive paragraph about your city in Unit 2 (printed p.19), written from a model. Grade 4 reads a city map with its key in Unit 7 (printed pp.69–70).

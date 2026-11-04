@@ -1,6 +1,6 @@
 # Sources — Days and months
 
-countries: Bangladesh, Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
+countries: Bangladesh, Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan
 
 Every part traces to its book and page.
 
@@ -155,9 +155,12 @@ english/books/jordan.md (Grade 6 Activity Book Semester 2 section, FULLY READ + 
 | The twelve months — "What month is it now/next month?", first/last month of the year, months with 31 and 30 days | Cambodia — English Grade 6 (student's book), Chapter 2, Unit 2 "The Months", printed pp.34–37 |
 | Full dates with years — "When were you born? I was born on 14th October 2004" | Cambodia — English Grade 6 (student's book), Chapter 2, Unit 3 "Family Birth Dates", printed pp.38–41 |
 | Days of the week with school timetables | Cambodia — ENGLISH Grade 7 (student's book), Unit 4 "I study English!", printed pp.26–31 |
+| Days of the week — a song naming Monday to Sunday | Pakistan — *English Nursery* (student's book), printed p.26 |
+| The calendar — reading a twelve-month calendar, the months and their ordinal position | Pakistan — *English 1* (student's book), Unit 11, printed p.106 |
+| Calendar work — September and December pages, days in a month, Defence Day and Quaid's Day | Pakistan — *English 2* (student's book), Unit 7, printed pp.66–67 |
 
-**Acceptance count: taught in 19 countries (Bangladesh,
-Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).** Egypt
+**Acceptance count: taught in 20 countries (Bangladesh,
+Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan).** Egypt
 carries the days first (its school-week
 order, Saturday-first); Bangladesh carries the days on a
 Sunday-first calendar, the months with their ordinal numbers,
@@ -220,3 +223,5 @@ first of January" (p.99).
 **Vietnam added 2026-11-03** — 1 book stocks this lesson: **Book:** *Tiếng Anh 4, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2023, ISBN 978-604-0-35120-3. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Both halves come from one book, and they arrive late: a pupil finishing Grade 3 in Vietnam has no English for Monday or January at all — the country file states it plainly. Grade 4, Volume 1 teaches all seven days as one unit (Unit 3), then splits the months across the year — January to May with birthdays (Unit 4), the rest with the sports day (Unit 9), June to August carried in calendar pictures. Birthdays and sports days are given by month only: ordinals and full dates are never taught in the book.
 
 **Cambodia added 2026-11-03** — 2 books stock this lesson: **Book:** *English Grade 6* (student's book) — Cambodia, MoEYS, 5th printing 2020, ISBN 978-9924-9423-1-3. **Book:** *ENGLISH Grade 7* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Both halves are stocked from one chapter: Grade 6's Chapter 2 teaches the days (Unit 1), the months (Unit 2) and full dates with years (Unit 3); Grade 7 works the days again against school timetables (Unit 4). The primary books below Grade 6 teach no calendar at all — the Grade 4 and Grade 5 books' negatives record that "Monday", "January" and "month" never occur in them.
+
+**Pakistan added 2026-11-03** — 3 books stock this lesson: **Book:** *English Nursery* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 1* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 2* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). The Nursery book teaches the days of the week with a song naming Monday to Sunday (printed p.26). Grade 1 reads a twelve-month calendar in Unit 11 (printed p.106). Grade 2 works with calendar pages in Unit 7 (printed pp.66–67), reading the months and the days in a month.

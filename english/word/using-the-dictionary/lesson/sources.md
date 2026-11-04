@@ -1,6 +1,6 @@
 # Sources — Using the dictionary
 
-countries: Bangladesh, India, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal
+countries: Bangladesh, India, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan
 
 Every part traces to its book and page.
 
@@ -155,9 +155,13 @@ english/books/jordan.md (Grade 6 Activity Book Semester 1 section, FULLY READ + 
 | Dictionary abbreviations as the first unit's Extra bit (the abbreviations list is printed at p.12), and dictionary work on ten words as the last unit's pronunciation work | Nepal, Grade 8, Unit 1, Extra bit (unit pp.1–12); Unit 19, Pronunciation (unit pp.238–253) |
 | Dictionary use and alphabetical order taught inside the opening unit, beside the Malala reading | Nepal, Grade 11, Unit 1 "Education and Humanity," pp.3–12 |
 | GUIDE'S OWN TEACHING (this 2024 "Feedback Copy" guide keys to a newer Grade 10 edition that is not held, not to the held 2017 student's book) — dictionary use taught in the guide's opening general chapters | Nepal, Grade 10 Teacher's Guide, General chapters (printed pp.1–4) |
+| "What is a dictionary?" — guide words, page references and meanings shown | Pakistan — *English 3* (student's book), Unit 11, printed p.112 |
+| Dictionary entry anatomy — beak, beam, bean entries with pronunciation, part of speech and meaning, under alphabetical order | Pakistan — *English 4* (student's book), Unit 11, printed p.107 |
+| Steps to use a dictionary — entry word, guide word, pronunciation, part of speech, definition, on a labelled page for *counter* | Pakistan — *English 8* (student's book), Unit 1, printed p.6 |
+| Dictionary skills over a reproduced dictionary page — guide words, entry word, pronunciation, part of speech, definition — with words to look up and compare | Pakistan — *English 9* (student's book), Unit 1, printed pp.7–13 |
 
-**Acceptance count: taught in 15 countries (Bangladesh, India,
-Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal).** Bangladesh
+**Acceptance count: taught in 16 countries (Bangladesh, India,
+Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan).** Bangladesh
 carries the full skill — order, guide
 words, the entry, many meanings; India carries the first
 form, a picture dictionary in every year's book; Mongolia
@@ -178,3 +182,5 @@ READING-QUEUE.md).
 **Syria added 2026-11-03** — Syria is partial stock for this lesson, worded plainly. Its only dictionary-form tools are the picture dictionaries closing the first three pupil's books: Grade 1 (pp.95–96), Grade 2 (pp.93–96) and Grade 3 (pp.87–88), each arranged alphabetically as picture-word spreads. No Syria book teaches dictionary use as a skill — there is no guide-word, entry-anatomy or look-it-up lesson in the set — and the later books carry no glossary or wordlist at all (the Grade 6, 7, 8, 9 and 12 filings each record the absence). Syria therefore joins on the Kazakhstan/Ethiopia terms: tools only, no skills system claimed.
 
 **Nepal added 2026-11-03** — 5 books stock this lesson: **Book:** *English Grade 6* — Nepal, CDC (Revised Edition 2012; held copy truncated at printed p.108 — the dictionary lesson, Unit 8 at pp.68–77, is inside the held pages); **Book:** *ENGLISH Grade 7* — Nepal, CDC (First Edition 2022, Updated Edition 2025); **Book:** *ENGLISH Grade 8* — Nepal, CDC (First Edition 2023, Updated Edition 2025); **Book:** *English (Grade 11)* — Nepal, CDC (Edition 2077 BS = 2020); **Book:** *Teacher's Guide: English 10* — Nepal, MoEST/CDC (First Edition 2024, "Feedback Copy"). All filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Nepal teaches dictionary use as a skill, not only as a back-of-book tool: Grade 6 Unit 8 (pp.68–77) is a full dictionary-skills lesson; Grade 7 Unit 1's Extra bit teaches how to read a dictionary entry; Grade 8 works dictionary abbreviations (Unit 1) and dictionary work on ten words (Unit 19); Grade 11 Unit 1 (pp.3–12) teaches dictionary use and alphabetical order. The Grade 10 guide keys to a newer Grade 10 edition that is not held, not to the held 2017 student's book, so its general-chapter dictionary teaching (printed pp.1–4) is cited for its own teaching only. Judged honestly: the word lists and glossaries at the ends of Nepal's other books are NOT counted here — only the books that teach using a dictionary are stocked.
+
+**Pakistan added 2026-11-03** — 4 books stock this lesson: **Book:** *English 3* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 4* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 8* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, with Oxford University Press, SNC 2022, no ISBN printed; held file incomplete — ends at printed p.122. **Book:** *English 9* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Updated/Revised National Curriculum 2023, Experimental Edition, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 3 introduces the dictionary outright — "What is a dictionary?", with guide words, page references and meanings (Unit 11, printed p.112). Grade 4 shows dictionary entry anatomy in Unit 11 (printed p.107), using the entries beak, beam and bean. Grade 8 gives the steps to use a dictionary in Unit 1 (printed p.6), and Grade 9 teaches dictionary skills over a reproduced dictionary page in Unit 1 (printed pp.7–13).

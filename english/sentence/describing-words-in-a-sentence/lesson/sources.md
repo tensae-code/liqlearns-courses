@@ -1,6 +1,6 @@
 # Sources — Describing words in a sentence
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan
 
 Every part traces to its book and page.
 
@@ -190,10 +190,12 @@ CITATION CHECK PASSED 2026-11-03).
 | Appearance and personality adjectives worked in sentences — careful, shy, creative, clever, kind, friendly, hard-working, confident, funny, caring, active | Vietnam — Tiếng Anh 6, Volume 1 (Global Success), Unit 3, printed pp.26–35 |
 | Describing appearance inside the sentence — "What does she look like? She has long straight brown hair and an oval face" (be/have + adjective + noun) | Cambodia — English Grade 6 (student's book), Chapter 3, Unit 3 "Appearance", printed pp.60–63 |
 | Adjective order inside descriptions — "a big, modern TV", "the big, square, yellow blanket" | Cambodia — ENGLISH Grade 10 (student's book), Unit 21 "What does it look like?", printed pp.111–116 |
+| Adjectives identified in sentences, with a types table (colour, quality, size, quantity, origin, shape) | Pakistan — *English 4* (student's book), Unit 1, printed pp.9–10 |
+| An adjective defined as describing a noun or pronoun — answering What kind, How many, Which one — with the adjective circled for the underlined noun | Pakistan — *English 5* (student's book), Text 10, printed p.72 |
 
-**Acceptance count: taught in 20 countries (Bangladesh,
+**Acceptance count: taught in 21 countries (Bangladesh,
 Egypt, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).** Bangladesh pictures the before-home in
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan).** Bangladesh pictures the before-home in
 eight pairs; Mongolia names the describing law, writes the
 sense-verb home, and posts the comparing border — and its
 Grade 5 picture book now adds describing stock in pictures
@@ -274,3 +276,5 @@ Grade 11 (Student's Book, Unit 3, printed p.34).
 **Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 4, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2023, ISBN 978-604-0-35121-0. **Book:** *Tiếng Anh 3, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2022, ISBN 978-604-0-30721-7. **Book:** *Tiếng Anh 6, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25873-1. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam works describing words inside description sentences from primary on: Grade 3, Volume 2 describes the bedroom with is/are sentences (the door is big, the windows are small); Grade 4, Volume 2 makes "What does he/she look like?" a unit's whole question, answered in is/has description sentences; and Grade 6, Volume 1 carries the appearance-and-personality adjective set as its friends unit's vocabulary.
 
 **Cambodia added 2026-11-03** — 2 books stock this lesson: **Book:** *English Grade 6* (student's book) — Cambodia, MoEYS, 5th printing 2020, ISBN 978-9924-9423-1-3. **Book:** *ENGLISH Grade 10* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2021, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia puts describing words to work in the sentence early — Grade 6's appearance pattern stacks adjectives after have (long straight brown hair, an oval face) — and systematises their order at Grade 10 (Unit 21).
+
+**Pakistan added 2026-11-03** — 2 books stock this lesson: **Book:** *English 4* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, based on Single National Curriculum 2020, no ISBN printed. **Book:** *English 5* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, the board's older-format reader; no SNC line printed, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 4 has pupils identify adjectives in sentences and tables their types in Unit 1 (printed pp.9–10). Grade 5 defines an adjective as a word that describes a noun or pronoun, answering What kind, How many and Which one, in Text 10 (printed p.72).

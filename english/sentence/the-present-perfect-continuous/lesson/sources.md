@@ -1,6 +1,6 @@
 # Sources — The present perfect continuous
 
-countries: Egypt, Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Sudan, Nepal, Armenia, Cambodia
+countries: Egypt, Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Sudan, Nepal, Armenia, Cambodia, Pakistan
 
 Every part traces to its book and page.
 
@@ -92,9 +92,10 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | The continuous perfect inside the full perfect system — the exercise heading itself reads "(Present Perfect or Present Perferct Continuous)" [sic] | Armenia — English 11 (COAF), Unit 1.2, printed p.10 |
 | Present perfect against present perfect continuous in the final year's present-tense revision | Armenia — English 12 (Mari), Topic 3, Grammar Review, printed pp.62–67 |
 | "How long have you been doing…?" duration questions (GUIDE-HELD ONLY — the Grade 11 student's book is not held; the teacher's book reproduces its pages) | Cambodia — ENGLISH Grade 11 (teacher's guide book), Unit 17 "Hiking in the forest", Lesson B, printed pp.93–98 |
+| The present perfect continuous taught with the present perfect, with a full for & since spread (timeline diagrams and lists) and a perfect-or-perfect-continuous exercise, under the printed heading "Present Perfect Continuous Tense" | Pakistan — *English 8* (student's book), Unit 5, printed p.54 (unit printed pp.47–56) |
 
-**Acceptance count: taught in 12 countries (Egypt,
-Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Sudan, Nepal, Armenia, Cambodia).** Libya meets the tense at Grade 8 inside a
+**Acceptance count: taught in 13 countries (Egypt,
+Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Sudan, Nepal, Armenia, Cambodia, Pakistan).** Libya meets the tense at Grade 8 inside a
 records lesson, names it for recent habits at Grade 9,
 and drills it as a full lesson with for/since at Grade
 10. Egypt states the complete box at Secondary 12 — the
@@ -149,3 +150,5 @@ unlooked-for.
 **Armenia added 2026-11-03** — 3 books stock this lesson: **Book:** *English 9* — Armenia, COAF, Yerevan 2025, no ISBN printed. **Book:** *English 11* — Armenia, COAF, Yerevan 2025, Tonoyan/Arakelyan, no ISBN printed. **Book:** *English 12* — Armenia, Mari Publishing, Yerevan 2025, ISBN 978-9939-888-42-2. All filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Armenia sets present perfect against present perfect progressive as one grammar sub-unit — form, use, for/since/how long — on traditional dance (Kochari) in Grade 9 (English 9 (COAF), Unit 2.4, printed pp.36–40). Grade 11 carries the continuous perfect inside the full perfect system — the exercise heading itself reads "(Present Perfect or Present Perferct Continuous)" [sic] (English 11 (COAF), Unit 1.2, printed p.10). Grade 12 sets present perfect against present perfect continuous in the final year's present-tense revision (English 12 (Mari), Topic 3, Grammar Review, printed pp.62–67).
 
 **Cambodia added 2026-11-03** — 1 book stocks this lesson, as a guide-held partial: **Book:** *ENGLISH Grade 11* (teacher's guide book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, no ISBN printed; the Grade 11 student's book is NOT held — the guide reproduces its pages, so everything cited from it is guide-held only. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). PARTIAL, filed plainly: the only present-perfect-continuous material in the whole Cambodia set is the Grade 11 teacher's book's Unit 17, Lesson B, which works "how long have you been doing…" duration questions — and the Grade 11 student's book is not held, so the stock is guide-held only. The form is never named or tabled as a tense in any held book; the Grade 9 student's book's own negatives record the present perfect continuous absent there (whole-book search, 0 hits), and it is taught in no held student's book.
+
+**Pakistan added 2026-11-03** — 1 book stocks this lesson: **Book:** *English 8* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore with Oxford University Press, based on Single National Curriculum 2022, no ISBN printed. The held file is incomplete — it ends at printed p.122. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 8's Unit 5 (printed pp.47–56) teaches the present perfect and the present perfect continuous together, with a full for & since spread and a perfect-or-perfect-continuous exercise, under the printed heading "Present Perfect Continuous Tense" (printed p.54). Note the discrepancy in the source file: pakistan.md's header summary says this tense is never taught, but its Grade 8 book section records it taught under its own heading, and the book section is followed here.

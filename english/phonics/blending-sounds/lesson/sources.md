@@ -1,6 +1,6 @@
 # Sources for this lesson — Blending sounds
 
-countries: Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal
+countries: Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The blending material lived inside the alphabet
@@ -34,8 +34,11 @@ letters.
 | Letter-blending named as an activity — a "Find and say" letter-blending exercise inside the illness unit (Syria's only blending-named work in the filed read: no CVC word-building, no decoding routine and no worked blend examples are recorded in the country file, and none is claimed here) | Syria — Emar Syrian Series Pupil's Book 2, Unit 22 "Get Well Soon", printed pp.70–72 |
 | Blending and segmenting as named activities in the teacher's activity bank — the guide's own teaching for its own, different workbook (see the guide note in the Nepal section below; the held Nepal student's books teach no blending at all) | Nepal — My English 1 Teacher's Guide (teacher's guide to a different, unheld workbook), About the Teacher's Guide, printed pp.1–49 ("Rhyming bingo" printed p.19) |
 | Blending checkpoints closing each letter block of the phonics sequence (Lessons 25, 36, 47 and 58), inside the Decodable phase's chain reading of decodable words — the guide's own programme, as above | Nepal — My English 1 Teacher's Guide (teacher's guide to a different, unheld workbook), Alphabet, Lessons 15–72, printed pp.97–278 |
+| CVC words blended in five rime families — **-an**, **-et**, **-in**, **-ot**, **-un** — each family a page of pictured words to blend and write | Pakistan — *English Nursery* (student's book), printed pp.115–119 |
+| The blended word rebuilt by its missing sound — missing-vowel completion, then beginning-sound completion | Pakistan — *English Nursery* (student's book), printed p.120 (missing vowel) and printed p.121 (beginning sounds) |
+| CVC words segmented letter by letter — fan, box, cup, net, pin, cat sounded out sound by sound | Pakistan — *English 1* (student's book), Unit 2, printed p.11 |
 
-**Acceptance count: taught in 11 countries (Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal).**
+**Acceptance count: taught in 12 countries (Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan).**
 China adds the alphabet stocked as five phonics sets rather than
 letter by letter (Grade 3 Volume 1), a complete short-vowel cycle
 inside one volume (Grade 3 Volume 2), and end-of-primary review
@@ -238,3 +241,5 @@ for that named activity and its sound-matching groundwork
 only, exactly as filed.
 
 **Nepal added 2026-11-03** — one book stocks this lesson, a teacher's guide, recorded exactly as filed: **Book:** *My English 1 Teacher's Guide* (teacher's guide) — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, First Edition 2020. Filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). GUIDE-ONLY STOCK: Nepal's blending lives entirely in this guide's own phonics programme for its own workbook — blending/segmenting activities in the About section's activity bank (printed pp.1–49, with "Rhyming bingo" at printed p.19) and blending checkpoints at Lessons 25, 36, 47 and 58 of the Alphabet sequence (Lessons 15–72, printed pp.97–278), whose second lesson of each letter pair adds chain reading of decodable words. GUIDE NOTE, recorded exactly as the country file records it: this teacher's guide is NOT the companion of the held Grade 1 student's book — it is the First Edition 2020 guide to the newer integrated-curriculum workbook 'My English Book One', which is not held, and it shares no unit, lesson or page with the held 2003 book. Its stock here is cited for its own teaching only, never as support for the held student's book. The held student's books are the other half of the record: the country file's verdict is that no held Nepal student's book carries a systematic phonics programme, and no blending is claimed from any of them.
+
+**Pakistan added 2026-11-03** — 2 books stock this lesson: **Book:** *English Nursery* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. **Book:** *English 1* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Pakistan blends at the CVC level only. The Nursery book's tail blends five word families (-an, -et, -in, -ot, -un, printed pp.115–119), then reverses the move — the child supplies the missing vowel (printed p.120) and the beginning sound (printed p.121). Grade 1 segments CVC words letter by letter in Unit 2 (printed p.11).

@@ -1,6 +1,6 @@
 # Sources — Nouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
+countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan
 
 Every part traces to its book and page.
 
@@ -188,9 +188,13 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Countable vs uncountable food nouns with some / any / a / an and have got | Cambodia — ENGLISH Grade 8 (student's book), Unit 7 "Yum, yum, yum!", printed pp.50–55 |
 | Singular and plural nouns with a/an, inside the possessions unit | Cambodia — ENGLISH Grade 10 (student's book), Unit 5 "What have you got?", printed pp.25–30 |
 | Quantities over nouns: some / any, much / many, too much / too many | Cambodia — ENGLISH Grade 9 (student's book), Unit 7 "Healthy eating", printed pp.50–55 |
+| Nouns as naming words — the definition, matched to pictures | Pakistan — *English 1* (student's book), Unit 2, printed p.15 |
+| Proper nouns against common nouns — Read Me definitions with underline/circle drills and sentence making | Pakistan — *English 3* (student's book), Unit 1, printed pp.8–9 |
+| Countable and uncountable nouns sorted over pictures, and collective nouns — the name of a group (army, team, crowd) | Pakistan — *English 4* (student's book), Unit 1, printed p.8 (countable/uncountable) and printed p.9 (collective nouns) |
+| Nouns and their five kinds — common, proper, collective, concrete, abstract — in the book's foundation unit | Pakistan — *English 6* (student's book), Unit 1, printed pp.1–13 |
 
-**Acceptance count: taught in 21 countries (Bangladesh, Egypt,
-Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).**
+**Acceptance count: taught in 22 countries (Bangladesh, Egypt,
+Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan).**
 Egypt and Bangladesh carry the definition itself,
 each in the three-sort form; Libya carries it twice more in its
 own shorter words; Ghana carries the sentence test; China
@@ -230,3 +234,5 @@ pp.99–108).
 **Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 6, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25873-1. **Book:** *Tiếng Anh 8 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2023, ISBN 978-604-0-35127-2. **Book:** *Tiếng Anh 11 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2023, ISBN 978-604-0-35131-9. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam carries the noun through its quantity system rather than a definition: countable and uncountable nouns are named grammar at Grade 6, Volume 1 (Unit 5) with the quantifier pairings boxed, and again at Grade 8 (Unit 4) beside the question-formation unit; and Grade 11 closes the word-kind work with compound nouns — formation types and plural rules — as a named grammar point (Unit 10). No Vietnam book prints a "a noun is …" definition, and none is claimed here.
 
 **Cambodia added 2026-11-03** — 3 books stock this lesson: **Book:** *ENGLISH Grade 8* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. **Book:** *ENGLISH Grade 9* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", first printing 2016, no ISBN printed. **Book:** *ENGLISH Grade 10* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2021, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia carries the noun through its plural and quantity systems: Grade 8 prints the full plural spelling rules (Unit 5) and the countable/uncountable split with food (Unit 7); Grade 10 works singular/plural with a/an inside possessions (Unit 5); Grade 9 runs some/any and much/many over food (Unit 7). No Cambodia book prints a "a noun is …" definition, and none is claimed here.
+
+**Pakistan added 2026-11-03** — 4 books stock this lesson: **Book:** *English 1* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. **Book:** *English 3* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. **Book:** *English 4* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. **Book:** *English 6* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Pakistan teaches the noun at four depths. Grade 1 names it — nouns are naming words (Unit 2, printed p.15); Grade 3 splits proper from common (Unit 1, printed pp.8–9); Grade 4 adds the countable/uncountable sort and collective nouns (Unit 1, printed pp.8–9). Grade 6's opening unit gives the full five kinds — common, proper, collective, concrete and abstract (Unit 1, printed pp.1–13).

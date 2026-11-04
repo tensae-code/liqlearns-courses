@@ -1,6 +1,6 @@
 # Sources — Adjectives
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan
 
 Every part traces to its book and page.
 
@@ -228,9 +228,13 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 | Appearance and personality adjectives, and the difference between "What does she look like?" and "What's she like?" | Cambodia — ENGLISH Grade 10 (student's book), Unit 22, printed pp.117–122 |
 | Adjective types named — descriptive, demonstrative and quantitative adjectives | Cambodia — ENGLISH Grade 12 (student's book), Unit 17 "Advertising", printed pp.93–98 |
 | Opposite adjectives (young/old, tidy/messy, wet/dry) inside the comparatives consolidation | Cambodia — ENGLISH Grade 7 (student's book), Unit 12 "Monsters!", printed pp.74–79 |
+| Adjectives as describing words, taught as opposite pairs (black/white, clean/dirty, heavy/light) | Pakistan — *English 2* (student's book), Unit 2, printed p.17 |
+| Types of adjectives in a table — colour, quality, size, quantity, origin, shape | Pakistan — *English 4* (student's book), Unit 1, printed pp.9–10 |
+| Degrees of regular adjectives — heavy / heavier / heaviest | Pakistan — *English 4* (student's book), Unit 4, printed p.43 |
+| Degrees of comparison in full — positive, comparative, superlative, regular and irregular | Pakistan — *English 7* (student's book), Unit 9, printed pp.84–93 |
 
-**Acceptance count: taught in 21 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).**
+**Acceptance count: taught in 22 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan).**
 Libya carries the definition twice and the
 pairs inside a story; Bangladesh carries the pictured pairs;
 Egypt carries the fullest statement of what adjectives tell;
@@ -262,3 +266,5 @@ Armenia joined 2026-11-03: it carries describing a friend — tall, young, smart
 **Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 5, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2024, ISBN 978-604-0-39361-6. **Book:** *Tiếng Anh 6, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25873-1. **Book:** *Tiếng Anh 6, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25874-8. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam builds the adjective from description to comparison: personality adjectives are a taught set at Grade 5, Volume 1 (active, clever, friendly, helpful), comparatives arrive as named grammar with a rule box at Grade 6, Volume 1 (Unit 4), and superlatives close the ladder at Grade 6, Volume 2 (Unit 12) — explicitly limited to short adjectives, as printed. The comparison system is then revised and extended at Grade 10 (Unit 7, printed pp.76–85).
 
 **Cambodia added 2026-11-03** — 3 books stock this lesson: **Book:** *ENGLISH Grade 7* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. **Book:** *ENGLISH Grade 10* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2021, no ISBN printed. **Book:** *ENGLISH Grade 12* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2023, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia's adjective work runs from description to system: Grade 10 describes people (Unit 4), orders stacked adjectives (Unit 21) and splits look-like from be-like (Unit 22); Grade 12 names the adjective types outright — descriptive, demonstrative, quantitative (Unit 17); Grade 7 consolidates opposite adjectives inside its monsters units (Unit 12).
+
+**Pakistan added 2026-11-03** — 3 books stock this lesson: **Book:** *English 2* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 4* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 7* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2022, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 2 introduces adjectives as describing words through opposite pairs in Unit 2 (printed p.17). Grade 4 names the types in a table in Unit 1 (printed pp.9–10) and teaches degrees of regular adjectives in Unit 4 (printed p.43). Grade 7 works degrees of comparison in full in Unit 9 (printed pp.84–93).

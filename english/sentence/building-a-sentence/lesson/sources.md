@@ -1,6 +1,6 @@
 # Sources — Building a sentence
 
-countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
+countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan
 
 Every part traces to its book and page.
 
@@ -155,10 +155,14 @@ CITATION CHECK PASSED 2026-11-03).
 | Simple sentences and compound sentences — a simple sentence is one independent clause; a compound sentence joins two or more independent clauses with a coordinating conjunction (for, and, but, or, so) or a conjunctive adverb (however, therefore, otherwise) | Vietnam — Tiếng Anh 8 (Global Success), Unit 3, printed pp.28–37 |
 | Simple, compound, and complex sentences as a review-and-extension unit in the final year | Vietnam — Tiếng Anh 12 (Global Success), Unit 5, printed pp.60–71 (grammar heading printed p.63) |
 | Basic sentence word order — subject + verb + object — isolated and rebuilt; place-and-time order (object + place + time) and fronting time ("Last night, there was a fire…") | Cambodia — ENGLISH Grade 12 (student's book), Unit 15 "In the news", printed pp.81–86 |
+| A sentence stated as subject + verb — subjects underlined and verbs filled in (plays, is, asks, works) | Pakistan — *English 3* (student's book), Unit 2, printed pp.17–18 |
+| Subjects and predicates worked as the sentence's two parts | Pakistan — *English 4* (student's book), Unit 2, printed p.21 |
+| The sentence defined — complete sense, capital letter, full stop — and sentence kinds sorted (declarative and interrogative) | Pakistan — *English 5* (student's book), Text 1, printed pp.6–7 |
+| Sentence structure as subject and predicate, with a correct/incorrect pair and an identification question | Pakistan — *English 12* (student's book), Unit 8, printed p.60 |
 
-**Acceptance count: taught in 20 countries (Bangladesh,
+**Acceptance count: taught in 21 countries (Bangladesh,
 Bolivia, Ghana, Mongolia, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).** Bolivia states the formula;
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan).** Bolivia states the formula;
 Ghana names the two parts; Bangladesh drills the building
 from tables; Mongolia checks the order; China adds the
 this/these, that/those sentence system, taught as one
@@ -185,3 +189,5 @@ READING-QUEUE.md).
 **Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 7 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2022, ISBN 978-604-0-30724-8. **Book:** *Tiếng Anh 8 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2023, ISBN 978-604-0-35127-2. **Book:** *Tiếng Anh 12 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2024, ISBN 978-604-0-39370-8. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam names the sentence's build outright: Grade 7's grammar point is "Simple sentences" — subject and verb, with object or adverb added — practised by identifying S and V and combining sentence pairs; Grade 8 sets the simple sentence against the compound sentence as its own named point; and Grade 12 reviews simple, compound and complex sentences as one extension unit.
 
 **Cambodia added 2026-11-03** — 1 book stocks this lesson: **Book:** *ENGLISH Grade 12* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2023, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia's sentence-building stock is one explicit unit: Grade 12's news unit isolates subject + verb + object, rebuilds sentences from it, then orders place and time after the object and fronts time (Unit 15).
+
+**Pakistan added 2026-11-03** — 4 books stock this lesson: **Book:** *English 3* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, based on Single National Curriculum 2020, no ISBN printed. **Book:** *English 4* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, based on Single National Curriculum 2020, no ISBN printed. **Book:** *English 5* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, the board's older-format reader; no SNC line printed, no ISBN printed. **Book:** *English 12* (student's book) — Pakistan, PECTAA (Punjab Education, Curriculum, Training and Assessment Authority), Revised National Curriculum 2023, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 3 states a sentence as subject + verb in Unit 2 (printed pp.17–18), underlining subjects and filling in verbs. Grade 4 works subjects and predicates in Unit 2 (printed p.21), and Grade 5 defines the sentence and sorts its kinds in Text 1 (printed pp.6–7). Grade 12 returns to the same two parts as subject and predicate in Unit 8 (printed p.60).

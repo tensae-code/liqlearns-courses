@@ -1,6 +1,6 @@
 # Sources — Going to: later
 
-countries: Bolivia, Ghana, Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
+countries: Bolivia, Ghana, Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan
 
 Every part traces to its book and page.
 
@@ -182,9 +182,12 @@ CITATION CHECK PASSED 2026-11-03).
 | Going to and will for plans, decisions and predictions about a future trip | Cambodia — ENGLISH Grade 9 (student's book), Unit 30 "Crossing the border to Laos", printed pp.188–193 |
 | Going to for decided-but-unarranged intentions, contrasted with the present continuous for arrangements | Cambodia — ENGLISH Grade 10 (student's book), Unit 31 "What are you going to do?", printed pp.169–174 |
 | Present continuous for arranged future plans, beside its present-moment use | Cambodia — ENGLISH Grade 12 (student's book), Unit 27 "Moving abroad", printed pp.145–150 |
+| The simple future as a named box — will/shall + first form — inside the three-tense table (present, past, future) | Pakistan — *English 3* (student's book), Unit 9, printed pp.95–96 |
+| The simple future with structure formulas — Subject + will/shall + base form + object, negative and interrogative | Pakistan — *English 4* (student's book), Unit 13, printed p.127 |
+| The simple future (including the going to form) and the future continuous, under the printed heading "Future Tense" | Pakistan — *English 8* (student's book), Unit 7, printed p.74 |
 
-**Acceptance count: taught in 19 countries (Bolivia, Ghana,
-Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).** Bolivia tables going to whole and names its
+**Acceptance count: taught in 20 countries (Bolivia, Ghana,
+Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan).** Bolivia tables going to whole and names its
 jobs; Mongolia boxes the will neighbour; Ghana keeps the
 scheduled present as the third future; China adds be going
 to as a full system with its time words, will worked for
@@ -256,3 +259,5 @@ box — *be going to* for plans, *will* for certainties
 **Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 5, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2024, ISBN 978-604-0-39362-3. **Book:** *Tiếng Anh 6, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25874-8. **Book:** *Tiếng Anh 10 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2022, ISBN 978-604-0-32428-3. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam teaches both later-forms and the contrast between them: going to arrives first, at the end of primary (Grade 5, Volume 2, Unit 20); will and might follow as rule boxes at Grade 6, Volume 2 (Unit 10); and Grade 10 sets will against be going to as one grammar point — decisions and predictions against plans and evidence. Filed plainly: the difference between will and going to is modelled at Grade 5 but never explained there; the explanation is the Grade 10 contrast.
 
 **Cambodia added 2026-11-03** — 4 books stock this lesson: **Book:** *ENGLISH Grade 8* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. **Book:** *ENGLISH Grade 9* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", first printing 2016, no ISBN printed. **Book:** *ENGLISH Grade 10* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2021, no ISBN printed. **Book:** *ENGLISH Grade 12* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2023, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia's future is carried by going to, will, the timetable present simple and the arrangements continuous — and the four are explicitly contrasted: Grade 8 states both going to and will rules in one unit (Unit 20) and adds timetables (Unit 21); Grade 10 splits going to (intentions) from the present continuous (arrangements) in Unit 31; Grade 12 re-presents the continuous chiefly as the arrangements form (Unit 27).
+
+**Pakistan added 2026-11-03** — 3 books stock this lesson: **Book:** *English 3* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, based on Single National Curriculum 2020, no ISBN printed. **Book:** *English 4* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, based on Single National Curriculum 2020, no ISBN printed. **Book:** *English 8* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore with Oxford University Press, based on Single National Curriculum 2022, no ISBN printed. The held file is incomplete — it ends at printed p.122. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 3 names the simple future — will/shall + first form — in its three-tense table in Unit 9 (printed pp.95–96). Grade 4 gives the simple future full structure formulas in Unit 13 (printed p.127). Grade 8 teaches the simple future, including the going to form, together with the future continuous in Unit 7, under the heading "Future Tense" (printed p.74).

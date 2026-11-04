@@ -1,6 +1,6 @@
 # Sources — Telling a story back
 
-countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia
+countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan
 
 Every part traces to its book and page.
 
@@ -143,9 +143,10 @@ PASSED 2026-11-03).
 | Retelling taught in a guide's own teaching, worded as such: the Grade 6 teacher's guide — written for the newer eighteen-unit Grade 6 textbook, not the held older student's book — teaches the retelling of "Beauty and the Beast" by "Popcorn Storytelling", the class carrying the story round until it is told again whole | Nepal, Teacher's Guide English Grade Six, Unit 3, printed pp.19–26 |
 | A text retold in order as writing work — the fashion article summarised in chronological order (partial stock: ordered retelling of a text's events; no held Armenia book teaches oral retelling by name) | Armenia — English 7 (Zangak), Unit 1, Writing Spot, printed p.16 |
 | A journalist interview read-and-retell activity inside the Review unit | Cambodia — ENGLISH Grade 12 (student's book), Unit 18 "Review", printed pp.99–102 |
+| Retelling named as oral work: learners retell a text in their own words and tell short stories, inside the opening unit's Oral Communication work | Pakistan, English 9, Unit 1, printed pp.13–14 |
 
-**Acceptance count: taught in 15 countries (Bangladesh,
-Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia).** Bangladesh equips the retelling (word box,
+**Acceptance count: taught in 16 countries (Bangladesh,
+Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan).** Bangladesh equips the retelling (word box,
 first-person, comparison); Ghana frames it (chain, Herring
 Bone, sequence order); China equips it again (the fill-in
 retell, the phone retell, the sorted diary recount);
@@ -189,3 +190,5 @@ their books are read (see READING-QUEUE.md).
 **Armenia added 2026-11-03** — PARTIAL stock, filed plainly: one book stocks this lesson in part: **Book:** *English 7* — Armenia, Zangak, Yerevan 2023, Grigoryan, ISBN 978-9939-99-035-4. Filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). The nearest Armenia comes is ordered summary work: a text retold in order as writing work — the fashion article summarised in chronological order (Unit 1, Writing Spot, printed p.16). Stated plainly: this is partial stock — ordered retelling of a text's events; no held Armenia book teaches oral retelling by name.
 
 **Cambodia added 2026-11-03** — 1 book stocks this lesson, as a partial: **Book:** *ENGLISH Grade 12* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2023, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). PARTIAL, filed plainly: Cambodia's only retelling stock is one named read-and-retell task — Grade 12's Unit 18 Review sends pupils from a journalist interview to retelling it. No Cambodia book teaches retelling as a skill beyond that task; the folk tales in Grades 6 and 9 are retold BY the books, which is the-story's stock, not this lesson's.
+
+**Pakistan added 2026-11-03** — 1 book stocks this lesson: **Book:** *English 9* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Updated/Revised National Curriculum 2023, Experimental Edition, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Filed plainly: retelling is named oral work in this one book only — Grade 9's opening unit has learners retell a text in their own words and tell short stories (Unit 1, printed pp.13–14). No other read Pakistan book names retelling, and none is claimed here.

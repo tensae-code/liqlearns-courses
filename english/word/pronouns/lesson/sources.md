@@ -1,6 +1,6 @@
 # Sources — Pronouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan
 
 Every part traces to its book and page.
 
@@ -203,9 +203,13 @@ english/books/jordan.md (Grade 7 Pupil's Book Semester 1 section, FULLY READ + C
 | Possessive adjectives set against possessive pronouns, inside the possessions unit | Cambodia — ENGLISH Grade 10 (student's book), Unit 5 "What have you got?", printed pp.25–30 |
 | Possessive adjectives — my, your, his, her, its, our, their — for who a thing belongs to | Cambodia — ENGLISH Grade 8 (student's book), Unit 25 "Types of transport around the world", printed pp.158–163 |
 | Indefinite pronouns in a full table — something/anything/nothing/everything, someone/anyone, somewhere/anywhere and their some/any/no-/every- logic | Cambodia — ENGLISH Grade 12 (student's book), Unit 24 "Child exploitation", printed pp.129–134 |
+| Pronouns as substitution words — I, you, we, he, she, it, they — with picture sentences and fill-ins | Pakistan — *English 1* (student's book), Unit 2, printed p.16 |
+| Possessive pronouns — mine, yours, hers, his, ours | Pakistan — *English 3* (student's book), Unit 8, printed p.81 |
+| Subject and object pronouns in one table (I/me, we/us, he/him, she/her, it/it, they/them) | Pakistan — *English 4* (student's book), Unit 8, printed pp.79–80 |
+| The pronoun families — personal pronouns (subjective, objective, possessive), interrogative pronouns and demonstrative pronouns | Pakistan — *English 6* (student's book), Unit 2, printed pp.14–26 |
 
-**Acceptance count: taught in 19 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).** Egypt
+**Acceptance count: taught in 20 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan).** Egypt
 carries the seven words with the
 plainest definitions any book gives them, and the first
 whose-box; Bangladesh carries the formal definition; Libya
@@ -236,3 +240,5 @@ Armenia joined 2026-11-03: it carries subject pronouns revised with this/that/th
 **Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 6, Volume 2 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25874-8. **Book:** *Tiếng Anh 7 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2022, ISBN 978-604-0-30724-8. **Book:** *Tiếng Anh 8 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2023, ISBN 978-604-0-35127-2. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam teaches the possessive pair as a contrast system: Grade 6, Volume 2 sets possessive adjectives and possessive pronouns in two rule boxes side by side (Unit 9); Grade 7 names possessive pronouns again as a grammar point of their own (Unit 11); and Grade 8 returns to them after of — "a friend of mine" (Unit 10).
 
 **Cambodia added 2026-11-03** — 3 books stock this lesson: **Book:** *ENGLISH Grade 8* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. **Book:** *ENGLISH Grade 10* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2021, no ISBN printed. **Book:** *ENGLISH Grade 12* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2023, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia's pronoun stock is the possessive system and the indefinites: Grade 10 contrasts possessive adjectives with possessive pronouns (Unit 5), Grade 8 works the possessive adjectives for belonging (Unit 25), and Grade 12 tables the indefinite pronouns in full (Unit 24).
+
+**Pakistan added 2026-11-03** — 4 books stock this lesson: **Book:** *English 1* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 3* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 4* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 6* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2022, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 1 names pronouns as substitution words — I, you, we, he, she, it, they — in Unit 2 (printed p.16). Grade 3 teaches possessive pronouns in Unit 8 (printed p.81), and Grade 4 sets out the subject and object pronoun table in Unit 8 (printed pp.79–80). Grade 6 works the pronoun families across Unit 2 (printed pp.14–26) — personal pronouns in their subjective, objective and possessive forms, interrogative pronouns and demonstrative pronouns.

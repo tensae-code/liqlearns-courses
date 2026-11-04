@@ -1,6 +1,6 @@
 # Sources — Answering from the text
 
-countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
+countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan
 
 Every part traces to its book and page.
 
@@ -173,9 +173,11 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 | Reference questions as a standing task type — "the word 'them' / 'that' / 'it' refers to …" — answered from the text just read | Vietnam — Tiếng Anh 9 (Global Success), Skills 1 readings across Units 1–12, printed pp.8–133 (e.g. Unit 2's Teenovator reading, printed p.23) |
 | The unit shape itself: a short reading text, then comprehension questions on it (the pattern of every Grade 5 unit) | Cambodia — English Grade 5 (student's book), Chapter 1, Unit 1 "Selling Food", printed pp.8–11 |
 | The folk-tale lessons: the tale read across the lessons, with comprehension work on the text | Cambodia — ENGLISH Grade 9 (student's book), Unit 16 "Hansel and Gretel", printed pp.104–109 |
+| Comprehension questions on the unit text as the book's standing Reading work — questions, word-bank blanks and MCQs answered from the family text just read | Pakistan, English 1, Unit 2, printed pp.12–13 |
+| Analytical reading questions answered from the text — eight analytical comprehension questions on the opening text | Pakistan, English 9, Unit 1, printed pp.6–7 |
 
-**Acceptance count: taught in 19 countries (Egypt, Ghana,
-India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).** India builds the carrier hunt into the page and
+**Acceptance count: taught in 20 countries (Egypt, Ghana,
+India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan).** India builds the carrier hunt into the page and
 prints the question-kind border; Ghana demands textual
 evidence under personal responses; Egypt examines by the
 unseen passage; China grades the answering shapes themselves
@@ -232,3 +234,5 @@ books are read (see READING-QUEUE.md).
 **Vietnam added 2026-11-03** — 2 books stock this lesson: **Book:** *Tiếng Anh 6, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2021, ISBN 978-604-0-25873-1. **Book:** *Tiếng Anh 9 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2024, ISBN 978-604-0-39366-1. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Answering from the text is the standing comprehension shape of the whole series: every reading from Grade 6 on closes with questions answered from the text itself, and Grade 9 adds reference questions — what 'them', 'that' or 'it' refers to — as a named standing task type. Stated plainly: no Vietnam book names a scanning or line-reference answering strategy; the stock is the standing question work itself, as with the other countries carried on those terms.
 
 **Cambodia added 2026-11-03** — 2 books stock this lesson: **Book:** *English Grade 5* (student's book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS), 6th printing 2020, ISBN 978-9924-9423-2-0. **Book:** *ENGLISH Grade 9* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", first printing 2016, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia's reading work is built on answering from the text: every Grade 5 unit runs a short reading followed by comprehension questions as its fixed C section, and Grade 9's folk-tale units read the tale across three lessons with the questions on the text (Unit 16).
+
+**Pakistan added 2026-11-03** — 2 books stock this lesson: **Book:** *English 1* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. **Book:** *English 9* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Updated/Revised National Curriculum 2023, Experimental Edition, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Answering from the text is the standing comprehension work of both books: Grade 1 answers comprehension questions, word-bank blanks and MCQs from its family text (Unit 2, printed pp.12–13). Grade 9 opens with eight analytical comprehension questions answered from its first text (Unit 1, printed pp.6–7).

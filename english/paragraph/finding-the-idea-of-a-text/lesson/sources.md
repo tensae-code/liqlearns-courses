@@ -1,6 +1,6 @@
 # Sources — Finding the idea of a text
 
-countries: Bangladesh, Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
+countries: Bangladesh, Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan
 
 Every part traces to its book and page.
 
@@ -176,9 +176,12 @@ CITATION CHECK PASSED 2026-11-03).
 | Matching headings among the standing Skills 1 reading task types, beside matching definitions and reference questions | Vietnam — Tiếng Anh 9 (Global Success), Skills 1 readings across Units 1–12, printed pp.8–133 |
 | Summarising past events as a taught step of the history unit (GUIDE-HELD ONLY — the Grade 11 student's book is not held) | Cambodia — ENGLISH Grade 11 (teacher's guide book), Unit 21 "Cambodian history", Lesson B, printed pp.111–116 |
 | Skimming and scanning named as reading work, inside the health unit's question-tag lessons (GUIDE-HELD ONLY) | Cambodia — ENGLISH Grade 11 (teacher's guide book), Unit 28 "Healthy living", printed pp.151–156 |
+| Main Idea and Details as a named Comprehension Skill — topic sentence/supporting details worked on a poem's first stanza, then applied to the other stanzas | Pakistan, English 5, Text 4, printed pp.23–24 |
+| The main idea and topic sentence of a paragraph as the Reading Skills work of the opening unit | Pakistan, English 8, Unit 1, printed pp.1–9 |
+| The main idea and supporting details identified in a named paragraph of the reading text, as set reading work | Pakistan, English 9, Unit 1, printed pp.6–7 |
 
-**Acceptance count: taught in 18 countries (Bangladesh,
-Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).** Ghana names the weighing (main idea vs supporting
+**Acceptance count: taught in 19 countries (Bangladesh,
+Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan).** Ghana names the weighing (main idea vs supporting
 details) and the own-words law; Bangladesh sets the choice
 as a task; China hunts the idea by title-choice and by the
 one question a whole text answers, and names the
@@ -232,3 +235,5 @@ read (see READING-QUEUE.md).
 **Vietnam added 2026-11-03** — 3 books stock this lesson: **Book:** *Tiếng Anh 11 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2023, ISBN 978-604-0-35131-9. **Book:** *Tiếng Anh 10 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2022, ISBN 978-604-0-32428-3. **Book:** *Tiếng Anh 9 (Global Success)* — Vietnam, Vietnam Education Publishing House & Pearson, © 2024, ISBN 978-604-0-39366-1. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam names the idea-hunt in its reading purposes: Grade 11's texts are read "for main ideas and specific information" as the strand's stated aim, with heading-matching among its tasks; Grade 10 teaches choosing the best title for a text in a printed Tips box (Unit 2); and Grade 9's Skills 1 readings carry heading-matching as a standing task type. Filed on those terms — the words "main idea" name the purpose of the reading, and the heading/title work is the practised form of it.
 
 **Cambodia added 2026-11-03** — 1 book stocks this lesson, as a guide-held partial: **Book:** *ENGLISH Grade 11* (teacher's guide book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, no ISBN printed; the Grade 11 student's book is NOT held — the guide reproduces its pages, so everything cited from it is guide-held only. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). PARTIAL, guide-held only, filed plainly: no held Cambodia student's book runs a "main idea" lesson by that name. Cambodia's stock is the Grade 11 teacher's book — which reproduces its (unheld) student's book's pages — teaching summarising as a step of the history unit (Unit 21) and naming skimming and scanning as reading work (Unit 28).
+
+**Pakistan added 2026-11-03** — 3 books stock this lesson: **Book:** *English 5* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, the board's older-format reader; no SNC line printed, no ISBN printed. **Book:** *English 8* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB) with Oxford University Press, Lahore, Single National Curriculum 2022, no ISBN printed; the held file is incomplete — it ends at printed p.122. **Book:** *English 9* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Updated/Revised National Curriculum 2023, Experimental Edition, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Pakistan names the hunt outright: Grade 5's Comprehension Skill is Main Idea and Details, worked through topic sentence and supporting details on a poem's stanzas (Text 4, printed pp.23–24). Grade 8 sets the main idea and topic sentence of a paragraph as its opening unit's Reading Skills work (Unit 1, printed pp.1–9). Grade 9 has readers identify the main idea and supporting details of a paragraph of its first text (Unit 1, printed pp.6–7).

@@ -1,6 +1,6 @@
 # Sources — Telling the time
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan
 
 Every part traces to its book and page.
 
@@ -141,9 +141,11 @@ english/books/jordan.md (Grade 3 Pupil's Book Semester 1 section, FULLY READ + C
 | Telling the time in full: o'clock, half past, quarter past/to, five past/to, twenty past/to, and am/pm with in the morning/afternoon/evening | Cambodia — ENGLISH Grade 8 (student's book), Unit 19 "What's the time?", printed pp.122–127 |
 | Telling the time inside the school day — subjects, days, class timetables | Cambodia — ENGLISH Grade 7 (student's book), Unit 4 "I study English!", printed pp.26–31 |
 | Telling the time with the daily routine — "ten past four", "twenty to twelve" | Cambodia — ENGLISH Grade 10 (student's book), Unit 7 "My daily routine", printed pp.35–40 |
+| The clock — the big hand shows minutes, the small hand shows hours — reading o'clock times | Pakistan — *English 2* (student's book), Unit 7, printed pp.66–67 |
+| Telling the time — quarter past and quarter to, on 7:15 and 10:45 clocks | Pakistan — *English 4* (student's book), Unit 5, printed pp.49–50 |
 
-**Acceptance count: taught in 19 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia).** Bangladesh carries
+**Acceptance count: taught in 20 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan).** Bangladesh carries
 the clock's hands, the
 o'clock shape, and the a.m./p.m. rule; Egypt carries times
 inside the day's routines with the book's own question;
@@ -195,3 +197,5 @@ times; secondary adds the quarter-and-half system.
 **Vietnam added 2026-11-03** — 1 book stocks this lesson: **Book:** *Tiếng Anh 4, Volume 1 (Global Success)* — Vietnam, Vietnam Education Publishing House & Macmillan, © 2023, ISBN 978-604-0-35120-3. All filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Vietnam's time-telling is one primary unit with its limits stated plainly: only the quarter points are taught — o'clock, fifteen, thirty and forty-five — times are read as number words ("six thirty", "It's eight thirty.", printed p.16), and there is no "half past / quarter past" wording anywhere in the set.
 
 **Cambodia added 2026-11-03** — 4 books stock this lesson: **Book:** *English Grade 6* (student's book) — Cambodia, MoEYS, 5th printing 2020, ISBN 978-9924-9423-1-3. **Book:** *ENGLISH Grade 7* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. **Book:** *ENGLISH Grade 8* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. **Book:** *ENGLISH Grade 10* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2021, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia teaches the clock twice in full: Grade 6's dedicated unit (Chapter 1, Unit 2 — o'clock, quarter past, half past, quarter to) and Grade 8's Unit 19, which adds the five/twenty past/to forms and am/pm; Grades 7 and 10 work it inside the school day and the daily routine.
+
+**Pakistan added 2026-11-03** — 2 books stock this lesson: **Book:** *English 2* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 4* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 2 reads the clock in Unit 7 (printed pp.66–67) — the big hand shows minutes and the small hand shows hours — and reads o'clock times. Grade 4 tells the time in Unit 5 (printed pp.49–50), working quarter past and quarter to on clocks such as 7:15 and 10:45.
