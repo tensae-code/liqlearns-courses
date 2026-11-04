@@ -1,6 +1,6 @@
 # Sources — The home
 
-countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador
+countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia
 
 Every part traces to its book and page.
 
@@ -204,10 +204,12 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | The furniture set as picture cards — table, bed, wardrobe, desk, dining table, chair, sofa, armchair, coffee table — with a home-appliances set (TV, refrigerator, stove, telephone, computer, microwave); no room names are taught in this book | Ecuador — *English*, Preparatory Sublevel transition text, Grade 1 (MINEDUC, 2024), Worksheet 8, printed pp.43–46 |
 | Rooms named in a labelling task — bedroom, living room, bathroom, dining room, kitchen, yard — after a reading on homes around the world | Ecuador — *English*, Elementary Sublevel transition text, Grade 2 (MINEDUC, 2024), Worksheet 1, printed pp.10–14 |
 | Rooms and where they are — bedroom, living room, dining room, balcony, bathroom, kitchen, hall, with next to, between, opposite: "Where's your bedroom? — It's between the kitchen and the bathroom" | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Unit 3, printed pp.48–53 |
-
-**Acceptance count: taught in 28 countries (Egypt, Libya,
+| Rooms and furniture — the "Home Sweet Home" unit, which also carries the present continuous | Saudi Arabia, *We Can!* Student's Book 1, Term 1 (Grade 1), Unit 11 Home Sweet Home, printed p.81 |
+| The same home unit held in the earlier 2023 printing | Saudi Arabia, *We Can!* Student's Book 1, Term 3 (Grade 1), Unit 11 Home Sweet Home, printed pp.35–50 |
+| Family and homes return in Grade 3 | Saudi Arabia, *We Can!* Student's Book 3, full-year combo (Grade 3), Unit 4 (unit; printed page not pinned in the country filing) |
+**Acceptance count: taught in 29 countries (Egypt, Libya,
 Palestine, Laos, China, North Macedonia, Mongolia, Indonesia,
-Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador).** Egypt carries the five rooms with a sentence for
+Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia).** Egypt carries the five rooms with a sentence for
 each and the drilled question; Libya carries the same rooms
 twice (Grade 1 set, Grade 2 labelled house) with the sitting
 room name and the furniture; Palestine carries the bedroom set
@@ -264,3 +266,5 @@ reading passage is a house text with written answers (p.117).
 **Afghanistan added 2026-11-04** — 1 book stocks this lesson: **Book:** *English for Afghanistan: Student's Book*, Grade 7 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan gives the home two full units of its first secondary book: "My house" (rooms and contents, there is/are) and "My room" (furniture and its places). No other book in the set returns to the home as a topic.
 
 **Ecuador added 2026-11-04** — 3 books stock this lesson: **Book:** *English — Preparatory Sublevel: Student Book for Curricular Transition*, Grade 1 (student's book) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-38-5. **Book:** *English — Elementary Sublevel: Student Book for Curricular Transition*, Grade 2 (student's book) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-39-2. **Book:** *Starship English, Level Pre A1.2* (Student Book + Activity Book bound in one volume; the Grade 3 file) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95198-3, first printing 2016. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Ecuador builds the home in three steps: furniture and appliances as Grade 1 picture cards, room names in Grade 2's homes-around-the-world worksheet, and rooms placed with prepositions in the Starship course.
+
+**Saudi Arabia added 2026-11-04** — 3 books stock this lesson: **Book:** *We Can!* Student's Book 1, Term 1, Grade 1 (student's book) — Saudi Arabia, Ministry of Education adaptation of McGraw-Hill Education (authors Yoko Matsuka and Glenn McDougall), adaptation ©2025, no ISBN printed; **Book:** *We Can!* Student's Book 1, Term 3, Grade 1 (student's book) — Saudi Arabia, Ministry of Education, 2023–1445 printing, no ISBN printed; **Book:** *We Can!* Student's Book 3, full-year combo, Grade 3 (student's book) — Saudi Arabia, Ministry of Education, 2023–1445 printing, no ISBN printed. Filed in english/books/saudi-arabia.md (6 in-hand books FULLY READ 2026-11-04; Books 1–5 citation-checked — 65 anchors: 33 passed, 28 corrected in place, 1 partially corrected, 3 not found; Book 6 settled by the coordinator's page-map, as its section discloses). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. Rooms and furniture are Grade 1's home unit — the same unit that carries the present continuous — held in both the 2025 and 2023 printings; Grade 3 returns to family and homes.

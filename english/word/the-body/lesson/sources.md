@@ -1,6 +1,6 @@
 # Sources — The body
 
-countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador
+countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia
 
 Every part traces to its book and page.
 
@@ -167,9 +167,11 @@ english/books/jordan.md (Grade 2 Pupil's Book Semester 1 section, FULLY READ + C
 | The body-parts set taught as a song, 'Put them together' (arms, legs, fingers, toes, eyes, ears, mouth, nose, feet, hands, head, knee) | Yemen, *English Course for Yemen* Pupil's Book 1 (Grade 7), Unit 2, printed p.7 |
 | The body set as a numbered list of 25 — body, face, head, eye, ear, nose, mouth, finger, back, neck, chest, arm, hand, leg, thumb, foot, toe, then the plurals eyes, ears, arms, legs, hands, feet, fingers, toes | Ecuador — *Starship English*, Level A1.1 (Children) (Grade 4 file), Student Book, Unit 5, printed p.87 |
 | Naming parts with this/these — "What's this? — This is my head / What are these? — These are my arms" — and reporting small hurts: "I hurt my nose / I cut my finger" (the book's own Scope and Sequence labels hurt/cut a formulaic phrase, not a past-tense lesson) | Ecuador — *Starship English*, Level A1.1 (Children) (Grade 4 file), Student Book, Unit 5, printed pp.86–91 |
-
-**Acceptance count: taught in 26 countries (Egypt, Palestine,
-Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador).**
+| Body parts and actions with the body — a unit named for the body itself | Saudi Arabia, *We Can!* Student's Book 2, Term 1 (Grade 2), Unit 3 I Love My Body!, printed p.27 |
+| Health and doctor vocabulary in the next unit (also where can/can't is taught) | Saudi Arabia, *We Can!* Student's Book 2, Term 1 (Grade 2), Unit 4 At the Doctor, printed p.41 |
+| Body and health return late in Grade 3's year | Saudi Arabia, *We Can!* Student's Book 3, full-year combo (Grade 3), Unit 11 (unit; printed page not pinned in the country filing) |
+**Acceptance count: taught in 27 countries (Egypt, Palestine,
+Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia).**
 Palestine carries the core seven by touch;
 Egypt carries the parts at work in the five sense sentences,
 plus three more inside its letter pages; China carries the
@@ -216,3 +218,5 @@ stomachache (p.73).
 **Afghanistan added 2026-11-04** — 1 book stocks this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 4 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan teaches the body in its first book's fourteenth unit — a nine-word core set, more parts inside the sentence work, and the irregular body plurals (tooth–teeth, foot–feet) drilled as their own set. Grade 7's "My body" unit works height, weight and illness over the same ground but names no new body set.
 
 **Ecuador added 2026-11-04** — 1 book stocks this lesson: **Book:** *Starship English, Level A1.1 (Children)* (Student Book + Activity Book bound in one volume; the Grade 4 file — the book itself prints only the level, no grades) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95199-0, held copy fifth printing 2018. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Ecuador's body teaching sits in one Starship unit, which carries the set, its plurals and a hurt-parts dialogue; the earlier books name only stray parts inside other topics and are not cited.
+
+**Saudi Arabia added 2026-11-04** — 2 books stock this lesson: **Book:** *We Can!* Student's Book 2, Term 1, Grade 2 (student's book) — Saudi Arabia, Ministry of Education adaptation of McGraw-Hill Education (authors Yoko Matsuka and Glenn McDougall), first published 2023, adaptation ©2025, no ISBN printed; **Book:** *We Can!* Student's Book 3, full-year combo, Grade 3 (student's book) — Saudi Arabia, Ministry of Education, 2023–1445 printing, no ISBN printed. Filed in english/books/saudi-arabia.md (6 in-hand books FULLY READ 2026-11-04; Books 1–5 citation-checked — 65 anchors: 33 passed, 28 corrected in place, 1 partially corrected, 3 not found; Book 6 settled by the coordinator's page-map, as its section discloses). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. Grade 2 gives the body its own unit ("I Love My Body!") with a doctor unit beside it; Grade 3 returns to body and health late in its year.

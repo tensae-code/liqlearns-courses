@@ -1,6 +1,6 @@
 # Sources — Adverbs
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia
 
 Every part traces to its book and page.
 
@@ -234,9 +234,9 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Frequency adverbs gathered in the unit's Language review | Yemen, *English Course for Yemen* Pupil's Book 3 (Grade 9), Language review 2, printed p.25 |
 | Adverbs of manner taught in a Language study: formation tables, the -ly rule, and the hard/fast/well irregulars | Yemen, *English Course for Yemen* Workbook 3 (Grade 9), Language study, printed p.124 |
 | Adverbs and adverbial phrases (how / where / when) reviewed at Grade 12 | Yemen, *English Course for Yemen* Pupil's Book 6 (Grade 12), Language review 4, printed p.15 |
-
-**Acceptance count: taught in 27 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan).**
+| Adjectives and adverbs treated together inside the comparatives-and-superlatives chart (long/short adjectives and adverbs) | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Unit 7 Wildlife, printed pp.82–93 |
+**Acceptance count: taught in 28 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia).**
 Bangladesh carries the definition and the mime
 game; Egypt carries the making rule (-ly, y → i) and the
 frequency ladder; Libya carries the adjective-to-adverb move
@@ -284,3 +284,5 @@ Armenia joined 2026-11-03: it carries adverbs of frequency as a grammar lesson w
 
 
 **Afghanistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English for Afghanistan: Student's Book*, Grade 7 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 8 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan teaches the frequency set in Grade 7 with the same percentage ladder other courses print, then works the adjective/adverb border in Grade 8 (easy/easily, good/well) inside its tips-and-rules unit, whose Grammar Summary gathers the manner adverbs again.
+
+**Saudi Arabia added 2026-11-04** — 1 book stocks this lesson, as a partial: **Book:** *Top Goal 1* Student's Book, Grade 4 — **Part 2 only as bound** (Workbook Part 2 bound in the same file) (student's book) — McGraw Hill (authors Nico Dantaz and Rachel Finnie), 2025 combo production, no ISBN printed in the held copy. Filed in english/books/saudi-arabia.md (6 in-hand books FULLY READ 2026-11-04; Books 1–5 citation-checked — 65 anchors: 33 passed, 28 corrected in place, 1 partially corrected, 3 not found; Book 6 settled by the coordinator's page-map, as its section discloses). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. Filed plainly as a partial: adverbs appear in exactly one place in the six books — inside Grade 4's comparatives-and-superlatives chart, which treats long and short adjectives and adverbs together. No Saudi book in hand introduces adverbs as a word kind.

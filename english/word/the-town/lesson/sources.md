@@ -1,6 +1,6 @@
 # Sources — The town
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia
 
 Every part traces to its book and page.
 
@@ -190,9 +190,9 @@ english/books/jordan.md (Grade 6 Pupil's Book Semester 1 section, FULLY READ + C
 | Asking where things can be bought and where places are - conversation practice on the same unit | Yemen, *English Course for Yemen* Pupil's Book 1 (Grade 7), Unit 7, printed p.51 |
 | Giving directions from a town map (go along, turn left/right, go straight on, cross over) | Yemen, *English Course for Yemen* Pupil's Book 2 (Grade 8), Unit 4, printed p.35 |
 | Asking where departments are, from a department-store floor plan ('Shopping in Exeter') | Yemen, *English Course for Yemen* Pupil's Book 4 (Grade 10), Unit 3, printed p.18 |
-
-**Acceptance count: taught in 27 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan).** Egypt
+| Town places taught as a whole unit of Grade 3's year | Saudi Arabia, *We Can!* Student's Book 3, full-year combo (Grade 3), Unit 10 (unit; printed page not pinned in the country filing) |
+**Acceptance count: taught in 28 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia).** Egypt
 carries the first set twice (Primary 1's
 eight words with their dialog; Primary 2's city set);
 Bangladesh carries city life as a topic, against village life;
@@ -243,3 +243,5 @@ Vientiane's landmarks to direct over (pp.66–70).
 
 
 **Afghanistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 6 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 7 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan's town set is Kabul itself: Grade 6's "Lovely Kabul" unit names the city's places and works them through spelling, matching and map questions, and Grade 7 matches the everyday town places to their definitions.
+
+**Saudi Arabia added 2026-11-04** — 1 book stocks this lesson: **Book:** *We Can!* Student's Book 3, full-year combo, Grade 3 (student's book) — Saudi Arabia, Ministry of Education, 2023–1445 printing, no ISBN printed. Filed in english/books/saudi-arabia.md (6 in-hand books FULLY READ 2026-11-04; Books 1–5 citation-checked — 65 anchors: 33 passed, 28 corrected in place, 1 partially corrected, 3 not found; Book 6 settled by the coordinator's page-map, as its section discloses). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. Town places are one unit of Grade 3's full-year book — a vocabulary unit inside an oral-first course, and the set's only town teaching.

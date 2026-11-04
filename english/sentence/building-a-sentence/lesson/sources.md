@@ -1,6 +1,6 @@
 # Sources — Building a sentence
 
-countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador
+countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia
 
 Every part traces to its book and page.
 
@@ -190,10 +190,12 @@ CITATION CHECK PASSED 2026-11-03).
 | Word order in statements and questions reviewed as a named point, including indirect questions ('the subject comes before the verb') | Yemen, *English Course for Yemen* Pupil's Book 5 (Grade 11), Language review 3, printed p.31 |
 | "Writing: Parts of a sentence" — a sentence is a group of words telling a complete idea, and its parts are Subject, Verb, Object, shown as a three-part train that follows the order of the train | Ecuador — *English*, Elementary Sublevel transition text, Grade 2 (MINEDUC, 2024), Worksheet 4, printed p.29 |
 | Three analysed examples on the same page — I am a child; We love English; My mom cooks delicious food | Ecuador — *English*, Elementary Sublevel transition text, Grade 2 (MINEDUC, 2024), Worksheet 4, printed p.29 |
-
-**Acceptance count: taught in 28 countries (Bangladesh,
+| Complete model sentences carried as chant and short-dialogue frames in every unit — the course's core mechanic | Saudi Arabia, *We Can!* Student's Book 1, Term 1 (Grade 1), throughout, e.g. Unit 11 Home Sweet Home, printed p.81 |
+| Verb + to-infinitive and verb + -ing sentence patterns on grammar charts | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Unit 5 Outdoor Fun, printed pp.60–61 |
+| Relative-pronoun sentences join two clauses — "This is the cat that …" | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Unit 7 Wildlife, printed pp.82–93 |
+**Acceptance count: taught in 29 countries (Bangladesh,
 Bolivia, Ghana, Mongolia, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador).** Bolivia states the formula;
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia).** Bolivia states the formula;
 Ghana names the two parts; Bangladesh drills the building
 from tables; Mongolia checks the order; China adds the
 this/these, that/those sentence system, taught as one
@@ -239,3 +241,5 @@ READING-QUEUE.md).
 **Afghanistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 4 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 9 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan's sentence building starts from Grade 4's model frames — the It is a… set of Unit Six is the first full sentences in the whole course — and reaches clause-joining in Grade 9, where relative clauses are taught as the way two sentences become one.
 
 **Ecuador added 2026-11-04** — 1 book stocks this lesson: **Book:** *English — Elementary Sublevel: Student Book for Curricular Transition*, Grade 2 (student's book) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-39-2. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Ecuador's sentence teaching is a single explicit page in the Grade 2 transition text: the definition, the three parts as a train, and three worked examples — the same page also states the capital-letter and full-stop rule filed in that lesson.
+
+**Saudi Arabia added 2026-11-04** — 2 books stock this lesson: **Book:** *We Can!* Student's Book 1, Term 1, Grade 1 (student's book) — Saudi Arabia, Ministry of Education adaptation of McGraw-Hill Education (authors Yoko Matsuka and Glenn McDougall), adaptation ©2025, no ISBN printed; **Book:** *Top Goal 1* Student's Book, Grade 4 — **Part 2 only as bound** (Workbook Part 2 bound in the same file) (student's book) — McGraw Hill (authors Nico Dantaz and Rachel Finnie), 2025 combo production, no ISBN printed in the held copy. Filed in english/books/saudi-arabia.md (6 in-hand books FULLY READ 2026-11-04; Books 1–5 citation-checked — 65 anchors: 33 passed, 28 corrected in place, 1 partially corrected, 3 not found; Book 6 settled by the coordinator's page-map, as its section discloses). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. Saudi sentences are built as frames: every *We Can!* unit practises complete model sentences in chants and short dialogues, and Grade 4's Part 2 builds bigger sentences on paper — verb + to-infinitive / verb + -ing patterns and relative-pronoun sentences ("This is the cat that …").

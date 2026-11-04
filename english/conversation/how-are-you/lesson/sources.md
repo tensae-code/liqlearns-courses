@@ -1,6 +1,6 @@
 # Sources for this lesson — How are you?
 
-countries: Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Ecuador
+countries: Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Ecuador, Saudi Arabia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -52,8 +52,9 @@ Libya (Garnet) · Books verified on disk 2026-10-25.
 | "How are you? — We are fine, thank you." opening the body unit's dialogue | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Unit Fourteen, printed p.128 |
 | "How are you?" as a speech bubble on the greetings worksheet's divider, beside "Hi!" | Ecuador — *English*, Preparatory Sublevel transition text, Grade 1 (MINEDUC, 2024), Worksheet 3, printed p.20 |
 | The feelings frame "How are you feeling? I am feeling…" over seven feeling cards — HAPPY, EXCITED, SAD, ANGRY, SCARED, SURPRISED, SHY — with the divider bubbles "I'm happy!", "How are you feeling?", "I'm sad…" | Ecuador — *English*, Preparatory Sublevel transition text, Grade 1 (MINEDUC, 2024), Worksheet 4, printed pp.24–25 |
-
-**Acceptance count: taught in 22 countries (Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Ecuador) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
+| "How are you? — I'm fine" taught in the opening greetings unit | Saudi Arabia, *We Can!* Student's Book 1, Term 1 (Grade 1), Unit 1 Hello!, printed p.1 |
+| Feelings words (happy, sad, hungry …) give the answer more words, with the song "I'm Happy!" | Saudi Arabia, *We Can!* Student's Book 1, Term 1 (Grade 1), Unit 9 Feelings, printed p.65 |
+**Acceptance count: taught in 23 countries (Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Ecuador, Saudi Arabia) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 China joins with the exchange itself in its first primary book
 (Grade 3 Volume 1) and deepens it three years later into feelings
 talk — "How do you feel?", "What's wrong?" (Grade 6 Volume 1).
@@ -335,3 +336,5 @@ is recorded for South Sudan, and none is claimed here.
 **Afghanistan added 2026-11-04** — 1 book stocks this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 4 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan teaches the exchange in its first book and re-runs it twice inside the same book — once in review and once with the plural answer "We are fine, thank you." Later books greet without the exchange, so the stock is Grade 4's alone.
 
 **Ecuador added 2026-11-04** — 1 book stocks this lesson, as a partial: **Book:** *English — Preparatory Sublevel: Student Book for Curricular Transition*, Grade 1 (student's book) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-38-5. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly as a partial: Ecuador carries the question through the feelings frame only. No "I'm fine" answer is taught to "How are you?" anywhere in the set — the book's one "I'm fine" is a mismatched reply printed against the age question (printed p.23, a defect in the book) — and Starship Pre A1.2 prints no "How are you?" at all, as its own negatives record.
+
+**Saudi Arabia added 2026-11-04** — 1 book stocks this lesson: **Book:** *We Can!* Student's Book 1, Term 1, Grade 1 (student's book) — Saudi Arabia, Ministry of Education adaptation of McGraw-Hill Education (authors Yoko Matsuka and Glenn McDougall), adaptation ©2025, no ISBN printed. Filed in english/books/saudi-arabia.md (6 in-hand books FULLY READ 2026-11-04; Books 1–5 citation-checked — 65 anchors: 33 passed, 28 corrected in place, 1 partially corrected, 3 not found; Book 6 settled by the coordinator's page-map, as its section discloses). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. Grade 1's opener teaches the exchange with its answer — "How are you? — I'm fine" — and the feelings unit later in the same book widens the answer's vocabulary (happy, sad, hungry).

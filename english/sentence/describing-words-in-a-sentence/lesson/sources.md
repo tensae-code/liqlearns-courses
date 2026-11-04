@@ -1,6 +1,6 @@
 # Sources — Describing words in a sentence
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia
 
 Every part traces to its book and page.
 
@@ -223,10 +223,11 @@ CITATION CHECK PASSED 2026-11-03).
 | Adjective-noun descriptions inside the present-continuous unit's Language summary - the course's earliest describing-words work | Yemen, *English Course for Yemen* Pupil's Book 1 (Grade 7), Unit 6, Language summary, printed p.43 |
 | Adjective + noun pairs worked inside sentences — ten adjectives matched to nouns about a painting, the worked line "The artist is mysterious," then: choose three adjective + noun pairs and write sentences | Ecuador — *English*, Elementary Sublevel transition text, Grade 2 (MINEDUC, 2024), Worksheet 5, printed p.34 |
 | The model sentence carrying two describing words in place — a big, red balloon in the sky | Ecuador — *English*, Elementary Sublevel transition text, Grade 2 (MINEDUC, 2024), Worksheet 5, printed p.33 |
-
-**Acceptance count: taught in 28 countries (Bangladesh,
+| Describing adjectives working inside frames — the big/small set over family members | Saudi Arabia, *We Can!* Student's Book 2, Term 1 (Grade 2), Unit 2 I Love My Family!, printed p.13 |
+| Comparatives and superlatives put describing words to work in full sentences — -er/more … than, the -est/most, good → better → best | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Unit 7 Wildlife, printed pp.82–93 |
+**Acceptance count: taught in 29 countries (Bangladesh,
 Egypt, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador).** Bangladesh pictures the before-home in
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia).** Bangladesh pictures the before-home in
 eight pairs; Mongolia names the describing law, writes the
 sense-verb home, and posts the comparing border — and its
 Grade 5 picture book now adds describing stock in pictures
@@ -324,3 +325,5 @@ Grade 11 (Student's Book, Unit 3, printed p.34).
 **Afghanistan added 2026-11-04** — 3 books stock this lesson: **Book:** *English for Afghanistan: Student's Book*, Grade 9 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 10 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 8 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan's describing centre is the fixed adjective order of Grade 9's inventions unit — size, length, shape, material, type — with Grade 10's article + adjective work and Grade 8's sentence-level comparison system beside it.
 
 **Ecuador added 2026-11-04** — 1 book stocks this lesson: **Book:** *English — Elementary Sublevel: Student Book for Curricular Transition*, Grade 2 (student's book) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-39-2. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Ecuador puts describing words to work in sentences on the second page of its Grade 2 adjectives worksheet: matching first, a worked sentence, then sentences of the pupil's own.
+
+**Saudi Arabia added 2026-11-04** — 2 books stock this lesson: **Book:** *We Can!* Student's Book 2, Term 1, Grade 2 (student's book) — Saudi Arabia, Ministry of Education adaptation of McGraw-Hill Education (authors Yoko Matsuka and Glenn McDougall), first published 2023, adaptation ©2025, no ISBN printed; **Book:** *Top Goal 1* Student's Book, Grade 4 — **Part 2 only as bound** (Workbook Part 2 bound in the same file) (student's book) — McGraw Hill (authors Nico Dantaz and Rachel Finnie), 2025 combo production, no ISBN printed in the held copy. Filed in english/books/saudi-arabia.md (6 in-hand books FULLY READ 2026-11-04; Books 1–5 citation-checked — 65 anchors: 33 passed, 28 corrected in place, 1 partially corrected, 3 not found; Book 6 settled by the coordinator's page-map, as its section discloses). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. In Saudi Arabia describing words work inside sentences from the start: Grade 2's frames describe family members (big/small), and Grade 4's comparatives-and-superlatives system puts describing words to work comparing people and animals in full sentences.

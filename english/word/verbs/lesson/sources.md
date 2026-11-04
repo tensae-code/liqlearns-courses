@@ -1,6 +1,6 @@
 # Sources — Verbs
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia
 
 Every part traces to its book and page.
 
@@ -207,9 +207,11 @@ english/books/jordan.md (Grade 10 Student's Book Semester 1 section, FULLY READ 
 | The course's first verb table: a present-and-past verb list (pray/prayed, come/came, go/went, run/ran, drive/drove, read/read, buy/bought, give/gave, see/saw, hear/heard, am/is-was, are-were, have/has-had, do/does-did) | Yemen, *English Course for Yemen* Pupil's Book 1 (Grade 7), Unit 8, printed p.53 |
 | Full verb-form tables - infinitive / past / past participle, regular verbs and two irregular groups - inside the present-perfect Language study | Yemen, *English Course for Yemen* Workbook 3 (Grade 9), Unit 3, Language study, printed pp.47-48 |
 | A full-page Irregular verbs table (about 100 verbs: base / past simple / past participle) closing the Grade 11 course body | Yemen, *English Course for Yemen* Pupil's Book 5 (Grade 11), printed p.40 |
-
-**Acceptance count: taught in 28 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan).**
+| Action verbs taught with can/can't for abilities — the "I Can Jump!" unit | Saudi Arabia, *We Can!* Student's Book 1, Term 1 (Grade 1), Unit 5 I Can Jump!, printed p.33 |
+| An Action Word List closes the book | Saudi Arabia, *We Can!* Student's Book 1, Term 1 (Grade 1), Action Word List, PDF p.107 (as filed in the country record) |
+| Verb + to-infinitive and verb + -ing charts — want/decide/forget + to …; love/hate/finish + -ing — the set's first named verb grammar | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Unit 5 Outdoor Fun, printed pp.60–61 |
+**Acceptance count: taught in 29 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia).**
 Bangladesh carries the formal definition;
 Libya the shortest one; Ghana the test and the smallest
 sentence shape; Egypt the review work and the he/she/it -s rule;
@@ -256,3 +258,5 @@ Armenia joined 2026-11-03: it carries the irregular-verb list as the verb system
 
 
 **Afghanistan added 2026-11-04** — 1 book stocks this lesson: **Book:** *English for Afghanistan: Student's Book*, Grade 12 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan's verb-as-a-kind teaching sits in its final book: Grade 12 opens by separating helping verbs (BE / DO / HAVE) from main verbs, and its universities unit teaches transitive against intransitive verbs as the limit on the passive. The tenses themselves live in their own lessons; what is stocked here is the verb classification the set actually prints.
+
+**Saudi Arabia added 2026-11-04** — 2 books stock this lesson: **Book:** *We Can!* Student's Book 1, Term 1, Grade 1 (student's book) — Saudi Arabia, Ministry of Education adaptation of McGraw-Hill Education (authors Yoko Matsuka and Glenn McDougall), adaptation ©2025, no ISBN printed; **Book:** *Top Goal 1* Student's Book, Grade 4 — **Part 2 only as bound** (Workbook Part 2 bound in the same file) (student's book) — McGraw Hill (authors Nico Dantaz and Rachel Finnie), 2025 combo production, no ISBN printed in the held copy. Filed in english/books/saudi-arabia.md (6 in-hand books FULLY READ 2026-11-04; Books 1–5 citation-checked — 65 anchors: 33 passed, 28 corrected in place, 1 partially corrected, 3 not found; Book 6 settled by the coordinator's page-map, as its section discloses). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. Grade 1's action unit teaches the action verbs with can/can't for abilities, and the book closes with an Action Word List; Grade 4 then names verb grammar for the first time in the set — verb + to-infinitive and verb + -ing charts.

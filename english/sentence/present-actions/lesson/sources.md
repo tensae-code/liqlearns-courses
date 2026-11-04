@@ -1,6 +1,6 @@
 # Sources — Present actions
 
-countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador
+countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia
 
 Every part traces to its book and page.
 
@@ -243,9 +243,13 @@ CITATION CHECK PASSED 2026-11-03).
 | Ten fill-in exercises in labelled sets — Simple Present, then Present Continuous, then mixed — whose answers require the full form (e.g. "is playing") | Ecuador — *English*, Elementary Sublevel transition text, Grade 2 (MINEDUC, 2024), Worksheet 3, printed p.24 |
 
 
-**Acceptance count: taught in 29 countries (Egypt, Ghana,
+| The present continuous lives in the home unit — "What's she doing? — She's cooking" | Saudi Arabia, *We Can!* Student's Book 1, Term 1 (Grade 1), Unit 11 Home Sweet Home, printed p.81 |
+| The present continuous taught as a panel — "What are you doing? — I'm reading" | Saudi Arabia, *We Can!* Student's Book 2, Term 1 (Grade 2), Unit 6 I Love the Park!, printed p.73 |
+| Present continuous reviewed in the seashore unit | Saudi Arabia, *We Can!* Student's Book 2, Term 3 (Grade 2), Unit 7 I Love the Seashore!, printed p.1 |
+| Present continuous -ing frames in use across Grade 3's later units | Saudi Arabia, *We Can!* Student's Book 3, full-year combo (Grade 3), Units 10–12 area (as filed in the country record) |
+**Acceptance count: taught in 30 countries (Egypt, Ghana,
 Libya, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador).** Egypt boxes the every-day face inside
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia).** Egypt boxes the every-day face inside
 routines; Mongolia tables the right-now face and its
 questions; Libya's reference names both faces' uses and
 posts the refusal list; Ghana names the simple present's
@@ -317,3 +321,5 @@ futures (Student's Book, Unit 1, printed pp.6–16).
 **Afghanistan added 2026-11-04** — 3 books stock this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 5 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 7 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 8 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan teaches the continuous early — models in Grade 5's second unit, its first paradigm table two units later — and completes the system in Grade 8 with questions and short answers. The simple present arrives as Grade 7 example sentences; its question forms are Grade 8's work and are filed there in the country file, not double-counted here.
 
 **Ecuador added 2026-11-04** — 1 book stocks this lesson: **Book:** *English — Elementary Sublevel: Student Book for Curricular Transition*, Grade 2 (student's book) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-39-2. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Ecuador teaches both faces of the present as one named contrast in its Grade 2 reading worksheet. Filed plainly: the Starship books are not cited — Pre A1.2 has no continuous forms at all, and A1.1 works present-simple frames without naming a tense system.
+
+**Saudi Arabia added 2026-11-04** — 4 books stock this lesson: **Book:** *We Can!* Student's Book 1, Term 1, Grade 1 (student's book) — Saudi Arabia, Ministry of Education adaptation of McGraw-Hill Education (authors Yoko Matsuka and Glenn McDougall), adaptation ©2025, no ISBN printed; **Book:** *We Can!* Student's Book 2, Term 1, Grade 2 (student's book) — Saudi Arabia, Ministry of Education adaptation of McGraw-Hill Education (authors Yoko Matsuka and Glenn McDougall), first published 2023, adaptation ©2025, no ISBN printed; **Book:** *We Can!* Student's Book 2, Term 3, Grade 2 (student's book) — Saudi Arabia, Ministry of Education, 2023–1445 printing, no ISBN printed; **Book:** *We Can!* Student's Book 3, full-year combo, Grade 3 (student's book) — Saudi Arabia, Ministry of Education, 2023–1445 printing, no ISBN printed. Filed in english/books/saudi-arabia.md (6 in-hand books FULLY READ 2026-11-04; Books 1–5 citation-checked — 65 anchors: 33 passed, 28 corrected in place, 1 partially corrected, 3 not found; Book 6 settled by the coordinator's page-map, as its section discloses). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. Present continuous is *We Can!*'s one named action system: it lives in Grade 1's home unit ("What's she doing? — She's cooking"), is taught as a panel in Grade 2 ("What are you doing? — I'm reading"), is reviewed at the seashore in Term 3, and runs in -ing frames through Grade 3. Filed plainly: Saudi Arabia teaches no past-tense system in these books, so nothing here is cited for past actions.

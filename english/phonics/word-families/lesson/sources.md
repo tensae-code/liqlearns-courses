@@ -1,6 +1,6 @@
 # Sources for this lesson — Word families
 
-countries: Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen, Ecuador
+countries: Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen, Ecuador, Saudi Arabia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -57,8 +57,9 @@ pictures).
 | The limit, stated plainly: Yemen pairs and matches rhyming words but never builds rime families - there is no -at/-en family work and no word-building from a shared ending anywhere in the 13 books | Yemen, the held set as filed in english/books/yemen.md (Workbook 1 and Work Book 2 sections) |
 | Rhyming families named as sets in the short-a work — an/ad/ap/at (ran/man/fan, had/sad/pad, tap/cap/map, mat/hat/fat) | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Unit 1 Phonics, printed pp.16–17 |
 | Families for the other short vowels — et/en/ed/end (wet/pet/net, pen/hen/ten, red/bed/fed, send/bend/lend); ig/it/in/ink; od/op/ot/ock; ut/ug/un/ump | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Units 2–5 Phonics, printed pp.34–35, 54–55, 72–73, 92–93 |
-
-**Acceptance count: taught in 13 countries (Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen, Ecuador).**
+| Silent *e* taught as a word pattern — the make/made contrast and a silent-e chant, covering the a_e pattern family | Saudi Arabia, *We Can!* Student's Book 3, full-year combo (Grade 3), Phonics 4, printed p.24 |
+| R-controlled vowel patterns ar/er/ir/or/ur reviewed as pattern sets in Grade 2's desert unit | Saudi Arabia, *We Can!* Student's Book 2, Term 3 (Grade 2), Unit 12 I Love the Desert!, printed p.41 |
+**Acceptance count: taught in 14 countries (Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen, Ecuador, Saudi Arabia).**
 China adds a complete short-vowel cycle inside one volume —
 one Let's spell set per vowel, reviewed as a whole system
 (Grade 3 Volume 2) — the silent-e ladder that turns those
@@ -326,3 +327,5 @@ filed.
 **Afghanistan checked 2026-11-04 — not stocked.** No rime or onset word families are taught anywhere in the nine books. Grade 9's plural spelling rules (Unit 15, Lesson 4 — add -s; -es after x/ss/s/sh/ch; consonant + y → -ies; f(e) → -ves) are plural formation, not word families, and Grade 4's spelling work is letter-naming. Nothing is stocked.
 
 **Ecuador added 2026-11-04** — 1 book stocks this lesson: **Book:** *Starship English, Level Pre A1.2* (Student Book + Activity Book bound in one volume; the Grade 3 file) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95198-3, first printing 2016. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Ecuador teaches rime families outright in the Starship Pre A1.2 phonics strand — a named family set inside every short-vowel spread.
+
+**Saudi Arabia added 2026-11-04** — 2 books stock this lesson, as a partial: **Book:** *We Can!* Student's Book 3, full-year combo, Grade 3 (student's book) — Saudi Arabia, Ministry of Education, 2023–1445 printing, no ISBN printed; **Book:** *We Can!* Student's Book 2, Term 3, Grade 2 (student's book) — Saudi Arabia, Ministry of Education, 2023–1445 printing, no ISBN printed. Filed in english/books/saudi-arabia.md (6 in-hand books FULLY READ 2026-11-04; Books 1–5 citation-checked — 65 anchors: 33 passed, 28 corrected in place, 1 partially corrected, 3 not found; Book 6 settled by the coordinator's page-map, as its section discloses). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. Filed plainly as a partial: Saudi phonics teaches word patterns as families — the silent-e family in Grade 3's Phonics 4 (the make/made contrast with its chant) and the long-vowel and ar/er/ir/or/ur patterns across the ladder — but no rime-family (-at, -en) teaching is filed in the set.

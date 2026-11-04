@@ -1,6 +1,6 @@
 # Sources for this lesson — Two-letter sounds
 
-countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador
+countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The two-letter sets lived inside the alphabet
@@ -101,8 +101,12 @@ single letters.
 | Long a spelled ai and ay — rain, mail, tail, paint; bay, day, play, subway | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Unit 1 Phonics, printed pp.20–23 |
 | Long e spelled ee, ea and ey/y — feet, green, bee, tree; beans, team, meat, read; monkey, money, happy, candy | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Unit 2 Phonics, printed pp.36–41 |
 | Long i spelled igh and ie/y; long o spelled oa and ow; long u spelled ue and ui | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Units 3–5 Phonics, printed pp.58–61, 76–79, 96–99 |
-
-**Acceptance count: taught in 25 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador).**
+| Digraphs ch and sh open the Term 3 phonics ladder, in the seashore unit | Saudi Arabia, *We Can!* Student's Book 2, Term 3 (Grade 2), Unit 7 I Love the Seashore!, printed p.1 |
+| Digraph th, both sounds, in the air unit | Saudi Arabia, *We Can!* Student's Book 2, Term 3 (Grade 2), Unit 8 I Love the Air!, printed p.9 |
+| Digraphs ph and wh in the rain unit | Saudi Arabia, *We Can!* Student's Book 2, Term 3 (Grade 2), Unit 9 I Love the Rain!, printed p.17 |
+| Digraphs ng and nk in the snow unit | Saudi Arabia, *We Can!* Student's Book 2, Term 3 (Grade 2), Unit 10 I Love the Snow!, printed p.25 |
+| Digraph phonics already underway in Grade 1's pet-animals unit | Saudi Arabia, *We Can!* Student's Book 1, Term 1 (Grade 1), Unit 8 Pet Animals, printed p.57 |
+**Acceptance count: taught in 26 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia).**
 China adds the first r-controlled-vowel ladder taught as a named
 system (Grade 4 Volume 2), a run of one-pair-per-page Let's spell
 lessons across Grades 5–6 (ea/ee, ow/ou, oo, ch/sh, th, ng/nk,
@@ -552,3 +556,5 @@ thing and live in phonics/blends.)
 **Afghanistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 6 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 9 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan stocks this lesson in part only, and the part is filed plainly: the set has no two-letter-sound system and no digraph programme. What it does teach is the th pair's two sounds, stated as a rule inside a Grade 6 pronunciation dialogue, and sh/ch minimal pairs inside Grade 9's phonics lesson. The rest of Afghanistan's phonics — vowel rules, blends, diphthongs, the schwa — lives in the blends lesson and the country file, not here.
 
 **Ecuador added 2026-11-04** — 1 book stocks this lesson, as a partial: **Book:** *Starship English, Level Pre A1.2* (Student Book + Activity Book bound in one volume; the Grade 3 file) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95198-3, first printing 2016. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly as a partial: Ecuador's two-letter-sound stock is the Starship Pre A1.2 vowel teams — every long vowel is taught through its two-letter spellings — but no consonant digraph (sh, ch, th, wh) is taught anywhere in the set; the A1.1 book's phonics is blends, filed in that lesson.
+
+**Saudi Arabia added 2026-11-04** — 2 books stock this lesson: **Book:** *We Can!* Student's Book 2, Term 3, Grade 2 (student's book) — Saudi Arabia, Ministry of Education, 2023–1445 printing, no ISBN printed; **Book:** *We Can!* Student's Book 1, Term 1, Grade 1 (student's book) — Saudi Arabia, Ministry of Education adaptation of McGraw-Hill Education (authors Yoko Matsuka and Glenn McDougall), adaptation ©2025, no ISBN printed. Filed in english/books/saudi-arabia.md (6 in-hand books FULLY READ 2026-11-04; Books 1–5 citation-checked — 65 anchors: 33 passed, 28 corrected in place, 1 partially corrected, 3 not found; Book 6 settled by the coordinator's page-map, as its section discloses). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. The digraphs are the second half of the *We Can!* ladder, taught in Grade 2's Term 3 book a unit at a time — ch/sh, th, ph/wh, ng/nk — after digraph work begins in Grade 1's pet-animals unit. The same book's last unit also reviews the r-controlled vowels ar/er/ir/or/ur.

@@ -1,6 +1,6 @@
 # Sources — Going to: later
 
-countries: Bolivia, Ghana, Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Bolivia, Ghana, Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia
 
 Every part traces to its book and page.
 
@@ -226,9 +226,9 @@ CITATION CHECK PASSED 2026-11-03).
 | 'Four ways of talking about the future' in one review table: will, present continuous, going to, present simple | Yemen, *English Course for Yemen* Pupil's Book 3 (Grade 9), Language review 3, printed p.34 |
 | Will/won't for the future first presented in telephone messages ('won't be ... until ...') - Grade 8's only future form besides shall in suggestions | Yemen, *English Course for Yemen* Pupil's Book 2 (Grade 8), Unit 4, printed p.33 |
 | Grade 10's tense review for the future: will, going to, present continuous for arrangements | Yemen, *English Course for Yemen* Pupil's Book 4 (Grade 10), Language review 3, printed p.34 |
-
-**Acceptance count: taught in 26 countries (Bolivia, Ghana,
-Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan).** Bolivia tables going to whole and names its
+| be going to for the future — chart plus practice in the weather unit | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Unit 8 Weather, printed pp.94–105 |
+**Acceptance count: taught in 27 countries (Bolivia, Ghana,
+Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia).** Bolivia tables going to whole and names its
 jobs; Mongolia boxes the will neighbour; Ghana keeps the
 scheduled present as the third future; China adds be going
 to as a full system with its time words, will worked for
@@ -315,3 +315,5 @@ box — *be going to* for plans, *will* for certainties
 
 
 **Afghanistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English for Afghanistan: Student's Book*, Grade 9 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 10 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan builds its future in Grade 9 — going to and the present-continuous future first, will a unit later — and diagrams the whole will/going-to system on timelines in Grade 10. Primary books use "I'm going to go…" in dialogues without teaching it; nothing is stocked from them.
+
+**Saudi Arabia added 2026-11-04** — 1 book stocks this lesson: **Book:** *Top Goal 1* Student's Book, Grade 4 — **Part 2 only as bound** (Workbook Part 2 bound in the same file) (student's book) — McGraw Hill (authors Nico Dantaz and Rachel Finnie), 2025 combo production, no ISBN printed in the held copy. Filed in english/books/saudi-arabia.md (6 in-hand books FULLY READ 2026-11-04; Books 1–5 citation-checked — 65 anchors: 33 passed, 28 corrected in place, 1 partially corrected, 3 not found; Book 6 settled by the coordinator's page-map, as its section discloses). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. Saudi Arabia's future form in hand is Grade 4's: *Top Goal 1* Part 2 teaches be going to with a chart and practice in its weather unit. Cited as Part 2 only — Part 1 is not in hand, and no *We Can!* book teaches a future form.

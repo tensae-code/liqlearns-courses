@@ -1,6 +1,6 @@
 # Sources — Nouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia
 
 Every part traces to its book and page.
 
@@ -234,9 +234,11 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Nouns taught as a word class in a 'Language study' box on nouns and adjectives - the workbook, not the pupil's book, carries the course's explicit grammar presentation at this level | Yemen, *English Course for Yemen* Workbook 3 (Grade 9), Unit 2, Language study (nouns and adjectives) (Unit 2, printed pp.18-34) |
 | Count and non-count nouns worked as a difference exercise in the revision unit | Yemen, *English Course for Yemen* Workbook 3 (Grade 9), Unit 1 (printed pp.1-17) |
 | Nouns inside the parts-of-speech review: words that change class (water, up, well) and noun + preposition patterns (training in, experience of) | Yemen, *English Course for Yemen* Pupil's Book 6 (Grade 12), Language review 8, printed p.31; Language review 6, printed p.23 |
-
-**Acceptance count: taught in 28 countries (Bangladesh, Egypt,
-Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan).**
+| Themed noun sets with a Picture Dictionary carrying sight words per unit | Saudi Arabia, *We Can!* Student's Book 1, Term 1 (Grade 1), Picture Dictionary, printed pp.91–104 |
+| Plurals with -s practised inside frames across the year (with this/these and have/has) | Saudi Arabia, *We Can!* Student's Book 3, full-year combo (Grade 3), frames across Units 1–12 (filed in the country record's series summary; no single page pinned) |
+| A concrete nature noun set opens Grade 4's outdoor unit — mountain, lake, island, desert, hill, cave, forest, field, countryside, waterfall | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Unit 5 Outdoor Fun, printed pp.58–69 |
+**Acceptance count: taught in 29 countries (Bangladesh, Egypt,
+Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia).**
 Egypt and Bangladesh carry the definition itself,
 each in the three-sort form; Libya carries it twice more in its
 own shorter words; Ghana carries the sentence test; China
@@ -291,3 +293,5 @@ pp.99–108).
 
 
 **Afghanistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 4 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 7 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan's noun work starts with plurals: Grade 4 teaches pluralising as a named objective with the regular and irregular sets in sentence pairs, Grade 7 re-teaches singular/plural with a grammar summary, and its food unit sorts countable from uncountable nouns. No book states a person/place/thing definition of the noun; the stock is the plurals and the countable split, filed as taught.
+
+**Saudi Arabia added 2026-11-04** — 3 books stock this lesson, as a partial: **Book:** *We Can!* Student's Book 1, Term 1, Grade 1 (student's book) — Saudi Arabia, Ministry of Education adaptation of McGraw-Hill Education (authors Yoko Matsuka and Glenn McDougall), adaptation ©2025, no ISBN printed; **Book:** *We Can!* Student's Book 3, full-year combo, Grade 3 (student's book) — Saudi Arabia, Ministry of Education, 2023–1445 printing, no ISBN printed; **Book:** *Top Goal 1* Student's Book, Grade 4 — **Part 2 only as bound** (Workbook Part 2 bound in the same file) (student's book) — McGraw Hill (authors Nico Dantaz and Rachel Finnie), 2025 combo production, no ISBN printed in the held copy. Filed in english/books/saudi-arabia.md (6 in-hand books FULLY READ 2026-11-04; Books 1–5 citation-checked — 65 anchors: 33 passed, 28 corrected in place, 1 partially corrected, 3 not found; Book 6 settled by the coordinator's page-map, as its section discloses). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. Filed plainly as a partial: *We Can!* teaches its nouns as themed sets with a Picture Dictionary in every book, and noun grammar lives inside frames — plurals with -s practised across Grade 3's year; Grade 4's nature unit opens with a concrete noun set. No Saudi book in hand names "noun" as a word kind — the stock is vocabulary sets plus plural frames.

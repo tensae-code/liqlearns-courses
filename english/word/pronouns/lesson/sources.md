@@ -1,6 +1,6 @@
 # Sources — Pronouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia
 
 Every part traces to its book and page.
 
@@ -244,9 +244,11 @@ english/books/jordan.md (Grade 7 Pupil's Book Semester 1 section, FULLY READ + C
 | Pronoun reference taught as a reading skill: two narratives where the pupil traces what pronouns and possessives refer to | Yemen, *English Course for Yemen* Pupil's Book 2 (Grade 8), Unit 6, printed pp.63-64 |
 | Possessive pronouns (mine, yours, his, hers, ours, theirs) presented through a 'Whose is it?' market dialogue | Yemen, *English Course for Yemen* Pupil's Book 2 (Grade 8), Unit 5, printed p.53 |
 | Reflexive pronouns taught in the safety unit's review (with 'You'll cut yourself', 'You'll poison yourself' warnings in use from printed p.35) | Yemen, *English Course for Yemen* Pupil's Book 3 (Grade 9), Language review 4, printed p.45 |
-
-**Acceptance count: taught in 26 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan).** Egypt
+| Relative pronouns that/who taught as named grammar — "This is the cat that …" | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Unit 7 Wildlife, printed pp.82–93 |
+| Indefinite pronouns/compounds — the something/anything/everywhere set — in Word Work | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Unit 6 House Accidents, printed pp.70–81 |
+| this/these practised inside frames across Grade 3's year | Saudi Arabia, *We Can!* Student's Book 3, full-year combo (Grade 3), frames across Units 1–12 (filed in the country record's series summary; no single page pinned) |
+**Acceptance count: taught in 27 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia).** Egypt
 carries the seven words with the
 plainest definitions any book gives them, and the first
 whose-box; Bangladesh carries the formal definition; Libya
@@ -292,3 +294,5 @@ Armenia joined 2026-11-03: it carries subject pronouns revised with this/that/th
 
 
 **Afghanistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 5 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 7 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan prints the pronoun table in Grade 7's family unit — subject pronouns and possessive adjectives side by side — and completes the set in its clothes unit, where whose-questions run off the full adjective/pronoun table. Grade 5 shows the subject pronouns a year earlier inside its present-simple columns.
+
+**Saudi Arabia added 2026-11-04** — 2 books stock this lesson, as a partial: **Book:** *Top Goal 1* Student's Book, Grade 4 — **Part 2 only as bound** (Workbook Part 2 bound in the same file) (student's book) — McGraw Hill (authors Nico Dantaz and Rachel Finnie), 2025 combo production, no ISBN printed in the held copy; **Book:** *We Can!* Student's Book 3, full-year combo, Grade 3 (student's book) — Saudi Arabia, Ministry of Education, 2023–1445 printing, no ISBN printed. Filed in english/books/saudi-arabia.md (6 in-hand books FULLY READ 2026-11-04; Books 1–5 citation-checked — 65 anchors: 33 passed, 28 corrected in place, 1 partially corrected, 3 not found; Book 6 settled by the coordinator's page-map, as its section discloses). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. Filed plainly as a partial: Grade 4's Part 2 teaches two pronoun families as named grammar — relative pronouns that/who and the indefinite compounds something/anything/everywhere — and this/these are practised in Grade 3's frames, but the personal pronouns are never presented as a set anywhere in the six books; they live inside dialogue frames only.

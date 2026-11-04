@@ -1,6 +1,6 @@
 # Sources for this lesson — Introducing a friend
 
-countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador
+countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -72,7 +72,9 @@ The same dialog also carries the age exchange and the toy-fish
 talk — those parts are filed in their own places (age: english/age/
 how-old-are-you), not here.
 
-**Acceptance count: taught in 25 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador).**
+| "This is my …" frames present each family member — the introducing frame taught on family | Saudi Arabia, *We Can!* Student's Book 1, Term 1 (Grade 1), Unit 7 Family, printed p.49 |
+| Introductions extended in Grade 3's opener, "Nice to Meet You!" | Saudi Arabia, *We Can!* Student's Book 3, full-year combo (Grade 3), Unit 1 Nice to Meet You! (unit; printed page not pinned in the country filing) |
+**Acceptance count: taught in 26 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia).**
 Egypt carries introducing the family — "This is my father /
 mother / sister …" with the "Who's this?" exchange, and a year
 deeper the whole family lineup with my / his / her on family
@@ -469,3 +471,5 @@ filed South Sudan read, and none is claimed here.
 **Afghanistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 6 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 7 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan teaches introducing another person outright in Grade 6: the nationality unit's closing task is a role-play in which the pupil introduces a relative or friend and then swaps roles. Grade 7's family unit carries the meeting side of the same ground in its "Glad to meet you" introductions conversation.
 
 **Ecuador added 2026-11-04** — 2 books stock this lesson: **Book:** *Starship English, Level Pre A1.2* (Student Book + Activity Book bound in one volume; the Grade 3 file) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95198-3, first printing 2016. **Book:** *Starship English, Level A1.1 (Children)* (Student Book + Activity Book bound in one volume; the Grade 4 file — the book itself prints only the level, no grades) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95199-0, held copy fifth printing 2018. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Ecuador introduces others from its first coursebook: Starship Pre A1.2 names introducing others among its opener's functions and runs it through the family unit, and the A1.1 book carries the same third-person frames into the school cast.
+
+**Saudi Arabia added 2026-11-04** — 2 books stock this lesson, as a partial: **Book:** *We Can!* Student's Book 1, Term 1, Grade 1 (student's book) — Saudi Arabia, Ministry of Education adaptation of McGraw-Hill Education (authors Yoko Matsuka and Glenn McDougall), adaptation ©2025, no ISBN printed; **Book:** *We Can!* Student's Book 3, full-year combo, Grade 3 (student's book) — Saudi Arabia, Ministry of Education, 2023–1445 printing, no ISBN printed. Filed in english/books/saudi-arabia.md (6 in-hand books FULLY READ 2026-11-04; Books 1–5 citation-checked — 65 anchors: 33 passed, 28 corrected in place, 1 partially corrected, 3 not found; Book 6 settled by the coordinator's page-map, as its section discloses). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. Filed plainly as a partial: the introducing frame itself is taught — "This is my …" presents each family member in Grade 1, and Grade 3's opener extends introductions — but the person introduced in the filed pages is a family member, never a friend.

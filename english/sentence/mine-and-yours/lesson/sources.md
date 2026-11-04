@@ -1,6 +1,6 @@
 # Sources — Mine and yours
 
-countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador
+countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia
 
 Every part traces to its book and page.
 
@@ -157,7 +157,10 @@ CITATION CHECK PASSED 2026-11-03).
 | Possessives his/her in the school opener — "What's his/her name?", "He's our librarian / She's our nurse" | Ecuador — *Starship English*, Level A1.1 (Children) (Grade 4 file), Student Book, Unit 1, printed p.4 |
 
 
-**Acceptance count: taught in 24 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador).**
+| Possessive adjectives in the opening frames — "What's your name? — My name's …" | Saudi Arabia, *We Can!* Student's Book 1, Term 1 (Grade 1), Unit 1 Hello!, printed p.1 |
+| "This is my …" possessive frames over family members | Saudi Arabia, *We Can!* Student's Book 1, Term 1 (Grade 1), Unit 7 Family, printed p.49 |
+| Possessive 's practised inside frames across Grade 3's year | Saudi Arabia, *We Can!* Student's Book 3, full-year combo (Grade 3), frames across Units 1–12 (filed in the country record's series summary; no single page pinned) |
+**Acceptance count: taught in 25 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia).**
 Mongolia's "That's Mine" unit carries the whole lesson —
 the 's box, the whose matching, the three-rung box, the
 game; Egypt's youngest books hold the partner forms from
@@ -219,3 +222,5 @@ irregular plurals (p.47), and a pronoun → possessive adjective
 **Afghanistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 4 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 7 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan meets the possessives first as Grade 4 paired models (my/his/her/your/their over things pupils have) and teaches the full adjective/pronoun table — the mine-and-yours forms themselves — in Grade 7's clothes unit, under whose-questions.
 
 **Ecuador added 2026-11-04** — 2 books stock this lesson, as a partial: **Book:** *Starship English, Level Pre A1.2* (Student Book + Activity Book bound in one volume; the Grade 3 file) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95198-3, first printing 2016. **Book:** *Starship English, Level A1.1 (Children)* (Student Book + Activity Book bound in one volume; the Grade 4 file — the book itself prints only the level, no grades) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95199-0, held copy fifth printing 2018. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly as a partial: Ecuador teaches the possessive adjectives my, your, his, her in both Starship openers, but the possessive pronouns mine and yours are never taught anywhere in the set.
+
+**Saudi Arabia added 2026-11-04** — 2 books stock this lesson, as a partial: **Book:** *We Can!* Student's Book 1, Term 1, Grade 1 (student's book) — Saudi Arabia, Ministry of Education adaptation of McGraw-Hill Education (authors Yoko Matsuka and Glenn McDougall), adaptation ©2025, no ISBN printed; **Book:** *We Can!* Student's Book 3, full-year combo, Grade 3 (student's book) — Saudi Arabia, Ministry of Education, 2023–1445 printing, no ISBN printed. Filed in english/books/saudi-arabia.md (6 in-hand books FULLY READ 2026-11-04; Books 1–5 citation-checked — 65 anchors: 33 passed, 28 corrected in place, 1 partially corrected, 3 not found; Book 6 settled by the coordinator's page-map, as its section discloses). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. Filed plainly as a partial: the possessive adjectives are everywhere in the frames — "What's your name? — My name's …", "This is my …" for family — and possessive 's is practised in Grade 3's frames, but the possessive pronouns mine and yours are never taught in any of the six books.
