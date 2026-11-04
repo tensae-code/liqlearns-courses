@@ -1,6 +1,6 @@
 # Sources — Mine and yours
 
-countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela
+countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania
 
 Every part traces to its book and page.
 
@@ -97,6 +97,8 @@ CITATION CHECK PASSED 2026-11-03).
 
 **Book 30:** *My Victory — Guía para el docente*, 2do año (Teacher's Book, Grade 8) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-03-1. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only.
 
+**Book 31:** *Akelius A2 Level — A Practical Guide for English Language Teachers* (teacher's guide) — Albania, UNICEF Albania / ASCAP, 2025; no ISBN printed. Filed in english/books/albania.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-guide evidence for a digital course: it prints the Akelius A2 course's chapter vocabulary lists, "Language structures" example sets and worksheets; no student's book is held and no platform lesson is reproduced.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 4 "That's Mine" — its objectives seat the genitive 's, possessive adjectives, and possessive pronouns as one ownership unit | Mongolia, English VI, Unit 4 (opens p.41) |
@@ -167,7 +169,8 @@ CITATION CHECK PASSED 2026-11-03).
 | Possessive 's for people — Lucy's, the boy's book, the girls' desk, the boys' books — under “Whose pen is red?” | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 7, printed p.62 |
 | “It's mine” — possessive pronouns mine, his, hers, yours set against my, his, her, your | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 7, printed p.63 |
 | The whole possessive paradigm printed in one lesson — possessive pronouns (mine, yours, his, hers, ours, theirs) beside the possessive adjectives (my … their), the possessive *'s* (John's), and *whose*, with IPA transcriptions printed for yours, mine and whose | Venezuela, *My Victory* Teacher's Book 2 (Grade 8), Lesson 20, guide printed pp.123–130 |
-**Acceptance count: taught in 27 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela).**
+| Possessive adjectives named as a revision focus — the body chapter's grammar focus closes with "revision of possessive adjectives"; no mine/yours pronoun forms and no possessive example sentences are printed in the guide, and none are claimed here | Albania, *Akelius A2 Level* teacher's guide, Chapter 31 overview, printed p.10 |
+**Acceptance count: taught in 28 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania).**
 Mongolia's "That's Mine" unit carries the whole lesson —
 the 's box, the whose matching, the three-rung box, the
 game; Egypt's youngest books hold the partner forms from
@@ -236,3 +239,5 @@ irregular plurals (p.47), and a pronoun → possessive adjective
 **Uzbekistan added 2026-11-04** — 1 book stocks this lesson: **Book:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Mine and yours are taught directly in Fly High 5's classroom unit, one lesson apart: possessive 's answers Whose? first, then the possessive pronouns are set against the possessive adjectives in a single lesson whose title is the pattern itself — “It's mine”. This is read teaching, not mapped coverage. The other five recorded Uzbekistan English books are link-only and are not cited anywhere; no teacher's book exists in Uzbekistan's English record and none is cited; and the Russian Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is cited nowhere.
 
 **Venezuela added 2026-11-04** — 1 book stocks this lesson: **Book:** *My Victory — Guía para el docente*, 2do año (Teacher's Book, Grade 8) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-03-1. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly: Venezuela's set is five Teacher's Books only — no student's book is held, the guides key the 2013 MPPE student editions by page and reproduce no student lesson in full, so the Venezuela row here is teacher's-book evidence, worded as such. The stock is the complete paradigm printed in Grade 8's Lesson 20 — possessive pronouns, possessive adjectives, possessive *'s* and *whose* in one set, with IPA for yours, mine and whose; Grade 7's possessive adjectives and possessive *'s* (Lessons 4, 6, 15) are filed under the pronouns lesson, since this guide's own paradigm lesson is the Grade 8 one.
+
+**Albania added 2026-11-04** — 1 book stocks this lesson: **Book:** *Akelius A2 Level — A Practical Guide for English Language Teachers* (teacher's guide) — Albania, UNICEF Albania / ASCAP, 2025, prepared by Anila Ziu and Nevila Serjani, no ISBN printed. Filed in english/books/albania.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly: Albania's record holds this one teacher's guide only — it serves the Akelius digital platform's A2 course (Chapters 31–40); there is no printed student's book, and the platform's lessons, readings, songs and games are named in the guide but never reproduced, so every Albania row here rests on what the guide itself prints — the chapter vocabulary lists, the "Language structures" example sets, the sample plans' stated content and the printed worksheets — and is worded as teacher's-guide evidence for a digital course. Filed as a partial — the thinnest stock in this merge: possessive adjectives are named as a revision focus in Chapter 31's overview (printed p.10), and that naming is all the guide prints; no mine/yours forms and no possessive example sentences appear anywhere in it, and none are claimed.

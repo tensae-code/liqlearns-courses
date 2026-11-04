@@ -1,6 +1,6 @@
 # Sources — Joining with and and but
 
-countries: Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela
+countries: Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Albania
 
 Every part traces to its book and page.
 
@@ -109,6 +109,8 @@ CITATION CHECK PASSED 2026-11-03).
 
 **Book 41:** *My Victory — Guía para el docente*, 4to año (Teacher's Book, Grade 10) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-05-5. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only.
 
+**Book 42:** *Akelius A2 Level — A Practical Guide for English Language Teachers* (teacher's guide) — Albania, UNICEF Albania / ASCAP, 2025; no ISBN printed. Filed in english/books/albania.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-guide evidence for a digital course: it prints the Akelius A2 course's chapter vocabulary lists, "Language structures" example sets and worksheets; no student's book is held and no platform lesson is reproduced.
+
 | Lesson part | Where it comes from |
 |---|---|
 | COMPOUND SENTENCES open (B3.5.9.1): "join simple sentences with the coordinating conjunction AND — 'The boy woke up' + 'The boy prayed' → 'The boy woke up and prayed' — then AND and BUT in groups" | Ghana, NaCCA B1–B3 curriculum, Basic 3, Strand 5 |
@@ -185,9 +187,12 @@ CITATION CHECK PASSED 2026-11-03).
 | Likes contrasted with but — “I like cooking but Rano doesn't” | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 9, printed p.81 |
 | Connectors sorted by what they do — Lesson 5's plan prints the conjunctions and connectors by function with examples: addition, contrast (*but* among them), result (*as a result, so*) and purpose, inside the cause-and-effect lesson | Venezuela, *My Victory* Teacher's Book 4 (Grade 10), Lesson 5, guide printed pp.30–35 |
 | *But* and *and* themselves printed as lesson vocabulary, beside *however* — Lesson 4's word list carries conjunctions (but, and, however) | Venezuela, *My Victory* Teacher's Book 4 (Grade 10), Lesson 4, guide printed pp.22–29 |
+| The conjunction family as a named grammar focus, each glossed by function — and, but, so, because, or — with the chapter's outcomes: identify and use the conjunctions in simple and compound sentences; combine short sentences into compound sentences | Albania, *Akelius A2 Level* teacher's guide, Chapter 34 "Making an appointment" overview, printed p.27 |
+| The conjunctions at work in the chapter's printed example set — a full run of and / but / so / because / or sentences beside its that-clause examples | Albania, *Akelius A2 Level* teacher's guide, Chapter 34 overview ("Language structures"), printed pp.27–28 |
+| Conjunctions again as the feelings chapter's plan-level language elements — "Conjunctions (but, so, and)" — its outcomes comparing and contrasting feelings with but, so, because, and, or | Albania, *Akelius A2 Level* teacher's guide, Chapter 36 overview, printed p.38; sample plan, printed pp.40–41 |
 
 
-**Acceptance count: taught in 27 countries (Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela).**
+**Acceptance count: taught in 28 countries (Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Albania).**
 Ghana opens the compound sentence with AND, seats BUT
 beside it, lists the four coordinators, and widens the
 family in its own order; Bolivia posts the but/however
@@ -256,3 +261,5 @@ but, or"** (Activity Book, Unit 1, printed p.20).
 **Uzbekistan added 2026-11-04** — 1 book stocks this lesson, as a partial: **Book:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly as a partial — the but half only: Fly High 5 joins contrasted likes with but in its hobbies unit, and that is the one coordinator joining taught in the set. No and-joining lesson is filed in any held Uzbekistan book, and English Matters 8's contents word “conjunctions” (Unit 9) names no conjunction and is not counted. The other five recorded Uzbekistan English books are link-only and are not cited anywhere; no teacher's book exists in Uzbekistan's English record and none is cited; and the Russian Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is cited nowhere.
 
 **Venezuela added 2026-11-04** — 1 book stocks this lesson, as a PARTIAL: **Book:** *My Victory — Guía para el docente*, 4to año (Teacher's Book, Grade 10) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-05-5. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly: Venezuela's set is five Teacher's Books only — no student's book is held, the guides key the 2013 MPPE student editions by page and reproduce no student lesson in full, so every Venezuela row here is teacher's-book evidence, worded as such. PARTIAL, stated exactly: the Grade 10 guide presents the joining words themselves — *but, and, however* as printed vocabulary and the connectors sorted by function with examples (*but* for contrast, *also* for addition, *as a result / so* for result) — but no worked compound-sentence joining is printed in any guide; at the other levels *and*/*but* occur only inside set phrases and answers, which does not stock.
+
+**Albania added 2026-11-04** — 1 book stocks this lesson: **Book:** *Akelius A2 Level — A Practical Guide for English Language Teachers* (teacher's guide) — Albania, UNICEF Albania / ASCAP, 2025, prepared by Anila Ziu and Nevila Serjani, no ISBN printed. Filed in english/books/albania.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly: Albania's record holds this one teacher's guide only — it serves the Akelius digital platform's A2 course (Chapters 31–40); there is no printed student's book, and the platform's lessons, readings, songs and games are named in the guide but never reproduced, so every Albania row here rests on what the guide itself prints — the chapter vocabulary lists, the "Language structures" example sets, the sample plans' stated content and the printed worksheets — and is worded as teacher's-guide evidence for a digital course. The stock is Chapter 34's named conjunction focus and example set, with Chapter 36's plan-level conjunctions beside it.
