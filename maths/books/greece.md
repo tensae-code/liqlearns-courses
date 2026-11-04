@@ -325,8 +325,8 @@ ch. 25–32).
 - Unit 3 (printed 47–62): Numbers to 20 — sums to 10 — coins.
   Ch. 17 The numbers 10 to 20 (counting, reading, writing); ch. 18
   Sums to 10 and the commutative property of addition; ch. 19 Ordinal
-  numbers and doubles (taught with a block-of-flats lift game: first,
-  second … tenth); ch. 20 Coins to 10 (a classroom supermarket for
+  numbers and doubles (a block-of-flats floor-finding task — find and mark each floor, first,
+  second … tenth; the chapter is introduced as a lift game); ch. 20 Coins to 10 (a classroom supermarket for
   buying, selling and giving change); ch. 21 Additive analysis of
   numbers 6 to 10 (a kangaroo game); ch. 22 Problems; ch. 23 revision
   lesson; then the 1st assessment criterion.
@@ -334,8 +334,8 @@ ch. 25–32).
   Ch. 25 The numbers to 50; ch. 26 Drawing lines (with ruler or free
   hand); ch. 27 Patterns (everyday examples, including the rhythmic,
   repeating sound of a train); ch. 28 Subtraction with a small
-  subtrahend (through the tale of the goat and the seven kids);
-  ch. 29 Distinguishing the symbols + and −; ch. 30 Subtraction with
+  subtrahend (apples/birds tasks);
+  ch. 29 Distinguishing the symbols + and − (through the tale of the goat and the seven kids); ch. 30 Subtraction with
   a large subtrahend; ch. 31 The complement (the harder subtraction
   form, e.g. finding what must be added to reach the total);
   ch. 32 revision lesson. Teuxos A ends here; the copyright notice is
@@ -371,13 +371,12 @@ ch. 45–64). Printed pages below are the primary (pdf-web) edition.
 - Unit 5 (printed 11–24): Numbers to 50, units and tens — squared
   paper. Ch. 33 Organising collections — numbers to 50 (abacus, dice,
   coins and other materials that show numbers in organised ten- and
-  five-based structures); ch. 34 Units and tens (I); ch. 35 Sums with
+  five-based structures; the cashier game here exchanges ten green counters for one red); ch. 34 Units and tens (I); ch. 35 Sums with
   many terms (the "target number" classroom game); ch. 36 Movement on
   squared paper (the theatre game); ch. 37 Problems; ch. 38 revision
   lesson.
 - Unit 6 (printed 25–36): Units and tens — geometric shapes — time.
-  Ch. 39 Units and tens (II) (the "cashier" game and coin exchanges:
-  ten green counters for one red); ch. 40 Geometric shapes (pictures
+  Ch. 39 Units and tens (II) (the "cashier" game, exchanging 1-euro coins); ch. 40 Geometric shapes (pictures
   of people composed from shapes); ch. 41 Time (ordering photographs
   of daily events, reading clocks, the days of the week in order);
   ch. 42 Additions crossing the ten; ch. 43 revision lesson; then
@@ -528,7 +527,7 @@ and circle the correct count from a number line; add to 10 in
 several arrangements; write ordinal numbers from a lift/flats
 picture; handle coins to 10 in shop tasks (price, pay, change);
 split numbers 6–10 into two addends; solve picture problems;
-revision (ch. 24, the end of Period A material); then numbers to 50
+revision (ch. 23); the 1st assessment criterion (ch. 24); then numbers to 50
 and counting in tens; draw lines with a ruler and freehand; continue
 colour/shape patterns; subtract with a small subtrahend, then
 distinguish + from − in mixed sets; subtract with a large
@@ -549,8 +548,7 @@ the ten).
 Exercise machinery: organise collections and write the number as
 tens + units (abacus pictures: "tens / units" columns); compute sums
 of tens (10 + 10 + 10 + 7) and add 10 to round tens; move on squared
-paper following routes; solve problems; revision (ch. 38); exchange
-ten green counters for one red and write the resulting tens/units;
+paper following routes; solve problems; revision (ch. 38); subtract units, circle the coins needed, and complete numbers writing tens in red (ch. 39);
 compose faces and pictures from geometric shapes; order daily-event
 photographs, read clock faces and write the days of the week;
 add across the ten by breaking the second addend (e.g. through 10);
@@ -640,7 +638,7 @@ ch. 24–28).
   number words, digits); ch. 3 Solve problems with drawing and games
   (fair sharing of chocolates: share so nothing is left over);
   ch. 4 Measure in centimetres (the shoe shop: how long is one
-  centimetre, shoe lengths in centimetres, ruler work); ch. 5 Solve problems — the steps to
+  centimetre, shoe lengths in centimetres, ruler work; measuring your desk's length in centimetres with your own metre); ch. 5 Solve problems — the steps to
   follow (understand, plan, solve, check — "check the solution you
   gave" and discuss whether there is only one solution); ch. 6 Find
   the value of digits in two-digit numbers (abacus work); ch. 7
@@ -729,8 +727,7 @@ cover.
   (2–4 players) follows.
 - Period C, unit 7 (ch. 41–44): Ch. 41 Know numbers to 1,000 (the
   aquarium visit; tables in digits, on the abacus and in words);
-  ch. 42 Know the metre (the paediatrician; shot put and high jump
-  results measured in metres); ch. 43 Make three-digit numbers and
+  ch. 42 Know the metre (the paediatrician visit; a pupil-built metre from 10 cm pieces; wall length in steps; the conclusion 1 metre = 100 centimetres); ch. 43 Make three-digit numbers and
   compare them (number sequences with a rule, e.g. 150, 250, 350…);
   ch. 44 Solve problems with large numbers (the cinema cashier).
   Revision: chapters 41–44.
@@ -1000,10 +997,10 @@ chapters will do, in prose) plus an introductory activity page.
   and write the number); ch. 37 Addition and subtraction with
   decimal numbers; ch. 38 revision lesson; ch. 39 assessment
   criterion.
-- Unit 7 (Part 3, printed 15–28): Ch. 40 Numbers to 7,000 (including
-  a "did you know" panel: 1,000 kilos of recycled paper);
+- Unit 7 (Part 3, printed 15–28): Ch. 40 Numbers to 7,000 (ancient
+  Greek numeral system);
   ch. 41 Measuring mass (fill the gaps in grams; write weights in
-  words from pictures); ch. 42 Puzzles, tilings and mosaics;
+  words from pictures; the "did you know" panel: 1,000 kilos of recycled paper saving 17 trees, previewed on the unit 7 opener); ch. 42 Puzzles, tilings and mosaics;
   ch. 43 Symmetry (fold along the red line — the shapes coincide);
   ch. 44 Problems (Ioanna weighs her books; reading information
   into a diagram); ch. 45 revision lesson.
@@ -1175,8 +1172,9 @@ read decimals; solve the ch. 58 workbook problems (supermarket
 shopping, make-your-own problem); make a mosaic and count squares
 by colour; revision and final assessment criterion. The
 supermarket-points task, the shell-sharing problem (5 children,
-65 shells) and the computer-parts problem are in the pupil book,
-ch. 53 and ch. 58 respectively, not in this workbook, and are
+65 shells) and the computer-parts problem are in the pupil book —
+supermarket points in ch. 53, computer parts in ch. 58, shell-sharing
+in ch. 59 — not in this workbook, and are
 removed from this section. The workbook ends with the copyright
 page and back cover.
 
@@ -1288,8 +1286,8 @@ corrections are:
   symmetry task is completing shapes symmetrically.
 - G2 pupil Teuxos A: proposed teaching hours are one or two per
   chapter, not two throughout; the appendix list gains the
-  chapter 7 shapes sheet; ch. 4 is shoe lengths/ruler work, not
-  desk-measuring with a metre strip; ch. 17's calendar detail is
+  chapter 7 shapes sheet; ch. 4 is shoe lengths/ruler work plus
+  desk-measuring with the pupil's metre; ch. 17's calendar detail is
   removed (its weekday table is days of the week; seasons/months
   calendar material belongs to ch. 33).
 - G2 panoramic conflict (book-internal, ranges follow the revision
@@ -1316,9 +1314,9 @@ corrections are:
   task are pupil-book material (ch. 15 and the fractions chapters);
   this workbook's verified fraction work is colouring, mosaics,
   clown balls and equivalent-fraction pictures.
-- G3 Workbook Δ: the supermarket-points task, the shell-sharing
-  (5 children, 65 shells) and computer-parts problems are pupil
-  ch. 53 / ch. 58; this workbook's ch. 53 work is place value to
+- G3 Workbook Δ: the supermarket-points task is pupil
+  ch. 53, the computer-parts problem pupil ch. 58, and the shell-sharing
+  (5 children, 65 shells) problem pupil ch. 59; this workbook's ch. 53 work is place value to
   10,000 and its ch. 58 work is supermarket shopping and
   make-your-own problems. Its ch. 49 time work is calendar, clock
   and duration problems (not TV schedules) and its ch. 50 area
@@ -1328,6 +1326,10 @@ corrections are:
   calendar detail could not be found on the ch. 17 spreads and was
   removed rather than retained; every other corrected anchor above
   was replaced with the book's own wording or page, not deleted.
+
+## Second independent check (2026-11-04) — corrections applied in a follow-up commit
+
+A second checker re-verified all 20 Band A works from the real PDFs (18 anchors per work, 360 total: 351 passed, 8 corrected, 1 not found) after the filing above was committed, and found nine further errors the first check and the coordinator re-verification had missed. Applied in place: the goat-and-seven-kids tale moved from ch. 28 to ch. 29 (ch. 28 is apples/birds subtraction); ch. 19 softened from a "lift game" to the flats floor-finding task it teaches (the chapter is introduced as a lift game); the ten-green-for-one-red counter exchange moved from ch. 39 to ch. 33 (ch. 39's cashier game exchanges 1-euro coins); Workbook B's revision corrected from ch. 24 to ch. 23 (ch. 24 is the 1st assessment criterion); Workbook Γ's green/red exchange removed (no counter exchange occurs in that workbook — its ch. 39 work is subtracting units, circling needed coins, and writing tens in red); G2 ch. 4 desk-measuring restored (the first check block's denial was wrong — the tasks page has pupils measure their desk in centimetres with their own metre); G2 ch. 42 shot put/high jump removed (neither occurs anywhere in Teuxos B — ch. 42 is the paediatrician visit, a pupil-built metre, wall length in steps, and 1 metre = 100 centimetres); the recycled-paper panel (1,000 kilos saving 17 trees) moved from ch. 40 to ch. 41 (it sits on the unit 7 opener and the ch. 41 mass spread); the shell-sharing problem (5 children, 65 shells) re-attributed from ch. 53/58 to pupil ch. 59 (supermarket points = ch. 53, computer parts = ch. 58). The same second check also tested Band C's W14 solutions companion and confirmed the filing's 22% sentence is verbatim from the book (printed p. 40) — the 37.93% and 55% readings are the conditional readings on the next page, not replacements — so no Band C change was made.
 
 ## What was NOT found in Band A (honest negatives)
 
