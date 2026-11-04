@@ -1,6 +1,6 @@
 # Sources — Building a sentence
 
-countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -188,10 +188,12 @@ CITATION CHECK PASSED 2026-11-03).
 | A sentence-anatomy table - Who? (Subject) / (Verb) / What? (Object) / When? Where? How? - applied to the unit's sentences | Yemen, *English Course for Yemen* Work Book 2 (Grade 8), Unit 6, exercise 6.10 (Unit 6, printed pp.77-90) |
 | A second sentence-anatomy table in the jobs unit, applied the same way | Yemen, *English Course for Yemen* Work Book 2 (Grade 8), Unit 7, exercise 7.13 (Unit 7, printed pp.91-106) |
 | Word order in statements and questions reviewed as a named point, including indirect questions ('the subject comes before the verb') | Yemen, *English Course for Yemen* Pupil's Book 5 (Grade 11), Language review 3, printed p.31 |
+| "Writing: Parts of a sentence" — a sentence is a group of words telling a complete idea, and its parts are Subject, Verb, Object, shown as a three-part train that follows the order of the train | Ecuador — *English*, Elementary Sublevel transition text, Grade 2 (MINEDUC, 2024), Worksheet 4, printed p.29 |
+| Three analysed examples on the same page — I am a child; We love English; My mom cooks delicious food | Ecuador — *English*, Elementary Sublevel transition text, Grade 2 (MINEDUC, 2024), Worksheet 4, printed p.29 |
 
-**Acceptance count: taught in 27 countries (Bangladesh,
+**Acceptance count: taught in 28 countries (Bangladesh,
 Bolivia, Ghana, Mongolia, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan).** Bolivia states the formula;
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador).** Bolivia states the formula;
 Ghana names the two parts; Bangladesh drills the building
 from tables; Mongolia checks the order; China adds the
 this/these, that/those sentence system, taught as one
@@ -235,3 +237,5 @@ READING-QUEUE.md).
 
 
 **Afghanistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 4 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 9 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan's sentence building starts from Grade 4's model frames — the It is a… set of Unit Six is the first full sentences in the whole course — and reaches clause-joining in Grade 9, where relative clauses are taught as the way two sentences become one.
+
+**Ecuador added 2026-11-04** — 1 book stocks this lesson: **Book:** *English — Elementary Sublevel: Student Book for Curricular Transition*, Grade 2 (student's book) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-39-2. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Ecuador's sentence teaching is a single explicit page in the Grade 2 transition text: the definition, the three parts as a train, and three worked examples — the same page also states the capital-letter and full-stop rule filed in that lesson.

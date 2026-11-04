@@ -1,6 +1,6 @@
 # Sources — The home
 
-countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -201,10 +201,13 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Rooms of the house (bedroom, living room, hall, stairs, kitchen) presented with a short paragraph text | Yemen, *English Course for Yemen* Pupil's Book 1 (Grade 7), Unit 7, printed p.46 |
 | A villa's rooms and layout described in a listening-checked reading ('A new home in Yemen') | Yemen, *English Course for Yemen* Pupil's Book 4 (Grade 10), Unit 3, printed p.16 |
 | Household objects as a full-page labelled picture set (bedding, bathroom, kitchen, cutlery, ironing) | Yemen, *English Course for Yemen* Pupil's Book 4 (Grade 10), Unit 3, printed p.17 |
+| The furniture set as picture cards — table, bed, wardrobe, desk, dining table, chair, sofa, armchair, coffee table — with a home-appliances set (TV, refrigerator, stove, telephone, computer, microwave); no room names are taught in this book | Ecuador — *English*, Preparatory Sublevel transition text, Grade 1 (MINEDUC, 2024), Worksheet 8, printed pp.43–46 |
+| Rooms named in a labelling task — bedroom, living room, bathroom, dining room, kitchen, yard — after a reading on homes around the world | Ecuador — *English*, Elementary Sublevel transition text, Grade 2 (MINEDUC, 2024), Worksheet 1, printed pp.10–14 |
+| Rooms and where they are — bedroom, living room, dining room, balcony, bathroom, kitchen, hall, with next to, between, opposite: "Where's your bedroom? — It's between the kitchen and the bathroom" | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Unit 3, printed pp.48–53 |
 
-**Acceptance count: taught in 27 countries (Egypt, Libya,
+**Acceptance count: taught in 28 countries (Egypt, Libya,
 Palestine, Laos, China, North Macedonia, Mongolia, Indonesia,
-Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan).** Egypt carries the five rooms with a sentence for
+Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador).** Egypt carries the five rooms with a sentence for
 each and the drilled question; Libya carries the same rooms
 twice (Grade 1 set, Grade 2 labelled house) with the sitting
 room name and the furniture; Palestine carries the bedroom set
@@ -259,3 +262,5 @@ reading passage is a house text with written answers (p.117).
 
 
 **Afghanistan added 2026-11-04** — 1 book stocks this lesson: **Book:** *English for Afghanistan: Student's Book*, Grade 7 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan gives the home two full units of its first secondary book: "My house" (rooms and contents, there is/are) and "My room" (furniture and its places). No other book in the set returns to the home as a topic.
+
+**Ecuador added 2026-11-04** — 3 books stock this lesson: **Book:** *English — Preparatory Sublevel: Student Book for Curricular Transition*, Grade 1 (student's book) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-38-5. **Book:** *English — Elementary Sublevel: Student Book for Curricular Transition*, Grade 2 (student's book) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-39-2. **Book:** *Starship English, Level Pre A1.2* (Student Book + Activity Book bound in one volume; the Grade 3 file) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95198-3, first printing 2016. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Ecuador builds the home in three steps: furniture and appliances as Grade 1 picture cards, room names in Grade 2's homes-around-the-world worksheet, and rooms placed with prepositions in the Starship course.

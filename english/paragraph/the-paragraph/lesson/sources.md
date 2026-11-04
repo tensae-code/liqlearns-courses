@@ -1,6 +1,6 @@
 # Sources — The paragraph
 
-countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -233,10 +233,12 @@ CITATION CHECK PASSED 2026-11-03).
 | What a paragraph is, taught outright: a group of sentences about one main idea/topic, the correct paragraph form shown on a model, and "rules of paragraph writing" naming the topic sentence, supporting sentences and concluding sentence — then a wrongly-formed paragraph (each sentence on its own line, lower-case) to diagnose and rewrite, and a paragraph about yourself | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 6, Lesson 3, printed pp.59–61 |
 | The paragraph rules in their short repeated form — capital letter, full stop, do not start each sentence on a new line — attached to paragraph tasks | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 11, Lesson 3, printed pp.107–108 (and Unit 13, Lesson 3, printed pp.126–127) |
 | Ten rules for writing a paragraph (topic sentence, capitals, full stops, joined ideas among them), with a notes→paragraph build | Afghanistan, *English for Afghanistan: Student's Book*, Grade 11, Unit 3, printed pp.44–45 |
+| A paragraph taught through a hamburger/sandwich analogy: a group of sentences on one main idea, in three parts — the topic sentence (what the paragraph is about), supporting details (details and examples supporting the main idea) and the concluding sentence/conclusion — shown as a five-box diagram (Topic sentence / Supporting Detail 1–3 / Conclusion) | Ecuador — *English*, Medium Sublevel transition text (Grades 5–7 covers; read from the Grade 5 copy) (MINEDUC, 2024), Worksheet 4, printed p.29 |
+| Write your paragraph — a blank lined template page following the model, built from the friend-interview work of the same worksheet | Ecuador — *English*, Medium Sublevel transition text (Grades 5–7 covers; read from the Grade 5 copy) (MINEDUC, 2024), Worksheet 4, printed p.30 |
 
-**Acceptance count: taught in 28 countries (Bangladesh,
+**Acceptance count: taught in 29 countries (Bangladesh,
 Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan).** Ghana names the process and prints the
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador).** Ghana names the process and prints the
 unity test as a revise question; Bangladesh guides the
 first paragraphs and models them; Egypt examines by the
 paragraph; China adds a model-first writing ladder across
@@ -360,3 +362,5 @@ reader's attention.
 
 
 **Afghanistan added 2026-11-04** — 3 books stock this lesson: **Book:** *English for Afghanistan: Student's Book*, Grade 8 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 7 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 11 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan names the topic sentence outright: Grade 8's greetings unit teaches what a paragraph is — one main idea, topic sentence, supporting sentences, concluding sentence — against a broken model the pupil must fix, the fullest single paragraph lesson in the set. Grade 7's three short rules and Grade 11's ten rules frame it from below and above.
+
+**Ecuador added 2026-11-04** — 1 book stocks this lesson: **Book:** *English — Medium Sublevel: Student Text for Curricular Transition* (one book issued under Grade 5, 6 and 7 covers; read and cited once, from the Grade 5 copy) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-40-8. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Ecuador's paragraph teaching is the second half of the Medium text's writing worksheet — the same worksheet that carries its WH-question system — and it names all three parts outright.

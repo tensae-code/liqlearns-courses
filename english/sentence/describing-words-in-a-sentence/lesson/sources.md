@@ -1,6 +1,6 @@
 # Sources — Describing words in a sentence
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -221,10 +221,12 @@ CITATION CHECK PASSED 2026-11-03).
 | Adjective order taught in a workbook Language study before practice | Yemen, *English Course for Yemen* Work Book 5 (Grade 11), Language study, printed p.2 |
 | Adjective order as a full ordered list: opinion-size-age-shape-colour-nationality-material | Yemen, *English Course for Yemen* Pupil's Book 6 (Grade 12), Language review 2, printed p.7 |
 | Adjective-noun descriptions inside the present-continuous unit's Language summary - the course's earliest describing-words work | Yemen, *English Course for Yemen* Pupil's Book 1 (Grade 7), Unit 6, Language summary, printed p.43 |
+| Adjective + noun pairs worked inside sentences — ten adjectives matched to nouns about a painting, the worked line "The artist is mysterious," then: choose three adjective + noun pairs and write sentences | Ecuador — *English*, Elementary Sublevel transition text, Grade 2 (MINEDUC, 2024), Worksheet 5, printed p.34 |
+| The model sentence carrying two describing words in place — a big, red balloon in the sky | Ecuador — *English*, Elementary Sublevel transition text, Grade 2 (MINEDUC, 2024), Worksheet 5, printed p.33 |
 
-**Acceptance count: taught in 27 countries (Bangladesh,
+**Acceptance count: taught in 28 countries (Bangladesh,
 Egypt, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan).** Bangladesh pictures the before-home in
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador).** Bangladesh pictures the before-home in
 eight pairs; Mongolia names the describing law, writes the
 sense-verb home, and posts the comparing border — and its
 Grade 5 picture book now adds describing stock in pictures
@@ -320,3 +322,5 @@ Grade 11 (Student's Book, Unit 3, printed p.34).
 
 
 **Afghanistan added 2026-11-04** — 3 books stock this lesson: **Book:** *English for Afghanistan: Student's Book*, Grade 9 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 10 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 8 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan's describing centre is the fixed adjective order of Grade 9's inventions unit — size, length, shape, material, type — with Grade 10's article + adjective work and Grade 8's sentence-level comparison system beside it.
+
+**Ecuador added 2026-11-04** — 1 book stocks this lesson: **Book:** *English — Elementary Sublevel: Student Book for Curricular Transition*, Grade 2 (student's book) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-39-2. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Ecuador puts describing words to work in sentences on the second page of its Grade 2 adjectives worksheet: matching first, a worked sentence, then sentences of the pupil's own.

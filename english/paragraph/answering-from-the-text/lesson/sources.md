@@ -1,6 +1,6 @@
 # Sources — Answering from the text
 
-countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -205,9 +205,12 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 | The course-wide answering pattern, stated plainly: the pupil's books' reading texts end by directing pupils to comprehension questions 'in your Workbook', and every workbook carries question sets keyed to its pupil's book's texts - Teacher's Book 3's reading procedures (scanning, TP R1-R3) teach the teacher the same route | Yemen, the held set as filed in english/books/yemen.md (Pupil's Book 4 architecture; Teacher's Book 3 architecture) |
 | The primary set's first paragraphed reading text — Elyas, a grade 5 pupil who loves his English teacher — answered from the page with six comprehension questions and a true/false set | Afghanistan, *English for Afghanistan: Let's Start*, Grade 5, Unit 2, printed pp.15–16 |
 | A paragraph describing a modern house, read and answered with questions, inside the house unit | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 6, Lesson 2, printed pp.55–56 |
+| Eight multiple-choice/circle comprehension items on the printed story, then five True/False items and a fill-in-the-gaps set on the jungle text | Ecuador — *English*, Elementary Sublevel transition text, Grade 2 (MINEDUC, 2024), Worksheet 3, printed pp.22–27 |
+| Two informational texts answered in kind — eight True/False statements on the habitat and penguin texts, and nine multiple-choice questions on the camel text | Ecuador — *English*, Medium Sublevel transition text (Grades 5–7 covers; read from the Grade 5 copy) (MINEDUC, 2024), Worksheet 3, printed pp.19–23 |
+| True/False items and multiple-choice questions on the monuments texts and on the Ingapirca text | Ecuador — *English*, Superior Sublevel transition text (Grades 9–10 covers; read from the Grade 9 copy) (MINEDUC, 2024), Worksheet 5, printed pp.35–38 |
 
-**Acceptance count: taught in 26 countries (Egypt, Ghana,
-India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan).** India builds the carrier hunt into the page and
+**Acceptance count: taught in 27 countries (Egypt, Ghana,
+India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador).** India builds the carrier hunt into the page and
 prints the question-kind border; Ghana demands textual
 evidence under personal responses; Egypt examines by the
 unseen passage; China grades the answering shapes themselves
@@ -284,3 +287,5 @@ books are read (see READING-QUEUE.md).
 
 
 **Afghanistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 5 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 7 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan's answering work begins with its first real reading text in Grade 5 — a paragraph about Elyas, answered with questions and a true/false set — and runs through every secondary book as questions set on the passage just read.
+
+**Ecuador added 2026-11-04** — 3 books stock this lesson: **Book:** *English — Elementary Sublevel: Student Book for Curricular Transition*, Grade 2 (student's book) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-39-2. **Book:** *English — Medium Sublevel: Student Text for Curricular Transition* (one book issued under Grade 5, 6 and 7 covers; read and cited once, from the Grade 5 copy) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-40-8. **Book:** *English — Superior Sublevel: Student Text for Curricular Transition* (one book issued under Grade 9 and 10 covers; read and cited once, from the Grade 9 copy) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-41-5. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Ecuador practises answering from the text in all three of its reading-carrying transition books — story and jungle text in Grade 2, animal texts in the Medium book, monument texts in the Superior book.

@@ -1,6 +1,6 @@
 # Sources for this lesson — Word families
 
-countries: Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen
+countries: Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen, Ecuador
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -55,8 +55,10 @@ pictures).
 | PARTIAL - rhyme-pairing as a named closing exercise: 'Write the words that go together' - camp-lamp, wood-good, went-tent | Yemen, *English Course for Yemen* Work Book 2 (Grade 8), Unit 5, exercise 5.18 (Unit 5, printed pp.61-76) |
 | PARTIAL - a rhyming chant, 'I say, you say', pairing rhyming words for oral practice | Yemen, *English Course for Yemen* Pupil's Book 2 (Grade 8), Unit 5, printed p.52 |
 | The limit, stated plainly: Yemen pairs and matches rhyming words but never builds rime families - there is no -at/-en family work and no word-building from a shared ending anywhere in the 13 books | Yemen, the held set as filed in english/books/yemen.md (Workbook 1 and Work Book 2 sections) |
+| Rhyming families named as sets in the short-a work — an/ad/ap/at (ran/man/fan, had/sad/pad, tap/cap/map, mat/hat/fat) | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Unit 1 Phonics, printed pp.16–17 |
+| Families for the other short vowels — et/en/ed/end (wet/pet/net, pen/hen/ten, red/bed/fed, send/bend/lend); ig/it/in/ink; od/op/ot/ock; ut/ug/un/ump | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Units 2–5 Phonics, printed pp.34–35, 54–55, 72–73, 92–93 |
 
-**Acceptance count: taught in 12 countries (Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen).**
+**Acceptance count: taught in 13 countries (Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen, Ecuador).**
 China adds a complete short-vowel cycle inside one volume —
 one Let's spell set per vowel, reviewed as a whole system
 (Grade 3 Volume 2) — the silent-e ladder that turns those
@@ -322,3 +324,5 @@ filed.
 **Yemen added 2026-11-04 - PARTIAL stocking** - 3 books stock this lesson in part: **Book:** *English Course for Yemen - Workbook 1* (Grade 7, workbook) - Yemen, Ministry of Education and Scientific Research; the ministry re-issue (print line 2027-1448) of the Crescent course prepared by Terry O'Neill and Peter Snow through Garnet Publishing Limited (c) 2000; no ISBN is printed in any Yemen book, and every grade rests on series position (Book N = Grade N+6). Filed in english/books/yemen.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). **Book:** *English Course for Yemen - Work Book 2* (Grade 8, workbook) - Yemen, Ministry of Education and Scientific Research; the ministry re-issue (print line 2027-1448) of the Crescent course prepared by Terry O'Neill and Peter Snow through Garnet Publishing Limited (c) 2000; no ISBN is printed in any Yemen book, and every grade rests on series position (Book N = Grade N+6). Filed in english/books/yemen.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). **Book:** *English Course for Yemen - Pupil's Book 2* (Grade 8, pupil's book) - Yemen, Ministry of Education and Scientific Research; the ministry re-issue (print line 2027-1448) of the Crescent course prepared by Terry O'Neill and Peter Snow through Garnet Publishing Limited (c) 2000; no ISBN is printed in any Yemen book, and every grade rests on series position (Book N = Grade N+6). Filed in english/books/yemen.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). PARTIAL stocking. Yemen's word-family evidence is rhyming-word work only: 'Match the sounds' sets in Workbook 1, a rhyme-pairing exercise in Work Book 2 and a rhyming chant in Pupil's Book 2. The books never build families from a shared rime, so this is filed as a partial - rhyme recognition, not family building.
 
 **Afghanistan checked 2026-11-04 — not stocked.** No rime or onset word families are taught anywhere in the nine books. Grade 9's plural spelling rules (Unit 15, Lesson 4 — add -s; -es after x/ss/s/sh/ch; consonant + y → -ies; f(e) → -ves) are plural formation, not word families, and Grade 4's spelling work is letter-naming. Nothing is stocked.
+
+**Ecuador added 2026-11-04** — 1 book stocks this lesson: **Book:** *Starship English, Level Pre A1.2* (Student Book + Activity Book bound in one volume; the Grade 3 file) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95198-3, first printing 2016. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Ecuador teaches rime families outright in the Starship Pre A1.2 phonics strand — a named family set inside every short-vowel spread.

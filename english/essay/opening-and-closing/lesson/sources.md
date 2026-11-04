@@ -1,6 +1,6 @@
 # Sources — Opening and closing
 
-countries: Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -111,8 +111,9 @@ PASSED 2026-11-03).
 | The parts of an e-mail named — recipient, subject, greeting, message, closing — and an e-mail drafted from a visit | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 3, Lesson 3, printed pp.29–30 |
 | A friendly letter taken apart piece by piece: heading, greeting/salutation, body, subscription/conclusion, signature — with closing formulas to choose from (Your friend / Love / Best regards / Sincerely / Your cousin) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 10, Unit 9, printed pp.110–111 |
 | Letter-ending formulas for formal letters, with a full model formal letter built from notes | Afghanistan, *English for Afghanistan: Student's Book*, Grade 11, Unit 1, printed pp.3–4, 7 and 10 |
+| A letter's parts labelled on a printed template — Date; Mr./Ms./Mrs. + name + address; Introduction; Body; Closing; "Sincerely,"; Signature — inside the worksheet that first explains what a letter is (a note in an envelope with a stamp that travels to the friend or relative) | Ecuador — *English*, Medium Sublevel transition text (Grades 5–7 covers; read from the Grade 5 copy) (MINEDUC, 2024), Worksheet 1, printed p.7 |
 
-**Acceptance count: taught in 17 countries (Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan).**
+**Acceptance count: taught in 18 countries (Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador).**
 Bolivia's table defines both ends and dresses their joints;
 Ghana's first revise question sets the opening's law;
 China frames the formal letter — open with the matter,
@@ -162,3 +163,5 @@ READING-QUEUE.md).
 
 
 **Afghanistan added 2026-11-04** — 3 books stock this lesson: **Book:** *English for Afghanistan: Student's Book*, Grade 9 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 10 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 11 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan stocks this lesson in part only, and the part is filed plainly: what the set names and teaches is the openings and closings of letters and e-mails — greetings/salutations at the top, subscriptions and signatures at the foot, formal endings in Grade 11. No book teaches essay openings or conclusions, because no book in the set teaches the essay at all; nothing essay-side is stocked.
+
+**Ecuador added 2026-11-04** — 1 book stocks this lesson, as a partial: **Book:** *English — Medium Sublevel: Student Text for Curricular Transition* (one book issued under Grade 5, 6 and 7 covers; read and cited once, from the Grade 5 copy) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-40-8. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly as a partial: Ecuador's opening-and-closing stock is the letter's labelled ends only. No essay opening or closing is taught anywhere in the set — the Superior book's writing worksheet names process stages (pre-writing to publishing), not openings and closings, and is filed as unkeyed stock rather than cited here.

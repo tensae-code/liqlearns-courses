@@ -1,6 +1,6 @@
 # Sources for this lesson — Greetings
 
-countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag.
@@ -89,6 +89,10 @@ side by side on one PDF page — that was wrong.
 | The name exchange as a printed dialogue — "What is your name? — My name is ___." — with "What do you do? — I am a student." beside it, inside the family unit | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Unit Thirteen, printed p.119 |
 | Introductions practised as role-play — introduce a relative or friend, greet, swap roles — with "My name is…… / What is your name, please?" in the same book's classmate interview | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 2, printed p.14; Unit 1, printed p.6 |
 | The first conversation of the secondary course: a student meets the teacher and gives his name, inside the unit named "Good morning" | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 1, Lesson 1, printed pp.2–3 |
+| Greetings as big display words — Hi! / Hello! / Thank you / Please! | Ecuador — *English*, Preparatory Sublevel transition text, Grade 1 (MINEDUC, 2024), Worksheet 3, printed p.21 |
+| The name dialogue in three speech-bubble scenes — asking someone's name, the boy answering "My name is Juan," and "Nice to meet you!" | Ecuador — *English*, Preparatory Sublevel transition text, Grade 1 (MINEDUC, 2024), Worksheet 3, printed p.22 |
+| The course opener itself: greetings Hello / Hi / Good-bye, introducing yourself and others, and asking and spelling names — "What's your name? / My name's…" — with a hello song | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Unit 1, printed pp.4–9 (song printed p.6) |
+| Self-introduction with contracted be — name and role ("I'm your English teacher / I'm a student"), with "What's his/her name?" beside it | Ecuador — *Starship English*, Level A1.1 (Children) (Grade 4 file), Student Book, Unit 1, printed p.4 |
 
 **Second country merged 2026-10-25 — Libya:**
 English for Libya, Pupils Book Grade 1 (CERC, Ministry of Education,
@@ -131,7 +135,7 @@ rendered page the same day).
 - Unit 1 "Greeting and Numbers," p. 14 (Hello/Hi, Goodbye/bye tracing;
   "What's your name? / My name's" tracing strips, p. 16).
 
-**Acceptance count: taught in 28 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan).**
+**Acceptance count: taught in 29 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador).**
 China adds name exchanges from its first primary page and the
 "Where are you from? — I'm from …" origin frame (Grades 3), plus
 five printed ways to say goodbye (Grade 6 Volume 2); North
@@ -613,3 +617,5 @@ loved subject ("I am eight years old.", printed p.7).
 
 
 **Afghanistan added 2026-11-04** — 3 books stock this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 4 (student's book); **Book:** *English for Afghanistan: Let's Start*, Grade 6 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 7 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan's name exchange arrives in its first book's family unit (Grade 4, Unit Thirteen) as a printed dialogue, is practised as introduction role-play in Grade 6, and opens the secondary course in Grade 7's first lesson. English starts at Grade 4 in Afghanistan, so all of this is first-years material even though two of the books are later primary books.
+
+**Ecuador added 2026-11-04** — 3 books stock this lesson: **Book:** *English — Preparatory Sublevel: Student Book for Curricular Transition*, Grade 1 (student's book) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-38-5. **Book:** *Starship English, Level Pre A1.2* (Student Book + Activity Book bound in one volume; the Grade 3 file) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95198-3, first printing 2016. **Book:** *Starship English, Level A1.1 (Children)* (Student Book + Activity Book bound in one volume; the Grade 4 file — the book itself prints only the level, no grades) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95199-0, held copy fifth printing 2018. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Ecuador stocks this lesson at every step of its set: the Grade 1 book's only dialogue material is its name worksheet, the Starship Pre A1.2 course opens on the exchange, and the A1.1 book re-opens on self-introduction a year up.

@@ -1,6 +1,6 @@
 # Sources for this lesson — Two-letter sounds
 
-countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan
+countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The two-letter sets lived inside the alphabet
@@ -98,8 +98,11 @@ single letters.
 | The limit, stated plainly: these are letter-pattern spelling sets in a workbook, not a digraph lesson - the pairs are never named as two-letter sounds, there are no phonetic symbols anywhere in the course, and Yemen has no phonics programme (its only letter-sound presentation is the pictured-word grouping in Pupil's Book 1, Unit 3, printed pp.10-11) | Yemen, the held set as filed in english/books/yemen.md (Pupil's Book 1 and Workbook 1 sections, honest negatives) |
 | The two letters th given their two sounds as a spoken rule in a pronunciation dialogue — th "sounds d" in there/this/they and "sounds t" in north/south/thank/three | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 7, printed p.59 |
 | sh and ch worked as sound pairs in minimal-pair phonics (chair/share, chin/shin, chew/shoe, chips/ships) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 14, Lesson 4, printed pp.152–156 |
+| Long a spelled ai and ay — rain, mail, tail, paint; bay, day, play, subway | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Unit 1 Phonics, printed pp.20–23 |
+| Long e spelled ee, ea and ey/y — feet, green, bee, tree; beans, team, meat, read; monkey, money, happy, candy | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Unit 2 Phonics, printed pp.36–41 |
+| Long i spelled igh and ie/y; long o spelled oa and ow; long u spelled ue and ui | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Units 3–5 Phonics, printed pp.58–61, 76–79, 96–99 |
 
-**Acceptance count: taught in 24 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan).**
+**Acceptance count: taught in 25 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador).**
 China adds the first r-controlled-vowel ladder taught as a named
 system (Grade 4 Volume 2), a run of one-pair-per-page Let's spell
 lessons across Grades 5–6 (ea/ee, ow/ou, oo, ch/sh, th, ng/nk,
@@ -547,3 +550,5 @@ thing and live in phonics/blends.)
 
 
 **Afghanistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 6 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 9 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan stocks this lesson in part only, and the part is filed plainly: the set has no two-letter-sound system and no digraph programme. What it does teach is the th pair's two sounds, stated as a rule inside a Grade 6 pronunciation dialogue, and sh/ch minimal pairs inside Grade 9's phonics lesson. The rest of Afghanistan's phonics — vowel rules, blends, diphthongs, the schwa — lives in the blends lesson and the country file, not here.
+
+**Ecuador added 2026-11-04** — 1 book stocks this lesson, as a partial: **Book:** *Starship English, Level Pre A1.2* (Student Book + Activity Book bound in one volume; the Grade 3 file) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95198-3, first printing 2016. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly as a partial: Ecuador's two-letter-sound stock is the Starship Pre A1.2 vowel teams — every long vowel is taught through its two-letter spellings — but no consonant digraph (sh, ch, th, wh) is taught anywhere in the set; the A1.1 book's phonics is blends, filed in that lesson.

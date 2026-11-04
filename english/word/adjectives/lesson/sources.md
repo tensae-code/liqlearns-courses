@@ -1,6 +1,6 @@
 # Sources — Adjectives
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -286,9 +286,12 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 | Comparison of adjectives taught in a Language study (comparative/superlative forms, the y-to-i spelling rule, good/bad irregulars) | Yemen, *English Course for Yemen* Workbook 3 (Grade 9), Language study, printed pp.42 and 117 |
 | Comparison reviewed as a system: comparative/superlative adjectives, as ... as and not as ... as, the same as, like/unlike | Yemen, *English Course for Yemen* Pupil's Book 6 (Grade 12), Language review 1, printed p.4 |
 | Adjective order taught as a review point (opinion-size-age-shape-colour-nationality-material) | Yemen, *English Course for Yemen* Pupil's Book 6 (Grade 12), Language review 2, printed p.7 |
+| The definition itself: adjectives are words that describe or give more information about people, places, things or ideas — colour, size, shape, feel — with the model of a big, red balloon in the sky (the picture caption misprints "baloon"; the body text spells it correctly) | Ecuador — *English*, Elementary Sublevel transition text, Grade 2 (MINEDUC, 2024), Worksheet 5, printed p.33 |
+| Ten adjectives matched to nouns about a painting — famous, bright, yellow, vibrant, mysterious, colourful, old, tall, unique, small | Ecuador — *English*, Elementary Sublevel transition text, Grade 2 (MINEDUC, 2024), Worksheet 5, printed p.34 |
+| Adjectives hunted inside reading texts — circle the adjectives in the camel text, then choose the adjectives that describe the penguins' habitat and the camel's habitat from mixed lists | Ecuador — *English*, Medium Sublevel transition text (Grades 5–7 covers; read from the Grade 5 copy) (MINEDUC, 2024), Worksheet 3, printed pp.20–21, 25 |
 
-**Acceptance count: taught in 28 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan).**
+**Acceptance count: taught in 29 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador).**
 Libya carries the definition twice and the
 pairs inside a story; Bangladesh carries the pictured pairs;
 Egypt carries the fullest statement of what adjectives tell;
@@ -337,3 +340,5 @@ Armenia joined 2026-11-03: it carries describing a friend — tall, young, smart
 
 
 **Afghanistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English for Afghanistan: Student's Book*, Grade 9 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 8 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan's adjective centre is Grade 9's inventions unit, which sorts adjectives into size, length, shape, material and type and fixes the order they describe in. Grade 8's final review gathers the opposite pairs. The comparison systems (Grade 8 Units 13–14, re-taught in Grades 10 and 12) are filed inside the describing-words lesson, not counted twice here.
+
+**Ecuador added 2026-11-04** — 2 books stock this lesson: **Book:** *English — Elementary Sublevel: Student Book for Curricular Transition*, Grade 2 (student's book) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-39-2. **Book:** *English — Medium Sublevel: Student Text for Curricular Transition* (one book issued under Grade 5, 6 and 7 covers; read and cited once, from the Grade 5 copy) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-40-8. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Ecuador defines the adjective outright in its Grade 2 arts worksheet — built around Van Gogh's Starry Night — and works adjectives inside texts again in the Medium book's animal readings.

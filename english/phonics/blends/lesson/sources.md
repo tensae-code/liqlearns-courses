@@ -1,6 +1,6 @@
 # Sources for this lesson — Blends
 
-countries: Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan
+countries: Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -59,8 +59,11 @@ pictures).
 | Consonant blends taught as spelling-sound patterns with a stated blend rule — L blends (flag, clay, plant) in the time unit's phonics lesson | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 2, Lesson 4, printed pp.19–22 |
 | R blends (crab, dress, brown) as the next unit's phonics pattern | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 3, Lesson 4, printed pp.30–33 |
 | S blends as the third blend set, in the famous-people unit's phonics lesson | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 5, Lesson 4, printed pp.50–53 |
+| Initial blends taught as named sets across the whole book — bl, br; cl, cr; fl, fr; dr, tr in Unit 1 and gl, gr; pl, pr; sc, sk; sl, sp in Unit 2 — each with four picture words and a chant | Ecuador — *Starship English*, Level A1.1 (Children) (Grade 4 file), Student Book, Phonics, printed pp.16–23, 34–41 |
+| Three-letter and final blends — sm, sn; st; sw, tw; scr, str; then spl, spr, squ; and the final sets ct, ft; nd, nt; nk, mp | Ecuador — *Starship English*, Level A1.1 (Children) (Grade 4 file), Student Book, Phonics, printed pp.54–61, 72–79 |
+| Consonant clusters defined at the top level — groups of two or more consonant sounds together with no vowel between, the "Bl" cluster in "blue" and the "Str" cluster in "strong," with listen-and-repeat cluster cards (CLIMB, GREEN, SPOON, START, SPRING, STRENGTH, STREET…) | Ecuador — *English*, Superior Sublevel transition text (Grades 9–10 covers; read from the Grade 9 copy) (MINEDUC, 2024), Worksheet 6, printed pp.41–43 |
 
-**Acceptance count: taught in 17 countries (Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan).**
+**Acceptance count: taught in 18 countries (Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador).**
 China joins with blends taught two at a time on Let's spell
 pages in Grade 5 (cl/pl, gr/br) and sorted again in the
 end-of-primary grouping review (Grade 6 Volume 2). Iran joins
@@ -314,3 +317,5 @@ into gr/sl/cr/br jars.
 
 
 **Afghanistan added 2026-11-04** — 1 book stocks this lesson: **Book:** *English for Afghanistan: Student's Book*, Grade 8 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan's blends arrive in Grade 8, whose Lesson 4 phonics slots run a blend ladder: L blends first, with the blend rule stated, then R blends, then S blends. The earlier books teach vowel rules only (Grade 7's short and long vowel rules), so the blend stock is Grade 8's alone.
+
+**Ecuador added 2026-11-04** — 2 books stock this lesson: **Book:** *Starship English, Level A1.1 (Children)* (Student Book + Activity Book bound in one volume; the Grade 4 file — the book itself prints only the level, no grades) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95199-0, held copy fifth printing 2018. **Book:** *English — Superior Sublevel: Student Text for Curricular Transition* (one book issued under Grade 9 and 10 covers; read and cited once, from the Grade 9 copy) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-41-5. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Ecuador's blend stock is the A1.1 book's whole phonics strand — the only Starship book whose phonics is consonant blends rather than vowels — with the Superior text's cluster definition and cards on top.

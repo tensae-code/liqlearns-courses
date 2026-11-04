@@ -1,6 +1,6 @@
 # Sources for this lesson — How are you?
 
-countries: Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan
+countries: Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Ecuador
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -50,8 +50,10 @@ Libya (Garnet) · Books verified on disk 2026-10-25.
 | "Hello, how are you? — I am fine, thank you." as the unit's greeting dialogue | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Unit Four, printed p.40 |
 | The exchange re-run in the first review unit: "Good morning… How are you today? — Fine, thank you." | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Unit Five (Review), printed p.49 |
 | "How are you? — We are fine, thank you." opening the body unit's dialogue | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Unit Fourteen, printed p.128 |
+| "How are you?" as a speech bubble on the greetings worksheet's divider, beside "Hi!" | Ecuador — *English*, Preparatory Sublevel transition text, Grade 1 (MINEDUC, 2024), Worksheet 3, printed p.20 |
+| The feelings frame "How are you feeling? I am feeling…" over seven feeling cards — HAPPY, EXCITED, SAD, ANGRY, SCARED, SURPRISED, SHY — with the divider bubbles "I'm happy!", "How are you feeling?", "I'm sad…" | Ecuador — *English*, Preparatory Sublevel transition text, Grade 1 (MINEDUC, 2024), Worksheet 4, printed pp.24–25 |
 
-**Acceptance count: taught in 21 countries (Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
+**Acceptance count: taught in 22 countries (Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Ecuador) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 China joins with the exchange itself in its first primary book
 (Grade 3 Volume 1) and deepens it three years later into feelings
 talk — "How do you feel?", "What's wrong?" (Grade 6 Volume 1).
@@ -331,3 +333,5 @@ is recorded for South Sudan, and none is claimed here.
 
 
 **Afghanistan added 2026-11-04** — 1 book stocks this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 4 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan teaches the exchange in its first book and re-runs it twice inside the same book — once in review and once with the plural answer "We are fine, thank you." Later books greet without the exchange, so the stock is Grade 4's alone.
+
+**Ecuador added 2026-11-04** — 1 book stocks this lesson, as a partial: **Book:** *English — Preparatory Sublevel: Student Book for Curricular Transition*, Grade 1 (student's book) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-38-5. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly as a partial: Ecuador carries the question through the feelings frame only. No "I'm fine" answer is taught to "How are you?" anywhere in the set — the book's one "I'm fine" is a mismatched reply printed against the age question (printed p.23, a defect in the book) — and Starship Pre A1.2 prints no "How are you?" at all, as its own negatives record.

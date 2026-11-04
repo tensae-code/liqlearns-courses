@@ -1,6 +1,6 @@
 # Sources — Asking with question words
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -210,10 +210,13 @@ CITATION CHECK PASSED 2026-11-03).
 | The question words gathered and named in the course's first Language summary: What / Where / How old / How many / Who | Yemen, *English Course for Yemen* Pupil's Book 1 (Grade 7), Unit 3, Language summary, printed p.19 |
 | When and What questions inside the present-simple summary (with Do/Does questions) | Yemen, *English Course for Yemen* Pupil's Book 1 (Grade 7), Unit 5, Language summary, printed p.35 |
 | Wh- questions taught as a lesson in their own right - Wh- against Yes/No forms, rising/falling voice practice, a reporter-interview matching task and a partner-interview table | Yemen, *English Course for Yemen* Work Book 6 (Grade 12), Unit 2, lesson 2.9, printed pp.22-24 |
+| WH-questions defined — they begin with "wh," and their answer cannot be yes or no, because specific information is needed — and the eight-word set with its uses: Who (person), What (thing), Where (place), When (time), Why (reason), Whose (possession), Which (choice between options), How (manner) | Ecuador — *English*, Medium Sublevel transition text (Grades 5–7 covers; read from the Grade 5 copy) (MINEDUC, 2024), Worksheet 4, printed pp.26–27 |
+| The structure rule stated outright: a WH-question = question word + auxiliary verb + subject + main verb + object/other information, with the models "What is your favorite color?" and "Where do you live?", and eight completion items supplying the missing question word | Ecuador — *English*, Medium Sublevel transition text (Grades 5–7 covers; read from the Grade 5 copy) (MINEDUC, 2024), Worksheet 4, printed p.27 |
+| Wh- questions as the primary course's working frames — What's your name?, Where's your bedroom?, How many robots do you have?, What time is it, please?, When's your birthday? | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Units 1, 3, 4 and 5, printed pp.4, 48, 62, 80, 86 |
 
-**Acceptance count: taught in 27 countries (Bangladesh, Egypt,
+**Acceptance count: taught in 28 countries (Bangladesh, Egypt,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
-Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan).** Mongolia tables the family with its answer
+Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador).** Mongolia tables the family with its answer
 shapes; Bangladesh gives the words their voice; Egypt has
 drilled the questions and whole answers since the youngest
 books; China adds the words worked as whole units — where,
@@ -281,3 +284,5 @@ pp.18–29; reference, printed pp.111–119).
 
 
 **Afghanistan added 2026-11-04** — 3 books stock this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 6 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 7 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 8 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan's wh- stock centres on Grade 6's services unit, which matches a full question-word set to its answers in one lesson; Grade 7 works who/what/how (with the measured how-forms), and Grade 8 carries the same words into the past tense.
+
+**Ecuador added 2026-11-04** — 2 books stock this lesson: **Book:** *English — Medium Sublevel: Student Text for Curricular Transition* (one book issued under Grade 5, 6 and 7 covers; read and cited once, from the Grade 5 copy) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-40-8. **Book:** *Starship English, Level Pre A1.2* (Student Book + Activity Book bound in one volume; the Grade 3 file) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95198-3, first printing 2016. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Ecuador's question-word system is the Medium transition text's one explicit grammar teaching — the fullest WH treatment in its set, definition, uses, formula and models on two pages — over the Starship course's working frames.

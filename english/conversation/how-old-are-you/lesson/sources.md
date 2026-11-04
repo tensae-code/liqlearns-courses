@@ -1,6 +1,6 @@
 # Sources for this lesson — How old are you?
 
-countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -64,8 +64,11 @@ Libya (Garnet) · Books verified on disk 2026-10-25.
 | A listening questionnaire built on name, age, family, activities and days - the age question in use | Yemen, *English Course for Yemen* Workbook 1 (Grade 7), Unit 5, exercise 5.14, printed pp.44-45 |
 | Asking ages as a class task: "How old are you? — I am … years old", charted together with classmates' birthdays ("When is your birthday? — My birthday is the Eleventh of December") | Afghanistan, *English for Afghanistan: Let's Start*, Grade 5, Unit 4, printed p.42 |
 | "How old" among the how-questions of the body unit (How tall / How fat / How old / How much do you weigh) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 10, Lesson 1, printed pp.93–94 |
+| "When's your birthday? — It's September 16th" and "How old are you? — I'm eight" as the unit's opening frames, with "Happy birthday!" beside them | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Unit 5, printed p.86 |
+| The "How old are you?" song — ages six to nine, with birthdays on March 21st, June 22nd, September 23rd and December 24th | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Unit 5, printed p.88 |
+| The third-person game — his birthday April 10th, he's six | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Unit 5, printed p.91 |
 
-**Acceptance count: taught in 24 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Yemen, Afghanistan) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
+**Acceptance count: taught in 25 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 China teaches the exchange in the full "years old" form with
 candle counting (Grade 3 Volume 1) and later ties age to the
 birthday date (Grade 5 Volume 2); North Macedonia practises it
@@ -440,3 +443,5 @@ and not for the question.
 
 
 **Afghanistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 5 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 7 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan asks the age question in Grade 5's day-and-date unit, where pupils ask and chart each other's ages and birthdays, and meets "How old" again inside Grade 7's set of how-questions.
+
+**Ecuador added 2026-11-04** — 1 book stocks this lesson: **Book:** *Starship English, Level Pre A1.2* (Student Book + Activity Book bound in one volume; the Grade 3 file) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95198-3, first printing 2016. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Ecuador teaches age inside its birthday unit, with the question, the answer and a song. Filed plainly: the Grade 1 transition book asks the age question once but answers it with "I'm fine" and never gives an age (printed p.23) — it is not cited here.

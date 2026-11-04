@@ -1,6 +1,6 @@
 # Sources — Numbers
 
-countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -260,10 +260,14 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 | The number words one-twelve printed with the clock faces of the time lesson | Yemen, *English Course for Yemen* Pupil's Book 1 (Grade 7), Unit 5, printed p.31 |
 | A 'Numbers' appendix: a tracing table of digits 0-100 with space to write each number in words | Yemen, *English Course for Yemen* Workbook 1 (Grade 7), appendix, printed pp.82-83 |
 | Ordinal numbers 1st-7th taught through the floors of a block of flats, with a note on 'five - fifth' | Yemen, *English Course for Yemen* Pupil's Book 1 (Grade 7), Unit 7, printed p.45 |
+| Numbers 0–20, each shown with a star count | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Learn more (after Unit 2), printed p.32 |
+| Counting possessions — "How many robots do you have? — One / Seven / None!" | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Unit 4, printed pp.62–67 |
+| Numbers twenty to thirty-one in ones, then forty, fifty, sixty, seventy, eighty, ninety, one hundred — 32–39 and the numbers between the tens are not given | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Learn more (after Unit 4), printed p.70 |
+| Ordinals as a full table, 1st first to 31st thirty-first; the Activity Book's Learn more matches cardinals and ordinals beyond the set (sixty-one, seventy-first, ninety-nine) | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Learn more, printed p.71; Activity Book, printed AB43 |
 
-**Acceptance count: taught in 28 countries (Egypt, India,
+**Acceptance count: taught in 29 countries (Egypt, India,
 Palestine, Laos, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan).** Palestine carries the youngest path (numbers
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador).** Palestine carries the youngest path (numbers
 inside the word units, traced); Egypt carries the counting
 question and the climb (1–5, 11–20, by tens to 100); India
 carries the same 1–20 in its first book; China carries the
@@ -339,3 +343,5 @@ a whole song that sings three numbers (p.14).
 
 
 **Afghanistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 5 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 7 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan's numbers begin in Grade 5 — Grade 4 has none at all — with the word table to a hundred; Grade 7 extends the cardinals to 500 through phone numbers and lists the ordinals whole to the hundredth.
+
+**Ecuador added 2026-11-04** — 1 book stocks this lesson: **Book:** *Starship English, Level Pre A1.2* (Student Book + Activity Book bound in one volume; the Grade 3 file) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95198-3, first printing 2016. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Ecuador's numbers live in the Starship Pre A1.2 book's Learn more pages and its counting unit. Filed plainly: the Grade 1 transition book teaches no numbers at all, and the A1.1 book counts only inside other lessons, with no number set — neither is cited here.

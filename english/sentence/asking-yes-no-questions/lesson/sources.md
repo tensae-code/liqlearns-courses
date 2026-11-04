@@ -1,6 +1,6 @@
 # Sources — Asking yes/no questions
 
-countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -224,10 +224,14 @@ CITATION CHECK PASSED 2026-11-03).
 | MAPPED — Yes/No questions mapped in the daily-routines unit: *Do you…? / Does your dad…?*, in the scheme that maps *Get Smart plus 3* | Malaysia, Year 3 Scheme of Work (KSSR), Unit 2 (Lessons 17–32) — mapped curriculum coverage only |
 | Question formation taught in a Language study: negative statements and how to make Yes/No and information questions | Yemen, *English Course for Yemen* Workbook 3 (Grade 9), Unit 1, Language study, printed pp.5-6 |
 | Wh- questions set against Yes/No questions in the course's question-forms lesson, with rising/falling intonation practice | Yemen, *English Course for Yemen* Work Book 6 (Grade 12), Unit 2, lesson 2.9, printed pp.22-24 |
+| Be yes/no questions with short answers, singular and plural — "Is your cat sad? — No, she isn't / Is she happy? — Yes, she is / Are your pets sad? — No, they aren't / Are they happy? — Yes, they are" | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Unit 2, printed pp.24–29 |
+| "Do you want a banana? — Yes, please / No, thanks" | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Unit 3, printed p.42 |
+| Yes/no with do — "Do you like comic books? — No, I don't. I don't like comic books / Do you listen to stories? — Yes, I do" | Ecuador — *Starship English*, Level A1.1 (Children) (Grade 4 file), Student Book, Unit 2, printed p.24 |
+| Ability yes/no — "Can you play the piano? — Yes, I can / No, I can't" | Ecuador — *Starship English*, Level A1.1 (Children) (Grade 4 file), Student Book, Unit 4, printed p.62 |
 
-**Acceptance count: taught in 27 countries (Bangladesh,
+**Acceptance count: taught in 28 countries (Bangladesh,
 Bolivia, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan).** Bolivia boxes the do/does engine;
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador).** Bolivia boxes the do/does engine;
 Mongolia works the be-swap on its doing-now questions;
 Bangladesh teaches the voice the question rides on; China
 adds the full shelf of shapes across its primary run — be,
@@ -296,3 +300,5 @@ invert, other verbs take the "helping verb" Do/Does
 
 
 **Afghanistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 4 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 7 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan teaches the yes/no question by conversion in its first book — statement to question to short answer, across two whole units of food sets, the second unit adding the full negative answer — and states it as grammar in Grade 7's be summary.
+
+**Ecuador added 2026-11-04** — 2 books stock this lesson: **Book:** *Starship English, Level Pre A1.2* (Student Book + Activity Book bound in one volume; the Grade 3 file) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95198-3, first printing 2016. **Book:** *Starship English, Level A1.1 (Children)* (Student Book + Activity Book bound in one volume; the Grade 4 file — the book itself prints only the level, no grades) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95199-0, held copy fifth printing 2018. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Ecuador builds yes/no questions across both Starship books — be-questions with short answers and do-offers in Pre A1.2, do-questions and can-questions in A1.1.

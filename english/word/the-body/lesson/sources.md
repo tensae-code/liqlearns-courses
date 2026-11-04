@@ -1,6 +1,6 @@
 # Sources — The body
 
-countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -165,9 +165,11 @@ english/books/jordan.md (Grade 2 Pupil's Book Semester 1 section, FULLY READ + C
 | MAPPED — body-part words for a mask activity: face, eyes, nose | Malaysia, Year 1 Scheme of Work (KSSR), as mapped in the Scheme of Work — scheme-of-work/mapped evidence only: the pupil's book it maps (Superminds 1) is not held, and this is not a textbook read or a pupil's-book page, "Pet Show" topic (Superminds 1 Unit 3, Lessons 79–116) |
 | Body-part words | Malaysia, Form 3 *Close-Up* B1 Student's Book, Second Edition (National Geographic Learning/Cengage © 2016, ISBN 978-1-4080-9554-6 — generic international edition), Unit 12 "The Body Beautiful", pp.147–158 |
 | The body-parts set taught as a song, 'Put them together' (arms, legs, fingers, toes, eyes, ears, mouth, nose, feet, hands, head, knee) | Yemen, *English Course for Yemen* Pupil's Book 1 (Grade 7), Unit 2, printed p.7 |
+| The body set as a numbered list of 25 — body, face, head, eye, ear, nose, mouth, finger, back, neck, chest, arm, hand, leg, thumb, foot, toe, then the plurals eyes, ears, arms, legs, hands, feet, fingers, toes | Ecuador — *Starship English*, Level A1.1 (Children) (Grade 4 file), Student Book, Unit 5, printed p.87 |
+| Naming parts with this/these — "What's this? — This is my head / What are these? — These are my arms" — and reporting small hurts: "I hurt my nose / I cut my finger" (the book's own Scope and Sequence labels hurt/cut a formulaic phrase, not a past-tense lesson) | Ecuador — *Starship English*, Level A1.1 (Children) (Grade 4 file), Student Book, Unit 5, printed pp.86–91 |
 
-**Acceptance count: taught in 25 countries (Egypt, Palestine,
-Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan).**
+**Acceptance count: taught in 26 countries (Egypt, Palestine,
+Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador).**
 Palestine carries the core seven by touch;
 Egypt carries the parts at work in the five sense sentences,
 plus three more inside its letter pages; China carries the
@@ -212,3 +214,5 @@ stomachache (p.73).
 
 
 **Afghanistan added 2026-11-04** — 1 book stocks this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 4 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan teaches the body in its first book's fourteenth unit — a nine-word core set, more parts inside the sentence work, and the irregular body plurals (tooth–teeth, foot–feet) drilled as their own set. Grade 7's "My body" unit works height, weight and illness over the same ground but names no new body set.
+
+**Ecuador added 2026-11-04** — 1 book stocks this lesson: **Book:** *Starship English, Level A1.1 (Children)* (Student Book + Activity Book bound in one volume; the Grade 4 file — the book itself prints only the level, no grades) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95199-0, held copy fifth printing 2018. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Ecuador's body teaching sits in one Starship unit, which carries the set, its plurals and a hurt-parts dialogue; the earlier books name only stray parts inside other topics and are not cited.

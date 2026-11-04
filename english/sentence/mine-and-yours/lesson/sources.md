@@ -1,6 +1,6 @@
 # Sources — Mine and yours
 
-countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -153,9 +153,11 @@ CITATION CHECK PASSED 2026-11-03).
 | 'Whose ...?' matching with possessive answers | Yemen, *English Course for Yemen* Work Book 2 (Grade 8), Unit 5, exercise 5.11 (Unit 5, printed pp.61-76) |
 | The possessive-pronoun lesson in full: my/mine, your/yours, his, her/hers, our/ours, their/theirs, with sentence rewriting | Yemen, *English Course for Yemen* Work Book 2 (Grade 8), Unit 5, exercise 5.12 (Unit 5, printed pp.61-76) |
 | The set gathered in the unit's Language summary: Whose questions with possessive pronouns, beside shall we / How about and one/ones substitution | Yemen, *English Course for Yemen* Pupil's Book 2 (Grade 8), Unit 5, Language summary, printed p.58 |
+| Possessive adjectives as the opener's grammar — my, your, his, her — inside "What's your name? / My name's… / What's his/her name? / His/Her name's…" | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Unit 1, printed p.4 |
+| Possessives his/her in the school opener — "What's his/her name?", "He's our librarian / She's our nurse" | Ecuador — *Starship English*, Level A1.1 (Children) (Grade 4 file), Student Book, Unit 1, printed p.4 |
 
 
-**Acceptance count: taught in 23 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan).**
+**Acceptance count: taught in 24 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador).**
 Mongolia's "That's Mine" unit carries the whole lesson —
 the 's box, the whose matching, the three-rung box, the
 game; Egypt's youngest books hold the partner forms from
@@ -215,3 +217,5 @@ irregular plurals (p.47), and a pronoun → possessive adjective
 
 
 **Afghanistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 4 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 7 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan meets the possessives first as Grade 4 paired models (my/his/her/your/their over things pupils have) and teaches the full adjective/pronoun table — the mine-and-yours forms themselves — in Grade 7's clothes unit, under whose-questions.
+
+**Ecuador added 2026-11-04** — 2 books stock this lesson, as a partial: **Book:** *Starship English, Level Pre A1.2* (Student Book + Activity Book bound in one volume; the Grade 3 file) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95198-3, first printing 2016. **Book:** *Starship English, Level A1.1 (Children)* (Student Book + Activity Book bound in one volume; the Grade 4 file — the book itself prints only the level, no grades) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95199-0, held copy fifth printing 2018. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly as a partial: Ecuador teaches the possessive adjectives my, your, his, her in both Starship openers, but the possessive pronouns mine and yours are never taught anywhere in the set.

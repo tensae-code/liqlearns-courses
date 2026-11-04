@@ -1,6 +1,6 @@
 # Sources for this lesson — What's his and her name?
 
-countries: Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia
+countries: Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia, Ecuador
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -34,8 +34,11 @@ Book (Garnet / CERC, © 2019; verified on disk 2026-10-25: %PDF,
 | Possessives and pronouns his/her, as mapped curriculum coverage only (Scheme of Work evidence, not a pupil's-book page) | Malaysia, Year 1 Scheme of Work (KSSR), Let's Play! topic (Superminds 1 Unit 2, Lessons 48–78), printed pp.125–189 |
 | "…'s favourite animal is a …" — possessive 's naming a third person/animal, as mapped curriculum coverage only (Scheme of Work evidence, not a pupil's-book page) | Malaysia, Year 1 Scheme of Work (KSSR), Pet Show topic (Superminds 1 Unit 3, Lessons 79–116), printed pp.191–272 |
 | Possessive his/her + name + 's, as mapped curriculum coverage only (Scheme of Work evidence, not a pupil's-book page) | Malaysia, Year 3 Scheme of Work (KSSR), Unit 1 "Welcome" (mapped over Get Smart plus 3, SB pp.5–14), SOW Lessons 1–16 |
+| The frame itself, in the opener's grammar: "What's his/her name? / His/Her name's…" | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Unit 1, printed p.4 |
+| The family version — "Who's he? — He's my grandpa / Who's she? — She's my mother / Who are they? — They're my sisters" | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Unit 1, printed p.10 |
+| "What's his/her name?" in the school opener, with the possessives his/her | Ecuador — *Starship English*, Level A1.1 (Children) (Grade 4 file), Student Book, Unit 1, printed p.4 |
 
-**Acceptance count: taught in 13 countries (Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia).**
+**Acceptance count: taught in 14 countries (Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia, Ecuador).**
 China names third people by role with he/she and identifies
 family members one by one; North Macedonia works the naming
 frame through a full set of named family portraits. Iran and
@@ -215,3 +218,5 @@ Libya's wording.
 **Yemen checked 2026-11-04 - not stocked.** The question 'What's his/her name?' is never printed in any held book. The nearest material is Workbook 1's gap work on His/Her name statements for Tom and Anne (Unit 3, printed p.14), which practises the answer form only, never the question - under the house bar (the frame must be printed) nothing is stocked.
 
 **Afghanistan checked 2026-11-04 — not stocked.** The frame "What's his/her name?" is printed nowhere in the nine books. Grade 4's family unit practises his/her over family members ("This is Habib. Halima is his wife.", Unit Thirteen, printed pp.119–120) and its review asks "What do we call the woman's child?", but no book asks a third person's name. Nothing is stocked.
+
+**Ecuador added 2026-11-04** — 2 books stock this lesson: **Book:** *Starship English, Level Pre A1.2* (Student Book + Activity Book bound in one volume; the Grade 3 file) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95198-3, first printing 2016. **Book:** *Starship English, Level A1.1 (Children)* (Student Book + Activity Book bound in one volume; the Grade 4 file — the book itself prints only the level, no grades) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95199-0, held copy fifth printing 2018. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Ecuador prints this lesson's exact frame in both of its Starship coursebooks — as opener grammar in Pre A1.2 and again in the A1.1 school unit.

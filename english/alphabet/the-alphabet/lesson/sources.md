@@ -1,6 +1,6 @@
 # Sources — The alphabet
 
-countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador
 
 Every part traces to its book and page. The PDF of Libya's Pupils Book
 is one book page per PDF page, with the book page printed at the
@@ -338,8 +338,12 @@ sound is learned.
 | The alphabet presented as a colour chart to learn - capital and small letters together (the course's first lesson; English starts at Grade 7 in Yemen) | Yemen, *English Course for Yemen* Pupil's Book 1 (Grade 7), Unit 1, printed p.1 |
 | Matching capital letters to small letters A-Z as written practice | Yemen, *English Course for Yemen* Workbook 1 (Grade 7), Unit 1, exercise 1.11, printed pp.4-5 |
 | The letters grouped by their sounds with pictured words (short a, a-e, e, i, i-e, o, u) - letter-pattern grouping only; the course has no phonics programme | Yemen, *English Course for Yemen* Pupil's Book 1 (Grade 7), Unit 3, printed pp.10-11 |
+| The full alphabet chart — all 26 letter pairs Aa–Zz, each with one small picture and no printed word (the example words are guessed from the pictures) | Ecuador — *English*, Elementary Sublevel transition text, Grade 2 (MINEDUC, 2024), Worksheet 6 "The alphabet," printed p.35 |
+| Letter-sound work on two vowels only: Letter A — "a as in cat" / "a as in grape," with a formation diagram and a circle-the-picture task; Letter U on the same layout (its sub-heading repeats "Letter A" in print — a copy-paste slip in the book) | Ecuador — *English*, Elementary Sublevel transition text, Grade 2 (MINEDUC, 2024), Worksheet 6, printed pp.36–37 |
+| The full alphabet A–Z in upper and lower case, printed as item 7 of the course opener, beside the name work | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Unit 1, printed p.5 |
+| Writing the missing alphabet letters in the Activity Book's opening lesson | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Activity Book, Unit 1, printed AB4–AB9 |
 
-**Acceptance count: taught in 24 countries (Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan).**
+**Acceptance count: taught in 25 countries (Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador).**
 China joins through its Grade 3 Volume 1: the ABC song is placed
 before any letter teaching (Unit 1, p.6), and Recycle 2 adds a
 missing-letter sequence exercise (p.69) — the alphabet as a sung
@@ -590,3 +594,5 @@ pp.83–90).
 
 
 **Afghanistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 4 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 7 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan teaches English from Grade 4, and its first book opens on the alphabet itself: the Starter teaches all 26 letters by name with a picture word each and copying after every block, vowels named as their own set. The Grade 7 book — the first secondary book — re-teaches the same alphabet in letter-blocks through its first two units. No letter sounds are given in Grade 4; letters are taught by name and by an initial-letter picture only.
+
+**Ecuador added 2026-11-04** — 2 books stock this lesson: **Book:** *English — Elementary Sublevel: Student Book for Curricular Transition*, Grade 2 (student's book) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-39-2. **Book:** *Starship English, Level Pre A1.2* (Student Book + Activity Book bound in one volume; the Grade 3 file) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95198-3, first printing 2016. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Ecuador teaches the alphabet twice: the Grade 2 transition text closes on it (a full chart, then sound work on A and U only — the other letters get no treatment), and the Starship course opens with the full upper- and lower-case set printed beside its name work. Filed plainly: the Grade 1 transition book teaches no alphabet at all — it is picture cards only — and is not cited here.

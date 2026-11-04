@@ -1,6 +1,6 @@
 # Sources — Present actions
 
-countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -239,11 +239,13 @@ CITATION CHECK PASSED 2026-11-03).
 | The present continuous introduced over a living-room picture - 'What is Tom doing?' - and carried through the unit's story and song | Yemen, *English Course for Yemen* Pupil's Book 1 (Grade 7), Unit 6, printed pp.36-38 |
 | Present simple against present continuous taught in a Language study, with -ing spelling tables | Yemen, *English Course for Yemen* Workbook 3 (Grade 9), Unit 1, Language study, printed p.13 |
 | The continuous tenses across present/past/future gathered in one review table | Yemen, *English Course for Yemen* Pupil's Book 3 (Grade 9), Language review 3, printed p.34 |
+| The set's first real grammar contrast, in the book's own words: Simple Present is for things that happen regularly — "like a habit," model "I play with my toys every day" — and Present Continuous is for things happening right now — "like a snapshot," model "I am playing with my toys" — with examples drawn from the book's story (habitual go/work/help; ongoing are feeling / are taking) | Ecuador — *English*, Elementary Sublevel transition text, Grade 2 (MINEDUC, 2024), Worksheet 3, printed pp.23–24 |
+| Ten fill-in exercises in labelled sets — Simple Present, then Present Continuous, then mixed — whose answers require the full form (e.g. "is playing") | Ecuador — *English*, Elementary Sublevel transition text, Grade 2 (MINEDUC, 2024), Worksheet 3, printed p.24 |
 
 
-**Acceptance count: taught in 28 countries (Egypt, Ghana,
+**Acceptance count: taught in 29 countries (Egypt, Ghana,
 Libya, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan).** Egypt boxes the every-day face inside
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador).** Egypt boxes the every-day face inside
 routines; Mongolia tables the right-now face and its
 questions; Libya's reference names both faces' uses and
 posts the refusal list; Ghana names the simple present's
@@ -313,3 +315,5 @@ futures (Student's Book, Unit 1, printed pp.6–16).
 
 
 **Afghanistan added 2026-11-04** — 3 books stock this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 5 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 7 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 8 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan teaches the continuous early — models in Grade 5's second unit, its first paradigm table two units later — and completes the system in Grade 8 with questions and short answers. The simple present arrives as Grade 7 example sentences; its question forms are Grade 8's work and are filed there in the country file, not double-counted here.
+
+**Ecuador added 2026-11-04** — 1 book stocks this lesson: **Book:** *English — Elementary Sublevel: Student Book for Curricular Transition*, Grade 2 (student's book) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-39-2. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Ecuador teaches both faces of the present as one named contrast in its Grade 2 reading worksheet. Filed plainly: the Starship books are not cited — Pre A1.2 has no continuous forms at all, and A1.1 works present-simple frames without naming a tense system.

@@ -1,6 +1,6 @@
 # Sources — Capital letter and full stop
 
-countries: Bangladesh, Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Bangladesh, Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -167,9 +167,10 @@ CITATION CHECK PASSED 2026-11-03).
 | Punctuation taught as named marks - the capital letter, apostrophe, comma, question mark and full stop are named and marked in sentences, then four unpunctuated sentences are rewritten correctly | Yemen, *English Course for Yemen* Workbook 1 (Grade 7), Unit 6, exercise 6.15, printed pp.56-57 |
 | The same five marks taught as a punctuation exercise in the Grade 9 workbook's revision unit | Yemen, *English Course for Yemen* Workbook 3 (Grade 9), Unit 1, printed p.17 |
 | A full punctuation lesson built on capital letters, full stops and question marks, with a giraffe story to re-punctuate | Yemen, *English Course for Yemen* Workbook 4 (Grade 10), Unit 1, exercise 1.8 (Unit 1, printed pp.2-15) |
+| The punctuation rule stated outright in the sentence lesson: start with a capital letter, end with a period | Ecuador — *English*, Elementary Sublevel transition text, Grade 2 (MINEDUC, 2024), Worksheet 4, printed p.29 |
 
-**Acceptance count: taught in 22 countries (Bangladesh,
-Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan).** Ghana states the rules as curriculum strands;
+**Acceptance count: taught in 23 countries (Bangladesh,
+Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador).** Ghana states the rules as curriculum strands;
 Bangladesh boxes the capital rule, prints a text wearing it
 in red, and drills the stop/question-mark pair in its first
 punctuation exercises; Indonesia names the marks and
@@ -214,3 +215,5 @@ their books are read (see READING-QUEUE.md).
 
 
 **Afghanistan added 2026-11-04** — 3 books stock this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 6 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 7 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 11 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan states the capital-and-stop rules outright once, in Grade 6's travel unit, and re-states the punctuation set as writing work in Grade 7; Grade 11 folds capitals and full stops into its ten paragraph rules.
+
+**Ecuador added 2026-11-04** — 1 book stocks this lesson: **Book:** *English — Elementary Sublevel: Student Book for Curricular Transition*, Grade 2 (student's book) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-39-2. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Ecuador states this lesson's whole rule in one line of its Grade 2 writing worksheet, inside the parts-of-a-sentence teaching; no other book in the set states a punctuation rule, and none is cited beyond this page.

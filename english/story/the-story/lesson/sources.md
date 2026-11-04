@@ -1,6 +1,6 @@
 # Sources — The story
 
-countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -240,9 +240,11 @@ PASSED 2026-11-03).
 | Story lessons closing units at Grade 11: the London schoolboy Barry Jones stories (Units 1, 3 and 4, with a related story in Unit 5) | Yemen, *English Course for Yemen* Pupil's Book 5 (Grade 11), printed pp.6, 22, 30 and 38 |
 | A whole unit on stories, opening with the genres — horror, true, science fiction, historical fiction, adventure — at a bookshop | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 11, Lesson 1, printed pp.112–113 |
 | A story graphic organiser — title, problem, characters, events 1–3, solution — filled from the read story (Dickens's David Copperfield, as the book summarises it), then used for the pupil's own story | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 11, Lesson 3, printed pp.117–118 |
+| A complete printed story — "Finding a cute treasure" (filed as plot summary only), credited in the book as taken and adapted from British Council LearnEnglish Kids short stories — read, then answered in eight comprehension items and discussed for its present-tense verbs | Ecuador — *English*, Elementary Sublevel transition text, Grade 2 (MINEDUC, 2024), Worksheet 3, printed pp.20–23 |
+| Two short phonics-review stories as the book's only connected reading passages — "A Jewel for the King" and "Going to the City" (both filed as plot summaries only), each followed by five missing-word questions | Ecuador — *Starship English*, Level A1.1 (Children) (Grade 4 file), Student Book, Phonics Review, printed pp.116–119 |
 
-**Acceptance count: taught in 25 countries (Bangladesh,
-Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan).** Ghana names the narrative mode; Bangladesh
+**Acceptance count: taught in 26 countries (Bangladesh,
+Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador).** Ghana names the narrative mode; Bangladesh
 teaches stories from its earliest classes with the fables;
 Egypt reads whole stories through the secondary years;
 China names the story's three parts outright (setting,
@@ -322,3 +324,5 @@ READING-QUEUE.md).
 
 
 **Afghanistan added 2026-11-04** — 1 book stocks this lesson: **Book:** *English for Afghanistan: Student's Book*, Grade 9 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan's story teaching is Grade 9's stories unit: the genres named at the bookshop, a summarised novel taken apart on a story organiser (problem, characters, events, solution), and the pupil's own story built on the same frame. The set's many reading stories are content, filed in the country file; the stocked teaching is this unit.
+
+**Ecuador added 2026-11-04** — 2 books stock this lesson: **Book:** *English — Elementary Sublevel: Student Book for Curricular Transition*, Grade 2 (student's book) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-39-2. **Book:** *Starship English, Level A1.1 (Children)* (Student Book + Activity Book bound in one volume; the Grade 4 file — the book itself prints only the level, no grades) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95199-0, held copy fifth printing 2018. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Ecuador's story stock is its Grade 2 adapted treasure story — the one full story printed in the transition set — and the two short stories that close the A1.1 book's phonics review. Filed plainly: the Medium book's "Building stories" worksheet prints no story at all (it teaches visual text types), and the Grade 2 listening stories exist only as audio, so neither is cited.

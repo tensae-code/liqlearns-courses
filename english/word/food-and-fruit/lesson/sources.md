@@ -1,6 +1,6 @@
 # Sources — Food and fruit
 
-countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -266,9 +266,12 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Uncountable food and drink presented as a set (coffee, tea, juice, milk, water, rice, bread, cheese, meat - chicken, lamb) | Yemen, *English Course for Yemen* Pupil's Book 1 (Grade 7), Unit 4, printed p.23 |
 | Container words for food and drink (a glass of water, a cup of coffee, a bottle of Pepsi, a can of 7-up, a jar of coffee, a carton of milk, a packet of tea, a bag of rice) | Yemen, *English Course for Yemen* Pupil's Book 1 (Grade 7), Unit 4, printed p.25 |
 | Yemeni produce as a picture-matched set (dates, figs, mangoes, papayas, sorghum, apricots, grapes, pears) with cooking-action verbs (boil, squeeze, peel, crush, grate, chop, grill, grind) | Yemen, *English Course for Yemen* Pupil's Book 6 (Grade 12), Unit 4, printed p.25 |
+| Foods of the world as a reading — pizza (Italy), sushi (Japan), tacos (Mexico), curry (India), Ropa Vieja (Cuba) — with draw-and-describe and ask-and-answer food tasks | Ecuador — *English*, Elementary Sublevel transition text, Grade 2 (MINEDUC, 2024), Worksheet 1, printed pp.14–16 |
+| The food-and-drink set — an apple, an orange, milk, water, a banana, a mango, soda pop, juice, a hamburger, a muffin, a donut, a sandwich, a cookie, a hot dog — inside "What do you want? — I want juice, please" | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Unit 3, printed pp.42–47 |
+| The second food set — fruit, vegetables, strawberries, carrots, potatoes, grapes, tomatoes, beans, a chocolate bar, fish, rice, noodles, French fries, a pizza, chicken, ice cream — inside ordering, with countable a against uncountable some | Ecuador — *Starship English*, Level A1.1 (Children) (Grade 4 file), Student Book, Unit 3, printed pp.48–53 |
 
-**Acceptance count: taught in 27 countries (Bangladesh, Egypt,
-Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan).**
+**Acceptance count: taught in 28 countries (Bangladesh, Egypt,
+Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador).**
 Egypt carries the meals and the breakfast plate;
 Bangladesh carries the like-exchange and the healthy sorting;
 Palestine carries the fruit set with its a/an pair and the
@@ -312,3 +315,5 @@ books are read (see READING-QUEUE.md).
 
 
 **Afghanistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 4 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 7 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan teaches the two sets one unit apart in its first book — vegetables, then fruits — and returns in Grade 7 with a full food unit: the picture sort into food and drink and the food pyramid's four groups.
+
+**Ecuador added 2026-11-04** — 3 books stock this lesson: **Book:** *English — Elementary Sublevel: Student Book for Curricular Transition*, Grade 2 (student's book) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-39-2. **Book:** *Starship English, Level Pre A1.2* (Student Book + Activity Book bound in one volume; the Grade 3 file) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95198-3, first printing 2016. **Book:** *Starship English, Level A1.1 (Children)* (Student Book + Activity Book bound in one volume; the Grade 4 file — the book itself prints only the level, no grades) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95199-0, held copy fifth printing 2018. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Ecuador stocks food three times: as world-culture reading in the Grade 2 transition text, and as the wants/ordering vocabulary of both Starship coursebooks.

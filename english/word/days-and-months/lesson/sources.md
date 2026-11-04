@@ -1,6 +1,6 @@
 # Sources — Days and months
 
-countries: Bangladesh, Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Bangladesh, Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -188,9 +188,12 @@ english/books/jordan.md (Grade 6 Activity Book Semester 2 section, FULLY READ + 
 | The months of the year in a poem about Yemen's seasons | Yemen, *English Course for Yemen* Pupil's Book 3 (Grade 9), Unit 3, printed p.17 |
 | Dates: the 'Thirty days has September' rhyme, days-in-month, ordinal dates | Yemen, *English Course for Yemen* Pupil's Book 3 (Grade 9), Unit 3, printed p.19 |
 | Writing and saying dates taught in a Language study | Yemen, *English Course for Yemen* Workbook 3 (Grade 9), Language study, printed p.40 |
+| The days Sunday–Saturday with "What day is it today? — It's Saturday," beside morning / afternoon / evening and o'clock sentences | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Learn more (after Unit 2), printed p.33 |
+| The twelve months January–December as the birthday unit's vocabulary | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Unit 5, printed p.87 |
+| Months practised in the Activity Book — letter completion, then numbering the months in order, with the pupil's own birthday and age | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Activity Book, Unit 5, printed AB50–AB55 |
 
-**Acceptance count: taught in 26 countries (Bangladesh,
-Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan).** Egypt
+**Acceptance count: taught in 27 countries (Bangladesh,
+Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador).** Egypt
 carries the days first (its school-week
 order, Saturday-first); Bangladesh carries the days on a
 Sunday-first calendar, the months with their ordinal numbers,
@@ -268,3 +271,5 @@ first of January" (p.99).
 
 
 **Afghanistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 5 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 7 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan splits the two halves across books, and the split is filed plainly: the months are taught as a list in Grade 5, but the days are never presented as a taught list in the primary books — they appear inside exercises only — and arrive as calendar work in Grade 7, which also re-lists the months. Both halves are stocked, each from the book that actually teaches it.
+
+**Ecuador added 2026-11-04** — 1 book stocks this lesson: **Book:** *Starship English, Level Pre A1.2* (Student Book + Activity Book bound in one volume; the Grade 3 file) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95198-3, first printing 2016. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Ecuador teaches both halves of this lesson inside one coursebook — days in a Learn more page, months in the birthday unit — and practises the months in its Activity Book.

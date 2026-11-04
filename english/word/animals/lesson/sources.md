@@ -1,6 +1,6 @@
 # Sources — Animals
 
-countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -243,10 +243,13 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 2 section, FULLY READ + C
 | Animals identified from can/has got clues in a reading puzzle (fish, camel, cat, bird) | Yemen, *English Course for Yemen* Pupil's Book 1 (Grade 7), Unit 3, printed p.17 |
 | Describing animals: five short factual texts (long-eared owl, fennec fox, mountain zebra, otter, rattlesnake) covering colour, habitat, food and habits | Yemen, *English Course for Yemen* Pupil's Book 2 (Grade 8), Unit 6, printed p.59 |
 | Animal vocabulary with guessing an animal from a description (elephant, giraffe, tiger, monkey, lion, camel) | Yemen, *English Course for Yemen* Pupil's Book 3 (Grade 9), Unit 2, printed p.8 |
+| Thirty-seven animal picture cards in one worksheet — pets, farm and wild animals, from dog, cat and fish to polar bear, wolf and gorilla — closing on "Do you have animals at home? Draw them and name them." | Ecuador — *English*, Preparatory Sublevel transition text, Grade 1 (MINEDUC, 2024), Worksheet 7, printed pp.37–42 |
+| The pets word bank — chicken, dog, cat, guinea pig, hamster, bird, rabbit, fish — written under pet pictures, beside a pet poem and pet talk | Ecuador — *English*, Elementary Sublevel transition text, Grade 2 (MINEDUC, 2024), Worksheet 2, printed pp.17–19 |
+| The six pets — a cat, a dog, a fish, a bird, a mouse, a turtle — described with adjectives inside Is your pet…? questions | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Unit 2, printed pp.24–29 |
 
-**Acceptance count: taught in 28 countries (Bangladesh, Egypt,
+**Acceptance count: taught in 29 countries (Bangladesh, Egypt,
 Libya, Palestine, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan).** Egypt carries the farm four with the first
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador).** Egypt carries the farm four with the first
 size pair; Palestine carries the youngest learners' set;
 Bangladesh carries homes and foods as whole sentences; Libya
 carries the wild names inside its letter list; China carries
@@ -287,3 +290,5 @@ countries join as their books are read (see READING-QUEUE.md).
 
 
 **Afghanistan added 2026-11-04** — 1 book stocks this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 5 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan's animal set is Grade 5's zoo unit — nine named animals (ten with the drills' tiger) worked through a story visit, a poem and fact sentences. Grade 4's animals are alphabet picture words only and are not stocked here.
+
+**Ecuador added 2026-11-04** — 3 books stock this lesson: **Book:** *English — Preparatory Sublevel: Student Book for Curricular Transition*, Grade 1 (student's book) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-38-5. **Book:** *English — Elementary Sublevel: Student Book for Curricular Transition*, Grade 2 (student's book) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-39-2. **Book:** *Starship English, Level Pre A1.2* (Student Book + Activity Book bound in one volume; the Grade 3 file) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95198-3, first printing 2016. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Ecuador's animal stock runs from the Grade 1 book's 37-card worksheet through Grade 2's pets to the Starship course's described pets.

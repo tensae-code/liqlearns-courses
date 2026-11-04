@@ -1,6 +1,6 @@
 # Sources — Telling the time
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -173,9 +173,12 @@ english/books/jordan.md (Grade 3 Pupil's Book Semester 1 section, FULLY READ + C
 | Telling the time: o'clock times 1-12, with the number words one-twelve printed on the same page | Yemen, *English Course for Yemen* Pupil's Book 1 (Grade 7), Unit 5, printed p.31 |
 | 'What's the time?' - the full system: past/to, quarter/half, minutes and seconds | Yemen, *English Course for Yemen* Pupil's Book 3 (Grade 9), Unit 2, printed p.9 |
 | Telling the time from clock faces for Tom's and Fatma's routines, then writing about Tom and yourself | Yemen, *English Course for Yemen* Work Book 2 (Grade 8), Unit 1, exercise 1.5 (Unit 1, printed pp.1-13) |
+| Telling the time on the hour and at quarter points only — seven/eight/nine o'clock; ten fifteen, twelve thirty, six forty-five, seven fifteen — with analogue and digital clocks pictured side by side | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Unit 5, printed pp.80–85 |
+| "It's time for…" — breakfast, school, recess, lunch, dinner, homework, bed — carried through the unit's routine song | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Unit 5, printed p.82 |
+| Writing times in the Activity Book — matching, writing your own breakfast / lunch / dinner times, and writing times as numbers (ten o'clock, nine thirty, six fifteen) | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Activity Book, Unit 5, printed AB44–AB49 |
 
-**Acceptance count: taught in 26 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan).** Bangladesh carries
+**Acceptance count: taught in 27 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador).** Bangladesh carries
 the clock's hands, the
 o'clock shape, and the a.m./p.m. rule; Egypt carries times
 inside the day's routines with the book's own question;
@@ -242,3 +245,5 @@ times; secondary adds the quarter-and-half system.
 
 
 **Afghanistan added 2026-11-04** — 3 books stock this lesson: **Book:** *English for Afghanistan: Let's Start*, Grade 5 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 7 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 8 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan gives the time a full primary unit (Grade 5, Unit 10) — the question, the o'clock answers, digital-to-words models and the whole past/to table — then widens the expressions in Grade 7 and runs both namings side by side in Grade 8's time-zones unit.
+
+**Ecuador added 2026-11-04** — 1 book stocks this lesson: **Book:** *Starship English, Level Pre A1.2* (Student Book + Activity Book bound in one volume; the Grade 3 file) — Ecuador, Ministerio de Educación with Houghton Mifflin Harcourt, Dr. Ken Beatty, ISBN 978-0-544-95198-3, first printing 2016. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Ecuador's time teaching is one Starship unit: clock faces on the hour and at the quarter points, tied to the day's routine, with the writing done in the Activity Book.
