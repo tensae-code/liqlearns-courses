@@ -673,3 +673,11 @@ liqlearns-courses/
   small explanation · Detailed explanation, easy questions. This is the
   delivery-form knob from the one-course-many-forms design, put in the
   learner's hands at build time.
+
+## DIRECT ENTRY — LEARN THE ONE THING YOU CAME FOR (2026-11-04)
+
+His ruling, courses chat, 2026-11-04: when a learner opens a lesson, they want to learn THAT thing only — they do not want to be started from things they already know. Most people come for one certain thing, learn it on its one level, and that is it.
+
+- Every lesson must stand alone for a learner who lands on it directly: it teaches its one thing completely without requiring the earlier lessons first.
+- Prerequisites may be shown only as a soft hint at the top — in his shape: if you know this one, this course will be easier for you, so you might as well try this one first. A suggestion, never a gate, never a forced start.
+- This sharpens the standing prerequisite rule (recommended "start here instead" paths, never forced, 2026-10-11): the hint stays, the standalone lesson is the law.
