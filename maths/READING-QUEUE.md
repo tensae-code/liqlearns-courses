@@ -27,7 +27,7 @@ have no maths book in the record at all.
 | Country | Maths books held | Reading state |
 |---|---|---|
 | Kazakhstan | 203 in hand (198 student + 5 teacher) | **READ COMPLETE 2026-11-04 — all 203 files fully read + citation-checked (1,555 anchors: 1,416 passed, 132 corrected, 7 not found), filed in maths/books/kazakhstan.md (87 distinct works). No Grade 10 Algebra and no Grade 11–12 maths in hand** |
-| Jordan | 95 in hand (52 student + 43 teacher) | QUEUED — not yet read |
+| Jordan | 95 in hand (52 student + 43 teacher) | **READ COMPLETE 2026-11-04 — all 95 files fully read + citation-checked (1,254 anchors: 1,208 passed, 46 corrected, 0 not found), filed in maths/books/jordan.md (68 distinct works). Gaps: Grade 8 Term 1 wholly absent; Grade 9 no teacher guide or exercise book in hand; Grade 10 Term-1 guide only as Unit 1–2 chunks; no teacher guides for Grades 11–12** |
 | South Africa | 87 in hand (87 student) | QUEUED — not yet read |
 | Egypt | 74 in hand (74 student) | QUEUED — not yet read |
 | Greece | 53 in hand (47 student + 6 teacher) | QUEUED — not yet read |
