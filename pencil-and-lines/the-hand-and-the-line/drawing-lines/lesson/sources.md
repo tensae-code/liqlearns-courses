@@ -1,6 +1,6 @@
 # Sources — Drawing lines
 
-countries: Egypt, Libya, Sierra Leone, Iraq, Ethiopia, South Africa, Syria, Nepal, Cambodia, Pakistan, Sudan
+countries: Egypt, Libya, Sierra Leone, Iraq, Ethiopia, South Africa, Syria, Nepal, Cambodia, Pakistan, Sudan, Kuwait
 
 Course: Pencil and Lines — the prerequisite course before every
 language course (his ruling, 2026-10-25).
@@ -22,6 +22,8 @@ language course (his ruling, 2026-10-25).
 | Pre-writing strokes — horizontal, vertical, slanted lines, zigzag, curves and circles, traced | Pakistan — *English 1* (student's book), Unit 1, printed p.4 |
 | Letter tracing on the sky/grass/root system — the Trace and Write pages of every letter unit (tracing only — no free line-drawing teaching) | Pakistan — *English Nursery* (student's book), letter units' Trace and Write pages; Sky, Grass and Root Letters, printed p.113 |
 | Pencil-control tracing: "Trace the lines" — the Activities half opens with line tracing, Lessons 1–2 of Unit 1 (tracing only — no free line-drawing teaching, and no pencil grip is taught anywhere in the book) | Sudan — SMILE Starter 1 Pupil's Book, Grade 1, Activities, Unit 1 Lessons 1–2, printed p.41ff ("A. Trace the lines," printed p.41) |
+| Shapes traced — triangle, circle, oval, heart, star, square, rectangle, matched and traced in the Orientation pages | Kuwait, Skyline English Student's Book 1B, Orientation, printed pp.2–3 |
+| Trace-and-copy of whole model sentences on four-line guides — trace the grey model, then copy the solid model unaided, the same routine on all 40 practice pages | Kuwait, Skyline English Handwriting Book 3A, printed pp.11–50 |
 
 Second book, same country (added 2026-10-25): Egypt KG2 Term 1 opens
 with a "Remember With Me!" page — trace the wavy and zigzag lines
@@ -115,7 +117,7 @@ lines" is printed p.2, and Unit 1 (printed pp.1–26) has
 dotted-line and letter tracing; writing across the Grade 1
 units is tracing dotted letters and words.
 
-**Acceptance count: taught in 11 countries (Egypt, 3 books; Libya,
+**Acceptance count: taught in 12 countries (Egypt, 3 books; Libya,
 3 books; Sierra Leone — pattern drawing, Primary 1 Term 1;
 Iraq — dotted-line tracing opening the Grade 1 Activities,
 printed pp.89ff; Ethiopia — "Trace the dotted lines" opening
@@ -124,7 +126,7 @@ only: letter-formation tracing in HL and FAL Grade 1, no free
 line-drawing teaching; Syria — pre-writing tracing lines
 opening the Grade 1 Workbook's first unit, printed pp.3–5,
 and pencil-control tracing of lines, spirals and shapes in
-its Handwriting Practice, printed pp.78–82; Nepal — drawing straight lines in the Grade 1 student's book's first unit, printed pp.1–6, and trace-the-way / join-the-dots line work in the Grade 1 teacher's guide's own Foundation lessons (a guide to a different, unheld workbook), printed pp.50–96; Cambodia — letter practice: tracing dotted capitals and small letters inside Units 1–2 (tracing only), printed pp.2–29; Pakistan — pre-writing strokes (horizontal, vertical, slanted, zigzag, curves, circles) traced in Grade 1 Unit 1, printed p.4, and letter tracing on the Nursery's sky/grass/root system, printed p.113 (strokes + letter tracing only, no free line-drawing teaching); Sudan — pencil-control tracing only: "Trace the lines" opening the Grade 1 Activities half, printed p.41).**
+its Handwriting Practice, printed pp.78–82; Nepal — drawing straight lines in the Grade 1 student's book's first unit, printed pp.1–6, and trace-the-way / join-the-dots line work in the Grade 1 teacher's guide's own Foundation lessons (a guide to a different, unheld workbook), printed pp.50–96; Cambodia — letter practice: tracing dotted capitals and small letters inside Units 1–2 (tracing only), printed pp.2–29; Pakistan — pre-writing strokes (horizontal, vertical, slanted, zigzag, curves, circles) traced in Grade 1 Unit 1, printed p.4, and letter tracing on the Nursery's sky/grass/root system, printed p.113 (strokes + letter tracing only, no free line-drawing teaching); Sudan — pencil-control tracing only: "Trace the lines" opening the Grade 1 Activities half, printed p.41; Kuwait — tracing only: shapes traced in Grade 1, printed pp.2–3, and whole-sentence trace-and-copy in Grade 3, printed pp.11–50).**
 The "understand the lines" framing is his: the lines are understood,
 not just traced — a wavy line is the curved move, a zigzag is the
 straight-and-corner move, and letters are those two moves mixed.
@@ -133,6 +135,7 @@ its first workbook.
 Ethiopia joins with "Trace the dotted lines" (printed p.2)
 opening its Grade 1 writing work, and dotted letters and
 words traced across Unit 1.
+Kuwait joins with tracing only: shapes matched and traced in Grade 1's Orientation pages, and whole model sentences traced then copied on four-line guides across Grade 3's Handwriting Book. No line-pattern or stroke programme is taught in Kuwait's held books.
 Counts grow as other finished countries' first books are read.
 Nepal joins with straight-line drawing in its first student's book and trace-the-way line work in its first teacher's guide, the guide's part recorded as a guide to a different, unheld workbook.
 
@@ -183,3 +186,5 @@ here.
 **Pakistan added 2026-11-03** — 2 books stock this lesson: **Book:** *English 1* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. **Book:** *English Nursery* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Pakistan's hand work is strokes + letter tracing only, no free line-drawing teaching. Grade 1's opening unit traces the pre-writing strokes — horizontal, vertical, slanted lines, zigzag, curves and circles (Unit 1, printed p.4) — before any letter work. The Nursery book's letter units each close with Trace and Write pages, and its Sky, Grass and Root Letters page (printed p.113) places every letter in its sky, grass or root zone for that tracing.
 
 **Sudan added 2026-11-04** — 1 book stocks this lesson: **Book:** *Sudan Modern Integrated Learning of English — SMILE Series — SMILE Starter 1 — Pupil's Book — Grade 1: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2nd Edition, 2020, no ISBN printed. All filed in english/books/sudan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Sudan's line work is the tracing shape of Egypt, Iraq and Ethiopia, and it is partial stock, named exactly as such: the Grade 1 book's Activities half opens with pencil-control tracing — Unit 1 Lessons 1–2 are "A. Trace the lines" (printed p.41) — before its letter-writing pages. No free line-drawing is taught, and no pencil grip is named or shown anywhere in the book, so holding-a-pencil is not stocked from Sudan.
+
+**Kuwait added 2026-11-04** — Skyline English Student's Book 1B, Skyline English Handwriting Book 3A (full read in english/books/kuwait.md). **Book:** *Skyline English Student's Book 1B, Grade 1* — Kuwait, Ministry of Education, First Edition 2025-2026. **Book:** *Skyline English Handwriting Book 3A, Grade 3* — Kuwait, Ministry of Education. All filed in english/books/kuwait.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Kuwait's stock is tracing only — shapes in Grade 1 and whole-sentence trace-and-copy in Grade 3; there is no line-pattern or stroke programme. Grade 1's Orientation pages match and trace triangle, circle, oval, heart, star, square and rectangle (printed pp.2–3), and Grade 3's Handwriting Book runs the same trace-the-grey-model then copy-the-solid-model routine on all 40 practice pages (printed pp.11–50).

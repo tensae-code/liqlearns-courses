@@ -1,6 +1,6 @@
 # Sources — Telling a story back
 
-countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan
+countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait
 
 Every part traces to its book and page.
 
@@ -107,6 +107,9 @@ PASSED 2026-11-03).
 
 **Book 24:** Teacher's Guide English Grade Six (teacher's guide) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre. Filed in english/books/nepal.md (Grade 6 — TEACHER'S GUIDE ENGLISH GRADE SIX (teacher's guide) section, FULLY READ + CITATION CHECK PASSED 2026-11-03). This guide keys to the newer eighteen-unit Grade 6 textbook, which is NOT held — the held Grade 6 student's book is the older 1994/2012 book — so the guide is cited below only for its own teaching, worded as such.
 
+**Book 25:** English Pearls of Kuwait Student's Book 6A, Grade 6 — Kuwait, Ministry of Education, First edition 2025-2026. Filed in english/books/kuwait.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 26:** Over to You Workbook 12A, Grade 12 — Kuwait, Pearson Longman. Filed in english/books/kuwait.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Workbook only — the matching Student's Book is not held; cited only for its own practice content.
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Retelling with a word box" as a set lesson form; the form repeated across the classes as "word-box cloze retelling" — the load-bearing words given, the sentences the learner's own | Bangladesh, English for Today (as filed) |
@@ -146,9 +149,11 @@ PASSED 2026-11-03).
 | Retelling named as oral work: learners retell a text in their own words and tell short stories, inside the opening unit's Oral Communication work | Pakistan, English 9, Unit 1, printed pp.13–14 |
 | The unit story retold as a set writing outcome: the Ali and Hamoor story retold, and the Daedalus and Icarus story retold | Sudan, Grade 4 Pupil's Book, Book 2, Unit 9, printed pp.65–72, and Unit 10, printed pp.73–80 |
 | Retelling the unit story as a fixed slot of every unit's Revision lesson — the five fixed slots are re-sing the chant, a guided writing task, retell the unit story, "Add words", "Say it. Spell it!" — with the Hamid story retold at Unit 4's Revision and the Ali story retold at Unit 5's Revision (Units 1–6 only are held in the pupil's book) | Sudan, Grade 5 Pupil's Book, Book 3 (A), Revision lessons, printed pp.8, 16, 24, 32, 40, 48 (the retells named at printed p.32 and printed p.40) |
+| A gap-fill retelling of the unit's tale follows its story-elements table — retelling as a set task, not named teaching | Kuwait, English Pearls of Kuwait Student's Book 6A, Unit 4, Lesson 5, printed pp.67–68 |
+| Order the 11 sentences of a model story ("A night to remember"), noting the sequencing words and pronoun links, before writing a past-event description — workbook only | Kuwait, Over to You Workbook 12A, Unit 2 (printed pp.10–15) |
 
-**Acceptance count: taught in 17 countries (Bangladesh,
-Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan).** Bangladesh equips the retelling (word box,
+**Acceptance count: taught in 18 countries (Bangladesh,
+Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait).** Bangladesh equips the retelling (word box,
 first-person, comparison); Ghana frames it (chain, Herring
 Bone, sequence order); China equips it again (the fill-in
 retell, the phone retell, the sorted diary recount);
@@ -180,7 +185,12 @@ Book names the own-words retelling as a set aim,
 "Retell a story in your own words", the point where the
 course first asks pupils to retell stories in their own
 words; South Africa teaches retelling by name — its Grade 4 Home Language book retells and writes the picture story "Jabu scrambles eggs" (printed p.12), retells its folk tale in sequence (printed pp.44–49) and retells the hare-and-tortoise race as a sports report (printed p.108), its Grade 2 First Additional Language Workbook 2 retells the Ugly Duckling in five sentences from its mini-book (printed pp.14–16) and retells "The storm" in four parts with First/Next/Then/Lastly (printed pp.54–55), and its Grade 6 Home Language Workbook 2 retells "Rabbit warns of an earthquake" from a picture mind map (printed pp.36–41); South Sudan joined 2026-11-03: it stocks the retelling in part, in its guides only — its Primary 3 Teacher's Guide teaches its two longest reading texts (the Kenyi story in Unit 5 and the flood story in Unit 6) by retelling routines, and its Primary 6 Teacher's Guide carries "Re-telling a story" as a named activity of the Short Stories unit — but no read South Sudan pupil's book names retelling, and no own-words retelling aim or comparison with the original is stated, so that framing rests on the other countries. Nepal stocks the retelling in part, in a guide only and cited for its own teaching: its Grade 6 teacher's guide teaches the retelling of "Beauty and the Beast" by "Popcorn Storytelling" — but no read Nepal student's book names retelling, so that framing rests on the other countries too.
-Other closed countries join as
+Kuwait stocks the telling-back in part: Pearls 6A
+follows its story-elements table with a gap-fill retelling
+of the unit's tale — retelling as a set task, not named
+teaching — and Workbook 12A, workbook only, has pupils order
+the 11 sentences of a model story, noting its sequencing
+words and pronoun links, before a past-event description. Other closed countries join as
 their books are read (see READING-QUEUE.md).
 
 **South Africa added 2026-11-03** — three books stock this lesson: *English Home Language, Grade 4 Workbook 1*, *English First Additional Language, Grade 2 Workbook 2* and *English Home Language, Grade 6 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. South Africa teaches retelling by name, which Ethiopia did not: the Grade 4 Home Language book's picture story "Jabu scrambles eggs" is retold and written by the learner (printed p.12), its folk tale is retold in sequence (printed pp.44–49) and the hare-and-tortoise race is retold as a sports report (printed p.108); the Grade 2 First Additional Language Workbook 2 retells the Ugly Duckling in five sentences from its mini-book (printed pp.14–16) and retells "The storm" in four parts with First/Next/Then/Lastly (printed pp.54–55); and the Grade 6 Home Language Workbook 2 retells "Rabbit warns of an earthquake" from a picture mind map (printed pp.36–41).
@@ -196,3 +206,5 @@ their books are read (see READING-QUEUE.md).
 **Pakistan added 2026-11-03** — 1 book stocks this lesson: **Book:** *English 9* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Updated/Revised National Curriculum 2023, Experimental Edition, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Filed plainly: retelling is named oral work in this one book only — Grade 9's opening unit has learners retell a text in their own words and tell short stories (Unit 1, printed pp.13–14). No other read Pakistan book names retelling, and none is claimed here.
 
 **Sudan added 2026-11-04** — 2 books stock this lesson: **Book:** *SMILE Series: Book 2 — Pupil's Book, Grade 4: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2016, no ISBN printed. **Book:** *SMILE Series: Book 3 (A) — Pupil's Book, Grade 5: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), November 2016 (the introduction's date; no year or edition is printed on the title page or imprint), no ISBN printed. All filed in english/books/sudan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Sudan's retelling is a set task pattern in the SMILE primary books, named "retell": the Grade 4 pupil's book sets the Ali and Hamoor story retold as Unit 9's writing outcome (printed pp.65–72) and the Daedalus and Icarus story retold as Unit 10's (printed pp.73–80); and the Grade 5 pupil's book (Units 1–6 only — Book 3 (A)) builds retelling into every unit, as one of the five fixed slots of its Revision lesson — re-sing the chant, a guided writing task, retell the unit story, "Add words", "Say it. Spell it!" — with the Hamid story's retelling named at Unit 4's Revision (printed p.32) and the Ali story's at Unit 5's (printed p.40). The Grade 5 pupil's text for Units 7–12 is not held, so no retelling is claimed beyond Unit 6.
+
+**Kuwait added 2026-11-04** — English Pearls of Kuwait Student's Book 6A, Over to You Workbook 12A (full read in english/books/kuwait.md). PARTIAL stock, filed exactly as a partial: Pearls 6A follows its story-elements table with a gap-fill retelling of the unit's tale, The Honest Woodcutter (Unit 4, Lesson 5, printed pp.67–68) — retelling set as a task, with no named retelling teaching. Workbook 12A, workbook only — its matching Student's Book is not held — has pupils order the 11 sentences of a model story, "A night to remember", noting the sequencing words and pronoun links, before writing a past-event description (Unit 2, printed pp.10–15).

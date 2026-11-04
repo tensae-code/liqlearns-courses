@@ -1,6 +1,6 @@
 # Sources — First, then, finally
 
-countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan
+countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait
 
 Every part traces to its book and page.
 
@@ -96,6 +96,10 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 25:** English Grade 8 (student's book) — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre. Filed in english/books/nepal.md (Grade 8 — ENGLISH Grade 8 (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 26:** Teachers' Guide English Grade 9 (teacher's guide) — Nepal, Curriculum Development Centre. Filed in english/books/nepal.md (Grade 9 — Teachers' Guide English Grade 9 (teacher's guide) section, FULLY READ + CITATION CHECK PASSED 2026-11-03). This guide is a DRAFT for an older twenty-unit textbook, NOT the companion of the held Grade 9 student's book, and the held copy is an incomplete excerpt (printed pp.1–25, 55–61, 75–81, 97–103 missing); it is cited below only for its own teaching, in a unit that survives in the held copy.
 
+**Book 27:** Skyline English Student's Book 4A, Grade 4 — Kuwait, Ministry of Education, First Edition 2025-2026. Filed in english/books/kuwait.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 28:** English Pearls of Kuwait Student's Book 6A, Grade 6 — Kuwait, Ministry of Education, First edition 2025-2026. Filed in english/books/kuwait.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 29:** English Pearls of Kuwait Student's Book 7A, Grade 7 — Kuwait, Ministry of Education, First edition 2025-2026. Filed in english/books/kuwait.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Linking words" Tip: "Linking words make the story clear and easy to follow. First, Then, After that, Finally" — the set printed as a writing law | Egypt, Secondary, the writing Tip (p.70 of its book, as filed in the book map) |
@@ -141,9 +145,13 @@ CITATION CHECK PASSED 2026-11-03).
 | The full sequence set inside a sequenced dialogue — first / then / after that / next / finally — in the airport-vocabulary work | Sudan, Grade 5 Activity Book, Book 3, Unit 6, printed pp.44–51 |
 | Instruction writing carried by first / next / then / finally in the whole-book revision unit | Sudan, Grade 5 Activity Book, Book 3, Unit 12, printed pp.94–101 |
 | Sequence adverbs First / Secondly / Next / Finally ordering the Floating Egg Experiment, with "First of all…" sequencing the chocolate-factory process | Sudan, Grade 8 Pupil's Book, Book 6, Unit 5, Lesson 7, printed p.39, and Lesson 2, printed p.34 |
+| Sequence adverbs First/Next/After that/Finally in the dolphin-show listening, then present simple with sequence adverbs narrating a park visit First… Finally | Kuwait, Skyline English Student's Book 4A, Unit 3, Lessons 1–2 (lessons pp.43–50) |
+| Planning an expository paragraph with first / next / after that / finally | Kuwait, English Pearls of Kuwait Student's Book 6A, Unit 3, Lesson 7, printed pp.56–57 |
+| Sequenced safety advice with first / next / then / after that / finally — the book states these are "always followed by commas" | Kuwait, English Pearls of Kuwait Student's Book 7A, Unit 3, Lesson 4, printed p.52 |
+| A family camping text sequenced first / next / after that / finally (vehicle check, packing, setting up the tent, the night campfire, cleaning the site) | Kuwait, English Pearls of Kuwait Student's Book 7A, Unit 3, Lesson 5, printed pp.53–54 |
 
-**Acceptance count: taught in 16 countries (Bangladesh,
-Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan).** Egypt prints the law and the set;
+**Acceptance count: taught in 17 countries (Bangladesh,
+Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait).** Egypt prints the law and the set;
 Mongolia files the family by its grammar name; Bangladesh
 tells its methods under the signposts; China adds the
 dated diary as the model recount, its events sorted before
@@ -186,7 +194,14 @@ Iran was
 checked and adds nothing here: its read books teach no
 first/then/finally signpost set (sequence is carried by
 before/after frames inside the past-perfect work, a
-different point). Other finished
+different point). Kuwait stocks the full set, finally included:
+Skyline 4A teaches First/Next/After that/Finally in its
+dolphin-show listening and its park-visit narration,
+Pearls 6A plans an expository paragraph with first /
+next / after that / finally, and Pearls 7A sequences
+safety advice and a family camping text with the same
+signposts, stating that they are always followed by
+commas. Other finished
 countries join as their books are read (see
 READING-QUEUE.md).
 
@@ -201,3 +216,5 @@ READING-QUEUE.md).
 **Sudan added 2026-11-04** — 3 books stock this lesson: **Book:** *SMILE Series: Book 3 (A) — Pupil's Book, Grade 5: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), November 2016 (the introduction's date; no year or edition is printed on the title page or imprint), no ISBN printed. **Book:** *SMILE Series: Book 3 — Activity Book, Grade 5: Basic Level* (activity book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), November 2016 (the introduction's date; no year or edition is printed on the title page or imprint), no ISBN printed. **Book:** *SMILE Series: Book 6 — Pupil's Book, Grade 8: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), November 2016 (the introduction's date; no edition statement is printed), no ISBN printed. All filed in english/books/sudan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Sudan teaches the signposts as sets, not as bare step-lists: the Grade 5 pupil's book (Units 1–6 only) works the lonely-star story under first / after that / finally (Unit 2, printed pp.9–16) and sequences Mr Hamdan's airport journey with first / after that / next / finally (Unit 6, Lesson 7, printed p.47); its complete Activity Book prints the full set — first / then / after that / next / finally — inside its sequenced airport dialogue (Unit 6, printed pp.44–51) and carries instruction writing with first / next / then / finally in its revision unit (Unit 12, printed pp.94–101); and the Grade 8 pupil's book orders the Floating Egg Experiment with First / Secondly / Next / Finally (Unit 5, Lesson 7, printed p.39), with "First of all…" sequencing the chocolate-factory process (Lesson 2, printed p.34).
 
 **Pakistan — English X added 2026-11-04** — 1 further book stocks this lesson: **Book:** *English X* (Grade 10 student's book) — Pakistan, Punjab Curriculum and Textbook Board, Lahore; National Curriculum 2006 basis; no publication year and no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). English X stood outside Pakistan's counted record and was read in under the user's 2026-11-03 ruling to fill the Grade 10 gap. It tables the signposts as named text structures: the **sequence/procedure pattern** with its signal words — first, after, next, then, third, finally — in Unit 4 (printed pp.43–45), whose writing task then has the pupil write the cuts-and-scrapes paragraph with first, next, then, after that, in the end (printed p.49); and the **chronological pattern** with its own set — first, second, before, earlier, later, meanwhile, afterwards, then, when — in Unit 11 (printed pp.133–134), where the story's events go onto a five-event timeline, the same timeline the pupil uses to summarise the Faithfulness story in Unit 13 (printed p.159).
+
+**Kuwait added 2026-11-04** — Skyline English Student's Book 4A, English Pearls of Kuwait Student's Book 6A, English Pearls of Kuwait Student's Book 7A (full read in english/books/kuwait.md). Kuwait prints the sequence set as a set, finally included, at three levels: Skyline 4A's dolphin-show listening and park-visit narration, Pearls 6A's expository-paragraph planning, and Pearls 7A's safety advice and camping text. Pearls 7A also states the punctuation rule outright — these sequence adverbs are "always followed by commas" (Unit 3, Lesson 4, printed p.52).

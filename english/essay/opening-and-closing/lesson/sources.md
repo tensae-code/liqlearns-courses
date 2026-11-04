@@ -1,6 +1,6 @@
 # Sources — Opening and closing
 
-countries: Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia, Pakistan, Sudan
+countries: Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia, Pakistan, Sudan, Kuwait
 
 Every part traces to its book and page.
 
@@ -57,6 +57,10 @@ PASSED 2026-11-03).
 **Book 12:** Emar English Series 12, Student's Book, Literary Section (student book) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 12 — Emar English Series 12, Student's Book, Literary Section (student's book) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 13:** Emar English Series 12, Workbook, Scientific Section (workbook) — Syria, Ministry of Education. Filed in english/books/syria.md (Grade 12 — Emar English Series 12, Workbook, Scientific Section (workbook) section, FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 14:** Over to You Student's Book 10B, Grade 10 — Kuwait, Pearson Longman, Simon Haines, First Edition 2009, reprinted through 2025/2026. Filed in english/books/kuwait.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 15:** English Pearls of Kuwait Student's Book 7A, Grade 7 — Kuwait, Ministry of Education, First edition 2025-2026. Filed in english/books/kuwait.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 16:** Over to You Workbook 12A, Grade 12 — Kuwait, Pearson Longman. Filed in english/books/kuwait.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Workbook only — the matching Student's Book is not held; cited only for its own practice content.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The introduction's duty — "it tells what your topic and main ideas are"; the conclusion's definition — "the same information as the introductory paragraph, written from a different perspective"; the closing's signal example as printed ("In conclusion, nobody is perfect") and its opening-motion counterpart ("First of all, …") | Bolivia compendium, the essay-structure section (as filed) |
@@ -84,8 +88,11 @@ PASSED 2026-11-03).
 | The composition's two ends named as its structure: a 150-word composition on co-education written with introduction, body and conclusion | Sudan, SPINE 5, Grade 11, Chapter Three, Writing: Argumentative, printed p.47 |
 | The two ends taught as their own writing work: first and last sentences written for set essay topics, with the lesson that an argumentative essay should begin and end with a 'punch' | Sudan, SPINE 6, Grade 12, Chapter Ten, Writing: Argumentative, printed p.166 (chapter printed pp.155–170) |
 | The letter's frame taught as rules: seven rules for formal letters (Dear Sir/Madam; Yours faithfully against Yours sincerely) with three model letters, and six rules for the openings and closings of a friendly letter | Sudan, SPINE 4, Grade 10, Unit 3, Lesson 11, printed pp.90–93, and Unit 6, Lesson 1, printed p.179 |
+| Beginning and ending a letter — the language for both ends taught inside the informal-letter writing lesson | Kuwait, Over to You Student's Book 10B, Unit 10 (printed p.36) |
+| An email-etiquette matching set — subject line, greeting, register, sign-off — worked before the unit's two emails are read | Kuwait, English Pearls of Kuwait Student's Book 7A, Unit 1, Lesson 5, printed pp.25–26 |
+| Speech writing — audience-involving openers among the persuasive techniques extracted from a model speech outline — workbook only | Kuwait, Over to You Workbook 12A, Unit 4 (printed pp.26–31) |
 
-**Acceptance count: taught in 12 countries (Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia, Pakistan, Sudan).**
+**Acceptance count: taught in 13 countries (Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia, Pakistan, Sudan, Kuwait).**
 Bolivia's table defines both ends and dresses their joints;
 Ghana's first revise question sets the opening's law;
 China frames the formal letter — open with the matter,
@@ -106,7 +113,13 @@ conclusion sums up — then builds them as named stages
 (an introduction stating the opinion and the plan, a
 conclusion) and requires introduction, conclusion and
 linking words in its test essay; South Africa stocks the ends in part — its Grade 6 First Additional Language Workbook 2 teaches introductions and conclusions by name over a story (worksheet 100, Theme 7), and its Grade 6 Home Language persuasive argument ends in a taught concluding recommendation (printed pp.48–49) — the named teaching is for story openings/closings plus an argument's conclusion, with no essay introduction/conclusion naming of the kind Greece's Αγγλικά 1 carries; Syria stocks the ends in part — its Grade 12 literary book names introduction, body and conclusion as the academic essay's parts inside its "What is an Essay" reading, and its Grade 12 scientific workbook teaches the ends in a Writing Skill box on introduction/body/conclusion for the pupil's own personal-experience essay — but no read Syria book gives a fuller guide to introductory and concluding paragraphs, or states each end's duties, of the kind Greece's Αγγλικά 1 carries.
-Other closed countries join as their books are read (see
+Kuwait stocks the ends in other forms: Student's
+Book 10B teaches beginning and ending a letter inside its
+informal-letter lesson, Pearls 7A works an email-etiquette
+set from subject line and greeting to register and sign-off,
+and Workbook 12A — workbook only — extracts audience-involving
+openers among the persuasive techniques of a model speech
+outline. Other closed countries join as their books are read (see
 READING-QUEUE.md).
 
 **South Africa added 2026-11-03** — PARTIAL stock, filed exactly as a partial: two books stock this lesson in part: *English Home Language, Grade 6 Workbook 1* and *English First Additional Language, Grade 6 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. The First Additional Language book's worksheet 100 uses a story, "My money has disappeared!", to teach introductions and conclusions by name (Theme 7, printed pp.70–102 — the worksheet and theme are cited, no single page is invented); the Home Language book's persuasive argument ends in a taught concluding recommendation (printed pp.48–49). Stated plainly: the named teaching is for story openings/closings plus an argument's conclusion — South Africa has no essay introduction/conclusion naming of the kind Greece's Αγγλικά 1 carries.
@@ -118,3 +131,5 @@ READING-QUEUE.md).
 **Pakistan added 2026-11-03** — 1 book stocks this lesson: **Book:** *English 6* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2022, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Filed plainly: Grade 6's essay writing names the essay's three parts — introductory paragraph, main body and concluding paragraph — and a model essay is dissected with the three parts labelled (Unit 11, printed pp.110–116). The parts are named and labelled in that dissected model; no hook craft is taught.
 
 **Sudan added 2026-11-04** — 3 books stock this lesson: **Book:** *THE SPINE SERIES / PUPIL'S BOOK 4 — SPINE 4* (pupil's book) — Sudan, Ministry of Education, Sudan / National Centre for Curriculum Development, first published 1995, ISBN 978-99942-919-0-8. **Book:** *THE SPINE SERIES / PUPIL'S BOOK 5 — SPINE 5* (pupil's book) — Sudan, Ministry of Education, The Sudan / National Center for Curriculum Development and Educational Research, first published 1996, ISBN 978-99942-919-9-6. **Book:** *THE SPINE SERIES / PUPIL'S BOOK 6 — SPINE 6* (pupil's book) — Sudan, Ministry of Education, the Sudan / National Centre for Curriculum Development and Educational Research, first published 1997, ISBN 978-99942-919-8-9. All filed in english/books/sudan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Sudan names the essay's ends and gives the ends one stated duty: SPINE 5 (Grade 11) has its argumentative composition written with introduction, body and conclusion named as its structure (Chapter Three, Writing, printed p.47); SPINE 6 (Grade 12) teaches the ends as their own writing work — first and last sentences written for set essay topics, with the lesson that an argumentative essay should begin and end with a 'punch' (Chapter Ten, Writing, printed p.166); and SPINE 4 (Grade 10) teaches the letter's frame as rules — seven rules for formal letters (Unit 3, Lesson 11, printed pp.90–93) and six rules for a friendly letter's openings and closings (Unit 6, Lesson 1, printed p.179). Stated plainly: Sudan's duty for the two ends is the 'punch' alone — no read Sudan book gives a fuller guide to introductory and concluding paragraphs, or states each end's duties in more detail, of the kind Greece's Αγγλικά 1 carries.
+
+**Kuwait added 2026-11-04** — Over to You Student's Book 10B, English Pearls of Kuwait Student's Book 7A, Over to You Workbook 12A (full read in english/books/kuwait.md). Kuwait's stock for this lesson sits in letters, emails and speeches rather than in an essay-ends guide: Student's Book 10B teaches the language for beginning and ending a letter inside its informal-letter writing lesson (Unit 10, printed p.36), and Pearls 7A works a full email frame — subject line, greeting, register, sign-off — before its unit's two emails are read (Unit 1, Lesson 5, printed pp.25–26). Workbook 12A, workbook only — its matching Student's Book is not held — adds speech writing, with audience-involving openers among the persuasive techniques extracted from a model speech outline (Unit 4, printed pp.26–31).

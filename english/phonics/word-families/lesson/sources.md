@@ -1,6 +1,6 @@
 # Sources for this lesson — Word families
 
-countries: Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan
+countries: Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -47,8 +47,12 @@ pictures).
 | The **-en** pattern set — pen, hen, ten — and the **-an** set (hand, sand, stand, granddad) as "Read, say and spell" patterns, four pictured words read aloud and copied (pattern sets only: no family is named, built by swapping onsets, or rhymed in the book) | Sudan — SMILE Book 2 Activity Book, Grade 4, Unit 1, printed pp.1–15 |
 | The **-all** pattern set — ball, tall, small, wall — in the same strand | Sudan — SMILE Book 2 Activity Book, Grade 4, Unit 3, printed pp.32–46 |
 | The silent-e sets — **i_e** (five, drive, smile, crocodile, printed p.44, with the model "The Nile is wide") and **a_e** (lake, cake, gate, whale) — the long partners of the short families, written in the book's own "i_e" / "a_e" notation | Sudan — SMILE Book 2 Activity Book, Grade 4, Unit 3, printed p.44; Unit 5, printed pp.63–78 |
+| The -an family (can, ran, van, pan) and the -ap family (tap, cap, nap, map, clap), each with a cumulative build-up reading text | Kuwait, Skyline English Student's Book 1B, Unit 5, Phonics lessons (lessons pp.8–17; the -an text at printed p.10) |
+| The -it family (kit, pit, fit, sit) and the -am family (tam, yam, jam) | Kuwait, Skyline English Student's Book 1B, Unit 6, Phonics lessons (lessons pp.26–35) |
+| The -op family (mop, hop, top, stop, drop) and the -ot family (hot, pot, dot) | Kuwait, Skyline English Student's Book 1B, Unit 7, Phonics lessons (lessons pp.44–53; the -ot text at printed p.51) |
+| The -ug family (bug, rug, jug, mug) and the -ed family (red, bed, fed) — the -ed family is met as a word family, not taught as a past tense | Kuwait, Skyline English Student's Book 1B, Unit 8, Phonics lessons (lessons pp.62–71; the -ed text at printed p.69) |
 
-**Acceptance count: taught in 10 countries (Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan).**
+**Acceptance count: taught in 11 countries (Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait).**
 China adds a complete short-vowel cycle inside one volume —
 one Let's spell set per vowel, reviewed as a whole system
 (Grade 3 Volume 2) — the silent-e ladder that turns those
@@ -64,6 +68,7 @@ Syria adds two rhyming families only, in part: the -ox family
 Grade 1 Phonics Corner on rhyming, with rhyming matching
 (cat/mat) a year up in Grade 2 — no named word-family
 programme is recorded for Syria.
+Kuwait joined 2026-11-04 with eight rime families in its Grade 1 book — two per unit across Units 5–8, each with a cumulative build-up reading text. Its -ed family is met as a word family, not taught as a past tense.
 Counts grow as other closed countries' books are read.
 Nepal joined 2026-11-03 in part only, on rhyming sets: its Grade 3 book carries the rhyme families white/kite/night and hair/care/pair as sound sets (Unit 2, printed pp.10–17), its Grade 1 teacher's guide plays rhyming bingo inside its own programme for a different, unheld workbook (printed p.19), and its Grade 6 teacher's guide keys a poem's rhymes as families (hear/tear/fear/bear/near and four more sets) inside its own unit for a different, unheld textbook (Unit 13, printed pp.95–100); no named word-family programme is recorded for Nepal, and none is claimed here.
 
@@ -305,3 +310,5 @@ filed.
 **Pakistan added 2026-11-03** — 2 books stock this lesson: **Book:** *English Nursery* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. **Book:** *English 2* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Pakistan's family work is the Nursery book's five CVC families and Grade 2's letter-change move. The Nursery tail gives one page to each family — -an, -et, -in, -ot and -un (printed pp.115–119) — with the words pictured and then written. Grade 2's Unit 5 makes new words by changing the initial letter only ('w' to 'm': we/me; 'c' to 'f': can/fan; 's' to 'b': see/bee, printed p.44).
 
 **Sudan added 2026-11-04** — 1 book stocks this lesson, in part: **Book:** *SMILE Series: Book 2 — Activity Book — Grade 4: Basic Level* (activity book) — Sudan, Federal Ministry of Education / The National Centre for Curricula and Educational Research (NCCER), 2016, no ISBN printed. All filed in english/books/sudan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). PARTIAL STOCK, recorded as such: Sudan runs no named word-family programme — no family is named, built by swapping the first letter, or taught as rhyming in any held book. What the Grade 4 Activity Book's "Read, say and spell" strand carries is pattern sets that are families in shape: the -en set (pen, hen, ten) and the -an set (hand, sand, stand, granddad) in Unit 1 (printed pp.1–15), the -all set (ball, tall, small, wall) in Unit 3 (printed pp.32–46), and the silent-e long partners in the book's own notation — i_e (five, drive, smile, crocodile, printed p.44) and a_e (lake, cake, gate, whale, Unit 5, printed pp.63–78). Sudan is counted for those pattern sets and the silent-e sets only, exactly as filed — the same partial terms on which Syria's rhyming corners and Jordan's silent-e patterns are counted in this file.
+
+**Kuwait added 2026-11-04** — Skyline English Student's Book 1B (full read in english/books/kuwait.md). **Book:** *Skyline English Student's Book 1B, Grade 1* — Kuwait, Ministry of Education, First Edition 2025-2026. Filed in english/books/kuwait.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Kuwait stocks this lesson in full in one book: Grade 1's phonics lessons teach two rime families per unit — -an and -ap in Unit 5, -it and -am in Unit 6, -op and -ot in Unit 7, and -ug and -ed in Unit 8 — each family with a cumulative build-up reading text. The -ed family (red, bed, fed) is met as a word family, not taught as a past tense, and is filed on those terms.
