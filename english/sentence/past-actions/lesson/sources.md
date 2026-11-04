@@ -1,6 +1,6 @@
 # Sources — Past actions
 
-countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia
 
 Every part traces to its book and page.
 
@@ -227,9 +227,14 @@ CITATION CHECK PASSED 2026-11-03).
 | Grade 8 completes the form: the past simple introduced through its negative ('didn't' statements) before the full affirmative/negative system is summarised | Yemen, *English Course for Yemen* Pupil's Book 2 (Grade 8), Unit 2, printed p.6; Language summary, printed p.16 |
 
 
-**Acceptance count: taught in 27 countries (Bolivia, Ghana,
+| The past tense mapped as arriving in Unit 5 Yesterday and Today — "What time did you get up yesterday? Yesterday, I got up at …" with got up, ate, came, did, took, went — Syllabus-mapped only; the unit body is not in the held copy | Saudi Arabia, *We Can!* Student's Book 3 (Grade 3), Term 3 extract as bound, Unit 5 Yesterday and Today, Syllabus-mapped |
+| Regular -ed past mapped in Unit 7 Fun on the Weekend ("I cleaned my room. He watched a DVD. They played computer games.") and was/were past events mapped in Unit 8 Life's Ups and Downs ("I was (team captain). We were (stuck in an elevator)") — Syllabus-mapped only | Saudi Arabia, *We Can!* Student's Book 3 (Grade 3), Term 3 extract as bound, Units 7 and 8, Syllabus-mapped |
+| Past-tense questions in the healthy unit's work — Did you …? with a regular/irregular table (band reader's account, as filed) | Saudi Arabia, *We Can!* Student's Book 3 (Grade 3), Term 3 extract as bound, Unit 10 A Healthy Life, printed pp.74–81 |
+| "Why did you …? Because …" — read directly in the dream-vacation unit | Saudi Arabia, *We Can!* Student's Book 3 (Grade 3), Term 3 extract as bound, Unit 12 My Dream Vacation, printed p.95 |
+| The past-tense chant, read directly — "I went to the mall and bought a new shirt. I put it on, but it was too big. I took it back and got a smaller one." | Saudi Arabia, *We Can!* Student's Book 3 (Grade 3), Term 3 extract as bound, Unit 12 My Dream Vacation, printed p.96 |
+**Acceptance count: taught in 28 countries (Bolivia, Ghana,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
-Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan).** Mongolia boxes the -ed frame and drills the
+Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia).** Mongolia boxes the -ed frame and drills the
 movers by name; Bolivia states the whole paradigm including
 the Did/didn't law; Ghana seats the simple past where
 stories live; China adds the past staged regular first,
@@ -306,3 +311,5 @@ sets the past out whole in its reference's past-forms table
 
 
 **Afghanistan added 2026-11-04** — 1 book stocks this lesson: **Book:** *English for Afghanistan: Student's Book*, Grade 8 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan is a use-before-teaching set for the past: past forms saturate the Grade 5–6 readings for three years before Grade 8's weekends unit finally teaches the past simple as a system — forms, negatives, did and wh- questions — with the past of be in its famous-people unit. Only the taught system is stocked.
+
+**Saudi Arabia added 2026-11-04 (rows and note corrected the same day against the corrected country filing)** — 1 book stocks this lesson, as a partial: **Book:** *We Can!* Student's Book 3, Grade 3 (student's book with Workbook goals bound in) — Saudi Arabia, Ministry of Education 2023–1445, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), adaptation ©2024, ISBN 9781398928206 — **the held copy is the Term 3 extract of the full-year combo** (Student's Book Units 9–12, Term 3 Phonics Practice and Word List, the whole-year Picture Dictionary, Workbook Goals 65–96); Units 1–8 are known only from the book's own Syllabus and are cited as Syllabus-mapped, never as read. Filed in english/books/saudi-arabia.md (CORRECTED FILING 2026-11-04 — the first filing's unit accounts for Books 1–5 were proved wrong and discarded; the corrected accounts rest on the secured files' own Contents, Syllabus and imprint pages, coordinator-verified, with band-reader detail worded as such, and Book 6 on the coordinator's page-by-page map). The other 20 recorded Saudi English books are link-only and are not cited anywhere; no teacher's book exists in Saudi Arabia's record and none is cited. Saudi Arabia stocks this lesson from *We Can!* 3 only, worded exactly on the evidence: the book's own Syllabus maps past-tense work to Units 5/7/8, whose bodies are not in the held Term 3 extract, and past forms are directly read in the held Term 3 units — past questions in Unit 10's work, "Why did you …? Because …" at printed p.95, and the mall chant at printed p.96. No past-tense teaching appears in any *We Can!* 1 or *We Can!* 2 book in hand (Grade 2's isolated was/were inside dialogues are untaught, as the corrected filing states). This stocking replaces the brief's original no-past scoping, which rested on the discarded first filing.
