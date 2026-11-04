@@ -1,6 +1,6 @@
 # Sources — The present perfect
 
-countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan
+countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela
 
 Every part traces to its book and page.
 
@@ -100,6 +100,8 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 **Book 35:** Skyline English Student's Book 5B, Grade 5 — Kuwait, Ministry of Education, First Edition 2025-2026. Filed in english/books/kuwait.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 36:** Over to You Workbook 12A, Grade 12 — Kuwait, Pearson Longman. Filed in english/books/kuwait.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Workbook only — the matching Student's Book is not held; cited only for its own practice content.
 
+**Book 37:** *My Victory — Guía para el docente*, 4to año (Teacher's Book, Grade 10) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-05-5. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the 2013 student edition by page and reproduces no student lesson in full.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The tense arrives as the "I've Finished my Work" song (Track 22) — cleaned, washed, swept, painted, tidied, talked — and the participle hunt ("How many different past participles can you find on page 32?") | Libya, Grade 8 Course Book, Unit 3, Lesson 1, p.32 |
@@ -186,10 +188,12 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | The present perfect presented for experience - 'Have you ever been to Spain?' - in world-map work | Yemen, *English Course for Yemen* Pupil's Book 3 (Grade 9), Unit 3, printed p.23 |
 | The form gathered in the review: present perfect tense (have/has + past participle, ever), beside frequency adverbs and comparison | Yemen, *English Course for Yemen* Pupil's Book 3 (Grade 9), Language review 2, printed p.25 |
 | Present perfect against past simple taught in a Language study, with a dialogue flowchart and the big verb-form table (infinitive / past / past participle) | Yemen, *English Course for Yemen* Workbook 3 (Grade 9), Unit 3, Language study, printed pp.47-48 |
+| Present perfect presented against the past perfect — the plan's grammar names the verb *have* in the present perfect and the past perfect, contrasted, with the lesson's past-participle list printed (worked, taken, done, told, wanted, changed) | Venezuela, *My Victory* Teacher's Book 4 (Grade 10), Lesson 6, guide printed pp.36–41 |
+| Present perfect named again as the lesson's grammar, with tag questions in the present and past perfect and the auxiliary HAVE chart worked in the steps; a gapped excerpt of the student dialogue (Lucía, Manuel and Gaby) is printed in the steps' margin — partial and gapped, the closest this guide comes to reproducing student text | Venezuela, *My Victory* Teacher's Book 4 (Grade 10), Lesson 21, guide printed pp.132–139 |
 
 
-**Acceptance count: taught in 23 countries (Egypt,
-Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan).** Libya introduces the tense at Grade 8 with the
+**Acceptance count: taught in 24 countries (Egypt,
+Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela).** Libya introduces the tense at Grade 8 with the
 song and the grammar box, guards the no-exact-time rule in
 its Teacher's Book, sets the ever/never/yet/already box at
 Grade 9, and states the whole entry again in its Grammar
@@ -262,3 +266,5 @@ course stocks nothing for that lesson from Laos.
 
 
 **Afghanistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English for Afghanistan: Student's Book*, Grade 9 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 10 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan introduces the present perfect in Grade 9's senses unit, beds it in with for/since in the friendship unit, and states it as a full unit grammar in Grade 10. No primary book and no earlier secondary book teaches it.
+
+**Venezuela added 2026-11-04** — 1 book stocks this lesson: **Book:** *My Victory — Guía para el docente*, 4to año (Teacher's Book, Grade 10) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-05-5. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly: Venezuela's set is five Teacher's Books only — no student's book is held, the guides key the 2013 MPPE student editions by page and reproduce no student lesson in full, so every Venezuela row here is teacher's-book evidence, worded as such. The present perfect is Grade 10's: Lesson 6 presents the verb *have* in the present perfect against the past perfect and prints the lesson's participle list, and Lesson 21 names the tense again with perfect-tense tag questions and the auxiliary HAVE chart in its steps. Grades 7–9 never present it (Grade 9's filing is explicit: no perfect tense of any kind), and Grade 11 never presents the present perfect simple by name — its perfect presentations are the two perfect continuous tenses, filed under their own lesson and the unkeyed stock.

@@ -1,6 +1,6 @@
 # Sources — The present perfect continuous
 
-countries: Egypt, Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan
+countries: Egypt, Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela
 
 Every part traces to its book and page.
 
@@ -60,6 +60,8 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 **Book 25:** Over to You Workbook 12A, Grade 12 — Kuwait, Pearson Longman. Filed in english/books/kuwait.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Workbook only — the matching Student's Book is not held; cited only for its own practice content.
 **Book 26:** Over to You Workbook 12B, Grade 12 — Kuwait, Pearson Longman. Filed in english/books/kuwait.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Workbook only — the matching Student's Book is not held; cited only for its own practice content.
 
+**Book 27:** *My Victory — Guía para el docente*, 5to año (Teacher's Book, Grade 11) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-06-2. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the 2013 student edition by page and reproduces no student lesson in full; the held copy ends at Lesson 24 Part 3.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The box "Describing action that continues from the past: Present perfect continuous tense — The pilot has been flying for two hours. I have been waiting for the bus since four o'clock." | Libya, Grade 8 Course Book, Unit 3, Lesson 6 "Transport," p.38 |
@@ -113,10 +115,11 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | The present perfect continuous presented - its uses, the contrast with the present perfect simple, and stative verbs not used in the continuous - in the final book's Language review 5; the ONLY place in the whole held set where the form is taught | Yemen, *English Course for Yemen* Pupil's Book 6 (Grade 12), Language review 5, printed p.20 |
 | Present perfect simple against continuous practised as choice and gap-fill, keyed to that review | Yemen, *English Course for Yemen* Work Book 6 (Grade 12), Unit 3, lesson 3.5 (Unit 3, printed pp.29-40) |
 | The ceiling, stated plainly: Books 1-5 never present the form - Pupil's Book 5's honest negatives file it absent there, and Grade 12's own Unit 6 recycles it in use ('present perfect (continuous) experience language', printed p.47) without re-teaching it | Yemen, the held set as filed in english/books/yemen.md (Pupil's Book 5 and Pupil's Book 6 sections) |
+| The tense as one lesson's grammar emphasis — the steps have students copy the structure from the student book's chart and write example sentences, then order words into present-perfect-continuous statements (Part I); the chart itself is not reproduced in the guide, and the plan's own printed formula omits *been* ("S+have/has+verb +ing+Complement") — that defective formula is filed in the country file and is NOT relied on here | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 13, guide printed pp.77–81 |
 
 
-**Acceptance count: taught in 18 countries (Egypt,
-Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan).** Libya meets the tense at Grade 8 inside a
+**Acceptance count: taught in 19 countries (Egypt,
+Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela).** Libya meets the tense at Grade 8 inside a
 records lesson, names it for recent habits at Grade 9,
 and drills it as a full lesson with for/since at Grade
 10. Egypt states the complete box at Secondary 12 — the
@@ -186,3 +189,5 @@ unlooked-for.
 
 
 **Afghanistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English for Afghanistan: Student's Book*, Grade 10 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 12 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan's present perfect continuous is Grade 10's alone as a taught system — named, formed, and contrasted with the present perfect in the language-ability unit. Grade 11 never presents it (one form occurs unexplained in a revision prompt, as the country file records), and Grade 12 only revises and contrasts Grade 10's system; the Grade 12 rows are filed as revision, not as teaching.
+
+**Venezuela added 2026-11-04** — 1 book stocks this lesson, as a PARTIAL: **Book:** *My Victory — Guía para el docente*, 5to año (Teacher's Book, Grade 11) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-06-2. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly: Venezuela's set is five Teacher's Books only — no student's book is held, the guides key the 2013 MPPE student editions by page and reproduce no student lesson in full, so the Venezuela row here is teacher's-book evidence, worded as such. PARTIAL, stated exactly: the present perfect continuous is Lesson 13's named grammar emphasis in the Grade 11 guide — students copy the structure from the student chart and order words into statements in the tense — but the chart is not reproduced in the guide, and the one formula the guide does print (in the lesson's plan) omits *been* and is flagged defective in the country file; it is not quoted or relied on. Grade 11's Lesson 12 plan also promises this tense, but its body never presents it (a parts-of-speech table takes its place), so Lesson 12 is not counted. Grade 10's filing is explicit that the tense never occurs there, and Grades 7–9 never present any perfect tense. The Grade 11 guide's other perfect presentation — the past perfect continuous of Lesson 14, whose chart IS printed in full with both forms and two examples — has no lesson of its own and is held as unkeyed stock.

@@ -1,6 +1,6 @@
 # Sources — Using the dictionary
 
-countries: Bangladesh, India, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan
+countries: Bangladesh, India, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela
 
 Every part traces to its book and page.
 
@@ -121,6 +121,8 @@ english/books/jordan.md (Grade 6 Activity Book Semester 1 section, FULLY READ + 
 
 **Book 41:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
+**Book 42:** *My Victory — Guía para el docente*, 5to año (Teacher's Book, Grade 11) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-06-2. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the 2013 student edition by page and reproduces no student lesson in full. The held copy ends at Lesson 24 Part 3.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a dictionary gives — spelling, pronunciation, meaning, word class; examples printed in italics; synonyms and antonyms given; words made by prefixes and suffixes; a verb shown in its simple present tense with past form and past participle — taught on a reproduced dictionary page for 'fit' (fit → fitful, fitment, fitness, fitness centre, fitted, fitter, fitting, fixture) with sentence matching | Bangladesh, English for Today Class 8, Unit Four "Check Your Reference," Lesson 2 "Using a Dictionary," pp.36–38 |
@@ -184,9 +186,10 @@ english/books/jordan.md (Grade 6 Activity Book Semester 1 section, FULLY READ + 
 | Dictionary-style entries — “cut down (v)”, “destroy (v)”, “oxygen (n)” — and what information can be found in the dictionary | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Unit 13, Lesson 5, printed p.82 |
 | Wordlist and Grammar Table use tested as named learning skills in the self-assessment quiz | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Unit 11, Lesson 5, printed p.70 |
 | The book's own trilingual wordlist — alphabetical, with transcription and a word-class label for every entry — which the lessons send pupils to constantly, with alphabetical-order exercises in the units | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Wordlist, printed pp.178–198; exercises at printed pp.25 and 44 |
+| Dictionary work as a named lesson part — Part D, "Dictionary skills," works the parts of a dictionary entry in turn: the entry itself, its pronunciation, its part of speech, its definition, and the uncountable marker; the word-class table (noun, adjective, adverb, verb) follows in Part E | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 3, guide printed pp.22–27 |
 
-**Acceptance count: taught in 21 countries (Bangladesh, India,
-Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan).** Bangladesh
+**Acceptance count: taught in 22 countries (Bangladesh, India,
+Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela).** Bangladesh
 carries the full skill — order, guide
 words, the entry, many meanings; India carries the first
 form, a picture dictionary in every year's book; Mongolia
@@ -220,3 +223,5 @@ READING-QUEUE.md).
 **Afghanistan added 2026-11-04** — 2 books stock this lesson: **Book:** *English for Afghanistan: Student's Book*, Grade 9 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 10 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan stocks this lesson in full from one page: Grade 9 opens its education unit with a reading that takes a dictionary entry apart part by part — guide words, syllabification, pronunciation, part of speech, definition, sample sentence — and questions the pupil on the parts. Grade 10 adds alphabetical order as word study. The books' own end-of-unit word lists are English-only lists and are not counted here.
 
 **Uzbekistan added 2026-11-04** — 2 books stock this lesson, as a partial: **Book:** *Fly High ENGLISH 6* — Classbook & Workbook combined volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8; **Book:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly as a partial: Uzbekistan's dictionary teaching is real but bounded — Fly High 6 twice stops to read dictionary-style entries and ask what a dictionary tells you, and tests wordlist use as a named skill; Fly High 5's own wordlist is alphabetical with transcription and word-class labels, and pupils are sent to it constantly. But guide words are never taught, and every exercise runs on the books' own wordlists or sample entries — no standalone learner's-dictionary training is filed in the set. The other five recorded Uzbekistan English books are link-only and are not cited anywhere; no teacher's book exists in Uzbekistan's English record and none is cited; and the Russian Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is cited nowhere.
+
+**Venezuela added 2026-11-04** — 1 book stocks this lesson, as a PARTIAL: **Book:** *My Victory — Guía para el docente*, 5to año (Teacher's Book, Grade 11) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-06-2. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly: Venezuela's set is five Teacher's Books only — no student's book is held, the guides key the 2013 MPPE student editions by page and reproduce no student lesson in full, so the Venezuela row here is teacher's-book evidence, worded as such. PARTIAL, stated exactly: the dictionary skills are genuinely presented — the Grade 11 guide's Lesson 3 names "Dictionary skills" as Part D and works the entry, pronunciation, part of speech and definition in turn — but the exercises themselves live in the student book, and the guide prints no worked entry; glossaries at the backs of the other guides are not counted, per this lesson's standing bar.

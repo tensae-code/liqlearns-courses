@@ -1,6 +1,6 @@
 # Sources — The paragraph
 
-countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador
+countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela
 
 Every part traces to its book and page.
 
@@ -142,6 +142,10 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 50:** English Learner's Book for Rwandan Primary Schools, P.5 (Learner's Book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 51:** English For Rwandan Primary Schools — Pupil's Book 6 (Pupil's Book) — Rwanda, Rwanda Education Board (REB), © 2019, no edition statement printed, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 52:** *My Victory — Guía para el docente*, 3er año (Teacher's Book, Grade 9) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-04-8. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the 2013 student edition by page and reproduces no student lesson in full.
+
+**Book 53:** *My Victory — Guía para el docente*, 5to año (Teacher's Book, Grade 11) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-06-2. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the 2013 student edition by page and reproduces no student lesson in full. The held copy ends at Lesson 24 Part 3.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Guided Composition: "two coherent paragraphs by leading questions ('My Home')" — the paragraph written as answers to leading questions | Ghana, NaCCA B1–B3 curriculum, Basic 3, writing strands (as filed) |
@@ -235,10 +239,12 @@ CITATION CHECK PASSED 2026-11-03).
 | Ten rules for writing a paragraph (topic sentence, capitals, full stops, joined ideas among them), with a notes→paragraph build | Afghanistan, *English for Afghanistan: Student's Book*, Grade 11, Unit 3, printed pp.44–45 |
 | A paragraph taught through a hamburger/sandwich analogy: a group of sentences on one main idea, in three parts — the topic sentence (what the paragraph is about), supporting details (details and examples supporting the main idea) and the concluding sentence/conclusion — shown as a five-box diagram (Topic sentence / Supporting Detail 1–3 / Conclusion) | Ecuador — *English*, Medium Sublevel transition text (Grades 5–7 covers; read from the Grade 5 copy) (MINEDUC, 2024), Worksheet 4, printed p.29 |
 | Write your paragraph — a blank lined template page following the model, built from the friend-interview work of the same worksheet | Ecuador — *English*, Medium Sublevel transition text (Grades 5–7 covers; read from the Grade 5 copy) (MINEDUC, 2024), Worksheet 4, printed p.30 |
+| The paragraph's core named in the guide's own steps — the Keep in mind note on the topic sentence and the main idea ("The topic sentence expresses the main idea of the paragraph"), with the scanning/skimming procedures printed in full around it and a titled reading worked for main idea, topic and topic sentence | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 15, guide printed pp.88–92 |
+| Paragraph writing set as the year's real writing task — students write a paragraph about their group (Lesson 18, Part 4) and a group "dream vacation" paragraph (Lesson 24, Part 4); the guides set and guide the writing but print no model paragraph | Venezuela, *My Victory* Teacher's Book 3 (Grade 9), Lessons 18 and 24, guide printed pp.109–115 and 152–158 |
 
-**Acceptance count: taught in 29 countries (Bangladesh,
+**Acceptance count: taught in 30 countries (Bangladesh,
 Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador).** Ghana names the process and prints the
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela).** Ghana names the process and prints the
 unity test as a revise question; Bangladesh guides the
 first paragraphs and models them; Egypt examines by the
 paragraph; China adds a model-first writing ladder across
@@ -364,3 +370,5 @@ reader's attention.
 **Afghanistan added 2026-11-04** — 3 books stock this lesson: **Book:** *English for Afghanistan: Student's Book*, Grade 8 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 7 (student's book); **Book:** *English for Afghanistan: Student's Book*, Grade 11 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan names the topic sentence outright: Grade 8's greetings unit teaches what a paragraph is — one main idea, topic sentence, supporting sentences, concluding sentence — against a broken model the pupil must fix, the fullest single paragraph lesson in the set. Grade 7's three short rules and Grade 11's ten rules frame it from below and above.
 
 **Ecuador added 2026-11-04** — 1 book stocks this lesson: **Book:** *English — Medium Sublevel: Student Text for Curricular Transition* (one book issued under Grade 5, 6 and 7 covers; read and cited once, from the Grade 5 copy) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-40-8. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Ecuador's paragraph teaching is the second half of the Medium text's writing worksheet — the same worksheet that carries its WH-question system — and it names all three parts outright.
+
+**Venezuela added 2026-11-04** — 2 books stock this lesson, as a PARTIAL: **Book:** *My Victory — Guía para el docente*, 3er año (Teacher's Book, Grade 9) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-04-8; **Book:** *My Victory — Guía para el docente*, 5to año (Teacher's Book, Grade 11) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-06-2. All filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly: Venezuela's set is five Teacher's Books only — no student's book is held, the guides key the 2013 MPPE student editions by page and reproduce no student lesson in full, so every Venezuela row here is teacher's-book evidence, worded as such. PARTIAL, stated exactly: the paragraph's core idea — topic sentence carrying the main idea — IS presented, in Grade 11 Lesson 15's printed Keep in mind note, and paragraph writing is genuinely set in Grade 9; but no guide prints a model paragraph or works through a paragraph's parts beyond that note, and the series' writing never rises to the essay (the Grade 9 and Grade 11 filings both say so expressly), which is why the essay lesson gains nothing from Venezuela.

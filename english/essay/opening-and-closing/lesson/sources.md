@@ -1,6 +1,6 @@
 # Sources — Opening and closing
 
-countries: Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Uzbekistan
+countries: Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Uzbekistan, Venezuela
 
 Every part traces to its book and page.
 
@@ -67,6 +67,8 @@ PASSED 2026-11-03).
 
 **Book 21:** *English Matters* Student's Book 9 (student's book) — Uzbekistan, Macmillan Education, first published 2003 (the held copy is the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1255-3. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
+**Book 22:** *My Victory — Guía para el docente*, 5to año (Teacher's Book, Grade 11) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-06-2. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the 2013 student edition by page and reproduces no student lesson in full. The held copy ends at Lesson 24 Part 3.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The introduction's duty — "it tells what your topic and main ideas are"; the conclusion's definition — "the same information as the introductory paragraph, written from a different perspective"; the closing's signal example as printed ("In conclusion, nobody is perfect") and its opening-motion counterpart ("First of all, …") | Bolivia compendium, the essay-structure section (as filed) |
@@ -117,8 +119,10 @@ PASSED 2026-11-03).
 | Letter-writing conventions — three texts on the history of post, reordering a damaged letter, completing a letter with positive/negative adjectives | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Unit 7, Lessons 1–2, printed p.74 |
 | Formal and informal style — a party letter, a formal wedding invitation and a reply judged for correctness; formal/informal vocabulary pairs; a formal letter of complaint about a restaurant meal | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Unit 7, Lessons 5–8, printed pp.78–81 |
 | A model letter of application, with Ten tips for writing letters of application to complete | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Unit 9, Lessons 5–6, printed p.102 |
+| The parts of a letter named as one set — heading, salutation, body, complimentary close, signature — worked in the guide's Lesson 1 (Part I), with the lesson's own letter printed complete in the guide (below) and the good-wish, greeting and farewell formulas sorted around it | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 1, guide printed pp.4–13 |
+| One complete letter printed in full in a guide — the only student text in the whole five-book set reproduced complete: Pedro Estévez's letter to Mr. González (printed p.6), opening with its salutation and closing with its complimentary close and signature, the model the letter-writing work is built on | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 1, Part A, guide printed p.6 |
 
-**Acceptance count: taught in 19 countries (Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Uzbekistan).**
+**Acceptance count: taught in 20 countries (Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Uzbekistan, Venezuela).**
 Bolivia's table defines both ends and dresses their joints;
 Ghana's first revise question sets the opening's law;
 China frames the formal letter — open with the matter,
@@ -172,3 +176,5 @@ READING-QUEUE.md).
 **Ecuador added 2026-11-04** — 1 book stocks this lesson, as a partial: **Book:** *English — Medium Sublevel: Student Text for Curricular Transition* (one book issued under Grade 5, 6 and 7 covers; read and cited once, from the Grade 5 copy) — Ecuador, Ministerio de Educación (MINEDUC), Primera edición 2024, ISBN 978-9942-662-40-8. Filed in english/books/ecuador.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly as a partial: Ecuador's opening-and-closing stock is the letter's labelled ends only. No essay opening or closing is taught anywhere in the set — the Superior book's writing worksheet names process stages (pre-writing to publishing), not openings and closings, and is filed as unkeyed stock rather than cited here.
 
 **Uzbekistan added 2026-11-04** — 1 book stocks this lesson: **Book:** *English Matters* Student's Book 9 (student's book) — Uzbekistan, Macmillan Education, first published 2003 (held copy: the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1255-3. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). English Matters 9 gives letters a whole unit — Letter Matters — from the conventions and the damaged-letter repair through the formal/informal border (a wedding invitation and its reply, a complaint letter) to pen-pal letters, and returns to the form in the jobs unit with a model application letter and its ten tips. The same unit's CV lesson (Unit 9 Project, printed p.107) has no built lesson home in this course and is held as unkeyed stock. The other five recorded Uzbekistan English books are link-only and are not cited anywhere; no teacher's book exists in Uzbekistan's English record and none is cited; and the Russian Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is cited nowhere.
+
+**Venezuela added 2026-11-04** — 1 book stocks this lesson, as a PARTIAL: **Book:** *My Victory — Guía para el docente*, 5to año (Teacher's Book, Grade 11) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-06-2. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly: Venezuela's set is five Teacher's Books only — no student's book is held, the guides key the 2013 MPPE student editions by page and reproduce no student lesson in full, so every Venezuela row here is teacher's-book evidence, worded as such. PARTIAL, stated exactly: the stock is letters only — the parts of a letter taught as a set and one complete letter printed in full (the single complete student text in the whole Venezuela set) — and no guide presents the opening or closing of an essay, because the series' writing never reaches essay level.
