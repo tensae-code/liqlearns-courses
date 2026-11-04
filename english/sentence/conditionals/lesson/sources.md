@@ -122,11 +122,14 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 **Book 54:** English Learner's Book for Rwandan Primary Schools, P.5 (Learner's Book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 55:** English For Rwandan Primary Schools — Pupil's Book 6 (Pupil's Book) — Rwanda, Rwanda Education Board (REB), © 2019, no edition statement printed, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 56:** English for Libya, Grade 10 (Secondary 1) Course Book — Libya, Garnet Education. Filed in english/books/libya.md (read 2026-10-25; the file's head banner stands — agent-assisted read, the 10-citation spot-check still owed).
+*Correction 2026-11-04: the Unit 7 conditional lessons (pp.79–81) sit in this Grade 10 book, not in the Grade 9 Course Book — the country record files them under Grade 10 (Secondary 1); earlier versions of this file said Grade 9. Found by an outside review (ChatGPT), checked against libya.md and corrected.*
+
 | Lesson part | Where it comes from |
 |---|---|
-| The zero conditional | Libya, Grade 9 Course Book, Unit 7 (p.79, as filed in libya.md) |
-| The first conditional — will for high possibility, may/might for lower | Libya, Grade 9 Course Book, Unit 7 (p.80, as filed) |
-| Adverbs of certainty — perhaps, probably, definitely, with their seats | Libya, Grade 9 Course Book, Unit 7 (p.81, as filed) |
+| The zero conditional | Libya, Grade 10 (Secondary 1) Course Book, Unit 7, Lesson 2 (p.79, as filed in libya.md) |
+| The first conditional — will for high possibility, may/might for lower | Libya, Grade 10 (Secondary 1) Course Book, Unit 7, Lesson 3 (p.80, as filed) |
+| Adverbs of certainty — perhaps, probably, definitely, with their seats | Libya, Grade 10 (Secondary 1) Course Book, Unit 7, Lesson 4 (p.81, as filed) |
 | Zero and first conditionals in the reference, in clause tables | Libya, Grammar Reference, Unit 3 (p.102, as filed); Mongolia, English X, Grammar Reference (pp.168–177), Unit 3 entry |
 | The second conditional | Libya, Grammar Reference, Unit 5 (pp.103–104, as filed); Mongolia, English X, Unit 10 (first and second conditionals, as filed in the year's spine) |
 | Zero and first conditionals taught through instructions and an admission interview; zero/first revisited | Mongolia, English X, Units 3 and 9 (as filed in mongolia.md) |
