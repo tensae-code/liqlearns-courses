@@ -1,6 +1,6 @@
 # Sources for this lesson — Good morning and good afternoon
 
-countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan
+countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -35,8 +35,9 @@ explains one thing only.
 | The greeting set named as classroom language for the teacher — "Good morning/ afternoon/ evening (everyone/ class)" — both halves of this lesson named in one list (guide-only stock: no Armenia pupil book prints the exchange) | Armenia — English 7, Methodological Guide (Zangak), "Classroom Language Exponents", printed p.48 |
 | Greetings by time of day — morning, afternoon and evening — as the opening work of the Grade 6 book | Cambodia — English Grade 6 (student's book), Chapter 1, Unit 1 "Greetings And Introductions", printed pp.8–11 |
 | "Good morning, class." — the morning greeting as the first speech bubble of the first lesson (Sudan's filed books teach the morning greeting only: no "Good afternoon" greeting occurs anywhere in the Sudan read) | Sudan — SMILE Book 2 Pupil's Book, Grade 4, Unit 1 "Welcome Back to English", Lesson 1, printed p.1 |
+| "Good morning / Good afternoon / Good evening" — the greetings that follow the time of day, taught as one set in the first unit | Rwanda — Success English for Rwandan Schools, Primary 1 Pupil's Book, Unit 1 "Welcome to the classroom", printed pp.1–7 |
 
-**Acceptance count: taught in 18 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan).**
+**Acceptance count: taught in 19 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda).**
 China teaches the pair inside its colours unit in the first
 primary book; Mongolia stocks the day-part ground the greeting
 stands on — one boy's whole day told in clock pictures — from a
@@ -309,3 +310,5 @@ is recorded.
 **Cambodia added 2026-11-03** — 1 book stocks this lesson: **Book:** *English Grade 6* (student's book) — Cambodia, MoEYS, 5th printing 2020, ISBN 978-9924-9423-1-3. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Stocked in full, both halves from one unit: the Grade 6 book opens its consolidation year by teaching greetings by time of day — morning, afternoon and evening — inside Chapter 1, Unit 1, beside name, age and grade.
 
 **Sudan added 2026-11-04** — 1 book stocks this lesson: **Book:** *Sudan Modern Integrated Learning of English — SMILE Series: Book 2 — Pupil's Book — Grade 4: Basic Level* (pupil's book) — Sudan, Federal Ministry of Education / The National Centre for Curricula and Educational Research (NCCER), 2016, no ISBN printed. All filed in english/books/sudan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). PARTIAL STOCK, recorded as such: Sudan carries the morning half only. Grade 4, Unit 1, Lesson 1 (printed p.1) opens with the speech bubble "Good morning, class." No "Good afternoon" greeting occurs anywhere in the filed Sudan read — the phrase is not printed in english/books/sudan.md at all — so no afternoon greeting is claimed here. Sudan is therefore counted for the morning half of this lesson, exactly as Jordan, Greece and Iraq are above.
+
+**Rwanda added 2026-11-04** — 1 book stocks this lesson: **Book:** *Success English for Rwandan Schools, Primary 1 Pupil's Book* (pupil's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. All filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). FULL STOCK, recorded as such: Rwanda teaches the pair itself, and the evening greeting beside it, in its first unit. Primary 1, Unit 1, "Welcome to the classroom" (printed pp.1–7), builds its greetings work on the time of day — "Good morning/afternoon/evening" are the unit's greeting forms, taught in speech-bubble dialogues with the names and the "How are you?" exchange filed in their own lessons. No morning-only limit applies here, and none is recorded.

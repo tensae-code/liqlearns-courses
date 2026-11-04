@@ -1,6 +1,6 @@
 # Sources — The paragraph
 
-countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait
+countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda
 
 Every part traces to its book and page.
 
@@ -138,6 +138,9 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 46:** English Pearls of Kuwait Student's Book 6A, Grade 6 — Kuwait, Ministry of Education, First edition 2025-2026. Filed in english/books/kuwait.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 47:** English Pearls of Kuwait Student's Book 7A, Grade 7 — Kuwait, Ministry of Education, First edition 2025-2026. Filed in english/books/kuwait.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 48:** Skyline English Student's Book 4A, Grade 4 — Kuwait, Ministry of Education, First Edition 2025-2026. Filed in english/books/kuwait.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 49:** Primary Learner's English for Rwandan Schools — P4 (Student's Book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 50:** English Learner's Book for Rwandan Primary Schools, P.5 (Learner's Book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 51:** English For Rwandan Primary Schools — Pupil's Book 6 (Pupil's Book) — Rwanda, Rwanda Education Board (REB), © 2019, no edition statement printed, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -216,10 +219,13 @@ CITATION CHECK PASSED 2026-11-03).
 | The same topic–detail–conclusion organiser and checklist in every unit's writing lesson (descriptive, expository and narrative paragraphs) | Kuwait, English Pearls of Kuwait Student's Book 6A, Units 2–4, Lesson 7 (printed pp.42–43, pp.56–57, pp.70–71) |
 | Paragraph anatomy named for the two-paragraph report — topic sentence, supporting details, concluding sentence — with punctuation of linkers | Kuwait, English Pearls of Kuwait Student's Book 7A, Unit 1, Lesson 7, printed pp.28–29 |
 | Graphic-organiser paragraphs — a four-question box, then the paragraph (e.g. "A Healthy Meal") | Kuwait, Skyline English Student's Book 4A, Unit 1, Lesson 8 (lessons pp.5–12) |
+| Guided paragraphs as set writing through the book — a paragraph on a favourite subject, a paragraph on a friend's personality, a paragraph on the district's weather, a paragraph on responsibilities at home — and the set's longest piece, two paragraphs on what the pupil would have liked to do last weekend | Rwanda, P4 Student's Book, printed pp.9, 31, 55 and 64; the two-paragraph piece, printed p.66 |
+| A planned and peer-evaluated three-paragraph text on uses of transport, with a detailed journey account written against a checklist | Rwanda, P5 Learner's Book, printed pp.120–121 |
+| Composition structure taught as content — introduction / main body (problem, then solution in its own paragraph) / conclusion — with a model speech analysed paragraph by paragraph | Rwanda, P6 Pupil's Book, Unit 6, printed pp.80–82 and 85–86 |
 
-**Acceptance count: taught in 24 countries (Bangladesh,
+**Acceptance count: taught in 25 countries (Bangladesh,
 Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait).** Ghana names the process and prints the
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda).** Ghana names the process and prints the
 unity test as a revise question; Bangladesh guides the
 first paragraphs and models them; Egypt examines by the
 paragraph; China adds a model-first writing ladder across
@@ -266,7 +272,7 @@ into topic sentence, three details and conclusion and
 repeats that organiser and checklist in every unit, and
 Pearls 7A names topic sentence, supporting details and
 concluding sentence for the two-paragraph report, while
-Skyline 4A builds paragraphs from a graphic organiser. Other closed countries join as their books are
+Skyline 4A builds paragraphs from a graphic organiser. Rwanda stocks the paragraph in part — guided paragraphs are set writing from P4 up, P5 plans a three-paragraph text, and P6 teaches composition structure (introduction / main body / conclusion) and analyses a speech paragraph by paragraph — but no read Rwanda book names the topic sentence, so Rwanda carries the paragraph as a written and structured unit, not as a named topic-sentence craft. Other closed countries join as their books are
 read (see READING-QUEUE.md).
 
 **Laos Grade 6 added 2026-10-27** — *English for Secondary
@@ -334,3 +340,5 @@ reader's attention.
 **Pakistan — English X added 2026-11-04** — 1 further book stocks this lesson: **Book:** *English X* (Grade 10 student's book) — Pakistan, Punjab Curriculum and Textbook Board, Lahore; National Curriculum 2006 basis; no publication year and no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). English X stood outside Pakistan's counted record and was read in under the user's 2026-11-03 ruling to fill the Grade 10 gap. It adds two things Pakistan's counted books do not stock: **précis writing as a standing skill** — a named paragraph of the unit's text cut to about a third of its length in Units 1, 6, 7, 9 and 12, and unseen texts précis'd in Review-I (printed pp.52–54) and Review-II (printed pp.104–105) — and the **topic sentence hunted inside a real paragraph** (Unit 1, printed pp.6–8), before paragraphs of the pupil's own are written under a tips diagram naming topic sentence, supporting details and concluding sentence (Unit 3, printed p.36; Unit 5, printed p.66).
 
 **Kuwait added 2026-11-04** — English Pearls of Kuwait Student's Book 6A, English Pearls of Kuwait Student's Book 7A, Skyline English Student's Book 4A (full read in english/books/kuwait.md). Kuwait NAMES the topic sentence (the Pearls writing spine) — it does not follow the pattern of countries whose books teach paragraph writing without naming it. In 6A every unit's Lesson 7 works the same topic–detail–conclusion organiser against a writing checklist, and in 7A the anatomy is named again for the two-paragraph report. Skyline 4A adds the earlier, simpler form: a four-question graphic organiser, then the paragraph.
+
+**Rwanda added 2026-11-04** — 3 books stock this lesson: **Book:** *Primary Learner's English for Rwandan Schools — P4* (Student's Book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. **Book:** *English Learner's Book for Rwandan Primary Schools, P.5* (Learner's Book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. **Book:** *English For Rwandan Primary Schools — Pupil's Book 6* (Pupil's Book) — Rwanda, Rwanda Education Board (REB), © 2019, no edition statement printed, no ISBN printed. All filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). PARTIAL stock, filed exactly as a partial, on the Nepal pattern: Rwanda teaches the paragraph as a written and structured unit, never as a named topic-sentence craft — no read Rwanda book names the topic sentence anywhere. What is genuinely taught: guided paragraphs as set writing through P4 — a paragraph on a favourite subject (printed p.9), a paragraph on a friend's personality (printed p.31), a paragraph on the district's weather (printed p.55), a paragraph on responsibilities at home (printed p.64) — and the set's longest piece, two paragraphs on what the pupil would have liked to do last weekend (printed p.66); P5's planned and peer-evaluated three-paragraph text on uses of transport, with a detailed journey account written against a checklist (printed pp.120–121); and P6's composition structure taught as content — introduction / main body (problem, then solution in its own paragraph) / conclusion (printed pp.80–82) — with a model speech analysed paragraph by paragraph (printed pp.85–86).

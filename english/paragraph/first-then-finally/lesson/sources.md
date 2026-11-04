@@ -1,6 +1,6 @@
 # Sources — First, then, finally
 
-countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait
+countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda
 
 Every part traces to its book and page.
 
@@ -99,6 +99,9 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 27:** Skyline English Student's Book 4A, Grade 4 — Kuwait, Ministry of Education, First Edition 2025-2026. Filed in english/books/kuwait.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 28:** English Pearls of Kuwait Student's Book 6A, Grade 6 — Kuwait, Ministry of Education, First edition 2025-2026. Filed in english/books/kuwait.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 29:** English Pearls of Kuwait Student's Book 7A, Grade 7 — Kuwait, Ministry of Education, First edition 2025-2026. Filed in english/books/kuwait.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 30:** English for Rwandan Schools — Primary 2 Learner's Book (Learner's Book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 31:** English For Rwandan Primary Schools — Pupil's Book 3 (Pupil's Book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 32:** English Learner's Book for Rwandan Primary Schools, P.5 (Learner's Book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -149,9 +152,12 @@ CITATION CHECK PASSED 2026-11-03).
 | Planning an expository paragraph with first / next / after that / finally | Kuwait, English Pearls of Kuwait Student's Book 6A, Unit 3, Lesson 7, printed pp.56–57 |
 | Sequenced safety advice with first / next / then / after that / finally — the book states these are "always followed by commas" | Kuwait, English Pearls of Kuwait Student's Book 7A, Unit 3, Lesson 4, printed p.52 |
 | A family camping text sequenced first / next / after that / finally (vehicle check, packing, setting up the tent, the night campfire, cleaning the site) | Kuwait, English Pearls of Kuwait Student's Book 7A, Unit 3, Lesson 5, printed pp.53–54 |
+| A process told as a sequence with the full set — first / then / next / after that / finally — a letter's journey from writing to delivery, with sequence-word completion, picture ordering and short process writing in the Review | Rwanda, P2 Learner's Book, Unit 5 "Stories and descriptions", §5.2, printed pp.44–46; Review §5.3, printed p.47 |
+| Sequence connectors taught as a set — then, after that, next, before (no "first" and no "finally" in this set) | Rwanda, P3 Pupil's Book, Unit 4, printed p.60 |
+| Process instructions sequenced "First of all / Then / Afterwards" in the pot-making work (no "finally" in this set) | Rwanda, P5 Learner's Book, Unit 8, printed p.148 |
 
-**Acceptance count: taught in 17 countries (Bangladesh,
-Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait).** Egypt prints the law and the set;
+**Acceptance count: taught in 18 countries (Bangladesh,
+Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda).** Egypt prints the law and the set;
 Mongolia files the family by its grammar name; Bangladesh
 tells its methods under the signposts; China adds the
 dated diary as the model recount, its events sorted before
@@ -201,7 +207,7 @@ Pearls 6A plans an expository paragraph with first /
 next / after that / finally, and Pearls 7A sequences
 safety advice and a family camping text with the same
 signposts, stating that they are always followed by
-commas. Other finished
+commas. Rwanda stocks the full set, finally included, in P2 — the letter's journey told with first / then / next / after that / finally — and two shorter sets without finally: P3's then, after that, next, before and P5's First of all / Then / Afterwards. Other finished
 countries join as their books are read (see
 READING-QUEUE.md).
 
@@ -218,3 +224,5 @@ READING-QUEUE.md).
 **Pakistan — English X added 2026-11-04** — 1 further book stocks this lesson: **Book:** *English X* (Grade 10 student's book) — Pakistan, Punjab Curriculum and Textbook Board, Lahore; National Curriculum 2006 basis; no publication year and no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). English X stood outside Pakistan's counted record and was read in under the user's 2026-11-03 ruling to fill the Grade 10 gap. It tables the signposts as named text structures: the **sequence/procedure pattern** with its signal words — first, after, next, then, third, finally — in Unit 4 (printed pp.43–45), whose writing task then has the pupil write the cuts-and-scrapes paragraph with first, next, then, after that, in the end (printed p.49); and the **chronological pattern** with its own set — first, second, before, earlier, later, meanwhile, afterwards, then, when — in Unit 11 (printed pp.133–134), where the story's events go onto a five-event timeline, the same timeline the pupil uses to summarise the Faithfulness story in Unit 13 (printed p.159).
 
 **Kuwait added 2026-11-04** — Skyline English Student's Book 4A, English Pearls of Kuwait Student's Book 6A, English Pearls of Kuwait Student's Book 7A (full read in english/books/kuwait.md). Kuwait prints the sequence set as a set, finally included, at three levels: Skyline 4A's dolphin-show listening and park-visit narration, Pearls 6A's expository-paragraph planning, and Pearls 7A's safety advice and camping text. Pearls 7A also states the punctuation rule outright — these sequence adverbs are "always followed by commas" (Unit 3, Lesson 4, printed p.52).
+
+**Rwanda added 2026-11-04** — 3 books stock this lesson: **Book:** *English for Rwandan Schools — Primary 2 Learner's Book* (Learner's Book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. **Book:** *English For Rwandan Primary Schools — Pupil's Book 3* (Pupil's Book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. **Book:** *English Learner's Book for Rwandan Primary Schools, P.5* (Learner's Book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. All filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Rwanda's full set sits in **P2 Unit 5, §5.2 (printed pp.44–46)**: a process told as a sequence — a letter's journey from writing to delivery — taught with the complete signpost set **first / then / next / after that / finally**, with the unit's Review (§5.3, printed p.47) completing the words and writing the process. Two shorter sets are filed plainly as shorter: **P3 Unit 4 teaches sequence connectors as a set — then, after that, next, before (printed p.60), with no "first" and no "finally"**, and **P5 Unit 8 sequences the pot-making instructions "First of all / Then / Afterwards" (printed p.148), again with no "finally"**. P1 Unit 10's picture-resequencing is not the basis of this stock; P2's named set is.

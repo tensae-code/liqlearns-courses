@@ -1,6 +1,6 @@
 # Sources for this lesson — Greetings
 
-countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan
+countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag.
@@ -80,6 +80,8 @@ side by side on one PDF page — that was wrong.
 | Introduction dialogues — introducing a younger brother, and introducing yourself and your father to a new neighbour | Pakistan — *English 2* (student's book), Unit 1, printed p.5; Unit 2, printed p.15 |
 | Greetings practice inside the first unit's speaking work | Pakistan — *English 3* (student's book), Unit 1, printed p.5 |
 | The course opens on greetings and the name exchange itself — hello/hi, "I'm…", "What's your name? / My name's…", with "Hi, I'm Badr." / "Hello, I'm Ahmed." on the opening page | Sudan — SMILE Starter 1 Pupil's Book, Grade 1, Unit 1 "Hello!", printed pp.1–8 ("Hi, I'm Badr." / "Hello, I'm Ahmed." printed p.1) |
+| The name exchange inside the first unit's greetings — "What is your name? — My name is ___", with "This is ___" beside it | Rwanda — Success English for Rwandan Schools, Primary 1 Pupil's Book, Unit 1 "Welcome to the classroom", printed pp.1–7 |
+| The name exchange re-opened in the next book's first unit — a greetings dialogue, then two seven-year-olds exchange names, ages and where they live in an introduction dialogue | Rwanda — English for Rwandan Schools, Primary 2 Learner's Book, Unit 1, printed pp.1–2 (the introduction dialogue at printed p.2) |
 
 **Second country merged 2026-10-25 — Libya:**
 English for Libya, Pupils Book Grade 1 (CERC, Ministry of Education,
@@ -122,7 +124,7 @@ rendered page the same day).
 - Unit 1 "Greeting and Numbers," p. 14 (Hello/Hi, Goodbye/bye tracing;
   "What's your name? / My name's" tracing strips, p. 16).
 
-**Acceptance count: taught in 24 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan).**
+**Acceptance count: taught in 25 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda).**
 China adds name exchanges from its first primary page and the
 "Where are you from? — I'm from …" origin frame (Grades 3), plus
 five printed ways to say goodbye (Grade 6 Volume 2); North
@@ -595,3 +597,5 @@ loved subject ("I am eight years old.", printed p.7).
 **Pakistan added 2026-11-03** — 4 books stock this lesson: **Book:** *English Nursery* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. **Book:** *English 1* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. **Book:** *English 2* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. **Book:** *English 3* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Filed plainly: the set's greeting frame is the Islamic greeting plus name frames. The Nursery book opens on a "Greetings" page (printed p.1), and Grade 1's Unit 2 dialogue runs "Assalaamu Alaikum! I am Mariam…" (printed p.11) beside a reading that opens "My name is Sa'ad" (printed p.10). Grade 2 practises introduction dialogues in Units 1–2 (printed pp.5, 15) and Grade 3 practises greetings in Unit 1 (printed p.5).
 
 **Sudan added 2026-11-04** — 1 book stocks this lesson: **Book:** *Sudan Modern Integrated Learning of English — SMILE Series — SMILE Starter 1 — Pupil's Book — Grade 1: Basic Level* (pupil's book) — Sudan, Federal Ministry of Education / The National Centre for Curricula and Educational Research (NCCER), 2nd Edition, 2020, no ISBN printed. All filed in english/books/sudan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Sudan opens its first book on this lesson: Grade 1, Unit 1, "Hello!" (printed pp.1–8), teaches hello/hi, "I'm…", and the name exchange "What's your name? / My name's…" as its opening greetings and introductions work; the opening page's speech bubbles read "Hi, I'm Badr." / "Hello, I'm Ahmed." (printed p.1). No teacher's book exists in Sudan's record, so this stock is student's-book sourced only.
+
+**Rwanda added 2026-11-04** — 2 books stock this lesson: **Book:** *Success English for Rwandan Schools, Primary 1 Pupil's Book* (pupil's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. **Book:** *English for Rwandan Schools, Primary 2 Learner's Book* (learner's book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. All filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Rwanda opens its course on this lesson, like Egypt, Libya and Syria: Primary 1, Unit 1, "Welcome to the classroom" (printed pp.1–7), teaches the greetings and the name frames together — "What is your name?", "My name is ___", "This is ___ / Who is this/that/they?" — in speech-bubble dialogues, with name-completion blanks as its only writing. Primary 2, Unit 1 (printed pp.1–11), re-opens on the same door: a greetings dialogue with Flora and "Miss. Juliet" (printed p.1), then an introduction dialogue (printed p.2) in which two seven-year-olds exchange names, ages and where they live, the boy in Kigali.

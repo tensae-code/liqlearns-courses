@@ -1,6 +1,6 @@
 # Sources — Finding the idea of a text
 
-countries: Bangladesh, Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait
+countries: Bangladesh, Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda
 
 Every part traces to its book and page.
 
@@ -127,6 +127,8 @@ CITATION CHECK PASSED 2026-11-03).
 
 **Book 35:** English Pearls of Kuwait Student's Book 6A, Grade 6 — Kuwait, Ministry of Education, First edition 2025-2026. Filed in english/books/kuwait.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 36:** Over to You Workbook 12B, Grade 12 — Kuwait, Pearson Longman. Filed in english/books/kuwait.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Workbook only — the matching Student's Book is not held; cited only for its own practice content.
+**Book 37:** English Learner's Book for Rwandan Primary Schools, P.5 (Learner's Book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 38:** English For Rwandan Primary Schools — Pupil's Book 6 (Pupil's Book) — Rwanda, Rwanda Education Board (REB), © 2019, no edition statement printed, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -187,9 +189,11 @@ CITATION CHECK PASSED 2026-11-03).
 | Summary writing taught again at the top of the school: main points found and the passage carried down to about a third of its length ("Trees for Life" and "Trees for fuel" summarised) | Sudan, SPINE 6, Grade 12, Chapter Two, Writing: Summary, printed p.33 |
 | Main-idea choice — choose the main idea of a passage on storytelling, with paragraph-level evidence hunting and true/false/not-given work | Kuwait, English Pearls of Kuwait Student's Book 6A, Unit 4, Lesson 1, printed pp.62–63 |
 | A main-idea/supporting-ideas table completed for an article on Venus — workbook only | Kuwait, Over to You Workbook 12B, Unit 11 (printed pp.32–37) |
+| Skimming and scanning defined and practised as study skills — dictionary definitions of both, scanning short texts for named details, and the Patricia story worked for scanning practice; the unit test then sets skimming, scanning and summarising tasks on a Hare and Tortoise retelling | Rwanda, P5 Learner's Book, Unit 3, printed pp.66–68; Tests, printed pp.72–73 |
+| Skimming and scanning explained as reading skills, each with its own short extract — the fast hunt for what a text carries, taught inside the reading-books unit | Rwanda, P6 Pupil's Book, Unit 6, printed pp.76–77 |
 
-**Acceptance count: taught in 21 countries (Bangladesh,
-Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait).** Ghana names the weighing (main idea vs supporting
+**Acceptance count: taught in 22 countries (Bangladesh,
+Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda).** Ghana names the weighing (main idea vs supporting
 details) and the own-words law; Bangladesh sets the choice
 as a task; China hunts the idea by title-choice and by the
 one question a whole text answers, and names the
@@ -231,7 +235,8 @@ Kuwait stocks this lesson in part: Pearls 6A
 sets a main-idea choice on a storytelling passage, with
 paragraph-level evidence hunting and true/false/not-given
 work, and Workbook 12B — workbook only — completes a
-main-idea/supporting-ideas table for an article on Venus. Other closed countries join as their books are
+main-idea/supporting-ideas table for an article on Venus.
+Rwanda stocks the hunt in part — no read Rwanda book names the main idea, and none works gist, headings or paragraph titles, but skimming and scanning are explained as reading skills in P5 and P6, each with its own extract, and P5's Reading unit test sets skimming, scanning and summarising tasks on a story — the fast hunt for what a text carries, without the idea ever being named. Other closed countries join as their books are
 read (see READING-QUEUE.md).
 
 **South Africa added 2026-11-03** — three books stock this lesson: *English Home Language, Grade 5 Workbook 1*, *English First Additional Language, Grade 5 Workbook 1* and *English First Additional Language, Grade 5 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. South Africa uses "main idea" by name: the Home Language Grade 5 Workbook 1's Pelé worksheet works the main character, the main idea and a summary, alongside the topic-sentence definition (printed p.20); the First Additional Language Grade 5 Workbook 1's spine names topic sentences and main ideas; and the First Additional Language Grade 5 Workbook 2 works the main idea with note-taking (Theme 8).
@@ -253,3 +258,5 @@ read (see READING-QUEUE.md).
 **Sudan added 2026-11-04** — 2 books stock this lesson: **Book:** *THE SPINE SERIES / PUPIL'S BOOK 5 — SPINE 5* (pupil's book) — Sudan, Ministry of Education, The Sudan / National Center for Curriculum Development and Educational Research, first published 1996, ISBN 978-99942-919-9-6. **Book:** *THE SPINE SERIES / PUPIL'S BOOK 6 — SPINE 6* (pupil's book) — Sudan, Ministry of Education, the Sudan / National Centre for Curriculum Development and Educational Research, first published 1997, ISBN 978-99942-919-8-9. All filed in english/books/sudan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Sudan's stock is the summarising step, with the main idea named inside it: SPINE 5 (Grade 11) teaches summary writing in Chapter Seven with a worked answer showing what is kept and left out (Writing: Summary, printed p.106), then states the four summary rules in Chapter Eight — main idea/theme, own words, leave out details, about one third of the passage — and applies them to "The Endangered Species" (Chapter Eight, printed pp.109–124); SPINE 6 (Grade 12) teaches summary again in Chapter Two, finding the main points and carrying a passage down to about a third of its length (Writing: Summary, printed p.33). Stated plainly: the words "main idea" are named only inside those summary rules — no read Sudan book runs a standalone main-idea hunt, and none works the idea as gist questions, heading matching or paragraph-title matching, so that work rests on the other countries.
 
 **Kuwait added 2026-11-04** — English Pearls of Kuwait Student's Book 6A, Over to You Workbook 12B (full read in english/books/kuwait.md). PARTIAL stock, filed exactly as a partial: Pearls 6A sets a main-idea choice on a storytelling passage, worked with paragraph-level evidence hunting and true/false/not-given questions (Unit 4, Lesson 1, printed pp.62–63). Workbook 12B, workbook only — its matching Student's Book is not held — completes a main-idea/supporting-ideas table for an article on Venus (Unit 11, printed pp.32–37).
+
+**Rwanda added 2026-11-04** — 2 books stock this lesson: **Book:** *English Learner's Book for Rwandan Primary Schools, P.5* (Learner's Book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. **Book:** *English For Rwandan Primary Schools — Pupil's Book 6* (Pupil's Book) — Rwanda, Rwanda Education Board (REB), © 2019, no edition statement printed, no ISBN printed. All filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). PARTIAL stock, filed exactly as a partial, on the Syria and South Sudan pattern: no read Rwanda book names the main idea, and none works the hunt as gist questions, heading matching or paragraph-title matching. What Rwanda does teach is the fast hunt itself: **skimming and scanning, defined from the dictionary and practised** — scanning short texts for named details and the Patricia story worked for scanning practice (P5 Unit 3, printed pp.66–68), the unit test then setting skimming, scanning and summarising tasks on a Hare and Tortoise retelling (printed pp.72–73) — and **skimming and scanning explained again in P6, each with its own short extract** (Unit 6, printed pp.76–77). Rwanda carries the skimming/scanning and summarising steps of this lesson, without the idea ever being named.
