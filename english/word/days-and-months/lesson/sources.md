@@ -1,6 +1,6 @@
 # Sources — Days and months
 
-countries: Bangladesh, Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan
+countries: Bangladesh, Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan
 
 Every part traces to its book and page.
 
@@ -158,9 +158,15 @@ english/books/jordan.md (Grade 6 Activity Book Semester 2 section, FULLY READ + 
 | Days of the week — a song naming Monday to Sunday | Pakistan — *English Nursery* (student's book), printed p.26 |
 | The calendar — reading a twelve-month calendar, the months and their ordinal position | Pakistan — *English 1* (student's book), Unit 11, printed p.106 |
 | Calendar work — September and December pages, days in a month, Defence Day and Quaid's Day | Pakistan — *English 2* (student's book), Unit 7, printed pp.66–67 |
+| The days of the week listed whole — Sunday to Saturday — with school days against free days (Friday is a free day) | Sudan — SMILE Book 2 Pupil's Book, Grade 4, Unit 1, printed p.2 |
+| The farming year told by month pairs — plant wheat in January–February, dates on the tree in July–August — naming all twelve months | Sudan — SMILE Book 2 Pupil's Book, Grade 4, Unit 7, printed pp.49–56 |
+| A days-of-week table split into school days and free days in the workbook | Sudan — SMILE Book 2 Activity Book, Grade 4, Unit 1, printed pp.1–15 |
+| A months word-search over a calendar grid in the workbook | Sudan — SMILE Book 2 Activity Book, Grade 4, Unit 7, printed pp.95–110 |
+| Months by ordinal position — the first, sixth, eighth and tenth month of the year — as general-knowledge answers in the workbook | Sudan — SMILE Book 2 Activity Book, Grade 4, Unit 9, printed pp.126–141 |
+| Timetable language — school subjects, days and times ("We've got History on Monday and Tuesday") | Sudan — SMILE Book 3 (A) Pupil's Book, Grade 5, Unit 1, printed pp.1–8 (Units 1–6 only — the (B) half is not held) |
 
-**Acceptance count: taught in 20 countries (Bangladesh,
-Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan).** Egypt
+**Acceptance count: taught in 21 countries (Bangladesh,
+Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan).** Egypt
 carries the days first (its school-week
 order, Saturday-first); Bangladesh carries the days on a
 Sunday-first calendar, the months with their ordinal numbers,
@@ -225,3 +231,5 @@ first of January" (p.99).
 **Cambodia added 2026-11-03** — 2 books stock this lesson: **Book:** *English Grade 6* (student's book) — Cambodia, MoEYS, 5th printing 2020, ISBN 978-9924-9423-1-3. **Book:** *ENGLISH Grade 7* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Both halves are stocked from one chapter: Grade 6's Chapter 2 teaches the days (Unit 1), the months (Unit 2) and full dates with years (Unit 3); Grade 7 works the days again against school timetables (Unit 4). The primary books below Grade 6 teach no calendar at all — the Grade 4 and Grade 5 books' negatives record that "Monday", "January" and "month" never occur in them.
 
 **Pakistan added 2026-11-03** — 3 books stock this lesson: **Book:** *English Nursery* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 1* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 2* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). The Nursery book teaches the days of the week with a song naming Monday to Sunday (printed p.26). Grade 1 reads a twelve-month calendar in Unit 11 (printed p.106). Grade 2 works with calendar pages in Unit 7 (printed pp.66–67), reading the months and the days in a month.
+
+**Sudan added 2026-11-04** — 3 books stock this lesson: **Book:** *SMILE Series: Book 2 — Pupil's Book — Grade 4: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2016, no ISBN printed. **Book:** *SMILE Series: Book 2 — Activity Book — Grade 4: Basic Level* (activity book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2016, no ISBN printed. **Book:** *SMILE Series: Book 3 (A) — Pupil's Book — Grade 5: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), November 2016 (the Introduction's date; no year or edition is printed on the title page), no ISBN printed. All filed in english/books/sudan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Days are stocked in full; months are stocked only as a set inside other work — stated plainly. The Grade 4 pupil's book lists the whole week (printed p.2, Friday the free day) and names all twelve months in its farming-year chant (Unit 7); its workbook splits the week into school and free days, hides the months in a calendar word-search, and asks for months by ordinal position. The Grade 5 pupil's book works days inside timetable language (Unit 1, Units 1–6 only). No Sudan book carries a calendar unit or a months-of-the-year lesson of its own.

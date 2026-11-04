@@ -1,6 +1,6 @@
 # Sources — The home
 
-countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan
+countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan
 
 Every part traces to its book and page.
 
@@ -170,10 +170,14 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | My Home — the rooms labelled: bedroom, kitchen, living room, washroom | Pakistan — *English Nursery* (student's book), printed p.3 |
 | Home objects beside classroom objects — sofa, TV, bed, lamp, iron, clock | Pakistan — *English 1* (student's book), Unit 7, printed p.68 |
 | My Home — a first-person text about a home, its rooms and furniture | Pakistan — *English 2* (student's book), Unit 2, printed p.13 |
+| House types and their materials — hair tent, brick, wood-and-mud, blocks — with is made of | Sudan — SMILE Book 7 Pupil's Book, Grade 7, Unit 2, Lesson 1, printed p.9 |
+| Rooms and furniture sets, with there is / there are | Sudan — SMILE Book 7 Pupil's Book, Grade 7, Unit 2, Lesson 3, printed p.11 |
+| Five Sudanese houses described in the first person — Darfur mud-and-bamboo, eastern tents, Yirol, Khartoum North brick, Port Sudan wood | Sudan — SPINE 4 Pupil's Book, Grade 10, Unit 1, Lesson 2, printed p.5 |
+| Home furniture — matching, a house-plan description, a vocabulary network | Sudan — SPINE 4 Pupil's Book, Grade 10, Unit 1, Lesson 3, printed p.9 |
 
-**Acceptance count: taught in 21 countries (Egypt, Libya,
+**Acceptance count: taught in 22 countries (Egypt, Libya,
 Palestine, Laos, China, North Macedonia, Mongolia, Indonesia,
-Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan).** Egypt carries the five rooms with a sentence for
+Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan).** Egypt carries the five rooms with a sentence for
 each and the drilled question; Libya carries the same rooms
 twice (Grade 1 set, Grade 2 labelled house) with the sitting
 room name and the furniture; Palestine carries the bedroom set
@@ -215,3 +219,5 @@ reading passage is a house text with written answers (p.117).
 **Cambodia added 2026-11-03** — 2 books stock this lesson: **Book:** *ENGLISH Grade 7* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. **Book:** *ENGLISH Grade 10* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2021, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia's home stock is two house units: Grade 7's rooms and furniture with place prepositions (Unit 23), and Grade 10's rooms-and-furniture unit built on there is/are (Unit 3).
 
 **Pakistan added 2026-11-03** — 3 books stock this lesson: **Book:** *English Nursery* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 1* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 2* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). The Nursery book's My Home page labels the rooms — bedroom, kitchen, living room and washroom (printed p.3). Grade 1 lists home objects beside classroom objects in Unit 7 (printed p.68) — sofa, TV, bed, lamp, iron and clock. Grade 2's My Home text in Unit 2 (printed p.13) describes a home in Islamabad, its rooms and furniture.
+
+**Sudan added 2026-11-04** — 2 books stock this lesson: **Book:** *SMILE Book 7 — Pupil's Book — Grade 1: Intermediate Level* (pupil's book; the grade line as printed — the intermediate stage's first year, the record's Grade 7) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2nd Edition 2021, no ISBN printed. **Book:** *THE SPINE SERIES — SPINE 4: Pupil's Book* (pupil's book) — Sudan, Ministry of Education / El Tarbia Printing Press, first published 1995, ISBN 978-99942-919-0-8. All filed in english/books/sudan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Sudan's home stock sits in two books. The Grade 7 pupil's book gives its second unit, Home Sweet Home, to house types and materials (printed p.9) and to rooms and furniture (printed p.11). SPINE 4 opens with Sudan itself: five regional houses described by the people who live in them (printed p.5) and a home-furniture lesson with a house-plan description (printed p.9).

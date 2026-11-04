@@ -1,6 +1,6 @@
 # Sources for this lesson — Greetings
 
-countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan
+countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag.
@@ -79,6 +79,7 @@ side by side on one PDF page — that was wrong.
 | A greeting-and-name dialogue — "Assalaamu Alaikum! I am Mariam…" — and a first-person reading that opens "My name is Sa'ad" | Pakistan — *English 1* (student's book), Unit 2, printed p.11 (dialogue) and printed p.10 (reading) |
 | Introduction dialogues — introducing a younger brother, and introducing yourself and your father to a new neighbour | Pakistan — *English 2* (student's book), Unit 1, printed p.5; Unit 2, printed p.15 |
 | Greetings practice inside the first unit's speaking work | Pakistan — *English 3* (student's book), Unit 1, printed p.5 |
+| The course opens on greetings and the name exchange itself — hello/hi, "I'm…", "What's your name? / My name's…", with "Hi, I'm Badr." / "Hello, I'm Ahmed." on the opening page | Sudan — SMILE Starter 1 Pupil's Book, Grade 1, Unit 1 "Hello!", printed pp.1–8 ("Hi, I'm Badr." / "Hello, I'm Ahmed." printed p.1) |
 
 **Second country merged 2026-10-25 — Libya:**
 English for Libya, Pupils Book Grade 1 (CERC, Ministry of Education,
@@ -121,7 +122,7 @@ rendered page the same day).
 - Unit 1 "Greeting and Numbers," p. 14 (Hello/Hi, Goodbye/bye tracing;
   "What's your name? / My name's" tracing strips, p. 16).
 
-**Acceptance count: taught in 23 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan).**
+**Acceptance count: taught in 24 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan).**
 China adds name exchanges from its first primary page and the
 "Where are you from? — I'm from …" origin frame (Grades 3), plus
 five printed ways to say goodbye (Grade 6 Volume 2); North
@@ -592,3 +593,5 @@ loved subject ("I am eight years old.", printed p.7).
 **Cambodia added 2026-11-03** — 4 books stock this lesson: **Book:** *English Grade 4* (student's book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS), 8th printing 2020, ISBN 978-9924-9423-0-6. **Book:** *English Grade 6* (student's book) — Cambodia, MoEYS, 5th printing 2020, ISBN 978-9924-9423-1-3. **Book:** *ENGLISH Grade 7* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. **Book:** *ENGLISH Grade 10* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2021, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia opens three of its courses on this lesson: Grade 4's Unit 1 (hello/hi, "I am …", asking a name), Grade 7's Unit 1 "Meeting new friends" and Grade 10's Unit 1 of names, ages, birthdays and phone numbers; Grade 6 re-opens on it as a consolidation year (Chapter 1, Unit 1, with a Language Focus on to be).
 
 **Pakistan added 2026-11-03** — 4 books stock this lesson: **Book:** *English Nursery* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. **Book:** *English 1* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. **Book:** *English 2* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. **Book:** *English 3* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Filed plainly: the set's greeting frame is the Islamic greeting plus name frames. The Nursery book opens on a "Greetings" page (printed p.1), and Grade 1's Unit 2 dialogue runs "Assalaamu Alaikum! I am Mariam…" (printed p.11) beside a reading that opens "My name is Sa'ad" (printed p.10). Grade 2 practises introduction dialogues in Units 1–2 (printed pp.5, 15) and Grade 3 practises greetings in Unit 1 (printed p.5).
+
+**Sudan added 2026-11-04** — 1 book stocks this lesson: **Book:** *Sudan Modern Integrated Learning of English — SMILE Series — SMILE Starter 1 — Pupil's Book — Grade 1: Basic Level* (pupil's book) — Sudan, Federal Ministry of Education / The National Centre for Curricula and Educational Research (NCCER), 2nd Edition, 2020, no ISBN printed. All filed in english/books/sudan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Sudan opens its first book on this lesson: Grade 1, Unit 1, "Hello!" (printed pp.1–8), teaches hello/hi, "I'm…", and the name exchange "What's your name? / My name's…" as its opening greetings and introductions work; the opening page's speech bubbles read "Hi, I'm Badr." / "Hello, I'm Ahmed." (printed p.1). No teacher's book exists in Sudan's record, so this stock is student's-book sourced only.

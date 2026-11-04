@@ -1,6 +1,6 @@
 # Sources — Telling a story back
 
-countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan
+countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan
 
 Every part traces to its book and page.
 
@@ -144,9 +144,11 @@ PASSED 2026-11-03).
 | A text retold in order as writing work — the fashion article summarised in chronological order (partial stock: ordered retelling of a text's events; no held Armenia book teaches oral retelling by name) | Armenia — English 7 (Zangak), Unit 1, Writing Spot, printed p.16 |
 | A journalist interview read-and-retell activity inside the Review unit | Cambodia — ENGLISH Grade 12 (student's book), Unit 18 "Review", printed pp.99–102 |
 | Retelling named as oral work: learners retell a text in their own words and tell short stories, inside the opening unit's Oral Communication work | Pakistan, English 9, Unit 1, printed pp.13–14 |
+| The unit story retold as a set writing outcome: the Ali and Hamoor story retold, and the Daedalus and Icarus story retold | Sudan, Grade 4 Pupil's Book, Book 2, Unit 9, printed pp.65–72, and Unit 10, printed pp.73–80 |
+| Retelling the unit story as a fixed slot of every unit's Revision lesson — the five fixed slots are re-sing the chant, a guided writing task, retell the unit story, "Add words", "Say it. Spell it!" — with the Hamid story retold at Unit 4's Revision and the Ali story retold at Unit 5's Revision (Units 1–6 only are held in the pupil's book) | Sudan, Grade 5 Pupil's Book, Book 3 (A), Revision lessons, printed pp.8, 16, 24, 32, 40, 48 (the retells named at printed p.32 and printed p.40) |
 
-**Acceptance count: taught in 16 countries (Bangladesh,
-Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan).** Bangladesh equips the retelling (word box,
+**Acceptance count: taught in 17 countries (Bangladesh,
+Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan).** Bangladesh equips the retelling (word box,
 first-person, comparison); Ghana frames it (chain, Herring
 Bone, sequence order); China equips it again (the fill-in
 retell, the phone retell, the sorted diary recount);
@@ -192,3 +194,5 @@ their books are read (see READING-QUEUE.md).
 **Cambodia added 2026-11-03** — 1 book stocks this lesson, as a partial: **Book:** *ENGLISH Grade 12* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2023, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). PARTIAL, filed plainly: Cambodia's only retelling stock is one named read-and-retell task — Grade 12's Unit 18 Review sends pupils from a journalist interview to retelling it. No Cambodia book teaches retelling as a skill beyond that task; the folk tales in Grades 6 and 9 are retold BY the books, which is the-story's stock, not this lesson's.
 
 **Pakistan added 2026-11-03** — 1 book stocks this lesson: **Book:** *English 9* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Updated/Revised National Curriculum 2023, Experimental Edition, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Filed plainly: retelling is named oral work in this one book only — Grade 9's opening unit has learners retell a text in their own words and tell short stories (Unit 1, printed pp.13–14). No other read Pakistan book names retelling, and none is claimed here.
+
+**Sudan added 2026-11-04** — 2 books stock this lesson: **Book:** *SMILE Series: Book 2 — Pupil's Book, Grade 4: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2016, no ISBN printed. **Book:** *SMILE Series: Book 3 (A) — Pupil's Book, Grade 5: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), November 2016 (the introduction's date; no year or edition is printed on the title page or imprint), no ISBN printed. All filed in english/books/sudan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Sudan's retelling is a set task pattern in the SMILE primary books, named "retell": the Grade 4 pupil's book sets the Ali and Hamoor story retold as Unit 9's writing outcome (printed pp.65–72) and the Daedalus and Icarus story retold as Unit 10's (printed pp.73–80); and the Grade 5 pupil's book (Units 1–6 only — Book 3 (A)) builds retelling into every unit, as one of the five fixed slots of its Revision lesson — re-sing the chant, a guided writing task, retell the unit story, "Add words", "Say it. Spell it!" — with the Hamid story's retelling named at Unit 4's Revision (printed p.32) and the Ali story's at Unit 5's (printed p.40). The Grade 5 pupil's text for Units 7–12 is not held, so no retelling is claimed beyond Unit 6.

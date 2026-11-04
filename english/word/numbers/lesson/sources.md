@@ -1,6 +1,6 @@
 # Sources — Numbers
 
-countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan
+countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan
 
 Every part traces to its book and page.
 
@@ -217,10 +217,17 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 | Numbers 1–50 written in words | Pakistan — *English 2* (student's book), Unit 7, printed p.70 |
 | Cardinal numbers one to ten, with counting pictures | Pakistan — *English 2* (student's book), Unit 9, printed p.86 |
 | Numbers 50–100 written in words, in a table | Pakistan — *English 3* (student's book), Unit 2, printed p.19 |
+| Numbers 1–10 arrive inside the Hello unit, then counting to 15 and to 20 with "How many frogs are there?" | Sudan — SMILE Starter 1 Pupil's Book, Grade 1, Units 1–2, printed pp.1–16 (counting chant printed p.9; "How many cats are there? There are ten." printed p.12) |
+| Counting by tens to 100, with "How old is it/are they/is she/is he?" | Sudan — SMILE Book 2 Pupil's Book, Grade 4, Unit 3, printed p.17 |
+| A board game to square 30 practising numbers to 30, and leg-counting sums up to the 50s in the animals unit | Sudan — SMILE Book 2 Pupil's Book, Grade 4, Unit 4, printed pp.25–32; Unit 6, printed pp.41–48 |
+| Numbers 30–100 heard and numbered in the workbook; numbers 34–57 heard and numbered a unit later | Sudan — SMILE Book 2 Activity Book, Grade 4, Unit 3, printed pp.32–46; Unit 6, printed pp.79–94 |
+| Listen-and-write numbers in the Maths in our Life unit — numbers, quantities and measures in sentence work | Sudan — SMILE Book 3 Activity Book, Grade 5, Unit 7, printed pp.52–59 |
+| Counting in trade: 30 mangoes per box, 8,000 boxes per container — and a billion spelled out as a thousand million | Sudan — SMILE Book 6 Pupil's Book, Grade 8, Unit 7, Lesson 3, printed p.51 |
+| Talking about large numbers in the Countries Quiz lesson | Sudan — SMILE Book 9 Pupil's Book, Grade 9, Unit 3, Lesson 2, printed p.18 |
 
-**Acceptance count: taught in 22 countries (Egypt, India,
+**Acceptance count: taught in 23 countries (Egypt, India,
 Palestine, Laos, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan).** Palestine carries the youngest path (numbers
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan).** Palestine carries the youngest path (numbers
 inside the word units, traced); Egypt carries the counting
 question and the climb (1–5, 11–20, by tens to 100); India
 carries the same 1–20 in its first book; China carries the
@@ -283,3 +290,5 @@ a whole song that sings three numbers (p.14).
 **Cambodia added 2026-11-03** — 3 books stock this lesson: **Book:** *English Grade 4* (student's book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS), 8th printing 2020, ISBN 978-9924-9423-0-6. **Book:** *English Grade 5* (student's book) — Cambodia, MoEYS, 6th printing 2020, ISBN 978-9924-9423-2-0. **Book:** *ENGLISH Grade 10* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2021, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia builds the number system as a ladder: Grade 4's 1–10 and 20–50, then Grade 5's full Chapter 4 staircase — 11–19, 20–99, hundreds, thousands — priced in Riels as it climbs; Grade 10 adds the ordinals and the -teen/-ty contrast (Unit 1).
 
 **Pakistan added 2026-11-03** — 3 books stock this lesson: **Book:** *English 1* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 2* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 3* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). The Nursery book has NO numbers unit — number words enter at Grade 1. Grade 1 pictures the number words one to ten in Unit 2 (printed p.13). Grade 2 writes numbers 1–50 in words in Unit 7 (printed p.70) and gives cardinal numbers in Unit 9 (printed p.86), and Grade 3 writes numbers 50–100 in words in Unit 2 (printed p.19).
+
+**Sudan added 2026-11-04** — 6 books stock this lesson: **Book:** *SMILE Starter 1 — Pupil's Book — Grade 1: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2nd Edition 2020, no ISBN printed. **Book:** *SMILE Series: Book 2 — Pupil's Book — Grade 4: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2016, no ISBN printed. **Book:** *SMILE Series: Book 2 — Activity Book — Grade 4: Basic Level* (activity book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2016, no ISBN printed. **Book:** *SMILE Series: Book 3 — Activity Book — Grade 5: Basic Level* (activity book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), November 2016, no ISBN printed. **Book:** *SMILE Series: Book 6 — Pupil's Book — Grade 8: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), November 2016, no ISBN printed. **Book:** *SMILE Series: Book 9 — Pupil's Book — Grade: intermidate Level 3* [sic] (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), no year, edition or ISBN printed. All filed in english/books/sudan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Sudan builds numbers in the SMILE climb: 1–10 inside the Grade 1 Hello unit and counting to 20 in its Numbers unit, by tens to 100 in Grade 4 with the board game to 30 and sums into the 50s, workbook hearing work at 30–100 and 34–57, listen-and-write numbers in the Grade 5 workbook's Maths in our Life unit, and big-number use in trade (the Grade 8 mango-container maths, printed p.51) and in Grade 9's Countries Quiz (printed p.18).

@@ -1,6 +1,6 @@
 # Sources — First, then, finally
 
-countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan
+countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan
 
 Every part traces to its book and page.
 
@@ -133,9 +133,14 @@ CITATION CHECK PASSED 2026-11-03).
 | Sequencing a process with first, second, third, next, after that, then | Cambodia — ENGLISH Grade 8 (student's book), Unit 3 "The morning ceremony", printed pp.26–31 |
 | The connectors Firstly/Secondly/Finally named as a set, worked in a paragraph | Pakistan, English 4, Unit 12, printed p.119 |
 | A model recipe sequenced Firstly/Secondly/Then/Finally, then the pupil's own recipe written | Pakistan, English 4, Unit 3, printed p.30 |
+| Sequence markers first / after that / finally carrying the lonely-star story's retelling work | Sudan, Grade 5 Pupil's Book, Book 3 (A), Unit 2, printed pp.9–16 |
+| A journey through the airport sequenced with first / after that / next / finally — Departure Hall, Check-in Desk, Passport Control, security check, Departure Gate, bus to the plane | Sudan, Grade 5 Pupil's Book, Book 3 (A), Unit 6, Lesson 7, printed p.47 |
+| The full sequence set inside a sequenced dialogue — first / then / after that / next / finally — in the airport-vocabulary work | Sudan, Grade 5 Activity Book, Book 3, Unit 6, printed pp.44–51 |
+| Instruction writing carried by first / next / then / finally in the whole-book revision unit | Sudan, Grade 5 Activity Book, Book 3, Unit 12, printed pp.94–101 |
+| Sequence adverbs First / Secondly / Next / Finally ordering the Floating Egg Experiment, with "First of all…" sequencing the chocolate-factory process | Sudan, Grade 8 Pupil's Book, Book 6, Unit 5, Lesson 7, printed p.39, and Lesson 2, printed p.34 |
 
-**Acceptance count: taught in 15 countries (Bangladesh,
-Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan).** Egypt prints the law and the set;
+**Acceptance count: taught in 16 countries (Bangladesh,
+Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan).** Egypt prints the law and the set;
 Mongolia files the family by its grammar name; Bangladesh
 tells its methods under the signposts; China adds the
 dated diary as the model recount, its events sorted before
@@ -189,3 +194,5 @@ READING-QUEUE.md).
 **Cambodia added 2026-11-03** — 3 books stock this lesson: **Book:** *ENGLISH Grade 8* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. **Book:** *ENGLISH Grade 10* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2021, no ISBN printed. **Book:** *ENGLISH Grade 12* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2023, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia prints the full sequence set, finally included, twice: Grade 10's recipe unit sequences its instructions first / then / after that / finally (Unit 13), and Grade 12 describes a tour itinerary with first / then / afterwards / finally (Unit 7); Grade 8 sequences a ceremony with first, second, third, next, after that, then (Unit 3).
 
 **Pakistan added 2026-11-03** — 1 book stocks this lesson: **Book:** *English 4* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). One Grade 4 book stocks the signposts in two units: its connectors lesson names Firstly/Secondly/Finally as a set, worked in a paragraph (Unit 12, printed p.119). Earlier in the same book, a model recipe — a Chicken Cheese Sandwich — is sequenced Firstly/Secondly/Then/Finally, and pupils then write a recipe of their own (Unit 3, printed p.30).
+
+**Sudan added 2026-11-04** — 3 books stock this lesson: **Book:** *SMILE Series: Book 3 (A) — Pupil's Book, Grade 5: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), November 2016 (the introduction's date; no year or edition is printed on the title page or imprint), no ISBN printed. **Book:** *SMILE Series: Book 3 — Activity Book, Grade 5: Basic Level* (activity book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), November 2016 (the introduction's date; no year or edition is printed on the title page or imprint), no ISBN printed. **Book:** *SMILE Series: Book 6 — Pupil's Book, Grade 8: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), November 2016 (the introduction's date; no edition statement is printed), no ISBN printed. All filed in english/books/sudan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Sudan teaches the signposts as sets, not as bare step-lists: the Grade 5 pupil's book (Units 1–6 only) works the lonely-star story under first / after that / finally (Unit 2, printed pp.9–16) and sequences Mr Hamdan's airport journey with first / after that / next / finally (Unit 6, Lesson 7, printed p.47); its complete Activity Book prints the full set — first / then / after that / next / finally — inside its sequenced airport dialogue (Unit 6, printed pp.44–51) and carries instruction writing with first / next / then / finally in its revision unit (Unit 12, printed pp.94–101); and the Grade 8 pupil's book orders the Floating Egg Experiment with First / Secondly / Next / Finally (Unit 5, Lesson 7, printed p.39), with "First of all…" sequencing the chocolate-factory process (Lesson 2, printed p.34).

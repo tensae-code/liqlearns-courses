@@ -1,6 +1,6 @@
 # Sources — The body
 
-countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan
+countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan
 
 Every part traces to its book and page.
 
@@ -148,9 +148,14 @@ english/books/jordan.md (Grade 2 Pupil's Book Semester 1 section, FULLY READ + C
 | Parts of the body on a labelled figure — hair, head, eye, ear, nose, neck, lips, arm, hand, finger, knee, leg, toe, foot | Pakistan — *English Nursery* (student's book), printed p.18 |
 | Parts of the body — hand, knee, eye, arm, nose, neck | Pakistan — *English 1* (student's book), Unit 8, printed p.78 |
 | Parts of the body on a labelled figure — hand, hair, eye, ear, teeth, neck, shoulder, elbow, finger, knee, toes, foot | Pakistan — *English 2* (student's book), Unit 1, printed p.7 |
+| The body list — head, eyes, ears, nose, mouth, neck, arms, hands, legs, feet, toes — with point-to instructions | Sudan — SMILE Starter 1 Pupil's Book, Grade 1, Unit 4, printed p.27 |
+| Body-part vocabulary — knee, elbow, finger, muscle, shoulder — in the Health unit | Sudan — SMILE Book 3 Activity Book, Grade 5, Unit 11, printed pp.86–93 |
+| A whole Our Bodies unit — the heart in four fact panels, the brain, ribs/heart/skull descriptions — and Amazing Organs in the revision unit | Sudan — SMILE Book 6 Pupil's Book, Grade 8, Unit 8, printed pp.57–64; Unit 12, Lesson 3, printed p.91 |
+| Skeleton labelling and a body-vocabulary cloze in the workbook | Sudan — SMILE Book 6 Activity Book, Grade 8, Unit 8, printed pp.68–76 |
+| The skeleton as a fact sheet — "Bones Facts" — in the science unit | Sudan — SMILE Book 9 Pupil's Book, Grade 9, Unit 1, Lesson 3, printed p.3 |
 
-**Acceptance count: taught in 20 countries (Egypt, Palestine,
-Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan).**
+**Acceptance count: taught in 21 countries (Egypt, Palestine,
+Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan).**
 Palestine carries the core seven by touch;
 Egypt carries the parts at work in the five sense sentences,
 plus three more inside its letter pages; China carries the
@@ -184,3 +189,5 @@ stomachache (p.73).
 **Cambodia added 2026-11-03** — 2 books stock this lesson: **Book:** *English Grade 6* (student's book) — Cambodia, MoEYS, 5th printing 2020, ISBN 978-9924-9423-1-3. **Book:** *ENGLISH Grade 12* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2023, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia's body stock is Grade 6's whole body chapter (Chapter 3: head, limbs, appearance, functions, care) and Grade 12's health-unit body parts (Unit 13).
 
 **Pakistan added 2026-11-03** — 3 books stock this lesson: **Book:** *English Nursery* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 1* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 2* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). The Nursery book labels the parts of the body on a figure (printed p.18) — hair, head, eye, ear, nose, neck, lips, arm, hand, finger, knee, leg, toe and foot. Grade 1 names body parts in Unit 8 (printed p.78): hand, knee, eye, arm, nose and neck. Grade 2 labels a body-parts figure again in Unit 1 (printed p.7), adding teeth, shoulder, elbow and toes.
+
+**Sudan added 2026-11-04** — 5 books stock this lesson: **Book:** *SMILE Starter 1 — Pupil's Book — Grade 1: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2nd Edition 2020, no ISBN printed. **Book:** *SMILE Series: Book 3 — Activity Book — Grade 5: Basic Level* (activity book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), November 2016, no ISBN printed. **Book:** *SMILE Series: Book 6 — Pupil's Book — Grade 8: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), November 2016, no ISBN printed. **Book:** *SMILE Series: Book 6 — Activity Book* (activity book; the file's front matter misprints it as a Grade 7 Pupil's Book — the body is the genuine Book 6 workbook for Grade 8, and only the body is cited) — Sudan, The National Centre for Curricula and Educational Research (NCCER), November 2016, no ISBN printed. **Book:** *SMILE Series: Book 9 — Pupil's Book — Grade: intermidate Level 3* [sic] (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), no year, edition or ISBN printed. All filed in english/books/sudan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Sudan's body stock runs from the Grade 1 point-to list (printed p.27) through the Grade 5 workbook's health-unit vocabulary (knee, elbow, finger, muscle, shoulder) to a whole Grade 8 Our Bodies unit in both books — the pupil's book's heart panels and organ descriptions, the workbook's skeleton labelling (workbook body only; its front matter belongs to other books) — and Grade 9's Bones fact sheet (printed p.3).

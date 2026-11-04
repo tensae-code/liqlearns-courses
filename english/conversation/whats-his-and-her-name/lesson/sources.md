@@ -1,6 +1,6 @@
 # Sources for this lesson — What's his and her name?
 
-countries: Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal
+countries: Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -29,8 +29,9 @@ Book (Garnet / CERC, © 2019; verified on disk 2026-10-25: %PDF,
 | **he is/she is** description chains | South Africa — English Home Language, Grade 3 Workbook 2 (Rainbow Workbooks), printed pp.84–85 |
 | "What's her/his name?" with she's/he's answers, inside the first unit's naming work | Nepal — MY ENGLISH BOOK Grade I (student's book), Unit 1 "Starting school", printed pp.1–6 |
 | "What's his name?" inside the occupations unit — "Is he a soldier? No, he isn't. What is he? He is a farmer" | Nepal — MY ENGLISH BOOK Grade II (student's book), Unit 2 "What am I?", printed pp.8–12 ("He is a farmer." printed p.8) |
+| Naming a third person with the his/her name frame — the question is "Who's that boy/girl…?", and the name itself arrives as "His name is… / Her name is…" with possessive adjectives *his/her* (Sudan never prints the "What's his/her name?" wording — its third-person question is *who's that*, and the name frame is the answer, recorded as printed) | Sudan — SMILE Starter 1 Pupil's Book, Grade 1, Unit 4 "About Me", printed pp.25–32 |
 
-**Acceptance count: taught in 10 countries (Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal).**
+**Acceptance count: taught in 11 countries (Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan).**
 China names third people by role with he/she and identifies
 family members one by one; North Macedonia works the naming
 frame through a full set of named family portraits. Iran and
@@ -200,3 +201,5 @@ identified and described, never asked for by name in
 Libya's wording.
 
 **Nepal added 2026-11-03** — two books stock this lesson: **Book:** *MY ENGLISH BOOK Grade I* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur, first edition 2003, reprint 2011, ISBN 978-999-33-714-0-8. **Book:** *MY ENGLISH BOOK Grade II* (student's book) — Nepal, Government of Nepal, Ministry of Education, Curriculum Development Centre, first edition 2004, second edition 2006, reprint 2011, ISBN 978-999-33-708-7-8. Both Filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Nepal asks the third person's name in this lesson's own wording from its first book: Grade 1, Unit 1 (printed pp.1–6), works "What's her/his name?" with she's/he's answers beside "Hello, what's your name?". Grade 2, Unit 2 (printed pp.8–12), asks "What's his name?" and works he/she identity beside it — "Who is she? She is my friend, Preeti", "Is he a soldier? No, he isn't. What is he? He is a farmer" ("He is a farmer." is a citation anchor at printed p.8).
+
+**Sudan added 2026-11-04** — 1 book stocks this lesson: **Book:** *Sudan Modern Integrated Learning of English — SMILE Series — SMILE Starter 1 — Pupil's Book — Grade 1: Basic Level* (pupil's book) — Sudan, Federal Ministry of Education / The National Centre for Curricula and Educational Research (NCCER), 2nd Edition, 2020, no ISBN printed. All filed in english/books/sudan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Sudan does this lesson's work in Jordan's form, not Libya's: Grade 1, Unit 4, "About Me" (printed pp.25–32), asks "Who's that boy/girl…?" and answers with the third person's name in the exact his/her frame — "His name is… / Her name is…" — with possessive adjectives *his/her* and demonstrative *that*. Sudan never prints the "What's his/her name?" wording in the filed read; its form is recorded here exactly as printed, not rewritten into it.

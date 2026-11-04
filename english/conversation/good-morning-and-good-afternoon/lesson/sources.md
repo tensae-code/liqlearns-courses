@@ -1,6 +1,6 @@
 # Sources for this lesson — Good morning and good afternoon
 
-countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia
+countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -34,8 +34,9 @@ explains one thing only.
 | Good morning/goodbye rhymes and greetings practice opening the Foundation phase — the guide's own teaching for its own, different workbook (see the guide note in the Nepal section below) | Nepal — My English 1 Teacher's Guide (teacher's guide to a different, unheld workbook), Lessons 1–5, printed pp.50–96 ("good morning/afternoon class" printed p.52) |
 | The greeting set named as classroom language for the teacher — "Good morning/ afternoon/ evening (everyone/ class)" — both halves of this lesson named in one list (guide-only stock: no Armenia pupil book prints the exchange) | Armenia — English 7, Methodological Guide (Zangak), "Classroom Language Exponents", printed p.48 |
 | Greetings by time of day — morning, afternoon and evening — as the opening work of the Grade 6 book | Cambodia — English Grade 6 (student's book), Chapter 1, Unit 1 "Greetings And Introductions", printed pp.8–11 |
+| "Good morning, class." — the morning greeting as the first speech bubble of the first lesson (Sudan's filed books teach the morning greeting only: no "Good afternoon" greeting occurs anywhere in the Sudan read) | Sudan — SMILE Book 2 Pupil's Book, Grade 4, Unit 1 "Welcome Back to English", Lesson 1, printed p.1 |
 
-**Acceptance count: taught in 17 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia).**
+**Acceptance count: taught in 18 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan).**
 China teaches the pair inside its colours unit in the first
 primary book; Mongolia stocks the day-part ground the greeting
 stands on — one boy's whole day told in clock pictures — from a
@@ -306,3 +307,5 @@ is recorded.
 **Armenia added 2026-11-03** — one book stocks this lesson, guide-only: **Book:** *English 7 — Methodological Guide* — Armenia, Zangak, Yerevan 2023, Lusine Grigoryan (methodology-only companion in Armenian; placeholder ISBN 978-9939-99-000-0 as printed). Filed in english/books/armenia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). GUIDE-ONLY PARTIAL STOCK, recorded plainly as such: Armenia's pupil books teach hello/hi/goodbye but print no "Good morning/Good afternoon" exchange, and none is claimed here. The stock is the guide's "Classroom Language Exponents" list of teacher greeting phrases (printed p.48), which names all three in one list: "Good morning/ afternoon/ evening (everyone/ class)" — both halves of this lesson named in that one list.
 
 **Cambodia added 2026-11-03** — 1 book stocks this lesson: **Book:** *English Grade 6* (student's book) — Cambodia, MoEYS, 5th printing 2020, ISBN 978-9924-9423-1-3. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Stocked in full, both halves from one unit: the Grade 6 book opens its consolidation year by teaching greetings by time of day — morning, afternoon and evening — inside Chapter 1, Unit 1, beside name, age and grade.
+
+**Sudan added 2026-11-04** — 1 book stocks this lesson: **Book:** *Sudan Modern Integrated Learning of English — SMILE Series: Book 2 — Pupil's Book — Grade 4: Basic Level* (pupil's book) — Sudan, Federal Ministry of Education / The National Centre for Curricula and Educational Research (NCCER), 2016, no ISBN printed. All filed in english/books/sudan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). PARTIAL STOCK, recorded as such: Sudan carries the morning half only. Grade 4, Unit 1, Lesson 1 (printed p.1) opens with the speech bubble "Good morning, class." No "Good afternoon" greeting occurs anywhere in the filed Sudan read — the phrase is not printed in english/books/sudan.md at all — so no afternoon greeting is claimed here. Sudan is therefore counted for the morning half of this lesson, exactly as Jordan, Greece and Iraq are above.

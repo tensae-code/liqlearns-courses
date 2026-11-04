@@ -1,6 +1,6 @@
 # Sources — The town
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan
 
 Every part traces to its book and page.
 
@@ -158,9 +158,14 @@ english/books/jordan.md (Grade 6 Pupil's Book Semester 1 section, FULLY READ + C
 | My Home and City — a home in Islamabad, the Faisal Masjid, keeping the city clean | Pakistan — *English 2* (student's book), Unit 2, printed pp.13–14 |
 | A descriptive paragraph about your city, written from a model | Pakistan — *English 3* (student's book), Unit 2, printed p.19 |
 | Reading a city map with its key | Pakistan — *English 4* (student's book), Unit 7, printed pp.69–70 |
+| A town-map lesson — mosque, clinic, hospital, bakery, library, museum, park, bus station — with directions (left, right, straight on, turn) and "Where is it, please?" | Sudan — SMILE Book 2 Pupil's Book, Grade 4, Unit 2, printed pp.9–16 |
+| A town map recycled with there is/are and place prepositions in the revision unit | Sudan — SMILE Book 2 Pupil's Book, Grade 4, Unit 12, printed pp.89–96 |
+| Draw your community and write two sentences about it, in the workbook | Sudan — SMILE Book 2 Activity Book, Grade 4, Unit 2, printed pp.16–31 |
+| A map-directions dialogue — turn left, go straight, walk past, on the opposite side | Sudan — SMILE Book 7 Pupil's Book, Grade 7, Unit 2, Lesson 6, printed p.14 |
+| Town Plan map work — turn left/right, go straight on, take the second turning — with a direction-giving game | Sudan — SPINE 4 Pupil's Book, Grade 10, Unit 3, Lessons 2–3, printed pp.69–72 |
 
-**Acceptance count: taught in 21 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan).** Egypt
+**Acceptance count: taught in 22 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan).** Egypt
 carries the first set twice (Primary 1's
 eight words with their dialog; Primary 2's city set);
 Bangladesh carries city life as a topic, against village life;
@@ -198,3 +203,5 @@ Vientiane's landmarks to direct over (pp.66–70).
 **Cambodia added 2026-11-03** — 3 books stock this lesson: **Book:** *ENGLISH Grade 7* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. **Book:** *ENGLISH Grade 10* (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, first printing 2021, no ISBN printed. **Book:** *ENGLISH Grade 11* (teacher's guide book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, no ISBN printed; the Grade 11 student's book is NOT held — the guide reproduces its pages, so everything cited from it is guide-held only. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia's town stock is Grade 7's places-and-directions unit (Unit 24) and Grade 10's places in town (Unit 17); the Grade 11 material is guide-held only, worded that way in its row — the student's book is not held, and the teacher's book's reproductions are the only held form of its pages.
 
 **Pakistan added 2026-11-03** — 3 books stock this lesson: **Book:** *English 2* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 3* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. **Book:** *English 4* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, SNC 2020, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Grade 2's My Home and City unit describes a home in Islamabad and the Faisal Masjid, with keeping the city clean (Unit 2, printed pp.13–14). Grade 3 asks for a descriptive paragraph about your city in Unit 2 (printed p.19), written from a model. Grade 4 reads a city map with its key in Unit 7 (printed pp.69–70).
+
+**Sudan added 2026-11-04** — 4 books stock this lesson: **Book:** *SMILE Series: Book 2 — Pupil's Book — Grade 4: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2016, no ISBN printed. **Book:** *SMILE Series: Book 2 — Activity Book — Grade 4: Basic Level* (activity book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2016, no ISBN printed. **Book:** *SMILE Book 7 — Pupil's Book — Grade 1: Intermediate Level* (pupil's book; the grade line as printed — the intermediate stage's first year, the record's Grade 7) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2nd Edition 2021, no ISBN printed. **Book:** *THE SPINE SERIES — SPINE 4: Pupil's Book* (pupil's book) — Sudan, Ministry of Education / El Tarbia Printing Press, first published 1995, ISBN 978-99942-919-0-8. All filed in english/books/sudan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Sudan teaches the town through maps and directions. The Grade 4 pupil's book sets its places — mosque, clinic, hospital, bakery, library, museum, park, bus station — on a town map with direction language (Unit 2), recycles the map in its revision unit (Unit 12), and its workbook has pupils draw their own community. The Grade 7 pupil's book runs a map-directions dialogue (printed p.14), and SPINE 4's Town Plan lessons work the same direction language over two lessons (printed pp.69–72).

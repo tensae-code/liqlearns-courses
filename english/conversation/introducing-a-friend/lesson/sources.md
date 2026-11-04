@@ -1,6 +1,6 @@
 # Sources for this lesson — Introducing a friend
 
-countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan
+countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -53,12 +53,14 @@ disk 2026-10-25: %PDF, 190 pp).
 | A dialogue introducing a younger brother | Pakistan — *English 2* (student's book), Unit 1, printed p.5 |
 | A dialogue introducing yourself and your father to a new neighbour | Pakistan — *English 2* (student's book), Unit 2, printed p.15 |
 | Role-play introducing your family | Pakistan — *English 4* (student's book), Unit 1, printed p.6 |
+| Introducing a third person in the first greetings unit — "This is Eddie", with who he is beside it: "He's English" | Sudan — SMILE Starter 1 Pupil's Book, Grade 1, Unit 1 "Hello!", printed pp.1–8 |
+| A new pupil introduced to the class — "This is Hassan. He's from El Fashir. Please sit next to Ahmed" | Sudan — SMILE Book 2 Pupil's Book, Grade 4, Unit 1 "Welcome Back to English", printed pp.1–8 |
 
 The same dialog also carries the age exchange and the toy-fish
 talk — those parts are filed in their own places (age: english/age/
 how-old-are-you), not here.
 
-**Acceptance count: taught in 19 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan).**
+**Acceptance count: taught in 20 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan).**
 Egypt carries introducing the family — "This is my father /
 mother / sister …" with the "Who's this?" exchange, and a year
 deeper the whole family lineup with my / his / her on family
@@ -442,3 +444,5 @@ filed South Sudan read, and none is claimed here.
 **Cambodia added 2026-11-03** — 2 books stock this lesson: **Book:** *ENGLISH Grade 7* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. **Book:** *ENGLISH Grade 8* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Cambodia introduces people through its new-school units: Grade 7's "Meeting new friends" and Grade 8's "A new classmate", where introductions and personal information open the year (its first anchor line is "Nice to meet you!", printed p.14).
 
 **Pakistan added 2026-11-03** — 2 books stock this lesson: **Book:** *English 2* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. **Book:** *English 4* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, Single National Curriculum 2020, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Pakistan introduces people through family frames. Grade 2's Unit 1 dialogue introduces a younger brother (printed p.5) and its Unit 2 dialogue introduces the speaker and his father to a new neighbour (printed p.15). Grade 4 opens with a role-play introducing your family (Unit 1, printed p.6).
+
+**Sudan added 2026-11-04** — 2 books stock this lesson: **Book:** *Sudan Modern Integrated Learning of English — SMILE Series — SMILE Starter 1 — Pupil's Book — Grade 1: Basic Level* (pupil's book) — Sudan, Federal Ministry of Education / The National Centre for Curricula and Educational Research (NCCER), 2nd Edition, 2020, no ISBN printed. **Book:** *Sudan Modern Integrated Learning of English — SMILE Series: Book 2 — Pupil's Book — Grade 4: Basic Level* (pupil's book) — Sudan, Federal Ministry of Education / The National Centre for Curricula and Educational Research (NCCER), 2016, no ISBN printed. All filed in english/books/sudan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Sudan introduces a third person with "This is…" in two opening units. Grade 1, Unit 1, "Hello!" (printed pp.1–8), gives "This is Eddie" beside "He's English" inside its greetings and introductions work. Grade 4, Unit 1, "Welcome Back to English" (printed pp.1–8), introduces the new pupil Hassan to the class: "This is Hassan. He's from El Fashir. Please sit next to Ahmed". The limit is recorded plainly: no "This is my friend…" frame and no nice-to-meet-you answer is printed for these introductions in the filed Sudan read, and none is claimed here; the stock is the "This is…" introduction of a classmate, exactly as printed.

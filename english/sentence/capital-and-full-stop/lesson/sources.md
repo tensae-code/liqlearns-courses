@@ -1,6 +1,6 @@
 # Sources — Capital letter and full stop
 
-countries: Bangladesh, Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Pakistan
+countries: Bangladesh, Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan
 
 Every part traces to its book and page.
 
@@ -143,9 +143,10 @@ CITATION CHECK PASSED 2026-11-03).
 | Capitalisation taught as a sentence rule — the first letter of the first word of a sentence, with sentences rewritten capitalised | Pakistan — *English 1* (student's book), Unit 8, printed p.80 |
 | The full stop taught as its own grammar point | Pakistan — *English 1* (student's book), Unit 9, printed p.88 |
 | The punctuation set taught together — capital letters, full stop, commas, inverted commas and exclamation mark, with rule boxes and a passage to punctuate | Pakistan — *English 3* (student's book), Unit 1, printed p.9 |
+| Punctuation taught as the chapter's writing lesson — commas in lists, full stops and capitals named together as the punctuation work | Sudan — SPINE 5 Pupil's Book (Grade 11), Chapter Two "Rural and Urban Life", Writing section, printed pp.21–36 |
 
-**Acceptance count: taught in 16 countries (Bangladesh,
-Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Pakistan).** Ghana states the rules as curriculum strands;
+**Acceptance count: taught in 17 countries (Bangladesh,
+Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan).** Ghana states the rules as curriculum strands;
 Bangladesh boxes the capital rule, prints a text wearing it
 in red, and drills the stop/question-mark pair in its first
 punctuation exercises; Indonesia names the marks and
@@ -177,3 +178,5 @@ their books are read (see READING-QUEUE.md).
 **Cambodia added 2026-11-03** — 1 book stocks this lesson: **Book:** *ENGLISH Grade 8* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", 5th printing 2020, no ISBN printed. All filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Both halves are stocked from one place: the Grade 8 book's opening Review lists capital letters and full stops among the Grade 7 work it recalls, alongside colours, numbers to 100 and there is/isn't spot-the-difference. Filed plainly: no Cambodia book gives the two marks a rule lesson of their own.
 
 **Pakistan added 2026-11-03** — 3 books stock this lesson: **Book:** *English Nursery* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, based on Single National Curriculum 2020, no ISBN printed. **Book:** *English 1* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, based on Single National Curriculum 2020, no ISBN printed. **Book:** *English 3* (student's book) — Pakistan, Punjab Curriculum & Textbook Board (PCTB), Lahore, based on Single National Curriculum 2020, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). The Nursery book introduces the capital letter and the full stop together on one page (printed p.124). Grade 1 teaches capitalisation in Unit 8 (printed p.80) and the full stop as its own point in Unit 9 (printed p.88). Grade 3 sets the whole early punctuation set — capital letters, full stop, commas, inverted commas, exclamation mark — in Unit 1 (printed p.9).
+
+**Sudan added 2026-11-04** — 1 book stocks this lesson: **Book:** *THE SPINE SERIES / PUPIL'S BOOK 5* (pupil's book) — Sudan, Ministry of Education / National Center for Curriculum Development and Educational Research, First Published 1996, ISBN 978-99942-919-9-6. All filed in english/books/sudan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Both halves are genuinely taught, in one place: Chapter Two "Rural and Urban Life" (printed pp.21–36) gives its Writing section to punctuation — commas in lists, full stops and capitals — alongside "Putting Ideas in Order". Honest limits, filed plainly: this is Sudan's only stock for the lesson. No other Sudan book states a capital-letter sentence rule or a full-stop rule as filed; the Grade 1 book's capital letters are letter formation (writing A/a to Z/z as handwriting), not a capitals rule, and are not counted here.
