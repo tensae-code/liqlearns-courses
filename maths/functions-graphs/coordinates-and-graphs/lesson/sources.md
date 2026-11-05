@@ -1,0 +1,74 @@
+# Sources — Coordinates and graphs
+
+countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana
+
+Every part traces to its book and page.
+
+**Book 1:** *Mathematics, Grade 6, Student Book, Term 1* — Jordan,
+National Center for Curriculum Development (NCCD), Amman, 2nd
+edition, enlarged and revised, NCCD 2022. Filed in
+maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 2:** *Mathematics, Grade 8, Student Book, Term 2* — Jordan,
+NCCD, Amman, 2nd edition, augmented and revised, NCCD 2022, ISBN
+978-9923-41-380-7. Filed in maths/books/jordan.md (FULLY READ +
+CITATION CHECK PASSED).
+
+**Book 3:** *Mathematics, Preparatory 3, NEW edition, Term 1
+(2026-2027)* (student book) — Egypt, Ministry of Education and
+Technical Education. Filed in maths/books/egypt.md (FULLY READ +
+CITATION CHECK PASSED).
+
+**Book 4:** *Geometry 9*, Shynybekov et al. — Kazakhstan, Atamura,
+Almaty, 2019 (Kazakh + Russian editions). Filed in
+maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 5:** *Toán 8, Tập Hai* (Mathematics 8, Volume 2) — Vietnam,
+Ministry of Education and Training. Filed in
+maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 6:** *Mathematics, Grade 9, Book 1, Terms 1 & 2* (workbook)
+— South Africa, Department of Basic Education. Filed in
+maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 7:** *Mathématiques, 3AS (Grade 9)* (student book) —
+Mauritania, Institut Pédagogique National (IPN), French. Filed
+in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED
+2026-11-05).
+
+**Book 8:** *JICA Primary Mathematics Teacher Manual B4*
+(teacher manual) — Ghana, NaCCA / JICA. Filed in
+maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
+2026-11-05). Teacher evidence only: Ghana's set holds no pupil
+textbook.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The coordinate plane in all four quadrants with negative coordinates | Jordan, Grade 6 Term 1, Unit 4 "Transformations and geometric constructions", L1 The coordinate plane p.92 |
+| Writing the equation of a line in slope–intercept form (assumed prior learning); solving a system of two linear equations graphically | Jordan, Grade 8 Term 2, Unit 6 "Systems of linear equations", p.38; L1 Solving a system graphically p.40 (opener lists slope–intercept form among prior learning) |
+| Slope m = tan of the inclination angle; equal slopes for parallels; product −1 for perpendiculars; equation of the straight line y = mx + b from slope and y-intercept, and other forms including through a point with a given slope | Egypt, Preparatory 3 NEW Term 1, Unit 3 Geometry, 3-6 The relation between the slopes of two parallel and perpendicular straight lines p.80; 3-7 Equation of the straight line p.86 |
+| Coordinates of a vector AB = (x₂ − x₁; y₂ − y₁) and distance |AB| = √((x₂−x₁)² + (y₂−y₁)²); midpoint coordinates; centroid coordinates as the average of the three corners; the equation of a line (direction and normal vectors, two-point form, general form ax + by + c = 0, slope form y = kx + r); angle between lines via gradients | Kazakhstan, Geometry 9 (Shynybekov, Atamura 2019), Chapter 1 Vectors in the plane, §1.5 coordinates and distance formula; §1.7 applications (equation of a line, centroid), pp.12–71 |
+| The concept of a function and the graph of a function; first-degree function and its graph; the slope (coefficient) of a straight line | Vietnam, Toán 8 Volume 2, Chapter VII "First-degree equations and first-degree functions", Bài 27 Khái niệm hàm số và đồ thị của hàm số p.40; Bài 28 Hàm số bậc nhất và đồ thị của hàm số bậc nhất p.47; Bài 29 Hệ số góc của đường thẳng (Slope of a straight line) p.51 |
+| Interpreting graphs; x-intercept and y-intercept ("The point at which the line crosses the y-axis is called the y-intercept"); gradient ("Gradient = change in y / change in x"; direction read left to right — up to the right is positive, down is negative — with worked gradients such as 5/2 = 2,5 and 2/4 = 0,5); tables of ordered pairs; sketching and comparing graphs (e.g. y = −3x + 2 tabulated and plotted) | South Africa, Grade 9 Book 1, Term 3, WS88a/b Interpreting graphs; WS89 x-intercept and y-intercept; WS90a/b Interpreting graphs: gradient; WS91 Use tables of ordered pairs; WS96a/b Compare and sketch graphs, pp.60–91 |
+| Linear and affine functions | Mauritania, 3AS (Grade 9) student book, "Fonctions linéaires et affines", p.233 |
+| Coordinates (the coordinate plane as pairs of numbers for a point's position) | Ghana, JICA Primary Mathematics Teacher Manual B4 (coordinates block) — teacher evidence only; Ghana's set holds no pupil textbook |
+
+**Acceptance count: taught in 7 countries (Egypt, Jordan,
+Kazakhstan, Vietnam, South Africa, Mauritania, Ghana — Ghana
+as teacher evidence only).** South Africa carries the
+plainest gradient teaching — gradient as change in y over
+change in x, with intercepts named, built from tables of
+ordered pairs. Egypt carries the slope rules (m = tan θ,
+parallels equal, perpendiculars product −1) and the line
+equation y = mx + b. Kazakhstan carries the proved
+coordinate machinery — distance, midpoint, centroid, and
+the line equation in several forms. Vietnam carries the
+first-degree function, its graph, and the slope of a
+straight line. Jordan carries the coordinate plane itself
+and graphical solving of systems. Mauritania carries linear
+and affine functions. Ghana carries coordinates only in a
+teacher manual — worded as teacher evidence. Honest
+negative: South Africa's Grade 9 book has no slope–intercept
+form as a named method and no function notation — the lesson
+takes the named form from Egypt and Kazakhstan, and says so
+here.
