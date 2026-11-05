@@ -69,109 +69,109 @@ soft-hint prerequisite.
 *End of stage: the learner can count, read and write numbers,
 say which is bigger, round sensibly, and split numbers into
 factors.*
-- counting — numbers 1 to 100 and beyond, counted on real things
-- place-value — ones, tens, hundreds, thousands, and reading big numbers
-- comparing-and-ordering — bigger, smaller, the number line
-- rounding-and-estimating — rounding to the nearest ten, hundred, and sensible estimates
-- factors-multiples-and-primes — factors, multiples, prime numbers, HCF and LCM
+- counting ✅ — numbers 1 to 100 and beyond, counted on real things
+- place-value ✅ — ones, tens, hundreds, thousands, and reading big numbers
+- comparing-and-ordering ✅ — bigger, smaller, the number line
+- rounding-and-estimating ✅ — rounding to the nearest ten, hundred, and sensible estimates
+- factors-multiples-and-primes ✅ — factors, multiples, prime numbers, HCF and LCM
 
 ## Stage 2 — Addition and Subtraction
 *End of stage: the learner can add and subtract, in their head
 and in columns, and check their own answers.*
-- addition — adding, in the head and in columns, with carrying
-- subtraction — taking away, in the head and in columns, with borrowing
+- addition ✅ — adding, in the head and in columns, with carrying
+- subtraction ✅ — taking away, in the head and in columns, with borrowing
 
 ## Stage 3 — Multiplication and Division
 *End of stage: the learner can multiply and divide, knows the
 tables, and knows which operation comes first.*
-- multiplication — times tables, multiplying in columns
-- division — sharing, remainders, dividing in columns
-- the-order-of-operations — brackets, then multiply and divide, then add and subtract
+- multiplication ✅ — times tables, multiplying in columns
+- division ✅ — sharing, remainders, dividing in columns
+- the-order-of-operations ✅ — brackets, then multiply and divide, then add and subtract
 
 ## Stage 4 — Fractions, Decimals and Percentages
 *End of stage: the learner can split wholes into parts, work
 with those parts, and move between fractions, decimals and
 percentages.*
-- fractions — parts of a whole, numerator and denominator, equivalent fractions
-- adding-and-subtracting-fractions — same denominators, then different ones
-- multiplying-and-dividing-fractions — times a fraction, divide by a fraction
-- decimals — tenths, hundredths, adding, subtracting, multiplying and dividing decimals
-- percentages — per hundred, finding a percentage, percentage increase and decrease
-- ratio-and-proportion — ratios, sharing in a ratio, direct proportion
+- fractions ✅ — parts of a whole, numerator and denominator, equivalent fractions
+- adding-and-subtracting-fractions ✅ — same denominators, then different ones
+- multiplying-and-dividing-fractions ✅ — times a fraction, divide by a fraction
+- decimals ✅ — tenths, hundredths, adding, subtracting, multiplying and dividing decimals
+- percentages ✅ — per hundred, finding a percentage, percentage increase and decrease
+- ratio-and-proportion ✅ — ratios, sharing in a ratio, direct proportion
 
 ## Stage 5 — Negative Numbers, Powers and Roots
 *End of stage: the learner can work below zero, with powers,
 and with roots, and can write very big and very small numbers
 short.*
-- negative-numbers — below zero, adding and subtracting negatives, the number line both ways
-- powers-and-indices — powers, the index laws, zero and negative powers
-- roots-and-surds — square roots, cube roots, surds kept exact
-- standard-form — writing big and small numbers as a number times a power of ten
+- negative-numbers ✅ — below zero, adding and subtracting negatives, the number line both ways
+- powers-and-indices ✅ — powers, the index laws, zero and negative powers
+- roots-and-surds ✅ — square roots, cube roots, surds kept exact
+- standard-form ✅ — writing big and small numbers as a number times a power of ten
 
 ## Stage 6 — Algebra
 *End of stage: the learner can use letters for numbers, solve
 equations, and handle the equations that need two unknowns or
 a square.*
-- expressions — letters, terms, simplifying, expanding brackets
-- equations — solving for the unknown, in one variable
-- inequalities — less than, greater than, solving and showing on a line
-- simultaneous-equations — two equations, two unknowns
-- quadratic-equations — factorising, completing the square, the formula
+- expressions ✅ — letters, terms, simplifying, expanding brackets
+- equations ✅ — solving for the unknown, in one variable
+- inequalities ✅ — less than, greater than, solving and showing on a line
+- simultaneous-equations ✅ — two equations, two unknowns
+- quadratic-equations ✅ — factorising, completing the square, the formula
 
 ## Stage 7 — Shapes and Angles
 *End of stage: the learner can name shapes, measure angles,
 and work with circles.*
-- shapes — polygons, triangles, quadrilaterals, and their properties
-- angles — measuring angles, angles on a line, in a triangle, around a point
-- circles — radius, diameter, circumference and area
-- symmetry — lines of symmetry, rotational symmetry (folded into shapes if the stock proves too thin for its own lesson)
+- shapes ✅ — polygons, triangles, quadrilaterals, and their properties
+- angles ✅ — measuring angles, angles on a line, in a triangle, around a point
+- circles ✅ — radius, diameter, circumference and area
+- symmetry ✅ — lines of symmetry, rotational symmetry (folded into shapes if the stock proves too thin for its own lesson)
 
 ## Stage 8 — Measuring, Area and Volume
 *End of stage: the learner can measure, find perimeters and
 areas, find volumes, and use the right-triangle rule.*
-- measuring — length, mass and capacity, units and converting between them
-- perimeter-and-area — perimeters, areas of rectangles, triangles, parallelograms and trapeziums
-- volume-and-surface-area — volumes of cubes, cuboids, prisms and cylinders, and their surface areas
-- pythagoras — the right-triangle rule, finding a missing side
+- measuring ✅ — length, mass and capacity, units and converting between them
+- perimeter-and-area ✅ — perimeters, areas of rectangles, triangles, parallelograms and trapeziums
+- volume-and-surface-area ✅ — volumes of cubes, cuboids, prisms and cylinders, and their surface areas
+- pythagoras ✅ — the right-triangle rule, finding a missing side
 
 ## Stage 9 — Further Geometry
 *End of stage: the learner can prove shapes the same or the
 same shape, move shapes, and use trigonometry.*
-- congruence-and-similarity — same shape and size, same shape different size
-- transformations — reflection, rotation, translation, enlargement
-- right-triangle-trigonometry — sine, cosine and tangent in a right triangle
-- sine-and-cosine-rules — solving triangles that are not right-angled
-- circle-theorems — angles in circles, chords and tangents (folded into circles if the stock proves too thin for its own lesson)
+- congruence-and-similarity ✅ — same shape and size, same shape different size
+- transformations ✅ — reflection, rotation, translation, enlargement
+- right-triangle-trigonometry ✅ — sine, cosine and tangent in a right triangle
+- sine-and-cosine-rules ✅ — solving triangles that are not right-angled
+- circle-theorems ✅ — angles in circles, chords and tangents (folded into circles if the stock proves too thin for its own lesson)
 
 ## Stage 10 — Functions, Graphs and Sequences
 *End of stage: the learner can plot points, read graphs,
 describe how one thing changes with another, and continue a
 pattern by its rule.*
-- coordinates-and-graphs — plotting points, straight-line graphs, gradient and intercept
-- functions — inputs and outputs, function machines, composite and inverse functions
-- sequences-and-series — arithmetic and geometric sequences, sums, series
+- coordinates-and-graphs ✅ — plotting points, straight-line graphs, gradient and intercept
+- functions ✅ — inputs and outputs, function machines, composite and inverse functions
+- sequences-and-series ✅ — arithmetic and geometric sequences, sums, series
 
 ## Stage 11 — Statistics and Probability
 *End of stage: the learner can collect and show data, sum it
 up with averages, and say how likely things are.*
-- sets — sets, union, intersection, complement, Venn diagrams
-- collecting-and-showing-data — tables, bar charts, pie charts, histograms
-- averages-and-spread — mean, median, mode, range, quartiles
-- probability — chance, listing outcomes, probability of one event and of combined events
+- sets ✅ — sets, union, intersection, complement, Venn diagrams
+- collecting-and-showing-data ✅ — tables, bar charts, pie charts, histograms
+- averages-and-spread ✅ — mean, median, mode, range, quartiles
+- probability ✅ — chance, listing outcomes, probability of one event and of combined events
 
 ## Stage 12 — Advanced Mathematics
 *End of stage: the learner can work with logarithms, complex
 numbers, matrices and vectors, and can differentiate and
 integrate.*
-- logarithms-and-exponentials — logs, the log laws, exponential equations
-- complex-numbers — the imaginary unit, operating with complex numbers, loci
-- matrices — adding, multiplying, determinants, solving with matrices
-- vectors — vectors in two and three dimensions, vector operations
-- derivatives — rates of change, differentiating, maxima and minima
-- integrals — areas under curves, integrating, the fundamental link with derivatives
-- differential-equations — first-order equations, separable form
+- logarithms-and-exponentials ✅ — logs, the log laws, exponential equations
+- complex-numbers ✅ — the imaginary unit, operating with complex numbers, loci
+- matrices ✅ — adding, multiplying, determinants, solving with matrices
+- vectors ✅ — vectors in two and three dimensions, vector operations
+- derivatives ✅ — rates of change, differentiating, maxima and minima
+- integrals ✅ — areas under curves, integrating, the fundamental link with derivatives
+- differential-equations ✅ — first-order equations, separable form
 
-**LADDER TOTAL: 52 lessons across 12 stages** (5 + 2 + 3 + 6 +
+**LADDER TOTAL: 52 lessons across 12 stages — ALL BUILT 2026-11-05** (5 + 2 + 3 + 6 +
 4 + 5 + 4 + 4 + 5 + 3 + 4 + 7).
 
 ## After Stage 12
