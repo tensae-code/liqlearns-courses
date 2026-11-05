@@ -1,6 +1,6 @@
 # Sources — Volume and Surface Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia
 
 Every part traces to its book and page.
 
@@ -163,6 +163,9 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 39:** *MATEMÁTICA 8 — Octavo grado — Libro de Texto — Educación Secundaria (NICAMATE), Primera Edición 2019* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
 **Book 40:** *MATEMÁTICA 9 — Noveno grado — Libro de Texto — Educación Secundaria (NICAMATE), Primera Edición 2019* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
 **Book 41:** *Matemática — Décimo Grado — Libro de Texto, Primera Edición (year left blank as printed)* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 42:** *Mathematics, Grade 5 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 43:** *Mathematics, Grade 8 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 44:** *Mathematics, Grade 10 student book* — Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-025-3 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -206,11 +209,14 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Surface area and volume — prisms, pyramids, cylinders, cones and spheres: total surface area and volume of each, taught together | Nicaragua, Grade 8 student book, Unit 8, printed pp. 139–154 |
 | Volume by Pythagoras — height and volume of a cone and of a square pyramid from slant height/lateral edge; space diagonal of a rectangular prism | Nicaragua, Grade 9 student book, Unit 6, Section 2, printed pp. 129–134 |
 | Solids — total area and volume of the five regular polyhedra; prisms and pyramids (A_T = 2A_B + A_L, V = A_B·h, V = (1/3)A_B·h); solids of revolution — cylinder, cone, sphere (lateral/total area and volume) | Nicaragua, Grade 10 student book, Unit 6, printed pp. 299–331 |
+| Volume by counting unit cubes; rectangular-prism volume = length × width × height (5 × 2 × 3 = 30 cm³; a box 10 × 6 × 4 needs 240 unit cubes); liquids — 1 litre = 1,000 cm³ = 1 dm³; applications — floor tiles (3 m × 6 m floor, 30 cm tiles: 200 tiles), earth removal (12 × 8 × 1 m = 96 m³ ÷ 6 m³ per truck = 16 trips) | Ethiopia, Grade 5 student book, ch. 8 — measurement of area and volume, printed pp. 114–138 |
+| Surface area — lateral and total surface area of prisms, pyramids, cylinders (AT = 2πr(r + h); r = 5 cm, h = 7 cm → AT = 120π cm²); slant height of pyramids; area of a sector used for cone surfaces; volume — rectangular prism 3 × 4 × 5 cm = 60 cm³; volume by base area × height; volume of a cone 1/3 πr²h | Ethiopia, Grade 8 student book, ch. 7 — solid figures and measurements, printed pp. 157–182 |
+| Revision of prisms/cylinders (LSA = ph, TSA = 2BA + LSA, V = BA·h); pyramids, cones and spheres — slant height, nets, LSA of a regular pyramid, LSA of a right circular cone πrl, volume ⅓πr²h (r = 5, h = 6 → V = 50π cm³); horizontal cross-sections and similarity of pyramids/cones; Cavalieri's principle and volume of pyramids (V = ⅓hB) proved by dissection into three triangular pyramids; sphere surface area 4πr² and volume ⁴⁄₃πr³; frustum of pyramids and cones — LSA = lπ(r + r′), e.g. l = 26, r = 22, r′ = 12 → LSA = 884π; volume V = ⅓h(A₁ + A₂ + √(A₁A₂)), e.g. 76√63/3 = 76√7 cm³; composed solids — cone + cylinder, cylinder − prism, wood with a cone scooped out; applications — conical tent (h = 6 m, r = 8 m → slant height 10 m), a 100,000-litre cylindrical water tank, concrete beam on pillars, a bucket's capacity | Ethiopia, Grade 10 student book, ch. 6 — solid figures, printed pp. 287–344 |
 
 
-**Acceptance count: taught in 15 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 16 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua).** Sierra Leone carries the cleanest
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia).** Sierra Leone carries the cleanest
 ladder — cubes, prisms and cylinders by cross-section × height,
 then surface areas by the net, in JSS 2. Egypt carries volume by
 counting unit cubes through V = l × w × h in Grade 5 and the
@@ -233,4 +239,4 @@ Ghana's evidence is teacher-manual only (JICA B5 Lessons 92–100
 and B6 Lessons 88–92, prisms): no pupil textbook in Ghana's set
 teaches volume or surface area, and the lesson words Ghana that
 way throughout. Mauritania's honest limit is stated too: its
-Grade 5 book teaches no volume at all. Laos carries volume and surface area from solids, nets and volume formulas in Grade 5, through prisms, cylinders and spheres in Grade 8, to pyramid and cone surface area and volume in Grade 9 and volumes of revolution in Grade 10. Yemen carries volume and surface area from volumes in Grade 3, through surface area and volume in Grade 6, to volumes of pyramids, cones and spheres in Grades 7–8. Indonesia carries volume and surface area from volume by counting unit cubes in Grade 4, to surface area and volume of all seven solids — cube, cuboid, prism, pyramid, cylinder, cone, sphere — with the effect of scale change in Grade 9. Honest negative: Grade 6 teaches no volume and no surface area of cubes/cuboids — its solids chapter is purely spatial. Nicaragua carries volume and surface area from prism and cube volume in Grade 6, through surface area and volume of all five solid families — prisms, pyramids, cylinders, cones, spheres — in Grade 8, to cone and pyramid volumes by Pythagoras in Grade 9 and the regular polyhedra and solids of revolution in Grade 10. Honest negative: Grade 5 classifies prisms and cylinders and draws their nets but computes neither surface area nor volume there.
+Grade 5 book teaches no volume at all. Laos carries volume and surface area from solids, nets and volume formulas in Grade 5, through prisms, cylinders and spheres in Grade 8, to pyramid and cone surface area and volume in Grade 9 and volumes of revolution in Grade 10. Yemen carries volume and surface area from volumes in Grade 3, through surface area and volume in Grade 6, to volumes of pyramids, cones and spheres in Grades 7–8. Indonesia carries volume and surface area from volume by counting unit cubes in Grade 4, to surface area and volume of all seven solids — cube, cuboid, prism, pyramid, cylinder, cone, sphere — with the effect of scale change in Grade 9. Honest negative: Grade 6 teaches no volume and no surface area of cubes/cuboids — its solids chapter is purely spatial. Nicaragua carries volume and surface area from prism and cube volume in Grade 6, through surface area and volume of all five solid families — prisms, pyramids, cylinders, cones, spheres — in Grade 8, to cone and pyramid volumes by Pythagoras in Grade 9 and the regular polyhedra and solids of revolution in Grade 10. Honest negative: Grade 5 classifies prisms and cylinders and draws their nets but computes neither surface area nor volume there. Ethiopia carries volume and surface area from volume by counting unit cubes and the rectangular-prism volume in Grade 5, through surface area and volume of prisms, pyramids and cylinders in Grade 8, to the full solid-figures chapter — prisms, pyramids, cones, spheres and frustums, with Cavalieri's principle proved by dissection — in Grade 10. No volume or surface-area formulae in Grade 6, and none in Grade 7.

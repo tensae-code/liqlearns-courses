@@ -1,6 +1,6 @@
 # Sources — Circle theorems
 
-countries: Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua
+countries: Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia
 
 Every part traces to its book and page.
 
@@ -43,6 +43,9 @@ maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 14:** *MÓDULO Autoformativo de MATEMÁTICA — 8vo Grado — EDUCACIÓN SECUNDARIA A DISTANCIA EN EL CAMPO (module), Primera Edición 2016. Module evidence.* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
 **Book 15:** *MATEMÁTICA 9 — Noveno grado — Libro de Texto — Educación Secundaria (NICAMATE), Primera Edición 2019* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 16:** *Mathematics, Grade 8 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 17:** *Mathematics, Grade 10 student book* — Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-025-3 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 18:** *Mathematics, Grade 10 teacher guide* (teacher guide) — Ethiopia, Ministry of Education, First Published 2022 (month blank as printed), ISBN 978-999944-2-046-9 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: keeps the student book's unit numbers; Unit 5 fully companioned, with two-column proof answers.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -65,10 +68,13 @@ maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 | Circles, ellipses and tangent lines — guide-only evidence for the 2025 TL edition; drops parabola and hyperbola against the held 2022 TL student book, never presented as a matched pair | Indonesia, Grade 12 Tingkat Lanjut Revisi 2025 teacher guide, Bab 1, printed pp. 21–94 (guide evidence) |
 | Notable angles in the circumference — central, inscribed, etc. | Nicaragua, Grade 8 module, Unit IV, Section 2, printed pp. 188–232 (module evidence) |
 | Inscribed angles — the inscribed angle theorem (an inscribed angle is half the central angle subtending the same arc); the semi-inscribed (tangent–chord) angle; the angle formed by two chords intersecting inside the circle; the exterior angle | Nicaragua, Grade 9 student book, Unit 7, printed pp. 135–148 |
+| Circles and parts (centre, radius, diameter, chord, arc, sector, segment, semi-circle); tangent and secant lines; central and inscribed angles — an inscribed angle is half the central angle subtending the same arc; an inscribed angle subtended by a diameter is 90°; angles formed by two intersecting chords; Pythagoras used inside circle problems | Ethiopia, Grade 8 student book, ch. 6 — lines and angles in a circle, printed pp. 135–156 (spelling slips in print — "miner sector", "centeral angle" p. 146 — spelling only) |
+| Symmetry: line through centre to midpoint of a chord is perpendicular to it (Theorem 5.1, proved), perpendicular from centre bisects the chord; equal chords subtend equal angles and vice versa; arcs (minor/major), central vs inscribed angles (inscribed = half the central angle on the same arc), angles in the same segment, angle in a semicircle is a right angle, cyclic quadrilaterals (opposite angles sum to 180°); arc length s = 2πr·(θ/360°) (θ = 150°, r = 6 cm → s = 5π cm), chord length, perimeter/area of segments and sectors (r = 6 cm, θ = 210° → A = 21π cm²); angles formed by chords/secants/tangents intersecting inside, on and outside the circle (angle = half the sum/difference of intercepted arcs, e.g. ½(107° − 43°) = 32°); tangent properties | Ethiopia, Grade 10 student book, ch. 5 — circles, printed pp. 251–286 (unit opener prints "Unit 5: Circle 5 ." — a stray "5 .") |
+| Two-column proofs (inscribed angle in a semicircle, cyclic quadrilateral opposite angles) (teacher evidence) | Ethiopia, Grade 10 teacher guide, Unit 5 — circles, printed pp. 162–187 (teacher evidence) |
 
 
-**Acceptance count: taught in 10 countries (Kazakhstan, Jordan,
-Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua).** Kazakhstan carries the
+**Acceptance count: taught in 11 countries (Kazakhstan, Jordan,
+Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia).** Kazakhstan carries the
 fullest treatment — the inscribed-angle theorem with all
 cases, the tangent–chord angle, the inside/outside angle
 theorems, the three segment products, cyclic and circumscribed
@@ -87,4 +93,4 @@ work is sector/arc and solid mensuration only), and Sierra
 Leone's JSS never teaches circle theorems — neither country
 is claimed for this lesson. The lesson stands on its own: six
 countries teach inscribed angles, chords and tangents in
-depth, so no fold was needed. Laos touches circle theorems only in part — inscribed and central angles in Grade 8 — and teaches no further circle theorems. Yemen carries circle theorems whole in Grade 9 — chords, central and inscribed angles, the cyclic quadrilateral, tangents and the relative positions of two circles. Indonesia carries circle theorems whole in Grade 11 — arcs, tangents, chords and cyclic quadrilaterals in both the 2021 Merdeka and 2024 Revisi regular books, with the van Schooten and Pitot theorems in the 2021 book — plus analytic tangent-line equations in the Grade 12 Tingkat Lanjut student book and the 2025 TL guide's circles, ellipses and tangent lines as guide-only evidence for its own edition. Honest negative: Grade 9 teaches circle circumference, area, arc and sector but not circle theorems, tangents or chords — those come in Grade 11. Nicaragua touches this lesson only in part — the notable angles of the circumference in the Grade 8 module and the inscribed-angle theorem with the semi-inscribed, interior and exterior angles in Grade 9. No cyclic quadrilaterals, no tangent-length or power-of-a-point theorems, and no arc-length or sector-area formulas are taught as circle theorems.
+depth, so no fold was needed. Laos touches circle theorems only in part — inscribed and central angles in Grade 8 — and teaches no further circle theorems. Yemen carries circle theorems whole in Grade 9 — chords, central and inscribed angles, the cyclic quadrilateral, tangents and the relative positions of two circles. Indonesia carries circle theorems whole in Grade 11 — arcs, tangents, chords and cyclic quadrilaterals in both the 2021 Merdeka and 2024 Revisi regular books, with the van Schooten and Pitot theorems in the 2021 book — plus analytic tangent-line equations in the Grade 12 Tingkat Lanjut student book and the 2025 TL guide's circles, ellipses and tangent lines as guide-only evidence for its own edition. Honest negative: Grade 9 teaches circle circumference, area, arc and sector but not circle theorems, tangents or chords — those come in Grade 11. Nicaragua touches this lesson only in part — the notable angles of the circumference in the Grade 8 module and the inscribed-angle theorem with the semi-inscribed, interior and exterior angles in Grade 9. No cyclic quadrilaterals, no tangent-length or power-of-a-point theorems, and no arc-length or sector-area formulas are taught as circle theorems. Ethiopia carries circle theorems in Grades 8 and 10 only — central and inscribed angles, the angle in a semicircle and intersecting chords in Grade 8, and Theorem 5.1 proved, chord symmetry, arcs, cyclic quadrilaterals, arc length and segment and sector area in Grade 10, with the Grade 10 guide's two-column proofs as teacher evidence.

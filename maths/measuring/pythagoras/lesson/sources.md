@@ -1,6 +1,6 @@
 # Sources — Pythagoras
 
-countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana, Laos, Indonesia, Nicaragua
+countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana, Laos, Indonesia, Nicaragua, Ethiopia
 
 Every part traces to its book and page.
 
@@ -87,6 +87,8 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 **Book 19:** *MATEMÁTICA 9 — Noveno grado — Libro de Texto — Educación Secundaria (NICAMATE), Primera Edición 2019* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
 **Book 20:** *Matemática — Décimo Grado — Libro de Texto, Primera Edición (year left blank as printed)* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
 **Book 21:** *MATEMÁTICA 11 — Undécimo grado — Libro de Texto — Educación Secundaria (NICAMATE), Primera Edición 2019* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 22:** *Mathematics, Grade 8 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 23:** *Mathematics, Grade 9 student book* — Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-024-6 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -111,11 +113,14 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 | Pythagoras' theorem — finding the hypotenuse by an area dissection, the theorem proved by the area argument (a² + b² = c²), calculating legs and hypotenuse, applications (ramp, ladder, 15 km west then 8 km north → 17 km); cone and square-pyramid height and volume, space diagonal of a rectangular prism, area of an equilateral triangle and of a regular hexagon | Nicaragua, Grade 9 student book, Unit 6, printed pp. 123–134 |
 | Pythagoras used to find the remaining trigonometric functions from one given function | Nicaragua, Grade 10 student book, Unit 2, printed pp. 63–70 |
 | Distance between two points in the Cartesian plane, Pythagoras-based | Nicaragua, Grade 11 student book, Unit 4, Section 1, printed p. 72 |
+| Euclid's Theorem — AC² = AD × AB = 9 cm × 15 cm = 135 cm², so AC = √135 = 3√15 cm; Pythagoras Theorem and its converse, proved; ladder of length 10 m — top 8 m up the wall, foot 6 m from the wall; triples tested for right triangles | Ethiopia, Grade 8 student book, ch. 5 — theorems on triangles, §5.3, printed pp. 113–134 (the contents lists these sections as 5.4/5.5/5.6 — the body numbers them 5.1/5.2/5.3 at the same pages) |
+| Pythagoras used inside circle problems — (AB)² + (5 cm)² = (13 cm)² → AB = 12 cm | Ethiopia, Grade 8 student book, ch. 6 — lines and angles in a circle, printed pp. 135–156 |
+| Right-angled triangles and Pythagoras (incl. the converse); locating √2, √3, √5… on a number line by Pythagoras construction | Ethiopia, Grade 9 student book, ch. 5 — introduction to trigonometry, printed pp. 185–206 |
 
 
-**Acceptance count: taught in 12 countries (Egypt, Greece,
+**Acceptance count: taught in 13 countries (Egypt, Greece,
 Armenia, Kazakhstan, Vietnam, Sierra Leone, Libya, Mauritania,
-South Africa, Laos, Indonesia, Nicaragua).** Egypt carries the fullest single treatment —
+South Africa, Laos, Indonesia, Nicaragua, Ethiopia).** Egypt carries the fullest single treatment —
 the theorem, its converse, classifying triangles by comparing
 squares, the 13-foot ladder and a Pythagoras practical in Grade
 8. Sierra Leone carries the cleanest ladder in JSS 3 — the
@@ -140,4 +145,4 @@ a tool in Grade 9 coordinate geometry and names the Pythagorean
 identity in Grade 9 trigonometry, but teaches it as a topic in
 no held book — the Grade 7 and Grade 8 books state its absence
 explicitly. The brief's claim that Jordan teaches Pythagoras in
-depth is corrected here against the filing: Jordan does not. Laos carries Pythagoras as an area proof in Grade 8 and uses it again, applied twice, to derive distance in three dimensions in Grade 10. Indonesia carries Pythagoras as guide-only evidence — the Grade 8 Merdeka teacher guide teaches the theorem, triples, special right triangles and applications (Bab 2, pp. 87–130), but no Merdeka Grade 8 student book is in hand, so it is worded as guide evidence throughout, like Ghana's teacher-manual evidence. Nicaragua carries Pythagoras whole in Grade 9 — the theorem proved by area dissection, finding hypotenuse and legs, and the cone, pyramid, space-diagonal and triangle/hexagon-area applications — and uses it again in Grade 10 trigonometry and for distance in the plane in Grade 11. Honest negative: the converse of Pythagoras' theorem is not taught as a named topic, and no Pythagorean triples are taught as a topic.
+depth is corrected here against the filing: Jordan does not. Laos carries Pythagoras as an area proof in Grade 8 and uses it again, applied twice, to derive distance in three dimensions in Grade 10. Indonesia carries Pythagoras as guide-only evidence — the Grade 8 Merdeka teacher guide teaches the theorem, triples, special right triangles and applications (Bab 2, pp. 87–130), but no Merdeka Grade 8 student book is in hand, so it is worded as guide evidence throughout, like Ghana's teacher-manual evidence. Nicaragua carries Pythagoras whole in Grade 9 — the theorem proved by area dissection, finding hypotenuse and legs, and the cone, pyramid, space-diagonal and triangle/hexagon-area applications — and uses it again in Grade 10 trigonometry and for distance in the plane in Grade 11. Honest negative: the converse of Pythagoras' theorem is not taught as a named topic, and no Pythagorean triples are taught as a topic. Ethiopia carries Pythagoras in Grades 8 and 9 — Euclid's theorem with Pythagoras and its converse proved, the 10 m ladder, and Pythagoras used inside circle problems in Grade 8, and right-angled triangles with Pythagoras and its converse and locating √2, √3, √5… by Pythagoras construction in Grade 9. Grade 7's Green Legacy problem uses 5-12-13 as a known triple, not as a teaching of Pythagoras, and Grades 1–6 teach no Pythagoras.

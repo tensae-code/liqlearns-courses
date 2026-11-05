@@ -1,6 +1,6 @@
 # Sources — Angles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia
 
 Every part traces to its book and page.
 
@@ -122,6 +122,12 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 40:** *Matemática — Décimo Grado — Libro de Texto, Primera Edición (year left blank as printed)* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
 **Book 41:** *MÓDULO Autoformativo de MATEMÁTICA — 10mo Grado (module), Primera Edición 2017. Module evidence.* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
 **Book 42:** *Guía de Matemática — Guía para Maestros, 1er Grado — Versión Validada (teacher guide; no year printed). Guide evidence only: companions the old Grade 1 student book, NOT in this set.* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 43:** *Mathematics, Grade 4 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 44:** *Mathematics, Grade 5 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 45:** *Mathematics, Grade 6 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 46:** *Mathematics, Grade 7 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 47:** *Mathematics, Grade 8 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 48:** *Mathematics, Grade 9 student book* — Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-024-6 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -169,11 +175,17 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Angle measure — degrees, minutes, seconds; radians; coterminal angles | Nicaragua, Grade 10 student book, Unit 2, printed pp. 55–62 |
 | Angles — classification, complementary and supplementary angles, standard position, quadrantal and coterminal angles, reference angle; three systems of measure including the centesimal (gradian) system | Nicaragua, Grade 10 module, Unit IV, printed pp. 130–137 (module evidence) |
 | Lines — open/closed, straight/curved/mixed/broken; lines by position; straight line, segment, intersecting lines; perpendicular and parallel lines; the ray | Nicaragua, Grade 1 old guide, Unidad complementaria 2: Líneas, GM printed pp. 166–171 (guide evidence — companions the old Grade 1 student book, not in this set) |
+| Angles and types of angles, named by type only — no angles measured in degrees anywhere in Grades 1–4 | Ethiopia, Grade 4 student book, ch. 5 — geometric shapes, printed pp. 107–118 |
+| Angles — vertex, sides, interior/exterior points; types and measures — acute, right, obtuse, straight 180°, reflex > 180° and < 360°; measuring with a protractor; drawing angles of given measures — 80°, 100°, 130°, 270°; constructing segments, perpendiculars and angle bisectors with ruler and compass | Ethiopia, Grade 5 student book, ch. 6 — lines, angles and their measurement, printed pp. 82–102 |
+| Angles in depth — adjacent and vertical angles (vertical angles are equal); complementary — sum 90°, 60° → complement 30° — and supplementary — 65° and 115°; angles when two parallel lines are cut by a transversal — corresponding, alternate and co-interior angles | Ethiopia, Grade 6 student book, ch. 5 — plane and solid figures, printed pp. 119–157 |
+| Angles revised (§5.1) | Ethiopia, Grade 7 student book, ch. 5 — perimeter and area of plane figures, §5.1, printed pp. 135–190 |
+| Complementary and supplementary angles; exterior angles — an exterior angle equals the sum of the two remote interior angles; Ex. 5.8 — exterior angle of an equilateral triangle = 120° | Ethiopia, Grade 8 student book, ch. 5 — theorems on triangles, printed pp. 113–134 (the contents lists these sections as 5.4/5.5/5.6 — the body numbers them 5.1/5.2/5.3 at the same pages) |
+| Interior/exterior angles of polygons | Ethiopia, Grade 9 student book, ch. 6 — regular polygons, printed pp. 207–238 |
 
 
-**Acceptance count: taught in 15 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 16 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua).** Egypt carries the fullest single
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia).** Egypt carries the fullest single
 treatment — the angle kinds, the protractor, complementary and
 supplementary pairs, the transversal's eight angles, and the
 triangle and quadrilateral sums in one Grade 7 unit. Jordan
@@ -192,4 +204,4 @@ Mauritania carries angle recognition in Grade 3 and angles in
 Grade 6. South Africa carries interior angles in Grade 9.
 Ghana's evidence is teacher-manual only (JICA B5 Lessons
 101–102): no pupil textbook in Ghana's set teaches angles, and
-the lesson words Ghana that way throughout. Laos carries angles from identifying them in Grade 3, through protractor measurement in Grade 4, to kinds, vertical angles and triangle and quadrilateral angle sums in Grades 6–7 and inscribed and central angles in Grade 8. Yemen carries angles from the angle defined in Grade 3, through angle types and measuring angles, to alternate, corresponding and co-interior angles and the triangle angle sum. Indonesia carries angles from what an angle is and the five angle types in Grade 3, through the full angle kinds with protractor work in Grade 5, to vertical, corresponding, alternate and same-side pairs with complementary and supplementary angles in Grade 7 — with the Grade 7 student book's Table 5.2 error corrected: its same-side exterior pairs are wrong (p. 167) and the guide's correct pairs (α and η, β and θ, p. 191) are taught here. Nicaragua carries angles from the right angle in Grade 2 and the lines-and-angles unit in Grade 3, through degree measurement with a protractor and the triangle and quadrilateral angle sums in Grade 4, to angle relations and the transversal in Grades 7–8 (student book and module), inscribed angles in Grade 9, and degree/minute/second and radian measure in Grade 10 (student book and module, the module adding the centesimal system).
+the lesson words Ghana that way throughout. Laos carries angles from identifying them in Grade 3, through protractor measurement in Grade 4, to kinds, vertical angles and triangle and quadrilateral angle sums in Grades 6–7 and inscribed and central angles in Grade 8. Yemen carries angles from the angle defined in Grade 3, through angle types and measuring angles, to alternate, corresponding and co-interior angles and the triangle angle sum. Indonesia carries angles from what an angle is and the five angle types in Grade 3, through the full angle kinds with protractor work in Grade 5, to vertical, corresponding, alternate and same-side pairs with complementary and supplementary angles in Grade 7 — with the Grade 7 student book's Table 5.2 error corrected: its same-side exterior pairs are wrong (p. 167) and the guide's correct pairs (α and η, β and θ, p. 191) are taught here. Nicaragua carries angles from the right angle in Grade 2 and the lines-and-angles unit in Grade 3, through degree measurement with a protractor and the triangle and quadrilateral angle sums in Grade 4, to angle relations and the transversal in Grades 7–8 (student book and module), inscribed angles in Grade 9, and degree/minute/second and radian measure in Grade 10 (student book and module, the module adding the centesimal system). Ethiopia carries angles from naming types only in Grade 4 (no degrees there), through measuring with a protractor and drawing angles of given measures in Grade 5, to adjacent and vertical angles, complementary and supplementary pairs and the transversal in Grade 6, angles revised in Grade 7, complementary and supplementary angles and exterior angles in Grade 8, and the interior and exterior angles of polygons in Grade 9.

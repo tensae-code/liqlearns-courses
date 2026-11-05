@@ -1,6 +1,6 @@
 # Sources — Ratio and Proportion
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia
 
 Every part traces to its book and page.
 
@@ -96,6 +96,9 @@ CITATION CHECK PASSED 2026-11-04).
 **Book 25:** *MATEMÁTICA 7 — Séptimo grado — Libro de Texto — Educación Secundaria* (NICAMATE) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2019, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
 **Book 26:** *MÓDULO Autoformativo de MATEMÁTICA — 7mo Grado — EDUCACIÓN SECUNDARIA A DISTANCIA EN EL CAMPO* (Módulo Autoformativo) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2016, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED). Module evidence: a self-study text with no answer key.
 **Book 27:** *MATEMÁTICA 9 — Noveno grado — Libro de Texto — Educación Secundaria* (NICAMATE) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2019, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 28:** *Mathematics, Grade 6 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 29:** *Mathematics, Grade 7 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 30:** *Mathematics, Grade 12 student book* — Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-027-7 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -129,10 +132,13 @@ CITATION CHECK PASSED 2026-11-04).
 | Direct proportionality as a function y = ax and inverse proportionality as y = a/x, with graphs, numerical intervals and restricted domain (b ≤ x ≤ c); applications of direct and inverse proportionality | Nicaragua, Grade 7 student book (NICAMATE), Unit 5, printed pp. 87–124 |
 | Ratio, proportion and its properties, transposing the terms of a proportion, directly and inversely proportional magnitudes, proportional sharing, simple direct and inverse rule of three, compound rule of three (module evidence) | Nicaragua, Grade 7 module, Unit III, printed pp. 111–168 |
 | Ratio between segments and proportional segments; division of a segment in a given ratio on the number line, internal and external (p = (na + mb)/(m + n)) | Nicaragua, Grade 9 student book (NICAMATE), Unit 4, printed pp. 85–94 |
+| Direct proportionality (teachers : pupils = 1 : 30, 2 : 60, 3 : 90…; money = 4 × age) and inverse proportionality (more workers → fewer days to finish the coffee harvest); a girls : boys table (ratio 3:4) — the chapter's coordinates are plotting only and are not stocked here | Ethiopia, Grade 6 student book, ch. 4, printed pp. 89–118 |
+| Ratio (including three-term ratios), proportion, direct and inverse proportionality; paint mixture 3:2:1 of 36 gallons → 18/12/6 gallons; a:b:c = 3:4:5, b = 20 → a = 15, c = 25, sum 60 — the Grade 7 student book is image-only (contents-complete filing from rendered pages + 14 sampled interiors, not a page-by-page text read) | Ethiopia, Grade 7 student book, ch. 3, printed pp. 53–94 |
+| Ratio, rate, proportion and percentage in business (§5.1) — business context only | Ethiopia, Grade 12 student book, ch. 5, printed pp. 303–413 |
 
-**Acceptance count: taught in 15 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 16 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua).** Armenia carries the fullest ratio
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia).** Armenia carries the fullest ratio
 course — ratio, equality of ratios and recipes, cross
 multiplication, direct proportion, map and scale, working
 together; Jordan teaches ratio and equivalent ratios in Grade 6;
@@ -158,4 +164,4 @@ example in Grade 4, ratio tables in Grades 5–6, ratio and rate
 in Grade 7, and ratio and rate again in Grade 9; Kazakhstan
 teaches proportional division in Grade 4 and joint work in
 Grade 5, but no ratio or proportion as such — stated honestly
-above. Laos carries ratio and proportion from proportional tables in Grade 4, through direct and inverse proportion in Grade 5, to ratio, coefficient k, the fourth proportional by cross products and inverse proportion in Grades 6–7. Yemen carries ratio and proportion from ratio in Grade 6 through proportion, enlargement, scale drawing and proportional division (including inheritance), to Thales' theorem and similarity in Grade 8. Indonesia carries ratio in full — the concept, simplest form, equivalent ratios, unit ratio and part-to-part/part-to-whole ratios in Grade 6, with scale factor, map scale and unit rate in Grade 7 Merdeka — but teaches no proportion equations or cross-multiplication anywhere in the set. Nicaragua carries ratio and proportion from multiplicative comparison in Grade 5, through ratio, equivalent ratios and proportion with the rule of three in Grade 6, to direct and inverse proportion as functions y = ax and y = a/x in the Grade 7 student book, the full rule-of-three and proportional-sharing treatment in the Grade 7 module (module evidence), and ratio between segments on the number line in Grade 9.
+above. Laos carries ratio and proportion from proportional tables in Grade 4, through direct and inverse proportion in Grade 5, to ratio, coefficient k, the fourth proportional by cross products and inverse proportion in Grades 6–7. Yemen carries ratio and proportion from ratio in Grade 6 through proportion, enlargement, scale drawing and proportional division (including inheritance), to Thales' theorem and similarity in Grade 8. Indonesia carries ratio in full — the concept, simplest form, equivalent ratios, unit ratio and part-to-part/part-to-whole ratios in Grade 6, with scale factor, map scale and unit rate in Grade 7 Merdeka — but teaches no proportion equations or cross-multiplication anywhere in the set. Nicaragua carries ratio and proportion from multiplicative comparison in Grade 5, through ratio, equivalent ratios and proportion with the rule of three in Grade 6, to direct and inverse proportion as functions y = ax and y = a/x in the Grade 7 student book, the full rule-of-three and proportional-sharing treatment in the Grade 7 module (module evidence), and ratio between segments on the number line in Grade 9. Ethiopia carries ratio and proportion from direct and inverse proportionality in Grade 6, through ratio (including three-term ratios), proportion and direct and inverse proportionality in Grade 7, to ratio, rate, proportion and percentage in business in Grade 12 (business context only).

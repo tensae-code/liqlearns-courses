@@ -1,6 +1,6 @@
 # Sources — Fractions
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia
 
 Every part traces to its book and page.
 
@@ -132,6 +132,17 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 36:** *Matemática — Libro de Texto — 5to grado* (NICAMATE 2) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2026, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
 **Book 37:** *MATEMÁTICA 7 — Séptimo grado — Libro de Texto — Educación Secundaria* (NICAMATE) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2019, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
 **Book 38:** *MÓDULO Autoformativo de MATEMÁTICA — 7mo Grado — EDUCACIÓN SECUNDARIA A DISTANCIA EN EL CAMPO* (Módulo Autoformativo) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2016, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED). Module evidence: a self-study text with no answer key.
+**Book 39:** *Mathematics, Grade 2 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 40:** *Mathematics, Grade 3 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 41:** *Mathematics, Grade 4 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 42:** *Mathematics, Grade 5 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 43:** *Mathematics, Grade 6 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 44:** *Mathematics, Grade 8 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 45:** *Mathematics, Grade 9 student book* — Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-024-6 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 46:** *Mathematics, Grade 5 teacher guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: detailed notes for fractions (TG ch. 2 = student ch. 1).
+**Book 47:** *Mathematics, Grade 6 teacher guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: detailed notes for fractions, decimals and percent (TG ch. 2 = student ch. 2).
+**Book 48:** *Mathematics, Grade 8 teacher guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, no year extractable (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: detailed notes for Units 1–3, including rational numbers (Unit 1).
+**Book 49:** *Mathematics, Grade 9 teacher guide* (teacher guide) — Ethiopia, Ministry of Education, First Published 2022 (month blank as printed), ISBN 978-999944-2-046-9 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: companions the student book fully; guide Unit 1 = student Unit 2 (the number-system unit), Sets as primer Unit 1' — cite by student unit numbers.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -166,10 +177,21 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 | Equivalent fractions, comparing fractions with different denominators, simplifying, division as a fraction, fractions as decimals and decimals as fractions | Nicaragua, Grade 5 student book (NICAMATE 2), Unit 9, printed pp. 94–105 |
 | Rational numbers as a set (ℚ): concept of fraction, the rational number, order relations, graphing rationals on the number line (module evidence) | Nicaragua, Grade 7 module, Unit II, Tema 1 (Unit II, printed pp. 59–110) |
 | Fractions revised with LCM — addition, subtraction, multiplication and division of fractions | Nicaragua, Grade 7 student book (NICAMATE), Unit 1, Section 2, printed pp. 1–14 |
+| Half and quarter in words only — folding paper, halves and quarters of shapes, half of a number — the symbols 1/2 and 1/4 never appear | Ethiopia, Grade 2 student book, ch. 3, printed pp. 43–50 |
+| Halves, thirds, quarters with concrete examples (orange cut in half, p. 101; cut into 4 equal parts, p. 102); unit fractions 1/2–1/10; comparing/ordering unit fractions; half and quarter of numbers | Ethiopia, Grade 3 student book, ch. 6, printed pp. 100–116 |
+| Fractions as parts of one whole; fractions on the number line; comparing/ordering and adding/subtracting fractions with the same numerator; equivalent fractions | Ethiopia, Grade 4 student book, ch. 3, printed pp. 51–82 |
+| Proper, improper and mixed fractions; converting improper ↔ mixed; comparing by models and common denominator | Ethiopia, Grade 5 student book, ch. 1, printed pp. 1–24 |
+| Lowest terms; fractions → decimals by division and by scaling the denominator to 10/100/1,000; terminating vs non-terminating decimals; decimals → fractions by place value (0.625 = 625/1,000 = 5/8); percent → fraction (44% = 11/25); comparing decimals, fractions, and decimals with fractions | Ethiopia, Grade 6 student book, ch. 2, printed pp. 29–66 |
+| Rational numbers as a/b (b ≠ 0); decimal and fraction forms | Ethiopia, Grade 8 student book, ch. 1, printed pp. 1–36 |
+| Rational numbers: fractions, terminating vs repeating decimals and converting repeating decimals to fractions | Ethiopia, Grade 9 student book, ch. 2, printed pp. 27–104 |
+| Fractions (teacher evidence) | Ethiopia, Grade 5 teacher guide (teacher evidence), TG ch. 2 = student ch. 1, PDF pp. 17–28 |
+| Fractions, decimals and percent (teacher evidence) | Ethiopia, Grade 6 teacher guide (teacher evidence), ch. 2, PDF pp. 34–51 |
+| Rational numbers (teacher evidence) | Ethiopia, Grade 8 teacher guide (teacher evidence), Unit 1, PDF p. 3 |
+| The number system, including rational numbers (teacher evidence) | Ethiopia, Grade 9 teacher guide (teacher evidence), guide Unit 1 = student Unit 2 |
 
-**Acceptance count: taught in 15 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 16 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua).** Kazakhstan carries the first share on
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia).** Kazakhstan carries the first share on
 clock faces and the full Grade 5 fraction course with the
 comparing and part-of-a-number rules; Jordan carries the youngest
 path (halves and quarters only in Grade 1, then the full first
@@ -190,4 +212,4 @@ Ghana carries fractions only as teacher-manual evidence (no pupil
 textbook in the set), folding strips and bottle tops; South Africa
 carries halves and quarters in Grade 2, fractions to sixths in
 Grade 3, and the first definitions of proper, mixed and improper
-in Grade 6. Laos carries fractions from their first appearance in Grade 3, through whole–decimal–fraction links and equivalence in Grades 4–5, to rational numbers, repeating decimals and irrationals in Grade 7. Yemen carries fractions from half and quarter in Grade 1, through reading, writing, equivalence and ordering, to improper fractions and mixed numbers and all four operations on fractions. Indonesia carries fractions from halves and quarters in words and pictures in Grade 2, through unit fractions, equivalence and the hundredths-decimal link in Grade 4, comparing, ordering and mixed numbers in Grade 5, fraction-to-decimal conversion in Grade 6, to rational numbers, repeating decimals and irrationals in Grade 7 (Merdeka and K13 editions). Nicaragua carries first fractions in Grade 4 — meaning, fractions of a litre, mixed numbers, conversion and comparing — then equivalent fractions, simplifying and the fraction–decimal link in Grade 5, rationals as a set with order and the number line in the Grade 7 module (module evidence), and a full revision of fraction operations with LCM in the Grade 7 student book.
+in Grade 6. Laos carries fractions from their first appearance in Grade 3, through whole–decimal–fraction links and equivalence in Grades 4–5, to rational numbers, repeating decimals and irrationals in Grade 7. Yemen carries fractions from half and quarter in Grade 1, through reading, writing, equivalence and ordering, to improper fractions and mixed numbers and all four operations on fractions. Indonesia carries fractions from halves and quarters in words and pictures in Grade 2, through unit fractions, equivalence and the hundredths-decimal link in Grade 4, comparing, ordering and mixed numbers in Grade 5, fraction-to-decimal conversion in Grade 6, to rational numbers, repeating decimals and irrationals in Grade 7 (Merdeka and K13 editions). Nicaragua carries first fractions in Grade 4 — meaning, fractions of a litre, mixed numbers, conversion and comparing — then equivalent fractions, simplifying and the fraction–decimal link in Grade 5, rationals as a set with order and the number line in the Grade 7 module (module evidence), and a full revision of fraction operations with LCM in the Grade 7 student book. Ethiopia carries fractions from half and quarter in words only in Grade 2 (no fraction symbols), through unit fractions and same-numerator work in Grades 3–4, to proper, improper and mixed fractions in Grade 5, the fraction–decimal–percent link in Grade 6, and rational numbers as a/b in Grades 8–9.

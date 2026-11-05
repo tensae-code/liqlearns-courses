@@ -1,6 +1,6 @@
 # Sources — Symmetry
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia
 
 Every part traces to its book and page.
 
@@ -114,6 +114,10 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 26:** *Mathematics, Grade 3 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 27:** *Matemática — Libro de Texto — 6to grado (NICAMATE 2), Primera Edición 2026* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 28:** *Mathematics, Grade 3 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 29:** *Mathematics, Grade 5 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 30:** *Mathematics, Grade 9 student book* — Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-024-6 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 31:** *Mathematics, Grade 10 student book* — Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-025-3 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -144,11 +148,15 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Translation, reflection and rotation (including the coordinate rotation formula) | Laos, Grade 9 student book, L35–L37, printed pp. 170–196 |
 | Symmetry by folding tracing paper; the fold line is the axis of symmetry; a shape may have more than one axis | Yemen, Grade 3 Part 1, Unit 4, lesson 4-4, printed p. 88 |
 | Line symmetry (simetría lineal) — concept, characteristics of symmetric figures (corresponding points, axis, equal distances), constructing symmetric figures | Nicaragua, Grade 6 student book, Unit 2, printed pp. 12–21 |
+| Symmetrical and non-symmetrical shapes; moving shapes by sliding, reflecting and turning | Ethiopia, Grade 3 student book, ch. 9 — geometry shapes, printed pp. 138–150 |
+| Axis-symmetry — figures' symmetry properties and drawing figures using symmetry (inside the lines/angles chapter, NOT as its own topic) | Ethiopia, Grade 5 student book, ch. 6 — lines, angles and their measurement, printed pp. 82–102 |
+| Lines of symmetry of polygons | Ethiopia, Grade 9 student book, ch. 6 — regular polygons, printed pp. 207–238 |
+| Symmetry — line through centre to midpoint of a chord is perpendicular to it | Ethiopia, Grade 10 student book, ch. 5 — circles, printed pp. 251–286 |
 
 
-**Acceptance count: taught in 13 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 14 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya,
-Vietnam, Ghana, Laos, Yemen, Nicaragua).** Greece carries symmetry from the very start
+Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia).** Greece carries symmetry from the very start
 — folding and mirror completion in Grade 1, the fold-along-the-
 red-line test in Grade 3, axial symmetry in Grade 6, and the
 full axis-and-point symmetry chapter in Grade 7. Kazakhstan
@@ -168,4 +176,4 @@ evidence is teacher-manual only (JICA B4 Lessons 89–107,
 fold-and-cut paper): no pupil textbook in Ghana's set teaches
 symmetry, and the lesson words Ghana that way throughout. The
 ladder's fold rule was not needed: the stock proved rich enough
-for symmetry to stand as its own lesson. Laos carries symmetry from grid symmetry in Grade 3, through translation, reflection, rotation and axes of symmetry in Grade 5, to line and point symmetry with bisectors in Grades 6–7 and full isometries in Grade 9. Yemen touches this lesson only in part — line symmetry by folding in Grade 3 only: the fold line is the axis of symmetry and a shape may have more than one axis; no rotational or central symmetry. Nicaragua touches this lesson only in part — line symmetry in Grade 6 only: the concept, the characteristics of symmetric figures and constructing symmetric figures. No rotational symmetry and no central symmetry is taught anywhere in Nicaragua's set.
+for symmetry to stand as its own lesson. Laos carries symmetry from grid symmetry in Grade 3, through translation, reflection, rotation and axes of symmetry in Grade 5, to line and point symmetry with bisectors in Grades 6–7 and full isometries in Grade 9. Yemen touches this lesson only in part — line symmetry by folding in Grade 3 only: the fold line is the axis of symmetry and a shape may have more than one axis; no rotational or central symmetry. Nicaragua touches this lesson only in part — line symmetry in Grade 6 only: the concept, the characteristics of symmetric figures and constructing symmetric figures. No rotational symmetry and no central symmetry is taught anywhere in Nicaragua's set. Ethiopia touches this lesson only in part — line symmetry only: symmetrical and non-symmetrical shapes in Grade 3, axis-symmetry inside the lines-and-angles chapter in Grade 5 (not its own topic), lines of symmetry of polygons in Grade 9, and chord symmetry in Grade 10. No rotational or central symmetry is taught anywhere in Ethiopia's set.

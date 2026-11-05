@@ -1,6 +1,6 @@
 # Sources — Percentages
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia
 
 Every part traces to its book and page.
 
@@ -112,6 +112,13 @@ READ + CITATION CHECK PASSED 2026-11-04).
 **Book 26:** *Matemática — Libro de Texto — 5to grado* (NICAMATE 2) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2026, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
 **Book 27:** *MÓDULO Autoformativo de MATEMÁTICA — 7mo Grado — EDUCACIÓN SECUNDARIA A DISTANCIA EN EL CAMPO* (Módulo Autoformativo) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2016, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED). Module evidence: a self-study text with no answer key.
 **Book 28:** *MÓDULO Autoformativo de MATEMÁTICA — 10mo Grado* (Educación Secundaria a Distancia en el Campo) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2017, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED). Module evidence: a self-study text with no answer key.
+**Book 29:** *Mathematics, Grade 5 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 30:** *Mathematics, Grade 6 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 31:** *Mathematics, Grade 7 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 32:** *Mathematics, Grade 8 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 33:** *Mathematics, Grade 12 student book* — Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-027-7 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 34:** *Mathematics, Grade 6 teacher guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: detailed notes for fractions, decimals and percent (ch. 2).
+**Book 35:** *Mathematics, Grade 8 teacher guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, no year extractable (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: detailed notes for Units 1–3, including interest and loans (Unit 1).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -138,10 +145,17 @@ READ + CITATION CHECK PASSED 2026-11-04).
 | Ratio and percent: percent concept, calculating percentages, percentages over 100, finding the compared quantity and the base quantity, increase and discount problems | Nicaragua, Grade 5 student book (NICAMATE 2), Unit 6, printed pp. 60–73 |
 | Percentage, simple interest and commercial discount (module evidence) | Nicaragua, Grade 7 module, Unit III, Tema 4 (Unit III, printed pp. 111–168) |
 | Simple interest I = Prt and compound interest S = P(1+r)^t, with monthly capitalisation S = 10,000(1.005)^120 = C$18,193.96 (module evidence) — the book misprints the factor as (1,015)^120 on printed p. 103; teach 1,005, never 1,015 | Nicaragua, Grade 10 module, Unit III, printed pp. 100–104 |
+| Percent as "out of 100"; decimals and fractions to percent (0.47 = 47%; 1/2 = 50%); one quantity as a percent of another (25 is what percent of 60?; 60% of 70 people are women — how many women?) — no interest, tax or discount in Grade 5 | Ethiopia, Grade 5 student book, ch. 3, printed pp. 39–47 |
+| Trade tax and price discount (television 12,500 Birr; laptop 30,000 + 1,275 tax = 31,275 Birr; shoes 400 − 140 discount = 260 Birr; simple interest in passing — 2,200 × 12% × 3 = 792 Birr interest); rounding decimals | Ethiopia, Grade 6 student book, ch. 2, printed pp. 29–66 |
+| Percentages revised; profit and loss as a percent; simple interest; compound interest (interest calculated daily, 365 times a year); taxes — income tax, VAT, Turn Over Tax; simple interest P = I/(RT) = 37.50/(0.08 × 0.75) = 625 Birr; Exercise 3.10, 10 items — the contents entries for Simple Interest (p. 68, should be 84) and Compound Interest (p. 84, starts p. 86) are wrong, and Exercise 3.10 Q2 "44 years" is almost certainly "4 years" (clean principal 3,000 Birr); the Grade 7 guide has no detailed notes for this unit, so cite the student book, not the guide | Ethiopia, Grade 7 student book, ch. 3, printed pp. 53–94 |
+| Simple interest I = PRT (farmer: A = 9,100 Birr, P = 7,000 Birr, T = 2 years → I = 2,100 Birr → R = 15%); compound interest (Ex. 1.28: 2,000 Birr, 3 years at 6% compounded annually → 2,382 Birr; Ex. 1.29: 2,000 × (1.05)⁵ = 2,552.56 Birr) — Ex. 1.28's 3rd-year interest line prints the base as 2447.20 Birr instead of 2247.20 Birr; teach 2247.20, never 2447.20 (the final amount 2,382 Birr is correct) | Ethiopia, Grade 8 student book, ch. 1, printed pp. 1–36 |
+| Simple and compound interest, annuities, amortization and depreciation of a fixed asset — business context only | Ethiopia, Grade 12 student book, ch. 5, §5.2, printed pp. 303–413 |
+| Trade tax and discount (teacher evidence) | Ethiopia, Grade 6 teacher guide (teacher evidence), ch. 2, PDF pp. 34–51 |
+| Interest and loans (teacher evidence) | Ethiopia, Grade 8 teacher guide (teacher evidence), Unit 1, PDF p. 3 |
 
-**Acceptance count: taught in 15 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 16 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua).** Kazakhstan defines percent as 1/100
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia).** Kazakhstan defines percent as 1/100
 and finds p% as 1% × p in Grade 4, then carries a full percent
 chapter in Grade 5 — but teaches no percent increase/decrease
 or interest, stated honestly above; Jordan introduces percent
@@ -169,4 +183,4 @@ Grade 5 and ratio and percentage problems in Grade 6; Ghana
 teaches percent only as teacher-manual evidence (B4's percent
 from decimal fractions); South Africa teaches percentages with
 fractions and decimals in Grade 6, percentage increase and
-decrease in Grade 7, and percentage problems in Grade 8. Laos carries percentages from % of a quantity with interest tables in Grade 5, through the x/100 rule and successive discounts in Grade 6, to simple and compound interest in Grade 9. Yemen carries percentages whole in Grade 6 — percentage as a ratio out of 100, converting ratios to percentages and back, profit and loss, and zakat as a percentage application (1/40 = 2.5%). Indonesia carries percentages only in part — hundredths decimals linked to percent in Grade 4, percent only as an application (discounts) in Grade 7 Merdeka, and simple and compound interest in Grades 10 and 12 Revisi; percent is never formally taught as a concept anywhere in the set. Nicaragua carries percentages from the percent concept with increase and discount problems in Grade 5, through percentage with simple interest and commercial discount in the Grade 7 module (module evidence), to simple and compound interest in the Grade 10 module (module evidence); the Grade 10 module's (1,015)^120 misprint on p. 103 is never taught — the correct factor is 1,005.
+decrease in Grade 7, and percentage problems in Grade 8. Laos carries percentages from % of a quantity with interest tables in Grade 5, through the x/100 rule and successive discounts in Grade 6, to simple and compound interest in Grade 9. Yemen carries percentages whole in Grade 6 — percentage as a ratio out of 100, converting ratios to percentages and back, profit and loss, and zakat as a percentage application (1/40 = 2.5%). Indonesia carries percentages only in part — hundredths decimals linked to percent in Grade 4, percent only as an application (discounts) in Grade 7 Merdeka, and simple and compound interest in Grades 10 and 12 Revisi; percent is never formally taught as a concept anywhere in the set. Nicaragua carries percentages from the percent concept with increase and discount problems in Grade 5, through percentage with simple interest and commercial discount in the Grade 7 module (module evidence), to simple and compound interest in the Grade 10 module (module evidence); the Grade 10 module's (1,015)^120 misprint on p. 103 is never taught — the correct factor is 1,005. Ethiopia carries percentages from percent as "out of 100" in Grade 5, through trade tax, price discount and simple interest in passing in Grade 6, to profit and loss, simple and compound interest and taxes in Grade 7, simple and compound interest in Grade 8, and business interest, annuities, amortization and depreciation in Grade 12 (business context only).

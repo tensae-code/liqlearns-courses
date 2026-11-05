@@ -1,6 +1,6 @@
 # Sources — Sequences and series
 
-countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua
+countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia
 
 Every part traces to its book and page.
 
@@ -52,6 +52,11 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 **Book 17:** *Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)* — Indonesia, Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen), 2025, ISBN 978-634-00-3118-8. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 18:** *MATEMÁTICA 11 — Undécimo grado — Libro de Texto — Educación Secundaria* (NICAMATE) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2019. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 19:** *Mathematics, Grade 3 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 20:** *Mathematics, Grade 4 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 21:** *Mathematics, Grade 5 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 22:** *Mathematics, Grade 12 student book* — Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-027-7 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 23:** *Mathematics, Grade 12* (teacher guide) — Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-031-4 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -78,9 +83,14 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 | Arithmetic and geometric sequences and series; infinite geometric series | Indonesia, Grade 12 Revisi, Bab 1, printed pp. 1–34 |
 
 | Sequences, notation and general term; arithmetic sequences (aₙ = a₁ + (n−1)d) and sum of the first n terms (Sₙ = n(a₁ + aₙ)/2, proved by Gauss-style pairing); geometric sequences (aₙ = a₁·r^(n−1)) and sum of the first n terms (Sₙ = a₁(rⁿ − 1)/(r − 1)); summation notation Σ, its properties, Σk = n(n+1)/2 and Σk² = (1/6)n(n+1)(2n+1) — finite sums only; no infinite geometric series is taught | Nicaragua, Grade 11 student book, Unit 1, printed pp. 1–28 |
+| Identifying and extending growing patterns; predicting far terms (worked example p. 122 finds the 11th and 18th terms; exercise item 3 on p. 123 asks for the 17th and the 39th) — pattern work, not sequences-and-series proper | Ethiopia, Grade 3 student book, ch. 7 — patterns, printed pp. 117–127 |
+| Summarising patterns (find the 52nd term); expressing a pattern's summary with a variable (even and odd numbers expressed with variables) — pattern work, not sequences-and-series proper | Ethiopia, Grade 4 student book, ch. 6 — patterns, printed pp. 119–134 |
+| Growing patterns generalised with variables — pattern work, not sequences-and-series proper | Ethiopia, Grade 5 student book, ch. 4 — working with variables, printed pp. 48–62 |
+| Sequences and series: identify sequences; find the nth/general term; find sums; convergence and divergence of infinite series; real-life applications (the opener carries a spiral-aloe picture); a telescoping sum, S₉₉ = 0.99 and Sₙ = n/(n + 1); Exercise 1.10 (sums of the first five/ten odd numbers; aₙ = 4n − 3, S₅; aₙ = 3 − 5n, S₈; aₙ = n² + 1, S₆; aₙ = 2/(n² + 5n + 6), partial sums); sigma notation introduced — Example 1: Σ_{k=1}^{8} 3k = 108 and Σ_{k=2}^{6} k² = 90; Example 2 (p. 24): Σ_{k=3}^{7} k², Σ_{i=3}^{7} i² and Σ_{k=2}^{6} (k + 1)² all express 3² + 4² + 5² + 6² + 7²; Exercise 1.11; §1.3.1 Sigma Notation with the four Properties of Sigma Notation (constant factor; sum/difference; splitting a sum); the worked Example on p. 25: Σ_{k=1}^{3} 4k = 24, Σ_{k=1}^{5} (3k − 2) = 35 (also by properties, 3(15) − 2(5) = 35), Σ_{k=1}^{6} 2^{k−1} = 63 (also split as Σ_{k=1}^{3} + Σ_{k=4}^{6}); Exercise 1.12 (p. 26); §1.3.2 Sum of Arithmetic Sequences with Activity 1.5 (sum of the first ten terms of 5, 15, 25, 35, …) | Ethiopia, Grade 12 student book, ch. 1 — sequences and series, printed pp. 1–60 |
+| Sequences and series teaching notes and answers (teacher evidence) | Ethiopia, Grade 12 teacher guide, Unit 1, printed pp. 5–51 (teacher evidence) |
 
-**Acceptance count: taught in 9 countries (Kazakhstan, Jordan,
-Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua).** Kazakhstan carries
+**Acceptance count: taught in 10 countries (Kazakhstan, Jordan,
+Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia).** Kazakhstan carries
 the fullest treatment — all four Grade 9 Algebra books prove
 the nth-term formulas, the characteristic properties, both
 sum formulas and the infinite geometric sum, with applied
@@ -96,4 +106,6 @@ teaches no sequences or series, so Egypt is not claimed for
 this lesson; Sierra Leone's SSS 2 teaches the arithmetic
 series sum but no geometric series sum, and its SSS 3 lesson's
 claim that no infinite sum can be found is not taught here —
-the infinite sum rests on Kazakhstan's theorem and Jordan. Laos carries sequences from number sequences and puzzles in Grade 5 to arithmetic and geometric sequences with limits, sums and applications in Grade 12. Yemen carries sequences and series from Σ notation in Grade 10 to arithmetic and geometric sequences and their sums in Grade 11, in both tracks — with separate sum lessons in the literary track and sums folded into the sequence lessons in the science track. Indonesia carries sequences from number patterns in Grade 8 — where the geometric sequence is named but deferred to SMA — to arithmetic and geometric sequences and series with the infinite geometric series in Grades 10 and 12. Nicaragua carries sequences and series whole in Grade 11 — arithmetic and geometric sequences with general terms and finite sums, and sigma notation with the sums of the first n naturals and of their squares — but finite sums only: no infinite geometric series is taught, and the stray "Sección 4 — Notación de sumatoria" header claimed for p. 1 was not found by the citation check and is never cited.
+the infinite sum rests on Kazakhstan's theorem and Jordan. Laos carries sequences from number sequences and puzzles in Grade 5 to arithmetic and geometric sequences with limits, sums and applications in Grade 12. Yemen carries sequences and series from Σ notation in Grade 10 to arithmetic and geometric sequences and their sums in Grade 11, in both tracks — with separate sum lessons in the literary track and sums folded into the sequence lessons in the science track. Indonesia carries sequences from number patterns in Grade 8 — where the geometric sequence is named but deferred to SMA — to arithmetic and geometric sequences and series with the infinite geometric series in Grades 10 and 12. Nicaragua carries sequences and series whole in Grade 11 — arithmetic and geometric sequences with general terms and finite sums, and sigma notation with the sums of the first n naturals and of their squares — but finite sums only: no infinite geometric series is taught, and the stray "Sección 4 — Notación de sumatoria" header claimed for p. 1 was not found by the citation check and is never cited. Ethiopia carries sequences and series whole in Grade 12 — identifying sequences, the general term, sums, sigma notation with its four properties, arithmetic-series sums and convergence and divergence of infinite series — with pattern work as the early ladder in Grades 3–5 (predicting far terms, the 52nd term, patterns generalised with variables).
+
+**Flagged, not taught as printed:** the Grade 12 student book's sigma-notation property (2) (printed p. 24) prints Σ a_i where the sigma index is k; it should read Σ a_k. A typesetting slip; the lesson teaches Σ a_k.

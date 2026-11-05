@@ -1,6 +1,6 @@
 # Sources — Adding and Subtracting Fractions
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia
 
 Every part traces to its book and page.
 
@@ -128,6 +128,11 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 30:** *Matemática — Libro de Texto — 5to grado* (NICAMATE 2) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2026, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
 **Book 31:** *MATEMÁTICA 7 — Séptimo grado — Libro de Texto — Educación Secundaria* (NICAMATE) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2019, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
 **Book 32:** *MÓDULO Autoformativo de MATEMÁTICA — 7mo Grado — EDUCACIÓN SECUNDARIA A DISTANCIA EN EL CAMPO* (Módulo Autoformativo) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2016, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED). Module evidence: a self-study text with no answer key.
+**Book 33:** *Mathematics, Grade 4 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 34:** *Mathematics, Grade 5 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 35:** *Mathematics, Grade 6 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 36:** *Mathematics, Grade 5 teacher guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: detailed notes for fractions (TG ch. 2 = student ch. 1).
+**Book 37:** *Mathematics, Grade 6 teacher guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: detailed notes for the four operations on fractions and decimals (TG ch. 3 = student ch. 3).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -153,10 +158,15 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 | Addition and subtraction of fractions with different denominators: proper and improper fractions, mixed addition and subtraction, addition and subtraction of mixed numbers | Nicaragua, Grade 5 student book (NICAMATE 2), Unit 12, printed pp. 126–133 |
 | Addition and subtraction of fractions revised, with LCM | Nicaragua, Grade 7 student book (NICAMATE), Unit 1, Section 2, printed pp. 1–14 |
 | Addition and subtraction of rational numbers (module evidence) | Nicaragua, Grade 7 module, Unit II, Tema 2 (Unit II, printed pp. 59–110) |
+| Adding/subtracting fractions with the same numerator | Ethiopia, Grade 4 student book, ch. 3, printed pp. 51–82 |
+| Adding/subtracting fractions with same and different denominators | Ethiopia, Grade 5 student book, ch. 1, printed pp. 1–24 |
+| Adding a fraction and a decimal by converting one to the other (1/10 + 0.7 = 0.8; 1.5 + 1/4 = 1.75); subtracting (4/5 − 0.25 = 11/20 = 0.55; 1⅕ − 0.05 = 1.15) | Ethiopia, Grade 6 student book, ch. 3, printed pp. 67–88 |
+| Adding and subtracting fractions (teacher evidence) | Ethiopia, Grade 5 teacher guide (teacher evidence), TG ch. 2 = student ch. 1, PDF pp. 17–28 |
+| Adding and subtracting fractions and decimals (teacher evidence) | Ethiopia, Grade 6 teacher guide (teacher evidence), ch. 3, PDF pp. 52–67 |
 
-**Acceptance count: taught in 15 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 16 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua).** Egypt carries the full arc twice — same
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia).** Egypt carries the full arc twice — same
 denominators in Grade 3, unlike denominators and mixed numbers in
 Grade 5, with estimating as a check; Kazakhstan carries like
 denominators in Grade 4 and unlike denominators with mixed numbers
@@ -173,4 +183,4 @@ mixed numbers in Grade 5; Vietnam carries the full Grade 4 course
 and the Grade 5 unlike-denominator lesson; Ghana carries the work
 only as teacher-manual evidence (B6's "make the denominators the
 same"); South Africa carries adding and subtracting fractions from
-diagrams in Grade 6 Book 1. Laos carries fraction addition and subtraction from same-denominator work in Grade 4, through different denominators via a common denominator in Grade 5, to the full treatment in Grade 7. Yemen carries adding and subtracting fractions from equal denominators in Grade 3, through denominators where one divides the other, to mixed numbers in Grades 5–6. Indonesia carries adding and subtracting fractions from same- and different-denominator work in Grade 5, through fraction operations in Grade 7 (Merdeka and K13 editions); Grade 4 teaches no fraction addition or subtraction, and the Grade 5 book's LCM/GCD errors (FPB(75, 150) = 6 on p. 59; KPK glossed as "greatest") are never taught as fact. Nicaragua carries fraction addition and subtraction from equal denominators with mixed numbers in Grade 5, through different denominators in the same grade, to a revision with LCM in the Grade 7 student book and rational-number addition and subtraction in the Grade 7 module (module evidence).
+diagrams in Grade 6 Book 1. Laos carries fraction addition and subtraction from same-denominator work in Grade 4, through different denominators via a common denominator in Grade 5, to the full treatment in Grade 7. Yemen carries adding and subtracting fractions from equal denominators in Grade 3, through denominators where one divides the other, to mixed numbers in Grades 5–6. Indonesia carries adding and subtracting fractions from same- and different-denominator work in Grade 5, through fraction operations in Grade 7 (Merdeka and K13 editions); Grade 4 teaches no fraction addition or subtraction, and the Grade 5 book's LCM/GCD errors (FPB(75, 150) = 6 on p. 59; KPK glossed as "greatest") are never taught as fact. Nicaragua carries fraction addition and subtraction from equal denominators with mixed numbers in Grade 5, through different denominators in the same grade, to a revision with LCM in the Grade 7 student book and rational-number addition and subtraction in the Grade 7 module (module evidence). Ethiopia carries fraction addition and subtraction from same-numerator work in Grade 4, through same and different denominators in Grade 5, to adding and subtracting a fraction and a decimal by converting one to the other in Grade 6 (4/5 − 0.25 = 11/20 = 0.55).
