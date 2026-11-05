@@ -1,6 +1,6 @@
 # Sources — Collecting and Showing Data
 
-countries: Egypt, Greece, Jordan, Libya, Vietnam, Sierra Leone, South Africa, Kazakhstan, Armenia, Ghana, Laos
+countries: Egypt, Greece, Jordan, Libya, Vietnam, Sierra Leone, South Africa, Kazakhstan, Armenia, Ghana, Laos, Yemen
 
 Every part traces to its book and page.
 
@@ -36,6 +36,11 @@ Every part traces to its book and page.
 **Book 18:** *Mathematics, Grade 7 student book (secondary year 2)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2011. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 19:** *Mathematics, Grade 8 student book (secondary year 3)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2012. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 20:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 21:** *Mathematics, Grade 2 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 22:** *Mathematics, Grade 3 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 23:** *Mathematics, Grade 6 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 24:** *Mathematics, Grade 7 student book (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 25:** *Mathematics, Grade 8 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -62,5 +67,10 @@ Every part traces to its book and page.
 | Data collection and frequency tables; bar charts; pie charts (sectors from frequencies, summing to 360°) | Laos, Grade 7 student book, L49–L51, printed pp. 227–248 |
 | Data tables, frequencies and cumulative frequency, grouped bar charts | Laos, Grade 8 student book, L21–L23, printed pp. 151–178 |
 | Data types (qualitative and quantitative, discrete and continuous, class intervals, frequency tables) | Laos, Grade 9 student book, L40, printed p. 221 |
+| Sorting, pictorial representation, tally tables, bar representation and reading bar data | Yemen, Grade 2 Part 2, Unit 11, lessons 1st–5th, printed pp. 140–150 |
+| Collecting and organising data, pictorial representation, bar representation | Yemen, Grade 3 Part 2, Unit 10, lessons 10-2–10-4, printed pp. 104–114 |
+| Collecting and organising data; presenting data in pictures, columns, lines and pie sectors | Yemen, Grade 6 Part 2, Unit 8, lessons 8-1–8-6, printed pp. 141–159 |
+| Tabulating and organising statistical data; pictorial representation | Yemen, Grade 7, Unit 7, lessons 7-1–7-2, printed pp. 255–259 |
+| Reading tables and statistical forms; tabulating data; representing statistical data | Yemen, Grade 8 Part 2, Unit 9, lessons 9-1–9-3, printed pp. 115–124 |
 
-**Acceptance count: taught in 11 countries (Egypt, Greece, Jordan, Libya, Vietnam, Sierra Leone, South Africa, Kazakhstan, Armenia, Ghana, Laos).** Libya carries the fullest collecting-and-showing course (sources, errors, sampling, tables, every graph form); Egypt carries pie charts and histograms; Greece carries collecting, bar charts, pictograms and pie diagrams; Jordan carries choosing between displays, grouped tables and histograms with frequency density; Vietnam carries bar, double-bar and pie charts; Sierra Leone carries the whole display ladder in one term; South Africa and Kazakhstan carry the youngest pictographs and first bar graphs; Armenia carries collecting, grouping and the histogram; Ghana's evidence is teacher evidence only. Laos carries collecting and showing data from picture data and tallying in Grade 2, through collecting data and graphs in Grades 3–5, to frequency tables, bar charts, pie charts and grouped bar charts in Grades 7–8 and data types in Grade 9.
+**Acceptance count: taught in 12 countries (Egypt, Greece, Jordan, Libya, Vietnam, Sierra Leone, South Africa, Kazakhstan, Armenia, Ghana, Laos, Yemen).** Libya carries the fullest collecting-and-showing course (sources, errors, sampling, tables, every graph form); Egypt carries pie charts and histograms; Greece carries collecting, bar charts, pictograms and pie diagrams; Jordan carries choosing between displays, grouped tables and histograms with frequency density; Vietnam carries bar, double-bar and pie charts; Sierra Leone carries the whole display ladder in one term; South Africa and Kazakhstan carry the youngest pictographs and first bar graphs; Armenia carries collecting, grouping and the histogram; Ghana's evidence is teacher evidence only. Laos carries collecting and showing data from picture data and tallying in Grade 2, through collecting data and graphs in Grades 3–5, to frequency tables, bar charts, pie charts and grouped bar charts in Grades 7–8 and data types in Grade 9. Yemen carries collecting and showing data from sorting, pictograms, tally tables and bar charts in Grade 2, through collecting and organising data, to columns, lines and pie sectors in Grade 6 and tabulation in Grades 7–8.

@@ -1,6 +1,6 @@
 # Sources — Fractions
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen
 
 Every part traces to its book and page.
 
@@ -117,6 +117,11 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 21:** *Mathematics, Grade 4 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2021. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 22:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 23:** *Mathematics, Grade 7 student book (secondary year 2)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2011. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 24:** *Mathematics, Grade 1 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 25:** *Mathematics, Grade 3 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 26:** *Mathematics, Grade 4 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 27:** *Mathematics, Grade 5 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 28:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -136,10 +141,14 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 | Relationship of whole numbers, decimals and fractions; equivalent fractions, same-denominator addition and subtraction | Laos, Grade 4 student book (new series), ch. 10, printed p. 100; ch. 14, printed p. 128 |
 | Equivalent fractions, fraction strips and the number line, ordering and comparing decimals and fractions, improper fractions and mixed numbers | Laos, Grade 5 student book, L23 and L26–L28, printed pp. 56–75 |
 | Fractions and rational numbers: simplifying, expanding, comparing, and fractions as decimals, including repeating decimals → fractions and irrationals | Laos, Grade 7 student book, L1–L11, printed pp. 1–42 |
+| One half and one quarter of a shape, the symbols ١/٢ and ١/٤ printed | Yemen, Grade 1 Part 1, Unit 5, lessons 5-5–5-6, printed pp. 130–132 |
+| Reading and writing fractions, equivalent fractions, comparing and ordering | Yemen, Grade 3 Part 2, Unit 9, lessons 9-2–9-4, printed pp. 84–88 |
+| Numerator and denominator, equivalent fractions, simplifying, comparing, ordering, improper fractions and mixed numbers | Yemen, Grade 4 Part 2, Unit 5, lessons 1:5–6:5, printed pp. 8–26 |
+| Comparing and ordering fractions; adding, subtracting, multiplying and dividing fractions | Yemen, Grade 5 Part 2, Unit 5, lessons 5-2–5-7, printed pp. 13–38; Grade 6 Part 1, Unit 2, lessons 2-2–2-3, printed pp. 62–68 |
 
-**Acceptance count: taught in 12 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 13 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos).** Kazakhstan carries the first share on
+Libya, Vietnam, Ghana, Laos, Yemen).** Kazakhstan carries the first share on
 clock faces and the full Grade 5 fraction course with the
 comparing and part-of-a-number rules; Jordan carries the youngest
 path (halves and quarters only in Grade 1, then the full first
@@ -160,4 +169,4 @@ Ghana carries fractions only as teacher-manual evidence (no pupil
 textbook in the set), folding strips and bottle tops; South Africa
 carries halves and quarters in Grade 2, fractions to sixths in
 Grade 3, and the first definitions of proper, mixed and improper
-in Grade 6. Laos carries fractions from their first appearance in Grade 3, through whole–decimal–fraction links and equivalence in Grades 4–5, to rational numbers, repeating decimals and irrationals in Grade 7.
+in Grade 6. Laos carries fractions from their first appearance in Grade 3, through whole–decimal–fraction links and equivalence in Grades 4–5, to rational numbers, repeating decimals and irrationals in Grade 7. Yemen carries fractions from half and quarter in Grade 1, through reading, writing, equivalence and ordering, to improper fractions and mixed numbers and all four operations on fractions.

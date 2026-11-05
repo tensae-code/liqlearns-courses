@@ -1,6 +1,6 @@
 # Sources — Percentages
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen
 
 Every part traces to its book and page.
 
@@ -104,6 +104,7 @@ READ + CITATION CHECK PASSED 2026-11-04).
 **Book 18:** *Mathematics, Grade 6 student book (secondary year 1)* — Laos, Ministry of Education / Institute of Educational Science Research, 2010 (2009 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 19:** *Mathematics, Grade 7 student book (secondary year 2)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2011. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 20:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 21:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -120,10 +121,12 @@ READ + CITATION CHECK PASSED 2026-11-04).
 | Percentages: x% of a quantity = quantity × x/100, fraction ↔ percent ↔ decimal, finding the percentage, successive 10% discounts | Laos, Grade 6 student book, L30, printed pp. 233–238 |
 | Percentages: '8 per hundred' = '8 percent' | Laos, Grade 7 student book, L42, printed pp. 171–202 |
 | Percentages and interest: simple interest I = PTR/100, compound A = P(1+r)^n, instalments | Laos, Grade 9 student book, L7, printed p. 32 |
+| Percentage as a ratio with second term 100 (25%, 5%, 50%, 75%, 12%); converting a ratio to a percentage and back | Yemen, Grade 6 Part 1, Unit 4, lessons 4-2–4-3, printed pp. 124–128 |
+| Profit and loss; zakat as a percentage application (1/40 = 2.5%) | Yemen, Grade 6 Part 1, Unit 4, lessons 4-4–4-5, printed pp. 132–136 |
 
-**Acceptance count: taught in 12 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 13 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos).** Kazakhstan defines percent as 1/100
+Libya, Vietnam, Ghana, Laos, Yemen).** Kazakhstan defines percent as 1/100
 and finds p% as 1% × p in Grade 4, then carries a full percent
 chapter in Grade 5 — but teaches no percent increase/decrease
 or interest, stated honestly above; Jordan introduces percent
@@ -151,4 +154,4 @@ Grade 5 and ratio and percentage problems in Grade 6; Ghana
 teaches percent only as teacher-manual evidence (B4's percent
 from decimal fractions); South Africa teaches percentages with
 fractions and decimals in Grade 6, percentage increase and
-decrease in Grade 7, and percentage problems in Grade 8. Laos carries percentages from % of a quantity with interest tables in Grade 5, through the x/100 rule and successive discounts in Grade 6, to simple and compound interest in Grade 9.
+decrease in Grade 7, and percentage problems in Grade 8. Laos carries percentages from % of a quantity with interest tables in Grade 5, through the x/100 rule and successive discounts in Grade 6, to simple and compound interest in Grade 9. Yemen carries percentages whole in Grade 6 — percentage as a ratio out of 100, converting ratios to percentages and back, profit and loss, and zakat as a percentage application (1/40 = 2.5%).

@@ -1,6 +1,6 @@
 # Sources — Coordinates and graphs
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos
+countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos, Yemen
 
 Every part traces to its book and page.
 
@@ -45,6 +45,11 @@ textbook.
 **Book 10:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 11:** *Mathematics, Grade 7 student book (secondary year 2)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2011. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 12:** *Mathematics, Grade 8 student book (secondary year 3)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2012. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 13:** *Mathematics, Grade 7 student book (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 14:** *Mathematics, Grade 8 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 15:** *Mathematics, Grade 9 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 16:** *Mathematics, Grade 10 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 17:** *Mathematics, Grade 11 student book, science track, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -60,10 +65,15 @@ textbook.
 | Reading and drawing step and line graphs; enlarging and reducing shapes by coordinates | Laos, Grade 5 student book, L41–L42, printed pp. 100–111; L54, printed pp. 130–135 |
 | Ordered pairs; direct proportion graphs (y = kx) and inverse proportion graphs (y = k/x) | Laos, Grade 7 student book, L39–L41, printed pp. 171–202 |
 | Coordinates of points and distance, midpoint; straight lines, slope, parallel and perpendicular lines, distance from a point to a line | Laos, Grade 8 student book, L17–L20, printed pp. 126–150 |
+| The coordinate system | Yemen, Grade 7, Unit 5, lesson 5-8, printed p. 205 |
+| Distance between two points and midpoint of a segment on a line parallel to one of the axes | Yemen, Grade 8 Part 1, Unit 5, lessons 5-1–5-2, printed pp. 136–143 |
+| Distance between two points in general (using Pythagoras); bisecting a straight-line segment | Yemen, Grade 9 Part 2, Unit 6, lessons 6-1–6-2, printed pp. 65–69 |
+| Slope of a straight line; equation of a straight line; distance of a point from a line | Yemen, Grade 10 Part 2, Unit 8, lessons 8-2–8-4, printed pp. 73–83 |
+| Equation of the circle | Yemen, Grade 11 science Part 2, Unit 7, lesson 7-1, printed p. 48 |
 
-**Acceptance count: taught in 8 countries (Egypt, Jordan,
+**Acceptance count: taught in 9 countries (Egypt, Jordan,
 Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos — Ghana
-as teacher evidence only).** South Africa carries the
+as teacher evidence only, Yemen).** South Africa carries the
 plainest gradient teaching — gradient as change in y over
 change in x, with intercepts named, built from tables of
 ordered pairs. Egypt carries the slope rules (m = tan θ,
@@ -79,4 +89,4 @@ teacher manual — worded as teacher evidence. Honest
 negative: South Africa's Grade 9 book has no slope–intercept
 form as a named method and no function notation — the lesson
 takes the named form from Egypt and Kazakhstan, and says so
-here. Laos carries coordinates and graphs from broken-line graphs in Grade 4, through step and line graphs and coordinate enlargement in Grade 5, to ordered pairs, proportion graphs and full straight-line work — slope, parallels, perpendiculars and point-to-line distance — in Grades 7–8.
+here. Laos carries coordinates and graphs from broken-line graphs in Grade 4, through step and line graphs and coordinate enlargement in Grade 5, to ordered pairs, proportion graphs and full straight-line work — slope, parallels, perpendiculars and point-to-line distance — in Grades 7–8. Yemen carries coordinates and graphs from the coordinate system in Grade 7, through axis-parallel then general distance and midpoint, to slope and the equation of a line and the equation of the circle.

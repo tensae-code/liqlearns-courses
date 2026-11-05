@@ -1,6 +1,6 @@
 # Sources — Decimals
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen
 
 Every part traces to its book and page.
 
@@ -118,6 +118,9 @@ READ + CITATION CHECK PASSED 2026-11-04).
 **Book 20:** *Mathematics, Grade 4 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2021. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 21:** *Mathematics, Grade 4 student book, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 22:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 23:** *Mathematics, Grade 4 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 24:** *Mathematics, Grade 5 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 25:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -133,10 +136,13 @@ READ + CITATION CHECK PASSED 2026-11-04).
 | Decimal numbers through litres (0.5 L, 1.25 L), tenths and hundredths on a number line; whole-number, decimal and fraction links (1/2 = 0.5, 1/4 = 0.25) | Laos, Grade 4 student book (new series), ch. 7, printed p. 64; ch. 10, printed p. 100 |
 | Tenths, hundredths, thousandths; decimal order; adding, subtracting and multiplying decimals by whole numbers | Laos, Grade 4 student book (old series), L38–L49, printed pp. 106–134 |
 | Whole-number and decimal calculation, division giving a decimal quotient, rounding quotients, converting between fractions and decimals, mixed numbers, decimal ÷ decimal | Laos, Grade 5 student book, L5–L6, printed pp. 16–29; L21–L22 and L26, printed pp. 56–75; L55–L56, printed pp. 136–139 |
+| The decimal fraction (1/10 = 0.1), comparing and ordering, adding and subtracting decimals | Yemen, Grade 4 Part 2, Unit 6, lessons 1:6–4:6, printed pp. 54–73 |
+| Reading and writing decimals, rounding decimals, all four operations, converting an ordinary fraction to a decimal (5/8 = 0.625) | Yemen, Grade 5 Part 2, Unit 6, lessons 6-1–6-7, printed pp. 52–87 |
+| Adding, subtracting, multiplying and dividing decimals, estimating results | Yemen, Grade 6 Part 1, Unit 3, lessons 3-2–3-5, printed pp. 85–103 |
 
-**Acceptance count: taught in 12 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 13 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos).** Kazakhstan carries the fullest decimal
+Libya, Vietnam, Ghana, Laos, Yemen).** Kazakhstan carries the fullest decimal
 course — reading, converting, comparing, all four operations,
 powers of ten and rounding; Jordan carries tenths and hundredths
 in Grade 4, thousandths with all four operations in Grade 5, and
@@ -158,4 +164,4 @@ in Grade 6; Ghana carries decimals only as teacher-manual
 evidence (B4's tenths and decimal addition/subtraction, B6's
 comparison by long division); South Africa carries first decimals
 as tenths on a metre line in Grade 5, systematic decimals to two
-places in Grade 6, and the full decimal worksheets in Grade 7. Laos carries decimals from tenths and hundredths through litres in Grade 4 (to thousandths, with decimal × whole numbers, in the old Grade 4 book) to full decimal calculation, including decimal ÷ decimal, in Grade 5.
+places in Grade 6, and the full decimal worksheets in Grade 7. Laos carries decimals from tenths and hundredths through litres in Grade 4 (to thousandths, with decimal × whole numbers, in the old Grade 4 book) to full decimal calculation, including decimal ÷ decimal, in Grade 5. Yemen carries decimals from tenths and the decimal point in Grade 4, through rounding and all four operations with fraction-to-decimal conversion, to estimating decimal operations in Grade 6.

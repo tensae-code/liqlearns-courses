@@ -1,6 +1,6 @@
 # Sources — Derivatives
 
-countries: Egypt, Jordan, Greece, Armenia, Vietnam, Libya, Mauritania, Laos
+countries: Egypt, Jordan, Greece, Armenia, Vietnam, Libya, Mauritania, Laos, Yemen
 
 Every part traces to its book and page.
 
@@ -34,6 +34,9 @@ Every part traces to its book and page.
 
 **Book 15:** Mathématiques, 7ème AS, sciences de la nature (7AS-D) — Mauritania, Mohameden Ould El Hadi and Mohameden Ould Bah, 122 pp., French, for the 2025–2026 school year. Filed in maths/books/mauritania.md (D11).
 **Book 16:** *Mathematics, Grade 10 student book (upper-secondary year 5)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2014 (2010 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 17:** *Mathematics, Grade 11 student book, literary track (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 18:** *Mathematics, Grade 11 student book, science track, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 19:** *Mathematics, Grade 12 student book, science track (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -58,5 +61,8 @@ Every part traces to its book and page.
 | Limit, continuity and derivation; study of functions | Mauritania, 7AS-D, Chapters 2–3, pp.23–47 |
 | Rate of change and derivative: definition by limits, differentiation rules including the chain rule, higher-order derivatives | Laos, Grade 10 student book, L17, printed p. 176 |
 | Applications of the derivative: related rates, tangents and normals, increasing and decreasing, maxima and minima, concavity and inflection, differentials | Laos, Grade 10 student book, L18, printed p. 188 |
+| Limit and continuity of a function; derivatives; rules for finding the derivative; applied problems | Yemen, Grade 11 literary, Unit 4, lessons 4-1–4-4, printed pp. 87–98 |
+| Limit of real functions, continuity, rate of change, the derivative, the derivative at a point and on an interval, rules for differentiable functions | Yemen, Grade 11 science Part 1, Unit 5, lessons 5-1–5-6, printed pp. 118–158 |
+| Limits and continuity of trigonometric functions; derivatives; the chain rule; implicit differentiation; derivatives of logarithmic, exponential and trigonometric functions; Rolle's theorem and the mean value theorem; maximum and minimum values; studying the variation of a function | Yemen, Grade 12 science, Unit 6, lessons 6-1–6-9, printed pp. 154–200 — lessons 6-4 onward cited by contents/PDF number, not footer (printed 163 is skipped) |
 
-**Acceptance count: taught in 8 countries (Egypt, Jordan, Greece, Armenia, Vietnam, Libya, Mauritania, Laos).** Egypt carries differentiation from first principles to implicit and parametric differentiation, higher derivatives and related rates; Jordan carries differentiation from slope estimation without limits to the chain rule, implicit differentiation and related rates; Greece carries the full analysis chapter with the Mean Value Theorem, extrema, convexity and De L'Hospital; Armenia carries the derivative through velocity and acceleration to the second-order derivative; Vietnam carries the definition, the rules, the second derivative and the applications; Libya carries composite, product, quotient and implicit differentiation with maxima and minima; Mauritania carries derivation in four streamed books. Laos carries derivatives whole in Grade 10 — the definition, all the rules including the chain rule, higher orders, and applications from related rates to concavity and differentials.
+**Acceptance count: taught in 9 countries (Egypt, Jordan, Greece, Armenia, Vietnam, Libya, Mauritania, Laos, Yemen).** Egypt carries differentiation from first principles to implicit and parametric differentiation, higher derivatives and related rates; Jordan carries differentiation from slope estimation without limits to the chain rule, implicit differentiation and related rates; Greece carries the full analysis chapter with the Mean Value Theorem, extrema, convexity and De L'Hospital; Armenia carries the derivative through velocity and acceleration to the second-order derivative; Vietnam carries the definition, the rules, the second derivative and the applications; Libya carries composite, product, quotient and implicit differentiation with maxima and minima; Mauritania carries derivation in four streamed books. Laos carries derivatives whole in Grade 10 — the definition, all the rules including the chain rule, higher orders, and applications from related rates to concavity and differentials. Yemen carries derivatives from limits and continuity and the derivative rules in Grade 11, in both tracks, to the full differentiation unit in Grade 12 science — chain and implicit rules, log, exponential and trig derivatives, Rolle and the mean value theorem, maxima and minima and curve sketching.

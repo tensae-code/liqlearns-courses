@@ -1,6 +1,6 @@
 # Sources — Subtraction
 
-countries: Egypt, Jordan, Libya, Kazakhstan, Greece, Armenia, Vietnam, Ghana, Mauritania, Laos
+countries: Egypt, Jordan, Libya, Kazakhstan, Greece, Armenia, Vietnam, Ghana, Mauritania, Laos, Yemen
 
 Every part traces to its book and page.
 
@@ -16,6 +16,12 @@ Every part traces to its book and page.
 **Book 10:** *Mathematics, Grade 1 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2017 original / 2020 reprint (one book held twice, ISBN 978-9932-00-174-3, counted once). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 11:** *Mathematics, Grade 2 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2020, ISBN 978-9932-406-23-4. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 12:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 13:** *Mathematics, Grade 1 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 14:** *Mathematics, Grade 1 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 15:** *Mathematics, Grade 2 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 16:** *Mathematics, Grade 3 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 17:** *Mathematics, Grade 4 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 18:** *Mathematics, Grade 5 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -37,5 +43,10 @@ Every part traces to its book and page.
 | Subtraction crossing 10 by splitting to 10 | Laos, Grade 1 student book (new series), ch. 14, printed p. 115 |
 | Subtracting 2-digit numbers without and with borrowing; 3-digit subtraction by place value | Laos, Grade 2 student book (new series), ch. 3, printed p. 24; ch. 9, printed p. 90 |
 | Subtracting whole numbers and decimals, including kip money problems | Laos, Grade 5 student book, L5, printed pp. 16–29 |
+| Subtraction within 10, subtraction facts | Yemen, Grade 1 Part 1, Unit 4, lessons 4-2–4-5, printed pp. 94–104 |
+| Subtraction within 20 by counting back and on the number line; within 100 without borrowing | Yemen, Grade 1 Part 2, Unit 7, lessons 7-4–7-6, printed pp. 44–50; Unit 9, lessons 9-4–9-6, printed pp. 102–108 |
+| Subtraction within 1000 with borrowing; estimating subtraction results | Yemen, Grade 2 Part 2, Unit 8, lessons 1st–4th, printed pp. 46–54 |
+| Subtraction within 10,000, borrowing from one and two places, subtraction with zeros | Yemen, Grade 3 Part 1, Unit 3, lessons 3-2–3-5, printed pp. 60–70 |
+| Subtraction within 999,999, estimating and checking by addition, to hundreds of millions | Yemen, Grade 4 Part 1, Unit 2, lessons 5:2–9:2, printed pp. 50–60; Grade 5 Part 1, Unit 2, lessons 2-4–2-6, printed pp. 44–49 |
 
-**Acceptance count: taught in 10 countries (Egypt, Jordan, Libya, Kazakhstan, Greece, Armenia, Vietnam, Ghana, Mauritania, Laos). Egypt carries the column algorithm whole — borrowing from hundreds to tens, borrowing in both places, borrowing across zero. Jordan carries subtracting without regrouping in Grade 1 and with regrouping in Grade 2. Libya carries subtracting without regrouping to 100 in Grade 1, regrouping to 1000 in Grade 2, and to 10,000 in Grade 3. Kazakhstan carries the written column algorithm on named cases in Grade 2. Greece carries vertical subtraction with borrowing in Grade 1 Teuxos B. Armenia carries subtracting with place transitions in Grade 2. Vietnam carries subtracting without regrouping in Grade 1 and with regrouping in Grade 2. Ghana carries subtracting to 20 as teacher evidence — and its workbook's printed '15 − 3 = 18' is flagged wrong in the filing and is never taught. Mauritania carries subtraction with and without carrying in Grade 2. Other read countries teach subtracting inside their own Grade 1–3 books and join by merge.** Laos carries subtraction from take-away stories within 10 and crossing 10 by splitting to 10 in Grade 1, through 2-digit borrowing and 3-digit place-value subtraction in Grade 2, to whole-number and decimal subtraction in Grade 5.
+**Acceptance count: taught in 11 countries (Egypt, Jordan, Libya, Kazakhstan, Greece, Armenia, Vietnam, Ghana, Mauritania, Laos, Yemen). Egypt carries the column algorithm whole — borrowing from hundreds to tens, borrowing in both places, borrowing across zero. Jordan carries subtracting without regrouping in Grade 1 and with regrouping in Grade 2. Libya carries subtracting without regrouping to 100 in Grade 1, regrouping to 1000 in Grade 2, and to 10,000 in Grade 3. Kazakhstan carries the written column algorithm on named cases in Grade 2. Greece carries vertical subtraction with borrowing in Grade 1 Teuxos B. Armenia carries subtracting with place transitions in Grade 2. Vietnam carries subtracting without regrouping in Grade 1 and with regrouping in Grade 2. Ghana carries subtracting to 20 as teacher evidence — and its workbook's printed '15 − 3 = 18' is flagged wrong in the filing and is never taught. Mauritania carries subtraction with and without carrying in Grade 2. Other read countries teach subtracting inside their own Grade 1–3 books and join by merge.** Laos carries subtraction from take-away stories within 10 and crossing 10 by splitting to 10 in Grade 1, through 2-digit borrowing and 3-digit place-value subtraction in Grade 2, to whole-number and decimal subtraction in Grade 5. Yemen carries subtraction from take-away within 10 in Grade 1 through borrowing within 1000, 10,000 and 999,999, with estimating and checking by addition, to hundreds of millions in Grade 5.

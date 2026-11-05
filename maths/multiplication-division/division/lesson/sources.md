@@ -1,6 +1,6 @@
 # Sources — Division
 
-countries: Egypt, Jordan, Vietnam, Kazakhstan, Armenia, Greece, Laos
+countries: Egypt, Jordan, Vietnam, Kazakhstan, Armenia, Greece, Laos, Yemen
 
 Every part traces to its book and page.
 
@@ -17,6 +17,11 @@ Every part traces to its book and page.
 **Book 11:** *Mathematics, Grade 3 student book, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 12:** *Mathematics, Grade 4 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2021. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 13:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 14:** *Mathematics, Grade 2 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 15:** *Mathematics, Grade 3 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 16:** *Mathematics, Grade 4 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 17:** *Mathematics, Grade 5 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 18:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -36,5 +41,8 @@ Every part traces to its book and page.
 | Dividing, including the long-division model 462 ÷ 22 = 21 — the book's summary line misprints the divisor as 3 (printed p. 150); the panels computing 462 ÷ 22 = 21 are correct, and the correct value is taught here | Laos, Grade 3 student book, L44, printed p. 148 |
 | Division with remainder, checking by multiplication; longer division with 2-digit divisors | Laos, Grade 4 student book (new series), ch. 4, printed p. 32; ch. 8, printed p. 78 |
 | Whole-number division, estimating the quotient's digits; exact division, quotient and remainder; dividing decimals by whole numbers and by decimals | Laos, Grade 5 student book, L7, printed pp. 16–29; L16, printed pp. 44–49; L55–L56, printed pp. 136–139 |
+| Division as sharing and grouping; ÷2, ÷5, ÷3 and ÷4; fact families | Yemen, Grade 2 Part 2, Unit 9, lessons 8th–12th, printed pp. 84–92 |
+| ÷6, ÷7, ÷8, ÷9 with the long-division bracket; division by one and by the number itself; two-digit ÷ one-digit | Yemen, Grade 3 Part 2, Unit 6, lessons 6-2–6-5, printed pp. 12–18; Unit 7, lessons 7-5–7-6, printed pp. 46–48 |
+| Division within six digits, by one- and two-digit divisors, estimating by rounding | Yemen, Grade 4 Part 1, Unit 4, lessons 4:4–8:4, printed pp. 112–129; Grade 5 Part 1, Unit 3, lessons 3-7–3-9, printed pp. 76–86; Grade 6 Part 1, Unit 1, lesson 1-4, printed p. 20 |
 
-**Acceptance count: taught in 7 countries (Egypt, Jordan, Vietnam, Kazakhstan, Armenia, Greece, Laos). Egypt carries division whole — sharing equally, remainders as a named topic, and long division layout. Jordan carries division with remainder in Grade 3 and long division with zeros in the quotient in Grade 4. Vietnam carries exact division and division with remainder in Grade 3. Kazakhstan carries division as equal sharing in Grade 2 and non-table division with remainders in Grade 3. Armenia carries unknown divisors and dividends in Grade 4 and division with remainder in Grade 5. Greece carries sharing and the tables only — it never teaches formal long division, stated honestly here. Other read countries teach dividing inside their own Grade 2–4 books and join by merge.** Laos carries division from sharing equally in the old Grade 2 guide, through the Grade 3 long-division model and Grade 4 division with remainder, to decimal division in Grade 5 — with the Grade 3 book's misprinted divisor (3 for 22) corrected to 462 ÷ 22 = 21.
+**Acceptance count: taught in 8 countries (Egypt, Jordan, Vietnam, Kazakhstan, Armenia, Greece, Laos, Yemen). Egypt carries division whole — sharing equally, remainders as a named topic, and long division layout. Jordan carries division with remainder in Grade 3 and long division with zeros in the quotient in Grade 4. Vietnam carries exact division and division with remainder in Grade 3. Kazakhstan carries division as equal sharing in Grade 2 and non-table division with remainders in Grade 3. Armenia carries unknown divisors and dividends in Grade 4 and division with remainder in Grade 5. Greece carries sharing and the tables only — it never teaches formal long division, stated honestly here. Other read countries teach dividing inside their own Grade 2–4 books and join by merge.** Laos carries division from sharing equally in the old Grade 2 guide, through the Grade 3 long-division model and Grade 4 division with remainder, to decimal division in Grade 5 — with the Grade 3 book's misprinted divisor (3 for 22) corrected to 462 ÷ 22 = 21. Yemen carries division from sharing and grouping with ÷2, ÷5, ÷3 and ÷4 in Grade 2, through the ÷6–÷9 facts and the long-division bracket, to six-digit division by two-digit divisors with estimating by rounding.

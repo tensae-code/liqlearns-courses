@@ -1,6 +1,6 @@
 # Sources — Volume and Surface Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen
 
 Every part traces to its book and page.
 
@@ -152,6 +152,10 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 29:** *Mathematics, Grade 8 student book (secondary year 3)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2012. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 30:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 31:** *Mathematics, Grade 10 student book (upper-secondary year 5)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2014 (2010 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 32:** *Mathematics, Grade 3 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 33:** *Mathematics, Grade 6 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 34:** *Mathematics, Grade 7 student book (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 35:** *Mathematics, Grade 8 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -185,10 +189,14 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Prisms and their nets; cylinders, lateral surface unrolled as a rectangle; spheres and balls, volume V = 4/3πr³ | Laos, Grade 8 student book, L25–L27, printed pp. 197–219 |
 | Surface area of pyramids and cones (nets, lateral area, cone πrd, total πr(d+r)); volume V = ⅓Bh, V = ⅓πr²h | Laos, Grade 9 student book, L38–L39, printed pp. 197–220 |
 | Volumes of revolution about the x-axis and y-axis, including the washer method | Laos, Grade 10 student book, L21, printed p. 215 |
+| Volumes | Yemen, Grade 3 Part 2, Unit 8, lesson 8-7, printed p. 72 |
+| Lateral and total surface area; volume and capacity; volume | Yemen, Grade 6 Part 2, Unit 7, lessons 7-6–7-8, printed pp. 114–128 |
+| Cuboid, prism, cylinder, volume of the pyramid, volume of the cone | Yemen, Grade 7, Unit 6, lessons 6-3–6-7, printed pp. 236–249 |
+| The pyramid, the cone, volume of the sphere and its surface area | Yemen, Grade 8 Part 2, Unit 8, lessons 8-1–8-3, printed pp. 103–109 |
 
-**Acceptance count: taught in 12 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 13 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos).** Sierra Leone carries the cleanest
+Libya, Vietnam, Ghana, Laos, Yemen).** Sierra Leone carries the cleanest
 ladder — cubes, prisms and cylinders by cross-section × height,
 then surface areas by the net, in JSS 2. Egypt carries volume by
 counting unit cubes through V = l × w × h in Grade 5 and the
@@ -211,4 +219,4 @@ Ghana's evidence is teacher-manual only (JICA B5 Lessons 92–100
 and B6 Lessons 88–92, prisms): no pupil textbook in Ghana's set
 teaches volume or surface area, and the lesson words Ghana that
 way throughout. Mauritania's honest limit is stated too: its
-Grade 5 book teaches no volume at all. Laos carries volume and surface area from solids, nets and volume formulas in Grade 5, through prisms, cylinders and spheres in Grade 8, to pyramid and cone surface area and volume in Grade 9 and volumes of revolution in Grade 10.
+Grade 5 book teaches no volume at all. Laos carries volume and surface area from solids, nets and volume formulas in Grade 5, through prisms, cylinders and spheres in Grade 8, to pyramid and cone surface area and volume in Grade 9 and volumes of revolution in Grade 10. Yemen carries volume and surface area from volumes in Grade 3, through surface area and volume in Grade 6, to volumes of pyramids, cones and spheres in Grades 7–8.

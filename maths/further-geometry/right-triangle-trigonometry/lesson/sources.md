@@ -1,6 +1,6 @@
 # Sources — Right-triangle trigonometry
 
-countries: Jordan, Egypt, Sierra Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos
+countries: Jordan, Egypt, Sierra Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen
 
 Every part traces to its book and page.
 
@@ -49,6 +49,9 @@ Geometry and Trigonometry — Greece, ITYE «Diophantos» for the
 Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 + CITATION CHECK PASSED).
 **Book 10:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 11:** *Mathematics, Grade 8 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 12:** *Mathematics, Grade 9 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 13:** *Mathematics, Grade 10 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -62,9 +65,12 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Trigonometry chapter | Mauritania, 4AS (Grade 10) student book, "Trigonométrie", p.193 |
 | Trigonometry to 180° with sine and cosine laws | Greece, Mathematics C′ Gymnasiou (Grade 9), Part B Geometry and Trigonometry, printed pp.186–253 (trigonometry section) |
 | Right-triangle trigonometry: sin, cos and tan, the 30/45/60 table, sin(90−A) = cos A, sin² + cos² = 1, height problems | Laos, Grade 9 student book, L25, printed p. 108 |
+| The side opposite the 30° angle in a right triangle equals half the hypotenuse | Yemen, Grade 8 Part 2, Unit 7, lesson 7-4, printed p. 77 |
+| Numerical relations in a right triangle; trigonometric ratios for an acute angle; ratios for 30°, 60° and 45° | Yemen, Grade 9 Part 1, Unit 4, lessons 4-1–4-3, printed pp. 165–184 |
+| The directed angle, units of angle measure, trigonometric ratios, solving the right triangle and applications | Yemen, Grade 10 Part 2, Unit 7, lessons 7-1–7-7, printed pp. 41–70 |
 
-**Acceptance count: taught in 9 countries (Jordan, Egypt, Sierra
-Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos).**
+**Acceptance count: taught in 10 countries (Jordan, Egypt, Sierra
+Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen).**
 Jordan carries the cleanest introduction — ratios from similar
 right triangles, then elevation and depression. Egypt carries
 the special-angle table and tan = sin / cos in Preparatory 3,
@@ -80,4 +86,4 @@ negatives: Libya Grades 5–9 teach no trigonometry at all, and
 South Africa's Grades 7–9 books never teach trigonometry —
 neither country is claimed for this lesson. Sierra Leone's JSS
 never teaches angles of elevation and depression by name; the
-lesson takes that vocabulary from Jordan. Laos carries right-triangle trigonometry whole in Grade 9 — sin, cos and tan with the special-angle table, the complementary-angle identity and the Pythagorean identity.
+lesson takes that vocabulary from Jordan. Laos carries right-triangle trigonometry whole in Grade 9 — sin, cos and tan with the special-angle table, the complementary-angle identity and the Pythagorean identity. Yemen carries right-triangle trigonometry from the side opposite 30° in Grade 8, through trig ratios for acute angles and for 30°, 45° and 60°, to solving the right triangle in Grade 10.

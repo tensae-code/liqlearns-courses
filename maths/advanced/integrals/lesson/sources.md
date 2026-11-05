@@ -1,6 +1,6 @@
 # Sources — Integrals
 
-countries: Egypt, Jordan, Greece, Armenia, Vietnam, Libya, Mauritania, Laos
+countries: Egypt, Jordan, Greece, Armenia, Vietnam, Libya, Mauritania, Laos, Yemen
 
 Every part traces to its book and page.
 
@@ -26,6 +26,8 @@ Every part traces to its book and page.
 
 **Book 11:** Mathématiques, 7ème AS, sciences de la nature (7AS-D) — Mauritania, Mohameden Ould El Hadi and Mohameden Ould Bah, 122 pp., French, for the 2025–2026 school year. Filed in maths/books/mauritania.md (D11).
 **Book 12:** *Mathematics, Grade 10 student book (upper-secondary year 5)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2014 (2010 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 13:** *Mathematics, Grade 12 student book, science track (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 14:** *Mathematics, Grade 12 student book, literary track (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -44,7 +46,9 @@ Every part traces to its book and page.
 | Indefinite integral: antiderivatives, ∫f(x)dx = F(x) + C, power rules, linearity | Laos, Grade 10 student book, L19, printed p. 203 |
 | Definite integral: ∫ₐᵇf(x)dx = F(b) − F(a), its properties and the fundamental-theorem form — correct value ∫₁⁶4dx = 20; the book prints 5 (p. 212, the factor 4 dropped), and the correct value is taught here | Laos, Grade 10 student book, L20, printed p. 209 |
 | Applications of the integral: area under and between curves, volumes of revolution including the washer method | Laos, Grade 10 student book, L21, printed p. 215 |
+| The definite and indefinite integral; integration by substitution; integration by parts; integration of rational functions; areas of plane regions and volumes of solids of revolution | Yemen, Grade 12 science, Unit 7, lessons 7-1–7-6, contents/PDF pp. 210–251 (printed 163 is skipped — cite by contents/PDF number, not footer) |
+| The indefinite integral, the definite integral, applications of integration to areas | Yemen, Grade 12 literary, Unit 3, lessons 3-1–3-3, printed pp. 49–58 |
 
-**Acceptance count: taught in 8 countries (Egypt, Jordan, Greece, Armenia, Vietnam, Libya, Mauritania, Laos).** Egypt carries integration from its first introduction to definite integrals with areas and volumes of revolution; Jordan carries the full methods course — substitution, partial fractions, parts — with areas and volumes; Greece carries indefinite and definite integrals with the F(x) area function and the Mean Value Theorem; Armenia carries the integral chapter in its Grade 12 guide (guide evidence only, the student book not held); Vietnam carries antiderivatives, integrals and their geometric applications; Libya carries areas, volumes of revolution and motion; Mauritania carries integral calculus in three streamed books.
+**Acceptance count: taught in 9 countries (Egypt, Jordan, Greece, Armenia, Vietnam, Libya, Mauritania, Laos, Yemen).** Egypt carries integration from its first introduction to definite integrals with areas and volumes of revolution; Jordan carries the full methods course — substitution, partial fractions, parts — with areas and volumes; Greece carries indefinite and definite integrals with the F(x) area function and the Mean Value Theorem; Armenia carries the integral chapter in its Grade 12 guide (guide evidence only, the student book not held); Vietnam carries antiderivatives, integrals and their geometric applications; Libya carries areas, volumes of revolution and motion; Mauritania carries integral calculus in three streamed books.
 
-**Armenia, worded plainly:** Armenia's Grade 12 student book teaches logic only — the integral chapter lives in the new-format semester-1 teacher's guide, whose student book is not held. The Armenian rows above are teacher-guide evidence, not pupil-book teaching, and the lesson says so. Laos carries integrals whole in Grade 10 — indefinite and definite integrals, the fundamental theorem, areas and volumes of revolution — with the book's ∫₁⁶4dx = 5 slip corrected to 20.
+**Armenia, worded plainly:** Armenia's Grade 12 student book teaches logic only — the integral chapter lives in the new-format semester-1 teacher's guide, whose student book is not held. The Armenian rows above are teacher-guide evidence, not pupil-book teaching, and the lesson says so. Laos carries integrals whole in Grade 10 — indefinite and definite integrals, the fundamental theorem, areas and volumes of revolution — with the book's ∫₁⁶4dx = 5 slip corrected to 20. Yemen carries integrals in Grade 12, in both tracks — basic indefinite and definite integrals with area applications in the literary track, and substitution, parts, rational functions, areas and volumes of revolution in the science track.

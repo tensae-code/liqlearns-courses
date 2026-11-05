@@ -1,6 +1,6 @@
 # Sources — Averages and Spread
 
-countries: Egypt, Jordan, Greece, Libya, Vietnam, Sierra Leone, Mauritania, Laos
+countries: Egypt, Jordan, Greece, Libya, Vietnam, Sierra Leone, Mauritania, Laos, Yemen
 
 Every part traces to its book and page.
 
@@ -28,6 +28,12 @@ Every part traces to its book and page.
 
 **Book 12:** Mathématiques, 6ème AS, lettres originales (6AS-LO) — Mauritania, Mohamedou and Ahmed Mahmoud Mohamed Yacoub, 64 pp., Arabic, written to the 2020 programme. Filed in maths/books/mauritania.md (D9).
 **Book 13:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 14:** *Mathematics, Grade 6 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 15:** *Mathematics, Grade 7 student book (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 16:** *Mathematics, Grade 9 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 17:** *Mathematics, Grade 10 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 18:** *Mathematics, Grade 11 student book, science track, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 19:** *Mathematics, Grade 12 student book, literary track (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -47,7 +53,11 @@ Every part traces to its book and page.
 | Statistical series: counts, frequencies, representation; arithmetic mean, mean deviation; variance, standard deviation | Mauritania, 6AS-LO, Chapter 5, pp.48–60 |
 | Mean, median and mode of discrete data in a statistics project | Sierra Leone, Primary 6 Term 1, Lessons 61–70 (statistics project) |
 | Mean (raw, frequency and grouped midpoints); mode (raw and grouped); median (ordered data and grouped formula); spread: range, sample variance s² and standard deviation s, grouped versions | Laos, Grade 9 student book, L41–L44, printed pp. 225–242 |
+| Arithmetic mean | Yemen, Grade 6 Part 2, Unit 8, lesson 8-7, printed p. 163; Grade 7, Unit 7, lesson 7-3, printed p. 264 |
+| Arithmetic mean, mode, cumulative frequency, median | Yemen, Grade 9 Part 2, Unit 7, lessons 7-1–7-4, printed pp. 111–129 |
+| Measures of central tendency and measures of dispersion | Yemen, Grade 10 Part 2, Unit 10, lessons 10-2–10-3, printed pp. 117–121 |
+| Correlation and scatter shapes; linear regression | Yemen, Grade 11 science Part 2, Unit 10, lessons 10-2–10-3, printed pp. 127–138; Grade 12 literary, Unit 2, lessons 2-2–2-3, printed pp. 33–43 |
 
-**Acceptance count: taught in 8 countries (Egypt, Jordan, Greece, Libya, Vietnam, Sierra Leone, Mauritania, Laos).** Egypt carries the mean as a balance point, median/mode/outliers, the range, and quartiles with the semi-interquartile range; Jordan carries quartiles with the box-and-whisker plot and dispersion for grouped data; Greece carries the full ladder from mean to coefficient of variation in three books; Libya carries the weighted mean and the four dispersion measures; Vietnam carries central tendency and spread for ungrouped and grouped samples; Sierra Leone carries the whole ladder from the JSS mean to the SSS standard deviation and mean deviation; Mauritania carries mean, mean deviation, variance and standard deviation.
+**Acceptance count: taught in 9 countries (Egypt, Jordan, Greece, Libya, Vietnam, Sierra Leone, Mauritania, Laos, Yemen).** Egypt carries the mean as a balance point, median/mode/outliers, the range, and quartiles with the semi-interquartile range; Jordan carries quartiles with the box-and-whisker plot and dispersion for grouped data; Greece carries the full ladder from mean to coefficient of variation in three books; Libya carries the weighted mean and the four dispersion measures; Vietnam carries central tendency and spread for ungrouped and grouped samples; Sierra Leone carries the whole ladder from the JSS mean to the SSS standard deviation and mean deviation; Mauritania carries mean, mean deviation, variance and standard deviation.
 
-**Flagged wording, not taught:** Sierra Leone's JSS 3 Term 3 Lesson 124 phrases the frequency-table mean as "add the frequencies given and divide by the total number of rows", with no worked frequency-table example to clarify it. This lesson does not teach that wording: it teaches the correct rule from the same book's Lesson 128 — the estimated mean x̄ = Σfx / Σf, value times frequency, divided by the total frequency. Laos carries averages and spread whole in Grade 9 — mean, mode and median with grouped formulas, and range, variance and standard deviation.
+**Flagged wording, not taught:** Sierra Leone's JSS 3 Term 3 Lesson 124 phrases the frequency-table mean as "add the frequencies given and divide by the total number of rows", with no worked frequency-table example to clarify it. This lesson does not teach that wording: it teaches the correct rule from the same book's Lesson 128 — the estimated mean x̄ = Σfx / Σf, value times frequency, divided by the total frequency. Laos carries averages and spread whole in Grade 9 — mean, mode and median with grouped formulas, and range, variance and standard deviation. Yemen carries averages and spread from the arithmetic mean in Grades 6–7, through mean, mode, cumulative frequency and median in Grade 9 and central tendency and dispersion in Grade 10, to correlation and regression in Grades 11–12.

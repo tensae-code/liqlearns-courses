@@ -1,6 +1,6 @@
 # Sources — Shapes
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen
 
 Every part traces to its book and page.
 
@@ -100,6 +100,12 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 22:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 23:** *Mathematics, Grade 6 student book (secondary year 1)* — Laos, Ministry of Education / Institute of Educational Science Research, 2010 (2009 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 24:** *Mathematics, Grade 7 student book (secondary year 2)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2011. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 25:** *Mathematics, Grade 1 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 26:** *Mathematics, Grade 3 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 27:** *Mathematics, Grade 4 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 28:** *Mathematics, Grade 5 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 29:** *Mathematics, Grade 6 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 30:** *Mathematics, Grade 7 student book (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -127,10 +133,16 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Polygons (regular vs general), quadrilaterals and their properties, rectangles and rhombuses, triangles by sides and angles, constructing figures with ruler and compass; solids and their nets | Laos, Grade 5 student book, L11–L15, printed pp. 30–43; L59–L61, printed pp. 144–155 |
 | Points, lines, segments and rays; intersecting, parallel and perpendicular lines; constructing parallelograms | Laos, Grade 6 student book, L11–L13, printed pp. 81–100 |
 | Parallelograms, rectangles, rhombuses, squares, trapezoids, triangles and circles | Laos, Grade 7 student book, L28–L31 and L38, printed pp. 123–170 |
+| Solids and plane shapes | Yemen, Grade 1 Part 1, Unit 5, lessons 5-1–5-2, printed pp. 118–122 |
+| Solids (cube and cuboid) and polygons, named by number of sides | Yemen, Grade 3 Part 1, Unit 4, lessons 4-2–4-3, printed pp. 82–86 |
+| Rectangle and square, with drawing; triangles and their types | Yemen, Grade 4 Part 2, Unit 7, lessons 4:7–6:7, printed pp. 100–106 |
+| Triangle, parallelogram and rhombus; drawing a triangle, a parallelogram and a rhombus | Yemen, Grade 5 Part 2, Unit 7, lessons 7-3–7-5, printed pp. 108–118; Unit 8, lessons 8-3–8-5, printed pp. 145–157 |
+| Trapezium, circle, cuboid and cube, right prism, cylinder, pyramid and cone | Yemen, Grade 6 Part 2, Unit 6, lessons 6-3–6-8, printed pp. 65–81 |
+| Polygons, cuboid, prism, cylinder, pyramid and cone | Yemen, Grade 7, Unit 6, lessons 6-1 and 6-3–6-7, printed pp. 226 and 236–249 |
 
-**Acceptance count: taught in 12 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 13 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos).** Jordan carries the full sorting ladder
+Libya, Vietnam, Ghana, Laos, Yemen).** Jordan carries the full sorting ladder
 — polygons, triangles two ways, then the parallelogram family
 with its special cases. Egypt carries polygons by vertices in
 Grade 3 and the triangle/trapezium/kite sorting in Grade 5.
@@ -147,4 +159,4 @@ quadrilaterals, polygons, squares and rectangles — in Grade 4.
 South Africa carries triangles, polygons and angles in Grade 9.
 Ghana's evidence is teacher-manual only (JICA B5 Lessons 89–91):
 no pupil textbook in Ghana's set teaches shapes, and the lesson
-words Ghana that way throughout. Laos carries shapes from everyday solids and stick-and-tile shapes in Grade 1, through triangles, quadrilaterals and nets in Grades 2–4, to polygons, quadrilateral properties and solid nets in Grade 5 and the full quadrilateral and triangle range in Grades 6–7.
+words Ghana that way throughout. Laos carries shapes from everyday solids and stick-and-tile shapes in Grade 1, through triangles, quadrilaterals and nets in Grades 2–4, to polygons, quadrilateral properties and solid nets in Grade 5 and the full quadrilateral and triangle range in Grades 6–7. Yemen carries shapes from naming solids and plane shapes in Grade 1, through polygons, rectangles, squares and triangles, to parallelograms, rhombuses, trapeziums and the full set of solids in Grades 6–7.

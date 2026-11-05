@@ -1,6 +1,6 @@
 # Sources — Complex Numbers
 
-countries: Egypt, Jordan, Mauritania, Laos
+countries: Egypt, Jordan, Mauritania, Laos, Yemen
 
 Every part traces to its book and page.
 
@@ -14,6 +14,7 @@ Every part traces to its book and page.
 
 **Book 5:** Mathématiques, 7ème AS, sciences de la nature (7AS-D) — Mauritania, Mohameden Ould El Hadi and Mohameden Ould Bah, 122 pp., French, for the 2025–2026 school year. Filed in maths/books/mauritania.md (D11).
 **Book 6:** *Mathematics, Grade 12 student book (upper-secondary year 7)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2016 (2010 curriculum, revised). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 7:** *Mathematics, Grade 12 student book, science track (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -23,7 +24,8 @@ Every part traces to its book and page.
 | Complex numbers 1; complex numbers 2 | Mauritania, 7AS-C, Chapters 3–4, pp.37–62 |
 | Complex numbers as x + iy with i² = −1; algebraic form, real/imaginary parts, conjugate (worked: z = 1 + 2i → z̄ = 1 − 2i; z = 5i → z̄ = −5i; conjugate of sum/product, symmetry about the real axis) | Mauritania, 7AS-D, Chapter 1, p.9 |
 | Complex numbers: z = a + bi, modulus, conjugate; trigonometric form, De Moivre's formula, nth roots | Laos, Grade 12 student book, L12–L13, printed pp. 120–144 |
+| Complex numbers: the complex number, addition and subtraction, multiplication and division, polar form, powers and roots, solving a second-degree equation | Yemen, Grade 12 science, Unit 1, lessons 1-1–1-6, printed pp. 7–40 |
 
-**Acceptance count: taught in 4 countries (Egypt, Jordan, Mauritania, Laos).** Egypt carries the subject from its first lesson (the imaginary unit, the algebraic form, powers of i) to its Grade 12 finish (trigonometric form, De Moivre, cubic roots of unity); Jordan carries complex numbers, their operations and Argand-plane loci; Mauritania carries complex numbers in two chapters of its C stream and one chapter of its D stream, with conjugates worked in full.
+**Acceptance count: taught in 5 countries (Egypt, Jordan, Mauritania, Laos, Yemen).** Egypt carries the subject from its first lesson (the imaginary unit, the algebraic form, powers of i) to its Grade 12 finish (trigonometric form, De Moivre, cubic roots of unity); Jordan carries complex numbers, their operations and Argand-plane loci; Mauritania carries complex numbers in two chapters of its C stream and one chapter of its D stream, with conjugates worked in full.
 
-**Honest limit:** only three of the eleven read countries teach complex numbers at all. Sierra Leone's SSS never teaches them; Libya has no complex numbers anywhere; Vietnam teaches none; Greece teaches none; Kazakhstan's set tops out at Grade 9; Armenia teaches none; Mauritania's 3AS/4AS streams teach none. This lesson stands on Egypt, Jordan and Mauritania, and says so plainly. Laos carries complex numbers whole in Grade 12 — modulus, conjugate, trigonometric form, De Moivre's formula and nth roots.
+**Honest limit:** only three of the eleven read countries teach complex numbers at all. Sierra Leone's SSS never teaches them; Libya has no complex numbers anywhere; Vietnam teaches none; Greece teaches none; Kazakhstan's set tops out at Grade 9; Armenia teaches none; Mauritania's 3AS/4AS streams teach none. This lesson stands on Egypt, Jordan and Mauritania, and says so plainly. Laos carries complex numbers whole in Grade 12 — modulus, conjugate, trigonometric form, De Moivre's formula and nth roots. Yemen carries complex numbers whole in Grade 12 science — operations, polar form, powers and roots, and solving quadratics over the complex numbers.

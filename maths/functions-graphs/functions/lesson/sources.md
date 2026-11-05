@@ -1,6 +1,6 @@
 # Sources — Functions
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos
+countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen
 
 Every part traces to its book and page.
 
@@ -62,6 +62,9 @@ CITATION CHECK PASSED 2026-11-05).
 **Book 14:** *Mathematics, Grade 10 student book (upper-secondary year 5)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2014 (2010 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 15:** *Mathematics, Grade 11 student book (upper-secondary year 6)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2015. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 16:** *Mathematics, Grade 12 student book (upper-secondary year 7)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2016 (2010 curriculum, revised). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 17:** *Mathematics, Grade 9 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 18:** *Mathematics, Grade 10 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 19:** *Mathematics, Grade 11 student book, science track, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -81,9 +84,12 @@ CITATION CHECK PASSED 2026-11-05).
 | Relations and functions: vertical-line test, even, odd and periodic functions, increasing and decreasing; constant, linear (including sign and floor functions and absolute-value functions), quadratic, cubic and square-root and cube-root functions | Laos, Grade 10 student book, L8–L15, printed pp. 63–165 |
 | Rational functions with limits and asymptotes; exponential and logarithmic functions with graphs, equations, inequalities, maximum and minimum and domain and range | Laos, Grade 11 student book, L11–L26, printed pp. 41–168 |
 | Trigonometric functions (properties, graphs, domain and range), hyperbolic functions, inverse functions including inverse trigonometric and inverse hyperbolic | Laos, Grade 12 student book, L17–L25, printed pp. 189–251 |
+| Function (a relation where no domain element has two images); the linear function, with a graph | Yemen, Grade 9 Part 1, Unit 1, lessons 1-5 and 1-7, printed pp. 32 and 48 |
+| Mappings, including composition of mappings (lesson 2-5, printed p. 44) — composition is taught here under the mappings name | Yemen, Grade 10 Part 1, Unit 2, lessons 2-1–2-5, printed pp. 27–44 |
+| Real functions, types of functions and their graphs, monotonicity | Yemen, Grade 11 science Part 1, Unit 2, lessons 2-1–2-3, printed pp. 28–53 |
 
-**Acceptance count: taught in 7 countries (Egypt, Jordan,
-Kazakhstan, Vietnam, Libya, Mauritania, Laos).** Egypt carries the
+**Acceptance count: taught in 8 countries (Egypt, Jordan,
+Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen).** Egypt carries the
 fullest build — Cartesian product, relation, function, domain
 and range in Preparatory 3; the sign of a function in
 Secondary 1; the inverse function in Grade 11 Pure. Jordan
@@ -103,4 +109,4 @@ Mauritania enters from 5AS. Composite functions are taught
 here as the books' function work put together (two functions
 in a row, inside-out) — the word "composite" is the lesson's
 own label for that book-taught operation, and the inverse is
-taught from Egypt's Grade 11 lesson, not invented. Laos carries functions from mappings and linear and affine functions in Grade 8, through quadratic functions in Grade 9, to the full function course — relations, constant, linear, quadratic, cubic, root, rational, exponential, logarithmic, trigonometric, hyperbolic and inverse functions — in Grades 10–12.
+taught from Egypt's Grade 11 lesson, not invented. Laos carries functions from mappings and linear and affine functions in Grade 8, through quadratic functions in Grade 9, to the full function course — relations, constant, linear, quadratic, cubic, root, rational, exponential, logarithmic, trigonometric, hyperbolic and inverse functions — in Grades 10–12. Yemen carries functions from the function and the linear function in Grade 9, through mappings — including composition of mappings, taught under the mappings name — in Grade 10, to real functions, their types and monotonicity in Grade 11 science.

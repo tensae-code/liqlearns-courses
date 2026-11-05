@@ -1,6 +1,6 @@
 # Sources — Equations
 
-countries: Kazakhstan, Jordan, Greece, South Africa, Armenia, Egypt, Libya, Vietnam, Sierra Leone, Ghana, Laos
+countries: Kazakhstan, Jordan, Greece, South Africa, Armenia, Egypt, Libya, Vietnam, Sierra Leone, Ghana, Laos, Yemen
 
 Every part traces to its book and page.
 
@@ -33,6 +33,12 @@ Every part traces to its book and page.
 **Book 15:** *Mathematics, Grade 6 student book (secondary year 1)* — Laos, Ministry of Education / Institute of Educational Science Research, 2010 (2009 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 16:** *Mathematics, Grade 7 student book (secondary year 2)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2011. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 17:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 18:** *Mathematics, Grade 7 student book (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 19:** *Mathematics, Grade 8 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 20:** *Mathematics, Grade 9 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 21:** *Mathematics, Grade 10 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 22:** *Mathematics, Grade 11 student book, literary track (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 23:** *Mathematics, Grade 11 student book, science track, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -53,5 +59,10 @@ Every part traces to its book and page.
 | Simple equations: x + (−7) = 15, (−8) − x = 2, and multiplication/division forms 6 × x = 42, 60 ÷ x = 5 | Laos, Grade 6 student book, L4, printed pp. 25–32; L5, printed pp. 33–37 |
 | First-degree equations with one unknown, balance-scale model, testing candidates, word problems as equations, product-zero forms | Laos, Grade 7 student book, L20–L22, printed pp. 81–122 |
 | Rational equations: domain, extraneous roots | Laos, Grade 9 student book, L5, printed p. 22 |
+| The open sentence, the equation, first-degree equation in one variable | Yemen, Grade 7, Unit 4, lessons 4-1–4-3, printed pp. 122–130 |
+| First-degree equation in one variable; second-degree equations | Yemen, Grade 8 Part 1, Unit 4, lessons 4-1 and 4-3, printed pp. 111 and 122 |
+| First-degree equation in two variables; second-degree equations in one variable | Yemen, Grade 9 Part 1, Unit 3, lessons 3-1 and 3-3, printed pp. 113 and 141 |
+| Second-degree equations, sum and product of roots, forming an equation from its roots | Yemen, Grade 10 Part 2, Unit 6, lessons 6-1–6-3, printed pp. 7–13 |
+| Solving a system of first-degree equations by matrices | Yemen, Grade 11 literary, Unit 3, lesson 3-4, printed p. 79; Grade 11 science Part 2, Unit 6, lesson 6-7, printed p. 42 |
 
-**Acceptance count: taught in 11 countries (Kazakhstan, Jordan, Greece, South Africa, Armenia, Egypt, Libya, Vietnam, Sierra Leone, Ghana, Laos).** Kazakhstan carries the fullest treatment — the definition, the equivalence rules, the three cases, and a checked word problem. Greece carries the six elementary forms in Grade 7 and first-degree equations in full in Grade 8. Jordan carries one-variable linear equations in Grade 7. South Africa carries balancing in Grade 8 (x + 5 = −4) and equations with fractions in Grade 9. Armenia carries letter expressions and equations in Grade 7. Egypt carries one-step equations in Grade 6 and first-degree equations with the equality properties in Grade 8 Term 2. Libya carries equations with algebraic fractions in Grade 9. Vietnam carries first-degree equations in one unknown in Grade 8. Sierra Leone carries variable-on-both-sides equations in JSS 2 and two-variable linear equations in JSS 3. Ghana carries only teacher-manual evidence (JICA Basic 5, Lessons 86–88). Mauritania is not in this lesson: its 1AS teaches no algebra. Laos carries equations from letter sentences in Grade 4, through one-unknown equations in Grade 6, to first-degree equations with word problems in Grade 7 and rational equations with extraneous roots in Grade 9.
+**Acceptance count: taught in 12 countries (Kazakhstan, Jordan, Greece, South Africa, Armenia, Egypt, Libya, Vietnam, Sierra Leone, Ghana, Laos, Yemen).** Kazakhstan carries the fullest treatment — the definition, the equivalence rules, the three cases, and a checked word problem. Greece carries the six elementary forms in Grade 7 and first-degree equations in full in Grade 8. Jordan carries one-variable linear equations in Grade 7. South Africa carries balancing in Grade 8 (x + 5 = −4) and equations with fractions in Grade 9. Armenia carries letter expressions and equations in Grade 7. Egypt carries one-step equations in Grade 6 and first-degree equations with the equality properties in Grade 8 Term 2. Libya carries equations with algebraic fractions in Grade 9. Vietnam carries first-degree equations in one unknown in Grade 8. Sierra Leone carries variable-on-both-sides equations in JSS 2 and two-variable linear equations in JSS 3. Ghana carries only teacher-manual evidence (JICA Basic 5, Lessons 86–88). Mauritania is not in this lesson: its 1AS teaches no algebra. Laos carries equations from letter sentences in Grade 4, through one-unknown equations in Grade 6, to first-degree equations with word problems in Grade 7 and rational equations with extraneous roots in Grade 9. Yemen carries equations from first-degree equations in one variable in Grade 7, through second-degree equations and equations in two variables, to solving systems by matrices in Grade 11.

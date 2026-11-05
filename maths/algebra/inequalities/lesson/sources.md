@@ -1,6 +1,6 @@
 # Sources — Inequalities
 
-countries: Kazakhstan, Jordan, Egypt, Greece, Armenia, Vietnam, Sierra Leone, Libya, Mauritania, Laos
+countries: Kazakhstan, Jordan, Egypt, Greece, Armenia, Vietnam, Sierra Leone, Libya, Mauritania, Laos, Yemen
 
 Every part traces to its book and page.
 
@@ -35,6 +35,9 @@ Every part traces to its book and page.
 **Book 16:** *Mathematics, Grade 8 student book (secondary year 3)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2012. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 17:** *Mathematics, Grade 10 student book (upper-secondary year 5)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2014 (2010 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 18:** *Mathematics, Grade 11 student book (upper-secondary year 6)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2015. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 19:** *Mathematics, Grade 7 student book (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 20:** *Mathematics, Grade 8 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 21:** *Mathematics, Grade 10 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -57,5 +60,8 @@ Every part traces to its book and page.
 | Systems of inequalities (water-tank word problem, answer 4 < x < 6 — verified in check) | Laos, Grade 8 student book, L16, printed pp. 119–125 |
 | Quadratic inequalities: the sign of a quadratic in all six cases, solution intervals, parameter ranges | Laos, Grade 10 student book, L13, printed p. 131 |
 | Properties of inequalities, notable inequalities, using inequalities to find maximum and minimum values | Laos, Grade 11 student book, L8–L10, printed pp. 33–40 |
+| Inequalities; solving first-degree inequalities in one variable (3س + 9 ≥ −6 → س ≥ −5) | Yemen, Grade 7, Unit 4, lessons 4-5–4-6, printed pp. 141–143 |
+| First-degree inequality in one variable | Yemen, Grade 8 Part 1, Unit 4, lesson 4-2, printed p. 116 |
+| Intervals, first- and second-degree inequalities in one variable, absolute value, systems of inequalities in one and two variables | Yemen, Grade 10 Part 2, Unit 6, lessons 6-4–6-10, printed pp. 16–39 |
 
-**Acceptance count: taught in 10 countries (Kazakhstan, Jordan, Egypt, Greece, Armenia, Vietnam, Sierra Leone, Libya, Mauritania, Laos).** Kazakhstan carries the fullest treatment — six properties in Grade 6, proved properties and quadratic inequalities in Grade 8. Jordan carries linear inequalities in Grade 8 and compound, absolute-value and two-variable inequalities in Grade 9 (systems of inequalities explicitly not taught). Egypt carries inequalities in Grades 6, 7 and 8, with the situations, the spot-the-mistake item and the compound work. Greece carries first-degree inequalities in Grades 8 and 9. Armenia carries inequalities with square roots in Grade 8. Vietnam carries first-degree inequalities in Grade 9. Sierra Leone carries inequalities in JSS 3, holding the sign-reversal rule to its last lesson. Libya carries inequalities in Grade 11, including second-degree inequalities. Mauritania carries equations, inequalities and systems in its 5AS-LO book, Chapter 3. South Africa is not in this lesson: no inequalities teaching is filed from its Grade 7–9 workbooks. Laos carries inequalities from first-degree and absolute-value inequalities in Grade 7, through systems of inequalities in Grade 8, to quadratic inequalities in Grade 10 and notable inequalities in Grade 11.
+**Acceptance count: taught in 11 countries (Kazakhstan, Jordan, Egypt, Greece, Armenia, Vietnam, Sierra Leone, Libya, Mauritania, Laos, Yemen).** Kazakhstan carries the fullest treatment — six properties in Grade 6, proved properties and quadratic inequalities in Grade 8. Jordan carries linear inequalities in Grade 8 and compound, absolute-value and two-variable inequalities in Grade 9 (systems of inequalities explicitly not taught). Egypt carries inequalities in Grades 6, 7 and 8, with the situations, the spot-the-mistake item and the compound work. Greece carries first-degree inequalities in Grades 8 and 9. Armenia carries inequalities with square roots in Grade 8. Vietnam carries first-degree inequalities in Grade 9. Sierra Leone carries inequalities in JSS 3, holding the sign-reversal rule to its last lesson. Libya carries inequalities in Grade 11, including second-degree inequalities. Mauritania carries equations, inequalities and systems in its 5AS-LO book, Chapter 3. South Africa is not in this lesson: no inequalities teaching is filed from its Grade 7–9 workbooks. Laos carries inequalities from first-degree and absolute-value inequalities in Grade 7, through systems of inequalities in Grade 8, to quadratic inequalities in Grade 10 and notable inequalities in Grade 11. Yemen carries inequalities from first-degree inequalities in one variable in Grade 7, through Grade 8, to intervals, second-degree inequalities, absolute value and systems of inequalities in Grade 10.

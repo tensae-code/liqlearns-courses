@@ -1,6 +1,6 @@
 # Sources — Matrices
 
-countries: Egypt, Jordan, Libya, Mauritania, Laos
+countries: Egypt, Jordan, Libya, Mauritania, Laos, Yemen
 
 Every part traces to its book and page.
 
@@ -14,6 +14,8 @@ Every part traces to its book and page.
 
 **Book 5:** Mathématiques, 7ème AS, série C (7AS-C) — Mauritania, IPN pupil manual, 201 pp., French. Filed in maths/books/mauritania.md (D10).
 **Book 6:** *Mathematics, Grade 12 student book (upper-secondary year 7)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2016 (2010 curriculum, revised). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 7:** *Mathematics, Grade 11 student book, literary track (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 8:** *Mathematics, Grade 11 student book, science track, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -27,7 +29,9 @@ Every part traces to its book and page.
 | Equations, inequations, systems, matrices | Mauritania, 6AS-D, Chapter II, p.19 |
 | Linear systems and matrices (Gauss method, determinants and systems) | Mauritania, 7AS-C, Chapter 1, p.7 |
 | Matrices and their properties; determinants and inverse matrices; linear systems, solving linear systems, linear programming | Laos, Grade 12 student book, L7–L11, printed pp. 47–119 |
+| Matrices, operations on matrices, determinants, solving a system of first-degree equations | Yemen, Grade 11 literary, Unit 3, lessons 3-1–3-4, printed pp. 49–79 |
+| Matrices, special matrices, addition, subtraction and multiplication, determinants, the matrix inverse, solving first-degree equations | Yemen, Grade 11 science Part 2, Unit 6, lessons 6-1–6-7, printed pp. 7–42 |
 
-**Acceptance count: taught in 5 countries (Egypt, Jordan, Libya, Mauritania, Laos).** Egypt carries the full matrix unit from organising data to inverses and Cramer's rule; Jordan carries matrix algebra through inverses and Cramer in its business course; Libya carries matrices and determinants with cofactors and compatibility; Mauritania carries matrices beside linear systems in two streamed books, with the Gauss method worked on a 4 × 4 system.
+**Acceptance count: taught in 6 countries (Egypt, Jordan, Libya, Mauritania, Laos, Yemen).** Egypt carries the full matrix unit from organising data to inverses and Cramer's rule; Jordan carries matrix algebra through inverses and Cramer in its business course; Libya carries matrices and determinants with cofactors and compatibility; Mauritania carries matrices beside linear systems in two streamed books, with the Gauss method worked on a 4 × 4 system.
 
-**Honest limit:** Libya's matrices chapter lists no matrix inverse and no solving of systems by matrices — the chapter stops at operations and transpose, and this lesson says so. Sierra Leone's SSS never teaches matrices; Vietnam teaches none; Greece teaches none in the read set; Kazakhstan's set tops out at Grade 9; Armenia teaches none. Laos carries matrices whole in Grade 12 — matrices, determinants and inverses, linear systems and linear programming.
+**Honest limit:** Libya's matrices chapter lists no matrix inverse and no solving of systems by matrices — the chapter stops at operations and transpose, and this lesson says so. Sierra Leone's SSS never teaches matrices; Vietnam teaches none; Greece teaches none in the read set; Kazakhstan's set tops out at Grade 9; Armenia teaches none. Laos carries matrices whole in Grade 12 — matrices, determinants and inverses, linear systems and linear programming. Yemen carries matrices whole in Grade 11, in both tracks — matrices and determinants, inverses and solving systems. Its literary book's worked example on printed p. 70 prints two determinants with dropped minus signs (|4 5; 3 2| printed 7, true −7; |1 2; 6 −4| printed 16, true −16) — the lesson teaches the correct values, never +7/+16.

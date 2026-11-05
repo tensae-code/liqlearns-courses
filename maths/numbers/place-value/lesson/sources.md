@@ -1,6 +1,6 @@
 # Sources — Place-value
 
-countries: Egypt, Armenia, Jordan, Kazakhstan, South Africa, Laos
+countries: Egypt, Armenia, Jordan, Kazakhstan, South Africa, Laos, Yemen
 
 Every part traces to its book and page.
 
@@ -16,6 +16,12 @@ Every part traces to its book and page.
 **Book 10:** *Mathematics, Grade 2 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2020, ISBN 978-9932-406-23-4. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 11:** *Mathematics, Grade 3 student book, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 12:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 13:** *Mathematics, Grade 1 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 14:** *Mathematics, Grade 2 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 15:** *Mathematics, Grade 3 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 16:** *Mathematics, Grade 4 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 17:** *Mathematics, Grade 5 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 18:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -34,5 +40,10 @@ Every part traces to its book and page.
 | Place value to hundreds with sticks and bundles | Laos, Grade 2 student book (new series), ch. 5, printed p. 48 |
 | Expanded forms (59264 = 50000 + 9000 + 200 + 60 + 4), place value and reading numbers to 100000 | Laos, Grade 3 student book, L10, printed p. 38; L26, printed p. 88 |
 | Place value to millions and billions, powers of 10, digit, power-of-ten and expanded forms | Laos, Grade 5 student book, ch. 1, printed pp. 6–15 |
+| Ones and tens within 20, then tens to 100 | Yemen, Grade 1 Part 2, Unit 8, lessons 8-2–8-3, printed pp. 70–72 |
+| Place value within 1000, expanded form (256 = 200 + 50 + 6) | Yemen, Grade 2 Part 2, Unit 6, 4th lesson, printed p. 14 |
+| Expanded form within 10,000 | Yemen, Grade 3 Part 1, Unit 1, lesson 1-3, printed p. 12 |
+| Place value to 999,999, expanded form | Yemen, Grade 4 Part 1, Unit 1, lessons 1:1–3:1, printed pp. 8–19 |
+| Place value to hundreds of millions, then billions | Yemen, Grade 5 Part 1, Unit 1, lessons 1-2–1-3, printed pp. 12–17; Grade 6 Part 1, Unit 1, lesson 1-2, printed p. 12 |
 
-**Acceptance count: taught in 6 countries (Egypt, Armenia, Jordan, Kazakhstan, South Africa, Laos). Egypt carries the full climb — ones, tens and hundreds in Grade 2, three-digit place value in Grade 3, big numbers to the milliards in Grade 4. Armenia carries tens and ones in Grade 2 and number classes to millions in Grade 3. Jordan carries place value from Grade 1 ones and tens to Grade 4 hundred-thousands. Kazakhstan carries place-value components with graphic models in Grade 2. South Africa carries hundreds, tens and units boxes in Grades 2–3. Other read countries teach place value inside their own Grade 2–3 books and join by merge.** Laos carries place value from tens-and-ones to 100 in Grade 1, through hundreds, expanded forms and numbers to 100000 in Grades 2–3, to millions and billions in Grade 5.
+**Acceptance count: taught in 7 countries (Egypt, Armenia, Jordan, Kazakhstan, South Africa, Laos, Yemen). Egypt carries the full climb — ones, tens and hundreds in Grade 2, three-digit place value in Grade 3, big numbers to the milliards in Grade 4. Armenia carries tens and ones in Grade 2 and number classes to millions in Grade 3. Jordan carries place value from Grade 1 ones and tens to Grade 4 hundred-thousands. Kazakhstan carries place-value components with graphic models in Grade 2. South Africa carries hundreds, tens and units boxes in Grades 2–3. Other read countries teach place value inside their own Grade 2–3 books and join by merge.** Laos carries place value from tens-and-ones to 100 in Grade 1, through hundreds, expanded forms and numbers to 100000 in Grades 2–3, to millions and billions in Grade 5. Yemen carries place value from ones and tens in Grade 1 through expanded form to 1000, 10,000 and 999,999, then to hundreds of millions and billions.

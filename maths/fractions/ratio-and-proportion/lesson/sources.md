@@ -1,6 +1,6 @@
 # Sources — Ratio and Proportion
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen
 
 Every part traces to its book and page.
 
@@ -86,6 +86,9 @@ CITATION CHECK PASSED 2026-11-04).
 **Book 15:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 16:** *Mathematics, Grade 6 student book (secondary year 1)* — Laos, Ministry of Education / Institute of Educational Science Research, 2010 (2009 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 17:** *Mathematics, Grade 7 student book (secondary year 2)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2011. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 18:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 19:** *Mathematics, Grade 6 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 20:** *Mathematics, Grade 8 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -105,10 +108,14 @@ CITATION CHECK PASSED 2026-11-04).
 | Direct proportion in tables; inverse proportion (14 workers in 25 days, how long for 35 workers) | Laos, Grade 5 student book, L43–L45, printed pp. 100–111 |
 | Ratio as a quotient a/b; direct proportion with coefficient k; the fourth proportional by cross products; inverse proportion with constant product | Laos, Grade 6 student book, L27–L29 and L31, printed pp. 206–232 and 239–244 |
 | Ordered pairs, direct proportion (y = kx) and inverse proportion (y = k/x), percentages, scale | Laos, Grade 7 student book, L39–L43, printed pp. 171–202 |
+| Ratio and its properties | Yemen, Grade 6 Part 1, Unit 4, lesson 4-1, printed p. 119 |
+| Proportion as equality of two ratios, extremes and means; enlargement and reduction; scale drawing | Yemen, Grade 6 Part 2, Unit 5, lessons 5-1, 5-3–5-4, printed pp. 8, 17–23 |
+| Proportional division, including inheritance as proportional division | Yemen, Grade 6 Part 2, Unit 5, lessons 5-6–5-7, printed pp. 40–43 |
+| Ratio and proportion with Thales' theorem and similarity of triangles | Yemen, Grade 8 Part 2, Unit 6, lessons 6-2, 6-4 and 6-7–6-8, printed pp. 10, 23 and 44–51 |
 
-**Acceptance count: taught in 12 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 13 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos).** Armenia carries the fullest ratio
+Libya, Vietnam, Ghana, Laos, Yemen).** Armenia carries the fullest ratio
 course — ratio, equality of ratios and recipes, cross
 multiplication, direct proportion, map and scale, working
 together; Jordan teaches ratio and equivalent ratios in Grade 6;
@@ -134,4 +141,4 @@ example in Grade 4, ratio tables in Grades 5–6, ratio and rate
 in Grade 7, and ratio and rate again in Grade 9; Kazakhstan
 teaches proportional division in Grade 4 and joint work in
 Grade 5, but no ratio or proportion as such — stated honestly
-above. Laos carries ratio and proportion from proportional tables in Grade 4, through direct and inverse proportion in Grade 5, to ratio, coefficient k, the fourth proportional by cross products and inverse proportion in Grades 6–7.
+above. Laos carries ratio and proportion from proportional tables in Grade 4, through direct and inverse proportion in Grade 5, to ratio, coefficient k, the fourth proportional by cross products and inverse proportion in Grades 6–7. Yemen carries ratio and proportion from ratio in Grade 6 through proportion, enlargement, scale drawing and proportional division (including inheritance), to Thales' theorem and similarity in Grade 8.

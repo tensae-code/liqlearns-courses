@@ -1,6 +1,6 @@
 # Sources — Congruence and similarity
 
-countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos
+countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen
 
 Every part traces to its book and page.
 
@@ -77,6 +77,9 @@ Geometry and Trigonometry — Greece, ITYE «Diophantos» for the
 Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 + CITATION CHECK PASSED).
 **Book 16:** *Mathematics, Grade 7 student book (secondary year 2)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2011. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 17:** *Mathematics, Grade 4 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 18:** *Mathematics, Grade 7 student book (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 19:** *Mathematics, Grade 8 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -96,9 +99,12 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Similar triangles: definition, similarity criteria, properties of similar triangles, applying similarity in proofs and practical work | Armenia, Geometry 8, Chapter III Similar triangles, §11 definition pp.69–73; §12 similarity criteria pp.75–79; §13 properties pp.81–85; §14 applying similarity pp.86–91 |
 | Congruence of triangles; ratio of segments; Thales' theorem; homothety; similarity — similar polygons, similar triangles; ratio of areas of similar figures | Greece, Mathematics C′ Gymnasiou (Grade 9), Part B Geometry and Trigonometry, Ch.1 Geometry, printed pp.186–230 |
 | Triangle midpoint theorem; Thales' theorem (ratios AM/AB, AN/AC, MN/BC); similar triangles and similarity cases (an equal angle plus proportional sides around it) | Laos, Grade 7 student book, L45–L48, printed pp. 203–226 |
+| Congruence of triangles on squared paper, by tracing-paper fold and overlay | Yemen, Grade 4 Part 2, Unit 7, lesson 7:7, printed p. 110 |
+| Triangle congruence in four cases: three sides (SSS), two sides and the included angle (SAS), two angles and a side (ASA), hypotenuse and a leg in a right triangle (RHS) | Yemen, Grade 7, Unit 5, lesson 5-7, printed pp. 187–201 |
+| Similarity and similarity of triangles; Thales' theorem | Yemen, Grade 8 Part 2, Unit 6, lessons 6-4 and 6-7–6-8, printed pp. 23 and 44–51 |
 
-**Acceptance count: taught in 10 countries (Libya, Jordan, Egypt,
-Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos).**
+**Acceptance count: taught in 11 countries (Libya, Jordan, Egypt,
+Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen).**
 Libya carries the fullest single treatment — congruence tests
 including RHS, similarity, applications, and the k² area and k³
 volume rules in one chapter (Grade 9, Chapter 8, pp.156–193).
@@ -118,4 +124,4 @@ criteria in Grade 7 Geometry and similar triangles in Grade 8.
 Greece carries congruence, Thales, homothety and similarity in
 Grade 9. Honest negative: Libya's Grade 9 teaches all of this
 without Pythagoras — similarity is done without it, and the
-lesson does not lean on Pythagoras anywhere. Laos touches this lesson only in part — similarity only: the midpoint theorem, Thales' theorem and similarity cases in Grade 7 — and teaches no congruence cases.
+lesson does not lean on Pythagoras anywhere. Laos touches this lesson only in part — similarity only: the midpoint theorem, Thales' theorem and similarity cases in Grade 7 — and teaches no congruence cases. Yemen carries congruence and similarity whole — triangle congruence by tracing and overlay in Grade 4, the four congruence cases in Grade 7, and Thales' theorem and similarity in Grade 8. Its Grade 8 Part 2 Unit 7 teaches equivalence (equal area), not congruence, and is not stocked here.

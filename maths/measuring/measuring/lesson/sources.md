@@ -1,6 +1,6 @@
 # Sources — Measuring
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen
 
 Every part traces to its book and page.
 
@@ -135,6 +135,11 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 28:** *Mathematics, Grade 4 student book, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 29:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 30:** *Mathematics, Grade 6 student book (secondary year 1)* — Laos, Ministry of Education / Institute of Educational Science Research, 2010 (2009 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 31:** *Mathematics, Grade 1 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 32:** *Mathematics, Grade 2 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 33:** *Mathematics, Grade 3 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 34:** *Mathematics, Grade 4 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 35:** *Mathematics, Grade 6 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -168,10 +173,15 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Length conversions — correct value 2 m 5 dm = 250 cm; the book prints 25 cm (printed p. 103), contradicting its own conversion table on the same page, and the correct value is taught here | Laos, Grade 4 student book (old series), L36, printed p. 102 |
 | Length (km–mm), mass (kg, g, t, plus traditional Lao units baht, salung, hun and the carat), capacity (1 litre = 1 dm³, 1000 litres = 1 m³), time calculations | Laos, Grade 5 student book, L29–L35 and L65, printed pp. 76–89 and 156–163 |
 | Length measurement and the metric ladder (km–hm–dam–m–dm–cm–mm, ×10 steps), measuring instruments and their uses, traditional Lao length units | Laos, Grade 6 student book, L15–L16, printed pp. 108–128 |
+| Lengths, weights, capacity, time of day, days of the week and money compared | Yemen, Grade 1 Part 2, Unit 10, lessons 10-1–10-6, printed pp. 118–135 |
+| Measuring length, capacity and weight; money; reading the clock; estimating time; days and Hijri months; area | Yemen, Grade 2 Part 2, Unit 10, lessons 1st–9th, printed pp. 102–132 |
+| Units of length, capacity (litre, millilitre) and weight (gram, kilogram); reading the clock; perimeter, area and volumes | Yemen, Grade 3 Part 2, Unit 8, lessons 8-1–8-7, printed pp. 60–72 |
+| Units of length; perimeter of shapes, rectangle and square; area and its units; the Hijri and Gregorian calendars | Yemen, Grade 4 Part 2, Unit 8, lessons 1:8–6:8, printed pp. 116–143 |
+| Perimeter and area of the trapezium; circumference and area of the circle; volume and capacity; speed and distance | Yemen, Grade 6 Part 2, Unit 7, lessons 7-2–7-3 and 7-7–7-9, printed pp. 92–98 and 122–134 |
 
-**Acceptance count: taught in 12 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 13 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos).** Sierra Leone carries the cleanest
+Libya, Vietnam, Ghana, Laos, Yemen).** Sierra Leone carries the cleanest
 single ladder — length, mass and volume distinguished, then the
 three conversion tables in JSS 1. Jordan carries the four
 standard units in one Grade 2 unit (centimetre, metre, gram and
@@ -191,4 +201,4 @@ units in Grade 5. South Africa carries converting mass units
 (4 kg 500 g) in Grade 4 and capacity in Grade 6. Ghana's
 evidence is teacher-manual only (JICA B5 Lessons 92–100):
 no pupil textbook in Ghana's set teaches measuring, and the
-lesson words Ghana that way throughout. Laos carries measuring from direct comparison of length, volume and area in Grade 1, through cm, metres, litres and banknotes in Grades 2–3, to the full metric ladder, mass and capacity units and time calculations in Grades 5–6 — with the old Grade 4 book's conversion slip corrected to 2 m 5 dm = 250 cm.
+lesson words Ghana that way throughout. Laos carries measuring from direct comparison of length, volume and area in Grade 1, through cm, metres, litres and banknotes in Grades 2–3, to the full metric ladder, mass and capacity units and time calculations in Grades 5–6 — with the old Grade 4 book's conversion slip corrected to 2 m 5 dm = 250 cm. Yemen carries measuring from comparing lengths, weights and capacity in Grade 1, through measuring with units, clock reading and Hijri months, to perimeter, area, volume and speed and distance in Grade 6.

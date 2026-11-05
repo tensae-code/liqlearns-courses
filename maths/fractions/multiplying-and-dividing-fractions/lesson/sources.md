@@ -1,6 +1,6 @@
 # Sources — Multiplying and Dividing Fractions
 
-countries: Kazakhstan, Jordan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos
+countries: Kazakhstan, Jordan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen
 
 Every part traces to its book and page.
 
@@ -92,6 +92,8 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher evidence
 only: Ghana's set holds no pupil textbook at all.
 **Book 16:** *Mathematics, Grade 7 student book (secondary year 2)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2011. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 17:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 18:** *Mathematics, Grade 5 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 19:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -105,10 +107,12 @@ only: Ghana's set holds no pupil textbook at all.
 | South Africa does not stock this lesson | South Africa's Rainbow Workbooks teach fraction multiplication only inside fraction work that the filing does not pin to a worksheet, so South Africa is not counted for this lesson — stated honestly, not padded |
 | Multiplying fractions (fraction × fraction, literal a/c × b/d); dividing fractions (dividing by 5 = multiplying by 1/5; fraction ÷ whole, whole ÷ fraction, fraction ÷ fraction) | Laos, Grade 7 student book, L7–L8, printed pp. 1–42 |
 | Multiplication and division of rational expressions | Laos, Grade 9 student book, L2, printed p. 5 |
+| Multiplying fractions ((2/3) of (1/2) = 2/6) and dividing fractions | Yemen, Grade 5 Part 2, Unit 5, lessons 5-6–5-7, printed pp. 33–38 |
+| Multiplying and dividing fractions and mixed numbers | Yemen, Grade 6 Part 1, Unit 2, lesson 2-3, printed p. 68 |
 
-**Acceptance count: taught in 11 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 12 countries (Kazakhstan, Jordan,
 Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam,
-Ghana, Laos).** Kazakhstan carries the full course with the rule derived,
+Ghana, Laos, Yemen).** Kazakhstan carries the full course with the rule derived,
 not just stated; Egypt carries the area-model multiplication and
 the two unit-fraction divisions as their own lessons, and the
 Grade 6 division modelling; Jordan carries multiplying and dividing
@@ -123,4 +127,4 @@ of a fraction by a whole number and fraction divided by a whole
 number in Grade 5; Vietnam carries the full Grade 4 fraction
 operations and the two fraction problems in Grade 6; Ghana carries
 the work only as teacher-manual evidence. South Africa is not
-counted here — see the honest note above. Laos carries multiplying and dividing fractions whole in Grade 7 — fraction × fraction and all four division forms — and extends it to rational expressions in Grade 9.
+counted here — see the honest note above. Laos carries multiplying and dividing fractions whole in Grade 7 — fraction × fraction and all four division forms — and extends it to rational expressions in Grade 9. Yemen carries multiplying and dividing fractions from fraction-of-a-fraction in Grade 5 to fractions and mixed numbers in Grade 6.

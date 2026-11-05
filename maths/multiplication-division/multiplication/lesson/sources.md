@@ -1,6 +1,6 @@
 # Sources — Multiplication
 
-countries: Kazakhstan, Egypt, Greece, Libya, Jordan, Armenia, Vietnam, Laos
+countries: Kazakhstan, Egypt, Greece, Libya, Jordan, Armenia, Vietnam, Laos, Yemen
 
 Every part traces to its book and page.
 
@@ -15,6 +15,12 @@ Every part traces to its book and page.
 **Book 9:** *Mathematics, Grade 2 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2020, ISBN 978-9932-406-23-4. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 10:** *Mathematics, Grade 2 teacher guide, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2007 (guides the pre-2016 Grade 2 student book, which is not in the set). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 11:** *Mathematics, Grade 3 student book, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 12:** *Mathematics, Grade 2 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 13:** *Mathematics, Grade 3 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 14:** *Mathematics, Grade 3 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 15:** *Mathematics, Grade 4 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 16:** *Mathematics, Grade 5 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 17:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -32,5 +38,9 @@ Every part traces to its book and page.
 | Multiplication as repeated addition; ×5, ×2, ×3, ×4 tables, then ×6, ×7, ×8, ×9 tables | Laos, Grade 2 student book (new series), ch. 11, printed p. 120; ch. 12, printed p. 148 |
 | Multiplication tables to ×10 | Laos, Grade 2 teacher guide (old series), L39–L43, printed pp. 129–139 (teacher evidence) |
 | Multiplication with carrying (16 × 7 by area grid; 57 × 4 = 228; 143 × 6 = 858); multiplying by 10 and 100 | Laos, Grade 3 student book, L16, printed p. 54; L45, printed p. 152 |
+| Multiplication as repeated addition; ×2, ×5, ×3, ×4 facts (in that order) and commutativity | Yemen, Grade 2 Part 2, Unit 9, lessons 1st–6th, printed pp. 70–80 |
+| ×0 and ×1, then the new ×6, ×7, ×8 and ×9 facts | Yemen, Grade 3 Part 1, Unit 5, lessons 5-2–5-6, printed pp. 110–118 |
+| Multiplying by 10, 100, 1000 and by multiples of ten; two-digit × one-digit | Yemen, Grade 3 Part 2, Unit 7, lessons 7-2–7-4, printed pp. 34–42 |
+| Multiplication within six digits, up to three-digit × three-digit, estimating by rounding | Yemen, Grade 4 Part 1, Unit 3, lessons 2:3–8:3, printed pp. 73–92; Grade 5 Part 1, Unit 3, lessons 3-2–3-4, printed pp. 63–69; Grade 6 Part 1, Unit 1, lesson 1-4, printed p. 20 |
 
-**Acceptance count: taught in 8 countries (Kazakhstan, Egypt, Greece, Libya, Jordan, Armenia, Vietnam, Laos). Kazakhstan carries the tables in order — 2 to 5 in Grade 2, 6 to 9 in Grade 3 — and multiplication by 10 and 100. Egypt carries vertical multiplication, 2-digit and 3-digit by 1-digit, with multiplying by tens and hundreds, in Grade 3. Greece carries the tables from Grade 2 and multiplication with division in Grade 3. Libya carries column multiplication with regrouping to hundreds in Grade 3. Jordan carries the tables for 2 to 5 in Grade 3. Armenia carries finding the unknown factor in Grade 4. Vietnam carries multiplication within 1000 in Grade 3. Other read countries teach multiplying inside their own Grade 2–4 books and join by merge.** Laos carries multiplication as repeated addition with tables ×2–×9 in the new Grade 2 book (to ×10 in the old guide) and multiplication with carrying, including by 10 and 100, in Grade 3.
+**Acceptance count: taught in 9 countries (Kazakhstan, Egypt, Greece, Libya, Jordan, Armenia, Vietnam, Laos, Yemen). Kazakhstan carries the tables in order — 2 to 5 in Grade 2, 6 to 9 in Grade 3 — and multiplication by 10 and 100. Egypt carries vertical multiplication, 2-digit and 3-digit by 1-digit, with multiplying by tens and hundreds, in Grade 3. Greece carries the tables from Grade 2 and multiplication with division in Grade 3. Libya carries column multiplication with regrouping to hundreds in Grade 3. Jordan carries the tables for 2 to 5 in Grade 3. Armenia carries finding the unknown factor in Grade 4. Vietnam carries multiplication within 1000 in Grade 3. Other read countries teach multiplying inside their own Grade 2–4 books and join by merge.** Laos carries multiplication as repeated addition with tables ×2–×9 in the new Grade 2 book (to ×10 in the old guide) and multiplication with carrying, including by 10 and 100, in Grade 3. Yemen carries multiplication from repeated addition and the ×2, ×5, ×3, ×4 facts in Grade 2, through the ×6–×9 facts and multiplying by 10, 100 and 1000, to three-digit by three-digit multiplication with estimating by rounding.

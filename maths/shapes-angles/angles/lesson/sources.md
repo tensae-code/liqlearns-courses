@@ -1,6 +1,6 @@
 # Sources — Angles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen
 
 Every part traces to its book and page.
 
@@ -101,6 +101,11 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 20:** *Mathematics, Grade 6 student book (secondary year 1)* — Laos, Ministry of Education / Institute of Educational Science Research, 2010 (2009 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 21:** *Mathematics, Grade 7 student book (secondary year 2)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2011. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 22:** *Mathematics, Grade 8 student book (secondary year 3)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2012. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 23:** *Mathematics, Grade 3 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 24:** *Mathematics, Grade 4 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 25:** *Mathematics, Grade 5 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 26:** *Mathematics, Grade 6 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 27:** *Mathematics, Grade 7 student book (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -126,10 +131,15 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Angles: kinds (zero, right, straight, full, acute, obtuse), protractor use, vertical angles, angle sums on a straight line | Laos, Grade 6 student book, L18, printed pp. 136–146 |
 | Interior and exterior angles of triangles (cut-out angles to 180°, exterior = sum of the two remote interiors); angles of quadrilaterals (angle sum 360°) | Laos, Grade 7 student book, L36–L37, printed pp. 123–170 |
 | Angles of triangles and parallelograms; inscribed and central angles | Laos, Grade 8 student book, L8, printed pp. 53–77; L24, printed pp. 179–196 |
+| The angle defined (two rays meeting at one point) | Yemen, Grade 3 Part 1, Unit 4, lesson 4-7, printed p. 94 |
+| Types of angles | Yemen, Grade 4 Part 2, Unit 7, lesson 1:7, printed p. 87 |
+| Measuring angles; adjacent angles and vertically opposite angles | Yemen, Grade 5 Part 2, Unit 7, lessons 7-1–7-2, printed pp. 99–103 |
+| Alternate, corresponding and co-interior angles; angles on a straight line; sum of a triangle's angles | Yemen, Grade 6 Part 2, Unit 6, lesson 6-2, printed p. 59; Unit 7, lessons 7-4–7-5, printed pp. 104–109 |
+| Types of angles, relations between angles, vertically opposite angles, parallel lines and triangle angles | Yemen, Grade 7, Unit 5, lessons 5-1–5-6, printed pp. 150–182 |
 
-**Acceptance count: taught in 12 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 13 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos).** Egypt carries the fullest single
+Libya, Vietnam, Ghana, Laos, Yemen).** Egypt carries the fullest single
 treatment — the angle kinds, the protractor, complementary and
 supplementary pairs, the transversal's eight angles, and the
 triangle and quadrilateral sums in one Grade 7 unit. Jordan
@@ -148,4 +158,4 @@ Mauritania carries angle recognition in Grade 3 and angles in
 Grade 6. South Africa carries interior angles in Grade 9.
 Ghana's evidence is teacher-manual only (JICA B5 Lessons
 101–102): no pupil textbook in Ghana's set teaches angles, and
-the lesson words Ghana that way throughout. Laos carries angles from identifying them in Grade 3, through protractor measurement in Grade 4, to kinds, vertical angles and triangle and quadrilateral angle sums in Grades 6–7 and inscribed and central angles in Grade 8.
+the lesson words Ghana that way throughout. Laos carries angles from identifying them in Grade 3, through protractor measurement in Grade 4, to kinds, vertical angles and triangle and quadrilateral angle sums in Grades 6–7 and inscribed and central angles in Grade 8. Yemen carries angles from the angle defined in Grade 3, through angle types and measuring angles, to alternate, corresponding and co-interior angles and the triangle angle sum.

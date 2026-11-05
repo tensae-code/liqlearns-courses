@@ -1,6 +1,6 @@
 # Sources — Addition
 
-countries: Egypt, Jordan, Libya, Kazakhstan, Greece, Armenia, Vietnam, Mauritania, Laos
+countries: Egypt, Jordan, Libya, Kazakhstan, Greece, Armenia, Vietnam, Mauritania, Laos, Yemen
 
 Every part traces to its book and page.
 
@@ -15,6 +15,12 @@ Every part traces to its book and page.
 **Book 9:** *Mathematics, Grade 1 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2017 original / 2020 reprint (one book held twice, ISBN 978-9932-00-174-3, counted once). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 10:** *Mathematics, Grade 2 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2020, ISBN 978-9932-406-23-4. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 11:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 12:** *Mathematics, Grade 1 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 13:** *Mathematics, Grade 1 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 14:** *Mathematics, Grade 2 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 15:** *Mathematics, Grade 3 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 16:** *Mathematics, Grade 4 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 17:** *Mathematics, Grade 5 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -38,5 +44,10 @@ Every part traces to its book and page.
 | Calculating with 3 numbers | Laos, Grade 1 student book (new series), ch. 10, printed p. 90 |
 | Adding 2-digit numbers without and with regrouping, vertical layout; 3-digit addition by place value | Laos, Grade 2 student book (new series), ch. 2, printed p. 12; ch. 9, printed p. 90 |
 | Adding whole numbers and decimals, including kip money problems | Laos, Grade 5 student book, L5, printed pp. 16–29 |
+| Addition within 10, vertical addition, addition facts | Yemen, Grade 1 Part 1, Unit 3, lessons 3-2–3-6, printed pp. 68–78 |
+| Addition within 20 by counting on and on the number line; within 100 without regrouping | Yemen, Grade 1 Part 2, Unit 7, lessons 7-1–7-3, printed pp. 36–42; Unit 9, lessons 9-1–9-3, printed pp. 94–100 |
+| Addition within 1000 with carrying; estimating addition results | Yemen, Grade 2 Part 2, Unit 7, lessons 1st–4th, printed pp. 26–36 |
+| Addition within 10,000, properties of addition, carrying from one and two places | Yemen, Grade 3 Part 1, Unit 2, lessons 2-2–2-5, printed pp. 38–44 |
+| Addition within 999,999, estimating and checking by rounding, to hundreds of millions | Yemen, Grade 4 Part 1, Unit 2, lessons 2:2–3:2, printed pp. 41–44; Grade 5 Part 1, Unit 2, lessons 2-2–2-6, printed pp. 39–49 |
 
-**Acceptance count: taught in 9 countries (Egypt, Jordan, Libya, Kazakhstan, Greece, Armenia, Vietnam, Mauritania, Laos). Egypt carries the column algorithm whole — regrouping ones, carrying to hundreds, three-digit columns. Jordan carries make-ten and doubles in Grade 1 and regrouping in Grade 2. Libya carries adding without regrouping to 100 in Grade 1, regrouping to 1000 in Grade 2, and to 10,000 in Grade 3. Kazakhstan carries the written column algorithm on named cases in Grade 2. Greece carries vertical addition with carrying in Grade 1 Teuxos B. Armenia carries adding with place transitions in Grade 2. Vietnam carries adding without regrouping in Grade 1 and with regrouping in Grade 2. Mauritania carries addition with carrying in Grade 1. Other read countries teach adding inside their own Grade 1–3 books and join by merge.** Laos carries addition from joining groups within 10 and crossing 10 by making 10 in Grade 1, through 2-digit regrouping and 3-digit place-value addition in Grade 2, to whole-number and decimal addition in Grade 5.
+**Acceptance count: taught in 10 countries (Egypt, Jordan, Libya, Kazakhstan, Greece, Armenia, Vietnam, Mauritania, Laos, Yemen). Egypt carries the column algorithm whole — regrouping ones, carrying to hundreds, three-digit columns. Jordan carries make-ten and doubles in Grade 1 and regrouping in Grade 2. Libya carries adding without regrouping to 100 in Grade 1, regrouping to 1000 in Grade 2, and to 10,000 in Grade 3. Kazakhstan carries the written column algorithm on named cases in Grade 2. Greece carries vertical addition with carrying in Grade 1 Teuxos B. Armenia carries adding with place transitions in Grade 2. Vietnam carries adding without regrouping in Grade 1 and with regrouping in Grade 2. Mauritania carries addition with carrying in Grade 1. Other read countries teach adding inside their own Grade 1–3 books and join by merge.** Laos carries addition from joining groups within 10 and crossing 10 by making 10 in Grade 1, through 2-digit regrouping and 3-digit place-value addition in Grade 2, to whole-number and decimal addition in Grade 5. Yemen carries addition from joining within 10 in Grade 1 through carrying within 1000, 10,000 and 999,999, with estimating and checking by rounding, to hundreds of millions in Grade 5.

@@ -1,6 +1,6 @@
 # Sources — Adding and Subtracting Fractions
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen
 
 Every part traces to its book and page.
 
@@ -118,6 +118,10 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 20:** *Mathematics, Grade 4 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2021. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 21:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 22:** *Mathematics, Grade 7 student book (secondary year 2)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2011. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 23:** *Mathematics, Grade 3 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 24:** *Mathematics, Grade 4 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 25:** *Mathematics, Grade 5 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 26:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -132,10 +136,13 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 | Properties, addition and subtraction of fractions with the same denominator | Laos, Grade 4 student book (new series), ch. 14, printed p. 128 |
 | Adding and subtracting fractions, same denominator, then different denominators via a common denominator | Laos, Grade 5 student book, L24–L25, printed pp. 56–75 |
 | Adding and subtracting fractions, same and different denominators | Laos, Grade 7 student book, L5–L6, printed pp. 1–42 |
+| Adding and subtracting two fractions with the same denominator | Yemen, Grade 3 Part 2, Unit 9, lessons 9-5–9-6, printed pp. 90–92 |
+| Adding and subtracting where one denominator divides the other (1/2 + 1/6 = 4/6) | Yemen, Grade 4 Part 2, Unit 5, lessons 7:5, 8:5 and 10:5, printed pp. 31, 35 and 41 |
+| Adding and subtracting fractions and mixed numbers | Yemen, Grade 5 Part 2, Unit 5, lessons 5-3–5-4, printed pp. 19–24; Grade 6 Part 1, Unit 2, lesson 2-2, printed p. 62 |
 
-**Acceptance count: taught in 12 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 13 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos).** Egypt carries the full arc twice — same
+Libya, Vietnam, Ghana, Laos, Yemen).** Egypt carries the full arc twice — same
 denominators in Grade 3, unlike denominators and mixed numbers in
 Grade 5, with estimating as a check; Kazakhstan carries like
 denominators in Grade 4 and unlike denominators with mixed numbers
@@ -152,4 +159,4 @@ mixed numbers in Grade 5; Vietnam carries the full Grade 4 course
 and the Grade 5 unlike-denominator lesson; Ghana carries the work
 only as teacher-manual evidence (B6's "make the denominators the
 same"); South Africa carries adding and subtracting fractions from
-diagrams in Grade 6 Book 1. Laos carries fraction addition and subtraction from same-denominator work in Grade 4, through different denominators via a common denominator in Grade 5, to the full treatment in Grade 7.
+diagrams in Grade 6 Book 1. Laos carries fraction addition and subtraction from same-denominator work in Grade 4, through different denominators via a common denominator in Grade 5, to the full treatment in Grade 7. Yemen carries adding and subtracting fractions from equal denominators in Grade 3, through denominators where one divides the other, to mixed numbers in Grades 5–6.

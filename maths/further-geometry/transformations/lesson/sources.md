@@ -1,6 +1,6 @@
 # Sources — Transformations
 
-countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana, Laos
+countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana, Laos, Yemen
 
 Every part traces to its book and page.
 
@@ -68,6 +68,11 @@ textbook.
 **Book 14:** *Mathematics, Grade 6 student book (secondary year 1)* — Laos, Ministry of Education / Institute of Educational Science Research, 2010 (2009 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 15:** *Mathematics, Grade 7 student book (secondary year 2)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2011. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 16:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 17:** *Mathematics, Grade 3 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 18:** *Mathematics, Grade 7 student book (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 19:** *Mathematics, Grade 8 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 20:** *Mathematics, Grade 9 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 21:** *Mathematics, Grade 10 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -88,10 +93,15 @@ textbook.
 | Reflection in a line, symmetric figures, reflection of angles, segments and circles | Laos, Grade 6 student book, L17 and L19, printed pp. 129–155 |
 | Axial and central symmetry | Laos, Grade 7 student book, L12–L13, printed pp. 43–58 |
 | Translation, reflection and rotation, including the coordinate rotation formula x′ = x cos − y sin, y′ = x sin + y cos | Laos, Grade 9 student book, L35–L37, printed pp. 170–196 |
+| Translation, reflection (flip) and rotation | Yemen, Grade 3 Part 1, Unit 4, lesson 4-8, printed p. 96 |
+| The coordinate system; reflection in the axes | Yemen, Grade 7, Unit 5, lessons 5-8–5-9, printed pp. 205–214 |
+| Translation | Yemen, Grade 8 Part 1, Unit 5, lesson 5-3, printed p. 148 |
+| Reflection, translation, rotation, enlargement | Yemen, Grade 9 Part 2, Unit 6, lessons 6-3–6-6, printed pp. 73–97 |
+| Reflection and translation analytically | Yemen, Grade 10 Part 2, Unit 8, lessons 8-5–8-6, printed pp. 86–90 |
 
-**Acceptance count: taught in 9 countries (Egypt, Jordan,
+**Acceptance count: taught in 10 countries (Egypt, Jordan,
 Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania,
-Ghana, Laos — Ghana as teacher evidence only).** Egypt carries the
+Ghana, Laos — Ghana as teacher evidence only, Yemen).** Egypt carries the
 fullest single treatment — all four moves defined with
 coordinate rules plus composition in Grade 7 Term 2. Jordan
 carries translation and reflection in Grade 6, rotation in
@@ -104,4 +114,4 @@ translation as Grade 9 worksheet practice. Greece carries
 central and axial symmetry in Lykeio Geometry. Mauritania
 carries transformations in the plane in 4AS. Ghana carries
 reflection only, in a teacher manual — worded as teacher
-evidence, never as pupil-book teaching. Laos carries transformations from squared-paper translation, reflection and rotation with coordinates in Grade 5, through line reflection in Grade 6, to full isometries with the coordinate rotation formula in Grade 9.
+evidence, never as pupil-book teaching. Laos carries transformations from squared-paper translation, reflection and rotation with coordinates in Grade 5, through line reflection in Grade 6, to full isometries with the coordinate rotation formula in Grade 9. Yemen carries transformations from translation, reflection and rotation in Grade 3, through reflection in the axes and translation, to reflection, translation, rotation and enlargement and their analytic forms in Grade 10.

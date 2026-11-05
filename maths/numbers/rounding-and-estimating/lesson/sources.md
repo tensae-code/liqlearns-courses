@@ -1,6 +1,6 @@
 # Sources — Rounding-and-estimating
 
-countries: Jordan, Vietnam, Armenia, Egypt, South Africa, Greece, Laos
+countries: Jordan, Vietnam, Armenia, Egypt, South Africa, Greece, Laos, Yemen
 
 Every part traces to its book and page.
 
@@ -13,6 +13,11 @@ Every part traces to its book and page.
 **Book 7:** *Mathematics, Grade 4 pupil book (Μαθηματικά Δ΄ Δημοτικού)* — Greece, Ministry of Education (ITYPE «Diophantos»). Filed in maths/books/greece.md (FULLY READ + CITATION CHECK PASSED).
 **Book 8:** *Mathematics, Grade 4 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2021. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 9:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 10:** *Mathematics, Grade 2 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 11:** *Mathematics, Grade 3 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 12:** *Mathematics, Grade 4 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 13:** *Mathematics, Grade 5 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 14:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -27,5 +32,9 @@ Every part traces to its book and page.
 | Approximate numbers: rounding and estimating sums | Laos, Grade 4 student book (new series), ch. 2, printed p. 16 |
 | Estimating the quotient's digits in whole-number division | Laos, Grade 5 student book, L7, printed pp. 16–29 |
 | Rounding quotients to 0.1, 0.01 and 0.001 | Laos, Grade 5 student book, L22, printed pp. 56–75 |
+| Estimating addition and subtraction results | Yemen, Grade 2 Part 2, Unit 7, 4th lesson, printed p. 36; Unit 8, 4th lesson, printed p. 54 |
+| Rounding numbers within 10,000 to the nearest ten, hundred and thousand | Yemen, Grade 3 Part 1, Unit 1, lesson 1-6, printed p. 20 |
+| Rounding (تدوير) within 999,999 and estimating all four operations by rounding | Yemen, Grade 4 Part 1, Unit 1, lesson 5:1, printed p. 28; Unit 2, lessons 3:2 and 7:2, printed pp. 44 and 55; Unit 3, lesson 8:3, printed p. 92; Unit 4, lesson 8:4, printed p. 129 |
+| Rounding within hundreds of millions and estimating addition, subtraction, multiplication and division | Yemen, Grade 5 Part 1, Unit 1, lesson 1-5, printed p. 27; Unit 2, lesson 2-6, printed p. 49; Unit 3, lessons 3-4 and 3-9, printed pp. 69 and 86; Grade 6 Part 1, Unit 1, lesson 1-5, printed p. 24 |
 
-**Acceptance count: taught in 7 countries (Jordan, Vietnam, Armenia, Egypt, South Africa, Greece, Laos). Jordan carries rounding as its own Grade 2 lesson and prints the estimate-first move inside regrouping. Vietnam carries rounding from tens and hundreds in Grade 3 to thousands and ten-thousands in Grade 4. Armenia carries rounding a natural number to a given place in Grade 3. Egypt carries estimating by place value before solving in Grade 2. South Africa revises rounding to the nearest 5, 10 and 100 in Grade 6. Greece carries estimation strategies for numbers to 20,000 in Grade 4. Other read countries teach rounding inside their own Grade 3–6 books and join by merge.** Laos carries rounding and estimating as its own Grade 4 chapter — approximate numbers and estimating sums — and continues it with estimating quotients and rounding decimal quotients in Grade 5.
+**Acceptance count: taught in 8 countries (Jordan, Vietnam, Armenia, Egypt, South Africa, Greece, Laos, Yemen). Jordan carries rounding as its own Grade 2 lesson and prints the estimate-first move inside regrouping. Vietnam carries rounding from tens and hundreds in Grade 3 to thousands and ten-thousands in Grade 4. Armenia carries rounding a natural number to a given place in Grade 3. Egypt carries estimating by place value before solving in Grade 2. South Africa revises rounding to the nearest 5, 10 and 100 in Grade 6. Greece carries estimation strategies for numbers to 20,000 in Grade 4. Other read countries teach rounding inside their own Grade 3–6 books and join by merge.** Laos carries rounding and estimating as its own Grade 4 chapter — approximate numbers and estimating sums — and continues it with estimating quotients and rounding decimal quotients in Grade 5. Yemen carries rounding from estimating sums and differences within 1000 in Grade 2, through rounding to the nearest ten, hundred and thousand within 10,000, to rounding within 999,999 and estimating all four operations.

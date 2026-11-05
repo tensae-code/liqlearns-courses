@@ -1,6 +1,6 @@
 # Sources — Roots and Surds
 
-countries: Kazakhstan, Jordan, Egypt, Greece, South Africa, Sierra Leone, Libya, Armenia, Vietnam, Laos
+countries: Kazakhstan, Jordan, Egypt, Greece, South Africa, Sierra Leone, Libya, Armenia, Vietnam, Laos, Yemen
 
 Every part traces to its book and page.
 
@@ -28,6 +28,10 @@ Every part traces to its book and page.
 **Book 12:** *Mathematics, Grade 8 student book (secondary year 3)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2012. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 13:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 14:** *Mathematics, Grade 10 student book (upper-secondary year 5)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2014 (2010 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 15:** *Mathematics, Grade 5 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 16:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 17:** *Mathematics, Grade 8 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 18:** *Mathematics, Grade 10 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -46,5 +50,9 @@ Every part traces to its book and page.
 | Square roots: square area a² → side a, √a² = a (a ≥ 0), √a × √b = √(ab), √(a/b) = √a/√b | Laos, Grade 8 student book, L4, printed pp. 1–52 |
 | nth roots, operations with radicals, conjugates, rationalising denominators including cube roots, nested radicals, radical equations | Laos, Grade 9 student book, L9–L11, printed pp. 45–61 |
 | Square-root and cube-root functions: y = √x and y = ∛x, domain, reflections, translations, scaling, solving radical equations graphically | Laos, Grade 10 student book, L15, printed p. 152 |
+| Square root and cube root at whole-number level (√16 = 4, √36 = 6) | Yemen, Grade 5 Part 1, Unit 4, lessons 4-4–4-5, printed pp. 105–108 |
+| Square root and cube root, including √(5⁶) = 5³ = 125 and ∛(7⁶) = 7² = 49 | Yemen, Grade 6 Part 1, Unit 1, lesson 1-8, printed pp. 36–38 |
+| Square root and cube root of a rational number (√0.16 = 0.4) | Yemen, Grade 8 Part 1, Unit 2, lesson 2-9, printed p. 67 |
+| Roots and rational exponents; simplifying roots (√18 = 3√2); adding, subtracting, multiplying and dividing roots | Yemen, Grade 10 Part 1, Unit 3, lessons 3-2–3-5, printed pp. 54–68 |
 
-**Acceptance count: taught in 10 countries (Kazakhstan, Jordan, Egypt, Greece, South Africa, Sierra Leone, Libya, Armenia, Vietnam, Laos).** Kazakhstan carries the deepest treatment — the inverse-operation definition, the irrationality proof, and surd work with sign conditions. Egypt carries the array-built introduction (144 squares, 729 cubes) and the root laws in two grades. Jordan carries surd operations and radical equations in Grade 9. Greece carries the square root and the irrationals in Grade 8. South Africa carries roots as worksheet practice across Grades 8 and 9, with estimation. Sierra Leone carries surds only in SSS 1 (Lessons 87–96) — its JSS never teaches surds as a topic, and the lesson says so. Libya carries the laws of surds in Grade 10. Armenia carries nth roots and rational exponents in Grade 9. Vietnam carries radicals in Grade 9. Ghana is not in this lesson: its JHS curriculum lists surds as a standard, but no taught surd material is filed from its teacher manuals. Laos carries roots from square roots and their rules in Grade 8, through nth roots, radicals and radical equations in Grade 9, to square-root and cube-root functions in Grade 10.
+**Acceptance count: taught in 11 countries (Kazakhstan, Jordan, Egypt, Greece, South Africa, Sierra Leone, Libya, Armenia, Vietnam, Laos, Yemen).** Kazakhstan carries the deepest treatment — the inverse-operation definition, the irrationality proof, and surd work with sign conditions. Egypt carries the array-built introduction (144 squares, 729 cubes) and the root laws in two grades. Jordan carries surd operations and radical equations in Grade 9. Greece carries the square root and the irrationals in Grade 8. South Africa carries roots as worksheet practice across Grades 8 and 9, with estimation. Sierra Leone carries surds only in SSS 1 (Lessons 87–96) — its JSS never teaches surds as a topic, and the lesson says so. Libya carries the laws of surds in Grade 10. Armenia carries nth roots and rational exponents in Grade 9. Vietnam carries radicals in Grade 9. Ghana is not in this lesson: its JHS curriculum lists surds as a standard, but no taught surd material is filed from its teacher manuals. Laos carries roots from square roots and their rules in Grade 8, through nth roots, radicals and radical equations in Grade 9, to square-root and cube-root functions in Grade 10. Yemen carries roots from whole-number square and cube roots in Grade 5, through roots of powers and of rational numbers, to simplifying roots and operating on them in Grade 10.

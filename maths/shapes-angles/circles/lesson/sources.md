@@ -1,6 +1,6 @@
 # Sources — Circles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen
 
 Every part traces to its book and page.
 
@@ -120,6 +120,9 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 **Book 23:** *Mathematics, Grade 7 student book (secondary year 2)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2011. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 24:** *Mathematics, Grade 8 student book (secondary year 3)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2012. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 25:** *Mathematics, Grade 10 student book (upper-secondary year 5)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2014 (2010 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 26:** *Mathematics, Grade 6 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 27:** *Mathematics, Grade 9 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 28:** *Mathematics, Grade 11 student book, science track, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -148,10 +151,13 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 | Circles and discs: centre, radius, diameter, chord, arc, tangent line, interior and exterior points, disc vs circle | Laos, Grade 7 student book, L38, printed pp. 123–170 |
 | Inscribed and central angles: inscribed angle subtending an arc, central angle at the centre O | Laos, Grade 8 student book, L24, printed pp. 179–196 |
 | Circle equations: centre at the origin x² + y² = a², centre (h, k) (x − h)² + (y − k)² = a², general form with its degenerate warnings | Laos, Grade 10 student book, L26, printed p. 291 |
+| The circle, radius defined; circumference and area (C/d ≈ 3.14 = π = 22/7) | Yemen, Grade 6 Part 2, Unit 6, lesson 6-4, printed p. 67; Unit 7, lesson 7-3, printed p. 98 |
+| The circle, chords, central angle and arcs, circular segment, inscribed angle, cyclic quadrilateral, tangent, relative positions of two circles | Yemen, Grade 9 Part 2, Unit 5, lessons 5-1–5-9, printed pp. 7–52 |
+| Equation of the circle, line and circle, equation of the tangent, length of the tangent | Yemen, Grade 11 science Part 2, Unit 7, lessons 7-1–7-4, printed pp. 48–63 |
 
-**Acceptance count: taught in 11 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 12 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Laos).** Kazakhstan carries the full climb — circle
+Libya, Vietnam, Laos, Yemen).** Kazakhstan carries the full climb — circle
 parts in Grade 3, circle and disc in Grades 4 and 5, then the
 practical thread-and-glass discovery of pi with C = πD and the
 disc area in Grade 6. Jordan carries the parts in Grade 6 and
@@ -168,4 +174,4 @@ Grade 3. South Africa carries circle area from the radius in
 Grade 8. Ghana is counted separately and honestly: its Basic 8
 curriculum states the diameter–circumference relationship as a
 standard, but no pupil textbook in Ghana's set teaches circles,
-so Ghana is curriculum evidence only, not a teaching country. Laos carries circles from circumference and area with π ≈ 3.14 in Grade 5 (with the book's 87,5 cm² slip corrected to 78.5 cm²), through circle parts and inscribed and central angles in Grades 7–8, to circle equations in Grade 10.
+so Ghana is curriculum evidence only, not a teaching country. Laos carries circles from circumference and area with π ≈ 3.14 in Grade 5 (with the book's 87,5 cm² slip corrected to 78.5 cm²), through circle parts and inscribed and central angles in Grades 7–8, to circle equations in Grade 10. Yemen carries circles from the circle and its circumference and area in Grade 6, through the full circle unit in Grade 9, to the equation of the circle and tangents in Grade 11 science.

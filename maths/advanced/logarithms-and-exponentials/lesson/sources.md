@@ -1,6 +1,6 @@
 # Sources — Logarithms and Exponentials
 
-countries: Egypt, Jordan, Greece, Armenia, Vietnam, Libya, Mauritania, Laos
+countries: Egypt, Jordan, Greece, Armenia, Vietnam, Libya, Mauritania, Laos, Yemen
 
 Every part traces to its book and page.
 
@@ -28,6 +28,9 @@ Every part traces to its book and page.
 
 **Book 12:** Mathématiques, 7ème AS, sciences de la nature (7AS-D) — Mauritania, Mohameden Ould El Hadi and Mohameden Ould Bah, 122 pp., French, for the 2025–2026 school year. Filed in maths/books/mauritania.md (D11).
 **Book 13:** *Mathematics, Grade 11 student book (upper-secondary year 6)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2015. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 14:** *Mathematics, Grade 10 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 15:** *Mathematics, Grade 11 student book, literary track (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 16:** *Mathematics, Grade 11 student book, science track, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -45,7 +48,10 @@ Every part traces to its book and page.
 | Logarithm and exponential functions | Mauritania, 7AS-D, Chapter 4, p.48 |
 | Exponential functions: graphs and properties, equations and inequalities, maximum and minimum via quadratic reduction, domain and range | Laos, Grade 11 student book, L15–L20, printed pp. 68–124 |
 | Logarithmic functions: definition and properties of logarithms, graphs, equations and inequalities, maximum and minimum via quadratic reduction, domain and range | Laos, Grade 11 student book, L21–L26, printed pp. 125–168 |
+| Powers and roots as background | Yemen, Grade 10 Part 1, Unit 3, lessons 3-1–3-2, printed pp. 48–54 |
+| The concept of the logarithm, rules of logarithms, common and natural logarithms, applications | Yemen, Grade 11 literary, Unit 2, lessons 2-1–2-5, printed pp. 28–45 |
+| The exponential function; logarithms and their properties; the logarithmic function; common and natural logarithms; simplification using logarithms | Yemen, Grade 11 science Part 1, Unit 4, lessons 4-1–4-6, printed pp. 96–116 |
 
-**Acceptance count: taught in 8 countries (Egypt, Jordan, Greece, Armenia, Vietnam, Libya, Mauritania, Laos).** Egypt carries the full arc from rational exponents through the log laws to exp/log calculus; Jordan carries exponential growth and decay, the log laws and exp/log equations; Greece carries the exponential and logarithmic functions in one chapter; Armenia carries both streams' exp/log chapters with equations and inequalities; Vietnam carries the arc from real exponents to exp/log equations; Libya carries the index laws and logarithms from Grade 10 and exp/log calculus in Grade 12; Mauritania carries log and exponential functions in both terminal streams.
+**Acceptance count: taught in 9 countries (Egypt, Jordan, Greece, Armenia, Vietnam, Libya, Mauritania, Laos, Yemen).** Egypt carries the full arc from rational exponents through the log laws to exp/log calculus; Jordan carries exponential growth and decay, the log laws and exp/log equations; Greece carries the exponential and logarithmic functions in one chapter; Armenia carries both streams' exp/log chapters with equations and inequalities; Vietnam carries the arc from real exponents to exp/log equations; Libya carries the index laws and logarithms from Grade 10 and exp/log calculus in Grade 12; Mauritania carries log and exponential functions in both terminal streams.
 
-**Honest limit:** Sierra Leone's SSS never teaches logarithms, and Vietnam teaches no logs or exponentials before Grade 11 Volume 2 — those countries are not counted here, and this lesson stands on the seven countries that do teach the topic. Laos carries exponentials and logarithms whole in Grade 11 — both functions with graphs, properties, equations, inequalities, maxima and minima and domain and range.
+**Honest limit:** Sierra Leone's SSS never teaches logarithms, and Vietnam teaches no logs or exponentials before Grade 11 Volume 2 — those countries are not counted here, and this lesson stands on the seven countries that do teach the topic. Laos carries exponentials and logarithms whole in Grade 11 — both functions with graphs, properties, equations, inequalities, maxima and minima and domain and range. Yemen carries logarithms and exponentials from powers and roots in Grade 10 to the exponential function and logarithms — concept, rules, common and natural logs and applications — in Grade 11, in both tracks.

@@ -1,6 +1,6 @@
 # Sources — Sequences and series
 
-countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos
+countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen
 
 Every part traces to its book and page.
 
@@ -43,6 +43,9 @@ CITATION CHECK PASSED 2026-11-05).
 maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 **Book 9:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 10:** *Mathematics, Grade 12 student book (upper-secondary year 7)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2016 (2010 curriculum, revised). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 11:** *Mathematics, Grade 10 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 12:** *Mathematics, Grade 11 student book, literary track (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 13:** *Mathematics, Grade 11 student book, science track, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -60,9 +63,12 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 | Number patterns; number sequences; geometric patterns; number sequences and equations | South Africa, Grade 9 Book 1, Term 3, WS65 Number patterns; WS66 Number sequences; WS67 More number sequences; WS68 Geometric patterns; WS69 Number sequences and equations, pp.2–59 |
 | Number sequences, balance puzzles and grid directions | Laos, Grade 5 student book, L19–L20, printed pp. 50–55 |
 | Sequences, arithmetic and geometric sequences, limits and sums of sequences, applications of sequences | Laos, Grade 12 student book, L3–L6, printed pp. 13–46 |
+| The symbol Σ, its meaning and properties | Yemen, Grade 10 Part 2, Unit 10, lesson 10-1, printed p. 114 |
+| Sequences, arithmetic sequences, sum of the first n terms of an arithmetic sequence, geometric sequences and their sums | Yemen, Grade 11 literary, Unit 1, lessons 1-1–1-5, printed pp. 7–25 |
+| Sequences, the arithmetic sequence, the geometric sequence (sums folded into the sequence lessons) | Yemen, Grade 11 science Part 1, Unit 3, lessons 3-1–3-3, printed pp. 61–84 |
 
-**Acceptance count: taught in 6 countries (Kazakhstan, Jordan,
-Sierra Leone, Mauritania, South Africa, Laos).** Kazakhstan carries
+**Acceptance count: taught in 7 countries (Kazakhstan, Jordan,
+Sierra Leone, Mauritania, South Africa, Laos, Yemen).** Kazakhstan carries
 the fullest treatment — all four Grade 9 Algebra books prove
 the nth-term formulas, the characteristic properties, both
 sum formulas and the infinite geometric sum, with applied
@@ -78,4 +84,4 @@ teaches no sequences or series, so Egypt is not claimed for
 this lesson; Sierra Leone's SSS 2 teaches the arithmetic
 series sum but no geometric series sum, and its SSS 3 lesson's
 claim that no infinite sum can be found is not taught here —
-the infinite sum rests on Kazakhstan's theorem and Jordan. Laos carries sequences from number sequences and puzzles in Grade 5 to arithmetic and geometric sequences with limits, sums and applications in Grade 12.
+the infinite sum rests on Kazakhstan's theorem and Jordan. Laos carries sequences from number sequences and puzzles in Grade 5 to arithmetic and geometric sequences with limits, sums and applications in Grade 12. Yemen carries sequences and series from Σ notation in Grade 10 to arithmetic and geometric sequences and their sums in Grade 11, in both tracks — with separate sum lessons in the literary track and sums folded into the sequence lessons in the science track.
