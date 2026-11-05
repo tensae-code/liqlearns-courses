@@ -1,6 +1,6 @@
 # Sources — Percentages
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan
 
 Every part traces to its book and page.
 
@@ -119,6 +119,12 @@ READ + CITATION CHECK PASSED 2026-11-04).
 **Book 33:** *Mathematics, Grade 12 student book* — Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-027-7 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 34:** *Mathematics, Grade 6 teacher guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: detailed notes for fractions, decimals and percent (ch. 2).
 **Book 35:** *Mathematics, Grade 8 teacher guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, no year extractable (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: detailed notes for Units 1–3, including interest and loans (Unit 1).
+**Book 36:** *Primary Mathematics — Pupil's Book 4* — South Sudan, Ministry of General Education and Instruction, ©2018. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 37:** *Primary Mathematics — Pupil's Book 6* — South Sudan, Ministry of General Education and Instruction, ©2018. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 38:** *Primary Mathematics — Pupil's Book 7* — South Sudan, Ministry of General Education and Instruction (no © line, ISBN or author printed; same 2018 series). Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 39:** *Primary Mathematics — Pupil's Book 8* — South Sudan, Ministry of General Education and Instruction, ©2018. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 40:** *Secondary Mathematics — Student's Book 1* — South Sudan, Ministry of General Education and Instruction, ©2018, Mountain Top Publishers. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 41:** *Secondary Mathematics — Student's Book 2* — South Sudan, Ministry of General Education and Instruction, ©2018, Mountain Top Publishers. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -153,9 +159,15 @@ READ + CITATION CHECK PASSED 2026-11-04).
 | Trade tax and discount (teacher evidence) | Ethiopia, Grade 6 teacher guide (teacher evidence), ch. 2, PDF pp. 34–51 |
 | Interest and loans (teacher evidence) | Ethiopia, Grade 8 teacher guide (teacher evidence), Unit 1, PDF p. 3 |
 
-**Acceptance count: taught in 16 countries (Kazakhstan, Jordan,
+| Percent as part per hundred; percent ↔ decimal ↔ fraction; percentages of quantities | South Sudan, Pupil's Book 4, 1.6 Percentages, printed pp. 25–31; South Sudan, Pupil's Book 6, 1.4 Decimals, fractions and percentage conversions, printed pp. 9–15 |
+| Percentage increase and decrease | South Sudan, Pupil's Book 7, 1.5 Percentage increase and decrease, printed pp. 7–8 |
+| Fractions ↔ percent; decimals ↔ percent | South Sudan, Pupil's Book 8, 1.4–1.5 Conversion of fractions to percentage and percentage to fractions; conversion of decimals to percentage and percentage to decimals, printed pp. 11–14 |
+| Percentages; percentage profit and loss | South Sudan, Student's Book 1, Unit 1, printed pp. 21–27 |
+| Compound interest as applied percentages | South Sudan, Student's Book 2, compound interest, printed pp. 13–16 |
+
+**Acceptance count: taught in 17 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia).** Kazakhstan defines percent as 1/100
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan).** Kazakhstan defines percent as 1/100
 and finds p% as 1% × p in Grade 4, then carries a full percent
 chapter in Grade 5 — but teaches no percent increase/decrease
 or interest, stated honestly above; Jordan introduces percent
@@ -183,4 +195,4 @@ Grade 5 and ratio and percentage problems in Grade 6; Ghana
 teaches percent only as teacher-manual evidence (B4's percent
 from decimal fractions); South Africa teaches percentages with
 fractions and decimals in Grade 6, percentage increase and
-decrease in Grade 7, and percentage problems in Grade 8. Laos carries percentages from % of a quantity with interest tables in Grade 5, through the x/100 rule and successive discounts in Grade 6, to simple and compound interest in Grade 9. Yemen carries percentages whole in Grade 6 — percentage as a ratio out of 100, converting ratios to percentages and back, profit and loss, and zakat as a percentage application (1/40 = 2.5%). Indonesia carries percentages only in part — hundredths decimals linked to percent in Grade 4, percent only as an application (discounts) in Grade 7 Merdeka, and simple and compound interest in Grades 10 and 12 Revisi; percent is never formally taught as a concept anywhere in the set. Nicaragua carries percentages from the percent concept with increase and discount problems in Grade 5, through percentage with simple interest and commercial discount in the Grade 7 module (module evidence), to simple and compound interest in the Grade 10 module (module evidence); the Grade 10 module's (1,015)^120 misprint on p. 103 is never taught — the correct factor is 1,005. Ethiopia carries percentages from percent as "out of 100" in Grade 5, through trade tax, price discount and simple interest in passing in Grade 6, to profit and loss, simple and compound interest and taxes in Grade 7, simple and compound interest in Grade 8, and business interest, annuities, amortization and depreciation in Grade 12 (business context only).
+decrease in Grade 7, and percentage problems in Grade 8. Laos carries percentages from % of a quantity with interest tables in Grade 5, through the x/100 rule and successive discounts in Grade 6, to simple and compound interest in Grade 9. Yemen carries percentages whole in Grade 6 — percentage as a ratio out of 100, converting ratios to percentages and back, profit and loss, and zakat as a percentage application (1/40 = 2.5%). Indonesia carries percentages only in part — hundredths decimals linked to percent in Grade 4, percent only as an application (discounts) in Grade 7 Merdeka, and simple and compound interest in Grades 10 and 12 Revisi; percent is never formally taught as a concept anywhere in the set. Nicaragua carries percentages from the percent concept with increase and discount problems in Grade 5, through percentage with simple interest and commercial discount in the Grade 7 module (module evidence), to simple and compound interest in the Grade 10 module (module evidence); the Grade 10 module's (1,015)^120 misprint on p. 103 is never taught — the correct factor is 1,005. Ethiopia carries percentages from percent as "out of 100" in Grade 5, through trade tax, price discount and simple interest in passing in Grade 6, to profit and loss, simple and compound interest and taxes in Grade 7, simple and compound interest in Grade 8, and business interest, annuities, amortization and depreciation in Grade 12 (business context only). South Sudan carries percentages from percent as part per hundred with percent↔decimal↔fraction conversions and percentages of quantities in Grade 4 (25% of 80 = 20), through percent conversions in Grade 6, percentage increase and decrease in Grade 7 (200 → 240 = 20% increase), fraction↔percent and decimal↔percent conversions in Grade 8 (3/8 = 37½%), to percentages and percentage profit/loss in Secondary 1 and compound interest as applied percentages in Secondary 2. Honest limit: Grade 4 Example 17 prints "0.54 = 50%" — wrong; 0.54 = 54%.

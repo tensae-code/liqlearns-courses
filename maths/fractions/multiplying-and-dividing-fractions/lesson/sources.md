@@ -1,6 +1,6 @@
 # Sources — Multiplying and Dividing Fractions
 
-countries: Kazakhstan, Jordan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia
+countries: Kazakhstan, Jordan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan
 
 Every part traces to its book and page.
 
@@ -104,6 +104,7 @@ only: Ghana's set holds no pupil textbook at all.
 **Book 27:** *Mathematics, Grade 6 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 28:** *Mathematics, Grade 5 teacher guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: detailed notes for fractions (TG ch. 2 = student ch. 1).
 **Book 29:** *Mathematics, Grade 6 teacher guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: detailed notes for the four operations on fractions and decimals (TG ch. 3 = student ch. 3).
+**Book 30:** *Secondary Mathematics — Student's Book 1* — South Sudan, Ministry of General Education and Instruction, ©2018, Mountain Top Publishers. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -133,9 +134,12 @@ only: Ghana's set holds no pupil textbook at all.
 | Multiplying and dividing fractions (teacher evidence) | Ethiopia, Grade 5 teacher guide (teacher evidence), TG ch. 2 = student ch. 1, PDF pp. 17–28 |
 | Multiplying and dividing fractions and decimals (teacher evidence) | Ethiopia, Grade 6 teacher guide (teacher evidence), ch. 3, PDF pp. 52–67 |
 
-**Acceptance count: taught in 15 countries (Kazakhstan, Jordan,
+| Fraction × fraction: area model, top × top, bottom × bottom, cancel first | South Sudan, Student's Book 1, Unit 1, printed pp. 6–16 |
+| Dividing fractions: multiply by the reciprocal; the rule derived from a rectangle | South Sudan, Student's Book 1, Unit 1, printed pp. 6–16 |
+
+**Acceptance count: taught in 16 countries (Kazakhstan, Jordan,
 Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam,
-Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia).** Kazakhstan carries the full course with the rule derived,
+Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan).** Kazakhstan carries the full course with the rule derived,
 not just stated; Egypt carries the area-model multiplication and
 the two unit-fraction divisions as their own lessons, and the
 Grade 6 division modelling; Jordan carries multiplying and dividing
@@ -150,4 +154,4 @@ of a fraction by a whole number and fraction divided by a whole
 number in Grade 5; Vietnam carries the full Grade 4 fraction
 operations and the two fraction problems in Grade 6; Ghana carries
 the work only as teacher-manual evidence. South Africa is not
-counted here — see the honest note above. Laos carries multiplying and dividing fractions whole in Grade 7 — fraction × fraction and all four division forms — and extends it to rational expressions in Grade 9. Yemen carries multiplying and dividing fractions from fraction-of-a-fraction in Grade 5 to fractions and mixed numbers in Grade 6. Indonesia carries multiplying and dividing fractions from whole-number forms only in Grade 6 (fraction × fraction and fraction ÷ fraction are not taught there), through the full fraction operations in Grade 7 (Merdeka and K13 editions); Grade 5 teaches no fraction multiplication or division at all. Nicaragua carries multiplying and dividing fractions from fraction ×/÷ a natural number in Grade 6, through fraction × fraction by area diagrams with the reciprocal, to fraction ÷ fraction with combined operations, revised in the Grade 7 student book and as rational-number operations in the Grade 7 module (module evidence). Ethiopia carries multiplying and dividing fractions from multiplying fractions and dividing by the reciprocal in Grade 5, to multiplying and dividing fractions and decimals in Grade 6 (0.8 ÷ 1/4 = 16/5 = 3.2).
+counted here — see the honest note above. Laos carries multiplying and dividing fractions whole in Grade 7 — fraction × fraction and all four division forms — and extends it to rational expressions in Grade 9. Yemen carries multiplying and dividing fractions from fraction-of-a-fraction in Grade 5 to fractions and mixed numbers in Grade 6. Indonesia carries multiplying and dividing fractions from whole-number forms only in Grade 6 (fraction × fraction and fraction ÷ fraction are not taught there), through the full fraction operations in Grade 7 (Merdeka and K13 editions); Grade 5 teaches no fraction multiplication or division at all. Nicaragua carries multiplying and dividing fractions from fraction ×/÷ a natural number in Grade 6, through fraction × fraction by area diagrams with the reciprocal, to fraction ÷ fraction with combined operations, revised in the Grade 7 student book and as rational-number operations in the Grade 7 module (module evidence). Ethiopia carries multiplying and dividing fractions from multiplying fractions and dividing by the reciprocal in Grade 5, to multiplying and dividing fractions and decimals in Grade 6 (0.8 ÷ 1/4 = 16/5 = 3.2). South Sudan carries multiplying and dividing fractions only in Secondary 1 — multiplication of fractions and division by reciprocals in Unit 1. Grade 5 teaches no fraction multiplication or division, so Secondary 1 is the sole carrier here.

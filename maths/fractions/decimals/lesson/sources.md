@@ -1,6 +1,6 @@
 # Sources — Decimals
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan
 
 Every part traces to its book and page.
 
@@ -140,6 +140,11 @@ READ + CITATION CHECK PASSED 2026-11-04).
 **Book 42:** *Mathematics, Grade 6 teacher guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: detailed notes for fractions, decimals and percent (ch. 2) and for the four operations on fractions and decimals (ch. 3).
 **Book 43:** *Mathematics, Grade 8 teacher guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, no year extractable (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: detailed notes for Units 1–3, including rational numbers (Unit 1).
 **Book 44:** *Mathematics, Grade 9 teacher guide* (teacher guide) — Ethiopia, Ministry of Education, First Published 2022 (month blank as printed), ISBN 978-999944-2-046-9 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: companions the student book fully; guide Unit 1 = student Unit 2 (the number-system unit), Sets as primer Unit 1' — cite by student unit numbers.
+**Book 45:** *Primary Mathematics — Pupil's Book 5* — South Sudan, Ministry of General Education and Instruction, ©2018, Mountain Top Publishers. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 46:** *Primary Mathematics — Pupil's Book 6* — South Sudan, Ministry of General Education and Instruction, ©2018. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 47:** *Primary Mathematics — Pupil's Book 7* — South Sudan, Ministry of General Education and Instruction (no © line, ISBN or author printed; same 2018 series). Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 48:** *Primary Mathematics — Pupil's Book 8* — South Sudan, Ministry of General Education and Instruction, ©2018. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 49:** *Secondary Mathematics — Student's Book 1* — South Sudan, Ministry of General Education and Instruction, ©2018, Mountain Top Publishers. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -180,9 +185,13 @@ READ + CITATION CHECK PASSED 2026-11-04).
 | Rational numbers (teacher evidence) | Ethiopia, Grade 8 teacher guide (teacher evidence), Unit 1, PDF p. 3 |
 | The number system, including terminating vs repeating decimals (teacher evidence) | Ethiopia, Grade 9 teacher guide (teacher evidence), guide Unit 1 = student Unit 2 |
 
-**Acceptance count: taught in 16 countries (Kazakhstan, Jordan,
+| Fractions ↔ decimals; when a fraction can become a decimal exactly | South Sudan, Pupil's Book 5, 1.8 Fractions and decimals, printed pp. 23–26; South Sudan, Pupil's Book 6, 1.4 Decimals, fractions and percentage conversions, printed pp. 9–15 |
+| Squares and square roots of decimals | South Sudan, Pupil's Book 7, 1.2 Squares and square roots of fractions and decimals, printed pp. 2–4; South Sudan, Pupil's Book 8, 1.3 Squares and square roots of decimals and fractions, printed pp. 9–10 |
+| Fractions, percentages and decimals; recurring decimals | South Sudan, Student's Book 1, Unit 1, printed pp. 16–19 |
+
+**Acceptance count: taught in 17 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia).** Kazakhstan carries the fullest decimal
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan).** Kazakhstan carries the fullest decimal
 course — reading, converting, comparing, all four operations,
 powers of ten and rounding; Jordan carries tenths and hundredths
 in Grade 4, thousandths with all four operations in Grade 5, and
@@ -204,4 +213,4 @@ in Grade 6; Ghana carries decimals only as teacher-manual
 evidence (B4's tenths and decimal addition/subtraction, B6's
 comparison by long division); South Africa carries first decimals
 as tenths on a metre line in Grade 5, systematic decimals to two
-places in Grade 6, and the full decimal worksheets in Grade 7. Laos carries decimals from tenths and hundredths through litres in Grade 4 (to thousandths, with decimal × whole numbers, in the old Grade 4 book) to full decimal calculation, including decimal ÷ decimal, in Grade 5. Yemen carries decimals from tenths and the decimal point in Grade 4, through rounding and all four operations with fraction-to-decimal conversion, to estimating decimal operations in Grade 6. Indonesia carries decimals from tenths and hundredths in Grade 4, through fraction-to-decimal conversion with comparing and ordering (but no decimal operations) in Grade 6, to rational numbers, repeating decimals and decimal operations in Grade 7 Merdeka; Grade 5 teaches no decimals as a topic of their own. Nicaragua carries decimals from tenths with addition and subtraction in Grade 3 (old and 2025 books), through hundredths and thousandths with comparing and rounding in Grade 4, to decimal ×/÷ by naturals in Grade 5 and decimal ×/÷ decimal in Grade 6, revised in the Grade 7 student book and as rational-number decimals in the Grade 7 module (module evidence). Ethiopia carries decimals from tenths and hundredths with comparing in Grade 4, through place value and all four operations in Grade 5, to fraction–decimal conversion, terminating vs non-terminating decimals and operations on decimals in Grade 6, and terminating and repeating decimals in Grades 8–9 (0.777… = 7/9).
+places in Grade 6, and the full decimal worksheets in Grade 7. Laos carries decimals from tenths and hundredths through litres in Grade 4 (to thousandths, with decimal × whole numbers, in the old Grade 4 book) to full decimal calculation, including decimal ÷ decimal, in Grade 5. Yemen carries decimals from tenths and the decimal point in Grade 4, through rounding and all four operations with fraction-to-decimal conversion, to estimating decimal operations in Grade 6. Indonesia carries decimals from tenths and hundredths in Grade 4, through fraction-to-decimal conversion with comparing and ordering (but no decimal operations) in Grade 6, to rational numbers, repeating decimals and decimal operations in Grade 7 Merdeka; Grade 5 teaches no decimals as a topic of their own. Nicaragua carries decimals from tenths with addition and subtraction in Grade 3 (old and 2025 books), through hundredths and thousandths with comparing and rounding in Grade 4, to decimal ×/÷ by naturals in Grade 5 and decimal ×/÷ decimal in Grade 6, revised in the Grade 7 student book and as rational-number decimals in the Grade 7 module (module evidence). Ethiopia carries decimals from tenths and hundredths with comparing in Grade 4, through place value and all four operations in Grade 5, to fraction–decimal conversion, terminating vs non-terminating decimals and operations on decimals in Grade 6, and terminating and repeating decimals in Grades 8–9 (0.777… = 7/9). South Sudan carries decimals from fractions↔decimals in Grade 5 (0.5 → 1/2; 3/4 → 0.75), through decimal conversions in Grade 6, square roots of decimals in Grade 7 (√0.0169 = 0.13), squares and roots of decimals in Grade 8 (0.4² = 0.16; √0.36 = 0.6), to fractions, percentages and decimals with recurring decimals in Secondary 1. Honest limits: Grade 5 sets 1/3 as a decimal without noting it recurs — teach it as 0.333…; Grade 6 prints "1/3 = 0.3", which is wrong (0.333…); Grade 7 prints "√0.0168" for √0.0169. Grade 4 is not cited for decimals — it shows conversion results only, not the topic.

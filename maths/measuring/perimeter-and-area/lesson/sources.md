@@ -1,6 +1,6 @@
 # Sources — Perimeter and Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan
 
 Every part traces to its book and page.
 
@@ -183,6 +183,12 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 51:** *Mathematics, Grade 8 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 52:** *Mathematics, Grade 9 student book* — Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-024-6 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 53:** *Mathematics, Grade 10 student book* — Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-025-3 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 54:** *Primary Mathematics — Pupil's Book 4* — South Sudan, Ministry of General Education and Instruction, ©2018. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 55:** *Primary Mathematics — Pupil's Book 6* — South Sudan, Ministry of General Education and Instruction, ©2018. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 56:** *Primary Mathematics — Pupil's Book 7* — South Sudan, Ministry of General Education and Instruction (no © line, ISBN or author printed; same 2018 series). Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 57:** *Primary Mathematics — Pupil's Book 8* — South Sudan, Ministry of General Education and Instruction, ©2018. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 58:** *Secondary Mathematics — Student's Book 1* — South Sudan, Ministry of General Education and Instruction, ©2018, Mountain Top Publishers. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 59:** *Secondary Mathematics — Student's Book 4* — South Sudan, Ministry of General Education and Instruction, ©2018, Mountain Top Publishers. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -240,11 +246,17 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Perimeter and area of similar triangles — ratio of perimeters = ratio of similarity; ratio of areas = square of the ratio, A₁/A₂ = (5/4)² = 25/16 | Ethiopia, Grade 8 student book, ch. 4 — similarity of figures, printed pp. 91–112 |
 | Area of a regular polygon | Ethiopia, Grade 9 student book, ch. 6 — regular polygons, printed pp. 207–238 |
 | Perimeter/area of segments and sectors — r = 6 cm, θ = 210° → A = 21π cm² | Ethiopia, Grade 10 student book, ch. 5 — circles, printed pp. 251–286 |
+| Area of rectangles and squares — length × width; side × side (no perimeter taught in P4) | South Sudan, Primary Mathematics — Pupil's Book 4, Unit 2 §2.2, printed pp. 35–43 |
+| Acres and hectares; area of triangles — ½bh | South Sudan, Primary Mathematics — Pupil's Book 6, Unit 2 §§2.4–2.5, printed pp. 26–28 |
+| Areas of quadrilaterals — parallelogram L × H; rhombus (a × b)/2; trapezium ½h(L₁ + L₂) | South Sudan, Primary Mathematics — Pupil's Book 7, Unit 2 §2.2, printed pp. 13–16 |
+| Perimeter — rectangle, square, triangle, trapezium, circle, semicircle; area — rectangle, square, triangle, circle, semicircle, trapezium | South Sudan, Primary Mathematics — Pupil's Book 8, Unit 2 §§2.1–2.2, printed pp. 17–36 |
+| Perimeter and circumference; area of polygons and of the circle | South Sudan, Secondary Mathematics — Student's Book 1, Unit 2, printed pp. 29–36 |
+| Area estimation — grid counting, mid-ordinate rule, trapezium rule | South Sudan, Secondary Mathematics — Student's Book 4, Unit 2, printed pp. 20–29 |
 
 
-**Acceptance count: taught in 16 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 17 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia).** Sierra Leone carries the cleanest
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan).** Sierra Leone carries the cleanest
 ladder — perimeter short cuts, rectangle and triangle areas with
 the perpendicular-height rule, and the parallelogram, trapezium
 and composite areas in JSS 2. Jordan carries perimeter and area
@@ -264,4 +276,4 @@ Grade 5. South Africa carries perimeter and area across Grades 5,
 7 and 8. Armenia carries rectangle and square area in Grade 5.
 Ghana's evidence is teacher-manual only (JICA B5 Lessons 92–100):
 no pupil textbook in Ghana's set teaches perimeter and area, and
-the lesson words Ghana that way throughout. Laos carries perimeter and area from rectangle and square area in Grade 4, through the full set — rectangle, square, triangle, parallelogram, trapezoid and circle — in Grade 5, to dissection proofs in Grade 7, with the Grade 5 circle-area slip corrected to 78.5 cm². Yemen carries perimeter and area from perimeter and area in Grade 3, through rectangles and squares, to parallelograms, triangles, rhombuses, trapeziums and circles. Indonesia carries perimeter and area from area by counting unit squares in Grade 4 — with no "length × width" formula stated and no perimeter taught at all — to perimeter as the sum of side lengths and the full set of shape areas derived by cutting and rearranging in Grade 5. Nicaragua carries perimeter and area from triangle perimeter in Grade 3, through rectangle and square area with the Nicaraguan land units vara cuadrada and manzana in Grade 4, to polygon perimeters and parallelogram/triangle area in Grade 5, trapezium, rhombus, circle and composite area in Grade 6, and the full polygon/circle/sector range in Grade 7 (student book and module) and the Grade 8 module, with equilateral-triangle and hexagon areas by Pythagoras in Grade 9. Ethiopia carries perimeter and area from rectangle perimeter and area in Grade 4, through area by counting unit squares and rectangle area in Grade 5 (no perimeter formula work there — the guide expects square and rectangle perimeter in §8.4, guide-only), to perimeter and area of triangles, quadrilaterals, circles and composite shapes in Grade 7, perimeter and area of similar triangles in Grade 8, the area of a regular polygon in Grade 9, and segment and sector perimeter and area in Grade 10.
+the lesson words Ghana that way throughout. Laos carries perimeter and area from rectangle and square area in Grade 4, through the full set — rectangle, square, triangle, parallelogram, trapezoid and circle — in Grade 5, to dissection proofs in Grade 7, with the Grade 5 circle-area slip corrected to 78.5 cm². Yemen carries perimeter and area from perimeter and area in Grade 3, through rectangles and squares, to parallelograms, triangles, rhombuses, trapeziums and circles. Indonesia carries perimeter and area from area by counting unit squares in Grade 4 — with no "length × width" formula stated and no perimeter taught at all — to perimeter as the sum of side lengths and the full set of shape areas derived by cutting and rearranging in Grade 5. Nicaragua carries perimeter and area from triangle perimeter in Grade 3, through rectangle and square area with the Nicaraguan land units vara cuadrada and manzana in Grade 4, to polygon perimeters and parallelogram/triangle area in Grade 5, trapezium, rhombus, circle and composite area in Grade 6, and the full polygon/circle/sector range in Grade 7 (student book and module) and the Grade 8 module, with equilateral-triangle and hexagon areas by Pythagoras in Grade 9. Ethiopia carries perimeter and area from rectangle perimeter and area in Grade 4, through area by counting unit squares and rectangle area in Grade 5 (no perimeter formula work there — the guide expects square and rectangle perimeter in §8.4, guide-only), to perimeter and area of triangles, quadrilaterals, circles and composite shapes in Grade 7, perimeter and area of similar triangles in Grade 8, the area of a regular polygon in Grade 9, and segment and sector perimeter and area in Grade 10. South Sudan carries perimeter and area from rectangle and square area in Grade 4 (no perimeter taught there), through acres, hectares and triangle area in Grade 6 and quadrilateral areas in Grade 7, to the full perimeter and area range in Grade 8, perimeter, circumference and area in Secondary 1, and area estimation by grid counting and the mid-ordinate and trapezium rules in Secondary 4 — with the Primary 4 room worked as 2 × 3 = 6 m² corrected to 4 × 6 = 24 m², the Primary 6 area example's unexplained r = 14 set aside for the r = 7 cm → 154 cm² example (p. 25), and the Primary 7 trapezium property "No sides, angles and diagonals are equal" corrected (an isosceles trapezium has equal legs, equal base angles and equal diagonals).

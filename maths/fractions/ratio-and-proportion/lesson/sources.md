@@ -1,6 +1,6 @@
 # Sources — Ratio and Proportion
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan
 
 Every part traces to its book and page.
 
@@ -99,6 +99,10 @@ CITATION CHECK PASSED 2026-11-04).
 **Book 28:** *Mathematics, Grade 6 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 29:** *Mathematics, Grade 7 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 30:** *Mathematics, Grade 12 student book* — Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-027-7 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 31:** *Primary Mathematics — Pupil's Book 4* — South Sudan, Ministry of General Education and Instruction, ©2018. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 32:** *Primary Mathematics — Pupil's Book 6* — South Sudan, Ministry of General Education and Instruction, ©2018. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 33:** *Primary Mathematics — Pupil's Book 7* — South Sudan, Ministry of General Education and Instruction (no © line, ISBN or author printed; same 2018 series). Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 34:** *Secondary Mathematics — Student's Book 1* — South Sudan, Ministry of General Education and Instruction, ©2018, Mountain Top Publishers. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -136,9 +140,13 @@ CITATION CHECK PASSED 2026-11-04).
 | Ratio (including three-term ratios), proportion, direct and inverse proportionality; paint mixture 3:2:1 of 36 gallons → 18/12/6 gallons; a:b:c = 3:4:5, b = 20 → a = 15, c = 25, sum 60 — the Grade 7 student book is image-only (contents-complete filing from rendered pages + 14 sampled interiors, not a page-by-page text read) | Ethiopia, Grade 7 student book, ch. 3, printed pp. 53–94 |
 | Ratio, rate, proportion and percentage in business (§5.1) — business context only | Ethiopia, Grade 12 student book, ch. 5, printed pp. 303–413 |
 
-**Acceptance count: taught in 16 countries (Kazakhstan, Jordan,
+| Ratio as comparison; scaling ratios | South Sudan, Pupil's Book 4, 1.5 Ratio, printed pp. 22–24 |
+| Ratio and proportion by the unitary method | South Sudan, Pupil's Book 6, 1.5 Ratios and proportion, printed pp. 15–17; South Sudan, Pupil's Book 7, 1.4 Ratios and proportions using the unitary method, printed pp. 5–6 |
+| Proportion | South Sudan, Student's Book 1, Unit 1 (Natural numbers, factors and proportion), printed pp. 1–27 |
+
+**Acceptance count: taught in 17 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia).** Armenia carries the fullest ratio
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan).** Armenia carries the fullest ratio
 course — ratio, equality of ratios and recipes, cross
 multiplication, direct proportion, map and scale, working
 together; Jordan teaches ratio and equivalent ratios in Grade 6;
@@ -164,4 +172,4 @@ example in Grade 4, ratio tables in Grades 5–6, ratio and rate
 in Grade 7, and ratio and rate again in Grade 9; Kazakhstan
 teaches proportional division in Grade 4 and joint work in
 Grade 5, but no ratio or proportion as such — stated honestly
-above. Laos carries ratio and proportion from proportional tables in Grade 4, through direct and inverse proportion in Grade 5, to ratio, coefficient k, the fourth proportional by cross products and inverse proportion in Grades 6–7. Yemen carries ratio and proportion from ratio in Grade 6 through proportion, enlargement, scale drawing and proportional division (including inheritance), to Thales' theorem and similarity in Grade 8. Indonesia carries ratio in full — the concept, simplest form, equivalent ratios, unit ratio and part-to-part/part-to-whole ratios in Grade 6, with scale factor, map scale and unit rate in Grade 7 Merdeka — but teaches no proportion equations or cross-multiplication anywhere in the set. Nicaragua carries ratio and proportion from multiplicative comparison in Grade 5, through ratio, equivalent ratios and proportion with the rule of three in Grade 6, to direct and inverse proportion as functions y = ax and y = a/x in the Grade 7 student book, the full rule-of-three and proportional-sharing treatment in the Grade 7 module (module evidence), and ratio between segments on the number line in Grade 9. Ethiopia carries ratio and proportion from direct and inverse proportionality in Grade 6, through ratio (including three-term ratios), proportion and direct and inverse proportionality in Grade 7, to ratio, rate, proportion and percentage in business in Grade 12 (business context only).
+above. Laos carries ratio and proportion from proportional tables in Grade 4, through direct and inverse proportion in Grade 5, to ratio, coefficient k, the fourth proportional by cross products and inverse proportion in Grades 6–7. Yemen carries ratio and proportion from ratio in Grade 6 through proportion, enlargement, scale drawing and proportional division (including inheritance), to Thales' theorem and similarity in Grade 8. Indonesia carries ratio in full — the concept, simplest form, equivalent ratios, unit ratio and part-to-part/part-to-whole ratios in Grade 6, with scale factor, map scale and unit rate in Grade 7 Merdeka — but teaches no proportion equations or cross-multiplication anywhere in the set. Nicaragua carries ratio and proportion from multiplicative comparison in Grade 5, through ratio, equivalent ratios and proportion with the rule of three in Grade 6, to direct and inverse proportion as functions y = ax and y = a/x in the Grade 7 student book, the full rule-of-three and proportional-sharing treatment in the Grade 7 module (module evidence), and ratio between segments on the number line in Grade 9. Ethiopia carries ratio and proportion from direct and inverse proportionality in Grade 6, through ratio (including three-term ratios), proportion and direct and inverse proportionality in Grade 7, to ratio, rate, proportion and percentage in business in Grade 12 (business context only). South Sudan carries ratio and proportion from ratio as comparison with scaling in Grade 4 (3:1 flour:water; 4:5 = 8:10), through ratio/proportion by the unitary method in Grade 6 (2 learners → 10 books, so 5 → 25), ratios and proportions by the unitary method in Grade 7 (12 tins = 30 kg → 5 tins = 12.5 kg), to proportion in Secondary 1 Unit 1. Honest limit: Grade 4 p. 23 asks for unshaded:shaded but gives the fraction 2/6 (shaded:unshaded); the correct unshaded:shaded ratio is 6:2.

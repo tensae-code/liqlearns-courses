@@ -1,6 +1,6 @@
 # Sources — Fractions
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan
 
 Every part traces to its book and page.
 
@@ -143,6 +143,15 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 47:** *Mathematics, Grade 6 teacher guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: detailed notes for fractions, decimals and percent (TG ch. 2 = student ch. 2).
 **Book 48:** *Mathematics, Grade 8 teacher guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, no year extractable (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: detailed notes for Units 1–3, including rational numbers (Unit 1).
 **Book 49:** *Mathematics, Grade 9 teacher guide* (teacher guide) — Ethiopia, Ministry of Education, First Published 2022 (month blank as printed), ISBN 978-999944-2-046-9 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: companions the student book fully; guide Unit 1 = student Unit 2 (the number-system unit), Sets as primer Unit 1' — cite by student unit numbers.
+**Book 50:** *Primary Mathematics — Pupil's Book 2* — South Sudan, Ministry of General Education and Instruction, ©2018. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 51:** *Primary Mathematics — Pupil's Book 3* — South Sudan, Ministry of General Education and Instruction (no © line extractable; same 2018 series). Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 52:** *Primary Mathematics — Teacher's Guide 3* (teacher guide) — South Sudan, Ministry of General Education and Instruction (no © line extractable; same 2018 series). Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: Activity 28 equivalent-fractions key (guide pp. 24–25).
+**Book 53:** *Primary Mathematics — Pupil's Book 4* — South Sudan, Ministry of General Education and Instruction, ©2018. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 54:** *Primary Mathematics — Pupil's Book 5* — South Sudan, Ministry of General Education and Instruction, ©2018, Mountain Top Publishers. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 55:** *Primary Mathematics — Pupil's Book 6* — South Sudan, Ministry of General Education and Instruction, ©2018. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 56:** *Primary Mathematics — Pupil's Book 7* — South Sudan, Ministry of General Education and Instruction (no © line, ISBN or author printed; same 2018 series). Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 57:** *Primary Mathematics — Pupil's Book 8* — South Sudan, Ministry of General Education and Instruction, ©2018. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 58:** *Secondary Mathematics — Student's Book 1* — South Sudan, Ministry of General Education and Instruction, ©2018, Mountain Top Publishers. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -189,9 +198,18 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 | Rational numbers (teacher evidence) | Ethiopia, Grade 8 teacher guide (teacher evidence), Unit 1, PDF p. 3 |
 | The number system, including rational numbers (teacher evidence) | Ethiopia, Grade 9 teacher guide (teacher evidence), guide Unit 1 = student Unit 2 |
 
-**Acceptance count: taught in 16 countries (Kazakhstan, Jordan,
+| A share of a whole; equal parts first; half and quarter; comparing halves and quarters of the same whole | South Sudan, Pupil's Book 2, 1.11 Fractions, printed pp. 36–40 |
+| Equivalent fractions: same amount, different writing; the multiply/divide rule | South Sudan, Pupil's Book 3, 1.7 Comparing simple equivalent fractions, printed pp. 16–21; South Sudan, Pupil's Book 4, 1.4 Addition and subtraction of fractions, printed pp. 18–22 |
+| Equivalent fractions (teacher evidence) | South Sudan, Teacher's Guide 3 (teacher evidence), Activity 28 key, printed pp. 24–25 |
+| Adding and subtracting fractions using LCM; fractions ↔ decimals | South Sudan, Pupil's Book 5, 1.7–1.8 Adding and subtracting fractions using LCM; fractions and decimals, printed pp. 21–26 |
+| Decimal/fraction/percent conversions | South Sudan, Pupil's Book 6, 1.4 Decimals, fractions and percentage conversions, printed pp. 9–15 |
+| Squares and square roots of fractions | South Sudan, Pupil's Book 7, 1.2 Squares and square roots of fractions and decimals, printed pp. 2–4 |
+| Fraction ↔ percent; decimal ↔ percent | South Sudan, Pupil's Book 8, 1.4–1.5 Conversion of fractions to percentage and percentage to fractions; conversion of decimals to percentage and percentage to decimals, printed pp. 11–14 |
+| Fractions whole: types, comparing, ordering, adding, subtracting, multiplying, dividing, mixed numbers, recurring decimals | South Sudan, Student's Book 1, Unit 1, printed pp. 6–19 |
+
+**Acceptance count: taught in 17 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia).** Kazakhstan carries the first share on
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan).** Kazakhstan carries the first share on
 clock faces and the full Grade 5 fraction course with the
 comparing and part-of-a-number rules; Jordan carries the youngest
 path (halves and quarters only in Grade 1, then the full first
@@ -212,4 +230,4 @@ Ghana carries fractions only as teacher-manual evidence (no pupil
 textbook in the set), folding strips and bottle tops; South Africa
 carries halves and quarters in Grade 2, fractions to sixths in
 Grade 3, and the first definitions of proper, mixed and improper
-in Grade 6. Laos carries fractions from their first appearance in Grade 3, through whole–decimal–fraction links and equivalence in Grades 4–5, to rational numbers, repeating decimals and irrationals in Grade 7. Yemen carries fractions from half and quarter in Grade 1, through reading, writing, equivalence and ordering, to improper fractions and mixed numbers and all four operations on fractions. Indonesia carries fractions from halves and quarters in words and pictures in Grade 2, through unit fractions, equivalence and the hundredths-decimal link in Grade 4, comparing, ordering and mixed numbers in Grade 5, fraction-to-decimal conversion in Grade 6, to rational numbers, repeating decimals and irrationals in Grade 7 (Merdeka and K13 editions). Nicaragua carries first fractions in Grade 4 — meaning, fractions of a litre, mixed numbers, conversion and comparing — then equivalent fractions, simplifying and the fraction–decimal link in Grade 5, rationals as a set with order and the number line in the Grade 7 module (module evidence), and a full revision of fraction operations with LCM in the Grade 7 student book. Ethiopia carries fractions from half and quarter in words only in Grade 2 (no fraction symbols), through unit fractions and same-numerator work in Grades 3–4, to proper, improper and mixed fractions in Grade 5, the fraction–decimal–percent link in Grade 6, and rational numbers as a/b in Grades 8–9.
+in Grade 6. Laos carries fractions from their first appearance in Grade 3, through whole–decimal–fraction links and equivalence in Grades 4–5, to rational numbers, repeating decimals and irrationals in Grade 7. Yemen carries fractions from half and quarter in Grade 1, through reading, writing, equivalence and ordering, to improper fractions and mixed numbers and all four operations on fractions. Indonesia carries fractions from halves and quarters in words and pictures in Grade 2, through unit fractions, equivalence and the hundredths-decimal link in Grade 4, comparing, ordering and mixed numbers in Grade 5, fraction-to-decimal conversion in Grade 6, to rational numbers, repeating decimals and irrationals in Grade 7 (Merdeka and K13 editions). Nicaragua carries first fractions in Grade 4 — meaning, fractions of a litre, mixed numbers, conversion and comparing — then equivalent fractions, simplifying and the fraction–decimal link in Grade 5, rationals as a set with order and the number line in the Grade 7 module (module evidence), and a full revision of fraction operations with LCM in the Grade 7 student book. Ethiopia carries fractions from half and quarter in words only in Grade 2 (no fraction symbols), through unit fractions and same-numerator work in Grades 3–4, to proper, improper and mixed fractions in Grade 5, the fraction–decimal–percent link in Grade 6, and rational numbers as a/b in Grades 8–9. South Sudan carries fractions from halves, thirds and quarters as parts of a whole in Grade 2, through equivalent fractions and unit fractions in Grade 3, same-denominator addition and subtraction in Grade 4, fractions with LCM and the fraction–decimal link in Grade 5, decimal/fraction/percent conversions in Grade 6, squares and roots of fractions in Grade 7, fraction–percent and decimal–percent conversions in Grade 8, to the whole fractions course — types, comparing, ordering, all four operations, mixed numbers and recurring decimals — in Secondary 1. Two things are never taught as printed: the Grade 3 chain 1/2 = 2/4 = 4/8 is not printed anywhere in the book, and its Activity 27 claim that 1/4 equals 1/2 is wrong; the Grade 3 teacher guide's Activity 29 key "2/5 = 6/16" is wrong (6/15).

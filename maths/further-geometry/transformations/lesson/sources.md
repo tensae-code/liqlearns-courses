@@ -1,6 +1,6 @@
 # Sources — Transformations
 
-countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia
+countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan
 
 Every part traces to its book and page.
 
@@ -80,6 +80,8 @@ textbook.
 **Book 25:** *MATEMÁTICA 7 — Séptimo grado — Libro de Texto — Educación Secundaria (NICAMATE), Primera Edición 2019* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
 **Book 26:** *Mathematics, Grade 3 student book* — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 27:** *Mathematics, Grade 11 student book* — Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-026-0 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 28:** *Secondary Mathematics — Student's Book 1* — South Sudan, Ministry of General Education and Instruction, ©2018, Mountain Top Publishers. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 29:** *Secondary Mathematics — Student's Book 2* — South Sudan, Ministry of General Education and Instruction, ©2018, Mountain Top Publishers. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -111,11 +113,13 @@ textbook.
 | Transformations of figures — translation, rotation, reflection, introduced descriptively, not with coordinates | Nicaragua, Grade 7 student book, Unit 6, Section 2, printed pp. 125–146 |
 | Moving shapes by sliding, reflecting and turning — an early form, inside geometry shapes | Ethiopia, Grade 3 student book, ch. 9 — geometry shapes, printed pp. 138–150 |
 | Translation, reflection, rotation, and applications — sampled p. 330 (§6.3): reflection in a line y = mx + b by a four-step method (slope m; the line AA′ has slope −1/m; their intersection B is the midpoint of AA′; find A′) | Ethiopia, Grade 11 student book, ch. 6 — transformations of the plane, printed pp. 313–354 (the four-step method prints step 2 twice, "2. 2." — a typo only; the method itself is correct) |
+| Transformation geometry — translation (with vectors), rotation, reflection, enlargement with scale factor and centre | South Sudan, Secondary Mathematics — Student's Book 1, Unit 3, printed pp. 63–73 |
+| Translation review inside vectors | South Sudan, Secondary Mathematics — Student's Book 2, printed pp. 39–42 |
 
 
-**Acceptance count: taught in 13 countries (Egypt, Jordan,
+**Acceptance count: taught in 14 countries (Egypt, Jordan,
 Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania,
-Ghana, Laos — Ghana as teacher evidence only, Yemen, Indonesia, Nicaragua, Ethiopia).** Egypt carries the
+Ghana, Laos — Ghana as teacher evidence only, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan).** Egypt carries the
 fullest single treatment — all four moves defined with
 coordinate rules plus composition in Grade 7 Term 2. Jordan
 carries translation and reflection in Grade 6, rotation in
@@ -128,4 +132,4 @@ translation as Grade 9 worksheet practice. Greece carries
 central and axial symmetry in Lykeio Geometry. Mauritania
 carries transformations in the plane in 4AS. Ghana carries
 reflection only, in a teacher manual — worded as teacher
-evidence, never as pupil-book teaching. Laos carries transformations from squared-paper translation, reflection and rotation with coordinates in Grade 5, through line reflection in Grade 6, to full isometries with the coordinate rotation formula in Grade 9. Yemen carries transformations from translation, reflection and rotation in Grade 3, through reflection in the axes and translation, to reflection, translation, rotation and enlargement and their analytic forms in Grade 10. Indonesia carries transformations from translation, reflection, rotation and dilation in Grade 9, to geometric transformations on the Cartesian plane with matrices and composition in Grade 11 Tingkat Lanjut (2021 student book), with the 2024 TL guide's transformations chapter as guide-only evidence for its own edition. Not stocked here: the transformations of functions in Grade 11 Revisi (Bab 3) and Grade 12 Merdeka (Bab 1) are function transformations, not geometric transformations. Nicaragua touches this lesson only in part — translation, rotation and reflection in Grade 7 only, introduced descriptively and not with coordinates. No dilation/enlargement is taught as a transformation, and no coordinate rules are given. The Grade 9 parabola translations and the Grade 10 trig-graph shifts are function transformations, not geometric transformations, and are not stocked here. Ethiopia touches this lesson only in part — translation, reflection and rotation only: moving shapes by sliding, reflecting and turning in Grade 3 as an early form, and the full transformations chapter in Grade 11. No dilation/enlargement and no shear are taught anywhere in Ethiopia's set, and transformations as a standalone topic exist only in Grade 11.
+evidence, never as pupil-book teaching. Laos carries transformations from squared-paper translation, reflection and rotation with coordinates in Grade 5, through line reflection in Grade 6, to full isometries with the coordinate rotation formula in Grade 9. Yemen carries transformations from translation, reflection and rotation in Grade 3, through reflection in the axes and translation, to reflection, translation, rotation and enlargement and their analytic forms in Grade 10. Indonesia carries transformations from translation, reflection, rotation and dilation in Grade 9, to geometric transformations on the Cartesian plane with matrices and composition in Grade 11 Tingkat Lanjut (2021 student book), with the 2024 TL guide's transformations chapter as guide-only evidence for its own edition. Not stocked here: the transformations of functions in Grade 11 Revisi (Bab 3) and Grade 12 Merdeka (Bab 1) are function transformations, not geometric transformations. Nicaragua touches this lesson only in part — translation, rotation and reflection in Grade 7 only, introduced descriptively and not with coordinates. No dilation/enlargement is taught as a transformation, and no coordinate rules are given. The Grade 9 parabola translations and the Grade 10 trig-graph shifts are function transformations, not geometric transformations, and are not stocked here. Ethiopia touches this lesson only in part — translation, reflection and rotation only: moving shapes by sliding, reflecting and turning in Grade 3 as an early form, and the full transformations chapter in Grade 11. No dilation/enlargement and no shear are taught anywhere in Ethiopia's set, and transformations as a standalone topic exist only in Grade 11. South Sudan carries transformations whole in Secondary 1 — translation (with vectors), rotation, reflection and enlargement with scale factor and centre — with a translation review inside vectors in Secondary 2.
