@@ -1,6 +1,6 @@
 # Sources — Adding and Subtracting Fractions
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal
 
 Every part traces to its book and page.
 
@@ -147,6 +147,12 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 47:** *Mathematics, Class Six* — Bangladesh, NCTB, first publication December 2022, National Curriculum 2022, experimental version, from academic year 2023 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
 **Book 48:** *Mathematics, Class Seven* — Bangladesh, NCTB, first published December 2022, National Curriculum 2022, experimental version, from academic year 2023 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 49:** *मेरो गणित, कक्षा ३ (My Mathematics, Class 3)* — Nepal, CDC, Sanothimi, First edition BS 2051, Revised BS 2064, Reprint BS 2067, ISBN 978-999-33-719-0-8. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 50:** *My Mathematics, Grade 4* — Nepal, CDC, Sanothimi, English Version 2067 BS (English content; filed as Nepali medium). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 51:** *My Mathematics, Grade 5* — Nepal, CDC, Sanothimi, Revised Edition 2066 BS (partial held copy: printed pp. 1–17, all of Unit 1 Geometry, missing). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 52:** *गणित, कक्षा ६ (Mathematics, Grade 6)* — Nepal, CDC, Sanothimi, First edition VS 2078. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 53:** *गणित, कक्षा ७ (Mathematics, Grade 7)* — Nepal, CDC, Sanothimi, First edition VS 2071; revised 2nd edition VS 2076. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Same denominators: add/subtract the numerators, keep the denominator; the piece never changes size | Egypt, Grade 3 Term 2, Ch.9, Adding Two Fractions with the Same Denominator p.58, Subtracting Two Fractions with the Same Denominator p.61; Kazakhstan, Grade 4 Part 3, L110–111 Adding/subtracting fractions, pp.100, 103; Jordan, Grade 4 Term 2, Unit 6, conceptual activity: adding and subtracting like fractions p.13, L2 Adding and subtracting like fractions p.14; Sierra Leone, Primary 3 Term 3, L133 Adding like fractions p.32, L134 Subtracting like fractions p.34 (teacher plans) |
@@ -187,10 +193,15 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 | Addition and subtraction of fractions including mixed numbers | Bangladesh, Class 5 student book, Ch. 6 Fractions, printed pp. 38–64 |
 | Addition and subtraction of fractions | Bangladesh, Class 6 student book, Ch. 4 The Game of Fractions, printed pp. 57–102 |
 | Addition and subtraction of algebraic fractions by paper folding | Bangladesh, Class 7 student book, Exp. 11 The Story of Algebraic Fractions, printed pp. 215–226 |
+| Adding and subtracting LIKE fractions only (add/subtract numerators, keep denominator) | Nepal, Grade 3 Nepali, L22, printed pp. 89–95 |
+| Adding/subtracting like and unlike fractions, including mixed numbers | Nepal, Grade 4, L4 §4.1 Fraction (in pp. 43–69) |
+| Adding and subtracting fractions | Nepal, Grade 5, Unit 12, printed pp. 77–95 |
+| Adding, subtracting, multiplying and dividing fractions, including mixed numbers | Nepal, Grade 6, पाठ 4, printed pp. 53–75 |
+| Adding fractions in word problems (1/3 + 1/4 = 7/12 of Rs 12,000) | Nepal, Grade 7, Unit 16, printed pp. 139–143 |
 
-**Acceptance count: taught in 19 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 20 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh).** Bangladesh carries adding and subtracting fractions from like fractions in Class 3 (Ch. 9, pp. 84–98), through different denominators with reducing to lowest terms in Class 4 (Ch. 8, pp. 87–102), mixed numbers in Class 5 (Ch. 6, pp. 38–64) and addition and subtraction of fractions in Class 6 (Ch. 4, pp. 57–102), to addition and subtraction of algebraic fractions by paper folding in Class 7 (Exp. 11, pp. 215–226). The Class 3 English p. 95 subtraction rule is taught corrected: as printed it swaps minuend and subtrahend — correct is to subtract the subtrahend's numerator from the minuend's — and the Bangla is correct. Iraq carries adding and subtracting fractions from same-denominator work in Grades 3–4 (G3 Ch. 7 L5–L6; G4 Ch. 7 L4–L5), through adding and subtracting fractions with unlike denominators in Grade 5 (3/8 + 1/3 = 17/24, p. 102) and mixed numbers (Ch. 6 L2, p. 105); Grade 6's fraction chapter teaches multiplying and dividing only, so it is not cited here. Egypt carries the full arc twice — same
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal).** Nepal carries adding and subtracting fractions from like fractions only in Grade 3 (L22, pp. 89–95), through like and unlike fractions with mixed numbers in Grade 4 (L4 §4.1), addition and subtraction in Grade 5 (Unit 12, pp. 77–95), to all four operations including mixed numbers in Grade 6 (पाठ 4, pp. 53–75) and fraction addition in word problems in Grade 7 (Unit 16, pp. 139–143). Bangladesh carries adding and subtracting fractions from like fractions in Class 3 (Ch. 9, pp. 84–98), through different denominators with reducing to lowest terms in Class 4 (Ch. 8, pp. 87–102), mixed numbers in Class 5 (Ch. 6, pp. 38–64) and addition and subtraction of fractions in Class 6 (Ch. 4, pp. 57–102), to addition and subtraction of algebraic fractions by paper folding in Class 7 (Exp. 11, pp. 215–226). The Class 3 English p. 95 subtraction rule is taught corrected: as printed it swaps minuend and subtrahend — correct is to subtract the subtrahend's numerator from the minuend's — and the Bangla is correct. Iraq carries adding and subtracting fractions from same-denominator work in Grades 3–4 (G3 Ch. 7 L5–L6; G4 Ch. 7 L4–L5), through adding and subtracting fractions with unlike denominators in Grade 5 (3/8 + 1/3 = 17/24, p. 102) and mixed numbers (Ch. 6 L2, p. 105); Grade 6's fraction chapter teaches multiplying and dividing only, so it is not cited here. Egypt carries the full arc twice — same
 denominators in Grade 3, unlike denominators and mixed numbers in
 Grade 5, with estimating as a check; Kazakhstan carries like
 denominators in Grade 4 and unlike denominators with mixed numbers

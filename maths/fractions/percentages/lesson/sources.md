@@ -1,6 +1,6 @@
 # Sources — Percentages
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal
 
 Every part traces to its book and page.
 
@@ -134,6 +134,12 @@ READ + CITATION CHECK PASSED 2026-11-04).
 **Book 46:** *Mathematics, Class Seven* — Bangladesh, NCTB, first published December 2022, National Curriculum 2022, experimental version, from academic year 2023 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
 **Book 47:** *Mathematics, Class Eight* — Bangladesh, NCTB, published December 2023, National Curriculum 2022, experimental edition, from academic year 2024 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 48:** *My Mathematics, Grade 4* — Nepal, CDC, Sanothimi, English Version 2067 BS (English content; filed as Nepali medium). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 49:** *My Mathematics, Grade 5* — Nepal, CDC, Sanothimi, Revised Edition 2066 BS (partial held copy: printed pp. 1–17, all of Unit 1 Geometry, missing). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 50:** *गणित, कक्षा ६ (Mathematics, Grade 6)* — Nepal, CDC, Sanothimi, First edition VS 2078. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 51:** *गणित, कक्षा ७ (Mathematics, Grade 7)* — Nepal, CDC, Sanothimi, First edition VS 2071; revised 2nd edition VS 2076. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 52:** *गणित, कक्षा ८ (Mathematics, Grade 8)* — Nepal, CDC, Sanothimi, First edition VS 2072; revised 2nd edition VS 2076. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Percent means "out of 100"; 1/100 = 1%; finding 1%, then p% as 1% × p | Kazakhstan, Grade 4 Part 3, Section 3B, L106 Percents p.87 (the "Remember!" box stating 1/100 = 1% is on p.88), L107 Percents p.90, L108 Percents consolidation p.93; Jordan, Grade 5 Term 2, Unit 6, L8 Percent p.33; Egypt, Grade 6 Term 2, Unit 10, L7–11 pp.45–62 (exploring percent on 100-grids); Greece, Grade 5 Teuxos B, Unit 5, ch.31 The percent concept, printed pp.21–22; Armenia, Grade 6, Ch.3 §3.1 Absolute and relative comparisons p.72, §3.3 Percent p.79; Sierra Leone, JSS 1 Term 1, L36–37 Part of 100, printed pp.95–98; Sierra Leone, Primary 5 Term 3, L138 Percent as part of 100, printed p.43 (teacher plans); Ghana, JICA B4 teacher manual, L74–77 percent from decimal fractions, "cent means 100" (teacher evidence); South Africa, Grade 6 Book 1, ws 14–15 percentages and fractions, percentages and decimals |
@@ -178,10 +184,15 @@ READ + CITATION CHECK PASSED 2026-11-04).
 | Percentage and the fraction–percentage relation; percentage shown in a bar model | Bangladesh, Class 6 student book, Ch. 5 Unitary Method, Percentages and Ratio, printed pp. 103–137 |
 | Ratio and percentages | Bangladesh, Class 7 student book, Exp. 4 Ratio, Proportion, printed pp. 80–103 |
 | Simple interest (I = Prn) and compound interest | Bangladesh, Class 8 student book, Exp. 4 Let us build our future with small savings, printed pp. 71–92 |
+| Percent as parts out of 100 (9/100 = 9%); fraction→percent by ×100 | Nepal, Grade 4, L4 §4.3 Percentage, p. 67 (the worked '9/100 × 100% = 90%' is taught corrected: 9%) |
+| Fraction/decimal ↔ percent; percentage of a quantity | Nepal, Grade 5, Unit 13 Percentage, printed pp. 96–101 |
+| Fraction↔decimal↔percent; percentage problems | Nepal, Grade 6, पाठ 6 Percentage, printed pp. 86–91 |
+| Percentages: finding x% (20's x% = 15 → x = 75%), percent of a quantity, percent spent/saved | Nepal, Grade 7, Unit 17 Ratio/Proportion/Percentage, printed pp. 144–151 |
+| Percentages: 1/2 = 50%, 3/5 = 60%, percent of quantities, discount, percent rise | Nepal, Grade 8, Unit 15 §15.3 Percentage (in pp. 119–128) |
 
-**Acceptance count: taught in 19 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 20 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh).** Bangladesh carries percentages from fractions as percentages and percent as “out of 100”, with simple interest and profit and loss percent on cost price, in Class 5 (Ch. 9, pp. 94–99), through percentage and the fraction–percentage relation with a bar model in Class 6 (Ch. 5, pp. 103–137), and ratio and percentages in Class 7 (Exp. 4, pp. 80–103), to simple interest (I = Prn) and compound interest in Class 8 (Exp. 4, pp. 71–92). The Class 8 English p. 76 principal is taught corrected: printed as 1500 tk, correct 15000 tk (Bangla correct; the answer 5400 tk is right for 15000). Iraq carries percentages only in part — percent and fractions in Grade 6 (Ch. 5 L2, p. 103) and percent in use in Grade 7, estimating percent and profit with proportional division (Ch. 2 L2-3–L2-4, pp. 41–45); percent is never formally taught as a concept on its own, and there is no percent increase/decrease or discount work. Kazakhstan defines percent as 1/100
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal).** Nepal carries percentages from a brief introduction in Grade 4 (L4 §4.3, p. 67: percent as parts out of 100, 9/100 = 9%), through fraction/decimal ↔ percent and percentage of a quantity in Grade 5 (Unit 13, pp. 96–101), percentage problems in Grade 6 (पाठ 6, pp. 86–91), to finding x% and percent spent/saved in Grade 7 (Unit 17, pp. 144–151) and percent of quantities with discount and percent rise in Grade 8 (Unit 15 §15.3). Grade 3 teaches no percentages. The Grade 4 worked '9/100 × 100% = 90%' is taught corrected (9%). Bangladesh carries percentages from fractions as percentages and percent as “out of 100”, with simple interest and profit and loss percent on cost price, in Class 5 (Ch. 9, pp. 94–99), through percentage and the fraction–percentage relation with a bar model in Class 6 (Ch. 5, pp. 103–137), and ratio and percentages in Class 7 (Exp. 4, pp. 80–103), to simple interest (I = Prn) and compound interest in Class 8 (Exp. 4, pp. 71–92). The Class 8 English p. 76 principal is taught corrected: printed as 1500 tk, correct 15000 tk (Bangla correct; the answer 5400 tk is right for 15000). Iraq carries percentages only in part — percent and fractions in Grade 6 (Ch. 5 L2, p. 103) and percent in use in Grade 7, estimating percent and profit with proportional division (Ch. 2 L2-3–L2-4, pp. 41–45); percent is never formally taught as a concept on its own, and there is no percent increase/decrease or discount work. Kazakhstan defines percent as 1/100
 and finds p% as 1% × p in Grade 4, then carries a full percent
 chapter in Grade 5 — but teaches no percent increase/decrease
 or interest, stated honestly above; Jordan introduces percent

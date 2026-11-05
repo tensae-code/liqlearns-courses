@@ -1,6 +1,6 @@
 # Sources — Fractions
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal
 
 Every part traces to its book and page.
 
@@ -165,6 +165,15 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 67:** *Mathematics, Class Six* — Bangladesh, NCTB, first publication December 2022, National Curriculum 2022, experimental version, from academic year 2023 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
 **Book 68:** *Mathematics, Class Seven* — Bangladesh, NCTB, first published December 2022, National Curriculum 2022, experimental version, from academic year 2023 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 69:** *My Mathematics, Class 1* — Nepal, CDC, Sanothimi, Fifth Edition (English Version) 2067 BS (English content; filed as Nepali medium). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 70:** *My Mathematics, Class 2* — Nepal, CDC, Sanothimi, Revised Edition 2074 BS (old series, English version). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 71:** *मेरो गणित, कक्षा २ (My Mathematics, Class 2)* — Nepal, CDC, Sanothimi, First Edition BS 2078 (Nepali; textbook and workbook). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 72:** *मेरो गणित, कक्षा ३ (My Mathematics, Class 3)* — Nepal, CDC, Sanothimi, First edition BS 2051, Revised BS 2064, Reprint BS 2067, ISBN 978-999-33-719-0-8. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 73:** *My Mathematics, Grade 4* — Nepal, CDC, Sanothimi, English Version 2067 BS (English content; filed as Nepali medium). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 74:** *My Mathematics, Grade 5* — Nepal, CDC, Sanothimi, Revised Edition 2066 BS (partial held copy: printed pp. 1–17, all of Unit 1 Geometry, missing). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 75:** *गणित, कक्षा ६ (Mathematics, Grade 6)* — Nepal, CDC, Sanothimi, First edition VS 2078. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 76:** *गणित, कक्षा ७ (Mathematics, Grade 7)* — Nepal, CDC, Sanothimi, First edition VS 2071; revised 2nd edition VS 2076. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | A share of a whole; equal parts first; half and quarter; comparing halves and quarters of the same whole | Kazakhstan, Grade 3 Part 2, L41 The notion of a share, p.4; Jordan, Grade 1 Term 2, Unit 9, L1 Congruent (equal) parts p.50, L2 The half p.52, L3 The quarter p.54, L5 Comparing fractions p.58; Greece, Grade 3, Unit 4, ch.22 Introduction to fractions, printed pp.17–28; Sierra Leone, Primary 1 Term 2, L88–92 halves and quarters from pictures and stories (teacher plans) |
@@ -227,10 +236,18 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 | Proper, improper and mixed fractions; converting improper ↔ mixed | Bangladesh, Class 5 student book, Ch. 6 Fractions, printed pp. 38–64 |
 | Comparing fractions; improper and mixed fractions; reciprocal and multiplicative inverse | Bangladesh, Class 6 student book, Ch. 4 The Game of Fractions, printed pp. 57–102 |
 | GCD and LCM of fractions; simplest form | Bangladesh, Class 7 student book, Exp. 3 GCD and LCM of Fractions, printed pp. 57–79 |
+| Half and quarter only, in pictures and words | Nepal, Grade 1, L37 Fraction, printed pp. 74–75 |
+| 1/2, 1/4, 2/4, 3/4, 1/3, 2/3, 1/10, comparing fractions, fraction of a set | Nepal, Grade 2 English, L18 Fraction, printed pp. 61–72 (p. 61 'Two fourth' labelled 2/3 is taught corrected: 2/4) |
+| Half and quarter by folding and sharing; no thirds, no numerator/denominator | Nepal, Grade 2 Nepali, L12, printed pp. 175–180 |
+| Numerator and denominator, like vs unlike fractions, comparing like fractions, equal fractions, adding/subtracting LIKE fractions only | Nepal, Grade 3 Nepali, L22, printed pp. 89–95 |
+| Equivalent fractions, comparing, mixed and improper fractions, adding/subtracting like and unlike fractions | Nepal, Grade 4, L4 §4.1 Fraction (in pp. 43–69) |
+| Fractions: adding, subtracting, multiplying; equivalent fractions | Nepal, Grade 5, Unit 12 Fraction and Decimal, printed pp. 77–95 |
+| Equivalent fractions, comparing, adding, subtracting, multiplying and dividing, including mixed numbers and fraction-of-quantity | Nepal, Grade 6, पाठ 4 Fractions, printed pp. 53–75 |
+| Fractions in word problems (parts of money, students, cake) | Nepal, Grade 7, Unit 16 Fractions & Decimals, printed pp. 139–143 |
 
-**Acceptance count: taught in 19 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 20 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh).** Bangladesh carries fractions from halves, quarters and thirds with numerator and denominator named in Class 3 (Ch. 9, pp. 84–98), through proper vs improper fractions, equivalence, reducing to lowest terms by HCF and common denominators by LCM in Class 4 (Ch. 8, pp. 87–102), proper/improper/mixed conversion in Class 5 (Ch. 6, pp. 38–64), comparing, improper/mixed fractions and reciprocals in Class 6 (Ch. 4, pp. 57–102), to GCD and LCM of fractions in Class 7 (Exp. 3, pp. 57–79). Two Class 3 English-only slips on p. 95 are taught corrected: the fraction-subtraction rule swaps minuend and subtrahend (correct: subtract the subtrahend's numerator from the minuend's), and the bubble reading “in 4/5 and 4/5” should read “in 4/5 and 2/5” — the Bangla is correct on both. Iraq carries fractions from unit fractions, 2/3 and 3/4 in Grade 2, through multiples of unit fractions, equivalence, comparing and ordering and adding and subtracting in Grades 3–4, to decimals and fractions with fraction operations in Grades 5–6. Kazakhstan carries the first share on
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal).** Nepal carries fractions from half and quarter only in Grade 1 (L37, pp. 74–75), through 1/2 to 1/10 with comparing and fraction of a set in Grade 2 English (L18, pp. 61–72) and half/quarter only in the Grade 2 Nepali book (L12, pp. 175–180), numerator/denominator with like-fraction addition and subtraction only in Grade 3 (L22, pp. 89–95), equivalent fractions and like/unlike addition and subtraction with mixed numbers in Grade 4 (L4 §4.1), fraction multiplication in Grade 5 (Unit 12, pp. 77–95), to all four operations on fractions in Grade 6 (पाठ 4, pp. 53–75) and fraction word problems in Grade 7 (Unit 16, pp. 139–143). The Grade 2 English p. 61 label of 'Two fourth' as 2/3 is taught corrected (2/4). Bangladesh carries fractions from halves, quarters and thirds with numerator and denominator named in Class 3 (Ch. 9, pp. 84–98), through proper vs improper fractions, equivalence, reducing to lowest terms by HCF and common denominators by LCM in Class 4 (Ch. 8, pp. 87–102), proper/improper/mixed conversion in Class 5 (Ch. 6, pp. 38–64), comparing, improper/mixed fractions and reciprocals in Class 6 (Ch. 4, pp. 57–102), to GCD and LCM of fractions in Class 7 (Exp. 3, pp. 57–79). Two Class 3 English-only slips on p. 95 are taught corrected: the fraction-subtraction rule swaps minuend and subtrahend (correct: subtract the subtrahend's numerator from the minuend's), and the bubble reading “in 4/5 and 4/5” should read “in 4/5 and 2/5” — the Bangla is correct on both. Iraq carries fractions from unit fractions, 2/3 and 3/4 in Grade 2, through multiples of unit fractions, equivalence, comparing and ordering and adding and subtracting in Grades 3–4, to decimals and fractions with fraction operations in Grades 5–6. Kazakhstan carries the first share on
 clock faces and the full Grade 5 fraction course with the
 comparing and part-of-a-number rules; Jordan carries the youngest
 path (halves and quarters only in Grade 1, then the full first

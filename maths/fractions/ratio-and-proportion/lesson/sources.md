@@ -1,6 +1,6 @@
 # Sources — Ratio and Proportion
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal
 
 Every part traces to its book and page.
 
@@ -113,6 +113,13 @@ CITATION CHECK PASSED 2026-11-04).
 **Book 40:** *Mathematics, Class Six* — Bangladesh, NCTB, first publication December 2022, National Curriculum 2022, experimental version, from academic year 2023 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
 **Book 41:** *Mathematics, Class Seven* — Bangladesh, NCTB, first published December 2022, National Curriculum 2022, experimental version, from academic year 2023 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 42:** *मेरो गणित, कक्षा ३ (My Mathematics, Class 3)* — Nepal, CDC, Sanothimi, First edition BS 2051, Revised BS 2064, Reprint BS 2067, ISBN 978-999-33-719-0-8. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 43:** *My Mathematics, Grade 4* — Nepal, CDC, Sanothimi, English Version 2067 BS (English content; filed as Nepali medium). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 44:** *My Mathematics, Grade 5* — Nepal, CDC, Sanothimi, Revised Edition 2066 BS (partial held copy: printed pp. 1–17, all of Unit 1 Geometry, missing). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 45:** *गणित, कक्षा ६ (Mathematics, Grade 6)* — Nepal, CDC, Sanothimi, First edition VS 2078. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 46:** *गणित, कक्षा ७ (Mathematics, Grade 7)* — Nepal, CDC, Sanothimi, First edition VS 2071; revised 2nd edition VS 2076. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 47:** *गणित, कक्षा ८ (Mathematics, Grade 8)* — Nepal, CDC, Sanothimi, First edition VS 2072; revised 2nd edition VS 2076. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a ratio is; order matters; recipes | Armenia, Grade 6, Ch.2 §2.1 Ratio p.44, §2.2 Equality of ratios, recipes p.50; Jordan, Grade 6 Term 2, Unit 6, L1 Ratio p.46 (6 glasses of orange juice per jug); Egypt, Grade 6 Term 2, Unit 9, L1 Ratio pp.16–18 (tape diagrams, double number lines; paint mixer 6 yellow : 4 red vs 9 yellow : 6 red); Greece, Grade 6, Unit 3, chs 30–39, printed pp.75–94 (ratio, equivalent ratios, proportions, cross products, direct and inverse proportion, rule of three); Sierra Leone, JSS 1 Term 2, L46 Ratio, printed p.2; Libya, Grade 5, Unit 7, finding a ratio — 2 chocolate cakes and 1 orange cake, ratio 2:1 and 1:2, printed pp.109–130; Ghana, JICA B6 teacher manual, L57–70 ratios and proportion — banku mixing, 4 cups cornmeal, 2 cups cassava, 6 cups water (teacher evidence); South Africa, Grade 4 Book 1, ws 61 ratio (picture/example only) |
@@ -160,10 +167,18 @@ CITATION CHECK PASSED 2026-11-04).
 | Ratio and equivalent ratios; unitary method | Bangladesh, Class 6 student book, Ch. 5 Unitary Method, Percentages and Ratio, printed pp. 103–137 |
 | Ratio, proportion: simple, light, heavy, unit and reciprocal ratios; multi-number ratio; application of ratio; ratio and percentages; equivalent ratio; making the national flag (ratio of three numbers) | Bangladesh, Class 7 student book, Exp. 4 Ratio, Proportion, printed pp. 80–103 |
 | Bangladesh's honest limit (stated, not forced): proportion equations solved by cross-multiplication, sharing in a ratio, map scale and working together are not pinned in the filing — the unitary method carries direct proportion and unit value in substance | Bangladesh, filed in maths/books/bangladesh.md |
+| Unitary method: unit price × number of items (1 copy Rs 5 → 10 copies Rs 50) | Nepal, Grade 3 Nepali, L24, printed pp. 100–101 |
+| Unitary method: unit price ↔ total price | Nepal, Grade 4, L4 §4.4 Unitary method (in pp. 43–69) |
+| Unitary method (cost of 1 from cost of many, and reverse); simple interest | Nepal, Grade 5, Unit 14, printed pp. 102–105 |
+| Unitary method: unit price ↔ total price, both directions | Nepal, Grade 6, पाठ 8 Unitary method, printed pp. 98–105 |
+| Ratio and proportion: simplifying ratios (12:15 = 4:5), sharing in a ratio (Rs 90 in 2:3 → 36 and 54), proportion, fourth proportional | Nepal, Grade 7, Unit 17, printed pp. 144–151 |
+| Unitary method: direct and inverse variation | Nepal, Grade 7, Unit 19, printed pp. 156–159 |
+| Ratio and proportion: ratio (500:950 = 10:19), sharing in a ratio, proportion checks, fourth proportional | Nepal, Grade 8, Unit 15, printed pp. 119–128 |
+| Unitary method: direct and inverse variation | Nepal, Grade 8, Unit 17, printed pp. 136–140 |
 
-**Acceptance count: taught in 19 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 20 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh).** Bangladesh carries ratio and proportion only in part — ratio and equivalent ratios in Class 6 (Ch. 5, pp. 103–137), with the unitary method (Class 5 §3.3, pp. 17–20; Class 6 Ch. 5) carrying direct proportion and unit value in substance, and ratio and proportion in Class 7 (Exp. 4, pp. 80–103) — simple, light, heavy, unit and reciprocal ratios, multi-number ratio, application of ratio, ratio and percentages, equivalent ratio, and making the national flag as a ratio of three numbers. Not pinned in the filing and not counted as taught here: proportion equations solved by cross-multiplication, sharing in a ratio, map scale (only a room/furniture scale problem, Class 7 Exp. 5), best buy, and working together. Iraq carries ratio and proportion from ratio and rate in Grade 6 (3:20; 60 km in 3 hours → unit rate 20 km/h), through proportion, solving proportions and scale drawing (Ch. 5 L3–L5), to direct and inverse proportion in Grade 7 (Ch. 2 L2-5, p. 49), proportion and measurement in triangles (Thales) in Grade 9 (Ch. 5 L5-3, p. 120), and variation — direct y = kx, inverse y = k/x, joint — in Grade 10 Literary (Ch. 1, 1-5). Armenia carries the fullest ratio
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal).** Nepal carries ratio and proportion only in part at first — the unitary method (unit price × number) in Grade 3 (L24, pp. 100–101), Grade 4 (L4 §4.4), Grade 5 (Unit 14, pp. 102–105) and Grade 6 (पाठ 8, pp. 98–105), with no ratio/proportion as a topic in Grades 4–6 — then genuine ratio and proportion in Grade 7 (Unit 17, pp. 144–151: simplifying ratios, sharing in a ratio, proportion, fourth proportional) and Grade 8 (Unit 15, pp. 119–128), with direct and inverse variation in both grades' unitary units. Bangladesh carries ratio and proportion only in part — ratio and equivalent ratios in Class 6 (Ch. 5, pp. 103–137), with the unitary method (Class 5 §3.3, pp. 17–20; Class 6 Ch. 5) carrying direct proportion and unit value in substance, and ratio and proportion in Class 7 (Exp. 4, pp. 80–103) — simple, light, heavy, unit and reciprocal ratios, multi-number ratio, application of ratio, ratio and percentages, equivalent ratio, and making the national flag as a ratio of three numbers. Not pinned in the filing and not counted as taught here: proportion equations solved by cross-multiplication, sharing in a ratio, map scale (only a room/furniture scale problem, Class 7 Exp. 5), best buy, and working together. Iraq carries ratio and proportion from ratio and rate in Grade 6 (3:20; 60 km in 3 hours → unit rate 20 km/h), through proportion, solving proportions and scale drawing (Ch. 5 L3–L5), to direct and inverse proportion in Grade 7 (Ch. 2 L2-5, p. 49), proportion and measurement in triangles (Thales) in Grade 9 (Ch. 5 L5-3, p. 120), and variation — direct y = kx, inverse y = k/x, joint — in Grade 10 Literary (Ch. 1, 1-5). Armenia carries the fullest ratio
 course — ratio, equality of ratios and recipes, cross
 multiplication, direct proportion, map and scale, working
 together; Jordan teaches ratio and equivalent ratios in Grade 6;
