@@ -5,9 +5,9 @@ READ COMPLETE. Files in hand (reconciled against the record):
 Grades 1–12, **3,118 PDF pages** in total
 (Band A, Grades 1–4: 986; Band B, Grades 5–8: 902;
 Band C, Grades 9–12: 1,230; 245,032,101 bytes, ~234 MB).
-Anchors: **644 (622 passed, 22 corrected, 0 not found)** —
+Anchors: **644 (623 passed, 21 corrected, 0 not found)** —
 Band A 154 (151 passed, 3 corrected, 0 not found),
-Band B 123 (118 passed, 5 corrected, 0 not found),
+Band B 123 (119 passed, 4 corrected, 0 not found),
 Band C 367 (353 passed, 14 corrected, 0 not found).
 Zero files owed: all 21 recorded works are in hand.
 
@@ -3045,9 +3045,9 @@ and this filing carries the corrected text.
 | Band | Anchors | PASS | CORRECTED | NOT FOUND |
 |---|---|---|---|---|
 | Band A (Grades 1–4) | 154 | 151 | 3 | 0 |
-| Band B (Grades 5–8) | 123 | 118 | 5 | 0 |
+| Band B (Grades 5–8) | 123 | 119 | 4 | 0 |
 | Band C (Grades 9–12) | 367 | 353 | 14 | 0 |
-| **Total** | **644** | **622** | **22** | **0** |
+| **Total** | **644** | **623** | **21** | **0** |
 
 Per-book counts:
 
@@ -3074,7 +3074,7 @@ Per-book counts:
 | g11-scientific | 44 | 38 | 6 | 0 |
 | g12-scientific | 62 | 57 | 5 | 0 |
 | g12-literary | 126 | 124 | 2 | 0 |
-| **Total** | **644** | **622** | **22** | **0** |
+| **Total** | **644** | **623** | **21** | **0** |
 
 **Band A corrections (3, all applied in place):** (1) g01-student —
 Chapter 2 lesson order corrected: ordinal numbers is L4 (p. 40),
@@ -3102,13 +3102,14 @@ substitution is Ch2 L3, p. 15. (4) g08-student — Ch7 L7-1 marks data
 also narrowed (not a correction of a false claim): the check pinned,
 from renders, the lesson openers on pp. 29, 47, 63, 82, 105, 127, 149,
 167 and consolidation p. 21.
-**Band B arithmetic note:** check-b's own totals row reads 118 passed /
+**Band B arithmetic note (corrected 2026-11-05):** check-b's own totals row read 118 passed /
 5 corrected, but its per-book rows sum to 119 passed / 4 corrected and
 its correction log documents exactly 4 corrections (the four above). The
 5th "correction" in the totals row is not documented anywhere in
-check-b — the totals row appears to carry an addition slip. This filing
-carries the totals-row figures (118/5) in its header and tables, and
-records the discrepancy here rather than silently re-adding the check.
+check-b — the totals row carries an addition slip. This filing carries the
+CORRECTED figures (119 passed / 4 corrected; overall 623 passed / 21 corrected)
+in its header and tables, and check-b's totals row was fixed in the work
+folder to match.
 
 **Band C corrections (14, all applied in place):** (1) g10-literary —
 elevation / depression examples are on **p. 61 only**; p. 62 is
