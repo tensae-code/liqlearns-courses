@@ -3,7 +3,7 @@
 Put each set in order, smallest first.
 
 **1. (Level 1)** 3:4 · 1:4 · 1:1 · 1:2
-**Answer:** 1:4, 1:2, 3:4, 1:1 (1/4, 1/2, 3/4, 1).
+**Answer:** 1:4, 1:2, 3:4, 1:1 (first part as a fraction of the whole: 1/5, 1/3, 3/7, 1/2).
 
 **2. (Level 2)** Share 60 in 2:3 · Share 60 in 1:2 · Share 60 in
 3:2 · Share 60 in 1:1 — order by the first person's share.
