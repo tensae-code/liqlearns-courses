@@ -1,6 +1,6 @@
 # Sources — Averages and Spread
 
-countries: Egypt, Jordan, Greece, Libya, Vietnam, Sierra Leone, Mauritania, Laos, Yemen, Indonesia
+countries: Egypt, Jordan, Greece, Libya, Vietnam, Sierra Leone, Mauritania, Laos, Yemen, Indonesia, Nicaragua
 
 Every part traces to its book and page.
 
@@ -40,6 +40,8 @@ Every part traces to its book and page.
 **Book 23:** *Matematika untuk SMA/SMK Kelas XI* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2021, ISBN 978-602-244-789-5. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 24:** *Matematika untuk SMA/MA/SMK/MAK Kelas XI (Edisi Revisi)* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2024, ISBN 978-623-388-329-0. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 25:** *Matemática — Libro de Texto — 5to grado* (NICAMATE 2) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2026. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Mean as balance point; interpreting the mean; median, mode and outliers; the range | Egypt, Grade 6 Term 1, Lessons on measures of centre and spread, printed pp.99–111 |
@@ -68,6 +70,8 @@ Every part traces to its book and page.
 | Scatter diagrams, linear regression by least squares, product-moment correlation, coefficient of determination | Indonesia, Grade 11 Merdeka, Bab 3, printed pp. 79–130 |
 | Scatter, correlation, regression, outliers and their effect on correlation | Indonesia, Grade 11 Revisi, Bab 1, printed pp. 1–80 |
 
-**Acceptance count: taught in 10 countries (Egypt, Jordan, Greece, Libya, Vietnam, Sierra Leone, Mauritania, Laos, Yemen, Indonesia).** Egypt carries the mean as a balance point, median/mode/outliers, the range, and quartiles with the semi-interquartile range; Jordan carries quartiles with the box-and-whisker plot and dispersion for grouped data; Greece carries the full ladder from mean to coefficient of variation in three books; Libya carries the weighted mean and the four dispersion measures; Vietnam carries central tendency and spread for ungrouped and grouped samples; Sierra Leone carries the whole ladder from the JSS mean to the SSS standard deviation and mean deviation; Mauritania carries mean, mean deviation, variance and standard deviation. Indonesia carries averages and spread from mean, median, mode, range, quartiles and IQR in the Grade 8 Merdeka guide, through grouped mean, median, mode, quartiles, percentiles, variance and standard deviation in Grade 10, to regression and correlation in Grade 11. Its Grade 7 Merdeka book teaches NO mean/median/mode, so Indonesia enters this lesson from Grade 8 (guide) and Grade 10.
+| Average (promedio) — concept, finding the total from the average, the average as a decimal number — the mean only; no median, mode, range or variance is taught anywhere in Nicaragua's set | Nicaragua, Grade 5 student book, Unit 13, printed pp. 134–147 |
+
+**Acceptance count: taught in 11 countries (Egypt, Jordan, Greece, Libya, Vietnam, Sierra Leone, Mauritania, Laos, Yemen, Indonesia, Nicaragua).** Egypt carries the mean as a balance point, median/mode/outliers, the range, and quartiles with the semi-interquartile range; Jordan carries quartiles with the box-and-whisker plot and dispersion for grouped data; Greece carries the full ladder from mean to coefficient of variation in three books; Libya carries the weighted mean and the four dispersion measures; Vietnam carries central tendency and spread for ungrouped and grouped samples; Sierra Leone carries the whole ladder from the JSS mean to the SSS standard deviation and mean deviation; Mauritania carries mean, mean deviation, variance and standard deviation. Indonesia carries averages and spread from mean, median, mode, range, quartiles and IQR in the Grade 8 Merdeka guide, through grouped mean, median, mode, quartiles, percentiles, variance and standard deviation in Grade 10, to regression and correlation in Grade 11. Its Grade 7 Merdeka book teaches NO mean/median/mode, so Indonesia enters this lesson from Grade 8 (guide) and Grade 10. Nicaragua carries this lesson only in part — the average (promedio) in Grade 5, with the total found from the average and the average as a decimal; it teaches no median, no mode, no range and no variance anywhere in the set, and its Grade 9 statistics unit is presentation only.
 
 **Flagged wording, not taught:** Sierra Leone's JSS 3 Term 3 Lesson 124 phrases the frequency-table mean as "add the frequencies given and divide by the total number of rows", with no worked frequency-table example to clarify it. This lesson does not teach that wording: it teaches the correct rule from the same book's Lesson 128 — the estimated mean x̄ = Σfx / Σf, value times frequency, divided by the total frequency. Laos carries averages and spread whole in Grade 9 — mean, mode and median with grouped formulas, and range, variance and standard deviation. Yemen carries averages and spread from the arithmetic mean in Grades 6–7, through mean, mode, cumulative frequency and median in Grade 9 and central tendency and dispersion in Grade 10, to correlation and regression in Grades 11–12.

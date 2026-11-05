@@ -1,6 +1,6 @@
 # Sources — Ratio and Proportion
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua
 
 Every part traces to its book and page.
 
@@ -91,6 +91,11 @@ CITATION CHECK PASSED 2026-11-04).
 **Book 20:** *Mathematics, Grade 8 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 21:** *Matematika untuk SD/MI Kelas VI* (Mathematics, Grade 6 student book) — Indonesia, Dicky Susanto, Savitri Sihombing, Ambarsari Kusuma Wardani, Ummy Salmah, Eunice Salim, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Kurikulum Merdeka 2022, ISBN 978-602-427-917-2. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
 **Book 22:** *Matematika untuk SMP/MTs Kelas VII* (Mathematics, Grade 7 student book, Kurikulum Merdeka) — Indonesia, Dicky Susanto, Savitri Sihombing, Marianna Magdalena Radjawane, Ambarsari Kusuma Wardani, Theja Kurniawan, Yulian Candra, Sinta Mulyani, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2022, ISBN 978-602-244-883-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
+**Book 23:** *Matemática — Libro de Texto — 5to grado* (NICAMATE 2) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2026, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 24:** *Matemática — Libro de Texto — 6to grado* (NICAMATE 2) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2026, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 25:** *MATEMÁTICA 7 — Séptimo grado — Libro de Texto — Educación Secundaria* (NICAMATE) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2019, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 26:** *MÓDULO Autoformativo de MATEMÁTICA — 7mo Grado — EDUCACIÓN SECUNDARIA A DISTANCIA EN EL CAMPO* (Módulo Autoformativo) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2016, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED). Module evidence: a self-study text with no answer key.
+**Book 27:** *MATEMÁTICA 9 — Noveno grado — Libro de Texto — Educación Secundaria* (NICAMATE) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2019, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -117,10 +122,17 @@ CITATION CHECK PASSED 2026-11-04).
 | The ratio concept, simplest form, order matters, equivalent ratios via ratio tables, unit ratio, part-to-part and part-to-whole ratios, ratios on time durations — but NO proportion equations / cross-multiplication | Indonesia, Grade 6 student book, Ch. 2, printed pp. 45–74 |
 | Ratio vs difference, equivalent ratios, scale factor, map/plan scale, unit rate, unit-price and density comparisons | Indonesia, Grade 7 Merdeka student book, Ch. 3, printed pp. 83–122 |
 | Indonesia's honest limit (stated, not forced): proportion equations and cross-multiplication are never taught — ratio is taught in full, but proportion appears only as scale factor and unit rate | Indonesia — filed in maths/books/indonesia.md |
+| "How many times" — multiplicative comparison with naturals, then with decimals, the bridge into ratio | Nicaragua, Grade 5 student book (NICAMATE 2), Unit 4, printed pp. 32–41 |
+| Ratio (unit rate, calculating ratios, ratios less than 1 and greater than 1) and percent | Nicaragua, Grade 5 student book (NICAMATE 2), Unit 6, printed pp. 60–73 |
+| Ratio: concept, equivalent ratios and proportion, the property of ratios, simplifying ratios, application of ratio | Nicaragua, Grade 6 student book (NICAMATE 2), Unit 10, printed pp. 110–119 |
+| Directly proportional quantities, properties of proportional quantities, direct proportionality as y = ax, the Cartesian plane, graph of direct proportionality, and the rule of three | Nicaragua, Grade 6 student book (NICAMATE 2), Unit 11, printed pp. 120–141 |
+| Direct proportionality as a function y = ax and inverse proportionality as y = a/x, with graphs, numerical intervals and restricted domain (b ≤ x ≤ c); applications of direct and inverse proportionality | Nicaragua, Grade 7 student book (NICAMATE), Unit 5, printed pp. 87–124 |
+| Ratio, proportion and its properties, transposing the terms of a proportion, directly and inversely proportional magnitudes, proportional sharing, simple direct and inverse rule of three, compound rule of three (module evidence) | Nicaragua, Grade 7 module, Unit III, printed pp. 111–168 |
+| Ratio between segments and proportional segments; division of a segment in a given ratio on the number line, internal and external (p = (na + mb)/(m + n)) | Nicaragua, Grade 9 student book (NICAMATE), Unit 4, printed pp. 85–94 |
 
-**Acceptance count: taught in 14 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 15 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen, Indonesia).** Armenia carries the fullest ratio
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua).** Armenia carries the fullest ratio
 course — ratio, equality of ratios and recipes, cross
 multiplication, direct proportion, map and scale, working
 together; Jordan teaches ratio and equivalent ratios in Grade 6;
@@ -146,4 +158,4 @@ example in Grade 4, ratio tables in Grades 5–6, ratio and rate
 in Grade 7, and ratio and rate again in Grade 9; Kazakhstan
 teaches proportional division in Grade 4 and joint work in
 Grade 5, but no ratio or proportion as such — stated honestly
-above. Laos carries ratio and proportion from proportional tables in Grade 4, through direct and inverse proportion in Grade 5, to ratio, coefficient k, the fourth proportional by cross products and inverse proportion in Grades 6–7. Yemen carries ratio and proportion from ratio in Grade 6 through proportion, enlargement, scale drawing and proportional division (including inheritance), to Thales' theorem and similarity in Grade 8. Indonesia carries ratio in full — the concept, simplest form, equivalent ratios, unit ratio and part-to-part/part-to-whole ratios in Grade 6, with scale factor, map scale and unit rate in Grade 7 Merdeka — but teaches no proportion equations or cross-multiplication anywhere in the set.
+above. Laos carries ratio and proportion from proportional tables in Grade 4, through direct and inverse proportion in Grade 5, to ratio, coefficient k, the fourth proportional by cross products and inverse proportion in Grades 6–7. Yemen carries ratio and proportion from ratio in Grade 6 through proportion, enlargement, scale drawing and proportional division (including inheritance), to Thales' theorem and similarity in Grade 8. Indonesia carries ratio in full — the concept, simplest form, equivalent ratios, unit ratio and part-to-part/part-to-whole ratios in Grade 6, with scale factor, map scale and unit rate in Grade 7 Merdeka — but teaches no proportion equations or cross-multiplication anywhere in the set. Nicaragua carries ratio and proportion from multiplicative comparison in Grade 5, through ratio, equivalent ratios and proportion with the rule of three in Grade 6, to direct and inverse proportion as functions y = ax and y = a/x in the Grade 7 student book, the full rule-of-three and proportional-sharing treatment in the Grade 7 module (module evidence), and ratio between segments on the number line in Grade 9.

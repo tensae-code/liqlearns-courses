@@ -1,6 +1,6 @@
 # Sources — Multiplying and Dividing Fractions
 
-countries: Kazakhstan, Jordan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia
+countries: Kazakhstan, Jordan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua
 
 Every part traces to its book and page.
 
@@ -97,6 +97,9 @@ only: Ghana's set holds no pupil textbook at all.
 **Book 20:** *Matematika untuk SD/MI Kelas VI* (Mathematics, Grade 6 student book) — Indonesia, Dicky Susanto, Savitri Sihombing, Ambarsari Kusuma Wardani, Ummy Salmah, Eunice Salim, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Kurikulum Merdeka 2022, ISBN 978-602-427-917-2. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
 **Book 21:** *Matematika untuk SMP/MTs Kelas VII* (Mathematics, Grade 7 student book, Kurikulum Merdeka) — Indonesia, Dicky Susanto, Savitri Sihombing, Marianna Magdalena Radjawane, Ambarsari Kusuma Wardani, Theja Kurniawan, Yulian Candra, Sinta Mulyani, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2022, ISBN 978-602-244-883-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
 **Book 22:** *Matematika, Buku Siswa, SMP/MTs Kelas VII, Semester 1* (Mathematics, Grade 7 student book, Semester 1, Kurikulum 2013) — Indonesia, Abdur Rahman As'ari, Mohammad Tohir, Erik Valentino, Zainul Imron, Ibnu Taufiq, Kementerian Pendidikan dan Kebudayaan, Edisi Revisi 2017, ISBN 978-602-282-985-0. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
+**Book 23:** *Matemática — Libro de Texto — 6to grado* (NICAMATE 2) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2026, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 24:** *MATEMÁTICA 7 — Séptimo grado — Libro de Texto — Educación Secundaria* (NICAMATE) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2019, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 25:** *MÓDULO Autoformativo de MATEMÁTICA — 7mo Grado — EDUCACIÓN SECUNDARIA A DISTANCIA EN EL CAMPO* (Módulo Autoformativo) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2016, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED). Module evidence: a self-study text with no answer key.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -116,10 +119,15 @@ only: Ghana's set holds no pupil textbook at all.
 | Fraction and decimal operations, including multiplying and dividing fractions | Indonesia, Grade 7 Merdeka student book, Ch. 2, printed pp. 35–82 |
 | Fraction addition, subtraction, multiplication and division | Indonesia, Grade 7 K13 2017 Semester-1 student book, Ch. 1, printed pp. 1–108 |
 | Indonesia's honest limit (stated, not forced): Grade 5 teaches no fraction multiplication or division at all | Indonesia, Grade 5 student book, Ch. 3, printed pp. 63–104 — filed in maths/books/indonesia.md |
+| Fraction × natural number by repeated addition (3/7 × 2) and fraction ÷ natural number | Nicaragua, Grade 6 student book (NICAMATE 2), Unit 6, printed pp. 58–65 |
+| Fraction × fraction by area diagrams, with mixed numbers and three fractions, multiplication by a fraction less than or greater than 1, properties, and the reciprocal | Nicaragua, Grade 6 student book (NICAMATE 2), Unit 7, printed pp. 66–79 |
+| Fraction ÷ fraction, division with mixed numbers and natural numbers, division by a fraction greater or less than 1, combined operations with fractions | Nicaragua, Grade 6 student book (NICAMATE 2), Unit 9, printed pp. 96–109 |
+| Multiplication and division of fractions revised | Nicaragua, Grade 7 student book (NICAMATE), Unit 1, Section 2, printed pp. 1–14 |
+| Multiplication and division of rational numbers (module evidence) | Nicaragua, Grade 7 module, Unit II, Tema 2 (Unit II, printed pp. 59–110) |
 
-**Acceptance count: taught in 13 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 14 countries (Kazakhstan, Jordan,
 Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam,
-Ghana, Laos, Yemen, Indonesia).** Kazakhstan carries the full course with the rule derived,
+Ghana, Laos, Yemen, Indonesia, Nicaragua).** Kazakhstan carries the full course with the rule derived,
 not just stated; Egypt carries the area-model multiplication and
 the two unit-fraction divisions as their own lessons, and the
 Grade 6 division modelling; Jordan carries multiplying and dividing
@@ -134,4 +142,4 @@ of a fraction by a whole number and fraction divided by a whole
 number in Grade 5; Vietnam carries the full Grade 4 fraction
 operations and the two fraction problems in Grade 6; Ghana carries
 the work only as teacher-manual evidence. South Africa is not
-counted here — see the honest note above. Laos carries multiplying and dividing fractions whole in Grade 7 — fraction × fraction and all four division forms — and extends it to rational expressions in Grade 9. Yemen carries multiplying and dividing fractions from fraction-of-a-fraction in Grade 5 to fractions and mixed numbers in Grade 6. Indonesia carries multiplying and dividing fractions from whole-number forms only in Grade 6 (fraction × fraction and fraction ÷ fraction are not taught there), through the full fraction operations in Grade 7 (Merdeka and K13 editions); Grade 5 teaches no fraction multiplication or division at all.
+counted here — see the honest note above. Laos carries multiplying and dividing fractions whole in Grade 7 — fraction × fraction and all four division forms — and extends it to rational expressions in Grade 9. Yemen carries multiplying and dividing fractions from fraction-of-a-fraction in Grade 5 to fractions and mixed numbers in Grade 6. Indonesia carries multiplying and dividing fractions from whole-number forms only in Grade 6 (fraction × fraction and fraction ÷ fraction are not taught there), through the full fraction operations in Grade 7 (Merdeka and K13 editions); Grade 5 teaches no fraction multiplication or division at all. Nicaragua carries multiplying and dividing fractions from fraction ×/÷ a natural number in Grade 6, through fraction × fraction by area diagrams with the reciprocal, to fraction ÷ fraction with combined operations, revised in the Grade 7 student book and as rational-number operations in the Grade 7 module (module evidence).

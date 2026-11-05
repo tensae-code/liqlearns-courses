@@ -1,6 +1,6 @@
 # Sources — Sequences and series
 
-countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia
+countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua
 
 Every part traces to its book and page.
 
@@ -51,6 +51,8 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 **Book 16:** *Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2023, ISBN 978-623-118-558-7. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 17:** *Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)* — Indonesia, Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen), 2025, ISBN 978-634-00-3118-8. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 18:** *MATEMÁTICA 11 — Undécimo grado — Libro de Texto — Educación Secundaria* (NICAMATE) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2019. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Arithmetic sequence: common difference d; general term aₙ = a₁ + (n−1)d; middle-term (arithmetic mean) formula; sum of the first n terms Sₙ = (a₁+aₙ)/2 · n with a pairing proof, and the 2a₁+(n−1)d form; applied problems (concert-hall seating, population growth, tomato harvest, well-drilling cost) | Kazakhstan, Algebra 9 (Yelemessov, English), §3.2 Arithmetic sequence, p.84; applied problems p.94 |
@@ -75,8 +77,10 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 | Arithmetic and geometric sequences and series; infinite geometric series | Indonesia, Grade 10 Revisi, Bab 2, printed pp. 35–70 |
 | Arithmetic and geometric sequences and series; infinite geometric series | Indonesia, Grade 12 Revisi, Bab 1, printed pp. 1–34 |
 
-**Acceptance count: taught in 8 countries (Kazakhstan, Jordan,
-Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia).** Kazakhstan carries
+| Sequences, notation and general term; arithmetic sequences (aₙ = a₁ + (n−1)d) and sum of the first n terms (Sₙ = n(a₁ + aₙ)/2, proved by Gauss-style pairing); geometric sequences (aₙ = a₁·r^(n−1)) and sum of the first n terms (Sₙ = a₁(rⁿ − 1)/(r − 1)); summation notation Σ, its properties, Σk = n(n+1)/2 and Σk² = (1/6)n(n+1)(2n+1) — finite sums only; no infinite geometric series is taught | Nicaragua, Grade 11 student book, Unit 1, printed pp. 1–28 |
+
+**Acceptance count: taught in 9 countries (Kazakhstan, Jordan,
+Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua).** Kazakhstan carries
 the fullest treatment — all four Grade 9 Algebra books prove
 the nth-term formulas, the characteristic properties, both
 sum formulas and the infinite geometric sum, with applied
@@ -92,4 +96,4 @@ teaches no sequences or series, so Egypt is not claimed for
 this lesson; Sierra Leone's SSS 2 teaches the arithmetic
 series sum but no geometric series sum, and its SSS 3 lesson's
 claim that no infinite sum can be found is not taught here —
-the infinite sum rests on Kazakhstan's theorem and Jordan. Laos carries sequences from number sequences and puzzles in Grade 5 to arithmetic and geometric sequences with limits, sums and applications in Grade 12. Yemen carries sequences and series from Σ notation in Grade 10 to arithmetic and geometric sequences and their sums in Grade 11, in both tracks — with separate sum lessons in the literary track and sums folded into the sequence lessons in the science track. Indonesia carries sequences from number patterns in Grade 8 — where the geometric sequence is named but deferred to SMA — to arithmetic and geometric sequences and series with the infinite geometric series in Grades 10 and 12.
+the infinite sum rests on Kazakhstan's theorem and Jordan. Laos carries sequences from number sequences and puzzles in Grade 5 to arithmetic and geometric sequences with limits, sums and applications in Grade 12. Yemen carries sequences and series from Σ notation in Grade 10 to arithmetic and geometric sequences and their sums in Grade 11, in both tracks — with separate sum lessons in the literary track and sums folded into the sequence lessons in the science track. Indonesia carries sequences from number patterns in Grade 8 — where the geometric sequence is named but deferred to SMA — to arithmetic and geometric sequences and series with the infinite geometric series in Grades 10 and 12. Nicaragua carries sequences and series whole in Grade 11 — arithmetic and geometric sequences with general terms and finite sums, and sigma notation with the sums of the first n naturals and of their squares — but finite sums only: no infinite geometric series is taught, and the stray "Sección 4 — Notación de sumatoria" header claimed for p. 1 was not found by the citation check and is never cited.

@@ -1,6 +1,6 @@
 # Sources — Volume and Surface Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua
 
 Every part traces to its book and page.
 
@@ -159,6 +159,11 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 36:** *Matematika untuk SD/MI Kelas IV* (student book) — Indonesia, Hobri et al., Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-244-908-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 37:** *Matematika untuk SMP/MTs Kelas IX* (student book) — Indonesia, Yosep Dwi Kristanto et al., Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-427-918-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 38:** *Matemática — Libro de Texto — 6to grado (NICAMATE 2), Primera Edición 2026* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 39:** *MATEMÁTICA 8 — Octavo grado — Libro de Texto — Educación Secundaria (NICAMATE), Primera Edición 2019* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 40:** *MATEMÁTICA 9 — Noveno grado — Libro de Texto — Educación Secundaria (NICAMATE), Primera Edición 2019* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 41:** *Matemática — Décimo Grado — Libro de Texto, Primera Edición (year left blank as printed)* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The prism and the pyramid — naming (p.91) | Jordan, Grade 5 Student Book Term 2, Unit 9, L7, p.91 |
@@ -197,10 +202,15 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | The pyramid, the cone, volume of the sphere and its surface area | Yemen, Grade 8 Part 2, Unit 8, lessons 8-1–8-3, printed pp. 103–109 |
 | Volume by counting unit cubes, cm³, litre and millilitre conversions, m³ introduced | Indonesia, Grade 4 student book, Bab 4, printed pp. 103–138 |
 | Surface area and volume of flat-faced solids (cube, cuboid, prism, pyramid) and curved solids (cylinder, cone, sphere); effect of scale change on surface area and volume | Indonesia, Grade 9 student book, Bab 2, printed pp. 41–134 |
+| Volume — comparing sizes of prisms; the cubic centimetre; volume of a rectangular prism, V = l × w × h; volume of a cube; volume of composite solids; the cubic metre; volume and capacity (litres, mL, cm³/dm³) | Nicaragua, Grade 6 student book, Unit 8, printed pp. 80–95 |
+| Surface area and volume — prisms, pyramids, cylinders, cones and spheres: total surface area and volume of each, taught together | Nicaragua, Grade 8 student book, Unit 8, printed pp. 139–154 |
+| Volume by Pythagoras — height and volume of a cone and of a square pyramid from slant height/lateral edge; space diagonal of a rectangular prism | Nicaragua, Grade 9 student book, Unit 6, Section 2, printed pp. 129–134 |
+| Solids — total area and volume of the five regular polyhedra; prisms and pyramids (A_T = 2A_B + A_L, V = A_B·h, V = (1/3)A_B·h); solids of revolution — cylinder, cone, sphere (lateral/total area and volume) | Nicaragua, Grade 10 student book, Unit 6, printed pp. 299–331 |
 
-**Acceptance count: taught in 14 countries (Kazakhstan, Jordan,
+
+**Acceptance count: taught in 15 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen, Indonesia).** Sierra Leone carries the cleanest
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua).** Sierra Leone carries the cleanest
 ladder — cubes, prisms and cylinders by cross-section × height,
 then surface areas by the net, in JSS 2. Egypt carries volume by
 counting unit cubes through V = l × w × h in Grade 5 and the
@@ -223,4 +233,4 @@ Ghana's evidence is teacher-manual only (JICA B5 Lessons 92–100
 and B6 Lessons 88–92, prisms): no pupil textbook in Ghana's set
 teaches volume or surface area, and the lesson words Ghana that
 way throughout. Mauritania's honest limit is stated too: its
-Grade 5 book teaches no volume at all. Laos carries volume and surface area from solids, nets and volume formulas in Grade 5, through prisms, cylinders and spheres in Grade 8, to pyramid and cone surface area and volume in Grade 9 and volumes of revolution in Grade 10. Yemen carries volume and surface area from volumes in Grade 3, through surface area and volume in Grade 6, to volumes of pyramids, cones and spheres in Grades 7–8. Indonesia carries volume and surface area from volume by counting unit cubes in Grade 4, to surface area and volume of all seven solids — cube, cuboid, prism, pyramid, cylinder, cone, sphere — with the effect of scale change in Grade 9. Honest negative: Grade 6 teaches no volume and no surface area of cubes/cuboids — its solids chapter is purely spatial.
+Grade 5 book teaches no volume at all. Laos carries volume and surface area from solids, nets and volume formulas in Grade 5, through prisms, cylinders and spheres in Grade 8, to pyramid and cone surface area and volume in Grade 9 and volumes of revolution in Grade 10. Yemen carries volume and surface area from volumes in Grade 3, through surface area and volume in Grade 6, to volumes of pyramids, cones and spheres in Grades 7–8. Indonesia carries volume and surface area from volume by counting unit cubes in Grade 4, to surface area and volume of all seven solids — cube, cuboid, prism, pyramid, cylinder, cone, sphere — with the effect of scale change in Grade 9. Honest negative: Grade 6 teaches no volume and no surface area of cubes/cuboids — its solids chapter is purely spatial. Nicaragua carries volume and surface area from prism and cube volume in Grade 6, through surface area and volume of all five solid families — prisms, pyramids, cylinders, cones, spheres — in Grade 8, to cone and pyramid volumes by Pythagoras in Grade 9 and the regular polyhedra and solids of revolution in Grade 10. Honest negative: Grade 5 classifies prisms and cylinders and draws their nets but computes neither surface area nor volume there.

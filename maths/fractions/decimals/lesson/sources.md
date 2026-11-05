@@ -1,6 +1,6 @@
 # Sources — Decimals
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua
 
 Every part traces to its book and page.
 
@@ -124,6 +124,13 @@ READ + CITATION CHECK PASSED 2026-11-04).
 **Book 26:** *Matematika untuk SD/MI Kelas IV* (Mathematics, Grade 4 student book) — Indonesia, Hobri, Susanto, Arika Indah Kristiana, Arif Fatahillah, Eko Waluyo, Ridho Alfarisi, Haris Setiya Budi, Moh. Iqbal Helmi, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Kurikulum Merdeka 2022, ISBN 978-602-244-908-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
 **Book 27:** *Matematika untuk SD/MI Kelas VI* (Mathematics, Grade 6 student book) — Indonesia, Dicky Susanto, Savitri Sihombing, Ambarsari Kusuma Wardani, Ummy Salmah, Eunice Salim, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Kurikulum Merdeka 2022, ISBN 978-602-427-917-2. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
 **Book 28:** *Matematika untuk SMP/MTs Kelas VII* (Mathematics, Grade 7 student book, Kurikulum Merdeka) — Indonesia, Dicky Susanto, Savitri Sihombing, Marianna Magdalena Radjawane, Ambarsari Kusuma Wardani, Theja Kurniawan, Yulian Candra, Sinta Mulyani, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2022, ISBN 978-602-244-883-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
+**Book 29:** *MATEMÁTICA — Libro de Texto, 3er Grado — Versión Validada* — Nicaragua, Ministerio de Educación (MINED), Versión Validada, III Edición (year not stated), no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 30:** *Matemática 3er Grado — Libro de Texto* (NICAMATE 2) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2025, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 31:** *Matemática 4to Grado — Libro de Texto* (NICAMATE 2) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2025, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 32:** *Matemática — Libro de Texto — 5to grado* (NICAMATE 2) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2026, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 33:** *Matemática — Libro de Texto — 6to grado* (NICAMATE 2) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2026, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 34:** *MATEMÁTICA 7 — Séptimo grado — Libro de Texto — Educación Secundaria* (NICAMATE) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2019, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 35:** *MÓDULO Autoformativo de MATEMÁTICA — 7mo Grado — EDUCACIÓN SECUNDARIA A DISTANCIA EN EL CAMPO* (Módulo Autoformativo) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2016, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED). Module evidence: a self-study text with no answer key.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -146,10 +153,17 @@ READ + CITATION CHECK PASSED 2026-11-04).
 | Converting fractions to decimals; comparing and ordering decimals to one decimal place — but NO decimal operations (+/−/×/÷) | Indonesia, Grade 6 student book, Ch. 1, printed pp. 1–44 |
 | Rational numbers, terminating vs repeating decimals, fraction and decimal operations, estimating to place values | Indonesia, Grade 7 Merdeka student book, Ch. 2, printed pp. 35–82 |
 | Indonesia's honest limit (stated, not forced): Grade 5 teaches no decimals as a topic of their own — decimals appear only as money notation | Indonesia, Grade 5 student book — filed in maths/books/indonesia.md |
+| Decimals to one decimal place (tenths): forming decimals, decimals on the number line, adding and subtracting decimals with borrowing a unit | Nicaragua, Grade 3 old student book (Versión Validada), Unit 8, printed pp. 105–117 |
+| Decimals to tenths: decimal numbers, tenths and ordering, decimals in the place-value table and on the number line, comparing, addition and subtraction | Nicaragua, Grade 3 student book (NICAMATE 2, 2025), Unit 13, printed pp. 160–175 |
+| Decimals to hundredths and thousandths: place-value table, comparing, rounding decimals, addition and subtraction | Nicaragua, Grade 4 student book (NICAMATE 2), Unit 7, printed pp. 92–107 |
+| Decimal × natural number in horizontal and vertical form, up to hundredths (2 × 3,14 = 6,28); decimal ÷ natural number, quotients to tenths and hundredths, remainder in decimal division, natural-number division with a decimal quotient, rounding the quotient | Nicaragua, Grade 5 student book (NICAMATE 2), Unit 1, printed pp. 2–9; Unit 3, printed pp. 18–31 |
+| Decimal × decimal up to tenths and hundredths, multiplication by a decimal less than or greater than 1, properties of decimal multiplication; natural ÷ decimal and decimal ÷ decimal, division adding zero, remainder, rounding the quotient | Nicaragua, Grade 6 student book (NICAMATE 2), Unit 1, printed pp. 2–11; Unit 3, printed pp. 22–31 |
+| Decimal addition, subtraction and multiplication revised; division of a decimal by a natural number (decimal ÷ decimal is not revised here) | Nicaragua, Grade 7 student book (NICAMATE), Unit 1, Section 2, printed pp. 1–14 |
+| Decimal representation of a rational, converting decimals to common fractions, operations with decimals, multiplication and division of decimals and their variants (module evidence) | Nicaragua, Grade 7 module, Unit II, Tema 3 (Unit II, printed pp. 59–110) |
 
-**Acceptance count: taught in 14 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 15 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen, Indonesia).** Kazakhstan carries the fullest decimal
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua).** Kazakhstan carries the fullest decimal
 course — reading, converting, comparing, all four operations,
 powers of ten and rounding; Jordan carries tenths and hundredths
 in Grade 4, thousandths with all four operations in Grade 5, and
@@ -171,4 +185,4 @@ in Grade 6; Ghana carries decimals only as teacher-manual
 evidence (B4's tenths and decimal addition/subtraction, B6's
 comparison by long division); South Africa carries first decimals
 as tenths on a metre line in Grade 5, systematic decimals to two
-places in Grade 6, and the full decimal worksheets in Grade 7. Laos carries decimals from tenths and hundredths through litres in Grade 4 (to thousandths, with decimal × whole numbers, in the old Grade 4 book) to full decimal calculation, including decimal ÷ decimal, in Grade 5. Yemen carries decimals from tenths and the decimal point in Grade 4, through rounding and all four operations with fraction-to-decimal conversion, to estimating decimal operations in Grade 6. Indonesia carries decimals from tenths and hundredths in Grade 4, through fraction-to-decimal conversion with comparing and ordering (but no decimal operations) in Grade 6, to rational numbers, repeating decimals and decimal operations in Grade 7 Merdeka; Grade 5 teaches no decimals as a topic of their own.
+places in Grade 6, and the full decimal worksheets in Grade 7. Laos carries decimals from tenths and hundredths through litres in Grade 4 (to thousandths, with decimal × whole numbers, in the old Grade 4 book) to full decimal calculation, including decimal ÷ decimal, in Grade 5. Yemen carries decimals from tenths and the decimal point in Grade 4, through rounding and all four operations with fraction-to-decimal conversion, to estimating decimal operations in Grade 6. Indonesia carries decimals from tenths and hundredths in Grade 4, through fraction-to-decimal conversion with comparing and ordering (but no decimal operations) in Grade 6, to rational numbers, repeating decimals and decimal operations in Grade 7 Merdeka; Grade 5 teaches no decimals as a topic of their own. Nicaragua carries decimals from tenths with addition and subtraction in Grade 3 (old and 2025 books), through hundredths and thousandths with comparing and rounding in Grade 4, to decimal ×/÷ by naturals in Grade 5 and decimal ×/÷ decimal in Grade 6, revised in the Grade 7 student book and as rational-number decimals in the Grade 7 module (module evidence).

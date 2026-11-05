@@ -1,6 +1,6 @@
 # Sources — Place-value
 
-countries: Egypt, Armenia, Jordan, Kazakhstan, South Africa, Laos, Yemen, Indonesia
+countries: Egypt, Armenia, Jordan, Kazakhstan, South Africa, Laos, Yemen, Indonesia, Nicaragua
 
 Every part traces to its book and page.
 
@@ -28,6 +28,12 @@ Every part traces to its book and page.
 **Book 21:** *Matematika untuk SD/MI Kelas III* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Susanto, Arika Indah Kristiana, Arif Fatahillah, Eko Waluyo, Ridho Alfarisi, Hobri, 2022, ISBN 978-602-427-935-6. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 22:** *Matematika untuk SD/MI Kelas IV* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Hobri, Susanto, Arika Indah Kristiana, Arif Fatahillah, Eko Waluyo, Ridho Alfarisi, Haris Setiya Budi, Moh. Iqbal Helmi, 2022, ISBN 978-602-244-908-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 23:** *Matematika untuk SD/MI Kelas V* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Meita Fitrianawati, Ika Surtiani, Ait Istiandaru, 2022, ISBN 978-602-427-916-5. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 24:** *Matemática — Primer grado — NICAMATE 2 (Libro de Texto, Matemática, Primer Grado)* — Nicaragua, MINED, Primera Edición, 2024. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 25:** *Matemática 2 — Libro de Texto, 2do Grado — Versión Validada* — Nicaragua, MINED, Tercera Edición 2015. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 26:** *Matemática 2do Grado — Libro de Texto (NICAMATE 2)* — Nicaragua, MINED, Primera Edición, 2025. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 27:** *MATEMÁTICA — Libro de Texto, 3er Grado — Versión Validada* — Nicaragua, MINED, Versión Validada, III Edición (year not stated). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 28:** *Matemática 3er Grado — Libro de Texto (NICAMATE 2)* — Nicaragua, MINED, Primera Edición, 2025. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 29:** *Matemática 4to Grado — Libro de Texto (NICAMATE 2)* — Nicaragua, MINED, Primera Edición, 2025. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -56,5 +62,11 @@ Every part traces to its book and page.
 | Place value, three-digit numbers | Indonesia, Grade 3 student book, Bab 1, printed pp. 1–74 |
 | Place value to 10,000, composition and decomposition | Indonesia, Grade 4 student book, Bab 1, printed pp. 1–54 |
 | Place value to ten-thousands, then to 1,000,000 | Indonesia, Grade 5 student book, Ch. 1, printed pp. 1–28; Ch. 9, printed pp. 273–308 |
+| Tens and ones to 20; units and tens to 100 | Nicaragua, Grade 1 NICAMATE 2 student book, Unit 5, printed pp. 76–89; Unit 8, printed pp. 124–145 |
+| Place-value table (C/D/U), abacus beads, decomposition (413 = 4 hundreds + 1 ten + 3 units) | Nicaragua, Grade 2 old student book, Unit 2, printed pp. 26–48 |
+| The hundred (*centena*); expanded form (436); the number 1000 | Nicaragua, Grade 2 NICAMATE 2 student book, Unit 7, printed pp. 64–79 |
+| Expanded form (5,859); forming the thousands | Nicaragua, Grade 3 old student book, Unit 1, printed pp. 15–28 |
+| The thousand unit (*unidad de millar*); expanded form; the number 10,000 | Nicaragua, Grade 3 NICAMATE 2 student book, Unit 1, printed pp. 2–17 |
+| Place-value table extended left of the hundreds (CM, DM, UM, C, D, U); 10 tens of thousands are 1 hundred thousand | Nicaragua, Grade 4 NICAMATE 2 student book, Unit 1, printed pp. 2–22 |
 
-**Acceptance count: taught in 8 countries (Egypt, Armenia, Jordan, Kazakhstan, South Africa, Laos, Yemen, Indonesia). Egypt carries the full climb — ones, tens and hundreds in Grade 2, three-digit place value in Grade 3, big numbers to the milliards in Grade 4. Armenia carries tens and ones in Grade 2 and number classes to millions in Grade 3. Jordan carries place value from Grade 1 ones and tens to Grade 4 hundred-thousands. Kazakhstan carries place-value components with graphic models in Grade 2. South Africa carries hundreds, tens and units boxes in Grades 2–3. Other read countries teach place value inside their own Grade 2–3 books and join by merge.** Laos carries place value from tens-and-ones to 100 in Grade 1, through hundreds, expanded forms and numbers to 100000 in Grades 2–3, to millions and billions in Grade 5. Yemen carries place value from ones and tens in Grade 1 through expanded form to 1000, 10,000 and 999,999, then to hundreds of millions and billions. Indonesia carries place value from tens and ones in Grades 1–2, through three-digit place value in Grade 3 and place value to 10,000 in Grade 4, to ten-thousands and then to 1,000,000 in Grade 5.
+**Acceptance count: taught in 9 countries (Egypt, Armenia, Jordan, Kazakhstan, South Africa, Laos, Yemen, Indonesia, Nicaragua). Egypt carries the full climb — ones, tens and hundreds in Grade 2, three-digit place value in Grade 3, big numbers to the milliards in Grade 4. Armenia carries tens and ones in Grade 2 and number classes to millions in Grade 3. Jordan carries place value from Grade 1 ones and tens to Grade 4 hundred-thousands. Kazakhstan carries place-value components with graphic models in Grade 2. South Africa carries hundreds, tens and units boxes in Grades 2–3. Other read countries teach place value inside their own Grade 2–3 books and join by merge.** Laos carries place value from tens-and-ones to 100 in Grade 1, through hundreds, expanded forms and numbers to 100000 in Grades 2–3, to millions and billions in Grade 5. Yemen carries place value from ones and tens in Grade 1 through expanded form to 1000, 10,000 and 999,999, then to hundreds of millions and billions. Indonesia carries place value from tens and ones in Grades 1–2, through three-digit place value in Grade 3 and place value to 10,000 in Grade 4, to ten-thousands and then to 1,000,000 in Grade 5. Nicaragua carries place value from tens and ones to 100 in Grade 1, through the hundreds table and expanded form to 1,000 in Grade 2 and to 10,000 in Grade 3, to the hundred-thousands table in Grade 4.

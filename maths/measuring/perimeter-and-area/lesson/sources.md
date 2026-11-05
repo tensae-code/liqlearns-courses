@@ -1,6 +1,6 @@
 # Sources — Perimeter and Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua
 
 Every part traces to its book and page.
 
@@ -168,6 +168,15 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 37:** *Matematika untuk SD/MI Kelas IV* (student book) — Indonesia, Hobri et al., Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-244-908-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 38:** *Matematika untuk SD/MI Kelas V* (student book) — Indonesia, Meita Fitrianawati, Ika Surtiani, Ait Istiandaru, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-427-916-5. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 39:** *MATEMÁTICA — Libro de Texto, 3er Grado — Versión Validada, III Edición (year not stated)* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 40:** *Matemática 4to Grado — Libro de Texto (NICAMATE 2), Primera Edición 2025* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 41:** *Matemática — Libro de Texto — 5to grado (NICAMATE 2), Primera Edición 2026* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 42:** *Matemática — Libro de Texto — 6to grado (NICAMATE 2), Primera Edición 2026* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 43:** *MATEMÁTICA 7 — Séptimo grado — Libro de Texto — Educación Secundaria (NICAMATE), Primera Edición 2019* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 44:** *MÓDULO Autoformativo de MATEMÁTICA — 7mo Grado — EDUCACIÓN SECUNDARIA A DISTANCIA EN EL CAMPO (module), Primera Edición 2016. Module evidence.* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 45:** *MÓDULO Autoformativo de MATEMÁTICA — 8vo Grado — EDUCACIÓN SECUNDARIA A DISTANCIA EN EL CAMPO (module), Primera Edición 2016. Module evidence.* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 46:** *MATEMÁTICA 9 — Noveno grado — Libro de Texto — Educación Secundaria (NICAMATE), Primera Edición 2019* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Perimeter (p.92); area (p.94); area of a rectangle (p.96) | Jordan, Grade 3 Student Book Term 2, Unit 11, L5–L7, pp.92–96 |
@@ -209,10 +218,19 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Perimeter and area of the trapezium; circumference and area of the circle | Yemen, Grade 6 Part 2, Unit 7, lessons 7-2–7-3, printed pp. 92–98 |
 | Area by counting unit squares, cm² and m², estimating area, drawing shapes of a given area; no "length × width" formula stated; no perimeter ("keliling" never as the mathematical term) | Indonesia, Grade 4 student book, Bab 4, printed pp. 103–138 |
 | Perimeter as the sum of side lengths — triangles, quadrilaterals, polygons, combined shapes; area as size of a region, unit squares, rectangle/square/triangle/parallelogram/trapezium/rhombus/kite areas derived by cutting and rearranging paper shapes, combined shapes, perimeter–area relation | Indonesia, Grade 5 student book, Ch. 4, printed pp. 105–130; Ch. 5, printed pp. 131–162 |
+| Perimeter of triangles | Nicaragua, Grade 3 old student book, Unit 13, printed pp. 169–183 |
+| Area — comparing plane regions by counting squares; square centimetre; area of rectangles and squares; composite figures; square metre, square kilometre; vara cuadrada and manzana (Nicaraguan land units) | Nicaragua, Grade 4 student book, Unit 11, printed pp. 152–171 |
+| Perimeter of triangles, quadrilaterals and polygons generally (including regular polygons); area of parallelograms by cut-and-rearrange into rectangles; area of triangles; finding a height or base from a known area | Nicaragua, Grade 5 student book, Unit 2, printed pp. 10–17; Unit 5, printed pp. 42–59 |
+| Area of the trapezium/trapezoid; area of the rhombus; area of composite figures; area of the circle; area of circular sectors; shaded regions | Nicaragua, Grade 6 student book, Unit 5, printed pp. 38–57 |
+| Perimeter of polygons; area of square, rectangle, triangle, parallelogram, rhombus and trapezium; circle and circular sector | Nicaragua, Grade 7 student book, Unit 7, printed pp. 147–171 |
+| Area and perimeter of triangles and quadrilaterals | Nicaragua, Grade 7 module, Unit IV, Tema 3, printed pp. 169–238 (module evidence) |
+| Perimeter and area of regular polygons; area of the circle and of circular sectors | Nicaragua, Grade 8 module, Unit IV, Sections 1–2, printed pp. 188–232 (module evidence) |
+| Area of an equilateral triangle and of a regular hexagon, by Pythagoras | Nicaragua, Grade 9 student book, Unit 6, Section 2, printed pp. 129–134 |
 
-**Acceptance count: taught in 14 countries (Kazakhstan, Jordan,
+
+**Acceptance count: taught in 15 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen, Indonesia).** Sierra Leone carries the cleanest
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua).** Sierra Leone carries the cleanest
 ladder — perimeter short cuts, rectangle and triangle areas with
 the perpendicular-height rule, and the parallelogram, trapezium
 and composite areas in JSS 2. Jordan carries perimeter and area
@@ -232,4 +250,4 @@ Grade 5. South Africa carries perimeter and area across Grades 5,
 7 and 8. Armenia carries rectangle and square area in Grade 5.
 Ghana's evidence is teacher-manual only (JICA B5 Lessons 92–100):
 no pupil textbook in Ghana's set teaches perimeter and area, and
-the lesson words Ghana that way throughout. Laos carries perimeter and area from rectangle and square area in Grade 4, through the full set — rectangle, square, triangle, parallelogram, trapezoid and circle — in Grade 5, to dissection proofs in Grade 7, with the Grade 5 circle-area slip corrected to 78.5 cm². Yemen carries perimeter and area from perimeter and area in Grade 3, through rectangles and squares, to parallelograms, triangles, rhombuses, trapeziums and circles. Indonesia carries perimeter and area from area by counting unit squares in Grade 4 — with no "length × width" formula stated and no perimeter taught at all — to perimeter as the sum of side lengths and the full set of shape areas derived by cutting and rearranging in Grade 5.
+the lesson words Ghana that way throughout. Laos carries perimeter and area from rectangle and square area in Grade 4, through the full set — rectangle, square, triangle, parallelogram, trapezoid and circle — in Grade 5, to dissection proofs in Grade 7, with the Grade 5 circle-area slip corrected to 78.5 cm². Yemen carries perimeter and area from perimeter and area in Grade 3, through rectangles and squares, to parallelograms, triangles, rhombuses, trapeziums and circles. Indonesia carries perimeter and area from area by counting unit squares in Grade 4 — with no "length × width" formula stated and no perimeter taught at all — to perimeter as the sum of side lengths and the full set of shape areas derived by cutting and rearranging in Grade 5. Nicaragua carries perimeter and area from triangle perimeter in Grade 3, through rectangle and square area with the Nicaraguan land units vara cuadrada and manzana in Grade 4, to polygon perimeters and parallelogram/triangle area in Grade 5, trapezium, rhombus, circle and composite area in Grade 6, and the full polygon/circle/sector range in Grade 7 (student book and module) and the Grade 8 module, with equilateral-triangle and hexagon areas by Pythagoras in Grade 9.

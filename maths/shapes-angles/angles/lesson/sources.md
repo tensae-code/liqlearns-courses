@@ -1,6 +1,6 @@
 # Sources — Angles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua
 
 Every part traces to its book and page.
 
@@ -111,6 +111,18 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 30:** *Matematika untuk SMP/MTs Kelas VII* (student book) — Indonesia, Dicky Susanto et al., Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-244-883-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 31:** *Buku Panduan Guru Matematika untuk SMP/MTs Kelas VII* (teacher guide) — Indonesia, Dicky Susanto et al., Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-244-881-5. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 32:** *Matemática 2do Grado — Libro de Texto (NICAMATE 2), Primera Edición 2025* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 33:** *MATEMÁTICA — Libro de Texto, 3er Grado — Versión Validada, III Edición (year not stated)* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 34:** *Matemática 3er Grado — Libro de Texto (NICAMATE 2), Primera Edición 2025* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 35:** *Matemática 4to Grado — Libro de Texto (NICAMATE 2), Primera Edición 2025* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 36:** *MATEMÁTICA 7 — Séptimo grado — Libro de Texto — Educación Secundaria (NICAMATE), Primera Edición 2019* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 37:** *MÓDULO Autoformativo de MATEMÁTICA — 7mo Grado — EDUCACIÓN SECUNDARIA A DISTANCIA EN EL CAMPO (module), Primera Edición 2016. Module evidence.* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 38:** *MATEMÁTICA 8 — Octavo grado — Libro de Texto — Educación Secundaria (NICAMATE), Primera Edición 2019* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 39:** *MATEMÁTICA 9 — Noveno grado — Libro de Texto — Educación Secundaria (NICAMATE), Primera Edición 2019* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 40:** *Matemática — Décimo Grado — Libro de Texto, Primera Edición (year left blank as printed)* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 41:** *MÓDULO Autoformativo de MATEMÁTICA — 10mo Grado (module), Primera Edición 2017. Module evidence.* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 42:** *Guía de Matemática — Guía para Maestros, 1er Grado — Versión Validada (teacher guide; no year printed). Guide evidence only: companions the old Grade 1 student book, NOT in this set.* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Angles lesson: lines, rays and angles | Jordan, Grade 3 Student Book Term 1, Unit 6, L2 Angles, p.98 |
@@ -144,10 +156,24 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Right angles, what an angle is, acute/right/obtuse/straight/full/zero/reflex angles, measuring and drawing with a protractor | Indonesia, Grade 5 student book, Ch. 6, printed pp. 163–190 |
 | Angle relations on intersecting and parallel lines — vertical, corresponding, alternate, same-side, complementary, supplementary | Indonesia, Grade 7 Merdeka student book, Ch. 5, printed pp. 159–184 |
 | Same-side exterior angle pairs stated correctly (α and η, β and θ) — the guide's conclusion corrects the student book's Table 5.2 (p. 167), which lists the alternate exterior pairs again for same-side exterior; teach the guide's correct pairs | Indonesia, Grade 7 Merdeka teacher guide, Bab 5 conclusion, printed p. 191 (guide evidence) |
+| Right angle; making a right angle by folding paper as a corner-tester | Nicaragua, Grade 2 NICAMATE 2 student book, Unit 11, printed pp. 152–165 |
+| Lines — open/closed, straight/curved/mixed/broken; lines by position; segments; intersecting lines; angles; perpendicular and parallel lines | Nicaragua, Grade 3 old student book, Unit 10, printed pp. 127–144 |
+| Angle and its size — angles in isosceles and equilateral triangles compared, not measured in degrees | Nicaragua, Grade 3 NICAMATE 2 student book, Unit 9, printed pp. 114–121 |
+| Angles in degrees with a protractor — elements of an angle, measuring and drawing angles, the full-turn (rotación) angle | Nicaragua, Grade 4 student book, Unit 2, printed pp. 24–41 |
+| Sum of the measures of a triangle's angles; acute and obtuse triangles | Nicaragua, Grade 4 student book, Unit 4, printed pp. 60–67 |
+| Sum of the measures of a quadrilateral's angles; perpendicular and parallel lines | Nicaragua, Grade 4 student book, Unit 8, printed pp. 108–125 |
+| Angle, measure and classification; perpendicular and parallel lines in the plane | Nicaragua, Grade 7 student book, Unit 6, Section 1, printed pp. 125–146 |
+| Angles and their measure; adjacent, complementary and supplementary angles; angles formed by two parallel lines cut by a transversal | Nicaragua, Grade 7 module, Unit IV, Tema 2, printed pp. 169–238 (module evidence) |
+| Complementary, supplementary and vertical angles; corresponding, alternate interior and alternate exterior angles; conditions for parallelism; interior and exterior angles of triangles and polygons | Nicaragua, Grade 8 student book, Unit 5, printed pp. 89–104 |
+| Inscribed angles — the inscribed angle theorem, the semi-inscribed (tangent–chord) angle, angles inside and outside the circle | Nicaragua, Grade 9 student book, Unit 7, printed pp. 135–148 |
+| Angle measure — degrees, minutes, seconds; radians; coterminal angles | Nicaragua, Grade 10 student book, Unit 2, printed pp. 55–62 |
+| Angles — classification, complementary and supplementary angles, standard position, quadrantal and coterminal angles, reference angle; three systems of measure including the centesimal (gradian) system | Nicaragua, Grade 10 module, Unit IV, printed pp. 130–137 (module evidence) |
+| Lines — open/closed, straight/curved/mixed/broken; lines by position; straight line, segment, intersecting lines; perpendicular and parallel lines; the ray | Nicaragua, Grade 1 old guide, Unidad complementaria 2: Líneas, GM printed pp. 166–171 (guide evidence — companions the old Grade 1 student book, not in this set) |
 
-**Acceptance count: taught in 14 countries (Kazakhstan, Jordan,
+
+**Acceptance count: taught in 15 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen, Indonesia).** Egypt carries the fullest single
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua).** Egypt carries the fullest single
 treatment — the angle kinds, the protractor, complementary and
 supplementary pairs, the transversal's eight angles, and the
 triangle and quadrilateral sums in one Grade 7 unit. Jordan
@@ -166,4 +192,4 @@ Mauritania carries angle recognition in Grade 3 and angles in
 Grade 6. South Africa carries interior angles in Grade 9.
 Ghana's evidence is teacher-manual only (JICA B5 Lessons
 101–102): no pupil textbook in Ghana's set teaches angles, and
-the lesson words Ghana that way throughout. Laos carries angles from identifying them in Grade 3, through protractor measurement in Grade 4, to kinds, vertical angles and triangle and quadrilateral angle sums in Grades 6–7 and inscribed and central angles in Grade 8. Yemen carries angles from the angle defined in Grade 3, through angle types and measuring angles, to alternate, corresponding and co-interior angles and the triangle angle sum. Indonesia carries angles from what an angle is and the five angle types in Grade 3, through the full angle kinds with protractor work in Grade 5, to vertical, corresponding, alternate and same-side pairs with complementary and supplementary angles in Grade 7 — with the Grade 7 student book's Table 5.2 error corrected: its same-side exterior pairs are wrong (p. 167) and the guide's correct pairs (α and η, β and θ, p. 191) are taught here.
+the lesson words Ghana that way throughout. Laos carries angles from identifying them in Grade 3, through protractor measurement in Grade 4, to kinds, vertical angles and triangle and quadrilateral angle sums in Grades 6–7 and inscribed and central angles in Grade 8. Yemen carries angles from the angle defined in Grade 3, through angle types and measuring angles, to alternate, corresponding and co-interior angles and the triangle angle sum. Indonesia carries angles from what an angle is and the five angle types in Grade 3, through the full angle kinds with protractor work in Grade 5, to vertical, corresponding, alternate and same-side pairs with complementary and supplementary angles in Grade 7 — with the Grade 7 student book's Table 5.2 error corrected: its same-side exterior pairs are wrong (p. 167) and the guide's correct pairs (α and η, β and θ, p. 191) are taught here. Nicaragua carries angles from the right angle in Grade 2 and the lines-and-angles unit in Grade 3, through degree measurement with a protractor and the triangle and quadrilateral angle sums in Grade 4, to angle relations and the transversal in Grades 7–8 (student book and module), inscribed angles in Grade 9, and degree/minute/second and radian measure in Grade 10 (student book and module, the module adding the centesimal system).

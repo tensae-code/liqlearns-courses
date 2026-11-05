@@ -1,6 +1,6 @@
 # Sources — Percentages
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua
 
 Every part traces to its book and page.
 
@@ -109,6 +109,9 @@ READ + CITATION CHECK PASSED 2026-11-04).
 **Book 23:** *Matematika untuk SMP/MTs Kelas VII* (Mathematics, Grade 7 student book, Kurikulum Merdeka) — Indonesia, Dicky Susanto, Savitri Sihombing, Marianna Magdalena Radjawane, Ambarsari Kusuma Wardani, Theja Kurniawan, Yulian Candra, Sinta Mulyani, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2022, ISBN 978-602-244-883-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
 **Book 24:** *Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* (Mathematics, Grade 10 student book, Revised edition) — Indonesia, Dicky Susanto, Theja Kurniawan, Savitri K. Sihombing, Eunice Salim, Marianna Magdalena Radjawane, Ummy Salmah, Ambarsari Kusuma Wardani, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2023, ISBN 978-623-118-558-7. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
 **Book 25:** *Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)* (Mathematics, Grade 12 student book, Revised edition) — Indonesia, Mohammad Tohir, Ahmad Choirul Anam, Ibnu Taufiq, Tista Imam Riyadi, Kementerian Pendidikan Dasar dan Menengah, 2025, ISBN 978-634-00-3118-8. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
+**Book 26:** *Matemática — Libro de Texto — 5to grado* (NICAMATE 2) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2026, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 27:** *MÓDULO Autoformativo de MATEMÁTICA — 7mo Grado — EDUCACIÓN SECUNDARIA A DISTANCIA EN EL CAMPO* (Módulo Autoformativo) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2016, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED). Module evidence: a self-study text with no answer key.
+**Book 28:** *MÓDULO Autoformativo de MATEMÁTICA — 10mo Grado* (Educación Secundaria a Distancia en el Campo) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2017, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED). Module evidence: a self-study text with no answer key.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -132,10 +135,13 @@ READ + CITATION CHECK PASSED 2026-11-04).
 | Interest — simple and compound — new in this edition | Indonesia, Grade 10 Revisi student book, Bab 2, printed pp. 35–70 |
 | Simple interest; investment and loans — simple interest rate, compound-interest investment, annuity investment, compound-interest loans, loans with annuities | Indonesia, Grade 12 Revisi student book, Bab 1 (simple interest), printed pp. 1–34; Bab 2, printed pp. 35–80 |
 | Indonesia's honest limit (stated, not forced): percent is never formally taught as a concept anywhere in the set — Grade 4 links hundredths decimals to percent, Grade 7 uses percent only as an application, and the percent work that exists is interest in Grades 10 and 12 Revisi | Indonesia — filed in maths/books/indonesia.md |
+| Ratio and percent: percent concept, calculating percentages, percentages over 100, finding the compared quantity and the base quantity, increase and discount problems | Nicaragua, Grade 5 student book (NICAMATE 2), Unit 6, printed pp. 60–73 |
+| Percentage, simple interest and commercial discount (module evidence) | Nicaragua, Grade 7 module, Unit III, Tema 4 (Unit III, printed pp. 111–168) |
+| Simple interest I = Prt and compound interest S = P(1+r)^t, with monthly capitalisation S = 10,000(1.005)^120 = C$18,193.96 (module evidence) — the book misprints the factor as (1,015)^120 on printed p. 103; teach 1,005, never 1,015 | Nicaragua, Grade 10 module, Unit III, printed pp. 100–104 |
 
-**Acceptance count: taught in 14 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 15 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen, Indonesia).** Kazakhstan defines percent as 1/100
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua).** Kazakhstan defines percent as 1/100
 and finds p% as 1% × p in Grade 4, then carries a full percent
 chapter in Grade 5 — but teaches no percent increase/decrease
 or interest, stated honestly above; Jordan introduces percent
@@ -163,4 +169,4 @@ Grade 5 and ratio and percentage problems in Grade 6; Ghana
 teaches percent only as teacher-manual evidence (B4's percent
 from decimal fractions); South Africa teaches percentages with
 fractions and decimals in Grade 6, percentage increase and
-decrease in Grade 7, and percentage problems in Grade 8. Laos carries percentages from % of a quantity with interest tables in Grade 5, through the x/100 rule and successive discounts in Grade 6, to simple and compound interest in Grade 9. Yemen carries percentages whole in Grade 6 — percentage as a ratio out of 100, converting ratios to percentages and back, profit and loss, and zakat as a percentage application (1/40 = 2.5%). Indonesia carries percentages only in part — hundredths decimals linked to percent in Grade 4, percent only as an application (discounts) in Grade 7 Merdeka, and simple and compound interest in Grades 10 and 12 Revisi; percent is never formally taught as a concept anywhere in the set.
+decrease in Grade 7, and percentage problems in Grade 8. Laos carries percentages from % of a quantity with interest tables in Grade 5, through the x/100 rule and successive discounts in Grade 6, to simple and compound interest in Grade 9. Yemen carries percentages whole in Grade 6 — percentage as a ratio out of 100, converting ratios to percentages and back, profit and loss, and zakat as a percentage application (1/40 = 2.5%). Indonesia carries percentages only in part — hundredths decimals linked to percent in Grade 4, percent only as an application (discounts) in Grade 7 Merdeka, and simple and compound interest in Grades 10 and 12 Revisi; percent is never formally taught as a concept anywhere in the set. Nicaragua carries percentages from the percent concept with increase and discount problems in Grade 5, through percentage with simple interest and commercial discount in the Grade 7 module (module evidence), to simple and compound interest in the Grade 10 module (module evidence); the Grade 10 module's (1,015)^120 misprint on p. 103 is never taught — the correct factor is 1,005.

@@ -1,6 +1,6 @@
 # Sources — Coordinates and graphs
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos, Yemen, Indonesia
+countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua
 
 Every part traces to its book and page.
 
@@ -55,6 +55,12 @@ textbook.
 **Book 20:** *Buku Panduan Guru Matematika untuk SMP/MTs Kelas VIII* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2022, ISBN 978-602-427-902-8. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED). Teacher-guide evidence only: no Merdeka Grade 8 student book is in hand.
 **Book 21:** *Matematika Tingkat Lanjut untuk SMA/MA Kelas XII* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2022, ISBN 978-602-244-771-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 22:** *Matemática — Libro de Texto — 6to grado* (NICAMATE 2) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2026. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 23:** *MATEMÁTICA 7 — Séptimo grado — Libro de Texto — Educación Secundaria* (NICAMATE) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2019. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 24:** *MATEMÁTICA 8 — Octavo grado — Libro de Texto — Educación Secundaria* (NICAMATE) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2019. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 25:** *MATEMÁTICA 9 — Noveno grado — Libro de Texto — Educación Secundaria* (NICAMATE) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2019. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 26:** *MATEMÁTICA 11 — Undécimo grado — Libro de Texto — Educación Secundaria* (NICAMATE) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2019. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The coordinate plane in all four quadrants with negative coordinates | Jordan, Grade 6 Term 1, Unit 4 "Transformations and geometric constructions", L1 The coordinate plane p.92 |
@@ -80,9 +86,16 @@ textbook.
 | Straight-line equations: graphing, gradient, point–gradient and two-point forms (guide evidence — no Merdeka Grade 8 student book in hand) | Indonesia, Grade 8 Merdeka teacher guide, Bab 5, printed pp. 215–248 |
 | Equation of the circle; position of a point/line relative to a circle; tangent-line equations | Indonesia, Grade 12 Tingkat Lanjut, Bab 1, printed pp. 1–64 |
 
-**Acceptance count: taught in 10 countries (Egypt, Jordan,
+| Direct proportion as y = ax, the Cartesian plane, graph of direct proportionality (a > 0 and a < 0), rule of three | Nicaragua, Grade 6 student book, Unit 11, printed pp. 120–141 |
+| Concept of function; direct proportionality as y = ax and inverse proportionality as y = a/x, with graphs (a > 0 and a < 0); the Cartesian plane; restricted domain | Nicaragua, Grade 7 student book, Unit 5, printed pp. 87–124 |
+| First-degree function y = ax and y = ax + b, its graph, slope and intercepts, domain and range; graph of ax + by = c, its intercepts, y = k, x = h | Nicaragua, Grade 8 student book, Unit 3, printed pp. 41–70 |
+| The Cartesian plane in quadrants; graphs of y = 2x and y = 2x + 3; graph of y = x² | Nicaragua, Grade 9 student book, Unit 3, Section 1, printed pp. 58–66 |
+| Distance between two points and division of a segment in a given ratio — on the number line only (the plane form is Grade 11) | Nicaragua, Grade 9 student book, Unit 4, printed pp. 85–94 |
+| Distance between two points in the plane; dividing a segment in a given ratio; midpoint; the line in slope–intercept, point–slope, two-point and general form; parallel and perpendicular conditions; distance from the origin to a line; equations of the circle | Nicaragua, Grade 11 student book, Unit 4, printed pp. 70–97 |
+
+**Acceptance count: taught in 11 countries (Egypt, Jordan,
 Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos — Ghana
-as teacher evidence only, Yemen, Indonesia).** South Africa carries the
+as teacher evidence only, Yemen, Indonesia, Nicaragua).** South Africa carries the
 plainest gradient teaching — gradient as change in y over
 change in x, with intercepts named, built from tables of
 ordered pairs. Egypt carries the slope rules (m = tan θ,
@@ -98,4 +111,4 @@ teacher manual — worded as teacher evidence. Honest
 negative: South Africa's Grade 9 book has no slope–intercept
 form as a named method and no function notation — the lesson
 takes the named form from Egypt and Kazakhstan, and says so
-here. Laos carries coordinates and graphs from broken-line graphs in Grade 4, through step and line graphs and coordinate enlargement in Grade 5, to ordered pairs, proportion graphs and full straight-line work — slope, parallels, perpendiculars and point-to-line distance — in Grades 7–8. Yemen carries coordinates and graphs from the coordinate system in Grade 7, through axis-parallel then general distance and midpoint, to slope and the equation of a line and the equation of the circle. Indonesia carries coordinates and graphs from grid locations and (B,3) notation in Grade 6, through Cartesian coordinates and straight-line equations — graphing, gradient, parallel and perpendicular lines — in Grade 8, to the equation of the circle in Grade 12 Tingkat Lanjut; its Grade 8 Merdeka straight-line chapter is guide evidence only, the Merdeka student book not being in hand.
+here. Laos carries coordinates and graphs from broken-line graphs in Grade 4, through step and line graphs and coordinate enlargement in Grade 5, to ordered pairs, proportion graphs and full straight-line work — slope, parallels, perpendiculars and point-to-line distance — in Grades 7–8. Yemen carries coordinates and graphs from the coordinate system in Grade 7, through axis-parallel then general distance and midpoint, to slope and the equation of a line and the equation of the circle. Indonesia carries coordinates and graphs from grid locations and (B,3) notation in Grade 6, through Cartesian coordinates and straight-line equations — graphing, gradient, parallel and perpendicular lines — in Grade 8, to the equation of the circle in Grade 12 Tingkat Lanjut; its Grade 8 Merdeka straight-line chapter is guide evidence only, the Merdeka student book not being in hand. Nicaragua carries coordinates and graphs from direct proportion as y = ax with its graph in Grade 6, through the function concept and direct/inverse proportion graphs in Grade 7 and the full first-degree function — slope, intercepts, domain and range — in Grade 8, to the Cartesian plane and the parabola y = x² in Grade 9 and the full analytic-geometry course — distance, midpoint, section formula, every form of the line, parallel/perpendicular conditions and the circle — in Grade 11.

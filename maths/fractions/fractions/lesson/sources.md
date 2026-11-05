@@ -1,6 +1,6 @@
 # Sources — Fractions
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua
 
 Every part traces to its book and page.
 
@@ -128,6 +128,10 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 32:** *Matematika untuk SD/MI Kelas VI* (Mathematics, Grade 6 student book) — Indonesia, Dicky Susanto, Savitri Sihombing, Ambarsari Kusuma Wardani, Ummy Salmah, Eunice Salim, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Kurikulum Merdeka 2022, ISBN 978-602-427-917-2. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
 **Book 33:** *Matematika untuk SMP/MTs Kelas VII* (Mathematics, Grade 7 student book, Kurikulum Merdeka) — Indonesia, Dicky Susanto, Savitri Sihombing, Marianna Magdalena Radjawane, Ambarsari Kusuma Wardani, Theja Kurniawan, Yulian Candra, Sinta Mulyani, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2022, ISBN 978-602-244-883-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
 **Book 34:** *Matematika, Buku Siswa, SMP/MTs Kelas VII, Semester 1* (Mathematics, Grade 7 student book, Semester 1, Kurikulum 2013) — Indonesia, Abdur Rahman As'ari, Mohammad Tohir, Erik Valentino, Zainul Imron, Ibnu Taufiq, Kementerian Pendidikan dan Kebudayaan, Edisi Revisi 2017, ISBN 978-602-282-985-0. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
+**Book 35:** *Matemática 4to Grado — Libro de Texto* (NICAMATE 2) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2025, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 36:** *Matemática — Libro de Texto — 5to grado* (NICAMATE 2) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2026, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 37:** *MATEMÁTICA 7 — Séptimo grado — Libro de Texto — Educación Secundaria* (NICAMATE) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2019, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 38:** *MÓDULO Autoformativo de MATEMÁTICA — 7mo Grado — EDUCACIÓN SECUNDARIA A DISTANCIA EN EL CAMPO* (Módulo Autoformativo) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2016, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED). Module evidence: a self-study text with no answer key.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -158,10 +162,14 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 | Rational numbers as a/b, terminating vs repeating decimals, irrationals by contrast, comparing rationals, fraction and decimal operations | Indonesia, Grade 7 Merdeka student book, Ch. 2, printed pp. 35–82 |
 | Comparing fractions; fraction addition, subtraction, multiplication and division; positive-integer powers | Indonesia, Grade 7 K13 2017 Semester-1 student book, Ch. 1, printed pp. 1–108 |
 | Indonesia's honest limit (stated, not forced): Grade 3 teaches no fractions at all — fractions were Grade 2 halves/quarters and return in Grade 4 | Indonesia, Grade 3 student book: no fractions — filed in maths/books/indonesia.md |
+| First fractions: dividing into equal parts, half of half, fractions of a litre, mixed numbers, improper ↔ mixed conversion, comparing | Nicaragua, Grade 4 student book (NICAMATE 2), Unit 9, printed pp. 126–143 |
+| Equivalent fractions, comparing fractions with different denominators, simplifying, division as a fraction, fractions as decimals and decimals as fractions | Nicaragua, Grade 5 student book (NICAMATE 2), Unit 9, printed pp. 94–105 |
+| Rational numbers as a set (ℚ): concept of fraction, the rational number, order relations, graphing rationals on the number line (module evidence) | Nicaragua, Grade 7 module, Unit II, Tema 1 (Unit II, printed pp. 59–110) |
+| Fractions revised with LCM — addition, subtraction, multiplication and division of fractions | Nicaragua, Grade 7 student book (NICAMATE), Unit 1, Section 2, printed pp. 1–14 |
 
-**Acceptance count: taught in 14 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 15 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen, Indonesia).** Kazakhstan carries the first share on
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua).** Kazakhstan carries the first share on
 clock faces and the full Grade 5 fraction course with the
 comparing and part-of-a-number rules; Jordan carries the youngest
 path (halves and quarters only in Grade 1, then the full first
@@ -182,4 +190,4 @@ Ghana carries fractions only as teacher-manual evidence (no pupil
 textbook in the set), folding strips and bottle tops; South Africa
 carries halves and quarters in Grade 2, fractions to sixths in
 Grade 3, and the first definitions of proper, mixed and improper
-in Grade 6. Laos carries fractions from their first appearance in Grade 3, through whole–decimal–fraction links and equivalence in Grades 4–5, to rational numbers, repeating decimals and irrationals in Grade 7. Yemen carries fractions from half and quarter in Grade 1, through reading, writing, equivalence and ordering, to improper fractions and mixed numbers and all four operations on fractions. Indonesia carries fractions from halves and quarters in words and pictures in Grade 2, through unit fractions, equivalence and the hundredths-decimal link in Grade 4, comparing, ordering and mixed numbers in Grade 5, fraction-to-decimal conversion in Grade 6, to rational numbers, repeating decimals and irrationals in Grade 7 (Merdeka and K13 editions).
+in Grade 6. Laos carries fractions from their first appearance in Grade 3, through whole–decimal–fraction links and equivalence in Grades 4–5, to rational numbers, repeating decimals and irrationals in Grade 7. Yemen carries fractions from half and quarter in Grade 1, through reading, writing, equivalence and ordering, to improper fractions and mixed numbers and all four operations on fractions. Indonesia carries fractions from halves and quarters in words and pictures in Grade 2, through unit fractions, equivalence and the hundredths-decimal link in Grade 4, comparing, ordering and mixed numbers in Grade 5, fraction-to-decimal conversion in Grade 6, to rational numbers, repeating decimals and irrationals in Grade 7 (Merdeka and K13 editions). Nicaragua carries first fractions in Grade 4 — meaning, fractions of a litre, mixed numbers, conversion and comparing — then equivalent fractions, simplifying and the fraction–decimal link in Grade 5, rationals as a set with order and the number line in the Grade 7 module (module evidence), and a full revision of fraction operations with LCM in the Grade 7 student book.

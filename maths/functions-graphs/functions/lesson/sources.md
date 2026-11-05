@@ -1,6 +1,6 @@
 # Sources — Functions
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia
+countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua
 
 Every part traces to its book and page.
 
@@ -75,6 +75,14 @@ CITATION CHECK PASSED 2026-11-05).
 **Book 27:** *Panduan Guru Matematika Tingkat Lanjut untuk SMA/MA Kelas XI (Edisi Revisi)* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2024, ISBN 978-623-388-339-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED). Teacher-guide evidence for the 2024 TL edition; the held 2021 TL student book is a different edition.
 **Book 28:** *Matematika untuk SMA/SMK/MA Kelas XII* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2022, ISBN 978-602-244-738-2. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 29:** *Matemática — Libro de Texto — 6to grado* (NICAMATE 2) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2026. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 30:** *MATEMÁTICA 7 — Séptimo grado — Libro de Texto — Educación Secundaria* (NICAMATE) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2019. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 31:** *MATEMÁTICA 8 — Octavo grado — Libro de Texto — Educación Secundaria* (NICAMATE) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2019. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 32:** *MATEMÁTICA 9 — Noveno grado — Libro de Texto — Educación Secundaria* (NICAMATE) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2019. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 33:** *Matemática — Décimo Grado — Libro de Texto* (Educación Secundaria) — Nicaragua, Ministerio de Educación (MINED), Primera Edición (year left blank as printed). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 34:** *MÓDULO Autoformativo de MATEMÁTICA — 10mo Grado* (Educación Secundaria a Distancia en el Campo) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2017. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 35:** *MATEMÁTICA 11 — Undécimo grado — Libro de Texto — Educación Secundaria* (NICAMATE) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2019. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Cartesian product (ordered pairs, arrow and Cartesian diagrams, order matters); relations between sets, domain, range and representation; function (also called application): when a relation is a function, its domain, codomain and range, with worked examples; polynomial functions (constant, linear and quadratic) and their graphs | Egypt, Preparatory 3 old Term 1, Unit 1 Relations and functions, 1-1 Cartesian product p.2; 1-2 Relations p.8; 1-3 Function p.11; 1-4 Polynomial functions p.14 (French contents-page numbers) |
@@ -106,8 +114,16 @@ CITATION CHECK PASSED 2026-11-05).
 | Trigonometric functions (unit circle, graphs, identities, sine rule, cosine rule); logarithmic, algebraic and non-algebraic functions (guide evidence for the 2024 TL edition — the held 2021 TL student book is a different edition) | Indonesia, Grade 11 TL teacher guide (Edisi Revisi 2024), Bab 3, printed pp. 115–174; Bab 6, printed pp. 239–288 |
 | Transformations of functions: translation, reflection, dilation, rotation and combinations of function transformations | Indonesia, Grade 12 Merdeka, Bab 1, printed pp. 1–48 |
 
-**Acceptance count: taught in 9 countries (Egypt, Jordan,
-Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia).** Egypt carries the
+| Direct proportion expressed as y = ax, with its graph | Nicaragua, Grade 6 student book, Unit 11, printed pp. 120–141 |
+| Concept of function; direct proportionality as the function y = ax and inverse proportionality as y = a/x, with graphs | Nicaragua, Grade 7 student book, Unit 5, printed pp. 87–124 |
+| First-degree function y = ax and y = ax + b, its graph, rate of change, slope and intercepts, domain and range | Nicaragua, Grade 8 student book, Unit 3, printed pp. 41–70 |
+| Quadratic functions: y = x² and y = ax², translations, vertex form y = a(x−h)² + k, maximum and minimum values and on intervals — the book's conclusion box on printed p. 61 states the domain of y = x² wrongly (positives and zero only); the lesson teaches the correct domain, all real numbers | Nicaragua, Grade 9 student book, Unit 3, printed pp. 57–84 |
+| Piecewise-defined, absolute-value, greatest-integer, square-root and rational functions, with asymptotes, domain and range — the greatest-integer function (printed pp. 269–271) is taught but missing from the book's contents list | Nicaragua, Grade 10 student book, Unit 5, printed pp. 245–298 |
+| Relations and functions, domain and range; quadratic, piecewise-defined and greatest-integer functions; absolute-value function; exponential and logarithmic functions; inverse functions (module evidence) | Nicaragua, Grade 10 module, Unit III, printed pp. 77–128 |
+| Exponential functions and equations; logarithmic functions and equations — the "es decir" asymptote glosses on printed pp. 44 and 62 are muddled and are not taught as stated | Nicaragua, Grade 11 student book, Units 2–3, printed pp. 29–69 |
+
+**Acceptance count: taught in 10 countries (Egypt, Jordan,
+Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua).** Egypt carries the
 fullest build — Cartesian product, relation, function, domain
 and range in Preparatory 3; the sign of a function in
 Secondary 1; the inverse function in Grade 11 Pure. Jordan
@@ -127,4 +143,4 @@ Mauritania enters from 5AS. Composite functions are taught
 here as the books' function work put together (two functions
 in a row, inside-out) — the word "composite" is the lesson's
 own label for that book-taught operation, and the inverse is
-taught from Egypt's Grade 11 lesson, not invented. Laos carries functions from mappings and linear and affine functions in Grade 8, through quadratic functions in Grade 9, to the full function course — relations, constant, linear, quadratic, cubic, root, rational, exponential, logarithmic, trigonometric, hyperbolic and inverse functions — in Grades 10–12. Yemen carries functions from the function and the linear function in Grade 9, through mappings — including composition of mappings, taught under the mappings name — in Grade 10, to real functions, their types and monotonicity in Grade 11 science. Indonesia carries functions from relations and linear functions in Grade 8, through exponential and quadratic functions in Grade 10, to composition and inverses and transformations of functions in Grades 11–12, with trigonometric, logarithmic and algebraic functions in Grade 11 Tingkat Lanjut. Note: Indonesia teaches NO function composition or inverses in Grade 10 — composition is taught in Grade 11 — so the lesson's 'composite functions' label rests on Grade 11 teaching, as with Yemen's Grade 10 mappings; Grade 8 functions are linear only, and piecewise functions are not a named topic in the held books.
+taught from Egypt's Grade 11 lesson, not invented. Laos carries functions from mappings and linear and affine functions in Grade 8, through quadratic functions in Grade 9, to the full function course — relations, constant, linear, quadratic, cubic, root, rational, exponential, logarithmic, trigonometric, hyperbolic and inverse functions — in Grades 10–12. Yemen carries functions from the function and the linear function in Grade 9, through mappings — including composition of mappings, taught under the mappings name — in Grade 10, to real functions, their types and monotonicity in Grade 11 science. Indonesia carries functions from relations and linear functions in Grade 8, through exponential and quadratic functions in Grade 10, to composition and inverses and transformations of functions in Grades 11–12, with trigonometric, logarithmic and algebraic functions in Grade 11 Tingkat Lanjut. Note: Indonesia teaches NO function composition or inverses in Grade 10 — composition is taught in Grade 11 — so the lesson's 'composite functions' label rests on Grade 11 teaching, as with Yemen's Grade 10 mappings; Grade 8 functions are linear only, and piecewise functions are not a named topic in the held books. Nicaragua carries functions from direct proportion as y = ax in Grade 6, through the function concept with y = ax and y = a/x in Grade 7 and the first-degree function in Grade 8, to quadratic functions in vertex form with maxima and minima in Grade 9, then piecewise, absolute-value, greatest-integer, square-root and rational functions in Grade 10 — in both the student book and the module, which adds exponential, logarithmic and inverse functions — and exponential and logarithmic functions with their equations in Grade 11.

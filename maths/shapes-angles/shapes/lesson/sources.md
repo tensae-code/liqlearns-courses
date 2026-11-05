@@ -1,6 +1,6 @@
 # Sources — Shapes
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua
 
 Every part traces to its book and page.
 
@@ -113,6 +113,18 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 35:** *Matematika untuk SD/MI Kelas VI* (student book) — Indonesia, Dicky Susanto et al., Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-427-917-2. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 36:** *Matematika untuk SMP/MTs Kelas IX* (student book) — Indonesia, Yosep Dwi Kristanto et al., Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-427-918-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 37:** *Guía de Matemática — Guía para Maestros, 1er Grado — Versión Validada (teacher guide; no year printed). Guide evidence only: companions the old Grade 1 student book, NOT in this set.* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 38:** *Matemática 2 — Libro de Texto, 2do Grado — Versión Validada, Tercera Edición 2015* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 39:** *Matemática 2do Grado — Libro de Texto (NICAMATE 2), Primera Edición 2025* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 40:** *MATEMÁTICA — Libro de Texto, 3er Grado — Versión Validada, III Edición (year not stated)* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 41:** *Matemática 3er Grado — Libro de Texto (NICAMATE 2), Primera Edición 2025* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 42:** *Matemática 4to Grado — Libro de Texto (NICAMATE 2), Primera Edición 2025* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 43:** *Matemática — Libro de Texto — 5to grado (NICAMATE 2), Primera Edición 2026* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 44:** *Matemática — Libro de Texto — 6to grado (NICAMATE 2), Primera Edición 2026* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 45:** *MATEMÁTICA 7 — Séptimo grado — Libro de Texto — Educación Secundaria (NICAMATE), Primera Edición 2019* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 46:** *MATEMÁTICA 8 — Octavo grado — Libro de Texto — Educación Secundaria (NICAMATE), Primera Edición 2019* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 47:** *Matemática — Décimo Grado — Libro de Texto, Primera Edición (year left blank as printed)* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Polygons named and sorted by vertices; naming by number of sides | Egypt, Grade 3 Term 1 old edition, Chapter 4, printed pp.44–61 (Polygons p.44; Properties of Polygons) |
@@ -151,10 +163,28 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Triangles by sides and by angles, angle sum 180° by paper tearing; trapezium/parallelogram/rectangle/rhombus/square/kite compared in side/angle/diagonal tables — inclusive trapezium definition, so a parallelogram counts as a trapezium here | Indonesia, Grade 5 student book, Ch. 7, printed pp. 191–234 |
 | Cubes and cuboids: constructing and decomposing cubes, cuboids and their combinations, spatial visualisation, dice nets (no volume or surface area in this chapter) | Indonesia, Grade 6 student book, Ch. 3, printed pp. 75–98 |
 | Classification of solids and nets | Indonesia, Grade 9 student book, Bab 2, printed pp. 41–134 |
+| Plane figures — triangles, squares, rectangles, circles; interior, exterior, border; composing plane figures | Nicaragua, Grade 1 old guide, Unidad complementaria 1: Figuras geométricas, GM printed pp. 156–165 (guide evidence — companions the old Grade 1 student book, not in this set) |
+| Solids — cube, rectangular prism, sphere; faces, edges and vertices; plane figures formed with triangles; sides and vertices of triangles, squares and rectangles | Nicaragua, Grade 2 old student book, Unit 7, printed pp. 123–132 |
+| Triangles, quadrilaterals, circles; right angle; rectangle (opposite sides equal); square; right triangle; box shapes — faces, edges, vertices | Nicaragua, Grade 2 NICAMATE 2 student book, Unit 11, printed pp. 152–165 |
+| Solids — cylinder, cone and pyramid; their elements | Nicaragua, Grade 3 old student book, Unit 5, printed pp. 65–70 |
+| Plane figures — drawing circles with a compass; elements of the triangle; classifying triangles; elements of the quadrilateral; rectangle and square | Nicaragua, Grade 3 old student book, Unit 13, printed pp. 169–183 |
+| Circle — centre and radius; constructing circles; diameter; circular designs; rolling bodies — sphere and cylinder | Nicaragua, Grade 3 NICAMATE 2 student book, Unit 7, printed pp. 90–97 |
+| Triangles — classifying triangles; constructing isosceles and equilateral triangles; angle size compared, not measured | Nicaragua, Grade 3 NICAMATE 2 student book, Unit 9, printed pp. 114–121 |
+| Triangles — angles of isosceles and equilateral triangles; sum of a triangle's angles; acute and obtuse triangles; constructing triangles | Nicaragua, Grade 4 student book, Unit 4, printed pp. 60–67 |
+| Quadrilaterals — trapezoids and parallelograms, properties of parallelograms, rhombus, diagonals and their properties | Nicaragua, Grade 4 student book, Unit 8, printed pp. 108–125 |
+| Rectangular prisms — types, faces, edges and vertices, nets, perpendicularity and parallelism between faces and edges | Nicaragua, Grade 4 student book, Unit 10, printed pp. 144–151 |
+| Polygons — classification by number of sides; sum of interior angles; regular polygons | Nicaragua, Grade 5 student book, Unit 2, printed pp. 10–17 |
+| Prisms and cylinders — classifying solids, characteristics of prisms and cylinders, perspective drawing, nets of a triangular prism and of a cylinder | Nicaragua, Grade 5 student book, Unit 11, printed pp. 114–125 |
+| Regular polygons — characteristics of a regular octagon, constructing regular hexagons and pentagons with ruler and compass | Nicaragua, Grade 6 student book, Unit 2, printed pp. 12–21 |
+| Polyhedra and rolling bodies — pyramid and cone; classification of solids; nets of a pyramid and of a cone | Nicaragua, Grade 6 student book, Unit 4, printed pp. 32–37 |
+| Basic notions — point, line, plane; segments; triangle classification by interior angles; constructions with ruler and compass (perpendicular bisector, angle bisector, triangles) | Nicaragua, Grade 7 student book, Unit 6, printed pp. 125–146 |
+| Parallelograms — properties, conditions for a quadrilateral to be a parallelogram, special parallelograms (rhombus, rectangle, square) | Nicaragua, Grade 8 student book, Unit 7, printed pp. 125–138 |
+| Solids — the five regular polyhedra (tetrahedron, cube, octahedron, dodecahedron, icosahedron), prisms and pyramids, solids of revolution (cylinder, cone, sphere) | Nicaragua, Grade 10 student book, Unit 6, printed pp. 299–331 |
 
-**Acceptance count: taught in 14 countries (Kazakhstan, Jordan,
+
+**Acceptance count: taught in 15 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen, Indonesia).** Jordan carries the full sorting ladder
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua).** Jordan carries the full sorting ladder
 — polygons, triangles two ways, then the parallelogram family
 with its special cases. Egypt carries polygons by vertices in
 Grade 3 and the triangle/trapezium/kite sorting in Grade 5.
@@ -171,4 +201,4 @@ quadrilaterals, polygons, squares and rectangles — in Grade 4.
 South Africa carries triangles, polygons and angles in Grade 9.
 Ghana's evidence is teacher-manual only (JICA B5 Lessons 89–91):
 no pupil textbook in Ghana's set teaches shapes, and the lesson
-words Ghana that way throughout. Laos carries shapes from everyday solids and stick-and-tile shapes in Grade 1, through triangles, quadrilaterals and nets in Grades 2–4, to polygons, quadrilateral properties and solid nets in Grade 5 and the full quadrilateral and triangle range in Grades 6–7. Yemen carries shapes from naming solids and plane shapes in Grade 1, through polygons, rectangles, squares and triangles, to parallelograms, rhombuses, trapeziums and the full set of solids in Grades 6–7. Indonesia carries shapes from three shapes only in Grade 1 (triangle, quadrilateral, curved shape — no circle as a shape), through polygons and the five solids in Grade 2, triangles and quadrilaterals including the trapezium in Grade 4, the full quadrilateral comparison with the inclusive trapezium definition in Grade 5, cubes and cuboids treated spatially in Grade 6, to solid classification and nets in Grade 9. Note the two trapezium definitions in Indonesia's own books: Grade 4 defines the trapezium with exactly one pair of parallel sides (p. 162), while Grade 5 uses the inclusive definition under which a parallelogram counts as a trapezium.
+words Ghana that way throughout. Laos carries shapes from everyday solids and stick-and-tile shapes in Grade 1, through triangles, quadrilaterals and nets in Grades 2–4, to polygons, quadrilateral properties and solid nets in Grade 5 and the full quadrilateral and triangle range in Grades 6–7. Yemen carries shapes from naming solids and plane shapes in Grade 1, through polygons, rectangles, squares and triangles, to parallelograms, rhombuses, trapeziums and the full set of solids in Grades 6–7. Indonesia carries shapes from three shapes only in Grade 1 (triangle, quadrilateral, curved shape — no circle as a shape), through polygons and the five solids in Grade 2, triangles and quadrilaterals including the trapezium in Grade 4, the full quadrilateral comparison with the inclusive trapezium definition in Grade 5, cubes and cuboids treated spatially in Grade 6, to solid classification and nets in Grade 9. Note the two trapezium definitions in Indonesia's own books: Grade 4 defines the trapezium with exactly one pair of parallel sides (p. 162), while Grade 5 uses the inclusive definition under which a parallelogram counts as a trapezium. Nicaragua carries shapes whole from Grade 1 — plane figures in the old guide's complementary unit (guide evidence), solids and plane figures in Grade 2, circles and triangles in Grade 3, triangles, quadrilaterals and prisms in Grade 4, polygons and prisms/cylinders in Grade 5, regular polygons and pyramids/cones in Grade 6, the rebuilt geometry of Grade 7 and parallelograms in Grade 8, to the regular polyhedra and solids of revolution in Grade 10.

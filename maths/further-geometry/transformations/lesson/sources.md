@@ -1,6 +1,6 @@
 # Sources — Transformations
 
-countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana, Laos, Yemen, Indonesia
+countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua
 
 Every part traces to its book and page.
 
@@ -77,6 +77,8 @@ textbook.
 **Book 23:** *Matematika Tingkat Lanjut untuk SMA Kelas XI* (student book) — Indonesia, Al Azhary Masta, Yosep Dwi Kristanto, Elyda Yulfiana, Muhammad Taqiyuddin, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2021, ISBN 978-602-244-770-2. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 24:** *Panduan Guru Matematika Tingkat Lanjut untuk SMA/MA Kelas XI (Edisi Revisi)* (teacher guide) — Indonesia, Yosep Dwi Kristanto, Muhammad Taqiyuddin, Al Azhary Masta, Elyda Yulfiana, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2024, ISBN 978-623-388-339-9. Guide-only evidence for the 2024 TL edition; written against a newer student edition than the held 2021 TL student book, never presented as a matched pair. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 25:** *MATEMÁTICA 7 — Séptimo grado — Libro de Texto — Educación Secundaria (NICAMATE), Primera Edición 2019* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Transformation, reflection, translation and rotation defined; centre of rotation; clockwise and anticlockwise; the image congruent to the original; reflection in the x-axis (x, y) → (x, −y) and y-axis (x, y) → (−x, y); translation by (a, b); rotation about the origin R(O, 90°) (x, y) → (−y, x), R(O, −90°) (x, y) → (y, −x), R(O, ±180°) (x, y) → (−x, −y); the starfish 72° rotational symmetry; the "ambulance" mirror writing; the 20-seat Ferris wheel | Egypt, Grade 7 Term 2, Unit 3 Geometry and Measurement, 3-3 Geometric Transformations, printed pp.61–68 |
@@ -104,10 +106,12 @@ textbook.
 | Translation, reflection in the axes/origin/lines y = x, y = −x, x = k, y = h, rotation, congruence in polygons and triangles, dilation | Indonesia, Grade 9 student book, Bab 3, printed pp. 135–214 |
 | Geometric transformations on the Cartesian plane, matrices and transformations, composition of transformations using matrices | Indonesia, Grade 11 Tingkat Lanjut 2021 student book, Bab 4, printed pp. 175–230 |
 | Geometric transformations — guide-only evidence for the 2024 TL edition; the held 2021 TL student book is a different edition, never presented as a matched pair | Indonesia, Grade 11 Tingkat Lanjut Revisi 2024 teacher guide, Bab 5, printed pp. 209–238 (guide evidence) |
+| Transformations of figures — translation, rotation, reflection, introduced descriptively, not with coordinates | Nicaragua, Grade 7 student book, Unit 6, Section 2, printed pp. 125–146 |
 
-**Acceptance count: taught in 11 countries (Egypt, Jordan,
+
+**Acceptance count: taught in 12 countries (Egypt, Jordan,
 Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania,
-Ghana, Laos — Ghana as teacher evidence only, Yemen, Indonesia).** Egypt carries the
+Ghana, Laos — Ghana as teacher evidence only, Yemen, Indonesia, Nicaragua).** Egypt carries the
 fullest single treatment — all four moves defined with
 coordinate rules plus composition in Grade 7 Term 2. Jordan
 carries translation and reflection in Grade 6, rotation in
@@ -120,4 +124,4 @@ translation as Grade 9 worksheet practice. Greece carries
 central and axial symmetry in Lykeio Geometry. Mauritania
 carries transformations in the plane in 4AS. Ghana carries
 reflection only, in a teacher manual — worded as teacher
-evidence, never as pupil-book teaching. Laos carries transformations from squared-paper translation, reflection and rotation with coordinates in Grade 5, through line reflection in Grade 6, to full isometries with the coordinate rotation formula in Grade 9. Yemen carries transformations from translation, reflection and rotation in Grade 3, through reflection in the axes and translation, to reflection, translation, rotation and enlargement and their analytic forms in Grade 10. Indonesia carries transformations from translation, reflection, rotation and dilation in Grade 9, to geometric transformations on the Cartesian plane with matrices and composition in Grade 11 Tingkat Lanjut (2021 student book), with the 2024 TL guide's transformations chapter as guide-only evidence for its own edition. Not stocked here: the transformations of functions in Grade 11 Revisi (Bab 3) and Grade 12 Merdeka (Bab 1) are function transformations, not geometric transformations.
+evidence, never as pupil-book teaching. Laos carries transformations from squared-paper translation, reflection and rotation with coordinates in Grade 5, through line reflection in Grade 6, to full isometries with the coordinate rotation formula in Grade 9. Yemen carries transformations from translation, reflection and rotation in Grade 3, through reflection in the axes and translation, to reflection, translation, rotation and enlargement and their analytic forms in Grade 10. Indonesia carries transformations from translation, reflection, rotation and dilation in Grade 9, to geometric transformations on the Cartesian plane with matrices and composition in Grade 11 Tingkat Lanjut (2021 student book), with the 2024 TL guide's transformations chapter as guide-only evidence for its own edition. Not stocked here: the transformations of functions in Grade 11 Revisi (Bab 3) and Grade 12 Merdeka (Bab 1) are function transformations, not geometric transformations. Nicaragua touches this lesson only in part — translation, rotation and reflection in Grade 7 only, introduced descriptively and not with coordinates. No dilation/enlargement is taught as a transformation, and no coordinate rules are given. The Grade 9 parabola translations and the Grade 10 trig-graph shifts are function transformations, not geometric transformations, and are not stocked here.

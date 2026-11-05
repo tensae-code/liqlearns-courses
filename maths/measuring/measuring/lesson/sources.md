@@ -1,6 +1,6 @@
 # Sources — Measuring
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua
 
 Every part traces to its book and page.
 
@@ -145,6 +145,14 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 38:** *Matematika untuk SD/MI Kelas III* (student book) — Indonesia, Susanto et al., Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-427-935-6. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 39:** *Matematika untuk SD/MI Kelas IV* (student book) — Indonesia, Hobri et al., Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-244-908-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 40:** *Matemática — Primer grado — NICAMATE 2 (Libro de Texto), Primera Edición 2024* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 41:** *Matemática 2 — Libro de Texto, 2do Grado — Versión Validada, Tercera Edición 2015* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 42:** *Matemática 2do Grado — Libro de Texto (NICAMATE 2), Primera Edición 2025* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 43:** *MATEMÁTICA — Libro de Texto, 3er Grado — Versión Validada, III Edición (year not stated)* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 44:** *Matemática 3er Grado — Libro de Texto (NICAMATE 2), Primera Edición 2025* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 45:** *Matemática 4to Grado — Libro de Texto (NICAMATE 2), Primera Edición 2025* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 46:** *MÓDULO Autoformativo de MATEMÁTICA — 7mo Grado — EDUCACIÓN SECUNDARIA A DISTANCIA EN EL CAMPO (module), Primera Edición 2016. Module evidence.* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The centimetre (p.88); the metre (p.90); the gram and the kilogram (p.92); the litre and the millilitre (p.94) | Jordan, Grade 2 Student Book Term 2, Unit 10, L1–L4, pp.88–94 |
@@ -186,10 +194,18 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Weight compared and measured with non-standard units only — marbles, hanger balance, seesaw — and whole-hour time on digital and analogue clocks | Indonesia, Grade 2 student book, measurement, printed pp. 155–190 |
 | Measuring length and weight: metre, centimetre, ruler and tape measure, m–cm conversions, kilogram, gram and ons, choosing scales, kg–g–ons conversions | Indonesia, Grade 3 student book, Bab 3, printed pp. 103–142 |
 | Measuring area by counting unit squares, cm² and m²; volume by counting unit cubes, cm³, litre and millilitre conversions, m³ introduced | Indonesia, Grade 4 student book, Bab 4, printed pp. 103–138 |
+| Length — comparing lengths directly and indirectly; measuring with body units (jeme, brazada, paso, pulgada) and with objects; no standard units | Nicaragua, Grade 1 NICAMATE 2 student book, Unit 9, printed pp. 146–153 |
+| Length — making a 1 m tape; the centimetre; the m–dm–cm table; converting lengths; adding/subtracting lengths; capacity by comparison only, no litre | Nicaragua, Grade 2 old student book, Unit 8, printed pp. 133–142; Unit 9, printed pp. 145–148 |
+| Length — centimetre and millimetre, drawing lines with them, converting cm/mm; metre and m/cm conversion; adding/subtracting lengths in mixed units | Nicaragua, Grade 2 NICAMATE 2 student book, Unit 9, printed pp. 108–123 |
+| Length in millimetres; capacity in litres and decilitres; weight in kilograms and grams with a balance | Nicaragua, Grade 3 old student book, Unit 9, printed pp. 119–126; Unit 15, printed pp. 195–202; Unit 16, printed pp. 203–210 |
+| Length arithmetic in cm/mm and m/cm; capacity — litre, decilitre, millilitre with conversions; time — duration, elapsed time, the second; weight — gram and kilogram | Nicaragua, Grade 3 NICAMATE 2 student book, Unit 5, printed pp. 62–69; Unit 12, printed pp. 150–159; Unit 14, printed pp. 176–187; Unit 15, printed pp. 188–199 |
+| Length — direct distance vs travelled distance; the kilometre introduced, km/m conversion, choosing the right unit and instrument; weight — the tonne and the milligram with conversions | Nicaragua, Grade 4 student book, Unit 6, printed pp. 84–91; Unit 12, printed pp. 172–177 |
+| The International System of Units — magnitudes and main units, multiples and sub-multiples, length, mass/weight, surface, agrarian surface measures, volume, capacity, density, angle and arc measures, time units | Nicaragua, Grade 7 module, Unit IV, Tema 1, printed pp. 169–238 (module evidence) |
 
-**Acceptance count: taught in 14 countries (Kazakhstan, Jordan,
+
+**Acceptance count: taught in 15 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen, Indonesia).** Sierra Leone carries the cleanest
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua).** Sierra Leone carries the cleanest
 single ladder — length, mass and volume distinguished, then the
 three conversion tables in JSS 1. Jordan carries the four
 standard units in one Grade 2 unit (centimetre, metre, gram and
@@ -209,4 +225,4 @@ units in Grade 5. South Africa carries converting mass units
 (4 kg 500 g) in Grade 4 and capacity in Grade 6. Ghana's
 evidence is teacher-manual only (JICA B5 Lessons 92–100):
 no pupil textbook in Ghana's set teaches measuring, and the
-lesson words Ghana that way throughout. Laos carries measuring from direct comparison of length, volume and area in Grade 1, through cm, metres, litres and banknotes in Grades 2–3, to the full metric ladder, mass and capacity units and time calculations in Grades 5–6 — with the old Grade 4 book's conversion slip corrected to 2 m 5 dm = 250 cm. Yemen carries measuring from comparing lengths, weights and capacity in Grade 1, through measuring with units, clock reading and Hijri months, to perimeter, area, volume and speed and distance in Grade 6. Indonesia carries measuring from non-standard length in Grade 1 (hand spans, footsteps, sticks, coins as units), through non-standard weight and whole-hour time in Grade 2, to standard length and weight with m–cm and kg–g–ons conversions in Grade 3 and area and volume measured by counting unit squares and unit cubes in Grade 4. Honest negatives: Grade 1 teaches no standard units at all, and Grade 2 teaches no standard units and time as whole hours only.
+lesson words Ghana that way throughout. Laos carries measuring from direct comparison of length, volume and area in Grade 1, through cm, metres, litres and banknotes in Grades 2–3, to the full metric ladder, mass and capacity units and time calculations in Grades 5–6 — with the old Grade 4 book's conversion slip corrected to 2 m 5 dm = 250 cm. Yemen carries measuring from comparing lengths, weights and capacity in Grade 1, through measuring with units, clock reading and Hijri months, to perimeter, area, volume and speed and distance in Grade 6. Indonesia carries measuring from non-standard length in Grade 1 (hand spans, footsteps, sticks, coins as units), through non-standard weight and whole-hour time in Grade 2, to standard length and weight with m–cm and kg–g–ons conversions in Grade 3 and area and volume measured by counting unit squares and unit cubes in Grade 4. Honest negatives: Grade 1 teaches no standard units at all, and Grade 2 teaches no standard units and time as whole hours only. Nicaragua carries measuring from body units only in Grade 1, through m–dm–cm and capacity by comparison in Grade 2, to millimetres, litres and decilitres and kilograms and grams with a balance in Grade 3, the kilometre, tonne and milligram in Grade 4, and the full SI system with agrarian measures and density in the Grade 7 module.

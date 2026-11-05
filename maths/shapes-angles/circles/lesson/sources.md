@@ -1,6 +1,6 @@
 # Sources — Circles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua
 
 Every part traces to its book and page.
 
@@ -129,6 +129,16 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 **Book 32:** *Matematika untuk SMA/MA/SMK/MAK Kelas XI (Edisi Revisi)* (student book) — Indonesia, Dicky Susanto et al., Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2024, ISBN 978-623-388-329-0. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 33:** *Matematika untuk SMA/SMK/MA Kelas XII* (student book) — Indonesia, Mohammad Tohir, Ahmad Choirul Anam, Ibnu Taufiq, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-244-738-2. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 34:** *MATEMÁTICA — Libro de Texto, 3er Grado — Versión Validada, III Edición (year not stated)* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 35:** *Matemática 3er Grado — Libro de Texto (NICAMATE 2), Primera Edición 2025* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 36:** *Matemática — Libro de Texto — 5to grado (NICAMATE 2), Primera Edición 2026* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 37:** *Guía para Maestros — Matemática 5o grado — Adecuación Curricular (teacher guide), Cuarta Edición 2019. Guide evidence only: companions the 2009 Grade 5 student book, NOT in this set.* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 38:** *Matemática — Libro de Texto — 6to grado (NICAMATE 2), Primera Edición 2026* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 39:** *MATEMÁTICA 7 — Séptimo grado — Libro de Texto — Educación Secundaria (NICAMATE), Primera Edición 2019* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 40:** *MÓDULO Autoformativo de MATEMÁTICA — 8vo Grado — EDUCACIÓN SECUNDARIA A DISTANCIA EN EL CAMPO (module), Primera Edición 2016. Module evidence.* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 41:** *MATEMÁTICA 9 — Noveno grado — Libro de Texto — Educación Secundaria (NICAMATE), Primera Edición 2019* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 42:** *Matemática — Décimo Grado — Libro de Texto, Primera Edición (year left blank as printed)* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The circle and its parts (p.111) — names parts, no circumference or area yet | Jordan, Grade 6 Student Book Term 1, Unit 4, L4, p.111 |
@@ -164,10 +174,20 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 | Circle elements, arc length, tangents, chords, cyclic quadrilaterals | Indonesia, Grade 11 Merdeka 2021 regular student book, Bab 2, printed pp. 45–78 |
 | Arcs, tangents, chords, cyclic quadrilaterals | Indonesia, Grade 11 Revisi 2024 regular student book, Bab 4, printed pp. 177–218 |
 | Arcs and sectors of a circle: circle elements, arc length, sector area, the relationship between central angle, arc length and sector area | Indonesia, Grade 12 Merdeka 2022 regular student book, Bab 2, printed pp. 49–88 |
+| Drawing circles with a compass; centre and radius | Nicaragua, Grade 3 old student book, Unit 13, printed pp. 169–183 |
+| Circle — centre and radius; constructing circles; diameter; circular designs | Nicaragua, Grade 3 NICAMATE 2 student book, Unit 7, printed pp. 90–97 |
+| Circle and circumference — an inscribed regular hexagon as the route to the circle; circumference vs circle; π ≈ 3,14; length of a circumference, C = π × d; area of the circle is NOT taught here | Nicaragua, Grade 5 student book, Unit 7, printed pp. 74–83 |
+| Circle and circumference | Nicaragua, Grade 5 adecuación guide, Unit 9, printed pp. 149–156 (guide evidence — companions the 2009 Grade 5 student book, not in this set) |
+| Area of the circle — elements of the circumference (centre, radius, diameter, chord), estimating the area by counting squares, the formula π × r², area of circular sectors, shaded regions | Nicaragua, Grade 6 student book, Unit 5, printed pp. 38–57 |
+| Circle and circumference (constructions); length of the circumference; area of the circle; arc length; area of the circular sector; shaded-area calculations | Nicaragua, Grade 7 student book, Unit 6, Section 2 and Unit 7, Section 3, printed pp. 125–171 |
+| Circle and circumference; relative positions of a point/line with respect to a circumference; area of the circle and of circular sectors; notable angles in the circumference — central, inscribed | Nicaragua, Grade 8 module, Unit IV, Section 2, printed pp. 188–232 (module evidence) |
+| The circle — elements (centre, radius, chord, diameter, arc, tangent line, secant line); inscribed angles | Nicaragua, Grade 9 student book, Unit 7, printed pp. 135–148 |
+| Sector area — the book's exercise is corrected here: printed p. 146 sets a sector of 25 m² inside a circle of radius 1.5 cm, which is impossible; the sector-area relation from radius and angle is taught, not the printed numbers | Nicaragua, Grade 10 student book, Unit 2, printed p. 146 (final exercise 29) |
 
-**Acceptance count: taught in 13 countries (Kazakhstan, Jordan,
+
+**Acceptance count: taught in 14 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Laos, Yemen, Indonesia).** Kazakhstan carries the full climb — circle
+Libya, Vietnam, Laos, Yemen, Indonesia, Nicaragua).** Kazakhstan carries the full climb — circle
 parts in Grade 3, circle and disc in Grades 4 and 5, then the
 practical thread-and-glass discovery of pi with C = πD and the
 disc area in Grade 6. Jordan carries the parts in Grade 6 and
@@ -184,4 +204,4 @@ Grade 3. South Africa carries circle area from the radius in
 Grade 8. Ghana is counted separately and honestly: its Basic 8
 curriculum states the diameter–circumference relationship as a
 standard, but no pupil textbook in Ghana's set teaches circles,
-so Ghana is curriculum evidence only, not a teaching country. Laos carries circles from circumference and area with π ≈ 3.14 in Grade 5 (with the book's 87,5 cm² slip corrected to 78.5 cm²), through circle parts and inscribed and central angles in Grades 7–8, to circle equations in Grade 10. Yemen carries circles from the circle and its circumference and area in Grade 6, through the full circle unit in Grade 9, to the equation of the circle and tangents in Grade 11 science. Indonesia carries circles from the circle named among plane shapes in Grade 2, through circumference, area, arc length and sector area in Grade 9, to arcs, tangents, chords and cyclic quadrilaterals in Grade 11 (both the 2021 Merdeka and 2024 Revisi regular books) and arcs and sectors in Grade 12. Honest negatives: Grade 1 teaches no circle as a shape, and Grade 5 teaches no circles at all.
+so Ghana is curriculum evidence only, not a teaching country. Laos carries circles from circumference and area with π ≈ 3.14 in Grade 5 (with the book's 87,5 cm² slip corrected to 78.5 cm²), through circle parts and inscribed and central angles in Grades 7–8, to circle equations in Grade 10. Yemen carries circles from the circle and its circumference and area in Grade 6, through the full circle unit in Grade 9, to the equation of the circle and tangents in Grade 11 science. Indonesia carries circles from the circle named among plane shapes in Grade 2, through circumference, area, arc length and sector area in Grade 9, to arcs, tangents, chords and cyclic quadrilaterals in Grade 11 (both the 2021 Merdeka and 2024 Revisi regular books) and arcs and sectors in Grade 12. Honest negatives: Grade 1 teaches no circle as a shape, and Grade 5 teaches no circles at all. Nicaragua carries circles from drawing circles in Grade 3, through circumference (but not area) in Grade 5 and circle area with sectors in Grade 6, to circumference, circle area, arc length and sector area in Grade 7 and the circle's notable angles in the Grade 8 module and Grade 9 — with the Grade 10 sector-area exercise's impossible numbers (25 m² in a 1.5 cm circle) corrected, not taught. The Grade 11 analytic-geometry circle (equation with centre at the origin and at (h, k)) is not stocked here: it belongs in coordinates-and-graphs, not in this lesson.

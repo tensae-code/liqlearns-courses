@@ -1,6 +1,6 @@
 # Sources — Congruence and similarity
 
-countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia
+countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua
 
 Every part traces to its book and page.
 
@@ -83,6 +83,11 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 **Book 20:** *Matematika untuk SMP/MTs Kelas VII* (student book) — Indonesia, Dicky Susanto et al., Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-244-883-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 21:** *Matematika untuk SMP/MTs Kelas IX* (student book) — Indonesia, Yosep Dwi Kristanto et al., Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-427-918-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 22:** *Matemática — Libro de Texto — 5to grado (NICAMATE 2), Primera Edición 2026* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 23:** *MATEMÁTICA 8 — Octavo grado — Libro de Texto — Educación Secundaria (NICAMATE), Primera Edición 2019* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 24:** *MATEMÁTICA 9 — Noveno grado — Libro de Texto — Educación Secundaria (NICAMATE), Primera Edición 2019* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+**Book 25:** *Matemática — Décimo Grado — Libro de Texto, Primera Edición (year left blank as printed)* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Congruent = exact fit by matching sides and vertices; triangle congruence tests SSS, SAS, ASA, RHS; similarity by matching sides and vertices; similar-triangle properties; area scale k² and volume scale k³; the scout measuring a tree's height by similar triangles | Libya, Grade 9, Chapter 8 "Congruency and Similarity", opener p.156; 8-1 congruence p.157; 8-2 congruent triangles p.162; 8-3 similarity p.172; 8-4 similar triangles p.173; 8-5 applications of similarity p.179; 8-6 area of similar shapes p.182; 8-7 volume of similar shapes p.185; summary p.189 |
@@ -106,9 +111,14 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Similarity and similarity of triangles; Thales' theorem | Yemen, Grade 8 Part 2, Unit 6, lessons 6-4 and 6-7–6-8, printed pp. 23 and 44–51 |
 | Similarity of triangles through equal corresponding angles and proportional sides; congruence NOT taught, no formal SSS/SAS/AA labels | Indonesia, Grade 7 Merdeka student book, Ch. 5, printed pp. 159–184 |
 | Congruence in polygons and triangles; translation, reflection, rotation and dilation in the same chapter | Indonesia, Grade 9 student book, Bab 3, printed pp. 135–214 |
+| Congruence of figures — intuitive, no criteria | Nicaragua, Grade 5 student book, Unit 11, printed pp. 114–125 |
+| Triangle congruence criteria ASA (Ángulo-Lado-Ángulo), SSS (Lado-Lado-Lado) and SAS (Lado-Ángulo-Lado); introduction to proof; the isosceles-triangle theorem; congruence of right triangles (Hypotenuse-Angle, Hypotenuse-Leg) | Nicaragua, Grade 8 student book, Unit 6, printed pp. 105–124 |
+| Similarity — definition, AA, LLL and LAL criteria with proofs; similarity of right triangles; leg theorem and altitude theorem; Thales' theorem in a triangle, its converse, and the mid-segment theorem | Nicaragua, Grade 9 student book, Unit 5, printed pp. 95–122 |
+| Similarity of triangles as the basis for the trigonometric ratios | Nicaragua, Grade 10 student book, Unit 2, printed pp. 63–70 |
 
-**Acceptance count: taught in 12 countries (Libya, Jordan, Egypt,
-Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia).**
+
+**Acceptance count: taught in 13 countries (Libya, Jordan, Egypt,
+Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua).**
 Libya carries the fullest single treatment — congruence tests
 including RHS, similarity, applications, and the k² area and k³
 volume rules in one chapter (Grade 9, Chapter 8, pp.156–193).
@@ -128,4 +138,4 @@ criteria in Grade 7 Geometry and similar triangles in Grade 8.
 Greece carries congruence, Thales, homothety and similarity in
 Grade 9. Honest negative: Libya's Grade 9 teaches all of this
 without Pythagoras — similarity is done without it, and the
-lesson does not lean on Pythagoras anywhere. Laos touches this lesson only in part — similarity only: the midpoint theorem, Thales' theorem and similarity cases in Grade 7 — and teaches no congruence cases. Yemen carries congruence and similarity whole — triangle congruence by tracing and overlay in Grade 4, the four congruence cases in Grade 7, and Thales' theorem and similarity in Grade 8. Its Grade 8 Part 2 Unit 7 teaches equivalence (equal area), not congruence, and is not stocked here. Indonesia carries similarity in Grade 7 Merdeka — similar triangles through equal corresponding angles and proportional sides, with congruence explicitly not taught and no formal SSS/SAS/AA labels — and congruence in polygons and triangles in Grade 9.
+lesson does not lean on Pythagoras anywhere. Laos touches this lesson only in part — similarity only: the midpoint theorem, Thales' theorem and similarity cases in Grade 7 — and teaches no congruence cases. Yemen carries congruence and similarity whole — triangle congruence by tracing and overlay in Grade 4, the four congruence cases in Grade 7, and Thales' theorem and similarity in Grade 8. Its Grade 8 Part 2 Unit 7 teaches equivalence (equal area), not congruence, and is not stocked here. Indonesia carries similarity in Grade 7 Merdeka — similar triangles through equal corresponding angles and proportional sides, with congruence explicitly not taught and no formal SSS/SAS/AA labels — and congruence in polygons and triangles in Grade 9. Nicaragua carries congruence and similarity from intuitive congruence in Grade 5, through the ASA/SSS/SAS criteria with proof and the right-triangle criteria in Grade 8, to similarity with the AA/LLL/LAL criteria, proofs, Thales' theorem and its converse and the mid-segment theorem in Grade 9, with similarity of triangles as the basis for trigonometry in Grade 10. Book correction carried here: the Grade 9 book's p. 98 conclusion box mislabels the LLL similarity criterion "congruencia" — LLL is a similarity criterion, not a congruence criterion, and it is taught here as similarity.
