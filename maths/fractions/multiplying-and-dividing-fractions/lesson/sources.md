@@ -1,6 +1,6 @@
 # Sources — Multiplying and Dividing Fractions
 
-countries: Kazakhstan, Jordan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana
+countries: Kazakhstan, Jordan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos
 
 Every part traces to its book and page.
 
@@ -90,6 +90,8 @@ manual) — Ghana, National STEM Resource Unit (GES) with JICA,
 April 2025. Filed in maths/books/ghana.md (JICA-B6 section,
 FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher evidence
 only: Ghana's set holds no pupil textbook at all.
+**Book 16:** *Mathematics, Grade 7 student book (secondary year 2)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2011. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 17:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -101,10 +103,12 @@ only: Ghana's set holds no pupil textbook at all.
 | Fraction of a number and the number from its fraction; joint work with the whole as 1 | Kazakhstan, Grade 5, Ch.3 §3.14 Finding a fraction of a number; finding a number from its fraction, Part 2 p.3; §3.15 Problems on joint work, Part 2 p.10; Vietnam, Grade 4 Volume 2, Theme 12, Bài 65 Fraction of a number p.95; Vietnam, Grade 6 Volume 2, Ch.VI, Bài 27 Two fraction problems: fraction of a number; finding a number from its fraction, p.22; Mauritania, Grade 5, fraction multiplication pp.63, 65, fraction division idea via the "fraction of" work pp.75, 79; Mauritania, Grade 6, fraction multiplication p.65, fraction division p.68 |
 | Ghana's teacher-manual evidence for this lesson | Ghana, JICA B6 teacher manual, L44–56 comparing, adding, subtracting, multiplying and dividing common fractions (teacher evidence) |
 | South Africa does not stock this lesson | South Africa's Rainbow Workbooks teach fraction multiplication only inside fraction work that the filing does not pin to a worksheet, so South Africa is not counted for this lesson — stated honestly, not padded |
+| Multiplying fractions (fraction × fraction, literal a/c × b/d); dividing fractions (dividing by 5 = multiplying by 1/5; fraction ÷ whole, whole ÷ fraction, fraction ÷ fraction) | Laos, Grade 7 student book, L7–L8, printed pp. 1–42 |
+| Multiplication and division of rational expressions | Laos, Grade 9 student book, L2, printed p. 5 |
 
-**Acceptance count: taught in 10 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 11 countries (Kazakhstan, Jordan,
 Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam,
-Ghana).** Kazakhstan carries the full course with the rule derived,
+Ghana, Laos).** Kazakhstan carries the full course with the rule derived,
 not just stated; Egypt carries the area-model multiplication and
 the two unit-fraction divisions as their own lessons, and the
 Grade 6 division modelling; Jordan carries multiplying and dividing
@@ -119,4 +123,4 @@ of a fraction by a whole number and fraction divided by a whole
 number in Grade 5; Vietnam carries the full Grade 4 fraction
 operations and the two fraction problems in Grade 6; Ghana carries
 the work only as teacher-manual evidence. South Africa is not
-counted here — see the honest note above.
+counted here — see the honest note above. Laos carries multiplying and dividing fractions whole in Grade 7 — fraction × fraction and all four division forms — and extends it to rational expressions in Grade 9.

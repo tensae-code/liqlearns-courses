@@ -1,6 +1,6 @@
 # Sources — Shapes
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos
 
 Every part traces to its book and page.
 
@@ -93,6 +93,13 @@ READ + CITATION CHECK PASSED 2026-11-05).
 Workbook) — South Africa, Department of Basic Education, 16th
 edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 + CITATION CHECK PASSED 2026-11-04).
+**Book 18:** *Mathematics, Grade 1 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2017 original / 2020 reprint (one book held twice, ISBN 978-9932-00-174-3, counted once). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 19:** *Mathematics, Grade 2 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2020, ISBN 978-9932-406-23-4. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 20:** *Mathematics, Grade 3 student book, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 21:** *Mathematics, Grade 4 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2021. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 22:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 23:** *Mathematics, Grade 6 student book (secondary year 1)* — Laos, Ministry of Education / Institute of Educational Science Research, 2010 (2009 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 24:** *Mathematics, Grade 7 student book (secondary year 2)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2011. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -113,10 +120,17 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | 2D shapes: four-sided shapes (quadrilaterals) p.64; polygons p.69; more on squares and rectangles p.72 | Libya, Grade 4 Pupil's Book Part 2, Chapter 12, pp.64–75 |
 | 2D and 3D shapes: characteristics of quadrilaterals (sides, angles) — teacher-manual evidence only | Ghana, JICA Teacher Manual B5, Lessons 89–91 (teacher evidence, not pupil-book teaching) |
 | Triangles, polygons and angles (WS47–57, pp.122–155) | South Africa, Grade 9 Book 1, WS47–57, pp.122–155 |
+| Shapes of things around us: boxes, cans and everyday solids, which shapes roll, drawing with box faces; making shapes with sticks and tiles | Laos, Grade 1 student book (new series), ch. 9, printed p. 86; ch. 16, printed p. 130 |
+| Triangles and quadrilaterals, right angles, folding paper shapes | Laos, Grade 2 student book (new series), ch. 10, printed p. 108 |
+| Shapes on grids and symmetry; triangles and quadrilaterals | Laos, Grade 3 student book, L2, printed p. 10; L36, printed p. 124 |
+| Plane shapes and solid shapes, nets of solids, faces, edges and vertices | Laos, Grade 4 student book (new series), ch. 18, printed p. 180 |
+| Polygons (regular vs general), quadrilaterals and their properties, rectangles and rhombuses, triangles by sides and angles, constructing figures with ruler and compass; solids and their nets | Laos, Grade 5 student book, L11–L15, printed pp. 30–43; L59–L61, printed pp. 144–155 |
+| Points, lines, segments and rays; intersecting, parallel and perpendicular lines; constructing parallelograms | Laos, Grade 6 student book, L11–L13, printed pp. 81–100 |
+| Parallelograms, rectangles, rhombuses, squares, trapezoids, triangles and circles | Laos, Grade 7 student book, L28–L31 and L38, printed pp. 123–170 |
 
-**Acceptance count: taught in 11 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 12 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana).** Jordan carries the full sorting ladder
+Libya, Vietnam, Ghana, Laos).** Jordan carries the full sorting ladder
 — polygons, triangles two ways, then the parallelogram family
 with its special cases. Egypt carries polygons by vertices in
 Grade 3 and the triangle/trapezium/kite sorting in Grade 5.
@@ -133,4 +147,4 @@ quadrilaterals, polygons, squares and rectangles — in Grade 4.
 South Africa carries triangles, polygons and angles in Grade 9.
 Ghana's evidence is teacher-manual only (JICA B5 Lessons 89–91):
 no pupil textbook in Ghana's set teaches shapes, and the lesson
-words Ghana that way throughout.
+words Ghana that way throughout. Laos carries shapes from everyday solids and stick-and-tile shapes in Grade 1, through triangles, quadrilaterals and nets in Grades 2–4, to polygons, quadrilateral properties and solid nets in Grade 5 and the full quadrilateral and triangle range in Grades 6–7.

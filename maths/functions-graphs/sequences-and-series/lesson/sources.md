@@ -1,6 +1,6 @@
 # Sources — Sequences and series
 
-countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa
+countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos
 
 Every part traces to its book and page.
 
@@ -41,6 +41,8 @@ CITATION CHECK PASSED 2026-11-05).
 **Book 8:** *Mathematics, Grade 9, Book 1, Terms 1 & 2* (workbook)
 — South Africa, Department of Basic Education. Filed in
 maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
+**Book 9:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 10:** *Mathematics, Grade 12 student book (upper-secondary year 7)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2016 (2010 curriculum, revised). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -56,9 +58,11 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 | Geometric-series sums taught (in the whole-course review) — with the caution that the same lesson says "it is impossible to find the sum of an infinite sequence", which is not taught uncritically in this course | Sierra Leone, SSS 3 Term 3 handbook, L123 (geometric-series sums; flagged caution in maths/books/sierra-leone.md) |
 | Numerical sequences | Mauritania, 5AS (Grade 11) student book, "Suites numériques", p.129 |
 | Number patterns; number sequences; geometric patterns; number sequences and equations | South Africa, Grade 9 Book 1, Term 3, WS65 Number patterns; WS66 Number sequences; WS67 More number sequences; WS68 Geometric patterns; WS69 Number sequences and equations, pp.2–59 |
+| Number sequences, balance puzzles and grid directions | Laos, Grade 5 student book, L19–L20, printed pp. 50–55 |
+| Sequences, arithmetic and geometric sequences, limits and sums of sequences, applications of sequences | Laos, Grade 12 student book, L3–L6, printed pp. 13–46 |
 
-**Acceptance count: taught in 5 countries (Kazakhstan, Jordan,
-Sierra Leone, Mauritania, South Africa).** Kazakhstan carries
+**Acceptance count: taught in 6 countries (Kazakhstan, Jordan,
+Sierra Leone, Mauritania, South Africa, Laos).** Kazakhstan carries
 the fullest treatment — all four Grade 9 Algebra books prove
 the nth-term formulas, the characteristic properties, both
 sum formulas and the infinite geometric sum, with applied
@@ -74,4 +78,4 @@ teaches no sequences or series, so Egypt is not claimed for
 this lesson; Sierra Leone's SSS 2 teaches the arithmetic
 series sum but no geometric series sum, and its SSS 3 lesson's
 claim that no infinite sum can be found is not taught here —
-the infinite sum rests on Kazakhstan's theorem and Jordan.
+the infinite sum rests on Kazakhstan's theorem and Jordan. Laos carries sequences from number sequences and puzzles in Grade 5 to arithmetic and geometric sequences with limits, sums and applications in Grade 12.

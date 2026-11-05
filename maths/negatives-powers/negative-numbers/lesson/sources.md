@@ -1,6 +1,6 @@
 # Sources — Negative Numbers
 
-countries: Kazakhstan, Jordan, Libya, South Africa, Greece, Armenia, Vietnam, Ghana
+countries: Kazakhstan, Jordan, Libya, South Africa, Greece, Armenia, Vietnam, Ghana, Laos
 
 Every part traces to its book and page.
 
@@ -21,6 +21,7 @@ Every part traces to its book and page.
 **Book 8:** *Toán 6, Tập Một* (Mathematics 6, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống, NXBGD, MoET. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 9:** JICA Basic 5 teacher manual (Lessons 79–88) — Ghana, teacher-manual evidence only: Ghana's set holds no pupil textbook. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED).
+**Book 10:** *Mathematics, Grade 6 student book (secondary year 1)* — Laos, Ministry of Education / Institute of Educational Science Research, 2010 (2009 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -38,5 +39,9 @@ Every part traces to its book and page.
 | Subtracting a natural from a negative (4.5, p. 111); negative fractions in the rational-numbers chapter (6.1) | Armenia, Grade 6 (Qarakusi 2024), Ch. 4 and Ch. 6 |
 | Integers, including negative fractions (Bài 23 extends fractions to negative numerators/denominators) | Vietnam, Grade 6, Tập Một, integers chapter, incl. Bài 23 |
 | Integer review on a number line (verified: −5 + 3 = −2; −1 − 3 = −4; −1 + 8 = 7); the printed sample "−3 + 4 = −1" is wrong (correct: 1) and is named only as a mistake to spot — teacher-manual evidence, no pupil textbook in Ghana's set | Ghana, JICA Basic 5 teacher manual, L79 |
+| Integers: Z, Z₊, Z₋, 0 neither positive nor negative, N ⊂ Z, the number line, opposites, absolute value as distance from 0, comparing integers | Laos, Grade 6 student book, L2, printed pp. 10–16 |
+| Addition and subtraction of integers, walks on the number line, a − b = a + (−b), removing brackets, simple equations | Laos, Grade 6 student book, L4, printed pp. 25–32 |
+| Multiplication and division of integers, sign rules, squares a² ≥ 0, multi-factor sign rule | Laos, Grade 6 student book, L6, printed pp. 38–45 |
+| Distance and absolute value: |a|, distance formula |a − b|, equations |x| = 5 and inequalities |x| < 2 drawn on the line | Laos, Grade 6 student book, L9, printed pp. 65–72 |
 
-**Acceptance count: taught in 8 countries (Kazakhstan, Jordan, Libya, South Africa, Greece, Armenia, Vietnam, Ghana).** Kazakhstan carries the fullest treatment — the agreed zero, the line, the bracket table, and all four operations with the Euler justification for two negatives. Jordan carries the first introduction (Grade 5, temperatures on the line) and the full integer unit a year later, taught with counting chips. Libya carries integers as a ten-lesson chapter in Grade 7, each sign case its own lesson. South Africa carries integers late, in Grade 7 Term 4, motivated by temperature and money. Greece carries positives and negatives as a whole chapter in Grade 7. Armenia carries negatives in Grade 6, including negative fractions. Vietnam carries integers in Grade 6, with negative fractions in Bài 23. Ghana carries only teacher-manual evidence (JICA Basic 5, Lesson 79), including one flagged wrong printed answer that this lesson teaches against. Mauritania is not in this lesson: its Grade 6 teaches no negatives and its 1AS teaches none either — the honest limit is stated, not filled.
+**Acceptance count: taught in 9 countries (Kazakhstan, Jordan, Libya, South Africa, Greece, Armenia, Vietnam, Ghana, Laos).** Kazakhstan carries the fullest treatment — the agreed zero, the line, the bracket table, and all four operations with the Euler justification for two negatives. Jordan carries the first introduction (Grade 5, temperatures on the line) and the full integer unit a year later, taught with counting chips. Libya carries integers as a ten-lesson chapter in Grade 7, each sign case its own lesson. South Africa carries integers late, in Grade 7 Term 4, motivated by temperature and money. Greece carries positives and negatives as a whole chapter in Grade 7. Armenia carries negatives in Grade 6, including negative fractions. Vietnam carries integers in Grade 6, with negative fractions in Bài 23. Ghana carries only teacher-manual evidence (JICA Basic 5, Lesson 79), including one flagged wrong printed answer that this lesson teaches against. Mauritania is not in this lesson: its Grade 6 teaches no negatives and its 1AS teaches none either — the honest limit is stated, not filled. Laos carries negative numbers whole in Grade 6 — integers and the number line, addition and subtraction, sign rules for multiplication and division, and distance and absolute value with equations and inequalities.

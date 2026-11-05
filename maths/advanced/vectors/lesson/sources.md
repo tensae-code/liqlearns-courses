@@ -1,6 +1,6 @@
 # Sources — Vectors
 
-countries: Egypt, Jordan, Greece, Vietnam, Libya, Mauritania
+countries: Egypt, Jordan, Greece, Vietnam, Libya, Mauritania, Laos
 
 Every part traces to its book and page.
 
@@ -19,6 +19,8 @@ Every part traces to its book and page.
 **Book 7:** Mathematics, Grade 12, Science section — Libya, Curriculum Department, 1440–1441 H / 2019–2020. Filed in maths/books/libya.md (Work 7, Grade 12 Science Mathematics).
 
 **Book 8:** Mathématiques, 7ème AS, série C (7AS-C) — Mauritania, IPN pupil manual, 201 pp., French. Filed in maths/books/mauritania.md (D10).
+**Book 9:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 10:** *Mathematics, Grade 10 student book (upper-secondary year 5)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2014 (2010 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -34,7 +36,9 @@ Every part traces to its book and page.
 | Vector in space; coordinate system in space; coordinate expressions of vector operations | Vietnam, Toán 12 Tập Một, Chapter II, Bài 6 p.45, Bài 7 p.60, Bài 8 p.67 |
 | Representing vectors; addition and subtraction of vectors; scalar product of a vector; magnitude of a vector; position vector | Libya, Grade 12 Science, Chapter 8, printed pp.189–217 |
 | Vector calculus 1; vector calculus 2 | Mauritania, 7AS-C, Chapters 9–10, pp.116–135 |
+| Vector basics, addition and subtraction (triangle and parallelogram rules, Chasles), scalar multiplication, coordinate vectors, dot product | Laos, Grade 9 student book, L30–L34, printed pp. 136–169 |
+| Vectors in space: 3D coordinates, distance, dot product, direction cosines, collinearity and perpendicularity | Laos, Grade 10 student book, L23, printed p. 253 |
 
-**Acceptance count: taught in 6 countries (Egypt, Jordan, Greece, Vietnam, Libya, Mauritania).** Egypt carries vectors from directed segments and the parallelogram rule to 3-D vectors with dot and cross products; Jordan carries plane vectors with the dot product and space vectors with lines in space; Greece carries the orientation group's vector chapter with the inner product; Vietnam carries plane vectors with the dot product and space vectors with coordinates; Libya carries plane vectors with the scalar product; Mauritania carries vector calculus in two chapters.
+**Acceptance count: taught in 7 countries (Egypt, Jordan, Greece, Vietnam, Libya, Mauritania, Laos).** Egypt carries vectors from directed segments and the parallelogram rule to 3-D vectors with dot and cross products; Jordan carries plane vectors with the dot product and space vectors with lines in space; Greece carries the orientation group's vector chapter with the inner product; Vietnam carries plane vectors with the dot product and space vectors with coordinates; Libya carries plane vectors with the scalar product; Mauritania carries vector calculus in two chapters.
 
-**Honest limit:** Libya's vectors are plane vectors only — no 3-D vector work — and Sierra Leone's JSS never teaches vectors or matrices. This lesson says so where it matters.
+**Honest limit:** Libya's vectors are plane vectors only — no 3-D vector work — and Sierra Leone's JSS never teaches vectors or matrices. This lesson says so where it matters. Laos carries vectors from plane vectors with the dot product in Grade 9 to vectors in space with 3D coordinates, distance and direction cosines in Grade 10.

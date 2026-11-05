@@ -1,6 +1,6 @@
 # Sources — Circle theorems
 
-countries: Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt
+countries: Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos
 
 Every part traces to its book and page.
 
@@ -34,6 +34,7 @@ maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 (student book) — Egypt, Ministry of Education and Technical
 Education, English title page issued 2013. Filed in
 maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
+**Book 8:** *Mathematics, Grade 8 student book (secondary year 3)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2012. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -48,9 +49,10 @@ maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 | Secants of a circle; ratio of areas of similar triangles and polygons | Greece, Euclidean Geometry Volume B (Grades 10–11), Ch.9 Metric relations (secants of a circle), pp.43–68 |
 | Inscribed angle; circumcircle and incircle of a triangle; cyclic quadrilateral; regular polygons | Vietnam, Toán 9 Volume 2, Chapter IX "Đường tròn ngoại tiếp và đường tròn nội tiếp", Bài 27 Góc nội tiếp (Inscribed angle) p.67; Bài 28 circumcircle and incircle of a triangle p.72; Bài 29 Tứ giác nội tiếp (Cyclic quadrilateral) p.80; Bài 30 regular polygons p.84 |
 | Applications of similarity in the circle: intersecting chords (EA × EB = EC × ED), secants from an outside point, and tangent-secant relations, all deduced from similar triangles | Egypt, Secondary 1 old Term 1, Unit 2 Similarity, 2-4 Applications of similarity in the circle, p.53 |
+| Inscribed and central angles: definitions, inscribed angle subtending an arc, central angle subtending the same arc | Laos, Grade 8 student book, L24, printed pp. 179–196 |
 
-**Acceptance count: taught in 6 countries (Kazakhstan, Jordan,
-Armenia, Greece, Vietnam, Egypt).** Kazakhstan carries the
+**Acceptance count: taught in 7 countries (Kazakhstan, Jordan,
+Armenia, Greece, Vietnam, Egypt, Laos).** Kazakhstan carries the
 fullest treatment — the inscribed-angle theorem with all
 cases, the tangent–chord angle, the inside/outside angle
 theorems, the three segment products, cyclic and circumscribed
@@ -69,4 +71,4 @@ work is sector/arc and solid mensuration only), and Sierra
 Leone's JSS never teaches circle theorems — neither country
 is claimed for this lesson. The lesson stands on its own: six
 countries teach inscribed angles, chords and tangents in
-depth, so no fold was needed.
+depth, so no fold was needed. Laos touches circle theorems only in part — inscribed and central angles in Grade 8 — and teaches no further circle theorems.

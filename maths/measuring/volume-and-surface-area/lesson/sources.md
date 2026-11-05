@@ -1,6 +1,6 @@
 # Sources — Volume and Surface Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos
 
 Every part traces to its book and page.
 
@@ -148,6 +148,10 @@ manual) — Ghana, GES National STEM Resource Unit with JICA;
 April 2025; © 2025 GES. Teacher evidence only: Ghana holds no
 pupil textbook in this set. Filed in maths/books/ghana.md (FULLY
 READ + CITATION CHECK PASSED 2026-11-05).
+**Book 28:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 29:** *Mathematics, Grade 8 student book (secondary year 3)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2012. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 30:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 31:** *Mathematics, Grade 10 student book (upper-secondary year 5)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2014 (2010 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -177,10 +181,14 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Geometric solids — measurement of solids: elements and surface area of prism and cylinder; volume of prism and cylinder (Ch.4, pp.201–235) | Greece, Grade 8, Part B, Ch.4, pp.201–235 |
 | Measurement — Perimeter, Area and Capacity/Volume (Lessons 92–100) — teacher-manual evidence only | Ghana, JICA Teacher Manual B5, Lessons 92–100 (teacher evidence, not pupil-book teaching) |
 | Geometry — Prisms: identifying rectangular and triangular prisms (Lessons 88–92) — teacher-manual evidence only | Ghana, JICA Teacher Manual B6, Lessons 88–92 (teacher evidence, not pupil-book teaching) |
+| Solids (cubes, cuboids, cylinders, cones, pyramids, prisms) with faces, edges, vertices and nets; volume units and calculations: cube V = c³, cuboid V = L × l × H, cylinder V = πr² × H, prism V = (b × h/2) × H, compound solids | Laos, Grade 5 student book, L59–L64, printed pp. 144–155 |
+| Prisms and their nets; cylinders, lateral surface unrolled as a rectangle; spheres and balls, volume V = 4/3πr³ | Laos, Grade 8 student book, L25–L27, printed pp. 197–219 |
+| Surface area of pyramids and cones (nets, lateral area, cone πrd, total πr(d+r)); volume V = ⅓Bh, V = ⅓πr²h | Laos, Grade 9 student book, L38–L39, printed pp. 197–220 |
+| Volumes of revolution about the x-axis and y-axis, including the washer method | Laos, Grade 10 student book, L21, printed p. 215 |
 
-**Acceptance count: taught in 11 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 12 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana).** Sierra Leone carries the cleanest
+Libya, Vietnam, Ghana, Laos).** Sierra Leone carries the cleanest
 ladder — cubes, prisms and cylinders by cross-section × height,
 then surface areas by the net, in JSS 2. Egypt carries volume by
 counting unit cubes through V = l × w × h in Grade 5 and the
@@ -203,4 +211,4 @@ Ghana's evidence is teacher-manual only (JICA B5 Lessons 92–100
 and B6 Lessons 88–92, prisms): no pupil textbook in Ghana's set
 teaches volume or surface area, and the lesson words Ghana that
 way throughout. Mauritania's honest limit is stated too: its
-Grade 5 book teaches no volume at all.
+Grade 5 book teaches no volume at all. Laos carries volume and surface area from solids, nets and volume formulas in Grade 5, through prisms, cylinders and spheres in Grade 8, to pyramid and cone surface area and volume in Grade 9 and volumes of revolution in Grade 10.

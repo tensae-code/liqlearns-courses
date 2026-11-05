@@ -1,6 +1,6 @@
 # Sources — Quadratic Equations
 
-countries: Kazakhstan, Jordan, Egypt, Greece, Libya, Armenia, Vietnam, Sierra Leone, South Africa
+countries: Kazakhstan, Jordan, Egypt, Greece, Libya, Armenia, Vietnam, Sierra Leone, South Africa, Laos
 
 Every part traces to its book and page.
 
@@ -23,6 +23,8 @@ Every part traces to its book and page.
 **Book 9:** *Mathematics*, Grade 9, Book 1 (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026, ISBN 978-1-4315-0226-4. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 10:** *Mathematics*, Grade 9, Book 2 (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026, ISBN 978-1-4315-0228-8. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
+**Book 11:** *Mathematics, Grade 8 student book (secondary year 3)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2012. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 12:** *Mathematics, Grade 10 student book (upper-secondary year 5)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2014 (2010 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -37,5 +39,7 @@ Every part traces to its book and page.
 | Factorising quadratic expressions (L107, p. 32); solving quadratics via factorisation (L108–109, pp. 34–36); finding a quadratic equation with given roots (L110, p. 39); the quadratic formula (L114, p. 50); word problems leading to quadratic equations (L115, p. 53) | Sierra Leone, SSS 1 Handbook, L107–116, printed pp. 32–56 |
 | Equations of the form a product of factors equals zero — the first route into quadratic-type equations | South Africa, Grade 9 Book 1, WS38, pp. 68–99 |
 | Solving by factorising (x² − 3x = 0 → x(x − 3) = 0; x² − 25 = 0), 'make sure the right hand side is zero then factorise left-hand side' | South Africa, Grade 9 Book 2, WS82–83, pp. 2–59 |
+| Quadratic equations: which equations are quadratics, solving by factorisation, solving by formula x = (−b ± √(b² − 4ac)) / 2a derived by completing the square | Laos, Grade 8 student book, L5–L7, printed pp. 1–52 |
+| Quadratic equations: completing the square to the formula, discriminant Δ = b² − 4ac, reduced discriminant, biquadratic equations via y = x², Viète's sum and product of roots, signs of roots | Laos, Grade 10 student book, L12, printed p. 119 |
 
-**Acceptance count: taught in 9 countries (Kazakhstan, Jordan, Egypt, Greece, Libya, Armenia, Vietnam, Sierra Leone, South Africa).** Kazakhstan carries the fullest treatment — the formula derived from completing the square, Vieta proved, and equations reduced to quadratics. Jordan carries the deliberate ladder: graphically, factorising, completing the square, then the formula with the discriminant. Egypt carries trinomial factorising and completing the square in Grade 8. Greece carries factorisation then the formula in Grade 9. Libya carries factorisation, completing the square and the formula in Grade 10. Armenia carries the quadratic trinomial in Grade 8. Vietnam carries quadratic equations with Viète in Grade 9. Sierra Leone carries the JSS 3 part-ladder (expanding, factorising, completing the square — no formula, no solve-for-x lesson) and the full SSS 1 ladder including the formula. South Africa carries only the factorising route (product-equals-zero in Grade 9 Book 1, factorising in Book 2) — no formula and no completing the square, and the lesson says so. Ghana and Mauritania are not in this lesson on the filed stock.
+**Acceptance count: taught in 10 countries (Kazakhstan, Jordan, Egypt, Greece, Libya, Armenia, Vietnam, Sierra Leone, South Africa, Laos).** Kazakhstan carries the fullest treatment — the formula derived from completing the square, Vieta proved, and equations reduced to quadratics. Jordan carries the deliberate ladder: graphically, factorising, completing the square, then the formula with the discriminant. Egypt carries trinomial factorising and completing the square in Grade 8. Greece carries factorisation then the formula in Grade 9. Libya carries factorisation, completing the square and the formula in Grade 10. Armenia carries the quadratic trinomial in Grade 8. Vietnam carries quadratic equations with Viète in Grade 9. Sierra Leone carries the JSS 3 part-ladder (expanding, factorising, completing the square — no formula, no solve-for-x lesson) and the full SSS 1 ladder including the formula. South Africa carries only the factorising route (product-equals-zero in Grade 9 Book 1, factorising in Book 2) — no formula and no completing the square, and the lesson says so. Ghana and Mauritania are not in this lesson on the filed stock. Laos carries quadratic equations from factorisation and the formula in Grade 8 to discriminant, biquadratic equations and Viète's relations in Grade 10.

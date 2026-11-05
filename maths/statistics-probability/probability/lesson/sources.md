@@ -1,6 +1,6 @@
 # Sources — Probability
 
-countries: Egypt, Jordan, Greece, Sierra Leone, Libya, Vietnam, Mauritania, Armenia, Ghana
+countries: Egypt, Jordan, Greece, Sierra Leone, Libya, Vietnam, Mauritania, Armenia, Ghana, Laos
 
 Every part traces to its book and page.
 
@@ -43,6 +43,7 @@ Every part traces to its book and page.
 **Book 19:** Algebra 7 — Armenia, Smbat Gogyan and Vachagan Dilanyan, student book. Filed in maths/books/armenia.md (G7-W1).
 
 **Book 20:** Ghana — teacher evidence only (no pupil textbook in the set): JICA Mathematics teacher manuals, Basic 5–6 (Chance / Probability lessons). Filed in maths/books/ghana.md.
+**Book 21:** *Mathematics, Grade 11 student book (upper-secondary year 6)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2015. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -70,7 +71,9 @@ Every part traces to its book and page.
 | Probabilities and sampling | Mauritania, 7AS-D, Chapter 8, p.98 |
 | Experiment, outcome; event and probability; equally likely events | Armenia, Algebra 7, Chapter 4, §4.6 p.107, §4.7 p.109, §4.8 p.111 |
 | Chance (probability): likelihood of a single outcome as certain (probability 1), possible, or impossible (probability 0), on die-throwing examples; experimental probability by coin tossing (teacher evidence only) | Ghana, JICA teacher manuals, Basic 5 Lessons 112–113 and Basic 6 Lessons 109–114 |
+| Probability: random experiments, sample space S, sample points, dice examples | Laos, Grade 11 student book, L29, printed p. 184 |
+| Random variables and the probability distribution of a random variable, with the binomial probability sums table in the appendix | Laos, Grade 11 student book, L30, printed p. 205; appendix, printed p. 300 |
 
-**Acceptance count: taught in 9 countries (Egypt, Jordan, Greece, Sierra Leone, Libya, Vietnam, Mauritania, Armenia, Ghana).** Egypt carries the full first course (sample spaces, theoretical and experimental probability, complements) and the distributions course (conditional probability, random variables, binomial, geometric and normal); Jordan carries counting outcomes, compound events, Venn and geometric probability, permutations, combinations, random variables and distributions; Greece carries probability from Grade 5's dice game through Grade 12's operations with events and conditional probability; Sierra Leone carries the addition and multiplication laws, outcome tables, tree diagrams and conditional probability without replacement; Libya carries probability theory with conditional probability and Bayes-style reasoning and the distributions; Vietnam carries the probability rules, conditional probability and Bayes; Mauritania carries counting and probability through three streamed books; Armenia carries experiment, event and equally likely events; Ghana's evidence is teacher evidence only.
+**Acceptance count: taught in 10 countries (Egypt, Jordan, Greece, Sierra Leone, Libya, Vietnam, Mauritania, Armenia, Ghana, Laos).** Egypt carries the full first course (sample spaces, theoretical and experimental probability, complements) and the distributions course (conditional probability, random variables, binomial, geometric and normal); Jordan carries counting outcomes, compound events, Venn and geometric probability, permutations, combinations, random variables and distributions; Greece carries probability from Grade 5's dice game through Grade 12's operations with events and conditional probability; Sierra Leone carries the addition and multiplication laws, outcome tables, tree diagrams and conditional probability without replacement; Libya carries probability theory with conditional probability and Bayes-style reasoning and the distributions; Vietnam carries the probability rules, conditional probability and Bayes; Mauritania carries counting and probability through three streamed books; Armenia carries experiment, event and equally likely events; Ghana's evidence is teacher evidence only.
 
-**What this lesson does not claim:** no read country teaches continuous distributions as a lesson of its own in the primary/secondary ladder — the normal distribution is taught descriptively and for applications (Egypt Grade 12, Jordan Grade 12, Greece Grade 12, Libya Grade 12), and the curriculum records continuous distributions as a topic with no lesson yet. This lesson names the normal distribution as the books teach it and goes no further.
+**What this lesson does not claim:** no read country teaches continuous distributions as a lesson of its own in the primary/secondary ladder — the normal distribution is taught descriptively and for applications (Egypt Grade 12, Jordan Grade 12, Greece Grade 12, Libya Grade 12), and the curriculum records continuous distributions as a topic with no lesson yet. This lesson names the normal distribution as the books teach it and goes no further. Laos carries probability whole in Grade 11 — random experiments and sample spaces, then random variables and their distributions with a binomial table.

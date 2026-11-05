@@ -1,6 +1,6 @@
 # Sources — Place-value
 
-countries: Egypt, Armenia, Jordan, Kazakhstan, South Africa
+countries: Egypt, Armenia, Jordan, Kazakhstan, South Africa, Laos
 
 Every part traces to its book and page.
 
@@ -12,6 +12,10 @@ Every part traces to its book and page.
 **Book 6:** *Mathematics, Grade 1, Student Book, Term 1; Grade 2, Student Book, Term 1; Grade 4, Student Book, Term 1* — Jordan. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 7:** *Mathematics, Grade 2* (Ospanov set, Lessons 1–136) — Kazakhstan, Atamura. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 8:** *Mathematics, Grade 2 Workbook 1 and Grade 3 Workbook 1 (Rainbow Workbooks), Terms 1–2* — South Africa, Department of Basic Education. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
+**Book 9:** *Mathematics, Grade 1 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2017 original / 2020 reprint (one book held twice, ISBN 978-9932-00-174-3, counted once). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 10:** *Mathematics, Grade 2 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2020, ISBN 978-9932-406-23-4. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 11:** *Mathematics, Grade 3 student book, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 12:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -26,5 +30,9 @@ Every part traces to its book and page.
 | Four-digit numbers; five- and six-digit numbers; writing a multi-digit number; number classes | Armenia, Mathematics 3 Part 1, Chapter I, §1–§5, pp.7–21 |
 | Place value within thousands; place value within hundred-thousands | Jordan, Grade 4 Student Book Term 1, p.10; Grade 4 Student Book Term 2 |
 | Place value — big numbers to the milliards | Egypt, Grade 4 Term 1 (Discovery Techbook, 2025/2026), Unit 1, folios 3–21 |
+| Tens-and-ones place value (26 = 2 tens and 6 ones), reading and writing to 100 | Laos, Grade 1 student book (new series), ch. 17, printed p. 136 |
+| Place value to hundreds with sticks and bundles | Laos, Grade 2 student book (new series), ch. 5, printed p. 48 |
+| Expanded forms (59264 = 50000 + 9000 + 200 + 60 + 4), place value and reading numbers to 100000 | Laos, Grade 3 student book, L10, printed p. 38; L26, printed p. 88 |
+| Place value to millions and billions, powers of 10, digit, power-of-ten and expanded forms | Laos, Grade 5 student book, ch. 1, printed pp. 6–15 |
 
-**Acceptance count: taught in 5 countries (Egypt, Armenia, Jordan, Kazakhstan, South Africa). Egypt carries the full climb — ones, tens and hundreds in Grade 2, three-digit place value in Grade 3, big numbers to the milliards in Grade 4. Armenia carries tens and ones in Grade 2 and number classes to millions in Grade 3. Jordan carries place value from Grade 1 ones and tens to Grade 4 hundred-thousands. Kazakhstan carries place-value components with graphic models in Grade 2. South Africa carries hundreds, tens and units boxes in Grades 2–3. Other read countries teach place value inside their own Grade 2–3 books and join by merge.**
+**Acceptance count: taught in 6 countries (Egypt, Armenia, Jordan, Kazakhstan, South Africa, Laos). Egypt carries the full climb — ones, tens and hundreds in Grade 2, three-digit place value in Grade 3, big numbers to the milliards in Grade 4. Armenia carries tens and ones in Grade 2 and number classes to millions in Grade 3. Jordan carries place value from Grade 1 ones and tens to Grade 4 hundred-thousands. Kazakhstan carries place-value components with graphic models in Grade 2. South Africa carries hundreds, tens and units boxes in Grades 2–3. Other read countries teach place value inside their own Grade 2–3 books and join by merge.** Laos carries place value from tens-and-ones to 100 in Grade 1, through hundreds, expanded forms and numbers to 100000 in Grades 2–3, to millions and billions in Grade 5.

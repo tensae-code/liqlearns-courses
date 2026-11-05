@@ -1,6 +1,6 @@
 # Sources — Symmetry
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos
 
 Every part traces to its book and page.
 
@@ -106,6 +106,11 @@ manual) — Ghana, GES National STEM Resource Unit with JICA;
 April 2025. Teacher evidence only: Ghana holds no pupil
 textbook in this set. Filed in maths/books/ghana.md (FULLY
 READ + CITATION CHECK PASSED 2026-11-05).
+**Book 21:** *Mathematics, Grade 3 student book, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 22:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 23:** *Mathematics, Grade 6 student book (secondary year 1)* — Laos, Ministry of Education / Institute of Educational Science Research, 2010 (2009 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 24:** *Mathematics, Grade 7 student book (secondary year 2)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2011. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 25:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -129,10 +134,15 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Symmetry: recognition and construction (Bài 21–22) | Vietnam, Toán 6 v1, Bài 21–22 |
 | 3-D objects, patterns, symmetry (ws 48–54, pp.130–143) | South Africa, Grade 4 Book 1, ws 48–54, pp.130–143 |
 | Geometry and Measurement: symmetry — fold-and-cut paper; lines of symmetry — teacher-manual evidence only | Ghana, JICA Teacher Manual B4, Lessons 89–107 (teacher evidence, not pupil-book teaching) |
+| Shapes on grids and symmetry | Laos, Grade 3 student book, L2, printed p. 10 |
+| Translation, reflection and symmetry on squared paper, axes of symmetry, translation combined with reflection, translation and rotation about a point | Laos, Grade 5 student book, L46–L50, printed pp. 112–123 |
+| Reflection in a line, symmetric figures, axes of symmetry of triangles, rhombuses, rectangles and squares; perpendicular bisector and angle bisector | Laos, Grade 6 student book, L17 and L19–L20, printed pp. 129–166 |
+| Axial symmetry in a line, central symmetry about a point, symmetry of angles | Laos, Grade 7 student book, L12–L14, printed pp. 43–58 |
+| Translation, reflection and rotation (including the coordinate rotation formula) | Laos, Grade 9 student book, L35–L37, printed pp. 170–196 |
 
-**Acceptance count: taught in 10 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 11 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya,
-Vietnam, Ghana).** Greece carries symmetry from the very start
+Vietnam, Ghana, Laos).** Greece carries symmetry from the very start
 — folding and mirror completion in Grade 1, the fold-along-the-
 red-line test in Grade 3, axial symmetry in Grade 6, and the
 full axis-and-point symmetry chapter in Grade 7. Kazakhstan
@@ -152,4 +162,4 @@ evidence is teacher-manual only (JICA B4 Lessons 89–107,
 fold-and-cut paper): no pupil textbook in Ghana's set teaches
 symmetry, and the lesson words Ghana that way throughout. The
 ladder's fold rule was not needed: the stock proved rich enough
-for symmetry to stand as its own lesson.
+for symmetry to stand as its own lesson. Laos carries symmetry from grid symmetry in Grade 3, through translation, reflection, rotation and axes of symmetry in Grade 5, to line and point symmetry with bisectors in Grades 6–7 and full isometries in Grade 9.

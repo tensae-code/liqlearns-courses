@@ -1,6 +1,6 @@
 # Sources — Addition
 
-countries: Egypt, Jordan, Libya, Kazakhstan, Greece, Armenia, Vietnam, Mauritania
+countries: Egypt, Jordan, Libya, Kazakhstan, Greece, Armenia, Vietnam, Mauritania, Laos
 
 Every part traces to its book and page.
 
@@ -12,6 +12,9 @@ Every part traces to its book and page.
 **Book 6:** *Mathematics 2, Part I* (student) — Armenia. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 7:** *Toán 1, Tập Một + Tập Hai; Toán 2, Tập Một + Tập Hai* (Kết nối tri thức với cuộc sống, NXBGD) — Vietnam. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 **Book 8:** *Mathématiques, Grade 1 student book (الرياضيات للسنة الأولى الابتدائية)* — Mauritania. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 9:** *Mathematics, Grade 1 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2017 original / 2020 reprint (one book held twice, ISBN 978-9932-00-174-3, counted once). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 10:** *Mathematics, Grade 2 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2020, ISBN 978-9932-406-23-4. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 11:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -30,5 +33,10 @@ Every part traces to its book and page.
 | Aligning place values and starting from the ones place (658 + 24 = 682) | Egypt, Grade 2 Term 1 (old Discover series), Chapter 8, Part 6 |
 | Addition to 10,000 with regrouping hundreds; regrouping ones, tens and hundreds | Libya, Grade 3 pupil's book, Unit 2, pp.22–30 |
 | Addition/subtraction WITH regrouping within 100 | Vietnam, Toán 2, p.72 |
+| Addition within 10, joining groups, symbol sentences | Laos, Grade 1 student book (new series), ch. 5, printed p. 42 |
+| Addition crossing 10 by splitting to make 10 (9 + 4 via 9 + 1 + 3) | Laos, Grade 1 student book (new series), ch. 12, printed p. 99 |
+| Calculating with 3 numbers | Laos, Grade 1 student book (new series), ch. 10, printed p. 90 |
+| Adding 2-digit numbers without and with regrouping, vertical layout; 3-digit addition by place value | Laos, Grade 2 student book (new series), ch. 2, printed p. 12; ch. 9, printed p. 90 |
+| Adding whole numbers and decimals, including kip money problems | Laos, Grade 5 student book, L5, printed pp. 16–29 |
 
-**Acceptance count: taught in 8 countries (Egypt, Jordan, Libya, Kazakhstan, Greece, Armenia, Vietnam, Mauritania). Egypt carries the column algorithm whole — regrouping ones, carrying to hundreds, three-digit columns. Jordan carries make-ten and doubles in Grade 1 and regrouping in Grade 2. Libya carries adding without regrouping to 100 in Grade 1, regrouping to 1000 in Grade 2, and to 10,000 in Grade 3. Kazakhstan carries the written column algorithm on named cases in Grade 2. Greece carries vertical addition with carrying in Grade 1 Teuxos B. Armenia carries adding with place transitions in Grade 2. Vietnam carries adding without regrouping in Grade 1 and with regrouping in Grade 2. Mauritania carries addition with carrying in Grade 1. Other read countries teach adding inside their own Grade 1–3 books and join by merge.**
+**Acceptance count: taught in 9 countries (Egypt, Jordan, Libya, Kazakhstan, Greece, Armenia, Vietnam, Mauritania, Laos). Egypt carries the column algorithm whole — regrouping ones, carrying to hundreds, three-digit columns. Jordan carries make-ten and doubles in Grade 1 and regrouping in Grade 2. Libya carries adding without regrouping to 100 in Grade 1, regrouping to 1000 in Grade 2, and to 10,000 in Grade 3. Kazakhstan carries the written column algorithm on named cases in Grade 2. Greece carries vertical addition with carrying in Grade 1 Teuxos B. Armenia carries adding with place transitions in Grade 2. Vietnam carries adding without regrouping in Grade 1 and with regrouping in Grade 2. Mauritania carries addition with carrying in Grade 1. Other read countries teach adding inside their own Grade 1–3 books and join by merge.** Laos carries addition from joining groups within 10 and crossing 10 by making 10 in Grade 1, through 2-digit regrouping and 3-digit place-value addition in Grade 2, to whole-number and decimal addition in Grade 5.

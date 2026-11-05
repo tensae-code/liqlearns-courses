@@ -1,6 +1,6 @@
 # Sources — Right-triangle trigonometry
 
-countries: Jordan, Egypt, Sierra Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece
+countries: Jordan, Egypt, Sierra Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos
 
 Every part traces to its book and page.
 
@@ -48,6 +48,7 @@ in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED
 Geometry and Trigonometry — Greece, ITYE «Diophantos» for the
 Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 + CITATION CHECK PASSED).
+**Book 10:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -60,9 +61,10 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Angle sine, cosine, tangent (sin/cos, their properties, tan/cot); computing triangle, parallelogram and quadrilateral areas with trigonometry | Armenia, Geometry 9 (Hakobyan & Ghazaryan), Chapter 2 Trigonometric relations, §7 angle sine, cosine, tangent; §8 computing areas, pp.62–97 |
 | Trigonometry chapter | Mauritania, 4AS (Grade 10) student book, "Trigonométrie", p.193 |
 | Trigonometry to 180° with sine and cosine laws | Greece, Mathematics C′ Gymnasiou (Grade 9), Part B Geometry and Trigonometry, printed pp.186–253 (trigonometry section) |
+| Right-triangle trigonometry: sin, cos and tan, the 30/45/60 table, sin(90−A) = cos A, sin² + cos² = 1, height problems | Laos, Grade 9 student book, L25, printed p. 108 |
 
-**Acceptance count: taught in 8 countries (Jordan, Egypt, Sierra
-Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece).**
+**Acceptance count: taught in 9 countries (Jordan, Egypt, Sierra
+Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos).**
 Jordan carries the cleanest introduction — ratios from similar
 right triangles, then elevation and depression. Egypt carries
 the special-angle table and tan = sin / cos in Preparatory 3,
@@ -78,4 +80,4 @@ negatives: Libya Grades 5–9 teach no trigonometry at all, and
 South Africa's Grades 7–9 books never teach trigonometry —
 neither country is claimed for this lesson. Sierra Leone's JSS
 never teaches angles of elevation and depression by name; the
-lesson takes that vocabulary from Jordan.
+lesson takes that vocabulary from Jordan. Laos carries right-triangle trigonometry whole in Grade 9 — sin, cos and tan with the special-angle table, the complementary-angle identity and the Pythagorean identity.

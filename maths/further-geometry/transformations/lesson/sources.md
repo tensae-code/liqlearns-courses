@@ -1,6 +1,6 @@
 # Sources — Transformations
 
-countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana
+countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana, Laos
 
 Every part traces to its book and page.
 
@@ -64,6 +64,10 @@ in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED
 maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 2026-11-05). Teacher evidence only: Ghana's set holds no pupil
 textbook.
+**Book 13:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 14:** *Mathematics, Grade 6 student book (secondary year 1)* — Laos, Ministry of Education / Institute of Educational Science Research, 2010 (2009 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 15:** *Mathematics, Grade 7 student book (secondary year 2)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2011. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 16:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -80,10 +84,14 @@ textbook.
 | Central symmetry; axial symmetry; the exterior angle; relative positions of a line and a circle | Greece, Euclidean Geometry Volume A (Grades 10–11), Ch.3 Triangles (central symmetry, axial symmetry) |
 | Transformations in the plane | Mauritania, 4AS (Grade 10) student book, "Transformations dans le plan", p.170 |
 | Reflection introduced in the Grade 6 geometry block | Ghana, JICA Primary Mathematics Teacher Manual B6, Lesson 104 (reflection) — teacher evidence only; Ghana's set holds no pupil textbook |
+| Translation, reflection and rotation on squared paper, coordinates of vertices, tiling patterns, enlarging and reducing by coordinates | Laos, Grade 5 student book, L46–L50 and L53–L54, printed pp. 112–135 |
+| Reflection in a line, symmetric figures, reflection of angles, segments and circles | Laos, Grade 6 student book, L17 and L19, printed pp. 129–155 |
+| Axial and central symmetry | Laos, Grade 7 student book, L12–L13, printed pp. 43–58 |
+| Translation, reflection and rotation, including the coordinate rotation formula x′ = x cos − y sin, y′ = x sin + y cos | Laos, Grade 9 student book, L35–L37, printed pp. 170–196 |
 
-**Acceptance count: taught in 8 countries (Egypt, Jordan,
+**Acceptance count: taught in 9 countries (Egypt, Jordan,
 Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania,
-Ghana — Ghana as teacher evidence only).** Egypt carries the
+Ghana, Laos — Ghana as teacher evidence only).** Egypt carries the
 fullest single treatment — all four moves defined with
 coordinate rules plus composition in Grade 7 Term 2. Jordan
 carries translation and reflection in Grade 6, rotation in
@@ -96,4 +104,4 @@ translation as Grade 9 worksheet practice. Greece carries
 central and axial symmetry in Lykeio Geometry. Mauritania
 carries transformations in the plane in 4AS. Ghana carries
 reflection only, in a teacher manual — worded as teacher
-evidence, never as pupil-book teaching.
+evidence, never as pupil-book teaching. Laos carries transformations from squared-paper translation, reflection and rotation with coordinates in Grade 5, through line reflection in Grade 6, to full isometries with the coordinate rotation formula in Grade 9.

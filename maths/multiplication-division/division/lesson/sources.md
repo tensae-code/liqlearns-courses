@@ -1,6 +1,6 @@
 # Sources — Division
 
-countries: Egypt, Jordan, Vietnam, Kazakhstan, Armenia, Greece
+countries: Egypt, Jordan, Vietnam, Kazakhstan, Armenia, Greece, Laos
 
 Every part traces to its book and page.
 
@@ -13,6 +13,10 @@ Every part traces to its book and page.
 **Book 7:** *Mathematics 4* (student) — Armenia. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 8:** *Mathematics 5* (student) — Armenia. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 9:** *Mathematics, Grade 2 pupil book, Teuxos B; Grade 3 pupil book* — Greece, Ministry of Education (ITYPE «Diophantos»). Filed in maths/books/greece.md (FULLY READ + CITATION CHECK PASSED).
+**Book 10:** *Mathematics, Grade 2 teacher guide, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2007 (guides the pre-2016 Grade 2 student book, which is not in the set). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 11:** *Mathematics, Grade 3 student book, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 12:** *Mathematics, Grade 4 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2021. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 13:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -28,5 +32,9 @@ Every part traces to its book and page.
 | Finding an unknown divisor from dividend and quotient (§6, p.30); an unknown dividend from divisor and quotient (§7, p.35) | Armenia, Mathematics 4, Part I, §6–§7, pp.30–35 |
 | Division with remainder (§2.10, p.65) | Armenia, Mathematics 5, Chapter 2, §2.10, p.65 |
 | No long division (sharing stays at the tables and equal sharing) | Greece, Grade 2 Teuxos B and Grade 3 pupil book — honest negative, stated in maths/books/greece.md |
+| Division as sharing equally | Laos, Grade 2 teacher guide (old series), L38, printed p. 126 (teacher evidence: guides the pre-2016 Grade 2 book) |
+| Dividing, including the long-division model 462 ÷ 22 = 21 — the book's summary line misprints the divisor as 3 (printed p. 150); the panels computing 462 ÷ 22 = 21 are correct, and the correct value is taught here | Laos, Grade 3 student book, L44, printed p. 148 |
+| Division with remainder, checking by multiplication; longer division with 2-digit divisors | Laos, Grade 4 student book (new series), ch. 4, printed p. 32; ch. 8, printed p. 78 |
+| Whole-number division, estimating the quotient's digits; exact division, quotient and remainder; dividing decimals by whole numbers and by decimals | Laos, Grade 5 student book, L7, printed pp. 16–29; L16, printed pp. 44–49; L55–L56, printed pp. 136–139 |
 
-**Acceptance count: taught in 6 countries (Egypt, Jordan, Vietnam, Kazakhstan, Armenia, Greece). Egypt carries division whole — sharing equally, remainders as a named topic, and long division layout. Jordan carries division with remainder in Grade 3 and long division with zeros in the quotient in Grade 4. Vietnam carries exact division and division with remainder in Grade 3. Kazakhstan carries division as equal sharing in Grade 2 and non-table division with remainders in Grade 3. Armenia carries unknown divisors and dividends in Grade 4 and division with remainder in Grade 5. Greece carries sharing and the tables only — it never teaches formal long division, stated honestly here. Other read countries teach dividing inside their own Grade 2–4 books and join by merge.**
+**Acceptance count: taught in 7 countries (Egypt, Jordan, Vietnam, Kazakhstan, Armenia, Greece, Laos). Egypt carries division whole — sharing equally, remainders as a named topic, and long division layout. Jordan carries division with remainder in Grade 3 and long division with zeros in the quotient in Grade 4. Vietnam carries exact division and division with remainder in Grade 3. Kazakhstan carries division as equal sharing in Grade 2 and non-table division with remainders in Grade 3. Armenia carries unknown divisors and dividends in Grade 4 and division with remainder in Grade 5. Greece carries sharing and the tables only — it never teaches formal long division, stated honestly here. Other read countries teach dividing inside their own Grade 2–4 books and join by merge.** Laos carries division from sharing equally in the old Grade 2 guide, through the Grade 3 long-division model and Grade 4 division with remainder, to decimal division in Grade 5 — with the Grade 3 book's misprinted divisor (3 for 22) corrected to 462 ÷ 22 = 21.

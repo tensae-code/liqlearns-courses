@@ -1,6 +1,6 @@
 # Sources — Congruence and similarity
 
-countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece
+countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos
 
 Every part traces to its book and page.
 
@@ -76,6 +76,7 @@ CHECK PASSED).
 Geometry and Trigonometry — Greece, ITYE «Diophantos» for the
 Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 + CITATION CHECK PASSED).
+**Book 16:** *Mathematics, Grade 7 student book (secondary year 2)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2011. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -94,9 +95,10 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | First, second and third congruence criteria for triangles; congruence criteria for right triangles | Armenia, Geometry 7, §5 first congruence criterion, §6 second, §7 third (chapter pp.34–76) |
 | Similar triangles: definition, similarity criteria, properties of similar triangles, applying similarity in proofs and practical work | Armenia, Geometry 8, Chapter III Similar triangles, §11 definition pp.69–73; §12 similarity criteria pp.75–79; §13 properties pp.81–85; §14 applying similarity pp.86–91 |
 | Congruence of triangles; ratio of segments; Thales' theorem; homothety; similarity — similar polygons, similar triangles; ratio of areas of similar figures | Greece, Mathematics C′ Gymnasiou (Grade 9), Part B Geometry and Trigonometry, Ch.1 Geometry, printed pp.186–230 |
+| Triangle midpoint theorem; Thales' theorem (ratios AM/AB, AN/AC, MN/BC); similar triangles and similarity cases (an equal angle plus proportional sides around it) | Laos, Grade 7 student book, L45–L48, printed pp. 203–226 |
 
-**Acceptance count: taught in 9 countries (Libya, Jordan, Egypt,
-Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece).**
+**Acceptance count: taught in 10 countries (Libya, Jordan, Egypt,
+Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos).**
 Libya carries the fullest single treatment — congruence tests
 including RHS, similarity, applications, and the k² area and k³
 volume rules in one chapter (Grade 9, Chapter 8, pp.156–193).
@@ -116,4 +118,4 @@ criteria in Grade 7 Geometry and similar triangles in Grade 8.
 Greece carries congruence, Thales, homothety and similarity in
 Grade 9. Honest negative: Libya's Grade 9 teaches all of this
 without Pythagoras — similarity is done without it, and the
-lesson does not lean on Pythagoras anywhere.
+lesson does not lean on Pythagoras anywhere. Laos touches this lesson only in part — similarity only: the midpoint theorem, Thales' theorem and similarity cases in Grade 7 — and teaches no congruence cases.

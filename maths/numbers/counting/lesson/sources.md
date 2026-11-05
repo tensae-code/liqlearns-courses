@@ -1,6 +1,6 @@
 # Sources — Counting
 
-countries: Libya, Greece, Sierra Leone, Ghana, Kazakhstan, South Africa
+countries: Libya, Greece, Sierra Leone, Ghana, Kazakhstan, South Africa, Laos
 
 Every part traces to its book and page.
 
@@ -10,6 +10,8 @@ Every part traces to its book and page.
 **Book 4:** *Differentiated Learning (DL) teacher guides, Modules 1–5* (teacher guides) — Ghana, NaCCA. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher evidence only: Ghana's set holds no pupil textbook at all.
 **Book 5:** *Mathematics, Grade 1* (Akpaeva / Almatykitap series) — Kazakhstan, Ministry of Education approved list. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 6:** *Mathematics, Grade 1 Workbook 1 (Rainbow Workbooks), Terms 1–2* — South Africa, Department of Basic Education. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
+**Book 7:** *Mathematics, Grade 1 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2017 original / 2020 reprint (one book held twice, ISBN 978-9932-00-174-3, counted once). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 8:** *Mathematics, Grade 2 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2020, ISBN 978-9932-406-23-4. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -21,5 +23,9 @@ Every part traces to its book and page.
 | Counting 1–50, then 1–100, then counting in bundles | Ghana, DL teacher guides, Module 1 (teacher evidence) |
 | Counting in tens as part of forming two-digit numbers | Kazakhstan, Grade 1, Section 1 — comparing one- and two-digit numbers to 20, counting in tens |
 | Counting on real things — 'circle only 20 beads' | South Africa, Grade 1 Workbook 1, Terms 1–2 |
+| Counting, writing and reading 1–5, then to 10 and 0 | Laos, Grade 1 student book (new series), ch. 2, printed p. 10 |
+| Teens as 10 + n, tens-and-ones language | Laos, Grade 1 student book (new series), ch. 7, printed p. 72 |
+| Counting in tens, reading and writing to 100, tens-and-ones place value | Laos, Grade 1 student book (new series), ch. 17, printed p. 136 |
+| Counting to hundreds with sticks and bundles, place value to hundreds | Laos, Grade 2 student book (new series), ch. 5, printed p. 48 |
 
-**Acceptance count: taught in 6 countries (Libya, Greece, Sierra Leone, Ghana, Kazakhstan, South Africa). Libya carries the whole primary climb in one book — 1–10, then to 20, then to 100. Greece carries numbers to 20 with sums to 10 and coins. Sierra Leone carries counting to 100 sung and played, grouped in 10s — teacher evidence, since its Primary set is lesson plans, not a pupil book. Ghana carries the same climb as teacher evidence (counting 1–50, 1–100, in bundles) — its set holds no pupil textbook at all. Kazakhstan carries counting in tens inside forming two-digit numbers. South Africa carries counting checked against real things on beads. Other read countries teach counting inside their own Grade 1 books and join by merge.**
+**Acceptance count: taught in 7 countries (Libya, Greece, Sierra Leone, Ghana, Kazakhstan, South Africa, Laos). Libya carries the whole primary climb in one book — 1–10, then to 20, then to 100. Greece carries numbers to 20 with sums to 10 and coins. Sierra Leone carries counting to 100 sung and played, grouped in 10s — teacher evidence, since its Primary set is lesson plans, not a pupil book. Ghana carries the same climb as teacher evidence (counting 1–50, 1–100, in bundles) — its set holds no pupil textbook at all. Kazakhstan carries counting in tens inside forming two-digit numbers. South Africa carries counting checked against real things on beads. Other read countries teach counting inside their own Grade 1 books and join by merge.** Laos carries the whole primary climb in one series — 1–10 and 0, teens as 10 + n, then counting in tens to 100 with place value in Grade 1, and hundreds in Grade 2.

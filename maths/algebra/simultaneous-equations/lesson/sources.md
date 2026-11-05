@@ -1,6 +1,6 @@
 # Sources — Simultaneous Equations
 
-countries: Kazakhstan, Jordan, Libya, Greece, Vietnam, Mauritania
+countries: Kazakhstan, Jordan, Libya, Greece, Vietnam, Mauritania, Laos
 
 Every part traces to its book and page.
 
@@ -19,6 +19,9 @@ Every part traces to its book and page.
 **Book 7:** *Toán 9* (Mathematics 9) — Vietnam, Kết nối tri thức với cuộc sống, NXBGD, MoET. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 8:** *Mathematics*, 5AS-LO (Grade 11, lettres originelles) — Mauritania, IPN, under the 2020 secondary programme revision (Arabic). Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 9:** *Mathematics, Grade 8 student book (secondary year 3)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2012. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 10:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 11:** *Mathematics, Grade 12 student book (upper-secondary year 7)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2016 (2010 curriculum, revised). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -30,5 +33,8 @@ Every part traces to its book and page.
 | The idea of a linear equation; the idea of a linear system and its graphical solution; algebraic solution of a linear system | Greece, Grade 9, Ch. 3, pp. 122–142 |
 | Two-unknown linear systems (Grade 9); three-unknown systems extend them (Grade 10 study topics) | Vietnam, Grade 9, Toán 9 |
 | Equations, inequalities and systems | Mauritania, 5AS-LO, Ch. 3, p. 23 |
+| Systems of first-degree equations by elimination, substitution and graphically — only the checker-verified systems are cited here: elimination {2x + 5y = 26; 4x − 5y = −8} → (3; 4), substitution → (3; 1) and (1; 3), graphical {2x + y = 5; x − 3y = 6} → (3; −1) and {3x − y = 5; 5x + 2y = 23} → (3; 4); the filing's two unverified L14/L15 items are not used | Laos, Grade 8 student book, L14–L15, printed pp. 104–118 |
+| Quadratic systems and root signs/locations, symmetric systems via S = x + y, P = xy | Laos, Grade 9 student book, L23–L24, printed pp. 100–107 |
+| Linear equations ax + by = c, linear equations in several unknowns, linear systems, solving linear systems | Laos, Grade 12 student book, L1–L2, printed pp. 1–12; L9–L10, printed pp. 81–109 |
 
-**Acceptance count: taught in 6 countries (Kazakhstan, Jordan, Libya, Greece, Vietnam, Mauritania).** Kazakhstan carries the fullest treatment — two-variable equations and both algebraic methods in Grade 6, the graphical method in Grade 7, and symmetric systems in Grade 9. Jordan carries the three methods in order in Grade 8: graphical, substitution, elimination. Libya carries the hens-and-roosters puzzle and all three algebraic methods plus the graphical interpretation in Grade 9. Greece carries systems in Grade 9, graphical first and algebraic second. Vietnam carries two-unknown linear systems in Grade 9. Mauritania carries equations, inequalities and systems in its 5AS-LO book, Chapter 3. South Africa is not in this lesson: its Grade 9 book states plainly that it teaches no simultaneous equations. Sierra Leone is not in this lesson: its JSS never teaches simultaneous equations. Egypt, Armenia and Ghana are not in this lesson on the filed stock.
+**Acceptance count: taught in 7 countries (Kazakhstan, Jordan, Libya, Greece, Vietnam, Mauritania, Laos).** Kazakhstan carries the fullest treatment — two-variable equations and both algebraic methods in Grade 6, the graphical method in Grade 7, and symmetric systems in Grade 9. Jordan carries the three methods in order in Grade 8: graphical, substitution, elimination. Libya carries the hens-and-roosters puzzle and all three algebraic methods plus the graphical interpretation in Grade 9. Greece carries systems in Grade 9, graphical first and algebraic second. Vietnam carries two-unknown linear systems in Grade 9. Mauritania carries equations, inequalities and systems in its 5AS-LO book, Chapter 3. South Africa is not in this lesson: its Grade 9 book states plainly that it teaches no simultaneous equations. Sierra Leone is not in this lesson: its JSS never teaches simultaneous equations. Egypt, Armenia and Ghana are not in this lesson on the filed stock. Laos carries simultaneous equations by elimination, substitution and graphically in Grade 8 (only the checker-verified systems cited — the filing's two unverified L14/L15 items are not used), through quadratic and symmetric systems in Grade 9, to linear systems in Grade 12.

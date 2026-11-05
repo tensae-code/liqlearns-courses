@@ -1,6 +1,6 @@
 # Sources — Derivatives
 
-countries: Egypt, Jordan, Greece, Armenia, Vietnam, Libya, Mauritania
+countries: Egypt, Jordan, Greece, Armenia, Vietnam, Libya, Mauritania, Laos
 
 Every part traces to its book and page.
 
@@ -33,6 +33,7 @@ Every part traces to its book and page.
 **Book 14:** Mathématiques, 7ème AS, série C (7AS-C) — Mauritania, IPN pupil manual, 201 pp., French. Filed in maths/books/mauritania.md (D10).
 
 **Book 15:** Mathématiques, 7ème AS, sciences de la nature (7AS-D) — Mauritania, Mohameden Ould El Hadi and Mohameden Ould Bah, 122 pp., French, for the 2025–2026 school year. Filed in maths/books/mauritania.md (D11).
+**Book 16:** *Mathematics, Grade 10 student book (upper-secondary year 5)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2014 (2010 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -55,5 +56,7 @@ Every part traces to its book and page.
 | Derivation — derivatives — primitives | Mauritania, 6AS-C, Chapter 5, p.59 |
 | Derivation of numerical functions; study and representation of numerical functions (incl. applications of derivation) | Mauritania, 6AS-D, Chapters V–VI, pp.87–107 |
 | Limit, continuity and derivation; study of functions | Mauritania, 7AS-D, Chapters 2–3, pp.23–47 |
+| Rate of change and derivative: definition by limits, differentiation rules including the chain rule, higher-order derivatives | Laos, Grade 10 student book, L17, printed p. 176 |
+| Applications of the derivative: related rates, tangents and normals, increasing and decreasing, maxima and minima, concavity and inflection, differentials | Laos, Grade 10 student book, L18, printed p. 188 |
 
-**Acceptance count: taught in 7 countries (Egypt, Jordan, Greece, Armenia, Vietnam, Libya, Mauritania).** Egypt carries differentiation from first principles to implicit and parametric differentiation, higher derivatives and related rates; Jordan carries differentiation from slope estimation without limits to the chain rule, implicit differentiation and related rates; Greece carries the full analysis chapter with the Mean Value Theorem, extrema, convexity and De L'Hospital; Armenia carries the derivative through velocity and acceleration to the second-order derivative; Vietnam carries the definition, the rules, the second derivative and the applications; Libya carries composite, product, quotient and implicit differentiation with maxima and minima; Mauritania carries derivation in four streamed books.
+**Acceptance count: taught in 8 countries (Egypt, Jordan, Greece, Armenia, Vietnam, Libya, Mauritania, Laos).** Egypt carries differentiation from first principles to implicit and parametric differentiation, higher derivatives and related rates; Jordan carries differentiation from slope estimation without limits to the chain rule, implicit differentiation and related rates; Greece carries the full analysis chapter with the Mean Value Theorem, extrema, convexity and De L'Hospital; Armenia carries the derivative through velocity and acceleration to the second-order derivative; Vietnam carries the definition, the rules, the second derivative and the applications; Libya carries composite, product, quotient and implicit differentiation with maxima and minima; Mauritania carries derivation in four streamed books. Laos carries derivatives whole in Grade 10 — the definition, all the rules including the chain rule, higher orders, and applications from related rates to concavity and differentials.

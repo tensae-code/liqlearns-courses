@@ -1,6 +1,6 @@
 # Sources — Factors-multiples-and-primes
 
-countries: Egypt, Armenia, Jordan, Libya, Kazakhstan, Greece, Vietnam, South Africa
+countries: Egypt, Armenia, Jordan, Libya, Kazakhstan, Greece, Vietnam, South Africa, Laos
 
 Every part traces to its book and page.
 
@@ -13,6 +13,9 @@ Every part traces to its book and page.
 **Book 7:** *Mathematics, Grade 6 pupil book* — Greece, Ministry of Education (ITYPE «Diophantos»). Filed in maths/books/greece.md (FULLY READ + CITATION CHECK PASSED).
 **Book 8:** *Toán 6, Tập Một + Tập Hai* (Kết nối tri thức với cuộc sống, NXBGD) — Vietnam. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 **Book 9:** *Mathematics, Grade 5 Book 2 and Grade 6 Book 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
+**Book 10:** *Mathematics, Grade 4 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2021. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 11:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 12:** *Mathematics, Grade 6 student book (secondary year 1)* — Laos, Ministry of Education / Institute of Educational Science Research, 2010 (2009 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -27,5 +30,8 @@ Every part traces to its book and page.
 | Divisors, multiples, primes, GCD, LCM | Vietnam, Toán 6 |
 | Colouring prime numbers on a 1–100 grid — prime numbers first appear here | South Africa, Grade 5 Book 2, Worksheets 29–30 |
 | Prime/composite distinguished; factors and multiples (factors of 1,000,000) | South Africa, Grade 6 Book 1, Terms 1–2 |
+| Multiples and factors | Laos, Grade 4 student book (new series), ch. 13, printed p. 116 |
+| Primes (list to 19), multiples and divisors, divisibility rules for 2, 3, 5, 9, 10 | Laos, Grade 5 student book, L16–L17, printed pp. 44–49 |
+| Common multiples, common divisors, primes, sieve to 100, prime factorisation, GCD by the Euclidean algorithm, LCM and GCD from factorisations, coprime numbers | Laos, Grade 6 student book, L7, printed pp. 46–55 |
 
-**Acceptance count: taught in 8 countries (Egypt, Armenia, Jordan, Libya, Kazakhstan, Greece, Vietnam, South Africa). Egypt carries the whole topic twice — prime and composite with GCF in Grade 4, prime factorisation with GCF and LCM in Grade 5, including choosing between them in word problems. Armenia carries divisibility whole in Grade 5 — divisor and multiple, GCD, LCM, primes, factorisation. Jordan carries factors and multiples with GCF and LCM in Grade 5. Libya carries the topic in Grade 7 — prime factors, HCF, multiples, LCM. Kazakhstan carries GCD and LCM in Grade 5. Greece generalises powers, GCD/LCM and primes in Grade 6. Vietnam carries divisors, multiples, primes, GCD and LCM in Grade 6. South Africa carries primes first as a coloured 1–100 grid in Grade 5 and prime/composite with factors of 1,000,000 in Grade 6. Other read countries teach factors inside their own Grade 5–7 books and join by merge.**
+**Acceptance count: taught in 9 countries (Egypt, Armenia, Jordan, Libya, Kazakhstan, Greece, Vietnam, South Africa, Laos). Egypt carries the whole topic twice — prime and composite with GCF in Grade 4, prime factorisation with GCF and LCM in Grade 5, including choosing between them in word problems. Armenia carries divisibility whole in Grade 5 — divisor and multiple, GCD, LCM, primes, factorisation. Jordan carries factors and multiples with GCF and LCM in Grade 5. Libya carries the topic in Grade 7 — prime factors, HCF, multiples, LCM. Kazakhstan carries GCD and LCM in Grade 5. Greece generalises powers, GCD/LCM and primes in Grade 6. Vietnam carries divisors, multiples, primes, GCD and LCM in Grade 6. South Africa carries primes first as a coloured 1–100 grid in Grade 5 and prime/composite with factors of 1,000,000 in Grade 6. Other read countries teach factors inside their own Grade 5–7 books and join by merge.** Laos carries multiples and factors in Grade 4, primes to 19 with divisibility rules in Grade 5, and the full GCD/LCM course — listing, Euclidean algorithm and factorisation — in Grade 6.

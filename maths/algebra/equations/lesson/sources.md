@@ -1,6 +1,6 @@
 # Sources — Equations
 
-countries: Kazakhstan, Jordan, Greece, South Africa, Armenia, Egypt, Libya, Vietnam, Sierra Leone, Ghana
+countries: Kazakhstan, Jordan, Greece, South Africa, Armenia, Egypt, Libya, Vietnam, Sierra Leone, Ghana, Laos
 
 Every part traces to its book and page.
 
@@ -29,6 +29,10 @@ Every part traces to its book and page.
 **Book 12:** Mathematics Handbook, JSS 2 and JSS 3 — Sierra Leone, Ministry of Education (no year, edition or ISBN printed in the file). Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 13:** JICA Basic 5 teacher manual (Lessons 86–88) — Ghana, teacher-manual evidence only: Ghana's set holds no pupil textbook. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED).
+**Book 14:** *Mathematics, Grade 4 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2021. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 15:** *Mathematics, Grade 6 student book (secondary year 1)* — Laos, Ministry of Education / Institute of Educational Science Research, 2010 (2009 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 16:** *Mathematics, Grade 7 student book (secondary year 2)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2011. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 17:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -45,5 +49,9 @@ Every part traces to its book and page.
 | First-degree equations in one unknown | Vietnam, Grade 8, Toán 8 |
 | Variable-on-both-sides equations (L124); linear equations in two variables, standard form ax + by + c = 0 (L86, p. 119) | Sierra Leone, JSS 2 Term 3, L124; JSS 3, L86, printed p. 119 |
 | Solving linear equations by adding or subtracting, by manipulatives and by guess-and-check (3 + p = 5, p = 2; 6 − p = 2, p = 4) — teacher-manual evidence, no pupil textbook in Ghana's set | Ghana, JICA Basic 5 teacher manual, L86–88 |
+| Symbolic sentences using letters (sentences like a + b = c with letters standing for unknown numbers) | Laos, Grade 4 student book (new series), ch. 15, printed p. 144 |
+| Simple equations: x + (−7) = 15, (−8) − x = 2, and multiplication/division forms 6 × x = 42, 60 ÷ x = 5 | Laos, Grade 6 student book, L4, printed pp. 25–32; L5, printed pp. 33–37 |
+| First-degree equations with one unknown, balance-scale model, testing candidates, word problems as equations, product-zero forms | Laos, Grade 7 student book, L20–L22, printed pp. 81–122 |
+| Rational equations: domain, extraneous roots | Laos, Grade 9 student book, L5, printed p. 22 |
 
-**Acceptance count: taught in 10 countries (Kazakhstan, Jordan, Greece, South Africa, Armenia, Egypt, Libya, Vietnam, Sierra Leone, Ghana).** Kazakhstan carries the fullest treatment — the definition, the equivalence rules, the three cases, and a checked word problem. Greece carries the six elementary forms in Grade 7 and first-degree equations in full in Grade 8. Jordan carries one-variable linear equations in Grade 7. South Africa carries balancing in Grade 8 (x + 5 = −4) and equations with fractions in Grade 9. Armenia carries letter expressions and equations in Grade 7. Egypt carries one-step equations in Grade 6 and first-degree equations with the equality properties in Grade 8 Term 2. Libya carries equations with algebraic fractions in Grade 9. Vietnam carries first-degree equations in one unknown in Grade 8. Sierra Leone carries variable-on-both-sides equations in JSS 2 and two-variable linear equations in JSS 3. Ghana carries only teacher-manual evidence (JICA Basic 5, Lessons 86–88). Mauritania is not in this lesson: its 1AS teaches no algebra.
+**Acceptance count: taught in 11 countries (Kazakhstan, Jordan, Greece, South Africa, Armenia, Egypt, Libya, Vietnam, Sierra Leone, Ghana, Laos).** Kazakhstan carries the fullest treatment — the definition, the equivalence rules, the three cases, and a checked word problem. Greece carries the six elementary forms in Grade 7 and first-degree equations in full in Grade 8. Jordan carries one-variable linear equations in Grade 7. South Africa carries balancing in Grade 8 (x + 5 = −4) and equations with fractions in Grade 9. Armenia carries letter expressions and equations in Grade 7. Egypt carries one-step equations in Grade 6 and first-degree equations with the equality properties in Grade 8 Term 2. Libya carries equations with algebraic fractions in Grade 9. Vietnam carries first-degree equations in one unknown in Grade 8. Sierra Leone carries variable-on-both-sides equations in JSS 2 and two-variable linear equations in JSS 3. Ghana carries only teacher-manual evidence (JICA Basic 5, Lessons 86–88). Mauritania is not in this lesson: its 1AS teaches no algebra. Laos carries equations from letter sentences in Grade 4, through one-unknown equations in Grade 6, to first-degree equations with word problems in Grade 7 and rational equations with extraneous roots in Grade 9.

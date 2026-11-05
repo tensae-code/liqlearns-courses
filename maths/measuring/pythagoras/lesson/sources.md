@@ -1,6 +1,6 @@
 # Sources — Pythagoras
 
-countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana
+countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana, Laos
 
 Every part traces to its book and page.
 
@@ -80,6 +80,8 @@ book) — Jordan, NCCD, Arabic; ISBN (decision 2022/44);
 deposit 2023/2/782; 187 pp. Filed in maths/books/jordan.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-04). Tool-use only:
 Jordan does NOT teach Pythagoras as a topic in any held book.
+**Book 16:** *Mathematics, Grade 8 student book (secondary year 3)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2012. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 17:** *Mathematics, Grade 10 student book (upper-secondary year 5)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2014 (2010 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -98,10 +100,12 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 | Pythagorean theorem and area (WS58–64, pp.156–173) | South Africa, Grade 9 Book 1, WS58–64, pp.156–173 |
 | Pythagoras' theorem (curriculum standard, Basic 8) — curriculum evidence only | Ghana, NaCCA curriculum, Basic 8, Measurement 3.2 (curriculum evidence, not pupil-book teaching) |
 | Pythagoras' theorem used as a tool, not taught as a topic: distance in the coordinate plane (Unit 4, L1, p.158); the Pythagorean identity named in the trigonometry unit (Unit 5, L4) | Jordan, Grade 9 Student Book Term 1, Unit 4, p.158; Grade 9 Term 2, Unit 5, L4 (tool-use only — Jordan teaches Pythagoras in NO held book: Grade 7 Terms 1–2 and Grade 8 Term 2 state it explicitly as absent) |
+| Pythagorean theorem: right triangle ABC, right at A, proved by area — a square of side a + b with an inner square of side c gives c² = a² + b² | Laos, Grade 8 student book, L9, printed pp. 53–77 |
+| Distance in 3D, derived by applying Pythagoras twice | Laos, Grade 10 student book, L23, printed p. 253 |
 
-**Acceptance count: taught in 9 countries (Egypt, Greece,
+**Acceptance count: taught in 10 countries (Egypt, Greece,
 Armenia, Kazakhstan, Vietnam, Sierra Leone, Libya, Mauritania,
-South Africa).** Egypt carries the fullest single treatment —
+South Africa, Laos).** Egypt carries the fullest single treatment —
 the theorem, its converse, classifying triangles by comparing
 squares, the 13-foot ladder and a Pythagoras practical in Grade
 8. Sierra Leone carries the cleanest ladder in JSS 3 — the
@@ -126,4 +130,4 @@ a tool in Grade 9 coordinate geometry and names the Pythagorean
 identity in Grade 9 trigonometry, but teaches it as a topic in
 no held book — the Grade 7 and Grade 8 books state its absence
 explicitly. The brief's claim that Jordan teaches Pythagoras in
-depth is corrected here against the filing: Jordan does not.
+depth is corrected here against the filing: Jordan does not. Laos carries Pythagoras as an area proof in Grade 8 and uses it again, applied twice, to derive distance in three dimensions in Grade 10.

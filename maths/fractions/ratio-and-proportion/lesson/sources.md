@@ -1,6 +1,6 @@
 # Sources — Ratio and Proportion
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos
 
 Every part traces to its book and page.
 
@@ -82,6 +82,10 @@ Kazakhstan, Aldamuratova, Baysholanova, Baysholanov, Atamura,
 2017, set ISBN 978-601-306-734-6. Filed in
 maths/books/kazakhstan.md (Grade 5 WORK 1 section, FULLY READ +
 CITATION CHECK PASSED 2026-11-04).
+**Book 14:** *Mathematics, Grade 4 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2021. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 15:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 16:** *Mathematics, Grade 6 student book (secondary year 1)* — Laos, Ministry of Education / Institute of Educational Science Research, 2010 (2009 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 17:** *Mathematics, Grade 7 student book (secondary year 2)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2011. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -97,10 +101,14 @@ CITATION CHECK PASSED 2026-11-04).
 | South Africa's ratio path: picture example, tables, rate | South Africa, Grade 4 Book 1, ws 61 ratio (picture/example only); Grade 5 Book 1, ws 60 ratio table; Grade 6 Book 1, ws 42 ratio tables; Grade 7 Book 1, WS7 Ratio, WS8 Rate, printed pp.14–27; Grade 9 Book 1, R7 Ratio and rate |
 | Mauritania's proportion teaching | Mauritania, Grade 5, proportion concept p.108; Grade 6, proportionality and uniform motion p.77, proportionality and map scale p.81, unequal shares p.48 |
 | Kazakhstan's honest limit (stated, not forced) | Kazakhstan, Grade 4 Part 2, L66–67 Proportional division, printed pp.91, 94; Grade 5, Ch.3 §3.15 Joint work (whole = 1). Kazakhstan's Grade 5 teaches no ratio or proportion as such — percent is its only ratio language — so Kazakhstan counts for the proportion parts only through proportional division and joint work, not for ratio itself |
+| Change of two quantities and proportional relationship | Laos, Grade 4 student book (new series), ch. 16, printed p. 148 |
+| Direct proportion in tables; inverse proportion (14 workers in 25 days, how long for 35 workers) | Laos, Grade 5 student book, L43–L45, printed pp. 100–111 |
+| Ratio as a quotient a/b; direct proportion with coefficient k; the fourth proportional by cross products; inverse proportion with constant product | Laos, Grade 6 student book, L27–L29 and L31, printed pp. 206–232 and 239–244 |
+| Ordered pairs, direct proportion (y = kx) and inverse proportion (y = k/x), percentages, scale | Laos, Grade 7 student book, L39–L43, printed pp. 171–202 |
 
-**Acceptance count: taught in 11 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 12 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana).** Armenia carries the fullest ratio
+Libya, Vietnam, Ghana, Laos).** Armenia carries the fullest ratio
 course — ratio, equality of ratios and recipes, cross
 multiplication, direct proportion, map and scale, working
 together; Jordan teaches ratio and equivalent ratios in Grade 6;
@@ -126,4 +134,4 @@ example in Grade 4, ratio tables in Grades 5–6, ratio and rate
 in Grade 7, and ratio and rate again in Grade 9; Kazakhstan
 teaches proportional division in Grade 4 and joint work in
 Grade 5, but no ratio or proportion as such — stated honestly
-above.
+above. Laos carries ratio and proportion from proportional tables in Grade 4, through direct and inverse proportion in Grade 5, to ratio, coefficient k, the fourth proportional by cross products and inverse proportion in Grades 6–7.

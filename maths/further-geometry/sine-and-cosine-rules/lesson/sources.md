@@ -1,6 +1,6 @@
 # Sources — Sine and cosine rules
 
-countries: Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece
+countries: Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos
 
 Every part traces to its book and page.
 
@@ -55,6 +55,7 @@ READ + CITATION CHECK PASSED).
 Geometry and Trigonometry — Greece, ITYE «Diophantos» for the
 Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 + CITATION CHECK PASSED).
+**Book 12:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -69,9 +70,13 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Trig values of an angle from 0° to 180°; metric relations in a triangle (sine rule, cosine rule, area formulas) | Vietnam, Toán 10 Volume 1, Chapter III "Hệ thức lượng trong tam giác", Bài 5 p.33; Bài 6 p.38 |
 | Side–angle relations (sine law, cosine law, solving triangles, trig formulas in measurement work); Heron's formula, circumradius and inradius formulas | Armenia, Geometry 9 (Hakobyan & Ghazaryan), Chapter 2 Trigonometric relations, §9 side–angle relations; §10 formulas for some magnitudes, pp.62–97 |
 | Trigonometry to 180° with sine and cosine laws | Greece, Mathematics C′ Gymnasiou (Grade 9), Part B Geometry and Trigonometry, printed pp.186–253 (trigonometry section) |
+| Trigonometry for 0–180° via the unit semicircle | Laos, Grade 9 student book, L26, printed p. 112 |
+| Sine rule a/sin A = 2R, derived via the circumcircle | Laos, Grade 9 student book, L27, printed p. 122 |
+| Cosine rule, including the ambiguous case | Laos, Grade 9 student book, L28, printed p. 127 |
+| Triangle area S = ½bc sin A and variants (S = abc/4R, S = 2R² sin A sin B sin C, S = ½r(a + b + c)) | Laos, Grade 9 student book, L29, printed p. 132 |
 
-**Acceptance count: taught in 8 countries (Kazakhstan, Egypt,
-Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece).**
+**Acceptance count: taught in 9 countries (Kazakhstan, Egypt,
+Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos).**
 Kazakhstan carries the fullest treatment — all three Grade 9
 Geometry books prove both rules (by vectors, by coordinates,
 by altitude) and work the standard solving cases, including
@@ -89,4 +94,4 @@ Grade 9. Honest negative: Sierra Leone's JSS never teaches
 sine/cosine rules — the lesson's Sierra Leone evidence is SSS
 only; Jordan's Grade 9 teaches right-triangle trigonometry
 only and explicitly no sine/cosine rules, so Jordan enters
-this lesson from Grade 10, not Grade 9.
+this lesson from Grade 10, not Grade 9. Laos carries the sine and cosine rules whole in Grade 9 — the unit-semicircle extension to 0–180°, the sine rule via the circumcircle, the cosine rule with the ambiguous case, and triangle area from sin A.

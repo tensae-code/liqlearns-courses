@@ -1,6 +1,6 @@
 # Sources — Powers and Indices
 
-countries: Kazakhstan, Jordan, Armenia, Egypt, Greece, South Africa, Libya, Sierra Leone
+countries: Kazakhstan, Jordan, Armenia, Egypt, Greece, South Africa, Libya, Sierra Leone, Laos
 
 Every part traces to its book and page.
 
@@ -21,6 +21,9 @@ Every part traces to its book and page.
 **Book 8:** *Mathematics*, Grade 10, Part 1 — Libya, Ministry of Education. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 9:** Mathematics Handbook, JSS 3 — Sierra Leone, Ministry of Education (no year, edition or ISBN printed in the file). Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+**Book 10:** *Mathematics, Grade 7 student book (secondary year 2)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2011. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 11:** *Mathematics, Grade 8 student book (secondary year 3)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2012. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 12:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -33,5 +36,8 @@ Every part traces to its book and page.
 | Exponent laws completed, including the negative-exponent case as its own law (WS24) and a⁰ = 1 with (a × t)ⁿ = aⁿtⁿ (WS25) | South Africa, Grade 9 Book 1, WS21–26, pp. 54–67 |
 | Powers and the six index laws, including negative and fractional indices; equations containing powers | Libya, Grade 10 Part 1, Ch. 2, pp. 45–83 |
 | Indices with fractional powers — the square root as a fractional power (√4 = 4^(1/2)) | Sierra Leone, JSS 3, L34, printed p. 99 |
+| Powers: repeated multiplication as a power, aᵐ × aⁿ = aᵐ⁺ⁿ; powers of 10, 10⁻ⁿ = 1/10ⁿ | Laos, Grade 7 student book, L15–L16, printed pp. 59–80 |
+| Powers rules: aᵐ × aⁿ = aᵐ⁺ⁿ, aᵐ/aⁿ = aᵐ⁻ⁿ, (aᵐ)ⁿ = aᵐˣⁿ, aⁿ × bⁿ = (a × b)ⁿ, (a/b)ⁿ = aⁿ/bⁿ, negative powers as fractions and decimals | Laos, Grade 8 student book, L1, printed pp. 1–52 |
+| Powers with rational exponents | Laos, Grade 9 student book, L12, printed p. 62 |
 
-**Acceptance count: taught in 8 countries (Kazakhstan, Jordan, Armenia, Egypt, Greece, South Africa, Libya, Sierra Leone).** Kazakhstan carries the fullest ladder — natural exponent, same-base laws, zero and negative exponents, and standard form in one chapter. Jordan carries the integer-exponent laws in Grade 7. Armenia carries powers from Grade 7, including writing large numbers in exponent form. Egypt carries the powers lesson with factor trees and the 2³⁰-bytes example. Greece carries powers of rationals with natural and then integer exponents. South Africa carries the laws across Grades 8 and 9, stating the negative-exponent case as a law of its own. Libya carries all six index laws in Grade 10. Sierra Leone carries fractional powers in JSS 3. Vietnam is not in this lesson: its Grade 6 teaches no powers or roots, and its powers work sits in grades whose filed summaries do not pin this lesson's pages. Mauritania is not in this lesson: its Grade 6 teaches no powers or roots.
+**Acceptance count: taught in 9 countries (Kazakhstan, Jordan, Armenia, Egypt, Greece, South Africa, Libya, Sierra Leone, Laos).** Kazakhstan carries the fullest ladder — natural exponent, same-base laws, zero and negative exponents, and standard form in one chapter. Jordan carries the integer-exponent laws in Grade 7. Armenia carries powers from Grade 7, including writing large numbers in exponent form. Egypt carries the powers lesson with factor trees and the 2³⁰-bytes example. Greece carries powers of rationals with natural and then integer exponents. South Africa carries the laws across Grades 8 and 9, stating the negative-exponent case as a law of its own. Libya carries all six index laws in Grade 10. Sierra Leone carries fractional powers in JSS 3. Vietnam is not in this lesson: its Grade 6 teaches no powers or roots, and its powers work sits in grades whose filed summaries do not pin this lesson's pages. Mauritania is not in this lesson: its Grade 6 teaches no powers or roots. Laos carries powers from repeated multiplication and powers of 10 in Grade 7, through the full rules table with negative powers in Grade 8, to rational exponents in Grade 9.

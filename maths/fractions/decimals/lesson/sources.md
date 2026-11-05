@@ -1,6 +1,6 @@
 # Sources — Decimals
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos
 
 Every part traces to its book and page.
 
@@ -115,6 +115,9 @@ Grade 7 Book 1* (Rainbow Workbooks) — South Africa, Department
 of Basic Education, Sixteenth edition 2026. Filed in
 maths/books/south-africa.md (Band B and Band C sections, FULLY
 READ + CITATION CHECK PASSED 2026-11-04).
+**Book 20:** *Mathematics, Grade 4 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2021. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 21:** *Mathematics, Grade 4 student book, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 22:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -127,10 +130,13 @@ READ + CITATION CHECK PASSED 2026-11-04).
 | ×/÷ by 10, 100, 1000: move the point | Libya, Grade 5, Unit 9, Multiply by 10, 100, 1000 p.142, Divide by 10, 100, 1000 p.152; Kazakhstan, Grade 5, Ch.4 §4.9 Multiplying and dividing a decimal by 10, 100, 1000… and by 0,1; 0,01; 0,001…, p.72; Egypt, Grade 5 Term 1, Unit 5, L1 Multiplying by Powers of Ten pp.92–94; Greece, Grade 3, Unit 6, ch.33 Multiplication and division by 10, 100 and 1,000, printed pp.1–14; Sierra Leone, JSS 1 Term 1, L29 Multiplying and Dividing Whole Numbers and Decimals by Powers of 10, p.77 |
 | South Africa's decimal path: tenths on a metre line, then systematic to two places | South Africa, Grade 5 Book 1, ws 40 first decimals (tenths on a measuring line); Grade 6 Book 1, ws 52–61 decimal notation, adding/subtracting, comparing/ordering and multiplying with decimals, printed pp.128–159; Grade 7 Book 1, WS42–47 Decimals (place value, ordering, writing fractions as decimals, addition/subtraction, multiplication, division and rounding), printed pp.98–109 |
 | Mauritania's honest limit (stated, not forced): no decimals before Grade 5 | Mauritania, Grade 1–4 student books: no decimals — filed in maths/books/mauritania.md (Bands A–B). Mauritania's decimal teaching used here is Grade 5, decimal numbers concept and parts p.15, ordering p.38; Grade 6, decimals reading/ordering p.33, multiplication/division p.41, multiplying/dividing by 10, 100, 1000 p.45, decimal fractions p.72 |
+| Decimal numbers through litres (0.5 L, 1.25 L), tenths and hundredths on a number line; whole-number, decimal and fraction links (1/2 = 0.5, 1/4 = 0.25) | Laos, Grade 4 student book (new series), ch. 7, printed p. 64; ch. 10, printed p. 100 |
+| Tenths, hundredths, thousandths; decimal order; adding, subtracting and multiplying decimals by whole numbers | Laos, Grade 4 student book (old series), L38–L49, printed pp. 106–134 |
+| Whole-number and decimal calculation, division giving a decimal quotient, rounding quotients, converting between fractions and decimals, mixed numbers, decimal ÷ decimal | Laos, Grade 5 student book, L5–L6, printed pp. 16–29; L21–L22 and L26, printed pp. 56–75; L55–L56, printed pp. 136–139 |
 
-**Acceptance count: taught in 11 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 12 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana).** Kazakhstan carries the fullest decimal
+Libya, Vietnam, Ghana, Laos).** Kazakhstan carries the fullest decimal
 course — reading, converting, comparing, all four operations,
 powers of ten and rounding; Jordan carries tenths and hundredths
 in Grade 4, thousandths with all four operations in Grade 5, and
@@ -152,4 +158,4 @@ in Grade 6; Ghana carries decimals only as teacher-manual
 evidence (B4's tenths and decimal addition/subtraction, B6's
 comparison by long division); South Africa carries first decimals
 as tenths on a metre line in Grade 5, systematic decimals to two
-places in Grade 6, and the full decimal worksheets in Grade 7.
+places in Grade 6, and the full decimal worksheets in Grade 7. Laos carries decimals from tenths and hundredths through litres in Grade 4 (to thousandths, with decimal × whole numbers, in the old Grade 4 book) to full decimal calculation, including decimal ÷ decimal, in Grade 5.

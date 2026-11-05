@@ -1,6 +1,6 @@
 # Sources — Logarithms and Exponentials
 
-countries: Egypt, Jordan, Greece, Armenia, Vietnam, Libya, Mauritania
+countries: Egypt, Jordan, Greece, Armenia, Vietnam, Libya, Mauritania, Laos
 
 Every part traces to its book and page.
 
@@ -27,6 +27,7 @@ Every part traces to its book and page.
 **Book 11:** Mathématiques, 7ème AS, série C (7AS-C) — Mauritania, IPN pupil manual, 201 pp., French. Filed in maths/books/mauritania.md (D10).
 
 **Book 12:** Mathématiques, 7ème AS, sciences de la nature (7AS-D) — Mauritania, Mohameden Ould El Hadi and Mohameden Ould Bah, 122 pp., French, for the 2025–2026 school year. Filed in maths/books/mauritania.md (D11).
+**Book 13:** *Mathematics, Grade 11 student book (upper-secondary year 6)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2015. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -42,7 +43,9 @@ Every part traces to its book and page.
 | Differentiation and integration of exponential and logarithmic functions | Libya, Grade 12 Science, Chapter 7, printed pp.172–188 |
 | Logarithmic and exponential functions | Mauritania, 7AS-C, Chapter 6, p.79 |
 | Logarithm and exponential functions | Mauritania, 7AS-D, Chapter 4, p.48 |
+| Exponential functions: graphs and properties, equations and inequalities, maximum and minimum via quadratic reduction, domain and range | Laos, Grade 11 student book, L15–L20, printed pp. 68–124 |
+| Logarithmic functions: definition and properties of logarithms, graphs, equations and inequalities, maximum and minimum via quadratic reduction, domain and range | Laos, Grade 11 student book, L21–L26, printed pp. 125–168 |
 
-**Acceptance count: taught in 7 countries (Egypt, Jordan, Greece, Armenia, Vietnam, Libya, Mauritania).** Egypt carries the full arc from rational exponents through the log laws to exp/log calculus; Jordan carries exponential growth and decay, the log laws and exp/log equations; Greece carries the exponential and logarithmic functions in one chapter; Armenia carries both streams' exp/log chapters with equations and inequalities; Vietnam carries the arc from real exponents to exp/log equations; Libya carries the index laws and logarithms from Grade 10 and exp/log calculus in Grade 12; Mauritania carries log and exponential functions in both terminal streams.
+**Acceptance count: taught in 8 countries (Egypt, Jordan, Greece, Armenia, Vietnam, Libya, Mauritania, Laos).** Egypt carries the full arc from rational exponents through the log laws to exp/log calculus; Jordan carries exponential growth and decay, the log laws and exp/log equations; Greece carries the exponential and logarithmic functions in one chapter; Armenia carries both streams' exp/log chapters with equations and inequalities; Vietnam carries the arc from real exponents to exp/log equations; Libya carries the index laws and logarithms from Grade 10 and exp/log calculus in Grade 12; Mauritania carries log and exponential functions in both terminal streams.
 
-**Honest limit:** Sierra Leone's SSS never teaches logarithms, and Vietnam teaches no logs or exponentials before Grade 11 Volume 2 — those countries are not counted here, and this lesson stands on the seven countries that do teach the topic.
+**Honest limit:** Sierra Leone's SSS never teaches logarithms, and Vietnam teaches no logs or exponentials before Grade 11 Volume 2 — those countries are not counted here, and this lesson stands on the seven countries that do teach the topic. Laos carries exponentials and logarithms whole in Grade 11 — both functions with graphs, properties, equations, inequalities, maxima and minima and domain and range.

@@ -1,6 +1,6 @@
 # Sources — Measuring
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos
 
 Every part traces to its book and page.
 
@@ -129,6 +129,12 @@ manual) — Ghana, GES National STEM Resource Unit with JICA;
 April 2025; © 2025 GES. Teacher evidence only: Ghana holds no
 pupil textbook in this set. Filed in maths/books/ghana.md (FULLY
 READ + CITATION CHECK PASSED 2026-11-05).
+**Book 25:** *Mathematics, Grade 1 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2017 original / 2020 reprint (one book held twice, ISBN 978-9932-00-174-3, counted once). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 26:** *Mathematics, Grade 2 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2020, ISBN 978-9932-406-23-4. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 27:** *Mathematics, Grade 3 student book, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 28:** *Mathematics, Grade 4 student book, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 29:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 30:** *Mathematics, Grade 6 student book (secondary year 1)* — Laos, Ministry of Education / Institute of Educational Science Research, 2010 (2009 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -156,10 +162,16 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Converting mass units — showing 4 kg 500 g (ws 114) | South Africa, Grade 4 Book 2, ws 114 |
 | Capacity (ws 62–64, pp.160–167): volume and capacity | South Africa, Grade 6 Book 1, ws 62–64, pp.160–167 |
 | Measurement — Perimeter, Area and Capacity/Volume: estimating and measuring (Lessons 92–100) — teacher-manual evidence only | Ghana, JICA Teacher Manual B5, Lessons 92–100 (teacher evidence, not pupil-book teaching) |
+| Comparing length, volume/capacity and area directly, by pouring and cup counts — no standard units yet | Laos, Grade 1 student book (new series), ch. 11, printed p. 95; ch. 13, printed p. 111; ch. 15, printed p. 128 |
+| Length in cm, then the metre (1 m = 100 cm); water volume in cups and half-cups; clock and calendar; banknotes | Laos, Grade 2 student book (new series), ch. 4, printed p. 36; ch. 7, printed p. 72; ch. 8, printed p. 82; ch. 13, printed p. 176; ch. 15, printed p. 190 |
+| Using a ruler, length conversions (m/dm/cm/mm), weighing (1000 g = 1 kg), volume in litres, time, day and date | Laos, Grade 3 student book, L23, L25, L35, L40–L41, printed pp. 78–136 |
+| Length conversions — correct value 2 m 5 dm = 250 cm; the book prints 25 cm (printed p. 103), contradicting its own conversion table on the same page, and the correct value is taught here | Laos, Grade 4 student book (old series), L36, printed p. 102 |
+| Length (km–mm), mass (kg, g, t, plus traditional Lao units baht, salung, hun and the carat), capacity (1 litre = 1 dm³, 1000 litres = 1 m³), time calculations | Laos, Grade 5 student book, L29–L35 and L65, printed pp. 76–89 and 156–163 |
+| Length measurement and the metric ladder (km–hm–dam–m–dm–cm–mm, ×10 steps), measuring instruments and their uses, traditional Lao length units | Laos, Grade 6 student book, L15–L16, printed pp. 108–128 |
 
-**Acceptance count: taught in 11 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 12 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana).** Sierra Leone carries the cleanest
+Libya, Vietnam, Ghana, Laos).** Sierra Leone carries the cleanest
 single ladder — length, mass and volume distinguished, then the
 three conversion tables in JSS 1. Jordan carries the four
 standard units in one Grade 2 unit (centimetre, metre, gram and
@@ -179,4 +191,4 @@ units in Grade 5. South Africa carries converting mass units
 (4 kg 500 g) in Grade 4 and capacity in Grade 6. Ghana's
 evidence is teacher-manual only (JICA B5 Lessons 92–100):
 no pupil textbook in Ghana's set teaches measuring, and the
-lesson words Ghana that way throughout.
+lesson words Ghana that way throughout. Laos carries measuring from direct comparison of length, volume and area in Grade 1, through cm, metres, litres and banknotes in Grades 2–3, to the full metric ladder, mass and capacity units and time calculations in Grades 5–6 — with the old Grade 4 book's conversion slip corrected to 2 m 5 dm = 250 cm.

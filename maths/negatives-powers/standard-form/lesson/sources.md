@@ -1,6 +1,6 @@
 # Sources — Standard Form
 
-countries: Kazakhstan, Egypt, Greece, South Africa, Sierra Leone, Libya
+countries: Kazakhstan, Egypt, Greece, South Africa, Sierra Leone, Libya, Laos
 
 Every part traces to its book and page.
 
@@ -17,6 +17,8 @@ Every part traces to its book and page.
 **Book 6:** Mathematics Handbook, JSS 3 — Sierra Leone, Ministry of Education (no year, edition or ISBN printed in the file). Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 7:** *Mathematics*, Grade 8, Student Book — Libya, Ministry of Education. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+**Book 8:** *Mathematics, Grade 7 student book (secondary year 2)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2011. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 9:** *Mathematics, Grade 8 student book (secondary year 3)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2012. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -27,5 +29,7 @@ Every part traces to its book and page.
 | Scientific notation | South Africa, Grade 8 Book 1, WS19, within WS14–26, pp. 30–55 |
 | Standard form of large numbers (L37, p. 108); standard form of small numbers (L38, p. 111); conversion to and from standard form (L39, p. 114); rule of thumb: standard form for numbers < 0.001 or ≥ 10,000 | Sierra Leone, JSS 3, L37–39, printed pp. 108–114 |
 | Standard form | Libya, Grade 8, Ch. 2, §2-14, p. 61 |
+| Powers of 10: 10ⁿ = 1 followed by n zeros, 10⁻ⁿ = 1/10ⁿ, scientific-notation forms | Laos, Grade 7 student book, L16, printed pp. 59–80 |
+| Scientific-notation form A × 10ⁿ with 1 ≤ A < 10, as prerequisite to the powers lesson | Laos, Grade 8 teacher guide, L1 prerequisites (student book L1, printed pp. 1–52) |
 
-**Acceptance count: taught in 6 countries (Kazakhstan, Egypt, Greece, South Africa, Sierra Leone, Libya).** Egypt carries the fullest lesson — scientific notation for large and small numbers, conversion, ordering and operations, all on real data (planet masses, the Earth–Sun distance, the hydrogen atom, the bee). Kazakhstan carries standard form inside its powers chapter in two Grade 7 books, with word problems and sums in standard form. Greece carries it twice in Grade 7 — large numbers, then large and small together. South Africa carries scientific notation as one worksheet in Grade 8. Sierra Leone carries it as three JSS 3 lessons with an explicit rule of thumb for when to use it. Libya carries it as one section in Grade 8. Jordan is not in this lesson: its Grade 8 Term 1 book is not held, so no standard-form page can be pinned from Jordan. Armenia, Vietnam, Ghana and Mauritania are not in this lesson on the filed stock.
+**Acceptance count: taught in 7 countries (Kazakhstan, Egypt, Greece, South Africa, Sierra Leone, Libya, Laos).** Egypt carries the fullest lesson — scientific notation for large and small numbers, conversion, ordering and operations, all on real data (planet masses, the Earth–Sun distance, the hydrogen atom, the bee). Kazakhstan carries standard form inside its powers chapter in two Grade 7 books, with word problems and sums in standard form. Greece carries it twice in Grade 7 — large numbers, then large and small together. South Africa carries scientific notation as one worksheet in Grade 8. Sierra Leone carries it as three JSS 3 lessons with an explicit rule of thumb for when to use it. Libya carries it as one section in Grade 8. Jordan is not in this lesson: its Grade 8 Term 1 book is not held, so no standard-form page can be pinned from Jordan. Armenia, Vietnam, Ghana and Mauritania are not in this lesson on the filed stock. Laos carries standard form through powers of 10 and scientific-notation forms in Grade 7, used again as the stated prerequisite form A × 10ⁿ in Grade 8.

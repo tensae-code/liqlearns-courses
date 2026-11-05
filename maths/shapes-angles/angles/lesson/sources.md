@@ -1,6 +1,6 @@
 # Sources — Angles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos
 
 Every part traces to its book and page.
 
@@ -96,6 +96,11 @@ READ + CITATION CHECK PASSED 2026-11-05).
 Workbook) — South Africa, Department of Basic Education, 16th
 edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 + CITATION CHECK PASSED 2026-11-04).
+**Book 18:** *Mathematics, Grade 3 student book, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 19:** *Mathematics, Grade 4 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2021. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 20:** *Mathematics, Grade 6 student book (secondary year 1)* — Laos, Ministry of Education / Institute of Educational Science Research, 2010 (2009 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 21:** *Mathematics, Grade 7 student book (secondary year 2)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2011. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 22:** *Mathematics, Grade 8 student book (secondary year 3)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2012. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -116,10 +121,15 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Introduction to angles — vertex, arms, 360°/180°/90° (L91, p.138); right angles and the protractor (L92, p.142); measurement of angles, both scales (L93, p.145); unknown angles in triangles, sum 180° (L94, p.148); complementary and supplementary angles (L96–L98, pp.154–159); intersecting lines, vertically opposite angles equal (L99, p.161); transversal of parallel lines (L100, p.164) | Sierra Leone, JSS 1 Handbook, Term 2, L91–L100, printed pp.138–164 |
 | Measurement — Angle: types of angles (definitions) — teacher-manual evidence only | Ghana, JICA Teacher Manual B5, Lessons 101–102 (teacher evidence, not pupil-book teaching) |
 | Triangles, polygons and angles (WS47–57, pp.122–155); interior angles | South Africa, Grade 9 Book 1, WS47–57, pp.122–155 |
+| Angles identified, not measured in degrees | Laos, Grade 3 student book, L37, printed p. 126 |
+| Angle size with the protractor: measuring and drawing angles of a given size | Laos, Grade 4 student book (new series), ch. 6, printed p. 54 |
+| Angles: kinds (zero, right, straight, full, acute, obtuse), protractor use, vertical angles, angle sums on a straight line | Laos, Grade 6 student book, L18, printed pp. 136–146 |
+| Interior and exterior angles of triangles (cut-out angles to 180°, exterior = sum of the two remote interiors); angles of quadrilaterals (angle sum 360°) | Laos, Grade 7 student book, L36–L37, printed pp. 123–170 |
+| Angles of triangles and parallelograms; inscribed and central angles | Laos, Grade 8 student book, L8, printed pp. 53–77; L24, printed pp. 179–196 |
 
-**Acceptance count: taught in 11 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 12 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana).** Egypt carries the fullest single
+Libya, Vietnam, Ghana, Laos).** Egypt carries the fullest single
 treatment — the angle kinds, the protractor, complementary and
 supplementary pairs, the transversal's eight angles, and the
 triangle and quadrilateral sums in one Grade 7 unit. Jordan
@@ -138,4 +148,4 @@ Mauritania carries angle recognition in Grade 3 and angles in
 Grade 6. South Africa carries interior angles in Grade 9.
 Ghana's evidence is teacher-manual only (JICA B5 Lessons
 101–102): no pupil textbook in Ghana's set teaches angles, and
-the lesson words Ghana that way throughout.
+the lesson words Ghana that way throughout. Laos carries angles from identifying them in Grade 3, through protractor measurement in Grade 4, to kinds, vertical angles and triangle and quadrilateral angle sums in Grades 6–7 and inscribed and central angles in Grade 8.

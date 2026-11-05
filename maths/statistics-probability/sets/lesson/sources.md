@@ -1,6 +1,6 @@
 # Sources — Sets
 
-countries: Egypt, Jordan, Libya, Armenia, Sierra Leone, Greece, Kazakhstan
+countries: Egypt, Jordan, Libya, Armenia, Sierra Leone, Greece, Kazakhstan, Laos
 
 Every part traces to its book and page.
 
@@ -17,6 +17,8 @@ Every part traces to its book and page.
 **Book 6:** Mathematics, C' Gymnasiou (Grade 9) — Greece, Dimitrios Argyrakis, Panagiotis Vourganas, Konstantinos Mentis, Stamatoulla Tsikopoulou, Michail Chrysovegis, ISBN 978-960-06-2766-4. Filed in maths/books/greece.md (W3).
 
 **Book 7:** Mathematics, Grade 1, Part 1 — Kazakhstan, Asel Akpaeva, Larisa Lebedeva, Marzhangul Mynzhasarova, Tatyana Likhobabenko, Almatykitap, 2021. Filed in maths/books/kazakhstan.md (W1).
+**Book 8:** *Mathematics, Grade 6 student book (secondary year 1)* — Laos, Ministry of Education / Institute of Educational Science Research, 2010 (2009 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 9:** *Mathematics, Grade 10 student book (upper-secondary year 5)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2014 (2010 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -28,5 +30,7 @@ Every part traces to its book and page.
 | Sets; sample space and events; the idea of probability (classical definition) | Greece, Grade 9, Chapter 5, printed pp.160–184 |
 | Sets (множества) — set, element, empty set, equal/unequal sets | Kazakhstan, Grade 1 Part 1, p.124 |
 | Counting a union: n(A ∪ B) = n(A) + n(B) − n(A ∩ B), on Venn diagrams, with mixed set problems | Sierra Leone, SSS 3 Term 3, Lesson 121 (review), p.72 |
+| Sets: listing vs property definitions, ∈ and ∉, the empty set, Venn diagrams, equal sets, subsets, Carroll diagrams, intersection and union, power set | Laos, Grade 6 student book, L23–L26, printed pp. 183–205 |
+| Sets: roster and set-builder, Venn–Euler diagrams, finite vs infinite sets, subsets, power set; set operations including symmetric difference, De Morgan's identities, inclusion–exclusion counting; Cartesian product | Laos, Grade 10 student book, L4–L6, printed pp. 30–52 |
 
-**Acceptance count: taught in 7 countries (Egypt, Jordan, Libya, Armenia, Sierra Leone, Greece, Kazakhstan).** Egypt carries the first full set lesson (listing, set-builder, kinds of sets, union and intersection on Venn diagrams); Jordan carries sets as intervals; Libya carries the laws of set operations, De Morgan and the Cartesian product; Armenia carries sets, intersection and union, and subsets; Sierra Leone carries the worked intersection/union/complement lesson and the union-counting formula; Greece carries sets beside sample spaces and events; Kazakhstan carries sets at their youngest, on pictures.
+**Acceptance count: taught in 8 countries (Egypt, Jordan, Libya, Armenia, Sierra Leone, Greece, Kazakhstan, Laos).** Egypt carries the first full set lesson (listing, set-builder, kinds of sets, union and intersection on Venn diagrams); Jordan carries sets as intervals; Libya carries the laws of set operations, De Morgan and the Cartesian product; Armenia carries sets, intersection and union, and subsets; Sierra Leone carries the worked intersection/union/complement lesson and the union-counting formula; Greece carries sets beside sample spaces and events; Kazakhstan carries sets at their youngest, on pictures. Laos carries sets from listing, Venn diagrams, subsets, Carroll diagrams, intersection, union and power sets in Grade 6 to full set operations with inclusion–exclusion and Cartesian products in Grade 10.

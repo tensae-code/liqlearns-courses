@@ -1,6 +1,6 @@
 # Sources — Averages and Spread
 
-countries: Egypt, Jordan, Greece, Libya, Vietnam, Sierra Leone, Mauritania
+countries: Egypt, Jordan, Greece, Libya, Vietnam, Sierra Leone, Mauritania, Laos
 
 Every part traces to its book and page.
 
@@ -27,6 +27,7 @@ Every part traces to its book and page.
 **Book 11:** Pupil Handbook for SSS Mathematics, SSS 3, Term 3 — Sierra Leone, Ministry of Basic and Senior Secondary Education; no year, edition, ISBN or imprint printed in the book. Filed in maths/books/sierra-leone.md (SSS 3 Term 3).
 
 **Book 12:** Mathématiques, 6ème AS, lettres originales (6AS-LO) — Mauritania, Mohamedou and Ahmed Mahmoud Mohamed Yacoub, 64 pp., Arabic, written to the 2020 programme. Filed in maths/books/mauritania.md (D9).
+**Book 13:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -45,7 +46,8 @@ Every part traces to its book and page.
 | Cumulative frequency curve, quartiles, interquartile range; percentiles; measures of dispersion; standard deviation of ungrouped and grouped data; mean deviation of ungrouped and grouped data | Sierra Leone, SSS 3 Term 3, Lessons 109–120, printed pp.39–69 |
 | Statistical series: counts, frequencies, representation; arithmetic mean, mean deviation; variance, standard deviation | Mauritania, 6AS-LO, Chapter 5, pp.48–60 |
 | Mean, median and mode of discrete data in a statistics project | Sierra Leone, Primary 6 Term 1, Lessons 61–70 (statistics project) |
+| Mean (raw, frequency and grouped midpoints); mode (raw and grouped); median (ordered data and grouped formula); spread: range, sample variance s² and standard deviation s, grouped versions | Laos, Grade 9 student book, L41–L44, printed pp. 225–242 |
 
-**Acceptance count: taught in 7 countries (Egypt, Jordan, Greece, Libya, Vietnam, Sierra Leone, Mauritania).** Egypt carries the mean as a balance point, median/mode/outliers, the range, and quartiles with the semi-interquartile range; Jordan carries quartiles with the box-and-whisker plot and dispersion for grouped data; Greece carries the full ladder from mean to coefficient of variation in three books; Libya carries the weighted mean and the four dispersion measures; Vietnam carries central tendency and spread for ungrouped and grouped samples; Sierra Leone carries the whole ladder from the JSS mean to the SSS standard deviation and mean deviation; Mauritania carries mean, mean deviation, variance and standard deviation.
+**Acceptance count: taught in 8 countries (Egypt, Jordan, Greece, Libya, Vietnam, Sierra Leone, Mauritania, Laos).** Egypt carries the mean as a balance point, median/mode/outliers, the range, and quartiles with the semi-interquartile range; Jordan carries quartiles with the box-and-whisker plot and dispersion for grouped data; Greece carries the full ladder from mean to coefficient of variation in three books; Libya carries the weighted mean and the four dispersion measures; Vietnam carries central tendency and spread for ungrouped and grouped samples; Sierra Leone carries the whole ladder from the JSS mean to the SSS standard deviation and mean deviation; Mauritania carries mean, mean deviation, variance and standard deviation.
 
-**Flagged wording, not taught:** Sierra Leone's JSS 3 Term 3 Lesson 124 phrases the frequency-table mean as "add the frequencies given and divide by the total number of rows", with no worked frequency-table example to clarify it. This lesson does not teach that wording: it teaches the correct rule from the same book's Lesson 128 — the estimated mean x̄ = Σfx / Σf, value times frequency, divided by the total frequency.
+**Flagged wording, not taught:** Sierra Leone's JSS 3 Term 3 Lesson 124 phrases the frequency-table mean as "add the frequencies given and divide by the total number of rows", with no worked frequency-table example to clarify it. This lesson does not teach that wording: it teaches the correct rule from the same book's Lesson 128 — the estimated mean x̄ = Σfx / Σf, value times frequency, divided by the total frequency. Laos carries averages and spread whole in Grade 9 — mean, mode and median with grouped formulas, and range, variance and standard deviation.

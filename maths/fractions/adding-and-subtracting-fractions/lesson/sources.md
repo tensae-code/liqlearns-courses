@@ -1,6 +1,6 @@
 # Sources — Adding and Subtracting Fractions
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos
 
 Every part traces to its book and page.
 
@@ -115,6 +115,9 @@ only: Ghana's set holds no pupil textbook at all.
 South Africa, Department of Basic Education, Sixteenth edition
 2026. Filed in maths/books/south-africa.md (Band B section,
 FULLY READ + CITATION CHECK PASSED 2026-11-04).
+**Book 20:** *Mathematics, Grade 4 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2021. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 21:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 22:** *Mathematics, Grade 7 student book (secondary year 2)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2011. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -126,10 +129,13 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 | Unlike denominators in full: Jordan Grade 5 and 6; Greece Grade 5 and 6 | Jordan, Grade 5 Term 1, Unit 4, L3 Adding fractions p.86, L4 Subtracting fractions p.89; Jordan, Grade 6 Term 1, Unit 2, L1 Adding and subtracting fractions p.43; Greece, Grade 5 Teuxos A, Unit 3, ch.18 Adding and subtracting fractions, printed pp.49–50; Greece, Grade 6, Unit 1, ch.19 Like and unlike fractions pp.45–46, ch.23 Problems with fraction addition and subtraction pp.53–54; Vietnam, Grade 6 Volume 2, Ch.VI, Bài 25 Adding and subtracting fractions, p.15; Sierra Leone, JSS 1 Term 1, L17 Adding Fractions with Different Denominators p.42, L19 Subtracting Fractions with Different Denominators p.48 |
 | Story problems closing the block | Egypt, Grade 3 Term 2, Ch.9, Story Problems on Adding and Subtracting Fractions p.63; Sierra Leone, Primary 4 Term 2, L75 Word Problems Involving Addition and Subtraction of Fractions p.33 (teacher plans); Libya, Grade 4, Ch.7, Word problems p.99; Libya, Grade 5, Unit 5, Word problems p.88; Mauritania, Grade 5, fraction addition/subtraction with common denominators pp.51, 58 and with different denominators p.58; Mauritania, Grade 6, addition/subtraction with same denominators p.61 and different denominators p.63 |
 | Ghana's teacher-manual evidence for this lesson | Ghana, JICA B6 teacher manual, L43–56 comparing, adding, subtracting, multiplying and dividing common fractions (teacher evidence); JICA B4 teacher manual, Annual Review 1 covers adding/subtracting fractions with same and different denominators (teacher evidence) |
+| Properties, addition and subtraction of fractions with the same denominator | Laos, Grade 4 student book (new series), ch. 14, printed p. 128 |
+| Adding and subtracting fractions, same denominator, then different denominators via a common denominator | Laos, Grade 5 student book, L24–L25, printed pp. 56–75 |
+| Adding and subtracting fractions, same and different denominators | Laos, Grade 7 student book, L5–L6, printed pp. 1–42 |
 
-**Acceptance count: taught in 11 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 12 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana).** Egypt carries the full arc twice — same
+Libya, Vietnam, Ghana, Laos).** Egypt carries the full arc twice — same
 denominators in Grade 3, unlike denominators and mixed numbers in
 Grade 5, with estimating as a check; Kazakhstan carries like
 denominators in Grade 4 and unlike denominators with mixed numbers
@@ -146,4 +152,4 @@ mixed numbers in Grade 5; Vietnam carries the full Grade 4 course
 and the Grade 5 unlike-denominator lesson; Ghana carries the work
 only as teacher-manual evidence (B6's "make the denominators the
 same"); South Africa carries adding and subtracting fractions from
-diagrams in Grade 6 Book 1.
+diagrams in Grade 6 Book 1. Laos carries fraction addition and subtraction from same-denominator work in Grade 4, through different denominators via a common denominator in Grade 5, to the full treatment in Grade 7.

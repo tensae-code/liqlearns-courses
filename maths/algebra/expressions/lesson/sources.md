@@ -1,6 +1,6 @@
 # Sources — Expressions
 
-countries: Kazakhstan, Jordan, Armenia, Greece, South Africa, Egypt, Libya, Vietnam, Ghana
+countries: Kazakhstan, Jordan, Armenia, Greece, South Africa, Egypt, Libya, Vietnam, Ghana, Laos
 
 Every part traces to its book and page.
 
@@ -29,6 +29,9 @@ Every part traces to its book and page.
 **Book 12:** *Toán 7, Tập Hai* and *Toán 8* (Mathematics 7 Volume 2; Mathematics 8) — Vietnam, Kết nối tri thức với cuộc sống, NXBGD, MoET. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 13:** JICA Basic 5 teacher manual (Lessons 79–85) — Ghana, teacher-manual evidence only: Ghana's set holds no pupil textbook. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED).
+**Book 14:** *Mathematics, Grade 7 student book (secondary year 2)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2011. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 15:** *Mathematics, Grade 8 student book (secondary year 3)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2012. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 16:** *Mathematics, Grade 11 student book (upper-secondary year 6)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2015. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -46,5 +49,8 @@ Every part traces to its book and page.
 | Expansions of (a + b)², (a − b)², (a + b)(a − b); factorisation by grouping, quadratics, difference of squares, difference/sum of cubes | Libya, Grade 9, Ch. 1, pp. 9–35 |
 | One-variable polynomials (Grade 7, Tập Hai); multi-variable polynomials, identities, factorisation (Grade 8) | Vietnam, Grade 7 Tập Hai and Grade 8 |
 | Simplifying expressions with an unknown (integer review first) — teacher-manual evidence, no pupil textbook in Ghana's set | Ghana, JICA Basic 5 teacher manual, L79–85 |
+| Expressions: recognising expressions, writing expressions from words, calculating with expressions, expanding products k(a + b) and (a + b)(c + d) | Laos, Grade 7 student book, L17–L19, printed pp. 59–80 |
+| Notable products (a + b)² = a² + 2ab + b²; factorisation by common factor, grouping and identities | Laos, Grade 8 student book, L2–L3, printed pp. 1–52 |
+| Polynomials and rational expressions: definition, addition, subtraction, multiplication and division of polynomials, roots, P(x)/Q(x) | Laos, Grade 11 student book, L1–L6, printed pp. 1–27 |
 
-**Acceptance count: taught in 9 countries (Kazakhstan, Jordan, Armenia, Greece, South Africa, Egypt, Libya, Vietnam, Ghana).** Kazakhstan carries the fullest treatment — brackets and coefficients in Grade 6, then monomials, polynomials and the abridged-multiplication formulas in Grade 7. Jordan carries terms and expressions in Grade 7. Armenia carries letter expressions, monomials and polynomials in Grade 7. Greece carries the whole expressions chapter in Grade 9, including the notable identities. South Africa carries expressions as worksheet practice across Grades 8 and 9, from vocabulary to binomial products to factorising. Egypt carries expressions in Grade 6 and the four factorisation methods in Grade 8. Libya opens Grade 9 with expansions and factorisation. Vietnam carries one-variable polynomials in Grade 7 and multi-variable polynomials with identities and factorisation in Grade 8. Ghana carries only teacher-manual evidence (JICA Basic 5, Lessons 79–85). Mauritania is not in this lesson: its 1AS teaches no algebra, and its later algebra is filed at chapter level without the lesson-level pages this lesson pins.
+**Acceptance count: taught in 10 countries (Kazakhstan, Jordan, Armenia, Greece, South Africa, Egypt, Libya, Vietnam, Ghana, Laos).** Kazakhstan carries the fullest treatment — brackets and coefficients in Grade 6, then monomials, polynomials and the abridged-multiplication formulas in Grade 7. Jordan carries terms and expressions in Grade 7. Armenia carries letter expressions, monomials and polynomials in Grade 7. Greece carries the whole expressions chapter in Grade 9, including the notable identities. South Africa carries expressions as worksheet practice across Grades 8 and 9, from vocabulary to binomial products to factorising. Egypt carries expressions in Grade 6 and the four factorisation methods in Grade 8. Libya opens Grade 9 with expansions and factorisation. Vietnam carries one-variable polynomials in Grade 7 and multi-variable polynomials with identities and factorisation in Grade 8. Ghana carries only teacher-manual evidence (JICA Basic 5, Lessons 79–85). Mauritania is not in this lesson: its 1AS teaches no algebra, and its later algebra is filed at chapter level without the lesson-level pages this lesson pins. Laos carries expressions from recognising and expanding products in Grade 7, through notable products and factorisation in Grade 8, to polynomials and rational expressions in Grade 11.

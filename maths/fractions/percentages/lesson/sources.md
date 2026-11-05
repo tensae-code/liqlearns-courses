@@ -1,6 +1,6 @@
 # Sources — Percentages
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos
 
 Every part traces to its book and page.
 
@@ -100,6 +100,10 @@ Grade 8 Book 1* (Rainbow Workbooks) — South Africa, Department
 of Basic Education, Sixteenth edition 2026. Filed in
 maths/books/south-africa.md (Band B and Band C sections, FULLY
 READ + CITATION CHECK PASSED 2026-11-04).
+**Book 17:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 18:** *Mathematics, Grade 6 student book (secondary year 1)* — Laos, Ministry of Education / Institute of Educational Science Research, 2010 (2009 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 19:** *Mathematics, Grade 7 student book (secondary year 2)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2011. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 20:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -112,10 +116,14 @@ READ + CITATION CHECK PASSED 2026-11-04).
 | Vietnam's percent path: ratio first, then percent problems | Vietnam, Grade 5 Volume 2, Theme 7, Bài 36 Ratio p.4, Bài 40 Percentage ratio p.18, Bài 41 Finding the percentage value of a number p.21; Grade 6 Volume 2, Bài 31 Ratio and percentage problems p.38 |
 | Mauritania's percent teaching (small, stated honestly) | Mauritania, Grade 5, percentage p.109; Grade 6, percentage and proportionality p.79 |
 | Kazakhstan's honest limit (stated, not forced) | Kazakhstan, Grade 4 Part 3, L106–108: no percent increase/decrease or interest — filed in maths/books/kazakhstan.md (G4-S3 methods note) |
+| Percentages: converting decimals and fractions to %, % of a quantity, interest tables in kip | Laos, Grade 5 student book, L51, printed pp. 124–129 |
+| Percentages: x% of a quantity = quantity × x/100, fraction ↔ percent ↔ decimal, finding the percentage, successive 10% discounts | Laos, Grade 6 student book, L30, printed pp. 233–238 |
+| Percentages: '8 per hundred' = '8 percent' | Laos, Grade 7 student book, L42, printed pp. 171–202 |
+| Percentages and interest: simple interest I = PTR/100, compound A = P(1+r)^n, instalments | Laos, Grade 9 student book, L7, printed p. 32 |
 
-**Acceptance count: taught in 11 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 12 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana).** Kazakhstan defines percent as 1/100
+Libya, Vietnam, Ghana, Laos).** Kazakhstan defines percent as 1/100
 and finds p% as 1% × p in Grade 4, then carries a full percent
 chapter in Grade 5 — but teaches no percent increase/decrease
 or interest, stated honestly above; Jordan introduces percent
@@ -143,4 +151,4 @@ Grade 5 and ratio and percentage problems in Grade 6; Ghana
 teaches percent only as teacher-manual evidence (B4's percent
 from decimal fractions); South Africa teaches percentages with
 fractions and decimals in Grade 6, percentage increase and
-decrease in Grade 7, and percentage problems in Grade 8.
+decrease in Grade 7, and percentage problems in Grade 8. Laos carries percentages from % of a quantity with interest tables in Grade 5, through the x/100 rule and successive discounts in Grade 6, to simple and compound interest in Grade 9.

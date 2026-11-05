@@ -1,6 +1,6 @@
 # Sources — Subtraction
 
-countries: Egypt, Jordan, Libya, Kazakhstan, Greece, Armenia, Vietnam, Ghana, Mauritania
+countries: Egypt, Jordan, Libya, Kazakhstan, Greece, Armenia, Vietnam, Ghana, Mauritania, Laos
 
 Every part traces to its book and page.
 
@@ -13,6 +13,9 @@ Every part traces to its book and page.
 **Book 7:** *Toán 1, Tập Một + Tập Hai; Toán 2, Tập Một + Tập Hai* (Kết nối tri thức với cuộc sống, NXBGD) — Vietnam. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 **Book 8:** *Differentiated Learning (DL) workbook, Level 2* (student workbook, task sheets only) — Ghana. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher evidence only: Ghana's set holds no pupil textbook at all.
 **Book 9:** *Mathématiques, Grade 1 and Grade 2 student books* — Mauritania. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 10:** *Mathematics, Grade 1 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2017 original / 2020 reprint (one book held twice, ISBN 978-9932-00-174-3, counted once). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 11:** *Mathematics, Grade 2 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2020, ISBN 978-9932-406-23-4. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 12:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -30,5 +33,9 @@ Every part traces to its book and page.
 | Subtraction to 10,000: regrouping hundreds and thousands; regrouping ones, tens and hundreds; subtracting numbers containing zeros | Libya, Grade 3 pupil's book, Unit 3, pp.31–45 |
 | Subtraction WITH regrouping within 100 | Vietnam, Toán 2, p.72 |
 | Worked answer flagged WRONG in the filing and never taught: '15 − 3 = 18' (the true answer is 12) | Ghana, DL workbook Level 2, p.27 (flagged in maths/books/ghana.md) |
+| Subtraction within 10, take-away stories, symbol sentences | Laos, Grade 1 student book (new series), ch. 6, printed p. 56 |
+| Subtraction crossing 10 by splitting to 10 | Laos, Grade 1 student book (new series), ch. 14, printed p. 115 |
+| Subtracting 2-digit numbers without and with borrowing; 3-digit subtraction by place value | Laos, Grade 2 student book (new series), ch. 3, printed p. 24; ch. 9, printed p. 90 |
+| Subtracting whole numbers and decimals, including kip money problems | Laos, Grade 5 student book, L5, printed pp. 16–29 |
 
-**Acceptance count: taught in 9 countries (Egypt, Jordan, Libya, Kazakhstan, Greece, Armenia, Vietnam, Ghana, Mauritania). Egypt carries the column algorithm whole — borrowing from hundreds to tens, borrowing in both places, borrowing across zero. Jordan carries subtracting without regrouping in Grade 1 and with regrouping in Grade 2. Libya carries subtracting without regrouping to 100 in Grade 1, regrouping to 1000 in Grade 2, and to 10,000 in Grade 3. Kazakhstan carries the written column algorithm on named cases in Grade 2. Greece carries vertical subtraction with borrowing in Grade 1 Teuxos B. Armenia carries subtracting with place transitions in Grade 2. Vietnam carries subtracting without regrouping in Grade 1 and with regrouping in Grade 2. Ghana carries subtracting to 20 as teacher evidence — and its workbook's printed '15 − 3 = 18' is flagged wrong in the filing and is never taught. Mauritania carries subtraction with and without carrying in Grade 2. Other read countries teach subtracting inside their own Grade 1–3 books and join by merge.**
+**Acceptance count: taught in 10 countries (Egypt, Jordan, Libya, Kazakhstan, Greece, Armenia, Vietnam, Ghana, Mauritania, Laos). Egypt carries the column algorithm whole — borrowing from hundreds to tens, borrowing in both places, borrowing across zero. Jordan carries subtracting without regrouping in Grade 1 and with regrouping in Grade 2. Libya carries subtracting without regrouping to 100 in Grade 1, regrouping to 1000 in Grade 2, and to 10,000 in Grade 3. Kazakhstan carries the written column algorithm on named cases in Grade 2. Greece carries vertical subtraction with borrowing in Grade 1 Teuxos B. Armenia carries subtracting with place transitions in Grade 2. Vietnam carries subtracting without regrouping in Grade 1 and with regrouping in Grade 2. Ghana carries subtracting to 20 as teacher evidence — and its workbook's printed '15 − 3 = 18' is flagged wrong in the filing and is never taught. Mauritania carries subtraction with and without carrying in Grade 2. Other read countries teach subtracting inside their own Grade 1–3 books and join by merge.** Laos carries subtraction from take-away stories within 10 and crossing 10 by splitting to 10 in Grade 1, through 2-digit borrowing and 3-digit place-value subtraction in Grade 2, to whole-number and decimal subtraction in Grade 5.

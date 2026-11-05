@@ -1,6 +1,6 @@
 # Sources — Multiplication
 
-countries: Kazakhstan, Egypt, Greece, Libya, Jordan, Armenia, Vietnam
+countries: Kazakhstan, Egypt, Greece, Libya, Jordan, Armenia, Vietnam, Laos
 
 Every part traces to its book and page.
 
@@ -12,6 +12,9 @@ Every part traces to its book and page.
 **Book 6:** *Mathematics, Grade 3, Student Book, Term 1* — Jordan. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 7:** *Mathematics 4* (student) — Armenia. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 8:** *Toán 3, Tập Một + Tập Hai* (Kết nối tri thức với cuộc sống, NXBGD) — Vietnam. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 9:** *Mathematics, Grade 2 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2020, ISBN 978-9932-406-23-4. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 10:** *Mathematics, Grade 2 teacher guide, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2007 (guides the pre-2016 Grade 2 student book, which is not in the set). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 11:** *Mathematics, Grade 3 student book, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -26,5 +29,8 @@ Every part traces to its book and page.
 | Multiplication/division by 10 and 100 (L66, p.61) | Kazakhstan, Grade 3 (Zhakupova set), Section 2C, L66, p.61 |
 | Finding the second factor from product and factor (§5, p.25) | Armenia, Mathematics 4, Part I, §5, p.25 |
 | Multiplication within 1000 (Bài 1–44) | Vietnam, Toán 3, Tập Một |
+| Multiplication as repeated addition; ×5, ×2, ×3, ×4 tables, then ×6, ×7, ×8, ×9 tables | Laos, Grade 2 student book (new series), ch. 11, printed p. 120; ch. 12, printed p. 148 |
+| Multiplication tables to ×10 | Laos, Grade 2 teacher guide (old series), L39–L43, printed pp. 129–139 (teacher evidence) |
+| Multiplication with carrying (16 × 7 by area grid; 57 × 4 = 228; 143 × 6 = 858); multiplying by 10 and 100 | Laos, Grade 3 student book, L16, printed p. 54; L45, printed p. 152 |
 
-**Acceptance count: taught in 7 countries (Kazakhstan, Egypt, Greece, Libya, Jordan, Armenia, Vietnam). Kazakhstan carries the tables in order — 2 to 5 in Grade 2, 6 to 9 in Grade 3 — and multiplication by 10 and 100. Egypt carries vertical multiplication, 2-digit and 3-digit by 1-digit, with multiplying by tens and hundreds, in Grade 3. Greece carries the tables from Grade 2 and multiplication with division in Grade 3. Libya carries column multiplication with regrouping to hundreds in Grade 3. Jordan carries the tables for 2 to 5 in Grade 3. Armenia carries finding the unknown factor in Grade 4. Vietnam carries multiplication within 1000 in Grade 3. Other read countries teach multiplying inside their own Grade 2–4 books and join by merge.**
+**Acceptance count: taught in 8 countries (Kazakhstan, Egypt, Greece, Libya, Jordan, Armenia, Vietnam, Laos). Kazakhstan carries the tables in order — 2 to 5 in Grade 2, 6 to 9 in Grade 3 — and multiplication by 10 and 100. Egypt carries vertical multiplication, 2-digit and 3-digit by 1-digit, with multiplying by tens and hundreds, in Grade 3. Greece carries the tables from Grade 2 and multiplication with division in Grade 3. Libya carries column multiplication with regrouping to hundreds in Grade 3. Jordan carries the tables for 2 to 5 in Grade 3. Armenia carries finding the unknown factor in Grade 4. Vietnam carries multiplication within 1000 in Grade 3. Other read countries teach multiplying inside their own Grade 2–4 books and join by merge.** Laos carries multiplication as repeated addition with tables ×2–×9 in the new Grade 2 book (to ×10 in the old guide) and multiplication with carrying, including by 10 and 100, in Grade 3.

@@ -1,6 +1,6 @@
 # Sources — Functions
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania
+countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos
 
 Every part traces to its book and page.
 
@@ -57,6 +57,11 @@ CITATION CHECK PASSED 2026-11-05).
 (student book) — Mauritania, Institut Pédagogique National
 (IPN), French. Filed in maths/books/mauritania.md (FULLY READ +
 CITATION CHECK PASSED 2026-11-05).
+**Book 12:** *Mathematics, Grade 8 student book (secondary year 3)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2012. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 13:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 14:** *Mathematics, Grade 10 student book (upper-secondary year 5)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2014 (2010 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 15:** *Mathematics, Grade 11 student book (upper-secondary year 6)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2015. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 16:** *Mathematics, Grade 12 student book (upper-secondary year 7)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2016 (2010 curriculum, revised). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -71,9 +76,14 @@ CITATION CHECK PASSED 2026-11-05).
 | The function y = ax² (a ≠ 0) and its graph | Vietnam, Toán 9 Volume 2, Chapter VI, Bài 18 Hàm số y = ax² (a ≠ 0) p.4 |
 | Relation between two sets; relation as a set of ordered pairs; function and its graph; independent and dependent variable; explicit functions; polynomial, fractional and algebraic functions; algebra of functions | Libya, Grade 11 Science, Chapter 4 "Relations, functions and graphical forms", pp.95–110 |
 | Generalities on functions; study of a function; sequences | Mauritania, 5AS (Grade 11) student book, "Généralités sur les fonctions" p.83; "Étude de fonction" p.113; "Suites numériques" p.129 |
+| Mappings; linear functions (x ↦ ax) and affine functions, graphs, monthly-cost models | Laos, Grade 8 student book, L11–L13, printed pp. 78–103 |
+| Quadratic functions: y = x², y = ax², vertex form y = a(x−p)² + q, maximum and minimum, sign, inequalities, Viète's relations | Laos, Grade 9 student book, L13–L22, printed pp. 68–99 |
+| Relations and functions: vertical-line test, even, odd and periodic functions, increasing and decreasing; constant, linear (including sign and floor functions and absolute-value functions), quadratic, cubic and square-root and cube-root functions | Laos, Grade 10 student book, L8–L15, printed pp. 63–165 |
+| Rational functions with limits and asymptotes; exponential and logarithmic functions with graphs, equations, inequalities, maximum and minimum and domain and range | Laos, Grade 11 student book, L11–L26, printed pp. 41–168 |
+| Trigonometric functions (properties, graphs, domain and range), hyperbolic functions, inverse functions including inverse trigonometric and inverse hyperbolic | Laos, Grade 12 student book, L17–L25, printed pp. 189–251 |
 
-**Acceptance count: taught in 6 countries (Egypt, Jordan,
-Kazakhstan, Vietnam, Libya, Mauritania).** Egypt carries the
+**Acceptance count: taught in 7 countries (Egypt, Jordan,
+Kazakhstan, Vietnam, Libya, Mauritania, Laos).** Egypt carries the
 fullest build — Cartesian product, relation, function, domain
 and range in Preparatory 3; the sign of a function in
 Secondary 1; the inverse function in Grade 11 Pure. Jordan
@@ -93,4 +103,4 @@ Mauritania enters from 5AS. Composite functions are taught
 here as the books' function work put together (two functions
 in a row, inside-out) — the word "composite" is the lesson's
 own label for that book-taught operation, and the inverse is
-taught from Egypt's Grade 11 lesson, not invented.
+taught from Egypt's Grade 11 lesson, not invented. Laos carries functions from mappings and linear and affine functions in Grade 8, through quadratic functions in Grade 9, to the full function course — relations, constant, linear, quadratic, cubic, root, rational, exponential, logarithmic, trigonometric, hyperbolic and inverse functions — in Grades 10–12.

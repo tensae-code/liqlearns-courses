@@ -1,6 +1,6 @@
 # Sources — Coordinates and graphs
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana
+countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos
 
 Every part traces to its book and page.
 
@@ -41,6 +41,10 @@ in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED
 maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 2026-11-05). Teacher evidence only: Ghana's set holds no pupil
 textbook.
+**Book 9:** *Mathematics, Grade 4 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2021. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 10:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 11:** *Mathematics, Grade 7 student book (secondary year 2)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2011. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 12:** *Mathematics, Grade 8 student book (secondary year 3)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2012. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -52,9 +56,13 @@ textbook.
 | Interpreting graphs; x-intercept and y-intercept ("The point at which the line crosses the y-axis is called the y-intercept"); gradient ("Gradient = change in y / change in x"; direction read left to right — up to the right is positive, down is negative — with worked gradients such as 5/2 = 2,5 and 2/4 = 0,5); tables of ordered pairs; sketching and comparing graphs (e.g. y = −3x + 2 tabulated and plotted) | South Africa, Grade 9 Book 1, Term 3, WS88a/b Interpreting graphs; WS89 x-intercept and y-intercept; WS90a/b Interpreting graphs: gradient; WS91 Use tables of ordered pairs; WS96a/b Compare and sketch graphs, pp.60–91 |
 | Linear and affine functions | Mauritania, 3AS (Grade 9) student book, "Fonctions linéaires et affines", p.233 |
 | Coordinates (the coordinate plane as pairs of numbers for a point's position) | Ghana, JICA Primary Mathematics Teacher Manual B4 (coordinates block) — teacher evidence only; Ghana's set holds no pupil textbook |
+| Broken-line graph (temperature over days) | Laos, Grade 4 student book (new series), ch. 3, printed p. 24 |
+| Reading and drawing step and line graphs; enlarging and reducing shapes by coordinates | Laos, Grade 5 student book, L41–L42, printed pp. 100–111; L54, printed pp. 130–135 |
+| Ordered pairs; direct proportion graphs (y = kx) and inverse proportion graphs (y = k/x) | Laos, Grade 7 student book, L39–L41, printed pp. 171–202 |
+| Coordinates of points and distance, midpoint; straight lines, slope, parallel and perpendicular lines, distance from a point to a line | Laos, Grade 8 student book, L17–L20, printed pp. 126–150 |
 
-**Acceptance count: taught in 7 countries (Egypt, Jordan,
-Kazakhstan, Vietnam, South Africa, Mauritania, Ghana — Ghana
+**Acceptance count: taught in 8 countries (Egypt, Jordan,
+Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos — Ghana
 as teacher evidence only).** South Africa carries the
 plainest gradient teaching — gradient as change in y over
 change in x, with intercepts named, built from tables of
@@ -71,4 +79,4 @@ teacher manual — worded as teacher evidence. Honest
 negative: South Africa's Grade 9 book has no slope–intercept
 form as a named method and no function notation — the lesson
 takes the named form from Egypt and Kazakhstan, and says so
-here.
+here. Laos carries coordinates and graphs from broken-line graphs in Grade 4, through step and line graphs and coordinate enlargement in Grade 5, to ordered pairs, proportion graphs and full straight-line work — slope, parallels, perpendiculars and point-to-line distance — in Grades 7–8.

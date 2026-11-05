@@ -1,6 +1,6 @@
 # Sources — Comparing-and-ordering
 
-countries: Armenia, Libya, Egypt, Kazakhstan, Greece, Jordan
+countries: Armenia, Libya, Egypt, Kazakhstan, Greece, Jordan, Laos
 
 Every part traces to its book and page.
 
@@ -12,6 +12,9 @@ Every part traces to its book and page.
 **Book 6:** *Mathematics, Grade 2* (Ospanov set, Lessons 1–136) — Kazakhstan, Atamura. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 7:** *Mathematics, Grade 4 pupil book (Μαθηματικά Δ΄ Δημοτικού)* — Greece, Ministry of Education (ITYPE «Diophantos»). Filed in maths/books/greece.md (FULLY READ + CITATION CHECK PASSED).
 **Book 8:** *Mathematics, Grade 4, Student Book, Term 1* — Jordan. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 9:** *Mathematics, Grade 1 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2017 original / 2020 reprint (one book held twice, ISBN 978-9932-00-174-3, counted once). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 10:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 11:** *Mathematics, Grade 6 student book (secondary year 1)* — Laos, Ministry of Education / Institute of Educational Science Research, 2010 (2009 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -25,5 +28,9 @@ Every part traces to its book and page.
 | Comparing multi-digit numbers | Armenia, Mathematics 4, Part I, §2, p.13 |
 | Comparing numbers (within thousands) | Jordan, Grade 4 Student Book Term 1, Unit 1 — Place value within thousands (from p.10), comparing numbers (L3) |
 | Numbers to 200,000: names, comparison, ordering, decimal expansion | Greece, Grade 4 pupil book, printed pp.92–93 |
+| Comparing with <, > and = after one-to-one matching | Laos, Grade 1 student book (new series), ch. 1, printed p. 6; ch. 2, printed p. 10 |
+| Order of numbers | Laos, Grade 1 student book (new series), ch. 3, printed p. 22 |
+| Ordering numbers, including decimals and fractions on the number line | Laos, Grade 5 student book, ch. 1, printed pp. 6–15; ch. 6, printed pp. 56–75 |
+| Comparing natural numbers and integers, opposites, absolute value as distance from 0 | Laos, Grade 6 student book, L1, printed pp. 1–9; L2, printed pp. 10–16 |
 
-**Acceptance count: taught in 6 countries (Armenia, Libya, Egypt, Kazakhstan, Greece, Jordan). Libya carries comparing from the first count — bigger and smaller at 20, comparing at 100. Armenia carries the rule itself — compare the stronger digit first — from two-digit numbers in Grade 2 to multi-digit numbers in Grade 4. Egypt carries comparing by the largest place value in Grade 2. Kazakhstan carries comparing as its fifth two-digit lesson in Grade 2. Greece carries comparison and ordering to 200,000 in Grade 4. Jordan carries comparing numbers within thousands in Grade 4. Other read countries teach comparing inside their own Grade 1–4 books and join by merge.**
+**Acceptance count: taught in 7 countries (Armenia, Libya, Egypt, Kazakhstan, Greece, Jordan, Laos). Libya carries comparing from the first count — bigger and smaller at 20, comparing at 100. Armenia carries the rule itself — compare the stronger digit first — from two-digit numbers in Grade 2 to multi-digit numbers in Grade 4. Egypt carries comparing by the largest place value in Grade 2. Kazakhstan carries comparing as its fifth two-digit lesson in Grade 2. Greece carries comparison and ordering to 200,000 in Grade 4. Jordan carries comparing numbers within thousands in Grade 4. Other read countries teach comparing inside their own Grade 1–4 books and join by merge.** Laos carries comparing from the first count — one-to-one matching, then <, > and = in Grade 1 — through ordering whole numbers, decimals and fractions in Grade 5 to comparing integers on the number line in Grade 6.

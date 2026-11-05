@@ -1,6 +1,6 @@
 # Sources — Roots and Surds
 
-countries: Kazakhstan, Jordan, Egypt, Greece, South Africa, Sierra Leone, Libya, Armenia, Vietnam
+countries: Kazakhstan, Jordan, Egypt, Greece, South Africa, Sierra Leone, Libya, Armenia, Vietnam, Laos
 
 Every part traces to its book and page.
 
@@ -25,6 +25,9 @@ Every part traces to its book and page.
 **Book 10:** *Algebra 9* — Armenia, Hamlet Sureni Mikayelyan, Yerevan: Edit Print. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 11:** *Toán 9* (Mathematics 9) — Vietnam, Kết nối tri thức với cuộc sống, NXBGD, MoET. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 12:** *Mathematics, Grade 8 student book (secondary year 3)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2012. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 13:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 14:** *Mathematics, Grade 10 student book (upper-secondary year 5)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2014 (2010 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -40,5 +43,8 @@ Every part traces to its book and page.
 | Irrational numbers and the laws of surds; equations containing surds | Libya, Grade 10 Part 1, Ch. 2, pp. 45–83 |
 | Generalising the power concept: nth root, arithmetic-root properties, rational-exponent power | Armenia, Algebra 9, Ch. 2, §1, p. 33 |
 | Square/cube roots and radical manipulation in the Grade 9 summary | Vietnam, Grade 9, Toán 9 |
+| Square roots: square area a² → side a, √a² = a (a ≥ 0), √a × √b = √(ab), √(a/b) = √a/√b | Laos, Grade 8 student book, L4, printed pp. 1–52 |
+| nth roots, operations with radicals, conjugates, rationalising denominators including cube roots, nested radicals, radical equations | Laos, Grade 9 student book, L9–L11, printed pp. 45–61 |
+| Square-root and cube-root functions: y = √x and y = ∛x, domain, reflections, translations, scaling, solving radical equations graphically | Laos, Grade 10 student book, L15, printed p. 152 |
 
-**Acceptance count: taught in 9 countries (Kazakhstan, Jordan, Egypt, Greece, South Africa, Sierra Leone, Libya, Armenia, Vietnam).** Kazakhstan carries the deepest treatment — the inverse-operation definition, the irrationality proof, and surd work with sign conditions. Egypt carries the array-built introduction (144 squares, 729 cubes) and the root laws in two grades. Jordan carries surd operations and radical equations in Grade 9. Greece carries the square root and the irrationals in Grade 8. South Africa carries roots as worksheet practice across Grades 8 and 9, with estimation. Sierra Leone carries surds only in SSS 1 (Lessons 87–96) — its JSS never teaches surds as a topic, and the lesson says so. Libya carries the laws of surds in Grade 10. Armenia carries nth roots and rational exponents in Grade 9. Vietnam carries radicals in Grade 9. Ghana is not in this lesson: its JHS curriculum lists surds as a standard, but no taught surd material is filed from its teacher manuals.
+**Acceptance count: taught in 10 countries (Kazakhstan, Jordan, Egypt, Greece, South Africa, Sierra Leone, Libya, Armenia, Vietnam, Laos).** Kazakhstan carries the deepest treatment — the inverse-operation definition, the irrationality proof, and surd work with sign conditions. Egypt carries the array-built introduction (144 squares, 729 cubes) and the root laws in two grades. Jordan carries surd operations and radical equations in Grade 9. Greece carries the square root and the irrationals in Grade 8. South Africa carries roots as worksheet practice across Grades 8 and 9, with estimation. Sierra Leone carries surds only in SSS 1 (Lessons 87–96) — its JSS never teaches surds as a topic, and the lesson says so. Libya carries the laws of surds in Grade 10. Armenia carries nth roots and rational exponents in Grade 9. Vietnam carries radicals in Grade 9. Ghana is not in this lesson: its JHS curriculum lists surds as a standard, but no taught surd material is filed from its teacher manuals. Laos carries roots from square roots and their rules in Grade 8, through nth roots, radicals and radical equations in Grade 9, to square-root and cube-root functions in Grade 10.
