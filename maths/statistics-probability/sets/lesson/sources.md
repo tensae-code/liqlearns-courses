@@ -1,6 +1,6 @@
 # Sources — Sets
 
-countries: Egypt, Jordan, Libya, Armenia, Sierra Leone, Greece, Kazakhstan, Laos, Yemen
+countries: Egypt, Jordan, Libya, Armenia, Sierra Leone, Greece, Kazakhstan, Laos, Yemen, Indonesia
 
 Every part traces to its book and page.
 
@@ -22,6 +22,8 @@ Every part traces to its book and page.
 **Book 10:** *Mathematics, Grade 7 student book (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 11:** *Mathematics, Grade 8 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 12:** *Mathematics, Grade 9 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 13:** *Matematika, Buku Siswa, SMP/MTs Kelas VII, Semester 1* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2017, ISBN 978-602-282-985-0. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 14:** *Buku Panduan Guru Matematika untuk SMP/MTs Kelas VIII* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2022, ISBN 978-602-427-902-8. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED). Teacher-guide evidence only: no Merdeka Grade 8 student book is in hand.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -38,5 +40,9 @@ Every part traces to its book and page.
 | The set and the element, ways of writing a set, finite and infinite sets, equal sets, subsets, intersection, union, ordered pairs, Cartesian product, relations | Yemen, Grade 7, Unit 1, lessons 1-1–1-10, printed pp. 9–37 |
 | Partial sets, the universal set, properties of intersection and union, relations | Yemen, Grade 8 Part 1, Unit 1, lessons 1-2–1-5, printed pp. 10–24 |
 | Writing a set by its defining property, difference and complement sets, transitive and equivalence relations | Yemen, Grade 9 Part 1, Unit 1, lessons 1-1–1-4, printed pp. 7–25 |
+| What a set is; three ways of presenting a set; empty and universal sets; Venn diagrams; cardinality; subsets; power sets; equality; intersection, union, complement and difference; properties including De Morgan | Indonesia, Grade 7 K13 Semester 1, Ch. 2, printed pp. 109–192 |
+| Sets, relations, functions (guide evidence — no Merdeka Grade 8 student book in hand); the subset symbol is printed as ∈ where ⊆ is meant (pp. 179–180) — the lesson teaches ⊆ | Indonesia, Grade 8 Merdeka teacher guide, Bab 4, printed pp. 165–214 |
 
-**Acceptance count: taught in 9 countries (Egypt, Jordan, Libya, Armenia, Sierra Leone, Greece, Kazakhstan, Laos, Yemen).** Egypt carries the first full set lesson (listing, set-builder, kinds of sets, union and intersection on Venn diagrams); Jordan carries sets as intervals; Libya carries the laws of set operations, De Morgan and the Cartesian product; Armenia carries sets, intersection and union, and subsets; Sierra Leone carries the worked intersection/union/complement lesson and the union-counting formula; Greece carries sets beside sample spaces and events; Kazakhstan carries sets at their youngest, on pictures. Laos carries sets from listing, Venn diagrams, subsets, Carroll diagrams, intersection, union and power sets in Grade 6 to full set operations with inclusion–exclusion and Cartesian products in Grade 10. Yemen carries sets from sets and relations in Grade 7, through partial sets and the universal set in Grade 8, to defining-property form, difference and complement sets and equivalence relations in Grade 9.
+**Acceptance count: taught in 10 countries (Egypt, Jordan, Libya, Armenia, Sierra Leone, Greece, Kazakhstan, Laos, Yemen, Indonesia).** Egypt carries the first full set lesson (listing, set-builder, kinds of sets, union and intersection on Venn diagrams); Jordan carries sets as intervals; Libya carries the laws of set operations, De Morgan and the Cartesian product; Armenia carries sets, intersection and union, and subsets; Sierra Leone carries the worked intersection/union/complement lesson and the union-counting formula; Greece carries sets beside sample spaces and events; Kazakhstan carries sets at their youngest, on pictures. Laos carries sets from listing, Venn diagrams, subsets, Carroll diagrams, intersection, union and power sets in Grade 6 to full set operations with inclusion–exclusion and Cartesian products in Grade 10. Yemen carries sets from sets and relations in Grade 7, through partial sets and the universal set in Grade 8, to defining-property form, difference and complement sets and equivalence relations in Grade 9. Indonesia carries sets whole in Grade 7 K13 — presenting sets, Venn diagrams, subsets, power sets and all four operations with De Morgan — with sets again in the Grade 8 Merdeka guide; the Cartesian product is not a named topic in the held Indonesian sets chapter.
+
+**Flagged, not taught:** the Grade 7 K13 book's Sabulan livestock problem (printed pp. 166–169) double-counts the triple region and its data are inconsistent, and its sports survey (p. 170) gives badminton-only as −2 — this lesson teaches neither; correct counting is used throughout.

@@ -1,6 +1,6 @@
 # Sources — Multiplying and Dividing Fractions
 
-countries: Kazakhstan, Jordan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen
+countries: Kazakhstan, Jordan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia
 
 Every part traces to its book and page.
 
@@ -94,6 +94,9 @@ only: Ghana's set holds no pupil textbook at all.
 **Book 17:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 18:** *Mathematics, Grade 5 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 19:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 20:** *Matematika untuk SD/MI Kelas VI* (Mathematics, Grade 6 student book) — Indonesia, Dicky Susanto, Savitri Sihombing, Ambarsari Kusuma Wardani, Ummy Salmah, Eunice Salim, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Kurikulum Merdeka 2022, ISBN 978-602-427-917-2. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
+**Book 21:** *Matematika untuk SMP/MTs Kelas VII* (Mathematics, Grade 7 student book, Kurikulum Merdeka) — Indonesia, Dicky Susanto, Savitri Sihombing, Marianna Magdalena Radjawane, Ambarsari Kusuma Wardani, Theja Kurniawan, Yulian Candra, Sinta Mulyani, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2022, ISBN 978-602-244-883-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
+**Book 22:** *Matematika, Buku Siswa, SMP/MTs Kelas VII, Semester 1* (Mathematics, Grade 7 student book, Semester 1, Kurikulum 2013) — Indonesia, Abdur Rahman As'ari, Mohammad Tohir, Erik Valentino, Zainul Imron, Ibnu Taufiq, Kementerian Pendidikan dan Kebudayaan, Edisi Revisi 2017, ISBN 978-602-282-985-0. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -109,10 +112,14 @@ only: Ghana's set holds no pupil textbook at all.
 | Multiplication and division of rational expressions | Laos, Grade 9 student book, L2, printed p. 5 |
 | Multiplying fractions ((2/3) of (1/2) = 2/6) and dividing fractions | Yemen, Grade 5 Part 2, Unit 5, lessons 5-6–5-7, printed pp. 33–38 |
 | Multiplying and dividing fractions and mixed numbers | Yemen, Grade 6 Part 1, Unit 2, lesson 2-3, printed p. 68 |
+| Natural number × fraction and fraction × natural number; fraction ÷ natural number and natural number ÷ fraction (multiply by the reciprocal) — but NO fraction × fraction and NO fraction ÷ fraction | Indonesia, Grade 6 student book, Ch. 1, printed pp. 1–44 |
+| Fraction and decimal operations, including multiplying and dividing fractions | Indonesia, Grade 7 Merdeka student book, Ch. 2, printed pp. 35–82 |
+| Fraction addition, subtraction, multiplication and division | Indonesia, Grade 7 K13 2017 Semester-1 student book, Ch. 1, printed pp. 1–108 |
+| Indonesia's honest limit (stated, not forced): Grade 5 teaches no fraction multiplication or division at all | Indonesia, Grade 5 student book, Ch. 3, printed pp. 63–104 — filed in maths/books/indonesia.md |
 
-**Acceptance count: taught in 12 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 13 countries (Kazakhstan, Jordan,
 Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam,
-Ghana, Laos, Yemen).** Kazakhstan carries the full course with the rule derived,
+Ghana, Laos, Yemen, Indonesia).** Kazakhstan carries the full course with the rule derived,
 not just stated; Egypt carries the area-model multiplication and
 the two unit-fraction divisions as their own lessons, and the
 Grade 6 division modelling; Jordan carries multiplying and dividing
@@ -127,4 +134,4 @@ of a fraction by a whole number and fraction divided by a whole
 number in Grade 5; Vietnam carries the full Grade 4 fraction
 operations and the two fraction problems in Grade 6; Ghana carries
 the work only as teacher-manual evidence. South Africa is not
-counted here — see the honest note above. Laos carries multiplying and dividing fractions whole in Grade 7 — fraction × fraction and all four division forms — and extends it to rational expressions in Grade 9. Yemen carries multiplying and dividing fractions from fraction-of-a-fraction in Grade 5 to fractions and mixed numbers in Grade 6.
+counted here — see the honest note above. Laos carries multiplying and dividing fractions whole in Grade 7 — fraction × fraction and all four division forms — and extends it to rational expressions in Grade 9. Yemen carries multiplying and dividing fractions from fraction-of-a-fraction in Grade 5 to fractions and mixed numbers in Grade 6. Indonesia carries multiplying and dividing fractions from whole-number forms only in Grade 6 (fraction × fraction and fraction ÷ fraction are not taught there), through the full fraction operations in Grade 7 (Merdeka and K13 editions); Grade 5 teaches no fraction multiplication or division at all.

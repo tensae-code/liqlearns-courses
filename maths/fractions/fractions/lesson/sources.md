@@ -1,6 +1,6 @@
 # Sources — Fractions
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia
 
 Every part traces to its book and page.
 
@@ -122,6 +122,12 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 26:** *Mathematics, Grade 4 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 27:** *Mathematics, Grade 5 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 28:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 29:** *Matematika untuk SD/MI Kelas II* (Mathematics, Grade 2 student book) — Indonesia, Dara Retno Wulan and Rasfaniwaty, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Kurikulum Merdeka 2022, ISBN 978-602-427-915-8. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
+**Book 30:** *Matematika untuk SD/MI Kelas IV* (Mathematics, Grade 4 student book) — Indonesia, Hobri, Susanto, Arika Indah Kristiana, Arif Fatahillah, Eko Waluyo, Ridho Alfarisi, Haris Setiya Budi, Moh. Iqbal Helmi, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Kurikulum Merdeka 2022, ISBN 978-602-244-908-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
+**Book 31:** *Matematika untuk SD/MI Kelas V* (Mathematics, Grade 5 student book) — Indonesia, Meita Fitrianawati, Ika Surtiani, Ait Istiandaru, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Kurikulum Merdeka 2022, ISBN 978-602-427-916-5. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
+**Book 32:** *Matematika untuk SD/MI Kelas VI* (Mathematics, Grade 6 student book) — Indonesia, Dicky Susanto, Savitri Sihombing, Ambarsari Kusuma Wardani, Ummy Salmah, Eunice Salim, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Kurikulum Merdeka 2022, ISBN 978-602-427-917-2. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
+**Book 33:** *Matematika untuk SMP/MTs Kelas VII* (Mathematics, Grade 7 student book, Kurikulum Merdeka) — Indonesia, Dicky Susanto, Savitri Sihombing, Marianna Magdalena Radjawane, Ambarsari Kusuma Wardani, Theja Kurniawan, Yulian Candra, Sinta Mulyani, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2022, ISBN 978-602-244-883-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
+**Book 34:** *Matematika, Buku Siswa, SMP/MTs Kelas VII, Semester 1* (Mathematics, Grade 7 student book, Semester 1, Kurikulum 2013) — Indonesia, Abdur Rahman As'ari, Mohammad Tohir, Erik Valentino, Zainul Imron, Ibnu Taufiq, Kementerian Pendidikan dan Kebudayaan, Edisi Revisi 2017, ISBN 978-602-282-985-0. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -145,10 +151,17 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 | Reading and writing fractions, equivalent fractions, comparing and ordering | Yemen, Grade 3 Part 2, Unit 9, lessons 9-2–9-4, printed pp. 84–88 |
 | Numerator and denominator, equivalent fractions, simplifying, comparing, ordering, improper fractions and mixed numbers | Yemen, Grade 4 Part 2, Unit 5, lessons 1:5–6:5, printed pp. 8–26 |
 | Comparing and ordering fractions; adding, subtracting, multiplying and dividing fractions | Yemen, Grade 5 Part 2, Unit 5, lessons 5-2–5-7, printed pp. 13–38; Grade 6 Part 1, Unit 2, lessons 2-2–2-3, printed pp. 62–68 |
+| Half and quarter of a whole object and of a collection, in words and pictures only — the symbols ½ and ¼ never appear | Indonesia, Grade 2 student book, Ch. 5, printed pp. 125–154 |
+| Unit fractions compared and ordered, same-denominator fractions, equivalent fractions, tenths and hundredths decimals | Indonesia, Grade 4 student book, Bab 2, printed pp. 55–84 |
+| Comparing and ordering fractions on the number line and by numerator; mixed numbers to improper fractions | Indonesia, Grade 5 student book, Ch. 3, printed pp. 63–104 |
+| Converting fractions to decimals; comparing and ordering decimals to one decimal place | Indonesia, Grade 6 student book, Ch. 1, printed pp. 1–44 |
+| Rational numbers as a/b, terminating vs repeating decimals, irrationals by contrast, comparing rationals, fraction and decimal operations | Indonesia, Grade 7 Merdeka student book, Ch. 2, printed pp. 35–82 |
+| Comparing fractions; fraction addition, subtraction, multiplication and division; positive-integer powers | Indonesia, Grade 7 K13 2017 Semester-1 student book, Ch. 1, printed pp. 1–108 |
+| Indonesia's honest limit (stated, not forced): Grade 3 teaches no fractions at all — fractions were Grade 2 halves/quarters and return in Grade 4 | Indonesia, Grade 3 student book: no fractions — filed in maths/books/indonesia.md |
 
-**Acceptance count: taught in 13 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 14 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen).** Kazakhstan carries the first share on
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia).** Kazakhstan carries the first share on
 clock faces and the full Grade 5 fraction course with the
 comparing and part-of-a-number rules; Jordan carries the youngest
 path (halves and quarters only in Grade 1, then the full first
@@ -169,4 +182,4 @@ Ghana carries fractions only as teacher-manual evidence (no pupil
 textbook in the set), folding strips and bottle tops; South Africa
 carries halves and quarters in Grade 2, fractions to sixths in
 Grade 3, and the first definitions of proper, mixed and improper
-in Grade 6. Laos carries fractions from their first appearance in Grade 3, through whole–decimal–fraction links and equivalence in Grades 4–5, to rational numbers, repeating decimals and irrationals in Grade 7. Yemen carries fractions from half and quarter in Grade 1, through reading, writing, equivalence and ordering, to improper fractions and mixed numbers and all four operations on fractions.
+in Grade 6. Laos carries fractions from their first appearance in Grade 3, through whole–decimal–fraction links and equivalence in Grades 4–5, to rational numbers, repeating decimals and irrationals in Grade 7. Yemen carries fractions from half and quarter in Grade 1, through reading, writing, equivalence and ordering, to improper fractions and mixed numbers and all four operations on fractions. Indonesia carries fractions from halves and quarters in words and pictures in Grade 2, through unit fractions, equivalence and the hundredths-decimal link in Grade 4, comparing, ordering and mixed numbers in Grade 5, fraction-to-decimal conversion in Grade 6, to rational numbers, repeating decimals and irrationals in Grade 7 (Merdeka and K13 editions).

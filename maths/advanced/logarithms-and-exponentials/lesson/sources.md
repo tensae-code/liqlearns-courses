@@ -1,6 +1,6 @@
 # Sources — Logarithms and Exponentials
 
-countries: Egypt, Jordan, Greece, Armenia, Vietnam, Libya, Mauritania, Laos, Yemen
+countries: Egypt, Jordan, Greece, Armenia, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia
 
 Every part traces to its book and page.
 
@@ -31,6 +31,10 @@ Every part traces to its book and page.
 **Book 14:** *Mathematics, Grade 10 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 15:** *Mathematics, Grade 11 student book, literary track (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 16:** *Mathematics, Grade 11 student book, science track, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 17:** *Matematika untuk SMA/SMK Kelas X* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2021, ISBN 978-602-244-526-5. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 18:** *Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2023, ISBN 978-623-118-558-7. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 19:** *Matematika Tingkat Lanjut untuk SMA Kelas XI* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2021, ISBN 978-602-244-770-2. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 20:** *Panduan Guru Matematika Tingkat Lanjut untuk SMA/MA Kelas XI (Edisi Revisi)* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2024, ISBN 978-623-388-339-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED). Teacher-guide evidence for the 2024 TL edition; the held 2021 TL student book is a different edition.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -51,7 +55,11 @@ Every part traces to its book and page.
 | Powers and roots as background | Yemen, Grade 10 Part 1, Unit 3, lessons 3-1–3-2, printed pp. 48–54 |
 | The concept of the logarithm, rules of logarithms, common and natural logarithms, applications | Yemen, Grade 11 literary, Unit 2, lessons 2-1–2-5, printed pp. 28–45 |
 | The exponential function; logarithms and their properties; the logarithmic function; common and natural logarithms; simplification using logarithms | Yemen, Grade 11 science Part 1, Unit 4, lessons 4-1–4-6, printed pp. 96–116 |
+| Laws of exponents; exponential function with growth and decay; surds; logarithms defined as the inverse of exponentiation, with their laws | Indonesia, Grade 10 Merdeka, Bab 1, printed pp. 1–32 |
+| Exponents; exponential functions; logarithms as the Bab 1 Pengayaan — definition, common logarithms, log laws with proof tasks, worked examples and exercises (pp. 27–33) | Indonesia, Grade 10 Revisi, Bab 1, printed pp. 1–34 |
+| Logarithmic functions (with trigonometric and algebraic functions) | Indonesia, Grade 11 Tingkat Lanjut, Bab 5, printed pp. 231–314 |
+| Logarithmic, algebraic and non-algebraic functions (guide evidence for the 2024 TL edition — the held 2021 TL student book is a different edition) | Indonesia, Grade 11 TL teacher guide (Edisi Revisi 2024), Bab 6, printed pp. 239–288 |
 
-**Acceptance count: taught in 9 countries (Egypt, Jordan, Greece, Armenia, Vietnam, Libya, Mauritania, Laos, Yemen).** Egypt carries the full arc from rational exponents through the log laws to exp/log calculus; Jordan carries exponential growth and decay, the log laws and exp/log equations; Greece carries the exponential and logarithmic functions in one chapter; Armenia carries both streams' exp/log chapters with equations and inequalities; Vietnam carries the arc from real exponents to exp/log equations; Libya carries the index laws and logarithms from Grade 10 and exp/log calculus in Grade 12; Mauritania carries log and exponential functions in both terminal streams.
+**Acceptance count: taught in 10 countries (Egypt, Jordan, Greece, Armenia, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia).** Egypt carries the full arc from rational exponents through the log laws to exp/log calculus; Jordan carries exponential growth and decay, the log laws and exp/log equations; Greece carries the exponential and logarithmic functions in one chapter; Armenia carries both streams' exp/log chapters with equations and inequalities; Vietnam carries the arc from real exponents to exp/log equations; Libya carries the index laws and logarithms from Grade 10 and exp/log calculus in Grade 12; Mauritania carries log and exponential functions in both terminal streams. Indonesia carries exponentials and logarithms from exponent laws, the exponential function and logarithms as the inverse of exponentiation in Grade 10 — including the Revisi Pengayaan on logarithms — to logarithmic functions in Grade 11 Tingkat Lanjut; exponential and logarithmic equations are not named topics in the held books.
 
-**Honest limit:** Sierra Leone's SSS never teaches logarithms, and Vietnam teaches no logs or exponentials before Grade 11 Volume 2 — those countries are not counted here, and this lesson stands on the seven countries that do teach the topic. Laos carries exponentials and logarithms whole in Grade 11 — both functions with graphs, properties, equations, inequalities, maxima and minima and domain and range. Yemen carries logarithms and exponentials from powers and roots in Grade 10 to the exponential function and logarithms — concept, rules, common and natural logs and applications — in Grade 11, in both tracks.
+**Honest limit:** Sierra Leone's SSS never teaches logarithms, and Vietnam teaches no logs or exponentials before Grade 11 Volume 2 — those countries are not counted here, and this lesson stands on the ten countries that do teach the topic. Laos carries exponentials and logarithms whole in Grade 11 — both functions with graphs, properties, equations, inequalities, maxima and minima and domain and range. Yemen carries logarithms and exponentials from powers and roots in Grade 10 to the exponential function and logarithms — concept, rules, common and natural logs and applications — in Grade 11, in both tracks.

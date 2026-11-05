@@ -1,6 +1,6 @@
 # Sources — Sequences and series
 
-countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen
+countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia
 
 Every part traces to its book and page.
 
@@ -46,6 +46,10 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 **Book 11:** *Mathematics, Grade 10 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 12:** *Mathematics, Grade 11 student book, literary track (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 13:** *Mathematics, Grade 11 student book, science track, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 14:** *Matematika SMP/MTs Kelas VIII Semester 1* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2017, ISBN 978-602-282-987-4. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 15:** *Matematika untuk SMA/SMK Kelas X* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2021, ISBN 978-602-244-526-5. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 16:** *Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2023, ISBN 978-623-118-558-7. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 17:** *Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)* — Indonesia, Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen), 2025, ISBN 978-634-00-3118-8. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -66,9 +70,13 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 | The symbol Σ, its meaning and properties | Yemen, Grade 10 Part 2, Unit 10, lesson 10-1, printed p. 114 |
 | Sequences, arithmetic sequences, sum of the first n terms of an arithmetic sequence, geometric sequences and their sums | Yemen, Grade 11 literary, Unit 1, lessons 1-1–1-5, printed pp. 7–25 |
 | Sequences, the arithmetic sequence, the geometric sequence (sums folded into the sequence lessons) | Yemen, Grade 11 science Part 1, Unit 3, lessons 3-1–3-3, printed pp. 61–84 |
+| Number patterns: odd/even patterns, consecutive numbers, tile patterns, lamp cycles, unit digits, triangular numbers, sum of squares, Pascal's triangle — the geometric sequence is named (p. 19) but deferred to SMA; no arithmetic/geometric series formulas | Indonesia, Grade 8 K13 Semester 1, Bab 1, printed pp. 1–40 |
+| Arithmetic and geometric sequences and series; infinite geometric series | Indonesia, Grade 10 Merdeka, Bab 2, printed pp. 33–62 |
+| Arithmetic and geometric sequences and series; infinite geometric series | Indonesia, Grade 10 Revisi, Bab 2, printed pp. 35–70 |
+| Arithmetic and geometric sequences and series; infinite geometric series | Indonesia, Grade 12 Revisi, Bab 1, printed pp. 1–34 |
 
-**Acceptance count: taught in 7 countries (Kazakhstan, Jordan,
-Sierra Leone, Mauritania, South Africa, Laos, Yemen).** Kazakhstan carries
+**Acceptance count: taught in 8 countries (Kazakhstan, Jordan,
+Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia).** Kazakhstan carries
 the fullest treatment — all four Grade 9 Algebra books prove
 the nth-term formulas, the characteristic properties, both
 sum formulas and the infinite geometric sum, with applied
@@ -84,4 +92,4 @@ teaches no sequences or series, so Egypt is not claimed for
 this lesson; Sierra Leone's SSS 2 teaches the arithmetic
 series sum but no geometric series sum, and its SSS 3 lesson's
 claim that no infinite sum can be found is not taught here —
-the infinite sum rests on Kazakhstan's theorem and Jordan. Laos carries sequences from number sequences and puzzles in Grade 5 to arithmetic and geometric sequences with limits, sums and applications in Grade 12. Yemen carries sequences and series from Σ notation in Grade 10 to arithmetic and geometric sequences and their sums in Grade 11, in both tracks — with separate sum lessons in the literary track and sums folded into the sequence lessons in the science track.
+the infinite sum rests on Kazakhstan's theorem and Jordan. Laos carries sequences from number sequences and puzzles in Grade 5 to arithmetic and geometric sequences with limits, sums and applications in Grade 12. Yemen carries sequences and series from Σ notation in Grade 10 to arithmetic and geometric sequences and their sums in Grade 11, in both tracks — with separate sum lessons in the literary track and sums folded into the sequence lessons in the science track. Indonesia carries sequences from number patterns in Grade 8 — where the geometric sequence is named but deferred to SMA — to arithmetic and geometric sequences and series with the infinite geometric series in Grades 10 and 12.

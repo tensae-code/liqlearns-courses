@@ -1,6 +1,6 @@
 # Sources — Matrices
 
-countries: Egypt, Jordan, Libya, Mauritania, Laos, Yemen
+countries: Egypt, Jordan, Libya, Mauritania, Laos, Yemen, Indonesia
 
 Every part traces to its book and page.
 
@@ -16,6 +16,8 @@ Every part traces to its book and page.
 **Book 6:** *Mathematics, Grade 12 student book (upper-secondary year 7)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2016 (2010 curriculum, revised). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 7:** *Mathematics, Grade 11 student book, literary track (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 8:** *Mathematics, Grade 11 student book, science track, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 9:** *Matematika Tingkat Lanjut untuk SMA Kelas XI* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2021, ISBN 978-602-244-770-2. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 10:** *Panduan Guru Matematika Tingkat Lanjut untuk SMA/MA Kelas XI (Edisi Revisi)* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2024, ISBN 978-623-388-339-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED). Teacher-guide evidence for the 2024 TL edition; the held 2021 TL student book is a different edition.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -31,7 +33,9 @@ Every part traces to its book and page.
 | Matrices and their properties; determinants and inverse matrices; linear systems, solving linear systems, linear programming | Laos, Grade 12 student book, L7–L11, printed pp. 47–119 |
 | Matrices, operations on matrices, determinants, solving a system of first-degree equations | Yemen, Grade 11 literary, Unit 3, lessons 3-1–3-4, printed pp. 49–79 |
 | Matrices, special matrices, addition, subtraction and multiplication, determinants, the matrix inverse, solving first-degree equations | Yemen, Grade 11 science Part 2, Unit 6, lessons 6-1–6-7, printed pp. 7–42 |
+| Concept, types, equality, addition, subtraction, multiplication, determinant and inverse — stops at determinant and inverse (no solving linear systems by matrices as a named topic, no eigenvalues) | Indonesia, Grade 11 Tingkat Lanjut, Bab 3, printed pp. 121–174 |
+| Matrices (guide evidence for the 2024 TL edition — the held 2021 TL student book is a different edition) | Indonesia, Grade 11 TL teacher guide (Edisi Revisi 2024), Bab 1, printed pp. 19–60 |
 
-**Acceptance count: taught in 6 countries (Egypt, Jordan, Libya, Mauritania, Laos, Yemen).** Egypt carries the full matrix unit from organising data to inverses and Cramer's rule; Jordan carries matrix algebra through inverses and Cramer in its business course; Libya carries matrices and determinants with cofactors and compatibility; Mauritania carries matrices beside linear systems in two streamed books, with the Gauss method worked on a 4 × 4 system.
+**Acceptance count: taught in 7 countries (Egypt, Jordan, Libya, Mauritania, Laos, Yemen, Indonesia).** Egypt carries the full matrix unit from organising data to inverses and Cramer's rule; Jordan carries matrix algebra through inverses and Cramer in its business course; Libya carries matrices and determinants with cofactors and compatibility; Mauritania carries matrices beside linear systems in two streamed books, with the Gauss method worked on a 4 × 4 system. Indonesia carries matrices in Grade 11 Tingkat Lanjut — concept, types, operations, determinant and inverse — in both the 2021 student book and the 2024 guide, but stops at determinant and inverse: no solving of linear systems by matrices as a named topic.
 
 **Honest limit:** Libya's matrices chapter lists no matrix inverse and no solving of systems by matrices — the chapter stops at operations and transpose, and this lesson says so. Sierra Leone's SSS never teaches matrices; Vietnam teaches none; Greece teaches none in the read set; Kazakhstan's set tops out at Grade 9; Armenia teaches none. Laos carries matrices whole in Grade 12 — matrices, determinants and inverses, linear systems and linear programming. Yemen carries matrices whole in Grade 11, in both tracks — matrices and determinants, inverses and solving systems. Its literary book's worked example on printed p. 70 prints two determinants with dropped minus signs (|4 5; 3 2| printed 7, true −7; |1 2; 6 −4| printed 16, true −16) — the lesson teaches the correct values, never +7/+16.

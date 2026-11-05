@@ -1,6 +1,6 @@
 # Sources — Sine and cosine rules
 
-countries: Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen
+countries: Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia
 
 Every part traces to its book and page.
 
@@ -57,6 +57,7 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 + CITATION CHECK PASSED).
 **Book 12:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 13:** *Mathematics, Grade 11 student book, science track, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 14:** *Panduan Guru Matematika Tingkat Lanjut untuk SMA/MA Kelas XI (Edisi Revisi)* (teacher guide) — Indonesia, Yosep Dwi Kristanto, Muhammad Taqiyuddin, Al Azhary Masta, Elyda Yulfiana, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2024, ISBN 978-623-388-339-9. Guide-only evidence for the 2024 TL edition; written against a newer student edition than the held 2021 TL student book, never presented as a matched pair. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -76,9 +77,10 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Cosine rule, including the ambiguous case | Laos, Grade 9 student book, L28, printed p. 127 |
 | Triangle area S = ½bc sin A and variants (S = abc/4R, S = 2R² sin A sin B sin C, S = ½r(a + b + c)) | Laos, Grade 9 student book, L29, printed p. 132 |
 | Solving triangles and applications — title-level only: the filing pins the lesson title and page, not the method taught | Yemen, Grade 11 science Part 2, Unit 9, lesson 9-6, printed p. 113 |
+| Sine rule, cosine rule (with unit circle, graphs, identities) — guide-only evidence for the 2024 TL edition; the held 2021 TL student book teaches trigonometric functions but no sine/cosine rules, and Grade 10 teaches right-triangle ratios only | Indonesia, Grade 11 Tingkat Lanjut Revisi 2024 teacher guide, Bab 3, printed pp. 115–174 (guide evidence) |
 
-**Acceptance count: taught in 10 countries (Kazakhstan, Egypt,
-Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen).**
+**Acceptance count: taught in 11 countries (Kazakhstan, Egypt,
+Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia).**
 Kazakhstan carries the fullest treatment — all three Grade 9
 Geometry books prove both rules (by vectors, by coordinates,
 by altitude) and work the standard solving cases, including
@@ -96,4 +98,4 @@ Grade 9. Honest negative: Sierra Leone's JSS never teaches
 sine/cosine rules — the lesson's Sierra Leone evidence is SSS
 only; Jordan's Grade 9 teaches right-triangle trigonometry
 only and explicitly no sine/cosine rules, so Jordan enters
-this lesson from Grade 10, not Grade 9. Laos carries the sine and cosine rules whole in Grade 9 — the unit-semicircle extension to 0–180°, the sine rule via the circumcircle, the cosine rule with the ambiguous case, and triangle area from sin A. Yemen touches this lesson only in part, at title level — Grade 11 science, Unit 9, lesson 9-6, "Solving triangles and applications", printed p. 113; the filing pins the title and page only, not whether the sine and cosine rules are the method taught.
+this lesson from Grade 10, not Grade 9. Laos carries the sine and cosine rules whole in Grade 9 — the unit-semicircle extension to 0–180°, the sine rule via the circumcircle, the cosine rule with the ambiguous case, and triangle area from sin A. Yemen touches this lesson only in part, at title level — Grade 11 science, Unit 9, lesson 9-6, "Solving triangles and applications", printed p. 113; the filing pins the title and page only, not whether the sine and cosine rules are the method taught. Indonesia carries the sine and cosine rules as guide-only evidence — the Grade 11 Tingkat Lanjut Revisi 2024 teacher guide teaches them with the unit circle, graphs and identities (Bab 3, pp. 115–174), but the matching Revisi student book is not in hand and the held 2021 TL student book has no sine/cosine rules, so it is worded as guide evidence throughout, like Ghana's teacher-manual evidence elsewhere.

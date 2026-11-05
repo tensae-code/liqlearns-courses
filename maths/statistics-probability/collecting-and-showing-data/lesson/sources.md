@@ -1,6 +1,6 @@
 # Sources — Collecting and Showing Data
 
-countries: Egypt, Greece, Jordan, Libya, Vietnam, Sierra Leone, South Africa, Kazakhstan, Armenia, Ghana, Laos, Yemen
+countries: Egypt, Greece, Jordan, Libya, Vietnam, Sierra Leone, South Africa, Kazakhstan, Armenia, Ghana, Laos, Yemen, Indonesia
 
 Every part traces to its book and page.
 
@@ -41,6 +41,16 @@ Every part traces to its book and page.
 **Book 23:** *Mathematics, Grade 6 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 24:** *Mathematics, Grade 7 student book (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 25:** *Mathematics, Grade 8 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 26:** *Matematika untuk SD/MI Kelas I* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2022, ISBN 978-602-244-877-8. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 27:** *Matematika untuk SD/MI Kelas II* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2022, ISBN 978-602-427-915-8. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 28:** *Matematika untuk SD/MI Kelas III* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2022, ISBN 978-602-427-935-6. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 29:** *Matematika untuk SD/MI Kelas IV* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2022, ISBN 978-602-244-908-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 30:** *Matematika untuk SD/MI Kelas V* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2022, ISBN 978-602-427-916-5. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 31:** *Matematika untuk SMP/MTs Kelas VII* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2022, ISBN 978-602-244-883-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 32:** *Matematika untuk SMA/SMK Kelas X* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2021, ISBN 978-602-244-526-5. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 33:** *Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2023, ISBN 978-623-118-558-7. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 34:** *Matematika untuk SMA/SMK Kelas XI* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2021, ISBN 978-602-244-789-5. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 35:** *Matematika untuk SMA/MA/SMK/MAK Kelas XI (Edisi Revisi)* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2024, ISBN 978-623-388-329-0. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -72,5 +82,15 @@ Every part traces to its book and page.
 | Collecting and organising data; presenting data in pictures, columns, lines and pie sectors | Yemen, Grade 6 Part 2, Unit 8, lessons 8-1–8-6, printed pp. 141–159 |
 | Tabulating and organising statistical data; pictorial representation | Yemen, Grade 7, Unit 7, lessons 7-1–7-2, printed pp. 255–259 |
 | Reading tables and statistical forms; tabulating data; representing statistical data | Yemen, Grade 8 Part 2, Unit 9, lessons 9-1–9-3, printed pp. 115–124 |
+| Lists and tables up to four categories; picture diagrams | Indonesia, Grade 1, Ch. 8, printed pp. 219–242 |
+| Tally diagrams and picture diagrams, up to four categories | Indonesia, Grade 2, Ch. 8, printed pp. 225–250 |
+| Data in tables: ordering and comparing data, building tables from collected data, most/least frequent | Indonesia, Grade 3, Bab 5, printed pp. 195–212 |
+| Pictograms and bar charts, including vertical bars | Indonesia, Grade 4, Bab 6, printed pp. 177–194 |
+| Collecting data, surveys, tally marks, pictograms, vertical/horizontal/double bar charts | Indonesia, Grade 5, Ch. 8, printed pp. 235–272 |
+| Statistical investigation in four steps; line plots; categorical vs numerical data; bar charts, pie charts; choosing the right diagram | Indonesia, Grade 7 Merdeka, Ch. 6, printed pp. 185–228 |
+| Histogram, relative frequency | Indonesia, Grade 10 Merdeka, Bab 7, printed pp. 171–214 |
+| Tables, diagrams and graphs; data representation and interpretation | Indonesia, Grade 10 Revisi, Bab 6, printed pp. 177–238 |
+| Bivariate data: scatter diagrams | Indonesia, Grade 11 Merdeka, Bab 3, printed pp. 79–130 |
+| Categorical and numerical data; bivariate data; two-way tables and association between categorical variables; scatter diagrams | Indonesia, Grade 11 Revisi, Bab 1, printed pp. 1–80 |
 
-**Acceptance count: taught in 12 countries (Egypt, Greece, Jordan, Libya, Vietnam, Sierra Leone, South Africa, Kazakhstan, Armenia, Ghana, Laos, Yemen).** Libya carries the fullest collecting-and-showing course (sources, errors, sampling, tables, every graph form); Egypt carries pie charts and histograms; Greece carries collecting, bar charts, pictograms and pie diagrams; Jordan carries choosing between displays, grouped tables and histograms with frequency density; Vietnam carries bar, double-bar and pie charts; Sierra Leone carries the whole display ladder in one term; South Africa and Kazakhstan carry the youngest pictographs and first bar graphs; Armenia carries collecting, grouping and the histogram; Ghana's evidence is teacher evidence only. Laos carries collecting and showing data from picture data and tallying in Grade 2, through collecting data and graphs in Grades 3–5, to frequency tables, bar charts, pie charts and grouped bar charts in Grades 7–8 and data types in Grade 9. Yemen carries collecting and showing data from sorting, pictograms, tally tables and bar charts in Grade 2, through collecting and organising data, to columns, lines and pie sectors in Grade 6 and tabulation in Grades 7–8.
+**Acceptance count: taught in 13 countries (Egypt, Greece, Jordan, Libya, Vietnam, Sierra Leone, South Africa, Kazakhstan, Armenia, Ghana, Laos, Yemen, Indonesia).** Libya carries the fullest collecting-and-showing course (sources, errors, sampling, tables, every graph form); Egypt carries pie charts and histograms; Greece carries collecting, bar charts, pictograms and pie diagrams; Jordan carries choosing between displays, grouped tables and histograms with frequency density; Vietnam carries bar, double-bar and pie charts; Sierra Leone carries the whole display ladder in one term; South Africa and Kazakhstan carry the youngest pictographs and first bar graphs; Armenia carries collecting, grouping and the histogram; Ghana's evidence is teacher evidence only. Laos carries collecting and showing data from picture data and tallying in Grade 2, through collecting data and graphs in Grades 3–5, to frequency tables, bar charts, pie charts and grouped bar charts in Grades 7–8 and data types in Grade 9. Yemen carries collecting and showing data from sorting, pictograms, tally tables and bar charts in Grade 2, through collecting and organising data, to columns, lines and pie sectors in Grade 6 and tabulation in Grades 7–8. Indonesia carries collecting and showing data from lists, tables and picture diagrams in Grade 1, through tally and picture diagrams, tables, pictograms and bar charts in Grades 2–5, to statistical investigation with bar and pie charts and choosing the right diagram in Grade 7, histograms and data representation in Grade 10, and scatter diagrams and two-way tables in Grade 11.

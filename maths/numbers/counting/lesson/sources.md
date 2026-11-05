@@ -1,6 +1,6 @@
 # Sources — Counting
 
-countries: Libya, Greece, Sierra Leone, Ghana, Kazakhstan, South Africa, Laos, Yemen
+countries: Libya, Greece, Sierra Leone, Ghana, Kazakhstan, South Africa, Laos, Yemen, Indonesia
 
 Every part traces to its book and page.
 
@@ -19,6 +19,12 @@ Every part traces to its book and page.
 **Book 13:** *Mathematics, Grade 4 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 14:** *Mathematics, Grade 5 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 15:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 16:** *Matematika untuk SD/MI Kelas I* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Dara Retno Wulan and Rasfaniwaty, 2022, ISBN 978-602-244-877-8. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 17:** *Matematika untuk SD/MI Kelas II* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Dara Retno Wulan and Rasfaniwaty, 2022, ISBN 978-602-427-915-8. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 18:** *Matematika untuk SD/MI Kelas III* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Susanto, Arika Indah Kristiana, Arif Fatahillah, Eko Waluyo, Ridho Alfarisi, Hobri, 2022, ISBN 978-602-427-935-6. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 19:** *Matematika untuk SD/MI Kelas IV* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Hobri, Susanto, Arika Indah Kristiana, Arif Fatahillah, Eko Waluyo, Ridho Alfarisi, Haris Setiya Budi, Moh. Iqbal Helmi, 2022, ISBN 978-602-244-908-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 20:** *Matematika untuk SD/MI Kelas V* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Meita Fitrianawati, Ika Surtiani, Ait Istiandaru, 2022, ISBN 978-602-427-916-5. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -39,5 +45,10 @@ Every part traces to its book and page.
 | Numbers within 1000, counting in hundreds, the number 1000 | Yemen, Grade 2 Part 2, Unit 6, lessons 1st–2nd, printed pp. 8–10 |
 | Numbers within 10,000 | Yemen, Grade 3 Part 1, Unit 1, lessons 1-2–1-3, printed pp. 10–12 |
 | Numbers within 999,999, then within hundreds of millions and to billions | Yemen, Grade 4 Part 1, Unit 1, lessons 1:1–3:1, printed pp. 8–19; Grade 5 Part 1, Unit 1, lessons 1-2–1-3, printed pp. 12–17; Grade 6 Part 1, Unit 1, lesson 1-2, printed p. 12 |
+| Counting to 10, then to 20 | Indonesia, Grade 1 student book, counting to 10, printed pp. 1–40; counting to 20, printed pp. 145–174 |
+| Counting to 50, then to 100 | Indonesia, Grade 2 student book, counting to 50, printed pp. 1–36; counting to 100, printed pp. 191–224 |
+| Whole numbers to 1,000 | Indonesia, Grade 3 student book, Bab 1, printed pp. 1–74 |
+| Whole numbers to 10,000 | Indonesia, Grade 4 student book, Bab 1, printed pp. 1–54 |
+| Whole numbers to 100,000, then to 1,000,000 (reading and writing only) | Indonesia, Grade 5 student book, Ch. 1, printed pp. 1–28; Ch. 9, printed pp. 273–308 |
 
-**Acceptance count: taught in 8 countries (Libya, Greece, Sierra Leone, Ghana, Kazakhstan, South Africa, Laos, Yemen). Libya carries the whole primary climb in one book — 1–10, then to 20, then to 100. Greece carries numbers to 20 with sums to 10 and coins. Sierra Leone carries counting to 100 sung and played, grouped in 10s — teacher evidence, since its Primary set is lesson plans, not a pupil book. Ghana carries the same climb as teacher evidence (counting 1–50, 1–100, in bundles) — its set holds no pupil textbook at all. Kazakhstan carries counting in tens inside forming two-digit numbers. South Africa carries counting checked against real things on beads. Other read countries teach counting inside their own Grade 1 books and join by merge.** Laos carries the whole primary climb in one series — 1–10 and 0, teens as 10 + n, then counting in tens to 100 with place value in Grade 1, and hundreds in Grade 2. Yemen carries the whole primary climb in one series — 0–10 with zero as the empty set, to 20, to 100, to 1000 in Grade 2, to 10,000 in Grade 3, to 999,999 in Grade 4, to hundreds of millions in Grade 5 and billions in Grade 6.
+**Acceptance count: taught in 9 countries (Libya, Greece, Sierra Leone, Ghana, Kazakhstan, South Africa, Laos, Yemen, Indonesia). Libya carries the whole primary climb in one book — 1–10, then to 20, then to 100. Greece carries numbers to 20 with sums to 10 and coins. Sierra Leone carries counting to 100 sung and played, grouped in 10s — teacher evidence, since its Primary set is lesson plans, not a pupil book. Ghana carries the same climb as teacher evidence (counting 1–50, 1–100, in bundles) — its set holds no pupil textbook at all. Kazakhstan carries counting in tens inside forming two-digit numbers. South Africa carries counting checked against real things on beads. Other read countries teach counting inside their own Grade 1 books and join by merge.** Laos carries the whole primary climb in one series — 1–10 and 0, teens as 10 + n, then counting in tens to 100 with place value in Grade 1, and hundreds in Grade 2. Yemen carries the whole primary climb in one series — 0–10 with zero as the empty set, to 20, to 100, to 1000 in Grade 2, to 10,000 in Grade 3, to 999,999 in Grade 4, to hundreds of millions in Grade 5 and billions in Grade 6. Indonesia carries the whole primary climb in one series — counting to 10 and to 20 in Grade 1, to 50 and to 100 in Grade 2, whole numbers to 1,000 in Grade 3 and to 10,000 in Grade 4, then to 100,000 and to 1,000,000 in Grade 5 (reading and writing only at 1,000,000; operations are not extended there).

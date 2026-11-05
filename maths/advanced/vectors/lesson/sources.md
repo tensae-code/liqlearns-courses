@@ -1,6 +1,6 @@
 # Sources — Vectors
 
-countries: Egypt, Jordan, Greece, Vietnam, Libya, Mauritania, Laos, Yemen
+countries: Egypt, Jordan, Greece, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia
 
 Every part traces to its book and page.
 
@@ -22,6 +22,8 @@ Every part traces to its book and page.
 **Book 9:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 10:** *Mathematics, Grade 10 student book (upper-secondary year 5)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2014 (2010 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 11:** *Mathematics, Grade 10 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 12:** *Matematika untuk SMA/SMK Kelas X* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2021, ISBN 978-602-244-526-5. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 13:** *Panduan Guru Matematika Tingkat Lanjut untuk SMA/MA Kelas XI (Edisi Revisi)* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2024, ISBN 978-623-388-339-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED). Teacher-guide evidence for the 2024 TL edition; the held 2021 TL student book is a different edition.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -40,7 +42,9 @@ Every part traces to its book and page.
 | Vector basics, addition and subtraction (triangle and parallelogram rules, Chasles), scalar multiplication, coordinate vectors, dot product | Laos, Grade 9 student book, L30–L34, printed pp. 136–169 |
 | Vectors in space: 3D coordinates, distance, dot product, direction cosines, collinearity and perpendicularity | Laos, Grade 10 student book, L23, printed p. 253 |
 | Vectors; representing operations on vectors geometrically; parallel and perpendicular vectors; the unit vector; the scalar (dot) product | Yemen, Grade 10 Part 2, Unit 9, lessons 9-1–9-5, printed pp. 93–108 |
+| Terminology, 2-D and 3-D vectors, components, position and unit vectors, addition, subtraction, scalar multiplication — vectors exist only in this edition (the 2023 Revisi drops them entirely); no dot product named here | Indonesia, Grade 10 Merdeka, Bab 3, printed pp. 63–94 |
+| Vectors in the plane, dot product, geometric proofs (guide evidence for the 2024 TL edition — the held 2021 TL student book has no vectors chapter) | Indonesia, Grade 11 TL teacher guide (Edisi Revisi 2024), Bab 4, printed pp. 175–208 |
 
-**Acceptance count: taught in 8 countries (Egypt, Jordan, Greece, Vietnam, Libya, Mauritania, Laos, Yemen).** Egypt carries vectors from directed segments and the parallelogram rule to 3-D vectors with dot and cross products; Jordan carries plane vectors with the dot product and space vectors with lines in space; Greece carries the orientation group's vector chapter with the inner product; Vietnam carries plane vectors with the dot product and space vectors with coordinates; Libya carries plane vectors with the scalar product; Mauritania carries vector calculus in two chapters.
+**Acceptance count: taught in 9 countries (Egypt, Jordan, Greece, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia).** Egypt carries vectors from directed segments and the parallelogram rule to 3-D vectors with dot and cross products; Jordan carries plane vectors with the dot product and space vectors with lines in space; Greece carries the orientation group's vector chapter with the inner product; Vietnam carries plane vectors with the dot product and space vectors with coordinates; Libya carries plane vectors with the scalar product; Mauritania carries vector calculus in two chapters. Indonesia carries vectors in Grade 10 Merdeka — 2-D and 3-D vectors with components, position and unit vectors, addition, subtraction and scalar multiplication — and, as guide evidence for the newer TL edition, plane vectors with the dot product in the Grade 11 TL guide; the Revisi drops vectors entirely and the held TL student book has none.
 
 **Honest limit:** Libya's vectors are plane vectors only — no 3-D vector work — and Sierra Leone's JSS never teaches vectors or matrices. This lesson says so where it matters. Laos carries vectors from plane vectors with the dot product in Grade 9 to vectors in space with 3D coordinates, distance and direction cosines in Grade 10. Yemen carries vectors whole in Grade 10 — vectors, geometric operations, parallel and perpendicular vectors, the unit vector and the dot product.

@@ -1,6 +1,6 @@
 # Sources — Rounding-and-estimating
 
-countries: Jordan, Vietnam, Armenia, Egypt, South Africa, Greece, Laos, Yemen
+countries: Jordan, Vietnam, Armenia, Egypt, South Africa, Greece, Laos, Yemen, Indonesia
 
 Every part traces to its book and page.
 
@@ -19,6 +19,10 @@ Every part traces to its book and page.
 **Book 13:** *Mathematics, Grade 5 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 14:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 15:** *Matematika untuk SD/MI Kelas I* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Dara Retno Wulan and Rasfaniwaty, 2022, ISBN 978-602-244-877-8. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 16:** *Matematika untuk SD/MI Kelas II* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Dara Retno Wulan and Rasfaniwaty, 2022, ISBN 978-602-427-915-8. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 17:** *Matematika untuk SMP/MTs Kelas VII* (Kurikulum Merdeka) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Dicky Susanto, Savitri Sihombing, Marianna Magdalena Radjawane, Ambarsari Kusuma Wardani, Theja Kurniawan, Yulian Candra, Sinta Mulyani, 2022, ISBN 978-602-244-883-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Rounding numbers (L7) | Jordan, Grade 2 Student Book Term 1, p.34 |
@@ -36,5 +40,8 @@ Every part traces to its book and page.
 | Rounding numbers within 10,000 to the nearest ten, hundred and thousand | Yemen, Grade 3 Part 1, Unit 1, lesson 1-6, printed p. 20 |
 | Rounding (تدوير) within 999,999 and estimating all four operations by rounding | Yemen, Grade 4 Part 1, Unit 1, lesson 5:1, printed p. 28; Unit 2, lessons 3:2 and 7:2, printed pp. 44 and 55; Unit 3, lesson 8:3, printed p. 92; Unit 4, lesson 8:4, printed p. 129 |
 | Rounding within hundreds of millions and estimating addition, subtraction, multiplication and division | Yemen, Grade 5 Part 1, Unit 1, lesson 1-5, printed p. 27; Unit 2, lesson 2-6, printed p. 49; Unit 3, lessons 3-4 and 3-9, printed pp. 69 and 86; Grade 6 Part 1, Unit 1, lesson 1-5, printed p. 24 |
+| Estimating (numbers 11–20) | Indonesia, Grade 1 student book, printed pp. 145–174 |
+| Estimating, tens | Indonesia, Grade 2 student book, printed pp. 191–224 |
+| Estimating to place values, estimating rational-number operations | Indonesia, Grade 7 Merdeka student book, Ch. 2, printed pp. 35–82 |
 
-**Acceptance count: taught in 8 countries (Jordan, Vietnam, Armenia, Egypt, South Africa, Greece, Laos, Yemen). Jordan carries rounding as its own Grade 2 lesson and prints the estimate-first move inside regrouping. Vietnam carries rounding from tens and hundreds in Grade 3 to thousands and ten-thousands in Grade 4. Armenia carries rounding a natural number to a given place in Grade 3. Egypt carries estimating by place value before solving in Grade 2. South Africa revises rounding to the nearest 5, 10 and 100 in Grade 6. Greece carries estimation strategies for numbers to 20,000 in Grade 4. Other read countries teach rounding inside their own Grade 3–6 books and join by merge.** Laos carries rounding and estimating as its own Grade 4 chapter — approximate numbers and estimating sums — and continues it with estimating quotients and rounding decimal quotients in Grade 5. Yemen carries rounding from estimating sums and differences within 1000 in Grade 2, through rounding to the nearest ten, hundred and thousand within 10,000, to rounding within 999,999 and estimating all four operations.
+**Acceptance count: taught in 9 countries (Jordan, Vietnam, Armenia, Egypt, South Africa, Greece, Laos, Yemen, Indonesia). Jordan carries rounding as its own Grade 2 lesson and prints the estimate-first move inside regrouping. Vietnam carries rounding from tens and hundreds in Grade 3 to thousands and ten-thousands in Grade 4. Armenia carries rounding a natural number to a given place in Grade 3. Egypt carries estimating by place value before solving in Grade 2. South Africa revises rounding to the nearest 5, 10 and 100 in Grade 6. Greece carries estimation strategies for numbers to 20,000 in Grade 4. Other read countries teach rounding inside their own Grade 3–6 books and join by merge.** Laos carries rounding and estimating as its own Grade 4 chapter — approximate numbers and estimating sums — and continues it with estimating quotients and rounding decimal quotients in Grade 5. Yemen carries rounding from estimating sums and differences within 1000 in Grade 2, through rounding to the nearest ten, hundred and thousand within 10,000, to rounding within 999,999 and estimating all four operations. Indonesia carries estimating — in Grade 1 (numbers 11–20) and Grade 2 (to 100), and estimating to place values for rational-number operations in Grade 7 (Merdeka). No named rounding-to-a-place topic is filed for Indonesia: estimation for integer operations in Grade 7 Merdeka is a keyword only, so this lesson is partial for Indonesia.

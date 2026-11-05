@@ -1,6 +1,6 @@
 # Sources — Circle theorems
 
-countries: Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen
+countries: Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia
 
 Every part traces to its book and page.
 
@@ -36,6 +36,10 @@ Education, English title page issued 2013. Filed in
 maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 **Book 8:** *Mathematics, Grade 8 student book (secondary year 3)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2012. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 9:** *Mathematics, Grade 9 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 10:** *Matematika untuk SMA/SMK Kelas XI* (student book) — Indonesia, Dicky Susanto et al., Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2021, ISBN 978-602-244-789-5. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 11:** *Matematika untuk SMA/MA/SMK/MAK Kelas XI (Edisi Revisi)* (student book) — Indonesia, Dicky Susanto et al., Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2024, ISBN 978-623-388-329-0. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 12:** *Matematika Tingkat Lanjut untuk SMA/MA Kelas XII* (student book) — Indonesia, Wikan Budi Utami, Sri Adi Widodo, Fitria Sulistyowati, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-244-771-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 13:** *Panduan Guru Matematika Tingkat Lanjut untuk SMA/MA Kelas XII (Edisi Revisi)* (teacher guide) — Indonesia, Sri Adi Widodo, Wikan Budi Utami, Fitria Sulistyowati, Atiek Sandrawati, Kementerian Pendidikan Dasar dan Menengah — Pusat Perbukuan, 2025, ISBN 978-634-00-3303-8. Guide-only evidence for the 2025 TL edition; written against a newer student edition than the held 2022 TL student book, never presented as a matched pair. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -52,9 +56,13 @@ maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 | Applications of similarity in the circle: intersecting chords (EA × EB = EC × ED), secants from an outside point, and tangent-secant relations, all deduced from similar triangles | Egypt, Secondary 1 old Term 1, Unit 2 Similarity, 2-4 Applications of similarity in the circle, p.53 |
 | Inscribed and central angles: definitions, inscribed angle subtending an arc, central angle subtending the same arc | Laos, Grade 8 student book, L24, printed pp. 179–196 |
 | The circle; the perpendicular from the centre to a chord; chords; the central angle and arcs; the circular segment; the inscribed angle; the cyclic quadrilateral; the tangent; relative positions of two circles | Yemen, Grade 9 Part 2, Unit 5, lessons 5-1–5-9, printed pp. 7–52 |
+| Circle elements, arc length, tangents, chords, cyclic quadrilaterals, the van Schooten theorem for an equilateral triangle's circumcircle, the Pitot theorem for tangential quadrilaterals | Indonesia, Grade 11 Merdeka 2021 regular student book, Bab 2, printed pp. 45–78 |
+| Arcs, tangents, chords, cyclic quadrilaterals | Indonesia, Grade 11 Revisi 2024 regular student book, Bab 4, printed pp. 177–218 |
+| Circle definition and equation, position of a point/line relative to a circle, tangent-line equations; conic sections (parabola, ellipse, hyperbola) and tangent lines to conics — analytic geometry, not the synthetic theorems | Indonesia, Grade 12 Tingkat Lanjut 2022 student book, Bab 1, printed pp. 1–64 |
+| Circles, ellipses and tangent lines — guide-only evidence for the 2025 TL edition; drops parabola and hyperbola against the held 2022 TL student book, never presented as a matched pair | Indonesia, Grade 12 Tingkat Lanjut Revisi 2025 teacher guide, Bab 1, printed pp. 21–94 (guide evidence) |
 
-**Acceptance count: taught in 8 countries (Kazakhstan, Jordan,
-Armenia, Greece, Vietnam, Egypt, Laos, Yemen).** Kazakhstan carries the
+**Acceptance count: taught in 9 countries (Kazakhstan, Jordan,
+Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia).** Kazakhstan carries the
 fullest treatment — the inscribed-angle theorem with all
 cases, the tangent–chord angle, the inside/outside angle
 theorems, the three segment products, cyclic and circumscribed
@@ -73,4 +81,4 @@ work is sector/arc and solid mensuration only), and Sierra
 Leone's JSS never teaches circle theorems — neither country
 is claimed for this lesson. The lesson stands on its own: six
 countries teach inscribed angles, chords and tangents in
-depth, so no fold was needed. Laos touches circle theorems only in part — inscribed and central angles in Grade 8 — and teaches no further circle theorems. Yemen carries circle theorems whole in Grade 9 — chords, central and inscribed angles, the cyclic quadrilateral, tangents and the relative positions of two circles.
+depth, so no fold was needed. Laos touches circle theorems only in part — inscribed and central angles in Grade 8 — and teaches no further circle theorems. Yemen carries circle theorems whole in Grade 9 — chords, central and inscribed angles, the cyclic quadrilateral, tangents and the relative positions of two circles. Indonesia carries circle theorems whole in Grade 11 — arcs, tangents, chords and cyclic quadrilaterals in both the 2021 Merdeka and 2024 Revisi regular books, with the van Schooten and Pitot theorems in the 2021 book — plus analytic tangent-line equations in the Grade 12 Tingkat Lanjut student book and the 2025 TL guide's circles, ellipses and tangent lines as guide-only evidence for its own edition. Honest negative: Grade 9 teaches circle circumference, area, arc and sector but not circle theorems, tangents or chords — those come in Grade 11.

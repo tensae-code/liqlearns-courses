@@ -1,6 +1,6 @@
 # Sources — Percentages
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia
 
 Every part traces to its book and page.
 
@@ -105,6 +105,10 @@ READ + CITATION CHECK PASSED 2026-11-04).
 **Book 19:** *Mathematics, Grade 7 student book (secondary year 2)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2011. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 20:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 21:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 22:** *Matematika untuk SD/MI Kelas IV* (Mathematics, Grade 4 student book) — Indonesia, Hobri, Susanto, Arika Indah Kristiana, Arif Fatahillah, Eko Waluyo, Ridho Alfarisi, Haris Setiya Budi, Moh. Iqbal Helmi, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Kurikulum Merdeka 2022, ISBN 978-602-244-908-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
+**Book 23:** *Matematika untuk SMP/MTs Kelas VII* (Mathematics, Grade 7 student book, Kurikulum Merdeka) — Indonesia, Dicky Susanto, Savitri Sihombing, Marianna Magdalena Radjawane, Ambarsari Kusuma Wardani, Theja Kurniawan, Yulian Candra, Sinta Mulyani, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2022, ISBN 978-602-244-883-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
+**Book 24:** *Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* (Mathematics, Grade 10 student book, Revised edition) — Indonesia, Dicky Susanto, Theja Kurniawan, Savitri K. Sihombing, Eunice Salim, Marianna Magdalena Radjawane, Ummy Salmah, Ambarsari Kusuma Wardani, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2023, ISBN 978-623-118-558-7. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
+**Book 25:** *Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)* (Mathematics, Grade 12 student book, Revised edition) — Indonesia, Mohammad Tohir, Ahmad Choirul Anam, Ibnu Taufiq, Tista Imam Riyadi, Kementerian Pendidikan Dasar dan Menengah, 2025, ISBN 978-634-00-3118-8. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -123,10 +127,15 @@ READ + CITATION CHECK PASSED 2026-11-04).
 | Percentages and interest: simple interest I = PTR/100, compound A = P(1+r)^n, instalments | Laos, Grade 9 student book, L7, printed p. 32 |
 | Percentage as a ratio with second term 100 (25%, 5%, 50%, 75%, 12%); converting a ratio to a percentage and back | Yemen, Grade 6 Part 1, Unit 4, lessons 4-2–4-3, printed pp. 124–128 |
 | Profit and loss; zakat as a percentage application (1/40 = 2.5%) | Yemen, Grade 6 Part 1, Unit 4, lessons 4-4–4-5, printed pp. 132–136 |
+| Hundredths decimals linked to percent — the only percent link in the primary books | Indonesia, Grade 4 student book, Bab 2, printed pp. 55–84 |
+| Percent only as an application, never formally taught — financial literacy: exchange, discounts, BMI | Indonesia, Grade 7 Merdeka student book, Ch. 2, printed pp. 35–82 |
+| Interest — simple and compound — new in this edition | Indonesia, Grade 10 Revisi student book, Bab 2, printed pp. 35–70 |
+| Simple interest; investment and loans — simple interest rate, compound-interest investment, annuity investment, compound-interest loans, loans with annuities | Indonesia, Grade 12 Revisi student book, Bab 1 (simple interest), printed pp. 1–34; Bab 2, printed pp. 35–80 |
+| Indonesia's honest limit (stated, not forced): percent is never formally taught as a concept anywhere in the set — Grade 4 links hundredths decimals to percent, Grade 7 uses percent only as an application, and the percent work that exists is interest in Grades 10 and 12 Revisi | Indonesia — filed in maths/books/indonesia.md |
 
-**Acceptance count: taught in 13 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 14 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen).** Kazakhstan defines percent as 1/100
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia).** Kazakhstan defines percent as 1/100
 and finds p% as 1% × p in Grade 4, then carries a full percent
 chapter in Grade 5 — but teaches no percent increase/decrease
 or interest, stated honestly above; Jordan introduces percent
@@ -154,4 +163,4 @@ Grade 5 and ratio and percentage problems in Grade 6; Ghana
 teaches percent only as teacher-manual evidence (B4's percent
 from decimal fractions); South Africa teaches percentages with
 fractions and decimals in Grade 6, percentage increase and
-decrease in Grade 7, and percentage problems in Grade 8. Laos carries percentages from % of a quantity with interest tables in Grade 5, through the x/100 rule and successive discounts in Grade 6, to simple and compound interest in Grade 9. Yemen carries percentages whole in Grade 6 — percentage as a ratio out of 100, converting ratios to percentages and back, profit and loss, and zakat as a percentage application (1/40 = 2.5%).
+decrease in Grade 7, and percentage problems in Grade 8. Laos carries percentages from % of a quantity with interest tables in Grade 5, through the x/100 rule and successive discounts in Grade 6, to simple and compound interest in Grade 9. Yemen carries percentages whole in Grade 6 — percentage as a ratio out of 100, converting ratios to percentages and back, profit and loss, and zakat as a percentage application (1/40 = 2.5%). Indonesia carries percentages only in part — hundredths decimals linked to percent in Grade 4, percent only as an application (discounts) in Grade 7 Merdeka, and simple and compound interest in Grades 10 and 12 Revisi; percent is never formally taught as a concept anywhere in the set.

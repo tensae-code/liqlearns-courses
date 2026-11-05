@@ -1,6 +1,6 @@
 # Sources — Functions
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen
+countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia
 
 Every part traces to its book and page.
 
@@ -65,6 +65,15 @@ CITATION CHECK PASSED 2026-11-05).
 **Book 17:** *Mathematics, Grade 9 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 18:** *Mathematics, Grade 10 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 19:** *Mathematics, Grade 11 student book, science track, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 20:** *Matematika SMP/MTs Kelas VIII Semester 1* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2017, ISBN 978-602-282-987-4. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 21:** *Buku Panduan Guru Matematika untuk SMP/MTs Kelas VIII* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2022, ISBN 978-602-427-902-8. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED). Teacher-guide evidence only: no Merdeka Grade 8 student book is in hand.
+**Book 22:** *Matematika untuk SMA/SMK Kelas X* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2021, ISBN 978-602-244-526-5. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 23:** *Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2023, ISBN 978-623-118-558-7. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 24:** *Matematika untuk SMA/SMK Kelas XI* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2021, ISBN 978-602-244-789-5. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 25:** *Matematika untuk SMA/MA/SMK/MAK Kelas XI (Edisi Revisi)* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2024, ISBN 978-623-388-329-0. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 26:** *Matematika Tingkat Lanjut untuk SMA Kelas XI* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2021, ISBN 978-602-244-770-2. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 27:** *Panduan Guru Matematika Tingkat Lanjut untuk SMA/MA Kelas XI (Edisi Revisi)* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2024, ISBN 978-623-388-339-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED). Teacher-guide evidence for the 2024 TL edition; the held 2021 TL student book is a different edition.
+**Book 28:** *Matematika untuk SMA/SMK/MA Kelas XII* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2022, ISBN 978-602-244-738-2. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -87,9 +96,18 @@ CITATION CHECK PASSED 2026-11-05).
 | Function (a relation where no domain element has two images); the linear function, with a graph | Yemen, Grade 9 Part 1, Unit 1, lessons 1-5 and 1-7, printed pp. 32 and 48 |
 | Mappings, including composition of mappings (lesson 2-5, printed p. 44) — composition is taught here under the mappings name | Yemen, Grade 10 Part 1, Unit 2, lessons 2-1–2-5, printed pp. 27–44 |
 | Real functions, types of functions and their graphs, monotonicity | Yemen, Grade 11 science Part 1, Unit 2, lessons 2-1–2-3, printed pp. 28–53 |
+| Relations in four presentations; functions, domain/codomain/range, five ways of presenting a function, one-to-one correspondences — functions are linear only | Indonesia, Grade 8 K13 Semester 1, Bab 3, printed pp. 71–134 |
+| Sets, relations, functions, one-to-one correspondences (guide evidence — no Merdeka Grade 8 student book in hand) | Indonesia, Grade 8 Merdeka teacher guide, Bab 4, printed pp. 165–214 |
+| Exponential function with growth and decay; quadratic functions | Indonesia, Grade 10 Merdeka, Bab 1, printed pp. 1–32; Bab 6, printed pp. 145–170 |
+| Exponential functions; quadratic equations and functions | Indonesia, Grade 10 Revisi, Bab 1, printed pp. 1–34; Bab 5, printed pp. 129–176 |
+| Composition of functions and inverse functions; injective/surjective/bijective functions, inverses and the domain/range swap | Indonesia, Grade 11 Merdeka, Bab 1, printed pp. 1–44 |
+| Composition of functions and inverse functions; transformations of functions — shifts, reflections, stretches/compressions, modelling | Indonesia, Grade 11 Revisi, Bab 2, printed pp. 81–128; Bab 3, printed pp. 129–176 |
+| Trigonometric functions, logarithmic functions, algebraic functions | Indonesia, Grade 11 Tingkat Lanjut, Bab 5, printed pp. 231–314 |
+| Trigonometric functions (unit circle, graphs, identities, sine rule, cosine rule); logarithmic, algebraic and non-algebraic functions (guide evidence for the 2024 TL edition — the held 2021 TL student book is a different edition) | Indonesia, Grade 11 TL teacher guide (Edisi Revisi 2024), Bab 3, printed pp. 115–174; Bab 6, printed pp. 239–288 |
+| Transformations of functions: translation, reflection, dilation, rotation and combinations of function transformations | Indonesia, Grade 12 Merdeka, Bab 1, printed pp. 1–48 |
 
-**Acceptance count: taught in 8 countries (Egypt, Jordan,
-Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen).** Egypt carries the
+**Acceptance count: taught in 9 countries (Egypt, Jordan,
+Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia).** Egypt carries the
 fullest build — Cartesian product, relation, function, domain
 and range in Preparatory 3; the sign of a function in
 Secondary 1; the inverse function in Grade 11 Pure. Jordan
@@ -109,4 +127,4 @@ Mauritania enters from 5AS. Composite functions are taught
 here as the books' function work put together (two functions
 in a row, inside-out) — the word "composite" is the lesson's
 own label for that book-taught operation, and the inverse is
-taught from Egypt's Grade 11 lesson, not invented. Laos carries functions from mappings and linear and affine functions in Grade 8, through quadratic functions in Grade 9, to the full function course — relations, constant, linear, quadratic, cubic, root, rational, exponential, logarithmic, trigonometric, hyperbolic and inverse functions — in Grades 10–12. Yemen carries functions from the function and the linear function in Grade 9, through mappings — including composition of mappings, taught under the mappings name — in Grade 10, to real functions, their types and monotonicity in Grade 11 science.
+taught from Egypt's Grade 11 lesson, not invented. Laos carries functions from mappings and linear and affine functions in Grade 8, through quadratic functions in Grade 9, to the full function course — relations, constant, linear, quadratic, cubic, root, rational, exponential, logarithmic, trigonometric, hyperbolic and inverse functions — in Grades 10–12. Yemen carries functions from the function and the linear function in Grade 9, through mappings — including composition of mappings, taught under the mappings name — in Grade 10, to real functions, their types and monotonicity in Grade 11 science. Indonesia carries functions from relations and linear functions in Grade 8, through exponential and quadratic functions in Grade 10, to composition and inverses and transformations of functions in Grades 11–12, with trigonometric, logarithmic and algebraic functions in Grade 11 Tingkat Lanjut. Note: Indonesia teaches NO function composition or inverses in Grade 10 — composition is taught in Grade 11 — so the lesson's 'composite functions' label rests on Grade 11 teaching, as with Yemen's Grade 10 mappings; Grade 8 functions are linear only, and piecewise functions are not a named topic in the held books.

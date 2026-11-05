@@ -1,6 +1,6 @@
 # Sources — Decimals
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia
 
 Every part traces to its book and page.
 
@@ -121,6 +121,9 @@ READ + CITATION CHECK PASSED 2026-11-04).
 **Book 23:** *Mathematics, Grade 4 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 24:** *Mathematics, Grade 5 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 25:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 26:** *Matematika untuk SD/MI Kelas IV* (Mathematics, Grade 4 student book) — Indonesia, Hobri, Susanto, Arika Indah Kristiana, Arif Fatahillah, Eko Waluyo, Ridho Alfarisi, Haris Setiya Budi, Moh. Iqbal Helmi, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Kurikulum Merdeka 2022, ISBN 978-602-244-908-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
+**Book 27:** *Matematika untuk SD/MI Kelas VI* (Mathematics, Grade 6 student book) — Indonesia, Dicky Susanto, Savitri Sihombing, Ambarsari Kusuma Wardani, Ummy Salmah, Eunice Salim, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Kurikulum Merdeka 2022, ISBN 978-602-427-917-2. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
+**Book 28:** *Matematika untuk SMP/MTs Kelas VII* (Mathematics, Grade 7 student book, Kurikulum Merdeka) — Indonesia, Dicky Susanto, Savitri Sihombing, Marianna Magdalena Radjawane, Ambarsari Kusuma Wardani, Theja Kurniawan, Yulian Candra, Sinta Mulyani, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2022, ISBN 978-602-244-883-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -139,10 +142,14 @@ READ + CITATION CHECK PASSED 2026-11-04).
 | The decimal fraction (1/10 = 0.1), comparing and ordering, adding and subtracting decimals | Yemen, Grade 4 Part 2, Unit 6, lessons 1:6–4:6, printed pp. 54–73 |
 | Reading and writing decimals, rounding decimals, all four operations, converting an ordinary fraction to a decimal (5/8 = 0.625) | Yemen, Grade 5 Part 2, Unit 6, lessons 6-1–6-7, printed pp. 52–87 |
 | Adding, subtracting, multiplying and dividing decimals, estimating results | Yemen, Grade 6 Part 1, Unit 3, lessons 3-2–3-5, printed pp. 85–103 |
+| Tenths and hundredths decimals, hundredths decimals linked to percent | Indonesia, Grade 4 student book, Bab 2, printed pp. 55–84 |
+| Converting fractions to decimals; comparing and ordering decimals to one decimal place — but NO decimal operations (+/−/×/÷) | Indonesia, Grade 6 student book, Ch. 1, printed pp. 1–44 |
+| Rational numbers, terminating vs repeating decimals, fraction and decimal operations, estimating to place values | Indonesia, Grade 7 Merdeka student book, Ch. 2, printed pp. 35–82 |
+| Indonesia's honest limit (stated, not forced): Grade 5 teaches no decimals as a topic of their own — decimals appear only as money notation | Indonesia, Grade 5 student book — filed in maths/books/indonesia.md |
 
-**Acceptance count: taught in 13 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 14 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen).** Kazakhstan carries the fullest decimal
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia).** Kazakhstan carries the fullest decimal
 course — reading, converting, comparing, all four operations,
 powers of ten and rounding; Jordan carries tenths and hundredths
 in Grade 4, thousandths with all four operations in Grade 5, and
@@ -164,4 +171,4 @@ in Grade 6; Ghana carries decimals only as teacher-manual
 evidence (B4's tenths and decimal addition/subtraction, B6's
 comparison by long division); South Africa carries first decimals
 as tenths on a metre line in Grade 5, systematic decimals to two
-places in Grade 6, and the full decimal worksheets in Grade 7. Laos carries decimals from tenths and hundredths through litres in Grade 4 (to thousandths, with decimal × whole numbers, in the old Grade 4 book) to full decimal calculation, including decimal ÷ decimal, in Grade 5. Yemen carries decimals from tenths and the decimal point in Grade 4, through rounding and all four operations with fraction-to-decimal conversion, to estimating decimal operations in Grade 6.
+places in Grade 6, and the full decimal worksheets in Grade 7. Laos carries decimals from tenths and hundredths through litres in Grade 4 (to thousandths, with decimal × whole numbers, in the old Grade 4 book) to full decimal calculation, including decimal ÷ decimal, in Grade 5. Yemen carries decimals from tenths and the decimal point in Grade 4, through rounding and all four operations with fraction-to-decimal conversion, to estimating decimal operations in Grade 6. Indonesia carries decimals from tenths and hundredths in Grade 4, through fraction-to-decimal conversion with comparing and ordering (but no decimal operations) in Grade 6, to rational numbers, repeating decimals and decimal operations in Grade 7 Merdeka; Grade 5 teaches no decimals as a topic of their own.

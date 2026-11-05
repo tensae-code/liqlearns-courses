@@ -1,6 +1,6 @@
 # Sources — The-order-of-operations
 
-countries: Egypt, Jordan, Kazakhstan, Armenia, Vietnam, Greece, South Africa, Laos
+countries: Egypt, Jordan, Kazakhstan, Armenia, Vietnam, Greece, South Africa, Laos, Indonesia
 
 Every part traces to its book and page.
 
@@ -17,6 +17,8 @@ Every part traces to its book and page.
 **Book 11:** *Mathematics, Grade 4 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2021. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 12:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 13:** *Mathematics, Grade 6 student book (secondary year 1)* — Laos, Ministry of Education / Institute of Educational Science Research, 2010 (2009 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 14:** *Matematika, Buku Siswa, SMP/MTs Kelas VII, Semester 1* (Kurikulum 2013, Edisi Revisi 2017) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Abdur Rahman As'ari, Mohammad Tohir, Erik Valentino, Zainul Imron, Ibnu Taufiq, 2017, ISBN 978-602-282-985-0. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -35,5 +37,6 @@ Every part traces to its book and page.
 | Calculation principles: order of operations, brackets | Laos, Grade 4 student book (new series), ch. 5, printed p. 46 |
 | Calculations with brackets, order of operations | Laos, Grade 5 student book, L8, printed pp. 16–29 |
 | Order of operations, bracketed expressions, calculation trees and flowcharts | Laos, Grade 6 student book, L10, printed pp. 73–80 |
+| Order of operations | Indonesia, Grade 7 K13 Semester 1 student book, Ch. 1, printed pp. 1–108 |
 
-**Acceptance count: taught in 8 countries (Egypt, Jordan, Kazakhstan, Armenia, Vietnam, Greece, South Africa, Laos). Kazakhstan carries the rule from Grade 1 (brackets) through Grade 4 (first- and second-level operations, brackets first). Armenia carries expressions of different levels and brackets in Grade 4. Egypt carries the order of operations as its own Grade 4 unit. Jordan carries it in Grade 4 and again in Grade 8 with exponents and roots. Vietnam carries it with powers in Grade 6. Greece carries mixed numerical expressions in Grade 5. South Africa spells it out in full as BODMAS in Grade 6. Other read countries teach the order of operations inside their own Grade 2–8 books and join by merge.** Laos carries the order of operations from its own Grade 4 chapter on calculation principles, through bracketed calculations in Grade 5, to bracket rules with calculation trees in Grade 6.
+**Acceptance count: taught in 9 countries (Egypt, Jordan, Kazakhstan, Armenia, Vietnam, Greece, South Africa, Laos, Indonesia). Kazakhstan carries the rule from Grade 1 (brackets) through Grade 4 (first- and second-level operations, brackets first). Armenia carries expressions of different levels and brackets in Grade 4. Egypt carries the order of operations as its own Grade 4 unit. Jordan carries it in Grade 4 and again in Grade 8 with exponents and roots. Vietnam carries it with powers in Grade 6. Greece carries mixed numerical expressions in Grade 5. South Africa spells it out in full as BODMAS in Grade 6. Other read countries teach the order of operations inside their own Grade 2–8 books and join by merge.** Laos carries the order of operations from its own Grade 4 chapter on calculation principles, through bracketed calculations in Grade 5, to bracket rules with calculation trees in Grade 6. Indonesia carries the order of operations in the Grade 7 K13 Semester 1 student book, Ch. 1, printed pp. 1–108. The Grade 7 Merdeka book teaches the four operations on integers and rationals but files no order-of-operations teaching, so only the K13 edition is cited.

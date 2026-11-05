@@ -1,6 +1,6 @@
 # Sources — Ratio and Proportion
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia
 
 Every part traces to its book and page.
 
@@ -89,6 +89,8 @@ CITATION CHECK PASSED 2026-11-04).
 **Book 18:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 19:** *Mathematics, Grade 6 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 20:** *Mathematics, Grade 8 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 21:** *Matematika untuk SD/MI Kelas VI* (Mathematics, Grade 6 student book) — Indonesia, Dicky Susanto, Savitri Sihombing, Ambarsari Kusuma Wardani, Ummy Salmah, Eunice Salim, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Kurikulum Merdeka 2022, ISBN 978-602-427-917-2. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
+**Book 22:** *Matematika untuk SMP/MTs Kelas VII* (Mathematics, Grade 7 student book, Kurikulum Merdeka) — Indonesia, Dicky Susanto, Savitri Sihombing, Marianna Magdalena Radjawane, Ambarsari Kusuma Wardani, Theja Kurniawan, Yulian Candra, Sinta Mulyani, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2022, ISBN 978-602-244-883-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -112,10 +114,13 @@ CITATION CHECK PASSED 2026-11-04).
 | Proportion as equality of two ratios, extremes and means; enlargement and reduction; scale drawing | Yemen, Grade 6 Part 2, Unit 5, lessons 5-1, 5-3–5-4, printed pp. 8, 17–23 |
 | Proportional division, including inheritance as proportional division | Yemen, Grade 6 Part 2, Unit 5, lessons 5-6–5-7, printed pp. 40–43 |
 | Ratio and proportion with Thales' theorem and similarity of triangles | Yemen, Grade 8 Part 2, Unit 6, lessons 6-2, 6-4 and 6-7–6-8, printed pp. 10, 23 and 44–51 |
+| The ratio concept, simplest form, order matters, equivalent ratios via ratio tables, unit ratio, part-to-part and part-to-whole ratios, ratios on time durations — but NO proportion equations / cross-multiplication | Indonesia, Grade 6 student book, Ch. 2, printed pp. 45–74 |
+| Ratio vs difference, equivalent ratios, scale factor, map/plan scale, unit rate, unit-price and density comparisons | Indonesia, Grade 7 Merdeka student book, Ch. 3, printed pp. 83–122 |
+| Indonesia's honest limit (stated, not forced): proportion equations and cross-multiplication are never taught — ratio is taught in full, but proportion appears only as scale factor and unit rate | Indonesia — filed in maths/books/indonesia.md |
 
-**Acceptance count: taught in 13 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 14 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen).** Armenia carries the fullest ratio
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia).** Armenia carries the fullest ratio
 course — ratio, equality of ratios and recipes, cross
 multiplication, direct proportion, map and scale, working
 together; Jordan teaches ratio and equivalent ratios in Grade 6;
@@ -141,4 +146,4 @@ example in Grade 4, ratio tables in Grades 5–6, ratio and rate
 in Grade 7, and ratio and rate again in Grade 9; Kazakhstan
 teaches proportional division in Grade 4 and joint work in
 Grade 5, but no ratio or proportion as such — stated honestly
-above. Laos carries ratio and proportion from proportional tables in Grade 4, through direct and inverse proportion in Grade 5, to ratio, coefficient k, the fourth proportional by cross products and inverse proportion in Grades 6–7. Yemen carries ratio and proportion from ratio in Grade 6 through proportion, enlargement, scale drawing and proportional division (including inheritance), to Thales' theorem and similarity in Grade 8.
+above. Laos carries ratio and proportion from proportional tables in Grade 4, through direct and inverse proportion in Grade 5, to ratio, coefficient k, the fourth proportional by cross products and inverse proportion in Grades 6–7. Yemen carries ratio and proportion from ratio in Grade 6 through proportion, enlargement, scale drawing and proportional division (including inheritance), to Thales' theorem and similarity in Grade 8. Indonesia carries ratio in full — the concept, simplest form, equivalent ratios, unit ratio and part-to-part/part-to-whole ratios in Grade 6, with scale factor, map scale and unit rate in Grade 7 Merdeka — but teaches no proportion equations or cross-multiplication anywhere in the set.

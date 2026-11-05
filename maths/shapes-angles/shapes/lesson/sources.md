@@ -1,6 +1,6 @@
 # Sources — Shapes
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia
 
 Every part traces to its book and page.
 
@@ -106,6 +106,12 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 28:** *Mathematics, Grade 5 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 29:** *Mathematics, Grade 6 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 30:** *Mathematics, Grade 7 student book (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 31:** *Matematika untuk SD/MI Kelas I* (student book) — Indonesia, Dara Retno Wulan and Rasfaniwaty, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-244-877-8. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 32:** *Matematika untuk SD/MI Kelas II* (student book) — Indonesia, Dara Retno Wulan and Rasfaniwaty, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-427-915-8. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 33:** *Matematika untuk SD/MI Kelas IV* (student book) — Indonesia, Hobri et al., Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-244-908-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 34:** *Matematika untuk SD/MI Kelas V* (student book) — Indonesia, Meita Fitrianawati, Ika Surtiani, Ait Istiandaru, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-427-916-5. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 35:** *Matematika untuk SD/MI Kelas VI* (student book) — Indonesia, Dicky Susanto et al., Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-427-917-2. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 36:** *Matematika untuk SMP/MTs Kelas IX* (student book) — Indonesia, Yosep Dwi Kristanto et al., Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-427-918-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -139,10 +145,16 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Triangle, parallelogram and rhombus; drawing a triangle, a parallelogram and a rhombus | Yemen, Grade 5 Part 2, Unit 7, lessons 7-3–7-5, printed pp. 108–118; Unit 8, lessons 8-3–8-5, printed pp. 145–157 |
 | Trapezium, circle, cuboid and cube, right prism, cylinder, pyramid and cone | Yemen, Grade 6 Part 2, Unit 6, lessons 6-3–6-8, printed pp. 65–81 |
 | Polygons, cuboid, prism, cylinder, pyramid and cone | Yemen, Grade 7, Unit 6, lessons 6-1 and 6-3–6-7, printed pp. 226 and 236–249 |
+| Three shapes only — triangle, quadrilateral, curved shape; grouping by shape/colour/size, composing and splitting shapes (no circle as a shape) | Indonesia, Grade 1 student book, shapes, printed pp. 115–144 |
+| Polygons vs non-polygons; triangle/quadrilateral/pentagon/hexagon/circle features, straight vs curved edges, decomposing and composing plane shapes; five solids — cuboid, cube, cylinder, cone, sphere (p. 92) | Indonesia, Grade 2 student book, shapes around us, printed pp. 65–100 |
+| Triangles by sides and by angles including combined types such as obtuse-isosceles; quadrilaterals — square, rectangle, rhombus, kite, parallelogram, trapezium (p. 162, exactly one pair of parallel sides), irregular; regular vs irregular polygons; composing and splitting shapes | Indonesia, Grade 4 student book, Bab 5, printed pp. 139–176 |
+| Triangles by sides and by angles, angle sum 180° by paper tearing; trapezium/parallelogram/rectangle/rhombus/square/kite compared in side/angle/diagonal tables — inclusive trapezium definition, so a parallelogram counts as a trapezium here | Indonesia, Grade 5 student book, Ch. 7, printed pp. 191–234 |
+| Cubes and cuboids: constructing and decomposing cubes, cuboids and their combinations, spatial visualisation, dice nets (no volume or surface area in this chapter) | Indonesia, Grade 6 student book, Ch. 3, printed pp. 75–98 |
+| Classification of solids and nets | Indonesia, Grade 9 student book, Bab 2, printed pp. 41–134 |
 
-**Acceptance count: taught in 13 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 14 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen).** Jordan carries the full sorting ladder
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia).** Jordan carries the full sorting ladder
 — polygons, triangles two ways, then the parallelogram family
 with its special cases. Egypt carries polygons by vertices in
 Grade 3 and the triangle/trapezium/kite sorting in Grade 5.
@@ -159,4 +171,4 @@ quadrilaterals, polygons, squares and rectangles — in Grade 4.
 South Africa carries triangles, polygons and angles in Grade 9.
 Ghana's evidence is teacher-manual only (JICA B5 Lessons 89–91):
 no pupil textbook in Ghana's set teaches shapes, and the lesson
-words Ghana that way throughout. Laos carries shapes from everyday solids and stick-and-tile shapes in Grade 1, through triangles, quadrilaterals and nets in Grades 2–4, to polygons, quadrilateral properties and solid nets in Grade 5 and the full quadrilateral and triangle range in Grades 6–7. Yemen carries shapes from naming solids and plane shapes in Grade 1, through polygons, rectangles, squares and triangles, to parallelograms, rhombuses, trapeziums and the full set of solids in Grades 6–7.
+words Ghana that way throughout. Laos carries shapes from everyday solids and stick-and-tile shapes in Grade 1, through triangles, quadrilaterals and nets in Grades 2–4, to polygons, quadrilateral properties and solid nets in Grade 5 and the full quadrilateral and triangle range in Grades 6–7. Yemen carries shapes from naming solids and plane shapes in Grade 1, through polygons, rectangles, squares and triangles, to parallelograms, rhombuses, trapeziums and the full set of solids in Grades 6–7. Indonesia carries shapes from three shapes only in Grade 1 (triangle, quadrilateral, curved shape — no circle as a shape), through polygons and the five solids in Grade 2, triangles and quadrilaterals including the trapezium in Grade 4, the full quadrilateral comparison with the inclusive trapezium definition in Grade 5, cubes and cuboids treated spatially in Grade 6, to solid classification and nets in Grade 9. Note the two trapezium definitions in Indonesia's own books: Grade 4 defines the trapezium with exactly one pair of parallel sides (p. 162), while Grade 5 uses the inclusive definition under which a parallelogram counts as a trapezium.

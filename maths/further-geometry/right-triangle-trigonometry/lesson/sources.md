@@ -1,6 +1,6 @@
 # Sources — Right-triangle trigonometry
 
-countries: Jordan, Egypt, Sierra Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen
+countries: Jordan, Egypt, Sierra Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia
 
 Every part traces to its book and page.
 
@@ -52,6 +52,8 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 **Book 11:** *Mathematics, Grade 8 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 12:** *Mathematics, Grade 9 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 13:** *Mathematics, Grade 10 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 14:** *Matematika untuk SMA/SMK Kelas X* (student book) — Indonesia, Dicky Susanto et al., Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2021, ISBN 978-602-244-526-5. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 15:** *Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* (student book) — Indonesia, Dicky Susanto et al., Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2023, ISBN 978-623-118-558-7. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -68,9 +70,11 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | The side opposite the 30° angle in a right triangle equals half the hypotenuse | Yemen, Grade 8 Part 2, Unit 7, lesson 7-4, printed p. 77 |
 | Numerical relations in a right triangle; trigonometric ratios for an acute angle; ratios for 30°, 60° and 45° | Yemen, Grade 9 Part 1, Unit 4, lessons 4-1–4-3, printed pp. 165–184 |
 | The directed angle, units of angle measure, trigonometric ratios, solving the right triangle and applications | Yemen, Grade 10 Part 2, Unit 7, lessons 7-1–7-7, printed pp. 41–70 |
+| Right-triangle ratios only — tan first, then sin/cos/tan together, special angles 0°/30°/45°/60°/90°; no sine/cosine rules, no trig functions or graphs | Indonesia, Grade 10 Merdeka 2021 student book, Bab 4, printed pp. 95–124 |
+| Right-triangle ratios, special angles, heights/distances, including the clinometer project (p. 86); no sine/cosine rules and no trigonometric functions/graphs | Indonesia, Grade 10 Revisi 2023 student book, Bab 3, printed pp. 71–106 |
 
-**Acceptance count: taught in 10 countries (Jordan, Egypt, Sierra
-Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen).**
+**Acceptance count: taught in 11 countries (Jordan, Egypt, Sierra
+Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia).**
 Jordan carries the cleanest introduction — ratios from similar
 right triangles, then elevation and depression. Egypt carries
 the special-angle table and tan = sin / cos in Preparatory 3,
@@ -86,4 +90,4 @@ negatives: Libya Grades 5–9 teach no trigonometry at all, and
 South Africa's Grades 7–9 books never teach trigonometry —
 neither country is claimed for this lesson. Sierra Leone's JSS
 never teaches angles of elevation and depression by name; the
-lesson takes that vocabulary from Jordan. Laos carries right-triangle trigonometry whole in Grade 9 — sin, cos and tan with the special-angle table, the complementary-angle identity and the Pythagorean identity. Yemen carries right-triangle trigonometry from the side opposite 30° in Grade 8, through trig ratios for acute angles and for 30°, 45° and 60°, to solving the right triangle in Grade 10.
+lesson takes that vocabulary from Jordan. Laos carries right-triangle trigonometry whole in Grade 9 — sin, cos and tan with the special-angle table, the complementary-angle identity and the Pythagorean identity. Yemen carries right-triangle trigonometry from the side opposite 30° in Grade 8, through trig ratios for acute angles and for 30°, 45° and 60°, to solving the right triangle in Grade 10. Indonesia carries right-triangle ratios only, in both Grade 10 editions — tan first with the special angles 0°/30°/45°/60°/90° in the 2021 Merdeka book, and ratios with heights, distances and the clinometer project in the 2023 Revisi book; neither edition teaches sine/cosine rules or trig functions or graphs.

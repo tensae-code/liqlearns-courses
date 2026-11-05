@@ -1,6 +1,6 @@
 # Sources — Averages and Spread
 
-countries: Egypt, Jordan, Greece, Libya, Vietnam, Sierra Leone, Mauritania, Laos, Yemen
+countries: Egypt, Jordan, Greece, Libya, Vietnam, Sierra Leone, Mauritania, Laos, Yemen, Indonesia
 
 Every part traces to its book and page.
 
@@ -34,6 +34,11 @@ Every part traces to its book and page.
 **Book 17:** *Mathematics, Grade 10 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 18:** *Mathematics, Grade 11 student book, science track, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 19:** *Mathematics, Grade 12 student book, literary track (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 20:** *Buku Panduan Guru Matematika untuk SMP/MTs Kelas VIII* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2022, ISBN 978-602-427-902-8. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED). Teacher-guide evidence only: no Merdeka Grade 8 student book is in hand.
+**Book 21:** *Matematika untuk SMA/SMK Kelas X* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2021, ISBN 978-602-244-526-5. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 22:** *Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2023, ISBN 978-623-118-558-7. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 23:** *Matematika untuk SMA/SMK Kelas XI* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2021, ISBN 978-602-244-789-5. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 24:** *Matematika untuk SMA/MA/SMK/MAK Kelas XI (Edisi Revisi)* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2024, ISBN 978-623-388-329-0. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -57,7 +62,12 @@ Every part traces to its book and page.
 | Arithmetic mean, mode, cumulative frequency, median | Yemen, Grade 9 Part 2, Unit 7, lessons 7-1–7-4, printed pp. 111–129 |
 | Measures of central tendency and measures of dispersion | Yemen, Grade 10 Part 2, Unit 10, lessons 10-2–10-3, printed pp. 117–121 |
 | Correlation and scatter shapes; linear regression | Yemen, Grade 11 science Part 2, Unit 10, lessons 10-2–10-3, printed pp. 127–138; Grade 12 literary, Unit 2, lessons 2-2–2-3, printed pp. 33–43 |
+| Mean, median, mode, range, quartiles, IQR, quartile deviation (guide evidence — no Merdeka Grade 8 student book in hand); the guide repeatedly confuses mode with maximum — the lesson teaches the mode as the most frequent value | Indonesia, Grade 8 Merdeka teacher guide, Bab 6, printed pp. 249–284 |
+| Mode, median and mean including grouped data; quartiles and percentiles including grouped data; IQR; variance and standard deviation including grouped data | Indonesia, Grade 10 Merdeka, Bab 7, printed pp. 171–214 |
+| Quartiles and percentiles (p. 203); variance and standard deviation (Pengayaan, pp. 234–237) | Indonesia, Grade 10 Revisi, Bab 6, printed pp. 177–238 |
+| Scatter diagrams, linear regression by least squares, product-moment correlation, coefficient of determination | Indonesia, Grade 11 Merdeka, Bab 3, printed pp. 79–130 |
+| Scatter, correlation, regression, outliers and their effect on correlation | Indonesia, Grade 11 Revisi, Bab 1, printed pp. 1–80 |
 
-**Acceptance count: taught in 9 countries (Egypt, Jordan, Greece, Libya, Vietnam, Sierra Leone, Mauritania, Laos, Yemen).** Egypt carries the mean as a balance point, median/mode/outliers, the range, and quartiles with the semi-interquartile range; Jordan carries quartiles with the box-and-whisker plot and dispersion for grouped data; Greece carries the full ladder from mean to coefficient of variation in three books; Libya carries the weighted mean and the four dispersion measures; Vietnam carries central tendency and spread for ungrouped and grouped samples; Sierra Leone carries the whole ladder from the JSS mean to the SSS standard deviation and mean deviation; Mauritania carries mean, mean deviation, variance and standard deviation.
+**Acceptance count: taught in 10 countries (Egypt, Jordan, Greece, Libya, Vietnam, Sierra Leone, Mauritania, Laos, Yemen, Indonesia).** Egypt carries the mean as a balance point, median/mode/outliers, the range, and quartiles with the semi-interquartile range; Jordan carries quartiles with the box-and-whisker plot and dispersion for grouped data; Greece carries the full ladder from mean to coefficient of variation in three books; Libya carries the weighted mean and the four dispersion measures; Vietnam carries central tendency and spread for ungrouped and grouped samples; Sierra Leone carries the whole ladder from the JSS mean to the SSS standard deviation and mean deviation; Mauritania carries mean, mean deviation, variance and standard deviation. Indonesia carries averages and spread from mean, median, mode, range, quartiles and IQR in the Grade 8 Merdeka guide, through grouped mean, median, mode, quartiles, percentiles, variance and standard deviation in Grade 10, to regression and correlation in Grade 11. Its Grade 7 Merdeka book teaches NO mean/median/mode, so Indonesia enters this lesson from Grade 8 (guide) and Grade 10.
 
 **Flagged wording, not taught:** Sierra Leone's JSS 3 Term 3 Lesson 124 phrases the frequency-table mean as "add the frequencies given and divide by the total number of rows", with no worked frequency-table example to clarify it. This lesson does not teach that wording: it teaches the correct rule from the same book's Lesson 128 — the estimated mean x̄ = Σfx / Σf, value times frequency, divided by the total frequency. Laos carries averages and spread whole in Grade 9 — mean, mode and median with grouped formulas, and range, variance and standard deviation. Yemen carries averages and spread from the arithmetic mean in Grades 6–7, through mean, mode, cumulative frequency and median in Grade 9 and central tendency and dispersion in Grade 10, to correlation and regression in Grades 11–12.

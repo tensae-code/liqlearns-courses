@@ -1,6 +1,6 @@
 # Sources — Volume and Surface Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia
 
 Every part traces to its book and page.
 
@@ -156,6 +156,8 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 33:** *Mathematics, Grade 6 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 34:** *Mathematics, Grade 7 student book (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 35:** *Mathematics, Grade 8 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 36:** *Matematika untuk SD/MI Kelas IV* (student book) — Indonesia, Hobri et al., Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-244-908-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 37:** *Matematika untuk SMP/MTs Kelas IX* (student book) — Indonesia, Yosep Dwi Kristanto et al., Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-427-918-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -193,10 +195,12 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Lateral and total surface area; volume and capacity; volume | Yemen, Grade 6 Part 2, Unit 7, lessons 7-6–7-8, printed pp. 114–128 |
 | Cuboid, prism, cylinder, volume of the pyramid, volume of the cone | Yemen, Grade 7, Unit 6, lessons 6-3–6-7, printed pp. 236–249 |
 | The pyramid, the cone, volume of the sphere and its surface area | Yemen, Grade 8 Part 2, Unit 8, lessons 8-1–8-3, printed pp. 103–109 |
+| Volume by counting unit cubes, cm³, litre and millilitre conversions, m³ introduced | Indonesia, Grade 4 student book, Bab 4, printed pp. 103–138 |
+| Surface area and volume of flat-faced solids (cube, cuboid, prism, pyramid) and curved solids (cylinder, cone, sphere); effect of scale change on surface area and volume | Indonesia, Grade 9 student book, Bab 2, printed pp. 41–134 |
 
-**Acceptance count: taught in 13 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 14 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen).** Sierra Leone carries the cleanest
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia).** Sierra Leone carries the cleanest
 ladder — cubes, prisms and cylinders by cross-section × height,
 then surface areas by the net, in JSS 2. Egypt carries volume by
 counting unit cubes through V = l × w × h in Grade 5 and the
@@ -219,4 +223,4 @@ Ghana's evidence is teacher-manual only (JICA B5 Lessons 92–100
 and B6 Lessons 88–92, prisms): no pupil textbook in Ghana's set
 teaches volume or surface area, and the lesson words Ghana that
 way throughout. Mauritania's honest limit is stated too: its
-Grade 5 book teaches no volume at all. Laos carries volume and surface area from solids, nets and volume formulas in Grade 5, through prisms, cylinders and spheres in Grade 8, to pyramid and cone surface area and volume in Grade 9 and volumes of revolution in Grade 10. Yemen carries volume and surface area from volumes in Grade 3, through surface area and volume in Grade 6, to volumes of pyramids, cones and spheres in Grades 7–8.
+Grade 5 book teaches no volume at all. Laos carries volume and surface area from solids, nets and volume formulas in Grade 5, through prisms, cylinders and spheres in Grade 8, to pyramid and cone surface area and volume in Grade 9 and volumes of revolution in Grade 10. Yemen carries volume and surface area from volumes in Grade 3, through surface area and volume in Grade 6, to volumes of pyramids, cones and spheres in Grades 7–8. Indonesia carries volume and surface area from volume by counting unit cubes in Grade 4, to surface area and volume of all seven solids — cube, cuboid, prism, pyramid, cylinder, cone, sphere — with the effect of scale change in Grade 9. Honest negative: Grade 6 teaches no volume and no surface area of cubes/cuboids — its solids chapter is purely spatial.

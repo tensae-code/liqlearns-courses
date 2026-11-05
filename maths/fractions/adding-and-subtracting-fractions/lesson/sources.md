@@ -1,6 +1,6 @@
 # Sources — Adding and Subtracting Fractions
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia
 
 Every part traces to its book and page.
 
@@ -122,6 +122,9 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 24:** *Mathematics, Grade 4 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 25:** *Mathematics, Grade 5 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 26:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 27:** *Matematika untuk SD/MI Kelas V* (Mathematics, Grade 5 student book) — Indonesia, Meita Fitrianawati, Ika Surtiani, Ait Istiandaru, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Kurikulum Merdeka 2022, ISBN 978-602-427-916-5. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
+**Book 28:** *Matematika untuk SMP/MTs Kelas VII* (Mathematics, Grade 7 student book, Kurikulum Merdeka) — Indonesia, Dicky Susanto, Savitri Sihombing, Marianna Magdalena Radjawane, Ambarsari Kusuma Wardani, Theja Kurniawan, Yulian Candra, Sinta Mulyani, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2022, ISBN 978-602-244-883-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
+**Book 29:** *Matematika, Buku Siswa, SMP/MTs Kelas VII, Semester 1* (Mathematics, Grade 7 student book, Semester 1, Kurikulum 2013) — Indonesia, Abdur Rahman As'ari, Mohammad Tohir, Erik Valentino, Zainul Imron, Ibnu Taufiq, Kementerian Pendidikan dan Kebudayaan, Edisi Revisi 2017, ISBN 978-602-282-985-0. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-05).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -139,10 +142,14 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 | Adding and subtracting two fractions with the same denominator | Yemen, Grade 3 Part 2, Unit 9, lessons 9-5–9-6, printed pp. 90–92 |
 | Adding and subtracting where one denominator divides the other (1/2 + 1/6 = 4/6) | Yemen, Grade 4 Part 2, Unit 5, lessons 7:5, 8:5 and 10:5, printed pp. 31, 35 and 41 |
 | Adding and subtracting fractions and mixed numbers | Yemen, Grade 5 Part 2, Unit 5, lessons 5-3–5-4, printed pp. 19–24; Grade 6 Part 1, Unit 2, lesson 2-2, printed p. 62 |
+| Adding and subtracting fractions, same and different denominators | Indonesia, Grade 5 student book, Ch. 3, printed pp. 63–104 |
+| Fraction and decimal operations, including adding and subtracting fractions | Indonesia, Grade 7 Merdeka student book, Ch. 2, printed pp. 35–82 |
+| Fraction addition, subtraction, multiplication and division | Indonesia, Grade 7 K13 2017 Semester-1 student book, Ch. 1, printed pp. 1–108 |
+| Indonesia's honest limit (stated, not forced): Grade 4 teaches no fraction addition or subtraction — fractions stop at comparing/ordering, equivalence, decimals and the percent link; and the Grade 5 book's LCM/GCD chapter carries two errors that must never be taught — its GCD example on printed p. 59 gives FPB(75, 150) = 6 (true 75), and both books' glossaries define KPK as "terbesar" (greatest) when KPK is the smallest common multiple | Indonesia, Grade 4 student book, Bab 2, printed pp. 55–84; Grade 5 student book, Ch. 2, printed pp. 29–62 — filed in maths/books/indonesia.md |
 
-**Acceptance count: taught in 13 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 14 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen).** Egypt carries the full arc twice — same
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia).** Egypt carries the full arc twice — same
 denominators in Grade 3, unlike denominators and mixed numbers in
 Grade 5, with estimating as a check; Kazakhstan carries like
 denominators in Grade 4 and unlike denominators with mixed numbers
@@ -159,4 +166,4 @@ mixed numbers in Grade 5; Vietnam carries the full Grade 4 course
 and the Grade 5 unlike-denominator lesson; Ghana carries the work
 only as teacher-manual evidence (B6's "make the denominators the
 same"); South Africa carries adding and subtracting fractions from
-diagrams in Grade 6 Book 1. Laos carries fraction addition and subtraction from same-denominator work in Grade 4, through different denominators via a common denominator in Grade 5, to the full treatment in Grade 7. Yemen carries adding and subtracting fractions from equal denominators in Grade 3, through denominators where one divides the other, to mixed numbers in Grades 5–6.
+diagrams in Grade 6 Book 1. Laos carries fraction addition and subtraction from same-denominator work in Grade 4, through different denominators via a common denominator in Grade 5, to the full treatment in Grade 7. Yemen carries adding and subtracting fractions from equal denominators in Grade 3, through denominators where one divides the other, to mixed numbers in Grades 5–6. Indonesia carries adding and subtracting fractions from same- and different-denominator work in Grade 5, through fraction operations in Grade 7 (Merdeka and K13 editions); Grade 4 teaches no fraction addition or subtraction, and the Grade 5 book's LCM/GCD errors (FPB(75, 150) = 6 on p. 59; KPK glossed as "greatest") are never taught as fact.

@@ -1,6 +1,6 @@
 # Sources — Angles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia
 
 Every part traces to its book and page.
 
@@ -106,6 +106,10 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 25:** *Mathematics, Grade 5 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 26:** *Mathematics, Grade 6 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 27:** *Mathematics, Grade 7 student book (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 28:** *Matematika untuk SD/MI Kelas III* (student book) — Indonesia, Susanto et al., Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-427-935-6. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 29:** *Matematika untuk SD/MI Kelas V* (student book) — Indonesia, Meita Fitrianawati, Ika Surtiani, Ait Istiandaru, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-427-916-5. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 30:** *Matematika untuk SMP/MTs Kelas VII* (student book) — Indonesia, Dicky Susanto et al., Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-244-883-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 31:** *Buku Panduan Guru Matematika untuk SMP/MTs Kelas VII* (teacher guide) — Indonesia, Dicky Susanto et al., Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-244-881-5. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -136,10 +140,14 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Measuring angles; adjacent angles and vertically opposite angles | Yemen, Grade 5 Part 2, Unit 7, lessons 7-1–7-2, printed pp. 99–103 |
 | Alternate, corresponding and co-interior angles; angles on a straight line; sum of a triangle's angles | Yemen, Grade 6 Part 2, Unit 6, lesson 6-2, printed p. 59; Unit 7, lessons 7-4–7-5, printed pp. 104–109 |
 | Types of angles, relations between angles, vertically opposite angles, parallel lines and triangle angles | Yemen, Grade 7, Unit 5, lessons 5-1–5-6, printed pp. 150–182 |
+| What an angle is, non-standard and standard angle measure, drawing angles of a given size, five angle types up to reflex angles, perpendicular and parallel lines | Indonesia, Grade 3 student book, Bab 4, printed pp. 143–194 |
+| Right angles, what an angle is, acute/right/obtuse/straight/full/zero/reflex angles, measuring and drawing with a protractor | Indonesia, Grade 5 student book, Ch. 6, printed pp. 163–190 |
+| Angle relations on intersecting and parallel lines — vertical, corresponding, alternate, same-side, complementary, supplementary | Indonesia, Grade 7 Merdeka student book, Ch. 5, printed pp. 159–184 |
+| Same-side exterior angle pairs stated correctly (α and η, β and θ) — the guide's conclusion corrects the student book's Table 5.2 (p. 167), which lists the alternate exterior pairs again for same-side exterior; teach the guide's correct pairs | Indonesia, Grade 7 Merdeka teacher guide, Bab 5 conclusion, printed p. 191 (guide evidence) |
 
-**Acceptance count: taught in 13 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 14 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen).** Egypt carries the fullest single
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia).** Egypt carries the fullest single
 treatment — the angle kinds, the protractor, complementary and
 supplementary pairs, the transversal's eight angles, and the
 triangle and quadrilateral sums in one Grade 7 unit. Jordan
@@ -158,4 +166,4 @@ Mauritania carries angle recognition in Grade 3 and angles in
 Grade 6. South Africa carries interior angles in Grade 9.
 Ghana's evidence is teacher-manual only (JICA B5 Lessons
 101–102): no pupil textbook in Ghana's set teaches angles, and
-the lesson words Ghana that way throughout. Laos carries angles from identifying them in Grade 3, through protractor measurement in Grade 4, to kinds, vertical angles and triangle and quadrilateral angle sums in Grades 6–7 and inscribed and central angles in Grade 8. Yemen carries angles from the angle defined in Grade 3, through angle types and measuring angles, to alternate, corresponding and co-interior angles and the triangle angle sum.
+the lesson words Ghana that way throughout. Laos carries angles from identifying them in Grade 3, through protractor measurement in Grade 4, to kinds, vertical angles and triangle and quadrilateral angle sums in Grades 6–7 and inscribed and central angles in Grade 8. Yemen carries angles from the angle defined in Grade 3, through angle types and measuring angles, to alternate, corresponding and co-interior angles and the triangle angle sum. Indonesia carries angles from what an angle is and the five angle types in Grade 3, through the full angle kinds with protractor work in Grade 5, to vertical, corresponding, alternate and same-side pairs with complementary and supplementary angles in Grade 7 — with the Grade 7 student book's Table 5.2 error corrected: its same-side exterior pairs are wrong (p. 167) and the guide's correct pairs (α and η, β and θ, p. 191) are taught here.

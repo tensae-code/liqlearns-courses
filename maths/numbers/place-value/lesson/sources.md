@@ -1,6 +1,6 @@
 # Sources — Place-value
 
-countries: Egypt, Armenia, Jordan, Kazakhstan, South Africa, Laos, Yemen
+countries: Egypt, Armenia, Jordan, Kazakhstan, South Africa, Laos, Yemen, Indonesia
 
 Every part traces to its book and page.
 
@@ -22,6 +22,12 @@ Every part traces to its book and page.
 **Book 16:** *Mathematics, Grade 4 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 17:** *Mathematics, Grade 5 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2027/1448H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 18:** *Mathematics, Grade 6 student book, Part 1* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 19:** *Matematika untuk SD/MI Kelas I* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Dara Retno Wulan and Rasfaniwaty, 2022, ISBN 978-602-244-877-8. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 20:** *Matematika untuk SD/MI Kelas II* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Dara Retno Wulan and Rasfaniwaty, 2022, ISBN 978-602-427-915-8. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 21:** *Matematika untuk SD/MI Kelas III* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Susanto, Arika Indah Kristiana, Arif Fatahillah, Eko Waluyo, Ridho Alfarisi, Hobri, 2022, ISBN 978-602-427-935-6. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 22:** *Matematika untuk SD/MI Kelas IV* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Hobri, Susanto, Arika Indah Kristiana, Arif Fatahillah, Eko Waluyo, Ridho Alfarisi, Haris Setiya Budi, Moh. Iqbal Helmi, 2022, ISBN 978-602-244-908-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 23:** *Matematika untuk SD/MI Kelas V* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, Meita Fitrianawati, Ika Surtiani, Ait Istiandaru, 2022, ISBN 978-602-427-916-5. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -45,5 +51,10 @@ Every part traces to its book and page.
 | Expanded form within 10,000 | Yemen, Grade 3 Part 1, Unit 1, lesson 1-3, printed p. 12 |
 | Place value to 999,999, expanded form | Yemen, Grade 4 Part 1, Unit 1, lessons 1:1–3:1, printed pp. 8–19 |
 | Place value to hundreds of millions, then billions | Yemen, Grade 5 Part 1, Unit 1, lessons 1-2–1-3, printed pp. 12–17; Grade 6 Part 1, Unit 1, lesson 1-2, printed p. 12 |
+| Place value, tens and ones (numbers 11–20) | Indonesia, Grade 1 student book, printed pp. 145–174 |
+| Place value, tens and ones, grouping by tens | Indonesia, Grade 2 student book, printed pp. 1–36 |
+| Place value, three-digit numbers | Indonesia, Grade 3 student book, Bab 1, printed pp. 1–74 |
+| Place value to 10,000, composition and decomposition | Indonesia, Grade 4 student book, Bab 1, printed pp. 1–54 |
+| Place value to ten-thousands, then to 1,000,000 | Indonesia, Grade 5 student book, Ch. 1, printed pp. 1–28; Ch. 9, printed pp. 273–308 |
 
-**Acceptance count: taught in 7 countries (Egypt, Armenia, Jordan, Kazakhstan, South Africa, Laos, Yemen). Egypt carries the full climb — ones, tens and hundreds in Grade 2, three-digit place value in Grade 3, big numbers to the milliards in Grade 4. Armenia carries tens and ones in Grade 2 and number classes to millions in Grade 3. Jordan carries place value from Grade 1 ones and tens to Grade 4 hundred-thousands. Kazakhstan carries place-value components with graphic models in Grade 2. South Africa carries hundreds, tens and units boxes in Grades 2–3. Other read countries teach place value inside their own Grade 2–3 books and join by merge.** Laos carries place value from tens-and-ones to 100 in Grade 1, through hundreds, expanded forms and numbers to 100000 in Grades 2–3, to millions and billions in Grade 5. Yemen carries place value from ones and tens in Grade 1 through expanded form to 1000, 10,000 and 999,999, then to hundreds of millions and billions.
+**Acceptance count: taught in 8 countries (Egypt, Armenia, Jordan, Kazakhstan, South Africa, Laos, Yemen, Indonesia). Egypt carries the full climb — ones, tens and hundreds in Grade 2, three-digit place value in Grade 3, big numbers to the milliards in Grade 4. Armenia carries tens and ones in Grade 2 and number classes to millions in Grade 3. Jordan carries place value from Grade 1 ones and tens to Grade 4 hundred-thousands. Kazakhstan carries place-value components with graphic models in Grade 2. South Africa carries hundreds, tens and units boxes in Grades 2–3. Other read countries teach place value inside their own Grade 2–3 books and join by merge.** Laos carries place value from tens-and-ones to 100 in Grade 1, through hundreds, expanded forms and numbers to 100000 in Grades 2–3, to millions and billions in Grade 5. Yemen carries place value from ones and tens in Grade 1 through expanded form to 1000, 10,000 and 999,999, then to hundreds of millions and billions. Indonesia carries place value from tens and ones in Grades 1–2, through three-digit place value in Grade 3 and place value to 10,000 in Grade 4, to ten-thousands and then to 1,000,000 in Grade 5.

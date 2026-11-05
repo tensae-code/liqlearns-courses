@@ -1,6 +1,6 @@
 # Sources — Coordinates and graphs
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos, Yemen
+countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos, Yemen, Indonesia
 
 Every part traces to its book and page.
 
@@ -50,6 +50,10 @@ textbook.
 **Book 15:** *Mathematics, Grade 9 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 16:** *Mathematics, Grade 10 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 17:** *Mathematics, Grade 11 student book, science track, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 18:** *Matematika untuk SD/MI Kelas VI* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2022, ISBN 978-602-427-917-2. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 19:** *Matematika SMP/MTs Kelas VIII Semester 1* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2017, ISBN 978-602-282-987-4. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 20:** *Buku Panduan Guru Matematika untuk SMP/MTs Kelas VIII* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2022, ISBN 978-602-427-902-8. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED). Teacher-guide evidence only: no Merdeka Grade 8 student book is in hand.
+**Book 21:** *Matematika Tingkat Lanjut untuk SMA/MA Kelas XII* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2022, ISBN 978-602-244-771-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -70,10 +74,15 @@ textbook.
 | Distance between two points in general (using Pythagoras); bisecting a straight-line segment | Yemen, Grade 9 Part 2, Unit 6, lessons 6-1–6-2, printed pp. 65–69 |
 | Slope of a straight line; equation of a straight line; distance of a point from a line | Yemen, Grade 10 Part 2, Unit 8, lessons 8-2–8-4, printed pp. 73–83 |
 | Equation of the circle | Yemen, Grade 11 science Part 2, Unit 7, lesson 7-1, printed p. 48 |
+| Location on a grid system, (B,3) notation, routes and horizontal/vertical distances | Indonesia, Grade 6, Ch. 3, printed pp. 75–98 |
+| Cartesian coordinates: position of a point against the axes, the origin and another point; position of a line against the axes | Indonesia, Grade 8 K13 Semester 1, Bab 2, printed pp. 41–70 |
+| Straight-line equations: graphing, gradient, point–gradient and two-point forms, parallel and perpendicular lines | Indonesia, Grade 8 K13 Semester 1, Bab 4, printed pp. 135–188 |
+| Straight-line equations: graphing, gradient, point–gradient and two-point forms (guide evidence — no Merdeka Grade 8 student book in hand) | Indonesia, Grade 8 Merdeka teacher guide, Bab 5, printed pp. 215–248 |
+| Equation of the circle; position of a point/line relative to a circle; tangent-line equations | Indonesia, Grade 12 Tingkat Lanjut, Bab 1, printed pp. 1–64 |
 
-**Acceptance count: taught in 9 countries (Egypt, Jordan,
+**Acceptance count: taught in 10 countries (Egypt, Jordan,
 Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos — Ghana
-as teacher evidence only, Yemen).** South Africa carries the
+as teacher evidence only, Yemen, Indonesia).** South Africa carries the
 plainest gradient teaching — gradient as change in y over
 change in x, with intercepts named, built from tables of
 ordered pairs. Egypt carries the slope rules (m = tan θ,
@@ -89,4 +98,4 @@ teacher manual — worded as teacher evidence. Honest
 negative: South Africa's Grade 9 book has no slope–intercept
 form as a named method and no function notation — the lesson
 takes the named form from Egypt and Kazakhstan, and says so
-here. Laos carries coordinates and graphs from broken-line graphs in Grade 4, through step and line graphs and coordinate enlargement in Grade 5, to ordered pairs, proportion graphs and full straight-line work — slope, parallels, perpendiculars and point-to-line distance — in Grades 7–8. Yemen carries coordinates and graphs from the coordinate system in Grade 7, through axis-parallel then general distance and midpoint, to slope and the equation of a line and the equation of the circle.
+here. Laos carries coordinates and graphs from broken-line graphs in Grade 4, through step and line graphs and coordinate enlargement in Grade 5, to ordered pairs, proportion graphs and full straight-line work — slope, parallels, perpendiculars and point-to-line distance — in Grades 7–8. Yemen carries coordinates and graphs from the coordinate system in Grade 7, through axis-parallel then general distance and midpoint, to slope and the equation of a line and the equation of the circle. Indonesia carries coordinates and graphs from grid locations and (B,3) notation in Grade 6, through Cartesian coordinates and straight-line equations — graphing, gradient, parallel and perpendicular lines — in Grade 8, to the equation of the circle in Grade 12 Tingkat Lanjut; its Grade 8 Merdeka straight-line chapter is guide evidence only, the Merdeka student book not being in hand.

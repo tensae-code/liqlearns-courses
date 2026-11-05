@@ -1,6 +1,6 @@
 # Sources — Circles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia
 
 Every part traces to its book and page.
 
@@ -123,6 +123,11 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 **Book 26:** *Mathematics, Grade 6 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 27:** *Mathematics, Grade 9 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2017/1438H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 28:** *Mathematics, Grade 11 student book, science track, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 29:** *Matematika untuk SD/MI Kelas II* (student book) — Indonesia, Dara Retno Wulan and Rasfaniwaty, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-427-915-8. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 30:** *Matematika untuk SMP/MTs Kelas IX* (student book) — Indonesia, Yosep Dwi Kristanto et al., Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-427-918-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 31:** *Matematika untuk SMA/SMK Kelas XI* (student book) — Indonesia, Dicky Susanto et al., Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2021, ISBN 978-602-244-789-5. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 32:** *Matematika untuk SMA/MA/SMK/MAK Kelas XI (Edisi Revisi)* (student book) — Indonesia, Dicky Susanto et al., Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2024, ISBN 978-623-388-329-0. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 33:** *Matematika untuk SMA/SMK/MA Kelas XII* (student book) — Indonesia, Mohammad Tohir, Ahmad Choirul Anam, Ibnu Taufiq, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-244-738-2. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -154,10 +159,15 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 | The circle, radius defined; circumference and area (C/d ≈ 3.14 = π = 22/7) | Yemen, Grade 6 Part 2, Unit 6, lesson 6-4, printed p. 67; Unit 7, lesson 7-3, printed p. 98 |
 | The circle, chords, central angle and arcs, circular segment, inscribed angle, cyclic quadrilateral, tangent, relative positions of two circles | Yemen, Grade 9 Part 2, Unit 5, lessons 5-1–5-9, printed pp. 7–52 |
 | Equation of the circle, line and circle, equation of the tangent, length of the tangent | Yemen, Grade 11 science Part 2, Unit 7, lessons 7-1–7-4, printed pp. 48–63 |
+| Circle features among plane shapes (triangle/quadrilateral/pentagon/hexagon/circle) | Indonesia, Grade 2 student book, shapes around us, printed pp. 65–100 |
+| The circle — circumference, area, arc length, sector area | Indonesia, Grade 9 student book, Bab 2, printed pp. 41–134 |
+| Circle elements, arc length, tangents, chords, cyclic quadrilaterals | Indonesia, Grade 11 Merdeka 2021 regular student book, Bab 2, printed pp. 45–78 |
+| Arcs, tangents, chords, cyclic quadrilaterals | Indonesia, Grade 11 Revisi 2024 regular student book, Bab 4, printed pp. 177–218 |
+| Arcs and sectors of a circle: circle elements, arc length, sector area, the relationship between central angle, arc length and sector area | Indonesia, Grade 12 Merdeka 2022 regular student book, Bab 2, printed pp. 49–88 |
 
-**Acceptance count: taught in 12 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 13 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Laos, Yemen).** Kazakhstan carries the full climb — circle
+Libya, Vietnam, Laos, Yemen, Indonesia).** Kazakhstan carries the full climb — circle
 parts in Grade 3, circle and disc in Grades 4 and 5, then the
 practical thread-and-glass discovery of pi with C = πD and the
 disc area in Grade 6. Jordan carries the parts in Grade 6 and
@@ -174,4 +184,4 @@ Grade 3. South Africa carries circle area from the radius in
 Grade 8. Ghana is counted separately and honestly: its Basic 8
 curriculum states the diameter–circumference relationship as a
 standard, but no pupil textbook in Ghana's set teaches circles,
-so Ghana is curriculum evidence only, not a teaching country. Laos carries circles from circumference and area with π ≈ 3.14 in Grade 5 (with the book's 87,5 cm² slip corrected to 78.5 cm²), through circle parts and inscribed and central angles in Grades 7–8, to circle equations in Grade 10. Yemen carries circles from the circle and its circumference and area in Grade 6, through the full circle unit in Grade 9, to the equation of the circle and tangents in Grade 11 science.
+so Ghana is curriculum evidence only, not a teaching country. Laos carries circles from circumference and area with π ≈ 3.14 in Grade 5 (with the book's 87,5 cm² slip corrected to 78.5 cm²), through circle parts and inscribed and central angles in Grades 7–8, to circle equations in Grade 10. Yemen carries circles from the circle and its circumference and area in Grade 6, through the full circle unit in Grade 9, to the equation of the circle and tangents in Grade 11 science. Indonesia carries circles from the circle named among plane shapes in Grade 2, through circumference, area, arc length and sector area in Grade 9, to arcs, tangents, chords and cyclic quadrilaterals in Grade 11 (both the 2021 Merdeka and 2024 Revisi regular books) and arcs and sectors in Grade 12. Honest negatives: Grade 1 teaches no circle as a shape, and Grade 5 teaches no circles at all.

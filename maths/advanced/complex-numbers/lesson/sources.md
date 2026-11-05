@@ -1,6 +1,6 @@
 # Sources — Complex Numbers
 
-countries: Egypt, Jordan, Mauritania, Laos, Yemen
+countries: Egypt, Jordan, Mauritania, Laos, Yemen, Indonesia
 
 Every part traces to its book and page.
 
@@ -15,6 +15,7 @@ Every part traces to its book and page.
 **Book 5:** Mathématiques, 7ème AS, sciences de la nature (7AS-D) — Mauritania, Mohameden Ould El Hadi and Mohameden Ould Bah, 122 pp., French, for the 2025–2026 school year. Filed in maths/books/mauritania.md (D11).
 **Book 6:** *Mathematics, Grade 12 student book (upper-secondary year 7)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2016 (2010 curriculum, revised). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 7:** *Mathematics, Grade 12 student book, science track (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 8:** *Matematika Tingkat Lanjut untuk SMA Kelas XI* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2021, ISBN 978-602-244-770-2. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -25,7 +26,8 @@ Every part traces to its book and page.
 | Complex numbers as x + iy with i² = −1; algebraic form, real/imaginary parts, conjugate (worked: z = 1 + 2i → z̄ = 1 − 2i; z = 5i → z̄ = −5i; conjugate of sum/product, symmetry about the real axis) | Mauritania, 7AS-D, Chapter 1, p.9 |
 | Complex numbers: z = a + bi, modulus, conjugate; trigonometric form, De Moivre's formula, nth roots | Laos, Grade 12 student book, L12–L13, printed pp. 120–144 |
 | Complex numbers: the complex number, addition and subtraction, multiplication and division, polar form, powers and roots, solving a second-degree equation | Yemen, Grade 12 science, Unit 1, lessons 1-1–1-6, printed pp. 7–40 |
+| What a complex number is; real/imaginary parts; the complex plane; operations; conjugate; modulus and argument — stops at conjugate/modulus/argument (no De Moivre, no polar-form powers/roots as named topics); the 2024 TL guide drops complex numbers entirely, so no guide evidence is cited | Indonesia, Grade 11 Tingkat Lanjut, Bab 1, printed pp. 1–52 |
 
-**Acceptance count: taught in 5 countries (Egypt, Jordan, Mauritania, Laos, Yemen).** Egypt carries the subject from its first lesson (the imaginary unit, the algebraic form, powers of i) to its Grade 12 finish (trigonometric form, De Moivre, cubic roots of unity); Jordan carries complex numbers, their operations and Argand-plane loci; Mauritania carries complex numbers in two chapters of its C stream and one chapter of its D stream, with conjugates worked in full.
+**Acceptance count: taught in 6 countries (Egypt, Jordan, Mauritania, Laos, Yemen, Indonesia).** Egypt carries the subject from its first lesson (the imaginary unit, the algebraic form, powers of i) to its Grade 12 finish (trigonometric form, De Moivre, cubic roots of unity); Jordan carries complex numbers, their operations and Argand-plane loci; Mauritania carries complex numbers in two chapters of its C stream and one chapter of its D stream, with conjugates worked in full. Indonesia carries complex numbers in Grade 11 Tingkat Lanjut — the algebraic form, the complex plane, operations, conjugate, modulus and argument — but stops there: no trigonometric form, no De Moivre, no polar-form powers or roots.
 
-**Honest limit:** only five of the thirteen read countries teach complex numbers at all. Sierra Leone's SSS never teaches them; Libya has no complex numbers anywhere; Vietnam teaches none; Greece teaches none; Kazakhstan's set tops out at Grade 9; Armenia teaches none; Mauritania's 3AS/4AS streams teach none. This lesson stands on Egypt, Jordan, Mauritania, Laos and Yemen, and says so plainly. Laos carries complex numbers whole in Grade 12 — modulus, conjugate, trigonometric form, De Moivre's formula and nth roots. Yemen carries complex numbers whole in Grade 12 science — operations, polar form, powers and roots, and solving quadratics over the complex numbers.
+**Honest limit:** only six read countries teach complex numbers at all. Sierra Leone's SSS never teaches them; Libya has no complex numbers anywhere; Vietnam teaches none; Greece teaches none; Kazakhstan's set tops out at Grade 9; Armenia teaches none; Mauritania's 3AS/4AS streams teach none. This lesson stands on Egypt, Jordan, Mauritania, Laos, Yemen and Indonesia, and says so plainly. Laos carries complex numbers whole in Grade 12 — modulus, conjugate, trigonometric form, De Moivre's formula and nth roots. Yemen carries complex numbers whole in Grade 12 science — operations, polar form, powers and roots, and solving quadratics over the complex numbers.

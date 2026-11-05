@@ -1,6 +1,6 @@
 # Sources — Measuring
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia
 
 Every part traces to its book and page.
 
@@ -140,6 +140,10 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 33:** *Mathematics, Grade 3 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 34:** *Mathematics, Grade 4 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 35:** *Mathematics, Grade 6 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 36:** *Matematika untuk SD/MI Kelas I* (student book) — Indonesia, Dara Retno Wulan and Rasfaniwaty, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-244-877-8. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 37:** *Matematika untuk SD/MI Kelas II* (student book) — Indonesia, Dara Retno Wulan and Rasfaniwaty, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-427-915-8. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 38:** *Matematika untuk SD/MI Kelas III* (student book) — Indonesia, Susanto et al., Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-427-935-6. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 39:** *Matematika untuk SD/MI Kelas IV* (student book) — Indonesia, Hobri et al., Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-244-908-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -178,10 +182,14 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Units of length, capacity (litre, millilitre) and weight (gram, kilogram); reading the clock; perimeter, area and volumes | Yemen, Grade 3 Part 2, Unit 8, lessons 8-1–8-7, printed pp. 60–72 |
 | Units of length; perimeter of shapes, rectangle and square; area and its units; the Hijri and Gregorian calendars | Yemen, Grade 4 Part 2, Unit 8, lessons 1:8–6:8, printed pp. 116–143 |
 | Perimeter and area of the trapezium; circumference and area of the circle; volume and capacity; speed and distance | Yemen, Grade 6 Part 2, Unit 7, lessons 7-2–7-3 and 7-7–7-9, printed pp. 92–98 and 122–134 |
+| Non-standard length: comparing/ordering length and height, measuring with hand span, footstep, arm span, sticks, pencils, paper clips and 500-rupiah coins as units | Indonesia, Grade 1 student book, non-standard length, printed pp. 197–218 |
+| Weight compared and measured with non-standard units only — marbles, hanger balance, seesaw — and whole-hour time on digital and analogue clocks | Indonesia, Grade 2 student book, measurement, printed pp. 155–190 |
+| Measuring length and weight: metre, centimetre, ruler and tape measure, m–cm conversions, kilogram, gram and ons, choosing scales, kg–g–ons conversions | Indonesia, Grade 3 student book, Bab 3, printed pp. 103–142 |
+| Measuring area by counting unit squares, cm² and m²; volume by counting unit cubes, cm³, litre and millilitre conversions, m³ introduced | Indonesia, Grade 4 student book, Bab 4, printed pp. 103–138 |
 
-**Acceptance count: taught in 13 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 14 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen).** Sierra Leone carries the cleanest
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia).** Sierra Leone carries the cleanest
 single ladder — length, mass and volume distinguished, then the
 three conversion tables in JSS 1. Jordan carries the four
 standard units in one Grade 2 unit (centimetre, metre, gram and
@@ -201,4 +209,4 @@ units in Grade 5. South Africa carries converting mass units
 (4 kg 500 g) in Grade 4 and capacity in Grade 6. Ghana's
 evidence is teacher-manual only (JICA B5 Lessons 92–100):
 no pupil textbook in Ghana's set teaches measuring, and the
-lesson words Ghana that way throughout. Laos carries measuring from direct comparison of length, volume and area in Grade 1, through cm, metres, litres and banknotes in Grades 2–3, to the full metric ladder, mass and capacity units and time calculations in Grades 5–6 — with the old Grade 4 book's conversion slip corrected to 2 m 5 dm = 250 cm. Yemen carries measuring from comparing lengths, weights and capacity in Grade 1, through measuring with units, clock reading and Hijri months, to perimeter, area, volume and speed and distance in Grade 6.
+lesson words Ghana that way throughout. Laos carries measuring from direct comparison of length, volume and area in Grade 1, through cm, metres, litres and banknotes in Grades 2–3, to the full metric ladder, mass and capacity units and time calculations in Grades 5–6 — with the old Grade 4 book's conversion slip corrected to 2 m 5 dm = 250 cm. Yemen carries measuring from comparing lengths, weights and capacity in Grade 1, through measuring with units, clock reading and Hijri months, to perimeter, area, volume and speed and distance in Grade 6. Indonesia carries measuring from non-standard length in Grade 1 (hand spans, footsteps, sticks, coins as units), through non-standard weight and whole-hour time in Grade 2, to standard length and weight with m–cm and kg–g–ons conversions in Grade 3 and area and volume measured by counting unit squares and unit cubes in Grade 4. Honest negatives: Grade 1 teaches no standard units at all, and Grade 2 teaches no standard units and time as whole hours only.

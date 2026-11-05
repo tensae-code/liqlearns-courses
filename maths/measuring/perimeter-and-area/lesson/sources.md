@@ -1,6 +1,6 @@
 # Sources — Perimeter and Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia
 
 Every part traces to its book and page.
 
@@ -165,6 +165,8 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 34:** *Mathematics, Grade 4 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 35:** *Mathematics, Grade 5 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
 **Book 36:** *Mathematics, Grade 6 student book, Part 2* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 37:** *Matematika untuk SD/MI Kelas IV* (student book) — Indonesia, Hobri et al., Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-244-908-9. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 38:** *Matematika untuk SD/MI Kelas V* (student book) — Indonesia, Meita Fitrianawati, Ika Surtiani, Ait Istiandaru, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-427-916-5. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -205,10 +207,12 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Perimeter of shapes, rectangle and square; area and its units; area of the rectangle and the square | Yemen, Grade 4 Part 2, Unit 8, lessons 2:8–5:8, printed pp. 122–134 |
 | Area of the parallelogram, the triangle and the rhombus | Yemen, Grade 5 Part 2, Unit 7, lessons 7-7–7-9, printed pp. 124–131 |
 | Perimeter and area of the trapezium; circumference and area of the circle | Yemen, Grade 6 Part 2, Unit 7, lessons 7-2–7-3, printed pp. 92–98 |
+| Area by counting unit squares, cm² and m², estimating area, drawing shapes of a given area; no "length × width" formula stated; no perimeter ("keliling" never as the mathematical term) | Indonesia, Grade 4 student book, Bab 4, printed pp. 103–138 |
+| Perimeter as the sum of side lengths — triangles, quadrilaterals, polygons, combined shapes; area as size of a region, unit squares, rectangle/square/triangle/parallelogram/trapezium/rhombus/kite areas derived by cutting and rearranging paper shapes, combined shapes, perimeter–area relation | Indonesia, Grade 5 student book, Ch. 4, printed pp. 105–130; Ch. 5, printed pp. 131–162 |
 
-**Acceptance count: taught in 13 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 14 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen).** Sierra Leone carries the cleanest
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia).** Sierra Leone carries the cleanest
 ladder — perimeter short cuts, rectangle and triangle areas with
 the perpendicular-height rule, and the parallelogram, trapezium
 and composite areas in JSS 2. Jordan carries perimeter and area
@@ -228,4 +232,4 @@ Grade 5. South Africa carries perimeter and area across Grades 5,
 7 and 8. Armenia carries rectangle and square area in Grade 5.
 Ghana's evidence is teacher-manual only (JICA B5 Lessons 92–100):
 no pupil textbook in Ghana's set teaches perimeter and area, and
-the lesson words Ghana that way throughout. Laos carries perimeter and area from rectangle and square area in Grade 4, through the full set — rectangle, square, triangle, parallelogram, trapezoid and circle — in Grade 5, to dissection proofs in Grade 7, with the Grade 5 circle-area slip corrected to 78.5 cm². Yemen carries perimeter and area from perimeter and area in Grade 3, through rectangles and squares, to parallelograms, triangles, rhombuses, trapeziums and circles.
+the lesson words Ghana that way throughout. Laos carries perimeter and area from rectangle and square area in Grade 4, through the full set — rectangle, square, triangle, parallelogram, trapezoid and circle — in Grade 5, to dissection proofs in Grade 7, with the Grade 5 circle-area slip corrected to 78.5 cm². Yemen carries perimeter and area from perimeter and area in Grade 3, through rectangles and squares, to parallelograms, triangles, rhombuses, trapeziums and circles. Indonesia carries perimeter and area from area by counting unit squares in Grade 4 — with no "length × width" formula stated and no perimeter taught at all — to perimeter as the sum of side lengths and the full set of shape areas derived by cutting and rearranging in Grade 5.
