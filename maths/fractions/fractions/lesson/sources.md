@@ -1,6 +1,6 @@
 # Sources — Fractions
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq
 
 Every part traces to its book and page.
 
@@ -153,6 +153,12 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 57:** *Primary Mathematics — Pupil's Book 8* — South Sudan, Ministry of General Education and Instruction, ©2018. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 58:** *Secondary Mathematics — Student's Book 1* — South Sudan, Ministry of General Education and Instruction, ©2018, Mountain Top Publishers. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 59:** *Mathematics, Grade 2 student book* — Iraq, Ministry of Education, General Directorate of Curricula, 7th ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
+**Book 60:** *Mathematics, Grade 3 student book* — Iraq, Ministry of Education, General Directorate of Curricula, 6th ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
+**Book 61:** *Mathematics, Grade 4 student book* — Iraq, Ministry of Education, General Directorate of Curricula, 5th ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
+**Book 62:** *Mathematics, Grade 5 student book* — Iraq, Ministry of Education, General Directorate of Curricula, 4th ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
+**Book 63:** *Mathematics, Grade 6 student book* — Iraq, Ministry of Education, General Directorate of Curricula, 3rd ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | A share of a whole; equal parts first; half and quarter; comparing halves and quarters of the same whole | Kazakhstan, Grade 3 Part 2, L41 The notion of a share, p.4; Jordan, Grade 1 Term 2, Unit 9, L1 Congruent (equal) parts p.50, L2 The half p.52, L3 The quarter p.54, L5 Comparing fractions p.58; Greece, Grade 3, Unit 4, ch.22 Introduction to fractions, printed pp.17–28; Sierra Leone, Primary 1 Term 2, L88–92 halves and quarters from pictures and stories (teacher plans) |
@@ -206,10 +212,13 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 | Squares and square roots of fractions | South Sudan, Pupil's Book 7, 1.2 Squares and square roots of fractions and decimals, printed pp. 2–4 |
 | Fraction ↔ percent; decimal ↔ percent | South Sudan, Pupil's Book 8, 1.4–1.5 Conversion of fractions to percentage and percentage to fractions; conversion of decimals to percentage and percentage to decimals, printed pp. 11–14 |
 | Fractions whole: types, comparing, ordering, adding, subtracting, multiplying, dividing, mixed numbers, recurring decimals | South Sudan, Student's Book 1, Unit 1, printed pp. 6–19 |
+| Unit fractions, 2/3 and 3/4; fractions as parts of a group | Iraq, Grade 2 student book, Ch. 9, L1–L4, printed pp. 150–156 |
+| Multiples of unit fractions; equivalent fractions; comparing and ordering fractions; adding and subtracting fractions | Iraq, Grade 3 student book, Ch. 7, L1–L6, printed pp. 116–126; Iraq, Grade 4 student book, Ch. 7, L1–L6, printed pp. 116–131 (fractions on the number line, equivalence, comparing/ordering, adding/subtracting, mixed numbers) |
+| Decimals and fractions; fraction operations | Iraq, Grade 5 student book, Ch. 5 L1, p. 80 (seen: 23/10 = 2 3/10 = 2.3), Ch. 6 L1, p. 102 (seen: 3/8 + 1/3 = 17/24); Iraq, Grade 6 student book, Ch. 3, printed pp. 56–71 (fraction operations) |
 
-**Acceptance count: taught in 17 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 18 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan).** Kazakhstan carries the first share on
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq).** Iraq carries fractions from unit fractions, 2/3 and 3/4 in Grade 2, through multiples of unit fractions, equivalence, comparing and ordering and adding and subtracting in Grades 3–4, to decimals and fractions with fraction operations in Grades 5–6. Kazakhstan carries the first share on
 clock faces and the full Grade 5 fraction course with the
 comparing and part-of-a-number rules; Jordan carries the youngest
 path (halves and quarters only in Grade 1, then the full first

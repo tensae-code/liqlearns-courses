@@ -1,6 +1,6 @@
 # Sources — Pythagoras
 
-countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan
+countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq
 
 Every part traces to its book and page.
 
@@ -94,6 +94,9 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 **Book 26:** *Secondary Mathematics — Student's Book 2* — South Sudan, Ministry of General Education and Instruction, ©2018, Mountain Top Publishers. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 27:** *Secondary Mathematics — Teacher's Guide 2* (teacher guide) — South Sudan, Ministry of General Education and Instruction, ©2018. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 28:** *Mathematics, Grade 8 student book* — Iraq, Ministry of Education, General Directorate of Curricula, rev. 5th ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
+**Book 29:** *Mathematics, Grade 9 student book* — Iraq, Ministry of Education, General Directorate of Curricula, rev. 4th ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Pythagoras' theorem and its converse (3-2, printed 70–77): finding a side; the converse; classifying triangles by angles from side lengths (acute, right or obtuse by comparing squares); Get Ready: a 13-foot ladder against a wall; Unit Three Activity: a Pythagoras practical (printed 104) | Egypt, Grade 8 Term 1, Unit 3, 3-2, printed pp.70–77, 104 |
@@ -124,11 +127,12 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 | Pythagoras' theorem — 6-8-10; the ladder: 24 m wall, 7 m out → 25 m | South Sudan, Primary Mathematics — Pupil's Book 8, Unit 3 §3.1, printed pp. 53–55 |
 | Proving Pythagoras' theorem — "Proof 2" and "Proof 3" sketched as learner tasks | South Sudan, Secondary Mathematics — Student's Book 2, printed pp. 26–27 |
 | Bhaskara's proofs of Pythagoras' theorem (teacher evidence) | South Sudan, Secondary Mathematics — Teacher's Guide 2, printed pp. 19–20 (teacher evidence) |
+| Applications of Pythagoras' theorem — positive/negative square roots, converse of Pythagoras, representing irrationals on the number line | Iraq, Grade 8 student book, Ch2 L2-4 applications of Pythagoras' theorem p.41 |
+| Pythagoras used inside trigonometric ratios | Iraq, Grade 9 student book, Ch4 L4-6 trigonometric ratios p.106, Example 2: (8k)² + (15k)² — the book misprints 15² as 255; correct 225, and (AC)² = 289k², sin A = 15/17, cos A = 8/17 are correct (teach corrected) |
 
-
-**Acceptance count: taught in 14 countries (Egypt, Greece,
+**Acceptance count: taught in 15 countries (Egypt, Greece,
 Armenia, Kazakhstan, Vietnam, Sierra Leone, Libya, Mauritania,
-South Africa, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan).** Egypt carries the fullest single treatment —
+South Africa, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq).** Egypt carries the fullest single treatment —
 the theorem, its converse, classifying triangles by comparing
 squares, the 13-foot ladder and a Pythagoras practical in Grade
 8. Sierra Leone carries the cleanest ladder in JSS 3 — the
@@ -153,4 +157,4 @@ a tool in Grade 9 coordinate geometry and names the Pythagorean
 identity in Grade 9 trigonometry, but teaches it as a topic in
 no held book — the Grade 7 and Grade 8 books state its absence
 explicitly. The brief's claim that Jordan teaches Pythagoras in
-depth is corrected here against the filing: Jordan does not. Laos carries Pythagoras as an area proof in Grade 8 and uses it again, applied twice, to derive distance in three dimensions in Grade 10. Indonesia carries Pythagoras as guide-only evidence — the Grade 8 Merdeka teacher guide teaches the theorem, triples, special right triangles and applications (Bab 2, pp. 87–130), but no Merdeka Grade 8 student book is in hand, so it is worded as guide evidence throughout, like Ghana's teacher-manual evidence. Nicaragua carries Pythagoras whole in Grade 9 — the theorem proved by area dissection, finding hypotenuse and legs, and the cone, pyramid, space-diagonal and triangle/hexagon-area applications — and uses it again in Grade 10 trigonometry and for distance in the plane in Grade 11. Honest negative: the converse of Pythagoras' theorem is not taught as a named topic, and no Pythagorean triples are taught as a topic. Ethiopia carries Pythagoras in Grades 8 and 9 — Euclid's theorem with Pythagoras and its converse proved, the 10 m ladder, and Pythagoras used inside circle problems in Grade 8, and right-angled triangles with Pythagoras and its converse and locating √2, √3, √5… by Pythagoras construction in Grade 9. Grade 7's Green Legacy problem uses 5-12-13 as a known triple, not as a teaching of Pythagoras, and Grades 1–6 teach no Pythagoras. South Sudan carries Pythagoras' theorem from Grade 7 (a² + b² = c², the 3-4-5 check, hypotenuse 13 from 5 and 12), through Grade 8 (6-8-10 and the 24 m wall, 7 m out, 25 m ladder), to Secondary 2, where the proofs are left as learner tasks ("Proof 2"/"Proof 3") and the Teacher's Guide supplies Bhaskara's proofs (pp. 19–20, teacher evidence).
+depth is corrected here against the filing: Jordan does not. Laos carries Pythagoras as an area proof in Grade 8 and uses it again, applied twice, to derive distance in three dimensions in Grade 10. Indonesia carries Pythagoras as guide-only evidence — the Grade 8 Merdeka teacher guide teaches the theorem, triples, special right triangles and applications (Bab 2, pp. 87–130), but no Merdeka Grade 8 student book is in hand, so it is worded as guide evidence throughout, like Ghana's teacher-manual evidence. Nicaragua carries Pythagoras whole in Grade 9 — the theorem proved by area dissection, finding hypotenuse and legs, and the cone, pyramid, space-diagonal and triangle/hexagon-area applications — and uses it again in Grade 10 trigonometry and for distance in the plane in Grade 11. Honest negative: the converse of Pythagoras' theorem is not taught as a named topic, and no Pythagorean triples are taught as a topic. Ethiopia carries Pythagoras in Grades 8 and 9 — Euclid's theorem with Pythagoras and its converse proved, the 10 m ladder, and Pythagoras used inside circle problems in Grade 8, and right-angled triangles with Pythagoras and its converse and locating √2, √3, √5… by Pythagoras construction in Grade 9. Grade 7's Green Legacy problem uses 5-12-13 as a known triple, not as a teaching of Pythagoras, and Grades 1–6 teach no Pythagoras. South Sudan carries Pythagoras' theorem from Grade 7 (a² + b² = c², the 3-4-5 check, hypotenuse 13 from 5 and 12), through Grade 8 (6-8-10 and the 24 m wall, 7 m out, 25 m ladder), to Secondary 2, where the proofs are left as learner tasks ("Proof 2"/"Proof 3") and the Teacher's Guide supplies Bhaskara's proofs (pp. 19–20, teacher evidence). Iraq carries Pythagoras in Grade 8 — applications of the theorem with its converse and irrationals on the number line — and uses it again inside trigonometric ratios in Grade 9, with the book's 15² = 255 misprint corrected to 225.

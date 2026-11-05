@@ -1,6 +1,6 @@
 # Sources — Percentages
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq
 
 Every part traces to its book and page.
 
@@ -126,6 +126,9 @@ READ + CITATION CHECK PASSED 2026-11-04).
 **Book 40:** *Secondary Mathematics — Student's Book 1* — South Sudan, Ministry of General Education and Instruction, ©2018, Mountain Top Publishers. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 41:** *Secondary Mathematics — Student's Book 2* — South Sudan, Ministry of General Education and Instruction, ©2018, Mountain Top Publishers. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 42:** *Mathematics, Grade 6 student book* — Iraq, Ministry of Education, General Directorate of Curricula, 3rd ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
+**Book 43:** *Mathematics, Grade 7 student book* — Iraq, Ministry of Education, General Directorate of Curricula, rev. 6th ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Percent means "out of 100"; 1/100 = 1%; finding 1%, then p% as 1% × p | Kazakhstan, Grade 4 Part 3, Section 3B, L106 Percents p.87 (the "Remember!" box stating 1/100 = 1% is on p.88), L107 Percents p.90, L108 Percents consolidation p.93; Jordan, Grade 5 Term 2, Unit 6, L8 Percent p.33; Egypt, Grade 6 Term 2, Unit 10, L7–11 pp.45–62 (exploring percent on 100-grids); Greece, Grade 5 Teuxos B, Unit 5, ch.31 The percent concept, printed pp.21–22; Armenia, Grade 6, Ch.3 §3.1 Absolute and relative comparisons p.72, §3.3 Percent p.79; Sierra Leone, JSS 1 Term 1, L36–37 Part of 100, printed pp.95–98; Sierra Leone, Primary 5 Term 3, L138 Percent as part of 100, printed p.43 (teacher plans); Ghana, JICA B4 teacher manual, L74–77 percent from decimal fractions, "cent means 100" (teacher evidence); South Africa, Grade 6 Book 1, ws 14–15 percentages and fractions, percentages and decimals |
@@ -164,10 +167,12 @@ READ + CITATION CHECK PASSED 2026-11-04).
 | Fractions ↔ percent; decimals ↔ percent | South Sudan, Pupil's Book 8, 1.4–1.5 Conversion of fractions to percentage and percentage to fractions; conversion of decimals to percentage and percentage to decimals, printed pp. 11–14 |
 | Percentages; percentage profit and loss | South Sudan, Student's Book 1, Unit 1, printed pp. 21–27 |
 | Compound interest as applied percentages | South Sudan, Student's Book 2, compound interest, printed pp. 13–16 |
+| Percent and fractions | Iraq, Grade 6 student book, Ch. 5 L2, p. 103 |
+| Percent and estimating it; profit and proportional division | Iraq, Grade 7 student book, Ch. 2 L2-3, p. 41 (percent and estimating it), L2-4, p. 45 (profit and proportional division) |
 
-**Acceptance count: taught in 17 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 18 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan).** Kazakhstan defines percent as 1/100
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq).** Iraq carries percentages only in part — percent and fractions in Grade 6 (Ch. 5 L2, p. 103) and percent in use in Grade 7, estimating percent and profit with proportional division (Ch. 2 L2-3–L2-4, pp. 41–45); percent is never formally taught as a concept on its own, and there is no percent increase/decrease or discount work. Kazakhstan defines percent as 1/100
 and finds p% as 1% × p in Grade 4, then carries a full percent
 chapter in Grade 5 — but teaches no percent increase/decrease
 or interest, stated honestly above; Jordan introduces percent

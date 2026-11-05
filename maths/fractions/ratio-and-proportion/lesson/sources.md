@@ -1,6 +1,6 @@
 # Sources — Ratio and Proportion
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq
 
 Every part traces to its book and page.
 
@@ -104,6 +104,11 @@ CITATION CHECK PASSED 2026-11-04).
 **Book 33:** *Primary Mathematics — Pupil's Book 7* — South Sudan, Ministry of General Education and Instruction (no © line, ISBN or author printed; same 2018 series). Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 34:** *Secondary Mathematics — Student's Book 1* — South Sudan, Ministry of General Education and Instruction, ©2018, Mountain Top Publishers. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 35:** *Mathematics, Grade 6 student book* — Iraq, Ministry of Education, General Directorate of Curricula, 3rd ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
+**Book 36:** *Mathematics, Grade 7 student book* — Iraq, Ministry of Education, General Directorate of Curricula, rev. 6th ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
+**Book 37:** *Mathematics, Grade 9 student book* — Iraq, Ministry of Education, General Directorate of Curricula, rev. 4th ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
+**Book 38:** *Mathematics, Grade 10 Literary student book* — Iraq, Ministry of Education, General Directorate of Curricula, 14th ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a ratio is; order matters; recipes | Armenia, Grade 6, Ch.2 §2.1 Ratio p.44, §2.2 Equality of ratios, recipes p.50; Jordan, Grade 6 Term 2, Unit 6, L1 Ratio p.46 (6 glasses of orange juice per jug); Egypt, Grade 6 Term 2, Unit 9, L1 Ratio pp.16–18 (tape diagrams, double number lines; paint mixer 6 yellow : 4 red vs 9 yellow : 6 red); Greece, Grade 6, Unit 3, chs 30–39, printed pp.75–94 (ratio, equivalent ratios, proportions, cross products, direct and inverse proportion, rule of three); Sierra Leone, JSS 1 Term 2, L46 Ratio, printed p.2; Libya, Grade 5, Unit 7, finding a ratio — 2 chocolate cakes and 1 orange cake, ratio 2:1 and 1:2, printed pp.109–130; Ghana, JICA B6 teacher manual, L57–70 ratios and proportion — banku mixing, 4 cups cornmeal, 2 cups cassava, 6 cups water (teacher evidence); South Africa, Grade 4 Book 1, ws 61 ratio (picture/example only) |
@@ -143,10 +148,14 @@ CITATION CHECK PASSED 2026-11-04).
 | Ratio as comparison; scaling ratios | South Sudan, Pupil's Book 4, 1.5 Ratio, printed pp. 22–24 |
 | Ratio and proportion by the unitary method | South Sudan, Pupil's Book 6, 1.5 Ratios and proportion, printed pp. 15–17; South Sudan, Pupil's Book 7, 1.4 Ratios and proportions using the unitary method, printed pp. 5–6 |
 | Proportion | South Sudan, Student's Book 1, Unit 1 (Natural numbers, factors and proportion), printed pp. 1–27 |
+| Ratio and rate; proportion; solving proportions; scale drawing | Iraq, Grade 6 student book, Ch. 5 L1, p. 100 (seen: 3 yellow fish out of 20 → ratio 3:20; 60 km in 3 hours → unit rate 20 km/h), L3–L5, printed pp. 106–112 |
+| Direct and inverse proportion | Iraq, Grade 7 student book, Ch. 2 L2-5, p. 49 |
+| Proportion and measurement in triangles (Thales) | Iraq, Grade 9 student book, Ch. 5 L5-3, p. 120 |
+| Variation: direct y = kx, inverse y = k/x, joint | Iraq, Grade 10 Literary student book, Ch. 1, 1-5 Variation (Ch. 1, pp. 5–23; ex. 15, p. 21; ex. 16) |
 
-**Acceptance count: taught in 17 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 18 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan).** Armenia carries the fullest ratio
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq).** Iraq carries ratio and proportion from ratio and rate in Grade 6 (3:20; 60 km in 3 hours → unit rate 20 km/h), through proportion, solving proportions and scale drawing (Ch. 5 L3–L5), to direct and inverse proportion in Grade 7 (Ch. 2 L2-5, p. 49), proportion and measurement in triangles (Thales) in Grade 9 (Ch. 5 L5-3, p. 120), and variation — direct y = kx, inverse y = k/x, joint — in Grade 10 Literary (Ch. 1, 1-5). Armenia carries the fullest ratio
 course — ratio, equality of ratios and recipes, cross
 multiplication, direct proportion, map and scale, working
 together; Jordan teaches ratio and equivalent ratios in Grade 6;

@@ -1,6 +1,6 @@
 # Sources — Adding and Subtracting Fractions
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq
 
 Every part traces to its book and page.
 
@@ -137,6 +137,10 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 39:** *Primary Mathematics — Pupil's Book 5* — South Sudan, Ministry of General Education and Instruction, ©2018, Mountain Top Publishers. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 40:** *Secondary Mathematics — Student's Book 1* — South Sudan, Ministry of General Education and Instruction, ©2018, Mountain Top Publishers. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 41:** *Mathematics, Grade 3 student book* — Iraq, Ministry of Education, General Directorate of Curricula, 6th ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
+**Book 42:** *Mathematics, Grade 4 student book* — Iraq, Ministry of Education, General Directorate of Curricula, 5th ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
+**Book 43:** *Mathematics, Grade 5 student book* — Iraq, Ministry of Education, General Directorate of Curricula, 4th ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Same denominators: add/subtract the numerators, keep the denominator; the piece never changes size | Egypt, Grade 3 Term 2, Ch.9, Adding Two Fractions with the Same Denominator p.58, Subtracting Two Fractions with the Same Denominator p.61; Kazakhstan, Grade 4 Part 3, L110–111 Adding/subtracting fractions, pp.100, 103; Jordan, Grade 4 Term 2, Unit 6, conceptual activity: adding and subtracting like fractions p.13, L2 Adding and subtracting like fractions p.14; Sierra Leone, Primary 3 Term 3, L133 Adding like fractions p.32, L134 Subtracting like fractions p.34 (teacher plans) |
@@ -170,10 +174,12 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 | Same denominators: add/subtract the numerators, keep the denominator; the piece never changes size | South Sudan, Pupil's Book 4, 1.4 Addition and subtraction of fractions, printed pp. 18–22 |
 | Different denominators: make them the same first, with the LCM; 1/12 + 2/3 = 9/12 = 3/4 | South Sudan, Pupil's Book 5, 1.7 Adding and subtracting fractions using LCM, printed pp. 21–23 |
 | Adding and subtracting fractions, same and different denominators | South Sudan, Student's Book 1, Unit 1, printed pp. 6–16 |
+| Adding and subtracting fractions with the same denominator | Iraq, Grade 3 student book, Ch. 7 L5–L6, printed pp. 124–126; Iraq, Grade 4 student book, Ch. 7 L4–L5, printed pp. 125–128 |
+| Adding and subtracting fractions with unlike denominators; adding and subtracting mixed numbers | Iraq, Grade 5 student book, Ch. 6 L1, p. 102 (seen: 3/8 + 1/3 = 9/24 + 8/24 = 17/24), L2, p. 105 (contents pp. 4–5; lesson opener pinned — see maths/books/iraq.md) |
 
-**Acceptance count: taught in 17 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 18 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan).** Egypt carries the full arc twice — same
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq).** Iraq carries adding and subtracting fractions from same-denominator work in Grades 3–4 (G3 Ch. 7 L5–L6; G4 Ch. 7 L4–L5), through adding and subtracting fractions with unlike denominators in Grade 5 (3/8 + 1/3 = 17/24, p. 102) and mixed numbers (Ch. 6 L2, p. 105); Grade 6's fraction chapter teaches multiplying and dividing only, so it is not cited here. Egypt carries the full arc twice — same
 denominators in Grade 3, unlike denominators and mixed numbers in
 Grade 5, with estimating as a check; Kazakhstan carries like
 denominators in Grade 4 and unlike denominators with mixed numbers

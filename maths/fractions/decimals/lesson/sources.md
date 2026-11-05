@@ -1,6 +1,6 @@
 # Sources — Decimals
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq
 
 Every part traces to its book and page.
 
@@ -146,6 +146,10 @@ READ + CITATION CHECK PASSED 2026-11-04).
 **Book 48:** *Primary Mathematics — Pupil's Book 8* — South Sudan, Ministry of General Education and Instruction, ©2018. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 49:** *Secondary Mathematics — Student's Book 1* — South Sudan, Ministry of General Education and Instruction, ©2018, Mountain Top Publishers. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 50:** *Mathematics, Grade 4 student book* — Iraq, Ministry of Education, General Directorate of Curricula, 5th ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
+**Book 51:** *Mathematics, Grade 5 student book* — Iraq, Ministry of Education, General Directorate of Curricula, 4th ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
+**Book 52:** *Mathematics, Grade 6 student book* — Iraq, Ministry of Education, General Directorate of Curricula, 3rd ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Tenths, hundredths, thousandths; place value; reading decimals aloud | Jordan, Grade 4 Term 2, Unit 7, L1 Tenths p.33, L2 Hundredths p.38, L3 Decimal numbers p.42; Egypt, Grade 5 Term 1, Unit 1, L1 Decimals to the Thousandths Place pp.3–6, L2 Place Value Shuffle pp.7–10, L3 Composing and Decomposing Decimals pp.11–14; Kazakhstan, Grade 5, Ch.4 §4.1 The decimal fraction; reading and writing decimals, p.16; Libya, Grade 4, Ch.9, Understanding tenths p.8, hundredths p.13, thousandths p.18; Vietnam, Grade 5 Volume 1, Theme 2, Bài 10 The decimal concept p.32 |
@@ -188,10 +192,13 @@ READ + CITATION CHECK PASSED 2026-11-04).
 | Fractions ↔ decimals; when a fraction can become a decimal exactly | South Sudan, Pupil's Book 5, 1.8 Fractions and decimals, printed pp. 23–26; South Sudan, Pupil's Book 6, 1.4 Decimals, fractions and percentage conversions, printed pp. 9–15 |
 | Squares and square roots of decimals | South Sudan, Pupil's Book 7, 1.2 Squares and square roots of fractions and decimals, printed pp. 2–4; South Sudan, Pupil's Book 8, 1.3 Squares and square roots of decimals and fractions, printed pp. 9–10 |
 | Fractions, percentages and decimals; recurring decimals | South Sudan, Student's Book 1, Unit 1, printed pp. 16–19 |
+| Tenths and hundredths; comparing and ordering decimals; converting between common and decimal fractions | Iraq, Grade 4 student book, Ch. 8, L1–L4, printed pp. 142–151 (4/5 = 8/10 = 0.8; 7/5 = 1.4; 9/25 = 0.36) |
+| Decimals to thousandths; comparing, ordering and rounding decimals; converting between decimals, common fractions and mixed numbers | Iraq, Grade 5 student book, Ch. 5 L1, p. 80 (seen: 1 mm = 0.001 m; 23/10 = 2.3), L2, p. 82 (opener pinned); L3–L6, pp. 86–95 (contents pp. 4–5; lesson pages not individually opened — see maths/books/iraq.md) |
+| Decimal operations: multiplying and dividing decimals, by whole numbers and by decimals | Iraq, Grade 6 student book, Ch. 4, L1–L6, printed pp. 74–89 (patterns in multiplying/dividing decimals; decimal × whole number; decimal × decimal; decimal ÷ whole number; dividing by a decimal); Iraq, Grade 5 student book, Ch. 6 L3, p. 108 (contents pp. 4–5; lesson page not individually opened) |
 
-**Acceptance count: taught in 17 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 18 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan).** Kazakhstan carries the fullest decimal
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq).** Iraq carries decimals from tenths and hundredths with comparing and converting in Grade 4 (4/5 = 0.8), through decimals to thousandths with comparing, ordering, rounding and converting in Grade 5, to decimal multiplication and division — by whole numbers and by decimals — in Grade 6 (Ch. 4, pp. 74–97). Kazakhstan carries the fullest decimal
 course — reading, converting, comparing, all four operations,
 powers of ten and rounding; Jordan carries tenths and hundredths
 in Grade 4, thousandths with all four operations in Grade 5, and
