@@ -1,0 +1,146 @@
+# Sources — Percentages
+
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana
+
+Every part traces to its book and page.
+
+**Book 1:** *Mathematics*, Grade 4, Part 3 (student book) —
+Kazakhstan, Akpaeva, Lebedeva, Mynzhasarova, Likhobabenko,
+Almatykitap, 2020 revised edition. Filed in
+maths/books/kazakhstan.md (G4-S3 section, FULLY READ +
+CITATION CHECK PASSED 2026-11-04).
+
+**Book 2:** *Mathematics*, Grade 5, Parts 1–2 (student book) —
+Kazakhstan, Aldamuratova, Baysholanova, Baysholanov, Atamura,
+2017, set ISBN 978-601-306-734-6. Filed in
+maths/books/kazakhstan.md (Grade 5 WORK 1 section, FULLY READ +
+CITATION CHECK PASSED 2026-11-04).
+
+**Book 3:** *Mathematics*, Grade 5, Student Book, Term 2 —
+Jordan, National Center for Curriculum Development (NCCD),
+HarperCollins, 2nd edition 2022, ISBN 978-9923-41-374-6. Filed
+in maths/books/jordan.md (W3 section, FULLY READ + CITATION
+CHECK PASSED 2026-11-03).
+
+**Book 4:** *Mathematics*, Grade 6, Student Book, Term 2 —
+Jordan, NCCD, HarperCollins, 2nd edition 2022. Filed in
+maths/books/jordan.md (W9 section, FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
+**Book 5:** *Math Term 2* (Primary 6, Student Edition) — Egypt,
+Ministry of Education and Technical Education, with Discovery
+Education, 2025–2026 (English edition year rests on the Arabic
+parallel, 2025–2026). Filed in maths/books/egypt.md (Work 4
+section, FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 6:** *Μαθηματικά Ε΄ Δημοτικού*, Teuxos A and B
+(Mathematics, Grade 5, Books A and B) — Greece, Vryonis,
+Doucakis, Karakosta, Baralis, Stavrou, ITYE «Diophantos», set
+ISBN 978-960-06-5659-6; Teuxos A ISBN 978-960-06-5661-9. Filed
+in maths/books/greece.md (W4 section, FULLY READ + CITATION
+CHECK PASSED 2026-11-04).
+
+**Book 7:** *Μαθηματικά Στ΄ Δημοτικού* (Mathematics, Grade 6,
+pupil book) — Greece, Kassoti, Kliapis, Oikonomou, ITYE
+«Diophantos», code 0-10-0169, ISBN 978-960-06-2634-6. Filed in
+maths/books/greece.md (W7 section, FULLY READ + CITATION CHECK
+PASSED 2026-11-04).
+
+**Book 8:** *Մաթեմատիկա, 6-րդ դասարանի դասագիրք* (Mathematics,
+Grade 6 textbook) — Armenia, Smbat Gogyan, Varduhi Badalyan,
+Ashkhen Arakelyan, Qarakusi foundation, Yerevan, 2024, ISBN
+978-9939-1-1843-7. Filed in maths/books/armenia.md (G6-W1
+section, FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 9:** *Lesson Plans for Primary Mathematics*, Primary 5
+(teacher lesson plans) — Sierra Leone, Ministry of Education,
+Science and Technology. Filed in maths/books/sierra-leone.md
+(Band B section, FULLY READ + CITATION CHECK PASSED 2026-11-04).
+Teacher evidence only: there is no pupil textbook in this record.
+
+**Book 10:** *Pupils' Handbook for JSS Mathematics — JSS 1, Term 1*
+(pupil handbook) — Sierra Leone, Ministry of Education, Science
+and Technology. Filed in maths/books/sierra-leone.md (Band C,
+JSS 1 Term 1 section, FULLY READ + CITATION CHECK PASSED
+2026-11-04).
+
+**Book 11:** *الرياضيات للسنة الخامسة الابتدائية* (Mathematics,
+Grade 5 student book) — Mauritania, 2022/2023 programme. Filed
+in maths/books/mauritania.md (B3 section, FULLY READ + CITATION
+CHECK PASSED 2026-11-04).
+
+**Book 12:** *الرياضيات للسنة السادسة من التعليم الابتدائي، كتاب
+التلميذ* (Mathematics, Grade 6 student book) — Mauritania.
+Filed in maths/books/mauritania.md (B6 section, FULLY READ +
+CITATION CHECK PASSED 2026-11-04).
+
+**Book 13:** *الرياضيات — للصف السادس من مرحلة التعليم الأساسي*
+(Mathematics, Grade 6 pupil book) — Libya, CERC, school year
+1440–1441 AH / 2019–2020 AD, no ISBN printed. Filed in
+maths/books/libya.md (Band C section, FULLY READ + CITATION
+CHECK PASSED 2026-11-04).
+
+**Book 14:** *Toán 5, Tập Hai* (Mathematics 5, Volume 2) and
+*Toán 6, Tập Hai* (Mathematics 6, Volume 2) — Vietnam, Kết nối
+tri thức với cuộc sống (NXB Giáo dục Việt Nam), general editor
+Hà Huy Khoái; Grade 5 appraised Decision 1963/QĐ-BGDĐT, 5 July
+2023; Grade 6 student volumes 5th reprint. Filed in
+maths/books/vietnam.md (G5 v2 and G6 v2 sections, FULLY READ +
+CITATION CHECK PASSED 2026-11-04).
+
+**Book 15:** *JICA Primary Mathematics Teacher Manual B4*
+(teacher manual) — Ghana, National STEM Resource Unit (GES)
+with JICA, April 2025. Filed in maths/books/ghana.md (JICA-B4
+section, FULLY READ + CITATION CHECK PASSED 2026-11-04).
+Teacher evidence only: Ghana's set holds no pupil textbook at
+all.
+
+**Book 16:** *Mathematics, Grade 6 Book 1; Grade 7 Book 1;
+Grade 8 Book 1* (Rainbow Workbooks) — South Africa, Department
+of Basic Education, Sixteenth edition 2026. Filed in
+maths/books/south-africa.md (Band B and Band C sections, FULLY
+READ + CITATION CHECK PASSED 2026-11-04).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Percent means "out of 100"; 1/100 = 1%; finding 1%, then p% as 1% × p | Kazakhstan, Grade 4 Part 3, Section 3B, L106 Percents p.87 (the "Remember!" box stating 1/100 = 1% is on p.88), L107 Percents p.90, L108 Percents consolidation p.93; Jordan, Grade 5 Term 2, Unit 6, L8 Percent p.33; Egypt, Grade 6 Term 2, Unit 10, L7–11 pp.45–62 (exploring percent on 100-grids); Greece, Grade 5 Teuxos B, Unit 5, ch.31 The percent concept, printed pp.21–22; Armenia, Grade 6, Ch.3 §3.1 Absolute and relative comparisons p.72, §3.3 Percent p.79; Sierra Leone, JSS 1 Term 1, L36–37 Part of 100, printed pp.95–98; Sierra Leone, Primary 5 Term 3, L138 Percent as part of 100, printed p.43 (teacher plans); Ghana, JICA B4 teacher manual, L74–77 percent from decimal fractions, "cent means 100" (teacher evidence); South Africa, Grade 6 Book 1, ws 14–15 percentages and fractions, percentages and decimals |
+| Fractions, decimals and percents: three writings of one number | Kazakhstan, Grade 5, Ch.6 §6.1 p.111, §6.2 p.117, §6.3 p.124; Jordan, Grade 6 Term 2, Unit 6, L3 Percent and fractions p.59, L4 Percent and decimals p.65; Egypt, Grade 6 Term 2, Unit 10, L7–11 pp.45–62; Greece, Grade 5 Teuxos B, Unit 5, ch.32 Converting percents, printed pp.23–24; Greece, Grade 6, Unit 3, ch.40 Estimating percentages, printed pp.95–96; Armenia, Grade 6, Ch.3 §3.2 Relative comparison and cross multiplication p.77, §3.5 Percent problems p.87; Sierra Leone, JSS 1 Term 1, L38–39 Converting between fractions, decimals and percents, printed pp.100–104; Sierra Leone, Primary 5 Term 3, L139 Converting fractions and decimals to percents, printed pp.45–46 (teacher plans); South Africa, Grade 6 Book 1, ws 14–15; Grade 7 Book 1, WS40 fractions, decimals and percentages |
+| Finding a percentage of a number (1% first, or fraction × number) | Kazakhstan, Grade 4 Part 3, L106–108 pp.87–93 (p% as 1% × p, worked on money, mass and length); Jordan, Grade 6 Term 2, Unit 6, L5 Percent of a number p.70 (a bicycle priced at 50 dinars); Egypt, Grade 6 Term 2, Unit 10, L7–11 pp.45–62; Greece, Grade 6, Unit 3, ch.41 Finding a percentage, printed pp.97–98; Armenia, Grade 6, Ch.3 §3.5 Percent problems p.87; Sierra Leone, JSS 1 Term 1, L40 Percentage of a quantity, printed p.105; Sierra Leone, Primary 5 Term 3, L140 Percent of a quantity, printed p.47 (teacher plans); Libya, Grade 6, Unit 6, percentage of a quantity — a salary of 2,400 dinars a month, spending 25% (600 dinars) and 30% (720 dinars), printed pp.74–111 |
+| Finding the whole; finding the percentage | Egypt, Grade 6 Term 2, Unit 10, L7–11 pp.45–62 (finding the whole from a part and a percent; finding the percentage from a part and a whole); Greece, Grade 6, Unit 3, ch.42 Finding the initial value, printed pp.99–100, ch.44 Finding the rate, printed pp.103–104; Armenia, Grade 6, Ch.3 §3.4 Finding a whole from a percent p.84, §3.5 Percent problems p.87; Sierra Leone, JSS 1 Term 1, L41 One quantity as a percentage of another, printed p.107, L42 Finding the whole from a percentage, printed p.109; Libya, Grade 6, Unit 7, a quantity as a percentage of another, including centimetres against metres and millilitres against litres, printed pp.74–111 |
+| Increase and decrease; new quantity; successive discounts | Sierra Leone, JSS 1 Term 1, L43 Percentage increase, printed p.111, L44 Percentage decrease and the new quantity, printed p.113 (Hawa's profit rising by 21%); South Africa, Grade 7 Book 1, WS41 percentage increase and decrease; Greece, Grade 6, Unit 3, ch.43 Finding the final value, printed pp.101–102, ch.42 Finding the initial value, printed pp.99–100; Armenia, Grade 6, Ch.3 §3.6 Further percent work p.90; Egypt, Grade 6 Term 2, Unit 10, L7–11 pp.45–62 (successive-discount question) |
+| Money: discount, tax, tip | Egypt, Grade 6 Term 2, Unit 10, L7–11 pp.45–62 (a lunch bill of 340 LE with 5% tax = 17 LE and 15% tip = 51 LE, total 408 LE); Libya, Grade 6, Units 5–7, a 15% computer discount, printed pp.74–111; Jordan, Grade 6 Term 2, Unit 6, L5 Percent of a number p.70 (discount on a 50-dinar bicycle); Sierra Leone, Primary 5 Term 3, L141–145 Percent in money problems, printed pp.49–58 (teacher plans); Sierra Leone, JSS 1 Term 1, L45 Percent with money, printed p.115 |
+| Vietnam's percent path: ratio first, then percent problems | Vietnam, Grade 5 Volume 2, Theme 7, Bài 36 Ratio p.4, Bài 40 Percentage ratio p.18, Bài 41 Finding the percentage value of a number p.21; Grade 6 Volume 2, Bài 31 Ratio and percentage problems p.38 |
+| Mauritania's percent teaching (small, stated honestly) | Mauritania, Grade 5, percentage p.109; Grade 6, percentage and proportionality p.79 |
+| Kazakhstan's honest limit (stated, not forced) | Kazakhstan, Grade 4 Part 3, L106–108: no percent increase/decrease or interest — filed in maths/books/kazakhstan.md (G4-S3 methods note) |
+
+**Acceptance count: taught in 11 countries (Kazakhstan, Jordan,
+South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
+Libya, Vietnam, Ghana).** Kazakhstan defines percent as 1/100
+and finds p% as 1% × p in Grade 4, then carries a full percent
+chapter in Grade 5 — but teaches no percent increase/decrease
+or interest, stated honestly above; Jordan introduces percent
+as a fraction of 100 in Grade 5 and teaches percent with
+fractions, with decimals, of a number and discount in Grade 6;
+Egypt teaches the whole percent unit — exploring percent,
+conversions, finding a percentage, finding the whole, finding
+the percentage, and tax, tip and discount applications — in
+Grade 6 Term 2; Greece teaches the percent concept and
+conversions in Grade 5 and estimating, finding a percentage,
+final value, initial value and rate in Grade 6; Armenia teaches
+the percent chapter — absolute and relative comparisons, the
+percent itself, finding a whole from a percent, percent problems
+and further percent work — in Grade 6; Sierra
+Leone teaches percent as part of 100 with conversions and
+percent of a quantity in Primary 5 (teacher plans), and part of
+100, conversions, percent of a quantity, one quantity as a
+percent of another, increase, decrease, new quantity and money
+in JSS 1; Mauritania teaches percent briefly in Grade 5 and
+with proportionality in Grade 6; Libya teaches percentage,
+converting fractions to percent, percent of a quantity, and a
+quantity as a percent of another in Grade 6; Vietnam teaches
+percent ratio and finding the percent value of a number in
+Grade 5 and ratio and percentage problems in Grade 6; Ghana
+teaches percent only as teacher-manual evidence (B4's percent
+from decimal fractions); South Africa teaches percentages with
+fractions and decimals in Grade 6, percentage increase and
+decrease in Grade 7, and percentage problems in Grade 8.
