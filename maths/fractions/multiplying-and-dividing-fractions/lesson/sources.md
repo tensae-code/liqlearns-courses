@@ -1,6 +1,6 @@
 # Sources — Multiplying and Dividing Fractions
 
-countries: Kazakhstan, Jordan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq
+countries: Kazakhstan, Jordan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh
 
 Every part traces to its book and page.
 
@@ -109,6 +109,10 @@ only: Ghana's set holds no pupil textbook at all.
 **Book 31:** *Mathematics, Grade 5 student book* — Iraq, Ministry of Education, General Directorate of Curricula, 4th ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
 **Book 32:** *Mathematics, Grade 6 student book* — Iraq, Ministry of Education, General Directorate of Curricula, 3rd ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 33:** *Elementary Mathematics, Class Five* — Bangladesh, NCTB, first edition August 2012, revised August 2015, prescribed from academic year 2013 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
+**Book 34:** *Mathematics, Class Six* — Bangladesh, NCTB, first publication December 2022, National Curriculum 2022, experimental version, from academic year 2023 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
+**Book 35:** *Mathematics, Class Seven* — Bangladesh, NCTB, first published December 2022, National Curriculum 2022, experimental version, from academic year 2023 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Fraction × whole number as repeated addition; fraction of a set | Kazakhstan, Grade 5, Ch.3 §3.11 Multiplying fractions and mixed numbers, p.195 (fraction × natural as repeated addition); Egypt, Grade 5 Term 2, Unit 9, L1 Multiplying a Fraction or Mixed Number by a Whole Number, pp.28–29; Sierra Leone, Primary 4 Term 2, L81–90 Multiplication of Like, Related and Proper Fractions, printed pp.45–64 (teacher plans); Libya, Grade 5, Unit 6, Product of a fraction by a whole number p.91, Fraction of a set (Grade 4, Ch.8) p.114 |
@@ -141,10 +145,13 @@ only: Ghana's set holds no pupil textbook at all.
 | Dividing fractions: multiply by the reciprocal; the rule derived from a rectangle | South Sudan, Student's Book 1, Unit 1, printed pp. 6–16 |
 | Multiplying common fractions; multiplying mixed numbers | Iraq, Grade 5 student book, Ch. 6 L4, p. 111 (contents pp. 4–5; the lesson page was not individually opened — see maths/books/iraq.md); Iraq, Grade 6 student book, Ch. 3 L1–L2, printed pp. 56–59 (multiplying common fractions, multiplying mixed numbers) |
 | Dividing common fractions; dividing mixed numbers | Iraq, Grade 6 student book, Ch. 3 L3–L4, printed pp. 62–65 (dividing common fractions, dividing mixed numbers) |
+| Multiplication of fractions by integers; division of fractions by integers; multiplication by a fraction; division by a fraction; division and the number line | Bangladesh, Class 5 student book, Ch. 6 Fractions §§6.3–6.7, printed pp. 38–64 |
+| Multiplication and division of fractions | Bangladesh, Class 6 student book, Ch. 4 The Game of Fractions, printed pp. 57–102 |
+| Division of algebraic expressions; polynomial ÷ monomial; polynomial ÷ polynomial | Bangladesh, Class 7 student book, Exp. 11 The Story of Algebraic Fractions, printed pp. 215–226 |
 
-**Acceptance count: taught in 17 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 18 countries (Kazakhstan, Jordan,
 Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam,
-Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq).** Iraq carries multiplying and dividing fractions from multiplying common fractions in Grade 5 (Ch. 6 L4, p. 111, contents level — the lesson page was not individually opened), through multiplying common and mixed numbers and dividing common and mixed numbers in Grade 6 (Ch. 3 L1–L4, pp. 56–65). Kazakhstan carries the full course with the rule derived,
+Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh).** Bangladesh carries multiplying and dividing fractions from multiplication and division by integers and by fractions, with division on the number line, in Class 5 (Ch. 6 §§6.3–6.7, pp. 38–64), through multiplication and division of fractions in Class 6 (Ch. 4, pp. 57–102), to division of algebraic expressions — polynomial ÷ monomial and polynomial ÷ polynomial — in Class 7 (Exp. 11, pp. 215–226). The third worked division on Class 7 p. 220 is taught corrected: (21y²z²)/(−4y²z) is given as 3z; the correct value is −5.25z. Iraq carries multiplying and dividing fractions from multiplying common fractions in Grade 5 (Ch. 6 L4, p. 111, contents level — the lesson page was not individually opened), through multiplying common and mixed numbers and dividing common and mixed numbers in Grade 6 (Ch. 3 L1–L4, pp. 56–65). Kazakhstan carries the full course with the rule derived,
 not just stated; Egypt carries the area-model multiplication and
 the two unit-fraction divisions as their own lessons, and the
 Grade 6 division modelling; Jordan carries multiplying and dividing

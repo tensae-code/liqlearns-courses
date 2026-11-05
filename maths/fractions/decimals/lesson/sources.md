@@ -1,6 +1,6 @@
 # Sources — Decimals
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh
 
 Every part traces to its book and page.
 
@@ -150,6 +150,12 @@ READ + CITATION CHECK PASSED 2026-11-04).
 **Book 51:** *Mathematics, Grade 5 student book* — Iraq, Ministry of Education, General Directorate of Curricula, 4th ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
 **Book 52:** *Mathematics, Grade 6 student book* — Iraq, Ministry of Education, General Directorate of Curricula, 3rd ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 53:** *Elementary Mathematics, Class Four* — Bangladesh, NCTB, first edition August 2012, revised August 2015, prescribed from academic year 2013 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
+**Book 54:** *Elementary Mathematics, Class Five* — Bangladesh, NCTB, first edition August 2012, revised August 2015, prescribed from academic year 2013 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
+**Book 55:** *Mathematics, Class Six* — Bangladesh, NCTB, first publication December 2022, National Curriculum 2022, experimental version, from academic year 2023 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
+**Book 56:** *Mathematics, Class Seven* — Bangladesh, NCTB, first published December 2022, National Curriculum 2022, experimental version, from academic year 2023 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
+**Book 57:** *Mathematics, Class Eight* — Bangladesh, NCTB, published December 2023, National Curriculum 2022, experimental edition, from academic year 2024 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Tenths, hundredths, thousandths; place value; reading decimals aloud | Jordan, Grade 4 Term 2, Unit 7, L1 Tenths p.33, L2 Hundredths p.38, L3 Decimal numbers p.42; Egypt, Grade 5 Term 1, Unit 1, L1 Decimals to the Thousandths Place pp.3–6, L2 Place Value Shuffle pp.7–10, L3 Composing and Decomposing Decimals pp.11–14; Kazakhstan, Grade 5, Ch.4 §4.1 The decimal fraction; reading and writing decimals, p.16; Libya, Grade 4, Ch.9, Understanding tenths p.8, hundredths p.13, thousandths p.18; Vietnam, Grade 5 Volume 1, Theme 2, Bài 10 The decimal concept p.32 |
@@ -195,10 +201,15 @@ READ + CITATION CHECK PASSED 2026-11-04).
 | Tenths and hundredths; comparing and ordering decimals; converting between common and decimal fractions | Iraq, Grade 4 student book, Ch. 8, L1–L4, printed pp. 142–151 (4/5 = 8/10 = 0.8; 7/5 = 1.4; 9/25 = 0.36) |
 | Decimals to thousandths; comparing, ordering and rounding decimals; converting between decimals, common fractions and mixed numbers | Iraq, Grade 5 student book, Ch. 5 L1, p. 80 (seen: 1 mm = 0.001 m; 23/10 = 2.3), L2, p. 82 (opener pinned); L3–L6, pp. 86–95 (contents pp. 4–5; lesson pages not individually opened — see maths/books/iraq.md) |
 | Decimal operations: multiplying and dividing decimals, by whole numbers and by decimals | Iraq, Grade 6 student book, Ch. 4, L1–L6, printed pp. 74–89 (patterns in multiplying/dividing decimals; decimal × whole number; decimal × decimal; decimal ÷ whole number; dividing by a decimal); Iraq, Grade 5 student book, Ch. 6 L3, p. 108 (contents pp. 4–5; lesson page not individually opened) |
+| First decimals: 0.1, the decimal point, tenths/hundredths/thousandths; addition and subtraction of decimals; ×/÷ by 10 and 100; decimal ↔ fraction | Bangladesh, Class 4 student book, Ch. 9 Decimals, printed pp. 103–120 |
+| Decimal fractions: place value to thousandths; ×/÷ by integers, by 10/100, by decimals | Bangladesh, Class 5 student book, Ch. 7 Decimal Fractions, printed pp. 65–88 |
+| Decimal place-value game; multiplication and division of decimal fractions by integers and by decimals | Bangladesh, Class 6 student book, Ch. 4 The Game of Fractions, printed pp. 57–102 |
+| GCD and LCM of decimal fractions | Bangladesh, Class 7 student book, Exp. 3 GCD and LCM of Fractions, printed pp. 57–79 |
+| Finite, infinite and recurring decimals | Bangladesh, Class 8 student book, Exp. 2 Real numbers in everyday life, printed pp. 25–46 |
 
-**Acceptance count: taught in 18 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 19 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq).** Iraq carries decimals from tenths and hundredths with comparing and converting in Grade 4 (4/5 = 0.8), through decimals to thousandths with comparing, ordering, rounding and converting in Grade 5, to decimal multiplication and division — by whole numbers and by decimals — in Grade 6 (Ch. 4, pp. 74–97). Kazakhstan carries the fullest decimal
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh).** Bangladesh carries decimals from first decimals in Class 4 (Ch. 9, pp. 103–120) — 0.1, the decimal point, tenths/hundredths/thousandths, addition and subtraction, ×/÷ by 10 and 100, decimal ↔ fraction — through decimal fractions to thousandths with ×/÷ by integers, by 10/100 and by decimals in Class 5 (Ch. 7, pp. 65–88), the decimal place-value game with multiplication and division of decimal fractions in Class 6 (Ch. 4, pp. 57–102), and GCD/LCM of decimal fractions in Class 7 (Exp. 3, pp. 57–79), to finite, infinite and recurring decimals in Class 8 (Exp. 2, pp. 25–46). Iraq carries decimals from tenths and hundredths with comparing and converting in Grade 4 (4/5 = 0.8), through decimals to thousandths with comparing, ordering, rounding and converting in Grade 5, to decimal multiplication and division — by whole numbers and by decimals — in Grade 6 (Ch. 4, pp. 74–97). Kazakhstan carries the fullest decimal
 course — reading, converting, comparing, all four operations,
 powers of ten and rounding; Jordan carries tenths and hundredths
 in Grade 4, thousandths with all four operations in Grade 5, and

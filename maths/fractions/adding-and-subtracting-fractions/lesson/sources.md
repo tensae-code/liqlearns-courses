@@ -1,6 +1,6 @@
 # Sources — Adding and Subtracting Fractions
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh
 
 Every part traces to its book and page.
 
@@ -141,6 +141,12 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 42:** *Mathematics, Grade 4 student book* — Iraq, Ministry of Education, General Directorate of Curricula, 5th ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
 **Book 43:** *Mathematics, Grade 5 student book* — Iraq, Ministry of Education, General Directorate of Curricula, 4th ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 44:** *Elementary Mathematics, Class Three* — Bangladesh, NCTB, experimental edition, first printing October 2023, National Curriculum 2021 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
+**Book 45:** *Elementary Mathematics, Class Four* — Bangladesh, NCTB, first edition August 2012, revised August 2015, prescribed from academic year 2013 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
+**Book 46:** *Elementary Mathematics, Class Five* — Bangladesh, NCTB, first edition August 2012, revised August 2015, prescribed from academic year 2013 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
+**Book 47:** *Mathematics, Class Six* — Bangladesh, NCTB, first publication December 2022, National Curriculum 2022, experimental version, from academic year 2023 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
+**Book 48:** *Mathematics, Class Seven* — Bangladesh, NCTB, first published December 2022, National Curriculum 2022, experimental version, from academic year 2023 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Same denominators: add/subtract the numerators, keep the denominator; the piece never changes size | Egypt, Grade 3 Term 2, Ch.9, Adding Two Fractions with the Same Denominator p.58, Subtracting Two Fractions with the Same Denominator p.61; Kazakhstan, Grade 4 Part 3, L110–111 Adding/subtracting fractions, pp.100, 103; Jordan, Grade 4 Term 2, Unit 6, conceptual activity: adding and subtracting like fractions p.13, L2 Adding and subtracting like fractions p.14; Sierra Leone, Primary 3 Term 3, L133 Adding like fractions p.32, L134 Subtracting like fractions p.34 (teacher plans) |
@@ -176,10 +182,15 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 | Adding and subtracting fractions, same and different denominators | South Sudan, Student's Book 1, Unit 1, printed pp. 6–16 |
 | Adding and subtracting fractions with the same denominator | Iraq, Grade 3 student book, Ch. 7 L5–L6, printed pp. 124–126; Iraq, Grade 4 student book, Ch. 7 L4–L5, printed pp. 125–128 |
 | Adding and subtracting fractions with unlike denominators; adding and subtracting mixed numbers | Iraq, Grade 5 student book, Ch. 6 L1, p. 102 (seen: 3/8 + 1/3 = 9/24 + 8/24 = 17/24), L2, p. 105 (contents pp. 4–5; lesson opener pinned — see maths/books/iraq.md) |
+| Addition and subtraction of like fractions | Bangladesh, Class 3 student book, Ch. 9 Fraction, printed pp. 84–98 |
+| Addition and subtraction of fractions with different denominators; reduce the answer to lowest terms | Bangladesh, Class 4 student book, Ch. 8 Fractions, printed pp. 87–102 |
+| Addition and subtraction of fractions including mixed numbers | Bangladesh, Class 5 student book, Ch. 6 Fractions, printed pp. 38–64 |
+| Addition and subtraction of fractions | Bangladesh, Class 6 student book, Ch. 4 The Game of Fractions, printed pp. 57–102 |
+| Addition and subtraction of algebraic fractions by paper folding | Bangladesh, Class 7 student book, Exp. 11 The Story of Algebraic Fractions, printed pp. 215–226 |
 
-**Acceptance count: taught in 18 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 19 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq).** Iraq carries adding and subtracting fractions from same-denominator work in Grades 3–4 (G3 Ch. 7 L5–L6; G4 Ch. 7 L4–L5), through adding and subtracting fractions with unlike denominators in Grade 5 (3/8 + 1/3 = 17/24, p. 102) and mixed numbers (Ch. 6 L2, p. 105); Grade 6's fraction chapter teaches multiplying and dividing only, so it is not cited here. Egypt carries the full arc twice — same
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh).** Bangladesh carries adding and subtracting fractions from like fractions in Class 3 (Ch. 9, pp. 84–98), through different denominators with reducing to lowest terms in Class 4 (Ch. 8, pp. 87–102), mixed numbers in Class 5 (Ch. 6, pp. 38–64) and addition and subtraction of fractions in Class 6 (Ch. 4, pp. 57–102), to addition and subtraction of algebraic fractions by paper folding in Class 7 (Exp. 11, pp. 215–226). The Class 3 English p. 95 subtraction rule is taught corrected: as printed it swaps minuend and subtrahend — correct is to subtract the subtrahend's numerator from the minuend's — and the Bangla is correct. Iraq carries adding and subtracting fractions from same-denominator work in Grades 3–4 (G3 Ch. 7 L5–L6; G4 Ch. 7 L4–L5), through adding and subtracting fractions with unlike denominators in Grade 5 (3/8 + 1/3 = 17/24, p. 102) and mixed numbers (Ch. 6 L2, p. 105); Grade 6's fraction chapter teaches multiplying and dividing only, so it is not cited here. Egypt carries the full arc twice — same
 denominators in Grade 3, unlike denominators and mixed numbers in
 Grade 5, with estimating as a check; Kazakhstan carries like
 denominators in Grade 4 and unlike denominators with mixed numbers

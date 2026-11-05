@@ -1,6 +1,6 @@
 # Sources — Fractions
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh
 
 Every part traces to its book and page.
 
@@ -159,6 +159,12 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 62:** *Mathematics, Grade 5 student book* — Iraq, Ministry of Education, General Directorate of Curricula, 4th ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
 **Book 63:** *Mathematics, Grade 6 student book* — Iraq, Ministry of Education, General Directorate of Curricula, 3rd ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 64:** *Elementary Mathematics, Class Three* — Bangladesh, NCTB, experimental edition, first printing October 2023, National Curriculum 2021 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
+**Book 65:** *Elementary Mathematics, Class Four* — Bangladesh, NCTB, first edition August 2012, revised August 2015, prescribed from academic year 2013 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
+**Book 66:** *Elementary Mathematics, Class Five* — Bangladesh, NCTB, first edition August 2012, revised August 2015, prescribed from academic year 2013 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
+**Book 67:** *Mathematics, Class Six* — Bangladesh, NCTB, first publication December 2022, National Curriculum 2022, experimental version, from academic year 2023 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
+**Book 68:** *Mathematics, Class Seven* — Bangladesh, NCTB, first published December 2022, National Curriculum 2022, experimental version, from academic year 2023 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | A share of a whole; equal parts first; half and quarter; comparing halves and quarters of the same whole | Kazakhstan, Grade 3 Part 2, L41 The notion of a share, p.4; Jordan, Grade 1 Term 2, Unit 9, L1 Congruent (equal) parts p.50, L2 The half p.52, L3 The quarter p.54, L5 Comparing fractions p.58; Greece, Grade 3, Unit 4, ch.22 Introduction to fractions, printed pp.17–28; Sierra Leone, Primary 1 Term 2, L88–92 halves and quarters from pictures and stories (teacher plans) |
@@ -215,10 +221,16 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 | Unit fractions, 2/3 and 3/4; fractions as parts of a group | Iraq, Grade 2 student book, Ch. 9, L1–L4, printed pp. 150–156 |
 | Multiples of unit fractions; equivalent fractions; comparing and ordering fractions; adding and subtracting fractions | Iraq, Grade 3 student book, Ch. 7, L1–L6, printed pp. 116–126; Iraq, Grade 4 student book, Ch. 7, L1–L6, printed pp. 116–131 (fractions on the number line, equivalence, comparing/ordering, adding/subtracting, mixed numbers) |
 | Decimals and fractions; fraction operations | Iraq, Grade 5 student book, Ch. 5 L1, p. 80 (seen: 23/10 = 2 3/10 = 2.3), Ch. 6 L1, p. 102 (seen: 3/8 + 1/3 = 17/24); Iraq, Grade 6 student book, Ch. 3, printed pp. 56–71 (fraction operations) |
+| Half, quarter and third; numerator and denominator named; comparing fractions with the same denominator | Bangladesh, Class 3 student book, Ch. 9 Fraction, printed pp. 84–98 |
+| Equivalent fractions, with the cross-multiplication check | Bangladesh, Class 3 student book, Ch. 9 Fraction, printed pp. 84–98 |
+| Proper vs improper fractions; comparing fractions; equivalent fractions; reducing to lowest terms by HCF; common denominator by LCM | Bangladesh, Class 4 student book, Ch. 8 Fractions, printed pp. 87–102 |
+| Proper, improper and mixed fractions; converting improper ↔ mixed | Bangladesh, Class 5 student book, Ch. 6 Fractions, printed pp. 38–64 |
+| Comparing fractions; improper and mixed fractions; reciprocal and multiplicative inverse | Bangladesh, Class 6 student book, Ch. 4 The Game of Fractions, printed pp. 57–102 |
+| GCD and LCM of fractions; simplest form | Bangladesh, Class 7 student book, Exp. 3 GCD and LCM of Fractions, printed pp. 57–79 |
 
-**Acceptance count: taught in 18 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 19 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq).** Iraq carries fractions from unit fractions, 2/3 and 3/4 in Grade 2, through multiples of unit fractions, equivalence, comparing and ordering and adding and subtracting in Grades 3–4, to decimals and fractions with fraction operations in Grades 5–6. Kazakhstan carries the first share on
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh).** Bangladesh carries fractions from halves, quarters and thirds with numerator and denominator named in Class 3 (Ch. 9, pp. 84–98), through proper vs improper fractions, equivalence, reducing to lowest terms by HCF and common denominators by LCM in Class 4 (Ch. 8, pp. 87–102), proper/improper/mixed conversion in Class 5 (Ch. 6, pp. 38–64), comparing, improper/mixed fractions and reciprocals in Class 6 (Ch. 4, pp. 57–102), to GCD and LCM of fractions in Class 7 (Exp. 3, pp. 57–79). Two Class 3 English-only slips on p. 95 are taught corrected: the fraction-subtraction rule swaps minuend and subtrahend (correct: subtract the subtrahend's numerator from the minuend's), and the bubble reading “in 4/5 and 4/5” should read “in 4/5 and 2/5” — the Bangla is correct on both. Iraq carries fractions from unit fractions, 2/3 and 3/4 in Grade 2, through multiples of unit fractions, equivalence, comparing and ordering and adding and subtracting in Grades 3–4, to decimals and fractions with fraction operations in Grades 5–6. Kazakhstan carries the first share on
 clock faces and the full Grade 5 fraction course with the
 comparing and part-of-a-number rules; Jordan carries the youngest
 path (halves and quarters only in Grade 1, then the full first

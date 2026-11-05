@@ -1,6 +1,6 @@
 # Sources — Ratio and Proportion
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh
 
 Every part traces to its book and page.
 
@@ -109,6 +109,10 @@ CITATION CHECK PASSED 2026-11-04).
 **Book 37:** *Mathematics, Grade 9 student book* — Iraq, Ministry of Education, General Directorate of Curricula, rev. 4th ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
 **Book 38:** *Mathematics, Grade 10 Literary student book* — Iraq, Ministry of Education, General Directorate of Curricula, 14th ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 39:** *Elementary Mathematics, Class Five* — Bangladesh, NCTB, first edition August 2012, revised August 2015, prescribed from academic year 2013 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
+**Book 40:** *Mathematics, Class Six* — Bangladesh, NCTB, first publication December 2022, National Curriculum 2022, experimental version, from academic year 2023 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
+**Book 41:** *Mathematics, Class Seven* — Bangladesh, NCTB, first published December 2022, National Curriculum 2022, experimental version, from academic year 2023 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a ratio is; order matters; recipes | Armenia, Grade 6, Ch.2 §2.1 Ratio p.44, §2.2 Equality of ratios, recipes p.50; Jordan, Grade 6 Term 2, Unit 6, L1 Ratio p.46 (6 glasses of orange juice per jug); Egypt, Grade 6 Term 2, Unit 9, L1 Ratio pp.16–18 (tape diagrams, double number lines; paint mixer 6 yellow : 4 red vs 9 yellow : 6 red); Greece, Grade 6, Unit 3, chs 30–39, printed pp.75–94 (ratio, equivalent ratios, proportions, cross products, direct and inverse proportion, rule of three); Sierra Leone, JSS 1 Term 2, L46 Ratio, printed p.2; Libya, Grade 5, Unit 7, finding a ratio — 2 chocolate cakes and 1 orange cake, ratio 2:1 and 1:2, printed pp.109–130; Ghana, JICA B6 teacher manual, L57–70 ratios and proportion — banku mixing, 4 cups cornmeal, 2 cups cassava, 6 cups water (teacher evidence); South Africa, Grade 4 Book 1, ws 61 ratio (picture/example only) |
@@ -152,10 +156,14 @@ CITATION CHECK PASSED 2026-11-04).
 | Direct and inverse proportion | Iraq, Grade 7 student book, Ch. 2 L2-5, p. 49 |
 | Proportion and measurement in triangles (Thales) | Iraq, Grade 9 student book, Ch. 5 L5-3, p. 120 |
 | Variation: direct y = kx, inverse y = k/x, joint | Iraq, Grade 10 Literary student book, Ch. 1, 1-5 Variation (Ch. 1, pp. 5–23; ex. 15, p. 21; ex. 16) |
+| Unitary method: price of one item, then of many | Bangladesh, Class 5 student book, Ch. 3 §3.3 Unitary Method, printed pp. 17–20 |
+| Ratio and equivalent ratios; unitary method | Bangladesh, Class 6 student book, Ch. 5 Unitary Method, Percentages and Ratio, printed pp. 103–137 |
+| Ratio, proportion: simple, light, heavy, unit and reciprocal ratios; multi-number ratio; application of ratio; ratio and percentages; equivalent ratio; making the national flag (ratio of three numbers) | Bangladesh, Class 7 student book, Exp. 4 Ratio, Proportion, printed pp. 80–103 |
+| Bangladesh's honest limit (stated, not forced): proportion equations solved by cross-multiplication, sharing in a ratio, map scale and working together are not pinned in the filing — the unitary method carries direct proportion and unit value in substance | Bangladesh, filed in maths/books/bangladesh.md |
 
-**Acceptance count: taught in 18 countries (Kazakhstan, Jordan,
+**Acceptance count: taught in 19 countries (Kazakhstan, Jordan,
 South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
-Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq).** Iraq carries ratio and proportion from ratio and rate in Grade 6 (3:20; 60 km in 3 hours → unit rate 20 km/h), through proportion, solving proportions and scale drawing (Ch. 5 L3–L5), to direct and inverse proportion in Grade 7 (Ch. 2 L2-5, p. 49), proportion and measurement in triangles (Thales) in Grade 9 (Ch. 5 L5-3, p. 120), and variation — direct y = kx, inverse y = k/x, joint — in Grade 10 Literary (Ch. 1, 1-5). Armenia carries the fullest ratio
+Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh).** Bangladesh carries ratio and proportion only in part — ratio and equivalent ratios in Class 6 (Ch. 5, pp. 103–137), with the unitary method (Class 5 §3.3, pp. 17–20; Class 6 Ch. 5) carrying direct proportion and unit value in substance, and ratio and proportion in Class 7 (Exp. 4, pp. 80–103) — simple, light, heavy, unit and reciprocal ratios, multi-number ratio, application of ratio, ratio and percentages, equivalent ratio, and making the national flag as a ratio of three numbers. Not pinned in the filing and not counted as taught here: proportion equations solved by cross-multiplication, sharing in a ratio, map scale (only a room/furniture scale problem, Class 7 Exp. 5), best buy, and working together. Iraq carries ratio and proportion from ratio and rate in Grade 6 (3:20; 60 km in 3 hours → unit rate 20 km/h), through proportion, solving proportions and scale drawing (Ch. 5 L3–L5), to direct and inverse proportion in Grade 7 (Ch. 2 L2-5, p. 49), proportion and measurement in triangles (Thales) in Grade 9 (Ch. 5 L5-3, p. 120), and variation — direct y = kx, inverse y = k/x, joint — in Grade 10 Literary (Ch. 1, 1-5). Armenia carries the fullest ratio
 course — ratio, equality of ratios and recipes, cross
 multiplication, direct proportion, map and scale, working
 together; Jordan teaches ratio and equivalent ratios in Grade 6;
