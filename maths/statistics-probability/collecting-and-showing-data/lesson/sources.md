@@ -51,6 +51,7 @@ Every part traces to its book and page.
 **Book 33:** *Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2023, ISBN 978-623-118-558-7. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 34:** *Matematika untuk SMA/SMK Kelas XI* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2021, ISBN 978-602-244-789-5. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 35:** *Matematika untuk SMA/MA/SMK/MAK Kelas XI (Edisi Revisi)* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2024, ISBN 978-623-388-329-0. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 113:** *Matematika untuk SMP/MTs Kelas VIII* (Mathematics, Grade 8 student book, Kurikulum Merdeka) — Indonesia, Mohammad Tohir, Abdur Rahman As'ari, Ahmad Choirul Anam, Ibnu Tauiq, Kemendikbudristek (Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi), Cetakan Pertama 2022, ISBN 978-602-427-919-6 (jil. 2). Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-06 — gap batch). The matched student book of the Grade 8 Merdeka teacher guide.
 
 **Book 36:** *Matemática 2do Grado — Libro de Texto* (NICAMATE 2) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2025. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
 **Book 37:** *MATEMÁTICA — Libro de Texto, 3er Grado — Versión Validada*, III Edición (year not stated) — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
@@ -171,6 +172,7 @@ Every part traces to its book and page.
 | Pictograms and bar charts, including vertical bars | Indonesia, Grade 4, Bab 6, printed pp. 177–194 |
 | Collecting data, surveys, tally marks, pictograms, vertical/horizontal/double bar charts | Indonesia, Grade 5, Ch. 8, printed pp. 235–272 |
 | Statistical investigation in four steps; line plots; categorical vs numerical data; bar charts, pie charts; choosing the right diagram | Indonesia, Grade 7 Merdeka, Ch. 6, printed pp. 185–228 |
+| Reading data in bar charts, line graphs and pie charts (recalled from Grade 7, not re-taught) | Indonesia, Grade 8 Merdeka student book, Bab 6, printed p. 259 |
 | Histogram, relative frequency | Indonesia, Grade 10 Merdeka, Bab 7, printed pp. 171–214 |
 | Tables, diagrams and graphs; data representation and interpretation | Indonesia, Grade 10 Revisi, Bab 6, printed pp. 177–238 |
 | Bivariate data: scatter diagrams | Indonesia, Grade 11 Merdeka, Bab 3, printed pp. 79–130 |
