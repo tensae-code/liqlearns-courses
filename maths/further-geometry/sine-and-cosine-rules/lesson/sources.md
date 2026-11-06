@@ -1,6 +1,6 @@
 # Sources — Sine and cosine rules
 
-countries: Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Iraq, Cambodia, Kuwait, Iran
+countries: Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Iraq, Cambodia, Kuwait, Iran, China
 
 Every part traces to its book and page.
 
@@ -73,6 +73,14 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 **Book 24:** *Hesaban (2) [Calculus (2)], Grade 12 student book* (Mathematical Sciences branch; code 112214) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 9th printing 1405, ISBN 978-964-05-3112-9. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 **Book 25:** *Mathematics (3), Grade 12 student book* (Experimental Sciences branch; code 112211) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 9th printing 1405, ISBN 978-964-05-3117-4. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 26:** *Mathematics, Compulsory Volume 4 （必修第四册）, B edition* (senior student book) — China, People's Education Press (PEP), Chinese. The held copy's imprint is redacted, so no full ISBN or printing year is quotable for this book. Filed in maths/books/china.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 27:** *Teacher's Guide for Mathematics, Compulsory Volume 4, B edition* (teacher guide) — China, People's Education Press (PEP), Chinese, ISBN 978-7-107-25893-0. Filed in maths/books/china.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only, cited only against its proven pairing (the B-edition Compulsory Volume 4 student book); the held copy is truncated at printed p. 120 and holds nothing for the student book's Chapter 11.
+
+**Book 28:** *Mathematics, Compulsory Volume 2 （必修第二册）, A edition* (senior student book) — China, People's Education Press (PEP), Chinese, ISBN 978-7-107-33566-2. Filed in maths/books/china.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 29:** *Teacher's Guide for Mathematics, Compulsory Volume 2, A edition* (teacher guide) — China, People's Education Press (PEP), Chinese, ISBN 978-7-107-34127-4. Filed in maths/books/china.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only, cited only against its proven pairing (the A-edition Compulsory Volume 2 student book); the held copy is truncated at printed p. 150 and holds nothing for the student book's Chapters 8–10.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Cosine rule as Theorem 1 (all three forms), proved by vectors; Pythagoras as a special case; comparing a² with b² + c² decides acute/right/obtuse; sine rule as Theorem 3, a/sin α = b/sin β = c/sin γ = 2R, proved through S = ½bc sin α and R = abc/(4S); solving triangles — the four standard cases as algorithms with discussion; the river-width measurement problem solved by sine + cosine rules in sequence | Kazakhstan, Geometry 9 (Shynybekov, Atamura 2019), Chapter 3 Solving triangles, §3.1 cosine rule and sine rule; §3.2 solving triangles; §3.3 applications, pp.108–125 |
@@ -106,8 +114,17 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Trigonometric identities and equations | Iran, Grade 11 Hesaban (1) student book (Mathematical Sciences branch), Ch. 4 |
 | Trigonometric identities and equations | Iran, Grade 12 Hesaban (2) student book (Mathematical Sciences branch), Ch. 2 |
 | Trigonometric functions and identities — the double-angle formulas stated explicitly | Iran, Grade 12 Mathematics (3) student book (Experimental Sciences branch), Ch. 2, printed p. 43 |
+| The sine rule, motivated by measuring an inaccessible distance, and proved through the area S = ½ab sin C | China, Compulsory Volume 4 (B edition) student book, §9.1, printed pp. 3–4 |
+| Solving a triangle from two angles and a side; the ambiguous SSA case — two triangles, one, or none | China, Compulsory Volume 4 (B edition) student book, §9.1, printed pp. 4–7 |
+| The cosine rule, proved with vectors; SAS and SSS solving; judging a triangle's shape (acute, right, obtuse) from the cosine rule | China, Compulsory Volume 4 (B edition) student book, §9.1, printed pp. 8–10 |
+| The projection identities a = b cos C + c cos B, proved from the cosine rule | China, Compulsory Volume 4 (B edition) student book, §9.1, printed p. 10 |
+| Applications: inaccessible-point distances, typhoon-track prediction, and the field measurement of two inaccessible points | China, Compulsory Volume 4 (B edition) student book, §9.3, printed pp. 13–18 |
+| Guide evidence: the full SSA case table (no solution / one solution / two solutions, by acute vs right/obtuse given angle); the common ratio proved equal to 2R; alternative proofs of both rules; the projection theorem used to re-derive the cosine rule | China, Compulsory Volume 4 (B edition) teacher guide, printed pp. 8–24 (teacher evidence) |
+| The cosine rule proved by vectors (c = a − b, squared); the sine rule proved with a unit vector perpendicular to one side; the ambiguous SSA case | China, Compulsory Volume 2 (A edition) student book, §6.4, printed pp. 42–48 |
+| Measurement applications: the distance between two inaccessible points, a building's height from two elevation angles, navigation and bearings | China, Compulsory Volume 2 (A edition) student book, §6.4, printed pp. 49–52 |
+| Guide evidence: both rules proved by vectors, with alternative proofs of each, and the two-solution ambiguous case analysed | China, Compulsory Volume 2 (A edition) teacher guide, printed pp. 41–47 (teacher evidence) |
 
-**Acceptance count: taught in 16 countries (Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Iraq, Cambodia, Kuwait, Iran).** Iran states and proves both the sine rule and the cosine rule in Grade 11 Geometry (2), and carries trigonometric identities and equations in Grade 11 Hesaban (1), Grade 12 Hesaban (2) and Grade 12 Mathematics (3) — the last naming the double-angle formulas explicitly.
+**Acceptance count: taught in 17 countries (Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Iraq, Cambodia, Kuwait, Iran, China).** Iran states and proves both the sine rule and the cosine rule in Grade 11 Geometry (2), and carries trigonometric identities and equations in Grade 11 Hesaban (1), Grade 12 Hesaban (2) and Grade 12 Mathematics (3) — the last naming the double-angle formulas explicitly.
 Kazakhstan carries the fullest treatment — all three Grade 9
 Geometry books prove both rules (by vectors, by coordinates,
 by altitude) and work the standard solving cases, including
@@ -126,3 +143,5 @@ sine/cosine rules — the lesson's Sierra Leone evidence is SSS
 only; Jordan's Grade 9 teaches right-triangle trigonometry
 only and explicitly no sine/cosine rules, so Jordan enters
 this lesson from Grade 10, not Grade 9. Laos carries the sine and cosine rules whole in Grade 9 — the unit-semicircle extension to 0–180°, the sine rule via the circumcircle, the cosine rule with the ambiguous case, and triangle area from sin A. Yemen touches this lesson only in part, at title level — Grade 11 science, Unit 9, lesson 9-6, "Solving triangles and applications", printed p. 113; the filing pins the title and page only, not whether the sine and cosine rules are the method taught. Indonesia carries the sine and cosine rules in the Grade 11 Tingkat Lanjut Revisi 2024 student book itself (Bab 3 D–E, printed pp. 142–152 — the sine rule with its circumcircle form a/sin A = 2R and triangle area, and the cosine rule), read directly in the 2026-11-06 gap batch; the held 2021 TL student book still has no sine/cosine rules. Nicaragua carries the sine and cosine rules whole in Grade 10 — the law of sines with the ambiguous case and the law of cosines with SSS and SAS cases in the student book, with the module's parallel derivation and application. Book correction carried here: the module's p. 181 introduces the law of sines with an "equilateral triangle" — the law of sines is for general (oblique) triangles, not only equilateral ones, and it is taught here in its general form. Iraq touches this lesson only in part, at terminology level only — the law of cosines and the law of sines appear in the Grade 11 Scientific Chapter 4 terminology table (p.54) with no taught lesson or worked examples filed, and Grade 9 states explicitly that trigonometry stops at right-triangle ratios. The laws are not taught as a worked topic anywhere in Iraq's set. Cambodia carries the sine and cosine rules only in part — the triangle-area formula only, in Grade 10; the sine rule and the cosine rule themselves are not taught anywhere in the set. Kuwait carries the sine and cosine rules whole in Grade 11 Term 2 (scientific track) — the sine law with the ambiguous case, the cosine law, and triangle area by ½ab sin C and Heron's formula.
+
+China carries the sine and cosine rules whole in both senior editions — proved by area and by vectors in the B-edition Volume 4, whose guide adds the full SSA case table and alternative proofs, and by vectors in the A-edition Volume 2.
