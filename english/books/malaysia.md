@@ -1,18 +1,18 @@
 # Malaysia — English
 
-**Read in full + citation-checked 4 November 2026 (200 anchors tested across the 10 files: 184 passed as cited, 16 corrected in place, 0 not found; 2,439 PDF pages).** Malaysia's English record holds exactly 10 files and no teacher's book: six primary files for Years 1–6, and one secondary student's book each for Forms 1, 3, 4 and 5 — no Form 2 book is held. All 10 files were pulled from the secured library and byte- and MD5-verified against the record before reading (MD5s in the sections), and every cover was checked against its record slot. There are no duplicate pairs among the 10 and no held-but-uncounted extras anywhere in the library's Malaysia English assets.
+**Read in full + citation-checked 4 November 2026 (200 anchors tested across the 10 files: 184 passed as cited, 16 corrected in place, 0 not found; 2,439 PDF pages). The five primary pupil's textbooks those files map were downloaded and read in full on 6 November 2026 (712 further PDF pages; citation-checked the same day: 130 anchors tested, 129 passed exactly as cited, 1 corrected in place, 0 not found).** Malaysia's English record now holds exactly 15 files and no teacher's book: six primary Scheme of Work files for Years 1–6, the five pupil's textbooks they map (*Super Minds* 1 serving Years 1 and 2, *Get Smart Plus 3*, *Get Smart Plus 4*, *English Plus 1*, *Academy Stars* Year 6), and one secondary student's book each for Forms 1, 3, 4 and 5 — no Form 2 book is held. All 10 files were pulled from the secured library and byte- and MD5-verified against the record before reading (MD5s in the sections), and every cover was checked against its record slot. There are no duplicate pairs among the 10 and no held-but-uncounted extras anywhere in the library's Malaysia English assets.
 
-**THE HEADLINE FINDING — the six primary files are not textbooks.** Each of the six primary files (Years 1–6) contains, from cover to ministry imprint, ONLY that year's KSSR English Language **Scheme of Work** (SK) — the Bahagian Pembangunan Kurikulum teacher planning document that maps the year's course lesson by lesson (160 lessons per year). **No pupil's textbook page is bound into any of them**: no textbook cover, title page, contents or body, in any of the six files. This was reader-proved by all three primary bands and then independently confirmed by three separate citation checkers (full-text evidence: e.g. in the Year 5 file all 160 "SCHEME OF WORK" lesson headers are present and every one of the 147 "Student's Book" occurrences is a Materials-column citation; the Year 3 file returns zero hits for ISBN, copyright or any publisher name). The six Schemes of Work were read whole and are filed below as curriculum documents (the Ghana/Barbados precedent): everything they say about the pupil's textbook is labelled **MAPPED** — the textbook as evidenced by the document that maps it, never as a direct read. **Malaysia's primary pupil's textbooks are therefore NOT held.** The books the Schemes of Work map, and which the library still owes, are: **Superminds 1** (one book serving both Year 1, pp.4–57, and Year 2, pp.58–117), **Get Smart plus 3** (Year 3), **Get Smart Plus 4** (Year 4), **English Plus 1** (Year 5) and **Academy Stars Year 6** (Year 6).
+**THE HEADLINE FINDING — the six primary files are not textbooks.** Each of the six primary files (Years 1–6) contains, from cover to ministry imprint, ONLY that year's KSSR English Language **Scheme of Work** (SK) — the Bahagian Pembangunan Kurikulum teacher planning document that maps the year's course lesson by lesson (160 lessons per year). **No pupil's textbook page is bound into any of them**: no textbook cover, title page, contents or body, in any of the six files. This was reader-proved by all three primary bands and then independently confirmed by three separate citation checkers (full-text evidence: e.g. in the Year 5 file all 160 "SCHEME OF WORK" lesson headers are present and every one of the 147 "Student's Book" occurrences is a Materials-column citation; the Year 3 file returns zero hits for ISBN, copyright or any publisher name). The six Schemes of Work were read whole and are filed below as curriculum documents (the Ghana/Barbados precedent): everything they say about the pupil's textbook is labelled **MAPPED** — the textbook as evidenced by the document that maps it, never as a direct read. **Malaysia's primary pupil's textbooks were therefore not held at the 4 November read. They have since been obtained and read in full (6 November 2026), and each is filed below as a DIRECT READ immediately after its year's Scheme of Work section:** **Super Minds 1** (one book serving both Year 1, pp.4–57, and Year 2, pp.58–117 — the split proved from the book's own Map of the book), **Get Smart Plus 3** (Year 3), **Get Smart Plus 4** (Year 4), **English Plus 1**, Second Edition (Year 5) and **Academy Stars** Year 6 (Year 6). The MAPPED label is retired for these six rows. Where a direct read corrects the mapped account, the correction is recorded in the book's own section and summarised in the next header paragraph.
 
 **Cover-proved record corrections.** (1) The six primary slots are recorded as student books; the files prove they hold Schemes of Work only (above). (2) The library TSV's six primary URLs carry a doubled path (grade-0X/gov/malaysia/grade-0X/gov/malaysia/…) and 404 as printed; the real tree paths are single — the TSV fix is owed by the library side. (3) The Form 1 file is **Pelangi's own *English Form 1*** (KSSM, first published 2016, ISBN **978-983-00-8245-5**), **not** Macmillan *Pulse 2* — this settles the download list's open question; *Pulse 2* is the Form 2 target and is not held. The coordinator's low-resolution cover read was also corrected by the book itself: the printed price is **RM 7.50**, not RM17.90, and the ISBN digits are as just given. (4) The Form 3 file is *Close-Up* **B1** Student's Book, Second Edition — not B1+ — and it is the **generic international edition**: no Malaysian or KPM imprint exists anywhere in the copy. (5) The Form 4 book's Module 4 is titled **"Being a teen"**, not "Being a team". (6) The Form 5 copy is **front-incomplete** (printed pp.1–4 absent — cover, title page, contents) and **no title, series name or authors are printed anywhere in the copy**; its identity (KPM textbook, Malaysian edition first published 2021) rests on the imprint leaf at the very back of the file. (7) The Form 4 copy prints **no year, ISBN, edition statement or imprint page anywhere**, its cover is filed out of order at PDF p.2, and it is a used school copy (SMK Miri ownership stamp).
 
-**The primary course, as mapped by the Schemes of Work.** All six years run the same architecture: 160 lesson outlines of 60 minutes, textbook-based and non-textbook-based, with a pupil self-assessment sheet closing most units (the Year 6 document lacks the Unit 5 and Unit 10 sheets — a defect of the held copy). The mapped grammar ceiling climbs slowly. Years 1–2 (Superminds 1): present-tense frames, *have got*, *can*, prepositions of place — no past tense, no present perfect, no passive, no conditionals, no reported speech anywhere in either year's map. Year 3 (Get Smart plus 3): present simple/continuous, *was/were* and then the full past simple in Unit 9, comparatives/superlatives — the same five structures still absent. Year 4 (Get Smart Plus 4): past simple, *going to*, a single *will*-for-prediction lesson, *have to*, gerunds, *should/shouldn't* — present perfect, past perfect, passive, conditionals and reported speech all still absent from the map. Year 5 (English Plus 1, mapped in the "2020 Version 1.0" Scheme of Work): the mapped course still teaches none of the present perfect, past perfect, passive, reported speech or conditionals. Only the Year 6 map (Academy Stars Year 6) crosses those lines: present perfect taught, present passive taught, **first conditional only**, reported speech at introduction level, past perfect still absent, and no UPSR or other examination preparation anywhere in any year's map. No Scheme of Work carries answer keys or listening scripts; the Phonics Table for the early years lives in the absent Teacher's Book.
+**The primary course — mapped by the Schemes of Work, and now confirmed or corrected by the books themselves.** All six years run the same SoW architecture: 160 lesson outlines of 60 minutes, textbook-based and non-textbook-based, with a pupil self-assessment sheet closing most units (the Year 6 document lacks the Unit 5 and Unit 10 sheets — a defect of the held copy). The grammar ceiling climbs slowly, and the direct reads confirm the mapped ceiling almost everywhere. Years 1–2 (*Super Minds* 1): present-tense frames, *have got*, *can*, prepositions of place — no past tense, no present perfect, no passive, no conditionals, no reported speech anywhere in the book; the Year 2 half also recycles the present continuous for people wearing clothes, a use the map does not name. Year 3 (*Get Smart Plus* 3): present simple/continuous, *was/were* and then the full past simple in Module 9, comparatives and superlatives in Module 10 — the same five structures still absent. Year 4 (*Get Smart Plus* 4): past simple, *going to*, *have to*, gerunds, *should/shouldn't* — **corrected on one point: the single *will*-for-prediction lesson in the map has no counterpart in the pupil's book, whose Grammar Reference contains no *will* at all; in the book the pupils hold, the Year 4 future is *going to* only**. Year 5 (*English Plus* 1, Second Edition): the book still teaches none of the present perfect, past perfect, passive, reported speech or conditionals; its futures are *be going to* and *will/won't*, both first taught in its Unit 8 — the SoW's Unit 5 *be going to* item is a SoW Language Arts lesson, not textbook content, as the map itself recorded. Only Year 6 (*Academy Stars*) crosses those lines, exactly as mapped: present perfect taught, present passive taught (present simple only), **first conditional only**, reported speech at introduction level (statements, present tenses), past perfect still absent, and no UPSR or other Malaysian examination preparation anywhere in any year's book. **Two mapped silences the direct reads fill:** (1) phonics is NOT wholly teacher-side — *Super Minds* 1 carries one phonics-focus caption per unit in the pupil's book, *Get Smart Plus* 3 and 4 each carry a full ten-page Phonics section (GS3 pp.105–114; GS4 pp.119–128), and the Year 3 SoW's silence on a phonics section is a property of the scheme, not of the book; (2) the Year 6 Reviews deliberately practise Cambridge A2 Flyers-style task formats (their footers name the parts) — format familiarisation, not UPSR preparation. No pupil's book carries listening scripts; answer keys are absent except *Get Smart Plus* 4's printed quiz answers (SB p.118). The series name is printed "Super Minds" (two words) on the book itself, against the SoW's "Superminds".
 
 **The secondary spine — four real textbooks.** **Form 1** (Pelangi *English Form 1*, 2016): a COMPLETE copy — 16 chapters, 4 Checkpoints, listening scripts for all 16 chapters, references and a full index — and the narrowest grammar of the four: simple present, simple past and simple future only; no conditionals, passive, reported speech or present perfect are taught (past participles are tabulated but never built into a tense), and there is no PT3/SPM material and no answer key. **Form 3** (*Close-Up* B1, Second Edition, National Geographic Learning/Cengage © 2016, ISBN 978-1-4080-9554-6): complete, and its contents match the Form 3 Scheme of Work unit list exactly; it teaches the passive, reported speech, present perfect continuous and past perfect (simple + continuous), but conditionals stop at zero/first/second — **no third or mixed conditionals**; no answer keys, no listening scripts, no exam papers. **Form 4** (*Full Blast! Plus 4*, MM Publications): the body is complete at both ends — Modules 1–8, Culture pages, generic Cambridge-style Exam Practice, Grammar Reference, full Listening Transcripts and the Wordlist to p.191 — and it is the fullest grammar course of the four: all four conditional types plus *wish/if only*, passive, reported speech, present perfect continuous and past perfect; its notable gap is the future continuous; no answer keys and no SPM/PT3 apparatus. **Form 5** (KPM textbook under licence from Hamilton House Publishers; Malaysian ISBN 978-967-0951-44-7 inside serial KPM-2020-978-967-0951-44-7-0101; international ISBN 978-9963-721-87-0): 12 units on a fixed 12-page cycle with six Progress Reviews and a Grammar Reference; mixed conditionals are taught but **inverted conditionals are not**; the passive is full, including impersonal/personal constructions; reported speech, present perfect continuous and past perfect simple + continuous are all taught; yet there is **no SPM apparatus at all** ("SPM" never appears in the copy), no answer keys, no listening scripts, and no Malaysian content — settings and currencies are British/international throughout.
 
-**What Malaysia's held set never teaches.** Across the four held secondary textbooks: no inverted conditionals (Form 5 caps at mixed), no third or mixed conditionals at Form 3, no present perfect / passive / conditionals / reported speech at Form 1, no future continuous at Form 4, and **no examination preparation for PT3 or SPM in any held book** and **no answer keys in any held book**. At primary level — stated of the mapped course, on the Schemes of Work's evidence — the present perfect, passive and conditionals arrive only in the Year 6 map, the past perfect and reported speech (beyond an introduction) never arrive, and no year's map carries examination preparation. No teacher's book for any Malaysian English course is held at all.
+**What Malaysia's held set never teaches.** Across the four held secondary textbooks: no inverted conditionals (Form 5 caps at mixed), no third or mixed conditionals at Form 3, no present perfect / passive / conditionals / reported speech at Form 1, no future continuous at Form 4, and **no examination preparation for PT3 or SPM in any held book** and **no answer keys in any held book**. At primary level — now stated of the books themselves, on the direct reads' evidence — the present perfect, the passive and conditionals arrive only in the Year 6 book, the past perfect never arrives, reported speech never goes beyond the Year 6 introduction, and no year's book carries UPSR or other Malaysian examination preparation (the Year 6 Reviews' Cambridge-style task formats are the sole exam-format feature). No teacher's book for any Malaysian English course is held at all.
 
-**Still owed by the library side.** All six primary pupil's textbooks mapped above (five titles: Superminds 1 for Years 1–2, Get Smart plus 3, Get Smart Plus 4, English Plus 1, Academy Stars Year 6); **Pulse 2 (Form 2)** — the one Form with no book held, a known link-only / reader-harvest target; a **complete Form 5 copy** carrying its front matter (printed pp.1–4); and the TSV doubled-path fix for the six primary rows.
+**Still owed by the library side.** **Pulse 2 (Form 2)** — the one Form with no book held, a known link-only / reader-harvest target; a **complete Form 5 copy** carrying its front matter (printed pp.1–4); and the TSV doubled-path fix for the six primary rows. The six primary pupil's textbooks formerly listed here are no longer owed: all five titles were obtained and read in full on 6 November 2026. Two copy-quality notes from those reads: the held *Get Smart Plus* 3 copy is defective (printed pp.60–61 and p.113 absent; four pages duplicated) — a clean copy remains a standing want, though the book is read and filed; and the *Academy Stars* Year 6 file is a 229 MB high-resolution scan where a smaller clean scan would serve as well.
 
 
 ## Malaysia — English, Grade 1, English Language Scheme of Work — Primary Year 1 SK (file: g01-student.pdf)
@@ -103,6 +103,93 @@ The file is a **complete** copy of the Scheme of Work: all 160 lessons present i
 
 ---
 
+## Malaysia — English, Grade 1, Super Minds Student's Book 1 (Years 1–2 volume, Year 1 portion pp.4–57) — DIRECT READ (file: malaysia-y1y2-super-minds-students-book.pdf)
+
+### §1 Identity
+
+- **Title exactly as printed:** Cover and title page read "Super Minds — Student's Book 1" (the series writes it as one word, "Super Minds"; the Schemes of Work write "Superminds 1"). Authors printed on the cover: **Herbert Puchta, Günter Gerngross, Peter Lewis-Jones**.
+- **Publisher as printed:** Cambridge University Press (imprint page, PDF p.2: University Printing House, Cambridge CB2 8BS, United Kingdom; www.cambridge.org; information page www.cambridge.org/9780521148559).
+- **Year/edition/ISBN as printed:** "© Cambridge University Press 2012"; "First published 2012"; this copy "15th printing 2015"; "Printed in Dubai by Oriental Press". The imprint lists a family of ISBNs; the one for this component, **Student's Book with DVD-ROM 1, is ISBN 978-0-521-14855-9** — the same number printed in the back-cover barcode (PDF p.132: "ISBN 978-0-521-14855-9"). No KPM or Malaysian imprint appears anywhere in the copy: this is the generic international Student's Book, the same volume the Malaysian Schemes of Work prescribe.
+- **Whole file:** 132 PDF pages, image-only scans (no text layer), 10,157,554 bytes — byte count and page count match MANIFEST row 4 exactly.
+- **Component map (complete):**
+  - PDF p.1 — front cover.
+  - PDF p.2 — imprint / copyright page (unnumbered).
+  - PDF p.3 — title page (unnumbered).
+  - PDF pp.4–5 — "Map of the book" (printed pp.2–3): the contents, unit by unit, with vocabulary, grammar, story/value, skills, thinking skills and "English for school" columns, plus per-unit Song / Creativity / Revision lines.
+  - PDF pp.6–119 — the body, printed pp.4–117: starter unit "Friends" (pp.4–9) and Units 1–9; **Year 1's prescribed share is printed pp.4–57** (Friends + Units 1–4), Year 2's share is pp.58–117 (Units 5–9) — see the Year 2 section.
+  - PDF pp.120–129 — "Festivals and cut-outs" (printed pp.118–127): Halloween cards (p.119), Christmas card (pp.121–122), Easter rabbit cut-out (p.123), Unit 2 tangram cut-out (p.125), Unit 8 skeleton cut-out (p.127), with blank versos (printed pp.120, 124, 126).
+  - PDF pp.130–131 — the sticker pages (centre section, unnumbered; tabbed by unit).
+  - PDF p.132 — back cover (series blurb, level table — Level 1 = Starter / Starters — and the ISBN barcode). The Map of the book gives the cut-outs' extent as pp.118–128; the last folio actually visible in this copy is printed p.127.
+- **Printed-page numbering and offset:** printed page = PDF page − 2 throughout the numbered body (verified on folios: PDF p.6 = printed 4, PDF p.59 = printed 57, PDF p.119 = printed 117, PDF p.129 = printed 127). Last numbered printed page seen: **127**.
+- **Record check:** the file is exactly the book the Year 1 and Year 2 Schemes of Work name ("Superminds 1"), and its own Map of the book proves the split the SoWs prescribe: Year 1 covers pp.4–57 and Year 2 pp.58–117 — the unit page-ranges in the Map (Friends pp.4–9; Unit 1 pp.10–21; Unit 2 pp.22–33; Unit 3 pp.34–45; Unit 4 pp.46–57; Unit 5 pp.58–69; Unit 6 pp.70–81; Unit 7 pp.82–93; Unit 8 pp.94–105; Unit 9 pp.106–117) match the SoWs' citation ranges page for page.
+
+### §2 Architecture
+
+- **Unit structure:** a 6-page starter unit ("Friends") plus nine 12-page units. Each unit runs the same cycle: vocabulary opener with chant → two grammar-focus pages → song page ("Singing for pleasure") → two-page picture story with a stated Value → Skills pages (listening / reading / speaking / writing in rotation) → a two-page "Learn and think" CLIL spread ("English for school": Art, Maths, Science, Social Science or Geography) → a Creativity page → a one-page Revision game or "Quiz time".
+- **Recurring features:** "Grammar focus" boxes (the book's only grammar presentation — model sentences to listen and repeat, never a rule); "Think!" thinking-skills tasks; phonics-focus captions closing each story (see §4); songs and chants on CD 1/CD 2 (track numbers printed on every audio task; the audio itself is not in the PDF); sticker activities keyed to the centre sticker section; cut-outs at the back.
+- **Listening/audio apparatus:** all listening is CD/DVD-ROM based and external to the file; no listening scripts are printed in the Student's Book.
+- **Assessment apparatus:** one Revision game/quiz page per unit; no tests, no exam material, **no answer keys** anywhere in the book.
+
+### §3 Unit by unit — Year 1 portion (printed pp.4–57)
+
+- **Friends — starter unit (pp.4–9).** The four Super Friends (Whisper, Thunder, Misty, Flash) introduce themselves: greetings, "What's your name? I'm …", numbers 1–10, "How old are you? I'm …", the alphabet song (p.6), and colour words (p.7). Story (pp.8–9, plot): the friends meet, show their powers (super strength, invisibility, speed, talking to animals), and a cat answers the name question with its own name. Value: making friends.
+- **Unit 1 "At school" (pp.10–21).** Classroom objects (pen, rubber, pencil, book, notebook, ruler, bag, desk, pencil case). Grammar: "What's this? It's a …", "Is it a …? Yes, it is / No, it isn't" (p.11); classroom imperatives with *please* (p.13). Story "Watch out, Flash!" (pp.14–15, plot): Flash's speed knocks a delivery man's boxes over; she apologises, helps, and returns everyone's scattered school things. Value: helping each other. CLIL (pp.18–19): primary and secondary colours (Art). Revision: poster + counting game (p.21).
+- **Unit 2 "Let's play!" (pp.22–33).** Toys (kite, doll, monster, plane, computer game, train, car, ball, bike, go-kart). Grammar: "What's his/her name? His/Her name's …", "How old is he/she?", "What's his/her favourite toy?" (p.23); adjectives before nouns — long/short, big/small, ugly/beautiful, old/new (p.25). Story "The go-kart race" (pp.26–27, plot): a rival team cheats in a go-kart race; Misty still wins fairly. Value: fair play — cheating is wrong. CLIL (pp.30–31): shapes through tangrams (Maths). Revision: spelling board game (p.33).
+- **Unit 3 "Pet show" (pp.34–45).** Animals (elephant, rat, lizard, frog, spider, duck, dog, cat). Grammar: prepositions *in/on/under* (p.35); "I like / I don't like …" and "What about you?" (p.37). Story "The spider" (pp.38–39, plot): children who are frightened of a spider watch it, touch it and end up liking spiders. Value: being brave. CLIL (pp.42–43): camouflage (Science). Revision: Quiz time (p.45).
+- **Unit 4 "Lunchtime" (pp.46–57).** Food (banana, cake, cheese sandwich, apple, pizza, sausage, chicken, steak, peas, carrots). Grammar: "I've got / I haven't got …" (p.47); "Have we got any …? Yes, we have / No, we haven't" (p.49). Story "The pizza" (pp.50–51, plot): Misty uses her speed to jump the lunch queue and take the last pizza; she is sent to the back, and a fresh pizza arrives for everyone. Value: waiting your turn. Skills (p.52): numbers 11–20 and shopping lists. CLIL (pp.54–55): fruit and vegetables (Science). Revision: the lunchbox game (p.57) — the last page of Year 1's share.
+
+### §4 Grammar spine and phonics (Year 1 portion)
+
+Present-tense frames only: *be* questions with short answers, imperatives, *have got* for possession, *like/don't like*, prepositions of place. **Phonics is a real strand in the book itself** (one rhyming caption per unit, printed on the story's second page): the short *a* sound (p.15), short *e* (p.27), short *i* (p.39), short *o* (p.51) — each taught through a single pictured sentence for listen-and-repeat, not through a grapheme table. (This is the pupil-book phonics the SoW's Phonics Table references point beyond; the table itself remains a Teacher's Book item.)
+
+### §5 Verification against the SoW-mapped account
+
+- **CONFIRMED — the split:** the book's own Map of the book gives Year 1's units as pp.4–57 and the Year 2 units as pp.58–117, exactly the SoWs' citation ranges.
+- **CONFIRMED — grammar ceiling:** present-tense frames, *have got*, *can* (Year 2), prepositions of place; **no past tense of any kind appears anywhere in the book** — all ten stories are told in the present tense.
+- **CONFIRMED — no exam preparation** anywhere in the volume.
+- **CONFIRMED with a refinement — phonics:** the mapped account said the Phonics Table lives in the absent Teacher's Book; the pupil's book itself does carry one phonics-focus caption per unit (short vowels a/e/i/o in Year 1's share), so the strand is not wholly teacher-book-only.
+
+### §6 Honest negatives (whole volume, stated once here)
+
+No past tense; no present perfect; no past perfect; no passive; no conditionals; no reported speech; no future forms (*going to* / *will* absent — the only future-coloured item is the suggestion frame "Let's …"); no exam preparation; no answer keys; no listening scripts in the book; no Malaysian content of any kind (settings, names and festivals — Halloween, Christmas, Easter — are international/British).
+
+### §7 Slips/errors as printed
+
+- No clear misprint, wrong key or internal contradiction was found in the Year 1 portion as read. The series name is printed "Super Minds" (two words) on the cover, title page and back cover, against the Schemes of Work's one-word "Superminds" — a naming difference between the ministry document and the book, not an error in either.
+
+### §8 Copy defects
+
+The copy is complete: cover, imprint, title page, Map of the book, all body pages in unbroken folio order 4–117, the festivals/cut-outs section, both sticker pages and the back cover are present. Pages are clean, flat scans; a few CLIL spreads are very slightly soft at this resolution but nothing is illegible or missing. The sticker pages and cut-out versos are blank or pictorial by design.
+
+### §9 Citation anchors (for the checker)
+
+**Citation anchors (for the checker):**
+1. Front cover (PDF p.1) reads "Super Minds — Student's Book 1" and names Herbert Puchta, Günter Gerngross and Peter Lewis-Jones.
+2. Imprint page (PDF p.2) states "First published 2012" and "15th printing 2015".
+3. Imprint page (PDF p.2) lists "ISBN 978-0-521-14855-9 Student's Book with DVD-ROM 1".
+4. Map of the book (printed p.2, PDF p.4) heads the starter unit "Friends (pages 4–9)".
+5. Map of the book (printed p.2, PDF p.4) gives Unit 4 "Lunchtime (pages 46–57)" with grammar "I've got / haven't got a (sandwich)".
+6. Printed p.4 (PDF p.6) opens "Friends" with the instruction "Listen and look. Then listen and say the words."
+7. Printed p.5 (PDF p.7) asks "How old are the Super Friends? Listen and write."
+8. Printed p.6 (PDF p.8) carries the alphabet song beginning "A, B, C, D, E, F, G — Sing with me …".
+9. Printed p.10 (PDF p.12) opens Unit 1 "At school" and labels item 9 "pencil case".
+10. Printed p.11 (PDF p.13) Grammar focus box reads "What's this? It's a pencil. / Is it a pen? No, it isn't. / Yes, it is."
+11. Printed p.13 (PDF p.15) Grammar focus box reads "Open your book, please. / Sit at your desk, please."
+12. Printed p.15 (PDF p.17) phonics caption reads "A fat rat in a black bag."
+13. Printed p.23 (PDF p.25) Grammar focus box reads "What's his name? His name's Ben. / What's her favourite toy? Her favourite toy's her doll."
+14. Printed p.27 (PDF p.29) phonics caption reads "Ken and his ten red pens."
+15. Printed p.35 (PDF p.37) Grammar focus box reads "The lizard is in / on / under the bag."
+16. Printed p.37 (PDF p.39) Grammar focus box reads "I like dogs. / I don't like dogs."
+17. Printed p.39 (PDF p.41) phonics caption reads "This is Tim and his silly sister Kim."
+18. Printed p.47 (PDF p.49) Grammar focus box reads "I've got a sandwich and an apple. / I haven't got a banana."
+19. Printed p.49 (PDF p.51) Grammar focus box reads "Have we got any cheese? Yes, we have. / No, we haven't."
+20. Printed p.51 (PDF p.53) phonics caption reads "Polly stops at the shop for a hot dog."
+21. Printed p.57 (PDF p.59) is "The lunchbox game", the Revision page closing Unit 4.
+
+**CITATION CHECK (2026-11-06, independent checker):** 21 anchors — 21 passed exactly as cited, 0 corrected in place, 0 not found.
+
+---
+
 ## Malaysia — English, Grade 2, English Language Scheme of Work — Primary Year 2 SK (file: g02-student.pdf)
 
 ### §1 Identity
@@ -184,6 +271,76 @@ The file is a **complete** copy of the Year 2 Scheme of Work: all 160 lessons pr
 18. Lesson 146 (printed p.318) teaches weather and countries: "It's + adjective + in + country".
 19. Lessons 152 and 153 are each described as "Design your own lesson linked to the main and the complementary content and learning standards", with Superminds 1 Unit 9 named in the Materials/References column — the description stands on their outline pages, printed pp.331 and 333 (their header pages, printed pp.330/332, read "Review of unit topics: vocabulary and language"). (anchor corrected at the independent citation check, 2026-11-04)
 20. Lesson 160's header (printed p.346) is misprinted "Language Arts 42"; the document's last printed page is 347, followed by two blank PDF pages and an unnumbered imprint page for Bahagian Pembangunan Kurikulum, Kementerian Pendidikan Malaysia.
+
+## Malaysia — English, Grade 2, Super Minds Student's Book 1 (Years 1–2 volume, Year 2 portion pp.58–117) — DIRECT READ (same file: malaysia-y1y2-super-minds-students-book.pdf)
+
+### §1 Identity
+
+Same volume as the Grade 1 section above — *Super Minds Student's Book 1* (Puchta, Gerngross & Lewis-Jones, Cambridge University Press, © 2012, this copy 15th printing 2015, ISBN 978-0-521-14855-9 for the Student's Book with DVD-ROM 1; 132 PDF pages; printed = PDF − 2). Year 2's prescribed share is the book's second half, **printed pp.58–117 (Units 5–9)**, followed by the shared back matter (Festivals and cut-outs pp.118–127, stickers, back cover). The Year 2 Scheme of Work's citations (Superminds 1 pp.58–117, Units 5–9 by name) match the book's Map of the book exactly. Filed as a separate section to keep the filing's one-section-per-year shape; the year split is proved by the book itself, not only by the SoWs (see §5).
+
+### §2 Architecture
+
+Identical unit cycle to Year 1's portion (vocabulary opener + chant → two grammar pages → song → two-page story with Value → Skills pages → two-page CLIL spread → Creativity → Revision game/quiz). Audio is CD 2/CD 3 by this point in the book (track numbers printed per task); no scripts and no answer keys are printed.
+
+### §3 Unit by unit — Year 2 portion (printed pp.58–117)
+
+- **Unit 5 "Free time" (pp.58–69).** Days of the week (p.58). Grammar: present simple routines with *on* + day (p.59); "Do you … at the weekend? Yes, I do / No, I don't" (p.61). Story "We're lost!" (pp.62–63, plot): the friends are lost in the woods, follow a rabbit to the lake, and then Thunder is lost in his turn. Value: asking for help when you need it. CLIL (pp.66–67): healthy living (Social Science). Revision: "Our week" poster (p.69).
+- **Unit 6 "The old house" (pp.70–81).** Rooms (bathroom, bedroom, living room, hall, dining room, kitchen, stairs, cellar). Grammar: "There's a … / There are …" (p.71); "Is there a …? / Are there any …?" and "How many … are there?" (p.73). Story "At the house" (pp.74–75, plot): invisible Misty explores a spooky old house alone while her friends wait outside frightened. Value: looking after your friends. CLIL (pp.78–79): habitats — polar region, ocean, jungle, desert, mountains (Geography). Revision: Quiz time (p.81).
+- **Unit 7 "Get dressed!" (pp.82–93).** Clothes (jeans, sweater, jacket, skirt, shorts, cap, shoes, socks, T-shirt, trousers). Grammar: "Do you like this/these …?" (p.83); present continuous for wearing, third person only — "He/She is wearing …", "Is he/she wearing …? Yes, he/she is / No, he/she isn't" (p.85). Story "The cap" (pp.86–87, plot): a boy accuses Gary of taking his cap; the two caps are identical, a bird snatches and returns the real one, and the boy apologises. Value: saying sorry. CLIL (pp.90–91): materials — cotton, leather, wool (Science). Revision: the dressing game (p.93).
+- **Unit 8 "The robot" (pp.94–105).** The body (head, arm, fingers, hand, knee, leg, toes, foot). Grammar: *can/can't* for ability, statements (p.95); "Can you …? Yes, I can / No, I can't" (p.97). Story "The problem" (pp.98–99, plot): the friends build a robot that speaks backwards until Misty fixes it. Value: teamwork. CLIL (pp.102–103): the skeleton (Science). Revision: "Our body" poster (p.105).
+- **Unit 9 "At the beach" (pp.106–117).** Holiday activity phrases (catch a fish, paint a picture, eat ice cream, take a photo, listen to music, look for shells, read a book, make a sandcastle). Grammar: suggestions with "Let's …" and the answers "Good idea / I'm not sure / Sorry, I don't want to" (p.107); "Where's the …? / Where are the …?" (p.109). Story "The top of the hill" (pp.110–111, plot): a hill race is blocked by a huge rock; the friends move it together and go up together instead of racing. Value: modesty. Skills (p.112): three country adverts (Australia, Canada, the UK). CLIL (pp.114–115): holiday weather — "It's hot and sunny in Mexico" (Geography). Revision: Quiz time (p.117), the book's last body page.
+
+### §4 Grammar spine and phonics (Year 2 portion)
+
+Present simple (routines, *do*-questions), *there is/are* in statements, questions and *How many* questions, *this/these*, present continuous **for wearing only and third person only**, *can/can't*, *Let's* suggestions, *Where's/Where are*. The SoW's note of a possessive *'s* item (its Lesson 14) is not presented as a grammar focus in the book's Year 2 pages; possessives appear inside the recycled *his/her* frames from Year 1. Phonics captions continue one per unit: short *u* (p.63), the letter sound *h* (p.75), the blends *sp/st* (p.87), the letter sound *g* (p.99), and *ee/ea* for the long *e* sound (p.111).
+
+### §5 Verification against the SoW-mapped account
+
+- **CONFIRMED — the split and the unit names:** Units 5–9 ("Free time", "The old house", "Get dressed!", "The robot", "At the beach") stand at pp.58–117 in the book, exactly as the Year 2 SoW cites them, including its detail points (present continuous third-person wearing in four lessons' worth of material at pp.85–89; *can/can't* statements before questions; *ee/ea* phonics at p.111).
+- **CONFIRMED — grammar ceiling:** no past tense, no present perfect, no passive, no conditionals, no reported speech anywhere in the Year 2 portion; every structure is present-tense plus imperatives and *can*.
+- **CONFIRMED — no exam preparation.**
+- **CORRECTED (minor) — the CD reference:** the SoW's Lesson 78 note ("Use the CD or read the short text aloud") is consistent with the book, whose listening tasks in this half are keyed to CD 2 and CD 3; nothing in the pupil's book prints the scripts, as mapped.
+
+### §6 Honest negatives
+
+As for the whole volume (see Grade 1 section §6): no past or perfect tenses, no passive, no conditionals, no reported speech, no future forms, no exam preparation, no answer keys, no listening scripts, no Malaysian content. Writing stays at patterned sentences, lists, posters and short guided pieces throughout both years.
+
+### §7 Slips/errors as printed
+
+- No clear misprint, wrong key or internal contradiction was found in the Year 2 portion as read.
+
+### §8 Copy defects
+
+None beyond the whole-volume note in the Grade 1 section: the copy is complete and in order through the back cover.
+
+### §9 Citation anchors (for the checker)
+
+**Citation anchors (for the checker):**
+1. Map of the book (printed p.3, PDF p.5) heads Unit 5 "Free time (pages 58–69)" and Unit 9 "At the beach (pages 106–117)".
+2. Printed p.58 (PDF p.60) opens Unit 5 "Free time" with a "This week" board listing Monday to Sunday.
+3. Printed p.59 (PDF p.61) Grammar focus box reads "I go swimming on Mondays. / I play football on Saturdays."
+4. Printed p.61 (PDF p.63) Grammar focus box reads "Do you watch TV at the weekend? Yes, I do. / No, I don't."
+5. Printed p.63 (PDF p.65) phonics caption reads "Mum jumps in the mud with the ducks."
+6. Printed p.70 (PDF p.72) opens Unit 6 "The old house" and labels item 8 "cellar".
+7. Printed p.71 (PDF p.73) Grammar focus box reads "There's a monster. / There are four cats."
+8. Printed p.73 (PDF p.75) Grammar focus box reads "Is there a plane? Yes, there is. / Are there any rats? No, there aren't."
+9. Printed p.75 (PDF p.77) phonics caption reads "Harry's hall is full of hats."
+10. Printed p.82 (PDF p.84) opens Unit 7 "Get dressed!" and labels item 1 "jeans" and item 10 "trousers".
+11. Printed p.83 (PDF p.85) Grammar focus box reads "Do you like this hat? Yes, I do. / Do you like these shoes? No, I don't."
+12. Printed p.85 (PDF p.87) Grammar focus box reads "Olivia's wearing a red sweater. / Is he wearing a blue T-shirt? Yes, he is."
+13. Printed p.87 (PDF p.89) phonics caption reads "Six spiders stop for sandwiches on the stairs."
+14. Printed p.94 (PDF p.96) opens Unit 8 "The robot" and labels item 5 "knee".
+15. Printed p.95 (PDF p.97) Grammar focus box reads "I can stand on one leg. / I can't touch my toes."
+16. Printed p.97 (PDF p.99) Grammar focus box reads "Can you swim? Yes, I can. / Can you dance? No, I can't."
+17. Printed p.99 (PDF p.101) phonics caption reads "Greg's got a big bag and a green go-kart."
+18. Printed p.107 (PDF p.109) Grammar focus box reads "Let's play the guitar. / Good idea. / I'm not sure. / Sorry, I don't want to."
+19. Printed p.109 (PDF p.111) Grammar focus box reads "Where's the blue book? It's in the green bag. / Where are the orange books? They're in the black bag."
+20. Printed p.111 (PDF p.113) phonics caption reads "Jean keeps her teeth really clean."
+21. Printed p.117 (PDF p.119) is the "Quiz time" Revision page closing Unit 9, with item 5 asking "Who wins the race?".
+
+**CITATION CHECK (2026-11-06, independent checker):** 21 anchors — 21 passed exactly as cited, 0 corrected in place, 0 not found.
+
+---
 
 ## Malaysia — English, Grade 3, English Language Scheme of Work, Primary Year 3 SK (National Schools) — the file contains NO pupil's textbook; the textbook it maps is *Get Smart plus 3* (file: g03-student.pdf)
 
@@ -271,6 +428,111 @@ The file is a **complete** copy of the Year 2 Scheme of Work: all 160 lessons pr
 18. The Unit 9 self-assessment (printed p.237) lists "talk about last weekend / talk about my holiday / ask and answer questions about holidays" — the full list also includes "ask and answer questions about last weekend". (anchor corrected at the independent citation check, 2026-11-04)
 19. The Lesson 156 self-assessment (printed p.258) lists "talk about different animals / talk about endangered Malaysian animals / compare different animals / compare people / talk about the Solar System".
 20. The image-credits page (printed p.254) credits an image of the Exchange 106 Building, Kuala Lumpur, sourced from ms.wikipedia.org; the final page of the file (PDF p.266) is the Bahagian Pembangunan Kurikulum address block (Aras 4-8, Blok E9, Kompleks Kerajaan Parcel E, 62604 W.P. Putrajaya).
+
+---
+
+## Malaysia — English, Grade 3, Get Smart Plus 3 Student's Book — DIRECT READ (file: malaysia-y3-get-smart-plus-students-book.pdf)
+
+### §1 Identity
+
+- **Title exactly as printed:** Cover reads "STUDENT'S BOOK — get smart plus 3". Authors printed on the cover: **H. Q. Mitchell, Marileni Malkogianni**. The cover carries two logos: **MM Publications** and **Syarikat Arena Ilmu** (the Malaysian partner imprint). [Corrected by the citation checker 2026-11-06: the cover logo reads "SYARIKAT ARENA ILMU", not "Arena Satu".]
+- **Publisher as printed:** MM Publications (with Syarikat Arena Ilmu). No imprint/copyright page exists in this copy — the file goes from the front cover straight to the Contents — so no publisher's address, year or edition statement is printed in the copy.
+- **Year/edition/ISBN as printed:** No year is printed anywhere in the copy. The back cover (PDF p.136) prints the price **RM 35.00**, the code **BT023001**, and the barcode **ISBN: 978-983-805-039-5** (verified at full resolution: digits 9789838050395). The back cover also carries the CEFR/YLE mapping table (Get Smart Plus 3 = "Leading to A1", YLE Movers band) and pictures the course components (Student's Book, Workbook, Student's CD-ROM, Teacher's Book, Class CDs, Interactive Whiteboard Material, Teacher's Resource CD/CD-ROM).
+- **Whole file:** 136 PDF pages, image-only scans (no text layer), 9,362,746 bytes — matching MANIFEST row 5.
+- **Component map (complete):**
+  - PDF p.1 — front cover.
+  - PDF pp.2–3 — Contents (unnumbered): a five-column table (Communication Objectives / Structures / Vocabulary / Cross-curricular Connections / 21st Century Competencies) for Modules 1–10, closing with the line "Phonics p.105 / CLIL p.115 / Picture dictionary p.120 / Photocopiable material p.124".
+  - PDF p.4 — the course characters (Greg and Anna) and the "21st Century Competencies" key (unnumbered).
+  - PDF pp.5–107 — the ten modules, printed pp.5–104 (each module designed as exactly 10 printed pages, closing with a Revision page), subject to the duplicate/missing-page defects in §9 (two pages duplicated early in the file shift the offset; two Module 6 pages are missing — see §9).
+  - Phonics section, printed pp.105–114 (ten one-page units, Phonics 1–10) — **printed p.113 (Phonics 9) is missing from this copy** (see §9).
+  - CLIL section, printed pp.115–119 (CLIL 1–5, one page each; printed p.119 is duplicated in the file).
+  - Picture Dictionary, printed pp.120–123.
+  - Photocopiable material: divider (printed p.124) and cut-out "Pictures" card pages at printed pp.125, 127, 129, 131, 133 (for Modules 3, 5, 6, 7, 9), each followed by a patterned verso page.
+  - PDF p.136 — back cover.
+- **Printed-page numbering and offset:** printed folios run 5–133. Printed page = PDF page until the first duplicate (PDF p.29 = printed 29); the offset then runs +2 (e.g. printed 38 = PDF 40, printed 58 = PDF 60) until the two missing Module 6 pages cancel it (printed 62 = PDF 62, and printed = PDF again through printed 101 = PDF 101); the p.101 duplicate makes it +1 (printed 105 = PDF 106) until the missing p.113 cancels it again (printed 114 = PDF 114); the p.119 duplicate restores +1 for the back matter (printed 133 = PDF 134), followed by a patterned verso (PDF p.135) and the back cover (PDF p.136). Last printed page: **133**.
+- **Record check:** the file is exactly the book the Year 3 Scheme of Work maps — *Get Smart Plus 3* — and the Contents' own module starts (pp.5, 15, 25, 35, 45, 55, 65, 75, 85, 95) match the SoW's Student's Book citations page for page, as do the back-matter citations (extra reading/CLIL at pp.115–119; cut-out cards at pp.125 and 131; Picture Dictionary at the back).
+
+### §2 Architecture
+
+- **Modules:** 10 modules of 10 pages. Each module runs: song opener presenting the module's vocabulary → "Smart kids" comic/dialogue spread → "Our world" CLIL reading (Social Studies / Science / Health / Language Arts in rotation) → grammar practice pages built around boxed structure tables → "Let's play" game page → Project page with a model text and a **Writing tip** → two-page "Story time" picture story with a printed VALUE → a one-page Revision.
+- **Recurring features:** boxed structure tables on the grammar pages (the book's grammar presentation — paradigms, not rules); the two course children (Greg and Anna) and their shark mascot; a Value per story (e.g. "Don't play tricks on your friends", "Practice makes perfect", "Believe in yourself"); Writing tips on capitals/full stops (Module 1), capital *I* and question marks (Module 2), adjectives before nouns (Module 5), intensifiers (Module 8), *and/but* (Module 9).
+- **Listening/audio apparatus:** listening tasks throughout, keyed to the class CDs (not in the file); **no listening scripts are printed** in the Student's Book.
+- **Assessment apparatus:** the per-module Revision pages only. No tests, no exam material, **no answer keys** printed anywhere.
+
+### §3 Module by module
+
+- **Module 1 "Welcome!" (pp.5–14).** Appearance adjectives; *have/has got* (statements p.5, questions p.7); numbers in tens to 100 (p.6); *can/can't* in all persons with questions (pp.8–9); telling the time — o'clock and half past (p.10). Project: Fay's family text (p.11). Story "Jerry's painting" (pp.12–13, plot): Jerry paints Marcy's dog Sally; Marcy stands behind the canvas and the "painting" Marcy admires is the real dog. Value: don't play tricks on your friends. Revision 1 (p.14).
+- **Module 2 "Every day" (pp.15–24).** Daily routines; present simple with *always/sometimes/never* (p.15); *Do/Does …?* questions (pp.16–17); jobs reading "People at work" (p.18); *What do you do?* and *want to be* (pp.19–20). Project: Jim's day diary (p.21). Story "What do you want to be?" (pp.22–23, plot): on Career Day a dentist, a firefighter and a chef describe their jobs to the class while the class goldfish dreams of being a cat. Value: every job is important. Revision 2 (p.24).
+- **Module 3 "Right now" (pp.25–34).** The present continuous in all forms — statements (p.25), questions (p.27), negatives (pp.28–29) — through sports, exercise and household chores. Reading "Let's exercise!" (p.28). Story "A yucky game of table tennis" (pp.32–33, plot): Tom loses the ball, fetches a white round object from the garden, and Nancy smashes an egg. Value: don't make hasty judgements. Revision 3 (p.34).
+- **Module 4 "Year in, year out" (pp.35–44).** Seasons, weather, months; *in* + month/season, *on* + day; birthdays (pp.35–37). Reading "Seasons Around the World" — Canada, Australia, Thailand (pp.38–39). Story "The Snow Globe" (pp.42–43, plot): children on a beach are pulled into a snow globe, play in the snow, and are shaken back to the beach. Value: each season has its own beauty. Revision 4 (p.44).
+- **Module 5 "My new house" (pp.45–54).** Rooms and furniture; prepositions of place (upstairs/downstairs, behind, in front of, next to); *Where's the …?*; *Whose …?* with possessive pronouns and *'s* (pp.45–47); *there is/are* (p.49). Reading: the traditional Japanese house (pp.48–49). Project: Sue's house (p.51). Story "The Ghost" (pp.52–53, plot): children hunt a ghost through a house at night and find only the mess they made, which they tidy. Value: be responsible and pick up your things. Revision 5 (p.54).
+- **Module 6 "Food, please!" (pp.55–64).** Food and ingredients; countable/uncountable with *some/any* in statements, negatives and questions (pp.55–57). Reading "Street Food" — cheeseburgers (US), souvlaki (Greece), noodles (China), crepes (France) (p.58). **This copy lacks the module's pp.60–61 (the Let's play and Project pages — see §9)**; the ordering language with *would like* that those pages evidently carried is still drilled in Revision 6 (p.64: "What would you like to eat? I'd like an omelette"). Story "The cooking competition" (pp.62–63, plot): Fay, a hopeless cook, practises with her father for a month and wins the class cooking competition. Value: practice makes perfect. (The recipe-imperative work the SoW describes sits in the CLIL recipe page, p.117.)
+- **Module 7 "Out and about" (pp.65–74).** Directions (p.65); farm animals and plurals, regular and irregular — *mice, wolves, sheep, children, tomatoes* (pp.66–67); rules as imperatives, positive and negative (pp.68–69); telling the time extended to quarter past/quarter to (p.70). Story "The secret tunnel" (pp.72–73, plot): children follow a map from an attic through a tunnel under the park and emerge in Grandmother's garden. Value: stay together, play together, win together. Revision 7 (p.74).
+- **Module 8 "Where were you yesterday?" (pp.75–84).** Past simple of *be* only — *was/were* statements, negatives, questions (pp.75–77); *there was/were* (p.79). Reading "A City from the Past" — New York City in 1900 (p.78). Project: Kelly's diary, with the intensifiers Writing tip (p.81). Story "Where were you on Saturday?" (pp.82–83, plot): a teacher collects the class's Saturday accounts; the last boy was at the playground, then the hospital. Value: share your experiences with friends. Revision 8 (p.84). (The two full verbs *went, bought* occur only inside the Module 9 song and later material, not here; in this module the past is *be* only, as mapped.)
+- **Module 9 "On holiday" (pp.85–94).** The full past simple — statements with regular and irregular verbs (pp.85–87), the holiday diary reading (p.88), negatives with *didn't* and *Did …?* questions (pp.89–90). Project: Tim's summer holiday, with the *and/but* Writing tip (p.91). Story "The cub" (pp.92–93, plot): on a winter holiday, children find an injured bear cub, take it to the vet, and return it to its mother. Value: respect and protect wild animals. Revision 9 (p.94).
+- **Module 10 "The world around us" (pp.95–104).** Animals; comparatives of short adjectives (pp.95–97); superlatives through the Solar System reading (pp.98–99) and "Which is the …?" questions (p.100). Project: a solar-system mobile (p.101). Story "Go, Papigo, Go!" (pp.102–103, plot): at the princess's birthday, strong and funny men compete; when her horse bolts, the poor farmer Papigo — the fastest — catches it and wins her thanks. Value: believe in yourself. Revision 10 (p.104).
+
+### §4 Back matter
+
+- **Phonics (pp.105–114):** ten one-page units keyed to the modules — l-blends (p.105), r-blends (p.106), s-blends (p.107), short vowels (p.108), *th/ch/sh/tch* (p.109), plural *-s/-es* sounds (p.110), long vowels (p.111), *ck/nk/ng* (p.112), Phonics 9 (p.113 — **missing from this copy**), *ph/wh/gh* (p.114). Each page: listen-and-say shells with phonemic transcriptions, then a chant/rhyme to circle the target sounds in.
+- **CLIL (pp.115–119):** "You can help!" — charity organisations (p.115; the Friends of Animals / Big Brothers Big Sisters texts the SoW's Lesson 29 uses); "Tick Tock around the world" — times and weather by city (p.116); "Strange Recipes" — a risotto recipe in imperatives (p.117); "Means of transport" — cars and bicycles then and now (p.118); camels compared (p.119).
+- **Picture Dictionary (pp.120–123):** the course vocabulary re-presented by topic (Appearance, Actions, Everyday activities, Jobs, Sports, Housework, Weather, Home, Food and drinks, Directions, Adjectives, Animals, Places, The world around us, Seasons).
+- **Photocopiable material (pp.124–133):** cut-out picture-card sets for the "Let's play" pages of Modules 3, 5, 6, 7 and 9.
+
+### §5 Grammar spine
+
+Present simple (routines, frequency adverbs, *do/does* questions) and present continuous in full; *have got*; *can*; *there is/are* present and past; past simple of *be* (Module 8) then of full verbs (Module 9); *some/any*; possessives; plurals; comparatives and superlatives of short adjectives; *would like* for ordering (light, in practice material). Writing tips carry the punctuation strand.
+
+### §6 Verification against the SoW-mapped account
+
+- **CONFIRMED — module/page architecture:** ten 10-page modules at SB pp.5–102+ with Revision pages closing each module, back matter at pp.115–119, cut-outs at pp.125 and 131, and the Picture Dictionary at the back — all exactly as the SoW cites them.
+- **CONFIRMED — past simple arrives in Module 9 (Unit 9)** with Module 8 restricted to *was/were* (the SoW's two incidental full verbs sit in Module 9's song, as its Language Arts note suggested); **CONFIRMED — comparatives and superlatives in Module 10**; **CONFIRMED — no present perfect, past perfect, passive, conditionals or reported speech anywhere in the book**; **CONFIRMED — no *going to* and no future *will*** (future reference is *want to be* only); **CONFIRMED — no exam preparation**.
+- **CORRECTED — phonics:** the SoW filing states "No phonics section of the Student's Book is cited for Year 3." The book itself carries a full ten-page **Phonics section (pp.105–114)** plus a phonics line for every module in its Contents (blends, short/long vowels, digraphs). The SoW document may not cite it, but the pupil's book has it; the mapped summary's implication that Year 3 has no systematic phonics in the textbook is wrong.
+- **CORRECTED (small) — time:** the map gives telling the time as o'clock/half past (Module 1); the book also teaches **quarter past / quarter to** in Module 7 (p.70), which the SoW's own Lesson 108 note anticipated.
+
+### §7 Honest negatives
+
+No present perfect; no past perfect; no passive; no conditionals; no reported speech; no future forms beyond *want to be*; no exam preparation; no answer keys; no listening scripts in the book; no Malaysian content in the modules (the Malaysian layer is the Syarikat Arena Ilmu co-imprint and the RM price/code on the back cover only).
+
+### §8 Slips/errors as printed
+
+- **Solar System text (p.98)** states Mercury "is also the smallest planet" and that "the hottest planet is Venus" — both correct; but the same text calls Saturn, Uranus and Neptune "the coldest planets" while the Revision 10 exercise (p.104) keys Uranus and Neptune as "the coldest planets" — a small internal inconsistency in the set counted as coldest.
+- No other clear misprint or contradiction was found as read. (The SoW's own worksheet garbles belong to the SoW filing, not to this book.)
+
+### §9 Copy defects
+
+- **Duplicated pages:** printed p.29 (PDF pp.29–30), printed p.33 (PDF pp.33–34 — the story's second page appears twice, the second copy standing before Revision 3), printed p.101 (PDF pp.103–104) and printed p.119 (PDF pp.121–122) are each scanned twice. No content is lost by the duplications.
+- **Missing pages (three):** **printed pp.60–61** — Module 6's "Let's play" and Project pages; the file passes straight from printed p.59 (PDF p.61) to the Module 6 story at printed p.62 (PDF p.62). And **printed p.113 (Phonics 9)** — the file passes straight from printed p.112 (Phonics 8, *ck/nk/ng*) to printed p.114 (Phonics 10, *ph/wh/gh*). These are the copy's real content losses; everything else in the designed sequence 5–133 is present.
+- **No imprint page:** the copy has no copyright/imprint leaf (cover → Contents), so no year or edition statement can be cited from the file; bibliographic identity rests on the cover and the back-cover barcode block.
+- The CLIL 1 page (printed p.115) is a photograph of the book page that includes a strip of a computer keyboard at the foot — a scanning artefact of this copy, losing no text. Otherwise the scans are clean and complete, in folio order, through the back cover; the copy is a used copy (light cover wear visible on the back cover).
+
+### §10 Citation anchors (for the checker)
+
+**Citation anchors (for the checker):**
+1. Front cover (PDF p.1) reads "STUDENT'S BOOK — get smart plus 3" and names H. Q. Mitchell and Marileni Malkogianni.
+2. Contents (PDF p.2) heads Module 1 "Welcome! p. 5" and Module 10 "The world around us p. 95".
+3. Contents (PDF p.3) closes with the line "Phonics p.105 / CLIL p.115 / Picture dictionary p.120 / Photocopiable material p.124".
+4. Printed p.5 (PDF p.5) opens Module 1 "Welcome!" with the song heading "Sing a song" and the word "purple" in the appearance set.
+5. Printed p.6 (PDF p.6) heads the spread "Smart kids" and prints the numbers "50 fifty, 60 sixty, 70 seventy, 80 eighty, 90 ninety, 100 a hundred".
+6. Printed p.10 (PDF p.10) heads the spread "Let's play" and prints "What's the time? It's three o'clock. / It's half past three."
+7. Printed p.11 (PDF p.11) Project page is headed "My family" and its Writing tip reads "All sentences start with a CAPITAL letter and finish with a full stop (.)".
+8. Printed p.15 (PDF p.15) opens Module 2 "Every day" with the routine words "do my homework, brush my teeth, have a shower, get dressed, comb my hair".
+9. Printed p.18 (PDF p.18) reading is headed "People at work" and names Dave Gordon, Jill Hudson and Josh Baker.
+10. Printed p.25 (PDF p.25) opens Module 3 "Right now" with the song "Having fun".
+11. Printed p.33 (PDF p.34) story page carries the VALUE line "Don't make hasty judgements."
+12. Printed p.38 (PDF p.40) reading is headed "Seasons Around the World" and its third text begins "Thailand has three seasons".
+13. Printed p.47 (PDF p.49) structure box reads "Whose coat is this? It's mine. / Whose trainers are these? They're Tim's. They're his."
+14. Printed p.51 (PDF p.53) Writing tip reads "Adjectives go before nouns."
+15. Printed p.58 (PDF p.60) reading is headed "STREET FOOD" and states "Souvlaki comes from Greece."
+16. Printed p.63 (PDF p.63) story page carries the VALUE line "Practice makes perfect."
+17. Printed p.70 (PDF p.70) prints "It's a quarter to three. / It's a quarter past eleven."
+18. Printed p.78 (PDF p.78) reading is headed "A CITY FROM THE PAST" and begins "This is a picture of New York City in the year 1900."
+19. Printed p.88 (PDF p.88) diary begins "Dear diary, Today was a great day."
+20. Printed p.98 (PDF p.98) reading is headed "The Solar System" and states "There are eight planets in our solar system."
+21. Printed p.105 (PDF p.106) opens the Phonics section with "Phonics 1" and the blends "pl /pl/ plane, bl /bl/ blonde, cl /kl/ clap".
+22. Back cover (PDF p.136) prints "RM 35.00" and "ISBN: 978-983-805-039-5" above the code "BT023001".
+
+**CITATION CHECK (2026-11-06, independent checker):** 22 anchors — 22 passed exactly as cited, 0 corrected in place, 0 not found.
 
 ---
 
@@ -364,6 +626,112 @@ The file is a **complete** copy of the Year 2 Scheme of Work: all 160 lessons pr
 
 *End of Band B draft. Both files in this band proved to be Schemes of Work only; no pupil's textbook pages exist in either file to file. If the parent project holds the actual Get Smart plus 3 / Get Smart Plus 4 Student's Books elsewhere, these two sections will need companion filings from those files; nothing here should be cited as a direct read of the textbooks.*
 
+## Malaysia — English, Grade 4, Get Smart Plus 4 Student's Book — DIRECT READ (file: malaysia-y4-get-smart-plus-students-book.pdf)
+
+### §1 Identity
+
+- **Title exactly as printed:** Cover reads "STUDENT'S BOOK — get smart plus 4" and carries the crest and name of the **Kementerian Pendidikan Malaysia** (Ministry of Education Malaysia) at top right, with a QR code at bottom right. The authors (named on the imprint page, not the cover) are **H. Q. Mitchell and Marileni Malkogianni**.
+- **Publisher as printed:** the imprint page (printed p.176) states: "First Published by MM Publications, 129 Colney Hatch Lane, Muswell Hill, London N10 1HD United Kingdom" (www.mmpublications.com); "This edition is published under license from MM Publications by **NND Enterprise**, 2A-1, Jalan Seksyen 2/17, Taman Kajang Utama, 43000 Kajang, Selangor, Malaysia" — "For Ministry of Education Malaysia". [Licensee name corrected by the citation checker 2026-11-06: the imprint reads "NND Enterprise" (email nndenterprise@yahoo.com.my), not "NHD Enterprise".] Printed by Ultimate Print Sdn Bhd, Shah Alam, Selangor.
+- **Year/edition/ISBN as printed:** "Copyright © 2019 MM Publications"; "First Published in Malaysia 2019"; "No. Siri Buku: 0002"; **ISBN 978-967-0460-38-3** (printed three times: imprint, the Perpustakaan Negara Malaysia Cataloguing-in-Publication block — "Mitchell, H. Q. / STUDENT'S BOOK : get smart plus 4 / H.Q. Mitchell, Marileni Malkogianni. / ISBN 978-967-0460-38-3" — and the back-cover barcode, which adds price **RM 29.90** and code **BT024001**). The imprint also gives "ISBN for the international edition: 978-1-912623-40-2". The back cover maps the book to CEFR A1–A2 / YLE Movers–Flyers.
+- **Whole file:** 177 PDF pages, image-only scans (no text layer), 10,351,080 bytes — matching MANIFEST row 6.
+- **Component map (complete):**
+  - PDF p.1 — front cover (KPM crest, QR code).
+  - PDF pp.2–3 — Contents (unnumbered), same five-column format as Year 3, closing with the back-matter line: "Cursive Writing p. 115 / Answers to quizzes p. 118 / Phonics p. 119 / CLIL p. 129 / Life Values p. 134 / Video Worksheets p. 138 / Play p. 158 / Project Skills p. 160 / Grammar Reference p. 161 / Picture Dictionary p. 168".
+  - PDF p.4 — course characters (Greg and Anna) + 21st Century Competencies key + the note "Student's Digital Material on https://www.mmpublications.com/getsmartplus/".
+  - PDF pp.5–114 — the ten modules with their Revision pages and the five interleaved "Let's Read" reader spreads (printed pp.5–114; module starts pp.5, 15, 27, 37, 49, 59, 71, 81, 93, 103).
+  - PDF pp.115–176 — back matter: Cursive Writing (pp.115–117), Answers to quizzes (p.118), Phonics 1–10 (pp.119–128), CLIL 1–5 (pp.129–133), Life Values 1–2 (pp.134–137), Video Worksheets Episodes 1–10 (pp.138–157), the play script "The Fairy Tale Birthday" (pp.158–159), Project Skills (p.160), Grammar Reference (pp.161–167), Picture Dictionary (pp.168–175), imprint page (p.176).
+  - PDF p.177 — back cover.
+- **Printed-page numbering and offset:** printed = PDF throughout (verified: PDF p.5 = printed 5, PDF p.118 = printed 118, PDF p.176 = the imprint page). Last printed page: **176**.
+- **Record check:** the file is exactly the book the Year 4 filing maps — *Get Smart Plus 4* — and the direct read confirms the filing's SB citations from the Teacher's Book side: the Answers to quizzes stand at SB p.118, Phonics 2 (the /eə/ page) at SB p.120, and the CLIL spreads at SB pp.129–133 (the filing's "CLIL pp.130–133" is the same spread run, one page wider at the front).
+
+### §2 Architecture
+
+- **Modules:** 10 modules, each 10–12 pages: song opener (with a "Rewrite the song in cursive" task in most modules) → "Smart kids" comic → "Our world" CLIL reading → grammar pages with boxed structure tables → "Let's play" game → Project with model text + Writing tip **or** a "Reading time" spread → two-page "Story time" — and, distinctively, **four of the stories are two-part serials continued in the next module** (Charlie's Birthday Surprise, Modules 1–2; Prince Nebi's Ring, Modules 3–4; The Lost Boy, Modules 6–7; Tiny and Leo, Modules 8–9). A Revision page closes each pair of modules' work inside the following pages (Revision pages at pp.14, 26, 36, 48, 58, 70, 80, 92, 102, 114).
+- **Reader thread:** five "Let's Read" graded-reader spreads (after Modules 2, 4, 6, 8, 10) retell known tales in controlled past-tense narration with comprehension, ordering and summary tasks: *The Emperor's Nightingale* (pp.24–25), *The Wishing Fish* (pp.46–47), *Mowgli* from The Jungle Book (pp.68–69), *Badang the Brave / The King of the Crocodiles* — a Malaysian folk tale (pp.90–91), and *Ali Baba and the 40 Thieves* (pp.112–113).
+- **Malaysian layer (real, and large):** unlike the international Get Smart Plus 3, this Malaysian edition is localised throughout: Kumar's pen-pal email from Melaka (p.11); Malaysia first in the countries set (p.5); the Malaysia International Gastronomy Festival reading (p.56); bus fares in ringgit and sen and a ticket to Cyberjaya (p.64); Kinah's Malayan tiger project (p.87); Zara's text on Nicol David (p.99); the Badang folk tale (pp.90–91); a whole Life Values text about Malaysia — its peoples, the Jalur Gemilang, the Malayan tiger "Pak Belang", the hibiscus (pp.134–135); prices in RM inside the Grammar Reference; and cursive copy-lines "Malaysia" and "I'm from Malaysia" (pp.116–117).
+- **Listening/video apparatus:** listening tasks keyed to the class CDs (tracks run past 83, as the filing's TB map recorded), plus a 20-page Video Worksheets section (Episodes 1–10, pp.138–157) for the course videos. **No listening or video scripts are printed** in the Student's Book.
+- **Assessment apparatus:** per-module Revision pages and the printed Answers to quizzes (p.118 — quiz scoring keys for Modules 3, 5 and 8 only, the self-scored personality-style quizzes). No tests and no exam material.
+
+### §3 Module by module
+
+- **Module 1 "Where are you from?" (pp.5–14).** Countries and nationalities (Malaysia, the US, the UK, Mexico, Brazil, Korea, China); routines with frequency adverbs (pp.8–9); present continuous recycled in the "What is he doing?" game (p.10). Project: Kumar's email (p.11). Story: Charlie's Birthday Surprise 1 (pp.12–13, plot): Charlie idolises TV karate actor Bruce Chang and dreams of meeting him. Revision 1 (p.14). Let's Read 1 follows in Module 2's span (pp.24–25).
+- **Module 2 "My week" (pp.15–26).** School subjects; "How often do you …?" with once/twice/three times a week (pp.16–17); *have to / don't have to* for housework (pp.18–20); survey + bar-chart project (p.21, Maths). Story: Charlie's Birthday Surprise 2 (pp.22–23, plot): Bruce Chang himself is the surprise birthday guest. Let's Read 1: The Emperor's Nightingale (pp.24–25, plot): the emperor prefers a mechanical nightingale, falls ill, and the real bird's song restores him. Revision 2 (p.26).
+- **Module 3 "In the past" (pp.27–36).** Ancient Egypt opener quiz (p.27); the past simple in full — statements, *did*-questions, wh-questions about the past (pp.28–31); "The Curse" Tutankhamun comic-history (p.30); Egypt past-and-present facts (p.32). Project: Kevin's Egypt email + Writing tip (p.33). Story: Prince Nebi's Ring 1 (pp.34–35, plot): Selva's class visits a museum and learns of Prince Nebi, whose gold ring was stolen from his tomb. Revision 3 (p.36).
+- **Module 4 "Celebrations" (pp.37–48).** Ordinal numbers and dates (p.37); *be going to* in all forms (pp.38–42) around an Independence Day parade dialogue with Malaysian-named children; celebrations-around-the-world reading (p.40). Project: Sabrina's diary (p.43). Story: Prince Nebi's Ring 2 (pp.44–45, plot): at the 31 August Independence Day parade the children spot the stolen ring on a man's hand; Selva's police-officer father recovers it. Let's Read 2: The Wishing Fish (pp.46–47, plot): a lazy boy wishes the sheep away; drought follows and the family is ruined. Revision 4 (p.48).
+- **Module 5 "Eating right" (pp.49–58).** Food containers and *some/any* (pp.49–51); *How much / How many* (pp.52–53); picnic board game (p.54); health-log project (p.55); Reading time: the Malaysia International Gastronomy Festival (p.56) and a restaurant dialogue (p.57). Revision 5 (p.58). (No separate Story time in this module; the reading spread takes its place.)
+- **Module 6 "Getting around" (pp.59–70).** Street safety song (p.59); transport questions — *How are we going to get there? How long does it take? What time does the bus leave/arrive?* (pp.60–63); means-of-transport reading (tuk-tuks, gondolas, snowmobiles, p.62); prices in ringgit and sen (p.64); transport model-making project (p.65). Story: The Lost Boy 1 (pp.66–67, plot): Amin and Kelly cycle to the park and, leaving at dark, glimpse something moving. Let's Read 3: Mowgli (pp.68–69, plot): the monkeys carry Mowgli off; Baloo and Bagheera go to Kaa for help. Revision 6 (p.70).
+- **Module 7 "Helping out" (pp.71–80).** Object pronouns in the opener song (p.71); possessive adjectives and pronouns in full (pp.72–73); recycling reading (p.74); indefinite pronouns (pp.75–76); jar-recycling project (p.77). Story: The Lost Boy 2 (pp.78–79, plot): the "something" is a lost boy, Adam; they take him to the police station and he is reunited with his parents — and his cat Tiger is found too. Revision 7 (p.80).
+- **Module 8 "Amazing animals" (pp.81–92).** Animal quiz opener (p.81); comparatives completed — long adjectives with *more*, *better/worse*, *much/many → more* (pp.82–83); dinosaurs reading (p.84); *as … as* (pp.85–86). Project: Kinah's Malayan tiger text (p.87). Story: Tiny and Leo 1 (pp.88–89, plot): Leo the lion saves Tiny the mouse from a snake and lets him go. Let's Read 4: Badang the Brave (pp.90–91, plot): the doctor Badang rides the crocodile king to the palace, saves the princess, and promises secrecy — then tells his friend. Revision 8 (p.92).
+- **Module 9 "Get active!" (pp.93–102).** *like/love/enjoy/don't like/hate + -ing* with *because* (p.93); superlatives completed — *the most*, *best/worst/farthest* (pp.94–95); popular sports reading — table tennis (China), ice hockey (Russia), cricket (Australia) (p.96); *very good at / good at / not very good at* (p.98). Project: Zara on Nicol David (p.99). Story: Tiny and Leo 2 (pp.100–101, plot): caught in the hunters' net, Leo is freed by Tiny, who climbs and cuts the rope. Revision 9 (p.102).
+- **Module 10 "What's the matter?" (pp.103–114).** Illness/injury vocabulary with *have got* (p.103); *should/shouldn't* for advice (pp.104–105, 107–108); Safety at home reading (p.106); beach-safety poster project (p.109); germs reading (pp.110–111). Let's Read 5: Ali Baba and the 40 Thieves (pp.112–113, plot, first half): Ali Baba finds the cave; greedy Cassim forgets the words and is trapped. Revision 10 (p.114).
+
+### §4 Back matter
+
+- **Cursive Writing (pp.115–117):** the joined-up alphabet (look and copy), traced words (the Module 1 country set, beginning with "Malaysia"), and copied song lines including "I'm from Malaysia."
+- **Answers to quizzes (p.118):** scoring keys for the Module 3, 5 and 8 quizzes — the only answer keys in the book.
+- **Phonics 1–10 (pp.119–128):** one page per module: *-s/-es* ending sounds (p.119); /eə/ spelt *ere/air/ear* (p.120); *-ed* ending sounds /t/, /d/, /ɪd/ (p.121); *oi/oy* (p.122); *ow/ou* (p.123); long vs short *ow* (p.124); *ay/ai* and *i/ie* (p.125); silent *gh* and *k* (p.126); *or/ar/er* (p.127); *ir/ur* (p.128). Same format as Year 3: listen-and-say clouds with transcriptions, then a chant to mark the sounds in.
+- **CLIL 1–5 (pp.129–133):** Strange Schools (p.129); How good for you are they? — foods shaped like body parts (p.130); Famous buildings around the world (p.131); the ocean food chain (p.132); Teeth Facts! (p.133).
+- **Life Values (pp.134–137):** (1) Malaysia — a full-page national text with comprehension and a survey/interview project; (2) Dylan's story — a boy who lets his brother do his project, cannot present it, apologises and redoes it himself (values: integrity, honesty, responsibility).
+- **Video Worksheets (pp.138–157):** Episodes 1–10 matching the modules (World sports; My week; In the past; Special days; Eating right; Getting around; Helping out; Amazing animals; Get active!; What's the matter?), each a warm-up plus while-watching tasks.
+- **Play (pp.158–159):** "The Fairy Tale Birthday", a short class play script in three scenes.
+- **Project Skills (p.160):** a six-step project method (brainstorm → plan → research → create → proofread → present) with a checklist.
+- **Grammar Reference (pp.161–167):** full paradigm tables for every structure in the book, module by module — the book's own statement of its grammar ceiling (see §5).
+- **Picture Dictionary (pp.168–175):** the course vocabulary by topic, Malaysia first in Countries & Nationalities.
+
+### §5 Grammar spine
+
+Present simple and continuous (recycled and extended); frequency adverbs and *How often*; *have to*; past simple in full; *be going to*; *some/any*, *How much/many*; imperatives and *by* + transport, gerund as subject (light); object pronouns; possessives in full; indefinite pronouns; comparatives and superlatives in full; *like/love/hate + -ing*; *very good at*; *should/shouldn't* (and a single *shall* in a song line, as the filing's TB map noted). The Grammar Reference (pp.161–167) is the control: it contains **no *will* paradigm, no present perfect, no passive, no conditional and no reported-speech table**.
+
+### §6 Verification against the SoW-mapped account
+
+- **CONFIRMED — architecture and citations:** two CDs' worth of listening with tracks past 83; Answers at SB p.118; the /eə/ Phonics page at SB p.120; CLIL at SB pp.129–133 (filing said 130–133); the module grammar map (*have to* in Module 2, past simple in Module 3, *going to* in Module 4, gerunds in Module 6, object pronouns/possessives/indefinite pronouns in Module 7, full comparatives in Module 8, superlatives and *like + -ing* in Module 9, *have got* for symptoms and *should* in Module 10) — all present as mapped.
+- **CORRECTED — the *will*-for-prediction lesson:** the mapped account (from the Teacher's Book) places one *will*-for-prediction lesson in Module 2 (Lesson 23). **The pupil's book contains no *will* at all** — no presentation, no practice, and no *will* entry in its Grammar Reference. In the book the pupils actually hold, Year 4's future is *be going to* only; the *will* item exists, if anywhere, in teacher-side material.
+- **CONFIRMED — grammar ceiling:** no present perfect, no past perfect, no passive, no conditionals, no reported speech anywhere in the book, Grammar Reference included; **no exam preparation** anywhere.
+
+### §7 Honest negatives
+
+No *will* futures; no present perfect; no past perfect; no passive; no conditionals; no reported speech; no exam preparation; no listening/video scripts printed; answer keys limited to the three quiz keys on p.118. (Unlike Years 1–3, "no Malaysian content" does NOT apply — see §2.)
+
+### §8 Slips/errors as printed
+
+- **Module 8 quiz (p.81)** asks "Which camel has got more humps? a. the Arabian b. the Bactrian" — correct (Bactrian, two humps); but the **CLIL camel text carried over in the Year 3 book** is not this book's problem. Within this book, one factual slip stands out: the **Dinosaurs text (p.84)** dates the dinosaurs' time on Earth as "245 million years ago" as the period when they "lived on Earth" — a simplification (they arose then and lived until 66 million years ago), printed as a single date.
+- The **Life Values 1 text (p.134)** says the Malaysian flag "has got a nickname too: 'Stripes of Glory' or 'Jalur Gemilang'" — Jalur Gemilang is the flag's official name rather than a nickname; a loose wording, not a hard error.
+- No misprints in the grammar tables were found; the Grammar Reference agrees with the module pages throughout.
+
+### §9 Copy defects
+
+The copy is complete and in unbroken folio order 5–176, with imprint page and back cover present; no duplicated or missing pages were found. It is a used copy: a previous owner's name stamp/annotation appears on the contents area of the Cursive Writing spread region (printed p.131 shows a stamped number/name at the foot) and light marks elsewhere, but no text is obscured. Scans are clean and legible throughout.
+
+### §10 Citation anchors (for the checker)
+
+**Citation anchors (for the checker):**
+1. Front cover (PDF p.1) reads "STUDENT'S BOOK — get smart plus 4" and carries the "KEMENTERIAN PENDIDIKAN MALAYSIA" crest.
+2. Contents (PDF p.3) closes with the line "Grammar Reference p. 161 / Picture Dictionary p. 168".
+3. Printed p.5 (PDF p.5) opens Module 1 "Where are you from?" with flags in the order Malaysia, the US, the UK, Mexico, Brazil, Korea, China.
+4. Printed p.11 (PDF p.11) Project email is headed "From: Kumar@mal.com" and begins "My name's Kumar and I'm ten years old. I'm from Malaysia and I live in Melaka." [Corrected by the citation checker 2026-11-06: the address as printed is "Kumar@mal.com", not "Kumar@mail.com" — same page, fragment corrected in place.]
+5. Printed p.18 (PDF p.18) reading is headed "HOUSEWORK" and begins "Hi! I'm Beth. I always help at home."
+6. Printed p.21 (PDF p.21) Project instructs "Make a bar chart."
+7. Printed p.30 (PDF p.30) reading is headed "THE CURSE" and states "In 1922, two Englishmen, Howard Carter and Lord Carnarvon, went to the Valley of the Kings."
+8. Printed p.37 (PDF p.37) opens Module 4 "Celebrations" with the ordinal list "1st – first … 31st – thirty-first".
+9. Printed p.43 (PDF p.43) Writing tip reads "Write about a special day. Start your diary entry with Dear diary."
+10. Printed p.56 (PDF p.56) reading is headed "MALAYSIA INTERNATIONAL GASTRONOMY FESTIVAL" with the line "www.migf.com".
+11. Printed p.64 (PDF p.64) dialogue includes "I'd like a ticket for Cyberjaya, please." and "It's six ringgit and fifty sen."
+12. Printed p.68 (PDF p.68) heads the reader "Let's Read 3" and titles the extract "MOWGLI".
+13. Printed p.84 (PDF p.84) reading is headed "Dinosaurs" and begins "The 'terrible lizards' lived on Earth 245 million years ago."
+14. Printed p.87 (PDF p.87) Project text is headed "My favourite animal" and begins "Malayan tigers live in forests in Malaysia and parts of Thailand."
+15. Printed p.90 (PDF p.90) heads the reader "Let's Read 4" with title options including "B. Badang the Brave".
+16. Printed p.99 (PDF p.99) Project text is headed "My favourite athlete" and begins "My favourite athlete is Nicol David."
+17. Printed p.106 (PDF p.106) reading is headed "Safety at home" with rule 1 "You shouldn't play with knives."
+18. Printed p.116 (PDF p.116) Cursive Writing page has pupils trace the word "Malaysia".
+19. Printed p.118 (PDF p.118) is headed "Answers to quizzes" and begins "Answers for Module 3 quiz".
+20. Printed p.120 (PDF p.120) Phonics 2 presents "ere /eə/, air /eə/, ear /eə/" with the words "where, there, hair, chair, pear, bear".
+21. Printed p.134 (PDF p.134) heads the text "Life Values 1" and titles it "MALAYSIA", stating "Malaysia is home to about 32 million people."
+22. Imprint page (printed p.176, PDF p.176) states "ISBN 978-967-0460-38-3", "First Published in Malaysia 2019" and "No. Siri Buku: 0002".
+
+**CITATION CHECK (2026-11-06, independent checker):** 22 anchors — 21 passed exactly as cited, 1 corrected in place, 0 not found.
+
+---
+
 ## Malaysia — English, Grade 5, English Language Scheme of Work — Primary Year 5 SK (file: g05-student.pdf)
 
 ### §1 Identity
@@ -449,6 +817,108 @@ Twenty checkable claims, spread across the whole file. "Printed p." = Scheme of 
 18. The Unit 7 self-assessment sheet (printed p.184) lists "role-play an interview and ask for and give advice".
 19. Lesson 151 (printed p.193) teaches "'Will' for predicting" in Unit 8 "Going away".
 20. Appendix 1 begins on printed p.204 and the file's last printed page, p.210 (PDF p.211), ends the 160-lesson Learning Standards mapping; the file's final page (PDF p.214) is the Bahagian Pembangunan Kurikulum address back cover.
+
+---
+
+## Malaysia — English, Grade 5, English Plus 1 Student's Book, Second Edition — DIRECT READ (file: malaysia-y5-english-plus1-students-book.pdf)
+
+### §1 Identity
+
+- **Title exactly as printed:** Front cover reads "**English Plus 1 — Second Edition**, Student's Book" (Wetz and Pye named on the cover), and carries at top right the badge "**KPM**" (Kementerian Pendidikan Malaysia). The back cover headwords the same title with "Year 5".
+- **Publisher as printed:** the imprint page (PDF p.121) states the book "was originally published in English in 2016" by **Oxford University Press** and that "**My Bookstore Sdn Bhd** is solely responsible for this adaptation" — My Bookstore Sdn Bhd, Riveredge Commercial Centre, Jalan Merdeka, Off Jalan Tun Haji Abdul Rahman Yaakub, 93050 Kuching, Sarawak, Malaysia (the back cover carries the "my@bookstore Sdn. Bhd." logo beside the Oxford University Press line "With content from OXFORD UNIVERSITY PRESS"). Printed by C.T. Book Makers Sdn Bhd, Selangor. "© Oxford University Press 2016."
+- **Year/edition/ISBN as printed:** "First published **2021**" (this Malaysian printing); "Serial No: **KPM-2020-9789671834206-0026**"; **ISBN 978-967-18342-0-6** (imprint and back-cover barcode agree; back cover adds price **RM38.00** and code **BT025001**, and bands the book CEFR A1–B1). The underlying work is the *English Plus 1* Student's Book, **Second Edition (2016)**.
+- **Whole file:** 122 PDF pages, image-only scans (no text layer), 44,060,870 bytes — matching MANIFEST row 7.
+- **Component map (complete):**
+  - PDF p.1 — front cover.
+  - PDF p.2 — the **Rukun Negara** (Malaysia's national pledge) printed in Malay — the standard front matter of a Malaysian school textbook.
+  - PDF pp.3–4 — Contents (two pages).
+  - PDF pp.5–91 — the Starter unit (printed pp.4–11) and Units 1–8 (printed pp.12–91), each unit closing with a Review page and a Puzzles and Games page.
+  - PDF pp.92–119 (printed) — the "Options" back matter: Extra Listening and Speaking (pp.92–99), Curriculum Extra (pp.100–105), Culture (pp.106–111), Projects (pp.112–115), Songs (pp.116–119) — one optional spread per unit for most sections (see §4).
+  - PDF p.121 — imprint/acknowledgements page (unnumbered).
+  - PDF p.122 — back cover.
+- **Printed-page numbering and offset:** printed = PDF − 1 throughout (PDF p.5 = printed 4; PDF p.120 = printed 119). Last printed page: **119**.
+- **Record check:** the file is exactly the book the Year 5 filing maps — *English Plus 1*, Second Edition — and the direct read confirms the filing's page citations from the book's own Contents (Starter + Units 1–8; the Options sections at pp.92–119, which the SoW cites as Extra listening and speaking p92, Curriculum extra pp.100–105, Culture pp.106–111, Project pp.112–115, Songs pp.116–119).
+
+### §2 Architecture
+
+- **Unit pattern (fixed, 10 pages per unit):** Vocabulary opener → Reading → Language Focus 1 → Vocabulary and Listening → Language Focus 2 → Speaking (a functional dialogue with Key Phrases and a Study Strategy box) → Writing (a model text, a Writing Guide with Task / Think and Plan / Write / Check steps, and a named "Language point") → Review → Puzzles and Games. Every page carries a can-do line ("I can talk about places in a town or city").
+- **Recycling by design:** the Starter unit re-teaches the lower-primary grammar (have got, this/that/these/those, question words, and/or/but); every unit's Review re-tests its own language; every unit opener cross-references its Options back-matter pages.
+- **Pronunciation:** pronunciation work is embedded per lesson (the /ə/ in comparatives, third-person -s /ɪz/, -ed endings, diphthongs, question stress) rather than gathered in a phonics section — there is **no phonics programme** in this book.
+- **Assessment apparatus:** Review and Puzzles and Games pages per unit only. **No answer keys** are printed anywhere in the Student's Book; listening scripts live in the Teacher's Book (as the filing's mapped account recorded).
+
+### §3 Starter and units
+
+- **Starter "Free time" (pp.4–11).** Basic adjectives with opposites and degree words *very/really/quite* (p.8 — the photo panel prices the phones in **ringgit**: RM180, RM400, RM1200, RM3000, a Malaysian localisation inside an otherwise international page); *have got* (p.9); *this/that/these/those* (p.9); countries and nationalities (p.10); question words and *and/or/but* with the "International Friends" email model (p.11).
+- **Unit 1 "Towns and cities" (pp.12–21).** Town places through a London guide (pp.12–13); *there is/are* with *a/an, some, any* (pp.13, 15); the "City on the Sea" cruise-ship text (p.14); comparatives in full (pp.16–17); asking where places are (p.18); Edinburgh description model + position of adjectives (p.19).
+- **Unit 2 "Days" (pp.22–31).** Routines and the Days and Nights quiz (pp.22–23); frequency adverbs with position rules (p.23); the Radfords text (p.24); present simple affirmative/negative (p.25) and questions (p.27); the Chinese New Year listening (p.26); making plans and suggestions (p.28); Notting Hill Carnival model + position of *also* (p.29).
+- **Unit 3 "Wild life" (pp.32–41).** Animals via Creature Close-ups (pp.32–33); the blobfish "ugliest animals" text (p.34); superlatives in full (p.35); *can/can't* for ability with *How …?* questions (pp.36–37); asking permission (*Can I …? / Is it OK if I …?*) (p.38); the Philippine eagle leaflet model + giving examples (p.39).
+- **Unit 4 "Learning world" (pp.42–51).** School subjects (pp.42–43); the World Class! schools text (p.44); present continuous affirmative/negative with -ing spelling rules (p.45); present continuous questions and the continuous/simple contrast (p.47); asking for help with languages + the alphabet pronunciation table (p.48); Danny's Irish-school email model + *so* (p.49).
+- **Unit 5 "Food and health" (pp.52–61).** Food via school lunches around the world (pp.52–53); the Sumo Style text (p.54); countable/uncountable nouns with *some, any, much, many, a lot of* (p.55); health adjectives and the Health Quiz (p.56); verb + *-ing* after like/love/hate/prefer, and imperatives for advice (p.57); ordering in a café (p.58); Sally's food blog model + sequencing words (p.59). **The SoW's one *be going to* item for this unit sits in a Language Arts lesson of the SoW itself; the textbook's Unit 5 teaches no future form — confirmed from the book (see §6).**
+- **Unit 6 "Sport" (pp.62–71).** Sports quiz (pp.62–63); the Olympics Timeline text (p.64); *there was/were* and *was/were* (p.65); past simple affirmative, regular and irregular, with -ed pronunciation and past time expressions (pp.66–67) — the page carries a boxed panel on **Abdul Latif Romly**, Malaysia's 2016 Paralympic long-jump champion, as past-simple practice; "Last weekend" dialogue (p.68); Usain Bolt profile model + paragraphs as a named language point (p.69).
+- **Unit 7 "Growing up" (pp.72–81).** Describing people (pp.72–73); "A Life in Photos" (p.74); object pronouns with past simple affirmative and negative (*didn't* + base verb) (p.75); Robert Wadlow life-events text (p.76); past simple questions in full (p.77); interview role-play (p.78); Chris Hemsworth FAQ model + punctuation lesson (p.79).
+- **Unit 8 "Going away" (pp.82–91).** Holiday things and the Travel Quiz (pp.82–83); *be going to* in all forms (p.85, from the Class News summer-plans text, p.84); extreme weather and recycled superlatives (p.86); *will/won't* for predictions (p.87); offers and promises with *will* (p.88); Natalie's email model + *because* (p.89).
+
+### §4 The Options back matter (pp.92–119)
+
+- **Extra Listening and Speaking (pp.92–99):** eight optional lessons — personal information; timetables **with telling the time in words** (quarter past, half past, twenty-five past two, p.93); phoning a friend; comparing two pictures; shopping at the market **with weights** (grams and kilos, p.96); video games; describing people in a photo; the weather forecast.
+- **Curriculum Extra (pp.100–105):** six CLIL readings with tasks — Maps (Geography, p.100), Time Zones (Geography, p.101), Vertebrates (Natural science, p.102), Nutrients in Food (Science, p.103), and two literature extracts credited on the page to Oxford Bookworms: *The Elephant Man* by Tim Vicary (Language and literature, p.104) and *The Adventures of Tom Sawyer* by Mark Twain, retold by Nick Bullard (p.105). (Units 4 and 6 have no Curriculum Extra spread; the section serves Units 1, 2, 3, 5, 7, 8.)
+- **Culture (pp.106–111):** six readings — Liverpool/the UK; Weird Festivals (Welly Wanging; the Camel Cup); home schooling; Football vs. baseball; Amelia Earhart; Theme Parks, USA. (Units 3 and 5 have no Culture spread.)
+- **Projects (pp.112–115):** four projects — a class survey with bar chart (Unit 2), My Dream School (Unit 4), inventing a hybrid sport (Unit 6), a holiday poster (Unit 8).
+- **Songs (pp.116–119):** four printed song texts with tasks — "I'm the King" (Unit 1), "I Can Tell You" (Unit 3), "Delicious" (Unit 5), "The Story of Your Life" (Unit 7).
+
+### §5 Grammar spine
+
+Present simple (full); present continuous (full, contrasted with the simple); *have got*; *there is/are* and *there was/were*; comparatives and superlatives (full); *can/can't* (ability and permission); countable/uncountable nouns with *some/any/much/many/a lot of*; verb + *-ing*; imperatives; past simple (affirmative, negative, questions — the book's biggest grammar block, Units 6–7); object pronouns; *be going to*; *will/won't* (predictions, offers, promises). Adverb position, adjective position, sequencing words, *because* and *so* are the named language points.
+
+### §6 Verification against the SoW-mapped account
+
+- **CONFIRMED — architecture:** Starter + Units 1–8 exactly as mapped, with the SoW's SB citations (pp.2–119) matching the book's own Contents; listening scripts absent from the SB (Teacher's Book only); no answer keys; no phonics programme; no UPSR or any other exam preparation anywhere.
+- **CONFIRMED — the grammar ceiling:** the book teaches **no present perfect, no past perfect, no passive, no conditionals and no reported speech** — none appears in any unit, Review or Options page.
+- **CONFIRMED — the Unit 5 *be going to* point:** as the mapped account said, *be going to* reaches Year 5 pupils as a curriculum item only in the SoW's own Unit 5 Language Arts lesson (Lesson 103); the textbook itself first teaches *be going to* in **Unit 8 (p.85)**, alongside *will/won't* for predictions (p.87) — exactly the distribution the filing recorded.
+- **CONFIRMED with a small extension — Malaysian touches:** the mapped account files this as an international course; the direct read adds two small Malaysian localisations in this KPM printing — ringgit prices in the Starter (p.8) and the Abdul Latif Romly panel in Unit 6 (p.67) — plus the Rukun Negara front page. The course content is otherwise the international Second Edition.
+
+### §7 Honest negatives
+
+No present perfect; no past perfect; no passive; no conditionals; no reported speech; no phonics programme; no answer keys; no listening scripts; no exam preparation of any kind. Malaysian content is limited to the front matter and the two localisations in §6.
+
+### §8 Slips/errors as printed
+
+- **Unit 3, p.35 (Wild Canada panel):** "The (hot) month is July and the (cold) month is January" — the superlative exercise intends *hottest/coldest*, but for Canada January is not uniquely "the coldest month" claim pupils must supply; a textbook simplification, not an error of English.
+- **Unit 6, p.64 (Olympics Timeline):** "In 1916, 1940 and 1944, there weren't any games because of war" — correct; and "2012: Hiroshi Hoketsu was a competitor in a horse-riding competition at the age of seventy-one" (he was 71 in 2012) — correct. The timeline's one loose line is 1924: "the Canadian ice hockey team were champions with 122 goals" — Canada did win the 1924 tournament scoring 122 goals in total across the event (the figure is the tournament total, printed without saying so).
+- **Unit 2, p.24:** the Radfords text says the couple "have got seventeen sons and daughters and … two granddaughters" while the photo caption reads "The Radfords with sixteen of their children" — internally consistent (seventeen children, sixteen pictured), but it reads as a discrepancy on a quick pass.
+- No misprints in the grammar presentations were found; the review pages agree with the unit pages.
+
+### §9 Copy defects
+
+The copy is complete: cover, Rukun Negara page, Contents, all units and Options sections, imprint page and back cover are present, foliation 4–119 runs unbroken, and no page is duplicated or missing. The scans are the sharpest of the five books in this set (the 44 MB file is a high-resolution scan); a slight show-through appears on a few photo pages but no text is lost.
+
+### §10 Citation anchors (for the checker)
+
+**Citation anchors (for the checker):**
+1. PDF p.2 prints the "RUKUN NEGARA" heading with the five principles in Malay, beginning "BAHAWASANYA NEGARA KITA MALAYSIA".
+2. Printed p.8 (PDF p.9) prices the phones "RM180", "RM400", "RM1200" and "RM3000" under the heading "KEY PHRASES — Adverbs of degree".
+3. Printed p.11 (PDF p.12) model email is headed "International Friends" and begins "Hi. My name's Beth. I'm eleven years old and I'm from Boston in the USA."
+4. Printed p.14 (PDF p.15) reading is titled "City on the Sea" and names the ship "Oasis of the Seas".
+5. Printed p.19 (PDF p.20) writing model is headed "My city: EDINBURGH".
+6. Printed p.23 (PDF p.24) states the rule "Adverbs of frequency come … before / after the verb be."
+7. Printed p.29 (PDF p.30) writing model is headed "The Notting Hill Carnival — By Tamsin Lucas".
+8. Printed p.34 (PDF p.35) reading is headed "BLOBFISH we love you!" and begins "The blobfish isn't the most beautiful fish on the planet".
+9. Printed p.39 (PDF p.40) writing model is headed "The Philippine eagle" under the banner "LET'S PROTECT …".
+10. Printed p.44 (PDF p.45) reading is headed "WORLD CLASS! A PROJECT BY LIAM MURPHY".
+11. Printed p.48 (PDF p.49) Speaking page carries the "PRONUNCIATION: The alphabet" table with the row "/eɪ/ A, H, …, K".
+12. Printed p.54 (PDF p.55) reading is headed "The sports interview … SUMO STYLE".
+13. Printed p.59 (PDF p.60) writing model is headed "Sally's EASY MENU BLOG".
+14. Printed p.64 (PDF p.65) reading is headed "OLYMPICS TIMELINE" and its 1960 entry names "Abebe Bikila from Ethiopia".
+15. Printed p.67 (PDF p.68) carries the panel headed "ABDUL LATIF ROMLY" beginning "Abdul Latif Romly … (go) to the Rio Paralympic Games in 2016."
+16. Printed p.74 (PDF p.75) reading is headed "A LIFE IN PHOTOS" and begins "On 23 January 1996, Munish Bansal took a photo of his new baby daughter Suman".
+17. Printed p.79 (PDF p.80) writing model is headed "Chris Hemsworth FAQ".
+18. Printed p.85 (PDF p.86) Language Focus is headed "be going to: affirmative, negative and questions" with the rule "We use be going to to talk about present / future plans and intentions."
+19. Printed p.87 (PDF p.88) Language Focus is headed "will and won't" with the first example "Lydia will feel tired and happy."
+20. Printed p.93 (PDF p.94) Extra Listening and Speaking page lists the time phrases "quarter past nine, twenty to twelve, five past seven, twenty-five past two".
+21. Printed p.104 (PDF p.105) Curriculum Extra page is headed "The Elephant Man" and credits "Extract from Oxford Bookworms Library: The Elephant Man by Tim Vicary".
+22. Imprint page (PDF p.121) states "Serial No: KPM-2020-9789671834206-0026", "ISBN 978-967-18342-0-6" and "First published 2021".
+
+**CITATION CHECK (2026-11-06, independent checker):** 22 anchors — 22 passed exactly as cited, 0 corrected in place, 0 not found.
 
 ---
 
@@ -548,6 +1018,107 @@ Twenty checkable claims, spread across the whole file. All page numbers are Sche
 ---
 
 **Reader's closing note for the checker/coordinator:** the two record descriptions ("English Year 5 (SK)" and "English Year 6 (SK)" student books, 214 and 219 PDF pages) match these files byte-for-byte on size, MD5 and page count, so the secured files are the recorded files — but both are Schemes of Work only. On the evidence of these two files, Malaysia's English Year 5 and Year 6 **student textbooks (English Plus 1 and Academy Stars Year 6) are not in hand**; only their teacher planning documents are. Whether the same holds for the Year 1–4 files in this set is outside this band, but the coordinator's note generalising the Year 1 file's structure to all six primary files should not be relied on for Years 5–6.
+
+## Malaysia — English, Grade 6, Academy Stars Pupil's Book — DIRECT READ (file: malaysia-y6-academy-stars-students-book.pdf)
+
+### §1 Identity
+
+- **Title exactly as printed:** Front cover reads "**Academy Stars — Year 6 — Pupil's Book**", names the authors **Steve Elsworth • Jim Rose**, and carries the Kementerian Pendidikan Malaysia crest at the top and a QR code at bottom right. The back cover repeats the title with the strapline "Aspire to excellence!" and the logos of **Macmillan Education** and **ITBM (Institut Terjemahan & Buku Malaysia)**.
+- **Publisher as printed:** the imprint page (PDF p.144) states: "First Published in 2021 for the Ministry of Education Malaysia by: **Institut Terjemahan & Buku Malaysia Berhad** (Company No.: 276206-D), Wisma ITBM, No. 2, Jalan 2/27E, Seksyen 10, Wangsa Maju, 53300 Kuala Lumpur" — "© Ministry of Education Malaysia". The Macmillan side of the imprint reads "Macmillan Education, 4 Crinan Street, London N1 9XW, A division of Macmillan Publishers Limited"; "Text © Steve Elsworth and Jim Rose 2017"; "First published 2017" (the underlying course); "ISBN 978-0-230-49020-8". Printed by Aslita Sdn. Bhd., Batu Caves, Kuala Lumpur. [Printer name corrected by the citation checker 2026-11-06: the imprint reads "Aslita Sdn. Bhd.", not "Asiilfa Sdn. Bhd.".]
+- **Year/edition/ISBN as printed:** "No. Siri Buku: **0001**"; "**KPM2021 ISBN 978-967-460-874-3**" (imprint), confirmed by the Perpustakaan Negara Malaysia Cataloguing-in-Publication block ("Elsworth, Steve / Academy Stars : Pupil's Book, Year 6 / Steve Elsworth, Jim Rose. / ISBN 978-967-460-874-3") and by the back-cover barcode, which adds price **RM 34.30** and code **BT02001**. The back cover bands the level **CEFR A2**.
+- **Whole file:** 145 PDF pages, image-only scans (no text layer), 229,794,801 bytes — matching MANIFEST row 8. (The file's size is the scan's resolution, not extra content.)
+- **Component map (complete):**
+  - PDF p.1 — front cover.
+  - PDF pp.2–3 — Scope and sequence (the course's own syllabus table: unit, vocabulary, grammar, language in use, and the reading/listening/writing/speaking/thinking/learning-skills strands).
+  - PDF pp.4–133 — the course proper (printed pp.4–133): Welcome unit (pp.4–7); Units 1–2 (pp.8–31) + Review 1 (pp.32–33); Units 3–4 (pp.34–57) + Review 2 (pp.58–59); Units 5–6 (pp.60–79) + Review 3 (pp.80–81); Units 7–8 (pp.82–105) + Review 4 (pp.106–107); Units 9–10 (pp.108–131) + Review 5 (pp.132–133); the four Reading time blocks sit inside this span (after Units 1, 3, 7, 9 — pp.18–21, 44–47, 92–95, 118–121).
+  - PDF pp.134–143 — the **Dictionary** (printed pp.134–143): every unit's vocabulary with learner definitions and example sentences.
+  - PDF p.144 — imprint/acknowledgements page (unnumbered folio).
+  - PDF p.145 — back cover.
+- **Printed-page numbering and offset:** printed = PDF throughout (PDF p.4 = printed 4, PDF p.143 = printed 143). Last printed page: **143** (Dictionary end); the imprint follows unnumbered.
+- **Record check:** the file is exactly the book the Year 6 filing maps — *Academy Stars* Year 6 — and the direct read confirms the filing's extent claim ("Pupil's Book pp.4–at least 140": the book runs pp.4–143) and every one of its unit citations (see §6).
+
+### §2 Architecture
+
+- **Unit pattern (fixed, 10 pages per unit, eight lessons):** Lesson 1 Reading (a lead text with a vocabulary panel) → Lesson 2 Reading comprehension (+ a "Working with words" word-building box and, in alternate units, a "Learning to learn" study-skills box) → Lesson 3 Grammar (a "Graphic Grammar" strip presentation) → Lesson 4 Language in use (a photo dialogue practising the unit's second structure) → Lesson 5 Listening → Lesson 6 Writing (a genre lesson with a model and a writing task) → Lesson 7 Speaking (a functional task) → Lesson 8 "Think about it!" (a problem-solving page). Every page footer cross-references the Workbook ("WB: page …"), which is a separate component not in hand.
+- **Reading time blocks:** four extended-reading blocks with activities and a "watch the video for a different ending" task — *The Trick* (traditional story, after Unit 1), *Mystery on the beach* (adventure story, after Unit 3), *A stranger to the rescue* (a play, after Unit 7), *The power of stories* (an information text, after Unit 9).
+- **Reviews:** five two-page Reviews (after every two units), whose second page is in **Cambridge-style exam-task formats** — they are headed, in the page footer, "Reading and Writing, Part 3" (Review 1), "Listening, Part 1" (Review 2), "Reading and Writing, Part 2" (Review 3), "Listening, Part 5" (Review 4) and "Reading and Writing, Part 1" (Review 5) — cloze stories, listen-and-draw-lines and listen-and-colour tasks of the Cambridge A2 Flyers type. This is exam-*format* familiarisation inside the course review, **not** UPSR preparation (see §6).
+- **Values and skills strands:** a "Values" question box in most Listening lessons; "Be a star!" extension tasks throughout; a 21st Century Competencies key on the Welcome page.
+- **Assessment apparatus:** the five Reviews only. No answer keys are printed in the Pupil's Book (one page notes "Answers are on Teacher's Book page 203", confirming keys live teacher-side).
+
+### §3 Welcome and units
+
+- **Welcome (pp.4–7).** Meet the Academy Stars (Alice, Oliver, Sophia, Kit); a character information table recycling present simple and past simple questions; a countryside picture for vocabulary review.
+- **Unit 1 "It's an emergency!" (pp.8–17).** The New York power-cut newspaper article (pp.9–10, with nouns-that-are-also-verbs); **past continuous with past simple** — the interrupted action with *when/while* (pp.11–12); direct speech studied and used in a write-a-newspaper-article lesson (p.14); *-ing/-ed* adjectives (p.15); expressing feelings (p.16); plan-a-rescue problem page (p.17). **Reading time 1: The Trick** (pp.18–20, plot): Hakan plans to sell his friend Musa a sick horse cheaply; Musa overhears, later fakes a broken leg, and Hakan — forced to carry him on the "strongest horse in the village" — confesses; the friendship is repaired.
+- **Unit 2 "Life in the past" (pp.22–31).** Samuel Pepys's 1666 diary extracts, "Adapted from The Diary of Samuel Pepys" (pp.22–23); nouns from verbs with *-er/-or* (p.24); **used to** in all forms (pp.25–26); the diary entry as a writing genre with informal features (pp.28–29).
+- **Unit 3 "Adventure time" (pp.34–43).** Emma's Canada adventure blog (pp.34–35); irregular past participles (p.36); **present perfect introduced** — affirmative/negative with *never* (p.37) and *Have you ever …?* (p.38), explicitly **contrasted with the past simple** in the blog writing lesson's examples; blog writing with a mind-map plan (pp.40–41); a job-interview speaking lesson (p.42). **Reading time 2: Mystery on the beach** (pp.44–46, plot): April and Sandy see three men digging up turtle eggs at night, fetch the police, and the Turtle Gang is caught.
+- **Unit 4 "Cool jobs" (pp.48–57).** The Unusual jobs magazine article (pp.48–49); **present perfect with How long …?, for and since** (p.51) and with *already/yet* (p.52); *make or do?* (p.55); apologising and offers (p.56); a Caesar-cipher code page (p.57).
+- **Unit 5 "Getting around" (pp.60–69).** "A trip to remember" science-fiction story (pp.60–61, plot: Abi time-travels by bicycle to a polluted future and back); suffixes *-ful/-less* (p.62); **just as … as / not as … as** (p.63) and **too / not … enough** (p.64); story-structure writing (pp.66–67); ferry-timetable reading (p.67); ticket-office dialogue (p.68).
+- **Unit 6 "How is it made?" (pp.70–79).** "A new life for your jeans" process text (pp.70–71); nouns with *-tion/-sion* (p.72); **present passive introduced** (p.73); *made of / used for* (p.74); writing about a process from an infographic with ordering words (pp.76–77); a radio-advert speaking lesson (p.78).
+- **Unit 7 "Music and song" (pp.82–91).** The Martin Stark folk-music interview and Robin Hood song (pp.82–83); prefixes *im-/dis-* (p.84); **will and going to together** — *will* for predictions, *going to* for plans and evidence-based predictions (p.85); **present simple for future events** (timetables) (p.86); song structure — verses, chorus, rhyme, rhythm (pp.88–89). **Reading time 3: A stranger to the rescue** (pp.92–94, plot): a play — the stranger who helps lift a cart over a fallen tree reveals himself as Robin Hood.
+- **Unit 8 "Tell me a story" (pp.96–105).** *The Perfect Swan* traditional story (pp.96–97, plot: the artist practises for three years, then paints the perfect swan in two minutes; the emperor's temper exiles him before the truth is found); first- and third-person points of view (p.98); **first conditional as the unit's main grammar** (p.99); **may/might/could** for possible futures (p.100); the boy-who-cried-wolf listening story (p.101); story-summary writing with the Someone–Wanted–So–But–Then frame (pp.102–103).
+- **Unit 9 "What's your opinion?" (pp.108–117).** The "Sugar, sugar" discussion forum (pp.108–109); word groups (p.110); **reported speech introduced** — *said* with tense shift on present-tense statements (p.111); **indefinite pronouns and adverbs** in a full table (p.112); a multi-tasking debate listening (p.113); **the opinion essay** — topic sentences, four-paragraph structure, opinion phrases (pp.114–115); a class-debate speaking lesson (p.116). **Reading time 4: The power of stories** (pp.118–120): storytelling from oral tradition and Aboriginal songlines to Gilgamesh, the Mahabharata and The Thousand and One Nights.
+- **Unit 10 "It's a mystery!" (pp.122–131).** *The robbery* play script (pp.122–123, plot: Inspector Fox deduces that the photographer "borrowed" the dinosaur egg); nouns with *-ment* (p.124); **question tags** with *be*, present simple and *can* (p.125); **modals reviewed by function** — should/must/have to/don't have to/can/might/may/mustn't (p.126); the Nazca Lines listening (p.127); play-script writing with stage directions (pp.128–129); mystery-story speaking (p.130).
+
+### §4 The Dictionary (pp.134–143)
+
+A learner dictionary of the whole course vocabulary, unit by unit (Units 1–10), each entry giving the word, its word class, a plain-English definition and an example sentence — the feature the SoW's "Using the Dictionary" lesson family points at (Unit 7's reading lesson already directs pupils to "the dictionary on page 140", inside this span).
+
+### §5 Grammar spine
+
+Past continuous with past simple; *used to*; present perfect (experiences → *ever/never* → *How long* with *for/since* → *already/yet*, contrasted with the past simple); *just as/not as … as*; *too/not … enough*; present passive; future forms together (*will*, *going to*, present simple for timetables); first conditional; *may/might/could*; reported speech (statements, present tenses, tense shift); indefinite pronouns/adverbs; question tags; modals by function. Word-building strands: *-ing/-ed* adjectives, *-er/-or* nouns, *-ful/-less*, *-tion/-sion*, *im-/dis-*, *-ment*, synonyms, word groups. **No past perfect, no second or third conditional, no past passive** anywhere in the book.
+
+### §6 Verification against the SoW-mapped account
+
+- **CONFIRMED — the whole grammar map, item by item, from the book's own Scope and sequence (pp.2–3) and its Graphic Grammar pages:** past simple + past continuous with direct-speech punctuation and *should* recycled (Unit 1, pp.11–14); *used to* and the three future forms reviewed (Unit 2, pp.25–26 — the future review lives in the Lesson 7 speaking page's 2120 discussion, p.30); present perfect with *ever/never* contrasted with past simple (Unit 3, pp.37–38); present perfect with *for/since*, *yet/already*, *How long …?* (Unit 4, pp.51–52); *as … as*, *too/enough*, *have to/need to* modals recycled (Unit 5, pp.63–64); **present passive** (Unit 6, p.73); future forms together (Unit 7, pp.85–86); **first conditional as the main focus**, with *might/may/could* (Unit 8, pp.99–100); **reported speech with tense shift at introduction level** (Unit 9, p.111 — statements only, present tenses only, exactly as mapped); question tags and past-tense storytelling (Unit 10, pp.125, 130).
+- **CONFIRMED — the mapped absences:** **no past perfect** anywhere; no second or third conditional (the first conditional is the only conditional taught); no past passive (the passive is present-simple only); no reported questions or commands; **no UPSR preparation** anywhere.
+- **CONFIRMED — the SoW's own defects stay SoW-side:** the Unit 5 and Unit 10 self-assessment sheets missing from the SoW file are documents of the scheme, not of this book; the Pupil's Book is complete (see §9).
+- **One refinement the direct read adds:** the mapped account's "no exam preparation" should be read as "no **UPSR** preparation". The five Reviews deliberately practise **Cambridge A2 Flyers-style task formats** (their footers name the parts: "Reading and Writing, Part 1/2/3", "Listening, Part 1/5"). It is format familiarisation inside course reviews — there are no past papers, no UPSR references and no exam coaching — but it is a real feature of the book that the mapped account did not record.
+- **CONFIRMED — extent:** the filing's "Pupil's Book pp.4–at least 140" resolves to pp.4–143 plus the imprint page; the Workbook references in every footer (WB pages 4–111) are to a separate component not in hand, as mapped.
+
+### §7 Honest negatives
+
+No past perfect; no conditionals beyond the first; no passive beyond the present simple; no reported questions/commands; no UPSR preparation; no answer keys; no Malaysian content (the course is the international Academy Stars with a KPM imprint — no Malaysian settings, names or ringgit prices were found anywhere in it); no phonics programme (pronunciation work is limited to rhythm/stress in the Unit 7 song lesson).
+
+### §8 Slips/errors as printed
+
+- **Unit 3 blog text (p.35):** Emma writes "It's my 15th birthday" at the CN Tower entry — the Scope and sequence and the unit's own framing present Emma as a school-age blogger; the age is the fiction's own and not an error, but the same text (p.34) dates her first entry "5th January" and introduces her as a child blogger from Vancouver — internally loose, not a factual slip.
+- **Unit 1 article (p.9):** the power cut is said to leave "Thirty million people … no electricity for 13 hours" after hitting "at 7 pm"; the comprehension and the reporter's-notes lesson (p.14) give the interviewee's cut as lasting "four hours" — the two figures belong to different places/times in the fiction (the state-wide cut vs. one Brooklyn witness), but the book never says so, and the Lesson 6 notes treat both without comment.
+- **Review 4 (p.107)** listening task pictures Martin Stark's film set and labels the third book in its matching task "The Women in Black" where the Think about it! page (p.105) prints the title correctly as *The Woman in Black* — a one-letter title slip in the review answer material.
+- No misprints were found in the Graphic Grammar presentations; the Scope and sequence agrees with the unit pages throughout.
+
+### §9 Copy defects
+
+The copy is complete: cover, Scope and sequence, all ten units, all four Reading time blocks, all five Reviews, the full Dictionary (pp.134–143), the imprint page and the back cover are present, foliation 4–143 runs unbroken, and no page is duplicated or missing. The scan is very high resolution (hence the 229 MB file); a few Dictionary pages are slightly soft but remain legible.
+
+### §10 Citation anchors (for the checker)
+
+**Citation anchors (for the checker):**
+1. Front cover (PDF p.1) reads "Academy Stars — Year 6 — Pupil's Book" with authors "Steve Elsworth • Jim Rose" and the Kementerian Pendidikan Malaysia crest.
+2. Scope and sequence (PDF p.2) lists for Unit 6 the grammar "Passive voice (present simple): The material is cut. The jeans are packed into boxes."
+3. Printed p.9 (PDF p.9) newspaper article is headlined "THE DAY THE LIGHTS WENT OUT" with the standfirst "POWER CUT HITS MILLIONS, NO LIGHT, NO HEAT, NO TRAINS".
+4. Printed p.11 (PDF p.11) Graphic Grammar is headed "Past continuous with past simple" with the strip "He was feeding the elephant when it escaped."
+5. Printed p.18 (PDF p.18) Reading time 1 story is titled "The TRICK" and begins "Musa and Hakan lived next door to each other in a small village."
+6. Printed p.23 (PDF p.23) diary page carries the credit line "Adapted from The Diary of Samuel Pepys".
+7. Printed p.25 (PDF p.25) Graphic Grammar is headed "used to: affirmative and negative" with the strip "He used to be an actor."
+8. Printed p.37 (PDF p.37) Graphic Grammar is headed "Present perfect: affirmative, negative with never" with the strip "She's never seen a lion in the wild."
+9. Printed p.44 (PDF p.44) Reading time 2 story is titled "Mystery on the beach".
+10. Printed p.51 (PDF p.51) Graphic Grammar is headed "Present perfect with How long?, for and since" with the strip "How long have you been a dentist?"
+11. Printed p.60 (PDF p.60) Unit 5 story is titled "A trip to remember" and begins "Abi was playing a virtual tennis game on her tablet."
+12. Printed p.63 (PDF p.63) Graphic Grammar is headed "Comparisons: just as … as / not as … as".
+13. Printed p.70 (PDF p.70) Unit 6 text is headed "A new life for your jeans" and states "Jeans are made from a material called denim".
+14. Printed p.73 (PDF p.73) Graphic Grammar is headed "Passive voice (present simple)" with the strip "Lulu's dress is made from plastic bags."
+15. Printed p.85 (PDF p.85) Graphic Grammar is headed "will and going to" with the Look! box "Use will / won't to make predictions about the future."
+16. Printed p.92 (PDF p.92) Reading time 3 play is titled "A stranger to the rescue".
+17. Printed p.96 (PDF p.96) Unit 8 story is titled "The perfect swan" and begins "There was once a Chinese emperor named Zhang Wei."
+18. Printed p.99 (PDF p.99) Graphic Grammar is headed "First conditional" with the strip "If you rest, you'll feel better."
+19. Printed p.111 (PDF p.111) Graphic Grammar is headed "Reported speech – present tenses" with the pair "'I love sugar.' / He said he loved sugar."
+20. Printed p.118 (PDF p.118) Reading time 4 article is headed "The power of stories".
+21. Printed p.125 (PDF p.125) Graphic Grammar is headed "Question tags: to be, present simple, can".
+22. Imprint page (PDF p.144) states "No. Siri Buku: 0001", "KPM2021 ISBN 978-967-460-874-3" and "First Published in 2021 for the Ministry of Education Malaysia by: Institut Terjemahan & Buku Malaysia Berhad".
+
+**CITATION CHECK (2026-11-06, independent checker):** 22 anchors — 22 passed exactly as cited, 0 corrected in place, 0 not found.
+
+---
 
 ## Malaysia — English, Grade 7, ENGLISH FORM 1 (file: g07-student.pdf)
 
