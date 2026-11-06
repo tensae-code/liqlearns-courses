@@ -1,6 +1,6 @@
 # Sources — Angles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran
 
 Every part traces to its book and page.
 
@@ -172,6 +172,9 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 87:** *Mathematics, Grade 7, Term 2 student book* — Kuwait, Ministry of Education, 1st edition 1447 AH / 2025–2026. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 **Book 88:** *Mathematics, Grade 8, Term 1 student book* — Kuwait, Ministry of Education, 2nd edition 1448 AH / 2026–2027, ISBN 978-9921-33-121-9. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 **Book 89:** *Mathematics, Grade 8, Term 2 student book* — Kuwait, Ministry of Education, 1st edition 1447 AH / 2025–2026. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
+**Book 90:** *Mathematics, Grade 4 student book* (ریاضی, code 405) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 13th printing 1405, ISBN 978-964-05-2372-8. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 91:** *Mathematics, Grade 5 student book* (ریاضی, code 505) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1404, ISBN 978-964-05-2433-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 92:** *Mathematics, Grade 8 student book* (ریاضی, code 805) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 13th printing 1405, ISBN 978-964-05-2379-7. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -265,8 +268,11 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Angles and parallel lines | Kuwait, Grade 7 Term 2 student book, Unit 6 — Geometry, printed pp. 63–128 |
 | Angles, inside the geometry and measurement unit | Kuwait, Grade 8 Term 1 student book, Unit 3 — Geometry and measurement, printed pp. 126–175 |
 | Detecting parallel lines (lesson 5-1) — alternate, corresponding and co-interior angle tests, with proofs | Kuwait, Grade 8 Term 2 student book, Unit 5 — Quadrilaterals, printed p. 20 |
+| Measuring angles with a protractor; degrees | Iran, Grade 4 student book, Ch. 4, printed pp. 78–85 |
+| Angle bisectors; the angle sums of polygons | Iran, Grade 5 student book, Ch. 4 |
+| Interior angles of a polygon — (n − 2) × 180°; exterior angles sum to 360° | Iran, Grade 8 student book, Ch. 3 |
 
-**Acceptance count: taught in 22 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait).** Egypt carries the fullest single
+**Acceptance count: taught in 23 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran).** Egypt carries the fullest single Iran measures angles with a protractor in Grade 4, bisects angles and sums polygon angles in Grade 5, and gives the (n − 2) × 180° interior-angle rule in Grade 8.
 treatment — the angle kinds, the protractor, complementary and
 supplementary pairs, the transversal's eight angles, and the
 triangle and quadrilateral sums in one Grade 7 unit. Jordan

@@ -1,6 +1,6 @@
 # Sources — Circles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran
 
 Every part traces to its book and page.
 
@@ -183,6 +183,10 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 **Book 81:** *Mathematics, Grade 10, Term 2 student book* — Kuwait, Ministry of Education, 2nd edition 1447 AH / 2025–2026 (old generation). Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED). (The file is named *-wb; the book's own cover and title page prove it is a student book, and it is cited as one.)
 
 **Book 83:** *Математика за прво одделение* (Mathematics, Grade 1) — North Macedonia, Слаѓана Јакимовиќ (Slagjana Jakimovik) and Ирена Богданоска (Irena Bogdanoska), Ministry of Education and Science, Skopje 2022, approval № 26-1204/1 of 27.09.2022, ISBN 978-608-273-153-7. Filed in maths/books/north-macedonia.md (PARTIAL filing, gap batch — FULLY READ + CITATION CHECK PASSED 2026-11-06).
+**Book 84:** *Mathematics, Grade 5 student book* (ریاضی, code 505) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1404, ISBN 978-964-05-2433-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 85:** *Mathematics, Grade 6 student book* (ریاضی, code 605) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1405, ISBN 978-964-05-2491-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 86:** *Mathematics, Grade 8 student book* (ریاضی, code 805) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 13th printing 1405, ISBN 978-964-05-2379-7. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 87:** *Geometry (3), Grade 12 student book* (Mathematical Sciences branch; code 112213) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 9th printing 1405, ISBN 978-964-05-3113-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -272,8 +276,12 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 | The circle and its parts — radius, diameter, chord; central and inscribed angles (the theorem thread itself is stocked in the circle-theorems lesson) | Kuwait, Grade 10 Term 2 student book, Unit 6 — Geometry of a Circle, printed pp. 12–13 and 32–41 |
 | Equation of a circle — standard and general form, centre and radius, a tangent to a circle | Kuwait, Grade 10 Term 2 student book, Unit 9 — Analytic Geometry, printed pp. 143–150 |
 | The circle as a shape, at the very start — named and recognised among the first plane shapes | North Macedonia, Grade 1, Block A, printed p. 27 |
+| The circumference of a circle — the book's reading gives Archimedes' bounds for π (3 1/7 and 3 10/71) and its exercises work with π = 3; π = 3.14 is never used in this book | Iran, Grade 5 student book, Ch. 6, printed pp. 110–112 |
+| The area of a circle | Iran, Grade 6 student book, Ch. 5, printed pp. 98–101 |
+| Circle basics — centre, radius, diameter, chord, arc | Iran, Grade 8 student book, Ch. 9 |
+| The equation of a circle (conic stock) | Iran, Grade 12 Geometry (3) student book (Mathematical Sciences branch), Ch. 2, Lesson 2, printed pp. 40–46 |
 
-**Acceptance count: taught in 22 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia).**.** Kazakhstan carries the full climb — circle
+**Acceptance count: taught in 23 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran).**.** Kazakhstan carries the full climb — circle Iran measures the circumference in Grade 5 — with the book's own bounds for π, 3 1/7 and 3 10/71, while its exercises work with π = 3 — the area of a circle in Grade 6, circle basics in Grade 8, and the circle's equation in Grade 12 Geometry (3).
 parts in Grade 3, circle and disc in Grades 4 and 5, then the
 practical thread-and-glass discovery of pi with C = πD and the
 disc area in Grade 6. Jordan carries the parts in Grade 6 and

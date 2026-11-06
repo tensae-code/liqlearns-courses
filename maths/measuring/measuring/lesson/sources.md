@@ -1,6 +1,6 @@
 # Sources — Measuring
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran
 
 Every part traces to its book and page.
 
@@ -217,6 +217,8 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 106:** *Mathematics, Grade 8, Term 1 student book* — Kuwait, Ministry of Education, 2nd edition 1448 AH / 2026–2027, ISBN 978-9921-33-121-9. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 107:** *Математика за прво одделение* (Mathematics, Grade 1) — North Macedonia, Слаѓана Јакимовиќ (Slagjana Jakimovik) and Ирена Богданоска (Irena Bogdanoska), Ministry of Education and Science, Skopje 2022, approval № 26-1204/1 of 27.09.2022, ISBN 978-608-273-153-7. Filed in maths/books/north-macedonia.md (PARTIAL filing, gap batch — FULLY READ + CITATION CHECK PASSED 2026-11-06).
+**Book 108:** *Mathematics, Grade 1 student book* (ریاضی, code 105) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 16th printing 1405, ISBN 978-964-05-1983-7. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 109:** *Mathematics, Grade 2 student book* (ریاضی, code 205) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 15th printing 1405, ISBN 978-964-05-2078-9. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -327,8 +329,11 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Measurement and solids — length and unit conversion | Kuwait, Grade 7 Term 1 student book, Unit 3 — Measurement and solids, printed pp. 131–185 |
 | Measurement inside the geometry and measurement unit | Kuwait, Grade 8 Term 1 student book, Unit 3 — Geometry and measurement, printed pp. 126–175 |
 | Comparing measures directly — big/small, long/short, deep/shallow, heavy/light; estimating and measuring length in non-standard units (finger, span, cubit, foot, step); estimating and measuring capacity and mass; parts of the day; telling the time on an analogue clock to the hour; how much time is needed (duration) | North Macedonia, Grade 1, Blocks A and H, printed pp. 19–23, 140–155 |
+| Longer and shorter; comparing weights — marking the heavier object | Iran, Grade 1 student book, printed p. 168 |
+| First clock reading — the hours on the clock face | Iran, Grade 1 student book, printed p. 112 |
+| Measuring length — centimetres and millimetres | Iran, Grade 2 student book, Ch. 5 |
 
-**Acceptance count: taught in 23 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia).**.** Sierra Leone carries the cleanest
+**Acceptance count: taught in 24 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran).**.** Sierra Leone carries the cleanest Iran compares longer and shorter and heavier and lighter in Grade 1 — the heavier-marking activity is at printed p. 168 — reads the clock there too, and measures length in centimetres and millimetres in Grade 2.
 single ladder — length, mass and volume distinguished, then the
 three conversion tables in JSS 1. Jordan carries the four
 standard units in one Grade 2 unit (centimetre, metre, gram and

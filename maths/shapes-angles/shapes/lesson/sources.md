@@ -1,6 +1,6 @@
 # Sources — Shapes
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran
 
 Every part traces to its book and page.
 
@@ -194,6 +194,11 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 111:** *Математика за прво одделение* (Mathematics, Grade 1) — North Macedonia, Слаѓана Јакимовиќ (Slagjana Jakimovik) and Ирена Богданоска (Irena Bogdanoska), Ministry of Education and Science, Skopje 2022, approval № 26-1204/1 of 27.09.2022, ISBN 978-608-273-153-7. Filed in maths/books/north-macedonia.md (PARTIAL filing, gap batch — FULLY READ + CITATION CHECK PASSED 2026-11-06).
 
 **Book 112:** *Математика за осмо одделение* (Mathematics, Grade 8) — North Macedonia, Јово Стефановски (Jovo Stefanovski) and Наум Целакоски (Naum Celakoski), Ministry of Education and Science, Skopje **2010 edition** — the latest edition available as a file (the current manuscript has no PDF yet); cited as the 2010 edition everywhere, never as the current edition. Approval № 22-2321/1 of 21.04.2010, ISBN 978-608-4575-88-7. Filed in maths/books/north-macedonia.md (PARTIAL filing, gap batch — FULLY READ + CITATION CHECK PASSED 2026-11-06).
+**Book 113:** *Mathematics, Grade 1 student book* (ریاضی, code 105) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 16th printing 1405, ISBN 978-964-05-1983-7. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 114:** *Mathematics, Grade 2 student book* (ریاضی, code 205) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 15th printing 1405, ISBN 978-964-05-2078-9. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 115:** *Mathematics, Grade 4 student book* (ریاضی, code 405) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 13th printing 1405, ISBN 978-964-05-2372-8. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 116:** *Mathematics, Grade 8 student book* (ریاضی, code 805) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 13th printing 1405, ISBN 978-964-05-2379-7. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 117:** *Geometry (1), Grade 10 student book* (Mathematical Sciences branch; code 110213) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1405, ISBN 978-964-05-2501-2. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -316,8 +321,14 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Quadrilaterals — detecting the parallelogram, rectangle, rhombus and square (Unit 5) | Kuwait, Grade 8 Term 2 student book, Unit 5 — Quadrilaterals, printed pp. 15–81 |
 | Lines straight and curved, open and closed; square, triangle, rectangle; making models from 2D shapes; flat and curved surfaces; the 3D shapes — ball, cube, cuboid, cylinder, cone — and finding their 2D faces | North Macedonia, Grade 1, Block A, printed pp. 25–39 |
 | Space geometry foundations: point, line and plane in space; two lines in space (intersecting, parallel, skew); two planes, a line and a plane, a line perpendicular to a plane; representing a solid by drawing; the prism and its kinds | North Macedonia, Grade 8 (2010 edition), Theme 4, printed pp. 160–176 |
+| Naming shapes by stencil — circle, square, triangle, rectangle | Iran, Grade 1 student book, printed p. 166 |
+| Flat and solid shapes | Iran, Grade 2 student book, Ch. 3 |
+| Quadrilaterals — their kinds and properties | Iran, Grade 4 student book, Ch. 6, printed pp. 126–129 |
+| Polygons | Iran, Grade 8 student book, Ch. 3 |
+| Constructions with ruler and compasses | Iran, Grade 10 Geometry (1) student book (Mathematical Sciences branch), Ch. 1, printed pp. 9–28 |
+| Polygons | Iran, Grade 10 Geometry (1) student book (Mathematical Sciences branch), Ch. 3 |
 
-**Acceptance count: taught in 23 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia).**.** Jordan carries the full sorting ladder
+**Acceptance count: taught in 24 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
 — polygons, triangles two ways, then the parallelogram family
 with its special cases. Egypt carries polygons by vertices in
 Grade 3 and the triangle/trapezium/kite sorting in Grade 5.

@@ -1,6 +1,6 @@
 # Sources — Congruence and similarity
 
-countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia
+countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran
 
 Every part traces to its book and page.
 
@@ -117,6 +117,10 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 **Book 50:** *Mathematics, Grade 10, Term 1 student book* — Kuwait, Ministry of Education, 1st edition 1448 AH / 2026–2027, ISBN 978-9921-33-124-0. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED). (The file is named *-wb; the book's own cover and title page prove it is a student book, and it is cited as one.)
 
 **Book 51:** *Математика за осмо одделение* (Mathematics, Grade 8) — North Macedonia, Јово Стефановски (Jovo Stefanovski) and Наум Целакоски (Naum Celakoski), Ministry of Education and Science, Skopje **2010 edition** — the latest edition available as a file (the current manuscript has no PDF yet); cited as the 2010 edition everywhere, never as the current edition. Approval № 22-2321/1 of 21.04.2010, ISBN 978-608-4575-88-7. Filed in maths/books/north-macedonia.md (PARTIAL filing, gap batch — FULLY READ + CITATION CHECK PASSED 2026-11-06).
+**Book 52:** *Mathematics, Grade 7 student book* (ریاضی, code 705) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 14th printing 1405, ISBN 978-964-05-2242-4. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 53:** *Mathematics, Grade 8 student book* (ریاضی, code 805) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 13th printing 1405, ISBN 978-964-05-2379-7. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 54:** *Mathematics, Grade 9 student book* (ریاضی, code 905) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 12th printing 1405, ISBN 978-964-05-2435-0. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 55:** *Geometry (1), Grade 10 student book* (Mathematical Sciences branch; code 110213) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1405, ISBN 978-964-05-2501-2. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -178,8 +182,12 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Similarity in right triangles — Euclid's theorem (AD² = DC·DB, AB² = BD·BC, AC² = CD·CB) | Kuwait, Grade 10 Term 1 student book, Unit 2 — Plane geometry, printed pp. 116–123 |
 | Proportions and similar triangles — the parallel-line theorem and its converse, Thales' theorem, the interior angle-bisector theorem | Kuwait, Grade 10 Term 1 student book, Unit 2 — Plane geometry, printed pp. 123–133 |
 | Thales' theorem on proportional segments and its converse, with the fourth proportional construction; similar figures and similar triangles with the similarity coefficient; the three similarity criteria (AA; SAS; SSS); perimeters of similar triangles in ratio k and areas in ratio k² | North Macedonia, Grade 8 (2010 edition), Theme 1, printed pp. 16–36 |
+| Congruent figures matched by superposition | Iran, Grade 7 student book, Ch. 4 |
+| The congruence criteria SSS, SAS and ASA, stated | Iran, Grade 8 student book, Ch. 6, printed p. 95 |
+| Congruence proved; similar figures (this book states no AA/SAS/SSS similarity criteria) | Iran, Grade 9 student book, Ch. 3, printed pp. 53–58 |
+| Thales' theorem, proved; the similarity criteria AA, SAS and SSS | Iran, Grade 10 Geometry (1) student book (Mathematical Sciences branch), Ch. 2, printed pp. 34–44 |
 
-**Acceptance count: taught in 21 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia).**.**
+**Acceptance count: taught in 22 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran).**.** Iran matches congruent figures by superposition in Grade 7, states the SSS, SAS and ASA criteria in Grade 8, proves congruence and meets similar figures in Grade 9, and proves Thales' theorem with the AA, SAS and SSS similarity criteria in Grade 10 Geometry (1).
 Libya carries the fullest single treatment — congruence tests
 including RHS, similarity, applications, and the k² area and k³
 volume rules in one chapter (Grade 9, Chapter 8, pp.156–193).

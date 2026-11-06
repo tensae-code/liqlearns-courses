@@ -1,6 +1,6 @@
 # Sources — Symmetry
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran
 
 Every part traces to its book and page.
 
@@ -138,6 +138,10 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 46:** *Mathematics, Grade 7, Term 1 student book* — Kuwait, Ministry of Education, 2nd edition 1448 AH / 2026–2027, ISBN 978-9921-33-075-5. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 47:** *Математика за прво одделение* (Mathematics, Grade 1) — North Macedonia, Слаѓана Јакимовиќ (Slagjana Jakimovik) and Ирена Богданоска (Irena Bogdanoska), Ministry of Education and Science, Skopje 2022, approval № 26-1204/1 of 27.09.2022, ISBN 978-608-273-153-7. Filed in maths/books/north-macedonia.md (PARTIAL filing, gap batch — FULLY READ + CITATION CHECK PASSED 2026-11-06).
+**Book 48:** *Mathematics, Grade 1 student book* (ریاضی, code 105) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 16th printing 1405, ISBN 978-964-05-1983-7. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 49:** *Mathematics, Grade 2 student book* (ریاضی, code 205) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 15th printing 1405, ISBN 978-964-05-2078-9. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 50:** *Mathematics, Grade 5 student book* (ریاضی, code 505) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1404, ISBN 978-964-05-2433-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 51:** *Mathematics, Grade 6 student book* (ریاضی, code 605) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1405, ISBN 978-964-05-2491-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -189,8 +193,12 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Symmetry, inside the geometry unit | Kuwait, Grade 6 Term 1 student book, Unit 2 — Geometry, printed pp. 72–120 |
 | Symmetry, inside the transformation geometry unit | Kuwait, Grade 7 Term 1 student book, Unit 4 — Transformation geometry and statistics, printed pp. 187–229 |
 | The line of symmetry, met at Grade 1 — folding/picture symmetry in the second geometry block | North Macedonia, Grade 1, Block H, printed p. 139 |
+| Completing the missing half of a picture; symmetric shapes by stencil | Iran, Grade 1 student book, printed p. 166 and passim |
+| Symmetry by folding and by mirror | Iran, Grade 2 student book, Ch. 3 |
+| Axial symmetry and central symmetry | Iran, Grade 5 student book, Ch. 4 |
+| Centre of symmetry; rotational symmetry | Iran, Grade 6 student book, Ch. 4 |
 
-**Acceptance count: taught in 21 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia).**.** Greece carries symmetry from the very start
+**Acceptance count: taught in 22 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran).**.** Greece carries symmetry from the very start Iran completes the missing halves of pictures in Grade 1, folds and mirrors shapes in Grade 2, names axial and central symmetry in Grade 5, and adds the centre of symmetry and rotation in Grade 6.
 — folding and mirror completion in Grade 1, the fold-along-the-
 red-line test in Grade 3, axial symmetry in Grade 6, and the
 full axis-and-point symmetry chapter in Grade 7. Kazakhstan

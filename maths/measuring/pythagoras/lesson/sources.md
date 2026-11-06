@@ -1,6 +1,6 @@
 # Sources — Pythagoras
 
-countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia
+countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran
 
 Every part traces to its book and page.
 
@@ -110,6 +110,7 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 **Book 38:** *Mathematics, Grade 8, Term 1 student book* — Kuwait, Ministry of Education, 2nd edition 1448 AH / 2026–2027, ISBN 978-9921-33-121-9. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 40:** *Математика за осмо одделение* (Mathematics, Grade 8) — North Macedonia, Јово Стефановски (Jovo Stefanovski) and Наум Целакоски (Naum Celakoski), Ministry of Education and Science, Skopje **2010 edition** — the latest edition available as a file (the current manuscript has no PDF yet); cited as the 2010 edition everywhere, never as the current edition. Approval № 22-2321/1 of 21.04.2010, ISBN 978-608-4575-88-7. Filed in maths/books/north-macedonia.md (PARTIAL filing, gap batch — FULLY READ + CITATION CHECK PASSED 2026-11-06).
+**Book 41:** *Mathematics, Grade 8 student book* (ریاضی, code 805) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 13th printing 1405, ISBN 978-964-05-2379-7. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -158,8 +159,9 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 | Distance between two points in 3D (Pythagoras in 3D, with a diagram of the |Δx|, |Δy|, |Δz| legs); direction cosines cos²α + cos²β + cos²γ = 1; modulus |u| = √(x²+y²+z²) | Cambodia, Space Geometry booklet (private Khem Putthi booklet, first printing 2026), printed p. 58 (§1); printed pp. 10–11 (§3); printed pp. 9–10 (§2) |
 | Pythagoras' theorem used, not proved — applied inside the geometry and measurement unit | Kuwait, Grade 8 Term 1 student book, Unit 3 — Geometry and measurement, printed pp. 126–175 |
 | Similarity in a right-angled triangle — Euclid's theorems a² = cp, b² = cq, h² = pq; Pythagoras' theorem with its proof and converse; tasks applying the theorem, with Pythagorean triples | North Macedonia, Grade 8 (2010 edition), Theme 1, printed pp. 37–47 |
+| Pythagoras' theorem — stated and verified on examples, not proved; the converse used | Iran, Grade 8 student book, Ch. 6, Lesson 1, printed pp. 84–87 |
 
-**Acceptance count: taught in 20 countries (Egypt, Greece, Armenia, Kazakhstan, Vietnam, Sierra Leone, Libya, Mauritania, South Africa, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia).**.** Egypt carries the fullest single treatment —
+**Acceptance count: taught in 21 countries (Egypt, Greece, Armenia, Kazakhstan, Vietnam, Sierra Leone, Libya, Mauritania, South Africa, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran).**.** Egypt carries the fullest single treatment — Iran states Pythagoras' theorem in Grade 8 and verifies it on examples rather than proving it, and uses the converse.
 the theorem, its converse, classifying triangles by comparing
 squares, the 13-foot ladder and a Pythagoras practical in Grade
 8. Sierra Leone carries the cleanest ladder in JSS 3 — the

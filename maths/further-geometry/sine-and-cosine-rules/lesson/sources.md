@@ -1,6 +1,6 @@
 # Sources — Sine and cosine rules
 
-countries: Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Iraq, Cambodia, Kuwait
+countries: Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Iraq, Cambodia, Kuwait, Iran
 
 Every part traces to its book and page.
 
@@ -68,6 +68,10 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 **Book 18:** *Mathematics, Grade 10 student book, Part 2 (Chapters 6–11)* — Cambodia, MoEYS / Publishing and Distribution House, 3rd printing 2020, ISBN 9789995000721. Filed in maths/books/cambodia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 19:** *Space Geometry* (private Khem Putthi exam-preparation booklet) — Cambodia, Khem Putthi / Lay Chanheng, Angkor Bookstore, first printing 2026, trial version © 2026, series KP012, no ISBN printed. Filed in maths/books/cambodia.md (FULLY READ + CITATION CHECK PASSED). Private booklet, not a government book.
 **Book 20:** *Mathematics, Grade 11, Term 2 student book (scientific track)* — Kuwait, Ministry of Education, 2nd edition 1447 AH / 2025–2026 (old generation). Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED). (The file is named *-wb; the book's own cover and title page prove it is a student book, and it is cited as one.)
+**Book 22:** *Geometry (2), Grade 11 student book* (Mathematical Sciences branch; code 111213) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 10th printing 1405, ISBN 978-964-05-2783-2. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 23:** *Hesaban (1) [Calculus (1)], Grade 11 student book* (Mathematical Sciences branch; code 111214) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 10th printing 1405, ISBN 978-964-05-2787-0. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 24:** *Hesaban (2) [Calculus (2)], Grade 12 student book* (Mathematical Sciences branch; code 112214) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 9th printing 1405, ISBN 978-964-05-3112-9. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 25:** *Mathematics (3), Grade 12 student book* (Experimental Sciences branch; code 112211) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 9th printing 1405, ISBN 978-964-05-3117-4. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -98,8 +102,12 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | The cosine law | Kuwait, Grade 11 Term 2 student book (scientific track), Unit 8 — Trigonometry, printed pp. 70–73 |
 | Area of a triangle — ½ab sin C, and Heron's formula | Kuwait, Grade 11 Term 2 student book (scientific track), Unit 8 — Trigonometry, printed pp. 74–77 |
 | Taught corrected — printed p. 77, problem-solving guide: the formula line prints 'sin 80°' where the cosine law needs cos 80° (the book's own substitution and its answer use cos 80°, so the lake area ≈ 1645 m² stands) | Kuwait, Grade 11 Term 2 student book (scientific track), Unit 8 — Trigonometry, printed p. 77 |
+| The sine rule and the cosine rule, both stated and proved; the bisector theorem | Iran, Grade 11 Geometry (2) student book (Mathematical Sciences branch), Ch. 3, printed pp. 59–77 |
+| Trigonometric identities and equations | Iran, Grade 11 Hesaban (1) student book (Mathematical Sciences branch), Ch. 4 |
+| Trigonometric identities and equations | Iran, Grade 12 Hesaban (2) student book (Mathematical Sciences branch), Ch. 2 |
+| Trigonometric functions and identities — the double-angle formulas stated explicitly | Iran, Grade 12 Mathematics (3) student book (Experimental Sciences branch), Ch. 2, printed p. 43 |
 
-**Acceptance count: taught in 15 countries (Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Iraq, Cambodia, Kuwait).**
+**Acceptance count: taught in 16 countries (Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Iraq, Cambodia, Kuwait, Iran).** Iran states and proves both the sine rule and the cosine rule in Grade 11 Geometry (2), and carries trigonometric identities and equations in Grade 11 Hesaban (1), Grade 12 Hesaban (2) and Grade 12 Mathematics (3) — the last naming the double-angle formulas explicitly.
 Kazakhstan carries the fullest treatment — all three Grade 9
 Geometry books prove both rules (by vectors, by coordinates,
 by altitude) and work the standard solving cases, including

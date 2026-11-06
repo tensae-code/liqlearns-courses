@@ -1,6 +1,6 @@
 # Sources — Transformations
 
-countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia
+countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran
 
 Every part traces to its book and page.
 
@@ -108,6 +108,9 @@ textbook.
 **Book 49:** *Mathematics, Grade 9, Term 1 student book* — Kuwait, Ministry of Education, 2nd edition 1448 AH / 2026–2027, ISBN 978-9921-33-112-7 (Part 1). Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 51:** *Математика за осмо одделение* (Mathematics, Grade 8) — North Macedonia, Јово Стефановски (Jovo Stefanovski) and Наум Целакоски (Naum Celakoski), Ministry of Education and Science, Skopje **2010 edition** — the latest edition available as a file (the current manuscript has no PDF yet); cited as the 2010 edition everywhere, never as the current edition. Approval № 22-2321/1 of 21.04.2010, ISBN 978-608-4575-88-7. Filed in maths/books/north-macedonia.md (PARTIAL filing, gap batch — FULLY READ + CITATION CHECK PASSED 2026-11-06).
+**Book 52:** *Mathematics, Grade 6 student book* (ریاضی, code 605) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1405, ISBN 978-964-05-2491-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 53:** *Mathematics, Grade 7 student book* (ریاضی, code 705) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 14th printing 1405, ISBN 978-964-05-2242-4. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 54:** *Geometry (2), Grade 11 student book* (Mathematical Sciences branch; code 111213) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 10th printing 1405, ISBN 978-964-05-2783-2. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -167,8 +170,11 @@ textbook.
 | Rotation in the plane about the origin — the D(O, ±90°/180°/270°) rules | Kuwait, Grade 9 Term 1 student book, Unit 4 — Transformations, statistics and probability, printed pp. 166–176 |
 | Enlargement about the origin — centre, scale factor m, area ratio m² | Kuwait, Grade 9 Term 1 student book, Unit 4 — Transformations, statistics and probability, printed pp. 177–186 |
 | Projection only: parallel projection and orthogonal projection (the book teaches no reflection, rotation, translation or dilation as transformation topics) | North Macedonia, Grade 8 (2010 edition), Theme 4, printed pp. 168–170 |
+| Rotation | Iran, Grade 6 student book, Ch. 4 |
+| Translation, reflection and rotation, worked with tracing paper | Iran, Grade 7 student book, Ch. 4 |
+| Transformations, including homothety (dilation) | Iran, Grade 11 Geometry (2) student book (Mathematical Sciences branch), Ch. 2, printed pp. 31–58 |
 
-**Acceptance count: taught in 20 countries (Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia).**.** Egypt carries the
+**Acceptance count: taught in 21 countries (Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran).**.** Egypt carries the Iran rotates shapes in Grade 6, translates, reflects and rotates them with tracing paper in Grade 7, and gives transformations whole — homothety included — in Grade 11 Geometry (2).
 fullest single treatment — all four moves defined with
 coordinate rules plus composition in Grade 7 Term 2. Jordan
 carries translation and reflection in Grade 6, rotation in

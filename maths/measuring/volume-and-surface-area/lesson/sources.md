@@ -1,6 +1,6 @@
 # Sources — Volume and Surface Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran
 
 Every part traces to its book and page.
 
@@ -206,6 +206,10 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 79:** *Mathematics, Grade 9, Term 2 student book* — Kuwait, Ministry of Education, 1st edition 1447 AH / 2025–2026. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 80:** *Математика за осмо одделение* (Mathematics, Grade 8) — North Macedonia, Јово Стефановски (Jovo Stefanovski) and Наум Целакоски (Naum Celakoski), Ministry of Education and Science, Skopje **2010 edition** — the latest edition available as a file (the current manuscript has no PDF yet); cited as the 2010 edition everywhere, never as the current edition. Approval № 22-2321/1 of 21.04.2010, ISBN 978-608-4575-88-7. Filed in maths/books/north-macedonia.md (PARTIAL filing, gap batch — FULLY READ + CITATION CHECK PASSED 2026-11-06).
+**Book 81:** *Mathematics, Grade 5 student book* (ریاضی, code 505) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1404, ISBN 978-964-05-2433-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 82:** *Mathematics, Grade 7 student book* (ریاضی, code 705) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 14th printing 1405, ISBN 978-964-05-2242-4. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 83:** *Mathematics, Grade 9 student book* (ریاضی, code 905) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 12th printing 1405, ISBN 978-964-05-2435-0. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 84:** *Geometry (1), Grade 10 student book* (Mathematical Sciences branch; code 110213) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1405, ISBN 978-964-05-2501-2. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -291,8 +295,12 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Volume of a right pyramid — V = ⅓ × base area × height | Kuwait, Grade 9 Term 2 student book, Unit 8 — Percentages, geometry & measurement, printed pp. 228–231 |
 | Volume of a sphere — V = ⁴⁄₃πr³, by Archimedes' relation to the circumscribed cylinder | Kuwait, Grade 9 Term 2 student book, Unit 8 — Percentages, geometry & measurement, printed pp. 232–236 |
 | Surface area of a prism, P = 2B + M, from its net; volume of a cuboid V = abc and cube V = a³ (with litres, 1 ℓ = 1 dm³); volume of a right prism V = B·H; surface area and volume of a pyramid (V = ⅓B·H); cylinder (P = 2Rπ(R + H), V = R²πH); cone (P = Rπ(R + s), V = ⅓R²πH); sphere and ball (P = 4R²π, V = 4/3 R³π) | North Macedonia, Grade 8 (2010 edition), Theme 4, printed pp. 177–205 |
+| Volume of a cuboid; capacity | Iran, Grade 5 student book, Ch. 6 |
+| Volumes of prisms, V = S·h; the lateral surface area of a cylinder, 2πrh | Iran, Grade 7 student book, Ch. 6, printed pp. 69–82 |
+| Volume and surface area of the sphere — V = (4/3)πR³, S = 4πR²; the pyramid and the cone at one third | Iran, Grade 9 student book, Ch. 8, printed pp. 130–144 |
+| Solid geometry — the shapes themselves; volumes are not computed in this book | Iran, Grade 10 Geometry (1) student book (Mathematical Sciences branch), Ch. 4 |
 
-**Acceptance count: taught in 23 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia).**.** Sierra Leone carries the cleanest
+**Acceptance count: taught in 24 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran).**.** Sierra Leone carries the cleanest Iran gives the cuboid's volume in Grade 5, prism volumes and the cylinder's lateral area in Grade 7, and the sphere, pyramid and cone in Grade 9; its Grade 10 Geometry (1) treats the solids themselves without computing their volumes.
 ladder — cubes, prisms and cylinders by cross-section × height,
 then surface areas by the net, in JSS 2. Egypt carries volume by
 counting unit cubes through V = l × w × h in Grade 5 and the

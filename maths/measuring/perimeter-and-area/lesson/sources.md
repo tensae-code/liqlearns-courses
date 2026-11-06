@@ -1,6 +1,6 @@
 # Sources — Perimeter and Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran
 
 Every part traces to its book and page.
 
@@ -229,6 +229,11 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 94:** *Mathematics, Grade 7, Term 1 student book* — Kuwait, Ministry of Education, 2nd edition 1448 AH / 2026–2027, ISBN 978-9921-33-075-5. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 **Book 95:** *Mathematics, Grade 8, Term 1 student book* — Kuwait, Ministry of Education, 2nd edition 1448 AH / 2026–2027, ISBN 978-9921-33-121-9. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 **Book 96:** *Mathematics, Grade 11, Term 2 student book (scientific track)* — Kuwait, Ministry of Education, 2nd edition 1447 AH / 2025–2026 (old generation). Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED). (The file is named *-wb; the book's own cover and title page prove it is a student book, and it is cited as one.)
+**Book 97:** *Mathematics, Grade 3 student book* (ریاضی, code 305) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 14th printing 1405, ISBN 978-964-05-2334-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 98:** *Mathematics, Grade 4 student book* (ریاضی, code 405) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 13th printing 1405, ISBN 978-964-05-2372-8. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 99:** *Mathematics, Grade 5 student book* (ریاضی, code 505) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1404, ISBN 978-964-05-2433-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 100:** *Geometry (1), Grade 10 student book* (Mathematical Sciences branch; code 110213) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1405, ISBN 978-964-05-2501-2. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 101:** *Geometry (2), Grade 11 student book* (Mathematical Sciences branch; code 111213) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 10th printing 1405, ISBN 978-964-05-2783-2. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -330,8 +335,13 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Area, inside the measurement and solids unit | Kuwait, Grade 7 Term 1 student book, Unit 3 — Measurement and solids, printed pp. 131–185 |
 | Area of circles, inside the geometry and measurement unit | Kuwait, Grade 8 Term 1 student book, Unit 3 — Geometry and measurement, printed pp. 126–175 |
 | Area of a triangle by trigonometry — ½ab sin C — and Heron's formula | Kuwait, Grade 11 Term 2 student book (scientific track), Unit 8 — Trigonometry, printed pp. 74–77 |
+| Area by counting squares; perimeter | Iran, Grade 3 student book, Ch. 5 |
+| Areas of the parallelogram and the triangle, derived | Iran, Grade 4 student book, Ch. 6, printed pp. 130–133 |
+| Areas of the rhombus and the trapezium | Iran, Grade 5 student book, Ch. 6 |
+| Areas of polygons | Iran, Grade 10 Geometry (1) student book (Mathematical Sciences branch), Ch. 3, Lesson 2, printed pp. 65–76 |
+| Heron's formula (the proof is printed at p. 75) | Iran, Grade 11 Geometry (2) student book (Mathematical Sciences branch), Ch. 3, printed p. 75 |
 
-**Acceptance count: taught in 22 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait).** Sierra Leone carries the cleanest
+**Acceptance count: taught in 23 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran).** Sierra Leone carries the cleanest Iran counts squares for area in Grade 3, derives the parallelogram and triangle areas in Grade 4, adds the rhombus and trapezium in Grade 5, and reaches polygon areas in Grade 10 Geometry (1) and Heron's formula in Grade 11 Geometry (2).
 ladder — perimeter short cuts, rectangle and triangle areas with
 the perpendicular-height rule, and the parallelogram, trapezium
 and composite areas in JSS 2. Jordan carries perimeter and area

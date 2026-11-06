@@ -1,6 +1,6 @@
 # Sources — Multiplying and Dividing Fractions
 
-countries: Kazakhstan, Jordan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait
+countries: Kazakhstan, Jordan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran
 
 Every part traces to its book and page.
 
@@ -122,6 +122,8 @@ only: Ghana's set holds no pupil textbook at all.
 **Book 41:** *Mathematics, Grade 5, Term 2 student book* — Kuwait, Ministry of Education, 1st edition 1447 AH / 2025–2026. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 **Book 42:** *Mathematics, Grade 6, Term 1 student book* — Kuwait, Ministry of Education, 2nd edition 1448 AH / 2026–2027, ISBN 978-9921-33-067-0. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 **Book 43:** *Mathematics, Grade 7, Term 2 student book* — Kuwait, Ministry of Education, 1st edition 1447 AH / 2025–2026. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
+**Book 44:** *Mathematics, Grade 5 student book* (ریاضی, code 505) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1404, ISBN 978-964-05-2433-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 45:** *Mathematics, Grade 6 student book* (ریاضی, code 605) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1405, ISBN 978-964-05-2491-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -167,8 +169,10 @@ only: Ghana's set holds no pupil textbook at all.
 | Multiplying fractions (this book teaches multiplication of fractions; no fraction division) | Kuwait, Grade 5 Term 2 student book, Unit 6 — Fraction operations, ratio and percentage, printed pp. 47–81 |
 | Multiplying and dividing fractions and mixed numbers — unit assessment taught corrected: 1/3 ÷ 6/7 = 7/18, which is not among the book's printed options | Kuwait, Grade 6 Term 1 student book, Unit 4 — Fraction operations, printed pp. 171–214 |
 | Multiplying and dividing fractions and mixed numbers (Grade 7 revisit) | Kuwait, Grade 7 Term 2 student book, Unit 5 — Fractions and operations, printed pp. 15–62 |
+| Multiplying and dividing fractions | Iran, Grade 5 student book, Ch. 2 |
+| Reciprocals defined; fraction multiplication and division consolidated | Iran, Grade 6 student book, Ch. 2 |
 
-**Acceptance count: taught in 21 countries (Kazakhstan, Jordan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait).** Nepal carries multiplying and dividing fractions from multiplication only in Grade 5 (Unit 12, pp. 77–95 — no division there), to multiplying and dividing fractions including mixed numbers and fraction-of-quantity in Grade 6 (पाठ 4, pp. 53–75). Bangladesh carries multiplying and dividing fractions from multiplication and division by integers and by fractions, with division on the number line, in Class 5 (Ch. 6 §§6.3–6.7, pp. 38–64), through multiplication and division of fractions in Class 6 (Ch. 4, pp. 57–102), to division of algebraic expressions — polynomial ÷ monomial and polynomial ÷ polynomial — in Class 7 (Exp. 11, pp. 215–226). The third worked division on Class 7 p. 220 is taught corrected: (21y²z²)/(−4y²z) is given as 3z; the correct value is −5.25z. Iraq carries multiplying and dividing fractions from multiplying common fractions in Grade 5 (Ch. 6 L4, p. 111, contents level — the lesson page was not individually opened), through multiplying common and mixed numbers and dividing common and mixed numbers in Grade 6 (Ch. 3 L1–L4, pp. 56–65). Kazakhstan carries the full course with the rule derived,
+**Acceptance count: taught in 22 countries (Kazakhstan, Jordan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran).** Nepal carries multiplying and dividing fractions from multiplication only in Grade 5 (Unit 12, pp. 77–95 — no division there), to multiplying and dividing fractions including mixed numbers and fraction-of-quantity in Grade 6 (पाठ 4, pp. 53–75). Bangladesh carries multiplying and dividing fractions from multiplication and division by integers and by fractions, with division on the number line, in Class 5 (Ch. 6 §§6.3–6.7, pp. 38–64), through multiplication and division of fractions in Class 6 (Ch. 4, pp. 57–102), to division of algebraic expressions — polynomial ÷ monomial and polynomial ÷ polynomial — in Class 7 (Exp. 11, pp. 215–226). The third worked division on Class 7 p. 220 is taught corrected: (21y²z²)/(−4y²z) is given as 3z; the correct value is −5.25z. Iraq carries multiplying and dividing fractions from multiplying common fractions in Grade 5 (Ch. 6 L4, p. 111, contents level — the lesson page was not individually opened), through multiplying common and mixed numbers and dividing common and mixed numbers in Grade 6 (Ch. 3 L1–L4, pp. 56–65). Kazakhstan carries the full course with the rule derived, Iran multiplies and divides fractions in Grade 5 and defines reciprocals in Grade 6.
 not just stated; Egypt carries the area-model multiplication and
 the two unit-fraction divisions as their own lessons, and the
 Grade 6 division modelling; Jordan carries multiplying and dividing

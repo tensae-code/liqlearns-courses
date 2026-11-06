@@ -1,6 +1,6 @@
 # Sources — Circle theorems
 
-countries: Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait
+countries: Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran
 
 Every part traces to its book and page.
 
@@ -61,6 +61,8 @@ maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 **Book 27:** *Mathematics, Grade 10 student book, Part 1 (Chapters 1–5)* — Cambodia, MoEYS / Publishing and Distribution House, 3rd printing 2020, ISBN 9789995000714. Filed in maths/books/cambodia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 28:** *Geometry Tips* (handwritten formula compendium) — Cambodia, no author, publisher or year printed. Filed in maths/books/cambodia.md (FULLY READ + CITATION CHECK PASSED). Handwritten compendium, not a textbook: cited only for the sector-area formula and the angle between lines.
 **Book 29:** *Mathematics, Grade 10, Term 2 student book* — Kuwait, Ministry of Education, 2nd edition 1447 AH / 2025–2026 (old generation). Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED). (The file is named *-wb; the book's own cover and title page prove it is a student book, and it is cited as one.)
+**Book 31:** *Mathematics, Grade 8 student book* (ریاضی, code 805) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 13th printing 1405, ISBN 978-964-05-2379-7. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 32:** *Geometry (2), Grade 11 student book* (Mathematical Sciences branch; code 111213) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 10th printing 1405, ISBN 978-964-05-2783-2. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -104,8 +106,10 @@ maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 | Chords and arcs — congruent central angles, chords and arcs imply each other; congruent chords are equidistant from the centre; a diameter perpendicular to a chord bisects it and its arcs (and the converses) | Kuwait, Grade 10 Term 2 student book, Unit 6 — Geometry of a Circle, printed pp. 25–31 |
 | Central and inscribed angles — the inscribed angle is half its arc; the tangent–chord angle equals the inscribed angle on the same arc; cyclic quadrilaterals | Kuwait, Grade 10 Term 2 student book, Unit 6 — Geometry of a Circle, printed pp. 32–41 |
 | Intersecting chords and tangents — the products of the segments are equal; two secants from an exterior point; tangent² = whole secant × external part | Kuwait, Grade 10 Term 2 student book, Unit 6 — Geometry of a Circle, printed pp. 42–48 |
+| The inscribed angle is half the central angle; the tangent is perpendicular to the radius — both stated | Iran, Grade 8 student book, Ch. 9, printed p. 139 |
+| The inscribed-angle and tangent–chord theorems developed by guided proof; power of a point; cyclic quadrilaterals | Iran, Grade 11 Geometry (2) student book (Mathematical Sciences branch), Ch. 1, printed pp. 9–30 |
 
-**Acceptance count: taught in 17 countries (Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait).** Kazakhstan carries the
+**Acceptance count: taught in 18 countries (Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran).** Kazakhstan carries the Iran states the inscribed-angle and tangent–radius facts in Grade 8 and develops the circle theorems by guided proof — power of a point and cyclic quadrilaterals included — in Grade 11 Geometry (2).
 fullest treatment — the inscribed-angle theorem with all
 cases, the tangent–chord angle, the inside/outside angle
 theorems, the three segment products, cyclic and circumscribed
