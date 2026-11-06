@@ -68,11 +68,23 @@ passed/corrected/not found):**
   (173 passed, 6 corrected, 0 not found).
 - **Total: 73 files → 30 works → 9,168 pages → 932 anchors (848 passed,
   79 corrected, 5 not found).**
+- **ADDENDUM — GAP BATCH 2026-11-06:** Grade 2 Term 2 (OLD "Discover"
+  series) landed in Arabic + English editions and is filed as **W5**
+  in Band A below — 2 files → 1 work → 192 pages. New set totals:
+  **75 files → 31 works → 9,360 pages**. Gap-batch citation check
+  (checker ≠ reader): 20 anchors (14 passed, 6 corrected, 0 not
+  found) + 3 special claims all confirmed (see the check block after
+  W5). Combined anchor totals: **952 (862 passed, 85 corrected,
+  5 not found)**.
 
 **THE GAPS, PROVEN FROM THE BOOKS (nothing below is inferred from a missing
 record row alone — each was checked against the held files):**
 - **Grade 2 Term 2:** no file in the held set at all (only Term 1 is held, in
-  two different series).
+  two different series). **(PARTLY CLOSED 2026-11-06: the OLD-series
+  Grade 2 Term 2 landed in the gap batch, Arabic + English editions,
+  and is filed as W5 in Band A. The NEW-series Grade 2 Term 2 remains
+  a gap — no file held. This bullet stands as the record of the gap
+  as it was at the 2026-11-04 read.)**
 - **Grade 3:** no French Term 2 in any file (the French Term 1 file ends at its
   Chapter 6 capacity reflection); no new-series (SPRIX) Term 2 at all — its
   Term 1 book ends at "Vertical Multiplication (Part 1)" with no Part 2 held;
@@ -854,6 +866,338 @@ no temperature; no data handling beyond Chapter 1.
   differences, not missing pages.
 
 ---
+
+### W5 — Grade 2, Term 2, OLD series (Education 2.0 "Discover", 2025–2026)
+
+> **SERIES VERDICT — READ FIRST, IT CONTRADICTS THE GAP-BRIEF ASSUMPTION.**
+> This book is **NOT** the new SPRIX/CACD series and is **NOT** the Term 2
+> continuation of W4. It is the Term 2 continuation of **W3** — the old
+> Education 2.0 "Discover" workbook series. Proof from its own pages, in both
+> editions: (1) the cover is the blue school-objects cover of W3 (pencil, cone,
+> cube, clock, ruler, scales), not the new series' cat "Brainy" / dog "Smarty"
+> / chicken "Genius" cover; (2) the Foreword (Arabic folio ٣; the English
+> Foreword is unfolioed — see pagination note)
+> presents the book as part of the series produced with **Discovery
+> Education**, under the Education 2.0 reform begun September 2018, and thanks
+> the Discovery Education Foundation — the same Foreword family as W3; (3) the
+> lesson format is the old-series workbook format — every lesson is **APPLY**
+> exercises plus a **Reflect** page, with no Point! / Warm Up / How to Solve /
+> Try / Exercise structure, no numbered side tab strip, and no SPRIX/GPS marks
+> anywhere; (4) the chapter numbering **continues W3's Chapters 1–6 with
+> Chapters 7–12** (W4's new series restarted at Chapters 1–9 in Term 1);
+> (5) there are no vertical column algorithms of the W4 kind — addition and
+> subtraction with regrouping are done with decomposition, number bonds and
+> place-value mats, exactly W3's methods. The new series' Grade 2 Term 2 book
+> remains **not held**; this file closes the *old-series* half of the
+> "Grade 2 Term 2: no file in the held set" gap only.
+
+- Title as printed: English cover — PRIMARY 2, MATHEMATICS, TERM 2.
+  Arabic cover — الصف الثاني الابتدائي / الرياضيات / الفصل الدراسي الثاني
+  (Primary 2 / Mathematics / Second Term), with the ministry seal and the
+  notice that the book may not be circulated outside the Ministry of Education
+  and Technical Education.
+- Publisher: Ministry of Education and Technical Education (Egypt), with
+  Discovery Education (Foreword — Arabic folio ٣; English Foreword
+  unfolioed). Central
+  Administration for Curriculum Development (CACD) logo on the final
+  review/specs page.
+- Languages: Arabic, English (one work in two languages; no French copy was
+  in this gap batch).
+- Edition/year as printed: covers read **2025–2026** in both languages
+  (Arabic cover in Arabic-Indic numerals ٢٠٢٥–٢٠٢٦). English final page:
+  "Copyright © 2025–2026"; Arabic final page: copyright and authorship rights
+  ٢٠٢٥–٢٠٢٦ reserved to the Ministry. **No ISBN and no deposit number are
+  printed in either edition** (checked on cover, Foreword, Contents and the
+  final review/specs page of both files). The Arabic specs table does print a
+  **book number, ١٠/٢/٢٢/١/٣٤/٢١ (10/2/22/1/34/21)**; the English specs table
+  leaves its book-number field **blank** (see Editions note).
+- Review/supervision (final page, both editions, names matching across
+  languages): revisers Manal Abass Ahmed Azkol, Dr. Mohamed Mohyeldin
+  Abdelsalam Aboraia, Ahmed Ibrahim Eldesouky Hashem, Sameh Abd Ebasset
+  Elsayed Mahamed, Mr. Amr Farouk Mahmoud; Instructional Supervision
+  Dr. Akram Hassan Mohamed (the Grade 1 books' supervisor, not W4's
+  Dr. Gebriel Anwer Hemieda — a further old-series marker).
+- Files and pagination:
+  - Arabic (3,546,421 bytes; 96 PDF pages): **PDF page = printed page**
+    throughout. Verified at printed pp2 (PDF p2, name/class/school page,
+    folio ٢), 3 (PDF p3, Foreword, folio ٣), 4 (PDF p4, Contents, folio ٤),
+    5 (PDF p5, Chapter 7 Lesson 1, folio ٥), 21/23/24 (PDF pp21/23/24,
+    Chapter 8 Lessons 2–4), 41/43/44 (PDF pp41/43/44, Chapter 9 Lessons 8–9),
+    61–64 (PDF pp61–64, Chapter 11 Lessons 1–3), 81–84 (PDF pp81–84,
+    Chapter 12 Lessons 2–4), 93/94/95 (PDF pp93/94/95, Chapter 12 Lessons
+    9–10). Final page PDF p96 is the unfolioed review/specs page. Numerals
+    throughout are Arabic-Indic (٠١٢٣…).
+  - English (13,108,985 bytes; 96 PDF pages): **PDF page = printed page**
+    wherever a folio is printed. Verified by folio at printed pp5 (PDF p5,
+    Chapter 7 Lesson 1), 8, 20, 45, 61, 79 and 95 (checker re-verified at
+    18 folioed pages). PDF pp2–4 are **unfolioed** (checker-corrected: p2
+    blank inside cover, p3 the Foreword with a blank footer — it prints
+    NO folio, so "printed p3" for the Foreword is the Arabic edition's
+    foliation; the English Foreword is identified by position and content,
+    p4 the Contents likewise). Final page PDF p96 is the unfolioed
+    review/specs page; there is **no separate back
+    cover page** in either file.
+  - Both specs tables state **100 pages including covers** against 96 PDF
+    pages — the same uniform +4 covers/flyleaves counting convention already
+    recorded for W3, not missing content.
+- How it was read: **both files are image-only** (pdftotext returns
+  essentially nothing: 96 bytes for the English file; the Arabic file yields
+  only its specs-table book number). Both editions were read **page by page
+  from rendered page images** — the English edition in full (every lesson
+  header, APPLY exercise and Reflect page), the Arabic edition at its cover,
+  Foreword, Contents, Chapters 7–9 and 11–12 lesson pages and its final page,
+  with lesson-for-lesson page parity against the English checked at every
+  point listed above. Everything below that rests on the Arabic edition is
+  from renders; the unit map is from the English edition, with the Arabic
+  Contents (printed p4) confirming the same 60 lessons at the same printed
+  pages. Summaries are the reader's own words; no passages are transcribed.
+- Structure and character: a **WORKBOOK**, like W3, not a teaching text.
+  Lessons carry no explanations: each opens with APPLY (exercises to do with
+  the teacher or a partner) and many close with a Reflect page. **6 chapters
+  (7–12), 60 lessons**, 10 per chapter. Money is "LE" (Egyptian pounds) in
+  the English edition; the Arabic edition uses جنيه (pounds). Chapter 12
+  Lessons 9–10 are a whole-year closing reflection, not new teaching.
+
+#### Unit-by-unit map (printed pages; English pagination — Arabic identical)
+
+- Chapter 7, Money (pp5–19). L1 Exploring Money (5–6): match physical
+  banknotes to their pictured notes and write each value — the notes taught
+  are 1, 5, 10, 20, 50, 100 and 200 pounds (checker-corrected: English p. 5
+  lists them top→bottom 100, 10, 50, 5, 1, 20, 200, notes left / VALUE
+  right; the Arabic p. 5 layout is the mirror; there is no ½-pound note —
+  the smallest note taught is 1 LE); Reflect on the number
+  patterns on notes and what each note can buy. L2 Composing an Amount (7):
+  the bank game — one pupil is the bank clerk; compose a stated amount from
+  notes, write it, draw it in a second box. L3 Applications on Money (8):
+  make each priced item's amount from notes and draw the combination —
+  set of books 28 LE, football 206 LE, toy truck 149 LE, video game 724 LE,
+  plush toy 39 LE, board game 126 LE (prices identical in the Arabic
+  edition). L4 More Applications on Money (9–10): match banknote groups to
+  their totals and to priced items. L5 Work with Money (11–12): word
+  problems — decompose prices, how much money in all, money left after a
+  purchase, small change-type differences. L6 Saving and Purchasing
+  (13–14): money saved over days/weeks, saving toward a target price, can
+  the saver afford the item. L7 Place Value for Amounts (15): break amounts
+  into hundreds, tens and ones on a place-value mat. L8 Adding Using Money
+  (16): add two money amounts. L9 Subtracting Using Money (17): subtract
+  money amounts (spending and difference problems). L10 Applications on
+  Adding and Subtracting Money (18–19): mixed money word problems.
+- Chapter 8, Even and Odd Numbers, Patterns and Arrays (pp20–31).
+  L1 Exploring Even Number and Odd Number (20): sort/count pictured objects
+  and decide even or odd. L2 Double the Number (21–22): double each number
+  1–20 in a table (1 + 1 = 2, even, is worked) and say whether each double
+  is even or odd — every double is even. L3 An Even or an Odd Number?
+  (23): add pairs of playing-card values, write the sum, decide even or
+  odd; Reflect colours even numbers red and odd numbers blue in 1–20.
+  L4 Patterns (24): complete growing number patterns and write each next
+  two numbers (steps of 2, 3, 5, 10, 2, 2, 4 across the seven rows; the
+  first row's +2 is labelled). L5 More Patterns (25): more pattern rows,
+  including patterns on/around a calendar grid. L6 Exploring the Pattern
+  Rule (26): find the rule of a pattern and extend it. L7 Create Patterns
+  Involving Addition and Subtraction (27): build own patterns with a
+  stated rule. L8 Exploring Arrays (28): "glue your favourite array" and
+  Reflect (checker-corrected: no waffle/gummy-bear arrays on this page —
+  those are Chapter 12 Lesson 4, printed p. 84). L9 Repeated Addition and
+  Arrays (29–30): repeated-addition sentences for the pictured arrays of
+  p. 29 (tiles, fish, flowers, cans, footballs); a 4 rows × 5 columns dot
+  array is the worked frame.
+  L10 Creating Arrays (31): draw/build own arrays for given totals and
+  write the repeated addition.
+- Chapter 9, Estimating, Rounding and Adding with Regrouping (pp32–46).
+  L1 Estimating the Sum or the Difference (32): front-end estimation —
+  keep the largest place, replace the rest with zeros (30 + 10 for
+  32 + 14). L2 Rounding to the Nearest 10 (33): rounding on the number
+  line; numbers ending in 5 round up. L3 Applications on Estimating and
+  Rounding (34): estimate sums/differences both ways, then judge a pictured
+  shopping estimate. L4 Adding Two 2-Digit Numbers with Regrouping (35–36):
+  add by decomposing the second addend (45 + 18 = 45 + 10 + 8), then by
+  decomposing both addends; six practice sums. L5 More of Adding Two
+  2-Digit Numbers with Regrouping (37–38): twelve practice sums. L6 Adding
+  Two 3-Digit Numbers with Regrouping (39): decompose the second addend
+  (123 + 119). L7 More of Adding Two 3-Digit Numbers with Regrouping
+  (40–41): twelve practice sums. L8 Adding Two Numbers With or Without
+  Regrouping Using Models (42): teacher-given problems worked in
+  hundreds/tens/ones model boxes; Reflect solves 145 + 100 mentally.
+  L9 Adding Two Numbers With or Without Regrouping (43–44): six model-box
+  problems. L10 Strategies for Adding Two Numbers (45–46): a checking
+  lesson — eight worked items in pupil-style writing, some **deliberately
+  wrong** to be marked and corrected (123 + 59 = 172 as printed, correct
+  182; "round 35 to the nearest ten = 30" as printed, correct 40 by the
+  book's own round-5-up rule; "80 − 20 = 70" as printed in an 87 − 21
+  estimate, correct 60) — these are the exercise, not book errors (see
+  Defects). Plus a rounding/estimating review page.
+- Chapter 10, Subtraction and Its Relation to Addition (pp47–60).
+  L1 The Relation Between Adding and Subtracting Using the Family Facts
+  (47–48): blank fact-family houses whose numbers are drawn from cards
+  give two additions and two subtractions (checker-corrected: p. 47
+  prints no worked triangle — no (5, 3, 8) example appears on pp. 47–48 —
+  and "check a subtraction with addition" is not printed on p. 47).
+  L2 Subtraction Using
+  the Number Line (49): count back / count up on the number line.
+  L3 Story Problems on Subtraction (50–51). L4 Breaking Numbers (52):
+  break (decompose) a number into parts as a subtraction strategy.
+  L5 Subtracting Numbers Using the Mental Mathematics (53–54): mental
+  subtraction strategies. L6 Patterns of Subtracting Numbers with
+  Regrouping (55): pattern tables in subtraction with regrouping.
+  L7 Strategies of Subtracting Two Numbers Using Models (56):
+  place-value model boxes. L8 More Strategies of Subtracting Two Numbers
+  Using Models (57). L9 Subtracting Two Numbers with Regrouping (58–59):
+  decomposition regrouping practice. L10 Adding and Subtracting Two
+  Numbers with Regrouping (60): mixed practice.
+- Chapter 11, Fractions (pp61–78). L1 Creating Fractions (Halves, Thirds
+  and Quarters) (61): circle whether each pictured circle is split into
+  equal or unequal parts — a fraction needs equal parts; Reflect compares
+  splitting a wall clock, a halved circle and a quartered circle. L2
+  Different Forms for the Fractions (Halves, Thirds and Quarters) (62–63):
+  from class fraction charts — for each circle record the number of equal
+  parts, the fraction in words and the fraction vocabulary. L3 Representing
+  and Writing Fractions of Numerators More Than 1 (64–66): p. 64 prints
+  four blank quartered circles, teacher-directed, with no fraction values
+  (checker-corrected); the numerator-greater-than-1 work materialises on
+  p. 65 (thirds: shade 2 and 3 pieces) and p. 66 (printed 3/4 and 4/4,
+  including the fraction equal to one whole); a pizza extension on p. 66
+  shades 1/4 pepperoni, 1/4 olives (checker-corrected — not 2/4), 3/4
+  green peppers, 4/4 cheese. L4 Fraction as a Part of a Whole
+  (67): what fraction of a flag is green (the flag is in thirds), of a
+  rectangle is blue (halves), of a book cover is black (thirds). L5
+  Fractions' Cards (68–69): the card game — fraction cards in pictures,
+  numbers and words are matched. L6 Work with Fractions (70–71): a board
+  game played across the two pages (the board starts on p70 and continues
+  on p71) plus fraction problem cards (a cake missing ¼). L7 Fraction as
+  a Part of a Group (72–73): p. 72 is blank shake-and-spill counter boxes
+  1–5 with no pictured groups (checker-corrected); the pictured sets are
+  on p. 73 (counters, Q6–10: red fractions 1/4, 3/4, 1/3, 2/3, 4/4; the
+  closest item is 2 red of 3 counters, Q9). L8 Applications on a Fraction as a
+  Part of a Group (74–75): fraction-of-a-collection word problems (birds,
+  marbles). L9 Story Problems Involve Fractions (76–77). L10 Applications
+  on Fractions (78): a fraction wall (one whole; halves; thirds; quarters)
+  to complete in words/numbers, and a shopping fraction problem (½ LE of
+  10 LE).
+- Chapter 12, Data, Arrays and Closing Strategies (pp79–95). L1 Reading
+  and Interpreting Data (79–80): a favourite-fruit bar graph on a scale
+  of 10s, then a favourite-pizza-topping pictograph whose key is one whole
+  slice picture = 2 people (half a picture = 1), with most/more/fewer/
+  total questions. L2 A Scale for Representing Data Using the Bar Graph
+  (81): build a bar graph of the "Magical Animals" story data on a chosen
+  scale, with title, labels and coloured bars; write two questions about
+  it and answer them. L3 A Scale for Representing Data Using the
+  Pictograph (82): build a pictograph from the same story's second part,
+  with a key. L4 Applications on Arrays (83–84): write two repeated-
+  addition sentences (by rows and by columns) for each pictured array —
+  waffle 4 × 4, gummy bears 5 × 3, a 2 × 3 stud brick, a 4 × 2 window —
+  and write a comparison sentence for two arrays. L5 Work with Arrays
+  (85–86): more array work (an egg box among them). L6 Strategies for
+  Addition and Subtraction (87–88): mixed strategy practice. L7 Story
+  Problems on Adding and Subtracting (89). L8 Work with Adding and
+  Subtracting (90–92): mixed practice. L9 What Did You Learn in
+  Mathematics? (93–94): closing reflection across the year's five strands
+  — Operations and Algebraic Thinking, Number and Operations in the
+  Decimal (Base-Ten) System, Measurement, Data, Geometry. L10 Writing a
+  Message about Mathematics (95): write a letter about this year's maths
+  to a Primary 1 pupil.
+- End matter (PDF p96, both editions): review/supervision page and the
+  Arabic technical-specs table; no separate back cover in either file.
+
+#### Honest negatives — what W5 does NOT teach
+
+No multiplication or division as operations: no × or ÷ signs, no times
+tables, no sharing/grouping division — arrays and repeated addition
+(Chapters 8 and 12) are preparation only, never named multiplication.
+No new-series vertical column algorithm: regrouping is taught by
+decomposing numbers and by place-value model boxes, as in W3. No geometry
+chapter and no shape teaching (shapes appear only as pictures; the year's
+Geometry strand is named only in the closing reflection). No length, mass
+or capacity teaching, and no clock/time teaching (a wall clock appears
+only as a fractions Reflect analogy). No decimals or percentages. No
+fractions on a number line, no comparing or ordering fractions as a rule,
+no adding/subtracting fractions, and equivalence is met only visually on
+the fraction wall (2/4 beside 1/2), never stated as a rule. No pie charts
+or line graphs; data work is bar graphs and pictographs only. Money is
+banknotes only — the smallest note taught is 1 LE, no coins are taught
+and no smaller units are named,
+and amounts stay within three digits (largest price 724 LE). No numbers
+beyond three digits are taught as numbers. No calendar/date work.
+
+#### Held-copy defects and slips
+
+- **No confirmed book errors found.** Every printed worked answer that
+  could be recomputed was recomputed and checked: the Chapter 7 Lesson 4
+  banknote-group totals each match exactly one priced item; the
+  Chapter 7 Lesson 3 prices (28, 206, 149, 724, 39, 126 LE) are internally
+  consistent and identical in both editions; the Chapter 8 doubles table's
+  worked row (1 + 1 = 2, even) is correct; the Chapter 12 pictograph data
+  is consistent with its key (whole picture = 2 people). Chapter 9
+  Lesson 10's wrong answers (123 + 59 = 172; round 35 → 30; 80 − 20 = 70)
+  are **deliberate pupil-style errors set for the pupil to find and
+  correct** — teach-corrected values are 182, 40 and 60, and the lesson
+  must never be cited as the book asserting them.
+- English Contents (printed p4): Chapter 8 Lesson 6's title ends with a
+  full stop — "EXPLORING THE PATTERN RULE." (sic, punctuation in the
+  contents list only).
+- Chapter 9 Lessons 4–5 are titled "with regrouping" but each list
+  includes a sum that needs no regrouping (52 + 27 in Lesson 4;
+  53 + 26 in Lesson 5) — recorded as a title/exercise mismatch
+  observation, not asserted as an error: the sets may be deliberately
+  mixed.
+- Chapter 11 Lesson 6's board game is split across printed pp70–71 (the
+  board begins on p70 and continues on p71) — a layout fact a user of the
+  printed book needs, not a missing page.
+- Specs-vs-PDF counts: both editions' specs tables state 100 pages
+  including covers against 96 PDF pages (+4 convention, as W3).
+- No missing content pages in either copy; all 60 lessons are present in
+  both languages at the same printed pages.
+
+#### Editions (W5) — Arabic vs English, and the series question
+
+Same work, two language editions, same printed pagination (PDF = printed
+in both — a per-edition verified fact, not an assumption; the Arabic
+front matter is NOT offset the way W3's Arabic copy was). Content is
+lesson-for-lesson identical, including the Chapter 7 Lesson 3 prices.
+The real differences are production facts on the final page and the
+front matter:
+- **Printers differ:** English copy — Al-Yasser Press (مطبعة الياسر, with
+  the Afifi Group logo); Arabic copy — City Press (سيتي برس للطباعة).
+- **Specs differ:** English specs — book size stated as 1/8, 57 × 82;
+  text paper 80 g white; cover paper 200 g couché. Arabic specs — book
+  size 19 × 27 cm; text paper 70 g; cover paper 180 g. Both: 4 colours
+  text and cover, 100 pages including covers.
+- **Book number:** printed in the Arabic specs table (10/2/22/1/34/21);
+  the English specs table's book-number field is blank.
+- **Front matter:** the English PDF p2 is blank and unfolioed; the Arabic
+  PDF p2 is a folioed (٢) name/class/school page. Neither file has a
+  separate back cover page; both end on the review/specs page (PDF p96).
+- **Numerals:** Arabic edition uses Arabic-Indic numerals throughout,
+  including folios and the cover year; English uses Western numerals.
+- **Series:** both editions are the OLD Education 2.0 "Discover" series
+  (see the verdict at the head of this section). Filing this work as the
+  new series' Term 2 — as the gap brief assumed — would merge two series
+  in exactly the way the Band A header warns against. The new-series
+  Grade 2 Term 2 (SPRIX/CACD, continuing W4) is still a gap.
+
+#### CHECK BLOCK — gap-batch citation check (2026-11-06, checker ≠ reader)
+
+20 anchors — **14 passed, 6 corrected, 0 not found**. All verdicts
+from the checker's own renders of both (image-only) PDFs; offsets
+re-verified independently (Arabic PDF = printed at 8 folio points;
+English PDF = printed at 18 folioed pages, English pp. 2–4
+unfolioed). Corrections applied in place in the W5 section above:
+the English Foreword prints no folio (folio ٣ is the Arabic
+edition's); Chapter 7's notes are 1, 5, 10, 20, 50, 100, 200 LE
+(no ½-pound note; smallest taught is 1 LE); p. 47 prints blank
+fact-family houses, no worked (5, 3, 8) triangle; the waffle 4 × 4
+and gummy-bear 5 × 3 arrays are Chapter 12 Lesson 4 (printed
+p. 84), not p. 28 (p. 29 carries the Chapter 8 repeated-addition
+arrays); p. 64 prints no fraction values (the numerator->1 work is
+pp. 65–66, and the pizza's olives are 1/4, not 2/4); p. 72 is blank
+shake-and-spill boxes (the pictured fraction-of-a-group sets are
+p. 73). Three special claims all CONFIRMED: **S1** the series
+verdict (old "Discover" series, Chapters 7–12, Discovery Education
+foreword, no SPRIX marks — all three legs); **S2** Chapter 9
+Lesson 10's wrong answers (123 + 59 = 172; 35 → 30; 80 − 20 = 70)
+are deliberate find-the-mistake material, correct values
+182 / 40 / 60 — not book errors; **S3** no ISBN or deposit number
+in either edition (Arabic specs print book number
+10/2/22/1/34/21; the English book-number field is blank).
 
 ### Clustering table — every file → its work
 

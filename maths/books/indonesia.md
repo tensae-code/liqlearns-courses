@@ -9,6 +9,24 @@ No distinct work is owed: the recorded "28 in hand" is a confirmed subset —
 all 28 inventory items are held, plus 3 extra in-hand student books the
 inventory does not count (see record corrections 1–2 below).
 
+**ADDENDUM — GAP BATCH 2026-11-06 (3 books landed, read + checked):**
+the three SIBI student books named as leads in the original read have
+now landed and are filed in the grade sections below: the **Grade 8
+Merdeka student book** (344 PDF pages — the 2022 guide's matched pair),
+the **Grade 11 Tingkat Lanjut Edisi Revisi student book** (320 PDF
+pages) and the **Grade 12 Tingkat Lanjut Edisi Revisi student book**
+(320 PDF pages). Both TL Revisi pairs are **TRUE COMPANIONS**
+(checker-verified chapter by chapter) — the two TL "mismatches"
+recorded in the original read were mismatches against the older
+2021/2022 TL student books only, and are corrected in place below.
+Set totals are now **34 files / 34 distinct works — 21 student books
++ 13 teacher guides, 9,371 PDF pages**. Gap-batch citation checks
+(checker ≠ reader): Grade 8 student book 20 anchors (19 passed,
+1 corrected, 0 not found) + 4 special claims all confirmed;
+TL Revisi pair 40 anchors (38 passed, 2 corrected, 0 not found)
++ 3 special claims all confirmed. Combined anchor totals for the
+whole Indonesia set: **739 (653 passed, 86 corrected, 0 not found)**.
+
 ## The set at a glance
 
 - Grades 1–6: Kurikulum Merdeka student book + teacher guide pairs (2022),
@@ -19,7 +37,9 @@ inventory does not count (see record corrections 1–2 below).
   student editions, filed separately, never merged.
 - Grade 8: Merdeka 2022 teacher guide + K13 2017 Semester 1 student book
   only. There is NO Merdeka Grade 8 student book in hand — the guide has
-  no student book of its own edition.
+  no student book of its own edition. **(CORRECTED 2026-11-06: the
+  Merdeka Grade 8 student book has landed — see the Grade 8 section;
+  it is the guide's matched pair.)**
 - Grade 9: Kurikulum Merdeka 2022 student book + teacher guide pair.
 - Grades 10–12: each grade holds TWO student editions — the Kurikulum
   Merdeka original (2021–2022) and the Edisi Revisi (2023–2025) — plus,
@@ -166,6 +186,10 @@ verified per book by the checkers from contents, folios and back matter.
 - **No Grade 8 Merdeka student book in hand** (only the 2022 Merdeka
   guide and the 2017 K13 Semester-1 student). The Merdeka Grade 8
   student exists at the SIBI source but is not secured.
+  **(CLOSED 2026-11-06: the book landed in the gap batch, is fully
+  read + citation-checked, and is the guide's matched pair — see the
+  Grade 8 section. This bullet stands as the record of the gap as it
+  was at the 2026-11-05 read.)**
 - **No teacher guide for the Grade 11 regular student book** in
   either edition (Merdeka 2021 or Revisi 2024).
 - **No guide of its own edition** for the Grade 10 Merdeka 2021
@@ -174,7 +198,11 @@ verified per book by the checkers from contents, folios and back matter.
 - **No Tingkat Lanjut Revisi student books** to match the 2024
   (Grade 11) and 2025 (Grade 12) TL guides — SIBI-catalogue leads
   only. The two TL edition mismatches stand until those students
-  land.
+  land. **(CLOSED 2026-11-06: both Revisi TL student books landed in
+  the gap batch, are fully read + citation-checked, and are TRUE
+  COMPANIONS to their guides — see the Grade 11 and Grade 12
+  sections. The mismatches were against the older TL student books
+  only.)**
 - **No Semester 2 K13 student books** for Grades 7–8 — both held K13
   students are Semester 1 only.
 - Per-grade honest negatives are in the grade sections: Grade 2
@@ -665,7 +693,7 @@ is in this Semester 1 volume. No missing, duplicated or blank content
 pages; fraction-heavy items that did not extract legibly are recorded
 as "not legible in the text layer", never claimed absent.
 
-## GRADE 8 — Merdeka teacher guide (2022, student book NOT in hand) AND a separate K13 2017 Semester-1 student book
+## GRADE 8 — Merdeka teacher guide (2022) AND Merdeka student book (2022, landed 2026-11-06) AND a separate K13 2017 Semester-1 student book
 
 Grade 8 holds two different editions and the Merdeka student book is
 missing. The guide must never be cited as keying to the K13 student
@@ -720,6 +748,265 @@ relation (p. 186) omits (4, 16); the index page numbers are
 inconsistent with this guide (Teorema Pythagoras 45–90 against Bab 2,
 pp. 87–130; "Fungsi kuadrat, 249" with no quadratic content). No
 missing, duplicated or blank content pages.
+
+### GRADE 8 Merdeka student book
+
+*Matematika untuk SMP/MTs Kelas VIII*, Mohammad Tohir, Abdur
+Rahman As'ari, Ahmad Choirul Anam, Ibnu Tauiq (as printed — the
+'f' is missing on the cover pages, imprint and biodata, exactly as
+in the guide; the K13 books spell him "Ibnu Taufiq"), 2022,
+Cetakan Pertama, ISBN 978-602-427-919-6 (jil. 2) (series ISBN
+978-602-244-882-2, no. jil. lengkap). Penerbit: Kementerian
+Pendidikan, Kebudayaan, Riset, dan Teknologi, dikeluarkan oleh
+Pusat Perbukuan. Penelaah: Swasono Rahardjo, Alhadi Bustamam.
+344 PDF pages, 12,793,441 bytes, printed xx + 1–324.
+**PDF page = printed page + 20** throughout the body (verified:
+Bab 1 opens PDF 21 / printed 1; the book ends PDF 344 / printed
+324, matching the imprint's "xx, 324 hlm."). Front matter:
+copyright page (PDF 2), Kata Pengantar (iii), Prakata (iv–v),
+Daftar Isi (vi–vii), Daftar Gambar/Tabel (viii–xi), Petunjuk
+Penggunaan Buku (xii–xix), Peta Pemikiran Buku (xx). Each chapter
+opens with a full title page repeating the ministry, author and
+ISBN block. Back matter: Indeks (pp. 289–290), Glosarium
+(pp. 291–295), Daftar Pustaka (pp. 296–298), Biodata Penulis
+(pp. 299–307), Penelaah (pp. 308–319), Editor (pp. 320–321),
+Ilustrator (p. 322), Desainer (pp. 323–324). Six chapters, each
+ending in an Uji Kompetensi; **no answer key anywhere in the
+book** ("Kunci Jawaban" never appears — the keys live in the
+teacher guide only).
+
+Powers (Bab 1, pp. 1–44: A. integer powers, pp. 5–25 — meaning of
+a power as repeated multiplication, squares/cubes, memory units
+as powers of 2, the multiplication, division, power-of-a-power
+and power-of-a-product laws, zero and negative exponents,
+fractional bases raised to powers; B. radical form, pp. 26–36 —
+fractional exponents turned into roots, √a as the positive number
+whose square is a, simplifying radicals, +/−/×/÷ of radical forms,
+rationalising denominators by the conjugate pair; C. standard
+form, pp. 37–39 — a × 10ⁿ with 1 < a < 10 **as printed** (strict
+on both sides — a slip, see error 13; teach 1 ≤ a < 10),
+converting both ways,
+calculating in standard form; Uji Kompetensi pp. 40–42,
+Pengayaan pp. 42–44 — a WA chain-message growth problem, truck
+capacities in standard form, planetary gravity ratios);
+Pythagoras (Bab 2, pp. 45–96: A. discovering the concept,
+pp. 49–63 — squares and square roots recalled, proof by square
+areas, finding hypotenuse and leg; B. Pythagorean triples,
+pp. 64–75 — the converse, classifying a triangle acute / right /
+obtuse by comparing c² with a² + b², generating triples from two
+numbers and from an odd shortest side; C. special triangles,
+pp. 76–83 — the 45°–45°–90° ratio 1 : 1 : √2 and the
+30°–60°–90° ratio 1 : 2 : √3, a spiral-of-Theodorus activity;
+D. applications, pp. 84–89 — ladders, tents, kites, boats and
+aircraft, including the distance between two points on the
+Cartesian plane worked as a hypotenuse; E. the distance formula,
+Pengayaan, pp. 90–91; Uji Kompetensi pp. 92–96); linear equations
+and inequalities in one variable (Bab 3, pp. 97–136: A. the
+concept, pp. 101–112 — open vs closed sentences and their truth
+values, modelling statements as equations, the general form of a
+PLSV; B. solving a PLSV, pp. 113–119 — the balance picture,
+doing the same +/− and ×/÷ to both sides, checking the root,
+a Celsius↔Fahrenheit formula exercise; C. finding the inequality
+concept, pp. 120–125 — the four inequality signs, solutions
+shown on the number line, modelling with inequalities;
+D. solving inequality problems, pp. 126–132 — the sign rules,
+including the reversal when both sides are multiplied or divided
+by a negative, bracketed inequalities, solution sets; Uji
+Kompetensi pp. 133–136); relations and functions (Bab 4,
+pp. 137–206: A. understanding relations, pp. 141–161 — sets
+first: what a set is, members, cardinality n(A), the three
+presentations (description, enumeration, set-builder notation),
+universal set, empty set, subset, then relations and their three
+presentations (arrow diagram, Cartesian diagram, set of ordered
+pairs), domain / codomain / range; B. understanding functions,
+pp. 162–189 — what makes a relation a function, function vs
+non-function from pairs and diagrams, counting the functions
+possible from A to B, the **five** presentations of a function
+(arrow diagram, ordered pairs, formula, table, graph), function
+values for f(x) = ax + b, finding a and b from two values, the
+range of a function on a stated domain; C. one-to-one
+correspondence, Pengayaan, pp. 190–200 — the definition and the
+count n × (n−1) × … × 1, e.g. 120 for two 5-member sets; Projek
+4.1 pp. 201–202; Uji Kompetensi pp. 203–206); straight-line
+equations (Bab 5, pp. 207–254: A. graphs of straight-line
+equations, pp. 211–222 — plotting from a table of values, the
+general form y = mx + c, x- and y-intercepts, graphing through
+the two intercepts, straight-line models for depreciation,
+pay and calories; B. the meaning of gradient, pp. 223–250 —
+gradient as vertical change over horizontal change, gradient
+from an equation, the line through one point with gradient m,
+y − y₁ = m(x − x₁), gradient through two points,
+(y₂ − y₁)/(x₂ − x₁), the line through two points, horizontal
+lines (gradient 0), vertical lines (gradient undefined), and the
+**unlettered "Bentuk Lain Persamaan Garis Lurus" tables**
+(pp. 235, 241, 252) converting between y = mx + c and the
+point–gradient form; parallel and perpendicular lines are set in
+the concept map (p. 210) and worked as exercises (pp. 243–246,
+252, 254) rather than given a prose section; a graph-design
+project using Fx Draw / Excel / GeoGebra, pp. 247–250; Uji
+Kompetensi pp. 251–254); statistics (Bab 6, pp. 255–288:
+A. measures of centre, pp. 259–277 — mode (pp. 259–263), median
+for odd and even counts and from frequency tables (pp. 263–268),
+mean and the frequency-table (weighted) mean (pp. 269–277),
+reading bar, line and pie diagrams recalled from Grade 7;
+B. measures of spread, pp. 278–283 — range, quartiles
+Q1 / Q2 / Q3 by the median-of-each-half method, interquartile
+range, quartile deviation ½(Q3 − Q1); Uji Kompetensi
+pp. 284–286; Pengayaan pp. 287–288, Covid data and mean puzzles).
+
+**Companion verdict: this IS the matched student book for the
+Grade 8 Merdeka teacher guide filed above — a matched pair.**
+Evidence: same four authors in the same order, same publisher
+and year (2022, Cetakan Pertama), the guide's ISBN
+978-602-427-902-8 and this book's 978-602-427-919-6 are the
+paired guide/student volume ISBNs of the same Merdeka series;
+the six chapter titles and their internal order are identical in
+both books, section for section; and three of the guide's
+recorded errors are copied from this student book (the mode
+error, the subset symbol, the missing (4, 16) — see below),
+which only happens if the guide was written against this text.
+Chapter-by-chapter against the guide account: **Bab 1 confirmed**
+— integer exponents, the exponent laws, radicals and standard
+form all stand as the guide describes, in the same A–C order.
+Two guide items do **not** come from the student book: the
+nanometre table is a blank completion table in the student book
+(printed p. 22: sizes in nm, the metre column left empty), so the
+guide's four wrong filled rows are the guide's own answers, not
+the student's text; and the truck Pengayaan is question-only in
+the student book (printed p. 42: Fuso Berat 8 × 10³ kg), so the
+guide's table-versus-answers disagreement is guide-side — the
+student table agrees with the guide's table, not its answers.
+The guide's Uji Kompetensi 1 key errors have no student
+counterpart (no key here). But the sunlight problem's wrong
+Earth–Sun distance **is** the student's own (printed p. 26).
+**Bab 2 confirmed** — theorem, converse and triples, both special
+triangles and the distance formula as Pengayaan all stand; the
+student book additionally works the distance between two points
+inside the ordinary applications section (pp. 85–89) before
+formalising the formula in E, a step the guide account folds
+into the enrichment. **Bab 3 confirmed** — open/closed sentences,
+both solving routes and the inequality sign rules all stand. The
+Latimojong item is **not** a student-book error: printed p. 103
+only *poses* "Pegunungan Lantimojong berada di Sulawesi Utara"
+as a statement for pupils to classify (it is false — Latimojong
+is in South Sulawesi); the guide's error was keying it true.
+**Bab 4 confirmed** — the set primer, relations, functions, the
+five presentations and one-to-one correspondence all stand as
+the guide describes; both the subset-symbol error and the
+missing (4, 16) occur in the student book first (printed
+pp. 147, 156–157) and the guide repeated them. **Bab 5
+confirmed** — graphing, gradient, the one-point and two-point
+forms all stand, and the "Bentuk Lain" material again has **no
+lettered heading** in the student book either (it sits inside
+section B as tables) — the guide's observation holds for the
+pair. **Bab 6 confirmed** — mode, median, mean, range, quartiles,
+IQR and quartile deviation all stand, and the mode error is the
+student book's own (see below); the guide repeated it. What the
+guide adds and the student book does not have: the Panduan Umum
+(pp. 1–32), the 114 JP timing, misconception boxes and every
+answer key. What the student book has that the guide account
+does not record: the Bab 4 and Bab 5 projects and the errors
+listed next.
+
+Honest negatives: **no SPLDV (simultaneous linear equations)
+anywhere** — two-variable linear equations and quadratic
+equations are named only as distractor categories in one
+matching activity (printed p. 109) and are never solved; **no
+probability at all** (the word never occurs as a topic); **no
+quadratic functions** — although the Indeks (p. 289) lists
+"Fungsi kuadrat, 249" and the Glosarium defines one, printed
+p. 249 is the Bab 5 graph-design project and no quadratic
+function is taught; no geometry beyond Pythagoras (no circles,
+no solids, no congruence or similarity, no angles chapter); no
+number patterns / sequences as a chapter and no Cartesian
+coordinates as a chapter (coordinates are a tool inside Bab 2,
+4 and 5); no set operations — no union, intersection or
+complement, and Venn diagrams are defined in the Glosarium
+(p. 291) but never used in the body; functions stop at linear
+functions (no inverse or composite functions, no function graphs
+as a separate topic); statistics stops at descriptive measures
+(no grouped-data formulas beyond frequency tables, no variance
+or standard deviation); no answer key.
+
+Confirmed errors — 12 verified against the printed page (teach
+the corrected wording, never the book's):
+(1) **The mode is confused with the maximum, twice** (printed
+pp. 261 and 263): of the monthly 2021 Covid case counts in the
+table on p. 263 (642, 256, 273, 1.103, 1.938, 4.342, 9.651,
+2.258, 286, 42, 17, 6 — all twelve different) the book says
+"Modus dari data tersebut adalah bulan Juli 2021 sebesar
+9.651". Teach: *this data set has no mode — every value occurs
+once; July 2021 is the largest value (the maximum), not the
+mode.* (2) **The subset symbol is printed as element-of**
+(printed p. 147, recall box): "himpunan bagian … dinotasikan
+dengan A ∈ B", and the not-a-subset sentence prints the same
+"A ∈ B" again. Teach: *A ⊆ B for "A is a subset of B", A ⊄ B
+for "is not a subset"; ∈ is only for an element belonging to a
+set.* (3) **The "akar dari" relation omits (4, 16)** (printed
+pp. 156–157): for A = {2, 3, 4, 5, 6, 7} and B = {4, 9, 16, 25,
+36, 49} the book lists {(2,4); (3,9); (5,25); (6,36); (7,49)}.
+Teach: *the set must also contain (4, 16), because 4 is the
+square root of 16.* (4) **The Earth–Sun distance is ten times
+too large** (printed p. 26, item 10): "jarak Matahari ke Bumi
+adalah 1,5 × 10⁹ km". Teach: *about 1,5 × 10⁸ km — which is
+also what the same item's own figures give: light at
+3 × 10⁵ km/s for about 450–500 seconds lands near 1,5 × 10⁸
+km, not 10⁹.* (5) **Current and resistance are swapped**
+(printed p. 26, item 9): the hint for W = I² × R × t says "I
+adalah hambatan, R adalah arus listrik". Teach: *I is the
+current (arus) and R is the resistance (hambatan); the formula
+itself is right.* (6) **The Earth's mass in standard form is
+wrong** (printed p. 38): the numeral printed,
+6.000.000.000.000.000.000.000 ton (6 followed by 21 zeros), is
+twice equated to 6 × 10¹⁸ ton. Teach: *that numeral is
+6 × 10²¹ ton; 6 × 10¹⁸ would have only 18 zeros.* (7) **The
+gigabyte hint contradicts the book's own table** (printed
+p. 40, item 5): "(1 GB = 2¹⁰ Byte)". Teach: *1 GB = 2³⁰ bytes,
+as the book's own table on printed p. 6 states; 2¹⁰ bytes is
+1 KB.* (8) **A unit changes mid-example** (printed p. 22,
+Contoh 1.6): an amoeba of diameter 5⁻³ **cm** is correctly
+worked to 0,008 and then concluded as "0,008 **m**". Teach:
+*5⁻³ cm = 0,008 cm.* (9) **The theorem box names the wrong
+vertex** (printed p. 55): the words say the triangle is
+right-angled at B, "siku-siku di B", but the diagram is
+right-angled at C and the formula given, c² = a² + b², is the
+one for a right angle at C. Teach: *for the diagram and formula
+as printed, the right angle is at C.* (10) **The hypotenuse is
+misnamed** (printed p. 77): the isosceles right triangle's legs
+are AB and BC and its hypotenuse is then also called "AB".
+Teach: *the hypotenuse is AC* — as the working immediately
+below it (AC = √(a² + a²)) itself uses. (11) **The distance
+formula drops a letter** (printed p. 90): the first line prints
+"B² = AC² + BC²". Teach: *AB² = AC² + BC²*; the lines that
+follow are correct. (12) **A worked example miscounts both
+sets** (printed p. 192, Contoh 4.12): for P = {1, 2, 3, 4} and
+Q = {a, b, c, d} the solution writes "n(P) = 3 dan n(Q) = 3".
+Teach: *n(P) = 4 and n(Q) = 4* — the conclusion (the two sets
+can be put in one-to-one correspondence) still stands.
+(13) **The standard-form box prints the coefficient range with
+strict inequalities on both sides** (printed p. 39, Contoh 1.13's
+box — checker-confirmed on 200-dpi and 400-dpi renders): "a × 10ⁿ
+dengan 1 < a < 10". Teach corrected: *1 ≤ a < 10* — a = 1 is
+legitimate standard form (1 × 10ⁿ), so the book's strict lower
+bound wrongly excludes it.
+
+Slips: the contents lists "Peta Pemikiran Buku … xxiii" but the
+page is foliated xx; the Prakata calls Bab 3 "Sistem Persamaan
+dan Pertidaksamaan…" (there is no system in it) and calls Bab
+6's second section "Pengukuran Data" where the chapter itself
+says "Penyebaran Data"; the contents lists only sections A and
+B for Bab 5 although the Prakata names a third part (the Bentuk
+Lain material — it is inside B, unlettered); Contoh 2.6
+(printed p. 88) suddenly measures "Jarak Raja dengan Perahu
+Wisata" — the lifeguard in the problem is Aldo, no Raja has been
+introduced; spelling slips are pervasive and must never be
+copied ("Graik" for Grafik, "Laihan" for Latihan, "releksi",
+"permsalahan"). Held copy: no missing, duplicated or blank
+content pages — the file runs complete from cover to the
+designer's biodata on printed p. 324; formula-heavy lines whose
+text layer garbles superscripts and √ signs were checked on the
+rendered page and are recorded above only where the printed
+page itself, not the extraction, is wrong.
 
 ### GRADE 8 K13 2017 Semester-1 student book (separate edition)
 
@@ -933,7 +1220,7 @@ external link), and vectors only in the general Fase E topic list
 substance; the contents capitalises chapter 2 and 3 headings as "BAb
 2" / "BAb 3". No missing, duplicated or blank pages.
 
-## GRADE 11 — Merdeka 2021 regular student, Edisi Revisi 2024 regular student, Merdeka 2021 Tingkat Lanjut student, Edisi Revisi 2024 Tingkat Lanjut guide (MISMATCHED)
+## GRADE 11 — Merdeka 2021 regular student, Edisi Revisi 2024 regular student, Merdeka 2021 Tingkat Lanjut student, Edisi Revisi 2024 Tingkat Lanjut guide + Edisi Revisi 2024 Tingkat Lanjut student (landed 2026-11-06 — TRUE COMPANION pair; the original MISMATCHED label was against the 2021 TL student book)
 
 Grade 11 holds four books and **no teacher guide for the regular
 track in any edition**. The only Grade 11 guide in hand belongs to the
@@ -1055,7 +1342,173 @@ the Grade 11 TL Edisi Revisi student (SIBI lead only, not in hand).
 
 Slips: none of substance. No missing, duplicated or blank pages.
 
-## GRADE 12 — Merdeka 2022 regular student, Edisi Revisi 2025 regular student + matched 2025 guide, Merdeka 2022 Tingkat Lanjut student, Edisi Revisi 2025 Tingkat Lanjut guide (MISMATCHED)
+### GRADE 11 Edisi Revisi 2024 Tingkat Lanjut student book — TRUE COMPANION to the 2024 TL teacher guide
+
+*Matematika Tingkat Lanjut untuk SMA/MA Kelas XI (Edisi Revisi)*,
+Yosep Dwi Kristanto, Muhammad Taqiyuddin, Al Azhary Masta, Elyda
+Yulfiana, 2024, ISBN 978-623-388-335-1 (volume PDF; set ISBN
+978-623-388-334-4, "no.jil.lengkap"). Publisher: Kementerian
+Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbudristek).
+8,021,355 bytes, 320 PDF pages, printed 1–306 (copyright page:
+"xiv, 306 hlm"). **Offset verified: PDF page = printed page + 14**
+(PDF 15 = printed 1, the Bab 1 opener; PDF 16 = printed 2; PDF 320 =
+printed 306). This is the matching student book for the Grade 11
+Edisi Revisi 2024 Tingkat Lanjut teacher guide filed above
+(guide ISBN 978-623-388-339-9) — the guide filing said "The matching
+student book for this guide would be the Grade 11 TL Edisi Revisi
+student (SIBI lead only, not in hand)"; it is now in hand, and the
+pair is a **true companion pair**. The guide's "MISMATCHED" label
+applies only against the held 2021 TL student book, never against
+this book.
+
+Six chapters, in the guide's exact order and titles. Matrices
+(Bab 1, pp. 1–46: types of matrix — row, column, square, flat/upright
+(datar/tegak), triangular, diagonal, identity, zero, symmetric — and
+**transpose, taught inside the types section as item 10**; equality
+of two matrices; addition and subtraction with their properties;
+multiplication by a scalar and matrix–matrix multiplication with
+properties; determinants 2×2 and 3×3 — **both the Sarrus method and
+cofactor expansion via minors/cofactors** — determinant properties,
+inverses 2×2 and 3×3 and their properties; solving a two-variable
+linear system through the inverse is worked in an exploration
+(p. 37), and **Cramer's rule for a three-variable linear system
+(SPLTV), with the Dx, Dy, Dz determinant formulas, is taught on
+printed p. 33**; the chapter project is matrix cryptography —
+encoding a message with a 3×n key matrix and decoding it with
+mod 27 arithmetic, pp. 43–45; the only enrichment is a QR/link pointer
+to row-operation (elementary row operations) inversion, p. 45, not
+taught in the body); polynomials (Bab 2, pp. 47–98: polynomials and
+polynomial functions — monomials, degree of a monomial and of a
+polynomial, graphs and **end behaviour**; addition, subtraction and
+multiplication; division — the division algorithm, long division
+(pembagian bersusun) and **Horner's method**, the **remainder
+theorem**; the **factor theorem**, the **rational-zero theorem**
+(Sifat 2.5, Pembuat Nol Rasional), factors and zeros of polynomial
+functions and their x-intercepts; polynomial identities — difference
+of squares, square of a sum/difference, sum and difference of cubes,
+Sifat 2.6, p. 90); trigonometric functions (Bab 3, pp. 99–158: angles,
+**radians (Definisi 3.1, p. 103) and degree–radian conversion
+(Sifat 3.1, p. 106)**; the trigonometric functions of a real number
+defined on the **unit circle (Definisi 3.2, p. 108)**, reference
+numbers (bilangan acuan) and the signs in each quadrant, **even and
+odd functions (Sifat 3.2, p. 116)**; graphs of sine, cosine and
+tangent and their transformations — amplitude, period, shifts —
+and modelling with trigonometric functions (tides, Ferris wheel,
+day-length project); trigonometric identities — the basic identities
+(Pythagorean, reciprocal, quotient; Sifat 3.4, p. 137) and the
+**angle-sum and angle-difference identities** (p. 140); the **sine
+rule (Sifat 3.5, p. 143), including the circumcircle form a/sin A =
+2R exercised on p. 146, and triangle area from two sides and the
+included angle in the exercises; the cosine rule (Sifat 3.6,
+p. 148)**); vectors (Bab 4, pp. 159–200: vectors in the plane —
+directed segments, notation, component form, magnitude; vector
+addition, subtraction and scalar multiplication with their
+properties, unit vectors; the **dot product (Definisi 4.3, p. 179)**,
+the angle between two vectors derived from the cosine rule
+(Rumus 4.4, p. 182), **orthogonal vectors (Definisi 4.4, p. 185)**,
+scalar and vector **projection** and resolving a force into
+components; geometric proofs with vectors — Pythagoras' theorem,
+the diagonals of a parallelogram bisecting each other, and similar);
+geometric transformations (Bab 5, pp. 201–242: transformations on
+the Cartesian plane as functions — **reflection across a line,
+including the general line y = mx + c (Sifat 5.1, p. 208)**,
+translation, rotation about the origin and about an arbitrary centre
+P(a, b), dilation about a centre with scale factor k; the matrices
+of each transformation — reflection matrices (Sifat 5.5, p. 227),
+translation as a matrix operation, rotation and dilation matrices;
+**composition of transformations with matrices (Sifat 5.11,
+p. 235)**, including images of lines, circles and curves);
+functions and their modelling (Bab 6, pp. 243–289: **logarithmic
+functions** — concept and notation (Definisi 6.1, p. 247), graphs and
+characteristics (domain positive reals, range all reals, x-intercept
+(1, 0), the y-axis as asymptote; Sifat 6.1, p. 250), the logarithm
+identities (product, quotient, power, change of base in Sifat 6.2–6.3)
+and modelling — virus spread, earthquake intensity, pH, atmospheric
+pressure; algebraic functions — **rational functions with vertical,
+horizontal and oblique asymptotes (Definisi 6.3–6.5, pp. 263–265)**
+and root (akar) functions with domain/range and graphs;
+non-algebraic functions — modelling with **exponential functions
+(Definisi 6.7, p. 274), absolute-value functions (Definisi 6.8,
+p. 275), step functions (fungsi tangga, Definisi 6.9, p. 280) and
+piecewise functions (fungsi sesepenggal, Definisi 6.10, p. 282)**).
+Back matter: Glosarium pp. 290–291, Daftar Pustaka pp. 292–294,
+Indeks pp. 295–296, Profil Pelaku Perbukuan pp. 297–306. Each
+chapter ends with Uji Kompetensi, a Proyek, a QR-linked Rangkuman
+and Refleksi.
+
+**COMPANION VERDICT vs the Edisi Revisi 2024 TL teacher guide
+(guide printed pages in brackets) — TRUE COMPANION, chapter by
+chapter.** Guide Bab 1 Matriks [pp. 19–60] ↔ student Bab 1
+[pp. 1–46]: same five sections in the same order (types, equality,
+addition/subtraction, multiplication, determinant and inverse);
+the student book teaches everything the guide account lists, and
+more the guide account does not name (Cramer's rule for SPLTV,
+p. 33; the cryptography project). Guide Bab 2 Polinomial
+[pp. 61–114] ↔ student Bab 2 [pp. 47–98]: the same five sections
+A–E, title for title. Guide Bab 3 Fungsi Trigonometri [pp. 115–174:
+unit circle, graphs, identities, sine rule, cosine rule] ↔ student
+Bab 3 [pp. 99–158]: the same five sections A–E — unit circle and
+real-number trig functions, graphs, identities, Aturan Sinus,
+Aturan Kosinus — exact match. Guide Bab 4 Vektor [pp. 175–208:
+vectors in the plane, dot product, geometric proofs] ↔ student
+Bab 4 [pp. 159–200]: the same three sections A–C, title for title.
+Guide Bab 5 Transformasi Geometri [pp. 209–238] ↔ student Bab 5
+[pp. 201–242]: the same three sections A–C (transformations on the
+Cartesian plane; matrices and transformations; composition with
+matrices). Guide Bab 6 Fungsi dan Pemodelannya [pp. 239–288:
+logarithmic, algebraic and non-algebraic functions] ↔ student
+Bab 6 [pp. 243–289]: the same three sections A–C, title for title.
+No chapter, section or named topic in the guide account is missing
+from the student book, and no student chapter is missing from the
+guide. File the two as a matched 2024/2024 pair.
+
+**Differences vs the held 2021 TL student book (brief).** The
+revision restructures the book. **Complex numbers are dropped
+entirely** — the 2021 book's Bab 1 (pp. 1–52) has no counterpart
+here. Two whole chapters are **new**: trigonometric functions as
+its own chapter (the 2021 book had trig only as Bab 5 section A,
+with no sine/cosine rules and no identities chapter) and vectors
+(the 2021 book had no vectors at all). Matrices move from third
+place (2021 Bab 3) to first, and gain the transpose inside the types
+section, Sarrus, Cramer's rule for SPLTV and the cryptography
+project. The 2021 Bab 5 (functions and modelling) is split across
+the new Bab 3 and Bab 6, and Bab 6 gains non-algebraic functions
+(exponential, absolute-value, step and piecewise modelling) and
+rational-function asymptotes including the oblique asymptote. The
+polynomial and transformation chapters carry over in content, in
+the same section order. Printed length falls from 336 to 306 pages;
+the four authors are the same, listed in a different order.
+
+Honest negatives: **no complex numbers** (dropped in this edition —
+the 2021 TL student book remains the only Indonesia evidence for
+that topic); no calculus — no limits, derivatives or integrals; no
+statistics or probability; no combinatorics; no circle geometry or
+conic sections (a circle appears only as an object being
+transformed in Bab 5 examples); no sequences or series as a topic;
+no financial maths as a topic (one finance item in the Bab 2 Uji
+Kompetensi only); vectors are in the plane only — no
+three-dimensional vectors as taught content (one Uji Kompetensi
+item, Bab 4 item 13, writes two vectors with a third component 0);
+no eigenvalues; no solving of linear systems as a named section —
+it is taught inside the matrices chapter (inverse exploration,
+p. 37; Cramer's rule, p. 33), not as its own heading; row-operation
+inversion is enrichment-by-link only (p. 45).
+
+Slips: **one confirmed error. Mari Mencoba 6.3 item 2, printed
+p. 253, gives "jika f(x) = ²log x dan nilai f(3) = 0,63" — ²log 3
+is ≈ 1.58, not 0.63 (0.63 is its reciprocal, 1/1.585 ≈ 0.631);
+teach it corrected: f(3) ≈ 1.58, and the intended answer is
+f(18) = ²log 18 = 1 + 2·²log 3 ≈ 4.17.** The modelled worked
+example it parallels (Contoh 6.3, p. 252: ³log 5 ≈ 1.46,
+³log 75 ≈ 3.92) is correct. The wrong-looking student work in
+Bab 3 (Paulina's sin B ≈ 1.21, printed p. 146) is a deliberate
+find-the-error presentation, not a book error. Formula pages
+extract garbled in the text layer (stacked fractions and the π
+symbol drop out — e.g. Sifat 3.1, p. 106, reads "kalikan dengan
+180 rad" in extraction); verified visually, the printed page is
+correct (π/180 rad). No missing, duplicated or blank pages.
+
+## GRADE 12 — Merdeka 2022 regular student, Edisi Revisi 2025 regular student + matched 2025 guide, Merdeka 2022 Tingkat Lanjut student, Edisi Revisi 2025 Tingkat Lanjut guide + Edisi Revisi 2025 Tingkat Lanjut student (landed 2026-11-06 — TRUE COMPANION pair; the original MISMATCHED label was against the 2022 TL student book)
 
 Grade 12 holds five books. The 2022 Merdeka regular student has **no
 guide of its own edition**; the 2025 Revisi regular student and the
@@ -1222,7 +1675,219 @@ its own (2025) edition; never present the two as a matched pair. The
 matching student book for this guide would be the Grade 12 TL Edisi
 Revisi student (SIBI lead only, not in hand).
 
+**CORRECTION 2026-11-06:** that student book has now landed, is
+fully read + citation-checked (see its subsection below), and is a
+**TRUE COMPANION** to this guide for the main body. One statement
+above is also corrected on the student book's evidence: the 2025
+edition does NOT drop parabola and hyperbola entirely — its Bab 1
+**Pengayaan (printed pp. 68–77) teaches the parabola in full**
+(all vertex forms, three worked examples) and **introduces the
+hyperbola** (definition and elements; equations deferred to an
+external link). The correct ruling is "demoted to enrichment",
+not "dropped". (Checker-confirmed on renders, special claim S3.)
+
 Slips: none of substance. No missing, duplicated or blank pages.
+
+### GRADE 12 Edisi Revisi 2025 Tingkat Lanjut student book — TRUE COMPANION to the 2025 TL teacher guide (main body; one guide-filing correction in Bab 1)
+
+*Matematika Tingkat Lanjut untuk SMA/MA Kelas XII (Edisi Revisi)*,
+Sri Adi Widodo, Wikan Budi Utami, Fitria Sulistyowati, **Atiek
+Sandrawati (fourth author, new in this edition)**, 2025, ISBN
+978-634-00-3296-3 (volume PDF, "jil.2 PDF"; set ISBN
+978-623-388-334-4, "no.jil.lengkap" — the same set ISBN as the
+Grade 11 Revisi volume). Publisher: Kementerian Pendidikan Dasar
+dan Menengah (Kemendikdasmen — the ministry's new name; the
+Grade 11 Revisi volume still carries the old Kemendikbudristek
+name). 12,799,108 bytes, 320 PDF pages, printed 1–304 (copyright
+page: "xvi, 304 hlm"). **Offset verified: PDF page = printed
+page + 16** (PDF 17 = printed 1, the Bab 1 opener; PDF 20 =
+printed 4; PDF 320 = printed 304). This is the matching student
+book for the Grade 12 Edisi Revisi 2025 Tingkat Lanjut teacher
+guide filed above (guide ISBN 978-634-00-3303-8) — the guide
+filing said "The matching student book for this guide would be
+the Grade 12 TL Edisi Revisi student (SIBI lead only, not in
+hand)"; it is now in hand, and the pair is a **true companion
+pair for the main body**, with one correction to the guide
+filing in Bab 1 (below). The guide's "MISMATCHED" label applies
+only against the held 2022 TL student book, never against this
+book.
+
+Four chapters. Circles, ellipses and tangent lines to a circle
+(Bab 1, pp. 1–78: the circle — definition as a locus at fixed
+distance from a centre, the equation in centre–radius form
+(x − a)² + (y − b)² = r² and in general form x² + y² + Ax + By + C
+= 0 with centre and radius recovered from A, B, C; the **ellipse**
+— definition as a locus with constant sum of distances to two
+foci, its elements in full: foci, centre, major and minor axes
+(2a, 2b), focal axis, vertices, **eccentricity, directrices and
+latus rectum (pp. 19–20)**, the equation for centre O(0, 0),
+x²/a² + y²/b² = 1 with c² = a² − b² (summary p. 22), and for
+centre P(m, n), horizontal and vertical; the position of a point
+relative to a circle (inside/on/outside by substitution,
+pp. 39–42) and of a line relative to a circle (via the
+discriminant, pp. 43–50); **tangent lines to a circle** in the
+three standard cases — at a given point of tangency (p. 51), with
+a given gradient m (p. 56), and from a given point outside the
+circle (p. 61 — including the polar-line table, Tabel 1.2, p. 62);
+then, after the Uji Kompetensi, a **Pengayaan (enrichment),
+pp. 68–77: the parabola taught in full** — definition (focus and
+directrix), and the equations x² = 4py, x² = −4py, y² = 4px,
+y² = −4px at vertex O(0, 0) and (x − m)² = ±4p(y − n),
+(y − n)² = ±4p(x − m) at vertex H(m, n), each derived from the
+definition, with three worked examples (Contoh Soal 1.28–1.30) —
+**and the hyperbola introduced** (definition by constant
+difference of distances to two foci, its elements and asymptotes,
+pp. 76–77), with hyperbola equations and the position of two
+circles expressly left to an external link (bukupusbuk.id,
+p. 77), not taught in the body); derivatives (Bab 2, pp. 79–158:
+**limits and continuity folded in as section A.1, pp. 82–96** —
+the intuitive limit from tables and graphs, left- and right-hand
+limits, the limit properties (Sifat Limit 1–…, pp. 85–87),
+algebraic limits including indeterminate forms, trigonometric
+limits (Contoh Soal 2.2, p. 90), continuity (Definisi 2.2,
+p. 96); the derivative — average and instantaneous rate of change,
+the secant-to-tangent construction, the limit definition
+(Definisi 2.3–2.4, pp. 100–101) and the notations (p. 102); the
+derivative rules — constant multiple, sum/difference, product,
+quotient and the **chain rule**, with the power rule; derivatives
+of algebraic functions (p. 114), of **trigonometric functions
+(sin, cos, tan and their combinations; Sifat Turunan Trigonometri,
+p. 117)** and of **exponential functions — eˣ, eᶠ⁽ˣ⁾ and aˣ, with
+the logarithm definition/properties recalled in the same section
+(pp. 120–125)**; the **second derivative**, introduced inside the
+applications section; applications — tangent line to a curve,
+increasing/decreasing/stationary functions (Definisi 2.6,
+p. 132), extreme points and maximum/minimum turning values, the
+**second-derivative test (stated on printed p. 144: f″(c) < 0
+gives a maximum turning value, f″(c) > 0 a minimum)**;
+applications in other fields — optimisation, physics, economics);
+integrals (Bab 3, pp. 159–220: indefinite integrals — the
+antiderivative definition (Definisi 3.1, p. 166) and properties,
+the power rule Sifat 3.2 (p. 168, see Slips), the constant-multiple
+and sum/difference rules, **integration by substitution (Sifat
+3.6) and integration by parts (Sifat 3.7) as named rules,
+p. 169**, the trigonometric integration rules (Sifat 3.8, p. 170)
+and exponential integration rules (Sifat 3.9, p. 171); definite
+integrals — **Riemann sums (pp. 178–182)**, the definite integral,
+its properties (Sifat 3.10–3.15, pp. 188–190) and the
+**Fundamental Theorem of Calculus, both parts (Teorema Dasar
+Kalkulus I and II, pp. 190–195)**; applications — area between a
+curve and the axis and between curves, economics and business,
+physics, and **health (wound-healing, p. 211 — a section the 2022
+book does not have)**); data analysis and probability (Bab 4,
+pp. 221–280: **random variables (Definisi 4.1, p. 227)**;
+**discrete random variables (Definisi 4.2, p. 232)**; **continuous
+random variables (Definisi 4.3, p. 239)**; the **probability
+function (fungsi peluang, Definisi 4.4, p. 242)**; the
+**probability density function (fungsi densitas peluang,
+Definisi 4.5, p. 249)**; the **binomial distribution** — Bernoulli
+process, the distribution function b(x; n, p) = C(n, x) pˣ qⁿ⁻ˣ
+(Definisi 4.6, p. 256) and its **expected value E(X) = np**
+(pp. 259–263); the **normal distribution** — the density
+φ(x; μ, σ) with its stated constants π = 3.1416 and e = 2.7183
+(Definisi 4.7, p. 267), the properties of the normal curve,
+standardisation Z = (X − μ)/σ (p. 268), reading the z-table, and
+its **expected value E(X) = μ (p. 273)**, with worked uses of mean,
+variance and standard deviation throughout). Appendix (Lampiran,
+pp. 281–282): cumulative z-tables for negative and positive z.
+Back matter: Glosarium pp. 283–285, Daftar Pustaka pp. 286–289,
+Indeks pp. 290–293, Profil Pelaku Perbukuan pp. 294–304. The book
+repeatedly tells learners to check answers with GeoGebra (Bab 1
+Refleksi, p. 78, "Ayo Menggunakan Teknologi").
+
+**COMPANION VERDICT vs the Edisi Revisi 2025 TL teacher guide
+(guide printed pages in brackets) — TRUE COMPANION for the main
+body, chapter by chapter, with one correction to the guide
+filing.** Guide Bab 1 [pp. 21–94: circles, ellipses and tangent
+lines] ↔ student Bab 1 main body [pp. 1–67]: exact match —
+circle definition and equation, ellipse definition, elements and
+equation, position of point and line relative to a circle, and
+tangent lines to a circle are all taught in the student book in
+the guide's order. **Correction: the guide filing said the
+revision "drops parabola and hyperbola entirely". In the student
+book they are dropped from the main body but NOT from the book:
+the Bab 1 Pengayaan (printed pp. 68–77) teaches the parabola in
+full (definition, all vertex forms, three worked examples) and
+introduces the hyperbola (definition and elements; its equations
+are left to an external link). The guide chapter does not cover
+the Pengayaan. File the pair as companions, and file the
+parabola/hyperbola ruling as "demoted to enrichment", not
+"dropped entirely".** Guide Bab 2 Turunan [pp. 95–166] ↔ student
+Bab 2 [pp. 79–158]: exact match, including the guide filing's
+prediction that limits are folded into the derivatives chapter
+(student section A.1, pp. 82–96) with no standalone Limit
+chapter. Guide Bab 3 Integral [pp. 167–224] ↔ student Bab 3
+[pp. 159–220]: exact match in structure (indefinite, definite,
+applications); the student book additionally names integration
+by parts and adds the health application. Guide Bab 4 Analisis
+Data dan Peluang [pp. 225–286: random variables, discrete/
+continuous random variables, probability functions, probability
+density functions, binomial and normal distributions] ↔ student
+Bab 4 [pp. 221–280]: exact match, section for section (A–G);
+neither book teaches a uniform distribution as a named topic —
+searched, "seragam"/"uniform" occur 0 times in the student book.
+File the two as a matched 2025/2025 pair.
+
+**Differences vs the held 2022 TL student book (brief).** Five
+chapters become four. **Limit loses its standalone chapter**
+(2022 Bab 2) and is folded, shortened, into Bab 2 section A.1.
+**Parabola and hyperbola are demoted** from the 2022 Bab 1 main
+body to the Bab 1 Pengayaan (parabola still taught in full there;
+hyperbola reduced to definition and elements, equations by
+external link). The **uniform distribution is dropped** (2022
+Bab 5 opened with Distribusi Seragam). What is **new or newly
+explicit**: random variables, discrete/continuous random
+variables, probability functions and probability density
+functions as named sections (the 2022 book used "variabel acak"
+inside its distribution definitions only); the second-derivative
+test stated as a rule; integration by substitution and by parts
+as named rules; the health application of integrals; the ellipse
+treated at greater depth (eccentricity, directrices, latus
+rectum); the z-table appendix. Printed length rises from 208 to
+304 pages, and a fourth author joins the three 2022 authors.
+
+Honest negatives: no matrices, vectors or complex numbers; no
+combinatorics as a topic (the combination count C(n, x) is used
+inside the binomial formula, Definisi 4.6, p. 256, but counting
+rules, permutations and factorials are not taught); no sequences
+or series; no differential equations as a topic (one Bab 3 Uji
+item, p. 216, hands the learner a dV/dt rate to integrate — an
+integrals exercise, not differential-equations teaching);
+**implicit differentiation is not taught** — it appears only as
+one Uji Kompetensi item (Bab 2, printed p. 154, item 8: dy/dx for
+x² + y² = 25), with no section, definition or worked example; no
+parametric differentiation; no statistics beyond the named
+distributions — no data representation, no regression or
+correlation, no descriptive statistics as a chapter (mean,
+variance and standard deviation are used, inside Bab 4 G, not
+taught as a topic); no hypothesis testing or sampling
+distributions; no uniform distribution; no tangent lines to an
+ellipse and no position of a point/line relative to an ellipse
+(Bab 1 C and D are circle-only); no three-dimensional geometry.
+
+Slips: **three confirmed errors. (1) Sifat 3.2, printed p. 168, states
+the power rule for indefinite integrals "jika n bilangan rasional
+dan n ≠ 0" — the condition is wrong: the formula
+∫xⁿ dx = xⁿ⁺¹/(n + 1) + C fails at n = −1 (division by zero) and
+works perfectly at n = 0 (∫1 dx = x + C). Teach it corrected:
+"for rational n with n ≠ −1, ∫xⁿ dx = xⁿ⁺¹/(n + 1) + C".** The
+same page's derivation divides both sides by 1/(n + 1), which
+itself requires n ≠ −1. **(2) Definisi 4.6, printed p. 256,
+misprints the binomial coefficient in the distribution function
+as ( n ⁄ p ): the formula is b(x; n, p) = C(n, x) pˣ qⁿ⁻ˣ, and
+the coefficient's lower entry is x, not p (checker-confirmed on a
+300-dpi render). The clean formula as given in this filing's
+Bab 4 map is the corrected form; teach it corrected. (3) Inside
+the Definisi 2.4 box (printed p. 101), the derivative-as-limit
+definition prints the limit subscript "x → 0" although the
+difference quotient's variable is h and the formula directly
+above correctly prints h → 0 (checker-confirmed on a render);
+teach with h → 0. (Note: Definisi 2.3, printed p. 100, defines
+the secant line; the derivative definition itself is Definisi
+2.4, printed p. 101.)** Formula pages extract garbled in the
+text layer (stacked fractions, μ/σ rendered as n/v — e.g.
+Definisi 4.7, p. 267); verified visually, the printed formulas
+are clean. No missing, duplicated or blank pages.
 
 # Citation checks
 
@@ -1261,3 +1926,37 @@ reader). Anchors were verified on the exact PDF page in the real book.
 File counts reconcile: Band A 1,912 + Band B 2,587 + Band C 3,888 =
 8,387 PDF pages. Distinct works reconcile: Band A 8 + Band B 9 +
 Band C 14 = 31.
+
+## Gap-batch citation checks (2026-11-06, checker ≠ reader)
+
+- **Grade 8 Merdeka student book:** 20 anchors — **19 passed,
+  1 corrected, 0 not found**. The correction: the standard-form box
+  (printed p. 39) prints "1 < a < 10", not "1 ≤ a < 10" — filed in
+  the student-book subsection as book error 13 (teach 1 ≤ a < 10).
+  Four special claims all CONFIRMED on renders: mode-as-maximum
+  (pp. 261, 263), subset symbol printed ∈ for ⊆/⊄ (p. 147),
+  Earth–Sun distance 1.5 × 10⁹ km (p. 26), distance formula's first
+  line "B² = AC² + BC²" (p. 90).
+- **Grade 11 TL Revisi student book:** 20 anchors — **20 passed,
+  0 corrected, 0 not found**. Special claim CONFIRMED: printed
+  p. 253 prints "f(3) = 0,63" for f(x) = ²log x — a book error
+  (²log 3 ≈ 1.58), filed in the subsection with teach-corrected
+  wording.
+- **Grade 12 TL Revisi student book:** 20 anchors — **18 passed,
+  2 corrected, 0 not found**. Corrections: (1) the derivative-as-limit
+  definition is Definisi 2.4 (printed p. 101), not Definisi 2.3
+  (p. 100 defines the secant line) — the draft's "Definisi 2.3–2.4,
+  pp. 100–101" already spans both; a further slip inside the
+  Definisi 2.4 box (limit subscript printed "x → 0" for h → 0) is
+  filed in the subsection's Slips. (2) Definisi 4.6 (printed
+  p. 256) misprints the binomial coefficient as (n/p) — a book
+  error, filed in the subsection's Slips; the clean formula given
+  in the Bab 4 map is the corrected form. Special claims CONFIRMED:
+  Sifat 3.2 (printed p. 168) states the power rule's condition as
+  "n ≠ 0" — a book error (teach n ≠ −1); the Bab 1 Pengayaan
+  (printed pp. 68–77) teaches the parabola in full and introduces
+  the hyperbola (see the correction in the Grade 12 TL guide
+  subsection).
+- **Gap-batch totals for Indonesia: 60 anchors (57 passed,
+  3 corrected, 0 not found) + 7 special claims, all confirmed.**
+
