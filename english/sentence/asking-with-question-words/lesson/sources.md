@@ -130,6 +130,8 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 46:** *My Victory — Guía para el docente*, 2do año (Teacher's Book, Grade 8) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-03-1. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only.
 
 **Book 47:** *Akelius A2 Level — A Practical Guide for English Language Teachers* (teacher's guide) — Albania, UNICEF Albania / ASCAP, 2025; no ISBN printed. Filed in english/books/albania.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-guide evidence for a digital course: it prints the Akelius A2 course's chapter vocabulary lists, "Language structures" example sets and worksheets; no student's book is held and no platform lesson is reproduced.
+**Book 48:** *English for Starters 5*, Pupil's Book (pupil's book) — Syria, York Press (new edition 2008, reprinted 2014). Filed in english/books/syria.md (Grade 5 — English for Starters 5, Pupil's Book (York Press) section, FULLY READ + CITATION CHECK PASSED 2026-11-06).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -180,6 +182,7 @@ CITATION CHECK PASSED 2026-11-03).
 | Question words as the jobs unit's named point, beside on/at/in | Syria, NCCD Pupil's Book 5, Unit 12 "Jobs," printed pp.45–47 |
 | Question words as a named grammar point in their own unit | Syria, Emar Student's Book 8, Unit 6 "Dream and Reality," printed pp.40–43 |
 | A full question-words table, including the who/whom distinction | Syria, Emar Workbook 8, Unit 6 "Dream and Reality," printed pp.22–25 |
+| *Why did …?* questions about a family trip — jumpers, a camera, a stop in the village, the water mills — answered with the *because* reasons of the book's Unit 2 | Syria, *English for Starters 5*, Pupil's Book (York Press), Unit 5 (Revision 1), printed p.17 |
 
 | Question words named as a class in the guide's Introduction — "what, when, where, who, whom, why and how" (wh-words), with seven model questions — cited as a teacher's guide, the class's only naming in the early band | South Sudan — Primary English 1 Teacher's Guide, Introduction, printed p.4 |
 | Where-questions at work: the "Where can I buy some sorghum?" game, extended to bread, medicine and clothes | South Sudan — Primary English 3 Pupil's Book, Unit 3, printed pp.14–20 |
@@ -283,6 +286,8 @@ pp.18–29; reference, printed pp.111–119).
 **South Africa added 2026-11-03** — *DBE Rainbow Workbooks* (Department of Basic Education, South Africa, Sixteenth edition 2026; full read in english/books/south-africa.md). South Africa stocks the question words in full: the **wh-question words tabled in Grade 3 FAL Workbook 1, with learners making their own questions** (printed p.9), statements turned into questions with **where, what and when** in Grade 5 HL Workbook 1 (printed pp.44–51), a news report framed with **who, what, when, where, why** in Grade 5 HL Workbook 2 (printed pp.92–93), and an **alien interview on wh- questions** in Grade 6 FAL Workbook 1.
 
 **Syria added 2026-11-03** — *Emar series* (Syria, Ministry of Education; full read in english/books/syria.md). Syria stocks the question words in full: **wh-questions in the Grade 5 senses unit** (NCCD Pupil's Book 5, Unit 4, printed pp.15–17), **question words named in the Grade 5 jobs unit** (Unit 12, printed pp.45–47), **question words as the grammar point of Grade 8, Unit 6** in the Student's Book (printed pp.40–43), and a **full question-words table, including the who/whom distinction, in Grade 8 Workbook 8** (Unit 6, printed pp.22–25).
+
+**Syria — *English for Starters 5* added 2026-11-06** — 1 further Syria book stocks this lesson: **Book:** *English for Starters 5*, Pupil's Book (pupil's book) — Syria, York Press, new edition 2008, reprinted 2014, no ISBN printed. Filed in english/books/syria.md (Grade 5 — English for Starters 5, Pupil's Book (York Press) section, FULLY READ + CITATION CHECK PASSED 2026-11-06). The older York Press Grade 5 course adds *Why did …?* in its first revision unit (printed p.17): questions about a family trip, answered with the *because* reasons its Unit 2 taught — the question word and its reason answer worked as a pair.
 
 **South Sudan added 2026-11-03** — 2 books stock this lesson: **Book:** *Primary English 1 — Teacher's Guide* — South Sudan, Ministry of General Education and Instruction, © 2018. **Book:** *Primary English 3 — Pupil's Book* — South Sudan, Ministry of General Education and Instruction, © 2018. All filed in english/books/south-sudan.md (Primary 1 — Primary English 1, Teacher's Guide, Primary 3 — Primary English 3, Pupil's Book sections, FULLY READ + CITATION CHECK PASSED 2026-11-03). The family is named once, early, and in a guide: the **Primary 1 Teacher's Guide's Introduction** names **question words as a class — what, when, where, who, whom, why and how — with seven model questions (printed p.4 of the guide)**, cited as a guide. The **Primary 3 Pupil's Book, Unit 3** then works **where-questions** — "Where can I buy some sorghum?", extended to bread, medicine and clothes (printed pp.14–20).
 

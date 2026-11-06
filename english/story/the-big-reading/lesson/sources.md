@@ -1,6 +1,6 @@
 # Sources — The big reading
 
-countries: Libya, Pakistan, Sudan, Kuwait
+countries: Libya, Pakistan, Sudan, Kuwait, Syria
 
 Every part traces to its book and page. (Libya's filing is
 the agent-assisted full read of 2026-10-25 — see the status
@@ -22,8 +22,9 @@ Literary Course Book — Libya, Ministry of Education
 | A complete book-length text bound into the schoolbook: John Steinbeck's novella *The Pearl* printed COMPLETE, Chapters 1–6, as the book's final unit — the original novella text, not a graded retelling | Pakistan, English 12, Unit 13, printed pp.97–144 |
 | A COMPLETE graded reader carried as the Grade 8 set's supplementary reader: Elizabeth Laird's *Anna and the Fighter* (Macmillan Readers, Beginner level, about 600 headwords) — the whole story printed on printed pp.3–30 and reaching its end, with the Grade 8 pupil's book's own introduction listing reading "national and international supplementary readers in later grades" among the course outcomes | Sudan, Grade 8 set, *Anna and the Fighter*, printed pp.1–32 (story printed pp.3–30) |
 | Treasure Island by Robert Louis Stevenson — a simplified, abridged retelling of the WHOLE novel in five episodes, bound into the Student's Book and reaching the story's end (Billy Bones and the Black Spot; the Hispaniola; Ben Gunn; the empty treasure hole) — a graded retelling, not the original text; no questions on the story are printed in this book (the Introduction sends pupils to the unheld Workbook for comprehension checking) | Kuwait, Over to You Student's Book 10B, Literature Time, printed pp.52–64 |
+| A COMPLETE graded reader bound into the back of a primary pupil's book: "Snow White and the Seven Dwarfs" (ELT abridgement by Damian Tunnacliffe and Phoenix Publishing Services, as credited on printed p.79) printed in full, printed pp.79–87, with two multiple-choice items per story page on printed p.88 — the longest continuous reading text in any held Syria primary pupil's book | Syria, *English for Starters 5*, Pupil's Book (York Press), closing reader, printed pp.79–88 |
 
-**Acceptance count: taught in 4 countries (Libya, Pakistan, Sudan, Kuwait)** — the
+**Acceptance count: taught in 5 countries (Libya, Pakistan, Sudan, Kuwait, Syria)** — the
 countries whose schoolbooks carry a complete book-length
 text: Libya binds complete GRADED readers into its book;
 Pakistan binds one complete novella in the author's own
@@ -36,7 +37,7 @@ than re-sourced. Kuwait binds a complete graded retelling into
 its Student's Book 10B: Treasure Island, simplified and
 abridged, in five episodes reaching the story's end — a
 graded retelling, not the original text, with no questions
-on the story printed in the book. Other closed countries join as their
+on the story printed in the book. Syria binds a complete graded reader into the back of a primary pupil's book — the Snow White retelling in *English for Starters 5* (printed pp.79–87) with a per-page multiple-choice check (printed p.88). Other closed countries join as their
 books are read (see READING-QUEUE.md).
 
 **Pakistan added 2026-11-03** — 1 book stocks this lesson: **Book:** *English 12* (student's book) — Pakistan, issued by PECTAA (Punjab Education, Curriculum, Training and Assessment Authority), Revised National Curriculum 2023, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Filed plainly and exactly: Grade 12's Unit 13 (printed pp.97–144) prints John Steinbeck's novella *The Pearl* COMPLETE, Chapters 1–6, inside the textbook — a complete book-length text bound into the schoolbook, like Libya's readers. But it is the ORIGINAL novella text, not a graded retelling, and Pakistan has no graded readers.
@@ -56,3 +57,5 @@ books are read (see READING-QUEUE.md).
 **Albania checked 2026-11-04 — not stocked.** Albania's record holds one teacher's guide only — *Akelius A2 Level — A Practical Guide for English Language Teachers* (UNICEF Albania / ASCAP, 2025), filed in english/books/albania.md (FULLY READ + CITATION CHECK PASSED 2026-11-04) — and it prints no complete long text: the platform readings its worksheets question (Petra, the Dead Sea, Space travel, Exploring the planets, and the Chapter 40 Recipe story) are named and summarised in the guide but never printed, so no complete book-length text can be evidenced from this set.
 
 **Tanzania checked 2026-11-04 — not stocked.** Tanzania's one in-hand English book — *Reading (English) Standard One — Pupil's Book Two* (Tanzania Institute of Education, © 2019, reprinted 2021, ISBN 978-9987-09-011-2), filed in english/books/tanzania.md (FULLY READ + CITATION CHECK PASSED 2026-11-04) — carries no complete book-length text: its longest pieces are the one-to-two-page Standard One stories of its twelve units, and Books One and Three of its own series are held nowhere. The other 17 recorded Tanzania English books are link-only and were not read, so no complete long text can be evidenced from this set. Tanzania is deliberately absent from this lesson's countries line — checked, not unlooked-for.
+
+**Syria added 2026-11-06** — 1 book stocks this lesson: **Book:** *English for Starters 5*, Pupil's Book (pupil's book) — Syria, York Press, new edition 2008, reprinted 2014, no ISBN printed. Filed in english/books/syria.md (Grade 5 — English for Starters 5, Pupil's Book (York Press) section, FULLY READ + CITATION CHECK PASSED 2026-11-06). Filed plainly, as a judgment on the precedents already in this file: Libya stocks this lesson with complete graded readers bound into its Grade 11 book, and Kuwait with a complete graded retelling of Treasure Island bound into its Student's Book 10B (printed pp.52–64) — a bound-in, complete, graded retelling reaching its story's end is this lesson's bar, and Syria's reader meets it the same way: the Snow White retelling is printed in full at the back of the pupil's book (printed pp.79–87), carries its whole arc (wish, jealousy, flight, shelter, poisoning, revival, marriage), and — unlike Kuwait's — prints its own check, two multiple-choice items per story page (printed p.88). Stated exactly: at nine story pages it is the shortest text stocked here, far below Pakistan's novella and Libya's readers; it is stocked for completeness, binding and grading, not for length, and it is the longest continuous reading text in any held Syria primary pupil's book. Plot summary only is filed; no story text is carried into the lesson.

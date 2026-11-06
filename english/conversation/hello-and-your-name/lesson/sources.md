@@ -59,6 +59,7 @@ side by side on one PDF page — that was wrong.
 | The greeting exchanges practised by listen-and-match — Good morning / How are you? / What's your name? / Goodbye | Syria — Emar English Series Workbook 1, Unit 1, printed pp.3–5 |
 | The exchange re-opened a year up as Grade 1 revision — names and age, and "Where do you live? I live in Damascus/London" | Syria — Emar Syrian Series Pupil's Book 2, Unit 1 "Welcome Back", printed pp.3–5 ("Hello, I'm Alex." printed p.3; "I live in Damascus." printed p.4) |
 | Greetings and introductions re-taught in Grade 4 — Unit 1 "Nice to Meet You", with verb *be* and saying where you are from, practised again in its Workbook (Unit 1, printed pp.5–7) | Syria — Emar English Series Pupil's Book 4, Unit 1, printed pp.3–5 |
+| A self-introduction in a real setting: in the library dialogue that opens the book, a boy introduces himself and his sister to the librarian | Syria — *English for Starters 5*, Pupil's Book (York Press), Unit 1, printed p.5 |
 | The course opens on greetings (Unit 1) and the name exchange (Unit 2): "My name is Miss Alam" / "My name is ___" and "What is your name?", with a hello song in Unit 1 (frames inside model texts only — the primary books teach no named grammar, recorded as filed) | South Sudan — Primary English 1, Pupil's Book, Unit 1, printed pp.1–7; Unit 2, printed pp.8–12 ("My name is Miss Alam" printed p.8) |
 | The same opening planned for the teacher — Unit 1's greetings sections, then Unit 2's "My name" and "What is your name?", with pair role-play using learners' own names | South Sudan — Primary English 1, Teacher's Guide, Unit 1, printed pp.5–16; Unit 2, printed pp.17–25 ("my name is Miss Alam or Mr Omot" printed p.19) |
 | Self-introductions one step up — name, class ("I am in Primary Two") and a like | South Sudan — Primary English 2, Pupil's Book, Unit 2 "Myself", printed pp.7–13 |
@@ -567,6 +568,8 @@ Meet You" (printed pp.3–5), re-teaches greetings and
 introductions with saying where you are from, its
 Workbook practising them again (Workbook 4, Unit 1,
 printed pp.5–7; "nice to meet you", printed p.5).
+
+**Syria — *English for Starters 5* added 2026-11-06** — 1 further Syria book stocks this lesson: **Book:** *English for Starters 5*, Pupil's Book (pupil's book) — Syria, York Press, new edition 2008, reprinted 2014, no ISBN printed. Filed in english/books/syria.md (Grade 5 — English for Starters 5, Pupil's Book (York Press) section, FULLY READ + CITATION CHECK PASSED 2026-11-06). A fifth Syria book stocks this lesson: the older York Press Grade 5 course opens in a library, where a boy introduces himself and his sister to the librarian (Unit 1, printed p.5) — the greeting and introduction exchange set inside a real errand, not a classroom drill.
 
 **South Sudan added 2026-11-03** — four books stock this
 lesson: **Book:** *Primary English 1, Pupil's Book*

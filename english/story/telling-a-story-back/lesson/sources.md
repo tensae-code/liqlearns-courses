@@ -1,6 +1,6 @@
 # Sources — Telling a story back
 
-countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan
+countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Syria
 
 Every part traces to its book and page.
 
@@ -113,6 +113,8 @@ PASSED 2026-11-03).
 **Book 28:** English For Rwandan Primary Schools — Pupil's Book 3 (Pupil's Book) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 29:** English For Rwandan Primary Schools — Teacher's Guide 3 (Teacher's Guide) — Rwanda, Rwanda Education Board (REB), Revised Edition 2019, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). True companion to Book 28.
 **Book 30:** English For Rwandan Primary Schools — Pupil's Book 6 (Pupil's Book) — Rwanda, Rwanda Education Board (REB), © 2019, no edition statement printed, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 31:** *English for Starters 5*, Pupil's Book (pupil's book) — Syria, York Press (new edition 2008, reprinted 2014). Filed in english/books/syria.md (Grade 5 — English for Starters 5, Pupil's Book (York Press) section, FULLY READ + CITATION CHECK PASSED 2026-11-06).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -167,9 +169,11 @@ PASSED 2026-11-03).
 | The limit, stated plainly: retelling is set and practised - a partner's dream, a picture-strip story, a personal escape story - but no book teaches retelling as a named skill with steps; there is no summarise-the-story lesson in the course (workbook summaries are writing routines, filed under The Paragraph's stock where they belong) | Yemen, the held set as filed in english/books/yemen.md (Pupil's Book 6 and Work Book 6 sections) |
 | Retelling set as the review unit's speaking work: tell and draw a partner's bad school memory, then retell it | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 12, Lesson 1, printed pp.121–122 |
 | Listening and speaking built on retelling a friend's memory from notes, closing the memories unit | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 10, Lesson 4, printed pp.105–108 |
+| A four-part story to read, match and put in order, then predict its ending — "What do you think happened next?" — the telling-back set as the task | Syria — *English for Starters 5*, Pupil's Book (York Press), Unit 18, printed p.55 |
+| Retelling a book character's story from memory set as a whole-book quiz item — "Tell the story of Queen Zenobia" | Syria — *English for Starters 5*, Pupil's Book (York Press), Unit 25 (Revision 5), printed p.74 |
 
-**Acceptance count: taught in 22 countries (Bangladesh,
-Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan).** Bangladesh equips the retelling (word box,
+**Acceptance count: taught in 23 countries (Bangladesh,
+Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Syria).** Bangladesh equips the retelling (word box,
 first-person, comparison); Ghana frames it (chain, Herring
 Bone, sequence order); China equips it again (the fill-in
 retell, the phone retell, the sorted diary recount);
@@ -207,7 +211,7 @@ of the unit's tale — retelling as a set task, not named
 teaching — and Workbook 12A, workbook only, has pupils order
 the 11 sentences of a model story, noting its sequencing
 words and pronoun links, before a past-event description.
-Rwanda stocks the telling-back in part: retelling is set as a task in three pupil's books — the P1 story retold and resequenced, the P3 story read by the teacher for retelling, and the P6 fable read for retelling beside the unit's summaries and retellings — but no own-words retelling aim or comparison with the original is stated, so that framing rests on the other countries. Other closed countries join as
+Rwanda stocks the telling-back in part: retelling is set as a task in three pupil's books — the P1 story retold and resequenced, the P3 story read by the teacher for retelling, and the P6 fable read for retelling beside the unit's summaries and retellings — but no own-words retelling aim or comparison with the original is stated, so that framing rests on the other countries. Syria stocks the telling-back in part: its Grade 5 *English for Starters 5* (York Press) sets a four-part story to order and then predict its ending (Unit 18, printed p.55), and its closing whole-book quiz sets a character's story to retell from memory — "Tell the story of Queen Zenobia" (Revision 5, printed p.74) — retelling set as tasks, with no own-words retelling aim stated, so that framing rests on the other countries too. Other closed countries join as
 their books are read (see READING-QUEUE.md).
 
 **South Africa added 2026-11-03** — three books stock this lesson: *English Home Language, Grade 4 Workbook 1*, *English First Additional Language, Grade 2 Workbook 2* and *English Home Language, Grade 6 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. South Africa teaches retelling by name, which Ethiopia did not: the Grade 4 Home Language book's picture story "Jabu scrambles eggs" is retold and written by the learner (printed p.12), its folk tale is retold in sequence (printed pp.44–49) and the hare-and-tortoise race is retold as a sports report (printed p.108); the Grade 2 First Additional Language Workbook 2 retells the Ugly Duckling in five sentences from its mini-book (printed pp.14–16) and retells "The storm" in four parts with First/Next/Then/Lastly (printed pp.54–55); and the Grade 6 Home Language Workbook 2 retells "Rabbit warns of an earthquake" from a picture mind map (printed pp.36–41).
@@ -234,3 +238,5 @@ their books are read (see READING-QUEUE.md).
 
 
 **Afghanistan added 2026-11-04** — 1 book stocks this lesson: **Book:** *English for Afghanistan: Student's Book*, Grade 8 (student's book) — Afghanistan, Ministry of Education (Islamic Republic of Afghanistan), Publication 1398 (2019), no ISBN printed in any of the nine books. Filed in english/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Afghanistan teaches retelling inside Grade 8's memories work: a partner's memory is told, drawn and retold in the review unit, and the memories unit itself closes on retelling a friend's memory from notes.
+
+**Syria added 2026-11-06** — 1 book stocks this lesson, in part: **Book:** *English for Starters 5*, Pupil's Book (pupil's book) — Syria, York Press, new edition 2008, reprinted 2014, no ISBN printed. Filed in english/books/syria.md (Grade 5 — English for Starters 5, Pupil's Book (York Press) section, FULLY READ + CITATION CHECK PASSED 2026-11-06). Syria joins this lesson with this book — no earlier held Syria book is stocked here. Filed plainly as a partial, on the Rwanda/Kuwait terms: the older York Press Grade 5 course sets the telling-back as tasks — a four-part story to read, match and order, then predict the ending (Unit 18, printed p.55), and a whole-book quiz item that asks for Queen Zenobia's story told from memory (Unit 25, Revision 5, printed p.74) — but no Syria book names retelling as a skill or states an own-words aim, so that framing rests on the other countries.

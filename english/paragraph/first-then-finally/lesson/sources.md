@@ -1,6 +1,6 @@
 # Sources — First, then, finally
 
-countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania
+countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria
 
 Every part traces to its book and page.
 
@@ -108,6 +108,8 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 34:** *English Matters* Student's Book 9 (student's book) — Uzbekistan, Macmillan Education, first published 2003 (the held copy is the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1255-3. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
 **Book 35:** *Akelius A2 Level — A Practical Guide for English Language Teachers* (teacher's guide) — Albania, UNICEF Albania / ASCAP, 2025; no ISBN printed. Filed in english/books/albania.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-guide evidence for a digital course: it prints the Akelius A2 course's chapter vocabulary lists, "Language structures" example sets and worksheets; no student's book is held and no platform lesson is reproduced.
+**Book 36:** *English for Starters 5*, Pupil's Book (pupil's book) — Syria, York Press (new edition 2008, reprinted 2014). Filed in english/books/syria.md (Grade 5 — English for Starters 5, Pupil's Book (York Press) section, FULLY READ + CITATION CHECK PASSED 2026-11-06).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -175,9 +177,11 @@ CITATION CHECK PASSED 2026-11-03).
 | Discourse markers and sequencing worked in short text construction — sorting fourteen mixed sentences between Marco Polo and Zang Qian | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Unit 5, Project, printed p.59 |
 | The signpost set printed as a worksheet's sequencing scaffold — First / Next / Then / Finally prompts, with one model opening line, for describing how to complete an appointment form | Albania, *Akelius A2 Level* teacher's guide, Chapter 34 Worksheet 2 "Giving Instructions", printed p.31 |
 | Sequencing as the recipe work's stated skill — "follow a simple recipe in English, sequencing the baking process" — with a printed order-the-steps exercise (seven cake-making steps to number 1–7) | Albania, *Akelius A2 Level* teacher's guide, Chapter 40 outcomes, printed p.61; "More exercises" Exercise 5, printed p.68 |
+| A place description in numbered paragraphs matched to pictures — the Tal Shihab Waterfalls told paragraph by paragraph in its order | Syria — *English for Starters 5*, Pupil's Book (York Press), Unit 3, printed p.13 |
+| A whole journey retold under the full signpost set named in a Study Box — First / Then / After that / Finally — the fullest presentation of the set in any held Syria book | Syria — *English for Starters 5*, Pupil's Book (York Press), Unit 6, printed p.19 |
 
-**Acceptance count: taught in 23 countries (Bangladesh,
-Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania).** Egypt prints the law and the set;
+**Acceptance count: taught in 24 countries (Bangladesh,
+Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria).** Egypt prints the law and the set;
 Mongolia files the family by its grammar name; Bangladesh
 tells its methods under the signposts; China adds the
 dated diary as the model recount, its events sorted before
@@ -227,7 +231,7 @@ Pearls 6A plans an expository paragraph with first /
 next / after that / finally, and Pearls 7A sequences
 safety advice and a family camping text with the same
 signposts, stating that they are always followed by
-commas. Rwanda stocks the full set, finally included, in P2 — the letter's journey told with first / then / next / after that / finally — and two shorter sets without finally: P3's then, after that, next, before and P5's First of all / Then / Afterwards. Other finished
+commas. Rwanda stocks the full set, finally included, in P2 — the letter's journey told with first / then / next / after that / finally — and two shorter sets without finally: P3's then, after that, next, before and P5's First of all / Then / Afterwards. Syria stocks the full set, finally included, at Grade 5 in its older York Press course: Unit 6 retells a whole journey under a Study Box of First / Then / After that / Finally (printed p.19), and Unit 3 matches a place description in numbered paragraphs to pictures (printed p.13). Other finished
 countries join as their books are read (see
 READING-QUEUE.md).
 
@@ -257,3 +261,5 @@ READING-QUEUE.md).
 **Uzbekistan added 2026-11-04** — 2 books stock this lesson, as a partial: **Book:** *Fly High ENGLISH 6* — Classbook & Workbook combined volume (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-094-8; **Book:** *English Matters* Student's Book 9 (student's book) — Uzbekistan, Macmillan Education, first published 2003 (held copy: the Uzbek-approved new colour edition, printed in Malaysia), ISBN 978-1-4050-1255-3. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly as a partial: the middle signposts are taught — Fly High 6's tale-writing frame runs on Then and After that between its opening and closing formulas, and English Matters 9 works discourse markers and sequencing as a named project skill — but First and Finally as named signposts are not filed anywhere in the set, so the lesson's two end posts rest on the frame's beginning and ending formulas only. The other five recorded Uzbekistan English books are link-only and are not cited anywhere; no teacher's book exists in Uzbekistan's English record and none is cited; and the Russian Starkov textbook misfiled in the Grade 5 slot is not an Uzbekistan book and is cited nowhere.
 
 **Albania added 2026-11-04** — 1 book stocks this lesson: **Book:** *Akelius A2 Level — A Practical Guide for English Language Teachers* (teacher's guide) — Albania, UNICEF Albania / ASCAP, 2025, prepared by Anila Ziu and Nevila Serjani, no ISBN printed. Filed in english/books/albania.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly: Albania's record holds this one teacher's guide only — it serves the Akelius digital platform's A2 course (Chapters 31–40); there is no printed student's book, and the platform's lessons, readings, songs and games are named in the guide but never reproduced, so every Albania row here rests on what the guide itself prints — the chapter vocabulary lists, the "Language structures" example sets, the sample plans' stated content and the printed worksheets — and is worded as teacher's-guide evidence for a digital course. Filed as a partial: the signpost set is printed as a worksheet scaffold (First / Next / Then / Finally, Chapter 34) and recipe sequencing is a stated outcome with a printed ordering exercise (Chapter 40), but no lesson in the guide presents the signposts as its teaching, and none is claimed.
+
+**Syria added 2026-11-06** — 1 book stocks this lesson: **Book:** *English for Starters 5*, Pupil's Book (pupil's book) — Syria, York Press, new edition 2008, reprinted 2014, no ISBN printed. Filed in english/books/syria.md (Grade 5 — English for Starters 5, Pupil's Book (York Press) section, FULLY READ + CITATION CHECK PASSED 2026-11-06). Syria joins this lesson with this book — no earlier held Syria book is stocked here. The older York Press Grade 5 course carries the full signpost set, finally included, as a Study Box: a whole journey retold First / Then / After that / Finally (Unit 6, printed p.19), with a place description in numbered paragraphs matched to pictures a unit earlier (Unit 3, printed p.13).
