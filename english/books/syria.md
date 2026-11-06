@@ -2,19 +2,21 @@
 
 **SYRIA OPENED 2026-11-03 under the user's
 all-closed-countries ruling.** Syria is CLOSED in the
-library. Its English set as recorded is 22 files —
+library. Its English set as recorded is **23 files** —
 Grades 1–9 and Grade 12 of the Syrian Ministry of
 Education's Emar series (pupil's/student's book +
 workbook per grade), one Grade 7 teacher's book, and
 the Grade 12 pair split across tracks (a literary
-student's book and a scientific workbook) — all 22 in
+student's book and a scientific workbook) — all 23 in
 hand, no link-only books, and all 22 were pulled from
 the secured GitHub library (the mid-size-books,
 mid-size-books-2 and mid-size-books-4 releases and
-full-quality-oversized-books), 2.20 GB, 1,943 PDF
-pages, every file byte-exact against the library
-record and every page count matching it. The 22
-files hold **21 distinct books**: the Grade 5
+full-quality-oversized-books), **2.20 GB for the
+original 22 plus 24,016,442 bytes for the
+twenty-third, 2,035 PDF pages in total**, every
+library file byte-exact against the library
+record and every page count matching it. The 23
+files hold **22 distinct books**: the Grade 5
 workbook exists twice — the NCCD developed-curriculum
 edition of 2021-2022 and the Ministry's 2025-2026
 issue are the same book re-issued with a light
@@ -22,7 +24,18 @@ copy-edit (identical contents, units, pagination,
 exercises and artwork; 45 of 72 pages differ, mostly
 punctuation; several NCCD misprints are fixed and one
 new one, "pharmascist", is introduced on p. 43).
-There are no other duplicates. Every book below was
+There are no other duplicates. The twenty-third
+file is the Grade 5 pupil's book added 2026-11-06
+(see its section after the Grade 5 workbooks):
+*English for Starters 5* (York Press, © 2008, new
+edition 2008, reprinted 2014 for 2014–2015),
+downloaded as a Google Drive copy (24,016,442
+bytes, 92 PDF pages) under the courses exception —
+it did **not** come from the secured GitHub
+library, and it is byte-checked against nothing in
+the record; its printed↔PDF offset is **−2**
+(printed page = PDF page − 2), the only offset in
+the set that is not zero. Every book below was
 read whole, and every filing was then citation-checked
 as a separate pass by a checker who had not read the
 book for the filing: **451 citation anchors in total
@@ -32,8 +45,13 @@ Grade 3 farm sentence cited one page early, a Grade 3
 workbook anchor rewritten to the item's printed form,
 and the Grade 7 workbook's "Stop Wilfing" reading,
 which stands on p. 20, not p. 21); none was not found.
-Printed page = PDF page (offset zero) in all 22
-books, verified folio by folio by the checkers.
+The twenty-third filing was citation-checked the
+same way on 2026-11-06: 22 anchors — 21 passed
+exactly as cited, 1 corrected in place, 0 not
+found; the 451-anchor total above covers the
+original 22 books only. Printed page = PDF page
+(offset zero) in all 22 original books, verified
+folio by folio by the checkers.
 
 **What the covers proved against the record.**
 (1) The record's kind words are wrong almost
@@ -47,8 +65,12 @@ the Grade 2 and Grade 3 pupil's books print "Emar
 **Syrian** Series" while everything else prints
 "Emar **English** Series", so each of those pairs
 disagrees with itself. (3) **No ISBN is printed in
-any of the 22 files**, and no authors are named
-except where NCCD credits survive (the Grade 5
+any of the 23 files** — the twenty-third,
+*English for Starters 5*, prints none on its
+imprint or back cover either — and no authors are
+named except where NCCD credits survive and except
+the twenty-third book, which names its author,
+**M. Loader**, on cover and title page (the Grade 5
 pupil's book and workbooks name a ten-member
 authoring committee; the Grade 7 workbook names its
 NCCD team) — the two Grade 12 books print an
@@ -68,12 +90,29 @@ but the workbook's other six units are science units
 with different readings throughout, and it presupposes
 the scientific student's book, which the record does
 not hold (nor the literary workbook).
-(6) The Ministry's Grade 5 student's book is absent
-from the record (its only archive capture is
-truncated at 5 MiB); what survives is the NCCD
-pupil's book and its workbook — issued twice (see
-above) — and the workbook tracks the NCCD pupil's
-book exactly, pointing to no other student book.
+(6) **The missing Grade 5 student's book is now
+held — and it is not an Emar book.** The record's
+only capture of an MoE-era Grade 5 student's book
+was truncated at 5 MiB. A complete copy was
+downloaded 2026-11-06 and read whole (see the
+*English for Starters 5* section after the Grade 5
+workbook sections): it proves to be **York Press's
+*English for Starters 5*, Pupil's Book, by
+M. Loader (© 2008; new edition 2008; reprinted 2014
+for the 2014–2015 school year)** — the older
+commercial course that preceded both Emar and the
+NCCD developed curriculum in Syrian primary
+schools. It is a different course from the NCCD
+Pupil's Book 5 in the set (no unit title, topic
+sequence or grammar point order matches), and
+**the two held Grade 5 workbooks do not track it**
+— they track the NCCD pupil's book exactly, as
+their sections state; this book's own Activity Book
+companion (named on its back cover) is not in the
+set. So the Grade 5 picture is now: the older
+course's pupil's book (held, no companions), and
+the NCCD replacement course's pupil's book with
+its workbook in two issues (held).
 (7) Defects inside the secured copies: the Grade 7
 and Grade 9 workbooks' contents promise tape-scripts
 sections that are **not in the files** (both files
@@ -92,10 +131,24 @@ sections). The record holds **no Grade 10 or Grade
 Emar, running Grades 1–9 with a single design:
 25 short units a year in Grades 1–3 and twenty
 3-page units in the Grade 5 NCCD design, shrinking
-to 12 units with progress tests from Grade 7, the
-workbook shadowing the pupil's book unit-for-unit in
-every grade (with its own parallel texts from
-Grade 7). The primary ladder is careful and slow:
+to 12 units with progress tests from Grade 7. The
+twenty-third book stands outside that Emar line:
+*English for Starters 5* is a 20-teaching-unit
+course of the same 3-page unit shape but with five
+revision units numbered inside its unit sequence,
+Study Boxes instead of stated rules, no
+pronunciation strand at all, and a dictionary,
+picture dictionary and complete graded story at the
+back — and its grammar order (past simple and
+*will* in its first four units, past continuous in
+Units 17–18, no present perfect anywhere) belongs
+to its own older syllabus, not to the Emar ladder
+described here. **What Syria never teaches, in any
+held book** (below) is unchanged by it: it teaches
+no present perfect, passive or conditionals either.
+The workbook shadowing the pupil's book
+unit-for-unit in every grade (with its own parallel
+texts from Grade 7). The primary ladder is careful and slow:
 Grade 1 is frames and phonics corners with no past
 tense and no plurals as topics; the present
 continuous arrives in Grade 2; the whole past system
@@ -875,7 +928,7 @@ No present perfect, passive, conditionals, reported speech, or future continuous
 - p. 67: fill-in and true/false items invoke an "electronic belt" and "the scale" that never appear in the p. 67 reading (the bag in the text is simply "at the airport hall").
 
 ### Copy completeness and cross-check
-Printed pp. 5-77 continuous as seen on every sheet; cover and credits unfoliated; complete, no blank or duplicated leaves. Cross-check: both Grade 5 workbooks (NCCD edition and MoE 2025-2026 edition, next two filings) track this pupil's book unit-for-unit in title and order — this is the pupil-side book for the whole Grade 5 set in hand. The MoE 2025-2026 Grade 5 student book is **not** in the set, and nothing in either workbook points to a different student book.
+Printed pp. 5-77 continuous as seen on every sheet; cover and credits unfoliated; complete, no blank or duplicated leaves. Cross-check: both Grade 5 workbooks (NCCD edition and MoE 2025-2026 edition, next two filings) track this pupil's book unit-for-unit in title and order — this is the pupil-side book for the whole Grade 5 set in hand. A different Grade 5 student's book **is** now in the set — *English for Starters 5* (York Press; filed after the Grade 5 workbook sections) — but it belongs to an older, different course and is not a companion to this book or to either workbook; nothing in either workbook points to it, and it changes nothing in this section's verdict that this pupil's book is the pupil-side book for the whole Grade 5 workbook set in hand.
 
 **Citation anchors (for the checker):**
 - "corridor" — p. 7
@@ -1011,7 +1064,7 @@ As the NCCD edition: no grammar presentation, no pronunciation strand, no answer
 - p. 8: the "My Mother" heading over the reading is dropped.
 
 ### Copy completeness and cross-check
-Printed folios 5-72 complete and in order; PDF p.2 is a blank leaf; no missing or duplicated leaves. **Cross-check verdict (the Grade 5 question):** this is **not** a different workbook in content — it is the NCCD Workbook 5 lightly copy-edited and re-issued in the 2025-2026 MoE series. Its units, titles, order and tasks track the **NCCD Pupil's Book 5** exactly, just as the NCCD edition does. The matching MoE 2025-2026 Grade 5 student book is not in the set, and nothing inside this workbook points to a different or missing student book: every reading and exercise parallels the NCCD pupil's book's units.
+Printed folios 5-72 complete and in order; PDF p.2 is a blank leaf; no missing or duplicated leaves. **Cross-check verdict (the Grade 5 question):** this is **not** a different workbook in content — it is the NCCD Workbook 5 lightly copy-edited and re-issued in the 2025-2026 MoE series. Its units, titles, order and tasks track the **NCCD Pupil's Book 5** exactly, just as the NCCD edition does. Nothing inside this workbook points to a different or missing student book: every reading and exercise parallels the NCCD pupil's book's units. The Grade 5 student's book added to the set on 2026-11-06 (*English for Starters 5*, York Press — filed immediately after this section) is **not** this workbook's companion: it is the older course's pupil's book, its units match nothing in this workbook, and this workbook remains, in content, the NCCD workbook re-issued.
 
 **Citation anchors (for the checker):**
 - "raise my hand before speaking" — p. 5
@@ -1036,6 +1089,103 @@ Printed folios 5-72 complete and in order; PDF p.2 is a blank leaf; no missing o
 - "largest theatre" — p. 70
 
 **CITATION CHECK (2026-11-03, independent checker):** 20 anchors — 20 passed exactly as cited, 0 corrected in place, 0 not found.
+
+---
+
+## Grade 5 — English for Starters 5, Pupil's Book (York Press) (pupil's book)
+
+
+### Identity block
+- **Title as printed:** "English for Starters 5 / Pupil's Book / M. Loader" (front cover, PDF p.1, and title page, PDF p.3 — the title page adds the York Press logo). The Arabic header on the cover names the Syrian Arab Republic / Ministry of Education; the Arabic imprint line at the foot of both cover and title page names the General Establishment for Printing and dates the issue 2014–2015. The back cover (PDF p.92) calls the level "English for Starters Level 5". **No Emar branding appears anywhere in the book** — no Emar series line on cover, title page, contents or any unit banner.
+- **Publisher:** York Press (logo on the title page and imprint), 322 Old Brompton Road, London SW5 9JH, England, with Maktabat El Nashr El Tarbawi El Souri (Syrian Educational Publishers), Omar El Mukhtar 2nd Str., Bldg. 6, El Mazraa, Damascus-Syria (imprint, PDF p.4). Distribution rights in the Syrian Arab Republic are reserved to the General Establishment for Printing (Arabic box, PDF p.4).
+- **Year / edition / ISBN:** Imprint (PDF p.4): "New edition 2008 / Reprinted 2014 / © York Press 2008". The issue in hand is the 2014–2015 school-year printing (Arabic, cover and title page). **No ISBN is printed anywhere in the file** — not on the imprint page and not on the back cover, which carries only the course description, the component list and an Arabic price line ("price: 155 S.L."). This matches the other Syria files in printing no ISBN, but for a different reason: this is a commercial York Press book, not a ministry imprint.
+- **Developers/authors as printed:** The author named on cover and title page is **M. Loader** — the only personal name attached to the teaching text. The imprint page (PDF p.4, Arabic box) names a five-person team for "proofreading and adaptation of the English-language books" (transliterations approximate: Nibal Hanna, Sorour Shalash, Lina al-Diab, Rasha Baizid, Samar al-Shishakli). The closing story is credited separately: "Snow White and the Seven Dwarfs — ELT Abridgement by Damian Tunnacliffe and Phoenix Publishing Services" (printed p.79). No NCCD credits, no authoring committee, and no ministry credits page of the kind the NCCD Grade 5 book carries.
+- **Curriculum generation/series:** **English for Starters** — the York Press primary course that preceded both the Emar series and the NCCD developed curriculum in Syrian primary schools; this copy is its 2014 reprint for 2014–2015. It is a **different course** from every other Grade 5 book in this filing (see the cross-check). The back cover lists the course components: Pupil's Book, Activity Book, Teacher's Guide, Cassette, Flashcards and Wall charts — **none of those companions is in the set**; the held Grade 5 workbooks belong to the NCCD book, not to this one (cross-check below).
+- **Extent:** 92 PDF pages = front cover (PDF p.1) + **one blank leaf (PDF p.2)** + title page (printed p.1) + imprint (printed p.2) + Contents (printed pp.3–4) + printed pp.5–88 + **one blank leaf (PDF p.91)** + back cover (PDF p.92). Printed extent is therefore pp.1–88 plus covers. NOTE: the download manifest described PDF pp.1–3 as blank — that is wrong for this copy: only PDF p.2 is blank at the front; the cover (PDF p.1) and title page (PDF p.3) are fully printed and legible.
+- **Printed↔PDF offset:** **−2** — printed page = PDF page − 2, folio-verified (Unit 1 opens on printed p.5 = PDF p.7; the Dictionary opens on printed p.75 = PDF p.77; the story opens on printed p.79 = PDF p.81; the story exercises close the foliated text on printed p.88 = PDF p.90). This book is the **exception** to the "offset zero in all Syria books" pattern of the other files in this set. The contents list's page numbers are the printed pages and agree with the body throughout.
+
+### Architecture (component map)
+Twenty teaching units and five revision units, numbered continuously as Units 1–25 (the revisions are Units 5, 10, 15, 20 and 25, each headed "Revision 1–5" in the body). Teaching units are 3 printed pages each; revision units are 2 printed pages each — Revisions 1-4 each include a song, while Revision 5 closes instead with a fifteen-item whole-book quiz. The regular unit shape is: (1) a picture dialogue "Listen and read" with a **Study Box** of model sentences; (2) listening/matching and pair-talk tasks; (3) a short reading with comprehension tasks. After Unit 25: a two-page alphabetical **Dictionary** (printed pp.75–76), a two-page **Picture Dictionary** (printed pp.77–78 — computers; television programmes; Earth/sun/moon/stars), and the graded story **"Snow White and the Seven Dwarfs"** (printed pp.79–87) with a page-by-page multiple-choice exercise set (printed p.88). There are no projects, no progress tests and no wordlists beyond the Dictionary.
+
+
+### Unit-by-unit summary
+The units carry **no printed titles** — each is headed only "Unit N" (revision units add "Revision N"); the contents list identifies them by Language Focus sentences and Functions, which is how they are identified below.
+- **Unit 1 (pp. 5-7) — Talking about books / routines:** a library dialogue (Hussam and his sister Ruba meet the librarian); present simple, including third-person -s, the frequency adverb *often*, and *Have you got any books by …? — Yes, we have. / No, we haven't.*; book kinds (science books, history books, adventure stories, poems). Third page: matching book titles to short texts (salads, flowers, weather in Africa, forest animals) and talking about your own reading.
+- **Unit 2 (pp. 8-10) — Talking about the past / giving reasons:** a past-tense explorer narrative (the explorers in the jungle reach a lost city); reasons with *because* (Study Box: past action + *because* + past state); *Would you like to be an explorer? — Yes, I would. / No, I wouldn't.* (contents). Reading: the story of Queen Zenobia of Palmyra, with wh- and yes/no comprehension questions.
+- **Unit 3 (pp. 11-13) — Giving suggestions / making plans:** suggestions with *Why don't we …?*, *Let's …* and *We/You could …* (Study Box), in a walk-planning dialogue that uses a weather forecast and a compass. Reading: Tal Shihab Waterfalls near Daraa (three numbered paragraphs matched to pictures).
+- **Unit 4 (pp. 14-16) — Talking about the weather / making predictions:** *will* for weather prediction (Study Box: *It will be dry/wet/sunny/cloudy (tomorrow). Will it rain tomorrow? Yes, it will. / No, it won't.*); Syrian city weather maps with temperatures (Aleppo, Deir Ezzor, Hama, Tartous, Homs, Damascus); true/false-and-correct tasks on a forecast map.
+- **Unit 5 Revision 1 (pp. 17-18):** revision of Units 1-4 vocabulary and structures through the functions of making suggestions and making plans; includes a song.
+- **Unit 6 (pp. 19-21) — Talking about the past / describing a journey / talking about places:** a journey retold in sequence — *First … Then … After that … Finally …* (Study Box) — with compass points (north/south/east/west) and landscape words (path, valley, hills, woods, fields, river, waterfalls), all in the past simple. Reading: "Syria" — a geography text (coast, desert in the east, Al Assad lake in the north, the Euphrates as the longest river, Damascus the biggest city in the south) that also practises superlatives inside a reading.
+- **Unit 7 (pp. 22-24) — Talking about jobs:** *What do you want to be when you grow up? — I want to be a fireman. / I want to be a nurse or a teacher.* (Study Box, including third-person *Salah wants to be …*); city jobs vs country jobs; two first-person job readings to match to pictures (a nurse's busy day at the hospital; a fireman's rescue day), which quietly use *have to* ("I have to be very strong for my job!").
+- **Unit 8 (pp. 25-27) — Talking about the past / sports:** object pronouns after verbs — *He kicked the ball to him. She threw the ball to me. He gave the ball to them.* (contents; Study Box: *Kick the ball to me/him. Salah gave the book to me/her.*) — inside a football-match narrative that also uses *could/couldn't*. Reading task: one football match report against Damascus School, printed with two candidate title pairs ("My Favourite Sports / A Good Win" against "Damascus School / A Basketball Match") for the pupil to choose between, with right-or-wrong items.
+- **Unit 9 (pp. 28-30) — Talking about sports / describing possession:** possessives — *Whose is this tracksuit? It's his. Whose are these boots? They're Hussam's boots.* (contents; Study Box: *Whose is this? It's mine/yours. Whose are these? They're his/hers.*, plus the possessive-'s form); sports clothes and equipment; a letter about a basketball match (Damascus beat Hama 33-22) that uses *going to* and *Would you like to come?* without teaching either.
+- **Unit 10 Revision 2 (pp. 31-32):** revision of Units 6-9 (journey description, possession, jobs) built around a football-pitch narrative with manner adverbs (walked quickly, running slowly); includes a song.
+- **Unit 11 (pp. 33-35) — Giving instructions / talking about computers:** imperatives for computer work (Study Box: *Switch on the computer/printer. Put some paper in the printer. Click on the icon.*), sequenced with *Then,*; computer parts (monitor, keyboard, mouse, printer, icon); a computer-quiz instruction text to order and match ("Put the quiz into your computer… Answer ten questions correctly in level 1. Go to level 2."), with a score table (1st/2nd/3rd with points).
+- **Unit 12 (pp. 36-38) — Making comparisons / the sun, moon and planets:** comparatives and superlatives (Study Box: *How big/hot is the sun? The sun is bigger/hotter than other stars. The sun is the closest star to the Earth.*); planet names (Jupiter, Mars, the Earth, the moon); a ten-statement *I think / I don't think* true-or-false guessing task about the sun, moon and planets.
+- **Unit 13 (pp. 39-41) — Visiting a nature reserve / expressing obligation:** *must / mustn't* (Study Box: *We must protect the animals. You mustn't leave the bus. You mustn't shout.*) in a reserve-visit dialogue; "mustn't touch / mustn't feed"-type rules practised by picture; reading: the Northern Bald Ibis near Palmyra (about thirteen birds there; they winter in Africa and return in April), closing on the same obligation line.
+- **Unit 14 (pp. 42-44) — Rainforests and animals:** indefinite pronouns (Study Box: *Everybody must help. Somebody must save the forest. Nobody can hurt the animals in the reserve. Can anybody help? Is anybody saving the forest?* — the last model quietly uses the present continuous); a rainforest text (South America's forest shrinking at the edges; Syria's reserves) and a second rainforest reading with tick-or-cross items (trees sometimes 60 metres tall; 27–28 degrees all year).
+- **Unit 15 Revision 3 (pp. 45-46):** revision of Units 11-14 (obligation, comparisons of sun/moon/planets, animals) in dialogue and talk tasks; includes a song.
+- **Unit 16 (pp. 47-49) — Making apologies:** apology formulas (Study Box: *I'm terribly/really sorry. I'm afraid I broke/left/forgot/lost … — It doesn't matter. / It's all right. / Don't worry.*); pair role-cards (say sorry for a broken computer game, a lost pen, a book left at home, forgotten fruit); six short **letters** to read and match to their replies — apologies and reassurances carried in letter form.
+- **Unit 17 (pp. 50-52) — Talking about actions in the past / television programmes:** the **past continuous** introduced through a family-evening text (Study Box: *I was doing my homework/cooking/helping Mum (at half past six). Dad was watching television. Mum and Ruba were making chicken and rice.*); TV programme types (news, weather forecast, game show, nature programme, cartoon, film); a Monday-evening TV guide (printed p.52) read for times and programme names.
+- **Unit 18 (pp. 53-55) — Past continuous, questions and negatives:** *What were you doing yesterday / at seven o'clock? — I was reading a book. I wasn't playing football.* (Study Box), practised against clock times in a pupil-A/pupil-B task; a four-part bank-robber story to read, match and order, ending with an open "What do you think happened next?" question.
+- **Unit 19 (pp. 56-58) — Visiting the Silk Road Festival / musical instruments:** *Which instrument do you play? — I play the violin/drums/guitar. When did you join the group? — I joined the group two years ago. We're going to play some classical music.* (Study Box — past simple with *ago*, present, and *going to* in one unit); readings on the Silk Road Festival (began in 2002; four days each September) and the Silk Road itself (a journey east–west could take three years), with a route map (Palmyra, Bokhara, Hami, Chiang-an).
+- **Unit 20 Revision 4 (pp. 59-60):** revision of Units 16-19 (apologies, past continuous, television, festival) built around Ruba's letter about the Silk Road Festival; includes a song.
+- **Unit 21 (pp. 61-63) — Making invitations / films and the cinema:** invitations (Study Box: *I'm going to go shopping / to the cinema / to a football match. Would you like to come? — Yes, please, I'd love to. / I'm sorry. I'd like to, but I'm afraid I can't.*); pupil-A/pupil-B invitation role-cards with reasons for refusing; three film-guide entries to read and match (a football-team film, a boy who wants to be a pilot, a jungle cartoon).
+- **Unit 22 (pp. 64-66) — Talking about hobbies and interests:** *What are you good at? — I'm (quite/very) good at playing chess/table tennis. I'm interested in collecting stamps/taking photos. I like/enjoy sewing/painting pictures.* (Study Box); a hobby word-bank (chess, swimming, painting, running, badminton, sewing, singing, taking photos); reading: Ghada Shouaa — from basketball to Syria's first Olympic gold medal (won at twenty-four, in America).
+- **Unit 23 (pp. 67-69) — Talking about methods of communication / past and present:** *In the past … / Nowadays …* contrast as the unit's frame (Study Box: letters and the telephone in the past; emails, text messages, mobile phones and computers nowadays; *There weren't any computers.*); a letter from the post museum in Damascus about its stamps (buildings, Al Assad Lake and the Euphrates, Saladin, Queen Zenobia, the oldest stamp in Syria).
+- **Unit 24 (pp. 70-72) — Talking about plans for the future / holidays:** the present continuous for future plans (Study Box: *What are you doing tomorrow? — I'm going to the beach. When are you going to (Damascus)?*); a two-pupil holiday timetable to complete (pack the suitcase Saturday evening; stop at Homs; leave Sunday morning; explore Arwad Island Tuesday); a postcard-style letter from Arwad Island (boat from Tartous, twenty minutes).
+- **Unit 25 Revision 5 (pp. 73-74):** a closing fifteen-item class **Quiz** that samples the whole book (name three planets; tell the story of Queen Zenobia; what were you doing at seven o'clock yesterday evening?; what are you good at?; ask your friend to come to the park; decide with your group where to go this weekend).
+- **Dictionary (pp. 75-76):** an alphabetical A–W wordlist with one-line child-level definitions, drawn from the book's own vocabulary (no entries under X, Y or Z).
+- **Picture Dictionary (pp. 77-78):** labelled pictures in three sets — computer parts; television programme types; the Earth, the sun, the moon and stars.
+- **Snow White and the Seven Dwarfs (pp. 79-87, exercises p. 88):** a complete graded retelling of the fairy tale, printed in full as the book's closing reader (plot: a queen wishes for a baby, dies, and the king remarries; the new queen, jealous of Snow White's beauty, orders her killed; she shelters with seven dwarfs; the queen poisons her with an apple; a prince's soldiers jolt the poisoned piece free as they carry her coffin; she revives, marries the prince, and the queen, hearing the mirror name Snow White the fairest, burns in her own anger). The exercise page (p.88) gives two multiple-choice items per story page, pp.79-87.
+
+### Grammar spine
+Present simple (+ third-person -s, *often*) and *have got* questions → past simple narrative + *because* reasons + *would like to be* → suggestions (*Why don't we …? / Let's … / could*) → *will* predictions → sequence markers (*First/Then/After that/Finally*) + compass points, all past simple → *want to be* (jobs) → object pronouns (*to me/him/her/them*) → possessive pronouns + possessive 's → imperatives (computer instructions) → comparatives/superlatives → *must/mustn't* → indefinite pronouns (*everybody/somebody/nobody/anybody*) → apologies (*I'm afraid I broke/lost …*) → past continuous (statements) → past continuous (questions/negatives, *at seven o'clock*) → *ago* past + *going to* (music) → invitations (*going to* + *Would you like to come?*) → *good at* + -ing / *interested in* + -ing / *like-enjoy* + -ing → past-vs-nowadays contrast (*there weren't any …*) → present continuous for future plans. There is **no pronunciation strand** and **no Study Box grammar rule is ever stated as a rule** — grammar is carried entirely by model sentences in the Study Boxes.
+
+### Honest negatives
+**No present perfect of any kind** — it is never taught and never used as a teaching point (the NCCD Grade 5 book also lacks it, but the Emar Grade 6 book teaches it, so this course's Grade 5 leaves it to a later level). No passive, no conditionals, no reported speech, no future continuous, no present perfect continuous. No irregular-verb list (the past forms used — *took, went, drank, ate, saw, gave, threw, won, broke, left, forgot, lost* — are met only inside texts). No phonics or pronunciation point in any unit — a sharp contrast with both the NCCD Grade 5 book (a pronunciation point in every unit) and the Emar books. Writing is minimal: the pupil's book itself contains almost no writing tasks (writing belongs to the course's Activity Book, which is not held); tasks are listen/read/speak/match/order. Listening scripts are not printed; there is no answer key (the story exercises on p.88 print no answers). No projects page, despite the back cover advertising "games, projects and songs" among the course's activities — songs appear only inside the revision units.
+
+### Slips and errors as printed
+- **No contents defect:** unlike the NCCD Grade 5 book, this book's contents agree with its body throughout, including the back matter (Dictionary p.75, Picture Dictionary p.77, "Snow White and the Seven Dwarfs" p.79).
+- p. 41 (Unit 13): question 3 asks how many Northern Bald Ibis birds there are "in Syria"; the reading gives the number (thirteen) for "the desert near Palmyra".
+- p. 52 (Unit 17): the TV guide's day heading is garbled in print — the weekday (Monday) is partly obscured by a graphic element and reads only "…D AY" (render-verified).
+- p. 75 (Dictionary): "million — the number ,10" — the figure for a million is garbled in print, its digits overprinted into an unreadable blob (render-verified).
+- p. 76 (Dictionary): "moon — the big, white star in the sky" — the moon is defined as a star (the same page defines "star" separately as "a bright white light in the sky").
+- p. 76 (Dictionary): "river — an area of water; it starts at the sea and travels through a country" — the direction is backwards as printed.
+- p. 10 (Unit 2): the Zenobia reading prints a stray space before a comma ("She had a son , too.").
+- Names as printed, kept as printed in this filing: the librarian dialogue's writer is "Suleiman Al Eissa" (p.5, parentheses in the Study Box); Zenobia's son is named "Habat Allah" (p.10); the Silk Road map prints "Chiang-an" and "Bokhara" (p.58).
+
+### Copy completeness and cross-check
+Printed folios 5-88 run complete and in order on every sheet, preceded by title page (printed p.1), imprint (printed p.2) and contents (printed pp.3-4); two blank leaves only — PDF p.2 (inside front cover) and PDF p.91 (inside back cover); no missing, duplicated or truncated leaves, and the front cover (PDF p.1) and title page (PDF p.3) are **present and legible** in this copy (the manifest's "PDF pp.1-3 blank" note is wrong). The PDF's own creation metadata dates the file assembly to 2015, consistent with the 2014 reprint.
+**Cross-check 1 — against the held NCCD Pupil's Book 5: DIFFERENT COURSE, not the same book in another dress.** The two books share almost nothing but the grade. Titles/units: the NCCD book's twenty titled units (At School; Family; Daily Routines; The Five Senses; Clothes; Healthy Lifestyle; Hobbies; Inventions; Music; Technology; Nature; Jobs; Houses; At the Sports Centre; Sports Equipment; Food and Drinks; Farming; At the Airport; Festivals; Places Around the World) do not match this book's twenty untitled units at a single point — this book opens in a library and closes with holidays and a quiz; its topics are explorers, waterfalls, the sun and planets, nature reserves, rainforests, television, the Silk Road, communication past-and-present, and Arwad Island. Grammar spines diverge just as completely: where the NCCD book runs *have to* → possessives → present simple → *should* → *can* → past simple (Unit 8) → *going to* → *must* → comparatives (Unit 13) → past continuous (Unit 14) → *will* last (Unit 20), this book runs present simple + *have got* → past simple + *because* (Unit 2) → *will* (Unit 4) → object pronouns (Unit 8) → comparatives (Unit 12) → *must* (Unit 13) → past continuous (Units 17-18) → invitations and future plans, and it teaches three things the NCCD book does not teach at all — *because* reasons, object pronouns as a set, and indefinite pronouns as an early set (Unit 14 against the NCCD book's Unit 18). Design: the NCCD book is a ministry-developed 3-pages-per-unit course with a pronunciation point in every unit and named NCCD credits; this book is a commercial York Press course (author M. Loader, © 2008) with Study Boxes, songs in revisions, a dictionary, a picture dictionary and a complete graded story — none of which the NCCD book has. **Verdict: the MoE-era Grade 5 student's book the record was missing is not an Emar book at all; it is the older York Press *English for Starters 5*, and the NCCD Pupil's Book 5 in the set is its developed-curriculum replacement, not its twin.**
+**Cross-check 2 — against the two held Grade 5 workbooks: the existing workbook filings STAND, unchanged.** Both workbooks track the **NCCD** Pupil's Book 5 unit-for-unit (At School, Family, Daily Routine …) and nothing in either workbook matches this book: no workbook unit is titled or themed for the library, the explorers, Queen Zenobia, Tal Shihab, the nature reserve, the rainforest, the Silk Road or Arwad; no workbook page teaches *because*, object pronouns, or the past continuous in this book's order; and neither workbook contains a dictionary, a picture dictionary or the Snow White story. This book's own companion — the *English for Starters* Activity Book named on its back cover — is **not in the set**. The workbook sections' sentence "nothing in either workbook points to a different student book" was true of the workbooks' contents and stays true; what changes is only the header-level claim that the matching student's book is absent from the record — it is now held, and it proves to be a book from a different, older course, which the workbooks were never companions to (see the amendments file).
+**Cross-check 3 — series placement against the held Emar pupil's books for Grades 4 and 6:** in **shape** this book sits closest to the Emar primary design — twenty teaching units of 3 pages each, exactly the Emar Grade 4 pattern (20 units × 3 pp, 72 pp) and the NCCD Grade 5 pattern, against Grade 6's twenty 4-page units (103 pp); but its revision machinery differs from both Emar books — five 2-page revision units numbered inside the unit sequence (Units 5/10/15/20/25), where Emar Grade 4 spreads unnumbered Revisions 1-4 plus projects and songs between unit blocks, and Emar Grade 6 does the same with 3-page revisions. In **length** it is the longest Grade-5-level pupil's book in the set (printed pp.1-88, against the NCCD book's 77 pp and Emar Grade 4's 72 pp), because of its back matter: no Emar pupil's book in the set prints a dictionary, a picture dictionary or a complete story. In **design** it is visibly the oldest book in the primary set: full-colour painted artwork and speech-bubble dialogues throughout, Study Boxes instead of Emar's exercise-led pages, no contents table of Language Focus/Functions in the Emar Grade 6 manner beyond its own model-sentence contents, and a cassette listed among its components where the 2021-2022-generation books assume downloadable audio. It belongs to the same Syrian primary-English lineage the G7 Teacher's Book in this set also comes from (York Press courses for Syria) — but it is a **different course** from that teacher's book's *English for Syria* and is never to be cross-cited with it.
+
+**Citation anchors (for the checker):**
+- "Pupil's Book / M. Loader" — cover (PDF p.1)
+- "New edition 2008 / Reprinted 2014" — imprint (printed p.2; PDF p.4)
+- "He writes stories and poems" — printed p.5 (PDF p.7)
+- "Have you got any books by (Suleiman Al Eissa)?" — printed p.5 (PDF p.7)
+- "They drank some water because they were thirsty" — printed p.8 (PDF p.10)
+- "The story of Queen Zenobia" — printed p.10 (PDF p.12)
+- "First, we took this path south" — contents, printed p.3 (PDF p.5) (corrected — was printed p.19 (PDF p.21); on printed p.19 the dialogue and Study Box print the near-identical "First, we took the path south." without "this" — the cited wording with "this" is the Contents entry for Unit 6)
+- "The Euphrates is the longest river in Syria" — printed p.21 (PDF p.23)
+- "What do you want to be (when you grow up)?" — printed p.22 (PDF p.24)
+- "Kick the ball to me/him" — printed p.25 (PDF p.27)
+- "Whose are these trainers? They're Salah's trainers" — printed p.28 (PDF p.30)
+- "Switch on the computer" — printed p.33 (PDF p.35)
+- "The sun is the closest star to the Earth" — printed p.36 (PDF p.38)
+- "You mustn't leave the bus" — printed p.39 (PDF p.41)
+- "I'm terribly/really sorry" — printed p.47 (PDF p.49)
+- "Mum was cooking in the kitchen" — printed p.50 (PDF p.52)
+- "When did you join the group?" — printed p.56 (PDF p.58)
+- "I'm going to go shopping. Would you like to come?" — contents, printed p.4 (PDF p.6)
+- "Nowadays, some people use mobile phones" — printed p.67 (PDF p.69)
+- "moon – the big, white star in the sky" — printed p.76 (PDF p.78)
+- "Snow White and the Seven Dwarfs" — printed p.79 (PDF p.81)
+- "English for Starters Level 5 aims to stimulate" — back cover (PDF p.92)
+
+**CITATION CHECK (2026-11-06, independent checker):** 22 anchors — 21 passed exactly as cited, 1 corrected in place, 0 not found.
 
 ---
 
