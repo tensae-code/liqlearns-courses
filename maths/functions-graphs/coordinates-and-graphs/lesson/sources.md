@@ -1,6 +1,6 @@
 # Sources — Coordinates and graphs
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China
+countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan
 
 Every part traces to its book and page.
 
@@ -127,6 +127,18 @@ textbook.
 
 **Book 80:** *Mathematics, Compulsory Volume 3 （必修第三册）, B edition* (senior student book) — China, People's Education Press (PEP), Chinese. The held copy's imprint is redacted, so no full ISBN or printing year is quotable for this book. Filed in maths/books/china.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 81:** *Mathematics, Class 7* (student book) — Pakistan (Punjab), PCTB, Lahore, Experimental Edition under the SNC 2022, English-medium; authors Muhammad Akhtar Shirani, Madiha Mehmood, Dr. Tanveer Iqbal Mughal and Majid Hameed; no ISBN printed. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 82:** *Mathematics, Class 8* (student book) — Pakistan (Punjab), PCTB, Lahore, Experimental Edition under the SNC 2022, English-medium; authors Dr. Shafiq-ur-Rehman, Muhammad Ishfaq Baig, Muhammad Akhtar Shirani and Madiha Mehmood; no ISBN printed. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 83:** *Mathematics, Class 9 (Science Group)* (student book) — Pakistan (Punjab), PCTB, held in the eLearn.Punjab digital edition, version 1.1, English-medium; the held copy has no cover, imprint or contents pages, so no edition year or ISBN can be proved from it; pagination restarts at printed p. 1 in every chapter and its pages are cited by chapter. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 84:** *Mathematics, Class 11* (student book) — Pakistan (Punjab), Punjab Education, Curriculum, Training and Assessment Authority (PECTAA), Experimental Edition under the National Curriculum of Pakistan 2023 (NCP-2023), English-medium; no ISBN printed; as printed it is a PECTAA book, not a PCTB or SNC book. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 85:** *Mathematics, Class 12* (student book) — Pakistan (Punjab), PCTB, held in the eLearn.Punjab digital edition, version 1.1, English-medium; the held copy has no cover, imprint or contents pages, so no edition year or ISBN can be proved from it; pagination restarts at printed p. 1 in every chapter and its pages are cited by chapter. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 86:** *A Textbook of Statistics for Class 12* (student book; Part II — Chapters 10–17, Chapters 1–9 being the Class 11 book) — Pakistan (Punjab), PCTB, Lahore, 1st edition, June 2016 (11th impression), English-medium; author Prof. Muhammad Rauf Chaudhary; no ISBN printed. Held copy: the appendix leaves printed pp. 301–306 are shuffled (all present); no row cites them. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The coordinate plane in all four quadrants with negative coordinates | Jordan, Grade 6 Term 1, Unit 4 "Transformations and geometric constructions", L1 The coordinate plane p.92 |
@@ -222,8 +234,18 @@ textbook.
 | Homothety in coordinates: (x, y) → (±kx, ±ky) | China, Grade 9 Volume 2, Ch. 27, printed pp. 49–52 |
 | The midpoint formula and section-point coordinates, derived by vectors | China, Compulsory Volume 2 (A edition) student book, §6.3, printed pp. 32–33 |
 | The five-point method for sketching y = sin x; the sine curve's axes and centres of symmetry | China, Compulsory Volume 3 (B edition) student book, §7.3, printed pp. 39–42 |
+| The Cartesian coordinate system — axes, origin, quadrants, the ordered pair, abscissa and ordinate (Descartes); plotting points and their quadrants; the graphs of x = a (vertical) and y = b (horizontal); a linear equation graphed from a table of values and from its x- and y-intercepts | Pakistan (Punjab), Class 7 (PCTB), printed pp. 103–109 |
+| The Cartesian plane recapped — axes, origin, quadrants, abscissa, ordinate; graphs of y = c, x = a, y = mx and y = mx + c from tables; the slope of a line from two points | Pakistan (Punjab), Class 8 (PCTB), printed pp. 115–118 |
+| Ordered pairs of real numbers; the Cartesian plane R × R, origin, axes and quadrants; plotting points and drawing shapes from them; tables of pairs for an equation and its graph; the graphs of y = c, x = a, y = mx and y = mx + c; reading a graph and conversion graphs (km ↔ miles, °C ↔ °F, dollars ↔ rupees) | Pakistan (Punjab), Class 9 (PCTB, eLearn.Punjab v1.1), Ch. 8, printed pp. 2–21 |
+| The distance formula derived by Pythagoras and used; collinearity tested by |PQ| + |QR| = |PR|; triangle and quadrilateral types recognised from side lengths; the mid-point formula and its uses | Pakistan (Punjab), Class 9 (PCTB, eLearn.Punjab v1.1), Ch. 9, printed pp. 2–19 |
+| Where a linear function's graph meets the coordinate axes, from a table of values; the graphs of the square-root function y = 2√x + 1 and the cube-root function y = ∛(x−1), with domain and range | Pakistan (Punjab), Class 11 Mathematics (PECTAA), Unit 2, printed pp. 27–30 |
+| The graphs of y = sin x, y = cos x and y = tan x from tables of values — cycle, amplitude, intercepts and the tangent's asymptotes | Pakistan (Punjab), Class 11 Mathematics (PECTAA), Unit 11, printed pp. 206–210 |
+| The distance formula recalled, applied to points given with trigonometric coordinates | Pakistan (Punjab), Class 11 Mathematics (PECTAA), Unit 10, printed p. 177 |
+| Graphs of aˣ, eˣ, lg x and ln x; graphs of implicit relations (the circle, the ellipse) and of parametric curves; discontinuous graphs; the graphical solution of cos x = x | Pakistan (Punjab), Class 12 Mathematics (PCTB, eLearn.Punjab v1.1), Ch. 1, printed pp. 37–43 |
+| Coordinates, the distance formula, the section and mid-point formulas; the centroid and in-centre; slope and inclination, and every form of the straight line with proofs; the distance from a point to a line; the angle between two lines | Pakistan (Punjab), Class 12 Mathematics (PCTB, eLearn.Punjab v1.1), Ch. 4, printed pp. 2–48 |
+| Regression and correlation on the scatter diagram: the least squares line ŷ = a + bx through (x̄, ȳ), fitted by Theorem 14.1; Pearson's correlation coefficient r and its properties (−1 ≤ r ≤ 1); the two regression lines meeting at (x̄, ȳ); Spearman's rank correlation; correlation does not imply causation | Pakistan (Punjab), Statistics Class 12 (PCTB, 2016), Ch. 14, printed pp. 181–206; Ch. 15, printed pp. 236–237 |
 
-**Acceptance count: taught in 21 countries (Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China).**.** South Africa carries the
+**Acceptance count: taught in 22 countries (Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan).**.** South Africa carries the
 plainest gradient teaching — gradient as change in y over
 change in x, with intercepts named, built from tables of
 ordered pairs. Egypt carries the slope rules (m = tan θ,
@@ -244,3 +266,5 @@ here. Laos carries coordinates and graphs from broken-line graphs in Grade 4, th
 **Flagged, not taught as printed:** the Grade 10 teacher guide's Unit 7 answers (printed p. 224) print "√255 + 16 = √41"; since (7 − 2)² = 25, it should read "√25 + 16 = √41". The lesson teaches √25 + 16 = √41. Kuwait carries coordinates only early and partially in these bands — grid coordinates and ordered pairs in Grade 4, and ordered pairs with relations and their graph representations in Grade 8, before any function work. Band C adds coordinate geometry in full — distance and midpoint in Grade 9 Term 1, slope and parallel and perpendicular lines in Grade 9 Term 2, and the whole analytic-geometry unit (segment division, line equations, point-to-line distance, circle equations) in Grade 10 Term 2.
 
 China carries coordinates and graphs from Grade 3 direction work and Grade 7's Cartesian plane, through Grade 9's parabolas and hyperbolas, to vector-derived midpoint formulas and sine-curve sketching in the senior books.
+
+Pakistan (Punjab) carries coordinates and graphs from Class 7's Cartesian plane through Class 9's distance and mid-point formulas and Class 12's full analytic geometry to the statistics book's regression and correlation.

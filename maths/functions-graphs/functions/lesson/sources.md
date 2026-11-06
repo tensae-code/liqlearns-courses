@@ -1,6 +1,6 @@
 # Sources — Functions
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China
+countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan
 
 Every part traces to its book and page.
 
@@ -133,6 +133,12 @@ CITATION CHECK PASSED 2026-11-05).
 
 **Book 75:** *Teacher's Guide for Mathematics, Compulsory Volume 3, B edition* (teacher guide) — China, People's Education Press (PEP), Chinese, 1st edition December 2019, ISBN 978-7-107-24384-4. Filed in maths/books/china.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only, cited only against its proven pairing (the B-edition Compulsory Volume 3 student book); the held copy holds Chapter 7 only (printed pp. 1–146).
 
+**Book 76:** *Mathematics 10 (Science Group)* (student book) — Pakistan (Punjab), Ilmi Kitab Khana printing, Lahore, of the text approved by the Punjab Curriculum Authority (NOC PCA/12/123, 27-11-2012), 1st edition, March 2017, English-medium; authors Muhammad Habib, Ch. Asghar Ali, Prof. Abdul Rauf Khan and Muhammad Moeen; no ISBN printed. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 77:** *Mathematics, Class 11* (student book) — Pakistan (Punjab), Punjab Education, Curriculum, Training and Assessment Authority (PECTAA), Experimental Edition under the National Curriculum of Pakistan 2023 (NCP-2023), English-medium; no ISBN printed; as printed it is a PECTAA book, not a PCTB or SNC book. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 78:** *Mathematics, Class 12* (student book) — Pakistan (Punjab), PCTB, held in the eLearn.Punjab digital edition, version 1.1, English-medium; the held copy has no cover, imprint or contents pages, so no edition year or ISBN can be proved from it; pagination restarts at printed p. 1 in every chapter and its pages are cited by chapter. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Cartesian product (ordered pairs, arrow and Cartesian diagrams, order matters); relations between sets, domain, range and representation; function (also called application): when a relation is a function, its domain, codomain and range, with worked examples; polynomial functions (constant, linear and quadratic) and their graphs | Egypt, Preparatory 3 old Term 1, Unit 1 Relations and functions, 1-1 Cartesian product p.2; 1-2 Relations p.8; 1-3 Function p.11; 1-4 Polynomial functions p.14 (French contents-page numbers) |
@@ -221,8 +227,14 @@ CITATION CHECK PASSED 2026-11-05).
 | The inverse notation arcsin, arccos, arctan, with their principal ranges | China, Compulsory Volume 3 (B edition) student book, §7.3, printed pp. 59–60 |
 | Modelling periodic data — a harbour tide table fitted by y = A sin(ωx + φ) + b | China, Compulsory Volume 3 (B edition) student book, §7.4, printed pp. 64–65 |
 | Guide evidence: the properties of y = sin x read from the sine line before the graph is drawn; inverse values treated as notation only | China, Compulsory Volume 3 (B edition) teacher guide, printed pp. 76–86, 120–127 (teacher evidence) |
+| Ordered pairs and their equality; the Cartesian product A × B; binary relations with their domain and range; functions (mappings) — the definition, domain, co-domain and range, relations that are not functions; into, one-one (injective), onto (surjective) and bijective functions and one-to-one correspondence | Pakistan (Punjab), Class 10 (PCTB-approved, Ilmi Kitab Khana 2017), Unit 5, printed pp. 98–102 |
+| A function as a rule of correspondence; domain, co-domain and range; Euler's f(x) notation and evaluation; the domain and range of rational and square-root functions; the vertical line test; injective, surjective and bijective functions; piecewise functions; the difference quotient | Pakistan (Punjab), Class 11 Mathematics (PECTAA), Unit 2, printed pp. 22–26, 30–33 |
+| The inverse of a quadratic function after restricting the domain to one side of the vertex, with the inverse's domain and range | Pakistan (Punjab), Class 11 Mathematics (PECTAA), Unit 3, printed pp. 36–37 |
+| The domains and ranges of all six trigonometric functions; even and odd functions; periodicity (the period of sine is 2π, of tangent π); sinusoidal functions a + b sin(cθ + d) — vertical shift, amplitude |b|, period 2π/c, phase shift, maximum a + |b| and minimum a − |b| | Pakistan (Punjab), Class 11 Mathematics (PECTAA), Unit 11, printed pp. 200–213 |
+| Limits and continuity: “x approaches a”; the limit of a function and the theorems on limits; the standard limits; the sandwich theorem with sinθ/θ → 1; one-sided limits; continuity at a point (the three conditions); removable and jump discontinuities; the limit of a sequence | Pakistan (Punjab), Class 11 Mathematics (PECTAA), Unit 12, printed pp. 218–236 |
+| The function concept, domain and range, the function machine, the vertical line test, piecewise graphs; the types of functions — polynomial, linear, identity, constant, rational, trigonometric and inverse trigonometric, exponential, logarithmic, hyperbolic; even and odd functions; composition of functions and the inverse of a function by the algebraic method; one-sided limits and continuity | Pakistan (Punjab), Class 12 Mathematics (PCTB, eLearn.Punjab v1.1), Ch. 1, printed pp. 2–35 |
 
-**Acceptance count: taught in 19 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China).**.** Egypt carries the
+**Acceptance count: taught in 20 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan).**.** Egypt carries the
 fullest build — Cartesian product, relation, function, domain
 and range in Preparatory 3; the sign of a function in
 Secondary 1; the inverse function in Grade 11 Pure. Jordan
@@ -247,3 +259,5 @@ taught from Egypt's Grade 11 lesson, not invented. Laos carries functions from m
 **Flagged, not taught as printed:** the Grade 10 teacher guide's Exercise 1.23 answer (printed p. 33) prints y = −x² − 2x + 1 = −(x − 1)² + 2, but −(x − 1)² + 2 expands to −x² + 2x + 1; the correct completed square for the function as written is −(x + 1)² + 2, with axis of symmetry x = −1. The lesson teaches the corrected form. The Grade 11 teacher guide's Review Exercise answer (printed p. 56) prints f(−5/4) = −4 for f(x) = ⌊x − 3⌋; the correct value is −5 (⌊−4.25⌋ = −5). The lesson teaches −5.
 
 China carries functions from the proportional relations of Grade 6, through the quadratic and inverse-proportional functions of Grade 9, to the full trigonometric-function treatment of the senior B-edition Volume 3. (The senior books' trigonometric-function chapters are filed here and under right-triangle trigonometry: the lesson set has no separate trigonometric-functions lesson.)
+
+Pakistan (Punjab) carries functions from Class 10's mappings through the Class 11 PECTAA book's function, graph, limit and continuity units to the Class 12 function types, composition and inverses.

@@ -1,6 +1,6 @@
 # Sources — Symmetry
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan
 
 Every part traces to its book and page.
 
@@ -149,6 +149,16 @@ READ + CITATION CHECK PASSED 2026-11-05).
 
 **Book 54:** *Mathematics, Grade 9, Volume 1 （上册）* (student book) — China, People's Education Press (PEP), Chinese; written to the 2011 curriculum standard (approved 2013). The held copy carries no imprint block, so no edition or ISBN is quotable for this book. Filed in maths/books/china.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 55:** *Mathematics Primer (Pre-I)* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board (PCTB), Lahore, first (experimental) edition under the Single National Curriculum (SNC), English-medium write-in pupil primer; authors Shafia Rafique, Humaira Latif and Arooj Saqib; no ISBN printed. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 56:** *Mathematics, Grade 3* (student book) — Pakistan (Punjab), PCTB, Lahore, Experimental Edition under the SNC 2020, English-medium; authors Prof. Abdul Khaliq Bughlani and Prof. Muhammad Asif Bhatti; no ISBN printed. Held copy: printed p. 79 is blank of text. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 57:** *Mathematics, Grade 4* (student book) — Pakistan (Punjab), PCTB, Lahore, Experimental Edition under the SNC 2020, English-medium, printed by GF Printing Press, Lahore, February 2022; authors Sadia Manzoor and Madeeha Nuzhat Varaich; no ISBN printed. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 58:** *Mathematics, Class 6* (student book) — Pakistan (Punjab), PCTB, Lahore, Experimental Edition under the SNC 2022, English-medium, developed by Educating Youth (EY) Publications; author Waqas Ahmed; no ISBN printed. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 59:** *Mathematics, Class 7* (student book) — Pakistan (Punjab), PCTB, Lahore, Experimental Edition under the SNC 2022, English-medium; authors Muhammad Akhtar Shirani, Madiha Mehmood, Dr. Tanveer Iqbal Mughal and Majid Hameed; no ISBN printed. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Introduction to symmetry: folding and mirror completion (ch.56, Unit 8, printed pp.53–66) | Greece, Grade 1 Teuxos B, ch.56 |
@@ -206,8 +216,13 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Axially symmetric figures and their axes of symmetry, met in patterns and paper cutting | China, Grade 2 Volume 2, Unit 3, printed pp. 29, 33–36 |
 | Axial symmetry on grids: drawing the other half of a figure and its axis | China, Grade 4 Volume 2, Unit 7, printed pp. 82–84 |
 | Central symmetry as a half-turn about a centre; rotational symmetry of regular polygons and of the circle | China, Grade 9 Volume 1, Ch. 23, printed pp. 64–67, 73 |
+| Completing the missing half of a dotted outline picture | Pakistan (Punjab), Primer (PCTB), printed p. 5 |
+| Reflective symmetry and lines of symmetry, including that a rectangle's diagonal is not a line of symmetry | Pakistan (Punjab), Grade 3 (PCTB), Unit 6, printed pp. 150–152 |
+| A line of symmetry dividing a figure into two equal parts; completing a symmetrical figure across a given line of symmetry on grid and dot patterns | Pakistan (Punjab), Grade 4 (PCTB), Unit 6, printed pp. 149–152 |
+| Line symmetry and reflective symmetry defined, with shapes completed across a mirror line; rotational symmetry and its centre defined; the order of symmetry (teach corrected: the Class 6 book's own rotational-symmetry example has order 1, not the declared 4) | Pakistan (Punjab), Class 6 (PCTB), printed pp. 134–135 |
+| Reflective (mirror) symmetry; lines of symmetry counted — square 4, equilateral triangle 3, isosceles triangle 1, rectangle and rhombus 2; rotational symmetry, its centre and its order (square 4, equilateral triangle 3); a regular polygon with n sides has n lines of symmetry, order n and angle of rotation 360°/n | Pakistan (Punjab), Class 7 (PCTB), printed pp. 165–167 |
 
-**Acceptance count: taught in 23 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China).**.** Greece carries symmetry from the very start Iran completes the missing halves of pictures in Grade 1, folds and mirrors shapes in Grade 2, names axial and central symmetry in Grade 5, and adds the centre of symmetry and rotation in Grade 6.
+**Acceptance count: taught in 24 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan).**.** Greece carries symmetry from the very start Iran completes the missing halves of pictures in Grade 1, folds and mirrors shapes in Grade 2, names axial and central symmetry in Grade 5, and adds the centre of symmetry and rotation in Grade 6.
 — folding and mirror completion in Grade 1, the fold-along-the-
 red-line test in Grade 3, axial symmetry in Grade 6, and the
 full axis-and-point symmetry chapter in Grade 7. Kazakhstan
@@ -230,3 +245,5 @@ ladder's fold rule was not needed: the stock proved rich enough
 for symmetry to stand as its own lesson. Laos carries symmetry from grid symmetry in Grade 3, through translation, reflection, rotation and axes of symmetry in Grade 5, to line and point symmetry with bisectors in Grades 6–7 and full isometries in Grade 9. Yemen touches this lesson only in part — line symmetry by folding in Grade 3 only: the fold line is the axis of symmetry and a shape may have more than one axis; no rotational or central symmetry. Nicaragua touches this lesson only in part — line symmetry in Grade 6 only: the concept, the characteristics of symmetric figures and constructing symmetric figures. No rotational symmetry and no central symmetry is taught anywhere in Nicaragua's set. Ethiopia touches this lesson only in part — line symmetry only: symmetrical and non-symmetrical shapes in Grade 3, axis-symmetry inside the lines-and-angles chapter in Grade 5 (not its own topic), lines of symmetry of polygons in Grade 9, and chord symmetry in Grade 10. No rotational or central symmetry is taught anywhere in Ethiopia's set. South Sudan touches this lesson only in part — line symmetry only: lines of symmetry by paper folding in Grade 3 and lines of symmetry of triangles in Grade 5. No rotational symmetry is taught anywhere in South Sudan's set (the Primary 7 guide promises it in its outcomes, but the student book never teaches it). Iraq touches this lesson only in part — reflection symmetry within transformations: translation, reflection and symmetry in Grade 7 and reflection and rotation in the coordinate plane in Grade 8. No standalone symmetry lesson and no rotational or central symmetry of shapes is taught anywhere in Iraq's set. Bangladesh touches this lesson only in part — line symmetry and rotational symmetry with the mirror test in Grade 8 (Exp 8, 8 pages), applied to measurement and garden arrangement. It teaches no central symmetry, and no per-shape line counts or rotation orders (square 4/order 4, rectangle 2/order 2, and the rest), so those parts rest on the other countries. Nepal carries symmetry from line symmetry with mirror completion and tessellation in Grade 6, to line and point symmetry with rotational order and regular, semi-regular and irregular tessellation in Grade 7. Cambodia carries symmetry only in part — symmetry about a point and about a line in Grade 7, with a point symmetric in a diameter in Grade 8; rotational symmetry is not pinned anywhere in the set. Kuwait carries symmetry from lesson 7-1 in Grade 3 and lesson 3-11 in Grade 4, through the Grade 6 geometry unit, to the Grade 7 transformation geometry unit. North Macedonia carries symmetry from Grade 1 (2022), where the line of symmetry is met in the second geometry block.
 
 China carries symmetry as axial symmetry in Grades 2 and 4, and as central and rotational symmetry in Grade 9 Volume 1.
+
+Pakistan (Punjab) carries symmetry from the Primer's complete-the-half pictures through reflective symmetry in Grades 3–4 to Class 7's counted lines and rotational orders.

@@ -1,6 +1,6 @@
 # Sources — Sequences and series
 
-countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China
+countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan
 
 Every part traces to its book and page.
 
@@ -97,6 +97,26 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 54:** *Mathematics, Grade 9, Volume 1 （上册）* (student book) — China, People's Education Press (PEP), Chinese; written to the 2011 curriculum standard (approved 2013). The held copy carries no imprint block, so no edition or ISBN is quotable for this book. Filed in maths/books/china.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 55:** *Mathematics Primer (Pre-I)* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board (PCTB), Lahore, first (experimental) edition under the Single National Curriculum (SNC), English-medium write-in pupil primer; authors Shafia Rafique, Humaira Latif and Arooj Saqib; no ISBN printed. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 56:** *Mathematics, Grade 1* (student book) — Pakistan (Punjab), PCTB, Lahore, Experimental Edition under the SNC, English-medium; author Sadia Jabeen; no ISBN printed. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 57:** *Mathematics, Grade 2* (student book) — Pakistan (Punjab), PCTB, Lahore, Experimental Edition under the SNC, English-medium; author Khalil Ahmad; no ISBN printed. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 58:** *Mathematics, Grade 4* (student book) — Pakistan (Punjab), PCTB, Lahore, Experimental Edition under the SNC 2020, English-medium, printed by GF Printing Press, Lahore, February 2022; authors Sadia Manzoor and Madeeha Nuzhat Varaich; no ISBN printed. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 59:** *Mathematics, Class 6* (student book) — Pakistan (Punjab), PCTB, Lahore, Experimental Edition under the SNC 2022, English-medium, developed by Educating Youth (EY) Publications; author Waqas Ahmed; no ISBN printed. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 60:** *Mathematics, Class 7* (student book) — Pakistan (Punjab), PCTB, Lahore, Experimental Edition under the SNC 2022, English-medium; authors Muhammad Akhtar Shirani, Madiha Mehmood, Dr. Tanveer Iqbal Mughal and Majid Hameed; no ISBN printed. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 61:** *Mathematics, Class 8* (student book) — Pakistan (Punjab), PCTB, Lahore, Experimental Edition under the SNC 2022, English-medium; authors Dr. Shafiq-ur-Rehman, Muhammad Ishfaq Baig, Muhammad Akhtar Shirani and Madiha Mehmood; no ISBN printed. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 62:** *Mathematics, Class 11* (student book) — Pakistan (Punjab), Punjab Education, Curriculum, Training and Assessment Authority (PECTAA), Experimental Edition under the National Curriculum of Pakistan 2023 (NCP-2023), English-medium; no ISBN printed; as printed it is a PECTAA book, not a PCTB or SNC book. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 63:** *A Textbook of Statistics for Class 11* (student book) — Pakistan (Punjab), PCTB, Lahore, 10th edition, May 2017 (academic year 2017-18), English-medium; authors Dr. Faqir Muhammad and Amjad Mehmood; no ISBN printed. Held copy: printed pp. 111–127 stand in a leaf-reversed block (all present, out of order) and are cited by printed page. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 64:** *Mathematics, Class 12* (student book) — Pakistan (Punjab), PCTB, held in the eLearn.Punjab digital edition, version 1.1, English-medium; the held copy has no cover, imprint or contents pages, so no edition year or ISBN can be proved from it; pagination restarts at printed p. 1 in every chapter and its pages are cited by chapter. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Arithmetic sequence: common difference d; general term aₙ = a₁ + (n−1)d; middle-term (arithmetic mean) formula; sum of the first n terms Sₙ = (a₁+aₙ)/2 · n with a pairing proof, and the 2a₁+(n−1)d form; applied problems (concert-hall seating, population growth, tomato harvest, well-drilling cost) | Kazakhstan, Algebra 9 (Yelemessov, English), §3.2 Arithmetic sequence, p.84; applied problems p.94 |
@@ -162,8 +182,19 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 | Repeating patterns in pictures and in number sequences; finding the next terms | China, Grade 1 Volume 2, Unit 8, printed pp. 85–90 |
 | Pattern items in the general review — no sequence chapter | China, Grade 6 Volume 2, Unit 6, printed pp. 75, 103 |
 | The triangular numbers: 1 + 2 + … + n = n(n + 1)/2, posed through a quadratic equation (activity only) | China, Grade 9 Volume 1, Ch. 21, printed p. 23 |
+| Patterns: tracing and colouring the next shapes to continue a repeating two-shape pattern | Pakistan (Punjab), Primer (PCTB), printed p. 15 |
+| Patterns of shapes, colours and sizes — recognising what a repeating pattern is made of; completing and extending patterns of 2 or 3 elements; making patterns of your own | Pakistan (Punjab), Grade 1 (PCTB), Unit 6, printed pp. 113–115 |
+| Grid patterns continued by shape, size, direction and colour | Pakistan (Punjab), Grade 2 (PCTB), Unit 6, printed pp. 144–145 |
+| Number patterns — arithmetic sequences with a stated rule; patterns on the hundreds chart | Pakistan (Punjab), Grade 4 (PCTB), Unit 1, printed pp. 22–34 |
+| Recognising patterns in sequences — the term, the rule (+, −, ×, ÷) and the next two terms; the square-number sequence and the Fibonacci-type sequence 1, 1, 2, 3, 5, 8, … | Pakistan (Punjab), Class 6 (PCTB), printed pp. 80–81, 92–93 |
+| Number sequences — term-to-term rules and the position-to-term rule; the nth term / general term aₙ and any term found from it; real-life sequences (concert-hall seats) | Pakistan (Punjab), Class 7 (PCTB), printed pp. 78–81 |
+| Arithmetic sequences — the common difference and the nth term aₙ = a₁ + (n − 1)d; geometric sequences — the common ratio and the nth term aₙ = a₁rⁿ⁻¹ | Pakistan (Punjab), Class 8 (PCTB), printed pp. 83–89 |
+| Sequences and nth terms; arithmetic progressions (nth term, arithmetic mean, inserted means) and arithmetic series with Sₙ derived; geometric progressions and geometric series; arithmetico-geometric progressions (sum to n and to infinity); harmonic progressions and the harmonic mean; sigma notation and the telescoping derivations of Σk, Σk², Σk³ (teach corrected: the vehicle-arrivals example's a₁₂ = 48 is the number arriving in the 12th interval — the total over the hour is the series sum S₁₂ = 312) | Pakistan (Punjab), Class 11 Mathematics (PECTAA), Unit 6, printed pp. 88–122 |
+| The limit of a sequence; convergent and divergent sequences, including oscillation as in (−1)ⁿ | Pakistan (Punjab), Class 11 Mathematics (PECTAA), Unit 12, printed pp. 224–225 |
+| The summation sign Σ and the product sign Π, with interval, square and root notation | Pakistan (Punjab), Statistics Class 11 (PCTB, 2017), Ch. 1, printed p. 5 |
+| Maclaurin series — the expansions of 1/(1 + x), sin x, aˣ, eˣ and the binomial series for (1 + x)ⁿ; Taylor series (printed “TAILOR SERIES”) with numerical uses such as sin 31° ≈ 0.5150 | Pakistan (Punjab), Class 12 Mathematics (PCTB, eLearn.Punjab v1.1), Ch. 2, printed pp. 74–81 |
 
-**Acceptance count: taught in 18 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China).**.** Kazakhstan carries
+**Acceptance count: taught in 19 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan).**.** Kazakhstan carries
 the fullest treatment — all four Grade 9 Algebra books prove
 the nth-term formulas, the characteristic properties, both
 sum formulas and the infinite geometric sum, with applied
@@ -184,3 +215,5 @@ the infinite sum rests on Kazakhstan's theorem and Jordan. Laos carries sequence
 **Flagged, not taught as printed:** the Grade 12 student book's sigma-notation property (2) (printed p. 24) prints Σ a_i where the sigma index is k; it should read Σ a_k. A typesetting slip; the lesson teaches Σ a_k.
 
 China carries sequences only in part: repeating and number patterns in Grade 1, pattern items in the Grade 6 review, and the triangular-number sum posed as an activity in Grade 9 — no sequences chapter exists in the held set, so China enters this lesson as a partial.
+
+Pakistan (Punjab) carries sequences from the Primer's patterns and the primary number patterns through Class 8's arithmetic and geometric nth terms to Class 11's full progressions and series and the Class 12 Maclaurin and Taylor series.
