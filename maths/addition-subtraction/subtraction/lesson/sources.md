@@ -90,6 +90,7 @@ Every part traces to its book and page.
 **Book 81:** *Mathematics, Grade 4, Term 1 student book* — Kuwait, Ministry of Education, First Edition 1447H / 2025–2026. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 **Book 82:** *Mathematics, Grade 6, Term 2 student book* — Kuwait, Ministry of Education, 1st edition 1447 AH / 2025–2026. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 **Book 83:** *Mathematics, Grade 8, Term 1 student book* — Kuwait, Ministry of Education, 2nd edition 1448 AH / 2026–2027, ISBN 978-9921-33-121-9. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
+**Book 84:** *Mathematics, Grade 2 Term 2, old series (Education 2.0 'Discover') — Arabic and English editions* — Egypt, Ministry of Education and Technical Education, 2025–2026. Filed in maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED 2026-11-06 — gap batch). One work in two language editions; cited from the English edition, the Arabic edition checked lesson-for-lesson at the same printed pages (PDF page = printed page in both editions).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -104,6 +105,8 @@ Every part traces to its book and page.
 | Subtraction with regrouping ones; tens; numbers containing zeros | Libya, Grade 2 pupil's book, Unit 2, pp.36–43 |
 | Subtraction with and without carrying | Mauritania, Grade 2 student book |
 | Borrowing 1 from hundreds to tens, then 1 from tens to ones (107 − 59 = 48) | Egypt, Grade 2 Term 1 (old Discover series), Chapter 8, Part 5 |
+| Subtraction on the number line — counting back and counting up | Egypt, Grade 2 Term 2 (old Discover series), Chapter 10, printed p. 49 |
+| Pattern tables inside regrouping subtraction | Egypt, Grade 2 Term 2 (old Discover series), Chapter 10, printed p. 55 |
 | Subtraction to 10,000: regrouping hundreds and thousands; regrouping ones, tens and hundreds; subtracting numbers containing zeros | Libya, Grade 3 pupil's book, Unit 3, pp.31–45 |
 | Subtraction WITH regrouping within 100 | Vietnam, Toán 2, p.72 |
 | Worked answer flagged WRONG in the filing and never taught: '15 − 3 = 18' (the true answer is 12) | Ghana, DL workbook Level 2, p.27 (flagged in maths/books/ghana.md) |

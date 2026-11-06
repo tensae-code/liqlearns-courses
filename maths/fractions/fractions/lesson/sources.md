@@ -189,6 +189,11 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 89:** *Mathematics, Grade 5, Term 2 student book* — Kuwait, Ministry of Education, 1st edition 1447 AH / 2025–2026. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 **Book 90:** *Mathematics, Grade 6, Term 1 student book* — Kuwait, Ministry of Education, 2nd edition 1448 AH / 2026–2027, ISBN 978-9921-33-067-0. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 **Book 91:** *Mathematics, Grade 7, Term 2 student book* — Kuwait, Ministry of Education, 1st edition 1447 AH / 2025–2026. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
+**Book 92:** *Mathematics, Grade 2, Student Book, Term 2* (old
+'Education 2.0 Discover' series — Arabic and English editions) —
+Egypt, Ministry of Education and Technical Education, 2025–2026.
+Filed in maths/books/egypt.md (Work 5 section, FULLY READ +
+CITATION CHECK PASSED 2026-11-06 — gap batch).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -196,6 +201,8 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 | Writing a fraction; numerator and denominator; the bar means division; unit fractions; one whole as unit fractions | Kazakhstan, Grade 5, Ch.3 §3.1 The common fraction, p.127; Armenia, Grade 4, Part II §3 Fraction, numerator, denominator, p.86; Egypt, Grade 3 Term 2, Ch.8, Lessons: More Fractions p.25, Exploring Unit Fractions p.28, Expressing One Using the Unit Fractions p.37 |
 | A fraction of a set; the whole as a group; sharing before symbols | Jordan, Grade 1 Term 2, Unit 9, L4 The fraction as part of a set/group, p.56; Vietnam, Grade 3 Volume 1, Bài 14 "Một phần mấy" (one part out of how many), p.42; Ghana, JICA B3 teacher manual, L66–73 fractions of a group of objects (bottle tops) and of lengths (teacher evidence); South Africa, Grade 3 Workbook 1, units 118–126, printed pp.116–130 (equal sharing leading to fractions, fractions of collections) |
 | Fractions on the number line; plotting by dividing the unit segment | Egypt, Grade 3 Term 2, Ch.9, Representing Fractions on a Number Line, p.45; Armenia, Grade 5, Ch.6 §6.3 Fractions on the coordinate ray, p.145; Kazakhstan, Grade 5, Ch.3 §3.5 Fractions and mixed numbers on the coordinate ray, p.153; Sierra Leone, Primary 3 Term 3, L126–130 unit and non-unit fractions on the number line, printed pp.12–23 (teacher plans) |
+| First fractions, a year earlier: a fraction needs EQUAL parts — halves, thirds and quarters; fractions with numerators more than 1 (2/3, 3/4, 2/4; 4/4 = one whole) | Egypt, Grade 2 Term 2 (old Discover series), Chapter 11, printed pp. 61–66 |
+| Fraction as part of a whole and as part of a group (2 of 4 balls red); a fraction wall meeting 2/4 beside 1/2 VISUALLY only — no equivalence rule is stated (the rule is Grade 3's, filed above) | Egypt, Grade 2 Term 2 (old Discover series), Chapter 11, printed pp. 67–78 |
 | Comparing fractions: same denominator, same numerator, different in both | Kazakhstan, Grade 5, Ch.3 §3.7 Comparing fractions and mixed numbers, p.167; Egypt, Grade 3 Term 2, Ch.9, Comparing Two Fractions with the Same Numerator or Denominator, p.55; Jordan, Grade 3 Term 2, Unit 9, L6 Comparing fractions p.54, L7 Ordering fractions p.56; Greece, Grade 5 Teuxos A, Unit 3, ch.17 Comparing and ordering fractions, printed pp.47–48 |
 | Equivalent fractions: same amount, different writing; the multiply/divide rule | Egypt, Grade 3 Term 2, Ch.10, Equivalent Fractions of a Half p.67, More of Equivalent Fractions p.72, Patterns of Equivalent Fractions p.76; Greece, Grade 3, Unit 4, ch.25 Equivalent fractions, printed pp.17–28; Jordan, Grade 4 Term 2, Unit 6, conceptual activity: equivalent fractions p.8, L1 Equivalent fractions p.9; Armenia, Grade 5, Ch.6 §6.4 Equality of fractions, p.147; Ghana, JICA B4 teacher manual, L53–61 equivalent fractions by folding paper strips (teacher evidence); Sierra Leone, Primary 4 Term 2, L68 Equivalent Fractions p.19, L70 Equivalent, Like and Related Fractions p.23 (teacher plans) |
 | Proper, improper and mixed numbers; moving between improper and mixed | Kazakhstan, Grade 4 Part 3, L112 Proper and improper fractions p.106, L113 Fractions; mixed numbers p.110; Kazakhstan, Grade 5, Ch.3 §3.3 Proper and improper fractions p.142, §3.4 Mixed numbers p.147; Jordan, Grade 4 Term 2, Unit 6, L3 Mixed numbers and improper fractions p.18; Greece, Grade 5 Teuxos A, Unit 3, ch.14 Fractions larger than the whole unit; mixed numbers, printed pp.41–42; Armenia, Grade 5, Ch.6 §6.7 Mixed numbers, p.153; South Africa, Grade 6 Book 1, ws 9a–9b proper, mixed and improper fractions defined, printed pp.14–45 |
@@ -281,8 +288,10 @@ clock faces and the full Grade 5 fraction course with the
 comparing and part-of-a-number rules; Jordan carries the youngest
 path (halves and quarters only in Grade 1, then the full first
 course in Grade 3 and equivalence with mixed numbers in Grade 4);
-Egypt carries the model-first course — unit fractions, the number
-line, and equivalence as patterns; Greece carries lived sharing
+Egypt carries the model-first course — first fractions at
+Grade 2 Term 2 (equal parts; halves, thirds and quarters;
+part of a whole and part of a group), then unit fractions, the
+number line, and equivalence as patterns; Greece carries lived sharing
 (6 sweets for 3 children, identical chocolate bars) and the
 fraction-as-division chapter; Armenia carries the naming lesson
 (numerator, denominator) and the coordinate-ray plotting rule;
