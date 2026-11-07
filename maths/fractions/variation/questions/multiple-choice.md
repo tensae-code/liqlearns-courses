@@ -33,3 +33,7 @@ a) 3  b) 6  c) 24
 **8. (Level 3)** A charge follows y = 8 + 2x. The constant (still) part is:
 a) 2  b) x  c) 8
 **Answer:** c) 8 — in partial variation y = a + bx, a = 8 never moves.
+
+**9. (Level 1)** A falling body follows d = 16t², as in Pakistan's Class 10 Variations unit. The distance when t = 3 is:
+a) 48  b) 144  c) 80
+**Answer:** b) 144 — d varies as the square of t, and 16 × 3² = 16 × 9 = 144.

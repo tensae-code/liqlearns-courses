@@ -19,3 +19,6 @@ Fill each blank with the missing number, letter or word.
 
 **6. (Level 3)** In partial variation y = a + bx, the part that never moves is ______.
 **Answer:** a — a is the constant part; bx is the varying part.
+
+**7. (Level 2)** Light weakens as the inverse square of the distance, as in Pakistan's Class 10 unit. If the distance doubles, the light becomes ______ of what it was.
+**Answer:** one quarter (1/4) — the distance is squared underneath, so doubling it divides the light by 2² = 4.

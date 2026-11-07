@@ -19,3 +19,6 @@ Say true or false. If it is false, say why.
 
 **6. (Level 3)** In partial variation, when x = 0 the value of y is a.
 **Answer:** True — y = a + b × 0 = a, the still part alone.
+
+**7. (Level 3)** Gravitation varies jointly as the two masses and inversely as the square of the distance between them, as in Pakistan's Class 10 unit — so doubling one mass, with everything else fixed, doubles the gravitation.
+**Answer:** True — the mass sits in the top product of G ∝ m₁m₂/d², so it pulls in direct proportion.

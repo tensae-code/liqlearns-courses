@@ -308,7 +308,6 @@ Inventory detail lives in `liqlearns-courses-work/catch-up-maths/inventory-*.md`
 - Bangladesh — C7 Exp.7 pp.141–160; C8 Exp.9 pp.189–206 — binary; radix point; (23.25)₁₀=(10111.01)₂; 1's/2's complements
 - Nepal — G7 Unit 12; G8 Unit 11 — binary and bases
 - Pakistan — G12 Statistics Ch.17 pp.281–284 — binary/octal/hexadecimal for computers (the rest of Ch.17 is computer history — not maths, excluded)
-- Libya — primary/secondary books as filed — number bases
 
 ### 54 numerals-of-the-world
 - Laos — G6 (2010) L1 pp.1–9 — Roman I,V,X,L,C,D,M with repetition/subtraction rules, conversions to MMMCMXCIX
@@ -333,6 +332,7 @@ Inventory detail lives in `liqlearns-courses-work/catch-up-maths/inventory-*.md`
 ### 57 variation
 - Sierra Leone — SSS2 L17–20 — joint and partial variation
 - Jordan — G-books as filed — direct/inverse base forms only
+- Pakistan — Class 10 Variations unit pp.49–73 — full variations treatment
 
 ### 58 polynomial-division
 - Ethiopia — G10 Unit 2 — division; remainder and factor theorems PROVED

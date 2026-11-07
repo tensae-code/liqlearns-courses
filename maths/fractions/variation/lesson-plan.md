@@ -25,6 +25,8 @@ shown changing.
 2. Write inverse variation as y = k/x (so xy = k), find k, and use it (Sierra Leone, L18 Inverse Variation, p.48; Jordan, L5 Inverse variation, p.30).
 3. Write joint variation — one quantity varying as the product of two or more others — and find its constant (Sierra Leone, L19 Joint Variation, p.51).
 4. Handle partial variation: one part constant, one part varying, y = a + bx, finding a and b from two given pairs (Sierra Leone, L20 Partial Variation, p.54).
+5. Work inside a proportion in Pakistan's way: name antecedent and consequent, extremes and means, use product of extremes = product of means, and find third, fourth and mean proportionals and continued proportion (Pakistan, Class 10, Unit 3 Variations, §3.1 and Ex. 3.1, Ex. 3.3, printed pp.49–73).
+6. Use variation with powers and mixed joint forms, and reshape a proportion with the theorems (invertendo, alternendo, componendo, dividendo, componendo-dividendo) and the k-method: a falling body d = 16t², gravitation G ∝ m₁m₂/d², (3a + 4b) : (5a + 7b) = 47:81 when a:b = 5:8 (Pakistan, Class 10, Unit 3 Variations, Ex. 3.2, Ex. 3.4–Ex. 3.7, printed pp.49–73).
 
 ## What you need
 Paper and a pencil. A spring or a rubber band and some weights help for the hands-on, but coins and a strip of elastic will do.
@@ -56,4 +58,4 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Partial variation feels like two problems → it is: the constant part a is what y is when x is 0; find b from how fast y grows, then check with the second pair (Sierra Leone, L20, p.54).
 
 ## Teacher note
-The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Sierra Leone SSS 2 Term 1, L17–L20; Jordan Grade 7 Term 2, Unit 5). Jordan's books carry only the direct and inverse base forms; joint and partial variation rest on Sierra Leone alone, and the lesson says so. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.
+The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Sierra Leone SSS 2 Term 1, L17–L20; Jordan Grade 7 Term 2, Unit 5; Pakistan Class 10, Unit 3 Variations, pp.49–73). Jordan's books carry only the direct and inverse base forms; joint and partial variation rest on Sierra Leone alone, and the lesson says so. Pakistan adds the proportion machinery — proportionals, the five theorems and the k-method — plus variation with powers and real-life joint forms; it is not cited for partial variation. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

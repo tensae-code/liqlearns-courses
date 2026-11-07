@@ -25,3 +25,9 @@ Write the law (the equation with k in it) before giving the number.
 
 **8. (Level 3)** Using your a and b from question 7, find y when x = 10.
 **Answer:** 36 — y = 6 + 3 × 10 = 36.
+
+**9. (Level 1)** Two numbers are in the ratio 3:4. When 2 is added to each, the ratio becomes 5:6. Find the two numbers (Pakistan, Class 10, Unit 3).
+**Answer:** 3 and 4 — write the numbers as 3x and 4x; (3x + 2)/(4x + 2) = 5/6 gives x = 1.
+
+**10. (Level 3)** If a:b = 5:8, find (3a + 4b) : (5a + 7b) (Pakistan, Class 10, Unit 3).
+**Answer:** 47:81 — put a = 5 and b = 8 in each part: 3 × 5 + 4 × 8 = 47 and 5 × 5 + 7 × 8 = 81.

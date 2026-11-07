@@ -11,4 +11,4 @@ Level 1 questions from the type files. Pass mark: recognise direct variation, wr
 Level 2 questions from the type files. Pass mark: recognise inverse variation, write y = k/x with xy = k, find k from one pair, and use it for new values.
 
 ## Level 3 — joint and partial variation
-Level 3 questions from the type files. Pass mark: write joint variation as a product with one constant and use it, and split partial variation into its constant part and varying part (y = a + bx), finding a and b from two pairs.
+Level 3 questions from the type files. Pass mark: write joint variation as a product with one constant and use it, and split partial variation into its constant part and varying part (y = a + bx), finding a and b from two pairs. Pakistan's Class 10 items also sit here: joint forms mixed with an inverse square, and reshaping a proportion with its theorems and the k-method (Unit 3, printed pp.49–73).
