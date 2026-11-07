@@ -1,6 +1,6 @@
 # Sources — The Real Number System
 
-countries: Pakistan, Syria, Malaysia, Rwanda
+countries: Pakistan, Syria, Malaysia, Rwanda, Sudan
 
 Every part traces to its book and page.
 
@@ -17,6 +17,16 @@ Every part traces to its book and page.
 **Book 8:** *Primary Learner's Mathematics P4 for Rwanda Schools* (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 9:** *Mathematics for Rwandan Schools — Senior 1 Student's Book* — Rwanda, Longhorn Publishers (Rwanda) Ltd, 2016, ISBN 978 9997 74 483 8 (as printed). No REB approval wording is printed anywhere in the book. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 10:** *Mathematics, Grade 4* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, second edition 2021, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 11:** *Mathematics, Grade 7 (First Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2021, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 12:** *Mathematics, Grade 8 (Second Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2022, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 13:** *Mathematics, Grade 10 (First Year Secondary)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, Arabic; no edition or year is printed in the book. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 14:** *Mathematics, Grade 11 (Second Year Secondary)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, Arabic; no edition or year is printed in the book (the held file’s first page is a distributor wrap, not the book’s cover). No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -37,10 +47,20 @@ Every part traces to its book and page.
 | Sets of numbers and their notation — natural N (the book includes 0 in N), integers Z, rationals, decimals, reals — with the Venn diagram real ⊃ rational ⊃ integer ⊃ natural, subsets of the integers, and rationals and irrationals together making the reals | Rwanda, Senior 1 Student's Book, Unit 2, printed pp. 37–38, 44–45, 60–62 |
 | Summary of properties of operations on real numbers: commutative, associative, distributive, identity elements | Rwanda, Senior 1 Student's Book, Unit 2, printed p. 62 |
 
-**Acceptance count: taught in 4 countries (Pakistan, Syria, Malaysia, Rwanda).** Pakistan carries this lesson whole, and in a deliberate order that this lesson keeps: the laws are first verified on numbers family by family — the distributive property on whole numbers and the commutative and associative properties on fractions in Grade 5 (printed pp.13–15, 31–38), the integer laws with both identities and subtraction's failure in Grade 6 (printed pp.32–33, 38–39), and all three laws on rationals in Grade 7 (printed pp.16–19) — and only then, in Grade 8, is the system itself drawn (N ⊂ W ⊂ Z ⊂ Q ⊂ R with the irrationals Q′, printed pp.1–3) and the properties stated in general form for all real numbers (printed pp.6–9). The catch-up plan's source rows for this lesson are Pakistan's alone; no other country's filing was filed as a source row for it, so the acceptance count is one country, honestly.
+| Whole numbers defined; numbers to tens of thousands — the numbers 0, 1, 2, 3, … are called whole numbers; read and write numbers within tens of thousands (27,536; 15,420) on abacus and place chart | Sudan, Grade 4 Mathematics, printed p. 3 |
+| Rational numbers — Rational number defined as أ/ب with ب ≠ 0, from families of equivalent fractions collapsing to one simplest form; numerator/denominator named; every integer is rational; ص (integers) ⊂ ن (rationals) | Sudan, Grade 7 Mathematics (First Year Intermediate), printed p. 3 |
+| Rational numbers as decimals — terminating decimals; denominator test — reduced denominator's prime factors only 2 and 5 | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 5 |
+| Recurring decimals — purely recurring decimals (0.666…, 0.727272…) and bar notation for the repeating block | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 9 |
+| Irrational numbers — non-terminating non-recurring decimals recognised by pattern; √ of non-squares; number systems built by successive extension | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 21 |
+| The set of real numbers — reals = rationals ∪ irrationals; nested-subset diagram of ط ⊂ ك ⊂ ص ⊂ ن ⊂ ح; reals on the number line | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 25 |
+| Absolute value — Absolute value of a real number defined piecewise (within 2-8) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 70 |
+| Number systems — The number families: naturals, whole numbers, integers, rationals, irrationals, and the reals as their union, with a nesting diagram (3-1) | Sudan, Grade 11 Mathematics (Second Year Secondary), printed p. 68 |
+**Acceptance count: taught in 5 countries (Pakistan, Syria, Malaysia, Rwanda, Sudan).** Pakistan carries this lesson whole, and in a deliberate order that this lesson keeps: the laws are first verified on numbers family by family — the distributive property on whole numbers and the commutative and associative properties on fractions in Grade 5 (printed pp.13–15, 31–38), the integer laws with both identities and subtraction's failure in Grade 6 (printed pp.32–33, 38–39), and all three laws on rationals in Grade 7 (printed pp.16–19) — and only then, in Grade 8, is the system itself drawn (N ⊂ W ⊂ Z ⊂ Q ⊂ R with the irrationals Q′, printed pp.1–3) and the properties stated in general form for all real numbers (printed pp.6–9). The catch-up plan's source rows for this lesson are Pakistan's alone; no other country's filing was filed as a source row for it, so the acceptance count is one country, honestly.
 
 Syria classifies the number families in the Grade 9 Algebra opener — rationals characterised (a terminating or eventually periodic decimal), π and √2 proved irrational in the exercises, and every real number located on the number line — before its Grade 7 book has already placed rationals and integers on the line as families.
 
 Malaysia enters the real number system in Form 1, where rational numbers are defined in the p/q form and every number kind met so far is tested against the definition, and returns in Additional Mathematics Form 4, where recurring decimals are converted to fractions twice over — by algebra, and as a sum to infinity of a geometric progression.
 
 Rwanda enters the real number system in P4, where natural and whole numbers are defined as sets, and in Senior 1, where the sets of numbers and their notation (N, Z, rationals, decimals, reals), the Venn diagram of the sets, and the summary of the properties of operations on real numbers are taught — the Senior 1 book includes 0 in N.
+
+Sudan assembles the number systems in stages: whole numbers defined in Grade 4, rationals in Grade 7, then Grade 8's full construction — terminating and recurring decimals, irrationals recognised by pattern, the reals as rationals ∪ irrationals with the nested-subset diagram and the number line — with absolute value in Grade 10 and the systems reviewed in Grade 11.
