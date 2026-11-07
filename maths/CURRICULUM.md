@@ -177,6 +177,11 @@ pattern by its rule.*
 - coordinates-and-graphs ✅ — plotting points, straight-line graphs, gradient and intercept
 - functions ✅ — inputs and outputs, function machines, composite and inverse functions
 - sequences-and-series ✅ — arithmetic and geometric sequences, sums, series
+- coordinate-geometry ✅ — the section formula, distance from a point to a line, the equation of a circle, coordinate proofs (Level 80, catch-up build 2026-11-06)
+- step-and-piecewise-functions ✅ — the floor function, step functions and piecewise definitions (Level 81, catch-up build)
+- trigonometric-functions ✅ — trigonometric functions of any angle, their graphs, period, amplitude and phase (Level 82, catch-up build)
+- polar-coordinates ✅ — polar coordinates (Level 83, catch-up build)
+- special-sequences ✅ — harmonic and arithmetico-geometric sequences, square, cube and triangular numbers (Level 84, catch-up build)
 
 ## Stage 11 — Statistics and Probability
 *End of stage: the learner can collect and show data, sum it
@@ -185,6 +190,8 @@ up with averages, and say how likely things are.*
 - collecting-and-showing-data ✅ — tables, bar charts, pie charts, histograms
 - averages-and-spread ✅ — mean, median, mode, range, quartiles
 - probability ✅ — chance, listing outcomes, probability of one event and of combined events
+- relations ✅ — ordered pairs, the Cartesian product, binary relations and equivalence relations (Level 85, catch-up build 2026-11-06)
+- carroll-diagrams ✅ — Carroll diagrams: sorting by two properties at once (Level 86, catch-up build)
 
 ## Stage 12 — Advanced Mathematics
 *End of stage: the learner can work with logarithms, complex
