@@ -378,10 +378,47 @@ three-word family.*
 - phrasal-verbs ✅ (catch-up build 2026-11-07 — 1 lesson,
   16 question items; filed under the Word title)
 
+## Level 42 — Reading Like a Detective
+*End of level: the learner can read between the lines and
+choose a reading strategy on purpose.*
+- reading-between-the-lines ✅ · ways-to-read ✅ (catch-up
+  build 2026-11-07 — 2 lessons, 34 question items)
+
+## Level 43 — Words About Words
+*End of level: the learner can use idioms and collocations,
+talk about literature, spot the British/American split, and
+choose the register that fits the place.*
+- idioms-and-collocations ✅ · literary-words ✅ ·
+  british-and-american-english ✅ · choosing-your-register ✅
+  (catch-up build 2026-11-07 — 4 lessons, 69 question items)
+
+## Level 44 — Tests, Translating, Other Ways
+*End of level: the learner can work an exam paper by its
+instruction verbs, translate by meaning, and knows the other
+ways people communicate.*
+- exam-technique ✅ · translating-well ✅ ·
+  other-ways-to-communicate ✅ (catch-up build 2026-11-07 —
+  3 lessons, 51 question items)
+
 ## After Level 18
 The ladder keeps climbing — longer essays and the Story → Novel
 titles. Later blocks get their own level numbers here, in this
 file, as the reading reaches those books.
+
+**CATCH-UP BUILD COMPLETE 2026-11-07.** Under his ruling that
+everything the read books teach goes into the course (README,
+commit 17e6715), the six-sweep inventory of all 42 country
+filings (~250 uncovered topic blocks, filed in
+CATCH-UP-PLAN.md) was built into **110 new lessons**: 34 inside
+existing levels (5, 7, 3, 2, 8) and 76 across new Levels
+19–44, carrying **2,229 new question items**. The English path
+now stands at **161 lessons across 44 levels**. Every lesson
+stands alone (direct-entry rule), cites its books in the
+standard sources shape, and teaches book errors corrected,
+never as fact. What remains outside the lessons is only the
+plan's EXTENSION STOCK list — sub-points that deepen an
+existing lesson's own topic, recorded in CATCH-UP-PLAN.md
+with their filing evidence for a later stocking pass.
 
 ---
 *Kept current as books are read: when a book is finished, its units are

@@ -106,6 +106,42 @@ its own subtitle folder with its own lesson + questions):
 - Story → the-story · telling-a-story-back ·
   the-big-reading (built 2026-10-27 — **Level 17, Stories**;
   with this, all 17 levels of the English path are built)
+**Catch-up build 2026-11-07 (110 lessons, Levels 19–44 plus
+additions inside Levels 2, 3, 5, 7, 8 — full map in
+CATCH-UP-PLAN.md and CURRICULUM.md):** Sentence → question-tags ·
+subject-and-object-questions · reported-statements ·
+reported-questions · reported-commands · speech-marks ·
+relative-clauses · non-defining-relative-clauses ·
+participle-clauses · gerunds-and-infinitives · the-causative ·
+verbs-with-two-objects · wish-and-if-only · more-conditionals ·
+how-sure-you-are · modal-perfects · articles · quantifiers ·
+someone-anyone-no-one · reflexive-pronouns · stronger-comparisons ·
+double-comparatives · the-passive-in-every-tense · adjective-order ·
+participle-adjectives · stative-verbs · too-enough-so-such ·
+connectors-and-clauses · subject-verb-agreement ·
+fixing-sentence-errors · cleft-sentences · object-clauses ·
+used-to-and-would · exclamations-and-orders · the-past-perfect ·
+the-past-perfect-continuous · the-past-continuous ·
+future-continuous · future-perfect · plans-in-the-past ·
+Essay → the-formal-letter · job-application-letters ·
+complaint-letters · letters-that-ask-and-advise ·
+cv-and-cover-letter · personal-statements-and-proposals ·
+job-interviews · report-writing · news-writing · process-writing ·
+forms-minutes-and-questionnaires · review-writing ·
+blog-and-online-posts · article-writing ·
+advertisements-and-posters · speech-writing · presentation-skills ·
+play-scripts · essay-kinds · note-making · summarising ·
+diary-and-journal · biography-writing ·
+postcards-and-personal-letters · Story → story-techniques ·
+poetry-writing · Paragraph → reading-between-the-lines ·
+ways-to-read · exam-technique · translating-well ·
+other-ways-to-communicate · Word → phrasal-verbs ·
+idioms-and-collocations · literary-words ·
+british-and-american-english · choosing-your-register ·
+ordering-words · Phonics → silent-letters ·
+the-three-sounds-of-ed · stress-and-intonation ·
+Alphabet → joined-up-writing.
+
 Conversation → hello-and-your-name (from Egypt, Primary 1) is kept, and
 filed under its title; it is NOT Lesson 1 of the path.
 
