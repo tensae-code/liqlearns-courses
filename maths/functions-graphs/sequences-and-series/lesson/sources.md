@@ -1,6 +1,6 @@
 # Sources — Sequences and series
 
-countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria
+countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia
 
 Every part traces to its book and page.
 
@@ -123,6 +123,18 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 67:** *Mathematics, Part One, Grade 12 (Scientific track)* — Syria, Ministry of Education (the NCCD is not named on this book's title page), held printing 2025–2026/1447H, first printed 2016–2017, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 68:** *Mathematics, Grade 1, Part One of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1448H–2026 (imprint © 1446H), ISBN 978-603-8527-23-8, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 69:** *Mathematics, Grade 2, Part One of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1448H–2026, ISBN 978-603-8527-27-6, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 70:** *Mathematics, Grade 2, Part Two of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1447H–2025, ISBN 978-603-514-145-1, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 71:** *Mathematics, Grade 2, Third Term* — Saudi Arabia, Ministry of Education, older three-term edition, 1445H–2023, ISBN 978-603-511-285-7, Arabic. A parallel witness: its Chs. 9–13 re-present Part Two's Chs. 9–13 lessons, re-paginated — cited as the 1445 edition witness, not as additional content. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 72:** *Mathematics, Grade 3, Part One of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1447H–2025 (CIP page dated 1446H), ISBN 978-603-8527-25-2, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 73:** *Mathematics, Grade 4, Part One of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1448H–2026, ISBN 978-603-8527-30-6, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Arithmetic sequence: common difference d; general term aₙ = a₁ + (n−1)d; middle-term (arithmetic mean) formula; sum of the first n terms Sₙ = (a₁+aₙ)/2 · n with a pairing proof, and the 2a₁+(n−1)d form; applied problems (concert-hall seating, population growth, tomato harvest, well-drilling cost) | Kazakhstan, Algebra 9 (Yelemessov, English), §3.2 Arithmetic sequence, p.84; applied problems p.94 |
@@ -203,8 +215,14 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 | Solving problems by finding a pattern: stating the rule of a number pattern (add 2, add 3, add 4, …) and continuing it; counting rectangles in tiling models (1, 3, 6, 10, 15) as a growing pattern, in problem solving | Syria, Grade 4 pupil's book, printed pp. 14–15, 120–122 |
 | A sequence defined as a function on a subset of ℕ (terms u_n, index n₀, notation (u_n)) — by an explicit formula u_n = f(n) and by recurrence (a recurrence relation with first term(s) given); monotonicity vocabulary: strictly increasing, strictly decreasing, increasing, decreasing, constant — a sequence satisfying one of these is monotone (مطردة); arithmetic sequence: u_{n+1} = u_n + r with common difference (الأساس) r, general term u_n = u_p + (n−p)r, and the sum of n consecutive terms = n × (first + last)/2; geometric sequence: u_{n+1} = q·u_n with common ratio q, general term u_n = u_p·q^{n−p}, and the sum of n consecutive terms a(q^n − 1)/(q − 1) for q ≠ 1; a 'useful identity': a^n − b^n = (a − b)(a^{n−1} + a^{n−2}b + … + b^{n−1}); three methods for studying monotonicity (جهة اطراد): the sign of u_{n+1} − u_n, the monotonicity of f where u_n = f(n), and comparing u_{n+1}/u_n with 1 for positive-term sequences; recurrence sequences solved in general — the arithmetico-geometric v_{n+1} = av_n + b by its fixed point ℓ (then v_n − ℓ is geometric), and a second-order linear recurrence split into two geometric auxiliary sequences; the cobweb picture for a recurrence u_{n+1} = f(u_n), bouncing between the graph of f and the line y = x | Syria, Grade 12 Scientific, Part One, printed pp. 7–11, 16–17, 121 |
 | The limit of a sequence (Definitions 1–3): u_n → ℓ iff every open interval centred at ℓ contains all terms from some rank on; the limit of a geometric sequence (Theorem 1): qⁿ → 0 when −1 < q < 1, qⁿ → +∞ when q > 1, no limit when q ≤ −1; finding the rank from which terms stay in a target interval (for u_n = (3n − 1)/(n + 1) → 3, |u_n − 3| = 4/(n + 1) < 0.01 exactly when n > 399, so from rank 400 all terms lie in ]2.99, 3.01[); operations and comparison for sequence limits, the squeeze theorem for sequences, and |u_n − ℓ| ≤ v_n with v_n → 0 forcing u_n → ℓ; the limit of a convergent recurrence u_{n+1} = f(u_n) is a fixed point of f (f continuous at ℓ); bounded sequences; monotone convergence (Theorems 7–8): an increasing sequence bounded above converges to its least upper bound; the standard method assembled (u_{n+1} = √(u_n + 1) is increasing and bounded above by 2, hence converges, and its limit solves ℓ = √(ℓ + 1), giving ℓ = (1 + √5)/2); adjacent sequences (متتاليتان متجاورتان) — one increasing, one decreasing, difference tending to 0 — converge to a common limit (Theorem 9); bracketing √2 by adjacent sequences (1.4140625 < √2 < 1.4145508) and bracketing e by sequences from the ln(1 + x) inequalities, their convergence speeds compared | Syria, Grade 12 Scientific, Part One, printed pp. 101–121, 190 |
+| Identifying the repeating part (unit) of a picture pattern; creating your own patterns from two repeating parts; solving story problems by looking for a pattern | Saudi Arabia, Grade 1, Part One, Ch. 3, printed pp. 56–62 |
+| Growing and shrinking number patterns and their rules (grows by 2 as 3, 5, 7, …); a savings pattern (10, 20, 30… riyals) | Saudi Arabia, Grade 2, Part One, Ch. 1, printed pp. 28–29 |
+| Number patterns to 1000 growing or shrinking by 1, 10 or 100; odd and even numbers inside patterns | Saudi Arabia, Grade 2, Part Two, Ch. 9, printed pp. 79–81 |
+| Parallel witness: the same pattern lessons in the older 1445 edition (witness only) | Saudi Arabia, Grade 2, Third Term (1445), Ch. 9, printed pp. 27–29 |
+| Number patterns as the opening algebra lesson: find the rule, write the next numbers and the missing numbers | Saudi Arabia, Grade 3, Part One, Ch. 1, printed pp. 13–15 |
+| A pattern defined as a series of numbers or shapes following a rule; discovering a table's rule and extending the table with new numbers | Saudi Arabia, Grade 4, Part One, Ch. 4, printed pp. 116–119 |
 
-**Acceptance count: taught in 20 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria).**.** Kazakhstan carries
+**Acceptance count: taught in 21 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia).**.** Kazakhstan carries
 the fullest treatment — all four Grade 9 Algebra books prove
 the nth-term formulas, the characteristic properties, both
 sum formulas and the infinite geometric sum, with applied
@@ -229,3 +247,5 @@ China carries sequences only in part: repeating and number patterns in Grade 1, 
 Pakistan (Punjab) carries sequences from the Primer's patterns and the primary number patterns through Class 8's arithmetic and geometric nth terms to Class 11's full progressions and series and the Class 12 Maclaurin and Taylor series.
 
 Syria works repeating patterns from Grade 1 and pattern rules in Grade 4, then gives sequences their full analysis treatment in Grade 12 Part One: arithmetic and geometric sequences with their sums, monotonicity by three methods, recurrence sequences solved in general, and the complete limit theory — monotone convergence, adjacent sequences, and bracketing of √2 and e.
+
+Saudi Arabia teaches patterns from Grade 1 — repeating units first, then growing and shrinking number patterns with stated rules, patterns to 1000 by 1s, 10s and 100s in Grade 2, and the explicit definition (a series following a rule) with table rules in Grade 4, with the older 1445 Term-3 volume witnessing the Grade 2 Part Two chapter.

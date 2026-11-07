@@ -1,6 +1,6 @@
 # Sources — Problem-solving strategies
 
-countries: Iran, Greece, Iraq, China
+countries: Iran, Greece, Iraq, China, Saudi Arabia
 
 Every part traces to its book and page.
 
@@ -17,6 +17,32 @@ Every part traces to its book and page.
 **Book 11:** *Mathematics, Grade 4, Volume 2 （下册）* (student book) — China, People's Education Press (PEP), Chinese, 1st edition October 2014, ISBN 978-7-107-29077-0. Filed in maths/books/china.md (FULLY READ + CITATION CHECK PASSED).
 **Book 12:** *Mathematics, Grade 6, Volume 2 （下册）* (student book) — China, People's Education Press (PEP), Chinese, 1st edition October 2014, ISBN 978-7-107-29103-6. Filed in maths/books/china.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 13:** *Mathematics, Grade 1, Part One of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1448H–2026 (imprint © 1446H), ISBN 978-603-8527-23-8, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 14:** *Mathematics, Grade 1, Part Two of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1447H–2025, ISBN 978-603-514-143-7, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 15:** *Mathematics, Grade 1, Third Term* — Saudi Arabia, Ministry of Education, older three-term edition, 1445H–2023, ISBN 978-603-511-295-6, Arabic. A parallel witness: its Chs. 9–13 re-present Part Two's Chs. 9–13 lessons, re-paginated — cited as the 1445 edition witness, not as additional content. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 16:** *Mathematics, Grade 2, Part One of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1448H–2026, ISBN 978-603-8527-27-6, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 17:** *Mathematics, Grade 2, Part Two of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1447H–2025, ISBN 978-603-514-145-1, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 18:** *Mathematics, Grade 2, Third Term* — Saudi Arabia, Ministry of Education, older three-term edition, 1445H–2023, ISBN 978-603-511-285-7, Arabic. A parallel witness: its Chs. 9–13 re-present Part Two's Chs. 9–13 lessons, re-paginated — cited as the 1445 edition witness, not as additional content. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 19:** *Mathematics, Grade 3, Part One of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1447H–2025 (CIP page dated 1446H), ISBN 978-603-8527-25-2, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 20:** *Mathematics, Grade 3, Part Two of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1447H–2025, ISBN 978-603-514-151-2, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 21:** *Mathematics, Grade 3, Third Term* — Saudi Arabia, Ministry of Education, older three-term edition, 1445H–2023, ISBN 978-603-511-305-2, Arabic. A parallel witness: its Chs. 8–11 re-present Part Two's Chs. 8–11 lessons, re-paginated — cited as the 1445 edition witness, not as additional content. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 22:** *Mathematics, Grade 4, Part One of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1448H–2026, ISBN 978-603-8527-30-6, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 23:** *Mathematics, Grade 4, Part Two of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1447H–2025, ISBN 978-603-514-148-2, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 24:** *Mathematics, Grade 4, Third Term* — Saudi Arabia, Ministry of Education, older three-term edition, 1445H–2023, ISBN 978-603-511-309-0, Arabic. A parallel witness: its Chs. 9–12 re-present Part Two's Chs. 9–12 lessons, re-paginated — cited as the 1445 edition witness, not as additional content. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 25:** *Mathematics, Grade 4, Third Term Exercises Book (كتاب التمارين)* — Saudi Arabia, Ministry of Education, edition 1443H–2021; no ISBN printed in the surviving pages, Arabic. PARTIAL copy: only printed pp. 20–47 survive, so its rows are practice evidence for Chs. 9–12 only — never for Ch. 7/8 content. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The four steps (understand, choose a strategy, solve, look back) and the eight named strategies, one per spread: drawing a figure p.2, systematic listing p.3, eliminating unwanted cases p.4, pattern-spotting p.5, guess and check p.6, sub-problems p.7, solving a simpler problem p.8, symbolic methods p.9; mixed review using all eight pp.10–12 | Iran, Mathematics, Grade 7, Ch. 1 — Problem-solving strategies, pp.1–12 |
@@ -31,5 +57,20 @@ Every part traces to its book and page.
 | The cup-and-bottle differencing puzzle, as review enrichment | China, Mathematics, Grade 3, Volume 2, General review, p.114 |
 | Chickens and rabbits in one cage (35 heads, 94 feet) solved by listing and by the assumption method, with disguised variants | China, Mathematics, Grade 4, Volume 2, Unit 9 — Maths corner, pp.103–107 |
 | Mathematical thinking review: counting segments, 0/1 logic tables, symbol substitution | China, Mathematics, Grade 6, Volume 2, Organise and review, part (4), pp.100–104 |
+| Named strategy lessons inside the number work: use a model (act it out / build it), draw a picture, look for a pattern | Saudi Arabia, Grade 1, Part One, Chs. 1–5, printed pp. 12–13, 38–39, 78–79, 98–99 |
+| Named strategy lessons across the whole Grade 1 course: draw a picture; guess first, then check with a model; write a number sentence — with the explicit final step "is my answer reasonable?"; look for a pattern; guess then check; model it with play money | Saudi Arabia, Grade 1, Part Two, Chs. 7–13, printed pp. 20–21, 46–47, 60–61, 84–85, 100–101, 120–121, 144–145 |
+| Parallel witness: the same strategy lessons in the older 1445 edition (witness only) | Saudi Arabia, Grade 1, Third Term (1445), printed pp. 12–13, 36–37, 52–53, 72–73, 96–97 |
+| A named strategy lesson in nearly every Grade 2 chapter: use logical reasoning; act it out; guess and check; guess then check with a model; make a table; choose a plan (with "is my answer reasonable?"); work backwards; write a number sentence | Saudi Arabia, Grade 2, Part One, Chs. 1–6, printed pp. 15–16, 42–43, 54–55, 68–69, 90–91, 114–115, 130–131, 146–147 |
+| The strategy lessons continue through Grade 2 Part Two: look for a pattern (in time problems); draw a picture; choose a plan; make a list; look for a pattern (in shape problems); guess then check; choose a plan (in measurement); act it out; make a table | Saudi Arabia, Grade 2, Part Two, Chs. 7–13, printed pp. 29–30, 44–45, 54–55, 66–67, 94–95, 112–113, 124–125, 134–135, 158–159 |
+| Parallel witness: the same strategy lessons in the older 1445 edition (witness only) | Saudi Arabia, Grade 2, Third Term (1445), printed pp. 14–15, 42–43, 60–61, 72–73, 82–83, 106–107 |
+| Problem solving systematised as its own lessons: the FOUR STEPS (understand, plan, solve, check); decide exact answer vs estimate; reasonableness as the content of the check step; identify extra or missing information; choose the operation; choose a plan | Saudi Arabia, Grade 3, Part One, Chs. 1–4, printed pp. 16–17, 60–61, 66–67, 88–89, 100–102, 122–123, 131–132 |
+| Strategy lessons through Grade 3 Part Two: choose the operation; make a table; choose a plan; work backwards; solve a simpler problem; draw a picture; make an organised list | Saudi Arabia, Grade 3, Part Two, Chs. 6–11, printed pp. 23–24, 53–54, 63–64, 79–80, 124–125, 131–132, 156–157, 198–199 |
+| Parallel witness: the same strategy lessons in the older 1445 edition (witness only) | Saudi Arabia, Grade 3, Third Term (1445), printed pp. 19–20, 64–65, 71–72, 96–97, 138–139 |
+| The four steps restated; choose a plan (including table-then-pattern); logical-reasoning ordering puzzles; act it out; estimate or exact?; reasonableness checks inside the data and multiplication work | Saudi Arabia, Grade 4, Part One, Chs. 1–6, printed pp. 22–23, 37–38, 54–55, 82–83, 114–115, 125–126, 145–146, 161–162, 183–185 |
+| Strategy lessons through Grade 4 Part Two: guess and check; choose a plan / work backwards; search for a pattern; logical justification in a table; draw a picture; solve a simpler problem; make a model; work backwards | Saudi Arabia, Grade 4, Part Two, Chs. 7–12, printed pp. 22–23, 32–33, 56–57, 118–119, 138–139, 169–170, 191–192, 223–224 |
+| Parallel witness: the same strategy lessons in the older 1445 edition (witness only) | Saudi Arabia, Grade 4, Third Term (1445), printed pp. 38–39, 58–59, 89–90, 111–112, 143–144 |
+| Practice evidence (PARTIAL copy — Chs. 9–12 pages only): logical justification puzzles; draw a picture; choose a plan (work backwards); make a model; work backwards | Saudi Arabia, Grade 4 Exercises Book (1443, partial), printed pp. 25–26, 29–30, 34, 38–39, 45–46 |
 
-**Acceptance count: taught in 4 countries (Iran, Greece, Iraq, China).** Iran carries the fullest treatment: a named strategy in every primary chapter from Grade 2 up, gathered in Grade 7 Chapter 1 into eight named strategies under a four-step frame (understand, choose, solve, look back). Greece teaches the steps explicitly twice — as four steps in Grade 2 Chapter 5 and as five steps in Grade 5 Chapter 3 (read/distinguish, plan, solve, answer, reflect). Iraq makes the plan a lesson in its own right in every chapter of Grade 1 — and, as filed, in every chapter through Grade 8 — each plan lesson naming its own move (use a model, write a number sentence, logical reasoning, draw a picture). China contributes the specialist tools: elimination tables and proto-Sudoku in Grade 2, differencing in Grade 3, chickens-and-rabbits by listing and by the assumption method in Grade 4, and 0/1 logic tables with symbol substitution in the Grade 6 review.
+**Acceptance count: taught in 5 countries (Iran, Greece, Iraq, China, Saudi Arabia).** Iran carries the fullest treatment: a named strategy in every primary chapter from Grade 2 up, gathered in Grade 7 Chapter 1 into eight named strategies under a four-step frame (understand, choose, solve, look back). Greece teaches the steps explicitly twice — as four steps in Grade 2 Chapter 5 and as five steps in Grade 5 Chapter 3 (read/distinguish, plan, solve, answer, reflect). Iraq makes the plan a lesson in its own right in every chapter of Grade 1 — and, as filed, in every chapter through Grade 8 — each plan lesson naming its own move (use a model, write a number sentence, logical reasoning, draw a picture). China contributes the specialist tools: elimination tables and proto-Sudoku in Grade 2, differencing in Grade 3, chickens-and-rabbits by listing and by the assumption method in Grade 4, and 0/1 logic tables with symbol substitution in the Grade 6 review.
+
+Saudi Arabia is this lesson's strongest witness: a NAMED strategy lesson inside nearly every chapter of all four grades — model it, draw a picture, guess and check, look for a pattern, write a number sentence, make a table, make a list, work backwards, solve a simpler problem, choose a plan — gathered into the four steps (understand, plan, solve, check) in Grade 3, with reasonableness, exact-vs-estimate and extra/missing-information lessons of their own, and the older 1445 Term-3 volumes witnessing the Part Two chapters.

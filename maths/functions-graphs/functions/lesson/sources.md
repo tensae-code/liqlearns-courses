@@ -1,6 +1,6 @@
 # Sources — Functions
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria
+countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia
 
 Every part traces to its book and page.
 
@@ -143,6 +143,8 @@ CITATION CHECK PASSED 2026-11-05).
 
 **Book 80:** *Mathematics, Part One, Grade 12 (Scientific track)* — Syria, Ministry of Education (the NCCD is not named on this book's title page), held printing 2025–2026/1447H, first printed 2016–2017, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 81:** *Mathematics, Grade 4, Part One of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1448H–2026, ISBN 978-603-8527-30-6, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Cartesian product (ordered pairs, arrow and Cartesian diagrams, order matters); relations between sets, domain, range and representation; function (also called application): when a relation is a function, its domain, codomain and range, with worked examples; polynomial functions (constant, linear and quadratic) and their graphs | Egypt, Preparatory 3 old Term 1, Unit 1 Relations and functions, 1-1 Cartesian product p.2; 1-2 Relations p.8; 1-3 Function p.11; 1-4 Polynomial functions p.14 (French contents-page numbers) |
@@ -239,8 +241,10 @@ CITATION CHECK PASSED 2026-11-05).
 | The function concept, domain and range, the function machine, the vertical line test, piecewise graphs; the types of functions — polynomial, linear, identity, constant, rational, trigonometric and inverse trigonometric, exponential, logarithmic, hyperbolic; even and odd functions; composition of functions and the inverse of a function by the algebraic method; one-sided limits and continuity | Pakistan (Punjab), Class 12 Mathematics (PCTB, eLearn.Punjab v1.1), Ch. 1, printed pp. 2–35 |
 | A quantity that depends on another, introduced through examples (a circle's circumference depends on its radius; air pressure depends on altitude); the concept built from a concrete case: an 80 m rope is split into two parts, a square is built on each, x is one part's length and A(x) the sum of the two squares' areas — A = (1/8)(x² − 80x + 3200), read from a table and from its curve; the terminology defined: the variable x, its image (صورة) A(x), the preimage (سلف), the function's rule (قاعدة ربط التابع), and the domain (منطلق / مجموعة تعريف) — x must lie between 0 and 80 in the rope example; a function as a number machine: x → square → +1 → ×2 gives f(x) = 2(x² + 1), with f(4) = 34 and 34 also the image of −4; the formal definition: a function f links every value of the variable x to exactly one number, written f(x) and x ↦ f(x); one number may be the image of two different numbers (f(3) = f(−3) = 9), but each number has only one image; three ways of defining a function — by a graph (images and all preimages read off by the perpendicular construction, the domain read from the curve's ends, approximate readings allowed), by a table, and by a formula (evaluating, and solving k(x) = 4 by the zero-product property to x = 0 or x = 5/3); a relation that is not a function: y² = x assigns no unique output; equal functions — two machines that always produce the same output define the same function, proved for two formula-defined functions | Syria, Grade 9 Algebra student's book, printed pp. 77–86, 93 |
 | Graphical solution of f(x) = k: the solutions are the x-coordinates of the intersections of the graph C_f with the line y = k; continuity introduced intuitively — a function is continuous on an interval when its graph is 'one piece', discontinuous where the graph breaks; the integer-part (floor) function E(x): the unique integer n with n ≤ x < n+1 (E(π) = 3, E(−3.5) = −4) — its graph is a staircase, it has no limit at x = 1 and is discontinuous at every integer; the image of an interval under a function, f(I) (the image of an interval under the continuous functions examined is again an interval); the inverse function (التابع العكسي): a continuous strictly monotone f on I is a bijection onto J = f(I), its inverse f^{−1} satisfies f^{−1}(f(x)) = x and f(f^{−1}(y)) = y, and the graphs of f and f^{−1} are symmetric in the line y = x in an orthonormal frame | Syria, Grade 12 Scientific, Part One, printed pp. 19–21, 49–50 |
+| A function introduced as one quantity depending on another; function tables for + and − rules written with symbols (△ + 3, △ − 2), with missing inputs also found | Saudi Arabia, Grade 4, Part One, Ch. 4, printed pp. 120–124 |
+| Function tables for × and ÷ rules (×4, ÷3, ÷2); a unit-conversion table as a function (metres → centimetres, ×100) | Saudi Arabia, Grade 4, Part One, Ch. 4, printed pp. 127–130 |
 
-**Acceptance count: taught in 21 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria).**.** Egypt carries the
+**Acceptance count: taught in 22 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia).**.** Egypt carries the
 fullest build — Cartesian product, relation, function, domain
 and range in Preparatory 3; the sign of a function in
 Secondary 1; the inverse function in Grade 11 Pure. Jordan
@@ -269,3 +273,5 @@ China carries functions from the proportional relations of Grade 6, through the 
 Pakistan (Punjab) carries functions from Class 10's mappings through the Class 11 PECTAA book's function, graph, limit and continuity units to the Class 12 function types, composition and inverses.
 
 Syria defines the function in Grade 9 Algebra from a single worked case — image, preimage, rule and domain all named from it — with the three definitions (graph, table, formula) and a non-function counterexample; Grade 12 Part One then works graphically with f(x) = k and introduces the floor function and the inverse function.
+
+Saudi Arabia introduces the function at primary level inside its Grade 4 algebra chapter — function tables with add/subtract and multiply/divide rules written symbolically, including finding a missing input and a conversion table read as a function.

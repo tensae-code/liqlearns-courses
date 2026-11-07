@@ -1,6 +1,6 @@
 # Sources — Coordinates and graphs
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria
+countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia
 
 Every part traces to its book and page.
 
@@ -149,6 +149,10 @@ textbook.
 
 **Book 91:** *Mathematics — Algebra, Student's Book, Grade 9* — Syria, Ministry of Education, held printing 2025–2026/1446H, first printed 2017–2018, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 92:** *Mathematics, Grade 4, Part Two of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1447H–2025, ISBN 978-603-514-148-2, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 93:** *Mathematics, Grade 4, Third Term Exercises Book (كتاب التمارين)* — Saudi Arabia, Ministry of Education, edition 1443H–2021; no ISBN printed in the surviving pages, Arabic. PARTIAL copy: only printed pp. 20–47 survive, so its rows are practice evidence for Chs. 9–12 only — never for Ch. 7/8 content. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The coordinate plane in all four quadrants with negative coordinates | Jordan, Grade 6 Term 1, Unit 4 "Transformations and geometric constructions", L1 The coordinate plane p.92 |
@@ -259,8 +263,11 @@ textbook.
 | Plotting ordered pairs on a coordinate grid and joining them in order to build a line graph | Syria, Grade 6 pupil's book, printed pp. 3–4 |
 | The coordinate plane (معلم المستوي): two perpendicular number lines — the horizontal axis of abscissae (Ox) and the vertical axis of ordinates (Oy) — meeting at the origin O; the two axes divide the plane into four quadrants; every point has two coordinates, its abscissa and its ordinate, written as an ordered pair (points in each quadrant, on each axis, and the origin (0, 0)); reading the coordinates of marked points and plotting points from a table, including points with rational coordinates | Syria, Grade 7 student's book, printed pp. 27–29, 32 |
 | A first-degree equation in two unknowns has infinitely many solution pairs; each pair is a point, and all its solution points lie on one line; the equation of a line stated as a theorem: the set of points M(x, y) whose coordinates satisfy ax + by = c, with (a, b) ≠ (0, 0), is a line (d), and every point of (d) satisfies the equation; plotting a line from two of its points (2x − y = 1 drawn through A(0, −1) and B(1, 1)); a line through the origin that is not parallel to the y-axis has an equation of the form y = mx; the graphical solution of a system — rewrite each equation as y in terms of x, draw both lines, and read the intersection point ({2x − y = 5, x + y = 4} drawn as y = 2x − 5 and y = −x + 4 meeting at (3, 1)) — and a graphically read solution must be verified in both equations, because a drawing can be imprecise | Syria, Grade 9 Algebra student's book, printed pp. 68–72 |
+| Points on a number line at intervals worth more than one unit (49, 56, 63… — count up by 7s, then by 6s) | Saudi Arabia, Grade 4, Part Two, Ch. 8, printed pp. 76–78 |
+| The coordinate plane: the origin, the two axes, and ordered pairs; describing the move from one point to another; latitude and longitude as a real coordinate system | Saudi Arabia, Grade 4, Part Two, Ch. 8, printed pp. 79–83 |
+| Practice evidence (PARTIAL copy — review strip): ordered pairs naming places on a coordinate grid | Saudi Arabia, Grade 4 Exercises Book (1443, partial), printed p. 20 |
 
-**Acceptance count: taught in 23 countries (Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria).**.** South Africa carries the
+**Acceptance count: taught in 24 countries (Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia).**.** South Africa carries the
 plainest gradient teaching — gradient as change in y over
 change in x, with intercepts named, built from tables of
 ordered pairs. Egypt carries the slope rules (m = tan θ,
@@ -285,3 +292,5 @@ China carries coordinates and graphs from Grade 3 direction work and Grade 7's C
 Pakistan (Punjab) carries coordinates and graphs from Class 7's Cartesian plane through Class 9's distance and mid-point formulas and Class 12's full analytic geometry to the statistics book's regression and correlation.
 
 Syria locates points by ordered pairs in Grades 4–6, with line graphs drawn from tables and read for rises and falls, formalises the plane, its axes and quadrants in Grade 7, and in Grade 9 Algebra makes the straight line itself the graph of ax + by = c — including the graphical solution of a system, always verified in both equations because a drawing can be imprecise.
+
+Saudi Arabia reaches the coordinate plane in Grade 4 — number-line points at multi-unit intervals, then the plane with origin, axes and ordered pairs, finished with latitude and longitude as the real-world system — and the partial exercises book adds grid practice.
