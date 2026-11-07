@@ -1,6 +1,6 @@
 # Sources — Sine and cosine rules
 
-countries: Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Iraq, Cambodia, Kuwait, Iran, China, Pakistan
+countries: Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Iraq, Cambodia, Kuwait, Iran, China, Pakistan, Malaysia
 
 Every part traces to its book and page.
 
@@ -85,6 +85,8 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 
 **Book 31:** *Mathematics, Class 12* (student book) — Pakistan (Punjab), PCTB, held in the eLearn.Punjab digital edition, version 1.1, English-medium; the held copy has no cover, imprint or contents pages, so no edition year or ISBN can be proved from it; pagination restarts at printed p. 1 in every chapter and its pages are cited by chapter. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 32:** *Additional Mathematics Form 4* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-967-2375-42-5 — the held copy is an image-only scan read visually; its contents pages, printed v–vi, are missing, the body is complete) and BM original *Matematik Tambahan Tingkatan 4* (Pan Asia Publications Sdn. Bhd., 2019, ISBN 978-967-466-377-3). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Cosine rule as Theorem 1 (all three forms), proved by vectors; Pythagoras as a special case; comparing a² with b² + c² decides acute/right/obtuse; sine rule as Theorem 3, a/sin α = b/sin β = c/sin γ = 2R, proved through S = ½bc sin α and R = abc/(4S); solving triangles — the four standard cases as algorithms with discussion; the river-width measurement problem solved by sine + cosine rules in sequence | Kazakhstan, Geometry 9 (Shynybekov, Atamura 2019), Chapter 3 Solving triangles, §3.1 cosine rule and sine rule; §3.2 solving triangles; §3.3 applications, pp.108–125 |
@@ -130,8 +132,12 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | The projection theorems — the cosine rule in geometric dress, never named and proved without cosines: in an obtuse-angled triangle a² = b² + c² + 2cx, and in an acute-angled triangle a² = b² + c² − 2cx, where x is the projection of one containing side on the other; Apollonius' theorem for a median | Pakistan (Punjab), Class 10 (PCTB-approved, Ilmi Kitab Khana 2017), Unit 8, printed pp. 171–178 |
 | The cosine law a² = b² + c² − 2bc cos A and the projection law a = b cos C + c cos B, proved with vectors | Pakistan (Punjab), Class 12 Mathematics (PCTB, eLearn.Punjab v1.1), Ch. 7, printed pp. 26–27 |
 | The law of sines a/sin A = b/sin B = c/sin C, proved with cross products | Pakistan (Punjab), Class 12 Mathematics (PCTB, eLearn.Punjab v1.1), Ch. 7, printed pp. 33–34 |
+| The sine rule a/sin A = b/sin B = c/sin C derived for acute- and obtuse-angled triangles, and used to solve triangles | Malaysia, Additional Mathematics Form 4, Ch. 9 §9.1, printed pp. 242–245 |
+| The ambiguous case: the conditions for zero, one or two triangles when two sides and a non-included angle are given | Malaysia, Additional Mathematics Form 4, Ch. 9 §9.1, printed pp. 246–250 |
+| The cosine rule a² = b² + c² − 2bc cos A verified from Pythagoras and used for sides and for angles | Malaysia, Additional Mathematics Form 4, Ch. 9 §9.2, printed pp. 251–255 |
+| Applications combining the sine rule, the cosine rule and area (a garage roof) | Malaysia, Additional Mathematics Form 4, Ch. 9 §9.4, printed pp. 263–264 |
 
-**Acceptance count: taught in 18 countries (Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Iraq, Cambodia, Kuwait, Iran, China, Pakistan).** Iran states and proves both the sine rule and the cosine rule in Grade 11 Geometry (2), and carries trigonometric identities and equations in Grade 11 Hesaban (1), Grade 12 Hesaban (2) and Grade 12 Mathematics (3) — the last naming the double-angle formulas explicitly.
+**Acceptance count: taught in 19 countries (Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Iraq, Cambodia, Kuwait, Iran, China, Pakistan, Malaysia).** Iran states and proves both the sine rule and the cosine rule in Grade 11 Geometry (2), and carries trigonometric identities and equations in Grade 11 Hesaban (1), Grade 12 Hesaban (2) and Grade 12 Mathematics (3) — the last naming the double-angle formulas explicitly.
 Kazakhstan carries the fullest treatment — all three Grade 9
 Geometry books prove both rules (by vectors, by coordinates,
 by altitude) and work the standard solving cases, including
@@ -154,3 +160,5 @@ this lesson from Grade 10, not Grade 9. Laos carries the sine and cosine rules w
 China carries the sine and cosine rules whole in both senior editions — proved by area and by vectors in the B-edition Volume 4, whose guide adds the full SSA case table and alternative proofs, and by vectors in the A-edition Volume 2.
 
 Pakistan (Punjab) stocks this lesson partially: its Class 10 book proves the cosine rule's geometric equivalents (the projection theorems) without naming the rule or using cosines, and its Class 12 book proves the cosine law and the sine law with vectors — the rules are proved, but neither book uses them as triangle-solving tools.
+
+Malaysia teaches the solution of triangles in Additional Mathematics Form 4 with the ambiguous case given its full weight — zero, one or two triangles, decided before any solving.

@@ -1,12 +1,15 @@
 # Sources — Mean Deviation and Variation
 
-countries: Bangladesh, Laos, Pakistan
+countries: Bangladesh, Laos, Pakistan, Malaysia
 
 Every part traces to its book and page.
 
 **Book 1:** *Mathematics, Class Nine* — Bangladesh, NCTB, published December 2023, experimental edition, National Curriculum 2022 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED). The Class 9–10 (SSC) files are the same book held twice; cited once, by its Class 9 identity.
 **Book 2:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 3:** *A Textbook of Statistics for Class 11* (student book) — Pakistan (Punjab), PCTB, Lahore, 10th edition, May 2017 (academic year 2017-18), English-medium; authors Dr. Faqir Muhammad and Amjad Mehmood; no ISBN printed. Held copy: printed pp. 111–127 stand in a leaf-reversed block (all present, out of order) and are cited by printed page. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 4:** *Mathematics Form 4* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Sasbadi Sdn. Bhd., 2019, ISBN 978-983-77-1531-8) and BM original *Matematik Tingkatan 4* (Pustaka Yakin Pelajar Sdn. Bhd., 2019, ISBN 978-967-490-087-8). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 5:** *Mathematics Form 5* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2020, ISBN 978-967-2930-12-9) and BM original *Matematik Tingkatan 5* (Penerbitan Pelangi Sdn. Bhd., 2020, ISBN 978-967-2907-93-0). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -22,5 +25,10 @@ Every part traces to its book and page.
 | Quartile deviation (Q3 − Q1)/2 and its coefficient; mean deviation from mean and median with coefficients; M.D. = (4/5)σ for symmetric distributions; the relative coefficients (range, Q.D., mean/median deviation) | Pakistan, Statistics Class 11, Ch. 4, printed pp.86–102 |
 | Variance and standard deviation with BOTH population σ² and sample S² defined with denominator n — this book's own convention | Pakistan, Statistics Class 11, Ch. 4, printed pp.86–127 |
 | Coefficient of variation | Pakistan, Statistics Class 11, Ch. 4, printed pp.86–127 |
+| Variance σ² = Σ(x − x̄)²/N and the working form Σx²/N − x̄² (the data 2, 4, 5, 5, 6 give σ² = 1.84); standard deviation as √variance, including from a frequency table (σ² = 1.2875) | Malaysia, Mathematics Form 4, Ch. 8 §8.2, printed pp. 221–223 |
+| The effect of changes in the data on range, interquartile range and standard deviation: adding or removing a value, a uniform change applied to every value, an outlier added | Malaysia, Mathematics Form 4, Ch. 8 §8.2, printed pp. 228–234 |
+| Variance and standard deviation for grouped data, computed from Σf, Σfx and Σfx² (the book's own totals give σ² = 229.19, σ = 15.14) (Example 10) | Malaysia, Mathematics Form 5, Ch. 7 §7.2, printed p. 212 |
 
-**Acceptance count: taught in 3 countries (Bangladesh, Laos, Pakistan).** Bangladesh carries the lesson's spine in one chapter: why the centre is not enough, the range, mean deviation under its own name "mean interval", variance and standard deviation — with its Pearson year taught corrected as 1893, its English-only p.225 claim taught corrected, and quartile deviation never cited to it, because the book names it on p.211 and teaches it nowhere. Laos carries the sample-variance convention s² with denominator n − 1, worked on grouped rainfall data. Pakistan carries quartile deviation and its coefficient, the mean-deviation coefficients, and the coefficient of variation — and its own opposite convention, denominator n for sample variance too, kept labelled as Pakistan's way beside Laos's.
+**Acceptance count: taught in 4 countries (Bangladesh, Laos, Pakistan, Malaysia).** Bangladesh carries the lesson's spine in one chapter: why the centre is not enough, the range, mean deviation under its own name "mean interval", variance and standard deviation — with its Pearson year taught corrected as 1893, its English-only p.225 claim taught corrected, and quartile deviation never cited to it, because the book names it on p.211 and teaches it nowhere. Laos carries the sample-variance convention s² with denominator n − 1, worked on grouped rainfall data. Pakistan carries quartile deviation and its coefficient, the mean-deviation coefficients, and the coefficient of variation — and its own opposite convention, denominator n for sample variance too, kept labelled as Pakistan's way beside Laos's.
+
+Malaysia teaches variance and standard deviation whole in Form 4 for ungrouped data — both formulas, the calculator method, and what happens to each measure when the data changes — and again in Form 5 for grouped data. (Mean deviation itself is not in Malaysia's books; that part of the lesson stands on the other countries.)

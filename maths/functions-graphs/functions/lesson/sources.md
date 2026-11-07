@@ -1,6 +1,6 @@
 # Sources — Functions
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia
+countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia
 
 Every part traces to its book and page.
 
@@ -145,6 +145,10 @@ CITATION CHECK PASSED 2026-11-05).
 
 **Book 81:** *Mathematics, Grade 4, Part One of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1448H–2026, ISBN 978-603-8527-30-6, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 82:** *Mathematics Form 2* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Rimbunan Ilmu Sdn. Bhd., 2017, ISBN 978-967-2031-06-2) and BM original *Matematik Tingkatan 2* (Rimbunan Ilmu Sdn. Bhd., 2017, ISBN 978-967-2031-05-5). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 83:** *Mathematics Form 4* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Sasbadi Sdn. Bhd., 2019, ISBN 978-983-77-1531-8) and BM original *Matematik Tingkatan 4* (Pustaka Yakin Pelajar Sdn. Bhd., 2019, ISBN 978-967-490-087-8). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 84:** *Additional Mathematics Form 4* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-967-2375-42-5 — the held copy is an image-only scan read visually; its contents pages, printed v–vi, are missing, the body is complete) and BM original *Matematik Tambahan Tingkatan 4* (Pan Asia Publications Sdn. Bhd., 2019, ISBN 978-967-466-377-3). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Cartesian product (ordered pairs, arrow and Cartesian diagrams, order matters); relations between sets, domain, range and representation; function (also called application): when a relation is a function, its domain, codomain and range, with worked examples; polynomial functions (constant, linear and quadratic) and their graphs | Egypt, Preparatory 3 old Term 1, Unit 1 Relations and functions, 1-1 Cartesian product p.2; 1-2 Relations p.8; 1-3 Function p.11; 1-4 Polynomial functions p.14 (French contents-page numbers) |
@@ -243,8 +247,17 @@ CITATION CHECK PASSED 2026-11-05).
 | Graphical solution of f(x) = k: the solutions are the x-coordinates of the intersections of the graph C_f with the line y = k; continuity introduced intuitively — a function is continuous on an interval when its graph is 'one piece', discontinuous where the graph breaks; the integer-part (floor) function E(x): the unique integer n with n ≤ x < n+1 (E(π) = 3, E(−3.5) = −4) — its graph is a staircase, it has no limit at x = 1 and is discontinuous at every integer; the image of an interval under a function, f(I) (the image of an interval under the continuous functions examined is again an interval); the inverse function (التابع العكسي): a continuous strictly monotone f on I is a bijection onto J = f(I), its inverse f^{−1} satisfies f^{−1}(f(x)) = x and f(f^{−1}(y)) = y, and the graphs of f and f^{−1} are symmetric in the line y = x in an orthonormal frame | Syria, Grade 12 Scientific, Part One, printed pp. 19–21, 49–50 |
 | A function introduced as one quantity depending on another; function tables for + and − rules written with symbols (△ + 3, △ − 2), with missing inputs also found | Saudi Arabia, Grade 4, Part One, Ch. 4, printed pp. 120–124 |
 | Function tables for × and ÷ rules (×4, ÷3, ÷2); a unit-conversion table as a function (metres → centimetres, ×100) | Saudi Arabia, Grade 4, Part One, Ch. 4, printed pp. 127–130 |
+| Relations classified as one-to-one, one-to-many, many-to-one and many-to-many, represented by arrow diagrams, sets of ordered pairs and graphs | Malaysia, Mathematics Form 2, Ch. 8 §8.1, printed pp. 146–148 |
+| A function defined as the relation in which every input has exactly one output; function notation f(x) and f: x → … introduced | Malaysia, Mathematics Form 2, Ch. 8 §8.1, printed pp. 148–150 |
+| Graphs of functions built from tables of values — linear, quadratic, cubic and reciprocal functions — drawn and read; applied graph problems (cost and distance graphs) | Malaysia, Mathematics Form 2, Ch. 8 §8.2, printed pp. 151–166 |
+| A quadratic function recognised as a many-to-one relation | Malaysia, Mathematics Form 4, Ch. 1 §1.1, printed p. 6 |
+| Function as a mapping: each element x ∈ X mapped to one and only one element y ∈ Y; object and image; the vertical line test for a function | Malaysia, Additional Mathematics Form 4, Ch. 1 §1.1, printed pp. 2–4 |
+| Domain, codomain and range of discrete and continuous functions; finding the image from the object, and the object from the image by solving f(x) = value | Malaysia, Additional Mathematics Form 4, Ch. 1 §1.1, printed pp. 6–9 |
+| Composite functions fg and gf, fg(x) = f[g(x)]; iterated composites f² and g²; finding an unknown inner or outer function when the composite is given; applications (factory revenue r(q(n)) = 400n − 10n²) | Malaysia, Additional Mathematics Form 4, Ch. 1 §1.2, printed pp. 12–18 |
+| Inverse functions: a function has an inverse if and only if it is one-to-one (the horizontal line test); verification by fg(x) = gf(x) = x; the graphs of f and f⁻¹ as reflections in the line y = x; the inverse found algebraically | Malaysia, Additional Mathematics Form 4, Ch. 1 §1.3, printed pp. 20–28 |
+| Vertex form f(x) = a(x − h)² + k and intercept form f(x) = a(x − p)(x − q), converted between the general, vertex and intercept forms; sketching a quadratic graph from the sign of a, the discriminant, the vertex and the y-intercept | Malaysia, Additional Mathematics Form 4, Ch. 2 §2.3, printed pp. 49–60 |
 
-**Acceptance count: taught in 22 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia).**.** Egypt carries the
+**Acceptance count: taught in 23 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia).**.** Egypt carries the
 fullest build — Cartesian product, relation, function, domain
 and range in Preparatory 3; the sign of a function in
 Secondary 1; the inverse function in Grade 11 Pure. Jordan
@@ -275,3 +288,5 @@ Pakistan (Punjab) carries functions from Class 10's mappings through the Class 1
 Syria defines the function in Grade 9 Algebra from a single worked case — image, preimage, rule and domain all named from it — with the three definitions (graph, table, formula) and a non-function counterexample; Grade 12 Part One then works graphically with f(x) = k and introduces the floor function and the inverse function.
 
 Saudi Arabia introduces the function at primary level inside its Grade 4 algebra chapter — function tables with add/subtract and multiply/divide rules written symbolically, including finding a missing input and a conversion table read as a function.
+
+Malaysia builds functions in Form 2 from relations and their four types, then treats them in full in Additional Mathematics Form 4 — domain and range, composites, and inverses with the reflection in y = x.

@@ -1,6 +1,6 @@
 # Sources — Circle theorems
 
-countries: Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria
+countries: Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia
 
 Every part traces to its book and page.
 
@@ -72,6 +72,8 @@ maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 36:** *Mathematics — Geometry, Student's Book, Grade 9* — Syria, Ministry of Education, held printing 2025–2026/1446H, first printed 2017–2018, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 37:** *Mathematics Form 3* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-983-00-9651-3) and BM original *Matematik Tingkatan 3* (Pustaka Yakin Pelajar Sdn. Bhd., 2018, ISBN 978-967-490-042-7). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Inscribed-angle theorem (an inscribed angle equals half its arc; three centre positions proved; corollary: angle on a diameter is 90°); Theorem 2: in a cyclic quadrilateral opposite angles sum to 180°; Theorem 3 (converse): if opposite angles sum to 180°, a circle can be circumscribed; Theorem 4: in a circumscribed quadrilateral the sums of lengths of opposite sides are equal; Theorem 5 (converse) | Kazakhstan, Geometry 9 (Shynybekov, Atamura 2019), Chapter 4 Circle. Polygons, §4.3 inscribed and circumscribed quadrilaterals, pp.126–162 |
@@ -129,8 +131,18 @@ maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 | The angle in a semicircle, in the Unit 3 diagnostic: if M lies on the circle with diameter [AB] and M ≠ A, B, then triangle AMB is right-angled at M | Syria, Grade 9 Geometry student's book, Unit 3 diagnostic, printed p. 39 |
 | Inscribed angle defined — vertex on the circle, intercepting an arc — and central angle defined; the inscribed angle theorem: an inscribed angle equals half the central angle that shares its arc, and so two inscribed angles that share the same arc are equal, and an inscribed angle equals half its intercepted arc; an arc is measured by its central angle; central angles are equal exactly when their arcs are equal, and equal chords exactly when their arcs are equal (AB = CD ⇔ arc AB = arc CD, and then ÂOB = ĈOD); the tangent to a circle at a point A defined as the line through A perpendicular to the radius (OA) — the centre's distance to a tangent equals the radius, a tangent meets the circle in exactly one point, and from a point M outside the circle two tangents can be drawn whose tangent segments from M are equal; the tangent-chord angle (الزاوية المماسية) — vertex on the circle, one side a chord and the other tangent — treated like an inscribed angle sharing the same arc, measured by half its intercepted arc | Syria, Grade 9 Geometry student's book, printed pp. 40–45 |
 | A cyclic quadrilateral (الرباعي الدائري) defined — a quadrilateral whose vertices all lie on one circle; a rectangle is cyclic, because its diagonals are equal and bisect each other, so its vertices are equidistant from their intersection, while a general parallelogram is not cyclic; in a cyclic quadrilateral, opposite angles are supplementary — proved using the reflex central angle (BÔD = 360° − 2x gives BĈD = 180° − x); an exterior angle equals the opposite interior angle; if C, D lie on the same side of (BD) then BÂD = BĈD; the converses — if two angles subtending the same segment from the same side are equal, the four points are concyclic, and if a quadrilateral's opposite angles are supplementary, it is cyclic (worked: Â = 70° gives Ĉ = 110°; quadrilateral ABEF with B̂ = F̂ = 90° is cyclic, its circumcentre the mid-point of [AE], and AE² = 3² + 4² = 25 gives R = 5/2) | Syria, Grade 9 Geometry student's book, printed pp. 47–49 |
+| The angle at the circumference subtended by an arc; angles at the circumference on the same arc are equal | Malaysia, Mathematics Form 3, Ch. 6 §6.1, printed pp. 130–133 |
+| Angles on arcs of equal length are equal, and the circumference angle is proportional to arc length | Malaysia, Mathematics Form 3, Ch. 6 §6.1, printed pp. 135–137 |
+| The central angle is twice the circumference angle on the same arc, and central angles are likewise proportional to arc length | Malaysia, Mathematics Form 3, Ch. 6 §6.1, printed pp. 138–140 |
+| The angle in a semicircle — the angle at the circumference subtended by the diameter — is 90° | Malaysia, Mathematics Form 3, Ch. 6 §6.1, printed pp. 141–142 |
+| Cyclic quadrilaterals recognised; opposite interior angles sum to 180°; the exterior angle equals the corresponding opposite interior angle | Malaysia, Mathematics Form 3, Ch. 6 §6.2, printed pp. 144–148 |
+| Tangents recognised, with their points of tangency; the radius to a point of tangency is perpendicular to the tangent | Malaysia, Mathematics Form 3, Ch. 6 §6.3, printed pp. 150–152 |
+| Two tangents from an external point: the tangent lengths are equal, and the angles at the centre and at the external point are equal | Malaysia, Mathematics Form 3, Ch. 6 §6.3, printed pp. 153–154 |
+| The alternate segment theorem, derived and applied | Malaysia, Mathematics Form 3, Ch. 6 §6.3, printed pp. 155–156 |
+| Common tangents to two circles counted by relative position — 4 for separate circles, 3 for touching, 2 for intersecting, 1 for the internally touching case (printed 'overlapping') | Malaysia, Mathematics Form 3, Ch. 6 §6.3, printed p. 157 |
+| Combined angle-and-tangent problem solving (pulleys and a rope) | Malaysia, Mathematics Form 3, Ch. 6 §6.4, printed p. 160 |
 
-**Acceptance count: taught in 21 countries (Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria).** Kazakhstan carries the Iran states the inscribed-angle and tangent–radius facts in Grade 8 and develops the circle theorems by guided proof — power of a point and cyclic quadrilaterals included — in Grade 11 Geometry (2).
+**Acceptance count: taught in 22 countries (Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia).** Kazakhstan carries the Iran states the inscribed-angle and tangent–radius facts in Grade 8 and develops the circle theorems by guided proof — power of a point and cyclic quadrilaterals included — in Grade 11 Geometry (2).
 fullest treatment — the inscribed-angle theorem with all
 cases, the tangent–chord angle, the inside/outside angle
 theorems, the three segment products, cyclic and circumscribed
@@ -156,3 +168,5 @@ China carries circle theorems whole in Grade 9 Volume 1 — the perpendicular-di
 Pakistan (Punjab) carries the circle theorems in Class 10's four full geometry units — chords, tangents, arcs and the angle in a segment — and proves the central ones again analytically in Class 12.
 
 Syria's circle theorems are all in Grade 9 Geometry: inscribed and central angles with the half-angle theorem, equal chords and equal arcs, the tangent-chord angle, and the cyclic quadrilateral — opposite angles supplementary, proved with the reflex central angle — with both converses stated.
+
+Malaysia gives circle theorems a full Form 3 chapter — every standard theorem met by measuring or dynamic-software activity before it is used, and common tangents counted for every relative position of two circles.

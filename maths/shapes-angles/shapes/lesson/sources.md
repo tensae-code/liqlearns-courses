@@ -1,6 +1,6 @@
 # Sources — Shapes
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia
 
 Every part traces to its book and page.
 
@@ -266,6 +266,9 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 
 **Book 150:** *Mathematics, Grade 4, Part Two of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1447H–2025, ISBN 978-603-514-148-2, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 151:** *Mathematics Form 1* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2016, ISBN 978-983-00-8271-4) and BM original *Matematik Tingkatan 1* (Penerbitan Pelangi Sdn. Bhd., 2016, ISBN 978-983-00-8244-8). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 152:** *Mathematics Form 2* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Rimbunan Ilmu Sdn. Bhd., 2017, ISBN 978-967-2031-06-2) and BM original *Matematik Tingkatan 2* (Rimbunan Ilmu Sdn. Bhd., 2017, ISBN 978-967-2031-05-5). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Polygons named and sorted by vertices; naming by number of sides | Egypt, Grade 3 Term 1 old edition, Chapter 4, printed pp.44–61 (Polygons p.44; Properties of Polygons) |
@@ -427,8 +430,14 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Solids classified by faces, edges and vertices (prism vs pyramid; the cone/sphere/cylinder family); polygons named by sides and angles (a nonagon named) and non-polygons; geometric patterns from shapes | Saudi Arabia, Grade 3, Part Two, Ch. 9, printed pp. 117–130 |
 | Parallel witness: the same shape lessons in the older 1445 edition (witness only) | Saudi Arabia, Grade 3, Third Term (1445), Ch. 9, printed pp. 57–70 |
 | 3D shapes — faces, edges and vertices; prisms and pyramids compared (a cube is a prism); polygons by sides; the point, the line, intersecting, perpendicular and parallel lines, drawn with ruler and set square; triangles classified by their angles and by their sides | Saudi Arabia, Grade 4, Part Two, Ch. 8, printed pp. 47–73 |
+| Polygons named by their sides; the relationship between the number of sides, vertices and diagonals; drawing, labelling and naming polygons | Malaysia, Mathematics Form 1, Ch. 9 §9.1, printed pp. 202–204 |
+| Properties of triangles (types by sides and by angles; angle properties) | Malaysia, Mathematics Form 1, Ch. 9 §9.2, printed pp. 205–207 |
+| Properties of quadrilaterals — trapezium, parallelogram, rhombus, rectangle, square and kite | Malaysia, Mathematics Form 1, Ch. 9 §9.3, printed pp. 212–213 |
+| Regular polygons: equal sides and equal angles, the number of diagonals and the number of axes of symmetry | Malaysia, Mathematics Form 2, Ch. 4 §4.1, printed pp. 56–59 |
+| Geometric properties of three-dimensional shapes — prisms, pyramids, cylinders, cones and spheres: faces, edges, vertices, flat and curved surfaces | Malaysia, Mathematics Form 2, Ch. 6 §6.1, printed pp. 100–101 |
+| Nets of cube, cuboid, prism, pyramid, cylinder and cone, including judging whether a given net folds to the solid | Malaysia, Mathematics Form 2, Ch. 6 §6.2, printed pp. 102–103 |
 
-**Acceptance count: taught in 28 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
+**Acceptance count: taught in 29 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
 — polygons, triangles two ways, then the parallelogram family
 with its special cases. Egypt carries polygons by vertices in
 Grade 3 and the triangle/trapezium/kite sorting in Grade 5.
@@ -454,3 +463,5 @@ Pakistan (Punjab) carries shapes at every level — the Primer's and Grade 1's f
 Syria names solids and their faces in Grades 1–2, counts faces, vertices and edges in Grade 3, and then studies quadrilaterals as one family — the parallelogram in Grade 5, its properties used and proved in Grades 6–7, rectangle, rhombus and square recognised by their diagonals — while triangles are classified by sides and by angles. Grade 8 adds the pyramid, the regular tetrahedron and the cone of revolution with their nets, and Grade 9 the regular polygon with its central angle 360°/n.
 
 Saudi Arabia names shapes from Grade 1 — solids sorted by roll/stack/slide, plane shapes by sides and vertices — counts faces, edges and vertices in Grade 2, classifies solids and names polygons to the nonagon in Grade 3, and in Grade 4 adds points, lines, perpendiculars and parallels and classifies triangles two ways, with the older 1445 Term-3 volumes witnessing the Part Two chapters.
+
+Malaysia names and classifies shapes in Form 1 (polygons, triangles, quadrilaterals) and returns in Form 2 for regular polygons and for the three-dimensional shapes and their nets.

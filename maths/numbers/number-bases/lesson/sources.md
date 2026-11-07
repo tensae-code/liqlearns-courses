@@ -1,6 +1,6 @@
 # Sources — Number Bases
 
-countries: Sierra Leone, Laos, Bangladesh, Nepal, Pakistan
+countries: Sierra Leone, Laos, Bangladesh, Nepal, Pakistan, Malaysia
 
 Every part traces to its book and page.
 
@@ -12,6 +12,8 @@ Every part traces to its book and page.
 **Book 6:** *Mathematics, Class 7* — Nepal, CDC, Sanothimi, First edition VS 2071; revised 2nd edition VS 2076. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 **Book 7:** *Mathematics, Class 8* — Nepal, CDC, Sanothimi, First edition VS 2072; revised 2nd edition VS 2076. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 **Book 8:** *A Textbook of Statistics for Class 12* (student book; Part II — Chapters 10–17, Chapters 1–9 being the Class 11 book) — Pakistan (Punjab), PCTB, Lahore, 1st edition, June 2016 (11th impression), English-medium; author Prof. Muhammad Rauf Chaudhary; no ISBN printed. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 9:** *Mathematics Form 4* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Sasbadi Sdn. Bhd., 2019, ISBN 978-983-77-1531-8) and BM original *Matematik Tingkatan 4* (Pustaka Yakin Pelajar Sdn. Bhd., 2019, ISBN 978-967-490-087-8). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -26,5 +28,12 @@ Every part traces to its book and page.
 | Binary and base 5: 1001₂ = 9; 1111₂ = 15; 432₁₀ = 3212₅; base-5 table (100₅ = 25) | Nepal, Grade 7 student book, Unit 12, printed pp.105–120 |
 | Decimal system expanded; base 5 (33 = 113₅; 512 = 4022₅; 4321₅ = 586); binary (75₁₀ = 1001011₂; 1100101₂ = 101); place-value table 2⁸…2⁰ | Nepal, Grade 8 student book, Unit 11, printed pp.93–99 |
 | Decimal, binary, octal and hexadecimal place values for computers; the 0–16 conversion table; characters as 8-bit binary codes; binary as the foundation of computer working (the rest of Ch. 17 is computer history — not maths, not used) | Pakistan, Statistics Class 12, Ch. 17, printed pp.281–284 |
+| Numbers in bases 2–10 built by the bundling (collection) process: place value, digit value and number value | Malaysia, Mathematics Form 4, Ch. 2 §2.1, printed pp. 34–40 |
+| Converting between bases through base ten, and from base ten to another base by repeated division | Malaysia, Mathematics Form 4, Ch. 2 §2.1, printed pp. 41–43 |
+| Direct binary ↔ octal conversion by grouping digits in threes (334₅ = 94₁₀ = 1011110₂; 517₈ = 101001111₂) | Malaysia, Mathematics Form 4, Ch. 2 §2.1, printed pp. 43–44 |
+| Addition and subtraction in various bases, in vertical form inside the base and through base ten (4005₆ − 325₆ = 3240₆) | Malaysia, Mathematics Form 4, Ch. 2 §2.1, printed pp. 45–48 |
+| Problem solving with number bases, including comparing numbers written in different bases | Malaysia, Mathematics Form 4, Ch. 2 §2.1, printed pp. 49–51 |
 
-**Acceptance count: taught in 5 countries (Sierra Leone, Laos, Bangladesh, Nepal, Pakistan).** Sierra Leone carries the fullest bases course: JSS 3 opens base 2 and compares in it, and SSS 1 runs the complete course — expansion, repeated division, all four operations in non-decimal bases, and equations with an unknown digit or base. Laos carries bases inside one Grade 6 lesson that starts from base-ten expanded form and reaches a general base a, with arithmetic in bases 2, 3, 4, 5 and 7. Bangladesh carries binary twice — as a story in Class 7 and as a full system with the radix point and complements in Class 8. Nepal carries binary and base 5 across Grades 7 and 8, with the 2⁸…2⁰ place-value table. Pakistan carries the computer side only: binary, octal and hexadecimal place values and the 0–16 conversion table in its Class 12 Statistics book.
+**Acceptance count: taught in 6 countries (Sierra Leone, Laos, Bangladesh, Nepal, Pakistan, Malaysia).** Sierra Leone carries the fullest bases course: JSS 3 opens base 2 and compares in it, and SSS 1 runs the complete course — expansion, repeated division, all four operations in non-decimal bases, and equations with an unknown digit or base. Laos carries bases inside one Grade 6 lesson that starts from base-ten expanded form and reaches a general base a, with arithmetic in bases 2, 3, 4, 5 and 7. Bangladesh carries binary twice — as a story in Class 7 and as a full system with the radix point and complements in Class 8. Nepal carries binary and base 5 across Grades 7 and 8, with the 2⁸…2⁰ place-value table. Pakistan carries the computer side only: binary, octal and hexadecimal place values and the 0–16 conversion table in its Class 12 Statistics book.
+
+Malaysia teaches number bases whole in Form 4 as a chapter of its own — representation by bundling, conversion both ways, the binary–octal shortcut by grouping digits in threes, and addition and subtraction carried out inside the base.

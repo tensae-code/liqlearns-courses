@@ -1,6 +1,6 @@
 # Sources — Constructions with ruler and compass
 
-countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria
+countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia
 
 Every part traces to its book and page.
 
@@ -20,6 +20,10 @@ Every part traces to its book and page.
 
 **Book 11:** *Mathematics — Geometry, Student's Book, Grade 9* — Syria, Ministry of Education, held printing 2025–2026/1446H, first printed 2017–2018, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 12:** *Mathematics Form 1* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2016, ISBN 978-983-00-8271-4) and BM original *Matematik Tingkatan 1* (Penerbitan Pelangi Sdn. Bhd., 2016, ISBN 978-983-00-8244-8). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 13:** *Mathematics Form 2* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Rimbunan Ilmu Sdn. Bhd., 2017, ISBN 978-967-2031-06-2) and BM original *Matematik Tingkatan 2* (Rimbunan Ilmu Sdn. Bhd., 2017, ISBN 978-967-2031-05-5). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 14:** *Mathematics Form 3* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-983-00-9651-3) and BM original *Matematik Tingkatan 3* (Pustaka Yakin Pelajar Sdn. Bhd., 2018, ISBN 978-967-490-042-7). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Do it first: bisect a segment with string or paper | Sierra Leone, SSS 2 Term 2, L79 (p.90) — substitute compass from string or a strip of paper |
@@ -36,9 +40,15 @@ Every part traces to its book and page.
 | Drawing a right-angled triangle given its hypotenuse and one acute angle (draw the angle, mark the hypotenuse on one side, drop the perpendicular with the set square) and given its hypotenuse and one leg; drawing the perpendicular bisector of a segment with the graduated ruler and the set square (الكوس) — mark the midpoint, align the set square's right angle on the segment, slide it to the midpoint and draw | Syria, Grade 7 student's book, printed pp. 136–141 |
 | Dividing a segment into five equal parts with parallels, as a ruler-and-compass construction in the exercises | Syria, Grade 8 Geometry student's book, printed p. 51 |
 | Dividing a segment into five and into seven equal parts by parallels, carried out in full with the auxiliary ray and Thales' theorem | Syria, Grade 9 Geometry student's book, printed p. 35 |
+| Basic geometrical constructions with compasses and straightedge: copying a segment, the perpendicular bisector, a perpendicular through a point, parallel lines | Malaysia, Mathematics Form 1, Ch. 8 §8.1, printed pp. 176–180 |
+| Constructing angles (60°, 90°, 120°, 15°) and angle bisectors | Malaysia, Mathematics Form 1, Ch. 8 §8.1, printed pp. 181–184 |
+| Constructing regular polygons with ruler and compasses (and by folding) | Malaysia, Mathematics Form 2, Ch. 4 §4.1, printed pp. 60–61 |
+| The perpendicular bisector and the angle bisector constructed again as loci — the points equidistant from two fixed points, and from two intersecting lines (main filing: loci) | Malaysia, Mathematics Form 3, Ch. 8 §8.2, Examples 5 and 9, printed pp. 207, 211 |
 
-**Acceptance count: taught in 8 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria).**
+**Acceptance count: taught in 9 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia).**
 
 Sierra Leone teaches the fullest school construction course here: SSS 2 Term 2 lessons 79–83 work through bisection and the constructible angles in order, and its JSS 1 handbook gives the first constructions. Laos builds the same skills in Grade 6 — parallels and perpendiculars through a point, the perpendicular bisector, copying an angle and a segment — after using a compass from Grade 4. Iran is the country that insists on reasons: its Geometry (1) presents constructions with justifications, so each arc is there for a stated cause. Armenia teaches construction as a method, with the stages of a construction problem named as part of the work. Pakistan's Grade 6 practical-geometry unit and Bangladesh's Class 7 experiments give the same constructions as set exercises, and Kuwait's Grade 7 Term 2 Unit 6 carries a long construction unit of its own.
 
 Syria's constructions run from copying an arc with compasses in Grade 6, through set-square and compass triangle constructions in Grade 7, to dividing a segment into equal parts by parallels in Grades 8–9 Geometry.
+
+Malaysia teaches construction inside its Form 1 lines-and-angles chapter — the full basic kit in one run — and meets the two great bisectors again in Form 3, built as loci.

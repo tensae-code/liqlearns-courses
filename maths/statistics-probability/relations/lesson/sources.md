@@ -1,6 +1,6 @@
 # Sources — Relations
 
-countries: Libya, Yemen, Bangladesh, Kuwait, Laos
+countries: Libya, Yemen, Bangladesh, Kuwait, Laos, Malaysia
 
 Every part traces to its book and page.
 
@@ -10,6 +10,8 @@ Every part traces to its book and page.
 **Book 4:** *Mathematics, Class Nine (Experimental Edition)* — Bangladesh, National Curriculum and Textbook Board (NCTB), published December 2023, experimental edition, National Curriculum 2022 (Bangla original + English translation mirror pair; no ISBN printed). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED). The Class 9–10 (SSC) files are this same book held twice; cited once, by its Class 9 identity.
 **Book 5:** *Mathematics, Grade 8, Term 1 student book* — Kuwait, Ministry of Education, 2nd edition 1448 AH / 2026–2027, ISBN 978-9921-33-121-9. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 **Book 6:** *Mathematics, Grade 10 student book (upper-secondary year 5)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2014 (2010 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 7:** *Additional Mathematics Form 4* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-967-2375-42-5 — the held copy is an image-only scan read visually; its contents pages, printed v–vi, are missing, the body is complete) and BM original *Matematik Tambahan Tingkatan 4* (Pan Asia Publications Sdn. Bhd., 2019, ISBN 978-967-466-377-3). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -22,5 +24,8 @@ Every part traces to its book and page.
 | Cartesian product (minor row — a brief meeting inside the sets chapter) | Bangladesh, Class 9, §1.9, printed p. 24 |
 | Sets and relations unit: ordered pairs, relations and their representations, Cartesian product (minor row for this lesson) | Kuwait, Grade 8 Term 1, Unit 1 — Sets and relations, printed pp. 15–67 |
 | Sets lessons carrying the Cartesian product (minor row) | Laos, Grade 10, Ch. II, Lessons 4 and 6, printed pp. 30–52 |
+| Relations introduced from real situations (a temporary cashier's pay; durians priced by weight), with a function as a special relation | Malaysia, Additional Mathematics Form 4, Ch. 1 §1.1, printed p. 2 |
 
-**Acceptance count: taught in 5 countries (Libya, Yemen, Bangladesh, Kuwait, Laos).** Libya carries the full binary-relations treatment — Cartesian product, equality of relations, domain and range, inverse relation — as the closing part of its Grade 10 sets chapter (printed pp. 9–43), the ground from which it then defines functions. Yemen carries the topic twice: in Grade 7 as the staircase ordered pair → Cartesian product (with S × T ≠ T × S) → relations (printed pp. 32, 34, 37), and in Grade 9 with transitive relations and equivalence relations as named lessons (printed pp. 17, 25) ahead of its function lesson. Bangladesh, Kuwait and Laos each carry the Cartesian product and relations material as a minor row — Bangladesh in one section (§1.9, printed p. 24), Kuwait inside its Grade 8 sets-and-relations unit (printed pp. 15–67), Laos inside its Grade 10 sets lessons (printed pp. 30–52) — and they are counted here as minor, exactly as filed.
+**Acceptance count: taught in 6 countries (Libya, Yemen, Bangladesh, Kuwait, Laos, Malaysia).** Libya carries the full binary-relations treatment — Cartesian product, equality of relations, domain and range, inverse relation — as the closing part of its Grade 10 sets chapter (printed pp. 9–43), the ground from which it then defines functions. Yemen carries the topic twice: in Grade 7 as the staircase ordered pair → Cartesian product (with S × T ≠ T × S) → relations (printed pp. 32, 34, 37), and in Grade 9 with transitive relations and equivalence relations as named lessons (printed pp. 17, 25) ahead of its function lesson. Bangladesh, Kuwait and Laos each carry the Cartesian product and relations material as a minor row — Bangladesh in one section (§1.9, printed p. 24), Kuwait inside its Grade 8 sets-and-relations unit (printed pp. 15–67), Laos inside its Grade 10 sets lessons (printed pp. 30–52) — and they are counted here as minor, exactly as filed.
+
+Additional Mathematics Form 4 opens with relations met in everyday situations, on the way to functions. (The classification of relations into their four types is Malaysia's Form 2 work and is filed under functions.)

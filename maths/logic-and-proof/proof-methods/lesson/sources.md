@@ -1,6 +1,6 @@
 # Sources — Proof Methods
 
-countries: Kazakhstan, Iran, Armenia, Greece, Egypt, Nicaragua, Kuwait, Laos, China, Syria
+countries: Kazakhstan, Iran, Armenia, Greece, Egypt, Nicaragua, Kuwait, Laos, China, Syria, Malaysia
 
 Every part traces to its book and page.
 
@@ -23,6 +23,8 @@ Every part traces to its book and page.
 
 **Book 17:** *Mathematics — Geometry, Student's Book, Grade 8* — Syria, Ministry of Education (the ministry's name as printed, Ministry of Education and Teaching), held printing 2025–2026, first printed 2016–2017, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 18:** *Mathematics Form 4* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Sasbadi Sdn. Bhd., 2019, ISBN 978-983-77-1531-8) and BM original *Matematik Tingkatan 4* (Pustaka Yakin Pelajar Sdn. Bhd., 2019, ISBN 978-967-490-087-8). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Examples cannot prove; the obtuse-triangle counterexample | Iran, Grade 9, Ch.3 — Reasoning, p.33 |
@@ -39,7 +41,11 @@ Every part traces to its book and page.
 | Proving and refuting general (∀) and existential (∃) assertions | Armenia, Grade 12 logic book, §5, p.30 |
 | Necessary and sufficient conditions | Armenia, Grade 12 logic book, §7, p.52 |
 | Proof craft in the central-symmetry lessons: the scheme hypothesis (الفرضية) – property (الخاصية) – conclusion (النتيجة) is stated as the shape of a proof; pupils must write a proof plan (خطة البرهان) — the chain of properties leading from the hypothesis to the conclusion — before writing the proof itself; and the book warns outright that in geometry an answer may not be read off the figure ('nothing from the figure alone'): every claim in a proof must come from a hypothesis or a proved property | Syria, Grade 8 Geometry student's book, printed pp. 11, 27–28, 48 |
+| A counter-example used to show that a mathematical statement is false | Malaysia, Mathematics Form 4, Ch. 3 §3.1, printed pp. 69–70 |
+| Validity and soundness of a deductive argument; the standard valid deductive forms (modus ponens, modus tollens and syllogism-type forms) | Malaysia, Mathematics Form 4, Ch. 3 §3.2, printed pp. 75–77 |
 
-**Acceptance count: taught in 10 countries (Kazakhstan, Iran, Armenia, Greece, Egypt, Nicaragua, Kuwait, Laos, China, Syria).** Kazakhstan opens all three of its Grade 7 geometry courses with the Euclidean deductive method itself — axioms as the rules of the game (Smirnov), the regress of definitions (Shynybekov), and methods of proof given their own section (Turapbekov). Iran teaches proof three ways: a whole Grade 9 chapter on reasoning and proof in geometry, with a deliberately flawed proof to diagnose; the proof opening of Geometry (1); and Discrete Mathematics' working kit of direct proof, cases, contradiction and counterexample. Armenia gathers deductive and inductive reasoning and the main methods of proof and refutation in Grade 11, proves and refutes ∀ and ∃ assertions and classifies necessary and sufficient conditions in its Grade 12 logic book, and first uses contradiction inside Grade 7 geometry. Greece makes deductive reasoning the stated point of its Euclidean Geometry. Egypt names the writing itself — "Steps to Write a Proof" — in Grade 7. Nicaragua introduces two-column-style reasoning in Grade 8 and writes full two-column similarity proofs in Grade 9. Kuwait frames every proof in its Grade 9 triangle unit as givens / required / proof. Laos judges arguments by validity, with modus ponens, modus tollens and the affirming-the-consequent fallacy. China proves the vertical-angles result inside its Grade 6 general review.
+**Acceptance count: taught in 11 countries (Kazakhstan, Iran, Armenia, Greece, Egypt, Nicaragua, Kuwait, Laos, China, Syria, Malaysia).** Kazakhstan opens all three of its Grade 7 geometry courses with the Euclidean deductive method itself — axioms as the rules of the game (Smirnov), the regress of definitions (Shynybekov), and methods of proof given their own section (Turapbekov). Iran teaches proof three ways: a whole Grade 9 chapter on reasoning and proof in geometry, with a deliberately flawed proof to diagnose; the proof opening of Geometry (1); and Discrete Mathematics' working kit of direct proof, cases, contradiction and counterexample. Armenia gathers deductive and inductive reasoning and the main methods of proof and refutation in Grade 11, proves and refutes ∀ and ∃ assertions and classifies necessary and sufficient conditions in its Grade 12 logic book, and first uses contradiction inside Grade 7 geometry. Greece makes deductive reasoning the stated point of its Euclidean Geometry. Egypt names the writing itself — "Steps to Write a Proof" — in Grade 7. Nicaragua introduces two-column-style reasoning in Grade 8 and writes full two-column similarity proofs in Grade 9. Kuwait frames every proof in its Grade 9 triangle unit as givens / required / proof. Laos judges arguments by validity, with modus ponens, modus tollens and the affirming-the-consequent fallacy. China proves the vertical-angles result inside its Grade 6 general review.
 
 Syria's Grade 8 Geometry is built as proof craft: the hypothesis–property–conclusion scheme is stated outright, proof plans are required before writing, and the book warns explicitly that nothing may be read off the figure.
+
+Malaysia's logic chapter carries two of this lesson's tools in their school form: the counter-example that kills a false statement, and the standard valid forms by which a deductive argument is judged sound.

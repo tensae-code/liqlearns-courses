@@ -1,6 +1,6 @@
 # Sources — Right-triangle trigonometry
 
-countries: Jordan, Egypt, Sierra Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria
+countries: Jordan, Egypt, Sierra Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia
 
 Every part traces to its book and page.
 
@@ -97,6 +97,8 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 
 **Book 46:** *Mathematics — Geometry, Student's Book, Grade 9* — Syria, Ministry of Education, held printing 2025–2026/1446H, first printed 2017–2018, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 47:** *Mathematics Form 3* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-983-00-9651-3) and BM original *Matematik Tingkatan 3* (Pustaka Yakin Pelajar Sdn. Bhd., 2018, ISBN 978-967-490-042-7). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Trigonometry introduced from similar right triangles; ratios defined before applications, calculator-based; sine, cosine, tangent of an acute angle defined as ratios of sides in a right triangle; cosecant/secant/cotangent named; the Pythagorean identity and "reciprocal of the trigonometric ratio" among the key terms; applications — angles of elevation and depression, finding unknown lengths and heights | Jordan, Grade 9 Term 2, Unit 5 "Relationships in Triangles and Trigonometric Ratios", p.6; L4 Trigonometric Ratios p.40; L5 Applications of Trigonometric Ratios p.49 |
@@ -159,9 +161,16 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Trigonometric modelling — a Ferris wheel's height h(t) = −45cos(πt/30) + 50 evaluated, a tidal level modelled, an angle of elevation/depression cliff problem | Pakistan (Punjab), Class 11 Mathematics (PECTAA), Unit 11, printed pp. 213–216 |
 | History in the chapter opener: Aristarchus of Samos (c. 310–230 BCE) measured the Sun's distance as about 18–20 times the Moon's, from the half-lit Moon's right triangle — the first trigonometric measurement in history; in a right triangle, the hypotenuse and, for an acute angle, the opposite side and the adjacent side are named; for an acute angle B̂ the three ratios sin B̂ = opposite/hypotenuse, cos B̂ = adjacent/hypotenuse, tan B̂ = opposite/adjacent are defined — first seen to be the same for two different right triangles sharing the angle B̂; the ratios are pure numbers without units, and since the hypotenuse is the longest side, 0 < sin θ < 1 and 0 < cos θ < 1 for an acute angle; finding a side from a ratio (sin BÂC = 4/5 with opposite side 8 cm gives hypotenuse 10 cm; cos = 2/3 with hypotenuse 7.5 gives adjacent 5; tan = 1/3 with adjacent 5.4 gives opposite 1.8), with guide rules for choosing the ratio that matches the known and wanted sides; the first key relation cos²θ + sin²θ = 1, derived from Pythagoras' theorem, and the second, tan θ = sin θ / cos θ — used to find the other ratios from one (cos B̂ = √3/2 gives sin B̂ = 1/2 and tan B̂ = 1/√3) | Syria, Grade 9 Geometry student's book, printed pp. 2–3, 7–11 |
 | The ratios of 45° derived from an isosceles right triangle with Pythagoras (sin 45° = cos 45° = √2/2, tan 45° = 1); the side opposite a 30° angle is half the hypotenuse (shown with the circumcircle, where the middle triangle is equilateral); the ratios of 30° and 60° derived (sin 30° = 1/2, cos 30° = √3/2, tan 30° = √3/3; sin 60° = √3/2, cos 60° = 1/2, tan 60° = √3 — the summary list on p. 13 misprints tan 30° as √3; the same page's 30° derivation and the table on p. 14 both give tan 30° = √3/3, and it is taught corrected); the famous-angle table collected for 30°, 45°, 60°; worked applications (with BÂC = 60° and BC = 8 cm, sin 60° = 8/AC gives AC = 16/√3; tan 30° = ML/(7√3) gives ML = 7); complementary-angle relations in the exercises (cos B̂ = sin(90° − B̂)); applications — the height of a broken tree, and the height of a building from a theodolite angle of 76.8° at 5 m distance | Syria, Grade 9 Geometry student's book, printed pp. 13–19 |
+| Opposite side, adjacent side and hypotenuse named relative to a chosen acute angle | Malaysia, Mathematics Form 3, Ch. 5 §5.1, printed p. 108 |
+| A similarity activity shows the three side ratios stay constant for a fixed angle — giving sin = opp/hyp, cos = adj/hyp, tan = opp/adj | Malaysia, Mathematics Form 3, Ch. 5 §5.1, printed pp. 109–111 |
+| Ratio tables completed for both acute angles of a triangle; as the acute angle grows, sin and tan increase and cos decreases, with the endpoint values at 0° and 90° | Malaysia, Mathematics Form 3, Ch. 5 §5.1, printed pp. 111–112 |
+| The three ratios found from side lengths, using Pythagoras for the missing side; tan θ = sin θ ÷ cos θ; one ratio derived from another given ratio | Malaysia, Mathematics Form 3, Ch. 5 §5.1, printed pp. 113–118 |
+| Special angles 30°, 45° and 60° derived from a halved equilateral triangle and an isosceles right-angled triangle; the exact surd table; exact-value arithmetic without a calculator | Malaysia, Mathematics Form 3, Ch. 5 §5.1, printed pp. 119, 124 |
+| Degrees, minutes and seconds (1° = 60′, 1′ = 60″) and conversions; calculator values to 4 decimal places; inverse trig to recover the angle, in degrees and in degrees and minutes | Malaysia, Mathematics Form 3, Ch. 5 §5.1, printed pp. 120–121 |
+| Problem solving in Polya's steps (a ladder against a wall; the angle of a cuboid's diagonal); angles of elevation and depression | Malaysia, Mathematics Form 3, Ch. 5 §5.1, printed pp. 122–123 |
 
-**Acceptance count: taught in 23 countries (Jordan, Egypt, Sierra
-Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria).**
+**Acceptance count: taught in 24 countries (Jordan, Egypt, Sierra
+Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia).**
 Jordan carries the cleanest introduction — ratios from similar
 right triangles, then elevation and depression. Egypt carries
 the special-angle table and tan = sin / cos in Preparatory 3,
@@ -184,3 +193,5 @@ China carries right-triangle trigonometry whole in Grade 9 Volume 2 — the rati
 Pakistan (Punjab) carries trigonometry in Class 10's ratios, identities and elevation work and the Class 11 PECTAA book's two full identity and graph units.
 
 Syria's trigonometry lives in Grade 9 Geometry, opened by Aristarchus' first trigonometric measurement: the three ratios are defined for an acute angle and shown to be the same for every right triangle sharing that angle, bounded by 1 because the hypotenuse is the longest side, linked by cos²θ + sin²θ = 1 and tan θ = sin θ / cos θ, and the 30°, 45° and 60° values are derived with Pythagoras and collected in the famous-angle table.
+
+Malaysia builds the three ratios from a similarity activity — the ratios are constant because the triangles are similar — then derives the special angles exactly and works its problems in Polya's steps.

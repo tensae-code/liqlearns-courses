@@ -1,6 +1,6 @@
 # Sources — Circles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia
 
 Every part traces to its book and page.
 
@@ -218,6 +218,10 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 
 **Book 102:** *Mathematics — Algebra, Student's Book, Grade 9* — Syria, Ministry of Education, held printing 2025–2026/1446H, first printed 2017–2018, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 103:** *Mathematics Form 2* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Rimbunan Ilmu Sdn. Bhd., 2017, ISBN 978-967-2031-06-2) and BM original *Matematik Tingkatan 2* (Rimbunan Ilmu Sdn. Bhd., 2017, ISBN 978-967-2031-05-5). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 104:** *Mathematics Form 3* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-983-00-9651-3) and BM original *Matematik Tingkatan 3* (Pustaka Yakin Pelajar Sdn. Bhd., 2018, ISBN 978-967-490-042-7). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 105:** *Additional Mathematics Form 5* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Abadi Ilmu Sdn. Bhd., 2020, ISBN 978-983-2914-68-6) and BM original *Matematik Tambahan Tingkatan 5* (Abadi Ilmu Sdn. Bhd., 2020, ISBN 978-983-2914-67-9). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The circle and its parts (p.111) — names parts, no circumference or area yet | Jordan, Grade 6 Student Book Term 1, Unit 4, L4, p.111 |
@@ -328,8 +332,14 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 | In a right-angled triangle the hypotenuse is a diameter of the circumcircle; conversely, if a side is a diameter of the circle through the triangle's vertices, the angle opposite it is right; the median to the hypotenuse equals half the hypotenuse (the midpoint of the hypotenuse is equidistant from all three vertices), and conversely a median equal to half its side means a right angle at that vertex; a tangent (مماس) to a circle shares exactly one point with it, the point of contact — the tangent at a point is the line through that point perpendicular to the radius there, and the distance from the centre to any tangent equals the radius | Syria, Grade 8 Geometry student's book, printed pp. 74–75, 84–85 |
 | A line and a circle: a tangent shares exactly one point (the point of tangency), a secant shares two points, an exterior line shares none; the relative positions of two circles classified by comparing the centre distance OO′ with R + R′ and R′ − R — externally tangent, internally tangent, separate outside, separate inside, intersecting; the chord property: the line from a circle's centre perpendicular to a chord passes through the chord's midpoint, and the line from the centre through a chord's midpoint is perpendicular to the chord | Syria, Grade 9 Geometry student's book, printed pp. 41–44 |
 | Archimedes' bounds for π recalled in the Unit 1 review of numbers (3 10/71 < π < 3 1/7), with the approximations π ≈ 22/7 and Zu Chongzhi's π ≈ 355/113 | Syria, Grade 9 Algebra student's book, printed pp. 25–26 |
+| Parts of a circle: centre, radius, diameter, chord, major and minor arc, sector, segment, semicircle — identified and named | Malaysia, Mathematics Form 2, Ch. 5 §5.1, printed pp. 76–80 |
+| Symmetry and chords: the perpendicular from the centre to a chord bisects the chord (and the related equal-chord facts), established by folding and symmetry | Malaysia, Mathematics Form 2, Ch. 5 §5.2, printed pp. 81–85 |
+| π defined as circumference ÷ diameter (≈ 22/7 or 3.142); circumference = πd = 2πr; area = πr² derived by rearranging sectors into an approximate rectangle | Malaysia, Mathematics Form 2, Ch. 5 §5.3, printed pp. 86–90 |
+| Arc length and sector area as fractions of the whole circle; inverse problems and shaded-region problems | Malaysia, Mathematics Form 2, Ch. 5 §5.3, printed pp. 90–95 |
+| Circle vocabulary completed, adding tangent, point of tangency and alternate segment (the theorems are filed under circle-theorems) | Malaysia, Mathematics Form 3, Ch. 6 chapter opener and §6.1, printed pp. 129–130 |
+| Arc length s = rθ and sector area ½r²θ measured in radians (main filing: radian-measure) | Malaysia, Additional Mathematics Form 5, Ch. 1 §§1.2–1.3, printed pp. 5–18 |
 
-**Acceptance count: taught in 26 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria).**.** Kazakhstan carries the full climb — circle Iran measures the circumference in Grade 5 — with the book's own bounds for π, 3 1/7 and 3 10/71, while its exercises work with π = 3 — the area of a circle in Grade 6, circle basics in Grade 8, and the circle's equation in Grade 12 Geometry (3).
+**Acceptance count: taught in 27 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia).**.** Kazakhstan carries the full climb — circle Iran measures the circumference in Grade 5 — with the book's own bounds for π, 3 1/7 and 3 10/71, while its exercises work with π = 3 — the area of a circle in Grade 6, circle basics in Grade 8, and the circle's equation in Grade 12 Geometry (3).
 parts in Grade 3, circle and disc in Grades 4 and 5, then the
 practical thread-and-glass discovery of pi with C = πD and the
 disc area in Grade 6. Jordan carries the parts in Grade 6 and
@@ -353,3 +363,5 @@ China carries circles in Grade 9 Volume 1 — the circle as a locus, the positio
 Pakistan (Punjab) carries circles from Grade 3's paper-folding centre, radius and diameter through Grade 7's circumference and area and Class 10's constructions to the Class 12 analytic treatment.
 
 Syria defines the circle, radius and diameter in Grade 5 and its area in Grade 6, derives the area πr² from rearranged sectors in Grade 7 — where the circumcircle of a triangle also appears — meets the tangent and the hypotenuse-as-diameter facts in Grade 8 Geometry, and classifies line–circle and circle–circle positions with the chord-midpoint property in Grade 9 Geometry. Ghana's presence in this lesson is curriculum evidence only and is not counted in the taught-in figure.
+
+Malaysia builds the circle in Form 2 — parts, chord symmetry, π, circumference and area — and completes its vocabulary in Form 3 where the theorems begin. Ghana stays in this lesson's countries line as curriculum evidence only and is not counted in the acceptance count, exactly as filed before this merge.

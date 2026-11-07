@@ -1,6 +1,6 @@
 # Sources — Projections and Views
 
-countries: Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia
+countries: Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia, Malaysia
 
 Every part traces to its book and page.
 
@@ -16,6 +16,8 @@ Every part traces to its book and page.
 
 **Book 10:** *Mathematics, Grade 4, Part Two of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1447H–2025, ISBN 978-603-514-148-2, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 11:** *Mathematics Form 3* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-983-00-9651-3) and BM original *Matematik Tingkatan 3* (Pustaka Yakin Pelajar Sdn. Bhd., 2018, ISBN 978-967-490-042-7). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Orthogonal and axonometric projections | Vietnam, G11 study book, Chuyên đề 3, Bài 11, printed p.52 |
@@ -30,7 +32,15 @@ Every part traces to its book and page.
 | Perspective drawing — looking at photographs, railway lines (enrichment) | South Africa, Grade 6 Workbook 2, WS142a/b; Grade 9 Workbook 2, WS120a/b/c (enrichment as filed) |
 | Nets: which flat pattern folds into a given solid — matching a net to its box, cone or pyramid | Saudi Arabia, Grade 4, Part Two, Ch. 8, printed pp. 47–51 |
 | Front, side and top views of a solid built from cubes; choosing which drawing is the view from a named side | Saudi Arabia, Grade 4, Part Two, Ch. 8, printed pp. 47–51 |
+| Planes (horizontal, vertical, inclined) and the normal to a plane; naming normals for cube and prism faces | Malaysia, Mathematics Form 3, Ch. 7 §7.1, printed pp. 170–171 |
+| Orthogonal projection defined — the projectors are perpendicular to the plane — and judged: deciding whether a given projection is an orthogonal projection | Malaysia, Mathematics Form 3, Ch. 7 §7.1, printed pp. 171–173 |
+| Drawing orthogonal projections step by step from directions X, Y and Z (a prism and a cylinder worked in full; a pyramid by dynamic software) | Malaysia, Mathematics Form 3, Ch. 7 §7.1, printed pp. 174–178 |
+| Comparing object and projection: which side lengths and which angles survive depends on the viewing direction | Malaysia, Mathematics Form 3, Ch. 7 §7.1, printed pp. 179–181 |
+| Plan = the top view on a horizontal plane; elevations = front and side views on vertical planes, all drawn to full scale; the four-quadrant layout with 45° projection lines; solid lines for visible edges, dashed for hidden, thin for construction | Malaysia, Mathematics Form 3, Ch. 7 §7.2, printed pp. 182–186 |
+| Synthesising the 3-D object from given plan and elevations; problem solving — recovering lengths, and volumes, from views | Malaysia, Mathematics Form 3, Ch. 7 §7.2, printed pp. 187–194 |
 
-**Acceptance count: taught in 7 countries (Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia).** Vietnam carries the engineering heart of the lesson: orthogonal and axonometric projections and technical drawing as named topics in its Grade 11 study book. Laos carries the intuitive opening — projections and shadows, with a birdhouse photographed from different viewpoints. North Macedonia carries parallel and orthogonal projection and representing a solid by drawing at Grade 8. China carries the history as a reading: descriptive geometry and Monge, from da Vinci and Desargues to orthographic projection on two perpendicular planes (reading as filed). Jordan carries isometric drawing, projections/views and cross-sections at Grade 8, with nets at Grade 4 as teacher evidence. South Africa carries views drawn on isometric paper and perspective drawing, the perspective filed as enrichment in its workbooks.
+**Acceptance count: taught in 8 countries (Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia, Malaysia).** Vietnam carries the engineering heart of the lesson: orthogonal and axonometric projections and technical drawing as named topics in its Grade 11 study book. Laos carries the intuitive opening — projections and shadows, with a birdhouse photographed from different viewpoints. North Macedonia carries parallel and orthogonal projection and representing a solid by drawing at Grade 8. China carries the history as a reading: descriptive geometry and Monge, from da Vinci and Desargues to orthographic projection on two perpendicular planes (reading as filed). Jordan carries isometric drawing, projections/views and cross-sections at Grade 8, with nets at Grade 4 as teacher evidence. South Africa carries views drawn on isometric paper and perspective drawing, the perspective filed as enrichment in its workbooks.
 
 Saudi Arabia joins this lesson from its Grade 4 geometry chapter: nets matched to the solids they fold into, and front, side and top views of cube-built solids.
+
+Malaysia teaches plans and elevations as a full Form 3 chapter — orthogonal projection defined first, then the plan-and-elevations layout with its line conventions, then the solid rebuilt from its views.

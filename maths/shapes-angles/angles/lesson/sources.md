@@ -1,6 +1,6 @@
 # Sources — Angles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia
 
 Every part traces to its book and page.
 
@@ -212,6 +212,9 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 
 **Book 110:** *Mathematics, Grade 4, Part Two of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1447H–2025, ISBN 978-603-514-148-2, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 111:** *Mathematics Form 1* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2016, ISBN 978-983-00-8271-4) and BM original *Matematik Tingkatan 1* (Penerbitan Pelangi Sdn. Bhd., 2016, ISBN 978-983-00-8244-8). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 112:** *Mathematics Form 2* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Rimbunan Ilmu Sdn. Bhd., 2017, ISBN 978-967-2031-06-2) and BM original *Matematik Tingkatan 2* (Rimbunan Ilmu Sdn. Bhd., 2017, ISBN 978-967-2031-05-5). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Angles lesson: lines, rays and angles | Jordan, Grade 3 Student Book Term 1, Unit 6, L2 Angles, p.98 |
@@ -328,8 +331,14 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Two angles are complementary (متتامّتان) when their measures sum to 90° and supplementary (متكاملتان) when they sum to 180°; vertically opposite angles — sides extensions of each other's — are equal; when a transversal cuts two parallel lines, alternate interior angles are equal, alternate exterior angles are equal, and corresponding angles are equal — with the converses: equal angles of any of these kinds make the two lines parallel; consecutive angles of a parallelogram are supplementary; the angles of a triangle sum to 180°, discovered by folding a cut-out triangle so its three angles form a straight angle; in a right-angled triangle the two acute angles sum to 90° (45° each in a right-angled isosceles triangle); finding the third angle and naming the triangle's type by its angles; the interior-angle sum of a polygon found by triangulating from one vertex — a pentagon gives 3 × 180° = 540°, in general (n − 2) × 180° | Syria, Grade 7 student's book, printed pp. 59–63, 129–131, 150 |
 | Complementary angles (summing to 90°) and supplementary angles (summing to 180°) recalled in the Unit 3 diagnostic | Syria, Grade 9 Geometry student's book, Unit 3 diagnostic, printed p. 39 |
 | Angles measured in degrees and in turns; the right angle (90°) and acute and obtuse angles recognised and compared; drawing angles of a given size | Saudi Arabia, Grade 4, Part Two, Ch. 8, printed pp. 63–67 |
+| Congruent line segments and congruent angles; estimating and measuring lengths and angles | Malaysia, Mathematics Form 1, Ch. 8 §8.1, printed pp. 170–172 |
+| Angles on a straight line (180°), reflex angles, angles at a point (360°); complementary and supplementary angles | Malaysia, Mathematics Form 1, Ch. 8 §8.1, printed pp. 173–175 |
+| Vertically opposite angles and adjacent angles at intersecting lines; finding unknown angles | Malaysia, Mathematics Form 1, Ch. 8 §8.2, printed pp. 185–187 |
+| Parallel lines cut by a transversal: corresponding, alternate and interior angles; tests for parallelism; angles of elevation and depression in application exercises | Malaysia, Mathematics Form 1, Ch. 8 §8.3, printed pp. 188–198 |
+| Sum of interior angles of a polygon = (n − 2) × 180°, derived by triangulating from one vertex | Malaysia, Mathematics Form 2, Ch. 4 §4.2, printed pp. 62–64 |
+| Sum of exterior angles of a polygon = 360°; the interior and exterior angle of a regular polygon; finding the number of sides from a given angle | Malaysia, Mathematics Form 2, Ch. 4 §4.2, printed pp. 64–72 |
 
-**Acceptance count: taught in 27 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia).** Egypt carries the fullest single Iran measures angles with a protractor in Grade 4, bisects angles and sums polygon angles in Grade 5, and gives the (n − 2) × 180° interior-angle rule in Grade 8.
+**Acceptance count: taught in 28 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia).** Egypt carries the fullest single Iran measures angles with a protractor in Grade 4, bisects angles and sums polygon angles in Grade 5, and gives the (n − 2) × 180° interior-angle rule in Grade 8.
 treatment — the angle kinds, the protractor, complementary and
 supplementary pairs, the transversal's eight angles, and the
 triangle and quadrilateral sums in one Grade 7 unit. Jordan
@@ -357,3 +366,5 @@ Pakistan (Punjab) carries angles from Grade 4's protractor work through Class 6'
 Syria meets the angle in Grade 3 beside point, line, ray and segment, names and classifies angles in Grade 4, measures with the protractor in Grade 5, and proves the working facts in Grades 6–7 — vertically opposite angles, the straight-angle sum, complementary and supplementary pairs, the transversal equalities with their converses, and the triangle's 180° found by folding a cut-out triangle.
 
 Saudi Arabia introduces the angle in Grade 4 — degrees alongside turns, the right angle named at 90°, acute and obtuse compared by size, and angles drawn to a given measure.
+
+Malaysia builds angles in Form 1 from measuring to parallels and transversals, then closes the polygon angle sums in Form 2, deriving the interior sum by triangulating from one vertex.

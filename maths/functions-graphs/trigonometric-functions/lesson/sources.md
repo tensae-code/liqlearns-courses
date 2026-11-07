@@ -1,6 +1,6 @@
 # Sources — Trigonometric Functions
 
-countries: China, Pakistan, Iraq, Greece, Iran, Vietnam, Ethiopia, South Sudan, Syria
+countries: China, Pakistan, Iraq, Greece, Iran, Vietnam, Ethiopia, South Sudan, Syria, Malaysia
 
 Every part traces to its book and page.
 
@@ -17,6 +17,9 @@ Every part traces to its book and page.
 
 **Book 11:** *Mathematics, Part One, Grade 12 (Scientific track)* — Syria, Ministry of Education (the NCCD is not named on this book's title page), held printing 2025–2026/1447H, first printed 2016–2017, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 12:** *Mathematics Form 5* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2020, ISBN 978-967-2930-12-9) and BM original *Matematik Tingkatan 5* (Penerbitan Pelangi Sdn. Bhd., 2020, ISBN 978-967-2907-93-0). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 13:** *Additional Mathematics Form 5* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Abadi Ilmu Sdn. Bhd., 2020, ISBN 978-983-2914-68-6) and BM original *Matematik Tambahan Tingkatan 5* (Abadi Ilmu Sdn. Bhd., 2020, ISBN 978-983-2914-67-9). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Trig functions of a general angle; y = sin x, y = A sin(ωx + φ), y = cos x, y = tan x fully graphed (period, phase, amplitude); solving trig equations from graphs; tide/sinusoid modelling | China, Compulsory Volume 3 (B edition) student book, Chapter 7, printed pp.1–68 |
@@ -32,7 +35,14 @@ Every part traces to its book and page.
 | Graphs of sin, cos, tan: period, amplitude, and the asymptotes of tan at odd multiples of π/2; radian measure alongside degrees inside the same unit | Ethiopia, Grade 10 student book, Unit 4, printed pp.199–250 |
 | Graphs of trigonometric functions | South Sudan, Secondary Mathematics Student's Book 4, Unit 2, printed pp.41–45 |
 | A full study of f(x) = tan x: the domain excludes π/2 + kπ; tan is odd and π-periodic, so study on [0, π/2[ suffices and the rest follows by central symmetry and translation; f(x) → +∞ as x → (π/2)⁻, so x = π/2 is a vertical asymptote; f′(x) = 1 + tan²x = 1/cos²x > 0, so tan is strictly increasing on its intervals | Syria, Grade 12 Scientific, Part One, printed pp. 75–76 |
+| Sine, cosine and tangent for 0° < θ < 360°: signs by quadrant, the reference angle, values in quadrants II–IV, and angles recovered from a given ratio | Malaysia, Mathematics Form 5, Ch. 6 §6.1, printed pp. 174–182 |
+| Graphs of y = sin x, y = cos x and y = tan x for 0° ≤ x ≤ 360° — shape, maxima and minima, intercepts, tan undefined at 90° and 270°; period and amplitude; the effect of a, b and c in y = a sin bx + c and its cos/tan analogues; graphs used in context (airflow, tides) | Malaysia, Mathematics Form 5, Ch. 6 §6.2, printed pp. 184–191 |
+| Positive and negative angles, and angles beyond 360°; trigonometric ratios of any angle from the unit circle and the reference angle | Malaysia, Additional Mathematics Form 5, Ch. 6 §§6.1–6.2, printed pp. 190–199 |
+| Graphs of the sine, cosine and tangent functions over extended domains: amplitude and period | Malaysia, Additional Mathematics Form 5, Ch. 6 §6.3, printed pp. 201–208 |
+| Applications of trigonometric functions in context | Malaysia, Additional Mathematics Form 5, Ch. 6 §6.6, printed pp. 222–226 |
 
-**Acceptance count: taught in 9 countries (China, Pakistan, Iraq, Greece, Iran, Vietnam, Ethiopia, South Sudan, Syria).** China carries the full chapter — trig functions of a general angle, the graphs, y = A sin(ωx + φ), and the tide model — with its teacher guide as teacher evidence for the sine-line-first order. Pakistan carries all six functions with their domains and ranges, the sinusoidal family a + b sin(cθ + d), and Ferris-wheel and tide models. Iraq carries the circular functions whole in Grade 11 Scientific, and contributes a corrected calculator value from Grade 10 Scientific (tan(−36°) ≈ −0.7265, not the printed −0.588). Greece carries trig functions of any angle inside its B' Lykeiou trigonometry chapter. Iran carries periodicity and the tangent function's graph in Hesaban (2). Vietnam carries trigonometric functions as a named lesson in Toán 11 Volume 1. Ethiopia carries the graphs of sin, cos and tan with period, amplitude and the tangent's asymptotes in Grade 10. South Sudan carries trig graphs in Secondary 4.
+**Acceptance count: taught in 10 countries (China, Pakistan, Iraq, Greece, Iran, Vietnam, Ethiopia, South Sudan, Syria, Malaysia).** China carries the full chapter — trig functions of a general angle, the graphs, y = A sin(ωx + φ), and the tide model — with its teacher guide as teacher evidence for the sine-line-first order. Pakistan carries all six functions with their domains and ranges, the sinusoidal family a + b sin(cθ + d), and Ferris-wheel and tide models. Iraq carries the circular functions whole in Grade 11 Scientific, and contributes a corrected calculator value from Grade 10 Scientific (tan(−36°) ≈ −0.7265, not the printed −0.588). Greece carries trig functions of any angle inside its B' Lykeiou trigonometry chapter. Iran carries periodicity and the tangent function's graph in Hesaban (2). Vietnam carries trigonometric functions as a named lesson in Toán 11 Volume 1. Ethiopia carries the graphs of sin, cos and tan with period, amplitude and the tangent's asymptotes in Grade 10. South Sudan carries trig graphs in Secondary 4.
 
 Syria studies the tangent function completely in Grade 12 Part One — domain, period, asymptotes and derivative.
+
+Malaysia teaches trigonometric functions twice: in Form 5 core, ratios in all four quadrants and the three graphs on 0°–360° with amplitude and period; and in Additional Mathematics Form 5, angles of any size and the graphs over extended domains.

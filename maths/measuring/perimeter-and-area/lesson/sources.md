@@ -1,6 +1,6 @@
 # Sources — Perimeter and Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia
 
 Every part traces to its book and page.
 
@@ -293,6 +293,11 @@ READ + CITATION CHECK PASSED 2026-11-05).
 
 **Book 130:** *Mathematics, Grade 4, Third Term Exercises Book (كتاب التمارين)* — Saudi Arabia, Ministry of Education, edition 1443H–2021; no ISBN printed in the surviving pages, Arabic. PARTIAL copy: only printed pp. 20–47 survive, so its rows are practice evidence for Chs. 9–12 only — never for Ch. 7/8 content. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 131:** *Mathematics Form 1* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2016, ISBN 978-983-00-8271-4) and BM original *Matematik Tingkatan 1* (Penerbitan Pelangi Sdn. Bhd., 2016, ISBN 978-983-00-8244-8). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 132:** *Additional Mathematics Form 4* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-967-2375-42-5 — the held copy is an image-only scan read visually; its contents pages, printed v–vi, are missing, the body is complete) and BM original *Matematik Tambahan Tingkatan 4* (Pan Asia Publications Sdn. Bhd., 2019, ISBN 978-967-466-377-3). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 133:** *Mathematics Form 5* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2020, ISBN 978-967-2930-12-9) and BM original *Matematik Tingkatan 5* (Penerbitan Pelangi Sdn. Bhd., 2020, ISBN 978-967-2907-93-0). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 134:** *Additional Mathematics Form 5* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Abadi Ilmu Sdn. Bhd., 2020, ISBN 978-983-2914-68-6) and BM original *Matematik Tambahan Tingkatan 5* (Abadi Ilmu Sdn. Bhd., 2020, ISBN 978-983-2914-67-9). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Perimeter (p.92); area (p.94); area of a rectangle (p.96) | Jordan, Grade 3 Student Book Term 2, Unit 11, L5–L7, pp.92–96 |
@@ -428,8 +433,16 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Perimeter of the rectangle (2 × length + 2 × width) and of the square (4 × side), estimated before calculating; area by counting and by the formulas l × w and s × s; irregular area by counting whole and part squares; the unknown side found from the area | Saudi Arabia, Grade 4, Part Two, Ch. 9, printed pp. 98–106 |
 | Parallel witness: the same perimeter and area lessons in the older 1445 edition (witness only) | Saudi Arabia, Grade 4, Third Term (1445), Ch. 9, printed pp. 18–26 |
 | Practice evidence (PARTIAL copy): perimeters and areas on squared paper and from labelled sides; the missing side of a square room from its area (121 m²) | Saudi Arabia, Grade 4 Exercises Book (1443, partial), printed pp. 21–23, 39 |
+| Perimeter of plane shapes, estimated then computed; fencing-cost problems | Malaysia, Mathematics Form 1, Ch. 10 §10.1, printed pp. 226–230 |
+| Estimating the area of an irregular shape by counting grid squares (the full + half-or-more rule) | Malaysia, Mathematics Form 1, Ch. 10 §10.2, printed p. 231 |
+| Area formulae for triangle, parallelogram, kite and trapezium derived (cut-and-rearrange and doubling arguments) and then applied, including composite shapes | Malaysia, Mathematics Form 1, Ch. 10 §10.2, printed pp. 232–237 |
+| The relationship between perimeter and area explored: the same perimeter with different areas, and the largest area for a fixed perimeter | Malaysia, Mathematics Form 1, Ch. 10 §10.3, printed pp. 238–242 |
+| Area of a triangle from coordinates derived by the trapezium method, and the shoelace formula; areas of quadrilaterals and polygons by the generalised shoelace (a pentagon of 21½ unit²) | Malaysia, Additional Mathematics Form 4, Ch. 7 §7.3, printed pp. 192–198 |
+| Area of a triangle = ½ab sin C, derived from base × height; Heron's formula with the semi-perimeter (s = 13.7 gives an area of 25.39 cm²) | Malaysia, Additional Mathematics Form 4, Ch. 9 §9.3, printed pp. 256–262 |
+| Area of the image under an enlargement = k² × the area of the object (main filing: transformations) | Malaysia, Mathematics Form 5, Ch. 5 §5.2, printed pp. 145–146 |
+| Perimeter of a segment of a circle: arc + chord, the chord found by the cosine rule or by the perpendicular-from-centre split (main filing: radian-measure) | Malaysia, Additional Mathematics Form 5, Ch. 1 §1.2, printed pp. 8–10 |
 
-**Acceptance count: taught in 27 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia).** Sierra Leone carries the cleanest Iran counts squares for area in Grade 3, derives the parallelogram and triangle areas in Grade 4, adds the rhombus and trapezium in Grade 5, and reaches polygon areas in Grade 10 Geometry (1) and Heron's formula in Grade 11 Geometry (2).
+**Acceptance count: taught in 28 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia).** Sierra Leone carries the cleanest Iran counts squares for area in Grade 3, derives the parallelogram and triangle areas in Grade 4, adds the rhombus and trapezium in Grade 5, and reaches polygon areas in Grade 10 Geometry (1) and Heron's formula in Grade 11 Geometry (2).
 ladder — perimeter short cuts, rectangle and triangle areas with
 the perpendicular-height rule, and the parallelogram, trapezium
 and composite areas in JSS 2. Jordan carries perimeter and area
@@ -458,3 +471,5 @@ Pakistan (Punjab) carries perimeter and area from Grade 3's first formulas throu
 Syria explores perimeter and area by counting in Grade 3, gives the rectangle and square rules in Grade 4, derives the triangle's area as half a rectangle in Grade 5, introduces π with its Egyptian and Babylonian values in Grade 6, derives the parallelogram's and triangle's areas by cutting and pasting in Grades 6–7, and closes the arc in Grade 12, where the integral itself is defined as area and signed area is separated from true area.
 
 Saudi Arabia separates the two measures cleanly: area by covering and counting squares from Grade 2, perimeter as the sum of the sides in Grade 3, then both formulas in Grade 4 with estimation first and the unknown side found from the area — witnessed by the older 1445 Term-3 volumes, with practice evidence from the partial exercises book.
+
+Malaysia derives its plane area formulae in Form 1 by cutting and rearranging — never just stating them — and returns to area at the top end with the shoelace formula for coordinates and ½ab sin C with Heron's formula for triangles.

@@ -1,6 +1,6 @@
 # Sources — Pythagoras
 
-countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria
+countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia
 
 Every part traces to its book and page.
 
@@ -126,6 +126,9 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 
 **Book 48:** *Mathematics — Geometry, Student's Book, Grade 9* — Syria, Ministry of Education, held printing 2025–2026/1446H, first printed 2017–2018, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 49:** *Mathematics Form 1* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2016, ISBN 978-983-00-8271-4) and BM original *Matematik Tingkatan 1* (Penerbitan Pelangi Sdn. Bhd., 2016, ISBN 978-983-00-8244-8). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 50:** *Mathematics Form 3* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-983-00-9651-3) and BM original *Matematik Tingkatan 3* (Pustaka Yakin Pelajar Sdn. Bhd., 2018, ISBN 978-967-490-042-7). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Pythagoras' theorem and its converse (3-2, printed 70–77): finding a side; the converse; classifying triangles by angles from side lengths (acute, right or obtuse by comparing squares); Get Ready: a 13-foot ladder against a wall; Unit Three Activity: a Pythagoras practical (printed 104) | Egypt, Grade 8 Term 1, Unit 3, 3-2, printed pp.70–77, 104 |
@@ -181,8 +184,11 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 | Pythagoras' theorem stated and proved by the similar triangles formed by the altitude to the hypotenuse; the converse, with the corollaries classifying a triangle as right, acute or obtuse by comparing a² + b² with c²; practical applications (a plane's distance, a ladder, a direct route) | Pakistan (Punjab), Class 9 (PCTB, eLearn.Punjab v1.1), Ch. 15, printed pp. 2–7 |
 | Pythagoras' theorem discovered by measuring right triangles and tabulating the squares, then proved by the two-squares dissection — in each (a + b) square, four copies of the triangle leave a² + b² in one arrangement and c² in the other; the theorem stated: in a right-angled triangle the square of the hypotenuse equals the sum of the squares of the two legs, the hypotenuse being the longest side; computing a side (AB from 3² + 4² = 25, so AB = 5; HC from HC² = 6² − 3² = 27, so HC = √27); the converse of Pythagoras' theorem: if the square of one side equals the sum of the squares of the other two, the triangle is right-angled at the vertex opposite the longest side — applied with sides 40, 42, 58 (58² = 3364 = 40² + 42², right-angled at A); the converse's second worked case on p. 79 re-uses the first case's numbers (it writes BC² = 58² and 40² + 42²) for the given sides AB = 11, AC = 9, BC = 15 — taught corrected: 15² = 225 ≠ 11² + 9² = 202, so that triangle is not right-angled; the height of an equilateral triangle of side a is h = a√3/2, derived by Pythagoras, and its area is S = a²√3/4 | Syria, Grade 8 Geometry student's book, printed pp. 76–79 |
 | Pythagoras' theorem used as a working tool throughout: in the proof of cos²θ + sin²θ = 1, in deriving the 45° and 30°/60° ratios, and to test whether a triangle is right-angled (the sides 30, 40, 51 do not satisfy it); space Pythagoras in the Unit 4 diagnostic — in a cuboid, AB = √(29² − 20²) = 21 cm; Pythagoras used to find the radius of a sphere section (IJ² + OI² = OJ² with OJ = 3 and OI = 2 gives IJ = √5) | Syria, Grade 9 Geometry student's book, printed pp. 3, 11, 13, 61, 76 |
+| The hypotenuse identified as the side opposite the right angle; the theorem established by comparing the areas of squares on the three sides (a² + b² = c²); finding a hypotenuse or a shorter side (12–16–20 and 10–24–26 worked; chained right triangles, PR² = 3² + 4² then PQ = 13 cm) | Malaysia, Mathematics Form 1, Ch. 13 §13.1, printed pp. 294–299 |
+| The converse of Pythagoras' theorem: deciding from side lengths whether a triangle is right-angled | Malaysia, Mathematics Form 1, Ch. 13 §13.2, printed pp. 300–302 |
+| Distance between two points from coordinates, the distance formula carried in the book's own Symbols and Formulae list (main filing: coordinates-and-graphs) | Malaysia, Mathematics Form 3, Ch. 9 Self Mastery, printed pp. 248–249 |
 
-**Acceptance count: taught in 24 countries (Egypt, Greece, Armenia, Kazakhstan, Vietnam, Sierra Leone, Libya, Mauritania, South Africa, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria).**.** Egypt carries the fullest single treatment — Iran states Pythagoras' theorem in Grade 8 and verifies it on examples rather than proving it, and uses the converse.
+**Acceptance count: taught in 25 countries (Egypt, Greece, Armenia, Kazakhstan, Vietnam, Sierra Leone, Libya, Mauritania, South Africa, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia).**.** Egypt carries the fullest single treatment — Iran states Pythagoras' theorem in Grade 8 and verifies it on examples rather than proving it, and uses the converse.
 the theorem, its converse, classifying triangles by comparing
 squares, the 13-foot ladder and a Pythagoras practical in Grade
 8. Sierra Leone carries the cleanest ladder in JSS 3 — the
@@ -214,3 +220,5 @@ China enters Pythagoras only in part: in the held books the theorem is used, not
 Pakistan (Punjab) carries Pythagoras in Class 8's statement-and-use treatment and Class 9's proof by similar triangles, with the converse and its acute/right/obtuse classification.
 
 Syria discovers Pythagoras' theorem in Grade 8 Geometry by measuring and tabulating squares, proves it by the two-squares dissection, states the converse and uses it both ways, and then uses the theorem as a working tool throughout Grade 9 Geometry — in trigonometry, in space and on sphere sections. Ghana's presence in this lesson is curriculum evidence only and is not counted in the taught-in figure.
+
+Malaysia gives Pythagoras the final chapter of Form 1, theorem and converse both, proving the theorem by areas of squares. Ghana stays in this lesson's countries line as curriculum evidence only and is not counted in the acceptance count, exactly as filed before this merge.

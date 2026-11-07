@@ -1,6 +1,6 @@
 # Sources — Bearings
 
-countries: Sierra Leone, Libya, Nepal, Jordan, South Sudan
+countries: Sierra Leone, Libya, Nepal, Jordan, South Sudan, Malaysia
 
 Every part traces to its book and page.
 
@@ -9,6 +9,8 @@ Every part traces to its book and page.
 **Book 3:** *Mathematics, Class 8* — Nepal, CDC, Sanothimi, First edition VS 2072; revised 2nd edition VS 2076. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED). Student book only: Nepal's Grade 8 teacher guide is a mismatch guide for a different textbook and is cited nowhere in this lesson.
 **Book 4:** *Mathematics, Grade 10, Student Book, Term 1* — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd revised edition, ISBN 978-9923-41-360-9. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 5:** *Secondary Mathematics — Student's Book 1* — South Sudan, Ministry of General Education and Instruction, ©2018, Mountain Top Publishers. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 6:** *Additional Mathematics Form 4* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-967-2375-42-5 — the held copy is an image-only scan read visually; its contents pages, printed v–vi, are missing, the body is complete) and BM original *Matematik Tambahan Tingkatan 4* (Pan Asia Publications Sdn. Bhd., 2019, ISBN 978-967-466-377-3). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -23,6 +25,9 @@ Every part traces to its book and page.
 | Bearings — three-figure, clockwise from north; reverse bearing ±180° (A→B 075° → B→A 255°); scale-drawing journey: ship on 045° for 80 miles then 135° for 90 miles at 1 cm = 20 miles, closing distance 5 cm = 100 miles; exercise journey 030° for 5 km then 120° for 3 km (student book only) | Nepal, Grade 8 student book, Unit 9 — Direction & Scale Drawing, printed pp. 77–82 |
 | Bearing from north — the opening lesson of the trigonometry-applications unit | Jordan, Grade 10 Term 1, Unit 4, Lesson 1 "Bearing from north", printed p. 100 |
 | Bearings, clockwise from north as three figures; right-angled trigonometry with navigation problems in the same unit | South Sudan, Secondary Mathematics — Student's Book 1, Unit 3, printed pp. 74–77 (bearings); printed pp. 80–89 (trigonometry and navigation) |
+| Bearings worked inside sine-rule problems: a post office at bearing 039.13° from one house and 301.13° from another, at a distance of 6.265 km | Malaysia, Additional Mathematics Form 4, Ch. 9 §9.1, Example 3, printed pp. 245–246 |
 
-**Acceptance count: taught in 5 countries (Sierra Leone, Libya, Nepal, Jordan, South Sudan).**
+**Acceptance count: taught in 6 countries (Sierra Leone, Libya, Nepal, Jordan, South Sudan, Malaysia).**
 Sierra Leone carries the fullest course — eight lessons from compass bearings to mixed rule-choice problems in SSS 2 Term 3. Libya carries bearings inside its sine/cosine-rule chapter in Grade 11 Science, with problems combining triangles and bearings. Nepal carries three-figure bearings, the ±180° reverse rule and scale-drawn journeys in its Grade 8 student book (student book only — its Grade 8 guide is a mismatch guide and is not cited). Jordan opens its Grade 10 trigonometry-applications unit with bearing from north. South Sudan carries bearings clockwise from north as three figures in Secondary 1, beside right-angled trigonometry and navigation problems.
+
+Malaysia meets bearings inside its Additional Mathematics triangle work rather than as a chapter of its own: three-figure bearings fix the positions, and the sine rule does the rest.

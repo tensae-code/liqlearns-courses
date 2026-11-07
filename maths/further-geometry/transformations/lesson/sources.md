@@ -1,6 +1,6 @@
 # Sources — Transformations
 
-countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria
+countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia
 
 Every part traces to its book and page.
 
@@ -148,6 +148,9 @@ textbook.
 
 **Book 72:** *Mathematics, Part Two, Grade 12 (Scientific track)* — Syria, Ministry of Education, held printing 2025–2026/1447H, first printed 2016–2017, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 73:** *Mathematics Form 2* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Rimbunan Ilmu Sdn. Bhd., 2017, ISBN 978-967-2031-06-2) and BM original *Matematik Tingkatan 2* (Rimbunan Ilmu Sdn. Bhd., 2017, ISBN 978-967-2031-05-5). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 74:** *Mathematics Form 5* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2020, ISBN 978-967-2930-12-9) and BM original *Matematik Tingkatan 5* (Penerbitan Pelangi Sdn. Bhd., 2020, ISBN 978-967-2907-93-0). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Transformation, reflection, translation and rotation defined; centre of rotation; clockwise and anticlockwise; the image congruent to the original; reflection in the x-axis (x, y) → (x, −y) and y-axis (x, y) → (−x, y); translation by (a, b); rotation about the origin R(O, 90°) (x, y) → (−y, x), R(O, −90°) (x, y) → (y, −x), R(O, ±180°) (x, y) → (−x, −y); the starfish 72° rotational symmetry; the "ambulance" mirror writing; the 20-seat Ferris wheel | Egypt, Grade 7 Term 2, Unit 3 Geometry and Measurement, 3-3 Geometric Transformations, printed pp.61–68 |
@@ -227,8 +230,16 @@ textbook.
 | Central symmetry treated as a transformation that sends each point to its image about a centre, preserving lengths, angles and parallelism (the image segment is parallel and equal) | Syria, Grade 7 student's book, printed pp. 83–85 |
 | Translation (الانسحاب) introduced by sliding tracing-paper cut-outs across a tessellated Damascus pavement: the image of a figure under 'the translation that takes point A to point B'; a translation preserves lengths, collinearity (الاستقامة), angle measures and areas; the image of a point under a translation defined through a parallelogram — M′ is the image of M under the translation taking A to B exactly when ABM′M is a parallelogram, so [AM′] and [BM] bisect each other; constructing the image of a point with the compass alone, with the justification written out — in geometric construction only compass and unmarked ruler are used; the image of a line under a translation is a line parallel to it, proved, not just observed (the book warns that in geometry an answer may not be read off the figure); images of parallel lines are parallel and of perpendicular lines perpendicular; images of the standard figures — a segment maps to a parallel equal segment, a ray to a parallel ray, a circle to a circle of the same radius whose centre is the image of the centre; using the properties to construct the image of a square of side 3 cm and verify each image point | Syria, Grade 8 Geometry student's book, printed pp. 5–15 |
 | The complex forms of the plane transformations, as theorems: the translation by the vector represented by b is exactly z′ = z + b; the homothety of centre ω and real ratio k ≠ 0 is exactly z′ − ω = k(z − ω), with a fully worked image computation; the rotation of centre ω and angle θ is exactly z′ − ω = e^{iθ}(z − ω), proved from distance and angle — and a mapping given in complex form is recognised back as a translation, homothety or rotation from its shape | Syria, Grade 12 Scientific, Part Two, printed pp. 119–120 |
+| Transformations recognised in patterns and in daily life | Malaysia, Mathematics Form 2, Ch. 11 §11.1, printed pp. 208–211 |
+| Translation described by direction and distance and written in vector (column) form; object and image under a translation | Malaysia, Mathematics Form 2, Ch. 11 §11.2, printed pp. 212–217 |
+| Reflection described by its mirror line; object and image under a reflection | Malaysia, Mathematics Form 2, Ch. 11 §11.3, printed pp. 218–222 |
+| Rotation described by centre, angle and direction; object and image under a rotation | Malaysia, Mathematics Form 2, Ch. 11 §11.4, printed pp. 223–229 |
+| Translation, reflection and rotation shown to be isometries — the image is congruent to the object | Malaysia, Mathematics Form 2, Ch. 11 §11.5, printed pp. 230–233 |
+| Enlargement described by its centre and scale factor; finding the centre and the scale factor from object and image | Malaysia, Mathematics Form 5, Ch. 5 §5.2, printed pp. 134–143 |
+| Combined transformations: the image under two successive transformations, with the notation QP for 'Q after P'; combined transformations are in general NOT commutative | Malaysia, Mathematics Form 5, Ch. 5 §5.3, printed pp. 149–155 |
+| Describing a combined transformation by a single equivalent transformation, and problem solving | Malaysia, Mathematics Form 5, Ch. 5 §5.3, printed pp. 156–159 |
 
-**Acceptance count: taught in 24 countries (Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria).**.** Egypt carries the Iran rotates shapes in Grade 6, translates, reflects and rotates them with tracing paper in Grade 7, and gives transformations whole — homothety included — in Grade 11 Geometry (2).
+**Acceptance count: taught in 25 countries (Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia).**.** Egypt carries the Iran rotates shapes in Grade 6, translates, reflects and rotates them with tracing paper in Grade 7, and gives transformations whole — homothety included — in Grade 11 Geometry (2).
 fullest single treatment — all four moves defined with
 coordinate rules plus composition in Grade 7 Term 2. Jordan
 carries translation and reflection in Grade 6, rotation in
@@ -248,3 +259,5 @@ China carries transformations across the set — translation in Grades 2, 4 and 
 Pakistan (Punjab) carries transformations from Class 6's grid rotations and Class 7's reflections and translations through Class 8's enlargements to Class 11's reflection matrices and Class 12's moving axes.
 
 Syria names reflection, rotation and translation in Grade 5, describes translations on grids and rotations about points in Grade 6, defines the translation image through a parallelogram in Grade 8 Geometry — with the warning that an answer may not be read off the figure — and closes in Grade 12, where translation, homothety and rotation are recognised from their complex forms.
+
+Malaysia teaches transformations twice: the three isometries in Form 2, each described in its own terms, and enlargement with combined transformations in Form 5, where the order of a combination is shown to matter.

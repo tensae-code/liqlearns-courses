@@ -1,6 +1,6 @@
 # Sources — Sequences and series
 
-countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia
+countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia
 
 Every part traces to its book and page.
 
@@ -135,6 +135,10 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 73:** *Mathematics, Grade 4, Part One of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1448H–2026, ISBN 978-603-8527-30-6, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 74:** *Mathematics Form 2* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Rimbunan Ilmu Sdn. Bhd., 2017, ISBN 978-967-2031-06-2) and BM original *Matematik Tingkatan 2* (Rimbunan Ilmu Sdn. Bhd., 2017, ISBN 978-967-2031-05-5). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 75:** *Mathematics Form 4* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Sasbadi Sdn. Bhd., 2019, ISBN 978-983-77-1531-8) and BM original *Matematik Tingkatan 4* (Pustaka Yakin Pelajar Sdn. Bhd., 2019, ISBN 978-967-490-087-8). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 76:** *Additional Mathematics Form 4* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-967-2375-42-5 — the held copy is an image-only scan read visually; its contents pages, printed v–vi, are missing, the body is complete) and BM original *Matematik Tambahan Tingkatan 4* (Pan Asia Publications Sdn. Bhd., 2019, ISBN 978-967-466-377-3). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Arithmetic sequence: common difference d; general term aₙ = a₁ + (n−1)d; middle-term (arithmetic mean) formula; sum of the first n terms Sₙ = (a₁+aₙ)/2 · n with a pairing proof, and the 2a₁+(n−1)d form; applied problems (concert-hall seating, population growth, tomato harvest, well-drilling cost) | Kazakhstan, Algebra 9 (Yelemessov, English), §3.2 Arithmetic sequence, p.84; applied problems p.94 |
@@ -221,8 +225,14 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 | Parallel witness: the same pattern lessons in the older 1445 edition (witness only) | Saudi Arabia, Grade 2, Third Term (1445), Ch. 9, printed pp. 27–29 |
 | Number patterns as the opening algebra lesson: find the rule, write the next numbers and the missing numbers | Saudi Arabia, Grade 3, Part One, Ch. 1, printed pp. 13–15 |
 | A pattern defined as a series of numbers or shapes following a rule; discovering a table's rule and extending the table with new numbers | Saudi Arabia, Grade 4, Part One, Ch. 4, printed pp. 116–119 |
+| A sequence defined as numbers or objects arranged by a pattern; a sequence's pattern described in words | Malaysia, Mathematics Form 2, Ch. 1 §1.2, printed pp. 7–9 |
+| Generalisations of a pattern written three ways — in numbers, in words and in algebraic expressions (1, 9, 17, 25, 33, … has the pattern +8 and the nth term 1 + 8n for n = 0, 1, 2, …) | Malaysia, Mathematics Form 2, Ch. 1 §1.3, printed p. 10 |
+| Terms Tn; determining a specific term from a pattern or a general term, and which position a given value holds (in 65, 60, 55, 50, … the value 40 is the 6th term); sequence problems | Malaysia, Mathematics Form 2, Ch. 1 §1.3, printed pp. 10–16 |
+| A strong inductive conclusion — a general term — formed for a number sequence (main filing: mathematical-logic) | Malaysia, Mathematics Form 4, Ch. 3 §3.2, printed p. 83 |
+| Arithmetic progressions: the common difference tested; Tₙ = a + (n − 1)d derived and used; Sₙ = n/2 [2a + (n − 1)d] = n/2 (a + l) derived; Tₙ = Sₙ − Sₙ₋₁ | Malaysia, Additional Mathematics Form 4, Ch. 5 §5.1, printed pp. 128–138 |
+| Geometric progressions: the common ratio; Tₙ = arⁿ⁻¹; both Sₙ forms; the sum to infinity S∞ = a/(1 − r) for |r| < 1; applications (a marketing network reaching S₉ = 1 + 2 + … + 2⁸ = 511 members) | Malaysia, Additional Mathematics Form 4, Ch. 5 §5.2, printed pp. 139–151 |
 
-**Acceptance count: taught in 21 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia).**.** Kazakhstan carries
+**Acceptance count: taught in 22 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia).**.** Kazakhstan carries
 the fullest treatment — all four Grade 9 Algebra books prove
 the nth-term formulas, the characteristic properties, both
 sum formulas and the infinite geometric sum, with applied
@@ -249,3 +259,5 @@ Pakistan (Punjab) carries sequences from the Primer's patterns and the primary n
 Syria works repeating patterns from Grade 1 and pattern rules in Grade 4, then gives sequences their full analysis treatment in Grade 12 Part One: arithmetic and geometric sequences with their sums, monotonicity by three methods, recurrence sequences solved in general, and the complete limit theory — monotone convergence, adjacent sequences, and bracketing of √2 and e.
 
 Saudi Arabia teaches patterns from Grade 1 — repeating units first, then growing and shrinking number patterns with stated rules, patterns to 1000 by 1s, 10s and 100s in Grade 2, and the explicit definition (a series following a rule) with table rules in Grade 4, with the older 1445 Term-3 volume witnessing the Grade 2 Part Two chapter.
+
+Malaysia grows sequences from Form 2 patterns — a generalisation stated in numbers, in words and in algebra — into the full progressions course of Additional Mathematics Form 4, sums to infinity included.

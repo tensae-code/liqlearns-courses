@@ -1,6 +1,6 @@
 # Sources — Trigonometric equations
 
-countries: Nicaragua, Laos, Armenia, Libya, Yemen, Kuwait, Cambodia, Vietnam, South Sudan, China
+countries: Nicaragua, Laos, Armenia, Libya, Yemen, Kuwait, Cambodia, Vietnam, South Sudan, China, Malaysia
 
 Every part traces to its book and page.
 
@@ -18,6 +18,8 @@ Every part traces to its book and page.
 **Book 12:** *Toán 11, Tập Một* (Mathematics 11, Volume 1) — Vietnam, Ministry of Education and Training. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 **Book 13:** *Secondary Additional Mathematics, Student's Book 4* — South Sudan, Ministry of General Education and Instruction, ©2018, Mountain Top Publishers. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 14:** *Mathematics, Compulsory Volume 3 （必修第三册）, B edition* (senior student book) — China, People's Education Press (PEP), Chinese. The held copy's imprint is redacted, so no full ISBN or printing year is quotable for this book. Filed in maths/books/china.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 15:** *Additional Mathematics Form 5* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Abadi Ilmu Sdn. Bhd., 2020, ISBN 978-983-2914-68-6) and BM original *Matematik Tambahan Tingkatan 5* (Abadi Ilmu Sdn. Bhd., 2020, ISBN 978-983-2914-67-9). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -37,5 +39,8 @@ Every part traces to its book and page.
 | Basic trigonometric equations | Vietnam, Grade 11 Volume 1, Bài 4, printed p. 31 |
 | Trigonometric equations and functions: simple trigonometric equations solved graphically and arithmetically; solving quadratic trigonometric equations by formula and by graph; using identities in equations with more than one trigonometric function | South Sudan, Secondary 4 Additional Mathematics Student's Book, Unit 2, printed pp. 67–87 (equations at printed pp. 70–79) |
 | Finding the angle from a value: solving trig equations/inequalities from the trig lines and graphs; arcsin/arccos/arctan notation with principal ranges | China, Compulsory Volume 3 (B edition) student book, §7.3.5, printed p. 57 |
+| Trigonometric equations solved using the identities and the addition and double-angle formulae | Malaysia, Additional Mathematics Form 5, Ch. 6 §§6.5–6.6 exercise sets, printed pp. 218–224 |
 
-**Acceptance count: taught in 10 countries (Nicaragua, Laos, Armenia, Libya, Yemen, Kuwait, Cambodia, Vietnam, South Sudan, China).** Nicaragua carries the general-solution method in its student book and the single-ratio rule with the easiest worked examples in its module. Laos carries equations and, uniquely in this lesson, a fully worked unit-circle inequality in consecutive lessons. Armenia carries the simplest equations and then names the main solving methods. Libya carries simple equations in Grade 11 and the a·cosθ ± b·sinθ equation form in Grade 12. Yemen gives equations their own lesson in Grade 11 Science. Kuwait solves equations in both its Grade 10 and Grade 11 Term 2 books. Cambodia solves the four basic forms in Grade 11 Basic and continues to equations and inequalities in Grade 11 Advanced. Vietnam teaches the basic equations in Bài 4. South Sudan solves equations graphically and arithmetically, including quadratic-shaped ones, in Secondary 4 Additional Mathematics. China solves from the trig lines and graphs in its B-edition Volume 3.
+**Acceptance count: taught in 11 countries (Nicaragua, Laos, Armenia, Libya, Yemen, Kuwait, Cambodia, Vietnam, South Sudan, China, Malaysia).** Nicaragua carries the general-solution method in its student book and the single-ratio rule with the easiest worked examples in its module. Laos carries equations and, uniquely in this lesson, a fully worked unit-circle inequality in consecutive lessons. Armenia carries the simplest equations and then names the main solving methods. Libya carries simple equations in Grade 11 and the a·cosθ ± b·sinθ equation form in Grade 12. Yemen gives equations their own lesson in Grade 11 Science. Kuwait solves equations in both its Grade 10 and Grade 11 Term 2 books. Cambodia solves the four basic forms in Grade 11 Basic and continues to equations and inequalities in Grade 11 Advanced. Vietnam teaches the basic equations in Bài 4. South Sudan solves equations graphically and arithmetically, including quadratic-shaped ones, in Secondary 4 Additional Mathematics. China solves from the trig lines and graphs in its B-edition Volume 3.
+
+Malaysia solves its trigonometric equations inside the same Additional Mathematics Form 5 chapter that builds the identities — the equations are the identities put to work.

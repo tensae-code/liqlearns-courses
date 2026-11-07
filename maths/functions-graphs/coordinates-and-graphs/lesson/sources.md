@@ -1,6 +1,6 @@
 # Sources — Coordinates and graphs
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia
+countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia
 
 Every part traces to its book and page.
 
@@ -153,6 +153,12 @@ textbook.
 
 **Book 93:** *Mathematics, Grade 4, Third Term Exercises Book (كتاب التمارين)* — Saudi Arabia, Ministry of Education, edition 1443H–2021; no ISBN printed in the surviving pages, Arabic. PARTIAL copy: only printed pp. 20–47 survive, so its rows are practice evidence for Chs. 9–12 only — never for Ch. 7/8 content. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 94:** *Mathematics Form 1* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2016, ISBN 978-983-00-8271-4) and BM original *Matematik Tingkatan 1* (Penerbitan Pelangi Sdn. Bhd., 2016, ISBN 978-983-00-8244-8). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 95:** *Mathematics Form 2* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Rimbunan Ilmu Sdn. Bhd., 2017, ISBN 978-967-2031-06-2) and BM original *Matematik Tingkatan 2* (Rimbunan Ilmu Sdn. Bhd., 2017, ISBN 978-967-2031-05-5). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 96:** *Mathematics Form 3* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-983-00-9651-3) and BM original *Matematik Tingkatan 3* (Pustaka Yakin Pelajar Sdn. Bhd., 2018, ISBN 978-967-490-042-7). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 97:** *Mathematics Form 4* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Sasbadi Sdn. Bhd., 2019, ISBN 978-983-77-1531-8) and BM original *Matematik Tingkatan 4* (Pustaka Yakin Pelajar Sdn. Bhd., 2019, ISBN 978-967-490-087-8). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 98:** *Additional Mathematics Form 4* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-967-2375-42-5 — the held copy is an image-only scan read visually; its contents pages, printed v–vi, are missing, the body is complete) and BM original *Matematik Tambahan Tingkatan 4* (Pan Asia Publications Sdn. Bhd., 2019, ISBN 978-967-466-377-3). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The coordinate plane in all four quadrants with negative coordinates | Jordan, Grade 6 Term 1, Unit 4 "Transformations and geometric constructions", L1 The coordinate plane p.92 |
@@ -266,8 +272,16 @@ textbook.
 | Points on a number line at intervals worth more than one unit (49, 56, 63… — count up by 7s, then by 6s) | Saudi Arabia, Grade 4, Part Two, Ch. 8, printed pp. 76–78 |
 | The coordinate plane: the origin, the two axes, and ordered pairs; describing the move from one point to another; latitude and longitude as a real coordinate system | Saudi Arabia, Grade 4, Part Two, Ch. 8, printed pp. 79–83 |
 | Practice evidence (PARTIAL copy — review strip): ordered pairs naming places on a coordinate grid | Saudi Arabia, Grade 4 Exercises Book (1443, partial), printed p. 20 |
+| A linear equation in two variables represented graphically — its line plotted from a table of values | Malaysia, Mathematics Form 1, Ch. 6 §6.2, printed pp. 135–136 |
+| Cartesian coordinate system problem solving combining distance and midpoint (positions, scale contexts) | Malaysia, Mathematics Form 2, Ch. 7 §7.3, printed pp. 140–142 |
+| In y = mx + c, m is the gradient and c is the y-intercept — established by graphing linear functions from tables of values | Malaysia, Mathematics Form 3, Ch. 9 §9.1, printed pp. 226–229 |
+| Gradient from two points, m = (y₂ − y₁)/(x₂ − x₁), and from the intercepts, m = −(y-intercept)/(x-intercept); gradient and intercept read from an equation, including after rearrangement | Malaysia, Mathematics Form 3, Ch. 9 §9.1, printed pp. 229–231 |
+| The three forms of a straight-line equation — y = mx + c, ax + by = c and x/a + y/b = 1 — converted between; a point lies on a line if it satisfies its equation; intercepts and an unknown coordinate found from an equation | Malaysia, Mathematics Form 3, Ch. 9 §9.1, printed pp. 230–235 |
+| Parallel lines have equal gradients; the equation of a line from gradient and a point, from two points, and through a point parallel to a given line; intersections found graphically from intercepts | Malaysia, Mathematics Form 3, Ch. 9 §9.1, printed pp. 236–246 |
+| The axis of symmetry of a quadratic graph, drawn and identified; the effects of changing a (width and direction), b (axis position) and c (vertical shift) on the graph of f(x) = ax² + bx + c, explored through GeoGebra activities | Malaysia, Mathematics Form 4, Ch. 1 §1.1, printed pp. 9–14 |
+| The equation of the line of best fit: gradient and intercept read from two points on the line; interpolation and extrapolation (main filing: correlation-and-regression) | Malaysia, Additional Mathematics Form 4, Ch. 6 §6.1, printed pp. 157–160 |
 
-**Acceptance count: taught in 24 countries (Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia).**.** South Africa carries the
+**Acceptance count: taught in 25 countries (Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia).**.** South Africa carries the
 plainest gradient teaching — gradient as change in y over
 change in x, with intercepts named, built from tables of
 ordered pairs. Egypt carries the slope rules (m = tan θ,
@@ -294,3 +308,5 @@ Pakistan (Punjab) carries coordinates and graphs from Class 7's Cartesian plane 
 Syria locates points by ordered pairs in Grades 4–6, with line graphs drawn from tables and read for rises and falls, formalises the plane, its axes and quadrants in Grade 7, and in Grade 9 Algebra makes the straight line itself the graph of ax + by = c — including the graphical solution of a system, always verified in both equations because a drawing can be imprecise.
 
 Saudi Arabia reaches the coordinate plane in Grade 4 — number-line points at multi-unit intervals, then the plane with origin, axes and ordered pairs, finished with latitude and longitude as the real-world system — and the partial exercises book adds grid practice.
+
+Malaysia's straight-line course is its Form 3 closing chapter — gradient and intercept from graphs, all three equation forms, parallel lines, and equations built from points — framed by Form 1's first plotted line and Form 4's work on the quadratic graph's shape.

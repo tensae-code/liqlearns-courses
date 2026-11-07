@@ -1,6 +1,6 @@
 # Sources — Volume and Surface Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia
 
 Every part traces to its book and page.
 
@@ -253,6 +253,10 @@ READ + CITATION CHECK PASSED 2026-11-05).
 
 **Book 105:** *Mathematics, Grade 4, Third Term Exercises Book (كتاب التمارين)* — Saudi Arabia, Ministry of Education, edition 1443H–2021; no ISBN printed in the surviving pages, Arabic. PARTIAL copy: only printed pp. 20–47 survive, so its rows are practice evidence for Chs. 9–12 only — never for Ch. 7/8 content. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 106:** *Mathematics Form 2* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Rimbunan Ilmu Sdn. Bhd., 2017, ISBN 978-967-2031-06-2) and BM original *Matematik Tingkatan 2* (Rimbunan Ilmu Sdn. Bhd., 2017, ISBN 978-967-2031-05-5). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 107:** *Mathematics Form 3* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-983-00-9651-3) and BM original *Matematik Tingkatan 3* (Pustaka Yakin Pelajar Sdn. Bhd., 2018, ISBN 978-967-490-042-7). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 108:** *Additional Mathematics Form 5* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Abadi Ilmu Sdn. Bhd., 2020, ISBN 978-983-2914-68-6) and BM original *Matematik Tambahan Tingkatan 5* (Abadi Ilmu Sdn. Bhd., 2020, ISBN 978-983-2914-67-9). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The prism and the pyramid — naming (p.91) | Jordan, Grade 5 Student Book Term 2, Unit 9, L7, p.91 |
@@ -363,8 +367,13 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Volume by counting unit cubes and cm³ blocks, including cubes hidden inside the solid; estimating layer by layer before counting | Saudi Arabia, Grade 4, Part Two, Ch. 9, printed pp. 120–122 |
 | Parallel witness: the same volume lessons in the older 1445 edition (witness only) | Saudi Arabia, Grade 4, Third Term (1445), Ch. 9, printed pp. 40–42 |
 | Practice evidence (PARTIAL copy): volumes of cube-built solids, including layered blocks | Saudi Arabia, Grade 4 Exercises Book (1443, partial), printed pp. 26–27 |
+| Surface area of prisms, pyramids, cylinders, cones and spheres, built from nets and then by formula, including the sphere's 4πr² | Malaysia, Mathematics Form 2, Ch. 6 §6.3, printed pp. 104–109 |
+| Volume: prisms and cylinders as base area × height; pyramids and cones as ⅓ × base area × height; the sphere as 4/3 πr³; composite-solid and mixed problems | Malaysia, Mathematics Form 2, Ch. 6 §6.4, printed pp. 110–118 |
+| Volume of a prism removed from a cuboid (40 cm³) and of what remains (100 cm³), ratio 2 : 5 — recovered from plan and elevation data (main filing: projections-and-views) | Malaysia, Mathematics Form 3, Ch. 7 §7.2, Example 11, printed p. 190 |
+| Volumes of combined solids (prism + cuboid, cuboid + cylinder, cube + semi-cylinder) worked out from their plans | Malaysia, Mathematics Form 3, Ch. 7 chapter exercise sets, printed pp. 193–194 |
+| Volumes of revolution about the x-axis and about the y-axis: V = π∫y² dx and V = π∫x² dy (main filing: integrals) | Malaysia, Additional Mathematics Form 5, Ch. 3 §3.3, printed pp. 105–108 |
 
-**Acceptance count: taught in 28 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia).**.** Sierra Leone carries the cleanest Iran gives the cuboid's volume in Grade 5, prism volumes and the cylinder's lateral area in Grade 7, and the sphere, pyramid and cone in Grade 9; its Grade 10 Geometry (1) treats the solids themselves without computing their volumes.
+**Acceptance count: taught in 29 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia).**.** Sierra Leone carries the cleanest Iran gives the cuboid's volume in Grade 5, prism volumes and the cylinder's lateral area in Grade 7, and the sphere, pyramid and cone in Grade 9; its Grade 10 Geometry (1) treats the solids themselves without computing their volumes.
 ladder — cubes, prisms and cylinders by cross-section × height,
 then surface areas by the net, in JSS 2. Egypt carries volume by
 counting unit cubes through V = l × w × h in Grade 5 and the
@@ -396,3 +405,5 @@ Pakistan (Punjab) carries volume and surface area in Classes 6–8's cube, cuboi
 Syria counts unit cubes for volume in Grade 5, unwraps prisms and cylinders for their surface areas in Grade 7, motivates the pyramid's third by dissecting a cube in Grade 8, and gathers prism, cylinder, pyramid, cone and sphere — with Archimedes' cylinder results and plane sections — in Grade 9 Geometry; Grade 12 re-derives the sphere's volume by cross-sections.
 
 Saudi Arabia introduces volume by filling solids with unit cubes in Grade 3 — estimate, then count — and in Grade 4 counts cm³ including the hidden cubes, witnessed by the older 1445 Term-3 volumes, with practice evidence from the partial exercises book.
+
+Malaysia builds surface area from nets in Form 2 before giving any formula, takes volumes in the same chapter, and closes the topic in Additional Mathematics Form 5 with volumes of revolution about both axes.
