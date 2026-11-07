@@ -88,7 +88,12 @@ its own subtitle folder with its own lesson + questions):
   Joining and Describing) · the-present-perfect ·
   the-present-perfect-continuous · the-passive ·
   conditionals (built 2026-10-27 — **Level 18, Deeper
-  Sentences, COMPLETE**)
+  Sentences, COMPLETE**) · the-past-perfect ·
+  the-past-perfect-continuous · the-past-continuous ·
+  future-continuous · future-perfect · plans-in-the-past
+  (catch-up build 2026-11-07 — **Levels 19–20**; further
+  catch-up sentence lessons join this list as their batches
+  land)
 - Word (numbers & time) → numbers · days-and-months ·
   telling-the-time (built 2026-10-27 — **Level 9, Numbers,
   Days, and Time**)

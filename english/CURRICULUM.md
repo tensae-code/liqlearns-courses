@@ -205,6 +205,21 @@ sentence on another with if.
 **LEVEL 18 COMPLETE 2026-10-27: 4 lessons. The English
 path now stands at 51 lessons across 18 levels.**
 
+## Level 19 — Earlier Than the Past
+*End of level: the learner can order two past events, show an
+action already in progress before another past moment, and set a
+past scene with an action moving inside it.*
+- the-past-perfect ✅ · the-past-perfect-continuous ✅ ·
+  the-past-continuous ✅ (catch-up build 2026-11-07, per
+  CATCH-UP-PLAN.md — 3 lessons, 51 question items)
+
+## Level 20 — The Future in Detail
+*End of level: the learner can show a future action in progress,
+a future action finished by a set time, and plans as they looked
+from a past moment.*
+- future-continuous ✅ · future-perfect ✅ · plans-in-the-past ✅
+  (catch-up build 2026-11-07 — 3 lessons, 51 question items)
+
 ## After Level 18
 The ladder keeps climbing — longer essays and the Story → Novel
 titles. Later blocks get their own level numbers here, in this
