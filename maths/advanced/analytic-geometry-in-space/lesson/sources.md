@@ -1,6 +1,6 @@
 # Sources — Analytic Geometry in Space
 
-countries: Egypt, Laos, Cambodia, Jordan, Syria, Rwanda
+countries: Egypt, Laos, Cambodia, Jordan, Syria, Rwanda, India
 
 Every part traces to its book and page.
 
@@ -17,6 +17,8 @@ Every part traces to its book and page.
 **Book 9:** *Advanced Mathematics for Rwanda Secondary Schools — Learner's Book, Senior Five* (ADVANCED stream) — Rwanda, Fountain Publishers Rwanda Ltd, 2017, ISBN 978-9970-19-410-0. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 10:** *Advanced Mathematics for Rwanda Secondary Schools — Teacher's Guide, Senior Five* (ADVANCED stream, teacher's guide) — Rwanda, Fountain Publishers Rwanda Ltd, 2017, ISBN 978-9970-19-411-7. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+**Book 11:** *Mathematics — Textbook for Class XI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-486-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendices 1–2, the Answers and the Supplementary Material; nothing is cited from them.
+**Book 12:** *Mathematics — Textbook for Class XII, Parts I–II* (ONE work in two volumes: continuous chapters 1–13 and continuous printed pagination 1–587) — India, NCERT, New Delhi, first edition November 2006, 2020-21 printing; Part I ISBN 81-7450-629-2 (Part II prints no ISBN). Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy of Part I lacks its appendices, answers and supplementary material, and the held copy of Part II has no front matter; nothing is cited from either.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -54,9 +56,26 @@ Every part traces to its book and page.
 | The family of spheres through a given circle (sphere + k × plane); a sphere through a given circle and a given point; the centre and radius of the circle of intersection of a sphere and a plane; the tangent plane to a sphere at a point of the sphere | Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 8, printed pp. 370–371, 375–377 |
 | Positions of two spheres by centre distance against radii; the radical plane of two spheres; the centre and radius of the circle of intersection of two spheres; a sphere through the intersection of two spheres, orthogonal spheres and the condition r₁² + r₂² = d²; a sphere through a given circle touching a given plane | Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 8, printed pp. 378–389 |
 | Teacher's note on the general equation of a straight line in space as a pair of plane equations, with the line's direction vector built from the three 2×2 minors of the two planes' coefficients — stated as a formula in the guide's Unit 8 content summary | Rwanda, Advanced Mathematics, Teacher's Guide, Senior Five, Unit 8, printed pp. 161–162 |
+| Section formula in 3D; midpoint; centroid of a triangle | India, Mathematics Class 11, printed p. 273 |
+| Lines in space — vector and Cartesian equations of a line through a given point parallel to a given vector | India, Mathematics Class 12 Part II, printed p. 468 |
+| Lines in space — vector and Cartesian equations of a line through two given points; converting between the forms | India, Mathematics Class 12 Part II, printed p. 469 |
+| Angle between lines — angle between two lines (vector and Cartesian forms) | India, Mathematics Class 12 Part II, printed p. 471 |
+| Shortest distance — skew lines defined; shortest distance between two skew lines (formula derived) | India, Mathematics Class 12 Part II, printed p. 473 |
+| Shortest distance — distance between two parallel lines | India, Mathematics Class 12 Part II, printed p. 475 |
+| Planes — equation of a plane in normal form (vector and Cartesian); distance of a plane from the origin | India, Mathematics Class 12 Part II, printed p. 479 |
+| Planes — equation of a plane through a point and perpendicular to a given vector | India, Mathematics Class 12 Part II, printed p. 482 |
+| Planes — equation of a plane through three non-collinear points | India, Mathematics Class 12 Part II, printed p. 483 |
+| Planes — intercept form of the equation of a plane x/a + y/b + z/c = 1 | India, Mathematics Class 12 Part II, printed p. 485 |
+| Planes — plane through the intersection of two given planes | India, Mathematics Class 12 Part II, printed p. 485 |
+| Coplanarity of two lines (condition in vector and Cartesian form) | India, Mathematics Class 12 Part II, printed p. 487 |
+| Angle between planes — angle between two planes defined via their normals; perpendicular/parallel conditions | India, Mathematics Class 12 Part II, printed p. 488 |
+| Distance of a point from a plane | India, Mathematics Class 12 Part II, printed p. 490 |
+| Angle line–plane — angle between a line and a plane defined and computed | India, Mathematics Class 12 Part II, printed p. 492 |
 
-**Acceptance count: taught in 6 countries (Egypt, Laos, Cambodia, Jordan, Syria, Rwanda).** Egypt carries the analytic course in Pure Grade 12: the 3D coordinate system, vectors in space and vector multiplication in Unit Three, then the equations of lines and planes in Unit Four. Laos carries it twice: Grade 10 Chapter X builds coordinates, octants, distance, direction cosines and the 3-D dot product in a single long lesson, and Grade 12 Chapter 10 adds the equations of lines and planes and the line–plane angle. Cambodia carries vectors in space in Grade 11 Advanced Chapter 8 and the scalar and cross products again in Grade 12 Advanced Chapter 7, with two teacher-guide worked values taught corrected as filed. Jordan carries vectors in space, lines in space and the scalar product in Grade 12 Term 2 Unit 6.
+**Acceptance count: taught in 7 countries (Egypt, Laos, Cambodia, Jordan, Syria, Rwanda, India).** Egypt carries the analytic course in Pure Grade 12: the 3D coordinate system, vectors in space and vector multiplication in Unit Three, then the equations of lines and planes in Unit Four. Laos carries it twice: Grade 10 Chapter X builds coordinates, octants, distance, direction cosines and the 3-D dot product in a single long lesson, and Grade 12 Chapter 10 adds the equations of lines and planes and the line–plane angle. Cambodia carries vectors in space in Grade 11 Advanced Chapter 8 and the scalar and cross products again in Grade 12 Advanced Chapter 7, with two teacher-guide worked values taught corrected as filed. Jordan carries vectors in space, lines in space and the scalar product in Grade 12 Term 2 Unit 6.
 
 Rwanda teaches analytic geometry in space whole in Advanced Mathematics Senior Five Unit 8 — points, lines and planes in 3D through to spheres, their relative positions, radical planes and orthogonal spheres.
 
 Syria's analytic geometry in space is in Grade 12 Part Two: the sphere's equation from OM² = R², the plane's Cartesian equation, and the parametric line.
+
+India stocks analytic geometry in space from Mathematics Class 11–12: section formula in 3D; midpoint; centroid of a triangle; lines in space.

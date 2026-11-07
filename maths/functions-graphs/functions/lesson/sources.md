@@ -1,6 +1,6 @@
 # Sources — Functions
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan
+countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India
 
 Every part traces to its book and page.
 
@@ -156,6 +156,9 @@ CITATION CHECK PASSED 2026-11-05).
 **Book 87:** *Basic Mathematics, Grade 12 (humanities track)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, title page dated October 2009, Arabic. No ISBN printed. The held copy lacks its first contents page, any ISBN page and its back cover; the body is complete (folios 1–157) and only body pages are cited. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 88:** *Specialized Mathematics, Book Two, Grade 12 (science track)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, revised issue, Arabic, ISBN 978-99942-53-17-3. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 89:** *Mathematics — Textbook for Class X* — India, NCERT, New Delhi, first edition December 2006, 2020-21 printing, ISBN 81-7450-634-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 90:** *Mathematics — Textbook for Class XI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-486-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendices 1–2, the Answers and the Supplementary Material; nothing is cited from them.
+**Book 91:** *Mathematics — Textbook for Class XII, Parts I–II* (ONE work in two volumes: continuous chapters 1–13 and continuous printed pagination 1–587) — India, NCERT, New Delhi, first edition November 2006, 2020-21 printing; Part I ISBN 81-7450-629-2 (Part II prints no ISBN). Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy of Part I lacks its appendices, answers and supplementary material, and the held copy of Part II has no front matter; nothing is cited from either.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -284,8 +287,19 @@ CITATION CHECK PASSED 2026-11-05).
 | Concept — Mapping/function defined set-wise (د: س ← ص); domain (المجال) and codomain (المجال المصاحب); independent/dependent variables; real functions | Sudan, Grade 12 Specialized Mathematics, Book Two (science track), printed p. 5 |
 | Skill — Evaluating functions incl. rational functions; applied function models (falling body ف(ن) = 576 − 16ن²; rectangle of perimeter 2000 m — find the domain) | Sudan, Grade 12 Specialized Mathematics, Book Two (science track), printed p. 5 |
 | Composition — Compositions of functions (§1-2); difference quotient [د(س+و) − د(س)]/و in exercises | Sudan, Grade 12 Specialized Mathematics, Book Two (science track), printed p. 9 |
+| Graphs of polynomials — geometrical meaning of zeroes: zeroes of p(x) are the x-coordinates where y = p(x) meets the x-axis; linear/quadratic/cubic graph shapes, incl. quadratics with 0, 1 or 2 zeroes | India, Mathematics Class 10, printed p. 21 |
+| Function concept — function as a special relation; domain, co-domain, range; real-valued functions | India, Mathematics Class 11, printed p. 36 |
+| Standard functions and graphs — identity, constant and polynomial functions and their graphs | India, Mathematics Class 11, printed p. 38 |
+| Standard functions and graphs — rational functions and their graphs (e.g. f(x) = 1/x) | India, Mathematics Class 11, printed p. 40 |
+| Algebra of real functions — addition, subtraction, scalar multiple, product and quotient of real functions | India, Mathematics Class 11, printed p. 42 |
+| Types of functions — one-one (injective) and onto (surjective) functions defined | India, Mathematics Class 12 Part I, printed p. 7 |
+| Types of functions — one-one and onto (bijective) functions; on a finite set, one-one ⇔ onto for f : X → X (worked examples) | India, Mathematics Class 12 Part I, printed p. 8 |
+| Composition of functions gof defined | India, Mathematics Class 12 Part I, printed p. 12 |
+| Composition preserves one-one-ness and onto-ness (proved in worked examples) | India, Mathematics Class 12 Part I, printed p. 13 |
+| Invertible functions — invertible function defined; f invertible ⇔ f is one-one and onto | India, Mathematics Class 12 Part I, printed p. 15 |
+| Composition — associativity of composition (theorem); inverse of a composite (gof)⁻¹ = f⁻¹og⁻¹ (theorem) | India, Mathematics Class 12 Part I, printed p. 16 |
 
-**Acceptance count: taught in 25 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan).**.** Egypt carries the
+**Acceptance count: taught in 26 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India).**.** Egypt carries the
 fullest build — Cartesian product, relation, function, domain
 and range in Preparatory 3; the sign of a function in
 Secondary 1; the inverse function in Grade 11 Pure. Jordan
@@ -322,3 +336,5 @@ Malaysia builds functions in Form 2 from relations and their four types, then tr
 Rwanda teaches functions in Senior 1: mappings, f(x) notation, inverse and composite functions in Unit 1, and linear functions with their graphs, intercepts and gradient in Unit 3.
 
 Sudan defines the function in Grade 9 with unusual completeness — evaluation, image sets, range, surjectivity, injectivity, bijectivity and inverse functions — and both Grade 12 books return to function operations and composition.
+
+India stocks functions from Mathematics Class 10–12: graphs of polynomials; function concept; types of functions.

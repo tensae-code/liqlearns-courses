@@ -1,6 +1,6 @@
 # Sources — Step and Piecewise Functions
 
-countries: Iran, Nicaragua, Kazakhstan, Laos, Kuwait, Syria, Malaysia, Sudan
+countries: Iran, Nicaragua, Kazakhstan, Laos, Kuwait, Syria, Malaysia, Sudan, India
 
 Every part traces to its book and page.
 
@@ -18,6 +18,7 @@ Every part traces to its book and page.
 **Book 10:** *Additional Mathematics Form 4* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-967-2375-42-5 — the held copy is an image-only scan read visually; its contents pages, printed v–vi, are missing, the body is complete) and BM original *Matematik Tambahan Tingkatan 4* (Pan Asia Publications Sdn. Bhd., 2019, ISBN 978-967-466-377-3). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 11:** *Mathematics, Grade 9 (Third Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2024, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 12:** *Mathematics — Textbook for Class XI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-486-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendices 1–2, the Answers and the Supplementary Material; nothing is cited from them.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -38,10 +39,14 @@ Every part traces to its book and page.
 
 | Piecewise definitions — A function defined by different rules on odd/even inputs used to test injectivity (within 1-5) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 26 |
 | Evaluating a piecewise function — Piecewise rule (square if x ≤ 2, x + 2 if x > 2) evaluated in the unit exercise (within 1-8 exercises) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 42 |
-**Acceptance count: taught in 8 countries (Iran, Nicaragua, Kazakhstan, Laos, Kuwait, Syria, Malaysia, Sudan).** Iran carries the floor function and piecewise definitions in three Grade 11 branch books, with step functions opened through tariffs and postage in the Humanities book and the sign function taught beside the floor there. Nicaragua carries the greatest-integer function with its step graph in the Grade 10 student book, and presents it as a piecewise function in the self-learning module. Kazakhstan carries the [x] and {x} pair, graphed together, in Algebra 9. Laos carries the floor function and sgn(x) as named special functions in Grade 10, and counts the absolute-value function among its function families. Kuwait carries the absolute-value function and its graph, stocked in this lesson by the course plan's decision — taught corrected at p.30, where its caption mislabels the reflected curve.
+| Modulus and signum — modulus function |x| and signum function, definitions and graphs | India, Mathematics Class 11, printed p. 41 |
+| Greatest integer function — greatest integer (floor) function [x], values on unit intervals and graph | India, Mathematics Class 11, printed p. 42 |
+**Acceptance count: taught in 9 countries (Iran, Nicaragua, Kazakhstan, Laos, Kuwait, Syria, Malaysia, Sudan, India).** Iran carries the floor function and piecewise definitions in three Grade 11 branch books, with step functions opened through tariffs and postage in the Humanities book and the sign function taught beside the floor there. Nicaragua carries the greatest-integer function with its step graph in the Grade 10 student book, and presents it as a piecewise function in the self-learning module. Kazakhstan carries the [x] and {x} pair, graphed together, in Algebra 9. Laos carries the floor function and sgn(x) as named special functions in Grade 10, and counts the absolute-value function among its function families. Kuwait carries the absolute-value function and its graph, stocked in this lesson by the course plan's decision — taught corrected at p.30, where its caption mislabels the reflected curve.
 
 Syria's floor function E(x) is defined and graphed in Grade 12 Part One, inside its functions unit.
 
 Malaysia meets a piecewise definition inside its Additional Mathematics Form 4 functions chapter: the absolute value function, defined in two pieces and drawn as a V.
 
 Sudan defines functions piecewise in Grade 9 and evaluates them at given points.
+
+India enters step and piecewise functions from Mathematics Class 11: modulus and signum.

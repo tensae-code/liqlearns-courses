@@ -1,6 +1,6 @@
 # Sources — Mean Deviation and Variation
 
-countries: Bangladesh, Laos, Pakistan, Malaysia, Sudan
+countries: Bangladesh, Laos, Pakistan, Malaysia, Sudan, India
 
 Every part traces to its book and page.
 
@@ -14,6 +14,7 @@ Every part traces to its book and page.
 **Book 6:** *Basic Mathematics, Grade 12 (humanities track)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, title page dated October 2009, Arabic. No ISBN printed. The held copy lacks its first contents page, any ISBN page and its back cover; the body is complete (folios 1–157) and only body pages are cited. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 7:** *Specialized Mathematics, Book One, Grade 12 (science track)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, revised issue, Arabic, ISBN 978-99942-53-18-0. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 8:** *Mathematics — Textbook for Class XI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-486-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendices 1–2, the Answers and the Supplementary Material; nothing is cited from them.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -39,8 +40,13 @@ Every part traces to its book and page.
 | Mean deviation — Mean deviation | Sudan, Grade 12 Specialized Mathematics, Book One (science track), printed p. 162 |
 | Variance and SD — Variance and standard deviation, incl. grouped tables with assumed mean (worked: var = 41.17 − 1.21 = 39.96, SD ≈ 6.3) | Sudan, Grade 12 Specialized Mathematics, Book One (science track), printed p. 171 |
 | Combined groups — Exercises: combined mean and SD of two merged classes; proving the SD shift formula | Sudan, Grade 12 Specialized Mathematics, Book One (science track), printed p. 173 |
-**Acceptance count: taught in 5 countries (Bangladesh, Laos, Pakistan, Malaysia, Sudan).** Bangladesh carries the lesson's spine in one chapter: why the centre is not enough, the range, mean deviation under its own name "mean interval", variance and standard deviation — with its Pearson year taught corrected as 1893, its English-only p.225 claim taught corrected, and quartile deviation never cited to it, because the book names it on p.211 and teaches it nowhere. Laos carries the sample-variance convention s² with denominator n − 1, worked on grouped rainfall data. Pakistan carries quartile deviation and its coefficient, the mean-deviation coefficients, and the coefficient of variation — and its own opposite convention, denominator n for sample variance too, kept labelled as Pakistan's way beside Laos's.
+| Mean deviation about the mean and about the median for ungrouped data | India, Mathematics Class 11, printed p. 350 |
+| Mean deviation for grouped data (discrete and continuous frequency distributions, step-deviation method) | India, Mathematics Class 11, printed p. 352 |
+| Limitations of mean deviation (algebraic signs ignored) motivating variance | India, Mathematics Class 11, printed p. 361 |
+**Acceptance count: taught in 6 countries (Bangladesh, Laos, Pakistan, Malaysia, Sudan, India).** Bangladesh carries the lesson's spine in one chapter: why the centre is not enough, the range, mean deviation under its own name "mean interval", variance and standard deviation — with its Pearson year taught corrected as 1893, its English-only p.225 claim taught corrected, and quartile deviation never cited to it, because the book names it on p.211 and teaches it nowhere. Laos carries the sample-variance convention s² with denominator n − 1, worked on grouped rainfall data. Pakistan carries quartile deviation and its coefficient, the mean-deviation coefficients, and the coefficient of variation — and its own opposite convention, denominator n for sample variance too, kept labelled as Pakistan's way beside Laos's.
 
 Malaysia teaches variance and standard deviation whole in Form 4 for ungrouped data — both formulas, the calculator method, and what happens to each measure when the data changes — and again in Form 5 for grouped data. (Mean deviation itself is not in Malaysia's books; that part of the lesson stands on the other countries.)
 
 Sudan measures dispersion in both Grade 12 tracks: mean deviation, variance and standard deviation, for tables in Basic and for combined groups in Specialized Book One.
+
+India enters mean deviation and variation from Mathematics Class 11: mean deviation about the mean and about the median for ungrouped data.

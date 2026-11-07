@@ -1,6 +1,6 @@
 # Sources — Geometric and Experimental Probability
 
-countries: Kazakhstan, Jordan, Nicaragua, Rwanda
+countries: Kazakhstan, Jordan, Nicaragua, Rwanda, India
 
 Every part traces to its book and page.
 
@@ -14,6 +14,7 @@ Every part traces to its book and page.
 **Book 7:** *Mathematics for Rwandan Primary Schools — Pupil's Book 5* — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 8:** *Mathematics for Rwandan Primary Schools — Teacher's Guide 5* (teacher's guide) — Rwanda, Rwanda Education Board (REB), © 2018 (predates its © 2019 pupil's book by a year). No ISBN printed. Teacher evidence: a true companion; its front matter carries P4 content maps for "Units 16–18" that do not exist in the P5 course. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+**Book 9:** *Mathematics — Textbook for Class IX* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-489-3. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendix 1 (Proofs in Mathematics), Appendix 2 (Introduction to Mathematical Modelling) and Answers/Hints; nothing is cited from them.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -28,7 +29,11 @@ Every part traces to its book and page.
 | Frequentist probability against classical/theoretical probability; absolute and relative frequency; the coin experiment repeated 500 times with cumulative relative frequency every 100 tosses | Nicaragua, Grade 10 (NICAMATE), printed pp.45–48 |
 | Experimental chance from recorded results (heads in 20 coin tosses; face counts in 48 dice tosses) | Rwanda, Mathematics for Rwandan Primary Schools, Pupil's Book 5, Unit 15 (§15.2), printed pp. 255–258 |
 | Teacher's note contrasting experimental (empirical) probability with theoretical probability — a fair coin tossed 10 times may give 6 heads, an experimental probability of 6/10 = 0.6 against the theoretical 1/2 — with the direction to teach probability from practical events at this level | Rwanda, Mathematics for Rwandan Primary Schools, Teacher's Guide 5, Unit 15, Notes to the teacher, printed p. 313 |
+| Experimental probability — trial and event defined; empirical probability P(E) = (trials where E happened)/(total trials), from coin/die tossing records | India, Mathematics Class 9, printed p. 272 |
+| Experimental probability — empirical probability lies between 0 and 1; applied to real records (weather, tyres, insurance, seeds, telephone directory) | India, Mathematics Class 9, printed p. 278 |
 
-**Acceptance count: taught in 4 countries (Kazakhstan, Jordan, Nicaragua, Rwanda).** Kazakhstan carries both halves across its four Grade 9 algebra books — geometric probability in all four (Yelemessov's dartboard, Shynybekov's meeting problem, Abylkasymova's three measures, Soltan's broken stick at 1/4) and the frequency definition in three of them, Yelemessov's book honestly recorded as having no statistical definition. Jordan carries geometric probability as a named closing lesson with examined segment items. Nicaragua carries the experimental half as a taught contrast — theoretical against frequentist — with its 500-toss coin experiment.
+**Acceptance count: taught in 5 countries (Kazakhstan, Jordan, Nicaragua, Rwanda, India).** Kazakhstan carries both halves across its four Grade 9 algebra books — geometric probability in all four (Yelemessov's dartboard, Shynybekov's meeting problem, Abylkasymova's three measures, Soltan's broken stick at 1/4) and the frequency definition in three of them, Yelemessov's book honestly recorded as having no statistical definition. Jordan carries geometric probability as a named closing lesson with examined segment items. Nicaragua carries the experimental half as a taught contrast — theoretical against frequentist — with its 500-toss coin experiment.
 
 Rwanda stocks the experimental half of this lesson in Primary 5 — chance found from recorded coin and dice results in the pupil's book, with the teacher's guide contrasting experimental probability (6 heads in 10 tosses = 0.6) against the theoretical 1/2; Rwanda teaches no geometric probability in the held books.
+
+India enters geometric and experimental probability from Mathematics Class 9: experimental probability.

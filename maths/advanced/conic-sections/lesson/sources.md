@@ -1,6 +1,6 @@
 # Sources — Conic Sections
 
-countries: Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan
+countries: Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India
 
 Every part traces to its book and page.
 
@@ -28,6 +28,7 @@ Every part traces to its book and page.
 **Book 20:** *Advanced Mathematics for Rwanda Schools — Learner's Book, Senior Six* (ADVANCED stream) — Rwanda, Fountain Publishers Rwanda Ltd, © 2017, ISBN 978-9970-19-419-3. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 21:** *Specialized Mathematics, Book Two, Grade 12 (science track)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, revised issue, Arabic, ISBN 978-99942-53-17-3. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 22:** *Mathematics — Textbook for Class XI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-486-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendices 1–2, the Answers and the Supplementary Material; nothing is cited from them.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -68,7 +69,16 @@ Every part traces to its book and page.
 | Circle through conditions — Finding a circle satisfying given conditions (§6-3): through points, centre on a given line or axis | Sudan, Grade 12 Specialized Mathematics, Book Two (science track), printed p. 154 |
 | Tangent to a circle — Equation of the tangent to a circle at a point on it (§6-4): line–circle positions (secant/tangent/no meeting); tangent perpendicular to radius | Sudan, Grade 12 Specialized Mathematics, Book Two (science track), printed p. 160 |
 | Tangent length — Length of the tangent from an external point (§6-5) | Sudan, Grade 12 Specialized Mathematics, Book Two (science track), printed p. 164 |
-**Acceptance count: taught in 16 countries (Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan).**
+| Sections of a cone — circle, ellipse, parabola and hyperbola as sections of a double cone; degenerate sections | India, Mathematics Class 11, printed p. 236 |
+| Circle defined as a locus; equation (x − h)² + (y − k)² = r²; centre/radius from the general equation | India, Mathematics Class 11, printed p. 239 |
+| Parabola defined by focus and directrix; standard equations y² = 4ax and the other three orientations | India, Mathematics Class 11, printed p. 242 |
+| Parabola — latus rectum of a parabola; length 4a | India, Mathematics Class 11, printed p. 245 |
+| Ellipse defined by sum of distances to two foci; eccentricity e < 1 | India, Mathematics Class 11, printed p. 247 |
+| Ellipse — standard equations x²/a² + y²/b² = 1 (both axis orientations); c² = a² − b² relation | India, Mathematics Class 11, printed p. 249 |
+| Ellipse — latus rectum of an ellipse; length 2b²/a | India, Mathematics Class 11, printed p. 252 |
+| Hyperbola defined by difference of distances to two foci; eccentricity e > 1 | India, Mathematics Class 11, printed p. 255 |
+| Hyperbola — standard equation x²/a² − y²/b² = 1; c² = a² + b²; latus rectum 2b²/a | India, Mathematics Class 11, printed p. 257 |
+**Acceptance count: taught in 17 countries (Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India).**
 
 Rwanda teaches conic sections whole in Advanced Mathematics Senior Six Unit 8 — the focus–directrix definition with eccentricity, all three conics with tangents and normals, the polar equation, and applications from planetary orbits to the whispering gallery.
 
@@ -79,3 +89,5 @@ Indonesia carries conics in both its Grade 12 Tingkat Lanjut books: the 2022 boo
 Syria reaches conic sections only lightly: a guided problem iterates a point map on the hyperbola x² − 5y² = 1 in Grade 12 Part One. (Its Grade 12 integrals unit also uses the paraboloid of revolution, filed under volume.)
 
 Sudan reaches conic sections only through the circle, in Grade 12 Specialized Book Two: the circle's equation and general form, a circle through given conditions, tangents to a circle and tangent length — circle-only analytic geometry, as filed.
+
+India stocks conic sections from Mathematics Class 11: sections of a cone.

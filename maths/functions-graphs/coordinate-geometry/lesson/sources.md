@@ -1,6 +1,6 @@
 # Sources — Coordinate Geometry
 
-countries: Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan
+countries: Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India
 
 Every part traces to its book and page.
 
@@ -28,6 +28,9 @@ Every part traces to its book and page.
 **Book 16:** *Basic Mathematics, Grade 12 (humanities track)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, title page dated October 2009, Arabic. No ISBN printed. The held copy lacks its first contents page, any ISBN page and its back cover; the body is complete (folios 1–157) and only body pages are cited. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 17:** *Specialized Mathematics, Book Two, Grade 12 (science track)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, revised issue, Arabic, ISBN 978-99942-53-17-3. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 18:** *Mathematics — Textbook for Class IX* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-489-3. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendix 1 (Proofs in Mathematics), Appendix 2 (Introduction to Mathematical Modelling) and Answers/Hints; nothing is cited from them.
+**Book 19:** *Mathematics — Textbook for Class X* — India, NCERT, New Delhi, first edition December 2006, 2020-21 printing, ISBN 81-7450-634-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 20:** *Mathematics — Textbook for Class XI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-486-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendices 1–2, the Answers and the Supplementary Material; nothing is cited from them.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -70,10 +73,33 @@ Every part traces to its book and page.
 | Distance between parallel lines — Distance between two parallel lines as the distance from any point of one to the other (within 1-3) | Sudan, Grade 11 Mathematics (Second Year Secondary), printed p. 19 |
 | Applications — Derivative as tangent slope; equations of tangent and normal at a point | Sudan, Grade 12 Basic Mathematics (humanities track), printed p. 55 |
 | Applications — Differentiation applied to analytic geometry (§3-1): tangents, normals, and the angle between two curves (س² and 7√س at (1,1)) | Sudan, Grade 12 Specialized Mathematics, Book Two (science track), printed p. 73 |
-**Acceptance count: taught in 9 countries (Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan).** Jordan carries the point-to-line distance and the coordinate proof in Grade 9 and the circle's equation in Grade 10. Kuwait carries the full analytic-geometry unit in Grade 10 Term 2 — the section formula with internal and external division as its own section, and the point-to-line distance and circle in the same unit. Ethiopia carries the circle's equation in the Grade 10 student book's §7.5 — student book only, since its Grade 10 guide does not cover §7.5. South Sudan carries the circle's equation in Secondary 4, from the origin-centred circle to completing the square. Laos carries the section formula as a minor source inside its Grade 9 vectors lesson. Iran carries the analytic circle in two Grade 12 branch books, with the expanded-form test stated exactly in Geometry (3).
+| Cartesian system — need for two perpendicular axes; Cartesian/coordinate plane, x-axis, y-axis, origin | India, Mathematics Class 9, printed p. 51 |
+| Coordinates — abscissa and ordinate; coordinates (x, y) of a point; four quadrants and sign patterns; points on the axes | India, Mathematics Class 9, printed p. 54 |
+| Plotting points from given coordinates; ordered pair, (x, y) ≠ (y, x) unless x = y | India, Mathematics Class 9, printed p. 61 |
+| Distance formula — distance between P(x₁, y₁) and Q(x₂, y₂) = √[(x₂−x₁)² + (y₂−y₁)²], derived from Pythagoras; distance from the origin | India, Mathematics Class 10, printed p. 156 |
+| Distance applications — testing whether points form a triangle/square/rectangle; point equidistant conditions; point on an axis equidistant from two points | India, Mathematics Class 10, printed p. 158 |
+| Section formula for internal division in ratio m₁:m₂, derived; mid-point as the 1:1 case | India, Mathematics Class 10, printed p. 162 |
+| Section applications — trisection points; ratio in which an axis/a point divides a segment; parallelogram vertex from three vertices | India, Mathematics Class 10, printed p. 165 |
+| Area of a triangle from coordinates = ½|x₁(y₂−y₃) + x₂(y₃−y₁) + x₃(y₁−y₂)| (numerical value), derived | India, Mathematics Class 10, printed p. 168 |
+| Area applications — collinearity test (area = 0); area of a quadrilateral by splitting into triangles; centroid as the common point of the medians (note) | India, Mathematics Class 10, printed p. 170 |
+| External division note — note to the reader: external division by the section formula is deferred to higher classes — NOT taught here | India, Mathematics Class 10, printed p. 172 |
+| Slope of a line m = tan θ; slope from two points (y2 − y1)/(x2 − x1) | India, Mathematics Class 11, printed p. 204 |
+| Parallel and perpendicular — conditions in terms of slopes: parallel ⇔ m1 = m2; perpendicular ⇔ m1m2 = −1 | India, Mathematics Class 11, printed p. 206 |
+| Angle between lines — acute angle between two lines from their slopes | India, Mathematics Class 11, printed p. 207 |
+| Collinearity of three points tested by equal slopes | India, Mathematics Class 11, printed p. 210 |
+| Forms of a line — horizontal and vertical line equations; point-slope form | India, Mathematics Class 11, printed p. 212 |
+| Forms of a line — two-point form of the equation of a line | India, Mathematics Class 11, printed p. 214 |
+| Forms of a line — slope-intercept form y = mx + c and the x-intercept form | India, Mathematics Class 11, printed p. 215 |
+| Forms of a line — intercept form x/a + y/b = 1 | India, Mathematics Class 11, printed p. 216 |
+| Forms of a line — normal (perpendicular) form x cos ω + y sin ω = p | India, Mathematics Class 11, printed p. 217 |
+| General equation Ax + By + C = 0; reducing it to slope-intercept, intercept and normal forms; parallel/perpendicular families | India, Mathematics Class 11, printed p. 220 |
+| Distances — perpendicular distance from a point to a line; distance between two parallel lines | India, Mathematics Class 11, printed p. 225 |
+**Acceptance count: taught in 10 countries (Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India).** Jordan carries the point-to-line distance and the coordinate proof in Grade 9 and the circle's equation in Grade 10. Kuwait carries the full analytic-geometry unit in Grade 10 Term 2 — the section formula with internal and external division as its own section, and the point-to-line distance and circle in the same unit. Ethiopia carries the circle's equation in the Grade 10 student book's §7.5 — student book only, since its Grade 10 guide does not cover §7.5. South Sudan carries the circle's equation in Secondary 4, from the origin-centred circle to completing the square. Laos carries the section formula as a minor source inside its Grade 9 vectors lesson. Iran carries the analytic circle in two Grade 12 branch books, with the expanded-form test stated exactly in Geometry (3).
 
 Syria computes a parallelogram's fourth vertex from the midpoint formula in Grade 7.
 
 Malaysia teaches coordinate geometry in Form 2 (distance from Pythagoras, midpoint, gradient) and completes it in Additional Mathematics Form 4 with the section formula and the parallel/perpendicular gradient conditions.
 
 Sudan's analytic geometry is classical and complete on its chosen ground: Grade 10 gives distance, internal and external division with signed ratios, the centroid, slope and the angle between two lines, with the parallel and perpendicular conditions derived from that formula — while deliberately never writing the equation of a line, which Grade 11 then supplies in every form (point-slope, two-point, slope-intercept, intercept, general and normal), with point-to-line and parallel-line distances; both Grade 12 books apply the circle's geometry.
+
+India stocks coordinate geometry from Mathematics Class 9–11: cartesian system; distance formula; slope of a line m = tan θ; slope from two points (y2 − y1)/(x2 − x1).

@@ -1,6 +1,6 @@
 # Sources — Coordinates and graphs
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan
+countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India
 
 Every part traces to its book and page.
 
@@ -170,6 +170,8 @@ textbook.
 **Book 103:** *Mathematics, Grade 9 (Third Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2024, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 104:** *Mathematics, Grade 10 (First Year Secondary)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, Arabic; no edition or year is printed in the book. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 105:** *Mathematics — Textbook for Class VIII* — India, NCERT, New Delhi, first edition January 2008, 2020-21 printing, ISBN 978-81-7450-814-0. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Just for Fun sections; nothing is cited from them.
+**Book 106:** *Mathematics — Textbook for Class IX* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-489-3. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendix 1 (Proofs in Mathematics), Appendix 2 (Introduction to Mathematical Modelling) and Answers/Hints; nothing is cited from them.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -303,8 +305,13 @@ textbook.
 | Reading and plotting points — Reading coordinates of plotted points and plotting points incl. points on the axes (3-1) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 79 |
 | Drawing a line — Drawing a straight line from a three-point table of values (3-2) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 85 |
 | Solving a quadratic graphically — Drawing the parabola y = x² − 2x − 3 from a table and reading the roots off the x-intercepts; no intercept means no real solution (4-2 in unit numbering: graphical solution) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 131 |
+| Kinds of graphs — bar graph, pie graph, histogram and line graph reviewed and matched to data types | India, Mathematics Class 8, printed p. 231 |
+| Line graphs — reading line graphs (performance, distance–time); points and trends | India, Mathematics Class 8, printed p. 233 |
+| Linear graphs — location of a point; coordinates (x, y) introduced (Descartes named); plotting points and checking collinearity | India, Mathematics Class 8, printed p. 240 |
+| Linear graphs — a whole unbroken line graph is a linear graph; applications: quantity–cost, principal–simple-interest and time–distance graphs | India, Mathematics Class 8, printed p. 242 |
+| Graph of a linear equation in two variables is a straight line; drawing it from solution points; every point on the graph is a solution and vice versa | India, Mathematics Class 9, printed p. 70 |
 
-**Acceptance count: taught in 27 countries (Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan).**.** South Africa carries the
+**Acceptance count: taught in 28 countries (Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India).**.** South Africa carries the
 plainest gradient teaching — gradient as change in y over
 change in x, with intercepts named, built from tables of
 ordered pairs. Egypt carries the slope rules (m = tan θ,
@@ -337,3 +344,5 @@ Malaysia's straight-line course is its Form 3 closing chapter — gradient and i
 Rwanda teaches coordinates and graphs from Primary 2 grid points (post first, then crossing bar) through Primary 3 coordinate pairs and plotted shapes in both the English and Kinyarwanda editions, to the Cartesian plane, quadrants and proportion graphs in Senior 1.
 
 Sudan plots from Grade 9: the Cartesian plane, quadrants, reading and plotting points and drawing a line, and solves a quadratic graphically in Grade 10.
+
+India enters coordinates and graphs from Mathematics Class 8–9: kinds of graphs; graph of a linear equation in two variables is a straight line; drawing it from solution points; every point on the graph is a solution and vice versa.

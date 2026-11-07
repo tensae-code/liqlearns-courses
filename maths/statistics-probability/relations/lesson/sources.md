@@ -1,6 +1,6 @@
 # Sources — Relations
 
-countries: Libya, Yemen, Bangladesh, Kuwait, Laos, Malaysia, Rwanda, Sudan
+countries: Libya, Yemen, Bangladesh, Kuwait, Laos, Malaysia, Rwanda, Sudan, India
 
 Every part traces to its book and page.
 
@@ -20,6 +20,8 @@ Every part traces to its book and page.
 **Book 10:** *Mathematics, Grade 9 (Third Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2024, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 11:** *Mathematics, Grade 10 (First Year Secondary)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, Arabic; no edition or year is printed in the book. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 12:** *Mathematics — Textbook for Class XI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-486-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendices 1–2, the Answers and the Supplementary Material; nothing is cited from them.
+**Book 13:** *Mathematics — Textbook for Class XII, Parts I–II* (ONE work in two volumes: continuous chapters 1–13 and continuous printed pagination 1–587) — India, NCERT, New Delhi, first edition November 2006, 2020-21 printing; Part I ISBN 81-7450-629-2 (Part II prints no ISBN). Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy of Part I lacks its appendices, answers and supplementary material, and the held copy of Part II has no front matter; nothing is cited from either.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -53,10 +55,17 @@ Every part traces to its book and page.
 | Symmetric relations — Symmetric relations defined and tested on pair sets and diagrams (3-6) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 98 |
 | Transitive relations — Transitive relations defined and tested (3-7) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 102 |
 | Equivalence relations — Equivalence relations (reflexive + symmetric + transitive) and equivalence classes, via "same class" and "equal remainders on division by 3" (3-8) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 106 |
-**Acceptance count: taught in 8 countries (Libya, Yemen, Bangladesh, Kuwait, Laos, Malaysia, Rwanda, Sudan).** Libya carries the full binary-relations treatment — Cartesian product, equality of relations, domain and range, inverse relation — as the closing part of its Grade 10 sets chapter (printed pp. 9–43), the ground from which it then defines functions. Yemen carries the topic twice: in Grade 7 as the staircase ordered pair → Cartesian product (with S × T ≠ T × S) → relations (printed pp. 32, 34, 37), and in Grade 9 with transitive relations and equivalence relations as named lessons (printed pp. 17, 25) ahead of its function lesson. Bangladesh, Kuwait and Laos each carry the Cartesian product and relations material as a minor row — Bangladesh in one section (§1.9, printed p. 24), Kuwait inside its Grade 8 sets-and-relations unit (printed pp. 15–67), Laos inside its Grade 10 sets lessons (printed pp. 30–52) — and they are counted here as minor, exactly as filed.
+| Cartesian product — ordered pairs and cartesian product of two/three sets; n(A × B) = pq | India, Mathematics Class 11, printed p. 30 |
+| Relations — relation as a subset of A × B; domain, co-domain and range; arrow diagrams | India, Mathematics Class 11, printed p. 34 |
+| Special relations — empty relation and universal relation in a set | India, Mathematics Class 12 Part I, printed p. 2 |
+| Properties of relations — reflexive, symmetric and transitive relations defined | India, Mathematics Class 12 Part I, printed p. 2 |
+| Equivalence relations — equivalence relation defined; equivalence classes in the chapter Summary | India, Mathematics Class 12 Part I, printed p. 3 |
+**Acceptance count: taught in 9 countries (Libya, Yemen, Bangladesh, Kuwait, Laos, Malaysia, Rwanda, Sudan, India).** Libya carries the full binary-relations treatment — Cartesian product, equality of relations, domain and range, inverse relation — as the closing part of its Grade 10 sets chapter (printed pp. 9–43), the ground from which it then defines functions. Yemen carries the topic twice: in Grade 7 as the staircase ordered pair → Cartesian product (with S × T ≠ T × S) → relations (printed pp. 32, 34, 37), and in Grade 9 with transitive relations and equivalence relations as named lessons (printed pp. 17, 25) ahead of its function lesson. Bangladesh, Kuwait and Laos each carry the Cartesian product and relations material as a minor row — Bangladesh in one section (§1.9, printed p. 24), Kuwait inside its Grade 8 sets-and-relations unit (printed pp. 15–67), Laos inside its Grade 10 sets lessons (printed pp. 30–52) — and they are counted here as minor, exactly as filed.
 
 Additional Mathematics Form 4 opens with relations met in everyday situations, on the way to functions. (The classification of relations into their four types is Malaysia's Form 2 work and is filed under functions.)
 
 Rwanda teaches relations in Senior 1, closing its sets unit: relations and their properties (reflexive, symmetric, transitive; equivalence relations), ordered pairs and the Cartesian product, mappings with domain, codomain and range and their four types, and graphs of relations on the Cartesian plane.
 
 Sudan teaches relations three times over: Grade 7 gives ordered pairs, the Cartesian product, relations, image and range and the inverse relation; Grade 9 relates sets; and Grade 10 formalises the theory — special relations, reflexive, symmetric and transitive, up to equivalence relations proved in the book's logic language.
+
+India enters relations from Mathematics Class 11–12: cartesian product; special relations.

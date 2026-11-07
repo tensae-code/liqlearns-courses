@@ -1,6 +1,6 @@
 # Sources — Sequences and series
 
-countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan
+countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India
 
 Every part traces to its book and page.
 
@@ -154,6 +154,10 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 **Book 83:** *Advanced Mathematics for Rwanda Schools — Learner's Book, Senior Six* (ADVANCED stream) — Rwanda, Fountain Publishers Rwanda Ltd, © 2017, ISBN 978-9970-19-419-3. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 84:** *Mathematics, Grade 11 (Second Year Secondary)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, Arabic; no edition or year is printed in the book (the held file’s first page is a distributor wrap, not the book’s cover). No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 85:** *Math-Magic Book 5 — Textbook in Mathematics for Class V* — India, NCERT, New Delhi, first edition March 2008, 2020-21 issue, ISBN 978-81-7450-828-7. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 86:** *Mathematics — Textbook for Class VII* — India, NCERT, New Delhi, first edition February 2007, 2020-21 issue, ISBN 81-7450-669-1. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Brain-Teasers; nothing is cited from them.
+**Book 87:** *Mathematics — Textbook for Class X* — India, NCERT, New Delhi, first edition December 2006, 2020-21 printing, ISBN 81-7450-634-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 88:** *Mathematics — Textbook for Class XI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-486-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendices 1–2, the Answers and the Supplementary Material; nothing is cited from them.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -265,8 +269,27 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 | Geometric sequences — The geometric sequence: common ratio, general term u_n = ar^(n−1) (6-4) | Sudan, Grade 11 Mathematics (Second Year Secondary), printed p. 157 |
 | Sum of a geometric sequence — Sum formula S_n = a(1 − rⁿ)/(1 − r) derived by the multiply-by-r-and-subtract trick, plus the form using the last term (6-5) | Sudan, Grade 11 Mathematics (Second Year Secondary), printed p. 162 |
 | Infinite geometric sum — Sum to infinity S = a/(1 − r) when/r/< 1, because rⁿ approaches zero; Zeno-style halving examples and recurring decimals converted to fractions (6-6) | Sudan, Grade 11 Mathematics (Second Year Secondary), printed p. 167 |
+| Number patterns — Patterns: multiply by 2, 3, 4… and add 3 each time — is the difference the same?; (9 − 1) ÷ 8 = 1, (98 − 2) ÷ 8 = 12, (987 − 3) ÷ 8 = 123… | India, Math-Magic Class 5, printed p. 108 |
+| Number tricks that always work (double, × 5, ÷ 10); the squares pattern 1 = 1 × 1, 121 = 11 × 11, 12321 = 111 × 111 | India, Math-Magic Class 5, printed p. 111 |
+| Growth pattern — Rabbits in Australia table (10, 18, 32, 58, 108…): each year a little less than double; taking the pattern forward | India, Math-Magic Class 5, printed p. 166 |
+| Number patterns from expressions: tables for 2n − 1, 3n + 2, n² + 1 out to the 100th term | India, Mathematics Class 7, printed p. 247 |
+| Arithmetic progressions — AP defined; term and common difference d; general form a, a+d, a+2d, …; finite vs infinite APs | India, Mathematics Class 10, printed p. 93 |
+| Checking for an AP — a list is an AP iff successive differences are constant | India, Mathematics Class 10, printed p. 96 |
+| Nth term — §5.3: nth term aₙ = a + (n − 1)d, derived and applied (find a term, find which term has a given value, two-digit multiples, terms from the end) | India, Mathematics Class 10, printed p. 100 |
+| Sum of n terms — §5.4: Sₙ = (n/2)[2a + (n − 1)d] derived by writing the sum forwards and backwards; Sₙ = (n/2)(a + l) when the last term l is known | India, Mathematics Class 10, printed p. 107 |
+| Applications — AP applications: simple-interest rows, rose-bed rows, TV production, finding n from a given sum | India, Mathematics Class 10, printed p. 110 |
+| Arithmetic mean — note to the reader: if a, b, c are in AP then b = (a + c)/2, the arithmetic mean | India, Mathematics Class 10, printed p. 116 |
+| Sequences — sequence as a function on N; general term; Fibonacci-type recursive sequences in examples/exercises | India, Mathematics Class 11, printed p. 177 |
+| Series as the sum of a sequence; partial sums notation | India, Mathematics Class 11, printed p. 179 |
+| Arithmetic progressions — A.P.: general term a + (n−1)d and sum formula Sn = n/2 [2a + (n−1)d] derived | India, Mathematics Class 11, printed p. 181 |
+| Arithmetic mean — inserting arithmetic means between two numbers | India, Mathematics Class 11, printed p. 183 |
+| Geometric progressions — G.P.: general term ar^(n−1) | India, Mathematics Class 11, printed p. 187 |
+| Geometric progressions — sum to n terms of a G.P., Sn = a(r^n − 1)/(r − 1), derived by the rSn − Sn method; case r = 1 | India, Mathematics Class 11, printed p. 187 |
+| Geometric mean of two positive numbers; inserting geometric means | India, Mathematics Class 11, printed p. 190 |
+| AM–GM — relationship between A.M. and G.M.: A.M. ≥ G.M. for two positive numbers | India, Mathematics Class 11, printed p. 191 |
+| Special series — sums Σn, Σn², Σn³ and sum to n terms of special series by the difference method | India, Mathematics Class 11, printed p. 194 |
 
-**Acceptance count: taught in 24 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan).**.** Kazakhstan carries
+**Acceptance count: taught in 25 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India).**.** Kazakhstan carries
 the fullest treatment — all four Grade 9 Algebra books prove
 the nth-term formulas, the characteristic properties, both
 sum formulas and the infinite geometric sum, with applied
@@ -299,3 +322,5 @@ Malaysia grows sequences from Form 2 patterns — a generalisation stated in num
 Rwanda teaches sequences and series from Primary 3 number patterns (its descending-pattern example taught corrected, as 97 − 72 = 25, not the printed common difference of 28) through Primary 4–6 patterns and linear-sequence general terms, to the full Advanced Senior Five unit — arithmetic, geometric and harmonic sequences and series, sums to infinity and recurring decimals — and Senior Six Advanced series, convergence tests and power series.
 
 Sudan teaches sequences in Grade 11 as functions, then arithmetic and geometric sequences with their sums and the infinite geometric sum.
+
+India stocks sequences and series from Math-Magic Class 5 and Mathematics Class 7, 10–11: number patterns; number patterns from expressions: tables for 2n − 1, 3n + 2, n² + 1 out to the 100th term; arithmetic progressions; sequences.
