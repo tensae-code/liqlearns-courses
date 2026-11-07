@@ -139,6 +139,7 @@ and work with circles.*
 - constructing-triangles-and-quadrilaterals ✅ — building triangles (SSS/SAS/ASA/RHS) and quadrilaterals to order (Level 61, catch-up build)
 - tessellations ✅ — tiling the plane with translations, reflections and rotations (Level 62, catch-up build)
 - platonic-solids-and-eulers-formula ✅ — the five regular polyhedra and Euler's formula V + F − E = 2 (Level 63, catch-up build)
+- types-of-lines ✅ — straight lines (horizontal, vertical, oblique), curved and zigzag lines, open and closed lines, naming pictured lines (Level 145, Rwanda merge 2026-11-07)
 
 ## Stage 8 — Measuring, Area and Volume
 *End of stage: the learner can measure, find perimeters and
@@ -221,6 +222,8 @@ integrate.*
 - parametric-equations ✅ — parametric equations and parametric curves (Level 97, catch-up build)
 - barycentres ✅ — barycentres: balancing weighted points (Level 98, catch-up build)
 - quaternions ✅ — quaternions (Level 99, catch-up build)
+- numerical-methods ✅ — finding roots approximately: sign change, linear interpolation, Newton–Raphson, fixed-point iteration (Level 147, Rwanda merge 2026-11-07)
+- vector-spaces ✅ — vector spaces and subspaces: closure tests, intersections and sums, Grassmann's formula, span, independence, basis and dimension (Level 148, Rwanda merge 2026-11-07)
 
 ## Stage 13 — Logic and Proof
 *End of stage: the learner can handle mathematical statements,
@@ -244,6 +247,7 @@ structures.*
 - latin-squares ✅ — Latin squares (Level 110, catch-up build)
 - algebraic-structures ✅ — binary operations, groups, rings and fields (Level 111, catch-up build)
 - mathematical-investigations ✅ — the balance search, the phone tree and the painted cube (Level 112, catch-up build)
+- matrix-cryptography ✅ — encoding and decoding messages with a 2×2 matrix cryptogram (Level 149, Rwanda merge 2026-11-07)
 
 ## Stage 15 — Money, Time and Everyday Mathematics
 *End of stage: the learner can use money, run the money
@@ -256,6 +260,7 @@ books teach, and work with speed.*
 - insurance-risk-and-coverage ✅ — risk pooled: life, health, motor and house cover, and the premium's price factors (Level 142, Malaysia merge 2026-11-07)
 - insurance-deductibles-and-co-insurance ✅ — the first slice, the scale and the split: what a claim actually pays (Level 143, Malaysia merge 2026-11-07)
 - taxation ✅ — income tax computed whole: reliefs, chargeable income, the bands, the rebate, the PCB balance (Level 144, Malaysia merge 2026-11-07)
+- mixtures-and-alligation ✅ — mixing two ingredients: mean price, unknown price or quantity by balancing profit and loss (Level 146, Rwanda merge 2026-11-07)
 
 ## Stage 16 — Further Statistics and Probability
 *End of stage: the learner can reason about uncertain
@@ -292,13 +297,15 @@ things and follow patterns — the first mathematics of all.*
 - sorting-and-classifying ✅ — sorting and classifying by one attribute, then by two (Level 135, catch-up build)
 - repeating-patterns ✅ — repeating, growing and shrinking patterns (Level 136, catch-up build)
 
-**LADDER TOTAL: 144 lessons across 18 stages** — the first
+**LADDER TOTAL: 149 lessons across 18 stages** — the first
 52 built 2026-11-05 across 12 stages (5 + 2 + 3 + 6 + 4 + 5 +
 4 + 4 + 5 + 3 + 4 + 7); the catch-up build of 2026-11-06
 added 84 lessons (Levels 53–136) as extensions inside the
 original twelve stages and as new Stages 13–18; the Malaysia
 merge of 2026-11-07 added 8 lessons (Levels 137–144) inside
-Stages 1, 6, 8, 13 and 15.
+Stages 1, 6, 8, 13 and 15; the Rwanda merge of 2026-11-07
+added 5 lessons (Levels 145–149) inside Stages 7, 12, 14
+and 15.
 
 ## After Stage 12
 The catch-up build of 2026-11-06 closed the recorded gap:
