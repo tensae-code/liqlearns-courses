@@ -1,0 +1,51 @@
+# Sources — Speech writing
+
+countries: Egypt, Ghana, Nepal, Greece
+
+Every part traces to its book and page. Ghana's evidence
+is the NaCCA curriculum only — no Ghana pupil textbook
+exists, and no pupil book is cited for Ghana.
+
+**Book 1:** New Hello! English for Secondary Schools,
+Year 2 (Secondary 11), Term 2 — Egypt, Egyptian
+International Publishing Company – Longman / York Press,
+© 2021 Ministry of Education and Technical Education.
+Filed in english/EGYPT-BOOK-MAP.md (FULLY READ
+2026-10-26; the formal citation check for the pre-law
+Egypt reads is still owed).
+
+**Book 2:** Common Core Programme curriculum (JHS) and
+the Basic 4–6 curriculum — Ghana, NaCCA. Filed in
+english/books/ghana.md (FULLY READ + CITATION CHECK
+PASSED 2026-10-26). Curriculum evidence only.
+
+**Book 3:** English (Grade 11) — Nepal, Government of
+Nepal, Ministry of Education, Science and Technology,
+Curriculum Development Centre. Filed in
+english/books/nepal.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
+**Book 4:** Αγγλικά 2 (Αγγλικά Γενικού Λυκείου 2),
+Grades 11–12, Student's Book — Greece, ITYE
+«Diophantos», for the Ministry of Education
+(ebooks.edu.gr). Filed in english/books/greece.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+| Lesson part | Where it comes from |
+|---|---|
+| The speech for or against an argument as a set writing kind; the speaking work on stressing the important information in arguments (electric cars by 2050, for and against); the Workbook's own speech for or against electric cars | Egypt, Secondary 11 Term 2, Unit 8, Lessons 3–4 and Workbook Unit 8 (as filed in EGYPT-BOOK-MAP.md) |
+| The three-part rule printed whole: "Tell what you are going to tell them (introduction). Tell them (body). Tell them what you told them (conclusion)" | Ghana, NaCCA JHS curriculum, Basic 8, curriculum p.65 — curriculum evidence only |
+| The speech's standing parts named — Heading, Vocative Address, Introduction, Body; speeches of about five minutes, researched from print and non-print sources | Ghana, NaCCA curriculum, Basic 5 (as filed) — curriculum evidence only |
+| Speeches with effect devices: emotive adjectives, TRIPLING ("It's your country, it's my country, it's our future!"), repetition, parallel structure, powerful imagery ("I have a dream"), inclusive "we" | Ghana, NaCCA JHS curriculum, Basic 9, curriculum p.97 — curriculum evidence only |
+| A famous speech read whole: Malala Yousafzai's "Education First" address to the UN Youth Assembly, 12 July 2013 | Nepal, English (Grade 11), Unit 1, printed pp.3–12 |
+| A five-minute speech as the unit's writing task, beside the reading of Nelson Mandela's Inauguration Speech (Pretoria, 10 May 1994) | Nepal, English (Grade 11), Unit 9, printed pp.79–87 |
+| "The art of persuasion": adapted extracts of King's "I Have a Dream" beside Mandela's "I am prepared to die", judged with a rhetoric table — repetition, questions, lists, antithesis, rule of three, and Aristotle's ethos / logos / pathos (speeches printed pp.86–87; the table on printed p.88) | Greece, Αγγλικά 2, Unit 6 "Leaders. Born or made?", printed pp.81–100 |
+
+**Acceptance count: taught in 4 countries (Egypt, Ghana,
+Nepal, Greece).** Egypt sets the speech for or against an
+argument as a writing kind; Ghana's curriculum prints the
+three-part rule at Basic 8 and the effect devices at
+Basic 9; Nepal reads famous speeches whole and sets a
+five-minute speech of the pupil's own; Greece teaches
+rhetoric on King and Mandela with the rule of three and
+the ethos / logos / pathos table.

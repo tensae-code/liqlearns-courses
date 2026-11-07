@@ -1,0 +1,79 @@
+# Sources — Essay kinds
+
+countries: Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria
+
+Every part traces to its book and page. Malaysia's Year 6
+evidence is given as the filing carries it: mapped by the
+Scheme of Work, and confirmed by the pupil's-book read of
+2026-11-06.
+
+**Book 1:** Textos de Aprendizaje 2023–2024, Área Lengua
+Extranjera (teacher compendium) — Bolivia, Ministerio de
+Educación. Filed in english/books/bolivia.md (FULLY READ
++ CITATION CHECK PASSED 2026-10-26).
+
+**Book 2:** Academy Stars Pupil's Book, Year 6 —
+Malaysia, Macmillan Education / ITBM for the Ministry of
+Education Malaysia, ISBN 978-967-460-874-3. Filed in
+english/books/malaysia.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-06).
+
+**Book 3:** Full Blast! Plus 4, Student's Book, Form 4 —
+Malaysia, MM Publications. Filed in
+english/books/malaysia.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-04).
+
+**Book 4:** Form 5 KPM textbook (student's book) —
+Malaysia, ISBN 978-967-0951-44-7. Filed in
+english/books/malaysia.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-04).
+
+**Book 5:** Hornbill, Textbook in English for Class XI —
+India, NCERT, ISBN 81-7450-524-5. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK
+PASSED 2026-10-26).
+
+**Book 6:** Bahasa Inggris Tingkat Lanjut (Grade 11
+Student Book) and Bahasa Inggris: Life Today (Grade 12
+Student Book) — Indonesia, Kemendikbudristek. Filed in
+english/books/indonesia.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
+**Book 7:** English Language pupil handbooks, SSS1–SSS3
+— Sierra Leone, Ministry of Basic and Senior Secondary
+Education. Filed in english/books/sierra-leone.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 8:** Emar English Series 12, Student's Book,
+Literary Section — Syria, Ministry of Education. Filed
+in english/books/syria.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Argumentative texts as the essay unit's production: the model "Let's compare universities and careers" and the pupil's own argument essay; the general structure that lets the body "explore both sides of debate" | Bolivia compendium, Year 6, Topic 1, student p.213 (1.3, with the structure table at 1.2) |
+| The opinion essay whole — topic sentences, four-paragraph structure, opinion phrases — on the "Sugar, sugar" debate | Malaysia, Academy Stars Year 6, Unit 9 "What's your opinion?", printed pp.114–115 (pupil's-book read; the Year 6 Scheme of Work maps the same unit) |
+| The advantages-and-disadvantages essay with a model (team project work), working on topic sentences; the set task an essay on homework; an opinion paragraph whose models argue both sides (e-books vs paper books) | Malaysia, Full Blast! Plus 4, Form 4, Module 4, printed pp.51–66 |
+| The opinion essay whole at Form 5 (deciding your opinion, two given ideas and a third of your own, a model essay) | Malaysia, Form 5 KPM textbook, Unit 3, Writing, printed pp.40–41 |
+| Essay introductions as a skill: a strong introduction that states your opinion without copying the task | Malaysia, Form 5 KPM textbook, Unit 5, Writing, printed pp.66–67 |
+| Essay conclusions as a skill: summary plus a closing comment | Malaysia, Form 5 KPM textbook, Unit 6, Writing, printed pp.78–79 |
+| The essay defined (a composition of more than one paragraph on a particular subject) with its four characteristics named: Unity, Coherence, Relevance, Proportion; a model essay dissected paragraph by paragraph | India, Hornbill, Writing Skills 4 "Essay-writing", printed pp.102–106 |
+| Analytical exposition defined by its structure — Thesis – Arguments – Reiteration; analytical persuades that something is the case, hortatory that something should be done; the pupil builds their own from a mind map | Indonesia, Grade 11 Tingkat Lanjut, Unit 4, printed pp.117–146 (the definition at pp.119–130; writing at pp.139–144) |
+| Hortatory exposition: structure-labelled model closing in a recommendation; the writing machine (mind map → draft → check → comment → present) | Indonesia, Grade 11 Tingkat Lanjut, Unit 5, printed pp.147–174 |
+| The discussion text's schematic structure taught in print — Issue – Arguments for – Arguments against – Conclusion/Recommendation — explored on the meat text in annotated tables | Indonesia, Life Today, Grade 12, Unit 4, Reading, printed pp.176–179 (the text at pp.163–165) |
+| The five-paragraph essay as a named, built form — introduction, three body paragraphs, conclusion, with topic sentences | Sierra Leone, SSS1 Term 3, Lessons 105–106, pp.19 and 21 |
+| The descriptive essay as its own lesson: outlining a five-paragraph descriptive essay | Sierra Leone, SSS1 Term 3, Lesson 109, p.27 |
+| The expository essay's family named: essay types (how-to/process, compare and contrast, cause and effect, and others); outline a five-paragraph expository essay, then write it | Sierra Leone, SSS2 Term 1, Lessons 45–46, pp.112 and 114 |
+| The four essay types side by side with their features — Persuasive, Expository, Narrative, Descriptive — and a five-paragraph essay drafted | Sierra Leone, SSS3 review lessons, Lesson 129 "Types of Essays Review", p.88 (as filed) |
+| The essay kinds named in a "What is an Essay" reading: interpretive, analytical, argumentative, comparative, problem-and-solution, cause-and-effect | Syria, Emar Student's Book 12, Literary Section, Unit 8 "Essays", printed pp.74–80 |
+
+**Acceptance count: taught in 6 countries (Bolivia,
+Malaysia, India, Indonesia, Sierra Leone, Syria).**
+Bolivia builds its essay unit on argumentative texts;
+Malaysia teaches the opinion essay at Year 6 and Form 5,
+advantages-disadvantages at Form 4, and introductions
+and conclusions as separate skills; India names the
+essay's four characteristics; Indonesia gives three
+kinds labelled structures of their own; Sierra Leone
+builds the five-paragraph essay and lessons for its
+kinds; Syria names the kind family outright.

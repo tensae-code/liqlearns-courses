@@ -328,6 +328,18 @@ write poems to named shapes.*
 - story-techniques ✅ · poetry-writing ✅ (catch-up build
   2026-11-07 — 2 lessons, 40 question items)
 
+## Level 38 — Speeches and Shows
+*End of level: the learner can write and give a speech, run a
+presentation, and turn a scene into a play script.*
+- speech-writing ✅ · presentation-skills ✅ · play-scripts ✅
+  (catch-up build 2026-11-07 — 3 lessons, 60 question items)
+
+## Level 39 — Essays and Shortening
+*End of level: the learner knows the essay kinds and can cut
+a text down to notes and to a faithful summary.*
+- essay-kinds ✅ · note-making ✅ · summarising ✅ (catch-up
+  build 2026-11-07 — 3 lessons, 60 question items)
+
 ## After Level 18
 The ladder keeps climbing — longer essays and the Story → Novel
 titles. Later blocks get their own level numbers here, in this
