@@ -1,6 +1,6 @@
 # Sources — Pythagoras
 
-countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia
+countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan
 
 Every part traces to its book and page.
 
@@ -129,6 +129,10 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 **Book 49:** *Mathematics Form 1* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2016, ISBN 978-983-00-8271-4) and BM original *Matematik Tingkatan 1* (Penerbitan Pelangi Sdn. Bhd., 2016, ISBN 978-983-00-8244-8). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 50:** *Mathematics Form 3* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-983-00-9651-3) and BM original *Matematik Tingkatan 3* (Pustaka Yakin Pelajar Sdn. Bhd., 2018, ISBN 978-967-490-042-7). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 51:** *Mathematics, Grade 6* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2020, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 52:** *Mathematics, Grade 9 (Third Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2024, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Pythagoras' theorem and its converse (3-2, printed 70–77): finding a side; the converse; classifying triangles by angles from side lengths (acute, right or obtuse by comparing squares); Get Ready: a 13-foot ladder against a wall; Unit Three Activity: a Pythagoras practical (printed 104) | Egypt, Grade 8 Term 1, Unit 3, 3-2, printed pp.70–77, 104 |
@@ -187,8 +191,12 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 | The hypotenuse identified as the side opposite the right angle; the theorem established by comparing the areas of squares on the three sides (a² + b² = c²); finding a hypotenuse or a shorter side (12–16–20 and 10–24–26 worked; chained right triangles, PR² = 3² + 4² then PQ = 13 cm) | Malaysia, Mathematics Form 1, Ch. 13 §13.1, printed pp. 294–299 |
 | The converse of Pythagoras' theorem: deciding from side lengths whether a triangle is right-angled | Malaysia, Mathematics Form 1, Ch. 13 §13.2, printed pp. 300–302 |
 | Distance between two points from coordinates, the distance formula carried in the book's own Symbols and Formulae list (main filing: coordinates-and-graphs) | Malaysia, Mathematics Form 3, Ch. 9 Self Mastery, printed pp. 248–249 |
+| Pythagoras theorem — Theorem discovered by measuring drawn 6–8–10 and 3–4–5 triangles; stated as square of the hypotenuse = sum of squares of the other sides, and in area form | Sudan, Grade 6 Mathematics, printed p. 156 |
+| Finding sides — Rearranged forms with square roots: hypotenuse from the two legs (12, 5 → 13); a leg from hypotenuse and leg; chained right triangles in one figure | Sudan, Grade 6 Mathematics, printed p. 157 |
+| Testing for a right angle — Converse in use, never named: do the triples (26, 24, 10) and (8, 15, 16) form right-angled triangles? | Sudan, Grade 6 Mathematics, printed p. 159 |
+| Chord length problems — Using Pythagoras with the perpendicular-from-centre theorem to find chord lengths and distances (within 4-4) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 133 |
 
-**Acceptance count: taught in 25 countries (Egypt, Greece, Armenia, Kazakhstan, Vietnam, Sierra Leone, Libya, Mauritania, South Africa, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia).**.** Egypt carries the fullest single treatment — Iran states Pythagoras' theorem in Grade 8 and verifies it on examples rather than proving it, and uses the converse.
+**Acceptance count: taught in 26 countries (Egypt, Greece, Armenia, Kazakhstan, Vietnam, Sierra Leone, Libya, Mauritania, South Africa, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan).**.** Egypt carries the fullest single treatment — Iran states Pythagoras' theorem in Grade 8 and verifies it on examples rather than proving it, and uses the converse.
 the theorem, its converse, classifying triangles by comparing
 squares, the 13-foot ladder and a Pythagoras practical in Grade
 8. Sierra Leone carries the cleanest ladder in JSS 3 — the
@@ -222,3 +230,5 @@ Pakistan (Punjab) carries Pythagoras in Class 8's statement-and-use treatment an
 Syria discovers Pythagoras' theorem in Grade 8 Geometry by measuring and tabulating squares, proves it by the two-squares dissection, states the converse and uses it both ways, and then uses the theorem as a working tool throughout Grade 9 Geometry — in trigonometry, in space and on sphere sections. Ghana's presence in this lesson is curriculum evidence only and is not counted in the taught-in figure.
 
 Malaysia gives Pythagoras the final chapter of Form 1, theorem and converse both, proving the theorem by areas of squares. Ghana stays in this lesson's countries line as curriculum evidence only and is not counted in the acceptance count, exactly as filed before this merge.
+
+Sudan states Pythagoras' theorem in Grade 6, finds sides with it and tests for a right angle, and uses it for chord-length problems in Grade 9.

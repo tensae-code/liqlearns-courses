@@ -1,6 +1,6 @@
 # Sources — Circles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan
 
 Every part traces to its book and page.
 
@@ -226,6 +226,14 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 
 **Book 107:** *Primary 6 Mathematics for Rwanda Schools — Learner's Book* — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 108:** *Mathematics, Grade 4* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, second edition 2021, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 109:** *Mathematics, Grade 5* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, second edition 2021, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 110:** *Mathematics, Grade 6* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2020, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 111:** *Mathematics, Grade 9 (Third Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2024, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The circle and its parts (p.111) — names parts, no circumference or area yet | Jordan, Grade 6 Student Book Term 1, Unit 4, L4, p.111 |
@@ -344,8 +352,14 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 | Arc length s = rθ and sector area ½r²θ measured in radians (main filing: radian-measure) | Malaysia, Additional Mathematics Form 5, Ch. 1 §§1.2–1.3, printed pp. 5–18 |
 | Circumference as the distance around a circle, measured with string; diameter and radius defined; pi found experimentally as C ÷ D (π = 22/7 or 3.14); C = πD and C = 2πr used both ways; diameter from circumference, d = C ÷ π | Rwanda, Mathematics for Rwandan Primary Schools, Pupil's Book 5, Unit 13 (§§13.1–13.3), printed pp. 210–216 |
 | Area of a circle from its diameter and from its circumference (finding r first); the radius found from the area (divide by π, then take the square root) | Rwanda, Primary 6 Mathematics, Learner's Book, Unit 14, printed pp. 265–269 |
+| The circle — circle in daily life (coin); centre and radius on printed p. 109; chord and diameter defined on printed p. 110 | Sudan, Grade 4 Mathematics, printed p. 109 |
+| The circle — The circle drawn with compasses; centre, radius and diameter named | Sudan, Grade 5 Mathematics, printed p. 118 |
+| Circumference — Circumference by measuring round tins; the ratio circumference ÷ diameter is constant, named النسبة التقريبية π ≈ 22/7 or 3.14; Circumference formulas C = πd = 2πr (r = 7 → 44 cm; d = 10 → 31.4 cm); Diameter and radius recovered from the circumference (C = 132 cm → r = 21 cm) | Sudan, Grade 5 Mathematics, printed pp. 119–121 |
+| Circle area — Open vs closed curves; circle defined (points equidistant from the centre); area derived by rearranging sectors into a near-parallelogram → π × radius² (π = 22/7 or 3.14); radius/diameter recovered from a given area; composite trapezium + semicircle | Sudan, Grade 6 Mathematics, printed p. 152 |
+| Parts of a circle — Circle as a locus; centre, radius, arc, chord, segment, diameter, secant defined through activities (4-1) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 124 |
+| Central and inscribed angles — Central angle, sector and inscribed (محيطية) angle defined (4-1) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 126 |
 
-**Acceptance count: taught in 28 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda).**.** Kazakhstan carries the full climb — circle Iran measures the circumference in Grade 5 — with the book's own bounds for π, 3 1/7 and 3 10/71, while its exercises work with π = 3 — the area of a circle in Grade 6, circle basics in Grade 8, and the circle's equation in Grade 12 Geometry (3).
+**Acceptance count: taught in 29 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan).**.** Kazakhstan carries the full climb — circle Iran measures the circumference in Grade 5 — with the book's own bounds for π, 3 1/7 and 3 10/71, while its exercises work with π = 3 — the area of a circle in Grade 6, circle basics in Grade 8, and the circle's equation in Grade 12 Geometry (3).
 parts in Grade 3, circle and disc in Grades 4 and 5, then the
 practical thread-and-glass discovery of pi with C = πD and the
 disc area in Grade 6. Jordan carries the parts in Grade 6 and
@@ -373,3 +387,5 @@ Syria defines the circle, radius and diameter in Grade 5 and its area in Grade 6
 Malaysia builds the circle in Form 2 — parts, chord symmetry, π, circumference and area — and completes its vocabulary in Form 3 where the theorems begin. Ghana stays in this lesson's countries line as curriculum evidence only and is not counted in the acceptance count, exactly as filed before this merge.
 
 Rwanda teaches circles in Years 5–6: circumference measured with string and pi found as C ÷ D in Year 5, with C = πD and C = 2πr, and the area of a circle — from diameter, from circumference, and back to the radius — in Year 6.
+
+Sudan meets the circle in Grade 4 (centre and radius, then chord and diameter), takes circumference in Grade 5, circle area in Grade 6, and names the parts of a circle with central and inscribed angles in Grade 9.

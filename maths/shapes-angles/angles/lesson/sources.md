@@ -1,6 +1,6 @@
 # Sources — Angles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan
 
 Every part traces to its book and page.
 
@@ -229,6 +229,16 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 
 **Book 119:** *Mathematics for Rwandan Schools — Senior 1 Student's Book* — Rwanda, Longhorn Publishers (Rwanda) Ltd, 2016, ISBN 978 9997 74 483 8 (as printed). No REB approval wording is printed anywhere in the book. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 120:** *Mathematics, Grade 4* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, second edition 2021, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 121:** *Mathematics, Grade 5* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, second edition 2021, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 122:** *Mathematics, Grade 7 (First Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2021, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 123:** *Mathematics, Grade 8 (Second Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2022, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 124:** *Mathematics, Grade 10 (First Year Secondary)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, Arabic; no edition or year is printed in the book. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Angles lesson: lines, rays and angles | Jordan, Grade 3 Student Book Term 1, Unit 6, L2 Angles, p.98 |
@@ -357,8 +367,27 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Angles on parallel lines and transversals — vertically opposite angles equal, angles on a straight line sum to 180°, angles at a point sum to 360°, corresponding and alternate angles equal, co-interior angles sum to 180°; drawing angles with a protractor; angle sum of a triangle = 180° | Rwanda, Mathematics for Rwandan Primary Schools, Pupil's Book 5, Unit 11 (§§11.1–11.7, 11.13), printed pp. 160–175, 191–192 |
 | Interior and exterior angles of polygons — at a vertex they sum to 180°, interior sum = (n − 2) × 180°, exterior sum 360°, one angle from the other, sides from one exterior angle; centre angle of a regular polygon = 360° ÷ number of sides | Rwanda, Primary 6 Mathematics, Learner's Book, Unit 12, printed pp. 207–215; Unit 13, printed pp. 246–247 |
 | Points, lines, segments and rays; angle types to reflex; angles on a straight line (180°) and at a point (360°); corresponding, alternate and co-interior angles from a transversal cutting parallel lines | Rwanda, Senior 1 Student's Book, Unit 6, printed pp. 139–153 |
+| The angle — two rays from one point form an angle | Sudan, Grade 4 Mathematics, printed p. 86 |
+| Measuring and drawing angles — the protractor: zero line, centre, 0–180 scale; draw an angle of 55° step by step (the worked 55° drawing example is on printed p. 90; the lesson spans pp. 88–90) | Sudan, Grade 4 Mathematics, printed p. 88 |
+| Types of angles — acute, right, obtuse, straight (180°) and reflex angles; pick out right angles with the protractor | Sudan, Grade 4 Mathematics, printed p. 91 |
+| Perpendicular lines — two lines meeting at a right angle are perpendicular; the other three angles are then also right angles | Sudan, Grade 4 Mathematics, printed p. 96 |
+| Parallel lines — lines that never meet are parallel; draw a line parallel to a given line step by step | Sudan, Grade 4 Mathematics, printed p. 97 |
+| Complementary angles — Complementary angles (sum 90°), with find-the-unknown-angle work | Sudan, Grade 5 Mathematics, printed p. 123 |
+| Supplementary angles — Supplementary angles (sum 180°), with find-the-unknown-angle work on a straight line | Sudan, Grade 5 Mathematics, printed p. 125 |
+| Vertically opposite angles — Vertically opposite angles, formed by two intersecting lines, shown equal through the supplement argument | Sudan, Grade 5 Mathematics, printed p. 127 |
+| Angles of a transversal — The eight angles of a transversal — interior, exterior, alternate (interior/exterior) and corresponding — named and identified | Sudan, Grade 5 Mathematics, printed p. 129 |
+| Angles between parallel lines — The same angle families when the two lines are parallel — corresponding equal, alternate equal, interior same-side supplementary — applied to find unknown angles | Sudan, Grade 5 Mathematics, printed p. 131 |
+| Angle sum of a triangle — The angle sum of a triangle (180°) proved by drawing a parallel through a vertex and using corresponding and alternate angles; angles in a ratio found from the sum | Sudan, Grade 5 Mathematics, printed p. 138 |
+| Exterior angle of a triangle — The exterior angle of a triangle (supplement work; the remote-interior equality is used implicitly in solutions but not stated as a theorem) | Sudan, Grade 5 Mathematics, printed p. 140 |
+| Interior angle sum — Sum of interior angles of a polygon = (n − 2) × 180°, derived by triangulating from one vertex and stated in right angles, (2n − 4) right angles; Each interior angle of a regular polygon; finding the number of sides from an interior angle of 150° (answer 12) | Sudan, Grade 7 Mathematics (First Year Intermediate), printed pp. 54–55 |
+| Exterior angles — Exterior angles of a polygon (sides extended one way); sum of exterior angles = 4 right angles (360°) derived for pentagon and generalised; exterior angle of regular polygons with 10 and 20 sides | Sudan, Grade 7 Mathematics (First Year Intermediate), printed p. 57 |
+| Greater side, greater angle — Theorem 1: greater side is opposite the greater angle — activity + proof via isosceles triangle and exterior angle | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 125 |
+| Greater angle, greater side — Theorem 2 (converse): greater angle is opposite the greater side — proved; ordering sides/angles exercises | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 130 |
+| Shortest distance to a line — perpendicular from a point is the shortest segment to the line; hypotenuse is the longest side; median < half the sum of adjacent sides | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 134 |
+| The triangle inequality — sum of any two sides exceeds the third side — formal proof; corollary: a side exceeds the difference of the other two; quadrilateral half-perimeter application | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 138 |
+| Degree measure — Degree measure: a full turn is 360°, the degree splits into 60 minutes and the minute into 60 seconds; reflex angles and angles beyond one turn (6-3) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 189 |
 
-**Acceptance count: taught in 29 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda).** Egypt carries the fullest single Iran measures angles with a protractor in Grade 4, bisects angles and sums polygon angles in Grade 5, and gives the (n − 2) × 180° interior-angle rule in Grade 8.
+**Acceptance count: taught in 30 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan).** Egypt carries the fullest single Iran measures angles with a protractor in Grade 4, bisects angles and sums polygon angles in Grade 5, and gives the (n − 2) × 180° interior-angle rule in Grade 8.
 treatment — the angle kinds, the protractor, complementary and
 supplementary pairs, the transversal's eight angles, and the
 triangle and quadrilateral sums in one Grade 7 unit. Jordan
@@ -390,3 +419,5 @@ Saudi Arabia introduces the angle in Grade 4 — degrees alongside turns, the ri
 Malaysia builds angles in Form 1 from measuring to parallels and transversals, then closes the polygon angle sums in Form 2, deriving the interior sum by triangulating from one vertex.
 
 Rwanda teaches angles from Year 2, where right, acute and obtuse angles are compared without degrees, through Year 3's protractor work in both editions, Year 4's complementary and supplementary angles, Year 5's transversal angles, Year 6's polygon angle sums, and Senior 1's lines-and-angles unit.
+
+Sudan teaches angles from Grade 4 (the angle, measuring and drawing with the protractor, types, perpendicular and parallel lines), the Grade 5 angle relations (complementary, supplementary, vertically opposite, transversal and parallel-line angles, the triangle's angle sum and exterior angle), interior and exterior sums in Grade 7, and in Grade 8 the side–angle theorems of the triangle — the greater side opposite the greater angle and its converse, the perpendicular as the shortest distance to a line, and the triangle inequality itself, formally proved with its corollary — the very parts Pakistan's Class 9 book carries in this lesson.

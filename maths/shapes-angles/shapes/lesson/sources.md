@@ -1,6 +1,6 @@
 # Sources — Shapes
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan
 
 Every part traces to its book and page.
 
@@ -283,6 +283,18 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 
 **Book 159:** *Mathematics for Rwandan Schools — Senior 1 Student's Book* — Rwanda, Longhorn Publishers (Rwanda) Ltd, 2016, ISBN 978 9997 74 483 8 (as printed). No REB approval wording is printed anywhere in the book. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 160:** *Mathematics, Grade 2* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, revised edition 2021, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 161:** *Mathematics, Grade 3* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, Arabic; no edition or year is printed in the book. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 162:** *Mathematics, Grade 4* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, second edition 2021, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 163:** *Mathematics, Grade 5* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, second edition 2021, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 164:** *Mathematics, Grade 7 (First Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2021, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 165:** *Mathematics, Grade 8 (Second Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2022, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Polygons named and sorted by vertices; naming by number of sides | Egypt, Grade 3 Term 1 old edition, Chapter 4, printed pp.44–61 (Polygons p.44; Properties of Polygons) |
@@ -458,8 +470,20 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Cubes and cuboids — properties (6 faces, 12 edges, 8 vertices), and their nets, judged and drawn | Rwanda, Mathematics for Rwandan Primary Schools, Pupil's Book 5, Unit 13 (§§13.4–13.6), printed pp. 217–222 |
 | Polygons named by number of sides from triangle (3) to decagon (10); nets of cuboids, cubes and prisms | Rwanda, Primary 6 Mathematics, Learner's Book, Unit 12, printed pp. 205–207; Unit 13, printed pp. 257–260 |
 | Properties of solids — faces, edges and vertices of cubes, cuboids, prisms, pyramids, cones, cylinders and spheres; nets of solids | Rwanda, Senior 1 Student's Book, Unit 7, printed pp. 154–165 |
+| Straight and curved lines — straight line vs curved line; open and closed curved lines; sorting lines in pictures | Sudan, Grade 2 Mathematics, printed p. 66 |
+| Polygons by number of sides — three-sided, four-sided, five-sided, six-sided and seven-sided shapes named and sorted | Sudan, Grade 2 Mathematics, printed p. 69 |
+| Point and line segment — the point and the straight segment; name three segments in a figure | Sudan, Grade 3 Mathematics, printed p. 107 |
+| The triangle — recognise and work with the triangle in a figure | Sudan, Grade 3 Mathematics, printed p. 111 |
+| Rectangle and square — activities on rectangle and square; sort square, rectangle and triangle among nine shapes (incl. parallelogram, trapezium, pentagon, hexagon distractors) | Sudan, Grade 3 Mathematics, printed p. 112 |
+| Review: point and segment — geometry review lesson: point, straight segment and measuring it with a ruler (from Grade 3) | Sudan, Grade 4 Mathematics, printed p. 82 |
+| Ray and straight line — extend a segment one way to get a ray, both ways to get a line; table of start/end points for segment, ray, line | Sudan, Grade 4 Mathematics, printed p. 83 |
+| Classifying triangles by angles — Classifying triangles by angles: acute, obtuse and right | Sudan, Grade 5 Mathematics, printed p. 134 |
+| Classifying triangles by sides — Classifying triangles by sides: scalene, isosceles (with its equal base angles noted) and equilateral | Sudan, Grade 5 Mathematics, printed p. 136 |
+| Polygons — Polygon defined as a closed plane figure of 3+ sides, named by side count; regular polygon defined (equal sides and equal interior angles) | Sudan, Grade 7 Mathematics (First Year Intermediate), printed p. 51 |
+| Three-dimensional shapes — geometric solids vs non-geometric solids; only geometric solids studied | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 144 |
+| Prisms and the cuboid — right prism defined; prisms named by base; cuboid's faces, edges, vertices; opposite faces equal and parallel | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 146 |
 
-**Acceptance count: taught in 30 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
+**Acceptance count: taught in 31 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
 — polygons, triangles two ways, then the parallelogram family
 with its special cases. Egypt carries polygons by vertices in
 Grade 3 and the triangle/trapezium/kite sorting in Grade 5.
@@ -489,3 +513,5 @@ Saudi Arabia names shapes from Grade 1 — solids sorted by roll/stack/slide, pl
 Malaysia names and classifies shapes in Form 1 (polygons, triangles, quadrilaterals) and returns in Form 2 for regular polygons and for the three-dimensional shapes and their nets.
 
 Rwanda teaches shapes across the primary years and into Senior 1: Year 2 names squares, rectangles and triangles, Year 3 gives their properties and triangle types in both the English and Kinyarwanda editions, Year 4 classifies triangles and quadrilaterals, Years 5–6 add cubes, cuboids, polygons and nets, and Senior 1 counts faces, edges and vertices across the solids.
+
+Sudan teaches shapes from Grade 2's straight and curved lines and polygons by their number of sides, through Grade 3's point and segment and the first triangle, rectangle and square, Grade 4's review of point and segment with the ray and the straight line built by extending it, Grade 5's classification of triangles by angles and by sides, Grade 7's polygons, and Grade 8's three-dimensional shapes and prisms.

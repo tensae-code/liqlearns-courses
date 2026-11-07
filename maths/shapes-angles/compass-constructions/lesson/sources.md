@@ -1,6 +1,6 @@
 # Sources — Constructions with ruler and compass
 
-countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda
+countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan
 
 Every part traces to its book and page.
 
@@ -28,6 +28,10 @@ Every part traces to its book and page.
 
 **Book 16:** *Primary 6 Mathematics for Rwanda Schools — Learner's Book* — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 17:** *Mathematics, Grade 4* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, second edition 2021, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 18:** *Mathematics, Grade 8 (Second Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2022, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Do it first: bisect a segment with string or paper | Sierra Leone, SSS 2 Term 2, L79 (p.90) — substitute compass from string or a strip of paper |
@@ -52,7 +56,9 @@ Every part traces to its book and page.
 | Drawing triangles, a square and a rectangle, and regular pentagons and hexagons, with ruler and protractor (using the interior angles 108° and 120°) | Rwanda, Primary 6 Mathematics, Learner's Book, Unit 13, printed pp. 229–240 |
 | Constructing triangles (SSS and SAS), a rectangle and a square with ruler and compasses only; constructing regular pentagons, hexagons, septagons (heptagons), octagons, nonagons and decagons in a circle from the centre angle | Rwanda, Primary 6 Mathematics, Learner's Book, Unit 13, printed pp. 240–257 |
 
-**Acceptance count: taught in 10 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda).**
+| Drawing a circle — draw a circle with ruler and compasses (al-firjār / al-barjal) | Sudan, Grade 4 Mathematics, printed p. 111 |
+| Dividing a segment — construction: divide a given segment into n equal parts using an auxiliary ray and parallels | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 75 |
+**Acceptance count: taught in 11 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan).**
 
 Sierra Leone teaches the fullest school construction course here: SSS 2 Term 2 lessons 79–83 work through bisection and the constructible angles in order, and its JSS 1 handbook gives the first constructions. Laos builds the same skills in Grade 6 — parallels and perpendiculars through a point, the perpendicular bisector, copying an angle and a segment — after using a compass from Grade 4. Iran is the country that insists on reasons: its Geometry (1) presents constructions with justifications, so each arc is there for a stated cause. Armenia teaches construction as a method, with the stages of a construction problem named as part of the work. Pakistan's Grade 6 practical-geometry unit and Bangladesh's Class 7 experiments give the same constructions as set exercises, and Kuwait's Grade 7 Term 2 Unit 6 carries a long construction unit of its own.
 
@@ -61,3 +67,5 @@ Syria's constructions run from copying an arc with compasses in Grade 6, through
 Malaysia teaches construction inside its Form 1 lines-and-angles chapter — the full basic kit in one run — and meets the two great bisectors again in Form 3, built as loci.
 
 Rwanda teaches constructions in Years 5–6: Year 5 bisects angles and builds 90°, 60° and their bisections and supplements with compasses, and Year 6 draws shapes with ruler and protractor before constructing triangles, squares, rectangles and regular polygons up to the decagon with ruler and compasses only.
+
+Sudan draws a circle with ruler and compasses in Grade 4 and divides a segment in Grade 8.

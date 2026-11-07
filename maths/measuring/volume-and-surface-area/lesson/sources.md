@@ -1,6 +1,6 @@
 # Sources — Volume and Surface Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan
 
 Every part traces to its book and page.
 
@@ -269,6 +269,10 @@ READ + CITATION CHECK PASSED 2026-11-05).
 
 **Book 114:** *Mathematics for Rwandan Schools — Senior 1 Student's Book* — Rwanda, Longhorn Publishers (Rwanda) Ltd, 2016, ISBN 978 9997 74 483 8 (as printed). No REB approval wording is printed anywhere in the book. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 115:** *Mathematics, Grade 8 (Second Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2022, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 116:** *Mathematics, Grade 9 (Third Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2024, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The prism and the pyramid — naming (p.91) | Jordan, Grade 5 Student Book Term 2, Unit 9, L7, p.91 |
@@ -391,8 +395,24 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Teacher's extra worked example finding the width of a cuboid of surface area 370 cm², length 11 cm and height 9 cm from 2(lw + lh + wh) — guide evidence | Rwanda, Primary 6 Mathematics, Teacher's Guide, Unit 14 development, printed p. 294 |
 | Surface areas from nets — cuboid, cube, cylinder, prism, pyramid, cone (πrl + πr²), sphere 4πr² and hemisphere 3πr², and composite solids (exposed faces only) | Rwanda, Senior 1 Student's Book, Unit 7, printed pp. 158–175 |
 | Volumes — cubes and cuboids (1 m³ = 1,000,000 cm³), prism as cross-section area × length, cylinder πr²h, cone and pyramid as one third of the matching solid, sphere (4/3)πr³; problem solving mixing surface areas and volumes | Rwanda, Senior 1 Student's Book, Unit 7, printed pp. 175–191 |
+| Surface area of a cuboid — lateral area = perimeter of base × height from the net; painting a 7×5×3 m hall at 700 pounds/m² | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 148 |
+| Surface area of a cube — cube as special cuboid; lateral = 4 × face, total = 6 × face; inverse problem from total edge length 72 cm | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 152 |
+| Surface area of a cylinder — lateral = 2πrh; total adds two circular bases; juice-tin label example | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 156 |
+| Surface area of a cone — slant vs vertical height; lateral = πrl derived by sectors approaching a rectangle; inverse example (109.9 cm², l = 7 → r = 5) | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 159 |
+| Surface area of a pyramid — regular pyramid: congruent isosceles triangular faces; lateral = ½ × base perimeter × slant height | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 163 |
+| Surface area of a sphere — sphere defined (centre, radius; no faces/edges/vertices); surface area = 4πr², used forwards and backwards | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 167 |
+| Volume and units — Volume as space occupied; standard units cm³, dm³, m³, mm³ and counting unit cubes (8-1) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 267 |
+| Capacity and litres — Capacity as internal volume; 1 litre = 1000 cm³; capacity vs external volume of a vessel (within 8-1) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 269 |
+| Converting volume units — Converting between volume units by multiplying/dividing by 1000 (within 8-1) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 269 |
+| Cuboid volume — Volume of a cuboid (المنشور/متوازي المستطيلات) = base area × height, with inverse problems (8-2) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 271 |
+| Triangular prism volume — Volume of a triangular prism in an error-spotting exercise (base is a triangle, not a rectangle) (within 8-2 exercises) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 277 |
+| Cube volume — Volume of a cube = edge³; edge from total edge length, face area and lateral area (8-3) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 278 |
+| Pyramid volume — Volume of a pyramid = ⅓ × base area × height, found by a sand-filling experiment (8-4) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 282 |
+| Cylinder volume — Volume of a cylinder = πr²h, presented as a prism with a circular base (8-5) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 286 |
+| Cone volume — Volume of a cone = ⅓πr²h, found by a sand-filling experiment against a cylinder (8-6) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 290 |
+| Sphere volume — Volume of a sphere = (4/3)πr³, derived by splitting the sphere into small pyramids; sphere surface area 4πr² used in the derivation and examples (8-7) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 294 |
 
-**Acceptance count: taught in 30 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda).**.** Sierra Leone carries the cleanest Iran gives the cuboid's volume in Grade 5, prism volumes and the cylinder's lateral area in Grade 7, and the sphere, pyramid and cone in Grade 9; its Grade 10 Geometry (1) treats the solids themselves without computing their volumes.
+**Acceptance count: taught in 31 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan).**.** Sierra Leone carries the cleanest Iran gives the cuboid's volume in Grade 5, prism volumes and the cylinder's lateral area in Grade 7, and the sphere, pyramid and cone in Grade 9; its Grade 10 Geometry (1) treats the solids themselves without computing their volumes.
 ladder — cubes, prisms and cylinders by cross-section × height,
 then surface areas by the net, in JSS 2. Egypt carries volume by
 counting unit cubes through V = l × w × h in Grade 5 and the
@@ -428,3 +448,5 @@ Saudi Arabia introduces volume by filling solids with unit cubes in Grade 3 — 
 Malaysia builds surface area from nets in Form 2 before giving any formula, takes volumes in the same chapter, and closes the topic in Additional Mathematics Form 5 with volumes of revolution about both axes.
 
 Rwanda teaches volume and surface area from Year 4's unit-cube cuboid (with its Teacher's Guide working the matchbox pile), through Year 5's missing dimensions and Year 6's cuboid surface area and cylinder volume, to Senior 1's full run of surface areas and volumes for prisms, pyramids, cones, cylinders and spheres.
+
+Sudan splits the topic by design: Grade 8 teaches surface areas only — cuboid, cube, cylinder, cone, pyramid and sphere, with no volumes — and Grade 9 teaches the volumes, with units and litre conversions, the sphere's volume derived by a pyramid-dissection argument.

@@ -1,6 +1,6 @@
 # Sources — Perimeter and Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan
 
 Every part traces to its book and page.
 
@@ -308,6 +308,12 @@ READ + CITATION CHECK PASSED 2026-11-05).
 
 **Book 139:** *Primary 6 Mathematics for Rwanda Schools — Learner's Book* — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 140:** *Mathematics, Grade 5* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, second edition 2021, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 141:** *Mathematics, Grade 6* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2020, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 142:** *Mathematics, Grade 9 (Third Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2024, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Perimeter (p.92); area (p.94); area of a rectangle (p.96) | Jordan, Grade 3 Student Book Term 2, Unit 11, L5–L7, pp.92–96 |
@@ -456,8 +462,20 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Perimeter as the distance around a closed figure, with mixed units converted first; fencing applications — items at intervals and poles around gardens, with cost; area by counting unit squares, area units km²–mm² and land units (hectare, are, centiare, acre); area of a rectangle A = l × w | Rwanda, Primary Learner's Mathematics P4, pupil's book, Unit 6 (§§6.7–6.8), printed pp. 83–88; Unit 9 (§§9.1–9.4), printed pp. 107–113 |
 | Areas derived — square, triangle (½ × base × height), parallelogram, rhombus (also ½ × product of diagonals) and trapezium (½ × sum of parallel sides × height); perimeter formulas restated for rectangle, parallelogram, square, rhombus and trapezium | Rwanda, Primary Learner's Mathematics P4, pupil's book, Unit 16 (§§16.2–16.9), printed pp. 164–174 |
 | Regular polygons — sides and apothem, perimeter = number of sides × side length, area = (apothem × perimeter) ÷ 2 | Rwanda, Primary 6 Mathematics, Learner's Book, Unit 12, printed pp. 215–219 |
+| Perimeter — Perimeter concept by wrapping string round a closed shape; perimeter of any polygon = sum of its side lengths | Sudan, Grade 5 Mathematics, printed p. 108 |
+| Perimeter of a triangle — Perimeter of a triangle as the sum of its three sides, including finding a third side from the perimeter (20 − 15 = 5 cm) | Sudan, Grade 5 Mathematics, printed p. 110 |
+| Perimeter of a square — Perimeter of a square: P = 4 × side; side = P ÷ 4 | Sudan, Grade 5 Mathematics, printed p. 112 |
+| Perimeter of a rectangle — Perimeter of a rectangle: P = 2 × (length + width); recovering length or width from the perimeter | Sudan, Grade 5 Mathematics, printed p. 115 |
+| Area — Area as the number of square units covering a region; counting on grids; perimeter vs area contrasted; units mm²–km²; land in feddans (1 feddan = 4200 m²), garden-path and L-shaped-plot problems | Sudan, Grade 6 Mathematics, printed p. 128 |
+| Rectangle area — Rectangle properties recalled; area derived by tiling → length × width; inverse problem (area 63, length 9 → width 7) | Sudan, Grade 6 Mathematics, printed p. 129 |
+| Square area — Square as a special rectangle: area = side × side; side recovered from area by square root (81 → 9); area from the diagonal ½ × d × d after measuring the diagonals' properties | Sudan, Grade 6 Mathematics, printed p. 132 |
+| Parallelogram area — Parallelogram base and its height; area derived by cutting off the end triangle and moving it to form a rectangle → base × height; inverse problems | Sudan, Grade 6 Mathematics, printed p. 137 |
+| Triangle area — Triangle area from halving a parallelogram along its diagonal: ½ × base × height; any side as base; right-angled triangle = ½ × product of the right-angle sides; equal-area triangles with different sides | Sudan, Grade 6 Mathematics, printed p. 140 |
+| Rhombus area — Rhombus المعين: properties, diagonals perpendicular and bisecting; area as base × height, and from the diagonals ½ × d₁ × d₂ derived by reassembling its four triangles into a rectangle; inverse problems | Sudan, Grade 6 Mathematics, printed p. 144 |
+| Trapezium area — Trapezium شبه المنحرف defined (only two parallel sides); bases, legs, height; consecutive angles on a leg supplementary; midline = half the sum of the bases; area derived via the midline cut → ½ × (sum of bases) × height | Sudan, Grade 6 Mathematics, printed p. 148 |
+| Arc length — Arc length = (central angle / 360) × circumference (4-2) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 128 |
 
-**Acceptance count: taught in 29 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda).** Sierra Leone carries the cleanest Iran counts squares for area in Grade 3, derives the parallelogram and triangle areas in Grade 4, adds the rhombus and trapezium in Grade 5, and reaches polygon areas in Grade 10 Geometry (1) and Heron's formula in Grade 11 Geometry (2).
+**Acceptance count: taught in 30 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan).** Sierra Leone carries the cleanest Iran counts squares for area in Grade 3, derives the parallelogram and triangle areas in Grade 4, adds the rhombus and trapezium in Grade 5, and reaches polygon areas in Grade 10 Geometry (1) and Heron's formula in Grade 11 Geometry (2).
 ladder — perimeter short cuts, rectangle and triangle areas with
 the perpendicular-height rule, and the parallelogram, trapezium
 and composite areas in JSS 2. Jordan carries perimeter and area
@@ -490,3 +508,5 @@ Saudi Arabia separates the two measures cleanly: area by covering and counting s
 Malaysia derives its plane area formulae in Form 1 by cutting and rearranging — never just stating them — and returns to area at the top end with the shoelace formula for coordinates and ½ab sin C with Heron's formula for triangles.
 
 Rwanda teaches perimeter and area from Year 2's side-by-side measuring and first formulas, through Year 3's formulas worked both ways, Year 4's fencing problems, land units and derived areas for triangle, parallelogram, rhombus and trapezium, to Year 6's regular-polygon perimeter and area.
+
+Sudan teaches perimeter in Grade 5 (triangle, square, rectangle, including recovering a side from the perimeter) and area in Grade 6 (rectangle, square, parallelogram, triangle, rhombus, trapezium), returning for arc length in Grade 9.

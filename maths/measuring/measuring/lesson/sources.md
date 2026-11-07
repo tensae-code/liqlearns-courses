@@ -1,6 +1,6 @@
 # Sources — Measuring
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan
 
 Every part traces to its book and page.
 
@@ -298,6 +298,14 @@ READ + CITATION CHECK PASSED 2026-11-05).
 
 **Book 148:** *Primary 6 Mathematics for Rwanda Schools — Learner's Book* — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 149:** *Mathematics, Grade 1* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2020, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 150:** *Mathematics, Grade 2* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, revised edition 2021, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 151:** *Mathematics, Grade 3* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, Arabic; no edition or year is printed in the book. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 152:** *Mathematics, Grade 4* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, second edition 2021, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The centimetre (p.88); the metre (p.90); the gram and the kilogram (p.92); the litre and the millilitre (p.94) | Jordan, Grade 2 Student Book Term 2, Unit 10, L1–L4, pp.88–94 |
@@ -453,8 +461,16 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Capacity and volume in Year 4 — capacity distinguished from volume, the 1 cm cube = 1 cm³, estimating capacities, converting kl–ml; mass — kg as standard unit, tonne = 1 000 kg, quintal = 100 kg, converting kg–mg | Rwanda, Primary Learner's Mathematics P4, pupil's book, Unit 7 (§§7.1–7.4, 7.6), printed pp. 90–96, 98; Unit 8 (§§8.1–8.3, 8.5), printed pp. 100–106 |
 | Revision conversions across length, capacity and mass, including tonnes and quintals; compound-unit subtraction and stride problems | Rwanda, Mathematics for Rwandan Primary Schools, Pupil's Book 5, Unit 7 (§7.1), printed pp. 114–115 |
 | Revision of mass (tonne–milligram) and capacity (kilolitre–millilitre); the relationship 1 litre = 1 kg = 1 dm³ for water, and converting between volume, capacity and mass on the combined table | Rwanda, Primary 6 Mathematics, Learner's Book, Unit 7, printed pp. 119–126 |
+| Comparing lengths — colour the longer / the shorter object; no standard units used | Sudan, Grade 1 Mathematics, printed p. 76 |
+| Comparing weights — colour the heavier / the lighter; order objects from heaviest to lightest and say why | Sudan, Grade 1 Mathematics, printed p. 78 |
+| Measuring length — field activities (ask a fabric seller, measure a pencil); metre = 100 cm = 1000 mm; decimetre; order km, m, dm, cm, mm | Sudan, Grade 2 Mathematics, printed p. 58 |
+| Weights — field activities (ask a goldsmith, ask a butcher); the gram as the unit; kilogram and tonne = 1000 kg | Sudan, Grade 2 Mathematics, printed p. 60 |
+| Length: metric and imperial units — recap km, m, cm, mm; mile, yard, foot, inch with conversions (foot = 12 inches = 30 cm; yard = 3 feet = 90 cm; mile = 1760 yards ≈ 1.5 km as printed) | Sudan, Grade 3 Mathematics, printed p. 97 |
+| Measuring a segment — measure segment lengths with a ruler in centimetres and millimetres | Sudan, Grade 3 Mathematics, printed p. 109 |
+| Capacity: the litre family — capacity defined; litre, decilitre, centilitre, millilitre; 1 L = 10 dL = 100 cL = 1000 mL; syringe of 5 cc; conversions | Sudan, Grade 4 Mathematics, printed p. 49 |
+| Capacity problems — 1800-litre tank filled into 200-decilitre barrels = 90 barrels (verified on the page); tubes and fuel-tank problems | Sudan, Grade 4 Mathematics, printed p. 51 |
 
-**Acceptance count: taught in 29 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda).**.** Sierra Leone carries the cleanest Iran compares longer and shorter and heavier and lighter in Grade 1 — the heavier-marking activity is at printed p. 168 — reads the clock there too, and measures length in centimetres and millimetres in Grade 2.
+**Acceptance count: taught in 30 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan).**.** Sierra Leone carries the cleanest Iran compares longer and shorter and heavier and lighter in Grade 1 — the heavier-marking activity is at printed p. 168 — reads the clock there too, and measures length in centimetres and millimetres in Grade 2.
 single ladder — length, mass and volume distinguished, then the
 three conversion tables in JSS 1. Jordan carries the four
 standard units in one Grade 2 unit (centimetre, metre, gram and
@@ -485,3 +501,5 @@ Syria measures first with non-standard units in Grade 1, moves to centimetres, k
 Saudi Arabia measures the full primary way: non-standard units and direct comparison in Grade 1, centimetres, millilitres and grams in Grade 2, millimetres and the km in Grade 3, and the tonne with unit conversion in Grade 4 — always estimating before measuring — with the older 1445 Term-3 volumes witnessing each Part Two chapter and the partial exercises book adding practice evidence.
 
 Rwanda teaches measuring through the whole primary course: Year 2 works in metres, litres and kilograms, Year 3 climbs the full length, mass and capacity ladders in both the English and Kinyarwanda editions (with its Teacher's Guide adding non-standard units and estimating first), Year 4 adds precision instruments, tonnes and quintals, and Years 5–6 revise the conversions and tie litre, kilogram and cubic decimetre together for water.
+
+Sudan measures by comparison only in Grade 1 (longer/shorter, heavier/lighter — no standard units), measures length and weight in Grade 2, sets metric beside imperial units in Grade 3, and teaches the litre family and capacity problems in Grade 4.

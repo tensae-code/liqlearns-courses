@@ -1,6 +1,6 @@
 # Sources — Temperature and Traditional Measures
 
-countries: Nepal, South Africa, South Sudan, Mauritania, Nicaragua, Kazakhstan, Laos
+countries: Nepal, South Africa, South Sudan, Mauritania, Nicaragua, Kazakhstan, Laos, Sudan
 
 Every part traces to its book and page.
 
@@ -18,6 +18,8 @@ Every part traces to its book and page.
 **Book 12:** *Mathematics, Grade 5, Part 1* (Abylkasymova, Kucher & Zhumagulova) — Kazakhstan, Mektep, 2017. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 13:** *Mathematics, Grade 5 student book* — Laos, Ministry of Education, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 14:** *Mathematics, Grade 4* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, second edition 2021, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Reading a thermometer; Celsius and Fahrenheit scales; body temperature 36.5 °C / 98 °F | Nepal, Grade 4 student book, Lesson 7 §7.2, printed pp.105–111 |
@@ -31,4 +33,7 @@ Every part traces to its book and page.
 | Old Kazakh length units (tutam, qarys, qulam, shaqyrym, with yard, foot, mile) in a reference box | Kazakhstan, Abylkasymova et al., *Mathematics*, Grade 5 (Mektep, 2017), Part 1, §2, p.12 |
 | Traditional Lao mass units — baht, salung, hun — and the carat, alongside kg/g/t | Laos, Grade 5 student book (2009), L31, printed pp.76–89 |
 
-**Acceptance count: taught in 7 countries (Nepal, South Africa, South Sudan, Mauritania, Nicaragua, Kazakhstan, Laos).** Nepal carries both halves of the lesson: the thermometer with both scales in Grade 4, and the land units — ropani, aana, paisa, daam, katha, dhur — as a full Grade 9 strand with cost problems. South Africa carries thermometer reading through its Grade 5–7 workbooks, in weather contexts. South Sudan carries the conversion formulas in its student books — Pupil's Book 5 prints them correctly with the 32 offset, and Pupil's Book 7 works 50 °C = 122 °F; only the student books are cited, never the P7 guide, which prints the formulas without the 32. Mauritania carries the fullest traditional-measures chapter: the Islamic measures of length, weight, capacity and time, with values, worked into zakat exercises. Nicaragua carries body units by name in Grade 1 and its own land units, vara cuadrada and manzana, in Grade 4. Kazakhstan carries the old Kazakh length units in a Grade 5 reference box. Laos carries the traditional Lao mass units — baht, salung, hun — and the carat in Grade 5.
+| Traditional dry measures (al-makāyīl) — measuring sorghum and wheat: 1 kayla = 2 rubuʿ = 4 malwa; 1 rubuʿ = 2 malwa; conversions (7 kayla = 28 malwa; 48 malwa = 12 kayla) | Sudan, Grade 4 Mathematics, printed p. 53 |
+**Acceptance count: taught in 8 countries (Nepal, South Africa, South Sudan, Mauritania, Nicaragua, Kazakhstan, Laos, Sudan).** Nepal carries both halves of the lesson: the thermometer with both scales in Grade 4, and the land units — ropani, aana, paisa, daam, katha, dhur — as a full Grade 9 strand with cost problems. South Africa carries thermometer reading through its Grade 5–7 workbooks, in weather contexts. South Sudan carries the conversion formulas in its student books — Pupil's Book 5 prints them correctly with the 32 offset, and Pupil's Book 7 works 50 °C = 122 °F; only the student books are cited, never the P7 guide, which prints the formulas without the 32. Mauritania carries the fullest traditional-measures chapter: the Islamic measures of length, weight, capacity and time, with values, worked into zakat exercises. Nicaragua carries body units by name in Grade 1 and its own land units, vara cuadrada and manzana, in Grade 4. Kazakhstan carries the old Kazakh length units in a Grade 5 reference box. Laos carries the traditional Lao mass units — baht, salung, hun — and the carat in Grade 5.
+
+Sudan keeps its traditional dry measures in Grade 4: 1 kayla = 2 rubuʿ = 4 malwa, taught inside the capacity work.

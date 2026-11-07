@@ -1,6 +1,6 @@
 # Sources — Right-triangle trigonometry
 
-countries: Jordan, Egypt, Sierra Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia
+countries: Jordan, Egypt, Sierra Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan
 
 Every part traces to its book and page.
 
@@ -99,6 +99,10 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 
 **Book 47:** *Mathematics Form 3* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-983-00-9651-3) and BM original *Matematik Tingkatan 3* (Pustaka Yakin Pelajar Sdn. Bhd., 2018, ISBN 978-967-490-042-7). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 48:** *Mathematics, Grade 8 (Second Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2022, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 49:** *Mathematics, Grade 10 (First Year Secondary)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, Arabic; no edition or year is printed in the book. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Trigonometry introduced from similar right triangles; ratios defined before applications, calculator-based; sine, cosine, tangent of an acute angle defined as ratios of sides in a right triangle; cosecant/secant/cotangent named; the Pythagorean identity and "reciprocal of the trigonometric ratio" among the key terms; applications — angles of elevation and depression, finding unknown lengths and heights | Jordan, Grade 9 Term 2, Unit 5 "Relationships in Triangles and Trigonometric Ratios", p.6; L4 Trigonometric Ratios p.40; L5 Applications of Trigonometric Ratios p.49 |
@@ -168,9 +172,17 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Special angles 30°, 45° and 60° derived from a halved equilateral triangle and an isosceles right-angled triangle; the exact surd table; exact-value arithmetic without a calculator | Malaysia, Mathematics Form 3, Ch. 5 §5.1, printed pp. 119, 124 |
 | Degrees, minutes and seconds (1° = 60′, 1′ = 60″) and conversions; calculator values to 4 decimal places; inverse trig to recover the angle, in degrees and in degrees and minutes | Malaysia, Mathematics Form 3, Ch. 5 §5.1, printed pp. 120–121 |
 | Problem solving in Polya's steps (a ladder against a wall; the angle of a cuboid's diagonal); angles of elevation and depression | Malaysia, Mathematics Form 3, Ch. 5 §5.1, printed pp. 122–123 |
+| Sine — opposite/adjacent/hypotenuse named; جا = opposite/hypotenuse read off given triangles | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 170 |
+| Cosine — جتا = adjacent/hypotenuse; English name and symbol cos given | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 174 |
+| Tangent — ظا = opposite/adjacent (tan); tangents of complementary angles are reciprocals | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 176 |
+| Ratios by drawing and measurement — construct the triangle from a given ratio (cos = 3/5) and measure the angle; ratios of 30°/45°/60° by measurement | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 179 |
+| Ratios from a calculator — sin 42° ≈ 0.67, cos 65° ≈ 0.42, tan 45° = 1 with key sequences | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 182 |
+| Special angles — exact sin/cos/tan for 30°, 45°, 60° derived (halved equilateral triangle; isosceles right triangle) and tabulated | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 186 |
+| Applications — unknown side via tan 40°; height via sin 29° × 35 ≈ 16.8 m; 20 m tree at 55° exercise | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 189 |
+| Directed angles — The directed angle: initial side, terminal side, vertex; positive anticlockwise, negative clockwise (6-1) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 182 |
 
-**Acceptance count: taught in 24 countries (Jordan, Egypt, Sierra
-Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia).**
+**Acceptance count: taught in 25 countries (Jordan, Egypt, Sierra
+Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan).**
 Jordan carries the cleanest introduction — ratios from similar
 right triangles, then elevation and depression. Egypt carries
 the special-angle table and tan = sin / cos in Preparatory 3,
@@ -195,3 +207,5 @@ Pakistan (Punjab) carries trigonometry in Class 10's ratios, identities and elev
 Syria's trigonometry lives in Grade 9 Geometry, opened by Aristarchus' first trigonometric measurement: the three ratios are defined for an acute angle and shown to be the same for every right triangle sharing that angle, bounded by 1 because the hypotenuse is the longest side, linked by cos²θ + sin²θ = 1 and tan θ = sin θ / cos θ, and the 30°, 45° and 60° values are derived with Pythagoras and collected in the famous-angle table.
 
 Malaysia builds the three ratios from a similarity activity — the ratios are constant because the triangles are similar — then derives the special angles exactly and works its problems in Polya's steps.
+
+Sudan teaches the three ratios in Grade 8 by drawing and measurement before the calculator, with special angles and applications, after introducing directed angles in Grade 10.

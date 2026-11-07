@@ -1,6 +1,6 @@
 # Sources — Congruence and similarity
 
-countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia
+countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan
 
 Every part traces to its book and page.
 
@@ -152,6 +152,12 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 
 **Book 70:** *Mathematics Form 5* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2020, ISBN 978-967-2930-12-9) and BM original *Matematik Tingkatan 5* (Penerbitan Pelangi Sdn. Bhd., 2020, ISBN 978-967-2907-93-0). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 71:** *Mathematics, Grade 6* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2020, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 72:** *Mathematics, Grade 7 (First Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2021, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 73:** *Mathematics, Grade 8 (Second Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2022, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Congruent = exact fit by matching sides and vertices; triangle congruence tests SSS, SAS, ASA, RHS; similarity by matching sides and vertices; similar-triangle properties; area scale k² and volume scale k³; the scout measuring a tree's height by similar triangles | Libya, Grade 9, Chapter 8 "Congruency and Similarity", opener p.156; 8-1 congruence p.157; 8-2 congruent triangles p.162; 8-3 similarity p.172; 8-4 similar triangles p.173; 8-5 applications of similarity p.179; 8-6 area of similar shapes p.182; 8-7 volume of similar shapes p.185; summary p.189 |
@@ -237,8 +243,23 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Congruent objects: equal corresponding sides and equal corresponding angles | Malaysia, Mathematics Form 5, Ch. 5 §5.1, printed pp. 124–125 |
 | The triangle congruency conditions, and solving problems involving congruency | Malaysia, Mathematics Form 5, Ch. 5 §5.1, printed pp. 127–132 |
 | Similarity of geometric objects, introduced as the entry to enlargement | Malaysia, Mathematics Form 5, Ch. 5 §5.2, printed p. 133 |
+| Congruence concept — Congruence by superposition; congruent segments/angles have equal measures; a rectangle's diagonal gives two fully coinciding triangles; corresponding parts defined | Sudan, Grade 6 Mathematics, printed p. 161 |
+| SSS congruence — Case (أ): three sides (ض، ض، ض) via draw-cut-superpose; the stacked congruence-statement notation carrying the correspondence; proof that ∠ب = ∠د | Sudan, Grade 6 Mathematics, printed p. 163 |
+| SAS congruence — Case (ب): two sides and the included angle (ض، ز، ض); proving two segments equal without measuring | Sudan, Grade 6 Mathematics, printed p. 166 |
+| ASA congruence — Case (ج): a side and two angles (ض، ز، ز); full proof that four points form a parallelogram (congruence, then one pair of sides equal and parallel via alternate angles) | Sudan, Grade 6 Mathematics, printed p. 168 |
+| Congruence proofs — Exercises: prove a triangle is isosceles from equal base angles and a bisected apex; equal perpendiculars dropped in an isosceles triangle | Sudan, Grade 6 Mathematics, printed p. 170 |
+| RHS congruence — Case (د): right angle, hypotenuse and a side (ق، و، ض) for right-angled triangles; worked kite-figure proof (common hypotenuse) | Sudan, Grade 6 Mathematics, printed p. 172 |
+| Similarity concept — Similarity as enlargement/reduction; all equilateral triangles, all squares, all circles similar; congruent ⇒ similar but not conversely | Sudan, Grade 7 Mathematics (First Year Intermediate), printed p. 106 |
+| AA similarity — Triangles similar when corresponding angles are equal, discovered by drawing-and-measuring activities; corresponding sides then proportional | Sudan, Grade 7 Mathematics (First Year Intermediate), printed p. 107 |
+| SSS similarity — Triangles similar when corresponding sides are in proportion (second drawing activity) | Sudan, Grade 7 Mathematics (First Year Intermediate), printed p. 108 |
+| Similarity in parallel-line figures — A line parallel to one side of a triangle cuts similar triangles; finding unknown lengths from the proportion | Sudan, Grade 7 Mathematics (First Year Intermediate), printed p. 110 |
+| Similarity applications — Shadow reckoning: two poles and their shadows at the same moment form similar triangles; finding a shadow length | Sudan, Grade 7 Mathematics (First Year Intermediate), printed p. 111 |
+| SAS similarity — Triangles similar when two pairs of corresponding sides are proportional and the included angles equal; draw-and-measure activity with sides 6 and 4.5 against 8 and 6, included angles 50° (ratio 3/4) | Sudan, Grade 7 Mathematics (First Year Intermediate), printed p. 112 |
+| Equal-intercepts theorem — parallels cutting equal intercepts on one transversal cut equal intercepts on any transversal — activity + proof by congruent triangles (ASA) | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 61 |
+| Midpoint-parallel theorem — segment from a midpoint parallel to a side bisects the third side — two proofs given | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 66 |
+| Mid-segment theorem — joining two midpoints is parallel to the third side and half its length; Varignon midpoint parallelogram exercise | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 70 |
 
-**Acceptance count: taught in 26 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia).**.** Iran matches congruent figures by superposition in Grade 7, states the SSS, SAS and ASA criteria in Grade 8, proves congruence and meets similar figures in Grade 9, and proves Thales' theorem with the AA, SAS and SSS similarity criteria in Grade 10 Geometry (1).
+**Acceptance count: taught in 27 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan).**.** Iran matches congruent figures by superposition in Grade 7, states the SSS, SAS and ASA criteria in Grade 8, proves congruence and meets similar figures in Grade 9, and proves Thales' theorem with the AA, SAS and SSS similarity criteria in Grade 10 Geometry (1).
 Libya carries the fullest single treatment — congruence tests
 including RHS, similarity, applications, and the k² area and k³
 volume rules in one chapter (Grade 9, Chapter 8, pp.156–193).
@@ -267,3 +288,5 @@ Pakistan (Punjab) carries congruence and similarity in Class 8's criteria for fi
 Syria meets congruence by superposition in Grades 1–2, similarity as enlargement in Grades 5–6, proves the triangle congruence cases (SAS, ASA, SSS and the right-triangle cases) in Grade 8 Geometry, and builds similarity on Thales' theorem of three equal ratios — stated and used in Grade 8, proved by areas in Grade 9, with areas scaling by k² and volumes by k³.
 
 Malaysia treats congruency in Form 5 as the first section of its transformations chapter — congruent objects and the triangle conditions, with similarity arriving as the doorway to enlargement.
+
+Sudan proves congruence in Grade 6 (SSS, SAS, ASA, RHS, with formal proofs), similarity in Grade 7 (AA, SSS, SAS and parallel-line applications), and in Grade 8 the equal-intercepts theorem and the two midpoint theorems — the midpoint-parallel theorem with two proofs, and the mid-segment theorem with Varignon's midpoint parallelogram as an exercise.

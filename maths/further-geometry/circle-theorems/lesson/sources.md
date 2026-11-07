@@ -1,6 +1,6 @@
 # Sources — Circle theorems
 
-countries: Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia
+countries: Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan
 
 Every part traces to its book and page.
 
@@ -74,6 +74,8 @@ maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 37:** *Mathematics Form 3* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-983-00-9651-3) and BM original *Matematik Tingkatan 3* (Pustaka Yakin Pelajar Sdn. Bhd., 2018, ISBN 978-967-490-042-7). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 38:** *Mathematics, Grade 9 (Third Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2024, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Inscribed-angle theorem (an inscribed angle equals half its arc; three centre positions proved; corollary: angle on a diameter is 90°); Theorem 2: in a cyclic quadrilateral opposite angles sum to 180°; Theorem 3 (converse): if opposite angles sum to 180°, a circle can be circumscribed; Theorem 4: in a circumscribed quadrilateral the sums of lengths of opposite sides are equal; Theorem 5 (converse) | Kazakhstan, Geometry 9 (Shynybekov, Atamura 2019), Chapter 4 Circle. Polygons, §4.3 inscribed and circumscribed quadrilaterals, pp.126–162 |
@@ -141,8 +143,23 @@ maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 | The alternate segment theorem, derived and applied | Malaysia, Mathematics Form 3, Ch. 6 §6.3, printed pp. 155–156 |
 | Common tangents to two circles counted by relative position — 4 for separate circles, 3 for touching, 2 for intersecting, 1 for the internally touching case (printed 'overlapping') | Malaysia, Mathematics Form 3, Ch. 6 §6.3, printed p. 157 |
 | Combined angle-and-tangent problem solving (pulleys and a rope) | Malaysia, Mathematics Form 3, Ch. 6 §6.4, printed p. 160 |
+| Equal chords and arcs — Theorem 1: equal chords cut off equal arcs, and the converse (4-2) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 129 |
+| Centre to chord midpoint — Theorem 2: the line from the centre to the midpoint of a chord is perpendicular to the chord (4-3) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 130 |
+| Perpendicular from centre — Theorem 3: the perpendicular from the centre to a chord bisects the chord; corollary: the perpendicular bisector of any chord passes through the centre (4-4) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 132 |
+| Equal chords equidistant — Theorem 4: equal chords are equidistant from the centre, and the converse (4-5) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 136 |
+| Central angle theorem — Theorem 5: the central angle is twice the inscribed angle on the same arc, with proof (4-6) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 139 |
+| Angle in a semicircle — Theorem 6: the angle in a semicircle is a right angle (4-6) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 141 |
+| Angles in the same segment — Corollary: inscribed angles standing on the same chord from the same side are equal (within 4-6) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 142 |
+| Same-segment theorem — Theorem 7: inscribed angles in the same segment are equal, with proof (4-7) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 143 |
+| Intersecting chords — Theorem 8: when two chords intersect inside (or outside) a circle, the products of the segments are equal (4-8) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 146 |
+| Cyclic quadrilateral — Theorem 9: opposite angles of a cyclic quadrilateral are supplementary, with proof (4-9) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 150 |
+| Exterior angle of cyclic quadrilateral — Theorem 10: the exterior angle of a cyclic quadrilateral equals the interior opposite angle; converse corollary used as a test for cyclic (4-9) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 151 |
+| Tangent defined — A tangent touches the circle at exactly one point (point of contact) (4-10) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 154 |
+| Tangent–radius theorems — Theorem 11: a line perpendicular to a radius at its outer endpoint is a tangent; Theorem 12: a tangent is perpendicular to the radius at the point of contact (4-10/4-11) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 154 |
+| Two tangents from a point — Theorem 13: the two tangents from an external point are equal, and the centre-line bisects the angle between them and the chord of contact (4-12) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 159 |
+| Alternate segment theorem — Theorem 14: the angle between a tangent and a chord equals the angle in the alternate segment, with proof (4-13) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 163 |
 
-**Acceptance count: taught in 22 countries (Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia).** Kazakhstan carries the Iran states the inscribed-angle and tangent–radius facts in Grade 8 and develops the circle theorems by guided proof — power of a point and cyclic quadrilaterals included — in Grade 11 Geometry (2).
+**Acceptance count: taught in 23 countries (Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan).** Kazakhstan carries the Iran states the inscribed-angle and tangent–radius facts in Grade 8 and develops the circle theorems by guided proof — power of a point and cyclic quadrilaterals included — in Grade 11 Geometry (2).
 fullest treatment — the inscribed-angle theorem with all
 cases, the tangent–chord angle, the inside/outside angle
 theorems, the three segment products, cyclic and circumscribed
@@ -170,3 +187,5 @@ Pakistan (Punjab) carries the circle theorems in Class 10's four full geometry u
 Syria's circle theorems are all in Grade 9 Geometry: inscribed and central angles with the half-angle theorem, equal chords and equal arcs, the tangent-chord angle, and the cyclic quadrilateral — opposite angles supplementary, proved with the reflex central angle — with both converses stated.
 
 Malaysia gives circle theorems a full Form 3 chapter — every standard theorem met by measuring or dynamic-software activity before it is used, and common tangents counted for every relative position of two circles.
+
+Sudan's Grade 9 circle unit is the deepest elementary treatment in the set: fourteen theorems, every one formally proved, running from equal chords and arcs through the central angle theorem, the angle in a semicircle, angles in the same segment and intersecting chords to the cyclic quadrilateral and the alternate segment theorem.
