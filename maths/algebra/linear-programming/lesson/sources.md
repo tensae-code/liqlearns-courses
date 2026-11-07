@@ -1,10 +1,12 @@
 # Sources — Linear Programming
 
-countries: Malaysia
+countries: Malaysia, Sudan
 
 Every part traces to its book and page.
 
 **Book 1:** *Additional Mathematics Form 5* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Abadi Ilmu Sdn. Bhd., 2020, ISBN 978-983-2914-68-6) and BM original *Matematik Tambahan Tingkatan 5* (Abadi Ilmu Sdn. Bhd., 2020, ISBN 978-983-2914-67-9). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 2:** *Mathematics, Grade 11 (Second Year Secondary)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, Arabic; no edition or year is printed in the book (the held file’s first page is a distributor wrap, not the book’s cover). No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 On Malaysia in this lesson: Malaysia's Additional Mathematics Form 5 is the first book in the read set to teach linear programming as a named optimisation method. Single and paired inequalities are already lessons (inequalities; simultaneous-equations); the modelling–region–objective method is this lesson, built from Malaysia's treatment under the everything-goes-in ruling. The worked situations in the lesson are the course's own, built by the book's method; the method, the region construction and the corner rule are the book's.
 
@@ -15,4 +17,8 @@ On Malaysia in this lesson: Malaysia's Additional Mathematics Form 5 is the firs
 | The objective function stated for the situation (profit, cost and similar quantities) | Malaysia, Additional Mathematics Form 5, Ch. 7 §7.3, printed pp. 240–242 |
 | Maximum and minimum problems solved by evaluating the objective function at the vertices of the feasible region | Malaysia, Additional Mathematics Form 5, Ch. 7 §7.3, printed pp. 242–244 |
 
-**Acceptance count: taught in 1 country (Malaysia).** Malaysia's Additional Mathematics Form 5 carries the full method in its linear-programming section; the other read countries stop at inequalities and systems of equations, so this lesson is built at that honest size.
+| Linear programming — The objective function, the constraints, the feasible region (فضاء الحل), and the fact that the optimum occurs at a corner vertex of the region's polygon (7-4) | Sudan, Grade 11 Mathematics (Second Year Secondary), printed p. 201 |
+| LP word problems — Modelling production problems (shoe factory, furniture factory) with variables, constraints and a profit function, then solving at the vertices (within 7-4) | Sudan, Grade 11 Mathematics (Second Year Secondary), printed p. 204 |
+**Acceptance count: taught in 2 countries (Malaysia, Sudan).** Malaysia's Additional Mathematics Form 5 carries the full method in its linear-programming section; the other read countries stop at inequalities and systems of equations, so this lesson is built at that honest size.
+
+Sudan teaches linear programming in Grade 11, from the formulation to word problems.

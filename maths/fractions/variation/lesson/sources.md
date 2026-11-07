@@ -1,6 +1,6 @@
 # Sources — Variation
 
-countries: Sierra Leone, Jordan, Pakistan, Malaysia
+countries: Sierra Leone, Jordan, Pakistan, Malaysia, Sudan
 
 Every part traces to its book and page.
 
@@ -9,6 +9,10 @@ Every part traces to its book and page.
 **Book 3:** *Mathematics 10 (Science Group)* (student book) — Pakistan (Punjab), Ilmi Kitab Khana printing, Lahore, of the text approved by the Punjab Curriculum Authority (NOC PCA/12/123, 27-11-2012), 1st edition, March 2017, English-medium; authors Muhammad Habib, Ch. Asghar Ali, Prof. Abdul Rauf Khan and Muhammad Moeen; no ISBN printed. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 4:** *Mathematics Form 5* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2020, ISBN 978-967-2930-12-9) and BM original *Matematik Tingkatan 5* (Penerbitan Pelangi Sdn. Bhd., 2020, ISBN 978-967-2907-93-0). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 5:** *Mathematics, Grade 10 (First Year Secondary)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, Arabic; no edition or year is printed in the book. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 6:** *Mathematics, Grade 11 (Second Year Secondary)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, Arabic; no edition or year is printed in the book (the held file’s first page is a distributor wrap, not the book’s cover). No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -29,6 +33,14 @@ Every part traces to its book and page.
 | Inverse variation: the meaning, the rectangular-hyperbola graph, and the equation y = k/x | Malaysia, Mathematics Form 5, Ch. 1 §1.2, printed pp. 17–23 |
 | Combined variation: direct, inverse and powers mixed in one relation, with problem solving | Malaysia, Mathematics Form 5, Ch. 1 §1.3, printed pp. 26–29 |
 
-**Acceptance count: taught in 4 countries (Sierra Leone, Jordan, Pakistan, Malaysia).** Sierra Leone carries the whole lesson: its SSS 2 Term 1 handbook teaches variation as a block of four lessons — direct (L17, p.45), inverse (L18, p.48), joint (L19, p.51) and partial (L20, p.54), each with numerical and word problems — and returns to variation in review problems later in the SSS course. Jordan carries the base forms only: in Grade 7 Term 2, Unit 5, direct variation (L4, p.23) and inverse variation (L5, p.30), built on unit rate and proportion; Jordan teaches no joint or partial variation there, and the lesson does not claim it does. Pakistan carries a full Variations unit in Class 10 (Unit 3, printed pp.49–73): ratio and proportion first, then direct and inverse variation including variation with powers, third, fourth and mean proportionals and continued proportion, the theorems on proportions (invertendo, alternendo, componendo, dividendo, componendo-dividendo), joint variation, the k-method, and real-life variation problems, with a unit summary on pp.72–73; the filing lists no partial variation for Pakistan, so partial variation still rests on Sierra Leone alone.
+| Direct variation — Direct variation: y = kx, the constant of variation, the ratio test y₁/x₁ = y₂/x₂, and the straight-line graph through the origin (5-1) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 162 |
+| Variation with powers and roots — Direct variation with the square and with the square root of the variable (within 5-1) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 165 |
+| Inverse variation — Inverse variation: xy constant, x₁y₁ = x₂y₂, and its graph via 1/x (5-2) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 168 |
+| Joint variation — Joint (combined) variation: a quantity varying directly as a product, or directly as one quantity and inversely as another (5-3) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 173 |
+| Partial variation — Partial variation: a fixed part plus a varying part (y = a + bx, y = ax² + b, y = a + b/z), constants found from two conditions (5-4) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 176 |
+| Growth rate from two values — Using logarithms to find a growth rate: Sudan's population 14.1 million (1973 census) to 20.5 million (1983) gives 3.81% per year (within 2-10) | Sudan, Grade 11 Mathematics (Second Year Secondary), printed p. 61 |
+**Acceptance count: taught in 5 countries (Sierra Leone, Jordan, Pakistan, Malaysia, Sudan).** Sierra Leone carries the whole lesson: its SSS 2 Term 1 handbook teaches variation as a block of four lessons — direct (L17, p.45), inverse (L18, p.48), joint (L19, p.51) and partial (L20, p.54), each with numerical and word problems — and returns to variation in review problems later in the SSS course. Jordan carries the base forms only: in Grade 7 Term 2, Unit 5, direct variation (L4, p.23) and inverse variation (L5, p.30), built on unit rate and proportion; Jordan teaches no joint or partial variation there, and the lesson does not claim it does. Pakistan carries a full Variations unit in Class 10 (Unit 3, printed pp.49–73): ratio and proportion first, then direct and inverse variation including variation with powers, third, fourth and mean proportionals and continued proportion, the theorems on proportions (invertendo, alternendo, componendo, dividendo, componendo-dividendo), joint variation, the k-method, and real-life variation problems, with a unit summary on pp.72–73; the filing lists no partial variation for Pakistan, so partial variation still rests on Sierra Leone alone.
 
 Malaysia gives variation a whole Form 5 chapter — direct, inverse, joint and combined — the fullest single-book variation treatment in the course. Partial variation is not taught there; that part of the lesson stands on the other countries.
+
+Sudan teaches variation whole in Grade 10 — direct, inverse, joint and partial variation, and variation with powers and roots — and takes a growth rate from two values in Grade 11.

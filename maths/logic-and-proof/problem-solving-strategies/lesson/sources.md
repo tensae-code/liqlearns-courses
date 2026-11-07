@@ -1,6 +1,6 @@
 # Sources — Problem-solving strategies
 
-countries: Iran, Greece, Iraq, China, Saudi Arabia, Malaysia, Rwanda
+countries: Iran, Greece, Iraq, China, Saudi Arabia, Malaysia, Rwanda, Sudan
 
 Every part traces to its book and page.
 
@@ -48,6 +48,8 @@ Every part traces to its book and page.
 
 **Book 28:** *Primary Learner's Mathematics P4 for Rwanda Schools* (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 29:** *Mathematics, Grade 3* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, Arabic; no edition or year is printed in the book. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The four steps (understand, choose a strategy, solve, look back) and the eight named strategies, one per spread: drawing a figure p.2, systematic listing p.3, eliminating unwanted cases p.4, pattern-spotting p.5, guess and check p.6, sub-problems p.7, solving a simpler problem p.8, symbolic methods p.9; mixed review using all eight pp.10–12 | Iran, Mathematics, Grade 7, Ch. 1 — Problem-solving strategies, pp.1–12 |
@@ -80,10 +82,13 @@ Every part traces to its book and page.
 | Arithmagons — vertex numbers sum to edge numbers, missing vertex numbers found by subtraction; missing-number sentences solved by inverse operations | Rwanda, Primary Learner's Mathematics P4, pupil's book, Unit 13, printed pp. 141–144 |
 | "Think!!!" puzzles and mind games throughout the book (for example eight 8s make 1 000; a river-crossing puzzle) | Rwanda, Primary Learner's Mathematics P4, pupil's book, Units 1–13, passim |
 
-**Acceptance count: taught in 7 countries (Iran, Greece, Iraq, China, Saudi Arabia, Malaysia, Rwanda).** Iran carries the fullest treatment: a named strategy in every primary chapter from Grade 2 up, gathered in Grade 7 Chapter 1 into eight named strategies under a four-step frame (understand, choose, solve, look back). Greece teaches the steps explicitly twice — as four steps in Grade 2 Chapter 5 and as five steps in Grade 5 Chapter 3 (read/distinguish, plan, solve, answer, reflect). Iraq makes the plan a lesson in its own right in every chapter of Grade 1 — and, as filed, in every chapter through Grade 8 — each plan lesson naming its own move (use a model, write a number sentence, logical reasoning, draw a picture). China contributes the specialist tools: elimination tables and proto-Sudoku in Grade 2, differencing in Grade 3, chickens-and-rabbits by listing and by the assumption method in Grade 4, and 0/1 logic tables with symbol substitution in the Grade 6 review.
+| Applied village problems — "With the people in my village": transport 700 sacks of sorghum on 7 lorries equally, and similar community problems | Sudan, Grade 3 Mathematics, printed p. 72 |
+**Acceptance count: taught in 8 countries (Iran, Greece, Iraq, China, Saudi Arabia, Malaysia, Rwanda, Sudan).** Iran carries the fullest treatment: a named strategy in every primary chapter from Grade 2 up, gathered in Grade 7 Chapter 1 into eight named strategies under a four-step frame (understand, choose, solve, look back). Greece teaches the steps explicitly twice — as four steps in Grade 2 Chapter 5 and as five steps in Grade 5 Chapter 3 (read/distinguish, plan, solve, answer, reflect). Iraq makes the plan a lesson in its own right in every chapter of Grade 1 — and, as filed, in every chapter through Grade 8 — each plan lesson naming its own move (use a model, write a number sentence, logical reasoning, draw a picture). China contributes the specialist tools: elimination tables and proto-Sudoku in Grade 2, differencing in Grade 3, chickens-and-rabbits by listing and by the assumption method in Grade 4, and 0/1 logic tables with symbol substitution in the Grade 6 review.
 
 Saudi Arabia is this lesson's strongest witness: a NAMED strategy lesson inside nearly every chapter of all four grades — model it, draw a picture, guess and check, look for a pattern, write a number sentence, make a table, make a list, work backwards, solve a simpler problem, choose a plan — gathered into the four steps (understand, plan, solve, check) in Grade 3, with reasonableness, exact-vs-estimate and extra/missing-information lessons of their own, and the older 1445 Term-3 volumes witnessing the Part Two chapters.
 
 Malaysia names its strategy openly: its Form 3 trigonometry chapter works its problems in Polya's steps, and its Form 5 modelling chapter teaches the learner to tell a modelling question from a closed problem before choosing how to attack it.
 
 Rwanda stocks problem-solving strategies in Primary 4 — arithmagons and missing-number sentences solved by inverse operations in Unit 13, and "Think!!!" puzzles and mind games throughout the book.
+
+Sudan applies its arithmetic to village problems in Grade 3, filed here as its problem-solving practice.
