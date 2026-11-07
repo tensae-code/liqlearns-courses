@@ -1,6 +1,6 @@
 # Sources — Problem-solving strategies
 
-countries: Iran, Greece, Iraq, China, Saudi Arabia, Malaysia, Rwanda, Sudan
+countries: Iran, Greece, Iraq, China, Saudi Arabia, Malaysia, Rwanda, Sudan, India
 
 Every part traces to its book and page.
 
@@ -49,6 +49,10 @@ Every part traces to its book and page.
 **Book 28:** *Primary Learner's Mathematics P4 for Rwanda Schools* (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 29:** *Mathematics, Grade 3* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, Arabic; no edition or year is printed in the book. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 30:** *Math-Magic Book 4 — Textbook in Mathematics for Class IV* — India, NCERT, New Delhi, first edition March 2007, 2020-21 issue, ISBN 81-7450-698-5. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 31:** *Math-Magic Book 5 — Textbook in Mathematics for Class V* — India, NCERT, New Delhi, first edition March 2008, 2020-21 issue, ISBN 978-81-7450-828-7. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 32:** *Mathematics — Textbook for Class VI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 issue, ISBN 81-7450-482-6. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 33:** *Mathematics — Textbook for Class VIII* — India, NCERT, New Delhi, first edition January 2008, 2020-21 printing, ISBN 978-81-7450-814-0. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Just for Fun sections; nothing is cited from them.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -83,7 +87,19 @@ Every part traces to its book and page.
 | "Think!!!" puzzles and mind games throughout the book (for example eight 8s make 1 000; a river-crossing puzzle) | Rwanda, Primary Learner's Mathematics P4, pupil's book, Units 1–13, passim |
 
 | Applied village problems — "With the people in my village": transport 700 sacks of sorghum on 7 lorries equally, and similar community problems | Sudan, Grade 3 Mathematics, printed p. 72 |
-**Acceptance count: taught in 8 countries (Iran, Greece, Iraq, China, Saudi Arabia, Malaysia, Rwanda, Sudan).** Iran carries the fullest treatment: a named strategy in every primary chapter from Grade 2 up, gathered in Grade 7 Chapter 1 into eight named strategies under a four-step frame (understand, choose, solve, look back). Greece teaches the steps explicitly twice — as four steps in Grade 2 Chapter 5 and as five steps in Grade 5 Chapter 3 (read/distinguish, plan, solve, answer, reflect). Iraq makes the plan a lesson in its own right in every chapter of Grade 1 — and, as filed, in every chapter through Grade 8 — each plan lesson naming its own move (use a model, write a number sentence, logical reasoning, draw a picture). China contributes the specialist tools: elimination tables and proto-Sudoku in Grade 2, differencing in Grade 3, chickens-and-rabbits by listing and by the assumption method in Grade 4, and 0/1 logic tables with symbol substitution in the Grade 6 review.
+| Ordering a process from pictures — how a brick is made from soil: four jumbled kiln pictures put in the correct order | India, Math-Magic Class 4, printed p. 11 |
+| Number puzzles — exactly between 100 and 150 (125); four toffees each to four friends and 3 left (19); numbers from digits 3 5 7; a number that doubles when increased by 8 (8) | India, Math-Magic Class 4, printed p. 30 |
+| Practice: oldest, estimating, comparing sums — oldest cave painting (8500 years); 48 children a bus, three buses about 150; pairs adding to more than 500 (321+192); match trip events to times (9:10 am petrol pump, 11:30 lunch, 12:30 Bhimbetka, 3 pm boating... as printed) | India, Math-Magic Class 4, printed p. 34 |
+| Measuring 4 litres with 3 and 5 litre bottles — at the milk society: with only a 3-litre and a 5-litre bottle, give exactly 4 litres (fill 5, pour into 3, empty 3, pour the 2 left, refill 5... classic solution) | India, Math-Magic Class 4, printed p. 80 |
+| Dividing land equally (puzzle) — A House and the Well: divide Raghavan's land equally among 4 children, each with one house and access to the well without crossing another's land | India, Math-Magic Class 4, printed p. 161 |
+| Puzzle — The old woman's will: 1/2, 1/4 and 1/5 of 19 camels solved by borrowing one camel (20 → 10 + 5 + 4 + the returned camel) | India, Math-Magic Class 5, printed p. 66 |
+| Calendar trick — Calendar magic: any 3 × 3 box of dates totals 9 × the middle date (quick method: smallest + 8, × 9) | India, Math-Magic Class 5, printed p. 107 |
+| Secret number clues — Guessing a secret number from clues (between 60 and 70, tens digit one more than ones, digits sum to 11) | India, Math-Magic Class 5, printed p. 110 |
+| Choosing the question — Making the best story problem: choosing which question fits the given story (and why the others do not) | India, Math-Magic Class 5, printed p. 184 |
+| Brain-Teasers problem set (LCM remainder puzzle — counted in 2s/3s/…/7s; jug measuring puzzles; handkerchief-passing investigation), with answers | India, Mathematics Class 6, printed p. 315 |
+| Number games — reversing digits, digit-sum games and why they work, explained from the general form | India, Mathematics Class 8, printed p. 251 |
+| Letters for digits — cryptarithm addition puzzles: each letter one digit, leading digit non-zero, unique answer sought | India, Mathematics Class 8, printed p. 253 |
+**Acceptance count: taught in 9 countries (Iran, Greece, Iraq, China, Saudi Arabia, Malaysia, Rwanda, Sudan, India).** Iran carries the fullest treatment: a named strategy in every primary chapter from Grade 2 up, gathered in Grade 7 Chapter 1 into eight named strategies under a four-step frame (understand, choose, solve, look back). Greece teaches the steps explicitly twice — as four steps in Grade 2 Chapter 5 and as five steps in Grade 5 Chapter 3 (read/distinguish, plan, solve, answer, reflect). Iraq makes the plan a lesson in its own right in every chapter of Grade 1 — and, as filed, in every chapter through Grade 8 — each plan lesson naming its own move (use a model, write a number sentence, logical reasoning, draw a picture). China contributes the specialist tools: elimination tables and proto-Sudoku in Grade 2, differencing in Grade 3, chickens-and-rabbits by listing and by the assumption method in Grade 4, and 0/1 logic tables with symbol substitution in the Grade 6 review.
 
 Saudi Arabia is this lesson's strongest witness: a NAMED strategy lesson inside nearly every chapter of all four grades — model it, draw a picture, guess and check, look for a pattern, write a number sentence, make a table, make a list, work backwards, solve a simpler problem, choose a plan — gathered into the four steps (understand, plan, solve, check) in Grade 3, with reasonableness, exact-vs-estimate and extra/missing-information lessons of their own, and the older 1445 Term-3 volumes witnessing the Part Two chapters.
 
@@ -92,3 +108,5 @@ Malaysia names its strategy openly: its Form 3 trigonometry chapter works its pr
 Rwanda stocks problem-solving strategies in Primary 4 — arithmagons and missing-number sentences solved by inverse operations in Unit 13, and "Think!!!" puzzles and mind games throughout the book.
 
 Sudan applies its arithmetic to village problems in Grade 3, filed here as its problem-solving practice.
+
+India stocks problem-solving strategies from Math-Magic Classes 4–5 and Mathematics Classes 6 and 8: ordering a process from pictures, calendar magic (any 3 × 3 box of dates totals 9 × the middle date), secret-number clues, and the Class 6 Brain-Teasers problem set — LCM remainder puzzles, jug measuring and a passing investigation, with answers.

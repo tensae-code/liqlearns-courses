@@ -1,6 +1,6 @@
 # Sources — Mathematical Induction
 
-countries: Pakistan, Armenia, Vietnam, Greece, Cambodia, Kazakhstan, Laos, Iraq, Syria, Sudan
+countries: Pakistan, Armenia, Vietnam, Greece, Cambodia, Kazakhstan, Laos, Iraq, Syria, Sudan, India
 
 Every part traces to its book and page.
 
@@ -20,6 +20,7 @@ Every part traces to its book and page.
 **Book 13:** *Mathematics, Part One, Grade 12 (Scientific track)* — Syria, Ministry of Education (the NCCD is not named on this book's title page), held printing 2025–2026/1447H, first printed 2016–2017, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 14:** *Specialized Mathematics, Book One, Grade 12 (science track)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, revised issue, Arabic, ISBN 978-99942-53-18-0. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 15:** *Mathematics — Textbook for Class XI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-486-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendices 1–2, the Answers and the Supplementary Material; nothing is cited from them.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -39,8 +40,13 @@ Every part traces to its book and page.
 
 | Principle — Principle of mathematical induction stated formally (base case + successor step, ∀ symbol, natural numbers built by successor ن⁺) | Sudan, Grade 12 Specialized Mathematics, Book One (science track), printed p. 3 |
 | Proofs — Induction proofs: sums of cubes, telescoping fractions, geometric sums, divisibility (e.g. 6^n − 2^n divisible by 4) | Sudan, Grade 12 Specialized Mathematics, Book One (science track), printed p. 9 |
-**Acceptance count: taught in 10 countries (Pakistan, Armenia, Vietnam, Greece, Cambodia, Kazakhstan, Laos, Iraq, Syria, Sudan).** Pakistan carries the fullest single unit: the principle and extended induction, Euler's n² − n + 41 as the standing warning against proof by checking, and series, divisibility, integrality and inequality proofs, with the binomial theorem itself proved by induction (Unit 8, pp.140–168). Armenia teaches the method in both Grade 11 streams, the natural-mathematics stream adding a section of further applications. Vietnam teaches it in its Grade 10 study book as the first formal proof method of the series and at once proves Newton's binomial by it. Greece carries it inside the number-theory chapter of its Grade 11 orientation book. Cambodia opens its Grade 11 Advanced book with sequences and induction, proving the sum of the first n odd numbers in full. Kazakhstan teaches it in four separate Grade 9 Algebra books — with the domino motivation and the series formula (Yelemessov), a starred formal treatment that dissects a false proof (Shynybekov), a full formal section with divisibility and the polygon-diagonals formula (Abylkasymova), and an axiom-style four-step scheme with error-hunting exercises (Soltan). Laos states the principle and its three steps as the opening lesson of its Grade 11 induction chapter. Iraq's Grade 12 Scientific book proves De Moivre's theorem by induction at pp.42–43, filed "for information only" and recorded here in exactly those terms.
+| Motivation — pattern-spotting from particular cases to a general statement | India, Mathematics Class 11, printed p. 87 |
+| The principle — Principle of Mathematical Induction stated and applied: base case and inductive step | India, Mathematics Class 11, printed p. 88 |
+| Worked types — induction proofs of summation formulas, divisibility (e.g. 7^n − 3^n divisible by 4) and inequalities (e.g. (1 + x)^n ≥ 1 + nx, 2^n > n) | India, Mathematics Class 11, printed p. 89 |
+**Acceptance count: taught in 11 countries (Pakistan, Armenia, Vietnam, Greece, Cambodia, Kazakhstan, Laos, Iraq, Syria, Sudan, India).** Pakistan carries the fullest single unit: the principle and extended induction, Euler's n² − n + 41 as the standing warning against proof by checking, and series, divisibility, integrality and inequality proofs, with the binomial theorem itself proved by induction (Unit 8, pp.140–168). Armenia teaches the method in both Grade 11 streams, the natural-mathematics stream adding a section of further applications. Vietnam teaches it in its Grade 10 study book as the first formal proof method of the series and at once proves Newton's binomial by it. Greece carries it inside the number-theory chapter of its Grade 11 orientation book. Cambodia opens its Grade 11 Advanced book with sequences and induction, proving the sum of the first n odd numbers in full. Kazakhstan teaches it in four separate Grade 9 Algebra books — with the domino motivation and the series formula (Yelemessov), a starred formal treatment that dissects a false proof (Shynybekov), a full formal section with divisibility and the polygon-diagonals formula (Abylkasymova), and an axiom-style four-step scheme with error-hunting exercises (Soltan). Laos states the principle and its three steps as the opening lesson of its Grade 11 induction chapter. Iraq's Grade 12 Scientific book proves De Moivre's theorem by induction at pp.42–43, filed "for information only" and recorded here in exactly those terms.
 
 Syria gives proof by mathematical induction its canonical place in Grade 12 Part One's sequences unit — the ladder principle, the two steps, and a full exercise apparatus including heredity-without-base-case exposed as insufficient.
 
 Sudan proves by mathematical induction in Grade 12 Specialized Book One.
+
+India enters mathematical induction from Mathematics Class 11: motivation.
