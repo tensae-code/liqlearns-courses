@@ -371,6 +371,21 @@ liqlearns-courses/
   the fold takes both. "It says the same thing" is never a reason to leave
   out a variant's extra detail — surface-same can hide depth. Fold only
   true repeats; every added detail from any book survives into the part.
+- EVERYTHING GOES IN — NO BOOK, NO ITEM LEFT OUT (2026-11-06, his words):
+  "blend everything into one course… I need everything in the course. I do
+  not care if they teach it or not, there might be other countries that
+  might learn from the way they teach it in Iran. Or any other country. So
+  do not leave out anything. Any book." This REVOKES the old practice of
+  holding "unkeyed" stock aside when a book teaches something no existing
+  lesson covers. From now on: (1) every teaching item in every read book
+  lands in the course — if no lesson covers that thing, a NEW lesson is
+  built for it (one lesson = one thing, standard shape, real book + page
+  sources); (2) a country's own WAY of teaching a thing (its method,
+  examples, order) is itself course content, kept as examples even when
+  few countries teach that thing; (3) merges no longer report items as
+  "held unkeyed" — they either stock an existing lesson or create the new
+  lesson in the same pass. The catch-up builds for the stock held out of
+  the English and Maths merges before this ruling run under this rule.
 - WRITTEN LESSON STYLE (2026-10-24, refined same night): the lesson text is
   written the way a tutor EXPLAINS TO YOU out loud — someone telling you:
   "so the sunlight is this, this, this." Reading it feels like explaining it
