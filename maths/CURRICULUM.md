@@ -129,6 +129,7 @@ a square.*
 - algebraic-fractions ✅ — letter-fractions: simplifying, and adding and subtracting over the LCM of the terms (Level 138, Malaysia merge 2026-11-07)
 - linear-programming ✅ — constraints as a system of inequalities, the feasible region, and the best value at a corner (Level 139, Malaysia merge 2026-11-07)
 - factorisation ✅ — common factors, regrouping, the identities backwards, trinomials, splitting the middle term, and cubics by the Factor Theorem (Level 152, India merge 2026-11-07)
+- modulus-and-absolute-value ✅ — |x| as distance from 0: the definition, equations by cases and by distance, inequalities on the line, and the squaring theorems (Level 153, Mongolia merge 2026-11-07)
 
 ## Stage 7 — Shapes and Angles
 *End of stage: the learner can name shapes, measure angles,
@@ -300,7 +301,7 @@ things and follow patterns — the first mathematics of all.*
 - sorting-and-classifying ✅ — sorting and classifying by one attribute, then by two (Level 135, catch-up build)
 - repeating-patterns ✅ — repeating, growing and shrinking patterns (Level 136, catch-up build)
 
-**LADDER TOTAL: 152 lessons across 18 stages** — the first
+**LADDER TOTAL: 153 lessons across 18 stages** — the first
 52 built 2026-11-05 across 12 stages (5 + 2 + 3 + 6 + 4 + 5 +
 4 + 4 + 5 + 3 + 4 + 7); the catch-up build of 2026-11-06
 added 84 lessons (Levels 53–136) as extensions inside the
@@ -310,7 +311,9 @@ Stages 1, 6, 8, 13 and 15; the Rwanda merge of 2026-11-07
 added 5 lessons (Levels 145–149) inside Stages 7, 12, 14
 and 15; the Sudan merge of 2026-11-07 added 1 lesson
 (Level 150) inside Stage 10; the India merge of 2026-11-07
-added 2 lessons (Levels 151–152) inside Stages 1 and 6.
+added 2 lessons (Levels 151–152) inside Stages 1 and 6;
+the Mongolia merge of 2026-11-07 added 1 lesson
+(Level 153) inside Stage 6.
 
 ## After Stage 12
 The catch-up build of 2026-11-06 closed the recorded gap:
