@@ -1,6 +1,6 @@
 # Sources — Determinants and Cramer's Rule
 
-countries: Egypt, Cambodia, Kuwait, Laos, Nicaragua, Rwanda, India, Mongolia, Venezuela
+countries: Egypt, Cambodia, Kuwait, Laos, Nicaragua, Rwanda, India, Mongolia, Venezuela, North Macedonia
 
 Every part traces to its book and page.
 
@@ -17,6 +17,7 @@ Every part traces to its book and page.
 **Book 9:** *Математик X (Mathematics, Grade 10)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 10:** *Математик XI (Mathematics, Grade 11)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 11:** *La Matemática y el Vivir Bien* — Venezuela, Grade 11 (5to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-344-9. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 12:** *ЛИНЕАРНА АЛГЕБРА И АНАЛИТИЧКА ГЕОМЕТРИЈА ЗА ТРЕТА ГОДИНА НА РЕФОРМИРАНОТО ГИМНАЗИСКО ОБРАЗОВАНИЕ (ИЗБОРЕН ПРЕДМЕТ)* (Linear Algebra and Analytic Geometry for the third year of the reformed gymnasium education — elective subject) — North Macedonia, Костадин Тренчевски, Билјана Крстеска, Глигор Тренчевски и Снежана Здравеска (Kostadin Trenchevski, Biljana Krsteska, Gligor Trenchevski & Snezana Zdraveska), Просветно дело, Skopje, IV издание (fourth edition), 2017 printing (the CIP records the edition from 2007), ISBN 9989-0-0386-6. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -58,7 +59,16 @@ Every part traces to its book and page.
 | Cramer's rule worked on the fertiliser system: det = −34,64; x = 20, y = 14, z = 12 | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 131–132 |
 | Det A = 0 settles nothing alone: the two earlier systems (indeterminate and incompatible) revisited by determinant | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 132–133 |
 
-**Acceptance count: taught in 9 countries (Egypt, Cambodia, Kuwait, Laos, Nicaragua, Rwanda, India, Mongolia, Venezuela).** Egypt carries determinants and both solving methods in Secondary 1 Term 2 Unit 1 — determinants with the triangle-area application, then the 2×2 inverse with inverse-matrix and Cramer solutions. Cambodia carries 3×3 determinants and Cramer's rule in Grade 11 Basic Chapter 4, with all four worked systems on printed p.135 verified, including the no-solution and dependent cases. Kuwait carries the 2×2 determinant, the inverse formula and both solving methods for two unknowns in Grade 10 Term 2 Unit 7 — 2×2 only, as filed: no 3×3 determinants there. Laos carries determinants and inverse matrices in Grade 12 Chapter 3, stated as AX = B ⇒ X = A⁻¹B. Nicaragua carries the fullest determinants run — minors, cofactors, Sarrus' rule, Cramer's rule for 3×3 systems — and closes it with matrices used for codes.
+| Determinant of the second order, |a b; c d| = ad − bc, with its basic properties | North Macedonia, Grade 12, Linear Algebra and Analytic Geometry, §1.1, printed p. 5 |
+| System of two linear equations (solved via second-order determinants) | North Macedonia, Grade 12, Linear Algebra and Analytic Geometry, §1.2.1, printed p. 7 |
+| System of two linear equations in three unknowns | North Macedonia, Grade 12, Linear Algebra and Analytic Geometry, §1.2.2, printed p. 12 |
+| Determinants of the third order: definition (Sarrus expansion a₁b₂c₃ + a₂b₃c₁ + a₃b₁c₂ − a₃b₂c₁ − a₂b₁c₃ − a₁b₃c₂) and basic concepts | North Macedonia, Grade 12, Linear Algebra and Analytic Geometry, §1.3.1, printed p. 14 |
+| Expanding a determinant by the elements of a given row (column) — cofactors | North Macedonia, Grade 12, Linear Algebra and Analytic Geometry, §1.3.2, printed p. 16 |
+| Properties of third-order determinants | North Macedonia, Grade 12, Linear Algebra and Analytic Geometry, §1.3.3, printed p. 18 |
+| System of three linear equations in three unknowns: solution and Cramer's formulas x = Δx/Δ etc., derived by cofactor multiplication | North Macedonia, Grade 12, Linear Algebra and Analytic Geometry, §1.4.1, printed p. 23 |
+| Homogeneous system of three linear equations | North Macedonia, Grade 12, Linear Algebra and Analytic Geometry, §1.5, printed p. 31 |
+
+**Acceptance count: taught in 10 countries (Egypt, Cambodia, Kuwait, Laos, Nicaragua, Rwanda, India, Mongolia, Venezuela, North Macedonia).** Egypt carries determinants and both solving methods in Secondary 1 Term 2 Unit 1 — determinants with the triangle-area application, then the 2×2 inverse with inverse-matrix and Cramer solutions. Cambodia carries 3×3 determinants and Cramer's rule in Grade 11 Basic Chapter 4, with all four worked systems on printed p.135 verified, including the no-solution and dependent cases. Kuwait carries the 2×2 determinant, the inverse formula and both solving methods for two unknowns in Grade 10 Term 2 Unit 7 — 2×2 only, as filed: no 3×3 determinants there. Laos carries determinants and inverse matrices in Grade 12 Chapter 3, stated as AX = B ⇒ X = A⁻¹B. Nicaragua carries the fullest determinants run — minors, cofactors, Sarrus' rule, Cramer's rule for 3×3 systems — and closes it with matrices used for codes. North Macedonia enters from its main set — the Grade 12 Linear Algebra and Analytic Geometry elective.
 
 Rwanda teaches determinants and Cramer's rule in Advanced Mathematics Senior Five Unit 7 — Sarrus' rule, minors and cofactors, determinant properties, the adjugate inverse, and 3×3 systems solved by the inverse matrix and by Cramer's rule — with its Teacher's Guide extending the determinant to general order n × n.
 

@@ -24,6 +24,7 @@ Every part traces to its book and page.
 **Book 16:** *Mathematics — Textbook for Class VII* — India, NCERT, New Delhi, first edition February 2007, 2020-21 issue, ISBN 81-7450-669-1. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Brain-Teasers; nothing is cited from them.
 **Book 17:** *Mathematics — Textbook for Class VIII* — India, NCERT, New Delhi, first edition January 2008, 2020-21 printing, ISBN 978-81-7450-814-0. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Just for Fun sections; nothing is cited from them.
 **Book 18:** *Conciencia Matemática* — Venezuela, Grade 8 (2do año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-320-3. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 19:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -65,6 +66,8 @@ Every part traces to its book and page.
 
 | Definition — orthogonal projection of a point/segment on a line; an inclined segment projects shorter, a parallel one equal | Venezuela, Conciencia Matemática (Grade 8), printed p. 65 |
 | Application — front/side/top views of a house design (vistas) and orthogonal projection in building columns | Venezuela, Conciencia Matemática (Grade 8), printed p. 48 |
+
+| 3D shapes in projections: front, top and side views of prism, cylinder, pyramid, cone | North Macedonia, Grade 7, Theme 2, printed p. 237 |
 
 **Acceptance count: taught in 10 countries (Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia, Malaysia, India, Venezuela).** Vietnam carries the engineering heart of the lesson: orthogonal and axonometric projections and technical drawing as named topics in its Grade 11 study book. Laos carries the intuitive opening — projections and shadows, with a birdhouse photographed from different viewpoints. North Macedonia carries parallel and orthogonal projection and representing a solid by drawing at Grade 8. China carries the history as a reading: descriptive geometry and Monge, from da Vinci and Desargues to orthographic projection on two perpendicular planes (reading as filed). Jordan carries isometric drawing, projections/views and cross-sections at Grade 8, with nets at Grade 4 as teacher evidence. South Africa carries views drawn on isometric paper and perspective drawing, the perspective filed as enrichment in its workbooks.
 

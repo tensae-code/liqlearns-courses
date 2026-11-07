@@ -1,6 +1,6 @@
 # Sources — Analytic Geometry in Space
 
-countries: Egypt, Laos, Cambodia, Jordan, Syria, Rwanda, India, Mongolia, Venezuela
+countries: Egypt, Laos, Cambodia, Jordan, Syria, Rwanda, India, Mongolia, Venezuela, North Macedonia
 
 Every part traces to its book and page.
 
@@ -21,6 +21,7 @@ Every part traces to its book and page.
 **Book 12:** *Mathematics — Textbook for Class XII, Parts I–II* (ONE work in two volumes: continuous chapters 1–13 and continuous printed pagination 1–587) — India, NCERT, New Delhi, first edition November 2006, 2020-21 printing; Part I ISBN 81-7450-629-2 (Part II prints no ISBN). Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy of Part I lacks its appendices, answers and supplementary material, and the held copy of Part II has no front matter; nothing is cited from either.
 **Book 13:** *Математик XI (Mathematics, Grade 11)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 14:** *La Matemática y el Vivir Bien* — Venezuela, Grade 11 (5to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-344-9. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 15:** *ЛИНЕАРНА АЛГЕБРА И АНАЛИТИЧКА ГЕОМЕТРИЈА ЗА ТРЕТА ГОДИНА НА РЕФОРМИРАНОТО ГИМНАЗИСКО ОБРАЗОВАНИЕ (ИЗБОРЕН ПРЕДМЕТ)* (Linear Algebra and Analytic Geometry for the third year of the reformed gymnasium education — elective subject) — North Macedonia, Костадин Тренчевски, Билјана Крстеска, Глигор Тренчевски и Снежана Здравеска (Kostadin Trenchevski, Biljana Krsteska, Gligor Trenchevski & Snezana Zdraveska), Просветно дело, Skopje, IV издание (fourth edition), 2017 printing (the CIP records the edition from 2007), ISBN 9989-0-0386-6. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -90,7 +91,25 @@ Every part traces to its book and page.
 | Equation of an oblique cylinder by eliminating the parameter: directrix x² + y² = 9, z = 0 with generatrices parallel to direction (4, 3, 12) gives (3x − z)²/9 + (4y − z)²/16 = 9; a missing variable in f(x, y, z) = 0 signals a cylinder | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 281–282 |
 | The spherical surface as a locus: x² + y² + z² = r² at the origin and (x − m)² + (y − n)² + (z − l)² = r² in general; worked example with centre (2, 1, −4) expanded to x² + y² + z² − 4x − 2y + 8z + 5 = 0 | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed p. 283 |
 
-**Acceptance count: taught in 9 countries (Egypt, Laos, Cambodia, Jordan, Syria, Rwanda, India, Mongolia, Venezuela).** Egypt carries the analytic course in Pure Grade 12: the 3D coordinate system, vectors in space and vector multiplication in Unit Three, then the equations of lines and planes in Unit Four. Laos carries it twice: Grade 10 Chapter X builds coordinates, octants, distance, direction cosines and the 3-D dot product in a single long lesson, and Grade 12 Chapter 10 adds the equations of lines and planes and the line–plane angle. Cambodia carries vectors in space in Grade 11 Advanced Chapter 8 and the scalar and cross products again in Grade 12 Advanced Chapter 7, with two teacher-guide worked values taught corrected as filed. Jordan carries vectors in space, lines in space and the scalar product in Grade 12 Term 2 Unit 6.
+| Point in space; distance between two points | North Macedonia, Grade 12, Linear Algebra and Analytic Geometry, §3.1.1, printed p. 81 |
+| Dividing a segment in a given ratio (in space) | North Macedonia, Grade 12, Linear Algebra and Analytic Geometry, §3.1.2, printed p. 84 |
+| Plane: normal equation of a plane, vector form r·n₀ − p = 0 | North Macedonia, Grade 12, Linear Algebra and Analytic Geometry, §3.2.1, printed p. 86 |
+| General equation of a plane | North Macedonia, Grade 12, Linear Algebra and Analytic Geometry, §3.2.2, printed p. 89 |
+| Segment (intercept) equation of a plane | North Macedonia, Grade 12, Linear Algebra and Analytic Geometry, §3.2.3, printed p. 91 |
+| Equation of a plane through a given point | North Macedonia, Grade 12, Linear Algebra and Analytic Geometry, §3.2.4, printed p. 93 |
+| Equation of a plane through three given points | North Macedonia, Grade 12, Linear Algebra and Analytic Geometry, §3.2.5, printed p. 94 |
+| Distance from a point to a plane | North Macedonia, Grade 12, Linear Algebra and Analytic Geometry, §3.2.6, printed p. 95 |
+| Angle between two planes; condition for orthogonality of two planes | North Macedonia, Grade 12, Linear Algebra and Analytic Geometry, §3.2.7, printed p. 97 |
+| Line in space: various forms of the equations of a line | North Macedonia, Grade 12, Linear Algebra and Analytic Geometry, §3.3.1, printed p. 99 |
+| Equation of a line through two points | North Macedonia, Grade 12, Linear Algebra and Analytic Geometry, §3.3.2, printed p. 102 |
+| Distance from a point to a line (in space) | North Macedonia, Grade 12, Linear Algebra and Analytic Geometry, §3.3.3, printed p. 103 |
+| Angle between two lines; condition for orthogonality of two lines | North Macedonia, Grade 12, Linear Algebra and Analytic Geometry, §3.3.4, printed p. 105 |
+| Angle between a line and a plane | North Macedonia, Grade 12, Linear Algebra and Analytic Geometry, §3.3.5, printed p. 106 |
+| Mutual position of two planes | North Macedonia, Grade 12, Linear Algebra and Analytic Geometry, §3.4.1, printed p. 108 |
+| Mutual position of two lines in space (incl. skew lines) | North Macedonia, Grade 12, Linear Algebra and Analytic Geometry, §3.4.2, printed p. 111 |
+| Mutual position of a line and a plane | North Macedonia, Grade 12, Linear Algebra and Analytic Geometry, §3.4.3, printed p. 114 |
+
+**Acceptance count: taught in 10 countries (Egypt, Laos, Cambodia, Jordan, Syria, Rwanda, India, Mongolia, Venezuela, North Macedonia).** Egypt carries the analytic course in Pure Grade 12: the 3D coordinate system, vectors in space and vector multiplication in Unit Three, then the equations of lines and planes in Unit Four. Laos carries it twice: Grade 10 Chapter X builds coordinates, octants, distance, direction cosines and the 3-D dot product in a single long lesson, and Grade 12 Chapter 10 adds the equations of lines and planes and the line–plane angle. Cambodia carries vectors in space in Grade 11 Advanced Chapter 8 and the scalar and cross products again in Grade 12 Advanced Chapter 7, with two teacher-guide worked values taught corrected as filed. Jordan carries vectors in space, lines in space and the scalar product in Grade 12 Term 2 Unit 6. North Macedonia enters from its main set — the Grade 12 Linear Algebra and Analytic Geometry elective.
 
 Rwanda teaches analytic geometry in space whole in Advanced Mathematics Senior Five Unit 8 — points, lines and planes in 3D through to spheres, their relative positions, radical planes and orthogonal spheres.
 

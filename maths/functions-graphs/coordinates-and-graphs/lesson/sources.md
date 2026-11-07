@@ -180,6 +180,10 @@ textbook.
 **Book 112:** *Matemática Para La Vida* — Venezuela, Grade 7 (1er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-322-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 113:** *Conciencia Matemática* — Venezuela, Grade 8 (2do año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-320-3. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 114:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 115:** *Математика за четврто одделение* (Mathematics for Grade 4) — North Macedonia, Татјана Атанасова-Пачемска, Валдета Алија, Виолета Поповска и Добри Јовевски (Tatjana Atanasova-Pačemska, Valdeta Alija, Violeta Popovska & Dobri Jovevski), Ministry of Education and Science, Skopje 2023, II издание (second edition), approval № 26-527/1 of 18.08.2022, ISBN 978-608-273-479-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 116:** *МАТЕМАТИКА ЗА ПЕТТО ОДДЕЛЕНИЕ* (Mathematics for Grade 5) — North Macedonia, Татјана Атанасова-Пачемска, Добри Јовевски, Виолета Поповска и Валдета Алија (Tatjana Atanasova-Pačemska, Dobri Jovevski, Violeta Popovska & Valdeta Alija), Ministry of Education and Science, Skopje 2022, approval № 26-1441/1 of 14.10.2022, ISBN 978-608-273-180-3. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 117:** *МАТЕМАТИКА 6* (Mathematics 6) — North Macedonia, Крутан Расими, Валентина Гоговска и Снежана Ристовска (Krutan Rasimi, Valentina Gogovska & Snežana Ristovska), Ministry of Education and Science, Skopje 2023, approval № 26-2185/1 of 15.09.2023; no ISBN is printed anywhere in the book. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 118:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -344,6 +348,15 @@ textbook.
 | Two axes — Two perpendicular axes: horizontal abscissas (eje x) and vertical ordinates (eje y); a place is fixed by an ordered pair (x, y), e.g. the Abanico corner is (2, 1) | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 16–17 |
 | Plane — The Cartesian plane: every point corresponds to exactly one ordered pair and vice versa; the origin is (0, 0) | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 17–18 |
 | Signs — Sign patterns of coordinates: both negative, both positive, x positive / y negative, x negative / y positive, and points with a zero coordinate | Venezuela, Matemática Para La Vida (Grade 7), printed p. 20 |
+
+| Coordinates and grid position — Означување Положба Во Координатна Мрежа | North Macedonia, Grade 4, printed p. 152 |
+| Coordinates and grid position — Координатна Мрежа | North Macedonia, Grade 5, printed p. 103 |
+| Coordinates and grid position — Координати Во Прв И Втор Квадрант | North Macedonia, Grade 5, printed p. 104 |
+| Position of polygon vertices in the grid — Местоположба На Темиња На Многуаголници | North Macedonia, Grade 5, printed p. 106 |
+| Правоаголен координатен систем — rectangular coordinates in all four quadrants | North Macedonia, Grade 6, Theme 2, printed p. 185 |
+| Graph of a linear function y = ax + b; does a point lie on the graph | North Macedonia, Grade 7, Theme 3, printed p. 268 |
+| Graphs parallel to the axes: y = c and x = c | North Macedonia, Grade 7, Theme 3, printed p. 273 |
+| Reading distance–time graphs with pauses | North Macedonia, Grade 7, Theme 4, printed p. 306 |
 
 **Acceptance count: taught in 30 countries (Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela).**.** South Africa carries the
 plainest gradient teaching — gradient as change in y over

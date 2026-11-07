@@ -318,6 +318,12 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 187:** *La Patria Buena* — Venezuela, Grade 5 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-306-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 188:** *Hecho en Venezuela* — Venezuela, Grade 6 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-308-1. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 189:** *Matemática Para La Vida* — Venezuela, Grade 7 (1er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-322-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 190:** *Математика за второ одделение* (Mathematics for Grade 2) — North Macedonia, Слаѓана Јакимовиќ, Ирена Богданоска и Мендиме Алиу (Slagjana Jakimovik, Irena Bogdanoska & Mendime Aliu), Ministry of Education and Science, Skopje 2023, approval № 26-1668/1 of 09.12.2022, ISBN 978-608-273-355-5. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 191:** *Математика за трето одделение* (Mathematics for Grade 3) — North Macedonia, Татјана Атанасова-Пачемска, Виолета Поповска и Добри Јовевски (Tatjana Atanasova-Pačemska, Violeta Popovska & Dobri Jovevski), Ministry of Education and Science, Skopje 2023, approval № 26-2325/1 of 18.10.2023, ISBN 978-608-273-646-4. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 192:** *Математика за четврто одделение* (Mathematics for Grade 4) — North Macedonia, Татјана Атанасова-Пачемска, Валдета Алија, Виолета Поповска и Добри Јовевски (Tatjana Atanasova-Pačemska, Valdeta Alija, Violeta Popovska & Dobri Jovevski), Ministry of Education and Science, Skopje 2023, II издание (second edition), approval № 26-527/1 of 18.08.2022, ISBN 978-608-273-479-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 193:** *МАТЕМАТИКА ЗА ПЕТТО ОДДЕЛЕНИЕ* (Mathematics for Grade 5) — North Macedonia, Татјана Атанасова-Пачемска, Добри Јовевски, Виолета Поповска и Валдета Алија (Tatjana Atanasova-Pačemska, Dobri Jovevski, Violeta Popovska & Valdeta Alija), Ministry of Education and Science, Skopje 2022, approval № 26-1441/1 of 14.10.2022, ISBN 978-608-273-180-3. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 194:** *МАТЕМАТИКА 6* (Mathematics 6) — North Macedonia, Крутан Расими, Валентина Гоговска и Снежана Ристовска (Krutan Rasimi, Valentina Gogovska & Snežana Ristovska), Ministry of Education and Science, Skopje 2023, approval № 26-2185/1 of 15.09.2023; no ISBN is printed anywhere in the book. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 195:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -652,6 +658,57 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Classification — Quadrilaterals classified by parallelism: trapezoide (no parallel sides), trapecio (one pair of parallel sides — its bases; isósceles, escaleno and rectángulo types; median of a trapezium), paralelogramo (two pairs) | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 196–198 |
 | Special parallelograms — Special parallelograms: rhombus (all sides congruent), rectangle (all angles right), square (both); the diagonals of a parallelogram cut each other at their midpoint | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 198–200 |
 | Kites — The kite (cometa): a quadrilateral whose consecutive sides are congruent in pairs, built from two diagonals crossing at right angles | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 200–201 |
+
+| Drawing opener: sun, sea, boat — making pictures from shapes | North Macedonia, Grade 2, printed p. 26 |
+| Recall of 2D shapes | North Macedonia, Grade 2, printed p. 30 |
+| Naming, describing and drawing 2D shapes | North Macedonia, Grade 2, printed p. 32 |
+| 3D shapes: the pyramid introduced among the solids | North Macedonia, Grade 2, printed p. 34 |
+| Recognising 2D shapes (faces) on 3D shapes | North Macedonia, Grade 2, printed p. 36 |
+| Games and repetition — geometry block (consolidation) | North Macedonia, Grade 2, printed p. 38 |
+| 2D shapes: recognising and naming 2D shapes | North Macedonia, Grade 3, printed p. 50 |
+| Naming the vertex and side of a 2D shape | North Macedonia, Grade 3, printed p. 52 |
+| 2D shapes classified by number of sides | North Macedonia, Grade 3, printed p. 57 |
+| 3D shapes: recognising and naming 3D shapes | North Macedonia, Grade 3, printed p. 58 |
+| Elements of a prism — vertex, edge and face (теме, раб, ѕид) | North Macedonia, Grade 3, printed p. 60 |
+| Determining faces, edges and vertices of 3D shapes (the theme overview's challenge, printed p. 4: which 3D shape has 12 edges, 6 faces, 8 vertices — a cuboid fits; a cube fits too) | North Macedonia, Grade 3, printed pp. 60–63 (lessons); challenge printed p. 4 |
+| Matching 2D shapes to the nets of 3D shapes | North Macedonia, Grade 3, printed p. 65 |
+| Repeat and practise — geometry block (consolidation) | North Macedonia, Grade 3, printed p. 76 |
+| Appendix: 2D shapes reference sheet (triangle … nonagon, circle, rectangle named in Macedonian) | North Macedonia, Grade 3, printed p. 221 |
+| Appendix: 3D shapes reference sheet | North Macedonia, Grade 3, printed p. 223 |
+| 2D shapes — Именување На 2Д-Форми | North Macedonia, Grade 4, printed p. 114 |
+| 2D shapes — Цртање На 2Д-Форми | North Macedonia, Grade 4, printed p. 119 |
+| 2D shapes — Опишуваме И Групираме 2Д-Форми | North Macedonia, Grade 4, printed p. 122 |
+| Regular and irregular polygons — Правилни И Неправилни Многуаголници | North Macedonia, Grade 4, printed p. 123 |
+| 2D shapes — Проблемски Ситуации Со 2Д-Форми | North Macedonia, Grade 4, printed p. 124 |
+| 3D shapes — Рабести И Валчести 3Д-Форми | North Macedonia, Grade 4, printed p. 126 |
+| 3D shapes — Елементи На Рабести 3Д-Форми: Теме, Раб И Ѕид | North Macedonia, Grade 4, printed p. 128 |
+| 3D shapes — Рабести И Валчести 3Д-Форми | North Macedonia, Grade 4, printed p. 131 |
+| 3D shapes — Елементи На Валчести 3Д-Форми: Теме, Ѕид И Обвивка | North Macedonia, Grade 4, printed p. 131 |
+| 3D shapes — Врска Помеѓу 2Д-Форми И 3Д-Форми | North Macedonia, Grade 4, printed p. 133 |
+| Nets of 3D shapes — Изработка На Мрежи На 3Д-Форми | North Macedonia, Grade 4, printed p. 134 |
+| 3D shapes — Врска Помеѓу 2Д-Форми И 3Д-Форми | North Macedonia, Grade 4, printed p. 135 |
+| 3D shapes — Врска Помеѓу 2Д-Форми И 3Д-Форми – Цртање На 3Д-Форми | North Macedonia, Grade 4, printed p. 137 |
+| 3D shapes — Проблемски Ситуации Со 3Д-Форми | North Macedonia, Grade 4, printed p. 139 |
+| Describing triangles by side lengths — isosceles, equilateral, scalene — 2Д-Форми | North Macedonia, Grade 5, printed p. 82 |
+| Describing triangles by side lengths — isosceles, equilateral, scalene — Разностран Триаголник | North Macedonia, Grade 5, printed p. 82 |
+| Classifying triangles by one or two criteria (side length and angle size) — Класифицирање На Триаголници Според Еден Или Два Критериума | North Macedonia, Grade 5, printed p. 86 |
+| Classifying triangles by one or two criteria (side length and angle size) — (Должина На Страни И Големина На Агли) | North Macedonia, Grade 5, printed p. 86 |
+| Vertices and angles of polygons — Темињата И Аглите | North Macedonia, Grade 5, printed p. 88 |
+| Diagonals in polygons — Дијагонали Кај Многуаголници | North Macedonia, Grade 5, printed p. 91 |
+| 3D shapes — side lengths, parallel/perpendicular faces; triangle types revisited — 3Д-Форми | North Macedonia, Grade 5, printed p. 95 |
+| 3D shapes — side lengths, parallel/perpendicular faces; triangle types revisited — Мрежа На Цилиндар, Мрежа На Призма, Мрежа На Пирамида | North Macedonia, Grade 5, printed p. 95 |
+| 3D shapes — side lengths, parallel/perpendicular faces; triangle types revisited — Разностран Триаголник | North Macedonia, Grade 5, printed p. 95 |
+| Nets of 3D shapes — Изработка На 3Д-Форми Од Дадени Мрежи | North Macedonia, Grade 5, printed p. 99 |
+| Nets of 3D shapes — Цртање Мрежи На Призма И Пирамида | North Macedonia, Grade 5, printed p. 101 |
+| Многуаголници — polygons; regular/irregular; triangle classes by sides and by angles | North Macedonia, Grade 6, Theme 2, printed p. 144 |
+| Дијагонали на многуаголник — diagonals: n−3 from one vertex, total n(n−3)/2 | North Macedonia, Grade 6, Theme 2, printed p. 149 |
+| Врска меѓу 2Д- и 3Д-форми — polyhedra (faces/edges/vertices) vs round solids | North Macedonia, Grade 6, Theme 2, printed p. 171 |
+| Мрежи на призма и пирамида — nets of prisms and pyramids | North Macedonia, Grade 6, Theme 2, printed p. 175 |
+| Мрежа на цилиндар — net of a cylinder | North Macedonia, Grade 6, Theme 2, printed p. 182 |
+| Convex and non-convex polygons, tested by diagonals | North Macedonia, Grade 7, Theme 2, printed p. 186 |
+| Quadrilaterals classified by parallelism: parallelogram, trapezium, kite (делтоид) | North Macedonia, Grade 7, Theme 2, printed p. 203 |
+| Parallelogram and its properties; diagonals bisect each other | North Macedonia, Grade 7, Theme 2, printed p. 211 |
+| Rectangle, rhombus, square: special properties and converses; checking a frame is rectangular | North Macedonia, Grade 7, Theme 2, printed p. 217 |
 
 **Acceptance count: taught in 34 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
 — polygons, triangles two ways, then the parallelogram family

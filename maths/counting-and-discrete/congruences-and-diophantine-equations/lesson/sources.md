@@ -1,6 +1,6 @@
 # Sources — Congruences and Diophantine equations
 
-countries: Iran, Greece, Sierra Leone, Kazakhstan, Syria, Venezuela
+countries: Iran, Greece, Sierra Leone, Kazakhstan, Syria, Venezuela, North Macedonia
 
 Every part traces to its book and page.
 
@@ -14,6 +14,7 @@ Every part traces to its book and page.
 **Book 7:** *Mathematics — Algebra, Student's Book, Grade 9* — Syria, Ministry of Education, held printing 2025–2026/1446H, first printed 2017–2018, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 8:** *Matemática Para La Vida* — Venezuela, Grade 7 (1er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-322-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 9:** *АЛГЕБРА ЗА ТРЕТА ГОДИНА НА РЕФОРМИРАНОТО ГИМНАЗИСКО ОБРАЗОВАНИЕ (ИЗБОРЕН ПРЕДМЕТ)* (Algebra for the third year of the reformed gymnasium education — elective subject) — North Macedonia, Глигор Тренчевски, Костадин Тренчевски, Билјана Крстеска и Снежана Здравеска (Gligor Trenchevski, Kostadin Trenchevski, Biljana Krsteska & Snezana Zdraveska), Просветно дело АД, IV издание (fourth edition); CIP record Skopje 2005, approval № 11-3867/1 of 15.07.2004, ISBN 9989-0-0387-4. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -39,7 +40,14 @@ Every part traces to its book and page.
 | No-solution — An equation with no integer solution: 5x + 10y = 21, because none of 21, 11, 1, −9, −19 is divisible by 5 | Venezuela, Matemática Para La Vida (Grade 7), printed p. 123 |
 | Applications — A money Diophantine problem posed: Bs. 100 spent exactly on stamps of Bs. 20 and Bs. 15 | Venezuela, Matemática Para La Vida (Grade 7), printed p. 126 |
 
-**Acceptance count: taught in 6 countries (Iran, Greece, Sierra Leone, Kazakhstan, Syria, Venezuela).** Iran teaches congruences in full — rules, the corrected cancellation law, divisibility tests, the calendar, linear congruences and Diophantine equations solved through congruences — in its Grade 12 Discrete Mathematics book, while explicitly not teaching a Euclidean algorithm there. Greece teaches the linear Diophantine equation and congruent numbers as the close of its Grade 11 orientation book's number-theory chapter. Sierra Leone teaches modular arithmetic as a four-lesson SSS 1 block, from cyclic events to real-life uses. Kazakhstan teaches a Diophantine-flavoured linear equation in two variables in Grade 6, Euclid's algorithm in its Grade 8 book's starred optional additional-materials chapter (worded optional, as filed), and Diophantine enumeration in its Grade 9 Soltan book.
+| Congruences in the set of integers | North Macedonia, Grade 12, Algebra, §2.3, printed p. 30 |
+| Systems of residues (complete and reduced residue systems) | North Macedonia, Grade 12, Algebra, §2.4, printed p. 35 |
+| Systems of linear congruence equations | North Macedonia, Grade 12, Algebra, §2.7, printed p. 42 |
+| Some Diophantine equations; Pythagorean triples | North Macedonia, Grade 12, Algebra, §2.8, printed p. 45 |
+| The method of descent in some Diophantine equations (infinite descent) | North Macedonia, Grade 12, Algebra, §2.9, printed p. 48 |
+| Theorems of Euler, Fermat (little) and Wilson, with proofs — application: 11 divides 2³⁴⁰ − 1, via 2¹⁰ ≡ 1 (mod 11) | North Macedonia, Grade 12, Algebra, §2.6, printed p. 39 |
+
+**Acceptance count: taught in 7 countries (Iran, Greece, Sierra Leone, Kazakhstan, Syria, Venezuela, North Macedonia).** Iran teaches congruences in full — rules, the corrected cancellation law, divisibility tests, the calendar, linear congruences and Diophantine equations solved through congruences — in its Grade 12 Discrete Mathematics book, while explicitly not teaching a Euclidean algorithm there. Greece teaches the linear Diophantine equation and congruent numbers as the close of its Grade 11 orientation book's number-theory chapter. Sierra Leone teaches modular arithmetic as a four-lesson SSS 1 block, from cyclic events to real-life uses. Kazakhstan teaches a Diophantine-flavoured linear equation in two variables in Grade 6, Euclid's algorithm in its Grade 8 book's starred optional additional-materials chapter (worded optional, as filed), and Diophantine enumeration in its Grade 9 Soltan book. North Macedonia enters from its main set — the Grade 12 Algebra elective.
 
 Syria's Grade 9 Algebra carries the Euclidean algorithm as real number work — divisibility tests, successive divisions and large GCDs.
 

@@ -161,6 +161,9 @@ textbook.
 **Book 83:** *Математик X (Mathematics, Grade 10)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 84:** *Conciencia Matemática* — Venezuela, Grade 8 (2do año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-320-3. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 85:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 86:** *МАТЕМАТИКА ЗА ПЕТТО ОДДЕЛЕНИЕ* (Mathematics for Grade 5) — North Macedonia, Татјана Атанасова-Пачемска, Добри Јовевски, Виолета Поповска и Валдета Алија (Tatjana Atanasova-Pačemska, Dobri Jovevski, Violeta Popovska & Valdeta Alija), Ministry of Education and Science, Skopje 2022, approval № 26-1441/1 of 14.10.2022, ISBN 978-608-273-180-3. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 87:** *МАТЕМАТИКА 6* (Mathematics 6) — North Macedonia, Крутан Расими, Валентина Гоговска и Снежана Ристовска (Krutan Rasimi, Valentina Gogovska & Snežana Ristovska), Ministry of Education and Science, Skopje 2023, approval № 26-2185/1 of 15.09.2023; no ISBN is printed anywhere in the book. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 88:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -295,6 +298,13 @@ textbook.
 | Application — rotating a note polygon on a 7-note circle by 4 places: Do-Re-Mi-La maps to Sol-La-Si-Mi (transposition as rotational symmetry) | Venezuela, Conciencia Matemática (Grade 8), printed p. 229 |
 | Vertical translation of sine by the parameter a (a > 0 up, a < 0 down) | Venezuela, Naturaleza Matemática (Grade 10), printed p. 189 |
 | Horizontal translation: cos(x − d) shifts right, cos(x + d) shifts left; phase d ≈ 2.2 estimated for the tide model | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 197–200 |
+
+| Rotation — Ротација – Ред На Ротација | North Macedonia, Grade 5, printed p. 109 |
+| Translation — Транслација | North Macedonia, Grade 5, printed p. 111 |
+| Транслација — translation; original and image; coordinate changes | North Macedonia, Grade 6, Theme 2, printed p. 196 |
+| Ротација — rotation: centre, angle, direction; 90° about origin or a vertex | North Macedonia, Grade 6, Theme 2, printed p. 199 |
+| Translation in coordinates by adding to x and y — carries a confirmed error: the rule line on printed p. 231 contradicts the book’s own +6/+2 worked translation results; taught corrected | North Macedonia, Grade 7, Theme 2, printed p. 228 |
+| Rotation of polygons in coordinates (90° about a vertex/point, 60° about the origin) | North Macedonia, Grade 7, Theme 2, printed p. 233 |
 
 **Acceptance count: taught in 28 countries (Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela).**.** Egypt carries the Iran rotates shapes in Grade 6, translates, reflects and rotates them with tracing paper in Grade 7, and gives transformations whole — homothety included — in Grade 11 Geometry (2).
 fullest single treatment — all four moves defined with

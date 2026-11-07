@@ -1,6 +1,6 @@
 # Sources — The Real Number System
 
-countries: Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela
+countries: Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia
 
 Every part traces to its book and page.
 
@@ -40,6 +40,7 @@ Every part traces to its book and page.
 **Book 25:** *Matemática Para La Vida* — Venezuela, Grade 7 (1er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-322-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 26:** *La Matemática de la Belleza* — Venezuela, Grade 9 (3er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-329-6. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 27:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 28:** *МАТЕМАТИКА II* (Mathematics II — textbook for the second year of gymnasium education) — North Macedonia, Д-р Верица Бакева Смиљкова и проф. Горан Михајлоски (Dr Verica Bakeva Smilkova & Prof. Goran Mihajloski), АЛБИ (Albi), Skopje 2026, first edition, approval № 26-644/1 of 21.05.2026, ISBN 978-608-241-093-7. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -127,7 +128,9 @@ Every part traces to its book and page.
 | Signs — Positive rationals Q⁺, negative rationals Q⁻ and the rational zero written 0/b; the sign of a/b is the sign of a·b | Venezuela, Matemática Para La Vida (Grade 7), printed p. 82 |
 | Periodic decimals — Pure periodic decimals (period starts right after the comma) vs mixed periodic decimals (anteperiod before the period), from 1/3, −4/11, 31/15, −9/44 | Venezuela, Matemática Para La Vida (Grade 7), printed p. 83 |
 | Integer rationals — Rational integers: rationals of the form a/1, reached by multiplying a periodic decimal by a suitable rational (110/7 × 7/2 = 55) | Venezuela, Matemática Para La Vida (Grade 7), printed p. 84 |
-**Acceptance count: taught in 8 countries (Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela).** Pakistan carries this lesson whole, and in a deliberate order that this lesson keeps: the laws are first verified on numbers family by family — the distributive property on whole numbers and the commutative and associative properties on fractions in Grade 5 (printed pp.13–15, 31–38), the integer laws with both identities and subtraction's failure in Grade 6 (printed pp.32–33, 38–39), and all three laws on rationals in Grade 7 (printed pp.16–19) — and only then, in Grade 8, is the system itself drawn (N ⊂ W ⊂ Z ⊂ Q ⊂ R with the irrationals Q′, printed pp.1–3) and the properties stated in general form for all real numbers (printed pp.6–9). The catch-up plan's source rows for this lesson are Pakistan's alone; no other country's filing was filed as a source row for it, so the acceptance count is one country, honestly.
+
+| Extending the number sets N, Z, Q, irrationals (book writes J), R — each new set motivated by an equation the old set cannot solve | North Macedonia, Grade 11, §1.9, printed p. 50 |
+**Acceptance count: taught in 9 countries (Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia).** Pakistan carries this lesson whole, and in a deliberate order that this lesson keeps: the laws are first verified on numbers family by family — the distributive property on whole numbers and the commutative and associative properties on fractions in Grade 5 (printed pp.13–15, 31–38), the integer laws with both identities and subtraction's failure in Grade 6 (printed pp.32–33, 38–39), and all three laws on rationals in Grade 7 (printed pp.16–19) — and only then, in Grade 8, is the system itself drawn (N ⊂ W ⊂ Z ⊂ Q ⊂ R with the irrationals Q′, printed pp.1–3) and the properties stated in general form for all real numbers (printed pp.6–9). The catch-up plan's source rows for this lesson are Pakistan's alone; no other country's filing was filed as a source row for it, so the acceptance count is one country, honestly. North Macedonia enters from its main set — Grade 11 (2026).
 
 Syria classifies the number families in the Grade 9 Algebra opener — rationals characterised (a terminating or eventually periodic decimal), π and √2 proved irrational in the exercises, and every real number located on the number line — before its Grade 7 book has already placed rationals and integers on the line as families.
 

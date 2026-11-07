@@ -251,6 +251,9 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 **Book 127:** *Matemática Para La Vida* — Venezuela, Grade 7 (1er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-322-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 128:** *La Matemática de la Belleza* — Venezuela, Grade 9 (3er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-329-6. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 129:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 130:** *МАТЕМАТИКА 6* (Mathematics 6) — North Macedonia, Крутан Расими, Валентина Гоговска и Снежана Ристовска (Krutan Rasimi, Valentina Gogovska & Snežana Ristovska), Ministry of Education and Science, Skopje 2023, approval № 26-2185/1 of 15.09.2023; no ISBN is printed anywhere in the book. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 131:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 132:** *МАТЕМАТИКА II* (Mathematics II — textbook for the second year of gymnasium education) — North Macedonia, Д-р Верица Бакева Смиљкова и проф. Горан Михајлоски (Dr Verica Bakeva Smilkova & Prof. Goran Mihajloski), АЛБИ (Albi), Skopje 2026, first edition, approval № 26-644/1 of 21.05.2026, ISBN 978-608-241-093-7. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -431,6 +434,15 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 | Length formula — Circumference length: π = ℓ/d with d = 2r, cleared step by step to ℓ = 2πr | Venezuela, Matemática Para La Vida (Grade 7), printed p. 143 |
 | Circle — Circle vs circumference: the circle is the circumference together with its interior points | Venezuela, Matemática Para La Vida (Grade 7), printed p. 143 |
 | Centre constructions — Finding a centre: two folds (diameters) cross at the centre; the perpendicular bisector (mediatriz) of a chord passes through the centre; the circle through three points S, T, U is centred where two mediatrices meet | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 144–147 |
+
+| Кружница и круг — circle and disc; centre, radius, chord, diameter d = 2r; compass work | North Macedonia, Grade 6, Theme 2, printed p. 134 |
+| Заемна положба на точка и кружница, права и кружница — 0/1/2 common points | North Macedonia, Grade 6, Theme 2, printed p. 139 |
+| Заемна положба на две кружници — separate, nested, touching, intersecting; concentric in an exercise | North Macedonia, Grade 6, Theme 2, printed p. 142 |
+| Circle and disc revision: arc, chord, three-letter arc naming | North Macedonia, Grade 7, Theme 2, printed p. 125 |
+| Positions of two circles from centre distance and radii | North Macedonia, Grade 7, Theme 2, printed p. 128 |
+| Tangent perpendicular to the radius; secant; two tangents from an external point | North Macedonia, Grade 7, Theme 2, printed p. 133 |
+| Central angle and its arc; equal central angles give equal chords and arcs | North Macedonia, Grade 7, Theme 2, printed p. 162 |
+| Perimeter and area of a circle and parts of a circle | North Macedonia, Grade 11, §6.5, printed p. 284 |
 
 **Acceptance count: taught in 32 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela).**.** Kazakhstan carries the full climb — circle Iran measures the circumference in Grade 5 — with the book's own bounds for π, 3 1/7 and 3 10/71, while its exercises work with π = 3 — the area of a circle in Grade 6, circle basics in Grade 8, and the circle's equation in Grade 12 Geometry (3).
 parts in Grade 3, circle and disc in Grades 4 and 5, then the

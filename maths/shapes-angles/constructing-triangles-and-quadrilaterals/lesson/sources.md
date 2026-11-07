@@ -1,6 +1,6 @@
 # Sources — Constructing triangles and quadrilaterals
 
-countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela
+countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia
 
 Every part traces to its book and page.
 
@@ -21,6 +21,7 @@ Every part traces to its book and page.
 **Book 12:** *Mathematics — Textbook for Class IX* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-489-3. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendix 1 (Proofs in Mathematics), Appendix 2 (Introduction to Mathematical Modelling) and Answers/Hints; nothing is cited from them.
 **Book 13:** *Математик VII (Mathematics, Grade 7)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 14:** *La Patria Buena* — Venezuela, Grade 5 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-306-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 15:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -64,7 +65,9 @@ Every part traces to its book and page.
 | Triangle constructions — Constructing a triangle from two sides and the included angle (SAS: 7 cm, 5 cm, 30°) | Venezuela, La Patria Buena (Grade 5), printed p. 105 |
 | Triangle constructions — Constructing a triangle from one side and its two adjacent angles (ASA: 10 cm, 40°, 30°) | Venezuela, La Patria Buena (Grade 5), printed p. 105 |
 | Quadrilateral constructions — Constructing a rectangle with set squares; constructing a rhombus from a diagonal and a side; constructing a rectangle from its diagonals and a side | Venezuela, La Patria Buena (Grade 5), printed pp. 125–129 |
-**Acceptance count: taught in 9 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela).**
+
+| Constructing triangles SSS, SAS, ASA | North Macedonia, Grade 7, Theme 2, printed p. 194 |
+**Acceptance count: taught in 10 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia).** North Macedonia enters from its main set — Grade 7 (2025).
 
 Pakistan's Grade 8 book is the spine: it constructs the whole quadrilateral family — square, rectangle, rhombus, parallelogram, kite, trapezium — and the SSS, SAS, ASA and RHS triangles, with the incentre and circumcentre constructions. Bangladesh's Class 8 Exp.5 is a dedicated constructing-quadrilaterals chapter. Yemen meets the work earliest: Grade 4 constructs a rectangle from its length and width and a square, and Grade 5 builds a triangle from two sides and the included angle in five named steps. Sierra Leone's SSS 2 course splits the same material into single-skill lessons — SSS, SAS and ASA triangles, then squares and rectangles, rhombi and parallelograms, and trapeziums — and finishes with construction word problems.
 

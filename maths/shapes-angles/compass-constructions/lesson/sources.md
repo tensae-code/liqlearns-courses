@@ -1,6 +1,6 @@
 # Sources — Constructions with ruler and compass
 
-countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela
+countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia
 
 Every part traces to its book and page.
 
@@ -45,6 +45,8 @@ Every part traces to its book and page.
 **Book 30:** *Conciencia Matemática* — Venezuela, Grade 8 (2do año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-320-3. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 31:** *La Matemática de la Belleza* — Venezuela, Grade 9 (3er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-329-6. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 32:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 33:** *МАТЕМАТИКА 6* (Mathematics 6) — North Macedonia, Крутан Расими, Валентина Гоговска и Снежана Ристовска (Krutan Rasimi, Valentina Gogovska & Snežana Ristovska), Ministry of Education and Science, Skopje 2023, approval № 26-2185/1 of 15.09.2023; no ISBN is printed anywhere in the book. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 34:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -115,7 +117,15 @@ Every part traces to its book and page.
 | Perpendicular — Perpendicular (altitude) dropped from a vertex with compass arcs, in acute, obtuse and right triangles | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 174–178 |
 | Bisector — Angle bisector constructed with ruler and compass; the conjecture that every point of the bisector is equidistant from the angle's sides, tested by measuring | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 186–187 |
 | Quadrilateral constructions — Rectangle built from two given sides with parallels and a perpendicular; rhombus built from its two diagonals (6 cm and 5 cm, perpendicular at the midpoint) | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 168–169 |
-**Acceptance count: taught in 14 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela).**
+
+| Симетрала на отсечка — perpendicular bisector of a segment; midpoint | North Macedonia, Grade 6, Theme 2, printed p. 116 |
+| Симетрала на агол — angle bisector | North Macedonia, Grade 6, Theme 2, printed p. 132 |
+| Graphical addition and subtraction of segment lengths with compass | North Macedonia, Grade 7, Theme 2, printed p. 136 |
+| Constructing parallel and perpendicular lines; segment (perpendicular) bisector | North Macedonia, Grade 7, Theme 2, printed p. 142 |
+| Constructions with educational software (GeoGebra) | North Macedonia, Grade 7, Theme 2, printed p. 148 |
+| Copying, adding and subtracting angles graphically | North Macedonia, Grade 7, Theme 2, printed p. 173 |
+| Constructing the angle bisector and angles 60°, 30°, 15°, 90°, 45° | North Macedonia, Grade 7, Theme 2, printed p. 177 |
+**Acceptance count: taught in 15 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia).** North Macedonia enters from its main set — Grade 6 (2023) and Grade 7 (2025).
 
 Sierra Leone teaches the fullest school construction course here: SSS 2 Term 2 lessons 79–83 work through bisection and the constructible angles in order, and its JSS 1 handbook gives the first constructions. Laos builds the same skills in Grade 6 — parallels and perpendiculars through a point, the perpendicular bisector, copying an angle and a segment — after using a compass from Grade 4. Iran is the country that insists on reasons: its Geometry (1) presents constructions with justifications, so each arc is there for a stated cause. Armenia teaches construction as a method, with the stages of a construction problem named as part of the work. Pakistan's Grade 6 practical-geometry unit and Bangladesh's Class 7 experiments give the same constructions as set exercises, and Kuwait's Grade 7 Term 2 Unit 6 carries a long construction unit of its own.
 

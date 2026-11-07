@@ -1,6 +1,6 @@
 # Sources — Even and Odd Numbers
 
-countries: India, Mongolia, Venezuela
+countries: India, Mongolia, Venezuela, North Macedonia
 
 Every part traces to its book and page.
 
@@ -10,6 +10,9 @@ Every part traces to its book and page.
 **Book 4:** *Математик III (Mathematics, Grade 3)* — Mongolia, Ministry of Education, seventh edition, Ulaanbaatar 2020. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 5:** *Математик IV (Mathematics, Grade 4)* — Mongolia, Ministry of Education, seventh edition, Ulaanbaatar 2020. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 6:** *Triángulos, rectángulos y algo más...* — Venezuela, Grade 2 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-294-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 7:** *Математика за второ одделение* (Mathematics for Grade 2) — North Macedonia, Слаѓана Јакимовиќ, Ирена Богданоска и Мендиме Алиу (Slagjana Jakimovik, Irena Bogdanoska & Mendime Aliu), Ministry of Education and Science, Skopje 2023, approval № 26-1668/1 of 09.12.2022, ISBN 978-608-273-355-5. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 8:** *Математика за трето одделение* (Mathematics for Grade 3) — North Macedonia, Татјана Атанасова-Пачемска, Виолета Поповска и Добри Јовевски (Tatjana Atanasova-Pačemska, Violeta Popovska & Dobri Jovevski), Ministry of Education and Science, Skopje 2023, approval № 26-2325/1 of 18.10.2023, ISBN 978-608-273-646-4. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 9:** *Математика за четврто одделение* (Mathematics for Grade 4) — North Macedonia, Татјана Атанасова-Пачемска, Валдета Алија, Виолета Поповска и Добри Јовевски (Tatjana Atanasova-Pačemska, Valdeta Alija, Violeta Popovska & Dobri Jovevski), Ministry of Education and Science, Skopje 2023, II издание (second edition), approval № 26-527/1 of 18.08.2022, ISBN 978-608-273-479-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -27,7 +30,12 @@ Every part traces to its book and page.
 | Even and odd by pairing — pairs dancing joropo: numbers that pair up fully are pares, one left over are impares; even numbers end in 0 or an even digit | Venezuela, Triángulos, rectángulos y algo más... (Grade 2), printed pp. 116–119 |
 | Parity of sums — 24 niñas + 17 niños = 41 (odd): odd + even gives odd; investigating parity of other sums | Venezuela, Triángulos, rectángulos y algo más... (Grade 2), printed pp. 120–127 |
 
-**Acceptance count: taught in 3 countries (India, Mongolia, Venezuela).** India's Class 3 Math-Magic book is the one read book that gives even and odd numbers a named treatment of their own — defined by the last digit (even ends 0, 2, 4, 6, 8; odd ends 1, 3, 5, 7, 9), hunted in ranges (odds between 400 and 410, evens between 155 and 165), and finished with the adding rules (odd + 1 = even, even + 1 = odd, and the question even + odd left for the learner to settle) — so under the everything-goes-in ruling (2026-11-06) the topic gets its own lesson, built at the size of its source. The pairing way of meeting even and odd (pairing pictured objects, classifying sums) already lives inside the counting lesson from Egypt, North Macedonia and Pakistan (Punjab), and India's own Class 10 book returns to even and odd integers in proved form (every even integer is 2q, odd integers are 4q + 1 or 4q + 3, from Euclid's division lemma), stocked in factors-multiples-and-primes. Nothing here is cited from the Class 3 book's planted find-the-mistake pages (printed pp. 83, 196) — those are subtraction and money exercises, filed in their own lessons as the deliberate-error teaching they are.
+| Even and odd numbers to 100 | North Macedonia, Grade 2, printed p. 18 |
+| Recognising and naming even and odd numbers to 1 000 | North Macedonia, Grade 3, printed p. 41 |
+| Even/odd effect on sum and difference — Зависност На Збирот Од Парноста На Собироците | North Macedonia, Grade 4, printed p. 192 |
+| Dependence of the difference on the parity of minuend/subtrahend — Намалителот | North Macedonia, Grade 4, printed p. 194 |
+
+**Acceptance count: taught in 4 countries (India, Mongolia, Venezuela, North Macedonia).** India's Class 3 Math-Magic book is the one read book that gives even and odd numbers a named treatment of their own — defined by the last digit (even ends 0, 2, 4, 6, 8; odd ends 1, 3, 5, 7, 9), hunted in ranges (odds between 400 and 410, evens between 155 and 165), and finished with the adding rules (odd + 1 = even, even + 1 = odd, and the question even + odd left for the learner to settle) — so under the everything-goes-in ruling (2026-11-06) the topic gets its own lesson, built at the size of its source. The pairing way of meeting even and odd (pairing pictured objects, classifying sums) already lives inside the counting lesson from Egypt, North Macedonia and Pakistan (Punjab), and India's own Class 10 book returns to even and odd integers in proved form (every even integer is 2q, odd integers are 4q + 1 or 4q + 3, from Euclid's division lemma), stocked in factors-multiples-and-primes. Nothing here is cited from the Class 3 book's planted find-the-mistake pages (printed pp. 83, 196) — those are subtraction and money exercises, filed in their own lessons as the deliberate-error teaching they are. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023) and Grade 4 (2023).
 
 
 Mongolia enters through its ministry textbooks Математик I, II, III, IV (Grades 1, 2, 3, 4): even and odd numbers; even and odd defined; recognising even and odd numbers.

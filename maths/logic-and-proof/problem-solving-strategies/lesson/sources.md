@@ -1,6 +1,6 @@
 # Sources — Problem-solving strategies
 
-countries: Iran, Greece, Iraq, China, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela
+countries: Iran, Greece, Iraq, China, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia
 
 Every part traces to its book and page.
 
@@ -61,6 +61,10 @@ Every part traces to its book and page.
 **Book 39:** *Triángulos, rectángulos y algo más...* — Venezuela, Grade 2 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-294-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 40:** *Aventuras de Patacalientes* — Venezuela, Grade 3 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-295-4. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 41:** *La Patria Buena* — Venezuela, Grade 5 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-306-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 42:** *Математика за второ одделение* (Mathematics for Grade 2) — North Macedonia, Слаѓана Јакимовиќ, Ирена Богданоска и Мендиме Алиу (Slagjana Jakimovik, Irena Bogdanoska & Mendime Aliu), Ministry of Education and Science, Skopje 2023, approval № 26-1668/1 of 09.12.2022, ISBN 978-608-273-355-5. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 43:** *Математика за трето одделение* (Mathematics for Grade 3) — North Macedonia, Татјана Атанасова-Пачемска, Виолета Поповска и Добри Јовевски (Tatjana Atanasova-Pačemska, Violeta Popovska & Dobri Jovevski), Ministry of Education and Science, Skopje 2023, approval № 26-2325/1 of 18.10.2023, ISBN 978-608-273-646-4. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 44:** *Математика за четврто одделение* (Mathematics for Grade 4) — North Macedonia, Татјана Атанасова-Пачемска, Валдета Алија, Виолета Поповска и Добри Јовевски (Tatjana Atanasova-Pačemska, Valdeta Alija, Violeta Popovska & Dobri Jovevski), Ministry of Education and Science, Skopje 2023, II издание (second edition), approval № 26-527/1 of 18.08.2022, ISBN 978-608-273-479-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 45:** *МАТЕМАТИКА ЗА ПЕТТО ОДДЕЛЕНИЕ* (Mathematics for Grade 5) — North Macedonia, Татјана Атанасова-Пачемска, Добри Јовевски, Виолета Поповска и Валдета Алија (Tatjana Atanasova-Pačemska, Dobri Jovevski, Violeta Popovska & Valdeta Alija), Ministry of Education and Science, Skopje 2022, approval № 26-1441/1 of 14.10.2022, ISBN 978-608-273-180-3. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -132,7 +136,34 @@ Every part traces to its book and page.
 | Number tricks — the think-of-a-number trick (add 2, ×3, −6, subtract your number, halve the call-out) always returns the thought number — worked with 7 → 14 → 7 | Venezuela, Aventuras de Patacalientes (Grade 3), printed pp. 114–117 |
 | Strategy games — NIM with 16 counters, take 1–2: the winning strategy is to leave multiples of 3; making 1.000 using only the digit 8 | Venezuela, Aventuras de Patacalientes (Grade 3), printed pp. 118–121 |
 | Systematic counting — Counting the squares of all sizes on a chessboard (the "204 squares" claim checked by tabulating 1×1 … 8×8) | Venezuela, La Patria Buena (Grade 5), printed pp. 31 |
-**Acceptance count: taught in 11 countries (Iran, Greece, Iraq, China, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela).** Iran carries the fullest treatment: a named strategy in every primary chapter from Grade 2 up, gathered in Grade 7 Chapter 1 into eight named strategies under a four-step frame (understand, choose, solve, look back). Greece teaches the steps explicitly twice — as four steps in Grade 2 Chapter 5 and as five steps in Grade 5 Chapter 3 (read/distinguish, plan, solve, answer, reflect). Iraq makes the plan a lesson in its own right in every chapter of Grade 1 — and, as filed, in every chapter through Grade 8 — each plan lesson naming its own move (use a model, write a number sentence, logical reasoning, draw a picture). China contributes the specialist tools: elimination tables and proto-Sudoku in Grade 2, differencing in Grade 3, chickens-and-rabbits by listing and by the assumption method in Grade 4, and 0/1 logic tables with symbol substitution in the Grade 6 review.
+
+| Mathematical stories — word problems for + and − | North Macedonia, Grade 2, printed p. 52 |
+| Mathematical games with the operations (mixed-operation play/consolidation) | North Macedonia, Grade 2, printed p. 110 |
+| End-of-year mathematical games (mixed review in game form) | North Macedonia, Grade 2, printed p. 141 |
+| Solving problem situations with addition and subtraction to 1 000 | North Macedonia, Grade 3, printed p. 116 |
+| Solving word problems (textual tasks, all four operations) | North Macedonia, Grade 3, printed p. 161 |
+| Problem situations — money (buying, paying, saving) | North Macedonia, Grade 3, printed p. 176 |
+| Problem situations — length | North Macedonia, Grade 3, printed p. 183 |
+| Problem situations — mass | North Macedonia, Grade 3, printed p. 188 |
+| Problem situations — capacity | North Macedonia, Grade 3, printed p. 191 |
+| Solving tasks — time | North Macedonia, Grade 3, printed p. 197 |
+| Problem solving / review — Решаваме Проблемски Ситуации | North Macedonia, Grade 4, printed p. 96 |
+| Problem solving / review — Што Научивме? | North Macedonia, Grade 4, printed p. 156 |
+| Review and practice — Повторуваме, Вежбаме | North Macedonia, Grade 4, printed p. 188 |
+| Problem solving / review — Решаваме Проблемски Задачи | North Macedonia, Grade 4, printed p. 241 |
+| Everyday problem situations solved with fraction/decimal operations (shopping, money in denars) — Операции Со Броеви | North Macedonia, Grade 4, printed p. 279 |
+| Problem solving / review — Што И Колку Научивме? | North Macedonia, Grade 4, printed p. 322 |
+| Problem solving / review — Решаваме Проблемски Ситуации | North Macedonia, Grade 4, printed p. 343 |
+| Problem solving / review — 2 Решавање Проблемски Ситуации | North Macedonia, Grade 5, printed p. 93 |
+| Problem solving / review — Решавање Текстуални Задачи | North Macedonia, Grade 5, printed p. 184 |
+| Problem solving / review — Решавање На Задачи | North Macedonia, Grade 5, printed p. 193 |
+| Problem solving / review — Решавање На Задачи | North Macedonia, Grade 5, printed p. 197 |
+| Problem solving / review — Решавање На Задачи | North Macedonia, Grade 5, printed p. 200 |
+| Problem solving / review — Решавање На Задачи | North Macedonia, Grade 5, printed p. 203 |
+| Problem solving / review — Решавање Проблемски Ситуации | North Macedonia, Grade 5, printed p. 249 |
+| Problem solving / review — Решавање Проблемски Ситуации | North Macedonia, Grade 5, printed p. 255 |
+| Problem solving / review — Решавање Проблемски Ситуации - Истражување | North Macedonia, Grade 5, printed p. 275 |
+**Acceptance count: taught in 12 countries (Iran, Greece, Iraq, China, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia).** Iran carries the fullest treatment: a named strategy in every primary chapter from Grade 2 up, gathered in Grade 7 Chapter 1 into eight named strategies under a four-step frame (understand, choose, solve, look back). Greece teaches the steps explicitly twice — as four steps in Grade 2 Chapter 5 and as five steps in Grade 5 Chapter 3 (read/distinguish, plan, solve, answer, reflect). Iraq makes the plan a lesson in its own right in every chapter of Grade 1 — and, as filed, in every chapter through Grade 8 — each plan lesson naming its own move (use a model, write a number sentence, logical reasoning, draw a picture). China contributes the specialist tools: elimination tables and proto-Sudoku in Grade 2, differencing in Grade 3, chickens-and-rabbits by listing and by the assumption method in Grade 4, and 0/1 logic tables with symbol substitution in the Grade 6 review. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023) and Grade 5 (2022).
 
 Saudi Arabia is this lesson's strongest witness: a NAMED strategy lesson inside nearly every chapter of all four grades — model it, draw a picture, guess and check, look for a pattern, write a number sentence, make a table, make a list, work backwards, solve a simpler problem, choose a plan — gathered into the four steps (understand, plan, solve, check) in Grade 3, with reasonableness, exact-vs-estimate and extra/missing-information lessons of their own, and the older 1445 Term-3 volumes witnessing the Part Two chapters.
 

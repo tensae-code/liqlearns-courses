@@ -30,6 +30,7 @@ Every part traces to its book and page.
 **Book 22:** *Mathematics — Textbook for Class XII, Parts I–II* (ONE work in two volumes: continuous chapters 1–13 and continuous printed pagination 1–587) — India, NCERT, New Delhi, first edition November 2006, 2020-21 printing; Part I ISBN 81-7450-629-2 (Part II prints no ISBN). Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy of Part I lacks its appendices, answers and supplementary material, and the held copy of Part II has no front matter; nothing is cited from either.
 **Book 23:** *Математик VIII (Mathematics, Grade 8)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 24:** *Математик IX (Mathematics, Grade 9)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 25:** *МАТЕМАТИКА II* (Mathematics II — textbook for the second year of gymnasium education) — North Macedonia, Д-р Верица Бакева Смиљкова и проф. Горан Михајлоски (Dr Verica Bakeva Smilkova & Prof. Goran Mihajloski), АЛБИ (Albi), Skopje 2026, first edition, approval № 26-644/1 of 21.05.2026, ISBN 978-608-241-093-7. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -63,6 +64,13 @@ Every part traces to its book and page.
 | A line perpendicular to a plane; distance from a point to a line | Mongolia, Математик IX (Grade 9), printed p. 173 |
 | Distance from a point to a plane; prism height; pyramid height | Mongolia, Математик IX (Grade 9), printed p. 174 |
 | Cutting a solid by a plane (sections) | Mongolia, Математик IX (Grade 9), printed p. 175 |
+
+| Axioms of space geometry; basic (undefined) concepts point, line, plane vs defined concepts; theorem vs axiom | North Macedonia, Grade 11, §5.7, printed p. 231 |
+| Mutual position of a line and a plane, of two planes, of two lines | North Macedonia, Grade 11, §5.8, printed p. 236 |
+| Prism; sections of a prism by a plane | North Macedonia, Grade 11, §5.9, printed p. 241 |
+| Pyramid; sections of a pyramid by a plane | North Macedonia, Grade 11, §5.10, printed p. 247 |
+| Cylinder; sections of a cylinder by a plane | North Macedonia, Grade 11, §5.11, printed p. 251 |
+| Cone; sections of a cone by a plane | North Macedonia, Grade 11, §5.12, printed p. 255 |
 
 **Acceptance count: taught in 15 countries (China, Armenia, Vietnam, Kuwait, Greece, Iraq, Yemen, Cambodia, Kazakhstan, Laos, North Macedonia, Iran, Syria, India, Mongolia).**
 

@@ -166,6 +166,7 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 **Book 80:** *Математик IX (Mathematics, Grade 9)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 81:** *Conciencia Matemática* — Venezuela, Grade 8 (2do año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-320-3. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 82:** *La Matemática de la Belleza* — Venezuela, Grade 9 (3er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-329-6. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 83:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -334,6 +335,8 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | The altitude splits the triangle — in a right triangle the altitude to the hypotenuse creates two triangles similar to each other and to the whole (AA) | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 185–186 |
 | Leg and altitude theorems — Euclid: each leg is the geometric mean of the hypotenuse and its own projection (b² = c·p, a² = c·r); the altitude is the geometric mean of the two projections (h² = p·r) | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 187–188 |
 | Practice — terrain area when the altitude divides the hypotenuse into 4 m and 18 m; judging which pictured triangles are similar; the Orinoquia cable-stayed bridge problem | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 188–191 |
+
+| Midline of a triangle: parallel to the third side, half its length, four congruent triangles | North Macedonia, Grade 7, Theme 2, printed p. 190 |
 
 **Acceptance count: taught in 30 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela).**.** Iran matches congruent figures by superposition in Grade 7, states the SSS, SAS and ASA criteria in Grade 8, proves congruence and meets similar figures in Grade 9, and proves Thales' theorem with the AA, SAS and SSS similarity criteria in Grade 10 Geometry (1).
 Libya carries the fullest single treatment — congruence tests

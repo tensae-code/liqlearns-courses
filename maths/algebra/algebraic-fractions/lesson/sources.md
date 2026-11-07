@@ -1,6 +1,6 @@
 # Sources — Algebraic Fractions
 
-countries: Malaysia, Sudan, Mongolia
+countries: Malaysia, Sudan, Mongolia, North Macedonia
 
 Every part traces to its book and page.
 
@@ -10,6 +10,7 @@ Every part traces to its book and page.
 **Book 3:** *Математик VIII (Mathematics, Grade 8)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 4:** *Математик IX (Mathematics, Grade 9)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 5:** *Математик X (Mathematics, Grade 10)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 6:** *АЛГЕБРА ЗА ТРЕТА ГОДИНА НА РЕФОРМИРАНОТО ГИМНАЗИСКО ОБРАЗОВАНИЕ (ИЗБОРЕН ПРЕДМЕТ)* (Algebra for the third year of the reformed gymnasium education — elective subject) — North Macedonia, Глигор Тренчевски, Костадин Тренчевски, Билјана Крстеска и Снежана Здравеска (Gligor Trenchevski, Kostadin Trenchevski, Biljana Krsteska & Snezana Zdraveska), Просветно дело АД, IV издание (fourth edition); CIP record Skopje 2005, approval № 11-3867/1 of 15.07.2004, ISBN 9989-0-0387-4. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
 On Malaysia in this lesson: Malaysia's Form 2 book is the first in the read set to teach combining algebraic fractions as its own topic, inside its factorisation and algebraic fractions chapter. Number fractions live in the fractions lesson (Stage 4) and splitting a fraction into partial fractions is its own later lesson; this lesson is the combining direction, built from Malaysia's treatment under the everything-goes-in ruling.
 
@@ -31,7 +32,9 @@ On Malaysia in this lesson: Malaysia's Form 2 book is the first in the read set 
 | Multiplying/dividing algebraic fractions; cancelling after factorising | Mongolia, Математик X (Grade 10), printed p. 26 |
 | Adding/subtracting algebraic fractions; common denominators by factorising; opposite denominators | Mongolia, Математик X (Grade 10), printed p. 27 |
 | Multi-step simplification with an explicit order-of-operations protocol | Mongolia, Математик X (Grade 10), printed p. 29 |
-**Acceptance count: taught in 3 countries (Malaysia, Sudan, Mongolia).** Malaysia's Form 2 book carries the full treatment — LCM of terms, then addition and subtraction into a single fraction; the other read countries meet letter-fractions inside other algebra work without a named treatment, so this lesson is built at that honest size.
+
+| Fractional rational expressions in one variable; canonical form of a rational fraction | North Macedonia, Grade 12, Algebra, §4.11, printed p. 97 |
+**Acceptance count: taught in 4 countries (Malaysia, Sudan, Mongolia, North Macedonia).** Malaysia's Form 2 book carries the full treatment — LCM of terms, then addition and subtraction into a single fraction; the other read countries meet letter-fractions inside other algebra work without a named treatment, so this lesson is built at that honest size. North Macedonia enters from its main set — the Grade 12 Algebra elective.
 
 Sudan teaches algebraic fractions in Grade 10: simplifying, adding and subtracting, and multiplying and dividing with cancellation.
 

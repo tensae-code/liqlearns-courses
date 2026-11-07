@@ -1,6 +1,6 @@
 # Sources — Radian measure
 
-countries: Bangladesh, Laos, Nicaragua, Nepal, Jordan, Pakistan, Ethiopia, Malaysia, Sudan, India, Mongolia, Venezuela
+countries: Bangladesh, Laos, Nicaragua, Nepal, Jordan, Pakistan, Ethiopia, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia
 
 Every part traces to its book and page.
 
@@ -19,6 +19,7 @@ Every part traces to its book and page.
 **Book 11:** *Mathematics — Textbook for Class XI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-486-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendices 1–2, the Answers and the Supplementary Material; nothing is cited from them.
 **Book 12:** *Математик XII (Mathematics, Grade 12)* — Mongolia, Ministry of Education, second edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 13:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 14:** *МАТЕМАТИКА ЗА III ГОДИНА НА РЕФОРМИРАНОТО ГИМНАЗИСКО ОБРАЗОВАНИЕ* (Mathematics for the third year of the reformed gymnasium education) — North Macedonia, Јорданка Митевска, Иван Трајков и Лилјана Грибовска-Поповиќ (Jordanka Mitevska, Ivan Trajkov & Liljana Gribovska-Popovik), Просветно дело АД, Skopje, II издание (second edition), 2018 printing (its CIP block carries the 2003 first-edition record, ISBN 9989-0-0343-0). Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -47,7 +48,9 @@ Every part traces to its book and page.
 
 | The argument φ is measured in radians (stated inside the polar-form discussion) | Venezuela, Naturaleza Matemática (Grade 10), printed p. 149 |
 | Radian defined (central angle whose arc equals the radius); 180° = π rad, 360° = 2π rad, 1 rad ≈ 57.2957° | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 182–183 |
-**Acceptance count: taught in 12 countries (Bangladesh, Laos, Nicaragua, Nepal, Jordan, Pakistan, Ethiopia, Malaysia, Sudan, India, Mongolia, Venezuela).** Bangladesh carries the fullest single treatment — DMS, standard position, coterminal angles, and radian measure with s = rθ worked on Earth distances. Laos carries directed angles and radians inside its fundamental-formulas chapter. Nicaragua carries DMS and radians in its student book and is the lesson's gradian source in its module, which names all three systems side by side. Nepal carries all three systems with conversions between sexagesimal and centesimal in its Optional book. Jordan opens its Grade 11 trigonometric-functions unit with radian measure. Pakistan carries the sexagesimal system, the radian, arc length and sector area in one unit. Ethiopia carries radian measure and coterminal angles inside its Grade 10 trigonometry chapter.
+
+| Extending the concept of angle and measuring angles (degrees and radians, general angle) | North Macedonia, Grade 12, Mathematics, §2.1.1, printed p. 37 |
+**Acceptance count: taught in 13 countries (Bangladesh, Laos, Nicaragua, Nepal, Jordan, Pakistan, Ethiopia, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia).** Bangladesh carries the fullest single treatment — DMS, standard position, coterminal angles, and radian measure with s = rθ worked on Earth distances. Laos carries directed angles and radians inside its fundamental-formulas chapter. Nicaragua carries DMS and radians in its student book and is the lesson's gradian source in its module, which names all three systems side by side. Nepal carries all three systems with conversions between sexagesimal and centesimal in its Optional book. Jordan opens its Grade 11 trigonometric-functions unit with radian measure. Pakistan carries the sexagesimal system, the radian, arc length and sector area in one unit. Ethiopia carries radian measure and coterminal angles inside its Grade 10 trigonometry chapter. North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
 
 Malaysia opens Additional Mathematics Form 5 with circular measure: the radian defined from the arc itself, then s = rθ, sector and segment areas, all in radians.
 

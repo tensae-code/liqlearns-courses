@@ -1,6 +1,6 @@
 # Sources — Step and Piecewise Functions
 
-countries: Iran, Nicaragua, Kazakhstan, Laos, Kuwait, Syria, Malaysia, Sudan, India
+countries: Iran, Nicaragua, Kazakhstan, Laos, Kuwait, Syria, Malaysia, Sudan, India, North Macedonia
 
 Every part traces to its book and page.
 
@@ -19,6 +19,7 @@ Every part traces to its book and page.
 
 **Book 11:** *Mathematics, Grade 9 (Third Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2024, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 12:** *Mathematics — Textbook for Class XI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-486-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendices 1–2, the Answers and the Supplementary Material; nothing is cited from them.
+**Book 13:** *АЛГЕБРА ЗА ТРЕТА ГОДИНА НА РЕФОРМИРАНОТО ГИМНАЗИСКО ОБРАЗОВАНИЕ (ИЗБОРЕН ПРЕДМЕТ)* (Algebra for the third year of the reformed gymnasium education — elective subject) — North Macedonia, Глигор Тренчевски, Костадин Тренчевски, Билјана Крстеска и Снежана Здравеска (Gligor Trenchevski, Kostadin Trenchevski, Biljana Krsteska & Snezana Zdraveska), Просветно дело АД, IV издание (fourth edition); CIP record Skopje 2005, approval № 11-3867/1 of 15.07.2004, ISBN 9989-0-0387-4. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -41,7 +42,9 @@ Every part traces to its book and page.
 | Evaluating a piecewise function — Piecewise rule (square if x ≤ 2, x + 2 if x > 2) evaluated in the unit exercise (within 1-8 exercises) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 42 |
 | Modulus and signum — modulus function |x| and signum function, definitions and graphs | India, Mathematics Class 11, printed p. 41 |
 | Greatest integer function — greatest integer (floor) function [x], values on unit intervals and graph | India, Mathematics Class 11, printed p. 42 |
-**Acceptance count: taught in 9 countries (Iran, Nicaragua, Kazakhstan, Laos, Kuwait, Syria, Malaysia, Sudan, India).** Iran carries the floor function and piecewise definitions in three Grade 11 branch books, with step functions opened through tariffs and postage in the Humanities book and the sign function taught beside the floor there. Nicaragua carries the greatest-integer function with its step graph in the Grade 10 student book, and presents it as a piecewise function in the self-learning module. Kazakhstan carries the [x] and {x} pair, graphed together, in Algebra 9. Laos carries the floor function and sgn(x) as named special functions in Grade 10, and counts the absolute-value function among its function families. Kuwait carries the absolute-value function and its graph, stocked in this lesson by the course plan's decision — taught corrected at p.30, where its caption mislabels the reflected curve.
+
+| The functions [x] (integer part) and {x} (fractional part), with floor identities proved, e.g. [n/4]+[2n/4]+[3n/4] = (3n−3)/2 for n coprime to 4 | North Macedonia, Grade 12, Algebra, §2.1, printed p. 25 |
+**Acceptance count: taught in 10 countries (Iran, Nicaragua, Kazakhstan, Laos, Kuwait, Syria, Malaysia, Sudan, India, North Macedonia).** Iran carries the floor function and piecewise definitions in three Grade 11 branch books, with step functions opened through tariffs and postage in the Humanities book and the sign function taught beside the floor there. Nicaragua carries the greatest-integer function with its step graph in the Grade 10 student book, and presents it as a piecewise function in the self-learning module. Kazakhstan carries the [x] and {x} pair, graphed together, in Algebra 9. Laos carries the floor function and sgn(x) as named special functions in Grade 10, and counts the absolute-value function among its function families. Kuwait carries the absolute-value function and its graph, stocked in this lesson by the course plan's decision — taught corrected at p.30, where its caption mislabels the reflected curve. North Macedonia enters from its main set — the Grade 12 Algebra elective.
 
 Syria's floor function E(x) is defined and graphed in Grade 12 Part One, inside its functions unit.
 

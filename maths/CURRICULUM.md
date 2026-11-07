@@ -131,6 +131,7 @@ a square.*
 - factorisation ✅ — common factors, regrouping, the identities backwards, trinomials, splitting the middle term, and cubics by the Factor Theorem (Level 152, India merge 2026-11-07)
 - modulus-and-absolute-value ✅ — |x| as distance from 0: the definition, equations by cases and by distance, inequalities on the line, and the squaring theorems (Level 153, Mongolia merge 2026-11-07)
 - reciprocal-equations ✅ — reciprocal (palindromic) polynomials and their equations: roots in reciprocal pairs, the guaranteed root −1 in odd degree, and the y = x + 1/x fold in even degree (Level 154, Venezuela merge 2026-11-07)
+- the-four-means-and-their-inequalities ✅ — the quadratic, arithmetic, geometric and harmonic means of positive numbers, defined side by side, and the proved chain quadratic ≥ arithmetic ≥ geometric ≥ harmonic (Level 156, North Macedonia merge 2026-11-07)
 
 ## Stage 7 — Shapes and Angles
 *End of stage: the learner can name shapes, measure angles,
@@ -254,6 +255,7 @@ structures.*
 - algebraic-structures ✅ — binary operations, groups, rings and fields (Level 111, catch-up build)
 - mathematical-investigations ✅ — the balance search, the phone tree and the painted cube (Level 112, catch-up build)
 - matrix-cryptography ✅ — encoding and decoding messages with a 2×2 matrix cryptogram (Level 149, Rwanda merge 2026-11-07)
+- eulers-totient-and-multiplicative-functions ✅ — multiplicative functions, and Euler's totient φ: what it counts, its table, φ(p) = p − 1, and multiplicativity for coprime arguments, taught corrected (Level 157, North Macedonia merge 2026-11-07)
 
 ## Stage 15 — Money, Time and Everyday Mathematics
 *End of stage: the learner can use money, run the money
@@ -303,7 +305,7 @@ things and follow patterns — the first mathematics of all.*
 - sorting-and-classifying ✅ — sorting and classifying by one attribute, then by two (Level 135, catch-up build)
 - repeating-patterns ✅ — repeating, growing and shrinking patterns (Level 136, catch-up build)
 
-**LADDER TOTAL: 155 lessons across 18 stages** — the first
+**LADDER TOTAL: 157 lessons across 18 stages** — the first
 52 built 2026-11-05 across 12 stages (5 + 2 + 3 + 6 + 4 + 5 +
 4 + 4 + 5 + 3 + 4 + 7); the catch-up build of 2026-11-06
 added 84 lessons (Levels 53–136) as extensions inside the
@@ -317,7 +319,8 @@ added 2 lessons (Levels 151–152) inside Stages 1 and 6;
 the Mongolia merge of 2026-11-07 added 1 lesson
 (Level 153) inside Stage 6; the Venezuela merge of
 2026-11-07 added 2 lessons (Levels 154–155) inside
-Stages 6 and 12.
+Stages 6 and 12; the North Macedonia merge of 2026-11-07
+added 2 lessons (Levels 156–157) inside Stages 6 and 14.
 
 ## After Stage 12
 The catch-up build of 2026-11-06 closed the recorded gap:

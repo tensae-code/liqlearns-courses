@@ -1,6 +1,6 @@
 # Sources — Conic Sections
 
-countries: Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela
+countries: Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela, North Macedonia
 
 Every part traces to its book and page.
 
@@ -31,6 +31,7 @@ Every part traces to its book and page.
 **Book 22:** *Mathematics — Textbook for Class XI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-486-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendices 1–2, the Answers and the Supplementary Material; nothing is cited from them.
 **Book 23:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 24:** *La Matemática y el Vivir Bien* — Venezuela, Grade 11 (5to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-344-9. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 25:** *МАТЕМАТИКА ЗА III ГОДИНА НА РЕФОРМИРАНОТО ГИМНАЗИСКО ОБРАЗОВАНИЕ* (Mathematics for the third year of the reformed gymnasium education) — North Macedonia, Јорданка Митевска, Иван Трајков и Лилјана Грибовска-Поповиќ (Jordanka Mitevska, Ivan Trajkov & Liljana Gribovska-Popovik), Просветно дело АД, Skopje, II издание (second edition), 2018 printing (its CIP block carries the 2003 first-edition record, ISBN 9989-0-0343-0). Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -103,7 +104,21 @@ Every part traces to its book and page.
 | Worked hyperbola from V(3, 2), V′(2, 2), F(4, 2), F′(1, 2): centre (5/2, 2), a = 1/2, the book's c = 5/2, e = 5, b² = 6 and its equation; then graphed (The book's c = 5/2 is wrong: the vertices give a = 1/2 and the foci F(4, 2) and F′(1, 2) give c = 3/2, so b² = 2 and e = 3; taught corrected.) | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 242–244 |
 | Canonical forms at the origin; general form with A, C of opposite signs: a hyperbola or two intersecting lines; the worked hyperbola expanded to 24x² − y² − 120x + 4y + 140 = 0 | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 244–245 |
 | The four conics as plane sections of a double right circular cone; Menaechmus, Apollonius (the names mean defect, excess, comparison) and Pappus' eccentricity criterion | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed p. 246 |
-**Acceptance count: taught in 18 countries (Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela).**
+
+| Curves of the second order introduced as conic sections; general second-degree equation (4.3 opener) | North Macedonia, Grade 12, Mathematics, printed p. 197 |
+| Mutual position of a line and a circle | North Macedonia, Grade 12, Mathematics, §4.3.2, printed p. 201 |
+| Equation of the tangent and of the normal at a point of a circle | North Macedonia, Grade 12, Mathematics, §4.3.3, printed p. 206 |
+| Ellipse; central (canonical) equation of an ellipse, defined by MF̄₁ + MF̄₂ = 2a, introduced with the string-and-pencil construction | North Macedonia, Grade 12, Mathematics, §4.3.4, printed p. 209 |
+| Mutual position of a line and an ellipse | North Macedonia, Grade 12, Mathematics, §4.3.5, printed p. 214 |
+| Equation of the tangent and normal at a point of an ellipse | North Macedonia, Grade 12, Mathematics, §4.3.6, printed p. 217 |
+| Hyperbola; equation of a hyperbola | North Macedonia, Grade 12, Mathematics, §4.3.7, printed p. 219 |
+| Mutual position of a line and a hyperbola | North Macedonia, Grade 12, Mathematics, §4.3.8, printed p. 225 |
+| Equation of the tangent and normal at a point of a hyperbola | North Macedonia, Grade 12, Mathematics, §4.3.9, printed p. 228 |
+| Parabola; equation of a parabola, defined by MF̄ = MP̄ (focus–directrix), parameter p | North Macedonia, Grade 12, Mathematics, §4.3.10, printed p. 230 |
+| Mutual position of a line and a parabola | North Macedonia, Grade 12, Mathematics, §4.3.11, printed p. 234 |
+| Equation of the tangent and normal at a point of a parabola | North Macedonia, Grade 12, Mathematics, §4.3.12, printed p. 236 |
+| Circle; equation of a circle — the set of points M(x, y) at distance r from the centre S | North Macedonia, Grade 12, Mathematics, §4.3.1, printed p. 197 |
+**Acceptance count: taught in 19 countries (Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela, North Macedonia).** North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
 
 Rwanda teaches conic sections whole in Advanced Mathematics Senior Six Unit 8 — the focus–directrix definition with eccentricity, all three conics with tangents and normals, the polar equation, and applications from planetary orbits to the whispering gallery.
 

@@ -193,6 +193,12 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 81:** *Hecho en Venezuela* — Venezuela, Grade 6 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-308-1. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 82:** *Conciencia Matemática* — Venezuela, Grade 8 (2do año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-320-3. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 83:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 84:** *Математика за второ одделение* (Mathematics for Grade 2) — North Macedonia, Слаѓана Јакимовиќ, Ирена Богданоска и Мендиме Алиу (Slagjana Jakimovik, Irena Bogdanoska & Mendime Aliu), Ministry of Education and Science, Skopje 2023, approval № 26-1668/1 of 09.12.2022, ISBN 978-608-273-355-5. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 85:** *Математика за трето одделение* (Mathematics for Grade 3) — North Macedonia, Татјана Атанасова-Пачемска, Виолета Поповска и Добри Јовевски (Tatjana Atanasova-Pačemska, Violeta Popovska & Dobri Jovevski), Ministry of Education and Science, Skopje 2023, approval № 26-2325/1 of 18.10.2023, ISBN 978-608-273-646-4. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 86:** *Математика за четврто одделение* (Mathematics for Grade 4) — North Macedonia, Татјана Атанасова-Пачемска, Валдета Алија, Виолета Поповска и Добри Јовевски (Tatjana Atanasova-Pačemska, Valdeta Alija, Violeta Popovska & Dobri Jovevski), Ministry of Education and Science, Skopje 2023, II издание (second edition), approval № 26-527/1 of 18.08.2022, ISBN 978-608-273-479-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 87:** *МАТЕМАТИКА ЗА ПЕТТО ОДДЕЛЕНИЕ* (Mathematics for Grade 5) — North Macedonia, Татјана Атанасова-Пачемска, Добри Јовевски, Виолета Поповска и Валдета Алија (Tatjana Atanasova-Pačemska, Dobri Jovevski, Violeta Popovska & Valdeta Alija), Ministry of Education and Science, Skopje 2022, approval № 26-1441/1 of 14.10.2022, ISBN 978-608-273-180-3. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 88:** *МАТЕМАТИКА 6* (Mathematics 6) — North Macedonia, Крутан Расими, Валентина Гоговска и Снежана Ристовска (Krutan Rasimi, Valentina Gogovska & Snežana Ristovska), Ministry of Education and Science, Skopje 2023, approval № 26-2185/1 of 15.09.2023; no ISBN is printed anywhere in the book. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 89:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -308,6 +314,16 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Symmetry types — Reflection symmetry, translation symmetry and rotation symmetry each produced by paper folding and cutting | Venezuela, Hecho en Venezuela (Grade 6), printed pp. 142–144 |
 | Number symmetry — Symmetry in numbers: palindromic (capicúa) numbers, prime palindromes, the palindromic powers of 11 (121, 1.331, 14.641) and the 123…×8+… = 987… pattern | Venezuela, Hecho en Venezuela (Grade 6), printed pp. 146–147 |
 | Pascal's triangle — Yanghui's (Pascal's) triangle introduced as a symmetric number array, with its cross-cultural history | Venezuela, Hecho en Venezuela (Grade 6), printed p. 147 |
+
+| Line of symmetry | North Macedonia, Grade 2, printed p. 114 |
+| Line of symmetry and symmetry in the surroundings | North Macedonia, Grade 3, printed p. 66 |
+| Recognising and drawing lines of symmetry of 2D shapes | North Macedonia, Grade 3, printed p. 66 |
+| Symmetry — Симетрија | North Macedonia, Grade 4, printed p. 141 |
+| Symmetry — Цртање Симетрични Форми Во Координатна Мрежа | North Macedonia, Grade 4, printed p. 155 |
+| Symmetry — Осна Симетрија | North Macedonia, Grade 5, printed p. 107 |
+| Осна симетрија во однос на координатни оски — reflection in the coordinate axes | North Macedonia, Grade 6, Theme 2, printed p. 188 |
+| Осна симетрија во однос на прави паралелни на оските — reflection in lines parallel to the axes | North Macedonia, Grade 6, Theme 2, printed p. 193 |
+| Axial symmetry in the coordinate plane (axes and lines parallel to them) | North Macedonia, Grade 7, Theme 2, printed p. 223 |
 
 **Acceptance count: taught in 31 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, India, Mongolia, Venezuela).**.** Greece carries symmetry from the very start Iran completes the missing halves of pictures in Grade 1, folds and mirrors shapes in Grade 2, names axial and central symmetry in Grade 5, and adds the centre of symmetry and rotation in Grade 6.
 — folding and mirror completion in Grade 1, the fold-along-the-

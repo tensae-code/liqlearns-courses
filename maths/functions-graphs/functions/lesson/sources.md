@@ -169,6 +169,8 @@ CITATION CHECK PASSED 2026-11-05).
 **Book 99:** *Conciencia Matemática* — Venezuela, Grade 8 (2do año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-320-3. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 100:** *La Matemática de la Belleza* — Venezuela, Grade 9 (3er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-329-6. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 101:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 102:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 103:** *МАТЕМАТИКА II* (Mathematics II — textbook for the second year of gymnasium education) — North Macedonia, Д-р Верица Бакева Смиљкова и проф. Горан Михајлоски (Dr Verica Bakeva Smilkova & Prof. Goran Mihajloski), АЛБИ (Albi), Skopje 2026, first edition, approval № 26-644/1 of 21.05.2026, ISBN 978-608-241-093-7. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -370,6 +372,14 @@ CITATION CHECK PASSED 2026-11-05).
 | Constant function f(x) = 4.06 as a model; a relation where each input has one output is a function | Venezuela, Naturaleza Matemática (Grade 10), printed p. 102 |
 | Inverse function defined for a bijective f; injectivity by the horizontal-line test, surjectivity | Venezuela, Naturaleza Matemática (Grade 10), printed p. 122 |
 | A graph cuts the x-axis ⇔ real roots/zeros; a rational function zero at its numerator's zero only | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 136–137 |
+
+| Functions: dependence, f(x), words/table/formula/graph; piecewise discount function | North Macedonia, Grade 7, Theme 3, printed p. 264 |
+| Quadratic function; graph of f(x) = x² | North Macedonia, Grade 11, §3.1, printed p. 114 |
+| Graphs of f(x) = ax² and f(x) = ax² + c | North Macedonia, Grade 11, §3.2, printed p. 118 |
+| Canonical (vertex) form y = a(x−α)² + β and its graph | North Macedonia, Grade 11, §3.3, printed p. 123 |
+| Graph of f(x) = ax² + bx + c | North Macedonia, Grade 11, §3.4, printed p. 127 |
+| Properties of the quadratic function | North Macedonia, Grade 11, §3.5, printed p. 131 |
+| Course (behaviour) and graph of the quadratic function, full sketch routine | North Macedonia, Grade 11, §3.6, printed p. 138 |
 
 **Acceptance count: taught in 28 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela).**.** Egypt carries the
 fullest build — Cartesian product, relation, function, domain

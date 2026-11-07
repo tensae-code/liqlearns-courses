@@ -1,6 +1,6 @@
 # Sources — The Laws of Arithmetic Operations
 
-countries: Malaysia, Sudan, India, Mongolia, Venezuela
+countries: Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia
 
 Every part traces to its book and page.
 
@@ -24,6 +24,11 @@ Every part traces to its book and page.
 **Book 13:** *Математик X (Mathematics, Grade 10)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 14:** *Triángulos, rectángulos y algo más...* — Venezuela, Grade 2 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-294-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 15:** *Matemática Para La Vida* — Venezuela, Grade 7 (1er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-322-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 16:** *Математика за второ одделение* (Mathematics for Grade 2) — North Macedonia, Слаѓана Јакимовиќ, Ирена Богданоска и Мендиме Алиу (Slagjana Jakimovik, Irena Bogdanoska & Mendime Aliu), Ministry of Education and Science, Skopje 2023, approval № 26-1668/1 of 09.12.2022, ISBN 978-608-273-355-5. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 17:** *Математика за трето одделение* (Mathematics for Grade 3) — North Macedonia, Татјана Атанасова-Пачемска, Виолета Поповска и Добри Јовевски (Tatjana Atanasova-Pačemska, Violeta Popovska & Dobri Jovevski), Ministry of Education and Science, Skopje 2023, approval № 26-2325/1 of 18.10.2023, ISBN 978-608-273-646-4. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 18:** *Математика за четврто одделение* (Mathematics for Grade 4) — North Macedonia, Татјана Атанасова-Пачемска, Валдета Алија, Виолета Поповска и Добри Јовевски (Tatjana Atanasova-Pačemska, Valdeta Alija, Violeta Popovska & Dobri Jovevski), Ministry of Education and Science, Skopje 2023, II издание (second edition), approval № 26-527/1 of 18.08.2022, ISBN 978-608-273-479-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 19:** *МАТЕМАТИКА ЗА ПЕТТО ОДДЕЛЕНИЕ* (Mathematics for Grade 5) — North Macedonia, Татјана Атанасова-Пачемска, Добри Јовевски, Виолета Поповска и Валдета Алија (Tatjana Atanasova-Pačemska, Dobri Jovevski, Violeta Popovska & Valdeta Alija), Ministry of Education and Science, Skopje 2022, approval № 26-1441/1 of 14.10.2022, ISBN 978-608-273-180-3. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 20:** *МАТЕМАТИКА 6* (Mathematics 6) — North Macedonia, Крутан Расими, Валентина Гоговска и Снежана Ристовска (Krutan Rasimi, Valentina Gogovska & Snežana Ristovska), Ministry of Education and Science, Skopje 2023, approval № 26-2185/1 of 15.09.2023; no ISBN is printed anywhere in the book. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
 On Malaysia in this lesson: Malaysia is the first country whose book names the four laws as one named set and drills choosing the fastest calculation order with them. The laws themselves appear inside other lessons of this course (the real-number-system lesson states them as part of its climb; the order-of-operations lesson rests on them); this lesson is the laws' own home, built from Malaysia's Form 1 treatment under the everything-goes-in ruling.
 
@@ -72,7 +77,20 @@ On Malaysia in this lesson: Malaysia is the first country whose book names the f
 | Rational multiplication — Multiplication in Q is commutative and associative ((2/5 · −1/3) · −3/8 = 1/20 under both groupings) | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 103–104 |
 | Unit fractions — The unit fraction a/a = 1 is the multiplicative neutral element written as a fraction | Venezuela, Matemática Para La Vida (Grade 7), printed p. 105 |
 | Opposites — Every rational has an additive inverse: a/b + (−a/b) = 0 | Venezuela, Matemática Para La Vida (Grade 7), printed p. 106 |
-**Acceptance count: taught in 5 countries (Malaysia, Sudan, India, Mongolia, Venezuela).** Malaysia's Form 1 book states the four laws in one section and applies them to efficient calculation; the other read countries use the laws inside their number work without naming the set, so this lesson is built at that honest size — one country's named treatment, not a merged one.
+
+| Swapping the addends — commutativity of addition | North Macedonia, Grade 2, printed p. 48 |
+| Different order of multiplication — commutativity of × | North Macedonia, Grade 2, printed p. 76 |
+| The commutative property (of addition, named as a property) | North Macedonia, Grade 3, printed p. 102 |
+| The commutative property of multiplication | North Macedonia, Grade 3, printed p. 149 |
+| Commutative / associative / distributive laws — Комутативно И Асоцијативно Својство При Собирањето | North Macedonia, Grade 4, printed p. 189 |
+| Applying the commutative and associative laws in addition — Собирањето | North Macedonia, Grade 4, printed p. 191 |
+| Commutative / associative / distributive laws — Комутативно Својство На Собирањето | North Macedonia, Grade 5, printed p. 130 |
+| Commutative / associative / distributive laws — Асоцијативно Својство На Собирањето | North Macedonia, Grade 5, printed p. 131 |
+| Commutative / associative / distributive laws — Комутативно Својство Кај Множењето | North Macedonia, Grade 5, printed p. 170 |
+| Commutative / associative / distributive laws — Асоцијативно Својство Кај Множењето | North Macedonia, Grade 5, printed p. 171 |
+| Commutative / associative / distributive laws — Дистрибутивно Својство Кај Множењето | North Macedonia, Grade 5, printed p. 172 |
+| Својства на множењето во N₀ — commutative, associative, distributive over + and − | North Macedonia, Grade 6, Theme 3, printed p. 225 |
+**Acceptance count: taught in 6 countries (Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia).** Malaysia's Form 1 book states the four laws in one section and applies them to efficient calculation; the other read countries use the laws inside their number work without naming the set, so this lesson is built at that honest size — one country's named treatment, not a merged one. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
 
 Sudan names the laws early and revisits them at every level: commutativity of addition shown with pictures in Grade 1, the distributive property and the relations between the four operations in Grade 3, the properties of addition and of multiplication in the integers in Grade 6 and again in Grade 7, and the full table on the reals in Grade 8 — closure, commutativity, associativity, identities, inverses, cancellation and distributivity checked system by system, with the book's condition-free cancellation corrected in the table above. Malaysia still carries the lesson's founding treatment; Sudan is its widest primary-to-secondary thread.
 

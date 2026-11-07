@@ -1,6 +1,6 @@
 # Sources — Relations
 
-countries: Libya, Yemen, Bangladesh, Kuwait, Laos, Malaysia, Rwanda, Sudan, India
+countries: Libya, Yemen, Bangladesh, Kuwait, Laos, Malaysia, Rwanda, Sudan, India, North Macedonia
 
 Every part traces to its book and page.
 
@@ -22,6 +22,7 @@ Every part traces to its book and page.
 **Book 11:** *Mathematics, Grade 10 (First Year Secondary)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, Arabic; no edition or year is printed in the book. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 12:** *Mathematics — Textbook for Class XI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-486-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendices 1–2, the Answers and the Supplementary Material; nothing is cited from them.
 **Book 13:** *Mathematics — Textbook for Class XII, Parts I–II* (ONE work in two volumes: continuous chapters 1–13 and continuous printed pagination 1–587) — India, NCERT, New Delhi, first edition November 2006, 2020-21 printing; Part I ISBN 81-7450-629-2 (Part II prints no ISBN). Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy of Part I lacks its appendices, answers and supplementary material, and the held copy of Part II has no front matter; nothing is cited from either.
+**Book 14:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -60,7 +61,9 @@ Every part traces to its book and page.
 | Special relations — empty relation and universal relation in a set | India, Mathematics Class 12 Part I, printed p. 2 |
 | Properties of relations — reflexive, symmetric and transitive relations defined | India, Mathematics Class 12 Part I, printed p. 2 |
 | Equivalence relations — equivalence relation defined; equivalence classes in the chapter Summary | India, Mathematics Class 12 Part I, printed p. 3 |
-**Acceptance count: taught in 9 countries (Libya, Yemen, Bangladesh, Kuwait, Laos, Malaysia, Rwanda, Sudan, India).** Libya carries the full binary-relations treatment — Cartesian product, equality of relations, domain and range, inverse relation — as the closing part of its Grade 10 sets chapter (printed pp. 9–43), the ground from which it then defines functions. Yemen carries the topic twice: in Grade 7 as the staircase ordered pair → Cartesian product (with S × T ≠ T × S) → relations (printed pp. 32, 34, 37), and in Grade 9 with transitive relations and equivalence relations as named lessons (printed pp. 17, 25) ahead of its function lesson. Bangladesh, Kuwait and Laos each carry the Cartesian product and relations material as a minor row — Bangladesh in one section (§1.9, printed p. 24), Kuwait inside its Grade 8 sets-and-relations unit (printed pp. 15–67), Laos inside its Grade 10 sets lessons (printed pp. 30–52) — and they are counted here as minor, exactly as filed.
+
+| Ordered pairs, A×B, Cartesian scheme (Декартова шема), A² | North Macedonia, Grade 7, Theme 1, printed p. 21 |
+**Acceptance count: taught in 10 countries (Libya, Yemen, Bangladesh, Kuwait, Laos, Malaysia, Rwanda, Sudan, India, North Macedonia).** Libya carries the full binary-relations treatment — Cartesian product, equality of relations, domain and range, inverse relation — as the closing part of its Grade 10 sets chapter (printed pp. 9–43), the ground from which it then defines functions. Yemen carries the topic twice: in Grade 7 as the staircase ordered pair → Cartesian product (with S × T ≠ T × S) → relations (printed pp. 32, 34, 37), and in Grade 9 with transitive relations and equivalence relations as named lessons (printed pp. 17, 25) ahead of its function lesson. Bangladesh, Kuwait and Laos each carry the Cartesian product and relations material as a minor row — Bangladesh in one section (§1.9, printed p. 24), Kuwait inside its Grade 8 sets-and-relations unit (printed pp. 15–67), Laos inside its Grade 10 sets lessons (printed pp. 30–52) — and they are counted here as minor, exactly as filed. North Macedonia enters from its main set — Grade 7 (2025).
 
 Additional Mathematics Form 4 opens with relations met in everyday situations, on the way to functions. (The classification of relations into their four types is Malaysia's Form 2 work and is filed under functions.)
 

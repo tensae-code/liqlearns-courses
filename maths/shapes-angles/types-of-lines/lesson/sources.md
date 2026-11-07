@@ -1,6 +1,6 @@
 # Sources — Types of Lines
 
-countries: Rwanda, India, Mongolia, Venezuela
+countries: Rwanda, India, Mongolia, Venezuela, North Macedonia
 
 Every part traces to its book and page.
 
@@ -16,6 +16,11 @@ Every part traces to its book and page.
 **Book 10:** *Contando con los recursos* — Venezuela, Grade 4 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-305-0. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 11:** *Matemática Para La Vida* — Venezuela, Grade 7 (1er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-322-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 12:** *Conciencia Matemática* — Venezuela, Grade 8 (2do año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-320-3. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 13:** *Математика за второ одделение* (Mathematics for Grade 2) — North Macedonia, Слаѓана Јакимовиќ, Ирена Богданоска и Мендиме Алиу (Slagjana Jakimovik, Irena Bogdanoska & Mendime Aliu), Ministry of Education and Science, Skopje 2023, approval № 26-1668/1 of 09.12.2022, ISBN 978-608-273-355-5. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 14:** *Математика за трето одделение* (Mathematics for Grade 3) — North Macedonia, Татјана Атанасова-Пачемска, Виолета Поповска и Добри Јовевски (Tatjana Atanasova-Pačemska, Violeta Popovska & Dobri Jovevski), Ministry of Education and Science, Skopje 2023, approval № 26-2325/1 of 18.10.2023, ISBN 978-608-273-646-4. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 15:** *Математика за четврто одделение* (Mathematics for Grade 4) — North Macedonia, Татјана Атанасова-Пачемска, Валдета Алија, Виолета Поповска и Добри Јовевски (Tatjana Atanasova-Pačemska, Valdeta Alija, Violeta Popovska & Dobri Jovevski), Ministry of Education and Science, Skopje 2023, II издание (second edition), approval № 26-527/1 of 18.08.2022, ISBN 978-608-273-479-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 16:** *МАТЕМАТИКА ЗА ПЕТТО ОДДЕЛЕНИЕ* (Mathematics for Grade 5) — North Macedonia, Татјана Атанасова-Пачемска, Добри Јовевски, Виолета Поповска и Валдета Алија (Tatjana Atanasova-Pačemska, Dobri Jovevski, Violeta Popovska & Valdeta Alija), Ministry of Education and Science, Skopje 2022, approval № 26-1441/1 of 14.10.2022, ISBN 978-608-273-180-3. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 17:** *МАТЕМАТИКА 6* (Mathematics 6) — North Macedonia, Крутан Расими, Валентина Гоговска и Снежана Ристовска (Krutan Rasimi, Valentina Gogovska & Snežana Ristovska), Ministry of Education and Science, Skopje 2023, approval № 26-2185/1 of 15.09.2023; no ISBN is printed anywhere in the book. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
 On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of lines in the first pages of its Unit 10, "Types of lines and angles" — the angle half of that unit lives in the angles lesson; this lesson is the lines half. It is a Primary 2 topic taught with pictures and naming activities, so the lesson is built at that honest, small size.
 
@@ -65,7 +70,17 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 | Rays — Rays (semirrectas): a line split by its origin point into two rays, written with the origin first under a one-way arrow | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 134–135 |
 | Curved lines — Other line kinds shown: regular and irregular curved lines, open polygonal (broken) lines | Venezuela, Matemática Para La Vida (Grade 7), printed p. 135 |
 
-**Acceptance count: taught in 4 countries (Rwanda, India, Mongolia, Venezuela).** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; no other read country gives line types a named treatment of their own, so this lesson is built at that honest size — a small lesson, complete for what its one source teaches.
+| Point and straight line (точка и права) | North Macedonia, Grade 2, printed p. 27 |
+| Open and closed broken (polygonal) lines | North Macedonia, Grade 2, printed p. 28 |
+| The segment (отсечка) — a part of a line with two end points | North Macedonia, Grade 3, printed p. 47 |
+| Lines, rays and planes — Полуправа | North Macedonia, Grade 4, printed p. 105 |
+| Lines, rays and planes — Прави Рамнина, Паралелни Прави, Нормални Прави, Прави Кои Се Сечат | North Macedonia, Grade 5, printed p. 70 |
+| Lines, rays and planes — Рамнина | North Macedonia, Grade 5, printed p. 70 |
+| Lines, rays and planes — Прави Кои Се Сечат, Нормални Прави И Паралелни Прави | North Macedonia, Grade 5, printed p. 72 |
+| Права, полуправа, отсечка — line, ray, segment; segment length | North Macedonia, Grade 6, Theme 2, printed p. 101 |
+| Заемно паралелни и заемно нормални прави — parallel and perpendicular lines; drawing with set square | North Macedonia, Grade 6, Theme 2, printed p. 109 |
+
+**Acceptance count: taught in 5 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia).** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; no other read country gives line types a named treatment of their own, so this lesson is built at that honest size — a small lesson, complete for what its one source teaches. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
 
 India stocks types of lines from Math-Magic Class 2 and Mathematics Class 6–7, 9: standing, slanting, sleeping lines; point and line; intersecting lines and their point of intersection; basic terms.
 

@@ -324,6 +324,12 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 169:** *Contando con los recursos* — Venezuela, Grade 4 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-305-0. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 170:** *La Patria Buena* — Venezuela, Grade 5 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-306-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 171:** *Matemática Para La Vida* — Venezuela, Grade 7 (1er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-322-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 172:** *Математика за второ одделение* (Mathematics for Grade 2) — North Macedonia, Слаѓана Јакимовиќ, Ирена Богданоска и Мендиме Алиу (Slagjana Jakimovik, Irena Bogdanoska & Mendime Aliu), Ministry of Education and Science, Skopje 2023, approval № 26-1668/1 of 09.12.2022, ISBN 978-608-273-355-5. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 173:** *Математика за трето одделение* (Mathematics for Grade 3) — North Macedonia, Татјана Атанасова-Пачемска, Виолета Поповска и Добри Јовевски (Tatjana Atanasova-Pačemska, Violeta Popovska & Dobri Jovevski), Ministry of Education and Science, Skopje 2023, approval № 26-2325/1 of 18.10.2023, ISBN 978-608-273-646-4. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 174:** *Математика за четврто одделение* (Mathematics for Grade 4) — North Macedonia, Татјана Атанасова-Пачемска, Валдета Алија, Виолета Поповска и Добри Јовевски (Tatjana Atanasova-Pačemska, Valdeta Alija, Violeta Popovska & Dobri Jovevski), Ministry of Education and Science, Skopje 2023, II издание (second edition), approval № 26-527/1 of 18.08.2022, ISBN 978-608-273-479-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 175:** *МАТЕМАТИКА ЗА ПЕТТО ОДДЕЛЕНИЕ* (Mathematics for Grade 5) — North Macedonia, Татјана Атанасова-Пачемска, Добри Јовевски, Виолета Поповска и Валдета Алија (Tatjana Atanasova-Pačemska, Dobri Jovevski, Violeta Popovska & Valdeta Alija), Ministry of Education and Science, Skopje 2022, approval № 26-1441/1 of 14.10.2022, ISBN 978-608-273-180-3. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 176:** *МАТЕМАТИКА 6* (Mathematics 6) — North Macedonia, Крутан Расими, Валентина Гоговска и Снежана Ристовска (Krutan Rasimi, Valentina Gogovska & Snežana Ristovska), Ministry of Education and Science, Skopje 2023, approval № 26-2185/1 of 15.09.2023; no ISBN is printed anywhere in the book. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 177:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -677,6 +683,50 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Scaling — Mean monthly consumption by scaling a daily mean: 17,4 g × 30 days = 522 g | Venezuela, Matemática Para La Vida (Grade 7), printed p. 99 |
 | Surveying — Planimetric surveying by triangulation named as the reason notable lines of a triangle matter (developed in later years as trigonometry) | Venezuela, Matemática Para La Vida (Grade 7), printed p. 181 |
 | Agrarian units — Agrarian measures: the área = 100 m², the hectárea = 100 áreas = 10.000 m², the centiárea = 1 m² (the definition sentence on this page conflates área and hectárea — see the band draft's suspected error 7) | Venezuela, Matemática Para La Vida (Grade 7), printed p. 195 |
+
+| Measuring length in metres and centimetres — first standard units | North Macedonia, Grade 2, printed p. 124 |
+| Measuring mass in kilograms | North Macedonia, Grade 2, printed p. 128 |
+| Measuring capacity in litres | North Macedonia, Grade 2, printed p. 131 |
+| Measuring length — metre and centimetre | North Macedonia, Grade 3, printed p. 177 |
+| Measuring length — the decimetre introduced (1 dm = 10 cm) | North Macedonia, Grade 3, printed p. 180 |
+| Measuring mass — kilogram and gram | North Macedonia, Grade 3, printed p. 184 |
+| Measuring liquids — litre and decilitre | North Macedonia, Grade 3, printed p. 189 |
+| Appendix: measuring instruments for mass, length and capacity (picture reference, incl. standard vs non-standard string/rope comparison sheet) | North Macedonia, Grade 3, printed p. 231 |
+| Measuring length — Мериме Должина – Метaр, Центиметaр | North Macedonia, Grade 4, printed p. 285 |
+| Measuring length — 4 Мериме Должина – Децимeтар | North Macedonia, Grade 4, printed p. 287 |
+| Measuring length — Мериме Должина – Милиметар | North Macedonia, Grade 4, printed p. 288 |
+| Measuring length — Мериме Должина – Киломeтар | North Macedonia, Grade 4, printed p. 289 |
+| Measuring mass — Мериме Маса – Грам | North Macedonia, Grade 4, printed p. 292 |
+| Measuring mass — Мериме Маса – Килограм | North Macedonia, Grade 4, printed p. 294 |
+| Measuring mass — Мериме Маса – Мерни Единици За Маса | North Macedonia, Grade 4, printed p. 296 |
+| Measuring mass — Мериме Маса – Решавање Проблемски Ситуации Со Маса | North Macedonia, Grade 4, printed p. 298 |
+| Measuring capacity (liquids) — Мериме Течности – Литар | North Macedonia, Grade 4, printed p. 300 |
+| Measuring capacity (liquids) — Мериме Течности – Децилитар, Центилитар | North Macedonia, Grade 4, printed p. 301 |
+| Measuring mass — measure units for mass (contents lists this lesson a second time at p. 302, inside the liquids section; the lesson actually printed on p. 302 is the millilitre — next line) | North Macedonia, Grade 4, printed p. 302 |
+| Measuring liquids — millilitre; 1 l = 1000 ml, 500 ml = 0,5 l (contents repeats the mass-units title at this page — the lesson on the page is the millilitre) — Мериме Течности – Милилитар | North Macedonia, Grade 4, printed p. 302 |
+| Measuring capacity (liquids) — Течност | North Macedonia, Grade 4, printed p. 304 |
+| Length units — centimetre, decimetre, metre, kilometre — Должина | North Macedonia, Grade 5, printed p. 240 |
+| Length units — centimetre, decimetre, metre, kilometre — Центиметар, Дециметар, Метар, Километар | North Macedonia, Grade 5, printed p. 240 |
+| Measuring mass — Маса | North Macedonia, Grade 5, printed p. 243 |
+| Measuring mass — Мериме Маса – Килограм, Грам | North Macedonia, Grade 5, printed p. 243 |
+| Measuring mass — decagram (dag) — Декаграм | North Macedonia, Grade 5, printed p. 245 |
+| Measuring mass — tonne (t) — Тон | North Macedonia, Grade 5, printed p. 246 |
+| Measuring capacity (liquids) — Зафатнина | North Macedonia, Grade 5, printed p. 247 |
+| Measuring capacity (liquids) — Мериме Зафатнина – Литар, Децилитар, Центилитар, Милилитар | North Macedonia, Grade 5, printed p. 247 |
+| Measuring length — Должина, Маса И Зафатнина | North Macedonia, Grade 5, printed p. 250 |
+| Named (compound) measure numbers and conversion — Именувани Броеви – Едноимени И Повеќеимени | North Macedonia, Grade 5, printed p. 250 |
+| Converting between measure units — Претворање Во Соодветни Мерни Единици | North Macedonia, Grade 5, printed p. 252 |
+| Собирање и одземање должини на отсечки — adding/subtracting segment lengths, arithmetically and graphically | North Macedonia, Grade 6, Theme 2, printed p. 105 |
+| Должина; мерки за должина — full metric ladder km–mm incl. dam and hm; conversions | North Macedonia, Grade 6, Theme 4, printed p. 297 |
+| Маса; мерки за маса — t, kg, hg, dag, g, dg, cg, mg; conversions | North Macedonia, Grade 6, Theme 4, printed p. 300 |
+| Зафатнина; мерки за зафатнина — kℓ, hℓ, daℓ, ℓ, dℓ, cℓ, mℓ; conversions | North Macedonia, Grade 6, Theme 4, printed p. 303 |
+| Едноимени броеви — single-name measured numbers and converting them | North Macedonia, Grade 6, Theme 4, printed p. 306 |
+| Повеќеимени броеви — multi-name numbers; single-name ↔ multi-name conversion | North Macedonia, Grade 6, Theme 4, printed p. 308 |
+| Споредување мерења — comparing measurements of length, mass and capacity | North Macedonia, Grade 6, Theme 4, printed p. 311 |
+| Проценување должина, маса и зафатнина — estimating measures; judging deliberately wrong estimates | North Macedonia, Grade 6, Theme 4, printed p. 313 |
+| Length instruments analogue and digital; estimating before measuring | North Macedonia, Grade 7, Theme 4, printed p. 277 |
+| The micron (µm): converting µm ↔ mm ↔ cm; stacking 1.2 mm layers in a 2 cm box | North Macedonia, Grade 7, Theme 4, printed p. 280 |
+| Mass instruments and unit conversions | North Macedonia, Grade 7, Theme 4, printed p. 285 |
 
 **Acceptance count: taught in 33 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela).**.** Sierra Leone carries the cleanest Iran compares longer and shorter and heavier and lighter in Grade 1 — the heavier-marking activity is at printed p. 168 — reads the clock there too, and measures length in centimetres and millimetres in Grade 2.
 single ladder — length, mass and volume distinguished, then the

@@ -288,6 +288,8 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 130:** *Conciencia Matemática* — Venezuela, Grade 8 (2do año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-320-3. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 131:** *La Matemática de la Belleza* — Venezuela, Grade 9 (3er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-329-6. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 132:** *La Matemática y el Vivir Bien* — Venezuela, Grade 11 (5to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-344-9. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 133:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 134:** *МАТЕМАТИКА II* (Mathematics II — textbook for the second year of gymnasium education) — North Macedonia, Д-р Верица Бакева Смиљкова и проф. Горан Михајлоски (Dr Verica Bakeva Smilkova & Prof. Goran Mihajloski), АЛБИ (Albi), Skopje 2026, first edition, approval № 26-644/1 of 21.05.2026, ISBN 978-608-241-093-7. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -511,6 +513,17 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Unit cubes — Volume as space occupied, measured in unit cubes; mm³, cm³, dm³, m³ as cubes of that edge | Venezuela, Hecho en Venezuela (Grade 6), printed pp. 79–80 |
 | Volume conversions — Volume units step by 1.000: conversions 25 m³ = 25.000.000 cm³; 313 cm³ = 313.000 mm³; 7 cm³ = 0,000007 m³ | Venezuela, Hecho en Venezuela (Grade 6), printed p. 81 (the prose rule misprints the second step — see band draft, suspected error 12; cross-reference corrected at citation check) |
 | Capacity — Capacity vs volume: 1 l = 1.000 cm³; the litre as a 10 cm cube (10 × 10 × 10 = 1.000 cm³); ½ l = 500 cm³, ¼ l = 250 cm³ | Venezuela, Hecho en Venezuela (Grade 6), printed p. 82 |
+
+| Measuring capacity (зафатнина): мензура, litre units incl. kℓ and hℓ | North Macedonia, Grade 7, Theme 4, printed p. 289 |
+| Volume and its units: the ×1000 ladder, 1 ℓ = 1 dm³ | North Macedonia, Grade 7, Theme 4, printed p. 321 |
+| Volume of cuboid V = a·b·c and cube V = a³ | North Macedonia, Grade 7, Theme 4, printed p. 326 |
+| Surface area of cube and cuboid from their nets, P = 2(ab + ac + bc) | North Macedonia, Grade 7, Theme 4, printed p. 330 |
+| Surface area and volume of a pyramid, P = B + M | North Macedonia, Grade 11, §6.6, printed p. 290 |
+| Surface area and volume of a truncated (frustum) pyramid | North Macedonia, Grade 11, §6.7, printed p. 296 |
+| Surface area and volume of a cone | North Macedonia, Grade 11, §6.8, printed p. 302 |
+| Surface area and volume of a truncated cone (frustum) | North Macedonia, Grade 11, §6.9, printed p. 306 |
+| Surface area of a sphere and parts of a sphere | North Macedonia, Grade 11, §6.10, printed p. 312 |
+| Volume of a ball and its parts | North Macedonia, Grade 11, §6.11, printed p. 319 |
 
 **Acceptance count: taught in 34 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela).**.** Sierra Leone carries the cleanest Iran gives the cuboid's volume in Grade 5, prism volumes and the cylinder's lateral area in Grade 7, and the sphere, pyramid and cone in Grade 9; its Grade 10 Geometry (1) treats the solids themselves without computing their volumes.
 ladder — cubes, prisms and cylinders by cross-section × height,
