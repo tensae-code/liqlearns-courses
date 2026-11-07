@@ -19,3 +19,9 @@ Say true or false. If it is false, say why.
 
 **6. (Level 3)** When proving an identity you may move terms across the equals sign as with an equation.
 **Answer:** False — work one side into the other; moving terms assumes the very thing to be proved.
+
+**7. (Level 2)** Egypt's Pure Mathematics Grade 11 book teaches the half-angle identities as a lesson.
+**Answer:** False — its Unit 4 carries sum/difference (lesson 4-2) and the double angle (lesson 4-3) only; the filing states there is no half-angle or triple-angle lesson.
+
+**8. (Level 3)** If α + β + γ = π, then tan α + tan β + tan γ = tan α tan β tan γ.
+**Answer:** True — the triangle identity in Kazakhstan's Abylkasymova consolidation section (Algebra 9, Part 2, §29, printed p. 89).

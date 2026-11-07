@@ -25,3 +25,15 @@ Answer in a word or a short line.
 
 **8. (Level 3)** Give sin 18° exactly (Laos's exercise prize).
 **Answer:** (√5 − 1)/4 — from sin 2θ = cos 3θ at θ = 18°.
+
+**9. (Level 2)** How do three of Kazakhstan's Grade 9 Algebra books prove cos(α − β)?
+**Answer:** By the scalar (dot) product of vectors — Shynybekov (§4.5), Abylkasymova (Part 2, §24) and Soltan (§26) all prove it this way, as Laos does.
+
+**10. (Level 3)** Write sin 2α using tan α alone (the universal substitution).
+**Answer:** sin 2α = 2 tan α/(1 + tan²α) — Kazakhstan's Soltan book names this form (Algebra 9, §27, printed p. 201).
+
+**11. (Level 2)** Which two lessons carry the identities work in Egypt's Pure Mathematics Grade 11, Term 2, Unit 4?
+**Answer:** Lesson 4-2, trig functions of the sum and difference of two angles (printed p. 121), and lesson 4-3, trig functions of the double angle (printed p. 128) — double angle only; there is no half-angle lesson.
+
+**12. (Level 1)** Given cos θ = 4/5 with θ acute, find sin θ the way Iran's Grade 10 book does it.
+**Answer:** 3/5 — from the fundamental identity sin²θ + cos²θ = 1, positive in the first quadrant (Mathematics (1), printed pp. 42–46).

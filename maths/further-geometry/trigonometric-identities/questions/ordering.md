@@ -10,3 +10,6 @@ Put the items in the order asked. Check each step before you write the answer.
 
 **3. (Level 3)** Put these proof steps for tan²β/(sec β − 1) = sec β + 1 in order: (a) cancel (sec β − 1), (b) write tan²β = sec²β − 1, (c) factor sec²β − 1 as (sec β − 1)(sec β + 1).
 **Answer:** (b) write tan²β = sec²β − 1, (c) factor, (a) cancel — Nicaragua's worked order (Unit 3).
+
+**4. (Level 2)** Put Abylkasymova's formula-cycle sections in the book's order: (a) sum-to-product (§27), (b) basic identities (§22), (c) addition formulas (§24), (d) double-angle and half-angle (§26).
+**Answer:** (b) basic identities, (c) addition formulas, (d) double-angle and half-angle, (a) sum-to-product — the cycle's order in Kazakhstan's Abylkasymova Algebra 9, Part 2.

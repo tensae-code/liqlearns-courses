@@ -33,3 +33,19 @@ a) 24/25  b) −24/25  c) −7/25
 **8. (Level 3)** cot(−225°) = —
 a) 1  b) −1  c) 0
 **Answer:** b) −1 — coterminal with 135°, second quadrant, where cotangent is negative; taught corrected (Pakistan prints 1 at p. 184).
+
+**9. (Level 3)** The greatest value of cos α − √3 sin α is —
+a) 1  b) √3  c) 2
+**Answer:** c) 2 — the expression rewrites as 2cos(α + π/6), a single term of amplitude 2 (Kazakhstan, Shynybekov Algebra 9, §4.5).
+
+**10. (Level 2)** cos 15° = —
+a) (√6 − √2)/4  b) (√6 + √2)/4  c) √3/2
+**Answer:** b) (√6 + √2)/4 — derived from the double-angle block in Iran's Grade 12 Experimental book (Mathematics (3), printed p. 43).
+
+**11. (Level 1)** 1 + tan²θ = —
+a) sec²θ  b) csc²θ  c) cos²θ
+**Answer:** a) sec²θ — one of the basic identities Egypt's Grade 10 book simplifies with (Term 2, Unit 5, lesson 5-1).
+
+**12. (Level 3)** tan(π/8) = —
+a) √2 + 1  b) √2 − 1  c) 1
+**Answer:** b) √2 − 1 — the half-angle value worked in Kazakhstan's Abylkasymova Algebra 9 (Part 2, §26).

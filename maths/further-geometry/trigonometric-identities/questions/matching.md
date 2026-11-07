@@ -13,3 +13,6 @@ Match each item on the left to its partner on the right.
 
 **4. (Level 3)** Match each expression to its single-term or product form: (a) sin A + sin B (b) 3cos θ + 4sin θ (c) 2 sin A cos B — sin(A + B) + sin(A − B), 2 sin((A + B)/2)cos((A − B)/2), R cos(θ − φ) with R = 5
 **Answer:** a) 2 sin((A + B)/2)cos((A − B)/2), b) R cos(θ − φ) with R = 5, c) sin(A + B) + sin(A − B) — sum-to-product, Libya's single term, product-to-sum.
+
+**5. (Level 2)** Match each book to its own move: (a) Yelemessov, Algebra 9 (Kazakhstan) (b) Soltan, Algebra 9 (Kazakhstan) (c) Mathematics (3), Grade 12 (Iran) (d) Mathematics, Grade 12 (Jordan) — the universal substitution for double angles, two full lessons on proving identities, the sine formula proved from a triangle's area, a double-angle block that derives cos 15°
+**Answer:** a) the sine formula proved from a triangle's area, b) the universal substitution for double angles, c) a double-angle block that derives cos 15°, d) two full lessons on proving identities — each country's own way, as filed.

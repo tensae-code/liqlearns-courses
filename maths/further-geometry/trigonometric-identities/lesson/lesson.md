@@ -1,7 +1,7 @@
 # Trigonometric identities — the lesson
 
 Course: Maths · Stage: Stage 9 — Further Geometry · Lesson: Trigonometric identities
-Built from: Pakistan (Punjab), Class 11, Unit 10 — Libya, Grade 12 Science, Ch. 2 — Yemen, Grade 11 Science Part 2, Unit 9 — Laos, Grade 10, Ch. IX — China, Compulsory Volume 3 (B edition), §8.2 — Armenia, Grade 10, Ch. 4 — Kuwait, Grades 10 and 11 Term 2 — Vietnam, Grade 11, Bài 2 — Cambodia, Grade 11 Basic, Ch. 3 — Indonesia, Grade 11 Tingkat Lanjut Revisi — Ethiopia, Grade 10, Ch. 4 — Nicaragua, Grade 10
+Built from: Pakistan (Punjab), Class 11, Unit 10 — Libya, Grade 12 Science, Ch. 2 — Yemen, Grade 11 Science Part 2, Unit 9 — Laos, Grade 10, Ch. IX — China, Compulsory Volume 3 (B edition), §8.2 — Armenia, Grade 10, Ch. 4 — Kuwait, Grades 10 and 11 Term 2 — Vietnam, Grade 11, Bài 2 — Cambodia, Grade 11 Basic, Ch. 3 — Indonesia, Grade 11 Tingkat Lanjut Revisi — Ethiopia, Grade 10, Ch. 4 — Nicaragua, Grade 10 — Kazakhstan, Grade 9, four Algebra 9 books — Egypt, Grade 10 Term 2 and Pure Mathematics Grade 11 Term 2 — Jordan, Grade 12 Term 1 — Iran, Grades 10–12, five books
 
 ## Do it first
 Take θ = 30°. sin θ = 1/2 and cos θ = √3/2. Square both and
@@ -35,6 +35,20 @@ identities (student book, Unit 2, printed pp. 68–71):
 
 With one ratio given, these find the rest — the sign comes
 from the quadrant, exactly as in the Do-it-first check.
+Egypt's Grade 10 book teaches exactly this family as its
+own lesson — the basic identities and simplifying with
+them (Secondary 1, Term 2, Unit 5, lesson 5-1, English
+contents printed p. 106; Arabic body printed p. 118).
+Iran's shared Grade 10 book does the same work in its
+relations lesson: sin²θ + cos²θ = 1 and the tan = sin/cos
+relations, used to find one ratio from another
+(Mathematics (1), Ch. 2, printed pp. 42–46). Kazakhstan's
+four Grade 9 books each open their formula cycle with the
+same basic set — Soltan's book lists six basic identities
+(Algebra 9, §24, printed p. 181), and Abylkasymova's
+proves sin²α + cos²α = 1 from Pythagoras on the unit
+circle and numbers the family as formulas (1)–(8)
+(Algebra 9, Part 2, §22, printed p. 34).
 
 **The fundamental law: cos(α − β).** Every other formula in
 this lesson is deduced from one proved formula. Pakistan's
@@ -47,7 +61,16 @@ content too, and here both proofs are kept. China's B-edition
 book proves the chain link by link in the same order
 (Compulsory Volume 3, §8.2, printed pp. 87–110), and Vietnam
 teaches the same formula set as its Bài 2 (Grade 11 Volume 1,
-printed p. 17).
+printed p. 17). Kazakhstan proves the same law the Laos
+way three times over: Shynybekov's, Abylkasymova's and
+Soltan's Grade 9 books all prove cos(α − β) with the
+scalar (dot) product of vectors and derive the rest
+(Shynybekov, §4.5, printed p. 146; Abylkasymova, Part 2,
+§24, printed p. 55; Soltan, §26, printed p. 194).
+Yelemessov's English Grade 9 book takes a third road: it
+derives the sine formula from a triangle's area and gets
+cosine from sine through the co-function relation (§4.4,
+printed p. 164) — three proofs of one law, all kept.
 
 **The addition chain.** From the fundamental law, each book
 deduces, in order: cos(α + β) by replacing β with −β; then
@@ -64,7 +87,24 @@ and finds tan(α + β) = 1 when tan α = 1/2 and tan β = 1/3,
 since (1/2 + 1/3)/(1 − 1/6) = 1 (Grade 10, printed
 pp. 233–250). Ethiopia's book evaluates sin 75° =
 (√6 + √2)/4 the same way (Grade 10, Ch. 4, printed
-pp. 199–250).
+pp. 199–250). Egypt's Pure Mathematics Grade 11 book
+teaches the functions of the sum and difference of two
+angles as its own lesson (Term 2, Unit 4, lesson 4-2,
+printed p. 121), and Iran's Calculus (1) states
+sin(A ± B) and cos(A ± B) with their double-angle
+consequences in its trigonometry chapter (Grade 11,
+Mathematical Sciences, Ch. 4, printed pp. 110–112).
+
+**Reduction and related angles.** Kazakhstan's books give
+the allied-angle formulas their own sections — reduction
+formulas fill §25 in Soltan (printed p. 187, a 28-formula
+table), §23 in Abylkasymova (Part 2, printed p. 44) and
+§4.4 in Yelemessov (printed p. 183), each derived from the
+addition formulas and read with the quadrant sign rule.
+Iran's Grade 11 Experimental book works the same ground
+on the unit circle: ratio relations for supplementary,
+complementary and negative angles (Mathematics (2), Ch. 4,
+printed pp. 77–87).
 
 **Double, half and triple.** Set β = α in the addition
 formulas and the double-angle family falls out: sin 2α =
@@ -80,7 +120,21 @@ uses the chain on a sign check: with sin x = 3/5 and cos x =
 printed pp. 199–250). Read the double formulas backwards and
 you get the half-angle formulas — Laos's exercises ask for
 sin 22.5°, cos 22.5° and tan 22.5° exactly this way (printed
-pp. 233–250).
+pp. 233–250). Egypt's Pure book follows its
+sum-and-difference lesson with the double angle only
+(Grade 11, Term 2, lesson 4-3, printed p. 128) — it
+teaches no half-angle or triple-angle lesson, and none is
+claimed for it here. Iran's Grade 12 Experimental book
+opens its trigonometry lesson with the double-angle
+formulas as an explicit block — sin 2α, and cos 2α in its
+three forms — and derives cos 15° and sin 15° from them
+(Mathematics (3), Ch. 2, printed p. 43). Kazakhstan's
+Soltan book adds a form the others do not name: the
+universal substitution, sin 2α = 2 tan α/(1 + tan²α) and
+cos 2α = (1 − tan²α)/(1 + tan²α), with
+tan(α/2) = sin α/(1 + cos α) beside it (§27, printed
+p. 201); Abylkasymova's half-angle work lands on the neat
+value tan(π/8) = √2 − 1 (Part 2, §26, printed p. 66).
 
 **Sums to products, products to sums.** Add the addition
 formulas in pairs and sines and cosines trade places: Yemen's
@@ -90,7 +144,13 @@ printed p. 104), Cambodia teaches the same two directions
 (Grade 11 Basic, printed pp. 88–97), and Laos includes both
 in its formula chain (printed pp. 233–250). The headline
 forms: sin A + sin B = 2 sin((A + B)/2) cos((A − B)/2), and
-2 sin A cos B = sin(A + B) + sin(A − B).
+2 sin A cos B = sin(A + B) + sin(A − B). Kazakhstan's four
+books all close their cycles with the same pair of moves —
+Yelemessov (§4.4, printed pp. 188, 194), Shynybekov (§4.5,
+printed p. 146), Abylkasymova (Part 2, §§27–28, printed
+pp. 75, 83) and Soltan (§§28–29, printed pp. 208, 214)
+each carry sum-to-product and product-to-sum as named
+sections.
 
 **One term for a·cosθ ± b·sinθ.** Libya's Grade 12 book
 expresses a·cosθ ± b·sinθ as a single term, R cos(θ ∓ φ)
@@ -100,7 +160,13 @@ amplitude 5, shifted. Kuwait's Grade 11 book carries the
 same sum, difference, double and half work in its
 applications unit (Term 2, printed pp. 82–113). This
 single-term form returns in the next lesson, where Libya
-solves equations of exactly this shape.
+solves equations of exactly this shape. Kazakhstan's
+Shynybekov book works the same idea as a maximum hunt:
+cos α − √3 sin α is rewritten as 2cos(α + π/6), so its
+greatest value is 2, read straight off the single term
+(§4.5, printed p. 146); Soltan's book teaches the
+auxiliary-angle method inside its addition-formulas
+section (§26, printed p. 194).
 
 **Proving identities.** The method every book uses: take the
 more complicated side and rewrite it — with the basic
@@ -112,7 +178,19 @@ tan²β/(sec β − 1): since tan²β = sec²β − 1 = (sec β − 1)
 printed pp. 148–155). And to kill a false identity, one
 counter-value is enough: sin(α + β) = sin α + sin β fails at
 α = β = 30°, where the left side is sin 60° ≈ 0.866 and the
-right side is 1.
+right side is 1. Jordan gives proving its own room: its
+Grade 12 book spends two full lessons on trigonometric
+identities — proving them and using them (Term 1, Unit 2,
+lessons 1–2, printed pp. 38, 50) — before it solves
+equations in the next lesson. Kazakhstan's Abylkasymova
+book closes its cycle the same way, with a consolidation
+section on transforming trigonometric expressions,
+including the triangle identity tan α + tan β + tan γ =
+tan α tan β tan γ when α + β + γ = π (Part 2, §29, printed
+p. 89). Iran's Grade 12 Mathematical book then puts
+identities to work inside equations that collapse to
+quadratics (Calculus (2), Ch. 2, printed pp. 35–44) — the
+bridge into the next lesson.
 
 > Tip — from us, not from the books. Do not memorise the
 > chain as twelve separate formulas. Memorise one —
@@ -136,3 +214,4 @@ printed pp. 148–155). Finish by saying the whole sentence:
 4. Write 3cos θ + 4sin θ as a single term R cos(θ − φ) and give R. (Answer: R = 5, with cos φ = 3/5 and sin φ = 4/5.)
 5. Prove: (sec θ − 1)(sec θ + 1) = tan²θ. (Answer: the left side is sec²θ − 1, which is tan²θ by the Pythagorean partner identity — Nicaragua's worked example run backwards.)
 6. Show that sin 2θ = cos 3θ at θ = 18° leads to sin 18° = (√5 − 1)/4. (Answer outline: 2 sin θ cos θ = 4cos³θ − 3cos θ; cancel cos θ, use cos²θ = 1 − sin²θ, solve 4sin²θ + 2 sin θ − 1 = 0 and take the positive root.)
+7. Find tan(π/8) exactly. (Answer: √2 − 1 — Abylkasymova's half-angle value, from tan(α/2) with α = π/4.)
