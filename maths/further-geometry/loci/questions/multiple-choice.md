@@ -33,3 +33,7 @@ a) The circle is round  b) Every point on the circle is at the fixed distance, A
 **8. (Level 3)** A point must obey TWO locus rules at once. The possible positions of the point are found where:
 a) The two loci cross  b) The two loci are parallel  c) One locus is erased
 **Answer:** a) — mixed construction practice works by intersecting loci (Sierra Leone, L96, printed p. 138).
+
+**9. (Level 3)** A point P moves on one side of a fixed chord AB so that angle APB stays the same known angle. Greece's book names P's locus as:
+a) A straight line  b) An arc of a circle over AB  c) The chord AB itself
+**Answer:** b) — the arc of a circle subtending a known angle is Greece's basic locus in the circle (Euclidean Geometry Volume A, Ch. 6, chapter opens printed p. 127).

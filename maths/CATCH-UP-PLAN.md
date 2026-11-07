@@ -468,6 +468,7 @@ Inventory detail lives in `liqlearns-courses-work/catch-up-maths/inventory-*.md`
 - Sierra Leone — SSS2 L92–96 — loci
 - Kazakhstan — Smirnov §21; Turapbekov — loci
 - Iran — locus catalogue inside the conics material
+- Greece — W5 Vol. A Ch. 6 (chapter opens printed p. 127) — basic loci in the circle (arc of a circle subtending a known angle); loci and geometric constructions using loci
 
 ### 79 fractals
 - China — B版必修四 Ch.10 reading pp.40–41 — Julia/Mandelbrot from z→z²+c; G9 v2 reading pp.45–46 — Sierpiński carpet/triangle, Koch snowflake [readings as filed]

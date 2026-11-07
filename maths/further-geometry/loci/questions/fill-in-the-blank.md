@@ -16,3 +16,6 @@ Fill each blank with the one right word or value.
 
 **5. (Level 3)** Smirnov's Geometry 7 places its loci section, §21, immediately before the chapter's ______ problems.
 **Answer:** construction — loci first, then the constructions built from them (Chapter 4, as filed).
+
+**6. (Level 3)** In Greece's book, the basic locus in a circle is the ______ of a circle subtending a known angle.
+**Answer:** arc — the points on it see the chord under that same angle (Euclidean Geometry Volume A, Ch. 6, chapter opens printed p. 127).

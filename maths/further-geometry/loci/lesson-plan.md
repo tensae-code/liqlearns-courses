@@ -27,6 +27,7 @@ shown changing.
 4. Construct the locus of points equidistant from two straight lines — the angle bisectors (Sierra Leone, L94, printed p. 132).
 5. Construct the locus of points at a given distance from a given straight line — two parallel lines (Sierra Leone, L95, printed p. 135), and combine loci in mixed construction practice (L96, printed p. 138).
 6. State and use Iran's catalogue way: the perpendicular bisector and the angle bisector proved as loci, the circle proved as a locus in both directions, and further standard loci from the class-work catalogue (Geometry (3), Ch. 2, Lesson 1, printed pp. 34–39).
+7. Name and use Greece's circle locus: the arc of a circle subtending a known angle — the points that see a fixed chord under a fixed angle — and use loci to carry out geometric constructions, as in Greece's inscribed-figures chapter (Euclidean Geometry Volume A, Ch. 6, chapter opens printed p. 127).
 
 ## What you need
 Compasses, a ruler, paper and a pencil. String and two pins for the garden-line locus in the hands-on work.

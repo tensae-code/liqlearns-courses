@@ -10,3 +10,6 @@ Match each item on the left with the one right item on the right.
 
 **3. (Level 3)** Match the book to its loci work: (i) Iran, Geometry (3), (ii) Turapbekov, Geometry 7, (iii) Smirnov, Geometry 7 — (a) the locus defined as a topic, Ch. 4 §1 p. 142, (b) loci as their own section, §21, before the construction problems, (c) the circle proved as a locus in both directions, with a catalogue of standard loci.
 **Answer:** (i)–(c), (ii)–(a), (iii)–(b) — the three countries' loci treatments as filed.
+
+**4. (Level 3)** Match the Greece item to its description: (i) the arc subtending a known angle, (ii) geometric constructions using loci, (iii) Inscribed figures — (a) the title of the chapter (Ch. 6) that carries Greece's loci, (b) using a locus path to pin down a wanted point in a construction, (c) the locus of points seeing a chord under a fixed angle.
+**Answer:** (i)–(c), (ii)–(b), (iii)–(a) — all three are filed in Euclidean Geometry Volume A, Ch. 6 (chapter opens printed p. 127).

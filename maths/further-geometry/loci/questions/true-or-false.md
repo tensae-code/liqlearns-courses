@@ -16,3 +16,6 @@ Say true or false. If it is false, say why.
 
 **5. (Level 3)** To prove a path is a locus, it is enough to check that points on the path obey the rule. True or false?
 **Answer:** False — Iran's book proves it both directions: points obeying the rule must also all lie on the path (Geometry (3), Ch. 2 L1, printed pp. 36–38).
+
+**6. (Level 3)** In Greece's book, a point that keeps seeing a fixed chord under the same known angle moves along a straight line. True or false?
+**Answer:** False — it moves along an arc of a circle, the arc subtending the known angle (Euclidean Geometry Volume A, Ch. 6, chapter opens printed p. 127).

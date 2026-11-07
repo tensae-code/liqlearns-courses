@@ -25,3 +25,6 @@ Answer in a word or a short line.
 
 **8. (Level 3)** A point P is equidistant from points A and B, and is 5 cm from point C. Drawing the two loci, what are the possible positions of P, in words?
 **Answer:** Where the perpendicular bisector of AB meets the circle centre C radius 5 cm — the crossing points of the two loci (mixed method, L96, printed p. 138).
+
+**9. (Level 3)** In Greece's inscribed-figures chapter, what locus does a point form when it sees a fixed chord AB under a known, unchanging angle?
+**Answer:** An arc of a circle over AB — the arc subtending that known angle (Euclidean Geometry Volume A, Ch. 6, chapter opens printed p. 127).
