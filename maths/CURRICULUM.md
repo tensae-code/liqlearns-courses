@@ -212,6 +212,11 @@ integrate.*
 - analytic-geometry-in-space ✅ — coordinates and vectors in space, equations of lines and planes (Level 92, catch-up build)
 - determinants-and-cramers-rule ✅ — determinants and Cramer's rule (Level 93, catch-up build)
 - de-moivres-theorem ✅ — the trigonometric form, De Moivre's theorem and roots of complex numbers (Level 94, catch-up build)
+- hyperbolic-functions ✅ — hyperbolic functions and their inverses (Level 95, catch-up build 2026-11-06)
+- taylor-and-maclaurin-series ✅ — Taylor and Maclaurin series (Level 96, catch-up build)
+- parametric-equations ✅ — parametric equations and parametric curves (Level 97, catch-up build)
+- barycentres ✅ — barycentres: balancing weighted points (Level 98, catch-up build)
+- quaternions ✅ — quaternions (Level 99, catch-up build)
 
 **LADDER TOTAL: 52 lessons across 12 stages — ALL BUILT 2026-11-05** (5 + 2 + 3 + 6 +
 4 + 5 + 4 + 4 + 5 + 3 + 4 + 7).
