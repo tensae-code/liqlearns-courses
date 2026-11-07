@@ -1,0 +1,130 @@
+# Sources — Relative clauses
+
+countries: Cambodia, Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa, Sudan, Vietnam
+
+Every part traces to its book and page.
+
+**Book 1:** ENGLISH Grade 9 (student's book) — Cambodia,
+MoEYS with The Nippon Foundation / Education Support
+Center "KIZUNA", first printing 2016. Filed in
+english/books/cambodia.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
+**Book 2:** ENGLISH Grade 12 (student's book) —
+Cambodia, MoEYS / KIZUNA in cooperation with ACE, first
+printing 2023. Filed in english/books/cambodia.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 3:** English VIII (student's book) — Mongolia,
+Ministry of Education, Culture, Science and Sports.
+Filed in english/books/mongolia.md (FULLY READ +
+CITATION CHECK PASSED 2026-10-26).
+
+**Book 4:** English IX (student's book) — Mongolia,
+Ministry of Education, Culture, Science and Sports.
+Filed in english/books/mongolia.md (FULLY READ +
+CITATION CHECK PASSED 2026-10-26).
+
+**Book 5:** English X (student's book) — Mongolia,
+Ministry of Education, Culture, Science and Sports.
+Filed in english/books/mongolia.md (FULLY READ +
+CITATION CHECK PASSED 2026-10-26).
+
+**Book 6:** ENGLISH Grade 7 (student's book) — Nepal,
+Government of Nepal, Ministry of Education, Science and
+Technology, Curriculum Development Centre. Filed in
+english/books/nepal.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
+**Book 7:** ENGLISH Grade 8 (student's book) — Nepal,
+Government of Nepal, Ministry of Education, Science and
+Technology, Curriculum Development Centre. Filed in
+english/books/nepal.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
+**Book 8:** English 6 (student's book) — Pakistan,
+Punjab Curriculum & Textbook Board (PCTB), Lahore,
+based on Single National Curriculum 2022. Filed in
+english/books/pakistan.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
+**Book 9:** Skyline English Student's Book 5B, Grade 5
+— Kuwait, Ministry of Education, First Edition
+2025-2026. Filed in english/books/kuwait.md (FULLY
+READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 10:** English Pearls of Kuwait Student's Book
+6A, Grade 6 — Kuwait, Ministry of Education, First
+edition 2025-2026. Filed in english/books/kuwait.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 11:** Over to You Student's Book 10B, Grade 10 —
+Kuwait, Pearson Longman. Filed in
+english/books/kuwait.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
+**Book 12:** Tiếng Anh 9 (Global Success) — Vietnam,
+Vietnam Education Publishing House & Pearson, © 2024,
+ISBN 978-604-0-39366-1. Filed in
+english/books/vietnam.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
+**Book 13:** English, Preparatory 9 Term 2 (Student's
+Book) — Egypt, Ministry of Education. Filed in
+english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26; the
+formal citation check for the pre-law Egypt reads is
+still owed).
+
+**Book 14:** SMILE Book 9, Grade 9 Pupil's Book —
+Sudan, Federal Ministry of Education / NCCER. Filed in
+english/books/sudan.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-04).
+
+**Book 15:** English Home Language, Grade 5 Workbook 2
+(Rainbow Workbooks) — South Africa, Department of Basic
+Education, Sixteenth edition 2026. Filed in
+english/books/south-africa.md (FULLY READ + CITATION
+CHECK PASSED 2026-11-03).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Defining relative clauses — who/that for people ("The woman that wears the red coat") and which/that for things, inside wedding shopping; the rule box "Defining relative clauses (People)" | Cambodia, Grade 9, Unit 19 "A wedding", printed pp.122–127 (rule box, printed p.122) |
+| Relative pronouns who/which/that/where/when introducing relative clauses, on space content | Cambodia, Grade 12, Unit 11 "Space", printed pp.59–64 |
+| The definition and the six-word family: "A relative clause gives more information about a noun" — who people, which things/animals, that people or things, where places, when time, whose possession; the unit opener names them defining relative clauses | Egypt, Preparatory 9 Term 2, Unit 8, Tip p.29 (as filed in EGYPT-BOOK-MAP.md) |
+| Defining relative clauses with which/who/that/where as the landmarks unit's objective (UE17) | Mongolia, English VIII, Module 3, Unit 7 (p.92) |
+| Defining and non-defining relative clauses as one unit objective — this lesson takes the defining half; the non-defining half is stocked in the next lesson | Mongolia, English IX, Unit 8 "People and jobs" (p.112) |
+| Relative clauses who/which/that as the climate unit's objective (UE17) | Mongolia, English X, Unit 8 (p.120) |
+| Relative clauses with who/which/where in the biography unit | Nepal, English Grade 7, Unit 11, printed pp.107–117 |
+| Relative clauses (who, where, whose, which) in the Newton biography unit | Nepal, English Grade 8, Unit 11, printed pp.128–144 |
+| Relative clauses taught across Units 5–6, recorded in the book's progression and checked off its honest negatives ("Relative clauses are taught (U5–U6)") | Pakistan, English 6, Units 5–6 (Units at printed pp.47–55 and 56–67) |
+| Relative clauses who/which — the Grade 5 Term 2 grammar ceiling, with no whose/where and no defining/non-defining distinction, stated plainly in the filing | Kuwait, Skyline English Student's Book 5B (as filed in kuwait.md, §4) |
+| Relative pronouns who/which/when/where introduced by referent (people / things and animals / time / place) in a four-sentence mini-story, with gap-fill and sentence joining | Kuwait, English Pearls 6A, Unit 4, Lesson 2, printed p.64 |
+| Relative clauses and pronouns (who, which, where, whose) | Kuwait, Over to You 10B, Unit 12, printed pp.43–48 |
+| Relative pronouns who (people), which (things) and whose (possession) as the lead-in to relative clauses | Vietnam, Tiếng Anh 9, Unit 8, printed pp.82–91 |
+| Defining relative clauses — essential information; who/which must be used as subject but can be omitted as object | Vietnam, Tiếng Anh 9, Unit 9, printed pp.92–101 |
+| Relative clauses with who/which in the learning unit | Sudan, SMILE Book 9, Unit 7, Lesson 1, printed p.49 |
+| Relative pronouns (which, that, who) joining sentences — the set's first relative-clause work; "We use relative pronouns to refer to a noun mentioned before" | South Africa, English Home Language Grade 5 Workbook 2, grammar spine (anchor, printed p.5) |
+| The drop stated a second time: the pronoun may be dropped when it is the object (in the defining/non-defining box) | Egypt, Secondary 11 Term 1, Unit 6, Grammar Box p.77 (as filed in EGYPT-BOOK-MAP.md) |
+
+**Acceptance count: taught in 9 countries (Cambodia,
+Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa,
+Sudan, Vietnam).** Cambodia names the defining system
+outright at Grade 9 and lists the five pronouns again in
+Grade 12's space unit. Egypt states the definition and
+the whole six-word family in one Tip. Mongolia builds
+defining clauses at VIII and X and sets defining beside
+non-defining at IX. Nepal works who/which/where at
+Grade 7 and adds whose at Grade 8. Pakistan teaches
+relative clauses across Grade 6 Units 5–6. Kuwait
+carries the family three times — who/which only in
+Skyline 5B (its ceiling, stated plainly), the four
+pronouns by referent in Pearls 6A, and who/which/where/
+whose in Over to You 10B. Vietnam introduces
+who/which/whose at Grade 9 Unit 8 and states the
+defining rule with object omission at Unit 9. Sudan
+works who/which clauses in SMILE Book 9. South Africa's
+first relative-clause work is relative pronouns joining
+sentences in the Grade 5 HL Workbook 2. Uzbekistan is
+NOT counted: its English Matters 8 relative-clause
+evidence is one gap-fill exercise with no rule, which
+does not meet this lesson's taught-as-a-system bar.

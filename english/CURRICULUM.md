@@ -242,6 +242,22 @@ and ordered, and write spoken words with speech marks.*
   reported-commands ✅ · speech-marks ✅ (catch-up build
   2026-11-07 — 4 lessons, 76 question items)
 
+## Level 23 — Joining with Who and Which
+*End of level: the learner can join sentences with relative
+clauses, add extra information inside commas, and shorten
+clauses with participles.*
+- relative-clauses ✅ · non-defining-relative-clauses ✅ ·
+  participle-clauses ✅ (catch-up build 2026-11-07 — 3 lessons,
+  57 question items)
+
+## Level 24 — Two Shapes After a Verb
+*End of level: the learner knows which verbs take -ing, which
+take to, how to say someone arranged for a thing to be done,
+and how verbs carry two objects.*
+- gerunds-and-infinitives ✅ · the-causative ✅ ·
+  verbs-with-two-objects ✅ (catch-up build 2026-11-07 —
+  3 lessons, 57 question items)
+
 ## After Level 18
 The ladder keeps climbing — longer essays and the Story → Novel
 titles. Later blocks get their own level numbers here, in this
