@@ -240,6 +240,15 @@ structures.*
 - algebraic-structures ✅ — binary operations, groups, rings and fields (Level 111, catch-up build)
 - mathematical-investigations ✅ — the balance search, the phone tree and the painted cube (Level 112, catch-up build)
 
+## Stage 15 — Money, Time and Everyday Mathematics
+*End of stage: the learner can use money, run the money
+mathematics of everyday life, read time in every system the
+books teach, and work with speed.*
+- money ✅ — notes and coins, paying and giving change (Level 113, catch-up build 2026-11-06)
+- business-mathematics ✅ — profit and loss, interest, tax, partnership, insurance, zakat and inheritance shares (Level 114, catch-up build)
+- time-and-calendars ✅ — clocks, 12-hour and 24-hour time, durations, and the calendars of the world (Level 115, catch-up build)
+- speed-distance-and-time ✅ — speed, distance and time, with density and work rates (Level 116, catch-up build)
+
 **LADDER TOTAL: 52 lessons across 12 stages — ALL BUILT 2026-11-05** (5 + 2 + 3 + 6 +
 4 + 5 + 4 + 4 + 5 + 3 + 4 + 7).
 
