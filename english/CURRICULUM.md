@@ -91,6 +91,15 @@ about the other person, and close the talk.*
 - the home and its rooms ✅ · the town (hospital, school, shop) ✅ ·
   food and fruit ✅ · animals ✅ · the body ✅ — from Egypt P1 Term 2's
   sets and Libya's early grades
+- **Catch-up additions (2026-11-07, per CATCH-UP-PLAN.md — every
+  word set the read books teach):** colours ✅ · weather-and-seasons
+  ✅ · clothes ✅ · family-words ✅ · transport ✅ · jobs ✅ · sports
+  ✅ · feelings ✅ · school-subjects ✅ · health-words ✅ ·
+  nature-and-the-environment ✅ · technology-words ✅ ·
+  money-and-prices ✅ · describing-people ✅ · word-building ✅ ·
+  word-relationships ✅ · compound-words ✅ · working-words ✅
+  (specialist: hotels/offices/tourism, Greece) — 18 lessons, 520
+  question items
 
 ## Level 8 — Using the Dictionary
 *End of level: the learner can find a word and understand what its

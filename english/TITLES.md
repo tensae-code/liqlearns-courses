@@ -69,7 +69,13 @@ its own subtitle folder with its own lesson + questions):
   2026-10-27 split: one former unit = one level)
 - Word (world sets) → the-home · the-town · food-and-fruit ·
   animals · the-body (built 2026-10-27 — **Level 7, Words
-  for the World**)
+  for the World**) · colours · weather-and-seasons · clothes ·
+  family-words · transport · jobs · sports · feelings ·
+  school-subjects · health-words · nature-and-the-environment ·
+  technology-words · money-and-prices · describing-people ·
+  word-building · word-relationships · compound-words ·
+  working-words (the 18 after the-body added 2026-11-07 by the
+  catch-up build)
 - Word (tool) → using-the-dictionary (built 2026-10-27 —
   **Level 8, Using the Dictionary**; the platform's own
   dictionary tool is filed in ../DICTIONARY.md)
