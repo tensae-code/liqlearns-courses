@@ -144,6 +144,13 @@ areas, find volumes, and use the right-triangle rule.*
 - perimeter-and-area ✅ — perimeters, areas of rectangles, triangles, parallelograms and trapeziums
 - volume-and-surface-area ✅ — volumes of cubes, cuboids, prisms and cylinders, and their surface areas
 - pythagoras ✅ — the right-triangle rule, finding a missing side
+- scale-drawing-and-maps ✅ — scale drawing, map scales, bar scales and geographic coordinates (Level 64, catch-up build 2026-11-06)
+- estimating-areas ✅ — estimating areas by counting squares, the mid-ordinate rule and the trapezium rule (Level 65, catch-up build)
+- equal-areas ✅ — shapes with equal area on the same base (Level 66, catch-up build)
+- cavalieris-principle ✅ — Cavalieri's principle: equal slices, equal volumes (Level 67, catch-up build)
+- errors-and-accuracy ✅ — absolute, relative and percentage error, and degree of accuracy (Level 68, catch-up build)
+- temperature-and-traditional-measures ✅ — temperature in °C and °F, and the measures people used before standard units (Level 69, catch-up build)
+- projections-and-views ✅ — projections, views of solids and technical drawing (Level 70, catch-up build)
 
 ## Stage 9 — Further Geometry
 *End of stage: the learner can prove shapes the same or the

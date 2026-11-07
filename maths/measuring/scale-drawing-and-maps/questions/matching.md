@@ -1,0 +1,23 @@
+# Scale Drawing and Maps — matching
+
+Match each item on the left with the one right partner on the right.
+
+**1. (Level 1)** Match the scale to its meaning.
+Scales: (i) 1:100  (ii) 5:1  (iii) 1:10
+Meanings: (a) an enlargement — drawing 5 times the real thing  (b) 1 cm drawing = 10 cm real  (c) 1 cm drawing = 1 m real
+**Answer:** (i)–(c), (ii)–(a), (iii)–(b) — read drawing : real in the same unit; Laos's Grade 6 book lists 1:100, 5:1 (L21) and a 1:10 drawing (L16).
+
+**2. (Level 2)** Match each map reading to its real distance on the bar scale 1 cm = 5 km.
+Readings: (i) 2 cm  (ii) 6 cm  (iii) 0.5 cm
+Distances: (a) 30 km  (b) 2.5 km  (c) 10 km
+**Answer:** (i)–(c), (ii)–(a), (iii)–(b) — multiply the map length by 5 km (Laos, Grade 6, L21).
+
+**3. (Level 3)** Match each Kuwait tower to its model height at 1:500 (1 cm = 5 m).
+Towers: (i) 187 m  (ii) 147 m  (iii) 113 m
+Model heights: (a) 22.6 cm  (b) 37.4 cm  (c) 29.4 cm
+**Answer:** (i)–(b), (ii)–(c), (iii)–(a) — divide each height by 5 (Kuwait, Grade 10 Term 1, project, pp.81–82).
+
+**4. (Level 3)** Match each compass point to its angle clockwise from N, the Nepal way.
+Points: (i) NE  (ii) E  (iii) SE
+Angles: (a) 90°  (b) 135°  (c) 45°
+**Answer:** (i)–(c), (ii)–(a), (iii)–(b) — the eight points split the full turn into 45° steps (Nepal, Grade 7, Unit 10).
