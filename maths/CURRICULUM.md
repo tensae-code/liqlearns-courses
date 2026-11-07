@@ -264,17 +264,49 @@ relationships between data.*
 - time-series ✅ — time series: components and trends (Level 124, catch-up build)
 - index-numbers ✅ — index numbers: Laspeyres, Paasche and Fisher (Level 125, catch-up build)
 - quartiles-percentiles-and-box-plots ✅ — quartiles, deciles, percentiles and box-and-whisker plots (Level 126, catch-up build)
+- mean-deviation-and-variation ✅ — mean deviation, variance, standard deviation and the coefficient of variation (Level 127, catch-up build)
+- moments-skewness-and-kurtosis ✅ — moments, skewness and kurtosis (Level 128, catch-up build)
+- geometric-and-experimental-probability ✅ — probability from areas and probability from frequency (Level 129, catch-up build)
+- monte-carlo-and-simulation ✅ — random numbers, simulation and the Monte Carlo method (Level 130, catch-up build)
+- odds ✅ — odds, from Kuwait's books (Level 131, catch-up build)
 
-**LADDER TOTAL: 52 lessons across 12 stages — ALL BUILT 2026-11-05** (5 + 2 + 3 + 6 +
-4 + 5 + 4 + 4 + 5 + 3 + 4 + 7).
+## Stage 17 — Mechanics
+*End of stage: the learner can work with the forces that
+hold things still and with the mathematics of motion, the
+way Egypt's applied books teach them.*
+- statics ✅ — forces, resultants, equilibrium, moments, couples and friction (Level 132, catch-up build)
+- dynamics ✅ — motion, Newton's laws, momentum, impulse, work, energy and power (Level 133, catch-up build)
+
+## Stage 18 — First Steps
+*End of stage: the youngest learner can place things, sort
+things and follow patterns — the first mathematics of all.*
+- position-and-direction ✅ — position words, ordinals and the compass points (Level 134, catch-up build)
+- sorting-and-classifying ✅ — sorting and classifying by one attribute, then by two (Level 135, catch-up build)
+- repeating-patterns ✅ — repeating, growing and shrinking patterns (Level 136, catch-up build)
+
+**LADDER TOTAL: 136 lessons across 18 stages** — the first
+52 built 2026-11-05 across 12 stages (5 + 2 + 3 + 6 + 4 + 5 +
+4 + 4 + 5 + 3 + 4 + 7); the catch-up build of 2026-11-06
+added 84 lessons (Levels 53–136) as extensions inside the
+original twelve stages and as new Stages 13–18.
 
 ## After Stage 12
-The ladder keeps climbing as more countries are read — Laos
-(29 in hand) joins by merge when its read lands, and later
-countries the same way. New blocks get their own stage
-numbers here, in this file, as the reading reaches those
-books. Topics the current stock does not teach — and so with
-no lesson yet — include: 3-D trigonometry, formal proof
-writing, and continuous distributions; these are recorded
-here so a later read that teaches them can open the lesson
-honestly.
+The catch-up build of 2026-11-06 closed the recorded gap:
+every topic the read books teach that the first 52 lessons
+did not cover now has its own lesson — 84 new lessons,
+Levels 53–136, in extensions to the original stages and in
+new Stages 13–18 (logic and proof, counting and discrete
+mathematics, money and time, further statistics, mechanics,
+first steps). The topics once listed here as untaught — 3-D
+trigonometry, formal proof writing, continuous
+distributions — all have lessons now (Levels 75, 100–101,
+118). One topic remains untaught from verified sources:
+volumes of revolution — the only rows for it in the filings
+are marked unverified-by-check, and unverified stock is
+cited nowhere; the lesson opens the day a verified book
+teaches it. Syria's maths read landed during the catch-up
+build and was merged into the existing lessons; a topic
+Syria alone teaches will get its own catch-up sweep and
+lesson the same way. As more countries are read, their
+books merge into these lessons, and a topic with no lesson
+gets a new one — nothing is left out.
