@@ -1,6 +1,6 @@
 # Sources — Angles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria
 
 Every part traces to its book and page.
 
@@ -198,6 +198,18 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 
 **Book 103:** *Mathematics, Class 9 (Science Group)* (student book) — Pakistan (Punjab), PCTB, held in the eLearn.Punjab digital edition, version 1.1, English-medium; the held copy has no cover, imprint or contents pages, so no edition year or ISBN can be proved from it; pagination restarts at printed p. 1 in every chapter and its pages are cited by chapter. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 104:** *Mathematics, Pupil's Book, Grade 3* — Syria, Ministry of Education with the National Center for Curriculum Development (NCCD), held printing 2025–2026/1446H, first printed 2014–2015, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 105:** *Mathematics, Pupil's Book, Grade 4* — Syria, Ministry of Education with the National Center for Curriculum Development (NCCD), held printing 2025–2026/1446H, first printed 2014–2015, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 106:** *Mathematics, Pupil's Book, Grade 5* — Syria, Ministry of Education with the National Center for Curriculum Development (NCCD), held printing 2025–2026/1446H, first printed 2016–2017, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 107:** *Mathematics, Pupil's Book, Grade 6* — Syria, Ministry of Education with the National Center for Curriculum Development (NCCD), held printing 2025–2026/1446H, first printed 2017–2018, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 108:** *Mathematics, Student's Book, Grade 7* — Syria, Ministry of Education with the National Center for Curriculum Development (NCCD), held printing 2021–2022/1442H, first printed 2013–2014, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 109:** *Mathematics — Geometry, Student's Book, Grade 9* — Syria, Ministry of Education, held printing 2025–2026/1446H, first printed 2017–2018, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Angles lesson: lines, rays and angles | Jordan, Grade 3 Student Book Term 1, Unit 6, L2 Angles, p.98 |
@@ -307,8 +319,14 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Compass constructions of angles — bisecting an angle, 60° and 30°, 90° and 45°, and 75°, 120° and 105° by combining and bisecting | Pakistan (Punjab), Class 6 (PCTB), printed pp. 145–152 |
 | The angle sum of a triangle is 180°; the exterior angle equals the sum of the two opposite interior angles; the sum of a polygon's interior angles = (n − 2) × 180° and of its exterior angles 360°; the regular polygon's interior angle and exterior angle (360° ÷ n); the number of sides found from an angle | Pakistan (Punjab), Class 7 (PCTB), printed pp. 150–162 |
 | The right-bisector theorems (a point on the bisector is equidistant from the segment's ends, and the converse) and the angle-bisector theorems (a point on an angle's bisector is equidistant from its arms, and the converse); the circumcentre and incentre concurrencies; in a triangle the longer side has the greater angle opposite it, and conversely; the triangle inequality; the perpendicular as the shortest distance from a point to a line | Pakistan (Punjab), Class 9 (PCTB, eLearn.Punjab v1.1), Chs. 12–13, printed pp. 2–11 |
+| The angle met as a basic geometry concept, alongside point, line, ray and line segment; intersecting lines and parallel lines; perpendicular lines meet in four right ('matching') angles; drawing parallel and perpendicular lines on a grid | Syria, Grade 3 pupil's book, printed pp. 61–66 |
+| The angle: two rays from a common vertex — the vertex, the arms, and naming the angle by its vertex; the right angle — its arms are perpendicular, recognised and tested with the set square; the straight angle; the acute angle — smaller than a right angle; the obtuse angle — larger than a right angle and smaller than a straight angle | Syria, Grade 4 pupil's book, printed pp. 64–66 |
+| What an angle is — two rays with a common vertex, named with the vertex letter in the middle; the degree as the unit of angle measure; measuring an angle with a protractor step by step (worked example 35°); drawing an angle of a given measure; classifying angles — acute, right, obtuse and straight; measuring angles inside figures and pictures | Syria, Grade 5 pupil's book, printed pp. 23–30 |
+| The point, the line (no beginning or end), the ray (a beginning, no end) and the segment (two ends) recalled, with parallel lines (never meeting, however far extended) and perpendicular lines (meeting at right angles); the degree, with the Babylonian division of the circle into 360 degrees; vertically opposite angles are equal; adjacent angles — a common vertex and a common side, on opposite sides of that side; two adjacent angles whose outer sides form a straight angle sum to 180°; calculating an unknown angle from vertically opposite angles and the straight angle | Syria, Grade 6 pupil's book, printed pp. 16–27 |
+| Two angles are complementary (متتامّتان) when their measures sum to 90° and supplementary (متكاملتان) when they sum to 180°; vertically opposite angles — sides extensions of each other's — are equal; when a transversal cuts two parallel lines, alternate interior angles are equal, alternate exterior angles are equal, and corresponding angles are equal — with the converses: equal angles of any of these kinds make the two lines parallel; consecutive angles of a parallelogram are supplementary; the angles of a triangle sum to 180°, discovered by folding a cut-out triangle so its three angles form a straight angle; in a right-angled triangle the two acute angles sum to 90° (45° each in a right-angled isosceles triangle); finding the third angle and naming the triangle's type by its angles; the interior-angle sum of a polygon found by triangulating from one vertex — a pentagon gives 3 × 180° = 540°, in general (n − 2) × 180° | Syria, Grade 7 student's book, printed pp. 59–63, 129–131, 150 |
+| Complementary angles (summing to 90°) and supplementary angles (summing to 180°) recalled in the Unit 3 diagnostic | Syria, Grade 9 Geometry student's book, Unit 3 diagnostic, printed p. 39 |
 
-**Acceptance count: taught in 25 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan).** Egypt carries the fullest single Iran measures angles with a protractor in Grade 4, bisects angles and sums polygon angles in Grade 5, and gives the (n − 2) × 180° interior-angle rule in Grade 8.
+**Acceptance count: taught in 26 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria).** Egypt carries the fullest single Iran measures angles with a protractor in Grade 4, bisects angles and sums polygon angles in Grade 5, and gives the (n − 2) × 180° interior-angle rule in Grade 8.
 treatment — the angle kinds, the protractor, complementary and
 supplementary pairs, the transversal's eight angles, and the
 triangle and quadrilateral sums in one Grade 7 unit. Jordan
@@ -332,3 +350,5 @@ the lesson words Ghana that way throughout. Laos carries angles from identifying
 China carries angles from Grade 4 triangle classification and angle sums, through Grade 7 parallel-line geometry, to the senior general angle and radian measure — with the space angles (skew lines, line–plane, dihedral) carried in both senior editions.
 
 Pakistan (Punjab) carries angles from Grade 4's protractor work through Class 6's transversal and polygon angles to Class 9's bisector and side–angle theorems.
+
+Syria meets the angle in Grade 3 beside point, line, ray and segment, names and classifies angles in Grade 4, measures with the protractor in Grade 5, and proves the working facts in Grades 6–7 — vertically opposite angles, the straight-angle sum, complementary and supplementary pairs, the transversal equalities with their converses, and the triangle's 180° found by folding a cut-out triangle.

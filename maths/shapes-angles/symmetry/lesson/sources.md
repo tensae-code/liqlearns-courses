@@ -1,6 +1,6 @@
 # Sources — Symmetry
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria
 
 Every part traces to its book and page.
 
@@ -159,6 +159,18 @@ READ + CITATION CHECK PASSED 2026-11-05).
 
 **Book 59:** *Mathematics, Class 7* (student book) — Pakistan (Punjab), PCTB, Lahore, Experimental Edition under the SNC 2022, English-medium; authors Muhammad Akhtar Shirani, Madiha Mehmood, Dr. Tanveer Iqbal Mughal and Majid Hameed; no ISBN printed. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 60:** *Mathematics, Pupil's Book, Grade 2, Semester 2* — Syria, Ministry of Education (the NCCD is not named on this book's title page), held printing 2025–2026/1447H, first printed 2015–2016, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 61:** *Mathematics, Pupil's Book, Grade 3* — Syria, Ministry of Education with the National Center for Curriculum Development (NCCD), held printing 2025–2026/1446H, first printed 2014–2015, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 62:** *Mathematics, Pupil's Book, Grade 4* — Syria, Ministry of Education with the National Center for Curriculum Development (NCCD), held printing 2025–2026/1446H, first printed 2014–2015, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 63:** *Mathematics, Pupil's Book, Grade 6* — Syria, Ministry of Education with the National Center for Curriculum Development (NCCD), held printing 2025–2026/1446H, first printed 2017–2018, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 64:** *Mathematics, Student's Book, Grade 7* — Syria, Ministry of Education with the National Center for Curriculum Development (NCCD), held printing 2021–2022/1442H, first printed 2013–2014, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 65:** *Mathematics — Geometry, Student's Book, Grade 8* — Syria, Ministry of Education (the ministry's name as printed, Ministry of Education and Teaching), held printing 2025–2026, first printed 2016–2017, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Introduction to symmetry: folding and mirror completion (ch.56, Unit 8, printed pp.53–66) | Greece, Grade 1 Teuxos B, ch.56 |
@@ -221,8 +233,14 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | A line of symmetry dividing a figure into two equal parts; completing a symmetrical figure across a given line of symmetry on grid and dot patterns | Pakistan (Punjab), Grade 4 (PCTB), Unit 6, printed pp. 149–152 |
 | Line symmetry and reflective symmetry defined, with shapes completed across a mirror line; rotational symmetry and its centre defined; the order of symmetry (teach corrected: the Class 6 book's own rotational-symmetry example has order 1, not the declared 4) | Pakistan (Punjab), Class 6 (PCTB), printed pp. 134–135 |
 | Reflective (mirror) symmetry; lines of symmetry counted — square 4, equilateral triangle 3, isosceles triangle 1, rectangle and rhombus 2; rotational symmetry, its centre and its order (square 4, equilateral triangle 3); a regular polygon with n sides has n lines of symmetry, order n and angle of rotation 360°/n | Pakistan (Punjab), Class 7 (PCTB), printed pp. 165–167 |
+| Symmetry (التناظر): the fold line is the line of symmetry (خط التناظر) because it divides the shape into two congruent parts; deciding whether a drawn line is a symmetry line; completing a symmetry line | Syria, Grade 2, Semester 2 pupil's book, printed pp. 13–15 |
+| The line of symmetry of a shape: the two halves match when folded | Syria, Grade 3 pupil's book, printed pp. 72–73 |
+| Designing symmetrical shapes: the axis (line) of symmetry, folding to check, and completing a shape from its axis | Syria, Grade 4 pupil's book, printed pp. 74–76 |
+| Axial symmetry: a shape is symmetric about a line when folding on that line makes the shape coincide with itself — the line is an axis of symmetry; a shape can have more than one axis of symmetry; the image (نظير) of a shape in an axis, found with transparent paper, and on a grid — the image of each vertex lies the same distance from the axis, on the other side | Syria, Grade 6 pupil's book, printed pp. 74–78 |
+| Central symmetry: one figure is the image of another under a half-turn (rotation of 180°) about a point, as in mosaic and carpet patterns — axial symmetry is a folding about the axis, central symmetry a half-turn about the centre; the image of a point A under central symmetry about O is the point A′ such that O is the midpoint of [AA′]; central symmetry preserves lengths, angles, areas and collinearity, its image of any figure is congruent to it, and it reverses direction; images of a segment (a parallel segment of equal length), of a ray and of a circle (same radius, centre the image of the centre); a figure has a centre of symmetry when it is its own image; the intersection point of a parallelogram's diagonals is its centre of symmetry; centres and axes of the familiar quadrilaterals — the square has four axes of symmetry, the rhombus two, the rectangle two, and each has its diagonal-intersection as centre; a circle — every line through its centre is an axis and the centre is a centre of symmetry; an equilateral triangle — three axes but no centre; an isosceles triangle — one axis and no centre; finding a figure's centre of symmetry by testing candidate midpoints | Syria, Grade 7 student's book, printed pp. 53, 80–88 |
+| Central symmetry used as a working tool throughout: reflecting a point in a midpoint to prove the midpoint theorems and the concurrence of the medians; images under central symmetry, axial symmetry and translation compared side by side in the Unit 1 exercises | Syria, Grade 8 Geometry student's book, printed pp. 25–26, 31, 59 |
 
-**Acceptance count: taught in 24 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan).**.** Greece carries symmetry from the very start Iran completes the missing halves of pictures in Grade 1, folds and mirrors shapes in Grade 2, names axial and central symmetry in Grade 5, and adds the centre of symmetry and rotation in Grade 6.
+**Acceptance count: taught in 25 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria).**.** Greece carries symmetry from the very start Iran completes the missing halves of pictures in Grade 1, folds and mirrors shapes in Grade 2, names axial and central symmetry in Grade 5, and adds the centre of symmetry and rotation in Grade 6.
 — folding and mirror completion in Grade 1, the fold-along-the-
 red-line test in Grade 3, axial symmetry in Grade 6, and the
 full axis-and-point symmetry chapter in Grade 7. Kazakhstan
@@ -247,3 +265,5 @@ for symmetry to stand as its own lesson. Laos carries symmetry from grid symmetr
 China carries symmetry as axial symmetry in Grades 2 and 4, and as central and rotational symmetry in Grade 9 Volume 1.
 
 Pakistan (Punjab) carries symmetry from the Primer's complete-the-half pictures through reflective symmetry in Grades 3–4 to Class 7's counted lines and rotational orders.
+
+Syria folds shapes from Grade 2, builds axial symmetry through Grades 3–6 — axes counted, images drawn on grids — and in Grade 7 adds central symmetry as a half-turn with its preservation properties and the axes-and-centres census of the familiar figures; Grade 8 Geometry then uses central symmetry as a proof tool for the midpoint theorems.

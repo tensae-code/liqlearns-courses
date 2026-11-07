@@ -1,6 +1,6 @@
 # Sources — Circles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria
 
 Every part traces to its book and page.
 
@@ -206,6 +206,18 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 
 **Book 96:** *Mathematics, Class 12* (student book) — Pakistan (Punjab), PCTB, held in the eLearn.Punjab digital edition, version 1.1, English-medium; the held copy has no cover, imprint or contents pages, so no edition year or ISBN can be proved from it; pagination restarts at printed p. 1 in every chapter and its pages are cited by chapter. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 97:** *Mathematics, Pupil's Book, Grade 5* — Syria, Ministry of Education with the National Center for Curriculum Development (NCCD), held printing 2025–2026/1446H, first printed 2016–2017, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 98:** *Mathematics, Pupil's Book, Grade 6* — Syria, Ministry of Education with the National Center for Curriculum Development (NCCD), held printing 2025–2026/1446H, first printed 2017–2018, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 99:** *Mathematics, Student's Book, Grade 7* — Syria, Ministry of Education with the National Center for Curriculum Development (NCCD), held printing 2021–2022/1442H, first printed 2013–2014, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 100:** *Mathematics — Geometry, Student's Book, Grade 8* — Syria, Ministry of Education (the ministry's name as printed, Ministry of Education and Teaching), held printing 2025–2026, first printed 2016–2017, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 101:** *Mathematics — Geometry, Student's Book, Grade 9* — Syria, Ministry of Education, held printing 2025–2026/1446H, first printed 2017–2018, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 102:** *Mathematics — Algebra, Student's Book, Grade 9* — Syria, Ministry of Education, held printing 2025–2026/1446H, first printed 2017–2018, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The circle and its parts (p.111) — names parts, no circumference or area yet | Jordan, Grade 6 Student Book Term 1, Unit 4, L4, p.111 |
@@ -310,8 +322,14 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 | Circle basics — centre, radius, circumference 2πr, area πr² (stated), arc, chord, diameter, segment and sector (major/minor), central angle | Pakistan (Punjab), Class 10 (PCTB-approved, Ilmi Kitab Khana 2017), Unit 9, printed p. 180 |
 | Practical geometry of circles — locating the centre of a given circle, the circle through three non-collinear points, completing a circle from a given part; the circumcircle, incircle and escribed circle of a triangle; tangent constructions — at a point, from an external point, common tangents to two circles | Pakistan (Punjab), Class 10 (PCTB-approved, Ilmi Kitab Khana 2017), Unit 13, printed pp. 221–237 |
 | The equation of a circle — the standard form (x − h)² + (y − k)² = r² and the general form x² + y² + 2gx + 2fy + c = 0 with centre (−g, −f); circles from given conditions; tangents and normals to the circle; the tangent perpendicular to the radius (proved by differentiation) | Pakistan (Punjab), Class 12 Mathematics (PCTB, eLearn.Punjab v1.1), Ch. 6, printed pp. 3–26 |
+| The circle as the points at one fixed distance from a centre point; centre, radius and diameter defined — the diameter is twice the radius; drawing a circle with compasses given the centre and the radius; concentric circles | Syria, Grade 5 pupil's book, printed pp. 108–112 |
+| The area of a circle of radius r is πr², calculated with π = 3.14 (worked: the grass cover for a circular garden of radius 10 is 314 square units) | Syria, Grade 6 pupil's book, printed pp. 159–160 |
+| The circumcircle: the perpendicular bisector of each side of a triangle — the three meet in one point, inside the triangle for an acute triangle, at the midpoint of the hypotenuse for a right triangle, and outside for an obtuse one — and that point is at equal distances from the three vertices, so exactly one circle passes through a triangle's vertices (a right triangle with hypotenuse 10 has circumradius 5); the area of a circle derived from the parallelogram — cutting the disc into more and more equal sectors and rearranging them gives a shape approaching a parallelogram of base πr and height r, so the area is πr² — with π ≈ 3.14 and the circumference P = 2πr recalled; areas left in terms of π (r = 5 cm gives S = 25π cm²); perimeter and area of a figure built from semicircles | Syria, Grade 7 student's book, printed pp. 141–148 |
+| In a right-angled triangle the hypotenuse is a diameter of the circumcircle; conversely, if a side is a diameter of the circle through the triangle's vertices, the angle opposite it is right; the median to the hypotenuse equals half the hypotenuse (the midpoint of the hypotenuse is equidistant from all three vertices), and conversely a median equal to half its side means a right angle at that vertex; a tangent (مماس) to a circle shares exactly one point with it, the point of contact — the tangent at a point is the line through that point perpendicular to the radius there, and the distance from the centre to any tangent equals the radius | Syria, Grade 8 Geometry student's book, printed pp. 74–75, 84–85 |
+| A line and a circle: a tangent shares exactly one point (the point of tangency), a secant shares two points, an exterior line shares none; the relative positions of two circles classified by comparing the centre distance OO′ with R + R′ and R′ − R — externally tangent, internally tangent, separate outside, separate inside, intersecting; the chord property: the line from a circle's centre perpendicular to a chord passes through the chord's midpoint, and the line from the centre through a chord's midpoint is perpendicular to the chord | Syria, Grade 9 Geometry student's book, printed pp. 41–44 |
+| Archimedes' bounds for π recalled in the Unit 1 review of numbers (3 10/71 < π < 3 1/7), with the approximations π ≈ 22/7 and Zu Chongzhi's π ≈ 355/113 | Syria, Grade 9 Algebra student's book, printed pp. 25–26 |
 
-**Acceptance count: taught in 25 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan).**.** Kazakhstan carries the full climb — circle Iran measures the circumference in Grade 5 — with the book's own bounds for π, 3 1/7 and 3 10/71, while its exercises work with π = 3 — the area of a circle in Grade 6, circle basics in Grade 8, and the circle's equation in Grade 12 Geometry (3).
+**Acceptance count: taught in 26 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria).**.** Kazakhstan carries the full climb — circle Iran measures the circumference in Grade 5 — with the book's own bounds for π, 3 1/7 and 3 10/71, while its exercises work with π = 3 — the area of a circle in Grade 6, circle basics in Grade 8, and the circle's equation in Grade 12 Geometry (3).
 parts in Grade 3, circle and disc in Grades 4 and 5, then the
 practical thread-and-glass discovery of pi with C = πD and the
 disc area in Grade 6. Jordan carries the parts in Grade 6 and
@@ -333,3 +351,5 @@ so Ghana is curriculum evidence only, not a teaching country. Laos carries circl
 China carries circles in Grade 9 Volume 1 — the circle as a locus, the position relations and regular polygons — and uses the circle formulas in the Grade 6 review; arc length and sector area in radian form come from the senior B-edition Volume 3.
 
 Pakistan (Punjab) carries circles from Grade 3's paper-folding centre, radius and diameter through Grade 7's circumference and area and Class 10's constructions to the Class 12 analytic treatment.
+
+Syria defines the circle, radius and diameter in Grade 5 and its area in Grade 6, derives the area πr² from rearranged sectors in Grade 7 — where the circumcircle of a triangle also appears — meets the tangent and the hypotenuse-as-diameter facts in Grade 8 Geometry, and classifies line–circle and circle–circle positions with the chord-midpoint property in Grade 9 Geometry. Ghana's presence in this lesson is curriculum evidence only and is not counted in the taught-in figure.
