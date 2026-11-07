@@ -1,6 +1,6 @@
 # Sources — Circle theorems
 
-countries: Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan
+countries: Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria
 
 Every part traces to its book and page.
 
@@ -70,6 +70,8 @@ maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 35:** *Mathematics, Class 12* (student book) — Pakistan (Punjab), PCTB, held in the eLearn.Punjab digital edition, version 1.1, English-medium; the held copy has no cover, imprint or contents pages, so no edition year or ISBN can be proved from it; pagination restarts at printed p. 1 in every chapter and its pages are cited by chapter. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 36:** *Mathematics — Geometry, Student's Book, Grade 9* — Syria, Ministry of Education, held printing 2025–2026/1446H, first printed 2017–2018, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Inscribed-angle theorem (an inscribed angle equals half its arc; three centre positions proved; corollary: angle on a diameter is 90°); Theorem 2: in a cyclic quadrilateral opposite angles sum to 180°; Theorem 3 (converse): if opposite angles sum to 180°, a circle can be circumscribed; Theorem 4: in a circumscribed quadrilateral the sums of lengths of opposite sides are equal; Theorem 5 (converse) | Kazakhstan, Geometry 9 (Shynybekov, Atamura 2019), Chapter 4 Circle. Polygons, §4.3 inscribed and circumscribed quadrilaterals, pp.126–162 |
@@ -124,8 +126,11 @@ maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 | Congruent arcs have equal corresponding chords, and equal chords cut off congruent corresponding arcs; equal chords subtend equal angles at the centre, and conversely | Pakistan (Punjab), Class 10 (PCTB-approved, Ilmi Kitab Khana 2017), Unit 11, printed pp. 203–209 |
 | The central angle of a minor arc is double the angle subtended by the major arc at the circumference (the inscribed-angle theorem); angles in the same segment are equal; the angle in a semi-circle is a right angle; opposite angles of a cyclic quadrilateral are supplementary | Pakistan (Punjab), Class 10 (PCTB-approved, Ilmi Kitab Khana 2017), Unit 12, printed pp. 212–217 |
 | The circle theorems proved analytically: the perpendicular from the centre bisects a chord, the perpendicular bisector of a chord passes through the centre, congruent chords are equidistant from the centre, the central-angle theorem and the angle in a semicircle | Pakistan (Punjab), Class 12 Mathematics (PCTB, eLearn.Punjab v1.1), Ch. 6, printed pp. 18–25 |
+| The angle in a semicircle, in the Unit 3 diagnostic: if M lies on the circle with diameter [AB] and M ≠ A, B, then triangle AMB is right-angled at M | Syria, Grade 9 Geometry student's book, Unit 3 diagnostic, printed p. 39 |
+| Inscribed angle defined — vertex on the circle, intercepting an arc — and central angle defined; the inscribed angle theorem: an inscribed angle equals half the central angle that shares its arc, and so two inscribed angles that share the same arc are equal, and an inscribed angle equals half its intercepted arc; an arc is measured by its central angle; central angles are equal exactly when their arcs are equal, and equal chords exactly when their arcs are equal (AB = CD ⇔ arc AB = arc CD, and then ÂOB = ĈOD); the tangent to a circle at a point A defined as the line through A perpendicular to the radius (OA) — the centre's distance to a tangent equals the radius, a tangent meets the circle in exactly one point, and from a point M outside the circle two tangents can be drawn whose tangent segments from M are equal; the tangent-chord angle (الزاوية المماسية) — vertex on the circle, one side a chord and the other tangent — treated like an inscribed angle sharing the same arc, measured by half its intercepted arc | Syria, Grade 9 Geometry student's book, printed pp. 40–45 |
+| A cyclic quadrilateral (الرباعي الدائري) defined — a quadrilateral whose vertices all lie on one circle; a rectangle is cyclic, because its diagonals are equal and bisect each other, so its vertices are equidistant from their intersection, while a general parallelogram is not cyclic; in a cyclic quadrilateral, opposite angles are supplementary — proved using the reflex central angle (BÔD = 360° − 2x gives BĈD = 180° − x); an exterior angle equals the opposite interior angle; if C, D lie on the same side of (BD) then BÂD = BĈD; the converses — if two angles subtending the same segment from the same side are equal, the four points are concyclic, and if a quadrilateral's opposite angles are supplementary, it is cyclic (worked: Â = 70° gives Ĉ = 110°; quadrilateral ABEF with B̂ = F̂ = 90° is cyclic, its circumcentre the mid-point of [AE], and AE² = 3² + 4² = 25 gives R = 5/2) | Syria, Grade 9 Geometry student's book, printed pp. 47–49 |
 
-**Acceptance count: taught in 20 countries (Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan).** Kazakhstan carries the Iran states the inscribed-angle and tangent–radius facts in Grade 8 and develops the circle theorems by guided proof — power of a point and cyclic quadrilaterals included — in Grade 11 Geometry (2).
+**Acceptance count: taught in 21 countries (Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria).** Kazakhstan carries the Iran states the inscribed-angle and tangent–radius facts in Grade 8 and develops the circle theorems by guided proof — power of a point and cyclic quadrilaterals included — in Grade 11 Geometry (2).
 fullest treatment — the inscribed-angle theorem with all
 cases, the tangent–chord angle, the inside/outside angle
 theorems, the three segment products, cyclic and circumscribed
@@ -149,3 +154,5 @@ depth, so no fold was needed. Laos touches circle theorems only in part — insc
 China carries circle theorems whole in Grade 9 Volume 1 — the perpendicular-diameter theorem, the central- and inscribed-angle theorems, cyclic quadrilaterals and the tangent theorems.
 
 Pakistan (Punjab) carries the circle theorems in Class 10's four full geometry units — chords, tangents, arcs and the angle in a segment — and proves the central ones again analytically in Class 12.
+
+Syria's circle theorems are all in Grade 9 Geometry: inscribed and central angles with the half-angle theorem, equal chords and equal arcs, the tangent-chord angle, and the cyclic quadrilateral — opposite angles supplementary, proved with the reflex central angle — with both converses stated.
