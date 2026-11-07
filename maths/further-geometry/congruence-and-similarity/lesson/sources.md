@@ -1,6 +1,6 @@
 # Sources — Congruence and similarity
 
-countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India
+countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia
 
 Every part traces to its book and page.
 
@@ -160,6 +160,10 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 **Book 74:** *Mathematics — Textbook for Class VII* — India, NCERT, New Delhi, first edition February 2007, 2020-21 issue, ISBN 81-7450-669-1. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Brain-Teasers; nothing is cited from them.
 **Book 75:** *Mathematics — Textbook for Class IX* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-489-3. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendix 1 (Proofs in Mathematics), Appendix 2 (Introduction to Mathematical Modelling) and Answers/Hints; nothing is cited from them.
 **Book 76:** *Mathematics — Textbook for Class X* — India, NCERT, New Delhi, first edition December 2006, 2020-21 printing, ISBN 81-7450-634-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 77:** *Математик VI (Mathematics, Grade 6)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 78:** *Математик VII (Mathematics, Grade 7)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 79:** *Математик VIII (Mathematics, Grade 8)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 80:** *Математик IX (Mathematics, Grade 9)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -292,8 +296,25 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Similarity applications — shadow/height and figure problems using the criteria (worked examples) | India, Mathematics Class 10, printed p. 135 |
 | Areas of similar triangles — Theorem 6.6 proved: ratio of areas of two similar triangles = square of the ratio of corresponding sides (also of medians/altitudes in exercises) | India, Mathematics Class 10, printed p. 141 |
 | RHS similarity note — note to the reader: RHS similarity criterion for right triangles (hypotenuse and one side proportional) — stated in a note, not proved in the chapter | India, Mathematics Class 10, printed p. 154 |
+| Recognising congruent figures by superposition (one figure assembled from another's pieces) | Mongolia, Математик VI (Grade 6), printed p. 157 |
+| Triangle congruence criterion SSS (side-side-side) stated and used | Mongolia, Математик VI (Grade 6), printed p. 159 |
+| Triangle congruence criterion ASA (angle-side-angle) stated and used | Mongolia, Математик VI (Grade 6), printed p. 160 |
+| Deciding which congruence criterion applies from given equal parts and marking congruent triangles | Mongolia, Математик VI (Grade 6), printed p. 161 |
+| Congruent triangles defined (all corresponding sides and angles equal, ΔABC = ΔMNK) and investigated by transforming one onto the other | Mongolia, Математик VII (Grade 7), printed p. 104 |
+| The three congruence criteria stated: SSS, ASA, SAS, each pictured with its matching condition | Mongolia, Математик VII (Grade 7), printed p. 105 |
+| Identifying congruent triangles in complex figures and naming the criterion; right-triangle congruence criteria as an investigation | Mongolia, Математик VII (Grade 7), printed p. 106 |
+| Definition — similar figures (boxed): angles equal, sides in constant ratio k, the similarity coefficient | Mongolia, Математик VIII (Grade 8), printed p. 115 |
+| Notation — similarity notation with vertex order ABCD~EFGH; transitivity (to prove) | Mongolia, Математик VIII (Grade 8), printed p. 116 |
+| Proof — AA similarity criterion stated and proved via homothety plus congruence | Mongolia, Математик VIII (Grade 8), printed p. 124 |
+| Criteria — SSS similarity criterion with proof; SAS similarity criterion | Mongolia, Математик VIII (Grade 8), printed p. 125 |
+| Perimeter ratio equals k; trapezium diagonal problem | Mongolia, Математик VIII (Grade 8), printed p. 126 |
+| Shadow measurement (lamp post 560 cm, Eiffel Tower); mirror method for heights (project) | Mongolia, Математик VIII (Grade 8), printed p. 127 |
+| Property — corresponding altitudes, medians, bisectors of similar triangles are in ratio k (boxed); medial triangle | Mongolia, Математик VIII (Grade 8), printed p. 128 |
+| Theorem — basic proportionality (Thales) theorem and converse; angle-bisector theorem as a project | Mongolia, Математик VIII (Grade 8), printed p. 128 |
+| Proof — areas of similar figures: sides k ⇒ perimeter k ⇒ area k² (boxed summary, proved for trapeziums) | Mongolia, Математик VIII (Grade 8), printed p. 165 |
+| Properties — similarity (Төсөө) properties of triangles | Mongolia, Математик IX (Grade 9), printed p. 123 |
 
-**Acceptance count: taught in 28 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India).**.** Iran matches congruent figures by superposition in Grade 7, states the SSS, SAS and ASA criteria in Grade 8, proves congruence and meets similar figures in Grade 9, and proves Thales' theorem with the AA, SAS and SSS similarity criteria in Grade 10 Geometry (1).
+**Acceptance count: taught in 29 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia).**.** Iran matches congruent figures by superposition in Grade 7, states the SSS, SAS and ASA criteria in Grade 8, proves congruence and meets similar figures in Grade 9, and proves Thales' theorem with the AA, SAS and SSS similarity criteria in Grade 10 Geometry (1).
 Libya carries the fullest single treatment — congruence tests
 including RHS, similarity, applications, and the k² area and k³
 volume rules in one chapter (Grade 9, Chapter 8, pp.156–193).
@@ -326,3 +347,6 @@ Malaysia treats congruency in Form 5 as the first section of its transformations
 Sudan proves congruence in Grade 6 (SSS, SAS, ASA, RHS, with formal proofs), similarity in Grade 7 (AA, SSS, SAS and parallel-line applications), and in Grade 8 the equal-intercepts theorem and the two midpoint theorems — the midpoint-parallel theorem with two proofs, and the mid-segment theorem with Varignon's midpoint parallelogram as an exercise.
 
 India carries congruence and similarity through its NCERT ladder — Mathematics Class 7, 9–10 — including exterior angle of a triangle = sum of the two interior opposite angles, by activity and by proof; congruence; similar figures defined (same shape, not necessarily same size); all congruent figures are similar, converse false; squares/circles/polygons examined.
+
+
+Mongolia enters through its ministry textbooks Математик VI, VII, VIII, IX (Grades 6, 7, 8, 9): definition; notation; proof.

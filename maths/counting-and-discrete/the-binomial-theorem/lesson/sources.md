@@ -1,6 +1,6 @@
 # Sources — The Binomial Theorem
 
-countries: Pakistan, Indonesia, Vietnam, Yemen, Kuwait, Laos, Cambodia, Egypt, Ethiopia, Armenia, Iraq, Kazakhstan, Syria, Sudan, India
+countries: Pakistan, Indonesia, Vietnam, Yemen, Kuwait, Laos, Cambodia, Egypt, Ethiopia, Armenia, Iraq, Kazakhstan, Syria, Sudan, India, Mongolia
 
 Every part traces to its book and page.
 
@@ -29,6 +29,7 @@ Every part traces to its book and page.
 
 **Book 21:** *Specialized Mathematics, Book One, Grade 12 (science track)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, revised issue, Arabic, ISBN 978-99942-53-18-0. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 22:** *Mathematics — Textbook for Class XI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-486-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendices 1–2, the Answers and the Supplementary Material; nothing is cited from them.
+**Book 23:** *Математик X (Mathematics, Grade 10)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -59,10 +60,14 @@ Every part traces to its book and page.
 | The theorem — binomial expansions observed, Pascal's triangle, Binomial Theorem for positive integral index stated | India, Mathematics Class 11, printed p. 160 |
 | Special cases (x − y)^n and (1 + x)^n; comparing large powers (e.g. (1.01)^1000000 vs 10,000) | India, Mathematics Class 11, printed p. 164 |
 | General and middle terms — general term T(r+1) = nCr a^(n−r) b^r; middle term(s) for even/odd n | India, Mathematics Class 11, printed p. 167 |
-**Acceptance count: taught in 15 countries (Pakistan, Indonesia, Vietnam, Yemen, Kuwait, Laos, Cambodia, Egypt, Ethiopia, Armenia, Iraq, Kazakhstan, Syria, Sudan, India).** Pakistan carries the fullest treatment — the theorem proved by induction, the general term, and the closing binomial series for negative and fractional powers at pp.158–159. Indonesia carries Pascal's triangle twice over: as a Grade 8 K13 pattern (Bab 1, pp.1–40) and inside the Grade 12 Revisi binomial lesson (pp.113–118); its Grade 12 Merdeka (2022) book does NOT contain Pascal's triangle and is cited nowhere for it. Vietnam carries the expansion in Grade 10 Volume 2 and an induction proof in the Grade 10 study book. Yemen carries the theorem in its Σ C(n,k) form at Grade 12 Science p.65. Kuwait carries the expansion in both its Grade 11 Term 2 mathematics book and its Grade 11 Statistics Term 2 book. Laos carries it in the Grade 11 counting chapter, Cambodia in the Grade 10 case (1+a)ⁿ, Egypt in Pure Grade 12 Unit 1, and Ethiopia at Grade 11 §8.4. Armenia carries the same ground as teacher evidence only: its Grade 12 guide plans Newton's binomial and Pascal's triangle in Chapter 2 §4, but the Grade 12 student book is not held. Iraq carries the theorem twice: closing the Grade 11 Scientific counting chapter ([8-6], pp.211–215), with the general term in r-th-term form and the check (101)³ = 1,030,301, and again in Grade 12 Literary (1-5, p.24), where the term free of x is worked as its own question type. Kazakhstan carries Newton's binomial at the end of the combinatorics chapter in each of its four Grade 9 algebra books — Yelemessov (§2.3, pp.64–70), Shynybekov (§2.6, p.54), Abylkasymova (§11, p.92) and Soltan (§11, p.82), the last carrying Pascal's table to n = 9 and approximate computation from the expansion.
+| Coefficients in (a+b)^4 and (a+b)^6 counted via combinations (binomial coefficients in all but name) | Mongolia, Математик X (Grade 10), printed p. 183 |
+**Acceptance count: taught in 16 countries (Pakistan, Indonesia, Vietnam, Yemen, Kuwait, Laos, Cambodia, Egypt, Ethiopia, Armenia, Iraq, Kazakhstan, Syria, Sudan, India, Mongolia).** Pakistan carries the fullest treatment — the theorem proved by induction, the general term, and the closing binomial series for negative and fractional powers at pp.158–159. Indonesia carries Pascal's triangle twice over: as a Grade 8 K13 pattern (Bab 1, pp.1–40) and inside the Grade 12 Revisi binomial lesson (pp.113–118); its Grade 12 Merdeka (2022) book does NOT contain Pascal's triangle and is cited nowhere for it. Vietnam carries the expansion in Grade 10 Volume 2 and an induction proof in the Grade 10 study book. Yemen carries the theorem in its Σ C(n,k) form at Grade 12 Science p.65. Kuwait carries the expansion in both its Grade 11 Term 2 mathematics book and its Grade 11 Statistics Term 2 book. Laos carries it in the Grade 11 counting chapter, Cambodia in the Grade 10 case (1+a)ⁿ, Egypt in Pure Grade 12 Unit 1, and Ethiopia at Grade 11 §8.4. Armenia carries the same ground as teacher evidence only: its Grade 12 guide plans Newton's binomial and Pascal's triangle in Chapter 2 §4, but the Grade 12 student book is not held. Iraq carries the theorem twice: closing the Grade 11 Scientific counting chapter ([8-6], pp.211–215), with the general term in r-th-term form and the check (101)³ = 1,030,301, and again in Grade 12 Literary (1-5, p.24), where the term free of x is worked as its own question type. Kazakhstan carries Newton's binomial at the end of the combinatorics chapter in each of its four Grade 9 algebra books — Yelemessov (§2.3, pp.64–70), Shynybekov (§2.6, p.54), Abylkasymova (§11, p.92) and Soltan (§11, p.82), the last carrying Pascal's table to n = 9 and approximate computation from the expansion.
 
 Syria expands (a + b)ⁿ in Grade 12 Part Two and puts the binomial theorem to work inside its own combinatorics unit.
 
 Sudan expands (a + b)ⁿ in Grade 12 Specialized Book One, with the general term.
 
 India enters the binomial theorem from Mathematics Class 11: the theorem.
+
+
+Mongolia enters through its ministry textbook Математик X (Grade 10): the coefficients in (a+b)⁴ and (a+b)⁶ counted out through combinations in the combinatorics exercises (printed p. 183) — binomial coefficients in all but name.

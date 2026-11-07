@@ -1,6 +1,6 @@
 # Sources — The special lines and centres of a triangle
 
-countries: Kuwait, Laos, Yemen, Cambodia, Egypt, Greece, Iraq, Jordan, Sierra Leone, Kazakhstan, Syria, Sudan
+countries: Kuwait, Laos, Yemen, Cambodia, Egypt, Greece, Iraq, Jordan, Sierra Leone, Kazakhstan, Syria, Sudan, Mongolia
 
 Every part traces to its book and page.
 
@@ -22,6 +22,7 @@ Every part traces to its book and page.
 **Book 14:** *Mathematics — Geometry, Student's Book, Grade 9* — Syria, Ministry of Education, held printing 2025–2026/1446H, first printed 2017–2018, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 15:** *Mathematics, Grade 8 (Second Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2022, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 16:** *Математик IX (Mathematics, Grade 9)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -49,9 +50,13 @@ Every part traces to its book and page.
 
 | Medians and the centroid — medians concurrent at the centroid, dividing each median 2:1 from the vertex — with proof | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 78 |
 | Median to the hypotenuse — median to the hypotenuse equals half the hypotenuse — proved by doubling the median | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 81 |
-**Acceptance count: taught in 12 countries (Kuwait, Laos, Yemen, Cambodia, Egypt, Greece, Iraq, Jordan, Sierra Leone, Kazakhstan, Syria, Sudan).**
+| Property — median property; the centroid | Mongolia, Математик IX (Grade 9), printed p. 82 |
+**Acceptance count: taught in 13 countries (Kuwait, Laos, Yemen, Cambodia, Egypt, Greece, Iraq, Jordan, Sierra Leone, Kazakhstan, Syria, Sudan, Mongolia).**
 Kuwait carries the fullest treatment — a whole Grade 9 Term 2 unit walking the six topics in order: mid-segment, median to the hypotenuse, circumcentre, incentre, orthocentre, centroid — and its Grade 10 Term 2 book carries this lesson's one corrected error: the angle-bisector intersection printed as "Circum Center" on p. 23 is the Incenter, taught corrected everywhere in this lesson. Laos carries the notable lines whole in Grade 7, opened by the paper-triangle balancing experiment, with OA = OB = OC at the circumcentre. Yemen carries a proved triangle-theorem sequence in Grade 8 Part 2 — Thales and the bisectors in Unit 6, then mid-segment, hypotenuse-midpoint, the 30° side, medians and altitudes in Unit 7. Cambodia carries the full concurrence system in one Grade 8 lesson, with the centroid's AG = (2/3)AA′ proved via the midpoint theorem. Egypt carries the medians, their concurrency and the median-to-the-hypotenuse in Grade 8 Term 1. Greece carries the centroid and orthocentre among the notable lines in Euclidean Geometry Volume A. Iraq carries the medians and centroid with the 2:1 ratio in Grade 9. Jordan carries proportional parts, the mid-segment theorem, the bisectors' concurrency, medians and altitudes in Grade 9 Term 2. Sierra Leone carries the mid-point theorem and the angle bisector theorem in SSS 2. Kazakhstan carries the excircles — the part no other cited country teaches — in Geometry 8 §1.7 and Geometry 9 §20.
 
 Syria's triangle-centre theory is in Grade 8 Geometry — perpendicular bisectors, altitudes, medians and bisectors each proved concurrent — and is recalled in the Grade 9 diagnostic.
 
 Sudan teaches the medians and the centroid, and the median to the hypotenuse, in Grade 8.
+
+
+Mongolia enters through its ministry textbooks Математик IX (Grade 9): property.

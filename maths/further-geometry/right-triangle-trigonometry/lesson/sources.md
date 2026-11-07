@@ -1,6 +1,6 @@
 # Sources — Right-triangle trigonometry
 
-countries: Jordan, Egypt, Sierra Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India
+countries: Jordan, Egypt, Sierra Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia
 
 Every part traces to its book and page.
 
@@ -103,6 +103,8 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 
 **Book 49:** *Mathematics, Grade 10 (First Year Secondary)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, Arabic; no edition or year is printed in the book. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 50:** *Mathematics — Textbook for Class X* — India, NCERT, New Delhi, first edition December 2006, 2020-21 printing, ISBN 81-7450-634-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 51:** *Математик IX (Mathematics, Grade 9)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 52:** *Математик X (Mathematics, Grade 10)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -190,9 +192,15 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Line of sight, angle of elevation and angle of depression defined | India, Mathematics Class 10, printed p. 195 |
 | Heights and distances — heights/distances worked problems: tower, ladder against wall/electric pole, observer and minar, shadow problems | India, Mathematics Class 10, printed p. 196 |
 | Heights and distances — two-observation problems: depression of top and bottom of a building, bridge over a river, moving car/balloon, complementary elevation angles ⇒ height 6 m proof exercise | India, Mathematics Class 10, printed p. 200 |
+| Definition — trigonometric ratios: opposite/adjacent/hypotenuse; sine, cosine, tangent, cotangent | Mongolia, Математик IX (Grade 9), printed p. 83 |
+| Calculator use for trigonometric ratios | Mongolia, Математик IX (Grade 9), printed p. 84 |
+| Definition — sin, cos, tan for 0°–180° from the unit semicircle: sin α = y, cos α = x, tan α = y/x | Mongolia, Математик X (Grade 10), printed p. 103 |
+| Values — values at 0°, 90°, 180°; tan 90° undefined | Mongolia, Математик X (Grade 10), printed p. 103 |
+| Reading sin/cos from squared paper (sin 54° ≈ 0.8); calculator values | Mongolia, Математик X (Grade 10), printed p. 104 |
+| Signs for acute vs obtuse angles; finding one ratio from another | Mongolia, Математик X (Grade 10), printed p. 105 |
 
-**Acceptance count: taught in 26 countries (Jordan, Egypt, Sierra
-Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India).**
+**Acceptance count: taught in 27 countries (Jordan, Egypt, Sierra
+Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia).**
 Jordan carries the cleanest introduction — ratios from similar
 right triangles, then elevation and depression. Egypt carries
 the special-angle table and tan = sin / cos in Preparatory 3,
@@ -221,3 +229,6 @@ Malaysia builds the three ratios from a similarity activity — the ratios are c
 Sudan teaches the three ratios in Grade 8 by drawing and measurement before the calculator, with special angles and applications, after introducing directed angles in Grade 10.
 
 India stocks right-triangle trigonometry from Mathematics Class 10: trig ratios defined.
+
+
+Mongolia enters through its ministry textbooks Математик IX, X (Grades 9, 10): definition; values.

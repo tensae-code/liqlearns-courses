@@ -1,6 +1,6 @@
 # Sources — Temperature and Traditional Measures
 
-countries: Nepal, South Africa, South Sudan, Mauritania, Nicaragua, Kazakhstan, Laos, Sudan, India
+countries: Nepal, South Africa, South Sudan, Mauritania, Nicaragua, Kazakhstan, Laos, Sudan, India, Mongolia
 
 Every part traces to its book and page.
 
@@ -20,6 +20,7 @@ Every part traces to its book and page.
 
 **Book 14:** *Mathematics, Grade 4* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, second edition 2021, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 15:** *Math-Magic Book 5 — Textbook in Mathematics for Class V* — India, NCERT, New Delhi, first edition March 2008, 2020-21 issue, ISBN 978-81-7450-828-7. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 16:** *Математик VII (Mathematics, Grade 7)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -36,8 +37,12 @@ Every part traces to its book and page.
 
 | Traditional dry measures (al-makāyīl) — measuring sorghum and wheat: 1 kayla = 2 rubuʿ = 4 malwa; 1 rubuʿ = 2 malwa; conversions (7 kayla = 28 malwa; 48 malwa = 12 kayla) | Sudan, Grade 4 Mathematics, printed p. 53 |
 | Temperature — City temperatures in degrees Celsius with decimals (Srinagar 8.1°C, Mumbai 35.1°C): hottest, coolest, differences | India, Math-Magic Class 5, printed p. 145 |
-**Acceptance count: taught in 9 countries (Nepal, South Africa, South Sudan, Mauritania, Nicaragua, Kazakhstan, Laos, Sudan, India).** Nepal carries both halves of the lesson: the thermometer with both scales in Grade 4, and the land units — ropani, aana, paisa, daam, katha, dhur — as a full Grade 9 strand with cost problems. South Africa carries thermometer reading through its Grade 5–7 workbooks, in weather contexts. South Sudan carries the conversion formulas in its student books — Pupil's Book 5 prints them correctly with the 32 offset, and Pupil's Book 7 works 50 °C = 122 °F; only the student books are cited, never the P7 guide, which prints the formulas without the 32. Mauritania carries the fullest traditional-measures chapter: the Islamic measures of length, weight, capacity and time, with values, worked into zakat exercises. Nicaragua carries body units by name in Grade 1 and its own land units, vara cuadrada and manzana, in Grade 4. Kazakhstan carries the old Kazakh length units in a Grade 5 reference box. Laos carries the traditional Lao mass units — baht, salung, hun — and the carat in Grade 5.
+| Mongolian traditional units — Traditional length units with metric values (yamkh 3.2 cm, sööm 16 cm, mukhar sööm 12 cm, töö 18 cm, tokhoi 32 cm, alkham 71 cm, delem 1 m, ald 160–165 cm) and traditional weights (dan 59.68 kg, jin 596.82 g, lan 37.3 g, tsen 3.73 g, pun 0.373 g), converted both ways | Mongolia, Математик VII (Grade 7), printed p. 129 |
+**Acceptance count: taught in 10 countries (Nepal, South Africa, South Sudan, Mauritania, Nicaragua, Kazakhstan, Laos, Sudan, India, Mongolia).** Nepal carries both halves of the lesson: the thermometer with both scales in Grade 4, and the land units — ropani, aana, paisa, daam, katha, dhur — as a full Grade 9 strand with cost problems. South Africa carries thermometer reading through its Grade 5–7 workbooks, in weather contexts. South Sudan carries the conversion formulas in its student books — Pupil's Book 5 prints them correctly with the 32 offset, and Pupil's Book 7 works 50 °C = 122 °F; only the student books are cited, never the P7 guide, which prints the formulas without the 32. Mauritania carries the fullest traditional-measures chapter: the Islamic measures of length, weight, capacity and time, with values, worked into zakat exercises. Nicaragua carries body units by name in Grade 1 and its own land units, vara cuadrada and manzana, in Grade 4. Kazakhstan carries the old Kazakh length units in a Grade 5 reference box. Laos carries the traditional Lao mass units — baht, salung, hun — and the carat in Grade 5.
 
 Sudan keeps its traditional dry measures in Grade 4: 1 kayla = 2 rubuʿ = 4 malwa, taught inside the capacity work.
 
 India enters temperature and traditional measures from Math-Magic Class 5: temperature.
+
+
+Mongolia enters through its ministry textbook Математик VII (Grade 7): the traditional Mongolian units as a full opening unit — length in yamkh (3.2 cm), sööm (16 cm), mukhar sööm (12 cm), töö (18 cm), tokhoi (32 cm), alkham (71 cm), delem (1 m) and ald (160–165 cm), weight in dan (59.68 kg), jin (596.82 g), lan (37.3 g), tsen (3.73 g) and pun (0.373 g) — converted both ways against metric, worked into historical problems, and measured first on the pupils' own bodies.

@@ -1,6 +1,6 @@
 # Sources — Circle theorems
 
-countries: Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India
+countries: Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia
 
 Every part traces to its book and page.
 
@@ -77,6 +77,9 @@ maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 **Book 38:** *Mathematics, Grade 9 (Third Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2024, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 39:** *Mathematics — Textbook for Class IX* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-489-3. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendix 1 (Proofs in Mathematics), Appendix 2 (Introduction to Mathematical Modelling) and Answers/Hints; nothing is cited from them.
 **Book 40:** *Mathematics — Textbook for Class X* — India, NCERT, New Delhi, first edition December 2006, 2020-21 printing, ISBN 81-7450-634-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 41:** *Математик VIII (Mathematics, Grade 8)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 42:** *Математик IX (Mathematics, Grade 9)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 43:** *Математик X (Mathematics, Grade 10)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -171,8 +174,22 @@ maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 | Tangent perpendicular to radius — Theorem 10.1 proved: the tangent at any point of a circle is perpendicular to the radius through the point of contact; point of contact defined | India, Mathematics Class 10, printed p. 207 |
 | Equal tangents — Theorem 10.2 proved: lengths of the two tangents from an external point are equal | India, Mathematics Class 10, printed p. 211 |
 | Tangent applications — chord of the larger of two concentric circles touches the smaller (proved example); tangents TP, TQ with centre angle; chord-and-tangent length problem | India, Mathematics Class 10, printed p. 212 |
+| Definition — sector and arc notation; central angle; degree measure of an arc | Mongolia, Математик VIII (Grade 8), printed p. 107 |
+| Proof — inscribed angle theorem proved in three cases (centre inside / on a side / outside) | Mongolia, Математик VIII (Grade 8), printed p. 108 |
+| Angles in the same segment equal; angle in a semicircle is 90° and its converse | Mongolia, Математик VIII (Grade 8), printed p. 109 |
+| Cyclic quadrilateral opposite angles sum to 180° (to prove); five-pointed star angle sum (project) | Mongolia, Математик VIII (Grade 8), printed p. 110 |
+| Cyclic quadrilateral | Mongolia, Математик IX (Grade 9), printed p. 31 |
+| Proof — inscribed angle theorem proved in three cases | Mongolia, Математик X (Grade 10), printed p. 87 |
+| Proof — angle in a semicircle is 90° (Thales) proved | Mongolia, Математик X (Grade 10), printed p. 88 |
+| Proof — angles in the same segment are equal | Mongolia, Математик X (Grade 10), printed p. 89 |
+| Circumradius of a right triangle = half the hypotenuse (proved) | Mongolia, Математик X (Grade 10), printed p. 92 |
+| Proof — cyclic quadrilateral: opposite angles sum to 180° | Mongolia, Математик X (Grade 10), printed p. 92 |
+| Proof — tangential (circumscribed) quadrilateral: sums of opposite sides are equal | Mongolia, Математик X (Grade 10), printed p. 94 |
+| Proof — angle between tangent and chord equals the angle in the alternate segment | Mongolia, Математик X (Grade 10), printed p. 96 |
+| Proof — intersecting chords theorem PA·PB = PC·PD (similar triangles) | Mongolia, Математик X (Grade 10), printed p. 97 |
+| Proof — external-secant rule PA·PB = PC·PD; tangent-secant rule PK² = PA·PB | Mongolia, Математик X (Grade 10), printed p. 97 |
 
-**Acceptance count: taught in 24 countries (Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India).** Kazakhstan carries the Iran states the inscribed-angle and tangent–radius facts in Grade 8 and develops the circle theorems by guided proof — power of a point and cyclic quadrilaterals included — in Grade 11 Geometry (2).
+**Acceptance count: taught in 25 countries (Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia).** Kazakhstan carries the Iran states the inscribed-angle and tangent–radius facts in Grade 8 and develops the circle theorems by guided proof — power of a point and cyclic quadrilaterals included — in Grade 11 Geometry (2).
 fullest treatment — the inscribed-angle theorem with all
 cases, the tangent–chord angle, the inside/outside angle
 theorems, the three segment products, cyclic and circumscribed
@@ -204,3 +221,6 @@ Malaysia gives circle theorems a full Form 3 chapter — every standard theorem 
 Sudan's Grade 9 circle unit is the deepest elementary treatment in the set: fourteen theorems, every one formally proved, running from equal chords and arcs through the central angle theorem, the angle in a semicircle, angles in the same segment and intersecting chords to the cyclic quadrilateral and the alternate segment theorem.
 
 India stocks circle theorems from Mathematics Class 9–10: equal chords; tangent perpendicular to radius.
+
+
+Mongolia enters through its ministry textbooks Математик VIII, IX, X (Grades 8, 9, 10): definition; proof.

@@ -1,6 +1,6 @@
 # Sources — Errors and Accuracy
 
-countries: Kazakhstan, Sierra Leone, Malaysia, India
+countries: Kazakhstan, Sierra Leone, Malaysia, India, Mongolia
 
 Every part traces to its book and page.
 
@@ -11,6 +11,7 @@ Every part traces to its book and page.
 **Book 4:** *Mathematics Form 3* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-983-00-9651-3) and BM original *Matematik Tingkatan 3* (Pustaka Yakin Pelajar Sdn. Bhd., 2018, ISBN 978-967-490-042-7). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 5:** *Additional Mathematics Form 5* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Abadi Ilmu Sdn. Bhd., 2020, ISBN 978-983-2914-68-6) and BM original *Matematik Tambahan Tingkatan 5* (Abadi Ilmu Sdn. Bhd., 2020, ISBN 978-983-2914-67-9). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 6:** *Math-Magic Book 5 — Textbook in Mathematics for Class V* — India, NCERT, New Delhi, first edition March 2008, 2020-21 issue, ISBN 978-81-7450-828-7. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 7:** *Математик IX (Mathematics, Grade 9)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -22,9 +23,13 @@ Every part traces to its book and page.
 | Estimation and approximation, and the degree of accuracy of a measurement or a value — the lead-in discussion to significant figures (main filing: rounding-and-estimating) | Malaysia, Mathematics Form 3, Ch. 2 §2.1, printed p. 32 |
 | Small changes and approximations found from the derivative: δy ≈ (dy/dx)δx, and f(x + δx) ≈ f(x) + (dy/dx)δx (main filing: derivatives) | Malaysia, Additional Mathematics Form 5, Ch. 2 §2.4, printed pp. 71–74 |
 | Estimating angles — Angles in nature and the body: bee-dance angle, leaf and beak angles, angles in block-letter names, slide steepness | India, Math-Magic Class 5, printed p. 24 |
+| Definition — over-approximations and under-approximations (bounds) | Mongolia, Математик IX (Grade 9), printed p. 55 |
 
-**Acceptance count: taught in 4 countries (Kazakhstan, Sierra Leone, Malaysia, India).** Kazakhstan carries absolute and relative error in two independent Grade 7 algebra books — Shynybekov's as an exercise set inside approximate numbers (§1.3, p.42), and Yelemessov's as taught approximation errors (Ch. 1, p.66, with approximation itself at p.62). Sierra Leone carries the senior-school half of the topic: percentage error when rounded values are used (SSS 2, L7, p.19) and degree of accuracy — choosing an appropriate degree of accuracy for given data (SSS 2, L8, p.22). No other read country's filing teaches errors and accuracy as its own topic; plain estimation and rounding live in the rounding-and-estimating lesson, not here.
+**Acceptance count: taught in 5 countries (Kazakhstan, Sierra Leone, Malaysia, India, Mongolia).** Kazakhstan carries absolute and relative error in two independent Grade 7 algebra books — Shynybekov's as an exercise set inside approximate numbers (§1.3, p.42), and Yelemessov's as taught approximation errors (Ch. 1, p.66, with approximation itself at p.62). Sierra Leone carries the senior-school half of the topic: percentage error when rounded values are used (SSS 2, L7, p.19) and degree of accuracy — choosing an appropriate degree of accuracy for given data (SSS 2, L8, p.22). No other read country's filing teaches errors and accuracy as its own topic; plain estimation and rounding live in the rounding-and-estimating lesson, not here.
 
 Malaysia carries degree of accuracy in Form 3 as the doorway into significant figures, and meets approximation again at the top end, where a small change in a quantity is estimated from its derivative.
 
 India enters errors and accuracy from Math-Magic Class 5: estimating angles.
+
+
+Mongolia enters through its ministry textbook Математик IX (Grade 9): over-approximations and under-approximations — the bounds a rounded or measured value lies between.

@@ -1,6 +1,6 @@
 # Sources — Constructions with ruler and compass
 
-countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India
+countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia
 
 Every part traces to its book and page.
 
@@ -36,6 +36,9 @@ Every part traces to its book and page.
 **Book 21:** *Mathematics — Textbook for Class VII* — India, NCERT, New Delhi, first edition February 2007, 2020-21 issue, ISBN 81-7450-669-1. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Brain-Teasers; nothing is cited from them.
 **Book 22:** *Mathematics — Textbook for Class IX* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-489-3. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendix 1 (Proofs in Mathematics), Appendix 2 (Introduction to Mathematical Modelling) and Answers/Hints; nothing is cited from them.
 **Book 23:** *Mathematics — Textbook for Class X* — India, NCERT, New Delhi, first edition December 2006, 2020-21 printing, ISBN 81-7450-634-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 24:** *Математик VI (Mathematics, Grade 6)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 25:** *Математик VII (Mathematics, Grade 7)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 26:** *Математик VIII (Mathematics, Grade 8)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -79,7 +82,18 @@ Every part traces to its book and page.
 | Dividing a segment — Construction 11.1/§11.2: divide a line segment internally in a given ratio (two methods: parallel rays / alternate segments), with justification from BPT | India, Mathematics Class 10, printed p. 216 |
 | Similar triangle construction — construct a triangle similar to a given triangle with a given scale factor (3/4 and 5/3 examples), justified by BPT and SAS similarity | India, Mathematics Class 10, printed p. 218 |
 | Tangents construction — construct the pair of tangents from an external point to a circle (via the circle on OP as diameter), with justification | India, Mathematics Class 10, printed p. 220 |
-**Acceptance count: taught in 12 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India).**
+| Constructing parallel and perpendicular lines; triangle from two sides and the included angle | Mongolia, Математик VI (Grade 6), printed p. 112 |
+| Basic construction 1: copy a segment with compass and unmarked ruler; constructing sums/differences of segments | Mongolia, Математик VII (Grade 7), printed p. 108 |
+| Basic construction 2: copy an angle, with a correctness proof by SSS | Mongolia, Математик VII (Grade 7), printed p. 109 |
+| Basic construction 3: find a segment's midpoint and its perpendicular bisector, proved via a rhombus's diagonals | Mongolia, Математик VII (Grade 7), printed p. 110 |
+| Basic construction 4: bisect an angle, proved by SSS (ΔFBD = ΔFBE) | Mongolia, Математик VII (Grade 7), printed p. 111 |
+| Basic construction 5: perpendicular from a point to a line; parallel through a point by copying an angle | Mongolia, Математик VII (Grade 7), printed p. 112 |
+| Constructions — triangle midline, median, bisector: definitions and compass-and-straightedge constructions | Mongolia, Математик VIII (Grade 8), printed p. 99 |
+| Practical — constructing incircle and circumcircle; concurrency of altitudes/medians/bisectors observed | Mongolia, Математик VIII (Grade 8), printed p. 100 |
+| Construction — tangents and secants from an external point (circle on OM as diameter) | Mongolia, Математик VIII (Grade 8), printed p. 106 |
+| Construction — inscribed square via perpendicular diameters with a congruence proof; regular octagon by bisecting | Mongolia, Математик VIII (Grade 8), printed p. 111 |
+| Construction — regular hexagon by stepping the radius; equilateral triangle; 12/16/24-gons as exercises | Mongolia, Математик VIII (Grade 8), printed p. 113 |
+**Acceptance count: taught in 13 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia).**
 
 Sierra Leone teaches the fullest school construction course here: SSS 2 Term 2 lessons 79–83 work through bisection and the constructible angles in order, and its JSS 1 handbook gives the first constructions. Laos builds the same skills in Grade 6 — parallels and perpendiculars through a point, the perpendicular bisector, copying an angle and a segment — after using a compass from Grade 4. Iran is the country that insists on reasons: its Geometry (1) presents constructions with justifications, so each arc is there for a stated cause. Armenia teaches construction as a method, with the stages of a construction problem named as part of the work. Pakistan's Grade 6 practical-geometry unit and Bangladesh's Class 7 experiments give the same constructions as set exercises, and Kuwait's Grade 7 Term 2 Unit 6 carries a long construction unit of its own.
 
@@ -92,3 +106,6 @@ Rwanda teaches constructions in Years 5–6: Year 5 bisects angles and builds 90
 Sudan draws a circle with ruler and compasses in Grade 4 and divides a segment in Grade 8.
 
 India stocks constructions with ruler and compass from Math-Magic Class 4 and Mathematics Class 6–7, 9–10: drawing circles with a compass; instruments; parallel line; basic constructions.
+
+
+Mongolia enters through its ministry textbooks Математик VI, VII, VIII (Grades 6, 7, 8): constructions; practical; construction.

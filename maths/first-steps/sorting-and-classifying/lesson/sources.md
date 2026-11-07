@@ -1,6 +1,6 @@
 # Sources — Sorting and Classifying
 
-countries: Yemen, Indonesia, Kazakhstan, China, Nicaragua, Saudi Arabia, India
+countries: Yemen, Indonesia, Kazakhstan, China, Nicaragua, Saudi Arabia, India, Mongolia
 
 Every part traces to its book and page.
 
@@ -14,6 +14,7 @@ Every part traces to its book and page.
 **Book 7:** *Mathematics, Grade 1, Part One of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1448H–2026 (imprint © 1446H), ISBN 978-603-8527-23-8, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 8:** *Math-Magic — Textbook in Mathematics for Class I* — India, NCERT (National Council of Educational Research and Training), New Delhi, first edition February 2006, 2020-21 issue, ISBN 81-7450-476-1. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Chapter 11 (printed pp. 117–123) and printed p. 133; nothing is cited from them.
 **Book 9:** *Math-Magic Book 3 — Textbook in Mathematics for Class III* — India, NCERT, New Delhi, first edition February 2006, 2020-21 issue, ISBN 81-7450-510-5. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 10:** *Математик I (Mathematics, Grade 1)* — Mongolia, Ministry of Education, seventh edition, Ulaanbaatar 2020. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -27,9 +28,14 @@ Every part traces to its book and page.
 | Pre-number readiness for sorting — circle or cross the named object, colour objects in their named colours, circle the smaller of two animals: the readiness page that opens the comparison-and-sorting chapter | Saudi Arabia, Grade 1, Part One, Ch. 1 readiness, printed p. 9 |
 | Sorting by shape — make pairs of similar shapes; sort shapes by joining similar ones | India, Math-Magic Class 1, printed p. 11 |
 | Alphabetical order as ordering — Names in an Order: arrange the name list A first, then B, C, D; palindromic name Jalaj and names that read the same backwards | India, Math-Magic Class 3, printed p. 152 |
+| Colour by count — colour a picture by dot-count key 1-4; build numerals 1-3 from bricks | Mongolia, Математик I (Grade 1), printed p. 13 |
+| Colour by number — colour-by-number picture with key for 3, 4, 5, 6, 7, 8, 10 (the printed key is defective — a confirmed book error, verified on the page at citation check: it lists 8 twice, once with no colour swatch, and omits 9 although picture regions are numbered 9; taught corrected, never as printed) | Mongolia, Математик I (Grade 1), printed p. 31 |
 
-**Acceptance count: taught in 7 countries (Yemen, Indonesia, Kazakhstan, China, Nicaragua, Saudi Arabia, India).** Yemen carries sorting at the very front of its course: sorting by one attribute, then by two, as the first lessons of Grade 1 (Part 1, printed pp. 8, 12), and returns to it as the opening lesson of Grade 2 statistics (Part 2, printed p. 140). Indonesia carries grouping by shape, colour and size inside its Grade 1 shapes chapter (printed pp. 115–144). Kazakhstan carries classifying as set work — composing and classifying sets by a feature — at Grade 2 (Ospanov Part 1, Lessons 56–57). China carries the re-sort: one set sorted by one standard, recorded, then sorted by a different standard so the learner sees the groups change (Grade 1 Volume 2, Unit 3, printed p. 27). Nicaragua carries it as teacher evidence only — the Grade 1 guide's grouping question and its answers (by shape, by use, by colours) in Unit 1 (printed GM pp. 2–51); the guide companions the old Grade 1 student book, which is not in this set, so that row is worded as teacher evidence wherever it is used.
+**Acceptance count: taught in 8 countries (Yemen, Indonesia, Kazakhstan, China, Nicaragua, Saudi Arabia, India, Mongolia).** Yemen carries sorting at the very front of its course: sorting by one attribute, then by two, as the first lessons of Grade 1 (Part 1, printed pp. 8, 12), and returns to it as the opening lesson of Grade 2 statistics (Part 2, printed p. 140). Indonesia carries grouping by shape, colour and size inside its Grade 1 shapes chapter (printed pp. 115–144). Kazakhstan carries classifying as set work — composing and classifying sets by a feature — at Grade 2 (Ospanov Part 1, Lessons 56–57). China carries the re-sort: one set sorted by one standard, recorded, then sorted by a different standard so the learner sees the groups change (Grade 1 Volume 2, Unit 3, printed p. 27). Nicaragua carries it as teacher evidence only — the Grade 1 guide's grouping question and its answers (by shape, by use, by colours) in Unit 1 (printed GM pp. 2–51); the guide companions the old Grade 1 student book, which is not in this set, so that row is worded as teacher evidence wherever it is used.
 
 Saudi Arabia opens its Grade 1 course with the readiness work for sorting itself — picking out named objects, working to a colour instruction, and spotting the smaller of two — the preparation page of the chapter that then teaches sorting by properties.
 
 India enters sorting and classifying from Math-Magic Class 1, 3: sorting by shape; alphabetical order as ordering.
+
+
+Mongolia enters through its ministry textbook Математик I (Grade 1): sorting by number from the very start — colour a picture by a dot-count key for 1–4, build the numerals 1–3 from bricks, and colour by a number key running 3 to 10.

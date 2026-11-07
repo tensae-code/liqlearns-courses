@@ -1,6 +1,6 @@
 # Sources — Bearings
 
-countries: Sierra Leone, Libya, Nepal, Jordan, South Sudan, Malaysia, Rwanda
+countries: Sierra Leone, Libya, Nepal, Jordan, South Sudan, Malaysia, Rwanda, Mongolia
 
 Every part traces to its book and page.
 
@@ -13,6 +13,8 @@ Every part traces to its book and page.
 **Book 6:** *Additional Mathematics Form 4* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-967-2375-42-5 — the held copy is an image-only scan read visually; its contents pages, printed v–vi, are missing, the body is complete) and BM original *Matematik Tambahan Tingkatan 4* (Pan Asia Publications Sdn. Bhd., 2019, ISBN 978-967-466-377-3). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 7:** *Primary 6 Mathematics for Rwanda Schools — Learner's Book* — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+**Book 8:** *Математик VIII (Mathematics, Grade 8)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 9:** *Математик IX (Mathematics, Grade 9)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -30,10 +32,16 @@ Every part traces to its book and page.
 | Bearings worked inside sine-rule problems: a post office at bearing 039.13° from one house and 301.13° from another, at a distance of 6.265 km | Malaysia, Additional Mathematics Form 4, Ch. 9 §9.1, Example 3, printed pp. 245–246 |
 | Compass points and directions after clockwise and anticlockwise turns | Rwanda, Primary 6 Mathematics, Learner's Book, Unit 12, printed pp. 219–221 |
 | Three-figure bearings measured clockwise from north; back bearings | Rwanda, Primary 6 Mathematics, Learner's Book, Unit 12, printed pp. 221–224 |
+| Definition — bearings: angle with north measured clockwise; three-figure notation (060°, 330°); Polaris points north | Mongolia, Математик VIII (Grade 8), printed p. 142 |
+| Bearing calculations between towns; method with a parallel north line; back bearings | Mongolia, Математик VIII (Grade 8), printed p. 143 |
+| Measuring the angle with north — bearings | Mongolia, Математик IX (Grade 9), printed p. 89 |
 
-**Acceptance count: taught in 7 countries (Sierra Leone, Libya, Nepal, Jordan, South Sudan, Malaysia, Rwanda).**
+**Acceptance count: taught in 8 countries (Sierra Leone, Libya, Nepal, Jordan, South Sudan, Malaysia, Rwanda, Mongolia).**
 Sierra Leone carries the fullest course — eight lessons from compass bearings to mixed rule-choice problems in SSS 2 Term 3. Libya carries bearings inside its sine/cosine-rule chapter in Grade 11 Science, with problems combining triangles and bearings. Nepal carries three-figure bearings, the ±180° reverse rule and scale-drawn journeys in its Grade 8 student book (student book only — its Grade 8 guide is a mismatch guide and is not cited). Jordan opens its Grade 10 trigonometry-applications unit with bearing from north. South Sudan carries bearings clockwise from north as three figures in Secondary 1, beside right-angled trigonometry and navigation problems.
 
 Malaysia meets bearings inside its Additional Mathematics triangle work rather than as a chapter of its own: three-figure bearings fix the positions, and the sine rule does the rest.
 
 Rwanda teaches bearings in Year 6 — unusually early in this lesson — starting from compass points and turns and reaching three-figure bearings from north with back bearings.
+
+
+Mongolia enters through its ministry textbooks Математик VIII, IX (Grades 8, 9): bearings as the angle with north measured clockwise, in three-figure notation (060°, 330°) — Polaris points north — with back bearings and bearing calculations between towns.

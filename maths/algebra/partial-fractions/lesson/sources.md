@@ -1,6 +1,6 @@
 # Sources — Partial Fractions
 
-countries: South Sudan, Pakistan, Bangladesh, Jordan, Kuwait, Syria, Sudan, India
+countries: South Sudan, Pakistan, Bangladesh, Jordan, Kuwait, Syria, Sudan, India, Mongolia
 
 Every part traces to its book and page.
 
@@ -15,6 +15,7 @@ Every part traces to its book and page.
 
 **Book 8:** *Specialized Mathematics, Book One, Grade 12 (science track)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, revised issue, Arabic, ISBN 978-99942-53-18-0. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 9:** *Mathematics — Textbook for Class XII, Parts I–II* (ONE work in two volumes: continuous chapters 1–13 and continuous printed pagination 1–587) — India, NCERT, New Delhi, first edition November 2006, 2020-21 printing; Part I ISBN 81-7450-629-2 (Part II prints no ISBN). Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy of Part I lacks its appendices, answers and supplementary material, and the held copy of Part II has no front matter; nothing is cited from either.
+**Book 10:** *Математик XII (Mathematics, Grade 12)* — Mongolia, Ministry of Education, second edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -39,10 +40,20 @@ Every part traces to its book and page.
 | Repeated linear factors — Case 2: a repeated linear factor (raised to a power); improper fractions first reduced by division | Sudan, Grade 12 Specialized Mathematics, Book One (science track), printed p. 86 |
 | Irreducible quadratic — Case 3: an irreducible quadratic factor takes a linear numerator (ل س + ك) | Sudan, Grade 12 Specialized Mathematics, Book One (science track), printed p. 89 |
 | Method — integration by partial fractions: proper/improper rational functions, denominator split into linear and repeated/quadratic factors | India, Mathematics Class 12 Part II, printed p. 316 |
-**Acceptance count: taught in 8 countries (South Sudan, Pakistan, Bangladesh, Jordan, Kuwait, Syria, Sudan, India).** South Sudan carries the fullest single treatment: its Secondary 4 Additional book gives partial fractions a whole unit (Unit 4, pp.126–148) — linear factors by both constant-finding methods, quadratic and repeated factors, the integration application, and recombining — with one caution: the worked example on printed pp.130–131 is muddled as printed, so this lesson teaches the method cleanly and keeps only its verified final answers, A = 3/4 and B = −1/4. Pakistan carries the topic twice over: Class 10's Unit 4 with its four rules and the "zero's method", and Class 11's Unit 5 with the proper/improper opening and Cases I–IV up to the repeated irreducible quadratic, the technique presented as preparation for calculus. Bangladesh carries it inside its Class 9 polynomial chapter (§10.8, pp.107–111) with verified worked splits for distinct linear, repeated linear, and linear-plus-quadratic denominators, and division-first handling of improper fractions. Jordan carries partial fractions as a named Grade 12 lesson (p.23) and uses it inside integration (p.45, as filed). Kuwait carries the integration use only, and only for distinct linear factors (§5-6, pp.42–49) — a recorded negative: no repeated and no quadratic factors there.
+| Proper fractions first — Adding two simple algebraic fractions; a "simple algebraic fraction" defined as A/(ax+b)ᵏ or (Ax+B)/(ax²+bx+c), b²−4ac < 0 | Mongolia, Математик XII (Grade 12), printed p. 30 |
+| Distinct linear factors — Partial fractions over distinct linear factors, by undetermined coefficients and by substituting root values | Mongolia, Математик XII (Grade 12), printed p. 30 |
+| Three linear factors — Partial fractions over three distinct linear factors, both methods compared | Mongolia, Математик XII (Grade 12), printed p. 32 |
+| Repeated factors — Partial fractions over squared and cubed linear factors, (px+q)² and (px+q)³ patterns | Mongolia, Математик XII (Grade 12), printed p. 33 |
+| Mixed and quadratic factors — Patterns for (px+q)(rx+s)² and for an irreducible quadratic factor (px+q)(rx²+s): A/(px+q) + (Bx+C)/(rx²+s) | Mongolia, Математик XII (Grade 12), printed p. 34 |
+| Improper fractions — Deg P ≥ deg Q: divide first, P/Q = S(x) + R(x)/Q(x), then split the proper remainder (worked example has sign slips — see band draft) | Mongolia, Математик XII (Grade 12), printed p. 38 |
+| Telescoping sums — Using 1/(x(x+1)) partial fractions to sum 1/(1·2)+1/(2·3)+…+1/(n(n+1)) and similar series | Mongolia, Математик XII (Grade 12), printed p. 40 |
+**Acceptance count: taught in 9 countries (South Sudan, Pakistan, Bangladesh, Jordan, Kuwait, Syria, Sudan, India, Mongolia).** South Sudan carries the fullest single treatment: its Secondary 4 Additional book gives partial fractions a whole unit (Unit 4, pp.126–148) — linear factors by both constant-finding methods, quadratic and repeated factors, the integration application, and recombining — with one caution: the worked example on printed pp.130–131 is muddled as printed, so this lesson teaches the method cleanly and keeps only its verified final answers, A = 3/4 and B = −1/4. Pakistan carries the topic twice over: Class 10's Unit 4 with its four rules and the "zero's method", and Class 11's Unit 5 with the proper/improper opening and Cases I–IV up to the repeated irreducible quadratic, the technique presented as preparation for calculus. Bangladesh carries it inside its Class 9 polynomial chapter (§10.8, pp.107–111) with verified worked splits for distinct linear, repeated linear, and linear-plus-quadratic denominators, and division-first handling of improper fractions. Jordan carries partial fractions as a named Grade 12 lesson (p.23) and uses it inside integration (p.45, as filed). Kuwait carries the integration use only, and only for distinct linear factors (§5-6, pp.42–49) — a recorded negative: no repeated and no quadratic factors there.
 
 Syria integrates rational functions by partial fractions in Grade 12 Part One, inside its integrals unit.
 
 Sudan teaches partial fractions in Grade 12 Specialized Book One, through distinct and repeated linear factors to the irreducible quadratic case.
 
 India enters partial fractions from Mathematics Class 12: method.
+
+
+Mongolia enters through its ministry textbooks Математик XII (Grade 12): proper fractions first; distinct linear factors; three linear factors.

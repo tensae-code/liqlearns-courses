@@ -1,6 +1,6 @@
 # Sources — Transformations
 
-countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India
+countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia
 
 Every part traces to its book and page.
 
@@ -152,6 +152,13 @@ textbook.
 **Book 74:** *Mathematics Form 5* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2020, ISBN 978-967-2930-12-9) and BM original *Matematik Tingkatan 5* (Penerbitan Pelangi Sdn. Bhd., 2020, ISBN 978-967-2907-93-0). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 75:** *Math-Magic Book 5 — Textbook in Mathematics for Class V* — India, NCERT, New Delhi, first edition March 2008, 2020-21 issue, ISBN 978-81-7450-828-7. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
 **Book 76:** *Mathematics — Textbook for Class VII* — India, NCERT, New Delhi, first edition February 2007, 2020-21 issue, ISBN 81-7450-669-1. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Brain-Teasers; nothing is cited from them.
+**Book 77:** *Математик IV (Mathematics, Grade 4)* — Mongolia, Ministry of Education, seventh edition, Ulaanbaatar 2020. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 78:** *Математик V (Mathematics, Grade 5)* — Mongolia, Ministry of Education, seventh edition, Ulaanbaatar 2020. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 79:** *Математик VI (Mathematics, Grade 6)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 80:** *Математик VII (Mathematics, Grade 7)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 81:** *Математик VIII (Mathematics, Grade 8)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 82:** *Математик IX (Mathematics, Grade 9)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 83:** *Математик X (Mathematics, Grade 10)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -244,8 +251,38 @@ textbook.
 | Quarter turn — Making a windmill; does it look the same on 1/4 of a turn?; shapes the same after 1/4 turn vs after half a turn | India, Math-Magic Class 5, printed p. 81 |
 | Third and sixth turns — Fans and shapes that look the same on 1/3 of a turn and on 1/6 of a turn | India, Math-Magic Class 5, printed p. 84 |
 | Rotational symmetry: centre and angle of rotation; order of rotational symmetry (square order 4); every figure has order at least 1 (360°) | India, Mathematics Class 7, printed p. 271 |
+| Translation, symmetry and rotation on grids — parallel translation (Параллел зөөлт): when Tsana climbs uphill, in the picture shown, the same stair-like path emerges: observe the pictured traces of Tsana's skis and discuss (the photograph of the ski tracks in the snow, running as parallel lines); observe how each segment and shape is shifting, and draw it in your notebook (a. the segment AB shifted to the right, shown by its arrow; b. the segment CD shifted upward; c. the triangle shifted right and up — translations on the squared grid); the triangle ABC was moved in parallel and the triangle DKM was formed (the grid from 0 to 5 with the triangles ABC and DKM and the dashed joins: a. if the point D's position is denoted D (4, 1), how would you denote the positions of the points K and M?; b. by how many units, and along which lines, was the point D shifted?; c. find the area measure of the triangle ABC); a boy can watch a film in the cinema hall with his friend (the ticket (Киноны тасалбар): row (Эгнээ) 4, seat (Суудал) 5; the hall plan with its rows 1 to 5 and seats 1 to 6 and one seat marked red: a. looking at the row number and the seat number written on the boy's ticket, find his seat; b. his friend sat on the boy's right-hand side: find his row and seat numbers; c. a girl must sit in the 2nd row in the 3rd seat: point out her seat; d. if the teacher sat in the marked seat, tell its row and seat numbers); symmetry (Тэгш хэм): an activity: let's draw a flower (Цэцэг зурцгаая): the materials are paint, a brush and a pencil (a. take square-shaped paper and fold it along its diagonal; b. along the fold, draw half of the flower's petal and paint it with water paint; c. fold it along the diagonal and complete the flower's petal; d. fold it along the other diagonal as well, complete it and make it clear — the pictures show the square with its 2 diagonals labelled "the axis of symmetry" (Тэгш хэмийн тэнхлэг), the part-painted flower, and the finished four-petalled flower); draw a right triangle in your notebook, transformed symmetrically with respect to one of its sides (the triangle mirrored about the side AC, about the side AB and about the side BC, and the fir-tree stack of triangles); build a shape symmetrical with respect to the broken line: discuss why it is located differently (the four grids with shapes reflected across vertical, horizontal and diagonal dashed axes); draw the following shapes in your notebook and draw a parallel line beside one side: draw the shape symmetrically with respect to the line you drew (the triangle, the diamond, the house-shaped pentagon and the stepped shape); rotation (Эргүүлэлт): discuss by how many degrees the clock's hand turns when the clock is advanced by 3 hours (the four pictured clocks: the hour hand turns through 90°); about which point, and how, does the segment AB rotate when it is rotated 90° in the direction of the clock's hand (the three grid diagrams: about the point A, about the middle, and about the point B); how does the right triangle ABC rotate when it is rotated 90° in the direction of the clock's hand? Draw it in your notebook (the three diagrams with the 90° arcs at the different vertices); an activity: let's make a fan (a pinwheel) out of paper (prepare the square-shaped paper with the scissors, as shown in picture A; nail the paper at the centre, as shown in picture B; stick one corner of the triangle onto the square's centre point, as shown in picture B (the second); and fasten a stick to the finished fan, as shown in picture Г) | Mongolia, Математик IV (Grade 4), printed pp. 122–124 |
+| Parallel translation (slide): a figure slides a set distance in a set direction, shape and size unchanged | Mongolia, Математик V (Grade 5), printed p. 107 |
+| Rotation: turning about a centre by 90°, 180°, 270°, 360° clockwise/anticlockwise (windmill blades) | Mongolia, Математик V (Grade 5), printed p. 108 |
+| Naming the transformation used (translation, rotation, axial symmetry) between pictured figures | Mongolia, Математик V (Grade 5), printed p. 109 |
+| Rotation: turning figures about a point by 90° and 180°, clockwise and anticlockwise, on grids | Mongolia, Математик VI (Grade 6), printed p. 154 |
+| Combined symmetry questions: which pictures show axial vs central symmetry | Mongolia, Математик VI (Grade 6), printed p. 157 |
+| Rotation as a transformation: centre, direction and angle of rotation identified from grid pictures | Mongolia, Математик VII (Grade 7), printed p. 122 |
+| Successive translations: two slides in a row on the coordinate plane, coordinates tracked | Mongolia, Математик VII (Grade 7), printed p. 124 |
+| Motions defined: reflection, central symmetry, translation and rotation preserve lengths and angles; successive rotations equal one rotation | Mongolia, Математик VII (Grade 7), printed p. 125 |
+| Definition — homothety: centre, scale factor k, OA′ = k·OA, notation (O;k); corresponding sides parallel | Mongolia, Математик VIII (Grade 8), printed p. 120 |
+| Homothety found algebraically from side ratios; cinema projector; images for various k | Mongolia, Математик VIII (Grade 8), printed p. 121 |
+| Rules — coordinate homothety about the origin: rule (x, y) → (kx, ky) (boxed); other centres | Mongolia, Математик VIII (Grade 8), printed p. 122 |
+| Rules — coordinate rules in margins: translation (x+a, y+b), reflection in Ox (x, −y), rotation 90° (y, −x), central symmetry (−x, −y) | Mongolia, Математик VIII (Grade 8), printed p. 130 |
+| Definition — motion defined as a distance-preserving transformation; invariants table (distance, angle, parallelism, order) | Mongolia, Математик VIII (Grade 8), printed p. 131 |
+| Composition: two translations make a translation; two reflections make a translation or a 180° rotation | Mongolia, Математик VIII (Grade 8), printed p. 132 |
+| Symmetry transformations of figures | Mongolia, Математик IX (Grade 9), printed p. 32 |
+| Transformations in coordinates | Mongolia, Математик IX (Grade 9), printed p. 164 |
+| Stretching a figure along Ox by a and along Oy by b; shear (transvection) | Mongolia, Математик IX (Grade 9), printed p. 165 |
+| Properties — homothety properties; inverse homothety (practical work) | Mongolia, Математик IX (Grade 9), printed p. 169 |
+| Definition — transformations on the plane: image (дүр), fixed point; formula x′ = ax + by, y′ = cx + dy | Mongolia, Математик X (Grade 10), printed p. 153 |
+| Rules — transformation matrix; its columns are the images of (1, 0) and (0, 1); applied to a vertex matrix | Mongolia, Математик X (Grade 10), printed p. 154 |
+| 90° anticlockwise rotation matrix [[0, −1], [1, 0]] built and applied to a triangle | Mongolia, Математик X (Grade 10), printed p. 154 |
+| Formulas — central symmetry: matrix [[−1, 0], [0, −1]] about the origin; about T(a, b): x′ = 2a − x, y′ = 2b − y | Mongolia, Математик X (Grade 10), printed p. 156 |
+| Formulas — axial symmetry matrices: in Ox [[1, 0], [0, −1]], in Oy [[−1, 0], [0, 1]]; reflection in the line x = 3.5 | Mongolia, Математик X (Grade 10), printed p. 158 |
+| Matrices — reflection matrices for y = x and y = −x (as exercises to verify) | Mongolia, Математик X (Grade 10), printed p. 159 |
+| Definition — rotation with signed angle −360° < α < 360° (α > 0 anticlockwise); matrices for 90°, −90°, 180° | Mongolia, Математик X (Grade 10), printed p. 160 |
+| Formulas — translation by a vector (p, q): x′ = x + p, y′ = y + q, derived from MM′ = a | Mongolia, Математик X (Grade 10), printed p. 161 |
+| Definition — homothety including negative k (OM′ = k·OM); A′B′ = k·AB proved with vectors | Mongolia, Математик X (Grade 10), printed p. 162 |
+| Matrix — homothety about the origin has matrix [[k, 0], [0, k]] | Mongolia, Математик X (Grade 10), printed p. 163 |
+| 30° rotation matrix used to generate a regular 12-gon | Mongolia, Математик X (Grade 10), printed p. 165 |
 
-**Acceptance count: taught in 26 countries (Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India).**.** Egypt carries the Iran rotates shapes in Grade 6, translates, reflects and rotates them with tracing paper in Grade 7, and gives transformations whole — homothety included — in Grade 11 Geometry (2).
+**Acceptance count: taught in 27 countries (Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia).**.** Egypt carries the Iran rotates shapes in Grade 6, translates, reflects and rotates them with tracing paper in Grade 7, and gives transformations whole — homothety included — in Grade 11 Geometry (2).
 fullest single treatment — all four moves defined with
 coordinate rules plus composition in Grade 7 Term 2. Jordan
 carries translation and reflection in Grade 6, rotation in
@@ -269,3 +306,6 @@ Syria names reflection, rotation and translation in Grade 5, describes translati
 Malaysia teaches transformations twice: the three isometries in Form 2, each described in its own terms, and enlargement with combined transformations in Form 5, where the order of a combination is shown to matter.
 
 India enters transformations from Math-Magic Class 5 and Mathematics Class 7: half turn; rotational symmetry: centre and angle of rotation; order of rotational symmetry (square order 4); every figure has order at least 1 (360°).
+
+
+Mongolia enters through its ministry textbooks Математик IV, V, VI, VII, VIII, IX, X (Grades 4, 5, 6, 7, 8, 9, 10): translation, symmetry and rotation on grids; definition; rules.

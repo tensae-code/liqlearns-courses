@@ -1,6 +1,6 @@
 # Sources — Coordinate Geometry
 
-countries: Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India
+countries: Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India, Mongolia
 
 Every part traces to its book and page.
 
@@ -31,6 +31,11 @@ Every part traces to its book and page.
 **Book 18:** *Mathematics — Textbook for Class IX* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-489-3. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendix 1 (Proofs in Mathematics), Appendix 2 (Introduction to Mathematical Modelling) and Answers/Hints; nothing is cited from them.
 **Book 19:** *Mathematics — Textbook for Class X* — India, NCERT, New Delhi, first edition December 2006, 2020-21 printing, ISBN 81-7450-634-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
 **Book 20:** *Mathematics — Textbook for Class XI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-486-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendices 1–2, the Answers and the Supplementary Material; nothing is cited from them.
+**Book 21:** *Математик VII (Mathematics, Grade 7)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 22:** *Математик VIII (Mathematics, Grade 8)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 23:** *Математик IX (Mathematics, Grade 9)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 24:** *Математик X (Mathematics, Grade 10)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 25:** *Математик XI (Mathematics, Grade 11)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -94,7 +99,23 @@ Every part traces to its book and page.
 | Forms of a line — normal (perpendicular) form x cos ω + y sin ω = p | India, Mathematics Class 11, printed p. 217 |
 | General equation Ax + By + C = 0; reducing it to slope-intercept, intercept and normal forms; parallel/perpendicular families | India, Mathematics Class 11, printed p. 220 |
 | Distances — perpendicular distance from a point to a line; distance between two parallel lines | India, Mathematics Class 11, printed p. 225 |
-**Acceptance count: taught in 10 countries (Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India).** Jordan carries the point-to-line distance and the coordinate proof in Grade 9 and the circle's equation in Grade 10. Kuwait carries the full analytic-geometry unit in Grade 10 Term 2 — the section formula with internal and external division as its own section, and the point-to-line distance and circle in the same unit. Ethiopia carries the circle's equation in the Grade 10 student book's §7.5 — student book only, since its Grade 10 guide does not cover §7.5. South Sudan carries the circle's equation in Secondary 4, from the origin-centred circle to completing the square. Laos carries the section formula as a minor source inside its Grade 9 vectors lesson. Iran carries the analytic circle in two Grade 12 branch books, with the expanded-form test stated exactly in Geometry (3).
+| Coordinates of the midpoint of a segment: x = (x₁ + x₂)/2, y = (y₁ + y₂)/2, derived on the grid and used in reverse (find the far endpoint) | Mongolia, Математик VII (Grade 7), printed p. 120 |
+| Definition — graph of a linear equation; slope as constant ratio of coordinate differences; Ax + By + C = 0 (boxed) | Mongolia, Математик VIII (Grade 8), printed p. 83 |
+| Definition — slope (angle coefficient) k = (y₁−y₂)/(x₁−x₂); vertical line slope undefined | Mongolia, Математик VIII (Grade 8), printed p. 84 |
+| Reading slope and intercept; equation from a point and slope | Mongolia, Математик VIII (Grade 8), printed p. 85 |
+| Derivation — distance between two points derived via Pythagoras and boxed: d = √((x₂−x₁)² + (y₂−y₁)²) | Mongolia, Математик VIII (Grade 8), printed p. 135 |
+| Definition — gradient (slope) of a line | Mongolia, Математик IX (Grade 9), printed p. 119 |
+| Formulas — on a number line: ;AB; = ;x₂−x₁;; midpoint x = (x₁+x₂)/2 | Mongolia, Математик X (Grade 10), printed p. 33 |
+| Definition — Cartesian plane, quadrants I–IV; coordinates of a point; Descartes biography note | Mongolia, Математик X (Grade 10), printed p. 34 |
+| Derivation — distance formula derived via Pythagoras; midpoint formula proved by congruent triangles | Mongolia, Математик X (Grade 10), printed p. 35 |
+| Definition — slope m = (y₂−y₁)/(x₂−x₁); collinearity tested by equal slopes | Mongolia, Математик X (Grade 10), printed p. 36 |
+| Horizontal line slope 0; vertical line slope undefined (division by zero) | Mongolia, Математик X (Grade 10), printed p. 37 |
+| Derivation — two-point form and point-slope form of a line's equation | Mongolia, Математик X (Grade 10), printed p. 38 |
+| Forms — slope-intercept y = mx + c; general form ax + by + c = 0 (boxed); lines x = a, y = b | Mongolia, Математик X (Grade 10), printed p. 39 |
+| Derivation — circle centred at the origin x² + y² = r² derived from ;OM; = r (boxed) | Mongolia, Математик X (Grade 10), printed p. 41 |
+| Parallel and perpendicular lines — Slopes: parallel lines have equal slopes, perpendicular lines have product of slopes −1, both proved | Mongolia, Математик XI (Grade 11), printed p. 72 |
+| Equation of a line — Line equations from two points, from point and slope, and general form; angle between lines in exercises | Mongolia, Математик XI (Grade 11), printed p. 75 |
+**Acceptance count: taught in 11 countries (Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India, Mongolia).** Jordan carries the point-to-line distance and the coordinate proof in Grade 9 and the circle's equation in Grade 10. Kuwait carries the full analytic-geometry unit in Grade 10 Term 2 — the section formula with internal and external division as its own section, and the point-to-line distance and circle in the same unit. Ethiopia carries the circle's equation in the Grade 10 student book's §7.5 — student book only, since its Grade 10 guide does not cover §7.5. South Sudan carries the circle's equation in Secondary 4, from the origin-centred circle to completing the square. Laos carries the section formula as a minor source inside its Grade 9 vectors lesson. Iran carries the analytic circle in two Grade 12 branch books, with the expanded-form test stated exactly in Geometry (3).
 
 Syria computes a parallelogram's fourth vertex from the midpoint formula in Grade 7.
 
@@ -103,3 +124,6 @@ Malaysia teaches coordinate geometry in Form 2 (distance from Pythagoras, midpoi
 Sudan's analytic geometry is classical and complete on its chosen ground: Grade 10 gives distance, internal and external division with signed ratios, the centroid, slope and the angle between two lines, with the parallel and perpendicular conditions derived from that formula — while deliberately never writing the equation of a line, which Grade 11 then supplies in every form (point-slope, two-point, slope-intercept, intercept, general and normal), with point-to-line and parallel-line distances; both Grade 12 books apply the circle's geometry.
 
 India stocks coordinate geometry from Mathematics Class 9–11: cartesian system; distance formula; slope of a line m = tan θ; slope from two points (y2 − y1)/(x2 − x1).
+
+
+Mongolia enters through its ministry textbooks Математик VII, VIII, IX, X, XI (Grades 7, 8, 9, 10, 11): definition; derivation; formulas.

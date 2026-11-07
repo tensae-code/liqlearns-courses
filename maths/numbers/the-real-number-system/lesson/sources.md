@@ -1,6 +1,6 @@
 # Sources — The Real Number System
 
-countries: Pakistan, Syria, Malaysia, Rwanda, Sudan, India
+countries: Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia
 
 Every part traces to its book and page.
 
@@ -32,6 +32,10 @@ Every part traces to its book and page.
 **Book 17:** *Mathematics — Textbook for Class VIII* — India, NCERT, New Delhi, first edition January 2008, 2020-21 printing, ISBN 978-81-7450-814-0. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Just for Fun sections; nothing is cited from them.
 **Book 18:** *Mathematics — Textbook for Class IX* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-489-3. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendix 1 (Proofs in Mathematics), Appendix 2 (Introduction to Mathematical Modelling) and Answers/Hints; nothing is cited from them.
 **Book 19:** *Mathematics — Textbook for Class X* — India, NCERT, New Delhi, first edition December 2006, 2020-21 printing, ISBN 81-7450-634-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 20:** *Математик VIII (Mathematics, Grade 8)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 21:** *Математик IX (Mathematics, Grade 9)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 22:** *Математик X (Mathematics, Grade 10)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 23:** *Математик XI (Mathematics, Grade 11)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -87,7 +91,13 @@ Every part traces to its book and page.
 | Irrationality proofs — Theorem 1.3 proved: if prime p divides a² then p divides a | India, Mathematics Class 10, printed p. 12 |
 | Irrationality proofs — Theorem 1.4 proved by contradiction: √2 is irrational; same method proves √3 irrational | India, Mathematics Class 10, printed p. 12 |
 | Irrationality proofs — 5 − √3 and 3√2 shown irrational from the √p results (worked examples) | India, Mathematics Class 10, printed p. 14 |
-**Acceptance count: taught in 6 countries (Pakistan, Syria, Malaysia, Rwanda, Sudan, India).** Pakistan carries this lesson whole, and in a deliberate order that this lesson keeps: the laws are first verified on numbers family by family — the distributive property on whole numbers and the commutative and associative properties on fractions in Grade 5 (printed pp.13–15, 31–38), the integer laws with both identities and subtraction's failure in Grade 6 (printed pp.32–33, 38–39), and all three laws on rationals in Grade 7 (printed pp.16–19) — and only then, in Grade 8, is the system itself drawn (N ⊂ W ⊂ Z ⊂ Q ⊂ R with the irrationals Q′, printed pp.1–3) and the properties stated in general form for all real numbers (printed pp.6–9). The catch-up plan's source rows for this lesson are Pakistan's alone; no other country's filing was filed as a source row for it, so the acceptance count is one country, honestly.
+| Definition — rational numbers Q = {a/b}; N⊂Z⊂Q Venn; fractions and decimals | Mongolia, Математик VIII (Grade 8), printed p. 6 |
+| Recurring decimals converted to fractions (2.(7) = 25/9) | Mongolia, Математик VIII (Grade 8), printed p. 6 |
+| Definition — irrational numbers: recognising and denoting them | Mongolia, Математик IX (Grade 9), printed p. 6 |
+| Irrational numbers plotted on the number line; practical work | Mongolia, Математик IX (Grade 9), printed p. 7 |
+| Definition — irrationals as non-terminating non-recurring decimals (√2, ∛5, π, e); reals = rationals ∪ irrationals (boxed) | Mongolia, Математик X (Grade 10), printed p. 19 |
+| Definition/use — Real-number set R named as the domain in inequality and function work | Mongolia, Математик XI (Grade 11), printed p. 10 |
+**Acceptance count: taught in 7 countries (Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia).** Pakistan carries this lesson whole, and in a deliberate order that this lesson keeps: the laws are first verified on numbers family by family — the distributive property on whole numbers and the commutative and associative properties on fractions in Grade 5 (printed pp.13–15, 31–38), the integer laws with both identities and subtraction's failure in Grade 6 (printed pp.32–33, 38–39), and all three laws on rationals in Grade 7 (printed pp.16–19) — and only then, in Grade 8, is the system itself drawn (N ⊂ W ⊂ Z ⊂ Q ⊂ R with the irrationals Q′, printed pp.1–3) and the properties stated in general form for all real numbers (printed pp.6–9). The catch-up plan's source rows for this lesson are Pakistan's alone; no other country's filing was filed as a source row for it, so the acceptance count is one country, honestly.
 
 Syria classifies the number families in the Grade 9 Algebra opener — rationals characterised (a terminating or eventually periodic decimal), π and √2 proved irrational in the exercises, and every real number located on the number line — before its Grade 7 book has already placed rationals and integers on the line as families.
 
@@ -98,3 +108,6 @@ Rwanda enters the real number system in P4, where natural and whole numbers are 
 Sudan assembles the number systems in stages: whole numbers defined in Grade 4, rationals in Grade 7, then Grade 8's full construction — terminating and recurring decimals, irrationals recognised by pattern, the reals as rationals ∪ irrationals with the nested-subset diagram and the number line — with absolute value in Grade 10 and the systems reviewed in Grade 11.
 
 India carries the real number system through its NCERT ladder — Mathematics Class 6–10 — including whole numbers = natural numbers with 0; 1 has no predecessor in naturals; smallest whole number is 0; number families grow: naturals → whole numbers → integers → rationals, each answering a need; rational numbers; number sets.
+
+
+Mongolia enters through its ministry textbooks Математик VIII, IX, X, XI (Grades 8, 9, 10, 11): definition; definition/use.

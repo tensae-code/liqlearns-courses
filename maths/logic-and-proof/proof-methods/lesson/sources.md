@@ -1,6 +1,6 @@
 # Sources — Proof Methods
 
-countries: Kazakhstan, Iran, Armenia, Greece, Egypt, Nicaragua, Kuwait, Laos, China, Syria, Malaysia, India
+countries: Kazakhstan, Iran, Armenia, Greece, Egypt, Nicaragua, Kuwait, Laos, China, Syria, Malaysia, India, Mongolia
 
 Every part traces to its book and page.
 
@@ -27,6 +27,8 @@ Every part traces to its book and page.
 **Book 19:** *Mathematics — Textbook for Class IX* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-489-3. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendix 1 (Proofs in Mathematics), Appendix 2 (Introduction to Mathematical Modelling) and Answers/Hints; nothing is cited from them.
 **Book 20:** *Mathematics — Textbook for Class X* — India, NCERT, New Delhi, first edition December 2006, 2020-21 printing, ISBN 81-7450-634-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
 **Book 21:** *Mathematics — Textbook for Class XI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-486-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendices 1–2, the Answers and the Supplementary Material; nothing is cited from them.
+**Book 22:** *Математик VII (Mathematics, Grade 7)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 23:** *Математик VIII (Mathematics, Grade 8)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -59,11 +61,17 @@ Every part traces to its book and page.
 | Proof by contradiction method; worked: product of a non-zero rational and an irrational is irrational; Theorem A1.2 (shortest segment from a point to a line is the perpendicular) proved (§A1.7 begins p. 329; statement/proof) | India, Mathematics Class 10, printed p. 332 |
 | Validating statements — rules for validating statements with and/or, quantifiers and implications | India, Mathematics Class 11, printed p. 339 |
 | Contradiction and counter-example — proof by contradiction; disproving a statement by counter-example | India, Mathematics Class 11, printed p. 341 |
+| Proof that a triangle's interior angles sum to 180°, using a parallel line through a vertex and alternate angles | Mongolia, Математик VII (Grade 7), printed p. 94 |
+| Divisibility proofs: 8^5 + 2^13 divisible by 10; 9^6 − 3^10 by 24 | Mongolia, Математик VIII (Grade 8), printed p. 48 |
+| N³ − n divisible by 6; n² − 1 for odd n divisible by 8 | Mongolia, Математик VIII (Grade 8), printed p. 54 |
 
-**Acceptance count: taught in 12 countries (Kazakhstan, Iran, Armenia, Greece, Egypt, Nicaragua, Kuwait, Laos, China, Syria, Malaysia, India).** Kazakhstan opens all three of its Grade 7 geometry courses with the Euclidean deductive method itself — axioms as the rules of the game (Smirnov), the regress of definitions (Shynybekov), and methods of proof given their own section (Turapbekov). Iran teaches proof three ways: a whole Grade 9 chapter on reasoning and proof in geometry, with a deliberately flawed proof to diagnose; the proof opening of Geometry (1); and Discrete Mathematics' working kit of direct proof, cases, contradiction and counterexample. Armenia gathers deductive and inductive reasoning and the main methods of proof and refutation in Grade 11, proves and refutes ∀ and ∃ assertions and classifies necessary and sufficient conditions in its Grade 12 logic book, and first uses contradiction inside Grade 7 geometry. Greece makes deductive reasoning the stated point of its Euclidean Geometry. Egypt names the writing itself — "Steps to Write a Proof" — in Grade 7. Nicaragua introduces two-column-style reasoning in Grade 8 and writes full two-column similarity proofs in Grade 9. Kuwait frames every proof in its Grade 9 triangle unit as givens / required / proof. Laos judges arguments by validity, with modus ponens, modus tollens and the affirming-the-consequent fallacy. China proves the vertical-angles result inside its Grade 6 general review.
+**Acceptance count: taught in 13 countries (Kazakhstan, Iran, Armenia, Greece, Egypt, Nicaragua, Kuwait, Laos, China, Syria, Malaysia, India, Mongolia).** Kazakhstan opens all three of its Grade 7 geometry courses with the Euclidean deductive method itself — axioms as the rules of the game (Smirnov), the regress of definitions (Shynybekov), and methods of proof given their own section (Turapbekov). Iran teaches proof three ways: a whole Grade 9 chapter on reasoning and proof in geometry, with a deliberately flawed proof to diagnose; the proof opening of Geometry (1); and Discrete Mathematics' working kit of direct proof, cases, contradiction and counterexample. Armenia gathers deductive and inductive reasoning and the main methods of proof and refutation in Grade 11, proves and refutes ∀ and ∃ assertions and classifies necessary and sufficient conditions in its Grade 12 logic book, and first uses contradiction inside Grade 7 geometry. Greece makes deductive reasoning the stated point of its Euclidean Geometry. Egypt names the writing itself — "Steps to Write a Proof" — in Grade 7. Nicaragua introduces two-column-style reasoning in Grade 8 and writes full two-column similarity proofs in Grade 9. Kuwait frames every proof in its Grade 9 triangle unit as givens / required / proof. Laos judges arguments by validity, with modus ponens, modus tollens and the affirming-the-consequent fallacy. China proves the vertical-angles result inside its Grade 6 general review.
 
 Syria's Grade 8 Geometry is built as proof craft: the hypothesis–property–conclusion scheme is stated outright, proof plans are required before writing, and the book warns explicitly that nothing may be read off the figure.
 
 Malaysia's logic chapter carries two of this lesson's tools in their school form: the counter-example that kills a false statement, and the standard valid forms by which a deductive argument is judged sound.
 
 India stocks proof methods from Mathematics Class 9–11: euclid's foundations; mathematical statements; validating statements.
+
+
+Mongolia enters through its ministry textbooks Математик VII, VIII (Grades 7, 8): the proof that a triangle's interior angles sum to 180°, drawn with a parallel line through a vertex, and divisibility proofs worked as exercises — 8⁵ + 2¹³ divisible by 10, n³ − n divisible by 6, n² − 1 for odd n divisible by 8.

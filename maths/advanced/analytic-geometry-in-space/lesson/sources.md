@@ -1,6 +1,6 @@
 # Sources — Analytic Geometry in Space
 
-countries: Egypt, Laos, Cambodia, Jordan, Syria, Rwanda, India
+countries: Egypt, Laos, Cambodia, Jordan, Syria, Rwanda, India, Mongolia
 
 Every part traces to its book and page.
 
@@ -19,6 +19,7 @@ Every part traces to its book and page.
 **Book 10:** *Advanced Mathematics for Rwanda Secondary Schools — Teacher's Guide, Senior Five* (ADVANCED stream, teacher's guide) — Rwanda, Fountain Publishers Rwanda Ltd, 2017, ISBN 978-9970-19-411-7. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 **Book 11:** *Mathematics — Textbook for Class XI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-486-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendices 1–2, the Answers and the Supplementary Material; nothing is cited from them.
 **Book 12:** *Mathematics — Textbook for Class XII, Parts I–II* (ONE work in two volumes: continuous chapters 1–13 and continuous printed pagination 1–587) — India, NCERT, New Delhi, first edition November 2006, 2020-21 printing; Part I ISBN 81-7450-629-2 (Part II prints no ISBN). Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy of Part I lacks its appendices, answers and supplementary material, and the held copy of Part II has no front matter; nothing is cited from either.
+**Book 13:** *Математик XI (Mathematics, Grade 11)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -71,11 +72,16 @@ Every part traces to its book and page.
 | Angle between planes — angle between two planes defined via their normals; perpendicular/parallel conditions | India, Mathematics Class 12 Part II, printed p. 488 |
 | Distance of a point from a plane | India, Mathematics Class 12 Part II, printed p. 490 |
 | Angle line–plane — angle between a line and a plane defined and computed | India, Mathematics Class 12 Part II, printed p. 492 |
+| Coordinates in space — Rectangular coordinate system in space: axes, coordinate planes, octants, coordinates of a point | Mongolia, Математик XI (Grade 11), printed p. 79 |
+| Distance and midpoint in space — Distance between two points in space and midpoint of a segment, from the plane formulas extended | Mongolia, Математик XI (Grade 11), printed p. 83 |
 
-**Acceptance count: taught in 7 countries (Egypt, Laos, Cambodia, Jordan, Syria, Rwanda, India).** Egypt carries the analytic course in Pure Grade 12: the 3D coordinate system, vectors in space and vector multiplication in Unit Three, then the equations of lines and planes in Unit Four. Laos carries it twice: Grade 10 Chapter X builds coordinates, octants, distance, direction cosines and the 3-D dot product in a single long lesson, and Grade 12 Chapter 10 adds the equations of lines and planes and the line–plane angle. Cambodia carries vectors in space in Grade 11 Advanced Chapter 8 and the scalar and cross products again in Grade 12 Advanced Chapter 7, with two teacher-guide worked values taught corrected as filed. Jordan carries vectors in space, lines in space and the scalar product in Grade 12 Term 2 Unit 6.
+**Acceptance count: taught in 8 countries (Egypt, Laos, Cambodia, Jordan, Syria, Rwanda, India, Mongolia).** Egypt carries the analytic course in Pure Grade 12: the 3D coordinate system, vectors in space and vector multiplication in Unit Three, then the equations of lines and planes in Unit Four. Laos carries it twice: Grade 10 Chapter X builds coordinates, octants, distance, direction cosines and the 3-D dot product in a single long lesson, and Grade 12 Chapter 10 adds the equations of lines and planes and the line–plane angle. Cambodia carries vectors in space in Grade 11 Advanced Chapter 8 and the scalar and cross products again in Grade 12 Advanced Chapter 7, with two teacher-guide worked values taught corrected as filed. Jordan carries vectors in space, lines in space and the scalar product in Grade 12 Term 2 Unit 6.
 
 Rwanda teaches analytic geometry in space whole in Advanced Mathematics Senior Five Unit 8 — points, lines and planes in 3D through to spheres, their relative positions, radical planes and orthogonal spheres.
 
 Syria's analytic geometry in space is in Grade 12 Part Two: the sphere's equation from OM² = R², the plane's Cartesian equation, and the parametric line.
 
 India stocks analytic geometry in space from Mathematics Class 11–12: section formula in 3D; midpoint; centroid of a triangle; lines in space.
+
+
+Mongolia enters through its ministry textbooks Математик XI (Grade 11): coordinates in space; distance and midpoint in space.

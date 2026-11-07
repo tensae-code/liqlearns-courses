@@ -1,6 +1,6 @@
 # Sources — Determinants and Cramer's Rule
 
-countries: Egypt, Cambodia, Kuwait, Laos, Nicaragua, Rwanda, India
+countries: Egypt, Cambodia, Kuwait, Laos, Nicaragua, Rwanda, India, Mongolia
 
 Every part traces to its book and page.
 
@@ -14,6 +14,8 @@ Every part traces to its book and page.
 
 **Book 7:** *Advanced Mathematics for Rwanda Secondary Schools — Teacher's Guide, Senior Five* (ADVANCED stream, teacher's guide) — Rwanda, Fountain Publishers Rwanda Ltd, 2017, ISBN 978-9970-19-411-7. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 **Book 8:** *Mathematics — Textbook for Class XII, Parts I–II* (ONE work in two volumes: continuous chapters 1–13 and continuous printed pagination 1–587) — India, NCERT, New Delhi, first edition November 2006, 2020-21 printing; Part I ISBN 81-7450-629-2 (Part II prints no ISBN). Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy of Part I lacks its appendices, answers and supplementary material, and the held copy of Part II has no front matter; nothing is cited from either.
+**Book 9:** *Математик X (Mathematics, Grade 10)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 10:** *Математик XI (Mathematics, Grade 11)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -40,9 +42,15 @@ Every part traces to its book and page.
 | Adjoint and inverse — adjoint of a matrix; theorem A(adj A) = (adj A)A = |A| I; singular and non-singular matrices | India, Mathematics Class 12 Part I, printed p. 126 |
 | Adjoint and inverse — theorems: |AB| = |A| |B|; A is invertible ⇔ A is non-singular; A⁻¹ = (adj A)/|A| in worked examples | India, Mathematics Class 12 Part I, printed p. 128 |
 | Solving linear systems — solving a system of linear equations by the matrix method X = A⁻¹B; consistent/inconsistent systems (conditions in the Summary) | India, Mathematics Class 12 Part I, printed p. 133 |
+| Definition — determinant of a 2×2 matrix: ;A; = ad − bc | Mongolia, Математик X (Grade 10), printed p. 145 |
+| Properties — zero row/column ⇒ 0; proportional rows ⇒ 0; common factor of a row factors out; ;AB; = ;A;·;B; | Mongolia, Математик X (Grade 10), printed p. 145 |
+| Determinant cases — 2×2 determinant D: D≠0 unique solution, D=0 with Dx,Dy cases give no solution or infinitely many | Mongolia, Математик XI (Grade 11), printed p. 29 |
 
-**Acceptance count: taught in 7 countries (Egypt, Cambodia, Kuwait, Laos, Nicaragua, Rwanda, India).** Egypt carries determinants and both solving methods in Secondary 1 Term 2 Unit 1 — determinants with the triangle-area application, then the 2×2 inverse with inverse-matrix and Cramer solutions. Cambodia carries 3×3 determinants and Cramer's rule in Grade 11 Basic Chapter 4, with all four worked systems on printed p.135 verified, including the no-solution and dependent cases. Kuwait carries the 2×2 determinant, the inverse formula and both solving methods for two unknowns in Grade 10 Term 2 Unit 7 — 2×2 only, as filed: no 3×3 determinants there. Laos carries determinants and inverse matrices in Grade 12 Chapter 3, stated as AX = B ⇒ X = A⁻¹B. Nicaragua carries the fullest determinants run — minors, cofactors, Sarrus' rule, Cramer's rule for 3×3 systems — and closes it with matrices used for codes.
+**Acceptance count: taught in 8 countries (Egypt, Cambodia, Kuwait, Laos, Nicaragua, Rwanda, India, Mongolia).** Egypt carries determinants and both solving methods in Secondary 1 Term 2 Unit 1 — determinants with the triangle-area application, then the 2×2 inverse with inverse-matrix and Cramer solutions. Cambodia carries 3×3 determinants and Cramer's rule in Grade 11 Basic Chapter 4, with all four worked systems on printed p.135 verified, including the no-solution and dependent cases. Kuwait carries the 2×2 determinant, the inverse formula and both solving methods for two unknowns in Grade 10 Term 2 Unit 7 — 2×2 only, as filed: no 3×3 determinants there. Laos carries determinants and inverse matrices in Grade 12 Chapter 3, stated as AX = B ⇒ X = A⁻¹B. Nicaragua carries the fullest determinants run — minors, cofactors, Sarrus' rule, Cramer's rule for 3×3 systems — and closes it with matrices used for codes.
 
 Rwanda teaches determinants and Cramer's rule in Advanced Mathematics Senior Five Unit 7 — Sarrus' rule, minors and cofactors, determinant properties, the adjugate inverse, and 3×3 systems solved by the inverse matrix and by Cramer's rule — with its Teacher's Guide extending the determinant to general order n × n.
 
 India enters determinants and Cramer's rule from Mathematics Class 12: determinants.
+
+
+Mongolia enters through its ministry textbooks Математик X, XI (Grades 10, 11): definition; properties; determinant cases.

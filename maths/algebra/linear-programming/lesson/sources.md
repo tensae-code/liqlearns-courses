@@ -1,6 +1,6 @@
 # Sources — Linear Programming
 
-countries: Malaysia, Sudan, India
+countries: Malaysia, Sudan, India, Mongolia
 
 Every part traces to its book and page.
 
@@ -8,6 +8,7 @@ Every part traces to its book and page.
 
 **Book 2:** *Mathematics, Grade 11 (Second Year Secondary)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, Arabic; no edition or year is printed in the book (the held file’s first page is a distributor wrap, not the book’s cover). No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 3:** *Mathematics — Textbook for Class XII, Parts I–II* (ONE work in two volumes: continuous chapters 1–13 and continuous printed pagination 1–587) — India, NCERT, New Delhi, first edition November 2006, 2020-21 printing; Part I ISBN 81-7450-629-2 (Part II prints no ISBN). Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy of Part I lacks its appendices, answers and supplementary material, and the held copy of Part II has no front matter; nothing is cited from either.
+**Book 4:** *Математик X (Mathematics, Grade 10)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 
 On Malaysia in this lesson: Malaysia's Additional Mathematics Form 5 is the first book in the read set to teach linear programming as a named optimisation method. Single and paired inequalities are already lessons (inequalities; simultaneous-equations); the modelling–region–objective method is this lesson, built from Malaysia's treatment under the everything-goes-in ruling. The worked situations in the lesson are the course's own, built by the book's method; the method, the region construction and the corner rule are the book's.
 
@@ -26,8 +27,13 @@ On Malaysia in this lesson: Malaysia's Additional Mathematics Form 5 is the firs
 | Problem types — diet problem as a minimisation LPP solved graphically | India, Mathematics Class 12 Part II, printed p. 515 |
 | Problem types — allocation problem and manufacturing problem solved graphically | India, Mathematics Class 12 Part II, printed p. 516 |
 | Problem types — transportation problem (miscellaneous example) formulated and solved graphically | India, Mathematics Class 12 Part II, printed p. 523 |
-**Acceptance count: taught in 3 countries (Malaysia, Sudan, India).** Malaysia's Additional Mathematics Form 5 carries the full method in its linear-programming section; the other read countries stop at inequalities and systems of equations, so this lesson is built at that honest size.
+| Linear programming named; maximising/minimising x + 2y over a polygon by sweeping parallel lines | Mongolia, Математик X (Grade 10), printed p. 80 |
+| Transport problem and clothing-budget problem modelled as LP | Mongolia, Математик X (Grade 10), printed p. 80 |
+**Acceptance count: taught in 4 countries (Malaysia, Sudan, India, Mongolia).** Malaysia's Additional Mathematics Form 5 carries the full method in its linear-programming section; the other read countries stop at inequalities and systems of equations, so this lesson is built at that honest size.
 
 Sudan teaches linear programming in Grade 11, from the formulation to word problems.
 
 India enters linear programming from Mathematics Class 12: formulation.
+
+
+Mongolia enters through its ministry textbooks Математик X (Grade 10): linear programming named; maximising/minimising x + 2y over a polygon by sweeping parallel.

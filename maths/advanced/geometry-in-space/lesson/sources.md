@@ -1,6 +1,6 @@
 # Sources — Geometry in Space
 
-countries: China, Armenia, Vietnam, Kuwait, Greece, Iraq, Yemen, Cambodia, Kazakhstan, Laos, North Macedonia, Iran, Syria, India
+countries: China, Armenia, Vietnam, Kuwait, Greece, Iraq, Yemen, Cambodia, Kazakhstan, Laos, North Macedonia, Iran, Syria, India, Mongolia
 
 Every part traces to its book and page.
 
@@ -28,6 +28,8 @@ Every part traces to its book and page.
 **Book 20:** *Mathematics, Part Two, Grade 12 (Scientific track)* — Syria, Ministry of Education, held printing 2025–2026/1447H, first printed 2016–2017, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 **Book 21:** *Mathematics — Textbook for Class XI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-486-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendices 1–2, the Answers and the Supplementary Material; nothing is cited from them.
 **Book 22:** *Mathematics — Textbook for Class XII, Parts I–II* (ONE work in two volumes: continuous chapters 1–13 and continuous printed pagination 1–587) — India, NCERT, New Delhi, first edition November 2006, 2020-21 printing; Part I ISBN 81-7450-629-2 (Part II prints no ISBN). Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy of Part I lacks its appendices, answers and supplementary material, and the held copy of Part II has no front matter; nothing is cited from either.
+**Book 23:** *Математик VIII (Mathematics, Grade 8)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 24:** *Математик IX (Mathematics, Grade 9)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -55,8 +57,14 @@ Every part traces to its book and page.
 | Distance between two points in space (3D Pythagoras) | India, Mathematics Class 11, printed p. 271 |
 | Direction cosines and ratios — direction angles, direction cosines and direction ratios of a line defined | India, Mathematics Class 12 Part II, printed p. 463 |
 | Direction cosines and ratios — relation l² + m² + n² = 1 between the direction cosines; direction cosines of a line through two points | India, Mathematics Class 12 Part II, printed p. 465 |
+| Planes of symmetry of solids — a plane is determined by 3 non-collinear points / two intersecting or parallel lines; why a 3-legged table does not wobble | Mongolia, Математик VIII (Grade 8), printed p. 137 |
+| Lines and planes in space — skew lines defined (boxed); cube-edge relations; perpendicular from a point to a plane; distance from a point to a plane; counting planes of symmetry of solids | Mongolia, Математик VIII (Grade 8), printed p. 138 |
+| Definition — line and plane: relative positions; parallel planes; a line parallel to a plane | Mongolia, Математик IX (Grade 9), printed p. 172 |
+| A line perpendicular to a plane; distance from a point to a line | Mongolia, Математик IX (Grade 9), printed p. 173 |
+| Distance from a point to a plane; prism height; pyramid height | Mongolia, Математик IX (Grade 9), printed p. 174 |
+| Cutting a solid by a plane (sections) | Mongolia, Математик IX (Grade 9), printed p. 175 |
 
-**Acceptance count: taught in 14 countries (China, Armenia, Vietnam, Kuwait, Greece, Iraq, Yemen, Cambodia, Kazakhstan, Laos, North Macedonia, Iran, Syria, India).**
+**Acceptance count: taught in 15 countries (China, Armenia, Vietnam, Kuwait, Greece, Iraq, Yemen, Cambodia, Kazakhstan, Laos, North Macedonia, Iran, Syria, India, Mongolia).**
 
 China carries the full synthetic system twice, in the B-edition Compulsory Volume 4 Chapter 11 and in parallel in the A-edition Compulsory Volume 2 Chapter 8: three basic facts and corollaries, parallelism and perpendicularity as criterion-and-property systems, and the three space angles. Armenia carries the stereometry opening course in Geometry 10 Chapter I — axioms and consequences, positions including the skew-lines criterion, and line–plane perpendicularity. Vietnam carries the synthetic theorem system across both Grade 11 volumes: parallelism and parallel projection in Volume 1, perpendicularity, projection, the line–plane angle, perpendicular planes and distance in Volume 2 — the filing notes its space work is synthetic, with no space vectors. Kuwait carries the system in Grade 11 Term 2 Unit 10 — postulates, skew lines, the three-perpendiculars theorem, the dihedral angle and perpendicular planes — synthetic only, with no vectors or coordinates in space, as filed. Greece carries lines and planes in space in Euclidean Geometry Volume B Chapter 12, including Thales' theorem in space, the dihedral plane angle and projection. Iraq carries space geometry in Grade 11 Science Chapter 7 with six numbered theorems, and dihedral angles in Grade 12 Science Chapter 6, of which only the read-and-checked projection example (pp.238–240) is cited here.
 
@@ -65,3 +73,6 @@ Yemen carries the topic in two books: Grade 11 Science Part 2 Unit 8 (the plane 
 Syria's space geometry runs through Grade 9 Geometry's plane sections of solids and Grade 12 Part Two's relative positions of lines and planes in space.
 
 India enters geometry in space from Mathematics Class 11–12: coordinates in space; direction cosines and ratios.
+
+
+Mongolia enters through its ministry textbooks Математик VIII, IX (Grades 8, 9): space geometry met first inside Grade 8's plane-geometry review — the planes of symmetry of solids, and the first positions of lines and planes in space — before Grade 9's full line-and-plane chapter.

@@ -1,6 +1,6 @@
 # Sources — Pythagoras
 
-countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India
+countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia
 
 Every part traces to its book and page.
 
@@ -135,6 +135,7 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 **Book 53:** *Mathematics — Textbook for Class VII* — India, NCERT, New Delhi, first edition February 2007, 2020-21 issue, ISBN 81-7450-669-1. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Brain-Teasers; nothing is cited from them.
 **Book 54:** *Mathematics — Textbook for Class VIII* — India, NCERT, New Delhi, first edition January 2008, 2020-21 printing, ISBN 978-81-7450-814-0. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Just for Fun sections; nothing is cited from them.
 **Book 55:** *Mathematics — Textbook for Class X* — India, NCERT, New Delhi, first edition December 2006, 2020-21 printing, ISBN 81-7450-634-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 56:** *Математик VIII (Mathematics, Grade 8)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -205,8 +206,14 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 | Pythagoras' theorem — Theorem 6.8 (Pythagoras) proved from similar triangles: hypotenuse² = sum of squares of the other two sides | India, Mathematics Class 10, printed p. 145 |
 | Converse of Pythagoras — Theorem 6.9 proved: if one side² = sum of squares of the other two, the opposite angle is a right angle | India, Mathematics Class 10, printed p. 147 |
 | Pythagoras applications — ladder/rectangle problems and proof exercises (medians, interior point) using Pythagoras | India, Mathematics Class 10, printed p. 148 |
+| Theorem — Pythagoras' theorem: area-dissection proof; history note; converse stated in margin | Mongolia, Математик VIII (Grade 8), printed p. 101 |
+| Roof rafter √17 ≈ 4.1 (calculator note); diagonals of rectangles and rhombi | Mongolia, Математик VIII (Grade 8), printed p. 102 |
+| TV diagonal, pool, kite string, ladder, lake width, power-pole wire, aeroplane and helicopter slant distances | Mongolia, Математик VIII (Grade 8), printed p. 103 |
+| Median to the hypotenuse; Egyptian rope 3²+4²=5² project | Mongolia, Математик VIII (Grade 8), printed p. 104 |
+| Pythagorean-triple generator 2mn, m²−n², m²+n² (prove or give a counterexample) | Mongolia, Математик VIII (Grade 8), printed p. 117 |
+| Theorem — altitude on the hypotenuse: Euclid's relations CD² = AD·BD, BC² = BD·BA, CA² = AD·AB (boxed) | Mongolia, Математик VIII (Grade 8), printed p. 129 |
 
-**Acceptance count: taught in 27 countries (Egypt, Greece, Armenia, Kazakhstan, Vietnam, Sierra Leone, Libya, Mauritania, South Africa, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India).**.** Egypt carries the fullest single treatment — Iran states Pythagoras' theorem in Grade 8 and verifies it on examples rather than proving it, and uses the converse.
+**Acceptance count: taught in 28 countries (Egypt, Greece, Armenia, Kazakhstan, Vietnam, Sierra Leone, Libya, Mauritania, South Africa, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia).**.** Egypt carries the fullest single treatment — Iran states Pythagoras' theorem in Grade 8 and verifies it on examples rather than proving it, and uses the converse.
 the theorem, its converse, classifying triangles by comparing
 squares, the 13-foot ladder and a Pythagoras practical in Grade
 8. Sierra Leone carries the cleanest ladder in JSS 3 — the
@@ -244,3 +251,6 @@ Malaysia gives Pythagoras the final chapter of Form 1, theorem and converse both
 Sudan states Pythagoras' theorem in Grade 6, finds sides with it and tests for a right angle, and uses it for chord-length problems in Grade 9.
 
 India enters Pythagoras from Mathematics Class 7–8, 10: pythagoras property a² = b² + c² by a squares-and-triangles area argument; hypotenuse and legs named; pythagorean triplets defined; generating triplets with 2m, m²−1, m²+1; right-triangle similarity.
+
+
+Mongolia enters through its ministry textbook Математик VIII (Grade 8): the theorem with an area-dissection proof and its converse stated, worked through roofs, ladders, kites and lake widths, a Pythagorean-triple generator (2mn, m² − n², m² + n²) set as prove-or-disprove, and Euclid's altitude-on-the-hypotenuse relations.

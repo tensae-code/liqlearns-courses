@@ -1,6 +1,6 @@
 # Sources — Constructing triangles and quadrilaterals
 
-countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India
+countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia
 
 Every part traces to its book and page.
 
@@ -19,6 +19,7 @@ Every part traces to its book and page.
 **Book 10:** *Mathematics — Textbook for Class VII* — India, NCERT, New Delhi, first edition February 2007, 2020-21 issue, ISBN 81-7450-669-1. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Brain-Teasers; nothing is cited from them.
 **Book 11:** *Mathematics — Textbook for Class VIII* — India, NCERT, New Delhi, first edition January 2008, 2020-21 printing, ISBN 978-81-7450-814-0. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Just for Fun sections; nothing is cited from them.
 **Book 12:** *Mathematics — Textbook for Class IX* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-489-3. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendix 1 (Proofs in Mathematics), Appendix 2 (Introduction to Mathematical Modelling) and Answers/Hints; nothing is cited from them.
+**Book 13:** *Математик VII (Mathematics, Grade 7)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -54,7 +55,10 @@ Every part traces to its book and page.
 | Triangle constructions — Construction 11.4: triangle given base, a base angle and the SUM of the other two sides | India, Mathematics Class 9, printed p. 191 |
 | Triangle constructions — Construction 11.5: triangle given base, a base angle and the DIFFERENCE of the other two sides | India, Mathematics Class 9, printed p. 193 |
 | Triangle constructions — Construction 11.6: triangle given its perimeter and two base angles | India, Mathematics Class 9, printed p. 194 |
-**Acceptance count: taught in 7 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India).**
+| Constructing a triangle from two sides and the included angle, from a side and two adjacent angles, and from three sides | Mongolia, Математик VII (Grade 7), printed p. 114 |
+| Triangle inequality met in construction: when three sides cannot form a triangle (a + b > c and companions) | Mongolia, Математик VII (Grade 7), printed p. 115 |
+| Constructing right triangles from leg/hypotenuse data and quadrilaterals (trapezia) to given measures | Mongolia, Математик VII (Grade 7), printed p. 116 |
+**Acceptance count: taught in 8 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia).**
 
 Pakistan's Grade 8 book is the spine: it constructs the whole quadrilateral family — square, rectangle, rhombus, parallelogram, kite, trapezium — and the SSS, SAS, ASA and RHS triangles, with the incentre and circumcentre constructions. Bangladesh's Class 8 Exp.5 is a dedicated constructing-quadrilaterals chapter. Yemen meets the work earliest: Grade 4 constructs a rectangle from its length and width and a square, and Grade 5 builds a triangle from two sides and the included angle in five named steps. Sierra Leone's SSS 2 course splits the same material into single-skill lessons — SSS, SAS and ASA triangles, then squares and rectangles, rhombi and parallelograms, and trapeziums — and finishes with construction word problems.
 
@@ -63,3 +67,6 @@ Syria tests whether three lengths can be the sides of a triangle in Grade 7, thr
 Sudan constructs from Grade 4 — a triangle, a parallelogram, a rectangle and a square with ruler and set square — and in Grade 5 proves the triangle angle sum with parallel-line angles before closing with four full compass-and-protractor triangle constructions: SSS, ASA, SAS and RHS.
 
 India stocks constructing triangles and quadrilaterals from Mathematics Classes 7–9: SSS construction; quadrilateral constructions; triangle constructions.
+
+
+Mongolia enters through its ministry textbook Математик VII (Grade 7): constructing a triangle from two sides and the included angle, from a side and two adjacent angles, and from three sides — meeting the triangle inequality inside the construction work, when three sides cannot form a triangle at all.

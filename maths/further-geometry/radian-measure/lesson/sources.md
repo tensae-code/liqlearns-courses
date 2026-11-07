@@ -1,6 +1,6 @@
 # Sources — Radian measure
 
-countries: Bangladesh, Laos, Nicaragua, Nepal, Jordan, Pakistan, Ethiopia, Malaysia, Sudan, India
+countries: Bangladesh, Laos, Nicaragua, Nepal, Jordan, Pakistan, Ethiopia, Malaysia, Sudan, India, Mongolia
 
 Every part traces to its book and page.
 
@@ -17,6 +17,7 @@ Every part traces to its book and page.
 
 **Book 10:** *Mathematics, Grade 10 (First Year Secondary)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, Arabic; no edition or year is printed in the book. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 11:** *Mathematics — Textbook for Class XI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-486-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendices 1–2, the Answers and the Supplementary Material; nothing is cited from them.
+**Book 12:** *Математик XII (Mathematics, Grade 12)* — Mongolia, Ministry of Education, second edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -41,10 +42,14 @@ Every part traces to its book and page.
 | Radian measure — The radian defined from the unit-radius arc; 2π radians = 360°; converting between degrees and radians with a standard table (6-4) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 194 |
 | Angle measurement — degree measure and radian measure; arc length l = rθ | India, Mathematics Class 11, printed p. 49 |
 | Conversions — relation between radian and degree measure and conversions | India, Mathematics Class 11, printed p. 52 |
-**Acceptance count: taught in 10 countries (Bangladesh, Laos, Nicaragua, Nepal, Jordan, Pakistan, Ethiopia, Malaysia, Sudan, India).** Bangladesh carries the fullest single treatment — DMS, standard position, coterminal angles, and radian measure with s = rθ worked on Earth distances. Laos carries directed angles and radians inside its fundamental-formulas chapter. Nicaragua carries DMS and radians in its student book and is the lesson's gradian source in its module, which names all three systems side by side. Nepal carries all three systems with conversions between sexagesimal and centesimal in its Optional book. Jordan opens its Grade 11 trigonometric-functions unit with radian measure. Pakistan carries the sexagesimal system, the radian, arc length and sector area in one unit. Ethiopia carries radian measure and coterminal angles inside its Grade 10 trigonometry chapter.
+| Radian measure — Radian defined (arc = radius); 360° = 2π rad; conversion formulas a = πα°/180°, α° = 180°a/π | Mongolia, Математик XII (Grade 12), printed p. 86 |
+**Acceptance count: taught in 11 countries (Bangladesh, Laos, Nicaragua, Nepal, Jordan, Pakistan, Ethiopia, Malaysia, Sudan, India, Mongolia).** Bangladesh carries the fullest single treatment — DMS, standard position, coterminal angles, and radian measure with s = rθ worked on Earth distances. Laos carries directed angles and radians inside its fundamental-formulas chapter. Nicaragua carries DMS and radians in its student book and is the lesson's gradian source in its module, which names all three systems side by side. Nepal carries all three systems with conversions between sexagesimal and centesimal in its Optional book. Jordan opens its Grade 11 trigonometric-functions unit with radian measure. Pakistan carries the sexagesimal system, the radian, arc length and sector area in one unit. Ethiopia carries radian measure and coterminal angles inside its Grade 10 trigonometry chapter.
 
 Malaysia opens Additional Mathematics Form 5 with circular measure: the radian defined from the arc itself, then s = rθ, sector and segment areas, all in radians.
 
 Sudan introduces radian measure in Grade 10, with angles in standard position.
 
 India enters radian measure from Mathematics Class 11: angle measurement.
+
+
+Mongolia enters through its ministry textbooks Математик XII (Grade 12): radian measure.

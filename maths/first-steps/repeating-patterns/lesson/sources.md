@@ -1,6 +1,6 @@
 # Sources — Repeating Patterns
 
-countries: Kuwait, Yemen, Indonesia, Ghana, Syria, Malaysia, India
+countries: Kuwait, Yemen, Indonesia, Ghana, Syria, Malaysia, India, Mongolia
 
 Every part traces to its book and page.
 
@@ -22,6 +22,8 @@ Every part traces to its book and page.
 **Book 14:** *Math-Magic Book 4 — Textbook in Mathematics for Class IV* — India, NCERT, New Delhi, first edition March 2007, 2020-21 issue, ISBN 81-7450-698-5. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
 **Book 15:** *Math-Magic Book 5 — Textbook in Mathematics for Class V* — India, NCERT, New Delhi, first edition March 2008, 2020-21 issue, ISBN 978-81-7450-828-7. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
 **Book 16:** *Mathematics — Textbook for Class VI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 issue, ISBN 81-7450-482-6. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 17:** *Математик I (Mathematics, Grade 1)* — Mongolia, Ministry of Education, seventh edition, Ulaanbaatar 2020. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 18:** *Математик II (Mathematics, Grade 2)* — Mongolia, Ministry of Education, seventh edition, Ulaanbaatar 2020. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -77,11 +79,16 @@ Every part traces to its book and page.
 | Turning patterns — Pattern rules with turns: repeat with a 1/4 turn, a half turn, a 3/4 turn (clockwise) | India, Math-Magic Class 5, printed p. 99 |
 | Pattern rules — Continuing patterns turning by 45° each time; writing the rule of a pattern; spotting the picture that breaks the rule | India, Math-Magic Class 5, printed p. 101 |
 | Number patterns — Numbers arranged as lines, rectangles, squares and triangles (first triangular numbers 3, 6, 10, …) | India, Mathematics Class 6, printed p. 42 |
+| Sequences and neighbours — colour a turtle by subtraction answers (17−6, 20−5, 19−8…); number a chick life-cycle in order; write a smaller and a bigger neighbour for 12, 9, 14, 15, 7, 11, 13, 10, 18 | Mongolia, Математик I (Grade 1), printed p. 98 |
+| Patterns and result changes — next three numbers in patterns (16, 19, 22, 25… +3; 27, 32, 37, 42… +5) and the three before (…, 20, 25, 30; …, 45, 52, 59, 66); word problem: the boy read 13 books, 4 fewer than the girl — how many did the girl read?; watch how the result changes: 80 − 30 = 50 with members changed (80 − 20 = 60, 70 − 30 = 40, 90 − 30 = 60, 80 − 40 = 40); for 45 + 30 = 75: if an addend grows by 10 how does the sum change, by how much must an addend grow to grow the sum by 20, by how much must an addend shrink to shrink the sum by 5; colour petal pairs that sum to 100 — can all petals be coloured?; name the member in A 26 − 23, B 68 − 42, C 87 − 26 from children's answers (subtrahend / minuend / difference) | Mongolia, Математик II (Grade 2), printed p. 20 |
 
-**Acceptance count: taught in 7 countries (Kuwait, Yemen, Indonesia, Ghana, Syria, Malaysia, India).** Kuwait teaches repeating patterns in its first Grade 1 unit (lesson 1-4, printed p. 24) and returns to them at Grade 2 (lesson 1-2, printed p. 20). Yemen teaches discovering patterns as a named Grade 1 lesson (printed p. 22) and repeats the lesson inside its addition, subtraction and shapes units (printed pp. 84, 110, 126). Indonesia carries the widest run: patterns of shapes, colours, movements and sounds at Grade 2 (printed pp. 101–124), growing and shrinking patterns at Grade 4 (Bab 3, printed pp. 85–102), and a full number-patterns chapter at Grade 8 — tile patterns, lamp cycles, unit digits (K13 Bab 1, printed pp. 1–40). Ghana carries patterns as teacher evidence only — extending patterns, finding rules, correcting errors and creating patterns for a rule in the JICA B3 manual (Lessons 77–79), and the multiply/divide patterns with the divide-by-2 chain 560, 280, 140, 70, 35 in the JICA B5 manual (Lessons 73–78); Ghana's set holds no pupil textbook, so those rows are worded as teacher evidence wherever they are used.
+**Acceptance count: taught in 8 countries (Kuwait, Yemen, Indonesia, Ghana, Syria, Malaysia, India, Mongolia).** Kuwait teaches repeating patterns in its first Grade 1 unit (lesson 1-4, printed p. 24) and returns to them at Grade 2 (lesson 1-2, printed p. 20). Yemen teaches discovering patterns as a named Grade 1 lesson (printed p. 22) and repeats the lesson inside its addition, subtraction and shapes units (printed pp. 84, 110, 126). Indonesia carries the widest run: patterns of shapes, colours, movements and sounds at Grade 2 (printed pp. 101–124), growing and shrinking patterns at Grade 4 (Bab 3, printed pp. 85–102), and a full number-patterns chapter at Grade 8 — tile patterns, lamp cycles, unit digits (K13 Bab 1, printed pp. 1–40). Ghana carries patterns as teacher evidence only — extending patterns, finding rules, correcting errors and creating patterns for a rule in the JICA B3 manual (Lessons 77–79), and the multiply/divide patterns with the divide-by-2 chain 560, 280, 140, 70, 35 in the JICA B5 manual (Lessons 73–78); Ghana's set holds no pupil textbook, so those rows are worded as teacher evidence wherever they are used.
 
 Syria's repeating patterns open the Grade 1 Semester 1 book: AB and ABC patterns in colours, shapes and movements, completed, repaired and built by the pupil.
 
 Malaysia's first pattern work sits at the start of Form 2 — patterns spotted in number sets and in everyday objects, with Pascal's triangle built row by row. It is Malaysia's earliest pattern teaching (its set holds no primary books); the first-steps climb itself stands on the primary books of the other countries.
 
 India carries repeating patterns through its NCERT ladder — Math-Magic Class 1–5 and Mathematics Class 6 — including extending a sequence; patterns around us; rangoli dot patterns; brick floor patterns.
+
+
+Mongolia enters through its ministry textbooks Математик I, II (Grades 1, 2): sequences and neighbours; patterns and result changes.
