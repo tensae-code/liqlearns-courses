@@ -1,6 +1,6 @@
 # Sources — Inclusion–Exclusion and Venn Counting
 
-countries: Iran, Laos, Nepal, Sierra Leone, Kazakhstan, South Sudan, Malaysia
+countries: Iran, Laos, Nepal, Sierra Leone, Kazakhstan, South Sudan, Malaysia, Sudan
 
 Every part traces to its book and page.
 
@@ -16,6 +16,8 @@ Every part traces to its book and page.
 **Book 10:** *Secondary Mathematics — Student's Book 2* — South Sudan, Ministry of General Education and Instruction, ©2018, Mountain Top Publishers. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 11:** *Mathematics Form 4* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Sasbadi Sdn. Bhd., 2019, ISBN 978-983-77-1531-8) and BM original *Matematik Tingkatan 4* (Pustaka Yakin Pelajar Sdn. Bhd., 2019, ISBN 978-967-490-087-8). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 12:** *Mathematics, Grade 10 (First Year Secondary)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, Arabic; no edition or year is printed in the book. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -33,6 +35,9 @@ Every part traces to its book and page.
 | n(A ∪ B) = n(A) + n(B) − n(A ∩ B) used in survey problems | Malaysia, Mathematics Form 4, Ch. 4 §4.2, printed pp. 113–115 |
 | Problem solving with combined set operations (three-club and campaign surveys) | Malaysia, Mathematics Form 4, Ch. 4 §4.3, printed pp. 121–125 |
 
-**Acceptance count: taught in 7 countries (Iran, Laos, Nepal, Sierra Leone, Kazakhstan, South Sudan, Malaysia).** Iran carries the deepest treatment — inclusion–exclusion in the Discrete Mathematics book (pp.73–78), carried all the way to counting onto functions, which is this lesson's closing part. Laos carries the working method: the two-set and three-set formulas inside Grade 10 survey problems (Ch.II L5, pp.38–48). Nepal carries the survey shape across Grades 8 (§10.3), 9 and 10, with its filed "neither" count taught corrected at 18. Sierra Leone carries three sets taught region by region at SSS1 (L64–70) and the formulae stated at SSS3 (L121). Kazakhstan carries the overlap idea at Grade 5 (§5.4) and the formula in its Grade 9 books. South Sudan carries Venn counting in the Secondary 2 sets unit.
+| Counting with Venn diagrams — Counting pupils who play football only / volleyball only / neither from overlapping-set data (within exercise 2-6) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 66 |
+**Acceptance count: taught in 8 countries (Iran, Laos, Nepal, Sierra Leone, Kazakhstan, South Sudan, Malaysia, Sudan).** Iran carries the deepest treatment — inclusion–exclusion in the Discrete Mathematics book (pp.73–78), carried all the way to counting onto functions, which is this lesson's closing part. Laos carries the working method: the two-set and three-set formulas inside Grade 10 survey problems (Ch.II L5, pp.38–48). Nepal carries the survey shape across Grades 8 (§10.3), 9 and 10, with its filed "neither" count taught corrected at 18. Sierra Leone carries three sets taught region by region at SSS1 (L64–70) and the formulae stated at SSS3 (L121). Kazakhstan carries the overlap idea at Grade 5 (§5.4) and the formula in its Grade 9 books. South Sudan carries Venn counting in the Secondary 2 sets unit.
 
 Malaysia's Form 4 set chapter counts with its Venn diagrams throughout — the inclusion–exclusion count n(A ∪ B) = n(A) + n(B) − n(A ∩ B) worked on survey data, up to three sets combined.
+
+Sudan counts with Venn diagrams in Grade 10, inside its sets course.

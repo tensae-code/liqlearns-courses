@@ -1,6 +1,6 @@
 # Sources — Dynamics: motion, momentum and energy
 
-countries: Egypt, Malaysia
+countries: Egypt, Malaysia, Sudan
 
 Every part traces to its book and page.
 
@@ -10,6 +10,8 @@ Egypt was the first source for this lesson. Among the countries whose maths book
 **Book 2:** *Applied Mathematics — Mechanics — Third secondary — Student Book (Grade 12, full year)* — Egypt, Ministry of Education and Technical Education, no deposit number or ISBN printed in the held copies and no year printed on the English copy (French cover: school year 2025-2026); edition data unverified as filed. Filed in maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 3:** *Additional Mathematics Form 5* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Abadi Ilmu Sdn. Bhd., 2020, ISBN 978-983-2914-68-6) and BM original *Matematik Tambahan Tingkatan 5* (Abadi Ilmu Sdn. Bhd., 2020, ISBN 978-983-2914-67-9). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 4:** *Specialized Mathematics, Book Two, Grade 12 (science track)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, revised issue, Arabic, ISBN 978-99942-53-17-3. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -33,6 +35,9 @@ Egypt was the first source for this lesson. Among the countries whose maths book
 | Integration in kinematics: velocity recovered from acceleration and displacement from velocity, with initial conditions | Malaysia, Additional Mathematics Form 5, Ch. 8 §8.3, printed pp. 267–270 |
 | Total distance travelled against displacement when the direction of motion reverses; applications of kinematics of linear motion | Malaysia, Additional Mathematics Form 5, Ch. 8 §§8.1–8.4, printed pp. 258, 265–273 |
 
-**Acceptance count: taught in 2 countries (Egypt, Malaysia).** Egypt teaches dynamics whole in one Applied Mathematics run: rectilinear motion, uniformly accelerated motion and free fall, then momentum and Newton's three laws, in Grade 11 Term 2; and motion as a function of time, variable and connected bodies, impulse, and work, energy and power (printed pp.72–150) in Part 2 (Dynamics) of its Grade 12 Applied Mathematics (Mechanics) book. No other read country teaches this material, so this lesson was first built at that honest size — one country's full treatment of mechanics as a subject; Malaysia's calculus treatment of motion now joins it, in its own part below.
+| Velocity and acceleration — Applications in mechanics (§3-3): instantaneous velocity ع = دف/دن as the limit of average velocity; acceleration جـ = دع/دن = د²ف/دن²; exercises incl. proving acceleration ∝ displacement for ف = أ جتا(ب ن + هـ) (SHM) | Sudan, Grade 12 Specialized Mathematics, Book Two (science track), printed p. 90 |
+**Acceptance count: taught in 3 countries (Egypt, Malaysia, Sudan).** Egypt teaches dynamics whole in one Applied Mathematics run: rectilinear motion, uniformly accelerated motion and free fall, then momentum and Newton's three laws, in Grade 11 Term 2; and motion as a function of time, variable and connected bodies, impulse, and work, energy and power (printed pp.72–150) in Part 2 (Dynamics) of its Grade 12 Applied Mathematics (Mechanics) book. No other read country teaches this material, so this lesson was first built at that honest size — one country's full treatment of mechanics as a subject; Malaysia's calculus treatment of motion now joins it, in its own part below.
 
 Malaysia joins Egypt in this lesson from a different direction: its kinematics of linear motion is the calculus of motion — s, v and a as functions of time, joined by differentiation one way and by integration the other, with distance against displacement settled carefully — where Egypt teaches mechanics as its own applied subject.
+
+Sudan meets velocity and acceleration in Grade 12 Specialized Book Two, inside its calculus course.

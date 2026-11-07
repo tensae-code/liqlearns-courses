@@ -1,6 +1,6 @@
 # Sources — Functions
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda
+countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan
 
 Every part traces to its book and page.
 
@@ -149,8 +149,13 @@ CITATION CHECK PASSED 2026-11-05).
 **Book 83:** *Mathematics Form 4* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Sasbadi Sdn. Bhd., 2019, ISBN 978-983-77-1531-8) and BM original *Matematik Tingkatan 4* (Pustaka Yakin Pelajar Sdn. Bhd., 2019, ISBN 978-967-490-087-8). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 84:** *Additional Mathematics Form 4* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-967-2375-42-5 — the held copy is an image-only scan read visually; its contents pages, printed v–vi, are missing, the body is complete) and BM original *Matematik Tambahan Tingkatan 4* (Pan Asia Publications Sdn. Bhd., 2019, ISBN 978-967-466-377-3). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 
-
 **Book 85:** *Mathematics for Rwandan Schools — Senior 1 Student's Book* — Rwanda, Longhorn Publishers (Rwanda) Ltd, 2016, ISBN 978 9997 74 483 8 (as printed). No REB approval wording is printed anywhere in the book. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 86:** *Mathematics, Grade 9 (Third Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2024, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 87:** *Basic Mathematics, Grade 12 (humanities track)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, title page dated October 2009, Arabic. No ISBN printed. The held copy lacks its first contents page, any ISBN page and its back cover; the body is complete (folios 1–157) and only body pages are cited. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 88:** *Specialized Mathematics, Book Two, Grade 12 (science track)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, revised issue, Arabic, ISBN 978-99942-53-17-3. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -262,8 +267,25 @@ CITATION CHECK PASSED 2026-11-05).
 | Functions as one-to-one or many-to-one mappings; function notation f(x) and evaluating functions; the inverse of a function f⁻¹ by interchanging x and y and solving; composite functions fg(x) and gf(x) | Rwanda, Senior 1 Student's Book, Unit 1, printed pp. 30–34 |
 | Linear functions and tables of values; graphs of linear equations as straight lines; the x- and y-intercepts of a line, found from the graph and from the equation | Rwanda, Senior 1 Student's Book, Unit 3, printed pp. 72–77 |
 | Gradient of a straight line as vertical change ÷ horizontal change; gradient through two known points, of horizontal lines (0) and of vertical lines (undefined); gradient from the intercepts and from the equation in the form y = mx + c | Rwanda, Senior 1 Student's Book, Unit 3, printed pp. 77–83 |
+| Definition of a function — A relation is a function (application) when every domain element has exactly one image; tested on arrow diagrams and ordered-pair sets (1-1) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 5 |
+| Evaluating a function — Image of an element, notation f(x), finding images under a stated rule (1-2) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 11 |
+| Solving f(x) = k and image sets — Finding preimages {x : f(x) = 7} and the image set of a given element (1-2 worked examples) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 13 |
+| Range of a function — Range defined as the set of all images, a subset of the codomain (1-3) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 17 |
+| Surjective functions — Surjective (onto) functions: range equals codomain (1-4) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 20 |
+| Injective functions — Injective (one-to-one) functions defined and tested on diagrams and rules (1-5) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 24 |
+| Bijective functions — Bijective functions as surjective and injective at once (1-6) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 28 |
+| Representing a function — Lattice/grid (شبكي) and tabular representations of a function, alongside arrow diagrams and ordered pairs (1-7) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 32 |
+| Inverse functions — Inverse function exists only for a bijection; reversing arrows and deriving the inverse rule by swapping the variable (1-8) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 37 |
+| Concept — Function (mapping, التطبيق/الدالة) defined; independent and dependent variables; Real (numerical) function; polynomial function and its degree | Sudan, Grade 12 Basic Mathematics (humanities track), printed p. 5 |
+| Skill — Evaluating a function at a point (image of an element) | Sudan, Grade 12 Basic Mathematics (humanities track), printed p. 5 |
+| Concept — Domain (set of definition) and range of a function | Sudan, Grade 12 Basic Mathematics (humanities track), printed p. 7 |
+| Operations — Sum, difference, product and quotient of two functions | Sudan, Grade 12 Basic Mathematics (humanities track), printed p. 8 |
+| Composition — Composition of functions (د∘هـ), order matters | Sudan, Grade 12 Basic Mathematics (humanities track), printed p. 9 |
+| Concept — Mapping/function defined set-wise (د: س ← ص); domain (المجال) and codomain (المجال المصاحب); independent/dependent variables; real functions | Sudan, Grade 12 Specialized Mathematics, Book Two (science track), printed p. 5 |
+| Skill — Evaluating functions incl. rational functions; applied function models (falling body ف(ن) = 576 − 16ن²; rectangle of perimeter 2000 m — find the domain) | Sudan, Grade 12 Specialized Mathematics, Book Two (science track), printed p. 5 |
+| Composition — Compositions of functions (§1-2); difference quotient [د(س+و) − د(س)]/و in exercises | Sudan, Grade 12 Specialized Mathematics, Book Two (science track), printed p. 9 |
 
-**Acceptance count: taught in 24 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda).**.** Egypt carries the
+**Acceptance count: taught in 25 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan).**.** Egypt carries the
 fullest build — Cartesian product, relation, function, domain
 and range in Preparatory 3; the sign of a function in
 Secondary 1; the inverse function in Grade 11 Pure. Jordan
@@ -298,3 +320,5 @@ Saudi Arabia introduces the function at primary level inside its Grade 4 algebra
 Malaysia builds functions in Form 2 from relations and their four types, then treats them in full in Additional Mathematics Form 4 — domain and range, composites, and inverses with the reflection in y = x.
 
 Rwanda teaches functions in Senior 1: mappings, f(x) notation, inverse and composite functions in Unit 1, and linear functions with their graphs, intercepts and gradient in Unit 3.
+
+Sudan defines the function in Grade 9 with unusual completeness — evaluation, image sets, range, surjectivity, injectivity, bijectivity and inverse functions — and both Grade 12 books return to function operations and composition.

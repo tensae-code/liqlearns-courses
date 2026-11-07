@@ -1,6 +1,6 @@
 # Sources — Coordinates and graphs
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda
+countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan
 
 Every part traces to its book and page.
 
@@ -159,7 +159,6 @@ textbook.
 **Book 97:** *Mathematics Form 4* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Sasbadi Sdn. Bhd., 2019, ISBN 978-983-77-1531-8) and BM original *Matematik Tingkatan 4* (Pustaka Yakin Pelajar Sdn. Bhd., 2019, ISBN 978-967-490-087-8). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 98:** *Additional Mathematics Form 4* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-967-2375-42-5 — the held copy is an image-only scan read visually; its contents pages, printed v–vi, are missing, the body is complete) and BM original *Matematik Tambahan Tingkatan 4* (Pan Asia Publications Sdn. Bhd., 2019, ISBN 978-967-466-377-3). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 
-
 **Book 99:** *Mathematics — Primary pupil's book — Year 2* (English edition) — Rwanda, Rwanda Education Board (REB), © 2020 (translated from the 2019 Kinyarwanda original). No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 100:** *Mathematics — Primary Learner's Book, Year 3* (English edition) — Rwanda, Rwanda Education Board (REB), © 2020 (translated from the 2019 Kinyarwanda original). No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
@@ -167,6 +166,10 @@ textbook.
 **Book 101:** *Imibare — Igitabo cy'Umunyeshuri, Umwaka wa 3* (Kinyarwanda original of the Year 3 pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 102:** *Mathematics for Rwandan Schools — Senior 1 Student's Book* — Rwanda, Longhorn Publishers (Rwanda) Ltd, 2016, ISBN 978 9997 74 483 8 (as printed). No REB approval wording is printed anywhere in the book. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 103:** *Mathematics, Grade 9 (Third Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2024, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 104:** *Mathematics, Grade 10 (First Year Secondary)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, Arabic; no edition or year is printed in the book. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -295,8 +298,13 @@ textbook.
 | Unit 12 in the Kinyarwanda edition (§§12.1–12.4) — the Kinyarwanda twin of the Year 3 grid unit, cited for its own pagination only, as the editions are not mirrors | Rwanda, Imibare, Pupil's Book, Year 3 (Kinyarwanda), Unit 12, printed pp. 256–262 |
 | Locating rational numbers on a number line; position of a point on a line and on a plane surface, rows and columns; drawing and labelling axes, with vertical (x = a) and horizontal (y = a) lines; the Cartesian plane — origin, quadrants, coordinates (x, y); plotting points and reading coordinates, including points on a map grid | Rwanda, Senior 1 Student's Book, Unit 3, printed pp. 64–72 |
 | Graphs of direct proportion drawn as a straight line through plotted points; graphs of inverse proportion (speed–time and pressure–volume curves) | Rwanda, Senior 1 Student's Book, Unit 5, printed pp. 132–137 |
+| The Cartesian plane — Points located from the Cartesian product grid; the plane as R × R with two perpendicular axes and origin (0,0) (3-1) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 72 |
+| Quadrants — The four quadrants and the signs of coordinates in each (3-1) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 78 |
+| Reading and plotting points — Reading coordinates of plotted points and plotting points incl. points on the axes (3-1) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 79 |
+| Drawing a line — Drawing a straight line from a three-point table of values (3-2) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 85 |
+| Solving a quadratic graphically — Drawing the parabola y = x² − 2x − 3 from a table and reading the roots off the x-intercepts; no intercept means no real solution (4-2 in unit numbering: graphical solution) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 131 |
 
-**Acceptance count: taught in 26 countries (Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda).**.** South Africa carries the
+**Acceptance count: taught in 27 countries (Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan).**.** South Africa carries the
 plainest gradient teaching — gradient as change in y over
 change in x, with intercepts named, built from tables of
 ordered pairs. Egypt carries the slope rules (m = tan θ,
@@ -327,3 +335,5 @@ Saudi Arabia reaches the coordinate plane in Grade 4 — number-line points at m
 Malaysia's straight-line course is its Form 3 closing chapter — gradient and intercept from graphs, all three equation forms, parallel lines, and equations built from points — framed by Form 1's first plotted line and Form 4's work on the quadratic graph's shape.
 
 Rwanda teaches coordinates and graphs from Primary 2 grid points (post first, then crossing bar) through Primary 3 coordinate pairs and plotted shapes in both the English and Kinyarwanda editions, to the Cartesian plane, quadrants and proportion graphs in Senior 1.
+
+Sudan plots from Grade 9: the Cartesian plane, quadrants, reading and plotting points and drawing a line, and solves a quadratic graphically in Grade 10.

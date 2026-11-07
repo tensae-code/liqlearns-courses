@@ -1,6 +1,6 @@
 # Sources — De Moivre's Theorem
 
-countries: South Sudan, Laos, Kuwait, Syria, Rwanda
+countries: South Sudan, Laos, Kuwait, Syria, Rwanda, Sudan
 
 Every part traces to its book and page.
 
@@ -11,6 +11,8 @@ Every part traces to its book and page.
 **Book 4:** *Mathematics, Part Two, Grade 12 (Scientific track)* — Syria, Ministry of Education, held printing 2025–2026/1447H, first printed 2016–2017, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 5:** *Advanced Mathematics for Rwanda Schools — Learner's Book, Senior Six* (ADVANCED stream) — Rwanda, Fountain Publishers Rwanda Ltd, © 2017, ISBN 978-9970-19-419-3. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 6:** *Specialized Mathematics, Book Two, Grade 12 (science track)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, revised issue, Arabic, ISBN 978-99942-53-17-3. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -27,8 +29,12 @@ Every part traces to its book and page.
 | Construction of regular polygons (square, pentagon) from roots of unity | Rwanda, Advanced Mathematics, Learner's Book, Senior Six, Unit 1, printed pp. 54–55 |
 | Multiple-angle formulae (cos nx, sin nx, tan 4θ) from De Moivre and the binomial theorem; linearisation of trig products via Euler's formulae (product-to-sum) | Rwanda, Advanced Mathematics, Learner's Book, Senior Six, Unit 1, printed pp. 58–62 |
 
-**Acceptance count: taught in 5 countries (South Sudan, Laos, Kuwait, Syria, Rwanda).** South Sudan carries the whole lesson in Additional Mathematics Book 4, Unit 6: the Argand diagram, polar form, De Moivre's theorem with the multiple-angle identities, and roots — with the cube roots of 8 taught corrected (the book prints them wrong on p.194; the correct roots are 2, −1 + i√3, −1 − i√3), the cos 3θ result cited without its faulty printed working, and the sin 3θ identity taught corrected against its guide's misprint. Laos carries the trigonometric form, De Moivre's formula and nth roots in Grade 12, Lesson 13. Kuwait carries the trigonometric form and division in trig form in Grade 11 Term 2, Lesson 7-2 — and stops there: NO De Moivre and NO nth roots for Kuwait, stated plainly wherever Kuwait is cited in this lesson.
+| Powers — Powers and De Moivre's theorem (§7-3): ع^ن = ر^ن (جتا ن هـ + ت جا ن هـ) derived from the product rule | Sudan, Grade 12 Specialized Mathematics, Book Two (science track), printed p. 181 |
+| Identities — Closing exercises: power identities with De Moivre (e.g. (1 + جتا هـ + ت جا هـ)^ن + conjugate = 2^(n+1) جتا^(n+1)(هـ/2); roots of ع² − 2ع + 4 raised to powers) | Sudan, Grade 12 Specialized Mathematics, Book Two (science track), printed p. 201 |
+**Acceptance count: taught in 6 countries (South Sudan, Laos, Kuwait, Syria, Rwanda, Sudan).** South Sudan carries the whole lesson in Additional Mathematics Book 4, Unit 6: the Argand diagram, polar form, De Moivre's theorem with the multiple-angle identities, and roots — with the cube roots of 8 taught corrected (the book prints them wrong on p.194; the correct roots are 2, −1 + i√3, −1 − i√3), the cos 3θ result cited without its faulty printed working, and the sin 3θ identity taught corrected against its guide's misprint. Laos carries the trigonometric form, De Moivre's formula and nth roots in Grade 12, Lesson 13. Kuwait carries the trigonometric form and division in trig form in Grade 11 Term 2, Lesson 7-2 — and stops there: NO De Moivre and NO nth roots for Kuwait, stated plainly wherever Kuwait is cited in this lesson.
 
 Rwanda teaches De Moivre's theorem in Advanced Mathematics Senior Six Unit 1 — for integer and fractional powers, with nth roots, roots of unity, regular-polygon constructions and the multiple-angle formulae.
 
 Syria states De Moivre's formula in Grade 12 Part Two, proves it by induction, and computes powers in trigonometric form.
+
+Sudan states and uses De Moivre's theorem in Grade 12 Specialized Book Two, for powers and for identities.

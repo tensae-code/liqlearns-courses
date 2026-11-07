@@ -1,6 +1,6 @@
 # Sources — Conic Sections
 
-countries: Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda
+countries: Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan
 
 Every part traces to its book and page.
 
@@ -26,6 +26,8 @@ Every part traces to its book and page.
 **Book 19:** *Mathematics, Part One, Grade 12 (Scientific track)* — Syria, Ministry of Education (the NCCD is not named on this book's title page), held printing 2025–2026/1447H, first printed 2016–2017, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 20:** *Advanced Mathematics for Rwanda Schools — Learner's Book, Senior Six* (ADVANCED stream) — Rwanda, Fountain Publishers Rwanda Ltd, © 2017, ISBN 978-9970-19-419-3. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 21:** *Specialized Mathematics, Book Two, Grade 12 (science track)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, revised issue, Arabic, ISBN 978-99942-53-17-3. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -61,7 +63,12 @@ Every part traces to its book and page.
 | The polar equation of a conic r = ep/(1 + e cos θ) with focus at the pole | Rwanda, Advanced Mathematics, Learner's Book, Senior Six, Unit 8, printed pp. 424–426 |
 | Applications: planetary eccentricity, parabolic and semi-elliptical arches, the cooling tower and the whispering gallery | Rwanda, Advanced Mathematics, Learner's Book, Senior Six, Unit 8, printed pp. 429–435 |
 
-**Acceptance count: taught in 15 countries (Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda).**
+| Circle equation — The circle as a locus (§6-1): set-builder definition {أ(س، ص): أ م = نق}; standard equation from centre م and radius نق | Sudan, Grade 12 Specialized Mathematics, Book Two (science track), printed p. 148 |
+| General form — General form of the circle's equation (§6-2) | Sudan, Grade 12 Specialized Mathematics, Book Two (science track), printed p. 151 |
+| Circle through conditions — Finding a circle satisfying given conditions (§6-3): through points, centre on a given line or axis | Sudan, Grade 12 Specialized Mathematics, Book Two (science track), printed p. 154 |
+| Tangent to a circle — Equation of the tangent to a circle at a point on it (§6-4): line–circle positions (secant/tangent/no meeting); tangent perpendicular to radius | Sudan, Grade 12 Specialized Mathematics, Book Two (science track), printed p. 160 |
+| Tangent length — Length of the tangent from an external point (§6-5) | Sudan, Grade 12 Specialized Mathematics, Book Two (science track), printed p. 164 |
+**Acceptance count: taught in 16 countries (Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan).**
 
 Rwanda teaches conic sections whole in Advanced Mathematics Senior Six Unit 8 — the focus–directrix definition with eccentricity, all three conics with tangents and normals, the polar equation, and applications from planetary orbits to the whispering gallery.
 
@@ -70,3 +77,5 @@ Greece carries the full conic course in one chapter of its Grade 11 orientation 
 Indonesia carries conics in both its Grade 12 Tingkat Lanjut books: the 2022 book teaches the parabola, ellipse and hyperbola as full conics with tangent lines, while the 2025 Revisi book teaches the ellipse in full and the parabola in full in its enrichment pages, but teaches the hyperbola by definition, elements and asymptotes only — its equations are not taught there and are never cited to it. Vietnam carries the three conics twice in Grade 10: introduced together in Volume 2 (Bài 22), then one dedicated lesson per conic plus a unification lesson in the study book. Iran carries the ellipse and the parabola in Geometry (3) — the ellipse geometrically by the string construction with no Cartesian equation stated, the parabola derived as y² = 4ax — and the ellipse again, with a weaker parabola mention, in Mathematics (3); the hyperbola is explicitly not taught in Geometry (3) and Iran is never cited for it. Cambodia carries conics in Grade 12 Basic Chapter 6: the parabola read in full, and the ellipse and hyperbola filed from the chapter contents, the teacher guide's lessons and the answers, their section starts not read in detail and worded as filed, with the answers graph's bottom vertex taught corrected as (0, −5). Nicaragua carries all three conics in Grade 11 Unit 5 with proofs, every conic centred at the origin and no translated conics taught. Mauritania carries conics as a baccalaureate chapter in its 7AS-C stream. Nepal carries only an introduction: the parts of a cone in Grade 10 Optional §8.3, with no conic equations developed — a minor source, counted as an introduction only.
 
 Syria reaches conic sections only lightly: a guided problem iterates a point map on the hyperbola x² − 5y² = 1 in Grade 12 Part One. (Its Grade 12 integrals unit also uses the paraboloid of revolution, filed under volume.)
+
+Sudan reaches conic sections only through the circle, in Grade 12 Specialized Book Two: the circle's equation and general form, a circle through given conditions, tangents to a circle and tangent length — circle-only analytic geometry, as filed.

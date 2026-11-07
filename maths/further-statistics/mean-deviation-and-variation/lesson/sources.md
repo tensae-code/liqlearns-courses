@@ -1,6 +1,6 @@
 # Sources — Mean Deviation and Variation
 
-countries: Bangladesh, Laos, Pakistan, Malaysia
+countries: Bangladesh, Laos, Pakistan, Malaysia, Sudan
 
 Every part traces to its book and page.
 
@@ -10,6 +10,10 @@ Every part traces to its book and page.
 
 **Book 4:** *Mathematics Form 4* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Sasbadi Sdn. Bhd., 2019, ISBN 978-983-77-1531-8) and BM original *Matematik Tingkatan 4* (Pustaka Yakin Pelajar Sdn. Bhd., 2019, ISBN 978-967-490-087-8). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 5:** *Mathematics Form 5* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2020, ISBN 978-967-2930-12-9) and BM original *Matematik Tingkatan 5* (Penerbitan Pelangi Sdn. Bhd., 2020, ISBN 978-967-2907-93-0). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 6:** *Basic Mathematics, Grade 12 (humanities track)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, title page dated October 2009, Arabic. No ISBN printed. The held copy lacks its first contents page, any ISBN page and its back cover; the body is complete (folios 1–157) and only body pages are cited. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 7:** *Specialized Mathematics, Book One, Grade 12 (science track)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, revised issue, Arabic, ISBN 978-99942-53-18-0. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -29,6 +33,14 @@ Every part traces to its book and page.
 | The effect of changes in the data on range, interquartile range and standard deviation: adding or removing a value, a uniform change applied to every value, an outlier added | Malaysia, Mathematics Form 4, Ch. 8 §8.2, printed pp. 228–234 |
 | Variance and standard deviation for grouped data, computed from Σf, Σfx and Σfx² (the book's own totals give σ² = 229.19, σ = 15.14) (Example 10) | Malaysia, Mathematics Form 5, Ch. 7 §7.2, printed p. 212 |
 
-**Acceptance count: taught in 4 countries (Bangladesh, Laos, Pakistan, Malaysia).** Bangladesh carries the lesson's spine in one chapter: why the centre is not enough, the range, mean deviation under its own name "mean interval", variance and standard deviation — with its Pearson year taught corrected as 1893, its English-only p.225 claim taught corrected, and quartile deviation never cited to it, because the book names it on p.211 and teaches it nowhere. Laos carries the sample-variance convention s² with denominator n − 1, worked on grouped rainfall data. Pakistan carries quartile deviation and its coefficient, the mean-deviation coefficients, and the coefficient of variation — and its own opposite convention, denominator n for sample variance too, kept labelled as Pakistan's way beside Laos's.
+| Mean deviation — Mean deviation about the mean: 4-step method; worked example Σ/x−x̄/= 84, MD = 84/9 | Sudan, Grade 12 Basic Mathematics (humanities track), printed p. 102 |
+| Variance and SD — Variance and standard deviation; worked example Σ(x−x̄)² = 1168, var ≈ 129.8, SD ≈ 11.39; shortcut formula √(Σx²/n − x̄²) | Sudan, Grade 12 Basic Mathematics (humanities track), printed p. 104 |
+| SD for tables — Standard deviation for frequency distributions and grouped tables, incl. assumed-mean coding; calculator's SD key mentioned | Sudan, Grade 12 Basic Mathematics (humanities track), printed p. 106 |
+| Mean deviation — Mean deviation | Sudan, Grade 12 Specialized Mathematics, Book One (science track), printed p. 162 |
+| Variance and SD — Variance and standard deviation, incl. grouped tables with assumed mean (worked: var = 41.17 − 1.21 = 39.96, SD ≈ 6.3) | Sudan, Grade 12 Specialized Mathematics, Book One (science track), printed p. 171 |
+| Combined groups — Exercises: combined mean and SD of two merged classes; proving the SD shift formula | Sudan, Grade 12 Specialized Mathematics, Book One (science track), printed p. 173 |
+**Acceptance count: taught in 5 countries (Bangladesh, Laos, Pakistan, Malaysia, Sudan).** Bangladesh carries the lesson's spine in one chapter: why the centre is not enough, the range, mean deviation under its own name "mean interval", variance and standard deviation — with its Pearson year taught corrected as 1893, its English-only p.225 claim taught corrected, and quartile deviation never cited to it, because the book names it on p.211 and teaches it nowhere. Laos carries the sample-variance convention s² with denominator n − 1, worked on grouped rainfall data. Pakistan carries quartile deviation and its coefficient, the mean-deviation coefficients, and the coefficient of variation — and its own opposite convention, denominator n for sample variance too, kept labelled as Pakistan's way beside Laos's.
 
 Malaysia teaches variance and standard deviation whole in Form 4 for ungrouped data — both formulas, the calculator method, and what happens to each measure when the data changes — and again in Form 5 for grouped data. (Mean deviation itself is not in Malaysia's books; that part of the lesson stands on the other countries.)
+
+Sudan measures dispersion in both Grade 12 tracks: mean deviation, variance and standard deviation, for tables in Basic and for combined groups in Specialized Book One.
