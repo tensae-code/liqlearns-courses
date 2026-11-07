@@ -1,0 +1,30 @@
+# Sources — Number Bases
+
+countries: Sierra Leone, Laos, Bangladesh, Nepal, Pakistan
+
+Every part traces to its book and page.
+
+**Book 1:** *Pupils' Handbook for JSS Mathematics — JSS 3, Term 1* — Sierra Leone, Ministry of Basic and Senior Secondary Education, "Free Quality School Education", STRICTLY NOT FOR SALE (no year printed). Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+**Book 2:** *Pupils' Handbook for Senior Secondary Mathematics — SSS 1, Term 1* — Sierra Leone, Ministry of Basic and Senior Secondary Education, "Free Quality School Education", STRICTLY NOT FOR SALE (no year printed). Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+**Book 3:** *Mathematics, Grade 6 student book (secondary year 1)* — Laos, Ministry of Education, Institute of Educational Science Research, 2010; no ISBN printed. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 4:** *Mathematics, Class Seven* — Bangladesh, NCTB, first published December 2022, reprint 2023, National Curriculum 2022, experimental version, from academic year 2023 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
+**Book 5:** *Mathematics, Class Eight* — Bangladesh, NCTB, published December 2023, National Curriculum 2022, experimental edition, from academic year 2024 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
+**Book 6:** *Mathematics, Class 7* — Nepal, CDC, Sanothimi, First edition VS 2071; revised 2nd edition VS 2076. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 7:** *Mathematics, Class 8* — Nepal, CDC, Sanothimi, First edition VS 2072; revised 2nd edition VS 2076. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 8:** *A Textbook of Statistics for Class 12* (student book; Part II — Chapters 10–17, Chapters 1–9 being the Class 11 book) — Pakistan (Punjab), PCTB, Lahore, 1st edition, June 2016 (11th impression), English-medium; author Prof. Muhammad Rauf Chaudhary; no ISBN printed. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
+
+| Lesson part | Where it comes from |
+|---|---|
+| What a base means; base-10 digits 0–9 against base-2 digits 0–1 | Sierra Leone, JSS 3 Term 1 handbook, L18 Introduction to Base 2, printed p.50 |
+| Ordering and comparing numbers in base 2; converting base 10 ↔ base 2 up to 50 using powers of 2 | Sierra Leone, JSS 3 Term 1 handbook, L19–L20, printed pp.53–56 |
+| Any base to base 10 by place-value expansion; base 10 to any base by repeated division; mixed conversion practice | Sierra Leone, SSS 1 Term 1 handbook, L14–L16, printed pp.39–45 |
+| Addition, subtraction, multiplication and division in non-decimal bases, including binary | Sierra Leone, SSS 1 Term 1 handbook, L17–L19, printed pp.48–54 |
+| Simple equations involving number bases (unknown digit / unknown base) | Sierra Leone, SSS 1 Term 1 handbook, L20, printed p.57 |
+| Base-ten expanded form with powers; binary conversion both ways (111011₂ = 59; 1001111₂ = 79; 10111111₂ = 191); general base a ≥ 2 with base-5 examples (213₅ = 58; 11034₅ = 769; 24103₅ = 1,778); converting between bases via base 10; base-2 and base-3 tables; arithmetic in bases 2, 3, 4, 5, 7 | Laos, Grade 6 student book (2010), L8 Numbers in various bases, printed pp.56–64 |
+| The binary number system as a story unit | Bangladesh, Class 7 student book, Exp. 7 The Story of Binary Numbers, printed pp.141–160 |
+| Binary place value; the radix point ((23.25)₁₀ = (10111.01)₂); decimal ↔ binary conversion; binary addition, subtraction, multiplication, division; 1's and 2's complements (with 9's/10's complements) | Bangladesh, Class 8 student book, Exp. 9 The Binary Number System, printed pp.189–206 |
+| Binary and base 5: 1001₂ = 9; 1111₂ = 15; 432₁₀ = 3212₅; base-5 table (100₅ = 25) | Nepal, Grade 7 student book, Unit 12, printed pp.105–120 |
+| Decimal system expanded; base 5 (33 = 113₅; 512 = 4022₅; 4321₅ = 586); binary (75₁₀ = 1001011₂; 1100101₂ = 101); place-value table 2⁸…2⁰ | Nepal, Grade 8 student book, Unit 11, printed pp.93–99 |
+| Decimal, binary, octal and hexadecimal place values for computers; the 0–16 conversion table; characters as 8-bit binary codes; binary as the foundation of computer working (the rest of Ch. 17 is computer history — not maths, not used) | Pakistan, Statistics Class 12, Ch. 17, printed pp.281–284 |
+
+**Acceptance count: taught in 5 countries (Sierra Leone, Laos, Bangladesh, Nepal, Pakistan).** Sierra Leone carries the fullest bases course: JSS 3 opens base 2 and compares in it, and SSS 1 runs the complete course — expansion, repeated division, all four operations in non-decimal bases, and equations with an unknown digit or base. Laos carries bases inside one Grade 6 lesson that starts from base-ten expanded form and reaches a general base a, with arithmetic in bases 2, 3, 4, 5 and 7. Bangladesh carries binary twice — as a story in Class 7 and as a full system with the radix point and complements in Class 8. Nepal carries binary and base 5 across Grades 7 and 8, with the 2⁸…2⁰ place-value table. Pakistan carries the computer side only: binary, octal and hexadecimal place values and the 0–16 conversion table in its Class 12 Statistics book.

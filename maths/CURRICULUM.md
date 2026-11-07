@@ -74,6 +74,9 @@ factors.*
 - comparing-and-ordering ✅ — bigger, smaller, the number line
 - rounding-and-estimating ✅ — rounding to the nearest ten, hundred, and sensible estimates
 - factors-multiples-and-primes ✅ — factors, multiples, prime numbers, HCF and LCM
+- number-bases ✅ — binary numbers and other bases, converting and calculating in them (Level 53, catch-up build 2026-11-06)
+- numerals-of-the-world ✅ — Roman numerals and the numeral systems of the world: Ge'ez, Devanagari, Lao, Khmer, Egyptian, Hindi (Level 54, catch-up build)
+- the-real-number-system ✅ — the real number system and the laws of operations, stated and checked (Level 55, catch-up build)
 
 ## Stage 2 — Addition and Subtraction
 *End of stage: the learner can add and subtract, in their head
@@ -98,6 +101,8 @@ percentages.*
 - decimals ✅ — tenths, hundredths, adding, subtracting, multiplying and dividing decimals
 - percentages ✅ — per hundred, finding a percentage, percentage increase and decrease
 - ratio-and-proportion ✅ — ratios, sharing in a ratio, direct proportion
+- unitary-method ✅ — the unitary method: many, to one, to many (Level 56, catch-up build 2026-11-06)
+- variation ✅ — direct, inverse, joint and partial variation (Level 57, catch-up build)
 
 ## Stage 5 — Negative Numbers, Powers and Roots
 *End of stage: the learner can work below zero, with powers,
@@ -117,6 +122,8 @@ a square.*
 - inequalities ✅ — less than, greater than, solving and showing on a line
 - simultaneous-equations ✅ — two equations, two unknowns
 - quadratic-equations ✅ — factorising, completing the square, the formula
+- polynomial-division ✅ — dividing polynomials, long and synthetic division, the remainder and factor theorems (Level 58, catch-up build 2026-11-06)
+- partial-fractions ✅ — splitting a fraction into partial fractions (Level 59, catch-up build)
 
 ## Stage 7 — Shapes and Angles
 *End of stage: the learner can name shapes, measure angles,
