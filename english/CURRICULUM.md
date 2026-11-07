@@ -228,6 +228,20 @@ from a past moment.*
 - future-continuous ✅ · future-perfect ✅ · plans-in-the-past ✅
   (catch-up build 2026-11-07 — 3 lessons, 51 question items)
 
+## Level 21 — Questions That Check
+*End of level: the learner can check a statement with a tag and
+ask about the doer or the receiver without breaking the
+question's shape.*
+- question-tags ✅ · subject-and-object-questions ✅ (catch-up
+  build 2026-11-07 — 2 lessons, 38 question items)
+
+## Level 22 — Telling What People Said
+*End of level: the learner can report what people said, asked
+and ordered, and write spoken words with speech marks.*
+- reported-statements ✅ · reported-questions ✅ ·
+  reported-commands ✅ · speech-marks ✅ (catch-up build
+  2026-11-07 — 4 lessons, 76 question items)
+
 ## After Level 18
 The ladder keeps climbing — longer essays and the Story → Novel
 titles. Later blocks get their own level numbers here, in this

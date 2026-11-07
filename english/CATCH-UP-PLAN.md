@@ -216,9 +216,11 @@ conversation and other. Merged and de-duplicated below into
     + indirect questions)
 45. `reported-commands` — tell/ask/advise + object +
     to-infinitive (Mauritania G12 L13; Nepal G8 U5/U19;
-    Rwanda P.5 U9; Vietnam G12 U10)
+    Rwanda P.6 U9 — corrected at build: the plan's P.5 anchor
+    was wrong, P.5 teaches no reported speech; Vietnam G12 U10)
 46. `speech-marks` — direct-speech punctuation (Malaysia Y6
-    U1 mapped; Rwanda P.5 U6 p.84; South Africa HL G5 WB1)
+    U1 mapped; Rwanda P.6 U6 p.84 — corrected at build, same
+    P.5/P.6 slip as above; South Africa HL G5 WB1)
 
 **Level 23 — Joining with Who and Which** (`sentence/`):
 47. `relative-clauses` — defining system: who/which/that/
