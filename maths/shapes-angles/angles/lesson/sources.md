@@ -1,6 +1,6 @@
 # Sources — Angles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia
 
 Every part traces to its book and page.
 
@@ -210,6 +210,8 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 
 **Book 109:** *Mathematics — Geometry, Student's Book, Grade 9* — Syria, Ministry of Education, held printing 2025–2026/1446H, first printed 2017–2018, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 110:** *Mathematics, Grade 4, Part Two of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1447H–2025, ISBN 978-603-514-148-2, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Angles lesson: lines, rays and angles | Jordan, Grade 3 Student Book Term 1, Unit 6, L2 Angles, p.98 |
@@ -325,8 +327,9 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | The point, the line (no beginning or end), the ray (a beginning, no end) and the segment (two ends) recalled, with parallel lines (never meeting, however far extended) and perpendicular lines (meeting at right angles); the degree, with the Babylonian division of the circle into 360 degrees; vertically opposite angles are equal; adjacent angles — a common vertex and a common side, on opposite sides of that side; two adjacent angles whose outer sides form a straight angle sum to 180°; calculating an unknown angle from vertically opposite angles and the straight angle | Syria, Grade 6 pupil's book, printed pp. 16–27 |
 | Two angles are complementary (متتامّتان) when their measures sum to 90° and supplementary (متكاملتان) when they sum to 180°; vertically opposite angles — sides extensions of each other's — are equal; when a transversal cuts two parallel lines, alternate interior angles are equal, alternate exterior angles are equal, and corresponding angles are equal — with the converses: equal angles of any of these kinds make the two lines parallel; consecutive angles of a parallelogram are supplementary; the angles of a triangle sum to 180°, discovered by folding a cut-out triangle so its three angles form a straight angle; in a right-angled triangle the two acute angles sum to 90° (45° each in a right-angled isosceles triangle); finding the third angle and naming the triangle's type by its angles; the interior-angle sum of a polygon found by triangulating from one vertex — a pentagon gives 3 × 180° = 540°, in general (n − 2) × 180° | Syria, Grade 7 student's book, printed pp. 59–63, 129–131, 150 |
 | Complementary angles (summing to 90°) and supplementary angles (summing to 180°) recalled in the Unit 3 diagnostic | Syria, Grade 9 Geometry student's book, Unit 3 diagnostic, printed p. 39 |
+| Angles measured in degrees and in turns; the right angle (90°) and acute and obtuse angles recognised and compared; drawing angles of a given size | Saudi Arabia, Grade 4, Part Two, Ch. 8, printed pp. 63–67 |
 
-**Acceptance count: taught in 26 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria).** Egypt carries the fullest single Iran measures angles with a protractor in Grade 4, bisects angles and sums polygon angles in Grade 5, and gives the (n − 2) × 180° interior-angle rule in Grade 8.
+**Acceptance count: taught in 27 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia).** Egypt carries the fullest single Iran measures angles with a protractor in Grade 4, bisects angles and sums polygon angles in Grade 5, and gives the (n − 2) × 180° interior-angle rule in Grade 8.
 treatment — the angle kinds, the protractor, complementary and
 supplementary pairs, the transversal's eight angles, and the
 triangle and quadrilateral sums in one Grade 7 unit. Jordan
@@ -352,3 +355,5 @@ China carries angles from Grade 4 triangle classification and angle sums, throug
 Pakistan (Punjab) carries angles from Grade 4's protractor work through Class 6's transversal and polygon angles to Class 9's bisector and side–angle theorems.
 
 Syria meets the angle in Grade 3 beside point, line, ray and segment, names and classifies angles in Grade 4, measures with the protractor in Grade 5, and proves the working facts in Grades 6–7 — vertically opposite angles, the straight-angle sum, complementary and supplementary pairs, the transversal equalities with their converses, and the triangle's 180° found by folding a cut-out triangle.
+
+Saudi Arabia introduces the angle in Grade 4 — degrees alongside turns, the right angle named at 90°, acute and obtuse compared by size, and angles drawn to a given measure.

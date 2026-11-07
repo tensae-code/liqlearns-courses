@@ -1,6 +1,6 @@
 # Sources — Perimeter and Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia
 
 Every part traces to its book and page.
 
@@ -279,6 +279,20 @@ READ + CITATION CHECK PASSED 2026-11-05).
 
 **Book 123:** *Mathematics, Part One, Grade 12 (Scientific track)* — Syria, Ministry of Education (the NCCD is not named on this book's title page), held printing 2025–2026/1447H, first printed 2016–2017, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 124:** *Mathematics, Grade 2, Part Two of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1447H–2025, ISBN 978-603-514-145-1, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 125:** *Mathematics, Grade 2, Third Term* — Saudi Arabia, Ministry of Education, older three-term edition, 1445H–2023, ISBN 978-603-511-285-7, Arabic. A parallel witness: its Chs. 9–13 re-present Part Two's Chs. 9–13 lessons, re-paginated — cited as the 1445 edition witness, not as additional content. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 126:** *Mathematics, Grade 3, Part Two of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1447H–2025, ISBN 978-603-514-151-2, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 127:** *Mathematics, Grade 3, Third Term* — Saudi Arabia, Ministry of Education, older three-term edition, 1445H–2023, ISBN 978-603-511-305-2, Arabic. A parallel witness: its Chs. 8–11 re-present Part Two's Chs. 8–11 lessons, re-paginated — cited as the 1445 edition witness, not as additional content. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 128:** *Mathematics, Grade 4, Part Two of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1447H–2025, ISBN 978-603-514-148-2, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 129:** *Mathematics, Grade 4, Third Term* — Saudi Arabia, Ministry of Education, older three-term edition, 1445H–2023, ISBN 978-603-511-309-0, Arabic. A parallel witness: its Chs. 9–12 re-present Part Two's Chs. 9–12 lessons, re-paginated — cited as the 1445 edition witness, not as additional content. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 130:** *Mathematics, Grade 4, Third Term Exercises Book (كتاب التمارين)* — Saudi Arabia, Ministry of Education, edition 1443H–2021; no ISBN printed in the surviving pages, Arabic. PARTIAL copy: only printed pp. 20–47 survive, so its rows are practice evidence for Chs. 9–12 only — never for Ch. 7/8 content. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Perimeter (p.92); area (p.94); area of a rectangle (p.96) | Jordan, Grade 3 Student Book Term 2, Unit 11, L5–L7, pp.92–96 |
@@ -407,8 +421,15 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | The height of an isosceles trapezium found by Pythagoras on the congruent end triangles, then its area as half the sum of the bases times the height; the lateral surface area of a cone is the area of its net's circular sector, the sector's area being proportional to its central angle (360° gives the whole disc of radius equal to the generator) — worked for radius 3 and generator 5 in the deepening exercises | Syria, Grade 8 Geometry student's book, printed pp. 82–83, 115 |
 | Lateral surface area of a right prism or a right cylinder equals the base perimeter × the height; total surface area adds twice the base area (worked cylinder, r = 7.5 cm and h = 40 cm: lateral area S_L = 2π × 7.5 × 40 = 600π cm²; total area S_T = 600π + 2π × 7.5² = 712.5π cm²) | Syria, Grade 9 Geometry student's book, printed p. 63 |
 | The integral as area (Theorem 9): for f continuous and ≥ 0 on [a, b], ∫ₐᵇ f is the area enclosed by the graph, the x-axis and the lines x = a, x = b — the proof shows the area function x ↦ A(x) is itself an antiderivative of f via a rectangle squeeze; signed versus true area: for f ≤ 0 the area is −∫ₐᵇ f (Result 10), and for a sign-changing f the interval is split at the zeros and the part-areas added — the true area is ∫ₐᵇ |f| (Result 11), while ∫ₐᵇ f alone is only the algebraic (signed) sum (worked in full for f(x) = 4x − 4x² on [0, 1], area 2/3); the area between two curves is ∫ₐᵇ |f − g| | Syria, Grade 12 Scientific, Part One, printed pp. 218–222 |
+| Comparing and ordering areas by covering; area as counting square units | Saudi Arabia, Grade 2, Part Two, Ch. 11, printed pp. 120–123 |
+| Parallel witness: the same area lessons in the older 1445 edition (witness only) | Saudi Arabia, Grade 2, Third Term (1445), Ch. 11, printed pp. 68–71 |
+| Perimeter as the sum of the sides (triangles, then polygons); area by counting unit squares (geoboard exploration) | Saudi Arabia, Grade 3, Part Two, Ch. 8, printed pp. 81–91 |
+| Parallel witness: the same perimeter and area lessons in the older 1445 edition (witness only) | Saudi Arabia, Grade 3, Third Term (1445), Ch. 8, printed pp. 21–31 |
+| Perimeter of the rectangle (2 × length + 2 × width) and of the square (4 × side), estimated before calculating; area by counting and by the formulas l × w and s × s; irregular area by counting whole and part squares; the unknown side found from the area | Saudi Arabia, Grade 4, Part Two, Ch. 9, printed pp. 98–106 |
+| Parallel witness: the same perimeter and area lessons in the older 1445 edition (witness only) | Saudi Arabia, Grade 4, Third Term (1445), Ch. 9, printed pp. 18–26 |
+| Practice evidence (PARTIAL copy): perimeters and areas on squared paper and from labelled sides; the missing side of a square room from its area (121 m²) | Saudi Arabia, Grade 4 Exercises Book (1443, partial), printed pp. 21–23, 39 |
 
-**Acceptance count: taught in 26 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria).** Sierra Leone carries the cleanest Iran counts squares for area in Grade 3, derives the parallelogram and triangle areas in Grade 4, adds the rhombus and trapezium in Grade 5, and reaches polygon areas in Grade 10 Geometry (1) and Heron's formula in Grade 11 Geometry (2).
+**Acceptance count: taught in 27 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia).** Sierra Leone carries the cleanest Iran counts squares for area in Grade 3, derives the parallelogram and triangle areas in Grade 4, adds the rhombus and trapezium in Grade 5, and reaches polygon areas in Grade 10 Geometry (1) and Heron's formula in Grade 11 Geometry (2).
 ladder — perimeter short cuts, rectangle and triangle areas with
 the perpendicular-height rule, and the parallelogram, trapezium
 and composite areas in JSS 2. Jordan carries perimeter and area
@@ -435,3 +456,5 @@ China carries perimeter and area from Grade 3 rectangle and square area, through
 Pakistan (Punjab) carries perimeter and area from Grade 3's first formulas through Class 6's derived parallelogram, trapezium and triangle areas to Class 9's equal-area theorems.
 
 Syria explores perimeter and area by counting in Grade 3, gives the rectangle and square rules in Grade 4, derives the triangle's area as half a rectangle in Grade 5, introduces π with its Egyptian and Babylonian values in Grade 6, derives the parallelogram's and triangle's areas by cutting and pasting in Grades 6–7, and closes the arc in Grade 12, where the integral itself is defined as area and signed area is separated from true area.
+
+Saudi Arabia separates the two measures cleanly: area by covering and counting squares from Grade 2, perimeter as the sum of the sides in Grade 3, then both formulas in Grade 4 with estimation first and the unknown side found from the area — witnessed by the older 1445 Term-3 volumes, with practice evidence from the partial exercises book.

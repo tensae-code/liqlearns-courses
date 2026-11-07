@@ -1,6 +1,6 @@
 # Sources — Volume and Surface Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia
 
 Every part traces to its book and page.
 
@@ -243,6 +243,16 @@ READ + CITATION CHECK PASSED 2026-11-05).
 
 **Book 100:** *Mathematics, Part One, Grade 12 (Scientific track)* — Syria, Ministry of Education (the NCCD is not named on this book's title page), held printing 2025–2026/1447H, first printed 2016–2017, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 101:** *Mathematics, Grade 3, Part Two of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1447H–2025, ISBN 978-603-514-151-2, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 102:** *Mathematics, Grade 3, Third Term* — Saudi Arabia, Ministry of Education, older three-term edition, 1445H–2023, ISBN 978-603-511-305-2, Arabic. A parallel witness: its Chs. 8–11 re-present Part Two's Chs. 8–11 lessons, re-paginated — cited as the 1445 edition witness, not as additional content. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 103:** *Mathematics, Grade 4, Part Two of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1447H–2025, ISBN 978-603-514-148-2, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 104:** *Mathematics, Grade 4, Third Term* — Saudi Arabia, Ministry of Education, older three-term edition, 1445H–2023, ISBN 978-603-511-309-0, Arabic. A parallel witness: its Chs. 9–12 re-present Part Two's Chs. 9–12 lessons, re-paginated — cited as the 1445 edition witness, not as additional content. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 105:** *Mathematics, Grade 4, Third Term Exercises Book (كتاب التمارين)* — Saudi Arabia, Ministry of Education, edition 1443H–2021; no ISBN printed in the surviving pages, Arabic. PARTIAL copy: only printed pp. 20–47 survive, so its rows are practice evidence for Chs. 9–12 only — never for Ch. 7/8 content. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The prism and the pyramid — naming (p.91) | Jordan, Grade 5 Student Book Term 2, Unit 9, L7, p.91 |
@@ -348,8 +358,13 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | The volume of a pyramid is V = ⅓ × (base area) × height, motivated by dissecting a cube of edge a into six congruent regular pyramids on its faces, each of volume a³/6; the formula used in both directions (height 15 with a square base of side 12 gives V = 720 cm³; from V = 156 and height 36 the base area is 13); the volume of a cone of revolution is V = ⅓ × (base area) × height = ⅓πr²h, given as accepted (نقبل); cone volume worked with Pythagoras first (a candle cone of base diameter 10 and generator 13 has height 12 by the 5-12-13 triangle, and volume 100π ≈ 314 cm³); finding a cone's height from its volume (V = 50 with r = 3 gives h ≈ 5.3 cm) | Syria, Grade 8 Geometry student's book, printed pp. 102–108 |
 | Volume of a prism or a cylinder equals base area × height; cuboid V = x × y × z; cube V = x³ (worked cylinder volume: V = π × 7.5² × 40 = 2250π cm³); volume of a pyramid V = (1/3) × base area × height, and of a right circular cone V = (1/3) × base area × height (worked: r = 1.5 cm, h = 4 cm gives 3π cm³); the sphere defined as the set of points M with OM = R and the solid ball as OM ≤ R, with diameter, great circle and antipodal points; Archimedes' results used to obtain the sphere formulas — the sphere's surface area equals the lateral area of its circumscribing cylinder, and the sphere's volume equals two-thirds of that cylinder's volume — giving S = 4πR² (worked: diameter 60 cm gives S = 3600π cm²) and V = (4/3)πR³; the Earth treated as a sphere — from Eratosthenes' arc measurement (7.2° of the meridian for the Syene–Alexandria distance) the Earth's radius comes out R ≈ 6,366 km, and a quarter of the equator measures 10,000 km, the historical origin of the metre; a section of a solid by a plane defined, with sections of cuboid, cylinder, cone, pyramid and sphere by planes parallel to a face, an edge, the axis or the base — a cone or pyramid section parallel to the base is a reduction of the base (ratios by Thales; a cone section with k = 0.6 has area 0.6² × 16π = 5.76π cm²), and the part between the section and the base is the frustum (جذع الهرم), whose volume V = (1/3) h (S + S′ + √(S × S′)) is checked on a worked example (83.25 cm³) | Syria, Grade 9 Geometry student's book, printed pp. 62–75, 77–82 |
 | Volume by cross-sections (activity): for a solid between the planes x = a and x = b, V = ∫ₐᵇ S(x) dx with S(x) the cross-section area (formula accepted) — the sphere's volume re-derived from S(x) = π(R² − x²), and a solid of revolution about the x-axis has disc sections S(x) = π f(x)²; the volume of a paraboloid of revolution bracketed by stacks of cylinders (an enrichment activity in the sequence-limits unit) | Syria, Grade 12 Scientific, Part One, printed pp. 122, 223 |
+| Volume as the number of unit cubes needed to fill a solid — estimate first, then count the cubes | Saudi Arabia, Grade 3, Part Two, Ch. 8, printed pp. 101–105 |
+| Parallel witness: the same volume lessons in the older 1445 edition (witness only) | Saudi Arabia, Grade 3, Third Term (1445), Ch. 8, printed pp. 41–45 |
+| Volume by counting unit cubes and cm³ blocks, including cubes hidden inside the solid; estimating layer by layer before counting | Saudi Arabia, Grade 4, Part Two, Ch. 9, printed pp. 120–122 |
+| Parallel witness: the same volume lessons in the older 1445 edition (witness only) | Saudi Arabia, Grade 4, Third Term (1445), Ch. 9, printed pp. 40–42 |
+| Practice evidence (PARTIAL copy): volumes of cube-built solids, including layered blocks | Saudi Arabia, Grade 4 Exercises Book (1443, partial), printed pp. 26–27 |
 
-**Acceptance count: taught in 27 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria).**.** Sierra Leone carries the cleanest Iran gives the cuboid's volume in Grade 5, prism volumes and the cylinder's lateral area in Grade 7, and the sphere, pyramid and cone in Grade 9; its Grade 10 Geometry (1) treats the solids themselves without computing their volumes.
+**Acceptance count: taught in 28 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia).**.** Sierra Leone carries the cleanest Iran gives the cuboid's volume in Grade 5, prism volumes and the cylinder's lateral area in Grade 7, and the sphere, pyramid and cone in Grade 9; its Grade 10 Geometry (1) treats the solids themselves without computing their volumes.
 ladder — cubes, prisms and cylinders by cross-section × height,
 then surface areas by the net, in JSS 2. Egypt carries volume by
 counting unit cubes through V = l × w × h in Grade 5 and the
@@ -379,3 +394,5 @@ China carries volume and surface area whole — cuboid and cube work in Grade 5,
 Pakistan (Punjab) carries volume and surface area in Classes 6–8's cube, cuboid, cylinder, prism, pyramid, sphere, hemisphere and cone formulas, and the Class 12 triple-product volumes of the parallelepiped and tetrahedron.
 
 Syria counts unit cubes for volume in Grade 5, unwraps prisms and cylinders for their surface areas in Grade 7, motivates the pyramid's third by dissecting a cube in Grade 8, and gathers prism, cylinder, pyramid, cone and sphere — with Archimedes' cylinder results and plane sections — in Grade 9 Geometry; Grade 12 re-derives the sphere's volume by cross-sections.
+
+Saudi Arabia introduces volume by filling solids with unit cubes in Grade 3 — estimate, then count — and in Grade 4 counts cm³ including the hidden cubes, witnessed by the older 1445 Term-3 volumes, with practice evidence from the partial exercises book.

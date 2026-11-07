@@ -1,6 +1,6 @@
 # Sources — Measuring
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia
 
 Every part traces to its book and page.
 
@@ -266,6 +266,24 @@ READ + CITATION CHECK PASSED 2026-11-05).
 
 **Book 132:** *Mathematics — Geometry, Student's Book, Grade 8* — Syria, Ministry of Education (the ministry's name as printed, Ministry of Education and Teaching), held printing 2025–2026, first printed 2016–2017, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 133:** *Mathematics, Grade 1, Part Two of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1447H–2025, ISBN 978-603-514-143-7, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 134:** *Mathematics, Grade 1, Third Term* — Saudi Arabia, Ministry of Education, older three-term edition, 1445H–2023, ISBN 978-603-511-295-6, Arabic. A parallel witness: its Chs. 9–13 re-present Part Two's Chs. 9–13 lessons, re-paginated — cited as the 1445 edition witness, not as additional content. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 135:** *Mathematics, Grade 2, Part Two of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1447H–2025, ISBN 978-603-514-145-1, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 136:** *Mathematics, Grade 2, Third Term* — Saudi Arabia, Ministry of Education, older three-term edition, 1445H–2023, ISBN 978-603-511-285-7, Arabic. A parallel witness: its Chs. 9–13 re-present Part Two's Chs. 9–13 lessons, re-paginated — cited as the 1445 edition witness, not as additional content. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 137:** *Mathematics, Grade 3, Part Two of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1447H–2025, ISBN 978-603-514-151-2, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 138:** *Mathematics, Grade 3, Third Term* — Saudi Arabia, Ministry of Education, older three-term edition, 1445H–2023, ISBN 978-603-511-305-2, Arabic. A parallel witness: its Chs. 8–11 re-present Part Two's Chs. 8–11 lessons, re-paginated — cited as the 1445 edition witness, not as additional content. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 139:** *Mathematics, Grade 4, Part Two of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1447H–2025, ISBN 978-603-514-148-2, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 140:** *Mathematics, Grade 4, Third Term* — Saudi Arabia, Ministry of Education, older three-term edition, 1445H–2023, ISBN 978-603-511-309-0, Arabic. A parallel witness: its Chs. 9–12 re-present Part Two's Chs. 9–12 lessons, re-paginated — cited as the 1445 edition witness, not as additional content. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 141:** *Mathematics, Grade 4, Third Term Exercises Book (كتاب التمارين)* — Saudi Arabia, Ministry of Education, edition 1443H–2021; no ISBN printed in the surviving pages, Arabic. PARTIAL copy: only printed pp. 20–47 survive, so its rows are practice evidence for Chs. 9–12 only — never for Ch. 7/8 content. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The centimetre (p.88); the metre (p.90); the gram and the kilogram (p.92); the litre and the millilitre (p.94) | Jordan, Grade 2 Student Book Term 2, Unit 10, L1–L4, pp.88–94 |
@@ -401,8 +419,17 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | The metric system: the basic units are the metre (length), square metre (area), cubic metre (volume), gram (mass) and second (time), with their multiples and submultiples built from powers of ten; converting between units of length, area, volume, mass and time using the powers-of-ten tables (5 km = 5,000 m); choosing the most suitable unit for a measurement (a pupil's mass in kilograms, a gold ring's in grams, a mountain's height, the distance between two cities); scale drawing (مقياس الرسم): the scale is the ratio drawing distance ÷ real distance — the coefficient of proportionality between them, with no unit; using a scale both ways (8 cm representing 80 km gives a scale of 1/1,000,000; a farm plan at 1/500 gives a real area of 47,500 m² from the plan's lengths) | Syria, Grade 7 student's book, printed pp. 108–114 |
 | Unit conversions performed with powers of ten (km ↔ m ↔ mm; tonne, decagram, milligram and kilogram; litres and related capacities) | Syria, Grade 8 Algebra student's book, printed p. 44 |
 | The distance from a point to a line (مسافة نقطة عن مستقيم) is the length of the perpendicular segment from the point to the line — the foot is the closest point of the line, the distance is zero when the point lies on the line, and of two oblique segments the longer has the farther foot | Syria, Grade 8 Geometry student's book, printed pp. 81–82 |
+| Comparing and ordering lengths directly; measuring with non-standard units ("about N units"); comparing and ordering masses on the balance; comparing capacities | Saudi Arabia, Grade 1, Part Two, Ch. 10, printed pp. 79–91 |
+| Parallel witness: the same measurement lessons in the older 1445 edition (witness only) | Saudi Arabia, Grade 1, Third Term (1445), Ch. 10, printed pp. 31–43 |
+| Length in non-standard units, then centimetres and the cm ruler (the object must touch the zero); capacity in non-standard units, then millilitres and litres; mass in non-standard units, then grams and kilograms; choosing the sensible unit | Saudi Arabia, Grade 2, Part Two, Chs. 11–12, printed pp. 110–149 |
+| Parallel witness: the same measurement lessons in the older 1445 edition (witness only) | Saudi Arabia, Grade 2, Third Term (1445), Chs. 11–12, printed pp. 58–97 |
+| Length in mm and cm with a ruler; the metric length units mm/cm/m/km and choosing the unit; capacity — litre and millilitre; mass — gram and kilogram (1 kg = 1000 g) | Saudi Arabia, Grade 3, Part Two, Ch. 8, printed pp. 73–100 |
+| Parallel witness: the same measurement lessons in the older 1445 edition (witness only) | Saudi Arabia, Grade 3, Third Term (1445), Ch. 8, printed pp. 13–40 |
+| Estimating then measuring in centimetres; the metric length units compared; capacity in litres and millilitres; mass in grams, kilograms and the tonne, with kg ↔ g conversion | Saudi Arabia, Grade 4, Part Two, Ch. 9, printed pp. 93–117 |
+| Parallel witness: the same measurement lessons in the older 1445 edition (witness only) | Saudi Arabia, Grade 4, Third Term (1445), Ch. 9, printed pp. 13–36 |
+| Practice evidence (PARTIAL copy — Ch. 9 pages only): length, capacity and mass estimates and unit choices; converting kg ↔ g | Saudi Arabia, Grade 4 Exercises Book (1443, partial), printed pp. 20, 23–24 |
 
-**Acceptance count: taught in 27 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria).**.** Sierra Leone carries the cleanest Iran compares longer and shorter and heavier and lighter in Grade 1 — the heavier-marking activity is at printed p. 168 — reads the clock there too, and measures length in centimetres and millimetres in Grade 2.
+**Acceptance count: taught in 28 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia).**.** Sierra Leone carries the cleanest Iran compares longer and shorter and heavier and lighter in Grade 1 — the heavier-marking activity is at printed p. 168 — reads the clock there too, and measures length in centimetres and millimetres in Grade 2.
 single ladder — length, mass and volume distinguished, then the
 three conversion tables in JSS 1. Jordan carries the four
 standard units in one Grade 2 unit (centimetre, metre, gram and
@@ -429,3 +456,5 @@ China carries measuring in the primary books — mass in Grade 2, the calendar a
 Pakistan (Punjab) carries measuring from the Primer's informal comparisons through the primary units-and-conversions climb to Class 9's ruler-and-compass constructions.
 
 Syria measures first with non-standard units in Grade 1, moves to centimetres, kilograms and the balance in Grade 2, builds the metric ladders for length, mass and capacity through Grades 3–5, converts between neighbouring area units (×/÷ 100) and volume units (×/÷ 1000) in Grade 6, and states the whole metric system with scale drawing in Grade 7. One pair of printed rules is taught corrected: the Grade 6 book's rules for converting between neighbouring area units are reversed on pp. 151–152 — its own staircase diagram and worked example use the correct directions.
+
+Saudi Arabia measures the full primary way: non-standard units and direct comparison in Grade 1, centimetres, millilitres and grams in Grade 2, millimetres and the km in Grade 3, and the tonne with unit conversion in Grade 4 — always estimating before measuring — with the older 1445 Term-3 volumes witnessing each Part Two chapter and the partial exercises book adding practice evidence.

@@ -1,6 +1,6 @@
 # Sources — Shapes
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia
 
 Every part traces to its book and page.
 
@@ -252,6 +252,20 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 
 **Book 143:** *Mathematics — Geometry, Student's Book, Grade 9* — Syria, Ministry of Education, held printing 2025–2026/1446H, first printed 2017–2018, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 144:** *Mathematics, Grade 1, Part Two of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1447H–2025, ISBN 978-603-514-143-7, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 145:** *Mathematics, Grade 1, Third Term* — Saudi Arabia, Ministry of Education, older three-term edition, 1445H–2023, ISBN 978-603-511-295-6, Arabic. A parallel witness: its Chs. 9–13 re-present Part Two's Chs. 9–13 lessons, re-paginated — cited as the 1445 edition witness, not as additional content. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 146:** *Mathematics, Grade 2, Part Two of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1447H–2025, ISBN 978-603-514-145-1, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 147:** *Mathematics, Grade 2, Third Term* — Saudi Arabia, Ministry of Education, older three-term edition, 1445H–2023, ISBN 978-603-511-285-7, Arabic. A parallel witness: its Chs. 9–13 re-present Part Two's Chs. 9–13 lessons, re-paginated — cited as the 1445 edition witness, not as additional content. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 148:** *Mathematics, Grade 3, Part Two of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1447H–2025, ISBN 978-603-514-151-2, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 149:** *Mathematics, Grade 3, Third Term* — Saudi Arabia, Ministry of Education, older three-term edition, 1445H–2023, ISBN 978-603-511-305-2, Arabic. A parallel witness: its Chs. 8–11 re-present Part Two's Chs. 8–11 lessons, re-paginated — cited as the 1445 edition witness, not as additional content. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 150:** *Mathematics, Grade 4, Part Two of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1447H–2025, ISBN 978-603-514-148-2, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Polygons named and sorted by vertices; naming by number of sides | Egypt, Grade 3 Term 1 old edition, Chapter 4, printed pp.44–61 (Polygons p.44; Properties of Polygons) |
@@ -406,8 +420,15 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | The parallelogram family with proofs: a parallelogram's diagonals bisect each other, its opposite sides are equal and its opposite angles are equal, and the properties are combined in proofs (showing a point is a midpoint); the rectangle recognised from a parallelogram — one right angle, or diagonals equal in length; the rhombus — four equal sides, a parallelogram with two adjacent sides equal, or perpendicular diagonals; the square by four recognition cases (a rectangle with two adjacent sides equal, a rectangle with perpendicular diagonals, a rhombus with one right angle, a rhombus with equal diagonals); triangles classified by their sides — isosceles with its legs, base and apex named — and in an isosceles triangle the base angles are equal | Syria, Grade 7 student's book, printed pp. 51–55, 69–71, 125–128 |
 | Joining the midpoints of any quadrilateral's sides in order always gives a parallelogram (Varignon's figure, met on an exercise page); the pyramid defined — a polygon base, an apex S outside the base's plane, triangular lateral faces and the lateral surface; the height is the perpendicular segment from the apex to the base plane (its foot may fall inside or outside the base) and is a different segment from the slant height of a lateral face; a regular pyramid — regular-polygon base, apex above the centre, congruent isosceles lateral faces; the regular tetrahedron — all four faces equilateral triangles; the cone of revolution (المخروط الدوراني) from rotating a right triangle about one of its legs — apex, height, generator and disc base; nets of a pyramid and of a cone — the cone's lateral surface unrolls to a circular sector whose arc length equals the base circle's circumference | Syria, Grade 8 Geometry student's book, printed pp. 48, 95–105 |
 | A regular polygon defined — all side lengths equal and all angle measures equal (an isosceles triangle, a rectangle, a rhombus and a kite are each shown not regular); every regular polygon can be inscribed in a circle, whose centre is the polygon's centre; the central angle ÂOB = 360°/n for a regular n-gon (equilateral triangle 120° with interior angle 60°; square 90°; regular hexagon 60° with interior angle 120°; a regular octagon's interior angle is 135°); side lengths of inscribed regular polygons found with trigonometry; the vocabulary of a pyramid and the right circular cone described again | Syria, Grade 9 Geometry student's book, printed pp. 51–53, 62–64 |
+| Solids — cube, sphere, cone, cylinder — and classifying objects by how they move: rolls, stacks, slides; the plane shapes made by solids; triangle, rectangle, square and circle with sides and vertices counted | Saudi Arabia, Grade 1, Part Two, Ch. 12, printed pp. 116–127 |
+| Parallel witness: the same shape lessons in the older 1445 edition (witness only) | Saudi Arabia, Grade 1, Third Term (1445), Ch. 12, printed pp. 68–79 |
+| Solids with faces, edges and vertices counted; plane shapes — triangle, quadrilateral, pentagon, hexagon, parallelogram, trapezium; sides and vertices equal in number; comparing shapes; composing and splitting shapes | Saudi Arabia, Grade 2, Part Two, Ch. 10, printed pp. 88–103 |
+| Parallel witness: the same shape lessons in the older 1445 edition (witness only) | Saudi Arabia, Grade 2, Third Term (1445), Ch. 10, printed pp. 36–51 |
+| Solids classified by faces, edges and vertices (prism vs pyramid; the cone/sphere/cylinder family); polygons named by sides and angles (a nonagon named) and non-polygons; geometric patterns from shapes | Saudi Arabia, Grade 3, Part Two, Ch. 9, printed pp. 117–130 |
+| Parallel witness: the same shape lessons in the older 1445 edition (witness only) | Saudi Arabia, Grade 3, Third Term (1445), Ch. 9, printed pp. 57–70 |
+| 3D shapes — faces, edges and vertices; prisms and pyramids compared (a cube is a prism); polygons by sides; the point, the line, intersecting, perpendicular and parallel lines, drawn with ruler and set square; triangles classified by their angles and by their sides | Saudi Arabia, Grade 4, Part Two, Ch. 8, printed pp. 47–73 |
 
-**Acceptance count: taught in 27 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
+**Acceptance count: taught in 28 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
 — polygons, triangles two ways, then the parallelogram family
 with its special cases. Egypt carries polygons by vertices in
 Grade 3 and the triangle/trapezium/kite sorting in Grade 5.
@@ -431,3 +452,5 @@ China carries shapes from Grade 1 plane shapes and the tangram, through Grade 9 
 Pakistan (Punjab) carries shapes at every level — the Primer's and Grade 1's first shapes, the primary solids and their face/edge/vertex counts, Classes 6–7's classifications, Class 9's proved parallelogram theorems and the Class 12 conics.
 
 Syria names solids and their faces in Grades 1–2, counts faces, vertices and edges in Grade 3, and then studies quadrilaterals as one family — the parallelogram in Grade 5, its properties used and proved in Grades 6–7, rectangle, rhombus and square recognised by their diagonals — while triangles are classified by sides and by angles. Grade 8 adds the pyramid, the regular tetrahedron and the cone of revolution with their nets, and Grade 9 the regular polygon with its central angle 360°/n.
+
+Saudi Arabia names shapes from Grade 1 — solids sorted by roll/stack/slide, plane shapes by sides and vertices — counts faces, edges and vertices in Grade 2, classifies solids and names polygons to the nonagon in Grade 3, and in Grade 4 adds points, lines, perpendiculars and parallels and classifies triangles two ways, with the older 1445 Term-3 volumes witnessing the Part Two chapters.

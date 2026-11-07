@@ -1,6 +1,6 @@
 # Sources — Projections and Views
 
-countries: Vietnam, Laos, North Macedonia, China, Jordan, South Africa
+countries: Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia
 
 Every part traces to its book and page.
 
@@ -14,6 +14,8 @@ Every part traces to its book and page.
 **Book 8:** *Mathematics, Grade 9 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 **Book 9:** *Mathematics, Grade 8 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 10:** *Mathematics, Grade 4, Part Two of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1447H–2025, ISBN 978-603-514-148-2, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Orthogonal and axonometric projections | Vietnam, G11 study book, Chuyên đề 3, Bài 11, printed p.52 |
@@ -26,5 +28,9 @@ Every part traces to its book and page.
 | Nets (teacher evidence) | Jordan, Grade 4 Teacher's Guide Term 1, Unit 5 L4, guide printed p.108 (teacher evidence) |
 | Views of a cube building drawn on isometric paper | South Africa, Grade 8 Workbook 2, WS134 |
 | Perspective drawing — looking at photographs, railway lines (enrichment) | South Africa, Grade 6 Workbook 2, WS142a/b; Grade 9 Workbook 2, WS120a/b/c (enrichment as filed) |
+| Nets: which flat pattern folds into a given solid — matching a net to its box, cone or pyramid | Saudi Arabia, Grade 4, Part Two, Ch. 8, printed pp. 47–51 |
+| Front, side and top views of a solid built from cubes; choosing which drawing is the view from a named side | Saudi Arabia, Grade 4, Part Two, Ch. 8, printed pp. 47–51 |
 
-**Acceptance count: taught in 6 countries (Vietnam, Laos, North Macedonia, China, Jordan, South Africa).** Vietnam carries the engineering heart of the lesson: orthogonal and axonometric projections and technical drawing as named topics in its Grade 11 study book. Laos carries the intuitive opening — projections and shadows, with a birdhouse photographed from different viewpoints. North Macedonia carries parallel and orthogonal projection and representing a solid by drawing at Grade 8. China carries the history as a reading: descriptive geometry and Monge, from da Vinci and Desargues to orthographic projection on two perpendicular planes (reading as filed). Jordan carries isometric drawing, projections/views and cross-sections at Grade 8, with nets at Grade 4 as teacher evidence. South Africa carries views drawn on isometric paper and perspective drawing, the perspective filed as enrichment in its workbooks.
+**Acceptance count: taught in 7 countries (Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia).** Vietnam carries the engineering heart of the lesson: orthogonal and axonometric projections and technical drawing as named topics in its Grade 11 study book. Laos carries the intuitive opening — projections and shadows, with a birdhouse photographed from different viewpoints. North Macedonia carries parallel and orthogonal projection and representing a solid by drawing at Grade 8. China carries the history as a reading: descriptive geometry and Monge, from da Vinci and Desargues to orthographic projection on two perpendicular planes (reading as filed). Jordan carries isometric drawing, projections/views and cross-sections at Grade 8, with nets at Grade 4 as teacher evidence. South Africa carries views drawn on isometric paper and perspective drawing, the perspective filed as enrichment in its workbooks.
+
+Saudi Arabia joins this lesson from its Grade 4 geometry chapter: nets matched to the solids they fold into, and front, side and top views of cube-built solids.
