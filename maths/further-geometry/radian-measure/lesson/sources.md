@@ -1,6 +1,6 @@
 # Sources — Radian measure
 
-countries: Bangladesh, Laos, Nicaragua, Nepal, Jordan, Pakistan, Ethiopia, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan
+countries: Bangladesh, Laos, Nicaragua, Nepal, Jordan, Pakistan, Ethiopia, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Albania
 
 Every part traces to its book and page.
 
@@ -26,6 +26,8 @@ Every part traces to its book and page.
 
 **Book 17:** *Geometriya (Геометрия), Grade 9 student book* — Uzbekistan, Ministry of Public Education; B. Haydarov, E. Sarikov, A. Kuchkarov, ed. A. Azamov; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2006, ISBN 05-89890-136-1 (as printed). Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 18:** *Libër Mësuesi Matematika 12* (teacher's book) — Albania, Grup autorësh (a group of authors), the teaching text translated and adapted by Llukan Puka and Adrian Naço, Mediaprint, Tiranë, Botimi i parë (first edition) 2018, ISBN 978-9928-08-353-1 (its CIP titles the book “Matematika 12 : me zgjedhje”). One teacher's book serving two pupil courses: the base Matematika 12 and the elective Matematika me zgjedhje 12. Teacher evidence only — no pupil's book is in hand for either course. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Measuring a trigonometric angle by ray rotation; 1° = 1/360 of a full rotation; 1′ = 1°/60, 1″ = 1′/60; angles past 360°; positive (counterclockwise) and negative angles | Bangladesh, Class Nine, Ch. 7 Trigonometry for Angular Distance §1, printed pp. 158–160 |
@@ -44,6 +46,10 @@ Every part traces to its book and page.
 | Perimeter of a segment of a circle: arc + chord, the chord found by the cosine rule or by the perpendicular-from-centre split | Malaysia, Additional Mathematics Form 5, Ch. 1 §1.2, printed pp. 8–10 |
 | Area of a sector: A = ½r²θ; area of a segment = sector − triangle (½r² sin θ) | Malaysia, Additional Mathematics Form 5, Ch. 1 §1.3, printed pp. 12–18 |
 | Applications of circular measure to real contexts | Malaysia, Additional Mathematics Form 5, Ch. 1 §1.4, printed pp. 20–22 |
+| Elective course: matja me radianë (Radian measure) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 36, 64 |
+| Elective course: gjatësia e harkut (Arc length) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 36, 64 |
+| Elective course: syprinat e sektorit dhe segmentit (Sector and segment areas) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 36, 64 |
+| Elective course: përafrimet për kënde të vogla (Small-angle approximations) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 36, 64 |
 
 | Standard position — An angle in standard position and the quadrant its terminal side falls in (6-2) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 186 |
 | Radian measure — The radian defined from the unit-radius arc; 2π radians = 360°; converting between degrees and radians with a standard table (6-4) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 194 |
@@ -59,7 +65,7 @@ Every part traces to its book and page.
 | Angle and units of angle measure (degree, grad, radian); conversions | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 149–156 |
 | §19 radian measure of an angle: wrapping the number line onto the unit circle; 1 radian defined; 1° = π/180 rad, α° = (π/180)α rad; 1 rad = (180/π)° ≈ 57,3° | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 105–107 |
 | Lesson 46 radian measure: α = l/R; 1 rad = 180°/π ≈ 57°17′45″; converting degrees ↔ radians; l = αR | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 104–105 |
-**Acceptance count: taught in 15 countries (Bangladesh, Laos, Nicaragua, Nepal, Jordan, Pakistan, Ethiopia, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan).** Bangladesh carries the fullest single treatment — DMS, standard position, coterminal angles, and radian measure with s = rθ worked on Earth distances. Laos carries directed angles and radians inside its fundamental-formulas chapter. Nicaragua carries DMS and radians in its student book and is the lesson's gradian source in its module, which names all three systems side by side. Nepal carries all three systems with conversions between sexagesimal and centesimal in its Optional book. Jordan opens its Grade 11 trigonometric-functions unit with radian measure. Pakistan carries the sexagesimal system, the radian, arc length and sector area in one unit. Ethiopia carries radian measure and coterminal angles inside its Grade 10 trigonometry chapter. North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
+**Acceptance count: taught in 16 countries (Bangladesh, Laos, Nicaragua, Nepal, Jordan, Pakistan, Ethiopia, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Albania).** Bangladesh carries the fullest single treatment — DMS, standard position, coterminal angles, and radian measure with s = rθ worked on Earth distances. Laos carries directed angles and radians inside its fundamental-formulas chapter. Nicaragua carries DMS and radians in its student book and is the lesson's gradian source in its module, which names all three systems side by side. Nepal carries all three systems with conversions between sexagesimal and centesimal in its Optional book. Jordan opens its Grade 11 trigonometric-functions unit with radian measure. Pakistan carries the sexagesimal system, the radian, arc length and sector area in one unit. Ethiopia carries radian measure and coterminal angles inside its Grade 10 trigonometry chapter. North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
 
 Malaysia opens Additional Mathematics Form 5 with circular measure: the radian defined from the arc itself, then s = rθ, sector and segment areas, all in radians.
 
@@ -73,3 +79,5 @@ Mongolia enters through its ministry textbooks Математик XII (Grade 12)
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Naturaleza Matemática* (Grade 10). From its books: from Grade 10: the argument φ is measured in radians (stated inside the polar-form discussion).
 
 Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 10: angle and units of angle measure (degree, grad, radian); conversions.
+
+Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 12 (teacher's book): Elective course: matja me radianë (Radian measure); Elective course: gjatësia e harkut (Arc length); Elective course: syprinat e sektorit dhe segmentit (Sector and segment areas); Elective course: përafrimet për kënde të vogla (Small-angle approximations).

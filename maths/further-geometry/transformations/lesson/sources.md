@@ -1,6 +1,6 @@
 # Sources — Transformations
 
-countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela, Uzbekistan
+countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela, Uzbekistan, Albania
 
 Every part traces to its book and page.
 
@@ -173,6 +173,20 @@ textbook.
 
 **Book 92:** *Geometriya (Геометрия), Grade 9 student book* — Uzbekistan, Ministry of Public Education; B. Haydarov, E. Sarikov, A. Kuchkarov, ed. A. Azamov; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2006, ISBN 05-89890-136-1 (as printed). Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 93:** *Libër Mësuesi Matematika 5* (teacher's book) — Albania, Grup autorësh (a group of authors), translated and adapted by Emiralda Yzeiri and Erjona Saqe, Mediaprint, Tiranë, Botimi i parë (first edition) 2019, ISBN 978-9928-08-398-2. Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 94:** *Libër Mësuesi Matematikë 6* (teacher's book) — Albania, Tony Cotton, Caroline Clissold, Linda Glithro, Cherri Moseley, Janet Rees, translated and adapted by Irma Çaça and Fatbardha Gjoni, Mediaprint, Tiranë, Botimi i parë (first edition) 2015, ISBN 978-9928-08-201-5 (the Albanian adaptation of Oxford International Primary Maths 6 Teacher's Guide; its imprint original-title line misprints “Maths 1” for Maths 6). Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 95:** *Libër Mësuesi Matematika 8* (teacher's book) — Albania, Dituri Malaj (the pupil text translated and adapted by Llukan Puka and Adrian Naço), Mediaprint, Tiranë, Botimi i parë (first edition) 2017, ISBN 978-9928-08-299-2 (its CIP states “105 f.” against the held copy's 123 printed pages). Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 96:** *Libër Mësuesi Matematika 9* (teacher's book) — Albania, Dituri Malaj and Shpresa Bici, Mediaprint, Tiranë, Botimi i parë (first edition) 2018, ISBN 978-9928-08-355-5. Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 97:** *Libër Mësuesi Matematika 10 — Pjesa e parë* (teacher's book) — Albania, Mediaprint, Tiranë; no authors, year, edition or ISBN are printed anywhere in the held copy (it has no imprint or CIP page — nothing is imported from any other record). Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 98:** *Libër Mësuesi Matematika 11* (teacher's book) — Albania, Afërdita Hysa, Mediaprint, Tiranë, Botimi i parë (first edition) 2017; two different ISBNs are printed in the one copy — imprint 978-9928-08-309-8 and CIP 978-9928-08-299-2 — both carried as printed, unresolved. Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 99:** *Libër Mësuesi Matematika 12* (teacher's book) — Albania, Grup autorësh (a group of authors), the teaching text translated and adapted by Llukan Puka and Adrian Naço, Mediaprint, Tiranë, Botimi i parë (first edition) 2018, ISBN 978-9928-08-353-1 (its CIP titles the book “Matematika 12 : me zgjedhje”). One teacher's book serving two pupil courses: the base Matematika 12 and the elective Matematika me zgjedhje 12. Teacher evidence only — no pupil's book is in hand for either course. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Transformation, reflection, translation and rotation defined; centre of rotation; clockwise and anticlockwise; the image congruent to the original; reflection in the x-axis (x, y) → (x, −y) and y-axis (x, y) → (−x, y); translation by (a, b); rotation about the origin R(O, 90°) (x, y) → (−y, x), R(O, −90°) (x, y) → (y, −x), R(O, ±180°) (x, y) → (−x, −y); the starfish 72° rotational symmetry; the "ambulance" mirror writing; the 20-seat Ferris wheel | Egypt, Grade 7 Term 2, Unit 3 Geometry and Measurement, 3-3 Geometric Transformations, printed pp.61–68 |
@@ -207,6 +221,25 @@ textbook.
 | Translation review inside vectors | South Sudan, Secondary Mathematics — Student's Book 2, printed pp. 39–42 |
 | Translation, reflection and symmetry (no rotation at this grade); reflection and rotation in the coordinate plane; translation in the coordinate plane | Iraq, Grade 7 student book, Ch5 L5-4 translation, reflection and symmetry p.118 (no rotation at Grade 7); Grade 8 student book, Ch6 L6-4 reflection and rotation in the coordinate plane p.137, L6-5 translation in the coordinate plane p.141 |
 | Dilation in the coordinate plane | Iraq, Grade 9 student book, Ch5 L5-3 proportion and measurement in triangles — dilation in the coordinate plane p.120 |
+| Coordinates and transformations; parallel translation and reflection on the grid | Albania, Libër Mësuesi Matematika 5 (teacher's book — teacher evidence), printed p. 33 |
+| : reflection and rotation on the coordinate grid (plans 71–72) | Albania, Libër Mësuesi Matematikë 6 (teacher's book — teacher evidence), printed pp. 8, 146–147 |
+| .1 Symmetry and translation (plan 105) | Albania, Libër Mësuesi Matematika 8 (teacher's book — teacher evidence), printed p. 92 |
+| .2 Rotation (plan 106) | Albania, Libër Mësuesi Matematika 8 (teacher's book — teacher evidence), printed p. 93 |
+| .3 Enlargement (plan 107) | Albania, Libër Mësuesi Matematika 8 (teacher's book — teacher evidence), printed p. 94 |
+| .4 More on enlargement: negative and fractional scale factors; congruent images for scale factor ±1 (plans 108, 115) | Albania, Libër Mësuesi Matematika 8 (teacher's book — teacher evidence), printed pp. 95–96 |
+| Transforming figures on coordinate axes: translation, reflection, rotation (180° rotation = symmetry about a point); combined transformations | Albania, Libër Mësuesi Matematika 9 (teacher's book — teacher evidence), printed p. 100 |
+| Enlargement of 2D shapes; scale factor and centre of enlargement; similar figures keep angles and length ratios | Albania, Libër Mësuesi Matematika 9 (teacher's book — teacher evidence), printed p. 101 |
+| Reflection and rotation of shapes | Albania, Libër Mësuesi Matematika 10 (Pjesa e parë) (teacher's book — teacher evidence), printed p. 44 |
+| Enlargement about a centre, incl. fractional and negative scale factors | Albania, Libër Mësuesi Matematika 10 (Pjesa e parë) (teacher's book — teacher evidence), printed p. 45 |
+| Translations by a vector; combined transformations | Albania, Libër Mësuesi Matematika 10 (Pjesa e parë) (teacher's book — teacher evidence), printed p. 45 |
+| Graph transformations of trig functions 1 (y = go° shifts; "vijat e sinusit dhe kosinusit janë identike në formë, por të zhvendosura në fazë") | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed pp. 60–62 |
+| Graph transformations of trig functions 2 | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed pp. 62–63 |
+| Translations of function graphs | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed pp. 142–143 |
+| Reflections and stretches of function graphs | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed pp. 143–144 |
+| Zhvendosje grafikësh (Translating graphs) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed p. 6 |
+| Zgjatje grafikësh (Stretching graphs) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed p. 6 |
+| Transformime funksionesh (Transformations of functions), incl. combinations | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed p. 6 |
+| Elective course: kombinimi i transformimeve (Combining graph transformations; a function composed with its inverse gives y = x) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 35, 62 |
 
 | Congruence and similarity through photos (scaling as enlargement in pictures) | Bangladesh, *Mathematics, Class Seven*, Exp 6 Congruence and Similarity, printed pp. 125–140 |
 | Line symmetry and rotational symmetry; the mirror test (reflection and rotation as symmetry only) | Bangladesh, *Mathematics, Class Eight*, Exp 8 Application of Symmetry in Measurement, printed pp. 181–188 |
@@ -325,7 +358,7 @@ textbook.
 | Lesson 16 homothety: centre and coefficient; theorem — homothety is a similarity transformation (proved); two tangent circles are homothetic | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 40–41 |
 | Lesson 17 constructing a polygon similar to a given one with coefficient 3 by homothety, with justification | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 42–43 |
 
-**Acceptance count: taught in 29 countries (Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela, Uzbekistan).**.** Egypt carries the Iran rotates shapes in Grade 6, translates, reflects and rotates them with tracing paper in Grade 7, and gives transformations whole — homothety included — in Grade 11 Geometry (2).
+**Acceptance count: taught in 30 countries (Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela, Uzbekistan, Albania).**.** Egypt carries the Iran rotates shapes in Grade 6, translates, reflects and rotates them with tracing paper in Grade 7, and gives transformations whole — homothety included — in Grade 11 Geometry (2).
 fullest single treatment — all four moves defined with
 coordinate rules plus composition in Grade 7 Term 2. Jordan
 carries translation and reflection in Grade 6, rotation in
@@ -354,3 +387,5 @@ India enters transformations from Math-Magic Class 5 and Mathematics Class 7: ha
 Mongolia enters through its ministry textbooks Математик IV, V, VI, VII, VIII, IX, X (Grades 4, 5, 6, 7, 8, 9, 10): translation, symmetry and rotation on grids; definition; rules.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Conciencia Matemática* (Grade 8) and *Naturaleza Matemática* (Grade 10). From its books: from Grade 8: definition — reflection symmetry: the axis is the perpendicular bisector (mediatriz) of each point–image segment; from Grade 10: vertical translation of sine by the parameter a (a > 0 up, a < 0 down).
+
+Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 5 (teacher's book): Coordinates and transformations; parallel translation and reflection on the grid. from Grade 6 (teacher's book): : reflection and rotation on the coordinate grid (plans 71–72). from Grade 8 (teacher's book): .1 Symmetry and translation (plan 105); .2 Rotation (plan 106); .3 Enlargement (plan 107); .4 More on enlargement: negative and fractional scale factors; congruent images for scale factor ±1 (plans…. from Grade 9 (teacher's book): Transforming figures on coordinate axes: translation, reflection, rotation (180° rotation = symmetry about a…; Enlargement of 2D shapes; scale factor and centre of enlargement; similar figures keep angles and length…. from Grade 10 (teacher's book): Reflection and rotation of shapes; Enlargement about a centre, incl. fractional and negative scale factors; Translations by a vector; combined transformations. from Grade 11 (teacher's book): Graph transformations of trig functions 1 (y = go° shifts; "vijat e sinusit dhe kosinusit janë identike në…; Graph transformations of trig functions 2; Translations of function graphs; Reflections and stretches of function graphs. from Grade 12 (teacher's book): Zhvendosje grafikësh (Translating graphs); Zgjatje grafikësh (Stretching graphs); Transformime funksionesh (Transformations of functions), incl. combinations; Elective course: kombinimi i transformimeve (Combining graph transformations; a function composed with its….

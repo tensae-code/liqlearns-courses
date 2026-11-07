@@ -1,6 +1,6 @@
 # Sources — Number Bases
 
-countries: Sierra Leone, Laos, Bangladesh, Nepal, Pakistan, Malaysia, Sudan, Venezuela, Uzbekistan
+countries: Sierra Leone, Laos, Bangladesh, Nepal, Pakistan, Malaysia, Sudan, Venezuela, Uzbekistan, Albania
 
 Every part traces to its book and page.
 
@@ -21,6 +21,8 @@ Every part traces to its book and page.
 
 **Book 12:** *Matematika (Математика), Grade 5 student book* — Uzbekistan, Ministry of Public Education; M. A. Mirzaahmedov, A. A. Rahimkariev; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2007, ISBN 978-9943-07-047-9. The held scan lacks printed pp. 123 and 147; nothing is cited from them. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 13:** *Libër Mësuesi Matematikë 6* (teacher's book) — Albania, Tony Cotton, Caroline Clissold, Linda Glithro, Cherri Moseley, Janet Rees, translated and adapted by Irma Çaça and Fatbardha Gjoni, Mediaprint, Tiranë, Botimi i parë (first edition) 2015, ISBN 978-9928-08-201-5 (the Albanian adaptation of Oxford International Primary Maths 6 Teacher's Guide; its imprint original-title line misprints “Maths 1” for Maths 6). Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a base means; base-10 digits 0–9 against base-2 digits 0–1 | Sierra Leone, JSS 3 Term 1 handbook, L18 Introduction to Base 2, printed p.50 |
@@ -39,6 +41,7 @@ Every part traces to its book and page.
 | Direct binary ↔ octal conversion by grouping digits in threes (334₅ = 94₁₀ = 1011110₂; 517₈ = 101001111₂) | Malaysia, Mathematics Form 4, Ch. 2 §2.1, printed pp. 43–44 |
 | Addition and subtraction in various bases, in vertical form inside the base and through base ten (4005₆ − 325₆ = 3240₆) | Malaysia, Mathematics Form 4, Ch. 2 §2.1, printed pp. 45–48 |
 | Problem solving with number bases, including comparing numbers written in different bases | Malaysia, Mathematics Form 4, Ch. 2 §2.1, printed pp. 49–51 |
+| : invented/alien counting systems and other bases (base 4, 6, 8 counting) | Albania, Libër Mësuesi Matematikë 6 (teacher's book — teacher evidence), printed pp. 55–56 |
 
 | Binary system — The binary system: base 2, digits 0 and 1, place values as powers of 2; binary table for decimal 0–10; reading a binary number digit by digit | Sudan, Grade 7 Mathematics (First Year Intermediate), printed p. 95 |
 | Binary to decimal — Binary → decimal by expanding into powers of 2 (111010₂ = 58; 10110₂ = 22) | Sudan, Grade 7 Mathematics (First Year Intermediate), printed p. 97 |
@@ -54,10 +57,12 @@ Every part traces to its book and page.
 | Decimal — The decimal system analysed against bases 2 and 5: ten digits, columns as powers of 10 from 10⁰, at most 9 per column, additive principle | Venezuela, Hecho en Venezuela (Grade 6), printed pp. 29–30 |
 | World systems — Maya numeral glyphs shown; Inca quipu as a positional decimal knotted-cord register (a worked three-addend sum) | Venezuela, Hecho en Venezuela (Grade 6), printed pp. 32–33 |
 | History: positional systems base 20 (Maya), base 60 (Babylon), binary in computers | Uzbekistan, Matematika, Grade 5 (Russian), printed p. 24 |
-**Acceptance count: taught in 9 countries (Sierra Leone, Laos, Bangladesh, Nepal, Pakistan, Malaysia, Sudan, Venezuela, Uzbekistan).** Sierra Leone carries the fullest bases course: JSS 3 opens base 2 and compares in it, and SSS 1 runs the complete course — expansion, repeated division, all four operations in non-decimal bases, and equations with an unknown digit or base. Laos carries bases inside one Grade 6 lesson that starts from base-ten expanded form and reaches a general base a, with arithmetic in bases 2, 3, 4, 5 and 7. Bangladesh carries binary twice — as a story in Class 7 and as a full system with the radix point and complements in Class 8. Nepal carries binary and base 5 across Grades 7 and 8, with the 2⁸…2⁰ place-value table. Pakistan carries the computer side only: binary, octal and hexadecimal place values and the 0–16 conversion table in its Class 12 Statistics book.
+**Acceptance count: taught in 10 countries (Sierra Leone, Laos, Bangladesh, Nepal, Pakistan, Malaysia, Sudan, Venezuela, Uzbekistan, Albania).** Sierra Leone carries the fullest bases course: JSS 3 opens base 2 and compares in it, and SSS 1 runs the complete course — expansion, repeated division, all four operations in non-decimal bases, and equations with an unknown digit or base. Laos carries bases inside one Grade 6 lesson that starts from base-ten expanded form and reaches a general base a, with arithmetic in bases 2, 3, 4, 5 and 7. Bangladesh carries binary twice — as a story in Class 7 and as a full system with the radix point and complements in Class 8. Nepal carries binary and base 5 across Grades 7 and 8, with the 2⁸…2⁰ place-value table. Pakistan carries the computer side only: binary, octal and hexadecimal place values and the 0–16 conversion table in its Class 12 Statistics book.
 
 Malaysia teaches number bases whole in Form 4 as a chapter of its own — representation by bundling, conversion both ways, the binary–octal shortcut by grouping digits in threes, and addition and subtraction carried out inside the base.
 
 Sudan teaches the binary system whole in Grade 7 — base 2 introduced through electric circuits and computers, conversion both ways with the answer checked by converting back, and binary addition and subtraction with the carry and borrow rules — inside a unit that opens with the history of numeral systems.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Hecho en Venezuela* (Grade 6). From its books: from Grade 6: world systems — The Warao counting system: body-based, 20 = one person (warao jisaka), 40 = two persons, 100 = five persons; 6–8 built as "hand and one/two/three of the other hand".
+
+Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 6 (teacher's book): : invented/alien counting systems and other bases (base 4, 6, 8 counting).

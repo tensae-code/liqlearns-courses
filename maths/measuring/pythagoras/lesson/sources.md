@@ -1,6 +1,6 @@
 # Sources — Pythagoras
 
-countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador
+countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania
 
 Every part traces to its book and page.
 
@@ -148,6 +148,12 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 
 **Book 63:** *Matemática, Grade 10 student book (10mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-33-0 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 64:** *Libër Mësuesi Matematika 9* (teacher's book) — Albania, Dituri Malaj and Shpresa Bici, Mediaprint, Tiranë, Botimi i parë (first edition) 2018, ISBN 978-9928-08-355-5. Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 65:** *Libër Mësuesi Matematika 10 — Pjesa e parë* (teacher's book) — Albania, Mediaprint, Tiranë; no authors, year, edition or ISBN are printed anywhere in the held copy (it has no imprint or CIP page — nothing is imported from any other record). Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 66:** *Libër Mësuesi Matematika 12* (teacher's book) — Albania, Grup autorësh (a group of authors), the teaching text translated and adapted by Llukan Puka and Adrian Naço, Mediaprint, Tiranë, Botimi i parë (first edition) 2018, ISBN 978-9928-08-353-1 (its CIP titles the book “Matematika 12 : me zgjedhje”). One teacher's book serving two pupil courses: the base Matematika 12 and the elective Matematika me zgjedhje 12. Teacher evidence only — no pupil's book is in hand for either course. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Pythagoras' theorem and its converse (3-2, printed 70–77): finding a side; the converse; classifying triangles by angles from side lengths (acute, right or obtuse by comparing squares); Get Ready: a 13-foot ladder against a wall; Unit Three Activity: a Pythagoras practical (printed 104) | Egypt, Grade 8 Term 1, Unit 3, 3-2, printed pp.70–77, 104 |
@@ -183,6 +189,11 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 | Bhaskara's proofs of Pythagoras' theorem (teacher evidence) | South Sudan, Secondary Mathematics — Teacher's Guide 2, printed pp. 19–20 (teacher evidence) |
 | Applications of Pythagoras' theorem — positive/negative square roots, converse of Pythagoras, representing irrationals on the number line | Iraq, Grade 8 student book, Ch2 L2-4 applications of Pythagoras' theorem p.41 |
 | Pythagoras used inside trigonometric ratios | Iraq, Grade 9 student book, Ch4 L4-6 trigonometric ratios p.106, Example 2: (8k)² + (15k)² — the book misprints 15² as 255; correct 225, and (AC)² = 289k², sin A = 15/17, cos A = 8/17 are correct (teach corrected) |
+| Pythagoras' theorem used to find a missing length (legs/hypotenuse); satellite-navigation modelling | Albania, Libër Mësuesi Matematika 9 (teacher's book — teacher evidence), printed p. 67 |
+| Finding an unknown side in a right triangle; problems with right triangles | Albania, Libër Mësuesi Matematika 9 (teacher's book — teacher evidence), printed p. 78 |
+| Pythagoras: finding the hypotenuse | Albania, Libër Mësuesi Matematika 10 (Pjesa e parë) (teacher's book — teacher evidence), printed p. 31 |
+| Pythagoras: finding a leg; projections of the legs (Euclid's theorem cited in the plan) | Albania, Libër Mësuesi Matematika 10 (Pjesa e parë) (teacher's book — teacher evidence), printed p. 31 |
+| Distanca midis dy pikave në planin koordinativ (Distance between two points in the coordinate plane); lengths and areas on the coordinate grid | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 7, 12 |
 
 | Pythagoras' theorem taught by name; similar triangles; ratios in triangles; measuring school land | Bangladesh, *Mathematics, Class Eight*, Exp 5 Triangles and Quadrilaterals, printed pp. 93–124 |
 | Pythagoras review at the start of the chapter; naming sides (opposite/adjacent/hypotenuse) — taught corrected: the Exercise Q3 triangle (∠B = 90°, AC = 12 cm, BC = 13 cm) does not exist, the hypotenuse cannot be shorter than a leg | Bangladesh, *Mathematics, Class Nine*, Ch 6 Trigonometry in Measurement, printed pp. 141–156 |
@@ -269,7 +280,7 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 | Guided area proof of Pythagoras' theorem (shared core) | Ecuador, Matemática, Grade 10 student book, printed p. 135 |
 | Pythagoras cut-out squares puzzle (shared core) | Ecuador, Matemática, Grade 10 student book, printed p. 139 |
 
-**Acceptance count: taught in 32 countries (Egypt, Greece, Armenia, Kazakhstan, Vietnam, Sierra Leone, Libya, Mauritania, South Africa, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador).**.** Egypt carries the fullest single treatment — Iran states Pythagoras' theorem in Grade 8 and verifies it on examples rather than proving it, and uses the converse.
+**Acceptance count: taught in 33 countries (Egypt, Greece, Armenia, Kazakhstan, Vietnam, Sierra Leone, Libya, Mauritania, South Africa, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania).**.** Egypt carries the fullest single treatment — Iran states Pythagoras' theorem in Grade 8 and verifies it on examples rather than proving it, and uses the converse.
 the theorem, its converse, classifying triangles by comparing
 squares, the 13-foot ladder and a Pythagoras practical in Grade
 8. Sierra Leone carries the cleanest ladder in JSS 3 — the
@@ -314,3 +325,5 @@ Mongolia enters through its ministry textbook Математик VIII (Grade 8):
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Conciencia Matemática* (Grade 8) and *La Matemática de la Belleza* (Grade 9). From its books: from Grade 8: construction activity — right triangle 6-8-10 cm; legs (catetos) and hypotenuse named; squares built on the three sides; from Grade 9: right triangles named — legs (catetos) and hypotenuse defined; the theorem discovered by building squares on the three sides and comparing areas.
 
 Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 8: Pythagoras' theorem and its converse; right-triangle theorems: the altitude on the hypotenuse (geometric-mean relations).
+
+Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 9 (teacher's book): Pythagoras' theorem used to find a missing length (legs/hypotenuse); satellite-navigation modelling; Finding an unknown side in a right triangle; problems with right triangles. from Grade 10 (teacher's book): Pythagoras: finding the hypotenuse; Pythagoras: finding a leg; projections of the legs (Euclid's theorem cited in the plan). from Grade 12 (teacher's book): Distanca midis dy pikave në planin koordinativ (Distance between two points in the coordinate plane); lengths…. Albania's own rows in this lesson rest on that same teacher-evidence basis; Ghana's curriculum-evidence-only position in this lesson is unchanged.

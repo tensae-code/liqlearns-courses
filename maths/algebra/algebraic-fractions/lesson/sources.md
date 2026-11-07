@@ -1,6 +1,6 @@
 # Sources — Algebraic Fractions
 
-countries: Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador
+countries: Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania
 
 Every part traces to its book and page.
 
@@ -18,6 +18,8 @@ On Malaysia in this lesson: Malaysia's Form 2 book is the first in the read set 
 
 **Book 8:** *Matemática, Grade 13 student book (3ro BGU, Tercero de Bachillerato)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-31-6 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 9:** *Libër Mësuesi Matematika 12* (teacher's book) — Albania, Grup autorësh (a group of authors), the teaching text translated and adapted by Llukan Puka and Adrian Naço, Mediaprint, Tiranë, Botimi i parë (first edition) 2018, ISBN 978-9928-08-353-1 (its CIP titles the book “Matematika 12 : me zgjedhje”). One teacher's book serving two pupil courses: the base Matematika 12 and the elective Matematika me zgjedhje 12. Teacher evidence only — no pupil's book is in hand for either course. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Algebraic fractions introduced: fractions with algebraic numerators and denominators, in the factorisation chapter | Malaysia, Mathematics Form 2, Ch. 2 §2.3, printed pp. 34–35 |
@@ -25,6 +27,8 @@ On Malaysia in this lesson: Malaysia's Form 2 book is the first in the read set 
 | The lowest common multiple of algebraic terms — LCM of the numbers, highest power of each letter | Malaysia, Mathematics Form 2, Ch. 2 §2.3, printed pp. 36–37 |
 | Addition and subtraction of algebraic fractions with the same denominator | Malaysia, Mathematics Form 2, Ch. 2 §2.3, printed pp. 37–38 |
 | Addition and subtraction with different denominators via the lowest common denominator, ending in a single fraction | Malaysia, Mathematics Form 2, Ch. 2 §2.3, printed pp. 38–40 |
+| Algebraic fractions: cancelling factors | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 7, 12 |
+| Elective course: thyesat algjebrike (Algebraic fractions, advanced) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 35, 60 |
 
 | Simplifying algebraic fractions — Simplifying algebraic fractions by cancelling common factors after factorising (4-8) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 153 |
 | Adding and subtracting — Adding/subtracting algebraic fractions using the LCM of the denominators (within 4-8) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 154 |
@@ -42,9 +46,11 @@ On Malaysia in this lesson: Malaysia's Form 2 book is the first in the read set 
 | §35 fractional-rational equations reducible to quadratics; extraneous roots and the need to check | Uzbekistan, Algebra, Grade 8 (Russian), printed pp. 169–171 |
 | Simplify given algebraic expressions set inside the 2x2-systems tema | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 8 |
 | Simplify given fractions set inside the matrices tema | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 13 |
-**Acceptance count: taught in 6 countries (Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador).** Malaysia's Form 2 book carries the full treatment — LCM of terms, then addition and subtraction into a single fraction; the other read countries meet letter-fractions inside other algebra work without a named treatment, so this lesson is built at that honest size. North Macedonia enters from its main set — the Grade 12 Algebra elective.
+**Acceptance count: taught in 7 countries (Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania).** Malaysia's Form 2 book carries the full treatment — LCM of terms, then addition and subtraction into a single fraction; the other read countries meet letter-fractions inside other algebra work without a named treatment, so this lesson is built at that honest size. North Macedonia enters from its main set — the Grade 12 Algebra elective.
 
 Sudan teaches algebraic fractions in Grade 10: simplifying, adding and subtracting, and multiplying and dividing with cancellation.
 
 
 Mongolia enters through its ministry textbooks Математик VIII, IX, X (Grades 8, 9, 10): algebraic fractions P/Q built up over three years — cancelling by a common factor, adding and subtracting over common denominators found by factorising, opposite denominators c/(a−b) = −c/(b−a), and multi-step simplification with an explicit order-of-operations protocol.
+
+Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 12 (teacher's book): Algebraic fractions: cancelling factors; Elective course: thyesat algjebrike (Algebraic fractions, advanced).

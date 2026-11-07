@@ -1,6 +1,6 @@
 # Sources — Constructions with ruler and compass
 
-countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador
+countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania
 
 Every part traces to its book and page.
 
@@ -59,6 +59,12 @@ Every part traces to its book and page.
 
 **Book 40:** *Matemática, Grade 6 student book (Talento matemático 6, Serie Talentos)* — Ecuador, EDINUN (Ediciones Nacionales Unidas) for the Ministerio de Educación, © 2016, first printing July 2016; no ISBN printed (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 41:** *Libër Mësuesi Matematika 8* (teacher's book) — Albania, Dituri Malaj (the pupil text translated and adapted by Llukan Puka and Adrian Naço), Mediaprint, Tiranë, Botimi i parë (first edition) 2017, ISBN 978-9928-08-299-2 (its CIP states “105 f.” against the held copy's 123 printed pages). Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 42:** *Libër Mësuesi Matematika 9* (teacher's book) — Albania, Dituri Malaj and Shpresa Bici, Mediaprint, Tiranë, Botimi i parë (first edition) 2018, ISBN 978-9928-08-355-5. Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 43:** *Libër Mësuesi Matematika 10 — Pjesa e parë* (teacher's book) — Albania, Mediaprint, Tiranë; no authors, year, edition or ISBN are printed anywhere in the held copy (it has no imprint or CIP page — nothing is imported from any other record). Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Do it first: bisect a segment with string or paper | Sierra Leone, SSS 2 Term 2, L79 (p.90) — substitute compass from string or a strip of paper |
@@ -82,6 +88,12 @@ Every part traces to its book and page.
 | Bisecting an angle by paper folding and with compasses and ruler; constructing 90°, then 45° and 22.5° by bisection; constructing 60°, then 30° and 15° by bisection; 120° and 150° as supplements on a straight line | Rwanda, Mathematics for Rwandan Primary Schools, Pupil's Book 5, Unit 11 (§§11.8–11.12), printed pp. 175–190 |
 | Drawing triangles, a square and a rectangle, and regular pentagons and hexagons, with ruler and protractor (using the interior angles 108° and 120°) | Rwanda, Primary 6 Mathematics, Learner's Book, Unit 13, printed pp. 229–240 |
 | Constructing triangles (SSS and SAS), a rectangle and a square with ruler and compasses only; constructing regular pentagons, hexagons, septagons (heptagons), octagons, nonagons and decagons in a circle from the centre angle | Rwanda, Primary 6 Mathematics, Learner's Book, Unit 13, printed pp. 240–257 |
+| .1 Accurate constructions (term/year plans only; no separate plan page) | Albania, Libër Mësuesi Matematika 8 (teacher's book — teacher evidence), printed pp. 5, 77–78 |
+| .2 Constructing figures 1 (plan 116) | Albania, Libër Mësuesi Matematika 8 (teacher's book — teacher evidence), printed p. 97 |
+| .3 Constructing figures 2 (plan 117) | Albania, Libër Mësuesi Matematika 8 (teacher's book — teacher evidence), printed p. 98 |
+| Constructing perpendicular bisector of a segment and bisector of an angle with ruler and compasses; 5-12-13 triangle construction at scale | Albania, Libër Mësuesi Matematika 9 (teacher's book — teacher evidence), printed p. 65 |
+| Geometric constructions 1 (perpendicular bisector etc.) | Albania, Libër Mësuesi Matematika 10 (Pjesa e parë) (teacher's book — teacher evidence), printed p. 45 |
+| Geometric constructions 2 (angle bisector; triangles from given data; 60°/30° by bisection) | Albania, Libër Mësuesi Matematika 10 (Pjesa e parë) (teacher's book — teacher evidence), printed p. 46 |
 
 | Drawing a circle — draw a circle with ruler and compasses (al-firjār / al-barjal) | Sudan, Grade 4 Mathematics, printed p. 111 |
 | Dividing a segment — construction: divide a given segment into n equal parts using an auxiliary ray and parallels | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 75 |
@@ -157,7 +169,7 @@ Every part traces to its book and page.
 | Lesson 55 constructing the geometric-mean segment √(ab) with a semicircle on a + b; constructing √2, √3, √5, √6 from a unit segment | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 124–125 |
 | Lesson 58 two compass-and-straightedge constructions of the golden-section point, each with justification | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 130–131 |
 | Construct equilateral, isosceles and scalene triangles with ruler and compass | Ecuador, Matemática (Talento matemático 6), Grade 6 student book, printed pp. 54-55 |
-**Acceptance count: taught in 18 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador).** North Macedonia enters from its main set — Grade 6 (2023) and Grade 7 (2025).
+**Acceptance count: taught in 19 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania).** North Macedonia enters from its main set — Grade 6 (2023) and Grade 7 (2025).
 
 Sierra Leone teaches the fullest school construction course here: SSS 2 Term 2 lessons 79–83 work through bisection and the constructible angles in order, and its JSS 1 handbook gives the first constructions. Laos builds the same skills in Grade 6 — parallels and perpendiculars through a point, the perpendicular bisector, copying an angle and a segment — after using a compass from Grade 4. Iran is the country that insists on reasons: its Geometry (1) presents constructions with justifications, so each arc is there for a stated cause. Armenia teaches construction as a method, with the stages of a construction problem named as part of the work. Pakistan's Grade 6 practical-geometry unit and Bangladesh's Class 7 experiments give the same constructions as set exercises, and Kuwait's Grade 7 Term 2 Unit 6 carries a long construction unit of its own.
 
@@ -177,3 +189,5 @@ Mongolia enters through its ministry textbooks Математик VI, VII, VIII 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *La Patria Buena* (Grade 5), *Hecho en Venezuela* (Grade 6), *Matemática Para La Vida* (Grade 7), *Conciencia Matemática* (Grade 8), *La Matemática de la Belleza* (Grade 9) and *Naturaleza Matemática* (Grade 10). From its books: from Grade 5: constructions — Building a working compass from cardboard and two pencils; drawing a circumference of given diameter via radius 4 cm; from Grade 8: construction — copying a segment with unmarked ruler and compass; drawing congruent circles from a given radius; from Grade 10: constructing the von Koch curve start: trisecting a segment, perpendicular bisector from two circles, the bump FH, GH.
 
 Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 6: bisecting an angle with compasses; bisecting an angle with a protractor; drawing a perpendicular at a point on a line; drawing a perpendicular from a point outside a line; the perpendicular bisector of a segment; copying a given angle; building the sum of two given angles; drawing parallel lines with set square and ruler.
+
+Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 8 (teacher's book): .1 Accurate constructions (term/year plans only; no separate plan page); .2 Constructing figures 1 (plan 116); .3 Constructing figures 2 (plan 117). from Grade 9 (teacher's book): Constructing perpendicular bisector of a segment and bisector of an angle with ruler and compasses; 5-12-13…. from Grade 10 (teacher's book): Geometric constructions 1 (perpendicular bisector etc.); Geometric constructions 2 (angle bisector; triangles from given data; 60°/30° by bisection).

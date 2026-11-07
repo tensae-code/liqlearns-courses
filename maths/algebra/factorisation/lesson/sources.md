@@ -1,6 +1,6 @@
 # Sources — Factorisation
 
-countries: India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador
+countries: India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania
 
 Every part traces to its book and page.
 
@@ -25,6 +25,14 @@ Every part traces to its book and page.
 
 **Book 14:** *Matemática, Grade 13 student book (3ro BGU, Tercero de Bachillerato)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-31-6 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 15:** *Libër Mësuesi Matematika 8* (teacher's book) — Albania, Dituri Malaj (the pupil text translated and adapted by Llukan Puka and Adrian Naço), Mediaprint, Tiranë, Botimi i parë (first edition) 2017, ISBN 978-9928-08-299-2 (its CIP states “105 f.” against the held copy's 123 printed pages). Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 16:** *Libër Mësuesi Matematika 9* (teacher's book) — Albania, Dituri Malaj and Shpresa Bici, Mediaprint, Tiranë, Botimi i parë (first edition) 2018, ISBN 978-9928-08-355-5. Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 17:** *Libër Mësuesi Matematika 10 — Pjesa e parë* (teacher's book) — Albania, Mediaprint, Tiranë; no authors, year, edition or ISBN are printed anywhere in the held copy (it has no imprint or CIP page — nothing is imported from any other record). Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 18:** *Libër Mësuesi Matematika 12* (teacher's book) — Albania, Grup autorësh (a group of authors), the teaching text translated and adapted by Llukan Puka and Adrian Naço, Mediaprint, Tiranë, Botimi i parë (first edition) 2018, ISBN 978-9928-08-353-1 (its CIP titles the book “Matematika 12 : me zgjedhje”). One teacher's book serving two pupil courses: the base Matematika 12 and the elective Matematika me zgjedhje 12. Teacher evidence only — no pupil's book is in hand for either course. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Factorisation as the reverse of multiplication; irreducible factors; the method of common factors | India, Mathematics Class 8, Ch. 14 Factorisation, printed p. 217 |
@@ -34,6 +42,13 @@ Every part traces to its book and page.
 | "Can you find the error?" (§14.5): common wrong simplifications, expansions and substitutions exhibited for correction — the wrong lines are the exercise, taught corrected | India, Mathematics Class 8, Ch. 14, printed p. 226 |
 | Factorising quadratics by splitting the middle term | India, Mathematics Class 9, Ch. 2 Polynomials, printed p. 41 |
 | Factorising cubics with the Factor Theorem: find one zero, divide, factorise the quotient | India, Mathematics Class 9, Ch. 2 Polynomials, printed p. 42 |
+| .3 Factorising expressions (plan 32) | Albania, Libër Mësuesi Matematika 8 (teacher's book — teacher evidence), printed p. 39 |
+| Factorising given expressions; isolating a letter in a formula; index rules in simplification | Albania, Libër Mësuesi Matematika 9 (teacher's book — teacher evidence), printed p. 40 |
+| Expanding double brackets; squaring (x+1); solving equations from expanded forms | Albania, Libër Mësuesi Matematika 9 (teacher's book — teacher evidence), printed p. 41 |
+| Expanding single brackets and factorising; area model for 5a(2a + 9) = 10a² + 45a | Albania, Libër Mësuesi Matematika 10 (Pjesa e parë) (teacher's book — teacher evidence), printed p. 17 |
+| Double brackets, difference of two squares, factorising x² + bx + c | Albania, Libër Mësuesi Matematika 10 (Pjesa e parë) (teacher's book — teacher evidence), printed p. 19 |
+| Factorisation: factorise linear, quadratic and simple cubic expressions; difference of two squares; exercises x² − 5x + 6, 4b² − 9a², 3x² − 5x + 2 | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 6, 10, 73–74 |
+| Teorema e faktorëve (The factor theorem, used on a cubic expression) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 7, 12 |
 
 | Geometric derivation — (a + b)² built from a square of side a + b split into a², b² and two rectangles ab | Venezuela, Conciencia Matemática (Grade 8), printed p. 18 |
 | Rule — notable product (a + b)² = a² + 2ab + b² stated as a fixed-rule product | Venezuela, Conciencia Matemática (Grade 8), printed p. 19 |
@@ -69,8 +84,10 @@ Every part traces to its book and page.
 | Factorise given algebraic expressions | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 7 |
 | Section evaluation: factorise x² + 5x + 6 and 9x² − 12xy + 4y² | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 33 |
 
-**Acceptance count: taught in 6 countries (India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador).** India's Class 8 book gives factorisation a whole chapter of its own (Ch. 14, printed pp. 217–229) and its Class 9 book returns to it inside Polynomials — quadratics by splitting the middle term, cubics by the Factor Theorem — so under the everything-goes-in ruling (2026-11-06) the topic is gathered into its own lesson, at the size of that treatment. Other read countries teach factorisation as a part inside their expressions chapters, and their merges stocked it there; India's own Class 9 identity work ((x + y + z)² and x³ + y³ + z³ − 3xyz, applied to factorise) is likewise stocked in expressions, and its Class 8 division of algebraic expressions in polynomial-division. One slip in the Class 8 chapter is taught corrected: the chapter summary (printed p. 229) prints the trinomial form as "x² + (a + b) + ab", dropping the x — the correct form x² + (a + b)x + ab stands in the formula list on the same page and is the form this lesson teaches. The §14.5 "Can you find the error?" page (printed p. 226) is the book's deliberate wrong-work exercise, not a book error. North Macedonia enters from its main set — Grade 11 (2026) and the Grade 12 Algebra elective.
+**Acceptance count: taught in 7 countries (India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania).** India's Class 8 book gives factorisation a whole chapter of its own (Ch. 14, printed pp. 217–229) and its Class 9 book returns to it inside Polynomials — quadratics by splitting the middle term, cubics by the Factor Theorem — so under the everything-goes-in ruling (2026-11-06) the topic is gathered into its own lesson, at the size of that treatment. Other read countries teach factorisation as a part inside their expressions chapters, and their merges stocked it there; India's own Class 9 identity work ((x + y + z)² and x³ + y³ + z³ − 3xyz, applied to factorise) is likewise stocked in expressions, and its Class 8 division of algebraic expressions in polynomial-division. One slip in the Class 8 chapter is taught corrected: the chapter summary (printed p. 229) prints the trinomial form as "x² + (a + b) + ab", dropping the x — the correct form x² + (a + b)x + ab stands in the formula list on the same page and is the form this lesson teaches. The §14.5 "Can you find the error?" page (printed p. 226) is the book's deliberate wrong-work exercise, not a book error. North Macedonia enters from its main set — Grade 11 (2026) and the Grade 12 Algebra elective.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Conciencia Matemática* (Grade 8) and *La Matemática y el Vivir Bien* (Grade 11). From its books: from Grade 8: geometric derivation — (a + b)² built from a square of side a + b split into a², b² and two rectangles ab; from Grade 11: every real polynomial splits into linear factors and irreducible quadratic factors (stated as form A).
 
 Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 8: factorising algebraic expressions; from Grade 10: factor theorem.
+
+Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 8 (teacher's book): .3 Factorising expressions (plan 32). from Grade 9 (teacher's book): Factorising given expressions; isolating a letter in a formula; index rules in simplification; Expanding double brackets; squaring (x+1); solving equations from expanded forms. from Grade 10 (teacher's book): Expanding single brackets and factorising; area model for 5a(2a + 9) = 10a² + 45a; Double brackets, difference of two squares, factorising x² + bx + c. from Grade 12 (teacher's book): Factorisation: factorise linear, quadratic and simple cubic expressions; difference of two squares; exercises…; Teorema e faktorëve (The factor theorem, used on a cubic expression).

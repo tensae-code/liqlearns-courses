@@ -1,6 +1,6 @@
 # Sources — Problem-solving strategies
 
-countries: Iran, Greece, Iraq, China, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Uzbekistan, Ecuador
+countries: Iran, Greece, Iraq, China, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Uzbekistan, Ecuador, Albania
 
 Every part traces to its book and page.
 
@@ -82,6 +82,8 @@ Every part traces to its book and page.
 
 **Book 53:** *Matemática, Grade 13 student book (3ro BGU, Tercero de Bachillerato)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-31-6 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 54:** *Libër Mësuesi Matematika 5* (teacher's book) — Albania, Grup autorësh (a group of authors), translated and adapted by Emiralda Yzeiri and Erjona Saqe, Mediaprint, Tiranë, Botimi i parë (first edition) 2019, ISBN 978-9928-08-398-2. Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The four steps (understand, choose a strategy, solve, look back) and the eight named strategies, one per spread: drawing a figure p.2, systematic listing p.3, eliminating unwanted cases p.4, pattern-spotting p.5, guess and check p.6, sub-problems p.7, solving a simpler problem p.8, symbolic methods p.9; mixed review using all eight pp.10–12 | Iran, Mathematics, Grade 7, Ch. 1 — Problem-solving strategies, pp.1–12 |
@@ -113,6 +115,7 @@ Every part traces to its book and page.
 | Modelling questions set against closed problem-solving questions — telling the two apart named as the first strategic choice (main filing: mathematical-modelling) | Malaysia, Mathematics Form 5, Ch. 8 §8.1, printed pp. 228–229 |
 | Arithmagons — vertex numbers sum to edge numbers, missing vertex numbers found by subtraction; missing-number sentences solved by inverse operations | Rwanda, Primary Learner's Mathematics P4, pupil's book, Unit 13, printed pp. 141–144 |
 | "Think!!!" puzzles and mind games throughout the book (for example eight 8s make 1 000; a river-crossing puzzle) | Rwanda, Primary Learner's Mathematics P4, pupil's book, Units 1–13, passim |
+| Word problems with addition or subtraction; mental-calculation strategies | Albania, Libër Mësuesi Matematika 5 (teacher's book — teacher evidence), printed pp. 6, 14 |
 
 | Applied village problems — "With the people in my village": transport 700 sacks of sorghum on 7 lorries equally, and similar community problems | Sudan, Grade 3 Mathematics, printed p. 72 |
 | Ordering a process from pictures — how a brick is made from soil: four jumbled kiln pictures put in the correct order | India, Math-Magic Class 4, printed p. 11 |
@@ -204,7 +207,7 @@ Every part traces to its book and page.
 | Word problems with integers, rationals and irrationals (shared core) | Ecuador, Matemática, Grade 10 student book, printed pp. 57–58 |
 | Formulating combined operations and problems to a specification (shared core) | Ecuador, Matemática, Grade 10 student book, printed pp. 64–65 |
 | Worked challenge (1ro BGU): wood needed and cost for a table (printed conclusion mislabels the needed amount as the purchasable amount; taught corrected) | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 76 |
-**Acceptance count: taught in 14 countries (Iran, Greece, Iraq, China, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Uzbekistan, Ecuador).** Iran carries the fullest treatment: a named strategy in every primary chapter from Grade 2 up, gathered in Grade 7 Chapter 1 into eight named strategies under a four-step frame (understand, choose, solve, look back). Greece teaches the steps explicitly twice — as four steps in Grade 2 Chapter 5 and as five steps in Grade 5 Chapter 3 (read/distinguish, plan, solve, answer, reflect). Iraq makes the plan a lesson in its own right in every chapter of Grade 1 — and, as filed, in every chapter through Grade 8 — each plan lesson naming its own move (use a model, write a number sentence, logical reasoning, draw a picture). China contributes the specialist tools: elimination tables and proto-Sudoku in Grade 2, differencing in Grade 3, chickens-and-rabbits by listing and by the assumption method in Grade 4, and 0/1 logic tables with symbol substitution in the Grade 6 review. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023) and Grade 5 (2022).
+**Acceptance count: taught in 15 countries (Iran, Greece, Iraq, China, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Uzbekistan, Ecuador, Albania).** Iran carries the fullest treatment: a named strategy in every primary chapter from Grade 2 up, gathered in Grade 7 Chapter 1 into eight named strategies under a four-step frame (understand, choose, solve, look back). Greece teaches the steps explicitly twice — as four steps in Grade 2 Chapter 5 and as five steps in Grade 5 Chapter 3 (read/distinguish, plan, solve, answer, reflect). Iraq makes the plan a lesson in its own right in every chapter of Grade 1 — and, as filed, in every chapter through Grade 8 — each plan lesson naming its own move (use a model, write a number sentence, logical reasoning, draw a picture). China contributes the specialist tools: elimination tables and proto-Sudoku in Grade 2, differencing in Grade 3, chickens-and-rabbits by listing and by the assumption method in Grade 4, and 0/1 logic tables with symbol substitution in the Grade 6 review. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023) and Grade 5 (2022).
 
 Saudi Arabia is this lesson's strongest witness: a NAMED strategy lesson inside nearly every chapter of all four grades — model it, draw a picture, guess and check, look for a pattern, write a number sentence, make a table, make a list, work backwards, solve a simpler problem, choose a plan — gathered into the four steps (understand, plan, solve, check) in Grade 3, with reasonableness, exact-vs-estimate and extra/missing-information lessons of their own, and the older 1445 Term-3 volumes witnessing the Part Two chapters.
 
@@ -220,3 +223,5 @@ India stocks problem-solving strategies from Math-Magic Classes 4–5 and Mathem
 Mongolia enters through its ministry textbooks Математик I, II, III, IV (Grades 1, 2, 3, 4): making up problems; worked word-problem structure; bar-model problems.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Contemos... 1, 2, 3 y 4* (Grade 1), *Triángulos, rectángulos y algo más...* (Grade 2), *Aventuras de Patacalientes* (Grade 3) and *La Patria Buena* (Grade 5). From its books: from Grade 1: solving problems by drawing — Problema 1: a couple has 3 children and each child has 2 children — 6 grandchildren found by drawing a family diagram; from Grade 3: number tricks — the think-of-a-number trick (add 2, ×3, −6, subtract your number, halve the call-out) always returns the thought number — worked with 7 → 14 → 7; from Grade 5: systematic counting — Counting the squares of all sizes on a chessboard (the "204 squares" claim checked by tabulating 1×1 … 8×8).
+
+Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 5 (teacher's book): Word problems with addition or subtraction; mental-calculation strategies.

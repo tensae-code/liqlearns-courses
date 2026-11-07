@@ -1,6 +1,6 @@
 # Sources — Right-triangle trigonometry
 
-countries: Jordan, Egypt, Sierra Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador
+countries: Jordan, Egypt, Sierra Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania
 
 Every part traces to its book and page.
 
@@ -120,6 +120,8 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 
 **Book 61:** *Matemática, Grade 10 student book (10mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-33-0 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 62:** *Libër Mësuesi Matematika 10 — Pjesa e parë* (teacher's book) — Albania, Mediaprint, Tiranë; no authors, year, edition or ISBN are printed anywhere in the held copy (it has no imprint or CIP page — nothing is imported from any other record). Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Trigonometry introduced from similar right triangles; ratios defined before applications, calculator-based; sine, cosine, tangent of an acute angle defined as ratios of sides in a right triangle; cosecant/secant/cotangent named; the Pythagorean identity and "reciprocal of the trigonometric ratio" among the key terms; applications — angles of elevation and depression, finding unknown lengths and heights | Jordan, Grade 9 Term 2, Unit 5 "Relationships in Triangles and Trigonometric Ratios", p.6; L4 Trigonometric Ratios p.40; L5 Applications of Trigonometric Ratios p.49 |
@@ -147,6 +149,8 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Trigonometric ratios — sin/cos/tan/sec/csc/cot, special angles 0°/30°/45°/60°/90°, reciprocal relations, identities | Iraq, Grade 9 student book, Ch4 L4-6 trigonometric ratios p.105 |
 | Trigonometry through the unit circle and circular applications; solving the right-angled triangle; angles of elevation/depression | Iraq, Grade 10 Scientific student book, Ch4 trigonometry, pp.58–88 ([4-6] unit circle, [4-7] circular applications — angles of elevation/depression, [4-9] solving the right-angled triangle) — teach corrected: p.84 gives tan(−36°) as −0.588, which is sin(−36°); true tan(−36°) ≈ −0.7265 |
 | Trigonometry — ratios of an acute angle, special angles, unit circle, elevation/depression examples | Iraq, Grade 10 Literary student book, Ch3 trigonometry, pp.44–62 (elevation/depression examples p.61 only; p.62 is exercises) |
+| Sin/cos/tan ratios in right-angled triangles | Albania, Libër Mësuesi Matematika 10 (Pjesa e parë) (teacher's book — teacher evidence), printed p. 32 |
+| Angles of elevation and depression; exact trig values for special angles (present in the trimester plan; NOT in the annual-plan chapter list) | Albania, Libër Mësuesi Matematika 10 (Pjesa e parë) (teacher's book — teacher evidence), printed p. 32 |
 
 | Naming sides (opposite/adjacent/hypotenuse); the six ratios and reciprocal relations; values for 0°/30°/45°/60°/90° (full table); ratios for other angles by calculator; elevation and depression angles; distance-and-height problems (ladder 12 ft at 45° → ≈ 8.49 ft; broken pole 10 m at 30° → ≈ 17.32 m) — taught corrected: "geosynchronous line" is the horizontal line, the depression-angle definition is muddled (M9), and Greek gōnia means angle, not side (M8); the Exercise Q3 triangle (∠B = 90°, AC = 12 cm, BC = 13 cm) does not exist | Bangladesh, *Mathematics, Class Nine*, Ch 6 Trigonometry in Measurement, printed pp. 141–156 |
 
@@ -240,8 +244,8 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Cotangent problems from a hypotenuse–legs relation; tangent-given triangle (shared core) | Ecuador, Matemática, Grade 10 student book, printed p. 136 |
 | Tower height from two angles of elevation, 45° and 30° (shared core) | Ecuador, Matemática, Grade 10 student book, printed pp. 140–141 |
 
-**Acceptance count: taught in 32 countries (Jordan, Egypt, Sierra
-Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador).**
+**Acceptance count: taught in 33 countries (Jordan, Egypt, Sierra
+Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania).**
 Jordan carries the cleanest introduction — ratios from similar
 right triangles, then elevation and depression. Egypt carries
 the special-angle table and tan = sin / cos in Preparatory 3,
@@ -277,3 +281,5 @@ Mongolia enters through its ministry textbooks Математик IX, X (Grades 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *La Matemática de la Belleza* (Grade 9). From its books: from Grade 9: opposite and adjacent — opposite and adjacent legs named relative to an acute angle; class builds a right triangle with stakes and string and tabulates side ratios.
 
 Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 8: theorems in a right-angled triangle for the 30° and 60° angles (side opposite 30° is half the hypotenuse); from Grade 10: trigonometric ratios of special angles (30°, 45°, 60°).
+
+Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 10 (teacher's book): Sin/cos/tan ratios in right-angled triangles; Angles of elevation and depression; exact trig values for special angles (present in the trimester plan; NOT….

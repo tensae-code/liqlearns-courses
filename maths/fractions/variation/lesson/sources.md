@@ -1,6 +1,6 @@
 # Sources — Variation
 
-countries: Sierra Leone, Jordan, Pakistan, Malaysia, Sudan, India, Afghanistan, Ecuador
+countries: Sierra Leone, Jordan, Pakistan, Malaysia, Sudan, India, Afghanistan, Ecuador, Albania
 
 Every part traces to its book and page.
 
@@ -21,6 +21,12 @@ Every part traces to its book and page.
 
 **Book 11:** *Matemática, Grade 13 student book (3ro BGU, Tercero de Bachillerato)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-31-6 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 12:** *Libër Mësuesi Matematika 9* (teacher's book) — Albania, Dituri Malaj and Shpresa Bici, Mediaprint, Tiranë, Botimi i parë (first edition) 2018, ISBN 978-9928-08-355-5. Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 13:** *Libër Mësuesi Matematika 10 — Pjesa e parë* (teacher's book) — Albania, Mediaprint, Tiranë; no authors, year, edition or ISBN are printed anywhere in the held copy (it has no imprint or CIP page — nothing is imported from any other record). Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 14:** *Libër Mësuesi Matematika 11* (teacher's book) — Albania, Afërdita Hysa, Mediaprint, Tiranë, Botimi i parë (first edition) 2017; two different ISBNs are printed in the one copy — imprint 978-9928-08-309-8 and CIP 978-9928-08-299-2 — both carried as printed, unresolved. Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Direct variation — numerical and word problems, y = kx | Sierra Leone, SSS 2 Term 1 handbook, L17 Direct Variation, printed p. 45 |
@@ -39,6 +45,13 @@ Every part traces to its book and page.
 | Joint variation: one variable varying as a product of two or more others — simple interest I = Prt used as the anchoring example | Malaysia, Mathematics Form 5, Ch. 1 §1.1, printed pp. 11–15 |
 | Inverse variation: the meaning, the rectangular-hyperbola graph, and the equation y = k/x | Malaysia, Mathematics Form 5, Ch. 1 §1.2, printed pp. 17–23 |
 | Combined variation: direct, inverse and powers mixed in one relation, with problem solving | Malaysia, Mathematics Form 5, Ch. 1 §1.3, printed pp. 26–29 |
+| Direct proportion: building proportion equations and solving real problems with algebra | Albania, Libër Mësuesi Matematika 9 (teacher's book — teacher evidence), printed p. 73 |
+| Ratio and direct proportion; scaling by powers of ten mentally | Albania, Libër Mësuesi Matematika 10 (Pjesa e parë) (teacher's book — teacher evidence), printed p. 27 |
+| Gravitational force at the surface: inverse-square modelling problem (from the annual plan) | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed pp. 129–131 |
+| Direct proportion (y ∝ x) | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed pp. 137–138 |
+| More direct proportion (y ∝ x², y ∝ x³, y ∝ √x — test Q4 on printed p. 161 uses exactly these relations) | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed pp. 138–139 |
+| Inverse proportion | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed pp. 139–140 |
+| Direct/inverse proportion and exponential dependence in real problems (printed pp. 146–147) | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed pp. 146–147 |
 
 | Direct variation — Direct variation: y = kx, the constant of variation, the ratio test y₁/x₁ = y₂/x₂, and the straight-line graph through the origin (5-1) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 162 |
 | Variation with powers and roots — Direct variation with the square and with the square root of the variable (within 5-1) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 165 |
@@ -55,7 +68,7 @@ Every part traces to its book and page.
 | Compound proportion | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 53–54 |
 | Inverse proportionality: constant-product tables (hens and days; speed and time) | Ecuador, Matemática, Grade 7 student book, printed pp. 61-62 |
 | Boyle–Mariotte law PV = constant at fixed temperature: find the constant from given measurements | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 72 |
-**Acceptance count: taught in 8 countries (Sierra Leone, Jordan, Pakistan, Malaysia, Sudan, India, Afghanistan, Ecuador).** Sierra Leone carries the whole lesson: its SSS 2 Term 1 handbook teaches variation as a block of four lessons — direct (L17, p.45), inverse (L18, p.48), joint (L19, p.51) and partial (L20, p.54), each with numerical and word problems — and returns to variation in review problems later in the SSS course. Jordan carries the base forms only: in Grade 7 Term 2, Unit 5, direct variation (L4, p.23) and inverse variation (L5, p.30), built on unit rate and proportion; Jordan teaches no joint or partial variation there, and the lesson does not claim it does. Pakistan carries a full Variations unit in Class 10 (Unit 3, printed pp.49–73): ratio and proportion first, then direct and inverse variation including variation with powers, third, fourth and mean proportionals and continued proportion, the theorems on proportions (invertendo, alternendo, componendo, dividendo, componendo-dividendo), joint variation, the k-method, and real-life variation problems, with a unit summary on pp.72–73; the filing lists no partial variation for Pakistan, so partial variation still rests on Sierra Leone alone.
+**Acceptance count: taught in 9 countries (Sierra Leone, Jordan, Pakistan, Malaysia, Sudan, India, Afghanistan, Ecuador, Albania).** Sierra Leone carries the whole lesson: its SSS 2 Term 1 handbook teaches variation as a block of four lessons — direct (L17, p.45), inverse (L18, p.48), joint (L19, p.51) and partial (L20, p.54), each with numerical and word problems — and returns to variation in review problems later in the SSS course. Jordan carries the base forms only: in Grade 7 Term 2, Unit 5, direct variation (L4, p.23) and inverse variation (L5, p.30), built on unit rate and proportion; Jordan teaches no joint or partial variation there, and the lesson does not claim it does. Pakistan carries a full Variations unit in Class 10 (Unit 3, printed pp.49–73): ratio and proportion first, then direct and inverse variation including variation with powers, third, fourth and mean proportionals and continued proportion, the theorems on proportions (invertendo, alternendo, componendo, dividendo, componendo-dividendo), joint variation, the k-method, and real-life variation problems, with a unit summary on pp.72–73; the filing lists no partial variation for Pakistan, so partial variation still rests on Sierra Leone alone.
 
 Malaysia gives variation a whole Form 5 chapter — direct, inverse, joint and combined — the fullest single-book variation treatment in the course. Partial variation is not taught there; that part of the lesson stands on the other countries.
 
@@ -64,3 +77,5 @@ Sudan teaches variation whole in Grade 10 — direct, inverse, joint and partial
 India enters variation from Mathematics Class 8: direct proportion: x/y constant; unitary-style tables; map-scale application.
 
 Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 6: direct and inverse proportion; from Grade 8: types of proportion: direct proportion; types of proportion: inverse proportion; compound proportion.
+
+Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 9 (teacher's book): Direct proportion: building proportion equations and solving real problems with algebra. from Grade 10 (teacher's book): Ratio and direct proportion; scaling by powers of ten mentally. from Grade 11 (teacher's book): Gravitational force at the surface: inverse-square modelling problem (from the annual plan); Direct proportion (y ∝ x); More direct proportion (y ∝ x², y ∝ x³, y ∝ √x — test Q4 on printed p. 161 uses exactly these relations); Inverse proportion; Direct/inverse proportion and exponential dependence in real problems (printed pp. 146–147).

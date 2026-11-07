@@ -1,6 +1,6 @@
 # Sources — Projections and Views
 
-countries: Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia, Malaysia, India, Venezuela
+countries: Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia, Malaysia, India, Venezuela, Albania
 
 Every part traces to its book and page.
 
@@ -25,6 +25,14 @@ Every part traces to its book and page.
 **Book 17:** *Mathematics — Textbook for Class VIII* — India, NCERT, New Delhi, first edition January 2008, 2020-21 printing, ISBN 978-81-7450-814-0. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Just for Fun sections; nothing is cited from them.
 **Book 18:** *Conciencia Matemática* — Venezuela, Grade 8 (2do año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-320-3. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 19:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+
+**Book 20:** *Libër Mësuesi Matematikë 6* (teacher's book) — Albania, Tony Cotton, Caroline Clissold, Linda Glithro, Cherri Moseley, Janet Rees, translated and adapted by Irma Çaça and Fatbardha Gjoni, Mediaprint, Tiranë, Botimi i parë (first edition) 2015, ISBN 978-9928-08-201-5 (the Albanian adaptation of Oxford International Primary Maths 6 Teacher's Guide; its imprint original-title line misprints “Maths 1” for Maths 6). Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 21:** *Libër Mësuesi Matematika 8* (teacher's book) — Albania, Dituri Malaj (the pupil text translated and adapted by Llukan Puka and Adrian Naço), Mediaprint, Tiranë, Botimi i parë (first edition) 2017, ISBN 978-9928-08-299-2 (its CIP states “105 f.” against the held copy's 123 printed pages). Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 22:** *Libër Mësuesi Matematika 9* (teacher's book) — Albania, Dituri Malaj and Shpresa Bici, Mediaprint, Tiranë, Botimi i parë (first edition) 2018, ISBN 978-9928-08-355-5. Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 23:** *Libër Mësuesi Matematika 10 — Pjesa e parë* (teacher's book) — Albania, Mediaprint, Tiranë; no authors, year, edition or ISBN are printed anywhere in the held copy (it has no imprint or CIP page — nothing is imported from any other record). Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -63,13 +71,17 @@ Every part traces to its book and page.
 | Shadows — 2-D shadows of 3-D objects under a bulb / the Sun | India, Mathematics Class 7, printed p. 289 |
 | Views — Front, side and top views of a solid; matching a solid to its three views | India, Mathematics Class 7, printed p. 290 |
 | Views of solids — front, side and top views of 3D objects (hut, glass, brick, cube assemblies); matching and drawing views | India, Mathematics Class 8, printed p. 154 |
+| : drawing 3D solids with 2D figures (nets and isometric-style drawing) (plans 62–63) | Albania, Libër Mësuesi Matematikë 6 (teacher's book — teacher evidence), printed pp. 8, 133–135 |
+| : drawing nets of geometric solids; three views of a solid (portfolio project, term 1) | Albania, Libër Mësuesi Matematika 8 (teacher's book — teacher evidence), printed p. 80 |
+| Representing 3D solids in 2D: top view, front and side elevations; volume of a cube-built solid; isometric paper | Albania, Libër Mësuesi Matematika 9 (teacher's book — teacher evidence), printed p. 66 |
+| 3D solids and their three views/projections | Albania, Libër Mësuesi Matematika 10 (Pjesa e parë) (teacher's book — teacher evidence), printed p. 44 |
 
 | Definition — orthogonal projection of a point/segment on a line; an inclined segment projects shorter, a parallel one equal | Venezuela, Conciencia Matemática (Grade 8), printed p. 65 |
 | Application — front/side/top views of a house design (vistas) and orthogonal projection in building columns | Venezuela, Conciencia Matemática (Grade 8), printed p. 48 |
 
 | 3D shapes in projections: front, top and side views of prism, cylinder, pyramid, cone | North Macedonia, Grade 7, Theme 2, printed p. 237 |
 
-**Acceptance count: taught in 10 countries (Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia, Malaysia, India, Venezuela).** Vietnam carries the engineering heart of the lesson: orthogonal and axonometric projections and technical drawing as named topics in its Grade 11 study book. Laos carries the intuitive opening — projections and shadows, with a birdhouse photographed from different viewpoints. North Macedonia carries parallel and orthogonal projection and representing a solid by drawing at Grade 8. China carries the history as a reading: descriptive geometry and Monge, from da Vinci and Desargues to orthographic projection on two perpendicular planes (reading as filed). Jordan carries isometric drawing, projections/views and cross-sections at Grade 8, with nets at Grade 4 as teacher evidence. South Africa carries views drawn on isometric paper and perspective drawing, the perspective filed as enrichment in its workbooks.
+**Acceptance count: taught in 11 countries (Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia, Malaysia, India, Venezuela, Albania).** Vietnam carries the engineering heart of the lesson: orthogonal and axonometric projections and technical drawing as named topics in its Grade 11 study book. Laos carries the intuitive opening — projections and shadows, with a birdhouse photographed from different viewpoints. North Macedonia carries parallel and orthogonal projection and representing a solid by drawing at Grade 8. China carries the history as a reading: descriptive geometry and Monge, from da Vinci and Desargues to orthographic projection on two perpendicular planes (reading as filed). Jordan carries isometric drawing, projections/views and cross-sections at Grade 8, with nets at Grade 4 as teacher evidence. South Africa carries views drawn on isometric paper and perspective drawing, the perspective filed as enrichment in its workbooks.
 
 Saudi Arabia joins this lesson from its Grade 4 geometry chapter: nets matched to the solids they fold into, and front, side and top views of cube-built solids.
 
@@ -78,3 +90,5 @@ Malaysia teaches plans and elevations as a full Form 3 chapter — orthogonal pr
 India stocks projections and views from Math-Magic Class 2–5 and Mathematics Class 7–8: drawing what you see; looking from different sides; views from above and below; floor map vs deep drawing.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Conciencia Matemática* (Grade 8). From its books: from Grade 8: definition — orthogonal projection of a point/segment on a line; an inclined segment projects shorter, a parallel one equal.
+
+Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 6 (teacher's book): : drawing 3D solids with 2D figures (nets and isometric-style drawing) (plans 62–63). from Grade 8 (teacher's book): : drawing nets of geometric solids; three views of a solid (portfolio project, term 1). from Grade 9 (teacher's book): Representing 3D solids in 2D: top view, front and side elevations; volume of a cube-built solid; isometric…. from Grade 10 (teacher's book): 3D solids and their three views/projections.

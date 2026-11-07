@@ -1,6 +1,6 @@
 # Sources — Trigonometric equations
 
-countries: Nicaragua, Laos, Armenia, Libya, Yemen, Kuwait, Cambodia, Vietnam, South Sudan, China, Malaysia, Rwanda, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan
+countries: Nicaragua, Laos, Armenia, Libya, Yemen, Kuwait, Cambodia, Vietnam, South Sudan, China, Malaysia, Rwanda, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Albania
 
 Every part traces to its book and page.
 
@@ -32,6 +32,8 @@ Every part traces to its book and page.
 
 **Book 23:** *Algebra (Алгебра), Grade 9 student book* — Uzbekistan, Ministry of Public Education; Sh. A. Alimov, A. R. Halmuhamedov, M. A. Mirzaahmedov; Russian (Cyrillic); «O'qituvchi», Tashkent 2006, ISBN 5-645-04565-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 24:** *Libër Mësuesi Matematika 12* (teacher's book) — Albania, Grup autorësh (a group of authors), the teaching text translated and adapted by Llukan Puka and Adrian Naço, Mediaprint, Tiranë, Botimi i parë (first edition) 2018, ISBN 978-9928-08-353-1 (its CIP titles the book “Matematika 12 : me zgjedhje”). One teacher's book serving two pupil courses: the base Matematika 12 and the elective Matematika me zgjedhje 12. Teacher evidence only — no pupil's book is in hand for either course. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Trigonometric equations: definition; method — particular solutions within one period, then the general solution with n ∈ ℤ; worked examples on [0, 2π) then extended; graphical alternative; the quadratic formula recalled for equations that reduce to quadratics | Nicaragua, Grade 10 student book, Unit 3, printed pp. 156–165 |
@@ -56,6 +58,10 @@ Every part traces to its book and page.
 | Teacher's alternative method for a sin x + b cos x = c — substituting the t-formulae with t = tan(x/2) to reduce the equation to a quadratic in t — guide evidence (Advanced) | Rwanda, Advanced Mathematics, Teacher's Guide, Senior Five, Unit 1 (Trigonometric Formulae, Equations and Inequalities), printed p. 14 |
 | Principal solutions of sin x = a, tan x = a etc. | India, Mathematics Class 11, printed p. 74 |
 | General solutions proved as theorems: sin x = sin y ⇒ x = nπ + (−1)^n y; cos x = cos y ⇒ x = 2nπ ± y; tan x = tan y ⇒ x = nπ + y | India, Mathematics Class 11, printed p. 75 |
+| Ekuacione të thjeshta trigonometrike (Simple trig equations sin θ = k, cos θ = k, tan θ = k) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 8, 13 |
+| Ekuacione dhe identitete (Trig equations of forms sin nθ = k, sin(θ ± α) = k and analogues, and equations that produce a quadratic) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 8, 13 |
+| Elective course: zgjidhja e ekuacioneve trigonometrike (Solving trig equations, radian form) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 36, 64 |
+| Elective course: zgjidhja e ekuacioneve trigonometrike (Solving trig equations with compound angles) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 36, 65 |
 
 | Trig equation in sen x and csc x reduced to the cubic 12y³ − 25y² + y + 2 = 0; the root sen x = 2 discarded as impossible; solution families by quadrant and period | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed p. 79 |
 
@@ -70,7 +76,7 @@ Every part traces to its book and page.
 | Chapter key points and exercises | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 91–94 |
 | §21 simplest trigonometric equations on the circle: sin t = 0 (t = πk), cos t = 0 (t = π/2 + πk), sin t = 1, cos t = 1, with k ∈ Z notation | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 116–117 |
 
-**Acceptance count: taught in 17 countries (Nicaragua, Laos, Armenia, Libya, Yemen, Kuwait, Cambodia, Vietnam, South Sudan, China, Malaysia, Rwanda, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan).** Nicaragua carries the general-solution method in its student book and the single-ratio rule with the easiest worked examples in its module. Laos carries equations and, uniquely in this lesson, a fully worked unit-circle inequality in consecutive lessons. Armenia carries the simplest equations and then names the main solving methods. Libya carries simple equations in Grade 11 and the a·cosθ ± b·sinθ equation form in Grade 12. Yemen gives equations their own lesson in Grade 11 Science. Kuwait solves equations in both its Grade 10 and Grade 11 Term 2 books. Cambodia solves the four basic forms in Grade 11 Basic and continues to equations and inequalities in Grade 11 Advanced. Vietnam teaches the basic equations in Bài 4. South Sudan solves equations graphically and arithmetically, including quadratic-shaped ones, in Secondary 4 Additional Mathematics. China solves from the trig lines and graphs in its B-edition Volume 3. North Macedonia enters from its main set — the Grade 12 Mathematics book (2018) and the Grade 12 Algebra elective.
+**Acceptance count: taught in 18 countries (Nicaragua, Laos, Armenia, Libya, Yemen, Kuwait, Cambodia, Vietnam, South Sudan, China, Malaysia, Rwanda, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Albania).** Nicaragua carries the general-solution method in its student book and the single-ratio rule with the easiest worked examples in its module. Laos carries equations and, uniquely in this lesson, a fully worked unit-circle inequality in consecutive lessons. Armenia carries the simplest equations and then names the main solving methods. Libya carries simple equations in Grade 11 and the a·cosθ ± b·sinθ equation form in Grade 12. Yemen gives equations their own lesson in Grade 11 Science. Kuwait solves equations in both its Grade 10 and Grade 11 Term 2 books. Cambodia solves the four basic forms in Grade 11 Basic and continues to equations and inequalities in Grade 11 Advanced. Vietnam teaches the basic equations in Bài 4. South Sudan solves equations graphically and arithmetically, including quadratic-shaped ones, in Secondary 4 Additional Mathematics. China solves from the trig lines and graphs in its B-edition Volume 3. North Macedonia enters from its main set — the Grade 12 Mathematics book (2018) and the Grade 12 Algebra elective.
 
 Malaysia solves its trigonometric equations inside the same Additional Mathematics Form 5 chapter that builds the identities — the equations are the identities put to work.
 
@@ -81,3 +87,5 @@ India enters trigonometric equations from Mathematics Class 11: principal soluti
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *La Matemática y el Vivir Bien* (Grade 11). From its books: from Grade 11: trig equation in sen x and csc x reduced to the cubic 12y³ − 25y² + y + 2 = 0; the root sen x = 2 discarded as impossible; solution families by quadrant and period.
 
 Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 11: trig equations in sin, cos, tan, cot: general solutions; quadratic trig equations, incl. the form a·sin²x + b·sinx·cosx + c·cos²x = d; systems of two-unknown trig equations: six types with solvability conditions; chapter key points and exercises.
+
+Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 12 (teacher's book): Ekuacione të thjeshta trigonometrike (Simple trig equations sin θ = k, cos θ = k, tan θ = k); Ekuacione dhe identitete (Trig equations of forms sin nθ = k, sin(θ ± α) = k and analogues, and equations…; Elective course: zgjidhja e ekuacioneve trigonometrike (Solving trig equations, radian form); Elective course: zgjidhja e ekuacioneve trigonometrike (Solving trig equations with compound angles).

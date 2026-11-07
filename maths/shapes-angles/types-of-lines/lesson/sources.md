@@ -1,6 +1,6 @@
 # Sources — Types of Lines
 
-countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador
+countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania
 
 Every part traces to its book and page.
 
@@ -41,6 +41,8 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 
 **Book 27:** *Matemática, Grade 3 student book (Talento matemático 3, Serie Talentos)* — Ecuador, EDINUN (Ediciones Nacionales Unidas) for the Ministerio de Educación, © 2016, fourth printing February 2018; no ISBN printed (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 28:** *Libër Mësuesi Matematika 5* (teacher's book) — Albania, Grup autorësh (a group of authors), translated and adapted by Emiralda Yzeiri and Erjona Saqe, Mediaprint, Tiranë, Botimi i parë (first edition) 2019, ISBN 978-9928-08-398-2. Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Straight lines: horizontal, vertical, oblique towards the right, oblique towards the left | Rwanda, Primary pupil's book, Year 2 (English), Unit 10, printed p. 209 |
@@ -74,6 +76,7 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 | Finding and drawing perpendicular and parallel lines — find examples of mutually perpendicular and parallel lines (a music staff, a notebook, a window, a climbing frame): look around you, find examples of mutually perpendicular and parallel lines and write them in the table (given examples: the notebook's horizontal and vertical ruled lines for perpendicular; the table's lengthwise and crosswise parallel edges for parallel); a. draw two mutually perpendicular lines; b. draw two parallel lines; c. draw 2 pairs of each in your notebook; a make-and-create task (Зохиомж бүтээх): continue the zigzag strip pattern; colour the squares of the grid to continue the red-and-yellow pattern; write instructions (self-check): how do you know whether two lines will be perpendicular? How do you know whether two lines will be parallel? Draw mutually perpendicular and parallel lines and have your friend check them; round the given numbers by thousands (29, 97, 91, 83, 86, 72, 78, 563, 528, 607, 674, 875, 825, 1893, 2340, 7265, 7635): if some operation is performed on a rounded number, which of the given numbers will come out?; observe the example and calculate (74 − 39 = 74 − 40 + 1 = 34 + 1 = 35; 634 − 283 = 634 − 300 + 17 = 334 + 17 = 351; then 61 − 38; 83 − 29; 72 − 46; 90 − 36; 53 − 17; 84 − 28; 293 − 59; 721 − 396; 453 − 275; 6583 − 478; 8402 − 3295 — subtraction by rounding the subtrahend up and compensating) | Mongolia, Математик III (Grade 3), printed p. 34 |
 | Point, line, segment, ray: notation and drawing; naming lines and parts of lines | Mongolia, Математик VI (Grade 6), printed p. 29 |
 | Parallel and perpendicular lines recognised and drawn; adjacent (neighbouring) angles | Mongolia, Математик VI (Grade 6), printed p. 33 |
+| Parallel and perpendicular lines; lines in geometric figures | Albania, Libër Mësuesi Matematika 5 (teacher's book — teacher evidence), printed pp. 6, 14–15, 43–44 |
 
 | Straight lines — la recta as a line with no beginning and no end; parallel lines that never meet; perpendicular lines meeting at right angles | Venezuela, Aventuras de Patacalientes (Grade 3), printed pp. 42–45 |
 | The straight line — la recta = infinitely many points, endless, drawn with arrows, named by two points AB/BA; conclusions: infinitely many lines through one point, exactly one through two points | Venezuela, Contando con los recursos (Grade 4), printed pp. 84–87 |
@@ -125,7 +128,7 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 | Straight line, curved line, ray (semirrecta), segment and angle: identify, match and colour | Ecuador, Matemática, Grade 2 student book, printed pp. 95–96 |
 | Lines: straight and curved, open and closed, in plane figures and house plans | Ecuador, Matemática (Talento matemático 3), Grade 3 student book, printed pp. 146–147 |
 
-**Acceptance count: taught in 8 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador).** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; no other read country gives line types a named treatment of their own, so this lesson is built at that honest size — a small lesson, complete for what its one source teaches. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
+**Acceptance count: taught in 9 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania).** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; no other read country gives line types a named treatment of their own, so this lesson is built at that honest size — a small lesson, complete for what its one source teaches. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
 
 India stocks types of lines from Math-Magic Class 2 and Mathematics Class 6–7, 9: standing, slanting, sleeping lines; point and line; intersecting lines and their point of intersection; basic terms.
 
@@ -135,3 +138,5 @@ Mongolia enters through its ministry textbooks Математик I, III, VI (Gr
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Aventuras de Patacalientes* (Grade 3), *Contando con los recursos* (Grade 4), *Matemática Para La Vida* (Grade 7) and *Conciencia Matemática* (Grade 8). From its books: from Grade 3: straight lines — la recta as a line with no beginning and no end; parallel lines that never meet; perpendicular lines meeting at right angles; from Grade 7: kinds of lines — Horizontal, perpendicular and oblique lines identified on a land-survey sketch; perpendicular lines meet at a right angle (90°); from Grade 8: rule — parallel lines: reflexive, symmetric and transitive properties of parallelism.
 
 Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 1: the straight path: the shortest way (Lesson 23); straight lines told apart from curved and zigzag lines (Lesson 24); from Grade 6: positions of a line: horizontal, vertical and oblique; parallel lines; intersecting lines; from Grade 7: parallel and perpendicular lines.
+
+Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 5 (teacher's book): Parallel and perpendicular lines; lines in geometric figures.

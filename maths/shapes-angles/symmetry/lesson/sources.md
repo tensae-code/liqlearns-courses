@@ -1,6 +1,6 @@
 # Sources — Symmetry
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, India, Mongolia, Venezuela, Afghanistan, Ecuador
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, India, Mongolia, Venezuela, Afghanistan, Ecuador, Albania
 
 Every part traces to its book and page.
 
@@ -207,6 +207,10 @@ READ + CITATION CHECK PASSED 2026-11-05).
 
 **Book 93:** *Matemática, Grade 10 student book (10mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-33-0 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 94:** *Libër Mësuesi Matematikë 1* (teacher's book) — Albania, Tony Cotton, Caroline Clissold, Linda Glithro, Cherri Moseley, Janet Rees, translated and adapted by Emiralda Yzeiri, Mediaprint, Tiranë, Botimi i parë (first edition) 2015, ISBN 978-9928-08-200-8 (the Albanian adaptation of Oxford International Primary Maths 1 Teacher's Guide). Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 95:** *Libër Mësuesi Matematika 5* (teacher's book) — Albania, Grup autorësh (a group of authors), translated and adapted by Emiralda Yzeiri and Erjona Saqe, Mediaprint, Tiranë, Botimi i parë (first edition) 2019, ISBN 978-9928-08-398-2. Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Introduction to symmetry: folding and mirror completion (ch.56, Unit 8, printed pp.53–66) | Greece, Grade 1 Teuxos B, ch.56 |
@@ -243,6 +247,8 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Lines of symmetry by paper folding — square 4, rectangle 2, equilateral triangle 3, isosceles 1, right-angled 0, scalene 0, circle all diameters | South Sudan, Primary Mathematics — Pupil's Book 3, Unit 3 §3.1, printed pp. 57–59 |
 | Lines of symmetry of triangles — equilateral 3, isosceles 1, scalene 0 | South Sudan, Primary Mathematics — Pupil's Book 5, Unit 3 §3.3, printed p. 54 |
 | Reflection symmetry within transformations; reflection and rotation in the coordinate plane | Iraq, Grade 7 student book, Ch5 L5-4 translation, reflection and symmetry p.118; Grade 8 student book, Ch6 L6-4 reflection and rotation in the coordinate plane p.137 |
+| Symmetry: recognise lines of symmetry with mirrors; the line the mirror sits on is the line of symmetry; build symmetric patterns on 3 × 3 grids colouring 1, 2 then 3 squares (pupil book pp. 133–134) | Albania, Libër Mësuesi Matematikë 1 (teacher's book — teacher evidence), printed pp. 172–174 |
+| Symmetry and the axis of symmetry; symmetry on the coordinate grid | Albania, Libër Mësuesi Matematika 5 (teacher's book — teacher evidence), printed pp. 32–33 |
 
 | Line symmetry and rotational symmetry; the mirror test; garden arrangement by symmetry | Bangladesh, *Mathematics, Class Eight*, Exp 8 Application of Symmetry in Measurement, printed pp. 181–188 |
 
@@ -339,7 +345,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Lines of symmetry; completing figures by symmetries (shared core) | Ecuador, Matemática, Grade 9 student book, printed pp. 125, 127 |
 | Lines of symmetry; completing figures by symmetries (shared core) | Ecuador, Matemática, Grade 10 student book, printed pp. 121, 123 |
 
-**Acceptance count: taught in 33 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, India, Mongolia, Venezuela, Afghanistan, Ecuador).**.** Greece carries symmetry from the very start Iran completes the missing halves of pictures in Grade 1, folds and mirrors shapes in Grade 2, names axial and central symmetry in Grade 5, and adds the centre of symmetry and rotation in Grade 6.
+**Acceptance count: taught in 34 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, India, Mongolia, Venezuela, Afghanistan, Ecuador, Albania).**.** Greece carries symmetry from the very start Iran completes the missing halves of pictures in Grade 1, folds and mirrors shapes in Grade 2, names axial and central symmetry in Grade 5, and adds the centre of symmetry and rotation in Grade 6.
 — folding and mirror completion in Grade 1, the fold-along-the-
 red-line test in Grade 3, axial symmetry in Grade 6, and the
 full axis-and-point symmetry chapter in Grade 7. Kazakhstan
@@ -381,3 +387,5 @@ Mongolia enters through its ministry textbooks Математик II, III, V, VI
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Hecho en Venezuela* (Grade 6), *Conciencia Matemática* (Grade 8) and *Naturaleza Matemática* (Grade 10). From its books: from Grade 6: axes — Symmetry defined; axis of symmetry divides a figure into two identical parts; from Grade 8: definition — symmetry about a point, an axis (line) or a plane; exact correspondence of size, shape and position; from Grade 10: symmetry of a graph: the second half of the track repeats the first.
 
 Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 8: concept of symmetry; axis of symmetry (axial symmetry); central (point) symmetry; chapter key points and exercises (symmetry).
+
+Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 1 (teacher's book): Symmetry: recognise lines of symmetry with mirrors; the line the mirror sits on is the line of symmetry;…. from Grade 5 (teacher's book): Symmetry and the axis of symmetry; symmetry on the coordinate grid.

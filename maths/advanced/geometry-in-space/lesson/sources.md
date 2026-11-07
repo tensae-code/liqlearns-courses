@@ -1,6 +1,6 @@
 # Sources — Geometry in Space
 
-countries: China, Armenia, Vietnam, Kuwait, Greece, Iraq, Yemen, Cambodia, Kazakhstan, Laos, North Macedonia, Iran, Syria, India, Mongolia, Afghanistan, Ecuador
+countries: China, Armenia, Vietnam, Kuwait, Greece, Iraq, Yemen, Cambodia, Kazakhstan, Laos, North Macedonia, Iran, Syria, India, Mongolia, Afghanistan, Ecuador, Albania
 
 Every part traces to its book and page.
 
@@ -35,6 +35,8 @@ Every part traces to its book and page.
 
 **Book 27:** *Matemática, Grade 13 student book (3ro BGU, Tercero de Bachillerato)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-31-6 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 28:** *Libër Mësuesi Matematika 12* (teacher's book) — Albania, Grup autorësh (a group of authors), the teaching text translated and adapted by Llukan Puka and Adrian Naço, Mediaprint, Tiranë, Botimi i parë (first edition) 2018, ISBN 978-9928-08-353-1 (its CIP titles the book “Matematika 12 : me zgjedhje”). One teacher's book serving two pupil courses: the base Matematika 12 and the elective Matematika me zgjedhje 12. Teacher evidence only — no pupil's book is in hand for either course. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Three basic facts about planes (pp.91–93) and corollaries (pp.93–94); parallel lines in space, transitivity, equal-angles theorem (pp.96–97); skew lines (pp.97–99); line–plane parallelism criterion and property (pp.100–102); plane–plane parallelism (pp.103–106); line–plane perpendicularity (pp.111–113); three-perpendiculars-type result (p.115); plane–plane perpendicularity (pp.118–120) | China, B-edition Compulsory Volume 4, Chapter 11, printed pp.82–120 |
@@ -67,6 +69,7 @@ Every part traces to its book and page.
 | A line perpendicular to a plane; distance from a point to a line | Mongolia, Математик IX (Grade 9), printed p. 173 |
 | Distance from a point to a plane; prism height; pyramid height | Mongolia, Математик IX (Grade 9), printed p. 174 |
 | Cutting a solid by a plane (sections) | Mongolia, Математик IX (Grade 9), printed p. 175 |
+| Elective course: koordinatat në hapësirën 3D (3D coordinates) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 36, 69 |
 
 | Axioms of space geometry; basic (undefined) concepts point, line, plane vs defined concepts; theorem vs axiom | North Macedonia, Grade 11, §5.7, printed p. 231 |
 | Mutual position of a line and a plane, of two planes, of two lines | North Macedonia, Grade 11, §5.8, printed p. 236 |
@@ -89,7 +92,7 @@ Every part traces to its book and page.
 | Parallel-plane tests, line/plane equations, plane intersections and Gauss linear-dependence (repeat set inside Sección 3); dot and cross products named in a fact box | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 59 |
 | Section evaluation: vector equation of the line through A(0, 2, 3) and B(0, −1, 1) | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 73 |
 
-**Acceptance count: taught in 17 countries (China, Armenia, Vietnam, Kuwait, Greece, Iraq, Yemen, Cambodia, Kazakhstan, Laos, North Macedonia, Iran, Syria, India, Mongolia, Afghanistan, Ecuador).**
+**Acceptance count: taught in 18 countries (China, Armenia, Vietnam, Kuwait, Greece, Iraq, Yemen, Cambodia, Kazakhstan, Laos, North Macedonia, Iran, Syria, India, Mongolia, Afghanistan, Ecuador, Albania).**
 
 China carries the full synthetic system twice, in the B-edition Compulsory Volume 4 Chapter 11 and in parallel in the A-edition Compulsory Volume 2 Chapter 8: three basic facts and corollaries, parallelism and perpendicularity as criterion-and-property systems, and the three space angles. Armenia carries the stereometry opening course in Geometry 10 Chapter I — axioms and consequences, positions including the skew-lines criterion, and line–plane perpendicularity. Vietnam carries the synthetic theorem system across both Grade 11 volumes: parallelism and parallel projection in Volume 1, perpendicularity, projection, the line–plane angle, perpendicular planes and distance in Volume 2 — the filing notes its space work is synthetic, with no space vectors. Kuwait carries the system in Grade 11 Term 2 Unit 10 — postulates, skew lines, the three-perpendiculars theorem, the dihedral angle and perpendicular planes — synthetic only, with no vectors or coordinates in space, as filed. Greece carries lines and planes in space in Euclidean Geometry Volume B Chapter 12, including Thales' theorem in space, the dihedral plane angle and projection. Iraq carries space geometry in Grade 11 Science Chapter 7 with six numbered theorems, and dihedral angles in Grade 12 Science Chapter 6, of which only the read-and-checked projection example (pp.238–240) is cited here.
 
@@ -103,3 +106,5 @@ India enters geometry in space from Mathematics Class 11–12: coordinates in sp
 Mongolia enters through its ministry textbooks Математик VIII, IX (Grades 8, 9): space geometry met first inside Grade 8's plane-geometry review — the planes of symmetry of solids, and the first positions of lines and planes in space — before Grade 9's full line-and-plane chapter.
 
 Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 11: basic concepts and axioms of solid geometry: undefined terms, theorem, logical reason, line and plane axioms; line and plane in 3D space: relative positions of a line and a plane, of two lines, of two planes; parallel lines in space: definition, parallel postulate, theorems; angle between two lines in space: equal angles with parallel sides; skew lines; parallel lines and parallel planes: a line parallel to a plane; perpendicular lines and planes in space: a line perpendicular to a plane; parallel planes in space; chapter key points and exercises.
+
+Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 12 (teacher's book): Elective course: koordinatat në hapësirën 3D (3D coordinates).

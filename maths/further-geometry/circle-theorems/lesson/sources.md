@@ -1,6 +1,6 @@
 # Sources — Circle theorems
 
-countries: Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Uzbekistan
+countries: Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Uzbekistan, Albania
 
 Every part traces to its book and page.
 
@@ -85,6 +85,8 @@ maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 45:** *Geometriya (Геометрия), Grade 9 student book* — Uzbekistan, Ministry of Public Education; B. Haydarov, E. Sarikov, A. Kuchkarov, ed. A. Azamov; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2006, ISBN 05-89890-136-1 (as printed). Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 46:** *Libër Mësuesi Matematika 11* (teacher's book) — Albania, Afërdita Hysa, Mediaprint, Tiranë, Botimi i parë (first edition) 2017; two different ISBNs are printed in the one copy — imprint 978-9928-08-309-8 and CIP 978-9928-08-299-2 — both carried as printed, unresolved. Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Inscribed-angle theorem (an inscribed angle equals half its arc; three centre positions proved; corollary: angle on a diameter is 90°); Theorem 2: in a cyclic quadrilateral opposite angles sum to 180°; Theorem 3 (converse): if opposite angles sum to 180°, a circle can be circumscribed; Theorem 4: in a circumscribed quadrilateral the sums of lengths of opposite sides are equal; Theorem 5 (converse) | Kazakhstan, Geometry 9 (Shynybekov, Atamura 2019), Chapter 4 Circle. Polygons, §4.3 inscribed and circumscribed quadrilaterals, pp.126–162 |
@@ -112,6 +114,11 @@ maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 | Inscribing and circumscribing circles of triangles — incentre (angle bisectors), circumcentre (perpendicular bisectors), construction steps | South Sudan, Primary Mathematics — Pupil's Book 8, Unit 3 §3.1, printed pp. 47–56 |
 | The circle (arcs, chords, central angles, tangents); triangle and circle (circumscribed/inscribed circles, intersecting-chords theorem); angles and circle (inscribed angle, tangent angle, cyclic quadrilateral) | Iraq, Grade 9 student book, Ch5 L5-4 the circle p.124, L5-5 triangle and circle p.128, L5-6 angles and circle p.132 (spot-check p.134: m∠ADB = ½(102 + 44) = 73°) |
 | Circle theorem — angle in a semicircle (Thales) | Iraq, Grade 11 Scientific student book, Ch7 p.187: circle theorem (AB a diameter, CD⊥AB, C on circle; ∠ACB = 90°, Thales) |
+| Radius and chords (circle theorems) | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed pp. 105–107 |
+| Tangents to a circle | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed pp. 107–109 |
+| Angles in a circle 1 (incl. alternate segment theorem: angle BAT = angle ACB) | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed pp. 109–111 |
+| Angles in a circle 2 (cyclic quadrilaterals: opposite angles sum to 180°) | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed pp. 111–113 |
+| Applying the circle theorems; equation of a tangent to a circle at a point (plan 59) | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed p. 104 |
 
 | Parts of a circle; diameter and chords; arcs; inscribed and central angles; angle on a semicircle (90°); cyclic quadrilaterals; concyclic points; circumcircle, incircle and excircle of a triangle; secant and tangent; arc length; sector and segment area | Bangladesh, *Mathematics, Class Eight*, Exp 7 Ins and outs of circles, printed pp. 147–180 |
 
@@ -202,7 +209,7 @@ maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 | Lesson 56 intersecting chords: AO·OB = CO·OD (Th. 1, proved); tangent–secant: PA² = PB·PC (Th. 2, proved); two secants from one external point | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 126–127 |
 | Lesson 57 power of a point: inside the circle AP·PB = R² − p² (Th. 1, proved); outside PA·PB = p² − R² (Th. 2, proved) | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 128–129 |
 
-**Acceptance count: taught in 26 countries (Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Uzbekistan).** Kazakhstan carries the Iran states the inscribed-angle and tangent–radius facts in Grade 8 and develops the circle theorems by guided proof — power of a point and cyclic quadrilaterals included — in Grade 11 Geometry (2).
+**Acceptance count: taught in 27 countries (Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Uzbekistan, Albania).** Kazakhstan carries the Iran states the inscribed-angle and tangent–radius facts in Grade 8 and develops the circle theorems by guided proof — power of a point and cyclic quadrilaterals included — in Grade 11 Geometry (2).
 fullest treatment — the inscribed-angle theorem with all
 cases, the tangent–chord angle, the inside/outside angle
 theorems, the three segment products, cyclic and circumscribed
@@ -237,3 +244,5 @@ India stocks circle theorems from Mathematics Class 9–10: equal chords; tangen
 
 
 Mongolia enters through its ministry textbooks Математик VIII, IX, X (Grades 8, 9, 10): definition; proof.
+
+Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 11 (teacher's book): Radius and chords (circle theorems); Tangents to a circle; Angles in a circle 1 (incl. alternate segment theorem: angle BAT = angle ACB); Angles in a circle 2 (cyclic quadrilaterals: opposite angles sum to 180°); Applying the circle theorems; equation of a tangent to a circle at a point (plan 59).

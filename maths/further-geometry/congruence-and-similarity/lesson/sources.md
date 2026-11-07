@@ -1,6 +1,6 @@
 # Sources — Congruence and similarity
 
-countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador
+countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania
 
 Every part traces to its book and page.
 
@@ -184,6 +184,10 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 
 **Book 92:** *Matemática, Grade 10 student book (10mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-33-0 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 93:** *Libër Mësuesi Matematika 9* (teacher's book) — Albania, Dituri Malaj and Shpresa Bici, Mediaprint, Tiranë, Botimi i parë (first edition) 2018, ISBN 978-9928-08-355-5. Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 94:** *Libër Mësuesi Matematika 11* (teacher's book) — Albania, Afërdita Hysa, Mediaprint, Tiranë, Botimi i parë (first edition) 2017; two different ISBNs are printed in the one copy — imprint 978-9928-08-309-8 and CIP 978-9928-08-299-2 — both carried as printed, unresolved. Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Congruent = exact fit by matching sides and vertices; triangle congruence tests SSS, SAS, ASA, RHS; similarity by matching sides and vertices; similar-triangle properties; area scale k² and volume scale k³; the scout measuring a tree's height by similar triangles | Libya, Grade 9, Chapter 8 "Congruency and Similarity", opener p.156; 8-1 congruence p.157; 8-2 congruent triangles p.162; 8-3 similarity p.172; 8-4 similar triangles p.173; 8-5 applications of similarity p.179; 8-6 area of similar shapes p.182; 8-7 volume of similar shapes p.185; summary p.189 |
@@ -219,6 +223,10 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Congruence and similarity (first meeting) | Iraq, Grade 4 student book, Ch9 L3 congruence and similarity p.168 |
 | Congruence and similarity; triangle congruence | Iraq, Grade 7 student book, Ch5 L5-5 congruence and similarity p.122; Grade 8 student book, Ch5 L5-2 triangle congruence p.102 |
 | Triangles — similarity, medians, centroid 2:1; proportion and measurement in triangles (Thales, dilation in the coordinate plane) | Iraq, Grade 9 student book, Ch5 L5-2 triangles (similarity, medians, centroid 2:1) p.116, L5-3 proportion and measurement in triangles (Thales, dilation in the coordinate plane) p.120 |
+| Congruent figures (listed in annual/trimester plans; no separate lesson plan in the plans section) | Albania, Libër Mësuesi Matematika 9 (teacher's book — teacher evidence), printed p. 26 |
+| Similarity of triangles; scale factor and real lengths | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed pp. 40–42 |
+| More similarity: area ratio = square of the scale factor (plan 24; answers incl. perimeter 54 m, area 135 m²) | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed p. 43 |
+| Similarity in 3D solids: volume ratio = cube of the scale factor | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed pp. 44–46 |
 
 | Congruence and similarity through leaves, books and photos; paper aeroplane; the game of four sticks | Bangladesh, *Mathematics, Class Seven*, Exp 6 Congruence and Similarity, printed pp. 125–140 |
 | Similar triangles; Pythagoras' theorem; ratios in triangles; quadrilaterals | Bangladesh, *Mathematics, Class Eight*, Exp 5 Triangles and Quadrilaterals, printed pp. 93–124 |
@@ -409,7 +417,7 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Scale factor; similarity criteria AA, side-angle-side, SSS (shared core) | Ecuador, Matemática, Grade 10 student book, printed p. 115 |
 | Similar and congruent triangle pairs; constructions (shared core) | Ecuador, Matemática, Grade 10 student book, printed pp. 116–117 |
 
-**Acceptance count: taught in 33 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador).**.** Iran matches congruent figures by superposition in Grade 7, states the SSS, SAS and ASA criteria in Grade 8, proves congruence and meets similar figures in Grade 9, and proves Thales' theorem with the AA, SAS and SSS similarity criteria in Grade 10 Geometry (1).
+**Acceptance count: taught in 34 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania).**.** Iran matches congruent figures by superposition in Grade 7, states the SSS, SAS and ASA criteria in Grade 8, proves congruence and meets similar figures in Grade 9, and proves Thales' theorem with the AA, SAS and SSS similarity criteria in Grade 10 Geometry (1).
 Libya carries the fullest single treatment — congruence tests
 including RHS, similarity, applications, and the k² area and k³
 volume rules in one chapter (Grade 9, Chapter 8, pp.156–193).
@@ -449,3 +457,5 @@ Mongolia enters through its ministry textbooks Математик VI, VII, VIII,
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Conciencia Matemática* (Grade 8) and *La Matemática de la Belleza* (Grade 9). From its books: from Grade 8: definition — congruent figures: same shape and size regardless of position/orientation; similar figures: same shape, any size; from Grade 9: similarity — similar figures: same shape, different size; scale factor; similarity of triangles defined by congruent corresponding angles and proportional corresponding sides.
 
 Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 7: congruent figures; congruence of triangles: SAS case; congruence of triangles: ASA case; congruence of triangles: SSS case; congruence of right-angled triangles (RHS case); from Grade 8: similar figures; similar polygons; parallels cut at equal distances; Thales' theorem and its converse; Thales' theorem in a triangle; similarity cases of triangles; chapter key points and exercises (similarity).
+
+Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 9 (teacher's book): Congruent figures (listed in annual/trimester plans; no separate lesson plan in the plans section). from Grade 11 (teacher's book): Similarity of triangles; scale factor and real lengths; More similarity: area ratio = square of the scale factor (plan 24; answers incl. perimeter 54 m, area 135 m²); Similarity in 3D solids: volume ratio = cube of the scale factor.

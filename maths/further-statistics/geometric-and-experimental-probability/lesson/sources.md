@@ -1,6 +1,6 @@
 # Sources — Geometric and Experimental Probability
 
-countries: Kazakhstan, Jordan, Nicaragua, Rwanda, India, Mongolia, Afghanistan
+countries: Kazakhstan, Jordan, Nicaragua, Rwanda, India, Mongolia, Afghanistan, Albania
 
 Every part traces to its book and page.
 
@@ -18,6 +18,12 @@ Every part traces to its book and page.
 **Book 10:** *Математик VIII (Mathematics, Grade 8)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 11:** *Математик IX (Mathematics, Grade 9)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 12:** *ریاضی صنف ۱۲ (Mathematics, Grade 12)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Held complete through printed p. 280; a final printed p. 281 may exist beyond the held copy, and nothing is cited from it. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 13:** *Libër Mësuesi Matematika 8* (teacher's book) — Albania, Dituri Malaj (the pupil text translated and adapted by Llukan Puka and Adrian Naço), Mediaprint, Tiranë, Botimi i parë (first edition) 2017, ISBN 978-9928-08-299-2 (its CIP states “105 f.” against the held copy's 123 printed pages). Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 14:** *Libër Mësuesi Matematika 9* (teacher's book) — Albania, Dituri Malaj and Shpresa Bici, Mediaprint, Tiranë, Botimi i parë (first edition) 2018, ISBN 978-9928-08-355-5. Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 15:** *Libër Mësuesi Matematika 11* (teacher's book) — Albania, Afërdita Hysa, Mediaprint, Tiranë, Botimi i parë (first edition) 2017; two different ISBNs are printed in the one copy — imprint 978-9928-08-309-8 and CIP 978-9928-08-299-2 — both carried as printed, unresolved. Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -37,10 +43,13 @@ Every part traces to its book and page.
 | Practical — experimental probability: shagai bag trials at 30/100/200 throws; relative-frequency tables | Mongolia, Математик VIII (Grade 8), printed p. 41 |
 | Practical — shagai-tossing: relative frequency = frequency ÷ trials, pooled class results, log-scale plot | Mongolia, Математик VIII (Grade 8), printed p. 176 |
 | History — Buffon's needle mentioned | Mongolia, Математик IX (Grade 9), printed p. 145 |
+| .4 Experimental probability (relative frequency; 17 in 500 chocolates discussion) (plan 84) | Albania, Libër Mësuesi Matematika 8 (teacher's book — teacher evidence), printed p. 72 |
+| Estimating probability from experiments/survey results; relative frequency | Albania, Libër Mësuesi Matematika 9 (teacher's book — teacher evidence), printed p. 94 |
+| Experimental probability and relative frequency vs theoretical probability (plan 4) | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed p. 17 |
 
 | Probability in continuous spaces: length, area and volume ratios | Afghanistan, Mathematics Grade 12 (Dari), printed pp. 266–267 |
 
-**Acceptance count: taught in 7 countries (Kazakhstan, Jordan, Nicaragua, Rwanda, India, Mongolia, Afghanistan).** Kazakhstan carries both halves across its four Grade 9 algebra books — geometric probability in all four (Yelemessov's dartboard, Shynybekov's meeting problem, Abylkasymova's three measures, Soltan's broken stick at 1/4) and the frequency definition in three of them, Yelemessov's book honestly recorded as having no statistical definition. Jordan carries geometric probability as a named closing lesson with examined segment items. Nicaragua carries the experimental half as a taught contrast — theoretical against frequentist — with its 500-toss coin experiment.
+**Acceptance count: taught in 8 countries (Kazakhstan, Jordan, Nicaragua, Rwanda, India, Mongolia, Afghanistan, Albania).** Kazakhstan carries both halves across its four Grade 9 algebra books — geometric probability in all four (Yelemessov's dartboard, Shynybekov's meeting problem, Abylkasymova's three measures, Soltan's broken stick at 1/4) and the frequency definition in three of them, Yelemessov's book honestly recorded as having no statistical definition. Jordan carries geometric probability as a named closing lesson with examined segment items. Nicaragua carries the experimental half as a taught contrast — theoretical against frequentist — with its 500-toss coin experiment.
 
 Rwanda stocks the experimental half of this lesson in Primary 5 — chance found from recorded coin and dice results in the pupil's book, with the teacher's guide contrasting experimental probability (6 heads in 10 tosses = 0.6) against the theoretical 1/2; Rwanda teaches no geometric probability in the held books.
 
@@ -50,3 +59,5 @@ India enters geometric and experimental probability from Mathematics Class 9: ex
 Mongolia enters through its ministry textbooks Математик VIII, IX (Grades 8, 9): practical; history.
 
 Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 12: probability in continuous spaces: length, area and volume ratios.
+
+Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 8 (teacher's book): .4 Experimental probability (relative frequency; 17 in 500 chocolates discussion) (plan 84). from Grade 9 (teacher's book): Estimating probability from experiments/survey results; relative frequency. from Grade 11 (teacher's book): Experimental probability and relative frequency vs theoretical probability (plan 4).

@@ -1,6 +1,6 @@
 # Sources — Volume and Surface Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania
 
 Every part traces to its book and page.
 
@@ -313,6 +313,14 @@ READ + CITATION CHECK PASSED 2026-11-05).
 
 **Book 146:** *Matemática, Grade 13 student book (3ro BGU, Tercero de Bachillerato)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-31-6 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 147:** *Libër Mësuesi Matematika 5* (teacher's book) — Albania, Grup autorësh (a group of authors), translated and adapted by Emiralda Yzeiri and Erjona Saqe, Mediaprint, Tiranë, Botimi i parë (first edition) 2019, ISBN 978-9928-08-398-2. Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 148:** *Libër Mësuesi Matematika 8* (teacher's book) — Albania, Dituri Malaj (the pupil text translated and adapted by Llukan Puka and Adrian Naço), Mediaprint, Tiranë, Botimi i parë (first edition) 2017, ISBN 978-9928-08-299-2 (its CIP states “105 f.” against the held copy's 123 printed pages). Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 149:** *Libër Mësuesi Matematika 9* (teacher's book) — Albania, Dituri Malaj and Shpresa Bici, Mediaprint, Tiranë, Botimi i parë (first edition) 2018, ISBN 978-9928-08-355-5. Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 150:** *Libër Mësuesi Matematika 10 — Pjesa e parë* (teacher's book) — Albania, Mediaprint, Tiranë; no authors, year, edition or ISBN are printed anywhere in the held copy (it has no imprint or CIP page — nothing is imported from any other record). Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The prism and the pyramid — naming (p.91) | Jordan, Grade 5 Student Book Term 2, Unit 9, L7, p.91 |
@@ -367,6 +375,13 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Volumes of cube and cuboid; lateral and total surface area of solids; scale effect on volume and total area; surface area and volumes of composite solids | Iraq, Grade 7 student book, Ch6 L6-2 volumes of cube and cuboid p.135, L6-3 lateral and total surface area of solids p.139, L6-4 scale effect on volume and total area p.143, L6-5 surface area and volumes of composite solids p.147 — with two book errors taught corrected: [6-4] Q2 p.194, cube side 3 cm enlarged k = 3, correct total surface area 486 cm² (none of the printed options is correct); [6-5] Q1 p.195, three identical cubes side 2 cm stacked, correct total surface area 56 cm² (none of the printed options is correct) |
 | Cylinder and sphere — properties, surface area, volume; surface area and volume of pyramid and cone, composite solids | Iraq, Grade 8 student book, Ch5 L5-5 cylinder and sphere — properties, surface area, volume p.114; Grade 9 student book, Ch5 L5-1 surface area and volume of pyramid and cone, composite solids p.112 |
 | Volumes of revolution — opener/marker level only | Iraq, Grade 12 Scientific student book, Ch4 [4-9] volumes of revolution (contents p.4, chapter opener p.148 and lesson title only; worked examples in Chapters 3–6 were not individually read) |
+| Liquid volume/capacity (litre, millilitre); exercises with liquid volume | Albania, Libër Mësuesi Matematika 5 (teacher's book — teacher evidence), printed pp. 31–32, 94 |
+| .3 Volume of cube and cuboid (plan 12) | Albania, Libër Mësuesi Matematika 8 (teacher's book — teacher evidence), printed p. 26 |
+| .5 Surface area of cube and cuboid (plan 14) | Albania, Libër Mësuesi Matematika 8 (teacher's book — teacher evidence), printed p. 28 |
+| Volume and surface area of a right prism and of a cylinder; cross-section of a prism | Albania, Libër Mësuesi Matematika 9 (teacher's book — teacher evidence), printed p. 79 |
+| Volume and surface area of prisms | Albania, Libër Mësuesi Matematika 10 (Pjesa e parë) (teacher's book — teacher evidence), printed p. 41 |
+| Cylinders and spheres: volume and surface area KEY error in the ditare's printed answer: the sphere volume is printed “V = 2048π/3 = 1100 cm³” — taught corrected: 2048π/3 ≈ 2145 cm³ (2150 cm³ to 3 s.f.); the companion surface-area answer 256π = 804 cm² is correct. | Albania, Libër Mësuesi Matematika 10 (Pjesa e parë) (teacher's book — teacher evidence), printed pp. 42, 146 |
+| Pyramids and cones: volume and surface area | Albania, Libër Mësuesi Matematika 10 (Pjesa e parë) (teacher's book — teacher evidence), printed p. 42 |
 
 | Volume in litres and cubic units (volume of solids by formula is NOT taught here) | Bangladesh, *Elementary Mathematics, Class Five*, Ch 11 Measurement §11.3, printed pp. 115–132 |
 | Measuring the planes of a box; making 3-D models | Bangladesh, *Mathematics, Class Six*, Ch 10 The Story of Geometric Shapes, printed pp. 190–221 |
@@ -575,7 +590,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Volumes: cube, pyramid in a prism, sloping-floor pool (shared core) | Ecuador, Matemática, Grade 10 student book, printed pp. 137–138 |
 | Cylinder cistern of 100 litres: total area (with lid) as a function of the radius, and its graph | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 27 |
 
-**Acceptance count: taught in 37 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador).**.** Sierra Leone carries the cleanest Iran gives the cuboid's volume in Grade 5, prism volumes and the cylinder's lateral area in Grade 7, and the sphere, pyramid and cone in Grade 9; its Grade 10 Geometry (1) treats the solids themselves without computing their volumes.
+**Acceptance count: taught in 38 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania).**.** Sierra Leone carries the cleanest Iran gives the cuboid's volume in Grade 5, prism volumes and the cylinder's lateral area in Grade 7, and the sphere, pyramid and cone in Grade 9; its Grade 10 Geometry (1) treats the solids themselves without computing their volumes.
 ladder — cubes, prisms and cylinders by cross-section × height,
 then surface areas by the net, in JSS 2. Egypt carries volume by
 counting unit cubes through V = l × w × h in Grade 5 and the
@@ -622,3 +637,5 @@ Mongolia enters through its ministry textbooks Математик III, IV, V, VI
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Hecho en Venezuela* (Grade 6), *Conciencia Matemática* (Grade 8), *La Matemática de la Belleza* (Grade 9) and *La Matemática y el Vivir Bien* (Grade 11). From its books: from Grade 6: unit cubes — Volume as space occupied, measured in unit cubes; mm³, cm³, dm³, m³ as cubes of that edge; from Grade 9: volume by experiment — a cone holds exactly one third of the same-base, same-height cylinder (sand filling); the book also derives the sphere as 2/3 of the circumscribing cylinder; from Grade 11: a solid of revolution defined: a plane region rotated about an axis; cylinder, cone and sphere generated by rotating a rectangle, a right triangle and a semicircle (hands-on card constructions); axis, height, radius, generatrix.
 
 Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 6: units of volume and their conversions; the cube: total surface area and volume; the cuboid and its volume; from Grade 8: area and volume of a cuboid; diagonal of a cuboid and of a cube; area and volume of a prism; area and volume of a cylinder; area and volume of a pyramid; area and volume of a cone; surface area and volume of a sphere; chapter key points and exercises (areas and volumes).
+
+Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 5 (teacher's book): Liquid volume/capacity (litre, millilitre); exercises with liquid volume. from Grade 8 (teacher's book): .3 Volume of cube and cuboid (plan 12); .5 Surface area of cube and cuboid (plan 14). from Grade 9 (teacher's book): Volume and surface area of a right prism and of a cylinder; cross-section of a prism. from Grade 10 (teacher's book): Volume and surface area of prisms; Cylinders and spheres: volume and surface area KEY error in the ditare's printed answer: the sphere volume is…; Pyramids and cones: volume and surface area.

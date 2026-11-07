@@ -1,6 +1,6 @@
 # Sources — Loci: paths of moving points
 
-countries: Sierra Leone, Kazakhstan, Iran, Greece, Malaysia, Mongolia, Uzbekistan
+countries: Sierra Leone, Kazakhstan, Iran, Greece, Malaysia, Mongolia, Uzbekistan, Albania
 
 Every part traces to its book and page.
 
@@ -19,6 +19,10 @@ Every part traces to its book and page.
 **Book 10:** *Geometriya 7 — Metodik qo'llanma (teacher's methodological guide for the Grade 7 Geometriya course)* — Uzbekistan, Ministry of Public Education; A. Azamov, B. Haydarov, E. Sariqov, A. Qo'chqorov, U. Sag'diyev; Uzbek (Latin script); «Yangiyul poligraph service», Tashkent 2009, ISBN 978-9943-366-15-2. TEACHER GUIDE — guide evidence only: a true companion to the Grade 7 student book (its sample 68-lesson plan matches the student book's §§1–68 exactly); it never counts as, or substitutes for, a pupil's book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 11:** *Geometriya (Геометрия), Grade 8 student book* — Uzbekistan, Ministry of Public Education; A. A. Rahimkariev; Russian (Cyrillic); «Yangiyo'l Poligraph Service», Tashkent 2006; no ISBN is printed anywhere in the book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 12:** *Libër Mësuesi Matematika 8* (teacher's book) — Albania, Dituri Malaj (the pupil text translated and adapted by Llukan Puka and Adrian Naço), Mediaprint, Tiranë, Botimi i parë (first edition) 2017, ISBN 978-9928-08-299-2 (its CIP states “105 f.” against the held copy's 123 printed pages). Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 13:** *Libër Mësuesi Matematika 10 — Pjesa e parë* (teacher's book) — Albania, Mediaprint, Tiranë; no authors, year, edition or ISBN are printed anywhere in the held copy (it has no imprint or CIP page — nothing is imported from any other record). Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -47,11 +51,15 @@ Every part traces to its book and page.
 | (TG) Dars 25–26 lesson plans: perpendicular bisector property (§25) and the practical measuring lesson (§26, lake width outdoors with rope, pegs and mallet) | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 72 |
 | (TG) Dars 52 lesson plan: angle-bisector equidistance property (§52) | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 114 |
 | §2 Тема 10 Shortest-path (gas-pipeline station) problem posed: minimise AC + CB for C on a line | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 33 |
+| .4 Constructing figures 3 / loci (vende gjeometrike) and Project 3 problem set: signal-coverage loci with scale drawing (plan 118; projects) | Albania, Libër Mësuesi Matematika 8 (teacher's book — teacher evidence), printed pp. 82–83, 99 |
+| Loci: points satisfying conditions (circle x² + y² = 4 cited in ditare plan 74) | Albania, Libër Mësuesi Matematika 10 (Pjesa e parë) (teacher's book — teacher evidence), printed p. 46 |
 
-**Acceptance count: taught in 7 countries (Sierra Leone, Kazakhstan, Iran, Greece, Malaysia, Mongolia, Uzbekistan).**
+**Acceptance count: taught in 8 countries (Sierra Leone, Kazakhstan, Iran, Greece, Malaysia, Mongolia, Uzbekistan, Albania).**
 Sierra Leone carries the fullest course — five pupil-handbook lessons in SSS 2 Term 2 that construct the four standard loci one rule at a time and close with mixed practice. Kazakhstan carries the locus as named theory in Grade 7: Turapbekov's book defines it as a topic, and Smirnov's book gives geometric loci their own section immediately before its construction problems, which is the order this lesson follows. Iran carries the locus as a proving tool in Grade 12: its Geometry (3) book recalls the two bisector loci with proofs, proves the circle as a locus in both directions, and builds a catalogue of standard loci at the head of its conic-sections chapter — the same catalogue idea this lesson uses to close. Greece carries loci inside circle geometry in Grades 10–11: its Euclidean Geometry Volume A treats the basic loci in the circle — the arc subtending a known angle — in its inscribed-figures chapter, and uses loci in geometric constructions there.
 
 Malaysia teaches loci whole in Form 3 — all five standard loci constructed, then combined — and returns in Additional Mathematics Form 4 to write loci as equations, where the constant-ratio locus turns out to be a circle.
 
 
 Mongolia enters through its ministry textbook Математик X (Grade 10): a locus defined as the set of points meeting a condition, met through a horse tethered on a 12 m rope — the points at a fixed distance from a point form a circle, and the points equidistant from two intersecting lines form both bisectors.
+
+Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 8 (teacher's book): .4 Constructing figures 3 / loci (vende gjeometrike) and Project 3 problem set: signal-coverage loci with…. from Grade 10 (teacher's book): Loci: points satisfying conditions (circle x² + y² = 4 cited in ditare plan 74).

@@ -1,6 +1,6 @@
 # Sources — Coordinates and graphs
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador
+countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania
 
 Every part traces to its book and page.
 
@@ -209,6 +209,14 @@ textbook.
 
 **Book 131:** *Matemática, Grade 10 student book (10mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-33-0 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 132:** *Libër Mësuesi Matematika 5* (teacher's book) — Albania, Grup autorësh (a group of authors), translated and adapted by Emiralda Yzeiri and Erjona Saqe, Mediaprint, Tiranë, Botimi i parë (first edition) 2019, ISBN 978-9928-08-398-2. Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 133:** *Libër Mësuesi Matematikë 6* (teacher's book) — Albania, Tony Cotton, Caroline Clissold, Linda Glithro, Cherri Moseley, Janet Rees, translated and adapted by Irma Çaça and Fatbardha Gjoni, Mediaprint, Tiranë, Botimi i parë (first edition) 2015, ISBN 978-9928-08-201-5 (the Albanian adaptation of Oxford International Primary Maths 6 Teacher's Guide; its imprint original-title line misprints “Maths 1” for Maths 6). Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 134:** *Libër Mësuesi Matematika 8* (teacher's book) — Albania, Dituri Malaj (the pupil text translated and adapted by Llukan Puka and Adrian Naço), Mediaprint, Tiranë, Botimi i parë (first edition) 2017, ISBN 978-9928-08-299-2 (its CIP states “105 f.” against the held copy's 123 printed pages). Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 135:** *Libër Mësuesi Matematika 12* (teacher's book) — Albania, Grup autorësh (a group of authors), the teaching text translated and adapted by Llukan Puka and Adrian Naço, Mediaprint, Tiranë, Botimi i parë (first edition) 2018, ISBN 978-9928-08-353-1 (its CIP titles the book “Matematika 12 : me zgjedhje”). One teacher's book serving two pupil courses: the base Matematika 12 and the elective Matematika me zgjedhje 12. Teacher evidence only — no pupil's book is in hand for either course. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The coordinate plane in all four quadrants with negative coordinates | Jordan, Grade 6 Term 1, Unit 4 "Transformations and geometric constructions", L1 The coordinate plane p.92 |
@@ -235,6 +243,11 @@ textbook.
 | Distance between two points on the Cartesian plane worked as a hypotenuse, and the distance formula derived from Pythagoras in the enrichment (its first printed line taught corrected as AB² = AC² + BC²) | Indonesia, Grade 8 Merdeka student book, Bab 2, printed pp. 85–91 |
 | Equation of the circle; position of a point/line relative to a circle; tangent-line equations | Indonesia, Grade 12 Tingkat Lanjut, Bab 1, printed pp. 1–64 |
 | Circle equations in the Revisi edition: centre–radius and general forms with centre/radius recovered from A, B, C; position of a point and of a line relative to a circle; tangent-line equations — at a point of tangency, with a given gradient, and from a point outside the circle | Indonesia, Grade 12 Tingkat Lanjut Revisi 2025 student book, Bab 1, printed pp. 1–67 |
+| Coordinates (first quadrant grid work) | Albania, Libër Mësuesi Matematika 5 (teacher's book — teacher evidence), printed p. 33 |
+| Opener + 7A: reading and plotting coordinates on the coordinate grid (all four quadrants in test work) (plans 68–70) | Albania, Libër Mësuesi Matematikë 6 (teacher's book — teacher evidence), printed pp. 8, 141–144 |
+| .1 Direct proportion in graphs (plan 73) | Albania, Libër Mësuesi Matematika 8 (teacher's book — teacher evidence), printed p. 65 |
+| : applying straight-line graphs in science (physics, chemistry, biology) (portfolio project, term 2) | Albania, Libër Mësuesi Matematika 8 (teacher's book — teacher evidence), printed p. 81 |
+| Pikat e prerjes së grafikëve (Intersection points of graphs) used to solve equations | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed p. 6 |
 
 | Direct proportion as y = ax, the Cartesian plane, graph of direct proportionality (a > 0 and a < 0), rule of three | Nicaragua, Grade 6 student book, Unit 11, printed pp. 120–141 |
 | Concept of function; direct proportionality as y = ax and inverse proportionality as y = a/x, with graphs (a > 0 and a < 0); the Cartesian plane; restricted domain | Nicaragua, Grade 7 student book, Unit 5, printed pp. 87–124 |
@@ -413,7 +426,7 @@ textbook.
 | Constant-speed motion as a linear function (shared core) | Ecuador, Matemática, Grade 10 student book, printed p. 94 |
 | Linear functions: slope and intercepts table (shared core) | Ecuador, Matemática, Grade 10 student book, printed p. 99 |
 
-**Acceptance count: taught in 33 countries (Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador).**.** South Africa carries the
+**Acceptance count: taught in 34 countries (Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania).**.** South Africa carries the
 plainest gradient teaching — gradient as change in y over
 change in x, with intercepts named, built from tables of
 ordered pairs. Egypt carries the slope rules (m = tan θ,
@@ -454,3 +467,5 @@ India enters coordinates and graphs from Mathematics Class 8–9: kinds of graph
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Contando con los recursos* (Grade 4), *Matemática Para La Vida* (Grade 7), *Conciencia Matemática* (Grade 8) and *Naturaleza Matemática* (Grade 10). From its books: from Grade 4: grid references — city-grid coordinates by letter + number (Farmacia D5, Sala de Internet A6, Plaza C3); a note on GPS and satellites; from Grade 8: definition — one-dimensional (linear) coordinate system on a line; coordinate of a point A(−3), B(−2); from Grade 10: a speed–distance relation plotted in the first quadrant; reading a graph for information.
 
 Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 8: a point in the plane; coordinates of a point; the rectangular coordinate system; from Grade 10: ordered pairs and the Cartesian plane; quadrants.
+
+Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 5 (teacher's book): Coordinates (first quadrant grid work). from Grade 6 (teacher's book): Opener + 7A: reading and plotting coordinates on the coordinate grid (all four quadrants in test work) (plans…. from Grade 8 (teacher's book): .1 Direct proportion in graphs (plan 73); : applying straight-line graphs in science (physics, chemistry, biology) (portfolio project, term 2). from Grade 12 (teacher's book): Pikat e prerjes së grafikëve (Intersection points of graphs) used to solve equations.

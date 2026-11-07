@@ -1,6 +1,6 @@
 # Sources — Sine and cosine rules
 
-countries: Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Iraq, Cambodia, Kuwait, Iran, China, Pakistan, Malaysia, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan
+countries: Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Iraq, Cambodia, Kuwait, Iran, China, Pakistan, Malaysia, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Albania
 
 Every part traces to its book and page.
 
@@ -94,6 +94,10 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 
 **Book 38:** *Geometriya (Геометрия), Grade 9 student book* — Uzbekistan, Ministry of Public Education; B. Haydarov, E. Sarikov, A. Kuchkarov, ed. A. Azamov; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2006, ISBN 05-89890-136-1 (as printed). Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 39:** *Libër Mësuesi Matematika 11* (teacher's book) — Albania, Afërdita Hysa, Mediaprint, Tiranë, Botimi i parë (first edition) 2017; two different ISBNs are printed in the one copy — imprint 978-9928-08-309-8 and CIP 978-9928-08-299-2 — both carried as printed, unresolved. Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 40:** *Libër Mësuesi Matematika 12* (teacher's book) — Albania, Grup autorësh (a group of authors), the teaching text translated and adapted by Llukan Puka and Adrian Naço, Mediaprint, Tiranë, Botimi i parë (first edition) 2018, ISBN 978-9928-08-353-1 (its CIP titles the book “Matematika 12 : me zgjedhje”). One teacher's book serving two pupil courses: the base Matematika 12 and the elective Matematika me zgjedhje 12. Teacher evidence only — no pupil's book is in hand for either course. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Cosine rule as Theorem 1 (all three forms), proved by vectors; Pythagoras as a special case; comparing a² with b² + c² decides acute/right/obtuse; sine rule as Theorem 3, a/sin α = b/sin β = c/sin γ = 2R, proved through S = ½bc sin α and R = abc/(4S); solving triangles — the four standard cases as algorithms with discussion; the river-width measurement problem solved by sine + cosine rules in sequence | Kazakhstan, Geometry 9 (Shynybekov, Atamura 2019), Chapter 3 Solving triangles, §3.1 cosine rule and sine rule; §3.2 solving triangles; §3.3 applications, pp.108–125 |
@@ -147,6 +151,10 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Cosine rule for a third side; rearranged forms to find angles | Mongolia, Математик X (Grade 10), printed p. 107 |
 | Proof — sine rule a/sin α = b/sin β = c/sin γ = 2R proved via the circumcircle (three cases) | Mongolia, Математик X (Grade 10), printed p. 109 |
 | Sine rule with a calculator; two possible angle values (ambiguous case) | Mongolia, Математик X (Grade 10), printed p. 110 |
+| Area of a triangle (½ab sin C) and the sine rule | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed pp. 54–56 |
+| The cosine rule and problems (ambiguous case discussed in tests) | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed pp. 56–58 |
+| Teorema e kosinusit (Cosine rule for an unknown side or angle) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 7, 12 |
+| Teorema e sinusit (Sine rule for an unknown side or angle) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 7, 12 |
 
 | Cosine rule stated in all three forms a² = b² + c² − 2bc cos α etc. | Venezuela, Naturaleza Matemática (Grade 10), printed p. 214 |
 | Cosine rule worked: AC² = 4.77² + 12.46² − 2(4.77)(12.46)cos 97.55° = 193.3, AC ≈ 13.9 | Venezuela, Naturaleza Matemática (Grade 10), printed p. 215 |
@@ -170,7 +178,7 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Lesson 33 deciding acute/right/obtuse from the sign of cos A; S = abc/(4R) and R = abc/(4S); Heron's formula used | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 76–77 |
 | Lesson 35 solving a triangle: the four standard cases worked (ASA, SAS, SSS with tables/computer calculator for inverse trig) | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 80–81 |
 
-**Acceptance count: taught in 24 countries (Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Iraq, Cambodia, Kuwait, Iran, China, Pakistan, Malaysia, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan).** Iran states and proves both the sine rule and the cosine rule in Grade 11 Geometry (2), and carries trigonometric identities and equations in Grade 11 Hesaban (1), Grade 12 Hesaban (2) and Grade 12 Mathematics (3) — the last naming the double-angle formulas explicitly.
+**Acceptance count: taught in 25 countries (Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Iraq, Cambodia, Kuwait, Iran, China, Pakistan, Malaysia, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Albania).** Iran states and proves both the sine rule and the cosine rule in Grade 11 Geometry (2), and carries trigonometric identities and equations in Grade 11 Hesaban (1), Grade 12 Hesaban (2) and Grade 12 Mathematics (3) — the last naming the double-angle formulas explicitly.
 Kazakhstan carries the fullest treatment — all three Grade 9
 Geometry books prove both rules (by vectors, by coordinates,
 by altitude) and work the standard solving cases, including
@@ -202,3 +210,5 @@ Mongolia enters through its ministry textbooks Математик X (Grade 10): 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Naturaleza Matemática* (Grade 10). From its books: from Grade 10: cosine rule stated in all three forms a² = b² + c² − 2bc cos α etc.
 
 Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 10: cosine rule (stated and used in the triangle-area chapter); from Grade 11: sine rule: proof (acute and obtuse cases) and solving triangles; cosine rule: proof and solving triangles; tangent rule for a triangle: statement and proof.
+
+Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 11 (teacher's book): Area of a triangle (½ab sin C) and the sine rule; The cosine rule and problems (ambiguous case discussed in tests). from Grade 12 (teacher's book): Teorema e kosinusit (Cosine rule for an unknown side or angle); Teorema e sinusit (Sine rule for an unknown side or angle).

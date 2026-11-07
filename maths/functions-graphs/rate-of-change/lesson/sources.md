@@ -1,6 +1,6 @@
 # Sources — Rate of Change
 
-countries: Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador
+countries: Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania
 
 Every part traces to its book and page.
 
@@ -16,6 +16,14 @@ Every part traces to its book and page.
 
 **Book 9:** *Matemática, Grade 10 student book (10mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-33-0 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 10:** *Libër Mësuesi Matematika 8* (teacher's book) — Albania, Dituri Malaj (the pupil text translated and adapted by Llukan Puka and Adrian Naço), Mediaprint, Tiranë, Botimi i parë (first edition) 2017, ISBN 978-9928-08-299-2 (its CIP states “105 f.” against the held copy's 123 printed pages). Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 11:** *Libër Mësuesi Matematika 9* (teacher's book) — Albania, Dituri Malaj and Shpresa Bici, Mediaprint, Tiranë, Botimi i parë (first edition) 2018, ISBN 978-9928-08-355-5. Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 12:** *Libër Mësuesi Matematika 10 — Pjesa e parë* (teacher's book) — Albania, Mediaprint, Tiranë; no authors, year, edition or ISBN are printed anywhere in the held copy (it has no imprint or CIP page — nothing is imported from any other record). Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 13:** *Libër Mësuesi Matematika 12* (teacher's book) — Albania, Grup autorësh (a group of authors), the teaching text translated and adapted by Llukan Puka and Adrian Naço, Mediaprint, Tiranë, Botimi i parë (first edition) 2018, ISBN 978-9928-08-353-1 (its CIP titles the book “Matematika 12 : me zgjedhje”). One teacher's book serving two pupil courses: the base Matematika 12 and the elective Matematika me zgjedhje 12. Teacher evidence only — no pupil's book is in hand for either course. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Rate of change of a quantity defined, opened with a school's admissions growing year by year | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 52 |
@@ -28,6 +36,11 @@ Every part traces to its book and page.
 | Rate of change of a quantity y = f(x): dy/dx as (change in y)/(change in x); related-rates problems (area of circle, volume of cube, ripple circles, rectangle) | India, Mathematics Class 12 Part I, printed p. 194 |
 | Applications — marginal cost and marginal revenue as rates of change (Examples 5–6) | India, Mathematics Class 12 Part I, printed p. 197 |
 | Average rate of change — Average velocity and average rate of change of a function over an interval | Mongolia, Математик XI (Grade 11), printed p. 118 |
+| .2 Gradient (koeficienti këndor) of a straight line (plan 74) | Albania, Libër Mësuesi Matematika 8 (teacher's book — teacher evidence), printed p. 66 |
+| Distance–time graphs; gradient as speed/rate of change; constant speed | Albania, Libër Mësuesi Matematika 9 (teacher's book — teacher evidence), printed p. 85 |
+| Rate of change on graphs: distance–time and speed–time graphs | Albania, Libër Mësuesi Matematika 10 (Pjesa e parë) (teacher's book — teacher evidence), printed p. 35 |
+| Funksionet rritëse dhe funksionet zbritëse (Increasing and decreasing functions) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 8, 14 |
+| Elective course: shpejtësitë e ndryshimit (Rates of change) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 36, 67 |
 
 | Definition — slope as rise/run from ramps: height ÷ horizontal projection (42/100 = 0,42 up to 176/100 = 1,76) | Venezuela, Conciencia Matemática (Grade 8), printed p. 97 |
 | Worked example — slope between (2007, 7.402) and (2009, 7.737): (7.737 − 7.402)/(2009 − 2007) = 167,5 per year, used for projections to 2013 (sum 32.623) | Venezuela, Conciencia Matemática (Grade 8), printed p. 98 |
@@ -39,7 +52,7 @@ Every part traces to its book and page.
 | §15 increasing and decreasing functions: formal definitions; y = x^r increases on x ≥ 0 for r > 0, decreases on x > 0 for r < 0 (proved) | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 82–83 |
 | Growth intervals of y = x + 2 and of an inverse-type relation; fuel use 9 litres per 80 km | Ecuador, Matemática, Grade 10 student book, printed p. 21 |
 
-**Acceptance count: taught in 7 countries (Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador).** Sudan's Grade 8 book teaches rate of change as a complete pre-calculus topic in its ratio-and-rate unit (the lesson runs printed pp. 52–55, with the constant-rate lesson closing at printed p. 58): defined from a growing school's admissions, worked on a child's height growth, signed for falling quantities, and tested for constancy in tables. No other read country's filing gives the average rate of change a standalone treatment of its own — elsewhere it appears as the opening step of the derivatives lesson, where it also lives — so this lesson is built at the size of its one source, and the derivatives lesson carries Sudan's two Grade 12 treatments of the same doorway.
+**Acceptance count: taught in 8 countries (Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania).** Sudan's Grade 8 book teaches rate of change as a complete pre-calculus topic in its ratio-and-rate unit (the lesson runs printed pp. 52–55, with the constant-rate lesson closing at printed p. 58): defined from a growing school's admissions, worked on a child's height growth, signed for falling quantities, and tested for constancy in tables. No other read country's filing gives the average rate of change a standalone treatment of its own — elsewhere it appears as the opening step of the derivatives lesson, where it also lives — so this lesson is built at the size of its one source, and the derivatives lesson carries Sudan's two Grade 12 treatments of the same doorway.
 
 India enters rate of change from Mathematics Class 11–12: average and instantaneous rate; rate of change of a quantity y = f(x): dy/dx as (change in y)/(change in x); related-rates problems (area of circle, volume of cube, ripple circles, rectangle).
 
@@ -49,3 +62,5 @@ Mongolia enters through its ministry textbooks Математик XI (Grade 11):
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Conciencia Matemática* (Grade 8) and *La Matemática de la Belleza* (Grade 9). From its books: from Grade 8: definition — slope as rise/run from ramps: height ÷ horizontal projection (42/100 = 0,42 up to 176/100 = 1,76); from Grade 9: average rate of change — VPT = (f(b) − f(a)) ÷ (b − a): cryotherapy (38,5 − 39) ÷ 25 = −0,02 °C/min, and −0,03 °C/min between minutes 5 and 15; the rate is the slope of the secant.
 
 Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 12: average rate of change; average velocity.
+
+Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 8 (teacher's book): .2 Gradient (koeficienti këndor) of a straight line (plan 74). from Grade 9 (teacher's book): Distance–time graphs; gradient as speed/rate of change; constant speed. from Grade 10 (teacher's book): Rate of change on graphs: distance–time and speed–time graphs. from Grade 12 (teacher's book): Funksionet rritëse dhe funksionet zbritëse (Increasing and decreasing functions); Elective course: shpejtësitë e ndryshimit (Rates of change).

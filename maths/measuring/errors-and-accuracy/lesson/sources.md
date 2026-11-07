@@ -1,6 +1,6 @@
 # Sources — Errors and Accuracy
 
-countries: Kazakhstan, Sierra Leone, Malaysia, India, Mongolia, Uzbekistan
+countries: Kazakhstan, Sierra Leone, Malaysia, India, Mongolia, Uzbekistan, Albania
 
 Every part traces to its book and page.
 
@@ -14,6 +14,14 @@ Every part traces to its book and page.
 **Book 7:** *Математик IX (Mathematics, Grade 9)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 8:** *Algebra (Алгебра), Grade 8 student book* — Uzbekistan, Ministry of Public Education; Sh. A. Alimov, A. R. Halmuhamedov, M. A. Mirzaahmedov; Russian (Cyrillic); «O'qituvchi», Tashkent 2006, ISBN 5-645-04563-7. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 9:** *Libër Mësuesi Matematikë 6* (teacher's book) — Albania, Tony Cotton, Caroline Clissold, Linda Glithro, Cherri Moseley, Janet Rees, translated and adapted by Irma Çaça and Fatbardha Gjoni, Mediaprint, Tiranë, Botimi i parë (first edition) 2015, ISBN 978-9928-08-201-5 (the Albanian adaptation of Oxford International Primary Maths 6 Teacher's Guide; its imprint original-title line misprints “Maths 1” for Maths 6). Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 10:** *Libër Mësuesi Matematika 9* (teacher's book) — Albania, Dituri Malaj and Shpresa Bici, Mediaprint, Tiranë, Botimi i parë (first edition) 2018, ISBN 978-9928-08-355-5. Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 11:** *Libër Mësuesi Matematika 10 — Pjesa e parë* (teacher's book) — Albania, Mediaprint, Tiranë; no authors, year, edition or ISBN are printed anywhere in the held copy (it has no imprint or CIP page — nothing is imported from any other record). Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 12:** *Libër Mësuesi Matematika 11* (teacher's book) — Albania, Afërdita Hysa, Mediaprint, Tiranë, Botimi i parë (first edition) 2017; two different ISBNs are printed in the one copy — imprint 978-9928-08-309-8 and CIP 978-9928-08-299-2 — both carried as printed, unresolved. Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -30,8 +38,12 @@ Every part traces to its book and page.
 | §21 estimating the error; writing x = a ± h; accuracy of measuring instruments | Uzbekistan, Algebra, Grade 8 (Russian), printed pp. 109–111 |
 | §23 relative error = absolute error ÷ |approximate value|, usually as a percentage | Uzbekistan, Algebra, Grade 8 (Russian), printed pp. 115–116 |
 | history of approximate computation: Babylonian tables, Ulugbek's school, al-Kashi's π to 17 correct digits | Uzbekistan, Algebra, Grade 8 (Russian), printed p. 122 |
+| : using the metre/ruler to measure accurately (to nearest mm/g) (plans 80–81) | Albania, Libër Mësuesi Matematikë 6 (teacher's book — teacher evidence), printed pp. 9, 158–160 |
+| Greatest/least possible values; error intervals and percentage error intervals (worked bounds answers printed p. 82) | Albania, Libër Mësuesi Matematika 9 (teacher's book — teacher evidence), printed p. 81 |
+| Units and accuracy; bounds of measurements | Albania, Libër Mësuesi Matematika 10 (Pjesa e parë) (teacher's book — teacher evidence), printed p. 40 |
+| Accuracy of measurements (bounds) opening the trigonometry chapter | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed pp. 47–48 |
 
-**Acceptance count: taught in 6 countries (Kazakhstan, Sierra Leone, Malaysia, India, Mongolia, Uzbekistan).** Kazakhstan carries absolute and relative error in two independent Grade 7 algebra books — Shynybekov's as an exercise set inside approximate numbers (§1.3, p.42), and Yelemessov's as taught approximation errors (Ch. 1, p.66, with approximation itself at p.62). Sierra Leone carries the senior-school half of the topic: percentage error when rounded values are used (SSS 2, L7, p.19) and degree of accuracy — choosing an appropriate degree of accuracy for given data (SSS 2, L8, p.22). No other read country's filing teaches errors and accuracy as its own topic; plain estimation and rounding live in the rounding-and-estimating lesson, not here.
+**Acceptance count: taught in 7 countries (Kazakhstan, Sierra Leone, Malaysia, India, Mongolia, Uzbekistan, Albania).** Kazakhstan carries absolute and relative error in two independent Grade 7 algebra books — Shynybekov's as an exercise set inside approximate numbers (§1.3, p.42), and Yelemessov's as taught approximation errors (Ch. 1, p.66, with approximation itself at p.62). Sierra Leone carries the senior-school half of the topic: percentage error when rounded values are used (SSS 2, L7, p.19) and degree of accuracy — choosing an appropriate degree of accuracy for given data (SSS 2, L8, p.22). No other read country's filing teaches errors and accuracy as its own topic; plain estimation and rounding live in the rounding-and-estimating lesson, not here.
 
 Malaysia carries degree of accuracy in Form 3 as the doorway into significant figures, and meets approximation again at the top end, where a small change in a quantity is estimated from its derivative.
 
@@ -39,3 +51,5 @@ India enters errors and accuracy from Math-Magic Class 5: estimating angles.
 
 
 Mongolia enters through its ministry textbook Математик IX (Grade 9): over-approximations and under-approximations — the bounds a rounded or measured value lies between.
+
+Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 6 (teacher's book): : using the metre/ruler to measure accurately (to nearest mm/g) (plans 80–81). from Grade 9 (teacher's book): Greatest/least possible values; error intervals and percentage error intervals (worked bounds answers printed…. from Grade 10 (teacher's book): Units and accuracy; bounds of measurements. from Grade 11 (teacher's book): Accuracy of measurements (bounds) opening the trigonometry chapter.

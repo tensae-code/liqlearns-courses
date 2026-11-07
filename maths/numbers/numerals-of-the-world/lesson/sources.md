@@ -1,6 +1,6 @@
 # Sources — Numerals of the World
 
-countries: Bangladesh, Cambodia, Ethiopia, Jordan, Kazakhstan, Laos, Nepal, Sierra Leone, South Africa, South Sudan, Vietnam, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador
+countries: Bangladesh, Cambodia, Ethiopia, Jordan, Kazakhstan, Laos, Nepal, Sierra Leone, South Africa, South Sudan, Vietnam, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania
 
 Every part traces to its book and page.
 
@@ -39,6 +39,8 @@ Every part traces to its book and page.
 
 **Book 29:** *Matemática, Grade 7 student book (7mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-18-7 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 30:** *Libër Mësuesi Matematikë 6* (teacher's book) — Albania, Tony Cotton, Caroline Clissold, Linda Glithro, Cherri Moseley, Janet Rees, translated and adapted by Irma Çaça and Fatbardha Gjoni, Mediaprint, Tiranë, Botimi i parë (first edition) 2015, ISBN 978-9928-08-201-5 (the Albanian adaptation of Oxford International Primary Maths 6 Teacher's Guide; its imprint original-title line misprints “Maths 1” for Maths 6). Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Roman numerals I, V, X, L, C, D, M with repetition and subtraction rules; conversion both ways, exercises up to MMMCMXCIX | Laos, Grade 6 student book (2010), L1 Natural numbers, printed pp.1–9 |
@@ -61,6 +63,7 @@ Every part traces to its book and page.
 | Ancient Egyptian numerals used to make numbers to 100,000 | South Africa, Grade 6 Workbook 1, WS2–3, printed pp.2–13 block |
 | Hindi/Indian numerals as a taught lesson inside the numbers unit | Jordan, Grade 3 Student Book, Term 1, Unit 1 L7, printed p.20 |
 | Hindu-Arabic, Roman and Chinese numeral systems named as three common systems; the ten Hindu-Arabic digits 0–9 | Rwanda, Primary Learner's Mathematics P4, pupil's book, Unit 1 (§1.0), printed pp. 5–6 |
+| Opener + 1A: counting systems of other cultures; symbols and number systems (unit 1A, plans 1–3) | Albania, Libër Mësuesi Matematikë 6 (teacher's book — teacher evidence), printed pp. 4, 54–56 |
 
 | History of numerals — History of number symbols: tally strokes, Roman numerals, Indian/Arabic digits, the positional decimal system; octal named as another base | Sudan, Grade 7 Mathematics (First Year Intermediate), printed p. 93 |
 | Indian and International systems — Commas in the Indian system (thousand, lakh, crore) vs the International system (thousand, million); 1 crore = 100 lakh = 10 million | India, Mathematics Class 6, printed p. 10 |
@@ -78,7 +81,7 @@ Every part traces to its book and page.
 | Roman numerals: the seven letters and values I 1 to M 1 000; additive and subtractive rules; repetition limits; overbar ×1 000 | Ecuador, Matemática, Grade 7 student book, printed pp. 30-34 |
 | Read and write Roman numerals to 1 000 and beyond; correct malformed numerals (XIIII, VL, CCMXXXII) | Ecuador, Matemática, Grade 7 student book, printed pp. 31-34 |
 | Convert Roman numerals to naturals (review inside Tema 6) | Ecuador, Matemática, Grade 7 student book, printed p. 47 |
-**Acceptance count: taught in 20 countries (Bangladesh, Cambodia, Ethiopia, Jordan, Kazakhstan, Laos, Nepal, Sierra Leone, South Africa, South Sudan, Vietnam, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador).** Laos carries Roman numerals at full strength in Grade 6 — all seven signs, both rules, conversions to MMMCMXCIX — and its own Lao digits in Grade 1. Ethiopia carries its own Ge'ez numerals, from 1–10 in Grade 3 to counting numerals to 100 in Grade 4. Nepal carries the three-script matching (Devanagari, Hindu-Arabic, Roman) in Grade 2 and the lakh reading of Devanagari-digit numbers in Grade 3. Bangladesh carries the South Asian naming ladder whole: ayut and lakh in Class 3, ajut, lac, nijut and crore with the 1,00,000 grouping in Class 4, and Roman rules in Class 6. Cambodia carries Khmer numeral writing with stroke order in Grade 1 and the "saen" name for 100,000 in Grade 4. South Africa carries ancient Egyptian numerals as a working system in its Grade 5 and Grade 6 workbooks. Jordan carries the Hindi/Indian digits as a named Grade 3 lesson. Sierra Leone carries Roman numerals from clocks to conversions to 100 in JSS 3. South Sudan carries the Roman 1–50 table in Primary 5. Vietnam carries Roman numerals as a "getting to know" introduction only, as filed. Kazakhstan carries Roman, Egyptian and old Slavic numerals as extra reading only, optional as filed. North Macedonia enters from its main set — Grade 6 (2023).
+**Acceptance count: taught in 21 countries (Bangladesh, Cambodia, Ethiopia, Jordan, Kazakhstan, Laos, Nepal, Sierra Leone, South Africa, South Sudan, Vietnam, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania).** Laos carries Roman numerals at full strength in Grade 6 — all seven signs, both rules, conversions to MMMCMXCIX — and its own Lao digits in Grade 1. Ethiopia carries its own Ge'ez numerals, from 1–10 in Grade 3 to counting numerals to 100 in Grade 4. Nepal carries the three-script matching (Devanagari, Hindu-Arabic, Roman) in Grade 2 and the lakh reading of Devanagari-digit numbers in Grade 3. Bangladesh carries the South Asian naming ladder whole: ayut and lakh in Class 3, ajut, lac, nijut and crore with the 1,00,000 grouping in Class 4, and Roman rules in Class 6. Cambodia carries Khmer numeral writing with stroke order in Grade 1 and the "saen" name for 100,000 in Grade 4. South Africa carries ancient Egyptian numerals as a working system in its Grade 5 and Grade 6 workbooks. Jordan carries the Hindi/Indian digits as a named Grade 3 lesson. Sierra Leone carries Roman numerals from clocks to conversions to 100 in JSS 3. South Sudan carries the Roman 1–50 table in Primary 5. Vietnam carries Roman numerals as a "getting to know" introduction only, as filed. Kazakhstan carries Roman, Egyptian and old Slavic numerals as extra reading only, optional as filed. North Macedonia enters from its main set — Grade 6 (2023).
 
 Rwanda names the Hindu-Arabic, Roman and Chinese numeral systems as three common systems, with the ten Hindu-Arabic digits 0–9, in P4.
 
@@ -92,3 +95,5 @@ Mongolia enters through its ministry textbooks Математик V (Grade 5): R
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Hecho en Venezuela* (Grade 6). From its books: from Grade 6: Roman — Roman numerals: a non-positional system of seven symbols (I V X L C D M), full table 1–1000 with subtractive forms (IV, XL, CD, XC), and its surviving uses.
 
 Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 6: Roman numerals 1-20 and the rules for writing them.
+
+Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 6 (teacher's book): Opener + 1A: counting systems of other cultures; symbols and number systems (unit 1A, plans 1–3).

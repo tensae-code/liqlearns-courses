@@ -1,6 +1,6 @@
 # Sources — Conditional Probability and Bayes' Theorem
 
-countries: Kuwait, Egypt, Cambodia, Greece, Kazakhstan, Nicaragua, Iraq, Sierra Leone, Syria, Malaysia, Rwanda, India, Afghanistan, Ecuador
+countries: Kuwait, Egypt, Cambodia, Greece, Kazakhstan, Nicaragua, Iraq, Sierra Leone, Syria, Malaysia, Rwanda, India, Afghanistan, Ecuador, Albania
 
 Every part traces to its book and page.
 
@@ -26,6 +26,10 @@ Every part traces to its book and page.
 **Book 17:** *ریاضی صنف ۱۲ (Mathematics, Grade 12)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Held complete through printed p. 280; a final printed p. 281 may exist beyond the held copy, and nothing is cited from it. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 18:** *Matemática, Grade 13 student book (3ro BGU, Tercero de Bachillerato)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-31-6 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 19:** *Libër Mësuesi Matematika 11* (teacher's book) — Albania, Afërdita Hysa, Mediaprint, Tiranë, Botimi i parë (first edition) 2017; two different ISBNs are printed in the one copy — imprint 978-9928-08-309-8 and CIP 978-9928-08-299-2 — both carried as printed, unresolved. Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 20:** *Libër Mësuesi Matematika 12* (teacher's book) — Albania, Grup autorësh (a group of authors), the teaching text translated and adapted by Llukan Puka and Adrian Naço, Mediaprint, Tiranë, Botimi i parë (first edition) 2018, ISBN 978-9928-08-353-1 (its CIP titles the book “Matematika 12 : me zgjedhje”). One teacher's book serving two pupil courses: the base Matematika 12 and the elective Matematika me zgjedhje 12. Teacher evidence only — no pupil's book is in hand for either course. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -57,6 +61,10 @@ Every part traces to its book and page.
 | Total probability — partition of a sample space defined | India, Mathematics Class 12 Part II, printed p. 548 |
 | Total probability — theorem of total probability stated and used | India, Mathematics Class 12 Part II, printed p. 549 |
 | Bayes' theorem (named in the section title §13.5) applied in worked examples: two bags, three coin boxes, HIV-test reliability, factory machines, truth-teller and a die | India, Mathematics Class 12 Part II, printed p. 550 |
+| Conditional probability; dependent events studied and computed from two-way tables (plan 6) | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed p. 19 |
+| Elective course: probabiliteti me kusht (Conditional probability) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 36, 69 |
+| Elective course: probabiliteti me kusht në diagramët e Venit (Conditional probability in Venn diagrams) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 36, 69 |
+| Elective course: diagramët pemë (Tree diagrams for probabilities of combined events, avoiding double-counting) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 36, 70 |
 
 | Conditional probability; tree diagrams | Afghanistan, Mathematics Grade 12 (Dari), printed pp. 268–270 |
 | Law of total probability; Bayes' theorem | Afghanistan, Mathematics Grade 12 (Dari), printed pp. 270–275 |
@@ -64,7 +72,7 @@ Every part traces to its book and page.
 | Conditional probability: two dice, one shows 2 given the total is 8 | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 66 |
 | Section evaluation: three machines' defect rates (5%, 8%, 3%) — Bayes/total-probability questions that cannot be answered as printed (production shares missing; taught corrected) | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 75 |
 
-**Acceptance count: taught in 14 countries (Kuwait, Egypt, Cambodia, Greece, Kazakhstan, Nicaragua, Iraq, Sierra Leone, Syria, Malaysia, Rwanda, India, Afghanistan, Ecuador).** Kuwait carries the fullest treatment twice over — Grade 10 lesson 10-5 builds independent and dependent events, conditional probability and Bayes with the quality-test example, and Grade 11 lesson 11-3 re-teaches the rules and returns to conditional probability and Bayes. Egypt carries conditional probability and independent events as two named lessons side by side in its Grade 12 Statistics book. Cambodia carries the topic at three levels: introduced in Grade 11 Basic, worked with the P(B|A) notation and Bayes-type problems in Grade 11 Advanced, and given in full — Bayes' theorem with the total-probability formula — in the PRIVATE Khem Putthi Probability booklet (PRIVATE, not MoEYS). Greece carries conditional probability with independent events in its Grade 12 EPAL statistics book. Kazakhstan carries the count-based proof of the multiplication form in Shynybekov's Algebra 9. Nicaragua carries independent events and then conditional probability with its formula box, worked on dice and a bus problem. Iraq carries the dependent/independent groundwork in Grade 9 and the probability rules in Grade 11 Scientific. Sierra Leone carries the dependent-draw idea through tree diagrams only, with no P(A|B) notation and no Bayes, as filed — its trees are this lesson's picture of a changing chance, not a source for the symbol or the theorem.
+**Acceptance count: taught in 15 countries (Kuwait, Egypt, Cambodia, Greece, Kazakhstan, Nicaragua, Iraq, Sierra Leone, Syria, Malaysia, Rwanda, India, Afghanistan, Ecuador, Albania).** Kuwait carries the fullest treatment twice over — Grade 10 lesson 10-5 builds independent and dependent events, conditional probability and Bayes with the quality-test example, and Grade 11 lesson 11-3 re-teaches the rules and returns to conditional probability and Bayes. Egypt carries conditional probability and independent events as two named lessons side by side in its Grade 12 Statistics book. Cambodia carries the topic at three levels: introduced in Grade 11 Basic, worked with the P(B|A) notation and Bayes-type problems in Grade 11 Advanced, and given in full — Bayes' theorem with the total-probability formula — in the PRIVATE Khem Putthi Probability booklet (PRIVATE, not MoEYS). Greece carries conditional probability with independent events in its Grade 12 EPAL statistics book. Kazakhstan carries the count-based proof of the multiplication form in Shynybekov's Algebra 9. Nicaragua carries independent events and then conditional probability with its formula box, worked on dice and a bus problem. Iraq carries the dependent/independent groundwork in Grade 9 and the probability rules in Grade 11 Scientific. Sierra Leone carries the dependent-draw idea through tree diagrams only, with no P(A|B) notation and no Bayes, as filed — its trees are this lesson's picture of a changing chance, not a source for the symbol or the theorem.
 
 Syria's conditional probability is in Grade 12 Part Two: the definition, the product form, probability trees with the node rule, the law of total probability proved, and a Bayes-type question worked straight from the definition.
 
@@ -75,3 +83,5 @@ Rwanda teaches conditional probability and Bayes' theorem in Advanced Senior Fiv
 India enters conditional probability and Bayes' theorem from Mathematics Class 12: conditional probability P(E|F) = P(E ∩ F)/P(F) introduced from two-way tables and reduced sample spaces.
 
 Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 12: conditional probability; tree diagrams; law of total probability; Bayes' theorem; independent events.
+
+Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 11 (teacher's book): Conditional probability; dependent events studied and computed from two-way tables (plan 6). from Grade 12 (teacher's book): Elective course: probabiliteti me kusht (Conditional probability); Elective course: probabiliteti me kusht në diagramët e Venit (Conditional probability in Venn diagrams); Elective course: diagramët pemë (Tree diagrams for probabilities of combined events, avoiding double-counting).
