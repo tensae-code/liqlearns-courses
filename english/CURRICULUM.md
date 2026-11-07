@@ -314,6 +314,20 @@ for a job interview.*
   ✅ · job-interviews ✅ (catch-up build 2026-11-07 —
   3 lessons, 60 question items)
 
+## Level 40 — Writing Your Own Life
+*End of level: the learner can keep a diary, write a life
+story, and fit real news into a postcard.*
+- diary-and-journal ✅ · biography-writing ✅ ·
+  postcards-and-personal-letters ✅ (catch-up build
+  2026-11-07 — 3 lessons, 60 question items)
+
+## Level 41 — Stories and Poems in Detail
+*End of level: the learner can use the story-maker's craft —
+flashback, foreshadowing, suspense, characterisation — and
+write poems to named shapes.*
+- story-techniques ✅ · poetry-writing ✅ (catch-up build
+  2026-11-07 — 2 lessons, 40 question items)
+
 ## After Level 18
 The ladder keeps climbing — longer essays and the Story → Novel
 titles. Later blocks get their own level numbers here, in this
