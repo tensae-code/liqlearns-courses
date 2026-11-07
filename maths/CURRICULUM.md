@@ -130,6 +130,7 @@ a square.*
 - linear-programming ✅ — constraints as a system of inequalities, the feasible region, and the best value at a corner (Level 139, Malaysia merge 2026-11-07)
 - factorisation ✅ — common factors, regrouping, the identities backwards, trinomials, splitting the middle term, and cubics by the Factor Theorem (Level 152, India merge 2026-11-07)
 - modulus-and-absolute-value ✅ — |x| as distance from 0: the definition, equations by cases and by distance, inequalities on the line, and the squaring theorems (Level 153, Mongolia merge 2026-11-07)
+- reciprocal-equations ✅ — reciprocal (palindromic) polynomials and their equations: roots in reciprocal pairs, the guaranteed root −1 in odd degree, and the y = x + 1/x fold in even degree (Level 154, Venezuela merge 2026-11-07)
 
 ## Stage 7 — Shapes and Angles
 *End of stage: the learner can name shapes, measure angles,
@@ -228,6 +229,7 @@ integrate.*
 - quaternions ✅ — quaternions (Level 99, catch-up build)
 - numerical-methods ✅ — finding roots approximately: sign change, linear interpolation, Newton–Raphson, fixed-point iteration (Level 147, Rwanda merge 2026-11-07)
 - vector-spaces ✅ — vector spaces and subspaces: closure tests, intersections and sums, Grassmann's formula, span, independence, basis and dimension (Level 148, Rwanda merge 2026-11-07)
+- linear-transformations ✅ — maps that preserve addition and scaling: the two laws and their first properties, the five kinds of linear map, kernel and image, and rank–nullity (Level 155, Venezuela merge 2026-11-07)
 
 ## Stage 13 — Logic and Proof
 *End of stage: the learner can handle mathematical statements,
@@ -301,7 +303,7 @@ things and follow patterns — the first mathematics of all.*
 - sorting-and-classifying ✅ — sorting and classifying by one attribute, then by two (Level 135, catch-up build)
 - repeating-patterns ✅ — repeating, growing and shrinking patterns (Level 136, catch-up build)
 
-**LADDER TOTAL: 153 lessons across 18 stages** — the first
+**LADDER TOTAL: 155 lessons across 18 stages** — the first
 52 built 2026-11-05 across 12 stages (5 + 2 + 3 + 6 + 4 + 5 +
 4 + 4 + 5 + 3 + 4 + 7); the catch-up build of 2026-11-06
 added 84 lessons (Levels 53–136) as extensions inside the
@@ -313,7 +315,9 @@ and 15; the Sudan merge of 2026-11-07 added 1 lesson
 (Level 150) inside Stage 10; the India merge of 2026-11-07
 added 2 lessons (Levels 151–152) inside Stages 1 and 6;
 the Mongolia merge of 2026-11-07 added 1 lesson
-(Level 153) inside Stage 6.
+(Level 153) inside Stage 6; the Venezuela merge of
+2026-11-07 added 2 lessons (Levels 154–155) inside
+Stages 6 and 12.
 
 ## After Stage 12
 The catch-up build of 2026-11-06 closed the recorded gap:
