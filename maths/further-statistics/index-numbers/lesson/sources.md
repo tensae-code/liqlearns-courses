@@ -1,0 +1,25 @@
+# Sources — Index Numbers
+
+countries: Pakistan, Libya, Iran
+
+Every part traces to its book and page.
+
+**Book 1:** *A Textbook of Statistics for Class 11* (student book) — Pakistan (Punjab), PCTB, Lahore, 10th edition, May 2017 (academic year 2017-18), English-medium; authors Dr. Faqir Muhammad and Amjad Mehmood; no ISBN printed. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 2:** *Statistics, Grade 12 student book, Humanities section* — Libya, Curriculum Department, 1440–1441 H / 2019–2020; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+**Book 3:** *Mathematics and Statistics (2) — Literature & Humanities and Islamic Sciences branches — Grade 11* — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 10th printing 1405, ISBN 978-964-05-2767-2, book code 111212. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 4:** *Statistics and Probability — Mathematics & Physics branch — Grade 11* — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 10th printing 1405, ISBN 978-964-05-2773-3, book code 111215. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Simple index numbers (base = 100); types (price, quantity, value; simple/composite); limitations; uses (CPI, WPI, SPI); construction steps (purpose, items, base year, weights W = V₀/ΣV₀, choice of average) | Pakistan, Statistics Class 11, Ch. 5, printed pp.128–158 |
+| Unweighted indices: simple aggregative index; average of relatives (mean, median, geometric mean) | Pakistan, Statistics Class 11, Ch. 5, printed pp.128–158 |
+| Link relatives and chain indices | Pakistan, Statistics Class 11, Ch. 5, printed pp.128–158 |
+| Example 5.6 taught corrected: the potato link relatives are 111.1 (1981, 30/27) and 100.0 (1982, 30/30), not the printed 112.5 and 105.6 (copied from the onion column); the book's totals, means and chain indices are correct with the corrected cells | Pakistan, Statistics Class 11, Ch. 5, Example 5.6, printed p.140 (corrected as filed) |
+| Weighted aggregative indices: Laspeyres, Paasche, Fisher √(L × P), for prices and quantities | Pakistan, Statistics Class 11, Ch. 5, printed pp.128–158 |
+| Example 5.7 taught corrected: B's p₀q₀ cell is 135 not 105 (column total 425 correct, Laspeyres 118.8 unaffected); B's p₀qₙ is 180 not 140 and D's is 50 not 80, so Σp₀qₙ = 480 not 470 — Paasche = 110.4 not the printed 112.8; Fisher = 114.5 not the printed 115.8 | Pakistan, Statistics Class 11, Ch. 5, Example 5.7, printed p.143 (corrected as filed) |
+| The CPI/WPI/SPI as computed by Pakistan's Federal Bureau of Statistics (CPI: 464 items in 12 groups; family budget method ΣIW/ΣW; aggregative expenditure method); inflation rates from CPI; purchasing power of money = 1/CPI | Pakistan, Statistics Class 11, Ch. 5, printed pp.128–158 |
+| Definition and importance of index numbers; the weighted price relative index and the weighted aggregative price index (Laspeyres, Paasche, Marshall–Edgeworth, Fisher); the standard (base) basket; changing the base of index numbers; worked examples on Libyan price data (a basket rising about 80% between two years) | Libya, Grade 12 Statistics (Humanities), Ch. 2, printed pp.33–58 |
+| The poverty line and the price index as statistical indices; the consumer price index built as a Laspeyres-style basket ratio — the bread-and-meat example (base 1000/50000 rials, current 1500/70000, quantities 200/80 kg) computes 5,900,000/4,200,000 × 100 ≈ 140.5, recomputed correct; inflation defined as the change of the index | Iran, Mathematics and Statistics (2), Grade 11, Ch. 3 L1, printed pp.56–60 |
+| The inflation-rate box, (P₁ − P₀)/P₀ × 100, taught corrected: red meat 28 → 32 thousand tomans gives ≈ 14.3%, not the printed exact 14% (a rounded value printed with an equals sign) | Iran, Statistics and Probability, Grade 11, printed pp.89–90 (corrected as filed) |
+
+**Acceptance count: taught in 3 countries (Pakistan, Libya, Iran).** Pakistan carries the full construction: simple and weighted indices, link relatives and chain indices, the CPI family as Pakistan itself computes it, and purchasing power as 1/CPI — with two of its worked examples carrying printing errors that this lesson teaches corrected, never as fact: Example 5.6's potato link relatives (111.1 and 100.0) and Example 5.7's Paasche (110.4) and Fisher (114.5), its Laspeyres 118.8 standing unaffected. Libya carries the same weighted family in its Humanities Grade 12 book, adds Marshall–Edgeworth by name beside Laspeyres, Paasche and Fisher, works on Libyan price data, and teaches changing the base. Iran carries the index as a lived statistic in two Grade 11 books: the Humanities book builds the consumer price index as a basket ratio (≈ 140.5 in its recomputed-correct example) and defines inflation as the index's change, while the Mathematical Sciences book states the inflation-rate formula in a box whose worked value this lesson teaches corrected as ≈ 14.3%, not 14%.

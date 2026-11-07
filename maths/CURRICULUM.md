@@ -249,6 +249,22 @@ books teach, and work with speed.*
 - time-and-calendars ✅ — clocks, 12-hour and 24-hour time, durations, and the calendars of the world (Level 115, catch-up build)
 - speed-distance-and-time ✅ — speed, distance and time, with density and work rates (Level 116, catch-up build)
 
+## Stage 16 — Further Statistics and Probability
+*End of stage: the learner can reason about uncertain
+evidence the way the world's statistics books teach it —
+conditions, distributions, samples, estimates, tests and
+relationships between data.*
+- conditional-probability-and-bayes ✅ — conditional probability and Bayes' theorem (Level 117, catch-up build 2026-11-06)
+- random-variables-and-distributions ✅ — random variables, expectation, and the binomial, uniform and normal distributions (Level 118, catch-up build)
+- sampling-and-sampling-distributions ✅ — sampling, populations, sampling distributions and the Central Limit Theorem (Level 119, catch-up build)
+- estimation-and-confidence-intervals ✅ — estimation and confidence intervals (Level 120, catch-up build)
+- hypothesis-testing ✅ — hypothesis testing (Level 121, catch-up build)
+- correlation-and-regression ✅ — correlation and regression (Level 122, catch-up build)
+- association-of-attributes ✅ — association: the chi-square test, Yule's Q and the contingency coefficient (Level 123, catch-up build)
+- time-series ✅ — time series: components and trends (Level 124, catch-up build)
+- index-numbers ✅ — index numbers: Laspeyres, Paasche and Fisher (Level 125, catch-up build)
+- quartiles-percentiles-and-box-plots ✅ — quartiles, deciles, percentiles and box-and-whisker plots (Level 126, catch-up build)
+
 **LADDER TOTAL: 52 lessons across 12 stages — ALL BUILT 2026-11-05** (5 + 2 + 3 + 6 +
 4 + 5 + 4 + 4 + 5 + 3 + 4 + 7).
 
