@@ -1,6 +1,6 @@
 # Sources — Analytic Geometry in Space
 
-countries: Egypt, Laos, Cambodia, Jordan
+countries: Egypt, Laos, Cambodia, Jordan, Syria
 
 Every part traces to its book and page.
 
@@ -11,6 +11,8 @@ Every part traces to its book and page.
 **Book 5:** *Mathematics, Grade 11 Advanced teacher guide* — Cambodia, MoEYS / Publishing and Distribution House. Filed in maths/books/cambodia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: cited only for the Chapter 8 worked answers on its printed p.236, two of which are taught corrected (see the table).
 **Book 6:** *Mathematics, Grade 12 Advanced student book* — Cambodia, MoEYS / Publishing and Distribution House, 12th printing 2020, ISBN 9789995001148. Filed in maths/books/cambodia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 7:** *Mathematics, Student Book, Grade 12, Term 2* — Jordan, NCCD, ISBN 978-9923-41-785-0. Filed in maths/books/jordan.md (W17) (FULLY READ + CITATION CHECK PASSED). The held copy is a draft-state copy (stamped "version under preparation"), as filed.
+
+**Book 8:** *Mathematics, Part Two, Grade 12 (Scientific track)* — Syria, Ministry of Education, held printing 2025–2026/1447H, first printed 2016–2017, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -33,5 +35,9 @@ Every part traces to its book and page.
 | Vectors in space | Jordan, Grade 12 Term 2, Unit 6, Lesson 1, printed p.108 |
 | Lines in space | Jordan, Grade 12 Term 2, Unit 6, Lesson 2, printed p.124 |
 | Scalar product in space | Jordan, Grade 12 Term 2, Unit 6, Lesson 3, printed p.141 |
+| The equation of a sphere centred at the origin: the sphere is the set of points with OM² = R², i.e. x² + y² + z² = R² (worked: R = 5 gives x² + y² + z² = 25; the sphere through A(1, 2, −4) gives x² + y² + z² = 21); the equation of a right circular cylinder x² + y² = r² and of a right circular cone x² + y² = k²z² (activities, derived from the distance to the axis and from similar triangles); the perpendicular bisector plane of a segment [AB] characterised in coordinates as the set of points M with MA = MB | Syria, Grade 12 Scientific, Part Two, printed pp. 20, 26–27, 35 |
+| The Cartesian equation of a plane, ax + by + cz + d = 0 with (a, b, c) a normal vector; the distance from a point to a plane |ax₀ + by₀ + cz₀ + d|/√(a² + b² + c²); the parametric representation of a line in space, x = x₀ + at, y = y₀ + bt, z = z₀ + ct; the intersection line of two planes written parametrically; the distance from the origin to an intercept plane x/a + y/b + z/c = 1, with 1/OH² = 1/a² + 1/b² + 1/c² | Syria, Grade 12 Scientific, Part Two, printed pp. 48–49, 71–75, 82 |
 
-**Acceptance count: taught in 4 countries (Egypt, Laos, Cambodia, Jordan).** Egypt carries the analytic course in Pure Grade 12: the 3D coordinate system, vectors in space and vector multiplication in Unit Three, then the equations of lines and planes in Unit Four. Laos carries it twice: Grade 10 Chapter X builds coordinates, octants, distance, direction cosines and the 3-D dot product in a single long lesson, and Grade 12 Chapter 10 adds the equations of lines and planes and the line–plane angle. Cambodia carries vectors in space in Grade 11 Advanced Chapter 8 and the scalar and cross products again in Grade 12 Advanced Chapter 7, with two teacher-guide worked values taught corrected as filed. Jordan carries vectors in space, lines in space and the scalar product in Grade 12 Term 2 Unit 6.
+**Acceptance count: taught in 5 countries (Egypt, Laos, Cambodia, Jordan, Syria).** Egypt carries the analytic course in Pure Grade 12: the 3D coordinate system, vectors in space and vector multiplication in Unit Three, then the equations of lines and planes in Unit Four. Laos carries it twice: Grade 10 Chapter X builds coordinates, octants, distance, direction cosines and the 3-D dot product in a single long lesson, and Grade 12 Chapter 10 adds the equations of lines and planes and the line–plane angle. Cambodia carries vectors in space in Grade 11 Advanced Chapter 8 and the scalar and cross products again in Grade 12 Advanced Chapter 7, with two teacher-guide worked values taught corrected as filed. Jordan carries vectors in space, lines in space and the scalar product in Grade 12 Term 2 Unit 6.
+
+Syria's analytic geometry in space is in Grade 12 Part Two: the sphere's equation from OM² = R², the plane's Cartesian equation, and the parametric line.

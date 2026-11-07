@@ -1,6 +1,6 @@
 # Sources — Conic Sections
 
-countries: Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal
+countries: Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria
 
 Every part traces to its book and page.
 
@@ -22,6 +22,8 @@ Every part traces to its book and page.
 **Book 16:** *MATEMÁTICA 11 — Undécimo grado — Libro de Texto — Educación Secundaria* (NICAMATE) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2019, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
 **Book 17:** *Mathématiques, 7ème AS, série C (7AS-C)* — Mauritania, IPN pupil manual, 201 pp., French. Filed in maths/books/mauritania.md (D10).
 **Book 18:** *Optional Mathematics, Grade 10* — Nepal, CDC, Sanothimi, First Edition 2083 BS. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 19:** *Mathematics, Part One, Grade 12 (Scientific track)* — Syria, Ministry of Education (the NCCD is not named on this book's title page), held printing 2025–2026/1447H, first printed 2016–2017, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -47,9 +49,12 @@ Every part traces to its book and page.
 | Parabola y² = 4px from focus/directrix and the y-axis form; intersection of parabola and line (pp.98–103); ellipse PF₁ + PF₂ = 2a, x²/a² + y²/b² = 1, c² = a² − b² (pp.104–109); hyperbola \|PF₁ − PF₂\| = 2a, asymptotes y = ±(b/a)x, equation proved by squaring twice (pp.110–117). All conics centred at the origin — no translated conics taught, as filed | Nicaragua, Grade 11, Unit 5, pp.98–117 |
 | Conics as a baccalaureate chapter, C stream (Chapter 14) | Mauritania, 7AS-C, printed p.169 |
 | Parts of a cone — introduction ONLY (no parabola/ellipse/hyperbola equations worked out); a minor, starter source | Nepal, Grade 10 Optional, Lesson 8, §8.3, within pp.139–174 |
+| Exploring the hyperbola y = 1/x dynamically (the functions unit's chapter-opener image): iterating the point map (x, y) ↦ (x + 1, 1/(x + 1)) walks points along the hyperbola, each image's coordinates read off as the iteration proceeds | Syria, Grade 12 Scientific, Part One, printed p. 18 |
 
-**Acceptance count: taught in 13 countries (Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal).**
+**Acceptance count: taught in 14 countries (Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria).**
 
 Greece carries the full conic course in one chapter of its Grade 11 orientation book: circle, parabola, ellipse and hyperbola, closing with classification of conics from the general second-degree equation. Iraq carries conics across two years: Grade 11 introduces them by slicing a double cone and teaches the circle in full, and Grade 12 teaches the conic as a locus with ratio e, then the parabola, ellipse and hyperbola each with its translated forms. Pakistan (Punjab) carries the widest single treatment in its Class 12 Chapter 6 — cone-cutting, the focus–directrix definition with e, all three conics, tangents and normals, translation and rotation of axes, and the general second-degree equation with classification and degenerate conics — with three printed values taught corrected in this lesson: the latus rectum 8/3, the hyperbola c² = 41 with foci (±√41, 0) and e = √41/4, and the parabola focus (−1/26, 3/52). Laos carries the cleanest single definition in its Grade 10 Chapter XI: MF/MH = e with the three cases of e, then the parabola, ellipse and hyperbola with their reduced and translated equations. Kuwait carries the three conics in Grade 12 Term 2 Unit 7, one lesson each, with eccentricity treated as a lesson of its own. Yemen carries the three conics as loci with their equations in Grade 12 Science Unit 4, and adds translation and rotation of the coordinate axes as the tool for simplifying conic equations.
 
 Indonesia carries conics in both its Grade 12 Tingkat Lanjut books: the 2022 book teaches the parabola, ellipse and hyperbola as full conics with tangent lines, while the 2025 Revisi book teaches the ellipse in full and the parabola in full in its enrichment pages, but teaches the hyperbola by definition, elements and asymptotes only — its equations are not taught there and are never cited to it. Vietnam carries the three conics twice in Grade 10: introduced together in Volume 2 (Bài 22), then one dedicated lesson per conic plus a unification lesson in the study book. Iran carries the ellipse and the parabola in Geometry (3) — the ellipse geometrically by the string construction with no Cartesian equation stated, the parabola derived as y² = 4ax — and the ellipse again, with a weaker parabola mention, in Mathematics (3); the hyperbola is explicitly not taught in Geometry (3) and Iran is never cited for it. Cambodia carries conics in Grade 12 Basic Chapter 6: the parabola read in full, and the ellipse and hyperbola filed from the chapter contents, the teacher guide's lessons and the answers, their section starts not read in detail and worded as filed, with the answers graph's bottom vertex taught corrected as (0, −5). Nicaragua carries all three conics in Grade 11 Unit 5 with proofs, every conic centred at the origin and no translated conics taught. Mauritania carries conics as a baccalaureate chapter in its 7AS-C stream. Nepal carries only an introduction: the parts of a cone in Grade 10 Optional §8.3, with no conic equations developed — a minor source, counted as an introduction only.
+
+Syria reaches conic sections only lightly: the hyperbola y = 1/x is explored dynamically in Grade 12 Part One's chapter-opener image. (Its Grade 12 integrals unit also uses the paraboloid of revolution, filed under volume.)

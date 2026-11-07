@@ -1,6 +1,6 @@
 # Sources — Partial Fractions
 
-countries: South Sudan, Pakistan, Bangladesh, Jordan, Kuwait
+countries: South Sudan, Pakistan, Bangladesh, Jordan, Kuwait, Syria
 
 Every part traces to its book and page.
 
@@ -10,6 +10,8 @@ Every part traces to its book and page.
 **Book 4:** *Mathematics, Class Nine (Experimental Edition)* — Bangladesh, NCTB, developed under the National Curriculum 2022, prescribed for Class Nine from academic year 2024 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
 **Book 5:** *Mathematics, Student Book, Grade 12, Term 1* — Jordan, NCCD, Amman, 1st (trial) edition 2025, ISBN 978-9923-41-783-6. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 6:** *Mathematics, Grade 12, Term 2 student book (scientific track), Parts 1–2* — Kuwait, Ministry of Education. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 7:** *Mathematics, Part One, Grade 12 (Scientific track)* — Syria, Ministry of Education (the NCCD is not named on this book's title page), held printing 2025–2026/1447H, first printed 2016–2017, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -27,5 +29,8 @@ Every part traces to its book and page.
 | Partial fractions as its own lesson | Jordan, Grade 12 Student Book Term 1, Unit 1, L2 Partial fractions, printed p. 23 |
 | Integration by partial fractions (use) | Jordan, Grade 12, printed p. 45 (as filed; the Grade 11 Term 1 orphan workbook carries the same lesson at its printed p. 23 — workbook evidence, companion student book not in hand) |
 | Integration using partial fractions — distinct linear factors ONLY (no repeated, no quadratic); worked result 2 ln|x + 3| + 3 ln|x − 5| + C | Kuwait, Grade 12 Term 2 student book (scientific track), §5-6, printed pp. 42–49 |
+| Rational functions with a monic quadratic denominator having two distinct real roots are integrated by partial fractions: the constants are found by substituting each root, preceded by Euclidean division when the numerator's degree is not smaller — several integrals worked in full to answers combining ln terms | Syria, Grade 12 Scientific, Part One, printed pp. 212–214 |
 
-**Acceptance count: taught in 5 countries (South Sudan, Pakistan, Bangladesh, Jordan, Kuwait).** South Sudan carries the fullest single treatment: its Secondary 4 Additional book gives partial fractions a whole unit (Unit 4, pp.126–148) — linear factors by both constant-finding methods, quadratic and repeated factors, the integration application, and recombining — with one caution: the worked example on printed pp.130–131 is muddled as printed, so this lesson teaches the method cleanly and keeps only its verified final answers, A = 3/4 and B = −1/4. Pakistan carries the topic twice over: Class 10's Unit 4 with its four rules and the "zero's method", and Class 11's Unit 5 with the proper/improper opening and Cases I–IV up to the repeated irreducible quadratic, the technique presented as preparation for calculus. Bangladesh carries it inside its Class 9 polynomial chapter (§10.8, pp.107–111) with verified worked splits for distinct linear, repeated linear, and linear-plus-quadratic denominators, and division-first handling of improper fractions. Jordan carries partial fractions as a named Grade 12 lesson (p.23) and uses it inside integration (p.45, as filed). Kuwait carries the integration use only, and only for distinct linear factors (§5-6, pp.42–49) — a recorded negative: no repeated and no quadratic factors there.
+**Acceptance count: taught in 6 countries (South Sudan, Pakistan, Bangladesh, Jordan, Kuwait, Syria).** South Sudan carries the fullest single treatment: its Secondary 4 Additional book gives partial fractions a whole unit (Unit 4, pp.126–148) — linear factors by both constant-finding methods, quadratic and repeated factors, the integration application, and recombining — with one caution: the worked example on printed pp.130–131 is muddled as printed, so this lesson teaches the method cleanly and keeps only its verified final answers, A = 3/4 and B = −1/4. Pakistan carries the topic twice over: Class 10's Unit 4 with its four rules and the "zero's method", and Class 11's Unit 5 with the proper/improper opening and Cases I–IV up to the repeated irreducible quadratic, the technique presented as preparation for calculus. Bangladesh carries it inside its Class 9 polynomial chapter (§10.8, pp.107–111) with verified worked splits for distinct linear, repeated linear, and linear-plus-quadratic denominators, and division-first handling of improper fractions. Jordan carries partial fractions as a named Grade 12 lesson (p.23) and uses it inside integration (p.45, as filed). Kuwait carries the integration use only, and only for distinct linear factors (§5-6, pp.42–49) — a recorded negative: no repeated and no quadratic factors there.
+
+Syria integrates rational functions by partial fractions in Grade 12 Part One, inside its integrals unit.

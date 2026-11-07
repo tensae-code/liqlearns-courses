@@ -1,6 +1,6 @@
 # Sources — Constructions with ruler and compass
 
-countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait
+countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria
 
 Every part traces to its book and page.
 
@@ -11,6 +11,14 @@ Every part traces to its book and page.
 **Book 5:** *Mathematics, Grade 6* — Pakistan, Punjab Curriculum and Textbook Board. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 6:** *Mathematics, Class 7* — Bangladesh, National Curriculum and Textbook Board (NCTB). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
 **Book 7:** *Mathematics, Grade 7, Term 2* — Kuwait, Ministry of Education. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 8:** *Mathematics, Pupil's Book, Grade 6* — Syria, Ministry of Education with the National Center for Curriculum Development (NCCD), held printing 2025–2026/1446H, first printed 2017–2018, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 9:** *Mathematics, Student's Book, Grade 7* — Syria, Ministry of Education with the National Center for Curriculum Development (NCCD), held printing 2021–2022/1442H, first printed 2013–2014, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 10:** *Mathematics — Geometry, Student's Book, Grade 8* — Syria, Ministry of Education (the ministry's name as printed, Ministry of Education and Teaching), held printing 2025–2026, first printed 2016–2017, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 11:** *Mathematics — Geometry, Student's Book, Grade 9* — Syria, Ministry of Education, held printing 2025–2026/1446H, first printed 2017–2018, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -24,7 +32,13 @@ Every part traces to its book and page.
 | Constructions with reasons (justifications) | Iran, Geometry (1) (pp.10–16) |
 | The stages of a construction problem | Armenia, Geometry 7, Ch.II §10, §17 (pp.34–76, 107–140) |
 | First ruler-and-compass figures | Bangladesh, Class 7, Exp.5 (pp.104–124); Bangladesh, Class 4, Ch.14 (pp.155–160) |
+| Copying an arc: with the compasses, transferring the opening of a given arc (قوس) to draw an arc equal to it on another circle | Syria, Grade 6 pupil's book, printed pp. 105–106 |
+| Drawing a right-angled triangle given its hypotenuse and one acute angle (draw the angle, mark the hypotenuse on one side, drop the perpendicular with the set square) and given its hypotenuse and one leg; drawing the perpendicular bisector of a segment with the graduated ruler and the set square (الكوس) — mark the midpoint, align the set square's right angle on the segment, slide it to the midpoint and draw | Syria, Grade 7 student's book, printed pp. 136–141 |
+| Dividing a segment into five equal parts with parallels, as a ruler-and-compass construction in the exercises | Syria, Grade 8 Geometry student's book, printed p. 51 |
+| Dividing a segment into five and into seven equal parts by parallels, carried out in full with the auxiliary ray and Thales' theorem | Syria, Grade 9 Geometry student's book, printed p. 35 |
 
-**Acceptance count: taught in 7 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait).**
+**Acceptance count: taught in 8 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria).**
 
 Sierra Leone teaches the fullest school construction course here: SSS 2 Term 2 lessons 79–83 work through bisection and the constructible angles in order, and its JSS 1 handbook gives the first constructions. Laos builds the same skills in Grade 6 — parallels and perpendiculars through a point, the perpendicular bisector, copying an angle and a segment — after using a compass from Grade 4. Iran is the country that insists on reasons: its Geometry (1) presents constructions with justifications, so each arc is there for a stated cause. Armenia teaches construction as a method, with the stages of a construction problem named as part of the work. Pakistan's Grade 6 practical-geometry unit and Bangladesh's Class 7 experiments give the same constructions as set exercises, and Kuwait's Grade 7 Term 2 Unit 6 carries a long construction unit of its own.
+
+Syria's constructions run from copying an arc with compasses in Grade 6, through set-square and compass triangle constructions in Grade 7, to dividing a segment into equal parts by parallels in Grades 8–9 Geometry.

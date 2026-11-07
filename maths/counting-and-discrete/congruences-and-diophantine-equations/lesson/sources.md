@@ -1,6 +1,6 @@
 # Sources — Congruences and Diophantine equations
 
-countries: Iran, Greece, Sierra Leone, Kazakhstan
+countries: Iran, Greece, Sierra Leone, Kazakhstan, Syria
 
 Every part traces to its book and page.
 
@@ -10,6 +10,8 @@ Every part traces to its book and page.
 **Book 4:** *Mathematics, Grade 6* — Kazakhstan, Abylkasymova, Kucher, Zhumagulova, Mektep, Almaty, 2018. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 5:** *Algebra, Grade 8* — Kazakhstan, Shynybeкov, Shynybeкov, Zhumabaev, Atamura, Almaty, 2018, Russian edition ISBN 978-601-331-160-9. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED). Its Chapter 6 additional materials are starred OPTIONAL in the book, as filed.
 **Book 6:** *Algebra 9* — Kazakhstan, Soltan, Soltan, Zhumadilova, Keleshek-2030, Kokshetau, 2019, Kazakh edition ISBN 978-601-317-423-5. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 7:** *Mathematics — Algebra, Student's Book, Grade 9* — Syria, Ministry of Education, held printing 2025–2026/1446H, first printed 2017–2018, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -29,5 +31,8 @@ Every part traces to its book and page.
 | Euclid's algorithm; gcd from prime factorisations (worked GCD(680, 612) = 68) — starred OPTIONAL chapter, as filed | Kazakhstan, Algebra Grade 8 (Shynybeкov), Ch.6*, §§6.1–6.5, pp.160–177 |
 | A linear equation in two variables; the matchstick Diophantine 3y + 4x = 30 with solutions (3; 6) and (6; 2) | Kazakhstan, Mathematics Grade 6, §10.1, p.178 |
 | Two-digit-number problems solved by Diophantine enumeration | Kazakhstan, Algebra 9 (Soltan), Ch.1, §3, p.34 |
+| Divisibility and the Euclidean algorithm in the Unit 1 diagnostic and the numbers lessons: the divisibility tests recalled; a failed-division diagnostic (45 ÷ 6 is not exact, with the plural-divisor trap named); Euclid's algorithm fully worked (154, 693): successive divisions 693 = 4 × 154 + 77 and 154 = 2 × 77 give GCD 77; large fractions reduced with a GCD found by subtraction or by Euclid (693/154 = 9/2; 10165/3745 = 19/7) — the Euclidean engine behind congruences and Diophantine work | Syria, Grade 9 Algebra student's book, printed pp. 5, 14–15 |
 
-**Acceptance count: taught in 4 countries (Iran, Greece, Sierra Leone, Kazakhstan).** Iran teaches congruences in full — rules, the corrected cancellation law, divisibility tests, the calendar, linear congruences and Diophantine equations solved through congruences — in its Grade 12 Discrete Mathematics book, while explicitly not teaching a Euclidean algorithm there. Greece teaches the linear Diophantine equation and congruent numbers as the close of its Grade 11 orientation book's number-theory chapter. Sierra Leone teaches modular arithmetic as a four-lesson SSS 1 block, from cyclic events to real-life uses. Kazakhstan teaches a Diophantine-flavoured linear equation in two variables in Grade 6, Euclid's algorithm in its Grade 8 book's starred optional additional-materials chapter (worded optional, as filed), and Diophantine enumeration in its Grade 9 Soltan book.
+**Acceptance count: taught in 5 countries (Iran, Greece, Sierra Leone, Kazakhstan, Syria).** Iran teaches congruences in full — rules, the corrected cancellation law, divisibility tests, the calendar, linear congruences and Diophantine equations solved through congruences — in its Grade 12 Discrete Mathematics book, while explicitly not teaching a Euclidean algorithm there. Greece teaches the linear Diophantine equation and congruent numbers as the close of its Grade 11 orientation book's number-theory chapter. Sierra Leone teaches modular arithmetic as a four-lesson SSS 1 block, from cyclic events to real-life uses. Kazakhstan teaches a Diophantine-flavoured linear equation in two variables in Grade 6, Euclid's algorithm in its Grade 8 book's starred optional additional-materials chapter (worded optional, as filed), and Diophantine enumeration in its Grade 9 Soltan book.
+
+Syria's Grade 9 Algebra carries the Euclidean algorithm as real number work — divisibility tests, successive divisions and large GCDs.

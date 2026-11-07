@@ -1,6 +1,6 @@
 # Sources — Trigonometric Functions
 
-countries: China, Pakistan, Iraq, Greece, Iran, Vietnam, Ethiopia, South Sudan
+countries: China, Pakistan, Iraq, Greece, Iran, Vietnam, Ethiopia, South Sudan, Syria
 
 Every part traces to its book and page.
 
@@ -14,6 +14,8 @@ Every part traces to its book and page.
 **Book 8:** *Toán 11, Tập Một* (Mathematics 11, Volume 1) — Vietnam, Ministry of Education and Training. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 **Book 9:** *Mathematics, Grade 10 student book* — Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-025-3 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 10:** *Secondary Mathematics — Student's Book 4* — South Sudan, Ministry of General Education and Instruction, ©2018, Mountain Top Publishers. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 11:** *Mathematics, Part One, Grade 12 (Scientific track)* — Syria, Ministry of Education (the NCCD is not named on this book's title page), held printing 2025–2026/1447H, first printed 2016–2017, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -29,5 +31,8 @@ Every part traces to its book and page.
 | Trigonometric functions as their own lesson | Vietnam, Toán 11, Tập Một, Bài 3 — Hàm số lượng giác, printed p.22 |
 | Graphs of sin, cos, tan: period, amplitude, and the asymptotes of tan at odd multiples of π/2; radian measure alongside degrees inside the same unit | Ethiopia, Grade 10 student book, Unit 4, printed pp.199–250 |
 | Graphs of trigonometric functions | South Sudan, Secondary Mathematics Student's Book 4, Unit 2, printed pp.41–45 |
+| A full study of f(x) = tan x: the domain excludes π/2 + kπ; tan is odd and π-periodic, so study on [0, π/2[ suffices and the rest follows by central symmetry and translation; f(x) → +∞ as x → (π/2)⁻, so x = π/2 is a vertical asymptote; f′(x) = 1 + tan²x = 1/cos²x > 0, so tan is strictly increasing on its intervals | Syria, Grade 12 Scientific, Part One, printed pp. 75–76 |
 
-**Acceptance count: taught in 8 countries (China, Pakistan, Iraq, Greece, Iran, Vietnam, Ethiopia, South Sudan).** China carries the full chapter — trig functions of a general angle, the graphs, y = A sin(ωx + φ), and the tide model — with its teacher guide as teacher evidence for the sine-line-first order. Pakistan carries all six functions with their domains and ranges, the sinusoidal family a + b sin(cθ + d), and Ferris-wheel and tide models. Iraq carries the circular functions whole in Grade 11 Scientific, and contributes a corrected calculator value from Grade 10 Scientific (tan(−36°) ≈ −0.7265, not the printed −0.588). Greece carries trig functions of any angle inside its B' Lykeiou trigonometry chapter. Iran carries periodicity and the tangent function's graph in Hesaban (2). Vietnam carries trigonometric functions as a named lesson in Toán 11 Volume 1. Ethiopia carries the graphs of sin, cos and tan with period, amplitude and the tangent's asymptotes in Grade 10. South Sudan carries trig graphs in Secondary 4.
+**Acceptance count: taught in 9 countries (China, Pakistan, Iraq, Greece, Iran, Vietnam, Ethiopia, South Sudan, Syria).** China carries the full chapter — trig functions of a general angle, the graphs, y = A sin(ωx + φ), and the tide model — with its teacher guide as teacher evidence for the sine-line-first order. Pakistan carries all six functions with their domains and ranges, the sinusoidal family a + b sin(cθ + d), and Ferris-wheel and tide models. Iraq carries the circular functions whole in Grade 11 Scientific, and contributes a corrected calculator value from Grade 10 Scientific (tan(−36°) ≈ −0.7265, not the printed −0.588). Greece carries trig functions of any angle inside its B' Lykeiou trigonometry chapter. Iran carries periodicity and the tangent function's graph in Hesaban (2). Vietnam carries trigonometric functions as a named lesson in Toán 11 Volume 1. Ethiopia carries the graphs of sin, cos and tan with period, amplitude and the tangent's asymptotes in Grade 10. South Sudan carries trig graphs in Secondary 4.
+
+Syria studies the tangent function completely in Grade 12 Part One — domain, period, asymptotes and derivative.

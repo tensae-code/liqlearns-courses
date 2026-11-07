@@ -1,6 +1,6 @@
 # Sources — The special lines and centres of a triangle
 
-countries: Kuwait, Laos, Yemen, Cambodia, Egypt, Greece, Iraq, Jordan, Sierra Leone, Kazakhstan
+countries: Kuwait, Laos, Yemen, Cambodia, Egypt, Greece, Iraq, Jordan, Sierra Leone, Kazakhstan, Syria
 
 Every part traces to its book and page.
 
@@ -16,6 +16,10 @@ Every part traces to its book and page.
 **Book 10:** *Pupils' Handbook for Senior Secondary Mathematics — SSS 2, Term 2* — Sierra Leone, Ministry of Education, Science and Technology (no year, edition or ISBN printed; UKaid-funded, IRC / British Council partnership). Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 11:** *Geometry, Grade 8*, Shynybekov, Shynybekov & Zhumabaev — Kazakhstan, Atamura, Almaty, 2018 (Kazakh + Russian editions). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 12:** *Geometry 9*, Smirnov & Tuyakov — Kazakhstan, Mektep, Almaty, 2019 (Kazakh + Russian editions). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 13:** *Mathematics — Geometry, Student's Book, Grade 8* — Syria, Ministry of Education (the ministry's name as printed, Ministry of Education and Teaching), held printing 2025–2026, first printed 2016–2017, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 14:** *Mathematics — Geometry, Student's Book, Grade 9* — Syria, Ministry of Education, held printing 2025–2026/1446H, first printed 2017–2018, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -38,6 +42,10 @@ Every part traces to its book and page.
 | Proportional division of a triangle's side; the mid-point theorem; the angle bisector theorem | Sierra Leone, SSS 2 Term 2 handbook, L61 printed p. 37; L62 printed p. 40 |
 | The triangle's remarkable points, including excircles and their centres (§*1.7.5), as the climax of the triangle chapter | Kazakhstan, Geometry Grade 8 (Shynybekov et al., Atamura 2018), §1.7 (chapter printed pp. 13–57) |
 | Every triangle has three excircles, their centres at the intersections of the external bisectors; exradius formula r_a = 2S/(b + c − a) as an exercise | Kazakhstan, Geometry 9 (Smirnov & Tuyakov, Mektep 2019), Chapter 4, §20 (chapter printed pp. 124–170) |
+| The perpendicular bisector of a side of a triangle (محور الضلع) — every point of it is equidistant from the side's ends, and conversely; the three perpendicular bisectors meet in one point O, the centre of the circle through the triangle's vertices, with OA = OB = OC; the altitude (الارتفاع) through a vertex perpendicular to the opposite side — the three altitudes meet in one point (the orthocentre), which lies outside the triangle when an angle is obtuse, proved by completing parallelograms around the triangle; the median (المتوسط) through a vertex and the opposite midpoint — the three medians meet in one point, the centroid (مركز ثقل المثلث), which divides each median in the ratio 2 : 1 from the vertex; the angle bisector (منصف الزاوية) — the three bisectors meet in one point, the centre of the incircle; drawing economy: the circumcentre needs only two perpendicular bisectors, the incentre only two bisectors, the centroid only two medians; the reflections of the orthocentre in the sides' midpoints lie on the circumcircle (an exercise result) | Syria, Grade 8 Geometry student's book, printed pp. 54–63, 68 |
+| A triangle's centre of gravity is the meeting point of its medians, and the circumcentre of a right triangle is the mid-point of its hypotenuse (Unit 3 diagnostic) | Syria, Grade 9 Geometry student's book, Unit 3 diagnostic, printed p. 39 |
 
-**Acceptance count: taught in 10 countries (Kuwait, Laos, Yemen, Cambodia, Egypt, Greece, Iraq, Jordan, Sierra Leone, Kazakhstan).**
+**Acceptance count: taught in 11 countries (Kuwait, Laos, Yemen, Cambodia, Egypt, Greece, Iraq, Jordan, Sierra Leone, Kazakhstan, Syria).**
 Kuwait carries the fullest treatment — a whole Grade 9 Term 2 unit walking the six topics in order: mid-segment, median to the hypotenuse, circumcentre, incentre, orthocentre, centroid — and its Grade 10 Term 2 book carries this lesson's one corrected error: the angle-bisector intersection printed as "Circum Center" on p. 23 is the Incenter, taught corrected everywhere in this lesson. Laos carries the notable lines whole in Grade 7, opened by the paper-triangle balancing experiment, with OA = OB = OC at the circumcentre. Yemen carries a proved triangle-theorem sequence in Grade 8 Part 2 — Thales and the bisectors in Unit 6, then mid-segment, hypotenuse-midpoint, the 30° side, medians and altitudes in Unit 7. Cambodia carries the full concurrence system in one Grade 8 lesson, with the centroid's AG = (2/3)AA′ proved via the midpoint theorem. Egypt carries the medians, their concurrency and the median-to-the-hypotenuse in Grade 8 Term 1. Greece carries the centroid and orthocentre among the notable lines in Euclidean Geometry Volume A. Iraq carries the medians and centroid with the 2:1 ratio in Grade 9. Jordan carries proportional parts, the mid-segment theorem, the bisectors' concurrency, medians and altitudes in Grade 9 Term 2. Sierra Leone carries the mid-point theorem and the angle bisector theorem in SSS 2. Kazakhstan carries the excircles — the part no other cited country teaches — in Geometry 8 §1.7 and Geometry 9 §20.
+
+Syria's triangle-centre theory is in Grade 8 Geometry — perpendicular bisectors, altitudes, medians and bisectors each proved concurrent — and is recalled in the Grade 9 diagnostic.
