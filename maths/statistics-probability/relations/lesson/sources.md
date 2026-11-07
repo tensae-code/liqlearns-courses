@@ -1,6 +1,6 @@
 # Sources — Relations
 
-countries: Libya, Yemen, Bangladesh, Kuwait, Laos, Malaysia
+countries: Libya, Yemen, Bangladesh, Kuwait, Laos, Malaysia, Rwanda
 
 Every part traces to its book and page.
 
@@ -12,6 +12,8 @@ Every part traces to its book and page.
 **Book 6:** *Mathematics, Grade 10 student book (upper-secondary year 5)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2014 (2010 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 7:** *Additional Mathematics Form 4* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-967-2375-42-5 — the held copy is an image-only scan read visually; its contents pages, printed v–vi, are missing, the body is complete) and BM original *Matematik Tambahan Tingkatan 4* (Pan Asia Publications Sdn. Bhd., 2019, ISBN 978-967-466-377-3). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 8:** *Mathematics for Rwandan Schools — Senior 1 Student's Book* — Rwanda, Longhorn Publishers (Rwanda) Ltd, 2016, ISBN 978 9997 74 483 8 (as printed). No REB approval wording is printed anywhere in the book. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -25,7 +27,12 @@ Every part traces to its book and page.
 | Sets and relations unit: ordered pairs, relations and their representations, Cartesian product (minor row for this lesson) | Kuwait, Grade 8 Term 1, Unit 1 — Sets and relations, printed pp. 15–67 |
 | Sets lessons carrying the Cartesian product (minor row) | Laos, Grade 10, Ch. II, Lessons 4 and 6, printed pp. 30–52 |
 | Relations introduced from real situations (a temporary cashier's pay; durians priced by weight), with a function as a special relation | Malaysia, Additional Mathematics Form 4, Ch. 1 §1.1, printed p. 2 |
+| Relations introduced with everyday and mathematical examples; properties of relations — reflexive, symmetric, transitive — and equivalence relations; the Papygram (the book's own name for its arrow-type relation diagram) | Rwanda, Senior 1 Student's Book, Unit 1, printed pp. 20–24 |
+| Ordered pairs and why their order matters; the Cartesian product X × Y as the set of ordered pairs | Rwanda, Senior 1 Student's Book, Unit 1, printed pp. 24–25 |
+| Mapping: domain, codomain and range, with arrow diagrams; types of mapping — one-to-one, many-to-one, one-to-many, many-to-many; graphs of relations on the Cartesian plane | Rwanda, Senior 1 Student's Book, Unit 1, printed pp. 25–30 |
 
-**Acceptance count: taught in 6 countries (Libya, Yemen, Bangladesh, Kuwait, Laos, Malaysia).** Libya carries the full binary-relations treatment — Cartesian product, equality of relations, domain and range, inverse relation — as the closing part of its Grade 10 sets chapter (printed pp. 9–43), the ground from which it then defines functions. Yemen carries the topic twice: in Grade 7 as the staircase ordered pair → Cartesian product (with S × T ≠ T × S) → relations (printed pp. 32, 34, 37), and in Grade 9 with transitive relations and equivalence relations as named lessons (printed pp. 17, 25) ahead of its function lesson. Bangladesh, Kuwait and Laos each carry the Cartesian product and relations material as a minor row — Bangladesh in one section (§1.9, printed p. 24), Kuwait inside its Grade 8 sets-and-relations unit (printed pp. 15–67), Laos inside its Grade 10 sets lessons (printed pp. 30–52) — and they are counted here as minor, exactly as filed.
+**Acceptance count: taught in 7 countries (Libya, Yemen, Bangladesh, Kuwait, Laos, Malaysia, Rwanda).** Libya carries the full binary-relations treatment — Cartesian product, equality of relations, domain and range, inverse relation — as the closing part of its Grade 10 sets chapter (printed pp. 9–43), the ground from which it then defines functions. Yemen carries the topic twice: in Grade 7 as the staircase ordered pair → Cartesian product (with S × T ≠ T × S) → relations (printed pp. 32, 34, 37), and in Grade 9 with transitive relations and equivalence relations as named lessons (printed pp. 17, 25) ahead of its function lesson. Bangladesh, Kuwait and Laos each carry the Cartesian product and relations material as a minor row — Bangladesh in one section (§1.9, printed p. 24), Kuwait inside its Grade 8 sets-and-relations unit (printed pp. 15–67), Laos inside its Grade 10 sets lessons (printed pp. 30–52) — and they are counted here as minor, exactly as filed.
 
 Additional Mathematics Form 4 opens with relations met in everyday situations, on the way to functions. (The classification of relations into their four types is Malaysia's Form 2 work and is filed under functions.)
+
+Rwanda teaches relations in Senior 1, closing its sets unit: relations and their properties (reflexive, symmetric, transitive; equivalence relations), ordered pairs and the Cartesian product, mappings with domain, codomain and range and their four types, and graphs of relations on the Cartesian plane.

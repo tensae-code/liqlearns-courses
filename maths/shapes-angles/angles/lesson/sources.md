@@ -1,6 +1,6 @@
 # Sources — Angles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda
 
 Every part traces to its book and page.
 
@@ -215,6 +215,20 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 111:** *Mathematics Form 1* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2016, ISBN 978-983-00-8271-4) and BM original *Matematik Tingkatan 1* (Penerbitan Pelangi Sdn. Bhd., 2016, ISBN 978-983-00-8244-8). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 112:** *Mathematics Form 2* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Rimbunan Ilmu Sdn. Bhd., 2017, ISBN 978-967-2031-06-2) and BM original *Matematik Tingkatan 2* (Rimbunan Ilmu Sdn. Bhd., 2017, ISBN 978-967-2031-05-5). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 113:** *Mathematics — Primary pupil's book — Year 2* (English edition) — Rwanda, Rwanda Education Board (REB), © 2020 (translated from the 2019 Kinyarwanda original). No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 114:** *Mathematics — Primary Learner's Book, Year 3* (English edition) — Rwanda, Rwanda Education Board (REB), © 2020 (translated from the 2019 Kinyarwanda original). No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 115:** *Imibare — Igitabo cy'Umunyeshuri, Umwaka wa 3* (Kinyarwanda original of the Year 3 pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 116:** *Primary Learner's Mathematics P4 for Rwanda Schools* (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 117:** *Mathematics for Rwandan Primary Schools — Pupil's Book 5* — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 118:** *Primary 6 Mathematics for Rwanda Schools — Learner's Book* — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 119:** *Mathematics for Rwandan Schools — Senior 1 Student's Book* — Rwanda, Longhorn Publishers (Rwanda) Ltd, 2016, ISBN 978 9997 74 483 8 (as printed). No REB approval wording is printed anywhere in the book. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Angles lesson: lines, rays and angles | Jordan, Grade 3 Student Book Term 1, Unit 6, L2 Angles, p.98 |
@@ -337,8 +351,14 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Parallel lines cut by a transversal: corresponding, alternate and interior angles; tests for parallelism; angles of elevation and depression in application exercises | Malaysia, Mathematics Form 1, Ch. 8 §8.3, printed pp. 188–198 |
 | Sum of interior angles of a polygon = (n − 2) × 180°, derived by triangulating from one vertex | Malaysia, Mathematics Form 2, Ch. 4 §4.2, printed pp. 62–64 |
 | Sum of exterior angles of a polygon = 360°; the interior and exterior angle of a regular polygon; finding the number of sides from a given angle | Malaysia, Mathematics Form 2, Ch. 4 §4.2, printed pp. 64–72 |
+| Right, acute and obtuse angles first met and compared (obtuse > right > acute), found and made in the classroom | Rwanda, Primary pupil's book, Year 2 (English), Unit 10, printed pp. 213–216 |
+| Straight, parallel and intersecting lines; right (90°), acute (< 90°) and obtuse (90°–180°) angles in degrees; measuring and drawing angles with a protractor; clock-hand angles; comparing angles | Rwanda, Primary Learner's Book, Year 3 (English), Unit 10 (§§10.1–10.4), printed pp. 273–286; End-of-year assessment C Q1, Q11, printed pp. 353, 355; Rwanda, Imibare, Pupil's Book, Year 3 (Kinyarwanda), Unit 10 (§§10.1–10.5), printed pp. 221–233 |
+| Line types including perpendicular, horizontal, vertical and oblique; the angle as amount of turn and the degree; acute, right, obtuse, straight (180°) and reflex angles; complementary and supplementary angles; measuring with a protractor | Rwanda, Primary Learner's Mathematics P4, pupil's book, Unit 14 (§§14.1, 14.3–14.5), printed pp. 145–146, 148–154 |
+| Angles on parallel lines and transversals — vertically opposite angles equal, angles on a straight line sum to 180°, angles at a point sum to 360°, corresponding and alternate angles equal, co-interior angles sum to 180°; drawing angles with a protractor; angle sum of a triangle = 180° | Rwanda, Mathematics for Rwandan Primary Schools, Pupil's Book 5, Unit 11 (§§11.1–11.7, 11.13), printed pp. 160–175, 191–192 |
+| Interior and exterior angles of polygons — at a vertex they sum to 180°, interior sum = (n − 2) × 180°, exterior sum 360°, one angle from the other, sides from one exterior angle; centre angle of a regular polygon = 360° ÷ number of sides | Rwanda, Primary 6 Mathematics, Learner's Book, Unit 12, printed pp. 207–215; Unit 13, printed pp. 246–247 |
+| Points, lines, segments and rays; angle types to reflex; angles on a straight line (180°) and at a point (360°); corresponding, alternate and co-interior angles from a transversal cutting parallel lines | Rwanda, Senior 1 Student's Book, Unit 6, printed pp. 139–153 |
 
-**Acceptance count: taught in 28 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia).** Egypt carries the fullest single Iran measures angles with a protractor in Grade 4, bisects angles and sums polygon angles in Grade 5, and gives the (n − 2) × 180° interior-angle rule in Grade 8.
+**Acceptance count: taught in 29 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda).** Egypt carries the fullest single Iran measures angles with a protractor in Grade 4, bisects angles and sums polygon angles in Grade 5, and gives the (n − 2) × 180° interior-angle rule in Grade 8.
 treatment — the angle kinds, the protractor, complementary and
 supplementary pairs, the transversal's eight angles, and the
 triangle and quadrilateral sums in one Grade 7 unit. Jordan
@@ -368,3 +388,5 @@ Syria meets the angle in Grade 3 beside point, line, ray and segment, names and 
 Saudi Arabia introduces the angle in Grade 4 — degrees alongside turns, the right angle named at 90°, acute and obtuse compared by size, and angles drawn to a given measure.
 
 Malaysia builds angles in Form 1 from measuring to parallels and transversals, then closes the polygon angle sums in Form 2, deriving the interior sum by triangulating from one vertex.
+
+Rwanda teaches angles from Year 2, where right, acute and obtuse angles are compared without degrees, through Year 3's protractor work in both editions, Year 4's complementary and supplementary angles, Year 5's transversal angles, Year 6's polygon angle sums, and Senior 1's lines-and-angles unit.

@@ -1,6 +1,6 @@
 # Sources — Volume and Surface Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda
 
 Every part traces to its book and page.
 
@@ -257,6 +257,18 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 107:** *Mathematics Form 3* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-983-00-9651-3) and BM original *Matematik Tingkatan 3* (Pustaka Yakin Pelajar Sdn. Bhd., 2018, ISBN 978-967-490-042-7). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 108:** *Additional Mathematics Form 5* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Abadi Ilmu Sdn. Bhd., 2020, ISBN 978-983-2914-68-6) and BM original *Matematik Tambahan Tingkatan 5* (Abadi Ilmu Sdn. Bhd., 2020, ISBN 978-983-2914-67-9). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 109:** *Primary Learner's Mathematics P4 for Rwanda Schools* (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 110:** *Primary Learner's Mathematics — Teachers' Guide for Rwanda Schools — P4* (teacher's guide) — Rwanda, Rwanda Education Board (REB) (the held copy prints no copyright page, year or ISBN). Teacher evidence: a true companion, its guidance keyed to the pupil's book by page. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 111:** *Mathematics for Rwandan Primary Schools — Pupil's Book 5* — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 112:** *Primary 6 Mathematics for Rwanda Schools — Learner's Book* — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 113:** *Primary 6 Mathematics for Rwanda Schools — Teacher's Guide* (teacher's guide) — Rwanda, Rwanda Education Board (REB), © 2018 (predates its © 2019 learner's book by a year). No ISBN printed. Teacher evidence: a true companion. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 114:** *Mathematics for Rwandan Schools — Senior 1 Student's Book* — Rwanda, Longhorn Publishers (Rwanda) Ltd, 2016, ISBN 978 9997 74 483 8 (as printed). No REB approval wording is printed anywhere in the book. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The prism and the pyramid — naming (p.91) | Jordan, Grade 5 Student Book Term 2, Unit 9, L7, p.91 |
@@ -372,8 +384,15 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Volume of a prism removed from a cuboid (40 cm³) and of what remains (100 cm³), ratio 2 : 5 — recovered from plan and elevation data (main filing: projections-and-views) | Malaysia, Mathematics Form 3, Ch. 7 §7.2, Example 11, printed p. 190 |
 | Volumes of combined solids (prism + cuboid, cuboid + cylinder, cube + semi-cylinder) worked out from their plans | Malaysia, Mathematics Form 3, Ch. 7 chapter exercise sets, printed pp. 193–194 |
 | Volumes of revolution about the x-axis and about the y-axis: V = π∫y² dx and V = π∫x² dy (main filing: integrals) | Malaysia, Additional Mathematics Form 5, Ch. 3 §3.3, printed pp. 105–108 |
+| Volume of a cuboid by counting unit cubes and by V = l × w × h (matchbox activity) | Rwanda, Primary Learner's Mathematics P4, pupil's book, Unit 7 (§7.2), printed pp. 92–93 |
+| Teacher's worked building of a cuboid's volume from unit cubes — one matchbox measured, 24 unit boxes piled into a big box of volume 24 cm³ — guide evidence | Rwanda, Primary Learner's Mathematics P4, Teachers' Guide, Unit 7, Activity 7.2 and Suggested Answers, printed pp. 90–91 |
+| Volume of cubes and cuboids V = l × w × h by counting unit-cube layers; a missing dimension from volume, height from volume and base area, and a face's area from volume and the third dimension; side of a cube from its volume | Rwanda, Mathematics for Rwandan Primary Schools, Pupil's Book 5, Unit 13 (§§13.7–13.10), printed pp. 223–234; Revision Q12, printed p. 237 |
+| Surface area of a cuboid 2lw + 2lh + 2wh from its net (cube as 6l²), with a length, width or height found back from the surface area; volume of a cylinder V = πr²h; revision of cubic units mm³–dam³ | Rwanda, Primary 6 Mathematics, Learner's Book, Unit 7, printed pp. 122–123; Unit 14, printed pp. 269–277 |
+| Teacher's extra worked example finding the width of a cuboid of surface area 370 cm², length 11 cm and height 9 cm from 2(lw + lh + wh) — guide evidence | Rwanda, Primary 6 Mathematics, Teacher's Guide, Unit 14 development, printed p. 294 |
+| Surface areas from nets — cuboid, cube, cylinder, prism, pyramid, cone (πrl + πr²), sphere 4πr² and hemisphere 3πr², and composite solids (exposed faces only) | Rwanda, Senior 1 Student's Book, Unit 7, printed pp. 158–175 |
+| Volumes — cubes and cuboids (1 m³ = 1,000,000 cm³), prism as cross-section area × length, cylinder πr²h, cone and pyramid as one third of the matching solid, sphere (4/3)πr³; problem solving mixing surface areas and volumes | Rwanda, Senior 1 Student's Book, Unit 7, printed pp. 175–191 |
 
-**Acceptance count: taught in 29 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia).**.** Sierra Leone carries the cleanest Iran gives the cuboid's volume in Grade 5, prism volumes and the cylinder's lateral area in Grade 7, and the sphere, pyramid and cone in Grade 9; its Grade 10 Geometry (1) treats the solids themselves without computing their volumes.
+**Acceptance count: taught in 30 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda).**.** Sierra Leone carries the cleanest Iran gives the cuboid's volume in Grade 5, prism volumes and the cylinder's lateral area in Grade 7, and the sphere, pyramid and cone in Grade 9; its Grade 10 Geometry (1) treats the solids themselves without computing their volumes.
 ladder — cubes, prisms and cylinders by cross-section × height,
 then surface areas by the net, in JSS 2. Egypt carries volume by
 counting unit cubes through V = l × w × h in Grade 5 and the
@@ -407,3 +426,5 @@ Syria counts unit cubes for volume in Grade 5, unwraps prisms and cylinders for 
 Saudi Arabia introduces volume by filling solids with unit cubes in Grade 3 — estimate, then count — and in Grade 4 counts cm³ including the hidden cubes, witnessed by the older 1445 Term-3 volumes, with practice evidence from the partial exercises book.
 
 Malaysia builds surface area from nets in Form 2 before giving any formula, takes volumes in the same chapter, and closes the topic in Additional Mathematics Form 5 with volumes of revolution about both axes.
+
+Rwanda teaches volume and surface area from Year 4's unit-cube cuboid (with its Teacher's Guide working the matchbox pile), through Year 5's missing dimensions and Year 6's cuboid surface area and cylinder volume, to Senior 1's full run of surface areas and volumes for prisms, pyramids, cones, cylinders and spheres.

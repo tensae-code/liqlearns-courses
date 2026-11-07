@@ -1,6 +1,6 @@
 # Sources — Functions
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia
+countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda
 
 Every part traces to its book and page.
 
@@ -149,6 +149,9 @@ CITATION CHECK PASSED 2026-11-05).
 **Book 83:** *Mathematics Form 4* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Sasbadi Sdn. Bhd., 2019, ISBN 978-983-77-1531-8) and BM original *Matematik Tingkatan 4* (Pustaka Yakin Pelajar Sdn. Bhd., 2019, ISBN 978-967-490-087-8). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 84:** *Additional Mathematics Form 4* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-967-2375-42-5 — the held copy is an image-only scan read visually; its contents pages, printed v–vi, are missing, the body is complete) and BM original *Matematik Tambahan Tingkatan 4* (Pan Asia Publications Sdn. Bhd., 2019, ISBN 978-967-466-377-3). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 
+
+**Book 85:** *Mathematics for Rwandan Schools — Senior 1 Student's Book* — Rwanda, Longhorn Publishers (Rwanda) Ltd, 2016, ISBN 978 9997 74 483 8 (as printed). No REB approval wording is printed anywhere in the book. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Cartesian product (ordered pairs, arrow and Cartesian diagrams, order matters); relations between sets, domain, range and representation; function (also called application): when a relation is a function, its domain, codomain and range, with worked examples; polynomial functions (constant, linear and quadratic) and their graphs | Egypt, Preparatory 3 old Term 1, Unit 1 Relations and functions, 1-1 Cartesian product p.2; 1-2 Relations p.8; 1-3 Function p.11; 1-4 Polynomial functions p.14 (French contents-page numbers) |
@@ -256,8 +259,11 @@ CITATION CHECK PASSED 2026-11-05).
 | Composite functions fg and gf, fg(x) = f[g(x)]; iterated composites f² and g²; finding an unknown inner or outer function when the composite is given; applications (factory revenue r(q(n)) = 400n − 10n²) | Malaysia, Additional Mathematics Form 4, Ch. 1 §1.2, printed pp. 12–18 |
 | Inverse functions: a function has an inverse if and only if it is one-to-one (the horizontal line test); verification by fg(x) = gf(x) = x; the graphs of f and f⁻¹ as reflections in the line y = x; the inverse found algebraically | Malaysia, Additional Mathematics Form 4, Ch. 1 §1.3, printed pp. 20–28 |
 | Vertex form f(x) = a(x − h)² + k and intercept form f(x) = a(x − p)(x − q), converted between the general, vertex and intercept forms; sketching a quadratic graph from the sign of a, the discriminant, the vertex and the y-intercept | Malaysia, Additional Mathematics Form 4, Ch. 2 §2.3, printed pp. 49–60 |
+| Functions as one-to-one or many-to-one mappings; function notation f(x) and evaluating functions; the inverse of a function f⁻¹ by interchanging x and y and solving; composite functions fg(x) and gf(x) | Rwanda, Senior 1 Student's Book, Unit 1, printed pp. 30–34 |
+| Linear functions and tables of values; graphs of linear equations as straight lines; the x- and y-intercepts of a line, found from the graph and from the equation | Rwanda, Senior 1 Student's Book, Unit 3, printed pp. 72–77 |
+| Gradient of a straight line as vertical change ÷ horizontal change; gradient through two known points, of horizontal lines (0) and of vertical lines (undefined); gradient from the intercepts and from the equation in the form y = mx + c | Rwanda, Senior 1 Student's Book, Unit 3, printed pp. 77–83 |
 
-**Acceptance count: taught in 23 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia).**.** Egypt carries the
+**Acceptance count: taught in 24 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda).**.** Egypt carries the
 fullest build — Cartesian product, relation, function, domain
 and range in Preparatory 3; the sign of a function in
 Secondary 1; the inverse function in Grade 11 Pure. Jordan
@@ -290,3 +296,5 @@ Syria defines the function in Grade 9 Algebra from a single worked case — imag
 Saudi Arabia introduces the function at primary level inside its Grade 4 algebra chapter — function tables with add/subtract and multiply/divide rules written symbolically, including finding a missing input and a conversion table read as a function.
 
 Malaysia builds functions in Form 2 from relations and their four types, then treats them in full in Additional Mathematics Form 4 — domain and range, composites, and inverses with the reflection in y = x.
+
+Rwanda teaches functions in Senior 1: mappings, f(x) notation, inverse and composite functions in Unit 1, and linear functions with their graphs, intercepts and gradient in Unit 3.

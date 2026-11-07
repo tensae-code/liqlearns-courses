@@ -1,6 +1,6 @@
 # Sources — Perimeter and Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda
 
 Every part traces to its book and page.
 
@@ -298,6 +298,16 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 133:** *Mathematics Form 5* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2020, ISBN 978-967-2930-12-9) and BM original *Matematik Tingkatan 5* (Penerbitan Pelangi Sdn. Bhd., 2020, ISBN 978-967-2907-93-0). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 134:** *Additional Mathematics Form 5* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Abadi Ilmu Sdn. Bhd., 2020, ISBN 978-983-2914-68-6) and BM original *Matematik Tambahan Tingkatan 5* (Abadi Ilmu Sdn. Bhd., 2020, ISBN 978-983-2914-67-9). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 135:** *Mathematics — Primary pupil's book — Year 2* (English edition) — Rwanda, Rwanda Education Board (REB), © 2020 (translated from the 2019 Kinyarwanda original). No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 136:** *Mathematics — Primary Learner's Book, Year 3* (English edition) — Rwanda, Rwanda Education Board (REB), © 2020 (translated from the 2019 Kinyarwanda original). No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 137:** *Imibare — Igitabo cy'Umunyeshuri, Umwaka wa 3* (Kinyarwanda original of the Year 3 pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 138:** *Primary Learner's Mathematics P4 for Rwanda Schools* (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 139:** *Primary 6 Mathematics for Rwanda Schools — Learner's Book* — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Perimeter (p.92); area (p.94); area of a rectangle (p.96) | Jordan, Grade 3 Student Book Term 2, Unit 11, L5–L7, pp.92–96 |
@@ -441,8 +451,13 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Area of a triangle = ½ab sin C, derived from base × height; Heron's formula with the semi-perimeter (s = 13.7 gives an area of 25.39 cm²) | Malaysia, Additional Mathematics Form 4, Ch. 9 §9.3, printed pp. 256–262 |
 | Area of the image under an enlargement = k² × the area of the object (main filing: transformations) | Malaysia, Mathematics Form 5, Ch. 5 §5.2, printed pp. 145–146 |
 | Perimeter of a segment of a circle: arc + chord, the chord found by the cosine rule or by the perpendicular-from-centre split (main filing: radian-measure) | Malaysia, Additional Mathematics Form 5, Ch. 1 §1.2, printed pp. 8–10 |
+| Perimeter first met by measuring round an object side by side; perimeter of a square = side × 4, of a rectangle = (length + width) × 2, of a triangle = side + side + side, with worked examples | Rwanda, Primary pupil's book, Year 2 (English), Unit 5, printed p. 140; Unit 12, printed pp. 225–226, 228–233; End of Year Assessment, printed p. 247 |
+| Perimeter formulas worked both ways — side = perimeter ÷ 4 for a square, side = perimeter ÷ 3 for an equilateral triangle — with end-of-year review perimeters | Rwanda, Primary Learner's Book, Year 3 (English), Unit 11 (§§11.1.2, 11.2.2, 11.3.3), printed pp. 292–293, 296–297, 304–305; End-of-year assessment C Q5–Q8, printed p. 354; Rwanda, Imibare, Pupil's Book, Year 3 (Kinyarwanda), Unit 11 (§§11.1.2, 11.2.2, 11.3.3), printed pp. 238, 242, 248–249 |
+| Perimeter as the distance around a closed figure, with mixed units converted first; fencing applications — items at intervals and poles around gardens, with cost; area by counting unit squares, area units km²–mm² and land units (hectare, are, centiare, acre); area of a rectangle A = l × w | Rwanda, Primary Learner's Mathematics P4, pupil's book, Unit 6 (§§6.7–6.8), printed pp. 83–88; Unit 9 (§§9.1–9.4), printed pp. 107–113 |
+| Areas derived — square, triangle (½ × base × height), parallelogram, rhombus (also ½ × product of diagonals) and trapezium (½ × sum of parallel sides × height); perimeter formulas restated for rectangle, parallelogram, square, rhombus and trapezium | Rwanda, Primary Learner's Mathematics P4, pupil's book, Unit 16 (§§16.2–16.9), printed pp. 164–174 |
+| Regular polygons — sides and apothem, perimeter = number of sides × side length, area = (apothem × perimeter) ÷ 2 | Rwanda, Primary 6 Mathematics, Learner's Book, Unit 12, printed pp. 215–219 |
 
-**Acceptance count: taught in 28 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia).** Sierra Leone carries the cleanest Iran counts squares for area in Grade 3, derives the parallelogram and triangle areas in Grade 4, adds the rhombus and trapezium in Grade 5, and reaches polygon areas in Grade 10 Geometry (1) and Heron's formula in Grade 11 Geometry (2).
+**Acceptance count: taught in 29 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda).** Sierra Leone carries the cleanest Iran counts squares for area in Grade 3, derives the parallelogram and triangle areas in Grade 4, adds the rhombus and trapezium in Grade 5, and reaches polygon areas in Grade 10 Geometry (1) and Heron's formula in Grade 11 Geometry (2).
 ladder — perimeter short cuts, rectangle and triangle areas with
 the perpendicular-height rule, and the parallelogram, trapezium
 and composite areas in JSS 2. Jordan carries perimeter and area
@@ -473,3 +488,5 @@ Syria explores perimeter and area by counting in Grade 3, gives the rectangle an
 Saudi Arabia separates the two measures cleanly: area by covering and counting squares from Grade 2, perimeter as the sum of the sides in Grade 3, then both formulas in Grade 4 with estimation first and the unknown side found from the area — witnessed by the older 1445 Term-3 volumes, with practice evidence from the partial exercises book.
 
 Malaysia derives its plane area formulae in Form 1 by cutting and rearranging — never just stating them — and returns to area at the top end with the shoelace formula for coordinates and ½ab sin C with Heron's formula for triangles.
+
+Rwanda teaches perimeter and area from Year 2's side-by-side measuring and first formulas, through Year 3's formulas worked both ways, Year 4's fencing problems, land units and derived areas for triangle, parallelogram, rhombus and trapezium, to Year 6's regular-polygon perimeter and area.

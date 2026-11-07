@@ -1,6 +1,6 @@
 # Sources — Geometric and Experimental Probability
 
-countries: Kazakhstan, Jordan, Nicaragua
+countries: Kazakhstan, Jordan, Nicaragua, Rwanda
 
 Every part traces to its book and page.
 
@@ -10,6 +10,10 @@ Every part traces to its book and page.
 **Book 4:** *Algebra 9* (student book) — Kazakhstan, Soltan G. N., Soltan A. E., Zhumadilova A. Zh., Kokshetau: Keleshek-2030, 2019; Kazakh edition ISBN 978-601-317-423-5, Russian edition ISBN 978-601-317-424-2 (one work in two language editions). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 5:** *Mathematics, Grade 9, Student's Book, Term 2* — Jordan, NCCD, 2nd edition 2023, ISBN 978-9923-41-407-1. Filed in maths/books/jordan.md (W8) (FULLY READ + CITATION CHECK PASSED).
 **Book 6:** *Matemática — Décimo Grado — Libro de Texto (NICAMATE)* — Nicaragua, MINED, Primera Edición (year left blank as printed). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 7:** *Mathematics for Rwandan Primary Schools — Pupil's Book 5* — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 8:** *Mathematics for Rwandan Primary Schools — Teacher's Guide 5* (teacher's guide) — Rwanda, Rwanda Education Board (REB), © 2018 (predates its © 2019 pupil's book by a year). No ISBN printed. Teacher evidence: a true companion; its front matter carries P4 content maps for "Units 16–18" that do not exist in the P5 course. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -22,5 +26,9 @@ Every part traces to its book and page.
 | Geometric probability as an area ratio; the broken-stick problem — two random breaks form a triangle with probability 1/4, by graphing the region in the unit square | Kazakhstan, Soltan et al., Algebra 9, §33, printed p.238 |
 | Geometric probability — probability as a ratio of lengths and areas; the final test's random-point-on-a-segment items | Jordan, Grade 9 Term 2, Unit 8 L5, printed p.165; final test, printed pp.172–174 |
 | Frequentist probability against classical/theoretical probability; absolute and relative frequency; the coin experiment repeated 500 times with cumulative relative frequency every 100 tosses | Nicaragua, Grade 10 (NICAMATE), printed pp.45–48 |
+| Experimental chance from recorded results (heads in 20 coin tosses; face counts in 48 dice tosses) | Rwanda, Mathematics for Rwandan Primary Schools, Pupil's Book 5, Unit 15 (§15.2), printed pp. 255–258 |
+| Teacher's note contrasting experimental (empirical) probability with theoretical probability — a fair coin tossed 10 times may give 6 heads, an experimental probability of 6/10 = 0.6 against the theoretical 1/2 — with the direction to teach probability from practical events at this level | Rwanda, Mathematics for Rwandan Primary Schools, Teacher's Guide 5, Unit 15, Notes to the teacher, printed p. 313 |
 
-**Acceptance count: taught in 3 countries (Kazakhstan, Jordan, Nicaragua).** Kazakhstan carries both halves across its four Grade 9 algebra books — geometric probability in all four (Yelemessov's dartboard, Shynybekov's meeting problem, Abylkasymova's three measures, Soltan's broken stick at 1/4) and the frequency definition in three of them, Yelemessov's book honestly recorded as having no statistical definition. Jordan carries geometric probability as a named closing lesson with examined segment items. Nicaragua carries the experimental half as a taught contrast — theoretical against frequentist — with its 500-toss coin experiment.
+**Acceptance count: taught in 4 countries (Kazakhstan, Jordan, Nicaragua, Rwanda).** Kazakhstan carries both halves across its four Grade 9 algebra books — geometric probability in all four (Yelemessov's dartboard, Shynybekov's meeting problem, Abylkasymova's three measures, Soltan's broken stick at 1/4) and the frequency definition in three of them, Yelemessov's book honestly recorded as having no statistical definition. Jordan carries geometric probability as a named closing lesson with examined segment items. Nicaragua carries the experimental half as a taught contrast — theoretical against frequentist — with its 500-toss coin experiment.
+
+Rwanda stocks the experimental half of this lesson in Primary 5 — chance found from recorded coin and dice results in the pupil's book, with the teacher's guide contrasting experimental probability (6 heads in 10 tosses = 0.6) against the theoretical 1/2; Rwanda teaches no geometric probability in the held books.

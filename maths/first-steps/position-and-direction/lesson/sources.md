@@ -1,6 +1,6 @@
 # Sources — Position and Direction
 
-countries: Kuwait, Bangladesh, Laos, North Macedonia, Pakistan, Yemen, Indonesia, China, Ghana, Syria, Saudi Arabia
+countries: Kuwait, Bangladesh, Laos, North Macedonia, Pakistan, Yemen, Indonesia, China, Ghana, Syria, Saudi Arabia, Rwanda
 
 Every part traces to its book and page.
 
@@ -20,6 +20,8 @@ Every part traces to its book and page.
 **Book 13:** *Mathematics, Pupil's Book, Grade 1, Semester 1* — Syria, Ministry of Education with the National Center for Curriculum Development (NCCD), held printing 2025–2026/1446H, first printed 2014–2015, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 14:** *Mathematics, Grade 1, Part One of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1448H–2026 (imprint © 1446H), ISBN 978-603-8527-23-8, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 15:** *Mathematics — Primary pupil's book — Year 2* (English edition) — Rwanda, Rwanda Education Board (REB), © 2020 (translated from the 2019 Kinyarwanda original). No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -41,9 +43,12 @@ Every part traces to its book and page.
 | Position words — above / below: saying where an object is relative to another; draw a fish above the fish and a fish below it | Saudi Arabia, Grade 1, Part One, Ch. 3, printed pp. 48–49 |
 | Position words — top, middle, bottom: naming the position of an object in a stack or picture | Saudi Arabia, Grade 1, Part One, Ch. 3, printed pp. 50–51 |
 | Before / after: the order of objects and events — which comes before and which after in a sequence | Saudi Arabia, Grade 1, Part One, Ch. 3, printed pp. 52–53 |
+| The grid as a frame for position — formed by vertical lines (posts) and horizontal lines (crossing bars); constructing a grid with a given number of posts and crossing bars | Rwanda, Primary pupil's book, Year 2 (English), Unit 11, printed pp. 219–220 |
 
-**Acceptance count: taught in 11 countries (Kuwait, Bangladesh, Laos, North Macedonia, Pakistan, Yemen, Indonesia, China, Ghana, Syria, Saudi Arabia).** Kuwait opens its Grade 1 course with position: over/under, above/below, right/left, then inside/between/outside (printed pp. 17, 20), and revisits position in space at Grade 2 (printed p. 17). Bangladesh carries the ordinals — first to tenth, counted from the front, the back, the left and the right (Class 2, printed pp. 34–39). Laos carries order as a named Grade 1 chapter (printed p. 22). North Macedonia carries the full set of pairs on one playground scene (printed p. 10) and then pair by pair, with movement (printed pp. 13–18). Pakistan carries the widest pair set in its Grade 1 geometry unit — inside/outside, above/below, over/under, far/near, before/after (printed pp. 116–126) — and the Primer's dog-and-kennel pages for left/right, in/out, up/down, front/back (printed pp. 134–135). Yemen carries relative positions inside its sorting-and-patterns unit (Grade 1 Part 1, printed pp. 18, 20). Indonesia carries position in its Grade 2 position-and-patterns chapter (printed pp. 101–124). China carries the eight compass directions, north-up maps and zoo-map routes at Grade 3 (Volume 2, Unit 1, printed p. 2). Ghana carries position and direction as teacher evidence only — step-by-step routes in the JICA B5 manual (Lessons 103–105) and the B6 manual (Lesson 93); Ghana's set holds no pupil textbook, so those rows are worded as teacher evidence wherever they are used.
+**Acceptance count: taught in 12 countries (Kuwait, Bangladesh, Laos, North Macedonia, Pakistan, Yemen, Indonesia, China, Ghana, Syria, Saudi Arabia, Rwanda).** Kuwait opens its Grade 1 course with position: over/under, above/below, right/left, then inside/between/outside (printed pp. 17, 20), and revisits position in space at Grade 2 (printed p. 17). Bangladesh carries the ordinals — first to tenth, counted from the front, the back, the left and the right (Class 2, printed pp. 34–39). Laos carries order as a named Grade 1 chapter (printed p. 22). North Macedonia carries the full set of pairs on one playground scene (printed p. 10) and then pair by pair, with movement (printed pp. 13–18). Pakistan carries the widest pair set in its Grade 1 geometry unit — inside/outside, above/below, over/under, far/near, before/after (printed pp. 116–126) — and the Primer's dog-and-kennel pages for left/right, in/out, up/down, front/back (printed pp. 134–135). Yemen carries relative positions inside its sorting-and-patterns unit (Grade 1 Part 1, printed pp. 18, 20). Indonesia carries position in its Grade 2 position-and-patterns chapter (printed pp. 101–124). China carries the eight compass directions, north-up maps and zoo-map routes at Grade 3 (Volume 2, Unit 1, printed p. 2). Ghana carries position and direction as teacher evidence only — step-by-step routes in the JICA B5 manual (Lessons 103–105) and the B6 manual (Lesson 93); Ghana's set holds no pupil textbook, so those rows are worded as teacher evidence wherever they are used.
 
 Syria names positions in a row with the ordinal numbers in Grade 1 Semester 1.
 
 Saudi Arabia teaches position in Grade 1's readiness chapters — above/below, top/middle/bottom, and before/after — the same ground this lesson's other early-grade books cover.
+
+Rwanda joins this lesson in Year 2 with the grid itself: a frame of vertical posts and horizontal crossing bars, constructed to a given count, on which position is then fixed.

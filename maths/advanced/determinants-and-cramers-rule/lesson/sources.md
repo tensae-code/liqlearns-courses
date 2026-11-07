@@ -1,6 +1,6 @@
 # Sources — Determinants and Cramer's Rule
 
-countries: Egypt, Cambodia, Kuwait, Laos, Nicaragua
+countries: Egypt, Cambodia, Kuwait, Laos, Nicaragua, Rwanda
 
 Every part traces to its book and page.
 
@@ -9,6 +9,10 @@ Every part traces to its book and page.
 **Book 3:** *Mathematics, Grade 10, Term 2 student book* — Kuwait, Ministry of Education, Second Edition 1447H / 2025–2026, ISBN 978-614-406-315-6. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED). (The file is named *-wb; the book's own cover and title page prove it is a student book, and it is cited as one.)
 **Book 4:** *Mathematics, Grade 12 student book (upper-secondary year 7)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2016 (2010 curriculum, revised). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 5:** *Matemática — Décimo Grado — Libro de Texto (NICAMATE)* — Nicaragua, MINED, Primera Edición (year left blank as printed). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 6:** *Advanced Mathematics for Rwanda Secondary Schools — Learner's Book, Senior Five* (ADVANCED stream) — Rwanda, Fountain Publishers Rwanda Ltd, 2017, ISBN 978-9970-19-410-0. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 7:** *Advanced Mathematics for Rwanda Secondary Schools — Teacher's Guide, Senior Five* (ADVANCED stream, teacher's guide) — Rwanda, Fountain Publishers Rwanda Ltd, 2017, ISBN 978-9970-19-411-7. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -24,5 +28,11 @@ Every part traces to its book and page.
 | Sarrus' rule for 3×3 determinants (repeating the first two columns) | Nicaragua, Grade 10, printed pp.233–234 |
 | Cramer's rule for 3×3 systems (worked: det A = 10, A₁ = 27, A₂ = 9, A₃ = 32) | Nicaragua, Grade 10, printed pp.235–238 |
 | Matrices used for codes: encoding and decoding a secret message with a matrix and its inverse (closing application) | Nicaragua, Grade 10, printed pp.243–244 |
+| The determinant of a 3×3 matrix by Sarrus' rule (three forms); minors and cofactors of a 3×3 determinant | Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 7, printed pp. 242–249 |
+| Properties of determinants, each shown by example; the inverse of a 3×3 matrix by the adjugate method | Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 7, printed pp. 249–257 |
+| Solving a 3×3 linear system by the inverse matrix and by Cramer's rule | Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 7, printed pp. 257–264 |
+| Teacher's note extending the determinant to a square matrix of general order n × n by minor/cofactor expansion along any row or column — the Learner's Book treats order 3 only | Rwanda, Advanced Mathematics, Teacher's Guide, Senior Five, Unit 7, printed pp. 126–127 |
 
-**Acceptance count: taught in 5 countries (Egypt, Cambodia, Kuwait, Laos, Nicaragua).** Egypt carries determinants and both solving methods in Secondary 1 Term 2 Unit 1 — determinants with the triangle-area application, then the 2×2 inverse with inverse-matrix and Cramer solutions. Cambodia carries 3×3 determinants and Cramer's rule in Grade 11 Basic Chapter 4, with all four worked systems on printed p.135 verified, including the no-solution and dependent cases. Kuwait carries the 2×2 determinant, the inverse formula and both solving methods for two unknowns in Grade 10 Term 2 Unit 7 — 2×2 only, as filed: no 3×3 determinants there. Laos carries determinants and inverse matrices in Grade 12 Chapter 3, stated as AX = B ⇒ X = A⁻¹B. Nicaragua carries the fullest determinants run — minors, cofactors, Sarrus' rule, Cramer's rule for 3×3 systems — and closes it with matrices used for codes.
+**Acceptance count: taught in 6 countries (Egypt, Cambodia, Kuwait, Laos, Nicaragua, Rwanda).** Egypt carries determinants and both solving methods in Secondary 1 Term 2 Unit 1 — determinants with the triangle-area application, then the 2×2 inverse with inverse-matrix and Cramer solutions. Cambodia carries 3×3 determinants and Cramer's rule in Grade 11 Basic Chapter 4, with all four worked systems on printed p.135 verified, including the no-solution and dependent cases. Kuwait carries the 2×2 determinant, the inverse formula and both solving methods for two unknowns in Grade 10 Term 2 Unit 7 — 2×2 only, as filed: no 3×3 determinants there. Laos carries determinants and inverse matrices in Grade 12 Chapter 3, stated as AX = B ⇒ X = A⁻¹B. Nicaragua carries the fullest determinants run — minors, cofactors, Sarrus' rule, Cramer's rule for 3×3 systems — and closes it with matrices used for codes.
+
+Rwanda teaches determinants and Cramer's rule in Advanced Mathematics Senior Five Unit 7 — Sarrus' rule, minors and cofactors, determinant properties, the adjugate inverse, and 3×3 systems solved by the inverse matrix and by Cramer's rule — with its Teacher's Guide extending the determinant to general order n × n.

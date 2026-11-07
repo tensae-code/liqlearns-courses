@@ -1,6 +1,6 @@
 # Sources — Shapes
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda
 
 Every part traces to its book and page.
 
@@ -269,6 +269,20 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 151:** *Mathematics Form 1* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2016, ISBN 978-983-00-8271-4) and BM original *Matematik Tingkatan 1* (Penerbitan Pelangi Sdn. Bhd., 2016, ISBN 978-983-00-8244-8). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 152:** *Mathematics Form 2* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Rimbunan Ilmu Sdn. Bhd., 2017, ISBN 978-967-2031-06-2) and BM original *Matematik Tingkatan 2* (Rimbunan Ilmu Sdn. Bhd., 2017, ISBN 978-967-2031-05-5). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 153:** *Mathematics — Primary pupil's book — Year 2* (English edition) — Rwanda, Rwanda Education Board (REB), © 2020 (translated from the 2019 Kinyarwanda original). No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 154:** *Mathematics — Primary Learner's Book, Year 3* (English edition) — Rwanda, Rwanda Education Board (REB), © 2020 (translated from the 2019 Kinyarwanda original). No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 155:** *Imibare — Igitabo cy'Umunyeshuri, Umwaka wa 3* (Kinyarwanda original of the Year 3 pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 156:** *Primary Learner's Mathematics P4 for Rwanda Schools* (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 157:** *Mathematics for Rwandan Primary Schools — Pupil's Book 5* — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 158:** *Primary 6 Mathematics for Rwanda Schools — Learner's Book* — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 159:** *Mathematics for Rwandan Schools — Senior 1 Student's Book* — Rwanda, Longhorn Publishers (Rwanda) Ltd, 2016, ISBN 978 9997 74 483 8 (as printed). No REB approval wording is printed anywhere in the book. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Polygons named and sorted by vertices; naming by number of sides | Egypt, Grade 3 Term 1 old edition, Chapter 4, printed pp.44–61 (Polygons p.44; Properties of Polygons) |
@@ -436,8 +450,16 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Regular polygons: equal sides and equal angles, the number of diagonals and the number of axes of symmetry | Malaysia, Mathematics Form 2, Ch. 4 §4.1, printed pp. 56–59 |
 | Geometric properties of three-dimensional shapes — prisms, pyramids, cylinders, cones and spheres: faces, edges, vertices, flat and curved surfaces | Malaysia, Mathematics Form 2, Ch. 6 §6.1, printed pp. 100–101 |
 | Nets of cube, cuboid, prism, pyramid, cylinder and cone, including judging whether a given net folds to the solid | Malaysia, Mathematics Form 2, Ch. 6 §6.2, printed pp. 102–103 |
+| Lines and shapes named from pictures; the square (4 equal sides, 4 right angles, made by folding and cutting paper), the rectangle (opposite sides equal, length and width) and the triangle (3 sides, 3 angles), identified among mixed shapes | Rwanda, Primary pupil's book, Year 2 (English), Unit 10 preliminary, printed p. 208; Unit 12, printed pp. 224–225, 227–228, 230–231, 233–234 |
+| The square and rectangle in depth — equal sides, right angles, diagonals and medians, parts named in labelled figures | Rwanda, Primary Learner's Book, Year 3 (English), Unit 11 (§§11.1.1, 11.2.1), printed pp. 289–291, 294–295 |
+| Triangles — 3 sides and 3 angles summing to 180°; equilateral, isosceles, right-angled and scalene triangles — the scalene definition taught corrected (both editions print a scalene triangle as having one obtuse angle and two acute angles; a scalene triangle has 3 sides of different lengths), and the angle-sum wording taught corrected (the English isosceles box prints the sum as that "of an equilateral triangle"; the Kinyarwanda twin correctly says of a triangle) | Rwanda, Primary Learner's Book, Year 3 (English), Unit 11 (§§11.3.1–11.3.2.4), printed pp. 298–303; Rwanda, Imibare, Pupil's Book, Year 3 (Kinyarwanda), Unit 11 (§11.3), printed pp. 245, 247 |
+| The circle as a shape — centre, radius and diameter, diameter = 2 × radius, the circumference as the circle's perimeter, drawn with compasses; end-of-year review of square/rectangle facts, triangles and circle parts | Rwanda, Primary Learner's Book, Year 3 (English), Unit 11 (§11.4), printed pp. 306–310; End-of-year assessment C Q2–Q4, printed pp. 353–354 |
+| 2D shapes named — triangle, square, rectangle, rhombus, parallelogram, kite, trapezium, pentagon; triangles classified by sides and by angles; quadrilateral, polygon and diagonal defined; property table for the quadrilateral family | Rwanda, Primary Learner's Mathematics P4, pupil's book, Unit 15 (§§15.1–15.3), printed pp. 157–162 |
+| Cubes and cuboids — properties (6 faces, 12 edges, 8 vertices), and their nets, judged and drawn | Rwanda, Mathematics for Rwandan Primary Schools, Pupil's Book 5, Unit 13 (§§13.4–13.6), printed pp. 217–222 |
+| Polygons named by number of sides from triangle (3) to decagon (10); nets of cuboids, cubes and prisms | Rwanda, Primary 6 Mathematics, Learner's Book, Unit 12, printed pp. 205–207; Unit 13, printed pp. 257–260 |
+| Properties of solids — faces, edges and vertices of cubes, cuboids, prisms, pyramids, cones, cylinders and spheres; nets of solids | Rwanda, Senior 1 Student's Book, Unit 7, printed pp. 154–165 |
 
-**Acceptance count: taught in 29 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
+**Acceptance count: taught in 30 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
 — polygons, triangles two ways, then the parallelogram family
 with its special cases. Egypt carries polygons by vertices in
 Grade 3 and the triangle/trapezium/kite sorting in Grade 5.
@@ -465,3 +487,5 @@ Syria names solids and their faces in Grades 1–2, counts faces, vertices and e
 Saudi Arabia names shapes from Grade 1 — solids sorted by roll/stack/slide, plane shapes by sides and vertices — counts faces, edges and vertices in Grade 2, classifies solids and names polygons to the nonagon in Grade 3, and in Grade 4 adds points, lines, perpendiculars and parallels and classifies triangles two ways, with the older 1445 Term-3 volumes witnessing the Part Two chapters.
 
 Malaysia names and classifies shapes in Form 1 (polygons, triangles, quadrilaterals) and returns in Form 2 for regular polygons and for the three-dimensional shapes and their nets.
+
+Rwanda teaches shapes across the primary years and into Senior 1: Year 2 names squares, rectangles and triangles, Year 3 gives their properties and triangle types in both the English and Kinyarwanda editions, Year 4 classifies triangles and quadrilaterals, Years 5–6 add cubes, cuboids, polygons and nets, and Senior 1 counts faces, edges and vertices across the solids.

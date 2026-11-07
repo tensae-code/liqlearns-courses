@@ -1,6 +1,6 @@
 # Sources — Conic Sections
 
-countries: Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria
+countries: Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda
 
 Every part traces to its book and page.
 
@@ -24,6 +24,8 @@ Every part traces to its book and page.
 **Book 18:** *Optional Mathematics, Grade 10* — Nepal, CDC, Sanothimi, First Edition 2083 BS. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 19:** *Mathematics, Part One, Grade 12 (Scientific track)* — Syria, Ministry of Education (the NCCD is not named on this book's title page), held printing 2025–2026/1447H, first printed 2016–2017, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 20:** *Advanced Mathematics for Rwanda Schools — Learner's Book, Senior Six* (ADVANCED stream) — Rwanda, Fountain Publishers Rwanda Ltd, © 2017, ISBN 978-9970-19-419-3. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -50,8 +52,18 @@ Every part traces to its book and page.
 | Conics as a baccalaureate chapter, C stream (Chapter 14) | Mauritania, 7AS-C, printed p.169 |
 | Parts of a cone — introduction ONLY (no parabola/ellipse/hyperbola equations worked out); a minor, starter source | Nepal, Grade 10 Optional, Lesson 8, §8.3, within pp.139–174 |
 | Iteration of a point map on the hyperbola x² − 5y² = 1 (guided problem): the sequence of points S_{n+1} = f(S_n) stays on the hyperbola and has integer coordinates | Syria, Grade 12 Scientific, Part One, printed p. 18 |
+| Conics as sections of a double cone; the focus–directrix definition PF = e·PM; eccentricity classes; degenerate conics; the general second-degree equation | Rwanda, Advanced Mathematics, Learner's Book, Senior Six, Unit 8, printed pp. 387–390 |
+| The parabola: derivation of y² = 4ax and x² = 4ay, shifted vertex forms, and the parametric form x = at², y = 2at; focal distance, focal chord and latus rectum; the tangent yy₀ = 2a(x + x₀), the normal and the tangency condition c = a/m | Rwanda, Advanced Mathematics, Learner's Book, Senior Six, Unit 8, printed pp. 390–398 |
+| The ellipse: focus–directrix derivation of x²/a² + y²/b² = 1 and the sum-of-distances definition, with axes, vertices and e = √(a²−b²)/a; the latus rectum 2b²/a, the shifted and parametric forms and the vertical-major case | Rwanda, Advanced Mathematics, Learner's Book, Senior Six, Unit 8, printed pp. 398–406 |
+| The ellipse from a slanted directrix; the tangent xx₀/a² + yy₀/b² = 1, the normal and the tangency condition c² = a²m² + b² | Rwanda, Advanced Mathematics, Learner's Book, Senior Six, Unit 8, printed pp. 406–410 |
+| The hyperbola: the difference-of-distances definition, x²/a² − y²/b² = 1, transverse and conjugate axes and asymptotes y = ±(b/a)x; the shifted form and the parametric form x = a sec t, y = b tan t; the rectangular hyperbola xy = c² with x = ct, y = c/t | Rwanda, Advanced Mathematics, Learner's Book, Senior Six, Unit 8, printed pp. 410–417 |
+| The hyperbola: the tangent xx₀/a² − yy₀/b² = 1, the tangency condition c² = a²m² − b² and normals | Rwanda, Advanced Mathematics, Learner's Book, Senior Six, Unit 8, printed pp. 417–420 |
+| The polar equation of a conic r = ep/(1 + e cos θ) with focus at the pole | Rwanda, Advanced Mathematics, Learner's Book, Senior Six, Unit 8, printed pp. 424–426 |
+| Applications: planetary eccentricity, parabolic and semi-elliptical arches, the cooling tower and the whispering gallery | Rwanda, Advanced Mathematics, Learner's Book, Senior Six, Unit 8, printed pp. 429–435 |
 
-**Acceptance count: taught in 14 countries (Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria).**
+**Acceptance count: taught in 15 countries (Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda).**
+
+Rwanda teaches conic sections whole in Advanced Mathematics Senior Six Unit 8 — the focus–directrix definition with eccentricity, all three conics with tangents and normals, the polar equation, and applications from planetary orbits to the whispering gallery.
 
 Greece carries the full conic course in one chapter of its Grade 11 orientation book: circle, parabola, ellipse and hyperbola, closing with classification of conics from the general second-degree equation. Iraq carries conics across two years: Grade 11 introduces them by slicing a double cone and teaches the circle in full, and Grade 12 teaches the conic as a locus with ratio e, then the parabola, ellipse and hyperbola each with its translated forms. Pakistan (Punjab) carries the widest single treatment in its Class 12 Chapter 6 — cone-cutting, the focus–directrix definition with e, all three conics, tangents and normals, translation and rotation of axes, and the general second-degree equation with classification and degenerate conics — with three printed values taught corrected in this lesson: the latus rectum 8/3, the hyperbola c² = 41 with foci (±√41, 0) and e = √41/4, and the parabola focus (−1/26, 3/52). Laos carries the cleanest single definition in its Grade 10 Chapter XI: MF/MH = e with the three cases of e, then the parabola, ellipse and hyperbola with their reduced and translated equations. Kuwait carries the three conics in Grade 12 Term 2 Unit 7, one lesson each, with eccentricity treated as a lesson of its own. Yemen carries the three conics as loci with their equations in Grade 12 Science Unit 4, and adds translation and rotation of the coordinate axes as the tool for simplifying conic equations.
 

@@ -1,6 +1,6 @@
 # Sources — Trigonometric Functions
 
-countries: China, Pakistan, Iraq, Greece, Iran, Vietnam, Ethiopia, South Sudan, Syria, Malaysia
+countries: China, Pakistan, Iraq, Greece, Iran, Vietnam, Ethiopia, South Sudan, Syria, Malaysia, Rwanda
 
 Every part traces to its book and page.
 
@@ -19,6 +19,9 @@ Every part traces to its book and page.
 
 **Book 12:** *Mathematics Form 5* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2020, ISBN 978-967-2930-12-9) and BM original *Matematik Tingkatan 5* (Penerbitan Pelangi Sdn. Bhd., 2020, ISBN 978-967-2907-93-0). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 13:** *Additional Mathematics Form 5* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Abadi Ilmu Sdn. Bhd., 2020, ISBN 978-983-2914-68-6) and BM original *Matematik Tambahan Tingkatan 5* (Abadi Ilmu Sdn. Bhd., 2020, ISBN 978-983-2914-67-9). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+
+
+**Book 14:** *Advanced Mathematics for Rwanda Secondary Schools — Learner's Book, Senior Five* (ADVANCED stream) — Rwanda, Fountain Publishers Rwanda Ltd, 2017, ISBN 978-9970-19-410-0. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -40,9 +43,14 @@ Every part traces to its book and page.
 | Positive and negative angles, and angles beyond 360°; trigonometric ratios of any angle from the unit circle and the reference angle | Malaysia, Additional Mathematics Form 5, Ch. 6 §§6.1–6.2, printed pp. 190–199 |
 | Graphs of the sine, cosine and tangent functions over extended domains: amplitude and period | Malaysia, Additional Mathematics Form 5, Ch. 6 §6.3, printed pp. 201–208 |
 | Applications of trigonometric functions in context | Malaysia, Additional Mathematics Form 5, Ch. 6 §6.6, printed pp. 222–226 |
+| Advanced: applications of trigonometric equations to simple harmonic motion (voltage/current models) and of trigonometric formulae to refraction (Snell's law) | Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 1, printed pp. 31–38 |
+| Advanced: domain and range of the six trigonometric functions; parity (odd/even) of trigonometric functions | Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 5, printed pp. 127–141 |
+| Advanced: periodicity of trigonometric functions; the period of a sin bx and a cos bx; the period of a combination of periodic functions as the LCM of the periods | Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 5, printed pp. 142–147 |
 
-**Acceptance count: taught in 10 countries (China, Pakistan, Iraq, Greece, Iran, Vietnam, Ethiopia, South Sudan, Syria, Malaysia).** China carries the full chapter — trig functions of a general angle, the graphs, y = A sin(ωx + φ), and the tide model — with its teacher guide as teacher evidence for the sine-line-first order. Pakistan carries all six functions with their domains and ranges, the sinusoidal family a + b sin(cθ + d), and Ferris-wheel and tide models. Iraq carries the circular functions whole in Grade 11 Scientific, and contributes a corrected calculator value from Grade 10 Scientific (tan(−36°) ≈ −0.7265, not the printed −0.588). Greece carries trig functions of any angle inside its B' Lykeiou trigonometry chapter. Iran carries periodicity and the tangent function's graph in Hesaban (2). Vietnam carries trigonometric functions as a named lesson in Toán 11 Volume 1. Ethiopia carries the graphs of sin, cos and tan with period, amplitude and the tangent's asymptotes in Grade 10. South Sudan carries trig graphs in Secondary 4.
+**Acceptance count: taught in 11 countries (China, Pakistan, Iraq, Greece, Iran, Vietnam, Ethiopia, South Sudan, Syria, Malaysia, Rwanda).** China carries the full chapter — trig functions of a general angle, the graphs, y = A sin(ωx + φ), and the tide model — with its teacher guide as teacher evidence for the sine-line-first order. Pakistan carries all six functions with their domains and ranges, the sinusoidal family a + b sin(cθ + d), and Ferris-wheel and tide models. Iraq carries the circular functions whole in Grade 11 Scientific, and contributes a corrected calculator value from Grade 10 Scientific (tan(−36°) ≈ −0.7265, not the printed −0.588). Greece carries trig functions of any angle inside its B' Lykeiou trigonometry chapter. Iran carries periodicity and the tangent function's graph in Hesaban (2). Vietnam carries trigonometric functions as a named lesson in Toán 11 Volume 1. Ethiopia carries the graphs of sin, cos and tan with period, amplitude and the tangent's asymptotes in Grade 10. South Sudan carries trig graphs in Secondary 4.
 
 Syria studies the tangent function completely in Grade 12 Part One — domain, period, asymptotes and derivative.
 
 Malaysia teaches trigonometric functions twice: in Form 5 core, ratios in all four quadrants and the three graphs on 0°–360° with amplitude and period; and in Additional Mathematics Form 5, angles of any size and the graphs over extended domains.
+
+Rwanda teaches trigonometric functions in its Advanced Senior Five book: the domain, range, parity and periodicity of the six functions, the period of combinations as the LCM of the periods, and applications to simple harmonic motion and to Snell's law.

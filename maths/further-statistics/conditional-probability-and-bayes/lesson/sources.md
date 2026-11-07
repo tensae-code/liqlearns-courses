@@ -1,6 +1,6 @@
 # Sources — Conditional Probability and Bayes' Theorem
 
-countries: Kuwait, Egypt, Cambodia, Greece, Kazakhstan, Nicaragua, Iraq, Sierra Leone, Syria, Malaysia
+countries: Kuwait, Egypt, Cambodia, Greece, Kazakhstan, Nicaragua, Iraq, Sierra Leone, Syria, Malaysia, Rwanda
 
 Every part traces to its book and page.
 
@@ -20,6 +20,8 @@ Every part traces to its book and page.
 **Book 13:** *Mathematics, Part Two, Grade 12 (Scientific track)* — Syria, Ministry of Education, held printing 2025–2026/1447H, first printed 2016–2017, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 14:** *Mathematics Form 4* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Sasbadi Sdn. Bhd., 2019, ISBN 978-983-77-1531-8) and BM original *Matematik Tingkatan 4* (Pustaka Yakin Pelajar Sdn. Bhd., 2019, ISBN 978-967-490-087-8). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 15:** *Advanced Mathematics for Rwanda Secondary Schools — Learner's Book, Senior Five* (ADVANCED stream) — Rwanda, Fountain Publishers Rwanda Ltd, 2017, ISBN 978-9970-19-410-0. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -41,9 +43,15 @@ Every part traces to its book and page.
 | Dependent and independent events distinguished — drawing with replacement against drawing without replacement | Malaysia, Mathematics Form 4, Ch. 9 §9.2, printed pp. 246–248 |
 | The probability of combined independent events: P(A and B) = P(A) × P(B) | Malaysia, Mathematics Form 4, Ch. 9 §9.2, printed pp. 249–251 |
 | The probability of combined dependent events read from a tree diagram (8 green and 1 red marble, drawn without replacement: P(both green) = 8/9 × 7/8 = 7/9) | Malaysia, Mathematics Form 4, Ch. 9 §9.2, printed pp. 251–252 |
+| Independent events and the multiplication law P(A∩B) = P(A)P(B); testing independence using P(A∪B); probabilities for a biased coin from the total-probability condition (Advanced) | Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 10, printed pp. 440–442 |
+| Conditional probability P(B|A) = P(A∩B)/P(A) and the general multiplication law (Advanced) | Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 10, printed pp. 443–445 |
+| Contingency (two-way) tables: marginal and joint frequencies; probabilities read from a table (Advanced) | Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 10, printed pp. 445–447 |
+| Bayes' theorem for a partition into incompatible exhaustive events, applied to machine production and defective parts (Advanced) | Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 10, printed pp. 448–450 |
 
-**Acceptance count: taught in 10 countries (Kuwait, Egypt, Cambodia, Greece, Kazakhstan, Nicaragua, Iraq, Sierra Leone, Syria, Malaysia).** Kuwait carries the fullest treatment twice over — Grade 10 lesson 10-5 builds independent and dependent events, conditional probability and Bayes with the quality-test example, and Grade 11 lesson 11-3 re-teaches the rules and returns to conditional probability and Bayes. Egypt carries conditional probability and independent events as two named lessons side by side in its Grade 12 Statistics book. Cambodia carries the topic at three levels: introduced in Grade 11 Basic, worked with the P(B|A) notation and Bayes-type problems in Grade 11 Advanced, and given in full — Bayes' theorem with the total-probability formula — in the PRIVATE Khem Putthi Probability booklet (PRIVATE, not MoEYS). Greece carries conditional probability with independent events in its Grade 12 EPAL statistics book. Kazakhstan carries the count-based proof of the multiplication form in Shynybekov's Algebra 9. Nicaragua carries independent events and then conditional probability with its formula box, worked on dice and a bus problem. Iraq carries the dependent/independent groundwork in Grade 9 and the probability rules in Grade 11 Scientific. Sierra Leone carries the dependent-draw idea through tree diagrams only, with no P(A|B) notation and no Bayes, as filed — its trees are this lesson's picture of a changing chance, not a source for the symbol or the theorem.
+**Acceptance count: taught in 11 countries (Kuwait, Egypt, Cambodia, Greece, Kazakhstan, Nicaragua, Iraq, Sierra Leone, Syria, Malaysia, Rwanda).** Kuwait carries the fullest treatment twice over — Grade 10 lesson 10-5 builds independent and dependent events, conditional probability and Bayes with the quality-test example, and Grade 11 lesson 11-3 re-teaches the rules and returns to conditional probability and Bayes. Egypt carries conditional probability and independent events as two named lessons side by side in its Grade 12 Statistics book. Cambodia carries the topic at three levels: introduced in Grade 11 Basic, worked with the P(B|A) notation and Bayes-type problems in Grade 11 Advanced, and given in full — Bayes' theorem with the total-probability formula — in the PRIVATE Khem Putthi Probability booklet (PRIVATE, not MoEYS). Greece carries conditional probability with independent events in its Grade 12 EPAL statistics book. Kazakhstan carries the count-based proof of the multiplication form in Shynybekov's Algebra 9. Nicaragua carries independent events and then conditional probability with its formula box, worked on dice and a bus problem. Iraq carries the dependent/independent groundwork in Grade 9 and the probability rules in Grade 11 Scientific. Sierra Leone carries the dependent-draw idea through tree diagrams only, with no P(A|B) notation and no Bayes, as filed — its trees are this lesson's picture of a changing chance, not a source for the symbol or the theorem.
 
 Syria's conditional probability is in Grade 12 Part Two: the definition, the product form, probability trees with the node rule, the law of total probability proved, and a Bayes-type question worked straight from the definition.
 
 Malaysia's Form 4 probability chapter is built on the dependent/independent split — the product rule for independent events, and tree diagrams when the second draw depends on the first. Bayes' theorem itself is not in Malaysia's books; that part of the lesson stands on the other countries.
+
+Rwanda teaches conditional probability and Bayes' theorem in Advanced Senior Five — independent events and the multiplication law, conditional probability P(B|A) = P(A∩B)/P(A), contingency tables, and Bayes' theorem for a partition into incompatible exhaustive events, applied to machine production and defective parts.

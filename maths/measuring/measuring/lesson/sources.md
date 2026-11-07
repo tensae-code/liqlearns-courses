@@ -1,6 +1,6 @@
 # Sources — Measuring
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda
 
 Every part traces to its book and page.
 
@@ -284,6 +284,20 @@ READ + CITATION CHECK PASSED 2026-11-05).
 
 **Book 141:** *Mathematics, Grade 4, Third Term Exercises Book (كتاب التمارين)* — Saudi Arabia, Ministry of Education, edition 1443H–2021; no ISBN printed in the surviving pages, Arabic. PARTIAL copy: only printed pp. 20–47 survive, so its rows are practice evidence for Chs. 9–12 only — never for Ch. 7/8 content. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 142:** *Mathematics — Primary pupil's book — Year 2* (English edition) — Rwanda, Rwanda Education Board (REB), © 2020 (translated from the 2019 Kinyarwanda original). No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 143:** *Mathematics — Primary Learner's Book, Year 3* (English edition) — Rwanda, Rwanda Education Board (REB), © 2020 (translated from the 2019 Kinyarwanda original). No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 144:** *Imibare — Igitabo cy'Umunyeshuri, Umwaka wa 3* (Kinyarwanda original of the Year 3 pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 145:** *Mathematics — Primary 3 Teacher's Guide* (English edition, teacher's guide) — Rwanda, Rwanda Education Board (REB), © 2020. No ISBN printed. Teacher evidence: a true companion, but its contents pagination is wrong throughout and its year-end answer key is incomplete. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 146:** *Primary Learner's Mathematics P4 for Rwanda Schools* (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 147:** *Mathematics for Rwandan Primary Schools — Pupil's Book 5* — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 148:** *Primary 6 Mathematics for Rwanda Schools — Learner's Book* — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The centimetre (p.88); the metre (p.90); the gram and the kilogram (p.92); the litre and the millilitre (p.94) | Jordan, Grade 2 Student Book Term 2, Unit 10, L1–L4, pp.88–94 |
@@ -428,8 +442,19 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Estimating then measuring in centimetres; the metric length units compared; capacity in litres and millilitres; mass in grams, kilograms and the tonne, with kg ↔ g conversion | Saudi Arabia, Grade 4, Part Two, Ch. 9, printed pp. 93–117 |
 | Parallel witness: the same measurement lessons in the older 1445 edition (witness only) | Saudi Arabia, Grade 4, Third Term (1445), Ch. 9, printed pp. 13–36 |
 | Practice evidence (PARTIAL copy — Ch. 9 pages only): length, capacity and mass estimates and unit choices; converting kg ↔ g | Saudi Arabia, Grade 4 Exercises Book (1443, partial), printed pp. 20, 23–24 |
+| Length in metres — measuring with metre and 30 cm rulers, 1 m = 10 dm = 100 cm, converting, comparing, ordering, adding, subtracting, multiplying and dividing lengths, with word problems and measuring tools | Rwanda, Primary pupil's book, Year 2 (English), Unit 5, printed pp. 133–146 |
+| Capacity in litres — filling and comparing containers, adding, subtracting, multiplying and dividing capacities, with word problems | Rwanda, Primary pupil's book, Year 2 (English), Unit 6, printed pp. 149–156 |
+| Mass in kilograms — balances and their types, measuring, comparing, adding, subtracting, multiplying and dividing masses, with word problems | Rwanda, Primary pupil's book, Year 2 (English), Unit 7, printed pp. 159–170 |
+| Length on the full ladder km–hm–dam–m–dm–cm–mm — each step 10 times the next, converting with a table, comparing, ordering, and adding, subtracting, multiplying and dividing lengths | Rwanda, Primary Learner's Book, Year 3 (English), Unit 5 (§§5.1–5.15), printed pp. 155–177; Rwanda, Imibare, Pupil's Book, Year 3 (Kinyarwanda), Unit 5 (§§5.1–5.16), printed pp. 121–140 |
+| Mass on the ladder kg–hg–dag–g — 1 kg = 1 000 g, gram as standard unit, converting, comparing, ordering, and adding, subtracting, multiplying and dividing masses | Rwanda, Primary Learner's Book, Year 3 (English), Unit 6 (§§6.1–6.14), printed pp. 181–202; Rwanda, Imibare, Pupil's Book, Year 3 (Kinyarwanda), Unit 6 (§§6.1–6.15), printed pp. 142–161 |
+| Capacity on the ladder l–dl–cl–ml — 1 l = 1 000 ml, converting, comparing, ordering, and adding, subtracting, multiplying and dividing capacities — the §7.10 subtraction taught corrected (the English edition prints the faulty line "100 cl – 30 dl = 70 cl"; the Kinyarwanda twin works it correctly in millilitres) and the §7.14 answer taught corrected (75 jerrycans, not the English edition's printed "75 l") | Rwanda, Primary Learner's Book, Year 3 (English), Unit 7 (§§7.1–7.14), printed pp. 205–227; Rwanda, Imibare, Pupil's Book, Year 3 (Kinyarwanda), Unit 7 (§§7.1–7.15), printed pp. 162–182 (the differing worked examples at printed pp. 175, 180) |
+| Teacher's note introducing length, mass and capacity through non-standard units as well as standard units, and through estimating before measuring — guide evidence | Rwanda, Primary 3 Teacher's Guide (English), Units 5, 6 and 7 ending points, "Additional information for the teacher", Unit 5 printed p. 156 area; Unit 6 printed p. 177 area; Unit 7 printed p. 196 area (guide printed pages as listed in its contents, which drift) |
+| Length in Year 4 — instruments from ruler to vernier calliper and micrometer screw gauge, non-standard units (handspan, cubit, pace) and why they vary, the metric ladder km–mm, estimating and converting lengths; measuring a line segment with compasses and ruler | Rwanda, Primary Learner's Mathematics P4, pupil's book, Unit 6 (§§6.1–6.5), printed pp. 74–81; Unit 14 (§14.2), printed p. 146 |
+| Capacity and volume in Year 4 — capacity distinguished from volume, the 1 cm cube = 1 cm³, estimating capacities, converting kl–ml; mass — kg as standard unit, tonne = 1 000 kg, quintal = 100 kg, converting kg–mg | Rwanda, Primary Learner's Mathematics P4, pupil's book, Unit 7 (§§7.1–7.4, 7.6), printed pp. 90–96, 98; Unit 8 (§§8.1–8.3, 8.5), printed pp. 100–106 |
+| Revision conversions across length, capacity and mass, including tonnes and quintals; compound-unit subtraction and stride problems | Rwanda, Mathematics for Rwandan Primary Schools, Pupil's Book 5, Unit 7 (§7.1), printed pp. 114–115 |
+| Revision of mass (tonne–milligram) and capacity (kilolitre–millilitre); the relationship 1 litre = 1 kg = 1 dm³ for water, and converting between volume, capacity and mass on the combined table | Rwanda, Primary 6 Mathematics, Learner's Book, Unit 7, printed pp. 119–126 |
 
-**Acceptance count: taught in 28 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia).**.** Sierra Leone carries the cleanest Iran compares longer and shorter and heavier and lighter in Grade 1 — the heavier-marking activity is at printed p. 168 — reads the clock there too, and measures length in centimetres and millimetres in Grade 2.
+**Acceptance count: taught in 29 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda).**.** Sierra Leone carries the cleanest Iran compares longer and shorter and heavier and lighter in Grade 1 — the heavier-marking activity is at printed p. 168 — reads the clock there too, and measures length in centimetres and millimetres in Grade 2.
 single ladder — length, mass and volume distinguished, then the
 three conversion tables in JSS 1. Jordan carries the four
 standard units in one Grade 2 unit (centimetre, metre, gram and
@@ -458,3 +483,5 @@ Pakistan (Punjab) carries measuring from the Primer's informal comparisons throu
 Syria measures first with non-standard units in Grade 1, moves to centimetres, kilograms and the balance in Grade 2, builds the metric ladders for length, mass and capacity through Grades 3–5, converts between neighbouring area units (×/÷ 100) and volume units (×/÷ 1000) in Grade 6, and states the whole metric system with scale drawing in Grade 7. One pair of printed rules is taught corrected: the Grade 6 book's rules for converting between neighbouring area units are reversed on pp. 151–152 — its own staircase diagram and worked example use the correct directions.
 
 Saudi Arabia measures the full primary way: non-standard units and direct comparison in Grade 1, centimetres, millilitres and grams in Grade 2, millimetres and the km in Grade 3, and the tonne with unit conversion in Grade 4 — always estimating before measuring — with the older 1445 Term-3 volumes witnessing each Part Two chapter and the partial exercises book adding practice evidence.
+
+Rwanda teaches measuring through the whole primary course: Year 2 works in metres, litres and kilograms, Year 3 climbs the full length, mass and capacity ladders in both the English and Kinyarwanda editions (with its Teacher's Guide adding non-standard units and estimating first), Year 4 adds precision instruments, tonnes and quintals, and Years 5–6 revise the conversions and tie litre, kilogram and cubic decimetre together for water.

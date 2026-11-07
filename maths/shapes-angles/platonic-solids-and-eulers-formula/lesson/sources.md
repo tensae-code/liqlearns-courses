@@ -1,6 +1,6 @@
 # Sources — Platonic solids and Euler's formula
 
-countries: Nicaragua, China, Armenia, Greece, South Africa, Syria
+countries: Nicaragua, China, Armenia, Greece, South Africa, Syria, Rwanda
 
 Every part traces to its book and page.
 
@@ -14,6 +14,8 @@ Every part traces to its book and page.
 
 **Book 8:** *Mathematics, Pupil's Book, Grade 5* — Syria, Ministry of Education with the National Center for Curriculum Development (NCCD), held printing 2025–2026/1446H, first printed 2016–2017, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 9:** *Mathematics for Rwandan Schools — Senior 1 Student's Book* — Rwanda, Longhorn Publishers (Rwanda) Ltd, 2016, ISBN 978 9997 74 483 8 (as printed). No REB approval wording is printed anywhere in the book. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The five regular polyhedra, named and built from nets | Nicaragua, Grade 10, Unit 6 (pp.304–308); South Africa, Grade 8 Workbook, WS127–129 (pp.168–191); South Africa, Grade 9 Workbook, WS114–116 (pp.132–159) |
@@ -23,9 +25,12 @@ Every part traces to its book and page.
 | The Euler-characteristic table for prisms, pyramids and frustums | China, A edition, Ch.8 review exercise (as filed in maths/books/china.md) |
 | Presenting and checking the five solids | South Africa, Grade 8 Workbook, WS129 (pp.168–191) |
 | A polyhedron counted by its faces, vertices and edges — a cuboid has 6 faces, 12 edges and 8 vertices; a triangular prism 5 faces, 9 edges and 6 vertices — and solids built from their nets, with a net drawn for a given solid (the cylinder's and cone's curved surfaces described alongside) | Syria, Grade 5 pupil's book, printed pp. 113–118 |
+| Euler's relation f + v = e + 2 for polyhedra, from a faces/edges/vertices table | Rwanda, Senior 1 Student's Book, Unit 7, printed pp. 157–158 |
 
-**Acceptance count: taught in 6 countries (Nicaragua, China, Armenia, Greece, South Africa, Syria).**
+**Acceptance count: taught in 7 countries (Nicaragua, China, Armenia, Greece, South Africa, Syria, Rwanda).**
 
 Nicaragua's Grade 10 book gives the fullest treatment: Unit 6 defines polyhedra, then teaches the five regular polyhedra — tetrahedron, hexahedron (cube), octahedron, dodecahedron and icosahedron — with a group activity building all five from coloured card nets. China's B edition meets Euler's formula V + F − E = 2 as an exploration inside its solid-geometry chapter, and its A edition sets the characteristic as a table exercise over prisms, pyramids and frustums in the chapter review. Armenia states Euler's formula inside its Grade 10 polyhedra chapter (Ch.II, p.74). Greece's senior book closes its solid-figures chapter with the regular polyhedra, and South Africa's Grade 8 and Grade 9 workbooks drill the five Platonic solids, their nets, and the faces–vertices–edges counts that Euler's formula ties together.
 
 Syria counts a polyhedron by its faces, vertices and edges in Grade 5 and builds solids from their nets.
+
+Rwanda meets Euler's relation in Senior 1, where f + v = e + 2 is built from a faces, edges and vertices table for polyhedra.

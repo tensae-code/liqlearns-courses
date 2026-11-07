@@ -1,6 +1,6 @@
 # Sources — Constructions with ruler and compass
 
-countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia
+countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda
 
 Every part traces to its book and page.
 
@@ -24,6 +24,10 @@ Every part traces to its book and page.
 **Book 13:** *Mathematics Form 2* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Rimbunan Ilmu Sdn. Bhd., 2017, ISBN 978-967-2031-06-2) and BM original *Matematik Tingkatan 2* (Rimbunan Ilmu Sdn. Bhd., 2017, ISBN 978-967-2031-05-5). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 14:** *Mathematics Form 3* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-983-00-9651-3) and BM original *Matematik Tingkatan 3* (Pustaka Yakin Pelajar Sdn. Bhd., 2018, ISBN 978-967-490-042-7). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 15:** *Mathematics for Rwandan Primary Schools — Pupil's Book 5* — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 16:** *Primary 6 Mathematics for Rwanda Schools — Learner's Book* — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Do it first: bisect a segment with string or paper | Sierra Leone, SSS 2 Term 2, L79 (p.90) — substitute compass from string or a strip of paper |
@@ -44,11 +48,16 @@ Every part traces to its book and page.
 | Constructing angles (60°, 90°, 120°, 15°) and angle bisectors | Malaysia, Mathematics Form 1, Ch. 8 §8.1, printed pp. 181–184 |
 | Constructing regular polygons with ruler and compasses (and by folding) | Malaysia, Mathematics Form 2, Ch. 4 §4.1, printed pp. 60–61 |
 | The perpendicular bisector and the angle bisector constructed again as loci — the points equidistant from two fixed points, and from two intersecting lines (main filing: loci) | Malaysia, Mathematics Form 3, Ch. 8 §8.2, Examples 5 and 9, printed pp. 207, 211 |
+| Bisecting an angle by paper folding and with compasses and ruler; constructing 90°, then 45° and 22.5° by bisection; constructing 60°, then 30° and 15° by bisection; 120° and 150° as supplements on a straight line | Rwanda, Mathematics for Rwandan Primary Schools, Pupil's Book 5, Unit 11 (§§11.8–11.12), printed pp. 175–190 |
+| Drawing triangles, a square and a rectangle, and regular pentagons and hexagons, with ruler and protractor (using the interior angles 108° and 120°) | Rwanda, Primary 6 Mathematics, Learner's Book, Unit 13, printed pp. 229–240 |
+| Constructing triangles (SSS and SAS), a rectangle and a square with ruler and compasses only; constructing regular pentagons, hexagons, septagons (heptagons), octagons, nonagons and decagons in a circle from the centre angle | Rwanda, Primary 6 Mathematics, Learner's Book, Unit 13, printed pp. 240–257 |
 
-**Acceptance count: taught in 9 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia).**
+**Acceptance count: taught in 10 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda).**
 
 Sierra Leone teaches the fullest school construction course here: SSS 2 Term 2 lessons 79–83 work through bisection and the constructible angles in order, and its JSS 1 handbook gives the first constructions. Laos builds the same skills in Grade 6 — parallels and perpendiculars through a point, the perpendicular bisector, copying an angle and a segment — after using a compass from Grade 4. Iran is the country that insists on reasons: its Geometry (1) presents constructions with justifications, so each arc is there for a stated cause. Armenia teaches construction as a method, with the stages of a construction problem named as part of the work. Pakistan's Grade 6 practical-geometry unit and Bangladesh's Class 7 experiments give the same constructions as set exercises, and Kuwait's Grade 7 Term 2 Unit 6 carries a long construction unit of its own.
 
 Syria's constructions run from copying an arc with compasses in Grade 6, through set-square and compass triangle constructions in Grade 7, to dividing a segment into equal parts by parallels in Grades 8–9 Geometry.
 
 Malaysia teaches construction inside its Form 1 lines-and-angles chapter — the full basic kit in one run — and meets the two great bisectors again in Form 3, built as loci.
+
+Rwanda teaches constructions in Years 5–6: Year 5 bisects angles and builds 90°, 60° and their bisections and supplements with compasses, and Year 6 draws shapes with ruler and protractor before constructing triangles, squares, rectangles and regular polygons up to the decagon with ruler and compasses only.

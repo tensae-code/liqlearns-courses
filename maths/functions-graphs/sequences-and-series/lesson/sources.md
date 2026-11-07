@@ -1,6 +1,6 @@
 # Sources — Sequences and series
 
-countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia
+countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda
 
 Every part traces to its book and page.
 
@@ -139,6 +139,21 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 **Book 75:** *Mathematics Form 4* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Sasbadi Sdn. Bhd., 2019, ISBN 978-983-77-1531-8) and BM original *Matematik Tingkatan 4* (Pustaka Yakin Pelajar Sdn. Bhd., 2019, ISBN 978-967-490-087-8). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 76:** *Additional Mathematics Form 4* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-967-2375-42-5 — the held copy is an image-only scan read visually; its contents pages, printed v–vi, are missing, the body is complete) and BM original *Matematik Tambahan Tingkatan 4* (Pan Asia Publications Sdn. Bhd., 2019, ISBN 978-967-466-377-3). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 
+
+**Book 77:** *Mathematics — Primary Learner's Book, Year 3* (English edition) — Rwanda, Rwanda Education Board (REB), © 2020 (translated from the 2019 Kinyarwanda original). No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 78:** *Imibare — Igitabo cy'Umunyeshuri, Umwaka wa 3* (Kinyarwanda original of the Year 3 pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 79:** *Primary Learner's Mathematics P4 for Rwanda Schools* (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 80:** *Mathematics for Rwandan Primary Schools — Pupil's Book 5* — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 81:** *Primary 6 Mathematics for Rwanda Schools — Learner's Book* — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 82:** *Advanced Mathematics for Rwanda Secondary Schools — Learner's Book, Senior Five* (ADVANCED stream) — Rwanda, Fountain Publishers Rwanda Ltd, 2017, ISBN 978-9970-19-410-0. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 83:** *Advanced Mathematics for Rwanda Schools — Learner's Book, Senior Six* (ADVANCED stream) — Rwanda, Fountain Publishers Rwanda Ltd, © 2017, ISBN 978-9970-19-419-3. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Arithmetic sequence: common difference d; general term aₙ = a₁ + (n−1)d; middle-term (arithmetic mean) formula; sum of the first n terms Sₙ = (a₁+aₙ)/2 · n with a pairing proof, and the 2a₁+(n−1)d form; applied problems (concert-hall seating, population growth, tomato harvest, well-drilling cost) | Kazakhstan, Algebra 9 (Yelemessov, English), §3.2 Arithmetic sequence, p.84; applied problems p.94 |
@@ -231,8 +246,19 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 | A strong inductive conclusion — a general term — formed for a number sequence (main filing: mathematical-logic) | Malaysia, Mathematics Form 4, Ch. 3 §3.2, printed p. 83 |
 | Arithmetic progressions: the common difference tested; Tₙ = a + (n − 1)d derived and used; Sₙ = n/2 [2a + (n − 1)d] = n/2 (a + l) derived; Tₙ = Sₙ − Sₙ₋₁ | Malaysia, Additional Mathematics Form 4, Ch. 5 §5.1, printed pp. 128–138 |
 | Geometric progressions: the common ratio; Tₙ = arⁿ⁻¹; both Sₙ forms; the sum to infinity S∞ = a/(1 − r) for |r| < 1; applications (a marketing network reaching S₉ = 1 + 2 + … + 2⁸ = 511 members) | Malaysia, Additional Mathematics Form 4, Ch. 5 §5.2, printed pp. 139–151 |
+| Common difference of an increasing and of a decreasing number pattern found by subtracting consecutive terms; missing terms of a pattern found by repeatedly adding or subtracting the common difference; end-of-year review of common differences and missing terms | Rwanda, Primary Learner's Book, Year 3 (English), Unit 13 (§13.6), printed pp. 334–338; End-of-year assessment A Q12–Q13, printed p. 350 |
+| The descending-pattern example '153, 125, 97, 72' taught corrected (the book says the common difference is 28, but 97 − 72 = 25) — a shared defect of both editions | Rwanda, Imibare, Pupil's Book, Year 3 (Kinyarwanda), Unit 13 (§13.6), printed p. 273 |
+| Number patterns: constant-step sequences on the number line and triangular dot patterns 1, 3, 6, 10, 15; completing patterns with growing steps (+2, +3, +4…) | Rwanda, Primary Learner's Mathematics P4, pupil's book, Unit 12 (§12.1), printed pp. 137–140 |
+| Sequences mixing whole numbers and mixed numbers with step 1½, continued by differencing; decimal sequences with step 0.5, increasing and decreasing | Rwanda, Mathematics for Rwandan Primary Schools, Pupil's Book 5, Unit 10 (§§10.3–10.4), printed pp. 150–152 |
+| Linear sequences: missing consecutive numbers, fractions and decimals found from the common difference; the general term / rule of a linear sequence (difference × n ± constant), for numbers and for fractions; a missing term or the nth term; generating a linear sequence from a given general term | Rwanda, Primary 6 Mathematics, Learner's Book, Unit 10, printed pp. 175–186 |
+| Advanced: definition of a sequence, general term and initial term; convergence and divergence decided by the limit; monotonicity tested by the difference and by the ratio of successive terms | Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 2, printed pp. 39–50 |
+| Advanced: arithmetic sequences and series — nth term and sum of n terms; arithmetic means inserted between two numbers | Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 2, printed pp. 51–60 |
+| Advanced: harmonic sequences and series via reciprocals in arithmetic progression, and harmonic means | Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 2, printed pp. 60–65 |
+| Advanced: geometric sequences and series — nth term and sum of n terms; geometric means inserted between two numbers (both signs of the ratio); product of the first n terms; sum to infinity of a convergent geometric series; recurring decimals converted to fractions using the sum to infinity; applications (tower-block and insect-population models) | Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 2, printed pp. 66–82 |
+| Advanced: finite series by the method of differences (partial fractions); infinite series — partial sums and convergence defined by their limit | Rwanda, Advanced Mathematics, Learner's Book, Senior Six, Unit 3, printed pp. 143–151 |
+| Advanced: convergence tests — comparison, limit comparison, ratio and nth root; power series — centre and radius of convergence | Rwanda, Advanced Mathematics, Learner's Book, Senior Six, Unit 3, printed pp. 155–158 |
 
-**Acceptance count: taught in 22 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia).**.** Kazakhstan carries
+**Acceptance count: taught in 23 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda).**.** Kazakhstan carries
 the fullest treatment — all four Grade 9 Algebra books prove
 the nth-term formulas, the characteristic properties, both
 sum formulas and the infinite geometric sum, with applied
@@ -261,3 +287,5 @@ Syria works repeating patterns from Grade 1 and pattern rules in Grade 4, then g
 Saudi Arabia teaches patterns from Grade 1 — repeating units first, then growing and shrinking number patterns with stated rules, patterns to 1000 by 1s, 10s and 100s in Grade 2, and the explicit definition (a series following a rule) with table rules in Grade 4, with the older 1445 Term-3 volume witnessing the Grade 2 Part Two chapter.
 
 Malaysia grows sequences from Form 2 patterns — a generalisation stated in numbers, in words and in algebra — into the full progressions course of Additional Mathematics Form 4, sums to infinity included.
+
+Rwanda teaches sequences and series from Primary 3 number patterns (its descending-pattern example taught corrected, as 97 − 72 = 25, not the printed common difference of 28) through Primary 4–6 patterns and linear-sequence general terms, to the full Advanced Senior Five unit — arithmetic, geometric and harmonic sequences and series, sums to infinity and recurring decimals — and Senior Six Advanced series, convergence tests and power series.

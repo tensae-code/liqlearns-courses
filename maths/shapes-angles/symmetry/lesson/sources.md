@@ -1,6 +1,6 @@
 # Sources — Symmetry
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda
 
 Every part traces to its book and page.
 
@@ -179,6 +179,8 @@ READ + CITATION CHECK PASSED 2026-11-05).
 
 **Book 69:** *Mathematics Form 2* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Rimbunan Ilmu Sdn. Bhd., 2017, ISBN 978-967-2031-06-2) and BM original *Matematik Tingkatan 2* (Rimbunan Ilmu Sdn. Bhd., 2017, ISBN 978-967-2031-05-5). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 70:** *Primary Learner's Mathematics P4 for Rwanda Schools* (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Introduction to symmetry: folding and mirror completion (ch.56, Unit 8, printed pp.53–66) | Greece, Grade 1 Teuxos B, ch.56 |
@@ -252,8 +254,10 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Rotational symmetry — a shape matches itself after a turn smaller than a full turn, with its angle of rotation | Saudi Arabia, Grade 4, Part Two, Ch. 8, printed p. 74–75 |
 | Rotational symmetry of two-dimensional shapes, and the order of rotational symmetry | Malaysia, Mathematics Form 2, Ch. 11 §11.6, printed pp. 234–242 |
 | Symmetry inside the circle: equal chords and the perpendicular from the centre (main filing: circles) | Malaysia, Mathematics Form 2, Ch. 5 §5.2, printed pp. 81–85 |
+| Line symmetry and mirror halves; lines of symmetry counted per shape | Rwanda, Primary Learner's Mathematics P4, pupil's book, Unit 15 (§15.3), printed pp. 160, 162 |
+| Rotational symmetry and its order (order 3 example) | Rwanda, Primary Learner's Mathematics P4, pupil's book, Unit 15 (§15.3), printed p. 161 |
 
-**Acceptance count: taught in 27 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia).**.** Greece carries symmetry from the very start Iran completes the missing halves of pictures in Grade 1, folds and mirrors shapes in Grade 2, names axial and central symmetry in Grade 5, and adds the centre of symmetry and rotation in Grade 6.
+**Acceptance count: taught in 28 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda).**.** Greece carries symmetry from the very start Iran completes the missing halves of pictures in Grade 1, folds and mirrors shapes in Grade 2, names axial and central symmetry in Grade 5, and adds the centre of symmetry and rotation in Grade 6.
 — folding and mirror completion in Grade 1, the fold-along-the-
 red-line test in Grade 3, axial symmetry in Grade 6, and the
 full axis-and-point symmetry chapter in Grade 7. Kazakhstan
@@ -284,3 +288,5 @@ Syria folds shapes from Grade 2, builds axial symmetry through Grades 3–6 — 
 Saudi Arabia teaches symmetry twice: line symmetry by folding in Grade 3, with lines counted and half-drawings completed, then rotational symmetry with its angle of rotation in Grade 4, with the older 1445 Term-3 volume witnessing the Grade 3 chapter.
 
 Malaysia closes its Form 2 transformations chapter with rotational symmetry and its order — symmetry treated as something a shape does under a turn, not only under a fold.
+
+Rwanda teaches symmetry in Year 4, counting lines of symmetry per shape inside its shapes unit and meeting rotational symmetry with its order.

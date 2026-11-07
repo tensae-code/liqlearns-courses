@@ -1,6 +1,6 @@
 # Sources — Circles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda
 
 Every part traces to its book and page.
 
@@ -222,6 +222,10 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 **Book 104:** *Mathematics Form 3* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-983-00-9651-3) and BM original *Matematik Tingkatan 3* (Pustaka Yakin Pelajar Sdn. Bhd., 2018, ISBN 978-967-490-042-7). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 105:** *Additional Mathematics Form 5* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Abadi Ilmu Sdn. Bhd., 2020, ISBN 978-983-2914-68-6) and BM original *Matematik Tambahan Tingkatan 5* (Abadi Ilmu Sdn. Bhd., 2020, ISBN 978-983-2914-67-9). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 106:** *Mathematics for Rwandan Primary Schools — Pupil's Book 5* — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 107:** *Primary 6 Mathematics for Rwanda Schools — Learner's Book* — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The circle and its parts (p.111) — names parts, no circumference or area yet | Jordan, Grade 6 Student Book Term 1, Unit 4, L4, p.111 |
@@ -338,8 +342,10 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 | Arc length and sector area as fractions of the whole circle; inverse problems and shaded-region problems | Malaysia, Mathematics Form 2, Ch. 5 §5.3, printed pp. 90–95 |
 | Circle vocabulary completed, adding tangent, point of tangency and alternate segment (the theorems are filed under circle-theorems) | Malaysia, Mathematics Form 3, Ch. 6 chapter opener and §6.1, printed pp. 129–130 |
 | Arc length s = rθ and sector area ½r²θ measured in radians (main filing: radian-measure) | Malaysia, Additional Mathematics Form 5, Ch. 1 §§1.2–1.3, printed pp. 5–18 |
+| Circumference as the distance around a circle, measured with string; diameter and radius defined; pi found experimentally as C ÷ D (π = 22/7 or 3.14); C = πD and C = 2πr used both ways; diameter from circumference, d = C ÷ π | Rwanda, Mathematics for Rwandan Primary Schools, Pupil's Book 5, Unit 13 (§§13.1–13.3), printed pp. 210–216 |
+| Area of a circle from its diameter and from its circumference (finding r first); the radius found from the area (divide by π, then take the square root) | Rwanda, Primary 6 Mathematics, Learner's Book, Unit 14, printed pp. 265–269 |
 
-**Acceptance count: taught in 27 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia).**.** Kazakhstan carries the full climb — circle Iran measures the circumference in Grade 5 — with the book's own bounds for π, 3 1/7 and 3 10/71, while its exercises work with π = 3 — the area of a circle in Grade 6, circle basics in Grade 8, and the circle's equation in Grade 12 Geometry (3).
+**Acceptance count: taught in 28 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda).**.** Kazakhstan carries the full climb — circle Iran measures the circumference in Grade 5 — with the book's own bounds for π, 3 1/7 and 3 10/71, while its exercises work with π = 3 — the area of a circle in Grade 6, circle basics in Grade 8, and the circle's equation in Grade 12 Geometry (3).
 parts in Grade 3, circle and disc in Grades 4 and 5, then the
 practical thread-and-glass discovery of pi with C = πD and the
 disc area in Grade 6. Jordan carries the parts in Grade 6 and
@@ -365,3 +371,5 @@ Pakistan (Punjab) carries circles from Grade 3's paper-folding centre, radius an
 Syria defines the circle, radius and diameter in Grade 5 and its area in Grade 6, derives the area πr² from rearranged sectors in Grade 7 — where the circumcircle of a triangle also appears — meets the tangent and the hypotenuse-as-diameter facts in Grade 8 Geometry, and classifies line–circle and circle–circle positions with the chord-midpoint property in Grade 9 Geometry. Ghana's presence in this lesson is curriculum evidence only and is not counted in the taught-in figure.
 
 Malaysia builds the circle in Form 2 — parts, chord symmetry, π, circumference and area — and completes its vocabulary in Form 3 where the theorems begin. Ghana stays in this lesson's countries line as curriculum evidence only and is not counted in the acceptance count, exactly as filed before this merge.
+
+Rwanda teaches circles in Years 5–6: circumference measured with string and pi found as C ÷ D in Year 5, with C = πD and C = 2πr, and the area of a circle — from diameter, from circumference, and back to the radius — in Year 6.

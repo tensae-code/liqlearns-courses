@@ -1,6 +1,6 @@
 # Sources — Tessellations
 
-countries: Laos, Pakistan, Libya, Nepal, South Africa, Iraq, Malaysia
+countries: Laos, Pakistan, Libya, Nepal, South Africa, Iraq, Malaysia, Rwanda
 
 Every part traces to its book and page.
 
@@ -17,6 +17,8 @@ Every part traces to its book and page.
 
 Teacher-evidence note: Nepal's Grade 8 teacher guide contains a tessellation lesson (guide pp.250–255), but that guide is a MISMATCH guide — it belongs to a different Grade 8 book than the one held — so it is teacher evidence only and is NOT cited for any part of this lesson. Every Nepal part below traces to the Grade 6 and Grade 7 STUDENT books.
 
+**Book 10:** *Primary 6 Mathematics for Rwanda Schools — Learner's Book* — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a tessellation is | Pakistan, Grade 7 (p.163) — tessellation defined; Nepal, Grade 7, Unit 9 (pp.75–83) |
@@ -29,9 +31,12 @@ Teacher-evidence note: Nepal's Grade 8 teacher guide contains a tessellation les
 | Tessellation in the primary geometry course | Iraq, Grade 6 (p.167) |
 | Tessellation: what it means, and which shapes tessellate | Malaysia, Mathematics Form 5, Ch. 5 §5.4, printed pp. 161–162 |
 | Designing tessellations, including Escher-type designs | Malaysia, Mathematics Form 5, Ch. 5 §5.4, printed pp. 163–165 |
+| Tiling a plane / a floor with regular polygons; counting tiles from side lengths and the role of the interior angle | Rwanda, Primary 6 Mathematics, Learner's Book, Unit 12, printed pp. 224–228 |
 
-**Acceptance count: taught in 7 countries (Laos, Pakistan, Libya, Nepal, South Africa, Iraq, Malaysia).**
+**Acceptance count: taught in 8 countries (Laos, Pakistan, Libya, Nepal, South Africa, Iraq, Malaysia, Rwanda).**
 
 Laos teaches tessellation as movement: Grade 5 combines translation with reflection to make tiling patterns, then translation with rotation — turning a tile about a point through 90° — and tessellates hexagons. Pakistan's Grade 7 book defines tessellation where polygons are studied (p.163). Nepal splits the topic across two student books: Grade 6 tessellates with triangles, rectangles and squares beside symmetry, and Grade 7 names the three kinds — regular, semi-regular and irregular. Libya returns to tessellation as enrichment in both Grade 8 and Grade 9, South Africa's workbooks drill the three tessellating shapes and add glide reflection, and Iraq's Grade 6 book teaches tessellation inside its geometry course.
 
 Malaysia teaches tessellation in Form 5 as the closing section of its transformations chapter — which shapes tile, and how to design a tiling, Escher's way included.
+
+Rwanda teaches tessellation in Year 6, tiling a plane and a floor with regular polygons and using the interior angle to count the tiles.

@@ -1,6 +1,6 @@
 # Sources — Mathematical Logic
 
-countries: Laos, Armenia, Iraq, Greece, Cambodia, Yemen, Sierra Leone, Iran, Vietnam, Kazakhstan, Malaysia
+countries: Laos, Armenia, Iraq, Greece, Cambodia, Yemen, Sierra Leone, Iran, Vietnam, Kazakhstan, Malaysia, Rwanda
 
 Every part traces to its book and page.
 
@@ -20,6 +20,8 @@ Every part traces to its book and page.
 
 **Book 14:** *Mathematics Form 4* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Sasbadi Sdn. Bhd., 2019, ISBN 978-983-77-1531-8) and BM original *Matematik Tingkatan 4* (Pustaka Yakin Pelajar Sdn. Bhd., 2019, ISBN 978-967-490-087-8). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 15:** *Advanced Mathematics for Rwanda Schools — Learner's Book, Senior Six* (ADVANCED stream) — Rwanda, Fountain Publishers Rwanda Ltd, © 2017, ISBN 978-9970-19-419-3. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Propositions, truth values, non-propositions | Laos, Grade 10, Ch.I L1, p.1; Yemen, Grade 10 Part 1, Unit 1 §1-1, p.7; Sierra Leone, SSS 2 Term 1, L41, p.107; Vietnam, Toán 10 v1, Ch.I Bài 1, p.5; Armenia, Grade 12 logic book, §1, p.9 |
@@ -38,7 +40,10 @@ Every part traces to its book and page.
 | Converse, inverse and contrapositive of an implication, and their truth values compared — the contrapositive matches the implication | Malaysia, Mathematics Form 4, Ch. 3 §3.1, printed pp. 66–69 |
 | Arguments: premises and conclusion; deductive arguments against inductive arguments; forming a valid deductive argument for a situation; the strength of an inductive argument — strong or weak, cogent or not cogent | Malaysia, Mathematics Form 4, Ch. 3 §3.2, printed pp. 71–82 |
 | Problem solving in logical reasoning (growth patterns, parking-charge rules) | Malaysia, Mathematics Form 4, Ch. 3 §3.2, printed pp. 84–89 |
+| Testing the validity of a syllogism with diagrams, in a summative evaluation question (Advanced) | Rwanda, Advanced Mathematics, Learner's Book, Senior Six, Summative Evaluations, printed p. 500 |
 
-**Acceptance count: taught in 11 countries (Laos, Armenia, Iraq, Greece, Cambodia, Yemen, Sierra Leone, Iran, Vietnam, Kazakhstan, Malaysia).** Laos carries the fullest single treatment: propositions, all six connectives with circuit models, 2ⁿ-row truth tables, equivalence with De Morgan and the contrapositive, tautology and contradiction, and quantifiers with their negations, all in Grade 10 Chapter I (pp.1–29). Armenia carries logic twice over — briefly in both Grade 11 streams and as a whole Grade 12 book (Aghekyan) that adds definition/axiom/theorem and converse/opposite statements. Iraq teaches logic as Chapter 1 of Grade 10 Scientific, with quantified propositions as its closing section. Greece opens Grade 10 Algebra with the vocabulary of logic. Cambodia teaches propositions, the logical operations with truth tables, and De Morgan's laws inside its Logic, Sets and Numbers chapter. Yemen opens Grade 10 with a logic unit running from the single proposition through equivalence and inference to quantifiers. Sierra Leone teaches logical reasoning as an eight-lesson block of SSS 2 Term 1, from simple statements to the validity of arguments. Iran teaches formal logic with truth tables in two separate Grade 11 branch books. Vietnam opens Grade 10 with propositions as Bài 1 of its first chapter. Kazakhstan plants statements (true/false) and logic problems already in Grade 1.
+**Acceptance count: taught in 12 countries (Laos, Armenia, Iraq, Greece, Cambodia, Yemen, Sierra Leone, Iran, Vietnam, Kazakhstan, Malaysia, Rwanda).** Laos carries the fullest single treatment: propositions, all six connectives with circuit models, 2ⁿ-row truth tables, equivalence with De Morgan and the contrapositive, tautology and contradiction, and quantifiers with their negations, all in Grade 10 Chapter I (pp.1–29). Armenia carries logic twice over — briefly in both Grade 11 streams and as a whole Grade 12 book (Aghekyan) that adds definition/axiom/theorem and converse/opposite statements. Iraq teaches logic as Chapter 1 of Grade 10 Scientific, with quantified propositions as its closing section. Greece opens Grade 10 Algebra with the vocabulary of logic. Cambodia teaches propositions, the logical operations with truth tables, and De Morgan's laws inside its Logic, Sets and Numbers chapter. Yemen opens Grade 10 with a logic unit running from the single proposition through equivalence and inference to quantifiers. Sierra Leone teaches logical reasoning as an eight-lesson block of SSS 2 Term 1, from simple statements to the validity of arguments. Iran teaches formal logic with truth tables in two separate Grade 11 branch books. Vietnam opens Grade 10 with propositions as Bài 1 of its first chapter. Kazakhstan plants statements (true/false) and logic problems already in Grade 1.
 
 Malaysia gives logic a full Form 4 chapter of 23 worked examples — the heaviest school treatment in this course: statements, negation, compound statements, implications with their converse, inverse and contrapositive, and then arguments, deductive and inductive.
+
+Rwanda's held books stock this lesson at one point only: Advanced Senior Six tests the validity of a syllogism with diagrams in a summative evaluation question.
