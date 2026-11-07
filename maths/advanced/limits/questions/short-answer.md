@@ -25,3 +25,6 @@ Answer in a word or a short line.
 
 **8. (Level 2)** Find lim(x→4) (x² − 16)/(x − 4).
 **Answer:** 8 — factorise to (x − 4)(x + 4), cancel, substitute: 4 + 4 (Jordan, Grade 11 Term 1 Exercise Book, Unit 3, p.46 — workbook evidence).
+
+**9. (Level 3)** The function g is (x² − 9)/(x − 3) for x ≠ 3, and g(3) = 6. Is g continuous at x = 3? Say why in one line.
+**Answer:** Yes — its limit at 3 is 6 and that equals g(3), so the limit meets the function's own value (Jordan, Grade 11 Term 1 Student Book, Limits and continuity, p.50; its companion Exercise Book, limits/continuity set, p.34).

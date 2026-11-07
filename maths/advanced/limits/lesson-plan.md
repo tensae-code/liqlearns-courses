@@ -29,6 +29,7 @@ shown changing.
 6. Find the limit of a sequence, decide whether it converges, and find the limit of a geometric sequence and series, as Cambodia's Grade 12 Advanced book teaches (Ch.1, pp.1–18).
 7. Use the sandwich (squeeze) theorem, including lim sin θ / θ = 1 as θ → 0, as Pakistan's Class 12 book teaches (Ch.1, ch-pp.18–31).
 8. State the ε-δ definition of a limit and use it in a simple proof, as Cambodia's Grade 12 Basic book teaches (Ch.1 §1.1, pp.2–27) and Cambodia's PRIVATE Limits and Continuity booklet proves for nine limit types (pp.9–31).
+9. Decide whether a function is continuous at a point by checking that its limit there exists and equals the function's own value there, as Jordan's Grade 11 Term 1 student book teaches in Limits and continuity (Unit 2, p.50), drilled in its companion exercise book (limits/continuity set, p.34).
 
 ## What you need
 Paper and a pencil. A calculator for the tables. A ruler for drawing graphs.

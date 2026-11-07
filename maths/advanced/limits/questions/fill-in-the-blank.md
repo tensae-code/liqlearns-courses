@@ -22,3 +22,6 @@ Fill each blank with the one right word or number.
 
 **7. (Level 1)** In Mauritania's 6AS-M and 6AS-C books, limits are taught in the same chapter as ______.
 **Answer:** continuity — Ch.3 is "Fonctions: généralités – limite – continuité" in both books (p.31).
+
+**8. (Level 2)** A function is continuous at x = a when its limit as x → a equals ______.
+**Answer:** f(a) — the limit must meet the function's own value at the point (Jordan, Grade 11 Term 1 Student Book, Limits and continuity, p.50; its companion Exercise Book, limits/continuity set, p.34).

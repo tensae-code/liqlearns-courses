@@ -33,3 +33,7 @@ a) 0  b) 2  c) ∞
 **8. (Level 2)** In Jordan's Grade 11 exercise book (workbook evidence), the limits-and-continuity exercises sit in the same unit as ______.
 a) differentiation  b) integration  c) vectors
 **Answer:** a) differentiation — Unit 3 is Limits and Derivatives, limits/continuity set at p.46 (Jordan, Grade 11 Term 1 Exercise Book, orphan workbook).
+
+**9. (Level 2)** lim(x→2) (x² − 4)/(x − 2) equals ______.
+a) 0  b) 2  c) 4
+**Answer:** c) 4 — factorise and cancel to x + 2, then substitute (Jordan, Grade 11 Term 1 Student Book, Limits and continuity, p.50; its companion Exercise Book, limits/continuity set, p.34).

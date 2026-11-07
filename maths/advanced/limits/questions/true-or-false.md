@@ -20,5 +20,8 @@ Say true or false, and why.
 **6. (Level 3)** Pakistan's Grade 12 book correctly prints its p.25 limit at infinity as ∞.
 **Answer:** False — taught corrected: that limit is −∞.
 
-**7. (Level 1)** Jordan's Grade 11 limits evidence in this lesson comes from a student book.
-**Answer:** False — it comes from an exercise book (workbook evidence): the orphan Grade 11 Term 1 exercise book, whose companion student book is not in hand (Unit 3, p.46).
+**7. (Level 1)** Jordan's Grade 11 limits evidence in this lesson comes only from an exercise book, never from a student book.
+**Answer:** False — Jordan's held Grade 11 Term 1 student book teaches Limits and continuity itself (Unit 2, p.50); the orphan exercise book (Unit 3, p.46) is a separate, additional source, cited as workbook evidence only.
+
+**8. (Level 2)** If lim(x→a) f(x) = L and f(a) = L, then f is continuous at a.
+**Answer:** True — the limit exists and equals the function's own value at the point (Jordan, Grade 11 Term 1 Student Book, Limits and continuity, p.50).
