@@ -1,0 +1,5 @@
+# True or false — Linear Programming
+
+1. (Layer 2) The test point (0, 0) can always be used to find the allowed side of a boundary line. **False** — not when the line passes through the origin; choose another point. Malaysia, Additional Mathematics Form 5, Ch. 7 §7.3, printed pp. 237–240.
+2. (Layer 3) If two corners give the same maximum, every point on the edge between them is also a maximum. **True.** Malaysia, Additional Mathematics Form 5, Ch. 7 §7.3, printed pp. 242–244.
+3. (Layer 1) x > 5 and x ≥ 5 describe the same region. **False** — the boundary point x = 5 is included only in the second. Malaysia, Additional Mathematics Form 5, Ch. 7 §7.3, printed pp. 234–237.

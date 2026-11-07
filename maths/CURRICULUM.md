@@ -77,6 +77,7 @@ factors.*
 - number-bases ✅ — binary numbers and other bases, converting and calculating in them (Level 53, catch-up build 2026-11-06)
 - numerals-of-the-world ✅ — Roman numerals and the numeral systems of the world: Ge'ez, Devanagari, Lao, Khmer, Egyptian, Hindi (Level 54, catch-up build)
 - the-real-number-system ✅ — the real number system and the laws of operations, stated and checked (Level 55, catch-up build)
+- laws-of-arithmetic-operations ✅ — the four laws themselves: identity, commutative, associative, distributive, and calculating cleverly with them (Level 137, Malaysia merge 2026-11-07)
 
 ## Stage 2 — Addition and Subtraction
 *End of stage: the learner can add and subtract, in their head
@@ -124,6 +125,8 @@ a square.*
 - quadratic-equations ✅ — factorising, completing the square, the formula
 - polynomial-division ✅ — dividing polynomials, long and synthetic division, the remainder and factor theorems (Level 58, catch-up build 2026-11-06)
 - partial-fractions ✅ — splitting a fraction into partial fractions (Level 59, catch-up build)
+- algebraic-fractions ✅ — letter-fractions: simplifying, and adding and subtracting over the LCM of the terms (Level 138, Malaysia merge 2026-11-07)
+- linear-programming ✅ — constraints as a system of inequalities, the feasible region, and the best value at a corner (Level 139, Malaysia merge 2026-11-07)
 
 ## Stage 7 — Shapes and Angles
 *End of stage: the learner can name shapes, measure angles,
@@ -151,6 +154,7 @@ areas, find volumes, and use the right-triangle rule.*
 - errors-and-accuracy ✅ — absolute, relative and percentage error, and degree of accuracy (Level 68, catch-up build)
 - temperature-and-traditional-measures ✅ — temperature in °C and °F, and the measures people used before standard units (Level 69, catch-up build)
 - projections-and-views ✅ — projections, views of solids and technical drawing (Level 70, catch-up build)
+- area-under-a-straight-line-graph ✅ — the exact area under a straight line, as the triangle or trapezium beneath it (Level 140, Malaysia merge 2026-11-07)
 
 ## Stage 9 — Further Geometry
 *End of stage: the learner can prove shapes the same or the
@@ -226,6 +230,7 @@ say exactly what follows from what, and prove general claims.*
 - mathematical-induction ✅ — proof by induction (Level 102, catch-up build)
 - pigeonhole-principle ✅ — the pigeonhole principle (Level 103, catch-up build)
 - problem-solving-strategies ✅ — named strategies for hard problems (Level 104, catch-up build)
+- mathematical-modelling ✅ — the six components of a model, break-even answers, scale models, and improving a model (Level 141, Malaysia merge 2026-11-07)
 
 ## Stage 14 — Counting and Discrete Mathematics
 *End of stage: the learner can count systematically, work in
@@ -248,6 +253,9 @@ books teach, and work with speed.*
 - business-mathematics ✅ — profit and loss, interest, tax, partnership, insurance, zakat and inheritance shares (Level 114, catch-up build)
 - time-and-calendars ✅ — clocks, 12-hour and 24-hour time, durations, and the calendars of the world (Level 115, catch-up build)
 - speed-distance-and-time ✅ — speed, distance and time, with density and work rates (Level 116, catch-up build)
+- insurance-risk-and-coverage ✅ — risk pooled: life, health, motor and house cover, and the premium's price factors (Level 142, Malaysia merge 2026-11-07)
+- insurance-deductibles-and-co-insurance ✅ — the first slice, the scale and the split: what a claim actually pays (Level 143, Malaysia merge 2026-11-07)
+- taxation ✅ — income tax computed whole: reliefs, chargeable income, the bands, the rebate, the PCB balance (Level 144, Malaysia merge 2026-11-07)
 
 ## Stage 16 — Further Statistics and Probability
 *End of stage: the learner can reason about uncertain
@@ -284,11 +292,13 @@ things and follow patterns — the first mathematics of all.*
 - sorting-and-classifying ✅ — sorting and classifying by one attribute, then by two (Level 135, catch-up build)
 - repeating-patterns ✅ — repeating, growing and shrinking patterns (Level 136, catch-up build)
 
-**LADDER TOTAL: 136 lessons across 18 stages** — the first
+**LADDER TOTAL: 144 lessons across 18 stages** — the first
 52 built 2026-11-05 across 12 stages (5 + 2 + 3 + 6 + 4 + 5 +
 4 + 4 + 5 + 3 + 4 + 7); the catch-up build of 2026-11-06
 added 84 lessons (Levels 53–136) as extensions inside the
-original twelve stages and as new Stages 13–18.
+original twelve stages and as new Stages 13–18; the Malaysia
+merge of 2026-11-07 added 8 lessons (Levels 137–144) inside
+Stages 1, 6, 8, 13 and 15.
 
 ## After Stage 12
 The catch-up build of 2026-11-06 closed the recorded gap:
