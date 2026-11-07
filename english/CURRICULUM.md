@@ -278,6 +278,26 @@ some/any/no/every grid, and reflexive pronouns.*
   reflexive-pronouns ✅ (catch-up build 2026-11-07 — 4 lessons,
   80 question items)
 
+## Level 28 — Comparing More Deeply
+*End of level: the learner can grade comparisons finely and
+link two changes together.*
+- stronger-comparisons ✅ · double-comparatives ✅ (catch-up
+  build 2026-11-07 — 2 lessons, 34 question items)
+
+## Level 29 — The Passive in Every Tense
+*End of level: the learner can turn a sentence into the
+passive in any tense, and use the impersonal passive.*
+- the-passive-in-every-tense ✅ (catch-up build 2026-11-07 —
+  1 lesson, 17 question items)
+
+## Level 30 — Dressing a Sentence
+*End of level: the learner can stack adjectives in the right
+order, choose -ed or -ing adjectives, respect stative verbs,
+and grade strength with too/enough/so/such.*
+- adjective-order ✅ · participle-adjectives ✅ ·
+  stative-verbs ✅ · too-enough-so-such ✅ (catch-up build
+  2026-11-07 — 4 lessons, 68 question items)
+
 ## After Level 18
 The ladder keeps climbing — longer essays and the Story → Novel
 titles. Later blocks get their own level numbers here, in this

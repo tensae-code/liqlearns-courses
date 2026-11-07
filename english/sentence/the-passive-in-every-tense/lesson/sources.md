@@ -1,0 +1,40 @@
+# Sources — The passive in every tense
+
+countries: Bolivia, Egypt, Greece, Kuwait, Malaysia, Nepal, Yemen
+
+Every part traces to its book and page.
+
+**Book 1:** English Pearls of Kuwait, Student's Book 9B — Kuwait, Ministry of Education. Filed in english/books/kuwait.md (as filed).
+
+**Book 2:** English Pearls of Kuwait, Student's Book 7A — Kuwait, Ministry of Education. Filed in english/books/kuwait.md (as filed).
+
+**Book 3:** English Course for Yemen, Book 5 (Grade 11) — Yemen, Ministry of Education. Filed in english/books/yemen.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+**Book 4:** Form 5 KPM textbook (student's book) — Malaysia. Filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Direct read.
+
+**Book 5:** Close-Up B1 Student's Book, Form 3 — Malaysia, National Geographic Learning / Cengage. Filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Direct read.
+
+**Book 6:** English, Year 6 (Grade 12) — Bolivia (ministry teacher volume reproducing the student book). Filed in english/books/bolivia.md (as filed).
+
+**Book 7:** English 10 Teacher's Guide — Nepal, Government of Nepal, Curriculum Development Centre. Filed in english/books/nepal.md (as filed). TEACHER'S-GUIDE evidence only — the guide names the grammar its unit teaches; it is worded as guide evidence wherever this lesson uses it.
+
+**Book 8:** Greece — the for-and-against essay teaching (formal-style checklist), as filed in english/books/greece.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 9:** Egypt — the continuous and perfect passive boxes, as filed in english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Passive Voice — Present Continuous, Past Continuous and Present Perfect only (are being installed / were being built / have been made), with conversion and free-production tasks | Kuwait, Pearls 9B, Learning Unit 6, Lesson 6 Grammar, p.38 |
+| The present/modal passive as the book's passive set | Kuwait, Pearls 7A (grammar spine, as filed in english/books/kuwait.md) |
+| The passive extended: present-perfect, modal and future passive | Yemen, English Course for Yemen Book 5 (Grade 11), grammar spine (as filed in english/books/yemen.md) |
+| The passive in full: all common tenses, gerund/infinitive/modal passives; the get-passive in the Grammar Reference; no passive for the future continuous or the perfect continuous tenses | Malaysia, Form 5 textbook, Unit 7 (as filed, §4 honest summary) |
+| The passive — impersonal and personal structures (It is believed that… / He is believed to…) | Malaysia, Form 5 textbook, Unit 7, Grammar 2, p.89 |
+| The basic passive spread this lesson deepens (They use cameras in shops… → Cameras are used in shops…) — cited as the neighbour, not retaught | Malaysia, Form 3 Close-Up B1, Unit 9, printed p.113 |
+| "How is plastic made? Step by step" — the passive-voice process text; the Year 6 spine names the passive voice in six tenses | Bolivia, Year 6, Topic 5, p.221; six-year spine (as filed in english/books/bolivia.md) |
+| Passives including "being" and "having" passives, I & II — TEACHER'S-GUIDE evidence: the guide's own grammar naming for its hobbies unit | Nepal, English 10 Teacher's Guide, Unit 8 (pp.122–135) |
+| Impersonal constructions and the passive voice named together in the formal-style checklist of the for-and-against essay teaching | Greece, for-and-against essay unit (as filed in english/books/greece.md) |
+| The Present Continuous, active AND passive, boxed ("…is being built") — the continuous passive's box in the Egypt run; the present perfect passive boxed with its active twin (object + have/has + been + p.p.) | Egypt, Secondary run, as filed in english/EGYPT-BOOK-MAP.md (continuous-passive box; Secondary 12 Term 1, Unit 1, pp.17–19) |
+
+**Acceptance count: taught in 7 countries (Bolivia, Egypt, Greece, Kuwait, Malaysia, Nepal, Yemen).**
+
+The basic present/past passive itself is stocked by the earlier lesson, The passive, and is not re-counted here; this lesson's count covers only the countries whose books carry the deeper coats named above. Nepal's entry is teacher's-guide evidence and is worded as such everywhere it is used.
