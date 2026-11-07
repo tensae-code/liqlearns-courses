@@ -1,6 +1,6 @@
 # Sources — Scale Drawing and Maps
 
-countries: Greece, Indonesia, Jordan, Kuwait, Laos, Libya, Mauritania, Nepal, South Africa, Vietnam, Yemen, Syria, Malaysia, Rwanda, Sudan
+countries: Greece, Indonesia, Jordan, Kuwait, Laos, Libya, Mauritania, Nepal, South Africa, Vietnam, Yemen, Syria, Malaysia, Rwanda, Sudan, India
 
 Every part traces to its book and page.
 
@@ -29,6 +29,8 @@ Every part traces to its book and page.
 **Book 19:** *Mathematics for Rwandan Primary Schools — Pupil's Book 5* — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 20:** *Mathematics, Grade 5* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, second edition 2021, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 21:** *Math-Magic Book 5 — Textbook in Mathematics for Class V* — India, NCERT, New Delhi, first edition March 2008, 2020-21 issue, ISBN 978-81-7450-828-7. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 22:** *Mathematics — Textbook for Class VIII* — India, NCERT, New Delhi, first edition January 2008, 2020-21 printing, ISBN 978-81-7450-814-0. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Just for Fun sections; nothing is cited from them.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -61,7 +63,12 @@ Every part traces to its book and page.
 | Constructing scale drawings; actual distance = drawing length × value of 1 cm of the scale, and drawing length found back from actual distance and scale | Rwanda, Mathematics for Rwandan Primary Schools, Pupil's Book 5, Unit 12 (§§12.3–12.5), printed pp. 199–206 |
 
 | Scale of drawing — Scale of drawing (مقياس الرسم) from photographs and maps, including enlargement scale (a magnified insect photo) and converting map distances to real distances in m and km | Sudan, Grade 5 Mathematics, printed p. 101 |
-**Acceptance count: taught in 15 countries (Laos, Kuwait, Libya, Vietnam, Mauritania, Yemen, South Africa, Nepal, Greece, Jordan, Indonesia, Syria, Malaysia, Rwanda, Sudan).** Laos carries the lesson whole: scale met in Grade 5 (L52), defined and worked in both directions in Grade 6 (L21–L22, with bar scales and scale changes), restated with a 2× enlargement in Grade 7 (L43), and kept as a proportion application in Grade 9 (L6). Kuwait carries it as a real modelling project — the Kuwait Towers at 1:500 — with scale drawing worked inside proportion (Grade 10 Term 1). Libya carries it as its own named section (Grade 8, §2-8). Vietnam carries map scale and applications in Grade 5 (Bài 37). Mauritania carries proportionality with map scale in Grade 6. Yemen carries enlargement/reduction and then scale drawing as consecutive taught lessons (Grade 6 Part 2, 5-3 and 5-4). South Africa carries the groundwork: drawing and reading maps of real places in Grade 3 and position on a map grid in Grade 4. Nepal carries compass points and word-form scales on a map of Nepal (Grade 7, Unit 10) — compass points, not three-figure bearings. Greece carries the closing part alone: geographic coordinates (latitude/longitude) as an application of spherical coordinates (Grade 8, Ch. 4). Jordan carries scale drawing as a named lesson in its congruence-and-similarity unit (Grade 7 Term 2, Unit 6, L2). Indonesia carries it inside ratio: scale factor and map/plan scale taught as ratio applications in its Grade 7 Ratio chapter (Ch. 3, printed pp.83–122).
+| Matching map to photo — Map 1: matching a city map with a helicopter photo; locating India Gate on the map | India, Math-Magic Class 5, printed p. 113 |
+| Scale: 4 cm on the map = 2 km on the ground, i.e. 2 cm = 1 km; measuring routes with the scale | India, Math-Magic Class 5, printed p. 116 |
+| Floor plans — Reading a school/room plan with its scale: real length and width of classrooms; what is opposite the blackboard | India, Math-Magic Class 5, printed p. 125 |
+| Area from a drawing — Lake boundaries measured with thread on a drawing at 1 cm = 1 km; area of the lake on the drawing and in real square km | India, Math-Magic Class 5, printed p. 156 |
+| Maps vs pictures: symbols, fixed scale, no perspective; reading and drawing maps | India, Mathematics Class 8, printed p. 160 |
+**Acceptance count: taught in 16 countries (Laos, Kuwait, Libya, Vietnam, Mauritania, Yemen, South Africa, Nepal, Greece, Jordan, Indonesia, Syria, Malaysia, Rwanda, Sudan, India).** Laos carries the lesson whole: scale met in Grade 5 (L52), defined and worked in both directions in Grade 6 (L21–L22, with bar scales and scale changes), restated with a 2× enlargement in Grade 7 (L43), and kept as a proportion application in Grade 9 (L6). Kuwait carries it as a real modelling project — the Kuwait Towers at 1:500 — with scale drawing worked inside proportion (Grade 10 Term 1). Libya carries it as its own named section (Grade 8, §2-8). Vietnam carries map scale and applications in Grade 5 (Bài 37). Mauritania carries proportionality with map scale in Grade 6. Yemen carries enlargement/reduction and then scale drawing as consecutive taught lessons (Grade 6 Part 2, 5-3 and 5-4). South Africa carries the groundwork: drawing and reading maps of real places in Grade 3 and position on a map grid in Grade 4. Nepal carries compass points and word-form scales on a map of Nepal (Grade 7, Unit 10) — compass points, not three-figure bearings. Greece carries the closing part alone: geographic coordinates (latitude/longitude) as an application of spherical coordinates (Grade 8, Ch. 4). Jordan carries scale drawing as a named lesson in its congruence-and-similarity unit (Grade 7 Term 2, Unit 6, L2). Indonesia carries it inside ratio: scale factor and map/plan scale taught as ratio applications in its Grade 7 Ratio chapter (Ch. 3, printed pp.83–122).
 
 Syria defines scale as a proportionality coefficient in Grade 7 and reuses scale drawing inside the Grade 8 proportion exercises.
 
@@ -70,3 +77,5 @@ Malaysia teaches scale drawing as a whole Form 3 chapter — scale found two way
 Rwanda teaches scale drawing in Year 5 as its own unit: the scale as a unit-less ratio, drawings constructed, and actual and drawing lengths found from each other.
 
 Sudan teaches the scale of a drawing in Grade 5.
+
+India enters scale drawing and maps from Math-Magic Class 5 and Mathematics Class 8: matching map to photo; maps vs pictures: symbols, fixed scale, no perspective; reading and drawing maps.

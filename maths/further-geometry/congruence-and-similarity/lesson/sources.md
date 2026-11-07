@@ -1,6 +1,6 @@
 # Sources — Congruence and similarity
 
-countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan
+countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India
 
 Every part traces to its book and page.
 
@@ -157,6 +157,9 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 **Book 72:** *Mathematics, Grade 7 (First Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2021, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 73:** *Mathematics, Grade 8 (Second Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2022, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 74:** *Mathematics — Textbook for Class VII* — India, NCERT, New Delhi, first edition February 2007, 2020-21 issue, ISBN 81-7450-669-1. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Brain-Teasers; nothing is cited from them.
+**Book 75:** *Mathematics — Textbook for Class IX* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-489-3. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendix 1 (Proofs in Mathematics), Appendix 2 (Introduction to Mathematical Modelling) and Answers/Hints; nothing is cited from them.
+**Book 76:** *Mathematics — Textbook for Class X* — India, NCERT, New Delhi, first edition December 2006, 2020-21 printing, ISBN 81-7450-634-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -258,8 +261,39 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Equal-intercepts theorem — parallels cutting equal intercepts on one transversal cut equal intercepts on any transversal — activity + proof by congruent triangles (ASA) | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 61 |
 | Midpoint-parallel theorem — segment from a midpoint parallel to a side bisects the third side — two proofs given | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 66 |
 | Mid-segment theorem — joining two midpoints is parallel to the third side and half its length; Varignon midpoint parallelogram exercise | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 70 |
+| Exterior angle of a triangle = sum of the two interior opposite angles, by activity and by proof | India, Mathematics Class 7, printed p. 117 |
+| Triangle inequality — Sum of any two sides of a triangle > third side; difference of two sides < third side; deciding whether given lengths can form a triangle | India, Mathematics Class 7, printed p. 125 |
+| Congruence by superposition; congruent line segments are equal in length, congruent angles are equal in measure | India, Mathematics Class 7, printed p. 133 |
+| Triangle congruence — Congruence of triangles and correspondence of vertices (ABC ↔ RQP) | India, Mathematics Class 7, printed p. 136 |
+| SSS congruence rule: three sides equal ⇒ triangles congruent | India, Mathematics Class 7, printed p. 138 |
+| SAS congruence rule: two sides and the included angle; a non-included angle does not suffice | India, Mathematics Class 7, printed p. 142 |
+| ASA congruence rule: two angles and the included side; third angle from the angle sum | India, Mathematics Class 7, printed p. 145 |
+| RHS congruence rule for right-angled triangles: hypotenuse and one leg | India, Mathematics Class 7, printed p. 147 |
+| No AAA — AAA is NOT a congruence criterion (same angles, different sizes) — set as a student judgement question | India, Mathematics Class 7, printed p. 150 |
+| Congruence — congruent figures defined (same shape and size); congruence of circles and squares; ∆ABC ≅ ∆PQR notation with correspondence | India, Mathematics Class 9, printed p. 109 |
+| SAS rule — Axiom 7.1: SAS congruence rule — taken as an AXIOM, not proved; perpendicular bisector point is equidistant from the segment's ends (proved from SAS) | India, Mathematics Class 9, printed p. 113 |
+| ASA and AAS rules — Theorem 7.1 (ASA) proved; AAS as a corollary via the angle sum | India, Mathematics Class 9, printed p. 115 |
+| Isosceles triangles — Theorem 7.2 proved: angles opposite equal sides of an isosceles triangle are equal; Theorem 7.3 (converse) proved | India, Mathematics Class 9, printed p. 120 |
+| SSS and RHS rules — Theorem 7.4 (SSS) and Theorem 7.5 (RHS) proved; a point equidistant from two intersecting lines lies on their angle bisector (proved) | India, Mathematics Class 9, printed p. 125 |
+| Triangle inequalities — Theorem 7.6/7.7 proved: unequal sides ⇔ opposite angles unequal (larger side opposite larger angle, both ways) | India, Mathematics Class 9, printed p. 129 |
+| Triangle inequalities — Theorem 7.8 proved: sum of any two sides of a triangle is greater than the third side | India, Mathematics Class 9, printed p. 131 |
+| Parallelogram theorems — Theorems 8.1–8.2 proved: a diagonal of a parallelogram gives two congruent triangles; opposite sides of a parallelogram are equal | India, Mathematics Class 9, printed p. 139 |
+| Parallelogram converses — Theorems 8.3, 8.5, 8.7 proved: quadrilateral is a parallelogram if opposite sides equal, or opposite angles equal, or diagonals bisect each other | India, Mathematics Class 9, printed p. 141 |
+| Parallelogram theorems — Theorems 8.4/8.6 proved: opposite angles of a parallelogram are equal; diagonals of a parallelogram bisect each other | India, Mathematics Class 9, printed p. 142 |
+| One pair of sides test — Theorem 8.8 proved: a quadrilateral with one pair of opposite sides equal and parallel is a parallelogram | India, Mathematics Class 9, printed p. 145 |
+| Mid-point theorem — Theorem 8.9 (mid-point theorem) proved: segment joining mid-points of two sides of a triangle is parallel to the third side and half its length | India, Mathematics Class 9, printed p. 148 |
+| Mid-point theorem converse — Theorem 8.10 proved: line through a mid-point parallel to another side bisects the third side; equal-intercept result for parallel lines (proved example) | India, Mathematics Class 9, printed p. 150 |
+| Similar figures defined (same shape, not necessarily same size); all congruent figures are similar, converse false; squares/circles/polygons examined | India, Mathematics Class 10, printed p. 117 |
+| Similar polygons — two polygons are similar iff corresponding angles are equal AND corresponding sides are in the same ratio | India, Mathematics Class 10, printed p. 120 |
+| Basic proportionality theorem — Theorem 6.1 (Thales / BPT) proved by areas: a line parallel to one side of a triangle divides the other two sides in the same ratio | India, Mathematics Class 10, printed p. 123 |
+| BPT converse — Theorem 6.2 proved: a line dividing two sides in the same ratio is parallel to the third side; diagonals of a trapezium application | India, Mathematics Class 10, printed p. 126 |
+| Similarity criteria — AAA similarity (Theorem 6.3) proved via BPT construction; AA as its corollary | India, Mathematics Class 10, printed p. 129 |
+| Similarity criteria — SSS similarity (Theorem 6.4) and SAS similarity (Theorem 6.5) proved | India, Mathematics Class 10, printed p. 132 |
+| Similarity applications — shadow/height and figure problems using the criteria (worked examples) | India, Mathematics Class 10, printed p. 135 |
+| Areas of similar triangles — Theorem 6.6 proved: ratio of areas of two similar triangles = square of the ratio of corresponding sides (also of medians/altitudes in exercises) | India, Mathematics Class 10, printed p. 141 |
+| RHS similarity note — note to the reader: RHS similarity criterion for right triangles (hypotenuse and one side proportional) — stated in a note, not proved in the chapter | India, Mathematics Class 10, printed p. 154 |
 
-**Acceptance count: taught in 27 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan).**.** Iran matches congruent figures by superposition in Grade 7, states the SSS, SAS and ASA criteria in Grade 8, proves congruence and meets similar figures in Grade 9, and proves Thales' theorem with the AA, SAS and SSS similarity criteria in Grade 10 Geometry (1).
+**Acceptance count: taught in 28 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India).**.** Iran matches congruent figures by superposition in Grade 7, states the SSS, SAS and ASA criteria in Grade 8, proves congruence and meets similar figures in Grade 9, and proves Thales' theorem with the AA, SAS and SSS similarity criteria in Grade 10 Geometry (1).
 Libya carries the fullest single treatment — congruence tests
 including RHS, similarity, applications, and the k² area and k³
 volume rules in one chapter (Grade 9, Chapter 8, pp.156–193).
@@ -290,3 +324,5 @@ Syria meets congruence by superposition in Grades 1–2, similarity as enlargeme
 Malaysia treats congruency in Form 5 as the first section of its transformations chapter — congruent objects and the triangle conditions, with similarity arriving as the doorway to enlargement.
 
 Sudan proves congruence in Grade 6 (SSS, SAS, ASA, RHS, with formal proofs), similarity in Grade 7 (AA, SSS, SAS and parallel-line applications), and in Grade 8 the equal-intercepts theorem and the two midpoint theorems — the midpoint-parallel theorem with two proofs, and the mid-segment theorem with Varignon's midpoint parallelogram as an exercise.
+
+India carries congruence and similarity through its NCERT ladder — Mathematics Class 7, 9–10 — including exterior angle of a triangle = sum of the two interior opposite angles, by activity and by proof; congruence; similar figures defined (same shape, not necessarily same size); all congruent figures are similar, converse false; squares/circles/polygons examined.

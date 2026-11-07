@@ -1,6 +1,6 @@
 # Sources — Circles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan, India
 
 Every part traces to its book and page.
 
@@ -233,6 +233,11 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 **Book 110:** *Mathematics, Grade 6* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2020, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 111:** *Mathematics, Grade 9 (Third Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2024, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 112:** *Math-Magic Book 4 — Textbook in Mathematics for Class IV* — India, NCERT, New Delhi, first edition March 2007, 2020-21 issue, ISBN 81-7450-698-5. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 113:** *Mathematics — Textbook for Class VI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 issue, ISBN 81-7450-482-6. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 114:** *Mathematics — Textbook for Class VII* — India, NCERT, New Delhi, first edition February 2007, 2020-21 issue, ISBN 81-7450-669-1. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Brain-Teasers; nothing is cited from them.
+**Book 115:** *Mathematics — Textbook for Class IX* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-489-3. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendix 1 (Proofs in Mathematics), Appendix 2 (Introduction to Mathematical Modelling) and Answers/Hints; nothing is cited from them.
+**Book 116:** *Mathematics — Textbook for Class X* — India, NCERT, New Delhi, first edition December 2006, 2020-21 printing, ISBN 81-7450-634-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -358,8 +363,25 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 | Circle area — Open vs closed curves; circle defined (points equidistant from the centre); area derived by rearranging sectors into a near-parallelogram → π × radius² (π = 22/7 or 3.14); radius/diameter recovered from a given area; composite trapezium + semicircle | Sudan, Grade 6 Mathematics, printed p. 152 |
 | Parts of a circle — Circle as a locus; centre, radius, arc, chord, segment, diameter, secant defined through activities (4-1) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 124 |
 | Central and inscribed angles — Central angle, sector and inscribed (محيطية) angle defined (4-1) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 126 |
+| Round things and tracing circles — Carts and Wheels: list round things; trace a circle with a bangle; things to trace circles with; smallest and biggest traced circles; guess your bangle size | India, Math-Magic Class 4, printed p. 82 |
+| Why games use circles — Games with Circles: why a circle is made in each game; what if a rectangle was made | India, Math-Magic Class 4, printed p. 83 |
+| Drawing circles freehand — Making a Circle: Ariba, Chippu and Naina try to draw a big circle on the ground with a stick; freehand circles on the floor and in a notebook compared | India, Math-Magic Class 4, printed p. 84 |
+| Circle from a fixed centre and radius — Making a Circle with a Rope: nails and a rope of fixed length make a circle; longer rope makes a bigger circle; the rope length is the radius | India, Math-Magic Class 4, printed p. 85 |
+| Measuring radii — draw and measure the radius of a bangle and of two circles; radii of bicycle and bullock-cart wheels; biggest wheel seen; tractor wheels not all the same radius | India, Math-Magic Class 4, printed p. 86 |
+| Radius in a story problem — Lali and Kali tied to a pole with ropes: Kali's longer rope (longer radius) lets her reach more grass | India, Math-Magic Class 4, printed p. 87 |
+| A circle needs one fixed centre — Is It a Circle: Naina's compass slipped/moved and the arc did not close; can a circle have more than one centre | India, Math-Magic Class 4, printed p. 89 |
+| Finding the centre by folding — Find the Centre: Sameena folds her traced circle in half, then in half again; the crossing creases mark the centre | India, Math-Magic Class 4, printed p. 90 |
+| The centre of a plate — Balancing Act: a plate balances on a finger at its centre; find the centre of a round lid the same way | India, Math-Magic Class 4, printed p. 92 |
+| Centre and spinning tops — Spin the Top: whose top will not spin (hole far from centre), whose spins best (hole at the centre); make your own top with the hole at the centre | India, Math-Magic Class 4, printed p. 93 |
+| Circle parts — Circle as a simple closed curve; centre, radius, diameter, chord, arc, sector, segment, circumference | India, Mathematics Class 6, printed p. 83 |
+| Circumference ÷ diameter is the same (~3.14) for every circle: π; circumference = πd = 2πr; perimeter of a semicircle = πr + 2r | India, Mathematics Class 7, printed p. 218 |
+| Area of a circle = πr² by rearranging sectors into a near-rectangle; annulus (shaded region) areas | India, Mathematics Class 7, printed p. 222 |
+| Circle terms — circle, centre, radius, chord, diameter (= 2 × radius), arc (major/minor), semicircle, circumference, segment and sector terms reviewed | India, Mathematics Class 9, printed p. 169 |
+| Angles from chords — angle subtended by a chord/segment at a point defined | India, Mathematics Class 9, printed p. 171 |
+| Tangent and secant — position of a line vs a circle: non-intersecting, tangent (one common point), secant (two points); tangent as limiting position of a secant (activities) | India, Mathematics Class 10, printed p. 206 |
+| Number of tangents — from a point inside: no tangent; on the circle: exactly one; outside: exactly two; length of a tangent defined | India, Mathematics Class 10, printed p. 209 |
 
-**Acceptance count: taught in 29 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan).**.** Kazakhstan carries the full climb — circle Iran measures the circumference in Grade 5 — with the book's own bounds for π, 3 1/7 and 3 10/71, while its exercises work with π = 3 — the area of a circle in Grade 6, circle basics in Grade 8, and the circle's equation in Grade 12 Geometry (3).
+**Acceptance count: taught in 30 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan, India).**.** Kazakhstan carries the full climb — circle Iran measures the circumference in Grade 5 — with the book's own bounds for π, 3 1/7 and 3 10/71, while its exercises work with π = 3 — the area of a circle in Grade 6, circle basics in Grade 8, and the circle's equation in Grade 12 Geometry (3).
 parts in Grade 3, circle and disc in Grades 4 and 5, then the
 practical thread-and-glass discovery of pi with C = πD and the
 disc area in Grade 6. Jordan carries the parts in Grade 6 and
@@ -389,3 +411,5 @@ Malaysia builds the circle in Form 2 — parts, chord symmetry, π, circumferenc
 Rwanda teaches circles in Years 5–6: circumference measured with string and pi found as C ÷ D in Year 5, with C = πD and C = 2πr, and the area of a circle — from diameter, from circumference, and back to the radius — in Year 6.
 
 Sudan meets the circle in Grade 4 (centre and radius, then chord and diameter), takes circumference in Grade 5, circle area in Grade 6, and names the parts of a circle with central and inscribed angles in Grade 9.
+
+India stocks circles from Math-Magic Class 4 and Mathematics Class 6–7, 9–10: round things and tracing circles; circle parts; circumference ÷ diameter is the same (~3.14) for every circle: π; circumference = πd = 2πr; perimeter of a semicircle = πr + 2r; circle terms.

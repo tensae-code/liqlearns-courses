@@ -1,6 +1,6 @@
 # Sources — Symmetry
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, India
 
 Every part traces to its book and page.
 
@@ -180,6 +180,11 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 69:** *Mathematics Form 2* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Rimbunan Ilmu Sdn. Bhd., 2017, ISBN 978-967-2031-06-2) and BM original *Matematik Tingkatan 2* (Rimbunan Ilmu Sdn. Bhd., 2017, ISBN 978-967-2031-05-5). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 70:** *Primary Learner's Mathematics P4 for Rwanda Schools* (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+**Book 71:** *Math-Magic Book 3 — Textbook in Mathematics for Class III* — India, NCERT, New Delhi, first edition February 2006, 2020-21 issue, ISBN 81-7450-510-5. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 72:** *Math-Magic Book 4 — Textbook in Mathematics for Class IV* — India, NCERT, New Delhi, first edition March 2007, 2020-21 issue, ISBN 81-7450-698-5. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 73:** *Math-Magic Book 5 — Textbook in Mathematics for Class V* — India, NCERT, New Delhi, first edition March 2008, 2020-21 issue, ISBN 978-81-7450-828-7. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 74:** *Mathematics — Textbook for Class VI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 issue, ISBN 81-7450-482-6. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 75:** *Mathematics — Textbook for Class VII* — India, NCERT, New Delhi, first edition February 2007, 2020-21 issue, ISBN 81-7450-669-1. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Brain-Teasers; nothing is cited from them.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -256,8 +261,26 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Symmetry inside the circle: equal chords and the perpendicular from the centre (main filing: circles) | Malaysia, Mathematics Form 2, Ch. 5 §5.2, printed pp. 81–85 |
 | Line symmetry and mirror halves; lines of symmetry counted per shape | Rwanda, Primary Learner's Mathematics P4, pupil's book, Unit 15 (§15.3), printed pp. 160, 162 |
 | Rotational symmetry and its order (order 3 example) | Rwanda, Primary Learner's Mathematics P4, pupil's book, Unit 15 (§15.3), printed p. 161 |
+| Mirror halves in a story — Tit for Tat: the painter draws only half a picture; a mirror gives the complete picture (and half a 100-rupee note) | India, Math-Magic Class 3, printed p. 7 |
+| Drawing the other half — draw the other half of half-pictures; things that cannot be divided into two similar mirror halves | India, Math-Magic Class 3, printed p. 8 |
+| Mirror halves vs equal halves — Mirror Halves: does the dotted line divide each picture into two similar mirror halves; identical halves that are not mirror halves | India, Math-Magic Class 3, printed p. 9 |
+| Halving pictures — divide pictures into two similar halves with a dotted line | India, Math-Magic Class 3, printed p. 10 |
+| Letters and words with mirror halves — guess letters from their halves; words that read as mirror halves | India, Math-Magic Class 3, printed p. 11 |
+| Making a mask by folding — Making a Mask: fold paper on the middle line, draw half, cut, open to get a symmetric mask | India, Math-Magic Class 3, printed p. 12 |
+| Mirror halves in patterns — which brick pattern is made in a circle; in which pattern can you show mirror halves — draw the line; draw new floor patterns | India, Math-Magic Class 4, printed p. 3 |
+| Upside-down pictures — Upside Down: draw what Anisha's card will look like when upside down (rotation in action) | India, Math-Magic Class 4, printed p. 117 |
+| Mirror halves — Patterns from a drop of colour on a folded sheet; mirror halves — folding so one half covers the other exactly | India, Math-Magic Class 5, printed p. 71 |
+| Mirror lines — Which dotted lines divide shapes into two mirror halves (colour pattern can break the symmetry) | India, Math-Magic Class 5, printed p. 73 |
+| Mirror games — Placing a mirror on a line to obtain a given picture; which part gets hidden | India, Math-Magic Class 5, printed p. 74 |
+| Line symmetry: folding so halves match exactly; the mirror/fold line is the line of symmetry | India, Mathematics Class 6, printed p. 261 |
+| Making symmetric figures — Ink-blot devils and punched-paper designs; completing a figure across a given symmetry line | India, Mathematics Class 6, printed p. 262 |
+| Multiple lines — Figures with two and with many lines of symmetry (square's folds incl. diagonals; table for triangle, square, rectangle, rhombus, circle) | India, Mathematics Class 6, printed p. 264 |
+| Reflection in a mirror line: image same lengths/angles as object; kaleidoscope with two mirrors in a V | India, Mathematics Class 6, printed p. 270 |
+| Regular polygons — Lines of symmetry of regular polygons (a regular polygon has as many lines of symmetry as sides); regular pentagon angles 108°, hexagon 120° | India, Mathematics Class 7, printed p. 265 |
+| Reflection — Mirror reflection and line symmetry: completing figures across a mirror line; left-right reversal in a mirror image | India, Mathematics Class 7, printed p. 268 |
+| Line and rotational — Shapes with line symmetry only, rotational only, both, or neither; alphabet symmetry table; a figure with 60° rotational symmetry also matches at 120°, 180°, … | India, Mathematics Class 7, printed p. 275 |
 
-**Acceptance count: taught in 28 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda).**.** Greece carries symmetry from the very start Iran completes the missing halves of pictures in Grade 1, folds and mirrors shapes in Grade 2, names axial and central symmetry in Grade 5, and adds the centre of symmetry and rotation in Grade 6.
+**Acceptance count: taught in 29 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, India).**.** Greece carries symmetry from the very start Iran completes the missing halves of pictures in Grade 1, folds and mirrors shapes in Grade 2, names axial and central symmetry in Grade 5, and adds the centre of symmetry and rotation in Grade 6.
 — folding and mirror completion in Grade 1, the fold-along-the-
 red-line test in Grade 3, axial symmetry in Grade 6, and the
 full axis-and-point symmetry chapter in Grade 7. Kazakhstan
@@ -290,3 +313,5 @@ Saudi Arabia teaches symmetry twice: line symmetry by folding in Grade 3, with l
 Malaysia closes its Form 2 transformations chapter with rotational symmetry and its order — symmetry treated as something a shape does under a turn, not only under a fold.
 
 Rwanda teaches symmetry in Year 4, counting lines of symmetry per shape inside its shapes unit and meeting rotational symmetry with its order.
+
+India stocks symmetry from Math-Magic Class 3–5 and Mathematics Class 6–7: mirror halves in a story; mirror halves in patterns; mirror halves; line symmetry: folding so halves match exactly; the mirror/fold line is the line of symmetry.

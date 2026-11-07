@@ -1,6 +1,6 @@
 # Sources — Right-triangle trigonometry
 
-countries: Jordan, Egypt, Sierra Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan
+countries: Jordan, Egypt, Sierra Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India
 
 Every part traces to its book and page.
 
@@ -102,6 +102,7 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 **Book 48:** *Mathematics, Grade 8 (Second Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2022, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 49:** *Mathematics, Grade 10 (First Year Secondary)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, Arabic; no edition or year is printed in the book. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 50:** *Mathematics — Textbook for Class X* — India, NCERT, New Delhi, first edition December 2006, 2020-21 printing, ISBN 81-7450-634-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -180,9 +181,18 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Special angles — exact sin/cos/tan for 30°, 45°, 60° derived (halved equilateral triangle; isosceles right triangle) and tabulated | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 186 |
 | Applications — unknown side via tan 40°; height via sin 29° × 35 ≈ 16.8 m; 20 m tree at 55° exercise | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 189 |
 | Directed angles — The directed angle: initial side, terminal side, vertex; positive anticlockwise, negative clockwise (6-1) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 182 |
+| Trig ratios defined — in a right triangle: sin, cos, tan defined as ratios of sides for an acute angle; ratios depend only on the angle | India, Mathematics Class 10, printed p. 174 |
+| Reciprocal ratios — cosec, sec, cot as reciprocals; tan = sin/cos; notation warning: sin²A means (sin A)² and sin⁻¹A is not 1/sin A | India, Mathematics Class 10, printed p. 178 |
+| Ratios from one ratio — finding all ratios from one known ratio (Pythagoras on a ratio triangle); equal angles have equal ratios (proved example with similar triangles) | India, Mathematics Class 10, printed p. 179 |
+| Standard angles — values of all ratios for 45° (from an isosceles right triangle), 30°/60° (from half an equilateral triangle) and 0°/90° (limiting picture); full table | India, Mathematics Class 10, printed p. 181 |
+| Standard angles applied — evaluating expressions and solving simple trig equations with standard angles (worked examples) | India, Mathematics Class 10, printed p. 185 |
+| Complementary angles — sin(90°−A) = cos A, cos(90°−A) = sin A, tan(90°−A) = cot A, cot(90°−A) = tan A, sec(90°−A) = cosec A, cosec(90°−A) = sec A, derived from one right triangle | India, Mathematics Class 10, printed p. 187 |
+| Line of sight, angle of elevation and angle of depression defined | India, Mathematics Class 10, printed p. 195 |
+| Heights and distances — heights/distances worked problems: tower, ladder against wall/electric pole, observer and minar, shadow problems | India, Mathematics Class 10, printed p. 196 |
+| Heights and distances — two-observation problems: depression of top and bottom of a building, bridge over a river, moving car/balloon, complementary elevation angles ⇒ height 6 m proof exercise | India, Mathematics Class 10, printed p. 200 |
 
-**Acceptance count: taught in 25 countries (Jordan, Egypt, Sierra
-Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan).**
+**Acceptance count: taught in 26 countries (Jordan, Egypt, Sierra
+Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India).**
 Jordan carries the cleanest introduction — ratios from similar
 right triangles, then elevation and depression. Egypt carries
 the special-angle table and tan = sin / cos in Preparatory 3,
@@ -209,3 +219,5 @@ Syria's trigonometry lives in Grade 9 Geometry, opened by Aristarchus' first tri
 Malaysia builds the three ratios from a similarity activity — the ratios are constant because the triangles are similar — then derives the special angles exactly and works its problems in Polya's steps.
 
 Sudan teaches the three ratios in Grade 8 by drawing and measurement before the calculator, with special angles and applications, after introducing directed angles in Grade 10.
+
+India stocks right-triangle trigonometry from Mathematics Class 10: trig ratios defined.

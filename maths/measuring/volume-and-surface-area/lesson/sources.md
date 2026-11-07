@@ -1,6 +1,6 @@
 # Sources — Volume and Surface Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India
 
 Every part traces to its book and page.
 
@@ -272,6 +272,10 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 115:** *Mathematics, Grade 8 (Second Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2022, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 116:** *Mathematics, Grade 9 (Third Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2024, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 117:** *Math-Magic Book 5 — Textbook in Mathematics for Class V* — India, NCERT, New Delhi, first edition March 2008, 2020-21 issue, ISBN 978-81-7450-828-7. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 118:** *Mathematics — Textbook for Class VIII* — India, NCERT, New Delhi, first edition January 2008, 2020-21 printing, ISBN 978-81-7450-814-0. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Just for Fun sections; nothing is cited from them.
+**Book 119:** *Mathematics — Textbook for Class IX* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-489-3. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendix 1 (Proofs in Mathematics), Appendix 2 (Introduction to Mathematical Modelling) and Answers/Hints; nothing is cited from them.
+**Book 120:** *Mathematics — Textbook for Class X* — India, NCERT, New Delhi, first edition December 2006, 2020-21 printing, ISBN 81-7450-634-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -411,8 +415,30 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Cylinder volume — Volume of a cylinder = πr²h, presented as a prism with a circular base (8-5) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 286 |
 | Cone volume — Volume of a cone = ⅓πr²h, found by a sand-filling experiment against a cylinder (8-6) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 290 |
 | Sphere volume — Volume of a sphere = (4/3)πr³, derived by splitting the sphere into small pyramids; sphere surface area 4πr² used in the derivation and examples (8-7) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 294 |
+| Displacement — Volume by water rise: dropping marbles into a marked glass; guessing volumes in marbles | India, Math-Magic Class 5, printed p. 187 |
+| Millilitres — Making a measuring bottle for 10, 20, 30… mL; volumes of coins and marbles in mL | India, Math-Magic Class 5, printed p. 189 |
+| Cubic centimetres — Volume in centimetre cubes: the Math-Magic book, a matchbox = 10 cm cubes, stages built from books and matchboxes | India, Math-Magic Class 5, printed p. 191 |
+| Packing cubes — Making a paper cube; a cube of double the side holds 8 paper cubes; packing 4000 centimetre cubes into three boxes | India, Math-Magic Class 5, printed p. 194 |
+| Surface area of cuboid = 2(lb + bh + hl) | India, Mathematics Class 8, printed p. 180 |
+| Surface area of cube = 6l² | India, Mathematics Class 8, printed p. 182 |
+| Surface area — curved and total surface area of a cylinder, 2πrh and 2πr(r + h) from unrolling the curved face | India, Mathematics Class 8, printed p. 183 |
+| Volume defined; volume of cuboid = l × b × h; volume of cube = l³ | India, Mathematics Class 8, printed p. 187 |
+| Volume of cylinder = πr²h; volume vs capacity; unit conversions 1 cm³ = 1 mL, 1 L = 1000 cm³, 1 m³ = 1000 L | India, Mathematics Class 8, printed p. 189 |
+| Cuboid and cube surface area — surface area of cuboid = 2(lb + bh + hl); cube = 6a²; lateral surface area (four faces) defined | India, Mathematics Class 9, printed p. 208 |
+| Cylinder surface area — right circular cylinder defined; curved surface area = 2πrh (unrolled rectangle); total surface area = 2πr(r + h) | India, Mathematics Class 9, printed p. 214 |
+| Cone surface area — right circular cone defined: vertex, height, radius, slant height l = √(r² + h²); curved surface area = πrl (sector argument); total = πr(l + r) | India, Mathematics Class 9, printed p. 217 |
+| Sphere surface area — sphere and hemisphere defined; surface area of sphere = 4πr² (string-wrapping activity, not proved); hemisphere curved = 2πr², total = 3πr² | India, Mathematics Class 9, printed p. 222 |
+| Cuboid and cube volume — volume defined (space occupied; capacity = interior volume); volume of cuboid = lbh; cube = a³; standard volume units | India, Mathematics Class 9, printed p. 226 |
+| Cylinder volume — volume of cylinder = πr²h (prism analogy) | India, Mathematics Class 9, printed p. 228 |
+| Cone volume — volume of cone = (1/3)πr²h — established by the three-cones-fill-a-cylinder experiment, not proved | India, Mathematics Class 9, printed p. 231 |
+| Sphere volume — volume of sphere = (4/3)πr³ — from the water-displacement/sand experiment, not proved; hemisphere = (2/3)πr³ | India, Mathematics Class 9, printed p. 234 |
+| Combined solids — surface area of a combination of solids: add only the exposed parts (top = cone + hemisphere, block, rocket, bird-bath) | India, Mathematics Class 10, printed p. 240 |
+| Combined solids volume — volume of a combination of solids: volumes simply add (industrial shed, juice glass, toy) | India, Mathematics Class 10, printed p. 245 |
+| Conversion of solids — converting a solid from one shape to another with volume conserved (cone → sphere, tank → bottles, rod → wire, hemispherical tank emptied by a pipe) | India, Mathematics Class 10, printed p. 248 |
+| Frustum of a cone — frustum defined (smaller top cut off by a plane parallel to the base); volume, curved surface area and total surface area derived/taught via the difference of two cones in the worked example: V = (πh/3)(r₁² + r₂² + r₁r₂), CSA = π(r₁ + r₂)l, l = √[h² + (r₁ − r₂)²] | India, Mathematics Class 10, printed p. 252 |
+| Frustum applications — bucket and frustum capacity problems; optional exercise asks students to DERIVE the frustum formulae themselves (Ex. 13.5, marked not for examinations) | India, Mathematics Class 10, printed p. 256 |
 
-**Acceptance count: taught in 31 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan).**.** Sierra Leone carries the cleanest Iran gives the cuboid's volume in Grade 5, prism volumes and the cylinder's lateral area in Grade 7, and the sphere, pyramid and cone in Grade 9; its Grade 10 Geometry (1) treats the solids themselves without computing their volumes.
+**Acceptance count: taught in 32 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India).**.** Sierra Leone carries the cleanest Iran gives the cuboid's volume in Grade 5, prism volumes and the cylinder's lateral area in Grade 7, and the sphere, pyramid and cone in Grade 9; its Grade 10 Geometry (1) treats the solids themselves without computing their volumes.
 ladder — cubes, prisms and cylinders by cross-section × height,
 then surface areas by the net, in JSS 2. Egypt carries volume by
 counting unit cubes through V = l × w × h in Grade 5 and the
@@ -450,3 +476,5 @@ Malaysia builds surface area from nets in Form 2 before giving any formula, take
 Rwanda teaches volume and surface area from Year 4's unit-cube cuboid (with its Teacher's Guide working the matchbox pile), through Year 5's missing dimensions and Year 6's cuboid surface area and cylinder volume, to Senior 1's full run of surface areas and volumes for prisms, pyramids, cones, cylinders and spheres.
 
 Sudan splits the topic by design: Grade 8 teaches surface areas only — cuboid, cube, cylinder, cone, pyramid and sphere, with no volumes — and Grade 9 teaches the volumes, with units and litre conversions, the sphere's volume derived by a pyramid-dissection argument.
+
+India stocks volume and surface area from Math-Magic Class 5 and Mathematics Class 8–10: displacement; surface area of cuboid = 2(lb + bh + hl); cuboid and cube surface area; combined solids.

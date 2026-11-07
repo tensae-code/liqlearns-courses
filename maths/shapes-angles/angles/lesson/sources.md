@@ -1,6 +1,6 @@
 # Sources — Angles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India
 
 Every part traces to its book and page.
 
@@ -238,6 +238,10 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 123:** *Mathematics, Grade 8 (Second Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2022, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 124:** *Mathematics, Grade 10 (First Year Secondary)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, Arabic; no edition or year is printed in the book. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 125:** *Math-Magic Book 5 — Textbook in Mathematics for Class V* — India, NCERT, New Delhi, first edition March 2008, 2020-21 issue, ISBN 978-81-7450-828-7. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 126:** *Mathematics — Textbook for Class VI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 issue, ISBN 81-7450-482-6. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 127:** *Mathematics — Textbook for Class VII* — India, NCERT, New Delhi, first edition February 2007, 2020-21 issue, ISBN 81-7450-669-1. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Brain-Teasers; nothing is cited from them.
+**Book 128:** *Mathematics — Textbook for Class IX* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-489-3. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendix 1 (Proofs in Mathematics), Appendix 2 (Introduction to Mathematical Modelling) and Answers/Hints; nothing is cited from them.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -386,8 +390,33 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Shortest distance to a line — perpendicular from a point is the shortest segment to the line; hypotenuse is the longest side; median < half the sum of adjacent sides | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 134 |
 | The triangle inequality — sum of any two sides exceeds the third side — formal proof; corollary: a side exceeds the difference of the other two; quadrilateral half-perimeter application | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 138 |
 | Degree measure — Degree measure: a full turn is 360°, the degree splits into 60 minutes and the minute into 60 seconds; reflex angles and angles beyond one turn (6-3) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 189 |
+| What an angle is — Shapes with the same number of sides differ by the angles at their corners; small, big and bigger angles | India, Math-Magic Class 5, printed p. 17 |
+| Comparing angles — Finding the biggest angle and equal angles in matchstick polygons | India, Math-Magic Class 5, printed p. 18 |
+| Changing angles — Changing the angle between matchsticks makes different shapes; matchstick puzzles (answers printed p. 29) | India, Math-Magic Class 5, printed p. 19 |
+| Right angle — Making an angle tester from cardboard strips; the divider as angle tester; a right angle and its mark | India, Math-Magic Class 5, printed p. 20 |
+| Classifying — Sorting angles as right angle, more than a right angle, or less than a right angle, in pictures and around the classroom | India, Math-Magic Class 5, printed p. 21 |
+| Clock angles — Clock hands make a right angle at 9 o'clock; naming the angle kind at shown times; drawing hands for less than a right angle | India, Math-Magic Class 5, printed p. 29 |
+| Degrees — The degree, written °; measuring angles with a degree clock; a carrom striker comes back at the same angle | India, Math-Magic Class 5, printed p. 30 |
+| Degree clock — Making a degree clock by folding a circle (0°, 45°, 90°, 180°); 90° is called a right angle; half a right angle = 45°, a third = 30°, two right angles = 180° | India, Math-Magic Class 5, printed p. 31 |
+| Folding angles — Paper-aeroplane folds: finding the 45° and 90° angles when the plane is opened | India, Math-Magic Class 5, printed p. 32 |
+| Protractor — The 'D' (protractor) in the geometry box introduced; guess-then-measure angle game | India, Math-Magic Class 5, printed p. 33 |
+| Naming angles — Angle formed by two rays; vertex and arms; naming as ∠POQ; interior, exterior and points on an angle | India, Mathematics Class 6, printed p. 79 |
+| Revolutions — Right angle = quarter revolution, straight angle = half revolution; clock-hand turns | India, Mathematics Class 6, printed p. 90 |
+| Classifying angles — Acute, right, obtuse, straight and reflex angles, tested with a right-angle tester | India, Mathematics Class 6, printed p. 93 |
+| Measuring angles — Degree measure and the protractor (two scales; read from the 0° on the arm); making a degree clock | India, Mathematics Class 6, printed p. 96 |
+| Complementary angles: two angles summing to 90° | India, Mathematics Class 7, printed p. 94 |
+| Supplementary angles: two angles summing to 180° | India, Mathematics Class 7, printed p. 96 |
+| Adjacent and linear pair — Adjacent angles (common vertex and arm); a linear pair is supplementary | India, Mathematics Class 7, printed p. 97 |
+| Vertically opposite angles are equal, with a proof from a linear pair (∠1 = 180° − ∠2 = ∠3) | India, Mathematics Class 7, printed p. 100 |
+| Angle sum — Angle-sum property of a triangle: the three angles sum to 180°, proved from the exterior-angle property and a linear pair | India, Mathematics Class 7, printed p. 119 |
+| Kinds of angles — acute, right, obtuse, straight, reflex angles; complementary and supplementary pairs | India, Mathematics Class 9, printed p. 91 |
+| Pairs of angles — adjacent angles, linear pair (axiom: angles on a straight line sum to 180°, and converse), vertically opposite angles | India, Mathematics Class 9, printed p. 92 |
+| Vertically opposite angles — Theorem 6.1 proved: vertically opposite angles are equal | India, Mathematics Class 9, printed p. 94 |
+| Angles around a point — angles formed by several rays on a line / around a point (worked examples) | India, Mathematics Class 9, printed p. 95 |
+| Triangle angle sum — Theorem 6.7 proved: angles of a triangle sum to 180° (via parallel line through a vertex) | India, Mathematics Class 9, printed p. 105 |
+| Exterior angle — Theorem 6.8 proved: exterior angle of a triangle equals sum of the two interior opposite angles | India, Mathematics Class 9, printed p. 107 |
 
-**Acceptance count: taught in 30 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan).** Egypt carries the fullest single Iran measures angles with a protractor in Grade 4, bisects angles and sums polygon angles in Grade 5, and gives the (n − 2) × 180° interior-angle rule in Grade 8.
+**Acceptance count: taught in 31 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India).** Egypt carries the fullest single Iran measures angles with a protractor in Grade 4, bisects angles and sums polygon angles in Grade 5, and gives the (n − 2) × 180° interior-angle rule in Grade 8.
 treatment — the angle kinds, the protractor, complementary and
 supplementary pairs, the transversal's eight angles, and the
 triangle and quadrilateral sums in one Grade 7 unit. Jordan
@@ -421,3 +450,5 @@ Malaysia builds angles in Form 1 from measuring to parallels and transversals, t
 Rwanda teaches angles from Year 2, where right, acute and obtuse angles are compared without degrees, through Year 3's protractor work in both editions, Year 4's complementary and supplementary angles, Year 5's transversal angles, Year 6's polygon angle sums, and Senior 1's lines-and-angles unit.
 
 Sudan teaches angles from Grade 4 (the angle, measuring and drawing with the protractor, types, perpendicular and parallel lines), the Grade 5 angle relations (complementary, supplementary, vertically opposite, transversal and parallel-line angles, the triangle's angle sum and exterior angle), interior and exterior sums in Grade 7, and in Grade 8 the side–angle theorems of the triangle — the greater side opposite the greater angle and its converse, the perpendicular as the shortest distance to a line, and the triangle inequality itself, formally proved with its corollary — the very parts Pakistan's Class 9 book carries in this lesson.
+
+India carries angles through its NCERT ladder — Math-Magic Class 5 and Mathematics Class 6–7, 9 — including what an angle is; naming angles; complementary angles: two angles summing to 90°; kinds of angles.

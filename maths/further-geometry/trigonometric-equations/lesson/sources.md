@@ -1,6 +1,6 @@
 # Sources — Trigonometric equations
 
-countries: Nicaragua, Laos, Armenia, Libya, Yemen, Kuwait, Cambodia, Vietnam, South Sudan, China, Malaysia, Rwanda
+countries: Nicaragua, Laos, Armenia, Libya, Yemen, Kuwait, Cambodia, Vietnam, South Sudan, China, Malaysia, Rwanda, India
 
 Every part traces to its book and page.
 
@@ -24,6 +24,7 @@ Every part traces to its book and page.
 **Book 16:** *Advanced Mathematics for Rwanda Secondary Schools — Learner's Book, Senior Five* (ADVANCED stream) — Rwanda, Fountain Publishers Rwanda Ltd, 2017, ISBN 978-9970-19-410-0. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 17:** *Advanced Mathematics for Rwanda Secondary Schools — Teacher's Guide, Senior Five* (ADVANCED stream, teacher's guide) — Rwanda, Fountain Publishers Rwanda Ltd, 2017, ISBN 978-9970-19-411-7. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+**Book 18:** *Mathematics — Textbook for Class XI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-486-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendices 1–2, the Answers and the Supplementary Material; nothing is cited from them.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -47,9 +48,13 @@ Every part traces to its book and page.
 | Principal solutions and general solutions of trigonometric equations; equations of the form sin nx = k, cos nx = k, tan nx = k (Advanced) | Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 1, printed pp. 12–19 |
 | Equations of the form a sin x + b cos x = c, solved by dividing by a and setting tan α = b/a; trigonometric inequalities solved with the unit circle and sign tables (Advanced) | Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 1, printed pp. 19–30 |
 | Teacher's alternative method for a sin x + b cos x = c — substituting the t-formulae with t = tan(x/2) to reduce the equation to a quadratic in t — guide evidence (Advanced) | Rwanda, Advanced Mathematics, Teacher's Guide, Senior Five, Unit 1 (Trigonometric Formulae, Equations and Inequalities), printed p. 14 |
+| Principal solutions of sin x = a, tan x = a etc. | India, Mathematics Class 11, printed p. 74 |
+| General solutions proved as theorems: sin x = sin y ⇒ x = nπ + (−1)^n y; cos x = cos y ⇒ x = 2nπ ± y; tan x = tan y ⇒ x = nπ + y | India, Mathematics Class 11, printed p. 75 |
 
-**Acceptance count: taught in 12 countries (Nicaragua, Laos, Armenia, Libya, Yemen, Kuwait, Cambodia, Vietnam, South Sudan, China, Malaysia, Rwanda).** Nicaragua carries the general-solution method in its student book and the single-ratio rule with the easiest worked examples in its module. Laos carries equations and, uniquely in this lesson, a fully worked unit-circle inequality in consecutive lessons. Armenia carries the simplest equations and then names the main solving methods. Libya carries simple equations in Grade 11 and the a·cosθ ± b·sinθ equation form in Grade 12. Yemen gives equations their own lesson in Grade 11 Science. Kuwait solves equations in both its Grade 10 and Grade 11 Term 2 books. Cambodia solves the four basic forms in Grade 11 Basic and continues to equations and inequalities in Grade 11 Advanced. Vietnam teaches the basic equations in Bài 4. South Sudan solves equations graphically and arithmetically, including quadratic-shaped ones, in Secondary 4 Additional Mathematics. China solves from the trig lines and graphs in its B-edition Volume 3.
+**Acceptance count: taught in 13 countries (Nicaragua, Laos, Armenia, Libya, Yemen, Kuwait, Cambodia, Vietnam, South Sudan, China, Malaysia, Rwanda, India).** Nicaragua carries the general-solution method in its student book and the single-ratio rule with the easiest worked examples in its module. Laos carries equations and, uniquely in this lesson, a fully worked unit-circle inequality in consecutive lessons. Armenia carries the simplest equations and then names the main solving methods. Libya carries simple equations in Grade 11 and the a·cosθ ± b·sinθ equation form in Grade 12. Yemen gives equations their own lesson in Grade 11 Science. Kuwait solves equations in both its Grade 10 and Grade 11 Term 2 books. Cambodia solves the four basic forms in Grade 11 Basic and continues to equations and inequalities in Grade 11 Advanced. Vietnam teaches the basic equations in Bài 4. South Sudan solves equations graphically and arithmetically, including quadratic-shaped ones, in Secondary 4 Additional Mathematics. China solves from the trig lines and graphs in its B-edition Volume 3.
 
 Malaysia solves its trigonometric equations inside the same Additional Mathematics Form 5 chapter that builds the identities — the equations are the identities put to work.
 
 Rwanda teaches trigonometric equations in its Advanced Senior Five book — principal and general solutions, the sin nx = k forms, a sin x + b cos x = c, and inequalities by unit circle and sign tables — with the Advanced Teacher's Guide adding a t-formula method for the a sin x + b cos x = c form.
+
+India enters trigonometric equations from Mathematics Class 11: principal solutions of sin x = a, tan x = a etc..

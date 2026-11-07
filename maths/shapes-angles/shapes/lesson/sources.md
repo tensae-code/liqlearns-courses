@@ -1,6 +1,6 @@
 # Sources — Shapes
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India
 
 Every part traces to its book and page.
 
@@ -294,6 +294,15 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 164:** *Mathematics, Grade 7 (First Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2021, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 165:** *Mathematics, Grade 8 (Second Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2022, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 166:** *Math-Magic — Textbook in Mathematics for Class I* — India, NCERT (National Council of Educational Research and Training), New Delhi, first edition February 2006, 2020-21 issue, ISBN 81-7450-476-1. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Chapter 11 (printed pp. 117–123) and printed p. 133; nothing is cited from them.
+**Book 167:** *Math-Magic Book 2 — Textbook in Mathematics for Class II* — India, NCERT, New Delhi, first edition February 2007, 2020-21 issue (body pages footer-dated 2019-20), ISBN 81-7450-679-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 168:** *Math-Magic Book 3 — Textbook in Mathematics for Class III* — India, NCERT, New Delhi, first edition February 2006, 2020-21 issue, ISBN 81-7450-510-5. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 169:** *Math-Magic Book 4 — Textbook in Mathematics for Class IV* — India, NCERT, New Delhi, first edition March 2007, 2020-21 issue, ISBN 81-7450-698-5. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 170:** *Math-Magic Book 5 — Textbook in Mathematics for Class V* — India, NCERT, New Delhi, first edition March 2008, 2020-21 issue, ISBN 978-81-7450-828-7. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 171:** *Mathematics — Textbook for Class VI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 issue, ISBN 81-7450-482-6. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 172:** *Mathematics — Textbook for Class VII* — India, NCERT, New Delhi, first edition February 2007, 2020-21 issue, ISBN 81-7450-669-1. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Brain-Teasers; nothing is cited from them.
+**Book 173:** *Mathematics — Textbook for Class VIII* — India, NCERT, New Delhi, first edition January 2008, 2020-21 printing, ISBN 978-81-7450-814-0. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Just for Fun sections; nothing is cited from them.
+**Book 174:** *Mathematics — Textbook for Class IX* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-489-3. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendix 1 (Proofs in Mathematics), Appendix 2 (Introduction to Mathematical Modelling) and Answers/Hints; nothing is cited from them.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -482,8 +491,83 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Polygons — Polygon defined as a closed plane figure of 3+ sides, named by side count; regular polygon defined (equal sides and equal interior angles) | Sudan, Grade 7 Mathematics (First Year Intermediate), printed p. 51 |
 | Three-dimensional shapes — geometric solids vs non-geometric solids; only geometric solids studied | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 144 |
 | Prisms and the cuboid — right prism defined; prisms named by base; cuboid's faces, edges, vertices; opposite faces equal and parallel | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 146 |
+| Shapes around us — sort pictured objects into shape boxes; match similar shapes | India, Math-Magic Class 1, printed p. 10 |
+| Rolling and sliding — tick objects that roll; tick objects that slide | India, Math-Magic Class 1, printed p. 12 |
+| Rolling in a story — the dholak rolls down the road in the Wise Grandmother story | India, Math-Magic Class 1, printed p. 13 |
+| Matching shapes and sizes — match shapes of the same size | India, Math-Magic Class 1, printed p. 15 |
+| Matching shapes — match the same shapes | India, Math-Magic Class 1, printed p. 16 |
+| Smallest shape — colour the smallest shape | India, Math-Magic Class 1, printed p. 17 |
+| Joining similar shapes — join the similar shapes | India, Math-Magic Class 1, printed p. 18 |
+| Building with a shape kit — make figures using the cut-out shape kit | India, Math-Magic Class 1, printed p. 20 |
+| Describing 3D shapes by touch — Guess its Name game: feel an object in a bag and describe it (round, no corners, rolls) | India, Math-Magic Class 2, printed p. 1 |
+| Edges, corners, faces, rolling — game continues in teams; teacher note: edges, corners, faces, smooth/rough, rolls or slides; a matchbox has sharp corners and cannot roll | India, Math-Magic Class 2, printed p. 2 |
+| Strength of a rolled shape — How Strong is a Postcard: a flat postcard cannot hold a book, the same postcard rolled into a pipe can | India, Math-Magic Class 2, printed p. 3 |
+| Long and round — singing game: name one long thing and one round thing (a bottle is long, a cap is round) | India, Math-Magic Class 2, printed p. 4 |
+| Rolling and sliding — what rolls, what slides, what does both, in a park picture | India, Math-Magic Class 2, printed p. 5 |
+| Rolling and sliding — list things around you that roll / slide / both; make a paper pipe tree | India, Math-Magic Class 2, printed p. 6 |
+| Stacking and flat faces — The Tallest Tower: which shapes stack, flat vs not-flat surfaces, broader bases are more stable | India, Math-Magic Class 2, printed p. 7 |
+| A coin rolls and slides — Coin Play: does a coin roll, does it slide, stand a 1/2/5-rupee coin on edge, spin a coin (looks like a ball) | India, Math-Magic Class 2, printed p. 8 |
+| Footprints and traces — Footprints (opening, image page): Bholu and the Footprints — match the baby animals with their footprints | India, Math-Magic Class 2, printed p. 39 |
+| Traces of objects — Trace and Guess: Roohi made two different traces of the same bowl; trace leaves, pebbles, a bangle; footprint of a friend, smaller or bigger | India, Math-Magic Class 2, printed p. 40 |
+| Tracing objects — More Fun with Tracing: trace a potato, bottle cap, matchbox cover, sharpener, eraser, spoon, ticket, coin, straw and guess | India, Math-Magic Class 2, printed p. 42 |
+| Naming traced shapes — look at each trace: does it look like circle, square, rectangle...; write the thing's name under its shape | India, Math-Magic Class 2, printed p. 43 |
+| Counting shapes in a picture — Tarani's Shapes: how many of each shape in Tarani's picture | India, Math-Magic Class 2, printed p. 44 |
+| Making pictures from shapes — make your own picture using shapes; make a drawing using only one kind of shape | India, Math-Magic Class 2, printed p. 45 |
+| Shapes on faces — Dressing Up Bisania and Shapes and Faces: draw jewellery and glasses/moustache/mouth of given shapes | India, Math-Magic Class 2, printed p. 46 |
+| Copying shapes on a dot grid — copy shapes on the dot grid; straight and curved lines in shapes | India, Math-Magic Class 3, printed p. 4 |
+| Drawing on a dot grid — draw your own designs; complete figures to make squares and rectangles | India, Math-Magic Class 3, printed p. 5 |
+| Drawing shapes on a dot grid — draw a kite, a leaf, a flower, a boat, a star, a pot on the dot grid | India, Math-Magic Class 3, printed p. 6 |
+| Folding a paper clapper — Shapes and Designs (opening): make a clapper by folding a sheet in numbered steps | India, Math-Magic Class 3, printed p. 60 |
+| Naming shapes by colour code — colour the clown: triangles red, squares yellow, rectangles blue, circles green | India, Math-Magic Class 3, printed p. 61 |
+| Counting and finding shapes — how many triangles in the figures; find the biggest rectangle | India, Math-Magic Class 3, printed p. 62 |
+| Edges and Corners: the blindfold game around a table — who is not at a corner is out; can it be played around a round table | India, Math-Magic Class 3, printed p. 63 |
+| Straight and curved edges — things with straight edges and with curved edges; corners on each; folding a rectangle's corner changes its corner count | India, Math-Magic Class 3, printed p. 64 |
+| Counting edges and corners — table of things (die, ball, eraser, egg, sheet of paper): has corners?, number of edges, number of corners; a figure with no corners from straight lines only | India, Math-Magic Class 3, printed p. 65 |
+| Tangram — the 5-piece tangram: make figures from the pieces | India, Math-Magic Class 3, printed p. 66 |
+| Tangram pieces compared — the 7-piece tangram: how many triangles, equal sizes, matching sides of pieces 1-5 | India, Math-Magic Class 3, printed p. 67 |
+| Tangram constructions — make shapes using only triangles, only pieces 1 2 3 5, only two triangles, pieces 1-5 | India, Math-Magic Class 3, printed p. 68 |
+| Tangram cut-out page — A Page to Cut Out (printed p. 201): the 7-piece tangram (for p. 67) and cut-out tiles for the tiling patterns | India, Math-Magic Class 3, printed p. 201 |
+| Faces of a brick (cuboid) — How to Draw a Brick: one face vs three faces of a brick in photos; a brick has 6 faces; is any face a square; draw the smallest face; drawings that show 3 (or 4) faces | India, Math-Magic Class 4, printed p. 4 |
+| Staggered brick walls — A Wall that will not Fall: Muniya's stacked wall vs Zainab's staggered wall — which is stronger; match wall photos to drawings | India, Math-Magic Class 4, printed p. 5 |
+| Arches and triangular bricks — a library wall in Kerala using brick edges; a triangle in the jaali; bricks that look like triangles around a tree | India, Math-Magic Class 4, printed p. 8 |
+| Arches in bridges; the Orchha arch with a veil (Ghoonghat Waali Mehraab); thin bricks | India, Math-Magic Class 4, printed p. 9 |
+| A die: opposite faces — Gibli and the Big Box: the box is a die; numbers on opposite faces add to 7; opposite of 5 (2); number at the bottom; nets of the box (which open picture is correct) | India, Math-Magic Class 4, printed p. 59 |
+| Drawing with shapes — Drawing a fish and sea animals from squares, triangles and other shapes | India, Math-Magic Class 5, printed p. 1 |
+| Open and closed — Open vs closed matchstick shapes; counting sides; same side-count shapes can differ | India, Math-Magic Class 5, printed p. 16 |
+| Rigidity — Matchstick-and-tube shapes pushed down: a triangle's angles do not change, other polygons' angles do | India, Math-Magic Class 5, printed p. 27 |
+| Triangles in structures — Triangles in towers and bridges; triangles are strong and do not change easily when pressed; diagonal beams make triangles | India, Math-Magic Class 5, printed p. 28 |
+| Hexagon — The Central Hexagon on the zoomed map: a six-sided shape | India, Math-Magic Class 5, printed p. 114 |
+| Nets — The sweet-box cut-out (printed p. 201) folds into a box; which other flat shapes fold into a box | India, Math-Magic Class 5, printed p. 126 |
+| Cube nets — Shapes that fold into a cube (a cube has 6 square faces); shapes that fold into an open box; matching nets to boxes | India, Math-Magic Class 5, printed p. 127 |
+| Curves and polygons — Curves, simple curves, open vs closed curves; polygon = simple closed figure of line segments only | India, Mathematics Class 6, printed p. 76 |
+| Polygon parts — Sides, adjacent sides/vertices, opposite sides and diagonals of a polygon | India, Mathematics Class 6, printed p. 78 |
+| Triangle parts — Triangle as a 3-sided polygon; sides, angles and vertices of ∆ABC | India, Mathematics Class 6, printed p. 81 |
+| Quadrilateral parts — Quadrilateral: adjacent/opposite sides and angles of PQRS | India, Mathematics Class 6, printed p. 82 |
+| Classifying triangles — Triangles classified by sides (scalene, isosceles, equilateral) and by angles (acute, right, obtuse) | India, Mathematics Class 6, printed p. 102 |
+| Quadrilaterals by properties table: parallelogram, rectangle, square, rhombus, trapezium (opposite sides/angles, diagonals) | India, Mathematics Class 6, printed p. 105 |
+| Polygons named by side count: triangle 3, quadrilateral 4, pentagon 5, hexagon 6, octagon 8; regular polygons | India, Mathematics Class 6, printed p. 107 |
+| Solids — 3-D shapes (cube, cuboid, cone, sphere, cylinder, pyramid); faces, edges and vertices counted | India, Mathematics Class 6, printed p. 109 |
+| Triangle parts — Triangle's sides, angles, vertices; side/angle opposite a vertex | India, Mathematics Class 7, printed p. 113 |
+| Medians — Median of a triangle: vertex to midpoint of the opposite side (paper-folding) | India, Mathematics Class 7, printed p. 114 |
+| Altitudes — Altitude of a triangle: perpendicular from a vertex to the opposite side; altitude can fall outside | India, Mathematics Class 7, printed p. 115 |
+| Special triangles — Equilateral triangle (all sides and angles equal); isosceles triangle (two equal sides, base angles equal by folding) | India, Mathematics Class 7, printed p. 123 |
+| 2-D and 3-D — Plane (2-D) figures vs solid (3-D) shapes; faces of solids are plane figures | India, Mathematics Class 7, printed p. 277 |
+| Faces edges vertices — Counting faces, edges and vertices of solids in a table (cube 6/12/8; tetrahedron 4/6/4 as printed in the table's two columns) | India, Mathematics Class 7, printed p. 279 |
+| Nets of 3-D shapes: unfolding a box; correct/incorrect cube and tetrahedron nets; dice and opposite faces | India, Mathematics Class 7, printed p. 280 |
+| Polygons — simple closed curves; polygon defined; classification by number of sides | India, Mathematics Class 8, printed p. 37 |
+| Polygons — diagonals of a polygon | India, Mathematics Class 8, printed p. 38 |
+| Polygons — convex and concave polygons; regular and irregular polygons | India, Mathematics Class 8, printed p. 39 |
+| Angle sums — angle sum property of a polygon, (n−2) × 180° built up from triangles/quadrilaterals | India, Mathematics Class 8, printed p. 40 |
+| Angle sums — sum of exterior angles of any polygon = 360°, walked-around argument | India, Mathematics Class 8, printed p. 42 |
+| Quadrilaterals — kinds of quadrilaterals: trapezium and kite defined and explored | India, Mathematics Class 8, printed p. 44 |
+| Parallelograms — parallelogram defined; elements (sides, angles, diagonals) | India, Mathematics Class 8, printed p. 46 |
+| Parallelograms — properties found by measurement/activity: opposite sides equal, opposite angles equal, diagonals bisect each other | India, Mathematics Class 8, printed p. 47 |
+| Special parallelograms — rhombus (diagonals perpendicular), rectangle (diagonals equal, each angle 90°), square (all properties) — stated from exploration, not proved | India, Mathematics Class 8, printed p. 52 |
+| Quadrilaterals — quadrilateral defined; angle sum of a quadrilateral = 360° derived by a diagonal split | India, Mathematics Class 9, printed p. 135 |
+| Kinds of quadrilaterals — trapezium, parallelogram, rhombus, rectangle, square and kite classified (kite: two distinct pairs of equal adjacent sides, not a parallelogram) | India, Mathematics Class 9, printed p. 137 |
+| Special quadrilaterals proved — rectangle's angles all 90° and rhombus's diagonals perpendicular — proved as examples; angle bisectors of a parallelogram form a rectangle (proved example) | India, Mathematics Class 9, printed p. 144 |
 
-**Acceptance count: taught in 31 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
+**Acceptance count: taught in 32 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
 — polygons, triangles two ways, then the parallelogram family
 with its special cases. Egypt carries polygons by vertices in
 Grade 3 and the triangle/trapezium/kite sorting in Grade 5.
@@ -515,3 +599,5 @@ Malaysia names and classifies shapes in Form 1 (polygons, triangles, quadrilater
 Rwanda teaches shapes across the primary years and into Senior 1: Year 2 names squares, rectangles and triangles, Year 3 gives their properties and triangle types in both the English and Kinyarwanda editions, Year 4 classifies triangles and quadrilaterals, Years 5–6 add cubes, cuboids, polygons and nets, and Senior 1 counts faces, edges and vertices across the solids.
 
 Sudan teaches shapes from Grade 2's straight and curved lines and polygons by their number of sides, through Grade 3's point and segment and the first triangle, rectangle and square, Grade 4's review of point and segment with the ray and the straight line built by extending it, Grade 5's classification of triangles by angles and by sides, Grade 7's polygons, and Grade 8's three-dimensional shapes and prisms.
+
+India carries shapes through its NCERT ladder — Math-Magic Class 1–5 and Mathematics Class 6–9 — including shapes around us; describing 3D shapes by touch; copying shapes on a dot grid; faces of a brick (cuboid).

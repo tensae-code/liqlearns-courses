@@ -1,6 +1,6 @@
 # Sources — Pythagoras
 
-countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan
+countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India
 
 Every part traces to its book and page.
 
@@ -132,6 +132,9 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 **Book 51:** *Mathematics, Grade 6* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2020, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 52:** *Mathematics, Grade 9 (Third Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2024, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 53:** *Mathematics — Textbook for Class VII* — India, NCERT, New Delhi, first edition February 2007, 2020-21 issue, ISBN 81-7450-669-1. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Brain-Teasers; nothing is cited from them.
+**Book 54:** *Mathematics — Textbook for Class VIII* — India, NCERT, New Delhi, first edition January 2008, 2020-21 printing, ISBN 978-81-7450-814-0. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Just for Fun sections; nothing is cited from them.
+**Book 55:** *Mathematics — Textbook for Class X* — India, NCERT, New Delhi, first edition December 2006, 2020-21 printing, ISBN 81-7450-634-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -195,8 +198,15 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 | Finding sides — Rearranged forms with square roots: hypotenuse from the two legs (12, 5 → 13); a leg from hypotenuse and leg; chained right triangles in one figure | Sudan, Grade 6 Mathematics, printed p. 157 |
 | Testing for a right angle — Converse in use, never named: do the triples (26, 24, 10) and (8, 15, 16) form right-angled triangles? | Sudan, Grade 6 Mathematics, printed p. 159 |
 | Chord length problems — Using Pythagoras with the perpendicular-from-centre theorem to find chord lengths and distances (within 4-4) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 133 |
+| Pythagoras property a² = b² + c² by a squares-and-triangles area argument; hypotenuse and legs named | India, Mathematics Class 7, printed p. 127 |
+| Converse: if the Pythagoras property holds for a triangle's sides, the triangle is right-angled; checking triples and ladder problems | India, Mathematics Class 7, printed p. 129 |
+| Pythagorean triplets defined; generating triplets with 2m, m²−1, m²+1 | India, Mathematics Class 8, printed p. 98 |
+| Right-triangle similarity — Theorem 6.7 proved: perpendicular from the right-angle vertex makes three mutually similar triangles | India, Mathematics Class 10, printed p. 144 |
+| Pythagoras' theorem — Theorem 6.8 (Pythagoras) proved from similar triangles: hypotenuse² = sum of squares of the other two sides | India, Mathematics Class 10, printed p. 145 |
+| Converse of Pythagoras — Theorem 6.9 proved: if one side² = sum of squares of the other two, the opposite angle is a right angle | India, Mathematics Class 10, printed p. 147 |
+| Pythagoras applications — ladder/rectangle problems and proof exercises (medians, interior point) using Pythagoras | India, Mathematics Class 10, printed p. 148 |
 
-**Acceptance count: taught in 26 countries (Egypt, Greece, Armenia, Kazakhstan, Vietnam, Sierra Leone, Libya, Mauritania, South Africa, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan).**.** Egypt carries the fullest single treatment — Iran states Pythagoras' theorem in Grade 8 and verifies it on examples rather than proving it, and uses the converse.
+**Acceptance count: taught in 27 countries (Egypt, Greece, Armenia, Kazakhstan, Vietnam, Sierra Leone, Libya, Mauritania, South Africa, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India).**.** Egypt carries the fullest single treatment — Iran states Pythagoras' theorem in Grade 8 and verifies it on examples rather than proving it, and uses the converse.
 the theorem, its converse, classifying triangles by comparing
 squares, the 13-foot ladder and a Pythagoras practical in Grade
 8. Sierra Leone carries the cleanest ladder in JSS 3 — the
@@ -232,3 +242,5 @@ Syria discovers Pythagoras' theorem in Grade 8 Geometry by measuring and tabulat
 Malaysia gives Pythagoras the final chapter of Form 1, theorem and converse both, proving the theorem by areas of squares. Ghana stays in this lesson's countries line as curriculum evidence only and is not counted in the acceptance count, exactly as filed before this merge.
 
 Sudan states Pythagoras' theorem in Grade 6, finds sides with it and tests for a right angle, and uses it for chord-length problems in Grade 9.
+
+India enters Pythagoras from Mathematics Class 7–8, 10: pythagoras property a² = b² + c² by a squares-and-triangles area argument; hypotenuse and legs named; pythagorean triplets defined; generating triplets with 2m, m²−1, m²+1; right-triangle similarity.

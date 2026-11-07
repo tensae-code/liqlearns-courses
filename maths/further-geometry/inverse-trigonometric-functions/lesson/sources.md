@@ -1,6 +1,6 @@
 # Sources — Inverse trigonometric functions
 
-countries: Nicaragua, Armenia, Cambodia, Laos, Rwanda, Sudan
+countries: Nicaragua, Armenia, Cambodia, Laos, Rwanda, Sudan, India
 
 Every part traces to its book and page.
 
@@ -16,6 +16,7 @@ Every part traces to its book and page.
 **Book 7:** *Mathematics, Grade 10 (First Year Secondary)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, Arabic; no edition or year is printed in the book. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 8:** *Basic Mathematics, Grade 12 (humanities track)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, title page dated October 2009, Arabic. No ISBN printed. The held copy lacks its first contents page, any ISBN page and its back cover; the body is complete (folios 1–157) and only body pages are cited. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 9:** *Mathematics — Textbook for Class XII, Parts I–II* (ONE work in two volumes: continuous chapters 1–13 and continuous printed pagination 1–587) — India, NCERT, New Delhi, first edition November 2006, 2020-21 printing; Part I ISBN 81-7450-629-2 (Part II prints no ISBN). Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy of Part I lacks its appendices, answers and supplementary material, and the held copy of Part II has no front matter; nothing is cited from either.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -34,9 +35,17 @@ Every part traces to its book and page.
 | Finding the angle from a ratio — sin⁻¹, cos⁻¹, tan⁻¹ with SHIFT key sequences (cos⁻¹ 0.2 ≈ 78°) | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 184 |
 | Reference angle — The reference angle (زاوية الإسناد) and the rule: a function's value at any angle equals ± its value at the reference angle, the sign fixed by the quadrant (6-8) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 213 |
 | Derivatives — Derivative of arctan x found as 1/(1+x²) by differentiating x = tan y implicitly | Sudan, Grade 12 Basic Mathematics (humanities track), printed p. 52 |
-**Acceptance count: taught in 6 countries (Nicaragua, Armenia, Cambodia, Laos, Rwanda, Sudan).**
+| Principal value branches — why trig functions must be restricted to be inverted; sin⁻¹ with principal value branch [−π/2, π/2]; graph by reflection in y = x | India, Mathematics Class 12 Part I, printed p. 34 |
+| Principal value branches — cos⁻¹ with principal value branch [0, π] | India, Mathematics Class 12 Part I, printed p. 36 |
+| Principal value branches — branches of cosec⁻¹, sec⁻¹, tan⁻¹ and cot⁻¹; domains and ranges (principal value table in the Summary) | India, Mathematics Class 12 Part I, printed p. 37 |
+| Identities — reciprocal and reflection identities: sin⁻¹(1/x) = cosec⁻¹x, sin⁻¹(−x) = −sin⁻¹x, sin⁻¹x + cos⁻¹x = π/2 and companions, proved in the text | India, Mathematics Class 12 Part I, printed p. 42 |
+| Addition formulas — tan⁻¹x + tan⁻¹y = tan⁻¹((x + y)/(1 − xy)) and the 2tan⁻¹x formulas, proved/derived in the text; simplifying expressions like tan⁻¹((cos x − sin x)/(cos x + sin x)) | India, Mathematics Class 12 Part I, printed p. 43 |
+| Derivatives of sin⁻¹x and tan⁻¹x (and the other inverse trig functions) derived "assuming it exists" via implicit differentiation | India, Mathematics Class 12 Part I, printed p. 168 |
+**Acceptance count: taught in 7 countries (Nicaragua, Armenia, Cambodia, Laos, Rwanda, Sudan, India).**
 Nicaragua carries the full treatment — restriction, definition, compositions, calculator values and graphical solving — in Grade 10. Armenia carries the inverses as a named section of its Grade 10 analysis book, built on the inverse-function concept and its existence condition, with the four inverse names introduced beside the simplest trigonometric equations. Laos carries inverses of the trigonometric functions as a full lesson inside its Grade 12 inverse-functions chapter. Cambodia carries the topic at §3.2 of its Grade 12 Advanced book, filed from the table of contents and the teacher guide's lesson plan; the section start was not read in detail in the student book, and it is counted on that filed basis, worded exactly as filed.
 
 Rwanda teaches inverse trigonometric functions in its Advanced Senior Five book, defining all six inverses with their domains, ranges and principal values.
 
 Sudan finds the angle from a ratio in Grade 8, works with the reference angle in Grade 10, and differentiates the inverse functions in Grade 12 Basic.
+
+India enters inverse trigonometric functions from Mathematics Class 12: principal value branches.

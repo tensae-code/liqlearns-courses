@@ -1,6 +1,6 @@
 # Sources — Constructions with ruler and compass
 
-countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan
+countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India
 
 Every part traces to its book and page.
 
@@ -31,6 +31,11 @@ Every part traces to its book and page.
 **Book 17:** *Mathematics, Grade 4* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, second edition 2021, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 18:** *Mathematics, Grade 8 (Second Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2022, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 19:** *Math-Magic Book 4 — Textbook in Mathematics for Class IV* — India, NCERT, New Delhi, first edition March 2007, 2020-21 issue, ISBN 81-7450-698-5. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 20:** *Mathematics — Textbook for Class VI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 issue, ISBN 81-7450-482-6. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 21:** *Mathematics — Textbook for Class VII* — India, NCERT, New Delhi, first edition February 2007, 2020-21 issue, ISBN 81-7450-669-1. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Brain-Teasers; nothing is cited from them.
+**Book 22:** *Mathematics — Textbook for Class IX* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-489-3. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendix 1 (Proofs in Mathematics), Appendix 2 (Introduction to Mathematical Modelling) and Answers/Hints; nothing is cited from them.
+**Book 23:** *Mathematics — Textbook for Class X* — India, NCERT, New Delhi, first edition December 2006, 2020-21 printing, ISBN 81-7450-634-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -58,7 +63,23 @@ Every part traces to its book and page.
 
 | Drawing a circle — draw a circle with ruler and compasses (al-firjār / al-barjal) | Sudan, Grade 4 Mathematics, printed p. 111 |
 | Dividing a segment — construction: divide a given segment into n equal parts using an auxiliary ray and parallels | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 75 |
-**Acceptance count: taught in 11 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan).**
+| Drawing circles with a compass — Using a Compass: open it, press the tip, turn the pencil round; the tip's mark is the centre; draw the radius and measure it; Daljeet's compass designs | India, Math-Magic Class 4, printed p. 88 |
+| Instruments — The geometry box: ruler, compasses, divider, set-squares (45-45-90 and 30-60-90) and protractor — what each is for | India, Mathematics Class 6, printed p. 274 |
+| Circle — Constructing a circle of given radius with compasses | India, Mathematics Class 6, printed p. 276 |
+| Line segment — Constructing a line segment of given length (ruler method and ruler-and-compasses method); copying a given segment; doubling a segment | India, Mathematics Class 6, printed p. 277 |
+| Perpendiculars — Perpendicular to a line through a point on it / not on it, by paper folding, ruler-and-set-square, and ruler-and-compasses | India, Mathematics Class 6, printed p. 280 |
+| Perpendicular bisector of a segment by ruler and compasses; midpoint verified with divider | India, Mathematics Class 6, printed p. 285 |
+| Angles — Constructing an angle of given measure with a protractor; copying an unknown angle with compasses | India, Mathematics Class 6, printed p. 287 |
+| Angle bisector — Bisecting an angle with ruler and compasses | India, Mathematics Class 6, printed p. 289 |
+| Special angles — Constructing 60°, 30° (bisect 60°), 120°, 90° and 45° with ruler and compasses | India, Mathematics Class 6, printed p. 290 |
+| Parallel line — Constructing a line parallel to a given line through an outside point, using the alternate-interior-angles property, ruler and compasses only | India, Mathematics Class 7, printed p. 193 |
+| Basic constructions — Construction 11.1: bisect a given angle (with justification) | India, Mathematics Class 9, printed p. 189 |
+| Basic constructions — Construction 11.2: perpendicular bisector of a line segment (with justification) | India, Mathematics Class 9, printed p. 190 |
+| Basic constructions — Construction 11.3: construct a 60° angle at the initial point of a ray | India, Mathematics Class 9, printed p. 191 |
+| Dividing a segment — Construction 11.1/§11.2: divide a line segment internally in a given ratio (two methods: parallel rays / alternate segments), with justification from BPT | India, Mathematics Class 10, printed p. 216 |
+| Similar triangle construction — construct a triangle similar to a given triangle with a given scale factor (3/4 and 5/3 examples), justified by BPT and SAS similarity | India, Mathematics Class 10, printed p. 218 |
+| Tangents construction — construct the pair of tangents from an external point to a circle (via the circle on OP as diameter), with justification | India, Mathematics Class 10, printed p. 220 |
+**Acceptance count: taught in 12 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India).**
 
 Sierra Leone teaches the fullest school construction course here: SSS 2 Term 2 lessons 79–83 work through bisection and the constructible angles in order, and its JSS 1 handbook gives the first constructions. Laos builds the same skills in Grade 6 — parallels and perpendiculars through a point, the perpendicular bisector, copying an angle and a segment — after using a compass from Grade 4. Iran is the country that insists on reasons: its Geometry (1) presents constructions with justifications, so each arc is there for a stated cause. Armenia teaches construction as a method, with the stages of a construction problem named as part of the work. Pakistan's Grade 6 practical-geometry unit and Bangladesh's Class 7 experiments give the same constructions as set exercises, and Kuwait's Grade 7 Term 2 Unit 6 carries a long construction unit of its own.
 
@@ -69,3 +90,5 @@ Malaysia teaches construction inside its Form 1 lines-and-angles chapter — the
 Rwanda teaches constructions in Years 5–6: Year 5 bisects angles and builds 90°, 60° and their bisections and supplements with compasses, and Year 6 draws shapes with ruler and protractor before constructing triangles, squares, rectangles and regular polygons up to the decagon with ruler and compasses only.
 
 Sudan draws a circle with ruler and compasses in Grade 4 and divides a segment in Grade 8.
+
+India stocks constructions with ruler and compass from Math-Magic Class 4 and Mathematics Class 6–7, 9–10: drawing circles with a compass; instruments; parallel line; basic constructions.

@@ -1,6 +1,6 @@
 # Sources — Measuring
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India
 
 Every part traces to its book and page.
 
@@ -305,6 +305,12 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 151:** *Mathematics, Grade 3* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, Arabic; no edition or year is printed in the book. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 152:** *Mathematics, Grade 4* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, second edition 2021, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 153:** *Math-Magic — Textbook in Mathematics for Class I* — India, NCERT (National Council of Educational Research and Training), New Delhi, first edition February 2006, 2020-21 issue, ISBN 81-7450-476-1. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Chapter 11 (printed pp. 117–123) and printed p. 133; nothing is cited from them.
+**Book 154:** *Math-Magic Book 2 — Textbook in Mathematics for Class II* — India, NCERT, New Delhi, first edition February 2007, 2020-21 issue (body pages footer-dated 2019-20), ISBN 81-7450-679-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 155:** *Math-Magic Book 3 — Textbook in Mathematics for Class III* — India, NCERT, New Delhi, first edition February 2006, 2020-21 issue, ISBN 81-7450-510-5. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 156:** *Math-Magic Book 4 — Textbook in Mathematics for Class IV* — India, NCERT, New Delhi, first edition March 2007, 2020-21 issue, ISBN 81-7450-698-5. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 157:** *Math-Magic Book 5 — Textbook in Mathematics for Class V* — India, NCERT, New Delhi, first edition March 2008, 2020-21 issue, ISBN 978-81-7450-828-7. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 158:** *Mathematics — Textbook for Class VI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 issue, ISBN 81-7450-482-6. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -469,8 +475,117 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Measuring a segment — measure segment lengths with a ruler in centimetres and millimetres | Sudan, Grade 3 Mathematics, printed p. 109 |
 | Capacity: the litre family — capacity defined; litre, decilitre, centilitre, millilitre; 1 L = 10 dL = 100 cL = 1000 mL; syringe of 5 cc; conversions | Sudan, Grade 4 Mathematics, printed p. 49 |
 | Capacity problems — 1800-litre tank filled into 200-decilitre barrels = 90 barrels (verified on the page); tubes and fuel-tank problems | Sudan, Grade 4 Mathematics, printed p. 51 |
+| Longer and shorter (length) — tick the longer / the shorter object | India, Math-Magic Class 1, printed p. 93 |
+| Longest and shortest (length) — tick the longest / the shortest object | India, Math-Magic Class 1, printed p. 94 |
+| Taller and shorter — tick the taller / the shorter | India, Math-Magic Class 1, printed p. 95 |
+| Tallest and shortest — tick the tallest / the shortest | India, Math-Magic Class 1, printed p. 96 |
+| Thicker and thinner — tick the thicker / the thinner | India, Math-Magic Class 1, printed p. 97 |
+| Thickest and thinnest — tick the thickest / the thinnest | India, Math-Magic Class 1, printed p. 98 |
+| Heavier and lighter (weight) — tick the heavier / the lighter | India, Math-Magic Class 1, printed p. 99 |
+| Heaviest and lightest (weight) — tick the heaviest / the lightest | India, Math-Magic Class 1, printed p. 100 |
+| Measuring with hand spans — trace a hand span; the table is spans long, the book is 3 spans long | India, Math-Magic Class 1, printed p. 101 |
+| Measuring with body units — my table is __ spans long; my pencil __ spans; the blackboard __ pencils long | India, Math-Magic Class 1, printed p. 102 |
+| Measuring in feet — the mat is 6 feet long, the carpet 10 feet long; guess the distance between two trees | India, Math-Magic Class 1, printed p. 103 |
+| Heavier and lighter in a story — How Much Can You Carry (opening, image page): the clever donkey's salt sacks feel lighter after the river; woollen cloth sacks will feel heavier wet | India, Math-Magic Class 2, printed p. 18 |
+| Comparing weight on a see-saw — Raju and the see-saw: Raju is heavier/lighter than Rani; heavier/lighter than Rani and Aslam together | India, Math-Magic Class 2, printed p. 19 |
+| Heavier or lighter — which of two things will make the see-saw go down; match the heavier one; colour the lighter one | India, Math-Magic Class 2, printed p. 20 |
+| Weighing with a balance — Chhotu Monkey and the Carrots: sharing carrots equally needs a balance (pupils guess/draw what the monkey used) | India, Math-Magic Class 2, printed p. 21 |
+| Kilogram weights in shopping — bags labelled 1 kg salt, 1 kg ghee, 2 kg sugar, 2 kg dal, 5 kg rice, 5 kg atta, 2 kg oil; how the seller weighs carrots | India, Math-Magic Class 2, printed p. 22 |
+| Judging what you can carry — How Much Can Simran Carry: guess which bags Simran, her father, mother, younger sister can carry, and two bags together | India, Math-Magic Class 2, printed p. 23 |
+| Making a drink by measure — Jugs and Mugs (opening, image page): lemon drink from half a lemon, a pinch of salt, one spoon of sugar, one glass of water; guess drops from half/full lemon, drops per spoon | India, Math-Magic Class 2, printed p. 47 |
+| Capacity in glasses — lemon drink stall: small glass Rs 5, big glass Rs 10; how many lemons/sugar spoons for 6 glasses | India, Math-Magic Class 2, printed p. 48 |
+| Filling and comparing vessels — two big glasses fill the jug (jug costs Rs 20); two small glasses fill one big glass; how many small glasses fill the jug / half the jug; fill bottles with one cup and compare | India, Math-Magic Class 2, printed p. 49 |
+| Capacity in cups — fill a jug, glass, mug, pot and bowl with a cup; which vessel holds least / most | India, Math-Magic Class 2, printed p. 50 |
+| Which holds more — ring the one which holds more water (pairs of vessels) | India, Math-Magic Class 2, printed p. 51 |
+| Same amount, different pot — Rani and the Milkman: the mug used 3 times fills the pot; a different pot is not filled by the same milk — the amount is the same | India, Math-Magic Class 2, printed p. 52 |
+| Water rising in a vessel — Thirsty Crow: Chirpy puts pebbles in the pitcher one by one and the water comes up | India, Math-Magic Class 2, printed p. 53 |
+| Displacement activity — put tamarind seeds in a half-full glass to raise water to the top; repeat with the same number of marbles, then stones; compare | India, Math-Magic Class 2, printed p. 54 |
+| Water used at home — how much water fills a water gun, a balloon; a camel drinks 9 buckets, two camels 18; mugs per bucket, buckets/mugs for a bath | India, Math-Magic Class 2, printed p. 55 |
+| A weight limit problem — Prabha's boat can take 25 kg: can she carry 15 kg sugarcane + 7 kg apples + 8 kg tomatoes (= 30 kg, no) | India, Math-Magic Class 2, printed p. 77 |
+| The longest step (story opening) — The Longest Step (opening, image page): rabbit, elephant and deer agree to walk, not run, across the stone bridge | India, Math-Magic Class 2, printed p. 104 |
+| Comparing steps and distances — who takes the biggest step; the elephant won — why; measure distances in class with steps and lines | India, Math-Magic Class 2, printed p. 105 |
+| Handspan and fingers — Hand or Fingers: Rajat measures things with his handspan; what is less than a handspan; height of a mud house in fingers | India, Math-Magic Class 2, printed p. 106 |
+| Guessing then measuring — guess then check lengths in fingers, handspans and matchsticks (glass, bucket, hand, table, nose, bottle, hair) | India, Math-Magic Class 2, printed p. 107 |
+| Measuring distances in fingers — Cat's Food: distance rat-to-milk, cat-to-rat, cat-to-milk in fingers; length of the rat's tail; whose whiskers are longer | India, Math-Magic Class 2, printed p. 108 |
+| Body proportions in body units — Is That So: a face about one handspan long, a forehead about four fingers wide; check your own nose and ear in fingers | India, Math-Magic Class 2, printed p. 110 |
+| Non-standard units for length — Long and Short: a farmer buys 7 arms (cubits) of rope; measure your arm and your mother's arm, find the difference | India, Math-Magic Class 3, printed p. 46 |
+| How many fit along — in how many steps will Dorji cross the road; how many cups/pots/shirts fit along a line | India, Math-Magic Class 3, printed p. 47 |
+| The centimetre — How Much is a Centimetre: a matchstick is 4 cm, a die 1 cm on every side, a lizard 13 cm; lengths of a leaf and a wax colour from the printed scale | India, Math-Magic Class 3, printed p. 48 |
+| Using a ruler from 0 — the school scale; little lines on the scale; find things about 10 cm, between 10 and 20 cm, less than 1 cm | India, Math-Magic Class 3, printed p. 49 |
+| Measuring body parts in cm — How Big is My Hand: thumb vs little finger; measure body parts with scale, string and tape | India, Math-Magic Class 3, printed p. 50 |
+| Comparing measurements — biggest/smallest head, longest hand, ear vs nose, a nail more than 1 cm: a two-person measurement table in cm | India, Math-Magic Class 3, printed p. 51 |
+| Shortest path — Gibli and the Grains: which road is shortest; draw a shorter road and give its length | India, Math-Magic Class 3, printed p. 52 |
+| The metre — a metre is equal to 100 centimetres; make a metre-rope with knots 1 metre apart | India, Math-Magic Class 3, printed p. 53 |
+| More or less than a metre — Guess and Check: things that look 1 metre long; table and door length/width against the metre-rope | India, Math-Magic Class 3, printed p. 54 |
+| Heights against a metre — class height chart: Shambhu is 4 cm taller than 1 metre; how many cm more/less than a metre | India, Math-Magic Class 3, printed p. 55 |
+| Choosing cm, m or km — Centimetres or Metres: computer screen, pagdi, a baby's height, a banana, an elephant's waist, sugarcane, a well, classroom-to-gate distance | India, Math-Magic Class 3, printed p. 56 |
+| Kilometres on a map — Trip to Agra map: station to Taj Mahal 5 km, Taj to Fort 2 km, Fort to Fatehpur Sikri 40 km; nearer/farther from the railway line and the river | India, Math-Magic Class 3, printed p. 57 |
+| Matching lengths — match each picture to its length: earthworm, finger nail, sari, home-to-school (1 cm, 10 cm, 1 m, 5 m, 2 km) | India, Math-Magic Class 3, printed p. 58 |
+| Estimating lengths — The Long Tail Competition: guess the length of the longest animal tail, first and second prize | India, Math-Magic Class 3, printed p. 59 |
+| Comparing 1 kg masses — Who is Heavier: 1 kg jaggery and 1 kg groundnuts — the groundnuts only look more; 1 kg popcorn vs 1 kg sugar, 1 kg peas vs 1 kg potatoes | India, Math-Magic Class 3, printed p. 113 |
+| Balancing on a see-saw — Pumpkin 'Panga': 25 little tomatoes cannot lift the pumpkin, 20 big tomatoes can | India, Math-Magic Class 3, printed p. 114 |
+| Estimating weights — how many small tomatoes / big mangoes could balance the pumpkin; classmates who weigh almost the same / more / less; books lifted on one hand | India, Math-Magic Class 3, printed p. 115 |
+| Doubling a weight — Double her Weight: Kunjamma's sweets are double her weight — birth 3 kg → 6 kg, 2 years 13 kg → 26 kg, 5 years 28 kg → 56 kg | India, Math-Magic Class 3, printed p. 116 |
+| Sensible amounts — Yum-yum Rice: Shugoto's recipe amounts are all wrong; match rice, daal, peas, water, onions, salt, mustard seeds, chilli to right amounts (1 kg rice, half kg daal...) | India, Math-Magic Class 3, printed p. 117 |
+| Amounts bought at home — list things bought at home and how much of each is bought at one time | India, Math-Magic Class 3, printed p. 118 |
+| Guessing weights against 1 kg — guess weights of a school bag, geometry box, brick, pumpkin, slippers; check with a balance and a 1 kg weight; things of 400 kg, 10 kg, 80 kg, 2 kg, over 1000 kg matched in a picture | India, Math-Magic Class 3, printed p. 119 |
+| Making a half-kg weight — weigh 1 kg of mud/sand and divide it equally into 2 half-kg bags; things less/more than half kg; heavier of bottle vs ball, shoe vs pencil box | India, Math-Magic Class 3, printed p. 120 |
+| Weights and balances in shops — look for weights and balances at the junk dealer, vegetable shop and grocery shop; biggest and smallest weights used | India, Math-Magic Class 3, printed p. 121 |
+| How much a glass holds — Jugs and Mugs: Bunny's wedding guests each get one glass; small guests cannot finish a glass, big guests gulp many glasses | India, Math-Magic Class 3, printed p. 153 |
+| Estimating daily water — Water In, Water Out: glasses of water drunk in a summer day and a winter day; guess how much water goes out of you | India, Math-Magic Class 3, printed p. 154 |
+| The litre bottle as a measure — Bottles and Buckets: use a 1 litre bottle to test which vessels hold more/less than 1 litre; guess then measure buckets in litres | India, Math-Magic Class 3, printed p. 155 |
+| Matching amounts to containers — Match the Right Pairs: about 12 litres (bucket), less than half a litre (eye-drop bottle), about 5 litres (suraahi), 1000 litres (tank), half a litre (milk measure) | India, Math-Magic Class 3, printed p. 156 |
+| Comparing jugs by filling — Whose Jug Holds More: Naima's and Jeetu's jugs after one glass each; Jeetu's jug is about full with one more glass | India, Math-Magic Class 3, printed p. 157 |
+| Twice and half in capacity — Naseem filled her bottle 16 times, Abdul only 8: her bottle holds half as much; Pot B holds 11 glassfuls, Pot A twice as much = 22 | India, Math-Magic Class 3, printed p. 158 |
+| Comparing volumes by filling — Filling Potholes: hole A takes 9 mugs of pebbles, B 18 mugs, C 12 mugs; if A takes 5 jugs, how many jugs for B | India, Math-Magic Class 3, printed p. 159 |
+| A strip bar chart of hand lengths — How Long is Your Hand: paper strips of hand lengths pasted as a chart; Rohan 8 cm, Geeta 9 cm, Jacob 10 cm; longest/shortest hand | India, Math-Magic Class 3, printed p. 186 |
+| Distances between stations — Train Journey table: New Jalpaiguri to New Mal 57 km, Alipurduar 175 km, Goalpara 366 km, Guwahati 495 km; distances between stations by subtraction | India, Math-Magic Class 3, printed p. 199 |
+| Measuring a brick; estimating height — curved edges on bricks; faces of the longest brick; measure a brick's length, width, height; bricks needed for a 1-metre wall; guess the kiln chimney height (5, 15 or 50 metres) | India, Math-Magic Class 4, printed p. 10 |
+| Guessing and measuring distances — Long and Short: guess the distance between two dots in cm, then measure with a scale; farthest and nearest dot pairs | India, Math-Magic Class 4, printed p. 13 |
+| Making a line shorter without erasing — Akbar and Birbal: draw a longer line beside it; draw her right arm 1 cm longer, a cup 1 cm shorter, a broom half as long, a hair double the length; is there a longest line | India, Math-Magic Class 4, printed p. 14 |
+| Growth in centimetres — how tall have you grown since Class III; friends' height table (last year, this year, grown by); tallest and shortest in the family and their difference | India, Math-Magic Class 4, printed p. 15 |
+| Distances in a race — the 100 m race: Arundhati 6 m from the finish; how far is Rehana, how far ahead, how far Konkana and Uma from the line (choose 3, 6, 10, 15 m) | India, Math-Magic Class 4, printed p. 16 |
+| Metres and kilometres — 1000 metres make 1 kilometre, 500 metres is half a kilometre: a 1500 m race is 1.5 km, a 3000 m race is 3 km | India, Math-Magic Class 4, printed p. 16 |
+| Marathon distances — a marathon is about 40 km; a stadium track is 400 m: 10 rounds = 4 km; rounds needed for a marathon (100) | India, Math-Magic Class 4, printed p. 17 |
+| Reading record tables (cm and m) — Indian and World Records: Chandra Pal to Javier Sotomayor's 2 m 45 (28 cm more); Bobby A. to 2 m (9 cm); Galina's 7 m 52 jump is nearly 7.5 m; difference between longest and highest women's jumps; Mike P. to 9 m (5 cm) | India, Math-Magic Class 4, printed p. 18 |
+| Rounds of a field — Devi Prasad must run 2 km a day: one round of the field (500 m sides in the diagram) is his 2 km; the park boundary is 400 m, so he needs 5 rounds of the park; one good day he ran 8 rounds = 3 km 200 m | India, Math-Magic Class 4, printed p. 19 |
+| Estimating a tall building — the Qutab Minar is 72 m high; guess your classroom's height and how many rooms stacked equal the Minar | India, Math-Magic Class 4, printed p. 19 |
+| Distances from school — how far friends live from school in m or km; nearest, farthest; less than 1 km; more than 5 km | India, Math-Magic Class 4, printed p. 21 |
+| Guessing very long lengths — guess and find out: thread in a reel, string of a kite reel (can it be more than a kilometre), thread in a handkerchief | India, Math-Magic Class 4, printed p. 21 |
+| Comparing heights in the world — I Wish I Were: building, kite, bird, cloud, plane; highest building seen; can a plane fly higher than Everest (about 9 km) | India, Math-Magic Class 4, printed p. 22 |
+| Estimating a river's width — the Narmada bridge is 756.82 m long; guess the river is about 500 m wide; a bus is about 5 m — how many buses along the bridge | India, Math-Magic Class 4, printed p. 26 |
+| Litres at a party — Jugs and Mugs: the elephant drinks 50 litres of kheer; giraffe and cow amounts from the picture | India, Math-Magic Class 4, printed p. 70 |
+| Millilitres and half a litre — the squirrel wants 500 millilitres: 1 litre = 1000 millilitres, so 500 mL is half a litre | India, Math-Magic Class 4, printed p. 70 |
+| Adding millilitres to a litre — 10 glasses of 100 mL each = 1000 mL = 1 litre; 1000 ants drinking 1 mL each = 1000 mL, the same as the ten frogs | India, Math-Magic Class 4, printed p. 71 |
+| Ways to make 1 litre — the donkey's chart: combinations that add to 1 litre (500+500, 250+250+250+250, 200+... mL) | India, Math-Magic Class 4, printed p. 73 |
+| Amounts on packets — Look Around: packets and bottles labelled in mL or L (milk 500 mL...); guess how many small bottles fill a 1-litre bottle | India, Math-Magic Class 4, printed p. 74 |
+| Making a measuring bottle — Ramu's 250 mL coconut-oil bottle marks a litre bottle; Leela's bottle holds 200 mL (5 pourings to a litre); Adithyan's marks | India, Math-Magic Class 4, printed p. 75 |
+| Your own measuring bottle — make a bottle that measures 200, 400, 600, 800 mL and 1 litre; guess and check buckets, mugs and glasses | India, Math-Magic Class 4, printed p. 76 |
+| Very small and very large amounts — eye drops are less than 1 mL at a time; things used in more than a litre at a time (bath water); Neetu's injections: 5 mL each, 3 a day for 5 days (15 mL a day, 75 mL in all) | India, Math-Magic Class 4, printed p. 77 |
+| Capacity word problems — Amina's bottle: 1000-250-150 = 600 mL left; Yusuf's tea: 100 glasses x 20 mL milk = 2000 mL; grandma's 200 mL medicine over 10 days = 20 mL a day | India, Math-Magic Class 4, printed p. 78 |
+| Household water use — a family's day: cooking/drinking, washing, cleaning, bathing 30+40+20+75 litres from the table; your own family's table; a leaking tap measured over one hour, then a day/week/month/year | India, Math-Magic Class 4, printed p. 79 |
+| Total load and a weight limit — How Heavy? How Light: the horse cannot pull more than 700 kg; total the load from the weight table (5 wheat sacks 500, 3 rice sacks 105, tank 50, almirah 70, 3 tables 30, 4 chairs 20, 2 mattresses 40, ladder 10, pots 10 = 835 kg) and choose what to remove | India, Math-Magic Class 4, printed p. 134 |
+| Comparing weights on a home-made balance — make a balance from a stick, two lids and thread; pencil vs geometry box; order three things lightest to heaviest | India, Math-Magic Class 4, printed p. 135 |
+| Making gram weights — Making Weights: balance a soap of known weight against sand packets to make 150, 200, 250, 500, 750 and 1000 g weights; how many grams in 1 kg | India, Math-Magic Class 4, printed p. 136 |
+| Reading balance pictures in grams — Practice: which pan goes down in the pictured balances (weights 75 g to 700 g); is any pan's weight exactly 1 kilogram | India, Math-Magic Class 4, printed p. 137 |
+| A kilogram is a kilogram — 1 kg cotton vs 1 kg iron / 1 kg watermelon: equal weights though different sizes; name five things bought in grams and five in kilograms | India, Math-Magic Class 4, printed p. 138 |
+| Guessing weights on a bill — Dinesan's shopping bill with the weights cut off: guess each item's weight in g or kg (dal, rice 5, sugar 1, mustard seeds, wheat, tea 250, pepper 25...) | India, Math-Magic Class 4, printed p. 139 |
+| Weighing an elephant by displacement (story) — Elephant's Weight: Dr. Vaidika is promised gold equal to an elephant's weight — how can an elephant be weighed | India, Math-Magic Class 4, printed p. 140 |
+| The boat-mark method — Vaidika's daughter marks how much the empty boat sinks, then how much it sinks with the elephant, then fills the boat with stones to the elephant mark and weighs the stones | India, Math-Magic Class 4, printed p. 142 |
+| Weighing with broken weights — Abdu's 13 kg stone broke into 2, 5 and 6 kg pieces; the book shows him weighing 1 kg of firewood with the pieces on opposite pans (6 kg against firewood + 5 kg); how to weigh a chair by holding it on a weighing machine | India, Math-Magic Class 4, printed p. 143 |
+| Combining weights to weigh amounts — show how Abdu weighs 4 kg, 3 kg and 7 kg of firewood with his 2, 5 and 6 kg pieces | India, Math-Magic Class 4, printed p. 144 |
+| Height and weight chart — Am I Fit or Fat: the height/weight chart for ages 6-10 (Temshula, Rabiya 3 feet 10 inches and 17 kg, Sreekunth 10 years 23 kg...); make charts for five friends | India, Math-Magic Class 4, printed p. 147 |
+| Balance puzzles — How Many Oranges: equal oranges and equal papayas on three balances — how many oranges balance the third; Find That Marble: one of 3 marbles is heavier or lighter — find it in only two balancings | India, Math-Magic Class 4, printed p. 148 |
+| A strip chart of head size — Whose Head is Bigger: paper strips torn at head size pasted in a row; longest strip in cm (biggest head), smallest strip | India, Math-Magic Class 4, printed p. 168 |
+| Estimating length — Smallest fish about 1 cm; imagining and comparing lengths of big fish, incl. the whale shark | India, Math-Magic Class 5, printed p. 2 |
+| Mass — Estimating own mass in kg; mass of 12 children together compared with a whale shark | India, Math-Magic Class 5, printed p. 3 |
+| Mass and drying — Trek to Gangotri: 1 kg of onions or tomatoes dries to 100 g; ration weights for 6 days for one person and for 10 people | India, Math-Magic Class 5, printed p. 197 |
+| Mass comparisons — Elephant masses: a 5000 kg elephant in children's weights; a grown elephant eating 136 kg a day — a month, a year | India, Math-Magic Class 5, printed p. 199 |
+| Mass conversions — Coin sacks: how many 5-rupee coins in 18 kg / 54 kg / 4500 g; 2250 g = 2 kg 250 g; a 2-rupee coin weighs 6 g | India, Math-Magic Class 5, printed p. 200 |
+| Unit conversion — Length/mass/capacity unit ladders in word problems (1 km = 10,00,000 mm; kg–g–mg) | India, Mathematics Class 6, printed p. 13 |
+| Measuring length — Measuring a segment with ruler/divider; betweenness and midpoint checks (AB + BC = AC) | India, Mathematics Class 6, printed p. 89 |
 
-**Acceptance count: taught in 30 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan).**.** Sierra Leone carries the cleanest Iran compares longer and shorter and heavier and lighter in Grade 1 — the heavier-marking activity is at printed p. 168 — reads the clock there too, and measures length in centimetres and millimetres in Grade 2.
+**Acceptance count: taught in 31 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India).**.** Sierra Leone carries the cleanest Iran compares longer and shorter and heavier and lighter in Grade 1 — the heavier-marking activity is at printed p. 168 — reads the clock there too, and measures length in centimetres and millimetres in Grade 2.
 single ladder — length, mass and volume distinguished, then the
 three conversion tables in JSS 1. Jordan carries the four
 standard units in one Grade 2 unit (centimetre, metre, gram and
@@ -503,3 +618,5 @@ Saudi Arabia measures the full primary way: non-standard units and direct compar
 Rwanda teaches measuring through the whole primary course: Year 2 works in metres, litres and kilograms, Year 3 climbs the full length, mass and capacity ladders in both the English and Kinyarwanda editions (with its Teacher's Guide adding non-standard units and estimating first), Year 4 adds precision instruments, tonnes and quintals, and Years 5–6 revise the conversions and tie litre, kilogram and cubic decimetre together for water.
 
 Sudan measures by comparison only in Grade 1 (longer/shorter, heavier/lighter — no standard units), measures length and weight in Grade 2, sets metric beside imperial units in Grade 3, and teaches the litre family and capacity problems in Grade 4.
+
+India carries measuring through its NCERT ladder — Math-Magic Class 1–5 and Mathematics Class 6 — including longer and shorter (length); heavier and lighter in a story; non-standard units for length; measuring a brick; estimating height.

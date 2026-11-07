@@ -1,6 +1,6 @@
 # Sources — Circle theorems
 
-countries: Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan
+countries: Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India
 
 Every part traces to its book and page.
 
@@ -75,6 +75,8 @@ maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 **Book 37:** *Mathematics Form 3* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-983-00-9651-3) and BM original *Matematik Tingkatan 3* (Pustaka Yakin Pelajar Sdn. Bhd., 2018, ISBN 978-967-490-042-7). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 38:** *Mathematics, Grade 9 (Third Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2024, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 39:** *Mathematics — Textbook for Class IX* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-489-3. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendix 1 (Proofs in Mathematics), Appendix 2 (Introduction to Mathematical Modelling) and Answers/Hints; nothing is cited from them.
+**Book 40:** *Mathematics — Textbook for Class X* — India, NCERT, New Delhi, first edition December 2006, 2020-21 printing, ISBN 81-7450-634-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -158,8 +160,19 @@ maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 | Tangent–radius theorems — Theorem 11: a line perpendicular to a radius at its outer endpoint is a tangent; Theorem 12: a tangent is perpendicular to the radius at the point of contact (4-10/4-11) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 154 |
 | Two tangents from a point — Theorem 13: the two tangents from an external point are equal, and the centre-line bisects the angle between them and the chord of contact (4-12) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 159 |
 | Alternate segment theorem — Theorem 14: the angle between a tangent and a chord equals the angle in the alternate segment, with proof (4-13) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 163 |
+| Equal chords — Theorems 10.1–10.2 proved: equal chords subtend equal angles at the centre, and converse | India, Mathematics Class 9, printed p. 171 |
+| Perpendicular to a chord — Theorems 10.3–10.4 proved: perpendicular from centre to a chord bisects it, and converse | India, Mathematics Class 9, printed p. 173 |
+| Circle through three points — Theorem 10.5 proved: exactly one circle through three non-collinear points; circumcircle and circumcentre named; completing a circle from an arc | India, Mathematics Class 9, printed p. 174 |
+| Chords and distance — Theorems 10.6–10.7 proved: equal chords are equidistant from the centre, and converse | India, Mathematics Class 9, printed p. 176 |
+| Angle at the centre — Theorem 10.8 proved (in cases): angle subtended by an arc at the centre is double the angle at any point on the remaining part of the circle | India, Mathematics Class 9, printed p. 179 |
+| Same segment — Theorem 10.9 proved: angles in the same segment are equal; angle in a semicircle is a right angle (corollary) | India, Mathematics Class 9, printed p. 180 |
+| Concyclic points — Theorem 10.10 proved: if a segment subtends equal angles at two points on the same side, the four points are concyclic | India, Mathematics Class 9, printed p. 181 |
+| Cyclic quadrilaterals — cyclic quadrilateral defined; Theorem 10.11 proved: opposite angles of a cyclic quadrilateral are supplementary; Theorem 10.12 (converse) proved | India, Mathematics Class 9, printed p. 182 |
+| Tangent perpendicular to radius — Theorem 10.1 proved: the tangent at any point of a circle is perpendicular to the radius through the point of contact; point of contact defined | India, Mathematics Class 10, printed p. 207 |
+| Equal tangents — Theorem 10.2 proved: lengths of the two tangents from an external point are equal | India, Mathematics Class 10, printed p. 211 |
+| Tangent applications — chord of the larger of two concentric circles touches the smaller (proved example); tangents TP, TQ with centre angle; chord-and-tangent length problem | India, Mathematics Class 10, printed p. 212 |
 
-**Acceptance count: taught in 23 countries (Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan).** Kazakhstan carries the Iran states the inscribed-angle and tangent–radius facts in Grade 8 and develops the circle theorems by guided proof — power of a point and cyclic quadrilaterals included — in Grade 11 Geometry (2).
+**Acceptance count: taught in 24 countries (Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India).** Kazakhstan carries the Iran states the inscribed-angle and tangent–radius facts in Grade 8 and develops the circle theorems by guided proof — power of a point and cyclic quadrilaterals included — in Grade 11 Geometry (2).
 fullest treatment — the inscribed-angle theorem with all
 cases, the tangent–chord angle, the inside/outside angle
 theorems, the three segment products, cyclic and circumscribed
@@ -189,3 +202,5 @@ Syria's circle theorems are all in Grade 9 Geometry: inscribed and central angle
 Malaysia gives circle theorems a full Form 3 chapter — every standard theorem met by measuring or dynamic-software activity before it is used, and common tangents counted for every relative position of two circles.
 
 Sudan's Grade 9 circle unit is the deepest elementary treatment in the set: fourteen theorems, every one formally proved, running from equal chords and arcs through the central angle theorem, the angle in a semicircle, angles in the same segment and intersecting chords to the cyclic quadrilateral and the alternate segment theorem.
+
+India stocks circle theorems from Mathematics Class 9–10: equal chords; tangent perpendicular to radius.

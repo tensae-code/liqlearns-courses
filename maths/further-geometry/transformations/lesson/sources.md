@@ -1,6 +1,6 @@
 # Sources — Transformations
 
-countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia
+countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India
 
 Every part traces to its book and page.
 
@@ -150,6 +150,8 @@ textbook.
 
 **Book 73:** *Mathematics Form 2* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Rimbunan Ilmu Sdn. Bhd., 2017, ISBN 978-967-2031-06-2) and BM original *Matematik Tingkatan 2* (Rimbunan Ilmu Sdn. Bhd., 2017, ISBN 978-967-2031-05-5). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 74:** *Mathematics Form 5* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2020, ISBN 978-967-2930-12-9) and BM original *Matematik Tingkatan 5* (Penerbitan Pelangi Sdn. Bhd., 2020, ISBN 978-967-2907-93-0). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 75:** *Math-Magic Book 5 — Textbook in Mathematics for Class V* — India, NCERT, New Delhi, first edition March 2008, 2020-21 issue, ISBN 978-81-7450-828-7. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 76:** *Mathematics — Textbook for Class VII* — India, NCERT, New Delhi, first edition February 2007, 2020-21 issue, ISBN 81-7450-669-1. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Brain-Teasers; nothing is cited from them.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -238,8 +240,12 @@ textbook.
 | Enlargement described by its centre and scale factor; finding the centre and the scale factor from object and image | Malaysia, Mathematics Form 5, Ch. 5 §5.2, printed pp. 134–143 |
 | Combined transformations: the image under two successive transformations, with the notation QP for 'Q after P'; combined transformations are in general NOT commutative | Malaysia, Mathematics Form 5, Ch. 5 §5.3, printed pp. 149–155 |
 | Describing a combined transformation by a single equivalent transformation, and problem solving | Malaysia, Mathematics Form 5, Ch. 5 §5.3, printed pp. 156–159 |
+| Half turn — Looks the same after half a turn (the locker handle problem); letters, words (SWIMS, NOON) and digits that survive a half turn | India, Math-Magic Class 5, printed p. 77 |
+| Quarter turn — Making a windmill; does it look the same on 1/4 of a turn?; shapes the same after 1/4 turn vs after half a turn | India, Math-Magic Class 5, printed p. 81 |
+| Third and sixth turns — Fans and shapes that look the same on 1/3 of a turn and on 1/6 of a turn | India, Math-Magic Class 5, printed p. 84 |
+| Rotational symmetry: centre and angle of rotation; order of rotational symmetry (square order 4); every figure has order at least 1 (360°) | India, Mathematics Class 7, printed p. 271 |
 
-**Acceptance count: taught in 25 countries (Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia).**.** Egypt carries the Iran rotates shapes in Grade 6, translates, reflects and rotates them with tracing paper in Grade 7, and gives transformations whole — homothety included — in Grade 11 Geometry (2).
+**Acceptance count: taught in 26 countries (Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India).**.** Egypt carries the Iran rotates shapes in Grade 6, translates, reflects and rotates them with tracing paper in Grade 7, and gives transformations whole — homothety included — in Grade 11 Geometry (2).
 fullest single treatment — all four moves defined with
 coordinate rules plus composition in Grade 7 Term 2. Jordan
 carries translation and reflection in Grade 6, rotation in
@@ -261,3 +267,5 @@ Pakistan (Punjab) carries transformations from Class 6's grid rotations and Clas
 Syria names reflection, rotation and translation in Grade 5, describes translations on grids and rotations about points in Grade 6, defines the translation image through a parallelogram in Grade 8 Geometry — with the warning that an answer may not be read off the figure — and closes in Grade 12, where translation, homothety and rotation are recognised from their complex forms.
 
 Malaysia teaches transformations twice: the three isometries in Form 2, each described in its own terms, and enlargement with combined transformations in Form 5, where the order of a combination is shown to matter.
+
+India enters transformations from Math-Magic Class 5 and Mathematics Class 7: half turn; rotational symmetry: centre and angle of rotation; order of rotational symmetry (square order 4); every figure has order at least 1 (360°).

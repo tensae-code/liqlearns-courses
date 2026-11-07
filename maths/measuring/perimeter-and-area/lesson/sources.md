@@ -1,6 +1,6 @@
 # Sources — Perimeter and Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India
 
 Every part traces to its book and page.
 
@@ -313,6 +313,13 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 141:** *Mathematics, Grade 6* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2020, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 142:** *Mathematics, Grade 9 (Third Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2024, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 143:** *Math-Magic Book 4 — Textbook in Mathematics for Class IV* — India, NCERT, New Delhi, first edition March 2007, 2020-21 issue, ISBN 81-7450-698-5. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 144:** *Math-Magic Book 5 — Textbook in Mathematics for Class V* — India, NCERT, New Delhi, first edition March 2008, 2020-21 issue, ISBN 978-81-7450-828-7. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 145:** *Mathematics — Textbook for Class VI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 issue, ISBN 81-7450-482-6. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 146:** *Mathematics — Textbook for Class VII* — India, NCERT, New Delhi, first edition February 2007, 2020-21 issue, ISBN 81-7450-669-1. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Brain-Teasers; nothing is cited from them.
+**Book 147:** *Mathematics — Textbook for Class VIII* — India, NCERT, New Delhi, first edition January 2008, 2020-21 printing, ISBN 978-81-7450-814-0. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Just for Fun sections; nothing is cited from them.
+**Book 148:** *Mathematics — Textbook for Class IX* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-489-3. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendix 1 (Proofs in Mathematics), Appendix 2 (Introduction to Mathematical Modelling) and Answers/Hints; nothing is cited from them.
+**Book 149:** *Mathematics — Textbook for Class X* — India, NCERT, New Delhi, first edition December 2006, 2020-21 printing, ISBN 81-7450-634-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -474,8 +481,53 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Rhombus area — Rhombus المعين: properties, diagonals perpendicular and bisecting; area as base × height, and from the diagonals ½ × d₁ × d₂ derived by reassembling its four triangles into a rectangle; inverse problems | Sudan, Grade 6 Mathematics, printed p. 144 |
 | Trapezium area — Trapezium شبه المنحرف defined (only two parallel sides); bases, legs, height; consecutive angles on a leg supplementary; midline = half the sum of the bases; area derived via the midline cut → ½ × (sum of bases) × height | Sudan, Grade 6 Mathematics, printed p. 148 |
 | Arc length — Arc length = (central angle / 360) × circumference (4-2) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 128 |
+| Perimeter as boundary length — Fields and Fences: Rahmat's field sides 15+21+9+9 = 54 metres of boundary; his 70 m roll leaves 70-54 = 16 m for Ganpat | India, Math-Magic Class 4, printed p. 149 |
+| Perimeter of an irregular field — Ganpat's field boundary (18, 9, 15, 15, 9 m sides in the picture) and how much more wire he needs beyond Rahmat's 16 m | India, Math-Magic Class 4, printed p. 150 |
+| Perimeters of pictured fields — Practice: boundaries of four pictured fields; which has the longest boundary | India, Math-Magic Class 4, printed p. 151 |
+| Perimeter in use — Chandu's father walks 4 rounds of the field every morning (4 x boundary, in m and km); lace around a 1 m 50 cm by 50 cm table cloth: one cloth, three cloths, lace left from 100 m | India, Math-Magic Class 4, printed p. 152 |
+| Boundary vs squares covered — Activity: thread round shapes for boundary length, count squares inside for cover; a 20 cm thread makes different shapes with the same boundary but different squares | India, Math-Magic Class 4, printed p. 153 |
+| Shapes from joined squares — shapes made by joining two squares (and three): draw them and find each boundary length | India, Math-Magic Class 4, printed p. 154 |
+| Cutting corners off a square — a square's boundary is 12 cm: cut a 1 cm corner square off — is the new boundary less or more (the same, 12 cm); square D and shape E after 8 squares are cut out | India, Math-Magic Class 4, printed p. 155 |
+| Perimeter of a sports field — a hockey field 91 m 40 cm long and 55 m wide: boundary = 2 x (91.40+55) m; Usha on the inner circle vs Valsamma on the outer circle — why the faster runner can lose | India, Math-Magic Class 4, printed p. 156 |
+| Comparing areas by counting — the school garden: both classes think Garden 1 is bigger; Neetu says both gardens are equally big — check by counting squares | India, Math-Magic Class 4, printed p. 157 |
+| Area by covering with books — Activity: how many Math-Magic books cover your table without gaps or overlaps; guess first, then check; compare two tables in books; cover a book with newspaper sheets | India, Math-Magic Class 4, printed p. 158 |
+| Area of leaves on squared paper — trace leaves on the squared sheet and count squares: biggest and smallest leaf | India, Math-Magic Class 4, printed p. 159 |
+| Counting centimetre squares — how many 1 cm squares in the big green square — a faster way than counting each (rows x columns); guess squares that fill the blue rectangle; divide a picture into 4 equal pieces with the same number of squares | India, Math-Magic Class 4, printed p. 160 |
+| Same area, different perimeter — All rectangles made from 12 squares have the same area but different perimeters; longest/shortest perimeter | India, Math-Magic Class 5, printed p. 34 |
+| Area in square cm — Area of stamps by counting 1-cm squares; stamp D area = 12 square cm | India, Math-Magic Class 5, printed p. 35 |
+| Triangle area — A triangle is half of its rectangle: area of triangles on squared paper found from the rectangle | India, Math-Magic Class 5, printed p. 40 |
+| Dividing areas — Dividing a 20-square-cm rectangle into two equal triangles, two equal rectangles, and one rectangle plus two triangles, with each part's area | India, Math-Magic Class 5, printed p. 44 |
+| Rectangle area — Area of a rectangle by arranging squares, then by multiplying length × breadth; whose mango-slice piece is bigger | India, Math-Magic Class 5, printed p. 146 |
+| Perimeter and area problems — Tiling a kitchen floor; a square carrom board of perimeter 320 cm — find its area; card table (length, width, perimeter, area — find the missing one) | India, Math-Magic Class 5, printed p. 148 |
+| Belt problem — A belt made from postcard strips: its length/perimeter is not fixed by its area; how to get a longer belt from the same postcard | India, Math-Magic Class 5, printed p. 150 |
+| Big area units — One square metre (how many children fit in it); one square kilometre and people per square km | India, Math-Magic Class 5, printed p. 151 |
+| Equal areas, different fencing — Dividing land into three equal-area pieces each with a tree; the pieces need different lengths of fencing wire | India, Math-Magic Class 5, printed p. 152 |
+| Doubling a square — Square B with double the side of square A (9 sq cm): perimeter doubles, area becomes four times (36 sq cm) | India, Math-Magic Class 5, printed p. 154 |
+| Fixed perimeter — Thread play: shapes made from a 15 cm thread all have the same perimeter but different areas; which shape has the biggest/smallest area | India, Math-Magic Class 5, printed p. 155 |
+| Fixed area — The king's story: rectangles of area 800 sq m can have ever-longer boundaries (40 × 20, 80 × 10, 800 × 1, 8000 × 0.1) | India, Math-Magic Class 5, printed p. 157 |
+| Perimeter as the distance around a closed figure; perimeter by adding all sides | India, Mathematics Class 6, printed p. 205 |
+| Perimeter formulas — Perimeter of a rectangle = 2 × (length + breadth); square = 4 × side; equilateral triangle = 3 × side; regular polygon = sides × side | India, Mathematics Class 6, printed p. 208 |
+| Area estimating — Area by counting squares on squared paper, with the half-square convention (less than half ignored, more than half counted as 1) | India, Mathematics Class 6, printed p. 214 |
+| Area formulas — Area of a rectangle = length × breadth; area of a square = side × side; splitting shapes into rectangles | India, Mathematics Class 6, printed p. 217 |
+| Review — Perimeter and area of squares and rectangles recalled (perimeter of a rectangle = 2(l + b), area = l × b), incl. perimeter change when a square is cut off a sheet | India, Mathematics Class 7, printed p. 205 |
+| Triangle area — A triangle cut along a rectangle's diagonal has half the rectangle's area; area of a triangle = ½ × base × height | India, Mathematics Class 7, printed p. 209 |
+| Parallelogram area — Area of a parallelogram = base × corresponding height, by cutting and rearranging into a rectangle; same-perimeter parallelograms can have different areas | India, Mathematics Class 7, printed p. 210 |
+| Area units — Converting area units (cm² ↔ m² ↔ hectares) and path/cross-road area applications | India, Mathematics Class 7, printed p. 225 |
+| Area recalled — perimeters/areas of rectangle, square, parallelogram, triangle and circle recalled | India, Mathematics Class 8, printed p. 169 |
+| Trapezium — area of a trapezium = ½ × (sum of parallel sides) × distance between them, derived by splitting/doubling | India, Mathematics Class 8, printed p. 171 |
+| General quadrilateral — area of a general quadrilateral by triangulation using a diagonal and two perpendiculars | India, Mathematics Class 8, printed p. 173 |
+| Special quadrilaterals — area of a rhombus = ½ × product of diagonals | India, Mathematics Class 8, printed p. 174 |
+| Polygons — area of a polygon by dividing into triangles, trapeziums and rectangles | India, Mathematics Class 8, printed p. 175 |
+| Parallelogram and triangle area — area of parallelogram = base × altitude; triangle on same base/parallels is half the parallelogram (proved as example/corollary) | India, Mathematics Class 9, printed p. 158 |
+| Heron's formula stated (NOT proved): area = √[s(s−a)(s−b)(s−c)], s = (a+b+c)/2; checked against ½ × base × height on a right triangle | India, Mathematics Class 9, printed p. 199 |
+| Heron's formula applied — areas of triangles from three sides (worked park/plot examples, incl. ratio-of-sides problems) | India, Mathematics Class 9, printed p. 200 |
+| Heron for quadrilaterals — area of a quadrilateral by splitting on a diagonal and applying Heron twice; rhombus field split by a diagonal | India, Mathematics Class 9, printed p. 203 |
+| Circle measures recalled — circumference 2πr and area πr² recalled; π = circumference/diameter | India, Mathematics Class 10, printed p. 224 |
+| Sectors — sector (minor/major) and segment defined; arc length = (θ/360) × 2πr; area of a sector = (θ/360) × πr² | India, Mathematics Class 10, printed p. 226 |
+| Segments — area of a segment = area of sector − area of the corresponding triangle (worked: segment AYB) | India, Mathematics Class 10, printed p. 228 |
+| Combined figures — areas of combinations of plane figures (flower beds, shaded designs, racetrack-type regions) | India, Mathematics Class 10, printed p. 231 |
 
-**Acceptance count: taught in 30 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan).** Sierra Leone carries the cleanest Iran counts squares for area in Grade 3, derives the parallelogram and triangle areas in Grade 4, adds the rhombus and trapezium in Grade 5, and reaches polygon areas in Grade 10 Geometry (1) and Heron's formula in Grade 11 Geometry (2).
+**Acceptance count: taught in 31 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India).** Sierra Leone carries the cleanest Iran counts squares for area in Grade 3, derives the parallelogram and triangle areas in Grade 4, adds the rhombus and trapezium in Grade 5, and reaches polygon areas in Grade 10 Geometry (1) and Heron's formula in Grade 11 Geometry (2).
 ladder — perimeter short cuts, rectangle and triangle areas with
 the perpendicular-height rule, and the parallelogram, trapezium
 and composite areas in JSS 2. Jordan carries perimeter and area
@@ -510,3 +562,5 @@ Malaysia derives its plane area formulae in Form 1 by cutting and rearranging �
 Rwanda teaches perimeter and area from Year 2's side-by-side measuring and first formulas, through Year 3's formulas worked both ways, Year 4's fencing problems, land units and derived areas for triangle, parallelogram, rhombus and trapezium, to Year 6's regular-polygon perimeter and area.
 
 Sudan teaches perimeter in Grade 5 (triangle, square, rectangle, including recovering a side from the perimeter) and area in Grade 6 (rectangle, square, parallelogram, triangle, rhombus, trapezium), returning for arc length in Grade 9.
+
+India carries perimeter and area through its NCERT ladder — Math-Magic Class 4–5 and Mathematics Class 6–10 — including perimeter as boundary length; same area, different perimeter; perimeter as the distance around a closed figure; perimeter by adding all sides; review.

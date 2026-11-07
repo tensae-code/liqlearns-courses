@@ -1,6 +1,6 @@
 # Sources — Projections and Views
 
-countries: Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia, Malaysia
+countries: Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia, Malaysia, India
 
 Every part traces to its book and page.
 
@@ -17,6 +17,12 @@ Every part traces to its book and page.
 **Book 10:** *Mathematics, Grade 4, Part Two of the course* — Saudi Arabia, Ministry of Education / National Center for Curricula, edition 1447H–2025, ISBN 978-603-514-148-2, Arabic. Filed in maths/books/saudi-arabia.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 11:** *Mathematics Form 3* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-983-00-9651-3) and BM original *Matematik Tingkatan 3* (Pustaka Yakin Pelajar Sdn. Bhd., 2018, ISBN 978-967-490-042-7). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 12:** *Math-Magic Book 2 — Textbook in Mathematics for Class II* — India, NCERT, New Delhi, first edition February 2007, 2020-21 issue (body pages footer-dated 2019-20), ISBN 81-7450-679-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 13:** *Math-Magic Book 3 — Textbook in Mathematics for Class III* — India, NCERT, New Delhi, first edition February 2006, 2020-21 issue, ISBN 81-7450-510-5. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 14:** *Math-Magic Book 4 — Textbook in Mathematics for Class IV* — India, NCERT, New Delhi, first edition March 2007, 2020-21 issue, ISBN 81-7450-698-5. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 15:** *Math-Magic Book 5 — Textbook in Mathematics for Class V* — India, NCERT, New Delhi, first edition March 2008, 2020-21 issue, ISBN 978-81-7450-828-7. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 16:** *Mathematics — Textbook for Class VII* — India, NCERT, New Delhi, first edition February 2007, 2020-21 issue, ISBN 81-7450-669-1. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Brain-Teasers; nothing is cited from them.
+**Book 17:** *Mathematics — Textbook for Class VIII* — India, NCERT, New Delhi, first edition January 2008, 2020-21 printing, ISBN 978-81-7450-814-0. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Just for Fun sections; nothing is cited from them.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -38,9 +44,28 @@ Every part traces to its book and page.
 | Comparing object and projection: which side lengths and which angles survive depends on the viewing direction | Malaysia, Mathematics Form 3, Ch. 7 §7.1, printed pp. 179–181 |
 | Plan = the top view on a horizontal plane; elevations = front and side views on vertical planes, all drawn to full scale; the four-quadrant layout with 45° projection lines; solid lines for visible edges, dashed for hidden, thin for construction | Malaysia, Mathematics Form 3, Ch. 7 §7.2, printed pp. 182–186 |
 | Synthesising the 3-D object from given plan and elevations; problem solving — recovering lengths, and volumes, from views | Malaysia, Mathematics Form 3, Ch. 7 §7.2, printed pp. 187–194 |
+| Drawing what you see — Read and Draw: Tamanna and her mother on opposite sides of a table — draw the missing things as each sees them | India, Math-Magic Class 2, printed p. 41 |
+| Looking from different sides — Where to Look From: how a table/car looks from the side and from the top; two drawings of the same car from different viewpoints | India, Math-Magic Class 3, printed p. 1 |
+| Top view — find where the teacher is in a classroom plan; draw top views of things for friends to guess; match pictures to viewpoints | India, Math-Magic Class 3, printed p. 2 |
+| Views from above and below — The Way The World Looks: Gappu sees the fan blades from above; draw how the fan looks from below; things on two tables seen from above | India, Math-Magic Class 4, printed p. 52 |
+| How distance changes appearance — from the balloon the house, park, gurudwara, railway line and water tank look small; a fat cat looks like a big white mouse from above | India, Math-Magic Class 4, printed p. 53 |
+| Top view of a classroom — imagine your classroom from above and draw it, marking benches, blackboard, doors, windows; the railway track from above vs from the track | India, Math-Magic Class 4, printed p. 54 |
+| Perspective: near and far ends — why things look wide and big at this end but narrow and small at the other; match the top view of a yoga pose to its photo | India, Math-Magic Class 4, printed p. 55 |
+| Matching side and top views — two views of the same bowls (which photo has them upside down); match side view with top view of a pipe and a funnel; draw a shoe from side, top and front | India, Math-Magic Class 4, printed p. 56 |
+| Floor map vs deep drawing — A floor map cannot show height; a 'deep' drawing shows length, width and height | India, Math-Magic Class 5, printed p. 129 |
+| Oblique drawing — A simple way to draw a cube deeply: draw the front and back squares and join their corners; judging which deep drawings of a cube are correct | India, Math-Magic Class 5, printed p. 131 |
+| Views — A matchbox bridge seen from the top, front and side; drawing all three views of a model | India, Math-Magic Class 5, printed p. 132 |
+| Sketches — Oblique sketches (edges not proportional) vs isometric sketches on dot paper (measurements agree) of cubes and cuboids | India, Mathematics Class 7, printed p. 283 |
+| Visualising joined cubes: dimensions of the cuboid made by placing cubes side by side | India, Mathematics Class 7, printed p. 287 |
+| Cross-sections by vertical/horizontal cuts through solids (clay models) | India, Mathematics Class 7, printed p. 288 |
+| Shadows — 2-D shadows of 3-D objects under a bulb / the Sun | India, Mathematics Class 7, printed p. 289 |
+| Views — Front, side and top views of a solid; matching a solid to its three views | India, Mathematics Class 7, printed p. 290 |
+| Views of solids — front, side and top views of 3D objects (hut, glass, brick, cube assemblies); matching and drawing views | India, Mathematics Class 8, printed p. 154 |
 
-**Acceptance count: taught in 8 countries (Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia, Malaysia).** Vietnam carries the engineering heart of the lesson: orthogonal and axonometric projections and technical drawing as named topics in its Grade 11 study book. Laos carries the intuitive opening — projections and shadows, with a birdhouse photographed from different viewpoints. North Macedonia carries parallel and orthogonal projection and representing a solid by drawing at Grade 8. China carries the history as a reading: descriptive geometry and Monge, from da Vinci and Desargues to orthographic projection on two perpendicular planes (reading as filed). Jordan carries isometric drawing, projections/views and cross-sections at Grade 8, with nets at Grade 4 as teacher evidence. South Africa carries views drawn on isometric paper and perspective drawing, the perspective filed as enrichment in its workbooks.
+**Acceptance count: taught in 9 countries (Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia, Malaysia, India).** Vietnam carries the engineering heart of the lesson: orthogonal and axonometric projections and technical drawing as named topics in its Grade 11 study book. Laos carries the intuitive opening — projections and shadows, with a birdhouse photographed from different viewpoints. North Macedonia carries parallel and orthogonal projection and representing a solid by drawing at Grade 8. China carries the history as a reading: descriptive geometry and Monge, from da Vinci and Desargues to orthographic projection on two perpendicular planes (reading as filed). Jordan carries isometric drawing, projections/views and cross-sections at Grade 8, with nets at Grade 4 as teacher evidence. South Africa carries views drawn on isometric paper and perspective drawing, the perspective filed as enrichment in its workbooks.
 
 Saudi Arabia joins this lesson from its Grade 4 geometry chapter: nets matched to the solids they fold into, and front, side and top views of cube-built solids.
 
 Malaysia teaches plans and elevations as a full Form 3 chapter — orthogonal projection defined first, then the plan-and-elevations layout with its line conventions, then the solid rebuilt from its views.
+
+India stocks projections and views from Math-Magic Class 2–5 and Mathematics Class 7–8: drawing what you see; looking from different sides; views from above and below; floor map vs deep drawing.
