@@ -310,11 +310,11 @@ mathematics, money and time, further statistics, mechanics,
 first steps). The topics once listed here as untaught — 3-D
 trigonometry, formal proof writing, continuous
 distributions — all have lessons now (Levels 75, 100–101,
-118). One topic remains untaught from verified sources:
-volumes of revolution — the only rows for it in the filings
-are marked unverified-by-check, and unverified stock is
-cited nowhere; the lesson opens the day a verified book
-teaches it. Syria's maths read landed during the catch-up
+118). Volumes of revolution — long the one topic with only
+unverified-by-check rows in the filings — is now taught from
+a verified source: Malaysia's Form 5 Additional Mathematics
+(§3.3, pp. 105–108, citation-checked in the Malaysia read)
+stocks it in the integrals lesson. Syria's maths read landed during the catch-up
 build and was merged into the existing lessons; a topic
 Syria alone teaches will get its own catch-up sweep and
 lesson the same way. As more countries are read, their
