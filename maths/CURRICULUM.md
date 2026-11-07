@@ -227,6 +227,19 @@ say exactly what follows from what, and prove general claims.*
 - pigeonhole-principle ✅ — the pigeonhole principle (Level 103, catch-up build)
 - problem-solving-strategies ✅ — named strategies for hard problems (Level 104, catch-up build)
 
+## Stage 14 — Counting and Discrete Mathematics
+*End of stage: the learner can count systematically, work in
+other number systems of reasoning, and handle networks and
+structures.*
+- counting-principles ✅ — the counting principle, permutations and combinations (Level 105, catch-up build 2026-11-06)
+- the-binomial-theorem ✅ — the binomial theorem and Pascal's triangle (Level 106, catch-up build)
+- inclusion-exclusion-and-venn-counting ✅ — counting with Venn diagrams: inclusion–exclusion (Level 107, catch-up build)
+- graph-theory ✅ — graphs, Euler and Hamilton paths, shortest routes (Level 108, catch-up build)
+- congruences-and-diophantine-equations ✅ — congruences, Euclid's algorithm and Diophantine equations (Level 109, catch-up build)
+- latin-squares ✅ — Latin squares (Level 110, catch-up build)
+- algebraic-structures ✅ — binary operations, groups, rings and fields (Level 111, catch-up build)
+- mathematical-investigations ✅ — the balance search, the phone tree and the painted cube (Level 112, catch-up build)
+
 **LADDER TOTAL: 52 lessons across 12 stages — ALL BUILT 2026-11-05** (5 + 2 + 3 + 6 +
 4 + 5 + 4 + 4 + 5 + 3 + 4 + 7).
 
