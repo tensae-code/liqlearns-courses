@@ -1,6 +1,6 @@
 # Sources — Quartiles, Percentiles and Box Plots
 
-countries: Kuwait, Cambodia, Ethiopia, Jordan, Kazakhstan, Nepal, Iraq, South Sudan, Sierra Leone, Syria, Malaysia, Sudan, Mongolia
+countries: Kuwait, Cambodia, Ethiopia, Jordan, Kazakhstan, Nepal, Iraq, South Sudan, Sierra Leone, Syria, Malaysia, Sudan, Mongolia, Afghanistan
 
 Every part traces to its book and page.
 
@@ -28,6 +28,7 @@ Every part traces to its book and page.
 **Book 18:** *Specialized Mathematics, Book One, Grade 12 (science track)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, revised issue, Arabic, ISBN 978-99942-53-18-0. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 19:** *Математик X (Mathematics, Grade 10)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 20:** *Математик XI (Mathematics, Grade 11)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 21:** *ریاضی صنف دهم (Mathematics, Grade 10)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -62,7 +63,10 @@ Every part traces to its book and page.
 | Modal class — Modal class (class of greatest frequency density) read from a histogram | Mongolia, Математик XI (Grade 11), printed p. 180 |
 | Quartiles from cumulative graph — Median and quartiles estimated from a cumulative frequency graph, for raw and for grouped data | Mongolia, Математик XI (Grade 11), printed p. 184 |
 | Box plots — Box (box-and-whisker) diagrams from min, Q1, median, Q3, max; comparing two data sets by box plots | Mongolia, Математик XI (Grade 11), printed p. 190 |
-**Acceptance count: taught in 13 countries (Kuwait, Cambodia, Ethiopia, Jordan, Kazakhstan, Nepal, Iraq, South Sudan, Sierra Leone, Syria, Malaysia, Sudan, Mongolia).** Kuwait carries the lesson's spine across three books: the box-and-whisker plot as a Grade 9 lesson, quartiles and the five-number summary with two-plot comparison in Grade 10, and the grouped-interpolation formulas with the semi-interquartile range in Grade 11 Statistics. Cambodia carries deciles and percentiles in its Grade 11 Basic student book, with the grouped exercises' answers resting on its teacher guide — teacher evidence, worded as such. Ethiopia carries grouped deciles, quartiles and percentiles only as teacher evidence from its Grade 11 guide, three of whose values this lesson teaches corrected — D3 = 20.15, Q1 = 34, and the cumulative frequency 92 — never at their printed values. Jordan carries quartiles, the IQR, outliers and the box plot in Grade 8, examined in its final test. Kazakhstan carries the box plot and the ogive in the deepest Grade 8 statistics chapter in its band. Nepal carries quartiles and percentiles for individual and discrete data in Grade 9 Optional and box plots for discrete and continuous data across its two Optional books, with ogives in its school statistics units as filed. Iraq carries the cumulative frequency table and the ogive curve step by step in Grade 10 Literary. South Sudan carries the ogive with medians, quartiles and percentiles read from it in S2. Sierra Leone carries the cumulative frequency curve in SSS3, estimating quartiles and the interquartile range from it.
+
+| Quartiles Q1, Q2, Q3 | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 367–368 |
+| Box (box-and-whisker) plot | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 369–370 |
+**Acceptance count: taught in 14 countries (Kuwait, Cambodia, Ethiopia, Jordan, Kazakhstan, Nepal, Iraq, South Sudan, Sierra Leone, Syria, Malaysia, Sudan, Mongolia, Afghanistan).** Kuwait carries the lesson's spine across three books: the box-and-whisker plot as a Grade 9 lesson, quartiles and the five-number summary with two-plot comparison in Grade 10, and the grouped-interpolation formulas with the semi-interquartile range in Grade 11 Statistics. Cambodia carries deciles and percentiles in its Grade 11 Basic student book, with the grouped exercises' answers resting on its teacher guide — teacher evidence, worded as such. Ethiopia carries grouped deciles, quartiles and percentiles only as teacher evidence from its Grade 11 guide, three of whose values this lesson teaches corrected — D3 = 20.15, Q1 = 34, and the cumulative frequency 92 — never at their printed values. Jordan carries quartiles, the IQR, outliers and the box plot in Grade 8, examined in its final test. Kazakhstan carries the box plot and the ogive in the deepest Grade 8 statistics chapter in its band. Nepal carries quartiles and percentiles for individual and discrete data in Grade 9 Optional and box plots for discrete and continuous data across its two Optional books, with ogives in its school statistics units as filed. Iraq carries the cumulative frequency table and the ogive curve step by step in Grade 10 Literary. South Sudan carries the ogive with medians, quartiles and percentiles read from it in S2. Sierra Leone carries the cumulative frequency curve in SSS3, estimating quartiles and the interquartile range from it.
 
 Syria defines the quartiles in Grade 9 Algebra, inside its descriptive-statistics unit, and works them on small samples and on a frequency table.
 
@@ -72,3 +76,5 @@ Sudan builds cumulative frequency and quartiles in Grade 12 Basic, with quartile
 
 
 Mongolia enters through its ministry textbooks Математик X, XI (Grades 10, 11): definition; rules; modal class.
+
+Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 10: quartiles Q1, Q2, Q3; box (box-and-whisker) plot.

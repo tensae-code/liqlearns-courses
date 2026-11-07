@@ -1,6 +1,6 @@
 # Sources — Constructions with ruler and compass
 
-countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia
+countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan
 
 Every part traces to its book and page.
 
@@ -47,6 +47,7 @@ Every part traces to its book and page.
 **Book 32:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 33:** *МАТЕМАТИКА 6* (Mathematics 6) — North Macedonia, Крутан Расими, Валентина Гоговска и Снежана Ристовска (Krutan Rasimi, Valentina Gogovska & Snežana Ristovska), Ministry of Education and Science, Skopje 2023, approval № 26-2185/1 of 15.09.2023; no ISBN is printed anywhere in the book. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 34:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 35:** *ریاضی, صنف ششم (Mathematics, Grade 6)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -125,7 +126,15 @@ Every part traces to its book and page.
 | Constructions with educational software (GeoGebra) | North Macedonia, Grade 7, Theme 2, printed p. 148 |
 | Copying, adding and subtracting angles graphically | North Macedonia, Grade 7, Theme 2, printed p. 173 |
 | Constructing the angle bisector and angles 60°, 30°, 15°, 90°, 45° | North Macedonia, Grade 7, Theme 2, printed p. 177 |
-**Acceptance count: taught in 15 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia).** North Macedonia enters from its main set — Grade 6 (2023) and Grade 7 (2025).
+
+| Bisecting an angle with compasses | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 201–202 |
+| Bisecting an angle with a protractor | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 202–203 |
+| Drawing a perpendicular at a point on a line | Afghanistan, Mathematics Grade 6 (Dari), printed p. 204 |
+| Drawing a perpendicular from a point outside a line | Afghanistan, Mathematics Grade 6 (Dari), printed p. 205 |
+| The perpendicular bisector of a segment | Afghanistan, Mathematics Grade 6 (Dari), printed p. 206 |
+| Copying a given angle; building the sum of two given angles | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 207–208 |
+| Drawing parallel lines with set square and ruler | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 209–210 |
+**Acceptance count: taught in 16 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan).** North Macedonia enters from its main set — Grade 6 (2023) and Grade 7 (2025).
 
 Sierra Leone teaches the fullest school construction course here: SSS 2 Term 2 lessons 79–83 work through bisection and the constructible angles in order, and its JSS 1 handbook gives the first constructions. Laos builds the same skills in Grade 6 — parallels and perpendiculars through a point, the perpendicular bisector, copying an angle and a segment — after using a compass from Grade 4. Iran is the country that insists on reasons: its Geometry (1) presents constructions with justifications, so each arc is there for a stated cause. Armenia teaches construction as a method, with the stages of a construction problem named as part of the work. Pakistan's Grade 6 practical-geometry unit and Bangladesh's Class 7 experiments give the same constructions as set exercises, and Kuwait's Grade 7 Term 2 Unit 6 carries a long construction unit of its own.
 
@@ -143,3 +152,5 @@ India stocks constructions with ruler and compass from Math-Magic Class 4 and Ma
 Mongolia enters through its ministry textbooks Математик VI, VII, VIII (Grades 6, 7, 8): constructions; practical; construction.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *La Patria Buena* (Grade 5), *Hecho en Venezuela* (Grade 6), *Matemática Para La Vida* (Grade 7), *Conciencia Matemática* (Grade 8), *La Matemática de la Belleza* (Grade 9) and *Naturaleza Matemática* (Grade 10). From its books: from Grade 5: constructions — Building a working compass from cardboard and two pencils; drawing a circumference of given diameter via radius 4 cm; from Grade 8: construction — copying a segment with unmarked ruler and compass; drawing congruent circles from a given radius; from Grade 10: constructing the von Koch curve start: trisecting a segment, perpendicular bisector from two circles, the bump FH, GH.
+
+Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 6: bisecting an angle with compasses; bisecting an angle with a protractor; drawing a perpendicular at a point on a line; drawing a perpendicular from a point outside a line; the perpendicular bisector of a segment; copying a given angle; building the sum of two given angles; drawing parallel lines with set square and ruler.

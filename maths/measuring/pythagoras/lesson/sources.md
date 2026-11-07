@@ -1,6 +1,6 @@
 # Sources — Pythagoras
 
-countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela
+countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan
 
 Every part traces to its book and page.
 
@@ -138,6 +138,7 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 **Book 56:** *Математик VIII (Mathematics, Grade 8)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 57:** *Conciencia Matemática* — Venezuela, Grade 8 (2do año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-320-3. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 58:** *La Matemática de la Belleza* — Venezuela, Grade 9 (3er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-329-6. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 59:** *ریاضی, صنف ۸ (Mathematics, Grade 8)* — Afghanistan, Ministry of Education, Kabul (Dari); the book disagrees with itself on the year — 1399 HS on the cover and title page, 1398 HS on the specifications page — and both printings are carried as filed; no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -225,7 +226,10 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 | Pythagorean triples — the knotted 3-4-5 rope of the Egyptian surveyors; scaling a triple by 2 gives 6-8-10, also a triple | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 60–61 |
 | Testing triples — exercises checking given triples (20-12-16, 25-15-20, …) and a square whose diagonal is 5√3 cm | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 62–63 |
 
-**Acceptance count: taught in 29 countries (Egypt, Greece, Armenia, Kazakhstan, Vietnam, Sierra Leone, Libya, Mauritania, South Africa, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela).**.** Egypt carries the fullest single treatment — Iran states Pythagoras' theorem in Grade 8 and verifies it on examples rather than proving it, and uses the converse.
+| Pythagoras' theorem and its converse | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 105–110 |
+| Right-triangle theorems: the altitude on the hypotenuse (geometric-mean relations) | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 111–114 |
+
+**Acceptance count: taught in 30 countries (Egypt, Greece, Armenia, Kazakhstan, Vietnam, Sierra Leone, Libya, Mauritania, South Africa, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan).**.** Egypt carries the fullest single treatment — Iran states Pythagoras' theorem in Grade 8 and verifies it on examples rather than proving it, and uses the converse.
 the theorem, its converse, classifying triangles by comparing
 squares, the 13-foot ladder and a Pythagoras practical in Grade
 8. Sierra Leone carries the cleanest ladder in JSS 3 — the
@@ -268,3 +272,5 @@ India enters Pythagoras from Mathematics Class 7–8, 10: pythagoras property a�
 Mongolia enters through its ministry textbook Математик VIII (Grade 8): the theorem with an area-dissection proof and its converse stated, worked through roofs, ladders, kites and lake widths, a Pythagorean-triple generator (2mn, m² − n², m² + n²) set as prove-or-disprove, and Euclid's altitude-on-the-hypotenuse relations.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Conciencia Matemática* (Grade 8) and *La Matemática de la Belleza* (Grade 9). From its books: from Grade 8: construction activity — right triangle 6-8-10 cm; legs (catetos) and hypotenuse named; squares built on the three sides; from Grade 9: right triangles named — legs (catetos) and hypotenuse defined; the theorem discovered by building squares on the three sides and comparing areas.
+
+Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 8: Pythagoras' theorem and its converse; right-triangle theorems: the altitude on the hypotenuse (geometric-mean relations).

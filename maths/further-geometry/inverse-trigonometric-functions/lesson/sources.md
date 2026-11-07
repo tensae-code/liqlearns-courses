@@ -1,6 +1,6 @@
 # Sources — Inverse trigonometric functions
 
-countries: Nicaragua, Armenia, Cambodia, Laos, Rwanda, Sudan, India
+countries: Nicaragua, Armenia, Cambodia, Laos, Rwanda, Sudan, India, Afghanistan
 
 Every part traces to its book and page.
 
@@ -17,6 +17,7 @@ Every part traces to its book and page.
 
 **Book 8:** *Basic Mathematics, Grade 12 (humanities track)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, title page dated October 2009, Arabic. No ISBN printed. The held copy lacks its first contents page, any ISBN page and its back cover; the body is complete (folios 1–157) and only body pages are cited. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 9:** *Mathematics — Textbook for Class XII, Parts I–II* (ONE work in two volumes: continuous chapters 1–13 and continuous printed pagination 1–587) — India, NCERT, New Delhi, first edition November 2006, 2020-21 printing; Part I ISBN 81-7450-629-2 (Part II prints no ISBN). Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy of Part I lacks its appendices, answers and supplementary material, and the held copy of Part II has no front matter; nothing is cited from either.
+**Book 10:** *ریاضی صنف ۱۲ (Mathematics, Grade 12)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Held complete through printed p. 280; a final printed p. 281 may exist beyond the held copy, and nothing is cited from it. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -41,7 +42,9 @@ Every part traces to its book and page.
 | Identities — reciprocal and reflection identities: sin⁻¹(1/x) = cosec⁻¹x, sin⁻¹(−x) = −sin⁻¹x, sin⁻¹x + cos⁻¹x = π/2 and companions, proved in the text | India, Mathematics Class 12 Part I, printed p. 42 |
 | Addition formulas — tan⁻¹x + tan⁻¹y = tan⁻¹((x + y)/(1 − xy)) and the 2tan⁻¹x formulas, proved/derived in the text; simplifying expressions like tan⁻¹((cos x − sin x)/(cos x + sin x)) | India, Mathematics Class 12 Part I, printed p. 43 |
 | Derivatives of sin⁻¹x and tan⁻¹x (and the other inverse trig functions) derived "assuming it exists" via implicit differentiation | India, Mathematics Class 12 Part I, printed p. 168 |
-**Acceptance count: taught in 7 countries (Nicaragua, Armenia, Cambodia, Laos, Rwanda, Sudan, India).**
+
+| Derivatives of arcsin, arccos, arctan, arccot | Afghanistan, Mathematics Grade 12 (Dari), printed pp. 181–183 |
+**Acceptance count: taught in 8 countries (Nicaragua, Armenia, Cambodia, Laos, Rwanda, Sudan, India, Afghanistan).**
 Nicaragua carries the full treatment — restriction, definition, compositions, calculator values and graphical solving — in Grade 10. Armenia carries the inverses as a named section of its Grade 10 analysis book, built on the inverse-function concept and its existence condition, with the four inverse names introduced beside the simplest trigonometric equations. Laos carries inverses of the trigonometric functions as a full lesson inside its Grade 12 inverse-functions chapter. Cambodia carries the topic at §3.2 of its Grade 12 Advanced book, filed from the table of contents and the teacher guide's lesson plan; the section start was not read in detail in the student book, and it is counted on that filed basis, worded exactly as filed.
 
 Rwanda teaches inverse trigonometric functions in its Advanced Senior Five book, defining all six inverses with their domains, ranges and principal values.
@@ -49,3 +52,5 @@ Rwanda teaches inverse trigonometric functions in its Advanced Senior Five book,
 Sudan finds the angle from a ratio in Grade 8, works with the reference angle in Grade 10, and differentiates the inverse functions in Grade 12 Basic.
 
 India enters inverse trigonometric functions from Mathematics Class 12: principal value branches.
+
+Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 12: derivatives of arcsin, arccos, arctan, arccot.

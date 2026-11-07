@@ -1,6 +1,6 @@
 # Sources — Partial Fractions
 
-countries: South Sudan, Pakistan, Bangladesh, Jordan, Kuwait, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia
+countries: South Sudan, Pakistan, Bangladesh, Jordan, Kuwait, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan
 
 Every part traces to its book and page.
 
@@ -18,6 +18,7 @@ Every part traces to its book and page.
 **Book 10:** *Математик XII (Mathematics, Grade 12)* — Mongolia, Ministry of Education, second edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 11:** *La Matemática y el Vivir Bien* — Venezuela, Grade 11 (5to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-344-9. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 12:** *АЛГЕБРА ЗА ТРЕТА ГОДИНА НА РЕФОРМИРАНОТО ГИМНАЗИСКО ОБРАЗОВАНИЕ (ИЗБОРЕН ПРЕДМЕТ)* (Algebra for the third year of the reformed gymnasium education — elective subject) — North Macedonia, Глигор Тренчевски, Костадин Тренчевски, Билјана Крстеска и Снежана Здравеска (Gligor Trenchevski, Kostadin Trenchevski, Biljana Krsteska & Snezana Zdraveska), Просветно дело АД, IV издание (fourth edition); CIP record Skopje 2005, approval № 11-3867/1 of 15.07.2004, ISBN 9989-0-0387-4. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 13:** *ریاضی صنف ۱۲ (Mathematics, Grade 12)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Held complete through printed p. 280; a final printed p. 281 may exist beyond the held copy, and nothing is cited from it. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -53,7 +54,9 @@ Every part traces to its book and page.
 | (x + 5)/(x² − 4) split as A/(x + 2) + B/(x − 2) with A = −3/4, B = 7/4 by undetermined coefficients | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 58–59 |
 
 | Transforming rational fractions into a sum of partial ("simple") fractions | North Macedonia, Grade 12, Algebra, §4.12, printed p. 99 |
-**Acceptance count: taught in 11 countries (South Sudan, Pakistan, Bangladesh, Jordan, Kuwait, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia).** South Sudan carries the fullest single treatment: its Secondary 4 Additional book gives partial fractions a whole unit (Unit 4, pp.126–148) — linear factors by both constant-finding methods, quadratic and repeated factors, the integration application, and recombining — with one caution: the worked example on printed pp.130–131 is muddled as printed, so this lesson teaches the method cleanly and keeps only its verified final answers, A = 3/4 and B = −1/4. Pakistan carries the topic twice over: Class 10's Unit 4 with its four rules and the "zero's method", and Class 11's Unit 5 with the proper/improper opening and Cases I–IV up to the repeated irreducible quadratic, the technique presented as preparation for calculus. Bangladesh carries it inside its Class 9 polynomial chapter (§10.8, pp.107–111) with verified worked splits for distinct linear, repeated linear, and linear-plus-quadratic denominators, and division-first handling of improper fractions. Jordan carries partial fractions as a named Grade 12 lesson (p.23) and uses it inside integration (p.45, as filed). Kuwait carries the integration use only, and only for distinct linear factors (§5-6, pp.42–49) — a recorded negative: no repeated and no quadratic factors there. North Macedonia enters from its main set — the Grade 12 Algebra elective.
+
+| Partial fractions: distinct, repeated and quadratic factors | Afghanistan, Mathematics Grade 12 (Dari), printed pp. 185–188 |
+**Acceptance count: taught in 12 countries (South Sudan, Pakistan, Bangladesh, Jordan, Kuwait, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan).** South Sudan carries the fullest single treatment: its Secondary 4 Additional book gives partial fractions a whole unit (Unit 4, pp.126–148) — linear factors by both constant-finding methods, quadratic and repeated factors, the integration application, and recombining — with one caution: the worked example on printed pp.130–131 is muddled as printed, so this lesson teaches the method cleanly and keeps only its verified final answers, A = 3/4 and B = −1/4. Pakistan carries the topic twice over: Class 10's Unit 4 with its four rules and the "zero's method", and Class 11's Unit 5 with the proper/improper opening and Cases I–IV up to the repeated irreducible quadratic, the technique presented as preparation for calculus. Bangladesh carries it inside its Class 9 polynomial chapter (§10.8, pp.107–111) with verified worked splits for distinct linear, repeated linear, and linear-plus-quadratic denominators, and division-first handling of improper fractions. Jordan carries partial fractions as a named Grade 12 lesson (p.23) and uses it inside integration (p.45, as filed). Kuwait carries the integration use only, and only for distinct linear factors (§5-6, pp.42–49) — a recorded negative: no repeated and no quadratic factors there. North Macedonia enters from its main set — the Grade 12 Algebra elective.
 
 Syria integrates rational functions by partial fractions in Grade 12 Part One, inside its integrals unit.
 
@@ -65,3 +68,5 @@ India enters partial fractions from Mathematics Class 12: method.
 Mongolia enters through its ministry textbooks Математик XII (Grade 12): proper fractions first; distinct linear factors; three linear factors.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *La Matemática y el Vivir Bien* (Grade 11). From its books: from Grade 11: (x + 5)/(x² − 4) split as A/(x + 2) + B/(x − 2) with A = −3/4, B = 7/4 by undetermined coefficients.
+
+Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 12: partial fractions: distinct, repeated and quadratic factors.

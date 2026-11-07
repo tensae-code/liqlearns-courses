@@ -1,6 +1,6 @@
 # Sources — The Laws of Arithmetic Operations
 
-countries: Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia
+countries: Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan
 
 Every part traces to its book and page.
 
@@ -29,6 +29,7 @@ Every part traces to its book and page.
 **Book 18:** *Математика за четврто одделение* (Mathematics for Grade 4) — North Macedonia, Татјана Атанасова-Пачемска, Валдета Алија, Виолета Поповска и Добри Јовевски (Tatjana Atanasova-Pačemska, Valdeta Alija, Violeta Popovska & Dobri Jovevski), Ministry of Education and Science, Skopje 2023, II издание (second edition), approval № 26-527/1 of 18.08.2022, ISBN 978-608-273-479-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 19:** *МАТЕМАТИКА ЗА ПЕТТО ОДДЕЛЕНИЕ* (Mathematics for Grade 5) — North Macedonia, Татјана Атанасова-Пачемска, Добри Јовевски, Виолета Поповска и Валдета Алија (Tatjana Atanasova-Pačemska, Dobri Jovevski, Violeta Popovska & Valdeta Alija), Ministry of Education and Science, Skopje 2022, approval № 26-1441/1 of 14.10.2022, ISBN 978-608-273-180-3. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 20:** *МАТЕМАТИКА 6* (Mathematics 6) — North Macedonia, Крутан Расими, Валентина Гоговска и Снежана Ристовска (Krutan Rasimi, Valentina Gogovska & Snežana Ristovska), Ministry of Education and Science, Skopje 2023, approval № 26-2185/1 of 15.09.2023; no ISBN is printed anywhere in the book. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 21:** *ریاضی, صنف ۷ (Mathematics, Grade 7)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 On Malaysia in this lesson: Malaysia is the first country whose book names the four laws as one named set and drills choosing the fastest calculation order with them. The laws themselves appear inside other lessons of this course (the real-number-system lesson states them as part of its climb; the order-of-operations lesson rests on them); this lesson is the laws' own home, built from Malaysia's Form 1 treatment under the everything-goes-in ruling.
 
@@ -90,7 +91,10 @@ On Malaysia in this lesson: Malaysia is the first country whose book names the f
 | Commutative / associative / distributive laws — Асоцијативно Својство Кај Множењето | North Macedonia, Grade 5, printed p. 171 |
 | Commutative / associative / distributive laws — Дистрибутивно Својство Кај Множењето | North Macedonia, Grade 5, printed p. 172 |
 | Својства на множењето во N₀ — commutative, associative, distributive over + and − | North Macedonia, Grade 6, Theme 3, printed p. 225 |
-**Acceptance count: taught in 6 countries (Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia).** Malaysia's Form 1 book states the four laws in one section and applies them to efficient calculation; the other read countries use the laws inside their number work without naming the set, so this lesson is built at that honest size — one country's named treatment, not a merged one. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
+
+| Properties of the operations on integers | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 90–91 |
+| Properties of the operations on rational numbers | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 105–110 |
+**Acceptance count: taught in 7 countries (Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan).** Malaysia's Form 1 book states the four laws in one section and applies them to efficient calculation; the other read countries use the laws inside their number work without naming the set, so this lesson is built at that honest size — one country's named treatment, not a merged one. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
 
 Sudan names the laws early and revisits them at every level: commutativity of addition shown with pictures in Grade 1, the distributive property and the relations between the four operations in Grade 3, the properties of addition and of multiplication in the integers in Grade 6 and again in Grade 7, and the full table on the reals in Grade 8 — closure, commutativity, associativity, identities, inverses, cancellation and distributivity checked system by system, with the book's condition-free cancellation corrected in the table above. Malaysia still carries the lesson's founding treatment; Sudan is its widest primary-to-secondary thread.
 
@@ -100,3 +104,5 @@ India stocks the laws of arithmetic operations from Math-Magic Class 5 and Mathe
 Mongolia enters through its ministry textbooks Математик II, III, IV, X (Grades 2, 3, 4, 10): the working laws met experimentally — how a sum or difference changes when one of its terms changes, compensation methods that move the terms while the result stays fixed, and sums compared without calculating.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Triángulos, rectángulos y algo más...* (Grade 2) and *Matemática Para La Vida* (Grade 7). From its books: from Grade 2: associative property — the propiedad asociativa: grouping addends differently gives the same sum, e.g. (2+3)+4 = 2+(3+4); from Grade 7: integer addition — Associative and commutative properties of integer addition, each worked both ways (7 + (−5) + (−6) = −4; 2 + (−5) = −5 + 2 = −3).
+
+Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 7: properties of the operations on integers; properties of the operations on rational numbers.

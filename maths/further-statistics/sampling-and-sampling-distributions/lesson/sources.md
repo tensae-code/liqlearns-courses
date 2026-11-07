@@ -1,6 +1,6 @@
 # Sources — Sampling and Sampling Distributions
 
-countries: Pakistan, Kuwait, Indonesia, Libya, Mauritania, North Macedonia, Iraq, Kazakhstan, Nicaragua, Ghana, China, Mongolia, Venezuela
+countries: Pakistan, Kuwait, Indonesia, Libya, Mauritania, North Macedonia, Iraq, Kazakhstan, Nicaragua, Ghana, China, Mongolia, Venezuela, Afghanistan
 
 Every part traces to its book and page.
 
@@ -21,6 +21,7 @@ Every part traces to its book and page.
 **Book 15:** *数学 必修第二册 (Mathematics, Compulsory Volume 2), A edition* (student book) — China, People's Education Press (PEP), ISBN 978-7-107-33566-2. Filed in maths/books/china.md (FULLY READ + CITATION CHECK PASSED).
 **Book 16:** *Математик VIII (Mathematics, Grade 8)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 17:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 18:** *ریاضی صنف ۱۲ (Mathematics, Grade 12)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Held complete through printed p. 280; a final printed p. 281 may exist beyond the held copy, and nothing is cited from it. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -50,9 +51,16 @@ Every part traces to its book and page.
 
 | Number of samples with replacement N^n (5^2 = 25), sample table | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 29–30 |
 
-**Acceptance count: taught in 13 countries (Pakistan, Kuwait, Indonesia, Libya, Mauritania, North Macedonia, Iraq, Kazakhstan, Nicaragua, Ghana, China, Mongolia, Venezuela).** Pakistan carries the lesson's spine: frames and designs, sampling against non-sampling errors, bias = E(T) − θ, sampling distributions built by complete enumeration, and the Central Limit Theorem. Kuwait carries the working methods — census against sampling, simple random, stratified and systematic sampling with the random-number table — in its Grade 11 Statistics book, with its Grade 11 Term 1 workbook drilling the kinds of data and the same methods as workbook evidence only. Indonesia carries estimating a population from samples in Grade 9. Libya carries the sampling distribution of the mean in its Science book and a whole population-statistics chapter — census, density, growth rate, sex ratio, vital statistics — in its Humanities book. Mauritania carries sampling (Échantillonnage) as a named chapter across its 6AS streams. North Macedonia carries representative samples and the bus-stop criticism in Grade 8 (2010). Iraq carries survey design and misleading statistics in Grade 9. Kazakhstan carries the kinds-of-data chart in its Grade 8 NIS statistics chapter. Nicaragua carries population, sample and variable fixed on one small case in Grade 9. Ghana carries discrete against continuous data as teacher evidence in the JICA B6 manual. China carries randomised response as a reading in its A-edition Compulsory Volume 2.
+| Sampling and types of sample | Afghanistan, Mathematics Grade 12 (Dari), printed pp. 245–246 |
+| Sampling distribution of the mean | Afghanistan, Mathematics Grade 12 (Dari), printed pp. 247–249 |
+| Central limit theorem | Afghanistan, Mathematics Grade 12 (Dari), printed pp. 251–252 |
+| Sampling distribution of a proportion | Afghanistan, Mathematics Grade 12 (Dari), printed pp. 254–255 |
+
+**Acceptance count: taught in 14 countries (Pakistan, Kuwait, Indonesia, Libya, Mauritania, North Macedonia, Iraq, Kazakhstan, Nicaragua, Ghana, China, Mongolia, Venezuela, Afghanistan).** Pakistan carries the lesson's spine: frames and designs, sampling against non-sampling errors, bias = E(T) − θ, sampling distributions built by complete enumeration, and the Central Limit Theorem. Kuwait carries the working methods — census against sampling, simple random, stratified and systematic sampling with the random-number table — in its Grade 11 Statistics book, with its Grade 11 Term 1 workbook drilling the kinds of data and the same methods as workbook evidence only. Indonesia carries estimating a population from samples in Grade 9. Libya carries the sampling distribution of the mean in its Science book and a whole population-statistics chapter — census, density, growth rate, sex ratio, vital statistics — in its Humanities book. Mauritania carries sampling (Échantillonnage) as a named chapter across its 6AS streams. North Macedonia carries representative samples and the bus-stop criticism in Grade 8 (2010). Iraq carries survey design and misleading statistics in Grade 9. Kazakhstan carries the kinds-of-data chart in its Grade 8 NIS statistics chapter. Nicaragua carries population, sample and variable fixed on one small case in Grade 9. Ghana carries discrete against continuous data as teacher evidence in the JICA B6 manual. China carries randomised response as a reading in its A-edition Compulsory Volume 2.
 
 
 Mongolia enters through its ministry textbook Математик VIII (Grade 8): population against sample, sample size, and a biased survey criticised for not representing its population.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Naturaleza Matemática* (Grade 10). From its books: from Grade 10: number of samples with replacement N^n (5^2 = 25), sample table.
+
+Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 12: sampling and types of sample; sampling distribution of the mean; central limit theorem; sampling distribution of a proportion.

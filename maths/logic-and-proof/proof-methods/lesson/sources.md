@@ -1,6 +1,6 @@
 # Sources — Proof Methods
 
-countries: Kazakhstan, Iran, Armenia, Greece, Egypt, Nicaragua, Kuwait, Laos, China, Syria, Malaysia, India, Mongolia, Venezuela
+countries: Kazakhstan, Iran, Armenia, Greece, Egypt, Nicaragua, Kuwait, Laos, China, Syria, Malaysia, India, Mongolia, Venezuela, Afghanistan
 
 Every part traces to its book and page.
 
@@ -30,6 +30,7 @@ Every part traces to its book and page.
 **Book 22:** *Математик VII (Mathematics, Grade 7)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 23:** *Математик VIII (Mathematics, Grade 8)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 24:** *La Matemática de la Belleza* — Venezuela, Grade 9 (3er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-329-6. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 25:** *ریاضی صنف دهم (Mathematics, Grade 10)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -68,7 +69,14 @@ Every part traces to its book and page.
 
 | The method — proof by contradiction (reducción al absurdo) explained as a general method: assume the opposite, reach an absurdity | Venezuela, La Matemática de la Belleza (Grade 9), printed p. 19 |
 
-**Acceptance count: taught in 14 countries (Kazakhstan, Iran, Armenia, Greece, Egypt, Nicaragua, Kuwait, Laos, China, Syria, Malaysia, India, Mongolia, Venezuela).** Kazakhstan opens all three of its Grade 7 geometry courses with the Euclidean deductive method itself — axioms as the rules of the game (Smirnov), the regress of definitions (Shynybekov), and methods of proof given their own section (Turapbekov). Iran teaches proof three ways: a whole Grade 9 chapter on reasoning and proof in geometry, with a deliberately flawed proof to diagnose; the proof opening of Geometry (1); and Discrete Mathematics' working kit of direct proof, cases, contradiction and counterexample. Armenia gathers deductive and inductive reasoning and the main methods of proof and refutation in Grade 11, proves and refutes ∀ and ∃ assertions and classifies necessary and sufficient conditions in its Grade 12 logic book, and first uses contradiction inside Grade 7 geometry. Greece makes deductive reasoning the stated point of its Euclidean Geometry. Egypt names the writing itself — "Steps to Write a Proof" — in Grade 7. Nicaragua introduces two-column-style reasoning in Grade 8 and writes full two-column similarity proofs in Grade 9. Kuwait frames every proof in its Grade 9 triangle unit as givens / required / proof. Laos judges arguments by validity, with modus ponens, modus tollens and the affirming-the-consequent fallacy. China proves the vertical-angles result inside its Grade 6 general review.
+| Intuitive reasoning | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 391–392 |
+| Analogical (analogy) reasoning | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 393–394 |
+| Inductive reasoning | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 395–396 |
+| Deductive reasoning | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 401–402 |
+| Proof by counterexample (refutation) | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 403–404 |
+| Proof by contradiction (indirect proof) | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 405–406 |
+
+**Acceptance count: taught in 15 countries (Kazakhstan, Iran, Armenia, Greece, Egypt, Nicaragua, Kuwait, Laos, China, Syria, Malaysia, India, Mongolia, Venezuela, Afghanistan).** Kazakhstan opens all three of its Grade 7 geometry courses with the Euclidean deductive method itself — axioms as the rules of the game (Smirnov), the regress of definitions (Shynybekov), and methods of proof given their own section (Turapbekov). Iran teaches proof three ways: a whole Grade 9 chapter on reasoning and proof in geometry, with a deliberately flawed proof to diagnose; the proof opening of Geometry (1); and Discrete Mathematics' working kit of direct proof, cases, contradiction and counterexample. Armenia gathers deductive and inductive reasoning and the main methods of proof and refutation in Grade 11, proves and refutes ∀ and ∃ assertions and classifies necessary and sufficient conditions in its Grade 12 logic book, and first uses contradiction inside Grade 7 geometry. Greece makes deductive reasoning the stated point of its Euclidean Geometry. Egypt names the writing itself — "Steps to Write a Proof" — in Grade 7. Nicaragua introduces two-column-style reasoning in Grade 8 and writes full two-column similarity proofs in Grade 9. Kuwait frames every proof in its Grade 9 triangle unit as givens / required / proof. Laos judges arguments by validity, with modus ponens, modus tollens and the affirming-the-consequent fallacy. China proves the vertical-angles result inside its Grade 6 general review.
 
 Syria's Grade 8 Geometry is built as proof craft: the hypothesis–property–conclusion scheme is stated outright, proof plans are required before writing, and the book warns explicitly that nothing may be read off the figure.
 
@@ -80,3 +88,5 @@ India stocks proof methods from Mathematics Class 9–11: euclid's foundations; 
 Mongolia enters through its ministry textbooks Математик VII, VIII (Grades 7, 8): the proof that a triangle's interior angles sum to 180°, drawn with a parallel line through a vertex, and divisibility proofs worked as exercises — 8⁵ + 2¹³ divisible by 10, n³ − n divisible by 6, n² − 1 for odd n divisible by 8.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *La Matemática de la Belleza* (Grade 9). From its books: from Grade 9: the method — proof by contradiction (reducción al absurdo) explained as a general method: assume the opposite, reach an absurdity.
+
+Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 10: intuitive reasoning; analogical (analogy) reasoning; inductive reasoning; deductive reasoning; proof by counterexample (refutation); proof by contradiction (indirect proof).

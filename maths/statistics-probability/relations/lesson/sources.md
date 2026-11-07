@@ -1,6 +1,6 @@
 # Sources — Relations
 
-countries: Libya, Yemen, Bangladesh, Kuwait, Laos, Malaysia, Rwanda, Sudan, India, North Macedonia
+countries: Libya, Yemen, Bangladesh, Kuwait, Laos, Malaysia, Rwanda, Sudan, India, North Macedonia, Afghanistan
 
 Every part traces to its book and page.
 
@@ -23,6 +23,8 @@ Every part traces to its book and page.
 **Book 12:** *Mathematics — Textbook for Class XI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-486-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendices 1–2, the Answers and the Supplementary Material; nothing is cited from them.
 **Book 13:** *Mathematics — Textbook for Class XII, Parts I–II* (ONE work in two volumes: continuous chapters 1–13 and continuous printed pagination 1–587) — India, NCERT, New Delhi, first edition November 2006, 2020-21 printing; Part I ISBN 81-7450-629-2 (Part II prints no ISBN). Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy of Part I lacks its appendices, answers and supplementary material, and the held copy of Part II has no front matter; nothing is cited from either.
 **Book 14:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 15:** *ریاضی, صنف ۸ (Mathematics, Grade 8)* — Afghanistan, Ministry of Education, Kabul (Dari); the book disagrees with itself on the year — 1399 HS on the cover and title page, 1398 HS on the specifications page — and both printings are carried as filed; no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 16:** *ریاضی صنف دهم (Mathematics, Grade 10)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -63,7 +65,13 @@ Every part traces to its book and page.
 | Equivalence relations — equivalence relation defined; equivalence classes in the chapter Summary | India, Mathematics Class 12 Part I, printed p. 3 |
 
 | Ordered pairs, A×B, Cartesian scheme (Декартова шема), A² | North Macedonia, Grade 7, Theme 1, printed p. 21 |
-**Acceptance count: taught in 10 countries (Libya, Yemen, Bangladesh, Kuwait, Laos, Malaysia, Rwanda, Sudan, India, North Macedonia).** Libya carries the full binary-relations treatment — Cartesian product, equality of relations, domain and range, inverse relation — as the closing part of its Grade 10 sets chapter (printed pp. 9–43), the ground from which it then defines functions. Yemen carries the topic twice: in Grade 7 as the staircase ordered pair → Cartesian product (with S × T ≠ T × S) → relations (printed pp. 32, 34, 37), and in Grade 9 with transitive relations and equivalence relations as named lessons (printed pp. 17, 25) ahead of its function lesson. Bangladesh, Kuwait and Laos each carry the Cartesian product and relations material as a minor row — Bangladesh in one section (§1.9, printed p. 24), Kuwait inside its Grade 8 sets-and-relations unit (printed pp. 15–67), Laos inside its Grade 10 sets lessons (printed pp. 30–52) — and they are counted here as minor, exactly as filed. North Macedonia enters from its main set — Grade 7 (2025).
+
+| Relation; linear relation and its graph | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 209–212 |
+| Relations (as subsets of a Cartesian product); number of relations | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 61–62 |
+| Domain and range of a relation | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 62–63 |
+| Inverse of a relation | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 63–64 |
+| Equivalence relations (reflexive, symmetric, transitive) | Afghanistan, Mathematics Grade 10 (Dari), printed p. 64 |
+**Acceptance count: taught in 11 countries (Libya, Yemen, Bangladesh, Kuwait, Laos, Malaysia, Rwanda, Sudan, India, North Macedonia, Afghanistan).** Libya carries the full binary-relations treatment — Cartesian product, equality of relations, domain and range, inverse relation — as the closing part of its Grade 10 sets chapter (printed pp. 9–43), the ground from which it then defines functions. Yemen carries the topic twice: in Grade 7 as the staircase ordered pair → Cartesian product (with S × T ≠ T × S) → relations (printed pp. 32, 34, 37), and in Grade 9 with transitive relations and equivalence relations as named lessons (printed pp. 17, 25) ahead of its function lesson. Bangladesh, Kuwait and Laos each carry the Cartesian product and relations material as a minor row — Bangladesh in one section (§1.9, printed p. 24), Kuwait inside its Grade 8 sets-and-relations unit (printed pp. 15–67), Laos inside its Grade 10 sets lessons (printed pp. 30–52) — and they are counted here as minor, exactly as filed. North Macedonia enters from its main set — Grade 7 (2025).
 
 Additional Mathematics Form 4 opens with relations met in everyday situations, on the way to functions. (The classification of relations into their four types is Malaysia's Form 2 work and is filed under functions.)
 
@@ -72,3 +80,5 @@ Rwanda teaches relations in Senior 1, closing its sets unit: relations and their
 Sudan teaches relations three times over: Grade 7 gives ordered pairs, the Cartesian product, relations, image and range and the inverse relation; Grade 9 relates sets; and Grade 10 formalises the theory — special relations, reflexive, symmetric and transitive, up to equivalence relations proved in the book's logic language.
 
 India enters relations from Mathematics Class 11–12: cartesian product; special relations.
+
+Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 8: relation; linear relation and its graph; from Grade 10: relations (as subsets of a Cartesian product); number of relations; domain and range of a relation; inverse of a relation; equivalence relations (reflexive, symmetric, transitive).

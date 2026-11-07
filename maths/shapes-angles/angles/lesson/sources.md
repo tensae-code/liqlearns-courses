@@ -1,6 +1,6 @@
 # Sources — Angles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan
 
 Every part traces to its book and page.
 
@@ -261,6 +261,8 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 145:** *МАТЕМАТИКА 6* (Mathematics 6) — North Macedonia, Крутан Расими, Валентина Гоговска и Снежана Ристовска (Krutan Rasimi, Valentina Gogovska & Snežana Ristovska), Ministry of Education and Science, Skopje 2023, approval № 26-2185/1 of 15.09.2023; no ISBN is printed anywhere in the book. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 146:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 147:** *МАТЕМАТИКА II* (Mathematics II — textbook for the second year of gymnasium education) — North Macedonia, Д-р Верица Бакева Смиљкова и проф. Горан Михајлоски (Dr Verica Bakeva Smilkova & Prof. Goran Mihajloski), АЛБИ (Albi), Skopje 2026, first edition, approval № 26-644/1 of 21.05.2026, ISBN 978-608-241-093-7. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 148:** *ریاضی, صنف ششم (Mathematics, Grade 6)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 149:** *ریاضی, صنف ۷ (Mathematics, Grade 7)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -498,7 +500,19 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Angle sum in a quadrilateral: interior 360°, exterior 360° derived | North Macedonia, Grade 7, Theme 2, printed p. 208 |
 | Angles and measuring angles | North Macedonia, Grade 11, §5.1, printed p. 208 |
 
-**Acceptance count: taught in 34 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia).** Egypt carries the fullest single Iran measures angles with a protractor in Grade 4, bisects angles and sums polygon angles in Grade 5, and gives the (n − 2) × 180° interior-angle rule in Grade 8.
+| The protractor: measuring and drawing angles | Afghanistan, Mathematics Grade 6 (Dari), printed p. 159 |
+| Drawing an angle with a protractor | Afghanistan, Mathematics Grade 6 (Dari), printed p. 202 |
+| Classification of triangles by their angles | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 121–122 |
+| Sum of the interior angles of a triangle | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 125–126 |
+| Exterior angles of a triangle | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 127–128 |
+| Sum of the interior angles of a polygon | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 133–134 |
+| Sum of the exterior angles of a polygon | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 135–136 |
+| Alternate interior and exterior angles | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 159–160 |
+| Corresponding angles | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 161–164 |
+| Consecutive interior angles on the same side of a transversal (supplementary) | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 165–166 |
+| Exterior angles of a quadrilateral (sum 360°) | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 171–172 |
+
+**Acceptance count: taught in 35 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan).** Egypt carries the fullest single Iran measures angles with a protractor in Grade 4, bisects angles and sums polygon angles in Grade 5, and gives the (n − 2) × 180° interior-angle rule in Grade 8.
 treatment — the angle kinds, the protractor, complementary and
 supplementary pairs, the transversal's eight angles, and the
 triangle and quadrilateral sums in one Grade 7 unit. Jordan
@@ -539,3 +553,5 @@ India carries angles through its NCERT ladder — Math-Magic Class 5 and Mathema
 Mongolia enters through its ministry textbooks Математик II, III, IV, V, VI, VII, VIII (Grades 2, 3, 4, 5, 6, 7, 8): right angles by folding; angle, vertex, sides; recognising angles; the right angle.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Aventuras de Patacalientes* (Grade 3), *Contando con los recursos* (Grade 4), *La Patria Buena* (Grade 5), *Matemática Para La Vida* (Grade 7) and *Conciencia Matemática* (Grade 8). From its books: from Grade 3: what an angle is — el ángulo formed by two sides (lados) meeting at a vértice; the right angle (ángulo recto) recognised; from Grade 5: angle sum — The triangle's interior angles sum to 180°, discovered by cutting the corners off and laying them on a straight line; from Grade 8: puzzles — clock-hand angles at 12:15 and at 3:10; dividing a clock face into three equal-sum parts.
+
+Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 6: the protractor: measuring and drawing angles; drawing an angle with a protractor; from Grade 7: classification of triangles by their angles; sum of the interior angles of a triangle; exterior angles of a triangle; sum of the interior angles of a polygon; sum of the exterior angles of a polygon; alternate interior and exterior angles; corresponding angles; consecutive interior angles on the same side of a transversal (supplementary); exterior angles of a quadrilateral (sum 360°).

@@ -1,6 +1,6 @@
 # Sources — Types of Lines
 
-countries: Rwanda, India, Mongolia, Venezuela, North Macedonia
+countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan
 
 Every part traces to its book and page.
 
@@ -21,6 +21,9 @@ Every part traces to its book and page.
 **Book 15:** *Математика за четврто одделение* (Mathematics for Grade 4) — North Macedonia, Татјана Атанасова-Пачемска, Валдета Алија, Виолета Поповска и Добри Јовевски (Tatjana Atanasova-Pačemska, Valdeta Alija, Violeta Popovska & Dobri Jovevski), Ministry of Education and Science, Skopje 2023, II издание (second edition), approval № 26-527/1 of 18.08.2022, ISBN 978-608-273-479-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 16:** *МАТЕМАТИКА ЗА ПЕТТО ОДДЕЛЕНИЕ* (Mathematics for Grade 5) — North Macedonia, Татјана Атанасова-Пачемска, Добри Јовевски, Виолета Поповска и Валдета Алија (Tatjana Atanasova-Pačemska, Dobri Jovevski, Violeta Popovska & Valdeta Alija), Ministry of Education and Science, Skopje 2022, approval № 26-1441/1 of 14.10.2022, ISBN 978-608-273-180-3. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 17:** *МАТЕМАТИКА 6* (Mathematics 6) — North Macedonia, Крутан Расими, Валентина Гоговска и Снежана Ристовска (Krutan Rasimi, Valentina Gogovska & Snežana Ristovska), Ministry of Education and Science, Skopje 2023, approval № 26-2185/1 of 15.09.2023; no ISBN is printed anywhere in the book. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 18:** *ریاضی (Mathematics, Grade 1)* — Afghanistan, Ministry of Education, Kabul, printing year 1398 HS. One work in two language editions — Dari (ریاضی) and Pashto (رياضي) — parallel editions with identical page maps, cited as one book; no ISBN printed in either edition. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 19:** *ریاضی, صنف ششم (Mathematics, Grade 6)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 20:** *ریاضی, صنف ۷ (Mathematics, Grade 7)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of lines in the first pages of its Unit 10, "Types of lines and angles" — the angle half of that unit lives in the angles lesson; this lesson is the lines half. It is a Primary 2 topic taught with pictures and naming activities, so the lesson is built at that honest, small size.
 
@@ -80,7 +83,14 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 | Права, полуправа, отсечка — line, ray, segment; segment length | North Macedonia, Grade 6, Theme 2, printed p. 101 |
 | Заемно паралелни и заемно нормални прави — parallel and perpendicular lines; drawing with set square | North Macedonia, Grade 6, Theme 2, printed p. 109 |
 
-**Acceptance count: taught in 5 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia).** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; no other read country gives line types a named treatment of their own, so this lesson is built at that honest size — a small lesson, complete for what its one source teaches. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
+| The straight path: the shortest way (Lesson 23) | Afghanistan, Mathematics Grade 1 (Pashto and Dari editions), printed p. 59 |
+| Straight lines told apart from curved and zigzag lines (Lesson 24) | Afghanistan, Mathematics Grade 1 (Pashto and Dari editions), printed p. 60 |
+| Positions of a line: horizontal, vertical and oblique | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 160–162 |
+| Parallel lines | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 163–164 |
+| Intersecting lines | Afghanistan, Mathematics Grade 6 (Dari), printed p. 165 |
+| Parallel and perpendicular lines | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 157–158 |
+
+**Acceptance count: taught in 6 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan).** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; no other read country gives line types a named treatment of their own, so this lesson is built at that honest size — a small lesson, complete for what its one source teaches. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
 
 India stocks types of lines from Math-Magic Class 2 and Mathematics Class 6–7, 9: standing, slanting, sleeping lines; point and line; intersecting lines and their point of intersection; basic terms.
 
@@ -88,3 +98,5 @@ India stocks types of lines from Math-Magic Class 2 and Mathematics Class 6–7,
 Mongolia enters through its ministry textbooks Математик I, III, VI (Grades 1, 3, 6): drawing straight lines; perpendicular and parallel lines; finding and drawing perpendicular and parallel lines.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Aventuras de Patacalientes* (Grade 3), *Contando con los recursos* (Grade 4), *Matemática Para La Vida* (Grade 7) and *Conciencia Matemática* (Grade 8). From its books: from Grade 3: straight lines — la recta as a line with no beginning and no end; parallel lines that never meet; perpendicular lines meeting at right angles; from Grade 7: kinds of lines — Horizontal, perpendicular and oblique lines identified on a land-survey sketch; perpendicular lines meet at a right angle (90°); from Grade 8: rule — parallel lines: reflexive, symmetric and transitive properties of parallelism.
+
+Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 1: the straight path: the shortest way (Lesson 23); straight lines told apart from curved and zigzag lines (Lesson 24); from Grade 6: positions of a line: horizontal, vertical and oblique; parallel lines; intersecting lines; from Grade 7: parallel and perpendicular lines.

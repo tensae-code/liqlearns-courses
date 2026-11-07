@@ -1,6 +1,6 @@
 # Sources — Determinants and Cramer's Rule
 
-countries: Egypt, Cambodia, Kuwait, Laos, Nicaragua, Rwanda, India, Mongolia, Venezuela, North Macedonia
+countries: Egypt, Cambodia, Kuwait, Laos, Nicaragua, Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan
 
 Every part traces to its book and page.
 
@@ -18,6 +18,7 @@ Every part traces to its book and page.
 **Book 10:** *Математик XI (Mathematics, Grade 11)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 11:** *La Matemática y el Vivir Bien* — Venezuela, Grade 11 (5to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-344-9. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 12:** *ЛИНЕАРНА АЛГЕБРА И АНАЛИТИЧКА ГЕОМЕТРИЈА ЗА ТРЕТА ГОДИНА НА РЕФОРМИРАНОТО ГИМНАЗИСКО ОБРАЗОВАНИЕ (ИЗБОРЕН ПРЕДМЕТ)* (Linear Algebra and Analytic Geometry for the third year of the reformed gymnasium education — elective subject) — North Macedonia, Костадин Тренчевски, Билјана Крстеска, Глигор Тренчевски и Снежана Здравеска (Kostadin Trenchevski, Biljana Krsteska, Gligor Trenchevski & Snezana Zdraveska), Просветно дело, Skopje, IV издание (fourth edition), 2017 printing (the CIP records the edition from 2007), ISBN 9989-0-0386-6. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 13:** *ریاضی صنف ۱۱ (Mathematics, Grade 11)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -68,7 +69,11 @@ Every part traces to its book and page.
 | System of three linear equations in three unknowns: solution and Cramer's formulas x = Δx/Δ etc., derived by cofactor multiplication | North Macedonia, Grade 12, Linear Algebra and Analytic Geometry, §1.4.1, printed p. 23 |
 | Homogeneous system of three linear equations | North Macedonia, Grade 12, Linear Algebra and Analytic Geometry, §1.5, printed p. 31 |
 
-**Acceptance count: taught in 10 countries (Egypt, Cambodia, Kuwait, Laos, Nicaragua, Rwanda, India, Mongolia, Venezuela, North Macedonia).** Egypt carries determinants and both solving methods in Secondary 1 Term 2 Unit 1 — determinants with the triangle-area application, then the 2×2 inverse with inverse-matrix and Cramer solutions. Cambodia carries 3×3 determinants and Cramer's rule in Grade 11 Basic Chapter 4, with all four worked systems on printed p.135 verified, including the no-solution and dependent cases. Kuwait carries the 2×2 determinant, the inverse formula and both solving methods for two unknowns in Grade 10 Term 2 Unit 7 — 2×2 only, as filed: no 3×3 determinants there. Laos carries determinants and inverse matrices in Grade 12 Chapter 3, stated as AX = B ⇒ X = A⁻¹B. Nicaragua carries the fullest determinants run — minors, cofactors, Sarrus' rule, Cramer's rule for 3×3 systems — and closes it with matrices used for codes. North Macedonia enters from its main set — the Grade 12 Linear Algebra and Analytic Geometry elective.
+| Determinants of 2×2 and 3×3 matrices: cofactor expansion and the Sarrus rule | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 223–226 |
+| Properties of determinants: zero rows, equal rows, common factors, row swaps, transpose | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 227–228 |
+| Solving linear systems by Cramer's rule, 2×2 and 3×3 | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 235–237 |
+
+**Acceptance count: taught in 11 countries (Egypt, Cambodia, Kuwait, Laos, Nicaragua, Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan).** Egypt carries determinants and both solving methods in Secondary 1 Term 2 Unit 1 — determinants with the triangle-area application, then the 2×2 inverse with inverse-matrix and Cramer solutions. Cambodia carries 3×3 determinants and Cramer's rule in Grade 11 Basic Chapter 4, with all four worked systems on printed p.135 verified, including the no-solution and dependent cases. Kuwait carries the 2×2 determinant, the inverse formula and both solving methods for two unknowns in Grade 10 Term 2 Unit 7 — 2×2 only, as filed: no 3×3 determinants there. Laos carries determinants and inverse matrices in Grade 12 Chapter 3, stated as AX = B ⇒ X = A⁻¹B. Nicaragua carries the fullest determinants run — minors, cofactors, Sarrus' rule, Cramer's rule for 3×3 systems — and closes it with matrices used for codes. North Macedonia enters from its main set — the Grade 12 Linear Algebra and Analytic Geometry elective.
 
 Rwanda teaches determinants and Cramer's rule in Advanced Mathematics Senior Five Unit 7 — Sarrus' rule, minors and cofactors, determinant properties, the adjugate inverse, and 3×3 systems solved by the inverse matrix and by Cramer's rule — with its Teacher's Guide extending the determinant to general order n × n.
 
@@ -78,3 +83,5 @@ India enters determinants and Cramer's rule from Mathematics Class 12: determina
 Mongolia enters through its ministry textbooks Математик X, XI (Grades 10, 11): definition; properties; determinant cases.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *La Matemática y el Vivir Bien* (Grade 11). From its books: from Grade 11: determinant defined by cofactor expansion: minors and the sign (−1)^(i+j).
+
+Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 11: determinants of 2×2 and 3×3 matrices: cofactor expansion and the Sarrus rule; properties of determinants: zero rows, equal rows, common factors, row swaps, transpose; solving linear systems by Cramer's rule, 2×2 and 3×3.

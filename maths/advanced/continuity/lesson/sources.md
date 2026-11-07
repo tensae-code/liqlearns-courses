@@ -1,6 +1,6 @@
 # Sources — Continuity
 
-countries: Kuwait, Laos, Armenia, Vietnam, Libya, Pakistan, Yemen, Indonesia, Nepal, Egypt, Cambodia, Syria, Sudan, India, Venezuela
+countries: Kuwait, Laos, Armenia, Vietnam, Libya, Pakistan, Yemen, Indonesia, Nepal, Egypt, Cambodia, Syria, Sudan, India, Venezuela, Afghanistan
 
 Every part traces to its book and page.
 
@@ -24,6 +24,7 @@ Every part traces to its book and page.
 **Book 16:** *Specialized Mathematics, Book Two, Grade 12 (science track)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, revised issue, Arabic, ISBN 978-99942-53-17-3. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 17:** *Mathematics — Textbook for Class XII, Parts I–II* (ONE work in two volumes: continuous chapters 1–13 and continuous printed pagination 1–587) — India, NCERT, New Delhi, first edition November 2006, 2020-21 printing; Part I ISBN 81-7450-629-2 (Part II prints no ISBN). Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy of Part I lacks its appendices, answers and supplementary material, and the held copy of Part II has no front matter; nothing is cited from either.
 **Book 18:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 19:** *ریاضی صنف ۱۲ (Mathematics, Grade 12)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Held complete through printed p. 280; a final printed p. 281 may exist beyond the held copy, and nothing is cited from it. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -44,7 +45,11 @@ Every part traces to its book and page.
 | Composition — continuity of composite functions (theorem); continuity of sin(x²), |x| etc. by composition | India, Mathematics Class 12 Part I, printed p. 158 |
 
 | Continuity explained geometrically (graph drawn without lifting the pencil); exponential function is continuous | Venezuela, Naturaleza Matemática (Grade 10), printed p. 113 |
-**Acceptance count: taught in 15 countries (Kuwait, Laos, Armenia, Vietnam, Libya, Pakistan, Yemen, Indonesia, Nepal, Egypt, Cambodia, Syria, Sudan, India, Venezuela).** Kuwait teaches continuity, its theorems and continuity on an interval as three lessons of Grade 12 Term 1. Laos states the three conditions and works discontinuities in Grade 10. Armenia teaches continuity of a function and then of the elementary functions in Grade 11. Vietnam closes its limits chapter with continuous functions as their own lesson. Libya closes its limits chapter with continuity at a point and revisits it with differentiation. Pakistan teaches the three conditions with removable and jump discontinuities in Classes 11 and 12. Yemen teaches continuity as its own Grade 11 Science lesson and applies it to trigonometric functions in Grade 12. Indonesia states continuity as a definition in the Revisi Grade 12 book. Nepal teaches the three conditions in Grade 10 Optional, with the worked (x² + x − 6)/(x + 3) case, and its calculus stops at continuity. Egypt closes its Pure Grade 11 limits unit with continuity at a point and on an interval. Cambodia teaches continuity in Grade 12 Basic and states the three conditions, interval continuity and the Intermediate Value Theorem in its PRIVATE Khem Putthi Limits and Continuity booklet.
+
+| Continuity at a point; the three conditions | Afghanistan, Mathematics Grade 12 (Dari), printed pp. 29–31 |
+| Types of discontinuity | Afghanistan, Mathematics Grade 12 (Dari), printed p. 31 |
+| Continuity of sums, products, quotients and composites | Afghanistan, Mathematics Grade 12 (Dari), printed pp. 31–35 |
+**Acceptance count: taught in 16 countries (Kuwait, Laos, Armenia, Vietnam, Libya, Pakistan, Yemen, Indonesia, Nepal, Egypt, Cambodia, Syria, Sudan, India, Venezuela, Afghanistan).** Kuwait teaches continuity, its theorems and continuity on an interval as three lessons of Grade 12 Term 1. Laos states the three conditions and works discontinuities in Grade 10. Armenia teaches continuity of a function and then of the elementary functions in Grade 11. Vietnam closes its limits chapter with continuous functions as their own lesson. Libya closes its limits chapter with continuity at a point and revisits it with differentiation. Pakistan teaches the three conditions with removable and jump discontinuities in Classes 11 and 12. Yemen teaches continuity as its own Grade 11 Science lesson and applies it to trigonometric functions in Grade 12. Indonesia states continuity as a definition in the Revisi Grade 12 book. Nepal teaches the three conditions in Grade 10 Optional, with the worked (x² + x − 6)/(x + 3) case, and its calculus stops at continuity. Egypt closes its Pure Grade 11 limits unit with continuity at a point and on an interval. Cambodia teaches continuity in Grade 12 Basic and states the three conditions, interval continuity and the Intermediate Value Theorem in its PRIVATE Khem Putthi Limits and Continuity booklet.
 
 Syria defines continuity at a point and on an interval in Grade 12 Part One, proves differentiable implies continuous, tabulates the continuous reference functions, and proves root existence and uniqueness from continuity with strict monotonicity.
 
@@ -53,3 +58,5 @@ Sudan defines continuity in Grade 12 Specialized Book Two, inside its calculus a
 India enters continuity from Mathematics Class 12: continuity at a point defined by lim(x→c) f(x) = f(c); checking continuity at a point.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Naturaleza Matemática* (Grade 10). From its books: from Grade 10: continuity explained geometrically (graph drawn without lifting the pencil); exponential function is continuous.
+
+Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 12: continuity at a point; the three conditions; types of discontinuity; continuity of sums, products, quotients and composites.

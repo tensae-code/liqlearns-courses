@@ -1,6 +1,6 @@
 # Sources — Measuring
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan
 
 Every part traces to its book and page.
 
@@ -330,6 +330,9 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 175:** *МАТЕМАТИКА ЗА ПЕТТО ОДДЕЛЕНИЕ* (Mathematics for Grade 5) — North Macedonia, Татјана Атанасова-Пачемска, Добри Јовевски, Виолета Поповска и Валдета Алија (Tatjana Atanasova-Pačemska, Dobri Jovevski, Violeta Popovska & Valdeta Alija), Ministry of Education and Science, Skopje 2022, approval № 26-1441/1 of 14.10.2022, ISBN 978-608-273-180-3. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 176:** *МАТЕМАТИКА 6* (Mathematics 6) — North Macedonia, Крутан Расими, Валентина Гоговска и Снежана Ристовска (Krutan Rasimi, Valentina Gogovska & Snežana Ristovska), Ministry of Education and Science, Skopje 2023, approval № 26-2185/1 of 15.09.2023; no ISBN is printed anywhere in the book. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 177:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 178:** *ریاضی (Mathematics, Grade 1)* — Afghanistan, Ministry of Education, Kabul, printing year 1398 HS. One work in two language editions — Dari (ریاضی) and Pashto (رياضي) — parallel editions with identical page maps, cited as one book; no ISBN printed in either edition. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 179:** *ریاضی, صنف چهارم (Mathematics, Grade 4)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 180:** *ریاضی, صنف ششم (Mathematics, Grade 6)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -728,7 +731,19 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | The micron (µm): converting µm ↔ mm ↔ cm; stacking 1.2 mm layers in a 2 cm box | North Macedonia, Grade 7, Theme 4, printed p. 280 |
 | Mass instruments and unit conversions | North Macedonia, Grade 7, Theme 4, printed p. 285 |
 
-**Acceptance count: taught in 33 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela).**.** Sierra Leone carries the cleanest Iran compares longer and shorter and heavier and lighter in Grade 1 — the heavier-marking activity is at printed p. 168 — reads the clock there too, and measures length in centimetres and millimetres in Grade 2.
+| Big and small: comparing objects by eye (Lesson 26) | Afghanistan, Mathematics Grade 1 (Pashto and Dari editions), printed p. 62 |
+| Light and heavy: comparing with a balance, a seesaw and lifting (Lesson 27) | Afghanistan, Mathematics Grade 1 (Pashto and Dari editions), printed p. 63 |
+| Heavier than / lighter than: statements and fill-ins (Lesson 28) | Afghanistan, Mathematics Grade 1 (Pashto and Dari editions), printed p. 64 |
+| Long and short: comparing lengths by eye (Lesson 29) | Afghanistan, Mathematics Grade 1 (Pashto and Dari editions), printed p. 65 |
+| Measuring length: metre, centimetre, millimetre, kilometre and their conversions (Lesson 36) (the p. 128 worked example (5 m = 5000 mm) prints the word for millilitre where millimetre is meant; taught corrected as millimetre) | Afghanistan, Mathematics Grade 4 (Dari), printed pp. 128–130 |
+| Measuring mass: gram, kilogram and their conversions (Lesson 37) | Afghanistan, Mathematics Grade 4 (Dari), printed pp. 131–132 |
+| Measuring capacity: litre, millilitre and their conversions (Lesson 38) | Afghanistan, Mathematics Grade 4 (Dari), printed pp. 133–134 |
+| Length: the metre, its multiples and submultiples, and conversions | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 137–141 |
+| Mass: gram, kilogram, tonne, and conversions | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 142–145 |
+| Capacity: the litre and the millilitre | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 152–154 |
+| Geometry instruments — ruler, dividers and compasses: measuring length, dividing a segment into equal parts, drawing circles | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 155–158 |
+
+**Acceptance count: taught in 34 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan).**.** Sierra Leone carries the cleanest Iran compares longer and shorter and heavier and lighter in Grade 1 — the heavier-marking activity is at printed p. 168 — reads the clock there too, and measures length in centimetres and millimetres in Grade 2.
 single ladder — length, mass and volume distinguished, then the
 three conversion tables in JSS 1. Jordan carries the four
 standard units in one Grade 2 unit (centimetre, metre, gram and
@@ -768,3 +783,5 @@ India carries measuring through its NCERT ladder — Math-Magic Class 1–5 and 
 Mongolia enters through its ministry textbooks Математик I, II, III, IV, V, VI, IX (Grades 1, 2, 3, 4, 5, 6, 9): measuring built year by year — heavy and light by hand and balance first, then the litre and the kilogram, the full unit ladders for length, mass and capacity with conversions, and traditional body measures named inside the Grade 4 length and weight work.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Contemos... 1, 2, 3 y 4* (Grade 1), *Triángulos, rectángulos y algo más...* (Grade 2), *Aventuras de Patacalientes* (Grade 3), *Contando con los recursos* (Grade 4), *La Patria Buena* (Grade 5) and *Matemática Para La Vida* (Grade 7). From its books: from Grade 1: body measures: the span — the cuarta (thumb-to-little-finger span) as a common measure; measuring glasses and tables with it; a cuarta differs from person to person, so it is not exact; from Grade 4: why a metric system — why unified measures are needed; history (1792 Delambre and Méchain; the metre as the ten-millionth of the meridian quadrant); from Grade 7: conversion — Length conversion inside the GCD problem: 20 m = 2.000 cm by multiplying by 100.
+
+Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 1: big and small: comparing objects by eye (Lesson 26); light and heavy: comparing with a balance, a seesaw and lifting (Lesson 27); heavier than / lighter than: statements and fill-ins (Lesson 28); long and short: comparing lengths by eye (Lesson 29); from Grade 4: measuring length: metre, centimetre, millimetre, kilometre and their conversions (Lesson 36); measuring mass: gram, kilogram and their conversions (Lesson 37); measuring capacity: litre, millilitre and their conversions (Lesson 38); from Grade 6: length: the metre, its multiples and submultiples, and conversions; mass: gram, kilogram, tonne, and conversions; capacity: the litre and the millilitre; geometry instruments — ruler, dividers and compasses: measuring length, dividing a segment into equal parts, drawing circles.

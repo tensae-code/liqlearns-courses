@@ -1,6 +1,6 @@
 # Sources — Functions
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela
+countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan
 
 Every part traces to its book and page.
 
@@ -171,6 +171,8 @@ CITATION CHECK PASSED 2026-11-05).
 **Book 101:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 102:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 103:** *МАТЕМАТИКА II* (Mathematics II — textbook for the second year of gymnasium education) — North Macedonia, Д-р Верица Бакева Смиљкова и проф. Горан Михајлоски (Dr Verica Bakeva Smilkova & Prof. Goran Mihajloski), АЛБИ (Albi), Skopje 2026, first edition, approval № 26-644/1 of 21.05.2026, ISBN 978-608-241-093-7. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 104:** *ریاضی, صنف ۸ (Mathematics, Grade 8)* — Afghanistan, Ministry of Education, Kabul (Dari); the book disagrees with itself on the year — 1399 HS on the cover and title page, 1398 HS on the specifications page — and both printings are carried as filed; no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 105:** *ریاضی صنف دهم (Mathematics, Grade 10)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -381,7 +383,30 @@ CITATION CHECK PASSED 2026-11-05).
 | Properties of the quadratic function | North Macedonia, Grade 11, §3.5, printed p. 131 |
 | Course (behaviour) and graph of the quadratic function, full sketch routine | North Macedonia, Grade 11, §3.6, printed p. 138 |
 
-**Acceptance count: taught in 28 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela).**.** Egypt carries the
+| Forming linear relations | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 213–214 |
+| Function | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 215–216 |
+| Chapter key points and exercises (relation and function) | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 217–218 |
+| Functions as special relations; function notation | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 69–72 |
+| Ways of writing a function; evaluating a function | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 73–76 |
+| Domain of a function | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 77–78 |
+| Graph of a function; vertical line test | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 79–82 |
+| Domain and range from a graph; intercepts | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 83–86 |
+| Constant function | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 87–88 |
+| Greatest-integer (floor) function and its graph | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 90–91 |
+| Signum function | Afghanistan, Mathematics Grade 10 (Dari), printed p. 92 |
+| Increasing and decreasing functions | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 93–94 |
+| Even and odd functions | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 95–96 |
+| Translation of graphs (vertical, horizontal, combined) | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 97–102 |
+| Operations on functions (sum, difference, product, quotient) and their domains | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 103–106 |
+| Composition of functions | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 107–110 |
+| Inverse functions; one-to-one functions | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 111–113 |
+| One-to-one test from a graph (horizontal line test) | Afghanistan, Mathematics Grade 10 (Dari), printed p. 114 |
+| Finding the inverse; graph of a function and its inverse | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 115–118 |
+| Polynomial functions: linear (degree 1) function and graph | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 119–120 |
+| Quadratic function and its graph (parabola, vertex, axis of symmetry, discriminant) | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 121–128 |
+| Rational functions and their graphs; vertical, horizontal and oblique asymptotes | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 129–138 |
+
+**Acceptance count: taught in 29 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan).**.** Egypt carries the
 fullest build — Cartesian product, relation, function, domain
 and range in Preparatory 3; the sign of a function in
 Secondary 1; the inverse function in Grade 11 Pure. Jordan
@@ -424,3 +449,5 @@ Sudan defines the function in Grade 9 with unusual completeness — evaluation, 
 India stocks functions from Mathematics Class 10–12: graphs of polynomials; function concept; types of functions.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Conciencia Matemática* (Grade 8), *La Matemática de la Belleza* (Grade 9) and *Naturaleza Matemática* (Grade 10). From its books: from Grade 8: definition — linear function f(x) = ax + b (book requires a ≠ 0); each x has exactly one image f(x); from Grade 9: function, variables — infant-mortality rate as a function of the year; independent/dependent variables; discrete vs continuous variables; a relation is a function when each input has exactly one output; from Grade 10: range of a function read from its graph ([250, 310]); the y-intercept f(0) = 310.
+
+Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 8: forming linear relations; function; chapter key points and exercises (relation and function); from Grade 10: functions as special relations; function notation; ways of writing a function; evaluating a function; domain of a function; graph of a function; vertical line test; domain and range from a graph; intercepts; constant function; greatest-integer (floor) function and its graph; signum function; increasing and decreasing functions; even and odd functions; translation of graphs (vertical, horizontal, combined); operations on functions (sum, difference, product, quotient) and their domains; composition of functions; inverse functions; one-to-one functions; one-to-one test from a graph (horizontal line test); finding the inverse; graph of a function and its inverse; polynomial functions: linear (degree 1) function and graph; quadratic function and its graph (parabola, vertex, axis of symmetry, discriminant); rational functions and their graphs; vertical, horizontal and oblique asymptotes.

@@ -1,6 +1,6 @@
 # Sources — Rate of Change
 
-countries: Sudan, India, Mongolia, Venezuela
+countries: Sudan, India, Mongolia, Venezuela, Afghanistan
 
 Every part traces to its book and page.
 
@@ -10,6 +10,7 @@ Every part traces to its book and page.
 **Book 4:** *Математик XI (Mathematics, Grade 11)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 5:** *Conciencia Matemática* — Venezuela, Grade 8 (2do año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-320-3. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 6:** *La Matemática de la Belleza* — Venezuela, Grade 9 (3er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-329-6. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 7:** *ریاضی صنف ۱۲ (Mathematics, Grade 12)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Held complete through printed p. 280; a final printed p. 281 may exist beyond the held copy, and nothing is cited from it. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -30,7 +31,9 @@ Every part traces to its book and page.
 | Modelling — line fitted through (2, 950.000) and (9, 1.600.000): slope 650.000/7 ≈ 92.857,1 per step (see Errors: the book's stated intercept does not fit these points) | Venezuela, Conciencia Matemática (Grade 8), printed p. 111 |
 | Average rate of change — VPT = (f(b) − f(a)) ÷ (b − a): cryotherapy (38,5 − 39) ÷ 25 = −0,02 °C/min, and −0,03 °C/min between minutes 5 and 15; the rate is the slope of the secant | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 141–143 |
 
-**Acceptance count: taught in 4 countries (Sudan, India, Mongolia, Venezuela).** Sudan's Grade 8 book teaches rate of change as a complete pre-calculus topic in its ratio-and-rate unit (the lesson runs printed pp. 52–55, with the constant-rate lesson closing at printed p. 58): defined from a growing school's admissions, worked on a child's height growth, signed for falling quantities, and tested for constancy in tables. No other read country's filing gives the average rate of change a standalone treatment of its own — elsewhere it appears as the opening step of the derivatives lesson, where it also lives — so this lesson is built at the size of its one source, and the derivatives lesson carries Sudan's two Grade 12 treatments of the same doorway.
+| Average rate of change; average velocity | Afghanistan, Mathematics Grade 12 (Dari), printed p. 46 |
+
+**Acceptance count: taught in 5 countries (Sudan, India, Mongolia, Venezuela, Afghanistan).** Sudan's Grade 8 book teaches rate of change as a complete pre-calculus topic in its ratio-and-rate unit (the lesson runs printed pp. 52–55, with the constant-rate lesson closing at printed p. 58): defined from a growing school's admissions, worked on a child's height growth, signed for falling quantities, and tested for constancy in tables. No other read country's filing gives the average rate of change a standalone treatment of its own — elsewhere it appears as the opening step of the derivatives lesson, where it also lives — so this lesson is built at the size of its one source, and the derivatives lesson carries Sudan's two Grade 12 treatments of the same doorway.
 
 India enters rate of change from Mathematics Class 11–12: average and instantaneous rate; rate of change of a quantity y = f(x): dy/dx as (change in y)/(change in x); related-rates problems (area of circle, volume of cube, ripple circles, rectangle).
 
@@ -38,3 +41,5 @@ India enters rate of change from Mathematics Class 11–12: average and instanta
 Mongolia enters through its ministry textbooks Математик XI (Grade 11): average rate of change.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Conciencia Matemática* (Grade 8) and *La Matemática de la Belleza* (Grade 9). From its books: from Grade 8: definition — slope as rise/run from ramps: height ÷ horizontal projection (42/100 = 0,42 up to 176/100 = 1,76); from Grade 9: average rate of change — VPT = (f(b) − f(a)) ÷ (b − a): cryotherapy (38,5 − 39) ÷ 25 = −0,02 °C/min, and −0,03 °C/min between minutes 5 and 15; the rate is the slope of the secant.
+
+Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 12: average rate of change; average velocity.

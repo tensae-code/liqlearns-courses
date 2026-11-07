@@ -1,6 +1,6 @@
 # Sources — Trigonometric Functions
 
-countries: China, Pakistan, Iraq, Greece, Iran, Vietnam, Ethiopia, South Sudan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia
+countries: China, Pakistan, Iraq, Greece, Iran, Vietnam, Ethiopia, South Sudan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan
 
 Every part traces to its book and page.
 
@@ -32,6 +32,7 @@ Every part traces to its book and page.
 **Book 19:** *Математик XII (Mathematics, Grade 12)* — Mongolia, Ministry of Education, second edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 20:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 21:** *МАТЕМАТИКА ЗА III ГОДИНА НА РЕФОРМИРАНОТО ГИМНАЗИСКО ОБРАЗОВАНИЕ* (Mathematics for the third year of the reformed gymnasium education) — North Macedonia, Јорданка Митевска, Иван Трајков и Лилјана Грибовска-Поповиќ (Jordanka Mitevska, Ivan Trajkov & Liljana Gribovska-Popovik), Просветно дело АД, Skopje, II издание (second edition), 2018 printing (its CIP block carries the 2003 first-edition record, ISBN 9989-0-0343-0). Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 22:** *ریاضی صنف دهم (Mathematics, Grade 10)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -90,7 +91,16 @@ Every part traces to its book and page.
 | Course and graph of the basic trigonometric functions | North Macedonia, Grade 12, Mathematics, §2.2.1, printed p. 73 |
 | Course and graph of y = a sin(bx + c) + d (amplitude, period, phase shift) | North Macedonia, Grade 12, Mathematics, §2.2.2, printed p. 81 |
 | Course and graph of y = a cos(bx + c) + d | North Macedonia, Grade 12, Mathematics, §2.2.3, printed p. 90 |
-**Acceptance count: taught in 16 countries (China, Pakistan, Iraq, Greece, Iran, Vietnam, Ethiopia, South Sudan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia).** China carries the full chapter — trig functions of a general angle, the graphs, y = A sin(ωx + φ), and the tide model — with its teacher guide as teacher evidence for the sine-line-first order. Pakistan carries all six functions with their domains and ranges, the sinusoidal family a + b sin(cθ + d), and Ferris-wheel and tide models. Iraq carries the circular functions whole in Grade 11 Scientific, and contributes a corrected calculator value from Grade 10 Scientific (tan(−36°) ≈ −0.7265, not the printed −0.588). Greece carries trig functions of any angle inside its B' Lykeiou trigonometry chapter. Iran carries periodicity and the tangent function's graph in Hesaban (2). Vietnam carries trigonometric functions as a named lesson in Toán 11 Volume 1. Ethiopia carries the graphs of sin, cos and tan with period, amplitude and the tangent's asymptotes in Grade 10. South Sudan carries trig graphs in Secondary 4. North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
+
+| Standard position of an angle; coterminal angles; quadrantal angles | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 159–162 |
+| Trigonometric functions of an angle in standard position; signs by quadrant | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 163–168 |
+| Trigonometric ratios of 0°, 90°, 180°, 270°, 360° | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 173–176 |
+| Graphs of trigonometric functions; period (sin, cos) | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 193–202 |
+| Graph of the tangent function | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 203–206 |
+| Graph of the cotangent function | Afghanistan, Mathematics Grade 10 (Dari), printed p. 207 |
+| Graph of the secant function | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 208–209 |
+| Graph of the cosecant function | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 210–212 |
+**Acceptance count: taught in 17 countries (China, Pakistan, Iraq, Greece, Iran, Vietnam, Ethiopia, South Sudan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan).** China carries the full chapter — trig functions of a general angle, the graphs, y = A sin(ωx + φ), and the tide model — with its teacher guide as teacher evidence for the sine-line-first order. Pakistan carries all six functions with their domains and ranges, the sinusoidal family a + b sin(cθ + d), and Ferris-wheel and tide models. Iraq carries the circular functions whole in Grade 11 Scientific, and contributes a corrected calculator value from Grade 10 Scientific (tan(−36°) ≈ −0.7265, not the printed −0.588). Greece carries trig functions of any angle inside its B' Lykeiou trigonometry chapter. Iran carries periodicity and the tangent function's graph in Hesaban (2). Vietnam carries trigonometric functions as a named lesson in Toán 11 Volume 1. Ethiopia carries the graphs of sin, cos and tan with period, amplitude and the tangent's asymptotes in Grade 10. South Sudan carries trig graphs in Secondary 4. North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
 
 Syria studies the tangent function completely in Grade 12 Part One — domain, period, asymptotes and derivative.
 
@@ -106,3 +116,5 @@ India enters trigonometric functions from Mathematics Class 11: definitions on t
 Mongolia enters through its ministry textbooks Математик XII (Grade 12): functions of a real argument; parity and periodicity; graphs.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Naturaleza Matemática* (Grade 10). From its books: from Grade 10: sine function built from the unit/trigonometric circle (opposite leg over angles in radians); the six trigonometric functions named.
+
+Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 10: standard position of an angle; coterminal angles; quadrantal angles; trigonometric functions of an angle in standard position; signs by quadrant; trigonometric ratios of 0°, 90°, 180°, 270°, 360°; graphs of trigonometric functions; period (sin, cos); graph of the tangent function; graph of the cotangent function; graph of the secant function; graph of the cosecant function.

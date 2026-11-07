@@ -1,6 +1,6 @@
 # Sources — Perimeter and Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan
 
 Every part traces to its book and page.
 
@@ -341,6 +341,9 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 168:** *МАТЕМАТИКА 6* (Mathematics 6) — North Macedonia, Крутан Расими, Валентина Гоговска и Снежана Ристовска (Krutan Rasimi, Valentina Gogovska & Snežana Ristovska), Ministry of Education and Science, Skopje 2023, approval № 26-2185/1 of 15.09.2023; no ISBN is printed anywhere in the book. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 169:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 170:** *МАТЕМАТИКА II* (Mathematics II — textbook for the second year of gymnasium education) — North Macedonia, Д-р Верица Бакева Смиљкова и проф. Горан Михајлоски (Dr Verica Bakeva Smilkova & Prof. Goran Mihajloski), АЛБИ (Albi), Skopje 2026, first edition, approval № 26-644/1 of 21.05.2026, ISBN 978-608-241-093-7. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 171:** *ریاضی, صنف چهارم (Mathematics, Grade 4)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 172:** *ریاضی, صنف ششم (Mathematics, Grade 6)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 173:** *ریاضی صنف دهم (Mathematics, Grade 10)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -623,7 +626,28 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Perimeter and area of a triangle | North Macedonia, Grade 11, §6.3, printed p. 271 |
 | Perimeter and area of a trapezium and a deltoid (kite) | North Macedonia, Grade 11, §6.4, printed p. 278 |
 
-**Acceptance count: taught in 34 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia).** Sierra Leone carries the cleanest Iran counts squares for area in Grade 3, derives the parallelogram and triangle areas in Grade 4, adds the rhombus and trapezium in Grade 5, and reaches polygon areas in Grade 10 Geometry (1) and Heron's formula in Grade 11 Geometry (2).
+| Perimeter of a triangle (Lesson 23) | Afghanistan, Mathematics Grade 4 (Dari), printed pp. 92–94 |
+| Perimeter of a rectangle (Lesson 24) | Afghanistan, Mathematics Grade 4 (Dari), printed pp. 95–98 |
+| Perimeter of a square (Lesson 25) | Afghanistan, Mathematics Grade 4 (Dari), printed pp. 99–102 |
+| Perimeter of a pentagon (Lesson 26) | Afghanistan, Mathematics Grade 4 (Dari), printed pp. 103–104 |
+| Perimeter of a hexagon (Lesson 27) | Afghanistan, Mathematics Grade 4 (Dari), printed pp. 105–106 |
+| Surface (area) — first introduction (Lesson 28) | Afghanistan, Mathematics Grade 4 (Dari), printed pp. 107–108 |
+| The unit of area; area of a square (Lesson 30) | Afghanistan, Mathematics Grade 4 (Dari), printed pp. 111–114 |
+| Area of a rectangle (Lesson 31) | Afghanistan, Mathematics Grade 4 (Dari), printed pp. 115–116 |
+| Units of area and their conversions | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 148–149 |
+| Area of a rectangle | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 168–169 |
+| Area of a square | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 170–171 |
+| Area of a triangle | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 172–173 |
+| Area of a rhombus | Afghanistan, Mathematics Grade 6 (Dari), printed p. 176 |
+| Area of a parallelogram, including by a diagonal and its altitude | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 177–178 |
+| Area of a trapezium | Afghanistan, Mathematics Grade 6 (Dari), printed p. 180 |
+| Area of an irregular quadrilateral by splitting it into triangles | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 181–182 |
+| Area of a circular sector | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 251–253 |
+| Area of a circular segment | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 254–256 |
+| Area of a triangle from two sides and the included angle | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 257–258 |
+| Area of a triangle from three sides (Heron's formula) | Afghanistan, Mathematics Grade 10 (Dari), printed p. 262 |
+
+**Acceptance count: taught in 35 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan).** Sierra Leone carries the cleanest Iran counts squares for area in Grade 3, derives the parallelogram and triangle areas in Grade 4, adds the rhombus and trapezium in Grade 5, and reaches polygon areas in Grade 10 Geometry (1) and Heron's formula in Grade 11 Geometry (2).
 ladder — perimeter short cuts, rectangle and triangle areas with
 the perpendicular-height rule, and the parallelogram, trapezium
 and composite areas in JSS 2. Jordan carries perimeter and area
@@ -665,3 +689,5 @@ India carries perimeter and area through its NCERT ladder — Math-Magic Class 4
 Mongolia enters through its ministry textbooks Математик II, III, IV, V, VI, VII, VIII, IX, X, XII (Grades 2, 3, 4, 5, 6, 7, 8, 9, 10, 12): perimeter introduced; perimeter problems; area as counting unit squares.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Triángulos, rectángulos y algo más...* (Grade 2), *Contando con los recursos* (Grade 4), *La Patria Buena* (Grade 5), *Hecho en Venezuela* (Grade 6), *Matemática Para La Vida* (Grade 7) and *Naturaleza Matemática* (Grade 10). From its books: from Grade 2: perimeter — the sum of the measures of a figure's sides is its perímetro (tangram pieces measured and summed); from Grade 6: grid areas — Areas inside a tessellation grid (9 cm × 6 cm rectangle, coloured squares and triangles) using A = b × h and A = b × h / 2; from Grade 10: total length of a composite track (straights + two semicircle arcs) ≈ 3.56 km.
+
+Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 4: perimeter of a triangle (Lesson 23); perimeter of a rectangle (Lesson 24); perimeter of a square (Lesson 25); perimeter of a pentagon (Lesson 26); perimeter of a hexagon (Lesson 27); surface (area) — first introduction (Lesson 28); the unit of area; area of a square (Lesson 30); area of a rectangle (Lesson 31); from Grade 6: units of area and their conversions; area of a rectangle; area of a square; area of a triangle; area of a rhombus; area of a parallelogram, including by a diagonal and its altitude; area of a trapezium; area of an irregular quadrilateral by splitting it into triangles; from Grade 10: area of a circular sector; area of a circular segment; area of a triangle from two sides and the included angle; area of a triangle from three sides (Heron's formula).

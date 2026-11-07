@@ -1,6 +1,6 @@
 # Sources — Congruence and similarity
 
-countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela
+countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan
 
 Every part traces to its book and page.
 
@@ -167,6 +167,8 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 **Book 81:** *Conciencia Matemática* — Venezuela, Grade 8 (2do año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-320-3. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 82:** *La Matemática de la Belleza* — Venezuela, Grade 9 (3er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-329-6. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 83:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 84:** *ریاضی, صنف ۷ (Mathematics, Grade 7)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 85:** *ریاضی, صنف ۸ (Mathematics, Grade 8)* — Afghanistan, Ministry of Education, Kabul (Dari); the book disagrees with itself on the year — 1399 HS on the cover and title page, 1398 HS on the specifications page — and both printings are carried as filed; no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -338,7 +340,18 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 
 | Midline of a triangle: parallel to the third side, half its length, four congruent triangles | North Macedonia, Grade 7, Theme 2, printed p. 190 |
 
-**Acceptance count: taught in 30 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela).**.** Iran matches congruent figures by superposition in Grade 7, states the SSS, SAS and ASA criteria in Grade 8, proves congruence and meets similar figures in Grade 9, and proves Thales' theorem with the AA, SAS and SSS similarity criteria in Grade 10 Geometry (1).
+| Congruent figures | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 137–138 |
+| Congruence of triangles: SAS case | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 139–140 |
+| Congruence of triangles: ASA case | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 141–142 |
+| Congruence of triangles: SSS case | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 143–146 |
+| Congruence of right-angled triangles (RHS case) | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 147–148 |
+| Similar figures | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 69–70 |
+| Similar polygons | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 71–72 |
+| Parallels cut at equal distances; Thales' theorem and its converse | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 73–76 |
+| Thales' theorem in a triangle; similarity cases of triangles | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 77–84 |
+| Chapter key points and exercises (similarity) | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 85–88 |
+
+**Acceptance count: taught in 31 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan).**.** Iran matches congruent figures by superposition in Grade 7, states the SSS, SAS and ASA criteria in Grade 8, proves congruence and meets similar figures in Grade 9, and proves Thales' theorem with the AA, SAS and SSS similarity criteria in Grade 10 Geometry (1).
 Libya carries the fullest single treatment — congruence tests
 including RHS, similarity, applications, and the k² area and k³
 volume rules in one chapter (Grade 9, Chapter 8, pp.156–193).
@@ -376,3 +389,5 @@ India carries congruence and similarity through its NCERT ladder — Mathematics
 Mongolia enters through its ministry textbooks Математик VI, VII, VIII, IX (Grades 6, 7, 8, 9): definition; notation; proof.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Conciencia Matemática* (Grade 8) and *La Matemática de la Belleza* (Grade 9). From its books: from Grade 8: definition — congruent figures: same shape and size regardless of position/orientation; similar figures: same shape, any size; from Grade 9: similarity — similar figures: same shape, different size; scale factor; similarity of triangles defined by congruent corresponding angles and proportional corresponding sides.
+
+Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 7: congruent figures; congruence of triangles: SAS case; congruence of triangles: ASA case; congruence of triangles: SSS case; congruence of right-angled triangles (RHS case); from Grade 8: similar figures; similar polygons; parallels cut at equal distances; Thales' theorem and its converse; Thales' theorem in a triangle; similarity cases of triangles; chapter key points and exercises (similarity).

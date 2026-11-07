@@ -1,6 +1,6 @@
 # Sources — Volume and Surface Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan
 
 Every part traces to its book and page.
 
@@ -290,6 +290,8 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 132:** *La Matemática y el Vivir Bien* — Venezuela, Grade 11 (5to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-344-9. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 133:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 134:** *МАТЕМАТИКА II* (Mathematics II — textbook for the second year of gymnasium education) — North Macedonia, Д-р Верица Бакева Смиљкова и проф. Горан Михајлоски (Dr Verica Bakeva Smilkova & Prof. Goran Mihajloski), АЛБИ (Albi), Skopje 2026, first edition, approval № 26-644/1 of 21.05.2026, ISBN 978-608-241-093-7. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 135:** *ریاضی, صنف ششم (Mathematics, Grade 6)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 136:** *ریاضی, صنف ۸ (Mathematics, Grade 8)* — Afghanistan, Ministry of Education, Kabul (Dari); the book disagrees with itself on the year — 1399 HS on the cover and title page, 1398 HS on the specifications page — and both printings are carried as filed; no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -525,7 +527,18 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Surface area of a sphere and parts of a sphere | North Macedonia, Grade 11, §6.10, printed p. 312 |
 | Volume of a ball and its parts | North Macedonia, Grade 11, §6.11, printed p. 319 |
 
-**Acceptance count: taught in 34 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela).**.** Sierra Leone carries the cleanest Iran gives the cuboid's volume in Grade 5, prism volumes and the cylinder's lateral area in Grade 7, and the sphere, pyramid and cone in Grade 9; its Grade 10 Geometry (1) treats the solids themselves without computing their volumes.
+| Units of volume and their conversions | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 150–151 |
+| The cube: total surface area and volume | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 192–193 |
+| The cuboid and its volume | Afghanistan, Mathematics Grade 6 (Dari), printed p. 193 |
+| Area and volume of a cuboid; diagonal of a cuboid and of a cube | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 137–140 |
+| Area and volume of a prism | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 141–142 |
+| Area and volume of a cylinder | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 143–144 |
+| Area and volume of a pyramid | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 145–148 |
+| Area and volume of a cone (the cone working on p. 150 prints the factor 4.17 for 3.14 × 1.5 = 4.71; taught corrected — the printed result and total are right) | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 149–150 |
+| Surface area and volume of a sphere | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 151–152 |
+| Chapter key points and exercises (areas and volumes) | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 153–156 |
+
+**Acceptance count: taught in 35 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan).**.** Sierra Leone carries the cleanest Iran gives the cuboid's volume in Grade 5, prism volumes and the cylinder's lateral area in Grade 7, and the sphere, pyramid and cone in Grade 9; its Grade 10 Geometry (1) treats the solids themselves without computing their volumes.
 ladder — cubes, prisms and cylinders by cross-section × height,
 then surface areas by the net, in JSS 2. Egypt carries volume by
 counting unit cubes through V = l × w × h in Grade 5 and the
@@ -570,3 +583,5 @@ India stocks volume and surface area from Math-Magic Class 5 and Mathematics Cla
 Mongolia enters through its ministry textbooks Математик III, IV, V, VI, VII, VIII, IX, X (Grades 3, 4, 5, 6, 7, 8, 9, 10): the cube's net; nets: area of a cube's net; counting cubes; nets of the cube and the cylinder.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Hecho en Venezuela* (Grade 6), *Conciencia Matemática* (Grade 8), *La Matemática de la Belleza* (Grade 9) and *La Matemática y el Vivir Bien* (Grade 11). From its books: from Grade 6: unit cubes — Volume as space occupied, measured in unit cubes; mm³, cm³, dm³, m³ as cubes of that edge; from Grade 9: volume by experiment — a cone holds exactly one third of the same-base, same-height cylinder (sand filling); the book also derives the sphere as 2/3 of the circumscribing cylinder; from Grade 11: a solid of revolution defined: a plane region rotated about an axis; cylinder, cone and sphere generated by rotating a rectangle, a right triangle and a semicircle (hands-on card constructions); axis, height, radius, generatrix.
+
+Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 6: units of volume and their conversions; the cube: total surface area and volume; the cuboid and its volume; from Grade 8: area and volume of a cuboid; diagonal of a cuboid and of a cube; area and volume of a prism; area and volume of a cylinder; area and volume of a pyramid; area and volume of a cone; surface area and volume of a sphere; chapter key points and exercises (areas and volumes).

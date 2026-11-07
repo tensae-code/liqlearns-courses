@@ -1,6 +1,6 @@
 # Sources — Shapes
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan
 
 Every part traces to its book and page.
 
@@ -324,6 +324,10 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 193:** *МАТЕМАТИКА ЗА ПЕТТО ОДДЕЛЕНИЕ* (Mathematics for Grade 5) — North Macedonia, Татјана Атанасова-Пачемска, Добри Јовевски, Виолета Поповска и Валдета Алија (Tatjana Atanasova-Pačemska, Dobri Jovevski, Violeta Popovska & Valdeta Alija), Ministry of Education and Science, Skopje 2022, approval № 26-1441/1 of 14.10.2022, ISBN 978-608-273-180-3. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 194:** *МАТЕМАТИКА 6* (Mathematics 6) — North Macedonia, Крутан Расими, Валентина Гоговска и Снежана Ристовска (Krutan Rasimi, Valentina Gogovska & Snežana Ristovska), Ministry of Education and Science, Skopje 2023, approval № 26-2185/1 of 15.09.2023; no ISBN is printed anywhere in the book. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 195:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 196:** *ریاضی (Mathematics, Grade 1)* — Afghanistan, Ministry of Education, Kabul, printing year 1398 HS. One work in two language editions — Dari (ریاضی) and Pashto (رياضي) — parallel editions with identical page maps, cited as one book; no ISBN printed in either edition. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 197:** *ریاضی, صنف ششم (Mathematics, Grade 6)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 198:** *ریاضی, صنف ۷ (Mathematics, Grade 7)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 199:** *ریاضی, صنف ۸ (Mathematics, Grade 8)* — Afghanistan, Ministry of Education, Kabul (Dari); the book disagrees with itself on the year — 1399 HS on the cover and title page, 1398 HS on the specifications page — and both printings are carried as filed; no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -710,7 +714,35 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Parallelogram and its properties; diagonals bisect each other | North Macedonia, Grade 7, Theme 2, printed p. 211 |
 | Rectangle, rhombus, square: special properties and converses; checking a frame is rectangular | North Macedonia, Grade 7, Theme 2, printed p. 217 |
 
-**Acceptance count: taught in 34 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
+| Rectangle, triangle, square and circle: naming and circling (Lesson 25) | Afghanistan, Mathematics Grade 1 (Pashto and Dari editions), printed p. 61 |
+| The rhombus: properties, its angles, and drawing one | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 174–175 |
+| The parallelogram: properties | Afghanistan, Mathematics Grade 6 (Dari), printed p. 177 |
+| The trapezium: bases, legs and the right trapezium | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 179–180 |
+| The irregular quadrilateral; the interior angles of a quadrilateral sum to 360 degrees | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 181–182 |
+| Solids: regular and irregular solids | Afghanistan, Mathematics Grade 6 (Dari), printed p. 191 |
+| The cylinder: its two circular bases and curved surface | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 193–194 |
+| Prisms, named by their bases; right prisms | Afghanistan, Mathematics Grade 6 (Dari), printed p. 195 |
+| Pyramids, named by their bases | Afghanistan, Mathematics Grade 6 (Dari), printed p. 196 |
+| The cone; the right cone, its axis and height | Afghanistan, Mathematics Grade 6 (Dari), printed p. 197 |
+| The sphere: centre, radius, diameter, poles and the great circle | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 198–199 |
+| Classification of triangles by their sides | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 119–120 |
+| Median, altitude and angle bisector of a triangle | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 123–124 |
+| Relation between the sides of a triangle (triangle inequality) | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 129–130 |
+| Polygons | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 131–132 |
+| Chapter summary and exercises (triangles and polygons) | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 149–154 |
+| Quadrilaterals: parallelogram, rectangle, square, rhombus and trapezium | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 167–168 |
+| Opposite angles of a parallelogram | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 169–170 |
+| Diagonals of a parallelogram bisect each other | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 173–174 |
+| Diagonals of a rectangle are equal | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 175–176 |
+| Diagonals of a rhombus (perpendicular bisectors) | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 177–178 |
+| Chapter summary and exercises (parallel lines and quadrilaterals) | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 179–184 |
+| Theorems of the isosceles triangle (base angles and converse) | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 101–104 |
+| Angle bisector theorem; the internal bisectors of a triangle are concurrent | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 119–122 |
+| Perpendicular bisector of a segment; the perpendicular bisectors of a triangle are concurrent | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 123–126 |
+| Altitudes of a triangle; medians of a triangle | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 127–130 |
+| Chapter key points and exercises (triangle theorems) | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 131–134 |
+
+**Acceptance count: taught in 35 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
 — polygons, triangles two ways, then the parallelogram family
 with its special cases. Egypt carries polygons by vertices in
 Grade 3 and the triangle/trapezium/kite sorting in Grade 5.
@@ -749,3 +781,5 @@ India carries shapes through its NCERT ladder — Math-Magic Class 1–5 and Mat
 Mongolia enters through its ministry textbooks Математик I, II, III, IV, V, VI, VII, IX (Grades 1, 2, 3, 4, 5, 6, 7, 9): shapes from the first pictured solids and flat shapes to the classified families — the cube face by face with its net, polygons named by their sides, and the quadrilateral family folded and sorted in Grade 4.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Contemos... 1, 2, 3 y 4* (Grade 1), *Triángulos, rectángulos y algo más...* (Grade 2), *Aventuras de Patacalientes* (Grade 3), *Contando con los recursos* (Grade 4), *La Patria Buena* (Grade 5), *Hecho en Venezuela* (Grade 6) and *Matemática Para La Vida* (Grade 7). From its books: from Grade 1: sphere — solids at the circus: the ball is round, has no points, only rolls — such objects are called ESFERAS; from Grade 4: polygons — from tracing solids: a closed polygonal line plus its interior is a polígono; segments named; building on a geoplano (25×25 cm board, 5×5 grid of 4 cm squares, 36 nails); from Grade 7: segments — Segments: part of a line between two endpoints; notation with a bar for the segment and plain letters (or med(·)) for its measure.
+
+Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 1: rectangle, triangle, square and circle: naming and circling (Lesson 25); from Grade 6: the rhombus: properties, its angles, and drawing one; the parallelogram: properties; the trapezium: bases, legs and the right trapezium; the irregular quadrilateral; the interior angles of a quadrilateral sum to 360 degrees; solids: regular and irregular solids; the cylinder: its two circular bases and curved surface; prisms, named by their bases; right prisms; pyramids, named by their bases; the cone; the right cone, its axis and height; the sphere: centre, radius, diameter, poles and the great circle; from Grade 7: classification of triangles by their sides; median, altitude and angle bisector of a triangle; relation between the sides of a triangle (triangle inequality); polygons; chapter summary and exercises (triangles and polygons); quadrilaterals: parallelogram, rectangle, square, rhombus and trapezium; opposite angles of a parallelogram; diagonals of a parallelogram bisect each other; diagonals of a rectangle are equal; diagonals of a rhombus (perpendicular bisectors); chapter summary and exercises (parallel lines and quadrilaterals); from Grade 8: theorems of the isosceles triangle (base angles and converse); angle bisector theorem; the internal bisectors of a triangle are concurrent; perpendicular bisector of a segment; the perpendicular bisectors of a triangle are concurrent; altitudes of a triangle; medians of a triangle; chapter key points and exercises (triangle theorems).

@@ -1,6 +1,6 @@
 # Sources — Geometry in Space
 
-countries: China, Armenia, Vietnam, Kuwait, Greece, Iraq, Yemen, Cambodia, Kazakhstan, Laos, North Macedonia, Iran, Syria, India, Mongolia
+countries: China, Armenia, Vietnam, Kuwait, Greece, Iraq, Yemen, Cambodia, Kazakhstan, Laos, North Macedonia, Iran, Syria, India, Mongolia, Afghanistan
 
 Every part traces to its book and page.
 
@@ -31,6 +31,7 @@ Every part traces to its book and page.
 **Book 23:** *Математик VIII (Mathematics, Grade 8)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 24:** *Математик IX (Mathematics, Grade 9)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 25:** *МАТЕМАТИКА II* (Mathematics II — textbook for the second year of gymnasium education) — North Macedonia, Д-р Верица Бакева Смиљкова и проф. Горан Михајлоски (Dr Verica Bakeva Smilkova & Prof. Goran Mihajloski), АЛБИ (Albi), Skopje 2026, first edition, approval № 26-644/1 of 21.05.2026, ISBN 978-608-241-093-7. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 26:** *ریاضی صنف ۱۱ (Mathematics, Grade 11)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -72,7 +73,16 @@ Every part traces to its book and page.
 | Cylinder; sections of a cylinder by a plane | North Macedonia, Grade 11, §5.11, printed p. 251 |
 | Cone; sections of a cone by a plane | North Macedonia, Grade 11, §5.12, printed p. 255 |
 
-**Acceptance count: taught in 15 countries (China, Armenia, Vietnam, Kuwait, Greece, Iraq, Yemen, Cambodia, Kazakhstan, Laos, North Macedonia, Iran, Syria, India, Mongolia).**
+| Basic concepts and axioms of solid geometry: undefined terms, theorem, logical reason, line and plane axioms | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 97–98 |
+| Line and plane in 3D space: relative positions of a line and a plane, of two lines, of two planes | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 99–102 |
+| Parallel lines in space: definition, parallel postulate, theorems | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 103–104 |
+| Angle between two lines in space: equal angles with parallel sides; skew lines | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 105–106 |
+| Parallel lines and parallel planes: a line parallel to a plane | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 107–108 |
+| Perpendicular lines and planes in space: a line perpendicular to a plane | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 109–110 |
+| Parallel planes in space | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 111–112 |
+| Chapter key points and exercises | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 113–116 |
+
+**Acceptance count: taught in 16 countries (China, Armenia, Vietnam, Kuwait, Greece, Iraq, Yemen, Cambodia, Kazakhstan, Laos, North Macedonia, Iran, Syria, India, Mongolia, Afghanistan).**
 
 China carries the full synthetic system twice, in the B-edition Compulsory Volume 4 Chapter 11 and in parallel in the A-edition Compulsory Volume 2 Chapter 8: three basic facts and corollaries, parallelism and perpendicularity as criterion-and-property systems, and the three space angles. Armenia carries the stereometry opening course in Geometry 10 Chapter I — axioms and consequences, positions including the skew-lines criterion, and line–plane perpendicularity. Vietnam carries the synthetic theorem system across both Grade 11 volumes: parallelism and parallel projection in Volume 1, perpendicularity, projection, the line–plane angle, perpendicular planes and distance in Volume 2 — the filing notes its space work is synthetic, with no space vectors. Kuwait carries the system in Grade 11 Term 2 Unit 10 — postulates, skew lines, the three-perpendiculars theorem, the dihedral angle and perpendicular planes — synthetic only, with no vectors or coordinates in space, as filed. Greece carries lines and planes in space in Euclidean Geometry Volume B Chapter 12, including Thales' theorem in space, the dihedral plane angle and projection. Iraq carries space geometry in Grade 11 Science Chapter 7 with six numbered theorems, and dihedral angles in Grade 12 Science Chapter 6, of which only the read-and-checked projection example (pp.238–240) is cited here.
 
@@ -84,3 +94,5 @@ India enters geometry in space from Mathematics Class 11–12: coordinates in sp
 
 
 Mongolia enters through its ministry textbooks Математик VIII, IX (Grades 8, 9): space geometry met first inside Grade 8's plane-geometry review — the planes of symmetry of solids, and the first positions of lines and planes in space — before Grade 9's full line-and-plane chapter.
+
+Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 11: basic concepts and axioms of solid geometry: undefined terms, theorem, logical reason, line and plane axioms; line and plane in 3D space: relative positions of a line and a plane, of two lines, of two planes; parallel lines in space: definition, parallel postulate, theorems; angle between two lines in space: equal angles with parallel sides; skew lines; parallel lines and parallel planes: a line parallel to a plane; perpendicular lines and planes in space: a line perpendicular to a plane; parallel planes in space; chapter key points and exercises.

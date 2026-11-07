@@ -1,6 +1,6 @@
 # Sources — Circles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan
 
 Every part traces to its book and page.
 
@@ -254,6 +254,9 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 **Book 130:** *МАТЕМАТИКА 6* (Mathematics 6) — North Macedonia, Крутан Расими, Валентина Гоговска и Снежана Ристовска (Krutan Rasimi, Valentina Gogovska & Snežana Ristovska), Ministry of Education and Science, Skopje 2023, approval № 26-2185/1 of 15.09.2023; no ISBN is printed anywhere in the book. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 131:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 132:** *МАТЕМАТИКА II* (Mathematics II — textbook for the second year of gymnasium education) — North Macedonia, Д-р Верица Бакева Смиљкова и проф. Горан Михајлоски (Dr Verica Bakeva Smilkova & Prof. Goran Mihajloski), АЛБИ (Albi), Skopje 2026, first edition, approval № 26-644/1 of 21.05.2026, ISBN 978-608-241-093-7. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 133:** *ریاضی, صنف چهارم (Mathematics, Grade 4)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 134:** *ریاضی, صنف ششم (Mathematics, Grade 6)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 135:** *ریاضی صنف دهم (Mathematics, Grade 10)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -444,7 +447,13 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 | Central angle and its arc; equal central angles give equal chords and arcs | North Macedonia, Grade 7, Theme 2, printed p. 162 |
 | Perimeter and area of a circle and parts of a circle | North Macedonia, Grade 11, §6.5, printed p. 284 |
 
-**Acceptance count: taught in 32 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela).**.** Kazakhstan carries the full climb — circle Iran measures the circumference in Grade 5 — with the book's own bounds for π, 3 1/7 and 3 10/71, while its exercises work with π = 3 — the area of a circle in Grade 6, circle basics in Grade 8, and the circle's equation in Grade 12 Geometry (3).
+| The circle: centre, disc, diameter, radius and chord (Lesson 29) | Afghanistan, Mathematics Grade 4 (Dari), printed pp. 109–110 |
+| Circle and disc: centre, radius, chord, arc, diameter, semicircle, segment and sector | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 183–185 |
+| The ratio of circumference to diameter: pi = 22/7 and circumference = pi x diameter | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 186–188 |
+| Arc length | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 249–250 |
+| Circumradius and inradius of a triangle; sine rule derived from circumradius (a/sin A = 2R) | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 262–266 |
+
+**Acceptance count: taught in 33 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan).**.** Kazakhstan carries the full climb — circle Iran measures the circumference in Grade 5 — with the book's own bounds for π, 3 1/7 and 3 10/71, while its exercises work with π = 3 — the area of a circle in Grade 6, circle basics in Grade 8, and the circle's equation in Grade 12 Geometry (3).
 parts in Grade 3, circle and disc in Grades 4 and 5, then the
 practical thread-and-glass discovery of pi with C = πD and the
 disc area in Grade 6. Jordan carries the parts in Grade 6 and
@@ -481,3 +490,5 @@ India stocks circles from Math-Magic Class 4 and Mathematics Class 6–7, 9–10
 Mongolia enters through its ministry textbooks Математик III, VI, VII, VIII, IX, X (Grades 3, 6, 7, 8, 9, 10): circle (line) and disc (filled) recognised; points in/out/on; centre, radius and diameter by folding; drawing circles with a compass.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Contemos... 1, 2, 3 y 4* (Grade 1), *Aventuras de Patacalientes* (Grade 3), *La Patria Buena* (Grade 5), *Hecho en Venezuela* (Grade 6), *Matemática Para La Vida* (Grade 7), *La Matemática de la Belleza* (Grade 9) and *Naturaleza Matemática* (Grade 10). From its books: from Grade 1: circle and circumference — tracing a cylinder/cone outline: the black border is the circunferencia and the border plus the coloured interior is the círculo; finding the centre of a traced circle; from Grade 6: pi — Circumference length measured by rolling a coin: L/D ≈ 3,14159265358979324…; the constant named π (the sixteenth Greek letter); from Grade 10: circumference/diameter = π; length of a semicircle arc from D = 0.5 km (π/4 ≈ 0.78 km).
+
+Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 4: the circle: centre, disc, diameter, radius and chord (Lesson 29); from Grade 6: circle and disc: centre, radius, chord, arc, diameter, semicircle, segment and sector; the ratio of circumference to diameter: pi = 22/7 and circumference = pi x diameter; from Grade 10: arc length; circumradius and inradius of a triangle; sine rule derived from circumradius (a/sin A = 2R).

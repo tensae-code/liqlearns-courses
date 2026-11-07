@@ -1,6 +1,6 @@
 # Sources — Modulus and Absolute Value
 
-countries: Mongolia, Venezuela, North Macedonia
+countries: Mongolia, Venezuela, North Macedonia, Afghanistan
 
 Every part traces to its book and page.
 
@@ -10,6 +10,8 @@ Every part traces to its book and page.
 **Book 4:** *Matemática Para La Vida* — Venezuela, Grade 7 (1er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-322-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 5:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 6:** *АЛГЕБРА ЗА ТРЕТА ГОДИНА НА РЕФОРМИРАНОТО ГИМНАЗИСКО ОБРАЗОВАНИЕ (ИЗБОРЕН ПРЕДМЕТ)* (Algebra for the third year of the reformed gymnasium education — elective subject) — North Macedonia, Глигор Тренчевски, Костадин Тренчевски, Билјана Крстеска и Снежана Здравеска (Gligor Trenchevski, Kostadin Trenchevski, Biljana Krsteska & Snezana Zdraveska), Просветно дело АД, IV издание (fourth edition); CIP record Skopje 2005, approval № 11-3867/1 of 15.07.2004, ISBN 9989-0-0387-4. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 7:** *ریاضی, صنف ۷ (Mathematics, Grade 7)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 8:** *ریاضی صنف دهم (Mathematics, Grade 10)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -29,6 +31,11 @@ Every part traces to its book and page.
 | Inequalities with absolute values | North Macedonia, Grade 12, Algebra, §3.3, printed p. 57 |
 | Inequalities for the modulus of a sum and of a difference of two complex numbers | North Macedonia, Grade 12, Algebra, §6.5, printed p. 170 |
 
-**Acceptance count: taught in 3 countries (Mongolia, Venezuela, North Macedonia).** Mongolia is the one read country whose course gives modulus a chapter of its own: Grade 7 defines it as distance from the origin, with the distance between two points as |a − b|; Grade 9 meets the first simple modulus inequalities; and Grade 12, Chapter II §2.1 (printed pp. 5–16), gives the complete treatment — the piecewise definition, equations by cases and by the distance method (with |2x − 5| = −7 shown to have no solution), the |f(x)| = g(x) and two-modulus families, inequalities read geometrically on the line, and the three squaring theorems, each proved. Elsewhere in the library modulus is met only in passing — inside the negative-numbers and real-number-system lessons as distance, inside the function lessons as the absolute-value function, and inside complex numbers as |a + bi| — so under the everything-goes-in ruling (2026-11-06) the topic gets its own lesson, built at the size of its source. The Grade 7 and Grade 9 rows are also stocked in the negative-numbers and inequalities lessons respectively, where the same pages do that work too; this lesson is the topic's own home. North Macedonia enters from its main set — Grade 7 (2025) and the Grade 12 Algebra elective.
+| Absolute value of an integer | Afghanistan, Mathematics Grade 7 (Dari), printed p. 76 |
+| Absolute value function and its graph | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 89–90 |
+
+**Acceptance count: taught in 4 countries (Mongolia, Venezuela, North Macedonia, Afghanistan).** Mongolia is the one read country whose course gives modulus a chapter of its own: Grade 7 defines it as distance from the origin, with the distance between two points as |a − b|; Grade 9 meets the first simple modulus inequalities; and Grade 12, Chapter II §2.1 (printed pp. 5–16), gives the complete treatment — the piecewise definition, equations by cases and by the distance method (with |2x − 5| = −7 shown to have no solution), the |f(x)| = g(x) and two-modulus families, inequalities read geometrically on the line, and the three squaring theorems, each proved. Elsewhere in the library modulus is met only in passing — inside the negative-numbers and real-number-system lessons as distance, inside the function lessons as the absolute-value function, and inside complex numbers as |a + bi| — so under the everything-goes-in ruling (2026-11-06) the topic gets its own lesson, built at the size of its source. The Grade 7 and Grade 9 rows are also stocked in the negative-numbers and inequalities lessons respectively, where the same pages do that work too; this lesson is the topic's own home. North Macedonia enters from its main set — Grade 7 (2025) and the Grade 12 Algebra elective.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Matemática Para La Vida* (Grade 7). From its books: from Grade 7: absolute value — Absolute value defined as the distance from a number to 0: |−4| = |4| = 4; for a < 0 the absolute value is −a.
+
+Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 7: absolute value of an integer; from Grade 10: absolute value function and its graph.

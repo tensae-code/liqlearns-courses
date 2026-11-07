@@ -1,6 +1,6 @@
 # Sources — Coordinate Geometry
 
-countries: Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia
+countries: Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan
 
 Every part traces to its book and page.
 
@@ -39,6 +39,8 @@ Every part traces to its book and page.
 **Book 26:** *Conciencia Matemática* — Venezuela, Grade 8 (2do año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-320-3. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 27:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 28:** *МАТЕМАТИКА ЗА III ГОДИНА НА РЕФОРМИРАНОТО ГИМНАЗИСКО ОБРАЗОВАНИЕ* (Mathematics for the third year of the reformed gymnasium education) — North Macedonia, Јорданка Митевска, Иван Трајков и Лилјана Грибовска-Поповиќ (Jordanka Mitevska, Ivan Trajkov & Liljana Gribovska-Popovik), Просветно дело АД, Skopje, II издание (second edition), 2018 printing (its CIP block carries the 2003 first-edition record, ISBN 9989-0-0343-0). Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 29:** *ریاضی صنف دهم (Mathematics, Grade 10)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 30:** *ریاضی صنف ۱۲ (Mathematics, Grade 12)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Held complete through printed p. 280; a final printed p. 281 may exist beyond the held copy, and nothing is cited from it. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -131,7 +133,19 @@ Every part traces to its book and page.
 | Condition for parallelism and for perpendicularity (normality) of two lines | North Macedonia, Grade 12, Mathematics, §4.2.5, printed p. 185 |
 | Normal form of the equation of a line | North Macedonia, Grade 12, Mathematics, §4.2.6, printed p. 187 |
 | Distance from a point to a line | North Macedonia, Grade 12, Mathematics, §4.2.7, printed p. 190 |
-**Acceptance count: taught in 13 countries (Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia).** Jordan carries the point-to-line distance and the coordinate proof in Grade 9 and the circle's equation in Grade 10. Kuwait carries the full analytic-geometry unit in Grade 10 Term 2 — the section formula with internal and external division as its own section, and the point-to-line distance and circle in the same unit. Ethiopia carries the circle's equation in the Grade 10 student book's §7.5 — student book only, since its Grade 10 guide does not cover §7.5. South Sudan carries the circle's equation in Secondary 4, from the origin-centred circle to completing the square. Laos carries the section formula as a minor source inside its Grade 9 vectors lesson. Iran carries the analytic circle in two Grade 12 branch books, with the expanded-form test stated exactly in Geometry (3). North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
+
+| Coordinate system; distance between two points | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 305–310 |
+| Coordinates of a point dividing a segment in a given ratio (section formula; midpoint) | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 311–314 |
+| Slope of a straight line | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 315–318 |
+| Equation of a straight line (standard, slope–intercept, point–slope, two-point, intercept, normal and general forms) | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 319–327 |
+| Converting the general equation of a line to other forms | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 328–332 |
+| Distance from a point to a line; distance between parallel lines | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 333–336 |
+| Circle and equation of a circle (standard and general forms; special positions) | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 337–342 |
+| Positions of a line relative to a circle (secant, tangent, external) | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 343–344 |
+| Equation of a tangent to a circle; length of a tangent | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 345–348 |
+| Area of a triangle from the coordinates of its vertices | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 349–350 |
+| Graphs of quadratic functions; vertex | Afghanistan, Mathematics Grade 12 (Dari), printed pp. 101–104 |
+**Acceptance count: taught in 14 countries (Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan).** Jordan carries the point-to-line distance and the coordinate proof in Grade 9 and the circle's equation in Grade 10. Kuwait carries the full analytic-geometry unit in Grade 10 Term 2 — the section formula with internal and external division as its own section, and the point-to-line distance and circle in the same unit. Ethiopia carries the circle's equation in the Grade 10 student book's §7.5 — student book only, since its Grade 10 guide does not cover §7.5. South Sudan carries the circle's equation in Secondary 4, from the origin-centred circle to completing the square. Laos carries the section formula as a minor source inside its Grade 9 vectors lesson. Iran carries the analytic circle in two Grade 12 branch books, with the expanded-form test stated exactly in Geometry (3). North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
 
 Syria computes a parallelogram's fourth vertex from the midpoint formula in Grade 7.
 
@@ -145,3 +159,5 @@ India stocks coordinate geometry from Mathematics Class 9–11: cartesian system
 Mongolia enters through its ministry textbooks Математик VII, VIII, IX, X, XI (Grades 7, 8, 9, 10, 11): definition; derivation; formulas.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Conciencia Matemática* (Grade 8) and *Naturaleza Matemática* (Grade 10). From its books: from Grade 8: derivation — equation of a line from two points (2, 2) and (4, 3): point-slope form rearranged to f(x) = (1/2)x + 1; from Grade 10: slope of the line through two data points, computed from (8, 34254) and (6, 38065) for a scatter fit.
+
+Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 10: coordinate system; distance between two points; coordinates of a point dividing a segment in a given ratio (section formula; midpoint); slope of a straight line; equation of a straight line (standard, slope–intercept, point–slope, two-point, intercept, normal and general forms); converting the general equation of a line to other forms; distance from a point to a line; distance between parallel lines; circle and equation of a circle (standard and general forms; special positions); positions of a line relative to a circle (secant, tangent, external); equation of a tangent to a circle; length of a tangent; area of a triangle from the coordinates of its vertices; from Grade 12: graphs of quadratic functions; vertex.

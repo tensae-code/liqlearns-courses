@@ -1,6 +1,6 @@
 # Sources — Constructing triangles and quadrilaterals
 
-countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia
+countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan
 
 Every part traces to its book and page.
 
@@ -22,6 +22,7 @@ Every part traces to its book and page.
 **Book 13:** *Математик VII (Mathematics, Grade 7)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 14:** *La Patria Buena* — Venezuela, Grade 5 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-306-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 15:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 16:** *ریاضی, صنف ششم (Mathematics, Grade 6)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -67,7 +68,12 @@ Every part traces to its book and page.
 | Quadrilateral constructions — Constructing a rectangle with set squares; constructing a rhombus from a diagonal and a side; constructing a rectangle from its diagonals and a side | Venezuela, La Patria Buena (Grade 5), printed pp. 125–129 |
 
 | Constructing triangles SSS, SAS, ASA | North Macedonia, Grade 7, Theme 2, printed p. 194 |
-**Acceptance count: taught in 10 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia).** North Macedonia enters from its main set — Grade 7 (2025).
+
+| Constructing a triangle from its three sides | Afghanistan, Mathematics Grade 6 (Dari), printed p. 211 |
+| Constructing a triangle from two sides and the included angle | Afghanistan, Mathematics Grade 6 (Dari), printed p. 212 |
+| Constructing a triangle from two angles and a side | Afghanistan, Mathematics Grade 6 (Dari), printed p. 213 |
+| Constructing a right triangle from its hypotenuse and one leg | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 214–215 |
+**Acceptance count: taught in 11 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan).** North Macedonia enters from its main set — Grade 7 (2025).
 
 Pakistan's Grade 8 book is the spine: it constructs the whole quadrilateral family — square, rectangle, rhombus, parallelogram, kite, trapezium — and the SSS, SAS, ASA and RHS triangles, with the incentre and circumcentre constructions. Bangladesh's Class 8 Exp.5 is a dedicated constructing-quadrilaterals chapter. Yemen meets the work earliest: Grade 4 constructs a rectangle from its length and width and a square, and Grade 5 builds a triangle from two sides and the included angle in five named steps. Sierra Leone's SSS 2 course splits the same material into single-skill lessons — SSS, SAS and ASA triangles, then squares and rectangles, rhombi and parallelograms, and trapeziums — and finishes with construction word problems.
 
@@ -81,3 +87,5 @@ India stocks constructing triangles and quadrilaterals from Mathematics Classes 
 Mongolia enters through its ministry textbook Математик VII (Grade 7): constructing a triangle from two sides and the included angle, from a side and two adjacent angles, and from three sides — meeting the triangle inequality inside the construction work, when three sides cannot form a triangle at all.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *La Patria Buena* (Grade 5). From its books: from Grade 5: triangle constructions — Constructing a triangle from three sides (SSS) with ruler and compass (4, 5, 6 cm).
+
+Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 6: constructing a triangle from its three sides; constructing a triangle from two sides and the included angle; constructing a triangle from two angles and a side; constructing a right triangle from its hypotenuse and one leg.

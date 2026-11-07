@@ -1,6 +1,6 @@
 # Sources — Sequences and series
 
-countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia
+countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan
 
 Every part traces to its book and page.
 
@@ -174,6 +174,7 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 **Book 102:** *Математика за четврто одделение* (Mathematics for Grade 4) — North Macedonia, Татјана Атанасова-Пачемска, Валдета Алија, Виолета Поповска и Добри Јовевски (Tatjana Atanasova-Pačemska, Valdeta Alija, Violeta Popovska & Dobri Jovevski), Ministry of Education and Science, Skopje 2023, II издание (second edition), approval № 26-527/1 of 18.08.2022, ISBN 978-608-273-479-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 103:** *МАТЕМАТИКА 6* (Mathematics 6) — North Macedonia, Крутан Расими, Валентина Гоговска и Снежана Ристовска (Krutan Rasimi, Valentina Gogovska & Snežana Ristovska), Ministry of Education and Science, Skopje 2023, approval № 26-2185/1 of 15.09.2023; no ISBN is printed anywhere in the book. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 104:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 105:** *ریاضی صنف ۱۱ (Mathematics, Grade 11)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -360,7 +361,18 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 | Низи од децимални броеви — decimal sequences | North Macedonia, Grade 6, Theme 1, printed p. 71 |
 | Sequences of integers: term notation and the general term | North Macedonia, Grade 7, Theme 3, printed p. 259 |
 
-**Acceptance count: taught in 28 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia).**.** Kazakhstan carries
+| Sequences: definition, general term, increasing and decreasing sequences | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 119–120 |
+| Arithmetic sequences: common difference and the nth term | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 121–124 |
+| Arithmetic mean: inserting means between two numbers | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 125–126 |
+| Geometric sequences: common ratio and the nth term | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 129–131 |
+| Geometric mean | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 131–132 |
+| Partial sums and sigma notation (the p. 134 sigma example's reduction is misprinted 5132/108; taught corrected as 5132/1008) | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 133–136 |
+| Sum of the first n terms of an arithmetic sequence | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 137–139 |
+| Sum of the first n terms of a geometric sequence | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 141–142 |
+| Infinite geometric series: convergence, S∞ = a/(1−q), recurring decimals as fractions | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 143–146 |
+| Chapter key points and exercises | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 147–150 |
+
+**Acceptance count: taught in 29 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan).**.** Kazakhstan carries
 the fullest treatment — all four Grade 9 Algebra books prove
 the nth-term formulas, the characteristic properties, both
 sum formulas and the infinite geometric sum, with applied
@@ -399,3 +411,5 @@ Sudan teaches sequences in Grade 11 as functions, then arithmetic and geometric 
 India stocks sequences and series from Math-Magic Class 5 and Mathematics Class 7, 10–11: number patterns; number patterns from expressions: tables for 2n − 1, 3n + 2, n² + 1 out to the 100th term; arithmetic progressions; sequences.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Contemos... 1, 2, 3 y 4* (Grade 1), *Triángulos, rectángulos y algo más...* (Grade 2) and *Naturaleza Matemática* (Grade 10). From its books: from Grade 1: ascending and descending sequences — counting song of elephants 1 to 10 (adding one each time); dogs leaving one by one (menos 1, quedan…) down from 10; from Grade 2: number sequences — the counting sequence as the ordered list of all natural numbers (cada paso + 1); from Grade 10: sequence defined (ordered set of numbers under a rule); finite vs infinite; terms a1…an and the general term an.
+
+Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 11: sequences: definition, general term, increasing and decreasing sequences; arithmetic sequences: common difference and the nth term; arithmetic mean: inserting means between two numbers; geometric sequences: common ratio and the nth term; geometric mean; partial sums and sigma notation; sum of the first n terms of an arithmetic sequence; sum of the first n terms of a geometric sequence; infinite geometric series: convergence, S∞ = a/(1−q), recurring decimals as fractions; chapter key points and exercises.

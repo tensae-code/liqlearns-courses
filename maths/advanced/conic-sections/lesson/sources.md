@@ -1,6 +1,6 @@
 # Sources — Conic Sections
 
-countries: Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela, North Macedonia
+countries: Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela, North Macedonia, Afghanistan
 
 Every part traces to its book and page.
 
@@ -32,6 +32,7 @@ Every part traces to its book and page.
 **Book 23:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 24:** *La Matemática y el Vivir Bien* — Venezuela, Grade 11 (5to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-344-9. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 25:** *МАТЕМАТИКА ЗА III ГОДИНА НА РЕФОРМИРАНОТО ГИМНАЗИСКО ОБРАЗОВАНИЕ* (Mathematics for the third year of the reformed gymnasium education) — North Macedonia, Јорданка Митевска, Иван Трајков и Лилјана Грибовска-Поповиќ (Jordanka Mitevska, Ivan Trajkov & Liljana Gribovska-Popovik), Просветно дело АД, Skopje, II издание (second edition), 2018 printing (its CIP block carries the 2003 first-edition record, ISBN 9989-0-0343-0). Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
+**Book 26:** *ریاضی صنف ۱۱ (Mathematics, Grade 11)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -118,7 +119,21 @@ Every part traces to its book and page.
 | Mutual position of a line and a parabola | North Macedonia, Grade 12, Mathematics, §4.3.11, printed p. 234 |
 | Equation of the tangent and normal at a point of a parabola | North Macedonia, Grade 12, Mathematics, §4.3.12, printed p. 236 |
 | Circle; equation of a circle — the set of points M(x, y) at distance r from the centre S | North Macedonia, Grade 12, Mathematics, §4.3.1, printed p. 197 |
-**Acceptance count: taught in 19 countries (Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela, North Macedonia).** North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
+
+| Conic sections introduction: sections of a cone (circle, ellipse, parabola, hyperbola, two intersecting lines) | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 3–4 |
+| Ellipse: focal definition, axes, vertices, eccentricity | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 5–8 |
+| Ellipse: standard equation and worked examples | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 9–12 |
+| Ellipse with arbitrary centre (shifted equation) | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 13–16 |
+| Parabola: definition, focal chord, latus rectum | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 17–18 |
+| Parabola: standard equations y²=4px and x²=4py, worked examples | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 19–22 |
+| Parabola with arbitrary vertex (shifted forms); focus and directrix from the general equation (the p. 26 worked example flips a sign and solves a different equation; taught corrected for the equation as printed: (y − 1)² = 8(x − 3), vertex (3, 1), focus (5, 1), directrix x = 1) | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 23–26 |
+| Hyperbola: focal definition, axes, eccentricity, asymptotes, directrices | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 27–28 |
+| Hyperbola: standard equation and worked examples | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 29–32 |
+| Hyperbola with arbitrary centre (shifted equation) (the p. 36 foci line misprints the formula as c² = a² − b²; taught corrected as c² = a² + b² — the book's own numbers and foci use the correct form) | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 33–38 |
+| Relative positions of a line and a conic: discriminant test, tangents | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 39–42 |
+| Recognising conics from the general equation; chapter key points | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 43–45 |
+| Chapter exercises | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 46–48 |
+**Acceptance count: taught in 20 countries (Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela, North Macedonia, Afghanistan).** North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
 
 Rwanda teaches conic sections whole in Advanced Mathematics Senior Six Unit 8 — the focus–directrix definition with eccentricity, all three conics with tangents and normals, the polar equation, and applications from planetary orbits to the whispering gallery.
 
@@ -133,3 +148,5 @@ Sudan reaches conic sections only through the circle, in Grade 12 Specialized Bo
 India stocks conic sections from Mathematics Class 11: sections of a cone.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Naturaleza Matemática* (Grade 10) and *La Matemática y el Vivir Bien* (Grade 11). From its books: from Grade 10: a parabola defined as a locus (equidistant from directrix and focus), y = 1 + x² compared with the catenary; from Grade 11: circle as a locus: points at constant distance r from the centre; standard equation (x − h)² + (y − k)² = r² derived from the distance formula.
+
+Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 11: conic sections introduction: sections of a cone (circle, ellipse, parabola, hyperbola, two intersecting lines); ellipse: focal definition, axes, vertices, eccentricity; ellipse: standard equation and worked examples; ellipse with arbitrary centre (shifted equation); parabola: definition, focal chord, latus rectum; parabola: standard equations y²=4px and x²=4py, worked examples; parabola with arbitrary vertex (shifted forms); focus and directrix from the general equation; hyperbola: focal definition, axes, eccentricity, asymptotes, directrices; hyperbola: standard equation and worked examples; hyperbola with arbitrary centre (shifted equation); relative positions of a line and a conic: discriminant test, tangents; recognising conics from the general equation; chapter key points; chapter exercises.

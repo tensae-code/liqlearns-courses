@@ -1,6 +1,6 @@
 # Sources — Rolle's theorem and the Mean Value Theorem
 
-countries: Greece, Cambodia, Yemen, India
+countries: Greece, Cambodia, Yemen, India, Afghanistan
 
 Every part traces to its book and page.
 
@@ -9,6 +9,7 @@ Every part traces to its book and page.
 **Book 3:** *Limits and Continuity* (PRIVATE Khem Putthi exam-preparation booklet) — Cambodia, Khem Putthi / Lay Chanheng, Angkor Bookstore, first printing 2026, trial version © 2026, series KP012, no ISBN printed. Filed in maths/books/cambodia.md (FULLY READ + CITATION CHECK PASSED). PRIVATE booklet, not a government book — labelled PRIVATE wherever cited.
 **Book 4:** *Mathematics, Grade 12 student book, science track (full year)* — Yemen, Ministry of Education and Scientific Research (Curricula Sector), 2026/1447H. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED). For this book, contents/PDF page numbers are cited for Unit 6 from lesson 6-4 on, because the printed footer reads one higher (so 6-7 is contents/PDF p.183, footer 184).
 **Book 5:** *Mathematics — Textbook for Class XII, Parts I–II* (ONE work in two volumes: continuous chapters 1–13 and continuous printed pagination 1–587) — India, NCERT, New Delhi, first edition November 2006, 2020-21 printing; Part I ISBN 81-7450-629-2 (Part II prints no ISBN). Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy of Part I lacks its appendices, answers and supplementary material, and the held copy of Part II has no front matter; nothing is cited from either.
+**Book 6:** *ریاضی صنف ۱۲ (Mathematics, Grade 12)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Held complete through printed p. 280; a final printed p. 281 may exist beyond the held copy, and nothing is cited from it. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -19,6 +20,11 @@ Every part traces to its book and page.
 | Rolle's theorem stated and verified on examples (geometric meaning in figures) | India, Mathematics Class 12 Part I, printed p. 184 |
 | Mean Value Theorem — Lagrange's Mean Value Theorem stated and verified on examples | India, Mathematics Class 12 Part I, printed p. 185 |
 
-**Acceptance count: taught in 4 countries (Greece, Cambodia, Yemen, India).** Greece teaches Rolle's theorem and the Mean Value Theorem in the differential calculus chapter of its Grade 12 Analysis book, together with De L'Hospital's rules for evaluating limits. Cambodia proves both theorems in its PRIVATE Khem Putthi Derivatives booklet (pp.50–52) and teaches L'Hôpital's rule there (pp.53–54) and in its PRIVATE Limits and Continuity booklet (pp.62–64). Yemen teaches Rolle's theorem and the Mean Value Theorem as one named lesson, 6-7, in the Grade 12 Science differentiation unit (contents/PDF p.183). No other country's filing carries these theorems as verified taught stock for this lesson; Iraq's Grade 12 Scientific lesson [3-2] is unverified and is cited nowhere here.
+| Rolle's theorem | Afghanistan, Mathematics Grade 12 (Dari), printed pp. 119–120 |
+| Mean value theorem (Lagrange), with proof | Afghanistan, Mathematics Grade 12 (Dari), printed pp. 121–122 |
+
+**Acceptance count: taught in 5 countries (Greece, Cambodia, Yemen, India, Afghanistan).** Greece teaches Rolle's theorem and the Mean Value Theorem in the differential calculus chapter of its Grade 12 Analysis book, together with De L'Hospital's rules for evaluating limits. Cambodia proves both theorems in its PRIVATE Khem Putthi Derivatives booklet (pp.50–52) and teaches L'Hôpital's rule there (pp.53–54) and in its PRIVATE Limits and Continuity booklet (pp.62–64). Yemen teaches Rolle's theorem and the Mean Value Theorem as one named lesson, 6-7, in the Grade 12 Science differentiation unit (contents/PDF p.183). No other country's filing carries these theorems as verified taught stock for this lesson; Iraq's Grade 12 Scientific lesson [3-2] is unverified and is cited nowhere here.
 
 India enters Rolle's theorem and the mean value theorem from Mathematics Class 12: Rolle's theorem stated and verified on examples, with its geometric meaning in figures, and the mean value theorem after it.
+
+Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 12: Rolle's theorem; mean value theorem (Lagrange), with proof.
