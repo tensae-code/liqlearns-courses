@@ -166,6 +166,9 @@ same shape, move shapes, and use trigonometry.*
 - inverse-trigonometric-functions ✅ — arcsine, arccosine, arctangent and their graphs (Level 74, catch-up build)
 - three-dimensional-trigonometry ✅ — angles and lengths in three dimensions (Level 75, catch-up build)
 - bearings ✅ — three-figure bearings and back bearings (Level 76, catch-up build)
+- triangle-centres ✅ — medians and the centroid, bisectors and the incentre, perpendicular bisectors and the circumcentre, altitudes and the orthocentre (Level 77, catch-up build 2026-11-06)
+- loci ✅ — loci: the paths of moving points, and constructing them (Level 78, catch-up build)
+- fractals ✅ — fractals: shapes inside shapes, the Koch snowflake, Sierpiński and Mandelbrot (Level 79, catch-up build)
 
 ## Stage 10 — Functions, Graphs and Sequences
 *End of stage: the learner can plot points, read graphs,
