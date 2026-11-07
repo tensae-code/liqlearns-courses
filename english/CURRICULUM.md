@@ -354,6 +354,30 @@ and make advertisements and posters.*
   article-writing ✅ · advertisements-and-posters ✅ (catch-up
   build 2026-11-07 — 4 lessons, 72 question items)
 
+## Level 31 — Linking and Fixing Sentences
+*End of level: the learner can link ideas with the full
+connector system, keep verbs agreeing with tricky subjects,
+fix broken sentences, and emphasise with cleft sentences and
+object clauses.*
+- connectors-and-clauses ✅ · subject-verb-agreement ✅ ·
+  fixing-sentence-errors ✅ · cleft-sentences ✅ ·
+  object-clauses ✅ (catch-up build 2026-11-07 — 5 lessons,
+  80 question items)
+
+## Level 32 — Habits and Orders
+*End of level: the learner can talk about past habits and
+new habits forming, exclaim, and give orders and
+instructions.*
+- used-to-and-would ✅ · exclamations-and-orders ✅ (catch-up
+  build 2026-11-07 — 2 lessons, 32 question items)
+
+## Level 33 — Phrasal Verbs
+*End of level: the learner knows how phrasal verbs work —
+their meanings, which split and which never split, and the
+three-word family.*
+- phrasal-verbs ✅ (catch-up build 2026-11-07 — 1 lesson,
+  16 question items; filed under the Word title)
+
 ## After Level 18
 The ladder keeps climbing — longer essays and the Story → Novel
 titles. Later blocks get their own level numbers here, in this
