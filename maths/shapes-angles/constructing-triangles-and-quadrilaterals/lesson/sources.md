@@ -1,0 +1,28 @@
+# Sources — Constructing triangles and quadrilaterals
+
+countries: Pakistan, Bangladesh, Yemen, Sierra Leone
+
+Every part traces to its book and page.
+
+**Book 1:** *Mathematics, Grade 8* — Pakistan, Punjab Curriculum and Textbook Board. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 2:** *Mathematics, Grade 7* — Pakistan, Punjab Curriculum and Textbook Board. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 3:** *Mathematics, Class 8* — Bangladesh, National Curriculum and Textbook Board (NCTB). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
+**Book 4:** *Mathematics, Grade 4, Part 2* — Yemen, Ministry of Education. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 5:** *Mathematics, Grade 5, Part 2* — Yemen, Ministry of Education. Filed in maths/books/yemen.md (FULLY READ + CITATION CHECK PASSED).
+**Book 6:** *Mathematics Handbook, SSS 2, Term 2 (pupil handbook)* — Sierra Leone, Ministry of Education, Science and Technology. No year, edition or ISBN is printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Triangles SSS, SAS, ASA | Sierra Leone, SSS 2 Term 2, L84 (p.103), L85 (p.106), L86 (p.109); Pakistan, Grade 8 (pp.161–170) |
+| Right-angled triangles (RHS) and triangle constructions by legs and hypotenuse | Pakistan, Grade 7, Practical Geometry (pp.141–148); Pakistan, Grade 8 (pp.161–170) |
+| Incentre and circumcentre constructions | Pakistan, Grade 8 (pp.161–170) |
+| Squares and rectangles from given sides | Sierra Leone, SSS 2 Term 2, L87 (p.112); Yemen, Grade 4 Part 2 (pp.100, 103) |
+| Rhombi and parallelograms from two sides and an angle | Sierra Leone, SSS 2 Term 2, L88 (p.115); Pakistan, Grade 8 (pp.161–170) |
+| Trapeziums and other quadrilaterals | Sierra Leone, SSS 2 Term 2, L89 (p.118); Bangladesh, Class 8, Exp.5 (pp.93–124) |
+| Kites and the full quadrilateral set | Pakistan, Grade 8 (pp.161–170); Bangladesh, Class 8, Exp.5 (pp.93–124) |
+| A triangle from two sides and the included angle, in five steps | Yemen, Grade 5 Part 2, 8-3 (p.145) |
+| Construction word problems | Sierra Leone, SSS 2 Term 2, L90 (p.121), L91 (p.124) |
+
+**Acceptance count: taught in 4 countries (Pakistan, Bangladesh, Yemen, Sierra Leone).**
+
+Pakistan's Grade 8 book is the spine: it constructs the whole quadrilateral family — square, rectangle, rhombus, parallelogram, kite, trapezium — and the SSS, SAS, ASA and RHS triangles, with the incentre and circumcentre constructions. Bangladesh's Class 8 Exp.5 is a dedicated constructing-quadrilaterals chapter. Yemen meets the work earliest: Grade 4 constructs a rectangle from its length and width and a square, and Grade 5 builds a triangle from two sides and the included angle in five named steps. Sierra Leone's SSS 2 course splits the same material into single-skill lessons — SSS, SAS and ASA triangles, then squares and rectangles, rhombi and parallelograms, and trapeziums — and finishes with construction word problems.

@@ -132,6 +132,10 @@ and work with circles.*
 - angles ✅ — measuring angles, angles on a line, in a triangle, around a point
 - circles ✅ — radius, diameter, circumference and area
 - symmetry ✅ — lines of symmetry, rotational symmetry (folded into shapes if the stock proves too thin for its own lesson)
+- compass-constructions ✅ — constructions with ruler and compass: copying, bisectors, perpendiculars, parallels (Level 60, catch-up build 2026-11-06)
+- constructing-triangles-and-quadrilaterals ✅ — building triangles (SSS/SAS/ASA/RHS) and quadrilaterals to order (Level 61, catch-up build)
+- tessellations ✅ — tiling the plane with translations, reflections and rotations (Level 62, catch-up build)
+- platonic-solids-and-eulers-formula ✅ — the five regular polyhedra and Euler's formula V + F − E = 2 (Level 63, catch-up build)
 
 ## Stage 8 — Measuring, Area and Volume
 *End of stage: the learner can measure, find perimeters and
