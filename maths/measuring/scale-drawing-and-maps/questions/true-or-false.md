@@ -16,3 +16,6 @@ Say true or false, and why.
 
 **5. (Level 3)** Nepal's Grade 7 compass points are three-figure bearings.
 **Answer:** False — Nepal teaches the eight compass points (N, NE, E, …); three-figure bearings are a different lesson (Nepal, Grade 7, Unit 10).
+
+**6. (Level 2)** In Indonesia's Grade 7 book, scale is taught on its own, away from ratio.
+**Answer:** False — scale factor and map/plan scale are taught inside the Ratio chapter, as applications of ratio (Indonesia, Grade 7, Ch. 3, pp.83–122).

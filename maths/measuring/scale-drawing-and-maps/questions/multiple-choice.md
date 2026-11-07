@@ -25,3 +25,7 @@ a) 1:400  b) 1:4,000  c) 1:40,000
 **6. (Level 3)** Kuwait's main tower is 187 m tall. In the 1:500 model (1 cm = 5 m) it stands ______.
 a) 18.7 cm  b) 37.4 cm  c) 93.5 cm
 **Answer:** b) 37.4 cm — 187 ÷ 5 (Kuwait, Grade 10 Term 1, project, pp.81–82).
+
+**7. (Level 2)** A map has scale 1:250,000, the kind Indonesia's Grade 7 book teaches as a ratio application. On this map, 1 cm stands for ______ in real life.
+a) 250 m  b) 2.5 km  c) 25 km
+**Answer:** b) 2.5 km — 250,000 cm is 2.5 km, with both lengths in the same unit first (Indonesia, Grade 7, Ch. 3, pp.83–122).

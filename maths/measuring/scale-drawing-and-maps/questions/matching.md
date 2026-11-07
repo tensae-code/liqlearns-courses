@@ -21,3 +21,8 @@ Model heights: (a) 22.6 cm  (b) 37.4 cm  (c) 29.4 cm
 Points: (i) NE  (ii) E  (iii) SE
 Angles: (a) 90°  (b) 135°  (c) 45°
 **Answer:** (i)–(c), (ii)–(a), (iii)–(b) — the eight points split the full turn into 45° steps (Nepal, Grade 7, Unit 10).
+
+**5. (Level 3)** Match each scale factor, in Indonesia's Grade 7 sense, to what it does to a drawing.
+Factors: (i) 1/100  (ii) 1  (iii) 3
+Effects: (a) the drawing is the same size as the real thing  (b) the drawing is an enlargement, 3 times the real thing  (c) the drawing is a reduction, each length 1/100 of the real length
+**Answer:** (i)–(c), (ii)–(a), (iii)–(b) — multiply every real length by the one scale factor (Indonesia, Grade 7, Ch. 3, pp.83–122).

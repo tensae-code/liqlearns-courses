@@ -390,6 +390,7 @@ Inventory detail lives in `liqlearns-courses-work/catch-up-maths/inventory-*.md`
 - South Africa — map work/grid position G3–G6; Nepal — G7 compass points [NOT three-figure bearings there]
 - Greece — G8 — latitude/longitude (part: geographic coordinates)
 - Jordan — scale drawing rows as filed
+- Indonesia — G7 Ch.3 pp.83–122 — scale factor and map/plan scale as ratio applications
 
 ### 65 estimating-areas
 - South Sudan — S4 pp.20–29 — counting squares; the mid-ordinate rule; the trapezium rule for irregular areas [sole source]

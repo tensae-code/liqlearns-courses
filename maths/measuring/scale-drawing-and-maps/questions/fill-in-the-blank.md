@@ -16,3 +16,6 @@ Fill each blank with the missing number or words.
 
 **5. (Level 3)** In Nepal's compass points, the angle from N to E is ______° and from N to NE is ______°.
 **Answer:** 90; 45 (Nepal, Grade 7, Unit 10).
+
+**6. (Level 2)** Indonesia's Grade 7 book teaches map and plan scale inside its ______ chapter, and the fixed multiplier it applies to every length is called the scale ______.
+**Answer:** Ratio; factor — scale is taught as a ratio application (Indonesia, Grade 7, Ch. 3, pp.83–122).

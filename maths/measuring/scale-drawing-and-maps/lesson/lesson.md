@@ -1,7 +1,7 @@
 # Scale Drawing and Maps — the lesson
 
 Course: Maths · Stage: Stage 8 — Measuring, Area and Volume · Lesson: Scale Drawing and Maps
-Built from: Laos, Grade 5 student book (2009) — Laos, Grade 6 student book (2010) — Laos, Grade 7 student book (2011) — Laos, Grade 9 student book (2013) — Kuwait, Grade 10 Term 1 student book — Libya, Grade 8 student book, §2-8 — Vietnam, Grade 5 Volume 2, Bài 37 — Mauritania, Grade 6 student book — Yemen, Grade 6 Part 2 student book — South Africa, Grade 3 Workbook 2 and Grade 4 Book 2 — Nepal, Grade 7 student book — Greece, Grade 8 pupil book — Jordan, Grade 7 Term 2 student book
+Built from: Laos, Grade 5 student book (2009) — Laos, Grade 6 student book (2010) — Laos, Grade 7 student book (2011) — Laos, Grade 9 student book (2013) — Kuwait, Grade 10 Term 1 student book — Libya, Grade 8 student book, §2-8 — Vietnam, Grade 5 Volume 2, Bài 37 — Mauritania, Grade 6 student book — Yemen, Grade 6 Part 2 student book — South Africa, Grade 3 Workbook 2 and Grade 4 Book 2 — Nepal, Grade 7 student book — Greece, Grade 8 pupil book — Jordan, Grade 7 Term 2 student book — Indonesia, Grade 7 student book (Kurikulum Merdeka 2022)
 
 ## Do it first
 Measure your exercise book: about 30 cm long. Now try to draw
@@ -28,7 +28,12 @@ and map scale together (printed p.81), and Jordan's Grade 7
 book names a whole lesson Scale Drawing inside its
 congruence-and-similarity unit (Term 2, Unit 6, L2, printed
 p.56) — because a scale drawing is the real shape, similar to
-it in every part.
+it in every part. Indonesia's Grade 7 book makes the same
+point from the ratio side: it teaches scale inside its Ratio
+chapter (Ch. 3, printed pp.83–122), straight after equivalent
+ratios, so a scale is met as a ratio at work — the map scale
+and the plan scale are simply that chapter's main uses of
+ratio.
 
 **Real to drawing, drawing to real.** Laos's Grade 6 book
 states the two formulas (L22, printed pp.175–182):
@@ -67,7 +72,14 @@ thing: Laos's Grade 6 book lists an enlargement of 5:1 beside
 its reductions 1:5000 and 1:100 (L21, printed pp.167–174), and
 works enlarging and reducing figures on grids. Laos's Grade 7
 book draws a rectangle enlarged 2 times (L43, in Part 6,
-printed pp.171–202). Kuwait's Grade 10 book builds the same
+printed pp.171–202). That fixed multiplier has a name in
+Indonesia's Grade 7 book: the **scale factor** (Ch. 3,
+printed pp.83–122). Multiply every real length by the scale
+factor and you get the drawing: a factor under 1 shrinks the
+thing, as on a map or a room plan, and a factor over 1 grows
+it, as in an enlargement. One factor, applied to every length
+alike, is what keeps the drawing the same shape as the real
+thing. Kuwait's Grade 10 book builds the same
 skill into a project: a digital model of the Kuwait Towers —
 real heights 187 m, 147 m and 113 m — at scale 1:500, where
 1 cm in the model is 5 m in reality, so the main tower's model
@@ -130,3 +142,8 @@ way — points, not bearings.
    lies S of the school. Using Nepal's compass points, say the
    point of the school from the clinic, and the angle from N
    to NE.
+6. A classroom wall is 9 m long. Its plan is drawn with scale
+   factor 1:150 — Indonesia's name for the multiplier (Grade 7,
+   Ch. 3, printed pp.83–122). How long is the wall on the plan?
+   Now read the plan the other way: a door drawn 2 cm wide at
+   the same scale factor is how wide in the real room?

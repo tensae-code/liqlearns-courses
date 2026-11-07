@@ -27,6 +27,7 @@ shown changing.
 4. Draw a real place or object to scale, the way Kuwait's Grade 10 book models the Kuwait Towers at 1:500 (Kuwait, Grade 10 Term 1 student book, project, printed pp.81–82) and the way South Africa's workbooks draw and read maps of real places (South Africa, Grade 3 Workbook 2, Worksheet 68; Grade 4 Book 2, Worksheets 133–134).
 5. Use the eight compass points on a map — points, not three-figure bearings (Nepal, Grade 7 student book, Unit 10, printed pp.84–88).
 6. Say where a place is with geographic coordinates — latitude and longitude — the part Greece's Grade 8 book teaches as an application of spherical coordinates (Greece, Grade 8 pupil book, Ch. 4, printed pp.201–235).
+7. Name and use the scale factor — the one multiplier that turns every real length into its drawing length — and treat a map scale or plan scale as a ratio at work, the way Indonesia's Grade 7 book teaches scale inside its Ratio chapter (Indonesia, Grade 7 Merdeka student book, Ch. 3, printed pp.83–122).
 
 ## What you need
 Paper and a pencil. A ruler. A tape measure if you have one. Squared paper helps for enlarging and reducing.
@@ -60,4 +61,4 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - This lesson's next door: Estimating Areas (same stage) — once a map can be read for lengths, its irregular shapes can be read for areas.
 
 ## Teacher note
-The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Laos Grades 5, 6, 7 and 9; Kuwait Grade 10 Term 1; Libya Grade 8; Vietnam Grade 5 Volume 2; Mauritania Grade 6; Yemen Grade 6 Part 2; South Africa Grades 3 and 4 workbooks; Nepal Grade 7; Greece Grade 8; Jordan Grade 7 Term 2). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.
+The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Laos Grades 5, 6, 7 and 9; Kuwait Grade 10 Term 1; Libya Grade 8; Vietnam Grade 5 Volume 2; Mauritania Grade 6; Yemen Grade 6 Part 2; South Africa Grades 3 and 4 workbooks; Nepal Grade 7; Greece Grade 8; Jordan Grade 7 Term 2; Indonesia Grade 7). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

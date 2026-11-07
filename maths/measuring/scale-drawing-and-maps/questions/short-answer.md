@@ -19,3 +19,6 @@ Answer in a word or a short line.
 
 **6. (Level 3)** On Nepal's map work, a volleyball court is drawn 9 cm long at 1 cm : 2 m. How long is the real court? (Nepal, Grade 7, Unit 10.)
 **Answer:** 18 m — 9 × 2 m.
+
+**7. (Level 2)** A plan is drawn with scale factor 1:200, in Indonesia's Grade 7 sense of the multiplier. A real wall of 8 m is how long on the plan? (Indonesia, Grade 7, Ch. 3, pp.83–122.)
+**Answer:** 4 cm — 800 cm × 1/200 = 4 cm.
