@@ -160,6 +160,12 @@ same shape, move shapes, and use trigonometry.*
 - right-triangle-trigonometry ✅ — sine, cosine and tangent in a right triangle
 - sine-and-cosine-rules ✅ — solving triangles that are not right-angled
 - circle-theorems ✅ — angles in circles, chords and tangents (folded into circles if the stock proves too thin for its own lesson)
+- radian-measure ✅ — degrees, radians and gradians, DMS, arc length s = rθ (Level 71, catch-up build 2026-11-06)
+- trigonometric-identities ✅ — the identity chain and proving identities (Level 72, catch-up build)
+- trigonometric-equations ✅ — solving trigonometric equations and inequalities (Level 73, catch-up build)
+- inverse-trigonometric-functions ✅ — arcsine, arccosine, arctangent and their graphs (Level 74, catch-up build)
+- three-dimensional-trigonometry ✅ — angles and lengths in three dimensions (Level 75, catch-up build)
+- bearings ✅ — three-figure bearings and back bearings (Level 76, catch-up build)
 
 ## Stage 10 — Functions, Graphs and Sequences
 *End of stage: the learner can plot points, read graphs,
