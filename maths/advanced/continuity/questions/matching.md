@@ -1,0 +1,21 @@
+# Continuity — matching
+
+Match each item on the left with the one right item on the right.
+
+**1. (Level 1)** Match the failure: (i) f(a) undefined; (ii) sides disagree; (iii) f(a) ≠ limit, sides agree. Kinds: (a) jump; (b) hole-type break, condition 1; (c) misplaced point, condition 3.
+**Answer:** (i)–(b), (ii)–(a), (iii)–(c) — the first failed condition names the break.
+
+**2. (Level 2)** Match: (i) removable; (ii) jump; (iii) infinite. Signs: (a) a side runs to ∞; (b) sides agree, point missing; (c) sides disagree, both finite.
+**Answer:** (i)–(b), (ii)–(c), (iii)–(a).
+
+**3. (Level 3)** Match the country: (i) Kuwait; (ii) Nepal; (iii) Vietnam. Ways: (a) continuous functions close the limits chapter, Bài 17; (b) three lessons — continuity, theorems, intervals; (c) the three conditions, calculus stops there.
+**Answer:** (i)–(b), (ii)–(c), (iii)–(a).
+
+**4. (Level 1)** Match: (i) open interval; (ii) closed interval; (iii) a point. Tests: (a) three conditions; (b) every interior point, two-sided; (c) interior points plus one-sided endpoint tests.
+**Answer:** (i)–(b), (ii)–(c), (iii)–(a).
+
+**5. (Level 2)** Match the repair: (i) hole at 2 with limit 4; (ii) jump at 3; (iii) point at wrong height, limit 5, f = 9. Repairs: (a) none by one point; (b) set the value to 5; (c) set the value to 4.
+**Answer:** (i)–(c), (ii)–(a), (iii)–(b).
+
+**6. (Level 3)** Match: (i) Intermediate Value Theorem; (ii) continuity theorems; (iii) three conditions. Uses: (a) testing one point; (b) building continuous functions from continuous parts; (c) placing a root in an interval.
+**Answer:** (i)–(c), (ii)–(b), (iii)–(a).

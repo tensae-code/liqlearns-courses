@@ -204,6 +204,14 @@ integrate.*
 - derivatives ✅ — rates of change, differentiating, maxima and minima
 - integrals ✅ — areas under curves, integrating, the fundamental link with derivatives
 - differential-equations ✅ — first-order equations, separable form
+- limits ✅ — limits of sequences and functions, one-sided limits, the sandwich theorem (Level 87, catch-up build 2026-11-06)
+- continuity ✅ — continuity at a point and on an interval, removable and jump discontinuities (Level 88, catch-up build)
+- rolles-theorem-and-the-mean-value-theorem ✅ — Rolle's theorem, the Mean Value Theorem and L'Hôpital's rule (Level 89, catch-up build)
+- conic-sections ✅ — the parabola, ellipse and hyperbola: focus, directrix, eccentricity (Level 90, catch-up build)
+- geometry-in-space ✅ — lines and planes in space: the synthetic theorem system (Level 91, catch-up build)
+- analytic-geometry-in-space ✅ — coordinates and vectors in space, equations of lines and planes (Level 92, catch-up build)
+- determinants-and-cramers-rule ✅ — determinants and Cramer's rule (Level 93, catch-up build)
+- de-moivres-theorem ✅ — the trigonometric form, De Moivre's theorem and roots of complex numbers (Level 94, catch-up build)
 
 **LADDER TOTAL: 52 lessons across 12 stages — ALL BUILT 2026-11-05** (5 + 2 + 3 + 6 +
 4 + 5 + 4 + 4 + 5 + 3 + 4 + 7).
