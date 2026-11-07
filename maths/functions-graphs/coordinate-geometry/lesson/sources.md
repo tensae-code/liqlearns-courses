@@ -1,6 +1,6 @@
 # Sources — Coordinate Geometry
 
-countries: Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India, Mongolia
+countries: Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India, Mongolia, Venezuela
 
 Every part traces to its book and page.
 
@@ -36,6 +36,8 @@ Every part traces to its book and page.
 **Book 23:** *Математик IX (Mathematics, Grade 9)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 24:** *Математик X (Mathematics, Grade 10)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 25:** *Математик XI (Mathematics, Grade 11)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 26:** *Conciencia Matemática* — Venezuela, Grade 8 (2do año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-320-3. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 27:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -115,7 +117,11 @@ Every part traces to its book and page.
 | Derivation — circle centred at the origin x² + y² = r² derived from ;OM; = r (boxed) | Mongolia, Математик X (Grade 10), printed p. 41 |
 | Parallel and perpendicular lines — Slopes: parallel lines have equal slopes, perpendicular lines have product of slopes −1, both proved | Mongolia, Математик XI (Grade 11), printed p. 72 |
 | Equation of a line — Line equations from two points, from point and slope, and general form; angle between lines in exercises | Mongolia, Математик XI (Grade 11), printed p. 75 |
-**Acceptance count: taught in 11 countries (Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India, Mongolia).** Jordan carries the point-to-line distance and the coordinate proof in Grade 9 and the circle's equation in Grade 10. Kuwait carries the full analytic-geometry unit in Grade 10 Term 2 — the section formula with internal and external division as its own section, and the point-to-line distance and circle in the same unit. Ethiopia carries the circle's equation in the Grade 10 student book's §7.5 — student book only, since its Grade 10 guide does not cover §7.5. South Sudan carries the circle's equation in Secondary 4, from the origin-centred circle to completing the square. Laos carries the section formula as a minor source inside its Grade 9 vectors lesson. Iran carries the analytic circle in two Grade 12 branch books, with the expanded-form test stated exactly in Geometry (3).
+
+| Derivation — equation of a line from two points (2, 2) and (4, 3): point-slope form rearranged to f(x) = (1/2)x + 1 | Venezuela, Conciencia Matemática (Grade 8), printed p. 102 |
+| Slope of the line through two data points, computed from (8, 34254) and (6, 38065) for a scatter fit | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 74–75 |
+| Slope from two points m = (y2 − y1)/(x2 − x1), worked m = 3; point-slope route to y = 51 + 3x | Venezuela, Naturaleza Matemática (Grade 10), printed p. 107 |
+**Acceptance count: taught in 12 countries (Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India, Mongolia, Venezuela).** Jordan carries the point-to-line distance and the coordinate proof in Grade 9 and the circle's equation in Grade 10. Kuwait carries the full analytic-geometry unit in Grade 10 Term 2 — the section formula with internal and external division as its own section, and the point-to-line distance and circle in the same unit. Ethiopia carries the circle's equation in the Grade 10 student book's §7.5 — student book only, since its Grade 10 guide does not cover §7.5. South Sudan carries the circle's equation in Secondary 4, from the origin-centred circle to completing the square. Laos carries the section formula as a minor source inside its Grade 9 vectors lesson. Iran carries the analytic circle in two Grade 12 branch books, with the expanded-form test stated exactly in Geometry (3).
 
 Syria computes a parallelogram's fourth vertex from the midpoint formula in Grade 7.
 
@@ -127,3 +133,5 @@ India stocks coordinate geometry from Mathematics Class 9–11: cartesian system
 
 
 Mongolia enters through its ministry textbooks Математик VII, VIII, IX, X, XI (Grades 7, 8, 9, 10, 11): definition; derivation; formulas.
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Conciencia Matemática* (Grade 8) and *Naturaleza Matemática* (Grade 10). From its books: from Grade 8: derivation — equation of a line from two points (2, 2) and (4, 3): point-slope form rearranged to f(x) = (1/2)x + 1; from Grade 10: slope of the line through two data points, computed from (8, 34254) and (6, 38065) for a scatter fit.

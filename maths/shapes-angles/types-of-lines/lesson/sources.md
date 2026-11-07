@@ -1,6 +1,6 @@
 # Sources — Types of Lines
 
-countries: Rwanda, India, Mongolia
+countries: Rwanda, India, Mongolia, Venezuela
 
 Every part traces to its book and page.
 
@@ -12,6 +12,10 @@ Every part traces to its book and page.
 **Book 6:** *Математик I (Mathematics, Grade 1)* — Mongolia, Ministry of Education, seventh edition, Ulaanbaatar 2020. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 7:** *Математик III (Mathematics, Grade 3)* — Mongolia, Ministry of Education, seventh edition, Ulaanbaatar 2020. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 8:** *Математик VI (Mathematics, Grade 6)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 9:** *Aventuras de Patacalientes* — Venezuela, Grade 3 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-295-4. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 10:** *Contando con los recursos* — Venezuela, Grade 4 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-305-0. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 11:** *Matemática Para La Vida* — Venezuela, Grade 7 (1er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-322-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 12:** *Conciencia Matemática* — Venezuela, Grade 8 (2do año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-320-3. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of lines in the first pages of its Unit 10, "Types of lines and angles" — the angle half of that unit lives in the angles lesson; this lesson is the lines half. It is a Primary 2 topic taught with pictures and naming activities, so the lesson is built at that honest, small size.
 
@@ -49,9 +53,23 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 | Point, line, segment, ray: notation and drawing; naming lines and parts of lines | Mongolia, Математик VI (Grade 6), printed p. 29 |
 | Parallel and perpendicular lines recognised and drawn; adjacent (neighbouring) angles | Mongolia, Математик VI (Grade 6), printed p. 33 |
 
-**Acceptance count: taught in 3 countries (Rwanda, India, Mongolia).** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; no other read country gives line types a named treatment of their own, so this lesson is built at that honest size — a small lesson, complete for what its one source teaches.
+| Straight lines — la recta as a line with no beginning and no end; parallel lines that never meet; perpendicular lines meeting at right angles | Venezuela, Aventuras de Patacalientes (Grade 3), printed pp. 42–45 |
+| The straight line — la recta = infinitely many points, endless, drawn with arrows, named by two points AB/BA; conclusions: infinitely many lines through one point, exactly one through two points | Venezuela, Contando con los recursos (Grade 4), printed pp. 84–87 |
+| Segment and ray — el segmento AB with extremos; puntos colineales; "entre"; prolongación; el rayo CD with origen; rayos opuestos; distance AB written as a number | Venezuela, Contando con los recursos (Grade 4), printed pp. 88–91 |
+| Horizontal, vertical, oblique — lines classified horizontales, verticales, oblicuas, traced with a set square | Venezuela, Contando con los recursos (Grade 4), printed pp. 92–93 |
+| Secants, parallels, perpendiculars — lines by relation: secantes (they meet), paralelas (never meet), perpendiculares (secants forming 90°), with tracing methods | Venezuela, Contando con los recursos (Grade 4), printed pp. 96–97 |
+| Rule — parallel lines: reflexive, symmetric and transitive properties of parallelism | Venezuela, Conciencia Matemática (Grade 8), printed p. 77 |
+| Rule — parallels cut by a transversal: alternate/corresponding angles congruent — and the converse as a test for parallelism | Venezuela, Conciencia Matemática (Grade 8), printed p. 80 |
+| Kinds of lines — Horizontal, perpendicular and oblique lines identified on a land-survey sketch; perpendicular lines meet at a right angle (90°) | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 131–132 |
+| Parallels — Parallel lines never meet and keep their distance; notation a ∥ b and b ⊥ d; a line is determined by exactly two points, and infinitely many lines pass through one point | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 132–133 |
+| Rays — Rays (semirrectas): a line split by its origin point into two rays, written with the origin first under a one-way arrow | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 134–135 |
+| Curved lines — Other line kinds shown: regular and irregular curved lines, open polygonal (broken) lines | Venezuela, Matemática Para La Vida (Grade 7), printed p. 135 |
+
+**Acceptance count: taught in 4 countries (Rwanda, India, Mongolia, Venezuela).** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; no other read country gives line types a named treatment of their own, so this lesson is built at that honest size — a small lesson, complete for what its one source teaches.
 
 India stocks types of lines from Math-Magic Class 2 and Mathematics Class 6–7, 9: standing, slanting, sleeping lines; point and line; intersecting lines and their point of intersection; basic terms.
 
 
 Mongolia enters through its ministry textbooks Математик I, III, VI (Grades 1, 3, 6): drawing straight lines; perpendicular and parallel lines; finding and drawing perpendicular and parallel lines.
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Aventuras de Patacalientes* (Grade 3), *Contando con los recursos* (Grade 4), *Matemática Para La Vida* (Grade 7) and *Conciencia Matemática* (Grade 8). From its books: from Grade 3: straight lines — la recta as a line with no beginning and no end; parallel lines that never meet; perpendicular lines meeting at right angles; from Grade 7: kinds of lines — Horizontal, perpendicular and oblique lines identified on a land-survey sketch; perpendicular lines meet at a right angle (90°); from Grade 8: rule — parallel lines: reflexive, symmetric and transitive properties of parallelism.

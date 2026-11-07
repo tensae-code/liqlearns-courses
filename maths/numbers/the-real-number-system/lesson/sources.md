@@ -1,6 +1,6 @@
 # Sources — The Real Number System
 
-countries: Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia
+countries: Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela
 
 Every part traces to its book and page.
 
@@ -36,6 +36,10 @@ Every part traces to its book and page.
 **Book 21:** *Математик IX (Mathematics, Grade 9)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 22:** *Математик X (Mathematics, Grade 10)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 23:** *Математик XI (Mathematics, Grade 11)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 24:** *Hecho en Venezuela* — Venezuela, Grade 6 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-308-1. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 25:** *Matemática Para La Vida* — Venezuela, Grade 7 (1er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-322-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 26:** *La Matemática de la Belleza* — Venezuela, Grade 9 (3er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-329-6. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 27:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -97,7 +101,33 @@ Every part traces to its book and page.
 | Irrational numbers plotted on the number line; practical work | Mongolia, Математик IX (Grade 9), printed p. 7 |
 | Definition — irrationals as non-terminating non-recurring decimals (√2, ∛5, π, e); reals = rationals ∪ irrationals (boxed) | Mongolia, Математик X (Grade 10), printed p. 19 |
 | Definition/use — Real-number set R named as the domain in inequality and function work | Mongolia, Математик XI (Grade 11), printed p. 10 |
-**Acceptance count: taught in 7 countries (Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia).** Pakistan carries this lesson whole, and in a deliberate order that this lesson keeps: the laws are first verified on numbers family by family — the distributive property on whole numbers and the commutative and associative properties on fractions in Grade 5 (printed pp.13–15, 31–38), the integer laws with both identities and subtraction's failure in Grade 6 (printed pp.32–33, 38–39), and all three laws on rationals in Grade 7 (printed pp.16–19) — and only then, in Grade 8, is the system itself drawn (N ⊂ W ⊂ Z ⊂ Q ⊂ R with the irrationals Q′, printed pp.1–3) and the properties stated in general form for all real numbers (printed pp.6–9). The catch-up plan's source rows for this lesson are Pakistan's alone; no other country's filing was filed as a source row for it, so the acceptance count is one country, honestly.
+
+| Decimal expansion — π printed to 150 decimal places | Venezuela, La Matemática de la Belleza (Grade 9), printed p. 11 |
+| Exact vs approximate roots — volume (a measure in space) distinguished from capacity; √2 and √4 as side lengths, exact square roots vs non-exact | Venezuela, La Matemática de la Belleza (Grade 9), printed p. 12 |
+| History of approximations — timeline graphic: Ahmes ≈ 3,1605, Babylonian 25/8, Ptolemy 377/120, Archimedes, Zu Chongzhi 355/113 | Venezuela, La Matemática de la Belleza (Grade 9), printed p. 14 |
+| Irrational numbers introduced — e, φ = (1+√5)/2, √2, ∛2 named as numbers that are not finite or periodic decimals | Venezuela, La Matemática de la Belleza (Grade 9), printed p. 15 |
+| Closure facts — if x is irrational and a is a non-zero rational, then a·x and x + a are irrational | Venezuela, La Matemática de la Belleza (Grade 9), printed p. 15 |
+| The real numbers — ℝ = ℚ ∪ 𝕀 with ℚ ∩ 𝕀 = ∅; rationals and irrationals together fill the line | Venezuela, La Matemática de la Belleza (Grade 9), printed p. 16 |
+| Bakhshali method — ancient Indian approximation of √2: n = 1 gives 17/12; n = 1,4 gives ≈ 1,41421356 | Venezuela, La Matemática de la Belleza (Grade 9), printed p. 18 |
+| Proof that √2 is irrational — full classical proof: suppose √2 = p/q in lowest terms, then p and q are both even — contradiction | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 19–20 |
+| Constructing √2 — √2 built on the number line with ruler and compass via Pythagoras on a unit right triangle | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 32–34 |
+| Non-constructible numbers — π and ∛2 cannot be constructed with ruler and compass (stated) | Venezuela, La Matemática de la Belleza (Grade 9), printed p. 40 |
+| Bounds for π — Archimedes: 3 + 10/71 < π < 3 + 10/70; Zu Chongzhi's construction gives 3 + 16/113 = 3,1415929…, within a millionth | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 41–43 |
+| Field laws compared — ℝ keeps the commutative, associative, identity, inverse and distributive laws; ℕ fails subtraction inverses, ℤ fails division inverses (tables in graphics) | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 44–46 |
+| Density of ℝ — between any two reals there is another real (repeated midpoint / semisuma argument); ℚ is also dense, ℤ is not | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 46–47 |
+| Order and boundedness — ℝ is totally ordered (trichotomy) and unbounded above and below; a bounded set example {x ∈ ℝ : x < φ} | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 47–49 |
+| E is irrational; a long decimal approximation of e given | Venezuela, Naturaleza Matemática (Grade 10), printed p. 82 |
+| Number systems grow: diagonal of a unit square gives x² = 2 and an irrational; ℝ is much larger than ℚ | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 135–136 |
+| Every real is a complex (b = 0); Venn containment ℕ ⊂ ℤ ⊂ ℚ ⊂ ℝ ⊂ ℂ | Venezuela, Naturaleza Matemática (Grade 10), printed p. 140 |
+| Naturals — The naturals as a set N = {0, 1, 2, 3, …}: counting numbers, start at zero, no end, always positive | Venezuela, Hecho en Venezuela (Grade 6), printed p. 37 |
+| Decimal types — Decimal numbers defined (whole part / decimal part around the comma); exact decimals vs non-exact, periodic (3,333…) vs non-periodic (3,141592654…) | Venezuela, Hecho en Venezuela (Grade 6), printed p. 37 |
+| Integers — The integers Z built from negatives, zero and positives (see negative-numbers) | Venezuela, Hecho en Venezuela (Grade 6), printed p. 53 |
+| Rationals — The rationals defined as a set: Q = {a/b : a ∈ Z, b ∈ Z, b ≠ 0}; every decimal expression met so far is an element of Q | Venezuela, Matemática Para La Vida (Grade 7), printed p. 79 |
+| Density — Density of Q: between any two rationals there is another; the midpoint of 26/10 and 27/10 found as the semisum 2,65 = 53/20 | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 79–80 |
+| Signs — Positive rationals Q⁺, negative rationals Q⁻ and the rational zero written 0/b; the sign of a/b is the sign of a·b | Venezuela, Matemática Para La Vida (Grade 7), printed p. 82 |
+| Periodic decimals — Pure periodic decimals (period starts right after the comma) vs mixed periodic decimals (anteperiod before the period), from 1/3, −4/11, 31/15, −9/44 | Venezuela, Matemática Para La Vida (Grade 7), printed p. 83 |
+| Integer rationals — Rational integers: rationals of the form a/1, reached by multiplying a periodic decimal by a suitable rational (110/7 × 7/2 = 55) | Venezuela, Matemática Para La Vida (Grade 7), printed p. 84 |
+**Acceptance count: taught in 8 countries (Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela).** Pakistan carries this lesson whole, and in a deliberate order that this lesson keeps: the laws are first verified on numbers family by family — the distributive property on whole numbers and the commutative and associative properties on fractions in Grade 5 (printed pp.13–15, 31–38), the integer laws with both identities and subtraction's failure in Grade 6 (printed pp.32–33, 38–39), and all three laws on rationals in Grade 7 (printed pp.16–19) — and only then, in Grade 8, is the system itself drawn (N ⊂ W ⊂ Z ⊂ Q ⊂ R with the irrationals Q′, printed pp.1–3) and the properties stated in general form for all real numbers (printed pp.6–9). The catch-up plan's source rows for this lesson are Pakistan's alone; no other country's filing was filed as a source row for it, so the acceptance count is one country, honestly.
 
 Syria classifies the number families in the Grade 9 Algebra opener — rationals characterised (a terminating or eventually periodic decimal), π and √2 proved irrational in the exercises, and every real number located on the number line — before its Grade 7 book has already placed rationals and integers on the line as families.
 
@@ -111,3 +141,5 @@ India carries the real number system through its NCERT ladder — Mathematics Cl
 
 
 Mongolia enters through its ministry textbooks Математик VIII, IX, X, XI (Grades 8, 9, 10, 11): definition; definition/use.
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Hecho en Venezuela* (Grade 6), *Matemática Para La Vida* (Grade 7), *La Matemática de la Belleza* (Grade 9) and *Naturaleza Matemática* (Grade 10). From its books: from Grade 6: naturals — The naturals as a set N = {0, 1, 2, 3, …}: counting numbers, start at zero, no end, always positive; from Grade 9: decimal expansion — π printed to 150 decimal places; from Grade 10: e is irrational; a long decimal approximation of e given.

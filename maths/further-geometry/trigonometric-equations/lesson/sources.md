@@ -1,6 +1,6 @@
 # Sources — Trigonometric equations
 
-countries: Nicaragua, Laos, Armenia, Libya, Yemen, Kuwait, Cambodia, Vietnam, South Sudan, China, Malaysia, Rwanda, India
+countries: Nicaragua, Laos, Armenia, Libya, Yemen, Kuwait, Cambodia, Vietnam, South Sudan, China, Malaysia, Rwanda, India, Venezuela
 
 Every part traces to its book and page.
 
@@ -25,6 +25,7 @@ Every part traces to its book and page.
 
 **Book 17:** *Advanced Mathematics for Rwanda Secondary Schools — Teacher's Guide, Senior Five* (ADVANCED stream, teacher's guide) — Rwanda, Fountain Publishers Rwanda Ltd, 2017, ISBN 978-9970-19-411-7. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 **Book 18:** *Mathematics — Textbook for Class XI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-486-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendices 1–2, the Answers and the Supplementary Material; nothing is cited from them.
+**Book 19:** *La Matemática y el Vivir Bien* — Venezuela, Grade 11 (5to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-344-9. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -51,10 +52,14 @@ Every part traces to its book and page.
 | Principal solutions of sin x = a, tan x = a etc. | India, Mathematics Class 11, printed p. 74 |
 | General solutions proved as theorems: sin x = sin y ⇒ x = nπ + (−1)^n y; cos x = cos y ⇒ x = 2nπ ± y; tan x = tan y ⇒ x = nπ + y | India, Mathematics Class 11, printed p. 75 |
 
-**Acceptance count: taught in 13 countries (Nicaragua, Laos, Armenia, Libya, Yemen, Kuwait, Cambodia, Vietnam, South Sudan, China, Malaysia, Rwanda, India).** Nicaragua carries the general-solution method in its student book and the single-ratio rule with the easiest worked examples in its module. Laos carries equations and, uniquely in this lesson, a fully worked unit-circle inequality in consecutive lessons. Armenia carries the simplest equations and then names the main solving methods. Libya carries simple equations in Grade 11 and the a·cosθ ± b·sinθ equation form in Grade 12. Yemen gives equations their own lesson in Grade 11 Science. Kuwait solves equations in both its Grade 10 and Grade 11 Term 2 books. Cambodia solves the four basic forms in Grade 11 Basic and continues to equations and inequalities in Grade 11 Advanced. Vietnam teaches the basic equations in Bài 4. South Sudan solves equations graphically and arithmetically, including quadratic-shaped ones, in Secondary 4 Additional Mathematics. China solves from the trig lines and graphs in its B-edition Volume 3.
+| Trig equation in sen x and csc x reduced to the cubic 12y³ − 25y² + y + 2 = 0; the root sen x = 2 discarded as impossible; solution families by quadrant and period | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed p. 79 |
+
+**Acceptance count: taught in 14 countries (Nicaragua, Laos, Armenia, Libya, Yemen, Kuwait, Cambodia, Vietnam, South Sudan, China, Malaysia, Rwanda, India, Venezuela).** Nicaragua carries the general-solution method in its student book and the single-ratio rule with the easiest worked examples in its module. Laos carries equations and, uniquely in this lesson, a fully worked unit-circle inequality in consecutive lessons. Armenia carries the simplest equations and then names the main solving methods. Libya carries simple equations in Grade 11 and the a·cosθ ± b·sinθ equation form in Grade 12. Yemen gives equations their own lesson in Grade 11 Science. Kuwait solves equations in both its Grade 10 and Grade 11 Term 2 books. Cambodia solves the four basic forms in Grade 11 Basic and continues to equations and inequalities in Grade 11 Advanced. Vietnam teaches the basic equations in Bài 4. South Sudan solves equations graphically and arithmetically, including quadratic-shaped ones, in Secondary 4 Additional Mathematics. China solves from the trig lines and graphs in its B-edition Volume 3.
 
 Malaysia solves its trigonometric equations inside the same Additional Mathematics Form 5 chapter that builds the identities — the equations are the identities put to work.
 
 Rwanda teaches trigonometric equations in its Advanced Senior Five book — principal and general solutions, the sin nx = k forms, a sin x + b cos x = c, and inequalities by unit circle and sign tables — with the Advanced Teacher's Guide adding a t-formula method for the a sin x + b cos x = c form.
 
 India enters trigonometric equations from Mathematics Class 11: principal solutions of sin x = a, tan x = a etc..
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *La Matemática y el Vivir Bien* (Grade 11). From its books: from Grade 11: trig equation in sen x and csc x reduced to the cubic 12y³ − 25y² + y + 2 = 0; the root sen x = 2 discarded as impossible; solution families by quadrant and period.

@@ -1,6 +1,6 @@
 # Sources — Pythagoras
 
-countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia
+countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela
 
 Every part traces to its book and page.
 
@@ -136,6 +136,8 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 **Book 54:** *Mathematics — Textbook for Class VIII* — India, NCERT, New Delhi, first edition January 2008, 2020-21 printing, ISBN 978-81-7450-814-0. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Just for Fun sections; nothing is cited from them.
 **Book 55:** *Mathematics — Textbook for Class X* — India, NCERT, New Delhi, first edition December 2006, 2020-21 printing, ISBN 81-7450-634-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
 **Book 56:** *Математик VIII (Mathematics, Grade 8)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 57:** *Conciencia Matemática* — Venezuela, Grade 8 (2do año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-320-3. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 58:** *La Matemática de la Belleza* — Venezuela, Grade 9 (3er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-329-6. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -213,7 +215,17 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 | Pythagorean-triple generator 2mn, m²−n², m²+n² (prove or give a counterexample) | Mongolia, Математик VIII (Grade 8), printed p. 117 |
 | Theorem — altitude on the hypotenuse: Euclid's relations CD² = AD·BD, BC² = BD·BA, CA² = AD·AB (boxed) | Mongolia, Математик VIII (Grade 8), printed p. 129 |
 
-**Acceptance count: taught in 28 countries (Egypt, Greece, Armenia, Kazakhstan, Vietnam, Sierra Leone, Libya, Mauritania, South Africa, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia).**.** Egypt carries the fullest single treatment — Iran states Pythagoras' theorem in Grade 8 and verifies it on examples rather than proving it, and uses the converse.
+| Construction activity — right triangle 6-8-10 cm; legs (catetos) and hypotenuse named; squares built on the three sides | Venezuela, Conciencia Matemática (Grade 8), printed p. 10 |
+| Rule — conjecture from areas 36 + 64 = 100 becomes the theorem a² + b² = c² | Venezuela, Conciencia Matemática (Grade 8), printed p. 12 |
+| Extension — theorem tested with similar figures (equilateral triangles 3-4-5) built on the sides | Venezuela, Conciencia Matemática (Grade 8), printed p. 13 |
+| Application — sundial (reloj de sol) construction: right-triangle gnomon with angle φ = 12,2° (latitude of Venezuela), Pythagoras checked on its sides 4,1 / 19 / 19,43 cm | Venezuela, Conciencia Matemática (Grade 8), printed p. 20 |
+| Right triangles named — legs (catetos) and hypotenuse defined; the theorem discovered by building squares on the three sides and comparing areas | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 53–54 |
+| Finding the hypotenuse — gate diagonal: legs 1 m and 2 m give √5 ≈ 2,23 m; rectangle diagonals are hypotenuses | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 55–56 |
+| Finding a leg — leg = √(hypotenuse² − other leg²); door example printed with a wrong subtraction (see band errors) | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 57–58 |
+| Pythagorean triples — the knotted 3-4-5 rope of the Egyptian surveyors; scaling a triple by 2 gives 6-8-10, also a triple | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 60–61 |
+| Testing triples — exercises checking given triples (20-12-16, 25-15-20, …) and a square whose diagonal is 5√3 cm | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 62–63 |
+
+**Acceptance count: taught in 29 countries (Egypt, Greece, Armenia, Kazakhstan, Vietnam, Sierra Leone, Libya, Mauritania, South Africa, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela).**.** Egypt carries the fullest single treatment — Iran states Pythagoras' theorem in Grade 8 and verifies it on examples rather than proving it, and uses the converse.
 the theorem, its converse, classifying triangles by comparing
 squares, the 13-foot ladder and a Pythagoras practical in Grade
 8. Sierra Leone carries the cleanest ladder in JSS 3 — the
@@ -254,3 +266,5 @@ India enters Pythagoras from Mathematics Class 7–8, 10: pythagoras property a�
 
 
 Mongolia enters through its ministry textbook Математик VIII (Grade 8): the theorem with an area-dissection proof and its converse stated, worked through roofs, ladders, kites and lake widths, a Pythagorean-triple generator (2mn, m² − n², m² + n²) set as prove-or-disprove, and Euclid's altitude-on-the-hypotenuse relations.
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Conciencia Matemática* (Grade 8) and *La Matemática de la Belleza* (Grade 9). From its books: from Grade 8: construction activity — right triangle 6-8-10 cm; legs (catetos) and hypotenuse named; squares built on the three sides; from Grade 9: right triangles named — legs (catetos) and hypotenuse defined; the theorem discovered by building squares on the three sides and comparing areas.

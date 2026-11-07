@@ -1,6 +1,6 @@
 # Sources — Fractals: shapes inside shapes
 
-countries: China, Syria, India
+countries: China, Syria, India, Venezuela
 
 Every part traces to its book and page.
 
@@ -9,6 +9,7 @@ Every part traces to its book and page.
 
 **Book 3:** *Mathematics — Geometry, Student's Book, Grade 9* — Syria, Ministry of Education, held printing 2025–2026/1446H, first printed 2017–2018, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
 **Book 4:** *Mathematics — Textbook for Class VI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 issue, ISBN 81-7450-482-6. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 5:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -18,9 +19,25 @@ Every part traces to its book and page.
 | Self-similarity and fractals in the similarity unit's opener (Mandelbrot): every part resembles the whole — in broccoli, the Sierpinski triangle and coastlines — with the self-similar spiral of shrinking rotated squares in an Islamic geometric ornament (زخرفة إسلامية) from the Umayyad Mosque, spiralling toward the golden ratio | Syria, Grade 9 Geometry student's book, printed p. 20 |
 | Fractals — Koch's snowflake named as a symmetric fractal pattern to explore | India, Mathematics Class 6, printed p. 267 |
 
-**Acceptance count: taught in 3 countries (China, Syria, India).**
+| Self-similarity defined; a fractal is a self-similar object at every scale; chaos and sensitivity to initial conditions | Venezuela, Naturaleza Matemática (Grade 10), printed p. 151 |
+| Iteration defined; the Julia iteration z_{n+1} = z_n² + c with c fixed | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 153–154 |
+| Julia set as the boundary of the points whose orbit does not escape to infinity | Venezuela, Naturaleza Matemática (Grade 10), printed p. 155 |
+| The Julia set for c = 0 is the unit circle; other c values give distorted fractal boundary curves | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 157–158 |
+| Connected vs disconnected Julia sets; testing the orbit of 0 decides connectedness | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 158–162 |
+| Mandelbrot set defined two ways (c whose orbit does not escape; c whose Julia set is connected); zoom self-similarity of its boundary | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 159–160 |
+| Fractal properties: self-similarity, non-integer fractal dimension, infinite iterative construction | Venezuela, Naturaleza Matemática (Grade 10), printed p. 165 |
+| Cantor set construction (remove the middle third, repeat); at stage n there are 2^n segments of total length (2/3)^n — stages computed to stage 4 (16/81) | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 166–170 |
+| Von Koch curve as the limit of the iterated polygonal | Venezuela, Naturaleza Matemática (Grade 10), printed p. 171 |
+| Sierpinski triangle construction (equilateral triangle split in 4, centre removed, repeat) | Venezuela, Naturaleza Matemática (Grade 10), printed p. 172 |
+| Sierpinski carpet construction (square in 9, centre removed, 8 squares of side 1/3, repeat) | Venezuela, Naturaleza Matemática (Grade 10), printed p. 173 |
+| Peano and Hilbert space-filling curves; Hilbert curve construction by joining centres of quartered squares | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 175–176 |
+| Pythagorean-tree fractal from squares on a right isosceles triangle | Venezuela, Naturaleza Matemática (Grade 10), printed p. 177 |
+
+**Acceptance count: taught in 4 countries (China, Syria, India, Venezuela).**
 China is the only country in the read stock that files fractals at all, and it files them honestly small: a two-page reading of fractal figures (Sierpiński carpet and triangle, Koch snowflake, a pentagon fractal) inside the Grade 9 similarity chapter, and a two-page extended reading on the Julia and Mandelbrot sets grown from z → z² + c inside the senior B-edition complex-numbers chapter. Both are readings/enrichment as filed, and this lesson is built at exactly that size — it teaches the two readings whole, with counting and iteration worked from their own figures and rule, and claims no fractal chapter, exercise set or second country that the stock does not hold.
 
 Syria opens its Grade 9 similarity unit with self-similarity in Islamic geometric ornament — a pattern of shrinking rotated squares spiralling toward the golden ratio — as the intuitive door into fractals.
 
 India enters fractals from Mathematics Class 6: shapes inside shapes — the fractal idea met as a pattern investigation.
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Naturaleza Matemática* (Grade 10). From its books: from Grade 10: self-similarity defined; a fractal is a self-similar object at every scale; chaos and sensitivity to initial conditions.

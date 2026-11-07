@@ -1,6 +1,6 @@
 # Sources — Multiplying and Dividing Fractions
 
-countries: Kazakhstan, Jordan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia
+countries: Kazakhstan, Jordan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela
 
 Every part traces to its book and page.
 
@@ -150,6 +150,9 @@ only: Ghana's set holds no pupil textbook at all.
 **Book 58:** *Математик VI (Mathematics, Grade 6)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 59:** *Математик VII (Mathematics, Grade 7)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 60:** *Математик VIII (Mathematics, Grade 8)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 61:** *La Patria Buena* — Venezuela, Grade 5 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-306-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 62:** *Hecho en Venezuela* — Venezuela, Grade 6 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-308-1. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 63:** *Matemática Para La Vida* — Venezuela, Grade 7 (1er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-322-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -230,7 +233,18 @@ only: Ghana's set holds no pupil textbook at all.
 | Long mixed fraction/decimal calculations and order-of-operations chains | Mongolia, Математик VII (Grade 7), printed p. 30 |
 | Multiplying and dividing rational numbers | Mongolia, Математик VIII (Grade 8), printed p. 13 |
 
-**Acceptance count: taught in 29 countries (Kazakhstan, Jordan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia).** Nepal carries multiplying and dividing fractions from multiplication only in Grade 5 (Unit 12, pp. 77–95 — no division there), to multiplying and dividing fractions including mixed numbers and fraction-of-quantity in Grade 6 (पाठ 4, pp. 53–75). Bangladesh carries multiplying and dividing fractions from multiplication and division by integers and by fractions, with division on the number line, in Class 5 (Ch. 6 §§6.3–6.7, pp. 38–64), through multiplication and division of fractions in Class 6 (Ch. 4, pp. 57–102), to division of algebraic expressions — polynomial ÷ monomial and polynomial ÷ polynomial — in Class 7 (Exp. 11, pp. 215–226). The third worked division on Class 7 p. 220 is taught corrected: (21y²z²)/(−4y²z) is given as 3z; the correct value is −5.25z. Iraq carries multiplying and dividing fractions from multiplying common fractions in Grade 5 (Ch. 6 L4, p. 111, contents level — the lesson page was not individually opened), through multiplying common and mixed numbers and dividing common and mixed numbers in Grade 6 (Ch. 3 L1–L4, pp. 56–65). Kazakhstan carries the full course with the rule derived, Iran multiplies and divides fractions in Grade 5 and defines reciprocals in Grade 6.
+| Meaning — A fraction of a fraction as an area (overlap) model on the unit square: ½ of 2/3 = 2/6 | Venezuela, La Patria Buena (Grade 5), printed pp. 19–20 |
+| Rule — Fraction × fraction rule: multiply numerators, multiply denominators (½ × 2/3 = 2/6) | Venezuela, La Patria Buena (Grade 5), printed p. 20 |
+| Meaning — Fraction of an improper fraction by the area model (3/2 of 4/3 = 12/6) | Venezuela, La Patria Buena (Grade 5), printed pp. 20–21 |
+| Multiplication — Multiplying fractions: numerator × numerator, denominator × denominator (5/4 × 1/2 = 5/8), with commutative/associative properties and neutral element 1 | Venezuela, Hecho en Venezuela (Grade 6), printed pp. 100–101 |
+| Meaning — Fraction division as containment: how many times 1/8 fits in 2/4 (= 4), and 1/3 in 1/6 (= ½, only half of it fits) | Venezuela, Hecho en Venezuela (Grade 6), printed pp. 102–103 |
+| Division rule — The cross-multiplication rule a/b ÷ c/d = ad/bc, simplified afterwards (2/4 ÷ 1/8 = 16/4 = 4; 1/6 ÷ 1/3 = 3/6 = 1/2) | Venezuela, Hecho en Venezuela (Grade 6), printed p. 104 |
+| Area model — Multiplication of rationals by an area model on the Cartesian plane: (2/3) × (−1/2) = −2/6, the sign read from the quadrant of the overlap | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 101–103 |
+| Multiplication rule — The multiplication rule: (a/b)(c/d) = (a·c)/(b·d) | Venezuela, Matemática Para La Vida (Grade 7), printed p. 103 |
+| Reciprocal — Multiplicative inverse (reciprocal): 6/5 is the inverse of 5/6 because their product is 1; additive and multiplicative inverses of 4/3 contrasted | Venezuela, Matemática Para La Vida (Grade 7), printed p. 107 |
+| Division — Division of rationals as containment, then by rule: (−3/10) ÷ (−1/5) = 3/2; a/b ÷ c/d = (a·d)/(b·c) with b, c, d ≠ 0 | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 108–109 |
+
+**Acceptance count: taught in 30 countries (Kazakhstan, Jordan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela).** Nepal carries multiplying and dividing fractions from multiplication only in Grade 5 (Unit 12, pp. 77–95 — no division there), to multiplying and dividing fractions including mixed numbers and fraction-of-quantity in Grade 6 (पाठ 4, pp. 53–75). Bangladesh carries multiplying and dividing fractions from multiplication and division by integers and by fractions, with division on the number line, in Class 5 (Ch. 6 §§6.3–6.7, pp. 38–64), through multiplication and division of fractions in Class 6 (Ch. 4, pp. 57–102), to division of algebraic expressions — polynomial ÷ monomial and polynomial ÷ polynomial — in Class 7 (Exp. 11, pp. 215–226). The third worked division on Class 7 p. 220 is taught corrected: (21y²z²)/(−4y²z) is given as 3z; the correct value is −5.25z. Iraq carries multiplying and dividing fractions from multiplying common fractions in Grade 5 (Ch. 6 L4, p. 111, contents level — the lesson page was not individually opened), through multiplying common and mixed numbers and dividing common and mixed numbers in Grade 6 (Ch. 3 L1–L4, pp. 56–65). Kazakhstan carries the full course with the rule derived, Iran multiplies and divides fractions in Grade 5 and defines reciprocals in Grade 6.
 not just stated; Egypt carries the area-model multiplication and
 the two unit-fraction divisions as their own lessons, and the
 Grade 6 division modelling; Jordan carries multiplying and dividing
@@ -261,3 +275,5 @@ India stocks multiplying and dividing fractions from Mathematics Class 7: whole 
 
 
 Mongolia enters through its ministry textbooks Математик VI, VII, VIII (Grades 6, 7, 8): multiplying fractions as fraction-of-a-quantity, dividing by the reciprocal rule justified from pictured sharing (2 ÷ ¼ = 8), and finding the whole from a known part.
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *La Patria Buena* (Grade 5), *Hecho en Venezuela* (Grade 6) and *Matemática Para La Vida* (Grade 7). From its books: from Grade 5: meaning — A fraction of a fraction as an area (overlap) model on the unit square: ½ of 2/3 = 2/6; from Grade 6: multiplication — Multiplying fractions: numerator × numerator, denominator × denominator (5/4 × 1/2 = 5/8), with commutative/associative properties and neutral element 1; from Grade 7: area model — Multiplication of rationals by an area model on the Cartesian plane: (2/3) × (−1/2) = −2/6, the sign read from the quadrant of the overlap.

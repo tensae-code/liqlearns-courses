@@ -1,6 +1,6 @@
 # Sources — The special lines and centres of a triangle
 
-countries: Kuwait, Laos, Yemen, Cambodia, Egypt, Greece, Iraq, Jordan, Sierra Leone, Kazakhstan, Syria, Sudan, Mongolia
+countries: Kuwait, Laos, Yemen, Cambodia, Egypt, Greece, Iraq, Jordan, Sierra Leone, Kazakhstan, Syria, Sudan, Mongolia, Venezuela
 
 Every part traces to its book and page.
 
@@ -23,6 +23,10 @@ Every part traces to its book and page.
 
 **Book 15:** *Mathematics, Grade 8 (Second Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2022, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 16:** *Математик IX (Mathematics, Grade 9)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 17:** *La Patria Buena* — Venezuela, Grade 5 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-306-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 18:** *Hecho en Venezuela* — Venezuela, Grade 6 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-308-1. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 19:** *Matemática Para La Vida* — Venezuela, Grade 7 (1er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-322-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 20:** *La Matemática de la Belleza* — Venezuela, Grade 9 (3er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-329-6. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -51,7 +55,27 @@ Every part traces to its book and page.
 | Medians and the centroid — medians concurrent at the centroid, dividing each median 2:1 from the vertex — with proof | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 78 |
 | Median to the hypotenuse — median to the hypotenuse equals half the hypotenuse — proved by doubling the median | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 81 |
 | Property — median property; the centroid | Mongolia, Математик IX (Grade 9), printed p. 82 |
-**Acceptance count: taught in 13 countries (Kuwait, Laos, Yemen, Cambodia, Egypt, Greece, Iraq, Jordan, Sierra Leone, Kazakhstan, Syria, Sudan, Mongolia).**
+
+| Barycentre exercise — find the centroid (intersection of medians) of the triangle with vertices (−3,2), (1,0), (5,5) | Venezuela, La Matemática de la Belleza (Grade 9), printed p. 76 |
+| Altitudes — Altitude of a triangle defined: the perpendicular segment from a vertex to the line containing the opposite side | Venezuela, La Patria Buena (Grade 5), printed pp. 109–111 |
+| Altitudes — Constructing an altitude with compass (perpendicular from a point) in an acute triangle, where it falls inside | Venezuela, La Patria Buena (Grade 5), printed pp. 111–112 |
+| Altitudes — Altitude in an obtuse triangle falls outside, onto the prolongation of the opposite side | Venezuela, La Patria Buena (Grade 5), printed pp. 113–114 |
+| Altitudes — In a right triangle an altitude can coincide with a side | Venezuela, La Patria Buena (Grade 5), printed pp. 114–115 |
+| Orthocentre — The three altitudes (or their prolongations) are concurrent; the point is the ORTOCENTRO (orthocentre), inside/on/outside by triangle type | Venezuela, La Patria Buena (Grade 5), printed pp. 116–117 |
+| Altitudes — Equal altitudes in isosceles and equilateral triangles (discussion) | Venezuela, La Patria Buena (Grade 5), printed p. 117 |
+| Notable lines — Altitudes and the orthocentre recalled from Grade 5 | Venezuela, Hecho en Venezuela (Grade 6), printed pp. 131–132 |
+| Medians — Median defined (vertex to midpoint of the opposite side); midpoint constructed with compass arcs; the three medians concurrent at the BARICENTRO (centroid), the triangle's centre of gravity | Venezuela, Hecho en Venezuela (Grade 6), printed pp. 132–134 |
+| Centroid ratio — The centroid divides each median in the ratio 2:1 — it lies two-thirds of the median from the vertex | Venezuela, Hecho en Venezuela (Grade 6), printed p. 134 (the same pages also claim the centroid is equidistant from the vertices — false; see band draft, suspected error 7) |
+| Perpendicular bisectors — Mediatriz (perpendicular bisector) of a side defined; the three concurrent at the CIRCUNCENTRO, centre of the circumscribed circle through the three vertices | Venezuela, Hecho en Venezuela (Grade 6), printed pp. 135–136 |
+| Bisectors — Angle bisector defined and constructed with ruler and compass; every point of a bisector is equidistant from the angle's sides (stated as a conjecture) | Venezuela, Hecho en Venezuela (Grade 6), printed pp. 136–138 |
+| Incentre — The three bisectors concurrent at the INCENTRO, centre of the inscribed circle touching the three sides | Venezuela, Hecho en Venezuela (Grade 6), printed pp. 138–139 |
+| Notable lines — In an equilateral triangle all four notable lines coincide (activity); circumcentre inside/outside/on the hypotenuse by triangle type (activities) | Venezuela, Hecho en Venezuela (Grade 6), printed p. 139 |
+| Altitudes — Altitude of a triangle defined (perpendicular segment from a vertex to the line containing the opposite side); in an obtuse triangle the altitude falls outside, in a right triangle it coincides with a leg | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 173–178 |
+| Orthocentre — Orthocentre: the point where the three altitudes (or their lines) concur, inside, outside or at the right-angle vertex according to the triangle type | Venezuela, Matemática Para La Vida (Grade 7), printed p. 179 |
+| Medians — Medians and the baricentro (centroid): the well for three farms is placed at the concurrence of the medians, which lies two-thirds of the way along each median from the vertex; the baricentro is the triangle's centre of gravity | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 181–183 |
+| Circumcentre — Mediatrices and the circumcentre: the radio antenna goes at the concurrence of the perpendicular bisectors, the centre of the circle through the three vertices | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 184–185 |
+| Incentre — Bisectrices and the incentre: the collection centre goes at the concurrence of the angle bisectors, centre of the inscribed circle tangent to the three sides | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 188–189 |
+**Acceptance count: taught in 14 countries (Kuwait, Laos, Yemen, Cambodia, Egypt, Greece, Iraq, Jordan, Sierra Leone, Kazakhstan, Syria, Sudan, Mongolia, Venezuela).**
 Kuwait carries the fullest treatment — a whole Grade 9 Term 2 unit walking the six topics in order: mid-segment, median to the hypotenuse, circumcentre, incentre, orthocentre, centroid — and its Grade 10 Term 2 book carries this lesson's one corrected error: the angle-bisector intersection printed as "Circum Center" on p. 23 is the Incenter, taught corrected everywhere in this lesson. Laos carries the notable lines whole in Grade 7, opened by the paper-triangle balancing experiment, with OA = OB = OC at the circumcentre. Yemen carries a proved triangle-theorem sequence in Grade 8 Part 2 — Thales and the bisectors in Unit 6, then mid-segment, hypotenuse-midpoint, the 30° side, medians and altitudes in Unit 7. Cambodia carries the full concurrence system in one Grade 8 lesson, with the centroid's AG = (2/3)AA′ proved via the midpoint theorem. Egypt carries the medians, their concurrency and the median-to-the-hypotenuse in Grade 8 Term 1. Greece carries the centroid and orthocentre among the notable lines in Euclidean Geometry Volume A. Iraq carries the medians and centroid with the 2:1 ratio in Grade 9. Jordan carries proportional parts, the mid-segment theorem, the bisectors' concurrency, medians and altitudes in Grade 9 Term 2. Sierra Leone carries the mid-point theorem and the angle bisector theorem in SSS 2. Kazakhstan carries the excircles — the part no other cited country teaches — in Geometry 8 §1.7 and Geometry 9 §20.
 
 Syria's triangle-centre theory is in Grade 8 Geometry — perpendicular bisectors, altitudes, medians and bisectors each proved concurrent — and is recalled in the Grade 9 diagnostic.
@@ -60,3 +84,5 @@ Sudan teaches the medians and the centroid, and the median to the hypotenuse, in
 
 
 Mongolia enters through its ministry textbooks Математик IX (Grade 9): property.
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *La Patria Buena* (Grade 5), *Hecho en Venezuela* (Grade 6), *Matemática Para La Vida* (Grade 7) and *La Matemática de la Belleza* (Grade 9). From its books: from Grade 5: altitudes — Altitude of a triangle defined: the perpendicular segment from a vertex to the line containing the opposite side; from Grade 7: altitudes — Altitude of a triangle defined (perpendicular segment from a vertex to the line containing the opposite side); in an obtuse triangle the altitude falls outside, in a right triangle it coincides with a leg; from Grade 9: barycentre exercise — find the centroid (intersection of medians) of the triangle with vertices (−3,2), (1,0), (5,5).

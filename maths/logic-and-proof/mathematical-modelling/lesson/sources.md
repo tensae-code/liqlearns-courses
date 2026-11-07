@@ -1,11 +1,12 @@
 # Sources — Mathematical Modelling
 
-countries: Malaysia, India
+countries: Malaysia, India, Venezuela
 
 Every part traces to its book and page.
 
 **Book 1:** *Mathematics Form 5* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2020, ISBN 978-967-2930-12-9) and BM original *Matematik Tingkatan 5* (Penerbitan Pelangi Sdn. Bhd., 2020, ISBN 978-967-2907-93-0). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 2:** *Mathematics — Textbook for Class X* — India, NCERT, New Delhi, first edition December 2006, 2020-21 printing, ISBN 81-7450-634-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
+**Book 3:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 On Malaysia in this lesson: Malaysia's Form 5 book gives mathematical modelling the closing chapter of its core course — the only full, named treatment in the read set. Problem-solving-strategies (its own lesson) covers attack plans for problems already posed mathematically, and carries Malaysia's Polya example and this chapter's modelling/problem-solving contrast as cross-keys; the modelling cycle itself, and the worked rice case, live here. Built under the everything-goes-in ruling.
 
@@ -21,6 +22,14 @@ On Malaysia in this lesson: Malaysia's Form 5 book gives mathematical modelling 
 | Illustrations: rolling a pair of dice (probability model), bicycle purchase on instalments (interest model), estimating trees/leaves-type estimation models | India, Mathematics Class 10, printed p. 339 |
 | Why modelling matters — importance, advantages and limitations of mathematical modelling | India, Mathematics Class 10, printed p. 343 |
 
-**Acceptance count: taught in 2 countries (Malaysia, India).** Malaysia's Form 5 book carries the full modelling cycle with a complete worked case; the other read countries teach problem solving within topics but name no modelling method, so this lesson is built at that honest size.
+| Building an exponential population model H(n) = H(1950)(1.0179)^(n−1950) from decade variation rates; model error under about 1.1% checked | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 119–121 |
+| Mathematical modelling of cyclic phenomena defined (tides) | Venezuela, Naturaleza Matemática (Grade 10), printed p. 178 |
+| Midline of the tide model from the extremes: a = (M + m)/2 = (1.19 + 0.59)/2 = 0.89 | Venezuela, Naturaleza Matemática (Grade 10), printed p. 190 |
+| The tide period measured as about 13 h, giving c = 2π/13 in the model | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 196–197 |
+| The completed tide model f(x) = 0.89 + 0.3 sen((2π/13)x + 2.2) assembled parameter by parameter | Venezuela, Naturaleza Matemática (Grade 10), printed p. 200 |
+
+**Acceptance count: taught in 3 countries (Malaysia, India, Venezuela).** Malaysia's Form 5 book carries the full modelling cycle with a complete worked case; the other read countries teach problem solving within topics but name no modelling method, so this lesson is built at that honest size.
 
 India enters mathematical modelling from Mathematics Class 10: what modelling is.
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Naturaleza Matemática* (Grade 10). From its books: from Grade 10: building an exponential population model H(n) = H(1950)(1.0179)^(n−1950) from decade variation rates; model error under about 1.1% checked.

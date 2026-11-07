@@ -1,6 +1,6 @@
 # Sources — Angles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela
 
 Every part traces to its book and page.
 
@@ -249,6 +249,11 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 133:** *Математик VI (Mathematics, Grade 6)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 134:** *Математик VII (Mathematics, Grade 7)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 135:** *Математик VIII (Mathematics, Grade 8)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 136:** *Aventuras de Patacalientes* — Venezuela, Grade 3 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-295-4. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 137:** *Contando con los recursos* — Venezuela, Grade 4 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-305-0. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 138:** *La Patria Buena* — Venezuela, Grade 5 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-306-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 139:** *Matemática Para La Vida* — Venezuela, Grade 7 (1er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-322-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 140:** *Conciencia Matemática* — Venezuela, Grade 8 (2do año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-320-3. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -445,7 +450,23 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Number of diagonals of a convex n-gon | Mongolia, Математик VIII (Grade 8), printed p. 98 |
 | Parallel lines and angles: corresponding, alternate, co-interior | Mongolia, Математик VIII (Grade 8), printed p. 114 |
 
-**Acceptance count: taught in 32 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia).** Egypt carries the fullest single Iran measures angles with a protractor in Grade 4, bisects angles and sums polygon angles in Grade 5, and gives the (n − 2) × 180° interior-angle rule in Grade 8.
+| What an angle is — el ángulo formed by two sides (lados) meeting at a vértice; the right angle (ángulo recto) recognised | Venezuela, Aventuras de Patacalientes (Grade 3), printed pp. 46–51 |
+| Measuring angles — el ángulo as two rays with a common origin (vértice), lados, Greek-letter names, the notation ∢BOC; measure between 0° and 180°; the grado sexagesimal; the transportador (protractor); drawing a 70° angle step by step | Venezuela, Contando con los recursos (Grade 4), printed pp. 94–95 |
+| Kinds of angles — recto = 90°, agudo 0–90°, obtuso 90–180°, llano = 180°, with m∢ notation | Venezuela, Contando con los recursos (Grade 4), printed pp. 96–97 |
+| Kinds of triangles by angles — rectángulo, obtusángulo, acutángulo; cutting off the three interior angles and laying them on a straight line shows the sum is a llano (180°) — conclusion left for discussion | Venezuela, Contando con los recursos (Grade 4), printed pp. 116–117 |
+| Impossible triangles — questions: can one triangle hold a right angle and an obtuse angle, two right angles, two obtuse angles (posed, not answered) | Venezuela, Contando con los recursos (Grade 4), printed pp. 120–121 |
+| Puzzles — clock-hand angles at 12:15 and at 3:10; dividing a clock face into three equal-sum parts | Venezuela, Conciencia Matemática (Grade 8), printed p. 22 |
+| Rule — angles around an intersection sum to 360°; consecutive, supplementary (180°) and complementary (90°) angles defined | Venezuela, Conciencia Matemática (Grade 8), printed p. 78 |
+| Rule — vertically opposite angles are equal, hence congruent | Venezuela, Conciencia Matemática (Grade 8), printed p. 79 |
+| Definition — alternate interior, alternate exterior and corresponding angles formed by a transversal | Venezuela, Conciencia Matemática (Grade 8), printed p. 80 |
+| Angle sum — The triangle's interior angles sum to 180°, discovered by cutting the corners off and laying them on a straight line | Venezuela, La Patria Buena (Grade 5), printed pp. 106–107 |
+| Triangle inequality — The triangle inequality met as a property to verify (sum of two sides always greater than the third); impossible side triples (9, 4, 3) fail to construct | Venezuela, La Patria Buena (Grade 5), printed pp. 104, 107 |
+| Angle sum — A quadrilateral's interior angles sum to 360°, shown by the diagonal split into two triangles and by fitting the corners into a full 360° central angle | Venezuela, La Patria Buena (Grade 5), printed pp. 124–125 |
+| Parallelograms — Consecutive angles of a parallelogram are supplementary and opposite angles equal (measurement discovery) | Venezuela, La Patria Buena (Grade 5), printed p. 125 |
+| Angle sum — The interior angles of a triangle sum to 180°, shown by gathering the three corners into a straight angle and stated as a theorem to be proved later | Venezuela, Matemática Para La Vida (Grade 7), printed p. 155 |
+| Polygon angles — Interior angle of a regular pentagon: the fan of diagonals from one vertex splits it into 3 triangles, so the sum is 540° and each angle of the regular pentagon is 540° ÷ 5 = 108° | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 163–164 |
+
+**Acceptance count: taught in 33 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela).** Egypt carries the fullest single Iran measures angles with a protractor in Grade 4, bisects angles and sums polygon angles in Grade 5, and gives the (n − 2) × 180° interior-angle rule in Grade 8.
 treatment — the angle kinds, the protractor, complementary and
 supplementary pairs, the transversal's eight angles, and the
 triangle and quadrilateral sums in one Grade 7 unit. Jordan
@@ -484,3 +505,5 @@ India carries angles through its NCERT ladder — Math-Magic Class 5 and Mathema
 
 
 Mongolia enters through its ministry textbooks Математик II, III, IV, V, VI, VII, VIII (Grades 2, 3, 4, 5, 6, 7, 8): right angles by folding; angle, vertex, sides; recognising angles; the right angle.
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Aventuras de Patacalientes* (Grade 3), *Contando con los recursos* (Grade 4), *La Patria Buena* (Grade 5), *Matemática Para La Vida* (Grade 7) and *Conciencia Matemática* (Grade 8). From its books: from Grade 3: what an angle is — el ángulo formed by two sides (lados) meeting at a vértice; the right angle (ángulo recto) recognised; from Grade 5: angle sum — The triangle's interior angles sum to 180°, discovered by cutting the corners off and laying them on a straight line; from Grade 8: puzzles — clock-hand angles at 12:15 and at 3:10; dividing a clock face into three equal-sum parts.

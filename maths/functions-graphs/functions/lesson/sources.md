@@ -1,6 +1,6 @@
 # Sources — Functions
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia
+countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela
 
 Every part traces to its book and page.
 
@@ -166,6 +166,9 @@ CITATION CHECK PASSED 2026-11-05).
 **Book 96:** *Математик X (Mathematics, Grade 10)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 97:** *Математик XI (Mathematics, Grade 11)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 98:** *Математик XII (Mathematics, Grade 12)* — Mongolia, Ministry of Education, second edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 99:** *Conciencia Matemática* — Venezuela, Grade 8 (2do año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-320-3. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 100:** *La Matemática de la Belleza* — Venezuela, Grade 9 (3er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-329-6. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 101:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -345,7 +348,30 @@ CITATION CHECK PASSED 2026-11-05).
 | Asymptotes of rational functions — Vertical asymptote x = a at a root of Q; horizontal asymptote y = 0 (deg top < deg bottom) or y = aₙ/bₙ (equal degrees), defined without limits | Mongolia, Математик XII (Grade 12), printed p. 78 |
 | Asymptotes of rational functions — Sketching hyperbolas: y = (cx+d)/(ax+b) rewritten as y = q + k/(x−p); centre of symmetry (−b/a, c/a); domain/range swapping for the inverse of a Möbius function | Mongolia, Математик XII (Grade 12), printed p. 80 |
 
-**Acceptance count: taught in 27 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia).**.** Egypt carries the
+| Definition — linear function f(x) = ax + b (book requires a ≠ 0); each x has exactly one image f(x) | Venezuela, Conciencia Matemática (Grade 8), printed p. 99 |
+| Worked example — f(x) = 3x + 1 on Z: table, aligned points, increasing behaviour read from values | Venezuela, Conciencia Matemática (Grade 8), printed p. 100 |
+| Exercises — increasing/decreasing/constant read off the sign of the slope; equations of lines through given point pairs | Venezuela, Conciencia Matemática (Grade 8), printed p. 106 |
+| Definition — function as a relation A → B with a unique image per element; increasing/decreasing/constant relations from census data | Venezuela, Conciencia Matemática (Grade 8), printed p. 177 |
+| Modelling — fitting curves to Venezuela census data: linear f(x) = 3.364x (error at census 4: 13.456 − 7.524 = 5.932, i.e. ×1.000 people) | Venezuela, Conciencia Matemática (Grade 8), printed p. 179 |
+| Modelling — cubic relation f(x) = 30x³ + 3.000 compared with the quadratic fit on the census data | Venezuela, Conciencia Matemática (Grade 8), printed p. 184 |
+| Function, variables — infant-mortality rate as a function of the year; independent/dependent variables; discrete vs continuous variables; a relation is a function when each input has exactly one output | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 134–136 |
+| Domain and range — domain {x ∈ ℕ : 1990 ≤ x ≤ 2008} and the 18-value range set read from the mortality graph; f(1990) = 31,3 | Venezuela, La Matemática de la Belleza (Grade 9), printed p. 136 |
+| Increasing, decreasing, constant — definitions with inequalities; growth chart increasing, cryotherapy temperature decreasing on [0,25], constant function f(x) = 2,2 pictured | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 138–141 |
+| Injective functions — baby footprints: distinct babies have distinct prints, so the assignment is injective; the horizontal-line test | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 143–145 |
+| Surjective and bijective — surjectivity = range equals codomain (birth-day assignment is surjective, not injective); bijective = injective + surjective (footprints again) | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 146–148 |
+| Inverse functions — f⁻¹ defined by f⁻¹(y) = x ⇔ f(x) = y; −1 is not an exponent; a non-surjective injective t has an inverse relation that is not a function, so t has no inverse function | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 148–150 |
+| A linear inverse pair — Fahrenheit–Celsius: T_F = (9/5)T_C + 32 and its inverse T_C = (5/9)(T_F − 32), graphed together | Venezuela, La Matemática de la Belleza (Grade 9), printed p. 151 |
+| Even functions — f(x) = 5x⁴ − 3x² − 1: f(1) = f(−1) = 1, and f(−x) = f(x) proved in general; graph symmetric about the y-axis | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 152–153 |
+| Odd functions — g(x) = x⁵ − 3x³: g(1) = −2, g(−1) = 2, and g(−x) = −g(x) proved; t(x) = x² and h(x) = x³ to classify | Venezuela, La Matemática de la Belleza (Grade 9), printed p. 154 |
+| Range of a function read from its graph ([250, 310]); the y-intercept f(0) = 310 | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 42–43 |
+| Periodic function defined: f(x) = f(x + p), p the period; period 1.78 km in the worked track, 2.8 km in the second | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 45–49 |
+| Continuity of a graph read informally (every x between the extremes has an image) | Venezuela, Naturaleza Matemática (Grade 10), printed p. 48 |
+| Domain of a model vs domain of its graph ([0, 7] drawn, [0.25, 6] in the model) | Venezuela, Naturaleza Matemática (Grade 10), printed p. 93 |
+| Constant function f(x) = 4.06 as a model; a relation where each input has one output is a function | Venezuela, Naturaleza Matemática (Grade 10), printed p. 102 |
+| Inverse function defined for a bijective f; injectivity by the horizontal-line test, surjectivity | Venezuela, Naturaleza Matemática (Grade 10), printed p. 122 |
+| A graph cuts the x-axis ⇔ real roots/zeros; a rational function zero at its numerator's zero only | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 136–137 |
+
+**Acceptance count: taught in 28 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela).**.** Egypt carries the
 fullest build — Cartesian product, relation, function, domain
 and range in Preparatory 3; the sign of a function in
 Secondary 1; the inverse function in Grade 11 Pure. Jordan
@@ -386,3 +412,5 @@ Rwanda teaches functions in Senior 1: mappings, f(x) notation, inverse and compo
 Sudan defines the function in Grade 9 with unusual completeness — evaluation, image sets, range, surjectivity, injectivity, bijectivity and inverse functions — and both Grade 12 books return to function operations and composition.
 
 India stocks functions from Mathematics Class 10–12: graphs of polynomials; function concept; types of functions.
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Conciencia Matemática* (Grade 8), *La Matemática de la Belleza* (Grade 9) and *Naturaleza Matemática* (Grade 10). From its books: from Grade 8: definition — linear function f(x) = ax + b (book requires a ≠ 0); each x has exactly one image f(x); from Grade 9: function, variables — infant-mortality rate as a function of the year; independent/dependent variables; discrete vs continuous variables; a relation is a function when each input has exactly one output; from Grade 10: range of a function read from its graph ([250, 310]); the y-intercept f(0) = 310.

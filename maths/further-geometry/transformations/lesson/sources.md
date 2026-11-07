@@ -1,6 +1,6 @@
 # Sources — Transformations
 
-countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia
+countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela
 
 Every part traces to its book and page.
 
@@ -159,6 +159,8 @@ textbook.
 **Book 81:** *Математик VIII (Mathematics, Grade 8)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 82:** *Математик IX (Mathematics, Grade 9)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 83:** *Математик X (Mathematics, Grade 10)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 84:** *Conciencia Matemática* — Venezuela, Grade 8 (2do año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-320-3. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 85:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -282,7 +284,19 @@ textbook.
 | Matrix — homothety about the origin has matrix [[k, 0], [0, k]] | Mongolia, Математик X (Grade 10), printed p. 163 |
 | 30° rotation matrix used to generate a regular 12-gon | Mongolia, Математик X (Grade 10), printed p. 165 |
 
-**Acceptance count: taught in 27 countries (Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia).**.** Egypt carries the Iran rotates shapes in Grade 6, translates, reflects and rotates them with tracing paper in Grade 7, and gives transformations whole — homothety included — in Grade 11 Geometry (2).
+| Definition — reflection symmetry: the axis is the perpendicular bisector (mediatriz) of each point–image segment | Venezuela, Conciencia Matemática (Grade 8), printed p. 51 |
+| Construction — reflecting a point across a line: equal perpendicular distance on the other side (A → A′) | Venezuela, Conciencia Matemática (Grade 8), printed p. 52 |
+| Worked example — reflection in the Cartesian plane across the y-axis: D(5, 6) → D′(−5, 6) | Venezuela, Conciencia Matemática (Grade 8), printed p. 54 |
+| Definition — translation ("simetría de traslación" in the book): isometry given by a vector, with modulus, direction and sense | Venezuela, Conciencia Matemática (Grade 8), printed p. 55 |
+| Rule — translation in coordinates: add the translation vector to each vertex; A(1, 3) + (−4, 0) = A′(−3, 3) | Venezuela, Conciencia Matemática (Grade 8), printed p. 58 |
+| Worked example — translating a segment: A(1, 6), B(3, 2) by v(1, 5) gives A′(2, 11), B′(4, 7) | Venezuela, Conciencia Matemática (Grade 8), printed p. 59 |
+| Definition — rotation ("simetría de rotación" in the book): centre of rotation, angle and sense; positive = anticlockwise | Venezuela, Conciencia Matemática (Grade 8), printed p. 62 |
+| Construction — rotating triangle ABC by 80° about centre C with compass arcs and protractor | Venezuela, Conciencia Matemática (Grade 8), printed p. 62 |
+| Application — rotating a note polygon on a 7-note circle by 4 places: Do-Re-Mi-La maps to Sol-La-Si-Mi (transposition as rotational symmetry) | Venezuela, Conciencia Matemática (Grade 8), printed p. 229 |
+| Vertical translation of sine by the parameter a (a > 0 up, a < 0 down) | Venezuela, Naturaleza Matemática (Grade 10), printed p. 189 |
+| Horizontal translation: cos(x − d) shifts right, cos(x + d) shifts left; phase d ≈ 2.2 estimated for the tide model | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 197–200 |
+
+**Acceptance count: taught in 28 countries (Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela).**.** Egypt carries the Iran rotates shapes in Grade 6, translates, reflects and rotates them with tracing paper in Grade 7, and gives transformations whole — homothety included — in Grade 11 Geometry (2).
 fullest single treatment — all four moves defined with
 coordinate rules plus composition in Grade 7 Term 2. Jordan
 carries translation and reflection in Grade 6, rotation in
@@ -309,3 +323,5 @@ India enters transformations from Math-Magic Class 5 and Mathematics Class 7: ha
 
 
 Mongolia enters through its ministry textbooks Математик IV, V, VI, VII, VIII, IX, X (Grades 4, 5, 6, 7, 8, 9, 10): translation, symmetry and rotation on grids; definition; rules.
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Conciencia Matemática* (Grade 8) and *Naturaleza Matemática* (Grade 10). From its books: from Grade 8: definition — reflection symmetry: the axis is the perpendicular bisector (mediatriz) of each point–image segment; from Grade 10: vertical translation of sine by the parameter a (a > 0 up, a < 0 down).

@@ -1,6 +1,6 @@
 # Sources — Sequences and series
 
-countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia
+countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela
 
 Every part traces to its book and page.
 
@@ -167,6 +167,9 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 **Book 95:** *Математик VIII (Mathematics, Grade 8)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 96:** *Математик IX (Mathematics, Grade 9)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 97:** *Математик XI (Mathematics, Grade 11)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 98:** *Contemos... 1, 2, 3 y 4* — Venezuela, Grade 1 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-293-0. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 99:** *Triángulos, rectángulos y algo más...* — Venezuela, Grade 2 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-294-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 100:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -330,7 +333,23 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 | Geometric progression: nth term bₙ = b₁qⁿ⁻¹, characteristic property of three consecutive terms | Mongolia, Математик XI (Grade 11), printed p. 66 |
 | Geometric series — Sum of n terms of a GP, Sₙ = b₁(qⁿ−1)/(q−1), with word problems (paper folding, deposits) | Mongolia, Математик XI (Grade 11), printed p. 68 |
 
-**Acceptance count: taught in 26 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia).**.** Kazakhstan carries
+| Ascending and descending sequences — counting song of elephants 1 to 10 (adding one each time); dogs leaving one by one (menos 1, quedan…) down from 10 | Venezuela, Contemos... 1, 2, 3 y 4 (Grade 1), printed pp. 62–65 |
+| Number sequences — the counting sequence as the ordered list of all natural numbers (cada paso + 1) | Venezuela, Triángulos, rectángulos y algo más... (Grade 2), printed pp. 30–31 |
+| Sequence defined (ordered set of numbers under a rule); finite vs infinite; terms a1…an and the general term an | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 55–56 |
+| A sequence as a function on a subset of the naturals; general terms an = 3n and an = 2n − 1 worked | Venezuela, Naturaleza Matemática (Grade 10), printed p. 56 |
+| Series defined; Σ notation, finite and infinite sums read aloud | Venezuela, Naturaleza Matemática (Grade 10), printed p. 60 |
+| An infinite sum can be finite: 1/2 + 1/4 + 1/8 + … = 1 by partial sums, partial sum 1 − 1/2^n | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 61–62 |
+| An infinite sum can diverge although its terms shrink: the harmonic series grouped in blocks each > 1/2 | Venezuela, Naturaleza Matemática (Grade 10), printed p. 63 |
+| Geometric progression defined; general term an = a1·r^(n−1) | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 69–70 |
+| Sum of n terms of a GP, Sn = (r·an − a1)/(r − 1) | Venezuela, Naturaleza Matemática (Grade 10), printed p. 70 |
+| Interpolating m geometric means; ratio r = (b/a)^(1/(m+1)), worked 50 → 1600 in 6 weeks, r = 2 | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 71–72 |
+| In a GP the products of terms equidistant from the extremes are equal | Venezuela, Naturaleza Matemática (Grade 10), printed p. 72 |
+| Arithmetic progression defined (fixed difference, here called razón); general term an = a1 + (n − 1)r | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 75–76 |
+| Sum of an AP by Gauss pairing, Sn = (a1 + an)·n/2, worked 400…1300 = 8500 | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 77–78 |
+| Interpolating m arithmetic means; difference r = (b − a)/(m + 1), worked 11 → 39 with 6 means, r = 4 | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 78–79 |
+| Orbit of a starting value under iteration; attractor defined | Venezuela, Naturaleza Matemática (Grade 10), printed p. 154 |
+
+**Acceptance count: taught in 27 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela).**.** Kazakhstan carries
 the fullest treatment — all four Grade 9 Algebra books prove
 the nth-term formulas, the characteristic properties, both
 sum formulas and the infinite geometric sum, with applied
@@ -367,3 +386,5 @@ Rwanda teaches sequences and series from Primary 3 number patterns (its descendi
 Sudan teaches sequences in Grade 11 as functions, then arithmetic and geometric sequences with their sums and the infinite geometric sum.
 
 India stocks sequences and series from Math-Magic Class 5 and Mathematics Class 7, 10–11: number patterns; number patterns from expressions: tables for 2n − 1, 3n + 2, n² + 1 out to the 100th term; arithmetic progressions; sequences.
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Contemos... 1, 2, 3 y 4* (Grade 1), *Triángulos, rectángulos y algo más...* (Grade 2) and *Naturaleza Matemática* (Grade 10). From its books: from Grade 1: ascending and descending sequences — counting song of elephants 1 to 10 (adding one each time); dogs leaving one by one (menos 1, quedan…) down from 10; from Grade 2: number sequences — the counting sequence as the ordered list of all natural numbers (cada paso + 1); from Grade 10: sequence defined (ordered set of numbers under a rule); finite vs infinite; terms a1…an and the general term an.

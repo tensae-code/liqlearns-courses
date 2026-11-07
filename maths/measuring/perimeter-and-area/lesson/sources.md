@@ -1,6 +1,6 @@
 # Sources — Perimeter and Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela
 
 Every part traces to its book and page.
 
@@ -330,6 +330,12 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 157:** *Математик IX (Mathematics, Grade 9)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 158:** *Математик X (Mathematics, Grade 10)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 159:** *Математик XII (Mathematics, Grade 12)* — Mongolia, Ministry of Education, second edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 160:** *Triángulos, rectángulos y algo más...* — Venezuela, Grade 2 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-294-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 161:** *Contando con los recursos* — Venezuela, Grade 4 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-305-0. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 162:** *La Patria Buena* — Venezuela, Grade 5 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-306-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 163:** *Hecho en Venezuela* — Venezuela, Grade 6 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-308-1. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 164:** *Matemática Para La Vida* — Venezuela, Grade 7 (1er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-322-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 165:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -570,7 +576,29 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Formula — segment area = sector area ± triangle area (minor segment minus, major segment plus) | Mongolia, Математик X (Grade 10), printed p. 194 |
 | Sector area in radians — Area of a sector with central angle a radians: S = ar²/2, derived from the 2π case | Mongolia, Математик XII (Grade 12), printed p. 87 |
 
-**Acceptance count: taught in 32 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia).** Sierra Leone carries the cleanest Iran counts squares for area in Grade 3, derives the parallelogram and triangle areas in Grade 4, adds the rhombus and trapezium in Grade 5, and reaches polygon areas in Grade 10 Geometry (1) and Heron's formula in Grade 11 Geometry (2).
+| Perimeter — the sum of the measures of a figure's sides is its perímetro (tangram pieces measured and summed) | Venezuela, Triángulos, rectángulos y algo más... (Grade 2), printed pp. 130–131 |
+| Perimeter of a triangle — el perímetro of a triangle = the sum of its three sides; constructions from given sides (5-3-4, 6-6-4, 4-4-4 cm) | Venezuela, Contando con los recursos (Grade 4), printed pp. 118–119 |
+| Total length of a composite track (straights + two semicircle arcs) ≈ 3.56 km | Venezuela, Naturaleza Matemática (Grade 10), printed p. 41 |
+| Triangulating an irregular polygonal plot from one vertex to measure its area in the field | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 211–213 |
+| Triangle area from two sides and the included angle A = (ab sen ω)/2, in all three forms | Venezuela, Naturaleza Matemática (Grade 10), printed p. 220 |
+| The four triangulated areas computed (29.5, 22.3, 11.9, 6.38) and summed to the plot's total 70.09 km² | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 220–221 |
+| Heron's formula stated with semiperimeter s = (a + b + c)/2 | Venezuela, Naturaleza Matemática (Grade 10), printed p. 221 |
+| Heron's formula proved from the area formula and the cosine rule (one denominator in the proof contains a suspected misprint — see band draft) | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 224–226 |
+| Rectangle area — Surface vs area distinguished; area of a rectangle from a unit-square grid: A = b × h (12 × 8 = 96) | Venezuela, La Patria Buena (Grade 5), printed pp. 133–135 |
+| Parallelogram area — Area of a parallelogram by cut-and-move from a rectangle: A = b × h | Venezuela, La Patria Buena (Grade 5), printed p. 135 |
+| Triangle area — Area of a triangle as half the rectangle: A = b × h / 2 | Venezuela, La Patria Buena (Grade 5), printed pp. 136–137 |
+| Square area — Area of a square as side squared, A = l² | Venezuela, La Patria Buena (Grade 5), printed p. 137 |
+| Regions — Polygonal regions: any polygonal region decomposes into triangular regions, and its area is found that way | Venezuela, La Patria Buena (Grade 5), printed pp. 151–155 |
+| Area units — Area units: m² and its multiples/submultiples (1 km² = 1.000.000 m², 1 cm² = 0,0001 m²…) with the ×100 step | Venezuela, La Patria Buena (Grade 5), printed p. 156 |
+| Agricultural units — The are (a 10 m × 10 m square = 100 m²) and the hectare = 100 ares = 10.000 m² | Venezuela, La Patria Buena (Grade 5), printed p. 158 |
+| Grid areas — Areas inside a tessellation grid (9 cm × 6 cm rectangle, coloured squares and triangles) using A = b × h and A = b × h / 2 | Venezuela, Hecho en Venezuela (Grade 6), printed pp. 108–109 |
+| Rectangle area — Rectangle area recalled inside the cloth problem: 2.000 cm × 120 cm = 240.000 cm² | Venezuela, Matemática Para La Vida (Grade 7), printed p. 52 |
+| Comparing areas — Perimeter of a regular polygon as side × number of sides; areas of the equilateral triangle (b·h/2), square (l²) and regular hexagon (perimeter × apothem / 2) set up for comparison | Venezuela, Matemática Para La Vida (Grade 7), printed p. 159 |
+| Area units — Square units built by hand: the 1 dm² grid (1 dm = 10 cm), cm² and mm² as unit squares; area as the count of unit squares covering a surface, with m² as the reference unit | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 192–193 |
+| Composite areas — Composite areas by splitting a plot into regions and adding or subtracting: the heptagonal plot as triangle + square − quarter circle | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 201–202 |
+| Composite areas — The worked plot: triangle 4 × 2/2 = 4 km², square 4² = 16 km², quarter circle π·2²/4 = 3,1416 km², total A = 20 − 3,1416 = 16,86 km² at the 1 cm : 1 km scale | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 203–204 |
+
+**Acceptance count: taught in 33 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela).** Sierra Leone carries the cleanest Iran counts squares for area in Grade 3, derives the parallelogram and triangle areas in Grade 4, adds the rhombus and trapezium in Grade 5, and reaches polygon areas in Grade 10 Geometry (1) and Heron's formula in Grade 11 Geometry (2).
 ladder — perimeter short cuts, rectangle and triangle areas with
 the perpendicular-height rule, and the parallelogram, trapezium
 and composite areas in JSS 2. Jordan carries perimeter and area
@@ -610,3 +638,5 @@ India carries perimeter and area through its NCERT ladder — Math-Magic Class 4
 
 
 Mongolia enters through its ministry textbooks Математик II, III, IV, V, VI, VII, VIII, IX, X, XII (Grades 2, 3, 4, 5, 6, 7, 8, 9, 10, 12): perimeter introduced; perimeter problems; area as counting unit squares.
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Triángulos, rectángulos y algo más...* (Grade 2), *Contando con los recursos* (Grade 4), *La Patria Buena* (Grade 5), *Hecho en Venezuela* (Grade 6), *Matemática Para La Vida* (Grade 7) and *Naturaleza Matemática* (Grade 10). From its books: from Grade 2: perimeter — the sum of the measures of a figure's sides is its perímetro (tangram pieces measured and summed); from Grade 6: grid areas — Areas inside a tessellation grid (9 cm × 6 cm rectangle, coloured squares and triangles) using A = b × h and A = b × h / 2; from Grade 10: total length of a composite track (straights + two semicircle arcs) ≈ 3.56 km.

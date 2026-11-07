@@ -1,6 +1,6 @@
 # Sources — Mean Deviation and Variation
 
-countries: Bangladesh, Laos, Pakistan, Malaysia, Sudan, India, Mongolia
+countries: Bangladesh, Laos, Pakistan, Malaysia, Sudan, India, Mongolia, Venezuela
 
 Every part traces to its book and page.
 
@@ -17,6 +17,8 @@ Every part traces to its book and page.
 **Book 8:** *Mathematics — Textbook for Class XI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-486-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendices 1–2, the Answers and the Supplementary Material; nothing is cited from them.
 **Book 9:** *Математик XI (Mathematics, Grade 11)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 10:** *Математик XII (Mathematics, Grade 12)* — Mongolia, Ministry of Education, second edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 11:** *La Matemática de la Belleza* — Venezuela, Grade 9 (3er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-329-6. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 12:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -49,7 +51,13 @@ Every part traces to its book and page.
 | Standard deviation built step by step: deviations (x−x̄), squared deviations, variance as their mean, SD as its root | Mongolia, Математик XI (Grade 11), printed p. 199 |
 | Standard deviation formulas — Computational formula SD = √(Σx²/n − x̄²) proved; frequency and grouped-data versions; coding with (x−a) in additional tasks | Mongolia, Математик XI (Grade 11), printed p. 200 |
 | Variance of a random variable — Var(X) = E((X−μ)²) = E(X²) − μ² (identity derived); standard deviation σ = √Var(X) of a random variable | Mongolia, Математик XII (Grade 12), printed p. 175 |
-**Acceptance count: taught in 7 countries (Bangladesh, Laos, Pakistan, Malaysia, Sudan, India, Mongolia).** Bangladesh carries the lesson's spine in one chapter: why the centre is not enough, the range, mean deviation under its own name "mean interval", variance and standard deviation — with its Pearson year taught corrected as 1893, its English-only p.225 claim taught corrected, and quartile deviation never cited to it, because the book names it on p.211 and teaches it nowhere. Laos carries the sample-variance convention s² with denominator n − 1, worked on grouped rainfall data. Pakistan carries quartile deviation and its coefficient, the mean-deviation coefficients, and the coefficient of variation — and its own opposite convention, denominator n for sample variance too, kept labelled as Pakistan's way beside Laos's.
+
+| Standard deviation — deviations from the mean sum to zero, so square them: Σ(x − 14)² = 76 over the 28 ages, S = √(76/28) ≈ 1,6475 ≈ 1,65 years; formula S = √(Σ(xᵢ − mean)²/n) | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 216–217 |
+| Spreadsheet statistics — LibreOffice Calc walkthrough: Modo, Mediana, Promedio and DESVESTP over b2:b29 reproduce the hand results | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 218–222 |
+| Standard deviation formula and worked calculation, with values rescaled ÷1000 and the result rescaled back | Venezuela, Naturaleza Matemática (Grade 10), printed p. 16 |
+| Mean ± standard deviation as an interval describing the data | Venezuela, Naturaleza Matemática (Grade 10), printed p. 17 |
+| Coefficient of variation CV = S/x̄ × 100, relative vs absolute dispersion, comparing groups | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 17–18 |
+**Acceptance count: taught in 8 countries (Bangladesh, Laos, Pakistan, Malaysia, Sudan, India, Mongolia, Venezuela).** Bangladesh carries the lesson's spine in one chapter: why the centre is not enough, the range, mean deviation under its own name "mean interval", variance and standard deviation — with its Pearson year taught corrected as 1893, its English-only p.225 claim taught corrected, and quartile deviation never cited to it, because the book names it on p.211 and teaches it nowhere. Laos carries the sample-variance convention s² with denominator n − 1, worked on grouped rainfall data. Pakistan carries quartile deviation and its coefficient, the mean-deviation coefficients, and the coefficient of variation — and its own opposite convention, denominator n for sample variance too, kept labelled as Pakistan's way beside Laos's.
 
 Malaysia teaches variance and standard deviation whole in Form 4 for ungrouped data — both formulas, the calculator method, and what happens to each measure when the data changes — and again in Form 5 for grouped data. (Mean deviation itself is not in Malaysia's books; that part of the lesson stands on the other countries.)
 
@@ -59,3 +67,5 @@ India enters mean deviation and variation from Mathematics Class 11: mean deviat
 
 
 Mongolia enters through its ministry textbooks Математик XI, XII (Grades 11, 12): spread measures compared; standard deviation; standard deviation formulas.
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *La Matemática de la Belleza* (Grade 9) and *Naturaleza Matemática* (Grade 10). From its books: from Grade 9: standard deviation — deviations from the mean sum to zero, so square them: Σ(x − 14)² = 76 over the 28 ages, S = √(76/28) ≈ 1,6475 ≈ 1,65 years; formula S = √(Σ(xᵢ − mean)²/n); from Grade 10: standard deviation formula and worked calculation, with values rescaled ÷1000 and the result rescaled back.

@@ -1,6 +1,6 @@
 # Sources — Platonic solids and Euler's formula
 
-countries: Nicaragua, China, Armenia, Greece, South Africa, Syria, Rwanda, India
+countries: Nicaragua, China, Armenia, Greece, South Africa, Syria, Rwanda, India, Venezuela
 
 Every part traces to its book and page.
 
@@ -16,6 +16,8 @@ Every part traces to its book and page.
 
 **Book 9:** *Mathematics for Rwandan Schools — Senior 1 Student's Book* — Rwanda, Longhorn Publishers (Rwanda) Ltd, 2016, ISBN 978 9997 74 483 8 (as printed). No REB approval wording is printed anywhere in the book. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 **Book 10:** *Mathematics — Textbook for Class VIII* — India, NCERT, New Delhi, first edition January 2008, 2020-21 printing, ISBN 978-81-7450-814-0. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Just for Fun sections; nothing is cited from them.
+**Book 11:** *Hecho en Venezuela* — Venezuela, Grade 6 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-308-1. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 12:** *La Matemática y el Vivir Bien* — Venezuela, Grade 11 (5to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-344-9. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -31,7 +33,22 @@ Every part traces to its book and page.
 | Polyhedra — regular polyhedra; prisms and pyramids as polyhedron families | India, Mathematics Class 8, printed p. 165 |
 | Euler's formula F + V − E = 2 stated and applied to find unknowns and test possible polyhedra | India, Mathematics Class 8, printed p. 166 |
 
-**Acceptance count: taught in 8 countries (Nicaragua, China, Armenia, Greece, South Africa, Syria, Rwanda, India).**
+| Dihedral angle defined: two half-planes with a common edge (the edge and faces of the angle) | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed p. 188 |
+| Polyhedral angle: region bounded by three or more planes meeting at a vertex; the trihedral angle of the cube; as many faces and dihedral angles as edges; face angles at a vertex sum to less than 360° | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed p. 189 |
+| Polyhedron defined: a solid whose surface is bounded by polygonal faces (ball and can excluded by the tests); its elements — faces, edges, vertices, diagonals, dihedral and polyhedral angles | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 190–191 |
+| Convex vs concave polyhedra: a convex polyhedron can rest on any face and contains every interior segment | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 192–193 |
+| Regular polyhedron defined: congruent regular-polygon faces, the same number of edges at every vertex; the five Platonic solids named with their classical element associations | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 193–194 |
+| Only five regular polyhedra exist (angle-sum argument): 3, 4 or 5 equilateral triangles at a vertex give tetrahedron, octahedron, icosahedron; 6 triangles would sum to 360° | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed p. 195 |
+| Squares: only 3 can meet at a vertex (90° each), giving the cube; pentagons: interior angle 108° = 540°/5, only 3 can meet, giving the dodecahedron; hexagons (120°) and beyond are impossible | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 196–198 |
+| Euler's formula discovered by counting: V + C = A + 2 for convex polyhedra | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 200–201 |
+| Algebraic proof that only five regular polyhedra exist: from nC = 2A and mV = 2A with Euler's formula, C = 4m/(2(m + n) − mn); the five admissible (n, m) pairs give C = 4, 8, 20, 6, 12 | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 202–204 |
+| Solids — Geometric solids in the environment classified: polyhedra (faces are polygonal regions) vs round bodies (curved surfaces) | Venezuela, Hecho en Venezuela (Grade 6), printed pp. 71–72 |
+| Polyhedra — Prism (two congruent parallel bases, parallelogram lateral faces) and pyramid (one base, triangular lateral faces meeting at a vertex) defined; elements: face, edge (arista), vertex, base | Venezuela, Hecho en Venezuela (Grade 6), printed p. 73 |
+| Euler — Euler's relation verified on built polyhedra: faces + vertices = edges + 2 | Venezuela, Hecho en Venezuela (Grade 6), printed pp. 74–76 |
+| Pyramids — Pyramids classified by their base (triangular, cuadrangular, pentagonal) | Venezuela, Hecho en Venezuela (Grade 6), printed p. 75 |
+| Platonic solids — The five Platonic solids with their face/vertex/edge counts and element associations (tetrahedron 4-4-6, hexahedron 6-8-12, octahedron 8-6-12, dodecahedron 12-20-30, icosahedron 20-12-30) | Venezuela, Hecho en Venezuela (Grade 6), printed pp. 77–78 |
+
+**Acceptance count: taught in 9 countries (Nicaragua, China, Armenia, Greece, South Africa, Syria, Rwanda, India, Venezuela).**
 
 Nicaragua's Grade 10 book gives the fullest treatment: Unit 6 defines polyhedra, then teaches the five regular polyhedra — tetrahedron, hexahedron (cube), octahedron, dodecahedron and icosahedron — with a group activity building all five from coloured card nets. China's B edition meets Euler's formula V + F − E = 2 as an exploration inside its solid-geometry chapter, and its A edition sets the characteristic as a table exercise over prisms, pyramids and frustums in the chapter review. Armenia states Euler's formula inside its Grade 10 polyhedra chapter (Ch.II, p.74). Greece's senior book closes its solid-figures chapter with the regular polyhedra, and South Africa's Grade 8 and Grade 9 workbooks drill the five Platonic solids, their nets, and the faces–vertices–edges counts that Euler's formula ties together.
 
@@ -40,3 +57,5 @@ Syria counts a polyhedron by its faces, vertices and edges in Grade 5 and builds
 Rwanda meets Euler's relation in Senior 1, where f + v = e + 2 is built from a faces, edges and vertices table for polyhedra.
 
 India enters platonic solids and euler's formula from Mathematics Class 8: polyhedra.
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Hecho en Venezuela* (Grade 6) and *La Matemática y el Vivir Bien* (Grade 11). From its books: from Grade 6: solids — Geometric solids in the environment classified: polyhedra (faces are polygonal regions) vs round bodies (curved surfaces); from Grade 11: dihedral angle defined: two half-planes with a common edge (the edge and faces of the angle).

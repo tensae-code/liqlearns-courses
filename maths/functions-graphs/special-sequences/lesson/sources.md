@@ -1,6 +1,6 @@
 # Sources — Special Sequences
 
-countries: Pakistan, Sierra Leone, Syria, Malaysia, Rwanda
+countries: Pakistan, Sierra Leone, Syria, Malaysia, Rwanda, Venezuela
 
 Every part traces to its book and page.
 
@@ -19,6 +19,8 @@ Every part traces to its book and page.
 **Book 7:** *Mathematics for Rwandan Primary Schools — Pupil's Book 5* — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 8:** *Advanced Mathematics for Rwanda Secondary Schools — Learner's Book, Senior Five* (ADVANCED stream) — Rwanda, Fountain Publishers Rwanda Ltd, 2017, ISBN 978-9970-19-410-0. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 9:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -39,10 +41,16 @@ Every part traces to its book and page.
 | Sequences with regularly changing differences (the differences themselves arithmetic: 1, 3, 6, 10, 15…); sequences whose differences are geometric (the differences doubling: 11, 22, 44, 88); the prime-number sequence 2, 3, 5, 7, 11 set as a pattern-spotting activity | Rwanda, Mathematics for Rwandan Primary Schools, Pupil's Book 5, Unit 10 (§§10.7–10.8), printed pp. 156–158 |
 | Advanced: the harmonic sequence recognised through its reciprocals forming an arithmetic progression, with harmonic means | Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 2, printed pp. 60–65 |
 
-**Acceptance count: taught in 5 countries (Pakistan, Sierra Leone, Syria, Malaysia, Rwanda).** Pakistan carries the two advanced families in full in its Class 11 sequences unit — arithmetico-geometric progressions with sums to n and to infinity, and harmonic progressions with the harmonic mean and inserted harmonic means, all inside Unit 6 (printed pp. 88–122), beyond the unit's A.P./G.P. core which lives in sequences-and-series. Sierra Leone carries the three pictured families — square numbers, cube numbers and triangular numbers, each taught as a sequence lesson followed by a rule lesson — in its Primary 6 Term 2 lesson plans (Lessons 116–120, printed pp. 143–151); this is teacher evidence, worded as such, because Sierra Leone's Primary set holds lesson plans and no pupil book. The catch-up plan's Mauritania row for this lesson ("harmonic and arithmetico-geometric sequences as filed") has no page-level filing for those families in maths/books/mauritania.md — its senior books file number sequences as a chapter topic only — so Mauritania is not cited here.
+| Fibonacci sequence from the rabbit problem; ratios of consecutive terms approach φ | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 57–58 |
+| Recurrence relations: the Pythagorean side-and-diagonal pair Ln+1 = Ln + Dn, Dn+1 = 2Ln + Dn, ratios approaching √2 | Venezuela, Naturaleza Matemática (Grade 10), printed p. 58 |
+| Polygonal (triangular, square) number sequences | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 60–61 |
+
+**Acceptance count: taught in 6 countries (Pakistan, Sierra Leone, Syria, Malaysia, Rwanda, Venezuela).** Pakistan carries the two advanced families in full in its Class 11 sequences unit — arithmetico-geometric progressions with sums to n and to infinity, and harmonic progressions with the harmonic mean and inserted harmonic means, all inside Unit 6 (printed pp. 88–122), beyond the unit's A.P./G.P. core which lives in sequences-and-series. Sierra Leone carries the three pictured families — square numbers, cube numbers and triangular numbers, each taught as a sequence lesson followed by a rule lesson — in its Primary 6 Term 2 lesson plans (Lessons 116–120, printed pp. 143–151); this is teacher evidence, worded as such, because Sierra Leone's Primary set holds lesson plans and no pupil book. The catch-up plan's Mauritania row for this lesson ("harmonic and arithmetico-geometric sequences as filed") has no page-level filing for those families in maths/books/mauritania.md — its senior books file number sequences as a chapter topic only — so Mauritania is not cited here.
 
 Syria solves the arithmetico-geometric recurrence in general in Grade 12 Part One, inside its sequences unit.
 
 Malaysia meets the named sequences inside its Form 2 patterns chapter — Fibonacci from sunflowers and rabbits, triangular numbers, and Pascal's triangle built by hand.
 
 Rwanda teaches special sequences from Primary 2 pattern differences through Primary 4 and 5, where arithmetic and geometric progressions are named and sequences with changing or doubling differences and the prime sequence appear, to the Advanced Senior Five harmonic sequence recognised through its reciprocals.
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Naturaleza Matemática* (Grade 10). From its books: from Grade 10: Fibonacci sequence from the rabbit problem; ratios of consecutive terms approach φ.

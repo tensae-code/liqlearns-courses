@@ -1,6 +1,6 @@
 # Sources — Congruence and similarity
 
-countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia
+countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela
 
 Every part traces to its book and page.
 
@@ -164,6 +164,8 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 **Book 78:** *Математик VII (Mathematics, Grade 7)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 79:** *Математик VIII (Mathematics, Grade 8)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 80:** *Математик IX (Mathematics, Grade 9)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 81:** *Conciencia Matemática* — Venezuela, Grade 8 (2do año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-320-3. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 82:** *La Matemática de la Belleza* — Venezuela, Grade 9 (3er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-329-6. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -314,7 +316,26 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Proof — areas of similar figures: sides k ⇒ perimeter k ⇒ area k² (boxed summary, proved for trapeziums) | Mongolia, Математик VIII (Grade 8), printed p. 165 |
 | Properties — similarity (Төсөө) properties of triangles | Mongolia, Математик IX (Grade 9), printed p. 123 |
 
-**Acceptance count: taught in 29 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia).**.** Iran matches congruent figures by superposition in Grade 7, states the SSS, SAS and ASA criteria in Grade 8, proves congruence and meets similar figures in Grade 9, and proves Thales' theorem with the AA, SAS and SSS similarity criteria in Grade 10 Geometry (1).
+| Definition — congruent figures: same shape and size regardless of position/orientation; similar figures: same shape, any size | Venezuela, Conciencia Matemática (Grade 8), printed p. 75 |
+| Rule — congruent segments iff equal lengths (AB ≅ CD iff AB = CD); congruent angles iff equal measures | Venezuela, Conciencia Matemática (Grade 8), printed p. 75 |
+| Definition — triangle congruence stated with corresponding angles and sides (∆ABC ≅ ∆XYZ) | Venezuela, Conciencia Matemática (Grade 8), printed p. 86 |
+| Rule — SSS criterion (criterio LLL): three sides congruent respectively | Venezuela, Conciencia Matemática (Grade 8), printed p. 87 |
+| Rule — SAS criterion (criterio LAL): two sides and the included angle | Venezuela, Conciencia Matemática (Grade 8), printed p. 88 |
+| Rule — ASA criterion (criterio ALA): two angles and the included side | Venezuela, Conciencia Matemática (Grade 8), printed p. 90 |
+| Proof application — opposite sides and opposite angles of a parallelogram proved congruent with the criteria | Venezuela, Conciencia Matemática (Grade 8), printed p. 91 |
+| Similarity — similar figures: same shape, different size; scale factor; similarity of triangles defined by congruent corresponding angles and proportional corresponding sides | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 165–168 |
+| AAA and AA criteria — AAA: congruent corresponding angles ⇒ similar; AA as its corollary (two angles suffice, the third follows) | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 169–170 |
+| SSS criterion — proportional corresponding sides ⇒ similar (worked figure ratios all 2) | Venezuela, La Matemática de la Belleza (Grade 9), printed p. 171 |
+| SAS criterion — two pairs of proportional sides with the included angle congruent (30°) ⇒ similar | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 172–173 |
+| The basic proportionality theorem — a line parallel to one side of a triangle divides the other two sides proportionally; derived from AA similarity, (c + e)/c = (f + g)/f reduced to e/c = g/f; the converse also stated | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 175–177 |
+| Heights from shadows — Thales' pyramid method: wall height from shadows, 1,72 ÷ 1,36 = h ÷ 4,32 gives h ≈ 5,46 m; tree-height problem (answer 16 m) | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 178–180 |
+| Parallels cut transversals equally — parallels that cut congruent segments on one transversal cut congruent segments on any transversal; dividing a segment into 5 congruent parts with ruler and compass | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 181–182 |
+| Lots between two roads — three lots between a road and an avenue: fronts 100, 80, 40 on one side share a 330 m front on the other proportionally (figure problem) | Venezuela, La Matemática de la Belleza (Grade 9), printed p. 183 |
+| The altitude splits the triangle — in a right triangle the altitude to the hypotenuse creates two triangles similar to each other and to the whole (AA) | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 185–186 |
+| Leg and altitude theorems — Euclid: each leg is the geometric mean of the hypotenuse and its own projection (b² = c·p, a² = c·r); the altitude is the geometric mean of the two projections (h² = p·r) | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 187–188 |
+| Practice — terrain area when the altitude divides the hypotenuse into 4 m and 18 m; judging which pictured triangles are similar; the Orinoquia cable-stayed bridge problem | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 188–191 |
+
+**Acceptance count: taught in 30 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela).**.** Iran matches congruent figures by superposition in Grade 7, states the SSS, SAS and ASA criteria in Grade 8, proves congruence and meets similar figures in Grade 9, and proves Thales' theorem with the AA, SAS and SSS similarity criteria in Grade 10 Geometry (1).
 Libya carries the fullest single treatment — congruence tests
 including RHS, similarity, applications, and the k² area and k³
 volume rules in one chapter (Grade 9, Chapter 8, pp.156–193).
@@ -350,3 +371,5 @@ India carries congruence and similarity through its NCERT ladder — Mathematics
 
 
 Mongolia enters through its ministry textbooks Математик VI, VII, VIII, IX (Grades 6, 7, 8, 9): definition; notation; proof.
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Conciencia Matemática* (Grade 8) and *La Matemática de la Belleza* (Grade 9). From its books: from Grade 8: definition — congruent figures: same shape and size regardless of position/orientation; similar figures: same shape, any size; from Grade 9: similarity — similar figures: same shape, different size; scale factor; similarity of triangles defined by congruent corresponding angles and proportional corresponding sides.

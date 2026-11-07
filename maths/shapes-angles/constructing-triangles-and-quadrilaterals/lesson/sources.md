@@ -1,6 +1,6 @@
 # Sources — Constructing triangles and quadrilaterals
 
-countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia
+countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela
 
 Every part traces to its book and page.
 
@@ -20,6 +20,7 @@ Every part traces to its book and page.
 **Book 11:** *Mathematics — Textbook for Class VIII* — India, NCERT, New Delhi, first edition January 2008, 2020-21 printing, ISBN 978-81-7450-814-0. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Just for Fun sections; nothing is cited from them.
 **Book 12:** *Mathematics — Textbook for Class IX* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-489-3. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendix 1 (Proofs in Mathematics), Appendix 2 (Introduction to Mathematical Modelling) and Answers/Hints; nothing is cited from them.
 **Book 13:** *Математик VII (Mathematics, Grade 7)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 14:** *La Patria Buena* — Venezuela, Grade 5 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-306-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -58,7 +59,12 @@ Every part traces to its book and page.
 | Constructing a triangle from two sides and the included angle, from a side and two adjacent angles, and from three sides | Mongolia, Математик VII (Grade 7), printed p. 114 |
 | Triangle inequality met in construction: when three sides cannot form a triangle (a + b > c and companions) | Mongolia, Математик VII (Grade 7), printed p. 115 |
 | Constructing right triangles from leg/hypotenuse data and quadrilaterals (trapezia) to given measures | Mongolia, Математик VII (Grade 7), printed p. 116 |
-**Acceptance count: taught in 8 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia).**
+
+| Triangle constructions — Constructing a triangle from three sides (SSS) with ruler and compass (4, 5, 6 cm) | Venezuela, La Patria Buena (Grade 5), printed pp. 103–104 |
+| Triangle constructions — Constructing a triangle from two sides and the included angle (SAS: 7 cm, 5 cm, 30°) | Venezuela, La Patria Buena (Grade 5), printed p. 105 |
+| Triangle constructions — Constructing a triangle from one side and its two adjacent angles (ASA: 10 cm, 40°, 30°) | Venezuela, La Patria Buena (Grade 5), printed p. 105 |
+| Quadrilateral constructions — Constructing a rectangle with set squares; constructing a rhombus from a diagonal and a side; constructing a rectangle from its diagonals and a side | Venezuela, La Patria Buena (Grade 5), printed pp. 125–129 |
+**Acceptance count: taught in 9 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela).**
 
 Pakistan's Grade 8 book is the spine: it constructs the whole quadrilateral family — square, rectangle, rhombus, parallelogram, kite, trapezium — and the SSS, SAS, ASA and RHS triangles, with the incentre and circumcentre constructions. Bangladesh's Class 8 Exp.5 is a dedicated constructing-quadrilaterals chapter. Yemen meets the work earliest: Grade 4 constructs a rectangle from its length and width and a square, and Grade 5 builds a triangle from two sides and the included angle in five named steps. Sierra Leone's SSS 2 course splits the same material into single-skill lessons — SSS, SAS and ASA triangles, then squares and rectangles, rhombi and parallelograms, and trapeziums — and finishes with construction word problems.
 
@@ -70,3 +76,5 @@ India stocks constructing triangles and quadrilaterals from Mathematics Classes 
 
 
 Mongolia enters through its ministry textbook Математик VII (Grade 7): constructing a triangle from two sides and the included angle, from a side and two adjacent angles, and from three sides — meeting the triangle inequality inside the construction work, when three sides cannot form a triangle at all.
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *La Patria Buena* (Grade 5). From its books: from Grade 5: triangle constructions — Constructing a triangle from three sides (SSS) with ruler and compass (4, 5, 6 cm).

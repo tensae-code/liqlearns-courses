@@ -1,6 +1,6 @@
 # Sources — Symmetry
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, India, Mongolia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, India, Mongolia, Venezuela
 
 Every part traces to its book and page.
 
@@ -190,6 +190,9 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 78:** *Математик V (Mathematics, Grade 5)* — Mongolia, Ministry of Education, seventh edition, Ulaanbaatar 2020. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 79:** *Математик VI (Mathematics, Grade 6)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 80:** *Математик VII (Mathematics, Grade 7)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 81:** *Hecho en Venezuela* — Venezuela, Grade 6 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-308-1. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 82:** *Conciencia Matemática* — Venezuela, Grade 8 (2do año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-320-3. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 83:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -297,7 +300,16 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Finding symmetric points/figures on the coordinate plane about a centre point | Mongolia, Математик VI (Grade 6), printed p. 153 |
 | Order of rotational symmetry defined and found for figures (a pinwheel/cross figure has order 4) | Mongolia, Математик VII (Grade 7), printed p. 123 |
 
-**Acceptance count: taught in 30 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, India, Mongolia).**.** Greece carries symmetry from the very start Iran completes the missing halves of pictures in Grade 1, folds and mirrors shapes in Grade 2, names axial and central symmetry in Grade 5, and adds the centre of symmetry and rotation in Grade 6.
+| Definition — symmetry about a point, an axis (line) or a plane; exact correspondence of size, shape and position | Venezuela, Conciencia Matemática (Grade 8), printed p. 49 |
+| Rule — axis of symmetry divides a figure into two congruent parts; a figure may have several axes | Venezuela, Conciencia Matemática (Grade 8), printed p. 50 |
+| Symmetry of a graph: the second half of the track repeats the first | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 45–46 |
+| Axes — Symmetry defined; axis of symmetry divides a figure into two identical parts | Venezuela, Hecho en Venezuela (Grade 6), printed pp. 141–142 |
+| Axes — Axis counts: equilateral triangle 3, isosceles triangle 1, square 4, non-square rectangle 2 (its diagonals are NOT axes) | Venezuela, Hecho en Venezuela (Grade 6), printed pp. 142–143 |
+| Symmetry types — Reflection symmetry, translation symmetry and rotation symmetry each produced by paper folding and cutting | Venezuela, Hecho en Venezuela (Grade 6), printed pp. 142–144 |
+| Number symmetry — Symmetry in numbers: palindromic (capicúa) numbers, prime palindromes, the palindromic powers of 11 (121, 1.331, 14.641) and the 123…×8+… = 987… pattern | Venezuela, Hecho en Venezuela (Grade 6), printed pp. 146–147 |
+| Pascal's triangle — Yanghui's (Pascal's) triangle introduced as a symmetric number array, with its cross-cultural history | Venezuela, Hecho en Venezuela (Grade 6), printed p. 147 |
+
+**Acceptance count: taught in 31 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, India, Mongolia, Venezuela).**.** Greece carries symmetry from the very start Iran completes the missing halves of pictures in Grade 1, folds and mirrors shapes in Grade 2, names axial and central symmetry in Grade 5, and adds the centre of symmetry and rotation in Grade 6.
 — folding and mirror completion in Grade 1, the fold-along-the-
 red-line test in Grade 3, axial symmetry in Grade 6, and the
 full axis-and-point symmetry chapter in Grade 7. Kazakhstan
@@ -335,3 +347,5 @@ India stocks symmetry from Math-Magic Class 3–5 and Mathematics Class 6–7: m
 
 
 Mongolia enters through its ministry textbooks Математик II, III, V, VI, VII (Grades 2, 3, 5, 6, 7): recognising symmetric shapes; completing symmetric shapes; consolidation: pyramids and symmetry.
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Hecho en Venezuela* (Grade 6), *Conciencia Matemática* (Grade 8) and *Naturaleza Matemática* (Grade 10). From its books: from Grade 6: axes — Symmetry defined; axis of symmetry divides a figure into two identical parts; from Grade 8: definition — symmetry about a point, an axis (line) or a plane; exact correspondence of size, shape and position; from Grade 10: symmetry of a graph: the second half of the track repeats the first.

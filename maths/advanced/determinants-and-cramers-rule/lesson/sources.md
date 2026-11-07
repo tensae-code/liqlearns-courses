@@ -1,6 +1,6 @@
 # Sources — Determinants and Cramer's Rule
 
-countries: Egypt, Cambodia, Kuwait, Laos, Nicaragua, Rwanda, India, Mongolia
+countries: Egypt, Cambodia, Kuwait, Laos, Nicaragua, Rwanda, India, Mongolia, Venezuela
 
 Every part traces to its book and page.
 
@@ -16,6 +16,7 @@ Every part traces to its book and page.
 **Book 8:** *Mathematics — Textbook for Class XII, Parts I–II* (ONE work in two volumes: continuous chapters 1–13 and continuous printed pagination 1–587) — India, NCERT, New Delhi, first edition November 2006, 2020-21 printing; Part I ISBN 81-7450-629-2 (Part II prints no ISBN). Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy of Part I lacks its appendices, answers and supplementary material, and the held copy of Part II has no front matter; nothing is cited from either.
 **Book 9:** *Математик X (Mathematics, Grade 10)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 10:** *Математик XI (Mathematics, Grade 11)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 11:** *La Matemática y el Vivir Bien* — Venezuela, Grade 11 (5to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-344-9. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -46,7 +47,18 @@ Every part traces to its book and page.
 | Properties — zero row/column ⇒ 0; proportional rows ⇒ 0; common factor of a row factors out; ;AB; = ;A;·;B; | Mongolia, Математик X (Grade 10), printed p. 145 |
 | Determinant cases — 2×2 determinant D: D≠0 unique solution, D=0 with Dx,Dy cases give no solution or infinitely many | Mongolia, Математик XI (Grade 11), printed p. 29 |
 
-**Acceptance count: taught in 8 countries (Egypt, Cambodia, Kuwait, Laos, Nicaragua, Rwanda, India, Mongolia).** Egypt carries determinants and both solving methods in Secondary 1 Term 2 Unit 1 — determinants with the triangle-area application, then the 2×2 inverse with inverse-matrix and Cramer solutions. Cambodia carries 3×3 determinants and Cramer's rule in Grade 11 Basic Chapter 4, with all four worked systems on printed p.135 verified, including the no-solution and dependent cases. Kuwait carries the 2×2 determinant, the inverse formula and both solving methods for two unknowns in Grade 10 Term 2 Unit 7 — 2×2 only, as filed: no 3×3 determinants there. Laos carries determinants and inverse matrices in Grade 12 Chapter 3, stated as AX = B ⇒ X = A⁻¹B. Nicaragua carries the fullest determinants run — minors, cofactors, Sarrus' rule, Cramer's rule for 3×3 systems — and closes it with matrices used for codes.
+| Determinant defined by cofactor expansion: minors and the sign (−1)^(i+j) | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed p. 94 |
+| Determinant of a 2 × 2 matrix: b₁₁b₂₂ − b₁₂b₂₁ (the ROSA matrix gives −267) | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed p. 95 |
+| Determinant of a 3 × 3 matrix by cofactor expansion, worked on a matrix with fractions (result 55/6) | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 95–96 |
+| Sarrus' rule for 3 × 3 determinants, worked (result −114) | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 96–97 |
+| Properties of determinants: zero row, det(Aᵀ) = det A, row swap changes sign, equal rows give 0, scaling a row, splitting a sum, row replacement leaves det unchanged, linear-combination row gives 0 — each illustrated or proved | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 103–105 |
+| Determinant of a 4 × 4 matrix by cofactor expansion along the first column, with the parity of (−1)^(i+j) explained | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed p. 106 |
+| When Cramer's rule applies: rank n ⟺ det A ≠ 0 | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 127–128 |
+| Cramer's rule derived by eliminating with cofactors (alien-cofactor sums vanish), then stated in full | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 128–131 |
+| Cramer's rule worked on the fertiliser system: det = −34,64; x = 20, y = 14, z = 12 | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 131–132 |
+| Det A = 0 settles nothing alone: the two earlier systems (indeterminate and incompatible) revisited by determinant | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 132–133 |
+
+**Acceptance count: taught in 9 countries (Egypt, Cambodia, Kuwait, Laos, Nicaragua, Rwanda, India, Mongolia, Venezuela).** Egypt carries determinants and both solving methods in Secondary 1 Term 2 Unit 1 — determinants with the triangle-area application, then the 2×2 inverse with inverse-matrix and Cramer solutions. Cambodia carries 3×3 determinants and Cramer's rule in Grade 11 Basic Chapter 4, with all four worked systems on printed p.135 verified, including the no-solution and dependent cases. Kuwait carries the 2×2 determinant, the inverse formula and both solving methods for two unknowns in Grade 10 Term 2 Unit 7 — 2×2 only, as filed: no 3×3 determinants there. Laos carries determinants and inverse matrices in Grade 12 Chapter 3, stated as AX = B ⇒ X = A⁻¹B. Nicaragua carries the fullest determinants run — minors, cofactors, Sarrus' rule, Cramer's rule for 3×3 systems — and closes it with matrices used for codes.
 
 Rwanda teaches determinants and Cramer's rule in Advanced Mathematics Senior Five Unit 7 — Sarrus' rule, minors and cofactors, determinant properties, the adjugate inverse, and 3×3 systems solved by the inverse matrix and by Cramer's rule — with its Teacher's Guide extending the determinant to general order n × n.
 
@@ -54,3 +66,5 @@ India enters determinants and Cramer's rule from Mathematics Class 12: determina
 
 
 Mongolia enters through its ministry textbooks Математик X, XI (Grades 10, 11): definition; properties; determinant cases.
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *La Matemática y el Vivir Bien* (Grade 11). From its books: from Grade 11: determinant defined by cofactor expansion: minors and the sign (−1)^(i+j).

@@ -1,6 +1,6 @@
 # Sources — Right-triangle trigonometry
 
-countries: Jordan, Egypt, Sierra Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia
+countries: Jordan, Egypt, Sierra Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela
 
 Every part traces to its book and page.
 
@@ -105,6 +105,7 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 **Book 50:** *Mathematics — Textbook for Class X* — India, NCERT, New Delhi, first edition December 2006, 2020-21 printing, ISBN 81-7450-634-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
 **Book 51:** *Математик IX (Mathematics, Grade 9)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 52:** *Математик X (Mathematics, Grade 10)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 53:** *La Matemática de la Belleza* — Venezuela, Grade 9 (3er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-329-6. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -199,8 +200,14 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Reading sin/cos from squared paper (sin 54° ≈ 0.8); calculator values | Mongolia, Математик X (Grade 10), printed p. 104 |
 | Signs for acute vs obtuse angles; finding one ratio from another | Mongolia, Математик X (Grade 10), printed p. 105 |
 
-**Acceptance count: taught in 27 countries (Jordan, Egypt, Sierra
-Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia).**
+| Opposite and adjacent — opposite and adjacent legs named relative to an acute angle; class builds a right triangle with stakes and string and tabulates side ratios | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 193–195 |
+| Sine, cosine, tangent — sen α = opposite/hypotenuse, cos α = adjacent/hypotenuse, tan α = opposite/adjacent, formalised on △ABC; calculator keys (sin in English) | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 197–198 |
+| Solving with the groma — from one leg and its opposite angle: hypotenuse = opposite ÷ sen α, adjacent = opposite ÷ tan α; measured vs computed sides compared | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 200–202 |
+| The ratio depends only on the angle — perpendiculars dropped inside the triangle give smaller similar triangles with the same sine — the ratio is unique for the angle (link to Thales) | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 203–205 |
+| Field measuring — measuring inaccessible distances and areas with angles at B and trig ratios; building an astrolabe to measure building heights | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 206–207 |
+
+**Acceptance count: taught in 28 countries (Jordan, Egypt, Sierra
+Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela).**
 Jordan carries the cleanest introduction — ratios from similar
 right triangles, then elevation and depression. Egypt carries
 the special-angle table and tan = sin / cos in Preparatory 3,
@@ -232,3 +239,5 @@ India stocks right-triangle trigonometry from Mathematics Class 10: trig ratios 
 
 
 Mongolia enters through its ministry textbooks Математик IX, X (Grades 9, 10): definition; values.
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *La Matemática de la Belleza* (Grade 9). From its books: from Grade 9: opposite and adjacent — opposite and adjacent legs named relative to an acute angle; class builds a right triangle with stakes and string and tabulates side ratios.

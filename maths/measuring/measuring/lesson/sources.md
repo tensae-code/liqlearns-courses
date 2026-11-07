@@ -1,6 +1,6 @@
 # Sources — Measuring
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela
 
 Every part traces to its book and page.
 
@@ -318,6 +318,12 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 163:** *Математик V (Mathematics, Grade 5)* — Mongolia, Ministry of Education, seventh edition, Ulaanbaatar 2020. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 164:** *Математик VI (Mathematics, Grade 6)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 165:** *Математик IX (Mathematics, Grade 9)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 166:** *Contemos... 1, 2, 3 y 4* — Venezuela, Grade 1 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-293-0. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 167:** *Triángulos, rectángulos y algo más...* — Venezuela, Grade 2 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-294-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 168:** *Aventuras de Patacalientes* — Venezuela, Grade 3 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-295-4. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 169:** *Contando con los recursos* — Venezuela, Grade 4 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-305-0. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 170:** *La Patria Buena* — Venezuela, Grade 5 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-306-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 171:** *Matemática Para La Vida* — Venezuela, Grade 7 (1er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-322-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -640,7 +646,39 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Measures: mass | Mongolia, Математик IX (Grade 9), printed p. 33 |
 | Measures: length and area | Mongolia, Математик IX (Grade 9), printed p. 34 |
 
-**Acceptance count: taught in 32 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia).**.** Sierra Leone carries the cleanest Iran compares longer and shorter and heavier and lighter in Grade 1 — the heavier-marking activity is at printed p. 168 — reads the clock there too, and measures length in centimetres and millimetres in Grade 2.
+| Body measures: the span — the cuarta (thumb-to-little-finger span) as a common measure; measuring glasses and tables with it; a cuarta differs from person to person, so it is not exact | Venezuela, Contemos... 1, 2, 3 y 4 (Grade 1), printed pp. 130–135 |
+| Body measures: the pace — el paso (the length of a step) as a common measure; measuring the classroom side in girl's, boy's and teacher's steps and tabulating; the pace is not exact either | Venezuela, Contemos... 1, 2, 3 y 4 (Grade 1), printed pp. 136–139 |
+| Capacity and the litre — capacity is how much a container can hold, expressed in litres; comparing 1-litre containers of different shapes (same capacity, shape does not matter) | Venezuela, Contemos... 1, 2, 3 y 4 (Grade 1), printed pp. 140–143 |
+| Comparing size — ordering people by height (estatura as a measure of size); comparing leaves from smallest to largest; "más alto que / más bajo que / más grande que / más pequeño que" | Venezuela, Contemos... 1, 2, 3 y 4 (Grade 1), printed pp. 152–153 |
+| The centimetre — the ruler graduated in centimetres; centimetres are a unit of length; measuring a rubber, a glass, one's height in cm | Venezuela, Contemos... 1, 2, 3 y 4 (Grade 1), printed pp. 154–155 |
+| Measuring instruments — surveying family and neighbours on measuring instruments they know and what each is used for | Venezuela, Contemos... 1, 2, 3 y 4 (Grade 1), printed pp. 156–157 |
+| Mass and balance — mass is the amount of matter in a body, expressed in kilograms; building a balance; objects balance when they have the same mass; balancing pencils against sharpeners and erasers | Venezuela, Contemos... 1, 2, 3 y 4 (Grade 1), printed pp. 158–161 |
+| Measuring with a ruler — measuring tangram sides with a graduated ruler in centimetres | Venezuela, Triángulos, rectángulos y algo más... (Grade 2), printed pp. 128–129 |
+| The metre — the metro as the large length unit: 1 m = 100 cm; medio metro 50 cm; cuarto de metro 25 cm | Venezuela, Triángulos, rectángulos y algo más... (Grade 2), printed pp. 132–133 |
+| Capacity — the litro, medio litro and cuarto de litro: filling 2 litres with quarter-litre glasses takes 8 glasses | Venezuela, Triángulos, rectángulos y algo más... (Grade 2), printed pp. 134–137 |
+| Mass: kilogram and gram — masa vs peso distinguished; the kilogramo; comparing a 2 kg bulto with 900 g in a table | Venezuela, Triángulos, rectángulos y algo más... (Grade 2), printed pp. 138–141 |
+| The metre — the metre and its history (1889 Paris standard); ships' lengths given in metres | Venezuela, Aventuras de Patacalientes (Grade 3), printed pp. 128–131 |
+| Kilometre and the length ladder — the kilómetro = 1.000 m; the full ladder km/hm/dam – dm/cm/mm with values; km→m conversion by ×1.000 over a road-distance table (853, 518, 683, 1.239, 296 km) | Venezuela, Aventuras de Patacalientes (Grade 3), printed pp. 132–135 |
+| Centimetres and millimetres — measuring in cm with ruler and tape; the millimetre, 10 per cm | Venezuela, Aventuras de Patacalientes (Grade 3), printed pp. 136–139 |
+| The litre and the capacity ladder — the oil barrel ≈ 159 litres; el litro and the full ladder kl/hl/dal – dl/cl/ml with values | Venezuela, Aventuras de Patacalientes (Grade 3), printed pp. 140–143 |
+| Capacity comparisons — comparing capacities with >, <, = (30 dl = 3 l; 1 kl < 3.000 l; 5.000 ml < 1 kl; 6.400 ml < 70 dl; 30 dl < 400 cl; 2.000 l = 2 kl) and conversion completions | Venezuela, Aventuras de Patacalientes (Grade 3), printed pp. 144–147 |
+| Mass: the gram ladder — masa vs peso restated; balanza and báscula; the gram ladder kg/hg/dag – dg/cg/mg with values; medio kilo 500 g and cuarto de kilo 250 g; conversion completions and decimal mass additions posed (20 g + 8,4 g + 12,3 g + 300,1 g) | Venezuela, Aventuras de Patacalientes (Grade 3), printed pp. 148–151 |
+| Why a metric system — why unified measures are needed; history (1792 Delambre and Méchain; the metre as the ten-millionth of the meridian quadrant) | Venezuela, Contando con los recursos (Grade 4), printed pp. 134–137 |
+| The length ladder and conversions — the metre ladder in both directions with values; reading mm/cm/dm on a ruler; the conversion rule (multiply going down, divide going up, by 1 followed by zeros) with examples 6 m = 600 cm, 17 m = 17.000 mm, 8 km = 8.000 m, 4,25 km = 425.000 cm, 9 mm = 0,009 m, 235 cm = 2,35 m, 6,5 m = 0,0065 km — all correct; equivalences 1 km = 1.000 m = 10 hm = 100 dam | Venezuela, Contando con los recursos (Grade 4), printed pp. 138–143 (corrected at citation check: all the worked conversion examples are on pp. 142–143, PDF p. 73) |
+| Mass: the gram ladder — el gramo as unit; the ladder kg/hg/dag – dg/cg/mg; balanza vs báscula defined; conversions and quality-control problems | Venezuela, Contando con los recursos (Grade 4), printed pp. 142–147 |
+| Non-standard units — Measuring with body units (own feet) and why results differ between measurers; the need for a standard unit | Venezuela, La Patria Buena (Grade 5), printed pp. 33–36 |
+| Traditional measures — Traditional Venezuelan measures with metric equivalents: pie = 0,272 m; cuarta/palmo ≈ 21 cm; pulgada ≈ 23 mm; jeme and palito named | Venezuela, La Patria Buena (Grade 5), printed p. 35 |
+| Length conversions — The metric system in Venezuela (adopted 1857): cm↔m conversions on a km–mm place chart, 73 cm = 0,73 m = 7,3 dm = 730 mm = 0,00073 km; 175 cm = 1,75 m | Venezuela, La Patria Buena (Grade 5), printed pp. 36–41 |
+| Errors — Measurement error admitted and quantified (converted vs tape-measured: 7 cm and 5 cm differences) | Venezuela, La Patria Buena (Grade 5), printed p. 39 |
+| Unit conversions — Metric tables for length, mass and capacity: multiples and submultiples of m, g and l with their ×10/×100/×1000 relations; conversions both ways (21 kl = 210 hl; 1.485,2 l = 1,4852 kl) | Venezuela, La Patria Buena (Grade 5), printed pp. 140–145 |
+| Unit conversions — Archaic myria- units (mam, mag, mal) used in conversion exercises | Venezuela, La Patria Buena (Grade 5), printed pp. 142, 145 |
+| Conversion — Length conversion inside the GCD problem: 20 m = 2.000 cm by multiplying by 100 | Venezuela, Matemática Para La Vida (Grade 7), printed p. 52 |
+| Conversion — Mass-unit fraud with pounds: 1 kg ≈ 2,205 lb, so 1 lb ≈ 0,45351 kg by a rule of three; a scale "marking 1" in pounds hands over barely 454 g | Venezuela, Matemática Para La Vida (Grade 7), printed p. 114 |
+| Scaling — Mean monthly consumption by scaling a daily mean: 17,4 g × 30 days = 522 g | Venezuela, Matemática Para La Vida (Grade 7), printed p. 99 |
+| Surveying — Planimetric surveying by triangulation named as the reason notable lines of a triangle matter (developed in later years as trigonometry) | Venezuela, Matemática Para La Vida (Grade 7), printed p. 181 |
+| Agrarian units — Agrarian measures: the área = 100 m², the hectárea = 100 áreas = 10.000 m², the centiárea = 1 m² (the definition sentence on this page conflates área and hectárea — see the band draft's suspected error 7) | Venezuela, Matemática Para La Vida (Grade 7), printed p. 195 |
+
+**Acceptance count: taught in 33 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela).**.** Sierra Leone carries the cleanest Iran compares longer and shorter and heavier and lighter in Grade 1 — the heavier-marking activity is at printed p. 168 — reads the clock there too, and measures length in centimetres and millimetres in Grade 2.
 single ladder — length, mass and volume distinguished, then the
 three conversion tables in JSS 1. Jordan carries the four
 standard units in one Grade 2 unit (centimetre, metre, gram and
@@ -678,3 +716,5 @@ India carries measuring through its NCERT ladder — Math-Magic Class 1–5 and 
 
 
 Mongolia enters through its ministry textbooks Математик I, II, III, IV, V, VI, IX (Grades 1, 2, 3, 4, 5, 6, 9): measuring built year by year — heavy and light by hand and balance first, then the litre and the kilogram, the full unit ladders for length, mass and capacity with conversions, and traditional body measures named inside the Grade 4 length and weight work.
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Contemos... 1, 2, 3 y 4* (Grade 1), *Triángulos, rectángulos y algo más...* (Grade 2), *Aventuras de Patacalientes* (Grade 3), *Contando con los recursos* (Grade 4), *La Patria Buena* (Grade 5) and *Matemática Para La Vida* (Grade 7). From its books: from Grade 1: body measures: the span — the cuarta (thumb-to-little-finger span) as a common measure; measuring glasses and tables with it; a cuarta differs from person to person, so it is not exact; from Grade 4: why a metric system — why unified measures are needed; history (1792 Delambre and Méchain; the metre as the ten-millionth of the meridian quadrant); from Grade 7: conversion — Length conversion inside the GCD problem: 20 m = 2.000 cm by multiplying by 100.

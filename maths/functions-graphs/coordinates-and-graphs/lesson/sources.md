@@ -1,6 +1,6 @@
 # Sources — Coordinates and graphs
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia
+countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela
 
 Every part traces to its book and page.
 
@@ -176,6 +176,10 @@ textbook.
 **Book 108:** *Математик VI (Mathematics, Grade 6)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 109:** *Математик VII (Mathematics, Grade 7)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 110:** *Математик VIII (Mathematics, Grade 8)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 111:** *Contando con los recursos* — Venezuela, Grade 4 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-305-0. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 112:** *Matemática Para La Vida* — Venezuela, Grade 7 (1er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-322-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 113:** *Conciencia Matemática* — Venezuela, Grade 8 (2do año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-320-3. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 114:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -325,7 +329,23 @@ textbook.
 | Comparing steepness/direction of y = ±kx lines on one plane; distance–time graphs of two travellers meeting | Mongolia, Математик VII (Grade 7), printed p. 85 |
 | Comparing graphs: race, electricity tariff with VAT, two phone tariffs break-even, car depreciation | Mongolia, Математик VIII (Grade 8), printed p. 156 |
 
-**Acceptance count: taught in 29 countries (Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia).**.** South Africa carries the
+| Grid references — city-grid coordinates by letter + number (Farmacia D5, Sala de Internet A6, Plaza C3); a note on GPS and satellites | Venezuela, Contando con los recursos (Grade 4), printed pp. 82–83 |
+| Definition — one-dimensional (linear) coordinate system on a line; coordinate of a point A(−3), B(−2) | Venezuela, Conciencia Matemática (Grade 8), printed p. 26 |
+| Definition — two-dimensional Cartesian system: perpendicular axes, origin, four quadrants | Venezuela, Conciencia Matemática (Grade 8), printed p. 27 |
+| Rule — ordered pair (x, y): first coordinate abscissa, second ordinate; signs by quadrant side | Venezuela, Conciencia Matemática (Grade 8), printed p. 28 |
+| Worked example — plotting A(6, 4) by parallels to the axes; plotting points with fractional coordinates | Venezuela, Conciencia Matemática (Grade 8), printed p. 28 |
+| Data work — scatter graph (gráfico de dispersión) of births by year from an INE table, points (2003, 6.005)…(2009, 7.737) | Venezuela, Conciencia Matemática (Grade 8), printed p. 94 |
+| A speed–distance relation plotted in the first quadrant; reading a graph for information | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 41–42 |
+| Increasing and decreasing stretches of a graph tied to the phenomenon (braking into a bend, accelerating out) | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 43–44 |
+| Working backwards from a graph to the phenomenon: peaks, top-speed stretches and distances between peaks reconstruct the track | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 47–49 |
+| Reference points — Locating places by named street corners: a city block grid used as a reference system before any axes appear | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 8–10 |
+| One axis — Linear coordinate system on one street: choose an origin corner, assign integers as coordinates to the other corners, negatives one way, positives the other; the line is also called an axis | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 11–12 |
+| Movement — Displacement sums read off the line: starting position plus signed walk gives the new coordinate (4 + 3 = 7; −1 + (−4) = −5; −3 + 3 = 0; 2 + (−5) = −3) | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 13–15 |
+| Two axes — Two perpendicular axes: horizontal abscissas (eje x) and vertical ordinates (eje y); a place is fixed by an ordered pair (x, y), e.g. the Abanico corner is (2, 1) | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 16–17 |
+| Plane — The Cartesian plane: every point corresponds to exactly one ordered pair and vice versa; the origin is (0, 0) | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 17–18 |
+| Signs — Sign patterns of coordinates: both negative, both positive, x positive / y negative, x negative / y positive, and points with a zero coordinate | Venezuela, Matemática Para La Vida (Grade 7), printed p. 20 |
+
+**Acceptance count: taught in 30 countries (Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela).**.** South Africa carries the
 plainest gradient teaching — gradient as change in y over
 change in x, with intercepts named, built from tables of
 ordered pairs. Egypt carries the slope rules (m = tan θ,
@@ -362,3 +382,5 @@ Rwanda teaches coordinates and graphs from Primary 2 grid points (post first, th
 Sudan plots from Grade 9: the Cartesian plane, quadrants, reading and plotting points and drawing a line, and solves a quadratic graphically in Grade 10.
 
 India enters coordinates and graphs from Mathematics Class 8–9: kinds of graphs; graph of a linear equation in two variables is a straight line; drawing it from solution points; every point on the graph is a solution and vice versa.
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Contando con los recursos* (Grade 4), *Matemática Para La Vida* (Grade 7), *Conciencia Matemática* (Grade 8) and *Naturaleza Matemática* (Grade 10). From its books: from Grade 4: grid references — city-grid coordinates by letter + number (Farmacia D5, Sala de Internet A6, Plaza C3); a note on GPS and satellites; from Grade 8: definition — one-dimensional (linear) coordinate system on a line; coordinate of a point A(−3), B(−2); from Grade 10: a speed–distance relation plotted in the first quadrant; reading a graph for information.

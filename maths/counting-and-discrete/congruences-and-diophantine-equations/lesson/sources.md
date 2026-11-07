@@ -1,6 +1,6 @@
 # Sources — Congruences and Diophantine equations
 
-countries: Iran, Greece, Sierra Leone, Kazakhstan, Syria
+countries: Iran, Greece, Sierra Leone, Kazakhstan, Syria, Venezuela
 
 Every part traces to its book and page.
 
@@ -12,6 +12,8 @@ Every part traces to its book and page.
 **Book 6:** *Algebra 9* — Kazakhstan, Soltan, Soltan, Zhumadilova, Keleshek-2030, Kokshetau, 2019, Kazakh edition ISBN 978-601-317-423-5. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 7:** *Mathematics — Algebra, Student's Book, Grade 9* — Syria, Ministry of Education, held printing 2025–2026/1446H, first printed 2017–2018, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 8:** *Matemática Para La Vida* — Venezuela, Grade 7 (1er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-322-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -33,6 +35,12 @@ Every part traces to its book and page.
 | Two-digit-number problems solved by Diophantine enumeration | Kazakhstan, Algebra 9 (Soltan), Ch.1, §3, p.34 |
 | Divisibility and the Euclidean algorithm in the Unit 1 diagnostic and the numbers lessons: the divisibility tests recalled; a failed-division diagnostic (45 ÷ 6 is not exact, with the plural-divisor trap named); Euclid's algorithm fully worked (154, 693): successive divisions 693 = 4 × 154 + 77 and 154 = 2 × 77 give GCD 77; large fractions reduced with a GCD found by subtraction or by Euclid (693/154 = 9/2; 10165/3745 = 19/7) — the Euclidean engine behind congruences and Diophantine work | Syria, Grade 9 Algebra student's book, printed pp. 5, 14–15 |
 
-**Acceptance count: taught in 5 countries (Iran, Greece, Sierra Leone, Kazakhstan, Syria).** Iran teaches congruences in full — rules, the corrected cancellation law, divisibility tests, the calendar, linear congruences and Diophantine equations solved through congruences — in its Grade 12 Discrete Mathematics book, while explicitly not teaching a Euclidean algorithm there. Greece teaches the linear Diophantine equation and congruent numbers as the close of its Grade 11 orientation book's number-theory chapter. Sierra Leone teaches modular arithmetic as a four-lesson SSS 1 block, from cyclic events to real-life uses. Kazakhstan teaches a Diophantine-flavoured linear equation in two variables in Grade 6, Euclid's algorithm in its Grade 8 book's starred optional additional-materials chapter (worded optional, as filed), and Diophantine enumeration in its Grade 9 Soltan book.
+| Diophantine — Diophantine equations ax + by = c with integer unknowns: 3x + 4y = 26 solved by trying y = 0, 1, 2 (one less than the coefficient of x) until 3x = 18 gives the integer solution x = 6, y = 2 | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 121–122 |
+| No-solution — An equation with no integer solution: 5x + 10y = 21, because none of 21, 11, 1, −9, −19 is divisible by 5 | Venezuela, Matemática Para La Vida (Grade 7), printed p. 123 |
+| Applications — A money Diophantine problem posed: Bs. 100 spent exactly on stamps of Bs. 20 and Bs. 15 | Venezuela, Matemática Para La Vida (Grade 7), printed p. 126 |
+
+**Acceptance count: taught in 6 countries (Iran, Greece, Sierra Leone, Kazakhstan, Syria, Venezuela).** Iran teaches congruences in full — rules, the corrected cancellation law, divisibility tests, the calendar, linear congruences and Diophantine equations solved through congruences — in its Grade 12 Discrete Mathematics book, while explicitly not teaching a Euclidean algorithm there. Greece teaches the linear Diophantine equation and congruent numbers as the close of its Grade 11 orientation book's number-theory chapter. Sierra Leone teaches modular arithmetic as a four-lesson SSS 1 block, from cyclic events to real-life uses. Kazakhstan teaches a Diophantine-flavoured linear equation in two variables in Grade 6, Euclid's algorithm in its Grade 8 book's starred optional additional-materials chapter (worded optional, as filed), and Diophantine enumeration in its Grade 9 Soltan book.
 
 Syria's Grade 9 Algebra carries the Euclidean algorithm as real number work — divisibility tests, successive divisions and large GCDs.
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Matemática Para La Vida* (Grade 7). From its books: from Grade 7: Diophantine — Diophantine equations ax + by = c with integer unknowns: 3x + 4y = 26 solved by trying y = 0, 1, 2 (one less than the coefficient of x) until 3x = 18 gives the integer solution x = 6, y = 2.

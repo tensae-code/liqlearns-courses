@@ -1,6 +1,6 @@
 # Sources — Conic Sections
 
-countries: Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India
+countries: Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela
 
 Every part traces to its book and page.
 
@@ -29,6 +29,8 @@ Every part traces to its book and page.
 
 **Book 21:** *Specialized Mathematics, Book Two, Grade 12 (science track)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, revised issue, Arabic, ISBN 978-99942-53-17-3. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 22:** *Mathematics — Textbook for Class XI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-486-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendices 1–2, the Answers and the Supplementary Material; nothing is cited from them.
+**Book 23:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 24:** *La Matemática y el Vivir Bien* — Venezuela, Grade 11 (5to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-344-9. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -78,7 +80,30 @@ Every part traces to its book and page.
 | Ellipse — latus rectum of an ellipse; length 2b²/a | India, Mathematics Class 11, printed p. 252 |
 | Hyperbola defined by difference of distances to two foci; eccentricity e > 1 | India, Mathematics Class 11, printed p. 255 |
 | Hyperbola — standard equation x²/a² − y²/b² = 1; c² = a² + b²; latus rectum 2b²/a | India, Mathematics Class 11, printed p. 257 |
-**Acceptance count: taught in 17 countries (Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India).**
+
+| A parabola defined as a locus (equidistant from directrix and focus), y = 1 + x² compared with the catenary | Venezuela, Naturaleza Matemática (Grade 10), printed p. 91 |
+| Circle as a locus: points at constant distance r from the centre; standard equation (x − h)² + (y − k)² = r² derived from the distance formula | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed p. 208 |
+| Canonical form x² + y² = r² for centre at the origin; graphing a circle of radius 3 about (−2, 3) with compass constructions | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 209–210 |
+| General form x² + y² + Dx + Ey + F = 0 with D = −2h, E = −2k, F = h² + k² − r²; expanding the standard form of the (−2, 3), r = 3 circle | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 210–211 |
+| Recovering centre and radius from the general form by completing the square: x² + y² + 2x + 10y + 10 = 0 gives C(−1, −5), r = 4 | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed p. 212 |
+| The circle through three non-collinear points A(2, −1), B(5, 0), D(3, 2): subtracting equations gives centre (13/4, 1/4) and r = 5√2/4 | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 213–214 |
+| Parabola as a locus: equidistant from focus and directrix; focal axis, vertex and latus rectum (lado recto) defined; the reflective property behind parabolic antennas | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 216–217 |
+| Standard forms with vertex (h, k): (x − h)² = 4p(y − k) and (y − k)² = 4p(x − h); focus and directrix formulas; the sign of p gives the opening direction | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 217–218 |
+| Finding the equation, focus and directrix from vertex V(2, 1) and a point M(0, 3): p = 1/2, (x − 2)² = 2(y − 1), F(2, 3/2), directrix y = 1/2 | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 218–219 |
+| Canonical forms x² = 4py and y² = 4px (vertex at the origin) | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed p. 220 |
+| General form of a parabola: exactly one of the squared terms present; expanding the worked example to x² − 4x − 2y + 6 = 0; measuring a real antenna dish to get its equation | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 220–222 |
+| From the general form back to vertex, focus and directrix by completing the square: y² − 8x − 2y = −17 gives (y − 1)² = 8(x − 2), V(2, 1), F(4, 1), directrix x = 0; then graphed point by point | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 223–225 |
+| Ellipse as a locus: PF + PF′ = 2a; vertices, centre, major/minor axes, latus rectum, FF′ = 2c, eccentricity e = c/a with 0 < e < 1; Kepler's first law as the framing | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed p. 229 |
+| The standard equation (x − h)²/a² + (y − k)²/b² = 1 derived in full from the locus definition (two squarings), with a² = b² + c²; both axis orientations with vertices, foci and minor-axis endpoints | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 230–232 |
+| Worked ellipse from vertices V(4, 4), V′(−3, 4) and foci F(3, 4), F′(−1, 4): centre (1/2, 4), a = 7/2, the book's c = 3/2, b² = 10, e = 3/7, equation (x − 1/2)²/(49/4) + (y − 4)²/10 = 1; then solved for y and graphed point by point (The book's c = 3/2 is wrong: the foci F(3, 4) and F′(−1, 4) give c = 2, so b² = 33/4 and e = 4/7; taught corrected.) | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 233–236 |
+| Canonical forms x²/a² + y²/b² = 1 and x²/b² + y²/a² = 1 (centre at the origin); Earth's orbit and comet Hyakutake (a = 2349,02 UA, e = 0,995086) as problems | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed p. 237 |
+| General form Ax² + Cy² + Dx + Ey + F = 0 with A, C of the same sign: an ellipse, a point, or no locus; the worked ellipse expanded to 40x² + 49y² − 40x − 392y + 304 = 0 | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 238–239 |
+| Hyperbola as a locus: |PF − PF′| = 2a; transverse and conjugate axes, vertices, centre, latus rectum, e = c/a > 1 | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed p. 240 |
+| Standard forms (x − h)²/a² − (y − k)²/b² = 1 and (y − k)²/a² − (x − h)²/b² = 1 with c² = a² + b²; vertices, foci and conjugate endpoints for both orientations | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed p. 241 |
+| Worked hyperbola from V(3, 2), V′(2, 2), F(4, 2), F′(1, 2): centre (5/2, 2), a = 1/2, the book's c = 5/2, e = 5, b² = 6 and its equation; then graphed (The book's c = 5/2 is wrong: the vertices give a = 1/2 and the foci F(4, 2) and F′(1, 2) give c = 3/2, so b² = 2 and e = 3; taught corrected.) | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 242–244 |
+| Canonical forms at the origin; general form with A, C of opposite signs: a hyperbola or two intersecting lines; the worked hyperbola expanded to 24x² − y² − 120x + 4y + 140 = 0 | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 244–245 |
+| The four conics as plane sections of a double right circular cone; Menaechmus, Apollonius (the names mean defect, excess, comparison) and Pappus' eccentricity criterion | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed p. 246 |
+**Acceptance count: taught in 18 countries (Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela).**
 
 Rwanda teaches conic sections whole in Advanced Mathematics Senior Six Unit 8 — the focus–directrix definition with eccentricity, all three conics with tangents and normals, the polar equation, and applications from planetary orbits to the whispering gallery.
 
@@ -91,3 +116,5 @@ Syria reaches conic sections only lightly: a guided problem iterates a point map
 Sudan reaches conic sections only through the circle, in Grade 12 Specialized Book Two: the circle's equation and general form, a circle through given conditions, tangents to a circle and tangent length — circle-only analytic geometry, as filed.
 
 India stocks conic sections from Mathematics Class 11: sections of a cone.
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Naturaleza Matemática* (Grade 10) and *La Matemática y el Vivir Bien* (Grade 11). From its books: from Grade 10: a parabola defined as a locus (equidistant from directrix and focus), y = 1 + x² compared with the catenary; from Grade 11: circle as a locus: points at constant distance r from the centre; standard equation (x − h)² + (y − k)² = r² derived from the distance formula.

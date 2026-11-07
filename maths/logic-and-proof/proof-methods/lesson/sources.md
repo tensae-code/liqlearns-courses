@@ -1,6 +1,6 @@
 # Sources — Proof Methods
 
-countries: Kazakhstan, Iran, Armenia, Greece, Egypt, Nicaragua, Kuwait, Laos, China, Syria, Malaysia, India, Mongolia
+countries: Kazakhstan, Iran, Armenia, Greece, Egypt, Nicaragua, Kuwait, Laos, China, Syria, Malaysia, India, Mongolia, Venezuela
 
 Every part traces to its book and page.
 
@@ -29,6 +29,7 @@ Every part traces to its book and page.
 **Book 21:** *Mathematics — Textbook for Class XI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-486-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendices 1–2, the Answers and the Supplementary Material; nothing is cited from them.
 **Book 22:** *Математик VII (Mathematics, Grade 7)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 23:** *Математик VIII (Mathematics, Grade 8)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 24:** *La Matemática de la Belleza* — Venezuela, Grade 9 (3er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-329-6. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -65,7 +66,9 @@ Every part traces to its book and page.
 | Divisibility proofs: 8^5 + 2^13 divisible by 10; 9^6 − 3^10 by 24 | Mongolia, Математик VIII (Grade 8), printed p. 48 |
 | N³ − n divisible by 6; n² − 1 for odd n divisible by 8 | Mongolia, Математик VIII (Grade 8), printed p. 54 |
 
-**Acceptance count: taught in 13 countries (Kazakhstan, Iran, Armenia, Greece, Egypt, Nicaragua, Kuwait, Laos, China, Syria, Malaysia, India, Mongolia).** Kazakhstan opens all three of its Grade 7 geometry courses with the Euclidean deductive method itself — axioms as the rules of the game (Smirnov), the regress of definitions (Shynybekov), and methods of proof given their own section (Turapbekov). Iran teaches proof three ways: a whole Grade 9 chapter on reasoning and proof in geometry, with a deliberately flawed proof to diagnose; the proof opening of Geometry (1); and Discrete Mathematics' working kit of direct proof, cases, contradiction and counterexample. Armenia gathers deductive and inductive reasoning and the main methods of proof and refutation in Grade 11, proves and refutes ∀ and ∃ assertions and classifies necessary and sufficient conditions in its Grade 12 logic book, and first uses contradiction inside Grade 7 geometry. Greece makes deductive reasoning the stated point of its Euclidean Geometry. Egypt names the writing itself — "Steps to Write a Proof" — in Grade 7. Nicaragua introduces two-column-style reasoning in Grade 8 and writes full two-column similarity proofs in Grade 9. Kuwait frames every proof in its Grade 9 triangle unit as givens / required / proof. Laos judges arguments by validity, with modus ponens, modus tollens and the affirming-the-consequent fallacy. China proves the vertical-angles result inside its Grade 6 general review.
+| The method — proof by contradiction (reducción al absurdo) explained as a general method: assume the opposite, reach an absurdity | Venezuela, La Matemática de la Belleza (Grade 9), printed p. 19 |
+
+**Acceptance count: taught in 14 countries (Kazakhstan, Iran, Armenia, Greece, Egypt, Nicaragua, Kuwait, Laos, China, Syria, Malaysia, India, Mongolia, Venezuela).** Kazakhstan opens all three of its Grade 7 geometry courses with the Euclidean deductive method itself — axioms as the rules of the game (Smirnov), the regress of definitions (Shynybekov), and methods of proof given their own section (Turapbekov). Iran teaches proof three ways: a whole Grade 9 chapter on reasoning and proof in geometry, with a deliberately flawed proof to diagnose; the proof opening of Geometry (1); and Discrete Mathematics' working kit of direct proof, cases, contradiction and counterexample. Armenia gathers deductive and inductive reasoning and the main methods of proof and refutation in Grade 11, proves and refutes ∀ and ∃ assertions and classifies necessary and sufficient conditions in its Grade 12 logic book, and first uses contradiction inside Grade 7 geometry. Greece makes deductive reasoning the stated point of its Euclidean Geometry. Egypt names the writing itself — "Steps to Write a Proof" — in Grade 7. Nicaragua introduces two-column-style reasoning in Grade 8 and writes full two-column similarity proofs in Grade 9. Kuwait frames every proof in its Grade 9 triangle unit as givens / required / proof. Laos judges arguments by validity, with modus ponens, modus tollens and the affirming-the-consequent fallacy. China proves the vertical-angles result inside its Grade 6 general review.
 
 Syria's Grade 8 Geometry is built as proof craft: the hypothesis–property–conclusion scheme is stated outright, proof plans are required before writing, and the book warns explicitly that nothing may be read off the figure.
 
@@ -75,3 +78,5 @@ India stocks proof methods from Mathematics Class 9–11: euclid's foundations; 
 
 
 Mongolia enters through its ministry textbooks Математик VII, VIII (Grades 7, 8): the proof that a triangle's interior angles sum to 180°, drawn with a parallel line through a vertex, and divisibility proofs worked as exercises — 8⁵ + 2¹³ divisible by 10, n³ − n divisible by 6, n² − 1 for odd n divisible by 8.
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *La Matemática de la Belleza* (Grade 9). From its books: from Grade 9: the method — proof by contradiction (reducción al absurdo) explained as a general method: assume the opposite, reach an absurdity.

@@ -1,6 +1,6 @@
 # Sources — Index Numbers
 
-countries: Pakistan, Libya, Iran, Malaysia
+countries: Pakistan, Libya, Iran, Malaysia, Venezuela
 
 Every part traces to its book and page.
 
@@ -10,6 +10,8 @@ Every part traces to its book and page.
 **Book 4:** *Statistics and Probability — Mathematics & Physics branch — Grade 11* — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 10th printing 1405, ISBN 978-964-05-2773-3, book code 111215. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 5:** *Additional Mathematics Form 4* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-967-2375-42-5 — the held copy is an image-only scan read visually; its contents pages, printed v–vi, are missing, the body is complete) and BM original *Matematik Tambahan Tingkatan 4* (Pan Asia Publications Sdn. Bhd., 2019, ISBN 978-967-466-377-3). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 6:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -27,6 +29,12 @@ Every part traces to its book and page.
 | Changing the base year by chaining index numbers (a bicycle index of 176 on one base and 110 on another rebases to 160) | Malaysia, Additional Mathematics Form 4, Ch. 10 §10.1, printed p. 275 |
 | The composite index Ī = ΣIᵢwᵢ/Σwᵢ, with weightages read from percentages, ratios, bar charts and pie charts (a simple mean of 151.67 unweighted; a pie-chart-weighted composite of 135.4) | Malaysia, Additional Mathematics Form 4, Ch. 10 §10.2, printed pp. 279–283 |
 
-**Acceptance count: taught in 4 countries (Pakistan, Libya, Iran, Malaysia).** Pakistan carries the full construction: simple and weighted indices, link relatives and chain indices, the CPI family as Pakistan itself computes it, and purchasing power as 1/CPI — with two of its worked examples carrying printing errors that this lesson teaches corrected, never as fact: Example 5.6's potato link relatives (111.1 and 100.0) and Example 5.7's Paasche (110.4) and Fisher (114.5), its Laspeyres 118.8 standing unaffected. Libya carries the same weighted family in its Humanities Grade 12 book, adds Marshall–Edgeworth by name beside Laspeyres, Paasche and Fisher, works on Libyan price data, and teaches changing the base. Iran carries the index as a lived statistic in two Grade 11 books: the Humanities book builds the consumer price index as a basket ratio (≈ 140.5 in its recomputed-correct example) and defines inflation as the index's change, while the Mathematical Sciences book states the inflation-rate formula in a box whose worked value this lesson teaches corrected as ≈ 14.3%, not 14%.
+| An index as a quotient against a comparison base; education (schooling) rate as a worked index | Venezuela, Naturaleza Matemática (Grade 10), printed p. 21 |
+| Simple vs composite index numbers defined | Venezuela, Naturaleza Matemática (Grade 10), printed p. 21 |
+| Annual variation index VA = value(year x)/value(base year) × 100; reading >100 as growth and <100 as fall | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 22–23 |
+
+**Acceptance count: taught in 5 countries (Pakistan, Libya, Iran, Malaysia, Venezuela).** Pakistan carries the full construction: simple and weighted indices, link relatives and chain indices, the CPI family as Pakistan itself computes it, and purchasing power as 1/CPI — with two of its worked examples carrying printing errors that this lesson teaches corrected, never as fact: Example 5.6's potato link relatives (111.1 and 100.0) and Example 5.7's Paasche (110.4) and Fisher (114.5), its Laspeyres 118.8 standing unaffected. Libya carries the same weighted family in its Humanities Grade 12 book, adds Marshall–Edgeworth by name beside Laspeyres, Paasche and Fisher, works on Libyan price data, and teaches changing the base. Iran carries the index as a lived statistic in two Grade 11 books: the Humanities book builds the consumer price index as a basket ratio (≈ 140.5 in its recomputed-correct example) and defines inflation as the index's change, while the Mathematical Sciences book states the inflation-rate formula in a box whose worked value this lesson teaches corrected as ≈ 14.3%, not 14%.
 
 Malaysia teaches index numbers in Additional Mathematics Form 4 as its closing chapter — the single index, base-changing by chaining, and the weighted composite index with weightages read from charts. (The Laspeyres, Paasche and Fisher weighting family is not in Malaysia's books; that part of the lesson stands on the other countries.)
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Naturaleza Matemática* (Grade 10). From its books: from Grade 10: an index as a quotient against a comparison base; education (schooling) rate as a worked index.

@@ -1,6 +1,6 @@
 # Sources — Circles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela
 
 Every part traces to its book and page.
 
@@ -244,6 +244,13 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 **Book 120:** *Математик VIII (Mathematics, Grade 8)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 121:** *Математик IX (Mathematics, Grade 9)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 122:** *Математик X (Mathematics, Grade 10)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 123:** *Contemos... 1, 2, 3 y 4* — Venezuela, Grade 1 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-293-0. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 124:** *Aventuras de Patacalientes* — Venezuela, Grade 3 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-295-4. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 125:** *La Patria Buena* — Venezuela, Grade 5 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-306-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 126:** *Hecho en Venezuela* — Venezuela, Grade 6 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-308-1. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 127:** *Matemática Para La Vida* — Venezuela, Grade 7 (1er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-322-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 128:** *La Matemática de la Belleza* — Venezuela, Grade 9 (3er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-329-6. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 129:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -406,7 +413,26 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 | Classification — relative positions of two circles: six cases by d against r₁ + r₂ and r₁ − r₂ | Mongolia, Математик X (Grade 10), printed p. 98 |
 | Common tangents of two circles (four for separate circles) | Mongolia, Математик X (Grade 10), printed p. 98 |
 
-**Acceptance count: taught in 31 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia).**.** Kazakhstan carries the full climb — circle Iran measures the circumference in Grade 5 — with the book's own bounds for π, 3 1/7 and 3 10/71, while its exercises work with π = 3 — the area of a circle in Grade 6, circle basics in Grade 8, and the circle's equation in Grade 12 Geometry (3).
+| Circle and circumference — tracing a cylinder/cone outline: the black border is the circunferencia and the border plus the coloured interior is the círculo; finding the centre of a traced circle | Venezuela, Contemos... 1, 2, 3 y 4 (Grade 1), printed pp. 124–127 |
+| Circle and circumference — building a toy car with bottle-top wheels; naming objects showing circumference and circle | Venezuela, Contemos... 1, 2, 3 y 4 (Grade 1), printed pp. 128–129 |
+| Centre, radius, diameter — drawing circles with a compass: centro, radio and diámetro defined; the círculo as circumference plus its interior | Venezuela, Aventuras de Patacalientes (Grade 3), printed pp. 66–71 |
+| Definition — π defined as the constant ratio circumference ÷ diameter, the same for every circle | Venezuela, La Matemática de la Belleza (Grade 9), printed p. 11 |
+| Circumference/diameter = π; length of a semicircle arc from D = 0.5 km (π/4 ≈ 0.78 km) | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 40–41 |
+| Definitions — Circle vs circumference distinguished: the circumference is the closed curve whose points are equidistant from the centre; the circle is the circumference plus its interior | Venezuela, La Patria Buena (Grade 5), printed pp. 92–93 |
+| Elements — Radius, diameter and chord defined from drawings; the diameter as the longest chord (discussion) | Venezuela, La Patria Buena (Grade 5), printed pp. 93–95 |
+| Elements — Arc of a circumference and its notation; the central angle (ángulo al centro) | Venezuela, La Patria Buena (Grade 5), printed p. 95 |
+| Lines and circles — Lines and a circle: exterior lines, secant lines (two points), tangent lines (one point) | Venezuela, La Patria Buena (Grade 5), printed p. 96 |
+| Pi — Circumference length measured by rolling a coin: L/D ≈ 3,14159265358979324…; the constant named π (the sixteenth Greek letter) | Venezuela, Hecho en Venezuela (Grade 6), printed pp. 112–114 |
+| Circumference formula — L = πD = 2πr from L/D = π and D = 2r | Venezuela, Hecho en Venezuela (Grade 6), printed p. 114 |
+| Circle area — Circle area derived by exhausting the circle with inscribed regular polygons: area of a regular polygon = perimeter × apothem / 2, the apothem tending to r and the perimeter to L, giving A = rL/2 = πr² | Venezuela, Hecho en Venezuela (Grade 6), printed pp. 114–117 (one step misprints the hexagon's vertices — see band draft, suspected error 9) |
+| Circumference — Circumference defined as the flat closed curve whose points are all equidistant from the centre; arcs and the semicircle (media circunferencia) | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 139–140 |
+| Chords — Chords, and the diameter as the chord through the centre, worth two radii | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 139–140 |
+| Pi — π measured empirically: wrap a string round a lid, divide circumference length by diameter; π ≈ 3,1416 by rounding (approximation by excess and by defect explained) | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 140–142 |
+| Length formula — Circumference length: π = ℓ/d with d = 2r, cleared step by step to ℓ = 2πr | Venezuela, Matemática Para La Vida (Grade 7), printed p. 143 |
+| Circle — Circle vs circumference: the circle is the circumference together with its interior points | Venezuela, Matemática Para La Vida (Grade 7), printed p. 143 |
+| Centre constructions — Finding a centre: two folds (diameters) cross at the centre; the perpendicular bisector (mediatriz) of a chord passes through the centre; the circle through three points S, T, U is centred where two mediatrices meet | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 144–147 |
+
+**Acceptance count: taught in 32 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela).**.** Kazakhstan carries the full climb — circle Iran measures the circumference in Grade 5 — with the book's own bounds for π, 3 1/7 and 3 10/71, while its exercises work with π = 3 — the area of a circle in Grade 6, circle basics in Grade 8, and the circle's equation in Grade 12 Geometry (3).
 parts in Grade 3, circle and disc in Grades 4 and 5, then the
 practical thread-and-glass discovery of pi with C = πD and the
 disc area in Grade 6. Jordan carries the parts in Grade 6 and
@@ -441,3 +467,5 @@ India stocks circles from Math-Magic Class 4 and Mathematics Class 6–7, 9–10
 
 
 Mongolia enters through its ministry textbooks Математик III, VI, VII, VIII, IX, X (Grades 3, 6, 7, 8, 9, 10): circle (line) and disc (filled) recognised; points in/out/on; centre, radius and diameter by folding; drawing circles with a compass.
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Contemos... 1, 2, 3 y 4* (Grade 1), *Aventuras de Patacalientes* (Grade 3), *La Patria Buena* (Grade 5), *Hecho en Venezuela* (Grade 6), *Matemática Para La Vida* (Grade 7), *La Matemática de la Belleza* (Grade 9) and *Naturaleza Matemática* (Grade 10). From its books: from Grade 1: circle and circumference — tracing a cylinder/cone outline: the black border is the circunferencia and the border plus the coloured interior is the círculo; finding the centre of a traced circle; from Grade 6: pi — Circumference length measured by rolling a coin: L/D ≈ 3,14159265358979324…; the constant named π (the sixteenth Greek letter); from Grade 10: circumference/diameter = π; length of a semicircle arc from D = 0.5 km (π/4 ≈ 0.78 km).

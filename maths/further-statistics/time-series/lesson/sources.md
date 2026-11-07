@@ -1,6 +1,6 @@
 # Sources — Time Series
 
-countries: Pakistan, Libya, Greece, Jordan, Iran
+countries: Pakistan, Libya, Greece, Jordan, Iran, Venezuela
 
 Every part traces to its book and page.
 
@@ -9,6 +9,7 @@ Every part traces to its book and page.
 **Book 3:** *Business Statistics (ΣΤΑΤΙΣΤΙΚΗ ΕΠΙΧΕΙΡΗΣΕΩΝ), B' EPAL, Administration and Economics sector* — Greece, Dimitrios Karageorgos, Anna-Maria Kokla, Evangelos Papakonstantinou, book code 24-0199. Filed in maths/books/greece.md (FULLY READ + CITATION CHECK PASSED).
 **Book 4:** *Business Mathematics, Student Book, Grade 12, Term 2* — Jordan, NCCD, ISBN 978-9923-41-789-8 (held copy stamped as a version under preparation). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 5:** *Mathematics and Statistics (2) — Literature & Humanities and Islamic Sciences branches — Grade 11* — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 10th printing 1405, ISBN 978-964-05-2767-2, book code 111212. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED). Its time-series lesson is filed "for study" and is worded as filed wherever cited.
+**Book 6:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -27,4 +28,8 @@ Every part traces to its book and page.
 | Time series as a named lesson; variance in time series | Jordan, Grade 12 Business Mathematics, Term 2, Unit 4, L2 printed p.21, L3 printed p.31 |
 | Reading a series over equal time intervals; comparing two cities' six-month rainfall by mean and standard deviation (City A 15, 20, 30, 35, 30, 30 mm; City B 230, 170, 150, 130, 110, 110 mm — a fill-in activity table, no printed totals); interpolation; extrapolation — filed "for study", worded as filed | Iran, Mathematics and Statistics (2), Grade 11, Ch. 3 L2, printed pp.63–70 |
 
-**Acceptance count: taught in 5 countries (Pakistan, Libya, Greece, Jordan, Iran).** Pakistan carries the deepest treatment: one full chapter that defines the series, names the four components and the business cycle, states both models, and then measures the trend four ways — freehand, semi-averages, moving averages and least squares, linear and parabolic — while computing no seasonal index anywhere, as filed. Libya carries the components and the same trend methods in its Humanities Grade 12 book, and adds the part Pakistan omits: seasonal indices by simple averages, with the cyclical changes beside them. Greece carries the components and the linear trend in a vocational business book, taught through business data for economic activity. Jordan carries time series as a named lesson in its Grade 12 Business book, with variance in time series as the follow-on lesson. Iran carries a reading-level treatment in its Grade 11 Humanities book — comparing two cities' rainfall and using interpolation and extrapolation — filed "for study" and worded as filed.
+| Historical / chronological series defined (data recorded over successive years) | Venezuela, Naturaleza Matemática (Grade 10), printed p. 14 |
+
+**Acceptance count: taught in 6 countries (Pakistan, Libya, Greece, Jordan, Iran, Venezuela).** Pakistan carries the deepest treatment: one full chapter that defines the series, names the four components and the business cycle, states both models, and then measures the trend four ways — freehand, semi-averages, moving averages and least squares, linear and parabolic — while computing no seasonal index anywhere, as filed. Libya carries the components and the same trend methods in its Humanities Grade 12 book, and adds the part Pakistan omits: seasonal indices by simple averages, with the cyclical changes beside them. Greece carries the components and the linear trend in a vocational business book, taught through business data for economic activity. Jordan carries time series as a named lesson in its Grade 12 Business book, with variance in time series as the follow-on lesson. Iran carries a reading-level treatment in its Grade 11 Humanities book — comparing two cities' rainfall and using interpolation and extrapolation — filed "for study" and worded as filed.
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Naturaleza Matemática* (Grade 10). From its books: from Grade 10: historical / chronological series defined (data recorded over successive years).

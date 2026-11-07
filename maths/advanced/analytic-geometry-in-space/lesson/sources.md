@@ -1,6 +1,6 @@
 # Sources — Analytic Geometry in Space
 
-countries: Egypt, Laos, Cambodia, Jordan, Syria, Rwanda, India, Mongolia
+countries: Egypt, Laos, Cambodia, Jordan, Syria, Rwanda, India, Mongolia, Venezuela
 
 Every part traces to its book and page.
 
@@ -20,6 +20,7 @@ Every part traces to its book and page.
 **Book 11:** *Mathematics — Textbook for Class XI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-486-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendices 1–2, the Answers and the Supplementary Material; nothing is cited from them.
 **Book 12:** *Mathematics — Textbook for Class XII, Parts I–II* (ONE work in two volumes: continuous chapters 1–13 and continuous printed pagination 1–587) — India, NCERT, New Delhi, first edition November 2006, 2020-21 printing; Part I ISBN 81-7450-629-2 (Part II prints no ISBN). Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy of Part I lacks its appendices, answers and supplementary material, and the held copy of Part II has no front matter; nothing is cited from either.
 **Book 13:** *Математик XI (Mathematics, Grade 11)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 14:** *La Matemática y el Vivir Bien* — Venezuela, Grade 11 (5to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-344-9. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -75,7 +76,21 @@ Every part traces to its book and page.
 | Coordinates in space — Rectangular coordinate system in space: axes, coordinate planes, octants, coordinates of a point | Mongolia, Математик XI (Grade 11), printed p. 79 |
 | Distance and midpoint in space — Distance between two points in space and midpoint of a segment, from the plane formulas extended | Mongolia, Математик XI (Grade 11), printed p. 83 |
 
-**Acceptance count: taught in 8 countries (Egypt, Laos, Cambodia, Jordan, Syria, Rwanda, India, Mongolia).** Egypt carries the analytic course in Pure Grade 12: the 3D coordinate system, vectors in space and vector multiplication in Unit Three, then the equations of lines and planes in Unit Four. Laos carries it twice: Grade 10 Chapter X builds coordinates, octants, distance, direction cosines and the 3-D dot product in a single long lesson, and Grade 12 Chapter 10 adds the equations of lines and planes and the line–plane angle. Cambodia carries vectors in space in Grade 11 Advanced Chapter 8 and the scalar and cross products again in Grade 12 Advanced Chapter 7, with two teacher-guide worked values taught corrected as filed. Jordan carries vectors in space, lines in space and the scalar product in Grade 12 Term 2 Unit 6.
+| Distance between two points in space derived by two applications of Pythagoras: d = √((x₂−x₁)² + (y₂−y₁)² + (z₂−z₁)²) | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 250–252 |
+| Midpoint of a segment in space, proved by projections and Thales' theorem; worked example P(2, 1, 5), Q(−3, 2, 1) gives M(−1/2, 3/2, 3); trisection points and the centroid of a triangle as activities | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 252–254 |
+| Direction of a line in space: direction cosines cos α, cos β, cos γ of a contained vector, and direction numbers [a, b, c] proportional to them | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 254–256 |
+| Symmetric/parametric equations of a line from a point and direction numbers, including a zero direction number: (x − 5)/3 = (z − 3)/(−2), y + 1 = 0 for P(5, −1, 3), [3, 0, −2] | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 256–257 |
+| The line through two points: x − x₁ = k(x₂ − x₁), etc. | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed p. 258 |
+| Angle between two lines from their direction cosines, cos θ = cos α cos α′ + cos β cos β′ + cos γ cos γ′, proved with the cosine rule; the same angle from direction numbers; parallel iff direction numbers are proportional, perpendicular iff AA′ + BB′ + CC′ = 0 | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 258–260 |
+| The general plane equation Ax + By + Cz + D = 0 derived from perpendicularity to the normal line [A, B, C] | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed p. 261 |
+| Relations between two planes (parallel, perpendicular, coincident) from their coefficients; line–plane relations (perpendicular, parallel) | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed p. 262 |
+| Distance from a point to a plane (the book's Theorem 10 formula) and the acute angle between a line and a plane, sen α = |Aa + Bb + Cc|/(|n||v|) | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed p. 262 |
+| A parallelepiped house model: equations of all edge-lines and face-planes from the theorems (activity) | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed p. 263 |
+| A surface as the zero set f(x, y, z) = 0 in space; cylindrical surfaces from a directrix curve and a generatrix direction | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 279–280 |
+| Equation of an oblique cylinder by eliminating the parameter: directrix x² + y² = 9, z = 0 with generatrices parallel to direction (4, 3, 12) gives (3x − z)²/9 + (4y − z)²/16 = 9; a missing variable in f(x, y, z) = 0 signals a cylinder | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 281–282 |
+| The spherical surface as a locus: x² + y² + z² = r² at the origin and (x − m)² + (y − n)² + (z − l)² = r² in general; worked example with centre (2, 1, −4) expanded to x² + y² + z² − 4x − 2y + 8z + 5 = 0 | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed p. 283 |
+
+**Acceptance count: taught in 9 countries (Egypt, Laos, Cambodia, Jordan, Syria, Rwanda, India, Mongolia, Venezuela).** Egypt carries the analytic course in Pure Grade 12: the 3D coordinate system, vectors in space and vector multiplication in Unit Three, then the equations of lines and planes in Unit Four. Laos carries it twice: Grade 10 Chapter X builds coordinates, octants, distance, direction cosines and the 3-D dot product in a single long lesson, and Grade 12 Chapter 10 adds the equations of lines and planes and the line–plane angle. Cambodia carries vectors in space in Grade 11 Advanced Chapter 8 and the scalar and cross products again in Grade 12 Advanced Chapter 7, with two teacher-guide worked values taught corrected as filed. Jordan carries vectors in space, lines in space and the scalar product in Grade 12 Term 2 Unit 6.
 
 Rwanda teaches analytic geometry in space whole in Advanced Mathematics Senior Five Unit 8 — points, lines and planes in 3D through to spheres, their relative positions, radical planes and orthogonal spheres.
 
@@ -85,3 +100,5 @@ India stocks analytic geometry in space from Mathematics Class 11–12: section 
 
 
 Mongolia enters through its ministry textbooks Математик XI (Grade 11): coordinates in space; distance and midpoint in space.
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *La Matemática y el Vivir Bien* (Grade 11). From its books: from Grade 11: distance between two points in space derived by two applications of Pythagoras: d = √((x₂−x₁)² + (y₂−y₁)² + (z₂−z₁)²).

@@ -1,6 +1,6 @@
 # Sources — Statics: forces in balance
 
-countries: Egypt
+countries: Egypt, Venezuela
 
 Every part traces to its book and page.
 
@@ -8,6 +8,7 @@ Egypt is the sole source for this lesson. Among the countries whose maths books 
 
 **Book 1:** *Mathematics Applications — second secondary grade (Grade 11, Term 1, Science section)* — Egypt, Ministry of Education and Technical Education, first edition 2015/2016, deposit number 10559/2015, ISBN 978-977-706-016-5, school year 2025–2026. Filed in maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 **Book 2:** *Applied Mathematics — Mechanics — Third secondary — Student Book (Grade 12, full year)* — Egypt, Ministry of Education and Technical Education, no deposit number or ISBN printed in the held copies and no year printed on the English copy (French cover: school year 2025-2026); edition data unverified as filed. Filed in maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
+**Book 3:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -24,4 +25,8 @@ Egypt is the sole source for this lesson. Among the countries whose maths books 
 | Couples and the moment of a couple | Egypt, Applied Grade 12, lesson 3-1 Couples, printed p.42 |
 | The resultant couple | Egypt, Applied Grade 12, lesson 3-2 Resultant couple, printed p.50 |
 
-**Acceptance count: taught in 1 country (Egypt).** Egypt teaches statics whole in one Applied Mathematics run: forces, resolution, resultants and equilibrium at a point, then friction and limiting equilibrium on flat and inclined rough planes, in Grade 11 Term 1; and moments, parallel forces and couples in Part 1 (Statics) of its Grade 12 Applied Mathematics (Mechanics) book. No other read country teaches this material, so this lesson is built at that honest size — one country's full treatment, not a merged treatment.
+| Scalar vs vector magnitudes (age, temperature vs displacement, weight, velocity; speed as a scalar) | Venezuela, Naturaleza Matemática (Grade 10), printed p. 249 |
+
+**Acceptance count: taught in 2 countries (Egypt, Venezuela).** Egypt teaches statics whole in one Applied Mathematics run: forces, resolution, resultants and equilibrium at a point, then friction and limiting equilibrium on flat and inclined rough planes, in Grade 11 Term 1; and moments, parallel forces and couples in Part 1 (Statics) of its Grade 12 Applied Mathematics (Mechanics) book. No other read country teaches this material, so this lesson is built at that honest size — one country's full treatment, not a merged treatment.
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Naturaleza Matemática* (Grade 10). From its books: from Grade 10: scalar vs vector magnitudes (age, temperature vs displacement, weight, velocity; speed as a scalar).

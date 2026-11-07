@@ -1,6 +1,6 @@
 # Sources — Volume and Surface Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela
 
 Every part traces to its book and page.
 
@@ -284,6 +284,10 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 126:** *Математик VIII (Mathematics, Grade 8)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 127:** *Математик IX (Mathematics, Grade 9)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 128:** *Математик X (Mathematics, Grade 10)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 129:** *Hecho en Venezuela* — Venezuela, Grade 6 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-308-1. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 130:** *Conciencia Matemática* — Venezuela, Grade 8 (2do año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-320-3. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 131:** *La Matemática de la Belleza* — Venezuela, Grade 9 (3er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-329-6. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+**Book 132:** *La Matemática y el Vivir Bien* — Venezuela, Grade 11 (5to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-344-9. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -484,7 +488,31 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Cone volume from generator and axial-section area: a biquadratic with two valid answers | Mongolia, Математик X (Grade 10), printed p. 204 |
 | A plane section of a sphere is a circle; section area 80π at distance 8 from the centre | Mongolia, Математик X (Grade 10), printed p. 205 |
 
-**Acceptance count: taught in 33 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia).**.** Sierra Leone carries the cleanest Iran gives the cuboid's volume in Grade 5, prism volumes and the cylinder's lateral area in Grade 7, and the sphere, pyramid and cone in Grade 9; its Grade 10 Geometry (1) treats the solids themselves without computing their volumes.
+| Comparison — two cylinders with equal lateral area (190,08 cm² each) but different volumes: lateral area ≠ volume | Venezuela, Conciencia Matemática (Grade 8), printed p. 126 |
+| Rule — cylinder volume V = A_base · h, with A_base = πr²; E1 base area 3,1416 · (2,75 cm)² ≈ 23,76 cm² | Venezuela, Conciencia Matemática (Grade 8), printed p. 127 |
+| Worked example — cylinder volume worked WRONG in the book (see Errors): printed "V₁ = 23,76 cm² · 2,75 cm = 65,34 cm³" uses the radius for h (Taught corrected: V₁ = 23,76 cm² × 11 cm = 261,36 cm³ — the book multiplies by the radius 2,75 instead of the height 11.) | Venezuela, Conciencia Matemática (Grade 8), printed p. 128 |
+| Rule — rectangular prism volume V = l · a · h; the "1-litre" juice carton 7 × 7 × 19 = 931 cm³ = 931 ml | Venezuela, Conciencia Matemática (Grade 8), printed p. 129 |
+| Rule — cube volume V = a³ as a special rectangular prism | Venezuela, Conciencia Matemática (Grade 8), printed p. 132 |
+| Rule — pyramid volume V = (1/3) A_base · h, found by filling a same-base same-height prism with sand (3 fills) | Venezuela, Conciencia Matemática (Grade 8), printed p. 134 |
+| Rule — cone volume V = (1/3) πr²h, by the same filling comparison with a cylinder | Venezuela, Conciencia Matemática (Grade 8), printed p. 134 |
+| Principle — Cavalieri's principle stated: equal height and equal cross-section areas at every height ⇒ equal volumes | Venezuela, Conciencia Matemática (Grade 8), printed p. 135 |
+| Derivation — sphere volume V = (4/3) πr³ derived by Cavalieri: cylinder (2 πr³) minus two cones (2/3 πr³) | Venezuela, Conciencia Matemática (Grade 8), printed p. 136 |
+| Exercises — volumes of cube (edge 7 cm), box (12 × 8 × 5 cm), sphere (r = 6 cm); pyramid, cylinder-water-height and cone-cup problems | Venezuela, Conciencia Matemática (Grade 8), printed p. 138 |
+| Modelling — silo volume = cylinder + cone: π(1,5)²·6 + (1/3)π(1,5)²·2 ≈ 47 m³; filled only to 75 % of the cylinder height (4,5 m) | Venezuela, Conciencia Matemática (Grade 8), printed p. 144 |
+| Algebraic modelling — surface area of a box with sides 3x, 3x + 1, 5x: A = 78x² + 16x; its volume 45x³ + 15x² | Venezuela, Conciencia Matemática (Grade 8), printed p. 151 |
+| Volume by experiment — a cone holds exactly one third of the same-base, same-height cylinder (sand filling); the book also derives the sphere as 2/3 of the circumscribing cylinder | Venezuela, La Matemática de la Belleza (Grade 9), printed p. 9 |
+| A solid of revolution defined: a plane region rotated about an axis; cylinder, cone and sphere generated by rotating a rectangle, a right triangle and a semicircle (hands-on card constructions); axis, height, radius, generatrix | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 264–270 |
+| Cavalieri's principle stated and used: the cylinder as a stack of circles, V = π r² h | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 271–272 |
+| Cylinder nets: lateral area 2π r h from unrolling to a rectangle, total area 2π r(h + r) | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 273–274 |
+| Cone volume = (1/3)π r² h, obtained from the pyramid's (1/3)·base·height by Cavalieri's principle | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed p. 274 |
+| Cone lateral area π r g from the sector with arc 2π r treated as a triangle of base 2π r and height g; total area π r(r + g) | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed p. 275 |
+| Sphere volume by a water-displacement experiment: the sphere fills 2/3 of the circumscribing cylinder (h = 2r), so V = (4/3)π r³ | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed p. 277 |
+| Sphere area from Archimedes' result on the circumscribing cylinder, giving A = 4π r² (the book's derivation and final printed line are faulty — see the errors list) | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed p. 278 |
+| Unit cubes — Volume as space occupied, measured in unit cubes; mm³, cm³, dm³, m³ as cubes of that edge | Venezuela, Hecho en Venezuela (Grade 6), printed pp. 79–80 |
+| Volume conversions — Volume units step by 1.000: conversions 25 m³ = 25.000.000 cm³; 313 cm³ = 313.000 mm³; 7 cm³ = 0,000007 m³ | Venezuela, Hecho en Venezuela (Grade 6), printed p. 81 (the prose rule misprints the second step — see band draft, suspected error 12; cross-reference corrected at citation check) |
+| Capacity — Capacity vs volume: 1 l = 1.000 cm³; the litre as a 10 cm cube (10 × 10 × 10 = 1.000 cm³); ½ l = 500 cm³, ¼ l = 250 cm³ | Venezuela, Hecho en Venezuela (Grade 6), printed p. 82 |
+
+**Acceptance count: taught in 34 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela).**.** Sierra Leone carries the cleanest Iran gives the cuboid's volume in Grade 5, prism volumes and the cylinder's lateral area in Grade 7, and the sphere, pyramid and cone in Grade 9; its Grade 10 Geometry (1) treats the solids themselves without computing their volumes.
 ladder — cubes, prisms and cylinders by cross-section × height,
 then surface areas by the net, in JSS 2. Egypt carries volume by
 counting unit cubes through V = l × w × h in Grade 5 and the
@@ -527,3 +555,5 @@ India stocks volume and surface area from Math-Magic Class 5 and Mathematics Cla
 
 
 Mongolia enters through its ministry textbooks Математик III, IV, V, VI, VII, VIII, IX, X (Grades 3, 4, 5, 6, 7, 8, 9, 10): the cube's net; nets: area of a cube's net; counting cubes; nets of the cube and the cylinder.
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Hecho en Venezuela* (Grade 6), *Conciencia Matemática* (Grade 8), *La Matemática de la Belleza* (Grade 9) and *La Matemática y el Vivir Bien* (Grade 11). From its books: from Grade 6: unit cubes — Volume as space occupied, measured in unit cubes; mm³, cm³, dm³, m³ as cubes of that edge; from Grade 9: volume by experiment — a cone holds exactly one third of the same-base, same-height cylinder (sand filling); the book also derives the sphere as 2/3 of the circumscribing cylinder; from Grade 11: a solid of revolution defined: a plane region rotated about an axis; cylinder, cone and sphere generated by rotating a rectangle, a right triangle and a semicircle (hands-on card constructions); axis, height, radius, generatrix.

@@ -1,6 +1,6 @@
 # Sources — Sine and cosine rules
 
-countries: Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Iraq, Cambodia, Kuwait, Iran, China, Pakistan, Malaysia, Mongolia
+countries: Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Iraq, Cambodia, Kuwait, Iran, China, Pakistan, Malaysia, Mongolia, Venezuela
 
 Every part traces to its book and page.
 
@@ -87,6 +87,7 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 
 **Book 32:** *Additional Mathematics Form 4* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-967-2375-42-5 — the held copy is an image-only scan read visually; its contents pages, printed v–vi, are missing, the body is complete) and BM original *Matematik Tambahan Tingkatan 4* (Pan Asia Publications Sdn. Bhd., 2019, ISBN 978-967-466-377-3). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 33:** *Математик X (Mathematics, Grade 10)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 34:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -142,7 +143,15 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Proof — sine rule a/sin α = b/sin β = c/sin γ = 2R proved via the circumcircle (three cases) | Mongolia, Математик X (Grade 10), printed p. 109 |
 | Sine rule with a calculator; two possible angle values (ambiguous case) | Mongolia, Математик X (Grade 10), printed p. 110 |
 
-**Acceptance count: taught in 20 countries (Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Iraq, Cambodia, Kuwait, Iran, China, Pakistan, Malaysia, Mongolia).** Iran states and proves both the sine rule and the cosine rule in Grade 11 Geometry (2), and carries trigonometric identities and equations in Grade 11 Hesaban (1), Grade 12 Hesaban (2) and Grade 12 Mathematics (3) — the last naming the double-angle formulas explicitly.
+| Cosine rule stated in all three forms a² = b² + c² − 2bc cos α etc. | Venezuela, Naturaleza Matemática (Grade 10), printed p. 214 |
+| Cosine rule worked: AC² = 4.77² + 12.46² − 2(4.77)(12.46)cos 97.55° = 193.3, AC ≈ 13.9 | Venezuela, Naturaleza Matemática (Grade 10), printed p. 215 |
+| Cosine rule worked again: AE ≈ 7.24 from sides 3.21, 4.89 and included angle 125.51° | Venezuela, Naturaleza Matemática (Grade 10), printed p. 215 |
+| Sine rule stated a/sen α = b/sen β = c/sen ω with its derivation from the ratio form | Venezuela, Naturaleza Matemática (Grade 10), printed p. 216 |
+| Sine rule worked: AD = 13.92·sen 44.19°/sen 119.01° ≈ 11.09 | Venezuela, Naturaleza Matemática (Grade 10), printed p. 217 |
+| The area formula A = bc·sen α/2 proved from A = b·h/2 and h = c sen α | Venezuela, Naturaleza Matemática (Grade 10), printed p. 224 |
+| Bridge-length problem set with the sine rule (PQ = 85 m, angles 97.41° and 26.81°) | Venezuela, Naturaleza Matemática (Grade 10), printed p. 229 |
+
+**Acceptance count: taught in 21 countries (Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Iraq, Cambodia, Kuwait, Iran, China, Pakistan, Malaysia, Mongolia, Venezuela).** Iran states and proves both the sine rule and the cosine rule in Grade 11 Geometry (2), and carries trigonometric identities and equations in Grade 11 Hesaban (1), Grade 12 Hesaban (2) and Grade 12 Mathematics (3) — the last naming the double-angle formulas explicitly.
 Kazakhstan carries the fullest treatment — all three Grade 9
 Geometry books prove both rules (by vectors, by coordinates,
 by altitude) and work the standard solving cases, including
@@ -170,3 +179,5 @@ Malaysia teaches the solution of triangles in Additional Mathematics Form 4 with
 
 
 Mongolia enters through its ministry textbooks Математик X (Grade 10): derivation; proof.
+
+Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Naturaleza Matemática* (Grade 10). From its books: from Grade 10: cosine rule stated in all three forms a² = b² + c² − 2bc cos α etc.
