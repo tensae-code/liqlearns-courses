@@ -1,6 +1,6 @@
 # Sources — Multiplying and Dividing Fractions
 
-countries: Kazakhstan, Jordan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, Pakistan, Syria, Malaysia, Rwanda, Sudan
+countries: Kazakhstan, Jordan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, Pakistan, Syria, Malaysia, Rwanda, Sudan, India
 
 Every part traces to its book and page.
 
@@ -146,6 +146,7 @@ only: Ghana's set holds no pupil textbook at all.
 **Book 55:** *Mathematics, Grade 5* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, second edition 2021, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 56:** *Mathematics, Grade 7 (First Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2021, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 57:** *Mathematics — Textbook for Class VII* — India, NCERT, New Delhi, first edition February 2007, 2020-21 issue, ISBN 81-7450-669-1. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Brain-Teasers; nothing is cited from them.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -210,8 +211,16 @@ only: Ghana's set holds no pupil textbook at all.
 | Reciprocals — Reciprocal of a rational, including negatives: product of a number and its reciprocal = 1; reciprocal of −أ/ب is −ب/أ | Sudan, Grade 7 Mathematics (First Year Intermediate), printed p. 6 |
 | Multiplying rationals — Multiplication of rationals with the sign rules (same signs +, different signs −) | Sudan, Grade 7 Mathematics (First Year Intermediate), printed p. 12 |
 | Dividing rationals — Division of rationals via the reciprocal, with sign rules; division by zero excluded | Sudan, Grade 7 Mathematics (First Year Intermediate), printed p. 14 |
+| Whole × fraction — Whole number × fraction: multiply the whole number by the numerator, keep the denominator | India, Mathematics Class 7, printed p. 33 |
+| 'of' means multiply — 'Of' represents multiplication: 1/2 of 3 = 1/2 × 3; fractions of quantities (1/5 of 40 students) | India, Mathematics Class 7, printed p. 35 |
+| Fraction × fraction by picture, then numerator × numerator / denominator × denominator | India, Mathematics Class 7, printed p. 38 |
+| Comparing products — Product of two proper fractions is smaller than each; product of two improper fractions is greater than each | India, Mathematics Class 7, printed p. 41 |
+| Reciprocal of a fraction (invert it); a fraction × its reciprocal = 1 | India, Mathematics Class 7, printed p. 44 |
+| Division — Dividing by a fraction = multiplying by its reciprocal: whole ÷ fraction, fraction ÷ whole, fraction ÷ fraction, mixed numbers first made improper | India, Mathematics Class 7, printed p. 43 |
+| Rationals — Multiplying rational numbers (numerators ×, denominators ×), incl. by positive/negative integers | India, Mathematics Class 7, printed p. 188 |
+| Rationals — Reciprocal of a rational number; dividing rationals = multiplying by the reciprocal of the divisor | India, Mathematics Class 7, printed p. 189 |
 
-**Acceptance count: taught in 27 countries (Kazakhstan, Jordan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, Pakistan, Syria, Malaysia, Rwanda, Sudan).** Nepal carries multiplying and dividing fractions from multiplication only in Grade 5 (Unit 12, pp. 77–95 — no division there), to multiplying and dividing fractions including mixed numbers and fraction-of-quantity in Grade 6 (पाठ 4, pp. 53–75). Bangladesh carries multiplying and dividing fractions from multiplication and division by integers and by fractions, with division on the number line, in Class 5 (Ch. 6 §§6.3–6.7, pp. 38–64), through multiplication and division of fractions in Class 6 (Ch. 4, pp. 57–102), to division of algebraic expressions — polynomial ÷ monomial and polynomial ÷ polynomial — in Class 7 (Exp. 11, pp. 215–226). The third worked division on Class 7 p. 220 is taught corrected: (21y²z²)/(−4y²z) is given as 3z; the correct value is −5.25z. Iraq carries multiplying and dividing fractions from multiplying common fractions in Grade 5 (Ch. 6 L4, p. 111, contents level — the lesson page was not individually opened), through multiplying common and mixed numbers and dividing common and mixed numbers in Grade 6 (Ch. 3 L1–L4, pp. 56–65). Kazakhstan carries the full course with the rule derived, Iran multiplies and divides fractions in Grade 5 and defines reciprocals in Grade 6.
+**Acceptance count: taught in 28 countries (Kazakhstan, Jordan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, Pakistan, Syria, Malaysia, Rwanda, Sudan, India).** Nepal carries multiplying and dividing fractions from multiplication only in Grade 5 (Unit 12, pp. 77–95 — no division there), to multiplying and dividing fractions including mixed numbers and fraction-of-quantity in Grade 6 (पाठ 4, pp. 53–75). Bangladesh carries multiplying and dividing fractions from multiplication and division by integers and by fractions, with division on the number line, in Class 5 (Ch. 6 §§6.3–6.7, pp. 38–64), through multiplication and division of fractions in Class 6 (Ch. 4, pp. 57–102), to division of algebraic expressions — polynomial ÷ monomial and polynomial ÷ polynomial — in Class 7 (Exp. 11, pp. 215–226). The third worked division on Class 7 p. 220 is taught corrected: (21y²z²)/(−4y²z) is given as 3z; the correct value is −5.25z. Iraq carries multiplying and dividing fractions from multiplying common fractions in Grade 5 (Ch. 6 L4, p. 111, contents level — the lesson page was not individually opened), through multiplying common and mixed numbers and dividing common and mixed numbers in Grade 6 (Ch. 3 L1–L4, pp. 56–65). Kazakhstan carries the full course with the rule derived, Iran multiplies and divides fractions in Grade 5 and defines reciprocals in Grade 6.
 not just stated; Egypt carries the area-model multiplication and
 the two unit-fraction divisions as their own lessons, and the
 Grade 6 division modelling; Jordan carries multiplying and dividing
@@ -237,3 +246,5 @@ Malaysia multiplies and divides signed fractions in the same Form 1 combined-ope
 Rwanda teaches multiplying and dividing fractions from Year 4 — fraction × whole number, fraction × fraction by the fraction-grid method, and fraction ÷ whole number — through Year 6's complete course with reciprocals, all the division forms including mixed numbers, and mixed multiplication-and-division expressions, to Senior 1's multiplication and division of fractions and mixed numbers by the reciprocal.
 
 Sudan multiplies and divides fractions in Grade 5, with reciprocals, and returns to the same operations on rational numbers in Grade 7.
+
+India stocks multiplying and dividing fractions from Mathematics Class 7: whole × fraction.
