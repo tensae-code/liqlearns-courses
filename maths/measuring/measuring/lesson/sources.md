@@ -1,6 +1,6 @@
 # Sources — Measuring
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -345,6 +345,16 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 185:** *Geometriya (Геометрия), Grade 7 student book* — Uzbekistan, Ministry of Public Education; A. Azamov, B. Haydarov, E. Sarikov, A. Kuchkarov, U. Sagdiev; Russian (Cyrillic); «Yangiyul poligraph service», Tashkent 2009, ISBN 978-9943-366-05-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 186:** *Geometriya 7 — Metodik qo'llanma (teacher's methodological guide for the Grade 7 Geometriya course)* — Uzbekistan, Ministry of Public Education; A. Azamov, B. Haydarov, E. Sariqov, A. Qo'chqorov, U. Sag'diyev; Uzbek (Latin script); «Yangiyul poligraph service», Tashkent 2009, ISBN 978-9943-366-15-2. TEACHER GUIDE — guide evidence only: a true companion to the Grade 7 student book (its sample 68-lesson plan matches the student book's §§1–68 exactly); it never counts as, or substitutes for, a pupil's book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 187:** *Relaciones Lógico Matemáticas, Grade 1 student book (1ro EGB, Preparatoria)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-07-1 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 188:** *Matemática, Grade 2 student book (2do EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-12-5 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 189:** *Matemática, Grade 3 student book (Talento matemático 3, Serie Talentos)* — Ecuador, EDINUN (Ediciones Nacionales Unidas) for the Ministerio de Educación, © 2016, fourth printing February 2018; no ISBN printed (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 190:** *Matemática, Grade 6 student book (Talento matemático 6, Serie Talentos)* — Ecuador, EDINUN (Ediciones Nacionales Unidas) for the Ministerio de Educación, © 2016, first printing July 2016; no ISBN printed (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 191:** *Matemática, Grade 7 student book (7mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-18-7 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -769,8 +779,27 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | §13 Distance from a point to a line = length of the perpendicular; perpendicular is the shortest path (stated, proof deferred) | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 41 |
 | §26 Practical: measuring the width of a lake by building a congruent triangle on land (SAS) | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 73 |
 | (TG) Dars 6 lesson plan: practical measuring lesson (§6) — group height-measuring task with diagram presentation | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 34 |
+| Compare attributes of objects: longest, holds most lemonade (capacity), heaviest, coldest | Ecuador, Relaciones Lógico Matemáticas, Grade 1 student book, printed p. 32 |
+| Non-conventional measures: measure objects in hand-spans (palmas), feet (pies) and steps (pasos) | Ecuador, Relaciones Lógico Matemáticas, Grade 1 student book, printed pp. 44–45 |
+| Draw an object longer than 4 hand-spans, shorter than 2 feet, heavier than a teddy bear | Ecuador, Relaciones Lógico Matemáticas, Grade 1 student book, printed p. 47 |
+| Non-conventional measures: measuring length with the body — hand-span (palmo) and other body parts; what a metre/tape measure is | Ecuador, Matemática, Grade 2 student book, printed pp. 41–42 |
+| Length units: choose km, m, dm, cm or mm appropriately; true/false length judgements (Tema 4) | Ecuador, Matemática, Grade 2 student book, printed pp. 113–115 |
+| Mass: match objects to 4 kg, 1 kg, 10 g, 35 kg, 80 kg; estimate objects over/under 1 kg | Ecuador, Matemática, Grade 2 student book, printed pp. 117–118 |
+| Capacity: choose ml, cl or L; choose the most sensible capacity measure (litre, cup, gallon, jug) | Ecuador, Matemática, Grade 2 student book, printed pp. 118–119 |
+| Length problems mixing units: Julio is 16 dm tall, how many cm to reach 2 m; rope of 213 cm vs 23 dm (Tema 5) | Ecuador, Matemática, Grade 2 student book, printed pp. 121–122 |
+| Mass problems: lightest object, objects under 1 kg, pairs over 1 kg; elevator limit 450 kg expressed in grams | Ecuador, Matemática, Grade 2 student book, printed pp. 126–134 |
+| Capacity problems: mark 50 ml and 900 ml on a 1-litre vessel; compare 1 300 ml with 13 L; measure out exactly 4 litres with 500 ml and 3 000 ml bottles | Ecuador, Matemática, Grade 2 student book, printed pp. 127–136 |
+| Convert mixed side lengths (50 dm, 1 m, 800 cm, 1 000 cm) to metres and calculate a perimeter | Ecuador, Matemática, Grade 2 student book, printed pp. 128–129 |
+| Diagnostic: measure and estimate length, capacity and mass with non-conventional units | Ecuador, Matemática (Talento matemático 3), Grade 3 student book, printed p. 10 |
+| Capacity and mass with non-conventional units: order animals by mass, order containers by capacity from comparison clues | Ecuador, Matemática (Talento matemático 3), Grade 3 student book, printed pp. 88–90 |
+| Square metre: multiples and submultiples (km², hm², dam², dm², cm², mm²); conversions stepping by 100 | Ecuador, Matemática (Talento matemático 6), Grade 6 student book, printed pp. 36-37 |
+| Mass conversions kg–g–lb–oz inside market problems | Ecuador, Matemática (Talento matemático 6), Grade 6 student book, printed pp. 70-71 |
+| Area and volume unit ladders: each area step ×10², each volume step ×10³ | Ecuador, Matemática, Grade 7 student book, printed p. 17 |
+| Convert cm to m inside circle problems | Ecuador, Matemática, Grade 7 student book, printed p. 82 |
+| Convert complex (multi-unit) measures to the lower unit: length, capacity, mass, area, volume | Ecuador, Matemática, Grade 7 student book, printed pp. 87-88 |
+| Conversion problems mixing length, mass, area (dam², hm²) and volume (m³, dm³) | Ecuador, Matemática, Grade 7 student book, printed pp. 88-94 |
 
-**Acceptance count: taught in 35 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan).**.** Sierra Leone carries the cleanest Iran compares longer and shorter and heavier and lighter in Grade 1 — the heavier-marking activity is at printed p. 168 — reads the clock there too, and measures length in centimetres and millimetres in Grade 2.
+**Acceptance count: taught in 36 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador).**.** Sierra Leone carries the cleanest Iran compares longer and shorter and heavier and lighter in Grade 1 — the heavier-marking activity is at printed p. 168 — reads the clock there too, and measures length in centimetres and millimetres in Grade 2.
 single ladder — length, mass and volume distinguished, then the
 three conversion tables in JSS 1. Jordan carries the four
 standard units in one Grade 2 unit (centimetre, metre, gram and

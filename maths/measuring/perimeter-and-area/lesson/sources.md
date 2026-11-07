@@ -1,6 +1,6 @@
 # Sources — Perimeter and Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -359,6 +359,22 @@ READ + CITATION CHECK PASSED 2026-11-05).
 
 **Book 180:** *Geometriya (Геометрия), Grade 9 student book* — Uzbekistan, Ministry of Public Education; B. Haydarov, E. Sarikov, A. Kuchkarov, ed. A. Azamov; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2006, ISBN 05-89890-136-1 (as printed). Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 181:** *Matemática, Grade 2 student book (2do EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-12-5 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 182:** *Matemática, Grade 3 student book (Talento matemático 3, Serie Talentos)* — Ecuador, EDINUN (Ediciones Nacionales Unidas) for the Ministerio de Educación, © 2016, fourth printing February 2018; no ISBN printed (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 183:** *Matemática, Grade 5 student book (5to EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-17-0 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 184:** *Matemática, Grade 6 student book (Talento matemático 6, Serie Talentos)* — Ecuador, EDINUN (Ediciones Nacionales Unidas) for the Ministerio de Educación, © 2016, first printing July 2016; no ISBN printed (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 185:** *Matemática, Grade 7 student book (7mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-18-7 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 186:** *Matemática, Grade 8 student book (8vo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-27-9 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 187:** *Matemática, Grade 9 student book (9no EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-25-5 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 188:** *Matemática, Grade 10 student book (10mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-33-0 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Perimeter (p.92); area (p.94); area of a rectangle (p.96) | Jordan, Grade 3 Student Book Term 2, Unit 11, L5–L7, pp.92–96 |
@@ -690,8 +706,29 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Lesson 47 area of a circle S = πR² (proved by squeezing between inscribed and circumscribed regular n-gons); the disk defined; circus-arena problem | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 106–107 |
 | Lesson 48 sector of a circle: S = πR²·n°/360; segment: sector minus/plus the triangle | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 108–109 |
 | Lesson 49 arbelos ("Archimedes' knife") area = π·CD²; yin–yang areas and perimeters; Hippocrates' lunes (sum of lunes = area of the triangle) | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 110–111 |
+| Perimeter problems: wooden frame 20 cm × 30 cm, square pool of side 5 m, basketball court maximum and minimum perimeters | Ecuador, Matemática, Grade 2 student book, printed pp. 105–106 |
+| Perimeter problems: perimeter of a 10 cm × 5 cm rectangle; build a figure from a square and rectangle and measure its perimeter (Tema 3) | Ecuador, Matemática, Grade 2 student book, printed pp. 110–112 |
+| Contours of figures: measure the contour/perimeter of a rectangle and triangle with the thumb and a string (non-conventional units) | Ecuador, Matemática (Talento matemático 3), Grade 3 student book, printed pp. 148–149 |
+| Perimeter as the sum of the sides; P = n × l for regular polygons | Ecuador, Matemática, Grade 5 student book, printed pp. 94-95 |
+| Perimeter of trapezoids, parallelograms, rectangles, squares and triangles | Ecuador, Matemática, Grade 5 student book, printed pp. 95-99 |
+| Fencing problems with several wire strands and cost per metre | Ecuador, Matemática, Grade 5 student book, printed pp. 95-98 |
+| Area of a regular polygon A = P × a / 2 with the apothem defined | Ecuador, Matemática, Grade 5 student book, printed pp. 100-101 |
+| Area formulas: trapezoid (B+b)×h/2, rectangle b×h, square L×L, rhombus D×d/2, rhomboid b×h | Ecuador, Matemática, Grade 5 student book, printed p. 100 |
+| Area problems: tiling, land, painting cost per square metre | Ecuador, Matemática, Grade 5 student book, printed pp. 101-104 |
+| Area of parallelogram/rhomboid A = b × h deduced by rearranging into a rectangle | Ecuador, Matemática (Talento matemático 6), Grade 6 student book, printed p. 34 |
+| Area of rhombus A = D × d / 2 and of trapezoid A = (B + b) × h / 2 deduced by doubling | Ecuador, Matemática (Talento matemático 6), Grade 6 student book, printed pp. 34-35 |
+| Area of a triangle A = b × h / 2 deduced as half of a rectangle | Ecuador, Matemática (Talento matemático 6), Grade 6 student book, printed pp. 56-57 |
+| Perimeter of regular polygons P = n × l; recover the side from the perimeter | Ecuador, Matemática (Talento matemático 6), Grade 6 student book, printed pp. 108-109 |
+| Area and perimeter of a square (L × L; 4L) | Ecuador, Matemática, Grade 7 student book, printed p. 13 |
+| Area problems: rhombus from its diagonals; side of an equilateral triangle from its area | Ecuador, Matemática, Grade 8 student book, printed p. 122 |
+| Perimeter and area of a triangular plot from one side and one angle | Ecuador, Matemática, Grade 8 student book, printed p. 137 |
+| Triangle perimeter as sum of sides; area = (base × height)/2 worked (300 m²; 69 m × 4 turns of wire) | Ecuador, Matemática, Grade 9 student book, printed pp. 36–37 |
+| Rhombus area from diagonals; equilateral triangle side from area (shared core) | Ecuador, Matemática, Grade 9 student book, printed p. 126 |
+| Perimeter and area of a triangular plot (shared core) | Ecuador, Matemática, Grade 9 student book, printed p. 141 |
+| Rhombus area from diagonals; equilateral triangle side from area (shared core) | Ecuador, Matemática, Grade 10 student book, printed p. 122 |
+| Perimeter and area of a triangular plot (shared core) | Ecuador, Matemática, Grade 10 student book, printed p. 137 |
 
-**Acceptance count: taught in 36 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan).** Sierra Leone carries the cleanest Iran counts squares for area in Grade 3, derives the parallelogram and triangle areas in Grade 4, adds the rhombus and trapezium in Grade 5, and reaches polygon areas in Grade 10 Geometry (1) and Heron's formula in Grade 11 Geometry (2).
+**Acceptance count: taught in 37 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador).** Sierra Leone carries the cleanest Iran counts squares for area in Grade 3, derives the parallelogram and triangle areas in Grade 4, adds the rhombus and trapezium in Grade 5, and reaches polygon areas in Grade 10 Geometry (1) and Heron's formula in Grade 11 Geometry (2).
 ladder — perimeter short cuts, rectangle and triangle areas with
 the perpendicular-height rule, and the parallelogram, trapezium
 and composite areas in JSS 2. Jordan carries perimeter and area

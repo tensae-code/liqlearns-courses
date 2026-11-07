@@ -1,6 +1,6 @@
 # Sources — Types of Lines
 
-countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan
+countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -36,6 +36,10 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 **Book 24:** *Geometriya (Геометрия), Grade 7 student book* — Uzbekistan, Ministry of Public Education; A. Azamov, B. Haydarov, E. Sarikov, A. Kuchkarov, U. Sagdiev; Russian (Cyrillic); «Yangiyul poligraph service», Tashkent 2009, ISBN 978-9943-366-05-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 25:** *Geometriya 7 — Metodik qo'llanma (teacher's methodological guide for the Grade 7 Geometriya course)* — Uzbekistan, Ministry of Public Education; A. Azamov, B. Haydarov, E. Sariqov, A. Qo'chqorov, U. Sag'diyev; Uzbek (Latin script); «Yangiyul poligraph service», Tashkent 2009, ISBN 978-9943-366-15-2. TEACHER GUIDE — guide evidence only: a true companion to the Grade 7 student book (its sample 68-lesson plan matches the student book's §§1–68 exactly); it never counts as, or substitutes for, a pupil's book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 26:** *Matemática, Grade 2 student book (2do EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-12-5 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 27:** *Matemática, Grade 3 student book (Talento matemático 3, Serie Talentos)* — Ecuador, EDINUN (Ediciones Nacionales Unidas) for the Ministerio de Educación, © 2016, fourth printing February 2018; no ISBN printed (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -118,8 +122,10 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 | (TG) Dars 2–5 lesson plans: point/line/plane (§2), segment and ray (§3), comparing segments (§4), segment length and measuring (§5), each with timed stages, independent-work variants, answers and extra counting tasks (segments from n points: 10, 15, 21, …, 5050) | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 26 |
 | (TG) Dars 13 lesson plan: perpendicular lines (§13), with mathematical-dictation variants | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 45 |
 | (TG) Dars 37–40 lesson plans: parallelism of lines (§37), transversal angles (§38), parallel tests (§39–40), with printed answers to selected textbook problems (§40: e.g. ∠2 = ∠4 = ∠6 = ∠8 = 75°, ∠3 = ∠7 = 105°) | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 92 |
+| Straight line, curved line, ray (semirrecta), segment and angle: identify, match and colour | Ecuador, Matemática, Grade 2 student book, printed pp. 95–96 |
+| Lines: straight and curved, open and closed, in plane figures and house plans | Ecuador, Matemática (Talento matemático 3), Grade 3 student book, printed pp. 146–147 |
 
-**Acceptance count: taught in 7 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan).** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; no other read country gives line types a named treatment of their own, so this lesson is built at that honest size — a small lesson, complete for what its one source teaches. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
+**Acceptance count: taught in 8 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador).** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; no other read country gives line types a named treatment of their own, so this lesson is built at that honest size — a small lesson, complete for what its one source teaches. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
 
 India stocks types of lines from Math-Magic Class 2 and Mathematics Class 6–7, 9: standing, slanting, sleeping lines; point and line; intersecting lines and their point of intersection; basic terms.
 

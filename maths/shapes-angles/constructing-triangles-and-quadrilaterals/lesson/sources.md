@@ -1,6 +1,6 @@
 # Sources — Constructing triangles and quadrilaterals
 
-countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan
+countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -29,6 +29,12 @@ Every part traces to its book and page.
 **Book 18:** *Geometriya (Геометрия), Grade 8 student book* — Uzbekistan, Ministry of Public Education; A. A. Rahimkariev; Russian (Cyrillic); «Yangiyo'l Poligraph Service», Tashkent 2006; no ISBN is printed anywhere in the book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 19:** *Geometriya (Геометрия), Grade 9 student book* — Uzbekistan, Ministry of Public Education; B. Haydarov, E. Sarikov, A. Kuchkarov, ed. A. Azamov; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2006, ISBN 05-89890-136-1 (as printed). Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 20:** *Matemática, Grade 6 student book (Talento matemático 6, Serie Talentos)* — Ecuador, EDINUN (Ediciones Nacionales Unidas) for the Ministerio de Educación, © 2016, first printing July 2016; no ISBN printed (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 21:** *Matemática, Grade 8 student book (8vo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-27-9 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 22:** *Matemática, Grade 10 student book (10mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-33-0 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -91,7 +97,12 @@ Every part traces to its book and page.
 | §1 Тема 8 Rhombus defined; Theorem: diagonals of a rhombus are perpendicular and bisect its angles, proved via isosceles-triangle median | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 25 |
 | §1 Тема 9 Square defined (rectangle with equal sides); square is simultaneously parallelogram, rectangle and rhombus; its three diagonal properties listed | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 27 |
 | Lessons 1–2 revision: parallelograms, rectangle, rhombus, trapezoid — angles, diagonals, areas (Varignon's parallelogram, rhombus area = half product of diagonals) | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 8–11 |
-**Acceptance count: taught in 12 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan).** North Macedonia enters from its main set — Grade 7 (2025).
+| Construct a triangle from two sides and the included angle (with protractor) | Ecuador, Matemática (Talento matemático 6), Grade 6 student book, printed p. 55 |
+| Compass-and-ruler construction of a triangle from its three sides, in steps | Ecuador, Matemática, Grade 8 student book, printed pp. 34–35 |
+| Triangle inequality stated (smaller sides' sum must exceed the largest), with a 3-5-10 counter-example | Ecuador, Matemática, Grade 10 student book, printed p. 32 |
+| Compass construction of a triangle in steps; choosing feasible side triples | Ecuador, Matemática, Grade 10 student book, printed pp. 32–33 |
+| Construction task with sides 5 cm, 6 cm, 11 cm — impossible as a non-degenerate triangle since 5 + 6 = 11, flagged | Ecuador, Matemática, Grade 10 student book, printed p. 33 |
+**Acceptance count: taught in 13 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador).** North Macedonia enters from its main set — Grade 7 (2025).
 
 Pakistan's Grade 8 book is the spine: it constructs the whole quadrilateral family — square, rectangle, rhombus, parallelogram, kite, trapezium — and the SSS, SAS, ASA and RHS triangles, with the incentre and circumcentre constructions. Bangladesh's Class 8 Exp.5 is a dedicated constructing-quadrilaterals chapter. Yemen meets the work earliest: Grade 4 constructs a rectangle from its length and width and a square, and Grade 5 builds a triangle from two sides and the included angle in five named steps. Sierra Leone's SSS 2 course splits the same material into single-skill lessons — SSS, SAS and ASA triangles, then squares and rectangles, rhombi and parallelograms, and trapeziums — and finishes with construction word problems.
 

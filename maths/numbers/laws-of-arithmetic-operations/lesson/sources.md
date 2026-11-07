@@ -1,6 +1,6 @@
 # Sources — The Laws of Arithmetic Operations
 
-countries: Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan
+countries: Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -40,6 +40,12 @@ On Malaysia in this lesson: Malaysia is the first country whose book names the f
 **Book 24:** *Matematika (Математика), Grade 5 student book* — Uzbekistan, Ministry of Public Education; M. A. Mirzaahmedov, A. A. Rahimkariev; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2007, ISBN 978-9943-07-047-9. The held scan lacks printed pp. 123 and 147; nothing is cited from them. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 25:** *Matematika (Математика), Grade 6 student book* — Uzbekistan, Ministry of Public Education; M. A. Mirzaahmedov, A. A. Rahimkariev; Russian (Cyrillic); 3rd edition, revised and supplemented, «O'qituvchi», Tashkent 2009, ISBN 978-9943-02-092-4. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 26:** *Matemática, Grade 2 student book (2do EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-12-5 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 27:** *Matemática, Grade 3 student book (Talento matemático 3, Serie Talentos)* — Ecuador, EDINUN (Ediciones Nacionales Unidas) for the Ministerio de Educación, © 2016, fourth printing February 2018; no ISBN printed (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 28:** *Matemática, Grade 5 student book (5to EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-17-0 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -122,7 +128,11 @@ On Malaysia in this lesson: Malaysia is the first country whose book names the f
 | Topic 40: commutative, associative and distributive laws for integers, expanding brackets, taking out a common factor | Uzbekistan, Matematika, Grade 6 (Russian), printed p. 150-151 |
 | Topic 49: commutative and associative laws of addition for rational numbers, convenient grouping | Uzbekistan, Matematika, Grade 6 (Russian), printed p. 182-183 |
 | Topic 52: commutative, associative and distributive laws of multiplication for rational numbers | Uzbekistan, Matematika, Grade 6 (Russian), printed p. 191 |
-**Acceptance count: taught in 8 countries (Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan).** Malaysia's Form 1 book states the four laws in one section and applies them to efficient calculation; the other read countries use the laws inside their number work without naming the set, so this lesson is built at that honest size — one country's named treatment, not a merged one. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
+| Commutative property of addition: swapping Marcela's and Carlos's scores gives the same total; does subtraction commute? | Ecuador, Matemática, Grade 2 student book, printed pp. 81–82 |
+| Properties of addition: commutative and associative applied in mental calculation; add by decomposing and grouping hundreds, tens, units (692 + 218) | Ecuador, Matemática (Talento matemático 3), Grade 3 student book, printed pp. 84–85 |
+| Multiplication properties: commutative, associative, identity element, distributive over addition | Ecuador, Matemática, Grade 5 student book, printed p. 29 |
+| Associative grouping of multiplications by hundreds (700 = 7 × 100) in the section evaluation | Ecuador, Matemática, Grade 5 student book, printed p. 68 |
+**Acceptance count: taught in 9 countries (Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador).** Malaysia's Form 1 book states the four laws in one section and applies them to efficient calculation; the other read countries use the laws inside their number work without naming the set, so this lesson is built at that honest size — one country's named treatment, not a merged one. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
 
 Sudan names the laws early and revisits them at every level: commutativity of addition shown with pictures in Grade 1, the distributive property and the relations between the four operations in Grade 3, the properties of addition and of multiplication in the integers in Grade 6 and again in Grade 7, and the full table on the reals in Grade 8 — closure, commutativity, associativity, identities, inverses, cancellation and distributivity checked system by system, with the book's condition-free cancellation corrected in the table above. Malaysia still carries the lesson's founding treatment; Sudan is its widest primary-to-secondary thread.
 

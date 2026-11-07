@@ -1,6 +1,6 @@
 # Sources — Pythagoras
 
-countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan
+countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -142,6 +142,12 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 
 **Book 60:** *Geometriya (Геометрия), Grade 8 student book* — Uzbekistan, Ministry of Public Education; A. A. Rahimkariev; Russian (Cyrillic); «Yangiyo'l Poligraph Service», Tashkent 2006; no ISBN is printed anywhere in the book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 61:** *Matemática, Grade 8 student book (8vo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-27-9 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 62:** *Matemática, Grade 9 student book (9no EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-25-5 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 63:** *Matemática, Grade 10 student book (10mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-33-0 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Pythagoras' theorem and its converse (3-2, printed 70–77): finding a side; the converse; classifying triangles by angles from side lengths (acute, right or obtuse by comparing squares); Get Ready: a 13-foot ladder against a wall; Unit Three Activity: a Pythagoras practical (printed 104) | Egypt, Grade 8 Term 1, Unit 3, 3-2, printed pp.70–77, 104 |
@@ -237,8 +243,33 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 | §5 Тема 29 Altitude of a triangle from its three sides: foot division x = (b²+c²−a²)/(2c) and h_c = (1/(2c))√(4b²c² − (b²+c²−a²)²), with the factorisation to 16p(p−a)(p−b)(p−c); obtuse and right cases discussed | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 93 |
 | §5 Тема 31 Practical application: checking that a pole is vertical with a 3-4-5 rope (converse of Pythagoras) | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 96 |
 | §5 History: al-Khwarizmi's proof of Pythagoras' theorem from the "Algebra"; worked area of an equilateral triangle of side 10: S = 5√75 = 25√3 ≈ 43.3 | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 98 |
+| Pythagoras' theorem stated; guy-wire, tower-cable and phone-diagonal applications | Ecuador, Matemática, Grade 8 student book, printed pp. 36–37 |
+| Section 1 evaluation: rope from a 16 m building top to a point 9 m from its base | Ecuador, Matemática, Grade 8 student book, printed p. 47 |
+| Ruler-and-compass construction on the number line to check 2√7 < 3√5 | Ecuador, Matemática, Grade 8 student book, printed p. 66 |
+| Finding a leg (hypotenuse 15, leg 13) and hypotenuse of an isosceles right triangle (legs 7) | Ecuador, Matemática, Grade 8 student book, printed p. 129 |
+| Height of an equilateral triangle of side 5; solving right triangles with a 20°/28° angle | Ecuador, Matemática, Grade 8 student book, printed pp. 130–131 |
+| Problem solving with Pythagoras (positions of people; spider across a room; ladder against a wall) | Ecuador, Matemática, Grade 8 student book, printed p. 134 |
+| Guided proof of Pythagoras' theorem by areas of squares and triangles | Ecuador, Matemática, Grade 8 student book, printed p. 135 |
+| Demonstrating Pythagoras with cut-out squares puzzle; formulating problems | Ecuador, Matemática, Grade 8 student book, printed p. 139 |
+| Pythagoras' theorem stated and worked: ramp length √(2² + 1.5²) = 2.5 m | Ecuador, Matemática, Grade 9 student book, printed p. 6 |
+| Areas of the squares on the sides of a 3-4-5 triangle; deducing c² = a² + b² | Ecuador, Matemática, Grade 9 student book, printed p. 7 |
+| Tower-cable problem: 25 m tower, point 50 m from the base | Ecuador, Matemática, Grade 9 student book, printed p. 7 |
+| Pythagoras' theorem repeated: ramp and tower problems, squares on the sides (repeat of Tema 1) | Ecuador, Matemática, Grade 9 student book, printed pp. 40–41 |
+| Ruler-and-compass check that 2√7 < 3√5 on the number line (shared core) | Ecuador, Matemática, Grade 9 student book, printed p. 70 |
+| Finding legs and hypotenuses; equilateral triangle height; solving right triangles (shared core) | Ecuador, Matemática, Grade 9 student book, printed pp. 133–135 |
+| Pythagoras problem solving (shared core) | Ecuador, Matemática, Grade 9 student book, printed p. 138 |
+| Guided area proof of Pythagoras' theorem (shared core) | Ecuador, Matemática, Grade 9 student book, printed p. 139 |
+| Pythagoras cut-out squares puzzle (shared core) | Ecuador, Matemática, Grade 9 student book, printed p. 143 |
+| A rectangle's diagonal (16 m × 9 m) as an irrational length | Ecuador, Matemática, Grade 10 student book, printed p. 7 |
+| Right-triangle elements; Pythagoras applied step by step (ladder, 7.00 m by 1.80 m) | Ecuador, Matemática, Grade 10 student book, printed p. 36 |
+| Ramp length (75.9 cm rise, 303.6 cm run) and distance problems | Ecuador, Matemática, Grade 10 student book, printed p. 37 |
+| Ruler-and-compass check that 2√7 < 3√5 on the number line (shared core) | Ecuador, Matemática, Grade 10 student book, printed p. 66 |
+| Finding legs and hypotenuses; equilateral triangle height; solving right triangles (shared core) | Ecuador, Matemática, Grade 10 student book, printed pp. 129–131 |
+| Pythagoras problem solving (shared core) | Ecuador, Matemática, Grade 10 student book, printed p. 134 |
+| Guided area proof of Pythagoras' theorem (shared core) | Ecuador, Matemática, Grade 10 student book, printed p. 135 |
+| Pythagoras cut-out squares puzzle (shared core) | Ecuador, Matemática, Grade 10 student book, printed p. 139 |
 
-**Acceptance count: taught in 31 countries (Egypt, Greece, Armenia, Kazakhstan, Vietnam, Sierra Leone, Libya, Mauritania, South Africa, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan).**.** Egypt carries the fullest single treatment — Iran states Pythagoras' theorem in Grade 8 and verifies it on examples rather than proving it, and uses the converse.
+**Acceptance count: taught in 32 countries (Egypt, Greece, Armenia, Kazakhstan, Vietnam, Sierra Leone, Libya, Mauritania, South Africa, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador).**.** Egypt carries the fullest single treatment — Iran states Pythagoras' theorem in Grade 8 and verifies it on examples rather than proving it, and uses the converse.
 the theorem, its converse, classifying triangles by comparing
 squares, the 13-foot ladder and a Pythagoras practical in Grade
 8. Sierra Leone carries the cleanest ladder in JSS 3 — the

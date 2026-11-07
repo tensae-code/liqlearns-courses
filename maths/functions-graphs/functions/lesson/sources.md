@@ -1,6 +1,6 @@
 # Sources — Functions
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan
+countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -177,6 +177,14 @@ CITATION CHECK PASSED 2026-11-05).
 **Book 106:** *Algebra (Алгебра), Grade 8 student book* — Uzbekistan, Ministry of Public Education; Sh. A. Alimov, A. R. Halmuhamedov, M. A. Mirzaahmedov; Russian (Cyrillic); «O'qituvchi», Tashkent 2006, ISBN 5-645-04563-7. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 107:** *Algebra (Алгебра), Grade 9 student book* — Uzbekistan, Ministry of Public Education; Sh. A. Alimov, A. R. Halmuhamedov, M. A. Mirzaahmedov; Russian (Cyrillic); «O'qituvchi», Tashkent 2006, ISBN 5-645-04565-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 108:** *Matemática, Grade 8 student book (8vo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-27-9 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 109:** *Matemática, Grade 9 student book (9no EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-25-5 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 110:** *Matemática, Grade 10 student book (10mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-33-0 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 111:** *Matemática, Grade 13 student book (3ro BGU, Tercero de Bachillerato)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-31-6 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -426,8 +434,53 @@ CITATION CHECK PASSED 2026-11-05).
 | §16 odd functions: y(−x) = −y(x), graph symmetric about the origin (y = x³ built by symmetry, y = ∛x); functions that are neither | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 87–89 |
 | §17 properties of y = k/x for k > 0 and k < 0; shifted hyperbolas y = 2/(x−1) − 2 | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 91–93 |
 | history after Ch. IV: the word "function" from Latin functio, Leibniz; Babylonian S = 3r²; al-Biruni's Canon of Mas'ud on domains and extreme values | Uzbekistan, Algebra, Grade 9 (Russian), printed p. 104 |
+| A function: each input has exactly one output; mathematical models such as p(x) = 5 + 3x | Ecuador, Matemática, Grade 8 student book, printed pp. 20–21 |
+| Polynomial composition P(P(P(x))) and values P(1), P(−1), P(2), P(−2) | Ecuador, Matemática, Grade 8 student book, printed p. 70 |
+| Domain and range of functions given as pairs, formulas, roots and quotients | Ecuador, Matemática, Grade 8 student book, printed p. 89 |
+| Increasing and decreasing functions defined on an interval; arrow diagrams for domain and range | Ecuador, Matemática, Grade 8 student book, printed pp. 90–91 |
+| Writing and graphing functions for volume, diagonal and box problems; characteristics table (domain, range, max/min, monotonicity) | Ecuador, Matemática, Grade 8 student book, printed pp. 92–93 |
+| Linear model of a telephone tariff; graph; charge for 1 h 32 min | Ecuador, Matemática, Grade 8 student book, printed p. 97 |
+| Classifying functions as increasing or decreasing from tables and formulas | Ecuador, Matemática, Grade 8 student book, printed p. 98 |
+| Same function over Z and over R compared: domain, range, monotonicity, graph | Ecuador, Matemática, Grade 8 student book, printed p. 104 |
+| Linear relation y = 9 − 3x from 3x + y = 9; rebuilding a table of values; y = f(x) | Ecuador, Matemática, Grade 9 student book, printed p. 21 |
+| Polynomial composition P(P(P(x))) and point values (shared core) | Ecuador, Matemática, Grade 9 student book, printed p. 74 |
+| Domain and range of functions (shared core) | Ecuador, Matemática, Grade 9 student book, printed p. 93 |
+| Increasing/decreasing functions; arrow diagrams for domain and range (shared core) | Ecuador, Matemática, Grade 9 student book, printed pp. 94–95 |
+| Writing/graphing functions; characteristics table (shared core) | Ecuador, Matemática, Grade 9 student book, printed pp. 96–97 |
+| Telephone-tariff linear model with graph (shared core) | Ecuador, Matemática, Grade 9 student book, printed p. 101 |
+| Classifying functions increasing/decreasing (shared core) | Ecuador, Matemática, Grade 9 student book, printed p. 102 |
+| Same function over Z and over R compared (shared core) | Ecuador, Matemática, Grade 9 student book, printed p. 108 |
+| Functions: definition, rectangular coordinates, representations; temperature–time table and graph | Ecuador, Matemática, Grade 10 student book, printed p. 18 |
+| Cauchy's definition quoted; stacking-weight function y = 3x tabulated and graphed | Ecuador, Matemática, Grade 10 student book, printed p. 19 |
+| Increasing vs decreasing functions by comparing f(x₁), f(x₂) for x₁ < x₂ | Ecuador, Matemática, Grade 10 student book, printed p. 20 |
+| Polynomial composition P(P(P(x))) and point values (shared core) | Ecuador, Matemática, Grade 10 student book, printed p. 70 |
+| Domain and range of functions (shared core) | Ecuador, Matemática, Grade 10 student book, printed p. 89 |
+| Increasing/decreasing functions; arrow diagrams for domain and range (shared core) | Ecuador, Matemática, Grade 10 student book, printed pp. 90–91 |
+| Writing/graphing functions; characteristics table (shared core) | Ecuador, Matemática, Grade 10 student book, printed pp. 92–93 |
+| Telephone-tariff linear model with graph (shared core) | Ecuador, Matemática, Grade 10 student book, printed p. 97 |
+| Classifying functions increasing/decreasing (shared core) | Ecuador, Matemática, Grade 10 student book, printed p. 98 |
+| Same function over Z and over R compared (shared core) | Ecuador, Matemática, Grade 10 student book, printed p. 104 |
+| What makes a function: domain–codomain relation and unique image (box's second point taught wrong — injectivity stated; taught corrected) | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 17 |
+| Characteristics tables (domain, range, maximum/minimum, monotonicity, graph) for linear, rational-plus-linear and radical functions | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed pp. 17–18 |
+| Characteristics table for an absolute-value function f(x) = |x − 5| + 2 | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 19 |
+| Classify given functions as injective, bijective or surjective | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 19 |
+| Operations on functions (f + g), (f − g), (g − f), (f/g) for f(x) = √(4 − x²), g(x) = √(x² − 4) | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 20 |
+| Find the intersection points of two given functions (linear with quadratic) | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 20 |
+| Asymptotes of rational functions: vertical, horizontal and oblique, with degree conditions | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 21 |
+| Find the quadratic function through (−3, 2) and (3, −8) with a given vertex (two cases) | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 21 |
+| Full characteristics of the rational function f(x) = (4x² − 9)/(2x² − x − 3): domain, range, zeros, parity, monotonicity, asymptotes, extrema, graph | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed pp. 22–23 |
+| Operations on two given rational functions f(x) = (2x + 3)/(3x − 2), g(x) = 4x/(3x − 2) | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 23 |
+| Graph given functions and list the characteristics of each | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 24 |
+| Composition-type exercises with given functions (f ∘ g) | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 25 |
+| Full characteristics of y = −3x² + 6x − 3: domain, range, axis intercepts, vertex, monotonicity, graph | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 26 |
+| Operations and graphs with a quartic polynomial f(x) = x⁴ − 15x² + 10x + 24 and a second given function | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 26 |
+| Exponential population model (caterpillars in El Oro): initial population, day-5 population, maximum size, when it reaches 600 | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 28 |
+| Graph given functions under stated conditions; graph sets of given functions | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed pp. 28–29 |
+| For f(x) = 5(5x + 8)(x + 4)(x − 8)²(x − 9): x-intercepts and the multiplicity of the roots | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 29 |
+| Graph y = |ln(x + 2)| + 3, f(x) = 1 − |ln(x + 2)| and a given piecewise function | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 30 |
+| Section evaluation: (f + g), (f · g) and (f ∘ g) for two given rational functions | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 34 |
 
-**Acceptance count: taught in 30 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan).**.** Egypt carries the
+**Acceptance count: taught in 31 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador).**.** Egypt carries the
 fullest build — Cartesian product, relation, function, domain
 and range in Preparatory 3; the sign of a function in
 Secondary 1; the inverse function in Grade 11 Pure. Jordan

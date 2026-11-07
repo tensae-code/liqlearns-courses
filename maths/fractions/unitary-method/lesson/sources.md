@@ -1,6 +1,6 @@
 # Sources — The Unitary Method
 
-countries: Pakistan, Bangladesh, Syria, Rwanda, India
+countries: Pakistan, Bangladesh, Syria, Rwanda, India, Ecuador
 
 Every part traces to its book and page.
 
@@ -13,6 +13,8 @@ Every part traces to its book and page.
 **Book 5:** *Mathematics for Rwandan Primary Schools — Pupil's Book 5* — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 **Book 6:** *Mathematics — Textbook for Class VI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 issue, ISBN 81-7450-482-6. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 7:** *Matemática, Grade 7 student book (7mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-18-7 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The unitary method named and drilled as its own method: many → one → many | Pakistan, Grade 5 student book, Unit 6 — Unitary Method, printed pp. 89–90 |
@@ -24,8 +26,9 @@ Every part traces to its book and page.
 | Fuel-consumption rates in the proportion exercises: a car using 9.6 litres per 100 km covers 100/9.6 ≈ 10.42 km on one litre, and one using 6.4 litres per 100 km covers 15.625 km per litre — the per-one-litre distance found by dividing the 100 km by the consumption | Syria, Grade 8 Algebra student's book, printed p. 101 |
 | The unitary method in direct-proportion problems: find one unit, then scale (the weight of 8 books is 480 g, so one book first; 3 minibuses carry 54, so 8 minibuses the same way) | Rwanda, Mathematics for Rwandan Primary Schools, Pupil's Book 5, Unit 6 (§6.3), printed pp. 108–109 |
 | Unitary method: find the value for one unit, then scale (cost of 15 soaps from 12 soaps ₹153.60; envelopes for ₹100) | India, Mathematics Class 6, printed p. 257 |
+| Reduction to the unit method for inverse proportion problems | Ecuador, Matemática, Grade 7 student book, printed p. 61 |
 
-**Acceptance count: taught in 5 countries (Pakistan, Bangladesh, Syria, Rwanda, India).** Pakistan carries the unitary method as a named, drilled method in Grade 5 — its Unit 6 names the method, defines ratio and both kinds of proportion inside the same unit, and solves direct problems (pp.92–93) and inverse problems (pp.94–95) by the many → one → many road. Bangladesh carries the method twice: in Class 5 as the price of one item, then of many (§3.3, p.17), and again in Class 6 in the chapter that joins the unitary method to percentages and ratio (Ch. 5, pp.103–137).
+**Acceptance count: taught in 6 countries (Pakistan, Bangladesh, Syria, Rwanda, India, Ecuador).** Pakistan carries the unitary method as a named, drilled method in Grade 5 — its Unit 6 names the method, defines ratio and both kinds of proportion inside the same unit, and solves direct problems (pp.92–93) and inverse problems (pp.94–95) by the many → one → many road. Bangladesh carries the method twice: in Class 5 as the price of one item, then of many (§3.3, p.17), and again in Class 6 in the chapter that joins the unitary method to percentages and ratio (Ch. 5, pp.103–137).
 
 Syria's Grade 8 Algebra exercises carry the rate-as-unitary-method work the lesson collects: a car's fuel consumption given as litres per 100 km and converted to the distance it covers on one litre.
 

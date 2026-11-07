@@ -1,6 +1,6 @@
 # Sources — Variation
 
-countries: Sierra Leone, Jordan, Pakistan, Malaysia, Sudan, India, Afghanistan
+countries: Sierra Leone, Jordan, Pakistan, Malaysia, Sudan, India, Afghanistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -16,6 +16,10 @@ Every part traces to its book and page.
 **Book 7:** *Mathematics — Textbook for Class VIII* — India, NCERT, New Delhi, first edition January 2008, 2020-21 printing, ISBN 978-81-7450-814-0. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Just for Fun sections; nothing is cited from them.
 **Book 8:** *ریاضی, صنف ششم (Mathematics, Grade 6)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 9:** *ریاضی, صنف ۸ (Mathematics, Grade 8)* — Afghanistan, Ministry of Education, Kabul (Dari); the book disagrees with itself on the year — 1399 HS on the cover and title page, 1398 HS on the specifications page — and both printings are carried as filed; no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 10:** *Matemática, Grade 7 student book (7mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-18-7 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 11:** *Matemática, Grade 13 student book (3ro BGU, Tercero de Bachillerato)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-31-6 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -49,7 +53,9 @@ Every part traces to its book and page.
 | Types of proportion: direct proportion | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 49–50 |
 | Types of proportion: inverse proportion | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 51–52 |
 | Compound proportion | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 53–54 |
-**Acceptance count: taught in 7 countries (Sierra Leone, Jordan, Pakistan, Malaysia, Sudan, India, Afghanistan).** Sierra Leone carries the whole lesson: its SSS 2 Term 1 handbook teaches variation as a block of four lessons — direct (L17, p.45), inverse (L18, p.48), joint (L19, p.51) and partial (L20, p.54), each with numerical and word problems — and returns to variation in review problems later in the SSS course. Jordan carries the base forms only: in Grade 7 Term 2, Unit 5, direct variation (L4, p.23) and inverse variation (L5, p.30), built on unit rate and proportion; Jordan teaches no joint or partial variation there, and the lesson does not claim it does. Pakistan carries a full Variations unit in Class 10 (Unit 3, printed pp.49–73): ratio and proportion first, then direct and inverse variation including variation with powers, third, fourth and mean proportionals and continued proportion, the theorems on proportions (invertendo, alternendo, componendo, dividendo, componendo-dividendo), joint variation, the k-method, and real-life variation problems, with a unit summary on pp.72–73; the filing lists no partial variation for Pakistan, so partial variation still rests on Sierra Leone alone.
+| Inverse proportionality: constant-product tables (hens and days; speed and time) | Ecuador, Matemática, Grade 7 student book, printed pp. 61-62 |
+| Boyle–Mariotte law PV = constant at fixed temperature: find the constant from given measurements | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 72 |
+**Acceptance count: taught in 8 countries (Sierra Leone, Jordan, Pakistan, Malaysia, Sudan, India, Afghanistan, Ecuador).** Sierra Leone carries the whole lesson: its SSS 2 Term 1 handbook teaches variation as a block of four lessons — direct (L17, p.45), inverse (L18, p.48), joint (L19, p.51) and partial (L20, p.54), each with numerical and word problems — and returns to variation in review problems later in the SSS course. Jordan carries the base forms only: in Grade 7 Term 2, Unit 5, direct variation (L4, p.23) and inverse variation (L5, p.30), built on unit rate and proportion; Jordan teaches no joint or partial variation there, and the lesson does not claim it does. Pakistan carries a full Variations unit in Class 10 (Unit 3, printed pp.49–73): ratio and proportion first, then direct and inverse variation including variation with powers, third, fourth and mean proportionals and continued proportion, the theorems on proportions (invertendo, alternendo, componendo, dividendo, componendo-dividendo), joint variation, the k-method, and real-life variation problems, with a unit summary on pp.72–73; the filing lists no partial variation for Pakistan, so partial variation still rests on Sierra Leone alone.
 
 Malaysia gives variation a whole Form 5 chapter — direct, inverse, joint and combined — the fullest single-book variation treatment in the course. Partial variation is not taught there; that part of the lesson stands on the other countries.
 

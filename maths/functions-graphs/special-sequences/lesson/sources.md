@@ -1,6 +1,6 @@
 # Sources — Special Sequences
 
-countries: Pakistan, Sierra Leone, Syria, Malaysia, Rwanda, Venezuela, Afghanistan
+countries: Pakistan, Sierra Leone, Syria, Malaysia, Rwanda, Venezuela, Afghanistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -22,6 +22,8 @@ Every part traces to its book and page.
 
 **Book 9:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 10:** *ریاضی صنف ۱۱ (Mathematics, Grade 11)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 11:** *Matemática, Grade 5 student book (5to EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-17-0 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -47,8 +49,9 @@ Every part traces to its book and page.
 | Polygonal (triangular, square) number sequences | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 60–61 |
 
 | Harmonic sequences and the harmonic mean | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 126–128 |
+| Fibonacci sequence: each term is the sum of the two before it | Ecuador, Matemática, Grade 5 student book, printed p. 39 |
 
-**Acceptance count: taught in 7 countries (Pakistan, Sierra Leone, Syria, Malaysia, Rwanda, Venezuela, Afghanistan).** Pakistan carries the two advanced families in full in its Class 11 sequences unit — arithmetico-geometric progressions with sums to n and to infinity, and harmonic progressions with the harmonic mean and inserted harmonic means, all inside Unit 6 (printed pp. 88–122), beyond the unit's A.P./G.P. core which lives in sequences-and-series. Sierra Leone carries the three pictured families — square numbers, cube numbers and triangular numbers, each taught as a sequence lesson followed by a rule lesson — in its Primary 6 Term 2 lesson plans (Lessons 116–120, printed pp. 143–151); this is teacher evidence, worded as such, because Sierra Leone's Primary set holds lesson plans and no pupil book. The catch-up plan's Mauritania row for this lesson ("harmonic and arithmetico-geometric sequences as filed") has no page-level filing for those families in maths/books/mauritania.md — its senior books file number sequences as a chapter topic only — so Mauritania is not cited here.
+**Acceptance count: taught in 8 countries (Pakistan, Sierra Leone, Syria, Malaysia, Rwanda, Venezuela, Afghanistan, Ecuador).** Pakistan carries the two advanced families in full in its Class 11 sequences unit — arithmetico-geometric progressions with sums to n and to infinity, and harmonic progressions with the harmonic mean and inserted harmonic means, all inside Unit 6 (printed pp. 88–122), beyond the unit's A.P./G.P. core which lives in sequences-and-series. Sierra Leone carries the three pictured families — square numbers, cube numbers and triangular numbers, each taught as a sequence lesson followed by a rule lesson — in its Primary 6 Term 2 lesson plans (Lessons 116–120, printed pp. 143–151); this is teacher evidence, worded as such, because Sierra Leone's Primary set holds lesson plans and no pupil book. The catch-up plan's Mauritania row for this lesson ("harmonic and arithmetico-geometric sequences as filed") has no page-level filing for those families in maths/books/mauritania.md — its senior books file number sequences as a chapter topic only — so Mauritania is not cited here.
 
 Syria solves the arithmetico-geometric recurrence in general in Grade 12 Part One, inside its sequences unit.
 

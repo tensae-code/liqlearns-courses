@@ -1,6 +1,6 @@
 # Sources — Constructions with ruler and compass
 
-countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan
+countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -56,6 +56,8 @@ Every part traces to its book and page.
 **Book 38:** *Geometriya (Геометрия), Grade 8 student book* — Uzbekistan, Ministry of Public Education; A. A. Rahimkariev; Russian (Cyrillic); «Yangiyo'l Poligraph Service», Tashkent 2006; no ISBN is printed anywhere in the book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 39:** *Geometriya (Геометрия), Grade 9 student book* — Uzbekistan, Ministry of Public Education; B. Haydarov, E. Sarikov, A. Kuchkarov, ed. A. Azamov; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2006, ISBN 05-89890-136-1 (as printed). Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 40:** *Matemática, Grade 6 student book (Talento matemático 6, Serie Talentos)* — Ecuador, EDINUN (Ediciones Nacionales Unidas) for the Ministerio de Educación, © 2016, first printing July 2016; no ISBN printed (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -154,7 +156,8 @@ Every part traces to its book and page.
 | Lesson 48 squaring the circle: impossible with compass and straightedge (proved only at the end of the 19th century) | Uzbekistan, Geometriya, Grade 9 (Russian), printed p. 109 |
 | Lesson 55 constructing the geometric-mean segment √(ab) with a semicircle on a + b; constructing √2, √3, √5, √6 from a unit segment | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 124–125 |
 | Lesson 58 two compass-and-straightedge constructions of the golden-section point, each with justification | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 130–131 |
-**Acceptance count: taught in 17 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan).** North Macedonia enters from its main set — Grade 6 (2023) and Grade 7 (2025).
+| Construct equilateral, isosceles and scalene triangles with ruler and compass | Ecuador, Matemática (Talento matemático 6), Grade 6 student book, printed pp. 54-55 |
+**Acceptance count: taught in 18 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador).** North Macedonia enters from its main set — Grade 6 (2023) and Grade 7 (2025).
 
 Sierra Leone teaches the fullest school construction course here: SSS 2 Term 2 lessons 79–83 work through bisection and the constructible angles in order, and its JSS 1 handbook gives the first constructions. Laos builds the same skills in Grade 6 — parallels and perpendiculars through a point, the perpendicular bisector, copying an angle and a segment — after using a compass from Grade 4. Iran is the country that insists on reasons: its Geometry (1) presents constructions with justifications, so each arc is there for a stated cause. Armenia teaches construction as a method, with the stages of a construction problem named as part of the work. Pakistan's Grade 6 practical-geometry unit and Bangladesh's Class 7 experiments give the same constructions as set exercises, and Kuwait's Grade 7 Term 2 Unit 6 carries a long construction unit of its own.
 

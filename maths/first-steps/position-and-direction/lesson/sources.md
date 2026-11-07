@@ -1,6 +1,6 @@
 # Sources — Position and Direction
 
-countries: Kuwait, Bangladesh, Laos, North Macedonia, Pakistan, Yemen, Indonesia, China, Ghana, Syria, Saudi Arabia, Rwanda, India, Mongolia, Venezuela, Afghanistan
+countries: Kuwait, Bangladesh, Laos, North Macedonia, Pakistan, Yemen, Indonesia, China, Ghana, Syria, Saudi Arabia, Rwanda, India, Mongolia, Venezuela, Afghanistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -38,6 +38,12 @@ Every part traces to its book and page.
 **Book 29:** *Математика за четврто одделение* (Mathematics for Grade 4) — North Macedonia, Татјана Атанасова-Пачемска, Валдета Алија, Виолета Поповска и Добри Јовевски (Tatjana Atanasova-Pačemska, Valdeta Alija, Violeta Popovska & Dobri Jovevski), Ministry of Education and Science, Skopje 2023, II издание (second edition), approval № 26-527/1 of 18.08.2022, ISBN 978-608-273-479-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 30:** *МАТЕМАТИКА ЗА ПЕТТО ОДДЕЛЕНИЕ* (Mathematics for Grade 5) — North Macedonia, Татјана Атанасова-Пачемска, Добри Јовевски, Виолета Поповска и Валдета Алија (Tatjana Atanasova-Pačemska, Dobri Jovevski, Violeta Popovska & Valdeta Alija), Ministry of Education and Science, Skopje 2022, approval № 26-1441/1 of 14.10.2022, ISBN 978-608-273-180-3. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 31:** *ریاضی (Mathematics, Grade 1)* — Afghanistan, Ministry of Education, Kabul, printing year 1398 HS. One work in two language editions — Dari (ریاضی) and Pashto (رياضي) — parallel editions with identical page maps, cited as one book; no ISBN printed in either edition. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 32:** *Relaciones Lógico Matemáticas, Grade 1 student book (1ro EGB, Preparatoria)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-07-1 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 33:** *Matemática, Grade 2 student book (2do EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-12-5 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 34:** *Matemática, Grade 3 student book (Talento matemático 3, Serie Talentos)* — Ecuador, EDINUN (Ediciones Nacionales Unidas) for the Ministerio de Educación, © 2016, fourth printing February 2018; no ISBN printed (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -104,8 +110,16 @@ Every part traces to its book and page.
 | Up and down | Afghanistan, Mathematics Grade 1 (Pashto and Dari editions), printed p. 4 |
 | Front, middle and back in rows of three | Afghanistan, Mathematics Grade 1 (Pashto and Dari editions), printed p. 5 |
 | Inside and outside closed shapes | Afghanistan, Mathematics Grade 1 (Pashto and Dari editions), printed p. 6 |
+| Position words in a pictured scene: behind, in front, on top, below, above (riddle-story opener) | Ecuador, Relaciones Lógico Matemáticas, Grade 1 student book, printed pp. 6–9 |
+| Place/draw objects by position instructions: behind the window, in front of the house, on the tree, above the door, below the window | Ecuador, Relaciones Lógico Matemáticas, Grade 1 student book, printed p. 9 |
+| Left and right, in front, on top: colour objects by position relative to table, computer, shelf | Ecuador, Relaciones Lógico Matemáticas, Grade 1 student book, printed pp. 11–13 |
+| Number the steps of everyday sequences in order (ducks hatching, making breakfast, going to the bathroom) | Ecuador, Relaciones Lógico Matemáticas, Grade 1 student book, printed p. 21 |
+| Draw five scenes of a story in order, numbered 1 to 5 | Ecuador, Relaciones Lógico Matemáticas, Grade 1 student book, printed p. 23 |
+| Number 1 to 6 the order of morning activities | Ecuador, Relaciones Lógico Matemáticas, Grade 1 student book, printed p. 46 |
+| Ordinal numbers: match ordinal numerals (8.°) with their names (sexto, etc.) in a race | Ecuador, Matemática, Grade 2 student book, printed p. 77 |
+| Ordinal numbers from first (primero) to twentieth (vigésimo): paint the 12th–20th houses by ordinal instructions | Ecuador, Matemática (Talento matemático 3), Grade 3 student book, printed pp. 48–49 |
 
-**Acceptance count: taught in 16 countries (Kuwait, Bangladesh, Laos, North Macedonia, Pakistan, Yemen, Indonesia, China, Ghana, Syria, Saudi Arabia, Rwanda, India, Mongolia, Venezuela, Afghanistan).** Kuwait opens its Grade 1 course with position: over/under, above/below, right/left, then inside/between/outside (printed pp. 17, 20), and revisits position in space at Grade 2 (printed p. 17). Bangladesh carries the ordinals — first to tenth, counted from the front, the back, the left and the right (Class 2, printed pp. 34–39). Laos carries order as a named Grade 1 chapter (printed p. 22). North Macedonia carries the full set of pairs on one playground scene (printed p. 10) and then pair by pair, with movement (printed pp. 13–18). Pakistan carries the widest pair set in its Grade 1 geometry unit — inside/outside, above/below, over/under, far/near, before/after (printed pp. 116–126) — and the Primer's dog-and-kennel pages for left/right, in/out, up/down, front/back (printed pp. 134–135). Yemen carries relative positions inside its sorting-and-patterns unit (Grade 1 Part 1, printed pp. 18, 20). Indonesia carries position in its Grade 2 position-and-patterns chapter (printed pp. 101–124). China carries the eight compass directions, north-up maps and zoo-map routes at Grade 3 (Volume 2, Unit 1, printed p. 2). Ghana carries position and direction as teacher evidence only — step-by-step routes in the JICA B5 manual (Lessons 103–105) and the B6 manual (Lesson 93); Ghana's set holds no pupil textbook, so those rows are worded as teacher evidence wherever they are used.
+**Acceptance count: taught in 17 countries (Kuwait, Bangladesh, Laos, North Macedonia, Pakistan, Yemen, Indonesia, China, Ghana, Syria, Saudi Arabia, Rwanda, India, Mongolia, Venezuela, Afghanistan, Ecuador).** Kuwait opens its Grade 1 course with position: over/under, above/below, right/left, then inside/between/outside (printed pp. 17, 20), and revisits position in space at Grade 2 (printed p. 17). Bangladesh carries the ordinals — first to tenth, counted from the front, the back, the left and the right (Class 2, printed pp. 34–39). Laos carries order as a named Grade 1 chapter (printed p. 22). North Macedonia carries the full set of pairs on one playground scene (printed p. 10) and then pair by pair, with movement (printed pp. 13–18). Pakistan carries the widest pair set in its Grade 1 geometry unit — inside/outside, above/below, over/under, far/near, before/after (printed pp. 116–126) — and the Primer's dog-and-kennel pages for left/right, in/out, up/down, front/back (printed pp. 134–135). Yemen carries relative positions inside its sorting-and-patterns unit (Grade 1 Part 1, printed pp. 18, 20). Indonesia carries position in its Grade 2 position-and-patterns chapter (printed pp. 101–124). China carries the eight compass directions, north-up maps and zoo-map routes at Grade 3 (Volume 2, Unit 1, printed p. 2). Ghana carries position and direction as teacher evidence only — step-by-step routes in the JICA B5 manual (Lessons 103–105) and the B6 manual (Lesson 93); Ghana's set holds no pupil textbook, so those rows are worded as teacher evidence wherever they are used.
 
 Syria names positions in a row with the ordinal numbers in Grade 1 Semester 1.
 

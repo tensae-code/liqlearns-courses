@@ -1,6 +1,6 @@
 # Sources — Volume and Surface Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -301,6 +301,18 @@ READ + CITATION CHECK PASSED 2026-11-05).
 
 **Book 140:** *Geometriya (Геометрия), Grade 9 student book* — Uzbekistan, Ministry of Public Education; B. Haydarov, E. Sarikov, A. Kuchkarov, ed. A. Azamov; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2006, ISBN 05-89890-136-1 (as printed). Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 141:** *Matemática, Grade 6 student book (Talento matemático 6, Serie Talentos)* — Ecuador, EDINUN (Ediciones Nacionales Unidas) for the Ministerio de Educación, © 2016, first printing July 2016; no ISBN printed (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 142:** *Matemática, Grade 7 student book (7mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-18-7 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 143:** *Matemática, Grade 8 student book (8vo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-27-9 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 144:** *Matemática, Grade 9 student book (9no EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-25-5 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 145:** *Matemática, Grade 10 student book (10mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-33-0 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 146:** *Matemática, Grade 13 student book (3ro BGU, Tercero de Bachillerato)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-31-6 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The prism and the pyramid — naming (p.91) | Jordan, Grade 5 Student Book Term 2, Unit 9, L7, p.91 |
@@ -550,8 +562,20 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Revision: parallelepiped with prime-number dimensions, volume and surface from total edge length | Uzbekistan, Matematika, Grade 6 (Russian), printed p. 5 |
 | revision exercises with roots: volume of a rectangular box √12,5 · √5 · √10 cm; areas of squares compared via roots | Uzbekistan, Algebra, Grade 8 (Russian), printed pp. 196–197 |
 | Lessons 61–65 revision includes solid-geometry problems: volumes of aquariums and wooden blanks, packing juice cartons into a box, material for a 1-litre carton | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 138–143 |
+| Cubic metre: multiples and submultiples stepping by 1 000; volume vs capacity; conversions | Ecuador, Matemática (Talento matemático 6), Grade 6 student book, printed pp. 92-93 |
+| Surface area of a cube 6L² and volume of a cube L³ | Ecuador, Matemática, Grade 7 student book, printed pp. 13-14 |
+| Lateral and total surface area of given solids | Ecuador, Matemática, Grade 8 student book, printed pp. 132–133 |
+| Volumes: cube from face area; pyramid inscribed in a rectangular prism; swimming pool with sloping floor | Ecuador, Matemática, Grade 8 student book, printed pp. 137–138 |
+| Numerical value of the pyramid volume formula V = (1/3)hB with Cheops data | Ecuador, Matemática, Grade 9 student book, printed p. 14 |
+| Volume defined; formula table: prism h×B, pyramid (h×B)/3, cylinder hπr², cone (hπr²)/3 | Ecuador, Matemática, Grade 9 student book, printed p. 42 |
+| Rectangular tank volume 70 × 30 × 20 cm = 42,000 cm³ ≈ 11 gallons; cylindrical tank problem | Ecuador, Matemática, Grade 9 student book, printed p. 43 |
+| Lateral and total surface area of solids (shared core) | Ecuador, Matemática, Grade 9 student book, printed pp. 136–137 |
+| Volumes: cube, pyramid in a prism, sloping-floor pool (shared core) | Ecuador, Matemática, Grade 9 student book, printed pp. 141–142 |
+| Lateral and total surface area of solids (shared core) | Ecuador, Matemática, Grade 10 student book, printed pp. 132–133 |
+| Volumes: cube, pyramid in a prism, sloping-floor pool (shared core) | Ecuador, Matemática, Grade 10 student book, printed pp. 137–138 |
+| Cylinder cistern of 100 litres: total area (with lid) as a function of the radius, and its graph | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 27 |
 
-**Acceptance count: taught in 36 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan).**.** Sierra Leone carries the cleanest Iran gives the cuboid's volume in Grade 5, prism volumes and the cylinder's lateral area in Grade 7, and the sphere, pyramid and cone in Grade 9; its Grade 10 Geometry (1) treats the solids themselves without computing their volumes.
+**Acceptance count: taught in 37 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador).**.** Sierra Leone carries the cleanest Iran gives the cuboid's volume in Grade 5, prism volumes and the cylinder's lateral area in Grade 7, and the sphere, pyramid and cone in Grade 9; its Grade 10 Geometry (1) treats the solids themselves without computing their volumes.
 ladder — cubes, prisms and cylinders by cross-section × height,
 then surface areas by the net, in JSS 2. Egypt carries volume by
 counting unit cubes through V = l × w × h in Grade 5 and the

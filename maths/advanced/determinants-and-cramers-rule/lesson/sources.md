@@ -1,6 +1,6 @@
 # Sources — Determinants and Cramer's Rule
 
-countries: Egypt, Cambodia, Kuwait, Laos, Nicaragua, Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan
+countries: Egypt, Cambodia, Kuwait, Laos, Nicaragua, Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -19,6 +19,14 @@ Every part traces to its book and page.
 **Book 11:** *La Matemática y el Vivir Bien* — Venezuela, Grade 11 (5to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-344-9. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 12:** *ЛИНЕАРНА АЛГЕБРА И АНАЛИТИЧКА ГЕОМЕТРИЈА ЗА ТРЕТА ГОДИНА НА РЕФОРМИРАНОТО ГИМНАЗИСКО ОБРАЗОВАНИЕ (ИЗБОРЕН ПРЕДМЕТ)* (Linear Algebra and Analytic Geometry for the third year of the reformed gymnasium education — elective subject) — North Macedonia, Костадин Тренчевски, Билјана Крстеска, Глигор Тренчевски и Снежана Здравеска (Kostadin Trenchevski, Biljana Krsteska, Gligor Trenchevski & Snezana Zdraveska), Просветно дело, Skopje, IV издание (fourth edition), 2017 printing (the CIP records the edition from 2007), ISBN 9989-0-0386-6. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 13:** *ریاضی صنف ۱۱ (Mathematics, Grade 11)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 14:** *Matemática, Grade 8 student book (8vo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-27-9 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 15:** *Matemática, Grade 9 student book (9no EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-25-5 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 16:** *Matemática, Grade 10 student book (10mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-33-0 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 17:** *Matemática, Grade 13 student book (3ro BGU, Tercero de Bachillerato)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-31-6 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -72,8 +80,13 @@ Every part traces to its book and page.
 | Determinants of 2×2 and 3×3 matrices: cofactor expansion and the Sarrus rule | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 223–226 |
 | Properties of determinants: zero rows, equal rows, common factors, row swaps, transpose | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 227–228 |
 | Solving linear systems by Cramer's rule, 2×2 and 3×3 | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 235–237 |
+| Solving a 2×2 system by determinants (Cramer's rule) | Ecuador, Matemática, Grade 8 student book, printed p. 95 |
+| Solving a 2×2 system by determinants, Cramer's rule (shared core) | Ecuador, Matemática, Grade 9 student book, printed p. 99 |
+| Solving a 2×2 system by determinants, Cramer's rule (shared core) | Ecuador, Matemática, Grade 10 student book, printed p. 95 |
+| Cramer's rule explained: coefficient matrix, column-replacement determinants, zero-determinant cases | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 11 |
+| Solve given exercises by the determinant method | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 13 |
 
-**Acceptance count: taught in 11 countries (Egypt, Cambodia, Kuwait, Laos, Nicaragua, Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan).** Egypt carries determinants and both solving methods in Secondary 1 Term 2 Unit 1 — determinants with the triangle-area application, then the 2×2 inverse with inverse-matrix and Cramer solutions. Cambodia carries 3×3 determinants and Cramer's rule in Grade 11 Basic Chapter 4, with all four worked systems on printed p.135 verified, including the no-solution and dependent cases. Kuwait carries the 2×2 determinant, the inverse formula and both solving methods for two unknowns in Grade 10 Term 2 Unit 7 — 2×2 only, as filed: no 3×3 determinants there. Laos carries determinants and inverse matrices in Grade 12 Chapter 3, stated as AX = B ⇒ X = A⁻¹B. Nicaragua carries the fullest determinants run — minors, cofactors, Sarrus' rule, Cramer's rule for 3×3 systems — and closes it with matrices used for codes. North Macedonia enters from its main set — the Grade 12 Linear Algebra and Analytic Geometry elective.
+**Acceptance count: taught in 12 countries (Egypt, Cambodia, Kuwait, Laos, Nicaragua, Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Ecuador).** Egypt carries determinants and both solving methods in Secondary 1 Term 2 Unit 1 — determinants with the triangle-area application, then the 2×2 inverse with inverse-matrix and Cramer solutions. Cambodia carries 3×3 determinants and Cramer's rule in Grade 11 Basic Chapter 4, with all four worked systems on printed p.135 verified, including the no-solution and dependent cases. Kuwait carries the 2×2 determinant, the inverse formula and both solving methods for two unknowns in Grade 10 Term 2 Unit 7 — 2×2 only, as filed: no 3×3 determinants there. Laos carries determinants and inverse matrices in Grade 12 Chapter 3, stated as AX = B ⇒ X = A⁻¹B. Nicaragua carries the fullest determinants run — minors, cofactors, Sarrus' rule, Cramer's rule for 3×3 systems — and closes it with matrices used for codes. North Macedonia enters from its main set — the Grade 12 Linear Algebra and Analytic Geometry elective.
 
 Rwanda teaches determinants and Cramer's rule in Advanced Mathematics Senior Five Unit 7 — Sarrus' rule, minors and cofactors, determinant properties, the adjugate inverse, and 3×3 systems solved by the inverse matrix and by Cramer's rule — with its Teacher's Guide extending the determinant to general order n × n.
 

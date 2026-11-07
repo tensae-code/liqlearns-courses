@@ -1,6 +1,6 @@
 # Sources — The Four Means and Their Inequalities
 
-countries: North Macedonia, Uzbekistan
+countries: North Macedonia, Uzbekistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -10,11 +10,14 @@ Every part traces to its book and page.
 
 **Book 3:** *Geometriya (Геометрия), Grade 9 student book* — Uzbekistan, Ministry of Public Education; B. Haydarov, E. Sarikov, A. Kuchkarov, ed. A. Azamov; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2006, ISBN 05-89890-136-1 (as printed). Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 4:** *Matemática, Grade 13 student book (3ro BGU, Tercero de Bachillerato)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-31-6 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The four means of positive numbers — quadratic (root-mean-square), arithmetic, geometric and harmonic — defined side by side | North Macedonia, Grade 12, Algebra, §3.4, printed p. 58 |
 | The chain of inequalities between the means, QM ≥ AM ≥ GM ≥ HM, proved — the proof of QM ≥ AM comes first, by fixing the sum and minimising the sum of squares | North Macedonia, Grade 12, Algebra, §3.4, printed p. 58 |
 | §29 (end) AM–GM theorem: (a + b)/2 ≥ √(ab) for positive a, b, proved; applied to the unequal-arm balance problem | Uzbekistan, Algebra, Grade 8 (Russian), printed pp. 140–141 |
 | Lesson 55 exercise: prove (a + b)/2 ≥ √(ab) from the semicircle figure (AM–GM as a picture) | Uzbekistan, Geometriya, Grade 9 (Russian), printed p. 125 |
+| Apply the arithmetic-mean theorem to given calculations | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 40 |
 
-**Acceptance count: taught in 2 countries (North Macedonia, Uzbekistan).** North Macedonia is the one read country whose course defines all four means side by side and proves the chain between them: its Grade 12 Algebra elective, in the mean-values unit (§3.4, printed p. 58), sets the quadratic, arithmetic, geometric and harmonic means of positive numbers next to each other and proves QM ≥ AM ≥ GM ≥ HM, opening with the proof of QM ≥ AM. Elsewhere in the library "the mean" is the single arithmetic mean of data handling (the averages-and-spread lesson), and the inequalities lesson carries named single inequalities — China's Cauchy–Schwarz as an exploration exercise — but no means and no chain, so under the everything-goes-in ruling (2026-11-06) the topic gets its own lesson, built at the size of its source.
+**Acceptance count: taught in 3 countries (North Macedonia, Uzbekistan, Ecuador).** North Macedonia is the one read country whose course defines all four means side by side and proves the chain between them: its Grade 12 Algebra elective, in the mean-values unit (§3.4, printed p. 58), sets the quadratic, arithmetic, geometric and harmonic means of positive numbers next to each other and proves QM ≥ AM ≥ GM ≥ HM, opening with the proof of QM ≥ AM. Elsewhere in the library "the mean" is the single arithmetic mean of data handling (the averages-and-spread lesson), and the inequalities lesson carries named single inequalities — China's Cauchy–Schwarz as an exploration exercise — but no means and no chain, so under the everything-goes-in ruling (2026-11-06) the topic gets its own lesson, built at the size of its source.

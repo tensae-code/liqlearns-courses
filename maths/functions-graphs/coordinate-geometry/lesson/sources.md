@@ -1,6 +1,6 @@
 # Sources — Coordinate Geometry
 
-countries: Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan
+countries: Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -45,6 +45,8 @@ Every part traces to its book and page.
 **Book 31:** *Algebra (Алгебра), Grade 9 student book* — Uzbekistan, Ministry of Public Education; Sh. A. Alimov, A. R. Halmuhamedov, M. A. Mirzaahmedov; Russian (Cyrillic); «O'qituvchi», Tashkent 2006, ISBN 5-645-04565-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 32:** *Geometriya (Геометрия), Grade 9 student book* — Uzbekistan, Ministry of Public Education; B. Haydarov, E. Sarikov, A. Kuchkarov, ed. A. Azamov; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2006, ISBN 05-89890-136-1 (as printed). Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 33:** *Matemática, Grade 13 student book (3ro BGU, Tercero de Bachillerato)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-31-6 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -152,7 +154,10 @@ Every part traces to its book and page.
 | §4 vertex of the parabola: x0 = −b/(2a), y0 = y(x0) = −(b² − 4ac)/(4a); axis of symmetry; equation of a parabola from its vertex and a point | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 15–17 |
 | Lesson 3 coordinate method: midpoint of a segment x = (x1+x2)/2, y = (y1+y2)/2 (derived); proving a quadrilateral is a parallelogram by midpoints of diagonals | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 12–13 |
 | Lesson 4 distance between two points AB = √((x2−x1)² + (y2−y1)²) (derived from Pythagoras) | Uzbekistan, Geometriya, Grade 9 (Russian), printed p. 14 |
-**Acceptance count: taught in 15 countries (Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan).** Jordan carries the point-to-line distance and the coordinate proof in Grade 9 and the circle's equation in Grade 10. Kuwait carries the full analytic-geometry unit in Grade 10 Term 2 — the section formula with internal and external division as its own section, and the point-to-line distance and circle in the same unit. Ethiopia carries the circle's equation in the Grade 10 student book's §7.5 — student book only, since its Grade 10 guide does not cover §7.5. South Sudan carries the circle's equation in Secondary 4, from the origin-centred circle to completing the square. Laos carries the section formula as a minor source inside its Grade 9 vectors lesson. Iran carries the analytic circle in two Grade 12 branch books, with the expanded-form test stated exactly in Geometry (3). North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
+| Parametric equation of a line (point and slope; two points) and vector equation of a line (point and slope; two points) | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 48 |
+| Parametric equations of a line through two points; line through P(2, −4) parallel to a given vector; intersection point of two given lines | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 49 |
+| Section evaluation: vector equation of the line through A(−2, −1) and B(−2, 1) | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 56 |
+**Acceptance count: taught in 16 countries (Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador).** Jordan carries the point-to-line distance and the coordinate proof in Grade 9 and the circle's equation in Grade 10. Kuwait carries the full analytic-geometry unit in Grade 10 Term 2 — the section formula with internal and external division as its own section, and the point-to-line distance and circle in the same unit. Ethiopia carries the circle's equation in the Grade 10 student book's §7.5 — student book only, since its Grade 10 guide does not cover §7.5. South Sudan carries the circle's equation in Secondary 4, from the origin-centred circle to completing the square. Laos carries the section formula as a minor source inside its Grade 9 vectors lesson. Iran carries the analytic circle in two Grade 12 branch books, with the expanded-form test stated exactly in Geometry (3). North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
 
 Syria computes a parallelogram's fourth vertex from the midpoint formula in Grade 7.
 

@@ -1,6 +1,6 @@
 # Sources — Relations
 
-countries: Libya, Yemen, Bangladesh, Kuwait, Laos, Malaysia, Rwanda, Sudan, India, North Macedonia, Afghanistan
+countries: Libya, Yemen, Bangladesh, Kuwait, Laos, Malaysia, Rwanda, Sudan, India, North Macedonia, Afghanistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -25,6 +25,16 @@ Every part traces to its book and page.
 **Book 14:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 15:** *ریاضی, صنف ۸ (Mathematics, Grade 8)* — Afghanistan, Ministry of Education, Kabul (Dari); the book disagrees with itself on the year — 1399 HS on the cover and title page, 1398 HS on the specifications page — and both printings are carried as filed; no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 16:** *ریاضی صنف دهم (Mathematics, Grade 10)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 17:** *Matemática, Grade 2 student book (2do EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-12-5 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 18:** *Matemática, Grade 3 student book (Talento matemático 3, Serie Talentos)* — Ecuador, EDINUN (Ediciones Nacionales Unidas) for the Ministerio de Educación, © 2016, fourth printing February 2018; no ISBN printed (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 19:** *Matemática, Grade 8 student book (8vo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-27-9 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 20:** *Matemática, Grade 9 student book (9no EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-25-5 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 21:** *Matemática, Grade 10 student book (10mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-33-0 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -71,7 +81,23 @@ Every part traces to its book and page.
 | Domain and range of a relation | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 62–63 |
 | Inverse of a relation | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 63–64 |
 | Equivalence relations (reflexive, symmetric, transitive) | Afghanistan, Mathematics Grade 10 (Dari), printed p. 64 |
-**Acceptance count: taught in 11 countries (Libya, Yemen, Bangladesh, Kuwait, Laos, Malaysia, Rwanda, Sudan, India, North Macedonia, Afghanistan).** Libya carries the full binary-relations treatment — Cartesian product, equality of relations, domain and range, inverse relation — as the closing part of its Grade 10 sets chapter (printed pp. 9–43), the ground from which it then defines functions. Yemen carries the topic twice: in Grade 7 as the staircase ordered pair → Cartesian product (with S × T ≠ T × S) → relations (printed pp. 32, 34, 37), and in Grade 9 with transitive relations and equivalence relations as named lessons (printed pp. 17, 25) ahead of its function lesson. Bangladesh, Kuwait and Laos each carry the Cartesian product and relations material as a minor row — Bangladesh in one section (§1.9, printed p. 24), Kuwait inside its Grade 8 sets-and-relations unit (printed pp. 15–67), Laos inside its Grade 10 sets lessons (printed pp. 30–52) — and they are counted here as minor, exactly as filed. North Macedonia enters from its main set — Grade 7 (2025).
+| Starting set and arrival set (conjunto de salida y de llegada): one-to-one matching, e.g. 5 marbles to 5 children (Tema 3) | Ecuador, Matemática, Grade 2 student book, printed pp. 55–57 |
+| Cartesian product A×B written in set notation; identify starting set and arrival set by extension | Ecuador, Matemática, Grade 2 student book, printed p. 60 |
+| Starting set – arrival set: represent ordered pairs of a relation in diagrams, tables and grids, with numeric relations +5, −8, etc. (Unidad 4) | Ecuador, Matemática (Talento matemático 3), Grade 3 student book, printed pp. 109–111 |
+| Cartesian product A×B as the set of ordered pairs, plotted on the Cartesian plane | Ecuador, Matemática, Grade 8 student book, printed pp. 18–19 |
+| Relations between sets; reflexive, symmetric and transitive relations identified | Ecuador, Matemática, Grade 8 student book, printed p. 87 |
+| Relations defined by conditions (a + b = 6; b = 1) as ordered pairs on the Cartesian plane | Ecuador, Matemática, Grade 8 student book, printed pp. 88–89 |
+| Miscellany: relations from A×B tested for reflexivity, symmetry, transitivity | Ecuador, Matemática, Grade 8 student book, printed p. 96 |
+| Proving A×B ≠ B×A graphically; relations as polygon vertices | Ecuador, Matemática, Grade 8 student book, printed p. 103 |
+| Relations between sets; reflexive, symmetric, transitive (shared core) | Ecuador, Matemática, Grade 9 student book, printed p. 91 |
+| Relations by conditions as ordered pairs on the plane (shared core) | Ecuador, Matemática, Grade 9 student book, printed pp. 92–93 |
+| Miscellany: relations from A×B, reflexivity/symmetry/transitivity (shared core) | Ecuador, Matemática, Grade 9 student book, printed p. 100 |
+| Proving A×B ≠ B×A graphically (shared core) | Ecuador, Matemática, Grade 9 student book, printed p. 107 |
+| Relations between sets; reflexive, symmetric, transitive (shared core) | Ecuador, Matemática, Grade 10 student book, printed p. 87 |
+| Relations by conditions as ordered pairs on the plane (shared core) | Ecuador, Matemática, Grade 10 student book, printed pp. 88–89 |
+| Miscellany: relations from A×B, reflexivity/symmetry/transitivity (shared core) | Ecuador, Matemática, Grade 10 student book, printed p. 96 |
+| Proving A×B ≠ B×A graphically (shared core) | Ecuador, Matemática, Grade 10 student book, printed p. 103 |
+**Acceptance count: taught in 12 countries (Libya, Yemen, Bangladesh, Kuwait, Laos, Malaysia, Rwanda, Sudan, India, North Macedonia, Afghanistan, Ecuador).** Libya carries the full binary-relations treatment — Cartesian product, equality of relations, domain and range, inverse relation — as the closing part of its Grade 10 sets chapter (printed pp. 9–43), the ground from which it then defines functions. Yemen carries the topic twice: in Grade 7 as the staircase ordered pair → Cartesian product (with S × T ≠ T × S) → relations (printed pp. 32, 34, 37), and in Grade 9 with transitive relations and equivalence relations as named lessons (printed pp. 17, 25) ahead of its function lesson. Bangladesh, Kuwait and Laos each carry the Cartesian product and relations material as a minor row — Bangladesh in one section (§1.9, printed p. 24), Kuwait inside its Grade 8 sets-and-relations unit (printed pp. 15–67), Laos inside its Grade 10 sets lessons (printed pp. 30–52) — and they are counted here as minor, exactly as filed. North Macedonia enters from its main set — Grade 7 (2025).
 
 Additional Mathematics Form 4 opens with relations met in everyday situations, on the way to functions. (The classification of relations into their four types is Malaysia's Form 2 work and is filed under functions.)
 

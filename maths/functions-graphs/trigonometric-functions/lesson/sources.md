@@ -1,6 +1,6 @@
 # Sources — Trigonometric Functions
 
-countries: China, Pakistan, Iraq, Greece, Iran, Vietnam, Ethiopia, South Sudan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan
+countries: China, Pakistan, Iraq, Greece, Iran, Vietnam, Ethiopia, South Sudan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -37,6 +37,8 @@ Every part traces to its book and page.
 **Book 23:** *Algebra (Алгебра), Grade 9 student book* — Uzbekistan, Ministry of Public Education; Sh. A. Alimov, A. R. Halmuhamedov, M. A. Mirzaahmedov; Russian (Cyrillic); «O'qituvchi», Tashkent 2006, ISBN 5-645-04565-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 24:** *Geometriya (Геометрия), Grade 9 student book* — Uzbekistan, Ministry of Public Education; B. Haydarov, E. Sarikov, A. Kuchkarov, ed. A. Azamov; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2006, ISBN 05-89890-136-1 (as printed). Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 25:** *Matemática, Grade 13 student book (3ro BGU, Tercero de Bachillerato)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-31-6 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -119,7 +121,11 @@ Every part traces to its book and page.
 | Lesson 26 sine and cosine of an angle from 0° to 180° via the unit semicircle: sin α = ordinate y, cos α = abscissa x of the point; tg α = y/x, ctg α = x/y; sin 0° = sin 180° = 0, sin 90° = 1 | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 60–61 |
 | Lesson 38 historical etudes: the word "sine" — Indian jiva (chord), Arabic jaib, Latin sinus; "cosine" from complementi sinus; al-Biruni's proof of the sine rule | Uzbekistan, Geometriya, Grade 9 (Russian), printed p. 86 |
 | Lessons 29/38 appendix: the "golden triangle" (36°–72°–72°), its bisector property, sin 18° = (√5 − 1)/4 derived; Ulugbek (1394–1449), the Guragan Zij, sine tables to 10 decimal places | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 68–69 |
-**Acceptance count: taught in 18 countries (China, Pakistan, Iraq, Greece, Iran, Vietnam, Ethiopia, South Sudan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan).** China carries the full chapter — trig functions of a general angle, the graphs, y = A sin(ωx + φ), and the tide model — with its teacher guide as teacher evidence for the sine-line-first order. Pakistan carries all six functions with their domains and ranges, the sinusoidal family a + b sin(cθ + d), and Ferris-wheel and tide models. Iraq carries the circular functions whole in Grade 11 Scientific, and contributes a corrected calculator value from Grade 10 Scientific (tan(−36°) ≈ −0.7265, not the printed −0.588). Greece carries trig functions of any angle inside its B' Lykeiou trigonometry chapter. Iran carries periodicity and the tangent function's graph in Hesaban (2). Vietnam carries trigonometric functions as a named lesson in Toán 11 Volume 1. Ethiopia carries the graphs of sin, cos and tan with period, amplitude and the tangent's asymptotes in Grade 10. South Sudan carries trig graphs in Secondary 4. North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
+| Complete a table of trigonometric functions and graph them with a calculator | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 24 |
+| Characteristics table for f(x) = 6 sin(x − π/4) + 2: domain, zeros, range, monotonicity, symmetry, asymptotes, periodicity, maxima, minimum | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 27 |
+| Model Ferris-wheel height data with a function (table's 67.5 m entry wrong; taught corrected as 6.75 m) | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 30 |
+| Fit the simplest model to a periodic data table; graph it; find its inverse function | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 30 |
+**Acceptance count: taught in 19 countries (China, Pakistan, Iraq, Greece, Iran, Vietnam, Ethiopia, South Sudan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador).** China carries the full chapter — trig functions of a general angle, the graphs, y = A sin(ωx + φ), and the tide model — with its teacher guide as teacher evidence for the sine-line-first order. Pakistan carries all six functions with their domains and ranges, the sinusoidal family a + b sin(cθ + d), and Ferris-wheel and tide models. Iraq carries the circular functions whole in Grade 11 Scientific, and contributes a corrected calculator value from Grade 10 Scientific (tan(−36°) ≈ −0.7265, not the printed −0.588). Greece carries trig functions of any angle inside its B' Lykeiou trigonometry chapter. Iran carries periodicity and the tangent function's graph in Hesaban (2). Vietnam carries trigonometric functions as a named lesson in Toán 11 Volume 1. Ethiopia carries the graphs of sin, cos and tan with period, amplitude and the tangent's asymptotes in Grade 10. South Sudan carries trig graphs in Secondary 4. North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
 
 Syria studies the tangent function completely in Grade 12 Part One — domain, period, asymptotes and derivative.
 

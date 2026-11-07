@@ -1,6 +1,6 @@
 # Sources — The Real Number System
 
-countries: Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan
+countries: Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -44,6 +44,14 @@ Every part traces to its book and page.
 **Book 29:** *ریاضی, صنف ۸ (Mathematics, Grade 8)* — Afghanistan, Ministry of Education, Kabul (Dari); the book disagrees with itself on the year — 1399 HS on the cover and title page, 1398 HS on the specifications page — and both printings are carried as filed; no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 30:** *Algebra (Алгебра), Grade 8 student book* — Uzbekistan, Ministry of Public Education; Sh. A. Alimov, A. R. Halmuhamedov, M. A. Mirzaahmedov; Russian (Cyrillic); «O'qituvchi», Tashkent 2006, ISBN 5-645-04563-7. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 31:** *Matemática, Grade 7 student book (7mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-18-7 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 32:** *Matemática, Grade 8 student book (8vo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-27-9 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 33:** *Matemática, Grade 9 student book (9no EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-25-5 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 34:** *Matemática, Grade 10 student book (10mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-33-0 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -138,7 +146,20 @@ Every part traces to its book and page.
 | Properties of the real numbers (field properties) | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 7–10 |
 | Chapter key points and exercises (real numbers) | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 33–36 |
 | §26 irrational numbers as infinite non-periodic decimals; real numbers = rationals ∪ irrationals; the number-line correspondence Taught corrected: √3 is printed on p. 129 as 1,71320508…; the digits are garbled — √3 = 1,7320508… | Uzbekistan, Algebra, Grade 8 (Russian), printed pp. 128–130 |
-**Acceptance count: taught in 11 countries (Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan).** Pakistan carries this lesson whole, and in a deliberate order that this lesson keeps: the laws are first verified on numbers family by family — the distributive property on whole numbers and the commutative and associative properties on fractions in Grade 5 (printed pp.13–15, 31–38), the integer laws with both identities and subtraction's failure in Grade 6 (printed pp.32–33, 38–39), and all three laws on rationals in Grade 7 (printed pp.16–19) — and only then, in Grade 8, is the system itself drawn (N ⊂ W ⊂ Z ⊂ Q ⊂ R with the irrationals Q′, printed pp.1–3) and the properties stated in general form for all real numbers (printed pp.6–9). The catch-up plan's source rows for this lesson are Pakistan's alone; no other country's filing was filed as a source row for it, so the acceptance count is one country, honestly. North Macedonia enters from its main set — Grade 11 (2026).
+| π introduced as an irrational number that cannot be written as a fraction (reading) | Ecuador, Matemática, Grade 7 student book, printed p. 12 |
+| Rational vs irrational numbers: which decimals can be written as fractions | Ecuador, Matemática, Grade 8 student book, printed p. 53 |
+| Miscellany: representing reals on the line; fractions between two reals, incl. between √7 and √10 | Ecuador, Matemática, Grade 8 student book, printed p. 61 |
+| Locating sets of reals (π, e, −√3; √2 − 1) on the number line | Ecuador, Matemática, Grade 8 student book, printed p. 70 |
+| Rational vs irrational numbers: which decimals can be written as fractions (shared core) | Ecuador, Matemática, Grade 9 student book, printed p. 57 |
+| Miscellany: reals on the line; fractions between two reals, incl. between √7 and √10 (shared core) | Ecuador, Matemática, Grade 9 student book, printed p. 65 |
+| Locating sets of reals (π, e, −√3) on the number line (shared core) | Ecuador, Matemática, Grade 9 student book, printed p. 74 |
+| Irrational numbers: reals expressible neither exactly nor periodically; π, golden ratio φ, Euler's e | Ecuador, Matemática, Grade 10 student book, printed pp. 6–7 |
+| Real numbers R built from N, Z, Q and irrationals; nesting diagram on the number line | Ecuador, Matemática, Grade 10 student book, printed p. 12 |
+| Placing numbers on the real line — the list includes √−5, taught corrected: √−5 is not real and cannot be placed | Ecuador, Matemática, Grade 10 student book, printed p. 13 |
+| Rational vs irrational numbers: which decimals can be written as fractions (shared core) | Ecuador, Matemática, Grade 10 student book, printed p. 53 |
+| Miscellany: reals on the line; fractions between two reals, incl. between √7 and √10 (shared core) | Ecuador, Matemática, Grade 10 student book, printed p. 61 |
+| Locating sets of reals (π, e, −√3) on the number line (shared core) | Ecuador, Matemática, Grade 10 student book, printed p. 70 |
+**Acceptance count: taught in 12 countries (Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador).** Pakistan carries this lesson whole, and in a deliberate order that this lesson keeps: the laws are first verified on numbers family by family — the distributive property on whole numbers and the commutative and associative properties on fractions in Grade 5 (printed pp.13–15, 31–38), the integer laws with both identities and subtraction's failure in Grade 6 (printed pp.32–33, 38–39), and all three laws on rationals in Grade 7 (printed pp.16–19) — and only then, in Grade 8, is the system itself drawn (N ⊂ W ⊂ Z ⊂ Q ⊂ R with the irrationals Q′, printed pp.1–3) and the properties stated in general form for all real numbers (printed pp.6–9). The catch-up plan's source rows for this lesson are Pakistan's alone; no other country's filing was filed as a source row for it, so the acceptance count is one country, honestly. North Macedonia enters from its main set — Grade 11 (2026).
 
 Syria classifies the number families in the Grade 9 Algebra opener — rationals characterised (a terminating or eventually periodic decimal), π and √2 proved irrational in the exercises, and every real number located on the number line — before its Grade 7 book has already placed rationals and integers on the line as families.
 

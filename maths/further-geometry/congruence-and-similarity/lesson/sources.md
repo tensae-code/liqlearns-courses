@@ -1,6 +1,6 @@
 # Sources — Congruence and similarity
 
-countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan
+countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -177,6 +177,12 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 **Book 88:** *Geometriya (Геометрия), Grade 8 student book* — Uzbekistan, Ministry of Public Education; A. A. Rahimkariev; Russian (Cyrillic); «Yangiyo'l Poligraph Service», Tashkent 2006; no ISBN is printed anywhere in the book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 89:** *Geometriya (Геометрия), Grade 9 student book* — Uzbekistan, Ministry of Public Education; B. Haydarov, E. Sarikov, A. Kuchkarov, ed. A. Azamov; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2006, ISBN 05-89890-136-1 (as printed). Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 90:** *Matemática, Grade 8 student book (8vo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-27-9 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 91:** *Matemática, Grade 9 student book (9no EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-25-5 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 92:** *Matemática, Grade 10 student book (10mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-33-0 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -387,8 +393,23 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Lesson 15 similar polygons: perimeters ratio = k (Th. 1), splitting into the same number of similar triangles (Th. 2), areas ratio = k² (Th. 3) — all proved | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 38–39 |
 | Lessons 19–20 problem solving: segment through the diagonal intersection of a trapezoid MN = 2ab/(a+b); Earth–Sun distance from a total solar eclipse; building heights from simultaneous photographs | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 46–50 |
 | Lesson 54 the altitude from the right angle splits the triangle into two triangles similar to it (property stated and proved) | Uzbekistan, Geometriya, Grade 9 (Russian), printed p. 122 |
+| Similar figures: same shape, different size; similar triangles by equal angles | Ecuador, Matemática, Grade 8 student book, printed pp. 30–31 |
+| Corresponding sides of similar triangles are proportional; the ~ symbol | Ecuador, Matemática, Grade 8 student book, printed pp. 32–33 |
+| Section 1 evaluation: constructing a smaller-scale similar triangle | Ecuador, Matemática, Grade 8 student book, printed p. 47 |
+| Scale factor of similar figures; drawing a figure at scale factor 0.5 | Ecuador, Matemática, Grade 8 student book, printed p. 115 |
+| Similarity criteria for triangles: AA, side-angle-side (printed "LL"), SSS | Ecuador, Matemática, Grade 8 student book, printed p. 115 |
+| Identifying similar and congruent triangle pairs; constructing triangles from data | Ecuador, Matemática, Grade 8 student book, printed pp. 116–117 |
+| Congruent triangles defined: equal corresponding sides and angles; criteria LLL, LAL, ALA | Ecuador, Matemática, Grade 9 student book, printed pp. 34–35 |
+| Section 1 evaluation: unknowns from two congruent triangles | Ecuador, Matemática, Grade 9 student book, printed p. 51 |
+| Scale factor; similarity criteria AA, side-angle-side, SSS (shared core) | Ecuador, Matemática, Grade 9 student book, printed p. 119 |
+| Similar and congruent triangle pairs; constructions (shared core) | Ecuador, Matemática, Grade 9 student book, printed pp. 120–121 |
+| Similar triangles: equal angles, proportional sides; Thales' theorem with proportions | Ecuador, Matemática, Grade 10 student book, printed p. 30 |
+| Building height from a tree's shadow by similarity; tiling distances | Ecuador, Matemática, Grade 10 student book, printed pp. 30–31 |
+| Congruent figures: corresponding vertices, sides and angles; criteria LLL, LAL, ALA to justify | Ecuador, Matemática, Grade 10 student book, printed pp. 34–35 |
+| Scale factor; similarity criteria AA, side-angle-side, SSS (shared core) | Ecuador, Matemática, Grade 10 student book, printed p. 115 |
+| Similar and congruent triangle pairs; constructions (shared core) | Ecuador, Matemática, Grade 10 student book, printed pp. 116–117 |
 
-**Acceptance count: taught in 32 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan).**.** Iran matches congruent figures by superposition in Grade 7, states the SSS, SAS and ASA criteria in Grade 8, proves congruence and meets similar figures in Grade 9, and proves Thales' theorem with the AA, SAS and SSS similarity criteria in Grade 10 Geometry (1).
+**Acceptance count: taught in 33 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador).**.** Iran matches congruent figures by superposition in Grade 7, states the SSS, SAS and ASA criteria in Grade 8, proves congruence and meets similar figures in Grade 9, and proves Thales' theorem with the AA, SAS and SSS similarity criteria in Grade 10 Geometry (1).
 Libya carries the fullest single treatment — congruence tests
 including RHS, similarity, applications, and the k² area and k³
 volume rules in one chapter (Grade 9, Chapter 8, pp.156–193).

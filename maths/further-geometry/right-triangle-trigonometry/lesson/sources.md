@@ -1,6 +1,6 @@
 # Sources — Right-triangle trigonometry
 
-countries: Jordan, Egypt, Sierra Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan
+countries: Jordan, Egypt, Sierra Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -114,6 +114,12 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 
 **Book 58:** *Geometriya 7 — Metodik qo'llanma (teacher's methodological guide for the Grade 7 Geometriya course)* — Uzbekistan, Ministry of Public Education; A. Azamov, B. Haydarov, E. Sariqov, A. Qo'chqorov, U. Sag'diyev; Uzbek (Latin script); «Yangiyul poligraph service», Tashkent 2009, ISBN 978-9943-366-15-2. TEACHER GUIDE — guide evidence only: a true companion to the Grade 7 student book (its sample 68-lesson plan matches the student book's §§1–68 exactly); it never counts as, or substitutes for, a pupil's book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 59:** *Matemática, Grade 8 student book (8vo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-27-9 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 60:** *Matemática, Grade 9 student book (9no EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-25-5 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 61:** *Matemática, Grade 10 student book (10mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-33-0 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Trigonometry introduced from similar right triangles; ratios defined before applications, calculator-based; sine, cosine, tangent of an acute angle defined as ratios of sides in a right triangle; cosecant/secant/cotangent named; the Pythagorean identity and "reciprocal of the trigonometric ratio" among the key terms; applications — angles of elevation and depression, finding unknown lengths and heights | Jordan, Grade 9 Term 2, Unit 5 "Relationships in Triangles and Trigonometric Ratios", p.6; L4 Trigonometric Ratios p.40; L5 Applications of Trigonometric Ratios p.49 |
@@ -223,9 +229,19 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | §50 Property: the leg opposite a 30° angle equals half the hypotenuse, proved by doubling to an equilateral triangle; converse stated | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 120 |
 | §50 Property: the median to the hypotenuse equals half the hypotenuse (worked problem CD = AB/2 = 6 for AB = 12); return promised in grade 8 | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 121 |
 | (TG) Dars 50–51 lesson plans: right-triangle properties (§50) and right-triangle congruence tests (§51); extra problem with printed answer: sum of ALL exterior angles of a triangle = 720° (all six, counting both vertical angles at each vertex) Convention note: the guide's extra-problem answer counts all six exterior angles of a triangle (720°); the student book's own answer key counts one exterior angle per vertex (360°), and the student book's convention is the one taught. | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 110 |
+| The six trigonometric ratios: sin, cos, tan and reciprocal cot, sec, csc as side ratios | Ecuador, Matemática, Grade 8 student book, printed pp. 38–39 |
+| Cotangent of the larger angle when hyp² = (5/2)(product of legs); tangent-given triangle | Ecuador, Matemática, Grade 8 student book, printed p. 136 |
+| Tower height from two angles of elevation (45° and 30°, points 100 m apart), worked in steps | Ecuador, Matemática, Grade 8 student book, printed pp. 140–141 |
+| Cotangent problems from a hypotenuse–legs relation; tangent-given triangle (shared core) | Ecuador, Matemática, Grade 9 student book, printed p. 140 |
+| Tower height from two angles of elevation, 45° and 30° (shared core) | Ecuador, Matemática, Grade 9 student book, printed pp. 144–145 |
+| Sine, cosine and tangent defined as side ratios on a labelled right triangle | Ecuador, Matemática, Grade 10 student book, printed p. 38 |
+| Solving a sail (opposite 10 m, angle 55.8°) by sine and tangent; climber-and-shadow problem | Ecuador, Matemática, Grade 10 student book, printed pp. 38–39 |
+| Section 1 evaluation: balloon height from an 80 m rope at 50° elevation | Ecuador, Matemática, Grade 10 student book, printed p. 47 |
+| Cotangent problems from a hypotenuse–legs relation; tangent-given triangle (shared core) | Ecuador, Matemática, Grade 10 student book, printed p. 136 |
+| Tower height from two angles of elevation, 45° and 30° (shared core) | Ecuador, Matemática, Grade 10 student book, printed pp. 140–141 |
 
-**Acceptance count: taught in 31 countries (Jordan, Egypt, Sierra
-Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan).**
+**Acceptance count: taught in 32 countries (Jordan, Egypt, Sierra
+Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador).**
 Jordan carries the cleanest introduction — ratios from similar
 right triangles, then elevation and depression. Egypt carries
 the special-angle table and tan = sin / cos in Preparatory 3,

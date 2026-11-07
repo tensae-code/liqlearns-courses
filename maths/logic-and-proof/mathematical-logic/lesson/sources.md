@@ -1,6 +1,6 @@
 # Sources — Mathematical Logic
 
-countries: Laos, Armenia, Iraq, Greece, Cambodia, Yemen, Sierra Leone, Iran, Vietnam, Kazakhstan, Malaysia, Rwanda, Sudan, India, Afghanistan, Uzbekistan
+countries: Laos, Armenia, Iraq, Greece, Cambodia, Yemen, Sierra Leone, Iran, Vietnam, Kazakhstan, Malaysia, Rwanda, Sudan, India, Afghanistan, Uzbekistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -29,6 +29,12 @@ Every part traces to its book and page.
 **Book 19:** *Geometriya (Геометрия), Grade 7 student book* — Uzbekistan, Ministry of Public Education; A. Azamov, B. Haydarov, E. Sarikov, A. Kuchkarov, U. Sagdiev; Russian (Cyrillic); «Yangiyul poligraph service», Tashkent 2009, ISBN 978-9943-366-05-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 20:** *Geometriya 7 — Metodik qo'llanma (teacher's methodological guide for the Grade 7 Geometriya course)* — Uzbekistan, Ministry of Public Education; A. Azamov, B. Haydarov, E. Sariqov, A. Qo'chqorov, U. Sag'diyev; Uzbek (Latin script); «Yangiyul poligraph service», Tashkent 2009, ISBN 978-9943-366-15-2. TEACHER GUIDE — guide evidence only: a true companion to the Grade 7 student book (its sample 68-lesson plan matches the student book's §§1–68 exactly); it never counts as, or substitutes for, a pupil's book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 21:** *Matemática, Grade 8 student book (8vo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-27-9 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 22:** *Matemática, Grade 9 student book (9no EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-25-5 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 23:** *Matemática, Grade 10 student book (10mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-33-0 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -77,7 +83,27 @@ Every part traces to its book and page.
 | §57 SAS re-proved from the listed axioms as a model axiomatic proof | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 137 |
 | §58–59 History of the parallel axiom: Euclid's fifth postulate, Pasch's axiom, attempts to prove it, equivalent propositions (angle sum 180°; the parallel axiom itself), Khayyam–Saccheri quadrilateral, Lobachevsky (non-Euclidean) geometry, Hilbert's axiom list | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 138 |
 | (TG) Dars 57–59 lesson plans: axiomatic construction of planimetry (§57) and history of the parallel axiom and equivalent propositions (§§58–59, taught over two lessons) | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 122 |
-**Acceptance count: taught in 16 countries (Laos, Armenia, Iraq, Greece, Cambodia, Yemen, Sierra Leone, Iran, Vietnam, Kazakhstan, Malaysia, Rwanda, Sudan, India, Afghanistan, Uzbekistan).** Laos carries the fullest single treatment: propositions, all six connectives with circuit models, 2ⁿ-row truth tables, equivalence with De Morgan and the contrapositive, tautology and contradiction, and quantifiers with their negations, all in Grade 10 Chapter I (pp.1–29). Armenia carries logic twice over — briefly in both Grade 11 streams and as a whole Grade 12 book (Aghekyan) that adds definition/axiom/theorem and converse/opposite statements. Iraq teaches logic as Chapter 1 of Grade 10 Scientific, with quantified propositions as its closing section. Greece opens Grade 10 Algebra with the vocabulary of logic. Cambodia teaches propositions, the logical operations with truth tables, and De Morgan's laws inside its Logic, Sets and Numbers chapter. Yemen opens Grade 10 with a logic unit running from the single proposition through equivalence and inference to quantifiers. Sierra Leone teaches logical reasoning as an eight-lesson block of SSS 2 Term 1, from simple statements to the validity of arguments. Iran teaches formal logic with truth tables in two separate Grade 11 branch books. Vietnam opens Grade 10 with propositions as Bài 1 of its first chapter. Kazakhstan plants statements (true/false) and logic problems already in Grade 1.
+| Propositions and truth values; negation and its truth table | Ecuador, Matemática, Grade 8 student book, printed p. 24 |
+| Disjunction: false only when both propositions are false | Ecuador, Matemática, Grade 8 student book, printed pp. 24–25 |
+| Conjunction: true only when both propositions are true | Ecuador, Matemática, Grade 8 student book, printed p. 26 |
+| Conditional/implication: false only for true antecedent and false consequent; parts of conditionals in sentences | Ecuador, Matemática, Grade 8 student book, printed pp. 26–27 |
+| Biconditional: true when both sides share a truth value; worked truth-value exercises | Ecuador, Matemática, Grade 8 student book, printed pp. 28–29 |
+| Section 1 evaluation: identifying operators in compound propositions | Ecuador, Matemática, Grade 8 student book, printed p. 47 |
+| Compound propositions split into simple ones; identifying logical operations | Ecuador, Matemática, Grade 8 student book, printed pp. 109–110 |
+| Truth tables classified as tautology, contradiction or contingency | Ecuador, Matemática, Grade 8 student book, printed p. 111 |
+| Negating a proposition in three ways; logic circuits as compound propositions, simplified | Ecuador, Matemática, Grade 8 student book, printed p. 112 |
+| Chained conditional reasoning: drawing conclusions from given conditionals | Ecuador, Matemática, Grade 8 student book, printed p. 113 |
+| Propositions: simple (atomic) vs compound (molecular); connectives named | Ecuador, Matemática, Grade 9 student book, printed p. 28 |
+| Judging propositions true or false; building compound propositions from simple ones | Ecuador, Matemática, Grade 9 student book, printed p. 29 |
+| Logical connectives table with symbols: conjunction, disjunction, conditional, biconditional, negation, implication, equivalence | Ecuador, Matemática, Grade 9 student book, printed p. 30 |
+| Laws of logic: idempotence, associativity, commutativity, distributivity, De Morgan, in symbols | Ecuador, Matemática, Grade 9 student book, printed p. 31 |
+| Compound propositions; truth tables as tautology, contradiction or contingency (shared core) | Ecuador, Matemática, Grade 9 student book, printed pp. 113–115 |
+| Negation in three ways; logic circuits simplified; chained conditionals (shared core) | Ecuador, Matemática, Grade 9 student book, printed pp. 116–117 |
+| Propositions: simple (atomic) vs compound (molecular); connective symbols | Ecuador, Matemática, Grade 10 student book, printed pp. 24–25 |
+| Truth tables; tautology defined; tables and rules for negation, conjunction, disjunction, conditional | Ecuador, Matemática, Grade 10 student book, printed pp. 26–27 |
+| Compound propositions; truth tables as tautology, contradiction or contingency (shared core) | Ecuador, Matemática, Grade 10 student book, printed pp. 109–111 |
+| Negation in three ways; logic circuits simplified; chained conditionals (shared core) | Ecuador, Matemática, Grade 10 student book, printed pp. 112–113 |
+**Acceptance count: taught in 17 countries (Laos, Armenia, Iraq, Greece, Cambodia, Yemen, Sierra Leone, Iran, Vietnam, Kazakhstan, Malaysia, Rwanda, Sudan, India, Afghanistan, Uzbekistan, Ecuador).** Laos carries the fullest single treatment: propositions, all six connectives with circuit models, 2ⁿ-row truth tables, equivalence with De Morgan and the contrapositive, tautology and contradiction, and quantifiers with their negations, all in Grade 10 Chapter I (pp.1–29). Armenia carries logic twice over — briefly in both Grade 11 streams and as a whole Grade 12 book (Aghekyan) that adds definition/axiom/theorem and converse/opposite statements. Iraq teaches logic as Chapter 1 of Grade 10 Scientific, with quantified propositions as its closing section. Greece opens Grade 10 Algebra with the vocabulary of logic. Cambodia teaches propositions, the logical operations with truth tables, and De Morgan's laws inside its Logic, Sets and Numbers chapter. Yemen opens Grade 10 with a logic unit running from the single proposition through equivalence and inference to quantifiers. Sierra Leone teaches logical reasoning as an eight-lesson block of SSS 2 Term 1, from simple statements to the validity of arguments. Iran teaches formal logic with truth tables in two separate Grade 11 branch books. Vietnam opens Grade 10 with propositions as Bài 1 of its first chapter. Kazakhstan plants statements (true/false) and logic problems already in Grade 1.
 
 Malaysia gives logic a full Form 4 chapter of 23 worked examples — the heaviest school treatment in this course: statements, negation, compound statements, implications with their converse, inverse and contrapositive, and then arguments, deductive and inductive.
 

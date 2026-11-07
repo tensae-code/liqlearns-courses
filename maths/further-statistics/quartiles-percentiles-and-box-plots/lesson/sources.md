@@ -1,6 +1,6 @@
 # Sources — Quartiles, Percentiles and Box Plots
 
-countries: Kuwait, Cambodia, Ethiopia, Jordan, Kazakhstan, Nepal, Iraq, South Sudan, Sierra Leone, Syria, Malaysia, Sudan, Mongolia, Afghanistan
+countries: Kuwait, Cambodia, Ethiopia, Jordan, Kazakhstan, Nepal, Iraq, South Sudan, Sierra Leone, Syria, Malaysia, Sudan, Mongolia, Afghanistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -29,6 +29,14 @@ Every part traces to its book and page.
 **Book 19:** *Математик X (Mathematics, Grade 10)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 20:** *Математик XI (Mathematics, Grade 11)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 21:** *ریاضی صنف دهم (Mathematics, Grade 10)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 22:** *Matemática, Grade 8 student book (8vo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-27-9 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 23:** *Matemática, Grade 9 student book (9no EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-25-5 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 24:** *Matemática, Grade 10 student book (10mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-33-0 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 25:** *Matemática, Grade 13 student book (3ro BGU, Tercero de Bachillerato)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-31-6 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -66,7 +74,11 @@ Every part traces to its book and page.
 
 | Quartiles Q1, Q2, Q3 | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 367–368 |
 | Box (box-and-whisker) plot | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 369–370 |
-**Acceptance count: taught in 14 countries (Kuwait, Cambodia, Ethiopia, Jordan, Kazakhstan, Nepal, Iraq, South Sudan, Sierra Leone, Syria, Malaysia, Sudan, Mongolia, Afghanistan).** Kuwait carries the lesson's spine across three books: the box-and-whisker plot as a Grade 9 lesson, quartiles and the five-number summary with two-plot comparison in Grade 10, and the grouped-interpolation formulas with the semi-interquartile range in Grade 11 Statistics. Cambodia carries deciles and percentiles in its Grade 11 Basic student book, with the grouped exercises' answers resting on its teacher guide — teacher evidence, worded as such. Ethiopia carries grouped deciles, quartiles and percentiles only as teacher evidence from its Grade 11 guide, three of whose values this lesson teaches corrected — D3 = 20.15, Q1 = 34, and the cumulative frequency 92 — never at their printed values. Jordan carries quartiles, the IQR, outliers and the box plot in Grade 8, examined in its final test. Kazakhstan carries the box plot and the ogive in the deepest Grade 8 statistics chapter in its band. Nepal carries quartiles and percentiles for individual and discrete data in Grade 9 Optional and box plots for discrete and continuous data across its two Optional books, with ogives in its school statistics units as filed. Iraq carries the cumulative frequency table and the ogive curve step by step in Grade 10 Literary. South Sudan carries the ogive with medians, quartiles and percentiles read from it in S2. Sierra Leone carries the cumulative frequency curve in SSS3, estimating quartiles and the interquartile range from it.
+| Box-and-whisker plot of hourly temperatures from a weather forecast | Ecuador, Matemática, Grade 8 student book, printed p. 156 |
+| Box-and-whisker plot of hourly temperatures (shared core) | Ecuador, Matemática, Grade 9 student book, printed p. 160 |
+| Box-and-whisker plot of hourly temperatures (shared core) | Ecuador, Matemática, Grade 10 student book, printed p. 156 |
+| From a grouped age table: draw an ogive, compute quartiles, draw a box-and-whisker plot | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 65 |
+**Acceptance count: taught in 15 countries (Kuwait, Cambodia, Ethiopia, Jordan, Kazakhstan, Nepal, Iraq, South Sudan, Sierra Leone, Syria, Malaysia, Sudan, Mongolia, Afghanistan, Ecuador).** Kuwait carries the lesson's spine across three books: the box-and-whisker plot as a Grade 9 lesson, quartiles and the five-number summary with two-plot comparison in Grade 10, and the grouped-interpolation formulas with the semi-interquartile range in Grade 11 Statistics. Cambodia carries deciles and percentiles in its Grade 11 Basic student book, with the grouped exercises' answers resting on its teacher guide — teacher evidence, worded as such. Ethiopia carries grouped deciles, quartiles and percentiles only as teacher evidence from its Grade 11 guide, three of whose values this lesson teaches corrected — D3 = 20.15, Q1 = 34, and the cumulative frequency 92 — never at their printed values. Jordan carries quartiles, the IQR, outliers and the box plot in Grade 8, examined in its final test. Kazakhstan carries the box plot and the ogive in the deepest Grade 8 statistics chapter in its band. Nepal carries quartiles and percentiles for individual and discrete data in Grade 9 Optional and box plots for discrete and continuous data across its two Optional books, with ogives in its school statistics units as filed. Iraq carries the cumulative frequency table and the ogive curve step by step in Grade 10 Literary. South Sudan carries the ogive with medians, quartiles and percentiles read from it in S2. Sierra Leone carries the cumulative frequency curve in SSS3, estimating quartiles and the interquartile range from it.
 
 Syria defines the quartiles in Grade 9 Algebra, inside its descriptive-statistics unit, and works them on small samples and on a frequency table.
 

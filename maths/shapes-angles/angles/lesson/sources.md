@@ -1,6 +1,6 @@
 # Sources — Angles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -277,6 +277,14 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 155:** *Geometriya (Геометрия), Grade 8 student book* — Uzbekistan, Ministry of Public Education; A. A. Rahimkariev; Russian (Cyrillic); «Yangiyo'l Poligraph Service», Tashkent 2006; no ISBN is printed anywhere in the book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 156:** *Geometriya (Геометрия), Grade 9 student book* — Uzbekistan, Ministry of Public Education; B. Haydarov, E. Sarikov, A. Kuchkarov, ed. A. Azamov; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2006, ISBN 05-89890-136-1 (as printed). Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 157:** *Matemática, Grade 2 student book (2do EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-12-5 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 158:** *Matemática, Grade 3 student book (Talento matemático 3, Serie Talentos)* — Ecuador, EDINUN (Ediciones Nacionales Unidas) for the Ministerio de Educación, © 2016, fourth printing February 2018; no ISBN printed (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 159:** *Matemática, Grade 6 student book (Talento matemático 6, Serie Talentos)* — Ecuador, EDINUN (Ediciones Nacionales Unidas) for the Ministerio de Educación, © 2016, first printing July 2016; no ISBN printed (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 160:** *Matemática, Grade 7 student book (7mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-18-7 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -560,8 +568,16 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | §1 Тема 2 Exterior angle defined; Theorem 2: sum of exterior angles (one per vertex) of a convex polygon = 360°, proved | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 8 |
 | §1 Тема 2 Worked problem: interior-angle sum plus one exterior angle = 2115° gives n = 13 (2115 = 180·11 + 135) | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 9 |
 | Lesson 51 projection of a point and of a slant line; foot of the perpendicular; distance from a point to a line; theorem — the perpendicular is shorter than any slant, equal projections ↔ equal slants (sketch proof); compass construction of the perpendicular | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 116–117 |
+| Elements of plane figures: border (frontera), interior, exterior, vertices, angles, sides | Ecuador, Matemática, Grade 2 student book, printed pp. 93–94 |
+| Classify angles: acute (less than 90°), right, obtuse (more than 90°, less than 180°) (Tema 2) | Ecuador, Matemática, Grade 2 student book, printed pp. 103–104 |
+| Sides, vertices and angles in geometric figures: identify and count them in pictures and a table | Ecuador, Matemática (Talento matemático 3), Grade 3 student book, printed pp. 176–177 |
+| Measure right, acute and obtuse angles with a protractor | Ecuador, Matemática (Talento matemático 6), Grade 6 student book, printed pp. 50-51 |
+| Degrees, minutes and seconds: 1° = 60′, 1′ = 60″; conversions both ways including decimal degrees and minutes | Ecuador, Matemática (Talento matemático 6), Grade 6 student book, printed pp. 52-53 |
+| Interior angle of a regular polygon: (n − 2) × 180° / n | Ecuador, Matemática (Talento matemático 6), Grade 6 student book, printed pp. 106-107 |
+| Corresponding, vertical-opposite and alternate interior/exterior angles (exercise set) | Ecuador, Matemática, Grade 7 student book, printed p. 75 |
+| Angle relations: half and double of a given angle (shelf problem) | Ecuador, Matemática, Grade 7 student book, printed p. 91 |
 
-**Acceptance count: taught in 36 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan).** Egypt carries the fullest single Iran measures angles with a protractor in Grade 4, bisects angles and sums polygon angles in Grade 5, and gives the (n − 2) × 180° interior-angle rule in Grade 8.
+**Acceptance count: taught in 37 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador).** Egypt carries the fullest single Iran measures angles with a protractor in Grade 4, bisects angles and sums polygon angles in Grade 5, and gives the (n − 2) × 180° interior-angle rule in Grade 8.
 treatment — the angle kinds, the protractor, complementary and
 supplementary pairs, the transversal's eight angles, and the
 triangle and quadrilateral sums in one Grade 7 unit. Jordan

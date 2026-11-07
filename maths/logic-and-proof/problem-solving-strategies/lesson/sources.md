@@ -1,6 +1,6 @@
 # Sources — Problem-solving strategies
 
-countries: Iran, Greece, Iraq, China, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Uzbekistan
+countries: Iran, Greece, Iraq, China, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Uzbekistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -73,6 +73,14 @@ Every part traces to its book and page.
 **Book 48:** *Geometriya (Геометрия), Grade 7 student book* — Uzbekistan, Ministry of Public Education; A. Azamov, B. Haydarov, E. Sarikov, A. Kuchkarov, U. Sagdiev; Russian (Cyrillic); «Yangiyul poligraph service», Tashkent 2009, ISBN 978-9943-366-05-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 49:** *Geometriya 7 — Metodik qo'llanma (teacher's methodological guide for the Grade 7 Geometriya course)* — Uzbekistan, Ministry of Public Education; A. Azamov, B. Haydarov, E. Sariqov, A. Qo'chqorov, U. Sag'diyev; Uzbek (Latin script); «Yangiyul poligraph service», Tashkent 2009, ISBN 978-9943-366-15-2. TEACHER GUIDE — guide evidence only: a true companion to the Grade 7 student book (its sample 68-lesson plan matches the student book's §§1–68 exactly); it never counts as, or substitutes for, a pupil's book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 50:** *Matemática, Grade 8 student book (8vo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-27-9 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 51:** *Matemática, Grade 9 student book (9no EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-25-5 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 52:** *Matemática, Grade 10 student book (10mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-33-0 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 53:** *Matemática, Grade 13 student book (3ro BGU, Tercero de Bachillerato)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-31-6 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -188,7 +196,15 @@ Every part traces to its book and page.
 | (TG) Dars 65–68: final review (§§65–66) and the final (yakuniy) control work (§§67–68, scheduled as a 2-hour written work, 30 tests + problems in two variants) | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 132 |
 | (TG) Ch. IV §4.2 Internet problem banks for geometry problems (problems.ru walkthrough) with worked area-ratio solutions: medians split a triangle into six equal-area triangles; point M with AM:MB = 2:5 gives area ratio 2:5; AM/MB = 1/3, AK/KC = 2/1, S = 36 cm² gives S(AMK) = 6 cm² | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 145 |
 | (TG) Ch. IV §4.3 General guidance for solving geometry problems: the same four stages as textbook §60 (understand, plan, solve, check) with a worked/unworked flowchart | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 149 |
-**Acceptance count: taught in 13 countries (Iran, Greece, Iraq, China, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Uzbekistan).** Iran carries the fullest treatment: a named strategy in every primary chapter from Grade 2 up, gathered in Grade 7 Chapter 1 into eight named strategies under a four-step frame (understand, choose, solve, look back). Greece teaches the steps explicitly twice — as four steps in Grade 2 Chapter 5 and as five steps in Grade 5 Chapter 3 (read/distinguish, plan, solve, answer, reflect). Iraq makes the plan a lesson in its own right in every chapter of Grade 1 — and, as filed, in every chapter through Grade 8 — each plan lesson naming its own move (use a model, write a number sentence, logical reasoning, draw a picture). China contributes the specialist tools: elimination tables and proto-Sudoku in Grade 2, differencing in Grade 3, chickens-and-rabbits by listing and by the assumption method in Grade 4, and 0/1 logic tables with symbol substitution in the Grade 6 review. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023) and Grade 5 (2022).
+| Word problems with integers, rationals and irrationals (descents, temperatures, digit puzzle) | Ecuador, Matemática, Grade 8 student book, printed pp. 57–58 |
+| Formulating a combined operation to a given specification; formulating problems from given expressions | Ecuador, Matemática, Grade 8 student book, printed pp. 64–65 |
+| Four-step routine for equation problems: understand, set up, solve, check | Ecuador, Matemática, Grade 9 student book, printed pp. 8–9 |
+| Word problems with integers, rationals and irrationals (shared core) | Ecuador, Matemática, Grade 9 student book, printed pp. 61–62 |
+| Formulating combined operations and problems to a specification (shared core) | Ecuador, Matemática, Grade 9 student book, printed pp. 68–69 |
+| Word problems with integers, rationals and irrationals (shared core) | Ecuador, Matemática, Grade 10 student book, printed pp. 57–58 |
+| Formulating combined operations and problems to a specification (shared core) | Ecuador, Matemática, Grade 10 student book, printed pp. 64–65 |
+| Worked challenge (1ro BGU): wood needed and cost for a table (printed conclusion mislabels the needed amount as the purchasable amount; taught corrected) | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 76 |
+**Acceptance count: taught in 14 countries (Iran, Greece, Iraq, China, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Uzbekistan, Ecuador).** Iran carries the fullest treatment: a named strategy in every primary chapter from Grade 2 up, gathered in Grade 7 Chapter 1 into eight named strategies under a four-step frame (understand, choose, solve, look back). Greece teaches the steps explicitly twice — as four steps in Grade 2 Chapter 5 and as five steps in Grade 5 Chapter 3 (read/distinguish, plan, solve, answer, reflect). Iraq makes the plan a lesson in its own right in every chapter of Grade 1 — and, as filed, in every chapter through Grade 8 — each plan lesson naming its own move (use a model, write a number sentence, logical reasoning, draw a picture). China contributes the specialist tools: elimination tables and proto-Sudoku in Grade 2, differencing in Grade 3, chickens-and-rabbits by listing and by the assumption method in Grade 4, and 0/1 logic tables with symbol substitution in the Grade 6 review. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023) and Grade 5 (2022).
 
 Saudi Arabia is this lesson's strongest witness: a NAMED strategy lesson inside nearly every chapter of all four grades — model it, draw a picture, guess and check, look for a pattern, write a number sentence, make a table, make a list, work backwards, solve a simpler problem, choose a plan — gathered into the four steps (understand, plan, solve, check) in Grade 3, with reasonableness, exact-vs-estimate and extra/missing-information lessons of their own, and the older 1445 Term-3 volumes witnessing the Part Two chapters.
 

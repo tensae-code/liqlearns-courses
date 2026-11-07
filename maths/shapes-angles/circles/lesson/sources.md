@@ -1,6 +1,6 @@
 # Sources — Circles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -272,6 +272,12 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 
 **Book 142:** *Geometriya (Геометрия), Grade 9 student book* — Uzbekistan, Ministry of Public Education; B. Haydarov, E. Sarikov, A. Kuchkarov, ed. A. Azamov; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2006, ISBN 05-89890-136-1 (as printed). Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 143:** *Matemática, Grade 5 student book (5to EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-17-0 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 144:** *Matemática, Grade 6 student book (Talento matemático 6, Serie Talentos)* — Ecuador, EDINUN (Ediciones Nacionales Unidas) for the Ministerio de Educación, © 2016, first printing July 2016; no ISBN printed (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 145:** *Matemática, Grade 7 student book (7mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-18-7 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The circle and its parts (p.111) — names parts, no circumference or area yet | Jordan, Grade 6 Student Book Term 1, Unit 4, L4, p.111 |
@@ -487,8 +493,13 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 | Lesson 42 every regular polygon has an incircle and a circumcircle with a common centre (theorem proved); central angles; apothem; area S = ½·n·a·r | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 96–97 |
 | Lesson 43 side–radius formulas: R = a/(2 sin(180°/n)), r = a/(2 tg(180°/n)), r = R cos(180°/n); the cases n = 3 (R = 2r), n = 4 (R = r√2), n = 6 (R = a) | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 98–99 |
 | Lesson 50 history of π: Egypt/Babylon 3 and 3,12; Archimedes 22/7; China 3,155; India 3,008, 3,1416, √10; al-Kashi's 3·2^28-gon and π = 3,1415926535897932 (16 correct digits); van Roomen, van Ceulen's 35 digits Taught corrected: al-Kashi's polygon is printed as 3·2^28 = 800335168 sides; the product is 805,306,368 (the π value printed with it is correct). | Uzbekistan, Geometriya, Grade 9 (Russian), printed p. 114 |
+| Area of the circle A = π r² with π ≈ 3,14 (worked example) | Ecuador, Matemática, Grade 5 student book, printed p. 105 |
+| Circle vs circumference; centre, radius, diameter, chord, arc, circular sector and segment | Ecuador, Matemática (Talento matemático 6), Grade 6 student book, printed pp. 16-17 |
+| Circumference length L = 2πr = πd with π ≈ 3,14; multiple-lap totals | Ecuador, Matemática (Talento matemático 6), Grade 6 student book, printed pp. 18-19 |
+| Circumference vs circle vs sphere; the seven elements: centre, radius, diameter, arc, chord, secant, tangent | Ecuador, Matemática, Grade 7 student book, printed pp. 79-81 |
+| Circumference length P = 2πr = πd and circle area A = πr² with π ≈ 3,14 | Ecuador, Matemática, Grade 7 student book, printed pp. 79-84 |
 
-**Acceptance count: taught in 34 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan).**.** Kazakhstan carries the full climb — circle Iran measures the circumference in Grade 5 — with the book's own bounds for π, 3 1/7 and 3 10/71, while its exercises work with π = 3 — the area of a circle in Grade 6, circle basics in Grade 8, and the circle's equation in Grade 12 Geometry (3).
+**Acceptance count: taught in 35 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador).**.** Kazakhstan carries the full climb — circle Iran measures the circumference in Grade 5 — with the book's own bounds for π, 3 1/7 and 3 10/71, while its exercises work with π = 3 — the area of a circle in Grade 6, circle basics in Grade 8, and the circle's equation in Grade 12 Geometry (3).
 parts in Grade 3, circle and disc in Grades 4 and 5, then the
 practical thread-and-glass discovery of pi with C = πD and the
 disc area in Grade 6. Jordan carries the parts in Grade 6 and

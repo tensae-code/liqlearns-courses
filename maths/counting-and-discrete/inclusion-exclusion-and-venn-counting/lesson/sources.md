@@ -1,6 +1,6 @@
 # Sources — Inclusion–Exclusion and Venn Counting
 
-countries: Iran, Laos, Nepal, Sierra Leone, Kazakhstan, South Sudan, Malaysia, Sudan, India, Mongolia
+countries: Iran, Laos, Nepal, Sierra Leone, Kazakhstan, South Sudan, Malaysia, Sudan, India, Mongolia, Ecuador
 
 Every part traces to its book and page.
 
@@ -21,6 +21,8 @@ Every part traces to its book and page.
 **Book 13:** *Math-Magic Book 5 — Textbook in Mathematics for Class V* — India, NCERT, New Delhi, first edition March 2008, 2020-21 issue, ISBN 978-81-7450-828-7. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
 **Book 14:** *Mathematics — Textbook for Class XI* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-486-9. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendices 1–2, the Answers and the Supplementary Material; nothing is cited from them.
 **Book 15:** *Математик VIII (Mathematics, Grade 8)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 16:** *Matemática, Grade 9 student book (9no EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-25-5 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -43,7 +45,8 @@ Every part traces to its book and page.
 | Common factors — Factors of 25 and of 35 in overlapping circles; the overlap holds the common factors | India, Math-Magic Class 5, printed p. 96 |
 | Counting with two sets — practical problems using n(A ∪ B) = n(A) + n(B) − n(A ∩ B) | India, Mathematics Class 11, printed p. 21 |
 | Rule — inclusion–exclusion: ;A∪B; = ;A; + ;B; − ;A∩B; (boxed) | Mongolia, Математик VIII (Grade 8), printed p. 34 |
-**Acceptance count: taught in 10 countries (Iran, Laos, Nepal, Sierra Leone, Kazakhstan, South Sudan, Malaysia, Sudan, India, Mongolia).** Iran carries the deepest treatment — inclusion–exclusion in the Discrete Mathematics book (pp.73–78), carried all the way to counting onto functions, which is this lesson's closing part. Laos carries the working method: the two-set and three-set formulas inside Grade 10 survey problems (Ch.II L5, pp.38–48). Nepal carries the survey shape across Grades 8 (§10.3), 9 and 10, with its filed "neither" count taught corrected at 18. Sierra Leone carries three sets taught region by region at SSS1 (L64–70) and the formulae stated at SSS3 (L121). Kazakhstan carries the overlap idea at Grade 5 (§5.4) and the formula in its Grade 9 books. South Sudan carries Venn counting in the Secondary 2 sets unit.
+| Inclusion–exclusion count: why 18 + 28 policies make only 41 clients | Ecuador, Matemática, Grade 9 student book, printed p. 32 |
+**Acceptance count: taught in 11 countries (Iran, Laos, Nepal, Sierra Leone, Kazakhstan, South Sudan, Malaysia, Sudan, India, Mongolia, Ecuador).** Iran carries the deepest treatment — inclusion–exclusion in the Discrete Mathematics book (pp.73–78), carried all the way to counting onto functions, which is this lesson's closing part. Laos carries the working method: the two-set and three-set formulas inside Grade 10 survey problems (Ch.II L5, pp.38–48). Nepal carries the survey shape across Grades 8 (§10.3), 9 and 10, with its filed "neither" count taught corrected at 18. Sierra Leone carries three sets taught region by region at SSS1 (L64–70) and the formulae stated at SSS3 (L121). Kazakhstan carries the overlap idea at Grade 5 (§5.4) and the formula in its Grade 9 books. South Sudan carries Venn counting in the Secondary 2 sets unit.
 
 Malaysia's Form 4 set chapter counts with its Venn diagrams throughout — the inclusion–exclusion count n(A ∪ B) = n(A) + n(B) − n(A ∩ B) worked on survey data, up to three sets combined.
 

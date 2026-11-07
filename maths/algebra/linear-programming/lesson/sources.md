@@ -1,6 +1,6 @@
 # Sources — Linear Programming
 
-countries: Malaysia, Sudan, India, Mongolia, Venezuela
+countries: Malaysia, Sudan, India, Mongolia, Venezuela, Ecuador
 
 Every part traces to its book and page.
 
@@ -12,6 +12,8 @@ Every part traces to its book and page.
 **Book 5:** *La Matemática y el Vivir Bien* — Venezuela, Grade 11 (5to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-344-9. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 On Malaysia in this lesson: Malaysia's Additional Mathematics Form 5 is the first book in the read set to teach linear programming as a named optimisation method. Single and paired inequalities are already lessons (inequalities; simultaneous-equations); the modelling–region–objective method is this lesson, built from Malaysia's treatment under the everything-goes-in ruling. The worked situations in the lesson are the course's own, built by the book's method; the method, the region construction and the corner rule are the book's.
+
+**Book 6:** *Matemática, Grade 13 student book (3ro BGU, Tercero de Bachillerato)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-31-6 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -43,7 +45,12 @@ On Malaysia in this lesson: Malaysia's Additional Mathematics Form 5 is the firs
 | Systems of linear inequalities graphed, vertices and boundedness asked (activities) | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed p. 180 |
 | Second-degree inequalities in two variables: y ≤ x² + 1 solved by testing points on each side of the parabola; the strict case y > x² + 1 excludes the curve itself | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 180–182 |
 | A system mixing a quadratic and a linear inequality, {x² − y ≥ 0, x + y < 3}: solution as the intersection of the two regions | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 183–184 |
-**Acceptance count: taught in 5 countries (Malaysia, Sudan, India, Mongolia, Venezuela).** Malaysia's Additional Mathematics Form 5 carries the full method in its linear-programming section; the other read countries stop at inequalities and systems of equations, so this lesson is built at that honest size.
+| Graphical linear programming: wheat/maize hectares for maximum profit; digital/analogue watches for maximum income; suits and dresses for maximum benefit | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 60 |
+| Analytic linear programming: houses A and B for maximum benefit under $1,800,000 and 80 houses; school-excursion transport cost with 28 drivers | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed pp. 60–61 |
+| Simplex-method problem: four maize products, 75 weekly hours, storage and raw-material limits, maximum profit | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 61 |
+| Section evaluation: minimum-cost transport of 360 people with 60-seat buses and 30-seat minibuses, 10 vehicles | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 73 |
+| Worked challenge (3ro BGU): two-machine production as linear programming, software solution x = 4 h, y = 3 h (stated solution WRONG as printed — see filing error 10; true optimum x = 5 h, y = 0) | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed pp. 78–79 |
+**Acceptance count: taught in 6 countries (Malaysia, Sudan, India, Mongolia, Venezuela, Ecuador).** Malaysia's Additional Mathematics Form 5 carries the full method in its linear-programming section; the other read countries stop at inequalities and systems of equations, so this lesson is built at that honest size.
 
 Sudan teaches linear programming in Grade 11, from the formulation to word problems.
 

@@ -1,6 +1,6 @@
 # Sources — Platonic solids and Euler's formula
 
-countries: Nicaragua, China, Armenia, Greece, South Africa, Syria, Rwanda, India, Venezuela
+countries: Nicaragua, China, Armenia, Greece, South Africa, Syria, Rwanda, India, Venezuela, Ecuador
 
 Every part traces to its book and page.
 
@@ -18,6 +18,8 @@ Every part traces to its book and page.
 **Book 10:** *Mathematics — Textbook for Class VIII* — India, NCERT, New Delhi, first edition January 2008, 2020-21 printing, ISBN 978-81-7450-814-0. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Just for Fun sections; nothing is cited from them.
 **Book 11:** *Hecho en Venezuela* — Venezuela, Grade 6 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-308-1. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 12:** *La Matemática y el Vivir Bien* — Venezuela, Grade 11 (5to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-344-9. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 13:** *Matemática, Grade 7 student book (7mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-18-7 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -47,8 +49,10 @@ Every part traces to its book and page.
 | Euler — Euler's relation verified on built polyhedra: faces + vertices = edges + 2 | Venezuela, Hecho en Venezuela (Grade 6), printed pp. 74–76 |
 | Pyramids — Pyramids classified by their base (triangular, cuadrangular, pentagonal) | Venezuela, Hecho en Venezuela (Grade 6), printed p. 75 |
 | Platonic solids — The five Platonic solids with their face/vertex/edge counts and element associations (tetrahedron 4-4-6, hexahedron 6-8-12, octahedron 8-6-12, dodecahedron 12-20-30, icosahedron 20-12-30) | Venezuela, Hecho en Venezuela (Grade 6), printed pp. 77–78 |
+| Regular polyhedra: only five exist, with 4, 6, 8, 12 and 20 faces | Ecuador, Matemática, Grade 7 student book, printed p. 72 |
+| Euler formula V − E + F = 2 applied (tetrahedron; the 21-vertex test; the football) | Ecuador, Matemática, Grade 7 student book, printed pp. 75-76 |
 
-**Acceptance count: taught in 9 countries (Nicaragua, China, Armenia, Greece, South Africa, Syria, Rwanda, India, Venezuela).**
+**Acceptance count: taught in 10 countries (Nicaragua, China, Armenia, Greece, South Africa, Syria, Rwanda, India, Venezuela, Ecuador).**
 
 Nicaragua's Grade 10 book gives the fullest treatment: Unit 6 defines polyhedra, then teaches the five regular polyhedra — tetrahedron, hexahedron (cube), octahedron, dodecahedron and icosahedron — with a group activity building all five from coloured card nets. China's B edition meets Euler's formula V + F − E = 2 as an exploration inside its solid-geometry chapter, and its A edition sets the characteristic as a table exercise over prisms, pyramids and frustums in the chapter review. Armenia states Euler's formula inside its Grade 10 polyhedra chapter (Ch.II, p.74). Greece's senior book closes its solid-figures chapter with the regular polyhedra, and South Africa's Grade 8 and Grade 9 workbooks drill the five Platonic solids, their nets, and the faces–vertices–edges counts that Euler's formula ties together.
 

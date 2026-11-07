@@ -1,6 +1,6 @@
 # Sources — Conic Sections
 
-countries: Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan
+countries: Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -35,6 +35,8 @@ Every part traces to its book and page.
 **Book 26:** *ریاضی صنف ۱۱ (Mathematics, Grade 11)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 27:** *Algebra (Алгебра), Grade 9 student book* — Uzbekistan, Ministry of Public Education; Sh. A. Alimov, A. R. Halmuhamedov, M. A. Mirzaahmedov; Russian (Cyrillic); «O'qituvchi», Tashkent 2006, ISBN 5-645-04565-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 28:** *Matemática, Grade 13 student book (3ro BGU, Tercero de Bachillerato)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-31-6 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -137,7 +139,11 @@ Every part traces to its book and page.
 | Chapter exercises | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 46–48 |
 | §2 focus of the parabola y = x² at (0; 1/4) and the reflection property (searchlights, locators) | Uzbekistan, Algebra, Grade 9 (Russian), printed p. 9 |
 | §3 focus of the parabola y = ax² at (0; 1/(4a)) | Uzbekistan, Algebra, Grade 9 (Russian), printed p. 12 |
-**Acceptance count: taught in 21 countries (Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan).** North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
+| Locus problems: parabola (distance to y-axis equals distance to (3, 0)); ellipse (distance sum to (0, ±3) equals 7); equidistance locus; squared-distance locus | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 48 |
+| Circle with centre (2, 1) through (−7, 9); ellipse 0.25x² + y² = 1 (semi-axes, vertices, foci); parabola with vertex (3, 2) and focus (3, 4); canonical equation of a horizontal hyperbola (minor semi-axis 4, focal distance 16) | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 49 |
+| Equation of the circle through A(2, 3) and B(10, 9) with diameter AB | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 50 |
+| Eccentricity of a satellite's elliptical orbit from maximum and minimum heights (heights swapped as printed; taught corrected, e ≈ 0.0185) | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 50 |
+**Acceptance count: taught in 22 countries (Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador).** North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
 
 Rwanda teaches conic sections whole in Advanced Mathematics Senior Six Unit 8 — the focus–directrix definition with eccentricity, all three conics with tangents and normals, the polar equation, and applications from planetary orbits to the whispering gallery.
 

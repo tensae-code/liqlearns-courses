@@ -1,6 +1,6 @@
 # Sources — Factorisation
 
-countries: India, Venezuela, North Macedonia, Afghanistan, Uzbekistan
+countries: India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -16,6 +16,14 @@ Every part traces to its book and page.
 **Book 9:** *Matematika (Математика), Grade 5 student book* — Uzbekistan, Ministry of Public Education; M. A. Mirzaahmedov, A. A. Rahimkariev; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2007, ISBN 978-9943-07-047-9. The held scan lacks printed pp. 123 and 147; nothing is cited from them. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 10:** *Algebra (Алгебра), Grade 8 student book* — Uzbekistan, Ministry of Public Education; Sh. A. Alimov, A. R. Halmuhamedov, M. A. Mirzaahmedov; Russian (Cyrillic); «O'qituvchi», Tashkent 2006, ISBN 5-645-04563-7. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 11:** *Matemática, Grade 8 student book (8vo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-27-9 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 12:** *Matemática, Grade 9 student book (9no EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-25-5 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 13:** *Matemática, Grade 10 student book (10mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-33-0 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 14:** *Matemática, Grade 13 student book (3ro BGU, Tercero de Bachillerato)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-31-6 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -49,8 +57,19 @@ Every part traces to its book and page.
 | Topic 31: prime factorisation — ladder method and factor-tree method, writing with powers, listing all divisors from the factorisation | Uzbekistan, Matematika, Grade 5 (Russian), printed p. 110-112 |
 | revision: monomials, polynomials, factorising by grouping and common factor | Uzbekistan, Algebra, Grade 8 (Russian), printed pp. 4–6 |
 | §34 factorising a quadratic trinomial: ax² + bx + c = a(x − x1)(x − x2) (theorem with proof); cancelling algebraic fractions with trinomials | Uzbekistan, Algebra, Grade 8 (Russian), printed pp. 165–167 |
+| Matching polynomials with their equivalent products | Ecuador, Matemática, Grade 8 student book, printed p. 74 |
+| Notable products: completing identities such as x² + □x + 8 = (x + 2)(x + □) | Ecuador, Matemática, Grade 8 student book, printed p. 77 |
+| Factorising area and volume expressions (a²n − 8an + 15; x³ − 6x² + 11x − 6) | Ecuador, Matemática, Grade 8 student book, printed p. 77 |
+| Matching polynomials with their equivalent products (shared core) | Ecuador, Matemática, Grade 9 student book, printed p. 78 |
+| Notable products: completing identities (shared core) | Ecuador, Matemática, Grade 9 student book, printed p. 81 |
+| Factorising area and volume expressions (shared core) | Ecuador, Matemática, Grade 9 student book, printed p. 81 |
+| Matching polynomials with their equivalent products (shared core) | Ecuador, Matemática, Grade 10 student book, printed p. 74 |
+| Notable products: completing identities (shared core) | Ecuador, Matemática, Grade 10 student book, printed p. 77 |
+| Factorising area and volume expressions (shared core) | Ecuador, Matemática, Grade 10 student book, printed p. 77 |
+| Factorise given algebraic expressions | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 7 |
+| Section evaluation: factorise x² + 5x + 6 and 9x² − 12xy + 4y² | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 33 |
 
-**Acceptance count: taught in 5 countries (India, Venezuela, North Macedonia, Afghanistan, Uzbekistan).** India's Class 8 book gives factorisation a whole chapter of its own (Ch. 14, printed pp. 217–229) and its Class 9 book returns to it inside Polynomials — quadratics by splitting the middle term, cubics by the Factor Theorem — so under the everything-goes-in ruling (2026-11-06) the topic is gathered into its own lesson, at the size of that treatment. Other read countries teach factorisation as a part inside their expressions chapters, and their merges stocked it there; India's own Class 9 identity work ((x + y + z)² and x³ + y³ + z³ − 3xyz, applied to factorise) is likewise stocked in expressions, and its Class 8 division of algebraic expressions in polynomial-division. One slip in the Class 8 chapter is taught corrected: the chapter summary (printed p. 229) prints the trinomial form as "x² + (a + b) + ab", dropping the x — the correct form x² + (a + b)x + ab stands in the formula list on the same page and is the form this lesson teaches. The §14.5 "Can you find the error?" page (printed p. 226) is the book's deliberate wrong-work exercise, not a book error. North Macedonia enters from its main set — Grade 11 (2026) and the Grade 12 Algebra elective.
+**Acceptance count: taught in 6 countries (India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador).** India's Class 8 book gives factorisation a whole chapter of its own (Ch. 14, printed pp. 217–229) and its Class 9 book returns to it inside Polynomials — quadratics by splitting the middle term, cubics by the Factor Theorem — so under the everything-goes-in ruling (2026-11-06) the topic is gathered into its own lesson, at the size of that treatment. Other read countries teach factorisation as a part inside their expressions chapters, and their merges stocked it there; India's own Class 9 identity work ((x + y + z)² and x³ + y³ + z³ − 3xyz, applied to factorise) is likewise stocked in expressions, and its Class 8 division of algebraic expressions in polynomial-division. One slip in the Class 8 chapter is taught corrected: the chapter summary (printed p. 229) prints the trinomial form as "x² + (a + b) + ab", dropping the x — the correct form x² + (a + b)x + ab stands in the formula list on the same page and is the form this lesson teaches. The §14.5 "Can you find the error?" page (printed p. 226) is the book's deliberate wrong-work exercise, not a book error. North Macedonia enters from its main set — Grade 11 (2026) and the Grade 12 Algebra elective.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Conciencia Matemática* (Grade 8) and *La Matemática y el Vivir Bien* (Grade 11). From its books: from Grade 8: geometric derivation — (a + b)² built from a square of side a + b split into a², b² and two rectangles ab; from Grade 11: every real polynomial splits into linear factors and irreducible quadratic factors (stated as form A).
 

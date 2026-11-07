@@ -1,6 +1,6 @@
 # Sources — Shapes
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -344,6 +344,18 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 206:** *Geometriya (Геометрия), Grade 8 student book* — Uzbekistan, Ministry of Public Education; A. A. Rahimkariev; Russian (Cyrillic); «Yangiyo'l Poligraph Service», Tashkent 2006; no ISBN is printed anywhere in the book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 207:** *Geometriya (Геометрия), Grade 9 student book* — Uzbekistan, Ministry of Public Education; B. Haydarov, E. Sarikov, A. Kuchkarov, ed. A. Azamov; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2006, ISBN 05-89890-136-1 (as printed). Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 208:** *Relaciones Lógico Matemáticas, Grade 1 student book (1ro EGB, Preparatoria)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-07-1 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 209:** *Matemática, Grade 2 student book (2do EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-12-5 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 210:** *Matemática, Grade 3 student book (Talento matemático 3, Serie Talentos)* — Ecuador, EDINUN (Ediciones Nacionales Unidas) for the Ministerio de Educación, © 2016, fourth printing February 2018; no ISBN printed (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 211:** *Matemática, Grade 5 student book (5to EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-17-0 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 212:** *Matemática, Grade 6 student book (Talento matemático 6, Serie Talentos)* — Ecuador, EDINUN (Ediciones Nacionales Unidas) for the Ministerio de Educación, © 2016, first printing July 2016; no ISBN printed (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 213:** *Matemática, Grade 7 student book (7mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-18-7 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -779,8 +791,34 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | §1 Тема 1 Convex vs non-convex polygons defined (lying on one side of each side-line) | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 4 |
 | §1 History: Beruni's classification of quadrilaterals (square, rectangle, rhombus, rhomboid) and word origins (quadratus, rhombus, trapezion, parallelogram) | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 31 |
 | Lesson 41 regular polygons defined; each angle of a regular n-gon = (n − 2)/n · 180° (proved); all diagonals of a regular pentagon are equal | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 94–95 |
+| Match each object to the flat shape it has (circle, square, triangle, rectangle) | Ecuador, Relaciones Lógico Matemáticas, Grade 1 student book, printed p. 8 |
+| Colour flat figures by a colour code | Ecuador, Relaciones Lógico Matemáticas, Grade 1 student book, printed p. 10 |
+| Story introducing flat geometric figures (circle, square, triangle, rectangle, oval) and equal sides of the square (Juntos Leemos) | Ecuador, Relaciones Lógico Matemáticas, Grade 1 student book, printed p. 15 |
+| Find and name geometric figures in objects of the environment (Sección 2 opener story: building a house from square and triangle) | Ecuador, Relaciones Lógico Matemáticas, Grade 1 student book, printed pp. 29–30 |
+| Draw two objects at home shaped like each given geometric figure | Ecuador, Relaciones Lógico Matemáticas, Grade 1 student book, printed p. 31 |
+| Identify and colour objects with the indicated geometric shape | Ecuador, Relaciones Lógico Matemáticas, Grade 1 student book, printed p. 33 |
+| Match everyday objects to 3D geometric bodies; circle the object that does not match the body shown | Ecuador, Relaciones Lógico Matemáticas, Grade 1 student book, printed pp. 34–35 |
+| Section 2 evaluation: colour geometric figures and write the count of each | Ecuador, Relaciones Lógico Matemáticas, Grade 1 student book, printed pp. 39–40 |
+| Flat geometric figures in the environment: circle, square, triangle, rectangle (Tema 4) | Ecuador, Matemática, Grade 2 student book, printed pp. 23–25 |
+| Square vs rectangle: telling them apart and comparing their differences | Ecuador, Matemática, Grade 2 student book, printed pp. 26–27 |
+| Parts of flat figures: side (lado) and vertex (vértice); count sides and vertices in a table | Ecuador, Matemática, Grade 2 student book, printed pp. 28–29 |
+| Section 2: geometric figures, patterns and sets combined; drawing sets of domestic and wild animals (Tema 1) | Ecuador, Matemática, Grade 2 student book, printed pp. 45–47 |
+| Plane figures and solids: match objects to circle, square, triangle, rectangle (Sección 4, Tema 1) | Ecuador, Matemática, Grade 2 student book, printed pp. 90–92 |
+| Squares vs rectangles by sides and diagonals, with side lengths in cm | Ecuador, Matemática, Grade 2 student book, printed pp. 97–98 |
+| 3D solids: sphere, cube, pyramid, cylinder, cone and rectangular prism — draw and colour objects of each shape | Ecuador, Matemática, Grade 2 student book, printed pp. 98–99 |
+| Draw the separate faces of a chosen geometric solid | Ecuador, Matemática, Grade 2 student book, printed p. 107 |
+| Tangram: cut out the seven pieces and form figures with them | Ecuador, Matemática, Grade 2 student book, printed pp. 108–109 |
+| Diagnostic: name triangles, squares, rectangles and circles in solids of the environment and state what identifies each | Ecuador, Matemática (Talento matemático 3), Grade 3 student book, printed p. 10 |
+| Polyhedral solids: classify geometric bodies; prisms vs pyramids; faces, flat lateral faces and base; bodies that only slide | Ecuador, Matemática (Talento matemático 3), Grade 3 student book, printed pp. 22–23 |
+| Round bodies: cylinder, cone, sphere — bodies that roll; true/false: "the cone is a pyramid" is false | Ecuador, Matemática (Talento matemático 3), Grade 3 student book, printed pp. 56–58 |
+| Regular polygons named by number of sides; centre, side, apothem and central angle named | Ecuador, Matemática, Grade 5 student book, printed p. 93 |
+| Regular vs irregular polygons; names from triangle to decagon | Ecuador, Matemática (Talento matemático 6), Grade 6 student book, printed p. 106 |
+| Square vs cube: the cube has 6 faces, 8 vertices and 12 edges | Ecuador, Matemática, Grade 7 student book, printed p. 13 |
+| Irregular polyhedra and pyramids; solids with a curved surface are not polyhedra | Ecuador, Matemática, Grade 7 student book, printed p. 72 |
+| Solids of revolution: sphere from a rotating circle, cone from a right triangle, cylinder from a rectangle | Ecuador, Matemática, Grade 7 student book, printed pp. 72, 77 |
+| Classify triangles by their sides and by their angles | Ecuador, Matemática, Grade 7 student book, printed p. 73 |
 
-**Acceptance count: taught in 36 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
+**Acceptance count: taught in 37 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
 — polygons, triangles two ways, then the parallelogram family
 with its special cases. Egypt carries polygons by vertices in
 Grade 3 and the triangle/trapezium/kite sorting in Grade 5.

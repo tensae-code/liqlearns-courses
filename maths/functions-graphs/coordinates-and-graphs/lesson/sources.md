@@ -1,6 +1,6 @@
 # Sources — Coordinates and graphs
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan
+countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -195,6 +195,20 @@ textbook.
 
 **Book 124:** *Geometriya (Геометрия), Grade 8 student book* — Uzbekistan, Ministry of Public Education; A. A. Rahimkariev; Russian (Cyrillic); «Yangiyo'l Poligraph Service», Tashkent 2006; no ISBN is printed anywhere in the book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 125:** *Matemática, Grade 2 student book (2do EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-12-5 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 126:** *Matemática, Grade 3 student book (Talento matemático 3, Serie Talentos)* — Ecuador, EDINUN (Ediciones Nacionales Unidas) for the Ministerio de Educación, © 2016, fourth printing February 2018; no ISBN printed (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 127:** *Matemática, Grade 5 student book (5to EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-17-0 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 128:** *Matemática, Grade 6 student book (Talento matemático 6, Serie Talentos)* — Ecuador, EDINUN (Ediciones Nacionales Unidas) for the Ministerio de Educación, © 2016, first printing July 2016; no ISBN printed (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 129:** *Matemática, Grade 8 student book (8vo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-27-9 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 130:** *Matemática, Grade 9 student book (9no EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-25-5 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 131:** *Matemática, Grade 10 student book (10mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-33-0 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The coordinate plane in all four quadrants with negative coordinates | Jordan, Grade 6 Term 1, Unit 4 "Transformations and geometric constructions", L1 The coordinate plane p.92 |
@@ -378,8 +392,28 @@ textbook.
 | René Descartes (1596–1650) and the rectangular coordinate system | Uzbekistan, Algebra, Grade 8 (Russian), printed p. 7 |
 | §4 intersections of a linear graph with the coordinate axes; constant function y = b | Uzbekistan, Algebra, Grade 8 (Russian), printed pp. 23–25 |
 | §2 Тема 12 Coordinate exercises on symmetry: point symmetric to (−2; −4) about the origin is (2; 4); symmetry about the coordinate axes | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 44 |
+| Plot favourite ordered pairs on a Cartesian plane | Ecuador, Matemática, Grade 2 student book, printed p. 51 |
+| Place 20, 200 and 560 on a number line marked 0–600 | Ecuador, Matemática, Grade 2 student book, printed p. 67 |
+| Numbers under 1 000 on the number line (semirrecta numérica); sequences counting by 100s and by 50s | Ecuador, Matemática (Talento matemático 3), Grade 3 student book, printed pp. 18–19 |
+| Ordered pairs (x; y); the X (abscissas) and Y (ordenadas) axes; four quadrants, pairs in the first quadrant | Ecuador, Matemática, Grade 5 student book, printed pp. 85-88 |
+| Read coordinates from grids, treasure maps and city plans; plot given pairs | Ecuador, Matemática, Grade 5 student book, printed pp. 85-91 |
+| Cartesian plane with naturals: ordered pairs, abscissa and ordinate, four quadrants, naturals in the first | Ecuador, Matemática (Talento matemático 6), Grade 6 student book, printed pp. 13-15 |
+| Cartesian plane with decimals: tenths and hundredths located between naturals on both axes | Ecuador, Matemática (Talento matemático 6), Grade 6 student book, printed pp. 22-23 |
+| Cartesian plane with fractions and mixed numbers located between naturals on the axes | Ecuador, Matemática (Talento matemático 6), Grade 6 student book, printed pp. 40-41 |
+| Linear function f(x) = ax + b: slope and intercept named, graphed from a table of values | Ecuador, Matemática, Grade 8 student book, printed pp. 22–23 |
+| Constant-speed motion as a linear function: graph and equations | Ecuador, Matemática, Grade 8 student book, printed p. 94 |
+| Linear functions table: slope, x-intercept and y-intercept | Ecuador, Matemática, Grade 8 student book, printed p. 99 |
+| Completing tables of values for y = 4x − 3 and x + y = 3 | Ecuador, Matemática, Grade 9 student book, printed p. 22 |
+| Section 1 evaluation: completing a table for y = 2x + 3 — pre-filled pair (1, 1) is wrong, taught corrected as (1, 5) | Ecuador, Matemática, Grade 9 student book, printed p. 51 |
+| Constant-speed motion as a linear function (shared core) | Ecuador, Matemática, Grade 9 student book, printed p. 98 |
+| Linear functions: slope and intercepts table (shared core) | Ecuador, Matemática, Grade 9 student book, printed p. 103 |
+| Linear function y = mx + b: reading slope m and intercept b; domain and codomain on R | Ecuador, Matemática, Grade 10 student book, printed p. 22 |
+| Tabulating and graphing y = 2x + 2 — first worked cell prints 2(−2) + 2 = 0 beside the point (−2, −2), taught corrected: the value is −2 | Ecuador, Matemática, Grade 10 student book, printed p. 22 |
+| Tabulating y = 3x − 2 and y = −(1/2)x + 2 for graphing | Ecuador, Matemática, Grade 10 student book, printed p. 23 |
+| Constant-speed motion as a linear function (shared core) | Ecuador, Matemática, Grade 10 student book, printed p. 94 |
+| Linear functions: slope and intercepts table (shared core) | Ecuador, Matemática, Grade 10 student book, printed p. 99 |
 
-**Acceptance count: taught in 32 countries (Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan).**.** South Africa carries the
+**Acceptance count: taught in 33 countries (Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador).**.** South Africa carries the
 plainest gradient teaching — gradient as change in y over
 change in x, with intercepts named, built from tables of
 ordered pairs. Egypt carries the slope rules (m = tan θ,

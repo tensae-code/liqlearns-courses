@@ -1,6 +1,6 @@
 # Sources — Sequences and series
 
-countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan
+countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -179,6 +179,24 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 **Book 106:** *Matematika (Математика), Grade 5 student book* — Uzbekistan, Ministry of Public Education; M. A. Mirzaahmedov, A. A. Rahimkariev; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2007, ISBN 978-9943-07-047-9. The held scan lacks printed pp. 123 and 147; nothing is cited from them. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 107:** *Algebra (Алгебра), Grade 9 student book* — Uzbekistan, Ministry of Public Education; Sh. A. Alimov, A. R. Halmuhamedov, M. A. Mirzaahmedov; Russian (Cyrillic); «O'qituvchi», Tashkent 2006, ISBN 5-645-04565-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 108:** *Matemática, Grade 2 student book (2do EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-12-5 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 109:** *Matemática, Grade 3 student book (Talento matemático 3, Serie Talentos)* — Ecuador, EDINUN (Ediciones Nacionales Unidas) for the Ministerio de Educación, © 2016, fourth printing February 2018; no ISBN printed (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 110:** *Matemática, Grade 5 student book (5to EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-17-0 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 111:** *Matemática, Grade 6 student book (Talento matemático 6, Serie Talentos)* — Ecuador, EDINUN (Ediciones Nacionales Unidas) for the Ministerio de Educación, © 2016, first printing July 2016; no ISBN printed (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 112:** *Matemática, Grade 7 student book (7mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-18-7 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 113:** *Matemática, Grade 8 student book (8vo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-27-9 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 114:** *Matemática, Grade 9 student book (9no EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-25-5 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 115:** *Matemática, Grade 10 student book (10mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-33-0 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 116:** *Matemática, Grade 13 student book (3ro BGU, Tercero de Bachillerato)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-31-6 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -384,8 +402,29 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 | §33 sum of n terms of a geometric progression: S(n) = b(1)(1 − q^n)/(1 − q) (proved by the multiply-and-subtract trick); S(n) = (b(n)q − b(1))/(q − 1) | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 171–173 |
 | §34 infinitely decreasing geometric progression: |q| < 1; terms tend to 0 | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 175–176 |
 | §34 sum of an infinitely decreasing geometric progression: S = b(1)/(1 − q); 1/2 + 1/4 + 1/8 + … = 1 from the halved square | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 176–178 |
+| Numeric patterns from operations: ascending scale 3, 6, 9 … 30 (pattern +3) and descending series with pattern −2 from 22 | Ecuador, Matemática, Grade 2 student book, printed pp. 12–14 |
+| Complete number patterns: +3 worm (5, 8, 11 … 29) and −3 frog series (65, 62, 59 …) | Ecuador, Matemática, Grade 2 student book, printed p. 48 |
+| Complete series with patterns −3, +4 and ×2 | Ecuador, Matemática, Grade 2 student book, printed p. 54 |
+| Sequences on the number line (semirrecta numérica) and completing sequences (Tema 3) | Ecuador, Matemática, Grade 2 student book, printed pp. 76–77 |
+| Numeric patterns based on additions: continue +4 sequences (10, 14, 18, 22 … 34), state the pattern of a sequence (Unidad 2) | Ecuador, Matemática (Talento matemático 3), Grade 3 student book, printed pp. 45–47 |
+| Numeric patterns based on subtractions: continue −2, −4, −10, −5 descending sequences (Unidad 3) | Ecuador, Matemática (Talento matemático 3), Grade 3 student book, printed pp. 77–79 |
+| Increasing and decreasing sequences with additive patterns | Ecuador, Matemática, Grade 5 student book, printed pp. 37-38 |
+| Sequences with multiplication and division patterns (×2, ÷3, ×3 growth) | Ecuador, Matemática, Grade 5 student book, printed pp. 38-41 |
+| Complete and generate sequences; identify the pattern | Ecuador, Matemática, Grade 5 student book, printed pp. 40-42 |
+| Sequences formed by adding or subtracting a constant, including alternating two-step patterns | Ecuador, Matemática (Talento matemático 6), Grade 6 student book, printed pp. 68-69 |
+| Write sequences of naturals, fractions and decimals (section evaluation) | Ecuador, Matemática, Grade 7 student book, printed p. 28 |
+| Repeated bounce losing one fifth of its height each time (geometric decay in context) | Ecuador, Matemática, Grade 7 student book, printed p. 54 |
+| Free-fall experiment: timing drops, averaging, graphing height against time, fitting a function | Ecuador, Matemática, Grade 8 student book, printed pp. 104–105 |
+| Free-fall timing experiment leading to a height–time function (shared core) | Ecuador, Matemática, Grade 9 student book, printed pp. 108–109 |
+| Free-fall timing experiment leading to a height–time function (shared core) | Ecuador, Matemática, Grade 10 student book, printed pp. 104–105 |
+| Limits of sequences, nth terms, and whether given sequences converge | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 31 |
+| Sequences defined by recurrence: write the first five terms | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 38 |
+| Arithmetic progressions: 16th term given 6th term 15 and the difference; three consecutive AP numbers summing to 39 | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 38 |
+| Geometric progressions: sum of the first 10 terms of 7, 21, 63, 189…; 5th term given a₁ = 2 and a₉ = 13,122 | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 38 |
+| Deduce the general-term formula of a sequence from its given terms | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 39 |
+| Section evaluation: first five terms of a₁ = 5, aₙ₊₁ = −3aₙ; three consecutive AP numbers summing to 49; GP 5th term given a₁ = 2, a₉ = 13,122 | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 55 |
 
-**Acceptance count: taught in 30 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan).**.** Kazakhstan carries
+**Acceptance count: taught in 31 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador).**.** Kazakhstan carries
 the fullest treatment — all four Grade 9 Algebra books prove
 the nth-term formulas, the characteristic properties, both
 sum formulas and the infinite geometric sum, with applied

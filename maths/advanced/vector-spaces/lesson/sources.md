@@ -1,6 +1,6 @@
 # Sources — Vector Spaces
 
-countries: Rwanda, Venezuela, North Macedonia
+countries: Rwanda, Venezuela, North Macedonia, Ecuador
 
 Every part traces to its book and page.
 
@@ -16,6 +16,8 @@ Every part traces to its book and page.
 **Book 6:** *ЛИНЕАРНА АЛГЕБРА И АНАЛИТИЧКА ГЕОМЕТРИЈА ЗА ТРЕТА ГОДИНА НА РЕФОРМИРАНОТО ГИМНАЗИСКО ОБРАЗОВАНИЕ (ИЗБОРЕН ПРЕДМЕТ)* (Linear Algebra and Analytic Geometry for the third year of the reformed gymnasium education — elective subject) — North Macedonia, Костадин Тренчевски, Билјана Крстеска, Глигор Тренчевски и Снежана Здравеска (Kostadin Trenchevski, Biljana Krsteska, Gligor Trenchevski & Snezana Zdraveska), Просветно дело, Skopje, IV издание (fourth edition), 2017 printing (the CIP records the edition from 2007), ISBN 9989-0-0386-6. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
 On Rwanda in this lesson: Rwanda teaches vector spaces twice in its Advanced stream — Senior Five's Unit 6 builds the full theory inside its wider vectors unit, and Senior Six's Unit 6 returns to intersections and sums alone and works them by solving systems. The union criterion comes only from the two teacher's guides and is worded as guide evidence wherever it appears. Confirmed errors in the sources are taught corrected, never as fact: Senior Five's independence example prints the determinant of (1, 2, 0), (0, −1, 3), (−1, 0, 2) as −10 (correct: −8; the independence conclusion stands), and Senior Six's worked intersection example solves a system different from the one it sets (from its stated conditions a + b − c = 0 with a = b, the set is {(b, b, 2b)}, not {(b, b, 0)}).
+
+**Book 7:** *Matemática, Grade 13 student book (3ro BGU, Tercero de Bachillerato)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-31-6 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -46,7 +48,8 @@ On Rwanda in this lesson: Rwanda teaches vector spaces twice in its Advanced str
 | Linear dependence and independence of vectors | North Macedonia, Grade 12, Linear Algebra and Analytic Geometry, §4.5, printed p. 128 |
 | Basis and dimension | North Macedonia, Grade 12, Linear Algebra and Analytic Geometry, §4.6, printed p. 130 |
 | Coordinates of a vector (in a basis) | North Macedonia, Grade 12, Linear Algebra and Analytic Geometry, §4.7, printed p. 134 |
+| Decide linear dependence of given vector sets using Gauss transformations | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 54 |
 
-**Acceptance count: taught in 3 countries (Rwanda, Venezuela, North Macedonia).** Rwanda's two Advanced books together carry the complete vector-space treatment — Senior Five's full theory and Senior Six's systems-based deepening of intersections and sums, with the guides' union criterion — and no other read country gives vector spaces a named treatment, so this lesson is built at that honest size: one country, two year-levels, four books. North Macedonia enters from its main set — the Grade 12 Linear Algebra and Analytic Geometry elective.
+**Acceptance count: taught in 4 countries (Rwanda, Venezuela, North Macedonia, Ecuador).** Rwanda's two Advanced books together carry the complete vector-space treatment — Senior Five's full theory and Senior Six's systems-based deepening of intersections and sums, with the guides' union criterion — and no other read country gives vector spaces a named treatment, so this lesson is built at that honest size: one country, two year-levels, four books. North Macedonia enters from its main set — the Grade 12 Linear Algebra and Analytic Geometry elective.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Naturaleza Matemática* (Grade 10). From its books: from Grade 10: linear combination of vectors defined v = K1v1 + … + Knvn.

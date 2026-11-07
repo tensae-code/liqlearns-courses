@@ -1,6 +1,6 @@
 # Sources — Geometry in Space
 
-countries: China, Armenia, Vietnam, Kuwait, Greece, Iraq, Yemen, Cambodia, Kazakhstan, Laos, North Macedonia, Iran, Syria, India, Mongolia, Afghanistan
+countries: China, Armenia, Vietnam, Kuwait, Greece, Iraq, Yemen, Cambodia, Kazakhstan, Laos, North Macedonia, Iran, Syria, India, Mongolia, Afghanistan, Ecuador
 
 Every part traces to its book and page.
 
@@ -32,6 +32,8 @@ Every part traces to its book and page.
 **Book 24:** *Математик IX (Mathematics, Grade 9)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 25:** *МАТЕМАТИКА II* (Mathematics II — textbook for the second year of gymnasium education) — North Macedonia, Д-р Верица Бакева Смиљкова и проф. Горан Михајлоски (Dr Verica Bakeva Smilkova & Prof. Goran Mihajloski), АЛБИ (Albi), Skopje 2026, first edition, approval № 26-644/1 of 21.05.2026, ISBN 978-608-241-093-7. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 26:** *ریاضی صنف ۱۱ (Mathematics, Grade 11)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 27:** *Matemática, Grade 13 student book (3ro BGU, Tercero de Bachillerato)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-31-6 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -81,8 +83,13 @@ Every part traces to its book and page.
 | Perpendicular lines and planes in space: a line perpendicular to a plane | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 109–110 |
 | Parallel planes in space | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 111–112 |
 | Chapter key points and exercises | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 113–116 |
+| Parallel and perpendicular planes via normal vectors, dot product and angles (concept box) | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 53 |
+| Decide whether given pairs of planes are parallel | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 54 |
+| Line and plane in space: vector equation of a line through (1, 2, 3) and (−1, 0, 1); line parallel to a plane and to the xy-plane; plane containing a line and perpendicular to a given plane; intersection of planes | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 54 |
+| Parallel-plane tests, line/plane equations, plane intersections and Gauss linear-dependence (repeat set inside Sección 3); dot and cross products named in a fact box | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 59 |
+| Section evaluation: vector equation of the line through A(0, 2, 3) and B(0, −1, 1) | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 73 |
 
-**Acceptance count: taught in 16 countries (China, Armenia, Vietnam, Kuwait, Greece, Iraq, Yemen, Cambodia, Kazakhstan, Laos, North Macedonia, Iran, Syria, India, Mongolia, Afghanistan).**
+**Acceptance count: taught in 17 countries (China, Armenia, Vietnam, Kuwait, Greece, Iraq, Yemen, Cambodia, Kazakhstan, Laos, North Macedonia, Iran, Syria, India, Mongolia, Afghanistan, Ecuador).**
 
 China carries the full synthetic system twice, in the B-edition Compulsory Volume 4 Chapter 11 and in parallel in the A-edition Compulsory Volume 2 Chapter 8: three basic facts and corollaries, parallelism and perpendicularity as criterion-and-property systems, and the three space angles. Armenia carries the stereometry opening course in Geometry 10 Chapter I — axioms and consequences, positions including the skew-lines criterion, and line–plane perpendicularity. Vietnam carries the synthetic theorem system across both Grade 11 volumes: parallelism and parallel projection in Volume 1, perpendicularity, projection, the line–plane angle, perpendicular planes and distance in Volume 2 — the filing notes its space work is synthetic, with no space vectors. Kuwait carries the system in Grade 11 Term 2 Unit 10 — postulates, skew lines, the three-perpendiculars theorem, the dihedral angle and perpendicular planes — synthetic only, with no vectors or coordinates in space, as filed. Greece carries lines and planes in space in Euclidean Geometry Volume B Chapter 12, including Thales' theorem in space, the dihedral plane angle and projection. Iraq carries space geometry in Grade 11 Science Chapter 7 with six numbered theorems, and dihedral angles in Grade 12 Science Chapter 6, of which only the read-and-checked projection example (pp.238–240) is cited here.
 
