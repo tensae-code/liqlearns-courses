@@ -1,0 +1,36 @@
+# Weather and seasons — multiple choice
+
+Pick the one right answer.
+
+**1. (Level 1)** "What's the weather like today?" — "It's
+______ and windy."
+a) cloudy  b) table  c) yesterday
+**Answer: a) cloudy** — Cambodia's own drilled pair
+(Grade 5, p.115).
+
+**2. (Level 1)** Which word is a season?
+a) rainy  b) winter  c) thunder
+**Answer: b) winter** — the four seasons are spring,
+summer, autumn/fall, winter (Albania, Ch.32).
+
+**3. (Level 2)** Albania's guide names the autumn season
+______.
+a) fall  b) harvest  c) leaf-time
+**Answer: a) fall** — the American name, printed in
+Chapter 32's vocabulary list.
+
+**4. (Level 2)** "Today is ______ than yesterday."
+a) colder  b) coldest  c) coldly
+**Answer: a) colder** — Albania's comparative example
+(Ch.32).
+
+**5. (Level 3)** "What was the weather like yesterday?" —
+"It ______ sunny."
+a) is  b) was  c) does
+**Answer: b) was** — Rwanda's past pair (P4, pp.49–50).
+
+**6. (Level 3)** Which one is a storm name from India's
+book?
+a) drizzle  b) typhoon  c) rainbow
+**Answer: b) typhoon** — cyclone, gale, typhoon, tornado,
+hurricane, whirlwind (India, Class 10, Unit 1).
