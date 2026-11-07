@@ -70,6 +70,15 @@ about the other person, and close the talk.*
 - hello-and-your-name ✅ · how-are-you ✅ ·
   good-morning-and-good-afternoon ✅ · introducing-a-friend ✅ ·
   whats-his-and-her-name ✅ · how-old-are-you ✅
+- **Catch-up additions (2026-11-07, per CATCH-UP-PLAN.md — the
+  conversation functions the read books teach):** making-offers ✅ ·
+  making-suggestions ✅ · apologising ✅ · inviting ✅ ·
+  asking-politely ✅ · agreeing-and-disagreeing ✅ · telephoning ✅ ·
+  shopping ✅ · congratulating-and-wishing ✅ · giving-advice ✅ ·
+  giving-directions ✅ (11 lessons, 206 question items; the level
+  now also ends with the learner able to offer, suggest, apologise,
+  invite, ask politely, agree and disagree, use the phone, shop,
+  congratulate, advise, and give directions)
 
 ## Level 6 — Word Kinds
 *End of level: the learner knows what each kind of word does.*

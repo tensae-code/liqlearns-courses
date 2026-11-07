@@ -36,7 +36,12 @@ sentences spoken between people:
   asking someone's name, asking someone's age, closing the talk. Its
   subtitles (each ONE lesson, one thing): hello-and-your-name ·
   how-are-you · good-morning-and-good-afternoon ·
-  introducing-a-friend · whats-his-and-her-name · how-old-are-you.
+  introducing-a-friend · whats-his-and-her-name · how-old-are-you ·
+  making-offers · making-suggestions · apologising · inviting ·
+  asking-politely · agreeing-and-disagreeing · telephoning ·
+  shopping · congratulating-and-wishing · giving-advice ·
+  giving-directions (the last 11 added 2026-11-07 by the catch-up
+  build — every conversation function the read books teach).
   (His ruling, 2026-10-25: "Greetings" was too small a name for this —
   hi and how-are-you are only its opening; introducing yourself and
   the rest are conversation, so the title is Conversation. And asking
