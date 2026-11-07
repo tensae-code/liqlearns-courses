@@ -1,0 +1,74 @@
+# Sources — Quantifiers
+
+countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal
+
+Every part traces to its book and page.
+
+**Book 1:** *ENGLISH Grade 9* (student's book) —
+Cambodia, MoEYS with The Nippon Foundation / Education
+Support Center "KIZUNA". Filed in
+english/books/cambodia.md (FULLY READ + CITATION CHECK
+PASSED, as filed).
+
+**Book 2:** Year 2 English (student's book) — Bolivia.
+Filed in english/books/bolivia.md (FULLY READ +
+CITATION CHECK PASSED, as filed).
+
+**Book 3:** Grade 7 English (student's book) — Mexico.
+Filed in english/books/mexico.md (FULLY READ +
+CITATION CHECK PASSED, as filed).
+
+**Book 4:** *Close-Up* B1 Student's Book, Second
+Edition — Malaysia, Form 3, National Geographic
+Learning / Cengage. Filed in english/books/malaysia.md
+(FULLY READ + CITATION CHECK PASSED, as filed).
+
+**Book 5:** *Pearls, Student's Book 7A* — Kuwait,
+Ministry of Education. Filed in english/books/kuwait.md
+(FULLY READ + CITATION CHECK PASSED, as filed).
+
+**Book 6:** *English Grade 10* (student's book) —
+Nepal, Government of Nepal, Ministry of Education,
+Science and Technology, Curriculum Development
+Centre. Filed in english/books/nepal.md (FULLY READ +
+CITATION CHECK PASSED, as filed).
+
+**Book 7:** *English VI* (student's book) — Mongolia,
+Ministry of Education, Culture, Science and Sports.
+Filed in english/books/mongolia.md (FULLY READ +
+CITATION CHECK PASSED, as filed).
+
+**Book 8:** English for Libya (Course Book) — Libya,
+Garnet Education. Filed in english/books/libya.md (read 2026-10-25; the file's head banner stands — agent-assisted read, the 10-citation spot-check still owed).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Quantities taught as the healthy-eating unit's language: some / any, much / many, too much / too many, with should / shouldn't for diet advice | Cambodia, ENGLISH Grade 9, Unit 7 "Healthy eating", printed pp.50–55 |
+| How many / How much, I need some…, a few / a little, a lot, plenty of, only — the quantity system run in the market/recipe units and applied to clothing sizes | Cambodia, ENGLISH Grade 9, Unit 20, printed pp.128–133, and Unit 21, printed pp.134–139 |
+| Too much / too many / enough inside the healthy-lifestyle unit | Cambodia, ENGLISH Grade 9, Unit 8 (as filed in cambodia.md) |
+| The countable/uncountable contrast table in full (countable: dog, pencil, apple, child/children, take a/an or a number; uncountable: milk, happiness, rice, love) | Bolivia, Year 2, Theme 4 "Food", §2.2 (as filed in bolivia.md) |
+| Countable and uncountable nouns as the project's grammar: countable (posts, comments, likes, shares, followers) vs uncountable (information, time, fun, popularity, content, engagement, feedback, entertainment); how many / how much; some, much… | Mexico, Grade 7, Project 13 "Teenagers and The Social Networks", pp.116–121 (grammar at pp.117–118) |
+| Countable/uncountable nouns and quantifiers as the unit's grammar, beside present simple vs present continuous and stative verbs | Malaysia, Form 3 *Close-Up*, Unit 1 "Family Ties", pp.5–16 |
+| The quantity family stocked in the present-system Pearls book, at Lesson 2 level | Kuwait, Pearls 7A, Lesson 2 (as filed in kuwait.md) |
+| Grammar I: quantifiers (many/much, (a) few/(a) little, …) in the charts-and-quantity unit, with a quantity-filled recipe listening | Nepal, English Grade 10, Unit 13, pp.157–171 |
+| QUANTITY NOUNS (5a): a loaf of bread, a slice of sausages, a glass of juice, a cup of tea, a bottle of water, a bowl of rice, a packet of pasta, a carton of milk, a kilo of mutton, a jar of jam — with the SOME/ANY box beside it (p.86) | Mongolia, English VI, Unit 8 "What's Cooking?", pp.85–92 (Quantity Nouns at p.88) |
+| The quantity set — loaf of bread, bunch of carrots, can of lemonade, bottle of water, bag of rice, tin of beans, box of eggs — the song "Cheese, please!" ("Can I have some cheese, please? Sorry, I don't have any."), and the bought sentences ("I bought a box of eggs. I bought a bottle of water.") | Libya, "At the Shop" unit, L1 Shopping, book pp.104–105 |
+
+Libya is cited under its standing banner: the libya.md
+read is agent-assisted and the 10-citation spot-check
+is still owed; every Libya line above is worded within
+that state.
+
+**Acceptance count: taught in 8 countries (Bolivia,
+Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia,
+Nepal).** Cambodia runs the whole family across three
+Grade 9 units — teaching it in the health unit, then
+spending it in the market and recipe units. Bolivia
+tables the countable/uncountable split whole at Year
+2; Mexico sorts a social-media shelf by it. Mongolia
+prints the fullest partitive set under its own
+heading; Libya teaches the same handles as a shopping
+set with its song. Nepal gathers the family, (a) few /
+(a) little included, at Grade 10; Malaysia pairs
+countability and quantifiers at Form 3, and Kuwait
+stocks the family in Pearls 7A.

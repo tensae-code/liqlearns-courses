@@ -258,6 +258,26 @@ and how verbs carry two objects.*
   verbs-with-two-objects ✅ (catch-up build 2026-11-07 —
   3 lessons, 57 question items)
 
+## Level 25 — Wishing and Imagining
+*End of level: the learner can wish about now, regret the past,
+and build mixed and inverted conditionals.*
+- wish-and-if-only ✅ · more-conditionals ✅ (catch-up build
+  2026-11-07 — 2 lessons, 40 question items)
+
+## Level 26 — How Sure Are You?
+*End of level: the learner can grade certainty about the
+present and the past — must be, can't be, might be, must have,
+should have.*
+- how-sure-you-are ✅ · modal-perfects ✅ (catch-up build
+  2026-11-07 — 2 lessons, 40 question items)
+
+## Level 27 — The Small Words That Point
+*End of level: the learner commands articles, quantities, the
+some/any/no/every grid, and reflexive pronouns.*
+- articles ✅ · quantifiers ✅ · someone-anyone-no-one ✅ ·
+  reflexive-pronouns ✅ (catch-up build 2026-11-07 — 4 lessons,
+  80 question items)
+
 ## After Level 18
 The ladder keeps climbing — longer essays and the Story → Novel
 titles. Later blocks get their own level numbers here, in this
