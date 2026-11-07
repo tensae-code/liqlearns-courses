@@ -1,0 +1,66 @@
+# Sources — Silent letters
+
+countries: Ecuador, Kuwait, India, Barbados
+
+Every part traces to its book and page.
+
+**Book 1:** English — General Basic Education, Medium
+Sublevel: Student Text for Curricular Transition —
+Ecuador, Ministerio de Educación, Primera edición 2024,
+ISBN 978-9942-662-40-8 (one book issued under the Grade
+5, 6 and 7 covers; filed once, for its whole grade
+band). Filed in english/books/ecuador.md (read whole
+and citation-checked 2026-11-04).
+
+**Book 2:** Skyline English, Student's Book 5B —
+Kuwait, Ministry of Education, State of Kuwait, First
+Edition 2025-2026. Filed in english/books/kuwait.md
+(read in full + citation-checked 2026-11-03).
+
+**Book 3:** Marigold Books Three, Four and Five, and
+the later NCERT English books — India, NCERT. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK
+PASSED 2026-10-26).
+
+**Book 4:** Primary Language Arts Syllabus, Classes 1–4
+— Barbados, Ministry of Education and Human Resource
+Development. SYLLABUS EVIDENCE: Barbados has no
+government pupil textbook for Language Arts; the four
+syllabus documents are what the library holds and what
+was read. Filed in english/books/barbados.md (FULLY
+READ + CITATION CHECK PASSED 2026-10-27).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Silent letters defined — letters in a word not pronounced when the word is spoken; they often show the word's origin or differentiate homophones; intro examples knight, gnome, honor, debt, subtle | Ecuador — Medium Sublevel text, Worksheet 6, printed p.35 |
+| Silent 'K' picture cards: KNIFE, KNIGHT, KNIT, KNOT, KNOB, KNEE | Ecuador — Medium Sublevel text, Worksheet 6, printed p.36 |
+| Silent 'B' picture cards: COMB, DOUBT, LIMB, THUMB (p.37), spilling to WOMB, PLUMBER, THUMBPRINT (p.38) | Ecuador — Medium Sublevel text, Worksheet 6, printed pp.37–38 |
+| Copy defect, taught corrected: KNOWLEDGE is filed under silent 'B' (p.37) but contains no letter b — its silent letter is the initial k; the lesson files knowledge in the kn- family | Ecuador — Medium Sublevel text, Worksheet 6, printed p.37, defect recorded in english/books/ecuador.md |
+| Silent 'H' cards: HOUR, HONOR (p.38), HONEST, HOURGLASS, VEHICLE (p.39) — the h of vehicle is silent only in some varieties, as the filing notes | Ecuador — Medium Sublevel text, Worksheet 6, printed pp.38–39 |
+| Silent 'W' cards: WRITE, WRIST (p.39), WRINKLE, WRONG, WRECK, WRISTBAND (p.40) | Ecuador — Medium Sublevel text, Worksheet 6, printed pp.39–40 |
+| Closing task: pick five words, create a sentence for each, practise reading them aloud | Ecuador — Medium Sublevel text, Worksheet 6, printed p.41 |
+| The set's only pronunciation strand: silent letters wr- (Unit 5), -mb (Unit 6), -lk (Unit 7), -gh (Unit 8), each taught with the rhyme-frame "A letter you see, but you don't say" | Kuwait — Skyline English Student's Book 5B, Units 5–8 (lessons pp.6–14, 24–32, 42–50, 60–68) |
+| Silent wr-: wrap | Kuwait — Skyline English Student's Book 5B, Unit 5, Lesson 4 (Pronunciation) |
+| Silent -mb: lamb, climb, thumb | Kuwait — Skyline English Student's Book 5B, Unit 6, Lesson 3 (Pronunciation) |
+| Silent -lk: walk, talk, chalk | Kuwait — Skyline English Student's Book 5B, Unit 7, Lesson 8 (Pronunciation) |
+| Silent -gh: through, bright, bought | Kuwait — Skyline English Student's Book 5B, Unit 8, Lesson 3 (Pronunciation) |
+| SILENT LETTERS as named work: the w in wrinkle has no sound; the l in talk is silent | India — Marigold Book Three, Unit 3 (Class 3 filing) |
+| SILENT LETTERS underlined in a set: walk, straight, more, caught, calm, talk | India — Marigold Book Three (Class 3 filing, the animals unit's work) |
+| SILENT LETTERS picked out: hour, knit, wrong, doubt, often, know, night, could, write, knife, high, walk | India — Marigold Book Four, Unit 7 (Class 4 filing) |
+| SILENT-LETTER groups: kn- (knee, knife, knot, know); -gh- (neighbour, daughter, fight, straight); h- (honest, honour, hour, heir); plus gnat, tongue, chalk, whistle | India — Marigold Book Five, the Rip Van Winkle unit (Class 5 filing) |
+| Silent letters named in the word-attack core, beside digraphs, blends and variant consonant sounds | Barbados — Class 1 syllabus body, Reading: Skills and Strategies, printed pp.28–35 (syllabus evidence) |
+| Scope and Sequence row 3.1.4: "Contractions, blends (three letters etc.) and silent letters" | Barbados — Class 1 syllabus, printed p.3 (syllabus evidence) |
+
+**Acceptance count: taught in 4 countries (Ecuador, Kuwait, India, Barbados).**
+Ecuador stocks the definition and the fullest card
+families (K, B, H, W) with a closing use-it task;
+Kuwait stocks the four spelling families as a graded
+pronunciation strand — one family per unit under one
+frame sentence; India stocks the skill as picked-out
+lists inside its readers from Class 3 up, growing into
+named groups (kn-, -gh-, h-); Barbados stocks it as
+syllabus-named word-attack work. Ecuador's KNOWLEDGE
+card is a book error and is taught corrected (the word
+belongs to kn-); VEHICLE's silent h holds only in some
+varieties and is flagged as such wherever it appears.
+Counts grow as other closed countries' books are read.

@@ -54,10 +54,16 @@ can hold a pencil and draw and understand lines.*
 sounds.*
 - the-alphabet ✅ — Egypt KG1/KG2 teach 13 letters + 13 letters;
   Primary 1 re-teaches all 26 in sounds order.
+- joined-up-writing ✅ (catch-up addition 2026-11-07 — cursive
+  joins, from the Barbados syllabi and Bangladesh; Kuwait's
+  handwriting book stocks the copy-the-model routine)
 
 ## Level 3 — Sounds Together
 *End of level: the learner can put sounds together to read a word.*
 - blending-sounds ✅ · two-letter-sounds ✅
+- silent-letters ✅ · the-three-sounds-of-ed ✅ ·
+  stress-and-intonation ✅ (catch-up additions 2026-11-07 —
+  the pronunciation work the read books teach beyond blending)
 
 ## Level 4 — First Words
 *End of level: the learner can read whole little words.*
@@ -106,6 +112,8 @@ about the other person, and close the talk.*
 definition says.*
 - using-the-dictionary ✅: what a dictionary is · finding a word by
   its first letters · what the words in a definition mean
+- ordering-words ✅ (catch-up addition 2026-11-07 — alphabetising
+  to the 2nd/3rd/4th letter and the parts of a dictionary entry)
 - The platform's own dictionary is a FUTURE update (his ruling,
   2026-10-27 — not a right-now project; filed in DICTIONARY.md): a
   searchable side list that shows a word — or a sentence — in the

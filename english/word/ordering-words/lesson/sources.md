@@ -1,0 +1,51 @@
+# Sources — Ordering words
+
+countries: Barbados, India, Rwanda
+
+Every part traces to its book and page.
+
+**Book 1:** Primary Language Arts Syllabus, Classes 1–4
+— Barbados, Ministry of Education and Human Resource
+Development. SYLLABUS EVIDENCE: Barbados has no
+government pupil textbook for Language Arts; the four
+syllabus documents are what the library holds and what
+was read. Filed in english/books/barbados.md (FULLY
+READ + CITATION CHECK PASSED 2026-10-27).
+
+**Book 2:** Honeysuckle (Textbook in English for Class
+VI) and Beehive (Textbook in English for Class IX) —
+India, NCERT. Filed in english/books/india.md (FULLY
+READ + CITATION CHECK PASSED 2026-10-26).
+
+**Book 3:** English Learner's Book for Rwandan Primary
+Schools, P.5 — Rwanda, Rwanda Education Board, Revised
+Edition 2019 (no ISBN printed). Filed in
+english/books/rwanda.md (FULLY READ; citation-checked
+2026-11-04).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Alphabetising by 1st and 2nd letter ("Alphabetiises" as printed) — set inside Functional + Recreational Reading, beside table of contents, telephone directories, glossary/encyclopaedia/junior dictionary | Barbados — Class 1 syllabus body, printed p.36 (syllabus evidence) |
+| The ladder's upper rungs: alphabetising reaches the 3rd letter at Class 2 and the 4th letter at Class 3 | Barbados — Scope and Sequence (row 3.5.1 in the shared four-class grid; Class 1 printing the fullest), as filed in english/books/barbados.md (syllabus evidence) |
+| A real DICTIONARY PAGE reproduced in the book (term, test, terrace, terrible, terribly, terrify, terror, territory, than, that, thank) with dictionary skills worked on it: find the word meaning the same as ghastly and write its two meanings; find a word for a part of the school year (term) and one for an examination (test); list all the terr- words; write five words that may follow "that"; write your own meaning of thank, then the dictionary's | India — Honeysuckle, Class 6, Unit 5, as filed in english/books/india.md (the reproduced page's term/test entries are a named citation-check anchor of the Class 6 read) |
+| HOW TO LOOK AT AN INDEX — a real subject index (Living World History) reproduced and questions answered from it; Amartya Sen's index and French's *Index* shown as second examples | India — Beehive, Class 9, Unit 9 ("The Bond of Love"), Thinking about Language, as filed in english/books/india.md |
+| Using Reference Materials: dictionary/thesaurus look-up tasks worked through an adapted Aladdin story | Rwanda — P.5 Learner's Book, Unit 2, topic at printed p.43, tasks at printed p.45 |
+| Using Tables of Contents and Indexes: how a table of contents and an index work, practised on specimen examples whose page numbers are not this book's | Rwanda — P.5 Learner's Book, Unit 3, topic at printed p.69, specimens at printed pp.69–71 |
+| Dictionary pronunciation/transcription tasks: IPA transcriptions given for the professions/job words; dictionary transcription work recurs (and in Test 2.2) | Rwanda — P.5 Learner's Book, Unit 1, printed pp.18–19; also printed p.33, p.86 and Test 2.2, printed p.50, as filed in english/books/rwanda.md |
+| NOT cited: the P.5 Teacher's Guide's answer keys — the filing records errors in that guide's keys, so this lesson stands on the Learner's Book alone | Rwanda — P.5 filing, english/books/rwanda.md (standing flag honoured) |
+
+**Acceptance count: taught in 3 countries (Barbados, India, Rwanda).**
+Barbados stocks the ladder itself as syllabus-set
+work — 1st–2nd letter at Class 1, the 3rd letter at
+Class 2, the 4th at Class 3. India stocks the two
+workplaces: a real dictionary page taken apart skill by
+skill in Class 6, and the index taught by name, from a
+real index, in Class 9. Rwanda stocks the finding
+skills as a study unit — reference materials (Unit 2),
+contents and indexes (Unit 3) — with the dictionary's
+transcriptions as part of its tasks. This lesson is
+the deep drill beside Using the dictionary: that lesson
+teaches the finding machine; this one walks the order
+to the fourth letter and beyond, and takes the entry
+apart. Counts grow as other closed countries' books
+are read.
