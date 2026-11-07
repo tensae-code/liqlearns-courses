@@ -1,0 +1,51 @@
+# Sources — Letters that ask and advise
+
+countries: Barbados, Ghana, Jordan, Sierra Leone
+
+Every part traces to its book and page. Barbados's
+evidence is its Language Arts Syllabi (syllabus evidence,
+worded as such); Ghana's is the NaCCA curriculum only —
+no Ghana pupil textbook exists.
+
+**Book 1:** Language Arts Syllabi (primary) — Barbados.
+Filed in english/books/barbados.md (FULLY READ +
+CITATION CHECK PASSED, as filed). Syllabus evidence.
+
+**Book 2:** Common Core Programme curricula — Ghana,
+NaCCA. Filed in english/books/ghana.md (FULLY READ +
+CITATION CHECK PASSED 2026-10-26). Curriculum evidence
+only.
+
+**Book 3:** Jordan High Note, Grade 12, Student's Book,
+Semester 2 — Jordan, National Center for Curriculum
+Development (NCCD), Amman. Filed in
+english/books/jordan.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
+**Book 4:** English Language pupil handbooks (JSS
+formal-letters lessons) — Sierra Leone, Ministry of
+Basic and Senior Secondary Education. Filed in
+english/books/sierra-leone.md (FULLY READ + CITATION
+CHECK PASSED 2026-11-03).
+
+| Lesson part | Where it comes from |
+|---|---|
+| The primary letter kinds — invitation, praise, request, sympathy, apology — inside the primary writing syllabus | Barbados, Language Arts Syllabi, writing strand (as filed) — syllabus evidence |
+| Formal letters to authorities as named curriculum outcomes — letters to the Headmaster/mistress, Director of Education, Assembly Man/woman, SMC and PTA chairmen — inside formal writing (both addresses, heading, signature) | Ghana, NaCCA curricula, formal-writing strand (as filed) — curriculum evidence only |
+| The letter to the editor taught with a full model — a letter responding to an article about private funding of the arts — with Active Writing work on hedging | Jordan, Grade 12 Student's Book, Semester 2, Unit 3, Lesson 6A, printed pp.24–25 |
+| Features of an official letter to a person in authority (chairman of a board, managers, councillors, chiefs, ministers); formal letters for a range of purposes in formal style — no slang or contractions, respectful tone, both addresses | Sierra Leone, JSS formal-letters lessons 61–62 (as filed) |
+
+**Acceptance count: taught in 4 countries (Barbados,
+Ghana, Jordan, Sierra Leone).** Barbados names the five
+primary kinds; Sierra Leone builds the official letter
+to authority and rules the formal style; Ghana lists the
+authority addressees in its curriculum; Jordan models
+the editor letter with hedging as its craft. The
+catch-up plan also named Malaysia (Form 4 enquiry /
+editor / advice modules; Form 5 letter to an authority)
+and Mongolia (Grade 10 advice letter): neither anchor
+could be confirmed in its filing — the Malaysia filing's
+letter evidence found is the Form 1 formal complaint
+model and permission letters, and no advice letter was
+found in the Mongolia filing — so neither country is
+counted here.

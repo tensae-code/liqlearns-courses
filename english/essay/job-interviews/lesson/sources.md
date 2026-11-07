@@ -1,0 +1,50 @@
+# Sources — Job interviews
+
+countries: Cambodia, Egypt, Libya, Laos, Armenia
+
+Every part traces to its book and page. Libya is cited
+under its filing's standing note, copied below.
+
+**Book 1:** ENGLISH Grade 12 (student's book) — Cambodia,
+MoEYS / KIZUNA with ACE, first printing 2023. Filed in
+english/books/cambodia.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
+**Book 2:** English, Secondary 10 Term 1 (Student's Book)
+— Egypt, Ministry of Education. Filed in
+english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26; the
+formal citation check for the pre-law Egypt reads is
+still owed).
+
+**Book 3:** English for Libya, Grade 12 Course Book and
+Workbook — Libya, Garnet Education. Filed in
+english/books/libya.md (read 2026-10-25; the file's head
+banner stands — agent-assisted read, the 10-citation
+spot-check still owed).
+
+**Book 4:** English for Secondary Schools, Book Seven
+(Grade 12) — Laos, MoES/RIES. Filed in
+english/books/laos.md (read in full, as filed).
+
+**Book 5:** English 11 — Armenia, COAF, Yerevan 2025.
+Filed in english/books/armenia.md (FULLY READ + CITATION
+CHECK PASSED 2026-11-03).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Interview preparation advice — dress, punctuality, phone, body language; preparing for an interview and talking about experience; the information interviewers ask for; answering interview questions with quality adjectives (reliable, punctual, co-operative) | Cambodia, Grade 12, Unit 31 "At a job interview", printed pp.169–174 (teacher's-book spread as filed) |
+| The STAR Method for behavioral interview questions — "Tell me about a time when…": Situation (set the context), Task (explain what needed to be done), Action (describe what you did), Result (share the outcome) | Egypt, Secondary 10 Term 1, Unit 6, Lesson 2 (as filed in EGYPT-BOOK-MAP.md) |
+| A job interview retold: twelve printed direct questions from a job interview turned into reported questions in the Workbook, companion to the Course Book's interview | Libya, Grade 12, Course Book p.97; Workbook, Lesson 4 "Interviews", p.121 (as filed in libya.md, under the banner above) |
+| A full job-interview dialogue; the text "Tips for interviews"; ordering the job-seeking strategy steps | Laos, Book Seven (Grade 12), Unit 10, Lesson 3, pp.138–142 |
+| Job interviews as a speaking unit: useful phrases for buying thinking time, interview etiquette and body language, 20 sample interview questions, pair interview practice | Armenia, English 11, §1.8 Speaking, pp.28–30 |
+
+**Acceptance count: taught in 5 countries (Cambodia,
+Egypt, Libya, Laos, Armenia).** Cambodia prepares and
+practises the interview inside its job-seeking arc;
+Egypt names and states the STAR method whole; Libya
+works the interview's questions from behind, as reported
+questions; Laos dialogues the interview and prints its
+tips; Armenia drills etiquette, thinking-time phrases
+and pair practice. The plan's Iraq STAR anchor could not
+be confirmed in the Iraq filing — no STAR teaching was
+found there — so Iraq is not counted here.

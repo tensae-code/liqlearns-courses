@@ -298,6 +298,22 @@ and grade strength with too/enough/so/such.*
   stative-verbs ✅ · too-enough-so-such ✅ (catch-up build
   2026-11-07 — 4 lessons, 68 question items)
 
+## Level 34 — Letters That Work
+*End of level: the learner can write the formal letters real
+life asks for — business, application, complaint, enquiry,
+advice, and letters to editors and authorities.*
+- the-formal-letter ✅ · job-application-letters ✅ ·
+  complaint-letters ✅ · letters-that-ask-and-advise ✅
+  (catch-up build 2026-11-07 — 4 lessons, 80 question items)
+
+## Level 35 — Writing for a Job
+*End of level: the learner can build a CV with its cover
+letter, write a personal statement or proposal, and prepare
+for a job interview.*
+- cv-and-cover-letter ✅ · personal-statements-and-proposals
+  ✅ · job-interviews ✅ (catch-up build 2026-11-07 —
+  3 lessons, 60 question items)
+
 ## After Level 18
 The ladder keeps climbing — longer essays and the Story → Novel
 titles. Later blocks get their own level numbers here, in this

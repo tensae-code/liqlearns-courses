@@ -1,0 +1,65 @@
+# Sources — CV and cover letter
+
+countries: Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia
+
+Every part traces to its book and page.
+
+**Book 1:** Emar English Series 12, Student's Book,
+Literary Section (Grade 12) — Syria, Ministry of
+Education. Filed in english/books/syria.md (FULLY READ +
+CITATION CHECK PASSED 2026-11-03).
+
+**Book 2:** ENGLISH Grade 12 (student's book) — Cambodia,
+MoEYS / KIZUNA with ACE, first printing 2023. Filed in
+english/books/cambodia.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03).
+
+**Book 3:** English, Secondary 10 Term 1 (Student's Book)
+— Egypt, Ministry of Education. Filed in
+english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26; the
+formal citation check for the pre-law Egypt reads is
+still owed).
+
+**Book 4:** English Class 10 (student's book) — Nepal,
+Government of Nepal, Ministry of Education, Curriculum
+Development Centre. Filed in english/books/nepal.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+
+**Book 5:** Hornbill, Textbook in English for Class XI —
+India, NCERT, ISBN 81-7450-524-5. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK
+PASSED 2026-10-26).
+
+**Book 6:** English for Secondary Schools, Book Seven
+(Grade 12) — Laos, MoES/RIES. Filed in
+english/books/laos.md (read in full, as filed).
+
+**Book 7:** English 11 — Armenia, COAF, Yerevan 2025.
+Filed in english/books/armenia.md (FULLY READ + CITATION
+CHECK PASSED 2026-11-03).
+
+| Lesson part | Where it comes from |
+|---|---|
+| What a CV is (against the one-page resume) and nine steps for writing one — personal details, profile statement, achievements, education, employment, qualifications, skills, hobbies, references — ending with students writing and voting on CVs | Syria, Grade 12, Project 2 "Curriculum Vitae", pp.84–86 |
+| The job-seeking arc — adverts, application, interview — and Unit 30 whole: what a CV contains, a guide to writing one, four missing items found in a flawed CV, a CV written to match the cover letter already written; the cover letter coached paragraph by paragraph to a café advert | Cambodia, Grade 12, Unit 29 (adverts, as filed); Unit 30 "Applying for a job", printed pp.163–168 |
+| The CV defined and structured in six sections (personal information; personal statement/objective of 2–3 sentences; education reverse-chronological; work experience; skills; additional sections), its laws (1–2 pages, relevant only, updated) and action verbs; the model resume of the unit's Lesson 4 | Egypt, Secondary 10 Term 1, Unit 6, Lessons 4–5 (as filed in EGYPT-BOOK-MAP.md) |
+| A model CV printed whole as the unit's teaching object | Nepal, English Class 10, Unit 11 (the model CV, as filed — the book's honest negatives confirm its place) |
+| The CV format printed in full — name, address, telephone, email, date of birth, qualifications table, experience from the present backwards, skills, languages, hobbies, achievements, references — beside the model covering letter and its advert | India, Hornbill Class XI, Writing Skills 5, pp.107–115 |
+| A European-style CV read and answered; the pupil then creates their own CV | Laos, Book Seven (Grade 12), Unit 10, Lesson 1, pp.128–132 |
+| CV writing as techniques, formatting rules and proper order of sections; critical review of a sample high-school student's CV, checked true/false | Armenia, English 11, §1.7 Writing, pp.25–27 |
+
+**Acceptance count: taught in 7 countries (Syria,
+Cambodia, Egypt, Nepal, India, Laos, Armenia).** Syria
+steps the CV out in nine; Egypt sections it in six with
+its laws and verbs; India prints the format full;
+Cambodia matches CV and cover letter to one advert
+inside the whole chain; Nepal and Laos teach from a
+model read whole; Armenia rules the order and reviews a
+sample against it. The plan also named Vietnam (Grade 12
+Review 4) and Ethiopia (Grade 12) and South Sudan
+(Primary 7): no CV teaching for those anchors could be
+confirmed in their filings — Vietnam's and Ethiopia's
+filings show no CV unit at the named places, and South
+Sudan's letter-writing unit sits in its Primary 6 book
+(counted in Job application letters) — so none of the
+three is counted here.
