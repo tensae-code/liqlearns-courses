@@ -1,0 +1,8 @@
+# Hands-on — Article writing
+
+You do it, we guide you. Write for a real wall: the class magazine, the school board, a page a stranger will actually stop at.
+
+1. **Paragraph surgery (Malaysia's way).** Take a model article (a magazine page or the class reader's). Label every paragraph with its job in the margin — hook, point 1, point 2, turn, closing — the way Malaysia's Form 5 book analyses its model article by paragraph. An article whose paragraphs cannot be labelled has a body that wanders; note where.
+2. **Three hooks for one topic.** Choose your topic. Write THREE openings: one rhetorical question, one surprising true fact, one promise ('By the end of this page you will…'). Read all three to a companion; the one they ask to hear more of is your hook. The other two go in the bin without grief.
+3. **Write the article on the frame.** Build it on this TARGET frame — copy the parts, never translate them: **Headline** (topic + a reason to look) / **Hook** (one or two lines) / **Body** (three paragraphs, one point each, in a felt order) / **Closing line** (one sentence that lands). Kuwait's measure is 150–170 words; Vietnam's school articles run 120–180 — a first article at 150 words is complete.
+4. **The fact file.** For the same topic (or an animal, a place, a machine), build a fact file on Egypt's pattern: a title, four or five headed sections, short notes not sentences where notes serve better, one interesting fact per section, simple language, and a picture or the space for one. Test it: a companion asks three questions; the file must answer each from a different headed box.

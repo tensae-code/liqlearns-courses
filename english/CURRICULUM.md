@@ -340,6 +340,20 @@ a text down to notes and to a faithful summary.*
 - essay-kinds ✅ · note-making ✅ · summarising ✅ (catch-up
   build 2026-11-07 — 3 lessons, 60 question items)
 
+## Level 36 — Writing the Facts
+*End of level: the learner can write a report, a news story,
+instructions that work, and the paperwork of meetings.*
+- report-writing ✅ · news-writing ✅ · process-writing ✅ ·
+  forms-minutes-and-questionnaires ✅ (catch-up build
+  2026-11-07 — 4 lessons, 72 question items)
+
+## Level 37 — Writing Your View
+*End of level: the learner can review, blog, write articles,
+and make advertisements and posters.*
+- review-writing ✅ · blog-and-online-posts ✅ ·
+  article-writing ✅ · advertisements-and-posters ✅ (catch-up
+  build 2026-11-07 — 4 lessons, 72 question items)
+
 ## After Level 18
 The ladder keeps climbing — longer essays and the Story → Novel
 titles. Later blocks get their own level numbers here, in this
