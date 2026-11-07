@@ -1,6 +1,6 @@
 # Sources — Sequences and series
 
-countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan
+countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria
 
 Every part traces to its book and page.
 
@@ -117,6 +117,12 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 64:** *Mathematics, Class 12* (student book) — Pakistan (Punjab), PCTB, held in the eLearn.Punjab digital edition, version 1.1, English-medium; the held copy has no cover, imprint or contents pages, so no edition year or ISBN can be proved from it; pagination restarts at printed p. 1 in every chapter and its pages are cited by chapter. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 65:** *Mathematics, Pupil's Book, Grade 1, Semester 1* — Syria, Ministry of Education with the National Center for Curriculum Development (NCCD), held printing 2025–2026/1446H, first printed 2014–2015, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 66:** *Mathematics, Pupil's Book, Grade 4* — Syria, Ministry of Education with the National Center for Curriculum Development (NCCD), held printing 2025–2026/1446H, first printed 2014–2015, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 67:** *Mathematics, Part One, Grade 12 (Scientific track)* — Syria, Ministry of Education (the NCCD is not named on this book's title page), held printing 2025–2026/1447H, first printed 2016–2017, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Arithmetic sequence: common difference d; general term aₙ = a₁ + (n−1)d; middle-term (arithmetic mean) formula; sum of the first n terms Sₙ = (a₁+aₙ)/2 · n with a pairing proof, and the 2a₁+(n−1)d form; applied problems (concert-hall seating, population growth, tomato harvest, well-drilling cost) | Kazakhstan, Algebra 9 (Yelemessov, English), §3.2 Arithmetic sequence, p.84; applied problems p.94 |
@@ -193,8 +199,12 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 | The limit of a sequence; convergent and divergent sequences, including oscillation as in (−1)ⁿ | Pakistan (Punjab), Class 11 Mathematics (PECTAA), Unit 12, printed pp. 224–225 |
 | The summation sign Σ and the product sign Π, with interval, square and root notation | Pakistan (Punjab), Statistics Class 11 (PCTB, 2017), Ch. 1, printed p. 5 |
 | Maclaurin series — the expansions of 1/(1 + x), sin x, aˣ, eˣ and the binomial series for (1 + x)ⁿ; Taylor series (printed “TAILOR SERIES”) with numerical uses such as sin 31° ≈ 0.5150 | Pakistan (Punjab), Class 12 Mathematics (PCTB, eLearn.Punjab v1.1), Ch. 2, printed pp. 74–81 |
+| Two-element repeating patterns: recognise an AB pattern in colours, shapes and movements, complete it by colouring, find its missing element, and build your own two-colour pattern; three-element repeating patterns the same way (ABC); joining numbered dots in counting order 1–9 to complete a picture | Syria, Grade 1, Semester 1 pupil's book, printed pp. 3–6, 22 |
+| Solving problems by finding a pattern: stating the rule of a number pattern (add 2, add 3, add 4, …) and continuing it; counting rectangles in tiling models (1, 3, 6, 10, 15) as a growing pattern, in problem solving | Syria, Grade 4 pupil's book, printed pp. 14–15, 120–122 |
+| A sequence defined as a function on a subset of ℕ (terms u_n, index n₀, notation (u_n)) — by an explicit formula u_n = f(n) and by recurrence (a recurrence relation with first term(s) given); monotonicity vocabulary: strictly increasing, strictly decreasing, increasing, decreasing, constant — a sequence satisfying one of these is monotone (مطردة); arithmetic sequence: u_{n+1} = u_n + r with common difference (الأساس) r, general term u_n = u_p + (n−p)r, and the sum of n consecutive terms = n × (first + last)/2; geometric sequence: u_{n+1} = q·u_n with common ratio q, general term u_n = u_p·q^{n−p}, and the sum of n consecutive terms a(q^n − 1)/(q − 1) for q ≠ 1; a 'useful identity': a^n − b^n = (a − b)(a^{n−1} + a^{n−2}b + … + b^{n−1}); three methods for studying monotonicity (جهة اطراد): the sign of u_{n+1} − u_n, the monotonicity of f where u_n = f(n), and comparing u_{n+1}/u_n with 1 for positive-term sequences; recurrence sequences solved in general — the arithmetico-geometric v_{n+1} = av_n + b by its fixed point ℓ (then v_n − ℓ is geometric), and a second-order linear recurrence split into two geometric auxiliary sequences; the cobweb picture for a recurrence u_{n+1} = f(u_n), bouncing between the graph of f and the line y = x | Syria, Grade 12 Scientific, Part One, printed pp. 7–11, 16–17, 121 |
+| The limit of a sequence (Definitions 1–3): u_n → ℓ iff every open interval centred at ℓ contains all terms from some rank on; the limit of a geometric sequence (Theorem 1): qⁿ → 0 when −1 < q < 1, qⁿ → +∞ when q > 1, no limit when q ≤ −1; finding the rank from which terms stay in a target interval (for u_n = (3n − 1)/(n + 1) → 3, |u_n − 3| = 4/(n + 1) < 0.01 exactly when n > 399, so from rank 400 all terms lie in ]2.99, 3.01[); operations and comparison for sequence limits, the squeeze theorem for sequences, and |u_n − ℓ| ≤ v_n with v_n → 0 forcing u_n → ℓ; the limit of a convergent recurrence u_{n+1} = f(u_n) is a fixed point of f (f continuous at ℓ); bounded sequences; monotone convergence (Theorems 7–8): an increasing sequence bounded above converges to its least upper bound; the standard method assembled (u_{n+1} = √(u_n + 1) is increasing and bounded above by 2, hence converges, and its limit solves ℓ = √(ℓ + 1), giving ℓ = (1 + √5)/2); adjacent sequences (متتاليتان متجاورتان) — one increasing, one decreasing, difference tending to 0 — converge to a common limit (Theorem 9); bracketing √2 by adjacent sequences (1.4140625 < √2 < 1.4145508) and bracketing e by sequences from the ln(1 + x) inequalities, their convergence speeds compared | Syria, Grade 12 Scientific, Part One, printed pp. 101–121, 190 |
 
-**Acceptance count: taught in 19 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan).**.** Kazakhstan carries
+**Acceptance count: taught in 20 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria).**.** Kazakhstan carries
 the fullest treatment — all four Grade 9 Algebra books prove
 the nth-term formulas, the characteristic properties, both
 sum formulas and the infinite geometric sum, with applied
@@ -217,3 +227,5 @@ the infinite sum rests on Kazakhstan's theorem and Jordan. Laos carries sequence
 China carries sequences only in part: repeating and number patterns in Grade 1, pattern items in the Grade 6 review, and the triangular-number sum posed as an activity in Grade 9 — no sequences chapter exists in the held set, so China enters this lesson as a partial.
 
 Pakistan (Punjab) carries sequences from the Primer's patterns and the primary number patterns through Class 8's arithmetic and geometric nth terms to Class 11's full progressions and series and the Class 12 Maclaurin and Taylor series.
+
+Syria works repeating patterns from Grade 1 and pattern rules in Grade 4, then gives sequences their full analysis treatment in Grade 12 Part One: arithmetic and geometric sequences with their sums, monotonicity by three methods, recurrence sequences solved in general, and the complete limit theory — monotone convergence, adjacent sequences, and bracketing of √2 and e.

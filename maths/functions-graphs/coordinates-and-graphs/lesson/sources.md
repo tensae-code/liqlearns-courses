@@ -1,6 +1,6 @@
 # Sources — Coordinates and graphs
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan
+countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria
 
 Every part traces to its book and page.
 
@@ -139,6 +139,16 @@ textbook.
 
 **Book 86:** *A Textbook of Statistics for Class 12* (student book; Part II — Chapters 10–17, Chapters 1–9 being the Class 11 book) — Pakistan (Punjab), PCTB, Lahore, 1st edition, June 2016 (11th impression), English-medium; author Prof. Muhammad Rauf Chaudhary; no ISBN printed. Held copy: the appendix leaves printed pp. 301–306 are shuffled (all present); no row cites them. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 87:** *Mathematics, Pupil's Book, Grade 4* — Syria, Ministry of Education with the National Center for Curriculum Development (NCCD), held printing 2025–2026/1446H, first printed 2014–2015, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 88:** *Mathematics, Pupil's Book, Grade 5* — Syria, Ministry of Education with the National Center for Curriculum Development (NCCD), held printing 2025–2026/1446H, first printed 2016–2017, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 89:** *Mathematics, Pupil's Book, Grade 6* — Syria, Ministry of Education with the National Center for Curriculum Development (NCCD), held printing 2025–2026/1446H, first printed 2017–2018, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 90:** *Mathematics, Student's Book, Grade 7* — Syria, Ministry of Education with the National Center for Curriculum Development (NCCD), held printing 2021–2022/1442H, first printed 2013–2014, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 91:** *Mathematics — Algebra, Student's Book, Grade 9* — Syria, Ministry of Education, held printing 2025–2026/1446H, first printed 2017–2018, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The coordinate plane in all four quadrants with negative coordinates | Jordan, Grade 6 Term 1, Unit 4 "Transformations and geometric constructions", L1 The coordinate plane p.92 |
@@ -244,8 +254,13 @@ textbook.
 | Graphs of aˣ, eˣ, lg x and ln x; graphs of implicit relations (the circle, the ellipse) and of parametric curves; discontinuous graphs; the graphical solution of cos x = x | Pakistan (Punjab), Class 12 Mathematics (PCTB, eLearn.Punjab v1.1), Ch. 1, printed pp. 37–43 |
 | Coordinates, the distance formula, the section and mid-point formulas; the centroid and in-centre; slope and inclination, and every form of the straight line with proofs; the distance from a point to a line; the angle between two lines | Pakistan (Punjab), Class 12 Mathematics (PCTB, eLearn.Punjab v1.1), Ch. 4, printed pp. 2–48 |
 | Regression and correlation on the scatter diagram: the least squares line ŷ = a + bx through (x̄, ȳ), fitted by Theorem 14.1; Pearson's correlation coefficient r and its properties (−1 ≤ r ≤ 1); the two regression lines meeting at (x̄, ȳ); Spearman's rank correlation; correlation does not imply causation | Pakistan (Punjab), Statistics Class 12 (PCTB, 2016), Ch. 14, printed pp. 181–206; Ch. 15, printed pp. 236–237 |
+| The coordinate grid: a grid of horizontal and vertical lines with two axes; a point is located by an ordered pair of numbers | Syria, Grade 4 pupil's book, printed pp. 10–13 |
+| The coordinate grid: the origin is where the horizontal and vertical axes meet, and a point is located by an ordered pair; reading the coordinates of pictured points and plotting points at given coordinates; completing a parallelogram and a rectangle on a coordinate grid from given vertices; line graphs show data that changes over time, with time on the horizontal axis and the measured quantity on the vertical — drawn from a data table by plotting the points and joining them with straight segments, and read for the value at a given time and for the stretches where the graph rises, falls or stays level | Syria, Grade 5 pupil's book, printed pp. 3–9 |
+| Plotting ordered pairs on a coordinate grid and joining them in order to build a line graph | Syria, Grade 6 pupil's book, printed pp. 3–4 |
+| The coordinate plane (معلم المستوي): two perpendicular number lines — the horizontal axis of abscissae (Ox) and the vertical axis of ordinates (Oy) — meeting at the origin O; the two axes divide the plane into four quadrants; every point has two coordinates, its abscissa and its ordinate, written as an ordered pair (points in each quadrant, on each axis, and the origin (0, 0)); reading the coordinates of marked points and plotting points from a table, including points with rational coordinates | Syria, Grade 7 student's book, printed pp. 27–29, 32 |
+| A first-degree equation in two unknowns has infinitely many solution pairs; each pair is a point, and all its solution points lie on one line; the equation of a line stated as a theorem: the set of points M(x, y) whose coordinates satisfy ax + by = c, with (a, b) ≠ (0, 0), is a line (d), and every point of (d) satisfies the equation; plotting a line from two of its points (2x − y = 1 drawn through A(0, −1) and B(1, 1)); a line through the origin that is not parallel to the y-axis has an equation of the form y = mx; the graphical solution of a system — rewrite each equation as y in terms of x, draw both lines, and read the intersection point ({2x − y = 5, x + y = 4} drawn as y = 2x − 5 and y = −x + 4 meeting at (3, 1)) — and a graphically read solution must be verified in both equations, because a drawing can be imprecise | Syria, Grade 9 Algebra student's book, printed pp. 68–72 |
 
-**Acceptance count: taught in 22 countries (Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan).**.** South Africa carries the
+**Acceptance count: taught in 23 countries (Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria).**.** South Africa carries the
 plainest gradient teaching — gradient as change in y over
 change in x, with intercepts named, built from tables of
 ordered pairs. Egypt carries the slope rules (m = tan θ,
@@ -268,3 +283,5 @@ here. Laos carries coordinates and graphs from broken-line graphs in Grade 4, th
 China carries coordinates and graphs from Grade 3 direction work and Grade 7's Cartesian plane, through Grade 9's parabolas and hyperbolas, to vector-derived midpoint formulas and sine-curve sketching in the senior books.
 
 Pakistan (Punjab) carries coordinates and graphs from Class 7's Cartesian plane through Class 9's distance and mid-point formulas and Class 12's full analytic geometry to the statistics book's regression and correlation.
+
+Syria locates points by ordered pairs in Grades 4–6, with line graphs drawn from tables and read for rises and falls, formalises the plane, its axes and quadrants in Grade 7, and in Grade 9 Algebra makes the straight line itself the graph of ax + by = c — including the graphical solution of a system, always verified in both equations because a drawing can be imprecise.
