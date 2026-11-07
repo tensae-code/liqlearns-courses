@@ -1,0 +1,19 @@
+# The pigeonhole principle — matching
+
+Match each item on the left with the one that fits it on the right.
+
+**1. (Level 1)** Match: (a) the boxes, (b) the things, in the sock problem "pull socks until two match, from 3 colours".
+a) matches "the 3 colours"  b) matches "the socks you pull"
+**Answer:** a) the 3 colours — each colour is a box a sock can fall into; b) the socks you pull — they are the things being shared out.
+
+**2. (Level 2)** Match each sharing with its guarantee: (a) 7 into 3, (b) 13 into 12, (c) 30 into 9.
+a) some box holds at least 3  b) some box holds at least 2  c) some box holds at least 4
+**Answer:** (a) → at least 3 (7 ÷ 3 = 2 remainder 1); (b) → at least 2 (13 = 12 + 1); (c) → at least 4 (30 = 3·9 + 3).
+
+**3. (Level 2)** Match each country with the name its book uses: (a) China, (b) North Macedonia, (c) Kazakhstan.
+a) the drawer principle  b) Dirichlet's principle, a proof method in Theme 3  c) Dirichlet's principle, starred optional extra (§6.5*)
+**Answer:** (a) → the drawer principle; (b) → Dirichlet's principle as a proof method; (c) → Dirichlet's principle as a starred, optional extra.
+
+**4. (Level 3)** Match each count with its form: (a) 13 people, 12 months, (b) 25 people, 12 months, (c) 19 rabbits, 9 hutches.
+a) k = 1, n = 12  b) k = 2, n = 12  c) k = 2, n = 9
+**Answer:** (a) → k = 1, n = 12 (13 = 1·12 + 1); (b) → k = 2, n = 12 (25 = 2·12 + 1); (c) → k = 2, n = 9 (19 = 2·9 + 1).

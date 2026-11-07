@@ -218,6 +218,15 @@ integrate.*
 - barycentres ✅ — barycentres: balancing weighted points (Level 98, catch-up build)
 - quaternions ✅ — quaternions (Level 99, catch-up build)
 
+## Stage 13 — Logic and Proof
+*End of stage: the learner can handle mathematical statements,
+say exactly what follows from what, and prove general claims.*
+- mathematical-logic ✅ — propositions, connectives, truth tables, equivalence and quantifiers (Level 100, catch-up build 2026-11-06)
+- proof-methods ✅ — how mathematicians prove things: direct proof, contradiction, the contrapositive (Level 101, catch-up build)
+- mathematical-induction ✅ — proof by induction (Level 102, catch-up build)
+- pigeonhole-principle ✅ — the pigeonhole principle (Level 103, catch-up build)
+- problem-solving-strategies ✅ — named strategies for hard problems (Level 104, catch-up build)
+
 **LADDER TOTAL: 52 lessons across 12 stages — ALL BUILT 2026-11-05** (5 + 2 + 3 + 6 +
 4 + 5 + 4 + 4 + 5 + 3 + 4 + 7).
 
