@@ -1,6 +1,6 @@
 # Sources — Tessellations
 
-countries: Laos, Pakistan, Libya, Nepal, South Africa, Iraq, Malaysia, Rwanda, India, Venezuela
+countries: Laos, Pakistan, Libya, Nepal, South Africa, Iraq, Malaysia, Rwanda, India, Venezuela, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -23,6 +23,8 @@ Teacher-evidence note: Nepal's Grade 8 teacher guide contains a tessellation les
 **Book 13:** *Math-Magic Book 5 — Textbook in Mathematics for Class V* — India, NCERT, New Delhi, first edition March 2008, 2020-21 issue, ISBN 978-81-7450-828-7. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
 **Book 14:** *Hecho en Venezuela* — Venezuela, Grade 6 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-308-1. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 15:** *Matemática Para La Vida* — Venezuela, Grade 7 (1er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-322-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 16:** *Geometriya (Геометрия), Grade 7 student book* — Uzbekistan, Ministry of Public Education; A. Azamov, B. Haydarov, E. Sarikov, A. Kuchkarov, U. Sagdiev; Russian (Cyrillic); «Yangiyul poligraph service», Tashkent 2009, ISBN 978-9943-366-05-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -50,8 +52,9 @@ Teacher-evidence note: Nepal's Grade 8 teacher guide contains a tessellation les
 | Tiling — Tiling a floor with congruent regular pieces: equilateral triangles and squares tile the plane; the honeycomb read as a tessellation | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 160–162 |
 | Tiling test — Why regular pentagons cannot tile (108° does not divide 360°; three around a point give 324°, leaving a gap) and the general test: a regular polygon tiles only if its interior angle divides 360° exactly, as 60° does six times | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 165–167 |
 | Best tile — Equal-perimeter comparison behind the bees' choice: among regular polygons the hexagon encloses the most area for the same perimeter while still tiling | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 158–160 |
+| §11 Tangram puzzle (practical) | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 36 |
 
-**Acceptance count: taught in 10 countries (Laos, Pakistan, Libya, Nepal, South Africa, Iraq, Malaysia, Rwanda, India, Venezuela).**
+**Acceptance count: taught in 11 countries (Laos, Pakistan, Libya, Nepal, South Africa, Iraq, Malaysia, Rwanda, India, Venezuela, Uzbekistan).**
 
 Laos teaches tessellation as movement: Grade 5 combines translation with reflection to make tiling patterns, then translation with rotation — turning a tile about a point through 90° — and tessellates hexagons. Pakistan's Grade 7 book defines tessellation where polygons are studied (p.163). Nepal splits the topic across two student books: Grade 6 tessellates with triangles, rectangles and squares beside symmetry, and Grade 7 names the three kinds — regular, semi-regular and irregular. Libya returns to tessellation as enrichment in both Grade 8 and Grade 9, South Africa's workbooks drill the three tessellating shapes and add glide reflection, and Iraq's Grade 6 book teaches tessellation inside its geometry course.
 

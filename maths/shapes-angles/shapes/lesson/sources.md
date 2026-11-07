@@ -1,6 +1,6 @@
 # Sources — Shapes
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -328,6 +328,22 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 197:** *ریاضی, صنف ششم (Mathematics, Grade 6)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 198:** *ریاضی, صنف ۷ (Mathematics, Grade 7)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 199:** *ریاضی, صنف ۸ (Mathematics, Grade 8)* — Afghanistan, Ministry of Education, Kabul (Dari); the book disagrees with itself on the year — 1399 HS on the cover and title page, 1398 HS on the specifications page — and both printings are carried as filed; no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 200:** *Matematika (Математика), Grade 2 student book* — Uzbekistan, Ministry of Public Education; N. Abdurahmanova, L. Urinbaeva; Russian (Cyrillic); 3rd edition, «Yangiyo'l Poligraf Servis», Tashkent 2016, ISBN 978-9943-979-68-0. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 201:** *Matematika (Математика), Grade 3 student book* — Uzbekistan, Ministry of Public Education; S. Burxonov, U. Xudayarov, Q. Narqulova; Kazakh-medium edition (Cyrillic) — Uzbekistan's own Kazakh-language edition, published in Tashkent, not a Kazakhstan book; 3rd edition, «Sharq», Tashkent 2016, ISBN 978-9943-26-501-1. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 202:** *Matematika (Математика), Grade 5 student book* — Uzbekistan, Ministry of Public Education; M. A. Mirzaahmedov, A. A. Rahimkariev; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2007, ISBN 978-9943-07-047-9. The held scan lacks printed pp. 123 and 147; nothing is cited from them. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 203:** *Matematika (Математика), Grade 6 student book* — Uzbekistan, Ministry of Public Education; M. A. Mirzaahmedov, A. A. Rahimkariev; Russian (Cyrillic); 3rd edition, revised and supplemented, «O'qituvchi», Tashkent 2009, ISBN 978-9943-02-092-4. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 204:** *Geometriya (Геометрия), Grade 7 student book* — Uzbekistan, Ministry of Public Education; A. Azamov, B. Haydarov, E. Sarikov, A. Kuchkarov, U. Sagdiev; Russian (Cyrillic); «Yangiyul poligraph service», Tashkent 2009, ISBN 978-9943-366-05-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 205:** *Geometriya 7 — Metodik qo'llanma (teacher's methodological guide for the Grade 7 Geometriya course)* — Uzbekistan, Ministry of Public Education; A. Azamov, B. Haydarov, E. Sariqov, A. Qo'chqorov, U. Sag'diyev; Uzbek (Latin script); «Yangiyul poligraph service», Tashkent 2009, ISBN 978-9943-366-15-2. TEACHER GUIDE — guide evidence only: a true companion to the Grade 7 student book (its sample 68-lesson plan matches the student book's §§1–68 exactly); it never counts as, or substitutes for, a pupil's book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 206:** *Geometriya (Геометрия), Grade 8 student book* — Uzbekistan, Ministry of Public Education; A. A. Rahimkariev; Russian (Cyrillic); «Yangiyo'l Poligraph Service», Tashkent 2006; no ISBN is printed anywhere in the book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 207:** *Geometriya (Геометрия), Grade 9 student book* — Uzbekistan, Ministry of Public Education; B. Haydarov, E. Sarikov, A. Kuchkarov, ed. A. Azamov; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2006, ISBN 05-89890-136-1 (as printed). Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -741,8 +757,30 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Perpendicular bisector of a segment; the perpendicular bisectors of a triangle are concurrent | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 123–126 |
 | Altitudes of a triangle; medians of a triangle | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 127–130 |
 | Chapter key points and exercises (triangle theorems) | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 131–134 |
+| review: naming flat figures and counting their sides; counting triangles inside figures | Uzbekistan, Matematika, Grade 2 (Russian), printed pp. 4-6 |
+| rectangle defined: quadrilateral with all angles right; opposite sides equal; 4 vertices, angles, sides | Uzbekistan, Matematika, Grade 2 (Russian), printed p. 28 |
+| square defined: a rectangle with all sides equal; 4 vertices, angles, sides; drawing a square and its perimeter | Uzbekistan, Matematika, Grade 2 (Russian), printed p. 29 |
+| types of triangles by sides: equilateral, isosceles, scalene — definitions | Uzbekistan, Matematika, Grade 3 (Kazakh-medium), printed p. 82 |
+| Topic 20: rectangle (vertices, sides, bases/heights, opposite sides equal), square as an equal-sided rectangle | Uzbekistan, Matematika, Grade 5 (Russian), printed p. 73-74 |
+| Topic 19: triangle defined (three non-collinear points), notation △ABC, perimeter | Uzbekistan, Matematika, Grade 6 (Russian), printed p. 65 |
+| Topic 19: triangle inequality (each side less than the sum and greater than the difference of the other two), angle sum 180°, kinds by angles (acute, right, obtuse) and by sides (equilateral, isosceles with base and equal sides, scalene), perimeter | Uzbekistan, Matematika, Grade 6 (Russian), printed p. 66-68 |
+| §1 Geometry as a science; history Egypt/Babylon/Greece, Euclid's Elements, al-Khwarizmi, al-Farghani, Beruni, Ibn Sina | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 6 |
+| §1 Geometric figures; planimetry vs stereometry; brick as rectangular parallelepiped (8 vertices, 12 edges, 6 faces) | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 7 |
+| §1 Plane vs solid figures in pictures; al-Farghani and the Nilometer (history page) | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 8 |
+| §18 Broken line (ломаная): links, vertices, closed broken line; polygon = closed broken line without self-intersections | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 54 |
+| §18 Polygons named by number of vertices (triangle, quadrilateral, hexagon, n-gon); interior/exterior region; Samarkand girih patterns (history) | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 55 |
+| §19 Triangle defined; vertices, sides, angles as elements; notation ΔABC | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 57 |
+| §19 Types of triangles by sides (equilateral, isosceles) and by angles (right, acute, obtuse) | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 57 |
+| (TG) Dars 1 lesson plan: geometry as a science and its tasks (textbook §1), group work on textbook figures 5–7 and questions 8–9, homework ex. 4, 10, 7 (+11 for the able) | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 25 |
+| (TG) Dars 18 lesson plan: broken line and polygon (§18) taught on the "Geometriya-7" electronic textbook (eduportal.uz) with screenshots, plus a traditional-method version of the same lesson and a dictation; includes a definition-flaw discussion task (why "first and last points coincide" alone does not define a closed broken line) | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 52 |
+| (TG) Dars 19 lesson plan: triangle and its types (§19), with history notes (Nile land restoration, Pythagoras school, al-Khwarizmi, Beruni, Ibn Sina) and a Venn-diagram classification answer (equilateral ⊂ isosceles; acute/right/obtuse disjoint) | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 59 |
+| (TG) Ch. IV §4.1 Enrichment essay 1: history of geometry (Egypt, Herodotus and Eudemus quotes, Thales, Hippocrates, Euclid, Lobachevsky, Riemann, Central Asian scholars) | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 135 |
+| §1 Тема 1 Polygons: simple/closed broken lines; polygon = simple closed broken line + interior; vertices, sides, perimeter; adjacent vertices and diagonals | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 3 |
+| §1 Тема 1 Convex vs non-convex polygons defined (lying on one side of each side-line) | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 4 |
+| §1 History: Beruni's classification of quadrilaterals (square, rectangle, rhombus, rhomboid) and word origins (quadratus, rhombus, trapezion, parallelogram) | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 31 |
+| Lesson 41 regular polygons defined; each angle of a regular n-gon = (n − 2)/n · 180° (proved); all diagonals of a regular pentagon are equal | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 94–95 |
 
-**Acceptance count: taught in 35 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
+**Acceptance count: taught in 36 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
 — polygons, triangles two ways, then the parallelogram family
 with its special cases. Egypt carries polygons by vertices in
 Grade 3 and the triangle/trapezium/kite sorting in Grade 5.

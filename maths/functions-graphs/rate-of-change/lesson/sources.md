@@ -1,6 +1,6 @@
 # Sources — Rate of Change
 
-countries: Sudan, India, Mongolia, Venezuela, Afghanistan
+countries: Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -11,6 +11,8 @@ Every part traces to its book and page.
 **Book 5:** *Conciencia Matemática* — Venezuela, Grade 8 (2do año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-320-3. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 6:** *La Matemática de la Belleza* — Venezuela, Grade 9 (3er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-329-6. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 7:** *ریاضی صنف ۱۲ (Mathematics, Grade 12)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Held complete through printed p. 280; a final printed p. 281 may exist beyond the held copy, and nothing is cited from it. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 8:** *Algebra (Алгебра), Grade 9 student book* — Uzbekistan, Ministry of Public Education; Sh. A. Alimov, A. R. Halmuhamedov, M. A. Mirzaahmedov; Russian (Cyrillic); «O'qituvchi», Tashkent 2006, ISBN 5-645-04565-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -32,8 +34,9 @@ Every part traces to its book and page.
 | Average rate of change — VPT = (f(b) − f(a)) ÷ (b − a): cryotherapy (38,5 − 39) ÷ 25 = −0,02 °C/min, and −0,03 °C/min between minutes 5 and 15; the rate is the slope of the secant | Venezuela, La Matemática de la Belleza (Grade 9), printed pp. 141–143 |
 
 | Average rate of change; average velocity | Afghanistan, Mathematics Grade 12 (Dari), printed p. 46 |
+| §15 increasing and decreasing functions: formal definitions; y = x^r increases on x ≥ 0 for r > 0, decreases on x > 0 for r < 0 (proved) | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 82–83 |
 
-**Acceptance count: taught in 5 countries (Sudan, India, Mongolia, Venezuela, Afghanistan).** Sudan's Grade 8 book teaches rate of change as a complete pre-calculus topic in its ratio-and-rate unit (the lesson runs printed pp. 52–55, with the constant-rate lesson closing at printed p. 58): defined from a growing school's admissions, worked on a child's height growth, signed for falling quantities, and tested for constancy in tables. No other read country's filing gives the average rate of change a standalone treatment of its own — elsewhere it appears as the opening step of the derivatives lesson, where it also lives — so this lesson is built at the size of its one source, and the derivatives lesson carries Sudan's two Grade 12 treatments of the same doorway.
+**Acceptance count: taught in 6 countries (Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan).** Sudan's Grade 8 book teaches rate of change as a complete pre-calculus topic in its ratio-and-rate unit (the lesson runs printed pp. 52–55, with the constant-rate lesson closing at printed p. 58): defined from a growing school's admissions, worked on a child's height growth, signed for falling quantities, and tested for constancy in tables. No other read country's filing gives the average rate of change a standalone treatment of its own — elsewhere it appears as the opening step of the derivatives lesson, where it also lives — so this lesson is built at the size of its one source, and the derivatives lesson carries Sudan's two Grade 12 treatments of the same doorway.
 
 India enters rate of change from Mathematics Class 11–12: average and instantaneous rate; rate of change of a quantity y = f(x): dy/dx as (change in y)/(change in x); related-rates problems (area of circle, volume of cube, ripple circles, rectangle).
 

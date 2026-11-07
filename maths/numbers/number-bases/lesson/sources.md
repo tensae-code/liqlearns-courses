@@ -1,6 +1,6 @@
 # Sources — Number Bases
 
-countries: Sierra Leone, Laos, Bangladesh, Nepal, Pakistan, Malaysia, Sudan, Venezuela
+countries: Sierra Leone, Laos, Bangladesh, Nepal, Pakistan, Malaysia, Sudan, Venezuela, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -18,6 +18,8 @@ Every part traces to its book and page.
 **Book 10:** *Mathematics, Grade 7 (First Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2021, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 11:** *Hecho en Venezuela* — Venezuela, Grade 6 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-308-1. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 12:** *Matematika (Математика), Grade 5 student book* — Uzbekistan, Ministry of Public Education; M. A. Mirzaahmedov, A. A. Rahimkariev; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2007, ISBN 978-9943-07-047-9. The held scan lacks printed pp. 123 and 147; nothing is cited from them. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -51,7 +53,8 @@ Every part traces to its book and page.
 | Base five — The quinary system (base 5): digits 0–4, columns as powers of 5, five cards in a column exchange for one in the next; 17 = 32₅ | Venezuela, Hecho en Venezuela (Grade 6), printed p. 28 |
 | Decimal — The decimal system analysed against bases 2 and 5: ten digits, columns as powers of 10 from 10⁰, at most 9 per column, additive principle | Venezuela, Hecho en Venezuela (Grade 6), printed pp. 29–30 |
 | World systems — Maya numeral glyphs shown; Inca quipu as a positional decimal knotted-cord register (a worked three-addend sum) | Venezuela, Hecho en Venezuela (Grade 6), printed pp. 32–33 |
-**Acceptance count: taught in 8 countries (Sierra Leone, Laos, Bangladesh, Nepal, Pakistan, Malaysia, Sudan, Venezuela).** Sierra Leone carries the fullest bases course: JSS 3 opens base 2 and compares in it, and SSS 1 runs the complete course — expansion, repeated division, all four operations in non-decimal bases, and equations with an unknown digit or base. Laos carries bases inside one Grade 6 lesson that starts from base-ten expanded form and reaches a general base a, with arithmetic in bases 2, 3, 4, 5 and 7. Bangladesh carries binary twice — as a story in Class 7 and as a full system with the radix point and complements in Class 8. Nepal carries binary and base 5 across Grades 7 and 8, with the 2⁸…2⁰ place-value table. Pakistan carries the computer side only: binary, octal and hexadecimal place values and the 0–16 conversion table in its Class 12 Statistics book.
+| History: positional systems base 20 (Maya), base 60 (Babylon), binary in computers | Uzbekistan, Matematika, Grade 5 (Russian), printed p. 24 |
+**Acceptance count: taught in 9 countries (Sierra Leone, Laos, Bangladesh, Nepal, Pakistan, Malaysia, Sudan, Venezuela, Uzbekistan).** Sierra Leone carries the fullest bases course: JSS 3 opens base 2 and compares in it, and SSS 1 runs the complete course — expansion, repeated division, all four operations in non-decimal bases, and equations with an unknown digit or base. Laos carries bases inside one Grade 6 lesson that starts from base-ten expanded form and reaches a general base a, with arithmetic in bases 2, 3, 4, 5 and 7. Bangladesh carries binary twice — as a story in Class 7 and as a full system with the radix point and complements in Class 8. Nepal carries binary and base 5 across Grades 7 and 8, with the 2⁸…2⁰ place-value table. Pakistan carries the computer side only: binary, octal and hexadecimal place values and the 0–16 conversion table in its Class 12 Statistics book.
 
 Malaysia teaches number bases whole in Form 4 as a chapter of its own — representation by bundling, conversion both ways, the binary–octal shortcut by grouping digits in threes, and addition and subtraction carried out inside the base.
 

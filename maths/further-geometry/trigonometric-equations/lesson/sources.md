@@ -1,6 +1,6 @@
 # Sources — Trigonometric equations
 
-countries: Nicaragua, Laos, Armenia, Libya, Yemen, Kuwait, Cambodia, Vietnam, South Sudan, China, Malaysia, Rwanda, India, Venezuela, North Macedonia, Afghanistan
+countries: Nicaragua, Laos, Armenia, Libya, Yemen, Kuwait, Cambodia, Vietnam, South Sudan, China, Malaysia, Rwanda, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -29,6 +29,8 @@ Every part traces to its book and page.
 **Book 20:** *МАТЕМАТИКА ЗА III ГОДИНА НА РЕФОРМИРАНОТО ГИМНАЗИСКО ОБРАЗОВАНИЕ* (Mathematics for the third year of the reformed gymnasium education) — North Macedonia, Јорданка Митевска, Иван Трајков и Лилјана Грибовска-Поповиќ (Jordanka Mitevska, Ivan Trajkov & Liljana Gribovska-Popovik), Просветно дело АД, Skopje, II издание (second edition), 2018 printing (its CIP block carries the 2003 first-edition record, ISBN 9989-0-0343-0). Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 21:** *АЛГЕБРА ЗА ТРЕТА ГОДИНА НА РЕФОРМИРАНОТО ГИМНАЗИСКО ОБРАЗОВАНИЕ (ИЗБОРЕН ПРЕДМЕТ)* (Algebra for the third year of the reformed gymnasium education — elective subject) — North Macedonia, Глигор Тренчевски, Костадин Тренчевски, Билјана Крстеска и Снежана Здравеска (Gligor Trenchevski, Kostadin Trenchevski, Biljana Krsteska & Snezana Zdraveska), Просветно дело АД, IV издание (fourth edition); CIP record Skopje 2005, approval № 11-3867/1 of 15.07.2004, ISBN 9989-0-0387-4. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 22:** *ریاضی صنف ۱۱ (Mathematics, Grade 11)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 23:** *Algebra (Алгебра), Grade 9 student book* — Uzbekistan, Ministry of Public Education; Sh. A. Alimov, A. R. Halmuhamedov, M. A. Mirzaahmedov; Russian (Cyrillic); «O'qituvchi», Tashkent 2006, ISBN 5-645-04565-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -66,8 +68,9 @@ Every part traces to its book and page.
 | Quadratic trig equations, incl. the form a·sin²x + b·sinx·cosx + c·cos²x = d | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 77–80 |
 | Systems of two-unknown trig equations: six types with solvability conditions | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 81–90 |
 | Chapter key points and exercises | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 91–94 |
+| §21 simplest trigonometric equations on the circle: sin t = 0 (t = πk), cos t = 0 (t = π/2 + πk), sin t = 1, cos t = 1, with k ∈ Z notation | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 116–117 |
 
-**Acceptance count: taught in 16 countries (Nicaragua, Laos, Armenia, Libya, Yemen, Kuwait, Cambodia, Vietnam, South Sudan, China, Malaysia, Rwanda, India, Venezuela, North Macedonia, Afghanistan).** Nicaragua carries the general-solution method in its student book and the single-ratio rule with the easiest worked examples in its module. Laos carries equations and, uniquely in this lesson, a fully worked unit-circle inequality in consecutive lessons. Armenia carries the simplest equations and then names the main solving methods. Libya carries simple equations in Grade 11 and the a·cosθ ± b·sinθ equation form in Grade 12. Yemen gives equations their own lesson in Grade 11 Science. Kuwait solves equations in both its Grade 10 and Grade 11 Term 2 books. Cambodia solves the four basic forms in Grade 11 Basic and continues to equations and inequalities in Grade 11 Advanced. Vietnam teaches the basic equations in Bài 4. South Sudan solves equations graphically and arithmetically, including quadratic-shaped ones, in Secondary 4 Additional Mathematics. China solves from the trig lines and graphs in its B-edition Volume 3. North Macedonia enters from its main set — the Grade 12 Mathematics book (2018) and the Grade 12 Algebra elective.
+**Acceptance count: taught in 17 countries (Nicaragua, Laos, Armenia, Libya, Yemen, Kuwait, Cambodia, Vietnam, South Sudan, China, Malaysia, Rwanda, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan).** Nicaragua carries the general-solution method in its student book and the single-ratio rule with the easiest worked examples in its module. Laos carries equations and, uniquely in this lesson, a fully worked unit-circle inequality in consecutive lessons. Armenia carries the simplest equations and then names the main solving methods. Libya carries simple equations in Grade 11 and the a·cosθ ± b·sinθ equation form in Grade 12. Yemen gives equations their own lesson in Grade 11 Science. Kuwait solves equations in both its Grade 10 and Grade 11 Term 2 books. Cambodia solves the four basic forms in Grade 11 Basic and continues to equations and inequalities in Grade 11 Advanced. Vietnam teaches the basic equations in Bài 4. South Sudan solves equations graphically and arithmetically, including quadratic-shaped ones, in Secondary 4 Additional Mathematics. China solves from the trig lines and graphs in its B-edition Volume 3. North Macedonia enters from its main set — the Grade 12 Mathematics book (2018) and the Grade 12 Algebra elective.
 
 Malaysia solves its trigonometric equations inside the same Additional Mathematics Form 5 chapter that builds the identities — the equations are the identities put to work.
 

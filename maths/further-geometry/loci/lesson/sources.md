@@ -1,6 +1,6 @@
 # Sources — Loci: paths of moving points
 
-countries: Sierra Leone, Kazakhstan, Iran, Greece, Malaysia, Mongolia
+countries: Sierra Leone, Kazakhstan, Iran, Greece, Malaysia, Mongolia, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -13,6 +13,12 @@ Every part traces to its book and page.
 **Book 6:** *Mathematics Form 3* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-983-00-9651-3) and BM original *Matematik Tingkatan 3* (Pustaka Yakin Pelajar Sdn. Bhd., 2018, ISBN 978-967-490-042-7). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 7:** *Additional Mathematics Form 4* (KSSM pupil's textbook) — Malaysia, Ministry of Education Malaysia. One work in two language editions with identical pagination, cited once: DLP English edition (Penerbitan Pelangi Sdn. Bhd., 2019, ISBN 978-967-2375-42-5 — the held copy is an image-only scan read visually; its contents pages, printed v–vi, are missing, the body is complete) and BM original *Matematik Tambahan Tingkatan 4* (Pan Asia Publications Sdn. Bhd., 2019, ISBN 978-967-466-377-3). Filed in maths/books/malaysia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 8:** *Математик X (Mathematics, Grade 10)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 9:** *Geometriya (Геометрия), Grade 7 student book* — Uzbekistan, Ministry of Public Education; A. Azamov, B. Haydarov, E. Sarikov, A. Kuchkarov, U. Sagdiev; Russian (Cyrillic); «Yangiyul poligraph service», Tashkent 2009, ISBN 978-9943-366-05-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 10:** *Geometriya 7 — Metodik qo'llanma (teacher's methodological guide for the Grade 7 Geometriya course)* — Uzbekistan, Ministry of Public Education; A. Azamov, B. Haydarov, E. Sariqov, A. Qo'chqorov, U. Sag'diyev; Uzbek (Latin script); «Yangiyul poligraph service», Tashkent 2009, ISBN 978-9943-366-15-2. TEACHER GUIDE — guide evidence only: a true companion to the Grade 7 student book (its sample 68-lesson plan matches the student book's §§1–68 exactly); it never counts as, or substitutes for, a pupil's book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 11:** *Geometriya (Геометрия), Grade 8 student book* — Uzbekistan, Ministry of Public Education; A. A. Rahimkariev; Russian (Cyrillic); «Yangiyo'l Poligraph Service», Tashkent 2006; no ISBN is printed anywhere in the book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -34,8 +40,15 @@ Every part traces to its book and page.
 | Equations of loci: constant distance from a fixed point gives a circle; a constant ratio of distances gives a circle (ratio 2 : 1 from S(1, 2) and T(4, −1) → x² + y² − 10x + 4y + 21 = 0); equal distances give the perpendicular bisector as an equation | Malaysia, Additional Mathematics Form 4, Ch. 7 §7.4, printed pp. 200–204 |
 | Definition — locus of points defined; horse tethered with a 12 m rope (grazing region) | Mongolia, Математик X (Grade 10), printed p. 100 |
 | Locus at fixed distance from a point is a circle; locus equidistant from two intersecting lines is both bisectors | Mongolia, Математик X (Grade 10), printed p. 100 |
+| §25 Perpendicular bisector of a segment defined; theorem: every point of it is equidistant from the segment's endpoints, proved via SAS | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 72 |
+| §25 Worked problem: perpendicular bisector meets AC at E, BE = 6 cm, AC = 8.4 cm, so CE = 6 cm and AE = 2.4 cm | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 72 |
+| §52 Theorem: every point of an angle's bisector is equidistant from the angle's sides, proved via the hypotenuse–angle test | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 126 |
+| §52 Worked problem on a bisector: angles 20° and 70°, whole angle 40°, reflex-type sum 140° | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 126 |
+| (TG) Dars 25–26 lesson plans: perpendicular bisector property (§25) and the practical measuring lesson (§26, lake width outdoors with rope, pegs and mallet) | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 72 |
+| (TG) Dars 52 lesson plan: angle-bisector equidistance property (§52) | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 114 |
+| §2 Тема 10 Shortest-path (gas-pipeline station) problem posed: minimise AC + CB for C on a line | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 33 |
 
-**Acceptance count: taught in 6 countries (Sierra Leone, Kazakhstan, Iran, Greece, Malaysia, Mongolia).**
+**Acceptance count: taught in 7 countries (Sierra Leone, Kazakhstan, Iran, Greece, Malaysia, Mongolia, Uzbekistan).**
 Sierra Leone carries the fullest course — five pupil-handbook lessons in SSS 2 Term 2 that construct the four standard loci one rule at a time and close with mixed practice. Kazakhstan carries the locus as named theory in Grade 7: Turapbekov's book defines it as a topic, and Smirnov's book gives geometric loci their own section immediately before its construction problems, which is the order this lesson follows. Iran carries the locus as a proving tool in Grade 12: its Geometry (3) book recalls the two bisector loci with proofs, proves the circle as a locus in both directions, and builds a catalogue of standard loci at the head of its conic-sections chapter — the same catalogue idea this lesson uses to close. Greece carries loci inside circle geometry in Grades 10–11: its Euclidean Geometry Volume A treats the basic loci in the circle — the arc subtending a known angle — in its inscribed-figures chapter, and uses loci in geometric constructions there.
 
 Malaysia teaches loci whole in Form 3 — all five standard loci constructed, then combined — and returns in Additional Mathematics Form 4 to write loci as equations, where the constant-ratio locus turns out to be a circle.

@@ -1,6 +1,6 @@
 # Sources — Coordinates and graphs
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan
+countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -187,6 +187,14 @@ textbook.
 **Book 119:** *ریاضی, صنف ۸ (Mathematics, Grade 8)* — Afghanistan, Ministry of Education, Kabul (Dari); the book disagrees with itself on the year — 1399 HS on the cover and title page, 1398 HS on the specifications page — and both printings are carried as filed; no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 120:** *ریاضی صنف دهم (Mathematics, Grade 10)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 121:** *Matematika (Математика), Grade 5 student book* — Uzbekistan, Ministry of Public Education; M. A. Mirzaahmedov, A. A. Rahimkariev; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2007, ISBN 978-9943-07-047-9. The held scan lacks printed pp. 123 and 147; nothing is cited from them. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 122:** *Matematika (Математика), Grade 6 student book* — Uzbekistan, Ministry of Public Education; M. A. Mirzaahmedov, A. A. Rahimkariev; Russian (Cyrillic); 3rd edition, revised and supplemented, «O'qituvchi», Tashkent 2009, ISBN 978-9943-02-092-4. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 123:** *Algebra (Алгебра), Grade 8 student book* — Uzbekistan, Ministry of Public Education; Sh. A. Alimov, A. R. Halmuhamedov, M. A. Mirzaahmedov; Russian (Cyrillic); «O'qituvchi», Tashkent 2006, ISBN 5-645-04563-7. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 124:** *Geometriya (Геометрия), Grade 8 student book* — Uzbekistan, Ministry of Public Education; A. A. Rahimkariev; Russian (Cyrillic); «Yangiyo'l Poligraph Service», Tashkent 2006; no ISBN is printed anywhere in the book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The coordinate plane in all four quadrants with negative coordinates | Jordan, Grade 6 Term 1, Unit 4 "Transformations and geometric constructions", L1 The coordinate plane p.92 |
@@ -362,8 +370,16 @@ textbook.
 
 | A point in the plane; coordinates of a point; the rectangular coordinate system | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 201–206 |
 | Ordered pairs and the Cartesian plane; quadrants | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 53–56 |
+| Topic 7: number (coordinate) ray, unit segment, coordinate of a point A(n), comparing numbers on the ray | Uzbekistan, Matematika, Grade 5 (Russian), printed p. 20-21 |
+| Topic 33: the coordinate (number) line — origin, direction, unit segment; coordinate of a point, plotting points, shifts along the line | Uzbekistan, Matematika, Grade 6 (Russian), printed p. 127-130 |
+| Topic 45: coordinate plane — Cartesian system, abscissa and ordinate, A(x; y), four quadrants and their sign patterns, points on the axes | Uzbekistan, Matematika, Grade 6 (Russian), printed p. 163-164 |
+| §1 rectangular (Cartesian) coordinate system on the plane: axes, origin, quadrants | Uzbekistan, Algebra, Grade 8 (Russian), printed p. 7 |
+| §1 coordinates of a point: abscissa and ordinate, plotting and reading points | Uzbekistan, Algebra, Grade 8 (Russian), printed pp. 8–10 |
+| René Descartes (1596–1650) and the rectangular coordinate system | Uzbekistan, Algebra, Grade 8 (Russian), printed p. 7 |
+| §4 intersections of a linear graph with the coordinate axes; constant function y = b | Uzbekistan, Algebra, Grade 8 (Russian), printed pp. 23–25 |
+| §2 Тема 12 Coordinate exercises on symmetry: point symmetric to (−2; −4) about the origin is (2; 4); symmetry about the coordinate axes | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 44 |
 
-**Acceptance count: taught in 31 countries (Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan).**.** South Africa carries the
+**Acceptance count: taught in 32 countries (Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan).**.** South Africa carries the
 plainest gradient teaching — gradient as change in y over
 change in x, with intercepts named, built from tables of
 ordered pairs. Egypt carries the slope rules (m = tan θ,

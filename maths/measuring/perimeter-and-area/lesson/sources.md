@@ -1,6 +1,6 @@
 # Sources — Perimeter and Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -345,6 +345,20 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 172:** *ریاضی, صنف ششم (Mathematics, Grade 6)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 173:** *ریاضی صنف دهم (Mathematics, Grade 10)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 174:** *Matematika (Математика), Grade 2 student book* — Uzbekistan, Ministry of Public Education; N. Abdurahmanova, L. Urinbaeva; Russian (Cyrillic); 3rd edition, «Yangiyo'l Poligraf Servis», Tashkent 2016, ISBN 978-9943-979-68-0. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 175:** *Matematika (Математика), Grade 3 student book* — Uzbekistan, Ministry of Public Education; S. Burxonov, U. Xudayarov, Q. Narqulova; Kazakh-medium edition (Cyrillic) — Uzbekistan's own Kazakh-language edition, published in Tashkent, not a Kazakhstan book; 3rd edition, «Sharq», Tashkent 2016, ISBN 978-9943-26-501-1. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 176:** *Matematika (Математика), Grade 5 student book* — Uzbekistan, Ministry of Public Education; M. A. Mirzaahmedov, A. A. Rahimkariev; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2007, ISBN 978-9943-07-047-9. The held scan lacks printed pp. 123 and 147; nothing is cited from them. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 177:** *Geometriya (Геометрия), Grade 7 student book* — Uzbekistan, Ministry of Public Education; A. Azamov, B. Haydarov, E. Sarikov, A. Kuchkarov, U. Sagdiev; Russian (Cyrillic); «Yangiyul poligraph service», Tashkent 2009, ISBN 978-9943-366-05-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 178:** *Geometriya (Геометрия), Grade 8 student book* — Uzbekistan, Ministry of Public Education; A. A. Rahimkariev; Russian (Cyrillic); «Yangiyo'l Poligraph Service», Tashkent 2006; no ISBN is printed anywhere in the book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 179:** *Algebra (Алгебра), Grade 9 student book* — Uzbekistan, Ministry of Public Education; Sh. A. Alimov, A. R. Halmuhamedov, M. A. Mirzaahmedov; Russian (Cyrillic); «O'qituvchi», Tashkent 2006, ISBN 5-645-04565-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 180:** *Geometriya (Геометрия), Grade 9 student book* — Uzbekistan, Ministry of Public Education; B. Haydarov, E. Sarikov, A. Kuchkarov, ed. A. Azamov; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2006, ISBN 05-89890-136-1 (as printed). Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Perimeter (p.92); area (p.94); area of a rectangle (p.96) | Jordan, Grade 3 Student Book Term 2, Unit 11, L5–L7, pp.92–96 |
@@ -646,8 +660,38 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Area of a circular segment | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 254–256 |
 | Area of a triangle from two sides and the included angle | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 257–258 |
 | Area of a triangle from three sides (Heron's formula) | Afghanistan, Mathematics Grade 10 (Dari), printed p. 262 |
+| perimeter of a polygon as the sum of all its sides; finding perimeters The book's worked example on p. 13 misnames its figure a rectangle (its sides 8, 3, 6, 2 cm are not a rectangle's); the perimeter sum 8+3+6+2 = 19 cm is correct and is what is taught. | Uzbekistan, Matematika, Grade 2 (Russian), printed pp. 13-14 |
+| area of figures: comparing areas by eye and by fitting one inside another; area as a measurable quantity; counting unit squares | Uzbekistan, Matematika, Grade 2 (Russian), printed pp. 183-184 |
+| square centimetre: the area of a 1 cm square; writing areas as кв. см; area = number of square centimetres filling the figure | Uzbekistan, Matematika, Grade 2 (Russian), printed pp. 188-190 |
+| area of a rectangle = length × width (4 cm × 3 cm = 12 sq cm) | Uzbekistan, Matematika, Grade 2 (Russian), printed p. 196 |
+| rectangle perimeter and area from letter sides: (a+b)·2 = 14 cm for a=4, b=3; area a·b | Uzbekistan, Matematika, Grade 3 (Kazakh-medium), printed pp. 30-33 |
+| square decimetre: the area of a 1 dm square; 1 sq dm = 100 sq cm | Uzbekistan, Matematika, Grade 3 (Kazakh-medium), printed pp. 183-184 |
+| comparing areas by counting grid squares; comparing sq dm and sq cm | Uzbekistan, Matematika, Grade 3 (Kazakh-medium), printed pp. 185-187 |
+| Revision: perimeter of square and rectangle | Uzbekistan, Matematika, Grade 5 (Russian), printed p. 4 |
+| Topic 20: perimeter of rectangle P = 2(a + b) and of square P = 4a | Uzbekistan, Matematika, Grade 5 (Russian), printed p. 73-76 |
+| Topic 22: area of rectangle S = a · h by counting unit squares; area of square S = a²; equal-perimeter square vs rectangle comparison | Uzbekistan, Matematika, Grade 5 (Russian), printed p. 80-83 |
+| §19 Perimeter of a triangle P = AB + BC + AC; worked problem: isosceles, P = 28 cm, base 4 cm more than a leg, sides 8, 8, 12 cm | Uzbekistan, Geometriya, Grade 7 (Russian), printed pp. 57 (formula), 58 (worked problem — page corrected at citation check) |
+| §4 Тема 19 Concept of area; simple (triangulable) figures; Area axioms 1 (congruent triangles have equal areas) and 2 (area adds over parts); equidecomposable (равносоставленные) and equal-area (равновеликие) polygons; equal-area polygons are equidecomposable (stated) | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 66 |
+| §4 Тема 20 Measuring area by unit squares; Area axiom 3 (unit square has area 1); units mm², cm², dm², m², km², are, hectare; Theorem: area of a square = a² (general proof omitted as beyond school course, stated honestly) | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 69 |
+| §4 Тема 21 Area of a rectangle S = a·b, proved geometrically from (a+b)² = a² + 2ab + b² dissection | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 70 |
+| §4 Тема 22 Area of a triangle S = ½·a·h, proved by completing to a rectangle; also S = (a/2)·h via the midline; corollaries: right-triangle area = half product of legs; areas ratio = ratio of base×height products | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 73 |
+| §4 Тема 23 Area of a trapezium S = ((a+b)/2)·h, proved by diagonal split; area of a parallelogram S = a·h (stated, proof analogous) | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 76 |
+| §4 Тема 23 Worked theorem-problem: isosceles trapezium with perpendicular diagonals has h = (a+b)/2 and S = h² = ((a+b)/2)² | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 77 |
+| §4 Тема 24 Area of a (convex) polygon by triangulation from one vertex; worked formula S(ABCDE) = 0.5(BD·CP + AE·OP) for the figure shown | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 79 |
+| §4 Тема 25 Problem solving: in a trapezium the diagonal triangles satisfy S1 = S3 = √(S2·S4) and S(trapezium) = (√S2 + √S4)², proved | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 81 |
+| §4 Тема 25 Area of a rhombus = half the product of its diagonals, S = ½·d1·d2, derived | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 82 |
+| §5 Тема 30 Heron's formula S = √(p(p−a)(p−b)(p−c)) derived from the altitude formula | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 95 |
+| §19 arc length l = αR and sector area S = (R²/2)α in radian measure (sector area proved) | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 107–108 |
+| §30 Task 5: segments cut off by parallels across an angle form an arithmetic progression (trapezoid midline) | Uzbekistan, Algebra, Grade 9 (Russian), printed p. 160 |
+| Lesson 30 area of a triangle S = ½·a·b·sin C (Th. 1, proved); area of a parallelogram S = ab sin α | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 70–71 |
+| Lesson 30 area of a quadrilateral = half the product of its diagonals times the sine of the angle between them (Th. 2, proved) | Uzbekistan, Geometriya, Grade 9 (Russian), printed p. 71 |
+| Lesson 45 circumference: measurement experiment (thread round a glass); theorem — C/(2R) is the same for every circle (inscribed-polygon argument, full proof deferred); the number π, Euler's notation, π irrational; C = 2πR Taught corrected: the worked task on p. 103 asks for the circle inscribed in an equilateral triangle of side 6 cm but solves with the circumradius, answering C = 4π√3 ≈ 21,73 cm; for the inscribed circle r = √3 and C = 2π√3 ≈ 10,86 cm. | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 102–103 |
+| Lesson 46 arc length l = πR·n°/180° | Uzbekistan, Geometriya, Grade 9 (Russian), printed p. 104 |
+| Lesson 47 area of a circle S = πR² (proved by squeezing between inscribed and circumscribed regular n-gons); the disk defined; circus-arena problem | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 106–107 |
+| Lesson 48 sector of a circle: S = πR²·n°/360; segment: sector minus/plus the triangle | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 108–109 |
+| Lesson 49 arbelos ("Archimedes' knife") area = π·CD²; yin–yang areas and perimeters; Hippocrates' lunes (sum of lunes = area of the triangle) | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 110–111 |
 
-**Acceptance count: taught in 35 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan).** Sierra Leone carries the cleanest Iran counts squares for area in Grade 3, derives the parallelogram and triangle areas in Grade 4, adds the rhombus and trapezium in Grade 5, and reaches polygon areas in Grade 10 Geometry (1) and Heron's formula in Grade 11 Geometry (2).
+**Acceptance count: taught in 36 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan).** Sierra Leone carries the cleanest Iran counts squares for area in Grade 3, derives the parallelogram and triangle areas in Grade 4, adds the rhombus and trapezium in Grade 5, and reaches polygon areas in Grade 10 Geometry (1) and Heron's formula in Grade 11 Geometry (2).
 ladder — perimeter short cuts, rectangle and triangle areas with
 the perpendicular-height rule, and the parallelogram, trapezium
 and composite areas in JSS 2. Jordan carries perimeter and area

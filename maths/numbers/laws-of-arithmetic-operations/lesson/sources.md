@@ -1,6 +1,6 @@
 # Sources — The Laws of Arithmetic Operations
 
-countries: Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan
+countries: Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -32,6 +32,14 @@ Every part traces to its book and page.
 **Book 21:** *ریاضی, صنف ۷ (Mathematics, Grade 7)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 On Malaysia in this lesson: Malaysia is the first country whose book names the four laws as one named set and drills choosing the fastest calculation order with them. The laws themselves appear inside other lessons of this course (the real-number-system lesson states them as part of its climb; the order-of-operations lesson rests on them); this lesson is the laws' own home, built from Malaysia's Form 1 treatment under the everything-goes-in ruling.
+
+**Book 22:** *Matematika (Математика), Grade 2 student book* — Uzbekistan, Ministry of Public Education; N. Abdurahmanova, L. Urinbaeva; Russian (Cyrillic); 3rd edition, «Yangiyo'l Poligraf Servis», Tashkent 2016, ISBN 978-9943-979-68-0. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 23:** *Matematika (Математика), Grade 3 student book* — Uzbekistan, Ministry of Public Education; S. Burxonov, U. Xudayarov, Q. Narqulova; Kazakh-medium edition (Cyrillic) — Uzbekistan's own Kazakh-language edition, published in Tashkent, not a Kazakhstan book; 3rd edition, «Sharq», Tashkent 2016, ISBN 978-9943-26-501-1. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 24:** *Matematika (Математика), Grade 5 student book* — Uzbekistan, Ministry of Public Education; M. A. Mirzaahmedov, A. A. Rahimkariev; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2007, ISBN 978-9943-07-047-9. The held scan lacks printed pp. 123 and 147; nothing is cited from them. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 25:** *Matematika (Математика), Grade 6 student book* — Uzbekistan, Ministry of Public Education; M. A. Mirzaahmedov, A. A. Rahimkariev; Russian (Cyrillic); 3rd edition, revised and supplemented, «O'qituvchi», Tashkent 2009, ISBN 978-9943-02-092-4. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -94,7 +102,27 @@ On Malaysia in this lesson: Malaysia is the first country whose book names the f
 
 | Properties of the operations on integers | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 90–91 |
 | Properties of the operations on rational numbers | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 105–110 |
-**Acceptance count: taught in 7 countries (Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan).** Malaysia's Form 1 book states the four laws in one section and applies them to efficient calculation; the other read countries use the laws inside their number work without naming the set, so this lesson is built at that honest size — one country's named treatment, not a merged one. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
+| convenient addition: pairing addends that make tens (worked samples) Taught corrected: the book's printed sample on p. 30 drops the 5 from the chain 1+2+…+9 and gives the total as 40; the chain as set totals 45. | Uzbekistan, Matematika, Grade 2 (Russian), printed p. 30 |
+| commutative property of multiplication: swapping the factors does not change the product | Uzbekistan, Matematika, Grade 2 (Russian), printed p. 122 |
+| review: grouping law of addition — addends may be regrouped and swapped (23+18+7 = (23+7)+18) | Uzbekistan, Matematika, Grade 3 (Kazakh-medium), printed pp. 7-8 |
+| review: subtracting a sum from a number (76-(24+18) = 76-42) | Uzbekistan, Matematika, Grade 3 (Kazakh-medium), printed p. 9 |
+| review: subtracting a difference from a number (18-(12-5) = 11, against 18-12-5 = 1) | Uzbekistan, Matematika, Grade 3 (Kazakh-medium), printed p. 10 |
+| review: commutative property of multiplication (3·8 = 8·3) | Uzbekistan, Matematika, Grade 3 (Kazakh-medium), printed p. 16 |
+| multiplying a sum by a number and a number by a sum, two ways: sum first, or each addend separately (distributive) | Uzbekistan, Matematika, Grade 3 (Kazakh-medium), printed p. 25 |
+| dividing a sum by a number, two ways: sum first, or each addend separately ((9+6):3 = 5) | Uzbekistan, Matematika, Grade 3 (Kazakh-medium), printed pp. 32-33 |
+| multiplying three or more factors: factors may be grouped with brackets in any order (2·3·4 = 24; 3·4·5 = 60) | Uzbekistan, Matematika, Grade 3 (Kazakh-medium), printed pp. 51-52 |
+| Topic 8: commutative law of addition m + n = n + m, adding zero | Uzbekistan, Matematika, Grade 5 (Russian), printed p. 26-27 |
+| Topic 9: associative law of addition (m + n) + k = m + (n + k), adding a number to a sum / a sum to a number, convenient grouping | Uzbekistan, Matematika, Grade 5 (Russian), printed p. 29-33 |
+| Topic 10: subtracting a sum from a number, subtracting a number from a sum, adding a number to a difference | Uzbekistan, Matematika, Grade 5 (Russian), printed p. 35-36 |
+| Topic 12: commutative law of multiplication m · n = n · m, multiplying by 1 and by 0 | Uzbekistan, Matematika, Grade 5 (Russian), printed p. 46 |
+| Topic 13: associative law of multiplication (m · n) · k = m · (n · k), useful pairs 2·5, 4·25, 8·125 | Uzbekistan, Matematika, Grade 5 (Russian), printed p. 49-51 |
+| Topic 16: basic property of the quotient — quotient unchanged when dividend and divisor are both multiplied/divided by the same number | Uzbekistan, Matematika, Grade 5 (Russian), printed p. 59 |
+| Topic 6: commutative and associative laws of addition for decimals, convenient grouping | Uzbekistan, Matematika, Grade 6 (Russian), printed p. 21-22 |
+| Topic 12: commutative, associative and distributive laws for decimal multiplication, expanding brackets and taking out a common factor, multiplying by 0,5 / 0,25 / 0,125 as dividing by 2 / 4 / 8 Taught corrected: the boxed rule printed on p. 47 states the ×0,5 / ×0,25 / ×0,125 rule backwards (multiply by 2 / 4 / 8); the book's own worked examples divide by 2 / 4 / 8, and that is what is taught. | Uzbekistan, Matematika, Grade 6 (Russian), printed p. 41-44 |
+| Topic 40: commutative, associative and distributive laws for integers, expanding brackets, taking out a common factor | Uzbekistan, Matematika, Grade 6 (Russian), printed p. 150-151 |
+| Topic 49: commutative and associative laws of addition for rational numbers, convenient grouping | Uzbekistan, Matematika, Grade 6 (Russian), printed p. 182-183 |
+| Topic 52: commutative, associative and distributive laws of multiplication for rational numbers | Uzbekistan, Matematika, Grade 6 (Russian), printed p. 191 |
+**Acceptance count: taught in 8 countries (Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan).** Malaysia's Form 1 book states the four laws in one section and applies them to efficient calculation; the other read countries use the laws inside their number work without naming the set, so this lesson is built at that honest size — one country's named treatment, not a merged one. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
 
 Sudan names the laws early and revisits them at every level: commutativity of addition shown with pictures in Grade 1, the distributive property and the relations between the four operations in Grade 3, the properties of addition and of multiplication in the integers in Grade 6 and again in Grade 7, and the full table on the reals in Grade 8 — closure, commutativity, associativity, identities, inverses, cancellation and distributivity checked system by system, with the book's condition-free cancellation corrected in the table above. Malaysia still carries the lesson's founding treatment; Sudan is its widest primary-to-secondary thread.
 

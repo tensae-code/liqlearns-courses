@@ -1,6 +1,6 @@
 # Sources — Constructing triangles and quadrilaterals
 
-countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan
+countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -23,6 +23,12 @@ Every part traces to its book and page.
 **Book 14:** *La Patria Buena* — Venezuela, Grade 5 student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, fourth edition, April 2014, ISBN 978-980-218-306-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 15:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 16:** *ریاضی, صنف ششم (Mathematics, Grade 6)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 17:** *Geometriya (Геометрия), Grade 7 student book* — Uzbekistan, Ministry of Public Education; A. Azamov, B. Haydarov, E. Sarikov, A. Kuchkarov, U. Sagdiev; Russian (Cyrillic); «Yangiyul poligraph service», Tashkent 2009, ISBN 978-9943-366-05-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 18:** *Geometriya (Геометрия), Grade 8 student book* — Uzbekistan, Ministry of Public Education; A. A. Rahimkariev; Russian (Cyrillic); «Yangiyo'l Poligraph Service», Tashkent 2006; no ISBN is printed anywhere in the book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 19:** *Geometriya (Геометрия), Grade 9 student book* — Uzbekistan, Ministry of Public Education; B. Haydarov, E. Sarikov, A. Kuchkarov, ed. A. Azamov; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2006, ISBN 05-89890-136-1 (as printed). Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -73,7 +79,19 @@ Every part traces to its book and page.
 | Constructing a triangle from two sides and the included angle | Afghanistan, Mathematics Grade 6 (Dari), printed p. 212 |
 | Constructing a triangle from two angles and a side | Afghanistan, Mathematics Grade 6 (Dari), printed p. 213 |
 | Constructing a right triangle from its hypotenuse and one leg | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 214–215 |
-**Acceptance count: taught in 11 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan).** North Macedonia enters from its main set — Grade 7 (2025).
+| §34 Constructing a triangle from three given sides (steps); the circles meet only if a + b > c (analysis) | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 90 |
+| §1 Тема 3 Quadrilateral defined; adjacent/opposite sides and vertices; diagonals; convex quadrilateral diagonals intersect, non-convex do not | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 10 |
+| §1 Тема 3 Trapezium defined (exactly one pair of opposite sides parallel — exclusive definition); bases, legs, height; isosceles and right trapezia | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 11 |
+| §1 Тема 3 Trapezium test: if angles adjacent to one side sum to 180° and angles adjacent to a neighbouring side do not, the quadrilateral is a trapezium (proved); corollary on right trapezium | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 12 |
+| §1 Тема 4 Isosceles trapezium: altitude from an obtuse vertex splits the larger base into (a−b)/2 and (a+b)/2, proved via congruent right triangles | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 14 |
+| §1 Тема 5 Parallelogram defined; its height; Theorem 1: opposite sides and opposite angles are equal, proved via ASA on a diagonal | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 15 |
+| §1 Тема 5 Theorem 2: diagonals of a parallelogram bisect each other, proved | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 16 |
+| §1 Тема 6 Parallelogram tests: (1) one pair of opposite sides equal and parallel (proved), (2) diagonals bisect each other (proved), plus listed characterisations (3) both pairs of opposite sides equal, (4) both pairs of opposite angles equal, (5) adjacent angles sum to 180° at every side | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 18 |
+| §1 Тема 7 Rectangle defined as a parallelogram with all angles right; Theorem: diagonals of a rectangle are equal, proved; converse (parallelogram with equal diagonals is a rectangle) stated; construction of a rectangle from two sides | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 22 |
+| §1 Тема 8 Rhombus defined; Theorem: diagonals of a rhombus are perpendicular and bisect its angles, proved via isosceles-triangle median | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 25 |
+| §1 Тема 9 Square defined (rectangle with equal sides); square is simultaneously parallelogram, rectangle and rhombus; its three diagonal properties listed | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 27 |
+| Lessons 1–2 revision: parallelograms, rectangle, rhombus, trapezoid — angles, diagonals, areas (Varignon's parallelogram, rhombus area = half product of diagonals) | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 8–11 |
+**Acceptance count: taught in 12 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan).** North Macedonia enters from its main set — Grade 7 (2025).
 
 Pakistan's Grade 8 book is the spine: it constructs the whole quadrilateral family — square, rectangle, rhombus, parallelogram, kite, trapezium — and the SSS, SAS, ASA and RHS triangles, with the incentre and circumcentre constructions. Bangladesh's Class 8 Exp.5 is a dedicated constructing-quadrilaterals chapter. Yemen meets the work earliest: Grade 4 constructs a rectangle from its length and width and a square, and Grade 5 builds a triangle from two sides and the included angle in five named steps. Sierra Leone's SSS 2 course splits the same material into single-skill lessons — SSS, SAS and ASA triangles, then squares and rectangles, rhombi and parallelograms, and trapeziums — and finishes with construction word problems.
 

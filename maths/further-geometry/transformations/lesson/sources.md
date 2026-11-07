@@ -1,6 +1,6 @@
 # Sources — Transformations
 
-countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela
+countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -165,6 +165,14 @@ textbook.
 **Book 87:** *МАТЕМАТИКА 6* (Mathematics 6) — North Macedonia, Крутан Расими, Валентина Гоговска и Снежана Ристовска (Krutan Rasimi, Valentina Gogovska & Snežana Ristovska), Ministry of Education and Science, Skopje 2023, approval № 26-2185/1 of 15.09.2023; no ISBN is printed anywhere in the book. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 88:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
+**Book 89:** *Algebra (Алгебра), Grade 8 student book* — Uzbekistan, Ministry of Public Education; Sh. A. Alimov, A. R. Halmuhamedov, M. A. Mirzaahmedov; Russian (Cyrillic); «O'qituvchi», Tashkent 2006, ISBN 5-645-04563-7. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 90:** *Geometriya (Геометрия), Grade 8 student book* — Uzbekistan, Ministry of Public Education; A. A. Rahimkariev; Russian (Cyrillic); «Yangiyo'l Poligraph Service», Tashkent 2006; no ISBN is printed anywhere in the book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 91:** *Algebra (Алгебра), Grade 9 student book* — Uzbekistan, Ministry of Public Education; Sh. A. Alimov, A. R. Halmuhamedov, M. A. Mirzaahmedov; Russian (Cyrillic); «O'qituvchi», Tashkent 2006, ISBN 5-645-04565-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 92:** *Geometriya (Геометрия), Grade 9 student book* — Uzbekistan, Ministry of Public Education; B. Haydarov, E. Sarikov, A. Kuchkarov, ed. A. Azamov; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2006, ISBN 05-89890-136-1 (as printed). Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Transformation, reflection, translation and rotation defined; centre of rotation; clockwise and anticlockwise; the image congruent to the original; reflection in the x-axis (x, y) → (x, −y) and y-axis (x, y) → (−x, y); translation by (a, b); rotation about the origin R(O, 90°) (x, y) → (−y, x), R(O, −90°) (x, y) → (y, −x), R(O, ±180°) (x, y) → (−x, −y); the starfish 72° rotational symmetry; the "ambulance" mirror writing; the 20-seat Ferris wheel | Egypt, Grade 7 Term 2, Unit 3 Geometry and Measurement, 3-3 Geometric Transformations, printed pp.61–68 |
@@ -305,8 +313,19 @@ textbook.
 | Ротација — rotation: centre, angle, direction; 90° about origin or a vertex | North Macedonia, Grade 6, Theme 2, printed p. 199 |
 | Translation in coordinates by adding to x and y — carries a confirmed error: the rule line on printed p. 231 contradicts the book’s own +6/+2 worked translation results; taught corrected | North Macedonia, Grade 7, Theme 2, printed p. 228 |
 | Rotation of polygons in coordinates (90° about a vertex/point, 60° about the origin) | North Macedonia, Grade 7, Theme 2, printed p. 233 |
+| symmetry of points with respect to the coordinate axes and the origin (exercises) | Uzbekistan, Algebra, Grade 8 (Russian), printed pp. 10, 26 |
+| §2 Тема 10 Symmetry in nature, art and architecture (Mir Arab madrasa, Amir Timur museum); figures symmetric about a line are equal figures | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 32 |
+| §2 Тема 10 Axial symmetry (reflection) defined pointwise; Theorem: reflection preserves distances between points, proved with SAS; lines/rays/segments map to themselves or equals, angles preserved | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 34 |
+| §2 Тема 11 Axis of symmetry of a figure defined; a figure may have 1, 2, …, infinitely many axes; examples (segment, line, half-plane) | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 38 |
+| §2 Тема 11 Theorem: the line of an angle's bisector is the angle's axis of symmetry, proved two ways; corollaries: isosceles triangle's bisector line is its axis; equilateral triangle has three axes | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 39 |
+| §2 Тема 12 Central (point) symmetry defined; figures symmetric about a point are equal; Theorem 1: central symmetry preserves distances, proved with SAS/SSS; Theorem 2: it preserves angles | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 42 |
+| §2 Тема 13 Centrally symmetric figures defined; circle is symmetric about its centre; Theorem: the intersection of a parallelogram's diagonals is its centre of symmetry, proved; corollary: a quadrilateral with a centre of symmetry is a parallelogram | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 45 |
+| §3 function y = ax²: stretching/compressing y = x² along Oy, reflection in Ox for a < 0; branches up/down | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 10–11 |
+| §20 rotation of a point about the origin: the unit circle; positive (counterclockwise) and negative angles; angles beyond 360°; α + 2πk give the same point | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 109–113 |
+| Lesson 16 homothety: centre and coefficient; theorem — homothety is a similarity transformation (proved); two tangent circles are homothetic | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 40–41 |
+| Lesson 17 constructing a polygon similar to a given one with coefficient 3 by homothety, with justification | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 42–43 |
 
-**Acceptance count: taught in 28 countries (Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela).**.** Egypt carries the Iran rotates shapes in Grade 6, translates, reflects and rotates them with tracing paper in Grade 7, and gives transformations whole — homothety included — in Grade 11 Geometry (2).
+**Acceptance count: taught in 29 countries (Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela, Uzbekistan).**.** Egypt carries the Iran rotates shapes in Grade 6, translates, reflects and rotates them with tracing paper in Grade 7, and gives transformations whole — homothety included — in Grade 11 Geometry (2).
 fullest single treatment — all four moves defined with
 coordinate rules plus composition in Grade 7 Term 2. Jordan
 carries translation and reflection in Grade 6, rotation in

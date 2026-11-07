@@ -1,6 +1,6 @@
 # Sources — Angles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -264,6 +264,20 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 148:** *ریاضی, صنف ششم (Mathematics, Grade 6)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 149:** *ریاضی, صنف ۷ (Mathematics, Grade 7)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 150:** *Matematika (Математика), Grade 2 student book* — Uzbekistan, Ministry of Public Education; N. Abdurahmanova, L. Urinbaeva; Russian (Cyrillic); 3rd edition, «Yangiyo'l Poligraf Servis», Tashkent 2016, ISBN 978-9943-979-68-0. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 151:** *Matematika (Математика), Grade 3 student book* — Uzbekistan, Ministry of Public Education; S. Burxonov, U. Xudayarov, Q. Narqulova; Kazakh-medium edition (Cyrillic) — Uzbekistan's own Kazakh-language edition, published in Tashkent, not a Kazakhstan book; 3rd edition, «Sharq», Tashkent 2016, ISBN 978-9943-26-501-1. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 152:** *Matematika (Математика), Grade 5 student book* — Uzbekistan, Ministry of Public Education; M. A. Mirzaahmedov, A. A. Rahimkariev; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2007, ISBN 978-9943-07-047-9. The held scan lacks printed pp. 123 and 147; nothing is cited from them. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 153:** *Geometriya (Геометрия), Grade 7 student book* — Uzbekistan, Ministry of Public Education; A. Azamov, B. Haydarov, E. Sarikov, A. Kuchkarov, U. Sagdiev; Russian (Cyrillic); «Yangiyul poligraph service», Tashkent 2009, ISBN 978-9943-366-05-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 154:** *Geometriya 7 — Metodik qo'llanma (teacher's methodological guide for the Grade 7 Geometriya course)* — Uzbekistan, Ministry of Public Education; A. Azamov, B. Haydarov, E. Sariqov, A. Qo'chqorov, U. Sag'diyev; Uzbek (Latin script); «Yangiyul poligraph service», Tashkent 2009, ISBN 978-9943-366-15-2. TEACHER GUIDE — guide evidence only: a true companion to the Grade 7 student book (its sample 68-lesson plan matches the student book's §§1–68 exactly); it never counts as, or substitutes for, a pupil's book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 155:** *Geometriya (Геометрия), Grade 8 student book* — Uzbekistan, Ministry of Public Education; A. A. Rahimkariev; Russian (Cyrillic); «Yangiyo'l Poligraph Service», Tashkent 2006; no ISBN is printed anywhere in the book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 156:** *Geometriya (Геометрия), Grade 9 student book* — Uzbekistan, Ministry of Public Education; B. Haydarov, E. Sarikov, A. Kuchkarov, ed. A. Azamov; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2006, ISBN 05-89890-136-1 (as printed). Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Angles lesson: lines, rays and angles | Jordan, Grade 3 Student Book Term 1, Unit 6, L2 Angles, p.98 |
@@ -511,8 +525,43 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Corresponding angles | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 161–164 |
 | Consecutive interior angles on the same side of a transversal (supplementary) | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 165–166 |
 | Exterior angles of a quadrilateral (sum 360°) | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 171–172 |
+| right angle; angles larger and smaller than a right angle; the set square (угольник) | Uzbekistan, Matematika, Grade 2 (Russian), printed pp. 11-12 |
+| types of angles: an angle smaller than a right angle is acute; larger is obtuse | Uzbekistan, Matematika, Grade 3 (Kazakh-medium), printed pp. 80-81 |
+| Topic 46: angle, vertex and sides, notation ∠AOB, straight angle, right angle as half a straight angle, equal figures by superposition | Uzbekistan, Matematika, Grade 5 (Russian), printed p. 157-159 |
+| Topic 47: measuring angles — degree = 1/180 of a straight angle, right angle 90°, minutes and seconds (1° = 60′ = 3600″), acute and obtuse angles, the protractor | Uzbekistan, Matematika, Grade 5 (Russian), printed p. 160-162 |
+| §7 Angle defined: vertex, sides, notation; straight (развёрнутый) angle; interior/exterior region | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 25 |
+| §7 Laying an angle equal to a given one from a ray (axiom); comparing angles by superposition | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 26 |
+| §7 Angle bisector defined | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 27 |
+| §8 Degree measure; 180° straight angle; protractor use; angle addition axiom ∠AOB = ∠AOC + ∠COB | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 28 |
+| §8 Constructing an angle of given measure with a protractor; minutes and seconds, 1° = 60′, 1′ = 60″; astrolabe/Ulugh Beg history | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 29 |
+| §10 Right, acute and obtuse angles defined and classified | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 32 |
+| §10 Worked problem: three equal adjacent angles summing to 135°, angle between bisectors of outer pair = 90° | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 32 |
+| §11 Adjacent (смежные) angles; sum of adjacent angles = 180° | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 34 |
+| §11 Vertical angles defined; theorem: vertical angles are equal, proved | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 34 |
+| §11 Worked problem: two angles at intersecting lines differ by 24°, angles 78°, 102°, 78°, 102° | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 35 |
+| §38 Angles formed by two lines and a transversal: alternate (накрест лежащие), same-side (односторонние) and corresponding (соответственные) angles named | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 96 |
+| §38 Relations among transversal angles from adjacent/vertical equalities alone (three properties proved) | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 97 |
+| §42 Theorems converse to the parallel tests: parallels cut by a transversal give equal alternate angles (proved by contradiction with the parallel axiom), equal corresponding angles, same-side sum 180° | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 104 |
+| §42 Corollary: a line perpendicular to one of two parallels is perpendicular to the other; worked problem x = 66°, y = 66°, z = 48° | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 104 |
+| §43 Angles with respectively parallel sides: acute pair equal, obtuse pair equal, acute + obtuse = 180° (first proved, others set as exercises) | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 106 |
+| §44 Angles with respectively perpendicular sides: same three relations; worked problem 7x + 11x = 180°, x = 10°, angles 70° and 110° | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 107 |
+| §47 Triangle angle-sum theorem = 180°, proved through a parallel at a vertex; measuring and paper-tearing experiments first | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 114 |
+| §47 Worked problems: unknown angle 100° in a two-isosceles figure; angles in ratio 2:3:7 are 30°, 45°, 105° | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 115 |
+| §48 Exterior angle of a triangle defined; theorem: exterior angle = sum of the two non-adjacent interior angles, proved; corollary: exterior angle exceeds each non-adjacent interior angle | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 117 |
+| §49 Worked proof: angle sum of a quadrilateral = 360° by splitting on a diagonal | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 119 |
+| §53 Theorem: the larger side of a triangle lies opposite the larger angle, proved; converse stated; equal sides opposite equal angles (corollary) | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 128 |
+| (TG) Dars 7–8 lesson plans: angle, comparing angles, bisector (§7) and measuring angles, protractor (§8), with two-variant independent work and answers | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 35 |
+| (TG) Dars 10–11 lesson plans: types of angles (§10) and adjacent/vertical angles (§11), with extra variant tasks and verified answers (adjacent pairs in ratios 1:3 → 45°/135°, 2:7 → 40°/140°; 3:5 → 67.5°/112.5°) | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 40 |
+| (TG) Dars 43–44 lesson plans: angles with respectively parallel sides (§43) and respectively perpendicular sides (§44), with printed answers (§43 problems: ∠2 = 50°, ∠3 = 130°; 70°/110°; 73°/73°; 45°/135°) | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 101 |
+| (TG) Dars 47–49 lesson plans: triangle angle-sum theorem (§47), exterior angle property (§48), problem solving (§49), with printed answers to selected textbook problems and extra tasks | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 106 |
+| (TG) Dars 53 lesson plan: relations between sides and angles of a triangle (§53), with a 10-item extra test | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 115 |
+| §1 Тема 2 Interior angle of a polygon; flat (плоские) angles, convex/non-convex flat angles; complementary flat angles sum to 360° | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 7 |
+| §1 Тема 2 Theorem 1: sum of interior angles of a convex n-gon = 180°(n−2), proved by triangulation; noted to hold also for non-convex polygons | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 7 |
+| §1 Тема 2 Exterior angle defined; Theorem 2: sum of exterior angles (one per vertex) of a convex polygon = 360°, proved | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 8 |
+| §1 Тема 2 Worked problem: interior-angle sum plus one exterior angle = 2115° gives n = 13 (2115 = 180·11 + 135) | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 9 |
+| Lesson 51 projection of a point and of a slant line; foot of the perpendicular; distance from a point to a line; theorem — the perpendicular is shorter than any slant, equal projections ↔ equal slants (sketch proof); compass construction of the perpendicular | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 116–117 |
 
-**Acceptance count: taught in 35 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan).** Egypt carries the fullest single Iran measures angles with a protractor in Grade 4, bisects angles and sums polygon angles in Grade 5, and gives the (n − 2) × 180° interior-angle rule in Grade 8.
+**Acceptance count: taught in 36 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan).** Egypt carries the fullest single Iran measures angles with a protractor in Grade 4, bisects angles and sums polygon angles in Grade 5, and gives the (n − 2) × 180° interior-angle rule in Grade 8.
 treatment — the angle kinds, the protractor, complementary and
 supplementary pairs, the transversal's eight angles, and the
 triangle and quadrilateral sums in one Grade 7 unit. Jordan

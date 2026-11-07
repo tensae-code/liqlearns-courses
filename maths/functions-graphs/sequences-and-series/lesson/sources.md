@@ -1,6 +1,6 @@
 # Sources — Sequences and series
 
-countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan
+countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -175,6 +175,10 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 **Book 103:** *МАТЕМАТИКА 6* (Mathematics 6) — North Macedonia, Крутан Расими, Валентина Гоговска и Снежана Ристовска (Krutan Rasimi, Valentina Gogovska & Snežana Ristovska), Ministry of Education and Science, Skopje 2023, approval № 26-2185/1 of 15.09.2023; no ISBN is printed anywhere in the book. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 104:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 105:** *ریاضی صنف ۱۱ (Mathematics, Grade 11)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 106:** *Matematika (Математика), Grade 5 student book* — Uzbekistan, Ministry of Public Education; M. A. Mirzaahmedov, A. A. Rahimkariev; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2007, ISBN 978-9943-07-047-9. The held scan lacks printed pp. 123 and 147; nothing is cited from them. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 107:** *Algebra (Алгебра), Grade 9 student book* — Uzbekistan, Ministry of Public Education; Sh. A. Alimov, A. R. Halmuhamedov, M. A. Mirzaahmedov; Russian (Cyrillic); «O'qituvchi», Tashkent 2006, ISBN 5-645-04565-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -371,8 +375,17 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 | Sum of the first n terms of a geometric sequence | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 141–142 |
 | Infinite geometric series: convergence, S∞ = a/(1−q), recurring decimals as fractions | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 143–146 |
 | Chapter key points and exercises | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 147–150 |
+| Topic 17 exercises: continue the pattern (5, 10, 15, …; 3, 9, 27, …) | Uzbekistan, Matematika, Grade 5 (Russian), printed p. 65 |
+| §30 number sequence; arithmetic progression defined by a(n+1) = a(n) + d; common difference d | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 157–158 |
+| §30 n-th term of an arithmetic progression: a(n) = a(1) + (n − 1)d; each term is the arithmetic mean of its neighbours | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 158–159 |
+| §31 sum of n terms of an arithmetic progression: S(n) = (a(1) + a(n))·n/2 (proved by writing the sum forwards and backwards); 1 + 2 + … + 100 = 5050 | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 162–163 |
+| §32 geometric progression defined by b(n+1) = b(n)·q; common ratio q; b(n)² = b(n−1)·b(n+1); each term the geometric mean of its neighbours | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 166–167 |
+| §32 n-th term of a geometric progression: b(n) = b(1)·q^(n−1); nested triangles, squares and circles give geometric progressions Taught corrected: Task 4 on p. 169 prints b_n = −3·2^(n−1) with a spurious minus sign; the task's own final answer line gives b_n = 3·2^(n−1). | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 167–169 |
+| §33 sum of n terms of a geometric progression: S(n) = b(1)(1 − q^n)/(1 − q) (proved by the multiply-and-subtract trick); S(n) = (b(n)q − b(1))/(q − 1) | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 171–173 |
+| §34 infinitely decreasing geometric progression: |q| < 1; terms tend to 0 | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 175–176 |
+| §34 sum of an infinitely decreasing geometric progression: S = b(1)/(1 − q); 1/2 + 1/4 + 1/8 + … = 1 from the halved square | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 176–178 |
 
-**Acceptance count: taught in 29 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan).**.** Kazakhstan carries
+**Acceptance count: taught in 30 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan).**.** Kazakhstan carries
 the fullest treatment — all four Grade 9 Algebra books prove
 the nth-term formulas, the characteristic properties, both
 sum formulas and the infinite geometric sum, with applied

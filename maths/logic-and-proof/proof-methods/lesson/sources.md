@@ -1,6 +1,6 @@
 # Sources — Proof Methods
 
-countries: Kazakhstan, Iran, Armenia, Greece, Egypt, Nicaragua, Kuwait, Laos, China, Syria, Malaysia, India, Mongolia, Venezuela, Afghanistan
+countries: Kazakhstan, Iran, Armenia, Greece, Egypt, Nicaragua, Kuwait, Laos, China, Syria, Malaysia, India, Mongolia, Venezuela, Afghanistan, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -31,6 +31,18 @@ Every part traces to its book and page.
 **Book 23:** *Математик VIII (Mathematics, Grade 8)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 24:** *La Matemática de la Belleza* — Venezuela, Grade 9 (3er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-329-6. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 25:** *ریاضی صنف دهم (Mathematics, Grade 10)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 26:** *Matematika (Математика), Grade 5 student book* — Uzbekistan, Ministry of Public Education; M. A. Mirzaahmedov, A. A. Rahimkariev; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2007, ISBN 978-9943-07-047-9. The held scan lacks printed pp. 123 and 147; nothing is cited from them. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 27:** *Geometriya (Геометрия), Grade 7 student book* — Uzbekistan, Ministry of Public Education; A. Azamov, B. Haydarov, E. Sarikov, A. Kuchkarov, U. Sagdiev; Russian (Cyrillic); «Yangiyul poligraph service», Tashkent 2009, ISBN 978-9943-366-05-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 28:** *Geometriya 7 — Metodik qo'llanma (teacher's methodological guide for the Grade 7 Geometriya course)* — Uzbekistan, Ministry of Public Education; A. Azamov, B. Haydarov, E. Sariqov, A. Qo'chqorov, U. Sag'diyev; Uzbek (Latin script); «Yangiyul poligraph service», Tashkent 2009, ISBN 978-9943-366-15-2. TEACHER GUIDE — guide evidence only: a true companion to the Grade 7 student book (its sample 68-lesson plan matches the student book's §§1–68 exactly); it never counts as, or substitutes for, a pupil's book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 29:** *Algebra (Алгебра), Grade 8 student book* — Uzbekistan, Ministry of Public Education; Sh. A. Alimov, A. R. Halmuhamedov, M. A. Mirzaahmedov; Russian (Cyrillic); «O'qituvchi», Tashkent 2006, ISBN 5-645-04563-7. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 30:** *Algebra (Алгебра), Grade 9 student book* — Uzbekistan, Ministry of Public Education; Sh. A. Alimov, A. R. Halmuhamedov, M. A. Mirzaahmedov; Russian (Cyrillic); «O'qituvchi», Tashkent 2006, ISBN 5-645-04565-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 31:** *Geometriya (Геометрия), Grade 9 student book* — Uzbekistan, Ministry of Public Education; B. Haydarov, E. Sarikov, A. Kuchkarov, ed. A. Azamov; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2006, ISBN 05-89890-136-1 (as printed). Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -75,8 +87,20 @@ Every part traces to its book and page.
 | Deductive reasoning | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 401–402 |
 | Proof by counterexample (refutation) | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 403–404 |
 | Proof by contradiction (indirect proof) | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 405–406 |
+| Topic 27: four divisibility properties — product divisible if one factor is; transitivity; sum/difference of two divisible numbers; one divisible + one not ⇒ sum/difference not divisible, with counterexamples for both non-divisible | Uzbekistan, Matematika, Grade 5 (Russian), printed p. 98-100 |
+| §12 Sequence of reasoning: basic concepts, definitions, axioms, theorems; condition and conclusion; example theorem (equal adjacent angles are right angles) | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 37 |
+| §14 Proof by contradiction explained; theorem: two lines perpendicular to the same line do not intersect, proved by folding + contradiction | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 43 |
+| §41 Converse of a theorem defined (A ⇒ B vs B ⇒ A); a converse need not be true (vertical-angles counterexample); converse of the isosceles base-angles theorem as a test | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 102 |
+| (TG) Dars 12 lesson plan: sequence of reasoning, definitions/axioms/theorems (§12), with a 10-item extra test on points/lines/segments/rays | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 43 |
+| (TG) Dars 14 lesson plan: proof by contradiction (§14), with extra test items (two segments with sum 8 and difference 3 are 5.5 and 2.5, etc.) | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 48 |
+| (TG) Dars 41 lesson plan: converse theorem (§41); Dars 42: angles formed by two parallels and a transversal (§42) | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 98 |
+| §11 proving inequalities by the difference method: a² + b² > 2ab (a ≠ b), a + 1/a > 2 | Uzbekistan, Algebra, Grade 8 (Russian), printed pp. 62–63 |
+| §15 proving monotonicity directly: y = x + 1/x increases on x > 1 by the difference y(x2) − y(x1) | Uzbekistan, Algebra, Grade 9 (Russian), printed p. 84 |
+| Lesson 11 the angle-bisector theorem proved by AA similarity (a bisector divides the opposite side proportionally to the adjacent sides) | Uzbekistan, Geometriya, Grade 9 (Russian), printed p. 30 |
+| Lesson 37 entertaining task: spot the circular reasoning in a "new proof" of Pythagoras' theorem from sin²α + cos²α = 1 | Uzbekistan, Geometriya, Grade 9 (Russian), printed p. 85 |
+| Lesson 54 corollary: a new proof of Pythagoras' theorem from the two mean-proportional theorems | Uzbekistan, Geometriya, Grade 9 (Russian), printed p. 122 |
 
-**Acceptance count: taught in 15 countries (Kazakhstan, Iran, Armenia, Greece, Egypt, Nicaragua, Kuwait, Laos, China, Syria, Malaysia, India, Mongolia, Venezuela, Afghanistan).** Kazakhstan opens all three of its Grade 7 geometry courses with the Euclidean deductive method itself — axioms as the rules of the game (Smirnov), the regress of definitions (Shynybekov), and methods of proof given their own section (Turapbekov). Iran teaches proof three ways: a whole Grade 9 chapter on reasoning and proof in geometry, with a deliberately flawed proof to diagnose; the proof opening of Geometry (1); and Discrete Mathematics' working kit of direct proof, cases, contradiction and counterexample. Armenia gathers deductive and inductive reasoning and the main methods of proof and refutation in Grade 11, proves and refutes ∀ and ∃ assertions and classifies necessary and sufficient conditions in its Grade 12 logic book, and first uses contradiction inside Grade 7 geometry. Greece makes deductive reasoning the stated point of its Euclidean Geometry. Egypt names the writing itself — "Steps to Write a Proof" — in Grade 7. Nicaragua introduces two-column-style reasoning in Grade 8 and writes full two-column similarity proofs in Grade 9. Kuwait frames every proof in its Grade 9 triangle unit as givens / required / proof. Laos judges arguments by validity, with modus ponens, modus tollens and the affirming-the-consequent fallacy. China proves the vertical-angles result inside its Grade 6 general review.
+**Acceptance count: taught in 16 countries (Kazakhstan, Iran, Armenia, Greece, Egypt, Nicaragua, Kuwait, Laos, China, Syria, Malaysia, India, Mongolia, Venezuela, Afghanistan, Uzbekistan).** Kazakhstan opens all three of its Grade 7 geometry courses with the Euclidean deductive method itself — axioms as the rules of the game (Smirnov), the regress of definitions (Shynybekov), and methods of proof given their own section (Turapbekov). Iran teaches proof three ways: a whole Grade 9 chapter on reasoning and proof in geometry, with a deliberately flawed proof to diagnose; the proof opening of Geometry (1); and Discrete Mathematics' working kit of direct proof, cases, contradiction and counterexample. Armenia gathers deductive and inductive reasoning and the main methods of proof and refutation in Grade 11, proves and refutes ∀ and ∃ assertions and classifies necessary and sufficient conditions in its Grade 12 logic book, and first uses contradiction inside Grade 7 geometry. Greece makes deductive reasoning the stated point of its Euclidean Geometry. Egypt names the writing itself — "Steps to Write a Proof" — in Grade 7. Nicaragua introduces two-column-style reasoning in Grade 8 and writes full two-column similarity proofs in Grade 9. Kuwait frames every proof in its Grade 9 triangle unit as givens / required / proof. Laos judges arguments by validity, with modus ponens, modus tollens and the affirming-the-consequent fallacy. China proves the vertical-angles result inside its Grade 6 general review.
 
 Syria's Grade 8 Geometry is built as proof craft: the hypothesis–property–conclusion scheme is stated outright, proof plans are required before writing, and the book warns explicitly that nothing may be read off the figure.
 

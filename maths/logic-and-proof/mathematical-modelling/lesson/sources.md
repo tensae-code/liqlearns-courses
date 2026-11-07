@@ -1,6 +1,6 @@
 # Sources — Mathematical Modelling
 
-countries: Malaysia, India, Venezuela
+countries: Malaysia, India, Venezuela, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -9,6 +9,10 @@ Every part traces to its book and page.
 **Book 3:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
 On Malaysia in this lesson: Malaysia's Form 5 book gives mathematical modelling the closing chapter of its core course — the only full, named treatment in the read set. Problem-solving-strategies (its own lesson) covers attack plans for problems already posed mathematically, and carries Malaysia's Polya example and this chapter's modelling/problem-solving contrast as cross-keys; the modelling cycle itself, and the worked rice case, live here. Built under the everything-goes-in ruling.
+
+**Book 4:** *Algebra (Алгебра), Grade 9 student book* — Uzbekistan, Ministry of Public Education; Sh. A. Alimov, A. R. Halmuhamedov, M. A. Mirzaahmedov; Russian (Cyrillic); «O'qituvchi», Tashkent 2006, ISBN 5-645-04565-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 5:** *Geometriya (Геометрия), Grade 9 student book* — Uzbekistan, Ministry of Public Education; B. Haydarov, E. Sarikov, A. Kuchkarov, ed. A. Azamov; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2006, ISBN 05-89890-136-1 (as printed). Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -27,8 +31,14 @@ On Malaysia in this lesson: Malaysia's Form 5 book gives mathematical modelling 
 | Midline of the tide model from the extremes: a = (M + m)/2 = (1.19 + 0.59)/2 = 0.89 | Venezuela, Naturaleza Matemática (Grade 10), printed p. 190 |
 | The tide period measured as about 13 h, giving c = 2π/13 in the model | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 196–197 |
 | The completed tide model f(x) = 0.89 + 0.3 sen((2π/13)x + 2.2) assembled parameter by parameter | Venezuela, Naturaleza Matemática (Grade 10), printed p. 200 |
+| §5 largest/smallest value of a quadratic function at the vertex; optimisation problems (least sum of squares, greatest product, fenced plot of greatest area) | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 21–23 |
+| §17 inverse proportion in physics: centripetal acceleration a = v²/r, the Moon's acceleration ≈ 2,72·10^−3 m/s² computed; gas law V = 12/p; Ohm's law I = U/R | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 92–93 |
+| Lesson 18 practical work: height of the Tashkent TV tower from a stick's shadow (375 m); distance to an inaccessible point with a theodolite and a scaled copy | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 44–45 |
+| Lesson 25 calculator use: sin/cos/tg keys in DEG mode; trig tables in the appendix when there is no calculator | Uzbekistan, Geometriya, Grade 9 (Russian), printed p. 59 |
+| Lesson 36 traffic-police pursuit problem: sine rule decides whether the patrol reaches the crossing in time (42 s against 47 s) | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 82–83 |
+| Lesson 37 measuring heights in the field: AH = a·tg α; two-station method AH = a·sin α·sin β/sin(α − β); distance to an inaccessible point by the sine rule; penalty-kick angle; Kalta Minor minaret, Khiva; Ak Saray palace, Shakhrisabz | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 84–85 |
 
-**Acceptance count: taught in 3 countries (Malaysia, India, Venezuela).** Malaysia's Form 5 book carries the full modelling cycle with a complete worked case; the other read countries teach problem solving within topics but name no modelling method, so this lesson is built at that honest size.
+**Acceptance count: taught in 4 countries (Malaysia, India, Venezuela, Uzbekistan).** Malaysia's Form 5 book carries the full modelling cycle with a complete worked case; the other read countries teach problem solving within topics but name no modelling method, so this lesson is built at that honest size.
 
 India enters mathematical modelling from Mathematics Class 10: what modelling is.
 

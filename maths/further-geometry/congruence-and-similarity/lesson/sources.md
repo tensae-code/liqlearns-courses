@@ -1,6 +1,6 @@
 # Sources — Congruence and similarity
 
-countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan
+countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -169,6 +169,14 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 **Book 83:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 84:** *ریاضی, صنف ۷ (Mathematics, Grade 7)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 85:** *ریاضی, صنف ۸ (Mathematics, Grade 8)* — Afghanistan, Ministry of Education, Kabul (Dari); the book disagrees with itself on the year — 1399 HS on the cover and title page, 1398 HS on the specifications page — and both printings are carried as filed; no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 86:** *Geometriya (Геометрия), Grade 7 student book* — Uzbekistan, Ministry of Public Education; A. Azamov, B. Haydarov, E. Sarikov, A. Kuchkarov, U. Sagdiev; Russian (Cyrillic); «Yangiyul poligraph service», Tashkent 2009, ISBN 978-9943-366-05-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 87:** *Geometriya 7 — Metodik qo'llanma (teacher's methodological guide for the Grade 7 Geometriya course)* — Uzbekistan, Ministry of Public Education; A. Azamov, B. Haydarov, E. Sariqov, A. Qo'chqorov, U. Sag'diyev; Uzbek (Latin script); «Yangiyul poligraph service», Tashkent 2009, ISBN 978-9943-366-15-2. TEACHER GUIDE — guide evidence only: a true companion to the Grade 7 student book (its sample 68-lesson plan matches the student book's §§1–68 exactly); it never counts as, or substitutes for, a pupil's book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 88:** *Geometriya (Геометрия), Grade 8 student book* — Uzbekistan, Ministry of Public Education; A. A. Rahimkariev; Russian (Cyrillic); «Yangiyo'l Poligraph Service», Tashkent 2006; no ISBN is printed anywhere in the book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 89:** *Geometriya (Геометрия), Grade 9 student book* — Uzbekistan, Ministry of Public Education; B. Haydarov, E. Sarikov, A. Kuchkarov, ed. A. Azamov; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2006, ISBN 05-89890-136-1 (as printed). Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -350,8 +358,37 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Parallels cut at equal distances; Thales' theorem and its converse | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 73–76 |
 | Thales' theorem in a triangle; similarity cases of triangles | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 77–84 |
 | Chapter key points and exercises (similarity) | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 85–88 |
+| §4 Equal figures by superposition; copying a segment onto a ray (axiom) | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 16 |
+| §21 Equal triangles and corresponding elements; what a congruence "признак" (test) is | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 62 |
+| §21 First test SAS (СУС) stated and proved by superposition | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 63 |
+| §22 Isosceles triangle: legs and base named; theorem: base angles are equal, proved via SAS | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 65 |
+| §22 Theorem: the bisector to the base of an isosceles triangle is also its median and altitude, proved | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 66 |
+| §23 Second test ASA (УСУ) stated and proved | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 68 |
+| §24 Third test SSS (ССС) stated and proved via two isosceles triangles + SAS | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 70 |
+| §26 Rigidity of the triangle explained from SSS; uses in bracing structures | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 74 |
+| §51 Right-triangle congruence tests: leg–leg (КК, from SAS), leg–acute angle (КУ, from ASA), hypotenuse–acute angle (ГУ, from ASA), hypotenuse–leg (ГК, proved) | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 123 |
+| (TG) Dars 21–24 lesson plans: the three congruence tests in Uzbek abbreviations — TBT = SAS (§21), BTB = ASA (§23), TTT = SSS (§24) — and isosceles-triangle properties (§22), incl. Ibn Sina's "Bilim" proof excerpt on base angles and worked solutions (medians AE and CD of an isosceles triangle are equal) The guide's extra test item offering a triangle with sides in ratio 1 : 1 : 2 (p. 72, repeated on p. 126) is a flawed item — no such triangle exists, by the triangle inequality the course itself teaches — and is not taught. | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 63 |
+| §3 Тема 15 Thales' theorem (Theorem 2): parallels cutting equal segments on one side of an angle cut equal segments on the other, proved; generalised Thales theorem stated (proportional segments) | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 52 |
+| §3 Тема 15 Theorem 3: a line parallel to one side of a triangle cuts off proportional segments on the other two sides, AD/DB = AE/EC, proved for the commensurable case | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 54 |
+| §3 Тема 17 Midline of a trapezium defined; Theorem: it is parallel to the bases and equals their half-sum, proved two ways (EM = (AD−BC)/2, EF = (AD+BC)/2) | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 58 |
+| §3 Тема 18 Application: joining the side-midpoints of a rhombus gives a rectangle, proved via midlines and perpendicular diagonals | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 62 |
+| §5 Тема 28 Corollary 2: hypotenuse–leg congruence test for right triangles, re-proved via Pythagoras + SSS | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 91 |
+| Lesson 5 similar polygons: corresponding angles equal, corresponding sides proportional; similarity coefficient (ratio of similitude); maps and photographs at different scales | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 18–19 |
+| Lesson 6 similar triangles; theorem: ratio of areas of similar triangles equals k² (proved) Taught corrected: Task 1 on p. 20 names both areas S_ABC (25 cm² and 81 cm²); the second is the second triangle's area, 81 cm², as the solution's own fraction 25/81 shows. | Uzbekistan, Geometriya, Grade 9 (Russian), printed p. 20 |
+| Lesson 6 ratio of perimeters of similar triangles equals k, and ratio of corresponding altitudes equals k (proved as tasks) | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 20–21 |
+| Lesson 7 first criterion AA (two angles): theorem and proof | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 22–23 |
+| Lesson 7 a line parallel to one side of a triangle cuts off a similar triangle | Uzbekistan, Geometriya, Grade 9 (Russian), printed p. 23 |
+| Lesson 8 second criterion SAS (two sides proportional, included angle equal): theorem and proof by an auxiliary triangle | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 24–25 |
+| Lesson 9 third criterion SSS (three sides proportional): theorem and proof | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 26–27 |
+| Lesson 9 historical etude: Thales measuring the height of a pyramid by its shadow | Uzbekistan, Geometriya, Grade 9 (Russian), printed p. 27 |
+| Lesson 10 similarity criteria for right triangles: equal acute angle; proportional legs; hypotenuse and a leg proportional (third proved) | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 28–29 |
+| Lesson 12 the midline (mid-segment) theorem proved from similarity: parallel to the third side and half of it Taught corrected: the proof on p. 32 names the SSS criterion where the data used (the common angle and the proportional sides around it) are the SAS criterion; the conclusion is right, and the criterion is taught as SAS. | Uzbekistan, Geometriya, Grade 9 (Russian), printed p. 32 |
+| Lesson 14 similarity transformation defined for any figure: all distances multiplied by k; theorem — it sends lines to lines, rays to rays, preserves angles, scales segments (partly proved) | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 36–37 |
+| Lesson 15 similar polygons: perimeters ratio = k (Th. 1), splitting into the same number of similar triangles (Th. 2), areas ratio = k² (Th. 3) — all proved | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 38–39 |
+| Lessons 19–20 problem solving: segment through the diagonal intersection of a trapezoid MN = 2ab/(a+b); Earth–Sun distance from a total solar eclipse; building heights from simultaneous photographs | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 46–50 |
+| Lesson 54 the altitude from the right angle splits the triangle into two triangles similar to it (property stated and proved) | Uzbekistan, Geometriya, Grade 9 (Russian), printed p. 122 |
 
-**Acceptance count: taught in 31 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan).**.** Iran matches congruent figures by superposition in Grade 7, states the SSS, SAS and ASA criteria in Grade 8, proves congruence and meets similar figures in Grade 9, and proves Thales' theorem with the AA, SAS and SSS similarity criteria in Grade 10 Geometry (1).
+**Acceptance count: taught in 32 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan).**.** Iran matches congruent figures by superposition in Grade 7, states the SSS, SAS and ASA criteria in Grade 8, proves congruence and meets similar figures in Grade 9, and proves Thales' theorem with the AA, SAS and SSS similarity criteria in Grade 10 Geometry (1).
 Libya carries the fullest single treatment — congruence tests
 including RHS, similarity, applications, and the k² area and k³
 volume rules in one chapter (Grade 9, Chapter 8, pp.156–193).

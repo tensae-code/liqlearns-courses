@@ -1,6 +1,6 @@
 # Sources — Measuring
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -333,6 +333,18 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 178:** *ریاضی (Mathematics, Grade 1)* — Afghanistan, Ministry of Education, Kabul, printing year 1398 HS. One work in two language editions — Dari (ریاضی) and Pashto (رياضي) — parallel editions with identical page maps, cited as one book; no ISBN printed in either edition. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 179:** *ریاضی, صنف چهارم (Mathematics, Grade 4)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 180:** *ریاضی, صنف ششم (Mathematics, Grade 6)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 181:** *Matematika (Математика), Grade 2 student book* — Uzbekistan, Ministry of Public Education; N. Abdurahmanova, L. Urinbaeva; Russian (Cyrillic); 3rd edition, «Yangiyo'l Poligraf Servis», Tashkent 2016, ISBN 978-9943-979-68-0. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 182:** *Matematika (Математика), Grade 3 student book* — Uzbekistan, Ministry of Public Education; S. Burxonov, U. Xudayarov, Q. Narqulova; Kazakh-medium edition (Cyrillic) — Uzbekistan's own Kazakh-language edition, published in Tashkent, not a Kazakhstan book; 3rd edition, «Sharq», Tashkent 2016, ISBN 978-9943-26-501-1. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 183:** *Matematika (Математика), Grade 5 student book* — Uzbekistan, Ministry of Public Education; M. A. Mirzaahmedov, A. A. Rahimkariev; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2007, ISBN 978-9943-07-047-9. The held scan lacks printed pp. 123 and 147; nothing is cited from them. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 184:** *Matematika (Математика), Grade 6 student book* — Uzbekistan, Ministry of Public Education; M. A. Mirzaahmedov, A. A. Rahimkariev; Russian (Cyrillic); 3rd edition, revised and supplemented, «O'qituvchi», Tashkent 2009, ISBN 978-9943-02-092-4. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 185:** *Geometriya (Геометрия), Grade 7 student book* — Uzbekistan, Ministry of Public Education; A. Azamov, B. Haydarov, E. Sarikov, A. Kuchkarov, U. Sagdiev; Russian (Cyrillic); «Yangiyul poligraph service», Tashkent 2009, ISBN 978-9943-366-05-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 186:** *Geometriya 7 — Metodik qo'llanma (teacher's methodological guide for the Grade 7 Geometriya course)* — Uzbekistan, Ministry of Public Education; A. Azamov, B. Haydarov, E. Sariqov, A. Qo'chqorov, U. Sag'diyev; Uzbek (Latin script); «Yangiyul poligraph service», Tashkent 2009, ISBN 978-9943-366-15-2. TEACHER GUIDE — guide evidence only: a true companion to the Grade 7 student book (its sample 68-lesson plan matches the student book's §§1–68 exactly); it never counts as, or substitutes for, a pupil's book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -742,8 +754,23 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Mass: gram, kilogram, tonne, and conversions | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 142–145 |
 | Capacity: the litre and the millilitre | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 152–154 |
 | Geometry instruments — ruler, dividers and compasses: measuring length, dividing a segment into equal parts, drawing circles | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 155–158 |
+| review: comparing lengths of segments in cm, how much longer/shorter | Uzbekistan, Matematika, Grade 2 (Russian), printed p. 5 |
+| millimetre: the smallest length unit on the ruler; 1 cm = 10 mm; measuring in cm and mm | Uzbekistan, Matematika, Grade 2 (Russian), printed pp. 135-136 |
+| length units and the kilometre: 1 km = 1000 m; converting mm, cm, dm, m (758 cm = 7 m 5 dm 8 cm) | Uzbekistan, Matematika, Grade 3 (Kazakh-medium), printed pp. 64-66 |
+| mass units: the gram; 1 kg = 1000 g; weighing with weights | Uzbekistan, Matematika, Grade 3 (Kazakh-medium), printed pp. 93-94 |
+| tonne and centner: 1 t = 1000 kg, 1 c = 100 kg, 1 t = 10 c | Uzbekistan, Matematika, Grade 3 (Kazakh-medium), printed pp. 95-96 |
+| Topic 5 exercises: comparing lengths/masses in mixed units (mm/cm, kg/centner) | Uzbekistan, Matematika, Grade 5 (Russian), printed p. 15 |
+| Topic 21: unit square, area units mm²–km², are (sotka) = 100 m², hectare = 100 ares, converting area units (×/÷ 100 per step) | Uzbekistan, Matematika, Grade 5 (Russian), printed p. 76-78 |
+| Topic 4: expressing measures as decimals — length, mass, area, volume, time (40 min = 2/3 h cannot be a finite decimal), capacity (litre, decalitre, hectolitre) | Uzbekistan, Matematika, Grade 6 (Russian), printed p. 13-16 |
+| Topic 26: scale — ratio of a drawing length to the real length, reduction scales 1 : n and enlargement scales n : 1, map and plan problems | Uzbekistan, Matematika, Grade 6 (Russian), printed p. 98-102 |
+| §5 Length of a segment as a positive number against a unit segment; examples 2 and 3.5 units | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 20 |
+| §5 Segment addition axiom AC = AB + BC; measuring instruments, ruler, tape, metre history and units km/cm/mm | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 21 |
+| §5 Worked problem: AB = 8 cm, BC = 11 cm, AC = 19 cm or 3 cm by order of points | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 21 |
+| §13 Distance from a point to a line = length of the perpendicular; perpendicular is the shortest path (stated, proof deferred) | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 41 |
+| §26 Practical: measuring the width of a lake by building a congruent triangle on land (SAS) | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 73 |
+| (TG) Dars 6 lesson plan: practical measuring lesson (§6) — group height-measuring task with diagram presentation | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 34 |
 
-**Acceptance count: taught in 34 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan).**.** Sierra Leone carries the cleanest Iran compares longer and shorter and heavier and lighter in Grade 1 — the heavier-marking activity is at printed p. 168 — reads the clock there too, and measures length in centimetres and millimetres in Grade 2.
+**Acceptance count: taught in 35 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan).**.** Sierra Leone carries the cleanest Iran compares longer and shorter and heavier and lighter in Grade 1 — the heavier-marking activity is at printed p. 168 — reads the clock there too, and measures length in centimetres and millimetres in Grade 2.
 single ladder — length, mass and volume distinguished, then the
 three conversion tables in JSS 1. Jordan carries the four
 standard units in one Grade 2 unit (centimetre, metre, gram and

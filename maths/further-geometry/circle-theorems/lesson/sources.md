@@ -1,6 +1,6 @@
 # Sources — Circle theorems
 
-countries: Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia
+countries: Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -80,6 +80,10 @@ maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 **Book 41:** *Математик VIII (Mathematics, Grade 8)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 42:** *Математик IX (Mathematics, Grade 9)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 43:** *Математик X (Mathematics, Grade 10)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 44:** *Geometriya (Геометрия), Grade 8 student book* — Uzbekistan, Ministry of Public Education; A. A. Rahimkariev; Russian (Cyrillic); «Yangiyo'l Poligraph Service», Tashkent 2006; no ISBN is printed anywhere in the book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 45:** *Geometriya (Геометрия), Grade 9 student book* — Uzbekistan, Ministry of Public Education; B. Haydarov, E. Sarikov, A. Kuchkarov, ed. A. Azamov; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2006, ISBN 05-89890-136-1 (as printed). Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -188,8 +192,17 @@ maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 | Proof — angle between tangent and chord equals the angle in the alternate segment | Mongolia, Математик X (Grade 10), printed p. 96 |
 | Proof — intersecting chords theorem PA·PB = PC·PD (similar triangles) | Mongolia, Математик X (Grade 10), printed p. 97 |
 | Proof — external-secant rule PA·PB = PC·PD; tangent-secant rule PK² = PA·PB | Mongolia, Математик X (Grade 10), printed p. 97 |
+| §6 Тема 36 Inscribed angle defined; Theorem: an inscribed angle equals half its arc, ∠ABC = ½∪AC, proved for the centre-on-a-side and centre-inside cases (third case set as guided exercise) | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 111 |
+| §6 Тема 36 Corollaries: inscribed angles on the same arc are equal; every inscribed angle on a diameter is a right angle (Thales) | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 113 |
+| §6 Тема 39 Tangent–chord angle theorem: the angle between a tangent and a chord through the point of tangency equals half the arc cut off by the chord, proved | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 118 |
+| §6 Тема 39 Intersecting-chords angle theorem: each vertical angle formed by two intersecting chords equals half the sum of its arcs, proved via exterior-angle theorem | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 119 |
+| §6 Тема 39 Two-secants angle theorem: an angle formed by two secants meeting outside the circle equals half the difference of the intercepted arcs, proved | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 119 |
+| §6 Тема 39 Two-tangents theorem: tangent segments from one point are equal, the centre lies on the angle bisector, and the angle between the tangents = 180° minus the minor arc between the points of tangency, proved | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 120 |
+| Lesson 39 polygon inscribed in a circle; a quadrilateral can be inscribed iff opposite angles sum to 180°; centre = intersection of perpendicular bisectors | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 90–91 |
+| Lesson 56 intersecting chords: AO·OB = CO·OD (Th. 1, proved); tangent–secant: PA² = PB·PC (Th. 2, proved); two secants from one external point | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 126–127 |
+| Lesson 57 power of a point: inside the circle AP·PB = R² − p² (Th. 1, proved); outside PA·PB = p² − R² (Th. 2, proved) | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 128–129 |
 
-**Acceptance count: taught in 25 countries (Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia).** Kazakhstan carries the Iran states the inscribed-angle and tangent–radius facts in Grade 8 and develops the circle theorems by guided proof — power of a point and cyclic quadrilaterals included — in Grade 11 Geometry (2).
+**Acceptance count: taught in 26 countries (Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Uzbekistan).** Kazakhstan carries the Iran states the inscribed-angle and tangent–radius facts in Grade 8 and develops the circle theorems by guided proof — power of a point and cyclic quadrilaterals included — in Grade 11 Geometry (2).
 fullest treatment — the inscribed-angle theorem with all
 cases, the tangent–chord angle, the inside/outside angle
 theorems, the three segment products, cyclic and circumscribed

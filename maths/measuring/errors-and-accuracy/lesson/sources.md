@@ -1,6 +1,6 @@
 # Sources — Errors and Accuracy
 
-countries: Kazakhstan, Sierra Leone, Malaysia, India, Mongolia
+countries: Kazakhstan, Sierra Leone, Malaysia, India, Mongolia, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -13,6 +13,8 @@ Every part traces to its book and page.
 **Book 6:** *Math-Magic Book 5 — Textbook in Mathematics for Class V* — India, NCERT, New Delhi, first edition March 2008, 2020-21 issue, ISBN 978-81-7450-828-7. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED).
 **Book 7:** *Математик IX (Mathematics, Grade 9)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 8:** *Algebra (Алгебра), Grade 8 student book* — Uzbekistan, Ministry of Public Education; Sh. A. Alimov, A. R. Halmuhamedov, M. A. Mirzaahmedov; Russian (Cyrillic); «O'qituvchi», Tashkent 2006, ISBN 5-645-04563-7. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Approximate numbers as the opening of the topic | Kazakhstan, Shynybekov *Algebra 7*, §1.3, p.42; Yelemessov *Algebra 7*, Ch. 1, p.62 |
@@ -24,8 +26,12 @@ Every part traces to its book and page.
 | Small changes and approximations found from the derivative: δy ≈ (dy/dx)δx, and f(x + δx) ≈ f(x) + (dy/dx)δx (main filing: derivatives) | Malaysia, Additional Mathematics Form 5, Ch. 2 §2.4, printed pp. 71–74 |
 | Estimating angles — Angles in nature and the body: bee-dance angle, leaf and beak angles, angles in block-letter names, slide steepness | India, Math-Magic Class 5, printed p. 24 |
 | Definition — over-approximations and under-approximations (bounds) | Mongolia, Математик IX (Grade 9), printed p. 55 |
+| §20 approximate values of quantities; absolute error of an approximation = |exact − approximate| | Uzbekistan, Algebra, Grade 8 (Russian), printed pp. 106–108 |
+| §21 estimating the error; writing x = a ± h; accuracy of measuring instruments | Uzbekistan, Algebra, Grade 8 (Russian), printed pp. 109–111 |
+| §23 relative error = absolute error ÷ |approximate value|, usually as a percentage | Uzbekistan, Algebra, Grade 8 (Russian), printed pp. 115–116 |
+| history of approximate computation: Babylonian tables, Ulugbek's school, al-Kashi's π to 17 correct digits | Uzbekistan, Algebra, Grade 8 (Russian), printed p. 122 |
 
-**Acceptance count: taught in 5 countries (Kazakhstan, Sierra Leone, Malaysia, India, Mongolia).** Kazakhstan carries absolute and relative error in two independent Grade 7 algebra books — Shynybekov's as an exercise set inside approximate numbers (§1.3, p.42), and Yelemessov's as taught approximation errors (Ch. 1, p.66, with approximation itself at p.62). Sierra Leone carries the senior-school half of the topic: percentage error when rounded values are used (SSS 2, L7, p.19) and degree of accuracy — choosing an appropriate degree of accuracy for given data (SSS 2, L8, p.22). No other read country's filing teaches errors and accuracy as its own topic; plain estimation and rounding live in the rounding-and-estimating lesson, not here.
+**Acceptance count: taught in 6 countries (Kazakhstan, Sierra Leone, Malaysia, India, Mongolia, Uzbekistan).** Kazakhstan carries absolute and relative error in two independent Grade 7 algebra books — Shynybekov's as an exercise set inside approximate numbers (§1.3, p.42), and Yelemessov's as taught approximation errors (Ch. 1, p.66, with approximation itself at p.62). Sierra Leone carries the senior-school half of the topic: percentage error when rounded values are used (SSS 2, L7, p.19) and degree of accuracy — choosing an appropriate degree of accuracy for given data (SSS 2, L8, p.22). No other read country's filing teaches errors and accuracy as its own topic; plain estimation and rounding live in the rounding-and-estimating lesson, not here.
 
 Malaysia carries degree of accuracy in Form 3 as the doorway into significant figures, and meets approximation again at the top end, where a small change in a quantity is estimated from its derivative.
 

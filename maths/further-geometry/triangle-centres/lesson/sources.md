@@ -1,6 +1,6 @@
 # Sources — The special lines and centres of a triangle
 
-countries: Kuwait, Laos, Yemen, Cambodia, Egypt, Greece, Iraq, Jordan, Sierra Leone, Kazakhstan, Syria, Sudan, Mongolia, Venezuela, North Macedonia, Afghanistan
+countries: Kuwait, Laos, Yemen, Cambodia, Egypt, Greece, Iraq, Jordan, Sierra Leone, Kazakhstan, Syria, Sudan, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -30,6 +30,12 @@ Every part traces to its book and page.
 **Book 21:** *МАТЕМАТИКА 6* (Mathematics 6) — North Macedonia, Крутан Расими, Валентина Гоговска и Снежана Ристовска (Krutan Rasimi, Valentina Gogovska & Snežana Ristovska), Ministry of Education and Science, Skopje 2023, approval № 26-2185/1 of 15.09.2023; no ISBN is printed anywhere in the book. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 22:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 23:** *ریاضی, صنف ششم (Mathematics, Grade 6)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 24:** *Geometriya (Геометрия), Grade 7 student book* — Uzbekistan, Ministry of Public Education; A. Azamov, B. Haydarov, E. Sarikov, A. Kuchkarov, U. Sagdiev; Russian (Cyrillic); «Yangiyul poligraph service», Tashkent 2009, ISBN 978-9943-366-05-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 25:** *Geometriya 7 — Metodik qo'llanma (teacher's methodological guide for the Grade 7 Geometriya course)* — Uzbekistan, Ministry of Public Education; A. Azamov, B. Haydarov, E. Sariqov, A. Qo'chqorov, U. Sag'diyev; Uzbek (Latin script); «Yangiyul poligraph service», Tashkent 2009, ISBN 978-9943-366-15-2. TEACHER GUIDE — guide evidence only: a true companion to the Grade 7 student book (its sample 68-lesson plan matches the student book's §§1–68 exactly); it never counts as, or substitutes for, a pupil's book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 26:** *Geometriya (Геометрия), Grade 8 student book* — Uzbekistan, Ministry of Public Education; A. A. Rahimkariev; Russian (Cyrillic); «Yangiyo'l Poligraph Service», Tashkent 2006; no ISBN is printed anywhere in the book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -86,7 +92,12 @@ Every part traces to its book and page.
 | Constructing the circumcircle and incircle of a triangle | North Macedonia, Grade 7, Theme 2, printed p. 199 |
 
 | Altitude, median and perpendicular bisector of a triangle | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 166–167 |
-**Acceptance count: taught in 16 countries (Kuwait, Laos, Yemen, Cambodia, Egypt, Greece, Iraq, Jordan, Sierra Leone, Kazakhstan, Syria, Sudan, Mongolia, Venezuela, North Macedonia, Afghanistan).**
+| §20 Median, angle bisector and altitude of a triangle defined; three of each in every triangle | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 59 |
+| §20 Investigation: medians, altitudes and bisectors each concurrent in one point (observed by drawing, not proved); altitudes of an obtuse triangle fall outside | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 60 |
+| (TG) Dars 20 lesson plan: median, altitude, bisector of a triangle (§20), with board-discussed tasks and the worked answer that a right triangle's three altitudes are CD, AC and BC (legs serve as altitudes) | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 61 |
+| §3 Тема 16 Midline (средняя линия) of a triangle defined; Theorem: it is parallel to the third side and half its length, proved from Thales; converse stated | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 56 |
+| §3 Тема 18 Application: the three medians of a triangle meet in one point dividing each median 2 : 1 from the vertex — proved with Thales | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 61 |
+**Acceptance count: taught in 17 countries (Kuwait, Laos, Yemen, Cambodia, Egypt, Greece, Iraq, Jordan, Sierra Leone, Kazakhstan, Syria, Sudan, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan).**
 Kuwait carries the fullest treatment — a whole Grade 9 Term 2 unit walking the six topics in order: mid-segment, median to the hypotenuse, circumcentre, incentre, orthocentre, centroid — and its Grade 10 Term 2 book carries this lesson's one corrected error: the angle-bisector intersection printed as "Circum Center" on p. 23 is the Incenter, taught corrected everywhere in this lesson. Laos carries the notable lines whole in Grade 7, opened by the paper-triangle balancing experiment, with OA = OB = OC at the circumcentre. Yemen carries a proved triangle-theorem sequence in Grade 8 Part 2 — Thales and the bisectors in Unit 6, then mid-segment, hypotenuse-midpoint, the 30° side, medians and altitudes in Unit 7. Cambodia carries the full concurrence system in one Grade 8 lesson, with the centroid's AG = (2/3)AA′ proved via the midpoint theorem. Egypt carries the medians, their concurrency and the median-to-the-hypotenuse in Grade 8 Term 1. Greece carries the centroid and orthocentre among the notable lines in Euclidean Geometry Volume A. Iraq carries the medians and centroid with the 2:1 ratio in Grade 9. Jordan carries proportional parts, the mid-segment theorem, the bisectors' concurrency, medians and altitudes in Grade 9 Term 2. Sierra Leone carries the mid-point theorem and the angle bisector theorem in SSS 2. Kazakhstan carries the excircles — the part no other cited country teaches — in Geometry 8 §1.7 and Geometry 9 §20. North Macedonia enters from its main set — Grade 6 (2023) and Grade 7 (2025).
 
 Syria's triangle-centre theory is in Grade 8 Geometry — perpendicular bisectors, altitudes, medians and bisectors each proved concurrent — and is recalled in the Grade 9 diagnostic.

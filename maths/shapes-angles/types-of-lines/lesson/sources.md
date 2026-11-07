@@ -1,6 +1,6 @@
 # Sources — Types of Lines
 
-countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan
+countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -26,6 +26,16 @@ Every part traces to its book and page.
 **Book 20:** *ریاضی, صنف ۷ (Mathematics, Grade 7)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of lines in the first pages of its Unit 10, "Types of lines and angles" — the angle half of that unit lives in the angles lesson; this lesson is the lines half. It is a Primary 2 topic taught with pictures and naming activities, so the lesson is built at that honest, small size.
+
+**Book 21:** *Matematika (Математика), Grade 2 student book* — Uzbekistan, Ministry of Public Education; N. Abdurahmanova, L. Urinbaeva; Russian (Cyrillic); 3rd edition, «Yangiyo'l Poligraf Servis», Tashkent 2016, ISBN 978-9943-979-68-0. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 22:** *Matematika (Математика), Grade 5 student book* — Uzbekistan, Ministry of Public Education; M. A. Mirzaahmedov, A. A. Rahimkariev; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2007, ISBN 978-9943-07-047-9. The held scan lacks printed pp. 123 and 147; nothing is cited from them. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 23:** *Matematika (Математика), Grade 6 student book* — Uzbekistan, Ministry of Public Education; M. A. Mirzaahmedov, A. A. Rahimkariev; Russian (Cyrillic); 3rd edition, revised and supplemented, «O'qituvchi», Tashkent 2009, ISBN 978-9943-02-092-4. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 24:** *Geometriya (Геометрия), Grade 7 student book* — Uzbekistan, Ministry of Public Education; A. Azamov, B. Haydarov, E. Sarikov, A. Kuchkarov, U. Sagdiev; Russian (Cyrillic); «Yangiyul poligraph service», Tashkent 2009, ISBN 978-9943-366-05-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 25:** *Geometriya 7 — Metodik qo'llanma (teacher's methodological guide for the Grade 7 Geometriya course)* — Uzbekistan, Ministry of Public Education; A. Azamov, B. Haydarov, E. Sariqov, A. Qo'chqorov, U. Sag'diyev; Uzbek (Latin script); «Yangiyul poligraph service», Tashkent 2009, ISBN 978-9943-366-15-2. TEACHER GUIDE — guide evidence only: a true companion to the Grade 7 student book (its sample 68-lesson plan matches the student book's §§1–68 exactly); it never counts as, or substitutes for, a pupil's book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -89,8 +99,27 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 | Parallel lines | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 163–164 |
 | Intersecting lines | Afghanistan, Mathematics Grade 6 (Dari), printed p. 165 |
 | Parallel and perpendicular lines | Afghanistan, Mathematics Grade 7 (Dari), printed pp. 157–158 |
+| broken line (ломаная): drawing it, counting links, sum of link lengths | Uzbekistan, Matematika, Grade 2 (Russian), printed p. 14 |
+| letter notation for figures: a segment is named by two capital letters (AB, CD); naming broken-line vertices | Uzbekistan, Matematika, Grade 2 (Russian), printed p. 101 |
+| Topic 7: segment and its length, AB = AC + CB, straight line (one line through two points), ray and its origin | Uzbekistan, Matematika, Grade 5 (Russian), printed p. 18-20 |
+| Revision exercises: polyline (broken line) and its length, coordinates on the ray | Uzbekistan, Matematika, Grade 5 (Russian), printed p. 213 |
+| Topic 44: perpendicular lines (a ⊥ b) and parallel lines (a ∥ b), perpendicular and parallel segments | Uzbekistan, Matematika, Grade 6 (Russian), printed p. 160-161 |
+| §2 Point, line and plane as basic concepts; notation; point on / not on a line (∈, ∉) | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 11 |
+| §2 Axioms: one line through two points; a line splits the plane into two half-planes; two lines meet in at most one point | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 12 |
+| §3 Betweenness axiom; segment defined, endpoints, interior points | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 14 |
+| §3 Ray defined, origin, notation; a point splits a line into two opposite rays; segment/ray vs line (exercises) | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 14 |
+| §4 Midpoint of a segment; equal segments marked with equal ticks | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 17 |
+| §13 Perpendicular lines defined; theorem: through a point of a line only one perpendicular to it, proved | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 39 |
+| §13 Oblique (наклонная) and perpendicular from a point to a line; foot; practical constructions with protractor and set square | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 40 |
+| §37 Parallel lines defined (coplanar, non-intersecting); parallel segments and rays; theorem: lines perpendicular to the same line are parallel | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 94 |
+| §37 Parallel axiom: through a point off a line exactly one line parallel to it; transitivity of parallelism proved by contradiction | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 95 |
+| §39 Parallel test: if alternate angles formed by a transversal are equal, the lines are parallel — proved | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 99 |
+| §40 Corollaries: equal corresponding angles ⇒ parallel; same-side angles supplementary ⇒ parallel; worked checks (∠2 = 55°, ∠5 = 125° ⇒ parallel) | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 100 |
+| (TG) Dars 2–5 lesson plans: point/line/plane (§2), segment and ray (§3), comparing segments (§4), segment length and measuring (§5), each with timed stages, independent-work variants, answers and extra counting tasks (segments from n points: 10, 15, 21, …, 5050) | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 26 |
+| (TG) Dars 13 lesson plan: perpendicular lines (§13), with mathematical-dictation variants | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 45 |
+| (TG) Dars 37–40 lesson plans: parallelism of lines (§37), transversal angles (§38), parallel tests (§39–40), with printed answers to selected textbook problems (§40: e.g. ∠2 = ∠4 = ∠6 = ∠8 = 75°, ∠3 = ∠7 = 105°) | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 92 |
 
-**Acceptance count: taught in 6 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan).** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; no other read country gives line types a named treatment of their own, so this lesson is built at that honest size — a small lesson, complete for what its one source teaches. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
+**Acceptance count: taught in 7 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan).** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; no other read country gives line types a named treatment of their own, so this lesson is built at that honest size — a small lesson, complete for what its one source teaches. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
 
 India stocks types of lines from Math-Magic Class 2 and Mathematics Class 6–7, 9: standing, slanting, sleeping lines; point and line; intersecting lines and their point of intersection; basic terms.
 

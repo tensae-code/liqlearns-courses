@@ -1,6 +1,6 @@
 # Sources — Sine and cosine rules
 
-countries: Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Iraq, Cambodia, Kuwait, Iran, China, Pakistan, Malaysia, Mongolia, Venezuela, North Macedonia, Afghanistan
+countries: Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Iraq, Cambodia, Kuwait, Iran, China, Pakistan, Malaysia, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -92,6 +92,8 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 **Book 36:** *ریاضی صنف دهم (Mathematics, Grade 10)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 37:** *ریاضی صنف ۱۱ (Mathematics, Grade 11)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 38:** *Geometriya (Геометрия), Grade 9 student book* — Uzbekistan, Ministry of Public Education; B. Haydarov, E. Sarikov, A. Kuchkarov, ed. A. Azamov; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2006, ISBN 05-89890-136-1 (as printed). Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Cosine rule as Theorem 1 (all three forms), proved by vectors; Pythagoras as a special case; comparing a² with b² + c² decides acute/right/obtuse; sine rule as Theorem 3, a/sin α = b/sin β = c/sin γ = 2R, proved through S = ½bc sin α and R = abc/(4S); solving triangles — the four standard cases as algorithms with discussion; the river-width measurement problem solved by sine + cosine rules in sequence | Kazakhstan, Geometry 9 (Shynybekov, Atamura 2019), Chapter 3 Solving triangles, §3.1 cosine rule and sine rule; §3.2 solving triangles; §3.3 applications, pp.108–125 |
@@ -162,8 +164,13 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Sine rule: proof (acute and obtuse cases) and solving triangles | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 51–56 |
 | Cosine rule: proof and solving triangles | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 57–60 |
 | Tangent rule for a triangle: statement and proof | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 61–64 |
+| Lesson 31 the sine rule a/sin A = b/sin B = c/sin C (proved from the area formula) | Uzbekistan, Geometriya, Grade 9 (Russian), printed p. 72 |
+| Lesson 31 the extended sine rule: a/sin A = 2R, R the circumradius (proved with the diameter) | Uzbekistan, Geometriya, Grade 9 (Russian), printed p. 73 |
+| Lesson 32 the cosine rule a² = b² + c² − 2bc cos A (proved via an altitude and Pythagoras); cos A = (b² + c² − a²)/(2bc); Pythagoras as the case A = 90° | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 74–75 |
+| Lesson 33 deciding acute/right/obtuse from the sign of cos A; S = abc/(4R) and R = abc/(4S); Heron's formula used | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 76–77 |
+| Lesson 35 solving a triangle: the four standard cases worked (ASA, SAS, SSS with tables/computer calculator for inverse trig) | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 80–81 |
 
-**Acceptance count: taught in 23 countries (Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Iraq, Cambodia, Kuwait, Iran, China, Pakistan, Malaysia, Mongolia, Venezuela, North Macedonia, Afghanistan).** Iran states and proves both the sine rule and the cosine rule in Grade 11 Geometry (2), and carries trigonometric identities and equations in Grade 11 Hesaban (1), Grade 12 Hesaban (2) and Grade 12 Mathematics (3) — the last naming the double-angle formulas explicitly.
+**Acceptance count: taught in 24 countries (Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Iraq, Cambodia, Kuwait, Iran, China, Pakistan, Malaysia, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan).** Iran states and proves both the sine rule and the cosine rule in Grade 11 Geometry (2), and carries trigonometric identities and equations in Grade 11 Hesaban (1), Grade 12 Hesaban (2) and Grade 12 Mathematics (3) — the last naming the double-angle formulas explicitly.
 Kazakhstan carries the fullest treatment — all three Grade 9
 Geometry books prove both rules (by vectors, by coordinates,
 by altitude) and work the standard solving cases, including

@@ -1,6 +1,6 @@
 # Sources — Temperature and Traditional Measures
 
-countries: Nepal, South Africa, South Sudan, Mauritania, Nicaragua, Kazakhstan, Laos, Sudan, India, Mongolia, Venezuela
+countries: Nepal, South Africa, South Sudan, Mauritania, Nicaragua, Kazakhstan, Laos, Sudan, India, Mongolia, Venezuela, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -23,6 +23,10 @@ Every part traces to its book and page.
 **Book 16:** *Математик VII (Mathematics, Grade 7)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 17:** *Matemática Para La Vida* — Venezuela, Grade 7 (1er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-322-7. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 18:** *Matematika (Математика), Grade 5 student book* — Uzbekistan, Ministry of Public Education; M. A. Mirzaahmedov, A. A. Rahimkariev; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2007, ISBN 978-9943-07-047-9. The held scan lacks printed pp. 123 and 147; nothing is cited from them. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 19:** *Algebra (Алгебра), Grade 8 student book* — Uzbekistan, Ministry of Public Education; Sh. A. Alimov, A. R. Halmuhamedov, M. A. Mirzaahmedov; Russian (Cyrillic); «O'qituvchi», Tashkent 2006, ISBN 5-645-04563-7. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Reading a thermometer; Celsius and Fahrenheit scales; body temperature 36.5 °C / 98 °F | Nepal, Grade 4 student book, Lesson 7 §7.2, printed pp.105–111 |
@@ -41,7 +45,9 @@ Every part traces to its book and page.
 | Mongolian traditional units — Traditional length units with metric values (yamkh 3.2 cm, sööm 16 cm, mukhar sööm 12 cm, töö 18 cm, tokhoi 32 cm, alkham 71 cm, delem 1 m, ald 160–165 cm) and traditional weights (dan 59.68 kg, jin 596.82 g, lan 37.3 g, tsen 3.73 g, pun 0.373 g), converted both ways | Mongolia, Математик VII (Grade 7), printed p. 129 |
 
 | Temperature — Reading ambient thermometers in °C and temperature intervals on the integer line (Pico Bolívar between −5 °C and 26 °C); thermal-equilibrium averaging questions for mixed liquids | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 26–27, 48–49 |
-**Acceptance count: taught in 11 countries (Nepal, South Africa, South Sudan, Mauritania, Nicaragua, Kazakhstan, Laos, Sudan, India, Mongolia, Venezuela).** Nepal carries both halves of the lesson: the thermometer with both scales in Grade 4, and the land units — ropani, aana, paisa, daam, katha, dhur — as a full Grade 9 strand with cost problems. South Africa carries thermometer reading through its Grade 5–7 workbooks, in weather contexts. South Sudan carries the conversion formulas in its student books — Pupil's Book 5 prints them correctly with the 32 offset, and Pupil's Book 7 works 50 °C = 122 °F; only the student books are cited, never the P7 guide, which prints the formulas without the 32. Mauritania carries the fullest traditional-measures chapter: the Islamic measures of length, weight, capacity and time, with values, worked into zakat exercises. Nicaragua carries body units by name in Grade 1 and its own land units, vara cuadrada and manzana, in Grade 4. Kazakhstan carries the old Kazakh length units in a Grade 5 reference box. Laos carries the traditional Lao mass units — baht, salung, hun — and the carat in Grade 5.
+| History: old Uzbek measures — kadam, karich, kuloch, barmok, lokot, kari, misqal, kadak, pud, batman, tanab, gaz (from Babur's Baburnama) | Uzbekistan, Matematika, Grade 5 (Russian), printed p. 79 |
+| historical tasks: thermal expansion of a rod; Celsius–Fahrenheit conversion formula Taught corrected: the book prints the Celsius–Fahrenheit formula as y = (9/5)(x + 32), which gives 57.6 at 0 °C; the correct formula, taught here, is y = (9/5)x + 32. | Uzbekistan, Algebra, Grade 8 (Russian), printed p. 30 |
+**Acceptance count: taught in 12 countries (Nepal, South Africa, South Sudan, Mauritania, Nicaragua, Kazakhstan, Laos, Sudan, India, Mongolia, Venezuela, Uzbekistan).** Nepal carries both halves of the lesson: the thermometer with both scales in Grade 4, and the land units — ropani, aana, paisa, daam, katha, dhur — as a full Grade 9 strand with cost problems. South Africa carries thermometer reading through its Grade 5–7 workbooks, in weather contexts. South Sudan carries the conversion formulas in its student books — Pupil's Book 5 prints them correctly with the 32 offset, and Pupil's Book 7 works 50 °C = 122 °F; only the student books are cited, never the P7 guide, which prints the formulas without the 32. Mauritania carries the fullest traditional-measures chapter: the Islamic measures of length, weight, capacity and time, with values, worked into zakat exercises. Nicaragua carries body units by name in Grade 1 and its own land units, vara cuadrada and manzana, in Grade 4. Kazakhstan carries the old Kazakh length units in a Grade 5 reference box. Laos carries the traditional Lao mass units — baht, salung, hun — and the carat in Grade 5.
 
 Sudan keeps its traditional dry measures in Grade 4: 1 kayla = 2 rubuʿ = 4 malwa, taught inside the capacity work.
 

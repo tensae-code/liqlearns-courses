@@ -1,6 +1,6 @@
 # Sources — Pythagoras
 
-countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan
+countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -140,6 +140,8 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 **Book 58:** *La Matemática de la Belleza* — Venezuela, Grade 9 (3er año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-329-6. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 59:** *ریاضی, صنف ۸ (Mathematics, Grade 8)* — Afghanistan, Ministry of Education, Kabul (Dari); the book disagrees with itself on the year — 1399 HS on the cover and title page, 1398 HS on the specifications page — and both printings are carried as filed; no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 60:** *Geometriya (Геометрия), Grade 8 student book* — Uzbekistan, Ministry of Public Education; A. A. Rahimkariev; Russian (Cyrillic); «Yangiyo'l Poligraph Service», Tashkent 2006; no ISBN is printed anywhere in the book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Pythagoras' theorem and its converse (3-2, printed 70–77): finding a side; the converse; classifying triangles by angles from side lengths (acute, right or obtuse by comparing squares); Get Ready: a 13-foot ladder against a wall; Unit Three Activity: a Pythagoras practical (printed 104) | Egypt, Grade 8 Term 1, Unit 3, 3-2, printed pp.70–77, 104 |
@@ -228,8 +230,15 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 
 | Pythagoras' theorem and its converse | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 105–110 |
 | Right-triangle theorems: the altitude on the hypotenuse (geometric-mean relations) | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 111–114 |
+| §5 Тема 26 Pythagoras' theorem stated (proof deferred to Тема 27): c² = a² + b² as equality of square areas; Pythagorean triples and the generating formulas a = (x²−y²)n, b = 2xyn, c = (x²+y²)n with examples 3-4-5 and 5-12-13; Egyptian triangle | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 85 |
+| §5 Тема 27 Proof of Pythagoras' theorem by comparing two (a+b) squares: 4SΔ + c² = 4SΔ + a² + b² | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 88 |
+| §5 Тема 28 Corollary 1: every leg is shorter than the hypotenuse; the perpendicular is the shortest distance from a point to a line; distance from a point to a line defined | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 90 |
+| §5 Тема 28 Converse of Pythagoras' theorem: if a² + b² = c² for one side, the triangle is right-angled — proved by building a comparison right triangle | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 91 |
+| §5 Тема 29 Altitude of a triangle from its three sides: foot division x = (b²+c²−a²)/(2c) and h_c = (1/(2c))√(4b²c² − (b²+c²−a²)²), with the factorisation to 16p(p−a)(p−b)(p−c); obtuse and right cases discussed | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 93 |
+| §5 Тема 31 Practical application: checking that a pole is vertical with a 3-4-5 rope (converse of Pythagoras) | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 96 |
+| §5 History: al-Khwarizmi's proof of Pythagoras' theorem from the "Algebra"; worked area of an equilateral triangle of side 10: S = 5√75 = 25√3 ≈ 43.3 | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 98 |
 
-**Acceptance count: taught in 30 countries (Egypt, Greece, Armenia, Kazakhstan, Vietnam, Sierra Leone, Libya, Mauritania, South Africa, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan).**.** Egypt carries the fullest single treatment — Iran states Pythagoras' theorem in Grade 8 and verifies it on examples rather than proving it, and uses the converse.
+**Acceptance count: taught in 31 countries (Egypt, Greece, Armenia, Kazakhstan, Vietnam, Sierra Leone, Libya, Mauritania, South Africa, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan).**.** Egypt carries the fullest single treatment — Iran states Pythagoras' theorem in Grade 8 and verifies it on examples rather than proving it, and uses the converse.
 the theorem, its converse, classifying triangles by comparing
 squares, the 13-foot ladder and a Pythagoras practical in Grade
 8. Sierra Leone carries the cleanest ladder in JSS 3 — the

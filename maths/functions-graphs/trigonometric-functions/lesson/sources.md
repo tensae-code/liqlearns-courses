@@ -1,6 +1,6 @@
 # Sources — Trigonometric Functions
 
-countries: China, Pakistan, Iraq, Greece, Iran, Vietnam, Ethiopia, South Sudan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan
+countries: China, Pakistan, Iraq, Greece, Iran, Vietnam, Ethiopia, South Sudan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -33,6 +33,10 @@ Every part traces to its book and page.
 **Book 20:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 21:** *МАТЕМАТИКА ЗА III ГОДИНА НА РЕФОРМИРАНОТО ГИМНАЗИСКО ОБРАЗОВАНИЕ* (Mathematics for the third year of the reformed gymnasium education) — North Macedonia, Јорданка Митевска, Иван Трајков и Лилјана Грибовска-Поповиќ (Jordanka Mitevska, Ivan Trajkov & Liljana Gribovska-Popovik), Просветно дело АД, Skopje, II издание (second edition), 2018 printing (its CIP block carries the 2003 first-edition record, ISBN 9989-0-0343-0). Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 22:** *ریاضی صنف دهم (Mathematics, Grade 10)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 23:** *Algebra (Алгебра), Grade 9 student book* — Uzbekistan, Ministry of Public Education; Sh. A. Alimov, A. R. Halmuhamedov, M. A. Mirzaahmedov; Russian (Cyrillic); «O'qituvchi», Tashkent 2006, ISBN 5-645-04565-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 24:** *Geometriya (Геометрия), Grade 9 student book* — Uzbekistan, Ministry of Public Education; B. Haydarov, E. Sarikov, A. Kuchkarov, ed. A. Azamov; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2006, ISBN 05-89890-136-1 (as printed). Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -100,7 +104,22 @@ Every part traces to its book and page.
 | Graph of the cotangent function | Afghanistan, Mathematics Grade 10 (Dari), printed p. 207 |
 | Graph of the secant function | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 208–209 |
 | Graph of the cosecant function | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 210–212 |
-**Acceptance count: taught in 17 countries (China, Pakistan, Iraq, Greece, Iran, Vietnam, Ethiopia, South Sudan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan).** China carries the full chapter — trig functions of a general angle, the graphs, y = A sin(ωx + φ), and the tide model — with its teacher guide as teacher evidence for the sine-line-first order. Pakistan carries all six functions with their domains and ranges, the sinusoidal family a + b sin(cθ + d), and Ferris-wheel and tide models. Iraq carries the circular functions whole in Grade 11 Scientific, and contributes a corrected calculator value from Grade 10 Scientific (tan(−36°) ≈ −0.7265, not the printed −0.588). Greece carries trig functions of any angle inside its B' Lykeiou trigonometry chapter. Iran carries periodicity and the tangent function's graph in Hesaban (2). Vietnam carries trigonometric functions as a named lesson in Toán 11 Volume 1. Ethiopia carries the graphs of sin, cos and tan with period, amplitude and the tangent's asymptotes in Grade 10. South Sudan carries trig graphs in Secondary 4. North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
+| §21 sine of an angle = ordinate, cosine = abscissa of the rotated point (1; 0); sin and cos for any angle, values in [−1; 1] | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 115–116 |
+| §21 tangent tg α = sin α / cos α and cotangent ctg α = cos α / sin α; where they are undefined | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 117–118 |
+| §21 table of sin, cos, tg, ctg for 0, π/6, π/4, π/3, π/2, π, 3π/2, 2π; graphs of y = sin x and y = cos x drawn; trigonometric functions named; Bradis tables | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 118–119 |
+| §22 signs of sine and cosine by quadrant | Uzbekistan, Algebra, Grade 9 (Russian), printed p. 121 |
+| §22 signs of tangent and cotangent by quadrant (same signs) | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 122–123 |
+| §28 periodic functions: period T defined by f(x − T) = f(x) = f(x + T); 2π is the least positive period of cos x (proved) and of sin x; tg(α + πk) = tg α | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 142–143 |
+| historical tasks of Ch. V: al-Biruni's problems (depth of a well, height of a minaret from two sighting angles); al-Kashi's sin(45° + α/2) = √((1 + sin α)/2); Abu'l-Wafa's identity for sin(α − β) | Uzbekistan, Algebra, Grade 9 (Russian), printed p. 155 |
+| history after Ch. V: al-Khwarizmi, al-Farghani, al-Biruni, Ulugbek, al-Kashi, Ali Qushchi; Ulugbek's sine tables to 10^−10; al-Kashi's sin 1° = 0,017452406437283512… and 2π = 6,2831853071795865… | Uzbekistan, Algebra, Grade 9 (Russian), printed p. 156 |
+| historical tasks of Ch. VI: al-Biruni's chessboard progression identity q^k − 1 = 1 + q + … + q^(k−1); Ahmes papyrus (2000 BC) arithmetic-progression grain problem | Uzbekistan, Algebra, Grade 9 (Russian), printed p. 186 |
+| Lesson 22 sine, cosine, tangent, cotangent of an acute angle as ratios in a right triangle (opposite/adjacent/hypotenuse) | Uzbekistan, Geometriya, Grade 9 (Russian), printed p. 52 |
+| Lesson 22 theorem: the ratios depend only on the angle, not on the triangle (proved by AA similarity) | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 52–53 |
+| Lesson 24 exact values for 45° (from an isosceles right triangle) and for 30°/60° (from half an equilateral triangle); the standard table | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 56–57 |
+| Lesson 26 sine and cosine of an angle from 0° to 180° via the unit semicircle: sin α = ordinate y, cos α = abscissa x of the point; tg α = y/x, ctg α = x/y; sin 0° = sin 180° = 0, sin 90° = 1 | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 60–61 |
+| Lesson 38 historical etudes: the word "sine" — Indian jiva (chord), Arabic jaib, Latin sinus; "cosine" from complementi sinus; al-Biruni's proof of the sine rule | Uzbekistan, Geometriya, Grade 9 (Russian), printed p. 86 |
+| Lessons 29/38 appendix: the "golden triangle" (36°–72°–72°), its bisector property, sin 18° = (√5 − 1)/4 derived; Ulugbek (1394–1449), the Guragan Zij, sine tables to 10 decimal places | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 68–69 |
+**Acceptance count: taught in 18 countries (China, Pakistan, Iraq, Greece, Iran, Vietnam, Ethiopia, South Sudan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan).** China carries the full chapter — trig functions of a general angle, the graphs, y = A sin(ωx + φ), and the tide model — with its teacher guide as teacher evidence for the sine-line-first order. Pakistan carries all six functions with their domains and ranges, the sinusoidal family a + b sin(cθ + d), and Ferris-wheel and tide models. Iraq carries the circular functions whole in Grade 11 Scientific, and contributes a corrected calculator value from Grade 10 Scientific (tan(−36°) ≈ −0.7265, not the printed −0.588). Greece carries trig functions of any angle inside its B' Lykeiou trigonometry chapter. Iran carries periodicity and the tangent function's graph in Hesaban (2). Vietnam carries trigonometric functions as a named lesson in Toán 11 Volume 1. Ethiopia carries the graphs of sin, cos and tan with period, amplitude and the tangent's asymptotes in Grade 10. South Sudan carries trig graphs in Secondary 4. North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
 
 Syria studies the tangent function completely in Grade 12 Part One — domain, period, asymptotes and derivative.
 

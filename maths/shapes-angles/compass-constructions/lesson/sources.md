@@ -1,6 +1,6 @@
 # Sources — Constructions with ruler and compass
 
-countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan
+countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -48,6 +48,14 @@ Every part traces to its book and page.
 **Book 33:** *МАТЕМАТИКА 6* (Mathematics 6) — North Macedonia, Крутан Расими, Валентина Гоговска и Снежана Ристовска (Krutan Rasimi, Valentina Gogovska & Snežana Ristovska), Ministry of Education and Science, Skopje 2023, approval № 26-2185/1 of 15.09.2023; no ISBN is printed anywhere in the book. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 34:** *МАТЕМАТИКА 7* (Mathematics 7) — North Macedonia, Д-р Валентина Гоговска и Снежана Ристовска (Dr Valentina Gogovska & Snezhana Ristovska), АЛБИ (Albi), Skopje 2025, approval № 26-913/1 of 22.08.2025, ISBN 978-608-241-054-8. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 35:** *ریاضی, صنف ششم (Mathematics, Grade 6)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 36:** *Geometriya (Геометрия), Grade 7 student book* — Uzbekistan, Ministry of Public Education; A. Azamov, B. Haydarov, E. Sarikov, A. Kuchkarov, U. Sagdiev; Russian (Cyrillic); «Yangiyul poligraph service», Tashkent 2009, ISBN 978-9943-366-05-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 37:** *Geometriya 7 — Metodik qo'llanma (teacher's methodological guide for the Grade 7 Geometriya course)* — Uzbekistan, Ministry of Public Education; A. Azamov, B. Haydarov, E. Sariqov, A. Qo'chqorov, U. Sag'diyev; Uzbek (Latin script); «Yangiyul poligraph service», Tashkent 2009, ISBN 978-9943-366-15-2. TEACHER GUIDE — guide evidence only: a true companion to the Grade 7 student book (its sample 68-lesson plan matches the student book's §§1–68 exactly); it never counts as, or substitutes for, a pupil's book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 38:** *Geometriya (Геометрия), Grade 8 student book* — Uzbekistan, Ministry of Public Education; A. A. Rahimkariev; Russian (Cyrillic); «Yangiyo'l Poligraph Service», Tashkent 2006; no ISBN is printed anywhere in the book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 39:** *Geometriya (Геометрия), Grade 9 student book* — Uzbekistan, Ministry of Public Education; B. Haydarov, E. Sarikov, A. Kuchkarov, ed. A. Azamov; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2006, ISBN 05-89890-136-1 (as printed). Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -134,7 +142,19 @@ Every part traces to its book and page.
 | The perpendicular bisector of a segment | Afghanistan, Mathematics Grade 6 (Dari), printed p. 206 |
 | Copying a given angle; building the sum of two given angles | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 207–208 |
 | Drawing parallel lines with set square and ruler | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 209–210 |
-**Acceptance count: taught in 16 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan).** North Macedonia enters from its main set — Grade 6 (2023) and Grade 7 (2025).
+| §30 Compass-and-straightedge constructions: permitted operations of the plain ruler and of compasses; a construction must be justified | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 82 |
+| §31 Constructing an angle equal to a given angle (steps + justification by SSS); angle equal to the sum of two angles | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 83 |
+| §32 Bisecting an angle (steps + justification by SSS); dividing a right angle into three equal parts; angle trisection impossible in general (history note) | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 85 |
+| §33 Constructing a perpendicular to a line through a point on it and through a point off it (justified by SSS) | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 87 |
+| §33 Bisecting a segment; constructing the perpendicular bisector of a segment; uniqueness of the perpendicular from an external point (theorem) | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 88 |
+| (TG) Dars 31–34 lesson plans: constructing an angle equal to a given one (§31), bisecting an angle (§32), perpendicular to a line and bisecting a segment (§33), triangle from three sides (§34), each with dictations, extra tests and gifted tasks (centres of all circles through two points lie on the perpendicular bisector) | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 84 |
+| §3 Тема 18 Application: dividing a segment into n equal parts with compass and straightedge (Thales construction) | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 61 |
+| Lesson 44 compass-and-straightedge constructions: regular hexagon (side = radius), triangle, square, octagon, 2n-gon from an n-gon, circumscribed polygon from tangents | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 100–101 |
+| Lesson 44 historical etude: Gauss (1777–1855) and constructible polygons — n a Fermat prime 2^(2^k) + 1: 17-gon, 257-gon, 65537-gon | Uzbekistan, Geometriya, Grade 9 (Russian), printed p. 101 |
+| Lesson 48 squaring the circle: impossible with compass and straightedge (proved only at the end of the 19th century) | Uzbekistan, Geometriya, Grade 9 (Russian), printed p. 109 |
+| Lesson 55 constructing the geometric-mean segment √(ab) with a semicircle on a + b; constructing √2, √3, √5, √6 from a unit segment | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 124–125 |
+| Lesson 58 two compass-and-straightedge constructions of the golden-section point, each with justification | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 130–131 |
+**Acceptance count: taught in 17 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan).** North Macedonia enters from its main set — Grade 6 (2023) and Grade 7 (2025).
 
 Sierra Leone teaches the fullest school construction course here: SSS 2 Term 2 lessons 79–83 work through bisection and the constructible angles in order, and its JSS 1 handbook gives the first constructions. Laos builds the same skills in Grade 6 — parallels and perpendiculars through a point, the perpendicular bisector, copying an angle and a segment — after using a compass from Grade 4. Iran is the country that insists on reasons: its Geometry (1) presents constructions with justifications, so each arc is there for a stated cause. Armenia teaches construction as a method, with the stages of a construction problem named as part of the work. Pakistan's Grade 6 practical-geometry unit and Bangladesh's Class 7 experiments give the same constructions as set exercises, and Kuwait's Grade 7 Term 2 Unit 6 carries a long construction unit of its own.
 

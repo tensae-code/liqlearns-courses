@@ -1,6 +1,6 @@
 # Sources — Circles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -258,6 +258,20 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 **Book 134:** *ریاضی, صنف ششم (Mathematics, Grade 6)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 135:** *ریاضی صنف دهم (Mathematics, Grade 10)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 136:** *Matematika (Математика), Grade 2 student book* — Uzbekistan, Ministry of Public Education; N. Abdurahmanova, L. Urinbaeva; Russian (Cyrillic); 3rd edition, «Yangiyo'l Poligraf Servis», Tashkent 2016, ISBN 978-9943-979-68-0. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 137:** *Matematika (Математика), Grade 5 student book* — Uzbekistan, Ministry of Public Education; M. A. Mirzaahmedov, A. A. Rahimkariev; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2007, ISBN 978-9943-07-047-9. The held scan lacks printed pp. 123 and 147; nothing is cited from them. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 138:** *Matematika (Математика), Grade 6 student book* — Uzbekistan, Ministry of Public Education; M. A. Mirzaahmedov, A. A. Rahimkariev; Russian (Cyrillic); 3rd edition, revised and supplemented, «O'qituvchi», Tashkent 2009, ISBN 978-9943-02-092-4. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 139:** *Geometriya (Геометрия), Grade 7 student book* — Uzbekistan, Ministry of Public Education; A. Azamov, B. Haydarov, E. Sarikov, A. Kuchkarov, U. Sagdiev; Russian (Cyrillic); «Yangiyul poligraph service», Tashkent 2009, ISBN 978-9943-366-05-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 140:** *Geometriya 7 — Metodik qo'llanma (teacher's methodological guide for the Grade 7 Geometriya course)* — Uzbekistan, Ministry of Public Education; A. Azamov, B. Haydarov, E. Sariqov, A. Qo'chqorov, U. Sag'diyev; Uzbek (Latin script); «Yangiyul poligraph service», Tashkent 2009, ISBN 978-9943-366-15-2. TEACHER GUIDE — guide evidence only: a true companion to the Grade 7 student book (its sample 68-lesson plan matches the student book's §§1–68 exactly); it never counts as, or substitutes for, a pupil's book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 141:** *Geometriya (Геометрия), Grade 8 student book* — Uzbekistan, Ministry of Public Education; A. A. Rahimkariev; Russian (Cyrillic); «Yangiyo'l Poligraph Service», Tashkent 2006; no ISBN is printed anywhere in the book. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 142:** *Geometriya (Геометрия), Grade 9 student book* — Uzbekistan, Ministry of Public Education; B. Haydarov, E. Sarikov, A. Kuchkarov, ed. A. Azamov; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2006, ISBN 05-89890-136-1 (as printed). Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The circle and its parts (p.111) — names parts, no circumference or area yet | Jordan, Grade 6 Student Book Term 1, Unit 4, L4, p.111 |
@@ -452,8 +466,29 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 | The ratio of circumference to diameter: pi = 22/7 and circumference = pi x diameter | Afghanistan, Mathematics Grade 6 (Dari), printed pp. 186–188 |
 | Arc length | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 249–250 |
 | Circumradius and inradius of a triangle; sine rule derived from circumradius (a/sin A = 2R) | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 262–266 |
+| circle and circumference: drawing with compasses, centre, radius, diameter; points inside and outside | Uzbekistan, Matematika, Grade 2 (Russian), printed p. 150 |
+| Topic 36: circle vs disc (круг), centre, radius, chord, diameter, d = 2r, drawing with compasses | Uzbekistan, Matematika, Grade 5 (Russian), printed p. 126-129 |
+| Topic 21: circumference C = 2πr = πd found by a rolling-disc experiment, π as a non-periodic infinite decimal (π ≈ 3,14; ≈ 3,1416; ≈ 22/7), area of a circle S = πr² Taught corrected: the book prints π as 3,14159265358979325 (pp. 77, 80), claiming 17 correct digits; the 17th digit is wrong — π = 3,141592653589793238… | Uzbekistan, Matematika, Grade 6 (Russian), printed p. 76-79 |
+| History: table of π approximations from Archimedes to Viète; al-Kashi's value printed as 3,14159265358979325 with 17 correct digits claimed | Uzbekistan, Matematika, Grade 6 (Russian), printed p. 80 |
+| §29 Circle defined: centre, radius, chord, diameter; disc (круг); drawing a circle with compasses; circle on squared paper without compasses | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 80 |
+| §29 Theorem: a diameter through the midpoint of a chord is perpendicular to the chord, proved via isosceles-triangle median property | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 80 |
+| (TG) Dars 29–30 lesson plans: circle (§29) and compass-and-straightedge constructions (§30), extra problems with hints (chords through an endpoint of a diameter making equal angles with it are equal — use SSS) | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 80 |
+| (TG) Ch. IV §4.1 Enrichment essay 2: circle and disc BEYOND the grade-7 course — sector, segment, tangent, secant, line–circle positions (d > R, d = R, d < R), central and inscribed angles, interior/exterior angle theorems, intersecting-chords product MA·MB constant, circumference/diameter ratio π | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 138 |
+| §6 Тема 32 Circle and disc defined; centre, radius, chord, diameter; notation (O, R); central angle defined | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 99 |
+| §6 Тема 32 Arcs and their angular measure: degree measure of an arc = its central angle; the two arcs on the same endpoints sum to 360°; semicircle = 180°; equal arcs ⇔ equal central angles | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 100 |
+| §6 Тема 33 Theorem 1: a diameter through the midpoint of a chord is perpendicular to the chord, proved; corollaries: it bisects the arc; the perpendicular bisector of a chord is a diameter | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 102 |
+| §6 Тема 33 Theorem 2: no chord exceeds the diameter (AB ≤ d), proved | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 102 |
+| §6 Тема 34 Relative position of two circles by centre distance d and radii: separate (d > R1+R2), one inside another (d + R2 < R1), externally tangent (d = R1+R2), internally tangent (d = R1−R2), intersecting in two points (R1−R2 < d < R1+R2), concentric (d = 0); two circles meet in at most two points; common chord is perpendicular to the line of centres (stated) | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 103 |
+| §6 Тема 35 Line and circle by distance d from centre: d > R none, d < R two points (secant), d = R one point; tangent defined; tangent test (line through a point of the circle perpendicular to the radius is tangent) | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 107 |
+| §6 Тема 35 Tangent property: a tangent is perpendicular to the radius at the point of tangency, proved by contradiction | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 109 |
+| §6 Тема 37 Circumscribed polygon and incircle defined; a polygon has an incircle iff a point equidistant from all sides exists; Theorem: every triangle has exactly one incircle, centre = intersection of the angle bisectors, proved | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 115 |
+| §6 Тема 38 Inscribed polygon and circumcircle defined; Lemma: perpendiculars to two intersecting lines intersect; Theorem: every triangle has exactly one circumcircle, centre = intersection of the perpendicular bisectors, proved | Uzbekistan, Geometriya, Grade 8 (Russian), printed p. 117 |
+| Lesson 40 polygon circumscribed about a circle; theorem: area of a circumscribed polygon S = p·r (semiperimeter × inradius, proved) | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 92–93 |
+| Lesson 42 every regular polygon has an incircle and a circumcircle with a common centre (theorem proved); central angles; apothem; area S = ½·n·a·r | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 96–97 |
+| Lesson 43 side–radius formulas: R = a/(2 sin(180°/n)), r = a/(2 tg(180°/n)), r = R cos(180°/n); the cases n = 3 (R = 2r), n = 4 (R = r√2), n = 6 (R = a) | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 98–99 |
+| Lesson 50 history of π: Egypt/Babylon 3 and 3,12; Archimedes 22/7; China 3,155; India 3,008, 3,1416, √10; al-Kashi's 3·2^28-gon and π = 3,1415926535897932 (16 correct digits); van Roomen, van Ceulen's 35 digits Taught corrected: al-Kashi's polygon is printed as 3·2^28 = 800335168 sides; the product is 805,306,368 (the π value printed with it is correct). | Uzbekistan, Geometriya, Grade 9 (Russian), printed p. 114 |
 
-**Acceptance count: taught in 33 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan).**.** Kazakhstan carries the full climb — circle Iran measures the circumference in Grade 5 — with the book's own bounds for π, 3 1/7 and 3 10/71, while its exercises work with π = 3 — the area of a circle in Grade 6, circle basics in Grade 8, and the circle's equation in Grade 12 Geometry (3).
+**Acceptance count: taught in 34 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan).**.** Kazakhstan carries the full climb — circle Iran measures the circumference in Grade 5 — with the book's own bounds for π, 3 1/7 and 3 10/71, while its exercises work with π = 3 — the area of a circle in Grade 6, circle basics in Grade 8, and the circle's equation in Grade 12 Geometry (3).
 parts in Grade 3, circle and disc in Grades 4 and 5, then the
 practical thread-and-glass discovery of pi with C = πD and the
 disc area in Grade 6. Jordan carries the parts in Grade 6 and

@@ -1,6 +1,6 @@
 # Sources — Functions
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan
+countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -173,6 +173,10 @@ CITATION CHECK PASSED 2026-11-05).
 **Book 103:** *МАТЕМАТИКА II* (Mathematics II — textbook for the second year of gymnasium education) — North Macedonia, Д-р Верица Бакева Смиљкова и проф. Горан Михајлоски (Dr Verica Bakeva Smilkova & Prof. Goran Mihajloski), АЛБИ (Albi), Skopje 2026, first edition, approval № 26-644/1 of 21.05.2026, ISBN 978-608-241-093-7. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 104:** *ریاضی, صنف ۸ (Mathematics, Grade 8)* — Afghanistan, Ministry of Education, Kabul (Dari); the book disagrees with itself on the year — 1399 HS on the cover and title page, 1398 HS on the specifications page — and both printings are carried as filed; no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 105:** *ریاضی صنف دهم (Mathematics, Grade 10)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 106:** *Algebra (Алгебра), Grade 8 student book* — Uzbekistan, Ministry of Public Education; Sh. A. Alimov, A. R. Halmuhamedov, M. A. Mirzaahmedov; Russian (Cyrillic); «O'qituvchi», Tashkent 2006, ISBN 5-645-04563-7. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 107:** *Algebra (Алгебра), Grade 9 student book* — Uzbekistan, Ministry of Public Education; Sh. A. Alimov, A. R. Halmuhamedov, M. A. Mirzaahmedov; Russian (Cyrillic); «O'qituvchi», Tashkent 2006, ISBN 5-645-04565-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -405,8 +409,25 @@ CITATION CHECK PASSED 2026-11-05).
 | Polynomial functions: linear (degree 1) function and graph | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 119–120 |
 | Quadratic function and its graph (parabola, vertex, axis of symmetry, discriminant) | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 121–128 |
 | Rational functions and their graphs; vertical, horizontal and oblique asymptotes | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 129–138 |
+| §2 concept of a function: variables, independent/dependent variable, notation y(x), function value Taught corrected: the text on p. 13 says 'for x = 5 corresponds x = 25'; the corresponding value is y = 25, as the book's own table on the same page shows. | Uzbekistan, Algebra, Grade 8 (Russian), printed pp. 11–13 |
+| §2 ways of giving a function: by formula (analytic), by table, by graph | Uzbekistan, Algebra, Grade 8 (Russian), printed pp. 13–16 |
+| §3 graph of y = kx is a straight line through the origin; constructing it from two points | Uzbekistan, Algebra, Grade 8 (Russian), printed pp. 17–21 |
+| §4 linear function y = kx + b and its graph; graph as a shift of y = kx by b | Uzbekistan, Algebra, Grade 8 (Russian), printed pp. 22–23 |
+| history of the function concept: Leibniz, Bernoulli, Lobachevsky, Dirichlet; Babylonian tables; al-Biruni | Uzbekistan, Algebra, Grade 8 (Russian), printed p. 30 |
+| §1 quadratic function y = ax² + bx + c defined; values of a quadratic function | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 5–6 |
+| §1 zeros of a quadratic function | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 6–7 |
+| §2 function y = x² and its graph, the parabola; symmetry about Oy, vertex, increasing on x ≥ 0 / decreasing on x ≤ 0 | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 7–8 |
+| §4 function y = ax² + bx + c: completing the square to y = a(x − x0)² + y0; shifts of the parabola along both axes | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 14–15 |
+| §5 algorithm for plotting a quadratic function (vertex, axis, zeros, symmetric points); reading properties off the graph | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 18–21 |
+| §14 domain of a function (область определения): all x for which the formula makes sense; domains of √x, 1/x, root-of-fraction examples | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 76–77 |
+| §15 power function y = x^r introduced; domains for integer, negative and fractional r | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 80–81 |
+| §15 equation x^r = b has exactly one positive root x = b^(1/r) (from monotonicity); the graph of y = x^(3/4) crosses every horizontal y = b > 0 | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 83–84 |
+| §16 even functions: y(−x) = y(x), graph symmetric about Oy (y = x², y = |x|, y = x⁴) | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 86–87 |
+| §16 odd functions: y(−x) = −y(x), graph symmetric about the origin (y = x³ built by symmetry, y = ∛x); functions that are neither | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 87–89 |
+| §17 properties of y = k/x for k > 0 and k < 0; shifted hyperbolas y = 2/(x−1) − 2 | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 91–93 |
+| history after Ch. IV: the word "function" from Latin functio, Leibniz; Babylonian S = 3r²; al-Biruni's Canon of Mas'ud on domains and extreme values | Uzbekistan, Algebra, Grade 9 (Russian), printed p. 104 |
 
-**Acceptance count: taught in 29 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan).**.** Egypt carries the
+**Acceptance count: taught in 30 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan).**.** Egypt carries the
 fullest build — Cartesian product, relation, function, domain
 and range in Preparatory 3; the sign of a function in
 Secondary 1; the inverse function in Grade 11 Pure. Jordan

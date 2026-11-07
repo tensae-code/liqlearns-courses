@@ -1,6 +1,6 @@
 # Sources — Algebraic Fractions
 
-countries: Malaysia, Sudan, Mongolia, North Macedonia
+countries: Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan
 
 Every part traces to its book and page.
 
@@ -13,6 +13,8 @@ Every part traces to its book and page.
 **Book 6:** *АЛГЕБРА ЗА ТРЕТА ГОДИНА НА РЕФОРМИРАНОТО ГИМНАЗИСКО ОБРАЗОВАНИЕ (ИЗБОРЕН ПРЕДМЕТ)* (Algebra for the third year of the reformed gymnasium education — elective subject) — North Macedonia, Глигор Тренчевски, Костадин Тренчевски, Билјана Крстеска и Снежана Здравеска (Gligor Trenchevski, Kostadin Trenchevski, Biljana Krsteska & Snezana Zdraveska), Просветно дело АД, IV издание (fourth edition); CIP record Skopje 2005, approval № 11-3867/1 of 15.07.2004, ISBN 9989-0-0387-4. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
 On Malaysia in this lesson: Malaysia's Form 2 book is the first in the read set to teach combining algebraic fractions as its own topic, inside its factorisation and algebraic fractions chapter. Number fractions live in the fractions lesson (Stage 4) and splitting a fraction into partial fractions is its own later lesson; this lesson is the combining direction, built from Malaysia's treatment under the everything-goes-in ruling.
+
+**Book 7:** *Algebra (Алгебра), Grade 8 student book* — Uzbekistan, Ministry of Public Education; Sh. A. Alimov, A. R. Halmuhamedov, M. A. Mirzaahmedov; Russian (Cyrillic); «O'qituvchi», Tashkent 2006, ISBN 5-645-04563-7. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -34,7 +36,9 @@ On Malaysia in this lesson: Malaysia's Form 2 book is the first in the read set 
 | Multi-step simplification with an explicit order-of-operations protocol | Mongolia, Математик X (Grade 10), printed p. 29 |
 
 | Fractional rational expressions in one variable; canonical form of a rational fraction | North Macedonia, Grade 12, Algebra, §4.11, printed p. 97 |
-**Acceptance count: taught in 4 countries (Malaysia, Sudan, Mongolia, North Macedonia).** Malaysia's Form 2 book carries the full treatment — LCM of terms, then addition and subtraction into a single fraction; the other read countries meet letter-fractions inside other algebra work without a named treatment, so this lesson is built at that honest size. North Macedonia enters from its main set — the Grade 12 Algebra elective.
+| revision: actions with algebraic fractions | Uzbekistan, Algebra, Grade 8 (Russian), printed p. 6 |
+| §35 fractional-rational equations reducible to quadratics; extraneous roots and the need to check | Uzbekistan, Algebra, Grade 8 (Russian), printed pp. 169–171 |
+**Acceptance count: taught in 5 countries (Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan).** Malaysia's Form 2 book carries the full treatment — LCM of terms, then addition and subtraction into a single fraction; the other read countries meet letter-fractions inside other algebra work without a named treatment, so this lesson is built at that honest size. North Macedonia enters from its main set — the Grade 12 Algebra elective.
 
 Sudan teaches algebraic fractions in Grade 10: simplifying, adding and subtracting, and multiplying and dividing with cancellation.
 
