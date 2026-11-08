@@ -1,6 +1,6 @@
 # Sources — Numerals of the World
 
-countries: Bangladesh, Cambodia, Ethiopia, Jordan, Kazakhstan, Laos, Nepal, Sierra Leone, South Africa, South Sudan, Vietnam, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan
+countries: Bangladesh, Cambodia, Ethiopia, Jordan, Kazakhstan, Laos, Nepal, Sierra Leone, South Africa, South Sudan, Vietnam, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Barbados
 
 Every part traces to its book and page.
 
@@ -43,6 +43,12 @@ Every part traces to its book and page.
 
 **Book 31:** *Математика* (Mathematics, pupil's book) — Tajikistan, А. Шарифзода (A. Sharifzoda), Маориф (Maorif), Dushanbe 2022, ISBN 978-99947-1-301-1 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED). Held-copy defect: its PDF p. 291 duplicates printed p. 278 — the true printed p. 291 is absent from the held copy and is cited nowhere.
 
+**Book 32:** *Primary Mathematics Syllabus — Class 1* (curriculum document) — Barbados, Ministry of Education and Human Resource Development. Curriculum evidence only: the syllabus states what is required at Class 1; it teaches nothing itself. No edition or year is printed in the document. Filed in maths/books/barbados.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 33:** *Primary Mathematics Syllabus — Class 2* (curriculum document) — Barbados, Ministry of Education and Human Resource Development. Curriculum evidence only: the syllabus states what is required at Class 2; it teaches nothing itself. No edition or year is printed in the document. Filed in maths/books/barbados.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 34:** *Primary Mathematics Syllabus — Class 3* (curriculum document) — Barbados, Ministry of Education and Human Resource Development. Curriculum evidence only: the syllabus states what is required at Class 3; it teaches nothing itself. No edition or year is printed in the document. Filed in maths/books/barbados.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Roman numerals I, V, X, L, C, D, M with repetition and subtraction rules; conversion both ways, exercises up to MMMCMXCIX | Laos, Grade 6 student book (2010), L1 Natural numbers, printed pp.1–9 |
@@ -84,6 +90,9 @@ Every part traces to its book and page.
 | Roman numerals: the seven letters and values I 1 to M 1 000; additive and subtractive rules; repetition limits; overbar ×1 000 | Ecuador, Matemática, Grade 7 student book, printed pp. 30-34 |
 | Read and write Roman numerals to 1 000 and beyond; correct malformed numerals (XIIII, VL, CCMXXXII) | Ecuador, Matemática, Grade 7 student book, printed pp. 31-34 |
 | Convert Roman numerals to naturals (review inside Tema 6) | Ecuador, Matemática, Grade 7 student book, printed p. 47 |
+| Barbados's Class 1 syllabus requires: read and write Roman numerals up to 12 | Barbados, Primary Mathematics Syllabus, Class 1 (curriculum evidence), printed p. 9 |
+| Barbados's Class 2 syllabus requires: read and write Roman numerals up to 50 | Barbados, Primary Mathematics Syllabus, Class 2 (curriculum evidence), printed p. 17 |
+| Barbados's Class 3 syllabus requires: Roman numerals up to 1000, read and write (body only; not in the Attainment Targets) | Barbados, Primary Mathematics Syllabus, Class 3 (curriculum evidence), printed p. 9 (PDF p. 17) |
 **Acceptance count: taught in 22 countries (Bangladesh, Cambodia, Ethiopia, Jordan, Kazakhstan, Laos, Nepal, Sierra Leone, South Africa, South Sudan, Vietnam, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan).** Laos carries Roman numerals at full strength in Grade 6 — all seven signs, both rules, conversions to MMMCMXCIX — and its own Lao digits in Grade 1. Ethiopia carries its own Ge'ez numerals, from 1–10 in Grade 3 to counting numerals to 100 in Grade 4. Nepal carries the three-script matching (Devanagari, Hindu-Arabic, Roman) in Grade 2 and the lakh reading of Devanagari-digit numbers in Grade 3. Bangladesh carries the South Asian naming ladder whole: ayut and lakh in Class 3, ajut, lac, nijut and crore with the 1,00,000 grouping in Class 4, and Roman rules in Class 6. Cambodia carries Khmer numeral writing with stroke order in Grade 1 and the "saen" name for 100,000 in Grade 4. South Africa carries ancient Egyptian numerals as a working system in its Grade 5 and Grade 6 workbooks. Jordan carries the Hindi/Indian digits as a named Grade 3 lesson. Sierra Leone carries Roman numerals from clocks to conversions to 100 in JSS 3. South Sudan carries the Roman 1–50 table in Primary 5. Vietnam carries Roman numerals as a "getting to know" introduction only, as filed. Kazakhstan carries Roman, Egyptian and old Slavic numerals as extra reading only, optional as filed. North Macedonia enters from its main set — Grade 6 (2023).
 
 Rwanda names the Hindu-Arabic, Roman and Chinese numeral systems as three common systems, with the ten Hindu-Arabic digits 0–9, in P4.
@@ -102,3 +111,5 @@ Afghanistan enters through its Ministry of Education course — the Grade 1 cour
 Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 6 (teacher's book): Opener + 1A: counting systems of other cultures; symbols and number systems (unit 1A, plans 1–3).
 
 Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyrillic), all published in Dushanbe — Математика for Grade 5 (Маориф, 2022) and Grade 6 (5th edition, Маориф, 2021), Алгебра for Grades 7 (4th improved edition, 2023) and 8 (4th edition, 2023), and Геометрия — the continuation of stereometry — for Grade 11 (3rd edition, Лавҳ, 2020). From its books: from Grade 5: Large-number names in powers of ten (million to the largest named powers).
+
+Barbados enters as CURRICULUM EVIDENCE only, through the *Primary Mathematics Syllabus* (Classes 1–4) of its Ministry of Education and Human Resource Development — its Class 1 syllabus requires Roman numerals up to 12, Class 2 Roman numerals up to 50, and Class 3 (in the body only) Roman numerals up to 1000. A syllabus states what is to be taught, in what order and to what depth; it teaches nothing itself. Barbados publishes no government pupil textbooks — primary mathematics books are commercial titles parents buy, and the syllabi's Suggested Texts appendices name them (*Caribbean Primary Mathematics* Levels 1–6; *Nelson Primary Maths for Caribbean Schools* 1–4; *Steps To Common Entrance Mathematics* 1–3) as named by the syllabus only: none is in hand and none is cited. Barbados is therefore named in this lesson's countries line and its syllabus requirements are cited in the table as curriculum evidence, but Barbados is not counted in the taught-in figure.

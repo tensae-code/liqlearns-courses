@@ -1,6 +1,6 @@
 # Sources — Symmetry
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, India, Mongolia, Venezuela, Afghanistan, Ecuador, Albania, Tajikistan
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, India, Mongolia, Venezuela, Afghanistan, Ecuador, Albania, Tajikistan, Barbados
 
 Every part traces to its book and page.
 
@@ -213,6 +213,14 @@ READ + CITATION CHECK PASSED 2026-11-05).
 
 **Book 96:** *Геометрия (давоми стереометрия)* (Geometry — continuation of stereometry, pupil's book) — Tajikistan, Боймурод Алиев (Boymurod Aliev), 3rd edition, ҶДММ «Лавҳ» (Lavh), Dushanbe 2020, ISBN 978-99975-1-251-2 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 97:** *Primary Mathematics Syllabus — Class 1* (curriculum document) — Barbados, Ministry of Education and Human Resource Development. Curriculum evidence only: the syllabus states what is required at Class 1; it teaches nothing itself. No edition or year is printed in the document. Filed in maths/books/barbados.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 98:** *Primary Mathematics Syllabus — Class 2* (curriculum document) — Barbados, Ministry of Education and Human Resource Development. Curriculum evidence only: the syllabus states what is required at Class 2; it teaches nothing itself. No edition or year is printed in the document. Filed in maths/books/barbados.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 99:** *Primary Mathematics Syllabus — Class 3* (curriculum document) — Barbados, Ministry of Education and Human Resource Development. Curriculum evidence only: the syllabus states what is required at Class 3; it teaches nothing itself. No edition or year is printed in the document. Filed in maths/books/barbados.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 100:** *Primary Mathematics Syllabus — Class 4* (curriculum document) — Barbados, Ministry of Education and Human Resource Development. Curriculum evidence only: the syllabus states what is required at Class 4; it teaches nothing itself. No edition or year is printed in the document. Filed in maths/books/barbados.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Introduction to symmetry: folding and mirror completion (ch.56, Unit 8, printed pp.53–66) | Greece, Grade 1 Teuxos B, ch.56 |
@@ -352,6 +360,10 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Lines of symmetry of monuments and artefacts; completing figures by successive symmetries | Ecuador, Matemática, Grade 8 student book, printed pp. 121, 123 |
 | Lines of symmetry; completing figures by symmetries (shared core) | Ecuador, Matemática, Grade 9 student book, printed pp. 125, 127 |
 | Lines of symmetry; completing figures by symmetries (shared core) | Ecuador, Matemática, Grade 10 student book, printed pp. 121, 123 |
+| Barbados's Class 1 syllabus requires: identify lines of symmetry | Barbados, Primary Mathematics Syllabus, Class 1 (curriculum evidence), printed p. 16 |
+| Barbados's Class 2 syllabus requires: identify and construct lines of symmetry for various shapes | Barbados, Primary Mathematics Syllabus, Class 2 (curriculum evidence), printed p. 23 |
+| Barbados's Class 3 syllabus requires: lines of symmetry of a given shape (Scope 7.0.5) | Barbados, Primary Mathematics Syllabus, Class 3 (curriculum evidence), printed p. 5 (PDF p. 13) |
+| Barbados's Class 4 syllabus requires: lines of symmetry (Scope 7.0.5) | Barbados, Primary Mathematics Syllabus, Class 4 (curriculum evidence), printed p. 5 (PDF p. 13) |
 
 **Acceptance count: taught in 35 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, India, Mongolia, Venezuela, Afghanistan, Ecuador, Albania, Tajikistan).**.** Greece carries symmetry from the very start Iran completes the missing halves of pictures in Grade 1, folds and mirrors shapes in Grade 2, names axial and central symmetry in Grade 5, and adds the centre of symmetry and rotation in Grade 6.
 — folding and mirror completion in Grade 1, the fold-along-the-
@@ -399,3 +411,5 @@ Afghanistan enters through its Ministry of Education course — the Grade 1 cour
 Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 1 (teacher's book): Symmetry: recognise lines of symmetry with mirrors; the line the mirror sits on is the line of symmetry;…. from Grade 5 (teacher's book): Symmetry and the axis of symmetry; symmetry on the coordinate grid.
 
 Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyrillic), all published in Dushanbe — Математика for Grade 5 (Маориф, 2022) and Grade 6 (5th edition, Маориф, 2021), Алгебра for Grades 7 (4th improved edition, 2023) and 8 (4th edition, 2023), and Геометрия — the continuation of stereometry — for Grade 11 (3rd edition, Лавҳ, 2020). From its books: from Grade 11: Centre, axis and plane of symmetry of a solid defined; Symmetry in nature, crystals and architecture (introductory examples); Axes of symmetry of a cuboid: three mutually perpendicular axes through the centre; Planes of symmetry of a cuboid: 3 in general; Exercise set: counting axes and planes of symmetry of regular triangular/quadrilateral…; Theorem 19 (proved): every diametral plane of a ball is a plane of symmetry, and the…
+
+Barbados enters as CURRICULUM EVIDENCE only, through the *Primary Mathematics Syllabus* (Classes 1–4) of its Ministry of Education and Human Resource Development — its syllabi require lines of symmetry at every class: identifying them at Class 1, identifying and constructing them for various shapes at Class 2, and the lines of symmetry of a given shape in the scope and sequence at Classes 3 and 4. A syllabus states what is to be taught, in what order and to what depth; it teaches nothing itself. Barbados publishes no government pupil textbooks — primary mathematics books are commercial titles parents buy, and the syllabi's Suggested Texts appendices name them (*Caribbean Primary Mathematics* Levels 1–6; *Nelson Primary Maths for Caribbean Schools* 1–4; *Steps To Common Entrance Mathematics* 1–3) as named by the syllabus only: none is in hand and none is cited. Barbados is therefore named in this lesson's countries line and its syllabus requirements are cited in the table as curriculum evidence, but Barbados is not counted in the taught-in figure.

@@ -1,6 +1,6 @@
 # Sources — Types of Lines
 
-countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine
+countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados
 
 Every part traces to its book and page.
 
@@ -53,6 +53,14 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 
 **Book 33:** *Геометрия (давоми стереометрия)* (Geometry — continuation of stereometry, pupil's book) — Tajikistan, Боймурод Алиев (Boymurod Aliev), 3rd edition, ҶДММ «Лавҳ» (Lavh), Dushanbe 2020, ISBN 978-99975-1-251-2 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 34:** *الرياضيات (Mathematics), Grade 1 pupil's book, Part Two* — Palestine, Ministry of Education and Higher Education (State of Palestine), Curriculum Centre, Ramallah, fourth edition 2020 CE / 1441 AH (Arabic). No ISBN printed. Filed in maths/books/palestine.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 35:** *Primary Mathematics Syllabus — Class 1* (curriculum document) — Barbados, Ministry of Education and Human Resource Development. Curriculum evidence only: the syllabus states what is required at Class 1; it teaches nothing itself. No edition or year is printed in the document. Filed in maths/books/barbados.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 36:** *Primary Mathematics Syllabus — Class 2* (curriculum document) — Barbados, Ministry of Education and Human Resource Development. Curriculum evidence only: the syllabus states what is required at Class 2; it teaches nothing itself. No edition or year is printed in the document. Filed in maths/books/barbados.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 37:** *Primary Mathematics Syllabus — Class 3* (curriculum document) — Barbados, Ministry of Education and Human Resource Development. Curriculum evidence only: the syllabus states what is required at Class 3; it teaches nothing itself. No edition or year is printed in the document. Filed in maths/books/barbados.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 38:** *Primary Mathematics Syllabus — Class 4* (curriculum document) — Barbados, Ministry of Education and Human Resource Development. Curriculum evidence only: the syllabus states what is required at Class 4; it teaches nothing itself. No edition or year is printed in the document. Filed in maths/books/barbados.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -152,6 +160,12 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 | Rectas en el plano: parallel (never meet), perpendicular (90°), secant (cuts two or more lines) | Bolivia, Texto de Aprendizaje, Grade 8 (2° de Secundaria), Área Matemática (student book), printed p. 134 |
 | Straightness and curvature: straight edge vs curved edge in real objects (dome, door, clothesline) | Palestine, Mathematics (Grade 1, Part Two), printed p. 86 |
 | The straight segment and the curve named; count straight pieces in a figure | Palestine, Mathematics (Grade 1, Part Two), printed p. 87 |
+| Barbados's Class 1 syllabus requires: identify a line, a line segment, a point and a ray; identify and distinguish horizontal and vertical lines | Barbados, Primary Mathematics Syllabus, Class 1 (curriculum evidence), printed p. 16 |
+| Barbados's Class 2 syllabus requires: identify and draw lines that are horizontal, vertical, parallel, perpendicular and intersecting | Barbados, Primary Mathematics Syllabus, Class 2 (curriculum evidence), printed p. 22 |
+| Barbados's Class 3 syllabus requires: line, point, ray and line segment (Scope 7.0.3) | Barbados, Primary Mathematics Syllabus, Class 3 (curriculum evidence), printed p. 5 (PDF p. 13) |
+| Barbados's Class 3 syllabus requires: types of lines — in the body: parallel, perpendicular, intersecting pairs (Scope 7.0.4) | Barbados, Primary Mathematics Syllabus, Class 3 (curriculum evidence), printed p. 5 (PDF p. 13) |
+| Barbados's Class 4 syllabus requires: line, point, ray and line segment — in the body: line segment, line, ray, angle, vertex defined (Scope 7.0.3) | Barbados, Primary Mathematics Syllabus, Class 4 (curriculum evidence), printed p. 5 (PDF p. 13) |
+| Barbados's Class 4 syllabus requires: types of lines (horizontal, parallel, etc.) (Scope 7.0.4) | Barbados, Primary Mathematics Syllabus, Class 4 (curriculum evidence), printed p. 5 (PDF p. 13) |
 
 **Acceptance count: taught in 12 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine).** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; no other read country gives line types a named treatment of their own, so this lesson is built at that honest size — a small lesson, complete for what its one source teaches. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
 
@@ -171,3 +185,5 @@ Bolivia enters through the Área Matemática sections of its Ministerio de Educa
 Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyrillic), all published in Dushanbe — Математика for Grade 5 (Маориф, 2022) and Grade 6 (5th edition, Маориф, 2021), Алгебра for Grades 7 (4th improved edition, 2023) and 8 (4th edition, 2023), and Геометрия — the continuation of stereometry — for Grade 11 (3rd edition, Лавҳ, 2020). From its books: from Grade 5: Segment, its endpoints and length; Plane, straight line (one line through two points), ray and its origin; from Grade 6: Axioms linking point, line and plane; Perpendicular lines (⊥), constructing perpendiculars with the set square; Parallel lines: definition, constructions with ruler and set square, distance between…; Historical note: Thales, Euclid's Elements and the parallel postulate; from Grade 11: History of geometry, part 3: the medieval East; History of geometry, part 5: the fifth postulate.
 
 Palestine enters through the pupil's books of its Ministry of Education (Curriculum Centre, Ramallah), all in Arabic — Mathematics Grade 1 in two parts (both fourth edition, 2020), Grade 10 in two parts (Part One third edition, 2020; Part Two second edition, 2019 — the held parts are different editions and are cited as such), and the Grade 12 Technological-stream book (التكنولوجي, first edition, 2019 — the book's own name for its stream, never "Information Technology"). No ISBN is printed in any of the five books. From its books: from Grade 1 Part Two: straightness and curvature: straight edge vs curved edge in real objects (dome, door, clothesline); the straight segment and the curve named; count straight pieces in a figure.
+
+Barbados enters as CURRICULUM EVIDENCE only, through the *Primary Mathematics Syllabus* (Classes 1–4) of its Ministry of Education and Human Resource Development — its Class 1 syllabus requires identifying a line, a line segment, a point and a ray, and distinguishing horizontal and vertical lines; Class 2 adds drawing lines that are horizontal, vertical, parallel, perpendicular and intersecting; Classes 3 and 4 keep the line, point, ray and line segment and the types of lines in the scope and sequence — Class 4's body defines the line segment, line, ray, angle and vertex together. A syllabus states what is to be taught, in what order and to what depth; it teaches nothing itself. Barbados publishes no government pupil textbooks — primary mathematics books are commercial titles parents buy, and the syllabi's Suggested Texts appendices name them (*Caribbean Primary Mathematics* Levels 1–6; *Nelson Primary Maths for Caribbean Schools* 1–4; *Steps To Common Entrance Mathematics* 1–3) as named by the syllabus only: none is in hand and none is cited. Barbados is therefore named in this lesson's countries line and its syllabus requirements are cited in the table as curriculum evidence, but Barbados is not counted in the taught-in figure.

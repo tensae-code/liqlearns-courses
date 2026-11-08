@@ -1,6 +1,6 @@
 # Sources — Even and Odd Numbers
 
-countries: India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan
+countries: India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Barbados
 
 Every part traces to its book and page.
 
@@ -28,6 +28,14 @@ Every part traces to its book and page.
 **Book 16:** *Математика* (Mathematics, pupil's book) — Tajikistan, А. Шарифзода (A. Sharifzoda), Маориф (Maorif), Dushanbe 2022, ISBN 978-99947-1-301-1 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED). Held-copy defect: its PDF p. 291 duplicates printed p. 278 — the true printed p. 291 is absent from the held copy and is cited nowhere.
 
 **Book 17:** *Математика* (Mathematics, pupil's book) — Tajikistan, А. Шарифзода (A. Sharifzoda) and Н. Қодиров (N. Qodirov), 5th edition with changes and additions, Маориф (Maorif), Dushanbe 2021, ISBN 978-99947-1-558-9 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 18:** *Primary Mathematics Syllabus — Class 1* (curriculum document) — Barbados, Ministry of Education and Human Resource Development. Curriculum evidence only: the syllabus states what is required at Class 1; it teaches nothing itself. No edition or year is printed in the document. Filed in maths/books/barbados.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 19:** *Primary Mathematics Syllabus — Class 2* (curriculum document) — Barbados, Ministry of Education and Human Resource Development. Curriculum evidence only: the syllabus states what is required at Class 2; it teaches nothing itself. No edition or year is printed in the document. Filed in maths/books/barbados.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 20:** *Primary Mathematics Syllabus — Class 3* (curriculum document) — Barbados, Ministry of Education and Human Resource Development. Curriculum evidence only: the syllabus states what is required at Class 3; it teaches nothing itself. No edition or year is printed in the document. Filed in maths/books/barbados.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 21:** *Primary Mathematics Syllabus — Class 4* (curriculum document) — Barbados, Ministry of Education and Human Resource Development. Curriculum evidence only: the syllabus states what is required at Class 4; it teaches nothing itself. No edition or year is printed in the document. Filed in maths/books/barbados.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -64,6 +72,10 @@ Every part traces to its book and page.
 | even numbers defined as numbers divisible by 2; odd numbers as numbers not divisible by 2 | Uzbekistan, Matematika, Grade 2 (Russian), printed p. 160 |
 | Topic 26: even numbers (multiples of 2, 0 counted even, last digit 0/2/4/6/8) and odd numbers | Uzbekistan, Matematika, Grade 5 (Russian), printed p. 95 |
 | Even and odd numbers by pairing: group elements in twos; the one left over makes it odd (worked with 456, 3, 7) | Ecuador, Matemática (Talento matemático 3), Grade 3 student book, printed pp. 50–51 |
+| Barbados's Class 1 syllabus names only: odd/even numbers, named in the Scope and Sequence (2.0.9) with no Class 1 body objective (named only) | Barbados, Primary Mathematics Syllabus, Class 1 (curriculum evidence — named only, as marked), printed p. 1 |
+| Barbados's Class 2 syllabus requires: classify numbers as odd or even | Barbados, Primary Mathematics Syllabus, Class 2 (curriculum evidence), printed p. 17 |
+| Barbados's Class 3 syllabus requires: odd/even numbers (Scope 2.0.9) | Barbados, Primary Mathematics Syllabus, Class 3 (curriculum evidence), printed p. 1 (PDF p. 9) |
+| Barbados's Class 4 syllabus requires: odd/even numbers (Scope 2.0.9) | Barbados, Primary Mathematics Syllabus, Class 4 (curriculum evidence), printed p. 1 (PDF p. 9) |
 
 **Acceptance count: taught in 9 countries (India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan).** India's Class 3 Math-Magic book is the one read book that gives even and odd numbers a named treatment of their own — defined by the last digit (even ends 0, 2, 4, 6, 8; odd ends 1, 3, 5, 7, 9), hunted in ranges (odds between 400 and 410, evens between 155 and 165), and finished with the adding rules (odd + 1 = even, even + 1 = odd, and the question even + odd left for the learner to settle) — so under the everything-goes-in ruling (2026-11-06) the topic gets its own lesson, built at the size of its source. The pairing way of meeting even and odd (pairing pictured objects, classifying sums) already lives inside the counting lesson from Egypt, North Macedonia and Pakistan (Punjab), and India's own Class 10 book returns to even and odd integers in proved form (every even integer is 2q, odd integers are 4q + 1 or 4q + 3, from Euclid's division lemma), stocked in factors-multiples-and-primes. Nothing here is cited from the Class 3 book's planted find-the-mistake pages (printed pp. 83, 196) — those are subtraction and money exercises, filed in their own lessons as the deliberate-error teaching they are. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023) and Grade 4 (2023).
 
@@ -77,3 +89,5 @@ Afghanistan enters through its Ministry of Education course — the Grade 1 cour
 Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 1 (teacher's book): Even and odd numbers: number sequences, counting in ones, twos, threes; doubling, halving, adding one more to…; Chapter opener, Diskuto: count in twos recognising odd/even to 20 as "every other number"; doubles to 5,…; Odd and even numbers: count in twos to 20; even numbers pair up exactly, odd numbers have one left over; "I…; Double of 3 is 6, half of 8 is 4, double of 2 checked by counting on (pupil book p. 80); Count in twos, doubles and halves, near doubles; fact for 13: 13 is double 6 plus 1 and 13 is odd; near…. from Grade 5 (teacher's book): Even and odd factors/numbers; Odd and even numbers (term 3 revision set).
 
 Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyrillic), all published in Dushanbe — Математика for Grade 5 (Маориф, 2022) and Grade 6 (5th edition, Маориф, 2021), Алгебра for Grades 7 (4th improved edition, 2023) and 8 (4th edition, 2023), and Геометрия — the continuation of stereometry — for Grade 11 (3rd edition, Лавҳ, 2020). From its books: from Grade 5: Even and odd numbers defined by the last digit; from Grade 6: Divisibility test for 2.
+
+Barbados enters as CURRICULUM EVIDENCE only, through the *Primary Mathematics Syllabus* (Classes 1–4) of its Ministry of Education and Human Resource Development — odd and even numbers are named only in its Class 1 scope and sequence (item 2.0.9), with no Class 1 body objective; its Class 2 syllabus requires classifying numbers as odd or even in the body, and Classes 3 and 4 keep odd/even numbers in the scope and sequence. A syllabus states what is to be taught, in what order and to what depth; it teaches nothing itself. Barbados publishes no government pupil textbooks — primary mathematics books are commercial titles parents buy, and the syllabi's Suggested Texts appendices name them (*Caribbean Primary Mathematics* Levels 1–6; *Nelson Primary Maths for Caribbean Schools* 1–4; *Steps To Common Entrance Mathematics* 1–3) as named by the syllabus only: none is in hand and none is cited. Barbados is therefore named in this lesson's countries line and its syllabus requirements are cited in the table as curriculum evidence, but Barbados is not counted in the taught-in figure.
