@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Barycentres
 
-**Course:** Maths · **Stage:** Stage 12 — Advanced Mathematics · **Lesson:** Barycentres
-**Place in the curriculum:** Level 98 of 136, Stage 12 — Advanced Mathematics (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 12 — Advanced Mathematics · **Lesson:** Barycentres
+**Place in the curriculum:** Level 98 of 136, Unit 12 — Advanced Mathematics (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** barycentres — the balance point of weighted points: the barycentre of two points, of a system of points, its vector condition and coordinates, grouping (associativity), and the centroid of a triangle as the equal-weights case.
 **This lesson's own level:** it stands on the vectors lesson and the coordinates lesson — the learner can already use position vectors and coordinates. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Barycentre of Two Points** — the barycentre of two weighted points: the vector condition, the coordinates, and why it sits nearer the heavier point. (Was depth Level 1.)
+2. **A System of Points and Grouping** — a system of weighted points, and grouping: build the barycentre in stages and reach the same point. (Was depth Level 2.)
+3. **The Centroid and the Balance Point** — the centroid of a triangle as the equal-weights case, and the barycentre as a balance point. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the vectors lesson (the barycentre is defined by a vector equation). Recommended, never forced.

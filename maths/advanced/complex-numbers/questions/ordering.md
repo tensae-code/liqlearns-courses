@@ -1,12 +1,14 @@
 # Complex Numbers — ordering
 
+Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — The Imaginary Unit and a + bi · (Level 2) -> Sub lesson 2 — Operations and Conjugates · (Level 3) -> Sub lesson 3 — Trigonometric Form, De Moivre and Loci.
+
 Put each set in order, as the question says.
 
-**1. (Level 1)** Order these powers of i from first in the cycle: i³, i¹, i⁴, i².
+**1. (Sub lesson 1)** Order these powers of i from first in the cycle: i³, i¹, i⁴, i².
 **Answer:** i¹ = i, i² = −1, i³ = −i, i⁴ = 1.
 
-**2. (Level 2)** Order these moduli from smallest to largest: |3 + 4i|, |1 + i|, |5|, |0 + 2i|.
+**2. (Sub lesson 2)** Order these moduli from smallest to largest: |3 + 4i|, |1 + i|, |5|, |0 + 2i|.
 **Answer:** |1 + i| = √2 ≈ 1.41, |0 + 2i| = 2, |3 + 4i| = 5, |5| = 5 — the last two tie at 5.
 
-**3. (Level 3)** Order the steps for dividing (2 + 3i) by (1 − i): multiply top and bottom by (1 + i); simplify the bottom to 2; divide each part by 2.
+**3. (Sub lesson 3)** Order the steps for dividing (2 + 3i) by (1 − i): multiply top and bottom by (1 + i); simplify the bottom to 2; divide each part by 2.
 **Answer:** Multiply top and bottom by (1 + i); simplify the bottom to 2; divide each part by 2 — giving (−1 + 5i)/2.

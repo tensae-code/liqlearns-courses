@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Complex Numbers
 
-**Course:** Maths · **Stage:** Stage 12 — Advanced Mathematics · **Lesson:** Lesson 47 of 52
-**Place in the curriculum:** Stage 12, the second lesson of the stage (CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 12 — Advanced Mathematics · **Lesson:** Lesson 47 of 52
+**Place in the curriculum:** Unit 12, the second lesson of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** complex numbers — the imaginary unit, operating with complex numbers, and their geometry
 
 A lesson plan also says **what goes on top of the lesson**: at the
@@ -12,6 +14,18 @@ with it**. The words carry the picture while the course is built and
 while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Imaginary Unit and a + bi** — the imaginary unit i and the form a + bi, with powers of i. (Was depth Level 1.)
+2. **Operations and Conjugates** — adding, subtracting, multiplying and dividing complex numbers, and conjugates. (Was depth Level 2.)
+3. **Trigonometric Form, De Moivre and Loci** — modulus and argument, the trigonometric form, De Moivre, and loci. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the quadratic-equations lesson (some quadratics have no real roots) and the logarithms lesson (a new number system, learned the same way). Recommended, never forced.

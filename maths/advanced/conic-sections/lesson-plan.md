@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Conic Sections
 
-**Course:** Maths · **Stage:** Stage 12 — Advanced Mathematics · **Lesson:** Conic Sections
-**Place in the curriculum:** Level 90 of 136, in Stage 12 — Advanced Mathematics (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 12 — Advanced Mathematics · **Lesson:** Conic Sections
+**Place in the curriculum:** Level 90 of 136, in Unit 12 — Advanced Mathematics (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** the three conic sections — parabola, ellipse and hyperbola — as loci defined by a focus and a directrix with eccentricity e, with their standard and translated equations, elements and asymptotes.
 **This lesson's own level:** it stands on coordinate geometry (the distance formula, the equation of a line and of a circle) and on loci. It needs nothing from calculus.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Cone, the Locus Definition and the Parabola** — the cone cuts, the one locus definition MF/MH = e, and the parabola. (Was depth Level 1.)
+2. **The Ellipse and the Hyperbola** — the ellipse and the hyperbola, with their foci, vertices, eccentricity and asymptotes. (Was depth Level 2.)
+3. **Moving, Turning and Classifying Conics** — translated and rotated conics, tangents and normals, and classifying a conic from its general equation. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: coordinate geometry and the circle's equation (a conic is a locus written in coordinates), and loci (each conic is first a moving-point rule, then an equation). Recommended, never forced.

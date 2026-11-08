@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Analytic Geometry in Space
 
-**Course:** Maths · **Stage:** Stage 12 — Advanced Mathematics · **Lesson:** Analytic Geometry in Space
-**Place in the curriculum:** Level 92 of 136, in Stage 12 — Advanced Mathematics (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 12 — Advanced Mathematics · **Lesson:** Analytic Geometry in Space
+**Place in the curriculum:** Level 92 of 136, in Unit 12 — Advanced Mathematics (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** coordinates and vectors in space — the 3-D coordinate system and its octants, distance in space, direction cosines, the dot, cross and mixed products, and the equations of lines and planes in space.
 **This lesson's own level:** it stands on plane vectors and coordinates, and on the synthetic geometry of lines and planes in space (Level 91) — the learner can already work with vectors in a plane and knows what a line and a plane in space are. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Coordinates, Octants and Distance in Space** — the 3-D coordinate system and its octants, and distance in space. (Was depth Level 1.)
+2. **Vectors in Space and Their Products** — vectors in space with i, j, k, and the dot, cross and mixed products. (Was depth Level 2.)
+3. **Equations of Lines and Planes in Space** — the equations of lines and planes in space, and the angle between a line and a plane. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: vectors in the plane (a vector in space is the same idea with one more component), and geometry in space, Level 91 (the synthetic positions of lines and planes that this lesson now measures). Recommended, never forced.
