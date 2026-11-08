@@ -29,7 +29,7 @@ says CAN YOU, the high rung says COULD YOU / WOULD YOU
 MIND — point at the rung that fits your teacher, then the
 rung that fits your best friend, before you read on]
 
-## Then the explanation
+## Sub lesson 1 — The casual rung, Can you and Will you
 A **request** asks someone to do something for you. English
 does not have one request shape — it has a **ladder**, and
 Cambodia's Grade 8 book states the rungs in its own notes.
@@ -40,6 +40,7 @@ requests, and practises them inside family help: a barbecue,
 exam preparation at school. To a friend, "Can you help me?"
 is warm and right. Nothing is missing.
 
+## Sub lesson 2 — The formal rung, Could you and Would you mind
 **The formal rung — for teachers, elders, strangers.**
 "Could you…?" "Would you…?" "Would you mind…?" Cambodia
 names these the formal requests, and its formal story is a
@@ -50,6 +51,7 @@ Note the verb's coat after *mind*: it wears **-ing** —
 whole unit (Unit 8, "Helping family and friends") is built
 on the climb: casual at home, formal at the wedding.
 
+## Sub lesson 3 — Please and thank you
 **Please, and thank you.** *Please* sits inside the request
 or at its end. Cambodia's Grade 10 requests unit gives the
 model: "Could you pass me that knife, please?" — and its
@@ -57,6 +59,7 @@ teacher's book adds the listening focus: *please* in
 requests, *thank you* in accepting. A request without please
 is a shoe without softness: it walks, but it rubs.
 
+## Sub lesson 4 — Choosing the rung
 **The ladder in other books.** Malaysia's Form 1 book mines
 a telephone conversation for its polite formulae for
 requesting (Chapter 2) — the same rungs, learned from a

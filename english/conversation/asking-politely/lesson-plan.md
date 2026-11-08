@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — Asking politely
 
 **Course:** English · **Title:** Conversation · **Lesson:** Asking politely
-**Place in the curriculum:** Level 5, "Conversation" (CURRICULUM.md).
+**Place in the curriculum:** Unit 5 — Conversation (CURRICULUM.md).
 **The one thing this lesson teaches:** asking politely — the
 request ladder: casual requests with "Can you…? / Will
 you…?", formal requests with "Could you…? / Would you…? /
@@ -12,6 +14,19 @@ help casually; ask a teacher, an elder or a stranger
 formally; soften any request with please; and sort a mixed
 set of requests onto the right rungs, the way Cambodia's
 books set the sorting task.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The casual rung, Can you and Will you** — what a request is, and the ladder's casual rung — "Can you…? / Will you…?" for friends and family. The opening paragraph previews the whole ladder, so it overlaps Sub lessons 2–4. (Was depth Level 1.)
+2. **The formal rung, Could you and Would you mind** — "Could you…? / Would you…? / Would you mind…?" for teachers, elders and strangers — with the -ing after mind, every time. (Was depth Level 2.)
+3. **Please and thank you** — please inside the request or at its end; thank you in accepting — Cambodia's Grade 10 model line lives here. (Was the seasoning of depth Levels 1 and 3, taught as its own part.)
+4. **Choosing the rung** — the ladder in other books (Malaysia's telephone formulae, Syria's two rungs in one line), and the skill itself: hear the request, name its rung, match it to its hearer. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - If you know Making offers, this will feel easier — a
